@@ -65,7 +65,7 @@ collections:
                   picker_utc: false
                 - label: Tags
                   name: tags
-                  widget: relation
+                  widget: list
                   collection: tags
                   search_fields:
                       - title
