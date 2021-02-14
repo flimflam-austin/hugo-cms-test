@@ -1,82 +1,684 @@
 backend:
-  name: git-gateway
+    name: git-gateway
+publish_mode: editorial_workflow
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
-collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "site/content/post" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - name: "pages"
-    label: "Pages"
-    files:
-      - file: "site/content/_index.md"
-        label: "Home Page"
-        name: "home"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: "Blurb", name: blurb, widget: object, fields: [
-              {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Intro", name: intro, widget: object, fields: [
-              {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Products", name: products, widget: list, fields: [
-              {label: "Image", name: "image", widget: "image"},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Values", name: "values", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
-      - file: "site/content/contact/_index.md"
-        label: "Contact Page"
-        name: "contact"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Logo, name: logo, widget: image}
-          - {label: Body, name: body, widget: markdown}
-          - label: Contact Entries
-            name: contact_entries
+collections:
+    - label: Tags
+      name: tags
+      folder: site/content/tags
+      create: true
+      fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+    - label: Card Categories
+      name: card_categories
+      folder: site/content/card_categories
+      create: true
+      fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+    - label: Video Posts
+      name: video_posts
+      slug: "{{year}}--{{month}}--{{day}}--{{slug}}"
+      folder: site/content/video-posts
+      create: true
+      fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Video Category
+            name: category
             widget: list
+            allow_add: true
+          - label: Meta
+            name: meta
+            widget: object
             fields:
-              - label: Heading
-                name: heading
-                widget: string
-              - label: Text
-                name: text
-                widget: text
-      - file: "site/content/products/_index.md"
-        label: "Products Page"
-        name: "products"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-          - {label: Full_image, name: full_image, widget: image}
-          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
-      - file: "site/content/values/_index.md"
-        label: "Values Page"
-        name: "values"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - label: Values
+                - label: Breaking
+                  name: is_breaking
+                  hint: Will highlight quote and push to top of feed.
+                  widget: boolean
+                  default: false
+                - featured: Featured
+                  name: is_featured
+                  hint: Pushes post to slider or first position in post list.
+                  default: false
+                - label: Slug
+                  name: title
+                  widget: string
+                  required: true
+                - label: Date and Time
+                  name: date_time
+                  widget: datetime
+                  default: ""
+                  date_format: MM.DD.YYYY
+                  time_format: HH.mm
+                  format: LLL
+                  picker_utc: false
+                - label: Tags
+                  name: tags
+                  widget: relation
+                  collection: tags
+                  search_fields:
+                      - title
+                  value_field: title
+                  multiple: true
+          - label: Author
+            name: author
+            widget: relation
+            collection: authors
+            search_fields:
+                - name.first
+                - name.last
+            value_field: .*
+            required: false
+    - label: Quick Quotes
+      name: quick_quotes
+      slug: "{{year}}--{{month}}--{{day}}--{{slug}}"
+      folder: site/content/quick-quotes
+      create: true
+      fields:
+          - label: Meta
+            name: meta
+            widget: object
+            fields:
+                - label: Breaking
+                  name: is_breaking
+                  hint: Will highlight quote and push to top of feed.
+                  widget: boolean
+                  default: false
+                - label: Slug
+                  name: title
+                  widget: string
+                  required: true
+                - label: Date and Time
+                  name: date_time
+                  widget: datetime
+                  default: ""
+                  date_format: MM.DD.YYYY
+                  time_format: HH.mm
+                  format: LLL
+                  picker_utc: false
+                - label: Tags
+                  name: meta_tags
+                  widget: relation
+                  collection: tags
+                  search_fields:
+                      - title
+                  value_field: title
+                  multiple: true
+          - label: Summary
+            name: summary
+            widget: object
+            fields:
+                - label: Quote
+                  name: quote
+                  hint: Brief quote that will appear on the preview card and top of post.
+                  widget: text
+                  required: true
+                - label: Full Quote
+                  name: quote_full
+                  hint: Only required if you want a longer quote on the post page than will fit cleanly on the preview card. The 'short quote' will still appear on the card, but the 'full quote' will appear in the post.
+                  widget: text
+                  required: false
+                - label: Quote Summary
+                  name: quote_summary
+                  hint: Brief explanation of quote that will appear under 'short quote'.
+                  widget: text
+                  required: true
+                - label: Citation
+                  name: quote_citation
+                  hint: Who or what is being quoted.
+                  widget: string
+                  required: true
+          - label: Post Image
+            name: post_image
+            widget: object
+            fields:
+                - label: Featured Image
+                  name: featured_image
+                  widget: image
+                  allow_multiple: false
+                - label: Image Alt Text
+                  name: image_alt
+                  hint: Short description of image used for SEO and Accessibility
+                  widget: string
+                  required: true
+                - label: Image Attribution
+                  name: image_attribution
+                  hint: "Optional: Photographer credit."
+                  widget: string
+                  required: false
+          - label: Article
+            name: article
+            widget: markdown
+            required: false
+          - label: Author
+            name: author
+            widget: relation
+            collection: authors
+            search_fields:
+                - name.first
+                - name.last
+            value_field: .*
+            required: false
+    - label: Authors
+      name: authors
+      slug: "{{year}}--{{month}}--{{day}}--{{slug}}"
+      folder: site/content/authors
+      create: true
+      fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Date and Time
+            name: date_time
+            widget: datetime
+            default: ""
+            date_format: MM.DD.YYYY
+            time_format: HH.mm
+            format: LLL
+            picker_utc: false
+          - label: Name
+            name: name
+            widget: object
+            fields:
+                - label: First
+                  name: first
+                  widget: string
+                - label: Last
+                  name: last
+                  widget: string
+                  required: false
+          - label: Bio
+            name: bio
+            widget: markdown
+            required: false
+          - label: Author Image
+            name: author_image
+            widget: image
+            allow_multiple: false
+          - label: Contact
+            name: contact
+            widget: object
+            fields:
+                - label: Twitter Link
+                  name: twitter_link
+                  widget: string
+                  required: false
+                - label: Instagram Link
+                  name: instagram_link
+                  widget: string
+                  required: false
+                - label: LinkedIn Link
+                  name: linkedin_link
+                  widget: string
+                  required: false
+                - label: Facebook Link
+                  name: facebook_link
+                  widget: string
+                  required: false
+                - label: Personal Website
+                  name: personal_site
+                  widget: string
+                  required: false
+    - label: Card Stacks
+      name: card_stack
+      slug: "{{year}}--{{month}}--{{day}}--{{slug}}"
+      folder: site/content/cardstack
+      create: true
+      fields:
+          - label: Meta
+            name: meta
+            widget: object
+            fields:
+                - label: Slug
+                  name: title
+                  widget: string
+                  required: true
+                - label: Date and Time
+                  name: date_time
+                  widget: datetime
+                  default: ""
+                  date_format: MM.DD.YYYY
+                  time_format: HH.mm
+                  format: LLL
+                  picker_utc: false
+                - label: Tags
+                  name: tags
+                  widget: relation
+                  collection: tags
+                  search_fields:
+                      - title
+                  value_field: title
+                  multiple: true
+                - label: Card Category
+                  name: card_category
+                  widget: relation
+                  collection: card_categories
+                  search_fields:
+                      - title
+                  value_field: title
+                  multiple: false
+                  required: true
+          - label: Color Palette
+            name: color_palette_classname
+            widget: select
+            options:
+                - white
+                - light-gray
+                - medium-gray
+                - dark-gray
+                - black
+                - light-yellow
+                - bronze
+                - dark-brown
+                - light-blue
+                - dark-blue
+                - light-green
+                - dark-green
+                - light-pink
+                - dark-pink
+                - light-purple
+                - dark-purple
+          - label: Background Image
+            name: background_image
+            hint: Background image on first card.
+            widget: object
+            required: false
+            fields:
+                - label: Image
+                  name: bg_image
+                  widget: image
+                  allow_multiple: false
+                  required: true
+                - label: Image Alt Text
+                  name: image_alt
+                  hint: Short description of image used for SEO and Accessibility
+                  widget: string
+                  required: true
+                - label: Image Attribution
+                  name: image_attribution
+                  hint: "Optional: Photographer credit."
+                  widget: string
+                  required: false
+          - label: Card 1
+            name: card_01
+            widget: object
+            fields:
+                - label: Card Text
+                  name: card_text
+                  widget: markdown
+                  required: true
+                - label: Citation
+                  name: card_citation
+                  hint: Places a citation at the base of the card.
+                  widget: string
+                  required: false
+          - label: Card 2
+            name: card_02
+            widget: object
+            collapsed: true
+            fields:
+                - label: Card Text
+                  name: card_text
+                  widget: markdown
+                  required: false
+                - label: Citation
+                  name: card_citation
+                  hint: Places a citation at the base of the card.
+                  widget: string
+                  required: false
+          - label: Card 3
+            name: card_03
+            widget: object
+            collapsed: true
+            fields:
+                - label: Card Text
+                  name: card_text
+                  widget: markdown
+                  required: false
+                - label: Citation
+                  name: card_citation
+                  hint: Places a citation at the base of the card.
+                  widget: string
+                  required: false
+          - label: Card 4
+            name: card_04
+            widget: object
+            collapsed: true
+            fields:
+                - label: Card Text
+                  name: card_text
+                  widget: markdown
+                  required: false
+                - label: Citation
+                  name: card_citation
+                  hint: Places a citation at the base of the card.
+                  widget: string
+                  required: false
+          - label: Card 5
+            name: card_05
+            widget: object
+            collapsed: true
+            fields:
+                - label: Card Text
+                  name: card_text
+                  widget: markdown
+                  required: false
+                - label: Citation
+                  name: card_citation
+                  hint: Places a citation at the base of the card.
+                  widget: string
+                  required: false
+          - label: Card 6
+            name: card_06
+            widget: object
+            collapsed: true
+            fields:
+                - label: Card Text
+                  name: card_text
+                  widget: markdown
+                  required: false
+                - label: Citation
+                  name: card_citation
+                  hint: Places a citation at the base of the card.
+                  widget: string
+                  required: false
+          - label: Card 7
+            name: card_07
+            widget: object
+            collapsed: true
+            fields:
+                - label: Card Text
+                  name: card_text
+                  widget: markdown
+                  required: false
+                - label: Citation
+                  name: card_citation
+                  hint: Places a citation at the base of the card.
+                  widget: string
+                  required: false
+          - label: Card 8
+            name: card_08
+            widget: object
+            collapsed: true
+            fields:
+                - label: Card Text
+                  name: card_text
+                  widget: markdown
+                  required: false
+                - label: Citation
+                  name: card_citation
+                  hint: Places a citation at the base of the card.
+                  widget: string
+                  required: false
+          - label: Card 9
+            name: card_09
+            widget: object
+            collapsed: true
+            fields:
+                - label: Card Text
+                  name: card_text
+                  widget: markdown
+                  required: false
+                - label: Citation
+                  name: card_citation
+                  hint: Places a citation at the base of the card.
+                  widget: string
+                  required: false
+          - label: Card 10
+            name: card_10
+            hint: Final card will have a checkmark. Not all cards have to be filled before using this card.
+            widget: object
+            collapsed: true
+            fields:
+                - label: Card Text
+                  name: card_text
+                  widget: markdown
+                  required: false
+                - label: Citation
+                  name: card_citation
+                  hint: Places a citation at the base of the card.
+                  widget: string
+                  required: false
+          - label: Sources and Description
+            name: sources
+            hint: For sources and supporting text on post page.
+            widget: markdown
+            required: false
+          - label: Author
+            name: author
+            widget: relation
+            collection: authors
+            search_fields:
+                - name.first
+                - name.last
+            value_field: .*
+            required: false
+    - name: pages
+      label: Pages
+      files:
+          - file: site/content/_index.md
+            label: Home Page
+            name: home
+            fields:
+                - label: Title
+                  name: title
+                  widget: string
+                - label: Subtitle
+                  name: subtitle
+                  widget: string
+                - label: Image
+                  name: image
+                  widget: image
+                - label: Blurb
+                  name: blurb
+                  widget: object
+                  fields:
+                      - label: Heading
+                        name: heading
+                        widget: string
+                      - label: Text
+                        name: text
+                        widget: text
+                - label: Intro
+                  name: intro
+                  widget: object
+                  fields:
+                      - label: Heading
+                        name: heading
+                        widget: string
+                      - label: Text
+                        name: text
+                        widget: text
+                - label: Products
+                  name: products
+                  widget: list
+                  fields:
+                      - label: Image
+                        name: image
+                        widget: image
+                      - label: Text
+                        name: text
+                        widget: text
+                - label: Values
+                  name: values
+                  widget: object
+                  fields:
+                      - label: Heading
+                        name: heading
+                        widget: string
+                      - label: Text
+                        name: text
+                        widget: text
+          - file: site/content/contact/_index.md
+            label: Contact Page
+            name: contact
+            fields:
+                - label: Title
+                  name: title
+                  widget: string
+                - label: Logo
+                  name: logo
+                  widget: image
+                - label: Body
+                  name: body
+                  widget: markdown
+                - label: Contact Entries
+                  name: contact_entries
+                  widget: list
+                  fields:
+                      - label: Heading
+                        name: heading
+                        widget: string
+                      - label: Text
+                        name: text
+                        widget: text
+          - file: site/content/products/_index.md
+            label: Products Page
+            name: products
+            fields:
+                - label: Title
+                  name: title
+                  widget: string
+                - label: Image
+                  name: image
+                  widget: image
+                - label: Heading
+                  name: heading
+                  widget: string
+                - label: Description
+                  name: description
+                  widget: string
+                - label: Intro
+                  name: intro
+                  widget: object
+                  fields:
+                      - label: Heading
+                        name: heading
+                        widget: string
+                      - label: Description
+                        name: description
+                        widget: text
+                      - label: Blurbs
+                        name: blurbs
+                        widget: list
+                        fields:
+                            - label: Image
+                              name: image
+                              widget: image
+                            - label: Text
+                              name: text
+                              widget: text
+                - label: Main
+                  name: main
+                  widget: object
+                  fields:
+                      - label: Heading
+                        name: heading
+                        widget: string
+                      - label: Description
+                        name: description
+                        widget: text
+                      - label: Image1
+                        name: image1
+                        widget: object
+                        fields:
+                            - label: Image
+                              name: image
+                              widget: image
+                            - label: Alt
+                              name: alt
+                              widget: string
+                      - label: Image2
+                        name: image2
+                        widget: object
+                        fields:
+                            - label: Image
+                              name: image
+                              widget: image
+                            - label: Alt
+                              name: alt
+                              widget: string
+                      - label: Image3
+                        name: image3
+                        widget: object
+                        fields:
+                            - label: Image
+                              name: image
+                              widget: image
+                            - label: Alt
+                              name: alt
+                              widget: string
+                - label: Testimonials
+                  name: testimonials
+                  widget: list
+                  fields:
+                      - label: Quote
+                        name: quote
+                        widget: string
+                      - label: Author
+                        name: author
+                        widget: string
+                - label: Full_image
+                  name: full_image
+                  widget: image
+                - label: Pricing
+                  name: pricing
+                  widget: object
+                  fields:
+                      - label: Heading
+                        name: heading
+                        widget: string
+                      - label: Description
+                        name: description
+                        widget: string
+                      - label: Plans
+                        name: plans
+                        widget: list
+                        fields:
+                            - label: Plan
+                              name: plan
+                              widget: string
+                            - label: Price
+                              name: price
+                              widget: string
+                            - label: Description
+                              name: description
+                              widget: string
+                            - label: Items
+                              name: items
+                              widget: list
+          - file: site/content/values/_index.md
+            label: Values Page
             name: values
-            widget: list
             fields:
-              - {label: Heading, name: heading, widget: string}
-              - {label: Text, name: text, widget: text}
-              - {label: Image, name: imageUrl, widget: image}
+                - label: Title
+                  name: title
+                  widget: string
+                - label: Image
+                  name: image
+                  widget: image
+                - label: Values
+                  name: values
+                  widget: list
+                  fields:
+                      - label: Heading
+                        name: heading
+                        widget: string
+                      - label: Text
+                        name: text
+                        widget: text
+                      - label: Image
+                        name: imageUrl
+                        widget: image
