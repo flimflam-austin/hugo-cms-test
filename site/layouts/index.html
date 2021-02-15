@@ -7,21 +7,26 @@
                 <h2 class="headrule__title">watch: videos</h2>
                 <a class="headrule__link" href="#">view all</a>
             </header>
-            <article class="feed-section__content">
+            <div class="l-grid-content feed-section__content">
                 {{ partial "components/homeslider" . }}
-            </article>
+            </div>
         </section>
         <section class="feed-section">
             <header class="headrule headrule--sticky">
                 <h2 class="headrule__title">flip: quick reads</h2>
                 <a class="headrule__link" href="#">view all</a>
             </header>
+            <div class="l-grid-content feed-section__content">
+            </div>
         </section>
         <section class="feed-section">
             <header class="headrule headrule--sticky">
                 <h2 class="headrule__title">videos</h2>
                 <a class="headrule__link" href="#">view all</a>
             </header>
+            <div class="l-grid-content feed-section__content">
+                {{ partial "components/homevideos" . }}
+            </div>
         </section>
     </div>
     <div class="home__feed home__feed--side">
@@ -30,6 +35,9 @@
                 <h2 class="headrule__title">read: quick quotes</h2>
                 <a class="headrule__link" href="#">view all</a>
             </header>
+            <div class="feed-section__content feed-section__content--side">
+                
+            </div>
         </section>
     </div>
 </main>
