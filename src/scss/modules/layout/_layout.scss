@@ -41,6 +41,7 @@
 	grid-template-rows: 1fr;
 	column-gap: $site-content-padding;
 	justify-content: center;
+	justify-items: center;
 
 	@include query-tablet-up {
 		grid-template-columns: repeat(2, $card-width);
