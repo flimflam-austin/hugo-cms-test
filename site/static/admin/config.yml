@@ -68,6 +68,24 @@ collections:
                       - title
                   value_field: title
                   multiple: true
+          - label: Post Image
+            name: post_image
+            widget: object
+            fields:
+                - label: Image
+                  name: image
+                  widget: image
+                  allow_multiple: false
+                - label: Alt Text
+                  name: alt
+                  hint: Short description of image used for SEO and Accessibility
+                  widget: string
+                  required: true
+                - label: Image Attribution
+                  name: image_attribution
+                  hint: "Optional: Photographer credit."
+                  widget: string
+                  required: false
           - label: Summary
             name: summary
             hint: "Brief summary that appears on preview card"
