@@ -68,6 +68,7 @@ collections:
                 - label: Modified Date
                   name: modifieddate
                   widget: datetime
+                  default: ""
                   date_format: MM.DD.YYYY
                   time_format: HH.mm
                   format: LLL
@@ -147,6 +148,7 @@ collections:
                 - label: Modified Date
                   name: modifieddate
                   widget: datetime
+                  default: ""
                   date_format: MM.DD.YYYY
                   time_format: HH.mm
                   format: LLL
