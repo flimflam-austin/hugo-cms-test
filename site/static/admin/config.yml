@@ -124,14 +124,14 @@ collections:
       folder: site/content/quickquotes
       create: true
       fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
           - label: Meta
             name: meta
             widget: object
             fields:
-                - label: Title
-                  name: title
-                  widget: string
-                  required: true
                 - label: Publish Date
                   name: publishdate
                   widget: datetime
