@@ -17,7 +17,7 @@ collections:
             required: true
     - label: Card Categories
       name: card_categories
-      folder: site/content/card_categories
+      folder: site/content/cardcategories
       create: true
       fields:
           - label: Title
@@ -27,7 +27,7 @@ collections:
     - label: Video Posts
       name: videoposts
       slug: "{{year}}--{{month}}--{{day}}--{{slug}}"
-      folder: site/content/video-posts
+      folder: site/content/videoposts
       create: true
       fields:
           - label: Title
@@ -52,14 +52,22 @@ collections:
                   hint: Pushes post to slider or first position in post list.
                   widget: boolean
                   default: false
-                - label: Date and Time
-                  name: date_time
+                - label: Publish Date
+                  name: publishdate
                   widget: datetime
                   default: ""
                   date_format: MM.DD.YYYY
                   time_format: HH.mm
                   format: LLL
                   picker_utc: false
+                - label: Modified Date
+                  name: modifieddate
+                  widget: datetime
+                  date_format: MM.DD.YYYY
+                  time_format: HH.mm
+                  format: LLL
+                  picker_utc: false
+                  required: false
                 - label: Tags
                   name: tags
                   widget: list
@@ -108,7 +116,7 @@ collections:
     - label: Quick Quotes
       name: quick_quotes
       slug: "{{year}}--{{month}}--{{day}}--{{slug}}"
-      folder: site/content/quick-quotes
+      folder: site/content/quickquotes
       create: true
       fields:
           - label: Meta
@@ -124,14 +132,22 @@ collections:
                   name: title
                   widget: string
                   required: true
-                - label: Date and Time
-                  name: date_time
+                - label: Publish Date
+                  name: publishdate
                   widget: datetime
                   default: ""
                   date_format: MM.DD.YYYY
                   time_format: HH.mm
                   format: LLL
                   picker_utc: false
+                - label: Modified Date
+                  name: modifieddate
+                  widget: datetime
+                  date_format: MM.DD.YYYY
+                  time_format: HH.mm
+                  format: LLL
+                  picker_utc: false
+                  required: false
                 - label: Tags
                   name: meta_tags
                   widget: relation
@@ -270,14 +286,22 @@ collections:
                   name: title
                   widget: string
                   required: true
-                - label: Date and Time
-                  name: date_time
+                - label: Publish Date
+                  name: publishdate
                   widget: datetime
                   default: ""
                   date_format: MM.DD.YYYY
                   time_format: HH.mm
                   format: LLL
                   picker_utc: false
+                - label: Modified Date
+                  name: modifieddate
+                  widget: datetime
+                  date_format: MM.DD.YYYY
+                  time_format: HH.mm
+                  format: LLL
+                  picker_utc: false
+                  required: false
                 - label: Tags
                   name: tags
                   widget: relation
