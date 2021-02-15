@@ -4,8 +4,8 @@
     {{ $breakingvideoposts := sort $featuredvideoposts ".Params.meta.is_breaking" "=" true}}
     {{ range first 3 $breakingvideoposts.Reverse }}
     <div class="carousel-cell">
-        <img class="carousel__image" src="{{.post_image.image}}" alt="{{.post_image.alt}}">
-        <a class="carousel__link" href="{{ .URL }}">
+        <img class="carousel__image" src="" alt="">
+        <a class="carousel__link" href="">
             <h1 class="carousel__title">{{ .Title }}</h1>
             <p class="carousel__description">Löksås ipsum åker det stora tre precis sista dimmhöljd redan ska, verkligen sista tid sorgliga olika dock äng ska för, björnbär vad dag tid oss träutensilierna sig nya är. Inom bra verkligen mjuka det dimma smultron dunge.</p>
         </a>
