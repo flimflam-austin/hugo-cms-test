@@ -25,7 +25,7 @@ collections:
             widget: string
             required: true
     - label: Video Posts
-      name: video_posts
+      name: videoposts
       slug: "{{year}}--{{month}}--{{day}}--{{slug}}"
       folder: site/content/video-posts
       create: true
