@@ -1,0 +1,44 @@
+.siteheader {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+
+	&__contentContainer {
+		background-color: $color-white;
+		border-bottom: $border-style-alpha;
+	}
+
+	&__contentWrapper {
+		/* width: 100%; */
+		grid-column: 1/-1;
+		display: flex;
+		justify-content: space-between;
+	}
+
+	&__logo {
+		height: 2rem;
+	}
+
+	& .sitenav {
+		display: flex;
+		flex-direction: row;
+		justify-content: flex-end;
+		align-items: center;
+
+		&__link {
+			display: inline-block;
+			padding-left: 1rem;
+
+			@include typo-nav-link;
+		}
+	}
+
+	& .breakingheader {
+		display: none;
+	}
+}
+
+.home__body .siteheader {
+	position: relative;
+}

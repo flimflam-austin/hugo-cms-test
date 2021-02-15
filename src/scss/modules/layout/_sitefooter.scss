@@ -1,0 +1,30 @@
+.sitefooter {
+	width: 100%;
+	border-top: $border-style-alpha;
+
+	&__section {
+		grid-column: 1/-1;
+		@include flex-column-center-center;
+		padding: 4rem $site-content-padding;
+		background-color: $color-brand-gray-10;
+
+		&--cta {
+			background-color: $color-brand-blush;
+		}
+	}
+
+	&__content {
+		@include flex-column-center-center;
+		width: 100%;
+	}
+}
+
+.footer-cta {
+	&__tagline {
+		@include typo-title-01;
+
+		&--sub {
+			@include typo-subtitle-01;
+		}
+	}
+}

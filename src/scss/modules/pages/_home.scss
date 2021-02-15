@@ -1,0 +1,58 @@
+.home {
+	&__body {
+		@include query-desktop-up {
+			height: 100vh;
+			display: flex;
+			flex-direction: column;
+		}
+	}
+	&__feeds {
+		@include query-desktop-up {
+			overflow-y: hidden;
+		}
+	}
+
+	&__feed {
+		background-color: silver;
+		grid-column: 1/-1;
+
+		@include query-tablet-up {
+		}
+
+		@include query-desktop-up {
+			grid-column: 1 / span 2;
+			overflow-y: scroll;
+		}
+
+		@include query-desktop-xl-up {
+			grid-column: 1 / span 3;
+		}
+
+		&--side {
+			display: none;
+
+			@include query-tablet-up {
+			}
+
+			@include query-desktop-up {
+				display: block;
+				grid-column: 3 / span 1;
+			}
+
+			@include query-desktop-xl-up {
+				grid-column: 4 / span 1;
+			}
+		}
+	}
+}
+
+.feed-section {
+	width: 100%;
+	border: dotted 1px magenta;
+	position: relative;
+
+	&__content {
+		padding-top: 2rem;
+		padding-bottom: 4rem;
+	}
+}

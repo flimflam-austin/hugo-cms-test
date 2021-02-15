@@ -1,0 +1,7 @@
+@mixin transition-standard {
+	transition: all ease-in 0.3s;
+}
+
+@mixin transition-fast {
+	transition: all ease-in 0.15s;
+}

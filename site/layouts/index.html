@@ -1,13 +1,39 @@
-{{ define "main" }}
+{{define "main"}}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+<main class="l-grid-container home__feeds">
+    <div class="home__feed">
+        <section class="feed-section">
+            <header class="headrule headrule--sticky">
+                <h2 class="headrule__title">watch: videos</h2>
+                <a class="headrule__link" href="#">view all</a>
+            </header>
+            <article class="feed-section__content">
+                {{ partial "components/homeslider" . }}
+            </article>
+        </section>
+        <section class="feed-section">
+            <header class="headrule headrule--sticky">
+                <h2 class="headrule__title">flip: quick reads</h2>
+                <a class="headrule__link" href="#">view all</a>
+            </header>
+        </section>
+        <section class="feed-section">
+            <header class="headrule headrule--sticky">
+                <h2 class="headrule__title">videos</h2>
+                <a class="headrule__link" href="#">view all</a>
+            </header>
+        </section>
+    </div>
+    <div class="home__feed home__feed--side">
+        <section class="feed-section">
+            <header class="headrule">
+                <h2 class="headrule__title">read: quick quotes</h2>
+                <a class="headrule__link" href="#">view all</a>
+            </header>
+        </section>
+    </div>
+</main>
 
-{{ partial "short-text" .Params.blurb}}
+{{end}}
 
-{{ partial "2-up" .Params }}
-
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
-
-{{ partial "blog" . }}
-
-{{ end }}
+{{define "footer"}} <span></span> {{end}}

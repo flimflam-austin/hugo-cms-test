@@ -1,0 +1,25 @@
+$breakpoint-tablet: $site-content-padding + $card-width + $site-content-padding +
+	$card-width + $site-content-padding;
+
+$breakpoint-desktop: $breakpoint-tablet + $side-feed-width +
+	$site-content-padding;
+$breakpoint-desktop-xl: $breakpoint-desktop + $card-width +
+	$site-content-padding;
+
+@mixin query-tablet-up {
+	@media (min-width: #{$breakpoint-tablet}) {
+		@content;
+	}
+}
+
+@mixin query-desktop-up {
+	@media (min-width: #{$breakpoint-desktop}) {
+		@content;
+	}
+}
+
+@mixin query-desktop-xl-up {
+	@media (min-width: #{$breakpoint-desktop-xl}) {
+		@content;
+	}
+}

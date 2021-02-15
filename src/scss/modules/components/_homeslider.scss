@@ -1,0 +1,34 @@
+/* Flickity styles */
+.carousel {
+	width: 100%;
+	height: 60vh;
+	min-height: 600px;
+	max-height: 1000px;
+}
+
+.carousel-cell {
+	width: 100%;
+	height: 100%;
+
+	& img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+}
+
+.flickity-page-dots {
+	bottom: 10px;
+}
+
+/* Content Styles */
+.carousel__link {
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding: 2rem;
+}
+.carousel-title {
+}

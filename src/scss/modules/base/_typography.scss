@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:ital,wght@0,100;0,400;0,800;1,100;1,400;1,800&display=swap&family=Quattrocento:wght@400;700&display=swap");
+
+$font-primary: "Montserrat", sans-serif;
+$font-secondary: "Quattrocento", serif;
+$font-tertiary: "Quattrocento Sans", sans-serif;
+
+/* alpha font */
+@mixin alpha-light {
+	font-family: $font-primary;
+	font-weight: 100;
+}
+@mixin alpha-regular {
+	font-family: $font-primary;
+	font-weight: 400;
+}
+@mixin alpha-bold {
+	font-family: $font-primary;
+	font-weight: 800;
+	font-style: italic;
+}
+
+/* alpha italic font */
+@mixin alpha-italic-light {
+	font-family: $font-primary;
+	font-weight: 100;
+	font-style: italic;
+}
+@mixin alpha-italic-regular {
+	font-family: $font-primary;
+	font-weight: 400;
+	font-style: italic;
+}
+@mixin alpha-italic-bold {
+	font-family: $font-secondary;
+	font-weight: 800;
+}
+
+/* beta font */
+@mixin beta-regular {
+	font-family: $font-secondary;
+	font-weight: 400;
+}
+
+@mixin beta-bold {
+	font-family: $font-secondary;
+	font-weight: 700;
+}
+
+/* gamma font */
+@mixin gamma-regular {
+	font-family: $font-tertiary;
+	font-weight: 400;
+}
+
+@mixin gamma-bold {
+	font-family: $font-tertiary;
+	font-weight: 700;
+}
+
+/* gamma italic font */
+@mixin gamma-regular {
+	font-family: $font-tertiary;
+	font-weight: 100;
+	font-style: italic;
+}
+
+@mixin gamma-bold {
+	font-family: $font-tertiary;
+	font-weight: 400;
+	font-style: italic;
+}
+
+$font-scale-ratio: 1.25;
+
+$fs-base: 1rem;
+
+$fs-md: $fs-base * $font-scale-ratio;
+$fs-lg: $fs-md * $font-scale-ratio;
+$fs-xl: $fs-lg * $font-scale-ratio;
+$fs-xxl: $fs-xl * $font-scale-ratio;
+$fs-xxxl: $fs-xxl * $font-scale-ratio;
+
+$fs-sm: $fs-base / $font-scale-ratio;
+$fs-xs: $fs-sm / $font-scale-ratio;
+$fs-xxs: $fs-xs / $font-scale-ratio;
+
+@mixin typo-nav-link {
+	@include beta-bold;
+	font-size: $fs-sm;
+	letter-spacing: 0.1rem;
+	text-decoration: none;
+	color: $color-text-primary;
+	text-transform: uppercase;
+	white-space: nowrap;
+
+	@include transition-fast;
+
+	&:hover {
+		opacity: 0.5;
+	}
+}
+
+@mixin typo-title-01 {
+	@include beta-bold;
+	font-size: $fs-xl;
+	color: $color-black;
+}
+
+@mixin typo-subtitle-01 {
+	@include alpha-regular;
+	font-size: $fs-base;
+	letter-spacing: 0.1rem;
+	color: $color-black;
+	text-transform: uppercase;
+}
+
+@mixin typo-button {
+	@include alpha-regular;
+	line-height: 1;
+	font-size: $fs-sm;
+	letter-spacing: 0.05rem;
+	color: $color-black;
+	text-transform: uppercase;
+}
+
+@mixin typo-button-lg {
+	@include alpha-regular;
+	line-height: 1;
+	font-size: $fs-base;
+	letter-spacing: 0.1rem;
+	color: $color-black;
+	text-transform: uppercase;
+}

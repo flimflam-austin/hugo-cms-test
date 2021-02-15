@@ -1,0 +1,56 @@
+.btn {
+	background-color: transparent;
+	border: none;
+	color: $color-black;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	cursor: pointer;
+	@include transition-fast;
+	border: solid 1px $color-black;
+
+	@include typo-button;
+	padding: $fs-xxs $fs-base;
+
+	&:hover {
+		color: $color-white;
+		background-color: $color-black;
+	}
+
+	&--green {
+		border-color: $color-brand-olive;
+		color: $color-brand-olive;
+
+		&:hover {
+			color: $color-white;
+			background-color: $color-brand-olive;
+		}
+	}
+
+	&--large {
+		@include typo-button-lg;
+		padding: $fs-xs $fs-md;
+	}
+
+	&--full-width {
+		width: 100%;
+	}
+
+	&--solid {
+		color: $color-white;
+		background-color: $color-black;
+
+		&:hover {
+			background-color: $color-brand-gray-50;
+		}
+
+		&--green {
+			background-color: $color-brand-olive;
+			border-color: $color-brand-olive;
+
+			&:hover {
+				background-color: $color-brand-sage;
+			}
+		}
+	}
+}
