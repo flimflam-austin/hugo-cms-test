@@ -1,14 +1,28 @@
 <div class="carousel">
     {{ $videoposts := sort (where .Site.RegularPages "Section" "videoposts") ".Params.date_time" }}
     {{ $featuredvideoposts := sort $videoposts ".Params.meta.is_featured" "=" true}}
-    {{ $breakingvideoposts := sort $featuredvideoposts ".Params.meta.is_breaking" "=" true}}
+    {{ $breakingvideoposts := sort $featuredvideoposts ".Params.meta.is_breaking_slider" "=" true}}
     {{ range first 3 $breakingvideoposts.Reverse }}
-    <div class="carousel-cell">
-        <img class="carousel__image" src="" alt="">
-        <a class="carousel__link" href="">
+    <article class="carousel-cell">
+        {{ if (eq .Params.meta.is_breaking_slider true)}}
+        <a class="carousel__link carousel__link--breaking" href="{{- .Permalink -}}">
+            <span class="carousel__breaking-tag">Breaking</span>
             <h1 class="carousel__title">{{ .Title }}</h1>
-            <p class="carousel__description">Löksås ipsum åker det stora tre precis sista dimmhöljd redan ska, verkligen sista tid sorgliga olika dock äng ska för, björnbär vad dag tid oss träutensilierna sig nya är. Inom bra verkligen mjuka det dimma smultron dunge.</p>
+            <p class="carousel__description">{{- .Params.summary -}}</p>
         </a>
-    </div>
+        {{ else if (eq .Params.meta.is_featured true) }}
+        <a class="carousel__link carousel__link--featured" href="{{- .Permalink -}}">
+            <h1 class="carousel__title">{{ .Title }}</h1>
+            <p class="carousel__description">{{- .Params.summary -}}</p>
+        </a>
+        {{ else }}
+        <a class="carousel__link carousel__link--featured" href="{{- .Permalink -}}">
+            <h1 class="carousel__title">{{ .Title }}</h1>
+            <p class="carousel__description">{{- .Params.summary -}}</p>
+        </a>
+        {{end}}
+
+        <img class="carousel__image" src="{{- .Params.postimage.image -}}" alt="{{- .Params.postimage.alt -}}">
+    </article>
     {{ end }}
-  </div>
+</div>
