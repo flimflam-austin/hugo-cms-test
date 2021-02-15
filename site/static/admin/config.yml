@@ -68,6 +68,11 @@ collections:
                       - title
                   value_field: title
                   multiple: true
+          - label: Summary
+            name: summary
+            hint: "Brief summary that appears on preview card"
+            widget: text
+            required: true
           - label: Article
             name: article
             widget: markdown
