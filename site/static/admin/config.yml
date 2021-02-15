@@ -50,11 +50,8 @@ collections:
                 - featured: Featured
                   name: is_featured
                   hint: Pushes post to slider or first position in post list.
+                  widget: boolean
                   default: false
-                - label: Slug
-                  name: title
-                  widget: string
-                  required: true
                 - label: Date and Time
                   name: date_time
                   widget: datetime
@@ -71,6 +68,10 @@ collections:
                       - title
                   value_field: title
                   multiple: true
+          - label: Article
+            name: article
+            widget: markdown
+            required: false
           - label: Author
             name: author
             widget: relation
@@ -80,6 +81,7 @@ collections:
                 - name.last
             value_field: .*
             required: false
+
     - label: Quick Quotes
       name: quick_quotes
       slug: "{{year}}--{{month}}--{{day}}--{{slug}}"
