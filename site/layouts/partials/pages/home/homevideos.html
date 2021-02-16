@@ -1,4 +1,4 @@
-{{ $videoposts := sort (where .Site.RegularPages "Section" "videoposts") ".Params.date_time" }}
+{{ $videoposts := sort (where .Site.RegularPages "Section" "videoposts") ".Params.meta.publishdate" }}
 {{ $featuredvideoposts := sort $videoposts ".Params.meta.is_featured" "=" true}}
 {{ $breakingvideoposts := sort $featuredvideoposts ".Params.meta.is_breaking_slider" "=" true}}
 {{ range first 6 (after 3 $breakingvideoposts.Reverse) }}

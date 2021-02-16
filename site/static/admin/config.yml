@@ -40,6 +40,7 @@ collections:
             name: category
             widget: list
             allow_add: true
+            required: true
           - label: Meta
             name: meta
             widget: object
@@ -165,7 +166,7 @@ collections:
                   widget: boolean
                   default: false
           - label: Summary
-            name: summary
+            name: quotesum
             widget: object
             fields:
                 - label: Featured Quote
