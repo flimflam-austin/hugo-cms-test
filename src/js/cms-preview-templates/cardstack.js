@@ -1,9 +1,10 @@
 import React from "react";
 
-export const CardPreview = createClass({
-	render: function () {
+export default class CardPreview extends React.Component {
+	render() {
 		const entry = this.props.entry;
 		const getAsset = this.props.getAsset;
+		const widgetFor = this.props.widgetFor;
 
 		let image = getAsset(
 			entry.getIn(["data", "background_image", "bg_image"])
@@ -167,5 +168,5 @@ export const CardPreview = createClass({
 				</main>
 			</div>
 		);
-	},
-});
+	}
+}
