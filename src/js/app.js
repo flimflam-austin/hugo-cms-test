@@ -1,7 +1,9 @@
 // JS Goes here - ES6 supported
 import { initHomeSlider } from "./modules/homeslider";
+import { initReloadToTop } from "./modules/totoponreload";
 import { initCustomScrollbar } from "./modules/scrollbars";
 
+initReloadToTop();
 initHomeSlider();
 //initCustomScrollbar();
 

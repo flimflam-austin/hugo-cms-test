@@ -304,6 +304,7 @@ collections:
                   time_format: HH.mm
                   format: LLL
                   picker_utc: false
+                  required: true
                 - label: Modified Date
                   name: modifieddate
                   widget: datetime
@@ -539,6 +540,10 @@ collections:
       label: Pages
       create: false
       files:
+          - file: site/content/cardbreakdown.md
+            label: Card Breakdown
+            name: cardbreakdown
+
           - file: site/content/_index.md
             label: Home Page
             name: home

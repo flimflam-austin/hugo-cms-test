@@ -1,9 +1,89 @@
-{{/*  {{ define "main" }}
-<main class="main-testcard">
-    <article class="testcard-outter">
-        <h3>sumptin</h3>
+{{ define "main" }}
+<main class="l-grid-container l-grid-container--navoffset cardtest-main">
+    {{range first 1 (where .Site.RegularPages "Section" "cardstack")}}
+    <article class="cardstack cardstack--{{- .Params.color_palette_classname -}}">
+        <section class="cardstack__cards">
+            <!-- TODO: Card 01 -->
+            <div class="stackcard">
+                <div class="stackcard__frame">
+                    <div class="stackcard__body">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements">
+                                <span class="stackcard__borderpiece"></span>
+                                <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
+                                <span class="stackcard__borderpiece"></span>
+                            </div>
+
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_01.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_01.card_citation -}}</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
+                    <div class="stackcard__body stackcard__body--lower">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements stackcard__borderelements--lower">
+                                <span class="stackcard__borderpiece"></span>
+                                <div class="stackcard__logo"></div>
+                                <span class="stackcard__borderpiece"></span>
+                            </div>
+
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_01.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_01.card_citation -}}</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- TODO: Card 02 -->
+            <div class="stackcard">
+                <div class="stackcard__frame">
+                    <div class="stackcard__body">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements">
+                                <span class="stackcard__borderpiece"></span>
+                                <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
+                                <span class="stackcard__borderpiece"></span>
+                            </div>
+
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_02.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_02.card_citation -}}</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
+                    <div class="stackcard__body stackcard__body--lower">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements stackcard__borderelements--lower">
+                                <span class="stackcard__borderpiece"></span>
+                                <div class="stackcard__logo"></div>
+                                <span class="stackcard__borderpiece"></span>
+                            </div>
+
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_02.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_02.card_citation -}}</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="cardstack__details">
+            <p class="cardstack__date">{{- .Params.meta.publishdate -}}</p>
+            <a class="cardstack__link" href="{{- .Permalink -}}">sources</a>
+        </section>
     </article>
+    {{end}}
 </main>
 {{ end }}
-
-  */}}

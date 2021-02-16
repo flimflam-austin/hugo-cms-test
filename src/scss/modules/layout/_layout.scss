@@ -13,6 +13,7 @@
 }
 
 .l-grid-container {
+	position: relative;
 	width: 100%;
 	display: grid;
 	grid-template-columns: 1fr;
@@ -31,6 +32,10 @@
 
 	@include query-desktop-xl-up {
 		grid-template-columns: repeat(3, $card-width) $side-feed-width;
+	}
+
+	&--navoffset {
+		margin-top: 8rem;
 	}
 }
 
