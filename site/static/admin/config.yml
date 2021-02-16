@@ -314,6 +314,7 @@ collections:
                   required: false
                 - label: Tags
                   name: meta_tags
+                  hint: Used for sorting all post types.
                   widget: relation
                   collection: tags
                   search_fields:
@@ -322,6 +323,7 @@ collections:
                   multiple: true
                 - label: Card Category
                   name: card_category
+                  hint: Category that appears on the top of the card.
                   widget: relation
                   collection: card_categories
                   search_fields:
