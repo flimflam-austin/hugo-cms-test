@@ -540,9 +540,10 @@ collections:
       label: Pages
       create: false
       files:
-          - file: site/content/cardbreakdown.md
-            label: Card Breakdown
-            name: cardbreakdown
+          #- file: site/content/cardbreakdown.md
+          #  label: Card Breakdown
+          #  name: cardbreakdown
+          #  fields:
 
           - file: site/content/_index.md
             label: Home Page
