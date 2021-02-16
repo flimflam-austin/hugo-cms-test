@@ -1,5 +1,6 @@
 backend:
     name: git-gateway
+    repo: flimflam-austin/hugo-cms-test
     branch: master
 #publish_mode: editorial_workflow
 
