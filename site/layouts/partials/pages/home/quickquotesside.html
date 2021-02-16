@@ -1,11 +1,14 @@
-{{ $quickquotes := sort (where .Site.RegularPages "Section" "quickquotes") ".Params.meta.publishdate" "asc" }}
-{{ range (sort $quickquotes ".Params.meta.is_breaking" "=" true) }}
-<a class="qqprev {{ if (eq .Params.meta.is_breaking true)}} qqprev--breaking {{end}}" href="{{- .Permalink -}}">
+{{ $quickquotes := sort (where .Site.RegularPages "Section" "quickquotes") ".Params.meta.publishdate" }}
+{{ range (sort $quickquotes.Reverse ".Params.meta.is_breaking" "=" true).Reverse }}
+<a class="qqprev qqprev--side {{ if (eq .Params.meta.is_breaking true)}} qqprev--breaking {{end}}" href="{{- .Permalink -}}">
     <article class="qqprev__wrapper">
-        <h2 class="qqprev__quote"> {{ .Params.quotesum.quote }} </h2>
-        {{ .Params.meta.publishdate }}
+        {{ if (eq .Params.meta.is_breaking true)}} <div class="qqprev__breakingmarker">breaking</div> {{end}}
+        
+        <h2 class="qqprev__quote">&ldquo;{{ .Params.quotesum.quote }}&rdquo;</h2>
+        {{/*  {{ .Params.meta.publishdate }}  */}}
         <p class="qqprev__summary">{{ .Params.quotesum.quote_summary }}</p>
-        <hr>
     </article>
-</a> 
+</a>
+{{ if (eq .Params.meta.is_breaking false)}} <hr class="qqprev__ruler"> {{end}}
+
 {{ end }}

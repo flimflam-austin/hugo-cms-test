@@ -204,8 +204,8 @@ collections:
                   hint: Short description of image used for SEO and Accessibility
                   widget: string
                   required: true
-                - label: Image Attribution
-                  name: attribution
+                - label: Image Credit
+                  name: credit
                   hint: "Optional: Photographer credit."
                   widget: string
                   required: false
@@ -288,14 +288,14 @@ collections:
       folder: site/content/cardstack
       create: true
       fields:
+          - label: Slug
+            name: title
+            widget: string
+            required: true
           - label: Meta
             name: meta
             widget: object
             fields:
-                - label: Slug
-                  name: title
-                  widget: string
-                  required: true
                 - label: Publish Date
                   name: publishdate
                   widget: datetime
@@ -313,7 +313,7 @@ collections:
                   picker_utc: false
                   required: false
                 - label: Tags
-                  name: tags
+                  name: meta_tags
                   widget: relation
                   collection: tags
                   search_fields:
@@ -361,12 +361,12 @@ collections:
                   allow_multiple: false
                   required: true
                 - label: Image Alt Text
-                  name: image_alt
+                  name: alt
                   hint: Short description of image used for SEO and Accessibility
                   widget: string
                   required: true
-                - label: Image Attribution
-                  name: image_attribution
+                - label: Image Credit
+                  name: credit
                   hint: "Optional: Photographer credit."
                   widget: string
                   required: false
@@ -377,6 +377,7 @@ collections:
                 - label: Card Text
                   name: card_text
                   widget: markdown
+                  pattern: ['.{,400}', "400 characters Max."]
                   required: true
                 - label: Citation
                   name: card_citation
@@ -391,6 +392,7 @@ collections:
                 - label: Card Text
                   name: card_text
                   widget: markdown
+                  pattern: ['.{,400}', "400 characters Max."]
                   required: false
                 - label: Citation
                   name: card_citation
@@ -405,6 +407,7 @@ collections:
                 - label: Card Text
                   name: card_text
                   widget: markdown
+                  pattern: ['.{,400}', "400 characters Max."]
                   required: false
                 - label: Citation
                   name: card_citation
@@ -419,6 +422,7 @@ collections:
                 - label: Card Text
                   name: card_text
                   widget: markdown
+                  pattern: ['.{,400}', "400 characters Max."]
                   required: false
                 - label: Citation
                   name: card_citation
@@ -433,6 +437,7 @@ collections:
                 - label: Card Text
                   name: card_text
                   widget: markdown
+                  pattern: ['.{,400}', "400 characters Max."]
                   required: false
                 - label: Citation
                   name: card_citation
@@ -447,6 +452,7 @@ collections:
                 - label: Card Text
                   name: card_text
                   widget: markdown
+                  pattern: ['.{,400}', "400 characters Max."]
                   required: false
                 - label: Citation
                   name: card_citation
@@ -461,6 +467,7 @@ collections:
                 - label: Card Text
                   name: card_text
                   widget: markdown
+                  pattern: ['.{,400}', "400 characters Max."]
                   required: false
                 - label: Citation
                   name: card_citation
@@ -475,6 +482,7 @@ collections:
                 - label: Card Text
                   name: card_text
                   widget: markdown
+                  pattern: ['.{,400}', "400 characters Max."]
                   required: false
                 - label: Citation
                   name: card_citation
@@ -489,6 +497,7 @@ collections:
                 - label: Card Text
                   name: card_text
                   widget: markdown
+                  pattern: ['.{,400}', "400 characters Max."]
                   required: false
                 - label: Citation
                   name: card_citation
@@ -504,6 +513,7 @@ collections:
                 - label: Card Text
                   name: card_text
                   widget: markdown
+                  pattern: ['.{,400}', "400 characters Max."]
                   required: false
                 - label: Citation
                   name: card_citation
@@ -520,12 +530,12 @@ collections:
             widget: relation
             collection: authors
             search_fields:
-                - name.first
-                - name.last
-            value_field: .*
+                - title
+            value_field: title
             required: false
     - name: pages
       label: Pages
+      create: false
       files:
           - file: site/content/_index.md
             label: Home Page
@@ -741,3 +751,4 @@ collections:
                       - label: Image
                         name: imageUrl
                         widget: image
+            - file: site/content/pages

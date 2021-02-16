@@ -3,6 +3,7 @@
 
 @import "./modules/base/reset";
 
+@import "./modules/abstracts/mixins";
 @import "./modules/abstracts/variables";
 @import "./modules/abstracts/breakpoints";
 
@@ -16,6 +17,7 @@
 @import "./modules/components/buttons";
 @import "./modules/components/headrule";
 @import "./modules/components/homeslider";
+@import "./modules/components/scrollbar";
 
 @import "./modules/layout/layout";
 @import "./modules/layout/siteheader";

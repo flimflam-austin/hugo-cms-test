@@ -7,9 +7,12 @@
 	justify-content: space-between;
 	align-items: flex-end;
 
+	background-color: $color-white;
+
 	&--sticky {
 		position: sticky;
 		top: 0;
+		z-index: 10;
 	}
 
 	&__title {

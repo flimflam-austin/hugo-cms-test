@@ -68,6 +68,8 @@
   },
   "dependencies": {
     "flickity": "^2.2.2",
-    "flickity-imagesloaded": "^2.0.0"
+    "flickity-imagesloaded": "^2.0.0",
+    "overlayscrollbars": "^1.13.1",
+    "simplebar": "^5.3.0"
   }
 }
