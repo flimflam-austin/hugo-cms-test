@@ -168,21 +168,21 @@ collections:
             name: summary
             widget: object
             fields:
-                - label: Quote
+                - label: Featured Quote
                   name: quote
                   hint: Brief quote that will appear on the preview card and top of post.
                   widget: text
                   required: true
-                - label: Full Quote
-                  name: quote_full
-                  hint: Only required if you want a longer quote on the post page than will fit cleanly on the preview card. The 'short quote' will still appear on the card, but the 'full quote' will appear in the post.
-                  widget: text
-                  required: false
                 - label: Quote Summary
                   name: quote_summary
                   hint: Brief explanation of quote that will appear under 'short quote'.
                   widget: text
                   required: true
+                - label: Full Quote
+                  name: quote_full
+                  hint: Only required if you want a longer quote on the post page than will fit cleanly on the preview card. The 'featured quote' will still appear on the card, but the 'full quote' will appear in the post.
+                  widget: text
+                  required: false
                 - label: Citation
                   name: quote_citation
                   hint: Who or what is being quoted.
@@ -191,11 +191,13 @@ collections:
           - label: Post Image
             name: postimage
             widget: object
+            required: false
             fields:
                 - label: Image
                   name: image
                   widget: image
                   allow_multiple: false
+                  required: true
                 - label: Alt Text
                   name: alt
                   hint: Short description of image used for SEO and Accessibility
@@ -215,9 +217,8 @@ collections:
             widget: relation
             collection: authors
             search_fields:
-                - name.first
-                - name.last
-            value_field: .*
+                - title
+            value_field: title
             required: false
     - label: Authors
       name: authors
