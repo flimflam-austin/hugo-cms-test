@@ -284,7 +284,7 @@ collections:
                   required: false
     - label: Card Stacks
       name: card_stack
-      slug: "{{year}}--{{month}}--{{day}}--{{slug}}"
+      slug: "{{year}}{{month}}{{day}}-{{slug}}"
       folder: site/content/cardstack
       create: true
       fields:
@@ -300,18 +300,11 @@ collections:
                   name: publishdate
                   widget: datetime
                   default: ""
-                  date_format: MM.DD.YYYY
-                  time_format: HH.mm
-                  format: LLL
-                  picker_utc: false
                   required: true
                 - label: Modified Date
                   name: modifieddate
                   widget: datetime
-                  date_format: MM.DD.YYYY
-                  time_format: HH.mm
-                  format: LLL
-                  picker_utc: false
+                  default: ""
                   required: false
                 - label: Tags
                   name: meta_tags

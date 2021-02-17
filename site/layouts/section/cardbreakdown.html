@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main class="l-grid-container l-grid-container--navoffset cardtest-main">
-    {{range first 1 (where .Site.RegularPages "Section" "cardstack")}}
+    {{range first 1 (sort (where .Site.RegularPages "Section" "cardstack") .Params.meta.publishdate) }}
     <article class="cardstack cardstack--spread cardstack--{{- .Params.color_palette_classname -}}">
         <section class="cardstack__cards">
 
@@ -409,7 +409,12 @@
     </article>
 
     <div class="cardstack__content">
-        
+        <p>sample paragraph</p>
+        <p>sample paragraph</p>
+        <h1>H1 heading sample</h1>
+        <h2>H2 heading sample</h2>
+        <h3>H3 heading sample</h3>
+        <h4>H4 heading sample</h4>
     </div>
     {{end}}
 </main>
