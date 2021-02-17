@@ -1,8 +1,8 @@
 ---
 title: "Nellie Bly OTD "
 meta:
-  publishdate: February 16, 2021 9:31 AM
-  modifieddate: February 16, 2021 9:30 AM
+  publishdate: 2021-02-17T03:55:51.500Z
+  modifieddate: 2021-02-17T03:55:52.933Z
   meta_tags:
     - test 01
   card_category: Politics
