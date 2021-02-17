@@ -1,8 +1,8 @@
 ---
 title: Sample Card
 meta:
-    publishdate: February 17, 2021 9:19 PM
-    modifieddate: February 17, 2021 9:19 PM
+    publishdate: 2018-03-18T15:13:28+00:00
+    modifieddate: 2018-03-18T15:13:28+00:00
     meta_tags:
         - test 01
     card_category: Current Events

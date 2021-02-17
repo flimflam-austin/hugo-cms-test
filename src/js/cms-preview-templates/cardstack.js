@@ -157,9 +157,7 @@ export default class CardPreview extends React.Component {
 							</div>
 						</section>
 						<section class="cardstack__details">
-							<p class="cardstack__date">
-								{entry.getIn(["data", "meta", "publishdate"])}
-							</p>
+							<p class="cardstack__date"></p>
 							<a class="cardstack__link" href="/">
 								sources
 							</a>
