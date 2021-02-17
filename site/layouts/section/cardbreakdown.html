@@ -1,7 +1,7 @@
 {{ define "main" }}
 <main class="l-grid-container l-grid-container--navoffset cardtest-main">
     {{range first 1 (where .Site.RegularPages "Section" "cardstack")}}
-    <article class="cardstack cardstack--{{- .Params.color_palette_classname -}}">
+    <article class="cardstack cardstack--spread cardstack--{{- .Params.color_palette_classname -}}">
         <section class="cardstack__cards">
 
             <div class="stackcard">
@@ -371,6 +371,8 @@
                                 </div>
 
                                 <div class="stackcard__content">
+                                    <div class="stackcard__checkmark"></div>
+                                    
                                     <div class="stackcard__text">{{- .Params.card_10.card_text | markdownify -}}</div>
                                     <p class="stackcard__citation">{{- .Params.card_10.card_citation -}}</p>
                                 </div>
@@ -388,6 +390,8 @@
                                 </div>
 
                                 <div class="stackcard__content">
+                                    <div class="stackcard__checkmark"></div>
+                                    
                                     <div class="stackcard__text">{{- .Params.card_10.card_text | markdownify -}}</div>
                                     <p class="stackcard__citation">{{- .Params.card_10.card_citation -}}</p>
                                 </div>
@@ -403,6 +407,10 @@
             <a class="cardstack__link" href="{{- .Permalink -}}">sources</a>
         </section>
     </article>
+
+    <div class="cardstack__content">
+        
+    </div>
     {{end}}
 </main>
 {{ end }}

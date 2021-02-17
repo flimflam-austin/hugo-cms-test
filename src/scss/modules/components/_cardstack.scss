@@ -185,22 +185,34 @@ $card-border-style: $card-border-width solid $card-border-color;
 		background-repeat: no-repeat;
 	}
 
+	&__checkmark {
+		display: inline-block;
+		width: $card-padding * 4;
+		height: $card-padding * 5;
+		margin: ($card-padding) auto $card-padding auto;
+	}
+
 	&__content {
 		position: relative;
 		width: 100%;
 		height: 100%;
-		//padding: $card-padding;
+		padding-bottom: $card-padding * 2;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
 
+	&__text {
+		width: 100%;
+		height: 100%;
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-
-		&--lower {
-		}
 	}
 
 	&__citation {
+		display: inline-block;
 		position: absolute;
 		width: 100%;
 		bottom: 0;
@@ -213,6 +225,10 @@ $card-border-style: $card-border-width solid $card-border-color;
 /* Color Schemes */
 $icon-light: url("/img/sh_sunglasses_white.png");
 $icon-dark: url("/img/sh_sunglasses_sage.png");
+
+@function url-friendly-colour($colour) {
+	@return "%23" + str-slice("#{$colour}", 2, -1);
+}
 
 @mixin cardcolorscheme($background, $border, $text, $icon) {
 	& .stackcard {
@@ -231,11 +247,18 @@ $icon-dark: url("/img/sh_sunglasses_sage.png");
 		&__content,
 		&__citation,
 		&__category {
-			color: $text-col;
+			color: $text;
+		}
+
+		&__checkmark {
+			background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" fill="#{url-friendly-colour($text)}" viewBox="0 0 24 24" width="96px" height="96px"><path d="M 22.59375 3.5 L 8.0625 18.1875 L 1.40625 11.5625 L 0 13 L 8.0625 21 L 24 4.9375 Z"/></svg>');
+			background-repeat: no-repeat;
+			background-position: center;
+			background-size: contain;
 		}
 
 		&__logo {
-			background-image: $icon-col;
+			background-image: $icon;
 		}
 	}
 }

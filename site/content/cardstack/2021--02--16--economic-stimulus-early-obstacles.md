@@ -54,4 +54,7 @@ card_05:
 
 
         Chief investment strategist of the Leuthold Group, Jim Paulsen, on the potential impact of too much stimulus money leading to unintended consequences (like inflation). Paulsen worries “the overuse and abuse of economic policy” could lead to a recession in 2022 or 2023.
+card_10:
+    card_text: Austin loves the snow. He's crazy.
+    card_citation: test citation
 ---
