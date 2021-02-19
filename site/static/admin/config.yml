@@ -5,7 +5,7 @@ local_backend: true
 
 publish_mode: editorial_workflow
 
-media_folder: site/static/uploads # Folder where user uploaded files should go
+media_folder: static/uploads # Folder where user uploaded files should go
 public_folder: /uploads
 
 collections:
@@ -329,7 +329,6 @@ collections:
           - label: Color Palette
             name: color_palette_classname
             widget: select
-            #multiple: false
             options:
                 - white
                 - light-gray
@@ -535,11 +534,6 @@ collections:
       label: Pages
       create: false
       files:
-          #- file: site/content/cardbreakdown.md
-          #  label: Card Breakdown
-          #  name: cardbreakdown
-          #  fields:
-
           - file: site/content/_index.md
             label: Home Page
             name: home
@@ -754,4 +748,3 @@ collections:
                       - label: Image
                         name: imageUrl
                         widget: image
-          #- file: site/content/pages
