@@ -11,9 +11,18 @@ export default class CardPreview extends React.Component {
 			"color_palette_classname",
 		])}`;
 
-		let bgImage = getAsset(
+		let image = getAsset(
 			entry.getIn(["data", "background_image", "image"])
 		);
+
+		// Bit of a nasty hack to make relative paths work as expected as a background image here
+		if (image && !image.fileObj) {
+			image =
+				window.parent.location.protocol +
+				"//" +
+				window.parent.location.host +
+				image;
+		}
 
 		/* const renderBgImage = ({ props }) => {
 			try {
@@ -55,7 +64,7 @@ export default class CardPreview extends React.Component {
 									<div class="stackcard__body">
 										<img
 											class="stackcard__bgimage"
-											src={bgImage}
+											src={image}
 											alt={entry.getIn([
 												"data",
 												"background_image",
@@ -101,7 +110,7 @@ export default class CardPreview extends React.Component {
 									<div class="stackcard__body stackcard__body--lower">
 										<img
 											class="stackcard__bgimage"
-											src={bgImage}
+											src={image}
 											alt={entry.getIn([
 												"data",
 												"background_image",
