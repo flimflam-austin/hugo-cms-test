@@ -360,6 +360,7 @@ collections:
                   name: alt
                   hint: Short description of image used for SEO and Accessibility
                   widget: string
+                  default: ""
                   required: true
                 - label: Image Credit
                   name: credit
