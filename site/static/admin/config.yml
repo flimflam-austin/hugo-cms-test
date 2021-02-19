@@ -329,8 +329,7 @@ collections:
             name: color_palette_classname
             widget: select
             multiple: false
-            default:
-                - white
+            default: ["white"]
             options:
                 - white
                 - light-gray
