@@ -11,10 +11,11 @@ export default class CardPreview extends React.Component {
 			"color_palette_classname",
 		])}`;
 
-		const renderBgImage = ({ props }) => {
-			/* const bgImage = props.getAsset(
-				props.entry.getIn(["data", "background_image", "bg_image"])
-			); */
+		let bgImage = getAsset(
+			entry.getIn(["data", "background_image", "image"])
+		);
+
+		/* const renderBgImage = ({ props }) => {
 			try {
 				let imageGet = props.entry.getIn([
 					"data",
@@ -42,7 +43,7 @@ export default class CardPreview extends React.Component {
 			} catch (error) {
 				return null;
 			}
-		};
+		}; */
 
 		return (
 			<div>
@@ -52,7 +53,15 @@ export default class CardPreview extends React.Component {
 							<div class="stackcard">
 								<div class="stackcard__frame">
 									<div class="stackcard__body">
-										{renderBgImage(this.props)}
+										<img
+											class="stackcard__bgimage"
+											src={bgImage}
+											alt={entry.getIn([
+												"data",
+												"background_image",
+												"alt",
+											])}
+										/>
 										<div class="stackcard__borderwrapper">
 											<div class="stackcard__borderelements">
 												<span class="stackcard__borderpiece"></span>
@@ -90,7 +99,15 @@ export default class CardPreview extends React.Component {
 									aria-hidden="true"
 								>
 									<div class="stackcard__body stackcard__body--lower">
-										{renderBgImage(this.props)}
+										<img
+											class="stackcard__bgimage"
+											src={bgImage}
+											alt={entry.getIn([
+												"data",
+												"background_image",
+												"alt",
+											])}
+										/>
 										<div class="stackcard__borderwrapper">
 											<div class="stackcard__borderelements stackcard__borderelements--lower">
 												<span class="stackcard__borderpiece"></span>
