@@ -328,6 +328,9 @@ collections:
           - label: Color Palette
             name: color_palette_classname
             widget: select
+            multiple: false
+            default:
+                - white
             options:
                 - white
                 - light-gray
