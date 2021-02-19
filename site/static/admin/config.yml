@@ -1,7 +1,7 @@
 backend:
-    - name: git-gateway
-      repo: flimflam-austin/hugo-cms-test
-      branch: master
+    name: git-gateway
+    repo: flimflam-austin/hugo-cms-test
+    branch: master
 publish_mode: editorial_workflow
 
 media_folder: site/static/uploads # Folder where user uploaded files should go
