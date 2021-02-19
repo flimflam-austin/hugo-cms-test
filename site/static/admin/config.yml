@@ -1,11 +1,11 @@
 backend:
-    name: git-gateway
-    repo: flimflam-austin/hugo-cms-test
-    branch: master
+    - name: git-gateway
+      repo: flimflam-austin/hugo-cms-test
+      branch: master
 publish_mode: editorial_workflow
 
-media_folder: "site/static/uploads" # Folder where user uploaded files should go
-public_folder: "uploads"
+media_folder: site/static/uploads # Folder where user uploaded files should go
+public_folder: uploads
 
 collections:
     - label: Tags
@@ -328,8 +328,8 @@ collections:
           - label: Color Palette
             name: color_palette_classname
             widget: select
-            multiple: false
-            default: ["white"]
+            #multiple: false
+            default: white
             options:
                 - white
                 - light-gray

@@ -1,7 +1,5 @@
 import React from "react";
 
-const card = (colorClass, cardCategory, cardContent);
-
 export default class CardPreview extends React.Component {
 	render() {
 		const entry = this.props.entry;
@@ -13,8 +11,8 @@ export default class CardPreview extends React.Component {
 			"color_palette_classname",
 		])}`;
 
-		const renderBgImage = (props) => {
-			const bgImage = getAsset(
+		const renderBgImage = ({ props }) => {
+			const bgImage = props.getAsset(
 				props.entry.getIn(["data", "background_image", "bg_image"])
 			);
 
