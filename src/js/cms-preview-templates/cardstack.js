@@ -15,28 +15,31 @@ export default class CardPreview extends React.Component {
 			/* const bgImage = props.getAsset(
 				props.entry.getIn(["data", "background_image", "bg_image"])
 			); */
+			try {
+				let imageGet = props.entry.getIn([
+					"data",
+					"background_image",
+					"bg_image",
+				]);
 
-			let imageGet = props.entry.getIn([
-				"data",
-				"background_image",
-				"bg_image",
-			]);
+				let bgImage = imageGet ? props.getAsset(imageGet) : null;
 
-			let bgImage = imageGet ? props.getAsset(imageGet) : null;
-
-			if (bgImage) {
-				return (
-					<img
-						class="stackcard__bgimage"
-						src={bgImage}
-						alt={props.entry.getIn([
-							"data",
-							"background_image",
-							"alt",
-						])}
-					/>
-				);
-			} else {
+				if (bgImage) {
+					return (
+						<img
+							class="stackcard__bgimage"
+							src={bgImage}
+							alt={props.entry.getIn([
+								"data",
+								"background_image",
+								"alt",
+							])}
+						/>
+					);
+				} else {
+					return null;
+				}
+			} catch (error) {
 				return null;
 			}
 		};
