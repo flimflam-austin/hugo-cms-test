@@ -6,15 +6,23 @@ export default class CardPreview extends React.Component {
 		const getAsset = this.props.getAsset;
 		const widgetFor = this.props.widgetFor;
 
-		/*let colorClass = `cardstack cardstack--${entry.getIn([
+		let colorClass = `cardstack cardstack--${entry.getIn([
 			"data",
 			"color_palette_classname",
-		])}`;*/
+		])}`;
 
 		const renderBgImage = ({ props }) => {
 			const bgImage = props.getAsset(
 				props.entry.getIn(["data", "background_image", "bg_image"])
 			);
+
+			let imageGet = props.entry.getIn([
+				"data",
+				"background_image",
+				"bg_image",
+			]);
+
+			let bgImage = imageGet ? props.getAsset(imageGet) : null;
 
 			if (bgImage) {
 				return (
