@@ -62,15 +62,18 @@ export default class CardPreview extends React.Component {
 							<div class="stackcard">
 								<div class="stackcard__frame">
 									<div class="stackcard__body">
-										<img
-											class="stackcard__bgimage"
-											src={image}
-											alt={entry.getIn([
-												"data",
-												"background_image",
-												"alt",
-											])}
-										/>
+										{image && (
+											<img
+												class="stackcard__bgimage"
+												src={image}
+												alt={entry.getIn([
+													"data",
+													"background_image",
+													"alt",
+												])}
+											/>
+										)}
+
 										<div class="stackcard__borderwrapper">
 											<div class="stackcard__borderelements">
 												<span class="stackcard__borderpiece"></span>
@@ -108,15 +111,17 @@ export default class CardPreview extends React.Component {
 									aria-hidden="true"
 								>
 									<div class="stackcard__body stackcard__body--lower">
-										<img
-											class="stackcard__bgimage"
-											src={image}
-											alt={entry.getIn([
-												"data",
-												"background_image",
-												"alt",
-											])}
-										/>
+										{image && (
+											<img
+												class="stackcard__bgimage"
+												src={image}
+												alt={entry.getIn([
+													"data",
+													"background_image",
+													"alt",
+												])}
+											/>
+										)}
 										<div class="stackcard__borderwrapper">
 											<div class="stackcard__borderelements stackcard__borderelements--lower">
 												<span class="stackcard__borderpiece"></span>
