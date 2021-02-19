@@ -12,9 +12,9 @@ export default class CardPreview extends React.Component {
 		])}`;
 
 		const renderBgImage = ({ props }) => {
-			const bgImage = props.getAsset(
+			/* const bgImage = props.getAsset(
 				props.entry.getIn(["data", "background_image", "bg_image"])
-			);
+			); */
 
 			let imageGet = props.entry.getIn([
 				"data",
