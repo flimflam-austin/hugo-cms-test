@@ -133,7 +133,6 @@ export default class CardPreview extends React.Component {
 													])}
 												</div>
 												<p class="stackcard__citation">
-													$
 													{entry.getIn([
 														"data",
 														"card_02",
