@@ -18,7 +18,7 @@ export default class CardPreview extends React.Component {
 		return (
 			<div>
 				<main class="l-grid-container l-grid-container--navoffset cardtest-main">
-					<article /*class={colorClass}*/>
+					<article class={colorClass}>
 						<section class="cardstack__cards">
 							<div class="stackcard">
 								<div class="stackcard__frame">
