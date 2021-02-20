@@ -11,18 +11,18 @@ export default class CardPreview extends React.Component {
 			"color_palette_classname",
 		])}`;
 
-		let image = getAsset(
+		let image = this.props.getMedia(
 			entry.getIn(["data", "background_image", "image"])
 		);
 
 		// Bit of a nasty hack to make relative paths work as expected as a background image here
-		if (image && !image.fileObj) {
+		/* if (image && !image.fileObj) {
 			image =
 				window.parent.location.protocol +
 				"//" +
 				window.parent.location.host +
 				image;
-		}
+		} */
 
 		/* const renderBgImage = ({ props }) => {
 			try {
