@@ -2,9 +2,11 @@
 import { initHomeSlider } from "./modules/homeslider";
 import { initReloadToTop } from "./modules/totoponreload";
 import { initCustomScrollbar } from "./modules/scrollbars";
+import { initCardFlip } from "./modules/cardflip";
 
 initReloadToTop();
 initHomeSlider();
+initCardFlip();
 //initCustomScrollbar();
 
 if (window.netlifyIdentity) {

@@ -54,34 +54,34 @@ $card-border-style: $card-border-width solid $card-border-color;
 
 .stackcard {
 	&:nth-child(1) {
-		z-index: 10;
+		z-index: map-get($zindex, page-low) + 10;
 	}
 	&:nth-child(2) {
-		z-index: 9;
+		z-index: map-get($zindex, page-low) + 9;
 	}
 	&:nth-child(3) {
-		z-index: 8;
+		z-index: map-get($zindex, page-low) + 8;
 	}
 	&:nth-child(4) {
-		z-index: 7;
+		z-index: map-get($zindex, page-low) + 7;
 	}
 	&:nth-child(5) {
-		z-index: 6;
+		z-index: map-get($zindex, page-low) + 6;
 	}
 	&:nth-child(6) {
-		z-index: 5;
+		z-index: map-get($zindex, page-low) + 5;
 	}
 	&:nth-child(7) {
-		z-index: 4;
+		z-index: map-get($zindex, page-low) + 4;
 	}
 	&:nth-child(8) {
-		z-index: 3;
+		z-index: map-get($zindex, page-low) + 3;
 	}
 	&:nth-child(9) {
-		z-index: 2;
+		z-index: map-get($zindex, page-low) + 2;
 	}
 	&:nth-child(10) {
-		z-index: 1;
+		z-index: map-get($zindex, page-low) + 1;
 	}
 }
 
@@ -326,4 +326,119 @@ $icon-dark: url("/img/sh_sunglasses_sage.png");
 	&--bronze {
 		@include cardcolorscheme(#bf8a75, #f8dbd5, #ffffff, $icon-light);
 	}
+}
+
+/* flip animations */
+
+@keyframes flipCurrentCardLower {
+	0% {
+		transform: rotateX(0deg);
+		filter: brightness(1.2);
+	}
+	99% {
+		transform: rotateX(180deg);
+		opacity: 100%;
+		height: 50%;
+	}
+	100% {
+		opacity: 0;
+		height: 0;
+	}
+}
+
+@keyframes flipCurrentCardUpper {
+	0% {
+		transform: rotateX(0deg);
+		filter: brightness(0.2);
+	}
+	99% {
+		transform: rotateX(-180deg);
+		opacity: 100%;
+		height: 50%;
+	}
+	100% {
+		opacity: 0;
+		height: 0;
+	}
+}
+
+@keyframes flipNewCardLower {
+	0% {
+		transform: rotateX(180deg);
+		filter: brightness(1.2);
+		opacity: 100%;
+	}
+	100% {
+		transform: rotateX(0deg);
+		opacity: 100%;
+		filter: none;
+	}
+}
+
+@keyframes flipNewCardUpper {
+	0% {
+		transform: rotateX(-180deg);
+		filter: brightness(0.2);
+		opacity: 100%;
+	}
+	100% {
+		transform: rotateX(0deg);
+		opacity: 100%;
+		filter: none;
+	}
+}
+
+$card-flip-duration: 2s;
+
+.stackcard {
+	perspective: 100px;
+
+	&--hidden {
+		display: none;
+	}
+
+	&__frame {
+		transform: rotateX(0deg);
+		backface-visibility: hidden;
+		transform-style: preserve-3d;
+		animation-duration: $card-flip-duration;
+		animation-fill-mode: forwards;
+		animation-timing-function: ease-in;
+
+		&--upper {
+			transform-origin: bottom left;
+		}
+
+		&--lower {
+			transform-origin: top left;
+		}
+	}
+}
+
+.stackcard--clicked .stackcard__frame--lower {
+	animation-name: flipCurrentCardLower;
+	/* z-index: map-get($zindex, page-mid); */
+}
+
+.stackcard--activated .stackcard__frame--upper {
+	animation-name: flipNewCardUpper;
+	/* z-index: map-get($zindex, page-mid + 1); */
+	z-index: 9000;
+}
+
+.stackcard--clicked--previous .stackcard__frame--upper {
+	animation-name: flipCurrentCardUpper;
+	/* z-index: map-get($zindex, page-mid); */
+	z-index: 9000;
+}
+
+.stackcard--activated--previous .stackcard__frame--lower {
+	animation-name: flipNewCardLower;
+}
+
+.stackcard__body,
+.stackcard__bgimage,
+.stackcard__text,
+.stackcard__borderwrapper {
+	pointer-events: none;
 }

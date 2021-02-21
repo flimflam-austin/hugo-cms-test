@@ -3,36 +3,25 @@
 <main class="l-grid-container home__feeds">
     <div class="home__feed">
         <section class="feed-section">
-            <header class="headrule headrule--sticky">
-                <h2 class="headrule__title">watch: videos</h2>
-                <a class="headrule__link" href="#">view all</a>
-            </header>
+            {{ partial "components/ruledtitle" (dict "_sectionTitle" "watch: videos" "_viewAllLink" "")}}
             <div class="l-grid-content feed-section__content">
                 {{ partial "pages/home/homeslider" . }}
             </div>
         </section>
         <section class="feed-section feed-section--mobileonly">
-            <header class="headrule headrule--sticky">
-                <h2 class="headrule__title">flip: quick quotes</h2>
-                <a class="headrule__link" href="#">view all</a>
-            </header>
+            {{ partial "components/ruledtitle" (dict "_sectionTitle" "read: quick quotes" "_viewAllLink" "/quickquotes/")}}
             <div class="l-sidescroll feed-section__content">
                 {{ partial "pages/home/quickquotesmain" . }}
             </div>
         </section>
         <section class="feed-section">
-            <header class="headrule headrule--sticky">
-                <h2 class="headrule__title">flip: quick reads</h2>
-                <a class="headrule__link" href="#">view all</a>
-            </header>
+            {{ partial "components/ruledtitle" (dict "_sectionTitle" "flip: quick reads" "_viewAllLink" "/cardstacks/")}}
             <div class="l-grid-content feed-section__content">
+                {{ partial "pages/home/cardstacks" . }}
             </div>
         </section>
         <section class="feed-section">
-            <header class="headrule headrule--sticky">
-                <h2 class="headrule__title">videos</h2>
-                <a class="headrule__link" href="#">view all</a>
-            </header>
+            {{ partial "components/ruledtitle" (dict "_sectionTitle" "videos" "_viewAllLink" "/videoposts/")}}
             <div class="l-grid-content feed-section__content">
                 {{ partial "pages/home/homevideos" . }}
             </div>
@@ -40,10 +29,7 @@
     </div>
     <div class="home__feed home__feed--side">
         <section class="feed-section">
-            <header class="headrule">
-                <h2 class="headrule__title">read: quick quotes</h2>
-                <a class="headrule__link" href="#">view all</a>
-            </header>
+            {{ partial "components/ruledtitle" (dict "_sectionTitle" "read: quick quotes" "_viewAllLink" "/quickquotes/")}}
             <div class="feed-section__content feed-section__content--side">
                 {{ partial "pages/home/quickquotesside" . }}
             </div>
