@@ -8,15 +8,6 @@ media_folder: site/static/uploads # Folder where user uploaded files should go
 public_folder: /uploads
 
 collections:
-    #- label: Tags
-    #  name: tags
-    #  folder: site/content/tags
-    #  create: true
-    #  fields:
-    #      - label: Title
-    #        name: title
-    #        widget: string
-    #        required: true
     - label: Card Categories
       name: card_categories
       folder: site/content/cardcategories
@@ -37,7 +28,7 @@ collections:
             required: true
     - label: Video Posts
       name: videoposts
-      slug: "{{year}}--{{month}}--{{day}}--{{slug}}"
+      slug: "{{year}}{{month}}{{day}}-{{slug}}"
       folder: site/content/videoposts
       create: true
       fields:
@@ -60,9 +51,6 @@ collections:
             hint: Separate tags with commas (politics, potus). Use lowercase.
             allow_add: true
             min: 1
-            default: ["politics"]
-            add_to_top: true
-            collapsed: false
             pattern:
                 ["^[a-z0-9 ,]*$", "Tags must be lower case letters or numbers"]
             required: true
@@ -88,7 +76,6 @@ collections:
                 - label: Publish Date
                   name: date_published
                   widget: datetime
-                  default: ""
                   date_format: MM.DD.YYYY
                   time_format: HH.mm
                   format: LLL
@@ -97,20 +84,25 @@ collections:
                 - label: Modified Date
                   name: date_modified
                   widget: datetime
-                  default: ""
                   date_format: MM.DD.YYYY
                   time_format: HH.mm
                   format: LLL
                   picker_utc: false
                   required: false
-                - label: Tags
-                  name: tags
+                - label: Post Author
+                  name: post_author
                   widget: list
-                  collection: tags
-                  search_fields:
-                      - title
-                  value_field: title
-                  multiple: true
+                  allow_add: true
+                  label_singular: Add Co-author
+                  summary: Author
+                  required: false
+                  fields:
+                - label: author
+                  name: author
+                  widget: relation
+                  collection: authors
+                  search_fields: ["title"]
+                  value_field: ["title"]
           - label: Post Image
             name: featured_image
             widget: object
@@ -126,7 +118,7 @@ collections:
                   required: true
                 - label: Image Attribution
                   name: attribution
-                  hint: "Optional: Photographer credit."
+                  hint: "Photographer credit."
                   widget: string
                   required: false
           - label: Summary
@@ -138,24 +130,24 @@ collections:
             name: article
             widget: markdown
             required: false
-          - label: Author
-            name: author
-            widget: relation
-            collection: authors
-            search_fields:
-                - name.first
-                - name.last
-            value_field: .*
-            required: false
     - label: Quick Quotes
       name: quick_quotes
-      slug: "{{year}}--{{month}}--{{day}}--{{slug}}"
+      slug: "{{year}}{{month}}{{day}}-{{slug}}"
       folder: site/content/quickquotes
       create: true
       fields:
           - label: Title
             name: title
             widget: string
+            required: true
+          - label: Tags
+            name: tags
+            widget: list
+            hint: Separate tags with commas (politics, potus). Use lowercase.
+            allow_add: true
+            min: 1
+            pattern:
+                ["^[a-z0-9 ,]*$", "Tags must be lower case letters or numbers"]
             required: true
           - label: Meta
             name: meta
@@ -169,7 +161,6 @@ collections:
                 - label: Publish Date
                   name: date_published
                   widget: datetime
-                  default: ""
                   date_format: MM.DD.YYYY
                   time_format: HH.mm
                   format: LLL
@@ -178,20 +169,25 @@ collections:
                 - label: Modified Date
                   name: date_modified
                   widget: datetime
-                  default: ""
                   date_format: MM.DD.YYYY
                   time_format: HH.mm
                   format: LLL
                   picker_utc: false
                   required: false
-                - label: Tags
-                  name: meta_tags
-                  widget: relation
-                  collection: tags
-                  search_fields:
-                      - title
-                  value_field: title
-                  multiple: true
+                - label: Post Author
+                  name: post_author
+                  widget: list
+                  allow_add: true
+                  label_singular: Add Co-author
+                  summary: Author
+                  required: false
+                  fields:
+                      - label: author
+                        name: author
+                        widget: relation
+                        collection: authors
+                        search_fields: ["title"]
+                        value_field: ["title"]
           - label: Featured Quote
             name: featured_quote
             widget: object
@@ -226,52 +222,32 @@ collections:
                   hint: Short description of image used for SEO and Accessibility
                   widget: string
                   required: true
-                - label: Image Credit
-                  name: credit
-                  hint: "Optional: Photographer credit."
+                - label: Image Attribution
+                  name: attribution
+                  hint: "Photographer credit."
                   widget: string
                   required: false
           - label: Article
             name: article
             widget: markdown
             required: false
-          - label: Author
-            name: author
-            widget: relation
-            collection: authors
-            search_fields:
-                - title
-            value_field: title
-            required: false
     - label: Authors
       name: authors
-      slug: "{{year}}--{{month}}--{{day}}--{{slug}}"
+      slug: "{{slug}}"
       folder: site/content/authors
       create: true
       fields:
-          - label: Title
+          - label: Name
             name: title
             widget: string
             required: true
           - label: Date and Time
-            name: date_time
+            name: date_added
             widget: datetime
-            default: ""
             date_format: MM.DD.YYYY
             time_format: HH.mm
             format: LLL
-            picker_utc: false
-          - label: Name
-            name: name
-            widget: object
-            fields:
-                - label: First
-                  name: first
-                  widget: string
-                - label: Last
-                  name: last
-                  widget: string
-                  required: false
+            picker_utc: true
           - label: Bio
             name: bio
             widget: markdown
@@ -279,7 +255,7 @@ collections:
           - label: Author Image
             name: author_image
             widget: image
-            allow_multiple: false
+            allow_multiple: true
           - label: Contact
             name: contact
             widget: object
@@ -314,29 +290,27 @@ collections:
             name: title
             widget: string
             required: true
+          - label: Tags
+            name: tags
+            widget: list
+            hint: Separate tags with commas (politics, potus). Use lowercase.
+            allow_add: true
+            min: 1
+            pattern:
+                ["^[a-z0-9 ,]*$", "Tags must be lower case letters or numbers"]
+            required: true
           - label: Meta
             name: meta
             widget: object
             fields:
                 - label: Publish Date
-                  name: publishdate
+                  name: date_published
                   widget: datetime
-                  default: ""
                   required: true
                 - label: Modified Date
-                  name: modifieddate
+                  name: date_modified
                   widget: datetime
-                  default: ""
                   required: false
-                - label: Tags
-                  name: meta_tags
-                  hint: Used for sorting all post types.
-                  widget: relation
-                  collection: tags
-                  search_fields:
-                      - title
-                  value_field: title
-                  multiple: true
                 - label: Card Category
                   name: card_category
                   hint: Category that appears on the top of the card.
@@ -347,6 +321,20 @@ collections:
                   value_field: title
                   multiple: false
                   required: true
+                - label: Post Author
+                  name: post_author
+                  widget: list
+                  allow_add: true
+                  label_singular: Add Co-author
+                  summary: Author
+                  required: false
+                  fields:
+                      - label: author
+                        name: author
+                        widget: relation
+                        collection: authors
+                        search_fields: ["title"]
+                        value_field: ["title"]
           - label: Color Palette
             name: color_palette_classname
             widget: select
@@ -374,7 +362,7 @@ collections:
             required: false
             fields:
                 - label: Image
-                  name: bg_image
+                  name: image
                   widget: image
                   allow_multiple: false
                   required: true
@@ -384,9 +372,9 @@ collections:
                   widget: string
                   default: ""
                   required: true
-                - label: Image Credit
-                  name: credit
-                  hint: "Optional: Photographer credit."
+                - label: Image Attribution
+                  name: attribution
+                  hint: "Photographer credit."
                   widget: string
                   required: false
           - label: Card 1
@@ -543,14 +531,6 @@ collections:
             name: sources
             hint: For sources and supporting text on post page.
             widget: markdown
-            required: false
-          - label: Author
-            name: author
-            widget: relation
-            collection: authors
-            search_fields:
-                - title
-            value_field: title
             required: false
     - name: pages
       label: Pages
