@@ -98,12 +98,12 @@ collections:
                   summary: Author
                   required: false
                   fields:
-                - label: author
-                  name: author
-                  widget: relation
-                  collection: authors
-                  search_fields: ["title"]
-                  value_field: ["title"]
+                      - label: author
+                        name: author
+                        widget: relation
+                        collection: authors
+                        search_fields: ["title"]
+                        value_field: ["title"]
           - label: Post Image
             name: featured_image
             widget: object
