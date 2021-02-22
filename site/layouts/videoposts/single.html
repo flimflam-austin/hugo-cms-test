@@ -2,7 +2,7 @@
     <main class="l-page__container">
         <article>
             <header>
-                <p>{{ delimit .Params.category ", " }}</p>
+                {{/*<p>{{ .Params.video_category }}</p>*/}}
                 <h1>{{ .Params.summary}}</h1>
                 <hr>
                 <p>Published on <time datetime="{{ .Params.date_published }}">{{- .Params.meta.date_published -}}</time></p>
@@ -26,7 +26,6 @@
             </figure>
 
             <section>
-                {{/*{{ partial "components/youtube"}}*/}}
                 {{ .Params.article | markdownify }}
             </section>
 
