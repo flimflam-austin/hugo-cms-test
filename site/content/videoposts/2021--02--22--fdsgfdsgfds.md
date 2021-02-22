@@ -1,7 +1,7 @@
 ---
 title: fdsgfdsgfds
 tags:
-  - politics
+  - politics8
 meta:
   is_breaking_slider: false
   is_breaking_dropdown: false
