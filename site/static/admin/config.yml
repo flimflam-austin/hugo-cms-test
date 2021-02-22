@@ -88,6 +88,7 @@ collections:
                   date_format: MM.DD.YYYY
                   time_format: HH.mm
                   format: LLL
+                  default: ""
                   picker_utc: false
                   required: false
                 - label: Post Author
@@ -282,7 +283,7 @@ collections:
                   widget: string
                   required: false
     - label: Card Stacks
-      name: cardstack
+      name: cardstacks
       slug: "{{year}}{{month}}{{day}}-{{slug}}"
       folder: site/content/cardstack
       create: true

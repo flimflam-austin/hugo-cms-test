@@ -73,6 +73,8 @@
 
 	&__wrapper {
 		width: 100%;
+
+		@include hover-lighten;
 	}
 
 	&__category {

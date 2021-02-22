@@ -139,7 +139,7 @@ $typo-spacing-alpha-bold: 0.08em;
 
 /*  */
 @mixin hover-lighten {
-	transition: opacity ease 0.3s;
+	@include transition-standard;
 
 	&:hover {
 		opacity: 0.5;
