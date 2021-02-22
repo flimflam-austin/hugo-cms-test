@@ -1,7 +1,7 @@
 ---
 title: fdsgfdsgfds
 tags:
-  - politics, news, potus, south carolina, North
+  - politics
 meta:
   is_breaking_slider: false
   is_breaking_dropdown: false
