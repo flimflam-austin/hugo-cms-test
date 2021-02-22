@@ -1,7 +1,7 @@
 ---
 title: fdsgfdsgfds
 tags:
-  - politics8
+  - politics8, north dakota
 meta:
   is_breaking_slider: false
   is_breaking_dropdown: false
