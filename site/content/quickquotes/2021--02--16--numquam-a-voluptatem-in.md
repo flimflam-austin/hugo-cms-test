@@ -1,27 +1,19 @@
 ---
 title: Numquam A Voluptatem In
 meta:
-    publishdate: January 17, 2021 5:23 PM
-    modifieddate: ""
+    date_published: January 17, 2021 5:23 PM
+    date_modified: ""
     is_breaking: false
     meta_tags:
         - test 01
-quotesum:
+featured_quote:
     quote:
         Harum qui veritatis sit voluptatem distinctio enim. Omnis sed ea est nisi
         commodi illum. A at molestias itaque facere ut aliquam a
-    quote_summary:
-        Neque ullam fugit temporibus voluptate esse ut mollitia velit.
+    summary: Neque ullam fugit temporibus voluptate esse ut mollitia velit.
         Quia voluptas expedita voluptate ea aut oc
-    quote_full: |-
-        Consequatur nulla voluptas sit voluptatum.
-        Est cupiditate sit veritatis nam iure corrupti eaque.
-        Numquam velit animi.
-        Qui itaque dolores.
-        Omnis est dolores nihil voluptates.
-        Nesciunt sequi aut non culpa.
-    quote_citation: abe lincoln
-postimage:
+    citation: abe lincoln
+featured_image:
     image: uploads/brock-wegner-tu4hzk0xgem-unsplash.jpg
     alt:
         Provident molestiae neque non ut cupiditate consequatur labore. Excepturi

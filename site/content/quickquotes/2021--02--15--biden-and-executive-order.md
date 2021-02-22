@@ -1,18 +1,19 @@
 ---
 title: Biden and Executive Order
 meta:
-    publishdate: January 17, 2021 5:23 PM
-    modifieddate: ""
+    date_published: January 17, 2021 5:23 PM
+    date_modified: ""
     is_breaking: false
     meta_tags:
         - test 01
-quotesum:
+featured_quote:
     quote: There's no time to start like today.
-    quote_summary: President Biden before signing 17 executive actions his first day in office.
-    quote_citation: President Joe Biden
-postimage:
+    summary: President Biden before signing 17 executive actions his first day in office.
+    citation: President Joe Biden
+featured_image:
     image: uploads/brock-wegner-tu4hzk0xgem-unsplash.jpg
     alt: Biden
+    attribution: Unsplash by Rob Doe
 article: >-
     * A list of the "executive moves"
 

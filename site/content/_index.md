@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "SmartHER News"
+subtitle: Life is too short to waste time filtering through headlines searching for the facts.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
@@ -17,4 +17,3 @@ values:
     heading: Our values
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
 ---
-

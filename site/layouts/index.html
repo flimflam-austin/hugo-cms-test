@@ -1,10 +1,10 @@
 {{define "main"}}
 
-<main class="l-grid-container home__feeds">
+<main class="l-page__container l-page__container--grid home__feeds">
     <div class="home__feed">
         <section class="feed-section">
             {{ partial "components/ruledtitle" (dict "_sectionTitle" "watch: videos" "_viewAllLink" "")}}
-            <div class="l-grid-content feed-section__content">
+            <div class="l-page__content l-page__content--grid feed-section__content">
                 {{ partial "pages/home/homeslider" . }}
             </div>
         </section>
@@ -16,13 +16,13 @@
         </section>
         <section class="feed-section">
             {{ partial "components/ruledtitle" (dict "_sectionTitle" "flip: quick reads" "_viewAllLink" "/cardstacks/")}}
-            <div class="l-grid-content feed-section__content">
+            <div class="l-page__content l-page__content--grid feed-section__content">
                 {{ partial "pages/home/cardstacks" . }}
             </div>
         </section>
         <section class="feed-section">
             {{ partial "components/ruledtitle" (dict "_sectionTitle" "videos" "_viewAllLink" "/videoposts/")}}
-            <div class="l-grid-content feed-section__content">
+            <div class="l-page__content l-page__content--grid feed-section__content">
                 {{ partial "pages/home/homevideos" . }}
             </div>
         </section>

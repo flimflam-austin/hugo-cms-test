@@ -1,24 +1,18 @@
 ---
 title: Nesciunt Esse Quo
 meta:
-    publishdate: January 17, 2021 5:23 PM
-    modifieddate: ""
+    date_published: January 17, 2021 5:23 PM
+    date_modified: ""
     is_breaking: false
     meta_tags:
         - test 01
-quotesum:
+featured_quote:
     quote: Nostrum deleniti ut aperiam iure perferendis cupiditate. Nam eaque
         recusandae. Cum mollitia qui. Odit aliquid culpa quam minus quaerat i
-    quote_summary: Adipisci eos alias qui excepturi molestiae similique possimus
+    summary: Adipisci eos alias qui excepturi molestiae similique possimus
         voluptatibus assumenda. Exercitationem enim nobi
-    quote_full: |-
-        Nobis quis suscipit repudiandae explicabo reprehenderit ut ex dolorum.
-        Enim ut et tempore possimus.
-        Tempore et qui modi non perspiciatis sit optio.
-        Aut beatae temporibus similique qui illo.
-        Voluptatem voluptatem explicabo quo
-    quote_citation: abe
-postimage:
+    citation: abe
+featured_image:
     image: uploads/sayan-ghosh-9un2K7qxhyA-unsplash.jpg
     alt: Quisquam esse eos reiciendis optio animi voluptatem nulla. Fugit facere
         totam et. Illo magnam totam sed. Rerum ea eos facer

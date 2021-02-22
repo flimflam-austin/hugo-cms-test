@@ -12,26 +12,72 @@
 	align-items: center;
 }
 
-.l-grid-container {
+@function containerSizes($numCards, $numSidebars: 0) {
+	$sidePadding: $site-content-padding * 2;
+	$columnPadding: (($numCards + $numSidebars) - 1) * $site-content-padding;
+	$contentWidth: ($numCards * $card-width) + ($numSidebars * $side-feed-width);
+
+	$containerSet: (
+		width: (
+			$sidePadding + $columnPadding + $contentWidth,
+		),
+		columns: repeat($numCards, $card-width)
+			(
+				$numSidebars * $side-feed-width,
+			),
+	);
+
+	@return $containerSet;
+}
+
+$l-tablet-up: containerSizes(2);
+$l-desktop-up: containerSizes(2, 1);
+$l-desktop-xl-up: containerSizes(3, 1);
+
+.l-page__container {
 	position: relative;
-	width: 100%;
-	display: grid;
-	grid-template-columns: 1fr;
-	grid-template-rows: 1fr;
-	column-gap: $site-content-padding;
 	padding: $site-content-padding;
+	width: 100%;
+	margin: 0 auto;
 	justify-content: center;
 
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+
 	@include query-tablet-up {
-		grid-template-columns: repeat(2, $card-width);
+		width: map-get($l-tablet-up, "width");
 	}
 
 	@include query-desktop-up {
-		grid-template-columns: repeat(2, $card-width) $side-feed-width;
+		width: map-get($l-desktop-up, "width");
 	}
 
 	@include query-desktop-xl-up {
-		grid-template-columns: repeat(3, $card-width) $side-feed-width;
+		width: map-get($l-desktop-xl-up, "width");
+	}
+
+	&--grid {
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-template-rows: 1fr;
+		column-gap: $site-content-padding;
+		row-gap: $site-content-padding;
+
+		@include query-tablet-up {
+			width: 100%;
+			grid-template-columns: map-get($l-tablet-up, "columns");
+		}
+
+		@include query-desktop-up {
+			width: 100%;
+			grid-template-columns: map-get($l-desktop-up, "columns");
+		}
+
+		@include query-desktop-xl-up {
+			width: 100%;
+			grid-template-columns: map-get($l-desktop-xl-up, "columns");
+		}
 	}
 
 	&--navoffset {
@@ -39,21 +85,29 @@
 	}
 }
 
-.l-grid-content {
+.l-page__content {
 	width: 100%;
-	display: grid;
-	grid-template-columns: 1fr;
-	grid-template-rows: 1fr;
-	column-gap: $site-content-padding;
 	justify-content: center;
 	justify-items: center;
 
-	@include query-tablet-up {
-		grid-template-columns: repeat(2, $card-width);
-	}
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
 
-	@include query-desktop-xl-up {
-		grid-template-columns: repeat(3, $card-width);
+	&--grid {
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-template-rows: 1fr;
+		column-gap: $site-content-padding;
+		row-gap: $site-content-padding;
+
+		@include query-tablet-up {
+			grid-template-columns: repeat(2, $card-width);
+		}
+
+		@include query-desktop-xl-up {
+			grid-template-columns: repeat(3, $card-width);
+		}
 	}
 }
 

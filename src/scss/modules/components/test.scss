@@ -4,30 +4,21 @@
 .flipslide__frame {
 	backface-visibility: hidden;
 }
+.flipslide__frame--upper {
+	transform-origin: bottom left;
+	transform-style: preserve-3d;
+}
 
 .flipslide--hidden {
 	display: none !important;
 }
 
+/* forward */
 .flipslide--clicked .flipslide__frame--lower {
 	animation-name: flipCurCardLower;
 	animation-duration: 0.5s;
 	animation-fill-mode: forwards;
 	animation-timing-function: ease-in;
-}
-
-.flipslide--clicked--previous .flipslide__frame--upper {
-	transform-origin: bottom left;
-	animation-name: flipCurCardUpper;
-	animation-duration: 0.5s;
-	animation-fill-mode: forwards;
-	animation-timing-function: ease-in;
-	z-index: 9999;
-}
-
-.flipslide__frame--upper {
-	transform-origin: bottom left;
-	transform-style: preserve-3d;
 }
 .flipslide--activated .flipslide__frame--upper {
 	transform-style: preserve-3d;
@@ -39,6 +30,15 @@
 	z-index: 9999;
 }
 
+/* backward */
+.flipslide--clicked--previous .flipslide__frame--upper {
+	transform-origin: bottom left;
+	animation-name: flipCurCardUpper;
+	animation-duration: 0.5s;
+	animation-fill-mode: forwards;
+	animation-timing-function: ease-in;
+	z-index: 9999;
+}
 .flipslide--activated--previous .flipslide__frame--lower {
 	transform-origin: top left;
 	transform-style: preserve-3d;
@@ -85,14 +85,6 @@
 		height: 0;
 	}
 }
-/* @keyframes flipCurCardMain {
-  	0% {}
-    99% {}
-    100% {
-    	opacity: 0;
-      height: 0;
-    }
-  } */
 
 @keyframes flipNewCardUpper {
 	0% {

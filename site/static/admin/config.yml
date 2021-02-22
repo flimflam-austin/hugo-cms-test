@@ -8,15 +8,15 @@ media_folder: site/static/uploads # Folder where user uploaded files should go
 public_folder: /uploads
 
 collections:
-    - label: Tags
-      name: tags
-      folder: site/content/tags
-      create: true
-      fields:
-          - label: Title
-            name: title
-            widget: string
-            required: true
+    #- label: Tags
+    #  name: tags
+    #  folder: site/content/tags
+    #  create: true
+    #  fields:
+    #      - label: Title
+    #        name: title
+    #        widget: string
+    #        required: true
     - label: Card Categories
       name: card_categories
       folder: site/content/cardcategories
@@ -35,11 +35,32 @@ collections:
           - label: Title
             name: title
             widget: string
+            hint: Used to generate slug and indexing. Doesn't appear in article.
             required: true
           - label: Video Category
             name: category
             widget: list
             allow_add: true
+            required: true
+          - label: Tags
+            name: tags
+            widget: list
+            hint: Comma separated (politics, potus). Use lowercase.
+            allow_add: true
+            min: 1
+            default: ["politics"]
+            add_to_top: true
+            field:
+                {
+                    label: Tag,
+                    name: tag,
+                    widget: string,
+                    pattern:
+                        [
+                            "[a-z0-9]+",
+                            "Tags must be lower case letters or numbers.",
+                        ],
+                }
             required: true
           - label: Meta
             name: meta
@@ -61,15 +82,16 @@ collections:
                   widget: boolean
                   default: false
                 - label: Publish Date
-                  name: publishdate
+                  name: date_published
                   widget: datetime
                   default: ""
                   date_format: MM.DD.YYYY
                   time_format: HH.mm
                   format: LLL
                   picker_utc: false
+                  required: true
                 - label: Modified Date
-                  name: modifieddate
+                  name: date_modified
                   widget: datetime
                   default: ""
                   date_format: MM.DD.YYYY
@@ -86,7 +108,7 @@ collections:
                   value_field: title
                   multiple: true
           - label: Post Image
-            name: postimage
+            name: featured_image
             widget: object
             fields:
                 - label: Image
@@ -135,16 +157,22 @@ collections:
             name: meta
             widget: object
             fields:
+                - label: Breaking
+                  name: is_breaking
+                  hint: Will highlight quote and push to top of feed.
+                  widget: boolean
+                  default: false
                 - label: Publish Date
-                  name: publishdate
+                  name: date_published
                   widget: datetime
                   default: ""
                   date_format: MM.DD.YYYY
                   time_format: HH.mm
                   format: LLL
                   picker_utc: false
+                  required: true
                 - label: Modified Date
-                  name: modifieddate
+                  name: date_modified
                   widget: datetime
                   default: ""
                   date_format: MM.DD.YYYY
@@ -160,37 +188,27 @@ collections:
                       - title
                   value_field: title
                   multiple: true
-                - label: Breaking
-                  name: is_breaking
-                  hint: Will highlight quote and push to top of feed.
-                  widget: boolean
-                  default: false
-          - label: Summary
-            name: quotesum
+          - label: Featured Quote
+            name: featured_quote
             widget: object
             fields:
-                - label: Featured Quote
+                - label: Quote
                   name: quote
                   hint: Brief quote that will appear on the preview card and top of post.
                   widget: text
                   required: true
-                - label: Quote Summary
-                  name: quote_summary
+                - label: Summary
+                  name: summary
                   hint: Brief explanation of quote that will appear under 'short quote'.
                   widget: text
                   required: true
-                - label: Full Quote
-                  name: quote_full
-                  hint: Only required if you want a longer quote on the post page than will fit cleanly on the preview card. The 'featured quote' will still appear on the card, but the 'full quote' will appear in the post.
-                  widget: text
-                  required: false
                 - label: Citation
-                  name: quote_citation
+                  name: citation
                   hint: Who or what is being quoted.
                   widget: string
                   required: true
-          - label: Post Image
-            name: postimage
+          - label: Featured Image
+            name: featured_image
             widget: object
             required: false
             fields:

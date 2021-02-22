@@ -1,17 +1,17 @@
 .siteheader {
+	width: 100%;
 	position: fixed;
 	top: 0;
 	left: 0;
 	right: 0;
 
-	&__contentContainer {
-		background-color: $color-white;
-		border-bottom: $border-style-alpha;
-	}
+	z-index: map-get($zindex, "header-primary");
+
+	background-color: $color-white;
+	border-bottom: $border-style-alpha;
 
 	&__contentWrapper {
-		/* width: 100%; */
-		grid-column: 1/-1;
+		width: 100%;
 		display: flex;
 		justify-content: space-between;
 	}
@@ -36,6 +36,7 @@
 
 	& .breakingheader {
 		display: none;
+		z-index: map-get($zindex, "header-primary");
 	}
 }
 

@@ -1,0 +1,41 @@
+{{ define "main" }}
+    <main class="l-page__container">
+        <article>
+            <header>
+                <p>quick quotes</p>
+                <h1>&ldquo;{{- .Params.featured_quote.quote -}}&rdquo;</h1>
+                <p>{{ .Params.featured_quote.summary}}</p>
+                <hr>
+                <p>Published on <time datetime="{{ .Params.date_published }}">{{- .Params.meta.date_published -}}</time></p>
+                {{ if .Params.meta.date_modified }}
+                    <p>Modified on <time datetime="{{ .Params.date_modified }}">{{- .Params.meta.date_modified -}}</time></p>
+                {{ end }}
+                <ul>
+                    {{ range .Params.tags }}
+                        <li>
+                            <a href="tags/{{ . | urlize}}">{{- . -}}</a>
+                        </li>
+                    {{ end }}
+                </ul>
+            </header>
+
+            <figure>
+                <img srcset="" alt="{{ .Params.postimage.alt }}"/>
+                {{ if .Params.featured_image.attribution }}
+                    <figcaption>{{ .Params.featured_image.attribution }}</figcaption>
+                {{ end }}
+            </figure>
+
+            <section>
+                <p>&ldquo;{{- .Params.featured_quote.quote -}}&rdquo;</p>
+                {{ .Params.article | markdownify }}
+            </section>
+
+            <!-- for author, etc. -->
+            <footer>
+                {{ partial "components/share" . }}
+                {{ partial "components/authors" . }}
+            </footer>
+        </article>
+    </main>
+{{ end }}

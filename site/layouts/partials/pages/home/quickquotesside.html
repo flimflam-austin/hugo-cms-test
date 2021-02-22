@@ -4,9 +4,9 @@
     <article class="qqprev__wrapper">
         {{ if (eq .Params.meta.is_breaking true)}} <div class="qqprev__breakingmarker">breaking</div> {{end}}
         
-        <h2 class="qqprev__quote">&ldquo;{{ .Params.quotesum.quote }}&rdquo;</h2>
+        <h2 class="qqprev__quote">&ldquo;{{ .Params.featured_quote.quote | truncate 120 }}&rdquo;</h2>
         {{/*  {{ .Params.meta.publishdate }}  */}}
-        <p class="qqprev__summary">{{ .Params.quotesum.quote_summary }}</p>
+        <p class="qqprev__summary">{{ .Params.featured_quote.summary | truncate 120 }}</p>
     </article>
 </a>
 {{ if (eq .Params.meta.is_breaking false)}} <hr class="qqprev__ruler"> {{end}}
