@@ -3,7 +3,7 @@
     {{ $featuredvideoposts := sort $videoposts ".Params.meta.is_featured" "=" true}}
     {{ $breakingvideoposts := sort $featuredvideoposts ".Params.meta.is_breaking_slider" "=" true}}
     {{ range first 3 $breakingvideoposts.Reverse }}
-    <article class="carousel-cell">
+    <article class="carousel-cell {{ if (eq .Params.meta.is_breaking_slider true)}} carousel-cell--breaking {{ end }}">
         {{ if (eq .Params.meta.is_breaking_slider true)}}
         <a class="carousel__link carousel__link--breaking" href="{{- .Permalink -}}">
             <span class="carousel__breaking-tag">Breaking</span>

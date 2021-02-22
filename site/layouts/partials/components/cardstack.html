@@ -1,12 +1,54 @@
 <article class="cardstack cardstack cardstack--{{- .Params.color_palette_classname -}}">
-        <section class="cardstack__cards">
+    <section class="cardstack__cards">
 
+        <div class="stackcard">
+            <div class="stackcard__frame stackcard__frame--upper">
+                <div class="stackcard__body">
+                    {{ if .Params.background_image.image }}
+                        <img class="stackcard__bgimage" src="{{- .Params.background_image.image -}}" alt="{{- .Params.background_image.alt -}}" />
+                    {{ end }}
+                    <div class="stackcard__borderwrapper">
+                        <div class="stackcard__borderelements">
+                            <span class="stackcard__borderpiece"></span>
+                            <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
+                            <span class="stackcard__borderpiece"></span>
+                        </div>
+
+                        <div class="stackcard__content">
+                            <div class="stackcard__text">{{- .Params.card_01.card_text | markdownify -}}</div>
+                            <p class="stackcard__citation">{{- .Params.card_01.card_citation -}}</p>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+
+            <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
+                <div class="stackcard__body stackcard__body--lower">
+                    {{ if .Params.background_image.image }}
+                        <img class="stackcard__bgimage" src="{{- .Params.background_image.image -}}" alt="{{- .Params.background_image.alt -}}" />
+                    {{ end }}
+                    <div class="stackcard__borderwrapper">
+                        <div class="stackcard__borderelements stackcard__borderelements--lower">
+                            <span class="stackcard__borderpiece"></span>
+                            <div class="stackcard__logo"></div>
+                            <span class="stackcard__borderpiece"></span>
+                        </div>
+
+                        <div class="stackcard__content">
+                            <div class="stackcard__text">{{- .Params.card_01.card_text | markdownify -}}</div>
+                            <p class="stackcard__citation">{{- .Params.card_01.card_citation -}}</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        {{ if .Params.card_02.card_text }}
             <div class="stackcard">
                 <div class="stackcard__frame stackcard__frame--upper">
                     <div class="stackcard__body">
-                        {{ if .Params.background_image.bg_image }}
-                            <img class="stackcard__bgimage" src="{{- .Params.background_image.bg_image -}}" alt="{{- .Params.background_image.alt -}}" />
-                        {{ end }}
                         <div class="stackcard__borderwrapper">
                             <div class="stackcard__borderelements">
                                 <span class="stackcard__borderpiece"></span>
@@ -15,19 +57,15 @@
                             </div>
 
                             <div class="stackcard__content">
-                                <div class="stackcard__text">{{- .Params.card_01.card_text | markdownify -}}</div>
-                                <p class="stackcard__citation">{{- .Params.card_01.card_citation -}}</p>
+                                <div class="stackcard__text">{{- .Params.card_02.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_02.card_citation -}}</p>
                             </div>
                         </div>
-                        
+
                     </div>
                 </div>
-
                 <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
                     <div class="stackcard__body stackcard__body--lower">
-                        {{ if .Params.background_image.bg_image }}
-                            <img class="stackcard__bgimage" src="{{- .Params.background_image.bg_image -}}" alt="{{- .Params.background_image.alt -}}" />
-                        {{ end }}
                         <div class="stackcard__borderwrapper">
                             <div class="stackcard__borderelements stackcard__borderelements--lower">
                                 <span class="stackcard__borderpiece"></span>
@@ -36,372 +74,334 @@
                             </div>
 
                             <div class="stackcard__content">
-                                <div class="stackcard__text">{{- .Params.card_01.card_text | markdownify -}}</div>
-                                <p class="stackcard__citation">{{- .Params.card_01.card_citation -}}</p>
+                                <div class="stackcard__text">{{- .Params.card_02.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_02.card_citation -}}</p>
                             </div>
                         </div>
 
                     </div>
                 </div>
             </div>
+        {{ end }}
 
-            {{ if .Params.card_02.card_text }}
-                <div class="stackcard">
-                    <div class="stackcard__frame stackcard__frame--upper">
-                        <div class="stackcard__body">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_02.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_02.card_citation -}}</p>
-                                </div>
+        {{if .Params.card_03.card_text }}
+            <div class="stackcard">
+                <div class="stackcard__frame stackcard__frame--upper">
+                    <div class="stackcard__body">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements">
+                                <span class="stackcard__borderpiece"></span>
+                                <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
+                                <span class="stackcard__borderpiece"></span>
                             </div>
 
-                        </div>
-                    </div>
-                    <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
-                        <div class="stackcard__body stackcard__body--lower">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements stackcard__borderelements--lower">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <div class="stackcard__logo"></div>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_02.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_02.card_citation -}}</p>
-                                </div>
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_03.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_03.card_citation -}}</p>
                             </div>
-
                         </div>
+
                     </div>
                 </div>
-            {{ end }}
-
-            {{if .Params.card_03.card_text }}
-                <div class="stackcard">
-                    <div class="stackcard__frame stackcard__frame--upper">
-                        <div class="stackcard__body">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_03.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_03.card_citation -}}</p>
-                                </div>
+                <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
+                    <div class="stackcard__body stackcard__body--lower">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements stackcard__borderelements--lower">
+                                <span class="stackcard__borderpiece"></span>
+                                <div class="stackcard__logo"></div>
+                                <span class="stackcard__borderpiece"></span>
                             </div>
 
-                        </div>
-                    </div>
-                    <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
-                        <div class="stackcard__body stackcard__body--lower">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements stackcard__borderelements--lower">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <div class="stackcard__logo"></div>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_03.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_03.card_citation -}}</p>
-                                </div>
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_03.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_03.card_citation -}}</p>
                             </div>
-
                         </div>
+
                     </div>
                 </div>
-            {{ end }}
+            </div>
+        {{ end }}
 
-            {{if .Params.card_04.card_text }}
-                <div class="stackcard">
-                    <div class="stackcard__frame stackcard__frame--upper">
-                        <div class="stackcard__body">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_04.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_04.card_citation -}}</p>
-                                </div>
+        {{if .Params.card_04.card_text }}
+            <div class="stackcard">
+                <div class="stackcard__frame stackcard__frame--upper">
+                    <div class="stackcard__body">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements">
+                                <span class="stackcard__borderpiece"></span>
+                                <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
+                                <span class="stackcard__borderpiece"></span>
                             </div>
 
-                        </div>
-                    </div>
-                    <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
-                        <div class="stackcard__body stackcard__body--lower">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements stackcard__borderelements--lower">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <div class="stackcard__logo"></div>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_04.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_04.card_citation -}}</p>
-                                </div>
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_04.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_04.card_citation -}}</p>
                             </div>
-
                         </div>
+
                     </div>
                 </div>
-            {{ end }}
-
-            {{if .Params.card_05.card_text }}
-                <div class="stackcard">
-                    <div class="stackcard__frame stackcard__frame--upper">
-                        <div class="stackcard__body">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_05.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_05.card_citation -}}</p>
-                                </div>
+                <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
+                    <div class="stackcard__body stackcard__body--lower">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements stackcard__borderelements--lower">
+                                <span class="stackcard__borderpiece"></span>
+                                <div class="stackcard__logo"></div>
+                                <span class="stackcard__borderpiece"></span>
                             </div>
 
-                        </div>
-                    </div>
-                    <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
-                        <div class="stackcard__body stackcard__body--lower">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements stackcard__borderelements--lower">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <div class="stackcard__logo"></div>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_05.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_05.card_citation -}}</p>
-                                </div>
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_04.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_04.card_citation -}}</p>
                             </div>
-
                         </div>
+
                     </div>
                 </div>
-            {{ end }}
+            </div>
+        {{ end }}
 
-            {{if .Params.card_06.card_text }}
-                <div class="stackcard">
-                    <div class="stackcard__frame stackcard__frame--upper">
-                        <div class="stackcard__body">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_06.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_06.card_citation -}}</p>
-                                </div>
+        {{if .Params.card_05.card_text }}
+            <div class="stackcard">
+                <div class="stackcard__frame stackcard__frame--upper">
+                    <div class="stackcard__body">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements">
+                                <span class="stackcard__borderpiece"></span>
+                                <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
+                                <span class="stackcard__borderpiece"></span>
                             </div>
 
-                        </div>
-                    </div>
-                    <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
-                        <div class="stackcard__body stackcard__body--lower">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements stackcard__borderelements--lower">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <div class="stackcard__logo"></div>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_06.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_06.card_citation -}}</p>
-                                </div>
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_05.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_05.card_citation -}}</p>
                             </div>
-
                         </div>
+
                     </div>
                 </div>
-            {{ end }}
-
-            {{if .Params.card_07.card_text }}
-                <div class="stackcard">
-                    <div class="stackcard__frame stackcard__frame--upper">
-                        <div class="stackcard__body">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_07.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_07.card_citation -}}</p>
-                                </div>
+                <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
+                    <div class="stackcard__body stackcard__body--lower">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements stackcard__borderelements--lower">
+                                <span class="stackcard__borderpiece"></span>
+                                <div class="stackcard__logo"></div>
+                                <span class="stackcard__borderpiece"></span>
                             </div>
 
-                        </div>
-                    </div>
-                    <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
-                        <div class="stackcard__body stackcard__body--lower">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements stackcard__borderelements--lower">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <div class="stackcard__logo"></div>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_07.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_07.card_citation -}}</p>
-                                </div>
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_05.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_05.card_citation -}}</p>
                             </div>
-
                         </div>
+
                     </div>
                 </div>
-            {{ end }}
+            </div>
+        {{ end }}
 
-            {{if .Params.card_08.card_text }}
-                <div class="stackcard">
-                    <div class="stackcard__frame stackcard__frame--upper">
-                        <div class="stackcard__body">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_08.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_08.card_citation -}}</p>
-                                </div>
+        {{if .Params.card_06.card_text }}
+            <div class="stackcard">
+                <div class="stackcard__frame stackcard__frame--upper">
+                    <div class="stackcard__body">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements">
+                                <span class="stackcard__borderpiece"></span>
+                                <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
+                                <span class="stackcard__borderpiece"></span>
                             </div>
 
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_06.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_06.card_citation -}}</p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
-                        <div class="stackcard__body stackcard__body--lower">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements stackcard__borderelements--lower">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <div class="stackcard__logo"></div>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
 
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_08.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_08.card_citation -}}</p>
-                                </div>
+                    </div>
+                </div>
+                <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
+                    <div class="stackcard__body stackcard__body--lower">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements stackcard__borderelements--lower">
+                                <span class="stackcard__borderpiece"></span>
+                                <div class="stackcard__logo"></div>
+                                <span class="stackcard__borderpiece"></span>
+                            </div>
+
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_06.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_06.card_citation -}}</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        {{ end }}
+
+        {{if .Params.card_07.card_text }}
+            <div class="stackcard">
+                <div class="stackcard__frame stackcard__frame--upper">
+                    <div class="stackcard__body">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements">
+                                <span class="stackcard__borderpiece"></span>
+                                <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
+                                <span class="stackcard__borderpiece"></span>
+                            </div>
+
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_07.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_07.card_citation -}}</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
+                    <div class="stackcard__body stackcard__body--lower">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements stackcard__borderelements--lower">
+                                <span class="stackcard__borderpiece"></span>
+                                <div class="stackcard__logo"></div>
+                                <span class="stackcard__borderpiece"></span>
+                            </div>
+
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_07.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_07.card_citation -}}</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        {{ end }}
+
+        {{if .Params.card_08.card_text }}
+            <div class="stackcard">
+                <div class="stackcard__frame stackcard__frame--upper">
+                    <div class="stackcard__body">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements">
+                                <span class="stackcard__borderpiece"></span>
+                                <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
+                                <span class="stackcard__borderpiece"></span>
+                            </div>
+
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_08.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_08.card_citation -}}</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
+                    <div class="stackcard__body stackcard__body--lower">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements stackcard__borderelements--lower">
+                                <span class="stackcard__borderpiece"></span>
+                                <div class="stackcard__logo"></div>
+                                <span class="stackcard__borderpiece"></span>
+                            </div>
+
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_08.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_08.card_citation -}}</p>
                             </div>
                         </div>
                     </div>
                 </div>
-            {{ end }}
+            </div>
+        {{ end }}
 
-            {{if .Params.card_09.card_text }}
-                <div class="stackcard">
-                    <div class="stackcard__frame stackcard__frame--upper">
-                        <div class="stackcard__body">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_09.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_09.card_citation -}}</p>
-                                </div>
+        {{if .Params.card_09.card_text }}
+            <div class="stackcard">
+                <div class="stackcard__frame stackcard__frame--upper">
+                    <div class="stackcard__body">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements">
+                                <span class="stackcard__borderpiece"></span>
+                                <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
+                                <span class="stackcard__borderpiece"></span>
                             </div>
 
-                        </div>
-                    </div>
-                    <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
-                        <div class="stackcard__body stackcard__body--lower">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements stackcard__borderelements--lower">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <div class="stackcard__logo"></div>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__text">{{- .Params.card_09.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_09.card_citation -}}</p>
-                                </div>
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_09.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_09.card_citation -}}</p>
                             </div>
-
                         </div>
+
                     </div>
                 </div>
-            {{ end }}
-            
-            {{if .Params.card_10.card_text }}
-                <div class="stackcard">
-                    <div class="stackcard__frame stackcard__frame--upper">
-                        <div class="stackcard__body">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__checkmark"></div>
-                                    
-                                    <div class="stackcard__text">{{- .Params.card_10.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_10.card_citation -}}</p>
-                                </div>
+                <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
+                    <div class="stackcard__body stackcard__body--lower">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements stackcard__borderelements--lower">
+                                <span class="stackcard__borderpiece"></span>
+                                <div class="stackcard__logo"></div>
+                                <span class="stackcard__borderpiece"></span>
                             </div>
 
-                        </div>
-                    </div>
-                    <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
-                        <div class="stackcard__body stackcard__body--lower">
-                            <div class="stackcard__borderwrapper">
-                                <div class="stackcard__borderelements stackcard__borderelements--lower">
-                                    <span class="stackcard__borderpiece"></span>
-                                    <div class="stackcard__logo"></div>
-                                    <span class="stackcard__borderpiece"></span>
-                                </div>
-
-                                <div class="stackcard__content">
-                                    <div class="stackcard__checkmark"></div>
-                                    
-                                    <div class="stackcard__text">{{- .Params.card_10.card_text | markdownify -}}</div>
-                                    <p class="stackcard__citation">{{- .Params.card_10.card_citation -}}</p>
-                                </div>
+                            <div class="stackcard__content">
+                                <div class="stackcard__text">{{- .Params.card_09.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_09.card_citation -}}</p>
                             </div>
-
                         </div>
+
                     </div>
                 </div>
-            {{ end }}
-        </section>
-        <section class="cardstack__details">
-            {{time .Params.meta.publishdate "America/Chicago"}}
-            <p class="cardstack__date"><!-- {{- dateFormat "Jan 2, 2006 3:04 PM MST" .Params.meta.publishdate  -}} --></p>
-            <a class="cardstack__link" href="{{- .Permalink -}}">sources</a>
-        </section>
-    </article>
+            </div>
+        {{ end }}
+        
+        {{if .Params.card_10.card_text }}
+            <div class="stackcard">
+                <div class="stackcard__frame stackcard__frame--upper">
+                    <div class="stackcard__body">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements">
+                                <span class="stackcard__borderpiece"></span>
+                                <h3 class="stackcard__category">{{ .Params.meta.card_category }}</h3>
+                                <span class="stackcard__borderpiece"></span>
+                            </div>
+
+                            <div class="stackcard__content">
+                                <div class="stackcard__checkmark"></div>
+                                
+                                <div class="stackcard__text">{{- .Params.card_10.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_10.card_citation -}}</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
+                    <div class="stackcard__body stackcard__body--lower">
+                        <div class="stackcard__borderwrapper">
+                            <div class="stackcard__borderelements stackcard__borderelements--lower">
+                                <span class="stackcard__borderpiece"></span>
+                                <div class="stackcard__logo"></div>
+                                <span class="stackcard__borderpiece"></span>
+                            </div>
+
+                            <div class="stackcard__content">
+                                <div class="stackcard__checkmark"></div>
+                                
+                                <div class="stackcard__text">{{- .Params.card_10.card_text | markdownify -}}</div>
+                                <p class="stackcard__citation">{{- .Params.card_10.card_citation -}}</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        {{ end }}
+    </section>
+    <section class="cardstack__details">
+        {{time .Params.meta.date_published "America/Chicago"}}
+        <p class="cardstack__date"><!-- {{- dateFormat "Jan 2, 2006 3:04 PM MST" .Params.meta.publishdate  -}} --></p>
+        <a class="cardstack__link" href="{{- .Permalink -}}">sources</a>
+    </section>
+</article>

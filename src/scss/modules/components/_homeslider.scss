@@ -11,6 +11,10 @@
 	width: 100%;
 	height: 100%;
 
+	&--breaking {
+		border-bottom: 4px solid $color-ui-alert;
+	}
+
 	& img {
 		width: 100%;
 		height: 100%;
@@ -30,7 +34,29 @@
 	left: 0;
 	right: 0;
 	padding: 2rem;
+
+	text-decoration: none;
+	color: $color-white;
+
+	background-image: linear-gradient(
+		180deg,
+		hsla(0, 0%, 100%, 0) 25%,
+		rgba(0, 0, 0, 0.82) 80%
+	);
+}
+
+.carousel__breaking-tag {
+	@include typo-breaking-lg-inverted;
+	margin-bottom: 1rem;
 }
 
 .carousel__title {
+	@include typo-title-lg;
+	color: white;
+	margin: 1rem 0;
+}
+
+.carousel__description {
+	@include typo-base-paragraph;
+	color: white;
 }

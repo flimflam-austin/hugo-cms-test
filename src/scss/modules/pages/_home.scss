@@ -14,6 +14,7 @@
 
 	&__feed {
 		grid-column: 1/-1;
+		@include hide-scrollbars;
 
 		@include query-tablet-up {
 		}
@@ -29,6 +30,7 @@
 
 		&--side {
 			display: none;
+			@include hide-scrollbars;
 
 			@include query-tablet-up {
 			}
@@ -67,14 +69,32 @@
 	max-width: 400px;
 	display: block;
 
+	text-decoration: none;
+
 	&__wrapper {
 		width: 100%;
+	}
+
+	&__category {
+		margin-top: 1rem;
+		@include typo-title-tiny-light;
+	}
+
+	&__title {
+		@include typo-title-md;
+		margin: 0.5rem 0;
+	}
+
+	&__summary {
+		@include typo-base-paragraph;
 	}
 }
 
 .qqprev {
 	display: block;
 	width: 100%;
+
+	text-decoration: none;
 
 	&--main {
 		margin-right: 2rem;
@@ -97,27 +117,31 @@
 		justify-content: center;
 		align-items: center;
 
+		@include hover-lighten;
+
 		&--main {
 			width: 18rem;
 		}
 	}
 
 	&__breakingmarker {
-		display: inline-block;
-		padding-bottom: 0.25rem;
-		margin-bottom: 1rem;
-		border-bottom: 4px solid white;
+		@include typo-breaking-sm;
 	}
 
 	&__quote {
 		width: 100%;
 
 		text-align: center;
+		margin: 0 0 1rem 0;
+
+		@include typo-title-sm;
 	}
 
 	&__summary {
 		width: 100%;
 		text-align: center;
+		margin: 0;
+		@include typo-base-paragraph;
 	}
 
 	&__ruler {

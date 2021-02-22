@@ -16,8 +16,10 @@
 	}
 
 	&__title {
+		@include typo-ruler-title;
 	}
 
 	&__link {
+		@include typo-ruler-link;
 	}
 }
