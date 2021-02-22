@@ -21,22 +21,22 @@ article: >-
   This is a post article.
 
 
-  H1 sample heading
+  # H1 sample heading
 
 
-  H2 sample heading
+  ## H2 sample heading
 
 
-  H3 sample heading
+  ### H3 sample heading
 
 
-  H4 sample heading
+  #### H4 sample heading
 
 
-  H5 sample heading
+  ##### H5 sample heading
 
 
-  H6 sample heading
+  ###### H6 sample heading
 
 
   [](#)This [is a link](#) in the middle of some text.
