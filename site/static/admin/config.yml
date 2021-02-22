@@ -103,7 +103,7 @@ collections:
                         widget: relation
                         collection: authors
                         search_fields: ["title"]
-                        value_field: ["title"]
+                        value_field: "title"
           - label: Post Image
             name: featured_image
             widget: object
