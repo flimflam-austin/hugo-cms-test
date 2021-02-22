@@ -44,6 +44,7 @@ collections:
             search_fields: ["title"]
             value_field: "title"
             display_fields: ["title"]
+            multiple: false
             required: true
           - label: Tags
             name: tags
