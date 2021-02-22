@@ -45,22 +45,14 @@ collections:
           - label: Tags
             name: tags
             widget: list
-            hint: Comma separated (politics, potus). Use lowercase.
+            hint: Separate tags with commas (politics, potus). Use lowercase.
             allow_add: true
             min: 1
             default: ["politics"]
             add_to_top: true
-            field:
-                {
-                    label: Tag,
-                    name: tag,
-                    widget: string,
-                    pattern:
-                        [
-                            "^[a-z0-9 ,]*$",
-                            "Tags must be lower case letters or numbers.",
-                        ],
-                }
+            collapsed: false
+            pattern:
+                ["^[a-z0-9 ,]*$", "Tags must be lower case letters or numbers."]
             required: true
           - label: Meta
             name: meta
