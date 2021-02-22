@@ -26,6 +26,15 @@ collections:
             name: title
             widget: string
             required: true
+    - label: Video Categories
+      name: video_categories
+      folder: site/content/videocategories
+      create: true
+      fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
     - label: Video Posts
       name: videoposts
       slug: "{{year}}--{{month}}--{{day}}--{{slug}}"
@@ -38,9 +47,12 @@ collections:
             hint: Used to generate slug and indexing. Doesn't appear in article.
             required: true
           - label: Video Category
-            name: category
-            widget: list
-            allow_add: true
+            name: video_category
+            widget: relation
+            collection: video_categories
+            search_fields: ["title"]
+            value_field: "title"
+            display_fields: ["title"]
             required: true
           - label: Tags
             name: tags
@@ -52,7 +64,7 @@ collections:
             add_to_top: true
             collapsed: false
             pattern:
-                ["^[a-z0-9 ,]*$", "Tags must be lower case letters or numbers."]
+                ["^[a-z0-9 ,]*$", "Tags must be lower case letters or numbers"]
             required: true
           - label: Meta
             name: meta
