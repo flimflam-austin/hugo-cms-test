@@ -30,6 +30,7 @@
 
 		&--side {
 			display: none;
+			padding-left: $site-content-padding;
 			@include hide-scrollbars;
 
 			@include query-tablet-up {

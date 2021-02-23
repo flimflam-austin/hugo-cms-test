@@ -1,40 +1,40 @@
 {{ define "main" }}
     <main class="l-page__container">
-        <article>
-            <header class="postheader">
-                <figure class="postheader__block aspectimg">
+        <article class="post">
+            <header class="post-header">
+                <figure class="post-header__block aspectimg">
                     <img class="aspectimg__image" src="{{ .Params.featured_image.image }}" alt="{{ .Params.featured_image.alt }}"/>
                 </figure>
                     {{/*<p>{{ .Params.video_category }}</p>*/}}
-                <div class="postheader__block postheader__block--text">
-                    <a class="postheader__category" href="/videocategories/{{ .Params.video_category }}">{{ .Params.video_category }}</a>
-                    <h1 class="postheader__summary">{{ .Params.summary}}</h1>
-                    <span class="postheader__ruler"></span>
-                    <div class="postheader__dates">
-                        <p class="postheader__date">Published on<br><time datetime="{{ .Params.date_published }}">{{- .Params.meta.date_published -}}</time></p>
+                <div class="post-header__block post-header__block--text">
+                    <a class="post-header__category" href="/videocategories/{{ .Params.video_category }}">{{ .Params.video_category }}</a>
+                    <h1 class="post-header__summary">{{ .Params.summary}}</h1>
+                    <span class="post-header__ruler"></span>
+                    <div class="post-header__dates">
+                        <p class="post-header__date">Published on<br><time datetime="{{ .Params.date_published }}">{{- .Params.meta.date_published -}}</time></p>
                         {{ if .Params.meta.date_modified }}
-                            <p class="postheader__date">Modified on<br><time datetime="{{ .Params.date_modified }}">{{- .Params.meta.date_modified -}}</time></p>
+                            <p class="post-header__date">Modified on<br><time datetime="{{ .Params.date_modified }}">{{- .Params.meta.date_modified -}}</time></p>
                         {{ end }}
                     </div>
-                    <ul class="postheader__tags btn-group">
+                    <ul class="post-header__tags btn-group">
                         {{ range .Params.tags }}
                             <li class="btn-group__btn">
-                                <a class="btn btn--green" href="tags/{{ . | urlize}}">{{- . -}}</a>
+                                <a class="btn btn--green" href="tags/{{ . | urlize }}">{{- . -}}</a>
                             </li>
                         {{ end }}
                     </ul>
                 </div>
             </header>
 
-            <section class="content">
-                <div class="content__body">
+            <section class="page-content">
+                <div class="page-content__body">
                     {{ .Params.article | markdownify }}
                 </div>
                 {{ partial "components/share" . }}
             </section>
 
             <!-- for author, etc. -->
-            <footer>
+            <footer class="post-footer">
                 {{ partial "components/authors" . }}
             </footer>
         </article>
