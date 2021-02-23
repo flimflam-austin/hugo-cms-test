@@ -5,26 +5,30 @@
 		<div class="siteheader__contentWrapper">
 			<a class="siteheader__logolink" href="/" title="Go to home page"
 				><img
-					src="img/logo_smarthernews.svg"
+					src="img/shn_logo_main.png"
 					class="siteheader__logo"
 					alt="smarther news logo"
 			/></a>
 			<nav class="sitenav" aria-label="Primary">
-				<a class="sitenav__link" href="index.html">home</a
-				><a class="sitenav__link" href="articles.html">articles</a
-				><a class="sitenav__link" href="stories/quick-quotes.html"
-					>Quick Quotes</a
-				><a class="sitenav__link" href="stories/cards.html"
-					>quick reads</a
+				<a class="sitenav__link" href="/">home</a
+				><a class="sitenav__link" href="/videoposts/">videos</a
+				><a class="sitenav__link" href="/quickquotes/">Quick Quotes</a
+				><a class="sitenav__link" href="/quickreads/">quick reads</a
 				><a
 					class="sitenav__link"
-					href="{{ .Site.Params.podcast_url }}"
+					href="https://smarthernews.libsyn.com/"
 					target="_blank"
 					>podcast</a
 				><a class="sitenav__link" href="about.html">About</a
-				><a class="sitenav__link" href="{{ .Site.Params.shop_url }}" target="_blank">shop</a>
+				><a
+					class="sitenav__link"
+					href="https://smarthernews.com/shop/"
+					target="_blank"
+					>shop</a
+				>
 				<!-- needs search bar here -->
 			</nav>
+			{{ partial "global/hamburger" . }}
 		</div>
 	</div>
 </header>

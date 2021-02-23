@@ -3,10 +3,12 @@ import { initHomeSlider } from "./modules/homeslider";
 import { initReloadToTop } from "./modules/totoponreload";
 import { initCustomScrollbar } from "./modules/scrollbars";
 import { initCardFlip } from "./modules/cardflip";
+import { initNavDrawer } from "./modules/sitenav";
 
 initReloadToTop();
 initHomeSlider();
 initCardFlip();
+initNavDrawer();
 //initCustomScrollbar();
 
 if (window.netlifyIdentity) {
