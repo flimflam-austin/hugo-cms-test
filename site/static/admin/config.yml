@@ -373,7 +373,7 @@ collections:
                 - label: Card Text
                   name: card_text
                   widget: markdown
-                  #pattern: [".{,400}", "400 characters Max."]
+                  modes: ["rich_text"]
                   required: true
                 - label: Citation
                   name: card_citation
@@ -388,7 +388,7 @@ collections:
                 - label: Card Text
                   name: card_text
                   widget: markdown
-                  #pattern: [".{,400}", "400 characters Max."]
+                  modes: ["rich_text"]
                   required: false
                 - label: Citation
                   name: card_citation
@@ -433,7 +433,6 @@ collections:
                 - label: Card Text
                   name: card_text
                   widget: markdown
-                  #pattern: [".{,400}", "400 characters Max."]
                   required: false
                 - label: Citation
                   name: card_citation

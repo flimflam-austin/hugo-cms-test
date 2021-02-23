@@ -41,6 +41,10 @@
 	&__summary {
 		@include typo-title-xxl;
 		margin: 1rem 0 1rem 0;
+
+		&--secondary {
+			@include typo-title-lg;
+		}
 	}
 
 	&__dates {

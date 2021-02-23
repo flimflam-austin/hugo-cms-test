@@ -8,7 +8,10 @@
                 <div class="post-header__block post-header__block--text">
                     <p class="post-header__category" >quick quotes</p>
                     <h1 class="post-header__summary">&ldquo;{{- .Params.featured_quote.quote -}}&rdquo;</h1>
-                    <p>{{ .Params.featured_quote.summary}}</p>
+                    <p>{{ .Params.featured_quote.citation }}</p>
+                    {{ if .Params.featured_quote.summary }}
+                    <p class="post-header__summary--secondary">{{ .Params.featured_quote.summary }}</p>
+                    {{ end }}
                     <span class="post-header__ruler"></span>
                     <div class="post-header__dates">
                         <p class="post-header__date">Published on<br><time datetime="{{ .Params.date_published }}">{{- .Params.meta.date_published -}}</time></p>
@@ -35,16 +38,6 @@
 
             <!-- for author, etc. -->
             <footer class="post-footer">
-                {{/*  {{ $authorList := .Params.meta.post_author}}
-                {{ range $authorList }}
-                    {{ $authorName := (delimit . " " "") }}
-                    {{ range where .Pages "Section" "authors" }}
-                        {{ string .Params.title }}
-                    {{ end }}
-                {{ end }}  */}}
-                {{/*  {{ range (where (where .Pages "Section" "authors") .Title "intersect" $authorName) }}
-                    {{ partial "components/authors" . }}
-                {{ end }}  */}}
             </footer>
         </article>
     </main>

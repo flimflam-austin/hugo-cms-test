@@ -40,11 +40,13 @@ export default class CardPreview extends React.Component {
 
 											<div class="stackcard__content">
 												<div class="stackcard__text">
-													{entry.getIn([
-														"data",
-														"card_01",
-														"card_text",
-													])}
+													{marked(
+														entry.getIn([
+															"data",
+															"card_01",
+															"card_text",
+														])
+													)}
 												</div>
 												<p class="stackcard__citation">
 													{entry.getIn([
