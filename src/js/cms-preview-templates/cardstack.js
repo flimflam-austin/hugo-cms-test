@@ -40,11 +40,10 @@ export default class CardPreview extends React.Component {
 
 											<div class="stackcard__content">
 												<div class="stackcard__text">
-													{widgetFor([
-														"data",
+													{widgetFor(
 														"card_01",
-														"card_text",
-													])}
+														"card_text"
+													)}
 												</div>
 												<p class="stackcard__citation">
 													{entry.getIn([
@@ -71,11 +70,10 @@ export default class CardPreview extends React.Component {
 
 											<div class="stackcard__content">
 												<div class="stackcard__text">
-													{widgetFor([
-														"data",
+													{widgetFor(
 														"card_01",
-														"card_text",
-													])}
+														"card_text"
+													)}
 												</div>
 												<p class="stackcard__citation">
 													{entry.getIn([
