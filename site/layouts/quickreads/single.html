@@ -1,0 +1,20 @@
+{{ define "main" }}
+    <main class="l-page__container">
+        <article class="post">
+            <section class="page-content page-content--card">
+                
+                {{ .Scratch.Set "showlink" false }}
+                {{partial "components/cardstack" . }}
+                <a class="btn btn--full-width btn--margin-top" href="/quickreads/">View All Quick Reads</a>
+            </section>
+            <section class="page-content">
+                {{ partial "components/ruledtitle" (dict "_sectionTitle" "sources" "_viewAllLink" "")}}
+                <div class="page-content__body page-content__body--pad-top">
+                    {{ .Params.sources | markdownify }}
+                </div>
+                {{ partial "components/share" . }}
+            </section>
+            
+        </article>
+    </main>
+{{ end }}

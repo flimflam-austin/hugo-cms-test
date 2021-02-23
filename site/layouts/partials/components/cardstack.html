@@ -400,8 +400,10 @@
         {{ end }}
     </section>
     <section class="cardstack__details">
-        {{time .Params.meta.date_published "America/Chicago"}}
+        {{ .Params.meta.date_published }}
         <p class="cardstack__date">{{/*{{- dateFormat "Jan 2, 2006 3:04 PM MST" .Params.meta.date_published  -}}*/}}</p>
-        <a class="cardstack__link" href="{{- .Permalink -}}">sources</a>
+        {{ if eq (.Scratch.Get "showlink") true }}
+            <a class="cardstack__link" href="{{- .Permalink -}}">sources</a>
+        {{ end }}
     </section>
 </article>

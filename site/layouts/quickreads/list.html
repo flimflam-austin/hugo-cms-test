@@ -5,6 +5,7 @@
         {{ $cardstacks := sort (where .Site.RegularPages "Section" "quickreads") ".Params.meta.date_published" "asc" }}
         {{ range (.Paginate ( $cardstacks.Reverse) 8 ).Pages }}
         
+        {{ .Scratch.Set "showlink" true }}
         {{partial "components/cardstack" . }}
 
         {{ end }}
