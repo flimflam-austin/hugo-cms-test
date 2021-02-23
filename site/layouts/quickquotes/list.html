@@ -1,0 +1,27 @@
+{{ define "main" }}
+<main class="l-page__container">
+    {{ partial "components/ruledtitle" (dict "_sectionTitle" "all videos" "_viewAllLink" "")}}
+    <div class="l-list-grid__content">
+        {{ $quickquotes := sort (where .Site.RegularPages "Section" "quickquotes") ".Params.meta.publishdate" }}
+        {{ range (.Paginate (sort $quickquotes.Reverse ".Params.meta.is_breaking" "=" true).Reverse 8).Pages }}
+        <a class="qqprev qqprev--side qqprev--list {{ if (eq .Params.meta.is_breaking true)}} qqprev--breaking {{end}}" href="{{- .Permalink -}}">
+            <article class="qqprev__wrapper">
+                {{ if (eq .Params.meta.is_breaking true)}} <div class="qqprev__breakingmarker">breaking</div> {{end}}
+                
+                <h2 class="qqprev__quote">&ldquo;{{ .Params.featured_quote.quote | truncate 120 }}&rdquo;</h2>
+                {{/*  {{ .Params.meta.publishdate }}  */}}
+                <p class="qqprev__summary">{{ .Params.featured_quote.summary | truncate 120 }}</p>
+            </article>
+        </a>
+
+        {{ end }}
+
+    </div>
+    <div class="pagination-body">
+        <span class="pagination-rule"></span>
+        {{ template "_internal/pagination.html" . }}
+        <span class="pagination-rule"></span>
+    </div>
+    
+</main>
+{{ end }}

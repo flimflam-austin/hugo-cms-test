@@ -107,6 +107,10 @@
 		margin-bottom: 2rem;
 	}
 
+	&--list {
+		padding: 0 1rem;
+	}
+
 	&--breaking {
 		background-color: $color-ui-alert;
 		border-radius: 1rem;

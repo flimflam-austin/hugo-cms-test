@@ -1,0 +1,51 @@
+.pagination-body {
+	width: 100%;
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+
+	margin-bottom: $post-section-spacing;
+}
+
+.pagination-rule {
+	height: 1px;
+	background-color: $color-black;
+	width: 100%;
+}
+
+.pagination {
+	width: auto;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+
+	list-style-type: none;
+	margin: 0;
+	padding: 1rem;
+
+	& .page-item {
+		list-style-type: none;
+		font-size: $fs-base;
+		line-height: 1;
+		padding: 0.5rem;
+
+		@include alpha-regular;
+
+		& a {
+			color: $color-black;
+		}
+
+		&.active {
+			@include alpha-bold;
+		}
+
+		&.disabled a {
+			color: $color-brand-gray-50;
+		}
+	}
+}

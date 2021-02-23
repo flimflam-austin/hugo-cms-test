@@ -126,3 +126,32 @@ $l-desktop-xl-up: containerSizes(3, 1);
 .l-body {
 	padding-top: 4rem;
 }
+
+.l-list-grid__content {
+	position: relative;
+	padding: ($post-section-spacing / 2) 0 $post-section-spacing 0;
+	width: 100%;
+	margin: 0 auto;
+	justify-content: center;
+
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 1fr;
+	column-gap: $site-content-padding;
+	row-gap: $post-section-spacing;
+
+	@include query-tablet-up {
+		width: 100%;
+		grid-template-columns: repeat(2, $card-width);
+	}
+
+	@include query-desktop-up {
+		width: 100%;
+		grid-template-columns: repeat(3, $card-width);
+	}
+
+	@include query-desktop-xl-up {
+		width: 100%;
+		grid-template-columns: repeat(4, $card-width);
+	}
+}

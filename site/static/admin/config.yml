@@ -520,6 +520,40 @@ collections:
             hint: For sources and supporting text on post page.
             widget: markdown
             required: false
+    - products: products
+      label: products
+      create: true
+      slug: "{{year}}{{month}}{{day}}-{{slug}}"
+      folder: site/content/quickreads
+      fields:
+          - label: Title
+            name: title
+            widget: string
+            required: true
+          - label: Publish Date
+            name: date_published
+            widget: datetime
+            required: true
+          - label: Featured Image
+            name: featured_image
+            widget: object
+            required: true
+            fields:
+                - label: Image
+                  name: image
+                  widget: image
+                  allow_multiple: false
+                  required: true
+                - label: Alt Text
+                  name: alt
+                  hint: Short description of image used for SEO and Accessibility
+                  widget: string
+                  required: true
+          - label: summary
+            name: summary
+            widget: string
+            required: true
+
     - name: pages
       label: Pages
       create: false
