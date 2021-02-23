@@ -133,7 +133,7 @@ collections:
       folder: site/content/quickquotes
       create: true
       fields:
-          - label: Title
+          - label: Post Name
             name: title
             widget: string
             required: true
@@ -169,13 +169,14 @@ collections:
                   date_format: MM.DD.YYYY
                   time_format: HH.mm
                   format: LLL
+                  default: ""
                   picker_utc: false
                   required: false
                 - label: Post Author
                   name: post_author
                   widget: list
                   allow_add: true
-                  label_singular: Add Co-author
+                  label_singular: Co-author
                   summary: Author
                   required: false
                   fields:
@@ -198,7 +199,7 @@ collections:
                   name: summary
                   hint: Brief explanation of quote that will appear under 'short quote'.
                   widget: text
-                  required: true
+                  required: false
                 - label: Citation
                   name: citation
                   hint: Who or what is being quoted.
