@@ -549,12 +549,13 @@ collections:
                   hint: Short description of image used for SEO and Accessibility
                   widget: string
                   required: true
-          - label: summary
-            name: summary
-            widget: string
-            required: true
           - label: price
             name: price
+            widget: string
+            required: false
+          - label: store link
+            name: storelink
+            hint: The url of the product on the online store.
             widget: string
             required: false
 
