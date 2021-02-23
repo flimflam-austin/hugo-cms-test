@@ -1,0 +1,50 @@
+baseurl: /
+languageCode: "en-us"
+languageLang: "en"
+title: "SmartHER News"
+
+# RSS, categories and tags disabled for an easy start
+# See configuration options for more details:
+# https://gohugo.io/getting-started/configuration/#toml-configuration
+#disableKinds = ["RSS", "taxonomyTerm"]
+
+taxonomies:
+    author: authors
+    category: categories
+    tag: tags
+
+menu:
+    main:
+        - identifier: home
+          name: home
+          url: "/"
+
+        - identifier: videos
+          name: videos
+          url: "/videoposts/"
+
+        - identifier: quickquotes
+          name: quick quotes
+          url: /quickquotes/
+
+        - identifier: quickreads
+          name: quick reads
+          url: /quickreads/
+
+        - identifier: podcasts
+          name: podcasts
+          title: smarther news podcast feed
+          url: "https://smarthernews.libsyn.com/"
+          params:
+              open_as_new: true
+
+        - identifier: about
+          name: about
+          url: /about/
+
+        - identifier: shop
+          name: shop
+          title: smarther news online store
+          url: "https://smarthernews.com/shop/"
+          params:
+              open_as_new: true

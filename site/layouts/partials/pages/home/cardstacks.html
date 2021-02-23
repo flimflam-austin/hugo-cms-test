@@ -1,4 +1,0 @@
-{{ $cardstacks := sort (where .Site.RegularPages "Section" "cardstacks") ".Params.meta.date_published" "asc" }}
-{{ range first 6 $cardstacks.Reverse }}
-    {{partial "components/cardstack" . }}
-{{ end }}

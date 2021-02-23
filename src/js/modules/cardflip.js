@@ -1,5 +1,5 @@
 const cardFlip = () => {
-	const flipDuration = 2000;
+	const flipDuration = 750;
 	const cardStackClass = "cardstack";
 	const cardClass = "stackcard";
 	const frameClass = "stackcard__frame";

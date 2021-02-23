@@ -272,10 +272,10 @@ collections:
                   name: personal_site
                   widget: string
                   required: false
-    - label: Card Stacks
-      name: cardstacks
+    - label: Quick Reads
+      name: quickreads
       slug: "{{year}}{{month}}{{day}}-{{slug}}"
-      folder: site/content/cardstack
+      folder: site/content/quickreads
       create: true
       fields:
           - label: Title

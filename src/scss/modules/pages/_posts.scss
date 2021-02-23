@@ -18,7 +18,6 @@ $post-section-spacing: 4rem;
 
 	&__block {
 		width: 100%;
-		min-height: 100%;
 
 		&--text {
 			padding: $post-section-spacing 0;
@@ -30,6 +29,10 @@ $post-section-spacing: 4rem;
 			@include query-desktop-up {
 				align-items: flex-start;
 			}
+		}
+
+		@include query-desktop-up {
+			min-height: 100%;
 		}
 	}
 

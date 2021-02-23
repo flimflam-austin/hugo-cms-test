@@ -330,7 +330,7 @@ $icon-dark: url("/img/sh_sunglasses_sage.png");
 
 /* flip animations */
 
-@keyframes flipCurrentCardLower {
+@keyframes flipForwardCurrentCardLower {
 	0% {
 		transform: rotateX(0deg);
 		filter: brightness(1.2);
@@ -346,10 +346,22 @@ $icon-dark: url("/img/sh_sunglasses_sage.png");
 	}
 }
 
-@keyframes flipCurrentCardUpper {
+@keyframes test {
+	0% {
+	}
+	50% {
+		visibility: hidden;
+	}
+	100% {
+		visibility: hidden;
+	}
+}
+
+@keyframes flipBackCurrentCardUpper {
 	0% {
 		transform: rotateX(0deg);
 		filter: brightness(0.2);
+		opacity: 100%;
 	}
 	99% {
 		transform: rotateX(-180deg);
@@ -362,7 +374,7 @@ $icon-dark: url("/img/sh_sunglasses_sage.png");
 	}
 }
 
-@keyframes flipNewCardLower {
+@keyframes flipBackNewCardLower {
 	0% {
 		transform: rotateX(180deg);
 		filter: brightness(1.2);
@@ -375,7 +387,7 @@ $icon-dark: url("/img/sh_sunglasses_sage.png");
 	}
 }
 
-@keyframes flipNewCardUpper {
+@keyframes flipForwardNewCardUpper {
 	0% {
 		transform: rotateX(-180deg);
 		filter: brightness(0.2);
@@ -388,10 +400,11 @@ $icon-dark: url("/img/sh_sunglasses_sage.png");
 	}
 }
 
-$card-flip-duration: 2s;
+$card-flip-duration: 0.75s;
 
 .stackcard {
-	perspective: 100px;
+	perspective: 3000px;
+	transform-style: preserve-3d;
 
 	&--hidden {
 		display: none;
@@ -399,11 +412,12 @@ $card-flip-duration: 2s;
 
 	&__frame {
 		transform: rotateX(0deg);
+		opacity: 100%;
 		backface-visibility: hidden;
 		transform-style: preserve-3d;
 		animation-duration: $card-flip-duration;
 		animation-fill-mode: forwards;
-		animation-timing-function: ease-in;
+		animation-timing-function: ease-in-out;
 
 		&--upper {
 			transform-origin: bottom left;
@@ -415,25 +429,36 @@ $card-flip-duration: 2s;
 	}
 }
 
-.stackcard--clicked .stackcard__frame--lower {
-	animation-name: flipCurrentCardLower;
-	/* z-index: map-get($zindex, page-mid); */
+.stackcard--clicked {
+	& .stackcard__frame--lower {
+		animation-name: flipForwardCurrentCardLower;
+		/* z-index: map-get($zindex, page-mid); */
+	}
+
+	& .stackcard__frame--upper {
+		z-index: -1;
+		animation-name: test;
+	}
 }
 
-.stackcard--activated .stackcard__frame--upper {
-	animation-name: flipNewCardUpper;
-	/* z-index: map-get($zindex, page-mid + 1); */
-	z-index: 9000;
-}
+.stackcard--activated {
+	& .stackcard__frame--upper {
+		z-index: 9000;
+		animation-name: flipForwardNewCardUpper;
+		/* z-index: map-get($zindex, page-mid + 1); */
+	}
 
+	& .stackcard__frame--lower {
+	}
+}
 .stackcard--clicked--previous .stackcard__frame--upper {
-	animation-name: flipCurrentCardUpper;
+	animation-name: flipBackCurrentCardUpper;
 	/* z-index: map-get($zindex, page-mid); */
 	z-index: 9000;
 }
 
 .stackcard--activated--previous .stackcard__frame--lower {
-	animation-name: flipNewCardLower;
+	animation-name: flipBackNewCardLower;
 }
 
 .stackcard__body,
