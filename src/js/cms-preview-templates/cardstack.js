@@ -1,5 +1,4 @@
 import React from "react";
-const marked = require("marked");
 
 export default class CardPreview extends React.Component {
 	render() {
@@ -41,13 +40,11 @@ export default class CardPreview extends React.Component {
 
 											<div class="stackcard__content">
 												<div class="stackcard__text">
-													{marked(
-														entry.getIn([
-															"data",
-															"card_01",
-															"card_text",
-														])
-													)}
+													{widgetFor([
+														"data",
+														"card_01",
+														"card_text",
+													])}
 												</div>
 												<p class="stackcard__citation">
 													{entry.getIn([
@@ -74,13 +71,11 @@ export default class CardPreview extends React.Component {
 
 											<div class="stackcard__content">
 												<div class="stackcard__text">
-													{marked(
-														entry.getIn([
-															"data",
-															"card_01",
-															"card_text",
-														])
-													)}
+													{widgetFor([
+														"data",
+														"card_01",
+														"card_text",
+													])}
 												</div>
 												<p class="stackcard__citation">
 													{entry.getIn([
