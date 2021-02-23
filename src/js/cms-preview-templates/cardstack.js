@@ -41,8 +41,7 @@ export default class CardPreview extends React.Component {
 											<div class="stackcard__content">
 												<div class="stackcard__text">
 													{widgetFor(
-														"card_01",
-														"card_text"
+														"card_01.card_text"
 													)}
 												</div>
 												<p class="stackcard__citation">
@@ -71,8 +70,7 @@ export default class CardPreview extends React.Component {
 											<div class="stackcard__content">
 												<div class="stackcard__text">
 													{widgetFor(
-														"card_01",
-														"card_text"
+														"card_01.card_text"
 													)}
 												</div>
 												<p class="stackcard__citation">
