@@ -6,6 +6,8 @@ meta:
     is_breaking: false
     meta_tags:
         - test 01
+    post_author:
+        - author: Jenna Lee
 featured_quote:
     quote: There's no time to start like today.
     summary: President Biden before signing 17 executive actions his first day in office.

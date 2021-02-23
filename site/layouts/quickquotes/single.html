@@ -35,7 +35,16 @@
 
             <!-- for author, etc. -->
             <footer class="post-footer">
-                {{ partial "components/authors" . }}
+                {{/*  {{ $authorList := .Params.meta.post_author}}
+                {{ range $authorList }}
+                    {{ $authorName := (delimit . " " "") }}
+                    {{ range where .Pages "Section" "authors" }}
+                        {{ string .Params.title }}
+                    {{ end }}
+                {{ end }}  */}}
+                {{/*  {{ range (where (where .Pages "Section" "authors") .Title "intersect" $authorName) }}
+                    {{ partial "components/authors" . }}
+                {{ end }}  */}}
             </footer>
         </article>
     </main>

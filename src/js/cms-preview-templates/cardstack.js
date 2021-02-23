@@ -11,9 +11,9 @@ export default class CardPreview extends React.Component {
 			"color_palette_classname",
 		])}`;
 
-		let image = getAsset(
+		/* let image = getAsset(
 			entry.getIn(["data", "background_image", "image"])
-		);
+		); */
 
 		console.log("running card render.");
 
@@ -25,18 +25,6 @@ export default class CardPreview extends React.Component {
 							<div class="stackcard">
 								<div class="stackcard__frame">
 									<div class="stackcard__body">
-										{image && (
-											<img
-												class="stackcard__bgimage"
-												src={image}
-												alt={entry.getIn([
-													"data",
-													"background_image",
-													"alt",
-												])}
-											/>
-										)}
-
 										<div class="stackcard__borderwrapper">
 											<div class="stackcard__borderelements">
 												<span class="stackcard__borderpiece"></span>
