@@ -122,3 +122,7 @@ $l-desktop-xl-up: containerSizes(3, 1);
 	@include hide-scrollbars;
 	//@include scrollbar-type-box;
 }
+
+.l-body {
+	padding-top: 4rem;
+}

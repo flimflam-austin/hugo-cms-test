@@ -3,7 +3,7 @@
 {{ partial "head" . }}
 
 {{/*<body class="{{ .Type }} {{ with .File }} page_{{.TranslationBaseName }}{{ end }}">*/}}
-<body {{ if .IsHome }} class="home__body" {{ end }} >
+<body class="l-body{{ if .IsHome }} home__body {{ end }}" >
 	{{/*<body class='{{ if .IsPage }}single{{ else }}list{{ end }}'>*/}}
 
 	{{ block "header" . }}{{ partial "global/nav" . }}{{end}}
