@@ -15,6 +15,8 @@ export default class CardPreview extends React.Component {
 			entry.getIn(["data", "background_image", "image"])
 		);
 
+		console.log("running card render.");
+
 		return (
 			<div>
 				<main class="l-grid-container l-grid-container--navoffset cardtest-main">

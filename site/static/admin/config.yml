@@ -520,7 +520,7 @@ collections:
             hint: For sources and supporting text on post page.
             widget: markdown
             required: false
-    - label: products
+    - label: Products
       name: products
       create: true
       slug: "{{year}}{{month}}{{day}}-{{slug}}"
@@ -552,7 +552,7 @@ collections:
           - label: price
             name: price
             widget: string
-            required: false
+            required: true
           - label: store link
             name: storelink
             hint: The url of the product on the online store.
