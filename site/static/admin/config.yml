@@ -553,6 +553,10 @@ collections:
             name: summary
             widget: string
             required: true
+          - label: price
+            name: price
+            widget: string
+            required: false
 
     - name: pages
       label: Pages
