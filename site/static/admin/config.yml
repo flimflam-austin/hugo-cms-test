@@ -520,8 +520,8 @@ collections:
             hint: For sources and supporting text on post page.
             widget: markdown
             required: false
-    - products: products
-      label: products
+    - label: products
+      name: products
       create: true
       slug: "{{year}}{{month}}{{day}}-{{slug}}"
       folder: site/content/quickreads
