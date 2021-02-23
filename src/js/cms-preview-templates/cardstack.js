@@ -62,17 +62,6 @@ export default class CardPreview extends React.Component {
 									aria-hidden="true"
 								>
 									<div class="stackcard__body stackcard__body--lower">
-										{image && (
-											<img
-												class="stackcard__bgimage"
-												src={image}
-												alt={entry.getIn([
-													"data",
-													"background_image",
-													"alt",
-												])}
-											/>
-										)}
 										<div class="stackcard__borderwrapper">
 											<div class="stackcard__borderelements stackcard__borderelements--lower">
 												<span class="stackcard__borderpiece"></span>
