@@ -118,11 +118,6 @@ collections:
                   hint: Short description of image used for SEO and Accessibility
                   widget: string
                   required: true
-                - label: Image Attribution
-                  name: attribution
-                  hint: "Photographer credit."
-                  widget: string
-                  required: false
           - label: Summary
             name: summary
             hint: "Brief summary that appears on preview card"
@@ -224,11 +219,6 @@ collections:
                   hint: Short description of image used for SEO and Accessibility
                   widget: string
                   required: true
-                - label: Image Attribution
-                  name: attribution
-                  hint: "Photographer credit."
-                  widget: string
-                  required: false
           - label: Article
             name: article
             widget: markdown
@@ -375,11 +365,6 @@ collections:
                   widget: string
                   default: ""
                   required: true
-                - label: Image Attribution
-                  name: attribution
-                  hint: "Photographer credit."
-                  widget: string
-                  required: false
           - label: Card 1
             name: card_01
             widget: object

@@ -4,9 +4,6 @@
             <header class="postheader">
                 <figure class="postheader__block aspectimg">
                     <img class="aspectimg__image" src="{{ .Params.featured_image.image }}" alt="{{ .Params.featured_image.alt }}"/>
-                    {{ if .Params.featured_image.attribution }}
-                        <figcaption>{{ .Params.featured_image.attribution }}</figcaption>
-                    {{ end }}
                 </figure>
                     {{/*<p>{{ .Params.video_category }}</p>*/}}
                 <div class="postheader__block postheader__block--text">
@@ -22,24 +19,22 @@
                     <ul class="postheader__tags btn-group">
                         {{ range .Params.tags }}
                             <li class="btn-group__btn">
-                                <a class="btn" href="tags/{{ . | urlize}}">{{- . -}}</a>
+                                <a class="btn btn--green" href="tags/{{ . | urlize}}">{{- . -}}</a>
                             </li>
                         {{ end }}
                     </ul>
                 </div>
             </header>
 
-            <hr/>
-
             <section class="content">
-                {{ .Params.article | markdownify }}
+                <div class="content__body">
+                    {{ .Params.article | markdownify }}
+                </div>
+                {{ partial "components/share" . }}
             </section>
-
-            <hr/>
 
             <!-- for author, etc. -->
             <footer>
-                {{ partial "components/share" . }}
                 {{ partial "components/authors" . }}
             </footer>
         </article>

@@ -148,6 +148,14 @@ $typo-spacing-alpha-bold: 0.08em;
 		opacity: 0.5;
 	}
 }
+
+@mixin hover-link {
+	@include transition-fast;
+
+	&:hover {
+		opacity: 0.5;
+	}
+}
 /*  */
 
 @mixin typo-base-paragraph {

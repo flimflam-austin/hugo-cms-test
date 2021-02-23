@@ -1,0 +1,25 @@
+.share {
+	width: 100%;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	&__title {
+		@include typo-title-tiny;
+		display: block;
+		text-align: center;
+		padding-bottom: 1rem;
+	}
+
+	&__links {
+		display: inline-block;
+		/* text-align: center; */
+		margin: 0 auto;
+		/* display: block; */
+	}
+
+	&__link {
+		@include hover-lighten;
+	}
+}

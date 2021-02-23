@@ -20,6 +20,7 @@
 @import "./modules/components/homeslider";
 @import "./modules/components/scrollbar";
 @import "./modules/components/cardstack";
+@import "./modules/components/share";
 
 @import "./modules/layout/layout";
 @import "./modules/layout/siteheader";
@@ -27,3 +28,5 @@
 
 @import "./modules/pages/home";
 @import "./modules/pages/posts";
+
+@import "./modules/vendors/flickity.css";
