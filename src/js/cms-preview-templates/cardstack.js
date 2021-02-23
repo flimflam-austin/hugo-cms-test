@@ -178,6 +178,554 @@ export default class CardPreview extends React.Component {
 									</div>
 								</div>
 							</div>
+
+							<div class="stackcard">
+								<div class="stackcard__frame">
+									<div class="stackcard__body">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements">
+												<span class="stackcard__borderpiece"></span>
+												<h3 class="stackcard__category">
+													{entry.getIn([
+														"data",
+														"meta",
+														"card_category",
+													])}
+												</h3>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_03",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_03",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div
+									class="stackcard__frame stackcard__frame--lower"
+									aria-hidden="true"
+								>
+									<div class="stackcard__body stackcard__body--lower">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements stackcard__borderelements--lower">
+												<span class="stackcard__borderpiece"></span>
+												<div class="stackcard__logo"></div>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_03",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_03",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="stackcard">
+								<div class="stackcard__frame">
+									<div class="stackcard__body">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements">
+												<span class="stackcard__borderpiece"></span>
+												<h3 class="stackcard__category">
+													{entry.getIn([
+														"data",
+														"meta",
+														"card_category",
+													])}
+												</h3>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_04",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_04",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div
+									class="stackcard__frame stackcard__frame--lower"
+									aria-hidden="true"
+								>
+									<div class="stackcard__body stackcard__body--lower">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements stackcard__borderelements--lower">
+												<span class="stackcard__borderpiece"></span>
+												<div class="stackcard__logo"></div>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_04",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_04",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="stackcard">
+								<div class="stackcard__frame">
+									<div class="stackcard__body">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements">
+												<span class="stackcard__borderpiece"></span>
+												<h3 class="stackcard__category">
+													{entry.getIn([
+														"data",
+														"meta",
+														"card_category",
+													])}
+												</h3>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_05",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_05",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div
+									class="stackcard__frame stackcard__frame--lower"
+									aria-hidden="true"
+								>
+									<div class="stackcard__body stackcard__body--lower">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements stackcard__borderelements--lower">
+												<span class="stackcard__borderpiece"></span>
+												<div class="stackcard__logo"></div>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_05",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_05",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="stackcard">
+								<div class="stackcard__frame">
+									<div class="stackcard__body">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements">
+												<span class="stackcard__borderpiece"></span>
+												<h3 class="stackcard__category">
+													{entry.getIn([
+														"data",
+														"meta",
+														"card_category",
+													])}
+												</h3>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_06",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_06",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div
+									class="stackcard__frame stackcard__frame--lower"
+									aria-hidden="true"
+								>
+									<div class="stackcard__body stackcard__body--lower">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements stackcard__borderelements--lower">
+												<span class="stackcard__borderpiece"></span>
+												<div class="stackcard__logo"></div>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_06",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_06",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="stackcard">
+								<div class="stackcard__frame">
+									<div class="stackcard__body">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements">
+												<span class="stackcard__borderpiece"></span>
+												<h3 class="stackcard__category">
+													{entry.getIn([
+														"data",
+														"meta",
+														"card_category",
+													])}
+												</h3>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_07",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_07",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div
+									class="stackcard__frame stackcard__frame--lower"
+									aria-hidden="true"
+								>
+									<div class="stackcard__body stackcard__body--lower">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements stackcard__borderelements--lower">
+												<span class="stackcard__borderpiece"></span>
+												<div class="stackcard__logo"></div>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_07",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_07",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="stackcard">
+								<div class="stackcard__frame">
+									<div class="stackcard__body">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements">
+												<span class="stackcard__borderpiece"></span>
+												<h3 class="stackcard__category">
+													{entry.getIn([
+														"data",
+														"meta",
+														"card_category",
+													])}
+												</h3>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_08",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_08",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div
+									class="stackcard__frame stackcard__frame--lower"
+									aria-hidden="true"
+								>
+									<div class="stackcard__body stackcard__body--lower">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements stackcard__borderelements--lower">
+												<span class="stackcard__borderpiece"></span>
+												<div class="stackcard__logo"></div>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_08",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_08",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="stackcard">
+								<div class="stackcard__frame">
+									<div class="stackcard__body">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements">
+												<span class="stackcard__borderpiece"></span>
+												<h3 class="stackcard__category">
+													{entry.getIn([
+														"data",
+														"meta",
+														"card_category",
+													])}
+												</h3>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_09",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_09",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div
+									class="stackcard__frame stackcard__frame--lower"
+									aria-hidden="true"
+								>
+									<div class="stackcard__body stackcard__body--lower">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements stackcard__borderelements--lower">
+												<span class="stackcard__borderpiece"></span>
+												<div class="stackcard__logo"></div>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_09",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_09",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="stackcard">
+								<div class="stackcard__frame stackcard__frame--upper">
+									<div class="stackcard__body">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements">
+												<span class="stackcard__borderpiece"></span>
+												<h3 class="stackcard__category">
+													{entry.getIn([
+														"data",
+														"meta",
+														"card_category",
+													])}
+												</h3>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__checkmark"></div>
+
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_10",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_10",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div
+									class="stackcard__frame stackcard__frame--lower"
+									aria-hidden="true"
+								>
+									<div class="stackcard__body stackcard__body--lower">
+										<div class="stackcard__borderwrapper">
+											<div class="stackcard__borderelements stackcard__borderelements--lower">
+												<span class="stackcard__borderpiece"></span>
+												<div class="stackcard__logo"></div>
+												<span class="stackcard__borderpiece"></span>
+											</div>
+
+											<div class="stackcard__content">
+												<div class="stackcard__checkmark"></div>
+
+												<div class="stackcard__text">
+													{entry.getIn([
+														"data",
+														"card_10",
+														"card_text",
+													])}
+												</div>
+												<p class="stackcard__citation">
+													{entry.getIn([
+														"data",
+														"card_10",
+														"card_citation",
+													])}
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
 						</section>
 						<section class="cardstack__details">
 							<p class="cardstack__date"></p>
