@@ -412,7 +412,7 @@ $card-flip-duration: 0.75s;
 
 	&__frame {
 		transform: rotateX(0deg);
-		opacity: 100%;
+		opacity: 1;
 		backface-visibility: hidden;
 		transform-style: preserve-3d;
 		animation-duration: $card-flip-duration;
