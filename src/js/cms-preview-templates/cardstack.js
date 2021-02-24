@@ -6,14 +6,14 @@ import parse from "html-react-parser";
 const toHTML = (value) =>
 	parse(remark().use(remarkHTML).processSync(value).toString());
 
-const createCard = (props, cardIndex) => {
-	const cardNumber = cardIndex + 1;
-
+const createCard = (props, cardNumber) => {
 	const htmlContent = toHTML(
 		props.entry.getIn(["data", `card_${cardNumber}`, "card_text"])
 	);
 	const checkmarkContent =
-		cardNumber === 10 ? `<div class="stackcard__checkmark"></div>` : "";
+		cardNumber === 10
+			? parse(`<div class="stackcard__checkmark"></div>`)
+			: "";
 
 	const needsImage = cardNumber === 1 ? true : false;
 	const hasImage = needsImage
@@ -88,51 +88,41 @@ const createCard = (props, cardIndex) => {
 	);
 };
 
+const createCardWrapper = (props, cardComponent) => {
+	let colorClass = `cardstack cardstack--spread cardstack--${props.entry.getIn(
+		["data", "color_palette_classname"]
+	)}`;
+
+	return (
+		<div>
+			<main class="l-grid-container l-grid-container--navoffset cardtest-main">
+				<article class={colorClass}>
+					<section class="cardstack__cards">
+						{cardComponent(props, 1)}
+						{cardComponent(props, 2)}
+						{cardComponent(props, 3)}
+						{cardComponent(props, 4)}
+						{cardComponent(props, 5)}
+						{cardComponent(props, 6)}
+						{cardComponent(props, 7)}
+						{cardComponent(props, 8)}
+						{cardComponent(props, 9)}
+						{cardComponent(props, 10)}
+					</section>
+					<section class="cardstack__details">
+						<p class="cardstack__date"></p>
+						<a class="cardstack__link" href="/">
+							sources
+						</a>
+					</section>
+				</article>
+			</main>
+		</div>
+	);
+};
+
 export default class CardPreview extends React.Component {
 	render() {
-		const entry = this.props.entry;
-		const getAsset = this.props.getAsset;
-		const widgetFor = this.props.widgetFor;
-
-		let colorClass = `cardstack cardstack--spread cardstack--${entry.getIn([
-			"data",
-			"color_palette_classname",
-		])}`;
-
-		/* let image = getAsset(
-			entry.getIn(["data", "background_image", "image"])
-		); */
-
-		console.log("running card render.");
-
-		const asMarkdown = entry.getIn(["data", "card_01", "card_text"]);
-		const asHTML = toHTML(asMarkdown);
-
-		return (
-			<div>
-				<main class="l-grid-container l-grid-container--navoffset cardtest-main">
-					<article class={colorClass}>
-						<section class="cardstack__cards">
-							{createCard(this.props, 0)}
-							{createCard(this.props, 1)}
-							{createCard(this.props, 2)}
-							{createCard(this.props, 3)}
-							{createCard(this.props, 4)}
-							{createCard(this.props, 5)}
-							{createCard(this.props, 6)}
-							{createCard(this.props, 7)}
-							{createCard(this.props, 8)}
-							{createCard(this.props, 9)}
-						</section>
-						<section class="cardstack__details">
-							<p class="cardstack__date"></p>
-							<a class="cardstack__link" href="/">
-								sources
-							</a>
-						</section>
-					</article>
-				</main>
-			</div>
-		);
+		return createCardWrapper(this.props, createCard);
 	}
 }
