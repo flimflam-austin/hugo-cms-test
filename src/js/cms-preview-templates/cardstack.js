@@ -22,7 +22,7 @@ const createCard = (props, cardIndex) => {
 		  )
 		: false;
 	const imageContent = !!hasImage
-		? `<img class="stackcard__bgimage" src="${hasImage}" alt="" />`
+		? parse(`<img class="stackcard__bgimage" src="${hasImage}" alt="" />`)
 		: false;
 
 	return (
