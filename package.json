@@ -69,6 +69,7 @@
   "dependencies": {
     "flickity": "^2.2.2",
     "flickity-imagesloaded": "^2.0.0",
+    "html-react-parser": "^1.2.4",
     "marked": "^2.0.0",
     "overlayscrollbars": "^1.13.1",
     "remark": "^13.0.0",

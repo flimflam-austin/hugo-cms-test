@@ -1,9 +1,10 @@
 import React from "react";
 import remark from "remark";
 import remarkHTML from "remark-html";
+import parse from "html-react-parser";
 
 const toHTML = (value) =>
-	remark().use(remarkHTML).processSync(value).toString();
+	parse(remark().use(remarkHTML).processSync(value).toString());
 
 export default class CardPreview extends React.Component {
 	render() {
