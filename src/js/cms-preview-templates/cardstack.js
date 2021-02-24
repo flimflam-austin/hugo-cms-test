@@ -7,13 +7,13 @@ const toHTML = (value) =>
 	parse(remark().use(remarkHTML).processSync(value).toString());
 
 const createCard = (props, cardIndex) => {
-	const cardNumber = cardIndex++;
+	const cardNumber = cardIndex + 1;
 
 	const htmlContent = toHTML(
 		props.entry.getIn(["data", `card_${cardNumber}`, "card_text"])
 	);
 	const checkmarkContent =
-		cardNumber === "10" ? `<div class="stackcard__checkmark"></div>` : "";
+		cardNumber === 10 ? `<div class="stackcard__checkmark"></div>` : "";
 
 	const needsImage = cardNumber === 1 ? true : false;
 	const hasImage = needsImage
