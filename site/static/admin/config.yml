@@ -367,7 +367,7 @@ collections:
                   default: ""
                   required: true
           - label: Card 1
-            name: card_01
+            name: card_1
             widget: object
             fields:
                 - label: Card Text
@@ -381,7 +381,7 @@ collections:
                   widget: string
                   required: false
           - label: Card 2
-            name: card_02
+            name: card_2
             widget: object
             collapsed: true
             fields:
@@ -396,7 +396,7 @@ collections:
                   widget: string
                   required: false
           - label: Card 3
-            name: card_03
+            name: card_3
             widget: object
             collapsed: true
             fields:
@@ -411,7 +411,7 @@ collections:
                   widget: string
                   required: false
           - label: Card 4
-            name: card_04
+            name: card_4
             widget: object
             collapsed: true
             fields:
@@ -426,7 +426,7 @@ collections:
                   widget: string
                   required: false
           - label: Card 5
-            name: card_05
+            name: card_5
             widget: object
             collapsed: true
             fields:
@@ -440,7 +440,7 @@ collections:
                   widget: string
                   required: false
           - label: Card 6
-            name: card_06
+            name: card_6
             widget: object
             collapsed: true
             fields:
@@ -455,7 +455,7 @@ collections:
                   widget: string
                   required: false
           - label: Card 7
-            name: card_07
+            name: card_7
             widget: object
             collapsed: true
             fields:
@@ -470,7 +470,7 @@ collections:
                   widget: string
                   required: false
           - label: Card 8
-            name: card_08
+            name: card_8
             widget: object
             collapsed: true
             fields:
@@ -485,7 +485,7 @@ collections:
                   widget: string
                   required: false
           - label: Card 9
-            name: card_09
+            name: card_9
             widget: object
             collapsed: true
             fields:
