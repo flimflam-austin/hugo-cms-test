@@ -71,6 +71,8 @@
     "flickity-imagesloaded": "^2.0.0",
     "marked": "^2.0.0",
     "overlayscrollbars": "^1.13.1",
+    "remark": "^13.0.0",
+    "remark-html": "^13.0.1",
     "simplebar": "^5.3.0"
   }
 }

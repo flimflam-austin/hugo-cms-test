@@ -1,4 +1,9 @@
 import React from "react";
+import remark from "remark";
+import remarkHTML from "remark-html";
+
+const toHTML = (value) =>
+	remark().use(remarkHTML).processSync(value).toString();
 
 export default class CardPreview extends React.Component {
 	render() {
@@ -16,6 +21,9 @@ export default class CardPreview extends React.Component {
 		); */
 
 		console.log("running card render.");
+
+		const asMarkdown = entry.getIn(["data", "card_01", "card_text"]);
+		const asHTML = toHTML(asMarkdown);
 
 		return (
 			<div>
@@ -40,9 +48,7 @@ export default class CardPreview extends React.Component {
 
 											<div class="stackcard__content">
 												<div class="stackcard__text">
-													{widgetFor(
-														"card_01.card_text"
-													)}
+													{asHTML}
 												</div>
 												<p class="stackcard__citation">
 													{entry.getIn([
@@ -69,9 +75,7 @@ export default class CardPreview extends React.Component {
 
 											<div class="stackcard__content">
 												<div class="stackcard__text">
-													{widgetFor(
-														"card_01.card_text"
-													)}
+													{asHTML}
 												</div>
 												<p class="stackcard__citation">
 													{entry.getIn([
