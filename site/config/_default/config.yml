@@ -1,12 +1,18 @@
 baseurl: /
-languageCode: "en-us"
-languageLang: "en"
-title: "SmartHER News"
+languageCode: en-us
+languageLang: en
+title: SmartHER News
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 #disableKinds = ["RSS", "taxonomyTerm"]
+
+#fix shortcode issue
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
 
 taxonomies:
     author: authors
