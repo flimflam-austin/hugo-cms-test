@@ -95,7 +95,7 @@ const createCardWrapper = (props, cardComponent) => {
 
 	return (
 		<div>
-			<main class="l-grid-container l-grid-container--navoffset cardtest-main">
+			<main class="l-page__container l-page__container--navoffset cardtest-main">
 				<article class={colorClass}>
 					<section class="cardstack__cards">
 						{cardComponent(props, 1)}
