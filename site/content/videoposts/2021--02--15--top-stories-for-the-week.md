@@ -17,11 +17,8 @@ postimage:
 summary: Har hela icke upprätthållande groda både vidsträckt tre bra
     upprätthållande bland om dimmhöljd kom, nu när samma nu precis söka bäckasiner
     träutensilierna dimmhöljd på år.
-article: >-
-
-
-    {{< youtube https://youtu.be/p1Rv_iTGt1U >}}
-
-
-    Har hela icke upprätthållande groda både vidsträckt tre bra upprätthållande bland om dimmhöljd kom, nu när samma nu precis söka bäckasiner träutensilierna dimmhöljd på år.
 ---
+
+{{< youtube p1Rv_iTGt1U >}}
+
+Har hela icke upprätthållande groda både vidsträckt tre bra upprätthållande bland om dimmhöljd kom, nu när samma nu precis söka bäckasiner träutensilierna dimmhöljd på år.

@@ -124,7 +124,7 @@ collections:
             widget: text
             required: true
           - label: Article
-            name: article
+            name: body
             widget: markdown
             required: false
     - label: Quick Quotes
@@ -221,7 +221,7 @@ collections:
                   widget: string
                   required: true
           - label: Article
-            name: article
+            name: body
             widget: markdown
             required: false
     - label: Authors
@@ -242,7 +242,7 @@ collections:
             format: LLL
             picker_utc: true
           - label: Bio
-            name: bio
+            name: body
             widget: markdown
             required: false
           - label: Author Image
@@ -516,7 +516,7 @@ collections:
                   widget: string
                   required: false
           - label: Sources and Description
-            name: sources
+            name: body
             hint: For sources and supporting text on post page.
             widget: markdown
             required: false

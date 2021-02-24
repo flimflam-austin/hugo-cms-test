@@ -16,8 +16,8 @@ postimage:
     attribution: Ally Doe
 summary: The latest remarks from the President and lawmakers on either side of
     the aisle.
-article: |-
-    {{< youtube https://youtu.be/Sgac1LkhZs0 >}}
-
-    {{< youtube https://youtu.be/FYPHo8Q9ulI >}}
 ---
+
+{{< youtube Sgac1LkhZs0 >}}
+
+{{< youtube FYPHo8Q9ulI >}}

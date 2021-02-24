@@ -15,9 +15,8 @@ postimage:
     alt: test image
     attribution: Alfred Doe
 summary: What happened. Why it matters. What’s next.
-article: >-
-    {{< youtube https://youtu.be/IHAEUyJ0emg >}}
-
-
-    Har hela icke upprätthållande groda både vidsträckt tre bra upprätthållande bland om dimmhöljd kom, nu när samma nu precis söka bäckasiner träutensilierna dimmhöljd på år.
 ---
+
+{{< youtube IHAEUyJ0emg >}}
+
+Har hela icke upprätthållande groda både vidsträckt tre bra upprätthållande bland om dimmhöljd kom, nu när samma nu precis söka bäckasiner träutensilierna dimmhöljd på år.

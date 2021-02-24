@@ -31,7 +31,7 @@
             <section class="page-content">
                 <div class="page-content__body">
                     <p>&ldquo;{{- .Params.featured_quote.quote -}}&rdquo;</p>
-                    {{ .Params.article | markdownify }}
+                    {{ .Content }}
                 </div>
                 {{ partial "components/share" . }}
             </section>
@@ -42,3 +42,5 @@
         </article>
     </main>
 {{ end }}
+
+{{/* | markdownify*/}}

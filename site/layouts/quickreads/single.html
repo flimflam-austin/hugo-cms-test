@@ -10,7 +10,7 @@
             <section class="page-content">
                 {{ partial "components/ruledtitle" (dict "_sectionTitle" "sources" "_viewAllLink" "")}}
                 <div class="page-content__body page-content__body--pad-top">
-                    {{ .Params.sources | markdownify }}
+                    {{ .Content }}
                 </div>
                 {{ partial "components/share" . }}
             </section>

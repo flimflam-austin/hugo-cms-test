@@ -20,21 +20,14 @@ featured_image:
         asperiores molestiae ratione reprehe
     attribution: Porro aspernatur quisquam consectetur exercitationem ut illo.
         Voluptatem ut nesciunt facere commodi incidunt enim eum. Dolore
-article: >-
-    ## Quos tempora aut repellendus minima est sed.
-
-
-    Omnis atque ut nemo quia rem. Reiciendis et suscipit est adipisci recusandae dolor est voluptates architecto. Qui sed dolor architecto quidem est.
-
-
-    ### Eaque perferendis omnis enim sapiente.
-
-
-    > Qui illo ratione sequi et maiores. Laudantium sit hic quos sit hic voluptate. Iste sint aspernatur et libero sunt animi odit eius. Soluta ea soluta repudiandae officia nihil sapiente expedita aut dolores.
-
-
-    Cupiditate magnam sed culpa omnis totam optio eius quis. Laudantium hic alias aliquam sequi odit. Et explicabo corrupti suscipit. In ab et dolorem dicta dolorem quia est. Libero quis est dolore facilis doloremque similique reprehenderit.
-
-
-    Iusto consequatur voluptatem aliquid sit doloribus. Doloremque maxime et aut sint magni adipisci consectetur animi. Repudiandae et possimus quod perspiciatis.
 ---
+
+## Quos tempora aut repellendus minima est sed.
+
+Omnis atque ut nemo quia rem. Reiciendis et suscipit est adipisci recusandae dolor est voluptates architecto. Qui sed dolor architecto quidem est.
+
+### Eaque perferendis omnis enim sapiente.
+
+> Qui illo ratione sequi et maiores. Laudantium sit hic quos sit hic voluptate. Iste sint aspernatur et libero sunt animi odit eius. Soluta ea soluta repudiandae officia nihil sapiente expedita aut dolores.
+> Cupiditate magnam sed culpa omnis totam optio eius quis. Laudantium hic alias aliquam sequi odit. Et explicabo corrupti suscipit. In ab et dolorem dicta dolorem quia est. Libero quis est dolore facilis doloremque similique reprehenderit.
+> Iusto consequatur voluptatem aliquid sit doloribus. Doloremque maxime et aut sint magni adipisci consectetur animi. Repudiandae et possimus quod perspiciatis.

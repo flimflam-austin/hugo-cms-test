@@ -201,9 +201,10 @@
 			}
 		}
 
-		& img {
+		& img,
+		iframe {
 			width: 100%;
-			padding: ($post-section-spacing/2);
+			padding: ($post-section-spacing/2) 0;
 		}
 	}
 }

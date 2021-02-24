@@ -14,6 +14,6 @@ featured_quote:
 featured_image:
     image: uploads/surface-p1R-11mrtTM-unsplash.jpg
     alt: bike
-article: Quam rerum explicabo ut itaque dicta non odio. Iusto id iste corrupti
-    eos nam nam. Qui est deleniti consequuntur sunt expedita quidem et vo
 ---
+
+Quam rerum explicabo ut itaque dicta non odio. Iusto id iste corrupti eos nam nam. Qui est deleniti consequuntur sunt expedita quidem et vo
