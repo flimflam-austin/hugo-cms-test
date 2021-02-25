@@ -1,9 +1,9 @@
 ---
-title: "grandcanyon "
+title: grand canyon on this day
 tags:
-  - natural
+  - nature
 meta:
-  date_modified: ""
+  date_modified: 2021-02-25T06:00:00.000Z
   date_published: 2021-02-25T20:41:40.403Z
   card_category: Politics
   post_author:
