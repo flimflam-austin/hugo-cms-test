@@ -1,14 +1,21 @@
 ---
+title: 02.19.18 Trump DACA - SmartHer News
+meta:
+  card_category: From The President’s Desk
+  date_published: 2018-03-20T11:00:54+00:00
+  date_modified: ""
+color_palette_classname: light-yellow
+background_image:
+  image: /uploads/brigitte-baranyi-N89Hgo_rPc0-unsplash.jpg
+  alt: cookies
 card_1:
   card_text: |-
-    Gov’t Shutdown Looms
-    ====================
+    ## Gov’t Shutdown Looms
 
-    Lingering Battle Over Immigration
-    ---------------------------------
+    ## Lingering Battle Over Immigration
 
     > “The Democrats do not want to help DACA. Would be so easy to make a deal!”
-    > 
+    >
     > President Trump, Twitter, March 19, 2018 8:38 pm est.
 card_2:
   card_text: >-
@@ -19,12 +26,9 @@ card_2:
 
     *   **D**eferred **A**ction For **C**hildhood **A**rrivals.
 
-    *   DACA status can be granted to those who came into America illegally as
-    children – essentially “defers” illegal status & allows eligibility for work
-    permits.
+    *   DACA status can be granted to those who came into America illegally as children – essentially “defers” illegal status & allows eligibility for work permits.
 
-    *   Pres. Trump: **Offered citizenship for DACA recipients** in State of the
-    Union speech as part of broader immigration reform.
+    *   Pres. Trump: **Offered citizenship for DACA recipients** in State of the Union speech as part of broader immigration reform.
 card_3:
   card_text: >-
     What’s The Drama?
@@ -32,13 +36,9 @@ card_3:
     -----------------
 
 
-    *   White House: Wants $$ for border wall (a campaign promise)A **A.S.A.P**
-    – $$ must come from Congress. Hence, back-and-forth now ahead of spending
-    bill.
+    *   White House: Wants $$ for border wall (a campaign promise)A **A.S.A.P** – $$ must come from Congress. Hence, back-and-forth now ahead of spending bill.
 
-    *   **Report:** Dems want more illegal immigrants eligible for a pathway to
-    citizenship – a non-starter for GOP who didn’t like Trump’s offer of
-    citizenship for DACA recipients to begin with.
+    *   **Report:** Dems want more illegal immigrants eligible for a pathway to citizenship – a non-starter for GOP who didn’t like Trump’s offer of citizenship for DACA recipients to begin with.
 card_4:
   card_text: >-
     Big Picture
@@ -46,12 +46,9 @@ card_4:
     -----------
 
 
-    *   Immigration Reform \***could**\* be part of broader $pending bill to
-    fund govt through September but it can also be separate. **It’s NOT a need –
-    but a want – for some.**
+    *   Immigration Reform \***could**\* be part of broader $pending bill to fund govt through September but it can also be separate. **It’s NOT a need – but a want – for some.**
 
-    *   Congress has until Friday night to pass a spending bill or the gov’t
-    shuts down – for the **3rd time this year**.
+    *   Congress has until Friday night to pass a spending bill or the gov’t shuts down – for the **3rd time this year**.
 
     *   Potentially last big legislative fight before mid-term elections in Nov.
 card_10:
@@ -62,11 +59,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/02-19-18-trump-daca/)
-color_palette_classname: light-grey
-meta:
-  card_category: From The President’s Desk
-  date_published: '2018-03-20T11:00:54+00:00'
-title: 02.19.18 Trump DACA - SmartHer News
 ---
 Sources
 =======
