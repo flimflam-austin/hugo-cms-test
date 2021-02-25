@@ -29,8 +29,6 @@ card_2:
 
 
 
-    jenna lee from SmartHER News talking about how she writes captions that are too long.
-  card_citation: Jenna lee founder of SmartHER News asks about this because she
-    really likes  to write really long captions that she should cut up into
-    smaller pieces yada yada ya.
+    jenna lee from SmartHER News talking about how she writes captions that are too long i'm curious if this quote will go up further asy ayd adyajhd aljdlfjaldjfldjflajdlfadfl]]]]] ok i see i'm so sorry i need to add spaces...he is smart. Austin is smart....Kayeli is smart...flimflam...flimflam....flimflam... What is next for this card i dont know i'm really tired  and if i say card stack again .... it will be too soon. so it does look like its getting squished a bit.
+  card_citation: ""
 ---
