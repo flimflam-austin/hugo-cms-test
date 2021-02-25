@@ -7,6 +7,13 @@ const configCards1 = Object({
 	type: "card",
 });
 
+const configCardsTest = Object({
+	src: `${__dirname}/cardscrape_1.csv`,
+	dest: `${__dirname}/testjson/`,
+	htmlField: "Field1",
+	type: "card",
+});
+
 const configCards2 = Object({
 	src: `${__dirname}/cardscrape_2.csv`,
 	dest: `${__dirname}/rawhtml_cards/`,

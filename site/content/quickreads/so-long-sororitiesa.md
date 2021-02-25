@@ -1,0 +1,70 @@
+---
+card_1:
+  card_text: "So Long Sororities?A  \n\n=======================\n\nHarvard Universitya\x19s last all-female Greek sisterhood goes co-ed."
+card_2:
+  card_text: "WHY?  \nAdministrative Pressure\n------------------------------\n\nIn 2016, Harvard said it would prevent Class of 2021 members of single-gender groups from holding student leadership roles, receiving endorsements for fellowships, & becoming varsity captains.\n\nAccordingly, Alpha Phi, Harvarda\x19s last remaining Greek sorority, has become the co-ed group, a\x1C**The Ivy**.”"
+card_3:
+  card_text: "> “It is with deep sadness that we accept Iota Taua\x19s decision to cease activities. New sanctions put in place by Harvard University placed our members in an untenable conflict a\x13 to choose between their supportive, empowering women-only space and external scholastic and leadership opportunities.”\n> \n> Renee Zainer, Alpha Phi International President and Chairman of the International Executive Board"
+card_4:
+  card_text: >-
+    What About The Guys?
+
+    ====================
+
+
+    9 male-only groups, including 3 fraternities, remain.A 4 formerly male-only
+    groups are now coed.
+
+
+    The more established history of Harvard’s male-only organizations (and their
+    powerful alumni) are believed by some to carry more weight inA resisting the
+    sanctions, according to the Harvard Crimson.
+card_5:
+  card_text: >-
+    BIGGER PICTURE
+
+    ==============
+
+
+    Participation in ‘Greek Life’ decliningA overall.
+
+    -------------------------------------------------
+
+
+    *   **Alcohol-related** and/or **hazing-related violence** mayA deter
+    membership; certain universities have simply suspended their “Greek Life”
+    programs.
+
+    *   Others say a push towardA **gender inclusivity** is the cause.
+card_10:
+  card_text: >-
+    Harvard isn't alone. Recently, Wesleyan University and Trinity College
+    mandated their fraternities & sororities be co-ed. Trinity's mandate lasted
+    3 years. Wesleyan's was also short-lived after a fraternity sued the school
+    over it and won.
+
+
+    [view sources](https://smarthernews.com/so-long-sororities/)
+color_palette_classname: dark-pink
+meta:
+  card_category: Current Events
+  date_published: '2018-08-29T11:43:43+00:00'
+title: So Long Sororities?A
+---
+Sources
+=======
+
+*   **Harvardas Last Sorority Disappears as Alpha Phi Buckles to College Pressure, Goes Co-Ed:**  
+    [https://www.thecrimson.com/article/2018/8/19/last-sorority-alpha-phi-co-ed/](https://www.thecrimson.com/article/2018/8/19/last-sorority-alpha-phi-co-ed/)
+*   **Harvard’s Sanctions, Explained (Again):**  
+    [https://www.thecrimson.com/article/2017/12/6/sanctions-explainer-v2/](https://www.thecrimson.com/article/2017/12/6/sanctions-explainer-v2/)
+*   **Alpha Phi Honors Iota Tau-Harvard Chapteras Request to Withdraw:**  
+    [https://alphaphi.org/Portals/0/docs/Resources/Alpha%20Phi%20-%20Harvard%208.17.18.pdf](https://alphaphi.org/Portals/0/docs/Resources/Alpha%20Phi%20-%20Harvard%208.17.18.pdf)
+*   **Is Greek Life WorthA Saving?**  
+    [https://www.usnews.com/news/education-news/articles/2017-12-04/is-greek-life-worth-saving](https://www.usnews.com/news/education-news/articles/2017-12-04/is-greek-life-worth-saving)
+*   **Trinity College drops controversial plan to make fraternities and sororities go co-ed:**  
+    [https://www.businessinsider.com/trinity-college-drops-controversial-co-ed-greek-life-plan-2015-9](https://www.businessinsider.com/trinity-college-drops-controversial-co-ed-greek-life-plan-2015-9)
+*   **Fraternity Wins Suit Against Wesleyan University:**  
+    [https://www.insidehighered.com/quicktakes/2017/06/16/fraternity-wins-suit-against-wesleyan-university](https://www.insidehighered.com/quicktakes/2017/06/16/fraternity-wins-suit-against-wesleyan-university)
+
+_By Jean-Marie R. Bralley, a freelance writer based in Charlottesville, VA._

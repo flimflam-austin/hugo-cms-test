@@ -5,6 +5,7 @@ const csvParser = require("csv-parser");
 const beautify = require("js-beautify").js;
 const urlize = require("urlize").urlize;
 const cardToJson = require("./jsonbuilder.js").processCardsToJSON;
+const minifyHTML = require("html-minifier").minify;
 
 const processHtml = (domHTML) => {
 	const scripts = domHTML.window.document.querySelectorAll("script");
@@ -15,13 +16,20 @@ const processHtml = (domHTML) => {
 		(link) => link.rel === "stylesheet"
 	);
 
-	const toRemove = [...scripts, ...footer, ...styles, ...navs, ...links];
+	const toRemove = [...scripts, ...footer, ...styles, ...navs];
 	toRemove.forEach((removable) => {
 		removable.parentNode.removeChild(removable);
 	});
 
 	return domHTML;
 };
+
+const minifyConfig = Object({
+	collapseWhitespace: true,
+	conservativeCollapse: true,
+});
+
+const mini = (html) => minifyHTML(html, minifyConfig);
 
 exports.csvToHtml = (inputConfig) => {
 	const filepath = inputConfig.src;
@@ -37,14 +45,15 @@ exports.csvToHtml = (inputConfig) => {
 		.pipe(csvParser())
 		.on("data", (row) => {
 			// use row data
-			const dom = new JSDOM(row[htmlFieldName]);
+			const dom = new JSDOM(mini(row[htmlFieldName]));
 			if (dom) {
 				const metas = dom.window.document.querySelectorAll("meta");
 				let publishDate;
 				if (metas) {
 					metas.forEach((meta) => {
-						const filename = dom.window.document.querySelector("title")
-							.innerHTML;
+						const filename = dom.window.document.querySelector(
+							"title"
+						).innerHTML;
 						const maybeYear = `${filename[0]}${filename[1]}`; //YYMMDD
 						const maybeYear2 = `${filename[0]}${filename[1]}${filename[2]}${filename[3]}`; //YYYYMMDD
 						const maybeYear3 = `${filename[4]}${filename[5]}`; //MMDDYY
@@ -60,16 +69,29 @@ exports.csvToHtml = (inputConfig) => {
 						if (isOld) {
 							console.log("skipping: file too old");
 						} else {
-							const fullFilename = `${destinationFolder}${urlize(
-								filename
-							)}.html`;
-							const output = processHtml(dom).serialize();
+							if (inputType === "card") {
+								const fullFilename = `${destinationFolder}${urlize(
+									filename
+								)}.md`;
+								const content = cardToJson(dom, fullFilename);
 
-							fs.writeFile(fullFilename, output, (err) => {
-								console.error(err);
-							});
+								/* const output = processHtml(dom).serialize(); */
+								/* transformAndWriteToFile(content); */
+								fs.writeFile(fullFilename, content, (err) => {
+									console.error(err);
+								});
+							} else {
+								const fullFilename = `${destinationFolder}${urlize(
+									filename
+								)}.html`;
+								const output = processHtml(dom).serialize();
 
-							console.log(`wrote file: ${filename}`);
+								fs.writeFile(fullFilename, output, (err) => {
+									console.error(err);
+								});
+
+								console.log(`wrote file: ${filename}`);
+							}
 						}
 					});
 				} else {

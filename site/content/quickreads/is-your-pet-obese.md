@@ -1,0 +1,77 @@
+---
+card_1:
+  card_text: >-
+    IS YOUR PET OBESE?
+
+    ==================
+
+
+    Whether it’s due to eating too much or exercising too little, “man’s best
+    friends” really are just like us.
+card_2:
+  card_text: |-
+    US vs. THEM
+    ===========
+
+    More than **1 in 3** U.S. adults are **overweight** (BMI 25- 29.9).
+
+    Nearly **40%** of adult Americans are **obese**A (BMI 30+).
+
+    **56% of dogs & 60% of cats are overweight or obese.**
+
+    Only **17% of owners acknowledge** that their pets are overweight.
+card_3:
+  card_text: "> “The number of pets with clinical obesity continues to increase… Wea\x19re continuing to see more pets diagnosed with obesity rather than overweight… Pets with obesity also have reduced quality of life and shorter life expectancy.a\x1D\n> \n> Dr. Ernie Ward, Association for Pet Obesity Prevention founder & veterinarian"
+card_4:
+  card_text: >-
+    WHY IT MATTERS:
+
+    ---------------
+
+
+    **Overweight pets are prone to**
+
+
+    *   back, hip & joint problems
+
+    *   kidney, heart & lung diseases
+
+    *   diabetes &A some types of cancer
+
+
+    In 2018, the U.S. pet industry was valued at **$72B** (a 50% jump in 15
+    years). Insiders say it’s due to increasing**A health care costs,** many
+    related to **overweight ailments.A**
+card_10:
+  card_text: >-
+    Found in more than 60% of U.S. households, dogs & cats are still the most
+    popular American pets, but that pecking order could soon change. Poultry
+    ownership has climbed 23% in recent years - no word yet on their weight
+    problems.
+
+
+    [view sources](https://smarthernews.com/19-02-08-fat-pets/)
+color_palette_classname: dark-brown
+meta:
+  card_category: Health
+  date_published: '2019-02-08T14:04:32+00:00'
+title: IS YOUR PET OBESE?
+---
+Sources
+=======
+
+*   **Obesity and Overweight:**  
+    [https://www.cdc.gov/nchs/fastats/obesity-overweight.htm](https://www.cdc.gov/nchs/fastats/obesity-overweight.htm)
+*   **Overweight & Obesity Statistics:**  
+    [https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity](https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity)
+*   **Dog Obesity: Why Itas Important To Manage Your Dogas Weight:**  
+    [https://www.akc.org/expert-advice/health/fat-dogs-and-dog-obesity/](https://www.akc.org/expert-advice/health/fat-dogs-and-dog-obesity/)
+*   **2017 Pet Obesity Survey Results:**  
+    [https://petobesityprevention.org/2017](https://petobesityprevention.org/2017)
+*   **Time to Put Fluffy and Fido on a Diet?:**  
+    [https://www.nytimes.com/2019/02/04/well/family/time-to-put-fluffy-and-fido-on-a-diet.html](https://www.nytimes.com/2019/02/04/well/family/time-to-put-fluffy-and-fido-on-a-diet.html)
+*   **AVMA releases latest stats on pet ownership and veterinary care :**  
+    [https://www.avma.org/News/PressRoom/Pages/AVMA-releases-latest-stats-on-pet-ownership-and-veterinary-care.aspx](https://www.avma.org/News/PressRoom/Pages/AVMA-releases-latest-stats-on-pet-ownership-and-veterinary-care.aspx)
+*   **Pet Industry Market Size & Ownership Statistics:** [https://www.americanpetproducts.org/press\_industrytrends.asp](https://www.americanpetproducts.org/press_industrytrends.asp)
+*   **The high cost of pet obesity:**  
+    [https://www.cbsnews.com/news/the-high-cost-of-pet-obesity/](https://www.cbsnews.com/news/the-high-cost-of-pet-obesity/)
