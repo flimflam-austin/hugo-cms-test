@@ -1,5 +1,5 @@
 ---
-title: NURSING HOMES
+title: WHAT IT LOOKS LIKE
 meta:
   date_modified: ""
   date_published: 2021-02-25T20:43:33.402Z
@@ -20,6 +20,19 @@ card_1:
 
     ##### heading 5
   card_citation: "quote caption / QUOTEE "
+card_2:
+  card_text: |-
+    ### "Once upon a time in a land far, far away."
+
+    * Cinderella
+  card_citation: "Walt Disney "
+card_3:
+  card_text: |-
+    * list a
+    * list b
+    * list c
+    * list d
+    * list e
 ---
 NYT: <https://www.nytimes.com/interactive/2021/02/25/us/nursing-home-covid-vaccine.html>
 
