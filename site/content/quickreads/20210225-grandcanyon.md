@@ -22,8 +22,14 @@ card_1:
 
     * curious how this will work
 card_2:
-  card_text: "> \"testing how this quote works - it looks really good and i'm just
-    curious why the caption is so far down.\""
+  card_text: >-
+    > "testing how this quote works - it looks really good and i'm just curious
+    why the caption is so far down."
+
+
+
+
+    jenna lee from SmartHER News talking about how she writes captions that are too long.
   card_citation: Jenna lee founder of SmartHER News asks about this because she
     really likes  to write really long captions that she should cut up into
     smaller pieces yada yada ya.
