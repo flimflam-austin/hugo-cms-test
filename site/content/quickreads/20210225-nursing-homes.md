@@ -23,4 +23,4 @@ card_1:
 ---
 NYT: <https://www.nytimes.com/interactive/2021/02/25/us/nursing-home-covid-vaccine.html>
 
-CDC: LINK
+CDC: https://www.cdc.gov/mmwr/volumes/70/wr/mm7002e2.htm
