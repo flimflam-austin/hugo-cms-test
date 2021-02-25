@@ -1,4 +1,13 @@
 ---
+title: 02.09.18 Stock Market Breather - SmartHer News
+meta:
+  card_category: Current Events
+  date_published: 2018-02-09T19:33:12+00:00
+  date_modified: ""
+color_palette_classname: light-green
+background_image:
+  image: /uploads/sayan-ghosh-9un2K7qxhyA-unsplash.jpg
+  alt: horse
 card_1:
   card_text: >-
     Stock Market: Bottom Line
@@ -10,8 +19,7 @@ card_1:
 
     *   Markets closed Friday’s trading session in positive territory.
 
-    *   However, all major indices (Dow, S&P, Nasdaq) close or in “correction”
-    territory (down 10% from record highs).
+    *   However, all major indices (Dow, S&P, Nasdaq) close or in “correction” territory (down 10% from record highs).
 
     *   Big question: What happens next?
 card_2:
@@ -21,13 +29,11 @@ card_2:
     ------------------------------------
 
 
-    *   CNBC host/former hedge-fund manager Jim Cramer is getting a lot of
-    attention.
+    *   CNBC host/former hedge-fund manager Jim Cramer is getting a lot of attention.
 
     *   He blames “complete morons.”
 
-    *   Remember you can “trade” market volatility in different funds, like you
-    can trade stocks.
+    *   Remember you can “trade” market volatility in different funds, like you can trade stocks.
 card_10:
   card_text: >-
     Some say stock market looks like 1996-1997 - Find that article on our source
@@ -35,11 +41,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/02-09-18-stock-market-breather/)
-color_palette_classname: light-green
-meta:
-  card_category: Current Events
-  date_published: '2018-02-09T19:33:12+00:00'
-title: 02.09.18 Stock Market Breather - SmartHer News
 ---
 Sources
 =======
