@@ -278,6 +278,7 @@ collections:
       slug: "{{year}}{{month}}{{day}}-{{slug}}"
       folder: site/content/quickreads
       create: true
+      sortable_fields: ["date_published"]
       fields:
           - label: Title
             name: title
