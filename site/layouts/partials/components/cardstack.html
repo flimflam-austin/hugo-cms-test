@@ -19,7 +19,6 @@
                             <p class="stackcard__citation">{{- .Params.card_1.card_citation -}}</p>
                         </div>
                     </div>
-                    
                 </div>
             </div>
 
@@ -400,8 +399,7 @@
         {{ end }}
     </section>
     <section class="cardstack__details">
-        {{ .Params.meta.date_published }}
-        <p class="cardstack__date">{{/*{{- dateFormat "Jan 2, 2006 3:04 PM MST" .Params.meta.date_published  -}}*/}}</p>
+        <p class="cardstack__date">{{ .Params.meta.date_published }}</p>
         {{ if eq (.Scratch.Get "showlink") true }}
             <a class="cardstack__link" href="{{- .Permalink -}}">sources</a>
         {{ end }}

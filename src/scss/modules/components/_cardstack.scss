@@ -467,3 +467,127 @@ $card-flip-duration: 0.75s;
 .stackcard__borderwrapper {
 	pointer-events: none;
 }
+
+.stackcard__category {
+	font-size: 12px;
+	@include gamma-regular;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
+
+.cardstack__details .cardstack__date {
+	@include alpha-regular;
+	font-size: 0.75rem;
+}
+
+.cardstack__link {
+	@include beta-regular;
+	@include hover-link;
+	color: $color-black;
+	text-transform: uppercase;
+	font-size: 0.875rem;
+}
+
+.stackcard__content {
+	$card-base: 16px;
+
+	@include typo-base-paragraph;
+
+	& h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	a,
+	p,
+	li {
+		padding: left;
+		margin-bottom: 0.75em;
+		line-height: 1.3;
+		color: $color-black;
+	}
+
+	& h1 {
+		font-size: $card-base * 1.875;
+		@include beta-bold;
+	}
+
+	& h2 {
+		font-size: $card-base * 1.5;
+		@include beta-bold;
+	}
+
+	& h3 {
+		font-size: $card-base * 1.375;
+		@include beta-bold;
+	}
+
+	& h4 {
+		font-size: $card-base * 1;
+		@include beta-bold;
+	}
+
+	& h5 {
+		font-size: $card-base * 0.875;
+		@include beta-bold;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+	}
+
+	& h6 {
+		font-size: $card-base * 0.75;
+		@include beta-bold;
+	}
+
+	& a {
+		color: $color-brand-olive;
+		@include hover-link;
+		text-decoration: underline;
+	}
+
+	li {
+		padding: $card-base * 0.1;
+		font-size: $card-base * 1;
+	}
+
+	& blockquote {
+		position: relative;
+		width: 100%;
+		padding: 0 ($post-section-spacing/2);
+		margin: ($post-section-spacing/2) 0;
+		font-size: $card-base * 1.125;
+		@include beta-regular;
+		font-style: italic;
+		border: none;
+
+		& p {
+			font-size: inherit;
+			width: 100%;
+			padding: 0;
+			margin: 0;
+		}
+	}
+
+	& strong {
+	}
+
+	& em {
+	}
+
+	& ul {
+		& li {
+		}
+	}
+
+	& ol {
+		& li {
+		}
+	}
+
+	& img,
+	iframe {
+		width: 100%;
+		padding: ($post-section-spacing/2) 0;
+	}
+}
