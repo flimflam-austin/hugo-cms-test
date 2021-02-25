@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main class="l-page__container">
-    {{ partial "components/ruledtitle" (dict "_sectionTitle" "all videos" "_viewAllLink" "")}}
+    {{ partial "components/ruledtitle" (dict "_sectionTitle" "all quick reads" "_viewAllLink" "")}}
     <div class="l-list-grid__content">
         {{ $cardstacks := sort (where .Site.RegularPages "Section" "quickreads").Reverse ".Params.meta.date_published" "asc" }}
         {{ range (.Paginate ( $cardstacks.Reverse) 8 ).Pages }}

@@ -334,6 +334,13 @@ $icon-dark: url("/img/sh_sunglasses_sage.png");
 	0% {
 		transform: rotateX(0deg);
 		filter: brightness(1.2);
+		opacity: 100%;
+	}
+	50% {
+		opacity: 100%;
+	}
+	51% {
+		opacity: 0%;
 	}
 	99% {
 		transform: rotateX(180deg);
@@ -570,7 +577,7 @@ $card-flip-duration: 0.75s;
 
 	& blockquote {
 		margin-bottom: $card-base;
-		font-size: $card-base * 1.375;
+		font-size: $card-base * 1.125;
 		@include beta-regular;
 		border: none;
 

@@ -44,7 +44,14 @@
 
 		&--secondary {
 			@include typo-title-lg;
+			font-size: $fs-lg;
+			@include alpha-regular;
 		}
+	}
+
+	&__citation {
+		@include typo-title-tiny-light;
+		margin-bottom: 2rem;
 	}
 
 	&__dates {
@@ -72,6 +79,22 @@
 		width: 100%;
 		margin: $post-section-spacing 0 0 0;
 	}
+}
+
+p.post-content__quote {
+	@include typo-title-xxl;
+	font-size: $fs-xxxl !important;
+	width: 100%;
+	text-align: center;
+	padding: 0 0 1rem 0;
+	margin-bottom: 0 !important;
+}
+
+p.post-content__citation {
+	@include typo-title-tiny-light;
+	font-size: $fs-md !important;
+	padding-bottom: 2rem;
+	text-align: center;
 }
 
 .page-content {
@@ -183,6 +206,10 @@
 				padding: 0;
 				margin: 0;
 			}
+		}
+
+		& a {
+			pointer-events: all;
 		}
 
 		& strong {

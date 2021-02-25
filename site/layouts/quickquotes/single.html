@@ -8,7 +8,7 @@
                 <div class="post-header__block post-header__block--text">
                     <p class="post-header__category" >quick quotes</p>
                     <h1 class="post-header__summary">&ldquo;{{- .Params.featured_quote.quote -}}&rdquo;</h1>
-                    <p>{{ .Params.featured_quote.citation }}</p>
+                    <p class="post-header__citation">{{ .Params.featured_quote.citation }}</p>
                     {{ if .Params.featured_quote.summary }}
                     <p class="post-header__summary--secondary">{{ .Params.featured_quote.summary }}</p>
                     {{ end }}
@@ -30,7 +30,8 @@
             </header>
             <section class="page-content">
                 <div class="page-content__body">
-                    <p>&ldquo;{{- .Params.featured_quote.quote -}}&rdquo;</p>
+                    <p class="post-content__quote">&ldquo;{{- .Params.featured_quote.quote -}}&rdquo;</p>
+                    <p class="post-content__citation">{{ .Params.featured_quote.citation }}</p>
                     {{ .Content }}
                 </div>
                 {{ partial "components/share" . }}
