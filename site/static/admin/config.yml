@@ -271,7 +271,7 @@ collections:
             name: personal_site
             widget: string
             required: false
-  - label: Quick Reads
+  - label: Card Stacks
     name: quickreads
     slug: "{{year}}{{month}}{{day}}-{{slug}}"
     folder: site/content/quickreads
