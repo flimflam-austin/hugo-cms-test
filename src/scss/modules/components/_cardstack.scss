@@ -501,12 +501,18 @@ $card-flip-duration: 0.75s;
 	h6,
 	a,
 	p,
-	li {
+	ul,
+	li,
+	blockquote {
 		padding: 0;
 		margin: 0;
 		line-height: 1.3;
 		text-align: center;
 		text-transform: none;
+		width: 100%;
+	}
+	& p {
+		margin-bottom: $card-base;
 	}
 
 	& h1 {
@@ -520,12 +526,14 @@ $card-flip-duration: 0.75s;
 		font-size: $card-base * 1.5;
 		@include beta-bold;
 		margin-bottom: $card-base;
+		text-transform: capitalize;
 	}
 
 	& h3 {
 		font-size: $card-base * 1.375;
 		@include gamma-regular;
 		margin-bottom: $card-base;
+		text-transform: capitalize;
 	}
 
 	& h4 {
@@ -539,12 +547,14 @@ $card-flip-duration: 0.75s;
 		font-size: $card-base * 0.875;
 		@include gamma-bold;
 		letter-spacing: 0.05em;
+		text-transform: capitalize;
 	}
 
 	& h6 {
 		font-size: $card-base * 0.75;
 		@include gamma-bold;
 		margin-bottom: 0.625 * $card-base;
+		text-transform: capitalize;
 	}
 
 	& a {
@@ -560,7 +570,7 @@ $card-flip-duration: 0.75s;
 
 	& blockquote {
 		margin-bottom: $card-base;
-		font-size: $card-base * 1.125;
+		font-size: $card-base * 1.375;
 		@include beta-regular;
 		border: none;
 
@@ -576,6 +586,11 @@ $card-flip-duration: 0.75s;
 	}
 
 	& em {
+	}
+
+	& ul,
+	ol {
+		padding-left: $card-base;
 	}
 
 	& ul {
