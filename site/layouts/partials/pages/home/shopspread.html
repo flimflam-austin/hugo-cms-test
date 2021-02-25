@@ -1,0 +1,16 @@
+{{ $shopposts := (where .Site.RegularPages "Section" "products")  }}
+{{ range first 6 $shopposts }}
+
+
+<a class="homevidprev" href="{{- .Params.storelink -}}">
+    <article class="homevidprev__wrapper">
+        <div class="aspectimg">
+            <img class="aspectimg__image" src="{{- .Params.featured_image.image -}}" alt="{{- .Params.featured_image.alt -}}">
+        </div>
+        <h2 class="homevidprev__productname">{{- .Title -}}</h2>
+        <p class="homevidprev__price">{{- .Params.price -}}</p>
+    </article>
+</a>
+
+
+{{end}}

@@ -91,6 +91,18 @@
 	&__summary {
 		@include typo-base-paragraph;
 	}
+
+	&__productname {
+		margin: 0.5rem 0;
+		text-align: center;
+		@include typo-title-md;
+	}
+
+	&__price {
+		@include typo-base-paragraph;
+		width: 100%;
+		text-align: center;
+	}
 }
 
 .qqprev {
