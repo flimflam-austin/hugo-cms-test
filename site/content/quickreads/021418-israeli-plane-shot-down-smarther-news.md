@@ -1,4 +1,13 @@
 ---
+title: 02.14.18 Israeli Plane Shot Down - SmartHer News
+meta:
+  card_category: Current Events
+  date_published: 2018-02-14T14:00:50+00:00
+  date_modified: ""
+color_palette_classname: medium-gray
+background_image:
+  image: /uploads/brock-wegner-tu4hzk0xgem-unsplash.jpg
+  alt: woman and flower
 card_1:
   card_text: >-
     Important Incident
@@ -15,8 +24,7 @@ card_1:
 
     *   Jet reportedly shot down by Pro-Assad forces inside Syria.
 
-    *   Israel bombed sites inside Syria after Iran sent drone into Israeli
-    territory; both sides engaged.
+    *   Israel bombed sites inside Syria after Iran sent drone into Israeli territory; both sides engaged.
 
     *   Two pilots survived Feb 10 crash.
 card_2:
@@ -28,13 +36,11 @@ card_2:
 
     *   Iran = State sponsor of terror since 1984 and no friend of the USA.
 
-    *   Iran supports Syria’s Pro-Assad forces – Syria is key territory &
-    strategic ally for Iran.
+    *   Iran supports Syria’s Pro-Assad forces – Syria is key territory & strategic ally for Iran.
 
     *   Investigation into crash continues.
 
-    *   If confirmed, this will be first time Israeli plane shot down by enemy
-    fire since 1982.
+    *   If confirmed, this will be first time Israeli plane shot down by enemy fire since 1982.
 card_3:
   card_text: >-
     IMPORTANT:  
@@ -44,14 +50,21 @@ card_3:
     ----------------------------------
 
 
-    *   U.S. military, working with Anti-Assad forces inside Syria, attacked by
-    Pro-Assad forces, with Russia support.
+    *   U.S. military, working with Anti-Assad forces inside Syria, attacked by Pro-Assad forces, with Russia support.
 
     *   Russia & Iran align with Pro-Assad forces in Syria.
 
     *   U.S. responded with major bombing campaign.
 card_4:
-  card_text: "> a\x1CThe risks are high. There is a new Cold War prevailing in Syria and any escalation could pave the way for a regional or international war given the fact that the big powers are directly present on the ground…a\x1D\n> \n> Samir Nadir, Levant Institue For Strategic Affairs to Washington Post (2/12/18)"
+  card_text: "> a\x1cThe risks are high. There is a new Cold War prevailing in
+    Syria and any escalation could pave the way for a regional or international
+    war given the fact that the big powers are directly present on the
+    ground…a\x1d
+
+    >\ 
+
+    > Samir Nadir, Levant Institue For Strategic Affairs to Washington Post
+    (2/12/18)"
 card_10:
   card_text: >-
     Bottom Line: Watch Syria. Conflict Continues. Tensions High. Sec of State
@@ -59,11 +72,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/02-14-18-israeli-plane-shot/)
-color_palette_classname: medium-grey
-meta:
-  card_category: Current Events
-  date_published: '2018-02-14T14:00:50+00:00'
-title: 02.14.18 Israeli Plane Shot Down - SmartHer News
 ---
 Sources
 =======
