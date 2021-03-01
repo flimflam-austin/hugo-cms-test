@@ -4,7 +4,7 @@ meta:
   date_modified: 2021-03-01T06:00:00.000Z
   date_published: 2021-03-01T19:28:49.880Z
   card_category: Current Events
-color_palette_classname: dark-purple
+color_palette_classname: dark-blue
 background_image:
   alt: ""
 card_1:
