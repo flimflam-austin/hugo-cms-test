@@ -32,4 +32,17 @@ card_2:
     * Education in Nigeria is a challenge, particularly in the north where Islamic terrorist groups have gained strength.
 
     * UNICEF cites geography, poverty, "insurgency" and property damage as reasons *"one in every five of the world’s out-of-school children is in Nigeria."*
+card_3:
+  card_text: >-
+    “I couldn’t get to there to save her because the kidnappers were shooting
+    everywhere.”
+
+
+    Samaila Umar heard the gunshots from afar. He tried to reach his 15-year-old daughter (who wants to study medicine) and his 14-year-old niece (who loves science), but he was unable to locate them by the time he reached the Government Girls Secondary School.
+card_4:
+  card_text: >-
+    “Kidnapping for ransom is now the most thriving industry in Nigeria.”
+
+
+    Terrorism analyst Bulama Bukarti. Recent kidnappings have often been blamed on "bandits" rather than terrorist groups - but Bukarti says the “line between Boko Haram and the bandits is getting more and more blurred” amid growing lawlessness in Nigeria. The country's president has warned local authorities against paying ransom, saying the policy "might boomerang disastrously," encouraging more crime.
 ---
