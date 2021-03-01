@@ -59,6 +59,9 @@ card_6:
 
 
     *"The country, which has one of Africa’s strongest armies and is a strong U.S. counterterrorism ally, is struggling to contain multiple threats: a 10-year jihadist rebellion, and swelling banditry and lawlessness that have become a conflict of overlapping militant groups."*
+
+
+    *Wall Street Journal*
 card_10:
   card_text: While the Nigerian gov't (federal & local) denies paying ransom, it's
     common belief that they do. Kidnapping school children is not unique to
