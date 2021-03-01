@@ -45,4 +45,28 @@ card_4:
 
 
     Terrorism analyst Bulama Bukarti. Recent kidnappings have often been blamed on "bandits" rather than terrorist groups - but Bukarti says the “line between Boko Haram and the bandits is getting more and more blurred” amid growing lawlessness in Nigeria. The country's president has warned local authorities against paying ransom, saying the policy "might boomerang disastrously," encouraging more crime.
+card_5:
+  card_text: >-
+    ### Context
+
+
+    * **"Bring Back Our Girls"**: In 2014, Islamic terrorist group Boko Haram kidnapped 276 school girls in Nigeria, igniting international outrage. While some girls escaped, **100+ remain missing**.
+
+    * **Not Just Girls:** 300+ boys were kidnapped in December. Dozens of boys were kidnapped days before this recent kidnapping of girls; some have already been released.
+card_6:
+  card_text: >-
+    ### WHY IT MATTERS
+
+
+    *"The country, which has one of Africa’s strongest armies and is a strong U.S. counterterrorism ally, is struggling to contain multiple threats: a 10-year jihadist rebellion, and swelling banditry and lawlessness that have become a conflict of overlapping militant groups."*
+card_10:
+  card_text: While the Nigerian gov't (federal & local) denies paying ransom, it's
+    common belief that they do. Kidnapping school children is not unique to
+    Nigeria – it's a problem seen elsewhere in Africa. We have more on this
+    story linked in our source page.
 ---
+[Hundreds of Nigerian schoolgirls taken in mass abduction](https://apnews.com/article/nigeria-hundreds-schoolgirls-mass-kidnap-800cc2a2a1400079bdac710b5b7e2c9f)
+
+Nigerian Abductions Part Of A Terrible Pattern In African Conflicts <https://www.npr.org/sections/parallels/2014/05/17/313144946/nigerian-abductions-part-of-a-terrible-pattern-in-african-conflicts>
+
+[Kidnapping and Ransom Payments in Nigeria](https://www.cfr.org/blog/kidnapping-and-ransom-payments-nigeria)
