@@ -4,9 +4,10 @@ meta:
   date_modified: 2021-03-01T06:00:00.000Z
   date_published: 2021-03-01T19:28:49.880Z
   card_category: Current Events
-color_palette_classname: dark-purple
+color_palette_classname: dark-blue
 background_image:
   alt: ""
+  image: https://images.unsplash.com/photo-1597476440472-689c37ff46b0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=3300&q=80
 card_1:
   card_text: >-
     ## KIDNAPPED
