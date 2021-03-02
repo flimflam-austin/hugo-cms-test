@@ -32,9 +32,11 @@
 		</div>
 	</div>
 </header>
-<aside class="breakingheader">
-	<div class="l-page__container">
-		<h2 class="breakingheader__headline"></h2>
-	</div>
-	<!-- breaking news dropdown -->
-</aside>
+{{ $videoposts := where .Site.RegularPages "Section" "videoposts" }}
+{{ $breakingvideoposts := where $videoposts ".Params.meta.is_breaking_dropdown" "=" true }}
+{{- range first 1 (sort $breakingvideoposts ".Params.meta.date_published") -}}
+
+	{{- partial "components/breakingdropdown" . -}}
+
+{{ end }}
+

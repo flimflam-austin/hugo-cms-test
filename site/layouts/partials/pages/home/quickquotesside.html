@@ -2,7 +2,7 @@
 {{ range (sort $quickquotes.Reverse ".Params.meta.is_breaking" "=" true).Reverse }}
 <a class="qqprev qqprev--side {{ if (eq .Params.meta.is_breaking true)}} qqprev--breaking {{end}}" href="{{- .Permalink -}}">
     <article class="qqprev__wrapper">
-        {{ if (eq .Params.meta.is_breaking true)}} <div class="qqprev__breakingmarker">breaking</div> {{end}}
+        {{ if (eq .Params.meta.is_breaking true)}} <span class="qqprev__breakingmarker">breaking</span> {{end}}
         
         <h2 class="qqprev__quote">&ldquo;{{ .Params.featured_quote.quote | truncate 120 }}&rdquo;</h2>
         {{/*  {{ .Params.meta.publishdate }}  */}}

@@ -1,5 +1,5 @@
 ---
-title: SUPER BOWL INTERVIEW 11
+title: SUPER BOWL INTERVIEW 11 here's some more sample text
 category:
     - Coffee Talk
 meta:

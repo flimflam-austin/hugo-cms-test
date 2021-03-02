@@ -287,4 +287,9 @@ $typo-spacing-alpha-bold: 0.08em;
 	color: $color-black;
 }
 
+@mixin typo-breaking-dropdown {
+	@include alpha-regular;
+	font-size: $fs-base;
+	text-transform: uppercase;
+}
 /* General */

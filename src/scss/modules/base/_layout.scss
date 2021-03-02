@@ -124,7 +124,12 @@ $l-desktop-xl-up: containerSizes(3, 1);
 }
 
 .l-body {
-	padding-top: 4rem;
+	padding-top: $sitenav-height + 2;
+
+	&--has-breaking-dropdown {
+		@extend .l-body;
+		padding-top: $sitenav-height + 3 + 2;
+	}
 }
 
 .l-list-grid__content {

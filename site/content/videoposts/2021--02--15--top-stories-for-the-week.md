@@ -4,7 +4,7 @@ category:
     - spotlight
 meta:
     is_breaking_slider: false
-    is_breaking_dropdown: true
+    is_breaking_dropdown: false
     is_featured: false
     publishdate: February 15, 2021 2:01 PM
     modifieddate: ""

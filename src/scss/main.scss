@@ -14,6 +14,8 @@
 
 @import "./modules/base/borders";
 
+@import "./modules/base/layout";
+
 @import "./modules/components/aspectimage";
 @import "./modules/components/buttons";
 @import "./modules/components/headrule";
@@ -23,8 +25,8 @@
 @import "./modules/components/share";
 @import "./modules/components/pagination";
 @import "./modules/components/footerform";
+@import "./modules/components/breakingheader";
 
-@import "./modules/layout/layout";
 @import "./modules/layout/siteheader";
 @import "./modules/layout/sitefooter";
 

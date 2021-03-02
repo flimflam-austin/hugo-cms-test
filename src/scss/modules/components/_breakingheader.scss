@@ -1,0 +1,30 @@
+.breakingheader {
+	background-color: $color-ui-alert;
+	height: 3rem;
+	position: fixed;
+	width: 100%;
+	top: $sitenav-height;
+	left: 0;
+	right: 0;
+	z-index: map-get($zindex, "header-primary-beta");
+
+	&__content {
+		@extend .l-page__container;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		justify-content: left;
+		align-items: top;
+	}
+
+	&__headline {
+		display: inline-block;
+		@include typo-breaking-dropdown;
+	}
+
+	// build to extend global breakingmarker
+	&__breakingmarker {
+		@include typo-breaking-sm;
+		display: inline-block;
+		margin-right: 1rem;
+	}
+}

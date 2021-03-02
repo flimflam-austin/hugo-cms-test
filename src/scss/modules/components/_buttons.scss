@@ -1,12 +1,18 @@
-.btn {
+@mixin button-reset {
 	background-color: transparent;
 	border: none;
 	color: $color-black;
-	text-align: center;
 	text-decoration: none;
 	display: inline-block;
 	cursor: pointer;
+	padding: 0;
+	margin: 0;
 	@include transition-fast;
+}
+
+.btn {
+	@include button-reset;
+	text-align: center;
 	border: solid 1px $color-black;
 
 	@include typo-button;
@@ -56,6 +62,16 @@
 
 	&--margin-top {
 		margin-top: $post-section-spacing;
+	}
+}
+
+.btn-close {
+	@include button-reset;
+
+	&__icon {
+		&:before {
+			content: "\00d7";
+		}
 	}
 }
 
