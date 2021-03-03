@@ -13,7 +13,7 @@ featured_quote:
   quote: '"It is now time to open Texas 100 percent."'
 featured_image:
   alt: TX star
-  image: https://pixabay.com/photos/texas-usa-united-states-america-1656861/
+  image: /uploads/texas-1656861_640.jpg
 ---
 
 
