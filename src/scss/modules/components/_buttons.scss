@@ -67,12 +67,43 @@
 
 .btn-close {
 	@include button-reset;
+	@include alpha-regular;
+	line-height: 1;
+	width: auto;
+	height: auto;
+	text-transform: uppercase;
 
-	&__icon {
-		&:before {
+	//&__icon {
+	//	display: inline-block;
+	//	position: relative;
+	//	margin-left: 0.5rem;
+
+	/* &:before {
+			height: 3rem;
 			content: "\00d7";
+			font-size: 3rem;
+		} */
+
+	/* &:before,
+		&:after {
+			position: absolute;
+			content: "";
+			width: 1px;
+			height: 110%;
+			top: 0;
+			background-color: black;
 		}
-	}
+
+		&:before {
+			left: 47%;
+			transform: rotate(45deg);
+		}
+
+		&:after {
+			right: 47%;
+			transform: rotate(-45deg);
+		} */
+	//}
 }
 
 .btn-group {

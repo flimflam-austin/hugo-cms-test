@@ -92,20 +92,7 @@
 			}
 		}
 	}
-
-	& .breakingheader {
-		display: none;
-		z-index: map-get($zindex, "header-primary");
-	}
 }
-
-/* .home__body {
-	padding-top: 4rem;
-} */
-
-/* .home__body .siteheader {
-	position: relative;
-} */
 
 .hamburger {
 	z-index: map-get($zindex, "modal");

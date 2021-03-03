@@ -3,17 +3,35 @@
 	height: 3rem;
 	position: fixed;
 	width: 100%;
-	top: $sitenav-height;
+	top: 0;
 	left: 0;
 	right: 0;
+	opacity: 0;
+	visibility: hidden;
 	z-index: map-get($zindex, "header-primary-beta");
+	@include transition-standard;
+
+	&--open {
+		top: $sitenav-height;
+		opacity: 1;
+		visibility: visible;
+	}
 
 	&__content {
+		height: 100%;
 		@extend .l-page__container;
 		flex-direction: row;
 		flex-wrap: nowrap;
-		justify-content: left;
-		align-items: top;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	&__text {
+		height: 100%;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		align-items: center;
 	}
 
 	&__headline {
@@ -25,6 +43,16 @@
 	&__breakingmarker {
 		@include typo-breaking-sm;
 		display: inline-block;
-		margin-right: 1rem;
+		margin: 0 1rem 0 0;
+	}
+
+	&__prefix {
+		@include alpha-bold;
+		text-transform: uppercase;
+	}
+
+	&__close {
+		position: relative;
+		z-index: map-get($zindex, "header-primary") + 1;
 	}
 }

@@ -1,8 +1,9 @@
-<aside class="breakingheader">
-	<a class="breakingheader__content" href="{{ .Permalink }}">
-        <span class="breakingheader__breakingmarker">breaking</span>
-		{{/*<h2 class="breakingheader__headline">{{ if gt (len .Title) 32}} {{ slicestr .Title 0 32 }} . . .{{else}}{{.Title}}{{end}}</h2>*/}}
-        <h2 class="breakingheader__headline">{{ .Title }}</h2>
-        <button id="js-close-breaking-dropdown" class="breakingheader__close btn-close" aria-label="Close"><span class="btn-close__icon" aria-hidden="true"></span></button>
-	</a>
+<aside id="js-breaking-dropdown" class="breakingheader">
+    <div class="breakingheader__content">
+        <a class="breakingheader__text" href="{{ .Permalink }}">
+            {{/*<h2 class="breakingheader__headline">{{ if gt (len .Title) 32}} {{ slicestr .Title 0 32 }} . . .{{else}}{{.Title}}{{end}}</h2>*/}}
+            <h2 class="breakingheader__headline"><span class="breakingheader__prefix">Breaking:&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="breakingheader__message">{{ .Title }}</span></h2>
+        </a>
+        <button class="js-breaking-dropdown-close breakingheader__close btn-close" aria-label="Close">Close {{/*  <span class="btn-close__icon" aria-hidden="true"></span>  */}}</button>
+    </div>
 </aside>
