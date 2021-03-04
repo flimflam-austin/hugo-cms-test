@@ -67,7 +67,7 @@ const asyncResponseToJson = async (response) => {
 };
 
 const initFuseSearch = async () => {
-	const indexPath = "/index.json";
+	const indexPath = "/search.json";
 
 	const response = await fetch(indexPath);
 	const jsonIndex = await asyncResponseToJson(response);
@@ -118,6 +118,8 @@ const initFuseSearch = async () => {
 const doSearch = () => {
 	const searchBarContainer = document.getElementById(`fastSearch`);
 
+	if (!searchBarContainer) return null;
+
 	searchBarContainer.addEventListener(
 		"mousedown",
 		async () => {
@@ -136,7 +138,7 @@ const doSearch = () => {
 
 			console.log(fuse.search("texas"));
 		},
-		{ once: true }
+		{ once: false }
 	);
 };
 
