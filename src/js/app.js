@@ -5,12 +5,14 @@ import { initCustomScrollbar } from "./modules/scrollbars";
 import { initCardFlip } from "./modules/cardflip";
 import { initNavDrawer } from "./modules/sitenav";
 import { initBreakingDropdown } from "./modules/breakingdropdown";
+import { initSearchBar } from "./search";
 
 initReloadToTop();
 initHomeSlider();
 initCardFlip();
 initNavDrawer();
 initBreakingDropdown();
+initSearchBar();
 //initCustomScrollbar();
 
 if (window.netlifyIdentity) {

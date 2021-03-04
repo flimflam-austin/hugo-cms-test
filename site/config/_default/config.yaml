@@ -19,6 +19,10 @@ taxonomies:
     category: categories
     tag: tags
 
+outputs:
+    home:
+        - json
+
 menu:
     main:
         - identifier: home
