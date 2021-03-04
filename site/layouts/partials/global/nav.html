@@ -10,25 +10,27 @@
 					alt="smarther news logo"
 			/></a>
 			<nav class="sitenav" aria-label="Primary">
-				<a class="sitenav__link" href="/">home</a
-				><a class="sitenav__link" href="/videoposts/">videos</a
-				><a class="sitenav__link" href="/quickquotes/">Quick Quotes</a
-				><a class="sitenav__link" href="/quickreads/">quick reads</a
-				><a
+				<a class="sitenav__link" href="/">home</a>
+				<a class="sitenav__link" href="/videoposts/">videos</a>
+				<a class="sitenav__link" href="/quickquotes/">Quick Quotes</a>
+				<a class="sitenav__link" href="/quickreads/">quick reads</a>
+				<a
 					class="sitenav__link"
 					href="https://smarthernews.libsyn.com/"
 					target="_blank"
-					>podcast</a
-				><a class="sitenav__link" href="about.html">About</a
-				><a
+					>podcast</a>
+				<a class="sitenav__link" href="about.html">About</a>
+				<a
 					class="sitenav__link"
 					href="https://smarthernews.com/shop/"
 					target="_blank"
-					>shop</a
-				>
+					>shop</a>
 				<!-- needs search bar here -->
+				<button id="js-searchbutton" class="sitenav__link">search</button>
+				{{ partial "components/searchbar" . }}
 			</nav>
 			{{ partial "global/hamburger" . }}
+			
 		</div>
 	</div>
 </header>
