@@ -1,3 +1,4 @@
 ---
 title: spotlight
+section: videocategories
 ---

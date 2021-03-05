@@ -1,5 +1,6 @@
 ---
 title: Biden and Executive Order
+section: quickquotes
 meta:
     date_published: January 17, 2021 5:23 PM
     date_modified: ""

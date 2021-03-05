@@ -127,6 +127,8 @@ exports.processCardsToJSON = (dom, filename) => {
 		const pageTitle = dom.window.document.querySelector("title").innerHTML;
 		cardTemplate.title = pageTitle;
 
+		cardTemplate.section = "quickreads";
+
 		const preparedJson = cardTemplate;
 
 		const sources = dom.window.document.querySelector(".sources")

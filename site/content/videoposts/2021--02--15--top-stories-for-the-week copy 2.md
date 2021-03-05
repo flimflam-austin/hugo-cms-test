@@ -1,5 +1,6 @@
 ---
 title: Top Stories For The Week 2:32pm
+section: videoposts
 category:
     - spotlight
 meta:

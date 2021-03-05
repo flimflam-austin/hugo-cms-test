@@ -1,5 +1,6 @@
 ---
 title: "The Second Impeachment: Pres. Trump"
+section: videoposts
 category:
     - spotlight
 meta:

@@ -1,5 +1,6 @@
 ---
 title: SUPER BOWL INTERVIEW 11 here's a sample
+section: videoposts
 category:
     - Coffee Talk
 meta:

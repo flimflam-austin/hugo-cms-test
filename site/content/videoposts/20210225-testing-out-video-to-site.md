@@ -1,5 +1,6 @@
 ---
 title: "TEsting out video to site "
+section: videoposts
 video_category: spotlight
 meta:
     is_breaking_slider: false

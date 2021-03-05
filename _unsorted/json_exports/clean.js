@@ -38,7 +38,7 @@ exports.csvToHtml = (inputConfig) => {
 	const inputType = inputConfig.type;
 
 	fs.createReadStream(filepath)
-		.on("error", () => {
+		.on("error", (error) => {
 			// handle error
 			console.error(error);
 		})

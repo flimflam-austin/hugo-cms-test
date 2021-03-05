@@ -1,5 +1,6 @@
 ---
 title: Who Said What & When
+section: videoposts
 category:
     - spotlight
 meta:

@@ -5,7 +5,7 @@ import { initCustomScrollbar } from "./modules/scrollbars";
 import { initCardFlip } from "./modules/cardflip";
 import { initNavDrawer } from "./modules/sitenav";
 import { initBreakingDropdown } from "./modules/breakingdropdown";
-import { initSearchBar } from "./search";
+import { initSearchBar } from "./modules/search/search.js";
 
 initReloadToTop();
 initHomeSlider();
