@@ -1,4 +1,10 @@
 ---
+title: Border Emergency?
+section: quickreads
+meta:
+  date_published: '2019-01-08T13:19:13+00:00'
+  card_category: From The President’s Desk
+color_palette_classname: light-gray
 card_1:
   card_text: >-
     Border Emergency?
@@ -52,12 +58,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/19-01-08-border-national-emergency/)
-color_palette_classname: light-grey
-meta:
-  card_category: From The President’s Desk
-  date_published: '2019-01-08T13:19:13+00:00'
-title: Border Emergency?
-section: quickreads
 ---
 Sources
 =======

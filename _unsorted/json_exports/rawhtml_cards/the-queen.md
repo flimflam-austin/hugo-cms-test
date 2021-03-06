@@ -1,4 +1,10 @@
 ---
+title: The Queen
+section: quickreads
+meta:
+  date_published: '2018-08-16T14:36:28+00:00'
+  card_category: Uncategorized
+color_palette_classname: dark-purple
 card_1:
   card_text: |-
     THE QUEEN OF SOUL
@@ -50,12 +56,6 @@ card_10:
     Aretha Franklin passed away Aug. 16, 2018 at the age of 76.
 
     [view sources](https://smarthernews.com/18-08-16-the-queen/)
-color_palette_classname: dark-purple
-meta:
-  card_category: Uncategorized
-  date_published: '2018-08-16T14:36:28+00:00'
-title: The Queen
-section: quickreads
 ---
 Sources
 =======

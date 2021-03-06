@@ -1,4 +1,10 @@
 ---
+title: Kavanaugh haunted by allegation from high school
+section: quickreads
+meta:
+  date_published: '2018-09-18T11:52:58+00:00'
+  card_category: Current Events
+color_palette_classname: medium-gray
 card_1:
   card_text: >-
     High Court: High Stakes
@@ -81,12 +87,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/18-09-18-kavanaugh-haunted-by-allegation-from-high-school/)
-color_palette_classname: medium-grey
-meta:
-  card_category: Current Events
-  date_published: '2018-09-18T11:52:58+00:00'
-title: Kavanaugh haunted by allegation from high school
-section: quickreads
 ---
 Sources
 =======

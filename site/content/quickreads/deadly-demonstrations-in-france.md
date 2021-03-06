@@ -1,4 +1,13 @@
 ---
+title: Deadly Demonstrations in France
+section: quickreads
+meta:
+  date_published: '2018-12-06T02:53:47+00:00'
+  card_category: Current Events
+color_palette_classname: light-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/12/pierre-herman-740713-unsplash-min-scaled.jpg)
 card_1:
   card_text: |-
     TURMOIL IN FRANCE  
@@ -53,12 +62,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/french-protests/)
-color_palette_classname: light-blue
-meta:
-  card_category: Current Events
-  date_published: '2018-12-06T02:53:47+00:00'
-title: Deadly Demonstrations in France
-section: quickreads
 ---
 Sources
 =======

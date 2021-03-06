@@ -1,4 +1,13 @@
 ---
+title: 'Entertainment History: What is an EGOT?'
+section: quickreads
+meta:
+  date_published: '2018-09-10T12:00:19+00:00'
+  card_category: Entertainment
+color_palette_classname: dark-pink
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/02/kilyan-sockalingum-478724-unsplash-360x360.jpg)
 card_1:
   card_text: >-
     EXCLUSIVE “EGOT”
@@ -68,12 +77,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/egot/)
-color_palette_classname: dark-pink
-meta:
-  card_category: Entertainment
-  date_published: '2018-09-10T12:00:19+00:00'
-title: 'Entertainment History: What is an EGOT?'
-section: quickreads
 ---
 Sources
 =======

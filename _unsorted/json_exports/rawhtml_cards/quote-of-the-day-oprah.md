@@ -1,4 +1,10 @@
 ---
+title: 'Quote of the Day: Oprah'
+section: quickreads
+meta:
+  date_published: '2018-12-03T12:56:37+00:00'
+  card_category: Quote of the Day
+color_palette_classname: white
 card_1:
   card_text: >-
     > “_I say there’s no such thing as failure. Failure is just a mistake trying
@@ -12,12 +18,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-12-3-qtd-oprah/)
-color_palette_classname: white
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-12-03T12:56:37+00:00'
-title: 'Quote of the Day: Oprah'
-section: quickreads
 ---
 Sources
 =======

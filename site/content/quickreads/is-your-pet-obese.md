@@ -1,4 +1,12 @@
 ---
+title: IS YOUR PET OBESE?
+section: quickreads
+meta:
+  date_published: '2019-02-08T14:04:32+00:00'
+  card_category: Health
+color_palette_classname: dark-brown
+background_image:
+  image: url(https://smarthernews.com/wp-content/uploads/2019/02/admin-ajax-min.jpg)
 card_1:
   card_text: >-
     IS YOUR PET OBESE?
@@ -51,12 +59,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/19-02-08-fat-pets/)
-color_palette_classname: dark-brown
-meta:
-  card_category: Health
-  date_published: '2019-02-08T14:04:32+00:00'
-title: IS YOUR PET OBESE?
-section: quickreads
 ---
 Sources
 =======

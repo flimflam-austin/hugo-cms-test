@@ -1,4 +1,13 @@
 ---
+title: Do We Really Need ICE?
+section: quickreads
+meta:
+  date_published: '2018-07-02T10:45:19+00:00'
+  card_category: Current Events
+color_palette_classname: light-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/07/Protest_Against_ICE_01.jpg)
 card_1:
   card_text: >-
     Immigration Backlash
@@ -87,12 +96,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/do-we-really-need-ice/)
-color_palette_classname: light-blue
-meta:
-  card_category: Current Events
-  date_published: '2018-07-02T10:45:19+00:00'
-title: Do We Really Need ICE?
-section: quickreads
 ---
 Sources
 =======

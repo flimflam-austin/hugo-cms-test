@@ -1,4 +1,10 @@
 ---
+title: 02.14.18 Israeli Plane Shot Down - SmartHer News
+section: quickreads
+meta:
+  date_published: '2018-02-14T14:00:50+00:00'
+  card_category: Current Events
+color_palette_classname: medium-gray
 card_1:
   card_text: >-
     Important Incident
@@ -59,12 +65,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/02-14-18-israeli-plane-shot/)
-color_palette_classname: medium-grey
-meta:
-  card_category: Current Events
-  date_published: '2018-02-14T14:00:50+00:00'
-title: 02.14.18 Israeli Plane Shot Down - SmartHer News
-section: quickreads
 ---
 Sources
 =======

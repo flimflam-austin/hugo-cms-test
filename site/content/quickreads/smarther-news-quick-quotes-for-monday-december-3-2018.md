@@ -1,4 +1,13 @@
 ---
+title: SmartHER News Quick Quotes for Monday, December 3, 2018
+section: quickreads
+meta:
+  date_published: '2018-12-03T12:49:57+00:00'
+  card_category: Quotes
+color_palette_classname: light-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/03/money-2180330_1920.jpg)
 card_1:
   card_text: >-
     > “This is probably the best case scenario that markets were hoping for…”
@@ -42,12 +51,6 @@ card_10:
     Have a great week!
 
     [view sources](https://smarthernews.com/qq-2/)
-color_palette_classname: light-blue
-meta:
-  card_category: Quotes
-  date_published: '2018-12-03T12:49:57+00:00'
-title: SmartHER News Quick Quotes for Monday, December 3, 2018
-section: quickreads
 ---
 Sources
 =======

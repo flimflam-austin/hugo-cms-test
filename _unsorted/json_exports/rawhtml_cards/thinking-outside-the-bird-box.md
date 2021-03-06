@@ -1,4 +1,10 @@
 ---
+title: Thinking Outside the "Bird Box"
+section: quickreads
+meta:
+  date_published: '2019-01-08T13:19:19+00:00'
+  card_category: Entertainment
+color_palette_classname: dark-purple
 card_1:
   card_text: >-
     LOOK OUT, HOLLYWOOD.  
@@ -58,12 +64,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/netflix/)
-color_palette_classname: dark-purple
-meta:
-  card_category: Entertainment
-  date_published: '2019-01-08T13:19:19+00:00'
-title: Thinking Outside the "Bird Box"
-section: quickreads
 ---
 Sources
 =======

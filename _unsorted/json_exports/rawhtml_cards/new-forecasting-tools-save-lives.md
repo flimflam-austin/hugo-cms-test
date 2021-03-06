@@ -1,4 +1,10 @@
 ---
+title: New forecasting tools save lives
+section: quickreads
+meta:
+  date_published: '2018-09-14T12:18:11+00:00'
+  card_category: Now You Know
+color_palette_classname: light-gray
 card_1:
   card_text: |-
     Predicting Hurricanes
@@ -61,12 +67,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/18-09-14-how-good-is-hurricane-technology/)
-color_palette_classname: light-grey
-meta:
-  card_category: Now You Know
-  date_published: '2018-09-14T12:18:11+00:00'
-title: New forecasting tools save lives
-section: quickreads
 ---
 Sources
 =======

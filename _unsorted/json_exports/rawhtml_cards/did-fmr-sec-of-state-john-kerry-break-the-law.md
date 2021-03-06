@@ -1,4 +1,10 @@
 ---
+title: Did Fmr. Sec of State John Kerry break the law?
+section: quickreads
+meta:
+  date_published: '2018-09-17T01:17:40+00:00'
+  card_category: Current Events
+color_palette_classname: dark-green
 card_1:
   card_text: >-
     “A Dangerous New Phase”
@@ -73,12 +79,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/18-09-17-did-sec-kerry-break-the-law/)
-color_palette_classname: dark-green
-meta:
-  card_category: Current Events
-  date_published: '2018-09-17T01:17:40+00:00'
-title: Did Fmr. Sec of State John Kerry break the law?
-section: quickreads
 ---
 Sources
 =======

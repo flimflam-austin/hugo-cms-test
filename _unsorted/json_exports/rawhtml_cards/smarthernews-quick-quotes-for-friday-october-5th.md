@@ -1,4 +1,10 @@
 ---
+title: SmartHERNews Quick Quotes for Friday, October 5th
+section: quickreads
+meta:
+  date_published: '2018-10-05T11:42:21+00:00'
+  card_category: Quotes
+color_palette_classname: light-pink
 card_1:
   card_text: >-
     > “When you move at this pace in a short amount of time, it’s natural for
@@ -33,12 +39,6 @@ card_10:
     Cheers to the weekend!
 
     [view sources](https://smarthernews.com/quick-quotes-11/)
-color_palette_classname: light-pink
-meta:
-  card_category: Quotes
-  date_published: '2018-10-05T11:42:21+00:00'
-title: SmartHERNews Quick Quotes for Friday, October 5th
-section: quickreads
 ---
 Sources
 =======

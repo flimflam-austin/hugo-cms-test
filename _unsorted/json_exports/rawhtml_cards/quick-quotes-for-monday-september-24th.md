@@ -1,4 +1,10 @@
 ---
+title: Quick Quotes for Monday, September 24th
+section: quickreads
+meta:
+  date_published: '2018-09-24T12:00:28+00:00'
+  card_category: Quotes
+color_palette_classname: dark-blue
 card_1:
   card_text: "> a\x1CTheya\x19ve changed the science… I dona\x19t think any two people come close to the impact they have had.a\x1D\n> \n> David Boies, a high-profile attorney who suffers from dyslexia, reflecting on Sally and Bennett Shaywitz who lead Yale Center for Dyslexia and Creativity. Married and in their 70s, the Shaywitz have researched dyslexia, the most common learning disorder, for 35 years and discovered it impacts an est. 1 in 5 people."
 card_2:
@@ -49,12 +55,6 @@ card_10:
     Have a great week!
 
     [view sources](https://smarthernews.com/quick-quotes-8/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Quotes
-  date_published: '2018-09-24T12:00:28+00:00'
-title: Quick Quotes for Monday, September 24th
-section: quickreads
 ---
 Sources
 =======

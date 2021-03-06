@@ -1,4 +1,10 @@
 ---
+title: World's Top Oil Producer
+section: quickreads
+meta:
+  date_published: '2018-09-14T12:17:50+00:00'
+  card_category: Current Events
+color_palette_classname: dark-pink
 card_1:
   card_text: >-
     PETROL PRIDE
@@ -56,12 +62,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/oil/)
-color_palette_classname: dark-pink
-meta:
-  card_category: Current Events
-  date_published: '2018-09-14T12:17:50+00:00'
-title: World's Top Oil Producer
-section: quickreads
 ---
 Sources
 =======

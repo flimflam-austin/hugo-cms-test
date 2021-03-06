@@ -1,4 +1,13 @@
 ---
+title: America On The Attack In Africa
+section: quickreads
+meta:
+  date_published: '2018-08-31T11:50:07+00:00'
+  card_category: Current Events
+color_palette_classname: light-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/08/andrew-neel-133200-unsplash-min-scaled.jpg)
 card_1:
   card_text: |-
     America On The Attack
@@ -61,12 +70,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/18-08-31-america-fighting-al-qaeda-in-africa/)
-color_palette_classname: light-blue
-meta:
-  card_category: Current Events
-  date_published: '2018-08-31T11:50:07+00:00'
-title: America On The Attack In Africa
-section: quickreads
 ---
 Sources
 =======

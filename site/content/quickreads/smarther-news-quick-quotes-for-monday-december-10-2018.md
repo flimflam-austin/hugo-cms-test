@@ -1,4 +1,13 @@
 ---
+title: SmartHER News Quick Quotes for Monday, December 10, 2018
+section: quickreads
+meta:
+  date_published: '2018-12-10T12:38:26+00:00'
+  card_category: Quotes
+color_palette_classname: medium-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/11/andrii-ganzevych-1054826-unsplash-min-scaled.jpg)
 card_1:
   card_text: >-
     > “A winter storm’s not a Christmas carol snow. It’s serious.”
@@ -50,12 +59,6 @@ card_10:
     Have a good week!
 
     [view sources](https://smarthernews.com/18-12-10-qq/)
-color_palette_classname: medium-grey
-meta:
-  card_category: Quotes
-  date_published: '2018-12-10T12:38:26+00:00'
-title: SmartHER News Quick Quotes for Monday, December 10, 2018
-section: quickreads
 ---
 Sources
 =======

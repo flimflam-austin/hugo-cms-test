@@ -1,4 +1,13 @@
 ---
+title: Collision Course
+section: quickreads
+meta:
+  date_published: '2018-08-23T11:12:52+00:00'
+  card_category: Current Events
+color_palette_classname: light-yellow
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/03/nick-scheerbart-15637-unsplash-scaled.jpg)
 card_1:
   card_text: >-
     COLLISION COURSE
@@ -52,12 +61,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-08-23-hawaiian-hurricane/)
-color_palette_classname: light-yellow
-meta:
-  card_category: Current Events
-  date_published: '2018-08-23T11:12:52+00:00'
-title: Collision Course
-section: quickreads
 ---
 Sources
 =======

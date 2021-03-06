@@ -1,4 +1,10 @@
 ---
+title: 'Quote of the Day: John Lennon'
+section: quickreads
+meta:
+  date_published: '2018-12-08T13:56:17+00:00'
+  card_category: Quote of the Day
+color_palette_classname: dark-brown
 card_1:
   card_text: >-
     > “_If someone thinks that love and peace is a cliche that must have been
@@ -13,12 +19,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-12-08-qtd-john-lennon/)
-color_palette_classname: dark-brown
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-12-08T13:56:17+00:00'
-title: 'Quote of the Day: John Lennon'
-section: quickreads
 ---
 Sources
 =======

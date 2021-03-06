@@ -1,4 +1,10 @@
 ---
+title: Dangerous Decibels
+section: quickreads
+meta:
+  date_published: '2018-10-04T11:33:44+00:00'
+  card_category: Health
+color_palette_classname: light-gray
 card_1:
   card_text: >-
     Dangerous Decibels
@@ -67,12 +73,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/hearing-loss/)
-color_palette_classname: light-grey
-meta:
-  card_category: Health
-  date_published: '2018-10-04T11:33:44+00:00'
-title: Dangerous Decibels
-section: quickreads
 ---
 Sources
 =======

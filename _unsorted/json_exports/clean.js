@@ -40,7 +40,9 @@ exports.csvToHtml = (inputConfig) => {
 	fs.createReadStream(filepath)
 		.on("error", (error) => {
 			// handle error
+			console.group("readstream error:");
 			console.error(error);
+			console.groupEnd();
 		})
 		.pipe(csvParser())
 		.on("data", (row) => {
@@ -67,7 +69,9 @@ exports.csvToHtml = (inputConfig) => {
 								: false;
 
 						if (isOld) {
-							console.log("skipping: file too old");
+							console.group("skipping: file too old");
+							console.log(`${filename}`);
+							console.groupEnd();
 						} else {
 							if (inputType === "card") {
 								const fullFilename = `${destinationFolder}${urlize(
@@ -78,7 +82,11 @@ exports.csvToHtml = (inputConfig) => {
 								/* const output = processHtml(dom).serialize(); */
 								/* transformAndWriteToFile(content); */
 								fs.writeFile(fullFilename, content, (err) => {
-									console.error(err);
+									console.group(
+										`Error writing file with input type card:`
+									);
+									console.log(err);
+									console.groupEnd();
 								});
 							} else {
 								const fullFilename = `${destinationFolder}${urlize(
@@ -87,7 +95,12 @@ exports.csvToHtml = (inputConfig) => {
 								const output = processHtml(dom).serialize();
 
 								fs.writeFile(fullFilename, output, (err) => {
-									console.error(err);
+									console.group(
+										`Error writing file with input type --not-- card:`
+									);
+									console.log(filename);
+									console.log(err);
+									console.groupEnd();
 								});
 
 								console.log(`wrote file: ${filename}`);

@@ -1,4 +1,10 @@
 ---
+title: SmartHER News Quick Quotes for Tuesday, October 2
+section: quickreads
+meta:
+  date_published: '2018-10-02T11:36:59+00:00'
+  card_category: Quotes
+color_palette_classname: light-blue
 card_1:
   card_text: "> “I truly want to dedicate this to the men … who served with me out there. Without them, this medal wouldna\x19t have been possible, ita\x19s truly a team effort.”\n> \n> Medal of Honor recipient Ronald J. Shurer, an Army medic serving in Afghanistan in 2008 who ran into fire to treat teammates & take the fight to the enemy; no one died. Shurer now serves in the secret service & suffers from lung cancer; he has 2 young children."
 card_2:
@@ -34,12 +40,6 @@ card_10:
     Have a great day!
 
     [view sources](https://smarthernews.com/18-10-02-qq/)
-color_palette_classname: light-blue
-meta:
-  card_category: Quotes
-  date_published: '2018-10-02T11:36:59+00:00'
-title: SmartHER News Quick Quotes for Tuesday, October 2
-section: quickreads
 ---
 Sources
 =======

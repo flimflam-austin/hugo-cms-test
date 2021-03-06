@@ -1,4 +1,10 @@
 ---
+title: 'Trend To Watch: Hemlines In The Headlines'
+section: quickreads
+meta:
+  date_published: '2018-10-03T11:37:15+00:00'
+  card_category: Current Events
+color_palette_classname: light-pink
 card_1:
   card_text: >-
     Trend To Watch:
@@ -60,12 +66,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-10-03-dress-codes/)
-color_palette_classname: light-pink
-meta:
-  card_category: Current Events
-  date_published: '2018-10-03T11:37:15+00:00'
-title: 'Trend To Watch: Hemlines In The Headlines'
-section: quickreads
 ---
 Sources
 =======

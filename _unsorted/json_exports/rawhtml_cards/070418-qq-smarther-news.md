@@ -1,4 +1,10 @@
 ---
+title: 07.04.18 QQ - SmartHer News
+section: quickreads
+meta:
+  date_published: '2018-07-05T02:30:37+00:00'
+  card_category: Quotes
+color_palette_classname: dark-purple
 card_1:
   card_text: >-
     > “I found a vicious rhythm.”
@@ -30,12 +36,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/07-04-18-qq/)
-color_palette_classname: dark-purple
-meta:
-  card_category: Quotes
-  date_published: '2018-07-05T02:30:37+00:00'
-title: 07.04.18 QQ - SmartHer News
-section: quickreads
 ---
 Sources
 =======

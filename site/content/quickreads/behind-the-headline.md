@@ -1,4 +1,13 @@
 ---
+title: Behind The Headline
+section: quickreads
+meta:
+  date_published: '2018-09-13T11:59:09+00:00'
+  card_category: Money
+color_palette_classname: dark-green
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/02/sharon-mccutcheon-556371-360x360.jpg)
 card_1:
   card_text: |-
     BEHIND THE HEADLINE
@@ -59,12 +68,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-12-behind-the-headline/)
-color_palette_classname: dark-green
-meta:
-  card_category: Money
-  date_published: '2018-09-13T11:59:09+00:00'
-title: Behind The Headline
-section: quickreads
 ---
 Sources
 =======

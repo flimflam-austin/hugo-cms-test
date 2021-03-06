@@ -1,4 +1,10 @@
 ---
+title: SmartHER News Quick Quotes for Tuesday, September 11
+section: quickreads
+meta:
+  date_published: '2018-09-11T12:00:09+00:00'
+  card_category: Quotes
+color_palette_classname: dark-purple
 card_1:
   card_text: "> a\x1CThey didna\x19t win. The entirety of the World Trade Center is more beautiful than it used to be.a\x1D\n> \n> Steven Kent, one of the first New Yorkers to use the newly reopened Cortlandt subway station where the World Trade Centers once stood; this subway stop, entombed until 2015, just opened 17 years after 9/11. A mosaic in the station displays text from the Declaration of Independence & the UN Universal Declaration of Human Rights."
 card_2:
@@ -27,12 +33,6 @@ card_4:
     screen, according to the latest data.
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-09-11-qq/)'
-color_palette_classname: dark-purple
-meta:
-  card_category: Quotes
-  date_published: '2018-09-11T12:00:09+00:00'
-title: SmartHER News Quick Quotes for Tuesday, September 11
-section: quickreads
 ---
 Sources
 =======

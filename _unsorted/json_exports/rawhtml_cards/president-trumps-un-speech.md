@@ -1,4 +1,10 @@
 ---
+title: President Trump's UN Speech
+section: quickreads
+meta:
+  date_published: '2018-09-26T11:45:27+00:00'
+  card_category: From The President’s Desk
+color_palette_classname: dark-gray
 card_1:
   card_text: >-
     Small Words: Big Meaning  
@@ -69,12 +75,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-25-president-trump-un-speech/)
-color_palette_classname: dark-grey
-meta:
-  card_category: From The President’s Desk
-  date_published: '2018-09-26T11:45:27+00:00'
-title: President Trump's UN Speech
-section: quickreads
 ---
 Sources
 =======

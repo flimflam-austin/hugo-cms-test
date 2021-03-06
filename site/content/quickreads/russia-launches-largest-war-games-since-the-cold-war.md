@@ -1,4 +1,13 @@
 ---
+title: Russia Launches Largest War Games Since The Cold War
+section: quickreads
+meta:
+  date_published: '2018-09-11T11:57:47+00:00'
+  card_category: Current Events
+color_palette_classname: dark-green
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/03/tom-grimbert-561706-unsplash-scaled.jpg)
 card_1:
   card_text: >-
     WAR GAMES
@@ -60,12 +69,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-11-russian-war-games/)
-color_palette_classname: dark-green
-meta:
-  card_category: Current Events
-  date_published: '2018-09-11T11:57:47+00:00'
-title: Russia Launches Largest War Games Since The Cold War
-section: quickreads
 ---
 Sources
 =======

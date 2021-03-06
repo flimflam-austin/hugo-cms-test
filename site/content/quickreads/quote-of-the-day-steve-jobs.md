@@ -1,4 +1,13 @@
 ---
+title: 'Quote of the Day: Steve Jobs'
+section: quickreads
+meta:
+  date_published: '2019-01-09T13:11:07+00:00'
+  card_category: Quote of the Day
+color_palette_classname: bronze
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/03/rami-al-zayat-170349-unsplash-scaled.jpg)
 card_1:
   card_text: "> “_Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you havena\x19t found it yet, keep looking. Dona\x19t settle. As with all matters of the heart, youa\x19ll know when you find it_.”"
 card_10:
@@ -11,12 +20,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/19-01-09-qtd-steve-jobs/)
-color_palette_classname: bronze
-meta:
-  card_category: Quote of the Day
-  date_published: '2019-01-09T13:11:07+00:00'
-title: 'Quote of the Day: Steve Jobs'
-section: quickreads
 ---
 Sources
 =======

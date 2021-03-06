@@ -1,4 +1,10 @@
 ---
+title: ON THIS DAY IN 1885
+section: quickreads
+meta:
+  date_published: '2020-06-19T10:47:50+00:00'
+  card_category: On This Day
+color_palette_classname: light-pink
 card_1:
   card_text: >-
     Lady Liberty Arrives
@@ -53,12 +59,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/18-06-18-otd-lady-liberty-arrives-in-nyc/)
-color_palette_classname: light-pink
-meta:
-  card_category: On This Day
-  date_published: '2020-06-19T10:47:50+00:00'
-title: ON THIS DAY IN 1885
-section: quickreads
 ---
 Sources
 =======

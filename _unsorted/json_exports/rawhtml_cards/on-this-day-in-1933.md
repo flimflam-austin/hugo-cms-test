@@ -1,4 +1,10 @@
 ---
+title: On This Day In 1933
+section: quickreads
+meta:
+  date_published: '2020-03-04T17:00:09+00:00'
+  card_category: On This Day
+color_palette_classname: light-gray
 card_1:
   card_text: >-
     March 4, 1933  
@@ -62,12 +68,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/otd-frances-perkins/)
-color_palette_classname: light-grey
-meta:
-  card_category: On This Day
-  date_published: '2020-03-04T17:00:09+00:00'
-title: On This Day In 1933
-section: quickreads
 ---
 Sources
 =======

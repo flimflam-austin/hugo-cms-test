@@ -1,4 +1,10 @@
 ---
+title: SmartHER News Quick Quotes for Wednesday, November 28, 2018
+section: quickreads
+meta:
+  date_published: '2018-11-28T13:20:04+00:00'
+  card_category: Quotes
+color_palette_classname: light-yellow
 card_1:
   card_text: "> a\x1CDespite the headwinds facing the housing market going into 2019, we expect U.S. house prices to generally achieve a soft landing.a\x1D\n> \n> Goldman Sachs on why, even in the face of \"higher mortgage rates, unfavorable recent tax policy changes,\" it sees a slowdown - not a crisis in the housing market next year. Less home construction will limit inventory to avoid a collapse, but it warns the boom days following the Great Recession are over."
 card_2:
@@ -31,12 +37,6 @@ card_5:
   card_text: "> a\x1CSir, I cana\x19t thank you enough. What youa\x19ve done for me is virtually unheard of. Never in my life have I or my family witnessed such generosity.”\n> \n> Hunter Shamatt (20) after a fellow traveler returned his lost wallet after finding it on a flight. The package, sent to his home in South Dakota, contained a note, the wallet - \\*plus\\* an extra $40 in cash for an even $100, encouraging him to \"celebrate getting your wallet back.\""
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-11-28-qq/)'
-color_palette_classname: light-yellow
-meta:
-  card_category: Quotes
-  date_published: '2018-11-28T13:20:04+00:00'
-title: SmartHER News Quick Quotes for Wednesday, November 28, 2018
-section: quickreads
 ---
 Sources
 =======

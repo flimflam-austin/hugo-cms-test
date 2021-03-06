@@ -1,4 +1,13 @@
 ---
+title: SmartHER News Quick Quotes for Wednesday, September 19th
+section: quickreads
+meta:
+  date_published: '2018-09-19T12:00:20+00:00'
+  card_category: Quotes
+color_palette_classname: dark-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/07/matt-artz-452702-unsplash-scaled.jpg)
 card_1:
   card_text: >-
     > “The era of no war has started…. Today the North and South decided to
@@ -36,12 +45,6 @@ card_5:
     when he wrote for Bert & Ernie he always saw them as a "loving couple."
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-09-19-qq/)'
-color_palette_classname: dark-blue
-meta:
-  card_category: Quotes
-  date_published: '2018-09-19T12:00:20+00:00'
-title: SmartHER News Quick Quotes for Wednesday, September 19th
-section: quickreads
 ---
 Sources
 =======

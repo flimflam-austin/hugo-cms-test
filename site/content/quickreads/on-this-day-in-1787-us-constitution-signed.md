@@ -1,4 +1,13 @@
 ---
+title: 'On This Day in 1787: U.S. Constitution Signed'
+section: quickreads
+meta:
+  date_published: '2018-09-17T11:53:56+00:00'
+  card_category: On This Day
+color_palette_classname: dark-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/03/brandon-mowinkel-211936-unsplash-scaled.jpg)
 card_1:
   card_text: >-
     September 17, 1787:  
@@ -48,12 +57,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-17-constitution-day/)
-color_palette_classname: dark-grey
-meta:
-  card_category: On This Day
-  date_published: '2018-09-17T11:53:56+00:00'
-title: 'On This Day in 1787: U.S. Constitution Signed'
-section: quickreads
 ---
 Sources
 =======

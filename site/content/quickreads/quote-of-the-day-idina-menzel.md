@@ -1,14 +1,17 @@
 ---
+title: 'Quote of the Day: Idina Menzel'
+section: quickreads
+meta:
+  date_published: '2018-11-27T12:22:16+00:00'
+  card_category: Quote of the Day
+color_palette_classname: light-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/11/andrii-ganzevych-1054826-unsplash-min-scaled.jpg)
 card_1:
   card_text: "> _“When you sit back and you just do what you love, things happen.a\x1D_"
 card_10:
   card_text: "Idina Menzel, speaking about lessons learned during her career. Menzel provides the voice for Elsa in Walt Disney's a\x1CFrozena\x1D, released 5 years ago today. \"Frozen\" remains the highest grossing animated movie ever. Its sequel is expected next November.\n\n[view sources](https://smarthernews.com/quote-of-the-day-2/)"
-color_palette_classname: light-blue
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-11-27T12:22:16+00:00'
-title: 'Quote of the Day: Idina Menzel'
-section: quickreads
 ---
 Sources
 =======

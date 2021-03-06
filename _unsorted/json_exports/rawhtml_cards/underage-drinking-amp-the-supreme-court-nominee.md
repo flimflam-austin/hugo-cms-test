@@ -1,4 +1,10 @@
 ---
+title: Underage Drinking &amp; The Supreme Court Nominee
+section: quickreads
+meta:
+  date_published: '2018-09-28T11:41:14+00:00'
+  card_category: Now You Know
+color_palette_classname: dark-gray
 card_1:
   card_text: >-
     Common Thread
@@ -80,12 +86,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/underage-drinking/)
-color_palette_classname: dark-grey
-meta:
-  card_category: Now You Know
-  date_published: '2018-09-28T11:41:14+00:00'
-title: Underage Drinking &amp; The Supreme Court Nominee
-section: quickreads
 ---
 Sources
 =======

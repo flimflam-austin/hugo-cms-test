@@ -1,4 +1,12 @@
 ---
+title: 'Quote of the Day: Janet Jackson on Beauty'
+section: quickreads
+meta:
+  date_published: '2018-09-05T18:07:42+00:00'
+  card_category: Quote of the Day
+color_palette_classname: white
+background_image:
+  image: url(https://smarthernews.com/wp-content/uploads/2018/05/IMG_1636.jpg)
 card_1:
   card_text: "> “_Individuality is beautiful. God made you as you are, and thata\x19s beautiful. You are unique, special. You dona\x19t want to look like someone else or be that other person_.”"
 card_10:
@@ -9,12 +17,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-05-qtd-janet-jackson/)
-color_palette_classname: white
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-09-05T18:07:42+00:00'
-title: 'Quote of the Day: Janet Jackson on Beauty'
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,10 @@
 ---
+title: U.S. &amp; Iran
+section: quickreads
+meta:
+  date_published: '2018-09-27T12:31:50+00:00'
+  card_category: Current Events
+color_palette_classname: dark-brown
 card_1:
   card_text: |-
     FIGHTING WORDS
@@ -57,12 +63,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-27-iran-u-s/)
-color_palette_classname: dark-brown
-meta:
-  card_category: Current Events
-  date_published: '2018-09-27T12:31:50+00:00'
-title: U.S. &amp; Iran
-section: quickreads
 ---
 Sources
 =======

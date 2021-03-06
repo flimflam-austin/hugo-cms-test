@@ -1,4 +1,10 @@
 ---
+title: What Is Socialism?
+section: quickreads
+meta:
+  date_published: '2019-02-07T13:35:24+00:00'
+  card_category: Current Events
+color_palette_classname: medium-gray
 card_1:
   card_text: >-
     HOT TOPIC
@@ -71,12 +77,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/19-02-07-socialism-2019/)
-color_palette_classname: medium-grey
-meta:
-  card_category: Current Events
-  date_published: '2019-02-07T13:35:24+00:00'
-title: What Is Socialism?
-section: quickreads
 ---
 Sources
 =======

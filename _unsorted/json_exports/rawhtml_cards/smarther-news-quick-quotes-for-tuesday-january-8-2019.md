@@ -1,4 +1,10 @@
 ---
+title: SmartHER News Quick Quotes for Tuesday, January 8, 2019
+section: quickreads
+meta:
+  date_published: '2019-01-08T13:19:02+00:00'
+  card_category: Quotes
+color_palette_classname: dark-pink
 card_1:
   card_text: "> a\x1CTax refunds will go out.a\x1D\n> \n> Russell Vought, Acting Director of Office of Management & Budget (OMB), speaking at a White House briefing, explaining that the OMB believes its permissible for the IRS to issue refund checks during a gov't shutdown and will work to make sure the IRS is properly staffed. During previous shutdowns, refunds were stalled. The typical refund averages around $3,000 and begin going out in late January as Americans start filing their yearly taxes."
 card_2:
@@ -37,12 +43,6 @@ card_10:
     Have a great day!
 
     [view sources](https://smarthernews.com/19-01-08-qq/)
-color_palette_classname: dark-pink
-meta:
-  card_category: Quotes
-  date_published: '2019-01-08T13:19:02+00:00'
-title: SmartHER News Quick Quotes for Tuesday, January 8, 2019
-section: quickreads
 ---
 Sources
 =======

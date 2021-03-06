@@ -1,4 +1,13 @@
 ---
+title: 'Quote Of The Day: John Dingell'
+section: quickreads
+meta:
+  date_published: '2019-02-08T14:18:35+00:00'
+  card_category: Quote of the Day
+color_palette_classname: light-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/05/photo-1489611357534-759b63bb5ecb.jpg)
 card_1:
   card_text: "> “…A _we work for a just and a humane and a decent society, where everybody has a chance to amount to something. And where we dona\x19t give handouts, but we give hands-up, so that people can grow._“"
 card_10:
@@ -9,12 +18,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/19-02-08-qtd-john-dingell/)
-color_palette_classname: light-blue
-meta:
-  card_category: Quote of the Day
-  date_published: '2019-02-08T14:18:35+00:00'
-title: 'Quote Of The Day: John Dingell'
-section: quickreads
 ---
 Sources
 =======

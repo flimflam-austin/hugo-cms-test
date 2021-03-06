@@ -1,4 +1,10 @@
 ---
+title: Quick Quotes for Tuesday, September 18th
+section: quickreads
+meta:
+  date_published: '2018-09-18T12:11:00+00:00'
+  card_category: Quotes
+color_palette_classname: light-purple
 card_1:
   card_text: >-
     > “I’ve lived in North Carolina my entire life, and I’ve seen a lot of bad
@@ -32,12 +38,6 @@ card_10:
     Have a great day!
 
     [view sources](https://smarthernews.com/18-09-18-qq/)
-color_palette_classname: light-purple
-meta:
-  card_category: Quotes
-  date_published: '2018-09-18T12:11:00+00:00'
-title: Quick Quotes for Tuesday, September 18th
-section: quickreads
 ---
 Sources
 =======

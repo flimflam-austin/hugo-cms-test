@@ -1,4 +1,10 @@
 ---
+title: VE Day - SmartHer News
+section: quickreads
+meta:
+  date_published: '2018-05-08T22:10:59+00:00'
+  card_category: On This Day
+color_palette_classname: dark-blue
 card_1:
   card_text: >-
     Victory In Europe Day
@@ -37,12 +43,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/ve-day/)
-color_palette_classname: dark-blue
-meta:
-  card_category: On This Day
-  date_published: '2018-05-08T22:10:59+00:00'
-title: VE Day - SmartHer News
-section: quickreads
 ---
 Sources
 =======

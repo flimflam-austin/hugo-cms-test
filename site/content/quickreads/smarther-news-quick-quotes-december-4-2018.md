@@ -1,4 +1,13 @@
 ---
+title: SmartHER News Quick Quotes December 4, 2018
+section: quickreads
+meta:
+  date_published: '2018-12-04T12:33:00+00:00'
+  card_category: Quotes
+color_palette_classname: dark-pink
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/02/osman-rana-293976-360x360.jpg)
 card_1:
   card_text: "> a\x1CIt was in his blood to be a soldier. He wanted to be a true American and fight for his country.a\x1D\n> \n> Linda Collins on the death of her nephew Sgt. Jason Mitchell McClary (24). The Army soldier died Sunday at a military hospital in Germany as a result of injuries from a roadside bomb attack last week in Afghanistan. The Taliban claimed responsibility for the attack - the deadliest on U.S. forces in Afghanistan this year."
 card_2:
@@ -30,12 +39,6 @@ card_5:
   card_text: "> a\x1CShe is the true original. She not only marched to the beat of her own drum a\x14 honey, she is a one-woman band!a\x1D\n> \n> Whoopi Goldberg, paying tribute to Cher, at the Kennedy Center Honors Sunday evening. The 41st annual awards show began with a standing ovation tribute for President George H.W. Bush & then honored singers Cher, Reba McEntire, jazz great Wayne Shorter, composer Philip Glass, & a special award for the co-creators of \"Hamilton.\""
 card_10:
   card_text: '[view sources](https://smarthernews.com/quickquotes/)'
-color_palette_classname: dark-pink
-meta:
-  card_category: Quotes
-  date_published: '2018-12-04T12:33:00+00:00'
-title: SmartHER News Quick Quotes December 4, 2018
-section: quickreads
 ---
 Sources
 =======

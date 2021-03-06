@@ -1,4 +1,10 @@
 ---
+title: Quick Quotes for Thursday, September 20th
+section: quickreads
+meta:
+  date_published: '2018-09-20T12:07:38+00:00'
+  card_category: Quotes
+color_palette_classname: dark-blue
 card_1:
   card_text: >-
     > “United States is prepared to engage immediately in negotiations to
@@ -45,12 +51,6 @@ card_10:
     Have a great day!
 
     [view sources](https://smarthernews.com/quick-quotes-7/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Quotes
-  date_published: '2018-09-20T12:07:38+00:00'
-title: Quick Quotes for Thursday, September 20th
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,10 @@
 ---
+title: All About the Bubbles Baby
+section: quickreads
+meta:
+  date_published: '2018-08-21T11:59:29+00:00'
+  card_category: Money
+color_palette_classname: light-pink
 card_1:
   card_text: >-
     Billion Dollar Bubbles
@@ -49,12 +55,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/18-08-21-all-about-the-bubbles-baby/)
-color_palette_classname: light-pink
-meta:
-  card_category: Money
-  date_published: '2018-08-21T11:59:29+00:00'
-title: All About the Bubbles Baby
-section: quickreads
 ---
 Sources
 =======

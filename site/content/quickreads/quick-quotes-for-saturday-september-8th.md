@@ -1,4 +1,13 @@
 ---
+title: Quick Quotes for Saturday, September 8th
+section: quickreads
+meta:
+  date_published: '2018-09-08T11:59:59+00:00'
+  card_category: Quotes
+color_palette_classname: light-yellow
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/05/syria-1034467_640.jpg)
 card_1:
   card_text: "> a\x1CI am very sure that we have very, very good grounds to be making these warnings.”\n> \n> Jim Jeffrey, Secretary of State Mike Pompeoa\x19s special adviser on Syria, on the \"lots of evidence that chemical weapon are being prepared\" for a possible attack on Idlib - the last remaining stronghold of those opposed to Syrian President Bashar al-Assad."
 card_2:
@@ -41,12 +50,6 @@ card_10:
     Enjoy the weekend!
 
     [view sources](https://smarthernews.com/quick-quotes-2/)
-color_palette_classname: light-yellow
-meta:
-  card_category: Quotes
-  date_published: '2018-09-08T11:59:59+00:00'
-title: Quick Quotes for Saturday, September 8th
-section: quickreads
 ---
 Sources
 =======

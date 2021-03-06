@@ -1,4 +1,13 @@
 ---
+title: Judge Kavanaugh &amp; Dr. Ford To Testify
+section: quickreads
+meta:
+  date_published: '2018-09-27T12:39:52+00:00'
+  card_category: Now You Know
+color_palette_classname: dark-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/02/claire-anderson-60670-unsplash-360x360.jpg)
 card_1:
   card_text: >-
     What do you want to know about today’s hearing of Supreme Court nominee
@@ -118,12 +127,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-27-kavanaugh-assault-hearing/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Now You Know
-  date_published: '2018-09-27T12:39:52+00:00'
-title: Judge Kavanaugh &amp; Dr. Ford To Testify
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,10 @@
 ---
+title: Words For Reflection
+section: quickreads
+meta:
+  date_published: '2018-08-25T15:02:20+00:00'
+  card_category: Quote of the Day
+color_palette_classname: white
 card_1:
   card_text: "> _a\x1CI was finding that prayer helped…When the pressure was on, you seemed to go one way or the other. Either it was easier for them to break you the next time, or it was harder. In other words, if you are going to make it, you get tougher as time goes by.a\x1D_"
 card_10:
@@ -10,12 +16,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-08-25-mccain/)
-color_palette_classname: white
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-08-25T15:02:20+00:00'
-title: Words For Reflection
-section: quickreads
 ---
 Sources
 =======

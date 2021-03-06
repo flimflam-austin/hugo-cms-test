@@ -1,4 +1,10 @@
 ---
+title: 'Worth It to See: Rare Quintuple Rainbow'
+section: quickreads
+meta:
+  date_published: '2018-10-05T11:45:47+00:00'
+  card_category: Worth-It-To-See
+color_palette_classname: dark-gray
 card_1:
   card_text: >-
     NASA explains supernumerary rainbows only form "when falling water droplets
@@ -8,12 +14,6 @@ card_1:
 
 
     [view sources](https://smarthernews.com/rainbows/)
-color_palette_classname: dark-grey
-meta:
-  card_category: Worth-It-To-See
-  date_published: '2018-10-05T11:45:47+00:00'
-title: 'Worth It to See: Rare Quintuple Rainbow'
-section: quickreads
 ---
 Sources
 =======

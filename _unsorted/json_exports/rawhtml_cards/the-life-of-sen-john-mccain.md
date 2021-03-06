@@ -1,12 +1,12 @@
 ---
-card_1:
-  card_text: "In his newly released memoir, \"The Restless Wave,\" he wrote: \"Ita\x19s been quite a ride. Ia\x19ve known great passions, seen amazing wonders, fought in a war, and helped make a peace. I made a small place for myself in the story of America and the history of my times.a\x1D\n\n[view sources](https://smarthernews.com/18-08-26-sen-john-mccain/)"
-color_palette_classname: dark-grey
-meta:
-  card_category: Current Events
-  date_published: '2018-08-26T17:35:17+00:00'
 title: The Life Of Sen. John McCain
 section: quickreads
+meta:
+  date_published: '2018-08-26T17:35:17+00:00'
+  card_category: Current Events
+color_palette_classname: dark-gray
+card_1:
+  card_text: "In his newly released memoir, \"The Restless Wave,\" he wrote: \"Ita\x19s been quite a ride. Ia\x19ve known great passions, seen amazing wonders, fought in a war, and helped make a peace. I made a small place for myself in the story of America and the history of my times.a\x1D\n\n[view sources](https://smarthernews.com/18-08-26-sen-john-mccain/)"
 ---
 Sources
 =======

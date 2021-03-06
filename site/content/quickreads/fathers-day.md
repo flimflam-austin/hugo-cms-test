@@ -1,4 +1,13 @@
 ---
+title: FATHER'S DAY
+section: quickreads
+meta:
+  date_published: '2020-06-21T10:47:54+00:00'
+  card_category: Now You Know
+color_palette_classname: light-green
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/03/derek-thomson-528231-unsplash-scaled.jpg)
 card_1:
   card_text: |-
     Happy Father’s Day
@@ -67,12 +76,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/fathers-day/)
-color_palette_classname: light-green
-meta:
-  card_category: Now You Know
-  date_published: '2020-06-21T10:47:54+00:00'
-title: FATHER'S DAY
-section: quickreads
 ---
 Sources
 =======

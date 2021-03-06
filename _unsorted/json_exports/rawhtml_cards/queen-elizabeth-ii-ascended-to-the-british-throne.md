@@ -1,4 +1,10 @@
 ---
+title: Queen Elizabeth II Ascended To The British Throne
+section: quickreads
+meta:
+  date_published: '2019-02-06T14:21:01+00:00'
+  card_category: On This Day
+color_palette_classname: light-pink
 card_1:
   card_text: >-
     Queen Elizabeth II Ascended To The British Throne  
@@ -43,12 +49,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/19-02-06-qtd-queen-elizabeth/)
-color_palette_classname: light-pink
-meta:
-  card_category: On This Day
-  date_published: '2019-02-06T14:21:01+00:00'
-title: Queen Elizabeth II Ascended To The British Throne
-section: quickreads
 ---
 Sources
 =======

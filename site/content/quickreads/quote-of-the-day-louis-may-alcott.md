@@ -1,4 +1,13 @@
 ---
+title: 'Quote of the Day: Louis May Alcott'
+section: quickreads
+meta:
+  date_published: '2018-11-29T12:28:05+00:00'
+  card_category: Quote of the Day
+color_palette_classname: light-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/03/quino-al-146863-unsplash-scaled.jpg)
 card_1:
   card_text: '> _“I am not afraid of storms for I am learning how to sail my ship.”_'
 card_10:
@@ -11,12 +20,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-11-29-qtd-alcott/)
-color_palette_classname: light-blue
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-11-29T12:28:05+00:00'
-title: 'Quote of the Day: Louis May Alcott'
-section: quickreads
 ---
 Sources
 =======

@@ -1,12 +1,15 @@
 ---
-card_1:
-  card_text: "In a September 1998 letter to his children, he wrote \"Remember the old song a\x18Ia\x19ll Be There Ready When You Are'? Well, Ia\x19ll be there ready when you are where there is so much excitement ahead, so many grandkids to watch grow. If you need me, Ia\x19m here. Devotedly, Dad.a\x1D\n\n[view sources](https://smarthernews.com/18-12-05-letters-from-ghwb/)"
-color_palette_classname: light-grey
-meta:
-  card_category: Uncategorized
-  date_published: '2018-12-05T12:24:08+00:00'
 title: 'George H.W. Bush: In His Own Words'
 section: quickreads
+meta:
+  date_published: '2018-12-05T12:24:08+00:00'
+  card_category: Uncategorized
+color_palette_classname: light-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/06/dev-222588-unsplash-scaled.jpg)
+card_1:
+  card_text: "In a September 1998 letter to his children, he wrote \"Remember the old song a\x18Ia\x19ll Be There Ready When You Are'? Well, Ia\x19ll be there ready when you are where there is so much excitement ahead, so many grandkids to watch grow. If you need me, Ia\x19m here. Devotedly, Dad.a\x1D\n\n[view sources](https://smarthernews.com/18-12-05-letters-from-ghwb/)"
 ---
 Sources
 =======

@@ -1,4 +1,13 @@
 ---
+title: 'Where It Stand: The Border Wall'
+section: quickreads
+meta:
+  date_published: '2019-02-11T13:42:29+00:00'
+  card_category: Current Events
+color_palette_classname: dark-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/04/39528548680_5763542efe_k.jpg)
 card_1:
   card_text: >-
     WHERE IT STANDS:
@@ -70,12 +79,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/19-02-11-border-wall/)
-color_palette_classname: dark-grey
-meta:
-  card_category: Current Events
-  date_published: '2019-02-11T13:42:29+00:00'
-title: 'Where It Stand: The Border Wall'
-section: quickreads
 ---
 Sources
 =======

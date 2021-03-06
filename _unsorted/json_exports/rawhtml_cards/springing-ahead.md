@@ -1,4 +1,10 @@
 ---
+title: SPRINGING AHEAD
+section: quickreads
+meta:
+  date_published: '2020-03-07T16:51:12+00:00'
+  card_category: Now You Know
+color_palette_classname: light-yellow
 card_1:
   card_text: |-
     SPRINGING AHEAD
@@ -76,12 +82,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/day-light-saving/)
-color_palette_classname: light-yellow
-meta:
-  card_category: Now You Know
-  date_published: '2020-03-07T16:51:12+00:00'
-title: SPRINGING AHEAD
-section: quickreads
 ---
 Sources
 =======

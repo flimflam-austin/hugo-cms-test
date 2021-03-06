@@ -1,4 +1,13 @@
 ---
+title: SmartHER News Quick Quotes for Monday, October 1st
+section: quickreads
+meta:
+  date_published: '2018-10-01T11:47:43+00:00'
+  card_category: Quotes
+color_palette_classname: dark-pink
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/09/erik-witsoe-366893-unsplash-min-scaled.jpg)
 card_1:
   card_text: "> a\x1CIt gave me a space to talk with him, and he is there with his angels.”\n> \n> Angelica Cervantes, mother of Eric Silva, one of the 58 people murdered on Oct 1, 2017 in the largest mass shooting in American history. Cervantes is speaking about a memorial garden in Las Vegas, with 59 trees, one for each victim and an oak for the tree of life. A year after the shooting, investigators still don't have a clear motive or answer to why the shooter did it."
 card_2:
@@ -9,12 +18,6 @@ card_4:
   card_text: "> a\x1CIt was like a flurry a\x14 like it was snowing mosquitoes… I waited for them to calm down before I grabbed the kids and the ran into the house.a\x1D\n> \n> Cassie Vadovsky speaking to her local news station in North Carolina. Flooding from Hurricane Florence continues in North & South Carolina; one of the side effects is mosquitos, including one type that grows 3x the average size."
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-10-01/)'
-color_palette_classname: dark-pink
-meta:
-  card_category: Quotes
-  date_published: '2018-10-01T11:47:43+00:00'
-title: SmartHER News Quick Quotes for Monday, October 1st
-section: quickreads
 ---
 Sources
 =======

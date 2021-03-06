@@ -1,4 +1,12 @@
 ---
+title: 'On This Day: September 11, 2001'
+section: quickreads
+meta:
+  date_published: '2018-09-11T11:59:16+00:00'
+  card_category: On This Day
+color_palette_classname: dark-blue
+background_image:
+  image: url(https://smarthernews.com/wp-content/uploads/2018/01/flags-scaled.jpg)
 card_1:
   card_text: |-
     September 11, 2001
@@ -77,12 +85,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-11-never-forget/)
-color_palette_classname: dark-blue
-meta:
-  card_category: On This Day
-  date_published: '2018-09-11T11:59:16+00:00'
-title: 'On This Day: September 11, 2001'
-section: quickreads
 ---
 Sources
 =======

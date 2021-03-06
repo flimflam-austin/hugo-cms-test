@@ -1,4 +1,10 @@
 ---
+title: Free Museum Day This Saturday, September 22
+section: quickreads
+meta:
+  date_published: '2018-09-21T11:41:53+00:00'
+  card_category: Now You Know
+color_palette_classname: dark-purple
 card_1:
   card_text: >-
     PRICELESS CULTURE
@@ -50,12 +56,6 @@ card_3:
     (8%).**
 card_10:
   card_text: "This year's Museum Day theme is a\x1CWomen Making History\" recognizing female trailblazers in arts, sciences, innovation, and culture. Click to find participating museums in your area.\n\n[view sources](https://smarthernews.com/18-09-21-museum-day/)"
-color_palette_classname: dark-purple
-meta:
-  card_category: Now You Know
-  date_published: '2018-09-21T11:41:53+00:00'
-title: Free Museum Day This Saturday, September 22
-section: quickreads
 ---
 Sources
 =======

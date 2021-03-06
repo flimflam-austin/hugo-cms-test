@@ -1,4 +1,13 @@
 ---
+title: SmartHER News Quick Quotes for Thursday, February 7, 2019
+section: quickreads
+meta:
+  date_published: '2019-02-07T13:37:05+00:00'
+  card_category: Quotes
+color_palette_classname: dark-pink
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/02/jess-watters-467760-360x360.jpg)
 card_1:
   card_text: "> a\x1CIf left to their own devices, if they have a bipartisan agreement, I will support it.a\x1D\n> \n> House Speaker Nancy Pelosi speaking about a group of bipartisan lawmakers working to come up with an agreement on border security funding before Feb. 15, the date the gov't funding lapses and a shut down could loom. Fast moving reports indicate the group believes they can come to an agreement that includes \\*some\\* $$ for a border barrier & other security measures."
 card_2:
@@ -35,12 +44,6 @@ card_6:
   card_text: "> “the lack of clarity… has kept the Oscars really in the conversation and the mystery has been really compelling. People really care.a\x1D\n> \n> Karey Burke, ABC Entertainment president, as the 2019 Academy Awards ceremony will go without an official host for the first time in 30 years. The Feb. 24th event had originally tapped comedian Kevin Hart to host, but he withdrew amid a controversy over his old, homophobic tweets."
 card_10:
   card_text: '[view sources](https://smarthernews.com/qq-22/)'
-color_palette_classname: dark-pink
-meta:
-  card_category: Quotes
-  date_published: '2019-02-07T13:37:05+00:00'
-title: SmartHER News Quick Quotes for Thursday, February 7, 2019
-section: quickreads
 ---
 Sources
 =======

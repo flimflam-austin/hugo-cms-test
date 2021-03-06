@@ -1,4 +1,10 @@
 ---
+title: 'What You Should Know: Glioblastoma'
+section: quickreads
+meta:
+  date_published: '2018-08-26T18:26:13+00:00'
+  card_category: Health
+color_palette_classname: white
 card_1:
   card_text: >-
     GLIOBLASTOMA
@@ -47,12 +53,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/18-08-26-mccain-brain-cancer-glioblastoma/)
-color_palette_classname: white
-meta:
-  card_category: Health
-  date_published: '2018-08-26T18:26:13+00:00'
-title: 'What You Should Know: Glioblastoma'
-section: quickreads
 ---
 Sources
 =======

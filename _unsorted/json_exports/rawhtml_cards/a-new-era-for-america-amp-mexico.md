@@ -1,4 +1,10 @@
 ---
+title: A New Era For America &amp; Mexico?
+section: quickreads
+meta:
+  date_published: '2018-12-03T12:50:23+00:00'
+  card_category: Current Events
+color_palette_classname: dark-brown
 card_1:
   card_text: >-
     Pres. Trump has said he is willing to extend his previous deadline for a $5B
@@ -8,12 +14,6 @@ card_1:
 
 
     [view sources](https://smarthernews.com/18-12-3-this-weekend-in-mexico/)
-color_palette_classname: dark-brown
-meta:
-  card_category: Current Events
-  date_published: '2018-12-03T12:50:23+00:00'
-title: A New Era For America &amp; Mexico?
-section: quickreads
 ---
 Sources
 =======

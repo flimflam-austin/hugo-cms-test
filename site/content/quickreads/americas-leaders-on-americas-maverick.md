@@ -1,4 +1,12 @@
 ---
+title: America's Leaders on America's Maverick
+section: quickreads
+meta:
+  date_published: '2018-08-30T11:14:15+00:00'
+  card_category: Politics
+color_palette_classname: dark-brown
+background_image:
+  image: url(https://smarthernews.com/wp-content/uploads/2018/04/Mccain_home.jpg)
 card_1:
   card_text: >-
     America’s Leaders on America’s Maverick
@@ -52,12 +60,6 @@ card_10:
   card_text: >-
     [view
     sources](https://smarthernews.com/americas-leaders-on-americas-maverick/)
-color_palette_classname: dark-brown
-meta:
-  card_category: Politics
-  date_published: '2018-08-30T11:14:15+00:00'
-title: America's Leaders on America's Maverick
-section: quickreads
 ---
 Sources
 =======

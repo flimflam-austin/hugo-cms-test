@@ -1,4 +1,13 @@
 ---
+title: The *New* NAFTA?
+section: quickreads
+meta:
+  date_published: '2018-10-02T11:42:58+00:00'
+  card_category: Money
+color_palette_classname: dark-purple
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/02/hal-gatewood-336681-360x360.jpg)
 card_1:
   card_text: >-
     The \*New\* NAFTA?
@@ -70,12 +79,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-10-02-new-nafta/)
-color_palette_classname: dark-purple
-meta:
-  card_category: Money
-  date_published: '2018-10-02T11:42:58+00:00'
-title: The *New* NAFTA?
-section: quickreads
 ---
 Sources
 =======

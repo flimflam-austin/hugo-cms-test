@@ -1,4 +1,10 @@
 ---
+title: Quick Quotes for Monday, September 10th
+section: quickreads
+meta:
+  date_published: '2018-09-10T12:00:40+00:00'
+  card_category: Quotes
+color_palette_classname: light-blue
 card_1:
   card_text: "> a\x1CTogether their voices will ring out into perpetuity…”\n> \n> Stephen Clark, Somerset County, PA parks superintendent, on the Tower of Voices memorial dedicated to 9/11 victims nearly 17 years after the attacks. The 93-foot-tall structure has a wind chime for each of the 40 passengers & crew members that died on Flight 93 which crashed near Shanksville, PA. The President & First Lady are expected to visit Tuesday to honor victims."
 card_2:
@@ -22,12 +28,6 @@ card_10:
     Have a good week!
 
     [view sources](https://smarthernews.com/quick-quotes-3/)
-color_palette_classname: light-blue
-meta:
-  card_category: Quotes
-  date_published: '2018-09-10T12:00:40+00:00'
-title: Quick Quotes for Monday, September 10th
-section: quickreads
 ---
 Sources
 =======

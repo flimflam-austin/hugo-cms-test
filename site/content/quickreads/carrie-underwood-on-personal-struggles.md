@@ -1,4 +1,13 @@
 ---
+title: Carrie Underwood on personal struggles
+section: quickreads
+meta:
+  date_published: '2018-09-17T11:25:01+00:00'
+  card_category: Quote of the Day
+color_palette_classname: light-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/02/a-l-117993-unsplash-360x360.jpg)
 card_1:
   card_text: >-
     > _“I’ve had a good life, and you can’t win all the time. You gotta have
@@ -12,12 +21,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/carrie-underwood/)
-color_palette_classname: light-blue
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-09-17T11:25:01+00:00'
-title: Carrie Underwood on personal struggles
-section: quickreads
 ---
 Sources
 =======

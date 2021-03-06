@@ -1,4 +1,13 @@
 ---
+title: Aging &amp; Allergies
+section: quickreads
+meta:
+  date_published: '2019-01-10T13:31:22+00:00'
+  card_category: Health
+color_palette_classname: dark-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/08/pizza-2589577_1280.jpg)
 card_1:
   card_text: >-
     ALLERGIES & AGING
@@ -85,12 +94,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/aging-allergies/)
-color_palette_classname: dark-grey
-meta:
-  card_category: Health
-  date_published: '2019-01-10T13:31:22+00:00'
-title: Aging &amp; Allergies
-section: quickreads
 ---
 Sources
 =======

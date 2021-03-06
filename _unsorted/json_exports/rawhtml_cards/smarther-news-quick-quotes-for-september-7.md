@@ -1,4 +1,10 @@
 ---
+title: SmartHER News Quick Quotes for September 7
+section: quickreads
+meta:
+  date_published: '2018-09-07T11:56:26+00:00'
+  card_category: Quotes
+color_palette_classname: light-gray
 card_1:
   card_text: >-
     > “We have more indications that reconciliation is no longer just a shimmer
@@ -33,12 +39,6 @@ card_10:
     HAVE A GREAT WEEKEND!
 
     [view sources](https://smarthernews.com/18-09-06-qq-2/)
-color_palette_classname: light-grey
-meta:
-  card_category: Quotes
-  date_published: '2018-09-07T11:56:26+00:00'
-title: SmartHER News Quick Quotes for September 7
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,13 @@
 ---
+title: Kavanaugh on the Issues - SmartHer News
+section: quickreads
+meta:
+  date_published: '2018-07-12T10:01:12+00:00'
+  card_category: Current Events
+color_palette_classname: light-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/07/Judge_Brett_Kavanaugh.jpg)
 card_1:
   card_text: >-
     WHERE DOES HE STAND?
@@ -75,12 +84,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/kavanaugh-on-the-issues/)
-color_palette_classname: light-grey
-meta:
-  card_category: Current Events
-  date_published: '2018-07-12T10:01:12+00:00'
-title: Kavanaugh on the Issues - SmartHer News
-section: quickreads
 ---
 Sources
 =======

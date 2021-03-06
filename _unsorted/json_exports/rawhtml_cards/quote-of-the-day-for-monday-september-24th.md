@@ -1,14 +1,14 @@
 ---
+title: Quote of the Day for Monday, September 24th
+section: quickreads
+meta:
+  date_published: '2018-09-24T13:15:11+00:00'
+  card_category: Quote of the Day
+color_palette_classname: dark-pink
 card_1:
   card_text: '> _“Happiness is to look at what we have and feel grateful.”_'
 card_10:
   card_text: "Isabella Rossellini, 66, walked the runway with her daughter, son, and grandchild in the Dolce & Gabbana fashion show in Milan this weekend that featured models of all ages and sizes. She says \"Happiness is a discipline\" and says of her iconic red lipstick: \"It cana\x19t save your life, it can be a step toward feeling good.\"\n\n[view sources](https://smarthernews.com/18-090-24-qtd/)"
-color_palette_classname: dark-pink
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-09-24T13:15:11+00:00'
-title: Quote of the Day for Monday, September 24th
-section: quickreads
 ---
 Sources
 =======

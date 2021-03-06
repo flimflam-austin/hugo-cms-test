@@ -1,4 +1,10 @@
 ---
+title: What's Happening At The White House?
+section: quickreads
+meta:
+  date_published: '2018-12-10T13:14:43+00:00'
+  card_category: Current Events
+color_palette_classname: dark-blue
 card_1:
   card_text: >-
     What’s Happening At  
@@ -69,12 +75,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/chief-of-staff-changes-investigations-what-to-know/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Current Events
-  date_published: '2018-12-10T13:14:43+00:00'
-title: What's Happening At The White House?
-section: quickreads
 ---
 Sources
 =======

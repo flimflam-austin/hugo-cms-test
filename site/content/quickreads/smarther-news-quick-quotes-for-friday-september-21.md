@@ -1,4 +1,12 @@
 ---
+title: SmartHER News Quick Quotes for Friday, September 21
+section: quickreads
+meta:
+  date_published: '2018-09-21T11:44:19+00:00'
+  card_category: Quotes
+color_palette_classname: light-pink
+background_image:
+  image: url(https://smarthernews.com/wp-content/uploads/2018/01/fire-scaled.jpg)
 card_1:
   card_text: "> a\x1CWhether overseas or right here at home in D.C., we didna\x19t think a\x14 we just knew we needed to act. Thata\x19s the Marine in all of us.a\x1D\n> \n> Marine Capt. Trey Gregory, who rushed into a senior public housing complex in DC alongside fellow Marines and firefighters to rescue residents. 10 people had minor injuries but everyone survived. The DC Fire Chief said that might not have been the case without the Marines."
 card_2:
@@ -27,12 +35,6 @@ card_10:
     Have a great weekend!
 
     [view sources](https://smarthernews.com/18-09-21-qq/)
-color_palette_classname: light-pink
-meta:
-  card_category: Quotes
-  date_published: '2018-09-21T11:44:19+00:00'
-title: SmartHER News Quick Quotes for Friday, September 21
-section: quickreads
 ---
 Sources
 =======

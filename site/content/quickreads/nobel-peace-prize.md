@@ -1,4 +1,13 @@
 ---
+title: NOBEL PEACE PRIZE
+section: quickreads
+meta:
+  date_published: '2018-10-05T11:36:26+00:00'
+  card_category: Current Events
+color_palette_classname: dark-brown
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/05/nathan-dumlao-583574-unsplash-scaled.jpg)
 card_1:
   card_text: |-
     > NOBEL PEACE PRIZE
@@ -73,12 +82,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-10-05-nobel-peace-prize/)
-color_palette_classname: dark-brown
-meta:
-  card_category: Current Events
-  date_published: '2018-10-05T11:36:26+00:00'
-title: NOBEL PEACE PRIZE
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,10 @@
 ---
+title: Dean Jacket Up At Auction - SmartHer News
+section: quickreads
+meta:
+  date_published: '2018-02-28T22:58:15+00:00'
+  card_category: Entertainment
+color_palette_classname: black
 card_1:
   card_text: >-
     James Dean  
@@ -61,12 +67,6 @@ card_10:
     How Much Would You Pay?
 
     [view sources](https://smarthernews.com/dean-jacket-up-at-auction/)
-color_palette_classname: black
-meta:
-  card_category: Entertainment
-  date_published: '2018-02-28T22:58:15+00:00'
-title: Dean Jacket Up At Auction - SmartHer News
-section: quickreads
 ---
 Sources
 =======

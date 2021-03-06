@@ -1,4 +1,13 @@
 ---
+title: 'ON THIS DAY: September 25, 1981'
+section: quickreads
+meta:
+  date_published: '2018-09-25T12:15:53+00:00'
+  card_category: On This Day
+color_palette_classname: light-yellow
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/09/President_Ronald_Reagan_and_Sandra_Day_OConnor_July_15_1981.jpg)
 card_1:
   card_text: >-
     September 25, 1981
@@ -64,12 +73,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-25-otd/)
-color_palette_classname: light-yellow
-meta:
-  card_category: On This Day
-  date_published: '2018-09-25T12:15:53+00:00'
-title: 'ON THIS DAY: September 25, 1981'
-section: quickreads
 ---
 Sources
 =======

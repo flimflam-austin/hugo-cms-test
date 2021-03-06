@@ -1,4 +1,10 @@
 ---
+title: 'Lying In State: George H.W. Bush'
+section: quickreads
+meta:
+  date_published: '2018-12-03T13:04:27+00:00'
+  card_category: Current Events
+color_palette_classname: dark-gray
 card_1:
   card_text: "HONORING 41\n===========\n\n**_“..one of Americaa\x19s greatest points of light”_**\n\nPresident George H.W. Bush, the **41st American president**, will be theA **12th presidentA** to lie in state at the U.S. Capitol."
 card_2:
@@ -56,12 +62,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/18-12-3-lying-in-state-george-h-w-bush/)
-color_palette_classname: dark-grey
-meta:
-  card_category: Current Events
-  date_published: '2018-12-03T13:04:27+00:00'
-title: 'Lying In State: George H.W. Bush'
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,13 @@
 ---
+title: U.S. / China Trade War Latest
+section: quickreads
+meta:
+  date_published: '2018-09-18T18:21:54+00:00'
+  card_category: Now You Know
+color_palette_classname: light-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/03/annie-theby-416948-unsplash-360x360.jpg)
 card_1:
   card_text: >-
     Trade Faceoff Heats Up
@@ -49,12 +58,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-18-trade-war/)
-color_palette_classname: light-grey
-meta:
-  card_category: Now You Know
-  date_published: '2018-09-18T18:21:54+00:00'
-title: U.S. / China Trade War Latest
-section: quickreads
 ---
 Sources
 =======

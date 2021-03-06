@@ -1,4 +1,13 @@
 ---
+title: Mind-Altering Brain Cancer Innovations
+section: quickreads
+meta:
+  date_published: '2018-08-28T12:01:48+00:00'
+  card_category: Health
+color_palette_classname: light-pink
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/03/nick-herasimenka-8269-unsplash-scaled.jpg)
 card_1:
   card_text: >-
     BRAIN POWER
@@ -52,12 +61,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/mind-altering-brain-cancer-innovations/)
-color_palette_classname: light-pink
-meta:
-  card_category: Health
-  date_published: '2018-08-28T12:01:48+00:00'
-title: Mind-Altering Brain Cancer Innovations
-section: quickreads
 ---
 Sources
 =======

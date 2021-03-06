@@ -1,4 +1,10 @@
 ---
+title: '#OTD The First Release of Guinness Book of Records'
+section: quickreads
+meta:
+  date_published: '2018-08-27T11:58:35+00:00'
+  card_category: On This Day
+color_palette_classname: dark-purple
 card_1:
   card_text: >-
     The Guinness Book of World Records Debuts
@@ -62,12 +68,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-08-27-guinness-world-records/)
-color_palette_classname: dark-purple
-meta:
-  card_category: On This Day
-  date_published: '2018-08-27T11:58:35+00:00'
-title: '#OTD The First Release of Guinness Book of Records'
-section: quickreads
 ---
 Sources
 =======

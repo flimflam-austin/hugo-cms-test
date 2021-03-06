@@ -1,4 +1,10 @@
 ---
+title: The Great Vaccine Debate
+section: quickreads
+meta:
+  date_published: '2019-02-11T15:11:22+00:00'
+  card_category: Health
+color_palette_classname: dark-blue
 card_1:
   card_text: >-
     The Great Vaccine Debate
@@ -54,12 +60,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/19-02-11-should-you-have-the-right-not-to-vaccinate/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Health
-  date_published: '2019-02-11T15:11:22+00:00'
-title: The Great Vaccine Debate
-section: quickreads
 ---
 Sources
 =======

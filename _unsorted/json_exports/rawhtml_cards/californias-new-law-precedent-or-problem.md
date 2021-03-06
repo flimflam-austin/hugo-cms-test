@@ -1,4 +1,10 @@
 ---
+title: 'California''s New Law: Precedent or Problem?'
+section: quickreads
+meta:
+  date_published: '2018-10-02T11:36:20+00:00'
+  card_category: Now You Know
+color_palette_classname: light-purple
 card_1:
   card_text: >-
     Precedent or Problem?
@@ -65,12 +71,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/females-in-the-boardroom/)
-color_palette_classname: light-purple
-meta:
-  card_category: Now You Know
-  date_published: '2018-10-02T11:36:20+00:00'
-title: 'California''s New Law: Precedent or Problem?'
-section: quickreads
 ---
 Sources
 =======

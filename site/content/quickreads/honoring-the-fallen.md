@@ -1,4 +1,13 @@
 ---
+title: HONORING THE FALLEN
+section: quickreads
+meta:
+  date_published: '2018-11-28T13:23:30+00:00'
+  card_category: Current Events
+color_palette_classname: light-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/03/samuel-branch-442129-unsplash-scaled.jpg)
 card_1:
   card_text: >-
     HONORING THE FALLEN
@@ -57,12 +66,6 @@ card_4:
     > Tom Josceyln, The Long War Journal
 card_10:
   card_text: "a\x1CIt is heart wrenching. Lando was an incredibly charismatic human beinga| and ita\x19s hard to imagine someone like that gone. Ita\x19s like you feel a hole open inside of you that you didna\x19t even know was there...\" Andrea Brixey who taught Sgt. Jasso in middle school.\n\n[view sources](https://smarthernews.com/18-11-28-afghanistan/)"
-color_palette_classname: light-grey
-meta:
-  card_category: Current Events
-  date_published: '2018-11-28T13:23:30+00:00'
-title: HONORING THE FALLEN
-section: quickreads
 ---
 Sources
 =======

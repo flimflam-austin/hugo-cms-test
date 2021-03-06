@@ -1,4 +1,13 @@
 ---
+title: George Herbert Walker Bush
+section: quickreads
+meta:
+  date_published: '2018-12-04T12:34:04+00:00'
+  card_category: Uncategorized
+color_palette_classname: dark-purple
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/12/Bezoeken_presidenten_portretten_Bush_George_H.W._Bestanddeelnr_934-4841.jpg)
 card_1:
   card_text: |-
     GEORGE HERBERT WALKER BUSH
@@ -77,12 +86,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-12-04-ghwb/)
-color_palette_classname: dark-purple
-meta:
-  card_category: Uncategorized
-  date_published: '2018-12-04T12:34:04+00:00'
-title: George Herbert Walker Bush
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,10 @@
 ---
+title: A New NAFTA? Why it matters &amp; how it might impact your $$
+section: quickreads
+meta:
+  date_published: '2018-08-28T12:02:17+00:00'
+  card_category: Money
+color_palette_classname: medium-gray
 card_1:
   card_text: |-
     TRADING UP?
@@ -60,12 +66,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/a-new-nafta/)
-color_palette_classname: medium-grey
-meta:
-  card_category: Money
-  date_published: '2018-08-28T12:02:17+00:00'
-title: A New NAFTA? Why it matters &amp; how it might impact your $$
-section: quickreads
 ---
 Sources
 =======

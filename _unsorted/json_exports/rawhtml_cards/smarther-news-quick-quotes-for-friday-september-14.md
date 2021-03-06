@@ -1,4 +1,10 @@
 ---
+title: SmartHER News Quick Quotes for Friday, September 14
+section: quickreads
+meta:
+  date_published: '2018-09-14T12:18:19+00:00'
+  card_category: Quotes
+color_palette_classname: dark-purple
 card_1:
   card_text: >-
     > “By so many important measures, our world keeps getting better, and its
@@ -50,12 +56,6 @@ card_10:
     Have a great weekend!
 
     [view sources](https://smarthernews.com/18-09-14-qq/)
-color_palette_classname: dark-purple
-meta:
-  card_category: Quotes
-  date_published: '2018-09-14T12:18:19+00:00'
-title: SmartHER News Quick Quotes for Friday, September 14
-section: quickreads
 ---
 Sources
 =======

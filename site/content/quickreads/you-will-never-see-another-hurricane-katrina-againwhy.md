@@ -1,4 +1,13 @@
 ---
+title: You will never see another Hurricane Katrina again...why?
+section: quickreads
+meta:
+  date_published: '2018-09-11T11:57:07+00:00'
+  card_category: Now You Know
+color_palette_classname: light-purple
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/05/infrared-goes-16-harvey.png)
 card_1:
   card_text: |-
     What’s In A Name?
@@ -44,12 +53,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/why-name-hurricanes/)
-color_palette_classname: light-purple
-meta:
-  card_category: Now You Know
-  date_published: '2018-09-11T11:57:07+00:00'
-title: You will never see another Hurricane Katrina again...why?
-section: quickreads
 ---
 Sources
 =======

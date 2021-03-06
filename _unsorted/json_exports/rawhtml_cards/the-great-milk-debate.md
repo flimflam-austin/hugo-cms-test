@@ -1,4 +1,10 @@
 ---
+title: The Great Milk Debate
+section: quickreads
+meta:
+  date_published: '2018-09-07T11:57:23+00:00'
+  card_category: Now You Know
+color_palette_classname: dark-green
 card_1:
   card_text: |-
     Think The Hottest Debate In America Is Political?
@@ -49,12 +55,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-07-great-milk-debate/)
-color_palette_classname: dark-green
-meta:
-  card_category: Now You Know
-  date_published: '2018-09-07T11:57:23+00:00'
-title: The Great Milk Debate
-section: quickreads
 ---
 Sources
 =======

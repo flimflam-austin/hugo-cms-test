@@ -1,4 +1,13 @@
 ---
+title: So Long Sororities?A
+section: quickreads
+meta:
+  date_published: '2018-08-29T11:43:43+00:00'
+  card_category: Current Events
+color_palette_classname: dark-pink
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/04/vonecia-carswell-613625-unsplash-scaled.jpg)
 card_1:
   card_text: "So Long Sororities?A  \n\n=======================\n\nHarvard Universitya\x19s last all-female Greek sisterhood goes co-ed."
 card_2:
@@ -45,12 +54,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/so-long-sororities/)
-color_palette_classname: dark-pink
-meta:
-  card_category: Current Events
-  date_published: '2018-08-29T11:43:43+00:00'
-title: So Long Sororities?A
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,12 @@
 ---
+title: Mexico's New President
+section: quickreads
+meta:
+  date_published: '2018-12-01T04:41:22+00:00'
+  card_category: Current Events
+color_palette_classname: light-yellow
+background_image:
+  image: ''
 card_1:
   card_text: >-
     U.S. Vice President Pence & Ivanka Trump will attend AMLO's inauguration, as
@@ -7,12 +15,6 @@ card_1:
 
 
     [view sources](https://smarthernews.com/amlo/)
-color_palette_classname: light-yellow
-meta:
-  card_category: Current Events
-  date_published: '2018-12-01T04:41:22+00:00'
-title: Mexico's New President
-section: quickreads
 ---
 Sources
 =======

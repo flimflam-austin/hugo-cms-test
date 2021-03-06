@@ -1,4 +1,10 @@
 ---
+title: Why Do We Have A UN?
+section: quickreads
+meta:
+  date_published: '2018-09-24T12:00:17+00:00'
+  card_category: Now You Know
+color_palette_classname: dark-green
 card_1:
   card_text: >-
     HOMECOMING…
@@ -84,12 +90,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-24-why-do-we-have-a-un/)
-color_palette_classname: dark-green
-meta:
-  card_category: Now You Know
-  date_published: '2018-09-24T12:00:17+00:00'
-title: Why Do We Have A UN?
-section: quickreads
 ---
 Sources
 =======

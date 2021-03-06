@@ -1,4 +1,10 @@
 ---
+title: US China Tarriffs - SmartHer News
+section: quickreads
+meta:
+  date_published: '2018-03-23T11:00:47+00:00'
+  card_category: Current Events
+color_palette_classname: dark-gray
 card_1:
   card_text: |-
     Number To Know:
@@ -63,12 +69,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/us-china-tarriffs/)
-color_palette_classname: dark-grey
-meta:
-  card_category: Current Events
-  date_published: '2018-03-23T11:00:47+00:00'
-title: US China Tarriffs - SmartHer News
-section: quickreads
 ---
 Sources
 =======

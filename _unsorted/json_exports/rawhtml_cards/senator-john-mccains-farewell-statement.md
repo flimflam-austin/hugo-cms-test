@@ -1,4 +1,10 @@
 ---
+title: Senator John McCain's Farewell Statement
+section: quickreads
+meta:
+  date_published: '2018-08-28T12:02:13+00:00'
+  card_category: Quote of the Day
+color_palette_classname: dark-blue
 card_1:
   card_text: >-
     > _“Do not despair of our present difficulties butA believe always in the
@@ -13,12 +19,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/senator-john-mccains-farewell-statement/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-08-28T12:02:13+00:00'
-title: Senator John McCain's Farewell Statement
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,10 @@
 ---
+title: DID YOU KNOW? "Presidents Day" Isn't A Federal Holiday
+section: quickreads
+meta:
+  date_published: '2021-02-15T07:00:52+00:00'
+  card_category: Uncategorized
+color_palette_classname: dark-blue
 card_1:
   card_text: >-
     > Whether you celebrate President’s Day, Presidents’ Day, or Presidents Day
@@ -73,12 +79,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-02-17-presidents-day/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Uncategorized
-  date_published: '2021-02-15T07:00:52+00:00'
-title: DID YOU KNOW? "Presidents Day" Isn't A Federal Holiday
-section: quickreads
 ---
 Sources
 =======

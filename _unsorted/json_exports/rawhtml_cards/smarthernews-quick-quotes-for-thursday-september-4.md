@@ -1,4 +1,10 @@
 ---
+title: SmartHERNews Quick Quotes for Thursday, September 4
+section: quickreads
+meta:
+  date_published: '2018-10-04T11:53:12+00:00'
+  card_category: Quotes
+color_palette_classname: light-green
 card_1:
   card_text: >-
     > “Supplemental FBI background file for Judge Kavanaugh has been received by
@@ -43,12 +49,6 @@ card_10:
     Have a great day!
 
     [view sources](https://smarthernews.com/18-10-04-qq/)
-color_palette_classname: light-green
-meta:
-  card_category: Quotes
-  date_published: '2018-10-04T11:53:12+00:00'
-title: SmartHERNews Quick Quotes for Thursday, September 4
-section: quickreads
 ---
 Sources
 =======

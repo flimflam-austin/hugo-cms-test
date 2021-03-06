@@ -1,4 +1,12 @@
 ---
+title: 14.04.02 World Autism Awareness Day - SmartHer News
+section: quickreads
+meta:
+  date_published: '2018-04-02T12:56:12+00:00'
+  card_category: Current Events
+color_palette_classname: light-gray
+background_image:
+  image: url(https://smarthernews.com/wp-content/uploads/2018/04/ben-and-brian-2.jpg)
 card_1:
   card_text: |-
     World Autism Awareness Day
@@ -72,12 +80,6 @@ card_10:
   card_text: >-
     [view
     sources](https://smarthernews.com/14-04-02-world-autism-awareness-day/)
-color_palette_classname: light-grey
-meta:
-  card_category: Current Events
-  date_published: '2018-04-02T12:56:12+00:00'
-title: 14.04.02 World Autism Awareness Day - SmartHer News
-section: quickreads
 ---
 Sources
 =======

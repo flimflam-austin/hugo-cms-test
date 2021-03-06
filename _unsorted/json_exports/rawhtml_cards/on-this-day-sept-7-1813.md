@@ -1,4 +1,10 @@
 ---
+title: 'On This Day: Sept. 7, 1813'
+section: quickreads
+meta:
+  date_published: '2018-09-07T11:59:28+00:00'
+  card_category: On This Day
+color_palette_classname: dark-gray
 card_1:
   card_text: |-
     September 7, 1813  
@@ -44,12 +50,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-17-uncle-sam/)
-color_palette_classname: dark-grey
-meta:
-  card_category: On This Day
-  date_published: '2018-09-07T11:59:28+00:00'
-title: 'On This Day: Sept. 7, 1813'
-section: quickreads
 ---
 Sources
 =======

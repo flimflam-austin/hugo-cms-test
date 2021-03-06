@@ -1,4 +1,13 @@
 ---
+title: Tightening Our (Farm) Belt
+section: quickreads
+meta:
+  date_published: '2019-02-12T13:01:46+00:00'
+  card_category: Money
+color_palette_classname: light-green
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/07/jon-phillips-17576-unsplash-scaled.jpg)
 card_1:
   card_text: >-
     Hurt In The Heartland
@@ -37,12 +46,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/farmingbankruptcies/)
-color_palette_classname: light-green
-meta:
-  card_category: Money
-  date_published: '2019-02-12T13:01:46+00:00'
-title: Tightening Our (Farm) Belt
-section: quickreads
 ---
 Sources
 =======

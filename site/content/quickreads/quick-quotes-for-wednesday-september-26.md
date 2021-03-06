@@ -1,4 +1,12 @@
 ---
+title: Quick Quotes for Wednesday, September 26
+section: quickreads
+meta:
+  date_published: '2018-09-26T11:45:14+00:00'
+  card_category: Quotes
+color_palette_classname: light-blue
+background_image:
+  image: url(https://smarthernews.com/wp-content/uploads/2018/09/shn_flag-min.png)
 card_1:
   card_text: >-
     > “It’s not about me. It’s about the Marines who didn’t the appropriate
@@ -40,12 +48,6 @@ card_10:
     Have a great day!
 
     [view sources](https://smarthernews.com/18-09-26-qq/)
-color_palette_classname: light-blue
-meta:
-  card_category: Quotes
-  date_published: '2018-09-26T11:45:14+00:00'
-title: Quick Quotes for Wednesday, September 26
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,13 @@
 ---
+title: SmartHER News Quick Quotes for Tuesday, September 25th
+section: quickreads
+meta:
+  date_published: '2018-09-25T12:13:54+00:00'
+  card_category: Quotes
+color_palette_classname: dark-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/05/daniel-foster-264237-unsplash-scaled.jpg)
 card_1:
   card_text: "> a\x1CThis country has given me everything. Ita\x19s a dream come true.a\x1D\n> \n> Felix Hernandez, 32-year-old pitcher for the Seattle Mariners, after passing his naturalization exam and becoming an American citizen on Monday. A native of Venezuela, Hernandez hopes to bring his parents to the U.S. because of the internal strife in his home country."
 card_2:
@@ -65,12 +74,6 @@ card_10:
     Have a great day!
 
     [view sources](https://smarthernews.com/18-09-25-qq/)
-color_palette_classname: dark-grey
-meta:
-  card_category: Quotes
-  date_published: '2018-09-25T12:13:54+00:00'
-title: SmartHER News Quick Quotes for Tuesday, September 25th
-section: quickreads
 ---
 Sources
 =======

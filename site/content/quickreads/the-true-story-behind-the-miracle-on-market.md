@@ -1,4 +1,13 @@
 ---
+title: The True Story Behind the Miracle on Market
+section: quickreads
+meta:
+  date_published: '2018-09-21T13:29:25+00:00'
+  card_category: Podcast
+color_palette_classname: white
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-20-at-10.20.15-PM.png)
 card_1:
   card_text: |-
     The True Story Behind  
@@ -14,12 +23,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-21-miracle-on-market/)
-color_palette_classname: white
-meta:
-  card_category: Podcast
-  date_published: '2018-09-21T13:29:25+00:00'
-title: The True Story Behind the Miracle on Market
-section: quickreads
 ---
 Sources
 =======

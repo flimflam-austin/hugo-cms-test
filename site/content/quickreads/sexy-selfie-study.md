@@ -1,4 +1,13 @@
 ---
+title: Sexy Selfie Study
+section: quickreads
+meta:
+  date_published: '2018-09-06T12:00:15+00:00'
+  card_category: Beauty
+color_palette_classname: light-pink
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/04/sam-manns-379040-unsplash-scaled.jpg)
 card_1:
   card_text: |-
     Studying The Selfie
@@ -51,12 +60,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-05-sexy-selfie-study/)
-color_palette_classname: light-pink
-meta:
-  card_category: Beauty
-  date_published: '2018-09-06T12:00:15+00:00'
-title: Sexy Selfie Study
-section: quickreads
 ---
 Sources
 =======

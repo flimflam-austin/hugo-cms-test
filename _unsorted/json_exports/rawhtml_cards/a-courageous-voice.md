@@ -1,4 +1,10 @@
 ---
+title: A Courageous Voice
+section: quickreads
+meta:
+  date_published: '2018-08-25T12:40:26+00:00'
+  card_category: Podcast
+color_palette_classname: light-blue
 card_1:
   card_text: >-
     > “I am worried we will become yesterday’s news. That’s why I am risking my
@@ -17,12 +23,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-08-24-nicaragua-podcast/)
-color_palette_classname: light-blue
-meta:
-  card_category: Podcast
-  date_published: '2018-08-25T12:40:26+00:00'
-title: A Courageous Voice
-section: quickreads
 ---
 Sources
 =======

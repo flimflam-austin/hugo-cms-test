@@ -1,4 +1,13 @@
 ---
+title: Will A Crucial Meting Help Keep America Safe?
+section: quickreads
+meta:
+  date_published: '2018-09-06T11:58:32+00:00'
+  card_category: Current Events
+color_palette_classname: dark-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/06/dark-galaxy-wallpaper-night-32237-scaled.jpg)
 card_1:
   card_text: |-
     “Worst Humanitarian Crisis In The World”
@@ -45,12 +54,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-08-18-why-yemen-matters/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Current Events
-  date_published: '2018-09-06T11:58:32+00:00'
-title: Will A Crucial Meting Help Keep America Safe?
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,10 @@
 ---
+title: SmartHER News Quick Quotes for Thursday, November 29, 2018
+section: quickreads
+meta:
+  date_published: '2018-11-29T12:44:44+00:00'
+  card_category: Quotes
+color_palette_classname: dark-blue
 card_1:
   card_text: "> a\x1CHe just amazed me. Hea\x19s my hero. My son is my hero.a\x1D\n> \n> Dawna Duez, mother of Staff Sgt. Dylan Elchin (25) who was killed by a roadside bomb in Afghanistan on Tuesday with two others; Army Capt. Andrew Patrick Ross (29) & Army Sgt. 1st Class Eric Michael Emond (39). Ross, served in the Army for 7 years and is survived by his wife. Emond, served in the Army and Marine Corp for more than two decades. He was on his 7th overseas deployment and leaves behind his wife and 3 children."
 card_2:
@@ -16,12 +22,6 @@ card_10:
     Have a great day!
 
     [view sources](https://smarthernews.com/18-11-28-qq-2/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Quotes
-  date_published: '2018-11-29T12:44:44+00:00'
-title: SmartHER News Quick Quotes for Thursday, November 29, 2018
-section: quickreads
 ---
 Sources
 =======

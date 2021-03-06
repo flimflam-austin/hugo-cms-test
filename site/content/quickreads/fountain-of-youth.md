@@ -1,4 +1,13 @@
 ---
+title: Fountain of Youth
+section: quickreads
+meta:
+  date_published: '2018-09-12T11:59:35+00:00'
+  card_category: Health
+color_palette_classname: dark-pink
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/02/rodolfo-sanches-carvalho-430613-unsplash-360x360.jpg)
 card_1:
   card_text: |-
     FOUNTAIN OF YOUTH
@@ -49,12 +58,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/young-blood/)
-color_palette_classname: dark-pink
-meta:
-  card_category: Health
-  date_published: '2018-09-12T11:59:35+00:00'
-title: Fountain of Youth
-section: quickreads
 ---
 Sources
 =======

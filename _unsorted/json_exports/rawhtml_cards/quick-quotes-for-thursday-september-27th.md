@@ -1,4 +1,10 @@
 ---
+title: Quick Quotes for Thursday, September 27th
+section: quickreads
+meta:
+  date_published: '2018-09-27T12:32:18+00:00'
+  card_category: Quotes
+color_palette_classname: light-pink
 card_1:
   card_text: >-
     > “I want a country without creepy old men, but with due process.”
@@ -76,12 +82,6 @@ card_10:
     Happy Friday Eve! Have a great day!
 
     [view sources](https://smarthernews.com/quick-quotes-9/)
-color_palette_classname: light-pink
-meta:
-  card_category: Quotes
-  date_published: '2018-09-27T12:32:18+00:00'
-title: Quick Quotes for Thursday, September 27th
-section: quickreads
 ---
 Sources
 =======

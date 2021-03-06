@@ -1,4 +1,13 @@
 ---
+title: Quick Quotes for Monday, September 17th
+section: quickreads
+meta:
+  date_published: '2018-09-17T11:54:13+00:00'
+  card_category: Quotes
+color_palette_classname: light-pink
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/09/alexa-mazzarello-223406-unsplash-scaled.jpg)
 card_1:
   card_text: "> “Leta\x19s get to the truth of the matter…. I think this is a\x13 this is really good for the country.”\n> \n> Judge Kenneth Star speaking about a plea deal made between Pres. Trump's fmr. campaign manager, Paul Manafort, and Special Counsel, Robert Mueller. Star led a special counsel investigation into Bill Clinton. Starr says if Mueller can get the truth from Manafort perhaps the country will know once and for all about the \"collusion\" accusations against the President."
 card_2:
@@ -35,12 +44,6 @@ card_10:
     Have a great week!
 
     [view sources](https://smarthernews.com/quick-quotes-6/)
-color_palette_classname: light-pink
-meta:
-  card_category: Quotes
-  date_published: '2018-09-17T11:54:13+00:00'
-title: Quick Quotes for Monday, September 17th
-section: quickreads
 ---
 Sources
 =======

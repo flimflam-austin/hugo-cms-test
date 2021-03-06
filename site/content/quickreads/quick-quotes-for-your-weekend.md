@@ -1,4 +1,13 @@
 ---
+title: Quick Quotes For Your Weekend
+section: quickreads
+meta:
+  date_published: '2018-09-15T13:33:12+00:00'
+  card_category: Quotes
+color_palette_classname: dark-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/08/aliis-sinisalu-299299-unsplash-scaled.jpg)
 card_1:
   card_text: "> “.@khamenei\\_ir fancies himself the leader of the Islamic world, but his regime has been totally silent as Chinaa\x14the top buyer of #Irana\x19s oila\x14has persecuted and detained hundreds of thousands of its Muslim citizens.”\n> \n> Sec. of State Mike Pompeo addressing the leader of Iran in a tweet as the UN reports China holds at least 1 million Uighur Muslims in detention camps to reportedly get them to renounce Islam. China denies this practice."
 card_2:
@@ -30,12 +39,6 @@ card_10:
     Enjoy your weekend!
 
     [view sources](https://smarthernews.com/18-09-15-qq/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Quotes
-  date_published: '2018-09-15T13:33:12+00:00'
-title: Quick Quotes For Your Weekend
-section: quickreads
 ---
 Sources
 =======

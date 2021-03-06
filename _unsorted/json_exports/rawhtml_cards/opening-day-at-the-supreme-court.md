@@ -1,4 +1,10 @@
 ---
+title: Opening Day at the Supreme Court
+section: quickreads
+meta:
+  date_published: '2018-10-01T11:39:46+00:00'
+  card_category: Current Events
+color_palette_classname: light-blue
 card_1:
   card_text: >-
     COURT IN SESSION
@@ -52,12 +58,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-10-01-scotus/)
-color_palette_classname: light-blue
-meta:
-  card_category: Current Events
-  date_published: '2018-10-01T11:39:46+00:00'
-title: Opening Day at the Supreme Court
-section: quickreads
 ---
 Sources
 =======

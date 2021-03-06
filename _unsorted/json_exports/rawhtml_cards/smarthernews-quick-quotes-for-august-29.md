@@ -1,4 +1,10 @@
 ---
+title: SmartHERNews Quick Quotes for August 29
+section: quickreads
+meta:
+  date_published: '2018-08-29T11:47:42+00:00'
+  card_category: Quotes
+color_palette_classname: dark-green
 card_1:
   card_text: "> a\x1CToday, California reforms its bail system so that rich and poor alike are treated fairly.”\n> \n> CA Gov. Jerry Brown signing a new bill into law aimed at abolishing money bail for those awaiting trial and replacing it with a risk-based assessment system focused on the defendant's risk to public safety and likelihood to return to court."
 card_2:
@@ -20,12 +26,6 @@ card_10:
     Have a great day!
 
     [view sources](https://smarthernews.com/18-08-29-qq/)
-color_palette_classname: dark-green
-meta:
-  card_category: Quotes
-  date_published: '2018-08-29T11:47:42+00:00'
-title: SmartHERNews Quick Quotes for August 29
-section: quickreads
 ---
 Sources
 =======

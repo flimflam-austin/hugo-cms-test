@@ -1,4 +1,13 @@
 ---
+title: Quick Quotes Friday
+section: quickreads
+meta:
+  date_published: '2018-08-31T11:50:15+00:00'
+  card_category: Quotes
+color_palette_classname: dark-purple
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/08/hands-1939895_1280.png)
 card_1:
   card_text: >-
     > “We can make chicken.A We can work hard. But if we don’t have peopleA who
@@ -32,12 +41,6 @@ card_10:
     Have a great, long weekend!
 
     [view sources](https://smarthernews.com/quick-quotes/)
-color_palette_classname: dark-purple
-meta:
-  card_category: Quotes
-  date_published: '2018-08-31T11:50:15+00:00'
-title: Quick Quotes Friday
-section: quickreads
 ---
 Sources
 =======

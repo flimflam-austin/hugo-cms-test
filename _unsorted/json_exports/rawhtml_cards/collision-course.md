@@ -1,4 +1,10 @@
 ---
+title: Collision Course
+section: quickreads
+meta:
+  date_published: '2018-08-23T11:12:52+00:00'
+  card_category: Current Events
+color_palette_classname: light-yellow
 card_1:
   card_text: >-
     COLLISION COURSE
@@ -52,12 +58,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-08-23-hawaiian-hurricane/)
-color_palette_classname: light-yellow
-meta:
-  card_category: Current Events
-  date_published: '2018-08-23T11:12:52+00:00'
-title: Collision Course
-section: quickreads
 ---
 Sources
 =======

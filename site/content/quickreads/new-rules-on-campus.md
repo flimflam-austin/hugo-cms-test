@@ -1,4 +1,13 @@
 ---
+title: New Rules On Campus?
+section: quickreads
+meta:
+  date_published: '2018-11-27T12:22:37+00:00'
+  card_category: Now You Know
+color_palette_classname: dark-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/11/trinity-college-405783_640.jpg)
 card_1:
   card_text: >-
     NEW RULES ON CAMPUS?
@@ -65,12 +74,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/18-11-27-sexual-misconduct-on-campus/)
-color_palette_classname: dark-grey
-meta:
-  card_category: Now You Know
-  date_published: '2018-11-27T12:22:37+00:00'
-title: New Rules On Campus?
-section: quickreads
 ---
 Sources
 =======

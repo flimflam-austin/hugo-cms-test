@@ -1,4 +1,13 @@
 ---
+title: Quote Of The Day
+section: quickreads
+meta:
+  date_published: '2018-10-03T21:21:47+00:00'
+  card_category: Quote of the Day
+color_palette_classname: white
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/08/hands-1939895_1280.png)
 card_1:
   card_text: >-
     > _“It’s not that we have to agree. It’s not that we have to believe the
@@ -13,12 +22,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-10-03-qtd/)
-color_palette_classname: white
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-10-03T21:21:47+00:00'
-title: Quote Of The Day
-section: quickreads
 ---
 Sources
 =======

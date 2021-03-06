@@ -1,4 +1,10 @@
 ---
+title: The Cost Of Connection
+section: quickreads
+meta:
+  date_published: '2018-08-23T11:11:59+00:00'
+  card_category: Now You Know
+color_palette_classname: dark-purple
 card_1:
   card_text: >-
     Is The Cost of Constant Connection…Feeling Disconnected?
@@ -47,12 +53,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/18-08-23-digital-connection-vs-human-connection/)
-color_palette_classname: dark-purple
-meta:
-  card_category: Now You Know
-  date_published: '2018-08-23T11:11:59+00:00'
-title: The Cost Of Connection
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,13 @@
 ---
+title: SmartHER News Quick Quotes for September 5
+section: quickreads
+meta:
+  date_published: '2018-09-05T11:54:47+00:00'
+  card_category: Quotes
+color_palette_classname: light-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/04/sebastian-muller-52-unsplash-scaled.jpg)
 card_1:
   card_text: >-
     > “They’re more than just a pair of shoes, the slippers. They’re an enduring
@@ -41,12 +50,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-05-qq/)
-color_palette_classname: light-blue
-meta:
-  card_category: Quotes
-  date_published: '2018-09-05T11:54:47+00:00'
-title: SmartHER News Quick Quotes for September 5
-section: quickreads
 ---
 Sources
 =======

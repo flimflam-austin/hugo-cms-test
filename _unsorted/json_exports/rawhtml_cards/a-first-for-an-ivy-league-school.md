@@ -1,4 +1,10 @@
 ---
+title: A First for an Ivy League School
+section: quickreads
+meta:
+  date_published: '2018-09-20T11:59:28+00:00'
+  card_category: Now You Know
+color_palette_classname: light-blue
 card_1:
   card_text: |-
     To A Certain Degree
@@ -51,12 +57,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/online-ivy-league-degree/)
-color_palette_classname: light-blue
-meta:
-  card_category: Now You Know
-  date_published: '2018-09-20T11:59:28+00:00'
-title: A First for an Ivy League School
-section: quickreads
 ---
 Sources
 =======

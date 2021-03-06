@@ -1,4 +1,10 @@
 ---
+title: Whole vs. Low-Fat Milk
+section: quickreads
+meta:
+  date_published: '2018-09-25T12:16:09+00:00'
+  card_category: Health
+color_palette_classname: white
 card_1:
   card_text: |-
     THE WHOLE ANSWER
@@ -69,12 +75,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-25-milk-study/)
-color_palette_classname: white
-meta:
-  card_category: Health
-  date_published: '2018-09-25T12:16:09+00:00'
-title: Whole vs. Low-Fat Milk
-section: quickreads
 ---
 Sources
 =======

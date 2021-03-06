@@ -1,4 +1,10 @@
 ---
+title: SmartHER News Quick Quotes for Friday, September 28th
+section: quickreads
+meta:
+  date_published: '2018-09-28T11:41:09+00:00'
+  card_category: Quotes
+color_palette_classname: light-gray
 card_1:
   card_text: "> a\x1CI often think to myself, a\x18What would Eleanor have done?'”\n> \n> Meera Gandhi, the current owner of a brownstone in New York City where former First Lady Eleanor Roosevelt lived. The 6-bedroom, 8,000 square foot home is now on sale for nearly $20M; the purchase price includes includes some of Roosevelt's memorabilia."
 card_2:
@@ -26,12 +32,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-28-qq/)
-color_palette_classname: light-grey
-meta:
-  card_category: Quotes
-  date_published: '2018-09-28T11:41:09+00:00'
-title: SmartHER News Quick Quotes for Friday, September 28th
-section: quickreads
 ---
 Sources
 =======

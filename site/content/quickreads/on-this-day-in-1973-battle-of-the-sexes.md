@@ -1,4 +1,13 @@
 ---
+title: 'On This Day in 1973: Battle of the Sexes'
+section: quickreads
+meta:
+  date_published: '2018-09-20T12:00:20+00:00'
+  card_category: On This Day
+color_palette_classname: medium-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/09/ben-hershey-575578-unsplash-1-scaled.jpg)
 card_1:
   card_text: >-
     September 20, 1973
@@ -58,12 +67,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-20-battle-of-the-sexes/)
-color_palette_classname: medium-grey
-meta:
-  card_category: On This Day
-  date_published: '2018-09-20T12:00:20+00:00'
-title: 'On This Day in 1973: Battle of the Sexes'
-section: quickreads
 ---
 Sources
 =======

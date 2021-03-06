@@ -1,4 +1,10 @@
 ---
+title: Top 3 Things To Know
+section: quickreads
+meta:
+  date_published: '2018-10-05T11:41:57+00:00'
+  card_category: Current Events
+color_palette_classname: dark-green
 card_1:
   card_text: >-
     FINAL COUNTDOWN  
@@ -65,12 +71,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/three-things/)
-color_palette_classname: dark-green
-meta:
-  card_category: Current Events
-  date_published: '2018-10-05T11:41:57+00:00'
-title: Top 3 Things To Know
-section: quickreads
 ---
 Sources
 =======

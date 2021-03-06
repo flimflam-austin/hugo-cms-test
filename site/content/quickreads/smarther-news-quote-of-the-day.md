@@ -1,4 +1,13 @@
 ---
+title: SmartHER News Quote of the Day
+section: quickreads
+meta:
+  date_published: '2018-09-04T15:05:50+00:00'
+  card_category: Quote of the Day
+color_palette_classname: medium-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/08/pexels-photo-1092373.jpeg)
 card_1:
   card_text: >-
     > “_There is no job that’s better than another job. It might pay better, it
@@ -12,12 +21,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-04-qtd/)
-color_palette_classname: medium-grey
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-09-04T15:05:50+00:00'
-title: SmartHER News Quote of the Day
-section: quickreads
 ---
 Sources
 =======

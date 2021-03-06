@@ -1,4 +1,13 @@
 ---
+title: Pumpkin Spice-palooza
+section: quickreads
+meta:
+  date_published: '2018-09-24T13:14:49+00:00'
+  card_category: Eats
+color_palette_classname: bronze
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/09/erik-witsoe-366893-unsplash-min-scaled.jpg)
 card_1:
   card_text: >-
     A Taste of Autumn
@@ -53,12 +62,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/pumpkin-spice/)
-color_palette_classname: bronze
-meta:
-  card_category: Eats
-  date_published: '2018-09-24T13:14:49+00:00'
-title: Pumpkin Spice-palooza
-section: quickreads
 ---
 Sources
 =======

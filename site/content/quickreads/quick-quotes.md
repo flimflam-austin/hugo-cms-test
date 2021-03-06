@@ -1,4 +1,13 @@
 ---
+title: Quick Quotes
+section: quickreads
+meta:
+  date_published: '2018-08-30T11:12:18+00:00'
+  card_category: Quotes
+color_palette_classname: white
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/08/800px-Aretha_Franklin_on_January_20_2009.jpg)
 card_1:
   card_text: "> a\x1CI never got to meet her, I never got to tell her that I love her. But Ia\x19ll be damned if I aina\x19t gonna say goodbye to her. She saved my life.a\x1D\n> \n> Rhonda Jefferson paying her respects to Aretha Franklin. Ms. Jefferson said Franklin's music inspired her to leave an abusive relationship. Franklin's funeral is Friday at 10am ET in Detroit. Stevie Wonder, Ariana Grande & Faith Hill will perform."
 card_2:
@@ -42,12 +51,6 @@ card_10:
     Have a great day!
 
     [view sources](https://smarthernews.com/quick-quotes-august-30/)
-color_palette_classname: white
-meta:
-  card_category: Quotes
-  date_published: '2018-08-30T11:12:18+00:00'
-title: Quick Quotes
-section: quickreads
 ---
 Sources
 =======

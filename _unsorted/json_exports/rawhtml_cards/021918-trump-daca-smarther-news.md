@@ -1,4 +1,10 @@
 ---
+title: 02.19.18 Trump DACA - SmartHer News
+section: quickreads
+meta:
+  date_published: '2018-03-20T11:00:54+00:00'
+  card_category: From The President’s Desk
+color_palette_classname: light-gray
 card_1:
   card_text: |-
     Gov’t Shutdown Looms
@@ -62,12 +68,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/02-19-18-trump-daca/)
-color_palette_classname: light-grey
-meta:
-  card_category: From The President’s Desk
-  date_published: '2018-03-20T11:00:54+00:00'
-title: 02.19.18 Trump DACA - SmartHer News
-section: quickreads
 ---
 Sources
 =======

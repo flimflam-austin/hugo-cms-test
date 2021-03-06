@@ -1,4 +1,10 @@
 ---
+title: SmartHER News Quick Quotes For Your Weekend Reading
+section: quickreads
+meta:
+  date_published: '2018-09-29T03:18:03+00:00'
+  card_category: Quotes
+color_palette_classname: light-yellow
 card_1:
   card_text: "> a\x1CIa\x19ve ordered the FBI to conduct a supplemental investigation to update Judge Kavanaugha\x19s file. As the Senate has requested, this update must be limited in scope and completed in less than one week.a\x1D\n> \n> Pres. Trump following the Senate Judiciary Cmte's request that he direct the FBI to update its investigation into Kavanaugh. The cmte's request came after it voted along party lines (11-10) to send the nomination to the full Senate."
 card_2:
@@ -26,12 +32,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/quick-quotes-for-your-weekend-reading/)
-color_palette_classname: light-yellow
-meta:
-  card_category: Quotes
-  date_published: '2018-09-29T03:18:03+00:00'
-title: SmartHER News Quick Quotes For Your Weekend Reading
-section: quickreads
 ---
 Sources
 =======

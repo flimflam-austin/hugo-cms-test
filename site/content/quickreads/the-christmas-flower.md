@@ -1,4 +1,13 @@
 ---
+title: The Christmas Flower
+section: quickreads
+meta:
+  date_published: '2018-12-07T13:02:47+00:00'
+  card_category: Now You Know
+color_palette_classname: dark-pink
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/12/1600px-Poinsettia_thumbnail-min.jpg)
 card_1:
   card_text: >-
     The Christmas Flower
@@ -71,12 +80,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/poinsettia/)
-color_palette_classname: dark-pink
-meta:
-  card_category: Now You Know
-  date_published: '2018-12-07T13:02:47+00:00'
-title: The Christmas Flower
-section: quickreads
 ---
 Sources
 =======

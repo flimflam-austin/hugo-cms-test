@@ -1,4 +1,13 @@
 ---
+title: Quick Quotes for Thursday, September 13th
+section: quickreads
+meta:
+  date_published: '2018-09-13T12:01:07+00:00'
+  card_category: Quotes
+color_palette_classname: light-yellow
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/03/sasha-lebedeva-323205-unsplash-scaled.jpg)
 card_1:
   card_text: >-
     > “This is not going to be a glancing blow. This is going to be a Mike Tyson
@@ -39,12 +48,6 @@ card_5:
   card_text: "> a\x1CWe have branding opportunities right there.”\n> \n> Jim Bridenstine, NASA administrator, on the possibilities of corporate sponsorship for NASA missions, including branding on rockets and the International Space Station. Critics warn it creates a conflict of interest between private companies & public interest and may violate NASA's own rules."
 card_10:
   card_text: '[view sources](https://smarthernews.com/quick-quotes-5/)'
-color_palette_classname: light-yellow
-meta:
-  card_category: Quotes
-  date_published: '2018-09-13T12:01:07+00:00'
-title: Quick Quotes for Thursday, September 13th
-section: quickreads
 ---
 Sources
 =======

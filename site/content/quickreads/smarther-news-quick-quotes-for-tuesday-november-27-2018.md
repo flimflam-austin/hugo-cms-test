@@ -1,4 +1,13 @@
 ---
+title: SmartHER News Quick Quotes for Tuesday, November 27, 2018
+section: quickreads
+meta:
+  date_published: '2018-11-27T12:32:07+00:00'
+  card_category: Quotes
+color_palette_classname: light-pink
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/11/PIA04591orig-min.jpg)
 card_1:
   card_text: "> a\x1CFlawless.”\n> \n> Rob Manning, NASAa\x19s Jet Propulsion Laboratory chief engineer, on three-legged spacecraft InSight's autonomous landing on Mars after a perilous 6-minute decent. In a first of its kind 2-year mission, the probe will dig into Mars' core to learn more about how rocky planets like it in our solar system differ so greatly from Earth. The last time NASA touched down on Mars was 2012."
 card_2:
@@ -31,12 +40,6 @@ card_5:
   card_text: "> “Therea\x19s no guarantee that this ita\x19s going to stay SUV, SUV, SUV, SUV. …it could be problematic for them.”\n> \n> Mike Ramsey, Gartner transportation analyst, on General Motors decision to end production of smaller passenger cars like the Chevrolet Cruze, laying off 14K+ employees and closing plants in Michigan, Ohio, Maryland & Canada. GM says the move will save the company an est. $6B by 2020; The United Auto Workers union says it will fight the decision."
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-11-27-qq/)'
-color_palette_classname: light-pink
-meta:
-  card_category: Quotes
-  date_published: '2018-11-27T12:32:07+00:00'
-title: SmartHER News Quick Quotes for Tuesday, November 27, 2018
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,13 @@
 ---
+title: A Once In A Lifetime College GameDay Experience
+section: quickreads
+meta:
+  date_published: '2018-08-25T04:39:00+00:00'
+  card_category: Travel
+color_palette_classname: light-green
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/08/IMG_4905-1-1-scaled.jpg)
 card_1:
   card_text: >-
     SmartHER Adventure:  
@@ -68,12 +77,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-08-24-notre-dame/)
-color_palette_classname: light-green
-meta:
-  card_category: Travel
-  date_published: '2018-08-25T04:39:00+00:00'
-title: A Once In A Lifetime College GameDay Experience
-section: quickreads
 ---
 Sources
 =======

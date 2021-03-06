@@ -1,4 +1,13 @@
 ---
+title: Midterm Anomaly?
+section: quickreads
+meta:
+  date_published: '2018-10-30T11:33:06+00:00'
+  card_category: Current Events
+color_palette_classname: dark-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/06/arnaud-jaegers-253360-unsplash-scaled.jpg)
 card_1:
   card_text: >-
     MIDTERM ANOMALY?
@@ -40,12 +49,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-10-30-voter-turnout/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Current Events
-  date_published: '2018-10-30T11:33:06+00:00'
-title: Midterm Anomaly?
-section: quickreads
 ---
 Sources
 =======

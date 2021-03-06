@@ -1,14 +1,17 @@
 ---
+title: 'Quote of the Day: Michael Jackson'
+section: quickreads
+meta:
+  date_published: '2018-11-30T12:33:48+00:00'
+  card_category: Quote of the Day
+color_palette_classname: dark-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/03/adrian-korte-76051-unsplash-scaled.jpg)
 card_1:
   card_text: "> _a\x1CNever forget where your talent came from, that your talent is a gift from God.a\x1D_"
 card_10:
   card_text: "Michael Jackson recalling what Ed Sullivan told him during their first meeting. On this day, in 1982, the \"Thriller\" album debuted - a worldwide sensation. Only in August this year, the Eaglesa\x19 Greatest Hits topped it as the best-selling album of all time.\n\n[view sources](https://smarthernews.com/18-11-30-jackson-qtd/)"
-color_palette_classname: dark-grey
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-11-30T12:33:48+00:00'
-title: 'Quote of the Day: Michael Jackson'
-section: quickreads
 ---
 Sources
 =======

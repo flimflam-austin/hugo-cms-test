@@ -1,4 +1,10 @@
 ---
+title: 'ON THIS DAY: Oct 4, 1927'
+section: quickreads
+meta:
+  date_published: '2018-10-04T15:06:45+00:00'
+  card_category: On This Day
+color_palette_classname: dark-purple
 card_1:
   card_text: |-
     Oct 4, 1927
@@ -78,12 +84,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-10-04-mount-rushmore/)
-color_palette_classname: dark-purple
-meta:
-  card_category: On This Day
-  date_published: '2018-10-04T15:06:45+00:00'
-title: 'ON THIS DAY: Oct 4, 1927'
-section: quickreads
 ---
 Sources
 =======

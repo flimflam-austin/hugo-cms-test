@@ -1,4 +1,10 @@
 ---
+title: SmartHER News Quick Quotes for September 12th
+section: quickreads
+meta:
+  date_published: '2018-09-12T12:00:13+00:00'
+  card_category: Quotes
+color_palette_classname: dark-gray
 card_1:
   card_text: >-
     > “Let me tell you, this one really scares me.”
@@ -50,12 +56,6 @@ card_6:
   card_text: "> “She was very cooperative.”\n> \n> Brian Hale, Tuscarawas County Sheriffa\x19s Deputy, after charging a Giant Eagle grocery store employee with felony theft after she nibbled on deli meat, daily for 8 years. The store's loss prevention manager calculated the 3-5 slices of ham per shift was worth $9,200. Authorities say she also occasionally ate salami."
 card_10:
   card_text: '[view sources](https://smarthernews.com/quick-quotes-4/)'
-color_palette_classname: dark-grey
-meta:
-  card_category: Quotes
-  date_published: '2018-09-12T12:00:13+00:00'
-title: SmartHER News Quick Quotes for September 12th
-section: quickreads
 ---
 Sources
 =======

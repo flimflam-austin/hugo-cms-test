@@ -1,4 +1,13 @@
 ---
+title: Quick Quotes for February 6, 2019
+section: quickreads
+meta:
+  date_published: '2019-02-06T13:38:32+00:00'
+  card_category: Quotes
+color_palette_classname: light-purple
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2019/01/kacper-szczechla-179611-unsplash-scaled.jpg)
 card_1:
   card_text: >-
     > “Everyone is going around like billiard balls trying to get up and down
@@ -41,12 +50,6 @@ card_5:
   card_text: "> a\x1CRed tidea\x19s impact was significant…our initiative is to give back. Our philosophy is every little bit helps.a\x1D\n> \n> Brian Gorski, Coastal Conservation Assoc. exec. dir., as more than 16K fish are released in southwest Florida waters in an effort to recover from last year's red tide, Florida's worse in a decade, which killed 267 tons of marine life. The red tide is caused by toxins released from dead algae; it can be deadly to wildlife and irritate humans."
 card_10:
   card_text: '[view sources](https://smarthernews.com/qq-21/)'
-color_palette_classname: light-purple
-meta:
-  card_category: Quotes
-  date_published: '2019-02-06T13:38:32+00:00'
-title: Quick Quotes for February 6, 2019
-section: quickreads
 ---
 Sources
 =======

@@ -1,7 +1,21 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- range .Site.RegularPages -}}
-    {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "categories" .Params.categories "summary" .Plain "permalink" .Permalink "section" .Params.section "date" .Params.meta.date_published) -}}
-    {{- if .Section "quickreads" -}}
-        {{- $cardcontent := -}}
+    
+    {{- if eq .Params.section "quickreads" -}}
+        {{- $card01 := (.Params.card_01.card_text | htmlUnescape | markdownify | plainify) -}}
+        {{- $card02 := (.Params.card_02.card_text | htmlUnescape | markdownify | plainify) -}}
+        {{- $card03 := (.Params.card_03.card_text | htmlUnescape | markdownify | plainify) -}}
+        {{- $card04 := (.Params.card_04.card_text | htmlUnescape | markdownify | plainify) -}}
+        {{- $card05 := (.Params.card_05.card_text | htmlUnescape | markdownify | plainify) -}}
+        {{- $card06 := (.Params.card_06.card_text | htmlUnescape | markdownify | plainify) -}}
+        {{- $card07 := (.Params.card_07.card_text | htmlUnescape | markdownify | plainify) -}}
+        {{- $card08 := (.Params.card_08.card_text | htmlUnescape | markdownify | plainify) -}}
+        {{- $card09 := (.Params.card_09.card_text | htmlUnescape | markdownify | plainify) -}}
+        {{- $card10 := (.Params.card_10.card_text | htmlUnescape | markdownify | plainify) -}}
+        {{- $cardcontent := (print $card01 $card02 $card03 $card04 $card05 $card06 $card07 $card08 $card09 $card10 (.Content | markdownify | plainify)) -}}
+        {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "categories" .Params.categories "summary" $cardcontent "permalink" .Permalink "section" .Params.section "date" .Params.meta.date_published) -}}
+    {{- else -}}
+        {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "categories" .Params.categories "summary" .Plain "permalink" .Permalink "section" .Params.section "date" .Params.meta.date_published) -}}
+    {{- end -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify (dict "indent" "  ") -}}

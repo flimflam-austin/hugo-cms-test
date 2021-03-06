@@ -1,4 +1,13 @@
 ---
+title: 'Quote of the Day: Mariah Carey'
+section: quickreads
+meta:
+  date_published: '2018-12-07T13:03:09+00:00'
+  card_category: Quote of the Day
+color_palette_classname: white
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/12/background-balls-boxes-1303098-scaled.jpg)
 card_1:
   card_text: >-
     > “_I felt like it was a little bit too early in my career to be doing a
@@ -14,12 +23,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/qtd-mariah-carey/)
-color_palette_classname: white
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-12-07T13:03:09+00:00'
-title: 'Quote of the Day: Mariah Carey'
-section: quickreads
 ---
 Sources
 =======

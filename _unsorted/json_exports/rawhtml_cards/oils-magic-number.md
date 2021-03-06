@@ -1,4 +1,10 @@
 ---
+title: Oil's Magic Number
+section: quickreads
+meta:
+  date_published: '2018-11-29T12:36:03+00:00'
+  card_category: Money
+color_palette_classname: dark-purple
 card_1:
   card_text: >-
     OIL’S MAGIC NUMBER  
@@ -73,12 +79,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-11-29-oils-magic-number/)
-color_palette_classname: dark-purple
-meta:
-  card_category: Money
-  date_published: '2018-11-29T12:36:03+00:00'
-title: Oil's Magic Number
-section: quickreads
 ---
 Sources
 =======

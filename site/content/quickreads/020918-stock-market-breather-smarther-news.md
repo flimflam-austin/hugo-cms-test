@@ -1,4 +1,12 @@
 ---
+title: 02.09.18 Stock Market Breather - SmartHer News
+section: quickreads
+meta:
+  date_published: '2018-02-09T19:33:12+00:00'
+  card_category: Current Events
+color_palette_classname: light-green
+background_image:
+  image: url(https://smarthernews.com/wp-content/uploads/2018/01/money-360x360.jpg)
 card_1:
   card_text: >-
     Stock Market: Bottom Line
@@ -35,12 +43,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/02-09-18-stock-market-breather/)
-color_palette_classname: light-green
-meta:
-  card_category: Current Events
-  date_published: '2018-02-09T19:33:12+00:00'
-title: 02.09.18 Stock Market Breather - SmartHer News
-section: quickreads
 ---
 Sources
 =======

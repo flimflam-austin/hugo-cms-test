@@ -1,4 +1,13 @@
 ---
+title: SmartHERNews Quick Quotes for Wednesday, October 3, 2018
+section: quickreads
+meta:
+  date_published: '2018-10-03T11:45:12+00:00'
+  card_category: Quotes
+color_palette_classname: dark-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/04/auto-automobile-blur-532001-scaled.jpg)
 card_1:
   card_text: >-
     > “…we can confirm that we are working jointly with our law enforcement
@@ -62,12 +71,6 @@ card_6:
     support our president, bottom line, no matter who they are."
 card_10:
   card_text: '[view sources](https://smarthernews.com/quick-quotes-10/)'
-color_palette_classname: dark-blue
-meta:
-  card_category: Quotes
-  date_published: '2018-10-03T11:45:12+00:00'
-title: SmartHERNews Quick Quotes for Wednesday, October 3, 2018
-section: quickreads
 ---
 Sources
 =======

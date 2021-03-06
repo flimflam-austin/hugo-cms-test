@@ -1,4 +1,10 @@
 ---
+title: Gisele BA1/4ndchen on start as a model
+section: quickreads
+meta:
+  date_published: '2018-09-27T12:41:08+00:00'
+  card_category: Quote of the Day
+color_palette_classname: light-green
 card_1:
   card_text: >-
     One of the highest-paid supermodels in the world reveals her rough start in
@@ -7,12 +13,6 @@ card_1:
 
 
     [view sources](https://smarthernews.com/quote-of-the-day/)
-color_palette_classname: light-green
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-09-27T12:41:08+00:00'
-title: Gisele BA1/4ndchen on start as a model
-section: quickreads
 ---
 Sources
 =======

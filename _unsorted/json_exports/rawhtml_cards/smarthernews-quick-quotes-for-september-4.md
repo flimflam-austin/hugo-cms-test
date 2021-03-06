@@ -1,4 +1,10 @@
 ---
+title: SmartHERNews Quick Quotes for September 4
+section: quickreads
+meta:
+  date_published: '2018-09-04T11:59:56+00:00'
+  card_category: Quotes
+color_palette_classname: light-blue
 card_1:
   card_text: >-
     > “The sacrifice of our service member, who volunteered for a mission to
@@ -44,12 +50,6 @@ card_10:
     Have a great week!
 
     [view sources](https://smarthernews.com/18-09-04-qq/)
-color_palette_classname: light-blue
-meta:
-  card_category: Quotes
-  date_published: '2018-09-04T11:59:56+00:00'
-title: SmartHERNews Quick Quotes for September 4
-section: quickreads
 ---
 Sources
 =======

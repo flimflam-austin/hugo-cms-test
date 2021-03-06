@@ -1,4 +1,13 @@
 ---
+title: Catholic Church
+section: quickreads
+meta:
+  date_published: '2018-08-27T11:54:11+00:00'
+  card_category: Current Events
+color_palette_classname: dark-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/08/nacho-arteaga-149521-unsplash-scaled.jpg)
 card_1:
   card_text: >-
     “Shame & Sorrow”
@@ -71,12 +80,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/catholic-church/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Current Events
-  date_published: '2018-08-27T11:54:11+00:00'
-title: Catholic Church
-section: quickreads
 ---
 Sources
 =======

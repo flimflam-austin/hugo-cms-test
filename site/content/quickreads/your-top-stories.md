@@ -1,4 +1,13 @@
 ---
+title: Your Top Stories
+section: quickreads
+meta:
+  date_published: '2018-12-06T02:59:46+00:00'
+  card_category: Quotes
+color_palette_classname: light-pink
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/02/dawid-sobolewski-271380-360x360.jpg)
 card_1:
   card_text: >-
     > “To us, his was the brightest of the thousand points of light.”
@@ -33,12 +42,6 @@ card_10:
     Have a great day!
 
     [view sources](https://smarthernews.com/18-12-06-qq/)
-color_palette_classname: light-pink
-meta:
-  card_category: Quotes
-  date_published: '2018-12-06T02:59:46+00:00'
-title: Your Top Stories
-section: quickreads
 ---
 Sources
 =======

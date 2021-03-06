@@ -1,4 +1,10 @@
 ---
+title: RUSSIA RECAP
+section: quickreads
+meta:
+  date_published: '2018-11-30T13:00:34+00:00'
+  card_category: Current Events
+color_palette_classname: light-gray
 card_1:
   card_text: |-
     RUSSIA RECAP
@@ -58,12 +64,6 @@ card_4:
     **Syria**, **Iran** and **North Korea**.
 card_10:
   card_text: "The Kremlin expressed regret over the cancelled meeting, but a foreign ministry spokeswoman quoted by Russian news agencies questioned the motivation for cancelling the meeting, saying \"I believe we should look for answers in the U.S. domestic political situation.a\x1D\n\n[view sources](https://smarthernews.com/18-11-30-russia/)"
-color_palette_classname: light-grey
-meta:
-  card_category: Current Events
-  date_published: '2018-11-30T13:00:34+00:00'
-title: RUSSIA RECAP
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,13 @@
 ---
+title: The Rise of The Mini Books
+section: quickreads
+meta:
+  date_published: '2018-08-14T11:54:36+00:00'
+  card_category: Now You Know
+color_palette_classname: light-green
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/08/thought-catalog-688793-unsplash-scaled.jpg)
 card_1:
   card_text: >-
     The Rise of The Mini Book
@@ -35,12 +44,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-08-11-mini-books/)
-color_palette_classname: light-green
-meta:
-  card_category: Now You Know
-  date_published: '2018-08-14T11:54:36+00:00'
-title: The Rise of The Mini Books
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,13 @@
 ---
+title: White House Christmas Tree Lighting
+section: quickreads
+meta:
+  date_published: '2018-11-28T13:35:49+00:00'
+  card_category: Now You Know
+color_palette_classname: dark-green
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/11/Christmas_tree_outside_White_House_Washington_D.C._LCCN2016892945.tif.jpg)
 card_1:
   card_text: >-
     AMERICA’S TREE
@@ -51,12 +60,6 @@ card_4:
     as an event supplier for inaugurations and D.C. events
 card_10:
   card_text: "On Nov. 28, the White House will hold its annual Christmas Tree Lighting Ceremony at dark in Presidenta\x19s Park. 56 schools have designed ornaments for the 56 trees that surround the National Tree, representing 56 U.S. states, territories, and D.C.\n\n[view sources](https://smarthernews.com/18-11-28-wh-christmas-tree-lighting/)"
-color_palette_classname: dark-green
-meta:
-  card_category: Now You Know
-  date_published: '2018-11-28T13:35:49+00:00'
-title: White House Christmas Tree Lighting
-section: quickreads
 ---
 Sources
 =======

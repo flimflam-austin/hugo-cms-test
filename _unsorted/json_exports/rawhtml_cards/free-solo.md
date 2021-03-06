@@ -1,4 +1,10 @@
 ---
+title: Free Solo
+section: quickreads
+meta:
+  date_published: '2018-09-28T11:12:32+00:00'
+  card_category: Worth-It-To-See
+color_palette_classname: medium-gray
 card_1:
   card_text: >-
     > Watch the first person to climb Yosemite’s El Capitan 3,200 wall of
@@ -11,12 +17,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-28-yosemite-el-capitan/)
-color_palette_classname: medium-grey
-meta:
-  card_category: Worth-It-To-See
-  date_published: '2018-09-28T11:12:32+00:00'
-title: Free Solo
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,10 @@
 ---
+title: What is Sexual Assault?
+section: quickreads
+meta:
+  date_published: '2018-09-25T12:00:04+00:00'
+  card_category: Now You Know
+color_palette_classname: light-purple
 card_1:
   card_text: >-
     The Truth Of This Term
@@ -38,12 +44,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-25-what-is-sexual-assault/)
-color_palette_classname: light-purple
-meta:
-  card_category: Now You Know
-  date_published: '2018-09-25T12:00:04+00:00'
-title: What is Sexual Assault?
-section: quickreads
 ---
 Sources
 =======

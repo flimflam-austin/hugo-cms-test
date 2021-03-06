@@ -1,4 +1,13 @@
 ---
+title: Lying In State
+section: quickreads
+meta:
+  date_published: '2018-08-31T11:50:37+00:00'
+  card_category: Now You Know
+color_palette_classname: dark-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/02/jomar-thomas-271602-1-360x360.jpg)
 card_1:
   card_text: >-
     “Lying In State”
@@ -46,12 +55,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-08-31-lying-in-state/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Now You Know
-  date_published: '2018-08-31T11:50:37+00:00'
-title: Lying In State
-section: quickreads
 ---
 Sources
 =======

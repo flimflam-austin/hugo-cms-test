@@ -1,4 +1,10 @@
 ---
+title: Quick Quotes for December 7, 2018
+section: quickreads
+meta:
+  date_published: '2018-12-07T13:02:11+00:00'
+  card_category: Quotes
+color_palette_classname: light-purple
 card_1:
   card_text: >-
     > “We cannot take the risk when we know the threat.”
@@ -44,12 +50,6 @@ card_10:
     Have a great weekend!
 
     [view sources](https://smarthernews.com/quick-quotes-22/)
-color_palette_classname: light-purple
-meta:
-  card_category: Quotes
-  date_published: '2018-12-07T13:02:11+00:00'
-title: Quick Quotes for December 7, 2018
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,13 @@
 ---
+title: Shooter at YouTube - SmartHer News
+section: quickreads
+meta:
+  date_published: '2018-04-04T10:50:33+00:00'
+  card_category: Current Events
+color_palette_classname: light-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/02/ricardo-gomez-angel-298363-e1586707966478-367x367.jpg)
 card_1:
   card_text: >-
     > “It was a woman, and she was firing her gun. And I just said, ‘Shooter’,
@@ -40,12 +49,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/shooter-at-youtube/)
-color_palette_classname: light-grey
-meta:
-  card_category: Current Events
-  date_published: '2018-04-04T10:50:33+00:00'
-title: Shooter at YouTube - SmartHer News
-section: quickreads
 ---
 Sources
 =======

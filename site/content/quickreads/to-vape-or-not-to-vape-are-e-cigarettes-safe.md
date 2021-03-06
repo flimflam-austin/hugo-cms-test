@@ -1,4 +1,13 @@
 ---
+title: To Vape Or Not To Vape? Are E-Cigarettes Safe?
+section: quickreads
+meta:
+  date_published: '2018-08-30T11:11:52+00:00'
+  card_category: Health
+color_palette_classname: dark-gray
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/08/daniel-thurler-520535-unsplash-scaled-e1577131091734.jpg)
 card_1:
   card_text: >-
     To Vape Or  
@@ -63,12 +72,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-08-30-cigarettes-vaping/)
-color_palette_classname: dark-grey
-meta:
-  card_category: Health
-  date_published: '2018-08-30T11:11:52+00:00'
-title: To Vape Or Not To Vape? Are E-Cigarettes Safe?
-section: quickreads
 ---
 Sources
 =======

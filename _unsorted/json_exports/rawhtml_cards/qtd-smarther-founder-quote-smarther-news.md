@@ -1,4 +1,10 @@
 ---
+title: QTD SmartHER Founder Quote - SmartHer News
+section: quickreads
+meta:
+  date_published: '2018-09-27T03:03:44+00:00'
+  card_category: Quote of the Day
+color_palette_classname: light-green
 card_1:
   card_text: '> _“‘Opinion’ journalism is an excuse for a lack of discipline.”_'
 card_10:
@@ -10,12 +16,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/qtd-smarther-founder-quote/)
-color_palette_classname: light-green
-meta:
-  card_category: Quote of the Day
-  date_published: '2018-09-27T03:03:44+00:00'
-title: QTD SmartHER Founder Quote - SmartHer News
-section: quickreads
 ---
 Sources
 =======

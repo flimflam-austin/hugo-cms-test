@@ -1,4 +1,10 @@
 ---
+title: The History of Memorial Day
+section: quickreads
+meta:
+  date_published: '2019-05-24T13:18:23+00:00'
+  card_category: Now You Know
+color_palette_classname: dark-purple
 card_1:
   card_text: '> The history of Memorial Day is a story few ever know.'
 card_2:
@@ -60,12 +66,6 @@ card_5:
     for their service…”
 card_10:
   card_text: "a\x1CWe should guard their graves with sacred vigilance...Let no neglect, no ravages of time, testify to the present or to the coming generations that we have forgotten as a people the cost of a free and undivided republic.a\x1D\n\n[view sources](https://smarthernews.com/18-05-25-memorial-day-history/)"
-color_palette_classname: dark-purple
-meta:
-  card_category: Now You Know
-  date_published: '2019-05-24T13:18:23+00:00'
-title: The History of Memorial Day
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,10 @@
 ---
+title: SmartHER News Quick Quotes for Sept 6
+section: quickreads
+meta:
+  date_published: '2018-09-06T11:57:02+00:00'
+  card_category: Quotes
+color_palette_classname: light-purple
 card_1:
   card_text: >-
     > “Monumental day for the sport of surfing but really way beyond!!!”
@@ -27,12 +33,6 @@ card_4:
   card_text: "> a\x1CI dona\x19t want to search until Ia\x19m 80. But if I have to, I will.a\x1D\n> \n> 24-year-old Kimberley HeavyRunner Loring, a member of The Blackfeet Nation, who is looking for her sister Ashley. No official numbers exist on missing Native American women because many go unreported and there's no official federal database."
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-09-06-qq/)'
-color_palette_classname: light-purple
-meta:
-  card_category: Quotes
-  date_published: '2018-09-06T11:57:02+00:00'
-title: SmartHER News Quick Quotes for Sept 6
-section: quickreads
 ---
 Sources
 =======

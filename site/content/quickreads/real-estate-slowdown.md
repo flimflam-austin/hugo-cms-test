@@ -1,4 +1,13 @@
 ---
+title: Real Estate Slowdown?
+section: quickreads
+meta:
+  date_published: '2018-09-05T11:55:14+00:00'
+  card_category: Money
+color_palette_classname: dark-brown
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/03/stone-house-443564_1920-e1584919890985.jpg)
 card_1:
   card_text: >-
     REALTY CHECK
@@ -48,12 +57,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/real-estate-slowdown/)
-color_palette_classname: dark-brown
-meta:
-  card_category: Money
-  date_published: '2018-09-05T11:55:14+00:00'
-title: Real Estate Slowdown?
-section: quickreads
 ---
 Sources
 =======

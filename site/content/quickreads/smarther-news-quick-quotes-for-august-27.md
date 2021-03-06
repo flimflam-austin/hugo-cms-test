@@ -1,4 +1,13 @@
 ---
+title: SmartHER News Quick Quotes for August 27
+section: quickreads
+meta:
+  date_published: '2018-08-27T11:56:58+00:00'
+  card_category: Quotes
+color_palette_classname: dark-brown
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/05/Serena_Williams_Serve_Wimbledon.jpg)
 card_1:
   card_text: >-
     > “You can take the superhero out of her costume, but you can never take
@@ -47,12 +56,6 @@ card_5:
     Senate Office Building after Sen. John McCain.
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-08-27-qq/)'
-color_palette_classname: dark-brown
-meta:
-  card_category: Quotes
-  date_published: '2018-08-27T11:56:58+00:00'
-title: SmartHER News Quick Quotes for August 27
-section: quickreads
 ---
 Sources
 =======

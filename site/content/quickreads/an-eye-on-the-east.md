@@ -1,4 +1,13 @@
 ---
+title: AN EYE ON THE EAST
+section: quickreads
+meta:
+  date_published: '2019-01-08T13:19:22+00:00'
+  card_category: Current Events
+color_palette_classname: light-blue
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/02/nicole-harrington-483074-unsplash-360x360.jpg)
 card_1:
   card_text: >-
     AN EYE ON THE EAST
@@ -72,12 +81,6 @@ card_10:
 
     [view
     sources](https://smarthernews.com/19-01-08-pompeo-trip-to-middle-east/)
-color_palette_classname: light-blue
-meta:
-  card_category: Current Events
-  date_published: '2019-01-08T13:19:22+00:00'
-title: AN EYE ON THE EAST
-section: quickreads
 ---
 Sources
 =======

@@ -1,4 +1,10 @@
 ---
+title: Should We Amend The Constitution?
+section: quickreads
+meta:
+  date_published: '2019-04-30T12:02:03+00:00'
+  card_category: Now You Know
+color_palette_classname: dark-blue
 card_1:
   card_text: >-
     Should We Amend The Constitution?
@@ -84,12 +90,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/era/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Now You Know
-  date_published: '2019-04-30T12:02:03+00:00'
-title: Should We Amend The Constitution?
-section: quickreads
 ---
 Sources
 =======

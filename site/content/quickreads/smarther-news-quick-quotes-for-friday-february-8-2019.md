@@ -1,4 +1,13 @@
 ---
+title: SmartHER News Quick Quotes for Friday, February 8, 2019
+section: quickreads
+meta:
+  date_published: '2019-02-08T14:03:20+00:00'
+  card_category: Quotes
+color_palette_classname: light-yellow
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/05/nathan-dumlao-583574-unsplash-scaled.jpg)
 card_1:
   card_text: "> a\x1CIt gives us hope that this history will be sustained and improved upon and captured and passed on from generation to generation.a\x1D\n> \n> Anderson Flen speaking about preserving the history of Africatown, Alabama, a town created by the 100+ last slaves kidnapped from West Africa to America in 1860 despite a law banning the slave trade. After the Civil War, the community built by freed slaves grew to more than 10,000 w/its own gova\x19t. Descendants will gather Saturday to celebrate their shared heritage."
 card_2:
@@ -24,12 +33,6 @@ card_10:
     Have a great weekend!
 
     [view sources](https://smarthernews.com/qq-23/)
-color_palette_classname: light-yellow
-meta:
-  card_category: Quotes
-  date_published: '2019-02-08T14:03:20+00:00'
-title: SmartHER News Quick Quotes for Friday, February 8, 2019
-section: quickreads
 ---
 Sources
 =======

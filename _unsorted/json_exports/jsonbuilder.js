@@ -51,8 +51,62 @@ const CONFIG = Object({
 
 exports.processCardsToJSON = (dom, filename) => {
 	let cardTemplate = {};
+
 	const cards = dom.window.document.querySelectorAll(`.${CONFIG.cardClass}`);
 	if (cards[0]) {
+		/* Card Title */
+		const pageTitle = dom.window.document.querySelector("title").innerHTML;
+		cardTemplate.title = pageTitle;
+
+		/* Card Section */
+		cardTemplate.section = "quickreads";
+
+		/* start meta */
+		cardTemplate.meta = {};
+
+		/* Card Date */
+		const maybeDate = dom.window.document.querySelector(
+			"meta[property='article:published_time']"
+		);
+		if (maybeDate) {
+			cardTemplate.meta.date_published = maybeDate.getAttribute(
+				"content"
+			);
+		}
+
+		/* Card Category */
+		const cardCategory = dom.window.document.querySelector(".card-header");
+
+		cardTemplate.meta.card_category =
+			cardCategory.textContent || cardCategory.innerText;
+
+		/* Card Color */
+		const cardColor = [...cards[0].classList].filter((className) =>
+			className.startsWith("card-color")
+		);
+		if (cardColor) {
+			cardTemplate.color_palette_classname = cardColor[0]
+				.replace("card-color-", "")
+				.replace("grey", "gray");
+		} else {
+			cardTemplate.color_palette_classname = "light-blue";
+		}
+
+		/* Card Image */
+		cardTemplate.background_image = {};
+		const maybeImage = dom.window.document.querySelector(
+			".card-inner-overlay"
+		);
+		if (maybeImage) {
+			try {
+				const imgUrl = maybeImage.style.backgroundImage || "";
+				cardTemplate.background_image.image = imgUrl;
+			} catch (error) {
+				console.error(error);
+			}
+		}
+
+		/* Card Content */
 		cards.forEach((card, index) => {
 			const maybeCheckmark = card.querySelector(
 				`.${CONFIG.checkmarkClass}`
@@ -88,53 +142,15 @@ exports.processCardsToJSON = (dom, filename) => {
 			}
 		});
 
-		console.log(cards[0]);
-		const cardColor = [...cards[0].classList].filter((className) =>
-			className.startsWith("card-color")
-		);
-
-		cardTemplate.color_palette_classname = cardColor[0].replace(
-			"card-color-",
-			""
-		);
-
-		const cardCategory = dom.window.document.querySelector(".card-header");
-		cardTemplate.meta = {};
-		cardTemplate.meta.card_category =
-			cardCategory.textContent || cardCategory.innerText;
-
-		const maybeDate = dom.window.document.querySelector(
-			"meta[property='article:published_time']"
-		);
-		if (maybeDate) {
-			cardTemplate.meta.date_published = maybeDate.getAttribute(
-				"content"
-			);
-		}
-
-		const maybeImage = dom.window.document.querySelector(
-			".card-inner-overlay"
-		);
-		if (maybeImage) {
-			try {
-				const imgUrl = maybeImage.style.backgroundImage || "";
-				cardTemplate.background_image.image = imgUrl;
-			} catch (error) {
-				console.error(error);
-			}
-		}
-
-		const pageTitle = dom.window.document.querySelector("title").innerHTML;
-		cardTemplate.title = pageTitle;
-
-		cardTemplate.section = "quickreads";
-
 		const preparedJson = cardTemplate;
+		/* ========= finish front matter ========= */
 
+		/* page content */
 		const sources = dom.window.document.querySelector(".sources")
 			? dom.window.document.querySelector(".sources").innerHTML
 			: "";
 
+		/* ========= output ========= */
 		const outputContent =
 			"---\n" +
 			yaml.dump(yaml.load(JSON.stringify(preparedJson))) +

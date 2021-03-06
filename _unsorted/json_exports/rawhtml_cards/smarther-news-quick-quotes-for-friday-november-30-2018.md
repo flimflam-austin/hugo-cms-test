@@ -1,4 +1,10 @@
 ---
+title: SmartHER News Quick Quotes for Friday, November 30, 2018
+section: quickreads
+meta:
+  date_published: '2018-11-30T13:21:06+00:00'
+  card_category: Quotes
+color_palette_classname: dark-pink
 card_1:
   card_text: >-
     > “I want to make sure you can wear my kicks proudly.”
@@ -24,12 +30,6 @@ card_10:
     Have a great weekend!
 
     [view sources](https://smarthernews.com/18-11-30-qq/)
-color_palette_classname: dark-pink
-meta:
-  card_category: Quotes
-  date_published: '2018-11-30T13:21:06+00:00'
-title: SmartHER News Quick Quotes for Friday, November 30, 2018
-section: quickreads
 ---
 Sources
 =======

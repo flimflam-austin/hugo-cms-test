@@ -1,4 +1,10 @@
 ---
+title: What is Essence?
+section: quickreads
+meta:
+  date_published: '2018-08-29T11:35:03+00:00'
+  card_category: Beauty
+color_palette_classname: dark-blue
 card_1:
   card_text: >-
     “MIRACLE WATER”
@@ -66,12 +72,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-08-29-essence/)
-color_palette_classname: dark-blue
-meta:
-  card_category: Beauty
-  date_published: '2018-08-29T11:35:03+00:00'
-title: What is Essence?
-section: quickreads
 ---
 Sources
 =======

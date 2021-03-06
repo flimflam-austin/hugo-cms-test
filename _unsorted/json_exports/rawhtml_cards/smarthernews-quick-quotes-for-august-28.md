@@ -1,4 +1,10 @@
 ---
+title: SmartHERNews Quick Quotes for August 28
+section: quickreads
+meta:
+  date_published: '2018-08-28T12:01:12+00:00'
+  card_category: Quotes
+color_palette_classname: light-yellow
 card_1:
   card_text: "> “I’m just lucky. The Lord likes me. And I like him.”\n> \n> Katherine Johnson, the former NASA Langley mathematician and\x1C\"human computer\",\x1D who helped develop human spaceflight in America, on turning 100. Johnson and her work were depicted in the 2016 film \"Hidden Figures.\""
 card_2:
@@ -32,12 +38,6 @@ card_10:
   card_text: >-
     [view
     sources](https://smarthernews.com/smarthernews-quick-quotes-for-tuesday-august-28/)
-color_palette_classname: light-yellow
-meta:
-  card_category: Quotes
-  date_published: '2018-08-28T12:01:12+00:00'
-title: SmartHERNews Quick Quotes for August 28
-section: quickreads
 ---
 Sources
 =======

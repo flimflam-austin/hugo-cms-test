@@ -1,4 +1,13 @@
 ---
+title: High Court Hearings Begin For Brett Kavanaugh
+section: quickreads
+meta:
+  date_published: '2018-09-04T12:00:26+00:00'
+  card_category: Now You Know
+color_palette_classname: light-purple
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/02/claire-anderson-60670-unsplash-360x360.jpg)
 card_1:
   card_text: >-
     High Court Hearings
@@ -59,12 +68,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-09-04-kavanaugh-scotus-hearings/)
-color_palette_classname: light-purple
-meta:
-  card_category: Now You Know
-  date_published: '2018-09-04T12:00:26+00:00'
-title: High Court Hearings Begin For Brett Kavanaugh
-section: quickreads
 ---
 Sources
 =======

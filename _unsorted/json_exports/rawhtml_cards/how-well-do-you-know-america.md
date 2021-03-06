@@ -1,4 +1,10 @@
 ---
+title: How Well Do You Know America?
+section: quickreads
+meta:
+  date_published: '2018-10-19T11:25:12+00:00'
+  card_category: Worth-It-To-See
+color_palette_classname: dark-gray
 card_1:
   card_text: >-
     How Well Do You Know America?  
@@ -68,12 +74,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/18-10-19-citizenship-test/)
-color_palette_classname: dark-grey
-meta:
-  card_category: Worth-It-To-See
-  date_published: '2018-10-19T11:25:12+00:00'
-title: How Well Do You Know America?
-section: quickreads
 ---
 Sources
 =======

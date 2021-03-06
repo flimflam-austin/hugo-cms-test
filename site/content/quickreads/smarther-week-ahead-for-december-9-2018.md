@@ -1,4 +1,13 @@
 ---
+title: SmartHER Week Ahead for December 9, 2018
+section: quickreads
+meta:
+  date_published: '2018-12-09T23:48:23+00:00'
+  card_category: Now You Know
+color_palette_classname: light-pink
+background_image:
+  image: >-
+    url(https://smarthernews.com/wp-content/uploads/2018/10/IMG_5010-min-scaled.jpg)
 card_1:
   card_text: |-
     SmartHER News  
@@ -18,12 +27,6 @@ card_10:
 
 
     [view sources](https://smarthernews.com/shnweekahead-3/)
-color_palette_classname: light-pink
-meta:
-  card_category: Now You Know
-  date_published: '2018-12-09T23:48:23+00:00'
-title: SmartHER Week Ahead for December 9, 2018
-section: quickreads
 ---
 Sources
 =======
