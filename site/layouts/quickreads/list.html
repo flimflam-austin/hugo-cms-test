@@ -3,7 +3,7 @@
     {{ partial "components/ruledtitle" (dict "_sectionTitle" "all quick reads" "_viewAllLink" "")}}
     <div class="l-list-grid__content">
         {{ $cardstacks := sort (where .Site.RegularPages "Section" "quickreads") ".Date" }}
-        {{ range (.Paginate ( $cardstacks.Reverse) 8 ).Pages }}
+        {{ range (.Paginate ( $cardstacks.Reverse) 12 ).Pages }}
         
         {{ .Scratch.Set "showlink" true }}
         {{partial "components/cardstack" . }}

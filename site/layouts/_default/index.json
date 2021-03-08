@@ -13,9 +13,9 @@
         {{- $card09 := (.Params.card_09.card_text | htmlUnescape | markdownify | plainify) -}}
         {{- $card10 := (.Params.card_10.card_text | htmlUnescape | markdownify | plainify) -}}
         {{- $cardcontent := (print $card01 $card02 $card03 $card04 $card05 $card06 $card07 $card08 $card09 $card10 (.Content | markdownify | plainify)) -}}
-        {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "categories" .Params.categories "summary" $cardcontent "permalink" .Permalink "section" .Params.section "date" .Params.meta.date_published) -}}
+        {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "category" .Params.category "summary" $cardcontent "permalink" .Permalink "section" .Params.section "date" (.Date.Format "January 2, 2006")) -}}
     {{- else -}}
-        {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "categories" .Params.categories "summary" .Plain "permalink" .Permalink "section" .Params.section "date" .Params.meta.date_published) -}}
+        {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "category" .Params.category "summary" .Plain "permalink" .Permalink "section" .Params.section "date" (.Date.Format "January 2, 2006")) -}}
     {{- end -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify (dict "indent" "  ") -}}

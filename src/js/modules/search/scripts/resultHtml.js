@@ -1,7 +1,7 @@
 const buildBody = (result) => {
 	const summary = `<p>${result.item.summary || ""}</p>`;
 	const date = `<p>${result.item.date || ""}</p>`;
-
+	console.log(result);
 	return `<div>${summary}${date}</div>`;
 };
 
@@ -13,9 +13,11 @@ const buildHeader = (result) => {
 };
 
 const buildWrapper = (result) =>
-	`<article><a href="${result.item.permalink}>${buildHeader(
-		result
-	)}${buildBody(result)}</a></article>`;
+	`<article>
+		<a href="${result.item.permalink}">
+		${buildHeader(result)}${buildBody(result)}
+		</a>
+	</article>`;
 
 export const getResultHtml = (result) => {
 	return buildWrapper(result);

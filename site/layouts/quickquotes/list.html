@@ -1,9 +1,9 @@
 {{ define "main" }}
 <main class="l-page__container">
-    {{ partial "components/ruledtitle" (dict "_sectionTitle" "all videos" "_viewAllLink" "")}}
+    {{ partial "components/ruledtitle" (dict "_sectionTitle" "all quick quotes" "_viewAllLink" "")}}
     <div class="l-list-grid__content">
         {{ $quickquotes := sort (where .Site.RegularPages "Section" "quickquotes") ".Date" }}
-        {{ range (.Paginate (sort $quickquotes.Reverse ".Params.is_breaking" "=" true).Reverse 8).Pages }}
+        {{ range (.Paginate (sort $quickquotes.Reverse ".Params.is_breaking" "=" true ).Reverse 16).Pages }}
         <a class="qqprev qqprev--side qqprev--list {{ if (eq .Params.is_breaking true)}} qqprev--breaking {{end}}" href="{{- .Permalink -}}">
             <article class="qqprev__wrapper">
                 {{ if (eq .Params.meta.is_breaking true)}} <div class="qqprev__breakingmarker">breaking</div> {{end}}

@@ -5,7 +5,7 @@
         {{ $videoposts := sort (where .Site.RegularPages "Section" "videoposts") ".Date" }}
         {{ $featuredvideoposts := sort $videoposts ".Params.is_featured" "=" true}}
         {{ $breakingvideoposts := sort $featuredvideoposts ".Params.is_breaking_slider" "=" true}}
-        {{ range  (.Paginate ($breakingvideoposts.Reverse) 8 ).Pages  }}
+        {{ range  (.Paginate ($breakingvideoposts.Reverse) 12 ).Pages  }}
 
         <a class="homevidprev" href="{{- .Permalink -}}">
             <article class="homevidprev__wrapper">
