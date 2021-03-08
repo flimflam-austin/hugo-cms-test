@@ -69,7 +69,6 @@
   },
   "dependencies": {
     "csv-parser": "^3.0.0",
-    "csv-reorder": "^0.1.1",
     "csv-split-stream": "^1.0.2",
     "csvtojson": "^2.0.10",
     "flickity": "^2.2.2",
