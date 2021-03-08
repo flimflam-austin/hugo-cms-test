@@ -7,7 +7,7 @@ const reduceToHtml = (accumulator, currentResult) =>
 const hasItems = (arrayToCheck) => !!arrayToCheck[0];
 
 const noResultsHtml = () =>
-	`Oops! We couldn't find any results. Maybe try: politics, texas, technology.`;
+	`<span class="searchresult__no-result-text">Oops! We couldn't find any results. Maybe try: politics, texas, technology.</span>`;
 
 const processIntoHtml = (results) =>
 	hasItems(results) ? results.reduce(reduceToHtml, "") : noResultsHtml();

@@ -5,20 +5,18 @@ import { unboundRenderResults } from "./scripts/render";
 const ff = require("../helpers/ff");
 
 /* Modal Actions */
-const unboundCloseSearchModal = (searchModal) => () => {
+/* const unboundCloseSearchModal = (searchModal) => () => {
 	searchModal.classList.remove(SEARCH_CONFIG.modal.openClass);
 	searchModal.setAttribute("aria-hidden", true);
-};
+}; */
 
-const unboundLaunchSearchModal = (searchModal) => async () => {
-	searchModal.classList.add(SEARCH_CONFIG.modal.openClass);
-	searchModal.setAttribute("aria-hidden", false);
-
+const launchSearch = async (searchModal) => {
 	//const fuse = await asyncInitFuseSearch();
 
 	const contentWrapper = document.getElementById(
 		SEARCH_CONFIG.results.wrapperId
 	);
+
 	const renderResults = unboundRenderResults(contentWrapper);
 
 	const defaultContent = contentWrapper.innerHTML;
@@ -27,6 +25,8 @@ const unboundLaunchSearchModal = (searchModal) => async () => {
 		const searchInput = document.getElementById(
 			SEARCH_CONFIG.searchInput.id
 		);
+
+		searchInput.focus();
 
 		searchInput.addEventListener("keyup", (_) => {
 			const inputValue = searchInput.value;
@@ -45,28 +45,13 @@ const unboundLaunchSearchModal = (searchModal) => async () => {
 };
 
 /* Big Loops */
-const launchSearch = (searchButton) => {
-	const searchModal = document.getElementById(SEARCH_CONFIG.modal.id);
-	if (!searchModal) return null;
-
-	const launchSearchModal = unboundLaunchSearchModal(searchModal);
-	searchButton.addEventListener("mouseup", launchSearchModal);
-
-	const closeSearchModal = unboundCloseSearchModal(searchModal);
-	const closeButton = document.getElementById(SEARCH_CONFIG.closeButton.id);
-	closeButton.addEventListener("mouseup", closeSearchModal);
-};
-
-/* Export */
 export const initSearchBar = () => {
-	const { searchButtonClass } = SEARCH_CONFIG;
+	const searchContainer = document.getElementById(SEARCH_CONFIG.container.id);
+	if (!searchContainer) return null;
 
-	const searchButtons = document.querySelectorAll(
-		ff.addDot(searchButtonClass)
-	);
-	if (!searchButtons) return null;
+	launchSearch(searchContainer);
 
-	searchButtons.forEach(launchSearch);
-
-	return;
+	/* const closeSearch = unboundCloseSearch(searchModal);
+	const closeButton = document.getElementById(SEARCH_CONFIG.closeButton.id);
+	closeButton.addEventListener("mouseup", closeSearch); */
 };

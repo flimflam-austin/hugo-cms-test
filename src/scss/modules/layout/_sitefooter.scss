@@ -3,7 +3,8 @@
 	border-top: $border-style-alpha;
 
 	&__section {
-		padding: 4rem $site-content-padding;
+		padding-top: 4rem;
+		padding-bottom: 4rem;
 		background-color: $color-brand-gray-10;
 
 		&--cta {
@@ -12,8 +13,62 @@
 	}
 
 	&__content {
-		@include flex-column-center-center;
+	}
+
+	&__brand {
 		width: 100%;
+		max-width: 600px;
+		margin: 0 auto;
+	}
+
+	&__logo-link {
+		width: auto;
+		height: auto;
+	}
+
+	&__logo {
+		width: 200px;
+		height: 28.2px;
+	}
+
+	& .sitefooternav {
+		width: 100%;
+		max-width: 600px;
+		margin: 0 auto;
+
+		grid-column: 1/-1;
+
+		display: grid;
+		grid-template-columns: 1fr;
+		column-gap: $site-content-padding;
+		row-gap: $site-content-padding;
+
+		justify-content: center;
+
+		&__title {
+			text-align: center;
+		}
+
+		&__links {
+			text-align: center;
+			padding-left: 0;
+			margin: 0;
+			list-style-type: none;
+		}
+	}
+
+	&__copyright {
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+		padding-top: 4rem;
+	}
+
+	@include query-tablet-up {
+		& .sitefooternav {
+			grid-template-columns: 1fr 1fr;
+			justify-content: flex-start;
+		}
 	}
 }
 

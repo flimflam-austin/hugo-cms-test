@@ -19,15 +19,16 @@
 					href="https://smarthernews.libsyn.com/"
 					target="_blank"
 					>podcast</a>
-				<a class="sitenav__link" href="about.html">About</a>
+				{{/*  <a class="sitenav__link" href="/about">About</a>  */}}
 				<a
 					class="sitenav__link"
 					href="https://smarthernews.com/shop/"
 					target="_blank"
 					>shop</a>
 				<!-- needs search bar here -->
-				<button id="js-searchbutton" class="js-sitesearch-button sitenav__link">search</button>
-				{{ partial "components/searchbar" . }}
+				<a class="sitenav__link" href="/search">search</a>
+				{{/*  <button id="js-searchbutton" class="js-sitesearch-button sitenav__link">search</button>  */}}
+				{{/*  {{ partial "components/searchbar" . }}  */}}
 			</nav>
 			{{ partial "global/hamburger" . }}
 			

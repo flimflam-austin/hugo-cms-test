@@ -1,20 +1,34 @@
+import { truncateString } from "./../../truncate";
+
 const buildBody = (result) => {
-	const summary = `<p>${result.item.summary || ""}</p>`;
-	const date = `<p>${result.item.date || ""}</p>`;
-	console.log(result);
-	return `<div>${summary}${date}</div>`;
+	const summary = result.item.summary
+		? `<p class="searchresult__summary">${truncateString(
+				result.item.summary,
+				300,
+				10
+		  )}</p>`
+		: "";
+	const date = result.item.date
+		? `<p class="searchresult__date">${result.item.date}</p>`
+		: "";
+
+	return `<div class="searchresult__description-items">${summary}${date}</div>`;
 };
 
 const buildHeader = (result) => {
-	const title = `<h1>${result.item.title || ""}</h1>`;
-	const contentType = `<p>${result.item.section || ""}</p>`;
+	const title = result.item.title
+		? `<h1 class="searchresult__title">${result.item.title}</h1>`
+		: "";
+	const contentType = result.item.section
+		? `<p class="searchresult__contenttype">${result.item.section}</p>`
+		: "";
 
-	return `<header>${title}${contentType}</header>`;
+	return `<header class="searchresult__header">${contentType}${title}</header>`;
 };
 
 const buildWrapper = (result) =>
-	`<article>
-		<a href="${result.item.permalink}">
+	`<article class="searchresult">
+		<a class="searchresult__link-wrapper" href="${result.item.permalink}">
 		${buildHeader(result)}${buildBody(result)}
 		</a>
 	</article>`;

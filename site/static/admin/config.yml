@@ -134,6 +134,7 @@ collections:
       slug: "{{year}}{{month}}{{day}}-{{slug}}"
       folder: site/content/quickquotes
       create: true
+      sortableFields: ["date", "lastmod"]
       fields:
           - label: Section
             name: section
