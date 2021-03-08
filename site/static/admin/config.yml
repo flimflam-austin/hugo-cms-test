@@ -154,7 +154,7 @@ collections:
         hint: Separate tags with commas (politics, potus). Use lowercase.
         allow_add: true
         min: 1
-        pattern: ["^[a-z0-9 ,]*$", "Tags must be lower case letters or numbers"]
+        pattern: ["^[a-z0-9 ]*$", "Tags must be lower case letters or numbers"]
         required: true
       - label: Publish Date
         name: date
