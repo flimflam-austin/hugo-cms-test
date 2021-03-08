@@ -212,12 +212,12 @@ collections:
             name: image
             widget: image
             allow_multiple: false
-            required: true
+            required: false
           - label: Alt Text
             name: alt
             hint: Short description of image used for SEO and Accessibility
             widget: string
-            required: true
+            required: false
       - label: Article
         name: body
         widget: markdown
