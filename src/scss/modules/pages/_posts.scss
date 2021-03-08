@@ -32,6 +32,35 @@
 		@include query-desktop-up {
 			min-height: 100%;
 		}
+
+		&--no-image {
+			grid-column: -1/1;
+			width: 100%;
+
+			padding: $post-section-spacing 0;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center !important;
+
+			@include query-desktop-up {
+				width: 60%;
+				margin-left: auto;
+				margin-right: auto;
+			}
+
+			& .post-header__summary {
+				text-align: center;
+
+				&--secondary {
+					text-align: center;
+				}
+			}
+
+			& .post-header__date {
+				text-align: center;
+			}
+		}
 	}
 
 	&__category {
@@ -39,8 +68,18 @@
 	}
 
 	&__summary {
-		@include typo-title-xxl;
-		margin: 1rem 0 1rem 0;
+		@include typo-title-lg;
+		margin: 2rem 0 2rem 0;
+		text-align: center;
+
+		@include query-tablet-up {
+			@include typo-title-xl;
+		}
+
+		@include query-desktop-up {
+			@include typo-title-xxl;
+			text-align: left;
+		}
 
 		&--secondary {
 			@include typo-title-lg;
@@ -118,6 +157,8 @@ p.post-content__citation {
 			padding-top: $post-section-spacing;
 		}
 		padding-bottom: $post-section-spacing;
+
+		min-height: 80vh;
 
 		$cfs-base: 1rem;
 

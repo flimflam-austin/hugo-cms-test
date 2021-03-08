@@ -7,13 +7,13 @@
                 </figure>
                     {{/*<p>{{ .Params.video_category }}</p>*/}}
                 <div class="post-header__block post-header__block--text">
-                    <a class="post-header__category" href="/videocategories/{{ .Params.video_category }}">{{ .Params.video_category }}</a>
+                    <a class="post-header__category" href="/videocategories/{{ .Params.category }}">{{ .Params.category }}</a>
                     <h1 class="post-header__summary">{{ .Params.summary}}</h1>
                     <span class="post-header__ruler"></span>
                     <div class="post-header__dates">
-                        <p class="post-header__date">Published on<br><time datetime="{{ .Params.date_published }}">{{- .Params.meta.date_published -}}</time></p>
-                        {{ if .Params.meta.date_modified }}
-                            <p class="post-header__date">Modified on<br><time datetime="{{ .Params.date_modified }}">{{- .Params.meta.date_modified -}}</time></p>
+                        <p class="post-header__date">Published on<br><time datetime="{{ .Date }}">{{- .Date.Format "Jan 2, 2006" -}}</time></p>
+                        {{ if .Lastmod }}
+                            <p class="post-header__date">Modified on<br><time datetime="{{ .Lastmod }}">{{- .Lastmod.Format "Jan 2, 2006" -}}</time></p>
                         {{ end }}
                     </div>
                     <ul class="post-header__tags btn-group">
@@ -27,9 +27,11 @@
             </header>
 
             <section class="page-content">
+                {{ if .Content }}
                 <div class="page-content__body">
                     {{ .Content }}
                 </div>
+                {{ end }}
                 {{ partial "components/share" . }}
             </section>
 

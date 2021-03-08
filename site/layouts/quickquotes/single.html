@@ -2,21 +2,27 @@
     <main class="l-page__container">
         <article class="post">
             <header class="post-header">
+                {{ if .Params.featured_image.image }}
                 <figure class="post-header__block aspectimg">
                     <img class="aspectimg__image" src="{{ .Params.featured_image.image }}" alt="{{ .Params.featured_image.alt }}" />
                 </figure>
                 <div class="post-header__block post-header__block--text">
+                {{ else }}
+                <div class="post-header__block post-header__block--no-image post-header__block--text ">
+                {{ end }}
                     <p class="post-header__category" >quick quotes</p>
                     <h1 class="post-header__summary">&ldquo;{{- .Params.featured_quote.quote -}}&rdquo;</h1>
+                    {{ if .Params.featured_quote.citation }}
                     <p class="post-header__citation">{{ .Params.featured_quote.citation }}</p>
+                    {{end}}
                     {{ if .Params.featured_quote.summary }}
                     <p class="post-header__summary--secondary">{{ .Params.featured_quote.summary }}</p>
                     {{ end }}
                     <span class="post-header__ruler"></span>
                     <div class="post-header__dates">
-                        <p class="post-header__date">Published on<br><time datetime="{{ .Params.date_published }}">{{- .Params.meta.date_published -}}</time></p>
-                        {{ if .Params.meta.date_modified }}
-                            <p class="post-header__date">Modified on<br><time datetime="{{ .Params.date_modified }}">{{- .Params.meta.date_modified -}}</time></p>
+                        <p class="post-header__date">Published on<br><time datetime="{{ .Date }}">{{- .Date.Format "Jan 2, 2006" -}}</time></p>
+                        {{ if .Lastmod }}
+                            <p class="post-header__date">Modified on<br><time datetime="{{ .Lastmod }}">{{- .Lastmod.Format "Jan 2, 2006" -}}</time></p>
                         {{ end }}
                     </div>
                     <ul class="post-header__tags btn-group">
@@ -29,11 +35,13 @@
                 </div>
             </header>
             <section class="page-content">
+                {{ if .Content }}
                 <div class="page-content__body">
-                    <p class="post-content__quote">&ldquo;{{- .Params.featured_quote.quote -}}&rdquo;</p>
-                    <p class="post-content__citation">{{ .Params.featured_quote.citation }}</p>
+                    {{/*  <p class="post-content__quote">&ldquo;{{- .Params.featured_quote.quote -}}&rdquo;</p>
+                    <p class="post-content__citation">{{ .Params.featured_quote.citation }}</p>  */}}
                     {{ .Content }}
                 </div>
+                {{ end }}
                 {{ partial "components/share" . }}
             </section>
 
@@ -43,5 +51,3 @@
         </article>
     </main>
 {{ end }}
-
-{{/* | markdownify*/}}

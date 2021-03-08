@@ -1,0 +1,35 @@
+---
+title: >-
+  gap inc. spokesperson to cnbc on featuring a half-red, half-blue sweatshirt
+  (representing the colors of both political parties) with a message of unity.
+  the social media post received almost instant backlash.
+description: It was just too soon for this message.
+aliases:
+  - >-
+    article/gap-inc-spokesperson-to-cnbc-on-featuring-a-half-red-half-blue-sweatshirt-representing-the-colors-of-both-political-parties-with-a-message-of-unity-the-social-media-post-received-almost-instant-b/
+published: true
+date: '2020-11-05T20:09:57+00:00'
+publishDate: '2020-11-05T20:09:57+00:00'
+lastmod: '2020-11-05T20:11:58+00:00'
+tags: []
+post_author: []
+section: quickquotes
+is_breaking: false
+featured_image:
+  image: >-
+    https://smarthernews.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-05-at-2.03.51-PM.png
+  alt: ''
+featured_quote:
+  quote: It was just too soon for this message.
+  summary: >-
+    Gap Inc. spokesperson to CNBC on featuring a half-red, half-blue sweatshirt
+    (representing the colors of both political parties) with a message of unity.
+    The social media post received almost instant backlash.
+  citation: ''
+---
+*   Backstory via _CNBC_: “The caption of the half-blue, half-red hoodie animation read: “The one thing we know, is that together, we can move forward.” When the animated image played, it showed the sweatshirt being zipped up.”
+*   The social media post the day after the election received backlash from celebrities and beyond, leading the company to ultimately remove it.
+*   Here’s the full statement: _“The intention of our social media post, that featured a red and blue hoodie, was to show the power of unity. It was just too soon for this message. We remain optimistic that our country will come together to drive positive change for all.”_
+*   Why It Matters: The story serves as an example of the tension (and challenges) of messaging during these tense political times as retailers navigate the ever-important holiday shopping season post election. Consumer spending fuels two-thirds of the total American economy.
+
+**Read full article here:** [READ MORE](\"https://www.cnbc.com/2020/11/04/gap-slammed-for-posting-half-blue-half-red-hoodie-amid-heated-election.html\")

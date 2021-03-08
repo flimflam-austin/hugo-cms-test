@@ -4,10 +4,9 @@ section: quickquotes
 tags:
     - politics
     - covid
-meta:
-    is_breaking: false
-    date_modified: ""
-    date_published: March 3, 2021 12:45 PM
+is_breaking: false
+lastmod: ""
+date: March 3, 2021 12:45 PM
 featured_quote:
     summary: Texas Gov. Greg Abbott announcing he's removing the statewide mask
         mandate and COVID-related business restrictions.

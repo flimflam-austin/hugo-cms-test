@@ -1,15 +1,15 @@
-{{ $videoposts := sort (where .Site.RegularPages "Section" "videoposts") ".Params.meta.date_published" }}
-{{ $featuredvideoposts := sort $videoposts ".Params.meta.is_featured" "=" true}}
-{{ $breakingvideoposts := sort $featuredvideoposts ".Params.meta.is_breaking_slider" "=" true}}
+{{ $videoposts := sort (where .Site.RegularPages "Section" "videoposts") ".Date" }}
+{{ $featuredvideoposts := sort $videoposts ".Params.is_featured" "=" true}}
+{{ $breakingvideoposts := sort $featuredvideoposts ".Params.is_breaking_slider" "=" true}}
 {{ range first 6 (after 3 $breakingvideoposts.Reverse) }}
 
 
 <a class="homevidprev" href="{{- .Permalink -}}">
     <article class="homevidprev__wrapper">
         <div class="aspectimg">
-            <img class="aspectimg__image" src="{{- .Params.postimage.image -}}" alt="{{- .Params.postimage.alt -}}">
+            <img class="aspectimg__image" src="{{- .Params.featured_image.image -}}" alt="{{- .Params.featured_image.alt -}}">
         </div>
-        <h3 class="homevidprev__category">{{- delimit .Params.category " " "" -}}</h3>
+        <h3 class="homevidprev__category">{{- .Params.category -}}</h3>
         <h2 class="homevidprev__title">{{- .Title -}}</h2>
         <p class="homevidprev__summary">{{- .Params.summary | truncate 50 -}}</p>
     </article>

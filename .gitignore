@@ -3,7 +3,7 @@ dist/
 site/data/webpack.json
 /npm-debug.log
 yarn-error.log
-rawscrapedata/
+00_output_rawscrapecsv/
 
 # OS generated files #
 ######################

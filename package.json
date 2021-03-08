@@ -69,7 +69,9 @@
   },
   "dependencies": {
     "csv-parser": "^3.0.0",
+    "csv-reorder": "^0.1.1",
     "csv-split-stream": "^1.0.2",
+    "csvtojson": "^2.0.10",
     "flickity": "^2.2.2",
     "flickity-imagesloaded": "^2.0.0",
     "fuse.js": "^6.4.6",
@@ -84,6 +86,7 @@
     "remark": "^13.0.0",
     "remark-html": "^13.0.1",
     "simplebar": "^5.3.0",
+    "to-sentence-case": "^1.0.0",
     "turndown": "^7.0.0",
     "urlize": "^0.2.1"
   }

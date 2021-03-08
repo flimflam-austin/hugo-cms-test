@@ -2,25 +2,25 @@
 <main class="l-page__container">
     {{ partial "components/ruledtitle" (dict "_sectionTitle" "all videos" "_viewAllLink" "")}}
     <div class="l-list-grid__content">
-        {{ $videoposts := sort (where .Site.RegularPages "Section" "videoposts") ".Params.meta.publishdate" }}
-        {{ $featuredvideoposts := sort $videoposts ".Params.meta.is_featured" "=" true}}
-        {{ $breakingvideoposts := sort $featuredvideoposts ".Params.meta.is_breaking_slider" "=" true}}
+        {{ $videoposts := sort (where .Site.RegularPages "Section" "videoposts") ".Date" }}
+        {{ $featuredvideoposts := sort $videoposts ".Params.is_featured" "=" true}}
+        {{ $breakingvideoposts := sort $featuredvideoposts ".Params.is_breaking_slider" "=" true}}
         {{ range  (.Paginate ($breakingvideoposts.Reverse) 8 ).Pages  }}
 
         <a class="homevidprev" href="{{- .Permalink -}}">
             <article class="homevidprev__wrapper">
                 <div class="aspectimg">
-                    <img class="aspectimg__image" src="{{- .Params.postimage.image -}}"
-                        alt="{{- .Params.postimage.alt -}}">
+                    <img class="aspectimg__image" src="{{- .Params.featured_image.image -}}"
+                        alt="{{- .Params.featured_image.alt -}}">
                 </div>
                 {{ if .Params.category }}
-                <h3 class="homevidprev__category">{{- delimit .Params.category " " "" -}}</h3>
+                <h3 class="homevidprev__category">{{- .Params.category -}}</h3>
                 {{ end }}
                 <h2 class="homevidprev__title">{{- .Title -}}</h2>
                 <p class="homevidprev__summary">{{- .Params.summary | truncate 50 -}}</p>
             </article>
         </a>
-
+        
         {{end}}
 
     </div>

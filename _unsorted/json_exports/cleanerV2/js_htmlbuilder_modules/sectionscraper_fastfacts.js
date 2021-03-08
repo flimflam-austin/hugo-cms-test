@@ -1,0 +1,1 @@
+exports.getFastFactData = () => "test";

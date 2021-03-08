@@ -4,10 +4,9 @@ section: quickquotes
 tags:
     - toledo
     - politics
-meta:
-    is_breaking: false
-    date_modified: ""
-    date_published: February 23, 2021 8:56 PM
+is_breaking: false
+lastmod: ""
+date: February 23, 2021 8:56 PM
 featured_quote:
     quote: This is the test quote
     summary: This is the test summary

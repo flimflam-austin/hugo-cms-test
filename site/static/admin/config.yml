@@ -50,7 +50,7 @@ collections:
             hint: Used to generate slug and indexing. Doesn't appear in article.
             required: true
           - label: Video Category
-            name: video_category
+            name: category
             widget: relation
             collection: video_categories
             search_fields: ["title"]
@@ -67,56 +67,46 @@ collections:
             pattern:
                 ["^[a-z0-9 ,]*$", "Tags must be lower case letters or numbers"]
             required: true
-          - label: Meta
-            name: meta
-            widget: object
+          - label: Publish Date
+            name: date
+            widget: datetime
+            picker_utc: false
+            required: true
+          - label: Modified Date
+            name: lastmod
+            widget: datetime
+            default: ""
+            picker_utc: false
+            required: false
+          - label: Breaking Slider
+            name: is_breaking_slider
+            hint: Will push to front of slider on homepage.
+            widget: boolean
+            default: false
+          - label: Breaking Dropdown
+            name: is_breaking_dropdown
+            hint: Will create a dropdown on the homepage header.
+            widget: boolean
+            default: false
+          - featured: Featured
+            name: is_featured
+            hint: Pushes post to slider or first position in post list.
+            widget: boolean
+            default: false
+          - label: Post Author
+            name: post_author
+            widget: list
+            allow_add: true
+            label_singular: Add Co-author
+            summary: Author
+            required: false
             fields:
-                - label: Breaking Slider
-                  name: is_breaking_slider
-                  hint: Will push to front of slider on homepage.
-                  widget: boolean
-                  default: false
-                - label: Breaking Dropdown
-                  name: is_breaking_dropdown
-                  hint: Will create a dropdown on the homepage header.
-                  widget: boolean
-                  default: false
-                - featured: Featured
-                  name: is_featured
-                  hint: Pushes post to slider or first position in post list.
-                  widget: boolean
-                  default: false
-                - label: Publish Date
-                  name: date_published
-                  widget: datetime
-                  date_format: MM.DD.YYYY
-                  time_format: HH.mm
-                  format: LLL
-                  picker_utc: false
-                  required: true
-                - label: Modified Date
-                  name: date_modified
-                  widget: datetime
-                  date_format: MM.DD.YYYY
-                  time_format: HH.mm
-                  format: LLL
-                  default: ""
-                  picker_utc: false
-                  required: false
-                - label: Post Author
-                  name: post_author
-                  widget: list
-                  allow_add: true
-                  label_singular: Add Co-author
-                  summary: Author
-                  required: false
-                  fields:
-                      - label: author
-                        name: author
-                        widget: relation
-                        collection: authors
-                        search_fields: ["title"]
-                        value_field: "title"
+                - label: author
+                  name: author
+                  widget: relation
+                  collection: authors
+                  search_fields: ["title"]
+                  value_field: "title"
           - label: Post Image
             name: featured_image
             widget: object
@@ -132,7 +122,7 @@ collections:
                   required: true
           - label: Summary
             name: summary
-            hint: "Brief summary that appears on preview card"
+            hint: "Brief summary that appears on preview card and SEO"
             widget: text
             required: true
           - label: Article
@@ -162,46 +152,34 @@ collections:
             pattern:
                 ["^[a-z0-9 ,]*$", "Tags must be lower case letters or numbers"]
             required: true
-          - label: Meta
-            name: meta
-            widget: object
+          - label: Publish Date
+            name: date
+            widget: datetime
+            required: true
+          - label: Modified Date
+            name: lastmod
+            widget: datetime
+            default: ""
+            required: false
+          - label: Breaking
+            name: is_breaking
+            hint: Will highlight quote and push to top of feed.
+            widget: boolean
+            default: false
+          - label: Post Author
+            name: post_author
+            widget: list
+            allow_add: true
+            label_singular: Co-author
+            summary: Author
+            required: false
             fields:
-                - label: Breaking
-                  name: is_breaking
-                  hint: Will highlight quote and push to top of feed.
-                  widget: boolean
-                  default: false
-                - label: Publish Date
-                  name: date_published
-                  widget: datetime
-                  date_format: MM.DD.YYYY
-                  time_format: HH.mm
-                  format: LLL
-                  picker_utc: false
-                  required: true
-                - label: Modified Date
-                  name: date_modified
-                  widget: datetime
-                  date_format: MM.DD.YYYY
-                  time_format: HH.mm
-                  format: LLL
-                  default: ""
-                  picker_utc: false
-                  required: false
-                - label: Post Author
-                  name: post_author
-                  widget: list
-                  allow_add: true
-                  label_singular: Co-author
-                  summary: Author
-                  required: false
-                  fields:
-                      - label: author
-                        name: author
-                        widget: relation
-                        collection: authors
-                        search_fields: ["title"]
-                        value_field: "title"
+                - label: author
+                  name: author
+                  widget: relation
+                  collection: authors
+                  search_fields: ["title"]
+                  value_field: "title"
           - label: Featured Quote
             name: featured_quote
             widget: object
@@ -255,12 +233,8 @@ collections:
             widget: string
             required: true
           - label: Date and Time
-            name: date_added
+            name: date
             widget: datetime
-            date_format: MM.DD.YYYY
-            time_format: HH.mm
-            format: LLL
-            picker_utc: true
           - label: Bio
             name: body
             widget: markdown
@@ -298,7 +272,7 @@ collections:
       slug: "{{year}}{{month}}{{day}}-{{slug}}"
       folder: site/content/quickreads
       create: true
-      sortable_fields: ["date_published"]
+      sortable_fields: ["date"]
       fields:
           - label: Section
             name: section
@@ -317,43 +291,39 @@ collections:
             pattern:
                 ["^[a-z0-9 ,]*$", "Tags must be lower case letters or numbers"]
             required: true
-          - label: Meta
-            name: meta
-            widget: object
+          - label: Publish Date
+            name: date
+            widget: datetime
+            required: true
+          - label: Modified Date
+            name: lastmod
+            widget: datetime
+            default: ""
+            required: false
+          - label: Post Author
+            name: post_author
+            widget: list
+            allow_add: true
+            label_singular: Add Co-author
+            summary: Author
+            required: false
             fields:
-                - label: Publish Date
-                  name: date_published
-                  widget: datetime
-                  required: true
-                - label: Modified Date
-                  name: date_modified
-                  widget: datetime
-                  default: ""
-                  required: false
-                - label: Card Category
-                  name: card_category
-                  hint: Category that appears on the top of the card.
+                - label: author
+                  name: author
                   widget: relation
-                  collection: card_categories
-                  search_fields:
-                      - title
-                  value_field: title
-                  multiple: false
-                  required: true
-                - label: Post Author
-                  name: post_author
-                  widget: list
-                  allow_add: true
-                  label_singular: Add Co-author
-                  summary: Author
-                  required: false
-                  fields:
-                      - label: author
-                        name: author
-                        widget: relation
-                        collection: authors
-                        search_fields: ["title"]
-                        value_field: "title"
+                  collection: authors
+                  search_fields: ["title"]
+                  value_field: "title"
+          - label: Card Category
+            name: category
+            hint: Category that appears on the top of the card.
+            widget: relation
+            collection: card_categories
+            search_fields:
+                - title
+            value_field: title
+            multiple: false
+            required: true
           - label: Color Palette
             name: color_palette_classname
             widget: select
@@ -377,20 +347,9 @@ collections:
           - label: Background Image
             name: background_image
             hint: Background image on first card.
-            widget: object
+            widget: image
+            allow_multiple: false
             required: false
-            fields:
-                - label: Image
-                  name: image
-                  widget: image
-                  allow_multiple: false
-                  required: false
-                - label: Image Alt Text
-                  name: alt
-                  hint: Short description of image used for SEO and Accessibility
-                  widget: string
-                  default: ""
-                  required: false
           - label: Card 1
             name: card_1
             widget: object
@@ -560,7 +519,7 @@ collections:
             widget: string
             required: true
           - label: Publish Date
-            name: date_published
+            name: date
             widget: datetime
             required: true
           - label: Featured Image
@@ -586,7 +545,6 @@ collections:
             name: storelink
             hint: The url of the product on the online store.
             widget: string
-            required: false
 
     - name: pages
       label: Pages
