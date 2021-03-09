@@ -155,6 +155,12 @@ collections:
             pattern:
                 ["^[a-z0-9 ]*$", "Tags must be lower case letters or numbers"]
             required: true
+
+          - label: Tags
+            name: tags
+            widget: list
+            hint: Separate tags with commas (politics, potus). Use lowercase.
+            required: true
           - label: Publish Date
             name: date
             widget: datetime
