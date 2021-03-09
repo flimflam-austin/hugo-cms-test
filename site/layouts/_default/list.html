@@ -15,3 +15,25 @@
 
 {{end}}
   */}}
+
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+{{ range .Site.Taxonomies.tags}}
+<li>
+    <a href="{{ .Page.Permalink }}">{{ .Page.Title }} {{ .Count }}</a>
+</li>
+{{end}}
+
+<hr>
+
+
+{{/*  {{ range .Pages.ByPublishDate }}
+
+
+<p><a href="{{- .Permalink -}}">{{ .Title }}</a>{{ .Section }}</p>
+
+{{ end }}  */}}
+
+{{ end }}

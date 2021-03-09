@@ -2,6 +2,7 @@
     <main class="l-page__container">
         <article class="post">
             <header class="post-header">
+
                 {{ if .Params.featured_image.image }}
                 <figure class="post-header__block aspectimg">
                     <img class="aspectimg__image" src="{{ .Params.featured_image.image }}" alt="{{ .Params.featured_image.alt }}" />
@@ -10,38 +11,46 @@
                 {{ else }}
                 <div class="post-header__block post-header__block--no-image post-header__block--text ">
                 {{ end }}
-                    <p class="post-header__category" >quick quotes</p>
+
+                    <h3 class="post-header__category" ><a href="/quickquotes" class="post-header__category-link">quick quotes</a></h3>
                     <h1 class="post-header__summary">&ldquo;{{- .Params.featured_quote.quote -}}&rdquo;</h1>
+
                     {{ if .Params.featured_quote.citation }}
                     <p class="post-header__citation">{{ .Params.featured_quote.citation }}</p>
                     {{end}}
+
                     {{ if .Params.featured_quote.summary }}
                     <p class="post-header__summary--secondary">{{ .Params.featured_quote.summary }}</p>
                     {{ end }}
+
                     <span class="post-header__ruler"></span>
                     <div class="post-header__dates">
                         <p class="post-header__date">Published on<br><time datetime="{{ .Date }}">{{- .Date.Format "Jan 2, 2006" -}}</time></p>
+                        
                         {{ if .Lastmod }}
                             <p class="post-header__date">Modified on<br><time datetime="{{ .Lastmod }}">{{- .Lastmod.Format "Jan 2, 2006" -}}</time></p>
                         {{ end }}
+
                     </div>
                     <ul class="post-header__tags btn-group">
-                        {{ range .Params.tags }}
+
+                        {{ range (.GetTerms "tags") }}
                             <li class="btn-group__btn">
-                                <a class="btn btn--green" href="tags/{{ . | urlize}}">{{- . -}}</a>
+                                <a class="btn btn--green" href="{{ .Permalink }}">{{- .LinkTitle -}}</a>
                             </li>
                         {{ end }}
+
                     </ul>
                 </div>
             </header>
             <section class="page-content">
+
                 {{ if .Content }}
                 <div class="page-content__body">
-                    {{/*  <p class="post-content__quote">&ldquo;{{- .Params.featured_quote.quote -}}&rdquo;</p>
-                    <p class="post-content__citation">{{ .Params.featured_quote.citation }}</p>  */}}
                     {{ .Content }}
                 </div>
                 {{ end }}
+
                 {{ partial "components/share" . }}
             </section>
 
