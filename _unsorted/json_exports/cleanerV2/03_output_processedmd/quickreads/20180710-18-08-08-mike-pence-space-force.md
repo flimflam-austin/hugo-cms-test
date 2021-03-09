@@ -15,7 +15,7 @@ color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/bill-jelen-555154-unsplash-scaled.jpg
 card_1:
-  card_text: "SPACE FORCE\n===========\n\nA new military branch for a “new battlefielda\x1D – the White House proposes a Space Force to patrol and protect a\x1Cthe next great American frontier.”\n\nWait...new battlefield?"
+  card_text: "SPACE FORCEn===========nnA new military branch for a “new battlefieldax1D – the White House proposes a Space Force to patrol and protect ax1Cthe next great American frontier.”nnWait...new battlefield?"
   card_citation: Wait...new battlefield?
 card_2:
   card_text: >-
@@ -78,8 +78,9 @@ card_5:
     **Remember:** Congress controls purse strings & allocating taxpayer money.
   card_citation: ''
 card_10:
-  card_text: "VP Pence announced the Space Force because he's chairman of the National Space Council - a concept created under Pres. Eisenhower that was disbanded during Clinton administration. Trump a\x1Crestarteda\x1D it in 2017.\n\n[view sources](https://smarthernews.com/18-08-08-mike-pence-space-force/)"
+  card_text: "VP Pence announced the Space Force because he's chairman of the National Space Council - a concept created under Pres. Eisenhower that was disbanded during Clinton administration. Trump ax1Crestartedax1D it in 2017.nn[view sources](https://smarthernews.com/18-08-08-mike-pence-space-force/)"
   card_citation: ''
+
 ---
 *   **President Trump relaunches the National Space Council:**  
     [https://www.washingtonpost.com/news/speaking-of-science/wp/2017/06/30/trump-relaunches-the-national-space-council/](\"https://www.washingtonpost.com/news/speaking-of-science/wp/2017/06/30/trump-relaunches-the-national-space-council/\")

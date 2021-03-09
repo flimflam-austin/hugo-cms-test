@@ -27,6 +27,7 @@ featured_quote:
     Amazon senior vice president of worldwide operations, Dave Clark, as the
     retailer adds 100,000 new jobs in America, Canada.
   citation: ''
+
 ---
 *   The new hiring announcements follows a pattern: _“Amazon, the second-largest private employer in the U.S. behind Walmart, **added 175,000 warehouse workers in March and April, 125,000 of whom it intends to keep permanently**. Last week, it announced **33,000 vacancies for corporate and technology positions**.”_ ([WSJ](\"https://www.wsj.com/articles/amazon-to-hire-100-000-in-u-s-and-canada-11600071208?mod=hp_lead_pos3\"))
 *   New jobs: part/full-time, for $15 an hour with potential signing bonuses in some cities of up to $1,000.

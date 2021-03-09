@@ -23,6 +23,7 @@ featured_quote:
     Wisconsin Gov. Tony Evers on the rapid spread of COVID-19 in the state.
     Cases have reached record highs nationwide.
   citation: ''
+
 ---
 *   According to [_USA Today_ analysis](\"https://www.usatoday.com/story/news/health/2020/10/28/covid-cases-us-sees-surge-americans-tire-pandemic/6052710002/\"), citing Johns Hopkins University, an American tests positive for COVID every second and one American dies of COVID about every two minutes.
 *   Health officials warns the data will continue to worsen – as positive cases foreshadow higher hospitalizations and deaths (both trending higher).

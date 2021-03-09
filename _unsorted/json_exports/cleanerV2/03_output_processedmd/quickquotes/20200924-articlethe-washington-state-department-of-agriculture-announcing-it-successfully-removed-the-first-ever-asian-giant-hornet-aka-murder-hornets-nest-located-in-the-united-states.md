@@ -26,6 +26,7 @@ featured_quote:
     removed the first-ever Asian giant hornets (aka murder hornets) nest located
     in the United States.
   citation: ''
+
 ---
 *   Asian giant hornets are about two inches long, and as their name suggests, they are not native to the U.S.
 *   According to the [Washington State Department of Agriculture (WSDA),](\"https://agr.wa.gov/about-wsda/news-and-media-relations/news-releases?article=31875\") they are “**the world’s largest hornet and a predator of honey bees and other insects.”** Despite their name, they actually kill only a few humans each year, but a small group of Asian giant hornets is capable of killing a whole honey bee hive in just hours.

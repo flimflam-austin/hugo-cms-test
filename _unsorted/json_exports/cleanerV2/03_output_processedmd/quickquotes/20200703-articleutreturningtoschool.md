@@ -27,6 +27,7 @@ featured_quote:
     Epidemiologist Lauren Ancel Meyers, University of Texas Austin, on new
     research trying to help parents determine return to school.
   citation: ''
+
 ---
 _“Based on current infection rates, more than 80 percent of Americans live in a county where at least one infected person would be expected to show up to a school of 500 students and staff in the first week, if school started today.”_ [FULL ARTICLE](\"https://www.nytimes.com/interactive/2020/07/31/us/coronavirus-school-reopening-risk.html\")
 

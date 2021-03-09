@@ -17,6 +17,7 @@ featured_image:
   image: https://smarthernews.com/wp-content/uploads/2020/10/IMG_7874-843x1024.jpg
   alt: ''
 summary: What It Is – Why It Matters.
+
 ---
 **Create your own electoral college map: [CLICK HERE](\"https://www.realclearpolitics.com/epolls/2020/president/create_your_own_president_map.html\")**
 -------------------------------------------------------------------------------------------------------------------------------------------------------

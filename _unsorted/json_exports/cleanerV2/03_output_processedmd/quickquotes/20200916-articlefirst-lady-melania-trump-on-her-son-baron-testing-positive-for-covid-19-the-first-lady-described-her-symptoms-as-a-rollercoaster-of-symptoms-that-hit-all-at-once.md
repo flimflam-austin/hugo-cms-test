@@ -26,6 +26,7 @@ featured_quote:
     COVID-19. The First Lady described her symptoms as a “rollercoaster of
     symptoms” that “hit…all at once.”
   citation: ''
+
 ---
 First Lady Melania Trump wrote about her personal experiences with COVID-19 in a lengthy summary.
 

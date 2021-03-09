@@ -25,5 +25,6 @@ summary: >-
   Diagnosed with cancer at 23, this author now helps us live life smarter. Erin
   interviewed more than 150 experts but we believe it’s HER story that deserves
   to be told
+
 ---
 Check out Erin’s book and our other favorite reads [on our Amazon shop!](\"https://www.amazon.com/shop/smarthernews?listId=299RDIAANK4DN\")

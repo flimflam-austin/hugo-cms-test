@@ -30,6 +30,7 @@ featured_quote:
     Dr. Anthony Fauci speaking at the American Medical Association event
     Saturday on one of the surprising and mysterious impact of COVID-19.
   citation: ''
+
 ---
 *   _“We do know for absolutely certain that there is a post-Covid-19 syndrome — referred to sometimes as long Covid, chronic Covid, long haulers.”_
 *   Symptoms mentioned: “fatigue, shortness of breath, muscle aches, sleep disturbances and what is referred to as “brain fog.””

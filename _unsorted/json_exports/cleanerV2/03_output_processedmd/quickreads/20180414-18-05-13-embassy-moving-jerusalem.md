@@ -65,7 +65,7 @@ card_3:
     **Israel-America alliance; Israel is a U.S. ally.**
   card_citation: ''
 card_4:
-  card_text: "> _a\x1CWe are not taking a position on final status issues, including the specific boundaries of Israeli sovereignty in Jerusalem, nor on the resolution of contested borders.”_\n> \n> U.S. State Department's official statement on Jerusalem embassy opening, an attempt to leave room for negotiations that \\*could\\* bring peace or an territorial agreement between Israel & the West Bank."
+  card_text: "> _ax1CWe are not taking a position on final status issues, including the specific boundaries of Israeli sovereignty in Jerusalem, nor on the resolution of contested borders.”_n> n> U.S. State Department's official statement on Jerusalem embassy opening, an attempt to leave room for negotiations that *could* bring peace or an territorial agreement between Israel & the West Bank."
   card_citation: ''
 card_10:
   card_text: >-
@@ -77,6 +77,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-05-13-embassy-moving-jerusalem/)
   card_citation: ''
+
 ---
 *   **U.S. Embassy Jerusalem Dedication Ceremony:** [https://www.state.gov/r/pa/prs/ps/2018/05/282032.htm](\"https://www.state.gov/r/pa/prs/ps/2018/05/282032.htm\")
 *   **The 1967 Arab-Israeli War:** [https://history.state.gov/milestones/1961-1968/arab-israeli-war-1967](\"https://history.state.gov/milestones/1961-1968/arab-israeli-war-1967\")

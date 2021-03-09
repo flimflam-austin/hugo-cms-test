@@ -31,6 +31,7 @@ featured_quote:
     to kidnap her and 7 others accused of planning an attack at the state
     Capitol building.
   citation: ''
+
 ---
 *   According to the [criminal complaint](\"https://assets.documentcloud.org/documents/7223362/Michigan-Kidnapping-Conspiracy.pdf\"), accusing more than a dozen people of actively preparing and training for a mission they planned to carry out at some point ahead of Election Day (November 3), the group first met in June, and conducted surveillance for over two weeks throughout August and September.
     *   More charges and additional defendants are expected, according to Michigan Attorney General Dana Nessel.

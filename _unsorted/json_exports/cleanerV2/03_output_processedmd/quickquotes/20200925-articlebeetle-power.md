@@ -24,6 +24,7 @@ featured_quote:
     the diabolical ironclad beetle as a model potentially for airplanes,
     vehicles and buildings.
   citation: ''
+
 ---
 *   Researchers published their work in the journal of “Nature.”
 *   What: _“The beetle study is part of an $8 million project funded by the U.S. Air Force to explore how the biology of creatures such as mantis shrimp and bighorn sheep could help develop impact-resistant materials.” [READ MORE](\"https://www.pbs.org/newshour/science/cant-crush-this-beetle-armor-gives-clues-to-tougher-planes\")_

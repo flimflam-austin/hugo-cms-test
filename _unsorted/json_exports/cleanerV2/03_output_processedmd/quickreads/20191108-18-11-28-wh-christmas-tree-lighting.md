@@ -72,8 +72,9 @@ card_4:
     as an event supplier for inaugurations and D.C. events
   card_citation: ''
 card_10:
-  card_text: "On Nov. 28, the White House will hold its annual Christmas Tree Lighting Ceremony at dark in Presidenta\x19s Park. 56 schools have designed ornaments for the 56 trees that surround the National Tree, representing 56 U.S. states, territories, and D.C.\n\n[view sources](https://smarthernews.com/18-11-28-wh-christmas-tree-lighting/)"
+  card_text: "On Nov. 28, the White House will hold its annual Christmas Tree Lighting Ceremony at dark in Presidentax19s Park. 56 schools have designed ornaments for the 56 trees that surround the National Tree, representing 56 U.S. states, territories, and D.C.nn[view sources](https://smarthernews.com/18-11-28-wh-christmas-tree-lighting/)"
   card_citation: ''
+
 ---
 *   **A Coolidge ChristmasA** **the 1923 national Christmas tree lighting and the public celebration:**  
     [https://www.whitehousehistory.org/a-coolidge-christmas](\"https://www.whitehousehistory.org/a-coolidge-christmas\")

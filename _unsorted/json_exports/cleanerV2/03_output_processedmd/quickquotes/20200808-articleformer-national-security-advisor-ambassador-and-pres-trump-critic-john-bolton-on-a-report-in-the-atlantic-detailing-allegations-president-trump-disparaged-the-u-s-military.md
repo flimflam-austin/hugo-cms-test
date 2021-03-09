@@ -26,6 +26,7 @@ featured_quote:
     John Bolton on a report in The Atlantic detailing allegations President
     Trump disparaged the U.S. military.
   citation: ''
+
 ---
 *   Here’s the report in [The Atlantic](\"https://www.theatlantic.com/politics/archive/2020/09/trump-americans-who-died-at-war-are-losers-and-suckers/615997/\"): **Trump: Americans Who Died in War Are ‘Losers’ and ‘Suckers’ The president has repeatedly disparaged the intelligence of service members, and asked that wounded veterans be kept out of military parades, multiple sources tell The Atlantic.**
 *   The President denies the report, [calling it “a hoax.”](\"https://www.whitehouse.gov/briefings-statements/remarks-president-trump-press-conference-september-7-2020/\")   

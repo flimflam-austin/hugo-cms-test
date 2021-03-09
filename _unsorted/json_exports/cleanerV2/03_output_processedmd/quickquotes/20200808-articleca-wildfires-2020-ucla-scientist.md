@@ -25,6 +25,7 @@ featured_quote:
     parts of California, particularly in Northern California and the San
     Francisco Bay Area.
   citation: ''
+
 ---
 *   Beginning on [August 15](\"https://www.fire.ca.gov/daily-wildfire-report/\"), lightning ignited hundreds of wildfires across Northern California. To date, there have been over [615](\"https://www.fire.ca.gov/daily-wildfire-report/\") new fires, burning more than [1.1](\"https://www.fire.ca.gov/daily-wildfire-report/\") million acres across the state, resulting in the loss of [seven](\"https://apnews.com/c9df1469c474c684b7481f4ae873d384\") lives and over [1,200](\"https://apnews.com/c9df1469c474c684b7481f4ae873d384\") buildings and structures.
 *   Swain [says](\"https://www.nytimes.com/2020/08/25/us/california-fires-why-this-year-is-different.html\") that unlike prior years, this year’s wildfires have reached vegetation areas. like redwoods, that typically are not susceptible to wildfires.

@@ -24,6 +24,7 @@ summary: >-
   SmartHER With Erin Oprea: Erin shares personal stories from her two historic
   deployments to the Iraq War and explains why her service changed her life
   forever.
+
 ---
 Here’s how you can listen to this interview as a podcast – [CLICK HERE](\"https://smarthernews.libsyn.com/website/before-she-trained-carrie-underwood-she-went-to-war-as-a-marine-smarther-with-erin-oprea-0\")
 

@@ -18,6 +18,7 @@ featured_quote:
   quote: YouTube cannot bury its head in the sand.
   summary: Historic Settlement for tracking your children
   citation: ''
+
 ---
 FTCa\\u0019s Bureau of Consumer Protection Andrew Smith announcing a historic $170M settlement with YouTube owner, Google.
 

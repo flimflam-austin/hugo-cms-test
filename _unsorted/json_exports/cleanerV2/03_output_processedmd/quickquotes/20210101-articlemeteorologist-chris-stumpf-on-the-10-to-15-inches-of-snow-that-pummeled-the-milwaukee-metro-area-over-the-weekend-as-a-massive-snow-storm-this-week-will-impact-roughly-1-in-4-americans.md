@@ -26,6 +26,7 @@ featured_quote:
     Milwaukee metro area over the weekend as a massive snow storm this week will
     impact roughly 1 in 4 Americans.
   citation: ''
+
 ---
 *   Many parts of the Midwest already have several inches of snow blanketing the ground as 80 million Americans were under winter storm watches, advisories or warnings over the weekend.
 *   Governors of New York, New Jersey and Connecticut have activated state emergency operations in preparation for possible whiteout travel conditions and power outages amid blizzard-like weather (up to 18 inches of snow possible)

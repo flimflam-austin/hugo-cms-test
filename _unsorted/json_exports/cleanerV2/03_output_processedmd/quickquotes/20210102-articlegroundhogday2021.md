@@ -27,6 +27,7 @@ featured_quote:
     Punxsutawney Groundhog Club President Jeff Lundy’s message of hope after the
     groundhog, Phil, saw his shadow, indicating six more weeks of winter.
   citation: ''
+
 ---
 *   Groundhog Day 2021 was held virtually this year due to the pandemic, with only cardboard cutout fans to cheer Phil on as he emerged from his burrow in Punxsutawney, Pennsylvania—a small town about 80 miles northeast of Pittsburgh.
 *   How does it work? When Phil surfaces at first light, the presence of a shadow determines a prediction for an early spring or weeks more of winter: _[“Tradition says Phil seeing his shadow is a sign that the next six weeks will bring wintry weather. If Phil doesn’t see his shadow, it means an early spring.”](\"https://www.usatoday.com/story/news/nation/2021/02/02/groundhog-day-punxsutawney-phil-sees-shadow-six-more-weeks-winte/4351413001/\")_

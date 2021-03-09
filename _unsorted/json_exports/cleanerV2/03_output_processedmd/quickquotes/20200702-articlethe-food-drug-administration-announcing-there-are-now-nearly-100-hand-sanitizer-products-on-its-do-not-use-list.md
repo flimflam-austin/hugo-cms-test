@@ -23,6 +23,7 @@ featured_quote:
     The Food & Drug Administration announcing there are now nearly 100 hand
     sanitizer products on its do-not-use list.
   citation: ''
+
 ---
 *   Over the past two months, the FDA has continued to warn consumers against using certain hand sanitizer products.
     *   Some contain low levels of alcohol – the active ingredient in hand sanitizer.  The CDC [recommends](\"https://www.cdc.gov/handwashing/show-me-the-science-hand-sanitizer.html\") consumers use an alcohol-based hand sanitizer that contains at least 60% alcohol.

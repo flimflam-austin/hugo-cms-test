@@ -24,6 +24,7 @@ featured_quote:
     California wildfires highlight the inconsistency of cellphones during
     emergencies.
   citation: ''
+
 ---
 *   California Public Advocates Office Chris Ungson about an unforeseen consequences of the wildfires.
 *   As PG&E has cut power, cell phone towers have lost electricity as well, leaving residence with no way to communicate or receive emergency alerts.

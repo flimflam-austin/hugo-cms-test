@@ -29,6 +29,7 @@ featured_quote:
     for full moons – the first full moon of the year is frequently referred to
     as the “wolf moon.”
   citation: ''
+
 ---
 *   _“From what I have learned about traditional names given to full Moons prior to the introduction of modern timekeeping, local leaders would usually decide on the name of the Moon based on conditions at the time. These cultures did not generally need calendars that specify exact dates far in advance. Full Moon names were used to describe and remember what happened in the past and to remind of what was likely to come in the near future. Also, there are many different Native American names for the full Moons.” Johnston._
 *   January Full Moon names include: Candles Moon, Snow Moon, Hunger Moon, Center Moon, Cold Moon, [and more.](\"https://solarsystem.nasa.gov/news/1675/the-next-full-moon-is-another-wolf-moon/\") It occurred on Thursday, January 28th.

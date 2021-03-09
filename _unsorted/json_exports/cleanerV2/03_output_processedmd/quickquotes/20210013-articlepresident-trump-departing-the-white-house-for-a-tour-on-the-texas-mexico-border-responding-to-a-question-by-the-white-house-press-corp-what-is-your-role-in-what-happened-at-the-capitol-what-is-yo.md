@@ -25,6 +25,7 @@ featured_quote:
     border responding to a question by the White House Press Corp., “What is
     your role in what happened at the Capitol?”
   citation: ''
+
 ---
 *   Here’s President Trump’s [full answer](\"https://www.whitehouse.gov/briefings-statements/remarks-president-trump-air-force-one-departure-joint-base-andrews-md-011221/\"):
 

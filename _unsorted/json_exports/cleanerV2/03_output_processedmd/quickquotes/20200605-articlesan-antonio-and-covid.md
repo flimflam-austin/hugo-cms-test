@@ -23,6 +23,7 @@ featured_quote:
     ER Dr. Salim Rezaie, Main Methodist Hospital in San Antonio, on an influx of
     COVID-19 patients. Texas is one of the national hotspots.
   citation: ''
+
 ---
 _“I’ve never seen anything like this,” said Salim Rezaie, an emergency-medicine physician at Main Methodist Hospital in San Antonio. “It’s unrelenting and it doesn’t look like it’s letting up at all.”_
 

@@ -90,6 +90,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-25-perfect-cup-of-coffee/)
   card_citation: ''
+
 ---
 *   **Now Therea\\u0019s an Algorithm for How Much Coffee Can Boost Your Performancea\\u0014And When to Drink It**A [https://www.vogue.com/article/coffee-army-algorithm-perfect-amount-dosage-caffeine/amp?\_\_twitter\_impression=true](\"https://www.vogue.com/article/coffee-army-algorithm-perfect-amount-dosage-caffeine/amp?__twitter_impression=true\")
 *   **Caffeine dosing strategies to optimize alertness during sleep loss**A A [https://onlinelibrary.wiley.com/doi/full/10.1111/jsr.12711](\"https://onlinelibrary.wiley.com/doi/full/10.1111/jsr.12711\")

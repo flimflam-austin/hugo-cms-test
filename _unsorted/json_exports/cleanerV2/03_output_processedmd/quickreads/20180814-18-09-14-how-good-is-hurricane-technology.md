@@ -85,6 +85,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-09-14-how-good-is-hurricane-technology/)
   card_citation: ''
+
 ---
 *   **Here’s why hurricane forecasting is getting better:  
     **[https://www.cnbc.com/2017/09/08/heres-why-hurricane-forecasting-is-getting-better.html](\"https://www.cnbc.com/2017/09/08/heres-why-hurricane-forecasting-is-getting-better.html\")

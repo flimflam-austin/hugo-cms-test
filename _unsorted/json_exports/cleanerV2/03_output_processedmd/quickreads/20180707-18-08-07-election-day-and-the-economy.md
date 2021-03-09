@@ -44,7 +44,7 @@ card_2:
     priority for voters during this particular midterm election.
   card_citation: ''
 card_3:
-  card_text: "> “Trump is a bigger factor in midterm voting preferences a\x13 positive or negative a\x13 than any president in more than three decades. “\n> \n> Pew Research, June 20th 2018. Polling also showed voters want to hear most from candidates about immigration, followed by health care, education, & gun laws."
+  card_text: "> “Trump is a bigger factor in midterm voting preferences ax13 positive or negative ax13 than any president in more than three decades. “n> n> Pew Research, June 20th 2018. Polling also showed voters want to hear most from candidates about immigration, followed by health care, education, & gun laws."
   card_citation: ''
 card_4:
   card_text: >-
@@ -63,7 +63,7 @@ card_4:
     them?
   card_citation: ''
 card_5:
-  card_text: "A Bipartisan Challenge\n----------------------\n\n> “_Winning control of the House and Senate means **Democrats have to fight on Republican turf,** and that means talking to Romney-Clinton and Obama-Trump voters. How well they can talk to both at the same time a\x14 and **how well Republicans do among the same groups** a\x14 will determine whether we see a blue wave or another case of Democratic despair.”_ (NYT)"
+  card_text: "A Bipartisan Challengen----------------------nn> “_Winning control of the House and Senate means **Democrats have to fight on Republican turf,** and that means talking to Romney-Clinton and Obama-Trump voters. How well they can talk to both at the same time ax14 and **how well Republicans do among the same groups** ax14 will determine whether we see a blue wave or another case of Democratic despair.”_ (NYT)"
   card_citation: ''
 card_10:
   card_text: >-
@@ -76,6 +76,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-08-07-election-day-and-the-economy/)
   card_citation: ''
+
 ---
 *   **Jobs boom favors Democratic counties, not Trump strongholds**_  
     When the Pew Research Center asked voters in June to identify the nationa\\u0019s most pressing issue, more of them chose immigration, race, political gridlock or Trump himself than the economy. The proportion of people who said the economy was their top priority fell to its lowest level in more than eight years._  

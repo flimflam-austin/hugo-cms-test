@@ -25,6 +25,7 @@ featured_quote:
     or was in any way compromised.
   summary: Federal election security officials in a joint statement.
   citation: ''
+
 ---
 *   The statement was issued by the [Cybersecurity and Infrastructure Security Agency](\"https://www.cisa.gov/news/2020/11/12/joint-statement-elections-infrastructure-government-coordinating-council-election\") (CISA), a federal agency established by Pres. Trump in 2018. CISA operates under the Department of Homeland Security (DHS).
 *   The statement also notes that “_all of the states with close results in the 2020 presidential race have paper records of each vote, allowing the ability to go back and count each ballot if necessary. This is an added benefit for security and resilience. This process allows for the identification and correction of any mistakes or error_s.”

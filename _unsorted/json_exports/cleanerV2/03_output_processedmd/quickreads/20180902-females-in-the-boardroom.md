@@ -66,7 +66,7 @@ card_3:
     board.
   card_citation: ''
 card_4:
-  card_text: "> a\x1CIa\x19m not at all convinced it would pass legal muster. …you are saying you need to single out women and get them on boards. The question is can you make that preference & will it hurt men?a\x1D\n> \n> Jessica Levinson, Loyola Law School professor, on why the new California law may be vulnerable to a court challenge. Critics argue it may lead to unqualified candidates receiving the role, simply due to their gender. That said, several studies point to better company performance with females on the board."
+  card_text: "> ax1CIax19m not at all convinced it would pass legal muster. …you are saying you need to single out women and get them on boards. The question is can you make that preference & will it hurt men?ax1Dn> n> Jessica Levinson, Loyola Law School professor, on why the new California law may be vulnerable to a court challenge. Critics argue it may lead to unqualified candidates receiving the role, simply due to their gender. That said, several studies point to better company performance with females on the board."
   card_citation: ''
 card_5:
   card_text: >-
@@ -92,6 +92,7 @@ card_10:
 
     [view sources](https://smarthernews.com/females-in-the-boardroom/)
   card_citation: ''
+
 ---
 *   **Gov. Jerry Brown signs bill requiring California corporate boards to include women:**  
     [http://www.latimes.com/politics/la-pol-ca-governor-women-corporate-boards-20180930-story.html](\"http://www.latimes.com/politics/la-pol-ca-governor-women-corporate-boards-20180930-story.html\")

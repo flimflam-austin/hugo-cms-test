@@ -23,7 +23,7 @@ card_1:
     Dates back to Reagan: Flip Here
   card_citation: 'Dates back to Reagan: Flip Here'
 card_2:
-  card_text: "Women’s History Month Timeline\n------------------------------\n\n**1981:** Congress 1st established _Women’s History Week_\_(for 1982).\n\n**1987:** Congress 1st established Women’s History Month\n\n**Since 1995:** Every President issued annual proclamations designating March Women’s History Month"
+  card_text: "Women’s History Month Timelinen------------------------------nn**1981:** Congress 1st established _Women’s History Week__(for 1982).nn**1987:** Congress 1st established Women’s History Monthnn**Since 1995:** Every President issued annual proclamations designating March Women’s History Month"
   card_citation: ''
 card_3:
   card_text: >-
@@ -60,6 +60,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-03-01-womens-history-month/)
   card_citation: ''
+
 ---
 *   March is Women’s History Month: [https://womenshistorymonth.gov/about/](\"https://womenshistorymonth.gov/about/\")
 *   Women’s History Month: March 2018: [https://www.census.gov/newsroom/facts-for-features/2018/womens-history.html](\"https://www.census.gov/newsroom/facts-for-features/2018/womens-history.html\")

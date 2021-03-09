@@ -65,7 +65,7 @@ card_3:
     *   Purple Heart recipient.
   card_citation: ''
 card_4:
-  card_text: "Being “First”…  \nBrings Challenges\n----------------------------------\n\n> a\x1CI cana\x19t technically take maternity leave. Because if I take maternity leave, then I wona\x19t be allowed to sponsor legislation or vote during that time period.a\x1D\n> \n> Senator Duckworth, Women Rule Podcast, Politico, Feb. 14, 2018"
+  card_text: "Being “First”…  nBrings Challengesn----------------------------------nn> ax1CI canax19t technically take maternity leave. Because if I take maternity leave, then I wonax19t be allowed to sponsor legislation or vote during that time period.ax1Dn> n> Senator Duckworth, Women Rule Podcast, Politico, Feb. 14, 2018"
   card_citation: ''
 card_10:
   card_text: >-
@@ -76,6 +76,7 @@ card_10:
 
     [view sources](https://smarthernews.com/tammy-duckworth/)
   card_citation: ''
+
 ---
 *   Duckworth & Family Welcome Second Daughter into the World: [https://www.duckworth.senate.gov/news/press-releases/-duckworth-and-family-welcome-second-daughter-into-the-world](\"https://www.duckworth.senate.gov/news/press-releases/-duckworth-and-family-welcome-second-daughter-into-the-world\")
 *   Tammy Duckworth Becomes First U.S. Senator To Give Birth While In Office: [https://www.npr.org/sections/thetwo-way/2018/04/09/600896586/tammy-duckworth-becomes-first-u-s-senator-to-give-birth-while-in-office](\"https://www.npr.org/sections/thetwo-way/2018/04/09/600896586/tammy-duckworth-becomes-first-u-s-senator-to-give-birth-while-in-office\")

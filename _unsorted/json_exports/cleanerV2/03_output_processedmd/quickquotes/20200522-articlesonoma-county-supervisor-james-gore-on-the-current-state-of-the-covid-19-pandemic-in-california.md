@@ -23,6 +23,7 @@ featured_quote:
     Sonoma County Supervisor James Gore on the current state of the COVID-19
     pandemic in California.
   citation: ''
+
 ---
 *   In the last two weeks, California’s [COVID-19 cases have risen](\"https://www.sfgate.com/local/editorspicks/article/California-COVID-19-Gavin-Newsom-increase-cases-15358013.php\").
 *   Nearly 36% of the state’s total cases occurred in the last 14 days.

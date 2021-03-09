@@ -97,6 +97,7 @@ card_10:
     [view
     sources](https://smarthernews.com/14-04-02-world-autism-awareness-day/)
   card_citation: ''
+
 ---
 *   Autism Spectrum Disorder Fact Sheet: [https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Autism-Spectrum-Disorder-Fact-Sheet](\"https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Autism-Spectrum-Disorder-Fact-Sheet\")
 *   Autism Spectrum Disorder (ASD): [https://www.cdc.gov/ncbddd/autism/index.html](\"https://www.cdc.gov/ncbddd/autism/index.html\")

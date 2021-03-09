@@ -31,6 +31,7 @@ featured_quote:
     consumers and advertisers in the third antitrust lawsuit filed against the
     tech giant since October.
   citation: ''
+
 ---
 *   On Thursday, a 30+ state bipartisan coalition led by Colorado [sued](\"https://coag.gov/app/uploads/2020/12/Colorado-et-al.-v.-Google-PUBLIC-REDACTED-Complaint.pdf\") Google, accusing it of maintaining a monopoly using  exclusionary agreements in order to leverage its own products over those of its competitors.
 *   On Wednesday, a 10-state coalition of Republican attorneys general led by Texas filed an [antitrust lawsuit](\"https://www.texasattorneygeneral.gov/sites/default/files/images/admin/2020/Press/20201216%20COMPLAINT_REDACTED.pdf\") against Google, accusing it of anti-competitive advertising practices – including an unlawful agreement with Facebook.

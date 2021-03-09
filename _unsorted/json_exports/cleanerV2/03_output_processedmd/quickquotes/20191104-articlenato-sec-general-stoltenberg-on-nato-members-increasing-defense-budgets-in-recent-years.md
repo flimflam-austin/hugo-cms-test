@@ -27,6 +27,7 @@ featured_quote:
     NATO Sec. General Stoltenberg on NATO members increasing defense budgets in
     recent years.
   citation: ''
+
 ---
 *   Sec. Stoltenberg held a press conference with President Trump during a 70th anniversary summit of NATO in London.
 *   He said since 2016 member nations have added more than $100B to their defense budgets.

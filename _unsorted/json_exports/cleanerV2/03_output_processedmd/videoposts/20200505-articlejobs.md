@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   Better than expected jobs report and why the individual matters most! PLUS ~ a
   personal note about, SmartHER News.
+
 ---

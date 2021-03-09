@@ -22,5 +22,6 @@ featured_image:
 summary: >-
   Why the VP pick matters (and it’s limitations), the job market, the Supreme
   Court, and context for the cluster of COVID infections at the White House
+
 ---
 Here’s the study we referenced from the CDC: [CLICK HERE](\"https://www.cdc.gov/mmwr/volumes/69/wr/mm6915e1.htm\")

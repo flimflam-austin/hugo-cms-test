@@ -86,6 +86,7 @@ card_4:
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-02-05-freezing-olympics/)'
   card_citation: ''
+
 ---
 1.  **STRAIGHT FROM THE SOURCE: RALPH LAUREN PRESS RELEASE**:A [http://investor.ralphlauren.com/phoenix.zhtml?c=65933&p=irol-newsArticle&ID=2327718](\"http://investor.ralphlauren.com/phoenix.zhtml?c=65933&p=irol-newsArticle&ID=2327718\")
 2.  Most of the world may be experiencing unseasonably warm weather this winter a\\u0014 but the forecasts tellA a very different story for Pyeongchang, South Korea, where temperatures could be as low as 7 degrees Fahrenheit on the night of the 2018 Winter Olympics opening ceremony.[http://theweek.com/speedreads/752019/2018-winter-olympics-could-coldest-record](\"http://theweek.com/speedreads/752019/2018-winter-olympics-could-coldest-record\")

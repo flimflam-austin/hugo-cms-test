@@ -39,10 +39,10 @@ card_1:
     Now](https://www.youtube.com/embed/SiOo4C2CiRQ?enablejsapi=1&autoplay=1&rel=0)
   card_citation: Watch Now
 card_2:
-  card_text: "Cynthia Nixon  \nBackground & Platform\n-------------------------------------\n\n*   Born & bred in NYC.\n*   a\x1CProud public school graduate & prouder public school parenta\x1D\n*   Mom of 3; Married to her wife who is an education activist.\n*   Public activist on education & LGBT issues.\n*   Equality (economic & otherwise) = major theme of campaign.\n*   Has never run for elected office."
+  card_text: "Cynthia Nixon  nBackground & Platformn-------------------------------------nn*   Born & bred in NYC.n*   ax1CProud public school graduate & prouder public school parentax1Dn*   Mom of 3; Married to her wife who is an education activist.n*   Public activist on education & LGBT issues.n*   Equality (economic & otherwise) = major theme of campaign.n*   Has never run for elected office."
   card_citation: ''
 card_3:
-  card_text: "Why You Should Care:  \n\n=======================\n\nEven If You Aren’t A NY’er  \n\n-----------------------------\n\n*   Current NY Gov. Andrew Cuomo (D) considered a potential candidate for President 2020.\n*   Cuomo considered a a\x1Ccentrista\x1D & Nixon, progressive. Nixon attacks Cuomo’s “Democrat” credentials.\n*   Watching who wins $$ & support **may provide insight into direction of Democratic Party.A**"
+  card_text: "Why You Should Care:  nn=======================nnEven If You Aren’t A NY’er  nn-----------------------------nn*   Current NY Gov. Andrew Cuomo (D) considered a potential candidate for President 2020.n*   Cuomo considered a ax1Ccentristax1D & Nixon, progressive. Nixon attacks Cuomo’s “Democrat” credentials.n*   Watching who wins $$ & support **may provide insight into direction of Democratic Party.A**"
   card_citation: ''
 card_4:
   card_text: >-
@@ -59,8 +59,9 @@ card_4:
     subways and state trains into-and-out of NYC.
   card_citation: ''
 card_10:
-  card_text: "Actress who played \"Charlotte\" in \"Sex In The City\" was the first to support a\x1CMirandaa\x1D - Kristin Davis showed her support on social media fo Nixon. If Nixon won, she'd be first woman AND first openly gay governor of NY state.\n\n[view sources](https://smarthernews.com/18-02-19-sex-city-governor-run/)"
+  card_text: "Actress who played "Charlotte" in "Sex In The City" was the first to support ax1CMirandaax1D - Kristin Davis showed her support on social media fo Nixon. If Nixon won, she'd be first woman AND first openly gay governor of NY state.nn[view sources](https://smarthernews.com/18-02-19-sex-city-governor-run/)"
   card_citation: ''
+
 ---
 *   ‘Sex and the City’ actress Cynthia Nixon to run for New York governorA [https://www.reuters.com/article/us-new-york-governor-cynthianixon/sex-and-the-city-actress-cynthia-nixon-to-run-for-new-york-governor-idUSKBN1GV2HU](\"https://www.reuters.com/article/us-new-york-governor-cynthianixon/sex-and-the-city-actress-cynthia-nixon-to-run-for-new-york-governor-idUSKBN1GV2HU\")
 *   Why She Says She’s Running:A [https://cynthiafornewyork.com/why-im-running/](\"https://cynthiafornewyork.com/why-im-running/\")

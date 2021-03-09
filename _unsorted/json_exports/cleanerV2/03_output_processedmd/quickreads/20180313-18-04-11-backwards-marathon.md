@@ -34,7 +34,7 @@ card_2:
     record...backwards.
   card_citation: ''
 card_3:
-  card_text: "Wait…BACKWARDS? Why?\n--------------------\n\nHis goal is to raise **$100,000 for the Epilepsy Foundation** a\x14 and break the **world record for the fastest marathon (26.2 miles) ever run backwardsA** in less than 3 hours, 43 mins & 39 seconds**.**\n\n(For those keeping tabs, that’d be about anA **8:30 min/mile** avg pace!)\n\nflip: head on a swivel"
+  card_text: "Wait…BACKWARDS? Why?n--------------------nnHis goal is to raise **$100,000 for the Epilepsy Foundation** ax14 and break the **world record for the fastest marathon (26.2 miles) ever run backwardsA** in less than 3 hours, 43 mins & 39 seconds**.**nn(For those keeping tabs, that’d be about anA **8:30 min/mile** avg pace!)nnflip: head on a swivel"
   card_citation: 'flip: head on a swivel'
 card_4:
   card_text: >-
@@ -71,7 +71,7 @@ card_5:
     production lawyer at Disney in L.A.
   card_citation: ''
 card_6:
-  card_text: "Charity Close to His Heart\n--------------------------\n\n*   Loren is running in memory of a brother he never met. Brian, his fathera\x19s son from a previous marriage, died in his sleep after suffering non-stop seizures.\n*   1 in 26 Americans will be diagnosed with epilepsy.\n*   He’s more than halfway to his goal of raising $100K for the Epilepsy Foundation for research & local programs."
+  card_text: "Charity Close to His Heartn--------------------------nn*   Loren is running in memory of a brother he never met. Brian, his fatherax19s son from a previous marriage, died in his sleep after suffering non-stop seizures.n*   1 in 26 Americans will be diagnosed with epilepsy.n*   He’s more than halfway to his goal of raising $100K for the Epilepsy Foundation for research & local programs."
   card_citation: ''
 card_10:
   card_text: >-
@@ -83,6 +83,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-11-backwards-marathon/)
   card_citation: ''
+
 ---
 *   Learn more about #backwardsguy Loren’s cause & donate to his $100,000 goal here:  
     [www.BostonBackwards.com](\"http://www.BostonBackwards.com\")

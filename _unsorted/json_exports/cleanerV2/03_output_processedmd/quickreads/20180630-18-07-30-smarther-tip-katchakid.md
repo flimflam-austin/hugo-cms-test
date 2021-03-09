@@ -36,6 +36,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-07-30-smarther-tip-katchakid/)
   card_citation: ''
+
 ---
 [https://katchakid.com/](\"https://katchakid.com/\")
 

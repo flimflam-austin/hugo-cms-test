@@ -15,10 +15,10 @@ color_palette_classname: dark-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/mathieu-turle-524977-unsplash-scaled.jpg
 card_1:
-  card_text: "Your Money At Work?\n===================\n\nCongress passed a **$1.3T $pending bill** thatA keeps the government funded until October (approx. 6 months).\n\nFRIENDLY REMINDER:  \n**Ita\x19s all your money.**\n\nFlip For How Ita\x19s Spent."
-  card_citation: "Flip For How Ita\x19s Spent."
+  card_text: "Your Money At Work?n===================nnCongress passed a **$1.3T $pending bill** thatA keeps the government funded until October (approx. 6 months).nnFRIENDLY REMINDER:  n**Itax19s all your money.**nnFlip For How Itax19s Spent."
+  card_citation: "Flip For How Itax19s Spent."
 card_2:
-  card_text: "> “But I say to Congress: I will never sign another bill like this again.A Ia\x19m not going to do it again.A Nobody read it.A Ita\x19s only hours old.A Some people dona\x19t even know what is in a\x14 $1.3 trillion a\x14 ita\x19s the second largest ever.”\n> \n> President Trump, remarks after signing spending bill, White House, March 23, 2018"
+  card_text: "> “But I say to Congress: I will never sign another bill like this again.A Iax19m not going to do it again.A Nobody read it.A Itax19s only hours old.A Some people donax19t even know what is in ax14 $1.3 trillion ax14 itax19s the second largest ever.”n> n> President Trump, remarks after signing spending bill, White House, March 23, 2018"
   card_citation: ''
 card_3:
   card_text: >-
@@ -53,10 +53,10 @@ card_4:
     much spending and not enough public debate.
   card_citation: ''
 card_5:
-  card_text: "> “Victory for conservatives today is that all of America now knows what a budget busting bomb this bill is. Hopefully, todaya\x19s battle will embolden conservatives to descend on Congress and demand Constitutional government.”\n> \n> Sen Rand Paul (R, KY) Twitter, March 22, 2018 (He doesn't like the bill either)"
+  card_text: "> “Victory for conservatives today is that all of America now knows what a budget busting bomb this bill is. Hopefully, todayax19s battle will embolden conservatives to descend on Congress and demand Constitutional government.”n> n> Sen Rand Paul (R, KY) Twitter, March 22, 2018 (He doesn't like the bill either)"
   card_citation: ''
 card_6:
-  card_text: "Bipartisan Support\n------------------\n\nWhile some of the loudest critics came from conservative corners, the bill did receive some bipartisan support and that’s how it passed.\n\n_a\x1CThis is a bill that puts the middle class and those struggling to get there first.”_  \nSenator Chuck Schumer (D, NY) WSJ"
+  card_text: "Bipartisan Supportn------------------nnWhile some of the loudest critics came from conservative corners, the bill did receive some bipartisan support and that’s how it passed.nn_ax1CThis is a bill that puts the middle class and those struggling to get there first.”_  nSenator Chuck Schumer (D, NY) WSJ"
   card_citation: ''
 card_7:
   card_text: >-
@@ -115,6 +115,7 @@ card_10:
 
     [view sources](https://smarthernews.com/money-draft/)
   card_citation: ''
+
 ---
 *   WASHINGTON (AP) a\\u0014 The Latest on Congress and a $1.3 trillion government spending bill (all times local):A [https://apnews.com/81a76d9089954877a4cbf7b091cdb02f?utm\_campaign=SocialFlow&utm\_source=Twitter&utm\_medium=AP](\"https://apnews.com/81a76d9089954877a4cbf7b091cdb02f?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP\")
 *   Congress Passes Mammoth Spending Bill, Averts Shutdown  

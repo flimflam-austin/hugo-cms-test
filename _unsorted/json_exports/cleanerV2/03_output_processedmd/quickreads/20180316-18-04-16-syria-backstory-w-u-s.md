@@ -88,6 +88,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-16-syria-backstory-w-u-s/)
   card_citation: ''
+
 ---
 *   **C.I.A. WORLD FACTBOOK**:A [https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html](\"https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html\")
 *   **U.S. Relations With Syria (2014)**:A [https://www.state.gov/r/pa/ei/bgn/3580.htm](\"https://www.state.gov/r/pa/ei/bgn/3580.htm\")

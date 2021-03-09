@@ -32,6 +32,7 @@ featured_quote:
     Peter Marks, as the FDA granted emergency use authorization to the Pfizer
     COVID-19 vaccine.
   citation: ''
+
 ---
 *   One day after an independent advisory panel recommended the FDA grant special status to a COVID-19 vaccine, the FDA followed suit.
 *   Emergency use authorization (EUA) allows use of medication, tests, devices etc. during moments of national health emergencies based on preliminary or limited data, though the U.S. gov’t stands by the safety and efficacy for this vaccine.

@@ -29,6 +29,7 @@ featured_quote:
     Hurricane Delta at home; Hurricane Laura damaged his house only weeks
     earlier during this historic hurricane season.
   citation: ''
+
 ---
 *   Hundreds of thousands remain without power across Louisiana, Texas & Mississippi due to Hurricane Delta, hitting only 6 weeks after Hurricane Laura.
 *   While Hurricane Laura brought high-winds, the rain of Hurricane Delta caused flooding.

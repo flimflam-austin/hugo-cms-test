@@ -22,6 +22,7 @@ featured_image:
 summary: >-
   An under-the-radar story on presidential politics, the fate of economic
   stimulus and pandemic trends to watch.
+
 ---
 **Here’s some info on voter registration in swing states:** [READ MORE](\"https://www.cbsnews.com/news/voter-registration-republicans-swing-states-narrow-gap/\")
 

@@ -72,7 +72,7 @@ card_3:
     *   U.S. responded with major bombing campaign.
   card_citation: ''
 card_4:
-  card_text: "> a\x1CThe risks are high. There is a new Cold War prevailing in Syria and any escalation could pave the way for a regional or international war given the fact that the big powers are directly present on the ground…a\x1D\n> \n> Samir Nadir, Levant Institue For Strategic Affairs to Washington Post (2/12/18)"
+  card_text: "> ax1CThe risks are high. There is a new Cold War prevailing in Syria and any escalation could pave the way for a regional or international war given the fact that the big powers are directly present on the ground…ax1Dn> n> Samir Nadir, Levant Institue For Strategic Affairs to Washington Post (2/12/18)"
   card_citation: ''
 card_10:
   card_text: >-
@@ -82,6 +82,7 @@ card_10:
 
     [view sources](https://smarthernews.com/02-14-18-israeli-plane-shot/)
   card_citation: ''
+
 ---
 *   Syriaa\\u0019s war mutates into a regional conflict, risking a wider conflagration – [https://www.washingtonpost.com/world/syrias-war-mutates-into-a-regional-conflict-risking-a-wider-conflagration/2018/02/12/87c783fc-0da2-11e8-998c-96deb18cca19\_story.html?utm\_term=.15164a65c4a0](\"https://www.washingtonpost.com/world/syrias-war-mutates-into-a-regional-conflict-risking-a-wider-conflagration/2018/02/12/87c783fc-0da2-11e8-998c-96deb18cca19_story.html?utm_term=.15164a65c4a0\")
 *   Israel’s take on what happened – Good video here:A [https://www.idf.il/en/minisites/israeli-air-force/air-force-strikes-iranian-targets-in-syria/](\"https://www.idf.il/en/minisites/israeli-air-force/air-force-strikes-iranian-targets-in-syria/\")

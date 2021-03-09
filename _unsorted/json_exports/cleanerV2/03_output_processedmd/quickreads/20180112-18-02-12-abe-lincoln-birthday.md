@@ -15,7 +15,7 @@ color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/kelli-dougal-434239-1-360x360.jpg
 card_1:
-  card_text: "President Abraham Lincoln Is Born\n---------------------------------\n\n> a\x1CI was born **Feb. 12, 1809**, in Hardin County, Kentucky. My parents were both born in Virginia, of undistinguished familiesa\x13second families, perhaps I should say.”\n> \n> Pres. Lincoln, Dec 20, 1859 before he secured Republican nomination"
+  card_text: "President Abraham Lincoln Is Bornn---------------------------------nn> ax1CI was born **Feb. 12, 1809**, in Hardin County, Kentucky. My parents were both born in Virginia, of undistinguished familiesax13second families, perhaps I should say.”n> n> Pres. Lincoln, Dec 20, 1859 before he secured Republican nomination"
   card_citation: ''
 card_2:
   card_text: >-
@@ -72,6 +72,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-12-abe-lincoln-birthday/)
   card_citation: ''
+
 ---
 *   Gettysburg Address: [http://americanhistory.si.edu/documentsgallery/exhibitions/document\_transcripts/Gettysburg\_Address\_small.pdf](\"http://americanhistory.si.edu/documentsgallery/exhibitions/document_transcripts/Gettysburg_Address_small.pdf\")
 *   Small Pox?A http://www.washingtonpost.com/wp-dyn/content/article/2007/05/22/AR2007052200938.html

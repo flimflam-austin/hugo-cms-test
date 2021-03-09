@@ -74,16 +74,17 @@ card_4:
     Now](https://www.youtube.com/embed/3Sa8G-VR13Q?enablejsapi=1&autoplay=1&rel=0)
   card_citation: Watch Now
 card_5:
-  card_text: "> a\x1CIn my lifetime, hea\x19s one of the most remarkable patriots our countrya\x19s ever produced. I love the guy.a\x1D\n> \n> Former President Bill Clinton, May 2018"
+  card_text: "> ax1CIn my lifetime, heax19s one of the most remarkable patriots our countryax19s ever produced. I love the guy.ax1Dn> n> Former President Bill Clinton, May 2018"
   card_citation: ''
 card_6:
-  card_text: "> “I know this: As soon as my boys are of age, Ia\x19ll tell them stories about the quality of the man Ia\x19ve gotten to know. Ia\x19ll tell them: Senator John McCain will be revered and respected for as long as the United States of America has a place in this world, and his legacy will outlive us all.”\n> \n> Larry Fitzgerald, AZ Cardinals wide receiver, in a December 2017 op-ed\n\n[WORTH THE READ](https://www.si.com/nfl/2017/12/23/larry-fitzgerald-senator-john-mccain-arizona-vietnam-war-pow)"
+  card_text: "> “I know this: As soon as my boys are of age, Iax19ll tell them stories about the quality of the man Iax19ve gotten to know. Iax19ll tell them: Senator John McCain will be revered and respected for as long as the United States of America has a place in this world, and his legacy will outlive us all.”n> n> Larry Fitzgerald, AZ Cardinals wide receiver, in a December 2017 op-ednn[WORTH THE READ](https://www.si.com/nfl/2017/12/23/larry-fitzgerald-senator-john-mccain-arizona-vietnam-war-pow)"
   card_citation: WORTH THE READ
 card_10:
   card_text: >-
     [view
     sources](https://smarthernews.com/americas-leaders-on-americas-maverick/)
   card_citation: ''
+
 ---
 *   **WORTH THE WATCH: Graham: McCain will fight for his friends:** [https://www.youtube.com/watch?v=ggmk9uwAXvE](\"https://www.youtube.com/watch?v=ggmk9uwAXvE\")
 *   **Bill Clinton Defends John McCain After White House Aide a\\u0018Dying Anywaya\\u0019 Joke:  

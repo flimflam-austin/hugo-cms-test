@@ -56,7 +56,7 @@ card_3:
     What’s The Treatment?
     ---------------------
 
-    *   Monthly \***preventative**\* injection is called “Aimovig.”
+    *   Monthly ***preventative*** injection is called “Aimovig.”
     *   Created by major drugmakers, Amgen and Novartis.
     *   Costs **$6,900** a year/ **$575** a month.
     *   No side effects detected; studies continuing.
@@ -74,7 +74,7 @@ card_4:
     *   For decades, researchers believed a protein (**CGRP**) was connected to
     migraines.
 
-    *   By blocking \*some\* of these proteins on a cellular level, migraines
+    *   By blocking *some* of these proteins on a cellular level, migraines
     lessen.
 
     *   Other big drug companies are working on similar treatments – **Could
@@ -88,6 +88,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-05-18-migraine-medication/)
   card_citation: ''
+
 ---
 *   **SmartHER Tip:** What’s the difference between a super bad headache and a migraine?  
     While both bring discomfort, migraines cause disabling pain that can last several days.  

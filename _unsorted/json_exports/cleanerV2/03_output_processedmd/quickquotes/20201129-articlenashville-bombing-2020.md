@@ -31,6 +31,7 @@ featured_quote:
     downtown Nashville. Six police officers helped evacuate the area before a
     devastating “intentional” explosion.
   citation: ''
+
 ---
 *   **What Happened & When:** Early Christmas morning, [Nashville](\"https://www.nashville.gov/News-Media/News-Article/ID/10443/MNPD-FBI-and-ATF-Investigating-Todays-Intentional-Explosion-on-2nd-Avenue-North-in-Downtown-Nashville.aspx\") police responded to reports of shots fired in the city’s downtown neighborhood. When they arrived on the scene, they encountered an RV playing a recorded warning stating that it would detonate within 15 minutes, allowing officers to work quickly to evacuate nearby residents.
 *   **Why It Matters (Just a handful of the numerous reasons):** 

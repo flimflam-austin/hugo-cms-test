@@ -23,6 +23,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-07-26-mexico-immigration/)
   card_citation: ''
+
 ---
 *   **Mexican President-elect vows to deter migration:**  
     [https://apnews.com/958805a6e9e54d9eb9420cf4a94ab12f/Mexican-president-elect-vows-improvements-to-deter-migration](\"https://apnews.com/958805a6e9e54d9eb9420cf4a94ab12f/Mexican-president-elect-vows-improvements-to-deter-migration\")

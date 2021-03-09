@@ -23,6 +23,7 @@ featured_quote:
     Retail analyst Craig Johnson, president of Customer Growth Partners, on data
     showing a record level of spending in May.
   citation: ''
+
 ---
 *   The increase of shopping activity month-to-month was the largest seen on record dating back to 1992.
 *   \*\*However\*\* spending was not back at pre-pandemic levels and still down from a year ago at the same time.

@@ -29,6 +29,7 @@ featured_quote:
     Sec. of State Mike Pompeo announcing Cuba will be re-designated a State
     Sponsor of Terrorism.
   citation: ''
+
 ---
 *   Current designated [State Sponsor of Terrorism](\"https://www.state.gov/state-sponsors-of-terrorism/\"): Iran, North Korea, Sudan.
 *   Cuba was designated previously in 1982, and removed from the State Sponsor of Terrorism list in 2015.

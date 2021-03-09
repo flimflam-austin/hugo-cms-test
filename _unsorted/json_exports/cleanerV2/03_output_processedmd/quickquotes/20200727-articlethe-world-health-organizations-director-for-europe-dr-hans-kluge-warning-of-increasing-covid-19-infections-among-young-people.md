@@ -24,6 +24,7 @@ featured_quote:
     The World Health Organization’s Director for Europe, Dr. Hans Kluge, warning
     of increasing COVID-19 infections among young people.
   citation: ''
+
 ---
 *   Dr. Kluge [said](\"https://abcnews.go.com/Health/wireStory/europe-chief-coronavirus-long-lasting-tornado-72653647\") that over half of the European region territories are reporting over 10% increases in 14-day new infection rates, calling it “_an uptick which is generalized in Europe_.”
 *   Dr. Kluge [warned](\"https://wtop.com/europe/2020/08/who-europe-chief-cites-coronavirus-warning-signs-ahead/\") that the increase in cases among the young could negatively impact older and more vulnerable populations as we enter the fall with the flu season, children returning to school, and families moving to more indoor activities

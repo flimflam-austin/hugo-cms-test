@@ -15,7 +15,7 @@ color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/01/vladislav-muslakov-261627-360x360.jpg
 card_1:
-  card_text: "a\x1CNightmare Bacteria”  \n\n========================\n\nCDC: 200+ Cases  \n\n------------------\n\nDid you know one in 10 people have NO symptoms, but are walking around with a hard-to-treat germ?\n\nWash Hands. Flip Card."
+  card_text: "ax1CNightmare Bacteria”  nn========================nnCDC: 200+ Cases  nn------------------nnDid you know one in 10 people have NO symptoms, but are walking around with a hard-to-treat germ?nnWash Hands. Flip Card."
   card_citation: Wash Hands. Flip Card.
 card_2:
   card_text: >-
@@ -37,7 +37,7 @@ card_2:
     every state.
   card_citation: ''
 card_3:
-  card_text: "Why Does This Matter?\n---------------------\n\n> “Antibiotic germs can spread like wildfire.a\x1D\n> \n> CDC, \"Containing Unusual Resistance\", April 3, 2018 explaining why it could quickly becomes a public health emergency \\*if\\* the government is unable to contain the germs."
+  card_text: "Why Does This Matter?n---------------------nn> “Antibiotic germs can spread like wildfire.ax1Dn> n> CDC, "Containing Unusual Resistance", April 3, 2018 explaining why it could quickly becomes a public health emergency *if* the government is unable to contain the germs."
   card_citation: ''
 card_4:
   card_text: >-
@@ -62,6 +62,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-04-nightmare-bacteria/)
   card_citation: ''
+
 ---
 **Important:** Context for this study isn’t available – It’s the first of its kind: “..this was the beginning of the surveillance and so ita\\u0019s just the first nine months. I can tell you that I was surprised by the numbers that we found. This was more than I was expecting. But ita\\u0019s the beginning of looking. We hope though that this wona\\u0019t be an inevitable march upward, but that by finding them early when therea\\u0019s only one in the facility we can stop this from becoming very, very common. So we dona\\u0019t have any trend data.” Read More:A [https://www.cdc.gov/media/releases/2018/t0403-antibiotic-resistant-germs.html](\"https://www.cdc.gov/media/releases/2018/t0403-antibiotic-resistant-germs.html\")
 

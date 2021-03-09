@@ -32,7 +32,7 @@ card_1:
     When he used it and why it matters.
   card_citation: ''
 card_2:
-  card_text: "> “The Iranian people are rightly outraged that their leaders have embezzled billions of dollars from Irana\x19s treasury, seized valuable portions of the economy, and looted the peoplea\x19s religious endowments, all to line their own pockets and send their proxies to wage war. **Not good**.”\n> \n> Pres. Trump, United Nations General Assembly, Sept 25, 2018"
+  card_text: "> “The Iranian people are rightly outraged that their leaders have embezzled billions of dollars from Iranax19s treasury, seized valuable portions of the economy, and looted the peopleax19s religious endowments, all to line their own pockets and send their proxies to wage war. **Not good**.”n> n> Pres. Trump, United Nations General Assembly, Sept 25, 2018"
   card_citation: ''
 card_3:
   card_text: |-
@@ -46,7 +46,7 @@ card_3:
     *   More U.S. sanctions to come = more potential internal strife in Iran.
   card_citation: ''
 card_4:
-  card_text: "> “OPEC and OPEC nations, are, as usual, ripping off the rest of the world, and I dona\x19t like it. Nobody should like it. We defend many of these nations for nothing, and then they take advantage of us by giving us high oil prices. **Not good.**“\n> \n> Pres. Trump referred to America as the \"largest energy producer anywhere on the face of the Earth\" - a fact that U.S. oil production now outpaces all other nations."
+  card_text: "> “OPEC and OPEC nations, are, as usual, ripping off the rest of the world, and I donax19t like it. Nobody should like it. We defend many of these nations for nothing, and then they take advantage of us by giving us high oil prices. **Not good.**“n> n> Pres. Trump referred to America as the "largest energy producer anywhere on the face of the Earth" - a fact that U.S. oil production now outpaces all other nations."
   card_citation: ''
 card_5:
   card_text: >-
@@ -93,6 +93,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-09-25-president-trump-un-speech/)
   card_citation: ''
+
 ---
 *   **Remarks by President Trump to the 73rd Session of the United Nations General Assembly | New York, NY:  
     **[https://www.whitehouse.gov/briefings-statements/remarks-president-trump-73rd-session-united-nations-general-assembly-new-york-ny/](\"https://www.whitehouse.gov/briefings-statements/remarks-president-trump-73rd-session-united-nations-general-assembly-new-york-ny/\")

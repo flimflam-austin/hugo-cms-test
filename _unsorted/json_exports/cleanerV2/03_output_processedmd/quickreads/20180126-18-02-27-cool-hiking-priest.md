@@ -15,7 +15,7 @@ color_palette_classname: light-yellow
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/dawid-sobolewski-271380-360x360.jpg
 card_1:
-  card_text: "“Is This The World’s Toughest Commute?a\x1D  \nBBC\n----------------------------------------------\n\nPriest hikes almost 2 hours one-way, scaling 800 foot wall, to get to church.\n\nIf you’ve ever felt tested by your faith, WATCH this INCREDIBLEA story.\n\n[Watch Now](https://www.youtube.com/embed/r1QXpmv-y2E?enablejsapi=1&autoplay=1&rel=0)"
+  card_text: "“Is This The World’s Toughest Commute?ax1D  nBBCn----------------------------------------------nnPriest hikes almost 2 hours one-way, scaling 800 foot wall, to get to church.nnIf you’ve ever felt tested by your faith, WATCH this INCREDIBLEA story.nn[Watch Now](https://www.youtube.com/embed/r1QXpmv-y2E?enablejsapi=1&autoplay=1&rel=0)"
   card_citation: Watch Now
 card_10:
   card_text: >-
@@ -25,5 +25,6 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-27-cool-hiking-priest/)
   card_citation: ''
+
 ---
 BBC Video:A [https://www.youtube.com/watch?v=r1QXpmv-y2E](\"https://www.youtube.com/watch?v=r1QXpmv-y2E\")

@@ -18,4 +18,5 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2020/11/IMG_8216-scaled-e1604408549183-984x1024.jpg
   alt: ''
 summary: The stories of note and why they matter for January 2021.
+
 ---

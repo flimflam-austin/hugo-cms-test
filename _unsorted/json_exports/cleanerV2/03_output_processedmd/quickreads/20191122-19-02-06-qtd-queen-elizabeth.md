@@ -29,7 +29,7 @@ card_1:
     age 25.
   card_citation: ''
 card_2:
-  card_text: "Record-Breaking Queen\n---------------------\n\nIn 2007, at 81, she became the **oldest British monarch**, beating a record set by Queen Victoria (her paternal great-great-grandmother).\n\nIn 2015, at 88, she became the **world’s oldest monarch.**\_Months later, she passed Queen Victoria again, & became **Britain’s longest-reigning monarch.**"
+  card_text: "Record-Breaking Queenn---------------------nnIn 2007, at 81, she became the **oldest British monarch**, beating a record set by Queen Victoria (her paternal great-great-grandmother).nnIn 2015, at 88, she became the **world’s oldest monarch.**_Months later, she passed Queen Victoria again, & became **Britain’s longest-reigning monarch.**"
   card_citation: ''
 card_3:
   card_text: >-
@@ -59,13 +59,14 @@ card_4:
   card_citation: ''
 card_10:
   card_text: >-
-    Although she is the world's longest (living) monarch, she is not \*yet\* the
+    Although she is the world's longest (living) monarch, she is not *yet* the
     longest reigning monarch - that title goes to the former King of Swaziland,
     who spent 82 years on the throne after ascending to the thrown at age 1.
 
 
     [view sources](https://smarthernews.com/19-02-06-qtd-queen-elizabeth/)
   card_citation: ''
+
 ---
 *   **Queen Elizabeth II: The Life And Legacy Of Britain’s Longest-Serving Monarch:** [https://www.wbur.org/hereandnow/2018/12/04/queen-elizabeth-life-legacy](\"https://www.wbur.org/hereandnow/2018/12/04/queen-elizabeth-life-legacy\")
 *   **Queen Elizabeth celebrates 65 years on the throne:**  

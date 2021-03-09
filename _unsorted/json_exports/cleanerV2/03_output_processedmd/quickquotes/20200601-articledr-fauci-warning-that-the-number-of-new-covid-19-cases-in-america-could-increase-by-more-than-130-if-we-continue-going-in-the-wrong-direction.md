@@ -30,6 +30,7 @@ featured_quote:
     Dr. Fauci warning the number of new COVID-19 cases in America could increase
     if the nation continues going in the “wrong direction.”
   citation: ''
+
 ---
 *   On Tuesday, Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, testified before a Senate committee and reiterated that he is “very concerned” about what’s going on right now, particularly in the four states that account for about 50% of new infections: **Arizona, California, Florida and Texas**.
 *   Dr. Fauci said that spikes will continue, citing news clips of people congregating (often without masks), people being in crowds and blatantly ignoring guidelines.

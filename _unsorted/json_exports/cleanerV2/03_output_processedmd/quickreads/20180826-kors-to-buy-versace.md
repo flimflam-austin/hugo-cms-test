@@ -67,11 +67,12 @@ card_3:
     Dior.
   card_citation: ''
 card_4:
-  card_text: "Some Things to Consider:  \nFashion is Fickle\n--------------------------------------------\n\n*   **Too much, too fast?**  \n    _“Kors just bought Jimmy Choo 11 months ago,”_ a Wells Fargo analyst warns.\n*   **Discounting concerns:  \n    **_a\x1CTime to get Versace at your local TJ MAXX and Marshalla\x19s,”_ tweetedA writer Danielle Ayoka."
+  card_text: "Some Things to Consider:  nFashion is Ficklen--------------------------------------------nn*   **Too much, too fast?**  n    _“Kors just bought Jimmy Choo 11 months ago,”_ a Wells Fargo analyst warns.n*   **Discounting concerns:  n    **_ax1CTime to get Versace at your local TJ MAXX and Marshallax19s,”_ tweetedA writer Danielle Ayoka."
   card_citation: ''
 card_10:
-  card_text: "Donatella Versace has served as the fashion house's creative director since her brother Gianni, who founded it 1987, was famously murdered in 1997. She had no training in fashion, but Kors CEO says she's an a\x1Cessential componenta\x1D and will stay on to oversee the brand.\n\n[view sources](https://smarthernews.com/kors-to-buy-versace/)"
+  card_text: "Donatella Versace has served as the fashion house's creative director since her brother Gianni, who founded it 1987, was famously murdered in 1997. She had no training in fashion, but Kors CEO says she's an ax1Cessential componentax1D and will stay on to oversee the brand.nn[view sources](https://smarthernews.com/kors-to-buy-versace/)"
   card_citation: ''
+
 ---
 *   **Michael Kors to Buy Versace for $2.1B:**  
     [https://www.nytimes.com/2018/09/25/business/dealbook/michael-kors-versace.html](\"https://www.nytimes.com/2018/09/25/business/dealbook/michael-kors-versace.html\")

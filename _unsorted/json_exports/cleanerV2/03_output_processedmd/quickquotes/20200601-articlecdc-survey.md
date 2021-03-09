@@ -27,6 +27,7 @@ featured_quote:
     The CDC reporting the results of its latest study showing most COVID-19
     patients weren’t aware who they got it from.
   citation: ''
+
 ---
 *   The CDC conducted phone interviews with a random selection of 350 people with COVID-19 (both inpatient and outpatient) from nine states.
 *   Participants were asked about their interactions with others, specifically if they came within 6 feet of a person diagnosed with COVID-19 during the two weeks leading up to their disease onset or test date (for asymptomatic patients).

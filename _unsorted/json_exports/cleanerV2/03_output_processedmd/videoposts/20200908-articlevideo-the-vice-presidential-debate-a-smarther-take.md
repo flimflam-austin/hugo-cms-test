@@ -18,6 +18,7 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2020/05/IMG_9301-scaled-e1589841577220-890x1024.jpg
   alt: ''
 summary: What’s newsworthy, why it matters and what we can learn.
+
 ---
 Transcript to the debate: [READ HERE](\"https://www.usatoday.com/story/news/politics/elections/2020/10/08/vice-presidential-debate-full-transcript-mike-pence-and-kamala-harris/5920773002/\")
 

@@ -24,6 +24,7 @@ featured_quote:
     Kenosha resident Shad DeLacy, manager of S.J. Crystals Men’s Shop, before
     the President’s Tuesday visit to Kenosha, Wisconsin.
   citation: ''
+
 ---
 *   President Trump will be visiting Kenosha midday.
 *   The President will tour the areas most effected during “affected by recent riots” (from White House agenda) – he will also visit an Emergency Operations Center.

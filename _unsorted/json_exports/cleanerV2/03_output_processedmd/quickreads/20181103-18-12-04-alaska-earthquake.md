@@ -36,6 +36,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-12-04-alaska-earthquake/)
   card_citation: ''
+
 ---
 ![\"\"](\"https://smarthernews.com/wp-content/uploads/2018/12/FullSizeRender-2-min-225x300.jpg\")
 

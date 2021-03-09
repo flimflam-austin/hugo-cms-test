@@ -39,12 +39,12 @@ card_2:
 
     *   More progressive candidate unseats 10-term Congressman in blue district.
 
-    *   Likely \*new\* congresswoman Alexandria Ocasio-Cortez: 28-year-old
+    *   Likely *new* congresswoman Alexandria Ocasio-Cortez: 28-year-old
     **socialist**, with little funding or name recognition.
   card_citation: ''
 card_3:
   card_text: >-
-    Who’s The \*Best\* Conservative?
+    Who’s The *Best* Conservative?
 
     --------------------------------
 
@@ -84,6 +84,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-27-primary-takeaway/)
   card_citation: ''
+
 ---
 *   **Crowley and Grimm crash: Top takeaways from Tuesdaya\\u0019s primaries ~A**
 

@@ -30,6 +30,7 @@ featured_quote:
     Pres. Trump denying that he suffered a series of mini-strokes in November
     2019.
   citation: ''
+
 ---
 *   **Background:** In November 2019, questions arose when the President had an unscheduled visit to Walter Reed National Military Medical Center. At the time, the White House [responded](\"https://apnews.com/e3e5cdafbbc540afb0ae59c40715e02d\") by saying that the purpose of the Pres. Trump’s visit was to get a head start on his 2020 annual physical exam due to an anticipated busy 2020 campaign schedule. Both the 2018 and 2019 annual physical exams were noted on the President’s public schedule.
 *   **Today:** Pres. Trump took to [Twitter](\"https://twitter.com/realDonaldTrump/status/1300811758051954695\") in response to a passage in a forthcoming book by New York Times reporter Michael Schmidt called “Donald Trump v. the United States: Inside the Struggle To Stop A President.”

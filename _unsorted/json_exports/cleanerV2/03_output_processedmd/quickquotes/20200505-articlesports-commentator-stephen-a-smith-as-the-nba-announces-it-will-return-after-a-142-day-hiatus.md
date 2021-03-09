@@ -24,6 +24,7 @@ featured_quote:
     Sports commentator Stephen A Smith as the NBA announces it will return after
     a 142-day hiatus.
   citation: ''
+
 ---
 *   The first American sports league to suspend its season due to COVID-19 is resuming its 2019-2020 season at Walt Disney World on July 31 at the ESPN Wide World of Sports Complex.
     *   ESPN is 80% owned by Disney

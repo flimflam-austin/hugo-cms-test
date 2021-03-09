@@ -18,6 +18,7 @@ featured_quote:
   quote: Ordinary people want to see animals protected, not abused.
   summary: California becomes first state to ban sale of fur.
   citation: ''
+
 ---
 Cassie King, an organizer with the Berkeley-based group, to the associated press.
 

@@ -49,7 +49,7 @@ card_2:
     Republicans to cheer, about the nation & economy.
   card_citation: ''
 card_3:
-  card_text: "> “We can bridge all divisions, heal old wounds, build new coalitions, forge new solutions, and unlock the extraordinary promise of Americaa\x19s future. The decision is ours to make. We must choose between greatness or gridlock, results or resistance, vision or vengeance, incredible progress or pointless destruction. Tonight, I ask you to choose greatness.”\n> \n> Pres. Trump delivered speech one week delayed due to gov't shutdown."
+  card_text: "> “We can bridge all divisions, heal old wounds, build new coalitions, forge new solutions, and unlock the extraordinary promise of Americaax19s future. The decision is ours to make. We must choose between greatness or gridlock, results or resistance, vision or vengeance, incredible progress or pointless destruction. Tonight, I ask you to choose greatness.”n> n> Pres. Trump delivered speech one week delayed due to gov't shutdown."
   card_citation: ''
 card_4:
   card_text: >-
@@ -143,6 +143,7 @@ card_10:
     [view
     sources](https://smarthernews.com/what-did-the-state-of-the-union-address-deliver/)
   card_citation: ''
+
 ---
 *   **Trump’s State of the Union address:**  
     [https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-state-union-address-2/](\"https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-state-union-address-2/\")

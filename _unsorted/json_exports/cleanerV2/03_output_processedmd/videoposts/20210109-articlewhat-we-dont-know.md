@@ -18,4 +18,5 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2019/04/nicole-honeywill-1259387-unsplash-min-scaled.jpg
   alt: ''
 summary: Former Pres. Trump’s second impeachment trial enters uncharted territory.
+
 ---

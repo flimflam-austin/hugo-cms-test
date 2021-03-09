@@ -26,6 +26,7 @@ featured_quote:
     (representing the colors of both political parties) with a message of unity.
     The social media post received almost instant backlash.
   citation: ''
+
 ---
 *   Backstory via _CNBC_: “The caption of the half-blue, half-red hoodie animation read: “The one thing we know, is that together, we can move forward.” When the animated image played, it showed the sweatshirt being zipped up.”
 *   The social media post the day after the election received backlash from celebrities and beyond, leading the company to ultimately remove it.

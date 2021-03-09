@@ -25,6 +25,7 @@ featured_quote:
     Thursday November 5th – for four weeks – until the first week of December
     (Dec. 2).
   citation: ''
+
 ---
 *   The Prime Minister, citing a rise in COVID infections and concerns about hospital capacity, informed the UK Saturday of a new lockdown – the most high-profile one imposed in Europe during the fall season.
 *   Some restrictions are not as strict as the spring – school will remain open, people can exercise outdoors (with some restrictions) and shop for essential items. But most nonessential businesses will have to close or severely alter their business models (pubs have to close, for example, but can offer delivery service).

@@ -31,7 +31,7 @@ card_1:
     Here's What We Know:
   card_citation: 'Here''s What We Know:'
 card_2:
-  card_text: "> a\x1CWe literally had Austin police officers running towards a vehicle that had an explosive device in it. That detonated. **That is unbelievable courage. Those are heroes**.a\x1D\n> \n> Christopher Combs, FBI's special agent in charge - San Antonio Field Division, Mach 21, 2018"
+  card_text: "> ax1CWe literally had Austin police officers running towards a vehicle that had an explosive device in it. That detonated. **That is unbelievable courage. Those are heroes**.ax1Dn> n> Christopher Combs, FBI's special agent in charge - San Antonio Field Division, Mach 21, 2018"
   card_citation: ''
 card_3:
   card_text: >-
@@ -64,7 +64,7 @@ card_4:
     political beliefs or if that motivated him.
   card_citation: ''
 card_5:
-  card_text: "> “The fatal mistake that led law enforcement to him a\x14 because he was pretty good at evading surveillance cameras a\x14 was when he walked into Home Depot.”\n> \n> U.S. Rep. Mike McCaul (R - Tx) House Homeland Security Committee speaks about where bomber bought supplies."
+  card_text: "> “The fatal mistake that led law enforcement to him ax14 because he was pretty good at evading surveillance cameras ax14 was when he walked into Home Depot.”n> n> U.S. Rep. Mike McCaul (R - Tx) House Homeland Security Committee speaks about where bomber bought supplies."
   card_citation: ''
 card_6:
   card_text: >-
@@ -86,7 +86,7 @@ card_6:
     Crimes](https://smarthernews.com/18-02-19-mystery-bombing-texas/)
   card_citation: 'Click Here: Timeline Of Crimes'
 card_7:
-  card_text: "> a\x1CHe does not at all mention anything about terrorism nor does he mention anything about hate. But instead, it is the outcry of a very challenged young man, talking about challenges in his personal life that led him to this point.a\x1D\n> \n> Police Chief Brian Manley, Austin PD, March 21, 2018"
+  card_text: "> ax1CHe does not at all mention anything about terrorism nor does he mention anything about hate. But instead, it is the outcry of a very challenged young man, talking about challenges in his personal life that led him to this point.ax1Dn> n> Police Chief Brian Manley, Austin PD, March 21, 2018"
   card_citation: ''
 card_10:
   card_text: >-
@@ -96,6 +96,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-21-found-austin-bomber/)
   card_citation: ''
+
 ---
 *   How to help the victims of the Austin bombings [https://www.statesman.com/entertainment/how-help-the-victims-the-austin-bombings/mAXicMF8PSyR0ZpQo2QooO/](\"https://www.statesman.com/entertainment/how-help-the-victims-the-austin-bombings/mAXicMF8PSyR0ZpQo2QooO/\")
 *   THE INVESTIGATION: 25-minute recording found with suspect considered confession, police chief saysA [https://www.statesman.com/news/breaking-austin-bombing-suspect-dies-police-close-official-says/KZmUAGvKlNazDr31EzeUzI/](\"https://www.statesman.com/news/breaking-austin-bombing-suspect-dies-police-close-official-says/KZmUAGvKlNazDr31EzeUzI/\")

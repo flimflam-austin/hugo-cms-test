@@ -55,14 +55,15 @@ card_3:
     [Read more Here](https://smarthernews.com/18-08-30-cigarettes-vaping/)
   card_citation: Read more Here
 card_4:
-  card_text: "> “I think I could beat Trump because Ia\x19m as tough as he is, Ia\x19m smarter than he is.”\n> \n> Jamie Dimon, JP Morgan Chase CEO, before backtracking soon after saying he \"shouldn't have said it. I'm not running for President.\" Dimon, a lifelong Democrat, is one only 2 Wall Street CEO still in place since the financial crisis. He has said he would like running the country, but it is unlikely a rich banker would win over the liberal Democrats."
+  card_text: "> “I think I could beat Trump because Iax19m as tough as he is, Iax19m smarter than he is.”n> n> Jamie Dimon, JP Morgan Chase CEO, before backtracking soon after saying he "shouldn't have said it. I'm not running for President." Dimon, a lifelong Democrat, is one only 2 Wall Street CEO still in place since the financial crisis. He has said he would like running the country, but it is unlikely a rich banker would win over the liberal Democrats."
   card_citation: ''
 card_5:
-  card_text: "> a\x1CWe have branding opportunities right there.”\n> \n> Jim Bridenstine, NASA administrator, on the possibilities of corporate sponsorship for NASA missions, including branding on rockets and the International Space Station. Critics warn it creates a conflict of interest between private companies & public interest and may violate NASA's own rules."
+  card_text: "> ax1CWe have branding opportunities right there.”n> n> Jim Bridenstine, NASA administrator, on the possibilities of corporate sponsorship for NASA missions, including branding on rockets and the International Space Station. Critics warn it creates a conflict of interest between private companies & public interest and may violate NASA's own rules."
   card_citation: ''
 card_10:
   card_text: '[view sources](https://smarthernews.com/quick-quotes-5/)'
   card_citation: ''
+
 ---
 *   ****U.S. officials suspect Russia in mystery ‘attacks’ on diplomats in Cuba, China:  
     ****[https://www.nbcnews.com/news/latin-america/u-s-officials-suspect-russia-mystery-attacks-diplomats-cuba-china-n908141](\"https://www.nbcnews.com/news/latin-america/u-s-officials-suspect-russia-mystery-attacks-diplomats-cuba-china-n908141\")

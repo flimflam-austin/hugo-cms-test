@@ -28,6 +28,7 @@ featured_quote:
     Senior U.S. economist, Michael Pearce, Capital Economics on a new U.S. jobs
     report for June showing the return of nearly 5M jobs.
   citation: ''
+
 ---
 *   The June jobs report: 11.1% unemployment – 4.8M jobs added.
 *   This is better than forecasts from economists who expected a slower return of jobs.

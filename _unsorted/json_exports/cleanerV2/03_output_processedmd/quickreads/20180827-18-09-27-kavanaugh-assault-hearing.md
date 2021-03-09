@@ -146,6 +146,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-09-27-kavanaugh-assault-hearing/)
   card_citation: ''
+
 ---
 *   **Read Christine Blasey Ford’s initial letter to Dianne Feinstein:  
     **[https://www.axios.com/brett-kavanaugh-christine-blasey-ford-feinstein-letter-9337f417-1078-4334-8a81-c2b4fc051f99.html](\"https://www.axios.com/brett-kavanaugh-christine-blasey-ford-feinstein-letter-9337f417-1078-4334-8a81-c2b4fc051f99.html\")

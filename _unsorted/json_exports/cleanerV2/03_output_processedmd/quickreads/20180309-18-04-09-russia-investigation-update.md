@@ -15,7 +15,7 @@ color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/pexels-photo-129112-360x360.jpeg
 card_1:
-  card_text: "Russia Probe Recap\n------------------\n\nAccording to reports, Robert Muellera\x19sA Special Counsel team considers President Trump to be a subject a\x14 not a criminal targeta\x14 in the Russian election interference investigation.\n\nHere's what it means & what it doesn't"
+  card_text: "Russia Probe Recapn------------------nnAccording to reports, Robert Muellerax19sA Special Counsel team considers President Trump to be a subject ax14 not a criminal targetax14 in the Russian election interference investigation.nnHere's what it means & what it doesn't"
   card_citation: Here's what it means &amp; what it doesn't
 card_2:
   card_text: >-
@@ -52,8 +52,9 @@ card_3:
     *   The investigation is **ongoing** and changes day to day.
   card_citation: ''
 card_10:
-  card_text: "After the latest sanctions against Russia were announced on Friday, White House Press Sec. Sarah Sanders told reporters: \"as the President has said, he wants to have a good relationship with Russia, but thata\x19s going to depend on some of the actions by the Russians.\"\n\n[view sources](https://smarthernews.com/18-04-09-russia-investigation-update/)"
+  card_text: "After the latest sanctions against Russia were announced on Friday, White House Press Sec. Sarah Sanders told reporters: "as the President has said, he wants to have a good relationship with Russia, but thatax19s going to depend on some of the actions by the Russians."nn[view sources](https://smarthernews.com/18-04-09-russia-investigation-update/)"
   card_citation: ''
+
 ---
 *   Trump is a a\\u0018subjecta\\u0019 of investigation. What does that mean?: [https://www.washingtonpost.com/politics/courts\_law/trump-is-a-subject-of-investigation-what-does-that-mean/2018/04/05/27accf68-38ea-11e8-af3c-2123715f78df\_story.html](\"https://www.washingtonpost.com/politics/courts_law/trump-is-a-subject-of-investigation-what-does-that-mean/2018/04/05/27accf68-38ea-11e8-af3c-2123715f78df_story.html\")
 *   Trump not considered a criminal target in Russia probe: report: [https://www.ajc.com/news/national/trump-not-considered-criminal-target-russia-probe-report/ItmvqJjyQJd0Iuf4lOFDuO/](\"https://www.ajc.com/news/national/trump-not-considered-criminal-target-russia-probe-report/ItmvqJjyQJd0Iuf4lOFDuO/\")

@@ -25,6 +25,7 @@ featured_quote:
     customers around the world.
   summary: Amazon announces its one step closer to offering deliveries via drone.
   citation: ''
+
 ---
 *   Amazon says **Prime Air** will offer drone delivery of packages weighing up to 5 pounds in 30 minutes or less. The drones operate without a human pilot and will transport items from one of Amazon’s more than 175 fulfillment centers across the globe.
     *   CHECK IT OUT [HERE](\"https://www.youtube.com/watch?v=3HJtmx5f1Fc\")

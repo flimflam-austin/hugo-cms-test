@@ -24,6 +24,7 @@ featured_quote:
     of the most densely populated places in the world only has 6 deaths from
     COVID-19.
   citation: ''
+
 ---
 *   Professor Yuen: Roughly 97% of people wear masks in Hong Kong during morning rush. Hong Kong’s success rate is even more astonishing considering the number of travelers (roughly 1.5M of 3M a day) come from mainland China where the virus that causes COVID-19 originated.
 *   Research shows places that adopt mask wearing severely curb their rates of COVID-19.

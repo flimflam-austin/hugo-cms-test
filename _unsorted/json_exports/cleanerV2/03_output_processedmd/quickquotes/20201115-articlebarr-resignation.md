@@ -26,6 +26,7 @@ featured_quote:
     U.S. Attorney General William Barr announcing his resignation as the head of
     the Department of Justice.
   citation: ''
+
 ---
 *   AG Barr delivered his [resignation letter](\"https://twitter.com/realDonaldTrump/status/1338614514493878273/photo/1\") to Pres. Trump on Monday.
 *   “_Our relationship has been a very good one, he has done an outstanding job_!,” Pres. Trump said of AG Barr – despite some recent criticisms.

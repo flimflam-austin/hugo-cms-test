@@ -117,7 +117,7 @@ card_6:
     @realdonaldtrump, Mar. 8, 2018
   card_citation: ''
 card_7:
-  card_text: "Something To Consider:\n----------------------\n\n_“PS: To be clear — we need to talk to North Korea. But Kim is not inviting Trump so that he can surrender North Korea’s weapons. Kim is inviting Trump to demonstrate that his investment in nuclear and missile capabilities has forced the United States to treat him as an equal.”  \n_Jeffrey Lewisa\x0F, Twitter, @ArmsControlWonk Mar. 8, 2018"
+  card_text: "Something To Consider:n----------------------nn_“PS: To be clear — we need to talk to North Korea. But Kim is not inviting Trump so that he can surrender North Korea’s weapons. Kim is inviting Trump to demonstrate that his investment in nuclear and missile capabilities has forced the United States to treat him as an equal.”  n_Jeffrey Lewisax0F, Twitter, @ArmsControlWonk Mar. 8, 2018"
   card_citation: ''
 card_10:
   card_text: >-
@@ -128,6 +128,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-07-north-korea-meeting/)
   card_citation: ''
+
 ---
 *   Trump agrees to meet with Kim: [http://thehill.com/homenews/administration/377524-north-koreas-kim-jong-un-invites-trump-to-meet](\"http://thehill.com/homenews/administration/377524-north-koreas-kim-jong-un-invites-trump-to-meet\")
 *   Official announcement by South Korea:A [https://www.whitehouse.gov/briefings-statements/remarks-republic-korea-national-security-advisor-chung-eui-yong/](\"https://www.whitehouse.gov/briefings-statements/remarks-republic-korea-national-security-advisor-chung-eui-yong/\")

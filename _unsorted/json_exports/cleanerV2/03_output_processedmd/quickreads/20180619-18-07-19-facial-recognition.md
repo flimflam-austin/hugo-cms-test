@@ -95,6 +95,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-07-19-facial-recognition/)
   card_citation: ''
+
 ---
 *   **MICROSOFT BLOG POST: Facial recognition technology: The need for public regulation and corporate responsibility:**  
     [https://blogs.microsoft.com/on-the-issues/2018/07/13/facial-recognition-technology-the-need-for-public-regulation-and-corporate-responsibility/](\"https://blogs.microsoft.com/on-the-issues/2018/07/13/facial-recognition-technology-the-need-for-public-regulation-and-corporate-responsibility/\")

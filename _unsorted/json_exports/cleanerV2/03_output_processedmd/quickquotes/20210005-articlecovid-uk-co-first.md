@@ -29,6 +29,7 @@ featured_quote:
     COVID-19 variant, which was first discovered in the United Kingdom earlier
     this month.
   citation: ''
+
 ---
 *   [Colorado](\"https://www.colorado.gov/governor/news/3856-gov-polis-and-state-public-health-officials-announce-first-case-covid-variant-covid-19\") health officials say the person is a male in his 20s who has no travel history. He is currently in isolation as health officials investigate and conduct contact tracing in order to determine how he contracted it and prevent additional cases.
 *   According to a [press release](\"https://www.colorado.gov/governor/news/3856-gov-polis-and-state-public-health-officials-announce-first-case-covid-variant-covid-19\") issued by Gov. Polis, “S_cientists in the United Kingdom believe the B.1.1.7 variant to be more contagious than previously identified strains of the SARS-CoV-2 variant, though no more severe in symptoms._” The press release also states that “_the currently approved vaccines are thought to be effective against this varian_t.”

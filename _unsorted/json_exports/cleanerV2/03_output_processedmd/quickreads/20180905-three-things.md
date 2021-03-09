@@ -90,6 +90,7 @@ card_10:
 
     [view sources](https://smarthernews.com/three-things/)
   card_citation: ''
+
 ---
 *   **Editorial by Brett Kavanaugh: I Am an Independent, Impartial Judge**  
     [https://www.wsj.com/articles/i-am-an-independent-impartial-judge-1538695822](\"https://www.wsj.com/articles/i-am-an-independent-impartial-judge-1538695822\")

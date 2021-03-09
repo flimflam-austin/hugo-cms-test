@@ -28,7 +28,7 @@ card_1:
 
 
     A president can declare a national emergency – **EVERY president since 1976
-    has done so –**A \*BUT\* may President Trump do so in order to fund a border
+    has done so –**A *BUT* may President Trump do so in order to fund a border
     wall?
 
 
@@ -69,13 +69,14 @@ card_3:
 card_10:
   card_text: >-
     BOTTOM LINE: Yes, it is within President Trump's legal authority to declare
-    a national emergency without Congressional approval, \*HOWEVER\* if he does
+    a national emergency without Congressional approval, *HOWEVER* if he does
     so in order to build a border wall, he is all but guaranteed to face a legal
     challenge.
 
 
     [view sources](https://smarthernews.com/19-01-08-border-national-emergency/)
   card_citation: ''
+
 ---
 *   **Trump wants to declare a national emergency to fund a border wall. Herea\\u0019s why ita\\u0019s unlikely to work.:  
     **[https://www.washingtonpost.com/politics/2019/01/07/trump-wants-declare-national-emergency-fund-border-wall-heres-why-its-unlikely-work/](\"https://www.washingtonpost.com/politics/2019/01/07/trump-wants-declare-national-emergency-fund-border-wall-heres-why-its-unlikely-work/\")

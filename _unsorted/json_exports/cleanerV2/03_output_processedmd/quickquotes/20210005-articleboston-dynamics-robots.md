@@ -26,6 +26,7 @@ featured_quote:
     “Popular Science” technology editor Stan Horaczek on a viral video of
     dancing robots by Boston Dynamics.
   citation: ''
+
 ---
 *   The [video](\"https://youtu.be/fn3KWM1kuAw\") shows two of the Boston Dynamics “Atlas” robots dancing to [“Do You Love Me?”](\"https://youtu.be/fn3KWM1kuAw\")
 *   As [Boston Dynamics](\"https://www.bostondynamics.com/about\") describes its business: “Changing your idea of what robots can do.”

@@ -24,4 +24,5 @@ summary: >-
   Why THESE legal charges for the officers involved in George Floyd’s arrest –
   Plus, COVID-19’s presence in the case, protests, and impact on hospital visits
   in America.
+
 ---

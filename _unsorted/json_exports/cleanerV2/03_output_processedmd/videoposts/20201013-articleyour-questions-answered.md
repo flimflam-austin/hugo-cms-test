@@ -18,4 +18,5 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2020/10/IMG_7308-e1603484044138-1024x1021.jpg
   alt: ''
 summary: A roundup of this week’s news with a few new headlines from the White House!
+
 ---

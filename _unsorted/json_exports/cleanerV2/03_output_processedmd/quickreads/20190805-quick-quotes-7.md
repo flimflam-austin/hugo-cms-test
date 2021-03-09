@@ -28,10 +28,10 @@ card_1:
     inspectors.
   card_citation: ''
 card_2:
-  card_text: "> a\x1CWhen you have two 500-year floods within two years of each other, ita\x19s pretty clear ita\x19s not a 500-year flood.”\n> \n> North Carolina Governor Roy Cooper on the struggle of how and where to rebuild after Hurricane Florence just 2 years after Hurricane Matthew. The Governor says it's time to rethink the strategy & \"be smarter\" about recovery. Early estimates have the damage from Florence nearing $20B, but that number is expected to rise."
+  card_text: "> ax1CWhen you have two 500-year floods within two years of each other, itax19s pretty clear itax19s not a 500-year flood.”n> n> North Carolina Governor Roy Cooper on the struggle of how and where to rebuild after Hurricane Florence just 2 years after Hurricane Matthew. The Governor says it's time to rethink the strategy & "be smarter" about recovery. Early estimates have the damage from Florence nearing $20B, but that number is expected to rise."
   card_citation: ''
 card_3:
-  card_text: "> “Ia\x19ll be doing things over the next two weeks having to do with immigration, which I think youa\x19ll be very impressed at.”\n> \n> Pres. Trump in a wide ranging interview with The Hill newspaper, suggesting more to come on immigration before the midterm elections. He mentioned $1.6B used for repairs and an 80-foot stretch of border wall, as well as his desire for more; the U.S. Southern Border is nearly 2000 miles."
+  card_text: "> “Iax19ll be doing things over the next two weeks having to do with immigration, which I think youax19ll be very impressed at.”n> n> Pres. Trump in a wide ranging interview with The Hill newspaper, suggesting more to come on immigration before the midterm elections. He mentioned $1.6B used for repairs and an 80-foot stretch of border wall, as well as his desire for more; the U.S. Southern Border is nearly 2000 miles."
   card_citation: ''
 card_4:
   card_text: >-
@@ -63,7 +63,7 @@ card_5:
     accusations facing Supreme Court nominee Judge Brett Kavanaugh.
   card_citation: ''
 card_6:
-  card_text: "> “Herea\x19s why we chose her: Shea\x19s not crazy.”\n> \n> Nancy Antrum, Miami Herald Editorial Page Editor, on the paper's endorsement of Bettina Rodriguez Aguilera who is running in the Republican primary for a South Florida district. Rodriguez Aguilera claims tall, blond aliens kidnapped her at age 7 and took her on a spaceship. The Herald says it does not believe her views or past experiences affect her ability to be an \"effective public servant.\""
+  card_text: "> “Hereax19s why we chose her: Sheax19s not crazy.”n> n> Nancy Antrum, Miami Herald Editorial Page Editor, on the paper's endorsement of Bettina Rodriguez Aguilera who is running in the Republican primary for a South Florida district. Rodriguez Aguilera claims tall, blond aliens kidnapped her at age 7 and took her on a spaceship. The Herald says it does not believe her views or past experiences affect her ability to be an "effective public servant.""
   card_citation: ''
 card_10:
   card_text: |-
@@ -71,6 +71,7 @@ card_10:
 
     [view sources](https://smarthernews.com/quick-quotes-7/)
   card_citation: ''
+
 ---
 *   **U.S. ready to restart talks with North Korea immediately: Pompeo:**  
     [https://www.reuters.com/article/us-northkorea-southkorea-summit/u-s-ready-to-restart-talks-with-north-korea-immediately-pompeo-idUSKCN1LY30R?il=0](\"https://www.reuters.com/article/us-northkorea-southkorea-summit/u-s-ready-to-restart-talks-with-north-korea-immediately-pompeo-idUSKCN1LY30R?il=0\")

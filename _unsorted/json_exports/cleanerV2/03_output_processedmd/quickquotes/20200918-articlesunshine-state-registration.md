@@ -29,6 +29,7 @@ featured_quote:
     2020. Data shows Republicans significantly reduce the gap with Democrats in
     voter registration in the Sunshine State.
   citation: ''
+
 ---
 *   Voter registration data shows Republicans narrowed the gap of voter registration, to the “lowest point in three decades…” with Democrats, who use to have a sizable lead [according to Politico](\"https://www.politico.com/states/florida/story/2020/10/15/florida-republicans-cut-democrats-registration-edge-to-historic-low-1325644\").
 *   _“The shift means the two parties, statistically speaking, are almost evenly matched when it comes to raw numbers, with Democrats holding a narrow 1 percent lead.” ([Politico](\"https://www.politico.com/states/florida/story/2020/10/15/florida-republicans-cut-democrats-registration-edge-to-historic-low-1325644\"))._

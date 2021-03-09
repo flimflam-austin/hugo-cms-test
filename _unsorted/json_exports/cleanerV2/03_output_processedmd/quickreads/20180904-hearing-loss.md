@@ -48,7 +48,7 @@ card_2:
     **2 out of 3 people over age 70** have trouble hearing.
   card_citation: ''
 card_3:
-  card_text: "> a\x1CYou can certainly hurt your hearing listening to loud music, whether through earbuds or something else. But earbuds and listening to music with earbuds are not a major cause of hearing loss.a\x1D\n> \n> Dr. Robert Dobie, clinical professor of otolaryngology at the University of Texas Health Science Center. One of Dr. Dobie's March 2017 studies found rates of hearing loss have actually fallen among adults aged 20-69."
+  card_text: "> ax1CYou can certainly hurt your hearing listening to loud music, whether through earbuds or something else. But earbuds and listening to music with earbuds are not a major cause of hearing loss.ax1Dn> n> Dr. Robert Dobie, clinical professor of otolaryngology at the University of Texas Health Science Center. One of Dr. Dobie's March 2017 studies found rates of hearing loss have actually fallen among adults aged 20-69."
   card_citation: ''
 card_4:
   card_text: >-
@@ -93,6 +93,7 @@ card_10:
 
     [view sources](https://smarthernews.com/hearing-loss/)
   card_citation: ''
+
 ---
 *   **To protect your hearing, noise-canceling earphones provide the best protection:**  
     [https://www.washingtonpost.com/national/health-science/how-to-pick-the-best-headphones-and-protect-your-hearing/2018/09/28/af1cd620-b502-11e8-a7b5-adaaa5b2a57f\_story.html](\"https://www.washingtonpost.com/national/health-science/how-to-pick-the-best-headphones-and-protect-your-hearing/2018/09/28/af1cd620-b502-11e8-a7b5-adaaa5b2a57f_story.html\")

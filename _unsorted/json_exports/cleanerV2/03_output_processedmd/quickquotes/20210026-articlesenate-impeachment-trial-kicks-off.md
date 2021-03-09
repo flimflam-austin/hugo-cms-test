@@ -27,6 +27,7 @@ featured_quote:
     Senate; Turley is commenting on whether this second impeachment is
     constitutional.
   citation: ''
+
 ---
 *   The impeachment trial will look different than President Trump’s first trial (and others).
 *   President Trump is the first president impeached twice – his second trial will occur weeks after he left office.

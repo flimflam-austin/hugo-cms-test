@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   Vice President Joe Biden’s pick for running-mate plus a rare fall rental for a
   family escape.
+
 ---

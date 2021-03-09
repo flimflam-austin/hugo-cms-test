@@ -24,7 +24,7 @@ card_1:
     Now](https://www.youtube.com/embed/jGNTWx8CHP4?enablejsapi=1&autoplay=1&rel=0)
   card_citation: Watch Now
 card_2:
-  card_text: "MAC Cutting Boards\n==================\n\n> “**You’re stronger than you think**. Always remember, a\x1Cif youa\x19re the smartest person in the room, youa\x19reA in the wrong rooma\x1D\n> \n> SmartHER advice from MAC Cutting Boards, founded in 2009 by Bart & Josie McHale\n\nFlip For More"
+  card_text: "MAC Cutting Boardsn==================nn> “**You’re stronger than you think**. Always remember, ax1Cif youax19re the smartest person in the room, youax19reA in the wrong roomax1Dn> n> SmartHER advice from MAC Cutting Boards, founded in 2009 by Bart & Josie McHalennFlip For More"
   card_citation: Flip For More
 card_10:
   card_text: >-
@@ -35,6 +35,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-07-02-one-minute-with-maccutting-boards/)
   card_citation: ''
+
 ---
 **5 Questions for [MAC Cutting Boards](\"https://shop.maccuttingboards.com/\")**
 

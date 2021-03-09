@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   The latest on two of the biggest stories of 2020: the pandemic and
   presidential election.
+
 ---

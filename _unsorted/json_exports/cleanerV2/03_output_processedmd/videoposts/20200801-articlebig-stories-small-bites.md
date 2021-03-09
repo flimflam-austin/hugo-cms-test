@@ -24,5 +24,6 @@ summary: >-
   Early Tuesday update on the President’s travels, COVID-19 infection rates
   before the critical Labor Day holiday & and how much change does TSA really
   find at security checkpoints?
+
 ---
 Update on the shooting of Jacob Blake: [CLICK HERE](\"https://smarthernews.com/article/jacobblake/\")

@@ -25,6 +25,7 @@ featured_quote:
     Diseases, on the EPA’s approval of nootkatone, a naturally occurring
     pesticide found in grapefruit that both repels and kills insects.
   citation: ''
+
 ---
 *   Nootkatone is found in grapefruit and contributes to both its smell and taste.
 *   It was discovered and developed by the Centers for Disease Control (CDC) and has been used for many years in fragrances and flavoring.

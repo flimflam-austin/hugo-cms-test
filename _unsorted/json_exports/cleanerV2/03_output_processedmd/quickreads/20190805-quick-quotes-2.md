@@ -14,7 +14,7 @@ card_series: quotes
 color_palette_classname: light-yellow
 background_image: https://smarthernews.com/wp-content/uploads/2018/05/syria-1034467_640.jpg
 card_1:
-  card_text: "> a\x1CI am very sure that we have very, very good grounds to be making these warnings.”\n> \n> Jim Jeffrey, Secretary of State Mike Pompeoa\x19s special adviser on Syria, on the \"lots of evidence that chemical weapon are being prepared\" for a possible attack on Idlib - the last remaining stronghold of those opposed to Syrian President Bashar al-Assad."
+  card_text: "> ax1CI am very sure that we have very, very good grounds to be making these warnings.”n> n> Jim Jeffrey, Secretary of State Mike Pompeoax19s special adviser on Syria, on the "lots of evidence that chemical weapon are being prepared" for a possible attack on Idlib - the last remaining stronghold of those opposed to Syrian President Bashar al-Assad."
   card_citation: ''
 card_2:
   card_text: >-
@@ -46,7 +46,7 @@ card_3:
     Now](https://www.youtube.com/embed/ycPr5-27vSI?enablejsapi=1&autoplay=1&rel=0)
   card_citation: Watch Now
 card_4:
-  card_text: "> a\x1CIt is important that we can make a toy that doesna\x19t jeopardize (childrena\x19s future).”\n> \n> Tim Brooks, Lego's VP for environmental responsibility, as the toymaker looks to make its plastic brick toys entirely from plant-based or recycled materials by 2030. Lego is spending the equivalent of $120M & hiring 100 people in search of a material that will work despite suffering from struggling sales recently."
+  card_text: "> ax1CIt is important that we can make a toy that doesnax19t jeopardize (childrenax19s future).”n> n> Tim Brooks, Lego's VP for environmental responsibility, as the toymaker looks to make its plastic brick toys entirely from plant-based or recycled materials by 2030. Lego is spending the equivalent of $120M & hiring 100 people in search of a material that will work despite suffering from struggling sales recently."
   card_citation: ''
 card_5:
   card_text: >-
@@ -65,6 +65,7 @@ card_10:
 
     [view sources](https://smarthernews.com/quick-quotes-2/)
   card_citation: ''
+
 ---
 *   **U.S. has seen evidence of Syria preparing chemical weapons in Idlib: envoy:**  
     [https://www.reuters.com/article/us-mideast-crisis-syria-usa-chemical/u-s-has-seen-evidence-of-syria-preparing-chemical-weapons-in-idlib-envoy-idUSKCN1LM365](\"https://www.reuters.com/article/us-mideast-crisis-syria-usa-chemical/u-s-has-seen-evidence-of-syria-preparing-chemical-weapons-in-idlib-envoy-idUSKCN1LM365\")

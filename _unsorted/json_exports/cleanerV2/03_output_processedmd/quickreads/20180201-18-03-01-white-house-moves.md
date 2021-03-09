@@ -48,7 +48,7 @@ card_2:
     interviews.
   card_citation: ''
 card_3:
-  card_text: "“Today we start to build another entity to help with the midterms. We must reenergize the #ArmyOfTrump to help our country stay on @realDonaldTrump a\x18s path that is Making America Great Again. We have only just started, you havena\x19t seen anything yet. #MAGA”\n\nBrad Parscale, Campaign Manager for Pres. Trump 2020, Twitter  \nFeb 28, 2018"
+  card_text: "“Today we start to build another entity to help with the midterms. We must reenergize the #ArmyOfTrump to help our country stay on @realDonaldTrump ax18s path that is Making America Great Again. We have only just started, you havenax19t seen anything yet. #MAGA”nnBrad Parscale, Campaign Manager for Pres. Trump 2020, Twitter  nFeb 28, 2018"
   card_citation: ''
 card_4:
   card_text: >-
@@ -90,6 +90,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-03-01-white-house-moves/)
   card_citation: ''
+
 ---
 *   Kushnera\\u0019s Business Got Loans After White House Meetings: [https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html](\"https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html\")
 *   Hope Hicks to Leave Post as White House Communications Director: [https://www.nytimes.com/2018/02/28/us/politics/hope-hicks-resign-communications-director.html](\"https://www.nytimes.com/2018/02/28/us/politics/hope-hicks-resign-communications-director.html\")  

@@ -1,6 +1,6 @@
 ---
 title: so long sororities?a
-description: "Harvard universitya\x19s last all-female greek sisterhood goes co-ed due to administrative pressures."
+description: "Harvard universityax19s last all-female greek sisterhood goes co-ed due to administrative pressures."
 aliases:
   - so-long-sororities/
 published: true
@@ -15,13 +15,13 @@ color_palette_classname: dark-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/vonecia-carswell-613625-unsplash-scaled.jpg
 card_1:
-  card_text: "So Long Sororities?A  \n\n=======================\n\nHarvard Universitya\x19s last all-female Greek sisterhood goes co-ed."
+  card_text: "So Long Sororities?A  nn=======================nnHarvard Universityax19s last all-female Greek sisterhood goes co-ed."
   card_citation: ''
 card_2:
-  card_text: "WHY?  \nAdministrative Pressure\n------------------------------\n\nIn 2016, Harvard said it would prevent Class of 2021 members of single-gender groups from holding student leadership roles, receiving endorsements for fellowships, & becoming varsity captains.\n\nAccordingly, Alpha Phi, Harvarda\x19s last remaining Greek sorority, has become the co-ed group, a\x1C**The Ivy**.”"
+  card_text: "WHY?  nAdministrative Pressuren------------------------------nnIn 2016, Harvard said it would prevent Class of 2021 members of single-gender groups from holding student leadership roles, receiving endorsements for fellowships, & becoming varsity captains.nnAccordingly, Alpha Phi, Harvardax19s last remaining Greek sorority, has become the co-ed group, ax1C**The Ivy**.”"
   card_citation: ''
 card_3:
-  card_text: "> “It is with deep sadness that we accept Iota Taua\x19s decision to cease activities. New sanctions put in place by Harvard University placed our members in an untenable conflict a\x13 to choose between their supportive, empowering women-only space and external scholastic and leadership opportunities.”\n> \n> Renee Zainer, Alpha Phi International President and Chairman of the International Executive Board"
+  card_text: "> “It is with deep sadness that we accept Iota Tauax19s decision to cease activities. New sanctions put in place by Harvard University placed our members in an untenable conflict ax13 to choose between their supportive, empowering women-only space and external scholastic and leadership opportunities.”n> n> Renee Zainer, Alpha Phi International President and Chairman of the International Executive Board"
   card_citation: ''
 card_4:
   card_text: >-
@@ -66,6 +66,7 @@ card_10:
 
     [view sources](https://smarthernews.com/so-long-sororities/)
   card_citation: ''
+
 ---
 *   **Harvarda\\u0019s Last Sorority Disappears as Alpha Phi Buckles to College Pressure, Goes Co-Ed:**  
     [https://www.thecrimson.com/article/2018/8/19/last-sorority-alpha-phi-co-ed/](\"https://www.thecrimson.com/article/2018/8/19/last-sorority-alpha-phi-co-ed/\")

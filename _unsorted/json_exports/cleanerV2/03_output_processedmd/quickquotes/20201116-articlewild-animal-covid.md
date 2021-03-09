@@ -28,6 +28,7 @@ featured_quote:
     tested positive for COVID-19, becoming the first wild animal in the U.S. to
     do so.
   citation: ''
+
 ---
 *   According to the USDA, about [120](\"https://www.aphis.usda.gov/animal_health/one_health/downloads/sars-cov2-in-animals.pdf\") animals (minks, dogs, cats, lions, tigers & 1 snow leopard) have been infected with COVID-19 since the first animal (a tiger at a NYC zoo) tested positive in April.  Nearly all of them had confirmed (or likely) contact with a human infected with COVID-19.
 *   All of the other animals were domesticated or lived in a zoo, farm, or similar setting.  The Utah mink is the first \*wild\* animal to test positive for COVID-19, according to the [USDA](\"https://promedmail.org/promed-post/?id=8015608\").

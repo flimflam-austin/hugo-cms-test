@@ -22,6 +22,7 @@ featured_quote:
     Congressman Hakeem Jeffries (D-N.Y.) on police reform legislation passed by
     the House of Representatives; future uncertain.
   citation: ''
+
 ---
 *   The George Floyd Justice in Policing Act: would create a national database to register police officer misconduct (something Republicans also agree with) and allow police themselves to be personally liable for accidents/crimes/incidents caused in the line of duty (something that Republicans do not agree with). Here’s a description of what that would look like: _It would revise the federal criminal police misconduct statute to make it easier to prosecute officers who are involved in “reckless” misconduct and it would change “qualified immunity” protections to more **broadly enable damage claims against police in [lawsuits](\"https://apnews.com/2df9d32e313c79f0989774b16e1959b6\")**._ 
 *   Republicans criticize the bill for “going too far” as Democrats criticized the Senate Republicans bill of “not going far enough.”

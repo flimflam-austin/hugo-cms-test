@@ -39,6 +39,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-08-24-nicaragua-podcast/)
   card_citation: ''
+
 ---
 Podcast Link:
 

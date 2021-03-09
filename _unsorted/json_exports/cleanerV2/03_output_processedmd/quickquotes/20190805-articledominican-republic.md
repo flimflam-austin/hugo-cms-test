@@ -22,6 +22,7 @@ featured_quote:
     forward with allegations of mistreatment at a DR Resort.
   summary: Dominican Republic
   citation: ''
+
 ---
 *   Having about eight-ninths of its area
 *   Then comes that of the Yenisei, with about seven-ninths

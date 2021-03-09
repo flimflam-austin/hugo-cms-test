@@ -61,6 +61,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-08-01-superman-beats-olympian/)
   card_citation: ''
+
 ---
 *   **10-year-old California boy named Clark Kent beats record Michael Phelps set in 1995:**  
     [https://www.sfgate.com/bayarea/article/10-California-Clark-Kent-phelps-record-swimming-13120578.php](\"https://www.sfgate.com/bayarea/article/10-California-Clark-Kent-phelps-record-swimming-13120578.php\")

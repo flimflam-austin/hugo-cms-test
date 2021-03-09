@@ -24,6 +24,7 @@ featured_quote:
     resources to fully fight and contain every fire.
   summary: USDA Forest Service official on the 25 major wildfires ablaze in California.
   citation: ''
+
 ---
 *   Beginning on [August 15](\"https://www.fire.ca.gov/\"), lightning ignited hundreds of wildfires across Northern California.  To date, those fires and the new ones that have sparked across the state since August 15 have burned more than [1.8 million](\"https://twitter.com/CAL_FIRE/status/1303357261390082050/photo/1\") acres, resulting in the loss of eight lives and over [3,300](\"https://www.fire.ca.gov/daily-wildfire-report/\") buildings and structures.
 *   The three main ones – Creek (Fresno), El Dorado (San Bernadino) and Valley (San Diego) fires – have alone burned [tens of thousands](\"https://www.gov.ca.gov/wp-content/uploads/2020/09/9.6.20-September-Fires-Emergency.pdf\") of acres.

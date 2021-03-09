@@ -29,6 +29,7 @@ featured_quote:
     Carolyn Lewis on NASA’s decision to rename its D.C. headquarters after her
     mother, Mary Jackson, the agency’s first black female engineer.
   citation: ''
+
 ---
 *   NASA announced the name change to honor not only Jackson’s talent as a mathematician and aeronautical engineer, but also her influence promoting the hiring of other women during America’s “space race” and beyond.
 *   This follows legislation passed last year to rename a portion of the Washington D.C. street in front of the headquarters to “Hidden Figures Way” to honor a historically significant group of African-American female NASA mathematicians who worked at NASA’s Langley Research Center in the late 1950s and helped start America’s exploration into space.

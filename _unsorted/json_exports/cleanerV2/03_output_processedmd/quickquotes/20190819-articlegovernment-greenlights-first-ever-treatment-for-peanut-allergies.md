@@ -18,6 +18,7 @@ featured_quote:
   quote: This is a big deal.
   summary: Government committee greenlights first EVER treatment for peanut allergies.
   citation: ''
+
 ---
 Pediatric allergist, Dr. BJ Lanser, at National Jewish Health, the hospital that helped run a clinical trial on a treatment for peanut allergy sufferers. He went on to say, a\\u001cThis is a big deal, but with this caveat that this is not an easy, simple cure and the therapy isna\\u0019t going to be for everyone.a\\u001d
 

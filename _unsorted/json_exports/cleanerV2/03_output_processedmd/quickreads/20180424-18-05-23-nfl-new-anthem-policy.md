@@ -22,7 +22,7 @@ card_1:
 
 
     Days ahead of Memorial Day, NFL announces new policy on national anthem.
-    Turns out the \***new**\* policy isn’t really \***new\***A at all.
+    Turns out the ***new*** policy isn’t really ***new***A at all.
 
 
     Why Now?
@@ -40,7 +40,7 @@ card_2:
     *   “New policy” allows players to choose to yet again NOT go on the field
     for the national anthem.
 
-    *   \*If\* on the field, players must **“stand and show respect”** during
+    *   *If* on the field, players must **“stand and show respect”** during
     the anthem or **face a league fine & possibly a fine from the team.**
   card_citation: ''
 card_3:
@@ -78,6 +78,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-05-23-nfl-new-anthem-policy/)
   card_citation: ''
+
 ---
 *   **NFL owners approve national anthem policy for 2018:** [http://www.nfl.com/news/story/0ap3000000933971/article/nfl-owners-approve-national-anthem-policy-for-2018](\"http://www.nfl.com/news/story/0ap3000000933971/article/nfl-owners-approve-national-anthem-policy-for-2018\")
 *   **Why the NFL’s Ratings Saw a Steep Decline in 2017:A** [https://www.si.com/tech-media/2018/01/03/nfl-ratings-decline-espn-fox-nbc-network-tv](\"https://www.si.com/tech-media/2018/01/03/nfl-ratings-decline-espn-fox-nbc-network-tv\")

@@ -26,6 +26,7 @@ featured_quote:
     CDC on an increasingly serious salmonella outbreak impacting 43 U.S. states
     including red, white, yellow, & sweet onions.
   citation: ''
+
 ---
 *   Here’s the alert from the CDC so you can check your refrigerator or prepped food items: [CLICK HERE](\"https://www.cdc.gov/salmonella/newport-07-20/index.html\")
 *   Salmonella, a bacteria, causes stomach upset 6 hours to 6 days after you eat a contaminated item.

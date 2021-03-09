@@ -53,7 +53,7 @@ card_2:
     “underestimate.”**
   card_citation: ''
 card_3:
-  card_text: "> a\x1CI really worry about a loss to credibility, a loss of trust. Therea\x19s no use denying it. We cana\x19t sugarcoat it, this is disastrous.a\x1D\n> \n> Cardinal Timothy Dolan, Archbishop of New York, after a Pennsylvania grand jury report last week showed the church covered up the abuse of 1K+ minors by 300 priests over 70 years."
+  card_text: "> ax1CI really worry about a loss to credibility, a loss of trust. Thereax19s no use denying it. We canax19t sugarcoat it, this is disastrous.ax1Dn> n> Cardinal Timothy Dolan, Archbishop of New York, after a Pennsylvania grand jury report last week showed the church covered up the abuse of 1K+ minors by 300 priests over 70 years."
   card_citation: ''
 card_4:
   card_text: >-
@@ -72,7 +72,7 @@ card_4:
     paid to victims.**
   card_citation: ''
 card_5:
-  card_text: "> a\x1CFor the billions it has cost the Catholic Church, it does not compare to the cost of (traumatic) lives that many have suffered over the years,a\x1D\n> \n> Johnny Vega, who was raped by a priest & deacon at his New Jersey church where he served as an altar boy. He received part of a $5M settlement in 2005 with 2 dozen other victims."
+  card_text: "> ax1CFor the billions it has cost the Catholic Church, it does not compare to the cost of (traumatic) lives that many have suffered over the years,ax1Dn> n> Johnny Vega, who was raped by a priest & deacon at his New Jersey church where he served as an altar boy. He received part of a $5M settlement in 2005 with 2 dozen other victims."
   card_citation: ''
 card_6:
   card_text: >-
@@ -98,6 +98,7 @@ card_10:
 
     [view sources](https://smarthernews.com/catholic-church/)
   card_citation: ''
+
 ---
 *   **‘Shame and sorrow’ a\\u0013 Holy See responds to Pennsylvania report:**  
     [https://www.catholicnewsagency.com/news/shame-and-sorrow—holy-see-responds-to-pennsylvania-report-16263](\"https://www.catholicnewsagency.com/news/shame-and-sorrow---holy-see-responds-to-pennsylvania-report-16263\")

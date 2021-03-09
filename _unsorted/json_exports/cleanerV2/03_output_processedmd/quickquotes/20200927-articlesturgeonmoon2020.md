@@ -23,6 +23,7 @@ featured_quote:
     Forbes Senior Contributor Jamie Carter on this week’s “Sturgeon Moon,”
     highlighting 2020’s rare full moon sightings.
   citation: ''
+
 ---
 *   August’s Full Moon: August 3.
 *   This August Full Moon is often called the “Sturgeon Moon.”

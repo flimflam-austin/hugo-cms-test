@@ -22,6 +22,7 @@ featured_image:
 summary: >-
   From Afghanistan to America’s Freedom Church – what’s going on and why it
   matters.
+
 ---
 More Stories:
 

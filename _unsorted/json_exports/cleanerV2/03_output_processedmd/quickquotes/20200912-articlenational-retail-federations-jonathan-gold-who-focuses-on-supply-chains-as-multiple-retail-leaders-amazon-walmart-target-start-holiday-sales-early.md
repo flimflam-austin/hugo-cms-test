@@ -28,6 +28,7 @@ featured_quote:
     National Retail Federation’s Jonathan Gold who focuses on supply chains as
     multiple retail leaders (Amazon, Walmart, Target) start holiday sales early.
   citation: ''
+
 ---
 *   Retailers are not waiting for Thanksgiving ~ early seasonal sales are a result \*in part\* of the COVID-19 pandemic (either moving sales up or rescheduling sales set for earlier this year).
 *   Politics is also a factor as retailers want to capitalize before more uncertainty of higher COVID cases, AND U.S. election results.

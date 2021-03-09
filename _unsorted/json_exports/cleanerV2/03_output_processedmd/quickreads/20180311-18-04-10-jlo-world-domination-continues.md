@@ -40,7 +40,7 @@ card_2:
     Why Now?
   card_citation: Why Now?
 card_3:
-  card_text: "Beauty Industry Billions\n------------------------\n\n> *   $17.7 B = U.S. beauty business.\n> *   Makeup = biggest segment.”As beauty brands and retailers look to understand a\x18whata\x19s nexta\x19…their focus should be on developing new and alternative ways to engage with consumers.”\n> \n> Larissa Jensen, The NPD Group"
+  card_text: "Beauty Industry Billionsn------------------------nn> *   $17.7 B = U.S. beauty business.n> *   Makeup = biggest segment.”As beauty brands and retailers look to understand ax18whatax19s nextax19…their focus should be on developing new and alternative ways to engage with consumers.”n> n> Larissa Jensen, The NPD Group"
   card_citation: ''
 card_4:
   card_text: >-
@@ -72,6 +72,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-04-10-jlo-world-domination-continues/)
   card_citation: ''
+
 ---
 *   The Newest Crop of Beauty Moguls Contains Some Very Familiar Faces: [https://www.townandcountrymag.com/style/beauty-products/a17765095/celebrity-beauty-brands/](\"https://www.townandcountrymag.com/style/beauty-products/a17765095/celebrity-beauty-brands/\")
 *   U.S. Prestige Beauty Industry Sales Rise 6 Percent in 2017, Reports The NPD Group: [https://www.npd.com/wps/portal/npd/us/news/press-releases/2018/us-prestige-beauty-industry-sales-rise-6-percent-in-2017-reports-the-npd-group/](\"https://www.npd.com/wps/portal/npd/us/news/press-releases/2018/us-prestige-beauty-industry-sales-rise-6-percent-in-2017-reports-the-npd-group/\")

@@ -57,11 +57,12 @@ card_3:
     as to why.
   card_citation: ''
 card_4:
-  card_text: "> “Perhaps students are more likely to internalize such values when they know **they are loved not only by their teachers but by their Creator,** or when they perceive that misbehavior may have **eternal consequences**. Maybe ita\x19s something else entirely.”\n> \n> \"Self-Discipline and Catholic Schools\""
+  card_text: "> “Perhaps students are more likely to internalize such values when they know **they are loved not only by their teachers but by their Creator,** or when they perceive that misbehavior may have **eternal consequences**. Maybe itax19s something else entirely.”n> n> "Self-Discipline and Catholic Schools""
   card_citation: ''
 card_10:
-  card_text: "\"Regardless, one thing is certain: Religion can mold hearts and minds in ways that suspensions, restorative justice, and Positive Behavioral Intervention and Supports (PBIS) cana\x19t begin to match.\" Do you agree or disagree? Read more:\n\n[view sources](https://smarthernews.com/18-06-05-god-key-discipline/)"
+  card_text: ""Regardless, one thing is certain: Religion can mold hearts and minds in ways that suspensions, restorative justice, and Positive Behavioral Intervention and Supports (PBIS) canax19t begin to match." Do you agree or disagree? Read more:nn[view sources](https://smarthernews.com/18-06-05-god-key-discipline/)"
   card_citation: ''
+
 ---
 *   **The Catholic School Difference:** [https://www.wsj.com/articles/the-catholic-school-difference-1527894168](\"https://www.wsj.com/articles/the-catholic-school-difference-1527894168\")
 *   **Self-Discipline and Catholic Schools Evidence from Two National Cohorts:** [https://edexcellence.net/publications/self-discipline-and-catholic-schools](\"https://edexcellence.net/publications/self-discipline-and-catholic-schools\")

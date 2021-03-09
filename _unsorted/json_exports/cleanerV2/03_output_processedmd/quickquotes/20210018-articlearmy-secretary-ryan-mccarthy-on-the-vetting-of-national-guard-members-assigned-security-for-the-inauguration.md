@@ -28,6 +28,7 @@ featured_quote:
     Army Secretary Ryan McCarthy on the vetting of National Guard members
     assigned security for the inauguration.
   citation: ''
+
 ---
 *   Nearly 25,000 National Guard members are in/are arriving in Washington D.C. for security surrounding the presidential inauguration.
 *   [The Associated Press is reporting](\"https://apnews.com/article/biden-inauguration-joe-biden-capitol-siege-ap-top-news-857bacc273e16ff82dc9fefed1242ae8\") the F.B.I. is continuing to do background checks of those on scene.

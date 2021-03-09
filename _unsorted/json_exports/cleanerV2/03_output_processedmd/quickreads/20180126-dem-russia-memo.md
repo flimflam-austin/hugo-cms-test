@@ -113,6 +113,7 @@ card_7:
 card_10:
   card_text: '[view sources](https://smarthernews.com/dem-russia-memo/)'
   card_citation: ''
+
 ---
 *   Democratic memo: [http://apne.ws/oGQvU7S](\"http://apne.ws/oGQvU7S\")
 *   Republican memo: [http://apne.ws/NEA8JRJ](\"http://apne.ws/NEA8JRJ\")

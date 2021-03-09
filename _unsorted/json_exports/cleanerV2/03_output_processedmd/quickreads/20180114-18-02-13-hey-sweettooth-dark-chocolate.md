@@ -92,6 +92,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-02-13-hey-sweettooth-dark-chocolate/)
   card_citation: ''
+
 ---
 *   U.S. Census Bureau Daily Feature for June 3: Sugar Rush – [https://www.prnewswire.com/news-releases/us-census-bureau-daily-feature-for-june-3-sugar-rush-300467613.html](\"https://www.prnewswire.com/news-releases/us-census-bureau-daily-feature-for-june-3-sugar-rush-300467613.html\")
 *   Cocoa: a sweet treat for the brain?A [https://www.health.harvard.edu/blog/cocoa-sweet-treat-brain-201502057676](\"https://www.health.harvard.edu/blog/cocoa-sweet-treat-brain-201502057676\")

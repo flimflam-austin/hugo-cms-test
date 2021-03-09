@@ -23,6 +23,7 @@ featured_quote:
     pace of improvement, if sustained, suggests more reason for hope...
   summary: Senior Economist Eric Winograd, AllianceBernstein, on the May Jobs Report.
   citation: ''
+
 ---
 *   Winograd: _“It appears that businesses began rehiring workers earlier and in greater numbers than expected, a trend that is likely to continue as lockdowns ease around the country. To be clear: things are very far from normal in the labor market. But the pace of improvement, if sustained, suggests more reason for hope in the second half of the year than we have seen from any previous data release.”_
 *   May unemployment rate improved from 14.7% in April to 13.3%.

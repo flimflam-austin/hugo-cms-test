@@ -45,10 +45,10 @@ card_2:
     they would be paired with other drivers going forward.
   card_citation: ''
 card_3:
-  card_text: "Your Rideshare Rights\n=====================\n\n*   Most drivers are independent contractors and own their cars.\n*   Laws have yet to catch up with technology and differ state to state (& sometimes by locality).\n*   In most states, it’s legal to secretly record you b/c you don’t have a a\x1C**reasonable expectation of privacy**a\x1D in someone else’s car AND consent is only required from one party (ie: the recorder)."
+  card_text: "Your Rideshare Rightsn=====================nn*   Most drivers are independent contractors and own their cars.n*   Laws have yet to catch up with technology and differ state to state (& sometimes by locality).n*   In most states, it’s legal to secretly record you b/c you don’t have a ax1C**reasonable expectation of privacy**ax1D in someone else’s car AND consent is only required from one party (ie: the recorder)."
   card_citation: ''
 card_4:
-  card_text: "> a\x1CThis is one of those things thata\x19s certainly a breach of our norms, but the law might not be a great way to take care of that yet…. That could change if the law evolves, but ita\x19s moving pretty slow when it comes to this technology.”\n> \n> Chip Stewart, journalism professor at Texas Christian University, who studied the privacy implications of live streaming technology and the right to record."
+  card_text: "> ax1CThis is one of those things thatax19s certainly a breach of our norms, but the law might not be a great way to take care of that yet…. That could change if the law evolves, but itax19s moving pretty slow when it comes to this technology.”n> n> Chip Stewart, journalism professor at Texas Christian University, who studied the privacy implications of live streaming technology and the right to record."
   card_citation: ''
 card_10:
   card_text: >-
@@ -59,6 +59,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-07-24-rideshare-dashcam-privacy/)
   card_citation: ''
+
 ---
 *   **St. Louis Uber driver has put video of hundreds of passengers online. Most have no idea:** [https://www.stltoday.com/news/local/metro/st-louis-uber-driver-has-put-video-of-hundreds-of/article\_9060fd2f-f683-5321-8c67-ebba5559c753.html](\"https://www.stltoday.com/news/local/metro/st-louis-uber-driver-has-put-video-of-hundreds-of/article_9060fd2f-f683-5321-8c67-ebba5559c753.html\")
 *   **Is it legal to livestream unsuspecting Uber and Lyft passengers?**:  

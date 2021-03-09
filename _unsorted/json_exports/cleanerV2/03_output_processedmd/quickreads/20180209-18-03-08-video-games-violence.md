@@ -34,10 +34,10 @@ card_1:
     Flip Here
   card_citation: Flip Here
 card_2:
-  card_text: "> a\x1CIt was kill, kill, kill, blow up something, and kill some more, all day.”\n> \n> Paul Gold, neighbor to school shooter, who said shooter played violent video games for up to 15 hours a day.\n\n[Click HERE-Full Article](http://www.miamiherald.com/news/local/community/broward/article200754714.html)"
+  card_text: "> ax1CIt was kill, kill, kill, blow up something, and kill some more, all day.”n> n> Paul Gold, neighbor to school shooter, who said shooter played violent video games for up to 15 hours a day.nn[Click HERE-Full Article](http://www.miamiherald.com/news/local/community/broward/article200754714.html)"
   card_citation: Click HERE-Full Article
 card_3:
-  card_text: "What Does The Data Say?  \nSummary:\n----------------------------------\n\nStudies do NOT show direct link between a\x1Cgaminga\x1D and violence.\n\nSome studies show an increase in emotion or aggression but NOT necessarily acting on it.\n\nCommunities with large amount of a\x1Cgamers”, also can have low levels of gun violence (example: Japan)."
+  card_text: "What Does The Data Say?  nSummary:n----------------------------------nnStudies do NOT show direct link between ax1Cgamingax1D and violence.nnSome studies show an increase in emotion or aggression but NOT necessarily acting on it.nnCommunities with large amount of ax1Cgamers”, also can have low levels of gun violence (example: Japan)."
   card_citation: ''
 card_4:
   card_text: >-
@@ -63,6 +63,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-03-08-video-games-violence/)
   card_citation: ''
+
 ---
 *   No evidence to support link between violent video games and behavior: [https://www.sciencedaily.com/releases/2018/01/180116131317.htm](\"https://www.sciencedaily.com/releases/2018/01/180116131317.htm\")
 *   OVERVIEW – White House Meeting: [https://apnews.com/a2010072da204ae099b9537d421ea42a](\"https://apnews.com/a2010072da204ae099b9537d421ea42a\")

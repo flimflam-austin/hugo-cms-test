@@ -78,8 +78,9 @@ card_5:
     for their service…”
   card_citation: ''
 card_10:
-  card_text: "a\x1CWe should guard their graves with sacred vigilance...Let no neglect, no ravages of time, testify to the present or to the coming generations that we have forgotten as a people the cost of a free and undivided republic.a\x1D\n\n[view sources](https://smarthernews.com/18-05-25-memorial-day-history/)"
+  card_text: "ax1CWe should guard their graves with sacred vigilance...Let no neglect, no ravages of time, testify to the present or to the coming generations that we have forgotten as a people the cost of a free and undivided republic.ax1Dnn[view sources](https://smarthernews.com/18-05-25-memorial-day-history/)"
   card_citation: ''
+
 ---
 *   **Memorial Day History**A [https://www.va.gov/opa/speceven/memday/history.asp](\"https://www.va.gov/opa/speceven/memday/history.asp\")
 *   **From Decoration Day to Memorial Day**A [https://blogs.loc.gov/picturethis/2015/05/from-decoration-day-to-memorial-day/](\"https://blogs.loc.gov/picturethis/2015/05/from-decoration-day-to-memorial-day/\")

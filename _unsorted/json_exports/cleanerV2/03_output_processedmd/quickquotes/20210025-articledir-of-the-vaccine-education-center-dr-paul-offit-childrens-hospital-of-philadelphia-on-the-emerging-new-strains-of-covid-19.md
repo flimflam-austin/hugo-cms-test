@@ -28,6 +28,7 @@ featured_quote:
     Dir. of the Vaccine Education Center, Dr. Paul Offit, Children’s Hospital of
     Philadelphia on the emerging new strains of Covid-19.
   citation: ''
+
 ---
 *   Several new variants of the new coronavirus have emerged ~ [in the U.K., South Africa and](\"https://www.latimes.com/california/story/2021-01-25/new-coronavirus-strains-urgent-threat-what-to-know\") [California](\"https://www.latimes.com/california/story/2021-01-25/new-coronavirus-strains-urgent-threat-what-to-know\").
 *   Moderna, a big pharmaceutical company that already has a COVID-19 vaccine in the market, says it is proactively working on a vaccine booster for the South Africa variant of the new coronavirus, but believes the data shows their vaccine offers benefit against other variants.

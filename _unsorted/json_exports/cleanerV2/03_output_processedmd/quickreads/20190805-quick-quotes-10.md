@@ -44,7 +44,7 @@ card_2:
     given year with 11-20% of veterans suffering.
   card_citation: ''
 card_3:
-  card_text: "> a\x1COf course, we have quite a ways to go but we look forward to the next steps in this conversation.a\x1D\n> \n> State Department spokeswoman on U.S. Secretary of State Mike Pompeo's multi-country visit, which will include a visit with Kim Jong Un this Sunday in North Korea. This will be his 4th visit and he is expected to help plan a second meeting between Kim & President Trump."
+  card_text: "> ax1COf course, we have quite a ways to go but we look forward to the next steps in this conversation.ax1Dn> n> State Department spokeswoman on U.S. Secretary of State Mike Pompeo's multi-country visit, which will include a visit with Kim Jong Un this Sunday in North Korea. This will be his 4th visit and he is expected to help plan a second meeting between Kim & President Trump."
   card_citation: ''
 card_4:
   card_text: >-
@@ -86,6 +86,7 @@ card_6:
 card_10:
   card_text: '[view sources](https://smarthernews.com/quick-quotes-10/)'
   card_citation: ''
+
 ---
 *   **Ricin Suspected in Mail Sent to Trump and Pentagon Officials:**  
     [https://www.nytimes.com/2018/10/02/us/politics/ricin-pentagon-mail-poisoning.html](\"https://www.nytimes.com/2018/10/02/us/politics/ricin-pentagon-mail-poisoning.html\")

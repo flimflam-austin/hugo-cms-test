@@ -25,6 +25,7 @@ featured_quote:
     destructive storm that slammed through the Midwest on Monday travelling from
     South Dakota to Ohio in 14 hours.
   citation: ''
+
 ---
 *   The National Weather Service defines a **[derecho](\"https://www.weather.gov/lmk/derecho\")** (pronounced “deh-REY-cho”) as a storm that causes major wind damage over 240 miles and includes wind gusts at around 60 mph.
 *   Illinois, Indiana, Iowa, Ohio, Nebraska, South Dakota, and Wisconsin were hit to varying degrees, with winds reaching up to **[112 mph](\"https://twitter.com/NWSDesMoines/status/1293218906253926400\")** in central Iowa. Severe storms and turbulent winds overturned vehicles, destroyed crops, and tore down trees, structures, and power-lines.

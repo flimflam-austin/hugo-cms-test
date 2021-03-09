@@ -17,6 +17,7 @@ featured_image:
   image: https://smarthernews.com/wp-content/uploads/2018/01/flags-1024x683.jpg
   alt: ''
 summary: What you should know about the party, platform and presidential candidate.
+
 ---
 **Full Speech by VP Joe Biden:** [CLICK HERE](\"https://www.cnn.com/videos/politics/2020/08/21/joe-biden-dnc-2020-speech-full-video-vpx.cnn\")
 

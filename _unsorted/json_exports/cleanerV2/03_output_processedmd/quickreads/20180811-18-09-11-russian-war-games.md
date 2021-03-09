@@ -85,6 +85,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-09-11-russian-war-games/)
   card_citation: ''
+
 ---
 *   **Russia launches its biggest war games since Cold War:**  
     [https://www.bbc.com/news/world-europe-45470460](\"https://www.bbc.com/news/world-europe-45470460\")

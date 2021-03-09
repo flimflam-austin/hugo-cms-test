@@ -24,6 +24,7 @@ featured_quote:
     Defense Dept. official on potentially deploying more U.S. troops to the
     Middle East.
   citation: ''
+
 ---
 *   Under Secretary of Defense for Policy John Rood spoke to Congress Thursday.
 *   He affirmed 14,000 additional U.S. forces were sent to the Middle East this year to counter growing threats from Iran.

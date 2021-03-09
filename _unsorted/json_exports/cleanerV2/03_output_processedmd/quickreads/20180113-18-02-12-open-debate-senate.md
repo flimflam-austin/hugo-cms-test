@@ -30,13 +30,13 @@ card_1:
     *   Why now? **IMMIGRATION**
 
     *   Why It Matters? Coming off last week’s compromise on a budget bill,
-    Senate \*could\* continue bipartisanship on immigration reform.
+    Senate *could* continue bipartisanship on immigration reform.
 
 
     Flip Card Here
   card_citation: Flip Card Here
 card_2:
-  card_text: "> a\x1CWea\x19re going to have something in the Senate that we havena\x19t had in a while. Ita\x19s a real debate on an issue where we really dona\x19t know what the outcome is going to be.a\x1D\n> \n> Sen. Jeff Flake (R-Az) a\x1CMeet the Pressa\x1D Feb 11, 2018"
+  card_text: "> ax1CWeax19re going to have something in the Senate that we havenax19t had in a while. Itax19s a real debate on an issue where we really donax19t know what the outcome is going to be.ax1Dn> n> Sen. Jeff Flake (R-Az) ax1CMeet the Pressax1D Feb 11, 2018"
   card_citation: ''
 card_3:
   card_text: >-
@@ -69,7 +69,7 @@ card_4:
 
     *   President Obama policy: Dates back to 2012.
 
-    *   Protects from deportation \*some\* individuals brought to U.S. illegally
+    *   Protects from deportation *some* individuals brought to U.S. illegally
     as children; NO pathway to citizenship.
   card_citation: ''
 card_5:
@@ -95,6 +95,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-12-open-debate-senate/)
   card_citation: ''
+
 ---
 *   Senate begins rare debate on immigration and a\\u0018Dreamersa\\u0019 – [https://www.pbs.org/newshour/politics/senate-begins-rare-debate-on-immigration-and-dreamers-will-they-find-a-solution](\"https://www.pbs.org/newshour/politics/senate-begins-rare-debate-on-immigration-and-dreamers-will-they-find-a-solution\")
 *   Frequently Asked Questions on DACA:A [https://www.uscis.gov/archive/frequently-asked-questions](\"https://www.uscis.gov/archive/frequently-asked-questions\")

@@ -27,6 +27,7 @@ featured_quote:
     Dr. Megan Ranney, Brown University, on the latest rise in COVID-19 cases in
     America.
   citation: ''
+
 ---
 *   Here’s Dr. Ranney’s [full quote](\"https://www.washingtonpost.com/nation/2020/10/25/coronavirus-cases-hospitalizations-surge/\"): _“We are set up for just a perfect storm — a conflagration,” said Megan Ranney, an emergency medicine professor at Brown University. “Right now, you can talk about there being lots of little burning fires across the country. And then Thanksgiving will be the wind that will whip this fire up into an absolute human disaster for our country.”_
 *   COVID-19 infections continue to rise nationwide – with the largest number of new cases reported in one day thus far: [80,000+.](\"https://www.washingtonpost.com/nation/2020/10/23/coronavirus-covid-live-updates-us/\")

@@ -90,6 +90,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-08-27-guinness-world-records/)
   card_citation: ''
+
 ---
 *   **GUINNESS WORLD RECORDSA HISTORY:  
     **A [https://www.guinnessworldrecords.com/60/through\_the\_years.html](\"https://www.guinnessworldrecords.com/60/through_the_years.html\")

@@ -38,7 +38,7 @@ card_2:
     midterm primary elections.
   card_citation: ''
 card_3:
-  card_text: "Why Texas Matters:\n------------------\n\nTexas had the nationa\x19s LARGEST annual population growth during every year from 2010 to 2016.\n\nIn 2017, Texas gained just about 400,000 residents.\n\n**More Texans \\*MEANS\\*** **More Electoral Votes**\n\nWhy This Matters"
+  card_text: "Why Texas Matters:n------------------nnTexas had the nationax19s LARGEST annual population growth during every year from 2010 to 2016.nnIn 2017, Texas gained just about 400,000 residents.nn**More Texans *MEANS*** **More Electoral Votes**nnWhy This Matters"
   card_citation: Why This Matters
 card_4:
   card_text: >-
@@ -58,6 +58,7 @@ card_4:
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-03-06-tx-primary-elections/)'
   card_citation: ''
+
 ---
 *   Texans smash early voting record powered by Democratic surge: [https://www.statesman.com/news/state–regional-govt–politics/texans-smash-early-voting-record-powered-democratic-surge/NMXgMt4JbHC2bWuQIesNoL/](\"https://www.statesman.com/news/state--regional-govt--politics/texans-smash-early-voting-record-powered-democratic-surge/NMXgMt4JbHC2bWuQIesNoL/\")
 *   Texas early voting numbers a a\\u0018wake-up calla\\u0019 for GOP as Democrats double their 2014 turnout: [https://www.dallasnews.com/news/2018-elections/2018/03/02/texas-early-voting-numbers-wake-call-gop-democrats-double-2014-turnout](\"https://www.dallasnews.com/news/2018-elections/2018/03/02/texas-early-voting-numbers-wake-call-gop-democrats-double-2014-turnout\")

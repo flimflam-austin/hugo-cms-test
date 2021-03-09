@@ -18,6 +18,7 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2020/10/john-hernandez-QvGrVbbOB6M-unsplash-1024x683.jpg
   alt: ''
 summary: A closer look at the ripple effects of the pandemic on women.
+
 ---
 ‘If We Had a Panic Button, We’d be Hitting it.’ Women Are Exiting the Labor Force En Masse—And That’s Bad For Everyone: [CLICK HERE](\"https://time.com/5900583/women-workforce-economy-covid/\")
 

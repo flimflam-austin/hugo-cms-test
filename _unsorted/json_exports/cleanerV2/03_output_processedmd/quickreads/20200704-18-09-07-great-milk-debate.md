@@ -77,6 +77,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-09-07-great-milk-debate/)
   card_citation: ''
+
 ---
 *   **Got Milk? Or Was That Really a Plant Beverage?**  
     [https://www.nytimes.com/2018/08/31/business/milk-nut-juice-plant-beverage-label.html](\"https://www.nytimes.com/2018/08/31/business/milk-nut-juice-plant-beverage-label.html\")

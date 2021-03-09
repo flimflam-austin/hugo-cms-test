@@ -15,7 +15,7 @@ color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/niu-niu-600592-unsplash-scaled.jpg
 card_1:
-  card_text: "KILLER CAUGHT?\n==============\n\nAlleged **“Golden State Killer”** **arrested** almost 2 months to the day of a much-anticipated book published about his crimes.\n\nDNA led to arrest onA a\x1C**National DNAA Day**” – \\*also\\* 15-yr anniversary of theA **‘Human Genome Project’** (cutting edge research on genetics).\n\nSay What? Flip!"
+  card_text: "KILLER CAUGHT?n==============nnAlleged **“Golden State Killer”** **arrested** almost 2 months to the day of a much-anticipated book published about his crimes.nnDNA led to arrest onA ax1C**National DNAA Day**” – *also* 15-yr anniversary of theA **‘Human Genome Project’** (cutting edge research on genetics).nnSay What? Flip!"
   card_citation: Say What? Flip!
 card_2:
   card_text: >-
@@ -24,7 +24,7 @@ card_2:
     ---------------------
 
 
-    Criminal accused of \***at least**\*
+    Criminal accused of ***at least***
 
 
     *   12 Murders
@@ -82,8 +82,9 @@ card_4:
     is onA average less than 1 in 1 billion.”A _National Geographic_
   card_citation: ''
 card_10:
-  card_text: "\"A ski mask wona\x19t help you now.\"- line from Michelle NcNamara's book. Her then-husband, a well-known comedian, said shortly after her death: \"She was going to solve this crime. She didna\x19t want credit for it. She wanted him to be locked up.\"\n\n[view sources](https://smarthernews.com/18-04-25-golden-state-murderer/)"
+  card_text: ""A ski mask wonax19t help you now."- line from Michelle NcNamara's book. Her then-husband, a well-known comedian, said shortly after her death: "She was going to solve this crime. She didnax19t want credit for it. She wanted him to be locked up."nn[view sources](https://smarthernews.com/18-04-25-golden-state-murderer/)"
   card_citation: ''
+
 ---
 *   **DNA match catches alleged a\\u0018East Area Rapist,a\\u0019 who murdered 12, raped 45:** [https://www.sfgate.com/bayarea/article/Report-East-Area-Rapist-who-murdered-12-12863488.php](\"https://www.sfgate.com/bayarea/article/Report-East-Area-Rapist-who-murdered-12-12863488.php\")
 *   **Alleged Golden State Killer Busted by DNA. But Are Tests ‘100%’ Accurate?:** [https://news.nationalgeographic.com/2018/04/dna-testing-accuracy-golden-state-killer-science-spd/](\"https://news.nationalgeographic.com/2018/04/dna-testing-accuracy-golden-state-killer-science-spd/\")

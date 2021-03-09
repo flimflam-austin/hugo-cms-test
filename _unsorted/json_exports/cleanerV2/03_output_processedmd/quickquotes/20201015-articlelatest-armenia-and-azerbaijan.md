@@ -23,6 +23,7 @@ featured_quote:
     Father Ovanes who serves in a 12th century Armenian Dadivank monastery in a
     contested territory, now ceded to Azerbaijan due to a cease fire agreement.
   citation: ''
+
 ---
 *   Armenia and Azerbaijan have battled over a territory held by Armenians in an area some, including Turkey, consider Azerbijian.
 *   The battle over this territory dates back decades.

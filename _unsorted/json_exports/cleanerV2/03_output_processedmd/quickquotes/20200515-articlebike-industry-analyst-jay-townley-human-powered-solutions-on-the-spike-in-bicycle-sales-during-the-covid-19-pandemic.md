@@ -28,6 +28,7 @@ featured_quote:
     Bike industry analyst Jay Townley, Human Powered Solutions, on the spike in
     bicycle sales during the COVID-19 pandemic.
   citation: ''
+
 ---
 *   Townley says bike sales haven’t rallied to this point since the 1970s oil crisis in America.
 *   Townley: an estimated 90% of all bicycles come from China.

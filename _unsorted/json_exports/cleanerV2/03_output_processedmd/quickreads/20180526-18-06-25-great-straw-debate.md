@@ -87,6 +87,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-25-great-straw-debate/)
   card_citation: ''
+
 ---
 *   GREAT READ on history of straws in America:Disposable America  
     **A history of modern capitalism from the perspective of the straw. Seriously**.A [https://www.theatlantic.com/technology/archive/2018/06/disposable-america/563204/](\"https://www.theatlantic.com/technology/archive/2018/06/disposable-america/563204/\")

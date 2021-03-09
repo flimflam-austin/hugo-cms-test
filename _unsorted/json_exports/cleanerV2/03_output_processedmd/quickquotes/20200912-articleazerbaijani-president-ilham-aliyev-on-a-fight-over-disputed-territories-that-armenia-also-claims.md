@@ -28,6 +28,7 @@ featured_quote:
     Azerbaijani president, Ilham Aliyev, on a fight over disputed territories
     that Armenia also claims.
   citation: ''
+
 ---
 *   Fighting began on September 27th – The exact source that led to the eruption of hostilities also remains disputed.
 *   Reports include civilian deaths, violence fighting, use of drones, and the hiring of outside militia (specifically Syrian militia by Turkey to fight on behalf of Azerbaijan).

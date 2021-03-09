@@ -22,6 +22,7 @@ featured_image:
 summary: >-
   Missing children…found. COVID-19 data…clarified. Police shooting of Jacob
   Blake…updated (from the cops’ perspective).
+
 ---
 Operation Not Forgotten: [READ MORE](\"https://smarthernews.com/operation-not-forgotten/\")
 

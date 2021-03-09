@@ -41,7 +41,7 @@ card_3:
   card_text: >-
     > “The fact that I am having a meeting is a major loss for the U.S., say the
     haters & losers. We have our hostages, testing, research and all missle
-    \[sic\] launches have stoped \[sic\], and these pundits, who have called me
+    [sic] launches have stoped [sic], and these pundits, who have called me
     wrong from the beginning, have nothing else they can say! We will be fine!”
 
     > 
@@ -61,14 +61,15 @@ card_4:
     Singapore Summit during media availability w/ Pres. Trump.
   card_citation: ''
 card_5:
-  card_text: "> a\x1CDonald Trump reached out, he called his secretary, she called me and said a\x18Donald Trump is so proud of you, he likes you a lot.a\x19 And that means a lot. I dona\x19t want to take any credit, we can all take credit and Ia\x19m just so glad this is happening.a\x1D\n> \n> Dennis Rodman to CNN during Singapore Summit.\n\n[Watch Now](https://www.youtube.com/embed/dAJLJRRJY3E?enablejsapi=1&autoplay=1&rel=0)"
+  card_text: "> ax1CDonald Trump reached out, he called his secretary, she called me and said ax18Donald Trump is so proud of you, he likes you a lot.ax19 And that means a lot. I donax19t want to take any credit, we can all take credit and Iax19m just so glad this is happening.ax1Dn> n> Dennis Rodman to CNN during Singapore Summit.nn[Watch Now](https://www.youtube.com/embed/dAJLJRRJY3E?enablejsapi=1&autoplay=1&rel=0)"
   card_citation: Watch Now
 card_6:
-  card_text: "> a\x1CNorth Koreans are very tough to deal with. They dona\x19t think like we do. We think in terms of a compromise, quid pro quo. You do this, we do that. Their idea of negotiating is theya\x19ll give you more time for you to get to their position.a\x1D\n> \n> Fmr NM Gov, Bill Richardson, who negotiated with North Korea several times, speaking to AP days ahead of the Singapore Summit."
+  card_text: "> ax1CNorth Koreans are very tough to deal with. They donax19t think like we do. We think in terms of a compromise, quid pro quo. You do this, we do that. Their idea of negotiating is theyax19ll give you more time for you to get to their position.ax1Dn> n> Fmr NM Gov, Bill Richardson, who negotiated with North Korea several times, speaking to AP days ahead of the Singapore Summit."
   card_citation: ''
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-06-11-scene-setter-qq-tuesday/)'
   card_citation: ''
+
 ---
 *   **Trump-Kim summit: Singapore meeting begins as US and North Korean leaders shake hands a\\u0013 live:  
     **[https://www.theguardian.com/world/live/2018/jun/12/trump-kim-summit-meeting-singapore-us-president-north-korea-kim-jong-un-](\"https://www.theguardian.com/world/live/2018/jun/12/trump-kim-summit-meeting-singapore-us-president-north-korea-kim-jong-un-\")

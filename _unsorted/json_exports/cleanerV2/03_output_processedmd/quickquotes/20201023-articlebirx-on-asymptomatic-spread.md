@@ -26,6 +26,7 @@ featured_quote:
     White House Coronavirus Task Force member Dr. Deborah Birx on the risk of
     asymptomatic spread of COVID-19, particularly among those under 35.
   citation: ''
+
 ---
 *   Dr. Birx says one reason for the rise in COVID cases in America has to do with asymptomatic spread and those extending their social circles and relaxing distancing/masking.
 *   She says a “cold snap in northern plains and through the heartland” through the fall pushed people indoors, and many did not wear masks inside.

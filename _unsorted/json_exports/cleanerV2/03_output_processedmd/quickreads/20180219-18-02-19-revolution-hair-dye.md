@@ -70,10 +70,10 @@ card_3:
     *   Lasted more than 30 washes = current industry dye standards.
   card_citation: ''
 card_4:
-  card_text: "Why Dye Is Healthier:  \nSuperficial & Strong\n--------------------------------------------\n\n> a\x1CBecause we now have a coating-based dye, we dona\x19t have to get into the hair or change the chemical structure.a\x1D\n> \n> Dr. Jiaxing Huang, Northwestern University, Interview w/New York Times, March 16, 2018"
+  card_text: "Why Dye Is Healthier:  nSuperficial & Strongn--------------------------------------------nn> ax1CBecause we now have a coating-based dye, we donax19t have to get into the hair or change the chemical structure.ax1Dn> n> Dr. Jiaxing Huang, Northwestern University, Interview w/New York Times, March 16, 2018"
   card_citation: ''
 card_5:
-  card_text: "A Note From The Study:\n----------------------\n\nGraphene conducts electricity. So your dyed-hair could someday a\x1Ctalka\x1D to your watch.\n\n_Graphene-based hair dyes could also potentially benefit the development of electronics interfacing with the body._"
+  card_text: "A Note From The Study:n----------------------nnGraphene conducts electricity. So your dyed-hair could someday ax1Ctalkax1D to your watch.nn_Graphene-based hair dyes could also potentially benefit the development of electronics interfacing with the body._"
   card_citation: ''
 card_10:
   card_text: >-
@@ -83,6 +83,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-19-revolution-hair-dye/)
   card_citation: ''
+
 ---
 *   The barbers of the future may offer a trim, shampoo, and graphene infusionA [https://www.digitaltrends.com/cool-tech/graphene-hair-dye/](\"https://www.digitaltrends.com/cool-tech/graphene-hair-dye/\")
 *   In Search of the Perfect Hair Dye _a\\u001cYour hair is covered in these cuticle scales like the scales of a fish, and people have to use ammonia or organic amines to lift the scales and allow dye molecules to get inside. But lifting the cuticle makes the strands of the hair more brittle, and the damage is only exacerbated by the hydrogen peroxide that is used to trigger the reaction that synthesizes the dye once the pigment molecules are inside the hair.a\\u001d_A [https://www.nytimes.com/2018/03/16/science/hair-dye-graphene.html](\"https://www.nytimes.com/2018/03/16/science/hair-dye-graphene.html\")

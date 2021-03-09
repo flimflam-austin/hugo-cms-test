@@ -25,6 +25,7 @@ featured_quote:
     its first vote on abolishing the police department in the wake of the death
     of George Floyd.
   citation: ''
+
 ---
 *   The proposal would replace the police department with the Department of Community Safety and Violence Prevention,
 *   Draft proposal: The director of this department would not have law enforcement experience but a background in public health and lead a group of licensed peace officers.

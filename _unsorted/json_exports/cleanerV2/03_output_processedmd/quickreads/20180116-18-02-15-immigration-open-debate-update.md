@@ -15,7 +15,7 @@ color_palette_classname: dark-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/luke-michael-302392-360x360.jpg
 card_1:
-  card_text: "Immigration Debate Hits Dead End…For Now\n----------------------------------------\n\n> a\x1CNo one comes out a winner in this. We tried everything.a\x1D\n> \n> Sen. Joe Manchin (D-WV), Chairman of the bipartisan Common Sense Coalition, after proposal on immigration reform did not get necessary votes to move forward in Senate."
+  card_text: "Immigration Debate Hits Dead End…For Nown----------------------------------------nn> ax1CNo one comes out a winner in this. We tried everything.ax1Dn> n> Sen. Joe Manchin (D-WV), Chairman of the bipartisan Common Sense Coalition, after proposal on immigration reform did not get necessary votes to move forward in Senate."
   card_citation: ''
 card_2:
   card_text: >-
@@ -101,6 +101,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-02-15-immigration-open-debate-update/)
   card_citation: ''
+
 ---
 *   Senate Rejects Immigration Plans, Leaving Fate of Dreamers Uncertain: [https://www.nytimes.com/2018/02/15/us/politics/immigration-senate-dreamers.html](\"https://www.nytimes.com/2018/02/15/us/politics/immigration-senate-dreamers.html?mtrref=www.google.com\")
 *   Senate blocks Trump-backed Immigration Plan and Everything Else on the Table:A [https://www.usatoday.com/story/news/politics/2018/02/15/senate-set-vote-dreamer-bills-but-theres-no-clear-path-any-them/341985002/](\"https://www.usatoday.com/story/news/politics/2018/02/15/senate-set-vote-dreamer-bills-but-theres-no-clear-path-any-them/341985002/\")

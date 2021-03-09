@@ -15,7 +15,7 @@ color_palette_classname: white
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/08/800px-Aretha_Franklin_on_January_20_2009.jpg
 card_1:
-  card_text: "> a\x1CI never got to meet her, I never got to tell her that I love her. But Ia\x19ll be damned if I aina\x19t gonna say goodbye to her. She saved my life.a\x1D\n> \n> Rhonda Jefferson paying her respects to Aretha Franklin. Ms. Jefferson said Franklin's music inspired her to leave an abusive relationship. Franklin's funeral is Friday at 10am ET in Detroit. Stevie Wonder, Ariana Grande & Faith Hill will perform."
+  card_text: "> ax1CI never got to meet her, I never got to tell her that I love her. But Iax19ll be damned if I ainax19t gonna say goodbye to her. She saved my life.ax1Dn> n> Rhonda Jefferson paying her respects to Aretha Franklin. Ms. Jefferson said Franklin's music inspired her to leave an abusive relationship. Franklin's funeral is Friday at 10am ET in Detroit. Stevie Wonder, Ariana Grande & Faith Hill will perform."
   card_citation: ''
 card_2:
   card_text: >-
@@ -58,7 +58,7 @@ card_4:
     In Ohio, it is suspected the drug may be fentanyl dispersed via a fan.
   card_citation: ''
 card_5:
-  card_text: "> a\x1COf course, I was surprised when I just changed (the) T-shirt really quick, and he gave me the code violation. I didna\x19t expect it, and I told him it was pretty weird.a\x1D\n> \n> French tennis player Alize Cornet who received a warning for changing her shirt on the tennis court of the U.S. Open; it was on backwards. The US Open said it \"regrets\" the code violation and has since clarified its rules."
+  card_text: "> ax1COf course, I was surprised when I just changed (the) T-shirt really quick, and he gave me the code violation. I didnax19t expect it, and I told him it was pretty weird.ax1Dn> n> French tennis player Alize Cornet who received a warning for changing her shirt on the tennis court of the U.S. Open; it was on backwards. The US Open said it "regrets" the code violation and has since clarified its rules."
   card_citation: ''
 card_10:
   card_text: |-
@@ -66,6 +66,7 @@ card_10:
 
     [view sources](https://smarthernews.com/quick-quotes-august-30/)
   card_citation: ''
+
 ---
 *   **Aretha Franklina\\u0019s Fans Say Goodbye, With Tears and Dance Moves:**  
     [https://www.nytimes.com/2018/08/28/arts/music/aretha-franklin-viewing.html](\"https://www.nytimes.com/2018/08/28/arts/music/aretha-franklin-viewing.html\")

@@ -28,6 +28,7 @@ summary: >-
   incredible insight about Mike Spann: His work for the CIA, the mysterious
   American he encountered in Afghanistan before he died, and why his sacrifice
   is one we should never forget.
+
 ---
 Link to podcast platform for easy listening: [CLICK HERE](\"http://smarthernews.libsyn.com/a-daughters-mission-special-tribute-to-american-hero-mike-spann\")
 

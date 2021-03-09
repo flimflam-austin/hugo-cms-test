@@ -66,7 +66,7 @@ card_3:
     includes the right to own semi-automatic rifles.
   card_citation: ''
 card_4:
-  card_text: "RE: Gov’t Surveillance\n----------------------\n\n> “….the Governmenta\x19s metadata collection program is entirely consistent with the Fourth Amendment.”\n> \n> Kavanaugh in a 2015 ruling on the National Security Agencya\x19s collection of phone records. He went on to say that the \"Governmenta\x19s program for bulk collection of 2 telephony metadata serves a critically important special need a\x13 preventing terrorist attacks on the United States.\""
+  card_text: "RE: Gov’t Surveillancen----------------------nn> “….the Governmentax19s metadata collection program is entirely consistent with the Fourth Amendment.”n> n> Kavanaugh in a 2015 ruling on the National Security Agencyax19s collection of phone records. He went on to say that the "Governmentax19s program for bulk collection of 2 telephony metadata serves a critically important special need ax13 preventing terrorist attacks on the United States.""
   card_citation: ''
 card_5:
   card_text: >-
@@ -95,6 +95,7 @@ card_10:
 
     [view sources](https://smarthernews.com/kavanaugh-on-the-issues/)
   card_citation: ''
+
 ---
 *   **A look at Supreme Court nominee Kavanaugh’s notable opinions:** [https://www.houstonchronicle.com/news/politics/article/A-look-at-Supreme-Court-nominee-Kavanaugh-s-13061443.php](\"https://www.houstonchronicle.com/news/politics/article/A-look-at-Supreme-Court-nominee-Kavanaugh-s-13061443.php\")
 *   **Supreme Court Nominee Brett Kavanaugh Could Leave His Mark On Many Health Care Cases:** [https://www.npr.org/2018/07/10/627782703/supreme-court-nominee-brett-kavanaugh-could-leave-his-mark-on-many-health-care-cases](\"https://www.npr.org/2018/07/10/627782703/supreme-court-nominee-brett-kavanaugh-could-leave-his-mark-on-many-health-care-cases\")

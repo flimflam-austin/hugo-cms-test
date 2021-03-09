@@ -59,7 +59,7 @@ card_3:
     respond to a change-of-residence notice**.”
   card_citation: ''
 card_4:
-  card_text: "HE Said / HE Said\n-----------------\n\nDNC Chair Tom Perez called the ruling “**an attack on democracy**” and a “**power grab by a Republican Party that wants to make it harder for people to vote**.”\n\nOhio’s Republican Sec. of State Jon Husted called it a\x1C**a victory for electoral integrity**.a\x1D Husted is running for lieutenant governor in November."
+  card_text: "HE Said / HE Saidn-----------------nnDNC Chair Tom Perez called the ruling “**an attack on democracy**” and a “**power grab by a Republican Party that wants to make it harder for people to vote**.”nnOhio’s Republican Sec. of State Jon Husted called it ax1C**a victory for electoral integrity**.ax1D Husted is running for lieutenant governor in November."
   card_citation: ''
 card_10:
   card_text: >-
@@ -71,6 +71,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-14-supreme-court-voting-case/)
   card_citation: ''
+
 ---
 *   **Supreme Court rules in favor of Ohio ‘voter purge’:** [thehill.com/homenews/campaign/391623-supreme-court-rules-in-favor-of-ohio-voter-purge](\"http://thehill.com/homenews/campaign/391623-supreme-court-rules-in-favor-of-ohio-voter-purge\")
 *   **Supreme Court allows Ohio, other state voter purges:** [https://apnews.com/36f57577445a4486b1c76b02a247ce72](\"https://apnews.com/36f57577445a4486b1c76b02a247ce72\")

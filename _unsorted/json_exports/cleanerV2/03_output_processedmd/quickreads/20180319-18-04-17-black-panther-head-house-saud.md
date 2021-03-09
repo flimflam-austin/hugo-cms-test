@@ -84,7 +84,7 @@ card_4:
     *   Saudi Arabia home to 2 holiest sites in Islam – important to entire
     Muslim world – millions make pilgrimages to sites.
 
-    *   Other Muslim nations like Bahrain and United Arab Emirates \*already\*
+    *   Other Muslim nations like Bahrain and United Arab Emirates *already*
     show movies.
   card_citation: ''
 card_5:
@@ -107,7 +107,7 @@ card_5:
     Now](https://www.youtube.com/embed/rUIOf__zcxc?enablejsapi=1&autoplay=1&rel=0)
   card_citation: Watch Now
 card_6:
-  card_text: "> “Films are slightly edited and modified to reflect sensitivity to the local culture here in the region. But even with those modest edits a\x14 you can imagine what they are, sexuality and nudity are out a\x14 but we believe that those edits will be quite modest.”\n> \n> Adam Aron, AMC Chief Executive, to CNBC April 18, 2018. He said the company \"rushed in\" when they heard of an opportunity in Saudi Arabia."
+  card_text: "> “Films are slightly edited and modified to reflect sensitivity to the local culture here in the region. But even with those modest edits ax14 you can imagine what they are, sexuality and nudity are out ax14 but we believe that those edits will be quite modest.”n> n> Adam Aron, AMC Chief Executive, to CNBC April 18, 2018. He said the company "rushed in" when they heard of an opportunity in Saudi Arabia."
   card_citation: ''
 card_10:
   card_text: >-
@@ -118,6 +118,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-04-17-black-panther-head-house-saud/)
   card_citation: ''
+
 ---
 *   Saudi Arabia ends 35-year ban on cinemas with ‘Black Panther’ screening: [https://www.smh.com.au/entertainment/movies/saudi-arabia-ends-35-year-ban-on-cinemas-with-black-panther-screening-20180419-p4zaes.html](\"https://www.smh.com.au/entertainment/movies/saudi-arabia-ends-35-year-ban-on-cinemas-with-black-panther-screening-20180419-p4zaes.html\")
 *   Background on ‘Black Panther’:A [https://www.cbsnews.com/news/black-panther-executive-producer-nate-moore-on-the-superheros-legacy/](\"https://www.cbsnews.com/news/black-panther-executive-producer-nate-moore-on-the-superheros-legacy/\")

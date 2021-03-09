@@ -21,4 +21,5 @@ featured_image:
 summary: >-
   What we learned from the CDC, the latest on police reform legislation in D.C.
   and disbanding the police in Minneapolis.
+
 ---

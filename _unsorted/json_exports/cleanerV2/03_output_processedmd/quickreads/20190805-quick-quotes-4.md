@@ -66,14 +66,15 @@ card_4:
     company at more than $1T.
   card_citation: ''
 card_5:
-  card_text: "> a\x1CIt is 50 times more powerful than heroin. It is very inexpensive. It is coming primarily from China and coming primarily through our U.S. Postal Service, if you can believe it.a\x1D\n> \n> Senator Rob Portman (R-OH) as the Senate looks to pass a bill this week to stop flow of opioids through the mail. Under the bill, USPS is required to track sender's name, address & package contents for nearly all int'l mail shipments, including all from China. FedEx, UPS & DHL are already required to do so."
+  card_text: "> ax1CIt is 50 times more powerful than heroin. It is very inexpensive. It is coming primarily from China and coming primarily through our U.S. Postal Service, if you can believe it.ax1Dn> n> Senator Rob Portman (R-OH) as the Senate looks to pass a bill this week to stop flow of opioids through the mail. Under the bill, USPS is required to track sender's name, address & package contents for nearly all int'l mail shipments, including all from China. FedEx, UPS & DHL are already required to do so."
   card_citation: ''
 card_6:
-  card_text: "> “She was very cooperative.”\n> \n> Brian Hale, Tuscarawas County Sheriffa\x19s Deputy, after charging a Giant Eagle grocery store employee with felony theft after she nibbled on deli meat, daily for 8 years. The store's loss prevention manager calculated the 3-5 slices of ham per shift was worth $9,200. Authorities say she also occasionally ate salami."
+  card_text: "> “She was very cooperative.”n> n> Brian Hale, Tuscarawas County Sheriffax19s Deputy, after charging a Giant Eagle grocery store employee with felony theft after she nibbled on deli meat, daily for 8 years. The store's loss prevention manager calculated the 3-5 slices of ham per shift was worth $9,200. Authorities say she also occasionally ate salami."
   card_citation: ''
 card_10:
   card_text: '[view sources](https://smarthernews.com/quick-quotes-4/)'
   card_citation: ''
+
 ---
 *   **Hurricane Florence: ‘This One Really Scares Me,’ Forecaster Says:**  
     [https://www.npr.org/2018/09/11/646598687/hurricane-watch-issued-for-carolinas-ahead-of-category-4-florence](\"https://www.npr.org/2018/09/11/646598687/hurricane-watch-issued-for-carolinas-ahead-of-category-4-florence\")

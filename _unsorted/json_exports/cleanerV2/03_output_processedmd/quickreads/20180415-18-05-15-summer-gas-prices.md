@@ -33,7 +33,7 @@ card_1:
     I feel like this happens EVERY Summer... Why?
   card_citation: I feel like this happens EVERY Summer... Why?
 card_2:
-  card_text: "> U.S. economic growth has boosted demand for oil which means most consumers should be able to afford to pay more at the pump, BUT wildcards in oil-producing areas may mean higher prices ahead.\n> \n> _**a\x1CThree dollars is like a small fence. You can get through it, you can get over it. But $4 is like the electric fence in Jurassic Park. Therea\x19s no getting over that.a\x1D**_\n> \n> Patrick DeHaan, GasBuddy analyst"
+  card_text: "> U.S. economic growth has boosted demand for oil which means most consumers should be able to afford to pay more at the pump, BUT wildcards in oil-producing areas may mean higher prices ahead.n> n> _**ax1CThree dollars is like a small fence. You can get through it, you can get over it. But $4 is like the electric fence in Jurassic Park. Thereax19s no getting over that.ax1D**_n> n> Patrick DeHaan, GasBuddy analyst"
   card_citation: ''
 card_3:
   card_text: >-
@@ -78,6 +78,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-05-15-summer-gas-prices/)
   card_citation: ''
+
 ---
 *   **MAP: Where Gas Prices are the Highest:**  
     [https://gasprices.aaa.com](\"https://gasprices.aaa.com\")

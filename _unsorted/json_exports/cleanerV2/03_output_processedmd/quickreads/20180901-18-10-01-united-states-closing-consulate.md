@@ -102,6 +102,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-10-01-united-states-closing-consulate/)
   card_citation: ''
+
 ---
 *   **U.S. to Close Consulate in Iraq, Citing Threats From Iran**  
     **State Department cites risks from Iran in closing diplomatic post in southern city of Basra:**  

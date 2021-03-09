@@ -26,6 +26,7 @@ summary: >-
   Arab Emirates, what to know about the high stakes in the Middle East now and
   in the future with Foundation for Defense of Democracies senior vice president
   for research, Dr. Jonathan Schanzer.
+
 ---
 Listen here: [CLICK](\"https://smarthernews.libsyn.com/peace-deal-in-of-the-middle-east\")
 

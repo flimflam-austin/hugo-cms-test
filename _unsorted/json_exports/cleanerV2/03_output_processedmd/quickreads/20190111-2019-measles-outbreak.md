@@ -29,7 +29,7 @@ card_1:
     Why Now?
   card_citation: Why Now?
 card_2:
-  card_text: "> “Measles can be so contagious that you can be in a room, and if youa\x19re susceptible, two hours after someone with measles left, and still get the disease.”\n> \n> Dr. Alan Melnick, director of public health for Clark County, the site of the measles outbreak in Washington state. Most of the cases are children under 10. The vaccination rate for school age children is 78%, much lower than recommended 90-95% to create community or \"herd\" immunity."
+  card_text: "> “Measles can be so contagious that you can be in a room, and if youax19re susceptible, two hours after someone with measles left, and still get the disease.”n> n> Dr. Alan Melnick, director of public health for Clark County, the site of the measles outbreak in Washington state. Most of the cases are children under 10. The vaccination rate for school age children is 78%, much lower than recommended 90-95% to create community or "herd" immunity."
   card_citation: ''
 card_3:
   card_text: >-
@@ -108,6 +108,7 @@ card_10:
 
     [view sources](https://smarthernews.com/2019-measles-outbreak/)
   card_citation: ''
+
 ---
 *   **Measles Cases & Outbreaks**:  
     [https://www.cdc.gov/measles/cases-outbreaks.html](\"https://www.cdc.gov/measles/cases-outbreaks.html\")

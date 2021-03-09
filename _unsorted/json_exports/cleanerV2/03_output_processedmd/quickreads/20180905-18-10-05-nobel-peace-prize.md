@@ -96,6 +96,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-10-05-nobel-peace-prize/)
   card_citation: ''
+
 ---
 *   **All Nobel Peace Prizes:  
     **[https://www.nobelprize.org/ prizes/lists/all-nobel-peace- prizes/](\"https://www.nobelprize.org/)

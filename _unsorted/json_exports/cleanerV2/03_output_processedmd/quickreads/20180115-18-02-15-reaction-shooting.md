@@ -66,7 +66,7 @@ card_3:
     House Minority Leader Nancy Pelosi (D-CA) Twitter Feb 15, 2018
   card_citation: ''
 card_4:
-  card_text: "Top Senate Republican\n=====================\n\n“I’m deeply saddened by the horrific violence in Florida. Praying for the victims, their families, and the Parkland community. Always grateful for first responders who charge into harma\x19s way.”\n\nSenator Mitch McConnell, Twitter, Feb 14, 2018"
+  card_text: "Top Senate Republicann=====================nn“I’m deeply saddened by the horrific violence in Florida. Praying for the victims, their families, and the Parkland community. Always grateful for first responders who charge into harmax19s way.”nnSenator Mitch McConnell, Twitter, Feb 14, 2018"
   card_citation: ''
 card_5:
   card_text: >-
@@ -86,6 +86,7 @@ card_5:
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-02-15-reaction-shooting/)'
   card_citation: ''
+
 ---
 Speaker Paul Ryan Weekly Address:A [https://www.youtube.com/watch?v=4loUy2nVZyI&feature=youtu.be](\"https://www.youtube.com/watch?v=4loUy2nVZyI&feature=youtu.be\")
 

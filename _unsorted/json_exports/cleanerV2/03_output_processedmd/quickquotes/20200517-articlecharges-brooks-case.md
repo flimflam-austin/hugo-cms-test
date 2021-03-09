@@ -23,6 +23,7 @@ featured_quote:
     the former Atlanta police officer who shot and killed Rayshard Brooks last
     Friday.
   citation: ''
+
 ---
 *   Former Atlanta police officer Garrett Rolfe was charged with 11 crimes including felony murder and aggravated assault with a deadly weapon. The felony murder charge carries a **potential death sentence or life without parole**.  The aggravated assault with a deadly weapon charge carries up to a 20-year sentence. Rolfe also faces charges for kicking Brooks, shooting his taser at Brooks while he was running away, failing  to render aid to Brooks, and for shooting his firearm in the direction of bystanders
     *   Last Friday, Brooks was killed after Atlanta police attempted to arrest him. The police were responding to a complaint that a man had fallen asleep in his car, blocking traffic at a Wendy’s drive-thru lane. After Brooks failed a sobriety test, the police attempted to arrest him and a struggle ensued. Brooks grabbed an officer’s taser and ran away while pointing it at the officer. Rolfe fired his taser at Brooks before shooting him twice in the back with his firearm.

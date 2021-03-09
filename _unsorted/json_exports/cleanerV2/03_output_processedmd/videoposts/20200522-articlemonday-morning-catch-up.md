@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   What to know about COVID-19 spread, the President’s rally. Plus ~ what is the
   priority for you as a voter?
+
 ---

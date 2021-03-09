@@ -18,7 +18,7 @@ card_1:
   card_text: First Woman Sworn Into Congress
   card_citation: ''
 card_2:
-  card_text: "> **a\x1CI may be the first woman member of Congress, but I won’t be the last.”**\n> \n> Jeannette Rankin (R-MT), first woman elected in U.S. Congress' 128-year history"
+  card_text: "> **ax1CI may be the first woman member of Congress, but I won’t be the last.”**n> n> Jeannette Rankin (R-MT), first woman elected in U.S. Congress' 128-year history"
   card_citation: ''
 card_3:
   card_text: >-
@@ -54,6 +54,7 @@ card_4:
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-04-02-otd-first-woman-congress/)'
   card_citation: ''
+
 ---
 *   Jeannette Rankin: [http://history.house.gov/People/Listing/R/RANKIN,-Jeannette-(R000055)/](\"http://history.house.gov/People/Listing/R/RANKIN,-Jeannette-(R000055)/\")
 *   Women in Congress: An Introduction: [history.house.gov/Exhibitions-and-Publications/WIC/Historical-Essays/Introduction/Introduction/](\"http://history.house.gov/Exhibitions-and-Publications/WIC/Historical-Essays/Introduction/Introduction/\")

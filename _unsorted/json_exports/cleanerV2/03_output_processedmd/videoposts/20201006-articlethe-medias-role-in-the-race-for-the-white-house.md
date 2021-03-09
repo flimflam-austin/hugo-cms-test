@@ -17,4 +17,5 @@ featured_image:
   image: ''
   alt: ''
 summary: And why SmartHER News matters.
+
 ---

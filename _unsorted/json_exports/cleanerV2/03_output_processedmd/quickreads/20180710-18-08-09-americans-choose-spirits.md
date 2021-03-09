@@ -36,7 +36,7 @@ card_2:
     ---------------
 
 
-    **Avg. Amt of \*Pure\* Alcohol Americans Drink Each Year**
+    **Avg. Amt of *Pure* Alcohol Americans Drink Each Year**
 
 
     *   Gov’t measures different alcohol levels in beer vs vodka.
@@ -88,6 +88,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-08-09-americans-choose-spirits/)
   card_citation: ''
+
 ---
 *   **The 10 States That Consume the Most Alcohol:**  
     [https://www.usnews.com/news/best-states/slideshows/these-10-states-consume-the-most-alcohol-per-capita](\"https://www.usnews.com/news/best-states/slideshows/these-10-states-consume-the-most-alcohol-per-capita\")

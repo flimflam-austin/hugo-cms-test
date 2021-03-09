@@ -24,6 +24,7 @@ featured_quote:
     Local California health officials confirming the first human case of the
     plague in the state since 2015 (and the fourth since 2006).
   citation: ''
+
 ---
 *   Officials said the person is an avid walker and could have gotten bit by a flea while walking their dog in South Lake Tahoe.
 *   The plague is transmitted to humans via fleas who became infected with the bacteria after feeding on rodents, like squirrels or mice. Dogs and cats can also transmit the bacteria via fleas.

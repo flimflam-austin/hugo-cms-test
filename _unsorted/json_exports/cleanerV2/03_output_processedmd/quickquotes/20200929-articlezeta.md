@@ -23,6 +23,7 @@ featured_quote:
     Louisiana Gov. John Bel Edwards, warning people to stay vigilant, after
     Hurricane Zeta slammed the Gulf Coast states.
   citation: ''
+
 ---
 *   Zeta struck the Louisiana shoreline on Wednesday as a [Category 2](\"https://www.nhc.noaa.gov/aboutsshws.php\") hurricane (96-110 mph).  Its surge hit parts of Alabama and Mississippi, with additional devastating impacts expanding to neighboring states.
 *   Based on the latest [reports](\"https://www.nbcnews.com/news/us-news/3-dead-millions-without-power-after-zeta-sweeps-southern-states-n1245235\"), Zeta took three lives in Georgia, Louisiana, and Mississippi, and left over two million homes without power in Alabama, Georgia, Florida, Louisiana, Mississippi, and North Carolina.

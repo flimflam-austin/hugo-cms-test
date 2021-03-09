@@ -43,7 +43,7 @@ card_2:
     *   President has power to nominate, but Senate must confirm.
 
     *   During the hearings, the Senate Judiciary Committee will ask Kavanaugh
-    about his judicial philosophy to get an idea of how he \*might\* rule in the
+    about his judicial philosophy to get an idea of how he *might* rule in the
     future.
 
     *   Expect to hear about big issues: abortion, presidential powers, etc.
@@ -91,6 +91,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-09-04-kavanaugh-scotus-hearings/)
   card_citation: ''
+
 ---
 *   **C-SPAN Supreme Court Survey:  
     **[https://static.c-span.org/assets/documents/scotusSurvey/CSPAN%20PSB%202018%20Supreme%20Court%20Survey%20Agenda%20of%20Key%20Findings%20FINAL%2008%2028%2018.pdf](\"https://static.c-span.org/assets/documents/scotusSurvey/CSPAN%20PSB%202018%20Supreme%20Court%20Survey%20Agenda%20of%20Key%20Findings%20FINAL%2008%2028%2018.pdf\")

@@ -36,6 +36,7 @@ card_10:
 
     [view sources](https://smarthernews.com/shnweekahead-3/)
   card_citation: ''
+
 ---
 **Monday:** French President Emmanuel Macron to address the nation after a 4th week of protests against the rise of living costs.
 

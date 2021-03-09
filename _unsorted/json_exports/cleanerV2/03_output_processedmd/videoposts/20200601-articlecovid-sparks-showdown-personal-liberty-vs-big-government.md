@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   New research on asymptomatic spread, a rare syndrome in children, and a
   reporter’s tip on talking to your friends and family about COVID-19.
+
 ---

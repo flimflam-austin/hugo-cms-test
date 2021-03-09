@@ -1,6 +1,6 @@
 ---
 title: 'coffee talk: rime of the ancient mariner and news'
-description: "It is an ancient mariner, and he stoppeth one of three. a\x1Cby thy long grey beard and glittering eye, now wherefore stoppa\x19st thou me?"
+description: "It is an ancient mariner, and he stoppeth one of three. ax1Cby thy long grey beard and glittering eye, now wherefore stoppax19st thou me?"
 aliases:
   - article/coffee-talk-thursday-jan-41st/
 published: true
@@ -17,7 +17,8 @@ featured_image:
   image: >-
     https://smarthernews.com/wp-content/uploads/2019/10/IMG_7955-e1569859908247-768x577.jpg
   alt: ''
-summary: "It is an ancient Mariner, And he stoppeth one of three. a\x1CBy thy long grey beard and glittering eye, Now wherefore stoppa\x19st thou me?"
+summary: "It is an ancient Mariner, And he stoppeth one of three. ax1CBy thy long grey beard and glittering eye, Now wherefore stoppax19st thou me?"
+
 ---
 It is an ancient Mariner,  
 And he stoppeth one of three.  

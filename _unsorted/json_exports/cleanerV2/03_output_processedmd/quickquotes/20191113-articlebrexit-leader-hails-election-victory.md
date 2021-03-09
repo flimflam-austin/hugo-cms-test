@@ -22,6 +22,7 @@ featured_quote:
     irresistible, unarguable decision of the British people.
   summary: Prime Minister Boris Johnson on election victory
   citation: ''
+
 ---
 *   UK voters went to the polls Thursday for their third General Election in four years, handing a major victory to Prime Minister Boris Johnson and his Conservative Party, in what many are calling a Brexit triumph.
 *   Johnson’s Conservative Party now has the majority in Parliament needed to ensure ratification of his Brexit deal, allowing the UK to officially leave the EU by the Jan. 31 Brexit deadline. His primary opponent,  Jeremy Corbyn of the Labour Party, said he would offer voters a renegotiated Brexit deal and the option to remain in the EU.

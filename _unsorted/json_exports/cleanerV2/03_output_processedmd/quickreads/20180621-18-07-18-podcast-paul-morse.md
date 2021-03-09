@@ -22,7 +22,7 @@ card_1:
     Listen](http://smarthernews.libsyn.com/smarther-news-ep7-white-house-photog-paul-morse)
   card_citation: Click HERE to Listen
 card_2:
-  card_text: "> “There was a certain graciousness about all of them…and when the cameras arena\x19t on them, the true personalities are there and theya\x19re really exceptional people and we base our opinions on the presidents about little snippets on the news, politics and things like that…the stress that they bare is really really remarkable.a\x1D\n> \n> Photographer Paul Morse on working with President Bush, Clinton & Obama."
+  card_text: "> “There was a certain graciousness about all of them…and when the cameras arenax19t on them, the true personalities are there and theyax19re really exceptional people and we base our opinions on the presidents about little snippets on the news, politics and things like that…the stress that they bare is really really remarkable.ax1Dn> n> Photographer Paul Morse on working with President Bush, Clinton & Obama."
   card_citation: ''
 card_10:
   card_text: >-
@@ -32,5 +32,6 @@ card_10:
 
     [view sources](https://smarthernews.com/18-07-18-podcast-paul-morse/)
   card_citation: ''
+
 ---
 Paul Morse Website:A [http://www.paulmorse.com/icons/](\"http://www.paulmorse.com/icons/\")

@@ -26,6 +26,7 @@ featured_quote:
     Floyd, who died in police custody after a white officer kneeled on his neck
     during an arrest.
   citation: ''
+
 ---
 *   Police arrested George Floyd for forgery (reportedly using a counterfeit $20 bill) on Monday, May 25, around 8 p.m. in Minneapolis, Minnesota. Police say he resisted arrest and had to be apprehended. A [new video](\"https://www.cbsnews.com/video/new-video-shows-minneapolis-police-arrest-of-george-floyd-before-death/\") shows some footage prior to the arrest.
 *   A bystander video recorded 10 minutes of the incident as one officer kneeled on Floyd’s neck. In [the video](\"https://www.youtube.com/watch?v=zaGmz4DPlJw&bpctr=1590633582\"), Floyd repeatedly says “I can’t breathe.”

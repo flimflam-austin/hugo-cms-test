@@ -20,6 +20,7 @@ featured_quote:
   quote: There is only one way to get Brexit done....
   summary: UK Prime Minister Boris Johnson on December election before Brexit deadline.
   citation: ''
+
 ---
 *   Britain was \*suppose\* to split from the EU by October 31 but lawmakers could not agree on terms for the separation.
 *   The EU agreed to an extension for January 31 – for Britain to figure out a plan for separation from the EU.

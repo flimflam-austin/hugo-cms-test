@@ -18,6 +18,7 @@ featured_quote:
   quote: The first priority is saving lives.
   summary: Japanese Prime Minister Shinzo Abe on typhoon.
   citation: ''
+
 ---
 *   Death toll continues to rise in Japan because of one of the worst storms in decades.
 *   Typhon Hagibis. Hagibis means “speed” in Filipino.

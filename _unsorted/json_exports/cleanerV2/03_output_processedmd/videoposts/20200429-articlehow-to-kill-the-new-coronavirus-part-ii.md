@@ -24,6 +24,7 @@ summary: >-
   Dr. Michael Lin, PhD, MD of Lin Labs, Stanford University, joins SmartHER News
   for an update to discuss what we’ve learned, what we need to know, and what to
   watch for at this point in the COVID-19 pandemic.
+
 ---
 Here’s Dr. Lin’s power point presentation he constantly updates on COVID-19: [CLICK HERE](\"https://drive.google.com/file/d/1ZlNx1cIdz7eTAIWfm8_RAnmy-4ARpmli/view\")
 

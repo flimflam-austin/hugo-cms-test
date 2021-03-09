@@ -54,7 +54,7 @@ card_3:
     trying to fix it.”
   card_citation: ''
 card_4:
-  card_text: "How do you know you’re having a heart attack?  \n\n------------------------------------------------\n\n> “While heart disease can present in a very typical waya\x14chest pain, shortness of breatha\x14the symptoms can also be quite insidious–Particularly in women.”\n> \n> Cardiologist Kevin Campbell to SmartHER News says atypical symptoms include nausea, feelings of dread, flu-like illness, pain in the neck, arm or back."
+  card_text: "How do you know you’re having a heart attack?  nn------------------------------------------------nn> “While heart disease can present in a very typical wayax14chest pain, shortness of breathax14the symptoms can also be quite insidious–Particularly in women.”n> n> Cardiologist Kevin Campbell to SmartHER News says atypical symptoms include nausea, feelings of dread, flu-like illness, pain in the neck, arm or back."
   card_citation: ''
 card_10:
   card_text: >-
@@ -65,6 +65,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-12-kudlow-heart-attack/)
   card_citation: ''
+
 ---
 *   **US economic advisor Larry Kudlow in good condition following heart attack, White House says:  
     **[https://www.cnbc.com/2018/06/11/white-house-economic-advisor-larry-kudlow-suffers-heart-attack-trump-tweets.html](\"https://www.cnbc.com/2018/06/11/white-house-economic-advisor-larry-kudlow-suffers-heart-attack-trump-tweets.html\")

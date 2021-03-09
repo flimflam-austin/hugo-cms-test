@@ -28,6 +28,7 @@ featured_quote:
     The conclusion of a study from the CDC on a teacher with COVID-19 spreading
     it to students in her classroom.
   citation: ''
+
 ---
 **Abstract**  
 _After returning from Europe to the United States, on March 1, 2020, a symptomatic teacher received positive test results for severe acute respiratory syndrome coronavirus 2. Of the 21 students exposed to the teacher in the classroom, serologic results suggested past infection for 2. Classroom contact may result in virus transmission._

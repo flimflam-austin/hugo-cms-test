@@ -29,6 +29,7 @@ featured_quote:
     The CDC on a variant of the new coronavirus that some worry may challenge
     available treatments and vaccines.
   citation: ''
+
 ---
 *   Variants of the new coronavirus show the virus has evolved. Currently the CDC lists 3 variants: (identified first in) the UK, South Africa and Brazil.
 *   The South Africa variant, now present in dozens of countries, has raised the most concern about treatment and contagion.

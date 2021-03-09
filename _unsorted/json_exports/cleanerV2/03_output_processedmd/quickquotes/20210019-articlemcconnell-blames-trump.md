@@ -31,6 +31,7 @@ featured_quote:
     Senate Majority Leader Mitch McConnell (R-KY) blaming Pres. Trump and others
     for the violent riot on the U.S. Capitol.
   citation: ''
+
 ---
 *   On Tuesday, the Senate convened for the first time since January 7, when Congress resumed counting electoral college votes late into the night following the riot at the U.S. Capitol on January 6.
 *   **WHY IT MATTERS:** Sen. McConnell’s remarks come ahead of the Senate’s second impeachment trial of Pres. Trump. Although he’ll no longer be the Senate Majority Leader come Wednesday, leaving  a 50-50 partisan divide in the Senate where Vice President-elect Kamala Harris will cast the tiebreaking vote as Vice President (and Senate president), his remarks may still serve to shape the way the Senate votes on the article of impeachment against Pres. Trump, charging him with “incitement of insurrection” in connection to the riot.

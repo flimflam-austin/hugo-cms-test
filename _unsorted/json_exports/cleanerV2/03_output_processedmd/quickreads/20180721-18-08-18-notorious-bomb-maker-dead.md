@@ -15,7 +15,7 @@ color_palette_classname: dark-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/08/daniel-thurler-520535-unsplash-scaled-e1577131091734.jpg
 card_1:
-  card_text: "“MOST WANTED MAN IN THE WORLD”\n==============================\n\nIs al Qaedaa\x19s top bomb maker finally dead?\n\nWhy It Matters"
+  card_text: "“MOST WANTED MAN IN THE WORLD”n==============================nnIs al Qaedaax19s top bomb maker finally dead?nnWhy It Matters"
   card_citation: Why It Matters
 card_2:
   card_text: >-
@@ -85,6 +85,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-08-18-notorious-bomb-maker-dead/)
   card_citation: ''
+
 ---
 *   **Wanted AQAP bomb maker rumored killed in US drone strike:**  
     [https://www.longwarjournal.org/archives/2018/08/wanted-aqap-bomb-maker-rumored-killed-in-us-drone-strike.php](\"https://www.longwarjournal.org/archives/2018/08/wanted-aqap-bomb-maker-rumored-killed-in-us-drone-strike.php\")

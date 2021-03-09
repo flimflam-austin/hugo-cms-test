@@ -26,6 +26,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-12-3-this-weekend-in-mexico/)
   card_citation: ''
+
 ---
 *   ****SmartHER Read: Mexico’s New President:  
     ****[https://smarthernews.com/amlo/](\"https://smarthernews.com/amlo/\")

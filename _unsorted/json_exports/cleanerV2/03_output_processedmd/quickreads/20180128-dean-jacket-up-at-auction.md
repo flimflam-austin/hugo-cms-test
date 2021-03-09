@@ -92,6 +92,7 @@ card_10:
 
     [view sources](https://smarthernews.com/dean-jacket-up-at-auction/)
   card_citation: ''
+
 ---
 *   THE JACKET: [https://www.hollywoodreporter.com/news/james-deans-rebel-a-cause-jacket-up-auction-1088823](\"https://www.hollywoodreporter.com/news/james-deans-rebel-a-cause-jacket-up-auction-1088823\")
 *   James Deana\\u0019s iconic a\\u0018Rebel Without a Causea\\u0019 jacket up forA auction “_The windbreaker worn by Dean in the film has a cigarette burn on the left sleeve, an elasticized waist and a Bud Berma brand tag.”A_ [https://pagesix.com/2018/02/27/james-deans-iconic-rebel-without-a-cause-jacket-up-for-auction/](\"https://pagesix.com/2018/02/27/james-deans-iconic-rebel-without-a-cause-jacket-up-for-auction/\")

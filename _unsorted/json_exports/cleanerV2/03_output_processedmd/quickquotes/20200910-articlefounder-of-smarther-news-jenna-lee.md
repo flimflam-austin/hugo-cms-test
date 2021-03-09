@@ -22,6 +22,7 @@ featured_quote:
     enrich your whole experience.
   summary: Founder of SmartHER News, Jenna Lee.
   citation: ''
+
 ---
 Sometimes, we just need to see things differently.
 

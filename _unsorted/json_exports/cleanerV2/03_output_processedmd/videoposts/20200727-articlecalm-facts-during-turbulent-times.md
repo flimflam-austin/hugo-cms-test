@@ -22,5 +22,6 @@ featured_image:
 summary: >-
   Midweek catch-up of all the top stories: Hurricane Laura, COVID-19, and
   Kenosha, Wisconsin
+
 ---
 Here’s where you can access the latest on Jacob Blake: [CLICK HERE](\"https://smarthernews.com/article/jacobblake/\")

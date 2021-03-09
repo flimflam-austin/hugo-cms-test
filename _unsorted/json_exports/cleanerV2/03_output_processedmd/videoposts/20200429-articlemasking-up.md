@@ -22,6 +22,7 @@ featured_image:
 summary: >-
   What new research has uncovered about how wearing masks impacts the spread of
   the virus that causes COVID-19.
+
 ---
 Here’s the quick tutorial: [CLICK HERE](\"https://www.youtube.com/watch?v=yfeW2l8G_W4&feature=youtu.be\")
 

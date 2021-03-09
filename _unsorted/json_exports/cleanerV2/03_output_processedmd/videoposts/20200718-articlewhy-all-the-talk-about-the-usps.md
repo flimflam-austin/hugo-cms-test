@@ -24,5 +24,6 @@ summary: >-
   Republicans and Democrats suddenly square-off about an essential government
   service that dates back to the founding of America. What’s the background?
   Plus ~ why it matters.
+
 ---
 Here’s some background about mail in voting: [CLICK HERE](\"https://smarthernews.com/vote-by-mail/\")

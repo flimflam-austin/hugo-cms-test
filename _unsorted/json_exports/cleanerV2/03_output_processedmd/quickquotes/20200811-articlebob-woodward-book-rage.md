@@ -31,6 +31,7 @@ featured_quote:
     Pres. Trump responding to allegations he misled Americans by publicly
     downplaying the severity of the COVID-19 earlier this year.
   citation: ''
+
 ---
 *   **BACKGROUND:** For his upcoming book _Rage_, Washington Post journalist Bob Woodward interviewed the President 18 times between December and July. In the book, Woodward reports the President knew how dangerous COVID-19 was in February and that the President admitted to downplaying COVID-19 in March in order to quell panic. Woodward also released some audio recordings of Pres. Trump supporting his claims to news outlets.
     *   Woodward writes that Pres. Trump told him on February 17: “_This is deadly stuff… You just breathe the air and that’s how it’s passed. And so that’s a very tricky one. That’s a very delicate one. It’s also more deadly than even your strenuous flu_.”

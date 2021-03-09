@@ -31,6 +31,7 @@ featured_quote:
     Rican vote despite the fact residents of the U.S. territory cannot vote in
     U.S. elections.
   citation: ''
+
 ---
 *   Puerto Rico’s 3 million inhabitants are U.S. citizens
     *   Puerto Rico has been a U.S. territory since 1917.

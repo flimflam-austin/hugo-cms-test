@@ -22,6 +22,7 @@ featured_quote:
     really, the least is the United States.
   summary: Pres. Trump while attending the NATO summit in London
   citation: ''
+
 ---
 *   **Why It Matters:** The President is in Europe marking the 70th anniversary of the alliance born out of WWII.
 *   **Why NATO Matters**: NATO (North Atlantic Treaty Organization) is a 29-country (mainly European nations, US & Canada) alliance that dates back to 1949. NATO provides a unified “bloc” against countries like Russia. It operates on a principle of shared defense – an attack against one NATO ally is an attack on all.

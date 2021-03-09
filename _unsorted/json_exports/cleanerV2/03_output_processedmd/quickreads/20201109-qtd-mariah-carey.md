@@ -36,6 +36,7 @@ card_10:
 
     [view sources](https://smarthernews.com/qtd-mariah-carey/)
   card_citation: ''
+
 ---
 *   **Mariah Carey Reflects on ‘All I Want for Christmas Is You’ and Her Growing Holiday Mini-Empire:  
     **[https://www.billboard.com/articles/columns/pop/8031430/mariah-carey-all-i-want-for-christmas-is-you-movie](\"https://www.billboard.com/articles/columns/pop/8031430/mariah-carey-all-i-want-for-christmas-is-you-movie\")

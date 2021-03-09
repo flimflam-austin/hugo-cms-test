@@ -43,7 +43,7 @@ card_2:
     Americans;**A U.S. soldier killed in June.
   card_citation: ''
 card_3:
-  card_text: "Why al-Shabaab Matters:\n-----------------------\n\n> a\x1CThey’ve been able to **kill very high numbers** and you didna\x19t see that five years ago. Theya\x19ve been able to actually **overrun bases at times**. The danger is as African Union forces draw down, they may **retake major urban areas**. I think therea\x19s a good chance of that.a\x1D\n> \n> Daveed Gartenstein-Ross, Senior Analyst, Foundation for Defense of Democracies"
+  card_text: "Why al-Shabaab Matters:n-----------------------nn> ax1CThey’ve been able to **kill very high numbers** and you didnax19t see that five years ago. Theyax19ve been able to actually **overrun bases at times**. The danger is as African Union forces draw down, they may **retake major urban areas**. I think thereax19s a good chance of that.ax1Dn> n> Daveed Gartenstein-Ross, Senior Analyst, Foundation for Defense of Democracies"
   card_citation: ''
 card_4:
   card_text: >-
@@ -89,6 +89,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-08-31-america-fighting-al-qaeda-in-africa/)
   card_citation: ''
+
 ---
 *   **U.S. Airstrikes:**  
     [https://www.longwarjournal.org/us-airstrikes-in-the-long-war](\"https://www.longwarjournal.org/us-airstrikes-in-the-long-war\")

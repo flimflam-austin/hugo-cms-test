@@ -31,7 +31,7 @@ card_1:
     Flip For More From NYT
   card_citation: Flip For More From NYT
 card_2:
-  card_text: "What NYT Reports\n----------------\n\n*   North Koreans spotted at chemical weapons facilities inside Syria.\n*   Supplies include valves, acid resistant tile, & thermometers.\n*   Syria’s a\x1Cpaymenta\x1D for chemical weapons supplies could help fund North Koreaa\x19s nuclear program.\n*   Dozens of black market shipments: 2012-2017"
+  card_text: "What NYT Reportsn----------------nn*   North Koreans spotted at chemical weapons facilities inside Syria.n*   Supplies include valves, acid resistant tile, & thermometers.n*   Syria’s ax1Cpaymentax1D for chemical weapons supplies could help fund North Koreaax19s nuclear program.n*   Dozens of black market shipments: 2012-2017"
   card_citation: ''
 card_3:
   card_text: >-
@@ -84,7 +84,8 @@ card_5:
     briefing.
   card_citation: ''
 card_10:
-  card_text: "Timing: America levied serious sanctions against North Korea shipping companies last Friday. Also reminder: President Assad agreed to a\x1Cdestroya\x1D his chemical weapons back in 2014. Use of chemical weapons illegal & sanctioned by UN.\n\n[view sources](https://smarthernews.com/18-02-27-north-korea-syria/)"
+  card_text: "Timing: America levied serious sanctions against North Korea shipping companies last Friday. Also reminder: President Assad agreed to ax1Cdestroyax1D his chemical weapons back in 2014. Use of chemical weapons illegal & sanctioned by UN.nn[view sources](https://smarthernews.com/18-02-27-north-korea-syria/)"
   card_citation: ''
+
 ---
 SCOOP: U.N. Links North Korea to Syriaa\\u0019s Chemical Weapons ProgramA [https://www.nytimes.com/2018/02/27/world/asia/north-korea-syria-chemical-weapons-sanctions.html](\"https://www.nytimes.com/2018/02/27/world/asia/north-korea-syria-chemical-weapons-sanctions.html\")

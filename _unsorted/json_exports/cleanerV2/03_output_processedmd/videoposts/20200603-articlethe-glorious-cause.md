@@ -18,4 +18,5 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2020/06/IMG_0039-scaled-e1591285735137-938x1024.jpg
   alt: ''
 summary: 3 things to know for a “SmartHER” July 4th holiday!
+
 ---

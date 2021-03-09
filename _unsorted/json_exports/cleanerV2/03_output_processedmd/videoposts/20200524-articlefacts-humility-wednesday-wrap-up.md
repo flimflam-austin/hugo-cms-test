@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   What to know about COVID-19 in America, and politics at play in latest on
   criminal justice legislation in Congress.
+
 ---

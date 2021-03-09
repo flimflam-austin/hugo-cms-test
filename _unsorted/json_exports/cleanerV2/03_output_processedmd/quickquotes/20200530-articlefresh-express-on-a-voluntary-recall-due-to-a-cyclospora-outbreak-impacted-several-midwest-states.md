@@ -30,6 +30,7 @@ featured_quote:
     several Midwest states, leading to the hospitalization of nearly two dozen
     people.
   citation: ''
+
 ---
 *   The CDC believes a cyclospora outbreak is linked to pre-package lettuce made by Fresh Express.
 *   More than 200 people are sick across 8 states in the Midwest.

@@ -25,4 +25,5 @@ card_1:
 card_10:
   card_text: '[view sources](https://smarthernews.com/coffee-talk-3/)'
   card_citation: ''
+
 ---

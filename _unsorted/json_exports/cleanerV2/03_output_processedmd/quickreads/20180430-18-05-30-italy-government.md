@@ -80,6 +80,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-05-30-italy-government/)
   card_citation: ''
+
 ---
 *   **GOOD CONTEXT:** [https://www.express.co.uk/news/world/966528/Italy-news-Italian-elections-latest-Jacob-Rees-Mogg-European-Union](\"https://www.express.co.uk/news/world/966528/Italy-news-Italian-elections-latest-Jacob-Rees-Mogg-European-Union\")  
     Speaking on Sky News, Mr Chishti said:a\\u001cWhat you are seeing in Italy is people are saying they want a different kind of relationship with the European Union.a\\u001cI think you are seeing that across Europe. **It is a wake-up call to the European Union if it wasna\\u0019t before.****a\\u001cPeople are not very happy with the direction that it is going.A** a\\u001cWe certainly have gone in a different direction by there referendum, where the people have decided the United Kingdom should decide its own borders, money and law.

@@ -23,6 +23,7 @@ featured_quote:
     National President Mark Dimondstein, American Postal Workers Union, on the
     delays in the US Postal Service, leading to late deliveries for Christmas.
   citation: ''
+
 ---
 *   Some packages shipped nearly a month ago still have not arrived at their destination – Many customers have received a notice of “In Transit” with delivery dates come and gone.
 *   Postal workers describe scenes at post offices and mailing facilities with packages and mails piled so high, they have to move the packages for paths to walk.

@@ -28,6 +28,7 @@ featured_quote:
     Editor of ThemeParkInsider.com Robert Niles on Disney World’s proposed July
     11th opening, as America crosses a milestone of 100,000 COVID-19 deaths.
   citation: ''
+
 ---
 *   Disney’s collection of 12 theme parks worldwide include the world’s most-visited theme park in Florida: Disney World’s Magic Kingdom.
 *   The proposed reopening of Disney World in the United States must first be approved by local and state government.

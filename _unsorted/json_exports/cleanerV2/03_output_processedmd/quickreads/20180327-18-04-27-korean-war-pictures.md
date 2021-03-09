@@ -21,7 +21,7 @@ card_1:
     =================
 
 
-    > **33,739 = Americans killed** in combat in **The Korean War** \-A an
+    > **33,739 = Americans killed** in combat in **The Korean War** -A an
     important reminder as North & South Korea discuss peace.
 
 
@@ -56,7 +56,7 @@ card_3:
 
     *   Estimated 25% or **1 out of 4 North Koreans killed**.
 
-    *   **War isn’t \*technically\* over**: no peace treaty signed.
+    *   **War isn’t *technically* over**: no peace treaty signed.
 
     *   Called “**The Forgotten Wa**r” in America because Vietnam soon
     overshadowed the deadly conflict.
@@ -70,6 +70,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-27-korean-war-pictures/)
   card_citation: ''
+
 ---
 *   **WORTH-IT-TO-SEE:A The Korean War in Pictures**A [https://www.nytimes.com/2018/04/25/world/asia/korean-war-.html](\"https://www.nytimes.com/2018/04/25/world/asia/korean-war-.html\")
 *   **GOOD BACKGROUND FROM JANUARY 2018:A Korean War, a a\\u0018Forgottena\\u0019 Conflict That Shaped the Modern WorldA** [https://www.nytimes.com/2018/01/01/world/asia/korean-war-history.html](\"https://www.nytimes.com/2018/01/01/world/asia/korean-war-history.html\")

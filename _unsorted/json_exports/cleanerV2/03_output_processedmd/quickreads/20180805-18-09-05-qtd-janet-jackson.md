@@ -1,6 +1,6 @@
 ---
 title: 'quote of the day: janet jackson on beauty'
-description: "Individuality is beautiful. god made you as you are, and thata\x19s beautiful. you are unique, special. you dona\x19t want to look like someone else or be that other person."
+description: "Individuality is beautiful. god made you as you are, and thatax19s beautiful. you are unique, special. you donax19t want to look like someone else or be that other person."
 aliases:
   - 18-09-05-qtd-janet-jackson/
 published: true
@@ -14,7 +14,7 @@ card_series: quote of the day
 color_palette_classname: white
 background_image: https://smarthernews.com/wp-content/uploads/2018/05/IMG_1636.jpg
 card_1:
-  card_text: "> “_Individuality is beautiful. God made you as you are, and thata\x19s beautiful. You are unique, special. You dona\x19t want to look like someone else or be that other person_.”\n\nJANET JACKSON"
+  card_text: "> “_Individuality is beautiful. God made you as you are, and thatax19s beautiful. You are unique, special. You donax19t want to look like someone else or be that other person_.”nnJANET JACKSON"
   card_citation: JANET JACKSON
 card_10:
   card_text: >-
@@ -25,5 +25,6 @@ card_10:
 
     [view sources](https://smarthernews.com/18-09-05-qtd-janet-jackson/)
   card_citation: ''
+
 ---
 **Beauty According to Janet Jackson:** [https://www.instyle.com/news/janet-jackson-october-cover](\"https://www.instyle.com/news/janet-jackson-october-cover\")

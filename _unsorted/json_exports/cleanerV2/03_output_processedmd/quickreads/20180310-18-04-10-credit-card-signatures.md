@@ -15,7 +15,7 @@ color_palette_classname: dark-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/credit-card-851506_1920.jpg
 card_1:
-  card_text: "No Signature Needed\n===================\n\nDeath Knell For Cursive?\n------------------------\n\n> Nearly a century after the credit card was first introduced, the way you pay with it is about to change A **starting this weekend.**\n> \n> _“No one really signs any more; ita\x19s all scribbles and squiggles. Some people do smiley faces.a\x1D_\n\nFLIP: CHECKOUT CHANGE"
+  card_text: "No Signature Neededn===================nnDeath Knell For Cursive?n------------------------nn> Nearly a century after the credit card was first introduced, the way you pay with it is about to change A **starting this weekend.**n> n> _“No one really signs any more; itax19s all scribbles and squiggles. Some people do smiley faces.ax1D_nnFLIP: CHECKOUT CHANGE"
   card_citation: 'FLIP: CHECKOUT CHANGE'
 card_2:
   card_text: >-
@@ -55,7 +55,7 @@ card_3:
     no auTOGRAPHS, PLEASE.
   card_citation: no auTOGRAPHS, PLEASE.
 card_4:
-  card_text: "Is Your Safety in Jeopardy?\n---------------------------\n\n_a\x1COur fraud capabilities have advanced so that **signatures are no longer necessary to fight fraud**.a\x1D_  \nJaromir Divilek, American Express\n\n*   Microchips in credit cards create unique codes for each purchase, making cards harder to copy.\n*   Once merchants upgraded swipe technology, signatures became “largely irrelevant.”"
+  card_text: "Is Your Safety in Jeopardy?n---------------------------nn_ax1COur fraud capabilities have advanced so that **signatures are no longer necessary to fight fraud**.ax1D_  nJaromir Divilek, American Expressnn*   Microchips in credit cards create unique codes for each purchase, making cards harder to copy.n*   Once merchants upgraded swipe technology, signatures became “largely irrelevant.”"
   card_citation: ''
 card_10:
   card_text: >-
@@ -66,6 +66,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-10-credit-card-signatures/)
   card_citation: ''
+
 ---
 *   MasterCard, Discover, AmEx and now Visa will ditch signatures: [https://www.creditcards.com/ credit-card-news/signatures- soon-may-not-be-required.php](\"https://www.creditcards.com/)
 *   Credit Card Signatures Are About to Become Extinct: [https://www.nytimes.com/2018/ 04/08/business/credit-card- signatures.html](\"https://www.nytimes.com/2018/)

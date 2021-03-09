@@ -28,6 +28,7 @@ featured_quote:
     Commissioner Patrick Keliher, Maine Department of Marine Resources, on a
     great white shark attack that killed a 63-year-old swimmer.
   citation: ''
+
 ---
 *   Julie Dimperio Holowach, 63, was swimming with her daughter an estimated 20 yards off-shore when she was attacked Monday; her daughter swam back to shore unharmed.
 *   According to reports, Holowach summered in Maine, known in the local community and was swimming in a wet suit – kayakers helped her back to shore where she was declared dead.

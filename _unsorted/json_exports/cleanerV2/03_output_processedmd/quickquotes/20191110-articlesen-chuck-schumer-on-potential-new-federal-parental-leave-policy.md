@@ -19,6 +19,7 @@ featured_quote:
   quote: It’s a real breakthrough for families.
   summary: Sen. Chuck Schumer on potential new federal parental leave policy.
   citation: ''
+
 ---
 *   Senate Democratic Leader Chuck Schumer (D-NY) says the new parental leave policy would give **federal workers** up to 12 weeks **paid** time-off for parental leave.
 *   Reports: New paid time-off policy part of a compromise between democrats and republicans on a new defense bill that will help fund departments like America’s new “Space Force.”

@@ -28,6 +28,7 @@ featured_quote:
     CEO of global pharmaceutical giant Merck, Ken Frazier, speaking about a
     potential COVID-19 treatment.
   citation: ''
+
 ---
 *   [Frazier](\"https://www.merck.com/about/leadership/board-of-directors/home.html\") recently did a series of interviews as the company continues to push into the competitive space for a COVID-19 treatment.
 *   Merck recently bought a European company working on a COVID-19 vaccine.

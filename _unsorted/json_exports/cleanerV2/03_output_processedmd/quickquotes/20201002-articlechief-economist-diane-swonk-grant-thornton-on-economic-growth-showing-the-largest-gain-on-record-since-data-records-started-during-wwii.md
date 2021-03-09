@@ -23,6 +23,7 @@ featured_quote:
     Chief Economist, Diane Swonk Grant Thornton on economic growth showing the
     largest gain on record – since this data collection started during WWII.
   citation: ''
+
 ---
 *   The GDP reading, which measures economic growth, showed an annual growth rate of 33%+ and month-over-month growth of more than 7%. This was better than what Wall Street analysts expected.
 *   This record gain over the last three months comes off a huge loss over the previous three months – a reading reflecting the halting of economic activity during COVID.

@@ -79,8 +79,9 @@ card_4:
     status quo & Islamic terrorism (Russia confronts both domestically).
   card_citation: ''
 card_10:
-  card_text: "President Assada\x19s father learned how to fly fighter jets in Soviet Union.\n\n[view sources](https://smarthernews.com/18-04-16-syria-backstory-russia-iran/)"
+  card_text: "President Assadax19s father learned how to fly fighter jets in Soviet Union.nn[view sources](https://smarthernews.com/18-04-16-syria-backstory-russia-iran/)"
   card_citation: ''
+
 ---
 *   Why Russia is an ally of Assad: [https://www.economist.com/blogs/economist-explains/2015/09/economist-explains-22](\"https://www.economist.com/blogs/economist-explains/2015/09/economist-explains-22\")
 *   Beware Iran’s ‘Axis ofA Resistance: [https://www.usnews.com/opinion/world-report/articles/2018-02-23/irans-axis-of-resistance-is-a-direct-threat-to-the-us](\"https://www.usnews.com/opinion/world-report/articles/2018-02-23/irans-axis-of-resistance-is-a-direct-threat-to-the-us\")

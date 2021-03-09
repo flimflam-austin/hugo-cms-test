@@ -27,6 +27,7 @@ featured_quote:
     prisons in northern Syria holding ISIS fighters are secure as he traveled to
     Afghanistan.
   citation: ''
+
 ---
 *   Thousands of terrorists and their families were being held in prisons supervised by Kurdish forces, who have now been pushed out by Turkey.
 *   U.S. forces once working with the Kurds are now being moved to Iraq.Secretary of Defense Esper Media Engagement En Route to Afghanistan  

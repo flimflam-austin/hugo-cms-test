@@ -22,6 +22,7 @@ featured_image:
 summary: >-
   Economy, Technology, Psychology and Perseverance: Who Has Shown The Most
   Mental Distress During The Pandemic?
+
 ---
 **Study referenced in report:**
 

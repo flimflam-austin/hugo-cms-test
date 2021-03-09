@@ -24,4 +24,5 @@ summary: >-
   What to know about the charges against the officers in the death of Rayshard
   Brooks, the 8 minutes and 46 seconds in the case of George Floyd, and a major
   ruling on immigration from the Supreme Court.
+
 ---

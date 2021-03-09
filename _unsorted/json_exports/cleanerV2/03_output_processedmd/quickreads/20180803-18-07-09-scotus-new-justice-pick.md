@@ -37,7 +37,7 @@ card_2:
     *   Nominee submits a questionnaire & other records to Senate.
 
     *   During open (public) hearings, the cmte asks the nominee about their
-    judicial philosophy to get an idea of how they \*might\* rule.
+    judicial philosophy to get an idea of how they *might* rule.
 
     *   Next, the cmte sends a recommendation on whether or not to confirm the
     nominee to the full Senate.
@@ -81,6 +81,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-07-09-scotus-new-justice-pick/)
   card_citation: ''
+
 ---
 *   **Supreme Court Nomination Process Q&A:** [https://www.americanbar.org/publications/preview\_home/supremecourtnomination.html](\"https://www.americanbar.org/publications/preview_home/supremecourtnomination.html\")
 *   **Supreme Court Appointment Process: Consideration by the Senate Judiciary Committee:**  

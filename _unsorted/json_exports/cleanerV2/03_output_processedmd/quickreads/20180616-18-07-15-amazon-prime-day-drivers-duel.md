@@ -96,6 +96,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-07-15-amazon-prime-day-drivers-duel/)
   card_citation: ''
+
 ---
 *   ****The unintentional winners of Prime Day: Amazona\\u0019s competitors:A****  
     [https://finance.yahoo.com/news/unintentional-winners-prime-day-amazon-135900686.html](\"https://finance.yahoo.com/news/unintentional-winners-prime-day-amazon-135900686.html\")

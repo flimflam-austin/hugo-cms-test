@@ -34,7 +34,7 @@ card_1:
     Yum. Flip Here.
   card_citation: Yum. Flip Here.
 card_2:
-  card_text: "> a\x1CThis is the road map to reducing the obesity epidemic in the United States. Ita\x19s time for U.S. and other national policies to stop focusing on calories and calorie counting.a\x1D\n> \n> Dr. Dariush Mozaffarian, Dean of Friedman School of Nutrition Science and Policy at Tufts University"
+  card_text: "> ax1CThis is the road map to reducing the obesity epidemic in the United States. Itax19s time for U.S. and other national policies to stop focusing on calories and calorie counting.ax1Dn> n> Dr. Dariush Mozaffarian, Dean of Friedman School of Nutrition Science and Policy at Tufts University"
   card_citation: ''
 card_3:
   card_text: >-
@@ -66,8 +66,9 @@ card_4:
     *   Current FDA Director supports implementation.
   card_citation: ''
 card_10:
-  card_text: "a\x1CI think one place we go wrong is telling people to figure out how many calories they eat and then telling them to cut back on 500 calories, which makes them miserable.a\x1D Find out what Dr. Chris Gardner says we should do instead:\n\n[view sources](https://smarthernews.com/18-02-21-calorie-counting/)"
+  card_text: "ax1CI think one place we go wrong is telling people to figure out how many calories they eat and then telling them to cut back on 500 calories, which makes them miserable.ax1D Find out what Dr. Chris Gardner says we should do instead:nn[view sources](https://smarthernews.com/18-02-21-calorie-counting/)"
   card_citation: ''
+
 ---
 *   Counting calories not key to weight loss, study findA [https://www.seattletimes.com/nation-world/counting-calories-not-key-to-weight-loss-study-finds/](\"https://www.seattletimes.com/nation-world/counting-calories-not-key-to-weight-loss-study-finds/\")_a\\u001cWe really need to focus on that foundational diet, which is more vegetables, more whole foods, less added sugar and less refined grains.a\\u001d according to Dr. Gardner._
 *   The Study:[A https://jamanetwork.com/journals/jama/article-abstract/2673150?](\"https://jamanetwork.com/journals/jama/article-abstract/2673150?redirect=true\")

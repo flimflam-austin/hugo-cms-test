@@ -29,6 +29,7 @@ featured_quote:
     President Trump in a recorded national address January 7th, 2021 with his
     most specific comment to-date about the end of his term.
   citation: ''
+
 ---
 *   At 6:30 pm cst. Pres. Trump released this statement.
 *   In addition to addressing the riot at the U.S. Capitol, he added this notable update.

@@ -88,6 +88,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-08-30-cigarettes-vaping/)
   card_citation: ''
+
 ---
 *   **Smoking is down, but almost 38 million American adults still smoke:** [https://www.cdc.gov/media/releases/2018/p0118-smoking-rates-declining.html](\"https://www.cdc.gov/media/releases/2018/p0118-smoking-rates-declining.html\")
 *   **Prevalence and Distribution of E-Cigarette Use Among U.S. Adults: Behavioral Risk Factor Surveillance System, 2016:  

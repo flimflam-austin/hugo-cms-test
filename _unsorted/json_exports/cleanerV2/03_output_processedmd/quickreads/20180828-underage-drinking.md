@@ -106,6 +106,7 @@ card_10:
 
     [view sources](https://smarthernews.com/underage-drinking/)
   card_citation: ''
+
 ---
 *   **Underage Drinking:**  
     [https://pubs.niaaa.nih.gov/publications/UnderageDrinking/UnderageFact.htm](\"https://pubs.niaaa.nih.gov/publications/UnderageDrinking/UnderageFact.htm\")

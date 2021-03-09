@@ -44,7 +44,7 @@ card_2:
     Op-Ed](https://www.nytimes.com/2018/03/27/opinion/john-paul-stevens-repeal-second-amendment.html)
   card_citation: Here's the Op-Ed
 card_3:
-  card_text: "2nd Amendment\n-------------\n\nThere’s endless debate as to what the 2A \\*actually\\* means, how it should be applied today, and why it was included in the Bill of Rights, but here’s what it says:\n\n**_“A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.a\x1D_**"
+  card_text: "2nd Amendmentn-------------nnThere’s endless debate as to what the 2A *actually* means, how it should be applied today, and why it was included in the Bill of Rights, but here’s what it says:nn**_“A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.ax1D_**"
   card_citation: ''
 card_4:
   card_text: >-
@@ -73,6 +73,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-04-02-potus-second-amendment-tweet/)
   card_citation: ''
+
 ---
 *   How is the Constitution amended?: [https://www.lexisnexis.com/constitution/amendments\_howitsdone.asp](\"https://www.lexisnexis.com/constitution/amendments_howitsdone.asp\")
 *   John Paul Stevens:Repeal the Second Amendment: [https://www.nytimes.com/2018/03/27/opinion/john-paul-stevens-repeal-second-amendment.html](\"https://www.nytimes.com/2018/03/27/opinion/john-paul-stevens-repeal-second-amendment.html\")

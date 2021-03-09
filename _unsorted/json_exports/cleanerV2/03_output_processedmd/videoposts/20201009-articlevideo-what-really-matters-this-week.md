@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   Veterans Day grounds this week’s quick look at the current Congress, COVID,
   healthcare at the Supreme Court and the latest on the U.S. elections.
+
 ---

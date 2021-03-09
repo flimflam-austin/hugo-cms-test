@@ -20,6 +20,7 @@ featured_quote:
   quote: There's no time to start like today.
   summary: President Biden before signing 17 executive actions his first day in office.
   citation: ''
+
 ---
 *   A list of the [“executive moves”](\"https://www.cnn.com/2021/01/20/politics/executive-actions-biden/index.html\")
 *   President Biden’s first executive action: mask mandate on federal property.

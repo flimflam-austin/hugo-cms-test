@@ -37,6 +37,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-01-25-oprah-not-running-for-president/)
   card_citation: ''
+
 ---
 **The singular Oprah Winfrey on braving the elements, the way forward for women, and why, for now at least, she doesna\\u0019t want to be president**
 

@@ -42,7 +42,7 @@ card_2:
     status.
   card_citation: ''
 card_3:
-  card_text: "> a\x1CSo, when a young woman adjusts her bikini provocatively with her phone at the ready, dona\x19t think of her as vacuous or as a victim. Think of her as a strategic player in a complex social and evolutionary game. Shea\x19s out to maximise her lot in life, just like everyone.a\x1D\n> \n> Dr Khandis Blake, lead author, UNSW Sciencea\x19s School of Biological, Earth and Environmental Sciences"
+  card_text: "> ax1CSo, when a young woman adjusts her bikini provocatively with her phone at the ready, donax19t think of her as vacuous or as a victim. Think of her as a strategic player in a complex social and evolutionary game. Sheax19s out to maximise her lot in life, just like everyone.ax1Dn> n> Dr Khandis Blake, lead author, UNSW Scienceax19s School of Biological, Earth and Environmental Sciences"
   card_citation: ''
 card_4:
   card_text: >-
@@ -73,6 +73,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-09-05-sexy-selfie-study/)
   card_citation: ''
+
 ---
 *   **The science behind sexy selfies:A**  
     [https://www.businessinsider.com.au/sexy-selfies-science-2018-8](\"https://www.businessinsider.com.au/sexy-selfies-science-2018-8\")

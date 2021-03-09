@@ -23,7 +23,7 @@ card_1:
 
     President Wins 2nd Term  
 
-    \*Election Seen As Rigged\*
+    *Election Seen As Rigged*
 
     -----------------------------------------------------
 
@@ -64,7 +64,7 @@ card_3:
     *   At least **1 million people have left the country in the past 4 years**.
   card_citation: ''
 card_4:
-  card_text: "> a\x1CI dona\x19t know what everybody else does to survive. If I dona\x19t get out of this, Ia\x19ll starve to death.a\x1D\n> \n> Ruben, a 21-year-old sergeant, who fearing retaliation, agreed to speak to the AP about his situation only if his last name was not revealed.\n\nFLIP: Cursed riches"
+  card_text: "> ax1CI donax19t know what everybody else does to survive. If I donax19t get out of this, Iax19ll starve to death.ax1Dn> n> Ruben, a 21-year-old sergeant, who fearing retaliation, agreed to speak to the AP about his situation only if his last name was not revealed.nnFLIP: Cursed riches"
   card_citation: 'FLIP: Cursed riches'
 card_5:
   card_text: >-
@@ -92,6 +92,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-05-21-venezuela-elections/)
   card_citation: ''
+
 ---
 *   Photo credit of Maduro:A Tasnim News Agency
 *   **As Venezuelans go hungry, their government holds a farcical election:A**  

@@ -73,10 +73,10 @@ card_3:
     50 years if I didn’t win that match**.”
   card_citation: ''
 card_4:
-  card_text: "King’s Lasting Legacy\n=====================\n\n*   Ranked #1 in women’s tennis worldwide six times\n*   Awarded 39 Grand Slams & the Presidential Medal of Freedom\n*   Founded Womena\x19s Sports Foundation & magazine\n*   First female with a major sports arena named in her honor\n\n**Her advocacy for gender equality on and off the court continues.**"
+  card_text: "King’s Lasting Legacyn=====================nn*   Ranked #1 in women’s tennis worldwide six timesn*   Awarded 39 Grand Slams & the Presidential Medal of Freedomn*   Founded Womenax19s Sports Foundation & magazinen*   First female with a major sports arena named in her honornn**Her advocacy for gender equality on and off the court continues.**"
   card_citation: ''
 card_5:
-  card_text: "> a\x1CWe always put our hands up for Billie. We love her. She has a tremendous history, not just in womena\x19s tennis, but in leading rights for people, in general, no matter who they were.”\n> \n> Venus Williams, April 2018, after joining the advisory board at the Billie Jean King Leadership Initiative, a nonprofit founded by King aimed at eliminating workplace inequalities & promoting diversity."
+  card_text: "> ax1CWe always put our hands up for Billie. We love her. She has a tremendous history, not just in womenax19s tennis, but in leading rights for people, in general, no matter who they were.”n> n> Venus Williams, April 2018, after joining the advisory board at the Billie Jean King Leadership Initiative, a nonprofit founded by King aimed at eliminating workplace inequalities & promoting diversity."
   card_citation: ''
 card_10:
   card_text: >-
@@ -88,6 +88,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-09-20-battle-of-the-sexes/)
   card_citation: ''
+
 ---
 *   **AP Was There: Battle of the Sexes:** [https://www.usatoday.com/story/sports/tennis/2017/09/22/ap-was-there-battle-of-the-sexes/105884068/](\"https://www.usatoday.com/story/sports/tennis/2017/09/22/ap-was-there-battle-of-the-sexes/105884068/\")
 *   **Billie Jean won for all women:** [https://www.espn.com/sportscentury/features/00016060.html](\"https://www.espn.com/sportscentury/features/00016060.html\")

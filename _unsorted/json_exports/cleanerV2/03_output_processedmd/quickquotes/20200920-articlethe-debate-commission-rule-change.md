@@ -25,6 +25,7 @@ featured_quote:
     debate. Microphones for each candidate will be muted during 2-minute opening
     statements on each topic.
   citation: ''
+
 ---
 *   The commission says this will help facilitate an “orderly discussion” of the issues and strike the “right balance” for the American people.
 *   The interruptions from both candidates during their first meeting created a highly controversial, chaotic debate.

@@ -17,4 +17,5 @@ featured_image:
   image: https://smarthernews.com/wp-content/uploads/2020/06/IMG_0462-769x1024.jpg
   alt: ''
 summary: How two historical dates add context to our current news cycle.
+
 ---

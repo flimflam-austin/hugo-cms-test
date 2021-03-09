@@ -53,7 +53,7 @@ card_2:
     over a **global economic slowdown** with less oil demand.
   card_citation: ''
 card_3:
-  card_text: "> “Oil prices getting lower. Great! Like a big Tax Cut for America and the World. Enjoy! …Thank you to Saudi Arabia, but leta\x19s go lower!\n> \n> President Trump tweet on Nov. 21st"
+  card_text: "> “Oil prices getting lower. Great! Like a big Tax Cut for America and the World. Enjoy! …Thank you to Saudi Arabia, but letax19s go lower!n> n> President Trump tweet on Nov. 21st"
   card_citation: ''
 card_4:
   card_text: >-
@@ -100,6 +100,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-11-29-oils-magic-number/)
   card_citation: ''
+
 ---
 *   **Crude Oil Slides Below $50 for First Time in Over a Year:**  
     [https://www.wsj.com/articles/crude-oil-slides-below-50-for-first-time-in-over-a-year-1543490371](\"https://www.wsj.com/articles/crude-oil-slides-below-50-for-first-time-in-over-a-year-1543490371\")

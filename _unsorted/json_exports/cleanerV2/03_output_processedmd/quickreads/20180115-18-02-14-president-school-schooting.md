@@ -112,6 +112,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-02-14-president-school-schooting/)
   card_citation: ''
+
 ---
 *   President Trump:A [http://bit.ly/2EthQZv](\"http://bit.ly/2EthQZv\")
 *   Parkland was just listed as one of the safest cities in the countryA [http://www.miamiherald.com/news/local/article200152514.html](\"http://www.miamiherald.com/news/local/article200152514.html\")

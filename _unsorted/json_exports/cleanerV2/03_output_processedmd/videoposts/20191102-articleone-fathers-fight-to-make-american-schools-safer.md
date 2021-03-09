@@ -22,6 +22,7 @@ featured_image:
 summary: >-
   Andy Pollack lost his child in a school shooting. He wants to protect yours.
   He talks to SmartHER News.
+
 ---
 Andy Pollack lost his daughter Meadow in one of the deadliest school shootings in American history. Since then, he has worked tirelessly to make sure other families dona\\u0019t confront the same fate. Hear what he uncovered about his daughtera\\u0019s murderer, and what he now believes every family should know to keep their children safe.
 

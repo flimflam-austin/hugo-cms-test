@@ -25,6 +25,7 @@ featured_quote:
     Thanksgiving celebrations to people you live with and not traveling to stop
     the surging number of cases, hospitalizations and deaths due to COVID-19..
   citation: ''
+
 ---
 *   The CDC warns that both travel and gathering with people who you do not live can increase the chances of getting or spreading COVID-19.
 *   The [advice](\"https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays/thanksgiving.html\") comes one week ahead of the holiday after more than 1 million COVID-19 cases were reported in America over the last 7 days.

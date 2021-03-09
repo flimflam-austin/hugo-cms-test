@@ -30,6 +30,7 @@ featured_quote:
     last month – the data released on the same day as the U.S. reported an
     increase in the number of Americans filing for first-time unemployment.
   citation: ''
+
 ---
 *   **Americans continue to shop despite the pandemic.** [Consumer spending increased .5% in October.](\"https://apnews.com/article/consumer-spending-coronavirus-pandemic-economy-8fa1084d53063d4a9e895995a5f85a02\")
     *   An increase in spending is important for the economy as two-thirds of economic growth in the U.S. is determined by consumer spending.

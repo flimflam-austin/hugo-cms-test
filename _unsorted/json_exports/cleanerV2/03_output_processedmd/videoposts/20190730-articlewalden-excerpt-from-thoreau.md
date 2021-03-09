@@ -18,6 +18,7 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2019/08/stephen-leonardi-wPlzrculha8-unsplash-1024x894.jpg
   alt: ''
 summary: It is not worth the while to go round the world to count the cats in Zanzibar.
+
 ---
 It is not worth the while to go round the world to count the cats in Zanzibar. Yet do this even till you can do better, and you may perhaps find some a\\u001cSymmesa\\u0019 Holea\\u001d by which to get at the inside at last. England and France, Spain and Portugal, Gold Coast and Slave Coast, all front on this private sea; but no bark from them has ventured out of sight of land, though it is without doubt the direct way to India. If you would learn to speak all tongues and conform to the customs of all nations, if you would travel farther than all travellers, be naturalized in all climes, and cause the Sphinx to dash her head against a stone, even obey the precept of the old philosopher, and Explore thyself. Herein are demanded the eye and the nerve. Only the defeated and deserters go to the wars, cowards that run away and enlist. Start now on that farthest western way, which does not pause at the Mississippi or the Pacific, nor conduct toward a worn-out China or Japan, but leads on direct a tangent to this sphere, summer and winter, day and night, sun down, moon down, and at last earth down too.
 

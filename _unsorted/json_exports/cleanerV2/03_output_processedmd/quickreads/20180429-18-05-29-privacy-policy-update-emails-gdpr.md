@@ -35,12 +35,12 @@ card_2:
 
 
     It requires every company that sells goods or services to EU residents to
-    UPDATE their privacy polices \*and\* clearly describe (in plain English) how
+    UPDATE their privacy polices *and* clearly describe (in plain English) how
     they COLLECT & USE personal data, like your name, age, location, gender,
     birthday, or marital status.
   card_citation: ''
 card_3:
-  card_text: "Under the GDPR, companies MUST:\n-------------------------------\n\n*   Explain **HOW & WHY** they collect users’ personal data.\n*   Obtain usersa\x19 **CONSENT** before using their data for $ purposes.\n*   **ALLOW** users to access the data collected about them, correct it (if needed) & download it.\n*   **ERASE** users’ data (upon request) if it is not being used for a compelling business purpose."
+  card_text: "Under the GDPR, companies MUST:n-------------------------------nn*   Explain **HOW & WHY** they collect users’ personal data.n*   Obtain usersax19 **CONSENT** before using their data for $ purposes.n*   **ALLOW** users to access the data collected about them, correct it (if needed) & download it.n*   **ERASE** users’ data (upon request) if it is not being used for a compelling business purpose."
   card_citation: ''
 card_4:
   card_text: >-
@@ -68,6 +68,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-05-29-privacy-policy-update-emails-gdpr/)
   card_citation: ''
+
 ---
 *   **Why you’re suddenly getting lots of emails from sites you haven’t visited in years:** [https://finance.yahoo.com/news/why-apos-suddenly-getting-lots-130200362.html](\"https://finance.yahoo.com/news/why-apos-suddenly-getting-lots-130200362.html\")
 *   **GDPR: The EU rule thata\\u0019s filling up your inbox with emails now:** [https://www.sfchronicle.com/business/article/Europe-s-GDPR-privacy-regulations-take-effect-12935356.php](\"https://www.sfchronicle.com/business/article/Europe-s-GDPR-privacy-regulations-take-effect-12935356.php\")

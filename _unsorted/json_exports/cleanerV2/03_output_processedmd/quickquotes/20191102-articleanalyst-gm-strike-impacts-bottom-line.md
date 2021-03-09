@@ -25,6 +25,7 @@ featured_quote:
     Morning Star Equity Strategist David Whiston on the impact of the UAW strike
     on General Motors.
   citation: ''
+
 ---
 *   One of America’s largest automakers performed better than analysts expected for the last 3 months.
 *   However, the company lowered its forecast for this year and next, mainly due to the impact of the 40 day strike by the UAW – the longest strike since the 1970s.

@@ -27,7 +27,7 @@ card_1:
     Meet Amanda.
   card_citation: Meet Amanda.
 card_2:
-  card_text: "> a\x1CI can honestly say that technology has saved my life. When I found something greater than myself, I realized that I am not just a person with a life. I am a person who has something to contribute.a\x1D\n> \n> Amanda Southworth on her app AnxietyHelper, which provides tools, resources, & emergency help for those suffering with depression & anxiety.\n\n[Click to See: App](https://itunes.apple.com/us/app/anxietyhelper/id1028767781)"
+  card_text: "> ax1CI can honestly say that technology has saved my life. When I found something greater than myself, I realized that I am not just a person with a life. I am a person who has something to contribute.ax1Dn> n> Amanda Southworth on her app AnxietyHelper, which provides tools, resources, & emergency help for those suffering with depression & anxiety.nn[Click to See: App](https://itunes.apple.com/us/app/anxietyhelper/id1028767781)"
   card_citation: 'Click to See: App'
 card_3:
   card_text: >-
@@ -72,6 +72,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-11-amanda-southworth/)
   card_citation: ''
+
 ---
 *   **This teen, who attempted suicide seven times, builds apps that saved her life and others:  
     **[https://www.usatoday.com/story/tech/2018/06/09/teen-who-attempted-suicide-seven-times-builds-apps-saved-her-life-and-others/686918002/](\"https://www.usatoday.com/story/tech/2018/06/09/teen-who-attempted-suicide-seven-times-builds-apps-saved-her-life-and-others/686918002/\")

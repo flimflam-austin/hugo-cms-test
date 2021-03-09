@@ -29,6 +29,7 @@ featured_quote:
     Pres. Trump signing an executive order on policing in America, in the wake
     of the deaths of George Floyd, Rayshard Brooks.
   citation: ''
+
 ---
 **Read the Executive Order**: [CLICK HERE](\"https://www.whitehouse.gov/presidential-actions/executive-order-safe-policing-safe-communities/\")
 

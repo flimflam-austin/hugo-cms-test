@@ -27,6 +27,7 @@ featured_quote:
     Senate Majority Leader Mitch McConnell (R-KY) after Congress reached a deal
     on its fifth COVID-19 relief package, totaling nearly $900B.
   citation: ''
+
 ---
 *   **THE BASICS:** The [package](\"https://www.speaker.gov/newsroom/122020\") is combined with a $[1.4T](\"https://appropriations.house.gov/sites/democrats.appropriations.house.gov/files/Summary%20of%20H.R.%20133%20Appropriations%20Provisions.pdf\") spending bill that will fund federal gov’t agencies through September, and includes
     *   A second round of stimulus checks (a one-time direct payment of up to $600 per adult and child in households earning less than $75k/year and up to $1,200 for couples making up to $150k/year)

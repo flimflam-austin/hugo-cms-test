@@ -23,6 +23,7 @@ featured_quote:
     Head of Nicaragua’s disaster response agency Guillermo Gonzalez discussing
     the impact of Hurricane Iota, a Category 4 storm.
   citation: ''
+
 ---
 *   The [National Hurricane Center considers Hurricane Iota](\"https://www.nhc.noaa.gov/graphics_at1.shtml?start#contents\") to be a “catastrophic hurricane, with extreme winds and a life-threatening storm surge.”
 *   Hurricanes are often categorized 1-5, 5 being the most severe. This reading is based on the force of wind – the higher the number, the stronger the storm.

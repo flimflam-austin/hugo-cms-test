@@ -27,17 +27,17 @@ card_1:
     meddling in the 2016 elections.
 
 
-    But \***also**\* a long list of other Russian “mischief” every American
+    But ***also*** a long list of other Russian “mischief” every American
     should know about.
 
 
     Flip For More
   card_citation: Flip For More
 card_2:
-  card_text: "> a\x1CThe Administration is confronting and countering malign Russian cyber activity, including their attempted interference in U.S. elections, destructive cyber-attacks, and intrusions targeting critical infrastructure.a\x1D\n> \n> Treasury Secretary Steven Mnuchin, Press Release Mar. 15, 2018"
+  card_text: "> ax1CThe Administration is confronting and countering malign Russian cyber activity, including their attempted interference in U.S. elections, destructive cyber-attacks, and intrusions targeting critical infrastructure.ax1Dn> n> Treasury Secretary Steven Mnuchin, Press Release Mar. 15, 2018"
   card_citation: ''
 card_3:
-  card_text: "What You Need To Know:  \nNew Sanctions\n--------------------------------------\n\n**Who:** Targets 5 Russian “entities” & 19 Russian individuals.\n\n**Why:** Not only meddling in our elections but major cyber attacks targeting everything from American ground, water & sky a\x14 our power grid, manufacturing facilities, aviation systems & even our nuclear power plants."
+  card_text: "What You Need To Know:  nNew Sanctionsn--------------------------------------nn**Who:** Targets 5 Russian “entities” & 19 Russian individuals.nn**Why:** Not only meddling in our elections but major cyber attacks targeting everything from American ground, water & sky ax14 our power grid, manufacturing facilities, aviation systems & even our nuclear power plants."
   card_citation: ''
 card_4:
   card_text: >-
@@ -69,7 +69,7 @@ card_5:
     Statement](https://www.gov.uk/government/news/salisbury-attack-joint-statement-from-the-leaders-of-france-germany-the-united-states-and-the-united-kingdom)
   card_citation: View Statement
 card_6:
-  card_text: "Sanctions Also Address:  \n“NotPeya Attack”\n------------------------------------------\n\n*   WH: “mostA destructive & costly cyberattack in historya\x1D (happened in 2017)\n*   $$: Billions in damage worldwide.\n*   Disrupted shipping, trade & production of medicines.\n*   Several hospitals in U.S. unable toA create electronic records.\n*   Attributed to **Russia military**."
+  card_text: "Sanctions Also Address:  n“NotPeya Attack”n------------------------------------------nn*   WH: “mostA destructive & costly cyberattack in historyax1D (happened in 2017)n*   $$: Billions in damage worldwide.n*   Disrupted shipping, trade & production of medicines.n*   Several hospitals in U.S. unable toA create electronic records.n*   Attributed to **Russia military**."
   card_citation: ''
 card_7:
   card_text: >-
@@ -85,7 +85,7 @@ card_7:
     _U.S. Treasury Department_
   card_citation: ''
 card_8:
-  card_text: "> a\x1CThe Americans have no grounds for introducing new sanctions. We have moved to prepare our own measures in response.a\x1D\n> \n> Russian Deputy Foreign Minister Sergei Ryabkov, interview with Interfax News Agency quoted in Wall Street Journal, Mar 15, 2018"
+  card_text: "> ax1CThe Americans have no grounds for introducing new sanctions. We have moved to prepare our own measures in response.ax1Dn> n> Russian Deputy Foreign Minister Sergei Ryabkov, interview with Interfax News Agency quoted in Wall Street Journal, Mar 15, 2018"
   card_citation: ''
 card_10:
   card_text: >-
@@ -96,6 +96,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-16-russia-sanctions/)
   card_citation: ''
+
 ---
 *   US: Russia hacks energy grid, critical infrastructure [https://www.detroitnews.com/story/news/politics/2018/03/15/us-russia-sanctions/32955457/](\"https://www.detroitnews.com/story/news/politics/2018/03/15/us-russia-sanctions/32955457/\")
 *   Treasury Sanctions Russian Cyber Actors for Interference with the 2016 U.S. Elections and Malicious Cyber-Attacks [https://home.treasury.gov/news/press-releases/sm0312](\"https://home.treasury.gov/news/press-releases/sm0312\")

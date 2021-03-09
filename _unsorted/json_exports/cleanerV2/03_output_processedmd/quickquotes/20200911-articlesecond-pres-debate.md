@@ -23,6 +23,7 @@ featured_quote:
     Pres. Trump reacting to the announcement from the Commission on Presidential
     Debates that the second presidential debate will be held virtually.
   citation: ''
+
 ---
 *   On October 8, the nonpartisan Commission on Presidential Debates (CPD) [announced](\"https://www.debates.org/2020/10/08/cpd-announces-second-presidential-debate-will-be-virtual/\") the Oct. 15th second presidential debate will take the form of a virtual town meeting. The candidates will participate from separate remote locations “_in order to protect the health and safety of all involved._”
     *   Recall that after the first chaotic presidential debate on Sept. 29,  CPD [announced](\"https://smarthernews.com/article/debate-change/\") it would announce upcoming changes to the debate structure shortly.

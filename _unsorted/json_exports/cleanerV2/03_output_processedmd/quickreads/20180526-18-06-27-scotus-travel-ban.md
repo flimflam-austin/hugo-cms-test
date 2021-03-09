@@ -22,6 +22,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-27-scotus-travel-ban/)
   card_citation: ''
+
 ---
 *   **Statement from the President Regarding Supreme Court Ruling:** [https://www.whitehouse.gov/briefings-statements/statement-president-regarding-supreme-court-ruling/](\"https://www.whitehouse.gov/briefings-statements/statement-president-regarding-supreme-court-ruling/\")
 *   **Trump v. Hawaii:**  

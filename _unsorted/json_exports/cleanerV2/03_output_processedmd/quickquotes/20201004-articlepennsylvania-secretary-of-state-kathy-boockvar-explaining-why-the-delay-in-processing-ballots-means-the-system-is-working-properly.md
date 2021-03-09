@@ -28,6 +28,7 @@ featured_quote:
     Pennsylvania Secretary of State Kathy Boockvar explaining why the delay in
     processing ballots means the system is working properly.
   citation: ''
+
 ---
 *   Secretary of State Boockvar said the state received between 2.5 and 3 million mail-in and absentee ballots (vs. 260,000 in 2016).  About 50% have been processed, but there are millions more left.
 *   Late arriving ballots are segregated from those that arrived by Election Day. However, every ballot received by November 6 (Friday) will be counted – unless there is affirmative evidence it was postmarked after November 3.

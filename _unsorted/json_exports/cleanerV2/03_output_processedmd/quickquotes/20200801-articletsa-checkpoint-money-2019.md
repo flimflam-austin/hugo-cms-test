@@ -29,6 +29,7 @@ featured_quote:
     Transportation Security Administration on “lost money” from passengers; it
     topped more than $900,000 at security checkpoints in 2019.
   citation: ''
+
 ---
 *   The TSA submits a report to congress every year.
 *   Passengers left behind $928,000 at security checkpoints; the TSA says it recovered more than $3M in recent years.

@@ -31,5 +31,6 @@ card_1:
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-04-21-barbara-bush-interview/)'
   card_citation: ''
+
 ---
 Interview with Historian Doug Wead:A [https://youtu.be/dYLbBALvMJo](\"https://youtu.be/dYLbBALvMJo\")

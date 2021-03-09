@@ -31,6 +31,7 @@ featured_quote:
     critics, Alexei Navalny. Reportedly, Russia arrested more than 5,000
     demonstrators.
   citation: ''
+
 ---
 *   Tens of thousands of protesters stormed the streets all over the country, including marching to the jail where Navalny is held.  Moscow all but locked down the city ahead of time–shuttering restaurants, shops, some subway stations and bus travel.
 *   What are the protesters fighting for?

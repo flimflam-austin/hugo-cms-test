@@ -78,6 +78,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-05-14-free-range-parenting/)
   card_citation: ''
+
 ---
 *   **Free to roam: Utaha\\u0019s first-of-its-kind a\\u0018free-range parentinga\\u0019 law takes effect:** [https://www.sltrib.com/news/2018/05/08/free-to-roam-utahs-first-of-its-kind-free-range-parenting-law-takes-effect/](\"https://www.sltrib.com/news/2018/05/08/free-to-roam-utahs-first-of-its-kind-free-range-parenting-law-takes-effect/\")
 *   **Utah’s ‘free-range parenting’ law is now officially in effect:** [https://abcnews.go.com/GMA/Family/utahs-free-range-parenting-law-now-officially-effect/story?id=55021088](\"https://abcnews.go.com/GMA/Family/utahs-free-range-parenting-law-now-officially-effect/story?id=55021088\")

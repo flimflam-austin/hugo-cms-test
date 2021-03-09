@@ -85,6 +85,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-30-netanyahu-lies-lies/)
   card_citation: ''
+
 ---
 *   **Editorial:A Israel’s spy caper and the Iran nuclear deal:** [http://www.chicagotribune.com/news/opinion/editorials/ct-edit-netanyahu-iran-nuclear-sanctions-trump-20180430-story.html](\"http://www.chicagotribune.com/news/opinion/editorials/ct-edit-netanyahu-iran-nuclear-sanctions-trump-20180430-story.html\")
 *   **WATCH: NETANYAHU UNVEILS SECRET IRANIAN NUCLEAR PROGRAM:** [https://www.jpost.com/Israel-News/Benjamin-Netanyahu/WATCH-LIVE-Netanyahu-address-the-nation-discussing-dramatic-Iran-news-553124](\"https://www.jpost.com/Israel-News/Benjamin-Netanyahu/WATCH-LIVE-Netanyahu-address-the-nation-discussing-dramatic-Iran-news-553124\")

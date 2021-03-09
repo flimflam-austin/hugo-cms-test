@@ -62,8 +62,9 @@ card_3:
     *   July/August = deadliest months.
   card_citation: ''
 card_10:
-  card_text: "a\x1CA child under 30 pounds can drown in 30 seconds....And I just keep counting to 30 in my head. That was all I needed.a\x1D Morgan Beck Miller\n\n[view sources](https://smarthernews.com/18-07-30-honoring-emeline-miller/)"
+  card_text: "ax1CA child under 30 pounds can drown in 30 seconds....And I just keep counting to 30 in my head. That was all I needed.ax1D Morgan Beck Millernn[view sources](https://smarthernews.com/18-07-30-honoring-emeline-miller/)"
   card_citation: ''
+
 ---
 *   **Bode and Morgan Miller open up about daughter’s drowning and share new mission**A [https://www.today.com/parents/bode-morgan-miller-open-about-daughter-s-drowning-share-new-t134603](\"https://www.today.com/parents/bode-morgan-miller-open-about-daughter-s-drowning-share-new-t134603\")
 *   **Former Olympic skier Bode Miller, wife discuss their young daughter’s drowning**A [https://www.usatoday.com/story/sports/olympics/2018/07/30/bode-miller-olympian-morgan-miller-daughter-drowning-death-emmy/862146002/](\"https://www.usatoday.com/story/sports/olympics/2018/07/30/bode-miller-olympian-morgan-miller-daughter-drowning-death-emmy/862146002/\")

@@ -32,7 +32,7 @@ card_1:
     charter of government.
   card_citation: ''
 card_2:
-  card_text: "The Constitutional Convention\n-----------------------------\n\n*   **Who:**\_A 55 delegates attended the Convention, but only 39 signed.\n*   **When:** Written during four-month Convention (May 25 – Sept 17, 1787).\n*   **Where:** Philadelphia, Pennsylvania.\n*   **Why:** Establish our federal gov’t (executive, judicial, legislative) and divide power between the federal gov’t & states."
+  card_text: "The Constitutional Conventionn-----------------------------nn*   **Who:**_A 55 delegates attended the Convention, but only 39 signed.n*   **When:** Written during four-month Convention (May 25 – Sept 17, 1787).n*   **Where:** Philadelphia, Pennsylvania.n*   **Why:** Establish our federal gov’t (executive, judicial, legislative) and divide power between the federal gov’t & states."
   card_citation: ''
 card_3:
   card_text: >-
@@ -70,6 +70,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-09-17-constitution-day/)
   card_citation: ''
+
 ---
 *   **United States Constitution:**  
     [https://www.loc.gov/rr/program/bib/ourdocs/constitution.html](\"https://www.loc.gov/rr/program/bib/ourdocs/constitution.html#American\")

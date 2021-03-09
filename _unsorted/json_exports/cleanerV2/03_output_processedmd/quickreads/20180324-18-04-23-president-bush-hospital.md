@@ -42,10 +42,10 @@ card_2:
     Parkinson's disease.
   card_citation: ''
 card_3:
-  card_text: "> “Certainly the fact President Bush was exposed to many others and many germs, may have played a role. There is some truth to the fact that stressors such as a death or traumatic event can impact the ability of our bodya\x19s immune system to fight off infection.”\n> \n> Dr. Campbell to SmartHER News when asked if being exposed to so many people at his wife's funeral led to infection. Pres. Bush shook hands Sat, w/an est. 2,500 ppl. (Chicago Tribune)."
+  card_text: "> “Certainly the fact President Bush was exposed to many others and many germs, may have played a role. There is some truth to the fact that stressors such as a death or traumatic event can impact the ability of our bodyax19s immune system to fight off infection.”n> n> Dr. Campbell to SmartHER News when asked if being exposed to so many people at his wife's funeral led to infection. Pres. Bush shook hands Sat, w/an est. 2,500 ppl. (Chicago Tribune)."
   card_citation: ''
 card_4:
-  card_text: "> “Interestingly there is good data that supports the fact that when one spouse from a long time married couple diesa\x14such as the Bushesa\x14the other spouse often suffers a major health incident in quick fashiona\x14its almost as if we we hold on for the ones we love, and when they are gone, we follow closely behinda|.my wife and I discussed this tonight in fact.”\n> \n> Dr. Campbell to SmartHER News"
+  card_text: "> “Interestingly there is good data that supports the fact that when one spouse from a long time married couple diesax14such as the Bushesax14the other spouse often suffers a major health incident in quick fashionax14its almost as if we we hold on for the ones we love, and when they are gone, we follow closely behinda|.my wife and I discussed this tonight in fact.”n> n> Dr. Campbell to SmartHER News"
   card_citation: ''
 card_10:
   card_text: >-
@@ -57,6 +57,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-23-president-bush-hospital/)
   card_citation: ''
+
 ---
 *   **Spokesman: George H.W. Bush hospitalized with blood infection:**  
     [http://www.chicagotribune.com/news/nationworld/ct-george-hw-bush-hospitalized-20180423-story.html](\"http://www.chicagotribune.com/news/nationworld/ct-george-hw-bush-hospitalized-20180423-story.html\")_  

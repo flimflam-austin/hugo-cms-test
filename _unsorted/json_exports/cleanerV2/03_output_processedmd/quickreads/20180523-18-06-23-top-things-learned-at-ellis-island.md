@@ -27,7 +27,7 @@ card_1:
     Flip For More
   card_citation: Flip For More
 card_2:
-  card_text: "“Illegal Immigrationa\x1D hasna\x19t ALWAYS existed.\n----------------------------------------------\n\nThere was a time in America when “illegal immigration” did not exist.\n\nIf you wanted to come to America, you could travel with ease.\n\nAfter the Civil War, the Federal Government became more powerful and this set the stage for more centralized immigration reform."
+  card_text: "“Illegal Immigrationax1D hasnax19t ALWAYS existed.n----------------------------------------------nnThere was a time in America when “illegal immigration” did not exist.nnIf you wanted to come to America, you could travel with ease.nnAfter the Civil War, the Federal Government became more powerful and this set the stage for more centralized immigration reform."
   card_citation: ''
 card_3:
   card_text: >-
@@ -74,6 +74,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-06-23-top-things-learned-at-ellis-island/)
   card_citation: ''
+
 ---
 _On June 20th, 2018 Jenna Lee, Founder of SmartHER News, spent 2 hours speaking with the librarian and historian at the Statue of Liberty National Monument and Ellis Island, Barry Moreno. Mr. Moreno has written several books including [The Illustrated Encyclopedia of Ellis Island](\"https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=barry+moreno\")_
 

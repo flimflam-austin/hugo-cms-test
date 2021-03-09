@@ -30,6 +30,7 @@ featured_quote:
     “Letter To The Editor” at the New England Journal of Medicine on early
     research about cats & Covid-19.
   citation: ''
+
 ---
 *   Researchers inoculated cats with SARS-CoV-2 and then housed the cats with 3 others without exposure.
 *   Eventually all 6 cats showed presence of the virus but no symptoms.

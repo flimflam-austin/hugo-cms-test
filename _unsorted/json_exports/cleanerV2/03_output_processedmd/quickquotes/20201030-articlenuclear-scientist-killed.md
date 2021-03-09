@@ -31,6 +31,7 @@ featured_quote:
     appears to be the targeted killing of an Iranian scientist, allegedly
     involved in developing nuclear weapons.
   citation: ''
+
 ---
 *   Zarif continued in Persian on social media (this is the translation): _“Once again, Iran is a victim of terrorism, with the assassination of one of its great scholars by terrorists. Our heroes have always faced terrorism in order to establish security and stability in the region and the world.”_
 *   According to reports, Dr. Mohsen Fakhrizadeh, a top scientist in Iran, reportedly involved in the development of the Iranian nuclear program, was attacked while in a car (by both gunmen and a truck bomb) – he reportedly later died in a hospital. [(Here’s photos from the scene)](\"https://www.cnbc.com/2020/11/27/top-iranian-nuclear-scientist-assassinated.html\")

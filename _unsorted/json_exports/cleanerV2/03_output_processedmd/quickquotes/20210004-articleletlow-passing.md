@@ -25,6 +25,7 @@ featured_quote:
     replace him – Louisiana Congressman-elect Luke Letlow, 41 years old, died
     “due to complications related to COVID-19” on Dec. 29th.
   citation: ''
+
 ---
 *   Louisiana Congressman-elect Luke Letlow was married with two small children. According to Associated Press, he had no underlying health conditions.
 *   He was admitted to the hospital with COVID-19 on Dec. 19th and passed away on Dec. 29th. [The New York Post](\"https://nypost.com/2021/01/02/congressman-elect-luke-letlow-41-mourned-after-covid-19-death/\") reported this on the circumstances of his passing: _Letlow, 41, died of COVID-19 complications Tuesday when he suffered a heart attack after undergoing an apparently successful operation to remove a blood clot. He had been hospitalized at Ochsner LSU Health in Shreveport since Dec. 23 as he battled COVID-19._

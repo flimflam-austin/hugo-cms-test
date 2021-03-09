@@ -91,6 +91,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-07-10-immigration-separation-wall/)
   card_citation: ''
+
 ---
 *   **At Least 54 Migrant Children Under 5 to Be Reunited With Parents, Justice Dept. Says:**  
     [https://www.nytimes.com/2018/07/09/us/migrants-family-separation-reunification.html](\"https://www.nytimes.com/2018/07/09/us/migrants-family-separation-reunification.html\")  

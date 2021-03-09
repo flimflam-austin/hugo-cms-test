@@ -29,6 +29,7 @@ featured_quote:
     jobs report that shows 49,000 jobs added to the economy; the unemployment
     rate dropped to 6.3 percent.
   citation: ''
+
 ---
 *   [Frick want on to say](\"https://www.cnbc.com/2021/02/05/jobs-report-january-2021.html\"): _“We especially shouldn’t take solace that the unemployment rate fell dramatically given that’s mainly because more Americans dropped out of the labor force.”_
 *   The unemployment rate fell because fewer people are actively looking for a job – a smaller labor force is not an indication of a healthy job market. Ideally a “healthy” labor market has high labor market participation AND a lower unemployment rate because people have jobs.

@@ -28,7 +28,7 @@ card_1:
     FLIP: Why Now?
   card_citation: 'FLIP: Why Now?'
 card_2:
-  card_text: "Voter Interest in Midterms  \nOff the Charts\n-------------------------------------------\n\n*   Record share of voters (68%) say control of Congress factor in their vote, according to a new Pew poll.\n*   More voters also say their view of the Pres. a\x13 positive or negative a\x13 will influence vote for Congress.\n*   Democratsa\x19 advantage on enthusiasm is weaker than it was in previous election cycles when their party scored big."
+  card_text: "Voter Interest in Midterms  nOff the Chartsn-------------------------------------------nn*   Record share of voters (68%) say control of Congress factor in their vote, according to a new Pew poll.n*   More voters also say their view of the Pres. ax13 positive or negative ax13 will influence vote for Congress.n*   Democratsax19 advantage on enthusiasm is weaker than it was in previous election cycles when their party scored big."
   card_citation: ''
 card_3:
   card_text: >-
@@ -59,6 +59,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-25-midterm-anticipation/)
   card_citation: ''
+
 ---
 *   **Poll: Democrats Fired Up Against Trump In Midterms, But GOP Rallying Around Him:  
     **[https://www.npr.org/2018/06/20/621837079/poll-democrats-fired-up-against-trump-in-midterms-but-gop-rallying-around-him](\"https://www.npr.org/2018/06/20/621837079/poll-democrats-fired-up-against-trump-in-midterms-but-gop-rallying-around-him\")

@@ -32,6 +32,7 @@ featured_quote:
     FBI Miami Special Agent in Charge George Piro on the killing of two FBI
     agents in Southern Florida on Tuesday.
   citation: ''
+
 ---
 *   Special Agents Laura Schwartzenberger (43) and Daniel Alfin (36), were killed and three other FBI officers were injured when a suspect opened fire while the agents attempted to execute a search warrant for a “_violent crimes against children investigation_” in Sunrise, Florida. The suspect also died.
 *   On-duty killings of [FBI](\"https://www.fbi.gov/history/wall-of-honor\") agents are fairly rare.  The last on-duty killing of an FBI agent serving a warrant dates was in 2008.

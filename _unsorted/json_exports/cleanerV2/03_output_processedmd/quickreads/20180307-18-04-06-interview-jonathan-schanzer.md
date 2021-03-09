@@ -38,6 +38,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-04-06-interview-jonathan-schanzer/)
   card_citation: ''
+
 ---
 Interview Link:
 

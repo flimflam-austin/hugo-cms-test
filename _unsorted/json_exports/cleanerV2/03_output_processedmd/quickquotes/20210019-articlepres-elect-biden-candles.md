@@ -26,6 +26,7 @@ featured_quote:
     President-elect Joe Biden as 400 candles were lit on the Lincoln Memorial
     Reflecting Pool to honor the 400,000+ Americans who have died from Covid-19.
   citation: ''
+
 ---
 *   The Tuesday night memorial was the first major event for President-elect Biden and VP-elect Harris ahead of Wednesday’s inauguration.
 *   Pres-elect Biden has set the goal of  administering the COVID-19 vaccine to 100 million Americans within the first 100 days of his administration.

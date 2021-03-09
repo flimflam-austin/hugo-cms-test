@@ -22,6 +22,7 @@ featured_image:
 summary: >-
   How one family’s contagiously creative business idea evolved into a bustling
   business during the COVID-19 pandemic.
+
 ---
 FOR MORE INFO: [RedBarnFarm.org](\"http://REdBarnfarm.org\")
 

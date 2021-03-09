@@ -136,7 +136,7 @@ card_7:
     Prevention and Control activities.”
 
     *   Some say without specific research purpose, approved by Congress, no $$
-    will \*actually\* be devoted to gun-related research despite clarification.
+    will *actually* be devoted to gun-related research despite clarification.
   card_citation: ''
 card_10:
   card_text: >-
@@ -147,6 +147,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-03-26-march-life-reflection/)
   card_citation: ''
+
 ---
 *   Poll: For the Columbine generation, gun violence is a defining fear: [https://www.usatoday.com/story/news/2018/03/22/poll-columbine-generation-gun-violence-defining-fear/441446002/](\"https://www.usatoday.com/story/news/2018/03/22/poll-columbine-generation-gun-violence-defining-fear/441446002/\")
 *   Spending Bill Lets CDC Study Gun Violence; But Researchers Are Skeptical It Will Help: [https://www.npr.org/sections/health-shots/2018/03/23/596413510/proposed-budget-allows-cdc-to-study-gun-violence-researchers-skeptical](\"https://www.npr.org/sections/health-shots/2018/03/23/596413510/proposed-budget-allows-cdc-to-study-gun-violence-researchers-skeptical\")

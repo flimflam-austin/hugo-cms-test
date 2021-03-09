@@ -26,10 +26,10 @@ card_1:
     One of the Deadliest School Shootings in American History
   card_citation: ''
 card_2:
-  card_text: "Marjory Stoneman Douglas High School\n====================================\n\na\x1CBe positive. Be passionate. Be proud to be an eagle.a\x1D\n\n*   Named for an environmentalist who worked to protect the Florida Everglades (She died at 108).\n*   Grades 9-12; approximately 3,000 students in southeast Florida.\n*   Home to State Championship Marching Band."
+  card_text: "Marjory Stoneman Douglas High Schooln====================================nnax1CBe positive. Be passionate. Be proud to be an eagle.ax1Dnn*   Named for an environmentalist who worked to protect the Florida Everglades (She died at 108).n*   Grades 9-12; approximately 3,000 students in southeast Florida.n*   Home to State Championship Marching Band."
   card_citation: ''
 card_3:
-  card_text: "Former Student In Custody\n-------------------------\n\n> a\x1CWe were told last year that he wasna\x19t allowed on campus with a backpack on him. There were problems with him last year threatening students, and I guess he was asked to leave campus.a\x1D\n> \n> Jim Gard, Math Teacher, Interview With The Miami Herald (Feb 14, 2018)"
+  card_text: "Former Student In Custodyn-------------------------nn> ax1CWe were told last year that he wasnax19t allowed on campus with a backpack on him. There were problems with him last year threatening students, and I guess he was asked to leave campus.ax1Dn> n> Jim Gard, Math Teacher, Interview With The Miami Herald (Feb 14, 2018)"
   card_citation: ''
 card_4:
   card_text: >-
@@ -84,6 +84,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-14-florida-school-shooting/)
   card_citation: ''
+
 ---
 *   _**Beautiful read**_:A [http://www.miamiherald.com/news/local/article200187579.html](\"http://www.miamiherald.com/news/local/article200187579.html\")
 *   Great Video About High School:A [https://www.nbcmiami.com/news/local/Brag-About-Marjory-Stoneman-Douglas-High-School-461922143.html](\"https://www.nbcmiami.com/news/local/Brag-About-Marjory-Stoneman-Douglas-High-School-461922143.html\")

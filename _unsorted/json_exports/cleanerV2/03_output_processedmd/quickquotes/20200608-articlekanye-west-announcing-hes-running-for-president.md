@@ -23,6 +23,7 @@ featured_quote:
     vision and building our future.
   summary: Kanye West, announcing he’s running for president.
   citation: ''
+
 ---
 *   West’s July 4th [tweet](\"https://twitter.com/kanyewest/status/1279575273365594112\") announcing his run ends with the hashtag “#2020VISION” leading many to interpret his tweet as implying he’s running this year.
 *   West has previously discussed both his White House aspirations and support of Pres. Trump. In November, he said he’ll run in [2024](\"https://www.hollywoodreporter.com/news/christian-genius-billionaire-kanye-west-talks-2024-presidential-candidacy-moving-yeezy-stateside-1253358\"), and in May, he indicated he’s voting for [Pres. Trump](\"https://www.gq.com/story/inside-kanye-west-vision-for-the-future-cover-may-2020\") this year.

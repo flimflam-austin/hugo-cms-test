@@ -28,6 +28,7 @@ featured_quote:
     Dr. Paul Hertz, NASA Astrophysics Division Director, on the recent discovery
     of water on the sunlit side of the Moon.
   citation: ''
+
 ---
 *   **WHAT HAPPENED:** NASA found traces of water in a crater located in the Moon’s southern hemisphere, which is visible from Earth, using its SOFIA Telescope. “_Data from this location reveal water in concentrations of 100 to 412 parts per million – roughly equivalent to a 12-ounce bottle of water – trapped in a cubic meter of soil spread across the lunar surface_,” according to [NASA](\"https://www.nasa.gov/press-release/nasa-s-sofia-discovers-water-on-sunlit-surface-of-moon/\").
     *   “_This is not puddles of water but instead water molecules that are so spread apart that they do not form ice or liquid water,_” Casey Honniball, a NASA postdoctoral program fellow who authored a [study](\"https://www.nature.com/articles/s41550-020-01222-x#_blank\") about the discovery explained.

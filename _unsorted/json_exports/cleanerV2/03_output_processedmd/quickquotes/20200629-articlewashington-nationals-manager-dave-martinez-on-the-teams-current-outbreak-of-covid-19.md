@@ -24,6 +24,7 @@ featured_quote:
     Washington Nationals manager Dave Martinez on a sudden outbreak of COVID-19
     for the Florida Marlins, rendering the team unable to play.
   citation: ''
+
 ---
 *   Martinez talked the health of his team scheduled to play the Florida Marlins this weekend; more than a dozen Marlin players/staff have tested positive for COVID-19.
 *   \*\*UPDATE\*\* [MARLINS SEASON PUT ON HOLD](\"https://www.usatoday.com/story/sports/mlb/marlins/2020/07/29/miami-marlins-covid-19-outbreak-latest-updates/5528087002/\").

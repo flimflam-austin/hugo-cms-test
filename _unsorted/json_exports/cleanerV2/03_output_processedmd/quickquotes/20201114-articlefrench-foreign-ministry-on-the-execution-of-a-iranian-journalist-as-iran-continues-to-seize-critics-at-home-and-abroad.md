@@ -23,6 +23,7 @@ featured_quote:
     French Foreign Ministry on the execution of a Iranian journalist as Iran
     continues to seize critics at home and abroad.
   citation: ''
+
 ---
 *   Journalist Ruhollah Zam fled from Iran in 2009 and lived in France where he managed a website that would highlight protests against those in power.
 *   Zam traveled to Iraq last year and was kidnapped, taken to Iran, tried in June and executed by hanging.

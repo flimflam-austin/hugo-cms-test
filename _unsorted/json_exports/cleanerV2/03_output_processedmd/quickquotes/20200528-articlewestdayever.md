@@ -25,6 +25,7 @@ featured_quote:
     Gap. Now, Gap and Yeezy will launch a collection together in a new
     multi-year deal.
   citation: ''
+
 ---
 *   West & Gap announced a collaboration on a new line of clothing sold exclusively at the retailer.
 *   The deal does not include Yeezy’s shoe line – which is part of an official partnership with Adidas.

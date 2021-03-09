@@ -29,6 +29,7 @@ featured_quote:
     continue an outside inauguration on Capitol Hill despite the reported
     security threats.
   citation: ''
+
 ---
 *   VP-elect Harris spoke with [NPR](\"https://www.npr.org/sections/biden-transition-updates/2021/01/15/956995144/with-impeachment-trial-and-relief-plan-on-deck-harris-stresses-need-to-multitask\") the week before the inauguration. She went on to say, _“We are, for all of our faults and imperfections, we are a nation that was founded on very important principles and guided by extremely important ideals. And we cannot abandon that.”_
 *   She described the Capitol Hill riot as _“horrific”_ and _“one of the worst days in terms of an attack on the integrity of our democracy.”_

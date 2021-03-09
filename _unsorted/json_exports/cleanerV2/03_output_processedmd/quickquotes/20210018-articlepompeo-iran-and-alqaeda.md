@@ -29,6 +29,7 @@ featured_quote:
     terror group, and Iran, “the world’s largest state sponsor of terror” for
     the first time.
   citation: ''
+
 ---
 *   Sec. Pompeo delivered these remarks at the National Press Club a week before the end of the Trump administration, in a speech titled the “The Iran-al-Qa’ida Axis”
 *   Sec. Pompeo describes a relationship between Al Qaeda and Iran that dates back more than three decades. _“…while there’s no evidence Iran helped plan or had foreknowledge of the 9/11 attacks, at least eight of the 9/11 hijackers traveled through Iran between October of 2000 and February of 2001.Indeed, in 2011, a federal judge in New York ruled that Iran had provided support for the 9/11 attacks, based on the role it played in furthering al-Qa’ida operatives’ plans.”_

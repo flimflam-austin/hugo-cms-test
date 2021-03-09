@@ -31,6 +31,7 @@ featured_quote:
     January. Officer Sicknick, 42, will lie in honor this week at the Capitol
     Rotunda.
   citation: ''
+
 ---
 *   [According to his obituary,](\"https://www.dignitymemorial.com/obituaries/springfield-va/brian-sicknick-9992015\") Sicknick lived a life “characterized by public service,” including six years in the National Guard and 12 years with the Capitol Police. He also rescued dachshunds, and had two of his own, Sparky and Pebbles.
 *   Sicknick will be buried in Arlington National Cemetery in Virginia, among other military service members, and some of the most famous names in American history including former president John F. Kennedy and the first African American Justice of the Supreme Court, Thurgood Marshall.

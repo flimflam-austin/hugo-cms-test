@@ -1,5 +1,5 @@
 ---
-title: "dr. anthony fauci\_responding to kids' questions about whether santa can safely deliver presents this christmas due to covid-19."
+title: "dr. anthony fauci_responding to kids' questions about whether santa can safely deliver presents this christmas due to covid-19."
 description: Santa claus is good to go.
 aliases:
   - article/santa-covid/
@@ -17,8 +17,9 @@ featured_image:
   alt: ''
 featured_quote:
   quote: Santa Claus is good to go.
-  summary: "Dr. Anthony Fauci\_responding to kids’ questions about whether Santa can safely deliver presents this Christmas due to COVID-19."
+  summary: "Dr. Anthony Fauci_responding to kids’ questions about whether Santa can safely deliver presents this Christmas due to COVID-19."
   citation: ''
+
 ---
 *   In an interview over the weekend, [Dr. Fauci](\"https://twitter.com/CNN/status/1340318450527432704\") said he traveled to the North Pole and personally vaccinated Santa himself – adding there’s “_nothing to worry about._“
 *   Santa aside, officials have urged Americans urged against holiday travel. Over the last week, the [TSA](\"https://www.tsa.gov/coronavirus/passenger-throughput\") screened nearly 6 million passengers – a significant increase amid the pandemic, but still 10M less than the same period in 2019.

@@ -23,6 +23,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-02-10-shortest-govt-shutdown-decades/)
   card_citation: ''
+
 ---
 How one GOP senator a\\u0014 Rand Paul a\\u0014 caused the super-short shutdownA [https://www.usatoday.com/story/news/politics/2018/02/09/how-one-gop-senator-rand-paul-caused-super-short-shutdown/322600002/](\"https://www.usatoday.com/story/news/politics/2018/02/09/how-one-gop-senator-rand-paul-caused-super-short-shutdown/322600002/\")
 

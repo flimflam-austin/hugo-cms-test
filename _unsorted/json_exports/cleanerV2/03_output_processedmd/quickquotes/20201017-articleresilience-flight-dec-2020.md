@@ -33,6 +33,7 @@ featured_quote:
     flight of its kind and potentially the beginning of a new era in U.S. space
     exploration.
   citation: ''
+
 ---
 *   Leuders said the launch signaled a “first” for agency partnerships (NASA with the FAA for this “commercial flight”), international partnerships (one of the astronauts is Japanese, and as the NASA administrator said, “there is [no better partner to the U.S. for space exploration than Japan”](\"https://twitter.com/NASA/status/1328171694599458816?s=20\")), and commercial partnerships (NASA “hired” SpaceX as its transportation to space).
 *   4 astronauts include: [“Commander Mike Hopkins, an Air Force colonel…physicist Shannon Walker, Navy Cmdr. Victor Glover, the first Black astronaut on a long-term space station mission, and Japan’s Soichi Noguchi, who became the first person in almost 40 years to launch on three types of spacecraft.”](\"https://www.usatoday.com/story/news/nation/2020/11/15/spacex-resilience-launch-time-scheduled-sunday-pending-weather/6304211002/\")

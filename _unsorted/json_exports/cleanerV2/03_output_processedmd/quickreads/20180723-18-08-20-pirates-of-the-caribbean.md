@@ -63,7 +63,7 @@ card_3:
     WaPo reports: pirates are often directly involved w/corrupt officials.
   card_citation: ''
 card_4:
-  card_text: "> a\x1CThis reminds me of how the problems started off the coast of eastern Africa.”\n> \n> Roodal Moonilal, opposition lawmaker from neighboring Trinidad and Tobago, likening Venezuelan pirates to Somalia, where impoverished fisherman turned to hijacking passing vessels after the country's collapse in the 1990s."
+  card_text: "> ax1CThis reminds me of how the problems started off the coast of eastern Africa.”n> n> Roodal Moonilal, opposition lawmaker from neighboring Trinidad and Tobago, likening Venezuelan pirates to Somalia, where impoverished fisherman turned to hijacking passing vessels after the country's collapse in the 1990s."
   card_citation: ''
 card_5:
   card_text: >-
@@ -91,6 +91,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-08-20-pirates-of-the-caribbean/)
   card_citation: ''
+
 ---
 *   **a\\u0018They be piratesa\\u0019**A **An old scourge is reappearing in the Caribbean:**  
     [https://www.washingtonpost.com/graphics/2018/world/pirates-return-to-the-caribbean/](\"https://www.washingtonpost.com/graphics/2018/world/pirates-return-to-the-caribbean/\")  

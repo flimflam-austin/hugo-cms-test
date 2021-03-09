@@ -26,7 +26,7 @@ card_1:
     FLIP FOR "HERSTORY"
   card_citation: FLIP FOR "HERSTORY"
 card_2:
-  card_text: "*   In **1908**, Jarvis organized the 1st Mothera\x19s Day in West Virginia to honor her late mom who organized “Mothersa\x19 Work Days” to improve women’s working conditions.\n*   By **1910, West Virginia made it a holiday**, other states followed.\n*   In 1914, **Congress declared the 2nd Sunday in May** (anniversary of Jarvis’ mom’s death) **as Mother’s Day**."
+  card_text: "*   In **1908**, Jarvis organized the 1st Motherax19s Day in West Virginia to honor her late mom who organized “Mothersax19 Work Days” to improve women’s working conditions.n*   By **1910, West Virginia made it a holiday**, other states followed.n*   In 1914, **Congress declared the 2nd Sunday in May** (anniversary of Jarvis’ mom’s death) **as Mother’s Day**."
   card_citation: ''
 card_3:
   card_text: >-
@@ -49,6 +49,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-05-13-mothers-day-background/)
   card_citation: ''
+
 ---
 *   **Topics in Chronicling America – Mother’s Day:** [https://www.loc.gov/rr/news/topics/mothers.html](\"https://www.loc.gov/rr/news/topics/mothers.html\")
 *   **The non-mother who started Mothera\\u0019s Day:** [https://abcnews.go.com/GMA/Family/mother-started-mothers-day/story?id=47333654](\"https://abcnews.go.com/GMA/Family/mother-started-mothers-day/story?id=47333654\")

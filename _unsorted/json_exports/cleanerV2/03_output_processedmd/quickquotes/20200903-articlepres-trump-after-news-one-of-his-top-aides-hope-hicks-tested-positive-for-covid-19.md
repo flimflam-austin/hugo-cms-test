@@ -24,6 +24,7 @@ featured_quote:
     President Trump announcing his test results hours after learning one of his
     top aides also tested positive for the illness.
   citation: ''
+
 ---
 *   The President received a test for COVID-19 on Thursday after learning one of his top aides, Hope Hicks, also tested positive.
 *   He announced around [midnight on Twitter](\"https://twitter.com/realDonaldTrump/status/1311892190680014849?s=20\") that he and First Lady Melania Trump both tested positive as well. _“Tonight, @FLOTUS and I tested positive for COVID-19. We will begin our quarantine and recovery process immediately. We will get through this TOGETHER!”_

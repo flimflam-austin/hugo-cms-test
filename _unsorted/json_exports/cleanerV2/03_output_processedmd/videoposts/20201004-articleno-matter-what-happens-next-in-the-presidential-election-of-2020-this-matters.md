@@ -21,4 +21,5 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2018/11/election-day-freebies-001-tease-today-161104_a7e786da1bcdd13448256acbce06bcd3.jpg
   alt: vote
 summary: Some past perspective for our present political moment.
+
 ---

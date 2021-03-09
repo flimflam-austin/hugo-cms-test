@@ -88,7 +88,7 @@ card_4:
     Now](https://www.youtube.com/embed/TJrJBRSRyj0?enablejsapi=1&autoplay=1&rel=0)
   card_citation: Watch Now
 card_5:
-  card_text: "How It Works:\n-------------\n\n> “Photographs, memorabilia and objects a\x14 be they the actual items or images of them on apps a\x14 help rekindle memories in people with dementia and lead them to start conversations.”\n> \n> \"Museums Fight the Isolation and Pain of Dementia\", NYT, Mar. 11, 2018"
+  card_text: "How It Works:n-------------nn> “Photographs, memorabilia and objects ax14 be they the actual items or images of them on apps ax14 help rekindle memories in people with dementia and lead them to start conversations.”n> n> "Museums Fight the Isolation and Pain of Dementia", NYT, Mar. 11, 2018"
   card_citation: ''
 card_10:
   card_text: >-
@@ -98,6 +98,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-15-battling-dementia/)
   card_citation: ''
+
 ---
 *   Museums Fight the Isolation and Pain of DementiaA [https://www.nytimes.com/2018/03/11/arts/dementia-national-museums-liverpool.html?ribbon-ad-idx=3&rref=health&module=Ribbon&version=origin&region=Header&action=click&contentCollection=Health&pgtype=article](\"https://www.nytimes.com/2018/03/11/arts/dementia-national-museums-liverpool.html?ribbon-ad-idx=3&rref=health&module=Ribbon&version=origin&region=Header&action=click&contentCollection=Health&pgtype=article\")
 *   House of MemoriesA [http://houseofmemories.co.uk/](\"http://houseofmemories.co.uk/\")

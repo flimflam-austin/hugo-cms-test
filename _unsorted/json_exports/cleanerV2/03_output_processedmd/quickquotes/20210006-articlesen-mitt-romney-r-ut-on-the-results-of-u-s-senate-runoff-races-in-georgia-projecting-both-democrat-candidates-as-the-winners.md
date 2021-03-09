@@ -28,6 +28,7 @@ featured_quote:
     Sen. Mitt Romney (R-UT) on the results of U.S. Senate runoff races in
     Georgia, projecting both Democrat candidates as the winners.
   citation: ''
+
 ---
 *   Democrat **Rev. Raphael Warnock** who faced off against Republican Sen. Kelly Loeffler is the projected winner. The race has not been called officially by GA election officials. Warnock would be the first black senator in Georgia’s history.
 *   Democrat **Jon Ossoff** who faced off against Sen. David Perdue (R), is the projected winner. The race has not been called officially by GA election officials. Ossoff would be the first Jewish senator in Georgia’s history.

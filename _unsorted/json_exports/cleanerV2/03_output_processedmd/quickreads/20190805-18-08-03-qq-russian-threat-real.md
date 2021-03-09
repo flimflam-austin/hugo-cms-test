@@ -15,13 +15,13 @@ color_palette_classname: light-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/sunset-flag-america-fields-scaled.jpg
 card_1:
-  card_text: "> a\x1COur democracy itself is in the cross hairs.”\n> \n> Dept of Homeland Security Sec. Kirstjen Nielsen during a briefing about Russian interference in America's elections. Noting progress has been made, Nielsen confirmed Russia's \"willingness and a capability\" to hack into election rolls or voting infrastructure."
+  card_text: "> ax1COur democracy itself is in the cross hairs.”n> n> Dept of Homeland Security Sec. Kirstjen Nielsen during a briefing about Russian interference in America's elections. Noting progress has been made, Nielsen confirmed Russia's "willingness and a capability" to hack into election rolls or voting infrastructure."
   card_citation: ''
 card_2:
-  card_text: "> a\x1CI am the daughter of an immigrant.”\n> \n> Ivanka Trump, Pres. Trumpa\x18s daughter and senior adviser. She went on to say of her mother \"she came to this country legally and we have to be very careful about incentivizing behavior that puts children at risk of being trafficked, at risk of entering this country with coyotes or making an incredibly dangerous journey alone.\""
+  card_text: "> ax1CI am the daughter of an immigrant.”n> n> Ivanka Trump, Pres. Trumpax18s daughter and senior adviser. She went on to say of her mother "she came to this country legally and we have to be very careful about incentivizing behavior that puts children at risk of being trafficked, at risk of entering this country with coyotes or making an incredibly dangerous journey alone.""
   card_citation: ''
 card_3:
-  card_text: "> “If it doesna\x19t say a\x18Mena\x19s Wearhouse,a\x19 I dona\x19t know it.a\x1D\n> \n> Judge T.S. Ellis III, asking about the brand names of defendantA Paul Manaforta\x19s lavish wardrobe paid for with wire transfers from offshore accounts, including a $15,000A ostrich-skin jacket."
+  card_text: "> “If it doesnax19t say ax18Menax19s Wearhouse,ax19 I donax19t know it.ax1Dn> n> Judge T.S. Ellis III, asking about the brand names of defendantA Paul Manafortax19s lavish wardrobe paid for with wire transfers from offshore accounts, including a $15,000A ostrich-skin jacket."
   card_citation: ''
 card_4:
   card_text: >-
@@ -39,6 +39,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-08-03-qq-russian-threat-real/)
   card_citation: ''
+
 ---
 *   **Russian Threat a\\u0018Is Real,a\\u0019 Trump Officials Say, Vowing to Protect U.S. Elections:  
     **[https://www.nytimes.com/2018/08/02/us/politics/russia-election-security-midterm.html?](\"https://www.nytimes.com/2018/08/02/us/politics/russia-election-security-midterm.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news\")

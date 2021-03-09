@@ -18,5 +18,6 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2018/02/martin-ceralde-40407-682x1024.jpg
   alt: ''
 summary: How the trade on one stock has impacted the entire world. An insider’s take.
+
 ---
 Also view on YouTube:

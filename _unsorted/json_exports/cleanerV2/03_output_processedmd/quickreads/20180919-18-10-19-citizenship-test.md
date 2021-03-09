@@ -54,27 +54,27 @@ card_3:
     Example Questions
     -----------------
 
-    > 1\. When was the U.S. Constitution written?
+    > 1. When was the U.S. Constitution written?
     > 
     > 2.A How many justices serve on the U.S. Supreme Court?
     > 
-    > 3\. Who did the U.S. fight in World War II?
+    > 3. Who did the U.S. fight in World War II?
 
     FLIP FOR ANSWERS
   card_citation: FLIP FOR ANSWERS
 card_4:
   card_text: |-
-    > 1\. Constitution written?A **1787**  
+    > 1. Constitution written?A **1787**  
     > (13% Answered Correctly)
     > 
-    > 2\. Supreme Court Justices?A **9**  
+    > 2. Supreme Court Justices?A **9**  
     > (43% Answered Correctly)
     > 
-    > 3\. WWII enemy?A **Japan, Germany, and Italy**  
+    > 3. WWII enemy?A **Japan, Germany, and Italy**  
     > (40% Answered Correctly)
   card_citation: ''
 card_5:
-  card_text: "> _a\x1CUnfortunately this study found the average American to be woefully uninformed regarding Americaa\x19s history and incapable of passing the U.S. Citizenship Test.”_\n> \n> Woodrow Wilson Foundation Pres. Arthur Levine on the first of its kind survey. Since it's the first survey, we can't compare to past results, but the foundation intends to do further research."
+  card_text: "> _ax1CUnfortunately this study found the average American to be woefully uninformed regarding Americaax19s history and incapable of passing the U.S. Citizenship Test.”_n> n> Woodrow Wilson Foundation Pres. Arthur Levine on the first of its kind survey. Since it's the first survey, we can't compare to past results, but the foundation intends to do further research."
   card_citation: ''
 card_6:
   card_text: >-
@@ -102,6 +102,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-10-19-citizenship-test/)
   card_citation: ''
+
 ---
 *   **Civics (History and Government) Questions for the Naturalization Test:** [https://www.uscis.gov/sites/default/files/USCIS/Office%20of%20Citizenship/Citizenship%20Resource%20Center%20Site/Publications/100q.pdf](\"https://www.uscis.gov/sites/default/files/USCIS/Office%20of%20Citizenship/Citizenship%20Resource%20Center%20Site/Publications/100q.pdf\")
 *   **National Survey Finds Just 1 in 3 Americans Would Pass Citizenship Test:** [https://woodrow.org/news/national-survey-finds-just-1-in-3-americans-would-pass-citizenship-test/](\"https://woodrow.org/news/national-survey-finds-just-1-in-3-americans-would-pass-citizenship-test/\")

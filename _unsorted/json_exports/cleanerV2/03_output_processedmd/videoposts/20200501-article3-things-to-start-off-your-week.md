@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   The developing story of the death of George Floyd in police custody – plus one
   news item about COVID-19.
+
 ---

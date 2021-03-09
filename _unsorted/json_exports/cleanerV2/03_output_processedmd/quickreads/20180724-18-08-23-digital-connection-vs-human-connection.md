@@ -27,7 +27,7 @@ card_1:
     connections to each other & the world around us.
   card_citation: ''
 card_2:
-  card_text: "> a\x1C**Decades of research on happiness tell us that engaging positively with others is critical for our well-being.** Modern technology may be wonderful, but it can … take away from the special moments we have with friends and family in person.a\x1D\n> \n> Ryan Dwyer of the University of British Columbia on his study of smartphone distraction at the dinner table."
+  card_text: "> ax1C**Decades of research on happiness tell us that engaging positively with others is critical for our well-being.** Modern technology may be wonderful, but it can … take away from the special moments we have with friends and family in person.ax1Dn> n> Ryan Dwyer of the University of British Columbia on his study of smartphone distraction at the dinner table."
   card_citation: ''
 card_3:
   card_text: >-
@@ -69,6 +69,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-08-23-digital-connection-vs-human-connection/)
   card_citation: ''
+
 ---
 *   **Dealing With Digital Distraction:**  
     [www.apa.org/news/press/releases/2018/08/digital-distraction.aspx](\"http://www.apa.org/news/press/releases/2018/08/digital-distraction.aspx\")

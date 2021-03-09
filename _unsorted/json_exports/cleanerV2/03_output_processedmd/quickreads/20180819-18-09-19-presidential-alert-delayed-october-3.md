@@ -69,6 +69,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-09-19-presidential-alert-delayed-october-3/)
   card_citation: ''
+
 ---
 *   **The IPAWS National Test:  
     **[https://www.fema.gov/emergency-alert-test](\"https://www.fema.gov/emergency-alert-test\")

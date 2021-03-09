@@ -86,6 +86,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-08-06-quick-trip-around-the-world/)
   card_citation: ''
+
 ---
 *   **Venezuelan Officials Say President NicolA!s Maduro Is Unharmed After Drone ‘Attack’:**  
     [https://www.npr.org/2018/08/04/635681696/reports-venezuelas-president-maduro-is-unharmed-after-attack](\"https://www.npr.org/2018/08/04/635681696/reports-venezuelas-president-maduro-is-unharmed-after-attack\")

@@ -80,6 +80,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-08-national-prayer-breakfast/)
   card_citation: ''
+
 ---
 Watch Whole Presentation of National Prayer Breakfast:A [https://www.c-span.org/video/?440812-1/president-trump-addresses-national-prayer-breakfast&live](\"https://www.c-span.org/video/?440812-1/president-trump-addresses-national-prayer-breakfast&live\")
 

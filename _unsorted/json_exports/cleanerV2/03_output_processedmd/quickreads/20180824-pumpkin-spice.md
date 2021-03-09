@@ -51,7 +51,7 @@ card_2:
     craze as we know it today.
   card_citation: ''
 card_3:
-  card_text: "> a\x1CIt represents a sense of goodness, natural abundance and old values that people think are good.”\n> \n> Cindy Ott, author of a\x1CPumpkin: The Curious History of an American Icon,\" on how Americans have used pumpkin pie & the spices in it to maintain connections to nature and our country's beginnings. America is the only country in the world that consumes pumpkin as a seasonal food or drink."
+  card_text: "> ax1CIt represents a sense of goodness, natural abundance and old values that people think are good.”n> n> Cindy Ott, author of ax1CPumpkin: The Curious History of an American Icon," on how Americans have used pumpkin pie & the spices in it to maintain connections to nature and our country's beginnings. America is the only country in the world that consumes pumpkin as a seasonal food or drink."
   card_citation: ''
 card_4:
   card_text: >-
@@ -78,6 +78,7 @@ card_10:
 
     [view sources](https://smarthernews.com/pumpkin-spice/)
   card_citation: ''
+
 ---
 *   **Pumpkin Spice Sales Growth Makes a Hot Return in August:**  
     [https://www.nielsen.com/us/en/insights/news/2018/pumpkin-spice-sales-growth-makes-a-hot-return-in-late-august.html](\"https://www.nielsen.com/us/en/insights/news/2018/pumpkin-spice-sales-growth-makes-a-hot-return-in-late-august.html\")

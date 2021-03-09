@@ -61,6 +61,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-29-diesel-cars-go-die/)
   card_citation: ''
+
 ---
 *   VW emissions scandal: German carmaker storing 300,000 diesels in ‘graveyards’  
     The German firm has agreed to buy back about 500,000 US vehicles in all following the scandal over diesel emissions.A [https://news.sky.com/story/vw-emissions-scandal-german-carmaker-storing-300000-diesels-in-graveyards-11308274](\"https://news.sky.com/story/vw-emissions-scandal-german-carmaker-storing-300000-diesels-in-graveyards-11308274\")

@@ -30,6 +30,7 @@ featured_quote:
     President Trump in a farewell address shared the afternoon before the end of
     his presidential term.
   citation: ''
+
 ---
 *   The President spoke for nearly 20 minutes in a recorded address. Here’s the [TEXT](\"https://www.whitehouse.gov/briefings-statements/remarks-president-trump-farewell-address-nation/\").
 *   He listed what he perceives as the most notable accomplishments of his term – including the economy, introduction of the Space Force, “historic peace deals in the Middle East,” confronting China, and says he is “especially proud to be the first President in decades who has started no new wars.”

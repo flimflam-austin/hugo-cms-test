@@ -28,6 +28,7 @@ featured_quote:
     indicating he will not invoke the 25th Amendment to remove Pres. Trump from
     office.
   citation: ''
+
 ---
 *   **25th Amendment:** Under the 25th Amendment, the Vice President and a majority of the President’s Cabinet may declare the President unfit, allowing the Vice President to become acting president.
     *   On Tuesday, the House debated a [resolution](\"https://www.speaker.gov/sites/speaker.house.gov/files/1.10.21_25thAmendmentResolution%5BFOR%20INTRO%5D.pdf\") calling on the Vice President to invoke the 25th based on Pres. Trump’s inability to “_successfully discharge the duties and powers of his office_” because of his words and actions surrounding the U.S. Capitol riot.

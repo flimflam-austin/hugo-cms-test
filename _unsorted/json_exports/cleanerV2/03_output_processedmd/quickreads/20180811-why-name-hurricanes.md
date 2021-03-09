@@ -65,6 +65,7 @@ card_10:
 
     [view sources](https://smarthernews.com/why-name-hurricanes/)
   card_citation: ''
+
 ---
 *   **Why do we name tropical storms and hurricanes?**  
     [https://oceanservice.noaa.gov/facts/storm-names.html](\"https://oceanservice.noaa.gov/facts/storm-names.html\")

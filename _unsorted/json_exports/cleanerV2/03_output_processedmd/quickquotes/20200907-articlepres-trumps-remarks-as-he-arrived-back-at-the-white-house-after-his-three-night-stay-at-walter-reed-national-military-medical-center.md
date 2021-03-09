@@ -23,6 +23,7 @@ featured_quote:
     Pres. Trump’s remarks as he arrived back at the White House after his
     three-night stay at Walter Reed National Military Medical Center.
   citation: ''
+
 ---
 *   **THE LATEST:**  On Monday afternoon, the President’s doctor announced that the President would return to the White House. Dr. Sean Conley [explained](\"https://www.c-span.org/video/?476637-1/dr-sean-conley-confirms-president-trump-return-white-house\") that although Pres. Trump met the standards for discharge criteria, he “_**may not entirely be out of the woods yet**_.”
     *   Dr. Coney said it’s been more than 72 hours since the President’s last fever and that his oxygen levels are normal.

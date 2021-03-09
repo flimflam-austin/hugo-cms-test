@@ -15,11 +15,12 @@ color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/marcus-wallis-471449-unsplash-scaled.jpg
 card_1:
-  card_text: "> **_“Therea\x19s power in love._**\n> \n> **_Dona\x19t underestimate it._**\n> \n> **_Dona\x19t even over-sentimentalize it._**\n> \n> **_Therea\x19s power – power in love.”_**\n> \n> Bishop Michael Curry, the first black presiding bishop of the Episcopal Church, in his address at the royal wedding."
+  card_text: "> **_“Thereax19s power in love._**n> n> **_Donax19t underestimate it._**n> n> **_Donax19t even over-sentimentalize it._**n> n> **_Thereax19s power – power in love.”_**n> n> Bishop Michael Curry, the first black presiding bishop of the Episcopal Church, in his address at the royal wedding."
   card_citation: ''
 card_10:
-  card_text: "\"If Pippa was the unexpected star of Katea\x19s wedding, Michael Curry is the star of this one. Wonderful, wonderful sermon.\" @FraserNelson Editor of The Spectator, columnist for the Daily Telegraph.\n\n[view sources](https://smarthernews.com/18-05-21-michael-curry-address-royal-wedding/)"
+  card_text: ""If Pippa was the unexpected star of Kateax19s wedding, Michael Curry is the star of this one. Wonderful, wonderful sermon." @FraserNelson Editor of The Spectator, columnist for the Daily Telegraph.nn[view sources](https://smarthernews.com/18-05-21-michael-curry-address-royal-wedding/)"
   card_citation: ''
+
 ---
 Follow Bishop Curry:A @PB\_Curry
 

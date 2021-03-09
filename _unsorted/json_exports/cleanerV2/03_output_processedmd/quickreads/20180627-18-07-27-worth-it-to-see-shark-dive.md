@@ -70,6 +70,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-07-27-worth-it-to-see-shark-dive/)
   card_citation: ''
+
 ---
 **The diving company:**A [http://www.sharkdivingunlimited.com/](\"http://www.sharkdivingunlimited.com/\")
 

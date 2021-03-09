@@ -25,6 +25,7 @@ featured_quote:
     bipartisan bill that would decriminalize marijuana at the federal level,
     leaving it to the states to regulate marijuana.
   citation: ''
+
 ---
 *   **ABOUT:** The [House](\"https://www.congress.gov/bill/116th-congress/house-bill/3884\") bill would (1) remove marijuana from the list of federally controlled substances, (2) authorize a sales tax on marijuana products, and (3) allow for federal courts to expunge prior marijuana convictions.
     *   The House bill is technically “bipartisan” because one of its 93 cosponsors is Florida Republican Rep. Matt Gaetz.

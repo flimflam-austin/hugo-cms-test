@@ -25,6 +25,7 @@ featured_quote:
     1,000 Georgia National Guard troops” after violence over the weekend in the
     city of Atlanta, left 5 dead including an 8-year-old girl.
   citation: ''
+
 ---
 *   In addition to those confirmed dead, at least [30 people were injured by gunfire over the weekend](\"https://madmimi.com/s/328cf01\").
 *   The city has reeled from protests after the death of George Floyd in police custody in Minnesota, and the shooting death of Rayshard Brooks in Atlanta.

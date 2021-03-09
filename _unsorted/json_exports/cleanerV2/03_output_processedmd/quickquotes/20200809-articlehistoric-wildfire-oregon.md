@@ -26,6 +26,7 @@ featured_quote:
     Oregon Gov. Kate Brown as the state battles 35 wildfires, engulfing 300,000+
     acres.
   citation: ''
+
 ---
 *   **HOW IT HAPPENED: ** Oregon is experiencing its worst drought in about [30](\"https://www.facebook.com/oregongovernor/posts/2681994935392373\") years, which has caused record dry forest conditions. On Monday, a windstorm moved through parts of the state. The high winds mixed with the dry vegetation added ammunition to existing fires and ignited news ones, requiring thousands to flee from their homes.
 *   **LATEST:** Officials don’t yet know how many lives have been lost, though [Gov. Brown](\"https://www.youtube.com/watch?v=S9OUT6QNK9k&ab_channel=OregonPublicHealthDivision\") said that at least hundreds of homes have been destroyed. The state’s chief deputy fire marshal explained there many areas where firefighters cannot yet reach due to the extreme conditions.

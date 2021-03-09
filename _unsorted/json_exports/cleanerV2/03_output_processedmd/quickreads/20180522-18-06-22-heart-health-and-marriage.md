@@ -69,6 +69,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-22-heart-health-and-marriage/)
   card_citation: ''
+
 ---
 *   **Marriage Is Out of Fashion. So Why Is Tiffany Selling More Engagement Rings?**A [https://www.wsj.com/articles/marriage-is-out-of-fashion-so-why-is-tiffany-selling-more-engagement-rings-1529487001](\"https://www.wsj.com/articles/marriage-is-out-of-fashion-so-why-is-tiffany-selling-more-engagement-rings-1529487001\")
 *   **Marital status and risk of cardiovascular diseases: a systematic review and meta-analysis**A [https://heart.bmj.com/content/early/2018/06/06/heartjnl-2018-313005](\"https://heart.bmj.com/content/early/2018/06/06/heartjnl-2018-313005\")

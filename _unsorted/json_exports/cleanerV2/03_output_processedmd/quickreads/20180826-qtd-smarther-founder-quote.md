@@ -30,5 +30,6 @@ card_10:
 
     [view sources](https://smarthernews.com/qtd-smarther-founder-quote/)
   card_citation: ''
+
 ---
 [https://smarthernews.com/about/](\"https://smarthernews.com/about/\")

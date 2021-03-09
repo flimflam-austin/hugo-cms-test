@@ -97,6 +97,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-11-27-baby-gene-editing/)
   card_citation: ''
+
 ---
 *   **AP Exclusive:A Chinese researcher claims first gene-edited babies:**  
     [https://www.apnews.com/4997bb7aa36c45449b488e19ac83e86d](\"https://www.apnews.com/4997bb7aa36c45449b488e19ac83e86d\")

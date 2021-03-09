@@ -31,7 +31,7 @@ card_1:
     What We Know
   card_citation: What We Know
 card_2:
-  card_text: "> “As children are separated from their families, law enforcement agents reclassify them from members of family units to a\x1Cunaccompanied alien children.a\x1D Federal officials said Tuesday that **since May, they have separated 2,342 children** from their families, **rendering them unaccompanied minors** in the governmenta\x19s care.”\n> \n> Garance Burke and Martha Mendoza, Associated Press, June 19, 2018"
+  card_text: "> “As children are separated from their families, law enforcement agents reclassify them from members of family units to ax1Cunaccompanied alien children.ax1D Federal officials said Tuesday that **since May, they have separated 2,342 children** from their families, **rendering them unaccompanied minors** in the governmentax19s care.”n> n> Garance Burke and Martha Mendoza, Associated Press, June 19, 2018"
   card_citation: ''
 card_3:
   card_text: >-
@@ -61,12 +61,12 @@ card_4:
     Resettlement differs.
 
     *   U.S. Border Patrol deals with apprehensions, Office of Refugee
-    Resettlement cares for children \*when they stay in govt custody\*.
+    Resettlement cares for children *when they stay in govt custody*.
 
     *   **Unaccompanied children = anyone younger than 18.**
   card_citation: ''
 card_5:
-  card_text: "Age & Gender\n------------\n\n*   Most recent data from 2017 for children unaccompanied \\*or\\* separated **who stayed in govt custody**.\n*   Majority **over the age of 15** (69%).\n*   **68% Male**\_vs. 32% Female.\n*   This doesn’t reflect current data on “separated children” but these trends hold for the past 5 years."
+  card_text: "Age & Gendern------------nn*   Most recent data from 2017 for children unaccompanied *or* separated **who stayed in govt custody**.n*   Majority **over the age of 15** (69%).n*   **68% Male**_vs. 32% Female.n*   This doesn’t reflect current data on “separated children” but these trends hold for the past 5 years."
   card_citation: ''
 card_6:
   card_text: >-
@@ -97,6 +97,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-06-20-children-separated-from-families-at-border-what-we-know/)
   card_citation: ''
+
 ---
 *   **Good Read: What We Know: Family Separation And ‘Zero Tolerance’ At The Border:A** [https://www.npr.org/2018/06/19/621065383/what-we-know-family-separation-and-zero-tolerance-at-the-border](\"https://www.npr.org/2018/06/19/621065383/what-we-know-family-separation-and-zero-tolerance-at-the-border\")
 *   **Unaccompanied Alien Children Released to Sponsors By State**A [https://www.acf.hhs.gov/orr/resource/unaccompanied-alien-children-released-to-sponsors-by-state](\"https://www.acf.hhs.gov/orr/resource/unaccompanied-alien-children-released-to-sponsors-by-state\")

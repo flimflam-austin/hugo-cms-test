@@ -27,6 +27,7 @@ featured_quote:
     A federal judge overturning the 2013 Boston Marathon bomber’s death
     sentences.
   citation: ''
+
 ---
 *   **Background:** In 2015, then 21-year-old Dzhokhar Tsarnaev was convicted of 30 counts by a federal jury for his involvement in the 2013 Boston Marathon bombing, which left three dead and more than 260 others wounded – many with permanent injures.
     *   During the trial, Tsarnaev’s legal team argued he was not fully responsible because the plot was masterminded by his older brother, who died during a shootout with police in the aftermath of the bombing.

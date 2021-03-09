@@ -27,6 +27,7 @@ featured_quote:
     Qantas CEO Alan Joyce on potentially requiring international passengers to
     show proof they received the COVID-19 vaccine as a “passport” to travel.
   citation: ''
+
 ---
 *   [Qantas airlines](\"https://www.qantas.com/us/en.html\") is based in Australia.
 *   Joyce was [interviewed on a major Australian broadcast network](\"https://www.cbsnews.com/news/qantas-airlines-covid-19-vaccine-alan-joyce/\"). He did not offer comprehensive details on the practicalities of how checking a passenger’s vaccine status would take place, but suggested [electronically verifying vaccination records](\"https://www.usatoday.com/story/travel/airline-news/2020/11/23/vaccination-passport-qantas-looking-new-requirement-travelers/6402846002/\") for international travelers specifically.

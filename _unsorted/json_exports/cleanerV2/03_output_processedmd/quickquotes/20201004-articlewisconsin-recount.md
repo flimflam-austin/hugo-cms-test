@@ -27,6 +27,7 @@ featured_quote:
     Pres. Trump’s campaign manager announcing they’ll request a recount of
     Wisconsin ballots.
   citation: ''
+
 ---
 *   Recount laws vary by state. In Wisconsin, there are no automatic recounts, but a candidate may request a recount if they are within 1% of their opponent.
 *   According to the latest results, Joe Biden leads the Pres. Trump by approximately 20,500 votes with 99% of districts reports. As a result, many news outlets have declared Joe Biden the winner of Wisconsin.

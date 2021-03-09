@@ -27,6 +27,7 @@ featured_quote:
     COVID-19 clinical vaccine trial, due to an unexplained illness in a
     participant.
   citation: ''
+
 ---
 *   On October 12, Johnson & Johnson (J&J) [announced](\"https://www.jnj.com/our-company/johnson-johnson-temporarily-pauses-all-dosing-in-our-janssen-covid-19-vaccine-candidate-clinical-trials\") it will pause all of its single-dose and two-dose regimen trials, including its Phase III [ENSEMBLE](\"https://www.jnj.com/coronavirus/covid-19-phase-3-study-clinical-protocol\") trial, which began in September and aimed to enroll up to 60,000 participants.
     *   We don’t know exactly what the “unexplained illness” involves, but J&J notes that study pauses due to adverse events are common.

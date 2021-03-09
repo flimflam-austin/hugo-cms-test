@@ -29,6 +29,7 @@ featured_quote:
     Russian Pres. Vladimir Putin, responding to protests in Russia *against* the
     arrest of one of Putin’s critics.
   citation: ''
+
 ---
 *   Name to know: **Alexei Navalny**, an opposition leader against Vladmir Putin.
 *   He’s been described as a “blogger” or an “anti-corruption campaigner” or a “protest leader.” Bottom line – he has amassed a huge following of young Russians while critiquing the leadership of Putin and the Russian government. Here’s a good [backgrounder](\"https://www.bbc.com/news/world-europe-16057045\") on Navalny.

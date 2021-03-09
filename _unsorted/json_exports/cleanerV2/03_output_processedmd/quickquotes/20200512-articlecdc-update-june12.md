@@ -23,6 +23,7 @@ featured_quote:
     CDC Director Robert Redfield during a COVID-19 update as the CDC provides
     more guidance on socializing in different scenarios.
   citation: ''
+
 ---
 *   Media-telebriefing held by CDC Dir Robert Redfield and CDC’s Deputy Director of Infectious Diseases and COVID-19 Response Incident Jay Butler.
 *   CDC says as far as **navigating increased socializing, Dr. Butler says here’s a general rule of thumb**: the closer you are to other people, the longer interaction lasts, and the greater number of people you may interact with = higher risk of infection/spread.

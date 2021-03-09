@@ -15,7 +15,7 @@ color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/aaron-burden-97663-unsplash-scaled-e1592171934379.jpg
 card_1:
-  card_text: "Memorial Day Reflection\n-----------------------\n\n> “This is why I am passionate about being a journalist; this is why I startedA SmartHER News. This is why I write. This is my sliver of service. We must protect our stories. We must tell them, accurately and compelling, so we dona\x19t forget.A “\n> \n> Jenna Lee Babin, Founder, SmartHER News in a personal Memorial Day essay"
+  card_text: "Memorial Day Reflectionn-----------------------nn> “This is why I am passionate about being a journalist; this is why I startedA SmartHER News. This is why I write. This is my sliver of service. We must protect our stories. We must tell them, accurately and compelling, so we donax19t forget.A “n> n> Jenna Lee Babin, Founder, SmartHER News in a personal Memorial Day essay"
   card_citation: ''
 card_10:
   card_text: |-
@@ -23,6 +23,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-05-26-excerpt-memorial-day/)
   card_citation: ''
+
 ---
 Memorial Day:
 

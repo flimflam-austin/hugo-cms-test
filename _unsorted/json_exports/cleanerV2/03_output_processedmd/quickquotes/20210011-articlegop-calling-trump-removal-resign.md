@@ -31,6 +31,7 @@ featured_quote:
     Sen. Pat Toomey (R-PA), the second Republican senator calling for Pres.
     Trump to resign.
   citation: ''
+
 ---
 In the aftermath of last week’s riot at the U.S. Capitol several lawmakers have called for the President to resign, be impeached, or be removed under the 25th Amendment — most are Democrats, but some are Republicans.
 

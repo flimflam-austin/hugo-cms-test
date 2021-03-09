@@ -30,6 +30,7 @@ featured_quote:
     Pres. Trump, in an executive order suspending certain temporary work visas
     through the end of the year.
   citation: ''
+
 ---
 *   The [order](\"https://www.whitehouse.gov/presidential-actions/proclamation-suspending-entry-aliens-present-risk-u-s-labor-market-following-coronavirus-outbreak/\") expands upon and extends a 60-day executive order issued in April mandating a 60-day pause on green cards for certain immigrants outside the U.S., by suspending job-related nonimmigrant temporary visas, including those issued for highly skilled workers, seasonal workers, and their spouses.
 *   Pres. Trump said the order is necessary to preserve jobs for Americans amid the COVID-19 outbreak because the threat of high unemployment if labor supply outpaces labor demand remains, stating:

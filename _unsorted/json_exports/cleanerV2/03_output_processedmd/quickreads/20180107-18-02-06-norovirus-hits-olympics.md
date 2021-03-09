@@ -32,6 +32,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-06-norovirus-hits-olympics/)
   card_citation: ''
+
 ---
 1.  What Is Norovirus?A https://www.livescience.com/42944-what-is-norovirus.html
 2.  Military to cover for norovirus-hit Winter Olympics securityA [https://www.nbcnews.com/storyline/winter-olympics-2018/1-200-security-workers-pyeongchang-olympics-tested-norovirus-n845011](\"https://www.nbcnews.com/storyline/winter-olympics-2018/1-200-security-workers-pyeongchang-olympics-tested-norovirus-n845011\")

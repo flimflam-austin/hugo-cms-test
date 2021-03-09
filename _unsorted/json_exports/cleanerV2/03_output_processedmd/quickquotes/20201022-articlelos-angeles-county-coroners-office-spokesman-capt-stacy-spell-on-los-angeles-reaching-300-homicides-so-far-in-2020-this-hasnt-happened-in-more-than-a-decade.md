@@ -25,6 +25,7 @@ featured_quote:
     Angeles reaching 300 homicides so far in 2020 – this hasn’t happened in more
     than a decade.
   citation: ''
+
 ---
 *   Both shootings and killings have increased in one of America’s largest cities.
 *   During the 1980s/1990s, [Los Angeles experienced more than 1,000 homicides during certain years](\"https://www.latimes.com/california/story/2020-11-22/los-angeles-hits-300-homicides-first-time-in-a-decade\") – but since 2009, homicides were below 300.

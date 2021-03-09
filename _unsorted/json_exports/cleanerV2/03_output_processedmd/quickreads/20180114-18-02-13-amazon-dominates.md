@@ -96,6 +96,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-13-amazon-dominates/)
   card_citation: ''
+
 ---
 *   Apple and Amazona\\u0019s moves in health signal a coming transformation [https://www.economist.com/news/business/21736193-worlds-biggest-tech-firms-see-opportunity-health-care-which-could-mean-empowered](\"https://www.economist.com/news/business/21736193-worlds-biggest-tech-firms-see-opportunity-health-care-which-could-mean-empowered\")
 *   Amazon Makes Up 43 Percent of All Online Sales (and 6 Other Insane Stats About Jeff Bezos’s Company)A [https://www.inc.com/business-insider/facts-about-amazon-jeff-bezos-seattle-2017.html](\"https://www.inc.com/business-insider/facts-about-amazon-jeff-bezos-seattle-2017.html\")

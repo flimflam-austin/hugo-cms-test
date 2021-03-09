@@ -23,6 +23,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-26-white-hat-melania/)
   card_citation: ''
+
 ---
 *   **First Lady Melania Trump Wears Chanel for First State Dinner, While Brigitte Macron Sports Louis Vuitton:** [http://wwd.com/fashion-news/fashion-scoops/first-lady-melania-trump-chanel-first-state-dinner-while-brigitte-macron-sports-louis-vuitton-1202659933/](\"http://wwd.com/fashion-news/fashion-scoops/first-lady-melania-trump-chanel-first-state-dinner-while-brigitte-macron-sports-louis-vuitton-1202659933/\")
 *   **Melania Trumpa\\u0019s Stylist HervA(C) Pierre Talks Macronsa\\u0019 State Dinner, Crashing at the White House:** [http://wwd.com/eye/people/melania-trumps-stylist-herve-pierre-talks-macrons-state-dinner-crashing-at-the-white-house-1202659592/](\"http://wwd.com/eye/people/melania-trumps-stylist-herve-pierre-talks-macrons-state-dinner-crashing-at-the-white-house-1202659592/\")

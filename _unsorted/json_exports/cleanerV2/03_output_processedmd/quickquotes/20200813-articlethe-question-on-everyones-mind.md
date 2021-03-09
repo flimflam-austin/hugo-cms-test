@@ -25,6 +25,7 @@ featured_quote:
     Portland, OR resident Danielle Oliver, asking the question on everyone’s
     mind.
   citation: ''
+
 ---
 *   **PROTESTS:** Both peaceful protests and violent riots have occurred in Portland, Oregon over the last 100 days. Portland is just one of many cities across the country where protesters have taken to the streets in the wake of the fatal shooting of [George Floyd](\"https://smarthernews.com/article/developing-story-the-death-of-george-floyd/\") in Minneapolis on Memorial Day.
 *   **COVID-19:** Speaking on Friday, [Dr. Fauci](\"https://www.cnn.com/2020/09/11/health/us-coronavirus-friday/index.html\") indicated the U.S. is not yet “rounding the corner”, citing the more than 6 million U.S. and 190,000 deaths across the country, with up to 4,000 new cases and 1,000 deaths being reported daily.

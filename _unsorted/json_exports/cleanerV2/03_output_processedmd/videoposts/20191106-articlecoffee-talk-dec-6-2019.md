@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   The Real Housewives of NATO, the latest on impeachment, the lessons from Rosa
   Parks and a personal announcement on some developments for SmartHER News.
+
 ---

@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   What does the new coronavirus pandemic truly look like in America right now? A
   new school-opening strategy and a potentially game-changer COVID test.
+
 ---

@@ -81,6 +81,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-07-mississippi-abortion-bill/)
   card_citation: ''
+
 ---
 *   Mississippi Legislature Approves Bill Banning Abortions After 15 Weeks: [https://www.npr.org/sections/thetwo-way/2018/03/08/591972992/mississippi-legislature-approves-bill-banning-abortions-after-15-weeks](\"https://www.npr.org/sections/thetwo-way/2018/03/08/591972992/mississippi-legislature-approves-bill-banning-abortions-after-15-weeks\")
 *   Mississippi lawmakers approve ban on abortions after 15 weeks: [https://www.reuters.com/article/us-mississippi-abortion/mississippi-lawmakers-approve-ban-on-abortions-after-15-weeks-idUSKCN1GI2SW](\"https://www.reuters.com/article/us-mississippi-abortion/mississippi-lawmakers-approve-ban-on-abortions-after-15-weeks-idUSKCN1GI2SW\")

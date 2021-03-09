@@ -28,6 +28,7 @@ featured_quote:
     Epidemiologist Ellie Murray on the plexiglass barriers set up for the Vice
     Presidential debate.
   citation: ''
+
 ---
 *   **Backstory**: At the debate on Wednesday night, each candidate will be separated by 12 feet and have a plexiglass barrier.
 *   Plexiglass [sales have increased](\"https://www.cbsnews.com/news/plexiglass-demand-up-covid-19-coronavirus-sneeze-guard/\") in the pandemic as offices and businesses try to protect employees and customers.

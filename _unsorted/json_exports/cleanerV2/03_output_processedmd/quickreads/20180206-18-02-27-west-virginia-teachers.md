@@ -89,6 +89,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-27-west-virginia-teachers/)
   card_citation: ''
+
 ---
 *   West Virginia Raises Teachersa\\u0019 Pay to End Statewide Strike [https://www.cbsnews.com/news/ west-virginia-teachers-strike- jim-justice-tentative- agreement-walkout/](\"https://www.cbsnews.com/news/west-virginia-teachers-strike-jim-justice-tentative-agreement-walkout/\")
 *   Does West Virgina have the money?:A [https://www.npr.org/2018/02/ 27/589376887/west-virginia- teachers-ending-strike](\"https://www.npr.org/2018/02/)

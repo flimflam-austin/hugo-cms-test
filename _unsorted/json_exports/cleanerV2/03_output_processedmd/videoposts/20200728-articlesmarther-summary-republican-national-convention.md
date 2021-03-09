@@ -23,6 +23,7 @@ summary: >-
   With so many focused on style, let’s talk substance. Here’s what you should
   know about the RNC and the priority for BOTH PARTIES as we close-in on
   election day.
+
 ---
 Transcript and video from [President Trump’s speech](\"https://www.cnn.com/2020/08/28/politics/donald-trump-speech-transcript/index.html\")
 

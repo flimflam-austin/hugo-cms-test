@@ -1,8 +1,8 @@
 .sitefooter {
 	width: 100%;
-	border-top: $border-style-alpha;
 
 	&__section {
+		border-top: $border-style-alpha;
 		padding-top: 4rem;
 		padding-bottom: 4rem;
 		background-color: $color-brand-gray-10;
@@ -13,28 +13,44 @@
 	}
 
 	&__content {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		width: 100%;
 	}
 
 	&__brand {
 		width: 100%;
 		max-width: 600px;
 		margin: 0 auto;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
 	}
 
 	&__logo-link {
+		display: inline-block;
 		width: auto;
 		height: auto;
+		margin: 0 auto;
 	}
 
 	&__logo {
 		width: 200px;
 		height: 28.2px;
+		margin: 0 auto;
+		padding-bottom: 2rem;
+	}
+
+	&__blurb {
+		text-align: center;
 	}
 
 	& .sitefooternav {
 		width: 100%;
 		max-width: 600px;
 		margin: 0 auto;
+		padding-top: 4rem;
 
 		grid-column: 1/-1;
 
@@ -47,6 +63,10 @@
 
 		&__title {
 			text-align: center;
+			font-size: $fs-base;
+			text-transform: uppercase;
+			@include beta-regular;
+			color: $color-black;
 		}
 
 		&__links {
@@ -54,6 +74,18 @@
 			padding-left: 0;
 			margin: 0;
 			list-style-type: none;
+		}
+
+		&__link {
+			display: inline-block;
+			font-size: $fs-sm;
+			color: $color-black;
+			text-transform: capitalize;
+			@include alpha-regular;
+
+			padding-top: 1rem;
+
+			@include hover-link;
 		}
 	}
 
@@ -75,9 +107,14 @@
 .footer-cta {
 	&__tagline {
 		@include typo-title-01;
+		text-align: center;
 
 		&--sub {
 			@include typo-subtitle-01;
+			display: inline-block;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 1rem;
 		}
 	}
 }

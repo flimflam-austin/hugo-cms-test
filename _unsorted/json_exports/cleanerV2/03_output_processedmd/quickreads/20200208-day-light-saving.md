@@ -99,6 +99,7 @@ card_10:
 
     [view sources](https://smarthernews.com/day-light-saving/)
   card_citation: ''
+
 ---
 *   **Daylight Saving Time**  
     [https://smarthernews.com/18-03-10-daylight-saving/](\"https://smarthernews.com/18-03-10-daylight-saving/\")

@@ -25,6 +25,7 @@ featured_quote:
     Tropical Medicine. He co-discovered one of the world’s infectious diseases,
     Ebola and this year, became ill with COVID-19.
   citation: ''
+
 ---
 *   Piot continues to recover after 5 months of battling the disease brought on by SARS-COV-2. He says of the new coronavirus, ““We underestimated it.”
 

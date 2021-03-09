@@ -22,6 +22,7 @@ featured_image:
 summary: >-
   From COVID-19 infections, to the economy, to election, updates on the major
   stories of 2020.
+
 ---
 More info:
 

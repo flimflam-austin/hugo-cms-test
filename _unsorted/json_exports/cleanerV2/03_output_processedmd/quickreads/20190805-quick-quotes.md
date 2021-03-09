@@ -27,7 +27,7 @@ card_1:
     while we're closed."
   card_citation: ''
 card_2:
-  card_text: "> “For all of you that have made a fortune in the markets, or seen your 401Ks rise beyond your wildest expectations, more good news is coming!a\x19\n> \n> President Trump on Twitter praising the recent rally in the stock market. It is not immediately clear what the good news might be, but some suggest it may be a trade deal with Mexico, and possibly Canada."
+  card_text: "> “For all of you that have made a fortune in the markets, or seen your 401Ks rise beyond your wildest expectations, more good news is coming!ax19n> n> President Trump on Twitter praising the recent rally in the stock market. It is not immediately clear what the good news might be, but some suggest it may be a trade deal with Mexico, and possibly Canada."
   card_citation: ''
 card_3:
   card_text: >-
@@ -41,10 +41,10 @@ card_3:
     knew what & when.
   card_citation: ''
 card_4:
-  card_text: "> a\x1CThis hotbed of terrorists (in Idlib) does really not bode anything good if such inaction continues.a\x1D\n> \n> Dmitry Peskov, Kremlin spokesman, announcing Russia's Ministry of Defense will hold a major naval exercise in the Mediterranean Sea September 1-8. Idlib is the last major area held by rebels opposed to Syria's President & sources say the President is determined to retake it."
+  card_text: "> ax1CThis hotbed of terrorists (in Idlib) does really not bode anything good if such inaction continues.ax1Dn> n> Dmitry Peskov, Kremlin spokesman, announcing Russia's Ministry of Defense will hold a major naval exercise in the Mediterranean Sea September 1-8. Idlib is the last major area held by rebels opposed to Syria's President & sources say the President is determined to retake it."
   card_citation: ''
 card_5:
-  card_text: "> a\x1CHow are you going to market a tasteless apple when the consumer has tasted so many good apples?a\x1D\n> \n> Tom Buford, an apple historian, as Gala cuts short Red Delicious's nearly half-century reign as America's most grown apple. The decline of Red Delicious is blamed on consumers wanting crispier, sweeter apples. The Granny Smith will be the 3rd most grown apple."
+  card_text: "> ax1CHow are you going to market a tasteless apple when the consumer has tasted so many good apples?ax1Dn> n> Tom Buford, an apple historian, as Gala cuts short Red Delicious's nearly half-century reign as America's most grown apple. The decline of Red Delicious is blamed on consumers wanting crispier, sweeter apples. The Granny Smith will be the 3rd most grown apple."
   card_citation: ''
 card_10:
   card_text: |-
@@ -52,6 +52,7 @@ card_10:
 
     [view sources](https://smarthernews.com/quick-quotes/)
   card_citation: ''
+
 ---
 *   **Indiana Chick-fil-A owner will pay employees who volunteer when store temporarily closes:**  
     [https://www.indystar.com/story/news/2018/08/29/plainfield-chick-fil-owner-pay-employees-community-service-temporary-closure-renovation/1119798002/](\"https://www.indystar.com/story/news/2018/08/29/plainfield-chick-fil-owner-pay-employees-community-service-temporary-closure-renovation/1119798002/\")

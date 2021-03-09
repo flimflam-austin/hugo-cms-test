@@ -29,6 +29,7 @@ featured_quote:
     weather and holiday travel, meaning we’re unlikely to see a relaxation of
     preventative COVID-19 measures anytime soon.
   citation: ''
+
 ---
 *   [Dr. Fauci](\"https://abcnews.go.com/Politics/week-transcript-11-29-20-dr-anthony-fauci/story?id=74446435\") added there will “almost certainly” be an uptick in the weeks ahead due to Thanksgiving holiday travel.
     *   On Sunday, the [TSA](\"https://www.tsa.gov/coronavirus/passenger-throughput\") screened the most passengers (1.1 million) in a single day since mid-March, topping off a week that reported more than 6.4 million  air travelers – that’s a massive increase compared to recent months, but still 10 million less compared to the Thanksgiving holiday week in 2019.

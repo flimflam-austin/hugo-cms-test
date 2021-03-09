@@ -38,6 +38,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-07-04-podcast-washingtons-crossing/)
   card_citation: ''
+
 ---
 A note f_rom our founder, Jenna Lee Babin, adapted from the SmartHER Podcast._
 

@@ -15,7 +15,7 @@ color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/damir-bosnjak-226653-unsplash-scaled.jpg
 card_1:
-  card_text: "FBI RAID\n========\n\nPrez’s Personal Lawyer\n----------------------\n\n*   **Who:** Michael Cohen, President Trumpa\x19s top attorney.\n*   **What:** FBI seized personal records & communication.\n*   **Where:** NYC office & residences.\n*   **When:** Monday morning.\n*   **How:** Warrants from NY Feds.\n\nwhy? Flip Card"
+  card_text: "FBI RAIDn========nnPrez’s Personal Lawyern----------------------nn*   **Who:** Michael Cohen, President Trumpax19s top attorney.n*   **What:** FBI seized personal records & communication.n*   **Where:** NYC office & residences.n*   **When:** Monday morning.n*   **How:** Warrants from NY Feds.nnwhy? Flip Card"
   card_citation: why? Flip Card
 card_2:
   card_text: >-
@@ -37,7 +37,7 @@ card_2:
     Flip: Crucial Context
   card_citation: 'Flip: Crucial Context'
 card_3:
-  card_text: "Who Is Michael Cohen?\n---------------------\n\na\x1CIa\x19m the guy who would take a bullet for the president”\n\n*   New York native\n*   Former taxi cab fleet manager\n*   Personal injury attorney\n*   Worked for Trump organization since 2006\n*   NEVER officially part of campaign or White House"
+  card_text: "Who Is Michael Cohen?n---------------------nnax1CIax19m the guy who would take a bullet for the president”nn*   New York nativen*   Former taxi cab fleet managern*   Personal injury attorneyn*   Worked for Trump organization since 2006n*   NEVER officially part of campaign or White House"
   card_citation: ''
 card_4:
   card_text: >-
@@ -56,8 +56,9 @@ card_4:
     Debates about this payment have emerged: **Is it legal or ethical?**
   card_citation: ''
 card_10:
-  card_text: "a\x1CA search warrant for a law office is extremely rare. Lawyers are given the courtesy of producing documents in response to a subpoena ... unless the government believes a lawyer will destroy or conceal the objects of the search.a\x1D Stephen Gillers, NYU School of Law.\n\n[view sources](https://smarthernews.com/18-04-10-raid-trump-lawyer/)"
+  card_text: "ax1CA search warrant for a law office is extremely rare. Lawyers are given the courtesy of producing documents in response to a subpoena ... unless the government believes a lawyer will destroy or conceal the objects of the search.ax1D Stephen Gillers, NYU School of Law.nn[view sources](https://smarthernews.com/18-04-10-raid-trump-lawyer/)"
   card_citation: ''
+
 ---
 *   F.B.I. Raids Office of Trumpa\\u0019s Longtime Lawyer Michael Cohen; Trump Calls It a\\u0018Disgracefula\\u0019 [https://www.nytimes.com/2018/04/09/us/politics/fbi-raids-office-of-trumps-longtime-lawyer-michael-cohen.html](\"https://www.nytimes.com/2018/04/09/us/politics/fbi-raids-office-of-trumps-longtime-lawyer-michael-cohen.html\")
 *   Trump furious after FBI raids office of personal lawyer, seizes documents: [http://abc30.com/politics/trump-furious-after-fbi-raids-office-of-personal-lawyer-seizes-documents/3320395/](\"http://abc30.com/politics/trump-furious-after-fbi-raids-office-of-personal-lawyer-seizes-documents/3320395/\")

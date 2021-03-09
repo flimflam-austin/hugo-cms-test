@@ -15,7 +15,7 @@ color_palette_classname: light-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/patrick-tomasso-472279-unsplash-scaled.jpg
 card_1:
-  card_text: "NEW WEEK:  \nNew Florida Gun Laws  \n\n-----------------------------------\n\nNew laws passedA **23 days** after one of the deadliest school shootings in American history.\n\n_a\x1CIta\x19s an example to the entire country that government can and has moved fast.a\x1D_A FL Gov. Rick Scott, March 9, 2018\n\nFlip: Break In Case?"
+  card_text: "NEW WEEK:  nNew Florida Gun Laws  nn-----------------------------------nnNew laws passedA **23 days** after one of the deadliest school shootings in American history.nn_ax1CItax19s an example to the entire country that government can and has moved fast.ax1D_A FL Gov. Rick Scott, March 9, 2018nnFlip: Break In Case?"
   card_citation: 'Flip: Break In Case?'
 card_2:
   card_text: >-
@@ -88,6 +88,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-09-shooter-update-florida/)
   card_citation: ''
+
 ---
 *   Florida governor signs gun control bill that would allow teachers to beA armed: [https://nypost.com/2018/03/09/florida-governor-signs-gun-control-bill-that-would-allow-teachers-to-be-armed/](\"https://nypost.com/2018/03/09/florida-governor-signs-gun-control-bill-that-would-allow-teachers-to-be-armed/?utm_campaign=SocialFlow&utm_source=NYPTwitter&utm_medium=SocialFlow\")
 *   Behind Cruz’s Florida Rampage, Obama’s School-Leniency Policy: [https://www.realclearinvestigations.com/articles/2018/02/28/obama\_administration\_school\_discipline\_policy\_and\_the\_parkland\_shooting.html](\"https://www.realclearinvestigations.com/articles/2018/02/28/obama_administration_school_discipline_policy_and_the_parkland_shooting.html\")

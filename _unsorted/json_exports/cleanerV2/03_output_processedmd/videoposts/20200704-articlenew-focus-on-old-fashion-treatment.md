@@ -17,6 +17,7 @@ featured_image:
   image: https://smarthernews.com/wp-content/uploads/2019/03/coffee_960.jpg
   alt: ''
 summary: 'Plus – What are you drinking during the pandemic? (Hint: It’s not coffee)'
+
 ---
 **Additional Resources:**
 

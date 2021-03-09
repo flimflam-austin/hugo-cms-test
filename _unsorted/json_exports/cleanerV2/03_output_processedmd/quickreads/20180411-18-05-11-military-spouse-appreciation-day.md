@@ -65,6 +65,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-05-11-military-spouse-appreciation-day/)
   card_citation: ''
+
 ---
 *   **Remarks by President Trump at the Celebration of Military Mothers and Spouses Event:** [https://www.whitehouse.gov/briefings-statements/remarks-president-trump-celebration-military-mothers-spouses-event/](\"https://www.whitehouse.gov/briefings-statements/remarks-president-trump-celebration-military-mothers-spouses-event/\")
 *   **Military Spouses in the Labor Market:** [https://www.whitehouse.gov/wp-content/uploads/2018/05/Military-Spouses-in-the-Labor-Market.pdf](\"https://www.whitehouse.gov/wp-content/uploads/2018/05/Military-Spouses-in-the-Labor-Market.pdf\")

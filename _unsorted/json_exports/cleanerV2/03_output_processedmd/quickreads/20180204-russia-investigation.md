@@ -30,7 +30,7 @@ card_1:
     How Did We Get Here?
   card_citation: How Did We Get Here?
 card_2:
-  card_text: "**MAY 2017:**\n\nFormer FBI Director **Robert Mueller** is appointed by the Deputy Attorney General Rod Rosenstein to lead an investigation into the Russian governmenta\x19s efforts to interfere with America’s 2016 Presidential election\n\n**FYI:** Attorney General Jeff Sessions recused himself from Russia inquiry"
+  card_text: "**MAY 2017:**nnFormer FBI Director **Robert Mueller** is appointed by the Deputy Attorney General Rod Rosenstein to lead an investigation into the Russian governmentax19s efforts to interfere with America’s 2016 Presidential electionnn**FYI:** Attorney General Jeff Sessions recused himself from Russia inquiry"
   card_citation: ''
 card_3:
   card_text: >-
@@ -81,7 +81,7 @@ card_6:
     & feds agree to drop VA charges against him
   card_citation: ''
 card_7:
-  card_text: "> “Ita\x19s very clear that Russia meddled in the election. Ita\x19s also very clear that it didna\x19t have an impact on the election. And ita\x19s also very clear that the Trump campaign didna\x19t collude with the Russians in any way for this process to take place.”\n> \n> Press Secretary Sarah Sanders, Feb 20. 2018"
+  card_text: "> “Itax19s very clear that Russia meddled in the election. Itax19s also very clear that it didnax19t have an impact on the election. And itax19s also very clear that the Trump campaign didnax19t collude with the Russians in any way for this process to take place.”n> n> Press Secretary Sarah Sanders, Feb 20. 2018"
   card_citation: ''
 card_8:
   card_text: >-
@@ -115,6 +115,7 @@ card_9:
 card_10:
   card_text: '[view sources](https://smarthernews.com/russia-investigation/)'
   card_citation: ''
+
 ---
 *   Special Counsel’s Office: [https://www.justice.gov/sco](\"https://www.justice.gov/sco\")
 *   A timeline of key events in the Trump-Russia probe: [https://www.boston.com/news/politics/2017/10/31/a-timeline-of-key-events-in-the-trump-russia-probe](\"https://www.boston.com/news/politics/2017/10/31/a-timeline-of-key-events-in-the-trump-russia-probe\")

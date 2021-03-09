@@ -35,6 +35,7 @@ card_10:
     [view
     sources](https://smarthernews.com/senator-john-mccains-farewell-statement/)
   card_citation: ''
+
 ---
 *   **Farewell Statement from Senator John McCain:**  
     [https://www.johnmccain.com/2018/08/farewell-statement-from-senator-john-mccain/](\"https://www.johnmccain.com/2018/08/farewell-statement-from-senator-john-mccain/\")

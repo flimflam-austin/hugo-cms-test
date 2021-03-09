@@ -30,6 +30,7 @@ featured_quote:
     for the first at-home COVID-19 diagnostic test available without a
     prescription.
   citation: ''
+
 ---
 *   The nasal swab test by Australian manufacturer Ellume delivers results **via an app on your phone** and is expected to cost [$30](\"https://apnews.com/article/over-the-counter-home-coronavirus-test-ac070f4d42d9d7eacc486c9bed4ccaa0\").
 *   Unlike the other [225+](\"https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-antigen-test-first-over-counter-fully-home-diagnostic\") COVID-19 diagnostic tests approved this year by the FDA, Ellume’s is available **over-the-counter**.

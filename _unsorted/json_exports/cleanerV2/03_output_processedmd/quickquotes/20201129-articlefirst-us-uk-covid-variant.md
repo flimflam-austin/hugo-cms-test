@@ -29,6 +29,7 @@ featured_quote:
     infectious diseases, reacting to news of a variant or “new strain” of the
     new coronavirus discovered in the U.K.
   citation: ''
+
 ---
 *   U.K. officials says this unique variant is much easier to spread – citing it as 70% more transmittable. Here’s why they are worried: [_“Recorded cases across the U.K. in the week to Sunday rose 51% over the week before.” (WSJ)_](\"https://www.wsj.com/articles/u-k-lockdowns-prompt-travel-bans-to-block-new-covid-19-strain-11608469676\")  
     

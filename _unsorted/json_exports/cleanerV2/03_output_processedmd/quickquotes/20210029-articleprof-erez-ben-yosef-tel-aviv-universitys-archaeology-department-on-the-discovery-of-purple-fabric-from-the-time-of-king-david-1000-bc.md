@@ -28,6 +28,7 @@ featured_quote:
     Prof Erez Ben-Yosef, Tel Aviv University’s Archaeology Department, on the
     discovery of purple fabric from the time of King David, 1,000 BC.
   citation: ''
+
 ---
 *   Archeologist excavating a site called “Slaves’ Hill” discovered a rare purple fabric.
 *   Previous archeological digs have found this color on pottery but never on fabric.

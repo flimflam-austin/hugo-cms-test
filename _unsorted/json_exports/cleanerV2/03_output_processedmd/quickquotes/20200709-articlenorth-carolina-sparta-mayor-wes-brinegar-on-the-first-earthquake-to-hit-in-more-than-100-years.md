@@ -28,6 +28,7 @@ featured_quote:
     Sparta Mayor Wes Brinegar on the first earthquake to hit North Carolina in
     more than 100-years.
   citation: ''
+
 ---
 *   The 5.1 magnitude earthquake struck Sunday morning; the epicenter was near the North Carolina and Virginia border.
 *   Some say they felt the quake as far away as Atlanta.

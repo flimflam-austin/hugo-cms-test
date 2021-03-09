@@ -30,6 +30,7 @@ featured_quote:
     vaccine could be ready this year, as nine drug companies working on vaccines
     pledge to put safety ahead of speed.
   citation: ''
+
 ---
 *   Speaking over the weekend, [Dr. Gottlieb](\"https://www.cbsnews.com/news/transcript-scott-gottlieb-discusses-coronavirus-on-face-the-nation-september-6-2020/\") said that IF we have a vaccine available this year, it would likely only be used in “to protect very high-risk populations,” noting that 2021 is more likely.
 *   On Tuesday, the CEOs from nine drug manufacturers (AstraZeneca, BioNTech, GlaxoSmithKline, Johnson & Johnson, Merck, Moderna, Novavax, Pfizer and Sanofi) issued what they called a [historic pledge](\"https://www.pfizer.com/news/press-release/press-release-detail/biopharma-leaders-unite-stand-science\") “_to make the safety and well-being of vaccinated individuals the top priority in development of the first COVID-19 vaccines_.”

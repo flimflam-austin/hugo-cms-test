@@ -29,6 +29,7 @@ featured_quote:
     panel meeting on the Pfizer COVID-19 vaccine asking about whether it will
     lower community transmission of the virus.
   citation: ''
+
 ---
 *   Health officials believe asymptomatic cases of COVID-19 account for upwards of 50% of all infections. One of the big challenges discussed to stopping the spread of COVID-19 is stopping these particular cases. However, there’s also a question about transmission – including just how contagious (and for how long) a person is with few or no symptoms.
 *   Another question for doctors on the FDA advisory panel: whether or not 16-year-olds and 17-year-olds should be included in potentially receiving this vaccine as part of the special status of emergency use authorization. The concern was raised because early studies included few in this lower age group.

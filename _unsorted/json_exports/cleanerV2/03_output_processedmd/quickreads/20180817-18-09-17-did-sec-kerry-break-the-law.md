@@ -36,7 +36,7 @@ card_1:
     > Why some say he belongs in jail.
   card_citation: ''
 card_2:
-  card_text: "The Backstory\n-------------\n\n> Sec. Kerry on a radio show last week promoting his new book admitted to meeting with the Iranian Foreign Minister after he left office:\n> \n> _“I met with him at a conference in Norway. I think I saw him in a conference in Munich at the World Economic Forum. So Ia\x19ve probably seen him three or four times.”_\n> \n> Fmr. Sec. Kerry to Hugh Hewitt"
+  card_text: "The Backstoryn-------------nn> Sec. Kerry on a radio show last week promoting his new book admitted to meeting with the Iranian Foreign Minister after he left office:n> n> _“I met with him at a conference in Norway. I think I saw him in a conference in Munich at the World Economic Forum. So Iax19ve probably seen him three or four times.”_n> n> Fmr. Sec. Kerry to Hugh Hewitt"
   card_citation: ''
 card_3:
   card_text: >-
@@ -68,7 +68,7 @@ card_4:
     years.**
   card_citation: ''
 card_5:
-  card_text: "> “Ia\x19ll leave the legal determinations to others. But what Secretary Kerry has done is unseemly and unprecedented. This is a former secretary of state engaged with the worlda\x19s largest state sponsor of terror, and according to him a\x13 right? You dona\x19t have to take my word for it….He was talking to them. He was telling them to wait out this administration.”\n> \n> Sec of State Mike Pompeo"
+  card_text: "> “Iax19ll leave the legal determinations to others. But what Secretary Kerry has done is unseemly and unprecedented. This is a former secretary of state engaged with the worldax19s largest state sponsor of terror, and according to him ax13 right? You donax19t have to take my word for it….He was talking to them. He was telling them to wait out this administration.”n> n> Sec of State Mike Pompeo"
   card_citation: ''
 card_6:
   card_text: >-
@@ -97,6 +97,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-09-17-did-sec-kerry-break-the-law/)
   card_citation: ''
+
 ---
 *   **Rockets Fired Toward U.S. Diplomatic Missions in Iraq  
     **[https://www.wsj.com/articles/rockets-fired-toward-u-s-diplomatic-missions-in-iraq-1536422312](\"https://www.wsj.com/articles/rockets-fired-toward-u-s-diplomatic-missions-in-iraq-1536422312\")_The attacks indicate that the rivalry between the U.S. and Irana\\u0014which support rival political groupings in Iraqa\\u0014could be entering a dangerous new phase as they vie to shape the formation of the countrya\\u0019s next government. Iraq already faces a list of challenges after three years of war against Islamic State, among them rebuilding devastated areas and preventing defeated militants from regaining traction._

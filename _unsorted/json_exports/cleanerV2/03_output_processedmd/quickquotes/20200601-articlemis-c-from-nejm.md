@@ -29,6 +29,7 @@ featured_quote:
     Editor-in-Chief Eric Rubin of The New England Journal of Medicine on two
     studies published on a syndrome in children related to COVID-19.
   citation: ''
+
 ---
 *   The two studies: New York State Dept of Public Health examining cases in New York, and the CDC looking at cases nationwide.
 *   MIS-C: Multisystem Inflammatory Syndrome in Children.

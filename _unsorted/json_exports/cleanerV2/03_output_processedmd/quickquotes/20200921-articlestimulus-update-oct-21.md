@@ -31,6 +31,7 @@ featured_quote:
     $500B stimulus package – Democrats called it “emaciated” as negotiations for
     a bill continues.
   citation: ''
+
 ---
 *   Republicans and Democrats remain in a stand-off on another stimulus package.
 *   Democrats in the House passed a bill for $2.2T in stimulus. In the course of negotiations with the White House, that proposed package is reportedly down to around $1.8T.

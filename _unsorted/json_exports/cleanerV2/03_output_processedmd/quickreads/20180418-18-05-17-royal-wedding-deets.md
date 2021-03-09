@@ -38,7 +38,7 @@ card_2:
     *   **Private evening reception** at Frogmore House at 7pm.
   card_citation: ''
 card_3:
-  card_text: "THE CAKE\n--------\n\n*   **Lemon elderflower cake** from pastry chef Claire Ptak of Violet Cakes in London.\n*   Buttercream icing & fresh flowers.\n*   **Did you know?**A Meghan, who interviewed Ms. Ptak for her now-defunct lifestyle blog The Tig, is a fan of the a\x1Corganic & low intervention ingredients.a\x1D\n\n[Insta look: Cake](https://www.instagram.com/p/BiyP9DIAexF/)"
+  card_text: "THE CAKEn--------nn*   **Lemon elderflower cake** from pastry chef Claire Ptak of Violet Cakes in London.n*   Buttercream icing & fresh flowers.n*   **Did you know?**A Meghan, who interviewed Ms. Ptak for her now-defunct lifestyle blog The Tig, is a fan of the ax1Corganic & low intervention ingredients.ax1Dnn[Insta look: Cake](https://www.instagram.com/p/BiyP9DIAexF/)"
   card_citation: 'Insta look: Cake'
 card_4:
   card_text: >-
@@ -61,7 +61,7 @@ card_4:
     Flowers](https://www.instagram.com/p/BhBZbr9BU-W/?utm_source=ig_embed)
   card_citation: 'Insta look: Flowers'
 card_5:
-  card_text: "THE DRESS\n---------\n\n*   No confirmation on the designer.\n*   **The Daily Mail reports it will be Ralph & Russo,** who created Marklea\x19s black engagement gown.\n*   **Did you know?** The husband & wife Australian designers are known for their extravagant couture designs. ButA it’s **custom for the Queen to approve**.\n*   Other possible designers? Stella McCartney, Alexander McQueen."
+  card_text: "THE DRESSn---------nn*   No confirmation on the designer.n*   **The Daily Mail reports it will be Ralph & Russo,** who created Markleax19s black engagement gown.n*   **Did you know?** The husband & wife Australian designers are known for their extravagant couture designs. ButA it’s **custom for the Queen to approve**.n*   Other possible designers? Stella McCartney, Alexander McQueen."
   card_citation: ''
 card_6:
   card_text: >-
@@ -79,8 +79,9 @@ card_6:
     Markle down the aisle.
   card_citation: ''
 card_10:
-  card_text: "The Royal Family will take care of Meghan and Harrya\x19s wedding bill. For comparison, Kate Middleton and Prince Williama\x19s 2011 wedding cost an estimated $34M, with $32M going to security alone. Oh, and what about the honeymoon? Click for that scoop.\n\n[view sources](https://smarthernews.com/18-05-17-royal-wedding-deets/)"
+  card_text: "The Royal Family will take care of Meghan and Harryax19s wedding bill. For comparison, Kate Middleton and Prince Williamax19s 2011 wedding cost an estimated $34M, with $32M going to security alone. Oh, and what about the honeymoon? Click for that scoop.nn[view sources](https://smarthernews.com/18-05-17-royal-wedding-deets/)"
   card_citation: ''
+
 ---
 *   ****Update from Prince Harry’s Communications team (Photo credits: @KensingtonRoyal)  
     ****[https://www.royal.uk/update-communications-secretary-prince-harry-wedding-prince-harry-and-ms-markle](\"https://www.royal.uk/update-communications-secretary-prince-harry-wedding-prince-harry-and-ms-markle\")

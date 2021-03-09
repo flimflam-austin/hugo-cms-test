@@ -34,5 +34,6 @@ card_10:
 
     [view sources](https://smarthernews.com/18-09-28-yosemite-el-capitan/)
   card_citation: ''
+
 ---
 *   **Exclusive: Climber Completes the Most Dangerous Rope-Free Ascent Ever:** [https://www.nationalgeographic.com/adventure/features/athletes/alex-honnold/most-dangerous-free-solo-climb-yosemite-national-park-el-capitan/](\"https://www.nationalgeographic.com/adventure/features/athletes/alex-honnold/most-dangerous-free-solo-climb-yosemite-national-park-el-capitan/\")

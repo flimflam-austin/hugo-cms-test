@@ -35,19 +35,19 @@ card_1:
     flip for what he said
   card_citation: flip for what he said
 card_2:
-  card_text: "GROWING PAINS\n-------------\n\n> _**a\x1CI think ita\x19s pretty much impossible to start a company in your dorm room & then grow it to be at the scale that wea\x19re at now without making some mistakes.”**_\n> \n> **Why it matters:  \n> **The 33-year-old**A** ditched his trademark t-shirt & jeans for a navy suit, but repeatedly reminded senators of Facebook’s early days."
+  card_text: "GROWING PAINSn-------------nn> _**ax1CI think itax19s pretty much impossible to start a company in your dorm room & then grow it to be at the scale that weax19re at now without making some mistakes.”**_n> n> **Why it matters:  n> **The 33-year-old**A** ditched his trademark t-shirt & jeans for a navy suit, but repeatedly reminded senators of Facebook’s early days."
   card_citation: ''
 card_3:
-  card_text: "CAMBRIDGE ANALYTICA  \n\n----------------------\n\n> _**“If we find that theya\x19re doing anything improper, wea\x19ll ban them from Facebook and we will tell everyone affected.a\x1D**_\n> \n> **Why it matters:**  \n> Zuckerberg vowed to investigate “tens of thousands of apps” & audit suspicious activity after Cambridge Analytica collected 87M users data.\n\n[Click for Refresher](https://smarthernews.com/18-02-21-facebook-fixes/)"
+  card_text: "CAMBRIDGE ANALYTICA  nn----------------------nn> _**“If we find that theyax19re doing anything improper, weax19ll ban them from Facebook and we will tell everyone affected.ax1D**_n> n> **Why it matters:**  n> Zuckerberg vowed to investigate “tens of thousands of apps” & audit suspicious activity after Cambridge Analytica collected 87M users data.nn[Click for Refresher](https://smarthernews.com/18-02-21-facebook-fixes/)"
   card_citation: Click for Refresher
 card_4:
-  card_text: "FAKE NEWS &  \nHATE SPEECH\n-------------------------\n\n> _**a\x1CI agree that wea\x19re responsible for the content.a\x1D**_\n> \n> **Why it matters:  \n> **This one is a biggie. Zuckerberg previously claimed that Facebook is not a media company, and takes no responsibility for what gets posted on the platform. This new admission could spell major changes for tech."
+  card_text: "FAKE NEWS &  nHATE SPEECHn-------------------------nn> _**ax1CI agree that weax19re responsible for the content.ax1D**_n> n> **Why it matters:  n> **This one is a biggie. Zuckerberg previously claimed that Facebook is not a media company, and takes no responsibility for what gets posted on the platform. This new admission could spell major changes for tech."
   card_citation: ''
 card_5:
-  card_text: "RUSSIA INVESTIGATION\n--------------------\n\n> _**a\x1CI know wea\x19re working with them.a\x1D**_\n> \n> **Why it matters:  \n> **He said he hadn’t been interviewed by special counsel Muellera\x19s team, but offered few detailsA citing confidentiality. Mueller has charged 13 Russians in a plot to interfere in the 2016 presidential election through social media propaganda – some of which was on Facebook."
+  card_text: "RUSSIA INVESTIGATIONn--------------------nn> _**ax1CI know weax19re working with them.ax1D**_n> n> **Why it matters:  n> **He said he hadn’t been interviewed by special counsel Muellerax19s team, but offered few detailsA citing confidentiality. Mueller has charged 13 Russians in a plot to interfere in the 2016 presidential election through social media propaganda – some of which was on Facebook."
   card_citation: ''
 card_6:
-  card_text: "NEW LAWS COMING?\n----------------\n\n> _**a\x1CIa\x19m not the type of person who thinks that all regulation is bad.a\x1D**_\n> \n> **Why it matters:  \n> **Republicans have yet to back it, but the Senate’s #2 Republican John Cornyn says people expect action. That said, in testimony Zuckerberg had to explain Facebook’s basic workings, highlighting how unprepared Congress is to impose game-changing rules."
+  card_text: "NEW LAWS COMING?n----------------nn> _**ax1CIax19m not the type of person who thinks that all regulation is bad.ax1D**_n> n> **Why it matters:  n> **Republicans have yet to back it, but the Senate’s #2 Republican John Cornyn says people expect action. That said, in testimony Zuckerberg had to explain Facebook’s basic workings, highlighting how unprepared Congress is to impose game-changing rules."
   card_citation: ''
 card_10:
   card_text: >-
@@ -59,6 +59,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-11-zuckerberg-testifies/)
   card_citation: ''
+
 ---
 *   Facebook’s Zuckerberg fends of senators on privacy:  
     [https://apnews.com/75f8ec6489b340d9a1ce723502fe0ad2/Hardly-‘friends’:-Zuckerberg-fends-off-senators-on-privacy](\"https://apnews.com/75f8ec6489b340d9a1ce723502fe0ad2/Hardly-'friends':-Zuckerberg-fends-off-senators-on-privacy\")

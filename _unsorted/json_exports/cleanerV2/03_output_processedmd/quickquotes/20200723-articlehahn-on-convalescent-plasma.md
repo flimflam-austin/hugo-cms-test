@@ -23,6 +23,7 @@ featured_quote:
     FDA Commissioner Stephen Hahn on the FDA’s emergency use authorization of
     convalescent plasma as a treatment for hospitalized COVID–19 patients.
   citation: ''
+
 ---
 *   Convalescent plasma has been used to treat a range of infections/diseases in the past. Convalescent plasma COVID-19 treatment involves giving a patient the blood plasma from someone with the same blood type who has already  recovered from COVID-19.
 *   The [FDA](\"https://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-convalescent-plasma-potential-promising-covid-19-treatment\") made the announcement, citing early promising data from over 70,000 American patients, saying the known and potential benefits outweigh the known and potential risks.

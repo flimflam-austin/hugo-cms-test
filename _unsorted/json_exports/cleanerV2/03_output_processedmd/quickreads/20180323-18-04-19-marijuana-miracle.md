@@ -46,7 +46,7 @@ card_2:
     epilepsy** for children, though no one knows exactly WHY it works.
   card_citation: ''
 card_3:
-  card_text: "Life-Changer?\n-------------\n\n> a\x1CI just went to South Africa for two weeks without my parents on a school trip. I would not have been able to do that if I had not tried this medication.a\x1D\n> \n> Sam Vogelstein, 16, who suffers from epilepsy and participated in the study. He had 100 seizures a day before taking the CPD-based drug."
+  card_text: "Life-Changer?n-------------nn> ax1CI just went to South Africa for two weeks without my parents on a school trip. I would not have been able to do that if I had not tried this medication.ax1Dn> n> Sam Vogelstein, 16, who suffers from epilepsy and participated in the study. He had 100 seizures a day before taking the CPD-based drug."
   card_citation: ''
 card_4:
   card_text: >-
@@ -56,7 +56,7 @@ card_4:
 
 
     *   If FDA follows recommendation of FDA advisory panel, experimental CBD
-    drug **\*could\* be the first mainstream “marijuana” drug with federal
+    drug ***could* be the first mainstream “marijuana” drug with federal
     approval** come June – when final decision to approve or deny is expected.
 
     *   Right now, CBD oil used by those with epilepsy AND those with muscle
@@ -71,6 +71,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-19-marijuana-miracle/)
   card_citation: ''
+
 ---
 *   F.D.A. Panel Recommends Approval of Cannabis-Based Drug for Epilepsy:  
     [https://www.nytimes.com/2018/04/19/health/epidiolex-fda-cannabis-marajuana.html?](\"https://www.nytimes.com/2018/04/19/health/epidiolex-fda-cannabis-marajuana.html?rref=collection%2Fsectioncollection%2Fhealth&action=click&contentCollection=health&region=rank&module=package&version=highlights&contentPlacement=2&pgtype=sectionfront\")

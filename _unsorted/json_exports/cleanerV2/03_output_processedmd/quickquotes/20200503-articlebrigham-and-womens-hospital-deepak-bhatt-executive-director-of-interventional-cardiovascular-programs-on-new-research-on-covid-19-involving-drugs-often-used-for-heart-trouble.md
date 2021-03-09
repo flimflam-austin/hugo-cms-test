@@ -23,6 +23,7 @@ featured_quote:
     Brigham and Women’s Hospital Dr. Deepak Bhatt on new COVID-19 research
     involving drugs often used for heart trouble.
   citation: ''
+
 ---
 *   Dr. Bhatt, executive director of interventional cardiovascular programs, is studying whether a drug, derived from fish oil and often prescribed for those with heart trouble, may help prevent damage to the body caused by COVID-19.
 *   Initially, doctors worried prescription drugs used for high blood pressure may increase the severity of COVID-19. Now research is leading some to question whether these drugs may help treat the disease, and the inflammation it causes to the entire body.

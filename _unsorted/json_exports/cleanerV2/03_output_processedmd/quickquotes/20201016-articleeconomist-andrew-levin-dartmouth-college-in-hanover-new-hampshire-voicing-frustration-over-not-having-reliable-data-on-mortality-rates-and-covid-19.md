@@ -28,6 +28,7 @@ featured_quote:
     Economist Andrew Levin, Dartmouth College in Hanover, New Hampshire voicing
     frustration over not having reliable data on mortality rates and COVID-19.
   citation: ''
+
 ---
 *   The public and researchers want a gauge on how deadly COVID-19.
 *   Doctors interviewed by science journal _Nature_ say they are getting better at treating COVID-19 and seeing the mortality rate go down in their hospitals.

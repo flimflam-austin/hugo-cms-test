@@ -85,6 +85,7 @@ card_10:
 
     [view sources](https://smarthernews.com/no-more-puppies-in-pet-stores/)
   card_citation: ''
+
 ---
 *   **Puppy and kitten sales at pet shops set to be banned:**  
     [https://www.bbc.com/news/uk-45266357](\"https://www.bbc.com/news/uk-45266357\")

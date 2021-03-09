@@ -24,6 +24,7 @@ featured_quote:
     has.
   summary: Sheriff shares details on the latest Florida Naval Station shooting
   citation: ''
+
 ---
 *   Escambia County Sheriff David Morgan confirmed an active shooter incident took place this morning in a classroom at the Naval Air Station in Pensacola, FL. The suspect killed three victims and was killed by law enforcement. Several others, including two deputies, were injured. The shooter was a Saudi national (a citizen of Saudi Arabia) and member of the Saudi Air Force at the base for training.
 *   **Why This Matters**: This is the **second** deadly shooting at a military air base **this week**. On Wednesday, a U.S. sailor shot and killed two fellow sailors before taking his own life at the at Pearl Harbor Naval Shipyard.

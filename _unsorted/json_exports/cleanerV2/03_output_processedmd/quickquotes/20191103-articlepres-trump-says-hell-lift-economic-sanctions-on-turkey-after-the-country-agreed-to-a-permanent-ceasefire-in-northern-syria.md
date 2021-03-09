@@ -23,6 +23,7 @@ featured_quote:
     Test Article Pres. Trump says he’ll lift economic sanctions on Turkey after
     the country agreed to a permanent ceasefire in northern Syria.
   citation: ''
+
 ---
 *   On Tuesday, Turkey & Russia agreed to patrol the Syria-Turkey border amid escalating violence in the region.
 *   In response, Sen. Lindsey Graham (R-SC) said “Russia, Turkey and Syria cannot patrol this area – that’s a death blow to the Kurds.

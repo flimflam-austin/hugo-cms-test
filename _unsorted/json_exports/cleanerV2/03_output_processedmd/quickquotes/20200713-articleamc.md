@@ -25,6 +25,7 @@ featured_quote:
     AMC announces it will reopen theaters on August 20 in honor of its 100-year
     anniversary offering admission at 15 cents for one day only.
   citation: ''
+
 ---
 *   To celebrate its anniversary and as part of its phased reopening, AMC will open about 100 theaters on August 20 offering 15-cent flicks.
 *   Even after “Movies in 2020 at 1920 Prices” ends on August 21, [AMC](\"http://investor.amctheatres.com/file/Index?KeyFile=404963658\") will bring back classics like “Back To The Future” and  “Star Wars: The Empire Strikes Back” for only $5 in the coming weeks as another 300 theaters are expected to open.

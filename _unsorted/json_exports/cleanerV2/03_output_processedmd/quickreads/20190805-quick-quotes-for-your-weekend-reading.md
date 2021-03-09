@@ -17,7 +17,7 @@ color_palette_classname: light-yellow
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/pexels-photo-129112-360x360.jpeg
 card_1:
-  card_text: "> a\x1CIa\x19ve ordered the FBI to conduct a supplemental investigation to update Judge Kavanaugha\x19s file. As the Senate has requested, this update must be limited in scope and completed in less than one week.a\x1D\n> \n> Pres. Trump following the Senate Judiciary Cmte's request that he direct the FBI to update its investigation into Kavanaugh. The cmte's request came after it voted along party lines (11-10) to send the nomination to the full Senate."
+  card_text: "> ax1CIax19ve ordered the FBI to conduct a supplemental investigation to update Judge Kavanaughax19s file. As the Senate has requested, this update must be limited in scope and completed in less than one week.ax1Dn> n> Pres. Trump following the Senate Judiciary Cmte's request that he direct the FBI to update its investigation into Kavanaugh. The cmte's request came after it voted along party lines (11-10) to send the nomination to the full Senate."
   card_citation: ''
 card_2:
   card_text: >-
@@ -33,13 +33,13 @@ card_2:
     unmet. Iran blames the U.S. for fomenting this dissent.
   card_citation: ''
 card_3:
-  card_text: "> a\x1CWith Irana\x19s oil essentially out of reach, gas prices may not see the typical decline we had been expecting. Thata\x19s not going to be good news for motorists.”\n> \n> Patrick Dehaan, Head of Petroleum Analysis for Gasbuddy.com - a site that has tracked gas prices for nearly 2 decades. Gas prices haven't taken the pause normally seen in the fall; they continue to go higher. Iran is just one factor."
+  card_text: "> ax1CWith Iranax19s oil essentially out of reach, gas prices may not see the typical decline we had been expecting. Thatax19s not going to be good news for motorists.”n> n> Patrick Dehaan, Head of Petroleum Analysis for Gasbuddy.com - a site that has tracked gas prices for nearly 2 decades. Gas prices haven't taken the pause normally seen in the fall; they continue to go higher. Iran is just one factor."
   card_citation: ''
 card_4:
-  card_text: "> “This is a really serious security issue. And wea\x19re taking it really seriously.a\x1D\n> \n> Facebook CEO Mark Zuckerberg reacting to the company's latest security breach. On Tuesday, hackers gained access to some 50 million accounts by exploiting a vulnerability in Facebook's \"View As\" feature, which allows people see what their profile looks like to another person. Facebook doesn't know yet if any private information was accessed."
+  card_text: "> “This is a really serious security issue. And weax19re taking it really seriously.ax1Dn> n> Facebook CEO Mark Zuckerberg reacting to the company's latest security breach. On Tuesday, hackers gained access to some 50 million accounts by exploiting a vulnerability in Facebook's "View As" feature, which allows people see what their profile looks like to another person. Facebook doesn't know yet if any private information was accessed."
   card_citation: ''
 card_5:
-  card_text: "> a\x1CThey are part of our family, and their care needs to be a consideration during divorce proceedings.a\x1D\n> \n> Assemblymember Bill Quirk (D-Hayward) who was behind new legislation just signed into law in Calfiornia that puts pets more in the category of children, rather than property (like a television or car), in divorce proceedings. Quirk argues the law will allow for better attention to who gets sole or shared custody."
+  card_text: "> ax1CThey are part of our family, and their care needs to be a consideration during divorce proceedings.ax1Dn> n> Assemblymember Bill Quirk (D-Hayward) who was behind new legislation just signed into law in Calfiornia that puts pets more in the category of children, rather than property (like a television or car), in divorce proceedings. Quirk argues the law will allow for better attention to who gets sole or shared custody."
   card_citation: ''
 card_10:
   card_text: >-
@@ -49,6 +49,7 @@ card_10:
     [view
     sources](https://smarthernews.com/quick-quotes-for-your-weekend-reading/)
   card_citation: ''
+
 ---
 *   **Sarah Huckabee Sanders Twitter:  
     **[https://twitter.com/PressSec/status/1045779267827699712](\"https://twitter.com/PressSec/status/1045779267827699712\")

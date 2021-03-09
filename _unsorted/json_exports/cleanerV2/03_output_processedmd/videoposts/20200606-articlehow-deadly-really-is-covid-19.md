@@ -24,5 +24,6 @@ summary: >-
   You’ve heard the term “death rate” or “fatality rate” related to the new
   coronavirus – Here’s what you need to know about why it matters and what to
   watch next.
+
 ---
 Here’s some information about death rates OR deaths per 100,000: [CLICK HERE](\"https://coronavirus.jhu.edu/data/mortality\")

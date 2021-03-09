@@ -25,6 +25,7 @@ featured_quote:
     California San Francisco, Dr. Charles Chiu, on the COVID-19 variant first
     discovered in the United Kingdom last month.
   citation: ''
+
 ---
 *   The new strain (B.1.1.7 ) of COVID-19 is now present in over [30 countries](\"https://www.usatoday.com/story/news/health/2021/01/02/new-covid-strain-b-117-explained/4112125001/\"), including the United States.
 *   Since the [first U.S. case](\"https://www.colorado.gov/governor/news/3856-gov-polis-and-state-public-health-officials-announce-first-case-covid-variant-covid-19\") was reported in Colorado on December 29, additional cases have been identified in at least four states (California, Florida, Georgia and New York).

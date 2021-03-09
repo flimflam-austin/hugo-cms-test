@@ -60,11 +60,12 @@ card_3:
     friends** based on results; “friendly” brains reacted similarly to images.
   card_citation: ''
 card_4:
-  card_text: "> a\x1CI think ita\x19s an **incredibly ingenious paper**. It suggests that friends resemble each other not just superficially, but in the very structures of their brains.a\x1D\n> \n> Nicholas Christakis, biosociologist, Yale University, who studies social connections, speaking to 'New York Times'"
+  card_text: "> ax1CI think itax19s an **incredibly ingenious paper**. It suggests that friends resemble each other not just superficially, but in the very structures of their brains.ax1Dn> n> Nicholas Christakis, biosociologist, Yale University, who studies social connections, speaking to 'New York Times'"
   card_citation: ''
 card_10:
-  card_text: "Perhaps THIS is why we are all \"SmartHER\" together? a\x1C...shared processing could make people click more easily and have the sort of seamless social interaction that can feel so rewarding.\"\n\n[view sources](https://smarthernews.com/18-04-17-brainwave-bombshell-best-friends-share-brainwaves/)"
+  card_text: "Perhaps THIS is why we are all "SmartHER" together? ax1C...shared processing could make people click more easily and have the sort of seamless social interaction that can feel so rewarding."nn[view sources](https://smarthernews.com/18-04-17-brainwave-bombshell-best-friends-share-brainwaves/)"
   card_citation: ''
+
 ---
 *   Similar neural responses predict friendship: [https://www.nature.com/articles/s41467-017-02722-7](\"https://www.nature.com/articles/s41467-017-02722-7\")
 *   You Share Everything With Your Bestie. Even Brain Waves: [https://www.nytimes.com/2018/04/16/science/friendship-brain-health.html](\"https://www.nytimes.com/2018/04/16/science/friendship-brain-health.html\")

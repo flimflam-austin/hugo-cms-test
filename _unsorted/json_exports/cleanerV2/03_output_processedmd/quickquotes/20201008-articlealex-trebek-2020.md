@@ -24,6 +24,7 @@ featured_quote:
     summer (all the proceeds go to charity) – Trebek passed away this weekend
     after a battle with pancreatic cancer.
   citation: ''
+
 ---
 *   Full quote: _“I guess I’ve accomplished what I wanted to. I’ve made people feel good. And I’m going to help a lot of good charities. I just want people to say, ‘He’s a good guy. Now I know why I like him.’”_ 
 *   Trebek hosted Jeopardy! since its first show in 1984.

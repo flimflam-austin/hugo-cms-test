@@ -33,7 +33,7 @@ card_1:
     What To Know
   card_citation: What To Know
 card_2:
-  card_text: "> a\x1CThe most promising aspect of our new approach is that **we can prolong the opioid pain relief effect for many months with a single injection** of our new bio-pharmaceuticals. This could benefit chronic pain sufferers in many ways and also avoid the terrible consequences of continuous use of opioids.a\x1D\n> \n> Bazbek Davletov, study author and chair of the biomedical science department, University of Sheffield"
+  card_text: "> ax1CThe most promising aspect of our new approach is that **we can prolong the opioid pain relief effect for many months with a single injection** of our new bio-pharmaceuticals. This could benefit chronic pain sufferers in many ways and also avoid the terrible consequences of continuous use of opioids.ax1Dn> n> Bazbek Davletov, study author and chair of the biomedical science department, University of Sheffield"
   card_citation: ''
 card_3:
   card_text: >-
@@ -69,8 +69,9 @@ card_4:
     health emergency.
   card_citation: ''
 card_10:
-  card_text: "\"Many people dona\x19t realize that there are numerous medical indications for Botox. We routinely use it in my office to treat migraines.\" Dr. Aisha White, Quintessence Plastic Surgery to SmartHER News.\n\n[view sources](https://smarthernews.com/18-08-01-preventative-botox/)"
+  card_text: ""Many people donax19t realize that there are numerous medical indications for Botox. We routinely use it in my office to treat migraines." Dr. Aisha White, Quintessence Plastic Surgery to SmartHER News.nn[view sources](https://smarthernews.com/18-08-01-preventative-botox/)"
   card_citation: ''
+
 ---
 *   **An Experimental Painkiller Combines the Best Parts of Botox and Opioidsa\\u0014at Least in Mice:**  
     [https://gizmodo.com/an-experimental-painkiller-combines-the-best-parts-of-b-1827697527](\"https://gizmodo.com/an-experimental-painkiller-combines-the-best-parts-of-b-1827697527\")

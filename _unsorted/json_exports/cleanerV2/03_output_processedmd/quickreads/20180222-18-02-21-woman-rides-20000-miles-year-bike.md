@@ -56,6 +56,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-02-21-woman-rides-20000-miles-year-bike/)
   card_citation: ''
+
 ---
 How This Woman Rides 20,000 Miles a Year on Her Bike  
 Ultra-endurance bicycle racer Lael Wilcox puts more miles on her bike every year than most people do on their cars. Here’s how she trains for and rides some of the toughest races on earth.A [https://thescene.com/watch/wired/how-this-woman-rides-20-000-miles-a-year-on-her-bike](\"https://thescene.com/watch/wired/how-this-woman-rides-20-000-miles-a-year-on-her-bike\")

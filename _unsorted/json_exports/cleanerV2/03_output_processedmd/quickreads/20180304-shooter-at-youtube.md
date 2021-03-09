@@ -45,7 +45,7 @@ card_2:
     had been warned about her.
   card_citation: ''
 card_3:
-  card_text: "“The night before (the shooter) opened fire in a courtyard at YouTubea\x19s headquarters Tuesday afternoon, Mountain View police found the San Diego woman sleeping in her car. She had been reported missing by her family in Southern California, and her father Ismail Aghdam told police she might be going to YouTube because she a\x1Chateda\x1D the company.”  \n_The Mercury News_"
+  card_text: "“The night before (the shooter) opened fire in a courtyard at YouTubeax19s headquarters Tuesday afternoon, Mountain View police found the San Diego woman sleeping in her car. She had been reported missing by her family in Southern California, and her father Ismail Aghdam told police she might be going to YouTube because she ax1Chatedax1D the company.”  n_The Mercury News_"
   card_citation: ''
 card_4:
   card_text: >-
@@ -67,6 +67,7 @@ card_10:
 
     [view sources](https://smarthernews.com/shooter-at-youtube/)
   card_citation: ''
+
 ---
 *   Woman opens fire at YouTube headquarters, wounding at least 3 before taking her own life: [http://www.latimes.com/local/lanow/la-me-ln-youtube-shooter-20180403-story.html](\"http://www.latimes.com/local/lanow/la-me-ln-youtube-shooter-20180403-story.html\")
 *   Sources: YouTube shooting appears to be domesticA [http://www.kron4.com/news/bay-area/sources-youtube-shooting-appears-to-be-domestic/1098998249](\"http://www.kron4.com/news/bay-area/sources-youtube-shooting-appears-to-be-domestic/1098998249\")

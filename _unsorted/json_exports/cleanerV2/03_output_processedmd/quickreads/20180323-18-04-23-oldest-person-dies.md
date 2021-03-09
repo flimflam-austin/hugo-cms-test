@@ -24,7 +24,7 @@ card_1:
     weekend.
 
 
-    Born in 1900, she says sleep was \*one\* of the secrets to a long life.
+    Born in 1900, she says sleep was *one* of the secrets to a long life.
 
 
     Flip For More
@@ -76,6 +76,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-23-oldest-person-dies/)
   card_citation: ''
+
 ---
 *   World’s oldest person, last survivor of 19th century, dies in Japan at 117: [https://www.usatoday.com/story/news/world/2018/04/21/worlds-oldest-person-dies-southern-japan-117-years-old/539747002/](\"https://www.usatoday.com/story/news/world/2018/04/21/worlds-oldest-person-dies-southern-japan-117-years-old/539747002/\")
 *   The Key to Longevity for the World’s Oldest Man Alive? Sumo Wrestling and Hot Springs: [time.com/5236018/masazo-nonaka-japan-oldest-person-alive/](\"http://time.com/5236018/masazo-nonaka-japan-oldest-person-alive/\")

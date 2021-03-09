@@ -23,6 +23,7 @@ featured_quote:
     Czech Prime Minister Andrej Babis where COVID-19 just hit another record
     high as Europe sees infection rates rise.
   citation: ''
+
 ---
 *   The rise in COVID cases is widespread in Europe.
 *   The response includes restaurant & school closures, in the Czech Republic & Netherlands and Northern Ireland respectively.

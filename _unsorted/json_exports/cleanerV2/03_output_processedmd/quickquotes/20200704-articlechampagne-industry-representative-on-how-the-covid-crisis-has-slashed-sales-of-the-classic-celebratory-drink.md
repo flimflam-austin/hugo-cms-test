@@ -28,6 +28,7 @@ featured_quote:
     Champagne industry representative on how the COVID crisis has slashed sales
     of the classic celebratory drink.
   citation: ''
+
 ---
 *   **Did You Know?** Sparkling wine comes in many varieties, but only sparkling wine from the Champagne region of France may be called “champagne.”
 *   Despite reports of increasing alcohol sales and consumption in the United States during the pandemic, the closures of restaurants, and cancellation of major celebratory events, like parties and weddings, has had a devastating impact on champagne sales.

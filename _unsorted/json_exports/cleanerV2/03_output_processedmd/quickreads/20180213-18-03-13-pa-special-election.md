@@ -73,6 +73,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-03-13-pa-special-election/)
   card_citation: ''
+
 ---
 *   Everything You Need To Know About The Pennsylvania 18th Special Election: [https://fivethirtyeight.com/features/everything-you-need-to-know-about-the-pennsylvania-18th-special-election/](\"https://fivethirtyeight.com/features/everything-you-need-to-know-about-the-pennsylvania-18th-special-election/\")
 *   Pa. Supreme Court strikes down congressional map as unconstitutional, orders change before May primary: [www.philly.com/philly/news/pa-supreme-court-strikes-down-congressional-map-as-unconstitutional-orders-change-before-may-primary-20180122.html](\"http://www.philly.com/philly/news/pa-supreme-court-strikes-down-congressional-map-as-unconstitutional-orders-change-before-may-primary-20180122.html\")

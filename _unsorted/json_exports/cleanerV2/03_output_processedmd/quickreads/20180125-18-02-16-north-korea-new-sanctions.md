@@ -31,7 +31,7 @@ card_1:
     Flip For how we got here
   card_citation: Flip For how we got here
 card_2:
-  card_text: "North Korea & Sanctions\n-----------------------\n\n*   North Korea has nuclear weapons, & reportedly the technology to deliver them to Americaa\x19s mainland.\n*   Sanctions used in the past by both Republicans & Democrats to deter North Korea. It hasn’t worked.\n*   Trump administration calls latest round a\x1Clargest sanctions evera\x1D – some debate this description."
+  card_text: "North Korea & Sanctionsn-----------------------nn*   North Korea has nuclear weapons, & reportedly the technology to deliver them to Americaax19s mainland.n*   Sanctions used in the past by both Republicans & Democrats to deter North Korea. It hasn’t worked.n*   Trump administration calls latest round ax1Clargest sanctions everax1D – some debate this description."
   card_citation: ''
 card_3:
   card_text: >-
@@ -77,6 +77,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-16-north-korea-new-sanctions/)
   card_citation: ''
+
 ---
 *   North Korea condemns new sanctions but opens door to talks withA U.S.A [https://www.nbcnews.com/news/world/north-korea-condemns-new-u-s-sanctions-says-blockade-would-n851021](\"https://www.nbcnews.com/news/world/north-korea-condemns-new-u-s-sanctions-says-blockade-would-n851021\")
 *   Press Briefing by Treasury Secretary Steven Mnuchin on North Korea Sanctions [https://www.whitehouse.gov/briefings-statements/press-briefing-treasury-secretary-steven-mnuchin-north-korea-sanctions/](\"https://www.whitehouse.gov/briefings-statements/press-briefing-treasury-secretary-steven-mnuchin-north-korea-sanctions/\")

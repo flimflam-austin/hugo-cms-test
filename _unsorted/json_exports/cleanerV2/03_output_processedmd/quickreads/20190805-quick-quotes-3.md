@@ -14,16 +14,16 @@ card_series: quotes
 color_palette_classname: light-blue
 background_image: https://smarthernews.com/wp-content/uploads/2018/01/Flag-360x360.jpeg
 card_1:
-  card_text: "> a\x1CTogether their voices will ring out into perpetuity…”\n> \n> Stephen Clark, Somerset County, PA parks superintendent, on the Tower of Voices memorial dedicated to 9/11 victims nearly 17 years after the attacks. The 93-foot-tall structure has a wind chime for each of the 40 passengers & crew members that died on Flight 93 which crashed near Shanksville, PA. The President & First Lady are expected to visit Tuesday to honor victims."
+  card_text: "> ax1CTogether their voices will ring out into perpetuity…”n> n> Stephen Clark, Somerset County, PA parks superintendent, on the Tower of Voices memorial dedicated to 9/11 victims nearly 17 years after the attacks. The 93-foot-tall structure has a wind chime for each of the 40 passengers & crew members that died on Flight 93 which crashed near Shanksville, PA. The President & First Lady are expected to visit Tuesday to honor victims."
   card_citation: ''
 card_2:
-  card_text: "> “When a woman is emotional, shea\x19s ‘hysterical’ and shea\x19s penalized for it. When a man does the same, hea\x19s ‘outspoken’ & and there are no repercussions.”\n> \n> Tennis legend Billie Jean King in a tweet thanking Serena Williams for calling out a \"double standard\" after a US Open outburst. Williams, vying for her 24th Grand Slam title, was defeated by Japan's Naomi Osaka after Williams was cited for rule violations & docked a game for what umpire Carlos Ramos deemed as verbal abuse."
+  card_text: "> “When a woman is emotional, sheax19s ‘hysterical’ and sheax19s penalized for it. When a man does the same, heax19s ‘outspoken’ & and there are no repercussions.”n> n> Tennis legend Billie Jean King in a tweet thanking Serena Williams for calling out a "double standard" after a US Open outburst. Williams, vying for her 24th Grand Slam title, was defeated by Japan's Naomi Osaka after Williams was cited for rule violations & docked a game for what umpire Carlos Ramos deemed as verbal abuse."
   card_citation: ''
 card_3:
-  card_text: "> “…we concluded that the authora\x19s principal motivation was to describe, as faithfully as possible, the internal workings of a chaotic and divided administration and to defend the choice to nevertheless work within it.”\n> \n> James Dao, The New York Times Op-Ed Editor, on the possible motives of the anonymous Op-Ed from what it calls a \"Senior Administration Official.\" The article has been viewed 10M+ times since its publication Wednesday."
+  card_text: "> “…we concluded that the authorax19s principal motivation was to describe, as faithfully as possible, the internal workings of a chaotic and divided administration and to defend the choice to nevertheless work within it.”n> n> James Dao, The New York Times Op-Ed Editor, on the possible motives of the anonymous Op-Ed from what it calls a "Senior Administration Official." The article has been viewed 10M+ times since its publication Wednesday."
   card_citation: ''
 card_4:
-  card_text: "> a\x1CWhat do we say to the U.S.? That if they want to help the people of Nicaragua, if they want to contribute to peace, the best thing they can do, and should do, is not interfere in Nicaragua, and respect Nicaragua.”\n> \n> Nicaraguan President Daniel Ortega's response to UN Ambassador Nikki Haley's likening of the country to Syria or Venezuela. An est. 300+ people have died & 2K injured in crackdowns by Nicaraguan police since April."
+  card_text: "> ax1CWhat do we say to the U.S.? That if they want to help the people of Nicaragua, if they want to contribute to peace, the best thing they can do, and should do, is not interfere in Nicaragua, and respect Nicaragua.”n> n> Nicaraguan President Daniel Ortega's response to UN Ambassador Nikki Haley's likening of the country to Syria or Venezuela. An est. 300+ people have died & 2K injured in crackdowns by Nicaraguan police since April."
   card_citation: ''
 card_5:
   card_text: >-
@@ -42,6 +42,7 @@ card_10:
 
     [view sources](https://smarthernews.com/quick-quotes-3/)
   card_citation: ''
+
 ---
 *   **Chime tower is voice for Flight 93 passengers killed on 9/11:**  
     [https://apnews.com/c14fa957566e4d598d4326a7319330b5/Chime-tower-is-voice-for-Flight-93-passengers-killed-on-9-11](\"https://apnews.com/c14fa957566e4d598d4326a7319330b5/Chime-tower-is-voice-for-Flight-93-passengers-killed-on-9-11\")

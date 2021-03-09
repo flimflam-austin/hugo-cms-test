@@ -26,6 +26,7 @@ summary: >-
   researchers at the University of Texas Austin who developed a unique model to
   help guide officials and parents as they try to answer this very question:
   Should children go to school during the COVID-19 pandemic?
+
 ---
 A link to the interactive model through the New York Times: [CLICK HERE](\"https://www.nytimes.com/interactive/2020/07/31/us/coronavirus-school-reopening-risk.html\")
 

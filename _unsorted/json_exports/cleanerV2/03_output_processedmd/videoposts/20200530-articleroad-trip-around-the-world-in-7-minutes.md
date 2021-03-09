@@ -21,4 +21,5 @@ featured_image:
 summary: >-
   A *new* virus with pandemic potential, what’s going on in Afghanistan, and a
   new study from the CDC on teacher-student spread of COVID-19.
+
 ---

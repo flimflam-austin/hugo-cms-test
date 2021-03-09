@@ -85,6 +85,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-09-12-behind-the-headline/)
   card_citation: ''
+
 ---
 *   **Median Household Income Rose 1.8% in 2017, Census Bureau Figures Show**  
     [https://www.wsj.com/articles/median-household-income-rose-1-8-in-2017-census-bureau-figures-show-1536762535](\"https://www.wsj.com/articles/median-household-income-rose-1-8-in-2017-census-bureau-figures-show-1536762535\")

@@ -21,11 +21,11 @@ card_1:
     TRADING UP?
     ===========
 
-    America & Mexico agree \*in theory\* to a new trade deal.  
+    America & Mexico agree *in theory* to a new trade deal.  
     Will Canada come a long for the ride?  
     (and why it may impact the cost of your next car).
 
-    A \*new\* NAFTA?
+    A *new* NAFTA?
   card_citation: A *new* NAFTA?
 card_2:
   card_text: >-
@@ -53,7 +53,7 @@ card_3:
     Mexico & U.S negotiating NAFTA behind the scenes for weeks.
 
 
-    *   New government of Mexico \*just\* elected & both sides want to secure
+    *   New government of Mexico *just* elected & both sides want to secure
     deal before new leadership takes office.
 
     *   New trade deal needs approval by Congress; completing draft puts
@@ -77,7 +77,7 @@ card_4:
     The Concern?
   card_citation: The Concern?
 card_5:
-  card_text: "Cost To Consumer\n----------------\n\n> a\x1CThe industry is hopeful that any changes to Nafta auto rules of origin continue to strike the right balance by **incentivizing production and investment in North America** while keeping new vehicles **affordable for more Americans**.a\x1D\n> \n> Alliance of Auto Manufacturers"
+  card_text: "Cost To Consumern----------------nn> ax1CThe industry is hopeful that any changes to Nafta auto rules of origin continue to strike the right balance by **incentivizing production and investment in North America** while keeping new vehicles **affordable for more Americans**.ax1Dn> n> Alliance of Auto Manufacturers"
   card_citation: ''
 card_10:
   card_text: >-
@@ -88,6 +88,7 @@ card_10:
 
     [view sources](https://smarthernews.com/a-new-nafta/)
   card_citation: ''
+
 ---
 *   **North American Free Trade Agreement – NAFTA:A**  
     [https://www.investopedia.com/terms/n/nafta.asp](\"https://www.investopedia.com/terms/n/nafta.asp\")

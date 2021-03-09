@@ -31,7 +31,7 @@ card_1:
     Flip For Context
   card_citation: Flip For Context
 card_2:
-  card_text: "> a\x1CWe are not about to send American boys nine or ten thousand miles away from home to do what Asian boys ought to be doing for themselves.a\x1D\n> \n> President Lyndon Johnson, in aA speech at Akron University, October 21, 1964, 2 weeks before presidential election & 6 months before he sent American troops into combat."
+  card_text: "> ax1CWe are not about to send American boys nine or ten thousand miles away from home to do what Asian boys ought to be doing for themselves.ax1Dn> n> President Lyndon Johnson, in aA speech at Akron University, October 21, 1964, 2 weeks before presidential election & 6 months before he sent American troops into combat."
   card_citation: ''
 card_3:
   card_text: |-
@@ -46,10 +46,10 @@ card_3:
 
     **300,000+** injured
 
-    **\***Despite draft, 70% of those who served volunteered**\***
+    *****Despite draft, 70% of those who served volunteered*****
   card_citation: ''
 card_4:
-  card_text: "Veterans Affairs Shake-Up\n-------------------------\n\n*   VA Secretary David Shulkin was expected at the Vietnam Veterans Memorial ceremony, but less than 24 hours before, WH announced he’d been replaced.\n*   Shulkin was the last remaining member of Pres. Obamaa\x19s administration to serve in Pres. Trump’s cabinet.\n\nFlip For Replacement"
+  card_text: "Veterans Affairs Shake-Upn-------------------------nn*   VA Secretary David Shulkin was expected at the Vietnam Veterans Memorial ceremony, but less than 24 hours before, WH announced he’d been replaced.n*   Shulkin was the last remaining member of Pres. Obamaax19s administration to serve in Pres. Trump’s cabinet.nnFlip For Replacement"
   card_citation: Flip For Replacement
 card_10:
   card_text: >-
@@ -60,6 +60,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-03-28-vietnam-veterans-day/)
   card_citation: ''
+
 ---
 *   **Author’s Note:** You might read this is the 1-year anniversary ofA National Vietnam War Veterans Day – that’s both true and deserving of more context. President Obama declared March 29 2012, “[Vietnam Veterans Day](\"https://obamawhitehouse.archives.gov/the-press-office/2012/03/29/presidential-proclamation-vietnam-veterans-day\")” and in 2017, President Trump made the day an annual event when he signed into lawA [The Vietnam War Veterans Recognition Act of 2017](\"https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-305-law/\").
 *   DOD to Commemorate 1st Anniversary of National Vietnam War Veterans Day Deputy Secretary of Defense and Veterans Affairs Secretary to Lay Wreath at a\\u0018The Walla\\u0019 in Honor of Vietnam Veterans: [http://kokomoperspective.com/kp/news/dod-to-commemorate-st-anniversary-of-national-vietnam-war-veterans/article\_19a97ec6-3295-11e8-aec2-a3704bfc1e17.html](\"http://kokomoperspective.com/kp/news/dod-to-commemorate-st-anniversary-of-national-vietnam-war-veterans/article_19a97ec6-3295-11e8-aec2-a3704bfc1e17.html\")

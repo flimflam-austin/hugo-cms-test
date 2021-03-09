@@ -20,7 +20,7 @@ card_1:
     > 
     > President Trump via Twitter re: the special counsel investigation.
 
-    What \*exactly\* can the special counsel investigate?
+    What *exactly* can the special counsel investigate?
   card_citation: What *exactly* can the special counsel investigate?
 card_2:
   card_text: >-
@@ -85,6 +85,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-08-24-special-counsel-investigation/)
   card_citation: ''
+
 ---
 *   **@realDonaldTrump:**  
     [https://twitter.com/realDonaldTrump/status/1032495180530835456A](\"https://twitter.com/realDonaldTrump/status/1032495180530835456\")

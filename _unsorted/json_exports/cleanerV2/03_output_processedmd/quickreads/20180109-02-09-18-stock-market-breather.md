@@ -59,6 +59,7 @@ card_10:
 
     [view sources](https://smarthernews.com/02-09-18-stock-market-breather/)
   card_citation: ''
+
 ---
 1.  **This stock-market shakeout looks a lot like 1996-97:**  
     That uptrend had a way to run in 1996-97, with stocks eventually setting their tech bubble peak in March 2000, albeit with some further downdrafts along the way. Federal Reserve Chairman Alan Greenspan uttered his famous a\\u001cirrational exuberancea\\u001d warning in a December 1996 speech.A [https://www.marketwatch.com/story/this-stock-market-shakeout-looks-a-lot-like-1996-97-in-one-chart-2018-02-09](\"https://www.marketwatch.com/story/this-stock-market-shakeout-looks-a-lot-like-1996-97-in-one-chart-2018-02-09\")

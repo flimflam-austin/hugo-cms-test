@@ -24,6 +24,7 @@ featured_quote:
     Senior Fellow Louise Sheiner, Brookings Institution, on potential economic
     stimulus during the COVID-19 pandemic.
   citation: ''
+
 ---
 *   Sheiner and others [put together a report](\"https://www.wsj.com/articles/officials-call-for-quick-stimulus-deal-to-forestall-lackluster-u-s-economic-recovery-11603450801\") suggestion a “roughly” $2T stimulus would help accelerate the economic recover – but delay could spread out the pain for the better part of a decade.
 *   Republicans and Democrats remain apart on a potential economic stimulus package.

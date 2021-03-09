@@ -32,7 +32,7 @@ card_1:
     Why It matters
   card_citation: Why It matters
 card_2:
-  card_text: "> a\x1CJohn Kelly will be leaving a\x14 I dona\x19t know if I can say a\x18retiring.a\x19 But, hea\x19s a great guy.”\n> \n> Pres. Trump speaking to the press about Chief of Staff John Kelly's departure. The fmr. Marine 4-star general, started w/the administration as Sec. of Homeland Security & became Chief of Staff in July 2017. Kellya\x19s son was killed in Afghanistan. During a notable moment of his tenure, he described what happens when a solider dies at war.\n\n[Watch Now](https://www.youtube.com/embed/At1hOCEIwE8?enablejsapi=1&autoplay=1&rel=0)"
+  card_text: "> ax1CJohn Kelly will be leaving ax14 I donax19t know if I can say ax18retiring.ax19 But, heax19s a great guy.”n> n> Pres. Trump speaking to the press about Chief of Staff John Kelly's departure. The fmr. Marine 4-star general, started w/the administration as Sec. of Homeland Security & became Chief of Staff in July 2017. Kellyax19s son was killed in Afghanistan. During a notable moment of his tenure, he described what happens when a solider dies at war.nn[Watch Now](https://www.youtube.com/embed/At1hOCEIwE8?enablejsapi=1&autoplay=1&rel=0)"
   card_citation: Watch Now
 card_3:
   card_text: >-
@@ -95,6 +95,7 @@ card_10:
     [view
     sources](https://smarthernews.com/chief-of-staff-changes-investigations-what-to-know/)
   card_citation: ''
+
 ---
 *   **\*\*UPDATED\*\*  
     “I am pleased to announce that Mick Mulvaney, Director of the Office of Management & Budget, will be named Acting White House Chief of Staff, replacing General John Kelly, who has served our Country with distinction. Mick has done an outstanding job while in the Administration….” [Pres. Trump](\"https://twitter.com/realDonaldTrump/status/1073703744766922754\")  

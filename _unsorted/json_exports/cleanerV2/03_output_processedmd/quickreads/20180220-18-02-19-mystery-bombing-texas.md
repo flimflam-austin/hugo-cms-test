@@ -34,7 +34,7 @@ card_1:
     March 19, 2018
   card_citation: ''
 card_2:
-  card_text: "Backstory: Bombs\n----------------\n\n*   Austin = Capital city of Texas.\n*   4 separate incidents, killing 2 people in less than a month.\n*   Bombs in form of delivered pkg or suspected tripwire.\n*   First 3 victims: African-American, Next 3 victims: Different races\n*   Police havena\x19t ruled out hate crime or terrorism.\n\nFlip For Timeline"
+  card_text: "Backstory: Bombsn----------------nn*   Austin = Capital city of Texas.n*   4 separate incidents, killing 2 people in less than a month.n*   Bombs in form of delivered pkg or suspected tripwire.n*   First 3 victims: African-American, Next 3 victims: Different racesn*   Police havenax19t ruled out hate crime or terrorism.nnFlip For Timeline"
   card_citation: Flip For Timeline
 card_3:
   card_text: >-
@@ -63,7 +63,7 @@ card_4:
     shrapnel and nails when it exploded.”A_ Austin Statesman
   card_citation: ''
 card_5:
-  card_text: "What You Should Know:\n---------------------\n\n*   **FBI & ATF devoting resources** to investigation. (Important: No matter where you live, federal tax dollars flowing to solve this crime).\n*   Cops consider the tripwire bomb a a\x1C**significant change**a\x1D – because of technology & target (seemingly random people).\n*   Tripwire use also indicates a **level of sophistication**, according to law enforcement."
+  card_text: "What You Should Know:n---------------------nn*   **FBI & ATF devoting resources** to investigation. (Important: No matter where you live, federal tax dollars flowing to solve this crime).n*   Cops consider the tripwire bomb a ax1C**significant change**ax1D – because of technology & target (seemingly random people).n*   Tripwire use also indicates a **level of sophistication**, according to law enforcement."
   card_citation: ''
 card_6:
   card_text: >-
@@ -91,6 +91,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-19-mystery-bombing-texas/)
   card_citation: ''
+
 ---
 *   FBI Press Release:A [https://www.fbi.gov/contact-us/field-offices/sanantonio/news/press-releases/austin-police-department-atf-and-fbi-seek-information-on-package-bomb-murders](\"https://www.fbi.gov/contact-us/field-offices/sanantonio/news/press-releases/austin-police-department-atf-and-fbi-seek-information-on-package-bomb-murders\")
 *   Austin Police Briefing:A [https://twitter.com/Austin\_Police/status/975749619538784256](\"https://twitter.com/Austin_Police/status/975749619538784256\")

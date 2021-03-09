@@ -79,6 +79,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-08-08-trump-hollywood-star/)
   card_citation: ''
+
 ---
 *   **West Hollywood City Council Approves Resolution Urging Removal of Trump’s Walk of Fame Star:**  
     [https://www.hollywoodreporter.com/news/weho-city-council-vote-removing-trumps-walk-fame-star-1132369](\"https://www.hollywoodreporter.com/news/weho-city-council-vote-removing-trumps-walk-fame-star-1132369\")

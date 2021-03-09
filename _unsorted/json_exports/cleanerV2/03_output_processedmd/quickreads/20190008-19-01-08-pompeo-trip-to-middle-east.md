@@ -53,10 +53,10 @@ card_2:
     activities in the Middle East.
   card_citation: ''
 card_3:
-  card_text: "Why Now?\n--------\n\n> a\x1CThis is the reality setting in that youa\x19ve got to plan this out.”\n> \n> Sen. Lindsey Graham (R-SC), responding to a question about whether the President's declaration that 2,000 U.S. troops will withdraw from Syria was a \"mistake.\" A day after Pres. Trump's announcement, fmr. Sec. of Def Mattis resigned & emphasized the importance of America's allies. NS Advisor John Bolton & Sec. Pompeo are now meeting with key regional Mideast allies."
+  card_text: "Why Now?n--------nn> ax1CThis is the reality setting in that youax19ve got to plan this out.”n> n> Sen. Lindsey Graham (R-SC), responding to a question about whether the President's declaration that 2,000 U.S. troops will withdraw from Syria was a "mistake." A day after Pres. Trump's announcement, fmr. Sec. of Def Mattis resigned & emphasized the importance of America's allies. NS Advisor John Bolton & Sec. Pompeo are now meeting with key regional Mideast allies."
   card_citation: ''
 card_4:
-  card_text: "> a\x1COne day he (President Trump) is saying we are in Syria for the long term to fight Iran. The next day Trump says wea\x19re leaving in 30 days and Iran can do whatever it wants in Syria. Ita\x19s impossible to be effective in this environment.”\n> \n> Ilan Goldenberg, fmr. Obama official, now w/the bipartisan nonprofit Center for a New American Security. Sec. Pompeo plans to speak about America's Middle East policy while in Cairo - the same city Pres. Obama delivered a speech on the same topic."
+  card_text: "> ax1COne day he (President Trump) is saying we are in Syria for the long term to fight Iran. The next day Trump says weax19re leaving in 30 days and Iran can do whatever it wants in Syria. Itax19s impossible to be effective in this environment.”n> n> Ilan Goldenberg, fmr. Obama official, now w/the bipartisan nonprofit Center for a New American Security. Sec. Pompeo plans to speak about America's Middle East policy while in Cairo - the same city Pres. Obama delivered a speech on the same topic."
   card_citation: ''
 card_5:
   card_text: >-
@@ -92,7 +92,7 @@ card_6:
 card_10:
   card_text: >-
     Sec. Pompeo's trip follows NS Advisor, John Bolton's trip to Israel & Turkey
-    (2 countries Sec. Pompeo is not scheduled to visit). Though he \*may\*
+    (2 countries Sec. Pompeo is not scheduled to visit). Though he *may*
     reportedly stop in Israel or Iraq). The current itinerary: Jordan, Egypt,
     Bahrain, United Arab Emirates, Qatar, Saudi Arabia, Oman & Kuwait
 
@@ -100,6 +100,7 @@ card_10:
     [view
     sources](https://smarthernews.com/19-01-08-pompeo-trip-to-middle-east/)
   card_citation: ''
+
 ---
 *   **Secretary Pompeo’s Travel to Amman, Cairo, Manama, Abu Dhabi, Doha, Riyadh, Muscat, and Kuwait City:**  
     [https://www.state.gov/r/pa/prs/ps/2019/01/288319.htm](\"https://www.state.gov/r/pa/prs/ps/2019/01/288319.htm\")

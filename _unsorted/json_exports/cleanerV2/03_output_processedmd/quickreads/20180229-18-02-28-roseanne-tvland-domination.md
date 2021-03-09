@@ -93,6 +93,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-02-28-roseanne-tvland-domination/)
   card_citation: ''
+
 ---
 *   **Author’s Note**: ABC’s ‘Roseanne’ crushed competitors days after CBS had a record showing for its ’60 minutes’ with an exclusive interview with an adult-film star, Stormy Daniels, who alleges an affair with President Trump. The one thing these two drastically different broadcasts have in common? Trump as the topic. NYT reports the President called Roseanne to congratulate her on the show’s “huge” ratings.
 *   ‘Roseanne’ Really Over-Performed in Middle America:  

@@ -24,6 +24,7 @@ featured_quote:
     Senior Advisor to President Trump Kelly Anne Conway announcing her departure
     from the White House.
   citation: ''
+
 ---
 *   Conway will leave at the end of the month.
 *   Her husband, an open critic of Pres. Trump, also announced [he will leave a democrat leaning organization](\"https://www.washingtonpost.com/politics/kellyanne-conway-white-house/2020/08/23/6c26e18a-e5a7-11ea-bc79-834454439a44_story.html\"), The Lincoln Project, as well.

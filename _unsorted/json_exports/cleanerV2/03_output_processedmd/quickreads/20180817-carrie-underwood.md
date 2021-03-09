@@ -34,6 +34,7 @@ card_10:
 
     [view sources](https://smarthernews.com/carrie-underwood/)
   card_citation: ''
+
 ---
 *   **WATCH: Carrie Underwood on getting beyond three miscarriages, to joy:**  
     [https://www.cbsnews.com/news/carrie-underwood-on-getting-beyond-three-miscarriages-to-joy/](\"https://www.cbsnews.com/news/carrie-underwood-on-getting-beyond-three-miscarriages-to-joy/\")  

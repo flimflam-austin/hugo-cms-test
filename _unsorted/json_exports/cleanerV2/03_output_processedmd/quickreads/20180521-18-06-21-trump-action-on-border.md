@@ -30,7 +30,7 @@ card_1:
     FLIP FOR DETAILS
   card_citation: FLIP FOR DETAILS
 card_2:
-  card_text: "What We Know:\n-------------\n\n*   Trumpa\x19s exec order will notA **change a\x1Czero tolerancea\x1D** **policy** – govt will charge all who cross the border illegally.\n*   However, itA **ends separations** byA keeping families together in detention centers, run with the help of **Dept of Defense**.\n*   It does leave roomA to separate children from family, but only if ita\x19s in the child’s best interests."
+  card_text: "What We Know:n-------------nn*   Trumpax19s exec order will notA **change ax1Czero toleranceax1D** **policy** – govt will charge all who cross the border illegally.n*   However, itA **ends separations** byA keeping families together in detention centers, run with the help of **Dept of Defense**.n*   It does leave roomA to separate children from family, but only if itax19s in the child’s best interests."
   card_citation: ''
 card_3:
   card_text: >-
@@ -49,11 +49,12 @@ card_3:
     *   TBD what L.A.-based Federal Judge Dolly Gee will rule.
   card_citation: ''
 card_4:
-  card_text: "Past As Precedent?\n------------------\n\n> “A federal judge, Dolly M. Gee, scuttled the Obama teama\x19s efforts to jail families together in 2015 when she ruled that doing so violated the agreement and said migrant children couldna\x19t be held more than 20 days.”\n> \n> WSJ. Trump admin will face same legal issue as Obama admin, and same judge. Children held now an ave of 40-50 days before placed w/sponsor family.."
+  card_text: "Past As Precedent?n------------------nn> “A federal judge, Dolly M. Gee, scuttled the Obama teamax19s efforts to jail families together in 2015 when she ruled that doing so violated the agreement and said migrant children couldnax19t be held more than 20 days.”n> n> WSJ. Trump admin will face same legal issue as Obama admin, and same judge. Children held now an ave of 40-50 days before placed w/sponsor family.."
   card_citation: ''
 card_10:
-  card_text: "The President's Executive Order doesna\x19t change the status of children already separated. Thata\x19s TBD.\n\n[view sources](https://smarthernews.com/18-06-21-trump-action-on-border/)"
+  card_text: "The President's Executive Order doesnax19t change the status of children already separated. Thatax19s TBD.nn[view sources](https://smarthernews.com/18-06-21-trump-action-on-border/)"
   card_citation: ''
+
 ---
 *   **Trump says hea\\u0019ll sign order ending child-parent separation:  
     **[https://apnews.com/1dafadd6fee4447cadd4a0179553026e/Trump-says-he’ll-sign-order-ending-child-parent-separation](\"https://apnews.com/1dafadd6fee4447cadd4a0179553026e/Trump-says-he'll-sign-order-ending-child-parent-separation\")

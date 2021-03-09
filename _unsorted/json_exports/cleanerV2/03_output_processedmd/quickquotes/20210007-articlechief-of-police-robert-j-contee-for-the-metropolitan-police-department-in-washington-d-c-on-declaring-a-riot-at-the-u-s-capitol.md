@@ -27,6 +27,7 @@ featured_quote:
     Chief of Police Robert J. Contee for the Metropolitan Police Department in
     Washington D.C. on declaring a riot at the U.S. Capitol.
   citation: ''
+
 ---
 *   Chief Contee did not give an exact time for a declaration of a “riot” on January 6th, 2021 during the security breach at the U.S. Capitol – when those who began as protestors illegally entered federal property and violently confronted law enforcement.
 *   MPD (Metropolitan Police Department) assisted Capitol Hill Police who were overwhelmed by those attempting to enter the Capitol. USCP (U.S. Capitol Police) have jurisdiction on this federal property.

@@ -38,7 +38,7 @@ card_1:
     Flip: What's Going On
   card_citation: 'Flip: What''s Going On'
 card_2:
-  card_text: "Historic Jeweler Promoting \\*New Collection\\*  \n\n------------------------------------------------\n\n> Inspiration for ‘**painting the town blue**‘: Holly GoLightly\n> \n> Ita\x19s a\x1C_the juxtaposition of wearing a floor length gown and a tiara while holding a paper bag with coffee and a pastry. …__**The idea that luxury doesna\x19t have to be formal**_.a\x1D\n> \n> Reed Krakoff , Tiffany & Co. Chief Artistic Officer, to Vogue"
+  card_text: "Historic Jeweler Promoting *New Collection*  nn------------------------------------------------nn> Inspiration for ‘**painting the town blue**‘: Holly GoLightlyn> n> Itax19s ax1C_the juxtaposition of wearing a floor length gown and a tiara while holding a paper bag with coffee and a pastry. …__**The idea that luxury doesnax19t have to be formal**_.ax1Dn> n> Reed Krakoff , Tiffany & Co. Chief Artistic Officer, to Vogue"
   card_citation: ''
 card_3:
   card_text: >-
@@ -65,6 +65,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-05-01-new-york-city-makeover/)
   card_citation: ''
+
 ---
 *   **Custom Google Map:**A [https://www.google.com/maps/d/viewer?ll=40.730664244604164%2C-73.99036241586913&hl=en&z=14&mid=1xbGLJNqWv\_RyuJQzOZQbnWpI35FP6tBR](\"https://www.google.com/maps/d/viewer?ll=40.730664244604164%2C-73.99036241586913&hl=en&z=14&mid=1xbGLJNqWv_RyuJQzOZQbnWpI35FP6tBR\")
 *   **Tiffany & Co. Is Bringing Its Trademark Shade of Blue to New York City Streets**A [https://www.vogue.com/article/tiffany-co-brings-trademark-blue-to-new-york-city](\"https://www.vogue.com/article/tiffany-co-brings-trademark-blue-to-new-york-city\")

@@ -45,7 +45,7 @@ card_2:
     *   No further clarity on motive.
   card_citation: ''
 card_3:
-  card_text: "Searching For Answers\n=====================\n\n> a\x1CWith a good deal of screening, I didna\x19t see anything.a\x1D\n> \n> Dr. Hannes Vogel, Dir. of Neuropathology Stanford University to NYT about examining shooter's brain."
+  card_text: "Searching For Answersn=====================nn> ax1CWith a good deal of screening, I didnax19t see anything.ax1Dn> n> Dr. Hannes Vogel, Dir. of Neuropathology Stanford University to NYT about examining shooter's brain."
   card_citation: ''
 card_4:
   card_text: |-
@@ -82,6 +82,7 @@ card_5:
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-02-12-las-vegas-shooter/)'
   card_citation: ''
+
 ---
 *   Las Vegas shootera\\u0019s autopsy gives no cluesA [https://www.reviewjournal.com/news/investigations/las-vegas-shooters-autopsy-gives-no-clues/](\"https://www.reviewjournal.com/news/investigations/las-vegas-shooters-autopsy-gives-no-clues/\")
 *   Autopsy gives no insight on motive in Vegas mass shootingA [http://tucson.com/news/national/judge-orders-media-to-return-mass-shooting-autopsy-report/article\_acc0b40f-aea8-5a38-8352-08cae6a31c15.html](\"http://tucson.com/news/national/judge-orders-media-to-return-mass-shooting-autopsy-report/article_acc0b40f-aea8-5a38-8352-08cae6a31c15.html\")

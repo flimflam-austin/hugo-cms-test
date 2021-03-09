@@ -22,6 +22,7 @@ featured_quote:
     Israel’s longest-serving Prime Minister Benjamin Netanyahu reacting to news
     he is the first sitting Israeli PM to face criminal charges.
   citation: ''
+
 ---
 *   Last week, he was charged with bribery, fraud and breach of trust for widespread corruption.
 *   The indictment comes as Israel inches toward holding its third election in less than a year after Netanyahu has twice failed to form a coalition.

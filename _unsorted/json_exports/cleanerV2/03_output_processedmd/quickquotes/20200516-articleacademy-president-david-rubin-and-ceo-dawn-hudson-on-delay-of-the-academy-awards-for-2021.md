@@ -28,6 +28,7 @@ featured_quote:
     Academy president David Rubin and CEO Dawn Hudson on delay of the Academy
     Awards for 2021.
   citation: ''
+
 ---
 *   The Academy Awards have been postponed from February to late April 2021 due to concerns over coronavirus.
 *   This is the only 4th time in history the awards show has been postponed: _“They were first delayed in 1938 after massive flooding in Los Angeles. In 1968, they were put on hold after the assassination of Dr. Martin Luther King, Jr., and again in 1981 following an assassination attempt on President Ronald Reagan.” ([Variety](\"https://variety.com/2020/film/news/oscars-2021-postponed-coronavirus-1234635457/\"))_

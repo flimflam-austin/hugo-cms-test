@@ -70,6 +70,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-12-tv-internet-habits/)
   card_citation: ''
+
 ---
 *   **Next year, people will spend more time online than they will watching TV. Thata\\u0019s a first.:**  
     [https://www.recode.net/2018/6/8/17441288/internet-time-spent-tv-zenith-data-media](\"https://www.recode.net/2018/6/8/17441288/internet-time-spent-tv-zenith-data-media\")

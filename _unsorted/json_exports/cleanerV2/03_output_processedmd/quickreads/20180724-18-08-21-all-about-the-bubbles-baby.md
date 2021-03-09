@@ -1,6 +1,6 @@
 ---
 title: all about the bubbles baby
-description: "What pepsia\x19s latest $3 billion purchase tells us about the beverage industry (and our drinking habits)."
+description: "What pepsiax19s latest $3 billion purchase tells us about the beverage industry (and our drinking habits)."
 aliases:
   - 18-08-21-all-about-the-bubbles-baby/
 published: true
@@ -72,6 +72,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-08-21-all-about-the-bubbles-baby/)
   card_citation: ''
+
 ---
 *   **The man who invented carbonated water:A Joseph Priestley and the Discovery of Oxygen:**  
     [https://www.acs.org/content/acs/en/education/whatischemistry/landmarks/josephpriestleyoxygen.html](\"https://www.acs.org/content/acs/en/education/whatischemistry/landmarks/josephpriestleyoxygen.html\")

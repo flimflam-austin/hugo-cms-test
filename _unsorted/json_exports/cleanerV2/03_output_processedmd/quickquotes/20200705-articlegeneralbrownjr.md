@@ -29,6 +29,7 @@ featured_quote:
     U.S. Air Force – the first African-American in U.S. history to lead a
     military branch.
   citation: ''
+
 ---
 *   General Brown joined ROTC at Texas Tech as a young man. He thought [he would serve 4 years](\"https://today.ttu.edu/posts/2020/06/Stories/alumnus-chosen-head-air-force\") on his way to becoming an engineer. Now, he will lead the Air Force.
 *   What changed his course? His love for flying. He is a trained fighter pilot and has flown 120 combat tours.

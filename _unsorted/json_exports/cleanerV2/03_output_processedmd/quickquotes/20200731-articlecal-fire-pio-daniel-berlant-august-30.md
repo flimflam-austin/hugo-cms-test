@@ -24,6 +24,7 @@ featured_quote:
     burning an area in California collectively “larger than the state of
     Delaware.”
   citation: ''
+
 ---
 *   Berlant says since mid-August the state has experienced 14,000 lightning strikes and 840 fires.
 *   Cooler temperatures aided firefighters this weekend but numerous fires continue to burn.

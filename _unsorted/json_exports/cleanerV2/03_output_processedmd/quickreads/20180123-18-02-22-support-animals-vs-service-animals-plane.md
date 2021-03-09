@@ -51,7 +51,7 @@ card_2:
     support animals ensued.
   card_citation: ''
 card_3:
-  card_text: "Why This Is Important\n---------------------\n\n> “United had been reviewing its policy since late last yearA afterA a **75% increase in emotional-support animals** on flightsA and a\x1Ca significant increase in onboard incidents.a\x1D\n> \n> Charlie Hobart, United Airlines spokesman, USA Today, Feb 1, 2018"
+  card_text: "Why This Is Importantn---------------------nn> “United had been reviewing its policy since late last yearA afterA a **75% increase in emotional-support animals** on flightsA and ax1Ca significant increase in onboard incidents.ax1Dn> n> Charlie Hobart, United Airlines spokesman, USA Today, Feb 1, 2018"
   card_citation: ''
 card_4:
   card_text: >-
@@ -93,6 +93,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-02-22-support-animals-vs-service-animals-plane/)
   card_citation: ''
+
 ---
 *   Girl injured by dog during boarding for Southwest flightA [https://apnews.com/f29933c0a6f242d8828fa7cd51498a4a](\"https://apnews.com/f29933c0a6f242d8828fa7cd51498a4a\")  
     _Unlike service animals such as guide dogs, support animals need no training. However, passengers can be asked to show a medical professionala\\u0019s note explaining why they need the animal to travel.A_ _Southwest started reviewing its policy even before Wednesdaya\\u0019s event, Ford said. Starting next week, Delta Air Lines and United Airlines will require more paperwork and assurances from owners of support animals.A_ _Both Delta and United said they have seen a sharp rise in the number of support animals in the last year or so. Last June, a 70-pound (32-kilogram) dog flying on Delta as a support animal bit a passenger in the face severely enough that the man required hospital care._

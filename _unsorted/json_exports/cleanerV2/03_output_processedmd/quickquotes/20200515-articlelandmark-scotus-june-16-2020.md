@@ -1,5 +1,5 @@
 ---
-title: "gerald bostock, one of the plaintiffs in the landmark ruling handed down by the u.s. supreme court that workplace discrimination against gay and transgender employees is prohibited under federal\_law."
+title: "gerald bostock, one of the plaintiffs in the landmark ruling handed down by the u.s. supreme court that workplace discrimination against gay and transgender employees is prohibited under federal_law."
 description: >-
   My hope is that this brings a little bit of sunshine to these dark days...
   there is no room in this world for discrimination or racism.
@@ -21,8 +21,9 @@ featured_quote:
   quote: >-
     My hope is that this brings a little bit of sunshine to these dark days...
     There is no room in this world for discrimination or racism.
-  summary: "Gerald Bostock, one of the plaintiffs in the landmark ruling handed down by the U.S. Supreme Court that workplace discrimination against gay and transgender employees is prohibited under federal\_law."
+  summary: "Gerald Bostock, one of the plaintiffs in the landmark ruling handed down by the U.S. Supreme Court that workplace discrimination against gay and transgender employees is prohibited under federal_law."
   citation: ''
+
 ---
 *   The U.S. Supreme Court ruled an existing federal law that bans workplace discrimination on the basis of race, color, religion, national origin, or sex **\*also\*** protects workers from discrimination based on sexual orientation and gender identity. The justices reasoned that “sex” encompasses both sexual orientation and gender identity
 *   The 6-3 landmark decision ruling that discrimination against gay and transgender employees is prohibited under Title VII of the Civil Rights Act of 1964 was written by Pres. Trump appointee Justice Neil Gorsuch, who wrote: “_Today, we must decide whether an employer can fire someone simply for being homosexual or transgender. The answer is clear. An employer who fires an individual for being homosexual or transgender fires that person for traits or actions it would not have questioned in members of a different sex. Sex plays a necessary and undisguisable role in the decision, exactly what Title VII forbids._

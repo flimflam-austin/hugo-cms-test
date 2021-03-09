@@ -28,6 +28,7 @@ featured_quote:
     Texas Gov. Abbott announces the state is pausing its reopening plans amid a
     spike in COVID-19 cases.
   citation: ''
+
 ---
 *   Texas was among the first states to “reopen” its economy, but this week it was one of many states that set its highest single-day case record for new COVID-19 cases after two weeks of soaring case numbers. Others include Arizona, California, Florida, Mississippi, Nevada, and Oklahoma. Of those, only California and Oklahoma require residents to wear face masks.
 *   The state also saw its highest number of daily hospitalizations this week – more than double what it was two weeks ago. Gov. Greg Abbott’s decision came as he announced a ban on elective surgeries in hospitals located in some of Texas’  hardest-hit areas, like Austin, Dallas and San Antonio, in order to conserve bed capacity for COVID-19 patients.

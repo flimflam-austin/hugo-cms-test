@@ -49,7 +49,7 @@ card_3:
 
 
     *   While Mother’s Day became official in 1914, Father’s Day did not become
-    \*official\* until 1972.
+    *official* until 1972.
 
     *   That said, Father’s Day was observed in various ways around the country
     in the decades in between.
@@ -89,6 +89,7 @@ card_10:
 
     [view sources](https://smarthernews.com/fathers-day/)
   card_citation: ''
+
 ---
 *   **Father’s Day Proclamation: [CLICK HERE](\"https://www.presidency.ucsb.edu/documents/proclamation-4127-fathers-day\")**
 *   **Father’s Day Becomes A National Holiday** [CLICK HERE](\"https://history.house.gov/Historical-Highlights/1951-2000/Father-s-Day-becomes-a-national-holiday/\")

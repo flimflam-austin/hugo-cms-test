@@ -25,6 +25,7 @@ featured_quote:
     recent weeks to announce promising clinical trial results for a COVID-19
     vaccine.
   citation: ''
+
 ---
 *   **THE LATEST:** AstraZeneca’s CEO [says](\"https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2020/azd1222hlr.html\") the “_vaccine’s efficacy and safety confirm that it will be highly effective against COVID-19 and will have an immediate impact on this public health emergency. Furthermore, the vaccine’s simple supply chain and our no-profit pledge and commitment to broad, equitable and timely access means it will be affordable and globally available, supplying hundreds of millions of doses on approval_.”
     *   Last week, Moderna announced the results of its Phase 3 COVID-19 vaccine trial show it’s nearly 95% effective.

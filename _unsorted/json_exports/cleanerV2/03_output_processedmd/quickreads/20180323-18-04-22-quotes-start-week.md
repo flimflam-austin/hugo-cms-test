@@ -32,7 +32,7 @@ card_1:
     daughter, died at 3 years from Leukemia.
   card_citation: ''
 card_2:
-  card_text: "> “a\x1CHe has a good life and he has everything. Donald is going to be 74, 73 for the next \\[election\\] and maybe he should just go and play golf and enjoy his fortune.a\x1D\n> \n> Ivana Trump, Pres. Trump's ex-wife, interview with \"Page Six\", April 21, 2018. She also discusses her ex-husband not \"taking nonsense from anybody\".\n\n[click for full article](https://pagesix.com/2018/04/21/ivana-trump-says-donald-should-just-go-and-play-golf/)"
+  card_text: "> “ax1CHe has a good life and he has everything. Donald is going to be 74, 73 for the next [election] and maybe he should just go and play golf and enjoy his fortune.ax1Dn> n> Ivana Trump, Pres. Trump's ex-wife, interview with "Page Six", April 21, 2018. She also discusses her ex-husband not "taking nonsense from anybody".nn[click for full article](https://pagesix.com/2018/04/21/ivana-trump-says-donald-should-just-go-and-play-golf/)"
   card_citation: click for full article
 card_3:
   card_text: >-
@@ -66,7 +66,7 @@ card_4:
     now faces a primary challenge.
   card_citation: ''
 card_5:
-  card_text: "ICYMI:\n------\n\n> a\x1CWith all due respect, I dona\x19t get confused.a\x1D\n> \n> UN Amb, Nikki Haley, Fox News, April 17, 2018 responding to WH Econ Advisor who said she may have been momentarily confused when speaking about a new round Russian sanctions (that never happened). Something to watch for this week: Any further U.S. action vs. Russia regarding Syria."
+  card_text: "ICYMI:n------nn> ax1CWith all due respect, I donax19t get confused.ax1Dn> n> UN Amb, Nikki Haley, Fox News, April 17, 2018 responding to WH Econ Advisor who said she may have been momentarily confused when speaking about a new round Russian sanctions (that never happened). Something to watch for this week: Any further U.S. action vs. Russia regarding Syria."
   card_citation: ''
 card_10:
   card_text: |-
@@ -74,6 +74,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-22-quotes-start-week/)
   card_citation: ''
+
 ---
 Ivana Trump thinks Vanessa will a\\u0018have a problema\\u0019 finding a newA man: [https://pagesix.com/2018/04/21/ivana-trump-says-donald-should-just-go-and-play-golf/](\"https://pagesix.com/2018/04/21/ivana-trump-says-donald-should-just-go-and-play-golf/\")
 

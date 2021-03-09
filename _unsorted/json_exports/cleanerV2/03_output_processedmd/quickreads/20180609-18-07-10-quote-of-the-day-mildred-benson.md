@@ -29,6 +29,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-07-10-quote-of-the-day-mildred-benson/)
   card_citation: ''
+
 ---
 **Who was Carolyn Keene?**  
 **An interview with Mildred Wirt Benson, the original ghostwriter for the Nancy Drew mystery novels**.A [https://www.salon.com/1999/10/08/keene\_q\_a/](\"https://www.salon.com/1999/10/08/keene_q_a/\")

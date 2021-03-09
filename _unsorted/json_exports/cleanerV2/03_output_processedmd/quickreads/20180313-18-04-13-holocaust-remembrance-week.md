@@ -43,10 +43,10 @@ card_2:
     bottles were dug up after WWII & used to reunite families.
   card_citation: ''
 card_3:
-  card_text: "**1943:** Sendlerowa was arrested, sentenced to death, but escaped.\n\n**1965:** Israela\x19s Holocaust memorial organization, Yad Vashem, awarded her “Righteous Among the Nations.”\n\n**2003:** Poland honored Sendlerowa with the “Order of the White Eagle.”\n\n**2008:** Shortly before her death, Sendlerowa was nominated for (but did not win) the Nobel Peace Prize."
+  card_text: "**1943:** Sendlerowa was arrested, sentenced to death, but escaped.nn**1965:** Israelax19s Holocaust memorial organization, Yad Vashem, awarded her “Righteous Among the Nations.”nn**2003:** Poland honored Sendlerowa with the “Order of the White Eagle.”nn**2008:** Shortly before her death, Sendlerowa was nominated for (but did not win) the Nobel Peace Prize."
   card_citation: ''
 card_4:
-  card_text: "NEVER FORGET\n============\n\n> 1 out of 10 U.S. adults & 22% of millennials have either not heard of/ not sure if they’ve heard of the Holocaust.\n> \n> _“We are alarmed that todaya\x19s generation lacks some of the basic knowledge about these atrocities.a\x1D_\n> \n> Julius Berman, President of the Conference on Jewish Material Claims Against Germany"
+  card_text: "NEVER FORGETn============nn> 1 out of 10 U.S. adults & 22% of millennials have either not heard of/ not sure if they’ve heard of the Holocaust.n> n> _“We are alarmed that todayax19s generation lacks some of the basic knowledge about these atrocities.ax1D_n> n> Julius Berman, President of the Conference on Jewish Material Claims Against Germany"
   card_citation: ''
 card_10:
   card_text: >-
@@ -59,6 +59,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-04-13-holocaust-remembrance-week/)
   card_citation: ''
+
 ---
 *   I’m no hero, says woman who saved 2,500 ghetto children: ARTICLE FROM 2007A A [https://www.theguardian.com/world/2007/mar/15/secondworldwar.poland](\"https://www.theguardian.com/world/2007/mar/15/secondworldwar.poland\")
 *   Stories of Women Who Rescued Jews During the Holocaust: [www.yadvashem.org/yv/en/exhibitions/righteous-women/sendler.asp](\"http://www.yadvashem.org/yv/en/exhibitions/righteous-women/sendler.asp\")

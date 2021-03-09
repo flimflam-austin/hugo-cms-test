@@ -34,7 +34,7 @@ card_1:
     Why It Matters
   card_citation: Why It Matters
 card_2:
-  card_text: "> “The term a\x1Csexual assaulta\x1D means **any nonconsensual sexual act** proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.”\n> \n> U.S. Justice Department on what constitutes \"sexual assault\" under federal law. The definitions of \"sexual assault\" and \"sexual misconduct\" vary by state."
+  card_text: "> “The term ax1Csexual assaultax1D means **any nonconsensual sexual act** proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.”n> n> U.S. Justice Department on what constitutes "sexual assault" under federal law. The definitions of "sexual assault" and "sexual misconduct" vary by state."
   card_citation: ''
 card_3:
   card_text: >-
@@ -63,6 +63,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-09-25-what-is-sexual-assault/)
   card_citation: ''
+
 ---
 *   **Sexual Assault:**  
     [https://www.justice.gov/ovw/sexual-assault#sa](\"https://www.justice.gov/ovw/sexual-assault#sa\")

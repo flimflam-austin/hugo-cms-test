@@ -24,6 +24,7 @@ featured_quote:
     suggesting Johnson and Johnson’s single-dose vaccine is 85% effective in
     preventing severe cases of COVID-19.
   citation: ''
+
 ---
 *   If approved, the Johnson and Johnson (J&J) vaccine would be the first single-dose COVID-19 vaccine available. Health officials say this will streamline the vaccination process by improving access to people in rural areas and developing countries.
 *   The [data](\"https://www.jnj.com/johnson-johnson-announces-single-shot-janssen-covid-19-vaccine-candidate-met-primary-endpoints-in-interim-analysis-of-its-phase-3-ensemble-trial\"), based on an ongoing study with nearly 44,000 participants in the U.S. and seven other countries, suggests it is “**66% effective overall in preventing moderate to severe COVID-19, 28 days after vaccination.**”

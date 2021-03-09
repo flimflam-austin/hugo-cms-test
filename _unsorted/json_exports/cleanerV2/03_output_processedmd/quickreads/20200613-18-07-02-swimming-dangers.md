@@ -86,8 +86,9 @@ card_4:
     *   Outbreaks caused 4,958 illnesses & 2 fatalities.
   card_citation: ''
 card_10:
-  card_text: "Unfortunately when we look at accidental deaths, summer is not the carefree period wea\x19d like it to be,a\x1D Ken Kolosh, manager of statistics at the National Safety Council who compiles data over the last 98-years.\n\n[view sources](https://smarthernews.com/18-07-02-swimming-dangers/)"
+  card_text: "Unfortunately when we look at accidental deaths, summer is not the carefree period weax19d like it to be,ax1D Ken Kolosh, manager of statistics at the National Safety Council who compiles data over the last 98-years.nn[view sources](https://smarthernews.com/18-07-02-swimming-dangers/)"
   card_citation: ''
+
 ---
 *   **When it Comes to Accidental Deaths, United States is Approaching Deadliest Stretch of the Year****  
     [https://www.nsc.org/in-the-newsroom/when-it-comes-to-accidental-deaths-united-states-is-approaching-deadliest-stretch-of-the-year](\"https://www.nsc.org/in-the-newsroom/when-it-comes-to-accidental-deaths-united-states-is-approaching-deadliest-stretch-of-the-year\")**

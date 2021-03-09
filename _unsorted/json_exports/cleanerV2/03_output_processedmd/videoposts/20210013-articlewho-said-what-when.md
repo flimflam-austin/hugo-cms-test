@@ -22,6 +22,7 @@ featured_image:
 summary: >-
   The latest remarks from the President and lawmakers on either side of the
   aisle.
+
 ---
 What lawmakers said during the debate on impeaching President Trump:
 

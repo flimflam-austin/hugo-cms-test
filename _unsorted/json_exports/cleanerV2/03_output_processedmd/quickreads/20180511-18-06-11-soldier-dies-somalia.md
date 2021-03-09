@@ -86,6 +86,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-11-soldier-dies-somalia/)
   card_citation: ''
+
 ---
 ![\"\"](\"https://smarthernews.com/wp-content/uploads/2018/06/alexanderconrad1200-300x200.jpg\")
 

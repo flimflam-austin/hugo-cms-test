@@ -30,6 +30,7 @@ featured_quote:
     husband, designer Mossimo Giannulli, will go to prison for their involvement
     in an unprecedented college admissions scandal.
   citation: ''
+
 ---
 *   On Friday, two of the most famous defendants embroiled in the college admissions case (aka Varsity Blues), Loughlin and Giannulli, became the 23rd and 24th parents to plead guilty.
     *   Loughlin pleaded guilty to conspiracy to commit wire and mail fraud. She agreed to serve two months in prison and pay a $150,000 fine.

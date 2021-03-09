@@ -79,7 +79,7 @@ card_5:
 
     *   Amazon paid $957M in income taxes in 2017.
 
-    *   Amazon \*used\* to not collect sales tax (arguably hurting state/local
+    *   Amazon *used* to not collect sales tax (arguably hurting state/local
     govt), but has since ’17.
 
     *   Amazon uses USPS to deliver pkgs because it’s cheaper. Period.
@@ -94,6 +94,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-02-potus-amazon-tweets/)
   card_citation: ''
+
 ---
 *   **SmartHer Take**: Amazon didn’t cause the U.S. postal service’s downfall, but it usually pays less using USPS than it would from other big corps (FedEx & UPS), and like other big corps, it pays taxes, but benefits from tax breaks / loopholes.
 *   Melissa Francis’s Take: Art of The Deal?A [https://www.dmagazine.com/business-economy/2018/03/news-anchor-trumps-amazon-attack-was-just-a-negotiating-ploy/](\"https://www.dmagazine.com/business-economy/2018/03/news-anchor-trumps-amazon-attack-was-just-a-negotiating-ploy/\")

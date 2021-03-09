@@ -59,7 +59,7 @@ card_3:
     ---------------
 
 
-    *   Current \*Security Clearance\* system deemed “high risk” by gov’t
+    *   Current *Security Clearance* system deemed “high risk” by gov’t
     watchdog.
 
     *   Too many people have security clearances (est. 1.4M at “top secret”
@@ -69,7 +69,7 @@ card_3:
     clearance, according to most recent estimates.
   card_citation: ''
 card_4:
-  card_text: "Why Revoke Brennan?\n-------------------\n\n> “Mr. Brennan has recently leveraged his status as a former high-ranking official with access to highly sensitive information to make a series of unfounded and outrageous allegations a\x14 wild outbursts on the Internet and television a\x14 about this administration.\n> \n> President Trump"
+  card_text: "Why Revoke Brennan?n-------------------nn> “Mr. Brennan has recently leveraged his status as a former high-ranking official with access to highly sensitive information to make a series of unfounded and outrageous allegations ax14 wild outbursts on the Internet and television ax14 about this administration.n> n> President Trump"
   card_citation: ''
 card_5:
   card_text: >-
@@ -97,6 +97,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-08-16-who-keeps-our-secrets/)
   card_citation: ''
+
 ---
 *   **SOMETHING TO CONSIDER:** Deputy Dir of the CIA, Mike Morrell, says the argument officials use classified information to criticize the administration doesn’t work because…”Senators and Congressman have security clearances. Senators and Congressman know classified information. And they talk to the media all the time too.” Listen to more here:  
     [https://www.stitcher.com/podcast/cbs-radio-news/intelligence-matters/e/55529718](\"https://www.stitcher.com/podcast/cbs-radio-news/intelligence-matters/e/55529718?autoplay=true\")

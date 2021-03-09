@@ -3,7 +3,7 @@ title: >-
   us attorney g. zachary terwilliger speaking directly to the parents of james
   foley, peter kassig, kayla mueller and steven sotloff as he announces the
   indictment of isis terrorists known as the beatles.
-description: "It's now a certainty -\_isis will not have the last word when it comes to your children. you will."
+description: "It's now a certainty -_isis will not have the last word when it comes to your children. you will."
 aliases:
   - >-
     article/us-attorney-g-zachary-terwilliger-speaking-directly-to-the-parents-of-james-foley-peter-kassig-kayla-mueller-and-steven-sotloff-as-he-announces-the-indictment-of-isis-terrorists-known-as-the-beat/
@@ -20,12 +20,13 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2018/03/mads-schmidt-rasmussen-178879-unsplash-scaled.jpg
   alt: ''
 featured_quote:
-  quote: "It's now a certainty -\_ISIS will not have the last word when it comes to your children. You will."
+  quote: "It's now a certainty -_ISIS will not have the last word when it comes to your children. You will."
   summary: >-
     US Attorney G. Zachary Terwilliger speaking directly to the parents of James
     Foley, Peter Kassig, Kayla Mueller and Steven Sotloff as he announces the
     indictment of ISIS terrorists known as “the Beatles.”
   citation: ''
+
 ---
 *   On Wednesday, the Department of Justice [announced](\"https://www.justice.gov/usao-edva/pr/isis-militants-charged-deaths-americans-syria\") federal charges against two  members of ISIS (and former British citizens) in connection to their role in the torture and killings of four American citizens, as well as two British citizens, and two Japanese citizens, in Syria.
     *   2014: ISIS released videos depicting the beheading of American journalists **James Foley & Steven Sotloff** and two British citizens, as well as a video depicting the beheading of [American humanitarian worker **Peter Kassig**](\"https://www.indystar.com/story/news/crime/2020/10/07/peter-kassig-family-relieved-isis-guards-face-trial/5914154002/\").

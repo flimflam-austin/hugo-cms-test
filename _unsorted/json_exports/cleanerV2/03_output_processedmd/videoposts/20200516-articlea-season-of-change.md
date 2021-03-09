@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   From the Supreme Court to policing to the COVID-19 pandemic – all you need to
   know in less than 10 minutes.
+
 ---

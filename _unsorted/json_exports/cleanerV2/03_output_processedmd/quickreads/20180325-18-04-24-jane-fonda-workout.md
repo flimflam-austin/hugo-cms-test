@@ -85,10 +85,10 @@ card_5:
     **17M:**A Fonda workout videos sold.
   card_citation: ''
 card_6:
-  card_text: "Copycat Moves\n=============\n\nOthers tried to capitalize on the workout movement, including Richard Simmons, Arnold Schwarzenegger, and creator of Jazzercise,A Judi Missett.\n\n**Nothing topped Fondaa\x19s innovation**: In 1985, three of her tapes topped Billboarda\x19s VHS sales chart. **The original had been there for 145 weeks.**"
+  card_text: "Copycat Movesn=============nnOthers tried to capitalize on the workout movement, including Richard Simmons, Arnold Schwarzenegger, and creator of Jazzercise,A Judi Missett.nn**Nothing topped Fondaax19s innovation**: In 1985, three of her tapes topped Billboardax19s VHS sales chart. **The original had been there for 145 weeks.**"
   card_citation: ''
 card_7:
-  card_text: "Advice For Her  \n30-Year-Old Self?\n----------------------------------\n\n> “I would have wanted to learn to meditate earlier…. I didna\x19t know how to discover and believe in my real self and not try to be what other people wanted me to be…. I cana\x19t pretend that ita\x19s easy to still your mind; ita\x19s not easy…. Dona\x19t give up; it takes time!\n> \n> Jane Fonda to Shape Magazine in 2014"
+  card_text: "Advice For Her  n30-Year-Old Self?n----------------------------------nn> “I would have wanted to learn to meditate earlier…. I didnax19t know how to discover and believe in my real self and not try to be what other people wanted me to be…. I canax19t pretend that itax19s easy to still your mind; itax19s not easy…. Donax19t give up; it takes time!n> n> Jane Fonda to Shape Magazine in 2014"
   card_citation: ''
 card_10:
   card_text: >-
@@ -98,6 +98,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-24-jane-fonda-workout/)
   card_citation: ''
+
 ---
 *   **Jane Fonda on the 30th anniversary of her workout video (From 2012):** [https://www.janefonda.com/30th-anniversary-of-my-first-workout-video/](\"https://www.janefonda.com/30th-anniversary-of-my-first-workout-video/\")
 *   **GREAT READ: How Jane Fonda’s Workout Conquered the World:** [http://mentalfloss.com/article/65314/how-jane-fondas-workout-conquered-world](\"http://mentalfloss.com/article/65314/how-jane-fondas-workout-conquered-world\")

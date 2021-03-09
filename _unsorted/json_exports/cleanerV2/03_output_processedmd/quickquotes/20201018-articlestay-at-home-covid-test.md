@@ -31,6 +31,7 @@ featured_quote:
     authorization for a first of its kind at-home COVID-19 test – providing
     results in 30 minutes or less.
   citation: ''
+
 ---
 *   **How it works:** A test-taker swabs inside their nose, puts the sample in a vial and will get results in 30 minutes. [Here’s what it looks like and the company’s website.](\"https://www.lucirahealth.com\")
 *   **How accurate is it?:** The test boasts solid accuracy (although so far no test is 100%) catching 94% of all positive cases, and 98% of all negative cases.

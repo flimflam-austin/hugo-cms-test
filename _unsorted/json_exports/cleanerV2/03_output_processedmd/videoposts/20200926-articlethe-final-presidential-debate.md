@@ -22,5 +22,6 @@ featured_image:
 summary: >-
   The real story may have nothing to do with the candidates: What to know and
   why it matters for the final week before the election.
+
 ---
 Here’s a transcript of the debate: [CLICK HERE](\"https://www.usatoday.com/story/news/politics/elections/2020/10/23/debate-transcript-trump-biden-final-presidential-debate-nashville/3740152001/\")

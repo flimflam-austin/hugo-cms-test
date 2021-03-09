@@ -29,6 +29,7 @@ featured_quote:
     Professor Nathan Grubaugh, Yale School of Public Health, on new FDA-approved
     saliva test for COVID-19 he helped develop.
   citation: ''
+
 ---
 *   Test name: [SalivaDirect](\"https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization\")
 *   How it works: You spit into a small container (any container can be used). One estimate: You can get results in a few hours.

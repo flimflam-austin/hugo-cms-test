@@ -24,5 +24,6 @@ summary: >-
   President Trump accused Georgia election officials of not adequately looking
   into alleged voter fraud in the 2020 election. Georgia officials refute these
   accusations. Here’s the big picture on this developing story.
+
 ---
 Here’s a link to our backstory on all of this including a transcript/audio of the call: [READ MORE](\"https://smarthernews.com/article/ga-trump-phone-call/\")

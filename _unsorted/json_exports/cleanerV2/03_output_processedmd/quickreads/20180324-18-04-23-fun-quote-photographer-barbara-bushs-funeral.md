@@ -22,7 +22,7 @@ card_1:
     Flip: Backstory
   card_citation: 'Flip: Backstory'
 card_2:
-  card_text: "> a\x1CThey are real people a| I think it really says a lot about the kinship that this very select group of people has for each other. Theya\x19ve all served. Ita\x19s not so much about the politics at that time. Ita\x19s about honoring a very select member of that club.a\x1D\n> \n> Photographer Paul Morse to Time magazine. Morse worked for George W. Bush in the White House but has gone on to work with both the Clintons, Bushes and beyond."
+  card_text: "> ax1CThey are real people a| I think it really says a lot about the kinship that this very select group of people has for each other. Theyax19ve all served. Itax19s not so much about the politics at that time. Itax19s about honoring a very select member of that club.ax1Dn> n> Photographer Paul Morse to Time magazine. Morse worked for George W. Bush in the White House but has gone on to work with both the Clintons, Bushes and beyond."
   card_citation: ''
 card_10:
   card_text: >-
@@ -33,6 +33,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-04-23-fun-quote-photographer-barbara-bushs-funeral/)
   card_citation: ''
+
 ---
 *   **‘It Was Very Natural.’ The Story Behind the Viral Photo of 4 Former Presidents and First Ladies**A [http://time.com/5250307/barbara-bush-obama-clinton-trump-funeral-photo/?xid=tcoshare#352b4f95-bc81-476f-ba61-3552444c4b7b](\"http://time.com/5250307/barbara-bush-obama-clinton-trump-funeral-photo/?xid=tcoshare#352b4f95-bc81-476f-ba61-3552444c4b7b\")
 *   **Paul Morse: Instagram Account**:A https://www.instagram.com/p/Bh60UKLnTFw/

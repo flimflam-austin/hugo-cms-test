@@ -24,6 +24,7 @@ featured_quote:
     says lawmakers & the White House need to agree to a plan in the next
     48-hours to have a deal before the election.
   citation: ''
+
 ---
 *   The current bill stands around $1.8 trillion dollars – a reduction of the House plan that passed with more than $2 trillion.
 *   What’s the hold-up? In an interview, House Speaker Nancy Pelosi used an example on COVID-19 contact tracing to show Democrats want a stronger national plan, with more specifics – versus deferring to the states.

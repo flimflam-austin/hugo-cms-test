@@ -37,7 +37,7 @@ card_2:
     quote (flip to see).
   card_citation: ''
 card_3:
-  card_text: "a\x1CNothing in this world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent.a\x1D"
+  card_text: "ax1CNothing in this world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent.ax1D"
   card_citation: ''
 card_10:
   card_text: >-
@@ -47,6 +47,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-02-05-monday-motivation-superbowl/)
   card_citation: ''
+
 ---
 1.  Eagle Center Gets Emotional Over Win: [https://twitter.com/CBSSports/status/960386085615386625/video/1](\"https://twitter.com/CBSSports/status/960386085615386625/video/1\")
 2.  **Insiders predict: What should Eagles do with Nick Foles?**  

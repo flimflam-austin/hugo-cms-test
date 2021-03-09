@@ -27,6 +27,7 @@ featured_quote:
     U.S. Marshal Pete Elliott on Operation Safety Net, a ongoing investigation
     in Ohio that has already located 25 missing children.
   citation: ''
+
 ---
 *   Children range in [ages from 13-18.](\"https://pittsburgh.cbslocal.com/2020/09/01/ohio-missing-children-found/\")
 *   **Why This Matters:** The U.S. Marshals, working with local law enforcement along with the National Center for Missing and Exploited Children, have several missing children operations currently completed or ongoing, including Operation Not Forgotten in Georgia that rescued or located 39 children and another operation reportedly ongoing near Indianapolis.

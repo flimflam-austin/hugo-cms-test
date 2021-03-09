@@ -30,7 +30,7 @@ card_1:
     2018 hurricane season.
   card_citation: 2018 hurricane season.
 card_2:
-  card_text: "Why So Rare?\n------------\n\n> a\x1CYoua\x19re a pretty small spot in a large ocean, and to have something hit you takes a bit of an unfortunate alignment of things.a\x1D\n> \n> Brian McNoldy, University of Miami meterologist says only 5 storms as strong as Hurricane Lane have EVER been recorded \\*near\\* Hawaii. Wind patterns tend to keep storms away."
+  card_text: "Why So Rare?n------------nn> ax1CYouax19re a pretty small spot in a large ocean, and to have something hit you takes a bit of an unfortunate alignment of things.ax1Dn> n> Brian McNoldy, University of Miami meterologist says only 5 storms as strong as Hurricane Lane have EVER been recorded *near* Hawaii. Wind patterns tend to keep storms away."
   card_citation: ''
 card_3:
   card_text: >-
@@ -50,7 +50,7 @@ card_3:
     *   Officials want citizens to have essential supplies for 14 days.
   card_citation: ''
 card_4:
-  card_text: "2018 Hurricane Season\n---------------------\n\n> *   June 1 – November 30th.\n> *   May 23 NOAA forecast predicted average / above average cyclone activity (3-6 storms) this season in the Pacific. One warning?\n> \n> a\x1CIt is very important to remember that it only takes one landfalling tropical cyclone to bring major impacts to the State of Hawaii.a\x1D\n\nHurricane vs. Cyclone"
+  card_text: "2018 Hurricane Seasonn---------------------nn> *   June 1 – November 30th.n> *   May 23 NOAA forecast predicted average / above average cyclone activity (3-6 storms) this season in the Pacific. One warning?n> n> ax1CIt is very important to remember that it only takes one landfalling tropical cyclone to bring major impacts to the State of Hawaii.ax1DnnHurricane vs. Cyclone"
   card_citation: Hurricane vs. Cyclone
 card_5:
   card_text: |-
@@ -78,6 +78,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-08-23-hawaiian-hurricane/)
   card_citation: ''
+
 ---
 *   **As Hurricane Lane approaches Hawaii, Kilauea volcano simmers down:**  
     [https://www.usatoday.com/story/news/2018/08/22/hurricane-lane-approaches-hawaii-just-kilauea-volcano-simmers-down/1069493002/](\"https://www.usatoday.com/story/news/2018/08/22/hurricane-lane-approaches-hawaii-just-kilauea-volcano-simmers-down/1069493002/\")

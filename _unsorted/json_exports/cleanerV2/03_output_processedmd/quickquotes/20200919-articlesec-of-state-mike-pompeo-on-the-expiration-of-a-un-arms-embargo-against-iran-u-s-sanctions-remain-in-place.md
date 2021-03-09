@@ -32,6 +32,7 @@ featured_quote:
     Sec. of State Mike Pompeo on the expiration of a UN arms embargo against
     Iran – U.S. sanctions remain in place.
   citation: ''
+
 ---
 *   The arms embargo expiration is part of the “Iran Nuclear Deal” put in place by the Obama administration in 2015.
 *   The arms embargo previously kept foreign nations from selling weapons or military equipment to Iran. It was put in place in 2010 because of broad concern over Iran’s nuclear program, seen by some as working towards a nuclear weapon.

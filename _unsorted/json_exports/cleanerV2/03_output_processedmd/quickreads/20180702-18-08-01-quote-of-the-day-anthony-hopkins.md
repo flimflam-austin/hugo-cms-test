@@ -15,7 +15,7 @@ color_palette_classname: white
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/07/kalen-emsley-99660-unsplash-scaled.jpg
 card_1:
-  card_text: "> a\x1CWe can talk ourselves into death or we can talk ourselves into the best life we’ve ever lived. None of it was a mistake. It was all a destiny.”\n\nAnthony Hopkins"
+  card_text: "> ax1CWe can talk ourselves into death or we can talk ourselves into the best life we’ve ever lived. None of it was a mistake. It was all a destiny.”nnAnthony Hopkins"
   card_citation: Anthony Hopkins
 card_10:
   card_text: >-
@@ -28,6 +28,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-08-01-quote-of-the-day-anthony-hopkins/)
   card_citation: ''
+
 ---
 *   **Anthony Hopkins Recalls Struggle With Alcoholism: “I Was Very Difficult to Work With”:** [https://www.hollywoodreporter.com/news/anthony-hopkins-recalls-struggle-alcoholism-i-was-very-difficult-work-1129776](\"https://www.hollywoodreporter.com/news/anthony-hopkins-recalls-struggle-alcoholism-i-was-very-difficult-work-1129776\")
 *   **Alcohol Facts and Statistics:**  

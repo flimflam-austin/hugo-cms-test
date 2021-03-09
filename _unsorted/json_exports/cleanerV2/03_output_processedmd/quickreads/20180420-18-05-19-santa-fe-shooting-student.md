@@ -30,6 +30,7 @@ card_1:
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-05-19-santa-fe-shooting-student/)'
   card_citation: ''
+
 ---
 **FULL INTERVIEW HERE AT 55:12: Live Coverage from ABC News: Authorities respond to active shooter incident at Texas high school:** [https://www.periscope.tv/ABC/1vAGRVkpXEzGl](\"https://www.periscope.tv/ABC/1vAGRVkpXEzGl\")
 

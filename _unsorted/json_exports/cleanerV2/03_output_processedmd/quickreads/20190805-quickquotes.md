@@ -17,7 +17,7 @@ color_palette_classname: dark-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/osman-rana-293976-360x360.jpg
 card_1:
-  card_text: "> a\x1CIt was in his blood to be a soldier. He wanted to be a true American and fight for his country.a\x1D\n> \n> Linda Collins on the death of her nephew Sgt. Jason Mitchell McClary (24). The Army soldier died Sunday at a military hospital in Germany as a result of injuries from a roadside bomb attack last week in Afghanistan. The Taliban claimed responsibility for the attack - the deadliest on U.S. forces in Afghanistan this year."
+  card_text: "> ax1CIt was in his blood to be a soldier. He wanted to be a true American and fight for his country.ax1Dn> n> Linda Collins on the death of her nephew Sgt. Jason Mitchell McClary (24). The Army soldier died Sunday at a military hospital in Germany as a result of injuries from a roadside bomb attack last week in Afghanistan. The Taliban claimed responsibility for the attack - the deadliest on U.S. forces in Afghanistan this year."
   card_citation: ''
 card_2:
   card_text: >-
@@ -33,7 +33,7 @@ card_2:
     wall funding as part of negotiations.
   card_citation: ''
 card_3:
-  card_text: "> a\x1CWe are not saying we are going to get out of the oil business but it is controlled by an organization managed by a country.a\x1D\n> \n> Qatar's Minister of State for Energy Affairs Saad Sherida al-Kaabi, in a jab at Saudi Arabia, on why it's choosing to leave OPEC. The nation is one of OPEC's smallest oil producers, but one of the world's biggest liquified natural gas producers, and says it will instead focus on that. Qatar's last OPEC meeting will be this Thursday."
+  card_text: "> ax1CWe are not saying we are going to get out of the oil business but it is controlled by an organization managed by a country.ax1Dn> n> Qatar's Minister of State for Energy Affairs Saad Sherida al-Kaabi, in a jab at Saudi Arabia, on why it's choosing to leave OPEC. The nation is one of OPEC's smallest oil producers, but one of the world's biggest liquified natural gas producers, and says it will instead focus on that. Qatar's last OPEC meeting will be this Thursday."
   card_citation: ''
 card_4:
   card_text: >-
@@ -48,11 +48,12 @@ card_4:
     children. The CDC does not yet know what causes it.
   card_citation: ''
 card_5:
-  card_text: "> a\x1CShe is the true original. She not only marched to the beat of her own drum a\x14 honey, she is a one-woman band!a\x1D\n> \n> Whoopi Goldberg, paying tribute to Cher, at the Kennedy Center Honors Sunday evening. The 41st annual awards show began with a standing ovation tribute for President George H.W. Bush & then honored singers Cher, Reba McEntire, jazz great Wayne Shorter, composer Philip Glass, & a special award for the co-creators of \"Hamilton.\""
+  card_text: "> ax1CShe is the true original. She not only marched to the beat of her own drum ax14 honey, she is a one-woman band!ax1Dn> n> Whoopi Goldberg, paying tribute to Cher, at the Kennedy Center Honors Sunday evening. The 41st annual awards show began with a standing ovation tribute for President George H.W. Bush & then honored singers Cher, Reba McEntire, jazz great Wayne Shorter, composer Philip Glass, & a special award for the co-creators of "Hamilton.""
   card_citation: ''
 card_10:
   card_text: '[view sources](https://smarthernews.com/quickquotes/)'
   card_citation: ''
+
 ---
 *   **Export Army sergeant dies after being injured in Afghanistan:**  
     [https://triblive.com/local/westmoreland/14364554-74/export-service-member-dies-after-being-injured-in-afghanistan](\"https://triblive.com/local/westmoreland/14364554-74/export-service-member-dies-after-being-injured-in-afghanistan\")

@@ -19,7 +19,7 @@ card_1:
     Mama Making History
     ===================
 
-    2nd \*elected\* world leader to give birth while in office returns to work.
+    2nd *elected* world leader to give birth while in office returns to work.
 
     Jacinda Ardern
   card_citation: Jacinda Ardern
@@ -81,6 +81,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-08-03-mama-making-history-powermom-jacindaardern/)
   card_citation: ''
+
 ---
 *   **Jacinda Ardern returns to work after maternity leave:** [https://www.bbc.com/news/av/world-45046484/jacinda-ardern-returns-to-work-after-maternity-leave](\"https://www.bbc.com/news/av/world-45046484/jacinda-ardern-returns-to-work-after-maternity-leave\")
 *   **‘I am not the first woman to give birth’: Jacinda Ardern returns to work a\\u0013 video:** [https://www.theguardian.com/world/video/2018/aug/02/i-am-not-the-first-woman-to-give-birth-says-jacinda-ardern-as-she-returns-to-work-video](\"https://www.theguardian.com/world/video/2018/aug/02/i-am-not-the-first-woman-to-give-birth-says-jacinda-ardern-as-she-returns-to-work-video\")

@@ -83,6 +83,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-11-noko-summit-3-things/)
   card_citation: ''
+
 ---
 *   **Trump Greets 3 American Detainees From North Korea (From early May):**  
     [https://www.nytimes.com/2018/05/10/us/politics/trump-korea-detainees-pompeo.html](\"https://www.nytimes.com/2018/05/10/us/politics/trump-korea-detainees-pompeo.html\")

@@ -29,6 +29,7 @@ featured_quote:
     The world’s only remaining Blockbuster store, located in Bend, OR, announces
     it’s becoming an Airbnb for locals.
   citation: ''
+
 ---
 *   The once ever-popular video rental store chain first opened its doors in [1985](\"https://www.sec.gov/Archives/edgar/data/710979/0000950144-94-000803.txt\"), and by 2004 there were more than [9,000](\"https://www.nytimes.com/2013/11/07/business/media/internet-kills-the-video-store.html\") Blockbuster stores in America alone.
 *   But by [2010](\"https://money.cnn.com/2010/09/23/news/companies/blockbuster_bankruptcy/index.htm\"), as the popularity of Netflix and other streaming services grew, Blockbuster filed for [bankruptcy](\"https://money.cnn.com/2010/09/23/news/companies/blockbuster_bankruptcy/index.htm#:~:text=NEW%20YORK%20(CNNMoney.com),Southern%20District%20of%20New%20York.\"). and most of its remaining 3,000 stores began to shut their doors. In 2013, only [300](\"https://www.nytimes.com/2013/11/07/business/media/internet-kills-the-video-store.html\") or so were left standing. The second-to-last Blockbuster (located in Australia) closed in  2019.

@@ -30,6 +30,7 @@ featured_quote:
     on rising infections in America – The U.S. passed 8M cases this week
     according to New York Times.
   citation: ''
+
 ---
 *   Cases are rising in the Midwest & Mountain West regions. Important Context: As [_The New York Times_](\"https://www.nytimes.com/live/2020/10/15/world/covid-coronavirus?action=click&module=Top%20Stories&pgtype=Homepage\") notes – these areas had _“relatively few cases until recently.”_ 
 *   An example of an area that had relatively few cases but is now experiencing notable rise in infections is Wyoming: _“I think honestly (a factor) is the fatigue of the COVID-19 pandemic and measures, in general…I totally understand, and I have the same feeling that we’re all sort of ready for this to be over and to be able to get back to normal life. Unfortunately, we’re just not there.”_ [Wyoming State Public Health Officer Dr. Alexia Harrist](\"https://www.wyomingnews.com/coronavirus/southeast-wyoming-grapples-with-record-covid-19-spike-in-recent-weeks/article_93c177de-7d46-54a6-9d34-9126ce49ec04.html\")

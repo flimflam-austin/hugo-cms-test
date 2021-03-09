@@ -45,7 +45,7 @@ card_2:
     *   Most promising research done on mice, not conclusive for humans.
   card_citation: ''
 card_3:
-  card_text: "Why It Matters: Panacea?\n------------------------\n\n> _a\x1CInstead of taking a drug for your heart and a drug for your muscles and a drug for your brain, maybe you could come up with something that affected them all.”_\n> \n> Dr. Amy Wagers, Harvard professor, who showed the blood of young mice rejuvenates the hearts of old mice. Some experts believe young blood may treat Alzheimera\x19s & heart disease."
+  card_text: "Why It Matters: Panacea?n------------------------nn> _ax1CInstead of taking a drug for your heart and a drug for your muscles and a drug for your brain, maybe you could come up with something that affected them all.”_n> n> Dr. Amy Wagers, Harvard professor, who showed the blood of young mice rejuvenates the hearts of old mice. Some experts believe young blood may treat Alzheimerax19s & heart disease."
   card_citation: ''
 card_4:
   card_text: >-
@@ -73,6 +73,7 @@ card_10:
 
     [view sources](https://smarthernews.com/young-blood/)
   card_citation: ''
+
 ---
 *   **Startups Flock To Turn Young Blood Into An Elixir of Youth:**  
     [https://www.wired.com/story/startups-flock-to-turn-young-blood-into-an-elixir-of-youth/](\"https://www.wired.com/story/startups-flock-to-turn-young-blood-into-an-elixir-of-youth/\")

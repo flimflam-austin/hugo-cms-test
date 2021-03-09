@@ -40,5 +40,6 @@ card_10:
 
     [view sources](https://smarthernews.com/18-09-21-miracle-on-market/)
   card_citation: ''
+
 ---
 Podcast:A [http://smarthernews.libsyn.com/smarther-news-ep13-the-true-story-behind-the-miracle-on-market](\"http://smarthernews.libsyn.com/smarther-news-ep13-the-true-story-behind-the-miracle-on-market\")

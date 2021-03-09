@@ -15,11 +15,12 @@ color_palette_classname: dark-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/08/demetrius-washington-651672-unsplash-scaled.jpg
 card_1:
-  card_text: "> _“Whata\x19s your beauty regime?”  \n> _\n> \n> _“Just cold cream  \n> and a good attitude.”_\n\nAretha Franklin"
+  card_text: "> _“Whatax19s your beauty regime?”  n> _n> n> _“Just cold cream  n> and a good attitude.”_nnAretha Franklin"
   card_citation: Aretha Franklin
 card_10:
-  card_text: "\"Queen of Soul\" Aretha Franklin became the first woman inducted into the Rock & Roll Hall of Fame. Famous for songs like \"Respect\", Franklin said she didna\x19t think her songs would become \"anthems for women.\" According to reports, Franklin is \"seriously ill.\"\n\n[view sources](https://smarthernews.com/18-08-14-qtd-aretha-franklin/)"
+  card_text: ""Queen of Soul" Aretha Franklin became the first woman inducted into the Rock & Roll Hall of Fame. Famous for songs like "Respect", Franklin said she didnax19t think her songs would become "anthems for women." According to reports, Franklin is "seriously ill."nn[view sources](https://smarthernews.com/18-08-14-qtd-aretha-franklin/)"
   card_citation: ''
+
 ---
 *   **Aretha Franklin:** [time.com/collection/firsts/4898601/aretha-franklin-firsts/](\"http://time.com/collection/firsts/4898601/aretha-franklin-firsts/\")
 *   **From 2012:A NEW AGAIN: ARETHA FRANKLIN:  

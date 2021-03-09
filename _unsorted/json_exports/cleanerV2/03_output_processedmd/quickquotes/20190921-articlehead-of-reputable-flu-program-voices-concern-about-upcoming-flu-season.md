@@ -1,6 +1,6 @@
 ---
 title: head of reputable flu program voices concern about upcoming flu season.
-description: "\x1CIt does make me a little bit more nervous than i am in general looking ahead to the flu season."
+description: "x1CIt does make me a little bit more nervous than i am in general looking ahead to the flu season."
 aliases:
   - >-
     article/head-of-reputable-flu-program-voices-concern-about-upcoming-flu-season/
@@ -16,9 +16,10 @@ featured_image:
   image: ''
   alt: ''
 featured_quote:
-  quote: "\x1CIt does make me a little bit more nervous than I am in general looking ahead to the flu season."
+  quote: "x1CIt does make me a little bit more nervous than I am in general looking ahead to the flu season."
   summary: Head of reputable flu program voices concern about upcoming flu season.
   citation: ''
+
 ---
 *   Head of Kaiser Permanente flu vaccine program Dr. Randy Bergen, who voices concerns about a potentially dangerous upcoming flu season.
 *   Flu frequency remains low, but Bergen also references several flu-related deaths in California.

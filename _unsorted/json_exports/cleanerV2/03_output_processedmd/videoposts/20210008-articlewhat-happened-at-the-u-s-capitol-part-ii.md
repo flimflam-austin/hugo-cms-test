@@ -18,5 +18,6 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2018/03/louis-velazquez-588272-unsplash-scaled.jpg
   alt: ''
 summary: January 7, 2021
+
 ---
 What Happened At The U.S. Capitol – Part I

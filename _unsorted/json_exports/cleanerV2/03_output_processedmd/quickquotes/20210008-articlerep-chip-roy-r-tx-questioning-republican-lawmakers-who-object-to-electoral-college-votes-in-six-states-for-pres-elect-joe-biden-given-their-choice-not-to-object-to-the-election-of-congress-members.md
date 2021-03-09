@@ -34,6 +34,7 @@ featured_quote:
     choice not to object to the election of Congress members who won on the same
     ballots in those states.
   citation: ''
+
 ---
 *   On Sunday when the new Congress was sworn in, Rep. Roy objected to the seating of new House members in Arizona, Georgia, Michigan Nevada, Pennsylvania and Wisconsin , stating those states’ “_results have been called into question._”
 *   In a statement following his objection, Rep. Roy noted that some of his colleagues will object to the counting of the Electoral College votes in today’s joint session to count the 2020 presidential election votes due to their “_deeply held_” beliefs that the elections in Arizona, Georgia, Michigan Nevada, Pennsylvania and Wisconsin were “_plagued by statewide, systemic fraud and abuse_.”

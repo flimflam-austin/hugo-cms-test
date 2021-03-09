@@ -24,4 +24,5 @@ summary: >-
   The latest research on masking, a consequential ruling from the Supreme Court
   on abortion and a hold-over from the Civil War-era that you may not know
   about!
+
 ---

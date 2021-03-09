@@ -24,6 +24,7 @@ featured_quote:
     Spokesman Michael Wallace, Virginia Department of Agriculture and Consumer
     services, on residents receiving mysterious seed packs from China.
   citation: ''
+
 ---
 *   The US Department of Agriculture plans to test these seeds.
 *   More than a dozen [states have reported residents randomly receiving packages of seeds](\"https://www.wsj.com/articles/federal-officials-testing-mystery-seeds-mailed-to-u-s-residents-11595978122\") with a return address to China; some seed packets have return addresses elsewhere including the United Arab Emirates although this has been less reported.

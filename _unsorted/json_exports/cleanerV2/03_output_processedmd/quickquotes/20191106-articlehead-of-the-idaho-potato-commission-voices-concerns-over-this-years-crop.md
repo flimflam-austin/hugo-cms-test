@@ -24,6 +24,7 @@ featured_quote:
     they're going to have french fries this year.
   summary: Head of the Idaho Potato Commission voices concerns over this year’s crop.
   citation: ''
+
 ---
 *   President and CEO of the Idaho Potato Commission Frank Muir speaking about America’s potato harvest.
 *   Bad weather impacted this year’s crop, making it smaller than last years.

@@ -29,6 +29,7 @@ featured_quote:
     Republican state Attorneys General accusing the Silicon Valley heavyweight
     of maintaining a monopoly.
   citation: ''
+
 ---
 *   **LATEST:** The [lawsuit](\"https://assets.documentcloud.org/documents/7273457/10-20-20-US-v-Google-Complaint.pdf\") accuses Google of abusing its dominance and violating federal competition laws in order to preserve its monopoly over internet searches and online advertising. The complaint states:
 

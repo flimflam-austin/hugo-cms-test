@@ -31,6 +31,7 @@ featured_quote:
     Sen. Tim Scott (R-SC) addressing the shooting death of Rayshard Brooks by
     police in Atlanta Friday night.
   citation: ''
+
 ---
 *   Atlanta police attempted to arrest Brooks, after responding to a complaint a man had fallen asleep in his car, blocking traffic at a Wendy’s drive-thru lane.
 *   As the officers attempted to arrest Brooks for driving while intoxicated, Brooks resisted arrest, and a violent struggle between the three ensued.

@@ -24,4 +24,5 @@ card_1:
 card_10:
   card_text: '[view sources](https://smarthernews.com/coffee-talk-2/)'
   card_citation: ''
+
 ---

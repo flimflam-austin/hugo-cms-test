@@ -44,7 +44,8 @@ card_2:
     Scientists are now concerned the methane may cause explosions.
   card_citation: ''
 card_10:
-  card_text: "Mother Nature has put on quite a show... Kilaueaa\x19s eruption has also generated earthquakes, gushing molten rock, giant ash plumes & sulfur dioxide. No sign when it will end, but scientists say its similar to one in 1955 that lasted 3 months.\n\n[view sources](https://smarthernews.com/18-05-25-volcano-blue-flames/)"
+  card_text: "Mother Nature has put on quite a show... Kilaueaax19s eruption has also generated earthquakes, gushing molten rock, giant ash plumes & sulfur dioxide. No sign when it will end, but scientists say its similar to one in 1955 that lasted 3 months.nn[view sources](https://smarthernews.com/18-05-25-volcano-blue-flames/)"
   card_citation: ''
+
 ---
 *   **USGS Kilauea Latest:A** [https://www.usgs.gov/news/k-lauea-volcano-erupts](\"https://www.usgs.gov/news/k-lauea-volcano-erupts\")

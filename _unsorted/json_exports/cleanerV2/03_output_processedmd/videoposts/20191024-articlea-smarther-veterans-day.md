@@ -18,6 +18,7 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2019/10/IMG_7955-e1569859908247-768x577.jpg
   alt: ''
 summary: The history of Veterans Day & why it matters with a special guest!
+
 ---
 SmartHER News founder Jenna Lee provides perspective on a personal holiday for her and her husband, former Navy SEAL Leif Babin.
 

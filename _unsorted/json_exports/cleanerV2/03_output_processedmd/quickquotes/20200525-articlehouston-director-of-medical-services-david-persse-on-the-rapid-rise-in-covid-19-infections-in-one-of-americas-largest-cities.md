@@ -24,6 +24,7 @@ featured_quote:
     Houston director of medical services David Persse on the rapid rise in
     COVID-19 infections in one of America’s largest cities.
   citation: ''
+
 ---
 *   Texas continue to set records for COVID-19 infections.
 *   Hospitalization have increased as well with serious cases, especially in the city of Houston.

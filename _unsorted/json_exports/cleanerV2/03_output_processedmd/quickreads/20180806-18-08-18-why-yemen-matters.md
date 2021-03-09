@@ -68,6 +68,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-08-18-why-yemen-matters/)
   card_citation: ''
+
 ---
 *   **Yemena\\u0019s warring sides to meet, with tensions a\\u0014 and stakes a\\u0014 higher than ever :**  
     [https://www.washingtonpost.com/world/yemens-warring-sides-to-meet-with-tensions–and-stakes–higher-than-ever/2018/09/05/497ee63a-b059-11e8-8b53-50116768e499\_story.html](\"https://www.washingtonpost.com/world/yemens-warring-sides-to-meet-with-tensions--and-stakes--higher-than-ever/2018/09/05/497ee63a-b059-11e8-8b53-50116768e499_story.html?utm_term=.5c04f356e521\")

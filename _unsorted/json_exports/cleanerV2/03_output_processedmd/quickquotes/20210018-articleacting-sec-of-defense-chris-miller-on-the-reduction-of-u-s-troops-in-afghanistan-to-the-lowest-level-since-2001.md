@@ -28,6 +28,7 @@ featured_quote:
     Acting Defense Sec. Chris Miller on the reduction of U.S. troops in
     Afghanistan to the lowest level since 2001.
   citation: ''
+
 ---
 *   The troop level reduction was announced in November.
 *   The Defense Dept. says this is part of a plan for _“Afghan-owned, Afghan-led peace process to achieve a political settlement and a permanent and comprehensive ceasefire.”_

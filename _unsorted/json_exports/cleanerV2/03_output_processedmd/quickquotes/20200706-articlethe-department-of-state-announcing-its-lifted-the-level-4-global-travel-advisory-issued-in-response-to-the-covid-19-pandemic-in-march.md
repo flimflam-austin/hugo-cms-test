@@ -28,6 +28,7 @@ featured_quote:
     The Department of State announcing it’s lifted the level 4 global travel
     advisory issued in response to the COVID-19 pandemic in March.
   citation: ''
+
 ---
 *   The news that the State Department has lifted the **highest level travel advisory** cautioning all Americans against international travel comes a week after the global airline trade group, International Air Transport Association, [predicted](\"https://www.iata.org/en/pressroom/pr/2020-07-28-02/\") that 55% fewer international passengers will travel in 2020 compared to 2019, and [said](\"https://www.iata.org/en/pressroom/pr/2020-07-28-02/\") the industry is not expected to fully recover financially until 2024.
 *   As the world’s leader in COVID-19 cases, many countries aren’t ready to welcome U.S. travelers just yet. The **European Union** has banned American travelers since the beginning of July when it reopened its borders to international travelers, but according to [reports](\"https://www.politico.com/news/2020/08/05/americans-get-into-europe-coronavirus-392152\"), some have discovered ways to sneak in via more lenient EU nations, like the UK.

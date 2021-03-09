@@ -61,7 +61,7 @@ card_3:
     *   **Is this discrimination?**
   card_citation: ''
 card_4:
-  card_text: "**Lawyers SUPPORTING the ban argue:**\n\n_“The Constitution and Acts of Congress confer on the President broad authority to prohibit or restrict the entry of aliens outside the United States when he deems it in the Nationa\x19s interest.”_\n\n[Click here: Read Brief](https://www.supremecourt.gov/DocketPDF/17/17-965/26928/20180106115022487_Trump%20v%20Hawaii%20Revised%20Petition.pdf)"
+  card_text: "**Lawyers SUPPORTING the ban argue:**nn_“The Constitution and Acts of Congress confer on the President broad authority to prohibit or restrict the entry of aliens outside the United States when he deems it in the Nationax19s interest.”_nn[Click here: Read Brief](https://www.supremecourt.gov/DocketPDF/17/17-965/26928/20180106115022487_Trump%20v%20Hawaii%20Revised%20Petition.pdf)"
   card_citation: 'Click here: Read Brief'
 card_5:
   card_text: >-
@@ -81,11 +81,12 @@ card_10:
   card_text: >-
     Although the Supreme Court won't issue its decision until late June, keep an
     ear out for the questions asked by the justices for an idea of how they
-    \*might\* rule on some of the many issues at play:
+    *might* rule on some of the many issues at play:
 
 
     [view sources](https://smarthernews.com/18-03-25-scotus-travel-ban/)
   card_citation: ''
+
 ---
 *   **SmartHER Read:A Your guide to the Supreme Court case on Trump’s travel ban:** [www.pbs.org/newshour/amp/politics/your-guide-to-the-supreme-court-case-on-trumps-travel-ban](\"http://www.pbs.org/newshour/amp/politics/your-guide-to-the-supreme-court-case-on-trumps-travel-ban\")
 *   **SCOTUS agrees to hear case on Trump’s latest travel ban:** [www.abajournal.com/news/article/scotus\_grants\_cert\_petition\_in\_trump\_v.\_hawaii/](\"http://www.abajournal.com/news/article/scotus_grants_cert_petition_in_trump_v._hawaii/\")

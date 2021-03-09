@@ -25,6 +25,7 @@ featured_quote:
     Hospital Of Pennsylvania, on severe allergic reactions in two patients on
     the first day the Pfizer COVID-19 vaccine was distributed in the UK.
   citation: ''
+
 ---
 *    Both of the people who had a severe reaction to the vaccine dose (anaphylactoid reaction), had a history of allergic reactions in the past and carried an epi-pen.
 *   _“Certainly, vaccines can cause severe allergic reactions. In the United States, roughly one of every 1.4 million doses of vaccines is complicated by a severe allergic reaction.”_ Offit wants to learn what component of the vaccine caused the reaction.

@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   Different states share similar COVID-19 headlines, politics at play one month
   after George Floyd’s death, and the president’s latest military moves.
+
 ---

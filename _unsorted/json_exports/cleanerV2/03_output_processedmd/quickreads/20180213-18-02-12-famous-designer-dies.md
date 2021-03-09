@@ -55,7 +55,7 @@ card_2:
     Looks](https://www.harpersbazaar.com/fashion/designers/g19405875/audrey-hepburn-hubert-de-givenchy/?slide=2)
   card_citation: 'Click Here: More Looks'
 card_3:
-  card_text: "Advice From Givenchy\n--------------------\n\n> a\x1CThe **little black dress** is the hardest thing to realize because **you must keep it simple**.a\x1D\n> \n> Hubert de Givenchy"
+  card_text: "Advice From Givenchyn--------------------nn> ax1CThe **little black dress** is the hardest thing to realize because **you must keep it simple**.ax1Dn> n> Hubert de Givenchy"
   card_citation: ''
 card_4:
   card_text: >-
@@ -111,8 +111,9 @@ card_6:
     Show](https://www.nytimes.com/2018/01/24/fashion/couture-margiela-galliano-givenchy.html)
   card_citation: 'Click: Fashion Show'
 card_10:
-  card_text: "\"The perfect dress can make many things happen in a womana\x19s life. It can bring happiness. It is so nice to give happiness to your friends.a\x1D Givenchy\n\n[view sources](https://smarthernews.com/18-02-12-famous-designer-dies/)"
+  card_text: ""The perfect dress can make many things happen in a womanax19s life. It can bring happiness. It is so nice to give happiness to your friends.ax1D Givenchynn[view sources](https://smarthernews.com/18-02-12-famous-designer-dies/)"
   card_citation: ''
+
 ---
 *   Obituary: [https://www.irishtimes.com/life-and-style/people/hubert-de-givenchy-obituary-couturier-to-audrey-hepburn-and-jackie-kennedy-1.3424401](\"https://www.irishtimes.com/life-and-style/people/hubert-de-givenchy-obituary-couturier-to-audrey-hepburn-and-jackie-kennedy-1.3424401\")
 *   Hubert de Givenchy Dies at 91; Pillar of Romantic Elegance in Fashion: [https://www.nytimes.com/2018/03/12/obituaries/hubert-de-givenchy-dies.html](\"https://www.nytimes.com/2018/03/12/obituaries/hubert-de-givenchy-dies.html\")

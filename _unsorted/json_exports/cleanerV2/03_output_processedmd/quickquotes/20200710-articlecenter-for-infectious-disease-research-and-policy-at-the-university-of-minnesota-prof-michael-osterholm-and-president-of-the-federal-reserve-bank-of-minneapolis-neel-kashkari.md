@@ -29,6 +29,7 @@ featured_quote:
     Reserve Bank of Minneapolis, Neel Kashkari, advocating for a nationwide
     6-week shutdown.
   citation: ''
+
 ---
 **Here’s How to Crush the Virus Until Vaccines Arrive**  
 [CLICK HERE](\"https://www.nytimes.com/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html\")

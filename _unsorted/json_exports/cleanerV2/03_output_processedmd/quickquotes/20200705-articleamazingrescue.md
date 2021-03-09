@@ -29,6 +29,7 @@ featured_quote:
     U.S. Air Force Lt. Col. Jason Palmeira-Yen on miraculously spotting stranded
     sailors on a remote island.
   citation: ''
+
 ---
 *   The Air Force help locate 3 missing sailors in a remote area of Federated States of Micronesia (south of the U.S. territory of Guam).
 *   The sailors had drifted off-course, ran out of fuel and became stranded on an uninhabited island.

@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   Plus – a historic COVID-19 vaccine discussed with ER Physician and author Dr.
   Darria Long Gillespie.
+
 ---

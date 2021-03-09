@@ -27,4 +27,5 @@ summary: >-
   Congressman Brian Babin (R-TX) explains why this objection matters and
   responds to those who say his actions are “corrosive” to America – He also
   shares what he discussed recently with President Trump.
+
 ---

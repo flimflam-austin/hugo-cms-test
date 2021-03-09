@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   A sampling of news from civil unrest, to sports (& COVID-19) and a little bit
   of historical trivia on the eve of a major White House project.
+
 ---

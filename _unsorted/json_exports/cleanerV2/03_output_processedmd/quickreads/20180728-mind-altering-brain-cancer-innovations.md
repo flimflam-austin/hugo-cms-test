@@ -65,7 +65,7 @@ card_3:
     Sen. McCain had).
   card_citation: ''
 card_4:
-  card_text: "> a\x1CJust to use this ad that used to be out, ‘This is not your father’s Oldsmobile.’ Well, this is not your father’s brain tumor either. I want sort of give a message of hope to patients. The future will add to these treatments and make it even better.”\n> \n> Dr. Suriya Jeyapalan, Tufts Medical Center neurologist, speaking about brain cancer to survivornet.com.\n\n[CLICK TO Watch](https://www.survivornet.com/articles/could-a-new-treatment-have-saved-john-mccain-fighting-brain-cancer-with-electric-fields/)"
+  card_text: "> ax1CJust to use this ad that used to be out, ‘This is not your father’s Oldsmobile.’ Well, this is not your father’s brain tumor either. I want sort of give a message of hope to patients. The future will add to these treatments and make it even better.”n> n> Dr. Suriya Jeyapalan, Tufts Medical Center neurologist, speaking about brain cancer to survivornet.com.nn[CLICK TO Watch](https://www.survivornet.com/articles/could-a-new-treatment-have-saved-john-mccain-fighting-brain-cancer-with-electric-fields/)"
   card_citation: CLICK TO Watch
 card_10:
   card_text: >-
@@ -77,6 +77,7 @@ card_10:
     [view
     sources](https://smarthernews.com/mind-altering-brain-cancer-innovations/)
   card_citation: ''
+
 ---
 *   **What is cancer?:**  
     [http://pathology.jhu.edu/pc/BasicTypes1.php](\"http://pathology.jhu.edu/pc/BasicTypes1.php\")

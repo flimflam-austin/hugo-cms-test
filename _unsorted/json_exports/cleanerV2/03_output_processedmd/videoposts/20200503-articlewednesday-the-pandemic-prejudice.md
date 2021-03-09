@@ -18,6 +18,7 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2020/03/IMG_5829-min-scaled-e1585359248307-1024x918.jpg
   alt: ''
 summary: The moment versus the movement & working towards solutions.
+
 ---
 Tuesday: [Coffee Talk](\"https://smarthernews.com/article/3-things-to-know/\")
 

@@ -29,6 +29,7 @@ featured_quote:
     Authors of a new study on the viral load of COVID-19 in children under the
     age of 5, raising questions about a child’s ability to transmit the virus.
   citation: ''
+
 ---
 *   Researchers used nasal swabs to collect data on a group of 145 POSITIVE COVID-19 patients.
 *   The **group tested under the age of five** showed evidence of **carrying ten-to-100 times greater** than the other age groups.

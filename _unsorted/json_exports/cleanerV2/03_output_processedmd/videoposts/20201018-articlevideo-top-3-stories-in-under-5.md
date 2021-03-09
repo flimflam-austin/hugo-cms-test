@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   News on America’s longest war, a historic pandemic and unprecedented election
   season.
+
 ---

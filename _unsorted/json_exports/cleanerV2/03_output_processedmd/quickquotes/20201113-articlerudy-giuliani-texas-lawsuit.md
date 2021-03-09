@@ -24,6 +24,7 @@ featured_quote:
     denying to hear a Texas lawsuit against four battleground states, asking for
     their election results to be overturned.
   citation: ''
+
 ---
 *   Texas sued Pennsylvania, Wisconsin, Michigan, and Georgia for allegedly illegally managing their state’s elections, asking the Supreme Court to halt the electoral college vote and ultimately overturn the results.
 *   The Supreme Court said that Texas [did not have the standing or legal right to file this lawsuit](\"https://www.supremecourt.gov/orders/courtorders/121120zr_p860.pdf\") – [_“Texas has not demonstrated a judicially cognizable interest in the manner in which another State conducts its elections.’_](\"https://www.supremecourt.gov/orders/courtorders/121120zr_p860.pdf\")

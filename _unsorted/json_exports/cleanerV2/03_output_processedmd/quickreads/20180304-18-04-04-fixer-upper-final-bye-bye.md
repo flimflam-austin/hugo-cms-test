@@ -90,6 +90,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-04-fixer-upper-final-bye-bye/)
   card_citation: ''
+
 ---
 *   What’s Next?A [https://magnolia.com/update-jo-final-episode/](\"https://magnolia.com/update-jo-final-episode/\")
 *   The final episode of ‘Fixer Upper’ is here a\\u0014 take a look back at how the couple behind the reality juggernaut went from undergrads in a small Texas town to household names[A http://www.businessinsider.com/fixer-upper-joanna-gaines-chip-gaines-marriage-success-story-2018-4](\"http://www.businessinsider.com/fixer-upper-joanna-gaines-chip-gaines-marriage-success-story-2018-4\")

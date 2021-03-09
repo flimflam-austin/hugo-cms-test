@@ -22,6 +22,7 @@ featured_quote:
     Louisville Metro Council President on the unanimous vote in favor of
     Breonna’s Law, which will ban ‘no-knock’ warrants in the Kentucky city.
   citation: ''
+
 ---
 *   In March, Breonna Taylor, a 26-year-old EMT, was killed after she was shot multiple times by police inside her Louisville, KY home after police conducting a drug investigation entered using a ‘no-knock’ warrant, meaning they were not required to identify themselves before entering her home.
     *   The three plain-clothed police officers said they did in fact identify themselves, but witnesses say otherwise.

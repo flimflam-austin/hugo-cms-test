@@ -29,6 +29,7 @@ featured_quote:
     as this year’s center piece for New York City’s Rockefeller Center Christmas
     Tree.
   citation: ''
+
 ---
 *   “A lot of people need a lot of hope this year ’cause of the Covid-19, and we were more than honored to donate it. And hopefully we bring some joy into some people’s lives this season.” [Paula Dick](\"https://www.cnn.com/2020/11/15/us/rockefeller-christmas-tree-arrival-trnd/index.html\") who lives in Oneonta, NY., roughly 170 miles from NYC.
 *   The tree made its 3 hour journey to New York City this weekend in preparation for the holidays – The tree had an NYPD escort.

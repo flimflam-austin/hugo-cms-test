@@ -18,5 +18,6 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2020/10/IMG_7308-e1603484044138-1024x1021.jpg
   alt: ''
 summary: Notable moments that explain how the tradition began.
+
 ---
 More on the [Inauguration History from SmartHER News](\"https://smarthernews.com/inauguration-history/\")

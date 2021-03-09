@@ -36,7 +36,7 @@ card_2:
     Now](https://www.youtube.com/embed/6VhmyA4Kd80?enablejsapi=1&autoplay=1&rel=0)
   card_citation: Watch Now
 card_3:
-  card_text: "> a\x1CI was combing her hair and holding her hand. I saw that little body, I saw her spirit go…Robin to me is a joy. She’s like an angel to me; she’s not a sadness or a sorrow. Those little fat arms around my neck.”\n> \n> Barbara Bush, 2012, speaking about the death of her first daughter, Robin, at age 3 to leukemia, the grief that followed, & the perspective that came years later."
+  card_text: "> ax1CI was combing her hair and holding her hand. I saw that little body, I saw her spirit go…Robin to me is a joy. She’s like an angel to me; she’s not a sadness or a sorrow. Those little fat arms around my neck.”n> n> Barbara Bush, 2012, speaking about the death of her first daughter, Robin, at age 3 to leukemia, the grief that followed, & the perspective that came years later."
   card_citation: ''
 card_4:
   card_text: >-
@@ -78,6 +78,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-17-barbara-bush-quotes/)
   card_citation: ''
+
 ---
 *   a\\u0018One last timea\\u0019: Barbara Bush had already faced a death more painful than her own: [https://www.washingtonpost.com/news/retropolis/wp/2018/04/17/one-last-time-barbara-bush-has-already-faced-a-death-more-painful-than-her-own/](\"https://www.washingtonpost.com/news/retropolis/wp/2018/04/17/one-last-time-barbara-bush-has-already-faced-a-death-more-painful-than-her-own/?utm_term=.db0ba6af288d\")
 *   Wellesley Commencement Address: [https://www.wellesley.edu/events/commencement/archives/1990commencement/commencementaddress](\"https://www.wellesley.edu/events/commencement/archives/1990commencement/commencementaddress\")

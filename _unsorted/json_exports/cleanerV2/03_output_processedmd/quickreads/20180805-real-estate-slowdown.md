@@ -31,7 +31,7 @@ card_1:
     Maybe...
   card_citation: Maybe...
 card_2:
-  card_text: "What To Know:\n-------------\n\n> a\x1CThe increase in foreclosure starts is **not just a one-month anomaly** in many local markets given that July represented the third consecutive month with a year-over-year increase in 33 metro areas, including Los Angeles, Miami, Houston, Detroit, San Diego and Austin.”\n> \n> Daren Blomquist, ATTOM Data Solutions SVP, a property data firm"
+  card_text: "What To Know:n-------------nn> ax1CThe increase in foreclosure starts is **not just a one-month anomaly** in many local markets given that July represented the third consecutive month with a year-over-year increase in 33 metro areas, including Los Angeles, Miami, Houston, Detroit, San Diego and Austin.”n> n> Daren Blomquist, ATTOM Data Solutions SVP, a property data firm"
   card_citation: ''
 card_3:
   card_text: >-
@@ -73,6 +73,7 @@ card_10:
 
     [view sources](https://smarthernews.com/real-estate-slowdown/)
   card_citation: ''
+
 ---
 *   **U.S. homebuilding slowing; labor market strong:  
     **[https://www.reuters.com/article/us-usa-economy/u-s-homebuilding-slowing-labor-market-strong-idUSKBN1L11JN](\"https://www.reuters.com/article/us-usa-economy/u-s-homebuilding-slowing-labor-market-strong-idUSKBN1L11JN\")

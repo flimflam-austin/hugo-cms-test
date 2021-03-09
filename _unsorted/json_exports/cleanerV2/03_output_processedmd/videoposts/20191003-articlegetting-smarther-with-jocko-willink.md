@@ -17,4 +17,5 @@ featured_image:
   image: https://smarthernews.com/wp-content/uploads/2019/06/37-min.jpeg
   alt: ''
 summary: Former Navy SEAL shares his path to becoming a children’s book writer.
+
 ---

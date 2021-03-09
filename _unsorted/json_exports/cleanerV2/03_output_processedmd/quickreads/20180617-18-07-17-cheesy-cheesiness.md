@@ -85,6 +85,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-07-17-cheesy-cheesiness/)
   card_citation: ''
+
 ---
 *   **Cheese prices crumble a\\u0014 but the global trade dispute could halt their drop:**  
     [https://www.marketwatch.com/story/cheese-prices-crumble-but-the-global-trade-dispute-could-halt-their-drop-2018-07-13](\"https://www.marketwatch.com/story/cheese-prices-crumble-but-the-global-trade-dispute-could-halt-their-drop-2018-07-13?link=sfmw_tw\")_  

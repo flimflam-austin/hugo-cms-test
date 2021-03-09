@@ -24,6 +24,7 @@ featured_quote:
     White House Chief of Staff Mark Meadows on lawmakers trying to compromise on
     a potential additional economic stimulus bill.
   citation: ''
+
 ---
 *   Democrats and Republicans remain at odds over legislation – potentially 5th round of economic stimulus.
 *   With the election looming on the horizon, politics plays a role: _“Neither party is going to be eager to pass something that could be seen as a win for the opposing party.”_ 

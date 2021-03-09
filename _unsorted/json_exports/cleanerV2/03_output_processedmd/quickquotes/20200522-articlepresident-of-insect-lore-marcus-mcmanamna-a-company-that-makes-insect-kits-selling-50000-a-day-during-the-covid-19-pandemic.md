@@ -24,6 +24,7 @@ featured_quote:
     President of Insect Lore, Marcus McManamna, on selling 50,000 butterfly kits
     a day during the COVID-19 pandemic.
   citation: ''
+
 ---
 *   McManamna says sales have quintupled during the pandemic.
 *   However, some parents have complained of some \*unexpected\* lessons.

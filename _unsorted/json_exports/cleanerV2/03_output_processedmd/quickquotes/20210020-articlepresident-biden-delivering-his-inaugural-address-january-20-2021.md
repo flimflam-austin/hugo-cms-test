@@ -22,6 +22,7 @@ featured_quote:
     unity, there is no peace, only bitterness and fury.
   summary: President Biden delivering his inaugural address, January 20, 2021.
   citation: ''
+
 ---
 *   Here’s a full text of the speech: [CLICK HERE](\"https://abc11.com/joe-biden-inaugural-address-inauguration-speech-video-2021-watch/9694215/\")
 *   President Biden spoke broadly about his plans for America.

@@ -2,7 +2,7 @@
 title: >-
   col. owen g. ray, 1st sfg (a) commander on a green beret killed in action in
   afghanistan - the 17th death this year
-description: "\x1CHe was a warrior a\x14 an accomplished, respected and loved special forces soldier that will never be forgotten."
+description: "x1CHe was a warrior ax14 an accomplished, respected and loved special forces soldier that will never be forgotten."
 aliases:
   - >-
     article/green-beret-killed-in-action-in-afghanistan-the-17th-death-this-year/
@@ -18,11 +18,12 @@ featured_image:
   image: ''
   alt: ''
 featured_quote:
-  quote: "\x1CHe was a warrior a\x14 an accomplished, respected and loved Special Forces Soldier that will never be forgotten."
+  quote: "x1CHe was a warrior ax14 an accomplished, respected and loved Special Forces Soldier that will never be forgotten."
   summary: >-
     Col. Owen G. Ray, 1st SFG (A) commander on a Green Beret killed in action in
     Afghanistan – the 17th death this year
   citation: ''
+
 ---
 *   Sgt. 1st Class Jeremy W. Griffin died in combat on Monday in Afghanistan.
 *   Enlisted in the Army when he was 25-years-old and served for more than 15 years.

@@ -30,10 +30,10 @@ card_1:
     employment changes or a worrisome jump in avg. hourly earnings.
   card_citation: ''
 card_2:
-  card_text: "> “The ninety-nine percent are just a bunch of Zeroa\x19$.”\n> \n> William Clyde Allen III, who confessed to sending ricin-laced envelopes to President Trump and three other members of the administration, in a recent Facebook post. The Navy veteran was arrested by the FBI at his Utah home on Wednesday where he admitted to purchasing castor beans, the raw material for the poison ricin, and mailed it. No one was hurt. He's being held on a $25K cash bond."
+  card_text: "> “The ninety-nine percent are just a bunch of Zeroax19$.”n> n> William Clyde Allen III, who confessed to sending ricin-laced envelopes to President Trump and three other members of the administration, in a recent Facebook post. The Navy veteran was arrested by the FBI at his Utah home on Wednesday where he admitted to purchasing castor beans, the raw material for the poison ricin, and mailed it. No one was hurt. He's being held on a $25K cash bond."
   card_citation: ''
 card_3:
-  card_text: "> a\x1CThere’s no one silver bullet when it comes to the epidemic of opioids, but one thing is for certain, I and we will keep fighting.”\n> \n> Sen. Shelley Moore Capito (R-WV) on the sweeping bipartisan effort to pass opioid legislation to fund programs to treat addiction, monitor prescriptions and update information on alternative treatments to addictive drugs. President Trump is expected to sign the bill."
+  card_text: "> ax1CThere’s no one silver bullet when it comes to the epidemic of opioids, but one thing is for certain, I and we will keep fighting.”n> n> Sen. Shelley Moore Capito (R-WV) on the sweeping bipartisan effort to pass opioid legislation to fund programs to treat addiction, monitor prescriptions and update information on alternative treatments to addictive drugs. President Trump is expected to sign the bill."
   card_citation: ''
 card_4:
   card_text: >-
@@ -48,7 +48,7 @@ card_4:
     Nike says it is "deeply concerned" by the allegations.
   card_citation: ''
 card_5:
-  card_text: "> “Ita\x19s the Rolls Royce of malts. … ita\x19s an object of beauty in its own right – almost a museum piece.”\n> \n> Martin Green, Bonhams auction house specialist, on the 60-year-old bottle of whiskey that just sold for $1.1 million dollars at auction. The Macallan 26, which was purchased by a private collector from Asia, is now the most expensive standard whisky bottle ever to be sold at auction. When first sold in 1986, the bottle cost $27,000."
+  card_text: "> “Itax19s the Rolls Royce of malts. … itax19s an object of beauty in its own right – almost a museum piece.”n> n> Martin Green, Bonhams auction house specialist, on the 60-year-old bottle of whiskey that just sold for $1.1 million dollars at auction. The Macallan 26, which was purchased by a private collector from Asia, is now the most expensive standard whisky bottle ever to be sold at auction. When first sold in 1986, the bottle cost $27,000."
   card_citation: ''
 card_10:
   card_text: |-
@@ -56,6 +56,7 @@ card_10:
 
     [view sources](https://smarthernews.com/quick-quotes-11/)
   card_citation: ''
+
 ---
 *   ****Dow drops 300 points as rates surge; 10-year yield hits its highest level since 2011:  
     ****[https://www.cnbc.com/2018/10/04/us-markets-rising-rates-economic-data-and-politics-in-focus.html](\"https://www.cnbc.com/2018/10/04/us-markets-rising-rates-economic-data-and-politics-in-focus.html\")

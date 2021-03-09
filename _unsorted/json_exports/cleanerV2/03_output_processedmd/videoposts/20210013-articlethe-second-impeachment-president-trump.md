@@ -18,5 +18,6 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2021/01/IMG_3822-e1610589738980-857x1024.jpg
   alt: ''
 summary: What happened. Why it matters. What’s next.
+
 ---
 Here’s the [Article of Impeachment](\"https://int.nyt.com/data/documenttools/articles-impeachment-trump-xml/b0422e292cebafda/full.pdf\") – [CLICK HERE](\"https://www.nytimes.com/interactive/2021/01/11/us/articles-impeachment-trump.html\")

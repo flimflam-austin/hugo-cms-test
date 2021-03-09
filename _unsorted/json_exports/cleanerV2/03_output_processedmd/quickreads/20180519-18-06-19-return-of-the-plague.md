@@ -83,6 +83,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-19-return-of-the-plague/)
   card_citation: ''
+
 ---
 *   **Plague as a Weapon of War:**  
     _As a highly contagious disease with an extremely high mortality rate if left untreated,A Yersinia pestisA has been used as a weapon of biological warfare for centuries. Some warfare strategies have included catapulting corpses over city walls, dropping infected fleas from airplanes, and aerosolizing the bacteria during the Cold War (Stenseth, 2008). More recently, plague raised concern as an important national security threat because of its potential for use by terrorist_s.[https://www.cdc.gov/plague/history/index.html](\"https://www.cdc.gov/plague/history/index.html\")

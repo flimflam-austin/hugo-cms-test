@@ -41,7 +41,7 @@ card_2:
     funding.
   card_citation: ''
 card_3:
-  card_text: "Securing the Border\n-------------------\n\n> Goal is to stop the **25K people,**A **34K lbs of marijuana** & **140 lbs of cocaine** that came thru El Paso sector (a 260-mile stretch) last year.\n> \n> **_a\x1CIta\x19s going to be harder to get over, harder to get through, harder to get underneath. Ita\x19s going to have a five-foot, anti-scaling plate at the top.a\x1D_**\n> \n> Chief Patrol Agent Aaron Hull"
+  card_text: "Securing the Bordern-------------------nn> Goal is to stop the **25K people,**A **34K lbs of marijuana** & **140 lbs of cocaine** that came thru El Paso sector (a 260-mile stretch) last year.n> n> **_ax1CItax19s going to be harder to get over, harder to get through, harder to get underneath. Itax19s going to have a five-foot, anti-scaling plate at the top.ax1D_**n> n> Chief Patrol Agent Aaron Hull"
   card_citation: ''
 card_4:
   card_text: >-
@@ -64,8 +64,9 @@ card_4:
     Patrol**A despite it being **the exact same structure used previously**.
   card_citation: ''
 card_10:
-  card_text: "New Mexico Gov. Susana Martinez announced 80+ National Guard soldiers will report to the area this week to support Border Patrol agents - the first of a force of 250 members deployed by Prez w/ the Governora\x19s approval.\n\n[view sources](https://smarthernews.com/18-04-12-border-wall-begins/)"
+  card_text: "New Mexico Gov. Susana Martinez announced 80+ National Guard soldiers will report to the area this week to support Border Patrol agents - the first of a force of 250 members deployed by Prez w/ the Governorax19s approval.nn[view sources](https://smarthernews.com/18-04-12-border-wall-begins/)"
   card_citation: ''
+
 ---
 *   U.S. Customs & Border Protection – Border Wall Begins: [https://www.cbp.gov/newsroom/local-media-release/santa-teresa-border-wall-replacement-project-begin](\"https://www.cbp.gov/newsroom/local-media-release/santa-teresa-border-wall-replacement-project-begin\")
 *   PHOTOS from Customs & Border Protection: [https://www.flickr.com/photos/cbpphotos/sets/72157693474390271/with/39528548680/](\"https://www.flickr.com/photos/cbpphotos/sets/72157693474390271/with/39528548680/\")

@@ -31,6 +31,7 @@ featured_quote:
     of the largest school districts in America (eventually) during the COVID-19
     pandemic.
   citation: ''
+
 ---
 *   The plan would include testing all 700,000 children in the district.
 *   The plan would include a collaboration involving different research teams, and private companies: _“The testing and contact tracing program brings together the expertise of UCLA, Stanford and Johns Hopkins University. Microsoft is providing an application to help manage the effort and share information. Testing labs will provide timely results at a cost that makes the effort feasible. And health insurers Anthem Blue Cross and HealthNet will share their data to provide a more robust overall picture of how the novel coronavirus affects different communities.”_

@@ -1,6 +1,6 @@
 ---
 title: president announces 4th national security advisor
-description: "\x1CI have worked long & hard with robert. he will do a great job!"
+description: "x1CI have worked long & hard with robert. he will do a great job!"
 aliases:
   - article/president-announces-4th-national-security-advisor/
 published: true
@@ -15,9 +15,10 @@ featured_image:
   image: ''
   alt: ''
 featured_quote:
-  quote: "\x1CI have worked long & hard with Robert. He will do a great job!"
+  quote: "x1CI have worked long & hard with Robert. He will do a great job!"
   summary: President announces 4th National Security Advisor
   citation: ''
+
 ---
 President Trump announces Robert Oa\\u0019Brien as his new national security advisor, replacing John Bolton
 

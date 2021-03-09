@@ -23,4 +23,5 @@ summary: >-
   Wednesday, June 17th: Beijing clamps down due to COVID, what to consider
   stateside as the pandemic leads to rising hospitalizations rates, problem
   solving vs. partisanship and are you truly happy?
+
 ---

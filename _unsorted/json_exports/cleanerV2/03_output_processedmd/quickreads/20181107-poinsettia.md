@@ -26,7 +26,7 @@ card_1:
     ****holiday flower**.
 
 
-    Why we should thank Mexico for the tradition (& know it’s \***not**\*
+    Why we should thank Mexico for the tradition (& know it’s ***not***
     poisonous).
 
 
@@ -94,6 +94,7 @@ card_10:
 
     [view sources](https://smarthernews.com/poinsettia/)
   card_citation: ''
+
 ---
 *   **The season of Poinsettias (From 2016):**  
     [https://www.cbsnews.com/news/the-season-for-poinsettias/](\"https://www.cbsnews.com/news/the-season-for-poinsettias/\")

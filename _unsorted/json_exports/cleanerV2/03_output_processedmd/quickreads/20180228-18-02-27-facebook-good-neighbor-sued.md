@@ -37,7 +37,7 @@ card_1:
     Flip For Why
   card_citation: Flip For Why
 card_2:
-  card_text: "Why is FB Being Sued?\n---------------------\n\n*   Facebook offers companies ways to advertise or “target” certain people by age, gender, etc.\n*   Housing groups suing say this FB feature allows “landlords and real estate brokers to exclude families with children, women, and other protected classes of people from receiving housing ads.a\x1D\n*   **Bottom Line: FB is accused of enabling housing discrimination.**"
+  card_text: "Why is FB Being Sued?n---------------------nn*   Facebook offers companies ways to advertise or “target” certain people by age, gender, etc.n*   Housing groups suing say this FB feature allows “landlords and real estate brokers to exclude families with children, women, and other protected classes of people from receiving housing ads.ax1Dn*   **Bottom Line: FB is accused of enabling housing discrimination.**"
   card_citation: ''
 card_3:
   card_text: >-
@@ -84,6 +84,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-02-27-facebook-good-neighbor-sued/)
   card_citation: ''
+
 ---
 *   The Case:A [http://nationalfairhousing.org/wp-content/uploads/2018/03/NFHA-v.-Facebook.-Complaint-w-Exhibits-March-27-Final-pdf.pdf](\"http://nationalfairhousing.org/wp-content/uploads/2018/03/NFHA-v.-Facebook.-Complaint-w-Exhibits-March-27-Final-pdf.pdf\")
 *   The suit alleges that Facebook allowed advertisers to hide ads from families with women and children: [https://www.engadget.com/2018/03/27/facebook-faces-lawsuit-ad-targeting-housing/](\"https://www.engadget.com/2018/03/27/facebook-faces-lawsuit-ad-targeting-housing/\")

@@ -23,7 +23,7 @@ card_1:
     ------------------------
 
 
-    **Should you have the right to \*not\* vaccinate your child?**
+    **Should you have the right to *not* vaccinate your child?**
 
 
     A measles outbreak prompts lawmakers to consider reversing course on
@@ -46,10 +46,10 @@ card_2:
     potentially tighten laws that allow for these personal exemptions.
   card_citation: ''
 card_3:
-  card_text: "> a\x1CIa\x19m very worried that these measles epidemics are becoming a new normal…The enablers are state legislators in those states, that have allowed themselves to be played.”\n> \n> Dr. Peter Hotez, Texas Childrena\x19s Hospital Center for Vaccine Development at Baylor College of Medicine in Houston who is against personal exemptions for vaccines."
+  card_text: "> ax1CIax19m very worried that these measles epidemics are becoming a new normal…The enablers are state legislators in those states, that have allowed themselves to be played.”n> n> Dr. Peter Hotez, Texas Childrenax19s Hospital Center for Vaccine Development at Baylor College of Medicine in Houston who is against personal exemptions for vaccines."
   card_citation: ''
 card_4:
-  card_text: "> a\x1CI see that as medical fascism. Ia\x19m the one who is going to make medical decisions for my kids.a\x1D\n> \n> Becky Johnson mother of 3, who is against vaccinations. She disagrees with a new California law passed in 2015 (after a measles outbreak at Disneyland) that reversed personal exemptions, requiring vaccinations."
+  card_text: "> ax1CI see that as medical fascism. Iax19m the one who is going to make medical decisions for my kids.ax1Dn> n> Becky Johnson mother of 3, who is against vaccinations. She disagrees with a new California law passed in 2015 (after a measles outbreak at Disneyland) that reversed personal exemptions, requiring vaccinations."
   card_citation: ''
 card_5:
   card_text: >-
@@ -77,6 +77,7 @@ card_10:
     [view
     sources](https://smarthernews.com/19-02-11-should-you-have-the-right-not-to-vaccinate/)
   card_citation: ''
+
 ---
 *   **STATES WITH RELIGIOUS AND PHILOSOPHICAL EXEMPTIONS FROM SCHOOL IMMUNIZATION REQUIREMENTS**  
     [http://www.ncsl.org/research/health/school-immunization-exemption-state-laws.aspx](\"http://www.ncsl.org/research/health/school-immunization-exemption-state-laws.aspx\")

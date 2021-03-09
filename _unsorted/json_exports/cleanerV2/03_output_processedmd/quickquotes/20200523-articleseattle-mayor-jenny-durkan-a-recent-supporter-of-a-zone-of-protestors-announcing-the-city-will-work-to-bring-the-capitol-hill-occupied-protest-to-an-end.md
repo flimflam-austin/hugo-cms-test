@@ -26,6 +26,7 @@ featured_quote:
     announcing the city will work to bring the Capitol Hill Occupied Protest to
     an end.
   citation: ''
+
 ---
 *   The announcement comes after two shootings this weekend, that led to at least one death. Police were unable to help the shooting victims Saturday night after determining the crowd was too “violent.” [WATCH](\"https://spdblotter.seattle.gov/2020/06/20/homicide-investigation-inside-protest-area/\")
 *   Durkan says she supports the peaceful protests during the day but has increasing concern about the violence at night. [READ MORE](\"https://apnews.com/4dcff8f062bae9e1fe3885c346b44847\")

@@ -40,7 +40,7 @@ card_2:
 
     *   **First Ivy League college** to offer online bachelor’s degree.
 
-    *   **2 paths to admission:** general application \*or\* “prove your way” in
+    *   **2 paths to admission:** general application *or* “prove your way” in
     4 foundation courses.
 
     *   **Costs 30% less** than on-campus.
@@ -48,7 +48,7 @@ card_2:
     *   Visit campus twice before degree.
   card_citation: ''
 card_3:
-  card_text: "> a\x1CWhen youa\x19re working and raising a family or youa\x19re part of the sandwich generation, it really makes it very difficult to get through the 30 to 36 courses needed to get an undergraduate degree. And ita\x19s not terribly affordable.a\x1D\n> \n> Nora E. Lewis, vice dean of professional and liberal education at the University of Pennsylvania"
+  card_text: "> ax1CWhen youax19re working and raising a family or youax19re part of the sandwich generation, it really makes it very difficult to get through the 30 to 36 courses needed to get an undergraduate degree. And itax19s not terribly affordable.ax1Dn> n> Nora E. Lewis, vice dean of professional and liberal education at the University of Pennsylvania"
   card_citation: ''
 card_4:
   card_text: >-
@@ -76,6 +76,7 @@ card_10:
 
     [view sources](https://smarthernews.com/online-ivy-league-degree/)
   card_citation: ''
+
 ---
 *   **Highest Educational Attainment Levels Since 1940:** [https://www.census.gov/library/visualizations/2017/comm/cb17-51\_educational\_attainment.html](\"https://www.census.gov/library/visualizations/2017/comm/cb17-51_educational_attainment.html\")
 *   **Penn to offer first Ivy League bachelora\\u0019s degree online:**  

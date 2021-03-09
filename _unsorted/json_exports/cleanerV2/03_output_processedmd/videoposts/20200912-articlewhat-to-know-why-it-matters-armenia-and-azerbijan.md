@@ -18,6 +18,7 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2018/10/kyle-glenn-598701-unsplash-min-scaled.jpg
   alt: ''
 summary: A brewing conflict with high-stakes.
+
 ---
 Here’s a good backgrounder on the conflict: [Eruption of Conflict Over Nagorno-Karabakh](\"https://www.cfr.org/blog/eruption-conflict-over-nagorno-karabakh?gclid=Cj0KCQjw2or8BRCNARIsAC_ppybvcQfm_hSPU2GZs2T7wZ3MtKeZzQQFpdm3BGCH4O_-71WdnVvHEVsaAlVwEALw_wcB\")
 

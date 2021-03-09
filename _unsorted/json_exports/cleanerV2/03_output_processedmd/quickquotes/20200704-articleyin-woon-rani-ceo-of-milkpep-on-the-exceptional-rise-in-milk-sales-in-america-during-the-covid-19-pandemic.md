@@ -28,6 +28,7 @@ featured_quote:
     Yin Woon Rani, CEO of MilkPEP, on the exceptional rise in milk sales in
     America during the COVID-19 pandemic.
   citation: ''
+
 ---
 *   Milk sales soared during “panic buying” during the spring but elevated sales have remained after that initial wave of buying.
 *   Why a rise in sales? Some speculate a change in schedule, return to comfort.

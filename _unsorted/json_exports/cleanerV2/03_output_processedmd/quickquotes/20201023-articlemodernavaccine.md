@@ -29,6 +29,7 @@ featured_quote:
     COVID-19 vaccine is nearly 95 percent effective, and can be stored easily in
     refrigerators already in use in doctors offices around the world.
   citation: ''
+
 ---
 *   **THE LATEST:** Moderna is the second biotech company to announce promising clinical trial results for a COVID-19 vaccine in recent days. This data is according to a preliminary analysis by an independent data & safety monitoring board.
     *   Last week, [Pfizer](\"https://smarthernews.com/hope-and-reality-covid19/\") announced the results of its Phase 3 COVID-19 vaccine trial show it’s over 90% effective.

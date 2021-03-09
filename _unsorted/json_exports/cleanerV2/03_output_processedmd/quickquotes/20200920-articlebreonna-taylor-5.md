@@ -28,6 +28,7 @@ featured_quote:
     Taylor case, and granting permission for the grand jurors to speak publicly
     about the case.
   citation: ''
+
 ---
 *   **BACKGROUND:** In September, an anonymous grand juror requested permission to speak publicly about the case and for the grand jury records to be released after Kentucky’s Attorney General Daniel Camero made public remarks about why the grand jury decided there was insufficient evidence to charge any police officers in connection with the killing of **Breonna Taylor**.
 *   **LATEST:** On Wednesday, a Kentucky judge [ruled](\"https://htv-prod-media.s3.amazonaws.com/files/777faabc-1b62-43be-ab4a-d67a035d31e9-pdf-1603214546.pdf\") in the juror’s favor, finding that although grand jury proceedings are traditionally veiled in secrecy, the public policy justifications for keeping those proceedings confidential no longer apply in this case.

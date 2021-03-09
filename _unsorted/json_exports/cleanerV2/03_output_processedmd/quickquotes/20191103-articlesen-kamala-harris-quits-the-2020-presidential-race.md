@@ -22,6 +22,7 @@ featured_quote:
     path forward if I don’t believe I do.
   summary: Sen. Kamala Harris out of the 2020 presidential race
   citation: ''
+
 ---
 *   **Why It Matters:** Once considered a top contender, Harris now joins another dozen democratic candidates who dropped out of the race. Another 16 candidates remain, including four women.
 *   In a message to her supporters, Sen. Harris gave this explanation for what some describe as an abrupt exit: “I’m not a billionaire. I can’t fund my own campaign. And as the campaign has gone on, it’s become harder and harder to raise the money we need to compete.”

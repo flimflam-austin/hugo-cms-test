@@ -24,6 +24,7 @@ featured_quote:
     Meterologist Shane Snyder, National Weather Service, on issuing a warning
     for a fire-tornado in Northern California, in a record breaking weekend.
   citation: ''
+
 ---
 *   Record heat in California has led to wildfires, and state-imposed rolling blackouts, due to the stress on the electric grid for the entire state.
 *   Severe thunderstorms afflicted the San Francisco Bay Area; lightening ignited fires in the surrounding area not known for these types of storms.

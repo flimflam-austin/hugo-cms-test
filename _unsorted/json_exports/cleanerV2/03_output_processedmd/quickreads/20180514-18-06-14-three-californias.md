@@ -68,7 +68,7 @@ card_3:
     California into 6 different states.
   card_citation: ''
 card_4:
-  card_text: "Could it Happen? Maybe.\n-----------------------\n\n> Critics argue problems would multiply with 3 new governors divvying up interconnected operations (water, parks, prisons).\n> \n> _a\x1CThere are so many fundamentally flawed aspects to this.”_\n> \n> **BUT…**A _a\x1CIn this day and age, anything can happen politically.a\x1D_\n> \n> Steven Maviglio, CA Democratic adviser"
+  card_text: "Could it Happen? Maybe.n-----------------------nn> Critics argue problems would multiply with 3 new governors divvying up interconnected operations (water, parks, prisons).n> n> _ax1CThere are so many fundamentally flawed aspects to this.”_n> n> **BUT…**A _ax1CIn this day and age, anything can happen politically.ax1D_n> n> Steven Maviglio, CA Democratic adviser"
   card_citation: ''
 card_10:
   card_text: >-
@@ -79,6 +79,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-14-three-californias/)
   card_citation: ''
+
 ---
 *   **Sacramento Bee: Californians to vote on splitting state three ways:**  
     [http://www.sacbee.com/news/politics-government/capitol-alert/article213068964.html](\"http://www.sacbee.com/news/politics-government/capitol-alert/article213068964.html\")

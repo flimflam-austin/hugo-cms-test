@@ -39,7 +39,7 @@ card_2:
     thought he was guilty of something like this, sure."
   card_citation: ''
 card_3:
-  card_text: "> a\x1C(The U.S.) wants to continue just giving orders to the world as though the world were its own property. Venezuela will never give in.”\n> \n> President Nichola Maduro of Venezuela, in a surprise visit & speech to the United Nations Wednesday night, after 6 countries (not including the U.S.) asked the UN to investigate Venezuela for crimes against humanity; the U.S. has sanctioned Venezuelan officials for human rights violations & corruption."
+  card_text: "> ax1C(The U.S.) wants to continue just giving orders to the world as though the world were its own property. Venezuela will never give in.”n> n> President Nichola Maduro of Venezuela, in a surprise visit & speech to the United Nations Wednesday night, after 6 countries (not including the U.S.) asked the UN to investigate Venezuela for crimes against humanity; the U.S. has sanctioned Venezuelan officials for human rights violations & corruption."
   card_citation: ''
 card_4:
   card_text: >-
@@ -99,6 +99,7 @@ card_10:
 
     [view sources](https://smarthernews.com/quick-quotes-9/)
   card_citation: ''
+
 ---
 *   **I believe Kavanaugh, but I want to hear Ford: Sen. Kennedy:A**  
     [https://www.msnbc.com/morning-joe/watch/i-believe-kavanaugh-but-i-want-to-hear-ford-sen-kennedy-1329613891718](\"https://www.msnbc.com/morning-joe/watch/i-believe-kavanaugh-but-i-want-to-hear-ford-sen-kennedy-1329613891718\")

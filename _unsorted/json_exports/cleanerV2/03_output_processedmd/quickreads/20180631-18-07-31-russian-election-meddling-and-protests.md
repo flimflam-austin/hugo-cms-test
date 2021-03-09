@@ -42,7 +42,7 @@ card_2:
     *   Number and extent of attacks is reportedly unknown.
   card_citation: ''
 card_3:
-  card_text: "> a\x1CThey got to the point where they could have thrown switches…a\x1D\n> \n> Jonathan Homer, Chief of industrial-control-system analysis for Dept of Homeland Security references the extent of one Russian-led attack."
+  card_text: "> ax1CThey got to the point where they could have thrown switches…ax1Dn> n> Jonathan Homer, Chief of industrial-control-system analysis for Dept of Homeland Security references the extent of one Russian-led attack."
   card_citation: ''
 card_4:
   card_text: >-
@@ -72,6 +72,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-07-31-russian-election-meddling-and-protests/)
   card_citation: ''
+
 ---
 *   **DHS Slides from Webinar onA Russian cyber activity:**  
     [https://www.us-cert.gov/sites/default/files/c3vp/Russian\_Activity\_Webinar\_Slides.pdf](\"https://www.us-cert.gov/sites/default/files/c3vp/Russian_Activity_Webinar_Slides.pdf\")

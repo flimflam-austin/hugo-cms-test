@@ -22,5 +22,6 @@ featured_image:
 summary: >-
   Mobilizing the military during civil unrest, federal vs state law, latest on
   the case of George Floyd. Plus, are you sleeping well?
+
 ---
 Coffee Talk Monday: [CLICK HERE](\"https://youtu.be/6nTg66NbRvw\")

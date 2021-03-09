@@ -78,6 +78,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-06-18-otd-lady-liberty-arrives-in-nyc/)
   card_citation: ''
+
 ---
 *   **SmartHER FYI:** We’ve seen the date of the arrival of the Statue of Liberty also attributed to June 17, 1885. We are following the history according to the Library of Congress, though some sites, including the official site of the Statue of Liberty, leaves the exact date vague and says generically, June 1885.
 *   **Engineering, Construction, and Crossing the Atlantic:** [https://libertyellisfoundation.org/statue-history](\"https://libertyellisfoundation.org/statue-history\")

@@ -29,6 +29,7 @@ featured_quote:
     Dr. Fauci in response to President Trump’s new campaign ad featuring his
     words.
   citation: ''
+
 ---
 *   In the recently released [ad](\"https://www.youtube.com/watch?v=emnCFyi5cuQ&ab_channel\"), a narrator says “_President Trump tackled the virus head-on as leaders should_” and then shows an undated clip of the director of the National Institute of Allergy & Infectious Diseases, Dr. Anthony Fauci saying  “_**I can’t imagine that anybody could be doing more.**“_
 *   The clip was from a March Fox News [interview](\"https://www.youtube.com/watch?v=hyqSnWnNuEE&\"). Here’s the full exchange:

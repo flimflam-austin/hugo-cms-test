@@ -17,7 +17,7 @@ color_palette_classname: dark-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/12/andrew-ruiz-307552-unsplash-min-scaled.jpg
 card_1:
-  card_text: "HONORING 41\n===========\n\n**_“..one of Americaa\x19s greatest points of light”_**\n\nPresident George H.W. Bush, the **41st American president**, will be theA **12th presidentA** to lie in state at the U.S. Capitol.\n\nWhy It Matters"
+  card_text: "HONORING 41n===========nn**_“..one of Americaax19s greatest points of light”_**nnPresident George H.W. Bush, the **41st American president**, will be theA **12th presidentA** to lie in state at the U.S. Capitol.nnWhy It Matters"
   card_citation: Why It Matters
 card_2:
   card_text: >-
@@ -51,7 +51,7 @@ card_3:
   card_citation: ''
 card_4:
   card_text: >-
-    Lie in \*State\* vs \*Honor\*
+    Lie in *State* vs *Honor*
 
     -----------------------------
 
@@ -66,7 +66,7 @@ card_4:
     Capitol & Rosa Parks (only woman to lie in state or honor).
   card_citation: ''
 card_5:
-  card_text: "> “It is with great sadness that we mark the passing of one of Americaa\x19s greatest points of light, the death of President George H.W. Bush.”\n> \n> President Trump declared Dec. 5, the day of Pres. H.W. Bush's Washington D.C. funeral, a national day of mourning and ordered flags flown half-staff for 30 days from his day of passing."
+  card_text: "> “It is with great sadness that we mark the passing of one of Americaax19s greatest points of light, the death of President George H.W. Bush.”n> n> President Trump declared Dec. 5, the day of Pres. H.W. Bush's Washington D.C. funeral, a national day of mourning and ordered flags flown half-staff for 30 days from his day of passing."
   card_citation: ''
 card_10:
   card_text: >-
@@ -79,6 +79,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-12-3-lying-in-state-george-h-w-bush/)
   card_citation: ''
+
 ---
 *   **George H.W. Bush To Lie In State At The Capitol And Be Buried In Texas:**  
     [https://www.npr.org/2018/12/02/672639505/george-h-w-bush-to-lie-in-state-at-the-capitol-and-be-buried-in-texas](\"https://www.npr.org/2018/12/02/672639505/george-h-w-bush-to-lie-in-state-at-the-capitol-and-be-buried-in-texas\")

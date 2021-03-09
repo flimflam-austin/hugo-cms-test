@@ -54,7 +54,7 @@ card_3:
 
     **Marijuana is illegal under federal law.** But, as more states began to
     legalize it within their borders, the federal gov’t shifted its focus away
-    from prosecuting **\*most\* marijuana-related crimes** in situations where
+    from prosecuting ***most* marijuana-related crimes** in situations where
     there is compliance with state laws.
 
 
@@ -100,6 +100,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-21-canada-u-s-marijuana/)
   card_citation: ''
+
 ---
 *   **Canadian senate passes weed bill but legalization delayed:  
     **[https://apnews.com/32646b939c724642afd9958087dcb34b/Canadian-senate-passes-weed-bill-but-legalization-delayed](\"https://apnews.com/32646b939c724642afd9958087dcb34b/Canadian-senate-passes-weed-bill-but-legalization-delayed\")

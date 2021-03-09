@@ -27,6 +27,7 @@ featured_quote:
     U.S. economist Pooja Sriram, Barclays, on the U.S. economy losing 140,000
     jobs in December – the first recorded job loss in 8 months.
   citation: ''
+
 ---
 *   The U.S. unemployment rate is 6.7% (this held steady from the previous month – the [first time it hasn’t fallen since April](\"https://apnews.com/article/coronavirus-pandemic-economy-ad4cb9fe70653c56ac6253aaab210f21\")).
 *   The Labor Department revised November’s jobs report to show more job gains. They previously reported 245,000 jobs added. The updated data shows 336,000 jobs added.

@@ -60,11 +60,12 @@ card_3:
     *   However, aA 2015 Ponemon survey showed **only** **38% of respondents
     were confident printer data was wiped before disposal or refurbishment.  
         **
-    *   This \*despite\* federal & some state laws requiring it.
+    *   This *despite* federal & some state laws requiring it.
   card_citation: ''
 card_10:
-  card_text: "Just last year, HP hired Christian Slater for a short series called a\x1CThe Wolfa\x1D to illustrate how insecure office copiers/printers can be. Watch that here:\n\n[view sources](https://smarthernews.com/18-05-15-copiers-identity-theft/)"
+  card_text: "Just last year, HP hired Christian Slater for a short series called ax1CThe Wolfax1D to illustrate how insecure office copiers/printers can be. Watch that here:nn[view sources](https://smarthernews.com/18-05-15-copiers-identity-theft/)"
   card_citation: ''
+
 ---
 *   **FTC on digital copier data safety:A** [https://www.ftc.gov/tips-advice/business-center/guidance/digital-copier-data-security-guide-businesses](\"https://www.ftc.gov/tips-advice/business-center/guidance/digital-copier-data-security-guide-businesses\")
 *   **Insurance Institute: Identity Theft Facts & Statistics:**A [https://www.iii.org/fact-statistic/facts-statistics-identity-theft-and-cybercrime](\"https://www.iii.org/fact-statistic/facts-statistics-identity-theft-and-cybercrime\")

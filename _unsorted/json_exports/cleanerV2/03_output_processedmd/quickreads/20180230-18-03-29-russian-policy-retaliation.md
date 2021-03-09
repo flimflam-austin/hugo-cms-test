@@ -15,7 +15,7 @@ color_palette_classname: dark-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/luke-michael-302392-360x360.jpg
 card_1:
-  card_text: "Russian Retaliation\n===================\n\n> a\x1CRussiaa\x19s response was not unanticipated, and the United States will deal with it.a\x1D\n> \n> White House Statement, March 29. 2018 after Russia announces it will expel 60 U.S. diplomats after the U.S. ordered the expulsion of 60 Russians on March 26th.\n\nFlip For More"
+  card_text: "Russian Retaliationn===================nn> ax1CRussiaax19s response was not unanticipated, and the United States will deal with it.ax1Dn> n> White House Statement, March 29. 2018 after Russia announces it will expel 60 U.S. diplomats after the U.S. ordered the expulsion of 60 Russians on March 26th.nnFlip For More"
   card_citation: Flip For More
 card_2:
   card_text: >-
@@ -61,6 +61,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-03-29-russian-policy-retaliation/)
   card_citation: ''
+
 ---
 *   How to Answer Russiaa\\u0019s Escalation – In response to a chemical attack in the U.K., impose sanctions directly against President Vladimir Putin: [https://www.wsj.com/articles/how-to-answer-russias-escalation-1521397157](\"https://www.wsj.com/articles/how-to-answer-russias-escalation-1521397157\")
 *   Twitter Ministry of Foreign Affairs – Russia: [https://twitter.com/RusEmbUSA/](\"https://twitter.com/RusEmbUSA/status/978273613349556224\")

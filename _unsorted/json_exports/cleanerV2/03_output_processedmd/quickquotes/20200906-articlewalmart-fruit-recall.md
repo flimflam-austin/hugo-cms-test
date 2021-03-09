@@ -1,5 +1,5 @@
 ---
-title: "produce wholesaler country fresh announcing a voluntary recall of its pre-packaged\_fruit, which is distributed to america’s largest brick-and-mortar retailer, walmart."
+title: "produce wholesaler country fresh announcing a voluntary recall of its pre-packaged_fruit, which is distributed to america’s largest brick-and-mortar retailer, walmart."
 description: >-
   The recall is a precautionary measure due to a possible health risk from
   listeria...
@@ -20,8 +20,9 @@ featured_quote:
   quote: >-
     The recall is a precautionary measure due to a possible health risk from
     Listeria...
-  summary: "Produce wholesaler Country Fresh announcing a voluntary recall of its pre-packaged\_fruit, which is distributed to America’s largest brick-and-mortar retailer, Walmart."
+  summary: "Produce wholesaler Country Fresh announcing a voluntary recall of its pre-packaged_fruit, which is distributed to America’s largest brick-and-mortar retailer, Walmart."
   citation: ''
+
 ---
 *   After Country Fresh detected listeria on equipment used in an area near where some products are packaged, it issued a voluntary [recall](\"https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/country-fresh-voluntary-product-recall\") for its packaged watermelon chunks distributed to RaceTrac and Walmart retail stores in Arkansas, Missouri, Illinois, Oklahoma and Texas on October 1.
     *   Two days later, the voluntary recall was [expanded](\"https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/country-fresh-expands-voluntary-recall\") to include pre-cut packaged apples, grapes, mangoes, pineapples, and cantaloupe distributed to Walmart retail stores in Arkansas, Illinois, Indiana, Kansas, Kentucky, Louisiana, Missouri, Oklahoma, and Texas.

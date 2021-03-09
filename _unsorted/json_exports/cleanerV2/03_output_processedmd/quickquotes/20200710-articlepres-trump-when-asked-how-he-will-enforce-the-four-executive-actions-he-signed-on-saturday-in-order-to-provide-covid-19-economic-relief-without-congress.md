@@ -23,6 +23,7 @@ featured_quote:
     Pres. Trump, when asked how he’ll enforce the COVID-19 economic relief order
     he signed without Congress.
   citation: ''
+
 ---
 *   After weeks of failed COVID-19 relief negotiations in Congress, Pres. Trump tigned four executive orders providing for the following:
     *   **$400-per-week in supplemental unemployment** **benefits** to unemployment recipients. Previously, they received an extra $600 under a program that expired in July. Under the [order](\"https://www.whitehouse.gov/presidential-actions/memorandum-authorizing-needs-assistance-program-major-disaster-declarations-related-coronavirus-disease-2019/\"), $300 will come from the federal government, with the states being asked to cover the remaining $100.

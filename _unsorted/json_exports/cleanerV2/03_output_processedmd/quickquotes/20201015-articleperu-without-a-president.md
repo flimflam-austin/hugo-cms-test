@@ -25,6 +25,7 @@ featured_quote:
     without a president as the protestors take to the street against government
     corruption.
   citation: ''
+
 ---
 *   The elected President was impeached nearly a week earlier by the congress – under allegations he mishandled the COVID pandemic AND [participated in bribery](\"https://www.npr.org/2020/11/10/933334195/in-midst-of-pandemic-crisis-perus-legislature-impeaches-the-nations-president\").
 *   Merino assumed the presidency as head of the Peruvian congress – however citizens immediately protested as some perceived the ousting of the elected president, who ran on a platform against corruption, as a coup.

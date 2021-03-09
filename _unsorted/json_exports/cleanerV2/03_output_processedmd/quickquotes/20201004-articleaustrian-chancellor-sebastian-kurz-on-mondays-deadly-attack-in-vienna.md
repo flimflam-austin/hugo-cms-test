@@ -30,6 +30,7 @@ featured_quote:
     Austrian Chancellor Sebastian Kurz on a deadly Islamist terrorist attack
     Monday in Vienna.
   citation: ''
+
 ---
 *   A gunman opened fire at six different locations (one located near a synagogue) in the center of Austria’s capitol city on Monday, killing at least four people and wounding more than 20 others, including a police officer.
     *   The gunman, who is believed to have acted alone, was killed during a confrontation with police.  According to authorities, he was previously sentenced to prison after he attempted to join ISIS in Syria, but was released early. More than a dozen others have been detained in connection with the attack.

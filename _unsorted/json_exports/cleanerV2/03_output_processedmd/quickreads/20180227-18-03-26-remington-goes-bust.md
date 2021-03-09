@@ -70,7 +70,7 @@ card_3:
     are less motivated.
   card_citation: ''
 card_4:
-  card_text: "Fact Check: AR-15\n-----------------\n\n*   “AR” does **NOT** stand for “automatic rifle” or “assault rifle.”\n*   AR = stands for ArmaLite.\n*   AR-15 = a specific model of a semi-auto rifle produced by ArmaLite. Other gun makers have their own model numbers for similar style weapons.A **Though often used as a general term, an a\x1CARa\x1D is a specific gun by a specific company.A**"
+  card_text: "Fact Check: AR-15n-----------------nn*   “AR” does **NOT** stand for “automatic rifle” or “assault rifle.”n*   AR = stands for ArmaLite.n*   AR-15 = a specific model of a semi-auto rifle produced by ArmaLite. Other gun makers have their own model numbers for similar style weapons.A **Though often used as a general term, an ax1CARax1D is a specific gun by a specific company.A**"
   card_citation: ''
 card_10:
   card_text: >-
@@ -81,6 +81,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-03-26-remington-goes-bust/)
   card_citation: ''
+
 ---
 *   Remington, the oldest gun maker in the United States, files for bankruptcy protection: [https://www.cnbc.com/2018/03/26/remington-the-oldest-gun-maker-in-the-united-states-files-for-bankruptcy.html](\"https://www.cnbc.com/2018/03/26/remington-the-oldest-gun-maker-in-the-united-states-files-for-bankruptcy.html\")
 *   U.S. banks provide rescue financing for gunmaker Remington: [https://www.reuters.com/article/us-remington-bankruptcy/u-s-banks-provide-rescue-financing-for-gunmaker-remington-idUSKBN1H204F](\"https://www.reuters.com/article/us-remington-bankruptcy/u-s-banks-provide-rescue-financing-for-gunmaker-remington-idUSKBN1H204F\")

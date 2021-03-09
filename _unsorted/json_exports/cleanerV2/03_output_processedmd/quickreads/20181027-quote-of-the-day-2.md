@@ -17,11 +17,12 @@ color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/11/andrii-ganzevych-1054826-unsplash-min-scaled.jpg
 card_1:
-  card_text: "> _“When you sit back and you just do what you love, things happen.a\x1D_\n\nIdina Menzel"
+  card_text: "> _“When you sit back and you just do what you love, things happen.ax1D_nnIdina Menzel"
   card_citation: Idina Menzel
 card_10:
-  card_text: "Idina Menzel, speaking about lessons learned during her career. Menzel provides the voice for Elsa in Walt Disney's a\x1CFrozena\x1D, released 5 years ago today. \"Frozen\" remains the highest grossing animated movie ever. Its sequel is expected next November.\n\n[view sources](https://smarthernews.com/quote-of-the-day-2/)"
+  card_text: "Idina Menzel, speaking about lessons learned during her career. Menzel provides the voice for Elsa in Walt Disney's ax1CFrozenax1D, released 5 years ago today. "Frozen" remains the highest grossing animated movie ever. Its sequel is expected next November.nn[view sources](https://smarthernews.com/quote-of-the-day-2/)"
   card_citation: ''
+
 ---
 *   **From 2014:A Idina Menzel’s Fairy Tale Journey: From Broadway to ‘Frozen’ and a ‘Gorgeous’ Note From John Travolta (Cover Story)**  
     [https://www.billboard.com/articles/news/5944667/idina-menzel-billboard-cover-story](\"https://www.billboard.com/articles/news/5944667/idina-menzel-billboard-cover-story\")

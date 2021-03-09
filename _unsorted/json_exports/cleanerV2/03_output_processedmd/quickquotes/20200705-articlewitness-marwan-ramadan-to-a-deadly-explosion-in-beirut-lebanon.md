@@ -23,6 +23,7 @@ featured_quote:
     of the (civil) war.
   summary: Witness Marwan Ramadan to a deadly explosion in Beirut, Lebanon.
   citation: ''
+
 ---
 *   Watch the explosion [here](\"https://www.usatoday.com/story/news/world/2020/08/04/beirut-lebanon-explosion-causes-destruction-people-wounded-near-port/3289423001/\").
 *   Early reports suggest an explosion caused by fire, fireworks, and an explosive ingredient (often found in fertilizer) stored near the port after being confiscated by a ship caused the explosion. For context on how powerful this ingredient, ammonium nitrate, is – it was used in the Oklahoma City bombing in 1995.

@@ -28,7 +28,7 @@ card_1:
     The worldwide impact
   card_citation: The worldwide impact
 card_2:
-  card_text: "> “Turkey is a NATO ally & a traditional buffer between the West and the Middle East. A …Over the last decade, however, under President ErdoA\x1Fan, the country has become increasingly radical and anti-American. **We are watching our alliance with the crucial country unravel in real time.**“\n> \n> Dr. Jonathan Schnanzer, Senior VP with an expertise on Turkey for the Foundation For Defense of Democracies, to SmartHER News"
+  card_text: "> “Turkey is a NATO ally & a traditional buffer between the West and the Middle East. A …Over the last decade, however, under President ErdoAx1Fan, the country has become increasingly radical and anti-American. **We are watching our alliance with the crucial country unravel in real time.**“n> n> Dr. Jonathan Schnanzer, Senior VP with an expertise on Turkey for the Foundation For Defense of Democracies, to SmartHER News"
   card_citation: ''
 card_3:
   card_text: >-
@@ -66,11 +66,12 @@ card_4:
     attention to it.
   card_citation: ''
 card_5:
-  card_text: "What Turkey Says:\n=================\n\n> a\x1CWhat is the reason for all this storm in a tea cup? There is no economic reason for thisa| This is called carrying out an operation against Turkey,a\x1D\n> \n> President ErdoA\x1Fan, speaking at a rally on Sunday August 11, 2018"
+  card_text: "What Turkey Says:n=================nn> ax1CWhat is the reason for all this storm in a tea cup? There is no economic reason for thisa| This is called carrying out an operation against Turkey,ax1Dn> n> President ErdoAx1Fan, speaking at a rally on Sunday August 11, 2018"
   card_citation: ''
 card_10:
-  card_text: "Bigger Picture: Turkey became a member of NATO (North Atlantic Treaty Organization) in 1952, 3 years after NATO was established. Pres. ErdoA\x1Fan threatened in a NYT editorial to walk away from the alliance & find \"new friends\" (many read this as Russia). Read it here.\n\n[view sources](https://smarthernews.com/18-08-13-why-turkey-matters/)"
+  card_text: "Bigger Picture: Turkey became a member of NATO (North Atlantic Treaty Organization) in 1952, 3 years after NATO was established. Pres. ErdoAx1Fan threatened in a NYT editorial to walk away from the alliance & find "new friends" (many read this as Russia). Read it here.nn[view sources](https://smarthernews.com/18-08-13-why-turkey-matters/)"
   card_citation: ''
+
 ---
 Jonathan Schanzer to SmartHER News:A _Turkey is a NATO ally and a traditional buffer between the West and the Middle East. And it has been extremely useful in this regard in terms of helping us keep the US-led order in the Middle East. Over the last decade, however, under President Recep Tayyip Erdogan, the country has become increasingly radical and anti-American. We are watching our alliance with the crucial country unravel in real time. And **we may also be watching Turkey switch sides from America to Team Russia and Iran.A [http://www.defenddemocracy.org/about-fdd/team-overview/schanzer-jonathan/](\"http://www.defenddemocracy.org/about-fdd/team-overview/schanzer-jonathan/\")**_
 

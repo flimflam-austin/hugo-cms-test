@@ -30,6 +30,7 @@ featured_quote:
     Professor Rebecca Green, William & Mary Law School, on what to know about
     lawmakers challenging the Electoral College votes in Congress.
   citation: ''
+
 ---
 *   A joint session of Congress will validate the Electoral College votes on January 6th.
 *   In order to challenge results, a representative from both the House and the Senate must put the challenge in writing.

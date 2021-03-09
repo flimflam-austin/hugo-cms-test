@@ -42,7 +42,7 @@ card_2:
     Nov. Jobs report will be key Friday.
   card_citation: ''
 card_3:
-  card_text: "> a\x1CWe still want Russia to cut as much as possible…A Ia\x19m not confident, but I hope to reach a deal.”\n> \n> Saudi Arabian Oil Minister Khalid Al-Falih as OPEC fails to reach a consensus on how much oil the 15-nation group will produce for the next 6 months. Saudi Arabia wants to cut production by 1M barrels per day to stop oil's price slide but the group is waiting for Russia, a non-OPEC member, to commit. Oil prices dropped by the most in 2 weeks on the news. OPEC will meet again Friday."
+  card_text: "> ax1CWe still want Russia to cut as much as possible…A Iax19m not confident, but I hope to reach a deal.”n> n> Saudi Arabian Oil Minister Khalid Al-Falih as OPEC fails to reach a consensus on how much oil the 15-nation group will produce for the next 6 months. Saudi Arabia wants to cut production by 1M barrels per day to stop oil's price slide but the group is waiting for Russia, a non-OPEC member, to commit. Oil prices dropped by the most in 2 weeks on the news. OPEC will meet again Friday."
   card_citation: ''
 card_4:
   card_text: >-
@@ -57,7 +57,7 @@ card_4:
     prevented the plane from overshooting even further. No one was injured.
   card_citation: ''
 card_5:
-  card_text: "> “I just about fainted. Ia\x19ve never touched that much money and I dona\x19t think I ever will again.”\n> \n> Kevin Booth (32), a homeless man in Seattle, who found $17,000 in a bag outside of a food bank and turned it in. The food bank turned the money over to police who held it for the required 90 days, but no one claimed it so they returned it to the food bank, which gave a portion of it back to Booth to thank him for his honesty."
+  card_text: "> “I just about fainted. Iax19ve never touched that much money and I donax19t think I ever will again.”n> n> Kevin Booth (32), a homeless man in Seattle, who found $17,000 in a bag outside of a food bank and turned it in. The food bank turned the money over to police who held it for the required 90 days, but no one claimed it so they returned it to the food bank, which gave a portion of it back to Booth to thank him for his honesty."
   card_citation: ''
 card_10:
   card_text: |-
@@ -65,6 +65,7 @@ card_10:
 
     [view sources](https://smarthernews.com/quick-quotes-22/)
   card_citation: ''
+
 ---
 *   **Eiffel Tower to close Saturday due to planned ‘yellow vest’ protests in Paris:**  
     [https://www.nbcnews.com/news/world/eiffel-tower-close-saturday-due-planned-paris-protests-n944876](\"https://www.nbcnews.com/news/world/eiffel-tower-close-saturday-due-planned-paris-protests-n944876\")

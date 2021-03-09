@@ -45,10 +45,10 @@ card_2:
     weeks;A 4 people died.
   card_citation: ''
 card_3:
-  card_text: "FUEL TAX CANCELLED\n------------------\n\n> a\x1C…if there is such a level of anger … ita\x19s because we still have a lot of things to improve.a\x1D\n> \n> Pres. Macron speaking to French lawmakers Wednes. As the threat of more protests loom, lawmakers canceled the fuel tax from the 2019 budget. Macron didn't start the fuel tax - it dates back to 2014 and has gradually risen over the last few years. Regardless, Macron's critics say his policies favor the wealthy."
+  card_text: "FUEL TAX CANCELLEDn------------------nn> ax1C…if there is such a level of anger … itax19s because we still have a lot of things to improve.ax1Dn> n> Pres. Macron speaking to French lawmakers Wednes. As the threat of more protests loom, lawmakers canceled the fuel tax from the 2019 budget. Macron didn't start the fuel tax - it dates back to 2014 and has gradually risen over the last few years. Regardless, Macron's critics say his policies favor the wealthy."
   card_citation: ''
 card_4:
-  card_text: "PROTESTS MAY NOT END\n--------------------\n\n> “There will be more demonstrations. We remain mobilized.a\x1D\n> \n> Lionel Cucchi, protestor/spokesman. While the protests started because of the fuel tax, the anger ignited \\*other\\* protests varying from farmers wanting higher wages, to students, to truckers threatening to strike. One analyst described protestors as middle class & squeezed by the welfare state - paying high taxes but feeling few benefits."
+  card_text: "PROTESTS MAY NOT ENDn--------------------nn> “There will be more demonstrations. We remain mobilized.ax1Dn> n> Lionel Cucchi, protestor/spokesman. While the protests started because of the fuel tax, the anger ignited *other* protests varying from farmers wanting higher wages, to students, to truckers threatening to strike. One analyst described protestors as middle class & squeezed by the welfare state - paying high taxes but feeling few benefits."
   card_citation: ''
 card_5:
   card_text: >-
@@ -76,6 +76,7 @@ card_10:
 
     [view sources](https://smarthernews.com/french-protests/)
   card_citation: ''
+
 ---
 *   **Macron scraps French fuel tax hike amid violent protests**  
     [https://www.apnews.com/535bcbbc3d2741d0aff14c634f1375fd](\"https://www.apnews.com/535bcbbc3d2741d0aff14c634f1375fd\")

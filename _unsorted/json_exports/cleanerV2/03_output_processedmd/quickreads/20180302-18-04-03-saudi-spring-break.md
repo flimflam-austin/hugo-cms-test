@@ -55,7 +55,7 @@ card_3:
     ------------------
 
 
-    *   **Iran** \= Mutual adversary.
+    *   **Iran** = Mutual adversary.
 
     *   **Cracking down on terror financing**. Saudi Arabia’s role debated in
     past.
@@ -88,6 +88,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-03-saudi-spring-break/)
   card_citation: ''
+
 ---
 *   Saudi Crown Prince Mohammed bin Salman Is Visiting the U.S. This Week. Here’s What to Expect: [fortune.com/2018/03/19/mohammed-bin-salman-us-trump/](\"http://fortune.com/2018/03/19/mohammed-bin-salman-us-trump/\")
 *   Saudi Prince to Meet With Oprah Winfrey During Mohammed Bin Salmana\\u0019s U.S. Charm Offensive: Report: [www.newsweek.com/saudi-prince-meet-oprah-winfrey-during-mohammed-bin-salmans-us-charm-offensive-863836](\"http://www.newsweek.com/saudi-prince-meet-oprah-winfrey-during-mohammed-bin-salmans-us-charm-offensive-863836\")

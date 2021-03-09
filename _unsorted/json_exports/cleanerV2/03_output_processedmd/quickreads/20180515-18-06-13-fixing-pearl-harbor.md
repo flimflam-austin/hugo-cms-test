@@ -86,6 +86,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-13-fixing-pearl-harbor/)
   card_citation: ''
+
 ---
 *   **USS Arizona repairs are complicated, but harbor tours remain:**  
     [http://www.staradvertiser.com/2018/06/08/hawaii-news/uss-arizona-repairs-are-complicated-but-harbor-tours-remain/](\"http://www.staradvertiser.com/2018/06/08/hawaii-news/uss-arizona-repairs-are-complicated-but-harbor-tours-remain/?HSA=27057a4dd26c5e3ec14450e6c31498f64922d235\")

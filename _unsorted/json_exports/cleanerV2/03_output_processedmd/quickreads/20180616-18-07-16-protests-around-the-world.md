@@ -48,7 +48,7 @@ card_2:
     grab; supporters say protesters are “criminals” or “terrorists.”
   card_citation: ''
 card_3:
-  card_text: "> “Nicaraguaa\x19s descent into chaos makes the population vulnerable to lawlessness, particularly gang activity and drug trafficking, and encourages mass migration.”\n> \n> Senior Analyst Allison Fedirka, Geopolitical Futures, who underscores instability In Nicaragua can put more pressure on neighboring unstable states, with larger migration flows to America."
+  card_text: "> “Nicaraguaax19s descent into chaos makes the population vulnerable to lawlessness, particularly gang activity and drug trafficking, and encourages mass migration.”n> n> Senior Analyst Allison Fedirka, Geopolitical Futures, who underscores instability In Nicaragua can put more pressure on neighboring unstable states, with larger migration flows to America."
   card_citation: ''
 card_4:
   card_text: >-
@@ -61,7 +61,7 @@ card_4:
 
     *   Protestors say basic services (like water and electricity) not provided.
 
-    *   Bigger Picture: Iraq doesn’t have a \*new\* gov’t since May election;A
+    *   Bigger Picture: Iraq doesn’t have a *new* gov’t since May election;A
     **chaos not good for security as politicians try building coalition gov’t.**
   card_citation: ''
 card_10:
@@ -73,6 +73,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-07-16-protests-around-the-world/)
   card_citation: ''
+
 ---
 *   **a\\u0018They are shooting at a churcha\\u0019: Inside the 15-hour siege by Nicaraguan paramilitaries on university students:  
     **[https://www.washingtonpost.com/world/students-in-nicaragua-trapped-in-church-amid-gunfire-by-pro-government-militias/2018/07/14/c7f04512-86e3-11e8-9e06-4db52ac42e05\_story.html](\"https://www.washingtonpost.com/world/students-in-nicaragua-trapped-in-church-amid-gunfire-by-pro-government-militias/2018/07/14/c7f04512-86e3-11e8-9e06-4db52ac42e05_story.html?utm_term=.3c3198210b54\")

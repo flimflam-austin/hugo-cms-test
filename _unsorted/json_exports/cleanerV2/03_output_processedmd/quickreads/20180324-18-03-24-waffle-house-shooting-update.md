@@ -73,6 +73,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-03-24-waffle-house-shooting-update/)
   card_citation: ''
+
 ---
 *   **SmartHER Take:** The so-called “Waffle House” shooting is the second mass shooting in 2018 where the shooter was KNOWN to law enforcement; the alleged high school shooter in Parkland Florida was also known to local police before his murderous rampage and reported to the FBI through a tipline. We will continue to investigate what led to the identification of these threatening would-be criminals but the inability to stop a horrendous crime.
 *   ****GOOD RECAP OF SHOOTING AND VICTIMS: a\\u0018He Was My Babya\\u0019: Families Mourn Waffle House Shooting Victims:A [https://www.nytimes.com/2018/04/23/us/waffle-house-victims.html](\"https://www.nytimes.com/2018/04/23/us/waffle-house-victims.html\")****

@@ -21,7 +21,7 @@ card_1:
     ===============================================
 
 
-    The **Boston Red Sox** & **New York Yankees**A \*reportedly\* close to a
+    The **Boston Red Sox** & **New York Yankees**A *reportedly* close to a
     deal that would bring the teams to **London** for a two-game series **in
     2019**.
 
@@ -45,7 +45,7 @@ card_2:
     this series would lay groundwork for an **annual return**.
   card_citation: ''
 card_3:
-  card_text: "Field Of Dreams\n===============\n\nThe series is expected to take place at Londona\x19s Olympic Park.\n\nThe MLB did host a Home Run Derby last year in Londona\x19s Hyde Park.\n\nROOT, ROOT, ROOT FOR THE \"HOME\" TEAM?"
+  card_text: "Field Of Dreamsn===============nnThe series is expected to take place at Londonax19s Olympic Park.nnThe MLB did host a Home Run Derby last year in Londonax19s Hyde Park.nnROOT, ROOT, ROOT FOR THE "HOME" TEAM?"
   card_citation: ROOT, ROOT, ROOT FOR THE "HOME" TEAM?
 card_4:
   card_text: >-
@@ -62,7 +62,7 @@ card_4:
     The Yanks whose slang moniker may not sit well with those still sore over
     the Revolutionary War.  
 
-    **\*OR\***  
+    ***OR***  
 
     Boston a city that still revels in the Tea Party that got the war started.
   card_citation: ''
@@ -74,6 +74,7 @@ card_10:
 
     [view sources](https://smarthernews.com/2018-03-20-usa-baseball-europe/)
   card_citation: ''
+
 ---
 *   Report: Yankees-Red Sox Regular-Season Series in London Likely for 2019  
     [https://www.bloomberg.com/news/articles/2018-03-19/yankees-red-sox-said-close-to-deal-for-june-2019-london-series](\"https://www.bloomberg.com/news/articles/2018-03-19/yankees-red-sox-said-close-to-deal-for-june-2019-london-series\")

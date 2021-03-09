@@ -30,6 +30,7 @@ featured_quote:
     federal law enforcement in their cities attempting to protect property,
     reduce violence.
   citation: ''
+
 ---
 *   Letter drafted by “Portland, Seattle, Chicago, Kansas City, Albuquerque, New Mexico, and Washington” – [according to Associated Press.](\"https://apnews.com/ebe8e681d99c3c790ee66e8089e67fdf\")
 *   Federal forces have deployed to, or have activated in the past, in these cities because of civil unrest.

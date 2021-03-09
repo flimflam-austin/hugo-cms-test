@@ -30,7 +30,7 @@ card_1:
 
     _  
 
-    (and a lot of us \*believe\* we have a food allergy when we really don’t)_.
+    (and a lot of us *believe* we have a food allergy when we really don’t)_.
 
 
     What Are The Facts?
@@ -79,7 +79,7 @@ card_4:
 
 
     According to Dr. Ruchi Gupta, one of the study’s co-authors, nearly 1 out of
-    5 American adults \*believe\* they have a food allergy; they most likely
+    5 American adults *believe* they have a food allergy; they most likely
     have a food sensitivity or intolerance.
 
 
@@ -110,6 +110,7 @@ card_10:
 
     [view sources](https://smarthernews.com/aging-allergies/)
   card_citation: ''
+
 ---
 *   **New drug shows promise of protecting people with peanut allergies:  
     **[https://thehill.com/policy/healthcare/417460-new-drug-shows-promise-of-protecting-people-with-peanut-allergies](\"https://thehill.com/policy/healthcare/417460-new-drug-shows-promise-of-protecting-people-with-peanut-allergies\")

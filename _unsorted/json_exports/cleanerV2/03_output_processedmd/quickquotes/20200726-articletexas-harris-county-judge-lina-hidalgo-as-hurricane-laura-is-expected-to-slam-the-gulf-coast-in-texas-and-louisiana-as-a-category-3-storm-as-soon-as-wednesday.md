@@ -24,6 +24,7 @@ featured_quote:
     Texas’ Harris County Judge Lina Hidalgo, as Hurricane Laura is expected to
     slam the Gulf Coast in Texas and Louisiana as a Category 4 storm.
   citation: ''
+
 ---
 *   **What We Know About Hurricane Laura:** The latest advisory from the [National Hurricane Center](\"https://www.nhc.noaa.gov/graphics_at3.shtml?key_messages\") warns of hurricane-force winds causing “_a life-threatening storm surge with large and dangerous wave_s” in parts of southeastern Texas and southwestern Louisiana on Wednesday, with damages expected to extend into other parts of eastern Texas and western Louisiana on Thursday.  As of Wednesday morning, more than [750,000](\"https://weather.com/news/news/2020-08-26-hurricane-laura-texas-louisiana-evacuations-preparations\") people in the area are under mandatory evacuation orders.
     *   As the storm weakens, it’s predicted to cause extensive flash flooding in parts of Texas, Louisiana and Arkansas on Thursday, and heavy rain in Mississippi, Ohio and Tennessee on Friday into Saturday

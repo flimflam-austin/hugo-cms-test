@@ -28,6 +28,7 @@ featured_quote:
     Iranian intelligence minister Mahmoud Alavi on Iran potentially developing
     nuclear weapons.
   citation: ''
+
 ---
 *   In recent months Iran has moved towards developing nuclear weapons (for example, enriching uranium – a key component to building a nuclear weapon).
 *   The [intel minister says](\"https://news.yahoo.com/iran-may-pursue-nuclear-weapon-095858029.html\") although nuclear weapons are against the Supreme Leader’s fatwa, or religious edict, for the nation, Iran may have no choice but to pursue nuclear weapons unless America removes sanctions.

@@ -26,6 +26,7 @@ featured_quote:
     Congresswoman Val Demings (D-Fla) reacting to a significant security breach
     at the U.S. Capitol January 6th, 2021.
   citation: ''
+
 ---
 *   4 people died – 1 woman due to a gun shot and 3 others due to “medical emergencies” after a mob broke into the U.S. Capitol.
 *   A large crowd gathered in D.C. on the day of the Electoral College vote in Congress for a planned rally in support of President Trump and his claims of voter fraud.

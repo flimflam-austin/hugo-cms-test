@@ -30,6 +30,7 @@ featured_quote:
     National Park; Yellowstone starts a limited reopening after a COVID-19
     shutdown on Monday.
   citation: ''
+
 ---
 *   Yellowstone, America’s first National Park, will start a [partial reopening on Monday](\"https://www.nps.gov/yell/learn/news/20015.htm\").
 *   Yellowstone touches three states (Wyoming, Idaho, Montana) and will only be opening in Wyoming.  (Fun Fact: [Pres. Ulysses S. Grant](\"https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm\") signed legislation passed by Congress to protect the land in 1872, shortly after the end of the Civil War.)

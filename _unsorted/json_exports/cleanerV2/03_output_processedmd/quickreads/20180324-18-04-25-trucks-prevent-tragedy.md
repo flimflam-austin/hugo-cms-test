@@ -49,6 +49,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-04-25-trucks-prevent-tragedy/)
   card_citation: ''
+
 ---
 *   **Fox2 News – 13 semis line Detroit freeway to help man considering suicide (photo credit):**  
     [http://www.fox2detroit.com/news/local-news/13-semis-line-detroit-freeway-to-help-man-considering-suicide](\"http://www.fox2detroit.com/news/local-news/13-semis-line-detroit-freeway-to-help-man-considering-suicide\")

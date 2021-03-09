@@ -18,6 +18,7 @@ featured_quote:
   quote: The rule of law is what sets us apart from our adversaries.
   summary: Former Sec. of Navy, Richard Spencer, accepts termination.
   citation: ''
+
 ---
 *   A disagreement surfaced between the White House, Defense Department and Navy over the future of Navy SEAL Eddie Gallagher who Pres. Trump pardoned last week.
 *   The Navy was reviewing Gallagher’s standing in the Special Ops team.

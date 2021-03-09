@@ -30,7 +30,7 @@ card_1:
     Why Now?
   card_citation: Why Now?
 card_2:
-  card_text: "> a\x1CIa\x19ve been through several dips in 40 years. This one here is gonna kick my butt.a\x1D\n> \n> Kirk Duensing, Nebraska Farmer, who says low prices for soy & corn crops combined with high interest loans has left him more than $1M in debt. He has sold land and equipment to try to stay afloat."
+  card_text: "> ax1CIax19ve been through several dips in 40 years. This one here is gonna kick my butt.ax1Dn> n> Kirk Duensing, Nebraska Farmer, who says low prices for soy & corn crops combined with high interest loans has left him more than $1M in debt. He has sold land and equipment to try to stay afloat."
   card_citation: ''
 card_3:
   card_text: >-
@@ -48,10 +48,10 @@ card_3:
     or Mexico hurts farmers on top of the depressed prices.
   card_citation: ''
 card_4:
-  card_text: "> a\x1CWe thought 2019 would be the year things turned around. Then the trade dispute happened and that really put a damper on things.a\x1D\n> \n> Curt Hudnutt, Head of Rural Banking for Rabobank, one of the biggest U.S. farm lenders, warning bankruptcies among U.S. farmers will increase. The majority of farms lost money last year."
+  card_text: "> ax1CWe thought 2019 would be the year things turned around. Then the trade dispute happened and that really put a damper on things.ax1Dn> n> Curt Hudnutt, Head of Rural Banking for Rabobank, one of the biggest U.S. farm lenders, warning bankruptcies among U.S. farmers will increase. The majority of farms lost money last year."
   card_citation: ''
 card_5:
-  card_text: "Why It Matters:\n---------------\n\n**Your Kitchen Table**: _“…bankruptcies are climbing across swaths of the Midwest that produce much of the nationa\x19s grain and meat.”_ (WSJ)\n\n**Your Tax Dollars**: Pres. Trump created a $12B fund to help subsidize farmers impacted by trade disputes. Only a portion of the funds have been accessed."
+  card_text: "Why It Matters:n---------------nn**Your Kitchen Table**: _“…bankruptcies are climbing across swaths of the Midwest that produce much of the nationax19s grain and meat.”_ (WSJ)nn**Your Tax Dollars**: Pres. Trump created a $12B fund to help subsidize farmers impacted by trade disputes. Only a portion of the funds have been accessed."
   card_citation: ''
 card_10:
   card_text: >-
@@ -63,6 +63,7 @@ card_10:
 
     [view sources](https://smarthernews.com/farmingbankruptcies/)
   card_citation: ''
+
 ---
 *   **a\\u0018This One Here Is Gonna Kick My Butta\\u0019a\\u0014Farm Belt Bankruptcies Are Soaring:**  
     [https://www.wsj.com/articles/this-one-here-is-gonna-kick-my-buttfarm-belt-bankruptcies-are-soaring-11549468759](\"https://www.wsj.com/articles/this-one-here-is-gonna-kick-my-buttfarm-belt-bankruptcies-are-soaring-11549468759\")

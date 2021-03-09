@@ -29,6 +29,7 @@ featured_quote:
     nonprofit that places wreaths on headstones of fallen service members during
     the holidays, will proceed despite an earlier, sudden cancellation.
   citation: ''
+
 ---
 *   The backstory: Arlington National Cemetery suddenly announced the cancellation of the charity organization’s regular scheduled event, stating it would be [“closed to volunteers” due to the COVID-19 pandemic](\"https://twitter.com/ArlingtonNatl/status/1328465162655952901?s=20\"). Swift reaction followed, including from the President, and in 24 hours Arlington reversed its decision.
 *   [_Wreaths Across America_](\"https://wreathsacrossamerica.org/pages/19520/news/?relatedIds=0&back=true\") adorns military headstones with wreaths for the holidays.

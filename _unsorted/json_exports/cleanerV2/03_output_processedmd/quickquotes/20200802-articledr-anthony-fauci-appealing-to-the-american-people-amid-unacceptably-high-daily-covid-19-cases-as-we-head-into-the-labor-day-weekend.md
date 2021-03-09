@@ -30,6 +30,7 @@ featured_quote:
     Dr. Anthony Fauci appealing to the American people amid “unacceptably high”
     daily COVID-19 cases as we head into the Labor Day weekend.
   citation: ''
+
 ---
 *   During an [interview](\"https://www.youtube.com/watch?v=3D2f36_VhtU\") with MSNBC, Dr Fauci said the U.S. is currently seeing roughly [40,000](\"https://covid.cdc.gov/covid-data-tracker/?utm_source=morning_brew#trends\") new cases a day, but that he wants to see that number decline to 10,000 or less.
 *   Dr. Fauci noted that after the COVID-19 case surges we saw following Memorial Day and July 4th, we know that people tend to be careless over holiday weekends, and [said](\"https://www.youtube.com/watch?v=3D2f36_VhtU\") there are specific steps this weekend in order to avoid those surges, including spending more time outdoors than indoors, wearing masks, and hand washing.

@@ -28,6 +28,7 @@ featured_quote:
     White House COVID-19 task force coordinator Dr. Deborah Birx on why we’re
     now in a “new phase.”
   citation: ''
+
 ---
 *   Dr. Birx [explained](\"https://www.cnn.com/videos/politics/2020/08/02/sotu-birx-on-virus.cnn\") that the virus is now more far-reaching than when it first struck hard in March & April as now those in **rural and urban areas** are equally susceptible.
 *   In terms of what we can do going forward, Dr. Birx [warned](\"http://transcripts.cnn.com/TRANSCRIPTS/2008/02/sotu.01.html\") that individuals must stop attending “**super-spreading events**” of multiple people without masks, and that communities must react quickly with “significant mitigation efforts” at the first sign of increased positivity rates ahead of increased hospital cases.

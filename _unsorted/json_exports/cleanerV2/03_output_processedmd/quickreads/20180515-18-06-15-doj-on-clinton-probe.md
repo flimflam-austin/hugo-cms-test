@@ -34,7 +34,7 @@ card_1:
     500+ pages condensed.
   card_citation: 500+ pages condensed.
 card_2:
-  card_text: "WATCHDOG’S FINDINGS:\n--------------------\n\n*   **Fmr.** **FBI Dir. James Comey was found a\x1Cinsubordinate”** in holding a 2016 news conf. announcing FBI would not recommend criminal charges in Clinton investigation.\n*   Criticized Comeya\x19s decision to notify Congress FBI was reopening Clinton email probe 9 days before election.\n*   Comey’s actions **“negatively impacted the perception of FBI.”**"
+  card_text: "WATCHDOG’S FINDINGS:n--------------------nn*   **Fmr.** **FBI Dir. James Comey was found ax1Cinsubordinate”** in holding a 2016 news conf. announcing FBI would not recommend criminal charges in Clinton investigation.n*   Criticized Comeyax19s decision to notify Congress FBI was reopening Clinton email probe 9 days before election.n*   Comey’s actions **“negatively impacted the perception of FBI.”**"
   card_citation: ''
 card_3:
   card_text: >-
@@ -47,13 +47,13 @@ card_3:
 
     > 
 
-    > *   Page to Strzok: “\[Trump’s\] not ever going to become president,
+    > *   Page to Strzok: “[Trump’s] not ever going to become president,
     right? Right!?”
 
     > *   Strzok: “No. No he won’t. We’ll stop it.”
   card_citation: ''
 card_4:
-  card_text: "> _“I do not agree with all of the inspector generala\x19s conclusions, but I respect the work of his office and salute its professionalism.”_  \n> Fmr. FBI Dir. James Comey\n> \n> _“(Report) reaffirmed the president’s suspicions about Comey’s conduct and the political bias among some of the members of the FBI.”A_  \n> Press Secretary Sarah Sanders\n> \n> _“But my emails.”_  \n> Hillary Clinton tweet"
+  card_text: "> _“I do not agree with all of the inspector generalax19s conclusions, but I respect the work of his office and salute its professionalism.”_  n> Fmr. FBI Dir. James Comeyn> n> _“(Report) reaffirmed the president’s suspicions about Comey’s conduct and the political bias among some of the members of the FBI.”A_  n> Press Secretary Sarah Sandersn> n> _“But my emails.”_  n> Hillary Clinton tweet"
   card_citation: ''
 card_5:
   card_text: >-
@@ -81,6 +81,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-15-doj-on-clinton-probe/)
   card_citation: ''
+
 ---
 *   **Watchdog sees errors, not bias, in Comey’s Clinton Probe:**  
     [https://apnews.com/e5f20d965ad244b4b9b45a4412d2e4df/Watchdog-sees-errors,-not-bias,-in-Comey’s-Clinton-probe](\"https://apnews.com/e5f20d965ad244b4b9b45a4412d2e4df/Watchdog-sees-errors,-not-bias,-in-Comey's-Clinton-probe\")

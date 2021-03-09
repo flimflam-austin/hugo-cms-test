@@ -24,4 +24,5 @@ summary: >-
   Wall Street veteran Guy Adami takes us through the volatile GameStop trade
   that dominated the global markets. PLUS – What to know about the latest data
   on the job market, inflation and why it matters to you and your family.
+
 ---

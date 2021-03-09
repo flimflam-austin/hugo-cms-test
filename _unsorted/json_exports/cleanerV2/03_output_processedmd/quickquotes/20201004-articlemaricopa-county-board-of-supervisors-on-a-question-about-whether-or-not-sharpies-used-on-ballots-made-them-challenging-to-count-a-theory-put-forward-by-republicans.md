@@ -26,6 +26,7 @@ featured_quote:
     sharpies used on ballots made them challenging to count – a theory put
     forward by Republicans after the state was called for Democrat Joe Biden.
   citation: ''
+
 ---
 *   Matt Schlapp, Chair of CPAC (Conservative Political Action Committee) tweeted on Wednesday: _“AZ update: apparently the use of sharpie pens in gop precincts is causing ballots to be invalidated. Could be huge numbers of mostly Trump supporters. More to_ come.” (We can’t link to it because Twitter won’t allow us to copy it as part of their “fact checking” efforts – but here is the [source](\"https://twitter.com/mschlapp/status/1324040942274465792?s=20\")).
 *   Maricopa County [issued a statement in response](\"https://twitter.com/maricopacounty/status/1324131969475637248?s=20\") but the Arizona [Attorney General is investigating these claims](\"https://www.12news.com/article/news/politics/elections/arizona-attorney-general-opens-inquiry-after-hundreds-of-complaints-about-sharpies-being-used-on-ballots-in-maricopa-county/75-6da6b398-0c60-403f-a5ad-68c95a308644\").

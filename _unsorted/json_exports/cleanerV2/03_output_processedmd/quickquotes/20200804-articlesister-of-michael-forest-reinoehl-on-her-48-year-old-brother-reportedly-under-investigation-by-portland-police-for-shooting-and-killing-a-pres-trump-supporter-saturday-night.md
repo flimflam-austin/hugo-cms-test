@@ -28,6 +28,7 @@ featured_quote:
     Sister of Michael Forest Reinoehl on reported investigation of her
     48-year-old brother by Portland police for a fatal shooting Saturday night.
   citation: ''
+
 ---
 *   Both peaceful protests and violent riots have occurred in Portland, Oregon over the last 90 days.
 *   A caravan of what’s been described as “President Trump supporters” drove into downtown Portland on Saturday evening.

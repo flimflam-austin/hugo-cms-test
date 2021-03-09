@@ -31,7 +31,7 @@ card_1:
     are kids under 5 & adults over 70.
   card_citation: ''
 card_2:
-  card_text: "> **a\x1CIt’s a bittersweet day because this rule should have been in place many years ago. Though his own life was short, my son Cameron inspired a regulation that will save the lives of countless others.”**\n> \n> Dr. Greg Gulbransen, a pediatrician who accidentally killed his 2-year-old son Cameron when he backed over him with his vehicle in 2002. His work led to \"Cameron Gulbransen Kids. Transportation Safety Act of 2007', which eventually led to this new rule."
+  card_text: "> **ax1CIt’s a bittersweet day because this rule should have been in place many years ago. Though his own life was short, my son Cameron inspired a regulation that will save the lives of countless others.”**n> n> Dr. Greg Gulbransen, a pediatrician who accidentally killed his 2-year-old son Cameron when he backed over him with his vehicle in 2002. His work led to "Cameron Gulbransen Kids. Transportation Safety Act of 2007', which eventually led to this new rule."
   card_citation: ''
 card_3:
   card_text: >-
@@ -57,6 +57,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-05-02-blind-spot-breakthrough/)
   card_citation: ''
+
 ---
 *   **All new cars in U.S. now required to have backup cameras:** [https://abcnews.go.com/US/cars-us-now-required-backup-cameras/story?id=54854404](\"https://abcnews.go.com/US/cars-us-now-required-backup-cameras/story?id=54854404\")
 *   **Want a car with a backup camera? Now theya\\u0019re not just for pricier models, thanks to federal mandate:** [www.latimes.com/local/lanow/la-fi-backup-cameras-20180502-story.html](\"http://www.latimes.com/local/lanow/la-fi-backup-cameras-20180502-story.html\")

@@ -29,6 +29,7 @@ featured_quote:
     Gov’t watchdog on the FBI’s investigation into Russian interference in 2016
     election
   citation: ''
+
 ---
 *   The Department of Justice Inspector General concluded the FBI’s decisions to open the investigation (and related investigations into four current and former members of the Trump campaign) were free from “political bias” and initiated in compliance with FBI policies.
 *   For years, Pres. Trump has described the investigation as a “witch hunt” motivated by politics.

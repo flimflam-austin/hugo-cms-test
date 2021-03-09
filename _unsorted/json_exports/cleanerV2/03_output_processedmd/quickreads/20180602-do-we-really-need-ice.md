@@ -86,7 +86,7 @@ card_4:
     [CLICK FULL LIST](https://www.dhs.gov/who-joined-dhs)
   card_citation: CLICK FULL LIST
 card_5:
-  card_text: "Something To Consider\n---------------------\n\n> “The child of a forced marriage between two defunct federal agencies a\x14 The United States Customs Service and the Immigration and Naturalization Service a\x14 ICE has long struggled to balance its dual roles of transnational criminal investigations and deportations.”\n> \n> New York Times"
+  card_text: "Something To Considern---------------------nn> “The child of a forced marriage between two defunct federal agencies ax14 The United States Customs Service and the Immigration and Naturalization Service ax14 ICE has long struggled to balance its dual roles of transnational criminal investigations and deportations.”n> n> New York Times"
   card_citation: ''
 card_6:
   card_text: >-
@@ -105,7 +105,7 @@ card_6:
     their job.
   card_citation: ''
 card_7:
-  card_text: "> “…you get rid of ICE youa\x19re going to have a country that youa\x19re going to be afraid to walk out of your house.”\n> \n> Pres. Trump on calls to abolish ICE, predicting Democrats will beA a\x1Cbeaten so badlya\x1D if that's their campaign for the midterms.A In a tweet later, he reiterated there was a\x1Czero chancea\x1D of ICE being abolished."
+  card_text: "> “…you get rid of ICE youax19re going to have a country that youax19re going to be afraid to walk out of your house.”n> n> Pres. Trump on calls to abolish ICE, predicting Democrats will beA ax1Cbeaten so badlyax1D if that's their campaign for the midterms.A In a tweet later, he reiterated there was ax1Czero chanceax1D of ICE being abolished."
   card_citation: ''
 card_10:
   card_text: >-
@@ -117,6 +117,7 @@ card_10:
 
     [view sources](https://smarthernews.com/do-we-really-need-ice/)
   card_citation: ''
+
 ---
 *   **Trump predicts electoral doom for Democrats with a\\u0018abolish ICEa\\u0019 push: a\\u0018Theya\\u0019re going to get beaten so badlya\\u0019:  
     **[http://www.foxnews.com/politics/2018/06/30/trump-slaps-down-democrats-abolish-ice-push-it-will-never-happen.html](\"http://www.foxnews.com/politics/2018/06/30/trump-slaps-down-democrats-abolish-ice-push-it-will-never-happen.html\")

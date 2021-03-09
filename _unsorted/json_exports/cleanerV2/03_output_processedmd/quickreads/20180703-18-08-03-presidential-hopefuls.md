@@ -76,6 +76,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-08-03-presidential-hopefuls/)
   card_citation: ''
+
 ---
 *   **WATCH: LeBron James talks to CNN about Running for President:**  
     [https://www.usatoday.com/videos/sports/nba/2018/07/31/lebron-james-talks-cnn-running-president-2020/37218493/](\"https://www.usatoday.com/videos/sports/nba/2018/07/31/lebron-james-talks-cnn-running-president-2020/37218493/\")

@@ -17,10 +17,10 @@ color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/kevin-gent-219197-360x360.jpg
 card_1:
-  card_text: "> a\x1CTheya\x19ve changed the science… I dona\x19t think any two people come close to the impact they have had.a\x1D\n> \n> David Boies, a high-profile attorney who suffers from dyslexia, reflecting on Sally and Bennett Shaywitz who lead Yale Center for Dyslexia and Creativity. Married and in their 70s, the Shaywitz have researched dyslexia, the most common learning disorder, for 35 years and discovered it impacts an est. 1 in 5 people."
+  card_text: "> ax1CTheyax19ve changed the science… I donax19t think any two people come close to the impact they have had.ax1Dn> n> David Boies, a high-profile attorney who suffers from dyslexia, reflecting on Sally and Bennett Shaywitz who lead Yale Center for Dyslexia and Creativity. Married and in their 70s, the Shaywitz have researched dyslexia, the most common learning disorder, for 35 years and discovered it impacts an est. 1 in 5 people."
   card_citation: ''
 card_2:
-  card_text: "> a\x1CI am writing to request an immediate postponement of any further proceedings related to the nomination of Brett Kavanaugh.a\x1D\n> \n> Sen. Dianne Feinstein, in a letter to Sen. Grassley, the head of the Senate Judiciary Committee. On Sunday night another allegation surfaced against Supreme Court nominee Bret Kavanaugh, claiming he exposed himself to a woman at a college party. Kavanaugh and his first accuser are expected to testify on Thursday."
+  card_text: "> ax1CI am writing to request an immediate postponement of any further proceedings related to the nomination of Brett Kavanaugh.ax1Dn> n> Sen. Dianne Feinstein, in a letter to Sen. Grassley, the head of the Senate Judiciary Committee. On Sunday night another allegation surfaced against Supreme Court nominee Bret Kavanaugh, claiming he exposed himself to a woman at a college party. Kavanaugh and his first accuser are expected to testify on Thursday."
   card_citation: ''
 card_3:
   card_text: >-
@@ -61,13 +61,13 @@ card_5:
     appeal.
   card_citation: ''
 card_6:
-  card_text: "> a\x1CI sort of feel like Amazon is playing chess when everyone else is playing checkers…a\x1D\n> \n> Andrew Lipsman, eMarketer principal analyst, as Amazon unveils a dozen, voice-activated Alexa products, including a $60 microwave. Lipsman says Amazon's efforts to get people talking to their microwave might seem insignificant, but upend how people interact with their devices."
+  card_text: "> ax1CI sort of feel like Amazon is playing chess when everyone else is playing checkers…ax1Dn> n> Andrew Lipsman, eMarketer principal analyst, as Amazon unveils a dozen, voice-activated Alexa products, including a $60 microwave. Lipsman says Amazon's efforts to get people talking to their microwave might seem insignificant, but upend how people interact with their devices."
   card_citation: ''
 card_7:
-  card_text: "> “I had a hard time not crying coming up the last hole.a\x1D\n> \n> Tiger Woods to NBC News after winning the Tour Championship - his first major win in 5 years. Once the top golfer in the world, Woods has come back from 4 back surgeries, a divorce that revealed a sex scandal and an arrest for DUI."
+  card_text: "> “I had a hard time not crying coming up the last hole.ax1Dn> n> Tiger Woods to NBC News after winning the Tour Championship - his first major win in 5 years. Once the top golfer in the world, Woods has come back from 4 back surgeries, a divorce that revealed a sex scandal and an arrest for DUI."
   card_citation: ''
 card_8:
-  card_text: "> “We are trying to make the world a better place by taking as much pain out of it as we can.”\n> \n> Charlotte Gill, owner of Charlottea\x19s Legendary Lobster Pound in Maine, who is sedating lobsters with marijuana smoke in hopes of killing them more humanely. State health inspectors say the practice is illegal, but Gill says she's confident the lobster, which is not yet available sale, can be sold without violating state laws or codes."
+  card_text: "> “We are trying to make the world a better place by taking as much pain out of it as we can.”n> n> Charlotte Gill, owner of Charlotteax19s Legendary Lobster Pound in Maine, who is sedating lobsters with marijuana smoke in hopes of killing them more humanely. State health inspectors say the practice is illegal, but Gill says she's confident the lobster, which is not yet available sale, can be sold without violating state laws or codes."
   card_citation: ''
 card_10:
   card_text: |-
@@ -75,6 +75,7 @@ card_10:
 
     [view sources](https://smarthernews.com/quick-quotes-8/)
   card_citation: ''
+
 ---
 *   **The Couple Who Helped Decode Dyslexia:A**  
     [https://www.nytimes.com/2018/09/21/health/dyslexia-shaywitz-yale.html?](\"https://www.nytimes.com/2018/09/21/health/dyslexia-shaywitz-yale.html?rref=collection%2Fsectioncollection%2Fhealth&action=click&contentCollection=health&region=rank&module=package&version=highlights&contentPlacement=2&pgtype=sectionfront\")

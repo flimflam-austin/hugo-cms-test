@@ -28,6 +28,7 @@ featured_quote:
     Michael Arone, chief investment strategist, State Street Global Advisors, on
     the better than expected July jobs report.
   citation: ''
+
 ---
 *   Unemployment rate: 10.2% – 1.8M jobs gained (or potentially “returned”).
 *   Historically the unemployment rate remains extraordinarily high.

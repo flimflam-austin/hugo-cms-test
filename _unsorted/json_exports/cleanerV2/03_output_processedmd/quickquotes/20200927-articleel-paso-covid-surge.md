@@ -23,6 +23,7 @@ featured_quote:
     El Paso County Judge Ricardo Samaniego on COVID-19 restrictions put in place
     during a surge in infections, hospitalizations in the border city.
   citation: ''
+
 ---
 *   El Paso’s hospitals have experienced a [300% increase of patients in \*less\* than 3 weeks](\"https://www.texastribune.org/2020/10/25/el-paso-coronavirus-stay-home/\") related to the COVID pandemic.
 *   The city issued a new stay-at-home request, with the exception of essential travel or work.

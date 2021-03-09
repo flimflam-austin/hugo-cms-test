@@ -29,6 +29,7 @@ featured_quote:
     Judge Amy Coney Barrett. Sen. Murkowski’s vote all but ensures Barrett’s
     confirmation.
   citation: ''
+
 ---
 *   A simple majority is needed to confirm a Supreme Court nominee in the Senate.
 *   Republicans hold the majority in the Senate. However a handful of Senators expressed concern about the nomination process so close to the election – one of them was Senator Murkowski.

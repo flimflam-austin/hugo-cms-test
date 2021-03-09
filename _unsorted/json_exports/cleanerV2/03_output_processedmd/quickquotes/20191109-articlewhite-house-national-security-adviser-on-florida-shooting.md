@@ -19,6 +19,7 @@ featured_quote:
   quote: Look, to me it appears to be a terrorist attack.
   summary: White House National Security Adviser on Florida shooting
   citation: ''
+
 ---
 *   National Security Adviser Robert O’Brien speaking about a Saudi national who opened fire at a naval base in Florida last week.
 *   3 sailors died in the attack on Friday; the shooter was killed.

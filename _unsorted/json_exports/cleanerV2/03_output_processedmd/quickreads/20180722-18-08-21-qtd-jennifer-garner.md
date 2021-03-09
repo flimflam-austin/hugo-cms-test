@@ -33,6 +33,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-08-21-qtd-jennifer-garner/)
   card_citation: ''
+
 ---
 *   **Recent SmartHER News post about the** “[Hollywood Walk of Fame](\"https://smarthernews.com/18-08-08-trump-hollywood-star/\")” **including how one receives a star**A **and the controversy surrounding President Trump’s star.A**
 *   **All the Cutest Photos From Jennifer Garner’s Walk of Fame Ceremony with Her Three Adorable Kids**  

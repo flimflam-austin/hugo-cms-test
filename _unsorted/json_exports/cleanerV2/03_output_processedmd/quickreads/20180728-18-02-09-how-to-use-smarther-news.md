@@ -172,6 +172,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-09-how-to-use-smarther-news/)
   card_citation: ''
+
 ---
 *   Contact: [info@SmartHERNews.com](\"mailto:info@SmartHERNews.com\")
 *   About:A [https://smarthernews.com/about/](\"https://smarthernews.com/about/\")

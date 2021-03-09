@@ -63,7 +63,7 @@ card_3:
     ----------------------
 
 
-    **Side effect** of Pres. Trump admin’s \*new\* “zero tolerance” policy – a
+    **Side effect** of Pres. Trump admin’s *new* “zero tolerance” policy – a
     **direct response to trying to deter surge of border crossings.**
 
 
@@ -101,7 +101,7 @@ card_5:
     > Senator Susan Collins (R, ME), Twitter, June 17, 2018
   card_citation: ''
 card_6:
-  card_text: "> “.@SenatorCollins There is no policy to separate those seeking asylum at a port of entry. @DHSgov still has a responsibility, however, to ensure the minor is not in danger or being trafficked. We will not look the other way.”\n> \n> Tyler Houltona\x0F, Dep't of Homeland Security spokesman, Twitter, June 17, 2018"
+  card_text: "> “.@SenatorCollins There is no policy to separate those seeking asylum at a port of entry. @DHSgov still has a responsibility, however, to ensure the minor is not in danger or being trafficked. We will not look the other way.”n> n> Tyler Houltonax0F, Dep't of Homeland Security spokesman, Twitter, June 17, 2018"
   card_citation: ''
 card_10:
   card_text: >-
@@ -113,6 +113,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-06-17-immigration-and-children-at-border/)
   card_citation: ''
+
 ---
 *   **GOOD READ:A What you need to know about the Trump administrationa\\u0019s zero-tolerance immigration policy:** [http://www.politifact.com/truth-o-meter/article/2018/jun/06/what-you-need-know-about-trump-administrations-zer/](\"http://www.politifact.com/truth-o-meter/article/2018/jun/06/what-you-need-know-about-trump-administrations-zer/\")  
     As the Trump administration argues, referring immigrants for prosecution is not new policy. But prior administrations did not enforce the practice the way Trump has.Before Trump came into office, families were detained together, sent back immediately or paroled into the country, said Peter Margulies, an immigration law and national security law professor at Roger Williams University School of Law. Now, prosecution is happening across the board and has become the uniform policy.”The policy has ramped up substantially with the new administration,” Margulies said. “Making that a staple of immigration policy is a new feature.”

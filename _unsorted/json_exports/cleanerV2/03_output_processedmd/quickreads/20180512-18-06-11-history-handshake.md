@@ -78,6 +78,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-11-history-handshake/)
   card_citation: ''
+
 ---
 *   **A Great Handshake at Home or Abroad:  
     **[http://emilypost.com/advice/a-great-handshake-at-home-or-abroad/](\"http://emilypost.com/advice/a-great-handshake-at-home-or-abroad/\")

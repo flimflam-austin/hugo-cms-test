@@ -18,5 +18,6 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2018/12/pablo-merchan-montes-772123-unsplash-1-min-scaled-e1596031949988.jpg
   alt: ''
 summary: How One Simple Act Has Wide-Ranging Impact
+
 ---
 Read More Here: [SmartHER Gratitude](\"https://smarthernews.com/the-science-of-giving-thanks/\")

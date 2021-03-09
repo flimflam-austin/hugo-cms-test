@@ -17,7 +17,7 @@ color_palette_classname: light-yellow
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/bill-jelen-555154-unsplash-scaled.jpg
 card_1:
-  card_text: "> “I’m just lucky. The Lord likes me. And I like him.”\n> \n> Katherine Johnson, the former NASA Langley mathematician and\x1C\"human computer\",\x1D who helped develop human spaceflight in America, on turning 100. Johnson and her work were depicted in the 2016 film \"Hidden Figures.\""
+  card_text: "> “I’m just lucky. The Lord likes me. And I like him.”n> n> Katherine Johnson, the former NASA Langley mathematician andx1C"human computer",x1D who helped develop human spaceflight in America, on turning 100. Johnson and her work were depicted in the 2016 film "Hidden Figures.""
   card_citation: ''
 card_2:
   card_text: >-
@@ -57,6 +57,7 @@ card_10:
     [view
     sources](https://smarthernews.com/smarthernews-quick-quotes-for-tuesday-august-28/)
   card_citation: ''
+
 ---
 *   **‘Human computer’ turns 100: Katherine Johnson says, ‘I’m just lucky’:**  
     [www.latimes.com/dp-nws-katherine-johnson-100-0826-story.html](\"http://www.latimes.com/dp-nws-katherine-johnson-100-0826-story.html\")

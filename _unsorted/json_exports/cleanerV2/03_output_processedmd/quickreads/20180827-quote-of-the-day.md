@@ -25,6 +25,7 @@ card_10:
 
     [view sources](https://smarthernews.com/quote-of-the-day/)
   card_citation: ''
+
 ---
 *   **Gisele BA1/4ndchen Says She Battled Panic Attacks So Extreme She Considered Suicide: ‘I Felt Powerless’:**  
     [https://people.com/books/gisele-bundchen-panic-attacks-considered-suicide-book/](\"https://people.com/books/gisele-bundchen-panic-attacks-considered-suicide-book/\")

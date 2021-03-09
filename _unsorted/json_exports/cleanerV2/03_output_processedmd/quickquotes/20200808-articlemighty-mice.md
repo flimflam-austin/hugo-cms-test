@@ -29,6 +29,7 @@ featured_quote:
     so-called “mighty mice” to study muscle and bone loss in space. The study’s
     results may have far-reaching impact here on Earth.
   citation: ''
+
 ---
 *   40 mice participated in the study, and traveled to the International Space Station on the SpaceX rocket in December. They returned to Earth in January.
 *   Some of the mice were genetically modified –  As the [Associated Press describes](\"https://apnews.com/12dda166796549a4b64f4e0321d531de\"): “The treatment involves blocking a pair of proteins that typically limit muscle mass.”

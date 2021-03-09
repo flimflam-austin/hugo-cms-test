@@ -25,6 +25,7 @@ featured_quote:
     to space. It returned with the SpaceX Dragon cargo resupply capsule
     Wednesday night off the coast of Florida.
   citation: ''
+
 ---
 *   The French Bordeaux wine was sent to “age” in space – Will space change its “sedimentation and bubbles”?
 *   While researchers will examine the wine – a select few will get to taste it at the end of February.

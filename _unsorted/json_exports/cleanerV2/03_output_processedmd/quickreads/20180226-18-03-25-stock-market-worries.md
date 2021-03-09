@@ -67,7 +67,7 @@ card_3:
     *   **Russia Probe:A** Trump vs. Mueller uncertainty.
 
     *   **Int Rates:** Raised .25% (higher rates = more expensive to borrow $$ =
-    \*could\* slow economy).
+    *could* slow economy).
 
     *   **Facebook:** Calls for privacy regulation may upend tech world.
 
@@ -137,6 +137,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-03-25-stock-market-worries/)
   card_citation: ''
+
 ---
 *   Dow sheds more than 1,100 points in two days as trade jitters rock Wall Street: [http://money.cnn.com/2018/03/23/investing/dow-jones-stocks-trade-war-china/index.html](\"http://money.cnn.com/2018/03/23/investing/dow-jones-stocks-trade-war-china/index.html\")
 *   Markets Now: Dow Drops 425 Points as Selloff Gets Scary:  

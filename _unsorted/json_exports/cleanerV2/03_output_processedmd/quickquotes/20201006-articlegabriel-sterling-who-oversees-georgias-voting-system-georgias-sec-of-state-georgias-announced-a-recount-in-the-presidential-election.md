@@ -26,6 +26,7 @@ featured_quote:
     results, so far, of the presidential race in his state. Georgia’s Sec of
     State Georgia’s announced a recount in the presidential election.
   citation: ''
+
 ---
 *   _“The stakes are high…We are willing to do anything and everything to maintain trust in our election process for every Georgia regardless of partisan preference.”_ Georgia Sec. of State Brad Raffensperger announced a recount of votes for the presidential election in Georgia.
 *   Raffensperger – a republican – says election monitors will be able to observe the count.

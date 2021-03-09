@@ -30,6 +30,7 @@ featured_quote:
     pledge to make 100 million vaccinations available during his first 100 days
     in office.
   citation: ''
+
 ---
 *   To date, the [CDC](\"https://covid.cdc.gov/covid-data-tracker/#vaccinations\") has distributed nearly 36 million vaccines, and approximately 45% (16.5 million) have been administered since December 14.
 *   A federal advisory panel recommended that the initial supply be distributed based on [who’s most at risk](\"https://www.cdc.gov/coronavirus/2019-ncov/vaccines/index.html\"), placing healthcare workers & long-term care residents first, frontline essential workers and those 75 & older next, followed by those 65 & older and those with underlying conditions. However, it’s up to each state to decide who’s first in line. Most states’ plans loosely mirror federal recommendations.

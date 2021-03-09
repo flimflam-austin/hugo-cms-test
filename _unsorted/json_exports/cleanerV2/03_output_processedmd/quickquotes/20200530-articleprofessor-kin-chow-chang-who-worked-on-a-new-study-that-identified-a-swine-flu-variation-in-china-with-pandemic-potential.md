@@ -28,6 +28,7 @@ featured_quote:
     Professor Kin-Chow Chang who worked on a new study that identified a
     swine-flu variation in China with pandemic potential.
   citation: ''
+
 ---
 *   Researchers looked at pig populations and workers in China from 2011-2018.
 *   Discovered about 10% of workers had exposure to this new flu strain.

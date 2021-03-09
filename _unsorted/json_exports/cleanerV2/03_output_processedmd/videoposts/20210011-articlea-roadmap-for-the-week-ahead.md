@@ -22,5 +22,6 @@ featured_image:
 summary: >-
   What’s next for the U.S. Congress and one foreign policy story to continue to
   watch.
+
 ---
 READ MORE: [Quick SmartHER News stack on Iran](\"https://smarthernews.com/iran-january-2021/\")

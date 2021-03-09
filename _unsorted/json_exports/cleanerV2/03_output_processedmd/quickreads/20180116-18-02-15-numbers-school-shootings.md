@@ -99,6 +99,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-15-numbers-school-shootings/)
   card_citation: ''
+
 ---
 *   **Everytown Analysis: School Shootings:**A [https://everytownresearch.org/reports/analysis-of-school-shootings/](\"https://everytownresearch.org/reports/analysis-of-school-shootings/\")
 *   **No, there havena\\u0019t been 18 school shootings in 2018. That number is flat wrong:** [https://www.washingtonpost.com/local/no-there-havent-been-18-school-shooting-in-2018-that-number-is-flat-wrong/2018/02/15/65b6cf72-1264-11e8-8ea1-c1d91fcec3fe\_story.html](\"https://www.washingtonpost.com/local/no-there-havent-been-18-school-shooting-in-2018-that-number-is-flat-wrong/2018/02/15/65b6cf72-1264-11e8-8ea1-c1d91fcec3fe_story.html?hpid=hp_hp-top-table-main_fla-debunk-525pm%3Ahomepage%2Fstory&utm_term=.c5b90cd9b13f\")

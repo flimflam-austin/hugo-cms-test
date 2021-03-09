@@ -86,6 +86,7 @@ card_4:
 card_10:
   card_text: '[view sources](https://smarthernews.com/2018-03-13-trump-blocks-broadcom/)'
   card_citation: ''
+
 ---
 *   Read why President Trump blocked the Broadcom-Qualcomm Deal:A [https://www.whitehouse.gov/presidential-actions/presidential-order-regarding-proposed-takeover-qualcomm-incorporated-broadcom-limited/](\"https://www.whitehouse.gov/presidential-actions/presidential-order-regarding-proposed-takeover-qualcomm-incorporated-broadcom-limited/\")
 *   Trump Blocks Broadcom Takeover of Qualcomm on Security Risks:A [https://www.bloomberg.com/news/articles/2018-03-12/trump-issues-order-to-block-broadcom-s-takeover-of-qualcomm-jeoszwnt](\"https://www.bloomberg.com/news/articles/2018-03-12/trump-issues-order-to-block-broadcom-s-takeover-of-qualcomm-jeoszwnt\")

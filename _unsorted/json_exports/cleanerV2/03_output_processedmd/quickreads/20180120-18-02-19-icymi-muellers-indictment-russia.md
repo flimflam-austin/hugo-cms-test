@@ -47,10 +47,10 @@ card_2:
     rallies.
   card_citation: ''
 card_3:
-  card_text: "Important Analysis\n==================\n\n“The indictment **does not allege collusion** between Russia and the Trump campaign and **does not assert that Russiaa\x19s deeds tipped the election** in Trumpa\x19s favor. But Muellera\x19s **investigation continues** and nothing is ruled out.”\n\n_Associated Press “AP Fact Check”A_\n\n[Read More Here](https://www.pbs.org/newshour/politics/ap-fact-check-following-mueller-indictments-friday-trump-lashes-out-on-russia-probe)"
+  card_text: "Important Analysisn==================nn“The indictment **does not allege collusion** between Russia and the Trump campaign and **does not assert that Russiaax19s deeds tipped the election** in Trumpax19s favor. But Muellerax19s **investigation continues** and nothing is ruled out.”nn_Associated Press “AP Fact Check”A_nn[Read More Here](https://www.pbs.org/newshour/politics/ap-fact-check-following-mueller-indictments-friday-trump-lashes-out-on-russia-probe)"
   card_citation: Read More Here
 card_4:
-  card_text: "Internet Research Agency  \naka “Troll Factory”\n----------------------------------------------\n\n> a\x1CThe main idea was to work on peoplea\x19s thinking, to raise patriotism among the Russian people and to portray the U.S. negativelya\x1D\n> \n> \"Sergei\" to New York Times on working in an alleged propaganda shop."
+  card_text: "Internet Research Agency  naka “Troll Factory”n----------------------------------------------nn> ax1CThe main idea was to work on peopleax19s thinking, to raise patriotism among the Russian people and to portray the U.S. negativelyax1Dn> n> "Sergei" to New York Times on working in an alleged propaganda shop."
   card_citation: ''
 card_5:
   card_text: >-
@@ -119,6 +119,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-02-19-icymi-muellers-indictment-russia/)
   card_citation: ''
+
 ---
 *   The Case:A [https://www.justice.gov/file/1035477/download](\"https://www.justice.gov/file/1035477/download\")
 *   Read other indictments of the Special Counsel:A [https://www.justice.gov/sco](\"https://www.justice.gov/sco\")

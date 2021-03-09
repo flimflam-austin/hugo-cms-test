@@ -22,6 +22,7 @@ featured_image:
 summary: >-
   A quick rundown of top stories after the long Labor Day Weekend: Jobs,
   COVID-19, Pres. Trump and Mighty Mice! (and an incredible break-through).
+
 ---
 Here’s more info on [JOBS](\"https://smarthernews.com/jobs-report-august/\")
 

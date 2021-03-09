@@ -57,10 +57,10 @@ const convertToMarkdown = (string) =>
 	trimQuotes(turndown.turndown(JSON.stringify(string).trim()));
 
 const buildOutput = (jsonFrontmatter) =>
-	"---\n" +
-	convertToYaml(jsonFrontmatter.frontmatter) +
-	"---\n" +
-	convertToMarkdown(jsonFrontmatter.body);
+	`---\n${convertToYaml(jsonFrontmatter.frontmatter).replace(
+		/([\\]*)/g,
+		""
+	)}\n---\n${convertToMarkdown(jsonFrontmatter.body)}`;
 
 const getOutputFilename = (jsonFrontmatter) =>
 	`${CONFIG.dest[jsonFrontmatter.frontmatter.section]}${
@@ -99,17 +99,11 @@ const processAndWrite = (fileName) => {
 	const json = getJsonFromFile(fileName);
 
 	const quickquotes =
-		json.contentType === "quickquotes"
-			? quickquoteBuilder.process(json)
-			: null;
+		json.contentType === "quickquotes" ? quickquoteBuilder.process(json) : null;
 	const quickreads =
-		json.contentType === "quickreads"
-			? quickreadsBuilder.process(json)
-			: null;
+		json.contentType === "quickreads" ? quickreadsBuilder.process(json) : null;
 	const videoposts =
-		json.contentType === "videoposts"
-			? videopostsBuilder.process(json)
-			: null;
+		json.contentType === "videoposts" ? videopostsBuilder.process(json) : null;
 
 	const dataToWrite = quickquotes || quickreads || videoposts;
 

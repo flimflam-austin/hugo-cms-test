@@ -48,7 +48,7 @@ card_2:
     possible, followed by **radiation** and/or **chemotherapy**
   card_citation: ''
 card_3:
-  card_text: "Sen. McCain is NOT the first public figure to suffer from glioblastoma\n----------------------------------------------------------------------\n\n*   In 2009, McCaina\x19s Senate colleague, Ted Kennedy (D-MA), died from the disease.\n*   In 2015, Beau Biden, son of VP Joe Biden, died at 42.\n*   **More than 12,000 cases diagnosed last year in the U.S**. – only 10% of patients survive longer than 5 years."
+  card_text: "Sen. McCain is NOT the first public figure to suffer from glioblastoman----------------------------------------------------------------------nn*   In 2009, McCainax19s Senate colleague, Ted Kennedy (D-MA), died from the disease.n*   In 2015, Beau Biden, son of VP Joe Biden, died at 42.n*   **More than 12,000 cases diagnosed last year in the U.S**. – only 10% of patients survive longer than 5 years."
   card_citation: ''
 card_4:
   card_text: >-
@@ -71,6 +71,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-08-26-mccain-brain-cancer-glioblastoma/)
   card_citation: ''
+
 ---
 *   **Glioblastoma (GBM):**  
     [www.abta.org/brain-tumor-information/types-of-tumors/glioblastoma.html](\"http://www.abta.org/brain-tumor-information/types-of-tumors/glioblastoma.html\")

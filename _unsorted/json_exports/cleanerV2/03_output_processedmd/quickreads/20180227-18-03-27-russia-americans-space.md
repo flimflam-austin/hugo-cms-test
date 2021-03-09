@@ -40,7 +40,7 @@ card_2:
     ===
 
 
-    \# of Science Experiments Astronauts Will Conduct
+    # of Science Experiments Astronauts Will Conduct
 
     -------------------------------------------------
 
@@ -67,7 +67,7 @@ card_3:
     “retirement” of U.S. space shuttle program).
   card_citation: ''
 card_4:
-  card_text: "_“The ISS has remained the only reason for Russia and the United States to cooperate, and currently the stationa\x19s operation is expected to terminate in 2024. The question is whether there is any prospect of a U.S.-Russia partnership in space after that time.”  \n_  \nPavel Luzin, Russian Professor  \nAugust 29, 2017"
+  card_text: "_“The ISS has remained the only reason for Russia and the United States to cooperate, and currently the stationax19s operation is expected to terminate in 2024. The question is whether there is any prospect of a U.S.-Russia partnership in space after that time.”  n_  nPavel Luzin, Russian Professor  nAugust 29, 2017"
   card_citation: ''
 card_10:
   card_text: |-
@@ -75,6 +75,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-03-27-russia-americans-space/)
   card_citation: ''
+
 ---
 *   Two NASA Astronauts Among Crew Heading to International Space Station:A [https://www.nasa.gov/press-release/two-nasa-astronauts-among-crew-heading-to-international-space-station](\"https://www.nasa.gov/press-release/two-nasa-astronauts-among-crew-heading-to-international-space-station\")
 *   Baikonur Cosmodrome:A [https://www.nasa.gov/mission\_pages/station/structure/elements/baikonur.html](\"https://www.nasa.gov/mission_pages/station/structure/elements/baikonur.html\")

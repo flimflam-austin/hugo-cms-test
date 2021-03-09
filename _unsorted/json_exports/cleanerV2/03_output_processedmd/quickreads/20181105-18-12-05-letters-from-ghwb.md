@@ -17,8 +17,9 @@ color_palette_classname: light-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/06/dev-222588-unsplash-scaled.jpg
 card_10:
-  card_text: "In a September 1998 letter to his children, he wrote \"Remember the old song a\x18Ia\x19ll Be There Ready When You Are'? Well, Ia\x19ll be there ready when you are where there is so much excitement ahead, so many grandkids to watch grow. If you need me, Ia\x19m here. Devotedly, Dad.a\x1D\n\n[view sources](https://smarthernews.com/18-12-05-letters-from-ghwb/)"
+  card_text: "In a September 1998 letter to his children, he wrote "Remember the old song ax18Iax19ll Be There Ready When You Are'? Well, Iax19ll be there ready when you are where there is so much excitement ahead, so many grandkids to watch grow. If you need me, Iax19m here. Devotedly, Dad.ax1Dnn[view sources](https://smarthernews.com/18-12-05-letters-from-ghwb/)"
   card_citation: ''
+
 ---
 *   **Destiny and Power: The American Odyssey of George Herbert Walker Bush:**  
     [https://www.amazon.com/dp/0812979478/](\"https://www.amazon.com/dp/0812979478/\")

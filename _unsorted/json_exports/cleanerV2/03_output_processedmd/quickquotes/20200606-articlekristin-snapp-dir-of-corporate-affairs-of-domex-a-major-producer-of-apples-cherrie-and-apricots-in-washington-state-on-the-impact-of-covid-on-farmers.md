@@ -26,6 +26,7 @@ featured_quote:
     apples, cherries, pears and apricots in Washington State on the impact of
     COVID on farmers.
   citation: ''
+
 ---
 *   Similar to well-publicized incidents of COVID-19 in meatpacking facilities, farming communities feel the impact of the pandemic amongst fruit-packers and pickers.
 *   Some large producers are setting up temporary housing to try to isolate workers, delaying migrant worker arrivals by stalling guest worker programs.

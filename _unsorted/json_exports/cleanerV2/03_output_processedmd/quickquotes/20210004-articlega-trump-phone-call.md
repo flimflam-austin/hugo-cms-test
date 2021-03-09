@@ -25,6 +25,7 @@ featured_quote:
     President Trump’s claim on a recorded phone call that thousands of dead
     people voted in Georgia, skewing the results.
   citation: ''
+
 ---
 *   The recorded call was obtained by many news outlets including [_The Associated Pres_s](\"https://apnews.com/article/d503c8b4e58f7cd648fbf9a746131ec9\") but [_The Washington Post_](\"https://www.washingtonpost.com/politics/trump-raffensperger-call-georgia-vote/2021/01/03/d45acb92-4dc4-11eb-bda4-615aaefd0555_story.html\") _initially broke the story._
 *   The call reportedly took place on Saturday, January 2nd.

@@ -62,13 +62,13 @@ card_3:
     *   Story leaks **after** Senate Judiciary Hearing ends.
   card_citation: ''
 card_4:
-  card_text: "> a\x1CI thought he might inadvertently kill me. He was trying to attack me and remove my clothing.a\x1D\n> \n> Professor Christine Blasey Ford describing what she says happened 30+ years ago at a high school party when Kavanaugh and his friend allegedly trapped her in a room. She doesn't remember exact date or place - says everyone was drinking. She claims Kavanaugh's friend Mark Judge jumped on top of them, causing them all to fall, and she freed herself."
+  card_text: "> ax1CI thought he might inadvertently kill me. He was trying to attack me and remove my clothing.ax1Dn> n> Professor Christine Blasey Ford describing what she says happened 30+ years ago at a high school party when Kavanaugh and his friend allegedly trapped her in a room. She doesn't remember exact date or place - says everyone was drinking. She claims Kavanaugh's friend Mark Judge jumped on top of them, causing them all to fall, and she freed herself."
   card_citation: ''
 card_5:
-  card_text: "> a\x1CI have never done anything like what the accuser describes a\x14 to her or to anyone. Because this never happened, I had no idea who was making this accusation until she identified herself…a\x1D\n> \n> Judge Brett Kavanaugh"
+  card_text: "> ax1CI have never done anything like what the accuser describes ax14 to her or to anyone. Because this never happened, I had no idea who was making this accusation until she identified herself…ax1Dn> n> Judge Brett Kavanaugh"
   card_citation: ''
 card_6:
-  card_text: "> a\x1CIta\x19s just absolutely nuts. I never saw Brett act that way.”\n> \n> Mark Judge, friend of Brett Kavanaugh who the accuser says was in the room when the assault happened. Judge wrote a book about recovering from alcoholism. He has written for conservative news outlets; the accuser has donated to democratic campaigns."
+  card_text: "> ax1CItax19s just absolutely nuts. I never saw Brett act that way.”n> n> Mark Judge, friend of Brett Kavanaugh who the accuser says was in the room when the assault happened. Judge wrote a book about recovering from alcoholism. He has written for conservative news outlets; the accuser has donated to democratic campaigns."
   card_citation: ''
 card_7:
   card_text: >-
@@ -111,6 +111,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-09-18-kavanaugh-haunted-by-allegation-from-high-school/)
   card_citation: ''
+
 ---
 *   **California professor, writer of confidential Brett Kavanaugh letter, speaks out about her allegation of sexual assault:**  
     [https://www.washingtonpost.com/investigations/california-professor-writer-of-confidential-brett-kavanaugh-letter-speaks-out-about-her-allegation-of-sexual-assault/2018/09/16/46982194-b846-11e8-94eb-3bd52dfe917b\_story.html](\"https://www.washingtonpost.com/investigations/california-professor-writer-of-confidential-brett-kavanaugh-letter-speaks-out-about-her-allegation-of-sexual-assault/2018/09/16/46982194-b846-11e8-94eb-3bd52dfe917b_story.html?utm_term=.4724ddabff8a\")

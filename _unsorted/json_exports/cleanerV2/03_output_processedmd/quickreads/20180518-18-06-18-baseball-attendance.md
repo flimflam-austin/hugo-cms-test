@@ -67,7 +67,7 @@ card_3:
     **not an ideal setting to watch a game.**
   card_citation: ''
 card_4:
-  card_text: "MLB WANTS TO FIX IT\n-------------------\n\n> a\x1CI think that a lot of us in the game are watching the way wea\x19re playing very, very closely, everything from fewer hits, more strikeouts, more times between balls in play.”\n> \n> Rob Manfred, MLB Commissioner"
+  card_text: "MLB WANTS TO FIX ITn-------------------nn> ax1CI think that a lot of us in the game are watching the way weax19re playing very, very closely, everything from fewer hits, more strikeouts, more times between balls in play.”n> n> Rob Manfred, MLB Commissioner"
   card_citation: ''
 card_10:
   card_text: >-
@@ -77,6 +77,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-18-baseball-attendance/)
   card_citation: ''
+
 ---
 *   **Attendance drop, strikeout rise has MLB concerned (From May 27th)  
     **[https://apnews.com/14a72864fa504154a848e1c577582c06](\"https://apnews.com/14a72864fa504154a848e1c577582c06\")  

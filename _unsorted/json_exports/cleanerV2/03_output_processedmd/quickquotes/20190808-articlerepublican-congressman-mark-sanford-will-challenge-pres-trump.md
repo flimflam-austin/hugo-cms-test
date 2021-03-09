@@ -1,6 +1,6 @@
 ---
 title: republican congressman mark sanford will challenge pres. trump
-description: "\x1CI think we need to have a conversation on what it means to be a republican."
+description: "x1CI think we need to have a conversation on what it means to be a republican."
 aliases:
   - article/republican-congressman-mark-sanford-will-challenge-pres-trump/
 published: true
@@ -15,9 +15,10 @@ featured_image:
   image: ''
   alt: ''
 featured_quote:
-  quote: "\x1CI think we need to have a conversation on what it means to be a Republican."
+  quote: "x1CI think we need to have a conversation on what it means to be a Republican."
   summary: Republican Congressman Mark Sanford will challenge Pres. Trump
   citation: ''
+
 ---
 *   Congressman Mark Sanford: Republican from South Carolina
 *   Third candidate to challenge Pres. Trump for the Republican nomination for President.

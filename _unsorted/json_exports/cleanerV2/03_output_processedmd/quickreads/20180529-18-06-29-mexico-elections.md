@@ -23,6 +23,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-06-29-mexico-elections/)
   card_citation: ''
+
 ---
 *   **2 mayoral candidates killed in Mexico, 18 dead so far:  
     **[https://apnews.com/9341a84de6b d4f0aab53352992394f7e](\"https://apnews.com/9341a84de6b)

@@ -36,7 +36,7 @@ card_1:
     FLIP: WHAT THE FDA SAYS
   card_citation: 'FLIP: WHAT THE FDA SAYS'
 card_2:
-  card_text: "Safe, But Still Questions…\n--------------------------\n\n> *   Harvest season for romaine lettuce, linked to the multi-state E. coli outbreak, is over.\n> *   FDA says it’s **unlikely contaminated lettuce still for sale,**A due to 21-day shelf life.\n> *   **Source of E. Coli stillA unknown.**\n> \n> **_a\x1CThe easy answers dona\x19t explain this. We have to look at something potentially different.a\x1D_**  \n> Dr. Stephen Ostroff, FDA"
+  card_text: "Safe, But Still Questions…n--------------------------nn> *   Harvest season for romaine lettuce, linked to the multi-state E. coli outbreak, is over.n> *   FDA says it’s **unlikely contaminated lettuce still for sale,**A due to 21-day shelf life.n> *   **Source of E. Coli stillA unknown.**n> n> **_ax1CThe easy answers donax19t explain this. We have to look at something potentially different.ax1D_**  n> Dr. Stephen Ostroff, FDA"
   card_citation: ''
 card_10:
   card_text: >-
@@ -46,6 +46,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-5-18-romaine-now-safe/)
   card_citation: ''
+
 ---
 *   ******SmartHER Refresher:A****** [https://smarthernews.com/18-05-03-deadly-romaine/](\"https://smarthernews.com/18-05-03-deadly-romaine/\")
 *   ****CDC: Multistage Outbreak of E. coli O157:H7 Infections Linked to Romaine Lettuce:****[https://www.cdc.gov/ecoli/2018/o157h7-04-18/index.html](\"https://www.cdc.gov/ecoli/2018/o157h7-04-18/index.html\")

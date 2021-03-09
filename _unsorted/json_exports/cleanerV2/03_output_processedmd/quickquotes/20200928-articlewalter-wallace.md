@@ -30,6 +30,7 @@ featured_quote:
     police officers in Philadelphia – riots and looting erupted in the immediate
     aftermath.
   citation: ''
+
 ---
 *   Walter Wallace was killed Monday afternoon.
 *   Walter, 27, was black – the police officers appear to be white.

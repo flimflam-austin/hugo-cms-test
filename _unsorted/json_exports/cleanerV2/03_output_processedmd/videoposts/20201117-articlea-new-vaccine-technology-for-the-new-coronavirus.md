@@ -18,4 +18,5 @@ featured_image:
     https://smarthernews.com/wp-content/uploads/2020/12/IMG_2206-scaled-e1608255954912-1024x829.jpg
   alt: ''
 summary: 'Hope vs. Skepticism: What to know about mRNA COVID-19 vaccines'
+
 ---

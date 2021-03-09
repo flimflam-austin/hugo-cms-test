@@ -22,6 +22,7 @@ featured_image:
 summary: >-
   Insights from an ER doctor fighting COVID-19 in one of America’s latest
   hotspots.
+
 ---
 _Dr. Natasha Kathuria ([instagram.com/natashad123](\"http://instgram.com/natashad123\"))_
 

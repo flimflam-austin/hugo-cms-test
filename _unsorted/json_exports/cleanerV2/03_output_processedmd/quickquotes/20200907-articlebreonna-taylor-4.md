@@ -29,6 +29,7 @@ featured_quote:
     Kentucky Attorney General Daniel Cameron asking him to recuse himself so
     that a new special prosecutor may be appointed.
   citation: ''
+
 ---
 *   The Taylor family’s call for a special prosecutor comes after Kentucky’s Attorney General Daniel Cameron [released](\"https://kentucky.gov/Pages/Activity-stream.aspx?n=AttorneyGeneral&prId=967\") 15 hours of grand jury recordings last week.
     *   The grand jury recordings were released pursuant to a court order in a case filed by an anonymous grand juror asking for their release in response to Cameron’s public remarks about [why](\"https://kentucky.gov/Pages/Activity-stream.aspx?n=AttorneyGeneral&prId=963\") the grand jury decided there was insufficient evidence to charge any police officers in connection with the killing of Breonna Taylor.

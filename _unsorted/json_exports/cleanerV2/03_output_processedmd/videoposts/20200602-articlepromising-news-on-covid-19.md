@@ -26,6 +26,7 @@ summary: >-
   it might be about blood type. We *also* heard again from the FDA this week
   that there’s optimistic research on a treatment called “convalescent plasma.”
   What’s blood got to do with COVID-19? Here’s the latest with Dr. Darria!
+
 ---
 Here’s info on of the new studies on blood type: [CLICK HERE](\"https://www.tmc.edu/news/2020/06/blood-type-may-affect-covid-19-outcomes-study-shows/\")
 

@@ -28,6 +28,7 @@ featured_quote:
     Senior economists, Daniel Zhao, job placement website Glassdoor, speaking
     about the latest week when 853,000 Americans filed for unemployment.
   citation: ''
+
 ---
 *   We receive this data on the labor market every week on Thursday. It often fluctuates, however this number is the highest level we’ve seen in several months (September).
 *   **Why It Matters:** Trends and expectations. This week’s number is higher than economist expected and a significant increase from the week before – igniting more concern about the strength of the economy during the COVID-19 pandemic.

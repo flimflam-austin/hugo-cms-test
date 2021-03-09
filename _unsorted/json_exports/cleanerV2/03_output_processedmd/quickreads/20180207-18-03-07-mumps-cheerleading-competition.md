@@ -58,10 +58,10 @@ card_2:
     [Click For Video:](https://vimeo.com/257404702)
   card_citation: 'Click For Video:'
 card_3:
-  card_text: "What are a\x1CMumpsa\x1D?\n===================\n\n*   Tell-tale signs: a\x1Cpuffy cheeks & swollen jawa\x1D (CDC)\n*   Other symptoms: fever, headache, tiredness, loss of appetite.\n*   Symptoms can appear in 25 day period & can last several weeks.\n*   Most Americans receive MMR vaccine – Measles, Mumps and Rubella – as infants. It’s 88% effective, not 100%, so cases can occasionally surface."
+  card_text: "What are ax1CMumpsax1D?n===================nn*   Tell-tale signs: ax1Cpuffy cheeks & swollen jawax1D (CDC)n*   Other symptoms: fever, headache, tiredness, loss of appetite.n*   Symptoms can appear in 25 day period & can last several weeks.n*   Most Americans receive MMR vaccine – Measles, Mumps and Rubella – as infants. It’s 88% effective, not 100%, so cases can occasionally surface."
   card_citation: ''
 card_4:
-  card_text: "SmartHER News spoke to Texas Dept of Health\n-------------------------------------------\n\n*   Confirmed case of mumps was a participant.\n*   They arena\x19t releasing the state of participant.\n*   Warning letter a precaution to spread the word – likelihood is low but still in time period where symptoms may appear.\n\nClick Here For Letter"
+  card_text: "SmartHER News spoke to Texas Dept of Healthn-------------------------------------------nn*   Confirmed case of mumps was a participant.n*   They arenax19t releasing the state of participant.n*   Warning letter a precaution to spread the word – likelihood is low but still in time period where symptoms may appear.nnClick Here For Letter"
   card_citation: Click Here For Letter
 card_5:
   card_text: >-
@@ -81,6 +81,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-03-07-mumps-cheerleading-competition/)
   card_citation: ''
+
 ---
 *   Dallas News:[A https://www.dallasnews.com/news/public-health/2018/03/06/thousands-cheerleaders-may-exposed-mumps-dallas-competition](\"https://www.dallasnews.com/news/public-health/2018/03/06/thousands-cheerleaders-may-exposed-mumps-dallas-competition\")
 *   Signs & Symptoms:A [https://www.cdc.gov/mumps/about/signs-symptoms.html](\"https://www.cdc.gov/mumps/about/signs-symptoms.html\")

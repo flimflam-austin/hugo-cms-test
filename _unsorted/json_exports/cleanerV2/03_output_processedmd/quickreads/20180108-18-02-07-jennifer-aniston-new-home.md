@@ -15,7 +15,7 @@ color_palette_classname: dark-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/alexander-shustov-67-360x360.jpg
 card_1:
-  card_text: "> a\x1CSexy is important, but comfort is essential.”\n> \n> Jennifer Aniston, Actress, speaking to Architectural Digest\n\nJenn is like so many Americans - Flip Here For Why"
+  card_text: "> ax1CSexy is important, but comfort is essential.”n> n> Jennifer Aniston, Actress, speaking to Architectural DigestnnJenn is like so many Americans - Flip Here For Why"
   card_citation: Jenn is like so many Americans - Flip Here For Why
 card_2:
   card_text: >-
@@ -55,6 +55,7 @@ card_3:
 card_10:
   card_text: '[view sources](https://smarthernews.com/18-02-07-jennifer-aniston-new-home/)'
   card_citation: ''
+
 ---
 [Americans Pour Record Sums Into Home Improvements](\"https://www.wsj.com/articles/americans-pour-record-sums-into-home-improvements-1500975001\") A shortage of new single-family homes across the U.S. is pushing up prices and locking many buyers out of the market. The silver lining: a boom in renovations of existing homes. Americans are expected to pour a record $316 billion into home remodeling this year, up from $296 billion a year earlier, according to Harvard Universitya\\u0019s Joint Center for Housing Studies.
 

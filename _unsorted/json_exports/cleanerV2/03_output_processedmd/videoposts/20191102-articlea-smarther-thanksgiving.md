@@ -20,4 +20,5 @@ featured_image:
 summary: >-
   3 quick “bites” about the origins of this feasting holiday. Happy
   Thanksgiving!
+
 ---

@@ -64,7 +64,7 @@ card_3:
     representative).
   card_citation: ''
 card_4:
-  card_text: "**More specific** (or **more narrow**, depending on your point of view) **definition of sexual harassment**.\n\n*   **OLD DEFINITION**: a\x1Cunwelcome conduct of a sexual nature”\n*   **NEW DEFINITION:** a\x1Cunwelcome conduct on the basis of sex that is so severe, pervasive and objectively offensive that it denies a person access to the schoola\x19s education program or activity.a\x1D"
+  card_text: "**More specific** (or **more narrow**, depending on your point of view) **definition of sexual harassment**.nn*   **OLD DEFINITION**: ax1Cunwelcome conduct of a sexual nature”n*   **NEW DEFINITION:** ax1Cunwelcome conduct on the basis of sex that is so severe, pervasive and objectively offensive that it denies a person access to the schoolax19s education program or activity.ax1D"
   card_citation: ''
 card_5:
   card_text: >-
@@ -79,7 +79,7 @@ card_5:
     > Sec. of Education Betsy DeVos
   card_citation: ''
 card_6:
-  card_text: "> a\x1C… something like **one in five women will be victims of sexual assault on campuses,** and cases of false accusations are exceedingly rare. But when you hear folks in the current administration talk about issues of sexual harassment or assault, what one hears from them is **the implication that false accusations are a rampant problem and that is false.**a\x1D\n> \n> Fmr. Sec. of Education John King. Jr"
+  card_text: "> ax1C… something like **one in five women will be victims of sexual assault on campuses,** and cases of false accusations are exceedingly rare. But when you hear folks in the current administration talk about issues of sexual harassment or assault, what one hears from them is **the implication that false accusations are a rampant problem and that is false.**ax1Dn> n> Fmr. Sec. of Education John King. Jr"
   card_citation: ''
 card_10:
   card_text: >-
@@ -92,6 +92,7 @@ card_10:
     [view
     sources](https://smarthernews.com/18-11-27-sexual-misconduct-on-campus/)
   card_citation: ''
+
 ---
 *   **DeVos proposes overhaul to campus sexual misconduct rules:**  
     [https://www.apnews.com/22112e361b1f4d30ad5e3d26e3b0fa52](\"https://www.apnews.com/22112e361b1f4d30ad5e3d26e3b0fa52\")

@@ -24,6 +24,7 @@ featured_quote:
     Chief global market strategist Kristina Hooper, Invesco, on the stock market
     trending higher.
   citation: ''
+
 ---
 *   Stocks have rallied, recovering from the lowest point of the last few weeks.
 *   The last time we’ve seen the Dow Jones at this level was \*before\* federal social distancing guidelines in March.

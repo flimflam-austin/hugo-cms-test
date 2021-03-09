@@ -109,6 +109,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-05-08-iran-deal-even-matter/)
   card_citation: ''
+
 ---
 *   **SmartHER Definition: “Iran Deal” =A A “Joint Comprehensive Plan of Action” = “JCPOA”**
 *   **Watch President Trump:A** [https://youtu.be/ZiNxzrU3dmEhttps://youtu.be/ZiNxzrU3dmE](\"https://youtu.be/ZiNxzrU3dmEhttps://youtu.be/ZiNxzrU3dmE\")

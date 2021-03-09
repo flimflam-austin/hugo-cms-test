@@ -28,6 +28,7 @@ featured_quote:
     Four former FDA commissioners advocating for better studies on convalescent
     plasma therapy.
   citation: ''
+
 ---
 *   FDA commissioners (Mark McClellan, Margaret Hamburg, Robert Califf and Scott Gottlieb) want to shine a spotlight on the need for strong, quick scientific trials on convalescent plasma treatment for COVID-19.
 *   Convalescent plasma basics: someone who recovered from an infection can share their blood plasma with immune boosting antibodies with someone of the same blood type struggling with the same infection.

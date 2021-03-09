@@ -26,6 +26,7 @@ featured_quote:
     Moore. The 100-year-old veteran raised more than $40 million for UK
     hospitals walking laps in his backyard.
   citation: ''
+
 ---
 *   Captain Tom developed a deep appreciation for UK healthcare workers after fracturing his hip several years ago.
 *   In order to show his appreciation – and stay active during lockdown – “Captain Tom” decided to attempt 100 laps around his garden for his 100th birthday; he wanted to raise 1,000 pounds (or approx. $1300) to donate to healthcare workers.

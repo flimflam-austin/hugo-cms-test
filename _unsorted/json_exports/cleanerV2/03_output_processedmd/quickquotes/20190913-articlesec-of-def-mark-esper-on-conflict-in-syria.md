@@ -18,6 +18,7 @@ featured_quote:
   quote: It gets worse by the hour.
   summary: Sec. of Def Mark Esper on conflict in Syria.
   citation: ''
+
 ---
 *   U.S. says Turkey is pushing deeper than expected into Syrian territory.
 *   Reports hundreds of ISIS fights have fled in chaos.

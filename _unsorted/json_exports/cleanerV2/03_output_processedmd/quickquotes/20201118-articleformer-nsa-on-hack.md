@@ -27,6 +27,7 @@ featured_quote:
     Cybersecurity expert Glenn Gerstell, former general counsel of the National
     Security Agency, on a hack attack on the U.S. gov’t.
   citation: ''
+
 ---
 *   _“You’d have to go back and look at every room to see what was taken, what might have been touched. And of course, that’s just a horrifying thought.”_ Gerstell.
 *   The hack attack is only becoming public now; it’s reportedly **ongoing**.

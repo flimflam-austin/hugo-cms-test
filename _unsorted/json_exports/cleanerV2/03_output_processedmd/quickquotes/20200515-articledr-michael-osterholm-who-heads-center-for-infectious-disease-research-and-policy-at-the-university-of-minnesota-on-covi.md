@@ -24,6 +24,7 @@ featured_quote:
     Dr. Michael Osterholm who heads Center for Infectious Disease Research and
     Policy at the University of Minnesota on COVID.
   citation: ''
+
 ---
 *   Osterholm: the spread of the new coronavirus will not slow until upwards of 70% of Americans have exposure. Currently, an estimated 5% have had exposure.
 *   Osterholm: unknown why COVID-19 cases surge in some states and not others. “We have 22 states where we have cases increasing, eight where it’s level, and 21 states where it’s decreasing.”

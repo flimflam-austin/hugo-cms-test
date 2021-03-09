@@ -85,6 +85,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-02-20-walmart-loses-money/)
   card_citation: ''
+
 ---
 *   Walmart Stumbles in Shift to Web Selling: [https://www.wsj.com/articles/walmarts-online-sales-growth-slows-1519129573](\"https://www.wsj.com/articles/walmarts-online-sales-growth-slows-1519129573?mod=trending_now_5\")
 *   Walmart execs grilled on disappointing online growth on earnings call: [https://www.marketwatch.com/story/walmart-execs-grilled-on-disappointing-online-growth-on-earnings-call-2018-02-20](\"https://www.marketwatch.com/story/walmart-execs-grilled-on-disappointing-online-growth-on-earnings-call-2018-02-20\")

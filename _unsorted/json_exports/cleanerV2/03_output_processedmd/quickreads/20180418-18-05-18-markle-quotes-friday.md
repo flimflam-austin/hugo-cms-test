@@ -15,7 +15,7 @@ color_palette_classname: dark-brown
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/lesly-juarez-220845-unsplash-scaled.jpg
 card_1:
-  card_text: "Meghan Markle:  \nIn Her Own Words\n---------------------------------\n\n> **“It means that a wife is equal to her husband, a sister to her brother. Not better, not worsea\x14they are equal.”**\n> \n> Markle, on what it meant to her when, at 11, her letter to Proctor & Gamble led them to change their ad from \"women all over America are fighting greasy pots and pans\" to \"people all over America are fighting greasy pots and pans.\""
+  card_text: "Meghan Markle:  nIn Her Own Wordsn---------------------------------nn> **“It means that a wife is equal to her husband, a sister to her brother. Not better, not worseax14they are equal.”**n> n> Markle, on what it meant to her when, at 11, her letter to Proctor & Gamble led them to change their ad from "women all over America are fighting greasy pots and pans" to "people all over America are fighting greasy pots and pans.""
   card_citation: ''
 card_2:
   card_text: >-
@@ -63,6 +63,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-05-18-markle-quotes-friday/)
   card_citation: ''
+
 ---
 *   **Meghan Markle has advocated for women since the age of 11:** [www.chicagotribune.com/news/nationworld/sns-bc-un–royal-engagement-meghan-markle-united-nations-20171128-story.html](\"http://www.chicagotribune.com/news/nationworld/sns-bc-un--royal-engagement-meghan-markle-united-nations-20171128-story.html\")
 *   **Meghan Markle, in her own words: Gender equality doesn’t mean fighting against stereotypical gender roles:** [https://www.independent.ie/style/voices/meghan-markle-in-her-own-words-gender-equality-doesnt-mean-fighting-against-stereotypical-gender-roles-30653208.html](\"https://www.independent.ie/style/voices/meghan-markle-in-her-own-words-gender-equality-doesnt-mean-fighting-against-stereotypical-gender-roles-30653208.html\")

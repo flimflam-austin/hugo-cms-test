@@ -25,6 +25,7 @@ featured_quote:
     officially counted the Electoral College votes and announced President-elect
     Biden & VP-elect Harris the winners of the 2020 election.
   citation: ''
+
 ---
 *   The U.S. Senate Pastor opens every Senate session with a prayer.
 *   This has been a tradition dating back to the first Senate meeting in 1789.

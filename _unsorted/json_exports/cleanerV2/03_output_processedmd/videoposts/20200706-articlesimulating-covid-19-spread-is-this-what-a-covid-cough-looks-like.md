@@ -24,5 +24,6 @@ summary: >-
   New study and video by the University of Florida Atlantic College of
   Engineering and Computer Science shows us what *may* happen to COVID-19
   droplets when someone coughs or sneezes.
+
 ---
 Here’s the [VIDEO](\"https://www.fau.edu/newsdesk/articles/efficacy-facemasks-coronavirus.php\") in full from the [recent published study](\"https://aip.scitation.org/doi/10.1063/5.0016018\") by [Florida Atlantic University’s College of Engineering and Computer Science](\"https://www.fau.edu/newsdesk/articles/efficacy-facemasks-coronavirus.php\")

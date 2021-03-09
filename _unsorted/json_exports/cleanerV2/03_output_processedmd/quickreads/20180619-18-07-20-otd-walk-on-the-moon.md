@@ -83,6 +83,7 @@ card_10:
 
     [view sources](https://smarthernews.com/18-07-20-otd-walk-on-the-moon/)
   card_citation: ''
+
 ---
 *   **Space Program:**  
     [https://www.jfklibrary.org/JFK/JFK-in-History/Space-Program.aspx](\"https://www.jfklibrary.org/JFK/JFK-in-History/Space-Program.aspx\")

@@ -29,6 +29,7 @@ featured_quote:
     Surfer Makuakai Rothman on riding what some describe as a record-breaking
     100-foot wave in Hawaii during a historic winter season.
   citation: ''
+
 ---
 *   Surfer Makuakai Rothman is a World Surfing League Big Wave World Champion: _“I didn’t actually know how big it was when I was riding it, but I could tell it was a special wave, it felt different,” he said, his voice, five days later still conveying a contagious excitement and stoke. “Those waves, they create their own wind, their own ecosystem, they have things that aren’t on the normal-size wave: bumps as big as cars on their face.”_
 *   The winter season in Hawaii produces huge waves – estimates range from 40-60-100 feet high.

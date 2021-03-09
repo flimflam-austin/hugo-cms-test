@@ -24,6 +24,7 @@ featured_quote:
     The CDC updating its guidance on the potential spread of the virus that
     causes COVID-19.
   citation: ''
+
 ---
 *   Previously, the CDC said the transmission of SARS-CoV-2 depended mainly on larger respiratory droplets, transmitted by an infected person within relatively close proximity to another, when coughing, singing, or even talking. **This is the reason behind guidance for social distancing and mask-wearing.**
 *   Now the CDC says the guidance should include **airborne transmission** – meaning a tiny particle, released when even breathing, may hang in the air longer than a typical respiratory droplet, opening up the potential scenarios someone \*may\* get infected.

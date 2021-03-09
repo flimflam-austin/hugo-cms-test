@@ -31,6 +31,7 @@ featured_quote:
     Chief FDA scientist explaining the FDA’s decision to revoke its emergency
     use approval for hydroxychloroquine.
   citation: ''
+
 ---
 *   In March, the FDA approved emergency use of hydroxychloroquine sulfate and chloroquine phosphate for treating COVID-19, allowing the anti-malarial drugs to be used in ways in which they had not yet been tested for. At the time, there were reports and limited studies indicating that some COVID-19 patients appeared to recover more quickly using the treatment.
 *   In April, the FDA warned against treating COVID-19 patients with hydroxychloroquine or chloroquine outside of the hospital setting or a clinical trial due to the risk of heart rhythm problems.

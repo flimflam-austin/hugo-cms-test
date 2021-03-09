@@ -22,4 +22,5 @@ featured_image:
 summary: >-
   Electing a president, distributing a history-making vaccine, and attempting to
   fund the U.S. gov’t.
+
 ---

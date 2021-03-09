@@ -24,6 +24,7 @@ featured_quote:
     cameras. Check the status of your state.
   summary: Texas becomes latest state to ban red light cameras
   citation: ''
+
 ---
 *   Having about eight-ninths of its area
 *   Then comes that of the Yenisei, with about seven-ninths

@@ -1,5 +1,5 @@
 ---
-title: "usda provides update on reports of households across america randomly receiving unsolicited seed packages\_in the mail."
+title: "usda provides update on reports of households across america randomly receiving unsolicited seed packages_in the mail."
 description: >-
   We are not aware of any human health risks at this time. in an abundance of
   caution, people should wear gloves and limit touching the material.
@@ -22,8 +22,9 @@ featured_quote:
   quote: >-
     We are not aware of any human health risks at this time. In an abundance of
     caution, people should wear gloves and limit touching the material.
-  summary: "USDA provides update on reports of households across America randomly receiving unsolicited seed packages\_in the mail."
+  summary: "USDA provides update on reports of households across America randomly receiving unsolicited seed packages_in the mail."
   citation: ''
+
 ---
 *   The USDA still doesn’t know the exact origins of the packages, but [says](\"https://www.aphis.usda.gov/publications/plant_health/faq-unsolicited-seeds.pdf\") they appear to be coming from China – though they’ve received reports of packages coming from other countries as well.
 *   As to the why – so far, the USDA [believes](\"https://www.aphis.usda.gov/publications/plant_health/faq-unsolicited-seeds.pdf\") it’s part of what they call a “brushing scam” whereby sellers send unsolicited items to consumers and post fake reviews in order to increase sales.  “_Brushing scams involving seed packets in international mail shipments,_” according to the USDA.

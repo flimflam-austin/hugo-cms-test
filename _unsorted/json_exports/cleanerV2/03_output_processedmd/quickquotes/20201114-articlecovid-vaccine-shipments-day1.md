@@ -26,6 +26,7 @@ featured_quote:
     FedEx after successfully delivering some of the first COVID-19 vaccines on
     Monday, as America began distributing and administering COVID-19 vaccines.
   citation: ''
+
 ---
 *   On Monday, 145 distribution centers received the first doses of the **Pfizer-BioNTech** vaccine. On Tuesday, 425 distribution centers will get the second batch, with a third batch to 66 distribution centers scheduled for Wednesday.
     *   In November, Pfizer announced the results of its Phase 3 COVID-19 vaccine trial showing its vaccine, which must be stored at an ultra-cold temperature of -80°C,  is over 90% effective.
