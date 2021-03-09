@@ -68,15 +68,18 @@ collections:
             hint: Separate tags with commas (politics, potus). Use lowercase.
             allow_add: true
             min: 0
+            collapsed: false
             field:
-                - label: Tag
-                  name: tag
-                  width: string
-                  pattern:
-                      [
-                          "/([a-z0-9 ,]*)/",
-                          "Tags must be lower case letters or numbers separated by commas.",
-                      ]
+                - {
+                      label: Tag,
+                      name: tag,
+                      width: string,
+                      pattern:
+                          [
+                              "/([a-z0-9 ,]*)/",
+                              "Tags must be lower case letters or numbers separated by commas.",
+                          ],
+                  }
             required: true
           - label: Publish Date
             name: date
