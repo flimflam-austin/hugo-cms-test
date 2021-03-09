@@ -1,6 +1,7 @@
 ---
 section: quickquotes
 title: folder test
+tags: []
 date: 2021-03-09T09:37:53.114Z
 lastmod: ""
 is_breaking: false
