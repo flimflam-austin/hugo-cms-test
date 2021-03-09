@@ -11,15 +11,11 @@ const createCard = (props, cardNumber) => {
 		props.entry.getIn(["data", `card_${cardNumber}`, "card_text"])
 	);
 	const checkmarkContent =
-		cardNumber === 10
-			? parse(`<div class="stackcard__checkmark"></div>`)
-			: "";
+		cardNumber === 10 ? parse(`<div class="stackcard__checkmark"></div>`) : "";
 
 	const needsImage = cardNumber === 1 ? true : false;
 	const hasImage = needsImage
-		? props.getAsset(
-				props.entry.getIn(["data", "background_image", "image"])
-		  )
+		? props.getAsset(props.entry.getIn(["data", "background_image"]))
 		: false;
 	const imageContent = !!hasImage
 		? parse(`<img class="stackcard__bgimage" src="${hasImage}" alt="" />`)
@@ -34,11 +30,7 @@ const createCard = (props, cardNumber) => {
 						<div class="stackcard__borderelements">
 							<span class="stackcard__borderpiece"></span>
 							<h3 class="stackcard__category">
-								{props.entry.getIn([
-									"data",
-									"meta",
-									"card_category",
-								])}
+								{props.entry.getIn(["data", "card_series"])}
 							</h3>
 							<span class="stackcard__borderpiece"></span>
 						</div>
@@ -57,10 +49,7 @@ const createCard = (props, cardNumber) => {
 					</div>
 				</div>
 			</div>
-			<div
-				class="stackcard__frame stackcard__frame--lower"
-				aria-hidden="true"
-			>
+			<div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
 				<div class="stackcard__body stackcard__body--lower">
 					{imageContent}
 					<div class="stackcard__borderwrapper">
@@ -89,31 +78,44 @@ const createCard = (props, cardNumber) => {
 };
 
 const createCardWrapper = (props, cardComponent) => {
-	let colorClass = `cardstack cardstack--spread cardstack--${props.entry.getIn(
-		["data", "color_palette_classname"]
-	)}`;
+	let colorClass = `cardstack cardstack--spread cardstack--${props.entry.getIn([
+		"data",
+		"color_palette_classname",
+	])}`;
 
 	return (
 		<div>
 			<main class="l-page__container l-page__container--navoffset cardtest-main">
-				<article class={colorClass}>
-					<section class="cardstack__cards">
-						{cardComponent(props, 1)}
-						{cardComponent(props, 2)}
-						{cardComponent(props, 3)}
-						{cardComponent(props, 4)}
-						{cardComponent(props, 5)}
-						{cardComponent(props, 6)}
-						{cardComponent(props, 7)}
-						{cardComponent(props, 8)}
-						{cardComponent(props, 9)}
-						{cardComponent(props, 10)}
+				<article class="post">
+					<section class="page-content page-content--card">
+						<article class={colorClass}>
+							<section class="cardstack__cards">
+								{cardComponent(props, 1)}
+								{cardComponent(props, 2)}
+								{cardComponent(props, 3)}
+								{cardComponent(props, 4)}
+								{cardComponent(props, 5)}
+								{cardComponent(props, 6)}
+								{cardComponent(props, 7)}
+								{cardComponent(props, 8)}
+								{cardComponent(props, 9)}
+								{cardComponent(props, 10)}
+							</section>
+							<section class="cardstack__details">
+								<p class="cardstack__date"></p>
+								<a class="cardstack__link" href="/">
+									sources
+								</a>
+							</section>
+						</article>
 					</section>
-					<section class="cardstack__details">
-						<p class="cardstack__date"></p>
-						<a class="cardstack__link" href="/">
-							sources
-						</a>
+					<section class="page-content">
+						<header class="headrule headrule--sticky">
+							<h2 class="headrule__title">Sources</h2>
+						</header>
+						<div class="page-content__body page-content__body--pad-top">
+							{props.entry.getIn(["data", `body`])}
+						</div>
 					</section>
 				</article>
 			</main>

@@ -330,7 +330,7 @@ collections:
             search_fields: ["title"]
             value_field: "title"
       - label: Card Series
-        name: category_series
+        name: card_series
         hint: Series name that appears on the top of the card.
         widget: relation
         collection: bin-cardseries
