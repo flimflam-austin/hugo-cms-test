@@ -66,7 +66,7 @@ collections:
             name: tags
             widget: list
             hint: Separate tags with commas (politics, potus). Use lowercase.
-            field: { label: Tag, name: tag, width: string }
+            field: { label: Tag, name: tag, widget: string }
             required: true
           - label: Publish Date
             name: date
