@@ -12,7 +12,7 @@ featured_quote:
   summary: folder test summary
   citation: folder test citation
 featured_image:
-  image: https://images.unsplash.com/photo-1593642533144-3d62aa4783ec?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80
+  image: shn_breaking-news-options_20210106.png
   alt: test
 ---
 test article
