@@ -99,6 +99,7 @@ $card-border-style: $card-border-width solid $card-border-color;
 		left: 0;
 		right: 0;
 		overflow: hidden;
+		transform-style: preserve-3d;
 
 		&--lower {
 			top: auto;
@@ -335,39 +336,32 @@ $icon-dark: url("/img/sh_sunglasses_sage.png");
 		transform: rotateX(0deg);
 		filter: brightness(1.2);
 		opacity: 1;
+		height: 50%;
 	}
 	50% {
-		opacity: 1;
-	}
-	51% {
-		opacity: 0;
-	}
-	99% {
-		transform: rotateX(180deg);
 		opacity: 1;
 		height: 50%;
 	}
+	51% {
+		opacity: 0;
+		height: 50%;
+	}
+	99% {
+		opacity: 0;
+		height: 50%;
+	}
 	100% {
+		transform: rotateX(180deg);
 		opacity: 0;
 		height: 0;
-	}
-}
-
-@keyframes test {
-	0% {
-	}
-	50% {
-		visibility: hidden;
-	}
-	100% {
-		visibility: hidden;
 	}
 }
 
 @keyframes flipBackCurrentCardUpper {
 	0% {
 		transform: rotateX(0deg);
-		filter: brightness(0.2);
+		//filter: brightness(0.2);
+		height: 50%;
 		opacity: 1;
 	}
 	99% {
@@ -376,6 +370,7 @@ $icon-dark: url("/img/sh_sunglasses_sage.png");
 		height: 50%;
 	}
 	100% {
+		transform: rotateX(-80deg);
 		opacity: 0;
 		height: 0;
 	}
@@ -421,7 +416,7 @@ $card-flip-duration: 0.75s;
 		transform: rotateX(0deg);
 		opacity: 1;
 		backface-visibility: hidden;
-		//transform-style: preserve-3d;
+		transform-style: preserve-3d;
 		animation-duration: $card-flip-duration;
 		animation-fill-mode: forwards;
 		animation-timing-function: ease-in-out;
@@ -450,13 +445,14 @@ $card-flip-duration: 0.75s;
 
 .stackcard--activated {
 	& .stackcard__frame--upper {
-		z-index: 9000;
 		animation-name: flipForwardNewCardUpper;
-		/* z-index: map-get($zindex, page-mid + 1); */
+		z-index: 9000;
+		/* 
+		z-index: map-get($zindex, page-mid + 1); */
 	}
 
-	& .stackcard__frame--lower {
-	}
+	/* & .stackcard__frame--lower {
+	} */
 }
 .stackcard--clicked--previous .stackcard__frame--upper {
 	animation-name: flipBackCurrentCardUpper;
@@ -466,6 +462,7 @@ $card-flip-duration: 0.75s;
 
 .stackcard--activated--previous .stackcard__frame--lower {
 	animation-name: flipBackNewCardLower;
+	z-index: 9000;
 }
 
 .stackcard__body,
