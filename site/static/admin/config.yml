@@ -65,7 +65,7 @@ collections:
           - label: Tags
             name: tags
             widget: list
-            hint: Accepts lowercase letters, numbres, and spaces.
+            hint: Accepts lowercase letters, numbers, and spaces.
             field:
                 {
                     label: Tag,
@@ -74,12 +74,9 @@ collections:
                     pattern:
                         [
                             "/([a-z0-9 ]*)/",
-                            Use lowercase letters,
-                            numbers,
-                            and spaces only.,
+                            "Use lowercase letters, numbers, and spaces only.",
                         ],
                 }
-            required: true
           - label: Publish Date
             name: date
             widget: datetime
@@ -161,11 +158,19 @@ collections:
 
           - label: Tags
             name: tags
-            widget: select
-            multiple: true
-
-            hint: Separate tags with commas (politics, potus). Use lowercase.
-            required: true
+            widget: list
+            hint: Accepts lowercase letters, numbers, and spaces.
+            field:
+                {
+                    label: Tag,
+                    name: tag,
+                    widget: string,
+                    pattern:
+                        [
+                            "/([a-z0-9 ]*)/",
+                            "Use lowercase letters, numbers, and spaces only.",
+                        ],
+                }
           - label: Publish Date
             name: date
             widget: datetime
