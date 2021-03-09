@@ -69,7 +69,10 @@ collections:
             allow_add: true
             min: 1
             pattern:
-                ["^[a-z0-9 ,]*$", "Tags must be lower case letters or numbers"]
+                [
+                    "/([a-z0-9 ,]*)/",
+                    "Tags must be lower case letters or numbers separated by commas.",
+                ]
             required: true
           - label: Publish Date
             name: date
