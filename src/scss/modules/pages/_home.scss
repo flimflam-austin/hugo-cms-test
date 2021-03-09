@@ -13,6 +13,8 @@
 	}
 
 	&__feed {
+		width: 100%;
+		overflow-x: hidden;
 		grid-column: 1/-1;
 		@include hide-scrollbars;
 
@@ -53,6 +55,7 @@
 	position: relative;
 
 	&--mobileonly {
+		width: 100%;
 		@include query-desktop-up {
 			visibility: hidden;
 			display: none;

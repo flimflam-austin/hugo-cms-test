@@ -113,7 +113,7 @@ $l-desktop-xl-up: containerSizes(3, 1);
 
 .l-sidescroll {
 	overflow-x: scroll;
-	width: 100%;
+	width: auto;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: nowrap;
