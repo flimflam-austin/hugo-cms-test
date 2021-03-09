@@ -22,7 +22,7 @@ const getCardData = (jsonData) => {
 const getQuickreadsFrontmatter = (jsonData) =>
 	Object.freeze({
 		section: "quickreads",
-		category: jsonData.category,
+		card_series: jsonData.category,
 		color_palette_classname: jsonData.colorClass,
 		background_image: jsonData.background_image,
 		...getCardData(jsonData),

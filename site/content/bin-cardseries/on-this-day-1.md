@@ -1,4 +1,4 @@
 ---
 title: On This Day
-section: cardcategories
+section: bin-cardseries
 ---

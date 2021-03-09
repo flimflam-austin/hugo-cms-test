@@ -5,7 +5,7 @@ tags:
     - nature
 lastmod: 2021-02-25T06:00:00.000Z
 date: 2021-02-25T20:41:40.403Z
-category: Politics
+card_series: Politics
 post_author:
     - author: Jenna Lee
 color_palette_classname: light-gray

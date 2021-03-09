@@ -1,7 +1,7 @@
 ---
 title: "TEsting out video to site "
 section: videoposts
-category: spotlight
+video_series: spotlight
 is_breaking_slider: false
 is_breaking_dropdown: true
 is_featured: false

@@ -7,7 +7,11 @@
                 </figure>
                     {{/*<p>{{ .Params.video_category }}</p>*/}}
                 <div class="post-header__block post-header__block--text">
-                    <a class="post-header__category" href="/videocategories/{{ .Params.category }}">{{ .Params.category }}</a>
+
+                    {{ range (.GetTerms "video_series") }}
+                    <a class="post-header__category" href="{{ .Permalink }}">{{ .LinkTitle}}</a>
+                    {{end}}
+
                     <h1 class="post-header__summary">{{ .Params.summary}}</h1>
                     <span class="post-header__ruler"></span>
                     <div class="post-header__dates">
@@ -16,13 +20,13 @@
                             <p class="post-header__date">Modified on<br><time datetime="{{ .Lastmod }}">{{- .Lastmod.Format "Jan 2, 2006" -}}</time></p>
                         {{ end }}
                     </div>
-                    <ul class="post-header__tags btn-group">
-                        {{ range .Params.tags }}
-                            <li class="btn-group__btn">
-                                <a class="btn btn--green" href="tags/{{ . | urlize }}">{{- . -}}</a>
-                            </li>
-                        {{ end }}
-                    </ul>
+
+                    
+                      <div>{{ .LinkTitle}}</div> 
+                    
+
+                    {{ partial "components/posttags" . }}
+
                 </div>
             </header>
 

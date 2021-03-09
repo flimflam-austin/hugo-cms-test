@@ -1,4 +1,4 @@
 ---
 title: Politics
-section: cardcategories
+section: bin-cardseries
 ---

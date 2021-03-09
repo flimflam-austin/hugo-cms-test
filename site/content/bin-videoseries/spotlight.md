@@ -1,4 +1,4 @@
 ---
 title: spotlight
-section: videocategories
+section: bin-videoseries
 ---

@@ -1,0 +1,24 @@
+{{ define "main"}}
+
+<main class="l-page__container">
+    {{ $pagetitle := print "all " (lower (.Title | humanize))}}
+    {{ partial "components/ruledtitle" (dict "_sectionTitle" $pagetitle "_viewAllLink" "")}}
+
+
+<hr>
+
+<ul class="btn-group">
+    {{- range .Data.Terms.Alphabetical -}}
+    <li class="btn-group__btn">
+        <a class="btn" href="{{ .Page.Permalink }}">{{- .Page.Title -}}</a>
+    </li>
+    {{end}}
+</ul>
+
+{{/*  <ul>
+    {{range .Data.Pages.ByPublishDate }}
+        <li><a class="" href="{{.Permalink}}">{{.Title}}</a></li>
+    {{end}}
+</ul>  */}}
+</main>
+{{end}}

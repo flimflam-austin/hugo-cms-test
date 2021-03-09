@@ -5,7 +5,10 @@
                 
                 {{ .Scratch.Set "showlink" false }}
                 {{partial "components/cardstack" . }}
+                
                 <a class="btn btn--full-width btn--margin-top" href="/quickreads/">View All Quick Reads</a>
+
+                {{ partial "components/posttags" . }}
             </section>
             <section class="page-content">
                 {{ if .Content }}

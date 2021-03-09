@@ -1,0 +1,7 @@
+<ul class="post-header__tags btn-group">
+    {{ range (.GetTerms "tags") }}
+        <li class="btn-group__btn">
+            <a class="btn btn--green" href="{{ .Permalink }}">{{- .LinkTitle -}}</a>
+        </li>
+    {{ end }}
+</ul>

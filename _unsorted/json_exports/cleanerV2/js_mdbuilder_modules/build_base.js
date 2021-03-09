@@ -8,6 +8,10 @@ const getPublishedDate = (jsonData) => jsonData.datePublished.trim();
 const getModifiedDate = (jsonData) =>
 	!!jsonData.dateModified ? jsonData.dateModified.trim() : null;
 
+const getModifiedIfDifferent = (jsonData) =>
+	getModifiedDate(jsonData) !== getPublishedDate(jsonData)
+		? getModifiedDate(jsonData)
+		: "";
 /*  */
 
 const padNumber = (number) =>
@@ -72,7 +76,7 @@ const getFrontmatter = (jsonData) =>
 		published: true,
 		date: getPublishedDate(jsonData),
 		publishDate: getPublishedDate(jsonData),
-		lastmod: getModifiedDate(jsonData),
+		lastmod: getModifiedIfDifferent(jsonData),
 		tags: [],
 		post_author: [],
 	});

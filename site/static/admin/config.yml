@@ -12,28 +12,28 @@ display_url: https://smarthernews.ffactory.dev/
 logo_url: https://smarthernews.ffactory.dev/img/shn_logo_main.png
 
 collections:
-    - label: Card Categories
-      name: cardcategories
-      folder: site/content/cardcategories
+    - label: Card Series
+      name: bin-cardseries
+      folder: site/content/bin-cardcategories
       create: true
       fields:
           - label: Section
             name: section
             widget: hidden
-            default: cardcategories
+            default: bin-cardseries
           - label: Title
             name: title
             widget: string
             required: true
-    - label: Video Categories
-      name: videocategories
-      folder: site/content/videocategories
+    - label: Video Series
+      name: bin-videoseries
+      folder: site/content/bin-videoseries
       create: true
       fields:
           - label: Section
             name: section
             widget: hidden
-            default: videocategories
+            default: bin-videoseries
           - label: Title
             name: title
             widget: string
@@ -53,10 +53,10 @@ collections:
             widget: string
             hint: Used to generate slug and indexing. Doesn't appear in article.
             required: true
-          - label: Video Category
-            name: category
+          - label: Video Series
+            name: videoseries
             widget: relation
-            collection: video_categories
+            collection: bin-videoseries
             search_fields: ["title"]
             value_field: "title"
             display_fields: ["title"]
@@ -167,7 +167,7 @@ collections:
                     widget: string,
                     pattern:
                         [
-                            "([a-z0-9 ]*)",
+                            "[a-z0-9 ]*",
                             "Use lowercase letters, numbers, and spaces only",
                         ],
                 }
@@ -333,11 +333,11 @@ collections:
                   collection: authors
                   search_fields: ["title"]
                   value_field: "title"
-          - label: Card Category
-            name: category
-            hint: Category that appears on the top of the card.
+          - label: Card Series
+            name: category_series
+            hint: Series name that appears on the top of the card.
             widget: relation
-            collection: card_categories
+            collection: bin-cardseries
             search_fields:
                 - title
             value_field: title
