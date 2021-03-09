@@ -90,6 +90,7 @@ $card-border-style: $card-border-width solid $card-border-color;
 	padding-bottom: 100%;
 	position: absolute;
 	top: 0;
+	opacity: 0.99;
 
 	&__frame {
 		width: 100%;
@@ -392,13 +393,15 @@ $icon-dark: url("/img/sh_sunglasses_sage.png");
 @keyframes flipForwardNewCardUpper {
 	0% {
 		transform: rotateX(-180deg);
-		filter: brightness(0.2);
+		//filter: brightness(0.2);
 		opacity: 1;
+		height: 50%;
 	}
 	100% {
 		transform: rotateX(0deg);
 		opacity: 1;
-		filter: none;
+		//filter: brightness(1);
+		height: 50%;
 	}
 }
 
@@ -416,10 +419,6 @@ $card-flip-duration: 0.75s;
 		transform: rotateX(0deg);
 		opacity: 1;
 		backface-visibility: hidden;
-		transform-style: preserve-3d;
-		animation-duration: $card-flip-duration;
-		animation-fill-mode: forwards;
-		animation-timing-function: ease-in-out;
 
 		&--upper {
 			transform-origin: bottom left;
@@ -433,20 +432,28 @@ $card-flip-duration: 0.75s;
 
 .stackcard--clicked {
 	& .stackcard__frame--lower {
+		transform-style: preserve-3d;
+		animation-duration: $card-flip-duration;
+		animation-fill-mode: forwards;
+		animation-timing-function: ease-in-out;
 		animation-name: flipForwardCurrentCardLower;
 		/* z-index: map-get($zindex, page-mid); */
 	}
 
 	& .stackcard__frame--upper {
 		z-index: -1;
-		animation-name: test;
 	}
 }
 
 .stackcard--activated {
 	& .stackcard__frame--upper {
+		opacity: 1;
+		transform-style: preserve-3d;
+		animation-duration: $card-flip-duration;
+		animation-fill-mode: forwards;
+		animation-timing-function: ease-in-out;
 		animation-name: flipForwardNewCardUpper;
-		z-index: 9000;
+		z-index: 9999;
 		/* 
 		z-index: map-get($zindex, page-mid + 1); */
 	}
@@ -455,12 +462,20 @@ $card-flip-duration: 0.75s;
 	} */
 }
 .stackcard--clicked--previous .stackcard__frame--upper {
+	transform-style: preserve-3d;
+	animation-duration: $card-flip-duration;
+	animation-fill-mode: forwards;
+	animation-timing-function: ease-in-out;
 	animation-name: flipBackCurrentCardUpper;
 	/* z-index: map-get($zindex, page-mid); */
-	z-index: 9000;
+	/* z-index: 9000; */
 }
 
 .stackcard--activated--previous .stackcard__frame--lower {
+	transform-style: preserve-3d;
+	animation-duration: $card-flip-duration;
+	animation-fill-mode: forwards;
+	animation-timing-function: ease-in-out;
 	animation-name: flipBackNewCardLower;
 	z-index: 9000;
 }

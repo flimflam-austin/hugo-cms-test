@@ -37,9 +37,7 @@ const cardFlip = () => {
 							return currentCard;
 						}, flipDuration);
 					}
-				} else if (
-					event.target.classList.contains(`${frameClass}--upper`)
-				) {
+				} else if (event.target.classList.contains(`${frameClass}--upper`)) {
 					const currentCard = event.target.parentNode;
 					const nextCard = currentCard.previousElementSibling;
 
@@ -50,14 +48,10 @@ const cardFlip = () => {
 						nextCard.classList.remove(hiddenClass);
 
 						setTimeout(() => {
-							currentCard.classList.remove(
-								`${activatedClass}--previous`
-							);
-							currentCard.classList.remove(
-								`${clickedClass}--previous`
-							);
-							nextCard.classList.remove(`${activatedClass}`);
-							nextCard.classList.remove(`${clickedClass}`);
+							currentCard.classList.remove(`${activatedClass}--previous`);
+							currentCard.classList.remove(`${clickedClass}--previous`);
+							nextCard.classList.remove(`${activatedClass}--previous`);
+							nextCard.classList.remove(`${clickedClass}--previous`);
 							return currentCard;
 						}, flipDuration);
 					}
