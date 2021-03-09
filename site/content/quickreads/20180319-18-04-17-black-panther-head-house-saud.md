@@ -10,7 +10,7 @@ lastmod: '2018-04-19T11:58:50+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: entertainment
+card_series: entertainment
 color_palette_classname: bronze
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/elijah-flores-99207-unsplash-scaled.jpg

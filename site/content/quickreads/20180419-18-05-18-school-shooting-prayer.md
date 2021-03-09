@@ -10,7 +10,7 @@ lastmod: '2018-05-19T09:40:25+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: white
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/ricardo-gomez-angel-298363-e1586707966478-367x367.jpg

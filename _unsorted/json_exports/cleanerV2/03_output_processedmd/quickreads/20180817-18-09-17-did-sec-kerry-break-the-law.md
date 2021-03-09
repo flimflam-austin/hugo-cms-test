@@ -12,7 +12,7 @@ lastmod: '2018-09-17T13:23:42+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/christine-roy-343235-unsplash-scaled.jpg

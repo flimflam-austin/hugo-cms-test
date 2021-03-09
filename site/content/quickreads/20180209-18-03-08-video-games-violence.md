@@ -10,7 +10,7 @@ lastmod: '2018-03-09T12:24:27+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: from the president’s desk
+card_series: from the president’s desk
 color_palette_classname: dark-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/glenn-carstens-peters-204767-unsplash-scaled.jpg

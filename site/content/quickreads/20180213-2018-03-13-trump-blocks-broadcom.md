@@ -10,7 +10,7 @@ lastmod: '2018-03-13T15:44:13+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: from the president’s desk
+card_series: from the president’s desk
 color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/chris-ried-534420-unsplash-scaled.jpg

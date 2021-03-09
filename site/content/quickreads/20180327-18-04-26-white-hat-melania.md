@@ -10,7 +10,7 @@ lastmod: '2018-04-27T13:07:12+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: style
+card_series: style
 color_palette_classname: white
 background_image: ''
 card_10:

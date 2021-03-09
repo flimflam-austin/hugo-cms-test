@@ -10,7 +10,7 @@ lastmod: '2018-04-02T13:19:15+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/alice-donovan-rouse-74481-unsplash-scaled.jpg

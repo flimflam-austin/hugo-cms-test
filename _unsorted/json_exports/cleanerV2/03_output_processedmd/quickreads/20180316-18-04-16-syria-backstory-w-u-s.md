@@ -10,7 +10,7 @@ lastmod: '2018-04-16T10:45:39+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/nick-scheerbart-15637-unsplash-scaled.jpg

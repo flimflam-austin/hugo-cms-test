@@ -8,11 +8,11 @@ aliases:
 published: true
 date: '2018-09-05T11:55:14+00:00'
 publishDate: '2018-09-05T11:55:14+00:00'
-lastmod: '2018-09-05T11:55:14+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: money
+card_series: money
 color_palette_classname: dark-brown
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/stone-house-443564_1920-e1584919890985.jpg

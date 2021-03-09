@@ -10,7 +10,7 @@ lastmod: '2018-12-01T03:03:14+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: coffee talk
+card_series: coffee talk
 color_palette_classname: light-yellow
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/home-office-06-1-360x360.jpg

@@ -12,7 +12,7 @@ aliases:
 published: true
 date: '2020-10-21T19:41:25+00:00'
 publishDate: '2020-10-21T19:41:25+00:00'
-lastmod: '2020-10-21T19:41:25+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickquotes

@@ -13,7 +13,7 @@ lastmod: '2020-06-19T01:51:51+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: on this day
+card_series: on this day
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/bobby-ghoshal-183658-unsplash-scaled.jpg

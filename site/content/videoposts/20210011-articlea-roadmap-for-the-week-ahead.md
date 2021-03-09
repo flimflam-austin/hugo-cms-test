@@ -8,11 +8,11 @@ aliases:
 published: true
 date: '2021-01-12T02:53:32+00:00'
 publishDate: '2021-01-12T02:53:32+00:00'
-lastmod: '2021-01-12T02:53:32+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: videoposts
-category: coffee talk
+videoseries: coffee talk
 is_breaking_slider: false
 is_breaking_dropdown: false
 featured_image:

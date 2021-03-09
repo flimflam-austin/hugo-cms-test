@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-03-06T12:43:55+00:00'
 publishDate: '2018-03-06T12:43:55+00:00'
-lastmod: '2018-03-06T12:43:55+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: bronze
 background_image: ''
 card_1:

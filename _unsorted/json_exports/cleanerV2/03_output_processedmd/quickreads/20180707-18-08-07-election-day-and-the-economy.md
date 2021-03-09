@@ -10,7 +10,7 @@ lastmod: '2018-08-07T12:50:10+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: politics
+card_series: politics
 color_palette_classname: dark-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/jesse-orrico-62699-360x360.jpg

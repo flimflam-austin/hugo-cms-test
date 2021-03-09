@@ -10,7 +10,7 @@ lastmod: '2018-03-20T14:21:02+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: now you know
+card_series: now you know
 color_palette_classname: light-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/joey-kyber-92387-unsplash-scaled.jpg

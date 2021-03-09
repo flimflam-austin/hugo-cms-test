@@ -10,7 +10,7 @@ lastmod: '2018-09-19T12:20:12+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-yellow
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/07/apple-device-cellphone-communication-594452.jpg

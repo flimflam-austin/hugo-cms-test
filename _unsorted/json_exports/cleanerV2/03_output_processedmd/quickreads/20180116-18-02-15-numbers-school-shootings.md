@@ -10,7 +10,7 @@ lastmod: '2018-02-16T13:55:33+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: now you know
+card_series: now you know
 color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/roman-kraft-260082-360x360.jpg

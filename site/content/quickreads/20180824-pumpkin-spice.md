@@ -8,11 +8,11 @@ aliases:
 published: true
 date: '2018-09-24T13:14:49+00:00'
 publishDate: '2018-09-24T13:14:49+00:00'
-lastmod: '2018-09-24T13:14:49+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: eats
+card_series: eats
 color_palette_classname: bronze
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/09/erik-witsoe-366893-unsplash-min-scaled.jpg

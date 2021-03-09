@@ -8,11 +8,11 @@ aliases:
 published: true
 date: '2018-10-01T11:50:42+00:00'
 publishDate: '2018-10-01T11:50:42+00:00'
-lastmod: '2018-10-01T11:50:42+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/christine-roy-343235-unsplash-scaled.jpg

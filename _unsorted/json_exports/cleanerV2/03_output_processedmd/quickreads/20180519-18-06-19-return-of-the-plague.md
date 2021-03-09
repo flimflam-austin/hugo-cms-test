@@ -10,7 +10,7 @@ lastmod: '2018-06-19T12:06:50+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: dark-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/backlit-boy-child-822419.jpg

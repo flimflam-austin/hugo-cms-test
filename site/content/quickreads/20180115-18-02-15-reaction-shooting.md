@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-02-15T21:04:59+00:00'
 publishDate: '2018-02-15T21:04:59+00:00'
-lastmod: '2018-02-15T21:04:59+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: medium-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/jomar-thomas-271602-1-360x360.jpg

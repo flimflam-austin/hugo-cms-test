@@ -10,7 +10,7 @@ lastmod: '2018-06-26T11:54:34+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: now you know
+card_series: now you know
 color_palette_classname: white
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/06/toa-heftiba-409698-unsplash-scaled.jpg

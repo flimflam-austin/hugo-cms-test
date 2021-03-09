@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-07-21T12:42:17+00:00'
 publishDate: '2018-07-21T12:42:17+00:00'
-lastmod: '2018-07-21T12:42:17+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: podcast
+card_series: podcast
 color_palette_classname: white
 background_image: https://smarthernews.com/wp-content/uploads/2018/07/Icons-23-1.jpg
 card_1:

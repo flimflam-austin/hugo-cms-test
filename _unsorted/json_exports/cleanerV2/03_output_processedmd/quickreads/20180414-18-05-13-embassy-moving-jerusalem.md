@@ -10,7 +10,7 @@ lastmod: '2018-05-14T10:04:50+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/luke-michael-302392-360x360.jpg

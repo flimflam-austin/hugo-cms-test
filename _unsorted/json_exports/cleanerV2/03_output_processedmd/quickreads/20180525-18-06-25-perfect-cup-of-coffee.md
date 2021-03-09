@@ -10,7 +10,7 @@ lastmod: '2018-06-25T12:55:07+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: light-yellow
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/06/crystal-shaw-515208-unsplash-scaled.jpg

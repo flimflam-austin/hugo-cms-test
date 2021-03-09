@@ -12,7 +12,7 @@ lastmod: '2018-10-05T15:54:07+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/claire-anderson-60670-unsplash-360x360.jpg

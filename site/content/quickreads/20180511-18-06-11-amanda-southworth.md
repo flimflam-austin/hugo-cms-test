@@ -10,7 +10,7 @@ lastmod: '2018-06-11T11:07:56+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: dark-blue
 background_image: ''
 card_1:

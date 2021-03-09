@@ -10,7 +10,7 @@ lastmod: '2018-03-19T13:40:27+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: beauty
+card_series: beauty
 color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/tim-wright-475822-unsplash-scaled.jpg

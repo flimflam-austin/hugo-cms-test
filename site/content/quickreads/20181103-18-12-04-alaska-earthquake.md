@@ -10,7 +10,7 @@ lastmod: '2018-12-04T03:32:16+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/12/bryan-goff-528709-unsplash-min-scaled.jpg

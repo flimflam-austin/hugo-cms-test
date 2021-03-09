@@ -10,7 +10,7 @@ lastmod: '2018-02-26T12:02:25+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/joao-silas-72563-unsplash-360x360.jpg

@@ -10,7 +10,7 @@ lastmod: '2018-07-20T04:18:23+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: on this day
+card_series: on this day
 color_palette_classname: dark-blue
 background_image: https://smarthernews.com/wp-content/uploads/2018/07/armstrong.jpg
 card_1:

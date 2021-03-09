@@ -10,7 +10,7 @@ lastmod: '2018-02-14T12:08:16+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: medium-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/ant-rozetsky-264641-360x360.jpg

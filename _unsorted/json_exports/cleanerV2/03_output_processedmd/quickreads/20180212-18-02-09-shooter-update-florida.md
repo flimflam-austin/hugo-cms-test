@@ -10,7 +10,7 @@ lastmod: '2018-03-12T13:22:55+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: worth-it-to-see
+card_series: worth-it-to-see
 color_palette_classname: light-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/patrick-tomasso-472279-unsplash-scaled.jpg

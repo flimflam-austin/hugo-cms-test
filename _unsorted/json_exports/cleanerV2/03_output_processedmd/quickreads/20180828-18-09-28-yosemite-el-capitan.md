@@ -8,11 +8,11 @@ aliases:
 published: true
 date: '2018-09-28T11:12:32+00:00'
 publishDate: '2018-09-28T11:12:32+00:00'
-lastmod: '2018-09-28T11:12:32+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: worth-it-to-see
+card_series: worth-it-to-see
 color_palette_classname: medium-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/09/El_Capitan_on_a_sunny_day_Unsplash.jpg

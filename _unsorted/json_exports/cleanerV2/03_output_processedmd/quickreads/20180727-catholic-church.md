@@ -12,7 +12,7 @@ lastmod: '2018-08-27T13:34:52+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/08/nacho-arteaga-149521-unsplash-scaled.jpg

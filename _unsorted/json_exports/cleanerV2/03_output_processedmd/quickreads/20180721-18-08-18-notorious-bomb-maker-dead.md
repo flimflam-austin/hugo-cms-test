@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-08-21T11:58:58+00:00'
 publishDate: '2018-08-21T11:58:58+00:00'
-lastmod: '2018-08-21T11:58:58+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/08/daniel-thurler-520535-unsplash-scaled-e1577131091734.jpg

@@ -10,7 +10,7 @@ lastmod: '2018-09-06T12:02:24+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: beauty
+card_series: beauty
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/sam-manns-379040-unsplash-scaled.jpg

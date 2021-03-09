@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-06-11T10:41:44+00:00'
 publishDate: '2018-06-11T10:41:44+00:00'
-lastmod: '2018-06-11T10:41:44+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: now you know
+card_series: now you know
 color_palette_classname: dark-green
 background_image: ''
 card_1:

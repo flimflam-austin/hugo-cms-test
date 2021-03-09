@@ -12,7 +12,7 @@ lastmod: '2018-10-05T12:17:18+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-brown
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/nathan-dumlao-583574-unsplash-scaled.jpg

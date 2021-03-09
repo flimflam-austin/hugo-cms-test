@@ -10,7 +10,7 @@ lastmod: '2018-05-13T00:58:14+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: on this day
+card_series: on this day
 color_palette_classname: light-yellow
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/baby-beach-child-51953-scaled.jpg

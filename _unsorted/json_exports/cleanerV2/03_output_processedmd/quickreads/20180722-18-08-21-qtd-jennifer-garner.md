@@ -10,7 +10,7 @@ lastmod: '2018-08-22T12:10:35+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: quote of the day
+card_series: quote of the day
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/ahmet-yalcinkaya-84327-unsplash-360x360.jpg

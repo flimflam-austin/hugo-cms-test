@@ -10,7 +10,7 @@ lastmod: '2018-05-17T12:37:26+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/annie-spratt-568704-unsplash-scaled.jpg

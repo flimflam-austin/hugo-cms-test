@@ -10,7 +10,7 @@ lastmod: '2018-05-15T23:35:15+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: money
+card_series: money
 color_palette_classname: light-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/justin-lawrence-154064-unsplash-scaled.jpg

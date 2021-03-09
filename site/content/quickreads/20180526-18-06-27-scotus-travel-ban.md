@@ -10,7 +10,7 @@ lastmod: '2018-06-27T03:05:17+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: medium-gray
 background_image: ''
 card_10:

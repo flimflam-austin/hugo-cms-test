@@ -10,7 +10,7 @@ lastmod: '2020-03-01T19:20:46+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-purple
 background_image: ''
 card_1:

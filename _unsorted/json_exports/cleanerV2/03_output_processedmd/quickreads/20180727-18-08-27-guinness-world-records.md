@@ -12,7 +12,7 @@ lastmod: '2018-08-27T16:41:18+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: on this day
+card_series: on this day
 color_palette_classname: dark-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/artem-beliaikin-570687-unsplash-360x360.jpg

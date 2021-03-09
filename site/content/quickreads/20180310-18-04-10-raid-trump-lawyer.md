@@ -10,7 +10,7 @@ lastmod: '2018-04-10T13:46:52+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/damir-bosnjak-226653-unsplash-scaled.jpg

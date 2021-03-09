@@ -10,7 +10,7 @@ lastmod: '2018-02-13T16:14:56+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: uncategorized
+card_series: uncategorized
 color_palette_classname: dark-gray
 background_image: https://smarthernews.com/wp-content/uploads/2018/02/paul-187723-360x360.jpg
 card_1:

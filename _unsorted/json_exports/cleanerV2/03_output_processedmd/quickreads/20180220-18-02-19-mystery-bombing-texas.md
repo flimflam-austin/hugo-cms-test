@@ -10,7 +10,7 @@ lastmod: '2018-03-20T11:59:17+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-brown
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/glen-carrie-66914-unsplash-scaled.jpg

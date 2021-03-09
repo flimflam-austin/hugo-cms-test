@@ -10,7 +10,7 @@ lastmod: '2018-06-22T13:29:21+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/06/anne-edgar-119373-unsplash-scaled.jpg

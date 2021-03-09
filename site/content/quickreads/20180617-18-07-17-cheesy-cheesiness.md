@@ -10,7 +10,7 @@ lastmod: '2018-07-17T12:57:48+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: eats
+card_series: eats
 color_palette_classname: light-yellow
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/07/alexandra-gorn-308385-unsplash-scaled.jpg

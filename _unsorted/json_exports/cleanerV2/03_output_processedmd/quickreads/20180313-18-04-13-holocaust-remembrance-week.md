@@ -10,7 +10,7 @@ lastmod: '2018-04-14T00:01:34+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: quote of the day
+card_series: quote of the day
 color_palette_classname: light-yellow
 background_image: https://smarthernews.com/wp-content/uploads/2018/04/Irena-Sendlerowa.jpg
 card_1:

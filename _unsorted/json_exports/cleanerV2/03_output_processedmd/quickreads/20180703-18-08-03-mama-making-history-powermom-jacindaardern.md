@@ -10,7 +10,7 @@ lastmod: '2018-08-03T12:29:57+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: powermom
+card_series: powermom
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/08/Jacinda_Ardern_-_cropped.jpg

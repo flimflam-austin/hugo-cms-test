@@ -10,7 +10,7 @@ lastmod: '2018-03-22T14:58:00+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: worth-it-to-see
+card_series: worth-it-to-see
 color_palette_classname: light-purple
 background_image: ''
 card_1:

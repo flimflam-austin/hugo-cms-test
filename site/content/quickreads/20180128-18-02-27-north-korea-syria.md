@@ -10,7 +10,7 @@ lastmod: '2018-02-28T11:59:42+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: worth-it-to-see
+card_series: worth-it-to-see
 color_palette_classname: light-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/tomasz-sroka-459752-unsplash-360x360.jpg

@@ -10,7 +10,7 @@ lastmod: '2018-12-01T02:57:51+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: coffee talk
+card_series: coffee talk
 color_palette_classname: light-pink
 background_image: https://smarthernews.com/wp-content/uploads/2018/09/shn_desk-min-1.png
 card_1:

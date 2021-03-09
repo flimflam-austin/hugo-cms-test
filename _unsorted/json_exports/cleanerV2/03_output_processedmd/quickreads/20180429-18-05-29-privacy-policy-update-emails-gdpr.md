@@ -10,7 +10,7 @@ lastmod: '2018-05-29T10:34:46+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/saulo-mohana-77106-unsplash-scaled.jpg

@@ -10,7 +10,7 @@ lastmod: '2018-06-29T09:40:09+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/06/obed-hernandez-428114-unsplash-scaled.jpg

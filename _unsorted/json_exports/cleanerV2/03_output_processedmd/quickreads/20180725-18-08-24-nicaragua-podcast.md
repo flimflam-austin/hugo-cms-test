@@ -8,11 +8,11 @@ aliases:
 published: true
 date: '2018-08-25T12:40:26+00:00'
 publishDate: '2018-08-25T12:40:26+00:00'
-lastmod: '2018-08-25T12:40:26+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: podcast
+card_series: podcast
 color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/mantas-hesthaven-135478-unsplash-scaled-e1584331380490-367x367.jpg

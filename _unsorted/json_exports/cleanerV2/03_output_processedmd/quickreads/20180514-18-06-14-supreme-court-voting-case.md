@@ -10,7 +10,7 @@ lastmod: '2018-06-14T10:32:59+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/brandon-mowinkel-211936-unsplash-scaled.jpg

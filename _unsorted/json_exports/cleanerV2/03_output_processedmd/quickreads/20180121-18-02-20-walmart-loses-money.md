@@ -10,7 +10,7 @@ lastmod: '2018-02-21T14:14:30+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: money
+card_series: money
 color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/sharon-mccutcheon-552616-unsplash-360x360.jpg

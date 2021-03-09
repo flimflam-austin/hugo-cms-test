@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-09-11T11:57:07+00:00'
 publishDate: '2018-09-11T11:57:07+00:00'
-lastmod: '2018-09-11T11:57:07+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: now you know
+card_series: now you know
 color_palette_classname: light-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/infrared-goes-16-harvey.png

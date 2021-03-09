@@ -12,7 +12,7 @@ lastmod: '2020-06-27T04:13:43+00:00'
 tags: []
 post_author: []
 section: videoposts
-category: spotlight
+videoseries: spotlight
 is_breaking_slider: false
 is_breaking_dropdown: false
 featured_image:

@@ -15,7 +15,7 @@ lastmod: '2020-09-12T16:20:50+00:00'
 tags: []
 post_author: []
 section: videoposts
-category: spotlight
+videoseries: spotlight
 is_breaking_slider: false
 is_breaking_dropdown: false
 featured_image:

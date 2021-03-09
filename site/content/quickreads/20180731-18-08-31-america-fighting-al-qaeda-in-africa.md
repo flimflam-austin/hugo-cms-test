@@ -8,11 +8,11 @@ aliases:
 published: true
 date: '2018-08-31T11:50:07+00:00'
 publishDate: '2018-08-31T11:50:07+00:00'
-lastmod: '2018-08-31T11:50:07+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/08/andrew-neel-133200-unsplash-min-scaled.jpg

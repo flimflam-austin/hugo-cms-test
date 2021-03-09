@@ -10,7 +10,7 @@ lastmod: '2018-12-06T13:18:05+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/12/pierre-herman-740713-unsplash-min-scaled.jpg

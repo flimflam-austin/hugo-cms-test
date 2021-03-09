@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-06-13T08:51:24+00:00'
 publishDate: '2018-06-13T08:51:24+00:00'
-lastmod: '2018-06-13T08:51:24+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/06/Kudlow_Larry_240x250_v2_400x400.jpg

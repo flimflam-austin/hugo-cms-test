@@ -10,7 +10,7 @@ lastmod: '2018-04-18T13:19:57+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: quote of the day
+card_series: quote of the day
 color_palette_classname: dark-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/Barbara_Bush_portrait_1992.jpg

@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-07-19T11:55:54+00:00'
 publishDate: '2018-07-19T11:55:54+00:00'
-lastmod: '2018-07-19T11:55:54+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/07/ian-dooley-281846-unsplash-scaled.jpg

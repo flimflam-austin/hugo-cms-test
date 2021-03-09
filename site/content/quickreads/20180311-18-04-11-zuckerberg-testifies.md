@@ -10,7 +10,7 @@ lastmod: '2018-04-11T05:06:14+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-green
 background_image: https://smarthernews.com/wp-content/uploads/2018/01/money-360x360.jpg
 card_1:

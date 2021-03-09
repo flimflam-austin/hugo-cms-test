@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-02-28T22:58:15+00:00'
 publishDate: '2018-02-28T22:58:15+00:00'
-lastmod: '2018-02-28T22:58:15+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: entertainment
+card_series: entertainment
 color_palette_classname: black
 background_image: https://smarthernews.com/wp-content/uploads/2018/02/jd_1.png
 card_1:

@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2020-11-26T04:52:56+00:00'
 publishDate: '2020-11-26T04:52:56+00:00'
-lastmod: '2020-11-26T04:52:56+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: videoposts
-category: coffee talk
+videoseries: coffee talk
 is_breaking_slider: false
 is_breaking_dropdown: false
 featured_image:

@@ -12,7 +12,7 @@ lastmod: '2018-11-27T13:14:34+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: quote of the day
+card_series: quote of the day
 color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/11/andrii-ganzevych-1054826-unsplash-min-scaled.jpg

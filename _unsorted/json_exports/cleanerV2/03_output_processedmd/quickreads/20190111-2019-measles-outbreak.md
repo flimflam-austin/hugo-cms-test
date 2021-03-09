@@ -12,7 +12,7 @@ lastmod: '2019-02-11T15:10:32+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: light-blue
 background_image: https://smarthernews.com/wp-content/uploads/2018/01/baby-scaled.jpg
 card_1:

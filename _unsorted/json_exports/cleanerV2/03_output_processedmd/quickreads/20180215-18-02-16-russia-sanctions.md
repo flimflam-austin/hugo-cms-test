@@ -10,7 +10,7 @@ lastmod: '2018-03-16T03:30:08+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: from the president’s desk
+card_series: from the president’s desk
 color_palette_classname: dark-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/michael-browning-14091-360x360.jpg

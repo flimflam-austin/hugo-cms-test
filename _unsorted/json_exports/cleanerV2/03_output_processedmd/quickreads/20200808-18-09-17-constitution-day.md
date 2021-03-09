@@ -12,7 +12,7 @@ lastmod: '2020-09-08T20:18:14+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: on this day
+card_series: on this day
 color_palette_classname: dark-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/brandon-mowinkel-211936-unsplash-scaled.jpg

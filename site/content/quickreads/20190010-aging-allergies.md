@@ -12,7 +12,7 @@ lastmod: '2019-01-10T14:43:22+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: dark-gray
 background_image: https://smarthernews.com/wp-content/uploads/2018/08/pizza-2589577_1280.jpg
 card_1:

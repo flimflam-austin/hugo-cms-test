@@ -10,7 +10,7 @@ lastmod: '2018-04-23T23:25:11+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: light-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/joshua-earle-234343-unsplash-scaled.jpg

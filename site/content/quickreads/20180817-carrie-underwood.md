@@ -12,7 +12,7 @@ lastmod: '2018-09-17T11:56:03+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: quote of the day
+card_series: quote of the day
 color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/a-l-117993-unsplash-360x360.jpg

@@ -10,7 +10,7 @@ lastmod: '2018-08-10T11:59:12+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: white
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/06/wil-stewart-24562-unsplash-scaled.jpg

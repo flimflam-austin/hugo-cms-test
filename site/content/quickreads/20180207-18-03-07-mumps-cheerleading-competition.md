@@ -10,7 +10,7 @@ lastmod: '2018-03-08T03:50:28+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/cheerleader-570839_1920.jpg

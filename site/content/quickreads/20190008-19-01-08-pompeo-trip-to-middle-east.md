@@ -13,7 +13,7 @@ lastmod: '2019-01-08T14:29:04+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/nicole-harrington-483074-unsplash-360x360.jpg

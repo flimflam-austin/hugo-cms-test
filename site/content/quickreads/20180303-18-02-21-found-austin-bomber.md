@@ -10,7 +10,7 @@ lastmod: '2018-04-03T10:23:42+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: medium-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/vladimir-kramer-145-unsplash-scaled.jpg

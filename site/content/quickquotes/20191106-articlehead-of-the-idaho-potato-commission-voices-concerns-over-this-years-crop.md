@@ -9,7 +9,7 @@ aliases:
 published: true
 date: '2019-12-06T14:33:53+00:00'
 publishDate: '2019-12-06T14:33:53+00:00'
-lastmod: '2019-12-06T14:33:53+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickquotes

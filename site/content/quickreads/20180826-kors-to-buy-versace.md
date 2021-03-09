@@ -12,7 +12,7 @@ lastmod: '2018-09-26T13:27:40+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: style
+card_series: style
 color_palette_classname: dark-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/07/becca-mchaffie-580884-unsplash-scaled.jpg

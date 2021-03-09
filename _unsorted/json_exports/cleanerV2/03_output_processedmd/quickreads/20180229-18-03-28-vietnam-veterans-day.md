@@ -10,7 +10,7 @@ lastmod: '2018-03-29T14:54:39+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: on this day
+card_series: on this day
 color_palette_classname: dark-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/vietnam-memorial-1436628_640.jpg

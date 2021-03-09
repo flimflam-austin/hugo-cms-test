@@ -10,7 +10,7 @@ lastmod: '2020-03-02T21:50:35+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/1600px-President_Donald_Trump_and_Prime_Minister_Benjamin_Netanyahu_Joint_Press_Conference_February_15_2017_02.jpg

@@ -13,7 +13,7 @@ lastmod: '2018-08-30T20:19:18+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: politics
+card_series: politics
 color_palette_classname: dark-brown
 background_image: https://smarthernews.com/wp-content/uploads/2018/04/Mccain_home.jpg
 card_1:

@@ -10,7 +10,7 @@ lastmod: '2018-08-16T11:50:52+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: from the president’s desk
+card_series: from the president’s desk
 color_palette_classname: dark-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/08/kristina-flour-185592-unsplash-scaled.jpg

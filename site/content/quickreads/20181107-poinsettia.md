@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-12-07T13:02:47+00:00'
 publishDate: '2018-12-07T13:02:47+00:00'
-lastmod: '2018-12-07T13:02:47+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: now you know
+card_series: now you know
 color_palette_classname: dark-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/12/1600px-Poinsettia_thumbnail-min.jpg

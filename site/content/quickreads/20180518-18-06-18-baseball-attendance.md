@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-06-18T11:03:01+00:00'
 publishDate: '2018-06-18T11:03:01+00:00'
-lastmod: '2018-06-18T11:03:01+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: sports
+card_series: sports
 color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/phil-goodwin-97782-unsplash-scaled.jpg

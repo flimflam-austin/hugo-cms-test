@@ -9,11 +9,11 @@ aliases:
 published: true
 date: '2020-08-10T12:41:16+00:00'
 publishDate: '2020-08-10T12:41:16+00:00'
-lastmod: '2020-08-10T12:41:16+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: videoposts
-category: coffee talk
+videoseries: coffee talk
 is_breaking_slider: false
 is_breaking_dropdown: false
 featured_image:

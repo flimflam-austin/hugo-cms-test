@@ -10,7 +10,7 @@ lastmod: '2018-08-24T14:30:51+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: from the president’s desk
+card_series: from the president’s desk
 color_palette_classname: dark-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/brandon-mowinkel-211936-unsplash-scaled.jpg

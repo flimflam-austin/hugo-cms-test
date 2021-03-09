@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-07-24T11:50:48+00:00'
 publishDate: '2018-07-24T11:50:48+00:00'
-lastmod: '2018-07-24T11:50:48+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/07/dan-gold-176712-unsplash-scaled.jpg

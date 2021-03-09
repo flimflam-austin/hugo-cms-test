@@ -10,7 +10,7 @@ lastmod: '2018-08-29T12:26:18+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/vonecia-carswell-613625-unsplash-scaled.jpg

@@ -10,7 +10,7 @@ lastmod: '2018-06-21T00:04:27+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/afterglow-backlit-barb-wires-735025-scaled.jpg

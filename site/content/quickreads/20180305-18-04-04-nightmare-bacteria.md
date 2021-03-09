@@ -10,7 +10,7 @@ lastmod: '2018-04-05T09:55:17+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/01/vladislav-muslakov-261627-360x360.jpg

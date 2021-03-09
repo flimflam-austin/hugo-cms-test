@@ -10,7 +10,7 @@ lastmod: '2018-05-24T10:28:26+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: sports
+card_series: sports
 color_palette_classname: light-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/ben-hershey-417746-360x360.jpg

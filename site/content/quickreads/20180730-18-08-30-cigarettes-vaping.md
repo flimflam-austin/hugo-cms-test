@@ -12,7 +12,7 @@ lastmod: '2018-08-30T17:55:43+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: dark-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/08/daniel-thurler-520535-unsplash-scaled-e1577131091734.jpg

@@ -10,7 +10,7 @@ lastmod: '2018-07-27T12:09:43+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: travel
+card_series: travel
 color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/07/IMG_0923-e1532314533589-scaled.jpg

@@ -10,7 +10,7 @@ lastmod: '2018-04-02T12:48:23+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: on this day
+card_series: on this day
 color_palette_classname: dark-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/Rankin-Jeannette-170227-scaled.jpg

@@ -12,7 +12,7 @@ lastmod: '2019-01-08T13:44:14+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: from the president’s desk
+card_series: from the president’s desk
 color_palette_classname: light-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/daniel-foster-264237-unsplash-scaled.jpg

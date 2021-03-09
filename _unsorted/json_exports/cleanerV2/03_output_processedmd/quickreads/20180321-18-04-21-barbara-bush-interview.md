@@ -10,7 +10,7 @@ lastmod: '2018-04-21T13:29:07+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: uncategorized
+card_series: uncategorized
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/512px-Barbara_Bush_at_LBJ_Presidential_Library.jpg

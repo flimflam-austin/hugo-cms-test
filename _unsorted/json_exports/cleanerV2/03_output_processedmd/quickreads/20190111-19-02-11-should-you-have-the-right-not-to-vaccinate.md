@@ -9,11 +9,11 @@ aliases:
 published: true
 date: '2019-02-11T15:11:22+00:00'
 publishDate: '2019-02-11T15:11:22+00:00'
-lastmod: '2019-02-11T15:11:22+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: dark-blue
 background_image: https://smarthernews.com/wp-content/uploads/2018/07/pexels-photo-1204135.jpeg
 card_1:

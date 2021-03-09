@@ -10,7 +10,7 @@ lastmod: '2020-06-21T16:32:57+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: quote of the day
+card_series: quote of the day
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/julie-johnson-514058-unsplash-scaled.jpg

@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-06-15T10:27:21+00:00'
 publishDate: '2018-06-15T10:27:21+00:00'
-lastmod: '2018-06-15T10:27:21+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/06/701B4F0F-1DD8-B71B-0B4627F6D9FA6440ThumbXLrg.png

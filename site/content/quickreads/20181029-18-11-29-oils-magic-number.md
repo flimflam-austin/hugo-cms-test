@@ -13,7 +13,7 @@ lastmod: '2018-11-29T13:24:09+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: money
+card_series: money
 color_palette_classname: dark-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/michal-lomza-338227-unsplash-360x360.jpg

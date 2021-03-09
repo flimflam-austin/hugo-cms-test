@@ -10,7 +10,7 @@ lastmod: '2018-03-26T12:29:59+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: money
+card_series: money
 color_palette_classname: light-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/ben-white-146950-unsplash-scaled.jpg

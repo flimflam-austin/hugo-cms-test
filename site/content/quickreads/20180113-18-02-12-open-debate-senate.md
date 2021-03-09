@@ -10,7 +10,7 @@ lastmod: '2018-02-13T12:58:12+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/michael-browning-14091-360x360.jpg

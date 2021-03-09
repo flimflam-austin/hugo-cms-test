@@ -10,7 +10,7 @@ lastmod: '2018-04-10T09:36:37+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: money
+card_series: money
 color_palette_classname: dark-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/credit-card-851506_1920.jpg

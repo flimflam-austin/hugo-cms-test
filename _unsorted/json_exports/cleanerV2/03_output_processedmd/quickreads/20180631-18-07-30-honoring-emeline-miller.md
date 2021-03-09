@@ -10,7 +10,7 @@ lastmod: '2018-07-31T16:11:24+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: worth-it-to-see
+card_series: worth-it-to-see
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/backlit-boy-child-822419.jpg

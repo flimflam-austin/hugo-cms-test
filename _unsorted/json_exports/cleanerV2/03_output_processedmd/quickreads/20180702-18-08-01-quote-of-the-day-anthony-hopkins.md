@@ -10,7 +10,7 @@ lastmod: '2018-08-02T11:43:57+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: quote of the day
+card_series: quote of the day
 color_palette_classname: white
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/07/kalen-emsley-99660-unsplash-scaled.jpg

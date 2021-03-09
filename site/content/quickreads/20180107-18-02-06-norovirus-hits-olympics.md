@@ -10,7 +10,7 @@ lastmod: '2018-02-07T13:31:47+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/kinga-cichewicz-513031-360x360.jpg

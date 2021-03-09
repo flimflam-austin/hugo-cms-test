@@ -12,7 +12,7 @@ lastmod: '2018-09-12T12:23:27+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: dark-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/rodolfo-sanches-carvalho-430613-unsplash-360x360.jpg

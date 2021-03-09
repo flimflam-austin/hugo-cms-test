@@ -13,7 +13,7 @@ lastmod: '2018-10-02T11:46:12+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: now you know
+card_series: now you know
 color_palette_classname: light-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/rawpixel-com-267082-unsplash-scaled.jpg

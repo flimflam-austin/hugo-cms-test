@@ -13,7 +13,7 @@ lastmod: '2018-08-28T13:23:50+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: quote of the day
+card_series: quote of the day
 color_palette_classname: dark-blue
 background_image: https://smarthernews.com/wp-content/uploads/2018/01/flags-scaled.jpg
 card_1:

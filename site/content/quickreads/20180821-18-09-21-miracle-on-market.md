@@ -13,7 +13,7 @@ lastmod: '2018-09-21T13:37:00+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: podcast
+card_series: podcast
 color_palette_classname: white
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-20-at-10.20.15-PM.png

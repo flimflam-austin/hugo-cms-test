@@ -10,7 +10,7 @@ lastmod: '2018-04-25T03:23:27+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-blue
 background_image: https://smarthernews.com/wp-content/uploads/2018/04/handcuffs-2102488_1280.jpg
 card_1:

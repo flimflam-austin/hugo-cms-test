@@ -10,7 +10,7 @@ lastmod: '2018-02-08T19:16:53+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/alexander-shustov-67-360x360.jpg

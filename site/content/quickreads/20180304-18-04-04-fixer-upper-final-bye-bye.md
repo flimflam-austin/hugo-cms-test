@@ -10,7 +10,7 @@ lastmod: '2018-04-04T13:09:20+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: entertainment
+card_series: entertainment
 color_palette_classname: dark-green
 background_image: https://smarthernews.com/wp-content/uploads/2018/04/wcaSVUCW_400x400.jpg
 card_1:

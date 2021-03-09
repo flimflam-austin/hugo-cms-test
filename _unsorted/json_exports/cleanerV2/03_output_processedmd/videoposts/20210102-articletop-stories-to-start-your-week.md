@@ -10,7 +10,7 @@ lastmod: '2021-02-02T18:53:26+00:00'
 tags: []
 post_author: []
 section: videoposts
-category: coffee talk
+videoseries: coffee talk
 is_breaking_slider: false
 is_breaking_dropdown: false
 featured_image:

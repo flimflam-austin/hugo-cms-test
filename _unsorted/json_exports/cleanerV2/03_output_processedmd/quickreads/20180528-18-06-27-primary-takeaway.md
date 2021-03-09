@@ -10,7 +10,7 @@ lastmod: '2018-06-28T13:26:33+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: politics
+card_series: politics
 color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/06/anthony-garand-500755-unsplash-1-scaled.jpg

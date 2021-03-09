@@ -10,7 +10,7 @@ lastmod: '2018-02-15T19:54:29+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: from the president’s desk
+card_series: from the president’s desk
 color_palette_classname: light-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/david-beale-194104-360x360.jpg

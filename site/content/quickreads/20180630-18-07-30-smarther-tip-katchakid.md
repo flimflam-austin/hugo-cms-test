@@ -10,7 +10,7 @@ lastmod: '2018-07-31T01:16:29+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: uncategorized
+card_series: uncategorized
 color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/07/IMG_6458-2-e1532999214779-scaled.jpg

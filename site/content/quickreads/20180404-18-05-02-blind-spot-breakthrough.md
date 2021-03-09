@@ -10,7 +10,7 @@ lastmod: '2018-05-04T13:17:36+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/devon-janse-van-rensburg-207479-unsplash-scaled.jpg

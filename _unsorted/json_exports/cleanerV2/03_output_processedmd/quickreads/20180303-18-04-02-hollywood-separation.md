@@ -10,7 +10,7 @@ lastmod: '2018-04-03T11:49:16+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: entertainment
+card_series: entertainment
 color_palette_classname: light-pink
 background_image: https://smarthernews.com/wp-content/uploads/2018/02/Hearts-360x360.jpg
 card_1:

@@ -10,7 +10,7 @@ lastmod: '2020-07-13T17:29:09+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: light-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/clem-onojeghuo-33630-unsplash-scaled.jpg

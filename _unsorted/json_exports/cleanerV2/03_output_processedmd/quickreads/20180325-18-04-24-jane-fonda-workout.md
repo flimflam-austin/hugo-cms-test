@@ -10,7 +10,7 @@ lastmod: '2018-04-26T01:51:44+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: on this day
+card_series: on this day
 color_palette_classname: dark-pink
 background_image: https://smarthernews.com/wp-content/uploads/2018/04/jane-fonda.jpg
 card_1:

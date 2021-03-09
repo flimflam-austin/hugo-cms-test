@@ -10,7 +10,7 @@ lastmod: '2018-06-21T12:51:55+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: from the president’s desk
+card_series: from the president’s desk
 color_palette_classname: light-blue
 background_image: https://smarthernews.com/wp-content/uploads/2018/06/800.jpeg
 card_1:

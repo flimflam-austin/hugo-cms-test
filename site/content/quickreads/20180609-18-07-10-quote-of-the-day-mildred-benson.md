@@ -10,7 +10,7 @@ lastmod: '2018-07-10T04:36:19+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: quote of the day
+card_series: quote of the day
 color_palette_classname: light-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/stephen-leonardi-369718-unsplash-scaled.jpg

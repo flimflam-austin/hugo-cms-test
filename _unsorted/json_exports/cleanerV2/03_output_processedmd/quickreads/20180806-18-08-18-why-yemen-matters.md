@@ -12,7 +12,7 @@ lastmod: '2018-09-06T12:17:05+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/06/dark-galaxy-wallpaper-night-32237-scaled.jpg

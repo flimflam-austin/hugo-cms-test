@@ -12,7 +12,7 @@ lastmod: '2018-09-27T02:55:42+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: now you know
+card_series: now you know
 color_palette_classname: light-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/claire-anderson-60670-unsplash-360x360.jpg

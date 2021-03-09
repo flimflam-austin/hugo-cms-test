@@ -10,7 +10,7 @@ lastmod: '2018-06-20T03:05:55+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: now you know
+card_series: now you know
 color_palette_classname: dark-blue
 background_image: https://smarthernews.com/wp-content/uploads/2018/03/tv-2619649_640.jpg
 card_1:

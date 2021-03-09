@@ -10,7 +10,7 @@ lastmod: '2018-07-16T15:18:44+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/07/xan-griffin-598255-unsplash-scaled.jpg

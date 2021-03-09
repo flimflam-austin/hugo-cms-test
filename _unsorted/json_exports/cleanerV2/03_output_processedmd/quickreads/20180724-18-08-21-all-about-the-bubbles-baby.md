@@ -10,7 +10,7 @@ lastmod: '2018-08-24T15:34:07+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: money
+card_series: money
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/08/jamie-street-534761-unsplash-scaled.jpg

@@ -12,7 +12,7 @@ lastmod: '2018-10-04T11:38:38+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: light-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/06/bruce-mars-558710-unsplash-scaled.jpg

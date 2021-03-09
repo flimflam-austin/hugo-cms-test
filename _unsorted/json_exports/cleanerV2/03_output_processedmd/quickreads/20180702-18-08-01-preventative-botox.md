@@ -10,7 +10,7 @@ lastmod: '2018-08-02T20:49:21+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: beauty
+card_series: beauty
 color_palette_classname: dark-brown
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/pexels-photo-119959-scaled.jpeg

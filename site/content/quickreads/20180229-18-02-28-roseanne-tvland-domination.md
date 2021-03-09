@@ -10,7 +10,7 @@ lastmod: '2018-03-29T09:53:23+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: entertainment
+card_series: entertainment
 color_palette_classname: dark-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/remote-control-932273_640.jpg

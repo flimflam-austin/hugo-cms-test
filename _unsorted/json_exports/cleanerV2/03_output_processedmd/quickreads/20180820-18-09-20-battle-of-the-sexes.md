@@ -12,7 +12,7 @@ lastmod: '2018-09-20T12:15:05+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: on this day
+card_series: on this day
 color_palette_classname: medium-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/09/ben-hershey-575578-unsplash-1-scaled.jpg

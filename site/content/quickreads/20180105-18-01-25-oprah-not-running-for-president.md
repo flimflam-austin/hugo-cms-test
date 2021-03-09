@@ -10,7 +10,7 @@ lastmod: '2018-02-06T00:51:49+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: uncategorized
+card_series: uncategorized
 color_palette_classname: light-pink
 background_image: https://smarthernews.com/wp-content/uploads/2018/01/Oprah_Winfrey_2010.jpg
 card_1:

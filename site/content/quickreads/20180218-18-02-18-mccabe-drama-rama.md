@@ -10,7 +10,7 @@ lastmod: '2018-03-19T03:52:13+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-green
 background_image: https://smarthernews.com/wp-content/uploads/2018/03/fbi-e1612400888242.jpg
 card_1:

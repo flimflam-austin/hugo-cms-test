@@ -10,7 +10,7 @@ lastmod: '2018-07-12T03:42:33+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-gray
 background_image: https://smarthernews.com/wp-content/uploads/2018/07/Judge_Brett_Kavanaugh.jpg
 card_1:

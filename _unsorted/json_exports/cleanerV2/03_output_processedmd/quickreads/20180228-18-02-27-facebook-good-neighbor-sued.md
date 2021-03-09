@@ -10,7 +10,7 @@ lastmod: '2018-03-28T12:07:43+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: bronze
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/hammer-1707733_1920-360x360.jpg

@@ -10,7 +10,7 @@ lastmod: '2018-05-30T10:19:42+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-yellow
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/yoal-desurmont-90497-unsplash-360x360.jpg

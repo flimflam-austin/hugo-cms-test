@@ -9,11 +9,11 @@ aliases:
 published: true
 date: '2019-02-06T14:04:36+00:00'
 publishDate: '2019-02-06T14:04:36+00:00'
-lastmod: '2019-02-06T14:04:36+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: now you know
+card_series: now you know
 color_palette_classname: dark-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/samuel-branch-442129-unsplash-scaled.jpg

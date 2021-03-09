@@ -12,7 +12,7 @@ lastmod: '2018-12-03T13:32:56+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/12/andrew-ruiz-307552-unsplash-min-scaled.jpg

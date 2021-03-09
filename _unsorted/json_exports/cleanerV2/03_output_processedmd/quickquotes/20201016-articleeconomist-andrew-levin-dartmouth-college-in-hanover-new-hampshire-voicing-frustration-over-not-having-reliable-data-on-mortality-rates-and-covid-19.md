@@ -11,7 +11,7 @@ aliases:
 published: true
 date: '2020-11-16T07:34:14+00:00'
 publishDate: '2020-11-16T07:34:14+00:00'
-lastmod: '2020-11-16T07:34:14+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickquotes

@@ -10,7 +10,7 @@ lastmod: '2018-02-15T12:42:46+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: default
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/jarl-schmidt-557318-360x360.jpg

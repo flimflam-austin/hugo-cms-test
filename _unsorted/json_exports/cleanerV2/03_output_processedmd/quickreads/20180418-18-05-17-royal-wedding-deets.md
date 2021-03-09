@@ -10,7 +10,7 @@ lastmod: '2018-05-18T13:48:31+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: white
 background_image: https://smarthernews.com/wp-content/uploads/2018/05/image1-2.jpeg
 card_1:

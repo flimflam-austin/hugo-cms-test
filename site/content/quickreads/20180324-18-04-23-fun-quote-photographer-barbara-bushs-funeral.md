@@ -10,7 +10,7 @@ lastmod: '2018-04-24T12:55:09+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: worth-it-to-see
+card_series: worth-it-to-see
 color_palette_classname: white
 background_image: https://smarthernews.com/wp-content/uploads/2018/04/DbY248lV0AY_LZz.jpg
 card_1:

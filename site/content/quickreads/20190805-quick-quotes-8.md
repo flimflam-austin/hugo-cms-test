@@ -12,7 +12,7 @@ lastmod: '2019-09-05T21:44:45+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: quotes
+card_series: quotes
 color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/kevin-gent-219197-360x360.jpg

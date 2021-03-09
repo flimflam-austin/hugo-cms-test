@@ -10,7 +10,7 @@ lastmod: '2018-03-26T12:23:36+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-yellow
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/hannah-rodrigo-14680-unsplash-scaled.jpg

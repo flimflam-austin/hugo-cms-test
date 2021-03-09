@@ -10,7 +10,7 @@ lastmod: '2018-02-27T05:09:35+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: worth-it-to-see
+card_series: worth-it-to-see
 color_palette_classname: light-yellow
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/dawid-sobolewski-271380-360x360.jpg

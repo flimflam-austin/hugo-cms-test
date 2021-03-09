@@ -10,7 +10,7 @@ lastmod: '2018-04-06T09:32:20+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: from the president’s desk
+card_series: from the president’s desk
 color_palette_classname: light-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/samuel-branch-442129-unsplash-scaled.jpg

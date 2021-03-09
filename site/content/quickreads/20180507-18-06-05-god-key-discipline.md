@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-06-07T11:02:47+00:00'
 publishDate: '2018-06-07T11:02:47+00:00'
-lastmod: '2018-06-07T11:02:47+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-yellow
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/06/marc-olivier-jodoin-239619-unsplash-scaled.jpg

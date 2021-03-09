@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-04-19T10:50:47+00:00'
 publishDate: '2018-04-19T10:50:47+00:00'
-lastmod: '2018-04-19T10:50:47+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: light-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/sam-manns-379040-unsplash-scaled.jpg

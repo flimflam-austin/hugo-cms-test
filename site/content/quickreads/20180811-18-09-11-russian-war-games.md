@@ -12,7 +12,7 @@ lastmod: '2018-09-11T14:12:16+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/tom-grimbert-561706-unsplash-scaled.jpg

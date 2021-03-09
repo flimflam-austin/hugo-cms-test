@@ -10,7 +10,7 @@ lastmod: '2018-08-10T11:51:18+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/bill-jelen-555154-unsplash-scaled.jpg

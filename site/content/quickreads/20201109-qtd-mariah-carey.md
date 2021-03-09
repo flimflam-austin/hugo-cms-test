@@ -12,7 +12,7 @@ lastmod: '2020-12-09T18:10:00+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: quote of the day
+card_series: quote of the day
 color_palette_classname: white
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/12/background-balls-boxes-1303098-scaled.jpg

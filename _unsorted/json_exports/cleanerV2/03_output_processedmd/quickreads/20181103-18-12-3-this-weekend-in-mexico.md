@@ -12,7 +12,7 @@ lastmod: '2018-12-03T13:16:05+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-brown
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/daniel-foster-264237-unsplash-scaled.jpg

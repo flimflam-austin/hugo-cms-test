@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-05-21T10:33:23+00:00'
 publishDate: '2018-05-21T10:33:23+00:00'
-lastmod: '2018-05-21T10:33:23+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/NicolA!s_Maduro_in_meeting_with_Iranian_President_Hassan_Rouhani_in_Saadabad_Palace-360x360.jpg

@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-04-26T10:49:35+00:00'
 publishDate: '2018-04-26T10:49:35+00:00'
-lastmod: '2018-04-26T10:49:35+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/niu-niu-600592-unsplash-scaled.jpg

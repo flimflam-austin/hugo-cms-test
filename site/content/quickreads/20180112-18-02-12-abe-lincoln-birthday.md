@@ -10,7 +10,7 @@ lastmod: '2018-02-12T13:00:54+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: on this day
+card_series: on this day
 color_palette_classname: dark-blue
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/kelli-dougal-434239-1-360x360.jpg

@@ -12,7 +12,7 @@ lastmod: '2020-06-24T21:25:35+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: quotes
+card_series: quotes
 color_palette_classname: light-yellow
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/bill-jelen-555154-unsplash-scaled.jpg

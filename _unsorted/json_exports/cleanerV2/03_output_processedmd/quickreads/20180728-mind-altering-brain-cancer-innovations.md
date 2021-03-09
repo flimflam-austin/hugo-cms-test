@@ -12,7 +12,7 @@ lastmod: '2018-08-28T13:38:27+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/nick-herasimenka-8269-unsplash-scaled.jpg

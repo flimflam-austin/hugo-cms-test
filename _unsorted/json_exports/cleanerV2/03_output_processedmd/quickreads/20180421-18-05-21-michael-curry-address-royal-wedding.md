@@ -10,7 +10,7 @@ lastmod: '2018-05-21T13:00:17+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: uncategorized
+card_series: uncategorized
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/marcus-wallis-471449-unsplash-scaled.jpg

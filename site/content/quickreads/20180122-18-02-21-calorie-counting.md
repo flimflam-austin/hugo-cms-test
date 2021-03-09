@@ -10,7 +10,7 @@ lastmod: '2018-02-22T11:54:31+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: dark-brown
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/eaters-collective-109599-unsplash-360x360.jpg

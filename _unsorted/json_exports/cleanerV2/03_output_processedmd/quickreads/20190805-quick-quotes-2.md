@@ -10,7 +10,7 @@ lastmod: '2019-09-05T21:44:45+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: quotes
+card_series: quotes
 color_palette_classname: light-yellow
 background_image: https://smarthernews.com/wp-content/uploads/2018/05/syria-1034467_640.jpg
 card_1:

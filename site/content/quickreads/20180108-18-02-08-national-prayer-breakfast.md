@@ -10,7 +10,7 @@ lastmod: '2018-02-08T17:07:54+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: white
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/ben-white-165039-360x360.jpg

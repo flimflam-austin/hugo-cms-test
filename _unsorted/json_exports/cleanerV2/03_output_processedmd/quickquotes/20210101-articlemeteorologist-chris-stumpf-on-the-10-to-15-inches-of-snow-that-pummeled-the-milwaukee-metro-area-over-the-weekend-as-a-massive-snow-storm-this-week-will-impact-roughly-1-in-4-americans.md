@@ -10,7 +10,7 @@ aliases:
 published: true
 date: '2021-02-01T20:20:00+00:00'
 publishDate: '2021-02-01T20:20:00+00:00'
-lastmod: '2021-02-01T20:20:00+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickquotes

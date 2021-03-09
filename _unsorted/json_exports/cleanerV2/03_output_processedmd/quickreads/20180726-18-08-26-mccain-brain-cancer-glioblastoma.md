@@ -12,7 +12,7 @@ lastmod: '2018-08-26T19:41:31+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: health
+card_series: health
 color_palette_classname: white
 background_image: https://smarthernews.com/wp-content/uploads/2018/05/Brain_MRI.jpg
 card_1:

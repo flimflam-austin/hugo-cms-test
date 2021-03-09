@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-07-10T11:51:36+00:00'
 publishDate: '2018-07-10T11:51:36+00:00'
-lastmod: '2018-07-10T11:51:36+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: light-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/07/oscar-soderlund-159361-unsplash-scaled.jpg

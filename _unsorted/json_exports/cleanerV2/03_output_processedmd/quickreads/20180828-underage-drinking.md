@@ -12,7 +12,7 @@ lastmod: '2018-09-28T11:43:44+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: now you know
+card_series: now you know
 color_palette_classname: dark-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/03/natasha-kapur-340248-unsplash.jpg

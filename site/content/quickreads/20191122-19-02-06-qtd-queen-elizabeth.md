@@ -13,7 +13,7 @@ lastmod: '2019-12-23T03:12:55+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: on this day
+card_series: on this day
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2019/02/GB_Elizabeth_Coronation_Stamp-e1577070675369.jpg

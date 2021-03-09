@@ -10,7 +10,7 @@ lastmod: '2018-05-28T14:09:43+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: uncategorized
+card_series: uncategorized
 color_palette_classname: light-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/05/aaron-burden-97663-unsplash-scaled-e1592171934379.jpg

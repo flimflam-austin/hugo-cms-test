@@ -10,7 +10,7 @@ lastmod: '2018-04-11T21:43:03+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: beauty
+card_series: beauty
 color_palette_classname: light-purple
 background_image: https://smarthernews.com/wp-content/uploads/2018/04/jlo-inglot-1522935898.jpg
 card_1:

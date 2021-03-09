@@ -12,7 +12,7 @@ lastmod: '2018-12-05T12:34:08+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: uncategorized
+card_series: uncategorized
 color_palette_classname: light-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/06/dev-222588-unsplash-scaled.jpg

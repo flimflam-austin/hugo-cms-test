@@ -10,7 +10,7 @@ lastmod: '2018-02-23T12:21:17+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: travel
+card_series: travel
 color_palette_classname: dark-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/wyatt-ryan-367017-unsplash-360x360.jpg

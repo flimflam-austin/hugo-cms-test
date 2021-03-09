@@ -10,7 +10,7 @@ lastmod: '2018-02-27T12:44:31+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: current events
+card_series: current events
 color_palette_classname: dark-pink
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/sasha-instagram-com-sanfrancisco-250033-unsplash-360x360.jpg

@@ -10,7 +10,7 @@ lastmod: '2018-08-08T14:52:30+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: now you know
+card_series: now you know
 color_palette_classname: light-green
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/07/Donald_Trump_star_Hollywood_Walk_of_Fame.jpg

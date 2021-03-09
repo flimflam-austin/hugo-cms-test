@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-04-28T02:49:44+00:00'
 publishDate: '2018-04-28T02:49:44+00:00'
-lastmod: '2018-04-28T02:49:44+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: worth-it-to-see
+card_series: worth-it-to-see
 color_palette_classname: light-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/Korean_War_memorial_4949340990.jpg

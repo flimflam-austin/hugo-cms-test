@@ -10,7 +10,7 @@ lastmod: '2018-04-04T11:01:14+00:00'
 tags: []
 post_author: []
 section: quickreads
-category: from the president’s desk
+card_series: from the president’s desk
 color_palette_classname: dark-gray
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/04/512px-President_Trump_gives_remarks_at_the_National_Rifle_Association_Leadership_Forum.png

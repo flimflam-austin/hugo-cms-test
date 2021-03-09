@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-11-27T20:00:22+00:00'
 publishDate: '2018-11-27T20:00:22+00:00'
-lastmod: '2018-11-27T20:00:22+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: now you know
+card_series: now you know
 color_palette_classname: light-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/02/rawpixel-com-568371-unsplash-360x360.jpg

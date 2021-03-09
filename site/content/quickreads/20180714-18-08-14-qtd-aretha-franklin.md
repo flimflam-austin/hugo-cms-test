@@ -6,11 +6,11 @@ aliases:
 published: true
 date: '2018-08-14T11:52:51+00:00'
 publishDate: '2018-08-14T11:52:51+00:00'
-lastmod: '2018-08-14T11:52:51+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: quote of the day
+card_series: quote of the day
 color_palette_classname: dark-purple
 background_image: >-
   https://smarthernews.com/wp-content/uploads/2018/08/demetrius-washington-651672-unsplash-scaled.jpg

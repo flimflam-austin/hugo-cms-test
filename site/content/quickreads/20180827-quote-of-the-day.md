@@ -9,11 +9,11 @@ aliases:
 published: true
 date: '2018-09-27T12:41:08+00:00'
 publishDate: '2018-09-27T12:41:08+00:00'
-lastmod: '2018-09-27T12:41:08+00:00'
+lastmod: ''
 tags: []
 post_author: []
 section: quickreads
-category: quote of the day
+card_series: quote of the day
 color_palette_classname: light-green
 background_image: ''
 card_10:
