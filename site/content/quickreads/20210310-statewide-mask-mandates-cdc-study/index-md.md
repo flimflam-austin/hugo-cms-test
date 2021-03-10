@@ -55,14 +55,14 @@ card_5:
     * Varying mitigation efforts place to place (such as gathering restrictions + distancing) could impact results.
 card_6:
   card_text: >-
-    “If a positive correlation between ice cream sales and shark attacks is
+    > “If a positive correlation between ice cream sales and shark attacks is
     found, that would not mean that ice cream causes shark attacks.”
 
 
     The National Restaurant Association calls the CDC study “an ill-informed attack on the industry hardest-hit by the pandemic,” arguing restaurants typically have to follow many safety requirements to operate during the pandemic. The group says "myriad variables" could have led to the CDC's conclusions, as in the maxim "Correlation does not equal causation."
 card_7:
   card_text: >-
-    “We are maintaining the masks.”
+    > “We are maintaining the masks.”
 
 
     Connecticut Governor Ned Lamont who announced his state will resume restaurant dining at 100% capacity but with some restrictions (such as earlier closing times). Connecticut will maintain the statewide mask mandate, unlike other states such as Texas and Mississippi that will forego the policy. The differences in the timing of state mitigation efforts, infection rates, and cultural & regional differences in lifestyle are all variables to research.
