@@ -90,26 +90,42 @@ $card-border-style: $card-border-width solid $card-border-color;
 	padding-bottom: 100%;
 	position: absolute;
 	top: 0;
-	opacity: 0.99;
 
 	&__frame {
 		width: 100%;
 		height: 50%;
 		position: absolute;
-		top: 0;
 		left: 0;
 		right: 0;
 		overflow: hidden;
+
+		perspective: 3000px;
 		transform-style: preserve-3d;
-		transform-origin: center left;
-		transform: rotate(50deg);
+
+		//transform: rotate(-50deg);
+		//transform: rotateX(0deg);
+		opacity: 1;
+		backface-visibility: hidden;
+
+		&--upper {
+			top: 0;
+
+			transform-origin: bottom left;
+			transform: rotateX(0deg);
+		}
 
 		&--lower {
 			top: auto;
 			bottom: 0;
+
 			transform-origin: top left;
-			transform: rotate(50deg);
+			transform: rotateX(0deg);
+			//transform: rotate(50deg);
 		}
+	}
+
+	&--hidden {
+		display: none;
 	}
 
 	&__body {
@@ -118,7 +134,7 @@ $card-border-style: $card-border-width solid $card-border-color;
 		left: 0;
 		right: 0;
 
-		height: 200%;
+		height: 400px;
 
 		padding: $card-padding;
 
@@ -362,6 +378,33 @@ $icon-dark: url("/img/sh_sunglasses_sage.png");
 	}
 }
 
+@keyframes flipForwardCurrentCardUpper {
+	0% {
+		height: 50%;
+	}
+	50% {
+		height: 50%;
+	}
+	100% {
+		height: 0;
+	}
+}
+
+@keyframes flipForwardNewCardUpper {
+	0% {
+		transform: rotateX(-180deg);
+		//filter: brightness(0.2);
+		opacity: 0.9;
+		height: 50%;
+	}
+	100% {
+		transform: rotateX(0deg);
+		opacity: 1;
+		//filter: brightness(1);
+		height: 50%;
+	}
+}
+
 @keyframes flipBackCurrentCardUpper {
 	0% {
 		transform: rotateX(0deg);
@@ -394,65 +437,43 @@ $icon-dark: url("/img/sh_sunglasses_sage.png");
 	}
 }
 
-@keyframes flipForwardNewCardUpper {
+@keyframes flipBackPreviousCardUpper {
 	0% {
-		transform: rotateX(-180deg);
-		//filter: brightness(0.2);
-		opacity: 1;
+		height: 0%;
+	}
+	50% {
 		height: 50%;
 	}
 	100% {
-		transform: rotateX(0deg);
-		opacity: 1;
-		//filter: brightness(1);
 		height: 50%;
 	}
 }
 
 $card-flip-duration: 0.75s;
 
-.stackcard {
-	perspective: 3000px;
-	transform-style: preserve-3d;
-
-	&--hidden {
-		display: none;
-	}
-
-	&__frame {
-		transform: rotateX(0deg);
-		opacity: 1;
-		backface-visibility: hidden;
-
-		&--upper {
-			transform-origin: bottom left;
-		}
-
-		&--lower {
-			transform-origin: top left;
-		}
-	}
-}
-
 .stackcard--clicked {
 	& .stackcard__frame--lower {
-		transform-style: preserve-3d;
 		animation-duration: $card-flip-duration;
 		animation-fill-mode: forwards;
 		animation-timing-function: ease-in-out;
 		animation-name: flipForwardCurrentCardLower;
-		/* z-index: map-get($zindex, page-mid); */
+		z-index: map-get($zindex, page-mid);
 	}
 
 	& .stackcard__frame--upper {
-		z-index: -1;
+		z-index: 0;
+		//visibility: hidden;
+		transform-origin: top left;
+		animation-duration: $card-flip-duration;
+		animation-fill-mode: forwards;
+		animation-timing-function: ease-in-out;
+		animation-name: flipForwardCurrentCardUpper;
 	}
 }
 
 .stackcard--activated {
 	& .stackcard__frame--upper {
-		opacity: 1;
-		transform-style: preserve-3d;
+		//opacity: 1;
 		animation-duration: $card-flip-duration;
 		animation-fill-mode: forwards;
 		animation-timing-function: ease-in-out;
@@ -465,23 +486,30 @@ $card-flip-duration: 0.75s;
 	/* & .stackcard__frame--lower {
 	} */
 }
-.stackcard--clicked--previous .stackcard__frame--upper {
-	transform-style: preserve-3d;
-	animation-duration: $card-flip-duration;
-	animation-fill-mode: forwards;
-	animation-timing-function: ease-in-out;
-	animation-name: flipBackCurrentCardUpper;
-	/* z-index: map-get($zindex, page-mid); */
-	/* z-index: 9000; */
+.stackcard--clicked--previous {
+	& .stackcard__frame--upper {
+		animation-duration: $card-flip-duration;
+		animation-fill-mode: forwards;
+		animation-timing-function: ease-in-out;
+		animation-name: flipBackCurrentCardUpper;
+		/* z-index: map-get($zindex, page-mid); */
+		/* z-index: 9000; */
+	}
 }
-
-.stackcard--activated--previous .stackcard__frame--lower {
-	transform-style: preserve-3d;
-	animation-duration: $card-flip-duration;
-	animation-fill-mode: forwards;
-	animation-timing-function: ease-in-out;
-	animation-name: flipBackNewCardLower;
-	z-index: 9000;
+.stackcard--activated--previous {
+	& .stackcard__frame--upper {
+		animation-duration: $card-flip-duration;
+		animation-fill-mode: forwards;
+		animation-timing-function: ease-in-out;
+		animation-name: flipBackPreviousCardUpper;
+		z-index: 9000;
+	}
+	& .stackcard__frame--lower {
+		animation-duration: $card-flip-duration;
+		animation-fill-mode: forwards;
+		animation-timing-function: ease-in-out;
+		animation-name: flipBackNewCardLower;
+	}
 }
 
 .stackcard__body,
