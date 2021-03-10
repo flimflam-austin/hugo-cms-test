@@ -41,6 +41,7 @@ collections:
     - label: Video Posts
       name: videoposts
       slug: "{{year}}{{month}}{{day}}-{{slug}}"
+      path: "{{slug}}/index.md"
       folder: site/content/videoposts
       create: true
       fields:
@@ -142,7 +143,7 @@ collections:
     - label: Quick Quotes
       name: quick_quotes
       slug: "{{year}}{{month}}{{day}}-{{slug}}"
-      #path: "{{slug}}/index.md"
+      path: "{{slug}}/index.md"
       folder: site/content/quickquotes
       create: true
       sortableFields: ["date", "lastmod"]
@@ -288,6 +289,7 @@ collections:
     - label: Card Stacks
       name: quickreads
       slug: "{{year}}{{month}}{{day}}-{{slug}}"
+      path: "{{slug}}/index.md"
       folder: site/content/quickreads
       create: true
       sortable_fields: ["date"]
