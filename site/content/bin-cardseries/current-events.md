@@ -1,4 +1,4 @@
 ---
-title: Current Events
 section: bin-cardseries
+title: Derek Chauvin Case
 ---
