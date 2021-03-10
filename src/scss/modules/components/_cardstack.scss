@@ -24,7 +24,11 @@ $card-border-style: $card-border-width solid $card-border-color;
 
 	&__cards {
 		width: 100%;
-		padding-bottom: 100%;
+		//padding-bottom: 100%;
+		height: 450px;
+		@include query-tablet-up {
+			height: 400px;
+		}
 		position: relative;
 	}
 
@@ -87,7 +91,11 @@ $card-border-style: $card-border-width solid $card-border-color;
 
 .stackcard {
 	width: 100%;
-	padding-bottom: 100%;
+	//padding-bottom: 100%;
+	height: 450px;
+	@include query-tablet-up {
+		height: 400px;
+	}
 	position: absolute;
 	top: 0;
 
@@ -134,7 +142,10 @@ $card-border-style: $card-border-width solid $card-border-color;
 		left: 0;
 		right: 0;
 
-		height: 400px;
+		height: 450px;
+		@include query-tablet-up {
+			height: 400px;
+		}
 
 		padding: $card-padding;
 
@@ -540,7 +551,11 @@ $card-flip-duration: 0.75s;
 }
 
 .stackcard__content {
-	$card-base: 16px;
+	font-size: 14px;
+
+	@include query-tablet-up {
+		font-size: 16px;
+	}
 
 	@include typo-base-paragraph;
 
@@ -564,48 +579,59 @@ $card-flip-duration: 0.75s;
 		@include gamma-regular;
 	}
 	& p {
-		margin-bottom: $card-base;
+		//margin-bottom: $card-base;
+		margin-bottom: 1em;
 	}
 
 	& h1 {
-		font-size: $card-base * 1.875;
+		//font-size: $card-base * 1.875;
+		font-size: 1.875em;
 		@include beta-bold;
-		margin-bottom: $card-base;
+		//margin-bottom: $card-base;
+		margin-bottom: 1em;
 		text-transform: capitalize;
 	}
 
 	& h2 {
-		font-size: $card-base * 1.5;
+		//font-size: $card-base * 1.5;
+		font-size: 1.5em;
 		@include beta-bold;
-		margin-bottom: $card-base;
+		//margin-bottom: $card-base;
+		margin-bottom: 1em;
 		text-transform: capitalize;
 	}
 
 	& h3 {
-		font-size: $card-base * 1.375;
+		//font-size: $card-base * 1.375;
+		font-size: 1.375em;
 		@include gamma-regular;
-		margin-bottom: $card-base;
+		//margin-bottom: $card-base;
+		margin-bottom: 1em;
 		text-transform: capitalize;
 	}
 
 	& h4 {
-		font-size: $card-base * 1;
+		//font-size: $card-base * 1;
+		font-size: 1em;
 		@include gamma-regular;
 		text-transform: uppercase;
 		text-decoration: underline;
 	}
 
 	& h5 {
-		font-size: $card-base * 0.875;
+		//font-size: $card-base * 0.875;
+		font-size: 0.875em;
 		@include gamma-bold;
 		letter-spacing: 0.05em;
 		text-transform: capitalize;
 	}
 
 	& h6 {
-		font-size: $card-base * 0.75;
+		//font-size: $card-base * 0.75;
+		font-size: 0.75em;
 		@include gamma-bold;
-		margin-bottom: 0.625 * $card-base;
+		//margin-bottom: 0.625 * $card-base;
+		margin-bottom: 0.625em;
 		text-transform: capitalize;
 	}
 
@@ -616,13 +642,17 @@ $card-flip-duration: 0.75s;
 	}
 
 	li {
-		padding: $card-base * 0.1;
-		font-size: $card-base * 1;
+		/* padding: $card-base * 0.1;
+		font-size: $card-base * 1; */
+		padding: 0.1em;
+		font-size: 1em;
 	}
 
 	& blockquote {
-		margin-bottom: $card-base;
-		font-size: $card-base * 1.125;
+		/* margin-bottom: $card-base;
+		font-size: $card-base * 1.125; */
+		margin-bottom: 1em;
+		font-size: 1.125em;
 		@include beta-regular;
 		border: none;
 
@@ -642,7 +672,8 @@ $card-flip-duration: 0.75s;
 
 	& ul,
 	ol {
-		padding-left: $card-base;
+		//padding-left: $card-base;
+		padding-left: 1em;
 	}
 
 	& ul {
