@@ -698,4 +698,8 @@ $card-flip-duration: 0.75s;
 		width: 100%;
 		padding: ($post-section-spacing/2) 0;
 	}
+
+	& div {
+		text-align: center;
+	}
 }

@@ -5,7 +5,13 @@
             <div class="stackcard__frame stackcard__frame--upper">
                 <div class="stackcard__body">
                     {{ if .Params.background_image }}
+                    {{ if .Resources.Match .Params.background_image}}
+                    <img class="stackcard__bgimage" src="{{- (.Resources.Match (print "**/" .Params.background_image)).RelPermalink -}}" alt="" />
+                    {{/* {{ else }}
+                    <img class="stackcard__bgimage" src="{{- .Params.background_image -}}" alt="" /> */}}
+                    {{ else }}
                     <img class="stackcard__bgimage" src="{{- .Params.background_image -}}" alt="" />
+                    {{end}}
                     {{ end }}
                     <div class="stackcard__borderwrapper">
                         <div class="stackcard__borderelements">
