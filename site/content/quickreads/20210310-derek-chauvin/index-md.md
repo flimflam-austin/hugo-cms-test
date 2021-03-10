@@ -32,7 +32,7 @@ card_3:
     > “Please, please, please, I can’t breathe. Please, man.”
 
 
-    George Floyd. "8 minutes and 46 seconds" became a rallying cry for protestors, referencing the time Chauvin held his knee on George Floyd's neck. Notably, court documents have listed a range of times from 7 minutes 46 secs to *more* than 9 minutes for this interaction. The timing will be relevant to both sides. Video appears to show Floyd fall unconscious. Shortly afterwards, he is loaded into an ambulance and later declared dead at a local hospital
+    George Floyd. "8 minutes and 46 seconds" became a rallying cry for protestors, referencing the time Chauvin held his knee on George Floyd's neck. Notably, court documents have listed a range of times from 7 minutes 46 secs to *more* than 9 minutes for this interaction. The timing will be relevant to both sides. Video appears to show Floyd fall unconscious. Shortly afterwards, he is loaded into an ambulance and later declared dead at a local hospital.
   card_citation: " "
 card_4:
   card_text: >-
