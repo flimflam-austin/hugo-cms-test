@@ -5,7 +5,7 @@ tags:
   - politics
   - covid
 date: 2021-03-03T18:45:00.000Z
-lastmod: ""
+lastmod: 2021-03-10T19:34:00.000Z
 is_breaking: false
 featured_quote:
   summary: Texas Gov. Greg Abbott announcing he's removing the statewide mask
