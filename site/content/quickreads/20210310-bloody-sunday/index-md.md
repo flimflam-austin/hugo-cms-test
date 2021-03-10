@@ -8,7 +8,7 @@ date: 2021-03-10T19:51:47.351Z
 lastmod: ""
 card_series: On This Day
 color_palette_classname: medium-gray
-background_image: photo-1484919215632-ea47c88e175c.jpg
+background_image: https://cdn.pixabay.com/photo/2017/05/30/05/33/american-flag-2355872_1280.jpg
 card_1:
   card_text: |-
     # March 7, 1965 
