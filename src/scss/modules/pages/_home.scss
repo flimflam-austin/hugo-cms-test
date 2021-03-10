@@ -126,6 +126,13 @@
 		padding: 0 1rem;
 	}
 
+	&__date {
+		color: $color-black;
+		@include alpha-regular;
+		font-size: $fs-sm;
+		padding-top: 0.5rem;
+	}
+
 	&--breaking {
 		background-color: $color-ui-alert;
 		border-radius: 1rem;
