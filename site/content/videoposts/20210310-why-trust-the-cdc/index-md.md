@@ -12,4 +12,8 @@ featured_image:
   alt: microphone
 summary: A candid conversation about the COVID-19 vaccine.
 ---
-{{< youtube https://youtu.be/oY72MIfvydM >}}
+
+
+
+
+{{< youtube oY72MIfvydM >}}
