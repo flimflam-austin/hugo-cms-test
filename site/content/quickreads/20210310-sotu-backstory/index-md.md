@@ -34,4 +34,22 @@ card_3:
     * What do they do in the meantime? Newly-elected Presidents typically give **\*an address before a joint session of Congress\*** outlining goals.
 
     * The tradition of addressing a joint session in this way during the 1st year of office began with Pres. Reagan in 1981.
+card_4:
+  card_text: >-
+    ## Something To Consider:
+
+
+    * Every president since Pres. Reagan has addressed a joint session of Congress \*in February\* during his first term in office. **Pres. Biden is the first one to not do so in 40 years.**
+
+    * White House: Pres. Biden is focused on the pandemic & the COVID-19 relief package, but they "intend" for the president to deliver a joint address and have "engaged closely" with Congress about future plans.
+card_10:
+  card_text: While no date has been set (so far) for Pres. Biden address to
+    Congress, tradition says he doesn't have to talk at all – for about 100
+    years what's now called the State of the Union address was delivered in
+    writing. Meanwhile, Pres. Biden's prime-time address Thursday night will
+    mark a year since the World Health Organization declared COVID-19 a
+    "pandemic."
 ---
+**Background from the House of Representatives (the House is where \*most\* if not at all joint addresses happen because it has enough seats!):** <https://history.house.gov/Institution/SOTU/State-of-the-Union/>
+
+**A good background read from** [USA Today](https://www.usatoday.com/story/news/factcheck/2021/02/24/fact-check-state-union-has-no-annual-requirement-deadline/4575682001/)
