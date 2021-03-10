@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2020/12/IMG_2206-scaled-e1608255954912-1024x829.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"NEW vaccine technology...for a NEW Coronavirus?\" src=\"https://www.youtube.com/embed/by8wQOdMKl0?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"NEW vaccine technology...for a NEW Coronavirus?\" src=\"https://www.youtube.com/embed/by8wQOdMKl0?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube by8wQOdMKl0 &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

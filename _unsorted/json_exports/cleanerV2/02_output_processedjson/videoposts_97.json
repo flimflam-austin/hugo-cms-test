@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2018/09/ella-jardim-669951-unsplash-1-scaled.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Tuesday Coffee Talk\" src=\"https://www.youtube.com/embed/pnq1r-ZCDkI?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> <p>Coffee Talk Monday: <a href=\"https://youtu.be/6nTg66NbRvw\">CLICK HERE</a></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Tuesday Coffee Talk\" src=\"https://www.youtube.com/embed/pnq1r-ZCDkI?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube pnq1r-ZCDkI &gt;}}</div></div><p></p> <p>Coffee Talk Monday: <a href=\"https://youtu.be/6nTg66NbRvw\">CLICK HERE</a></p> ",
   "contentType": "videoposts"
 }

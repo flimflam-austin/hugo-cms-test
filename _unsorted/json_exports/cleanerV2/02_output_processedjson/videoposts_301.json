@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2019/06/37-min.jpeg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Jenna Chats With Jocko Willink\" src=\"https://www.youtube.com/embed/_JOK7AFik7s?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Jenna Chats With Jocko Willink\" src=\"https://www.youtube.com/embed/_JOK7AFik7s?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube _JOK7AFik7s &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

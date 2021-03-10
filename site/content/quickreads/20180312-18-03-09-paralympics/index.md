@@ -1,0 +1,111 @@
+---
+title: 18.03.09 Paralympics
+description: ''
+aliases:
+  - 18-03-09-paralympics/
+published: true
+date: '2018-03-12T12:00:11+00:00'
+publishDate: '2018-03-12T12:00:11+00:00'
+lastmod: '2018-03-12T10:51:34+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: current events
+color_palette_classname: light-blue
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/02/luke-michael-302392-1-360x360.jpg
+card_1:
+  card_text: "INSPIRATION\n-----------\n\n> ‘I love being part of a team in the military, and when I became injured I was looking to seek that out again.”\n> \n> Dan Cnossen, Retired Navy SEAL, Gold & Silver Paralympic Medalist, Purple Heart, Bronze Medal, pursuing second Master's Degree at Harvard.\n\nYes. That's a real bio."
+  card_citation: Yes. That's a real bio.
+card_2:
+  card_text: |-
+    Winter Olympics Round II
+    ========================
+
+    The 2018 PyeongChang Paralympic Winter Games: **March 9-18**.
+
+    670 athletes from 46 countries
+
+    **44% MORE female athletes** than the 2014 Sochi games.
+
+    FLIP HERE FOR MORE
+  card_citation: FLIP HERE FOR MORE
+card_3:
+  card_text: |-
+    Team USA’s 74-Member Team Includes:
+    -----------------------------------
+
+    *   41 returning Paralympians
+    *   20 women & 54 men
+    *   18 military veterans & active duty service members
+    *   6 guides for visually impaired athletes
+    *   1 married couple (alpine skiers Danelle & Rob Umstead)
+  card_citation: ''
+card_4:
+  card_text: >-
+    Name to Know:  
+
+    Dan Cnossen
+
+    ---------------------------
+
+
+    *   37 year-old from Topeka, Kansas
+
+    *   Retired **Navy SEAL**; injured by IED in Afghanistan 2009, sustained
+    severe injuries & lost both legs above the knee.
+
+    *   **Purple Heart**. **Bronze Star** for Valor.
+
+    *   **Gold Medal**: Biathlon (cross-country skiing & rifle shooting)
+
+    *   **Silver Medal**: Cross-country
+  card_citation: ''
+card_5:
+  card_text: >-
+    Name to Know:  
+
+    Amy Purdy
+
+    -------------------------
+
+
+    *   Grew up snowboarding in Vegas.
+
+    *   At 19, she lost her legs below the knees to bacterial meningitis.
+
+    *   When she couldn’t find prosthetic legs that allowed her to snowboard,
+    she BUILT her own.
+
+    *   Founded a non-profit that helped get snowboarding in 2014 games & helps
+    disabled athletes engage in action sports.
+  card_citation: ''
+card_6:
+  card_text: |-
+    Paralympic Winter Games:  
+    10 Days ~ 6 Sports
+    ---------------------------------------------
+
+    *   biathlon
+    *   alpine skiing
+    *   cross-country skiing
+    *   ice hockey
+    *   snowboarding
+    *   wheelchair curling
+  card_citation: ''
+card_10:
+  card_text: >-
+    Want to learn more about pro-snowboarder, entrepreneur & author Amy Purdy,
+    check out her TED Talk:
+
+
+    [view sources](https://smarthernews.com/18-03-09-paralympics/)
+  card_citation: ''
+
+---
+*   About the PyeongChang 2018 Paralympic Winter Games: [https://www.paralympic.org/pyeongchang-2018/about](https://www.paralympic.org/pyeongchang-2018/about)
+*   2018 U.S. Paralympic Team Named: [https://www.teamusa.org/US-Paralympics/Features/2018/February/26/2018-US-Paralympic-Team-Named](https://www.teamusa.org/US-Paralympics/Features/2018/February/26/2018-US-Paralympic-Team-Named)
+*   2018 Paralympics: Navy SEAL veteran Dan Cnossen wins historic gold medal in biathlon: [https://www.usatoday.com/story/sports/olympics/2018/03/10/2018-paralympics-navy-seal-veteran-dan-cnossen-wins-historic-gold-medal-biathlon/414232002/](https://www.usatoday.com/story/sports/olympics/2018/03/10/2018-paralympics-navy-seal-veteran-dan-cnossen-wins-historic-gold-medal-biathlon/414232002/)
+*   Q&A: Snowboarder Amy Purdy on Losing her Legs and Becoming World Champion: [https://www.si.com/olympics/2017/11/03/amy-purdy-leg-amputation-2018-paralympics](https://www.si.com/olympics/2017/11/03/amy-purdy-leg-amputation-2018-paralympics)
+*   PyeongChang gets ready to welcome the Paralympic Winter Games: [https://www.olympic.org/news/pyeongchang-gets-ready-to-welcome-the-paralympic-winter-games](https://www.olympic.org/news/pyeongchang-gets-ready-to-welcome-the-paralympic-winter-games)
+*   TED TalkA | Amy Purdy: Living beyond limits: [https://www.ted.com/talks/amy_purdy_living_beyond_limits](https://www.ted.com/talks/amy_purdy_living_beyond_limits)

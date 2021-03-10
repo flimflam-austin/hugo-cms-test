@@ -1,0 +1,92 @@
+---
+title: 18.05.18 Fertility Rate
+description: ''
+aliases:
+  - 18-05-18-fertility-rate/
+published: true
+date: '2018-05-18T09:50:13+00:00'
+publishDate: '2018-05-18T09:50:13+00:00'
+lastmod: '2020-03-13T12:44:51+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: health
+color_palette_classname: light-purple
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/02/rawpixel-com-568371-unsplash-360x360.jpg
+card_1:
+  card_text: "OH, BABY.\n=========\n\nAmerican women are having children at the LOWEST rate on record.\n----------------------------------------------------------------\n\nThe number of babies born last year hit a **30-year low** despite a strong economy & a larger female population of child-bearing age –_**dumbfounding researchers**."
+  card_citation: ''
+card_2:
+  card_text: >-
+    Why It’s Surprising
+
+    -------------------
+
+
+    Last year, the birthrate even **declined for women in their 30s**, a shocker
+    after rates had been rising as more women delayed pregnancy.
+
+
+    The only group to see a **higher birthrate was women in their 40s**.
+
+
+    Baby booms typically follow economic booms, but **the fertility rate hasn’t
+    recovered since 2010.**
+  card_citation: ''
+card_3:
+  card_text: >-
+    > “Every year I look at data & expect it will be the year that birthrates
+    start to tick up, and every year we hit another all-time low. It’s one of
+    the big demographic mysteries of recent times.”
+
+    > 
+
+    > Kenneth Johnson, University of New Hampshire Demographer
+  card_citation: ''
+card_4:
+  card_text: >-
+    Why It Matters
+
+    --------------
+
+
+    Fewer babies means **less young workers to pay into Social Security &
+    Medicare** for an aging population.
+
+
+    It may also affect the workplace with **too few workers for jobs** that need
+    to be filled.
+
+
+    In the U.S., declines in rates haven’t led to drops in population, mainly
+    due to immigration.
+  card_citation: ''
+card_10:
+  card_text: >-
+    More than 3.8M babies were born in the U.S. last year, but last year's drop
+    in the nation's birth rate (about 2%) is the largest drop since 2010. And
+    while there's no need to be alarmed yet, researchers point to Japan's
+    "demographic time bomb" on why this matters. Read more here.
+
+
+    [view sources](https://smarthernews.com/18-05-18-fertility-rate/)
+  card_citation: ''
+
+---
+*   **Read the report: National Vital Statistics System  
+    **[https://assets.documentcloud.org/documents/4465343/U-S-Birth-Rate-Report-CDC-2017.pdf](https://assets.documentcloud.org/documents/4465343/U-S-Birth-Rate-Report-CDC-2017.pdf)
+*   **U.S. Fertility Rate Fell to a Record Low, for a Second Straight Year  
+    **[https://www.nytimes.com/2018/05/17/us/fertility-rate-decline-united-states.html](https://www.nytimes.com/2018/05/17/us/fertility-rate-decline-united-states.html)
+*   **GREAT CDC STATS:A U.S. birth rate hits a 30-year low, despite good economy  
+    **[http://www.chicagotribune.com/news/nationworld/ct-us-birth-rate-30-year-low-20180516-story.html](http://www.chicagotribune.com/news/nationworld/ct-us-birth-rate-30-year-low-20180516-story.html)
+    
+    *   The rate of births to women ages 15 to 44, known as the general fertility rate, sank to a record low of about 60 per 1,000.
+    *   Women in their early 40s were the only group with higher birth rates in 2017, up 2 percent from the year. The rate has been rising since the early 1980s.
+    *   The cesarean section rate rose by a tiny amount after having decreased four years. Studies have shown C-sections are more common in first-time births involving older moms.
+    *   Rates of preterm and low birth weight babies rose for the third straight year, possibly for the same reason.
+    *   Birth rates for teens continued to nosedive, as they have since the early 1990s. In 2017, they dropped 7 percent from the year before.
+    *   Rates for women in their 20s continued to fall and hit record lows. They fell 4 percent.
+    *   Perhaps most surprising, birth rates for women in their 30s fell slightly, dipping 2 percent for women ages 30 to 34 and 1 percent for women 35 to 39.
+*   **The Mystery of Why Japanese People Are Having So Few Babies (FROM 2017)**  
+    [https://www.theatlantic.com/business/archive/2017/07/japan-mystery-low-birth-rate/534291/](https://www.theatlantic.com/business/archive/2017/07/japan-mystery-low-birth-rate/534291/)

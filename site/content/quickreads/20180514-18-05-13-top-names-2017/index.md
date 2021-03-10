@@ -1,0 +1,80 @@
+---
+title: 18.05.13 Top Names of 2017
+description: ''
+aliases:
+  - 18-05-13-top-names-2017/
+published: true
+date: '2018-05-14T11:10:05+00:00'
+publishDate: '2018-05-14T11:10:05+00:00'
+lastmod: '2018-05-14T10:01:30+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: now you know
+color_palette_classname: light-green
+background_image: https://smarthernews.com/wp-content/uploads/2018/01/baby-scaled.jpg
+card_1:
+  card_text: >-
+    America’s Top Baby Names
+
+    ========================
+
+
+    Social Security Administration **releases top 1,000 baby names**A every
+    year.
+
+
+    Did Amazon & First Lady impact results? You decide!
+
+
+    Flip For Top Names
+  card_citation: Flip For Top Names
+card_2:
+  card_text: >-
+    TOP NAMES:  
+
+    Emma & Liam
+
+    ------------------------
+
+
+    **Top Girl Names:** Emma, Olivia, Ava, Isabella & Sophia. Emma has been #1
+    since ’14.
+
+
+    **Top Boy Names:** Liam, Noah,  
+
+    William, James & Logan.
+
+
+    What Names Moved Up/Down?
+  card_citation: What Names Moved Up/Down?
+card_3:
+  card_text: >-
+    Name “Changes”
+
+    --------------
+
+
+    *   **“Amazon Effect”?** **Alexa** moved **DOWN** on list to #65 (from #32
+    in 2015). Some suggest this is due to Amazon’s voice-activated device by the
+    same name.
+
+    *   **“First Couple” Impact? MelaniaA** appears**A** in spot #930 (‘Melania’
+    didn’t appear on list in 2016 & 2015). “**Donald**” held steady at #488 from
+    2016, but down from #442 in 2015.
+  card_citation: ''
+card_10:
+  card_text: >-
+    3.8M babies were born last year in U.S. - the LOWEST number in 3 decades.
+    What names held the "1,000th" spot of the top 1,000? "Jaxx" & "Alora". Check
+    out the list:
+
+
+    [view sources](https://smarthernews.com/18-05-13-top-names-2017/)
+  card_citation: ''
+
+---
+*   **Popular Names 2017:**A [https://www.ssa.gov/cgi-bin/popularnames.cgi](https://www.ssa.gov/cgi-bin/popularnames.cgi)
+*   **Liam, Emma lead top baby names in US for 2017:**A [https://apnews.com/744264238d904373962accea8dad7bd9](https://apnews.com/744264238d904373962accea8dad7bd9)
+*   **Most popular baby names of 2017 are Liam for boys and Emma for girls:** [https://www.usatoday.com/story/news/nation-now/2018/05/11/most-popular-baby-names-2017-boy-girl/602708002/](https://www.usatoday.com/story/news/nation-now/2018/05/11/most-popular-baby-names-2017-boy-girl/602708002/)

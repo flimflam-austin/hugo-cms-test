@@ -1,0 +1,97 @@
+---
+title: 18.07.27 Spam Calls
+description: ''
+aliases:
+  - 18-07-27-spam-calls/
+published: true
+date: '2018-07-27T11:56:53+00:00'
+publishDate: '2018-07-27T11:56:53+00:00'
+lastmod: '2018-07-27T13:17:59+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: now you know
+color_palette_classname: dark-gray
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/07/apple-device-cellphone-communication-594452.jpg
+card_1:
+  card_text: >-
+    INVASION OF THE SPAM CALLS
+
+    ==========================
+
+
+    > **Spam & robocalls have increased more than 40% since January.A** Why &
+    what can you do about it?
+  card_citation: ''
+card_2:
+  card_text: >-
+    It’s Not Just You
+
+    =================
+
+
+    It’s estimated that at least **20 billion robocalls**A were made so far in
+    2018.
+
+
+    Robocalls were the **#1 FTC complaint** (4.5M) in 2017 – that figure doesn’t
+    include the 2.5M live caller complaints.
+  card_citation: ''
+card_3:
+  card_text: >-
+    4 WAYS (TO TRY) TO MAKE THEM STOP
+
+    ---------------------------------
+
+
+    1\. **Don’t answer**A unknown #s.
+
+
+    2\. If you pick up, **don’t engage**.
+
+
+    3\. Utilize built-in alert features orA third-party app to enable **spam
+    notifications &/or call blocking**.
+
+
+    4\. Report unwanted calls & register your #s w/A **FTC’s Do Not Call List**.
+  card_citation: ''
+card_4:
+  card_text: >-
+    And Why Are Some Calls in Chinese Anyway?A
+
+    ------------------------------------------
+
+
+    > *   Chinese-language spam calls are targeting immigrants, pretending to be
+    from the Chinese consulate.
+
+    > *   Don’t speak Chinese? Robocallers don’t care. It costs them virtually
+    nothing; they just need to reach one Chinese-speaking person.
+
+    > *   NYPD estimates $3M has been stolen from this roboscam.
+  card_citation: ''
+card_10:
+  card_text: >-
+    The law can't catch up with tech, but prosecutions are up. In May, the FCC
+    slapped a $120M fine on a man who made nearly 100M robocalls from 2015 -
+    2016. FCC said it was "one of the largest - and most dangerous - illegal
+    robocalling campaigns" ever.
+
+
+    [view sources](https://smarthernews.com/18-07-27-spam-calls/)
+  card_citation: ''
+
+---
+*   **National Do Not Call Registry Data Book for Fiscal Year 2017:**  
+    [https://www.ftc.gov/reports/national-do-not-call-registry-data-book-fiscal-year-2017](https://www.ftc.gov/reports/national-do-not-call-registry-data-book-fiscal-year-2017)
+*   **Robocall Index:**  
+    [https://robocallindex.com/history/time](https://robocallindex.com/history/time)
+*   **States Try to Silence Robocalls, But They”re Worse Than Ever:**  
+    [www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/07/25/states-try-to-silence-robocalls-but-theyre-worse-than-ever](http://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2018/07/25/states-try-to-silence-robocalls-but-theyre-worse-than-ever)
+*   **Why Your Phone Gets So Many Spam Calls, And How To Stop Them:**  
+    [https://www.popularmechanics.com/technology/security/a19876351/spam-calls-cell-phone/](https://www.popularmechanics.com/technology/security/a19876351/spam-calls-cell-phone/)
+*   **Chinese Robocalls Bombarding The U.S. Are Part Of An International Phone Scam:** [https://www.npr.org/2018/05/10/609117134/chinese-robocalls-bombarding-the-u-s-are-part-of-an-international-phone-scam](https://www.npr.org/2018/05/10/609117134/chinese-robocalls-bombarding-the-u-s-are-part-of-an-international-phone-scam)
+*   **FCC makes $120M robocall fine for Florida man official:**  
+    [https://www.cnet.com/news/fcc-makes-120-million-robocall-fine-for-florida-man-official/](https://www.cnet.com/news/fcc-makes-120-million-robocall-fine-for-florida-man-official/)

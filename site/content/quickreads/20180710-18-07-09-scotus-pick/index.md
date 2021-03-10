@@ -1,0 +1,89 @@
+---
+title: 18.07.09 Scotus Pick
+description: ''
+aliases:
+  - 18-07-09-scotus-pick/
+published: true
+date: '2018-07-10T11:49:54+00:00'
+publishDate: '2018-07-10T11:49:54+00:00'
+lastmod: ''
+tags: []
+post_author: []
+section: quickreads
+card_series: from the president’s desk
+color_palette_classname: dark-gray
+background_image: ''
+card_1:
+  card_text: >-
+    Pres. Trump’s Pick for the Supreme Court:  
+      
+      
+      
+    JUDGE BRETT KAVANAUGH
+
+    ==========================================================================
+
+
+    Pres. Trump nominated Justice Anthony Kennedy’s former law clerk to fill his
+    seat.
+  card_citation: ''
+card_2:
+  card_text: "Brett Kavanaugh: The Man\n------------------------\n\n*   53-year-old Catholic\n*   Lead author of the ‘Starr Report’, which led to the impeachment of Pres. Bill Clinton\n*   Part of the legal team that helped George W. Bush secure the White House in 2000\n*   Met his wife at the White House one day before 9/11 when was associateA counsel for Pres. Bush\n*   Ran the Boston Marathon twice"
+  card_citation: ''
+card_3:
+  card_text: >-
+    Kavanaugh: The Jurist
+
+    ---------------------
+
+
+    *   “Washington insider” with strong conservative credentials
+
+    *   Served as a judge for 12 years on the DC Circuit Court of Appeals
+
+    *   Authored over 300 opinions, including a ruling against the Affordable
+    Care Act on the basis of religious liberty
+
+    *   Hired by Obama nominee & “liberal” Justice Elena Kagan to teach at
+    Harvard Law School
+  card_citation: ''
+card_4:
+  card_text: >-
+    CRITICS
+
+    -------
+
+
+    **Good Example of What’s To Come**
+
+
+    During the 2006 confirmation hearing following his appointment to the D.C.
+    Circuit of Appeals, Sen. Schumer grilled Kavanaugh over his involvement in
+    Pres. Clinton’s impeachment and his take on _Roe v. Wade._
+
+
+    [Watch It
+    Here](https://www.c-span.org/video/?c4738584/full-schumer-kavanaugh)
+  card_citation: Watch It Here
+card_5:
+  card_text: "So Now What?\n============\n\nRepublicans control the Senate by a 50-49 majority due to Sen. John McCain’s prolonged absence, limiting the impact of any efforts by the Democrats to thwart Trump’s nominee.\n\n[Click: SHN Refresher SCOTUS Process](https://smarthernews.com/18-07-09-scotus-new-justice-pick/)"
+  card_citation: 'Click: SHN Refresher SCOTUS Process'
+card_10:
+  card_text: >-
+    Kavanaugh served as a law clerk for Justice Kennedy alongside Pres. Trump's
+    2017 Supreme Court nominee Neil Gorsuch. Justice Kennedy was appointed by a
+    republican president (Reagan) but was the court's "swing" vote not wedded to
+    one ideology.
+
+
+    [view sources](https://smarthernews.com/18-07-09-scotus-pick/)
+  card_citation: ''
+
+---
+*   **President Donald J. Trump Announces Intent to Nominate Judge Brett M. Kavanaugh to the Supreme Court of the United States:** [https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-intent-nominate-judge-brett-m-kavanaugh-supreme-court-united-states/](https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-intent-nominate-judge-brett-m-kavanaugh-supreme-court-united-states/)
+*   **President Trump’s Supreme Court Pick: Brett Kavanaugh:**  
+    [www.politifact.com/truth-o-meter/article/2018/jul/09/president-trumps-supreme-court-pick-kavanaugh/](http://www.politifact.com/truth-o-meter/article/2018/jul/09/president-trumps-supreme-court-pick-kavanaugh/)
+*   **Brett Kavanaugh followed unorthodox path to Trump”s Supreme Court shortlist:**  
+    [https://www.seattletimes.com/nation-world/nation-politics/wapokavanaugh-follows-unorthodox-path-to-trump-s-supreme-court-shortlist/](https://www.seattletimes.com/nation-world/nation-politics/wapokavanaugh-follows-unorthodox-path-to-trump-s-supreme-court-shortlist/)
+*   **Trump Picks Brett Kavanaugh, Conservative Stalwart on DC Circuit, for Supreme Court:**  
+    [https://www.law.com/texaslawyer/2018/07/09/trump-picks-brett-kavanaugh-conservative-stalwart-on-dc-circuit-for-supreme-court/](https://www.law.com/texaslawyer/2018/07/09/trump-picks-brett-kavanaugh-conservative-stalwart-on-dc-circuit-for-supreme-court/)

@@ -1,0 +1,56 @@
+---
+title: 18.05.17 Quick Quotes
+description: ''
+aliases:
+  - 18-05-17-quick-quotes/
+published: true
+date: '2018-05-17T10:00:33+00:00'
+publishDate: '2018-05-17T10:00:33+00:00'
+lastmod: '2018-05-17T03:02:16+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: now you know
+color_palette_classname: dark-purple
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/04/levi-guzman-268866-unsplash-scaled.jpg
+card_1:
+  card_text: >-
+    QUICK QUOTES
+
+    ------------
+
+
+    > **“Success for women shouldn’t only be measured in terms of how many
+    nominations they win or seats they gain in November.”**
+
+    > 
+
+    > Kelly Dittmar, Gender Watch 2018 project director to Newsweek, on
+    Tuesday's primary election results, which indicate women candidates have a
+    good chance to change the political landscape in states like PA & ID.
+  card_citation: ''
+card_2:
+  card_text: "> “We want people to come into our country based on merit. We’re not looking to keep them out. We’re looking to bring them in. We need them.”\n> \n> Pres. Trump, speaking at the May 16 California Sanctuary State Roundtable discussion, on why he favors a merit-based immigration system."
+  card_citation: ''
+card_3:
+  card_text: >-
+    > “… in 2016 expenses were incurred by one of Donald J. Trump’s attorneys,
+    Michael Cohen. Mr. Cohen sought reimbursement of those expenses and Mr.
+    Trump fully reimbursed Mr. Cohen in 2017.”
+
+    > 
+
+    > Pres. Trump's newly filed 2017 annual financial disclosure report revealed
+    he reimbursed his attorney an unspecified amount - widely believed to be the
+    infamous payment to Stormy Daniels - raising further questions about when
+    and what he knew of the payment.
+  card_citation: ''
+card_10:
+  card_text: '[view sources](https://smarthernews.com/18-05-17-quick-quotes/)'
+  card_citation: ''
+
+---
+*   **Pennsylvania Has Zero Women in Congress but That Could Change Dramatically in November:** [www.newsweek.com/women-candidates-pennsylvania-state-female-members-congress-927889](http://www.newsweek.com/women-candidates-pennsylvania-state-female-members-congress-927889)
+*   **Remarks by President Trump at a California Sanctuary State Roundtable:** [https://www.whitehouse.gov/briefings-statements/remarks-president-trump-california-sanctuary-state-roundtable/](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-california-sanctuary-state-roundtable/)
+*   **Trump financial form discloses Stormy Daniels debt payment to Cohen:** [https://www.nbcnews.com/nightly-news/video/trump-financial-form-discloses-stormy-daniels-debt-payment-to-cohen-1235520067991](https://www.nbcnews.com/nightly-news/video/trump-financial-form-discloses-stormy-daniels-debt-payment-to-cohen-1235520067991)

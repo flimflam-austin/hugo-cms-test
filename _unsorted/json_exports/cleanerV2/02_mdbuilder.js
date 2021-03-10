@@ -1,6 +1,7 @@
 const fs = require("fs");
 const yaml = require("js-yaml");
 const TurndownService = require("turndown");
+const { pathToFileURL } = require("url");
 const turndown = new TurndownService();
 //
 const quickquoteBuilder = require("./js_mdbuilder_modules/build_quickquotes");
@@ -56,26 +57,50 @@ const trimQuotes = (markdown) => trimOpenQuote(trimCloseQuote(markdown));
 const convertToMarkdown = (string) =>
 	trimQuotes(turndown.turndown(JSON.stringify(string).trim()));
 
-const buildOutput = (jsonFrontmatter) =>
+/* const buildOutput = (jsonFrontmatter) =>
 	`---\n${convertToYaml(jsonFrontmatter.frontmatter).replace(
 		/([\\]*)/g,
 		""
-	)}\n---\n${convertToMarkdown(jsonFrontmatter.body)}`;
+	)}\n---\n${convertToMarkdown(jsonFrontmatter.body)}`; */
 
-const getOutputFilename = (jsonFrontmatter) =>
-	`${CONFIG.dest[jsonFrontmatter.frontmatter.section]}${
-		jsonFrontmatter.fileName
-	}`;
+const scrubSymbols = (string) =>
+	string
+		.replace(/(\\")/g, "")
+		.replace(/(\\_)/g, "_")
+		.replace(/(a\\\\u001c)/g, "")
+		.replace(/(a\\\\u001d)/g, "")
+		.replace(/(a\\x1C)/g, "‘")
+		.replace(/(a\\x1D)/g, "’")
+		.replace(/(a\\x19)/g, "’")
+		.replace(/(a\\\\u0018)/g, "“")
+		.replace(/(a\\\\u0019)/g, "”")
+		.replace(/(a\\\\u0014)/g, "—");
 
-const writeMd = (jsonFrontmatter) =>
-	fs.writeFileSync(
-		getOutputFilename(jsonFrontmatter),
-		buildOutput(jsonFrontmatter),
-		(err) => {
-			if (err) throw err;
-		}
+const buildOutput = (jsonFrontmatter) =>
+	scrubSymbols(
+		`---\n${convertToYaml(
+			jsonFrontmatter.frontmatter
+		)}\n---\n${convertToMarkdown(jsonFrontmatter.body)}`
 	);
 
+const writeMd = (jsonFrontmatter) => {
+	const bundleName = jsonFrontmatter.fileName;
+
+	const bundlePath = `${
+		CONFIG.dest[jsonFrontmatter.frontmatter.section]
+	}${bundleName}`;
+
+	// create bundle directory if it doesn't exist
+	if (!fs.existsSync(bundlePath)) {
+		fs.mkdirSync(bundlePath);
+	}
+
+	const fileName = `${bundlePath}/index.md`;
+
+	fs.writeFileSync(fileName, buildOutput(jsonFrontmatter), (err) => {
+		if (err) throw err;
+	});
+};
 /*  */
 
 const getFilePath = (fileName) => `${CONFIG.src}/${fileName}`;
@@ -99,11 +124,17 @@ const processAndWrite = (fileName) => {
 	const json = getJsonFromFile(fileName);
 
 	const quickquotes =
-		json.contentType === "quickquotes" ? quickquoteBuilder.process(json) : null;
+		json.contentType === "quickquotes"
+			? quickquoteBuilder.process(json)
+			: null;
 	const quickreads =
-		json.contentType === "quickreads" ? quickreadsBuilder.process(json) : null;
+		json.contentType === "quickreads"
+			? quickreadsBuilder.process(json)
+			: null;
 	const videoposts =
-		json.contentType === "videoposts" ? videopostsBuilder.process(json) : null;
+		json.contentType === "videoposts"
+			? videopostsBuilder.process(json)
+			: null;
 
 	const dataToWrite = quickquotes || quickreads || videoposts;
 

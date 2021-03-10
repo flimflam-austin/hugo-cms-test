@@ -1,0 +1,64 @@
+---
+title: 18.06.29 Qq Friday
+description: ''
+aliases:
+  - 18-06-29-qq-friday/
+published: true
+date: '2018-06-29T09:37:20+00:00'
+publishDate: '2018-06-29T09:37:20+00:00'
+lastmod: '2019-09-05T21:44:46+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: quotes
+color_palette_classname: light-yellow
+background_image: https://smarthernews.com/wp-content/uploads/2018/02/michael-271900-360x360.jpg
+card_1:
+  card_text: >-
+    > “If you have evidence of wrongdoing by any member of the Trump campaign,
+    present it to the damn grand jury. If you have evidence that this President
+    acted inappropriately, present it to the American people… Whatever you got,
+    finish it the hell up because this country is being torn apart.”
+
+    > 
+
+    > House Oversight Committee Chairman Trey Gowdy (R-SC) to Acting Deputy
+    Attorney General Rod Rosenstein during a hearing on the Mueller probe.
+  card_citation: ''
+card_2:
+  card_text: >-
+    > “There is nothing more terrifying than hearing multiple people get shot
+    while you’re under your desk and then hear the gunman reload.”
+
+    > 
+
+    > Phil Davis, police reporter for the Capital Gazette in Annapolis,
+    Maryland, in a tweet about the mass shooting that took place at his office,
+    which left five people dead and dozens others gravely injured.
+  card_citation: ''
+card_3:
+  card_text: "> ‘Infrastructure improvements continue at Yongbyon.A Underscores reason why an actual deal is necessary, not just a statement of lofty goals.”\n> \n> Jenny Town, 38 North managing editor in a tweet. 38 North, a US-based group monitoring N. Korea's nuclear operations, says the rapid upgrades to a nuke site show its business as usual until Pyongyang issues orders otherwise. Pres. Trump & Kim Jong Un agreed to denuclearization 2 weeks ago."
+  card_citation: ''
+card_4:
+  card_text: "> ‘We cannot lose even one inch of the territory left behind by our ancestors.”\n> \n> President Xi Jinping of China on South China Sea in a meeting with Defense Secretary Jim Mattis. Secy Mattis hoped to start a conversation, but China was firm it will not yield in its expanding military occupation of the disputed territory.\n\n[SMARTHER Refresher](https://smarthernews.com/18-06-11-china-mischief/)"
+  card_citation: SMARTHER Refresher
+card_5:
+  card_text: "> ‘I’m proud to have been arrested with them to put myself in the camp of people who believe that the United States of America is better and as a member of Congress I refuse to let this President and this administration do what they’re doing to children, to parents, to asylum seekers in my name.’\n> \n> Rep. Pramila Jayapal (D-WA), one of 500+ protesters arrested during a #WomenDisobey rally in D.C. against President Trump's immigration policies."
+  card_citation: ''
+card_10:
+  card_text: |-
+    Have a wonderful weekend!
+
+    [view sources](https://smarthernews.com/18-06-29-qq-friday/)
+  card_citation: ''
+
+---
+*   **Gowdy on Mueller Probe: “Whatever You Got, Finish It The Hell Up”:**A [https://www.realclearpolitics.com/video/2018/06/28/gowdy_to_mueller_whatever_you_got_finish_it_the_hell_up.html](https://www.realclearpolitics.com/video/2018/06/28/gowdy_to_mueller_whatever_you_got_finish_it_the_hell_up.html)
+*   **Phil Davis Twitter:**  
+    [https://twitter.com/PhilDavis_CG/status/1012422058972676097](https://twitter.com/PhilDavis_CG/status/1012422058972676097)
+*   **North Korea making ‘rapid’ improvements to nuclear reactor despite Trump-Kim agreement:**  
+    [https://www.cnbc.com/2018/06/27/north-korea-making-rapid-improvements-to-nuclear-reactor-despite-tru.html](https://www.cnbc.com/2018/06/27/north-korea-making-rapid-improvements-to-nuclear-reactor-despite-tru.html)
+*   **China Won”t Yield “Even One Inch” of South China Sea, Xi Tells Mattis:**
+*   [https://www.nytimes.com/2018/06/27/world/asia/mattis-xi-china-sea.html](https://www.nytimes.com/2018/06/27/world/asia/mattis-xi-china-sea.html)
+*   **Rep. Pramila Jayapal Twitter:**  
+    [https://twitter.com/RepJayapal/status/1012430012916658177](https://twitter.com/RepJayapal/status/1012430012916658177)

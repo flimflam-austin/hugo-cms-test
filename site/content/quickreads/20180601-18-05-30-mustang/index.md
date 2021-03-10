@@ -1,0 +1,64 @@
+---
+title: 18.05.30 Mustang
+description: ''
+aliases:
+  - 18-05-30-mustang/
+published: true
+date: '2018-06-01T10:45:19+00:00'
+publishDate: '2018-06-01T10:45:19+00:00'
+lastmod: ''
+tags: []
+post_author: []
+section: quickreads
+card_series: money
+color_palette_classname: medium-gray
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/05/darren-nunis-445861-unsplash-scaled.jpg
+card_1:
+  card_text: >-
+    ONE-TRICK PONY?
+
+    ===============
+
+
+    Ford will stop making passenger cars to focus only on top-performing SUVs &
+    trucks — with **one exception: The Mustang.**
+
+
+    Flip: Why
+  card_citation: 'Flip: Why'
+card_2:
+  card_text: >-
+    Ford kept the “modestly profitable” Mustang largely due to **drivers’
+    emotional connection** – which the automaker describes as “**freedom**.”
+
+
+    *   Introduced in 1964, the Mustang is world’sA **#1 selling sports car.**
+
+    *   While sports cars skew male,A **27% of Mustang buyers are female.**
+
+    *   **Fun fact:** Mustang’s 1st movie appearance was James Bond’s
+    “Goldfinger.”
+  card_citation: ''
+card_3:
+  card_text: "> ‘The Mustang is like Rocky: It survived the 1970s fuel crisis, the glam 1980s, the move to S.U.V.s. It’s made it through every round of cuts.’\n> \n> James Farley Jr., Ford’s President of Global Markets\n\nFLIP: End of the road for sedans?"
+  card_citation: 'FLIP: End of the road for sedans?'
+card_10:
+  card_text: >-
+    Say goodbye to Ford's full-size Taurus, midsize Fusion, and subcompact
+    Fiesta... but is the passenger car dead? And what happens when/if gas prices
+    climb towards $4/gallon... Read more here:
+
+
+    [view sources](https://smarthernews.com/18-05-30-mustang/)
+  card_citation: ''
+
+---
+*   ****“Mustang Means Freedom”: Why Ford is Saving an American Icon:  
+    ****[https://www.nytimes.com/2018/05/24/business/ford-mustang-american-icon.html](https://www.nytimes.com/2018/05/24/business/ford-mustang-american-icon.html)
+*   **Cars aren’t dead yet despite Ford killing Fusion, Taurus:A** [https://www.usatoday.com/story/money/cars/2018/04/26/cars-arent-dead-yet-despite-ford-killing-fusion-taurus/555322002/](https://www.usatoday.com/story/money/cars/2018/04/26/cars-arent-dead-yet-despite-ford-killing-fusion-taurus/555322002/)  
+    _The U.S. Energy Information Administration forecasts that U.S. regular gas retail prices will average $2.74 per gallon through September, up from $2.41 per gallonA last summer. CNBC reported this week that gas prices are at a three-year high.  
+    __**Robert Weissman, president of advocacy group Public Citizen, accused Ford CEO Jim Hackett of “driving his company off a cliff.” Weissman said fluctuating gas prices are a potential danger.**  
+    _**_“The Big Three automakers drove themselves to the brink of collapse with their failure to plan for the inevitable rise in gasoline prices. Now Ford is repeating the error, in a shortsighted and destructive move that will harm consumers, shareholders and the planet,” according to a statement from Weissman.  
+    _**_But someA analysts said that worries about gas prices’ effect on larger vehicles may not have the resonance now that it did.__That’s in part because many bigger vehicles are more fuel efficient than in the past.  
+    _**_“This strategy is not as risky as it once was since these SUVs are built on car platforms, which make them cheaper to produce and can have fuel efficiency numbers which … rival small cars,” said Jessica Caldwell,A analyst for car sales site Edmunds.com. “As automakers like Ford work to increase their offerings of hybrid-electric (cars) … fuel economy will become less of a worry.”_**

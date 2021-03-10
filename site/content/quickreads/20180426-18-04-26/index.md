@@ -1,0 +1,45 @@
+---
+title: 18.04.26 One Minute with the Sign Guys
+description: ''
+aliases:
+  - 18-04-26/
+published: true
+date: '2018-04-26T18:13:20+00:00'
+publishDate: '2018-04-26T18:13:20+00:00'
+lastmod: '2018-04-26T18:19:15+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: one minute with
+color_palette_classname: light-yellow
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/04/30072960_170005083713955_3162654663115191996_o.jpg
+card_1:
+  card_text: >-
+    2 Americans Who Want To Change The World…
+
+    -----------------------------------------
+
+
+    **…one sign at a time.**
+
+
+    [Watch
+    Now](https://www.youtube.com/embed/od7KTuFACd0?enablejsapi=1&autoplay=1&rel=0)
+  card_citation: Watch Now
+card_10:
+  card_text: >-
+    We loved talking to Greg Amaral and Wendell Walker about their passion to
+    make a difference in this world! Special thanks to photographer Craig
+    Michaud for his amazing photos. Read more of their story:
+
+
+    [view sources](https://smarthernews.com/18-04-26/)
+  card_citation: ''
+
+---
+**Find “The Sign Guys” here:A [https://www.facebook.com/Nashuasignguys/](https://www.facebook.com/Nashuasignguys/)**
+
+**Nashua Men Spread Good Vibes With Signs**A [https://patch.com/new-hampshire/nashua/nashua-men-spread-good-vibes-signs](https://patch.com/new-hampshire/nashua/nashua-men-spread-good-vibes-signs)
+
+**2 men use signs to spread happiness**A [https://www.seattletimes.com/nation-world/new-hampshire-men-spread-positive-message-with-signs/](https://www.seattletimes.com/nation-world/new-hampshire-men-spread-positive-message-with-signs/)

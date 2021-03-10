@@ -1,0 +1,75 @@
+---
+title: 18.06.21 Qq Thursday
+description: ''
+aliases:
+  - 18-06-21-qq-thursday/
+published: true
+date: '2018-06-21T09:00:13+00:00'
+publishDate: '2018-06-21T09:00:13+00:00'
+lastmod: '2019-09-05T21:44:46+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: quotes
+color_palette_classname: light-yellow
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/02/roger-hoyles-318739-unsplash-360x360.jpg
+card_1:
+  card_text: >-
+    > “Trump is playing chicken with China. It will be important and telling to
+    see how this plays out.”
+
+    > 
+
+    > Ray Dalio, founder of hedge fund Bridgewater Associates, on a possible
+    trade war with China. Pres. Trump is threatening $200B in tariffs on Chinese
+    goods, in addition to $50B in tariffs already imposed. Last month, Dalio has
+    said a trade war with China would be a "tragedy."
+  card_citation: ''
+card_2:
+  card_text: >-
+    > “To watch those families broken apart in real time puts to us a very
+    simple question: are we a nation that accepts the cruelty of ripping
+    children from their parents’ arms, or are we a nation that values families,
+    and works to keep them together?”
+
+    > 
+
+    > Pres. Obama, Facebook, for the first time on U.S. immigration
+    zero-tolerance border policy. His administration cared for unaccompanied
+    children identical to "separated" children now. However, his challenge was
+    children WITHOUT adults - no separation required.
+  card_citation: ''
+card_3:
+  card_text: "> “In obedience I accept the decision of The Holy See, that I no longer exercise any public ministry.”\n> \n> Cardinal Theodore McCormick, former archbishop of Washington, on his removal from ministry after a teenager's sex abuse allegation while he was in New York almost 50 years ago. McCarrick served as D.C.’s archbishop from 2001 to 2006."
+  card_citation: ''
+card_4:
+  card_text: "> “…my parents are abusive. They abuse us, and my two little sisters right now are chained up.’\n> \n> 17-year-old daughter of David & Louise Turpin to 911 dispatch. Her parents are accused of holding their 13 children captive in a house of horrors. Mr. & Mrs. Turpin have pleaded not guilty to more than 40 charges including torture, child abuse & false imprisonment. They are being held on $12M bail each."
+  card_citation: ''
+card_5:
+  card_text: >-
+    > “It’s mobile first. It’s simple and it’s quality. That’s IGTV.”
+
+    > 
+
+    > Instagram CEO Kevin System announcing its new video hub capable of hosting
+    vertical videos as long as one hour. IGTV, a direct challenge to YouTube, is
+    available now on iPhone & Android devices.
+  card_citation: ''
+card_10:
+  card_text: '[view sources](https://smarthernews.com/18-06-21-qq-thursday/)'
+  card_citation: ''
+
+---
+*   **Ray Dalio on China Trade Wars:**  
+    [https://twitter.com/raydalio/status/1009489065736065024?s=11](https://twitter.com/raydalio/status/1009489065736065024?s=11)  
+    **Ray Dalio: Trade war with China would be a ‘tragedy’ (FROM MAY):A**  
+    [https://www.cnbc.com/2018/03/05/ray-dalio-trade-war-with-china-would-be-a-tragedy.html](https://www.cnbc.com/2018/03/05/ray-dalio-trade-war-with-china-would-be-a-tragedy.html)
+*   **President Obama on Facebook:**  
+    [https://www.facebook.com/barackobama/posts/10155952276261749](https://www.facebook.com/barackobama/posts/10155952276261749)
+*   **Cardinal McCormick, former archbishop of Washington, accused of sexual abuse and removed from ministry:**  
+    [https://www.washingtonpost.com/news/acts-of-faith/wp/2018/06/20/cardinal-theodore-mccarrick-former-archbishop-of-washington-has-been-removed-from-ministry-after-a-sex-abuse-allegation](https://www.washingtonpost.com/news/acts-of-faith/wp/2018/06/20/cardinal-theodore-mccarrick-former-archbishop-of-washington-has-been-removed-from-ministry-after-a-sex-abuse-allegation)
+*   **Judge hears teen’s 911 call in abused siblings case: ‘My two little sisters right now are chained up’:**  
+    [http://www.latimes.com/local/lanow/la-me-ln-turpin-prelim-20180619-story.html](http://www.latimes.com/local/lanow/la-me-ln-turpin-prelim-20180619-story.html)
+*   **Instagram’s new YouTube killer looks promising but doesn’t have much in it yet:**  
+    [https://www.cnbc.com/2018/06/20/instagram-tv-first-look.html](https://www.cnbc.com/2018/06/20/instagram-tv-first-look.html)

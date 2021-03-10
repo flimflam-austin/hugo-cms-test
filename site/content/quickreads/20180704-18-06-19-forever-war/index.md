@@ -1,0 +1,88 @@
+---
+title: 18.06.19 Forever War
+description: ''
+aliases:
+  - 18-06-19-forever-war/
+published: true
+date: '2018-07-05T02:47:27+00:00'
+publishDate: '2018-07-05T02:47:27+00:00'
+lastmod: ''
+tags: []
+post_author: []
+section: quickreads
+card_series: now you know
+color_palette_classname: dark-gray
+background_image: https://smarthernews.com/wp-content/uploads/2018/05/vehicle-3104459_640.jpg
+card_1:
+  card_text: >-
+    “THE FOREVER WAR”
+
+    =================
+
+
+    Revelations about new U.S. soldier deaths in places like Niger & Somalia and
+    strikes in Syria have lawmakers questioning use of a nearly 17-year-old law.
+
+
+    how long is too long?
+  card_citation: how long is too long?
+card_2:
+  card_text: "Background\n----------\n\n*   AUMF = Authorization for Use of Military Force\n*   AUMF became public law on Sept. 18, 2001 after 9/11 attacks.\n*   Allows president to use ‘all necessary & appropriate forces against’ terrorists who committed or aided in 9/11 attacks a\x13 particularly, Al Qaeda & Taliban.\n\nsounds reasonable..."
+  card_citation: sounds reasonable...
+card_3:
+  card_text: >-
+    What’s the Controversy?
+
+    -----------------------
+
+
+    *   Nearly 17 years later, AUMF is still being used, allowing Presidents
+    Bush, Obama, & Trump to also fight _other_ terrorists around world.
+
+    *   America’s war on terror now stretches to no less than 76 countries (39%
+    of the planet).
+
+    *   Lawmakers: time to take war off “autopilot.”
+
+
+    [Click: Fascinating
+    Map](http://watson.brown.edu/costsofwar/files/cow/imce/papers/Current%20US%20Counterterror%20War%20Locations_Costs%20of%20War%20Project%20Map.pdf)
+  card_citation: 'Click: Fascinating Map'
+card_4:
+  card_text: >-
+    Bipartisan AUMF Proposal  
+
+    from Sens. Corker (R-TN) & Kaine (D-VA)
+
+    ------------------------------------------------------------------
+
+
+    *   Broadly, it says a president can’t engage in prolonged or repeated
+    incursions without consulting Congress on broader strategy.
+
+    *   Critics say it flips Constitution, requires 2/3rds to _disapprove_ war.
+
+    *   Fate unclear; Congress looks to avoid messy debate before midterms.
+  card_citation: ''
+card_10:
+  card_text: >-
+    In a separate study, released in November, Costs of War Project estimated
+    the war on terror's price tag (with some future expenses included) has
+    reached $5.6T - which some may argue is worth every penny. Click to read
+    more & you decide.
+
+
+    [view sources](https://smarthernews.com/18-06-19-forever-war/)
+  card_citation: ''
+
+---
+*   **Congress May Declare the Forever War:A**  
+    [https://www.theatlantic.com/politics/archive/2018/06/congress-may-declare-the-forever-war/562175/](https://www.theatlantic.com/politics/archive/2018/06/congress-may-declare-the-forever-war/562175/)
+*   **Brown University”s Watson Institute for International and Public Affairs Costs of War Project:  
+    **[http://watson.brown.edu/costsofwar/](http://watson.brown.edu/costsofwar/)****PLUS, Map Current U.S. Counterterror War Locations:A**** [http://watson.brown.edu/costsofwar/files/cow/imce/papers/Current%20US%20Counterterror%20War%20Locations_Costs%20of%20War%20Project%20Map.pdf](http://watson.brown.edu/costsofwar/files/cow/imce/papers/Current%20US%20Counterterror%20War%20Locations_Costs%20of%20War%20Project%20Map.pdf)**A**
+*   **Senators introduce new war powers resolution (from April):**  
+    [https://www.apnews.com/e51cd993941e4240b9b7999647647fa8](https://www.apnews.com/e51cd993941e4240b9b7999647647fa8)
+*   **‘Enemy attack’ in Somalia leaves 1 US soldier dead, 4 wounded:**  
+    [http://www.foxnews.com/world/2018/06/09/1-us-soldier-killed-4-wounded-in-somalia-attack.html](http://www.foxnews.com/world/2018/06/09/1-us-soldier-killed-4-wounded-in-somalia-attack.html)
+*   **“An Endless War”: Why 4 U.S. Soldiers Died in a Remote African Desert:  
+    **[https://www.nytimes.com/interactive/2018/02/17/world/africa/niger-ambush-american-soldiers.html](https://www.nytimes.com/interactive/2018/02/17/world/africa/niger-ambush-american-soldiers.html)

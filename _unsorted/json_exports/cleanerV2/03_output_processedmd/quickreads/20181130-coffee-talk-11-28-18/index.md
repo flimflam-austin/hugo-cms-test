@@ -1,0 +1,35 @@
+---
+title: Coffee Talk 11/28/18
+description: ''
+aliases:
+  - coffee-talk-11-28-18/
+published: true
+date: '2018-11-28T16:15:50+00:00'
+publishDate: '2018-11-28T16:15:50+00:00'
+lastmod: '2018-12-01T03:00:42+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: coffee talk
+color_palette_classname: light-green
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/06/brigitte-tohm-388992-unsplash-scaled.jpg
+card_1:
+  card_text: >-
+    November 28, 2018
+
+
+    [Watch
+    Now](https://www.youtube.com/embed/3El6tb9rRSY?enablejsapi=1&autoplay=1&rel=0)
+  card_citation: Watch Now
+card_10:
+  card_text: |-
+    Have A Great Day!
+
+    [view sources](https://smarthernews.com/coffee-talk-11-28-18/)
+  card_citation: ''
+
+---
+{{< youtube 3El6tb9rRSY >}}
+
+{{< youtube 3El6tb9rRSY >}}

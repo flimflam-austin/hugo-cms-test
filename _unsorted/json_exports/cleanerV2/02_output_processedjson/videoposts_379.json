@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2018/12/pablo-merchan-montes-772123-unsplash-1-min-scaled-e1596031949988.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"The Power Of A Thank You\" src=\"https://www.youtube.com/embed/N7TJZsE5Jqw?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> <p>Read More Here: <a href=\"https://smarthernews.com/the-science-of-giving-thanks/\">SmartHER Gratitude</a></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"The Power Of A Thank You\" src=\"https://www.youtube.com/embed/N7TJZsE5Jqw?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube N7TJZsE5Jqw &gt;}}</div></div><p></p> <p>Read More Here: <a href=\"https://smarthernews.com/the-science-of-giving-thanks/\">SmartHER Gratitude</a></p> ",
   "contentType": "videoposts"
 }

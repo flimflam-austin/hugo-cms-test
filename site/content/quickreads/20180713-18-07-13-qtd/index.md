@@ -1,0 +1,37 @@
+---
+title: 18.07.13 Qtd
+description: ''
+aliases:
+  - 18-07-13-qtd/
+published: true
+date: '2018-07-13T16:43:03+00:00'
+publishDate: '2018-07-13T16:43:03+00:00'
+lastmod: '2018-07-13T16:54:26+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: quote of the day
+color_palette_classname: dark-pink
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/07/carli-jeen-365-unsplash-scaled.jpg
+card_1:
+  card_text: >-
+    > _“Let us not take ourselves too seriously. None of us has a monopoly of
+    wisdom.”_
+
+
+    Queen Elizabeth II
+  card_citation: Queen Elizabeth II
+card_10:
+  card_text: >-
+    President Trump, joined by his wife, met Queen Elizabeth for tea Friday
+    during his European trip. Queen Elizabeth has met with every U.S. President
+    since 1951 - except for Pres. Johnson.
+
+
+    [view sources](https://smarthernews.com/18-07-13-qtd/)
+  card_citation: ''
+
+---
+*   **Here’s How Every Meeting Between the Queen and a U.S. President WentA [http://time.com/5333083/queen-elizabeth-trump-visit-presidents/](http://time.com/5333083/queen-elizabeth-trump-visit-presidents/)**
+*   **Watch the Queen’s Address from 1991**:A [https://www.c-span.org/video/?23665-1/queens-christmas-address](https://www.c-span.org/video/?23665-1/queens-christmas-address)

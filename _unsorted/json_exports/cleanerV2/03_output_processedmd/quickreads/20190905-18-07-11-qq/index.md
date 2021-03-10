@@ -1,0 +1,59 @@
+---
+title: 18.07.11 Qq
+description: ''
+aliases:
+  - 18-07-11-qq/
+published: true
+date: '2018-07-11T03:15:54+00:00'
+publishDate: '2018-07-11T03:15:54+00:00'
+lastmod: '2019-09-05T21:44:46+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: quotes
+color_palette_classname: light-purple
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/04/512px-President_Trump_gives_remarks_at_the_National_Rifle_Association_Leadership_Forum.png
+card_1:
+  card_text: >-
+    > “We pay far too much and they pay far too little, but we’ll work it out.”
+
+    > 
+
+    > Pres. Trump Tuesday ahead of the NATO summit which begins Wednesday in
+    Brussels, Belgium. He's expected to push member nations to pay more on
+    defense. So far this year, only 5 of 29 countries have spent 2% of GDP on
+    defense - the NATO standard.
+  card_citation: ''
+card_2:
+  card_text: >-
+    > “Dear America, appreciate your allies, after all you don’t have that many.
+    And dear Europe, spend more on your defense.”
+
+    > 
+
+    > European Council President Donald Tusk in response to President Trump's
+    claims the US is being "taken advantage of" by other NATO members.
+  card_citation: ''
+card_3:
+  card_text: "> ‘He is recovering at his home and will be fine.”\n> \n> George Clooney's spokesman Stan Rosenfield after the actor slammed his motorbike into an oncoming car that turned suddenly into his lane on the Italian island of Sardinia. Clooney was thrown several yards in the air. The 57-year-old was heading to a film set when the accident happened."
+  card_citation: ''
+card_4:
+  card_text: "> “We’ve made the difficult decision to discontinue serving peanuts on all flights…”\n> \n> Citing allergy concerns, Southwest Airlines announced it will stop serving peanuts on all flights starting August 1st. Severe allergic reactions to food are the cause of 150 deaths a year in the US & 2,000 hospitalizations, according to the FDA."
+  card_citation: ''
+card_10:
+  card_text: |-
+    Have a great day!
+
+    [view sources](https://smarthernews.com/18-07-11-qq/)
+  card_citation: ''
+
+---
+*   **President Trump’s Remarks via the White House:**  
+    [https://www.whitehouse.gov/briefings-statements/remarks-president-trump-marine-one-departure-9/](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-marine-one-departure-9/)
+*   **“Dear America, appreciate your allies. After all, you don”t have that many,“ E.U. leader warns Trump:**  
+    [https://www.bbc.com/news/world-europe-44780489](https://www.bbc.com/news/world-europe-44780489)
+*   **Video shows moment of Clooney Crash, actor thrown in air:**  
+    [https://apnews.com/c30cd47b6c36483899d347a9be7f403d/Video-shows-moment-of-Clooney-crash,-actor-thrown-in-air](https://apnews.com/c30cd47b6c36483899d347a9be7f403d/Video-shows-moment-of-Clooney-crash,-actor-thrown-in-air)
+*   **Southwest Airlines will stop serving peanuts this summer, citing allergy worries:**  
+    [https://www.cnbc.com/2018/07/09/southwest-airlines-is-getting-rid-of-peanuts.html](https://www.cnbc.com/2018/07/09/southwest-airlines-is-getting-rid-of-peanuts.html)

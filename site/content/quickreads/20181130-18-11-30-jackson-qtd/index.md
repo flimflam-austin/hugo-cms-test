@@ -1,0 +1,30 @@
+---
+title: 'Quote of the Day: Michael Jackson'
+description: "A\x1Cnever forget where your talent came from, that your talent is a gift from god.’"
+aliases:
+  - 18-11-30-jackson-qtd/
+published: true
+date: '2018-11-30T12:33:48+00:00'
+publishDate: '2018-11-30T12:33:48+00:00'
+lastmod: ''
+tags: []
+post_author: []
+section: quickreads
+card_series: quote of the day
+color_palette_classname: dark-gray
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/03/adrian-korte-76051-unsplash-scaled.jpg
+card_1:
+  card_text: "> _‘Never forget where your talent came from, that your talent is a gift from God.’_\n\nMICHAEL JACKSON"
+  card_citation: MICHAEL JACKSON
+card_10:
+  card_text: "Michael Jackson recalling what Ed Sullivan told him during their first meeting. On this day, in 1982, the Thriller album debuted - a worldwide sensation. Only in August this year, the Eagles’ Greatest Hits topped it as the best-selling album of all time.\n\n[view sources](https://smarthernews.com/18-11-30-jackson-qtd/)"
+  card_citation: ''
+
+---
+*   **Michael Jackson’s Thriller at 30 (From 2012):**  
+    [https://www.billboard.com/articles/news/473938/michael-jacksons-thriller-at-30-classic-track-by-track-review](https://www.billboard.com/articles/news/473938/michael-jacksons-thriller-at-30-classic-track-by-track-review)
+*   **The Eagles” Greatest Hits Surpasses Michael Jackson”s “Thriller” as Best-Selling Album:**  
+    [https://variety.com/2018/music/news/the-eagles-greatest-hits-surpasses-michael-jacksons-thriller-as-best-selling-album-1202911115/](https://variety.com/2018/music/news/the-eagles-greatest-hits-surpasses-michael-jacksons-thriller-as-best-selling-album-1202911115/)
+*   **Moonwalk by Michael Jackson:**  
+    [https://books.google.com/books?id=whzu2CkgLqIC&printsec=frontcover#v=onepage&q&f=false](https://books.google.com/books?id=whzu2CkgLqIC&printsec=frontcover#v=onepage&q&f=false)

@@ -1,0 +1,30 @@
+---
+title: 18.06.17 Qq
+description: ''
+aliases:
+  - 18-06-17-qq/
+published: true
+date: '2018-06-18T11:02:18+00:00'
+publishDate: '2018-06-18T11:02:18+00:00'
+lastmod: '2019-09-05T21:44:46+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: quotes
+color_palette_classname: light-purple
+background_image: ''
+card_10:
+  card_text: '[view sources](https://smarthernews.com/18-06-17-qq/)'
+  card_citation: ''
+
+---
+*   **U.S. & China Expand Trade War as Beijing Matches Trump’s Tariffs:**  
+    [https://www.nytimes.com/2018/06/15/us/politics/us-china-tariffs-trade.html](https://www.nytimes.com/2018/06/15/us/politics/us-china-tariffs-trade.html)
+*   **Seismic Event: Mexico Stuns Germany at the World Cup:**  
+    [https://www.nytimes.com/2018/06/17/sports/world-cup/mexico-germany-score.html](https://www.nytimes.com/2018/06/17/sports/world-cup/mexico-germany-score.html)
+*   **Beyonce & Jay-Z”s “Everything Is Love” Completes a Trilogy Begun with “Lemonade” and “4:44”:  
+    **[https://variety.com/2018/music/news/beyonce-jay-z-everything-is-love-completes-trilogy-lemonade-444-1202848997/](https://variety.com/2018/music/news/beyonce-jay-z-everything-is-love-completes-trilogy-lemonade-444-1202848997/)
+*   **Tom Brady on life after football:  
+    **[http://www.oprah.com/own-supersoulsessions/tom-brady-on-life-after-football-i-think-about-it-more-now_1](http://www.oprah.com/own-supersoulsessions/tom-brady-on-life-after-football-i-think-about-it-more-now_1)
+*   **Cruz edges out Kimmel in charity basketball game in Houston:**  
+    [https://www.houstonchronicle.com/news/houston-texas/houston/article/Cruz-edges-out-Kimmel-in-charity-basketball-game-13000976.php](https://www.houstonchronicle.com/news/houston-texas/houston/article/Cruz-edges-out-Kimmel-in-charity-basketball-game-13000976.php)

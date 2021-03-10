@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2018/09/ella-jardim-669951-unsplash-1-scaled.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"*NEW* JOBS REPORT\" src=\"https://www.youtube.com/embed/UsbHUSkG1mo?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"*NEW* JOBS REPORT\" src=\"https://www.youtube.com/embed/UsbHUSkG1mo?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube UsbHUSkG1mo &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

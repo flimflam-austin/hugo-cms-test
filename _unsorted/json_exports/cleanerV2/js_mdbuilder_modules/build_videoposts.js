@@ -19,7 +19,7 @@ const getImageObject = (jsonData) =>
 const getQuickreadsFrontmatter = (jsonData) =>
 	Object.freeze({
 		section: "videoposts",
-		videoseries: getCategory(jsonData),
+		video_series: getCategory(jsonData),
 		is_breaking_slider: false,
 		is_breaking_dropdown: false,
 		featured_image: getImageObject(jsonData),

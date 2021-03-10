@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2018/02/jorge-alcala-325378-1024x755.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"This Tx Congressman Says He Will Object To The Electoral College Votes For The Sake Of His Grandkids\" src=\"https://www.youtube.com/embed/MvTg-WCk2sg?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"This Tx Congressman Says He Will Object To The Electoral College Votes For The Sake Of His Grandkids\" src=\"https://www.youtube.com/embed/MvTg-WCk2sg?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube MvTg-WCk2sg &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

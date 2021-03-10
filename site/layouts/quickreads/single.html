@@ -14,7 +14,7 @@
                 {{ if .Content }}
                 {{ partial "components/ruledtitle" (dict "_sectionTitle" "sources" "_viewAllLink" "")}}
                 <div class="page-content__body page-content__body--pad-top">
-                    {{ .Content }}
+                    {{ .Content | safeHTML }}
                 </div>
                 {{ end }}
                 {{ partial "components/share" . }}

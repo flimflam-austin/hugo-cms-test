@@ -1,3 +1,5 @@
+const getBody = require("./getEmbedIds").getBody;
+
 const getTitle = (dom) =>
 	dom.window.document.querySelector(".article-content").querySelector("h1")
 		.innerContent;
@@ -18,9 +20,6 @@ const getFeaturedImage = (dom) => {
 		return {};
 	}
 };
-
-const getBody = (dom) =>
-	dom.window.document.querySelector(".article-post").innerHTML;
 
 exports.getVideoData = (dom) =>
 	Object.freeze({

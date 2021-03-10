@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2021/01/IMG_3656-e1610419918232-732x1024.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"A Roadmap For The Week Ahead\" src=\"https://www.youtube.com/embed/a46RdR8BuEU?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> <p>READ MORE: <a href=\"https://smarthernews.com/iran-january-2021/\">Quick SmartHER News stack on Iran</a></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"A Roadmap For The Week Ahead\" src=\"https://www.youtube.com/embed/a46RdR8BuEU?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube a46RdR8BuEU &gt;}}</div></div><p></p> <p>READ MORE: <a href=\"https://smarthernews.com/iran-january-2021/\">Quick SmartHER News stack on Iran</a></p> ",
   "contentType": "videoposts"
 }

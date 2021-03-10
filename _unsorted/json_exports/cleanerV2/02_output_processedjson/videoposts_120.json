@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2020/10/IMG_7308-e1603484044138-1024x1021.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"The Final Presidential Debate\" src=\"https://www.youtube.com/embed/DuwLVsBfVBo?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> <p>Here’s a transcript of the debate: <a href=\"https://www.usatoday.com/story/news/politics/elections/2020/10/23/debate-transcript-trump-biden-final-presidential-debate-nashville/3740152001/\">CLICK HERE</a></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"The Final Presidential Debate\" src=\"https://www.youtube.com/embed/DuwLVsBfVBo?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube DuwLVsBfVBo &gt;}}</div></div><p></p> <p>Here’s a transcript of the debate: <a href=\"https://www.usatoday.com/story/news/politics/elections/2020/10/23/debate-transcript-trump-biden-final-presidential-debate-nashville/3740152001/\">CLICK HERE</a></p> ",
   "contentType": "videoposts"
 }

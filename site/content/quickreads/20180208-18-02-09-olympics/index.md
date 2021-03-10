@@ -1,0 +1,99 @@
+---
+title: 18.02.09 Olympics
+description: ''
+aliases:
+  - 18-02-09-olympics/
+published: true
+date: '2018-02-09T06:01:52+00:00'
+publishDate: '2018-02-09T06:01:52+00:00'
+lastmod: '2018-02-09T05:31:51+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: current events
+color_palette_classname: dark-gray
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/02/michael-browning-14091-360x360.jpg
+card_1:
+  card_text: >-
+    TEAM USA
+
+    ========
+
+
+    244-member team is the **largest** winter Olympic team **in history** (from
+    any nation) and includes:
+
+
+    *   109 women & 135 men
+
+    *   athletes from 31 states
+
+    *   20 fathers & 1 mother
+
+    *   7 sets of siblings
+
+    *   1 married couple
+  card_citation: ''
+card_2:
+  card_text: |-
+    Name To Know:  
+    Kikkan Randall
+    ==============================
+
+    Cross Country Skiing
+    --------------------
+
+    *   She’s the **only** mother on Team USA; Infant son.
+    *   Lives & trains in Anchorage, Alaska.
+    *   4x Olympian; Never earned an Olympic Medal.
+  card_citation: ''
+card_3:
+  card_text: >-
+    WOMEN OLYMPIC FIRSTS:
+
+    ---------------------
+
+
+    **1900:** First time women competed in Olympic games.
+
+
+    **2012:** First time every participating country included a women athlete &
+    the first time women participated in every Olympic game.
+  card_citation: ''
+card_4:
+  card_text: >-
+    TEAM USA WOMEN “FIRSTS”:
+
+    ------------------------
+
+
+    **1900:** Golfer Margaret Abbott is first American woman to win a gold
+    medal.
+
+
+    **2014:**A For the first time, American women outpace the men earning more
+    than half of the team’s medals (58 of 103).
+  card_citation: ''
+card_10:
+  card_text: '[view sources](https://smarthernews.com/18-02-09-olympics/)'
+  card_citation: ''
+
+---
+[U.S. Olympic Committee Announces 242-Member 2018 U.S. Olympic Team](https://www.teamusa.org/News/2018/January/26/US-Olympic-Committee-Announces-242-Member-2018-US-Olympic-Team)
+
+[Team USA Fun Facts](https://www.teamusa.org/PyeongChang-2018-Olympic-Winter-Games/Team-USA/Fun-Facts)
+
+[https://www.kikkan.com/about/](https://www.kikkan.com/about/)
+
+[How the women of the US Olympic team won big and smashed stereotypes](https://www.theguardian.com/sport/2016/aug/23/team-usa-women-olympics-success-rio-2016)
+
+[Women Won the Most Medals for Team USA at the Rio Olympics](https://www.vogue.com/article/american-women-most-medals-rio-olympics-2016)
+
+[A 555-strong U.S. Olympics team includes record 292 women](https://www.reuters.com/article/us-olympics-rio-usa/a-555-strong-u-s-olympics-team-includes-record-292-women-idUSKCN1030YD)
+
+[Who Were The First U.S. Women To Win Olympic Gold In Each Sport?](https://www.teamusa.org/News/2016/March/24/Who-Were-The-First-US-Women-To-Win-Olympic-Gold-In-Each-Sport)
+
+[London 2012: The women’s Olympics?](https://www.cnn.com/2012/08/10/sport/london-olympics-women/index.html)
+
+[Key dates in the history of women in the Olympic Movement](https://www.olympic.org/women-in-sport/background/key-dates)

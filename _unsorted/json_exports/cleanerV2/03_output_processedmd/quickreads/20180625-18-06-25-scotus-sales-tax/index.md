@@ -1,0 +1,66 @@
+---
+title: 18.06.25 Scotus Sales Tax
+description: ''
+aliases:
+  - 18-06-25-scotus-sales-tax/
+published: true
+date: '2018-06-25T09:40:52+00:00'
+publishDate: '2018-06-25T09:40:52+00:00'
+lastmod: ''
+tags: []
+post_author: []
+section: quickreads
+card_series: money
+color_palette_classname: light-green
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/03/mathieu-turle-524977-unsplash-scaled.jpg
+card_1:
+  card_text: >-
+    Your Online Shopping  
+
+    Dollars & Sense
+
+    ======================================
+
+
+    The Supreme Court ruled states can require online sellers to collect sales
+    tax on your purchases – what this means for your family.
+
+
+    Cha-Ching: Why Now?
+  card_citation: 'Cha-Ching: Why Now?'
+card_2:
+  card_text: "What Happened?\n--------------\n\nSome online retailers voluntarily collect sales tax in the 45 states + DC that impose a sales tax, **but many don’t**, placing brick-and-mortar shops at a disadvantage.\n\nThe high court overturned a 1992 ruling prohibiting states from collecting sales tax from out-of-state retailers w/o a ‘physical presence’ in the same state as the buyer."
+  card_citation: ''
+card_3:
+  card_text: "> “The retail industry is changing, and the Supreme Court has acted correctly in recognizing that it’s time for outdated sales tax policies to change as well. This ruling clears the way for a fair and level playing field where all retailers compete under the same sales tax rules whether they sell merchandise online, in-store or both.’\n> \n> National Retail Federation President and CEO Matthew Shay"
+  card_citation: ''
+card_4:
+  card_text: >-
+    What It Means For You:
+
+    ----------------------
+
+
+    *   **Online-only shops might raise their prices to make up for the money
+    they’ll have to pay in sales tax to the states.A** Amazon is unlikely to do
+    so – it’s been collecting sales tax nationwide on most items since 2017.
+
+    *   **States will have more $ to spend internally.** In its decision, the
+    Supreme Court estimated states were losing up to $33B a year.
+  card_citation: ''
+card_10:
+  card_text: >-
+    Stocks for major online retailers like Amazon, Ebay, Overstock and Wayfair
+    all dropped immediately following the ruling, but the lasting impact will
+    take some time to measure.
+
+
+    [view sources](https://smarthernews.com/18-06-25-scotus-sales-tax/)
+  card_citation: ''
+
+---
+*   **Here”s what that Supreme Court sales tax decision means for you:** [https://www.cnbc.com/2018/06/21/heres-what-that-supreme-court-sales-tax-decision-means-for-you.html](https://www.cnbc.com/2018/06/21/heres-what-that-supreme-court-sales-tax-decision-means-for-you.html)
+*   **What the High Court Online Sales Tax Ruling Means for Retailers:** [https://www.bloomberg.com/news/articles/2018-06-21/retailers-have-one-fewer-excuse-as-states-can-tax-online-sales](https://www.bloomberg.com/news/articles/2018-06-21/retailers-have-one-fewer-excuse-as-states-can-tax-online-sales)
+*   **NRF says Supreme Court Sales Tax Ruling Creates ‘Fair and Level Playing Field’ Between Online and Local Retailers:** [https://nrf.com/media/press-releases/nrf-says-supreme-court-sales-tax-ruling-creates-fair-and-level-playing-field](https://nrf.com/media/press-releases/nrf-says-supreme-court-sales-tax-ruling-creates-fair-and-level-playing-field)
+*   **Online Retailers’ Stocks Are Down Following Supreme Court Ruling on Sales Tax:** [fortune.com/2018/06/21/online-shopping-sales-tax/](http://fortune.com/2018/06/21/online-shopping-sales-tax/)

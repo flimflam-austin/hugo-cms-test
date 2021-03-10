@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2018/06/crystal-shaw-515208-unsplash-scaled.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Coffee Talk ☕️ What To Know To Start Your Holiday Week\" src=\"https://www.youtube.com/embed/gelfe-pu8-U?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Coffee Talk ☕️ What To Know To Start Your Holiday Week\" src=\"https://www.youtube.com/embed/gelfe-pu8-U?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube gelfe-pu8-U &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

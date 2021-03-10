@@ -1,0 +1,117 @@
+---
+title: 18.02.22 Who Buys a 100 Mil Apartment
+description: ''
+aliases:
+  - 18-02-22-buys-100-mil-apartment/
+published: true
+date: '2018-02-22T18:30:36+00:00'
+publishDate: '2018-02-22T18:30:36+00:00'
+lastmod: ''
+tags: []
+post_author: []
+section: quickreads
+card_series: money
+color_palette_classname: light-yellow
+background_image: https://smarthernews.com/wp-content/uploads/2018/02/03_thumb.jpg
+card_1:
+  card_text: >-
+    Who Buys A $100,000,000 Apartment?
+
+    ==================================
+
+
+    Answer Revealed
+
+    ---------------
+
+
+    Michael Dell, founder of Dell Technologies, reportedly purchased a
+    record-breaking $100 million apartment in New York City.
+
+
+    WSJ With The Scoop Flip For More
+  card_citation: WSJ With The Scoop Flip For More
+card_2:
+  card_text: |-
+    What Does $100 MIL Buy You?
+    ===========================
+
+    *   Most expensive home ever sold in New York City.
+    *   Penthouse located just off Central Park South in midtown Manhattan.
+    *   6 bedrooms, 6 baths; nearly 11,000 sq feet.
+
+    [Click HERE To Look At Building](https://one57.com/)
+  card_citation: Click HERE To Look At Building
+card_3:
+  card_text: >-
+    Wall Street Journal Says:
+
+    -------------------------
+
+
+    *   Final Sale Price: **$100.47** **million**.
+
+    *   Purchased in 2012 before construction on building finished.
+
+    *   Despite the record-setting price, Michael Dell reportedly hired his
+    architect to “renovate” the penthouse.
+
+    *   Dell and others would NOT confirm ownership; WSJ reporting based on
+    “sources.”
+  card_citation: ''
+card_4:
+  card_text: >-
+    > “I had been warned…not to bring ponies, gerbils, guinea pigs or bunnies to
+    the building, nor to engage in modeling, massage therapy or seminude
+    performances, none of which are allowed.”
+
+    > 
+
+    > Penelope Green detailed her "sleepover" in the skyscraper for The New York
+    Times, Feb 22, 2018
+  card_citation: ''
+card_5:
+  card_text: >-
+    Meanwhile…Back On Earth
+
+    -----------------------
+
+
+    *   Existing Home Sales in U.S. for January = disappointment.
+
+    *   Biggest year-over-year decline in 3 years.
+
+    *   Existing home sales (homes already built) account for nearly 90% of the
+    market.
+
+    *   Low inventory leading to higher prices & slower sales.
+  card_citation: ''
+card_6:
+  card_text: >-
+    Why It Matters
+
+    --------------
+
+
+    *   Real estate market impacts overall economy; local & national.
+
+    *   Moving, furnishing, decorating, replacing appliances, renovations etc.
+    impact many industries.
+
+    *   Recent data is a snapshot of **one** month, but this is why we pay
+    attention – to see if slowing sales becomes a “trend.”
+  card_citation: ''
+card_7:
+  card_text: "> ‘There may be some headwinds ahead for home resales with rising mortgage costs affecting how much the buyer can afford & this could put a damper on existing home sales & take some of the wind out of the economy’s sails.”\n> \n> Chris Rupkey, Economist to Reuters"
+  card_citation: ''
+card_10:
+  card_text: |-
+    The Median Sale Price of An "Existing" Home in America = $240,500
+
+    [view sources](https://smarthernews.com/18-02-22-buys-100-mil-apartment/)
+  card_citation: ''
+
+---
+*   Michael Dell Paid a Record $100.47 Million for Manhattan”s One57 PenthouseA [https://www.wsj.com/articles/michael-dell-paid-a-record-100-47-million-for-manhattans-one57-penthouse-1519304017](https://www.wsj.com/articles/michael-dell-paid-a-record-100-47-million-for-manhattans-one57-penthouse-1519304017)
+*   Clouds in My Coffee!A Supertall Skyscraper SleepoverA [https://www.nytimes.com/interactive/2018/02/22/style/one-57-manhattan-skyscraper-condominiums.html](https://www.nytimes.com/interactive/2018/02/22/style/one-57-manhattan-skyscraper-condominiums.html)
+*   Tight supply, rising prices undercut on U.S. home salesA [https://www.reuters.com/article/us-usa-economy-housing/tight-supply-rising-prices-undercut-on-u-s-home-sales-idUSKCN1G51W1](https://www.reuters.com/article/us-usa-economy-housing/tight-supply-rising-prices-undercut-on-u-s-home-sales-idUSKCN1G51W1)

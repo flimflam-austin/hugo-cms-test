@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2020/06/IMG_0039-scaled-e1591285735137-938x1024.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"The Glorious Cause ~\" src=\"https://www.youtube.com/embed/g-z5mpgfn60?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"The Glorious Cause ~\" src=\"https://www.youtube.com/embed/g-z5mpgfn60?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube g-z5mpgfn60 &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

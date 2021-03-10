@@ -41,7 +41,7 @@
 
                 {{ if .Content }}
                 <div class="page-content__body">
-                    {{ .Content }}
+                    {{ .Content | safeHTML }}
                 </div>
                 {{ end }}
 

@@ -1,0 +1,59 @@
+---
+title: 18.05.25 Quick Quotes
+description: ''
+aliases:
+  - 18-05-25-quick-quotes/
+published: true
+date: '2018-05-25T09:04:13+00:00'
+publishDate: '2018-05-25T09:04:13+00:00'
+lastmod: '2018-05-25T09:36:13+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: now you know
+color_palette_classname: light-yellow
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/05/seth-doyle-154414-unsplash-scaled.jpg
+card_1:
+  card_text: >-
+    QUICK QUOTES
+
+    ------------
+
+
+    > “Straws are a luxury, we do not need straws to have our drinks, and I
+    think it’s an easy step forward where we can have a great impact for our
+    environment.”
+
+    > 
+
+    > Brooklyn City Councilman Rafael Espinal introduced a bill which would ban
+    NYC establishments from providing plastic straws. Several million tons of
+    plastic waste sit in our oceans, but studies show less than 5% consists of
+    straws.
+  card_citation: ''
+card_2:
+  card_text: >-
+    > “Atlantic Hurricane Season Outlook 2018 — 70% likelihood of 10-16 named
+    storms of which 5-9 could become hurricanes, including 1-4 major.”
+
+    > 
+
+    > Gov't forecasters at the National Oceanic Atmosphere Admin predict a
+    near-normal hurricane season for the Atlantic Ocean, which runs from June 1
+    to November 30.
+  card_citation: ''
+card_3:
+  card_text: "> ‘It wasn’t like a movie opening… it was like an earthquake.’\n> \n> Actress Carrie Fisher, who played Princess Leia, later described Star Wars opening credits to Time Magazine. The 1st of the George Lucas' Star Wars movies Episode IV: A New Hope opened on this day in 1977 raking in $800M in worldwide ticket sales. The saga continues this weekend as Solo hits theaters.\n\n[Watch Now](https://www.youtube.com/embed/nH-jLrirmM8?enablejsapi=1&autoplay=1&rel=0)"
+  card_citation: Watch Now
+card_10:
+  card_text: '[view sources](https://smarthernews.com/18-05-25-quick-quotes/)'
+  card_citation: ''
+
+---
+*   **City Councilman Proposes a Ban on Plastic Straws in New York City:A**  
+    [http://www.ny1.com/nyc/all-boroughs/news/2018/05/24/nyc-councilman-rafael-espinal-proposes-a-ban-on-plastic-straws-in-the-city](http://www.ny1.com/nyc/all-boroughs/news/2018/05/24/nyc-councilman-rafael-espinal-proposes-a-ban-on-plastic-straws-in-the-city)
+*   ****NOAA Expects Hurricane Season For 2018 To Be Near Or Above Normal:  
+    ****[http://www.noaa.gov/media-release/forecasters-predict-near-or-above-normal-2018-atlantic-hurricane-season](http://www.noaa.gov/media-release/forecasters-predict-near-or-above-normal-2018-atlantic-hurricane-season)
+*   **OTD: Star Wars Opens in 1977:A**  
+    [http://content.time.com/time/specials/packages/article/0,28804,1977881_1977891_1978545,00.html](http://content.time.com/time/specials/packages/article/0,28804,1977881_1977891_1978545,00.html)

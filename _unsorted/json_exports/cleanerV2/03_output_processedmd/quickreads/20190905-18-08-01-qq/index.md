@@ -1,0 +1,78 @@
+---
+title: 18.08.01 Qq
+description: ''
+aliases:
+  - 18-08-01-qq/
+published: true
+date: '2018-08-01T11:55:28+00:00'
+publishDate: '2018-08-01T11:55:28+00:00'
+lastmod: '2019-09-05T21:44:46+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: quotes
+color_palette_classname: bronze
+background_image: https://smarthernews.com/wp-content/uploads/2018/01/fire-scaled.jpg
+card_1:
+  card_text: "> “It’s rough to be outside right now.’\n> \n> Michelle Eidem, a Cal Fire spokeswoman, on the Ferguson Fire, one of three fires engulfing more than 185K acres in northern California. According to the National Interagency Fire Center, CA is just one of 14 states currently reporting large fires."
+  card_citation: ''
+card_2:
+  card_text: >-
+    > “There is a possibility of irreparable harm because of the way these guns
+    can be made.”
+
+    > 
+
+    > U.S. District Judge Robert Lasnik, a Seattle federal judge appointed by
+    Pres. Clinton. He issued a temporary restraining order preventing the
+    release of blueprints to make 3D-printed plastic firearms in a case filed by
+    eight Democratic attorneys general. NY & NJ courts issued similar rulings.
+
+
+    [ABOUT 3D PLASTIC GUNS](https://smarthernews.com/18-07-30-3d-guns/)
+  card_citation: ABOUT 3D PLASTIC GUNS
+card_3:
+  card_text: >-
+    > “With regard to the FRCs, I think the best way to describe them is to be
+    more like a summer camp. These individuals have access to 24/7 food and
+    water. They have educational opportunities. They have recreational
+    activities.”
+
+    > 
+
+    > Matt Albence, ICE Acting Deputy Director, describing the conditions of
+    family detention centers during a congressional hearing on the Trump
+    administration's reunification efforts.
+
+
+    [Watch
+    Now](https://www.youtube.com/embed/l1v9NEfz9Bw?enablejsapi=1&autoplay=1&rel=0)
+  card_citation: Watch Now
+card_4:
+  card_text: >-
+    > “Please help make this stop. Please help make hazing recognized for what
+    it is – abuse, cruelty and torture.”
+
+    > 
+
+    > Evelyn Piazza, in a statment to the court, as the first of 26 defendants
+    are sentenced in connection with the February 2017 fraternity hazing death
+    of her 19-year-old son Timothy Piazza at Penn State University.
+  card_citation: ''
+card_10:
+  card_text: |-
+    Check out SmartHERNews.com for more of the day's news.
+
+    [view sources](https://smarthernews.com/18-08-01-qq/)
+  card_citation: ''
+
+---
+*   **Federal judge in Seattle blocks release of blueprints for 3D-printed guns:**  
+    [https://www.seattletimes.com/seattle-news/crime/federal-judge-in-seattle-blocks-release-of-blueprints-for-3d-printed-guns/](https://www.seattletimes.com/seattle-news/crime/federal-judge-in-seattle-blocks-release-of-blueprints-for-3d-printed-guns/)
+*   **Courts in three states bar release of 3D-printable gun blueprints:** [https://www.usatoday.com/story/news/politics/2018/07/31/3-d-printable-guns-donald-trump/870557002/](https://www.usatoday.com/story/news/politics/2018/07/31/3-d-printable-guns-donald-trump/870557002/)
+*   **Hundreds evacuated from Yosemite summer camps due to smoke:**  
+    [https://www.sfchronicle.com/california-wildfires/article/Fire-by-Yosemite-forces-popular-Bay-Area-summer-13120501.php](https://www.sfchronicle.com/california-wildfires/article/Fire-by-Yosemite-forces-popular-Bay-Area-summer-13120501.php)
+*   **National Interagency Fire Center:**  
+    [https://www.nifc.gov/fireInfo/nfn.htm](https://www.nifc.gov/fireInfo/nfn.htm)
+*   **Jim and Evelyn Piazza’s victim impact statements:**  
+    [https://www.collegian.psu.edu/collection_f6cd9e62-942f-11e8-a77e-576603ac110d.html](https://www.collegian.psu.edu/collection_f6cd9e62-942f-11e8-a77e-576603ac110d.html)

@@ -14,6 +14,9 @@ markup:
         renderer:
             unsafe: true
 
+ignoreErrors:
+    - error-remote-getjson
+
 taxonomies:
     tag: tags
     video_series: video_series

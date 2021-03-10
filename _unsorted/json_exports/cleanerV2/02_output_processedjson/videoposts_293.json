@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2020/06/IMG_0158-768x1024.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Have We All Been Exposed To COVID?\" src=\"https://www.youtube.com/embed/VssF1IY43fE?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Have We All Been Exposed To COVID?\" src=\"https://www.youtube.com/embed/VssF1IY43fE?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube VssF1IY43fE &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

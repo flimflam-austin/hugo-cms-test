@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2020/01/IMG_1846-min-scaled-e1579309007993-953x1024.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"What You Need To Know To Start Your Week\" src=\"https://www.youtube.com/embed/zSRL1Cz_fMw?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"What You Need To Know To Start Your Week\" src=\"https://www.youtube.com/embed/zSRL1Cz_fMw?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube zSRL1Cz_fMw &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

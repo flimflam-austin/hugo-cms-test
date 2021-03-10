@@ -1,0 +1,101 @@
+---
+title: 18.07.08 Jobs Report
+description: ''
+aliases:
+  - 18-07-08-jobs-report/
+published: true
+date: '2018-07-09T12:29:53+00:00'
+publishDate: '2018-07-09T12:29:53+00:00'
+lastmod: '2018-07-09T12:35:15+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: current events
+color_palette_classname: light-yellow
+background_image: ''
+card_1:
+  card_text: |-
+    ICYMI:  
+
+    =========
+
+    THE HOPE METRIC
+    ---------------
+
+    America’s unemployment rate went up in June to 4%.
+
+    Why a higher unemployment rate reflects a healthy job market.
+
+    Flip: Why It Matters
+  card_citation: 'Flip: Why It Matters'
+card_2:
+  card_text: >-
+    Jobs Report 101
+
+    ---------------
+
+
+    *   You are counted as part of the labor force if you are **able** to work,
+    **want** to work, and **actively** looking for work.
+
+    *   More Americans started looking for work last month – a **good sign that
+    reflects optimism**.
+
+    *   The **labor force grew by 601,000 people**, reflecting more people
+    looking for a job and the unemployment went up slightly.
+  card_citation: ''
+card_3:
+  card_text: >-
+    Something To Consider:
+
+    ----------------------
+
+
+    *   **Latino unemployment rate fell to a record low;** more women and blacks
+    looking for work.
+
+    *   **Wages continue to increase** – an important sign of healthy job
+    market. However, when adjusted for inflation, the **take-home pay is
+    essentially flat to last year**. Possible reason? More Americans fill lower
+    paid jobs during summer months (AP).
+  card_citation: ''
+card_4:
+  card_text: >-
+    National vs. Local
+
+    ------------------
+
+
+    > While overall job picture positive, the numbers differ state-to-state.
+
+    > 
+
+    > CNBC: Some important swing states like Michigan have seen unemployment
+    rates rise.
+
+    > 
+
+    > “The jobless rate was also higher than the national average in Arizona,
+    Mississippi, Louisiana and Pennsylvania, all states Trump carried in 2016.”
+  card_citation: ''
+card_10:
+  card_text: >-
+    Don't forget the impact of potential aluminum & steel tariffs on
+    Mexico/Canada/Europe for swing states like Michigan/Pennsylvania. A
+    lingering question: What do the tariffs on China (and China tariffs on U.S.)
+    do to the U.S.? economy & job market? More To Come.
+
+
+    [view sources](https://smarthernews.com/18-07-08-jobs-report/)
+  card_citation: ''
+
+---
+*   **U.S. job growth remains strong; wage growth still weak:**  
+    [https://www.oregonlive.com/business/index.ssf/2018/07/us_job_growth_remains_strong_w.html](https://www.oregonlive.com/business/index.ssf/2018/07/us_job_growth_remains_strong_w.html)
+*   **Weak job and wage growth weigh on these Trump states:**  
+    [https://www.cnbc.com/2018/07/06/weak-job-and-wage-growth-weigh-on-these-trump-states.html](https://www.cnbc.com/2018/07/06/weak-job-and-wage-growth-weigh-on-these-trump-states.html)
+*   **U.S. Hiring Strong in June; Unemployment Rate Rises as More Enter Labor Force**  
+    **Nonfarm payrolls rise by 213,000; unemployment rate up to 4.0%:**  
+    [https://www.wsj.com/articles/u-s-hiring-strong-in-june-unemployment-rate-rises-as-more-enter-labor-force-1530880292](https://www.wsj.com/articles/u-s-hiring-strong-in-june-unemployment-rate-rises-as-more-enter-labor-force-1530880292?mod=hp_major_pos10)
+*   **Employment Situation Summary:  
+    **[https://www.bls.gov/web/laus/laumstrk.htm](https://www.bls.gov/web/laus/laumstrk.htm)

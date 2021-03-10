@@ -1,0 +1,59 @@
+---
+title: 18.05.07 Met Gala
+description: ''
+aliases:
+  - 18-05-07-met-gala/
+published: true
+date: '2018-05-08T10:20:48+00:00'
+publishDate: '2018-05-08T10:20:48+00:00'
+lastmod: '2018-05-08T11:18:24+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: style
+color_palette_classname: dark-purple
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/02/chuttersnap-179223-unsplash-360x360.jpg
+card_1:
+  card_text: >-
+    “The Party of the Year”
+
+    =======================
+
+
+    Celebrities & Fashionistas  
+
+    Gather For the Met Gala  
+
+
+    -------------------------------------------------------
+
+
+    In the fashion world, there are few dates as important as the first Monday
+    in May.
+
+
+    Flip For Why It Matters
+  card_citation: Flip For Why It Matters
+card_2:
+  card_text: "Toughest Ticket in Town\n-----------------------\n\nThe **invitation-only tickets** are $30K a piece & tables are about $275K, according to NYT.\n\nAll of the money from ticket sales goes to the **Costume Institute,** which it needs because it is the only one of the Met’s departments that funds itself.\n\nLast year, $12 million was raised."
+  card_citation: ''
+card_3:
+  card_text: "Met Gala: Did You Know?\n-----------------------\n\n*   **Pres. Trump proposed to his wife, Melania,** during 2004 gala.\n*   Attendees are **banned from posting on social media** after the red carpet.\n*   **Anna Wintour has final say** over every invitation & attendee; each guest must be approved.\n*   Under Wintour’s reign, the Met Gala has **raised $145M** for the Costume Institute."
+  card_citation: ''
+card_10:
+  card_text: >-
+    The 2018 Met Gala's theme is "Heavenly Bodies: Fashion and the Catholic
+    Imagination." We can only guess what celebrities choose to wear for their
+    "Sunday Best."
+
+
+    [view sources](https://smarthernews.com/18-05-07-met-gala/)
+  card_citation: ''
+
+---
+*   ****PHOTOS of 2018 Met Gala:A**** [http://people.com/style/met-gala-2018-best-dressed-red-carpet/](http://people.com/style/met-gala-2018-best-dressed-red-carpet/)
+*   **Inside the Metropolitan Museum of Art”s Heavenly Bodies: Fashion and the Catholic Imagination Exhibition:** [https://www.vogue.com/article/metropolitan-museum-of-art-heavenly-bodies-fashion-and-the-catholic-imagination](https://www.vogue.com/article/metropolitan-museum-of-art-heavenly-bodies-fashion-and-the-catholic-imagination)  
+    _**Fashion and religion have long been intertwined, mutually inspiring and informing one another. …Although this relationship has been complex and sometimes contested, it has produced some of the most inventive and innovative creations in the history of fashion.**_ **~A Curator Andrew Bolton**
+*   **What is the Met Gala?:A** [https://www.nytimes.com/2018/05/03/fashion/what-is-the-met-gala-and-who-gets-to-go.html](https://www.nytimes.com/2018/05/03/fashion/what-is-the-met-gala-and-who-gets-to-go.html)
+*   **The Met Ball Was So Much Better in the Old Days:** [https://www.townandcountrymag.com/the-scene/parties/a9551568/met-gala-history/](https://www.townandcountrymag.com/the-scene/parties/a9551568/met-gala-history/)

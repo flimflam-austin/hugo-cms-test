@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2020/06/IMG_0728-scaled-e1592926152696-933x1024.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Tuesday's Top Stories\" src=\"https://www.youtube.com/embed/7gtwhrQye1U?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Tuesday's Top Stories\" src=\"https://www.youtube.com/embed/7gtwhrQye1U?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube 7gtwhrQye1U &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

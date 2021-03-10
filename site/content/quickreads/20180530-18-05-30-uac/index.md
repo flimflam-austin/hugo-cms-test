@@ -1,0 +1,93 @@
+---
+title: 18.05.30 Uac
+description: ''
+aliases:
+  - 18-05-30-uac/
+published: true
+date: '2018-05-30T12:46:19+00:00'
+publishDate: '2018-05-30T12:46:19+00:00'
+lastmod: '2018-05-30T12:49:51+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: current events
+color_palette_classname: light-gray
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/05/afterglow-backlit-barb-wires-735025-scaled.jpg
+card_1:
+  card_text: >-
+    IMMIGRATION MISINFORMATION
+
+    ==========================
+
+
+    Did the U.S. really separate 1,500 immigrant children from their parents &
+    then lose them? NO!
+
+
+    FLIP HERE FOR THE FACTS
+  card_citation: FLIP HERE FOR THE FACTS
+card_2:
+  card_text: >-
+    The 1,475 “immigrant children” are Unaccompanied Alien Children (UAC) who
+    arrived in the U.S. \*ALONE\*
+
+    -------------------------------------------------------------------------------------------------------
+
+
+    UAC (by definition) do NOT arrive with a parent or legal guardian.A **Since
+    2012, more than 200,000 UAC have arrived in the U.S.**
+  card_citation: ''
+card_3:
+  card_text: >-
+    UAC 101
+
+    -------
+
+
+    *   When UAC arrive in U.S., they are transferred from the Dep’t of Homeland
+    Security to the Office of Refugee Resettlement (ORR).
+
+    *   While their legal status is being sorted out, the ORR places most UAC
+    with “sponsors” in the U.S.
+
+    *   The sponsors are usually their parents or close family members.
+
+    *   ORR periodically checks in to monitor their safety & well-being.
+  card_citation: ''
+card_4:
+  card_text: >-
+    In April, aA Dept. of Health & Human Services (HHS) official testified to
+    Congress about the **40,810 UAC** transferred to ORR’s custody in 2017
+
+
+    *   In the fall, ORR reached out to a fraction (**7,635**) of those UAC &
+    their sponsors.
+
+    *   86% participated in safety & well-being calls, but “**ORR was unable to
+    determine with certainty the whereabouts of 1,475 UAC**.”
+  card_citation: ''
+card_5:
+  card_text: "> “**The assertion that unaccompanied alien children (UAC) are a\x18lost’ is completely false**. … These children are not a\x18lost’; their sponsors a\x14 who … in all cases have been vetted for criminality and ability to provide for thema\x14 simply did not respond or could not be reached when this voluntary call was made.”\n> \n> HHS Deputy Secretary Eric Hargan, May 28 statement"
+  card_citation: ''
+card_10:
+  card_text: >-
+    UAC are NOT separated from their parents at the border, but many other
+    immigrant child ARE. Read more here:
+
+
+    [view sources](https://smarthernews.com/18-05-30-uac/)
+  card_citation: ''
+
+---
+*   **Unaccompanied Alien Children Program:** [https://www.acf.hhs.gov/orr/programs/ucs](https://www.acf.hhs.gov/orr/programs/ucs)
+*   **Unaccompanied Alien Children Facts and Data:** [https://www.acf.hhs.gov/orr/about/ucs/facts-and-data](https://www.acf.hhs.gov/orr/about/ucs/facts-and-data)
+*   **Testimony of Steven Wagner on HHS responsibilities for the Care and Placement of Unaccompanied Alien Children:** [https://www.acf.hhs.gov/olab/resource/testimony-of-steven-wagner-on-responsiblities-for-the-care-and-placement-of-unaccompanied-alien-children](https://www.acf.hhs.gov/olab/resource/testimony-of-steven-wagner-on-responsiblities-for-the-care-and-placement-of-unaccompanied-alien-children)
+*   **Statement by HHS Deputy Secretary on Unaccompanied Alien Children Program:** [https://www.hhs.gov/about/news/2018/05/28/statement-hhs-deputy-secretary-unaccompanied-alien-children-program.html](https://www.hhs.gov/about/news/2018/05/28/statement-hhs-deputy-secretary-unaccompanied-alien-children-program.html)
+*   **Sorting out the facts about nearly 1,500 lost children, Trump family separation policy:** [www.politifact.com/truth-o-meter/article/2018/may/29/sorting-out-facts-about-nearly-1500-lost-children-/](http://www.politifact.com/truth-o-meter/article/2018/may/29/sorting-out-facts-about-nearly-1500-lost-children-/)
+
+> “U.S. Attorney General Jeff Sessions in April announced a “zero-tolerance” policy to increase prosecution of immigrants who come into the country illegally.
+> 
+> In cases where a parent crosses illegally with his or her child, the parent will be referred for prosecution and the child directed to HHS for care and custody while the child”s immigration case is resolved.
+> 
+> At a May 15 Senate committee hearing, DHS Secretary Kirstjen Nielsen said that families who present themselves at ports of entry seeking asylum are able to stay together. “

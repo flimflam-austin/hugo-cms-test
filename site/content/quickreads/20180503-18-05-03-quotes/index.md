@@ -1,0 +1,49 @@
+---
+title: 18.05.03 Quotes
+description: ''
+aliases:
+  - 18-05-03-quotes/
+published: true
+date: '2018-05-03T10:47:01+00:00'
+publishDate: '2018-05-03T10:47:01+00:00'
+lastmod: ''
+tags: []
+post_author: []
+section: quickreads
+card_series: now you know
+color_palette_classname: light-yellow
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/03/madison-kaminski-508378-unsplash-scaled.jpg
+card_1:
+  card_text: "QUICK QUOTES\n============\n\n> **‘funneled… through the law firm and the President repaid it.’**\n> \n> Rudy Giuliani, a member of President Trump's legal team, tells Fox NewsA that Trump repaid his personal attorney Michael Cohen for a $130,000 payment to porn star Stormy Daniels."
+  card_citation: ''
+card_2:
+  card_text: >-
+    > **“It just sounded like a really loud ‘POP’ like someone throwing a rock
+    at you.”**
+
+    > 
+
+    > A Karen O'Grady, Southwest Airlines passenger on a flight from Chicago to
+    Newark, diverted safely to Cleveland after a window broke at 30,000 feet.
+    FAA is now investigating. The incident is the second in 2 weeks for
+    Southwest after a deadly engine explosion. A
+  card_citation: ''
+card_3:
+  card_text: "> **‘…vilified for activities that are not only legal, but also widely accepted as a standard component of online advertising in both the political and commercial arenas.’**\n> \n> Statement from Cambridge Analytica, announcing it will shut U.S. & U.K. operations after a Facebook scandal revealed it had improperly obtained the personal information of millions of the social network's users."
+  card_citation: ''
+card_4:
+  card_text: "> ‘We thought long and hard about it, & we feel like this is the best way to see that change that we want to see.”\n> \n> Donte Robinson, one of two men arrested at a Philadelphia Starbucks last month, on the pair's decision to settle with the city for a symbolic $1 each & a promise from officials to set up a $200,000 program for young entrepreneurs. Separately, Starbucks also reached an undisclosed financial agreement with the two men."
+  card_citation: ''
+card_10:
+  card_text: '[view sources](https://smarthernews.com/18-05-03-quotes/)'
+  card_citation: ''
+
+---
+*   ******WATCH: Giuliani calls for Comey to be prosecuted, end to Mueller probe ‘in the interest of justice’:  
+    ******[http://www.foxnews.com/politics/2018/05/02/giuliani-calls-for-comey-to-be-prosecuted-end-to-mueller-probe-in-interest-justice.html](http://www.foxnews.com/politics/2018/05/02/giuliani-calls-for-comey-to-be-prosecuted-end-to-mueller-probe-in-interest-justice.html)
+*   **WATCH: Southwest flight forced to divert after window breaks:A** [https://www.cbsnews.com/video/southwest-flight-forced-to-divert-after-window-breaks/](https://www.cbsnews.com/video/southwest-flight-forced-to-divert-after-window-breaks/)
+*   **Cambridge Analytica shutting down in wake of Facebook data crisis:**  
+    [https://www.usatoday.com/story/tech/news/2018/05/02/cambridge-analytica-shutting-down-wake-facebook-data-crisis/573963002/](https://www.usatoday.com/story/tech/news/2018/05/02/cambridge-analytica-shutting-down-wake-facebook-data-crisis/573963002/)
+*   ****Black men arrested at Starbucks settle with city, company:  
+    ****[https://www.apnews.com/774de094bff34421af4cb250a20475dc/Black-men-arrested-at-Starbucks-settle-for-$200K-program](https://www.apnews.com/774de094bff34421af4cb250a20475dc/Black-men-arrested-at-Starbucks-settle-for-$200K-program)

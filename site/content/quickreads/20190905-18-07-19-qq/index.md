@@ -1,0 +1,55 @@
+---
+title: 18.07.19 Qq
+description: ''
+aliases:
+  - 18-07-19-qq/
+published: true
+date: '2018-07-19T11:59:12+00:00'
+publishDate: '2018-07-19T11:59:12+00:00'
+lastmod: '2019-09-05T21:44:46+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: quotes
+color_palette_classname: dark-purple
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/05/nathan-dumlao-583574-unsplash-scaled.jpg
+card_1:
+  card_text: >-
+    > “Nothing is impossible unless you make it impossible…. God blessed me to
+    be a blessing…. Whatever challenges God puts in front of me I know it’s for
+    a reason.”
+
+    > 
+
+    > Walter Carr, a college student and U.S. Marine hopeful, who walked about
+    20 miles to his first day of work at Bellhops Moving Company in Alabama.
+    When his boss heard his story, he gifted him a car.
+
+
+    [Watch
+    Now](https://www.youtube.com/embed/RwR4shi_JoQ?enablejsapi=1&autoplay=1&rel=0)
+  card_citation: Watch Now
+card_2:
+  card_text: "> ‘I had no strength at all. I didn’t think about food because it only made me hungrier.’\n> \n> Chanin Wibulroongreung, 11, as he and all of his Wild Boar teammates and coach were released from the hospital. It was the first public appearance since being rescued from a cave in northern Thailand."
+  card_citation: ''
+card_3:
+  card_text: "> ‘Apparently, the insiders are in cahoots and the establishment doesn’t want to find out how many people don’t like the way California is being governed,’\n> \n> Tim Draper, after his proposition to split the state into 3 was blocked by the California Supreme Court, removing it from the November 6 ballot. California's high court ruled a delay would be better than the harm of permitting the vote."
+  card_citation: ''
+card_4:
+  card_text: "> “I pray to God no other parent feels this pain.”\n> \n> Morgan Beck Miller in an Instagram post 37 days after the death of her daughter Emmy. Beck Miller and husband, Olympic skier Bode, lost their 19-month-old daughter in a drowning accident at a neighbor’s house.\n\n[See the Post here](https://www.instagram.com/morganebeck/)"
+  card_citation: See the Post here
+card_10:
+  card_text: '[view sources](https://smarthernews.com/18-07-19-qq/)'
+  card_citation: ''
+
+---
+*   **Birmingham college student walked 20 miles to 1st day of work so his boss gave him his car:**  
+    [https://www.al.com/news/birmingham/index.ssf/2018/07/former_marine_walked_20_miles.html](https://www.al.com/news/birmingham/index.ssf/2018/07/former_marine_walked_20_miles.html)
+*   **Thai Cave Boys Leave Hospital and Apologize for All the Fuss:**  
+    [https://www.nytimes.com/2018/07/18/world/asia/thai-cave-boys-released-hospital.html](https://www.nytimes.com/2018/07/18/world/asia/thai-cave-boys-released-hospital.html)
+*   **Court Blocks Billionaire”s Measure to Split California Into Three States:**  
+    [https://www.bloomberg.com/news/articles/2018-07-18/california-court-blocks-billionaire-s-measure-to-split-up-state](https://www.bloomberg.com/news/articles/2018-07-18/california-court-blocks-billionaire-s-measure-to-split-up-state)
+*   **Bode Miller’s wife Morgan Beck speaks out about their baby daughter’s tragic drowning death:  
+    **[https://abcnews.go.com/GMA/ Culture/bode-millers-wife- morgan-beck-speaks-baby- daughters/story?id=56663072](https://abcnews.go.com/GMA/Culture/bode-millers-wife-morgan-beck-speaks-baby-daughters/story?id=56663072)  
+    [https://www.scarymommy.com/child-drowning-risks-message-aap/](https://www.scarymommy.com/child-drowning-risks-message-aap/)**A**

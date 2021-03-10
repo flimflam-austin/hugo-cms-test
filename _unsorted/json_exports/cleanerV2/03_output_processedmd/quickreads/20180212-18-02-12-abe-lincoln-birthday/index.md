@@ -1,0 +1,82 @@
+---
+title: 18.02.12 Abe Lincoln Birthday
+description: ''
+aliases:
+  - 18-02-12-abe-lincoln-birthday/
+published: true
+date: '2018-02-12T10:31:31+00:00'
+publishDate: '2018-02-12T10:31:31+00:00'
+lastmod: '2018-02-12T13:00:54+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: on this day
+color_palette_classname: dark-blue
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/02/kelli-dougal-434239-1-360x360.jpg
+card_1:
+  card_text: "President Abraham Lincoln Is Born\n---------------------------------\n\n> ‘I was born **Feb. 12, 1809**, in Hardin County, Kentucky. My parents were both born in Virginia, of undistinguished familiesa\x13second families, perhaps I should say.”\n> \n> Pres. Lincoln, Dec 20, 1859 before he secured Republican nomination"
+  card_citation: ''
+card_2:
+  card_text: >-
+    Lincoln: Facts
+
+    ==============
+
+
+    *   Spent majority of young life on “the frontier” farming; Mom died when he
+    was 10.
+
+    *   Tallest U.S. President: 6 ft 4 in (Pres. Trump is 6’3″); Lincoln’s wife
+    Mary Todd stood 5 ft 2 in.
+
+    *   Father to 4 sons; Only 1 lived to adulthood.
+
+    *   Little formal education; avid reader. One-time store clerk.
+  card_citation: ''
+card_3:
+  card_text: >-
+    Lincoln’s Famous Speech: Gettysburg Address
+
+    -------------------------------------------
+
+
+    *   Approx 2 minutes; Just over 270 words.
+
+    *   5 handwritten copies still exist; One copy in “Lincoln Bedroom” in the
+    White House.
+
+    *   Recent History: Some now believe Lincoln suffered from Small Pox during
+    speech.
+  card_citation: ''
+card_4:
+  card_text: >-
+    Lincoln’s Famous Order  
+
+    Emancipation Proclamation
+
+    --------------------------------------------------
+
+
+    “all persons held as slaves” within the rebellious states “are, and
+    henceforward shall be free.”
+
+
+    *   Limited. Yet Significant.
+
+    *   Only impacted 10 southern states but set stage for abolition of slavery.
+  card_citation: ''
+card_10:
+  card_text: |-
+    See President Abraham Lincoln's Handwritten Gettysburg Address & More:
+
+    [view sources](https://smarthernews.com/18-02-12-abe-lincoln-birthday/)
+  card_citation: ''
+
+---
+*   Gettysburg Address: [http://americanhistory.si.edu/documentsgallery/exhibitions/document_transcripts/Gettysburg_Address_small.pdf](http://americanhistory.si.edu/documentsgallery/exhibitions/document_transcripts/Gettysburg_Address_small.pdf)
+*   Small Pox?A http://www.washingtonpost.com/wp-dyn/content/article/2007/05/22/AR2007052200938.html
+*   Abraham Lincoln became the United States” 16th President in 1861, issuing the Emancipation Proclamation that declared forever free those slaves within the Confederacy in 1863. [https://www.whitehouse.gov/about-the-white-house/presidents/abraham-lincoln/](https://www.whitehouse.gov/about-the-white-house/presidents/abraham-lincoln/)
+*   In December 1859, Abraham Lincoln drafted his first extensive autobiographical narrative, a roughly 600-word sketch prepared at the request of an old friend and Republican newspaper editor Jesse W. Fell, who was asking on behalf of a Republican newspaper from Chester County…[http://housedivided.dickinson.edu/sites/lincoln/autobiographical-sketch-december-20-1859/](http://housedivided.dickinson.edu/sites/lincoln/autobiographical-sketch-december-20-1859/)
+*   [https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation](https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation)
+*   For Fun:A This video shows all of the US presidents in order of heightA [http://www.businessinsider.com/video-shows-us-presidents-height-order-obama-trump-lincoln-bush-2017-4](http://www.businessinsider.com/video-shows-us-presidents-height-order-obama-trump-lincoln-bush-2017-4)

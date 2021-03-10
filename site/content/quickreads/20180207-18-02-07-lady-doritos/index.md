@@ -1,0 +1,108 @@
+---
+title: 18.02.07 Lady Doritos
+description: ''
+aliases:
+  - 18-02-07-lady-doritos/
+published: true
+date: '2018-02-07T14:05:56+00:00'
+publishDate: '2018-02-07T14:05:56+00:00'
+lastmod: '2018-02-07T14:12:13+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: current events
+color_palette_classname: bronze
+background_image: https://smarthernews.com/wp-content/uploads/2018/02/Doritos-360x360.jpg
+card_1:
+  card_text: >-
+    Lady Doritos?
+
+    =============
+
+
+    It all started last week during an interview with PepsiCo’sA C.E.O., when
+    she suggested a female-focused chip was on its way:
+
+
+    “_**For women, low-crunch, the full taste profile, not have so much of the
+    flavor stick on the fingers, and how can you put it in a purse?**_“
+
+
+    [Listen to the Podcast](http://freakonomics.com/podcast/indra-nooyi/%20)
+  card_citation: Listen to the Podcast
+card_2:
+  card_text: "Reaction Wasn’t Good\n====================\n\n> The controversy ended when Doritos recanted on Monday:\n> \n> “_**We already have Doritos for women a\x14 they’re called Doritos, and they’re loved by mi****llions**_.”\n\n[@Doritos Tweet](https://twitter.com/Doritos/status/960668947812093952)"
+  card_citation: '@Doritos Tweet'
+card_3:
+  card_text: >-
+    Why Target Female Consumers?
+
+    ============================
+
+
+    Money (est. $18 Trillion)
+
+    -------------------------
+
+
+    > “Whether women are working or even if they are at home, we see that women
+    drive 70 to 80% of all consumer purchases.”
+
+    > 
+
+    > Dhanusha Sivajee, XO Group Inc.
+  card_citation: ''
+card_4:
+  card_text: >-
+    No “Girl Chip”…But…
+
+    ===================
+
+
+    What female focused products are still on the market?
+
+    -----------------------------------------------------
+
+
+    > Pens
+
+
+    [BIC For Her Fashion Retractable Ball
+    Pen](https://www.amazon.com/BIC-Fashion-Retractable-Assorted-Fashion-FHAP21-ASST/dp/B005YGLA5Y)
+  card_citation: BIC For Her Fashion Retractable Ball Pen
+card_5:
+  card_text: >-
+    FEMALE-FOCUSED PRODUCTS STILL ON THE MARKET:
+
+    ============================================
+
+
+    Earplugs
+
+
+    [Howard Leight Super Leight Earplugs for
+    Women](https://www.google.com/shopping/product/4524234291918787101?%20)
+  card_citation: Howard Leight Super Leight Earplugs for Women
+card_6:
+  card_text: >-
+    FEMALE-FOCUSED PRODUCTS STILL ON THE MARKET:
+
+    ============================================
+
+
+    Tools
+
+
+    [Apollo Women Essential Tool
+    Kit](https://www.homedepot.com/p/KING-Complete-Household-Pink-Tool-Kit-with-Bag-24-Piece-3111-0/303967535)
+  card_citation: Apollo Women Essential Tool Kit
+card_10:
+  card_text: '[view sources](https://smarthernews.com/18-02-07-lady-doritos/)'
+  card_citation: ''
+
+---
+1.  **Doritos announced that it is not making a “lady-friendly” chip that doesn”t crunch**A [http://www.businessinsider.com/doritos-not-making-lady-doritos-chips-2018-2](http://www.businessinsider.com/doritos-not-making-lady-doritos-chips-2018-2)
+2.  **Freakonomics Podcast**:A http://freakonomics.com/podcast/indra-nooyi/  
+    DUBNER: So is there a male and female version of chips that you”re playing with, or no?  
+    NOOYI: It”s not a male and female as much as are there snacks for women that can be designed and packaged differently? And yes, we are looking at it, and we”re getting ready to launch a bunch of them soon. For women,A low-crunch, the full taste profile, not have so much of the flavor stick on the fingers, and how can you put it in a purse? Because women love to carry a snack in their purse. The whole design capability we built in PepsiCo was to allow design to work with innovation. Not just on packaging colors, but to go through the entire cycle, and say, All the way to the product in the pantry, or how it”s being carried around, or how they eat it in the car, or drink it in the car, what should be the design of the product, the package, the experience, so that we can influence the entire chain?
+3.  **Want A Piece Of The 18 Trillion Dollar Female Economy? Start With Gender Bias** [https://www.forbes.com/sites/michelleking/2017/05/24/want-a-piece-of-the-18-trillion-dollar-female-economy-start-with-gender-bias/#7dd2f5b06123](https://www.forbes.com/sites/michelleking/2017/05/24/want-a-piece-of-the-18-trillion-dollar-female-economy-start-with-gender-bias/#7dd2f5b06123)

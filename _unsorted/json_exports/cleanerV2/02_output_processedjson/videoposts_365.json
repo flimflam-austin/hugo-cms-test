@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2019/12/IMG_0080-e1575687203412.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Coffee Talk: 3 Quick News Items For The First Week of December\" src=\"https://www.youtube.com/embed/ZY2sgXAl6TM?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Coffee Talk: 3 Quick News Items For The First Week of December\" src=\"https://www.youtube.com/embed/ZY2sgXAl6TM?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube ZY2sgXAl6TM &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

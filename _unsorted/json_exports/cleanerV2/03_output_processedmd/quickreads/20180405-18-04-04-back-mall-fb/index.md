@@ -1,0 +1,90 @@
+---
+title: 18.04.04 Back to the Mall, because of Fb
+description: ''
+aliases:
+  - 18-04-04-back-mall-fb/
+published: true
+date: '2018-04-05T10:03:47+00:00'
+publishDate: '2018-04-05T10:03:47+00:00'
+lastmod: '2018-04-05T10:07:06+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: money
+color_palette_classname: dark-green
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/04/freestocks-org-182581-unsplash-scaled.jpg
+card_1:
+  card_text: >-
+    Facebook’s Security Fix Impacts Instagram & Others  
+
+
+    -----------------------------------------------------
+
+
+    FB’s attempt to increase user security after a major loophole may change the
+    way you shop & connect with friends. **But are you safer**?
+  card_citation: ''
+card_2:
+  card_text: >-
+    New From Facebook
+
+    -----------------
+
+
+    **87M** (not the estimated 50M) FB users had their private information
+    shared with a third party without their permission.
+
+
+    FB says you should assume your info has been “**scraped**” if you allowed
+    people to search for you using your email or phone number. FB has now
+    disabled that feature.
+  card_citation: ''
+card_3:
+  card_text: >-
+    Facebook Drama
+
+    --------------
+
+
+    *   Remember **FB** owns **Instagram** (and other HUGE social network
+    companies like **WhatsApp**). This is why the security “fumble” is so
+    significant.
+
+    *   **Your user experience on FB or Insta may change.**A For example,
+    accounts where you “like” a photo so you can shop the product have likely
+    been altered until a full security assessment is completed.
+  card_citation: ''
+card_4:
+  card_text: >-
+    Breaking-Up With FB?
+
+    --------------------
+
+
+    *   New study asked participants to stay off FB for 5 days.
+
+    *   Participants’s stress hormone (cortisol) levels dropped, although they
+    did not perceive themselves as LESS stressed.
+
+    *   Participants felt less happy with their lives because of the “social
+    disconnection.”
+
+
+    [click: READ
+    STUDY](https://www.uq.edu.au/news/article/2018/03/quitting-facebook-can-reduce-stress)
+  card_citation: 'click: READ STUDY'
+card_10:
+  card_text: >-
+    Is this the beginning of the end for FB? Do you even use the site? Tell us
+    your favorite social media platform: Info@SmartHerNews.com. Here's one take
+
+
+    [view sources](https://smarthernews.com/18-04-04-back-mall-fb/)
+  card_citation: ''
+
+---
+*   An Update on Our Plans to Restrict Data Access on Facebook: [https://newsroom.fb.com/news/2018/04/restricting-data-access/](https://newsroom.fb.com/news/2018/04/restricting-data-access/)
+*   _Still, given the public”s lack of understanding of APIs and platforms, it may be tough for Facebook to ever regain the trust broken by a month of savage headlines about the social network”s privacy negligence. Long-term, this souring of opinion could make users hesitant to share as much on Facebook. But given its role as a ubiquitous utility for login with your identity across the web, our compulsive desire to scroll its feed and check its notifications, and the lack of viable social networking alternatives, Facebook might see the backlash blow over eventually. Hopefully that won”t lead back to business as usual_.A [https://techcrunch.com/2018/04/04/facebook-instagram-api-shut-down/](https://techcrunch.com/2018/04/04/facebook-instagram-api-shut-down/?utm_source=LIKEtoKNOW.it+Registered+User+Subscribers&utm_campaign=a7d528b483-EMAIL_CAMPAIGN_2018_04_05&utm_medium=email&utm_term=0_d4f812f458-a7d528b483-137463633)
+*   Deleting Facebook Could Lower Stress Hormone Levels, Study Finds: [http://www.newsweek.com/facebook-stress-cortisol-social-media-health-break-quit-871521](http://www.newsweek.com/facebook-stress-cortisol-social-media-health-break-quit-871521)
+*   Zuckerberg says most Facebook users should assume they have had their public info scraped: [https://www.cnbc.com/2018/04/04/facebook-most-people-could-have-had-their-public-profile-scraped.html](https://www.cnbc.com/2018/04/04/facebook-most-people-could-have-had-their-public-profile-scraped.html)

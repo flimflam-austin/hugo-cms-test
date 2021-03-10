@@ -1,0 +1,80 @@
+---
+title: Smarthernews Quick Quotes for Thursday, September 4
+description: >-
+  Thursday's headlines straight from the source #smarthernews #newsyoucanuse
+  #seenewsdifferently #claritytochaos #shnquickquotes
+aliases:
+  - 18-10-04-qq/
+published: true
+date: '2018-10-04T11:53:12+00:00'
+publishDate: '2018-10-04T11:53:12+00:00'
+lastmod: '2019-09-05T21:44:45+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: quotes
+color_palette_classname: light-green
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/05/daniel-foster-264237-unsplash-scaled.jpg
+card_1:
+  card_text: >-
+    > “Supplemental FBI background file for Judge Kavanaugh has been received by
+    @senjudiciary Ranking Member Feinstein & I have agreed to alternating EQUAL
+    access for senators to study content from additional background info
+    gathered by non-partisan FBI agents.”
+
+    > 
+
+    > Sen. Chuck Grassley (R-IA) confirming the FBI report delivered to the
+    Senate; the confidential report will be kept in a locked room for all 100
+    senators to read.
+  card_citation: ''
+card_2:
+  card_text: >-
+    > “We are profoundly disappointed that after the tremendous sacrifice she
+    made in coming forward, those directing the FBI investigation were not
+    interested in seeking the truth.”
+
+    > 
+
+    > Statement by lawyers for Dr. Christine Blasey Ford who say she wasn't
+    interviewed by the FBI after her public testimony under oath. We do not yet
+    know if the public will see the additional FBI investigation into
+    allegations against Supreme Court nominee Judge Kavanaugh.
+  card_citation: ''
+card_3:
+  card_text: "> ‘We see this as a consistent effort, before, during and after any diplomatic efforts by the United States and the international community.”\n> \n> Sandra Joyce, FireEye - a cybersecurity firm that describes hacking efforts by North Korea as an active global threat. While much focus remains on NoKo's nuclear program, several groups warn of their hacking prowess, especially in the international banking system where NoKo's reportedly stole hundreds of millions of dollars."
+  card_citation: ''
+card_4:
+  card_text: >-
+    > “We’re at a stage now where more information is available about you online
+    and on your phone than there is in your house.”
+
+    > 
+
+    > Apple CEO Tim Cook on data privacy in an interview with "VICE News." He
+    went on to say tech companies that say they need your data to perform better
+    customer service is a "bunch of bunk"; Cook also said some amount of
+    government regulation on data collection is important.
+  card_citation: ''
+card_5:
+  card_text: "> ‘We want to finish telling this story.’\n> \n> Actor John Goodman to 'People Magazine' on why he, and fellow former Roseanne costars Laurie Metcalf and Sara Gilbert felt compelled to do a spinoff after Roseanne Barr was fired from the show in May for a racist tweet. The Connors airs on ABC on October 16th."
+  card_citation: ''
+card_10:
+  card_text: |-
+    Have a great day!
+
+    [view sources](https://smarthernews.com/18-10-04-qq/)
+  card_citation: ''
+
+---
+*   **Who sees it? Senators, staff to have access to FBI report:**  
+    [https://apnews.com/d7c5b4adb5af45c98c0866e57ba3c38f](https://apnews.com/d7c5b4adb5af45c98c0866e57ba3c38f)
+*   **Christine Blasey Ford’s lawyers blast FBI: ‘Not interested in seeking the truth’:**  
+    [https://www.washingtonexaminer.com/news/christine-blasey-fords-lawyers-blast-fbi-not-interested-in-seeking-the-truth](https://www.washingtonexaminer.com/news/christine-blasey-fords-lawyers-blast-fbi-not-interested-in-seeking-the-truth)
+*   **Apple’s Tim Cook: ‘Don’t believe’ tech companies that say they need your data:**  
+    [https://www.cnbc.com/2018/10/03/apple-ceo-tim-cook-dont-believe-tech-claims-about-personal-data.html](https://www.cnbc.com/2018/10/03/apple-ceo-tim-cook-dont-believe-tech-claims-about-personal-data.html)
+*   **NKorea said to have stolen a fortune in online bank heists:A**  
+    [https://apnews.com/f6822f1313e2499883348a5615d2dbed](https://apnews.com/f6822f1313e2499883348a5615d2dbed)
+*   **Sara Gilbert, John Goodman & Laurie Metcalf Speak Out Together About Roseanne Barr’s Racist Tweet:**  
+    [https://people.com/tv/sara-gilbert-john-goodman-laurie-metcalf-speak-out-together-first-time-roseanne-barr/](https://people.com/tv/sara-gilbert-john-goodman-laurie-metcalf-speak-out-together-first-time-roseanne-barr/)

@@ -33,7 +33,7 @@
             <section class="page-content">
                 {{ if .Content }}
                 <div class="page-content__body">
-                    {{ .Content }}
+                    {{ .Content | safeHTML }}
                 </div>
                 {{ end }}
                 {{ partial "components/share" . }}

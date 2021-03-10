@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2018/06/drew-coffman-1876-unsplash-scaled.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Why all the talk about the USPS?\" src=\"https://www.youtube.com/embed/gPf-VQL-tQo?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> <p>&nbsp;</p> <p>Here’s some background about mail in voting: <a href=\"https://smarthernews.com/vote-by-mail/\">CLICK HERE</a></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Why all the talk about the USPS?\" src=\"https://www.youtube.com/embed/gPf-VQL-tQo?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube gPf-VQL-tQo &gt;}}</div></div><p></p> <p>&nbsp;</p> <p>Here’s some background about mail in voting: <a href=\"https://smarthernews.com/vote-by-mail/\">CLICK HERE</a></p> ",
   "contentType": "videoposts"
 }

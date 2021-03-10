@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2018/06/crystal-shaw-515208-unsplash-scaled.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Monday August 3: Small Bites - Big Stories\" src=\"https://www.youtube.com/embed/Pa_jTzSNotM?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Monday August 3: Small Bites - Big Stories\" src=\"https://www.youtube.com/embed/Pa_jTzSNotM?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube Pa_jTzSNotM &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

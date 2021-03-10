@@ -1,0 +1,111 @@
+---
+title: 18.08.09 Pizza Museum
+description: ''
+aliases:
+  - 18-08-09-pizza-museum/
+published: true
+date: '2018-08-10T11:43:10+00:00'
+publishDate: '2018-08-10T11:43:10+00:00'
+lastmod: '2018-08-10T21:51:53+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: eats
+color_palette_classname: dark-green
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/08/pizza-boxes-358029_1280.jpg
+card_1:
+  card_text: >-
+    U.S. PIZZA MUSEUM OPENS TODAY
+
+    =============================
+
+
+    IN CHICAGO
+
+    ----------
+
+
+    > It’s the latest chapter in the historic pizza feud: NYC (thin crust) vs.
+    Chicago (deep-dish).
+
+
+    you want a pizza dis?
+  card_citation: you want a pizza dis?
+card_2:
+  card_text: >-
+    U.S. Pizza Museum
+
+    =================
+
+
+    *   Founded by a pizza lover & aficionado in 2015 in the form of pop-up
+    locations nationwide.
+
+    *   Current location in Chicago’s South Loop, open until October.
+
+    *   Visitors learn the history of pizza & may buy pizza-themed products –
+    but NO pizza.
+
+    *   Admission free.
+
+
+    [Reserve Tickets
+    Here](https://www.eventbrite.com/o/us-pizza-museum-17565390009)
+  card_citation: Reserve Tickets Here
+card_3:
+  card_text: >-
+    The Power of Pizza
+
+    ==================
+
+
+    U.S. is home toA **75K+ pizzerias.A**
+
+
+    U.S. pizza market is **valued at $45B** – about one-third of worldwide
+    market.
+
+
+    **1 in 8** Americans eat pizza on any given day.
+
+
+    **Pizza Hut** is the #1 selling pizza chain in the U.S.
+  card_citation: ''
+card_4:
+  card_text: >-
+    NYC v. CHICAGO:  
+
+    The Final Verdict
+
+    ===================================
+
+
+    > In 2011, the late Supreme Court JusticeA Antonin Scalia weighed in:
+
+    > 
+
+    > “**_I do indeed like so-called ‘deep dish pizza…. But it should not be
+    called pizza. It should be called a tomato pie. Real pizza is Neapolitan. It
+    is thin. It is chewy and crispy, OK?_**_A_ ”
+  card_citation: ''
+card_10:
+  card_text: >-
+    Not to be outdone, a "Museum of Pizza" will open in NYC in October. It
+    promises to be the "world's first and only immersive art experience
+    celebrating pizza." Tickets are $35 & include a free slice.
+
+
+    [view sources](https://smarthernews.com/18-08-09-pizza-museum/)
+  card_citation: ''
+
+---
+*   **About the U.S. Pizza Museum:**  
+    [https://uspizzamuseum.com/about/](https://uspizzamuseum.com/about/)
+*   **The U.S. Pizza Museum to Open in Chicago This Fall:**  
+    [https://www.cntraveler.com/story/the-us-pizza-museum-to-open-in-chicago-this-fall](https://www.cntraveler.com/story/the-us-pizza-museum-to-open-in-chicago-this-fall)
+*   **Consumption of Pizza:** [https://www.ars.usda.gov/ARSUserFiles/80400530/pdf/dbrief/11_consumption_of_pizza_0710.pdf](https://www.ars.usda.gov/ARSUserFiles/80400530/pdf/dbrief/11_consumption_of_pizza_0710.pdf)
+*   **2018 Pizza Power Report: A State-of-the-Industry Analysis:**  
+    [www.pmq.com/December-2017/The-2018-Pizza-Power-Report-A-State-of-the-Industry-Analysis/](http://www.pmq.com/December-2017/The-2018-Pizza-Power-Report-A-State-of-the-Industry-Analysis/)
+*   **Justice Scalia Says Chicago Pie isn’t ‘Real Pizza’:**  
+    [https://www.nbcchicago.com/news/local/Justice-Scalia-Rules-Deep-Dish-Isnt-Real-Pizza-132307653.html](https://www.nbcchicago.com/news/local/Justice-Scalia-Rules-Deep-Dish-Isnt-Real-Pizza-132307653.html)

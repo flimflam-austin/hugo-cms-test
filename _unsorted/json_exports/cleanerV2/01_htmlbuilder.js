@@ -71,7 +71,7 @@ const writeFile = (filename, jsonData) => {
 };
 
 const processFiles = (fileName) => {
-	console.log(`+++++++++++++ ${fileName}`);
+	//console.log(`+++++++++++++ ${fileName}`);
 	const json = parseJsonFromFile(fileName);
 	if (!json) {
 		console.log(`Json failed`);
@@ -80,8 +80,8 @@ const processFiles = (fileName) => {
 
 	const html = getHtmlField(json);
 	if (!html) {
-		console.log("=====================================\n", fileName);
-		console.log("no html found");
+		//console.log("=====================================\n", fileName);
+		//console.log("no html found");
 		return null;
 	}
 
@@ -154,4 +154,4 @@ const processSegment = (filterFunction, chunk) =>
 
 //const processCards01 = processSegment(filterCards, 2);
 
-const processCards01 = processSegment(filterArticles, 2);
+const processCards01 = processSegment(filterCards, 0);

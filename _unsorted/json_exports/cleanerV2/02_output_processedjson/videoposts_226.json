@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2018/12/pablo-merchan-montes-772123-unsplash-1-min-scaled-e1596031949988.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Calm Facts During Turbulent Times\" src=\"https://www.youtube.com/embed/5W7-XgzTUfU?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> <p>Here’s where you can access the latest on Jacob Blake: <a href=\"https://smarthernews.com/article/jacobblake/\">CLICK HERE</a></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Calm Facts During Turbulent Times\" src=\"https://www.youtube.com/embed/5W7-XgzTUfU?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube 5W7-XgzTUfU &gt;}}</div></div><p></p> <p>Here’s where you can access the latest on Jacob Blake: <a href=\"https://smarthernews.com/article/jacobblake/\">CLICK HERE</a></p> ",
   "contentType": "videoposts"
 }

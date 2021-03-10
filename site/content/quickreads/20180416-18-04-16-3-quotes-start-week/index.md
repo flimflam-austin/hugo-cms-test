@@ -1,0 +1,48 @@
+---
+title: 18.04.16 3 Quotes to Start the Week
+description: ''
+aliases:
+  - 18-04-16-3-quotes-start-week/
+published: true
+date: '2018-04-16T10:40:45+00:00'
+publishDate: '2018-04-16T10:40:45+00:00'
+lastmod: '2018-04-16T10:42:45+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: current events
+color_palette_classname: light-blue
+background_image: https://smarthernews.com/wp-content/uploads/2018/01/microphone-360x360.jpg
+card_1:
+  card_text: "GET UP & GO!\n============\n\nWEEKEND CATCH-UP\n----------------\n\n> ‘This is a very important performance for me tonight…  \n> I hoped you all enjoyed the show. I worked very hard.’\n> \n> Beyonce, Coachella April 14, 2016. The first Black woman to headline the CA music festival, her widely acclaimed performance, inspired #Beychella"
+  card_citation: ''
+card_2:
+  card_text: "> “I wanted a woman president really badly. And I had supported Hillary Clinton and a lot of my friends worked for her. I was devastated when she lost.’\n> \n> Patrice Failor, wife of Fmr. FBI Dir. James Comey, ABC News Special, April 15, 2018 providing insight into home life. Comey's book on leadership, with his thoughts on President Trump, is released Tuesday, April 17th."
+  card_citation: ''
+card_3:
+  card_text: >-
+    > “…the notion that ‘I’ve got to fly first class because I don’t want people
+    to be mean to me’…you need to go into another line of work if you don’t want
+    people to be mean to you. Like maybe a monk, where you don’t come in contact
+    with anyone.”
+
+    > 
+
+    > Congressman Trey Gowdy (R-SC), Fox News Sunday, speaking about allegations
+    EPA Dir. Scott Pruitt overspent taxpayer funds.
+  card_citation: ''
+card_10:
+  card_text: >-
+    See background to these quotes on our source page. Hear or read any quotes
+    other SmartHER readers might like? Hit us up! Info@SmartHerNews.com.
+
+
+    [view sources](https://smarthernews.com/18-04-16-3-quotes-start-week/)
+  card_citation: ''
+
+---
+**Beyonce**:A [https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/04/15/beyonces-coachella-performance-wasnt-just-pure-musical-entertainment-it-was-a-historic-cultural-moment/?utm_term=.c3e466a86da0](https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/04/15/beyonces-coachella-performance-wasnt-just-pure-musical-entertainment-it-was-a-historic-cultural-moment/?utm_term=.c3e466a86da0)
+
+**Comey:**A Transcript: James Comey’s interview with ABC News chief anchor George StephanopoulosA [http://abcnews.go.com/Site/transcript-james-comeys-interview-abc-news-chief-anchor/story?id=54488723](http://abcnews.go.com/Site/transcript-james-comeys-interview-abc-news-chief-anchor/story?id=54488723)
+
+**E****PA Scott Pruitt:A** AP sources: EPA chief spent millions on security and travel:A [https://www.apnews.com/e2fdc3fe88be432792817795a34fda46](https://www.apnews.com/e2fdc3fe88be432792817795a34fda46)

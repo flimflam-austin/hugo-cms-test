@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2020/10/military-dod-2-1024x683.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Top 3 Stories in Less Than 5 Minutes\" src=\"https://www.youtube.com/embed/x7itJhSSovg?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Top 3 Stories in Less Than 5 Minutes\" src=\"https://www.youtube.com/embed/x7itJhSSovg?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube x7itJhSSovg &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

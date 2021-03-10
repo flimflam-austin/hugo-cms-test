@@ -1,5 +1,6 @@
 const urlize = require("urlize").urlize;
 const toSentenceCase = require("to-sentence-case");
+const toTitleCase = require("title-case").titleCase;
 
 /*  */
 
@@ -24,7 +25,7 @@ const getFormattedDate = (jsonData) => {
 	const date = getDate(jsonData);
 
 	const year = date.getFullYear();
-	const month = padNumber(date.getMonth());
+	const month = padNumber(date.getMonth() + 1);
 	const day = padNumber(date.getDate());
 
 	return `${year}${month}${day}`;
@@ -44,11 +45,15 @@ const cleanOldUrl = (jsonData) =>
 	urlize(removeDomainFromUrl(jsonData.canonical));
 
 const getFileName = (jsonData) =>
-	`${getFormattedDate(jsonData)}-${cleanOldUrl(jsonData)}.md`;
+	`${getFormattedDate(jsonData)}-${cleanOldUrl(jsonData)}`;
 
 /*  */
 
 const getBody = (jsonData) => jsonData.body;
+
+const replaceIframes = (htmlString) => {
+	htmlString.match;
+};
 
 /*  */
 
@@ -59,7 +64,7 @@ const getAliasUrl = (jsonData) => removeDomainFromUrl(jsonData.canonical);
 const cleanTitle = (title) =>
 	title.trim().toLowerCase().replace(`- smarther news`, "").trim();
 
-const getTitle = (jsonData) => cleanTitle(jsonData.ogTitle);
+const getTitle = (jsonData) => toTitleCase(cleanTitle(jsonData.ogTitle));
 
 /*  */
 

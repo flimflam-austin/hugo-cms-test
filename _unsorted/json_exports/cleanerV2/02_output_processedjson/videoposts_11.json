@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2020/07/alina-sofia-4FttS_QUqw8-unsplash-683x1024.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"What links all Presidents in the modern White House?\" src=\"https://www.youtube.com/embed/nC4xQ7oCjI0?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"What links all Presidents in the modern White House?\" src=\"https://www.youtube.com/embed/nC4xQ7oCjI0?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube nC4xQ7oCjI0 &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

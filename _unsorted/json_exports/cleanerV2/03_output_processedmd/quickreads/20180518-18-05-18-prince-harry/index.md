@@ -1,0 +1,90 @@
+---
+title: 18.05.18 Prince Harry
+description: ''
+aliases:
+  - 18-05-18-prince-harry/
+published: true
+date: '2018-05-18T10:00:18+00:00'
+publishDate: '2018-05-18T10:00:18+00:00'
+lastmod: '2018-05-18T09:52:06+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: now you know
+color_palette_classname: medium-gray
+background_image: ''
+card_1:
+  card_text: |-
+    HERE COMES THE GROOM!
+    =====================
+
+    **The Prince has 4 names …** **none of them are Harry.**
+
+    FLIP here for more
+  card_citation: FLIP here for more
+card_2:
+  card_text: >-
+    His Royal Highness
+
+    ------------------
+
+
+    Born in London onA Sept 15, 1984
+
+
+    **Full name:** PrinceA Henry Charles Albert David of Wales
+
+
+    **Last name:A** Mountbatten-Windsor
+
+
+    **SIXTH in line to throne** behind Prince Charles, Prince William, Prince
+    George, Princess Charlotte & newborn Prince Louis
+  card_citation: ''
+card_3:
+  card_text: >-
+    > In 2015, Prince Harry ended his decade-long career in the British Army.
+    During that time, he
+
+    > 
+
+    > *   Rose toA rank of Captain
+
+    > *   Completed two operational tours of duty in Afghanistan
+
+    > *   Qualified as an Apache Aircraft Commander
+
+    > *   Spearheaded the Invictus Games
+
+
+    Flip: Why Invictus Games Matter
+  card_citation: 'Flip: Why Invictus Games Matter'
+card_4:
+  card_text: >-
+    > “In a world where so many have reasons to feel cynical and apathetic, I
+    wanted to find a way for veterans to be a beacon of light, and show us all
+    that we have a role to play; that we all win when we respect our friends,
+    neighbors and communities.”
+
+    > 
+
+    > Prince Harry at the 2017 Invictus Games, the Olympic-style multi-sport
+    tournament for wounded veterans he founded in 2014.
+  card_citation: ''
+card_10:
+  card_text: >-
+    The Prince's soon-to-be bride's real name is Rachel Meghan Markle. When they
+    marry, the Queen is expected to give them the title of Duke & Duchess of
+    Sussex. While she'll never officially be Princess Meghan, she will become
+    Her Royal Highness Princess Henry of Wales.
+
+
+    [view sources](https://smarthernews.com/18-05-18-prince-harry/)
+  card_citation: ''
+
+---
+*   **2018 Royal Wedding Topical Guide:** [https://www.apstylebook.com/topical_most_recent](https://www.apstylebook.com/topical_most_recent)
+*   **Prince Harry:** [https://www.royal.uk/prince-harry](https://www.royal.uk/prince-harry)
+*   **June 19, 2015 Update from Kensington Palace:** [https://www.royal.uk/update-kensington-palace](https://www.royal.uk/update-kensington-palace)
+*   **Prince Harry: Military veterans are a ‘beacon of light’:** [https://abcnews.go.com/International/prince-harry-military-veterans-beacon-light/story?id=50054485](https://abcnews.go.com/International/prince-harry-military-veterans-beacon-light/story?id=50054485)
+*   **Speculation rising about royal title for Meghan Markle:** [https://www.yahoo.com/news/speculation-rising-royal-title-meghan-markle-144059603.html](https://www.yahoo.com/news/speculation-rising-royal-title-meghan-markle-144059603.html)

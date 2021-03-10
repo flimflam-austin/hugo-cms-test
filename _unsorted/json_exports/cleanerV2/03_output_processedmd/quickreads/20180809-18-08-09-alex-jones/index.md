@@ -1,0 +1,97 @@
+---
+title: 18.08.09 Alex Jones
+description: ''
+aliases:
+  - 18-08-09-alex-jones/
+published: true
+date: '2018-08-09T11:57:28+00:00'
+publishDate: '2018-08-09T11:57:28+00:00'
+lastmod: '2018-08-09T13:45:07+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: current events
+color_palette_classname: dark-gray
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/06/night-television-tv-theme-machines.jpg
+card_1:
+  card_text: "“Free Speech”  \nInfo War?  \n\n============================\n\n> a\x18Infowars’A founder Alex Jones faces several defamation lawsuits, while social media platforms remove some of his content. When is opinion no longer FREE SPEECH?"
+  card_citation: ''
+card_2:
+  card_text: "Defamation Suits\n----------------\n\nTwo of the lawsuits were filed by parents of **Sandy Hook** victims who say they suffered threats & emotional distress due to Jones’ conspiracy theory about the **2012 school shooting being a hoax**.\n\nJones since recanted, but says his words are protected because he is a **commentator** offering his **opinion**.\n\nA LOOK AT THE LAW"
+  card_citation: A LOOK AT THE LAW
+card_3:
+  card_text: >-
+    FREE SPEECH…  
+
+    Is Not Without Exceptions
+
+    ----------------------------------------
+
+
+    **Some types of speech have limited or no First Amendment protection,
+    including:**
+
+
+    *   Obscene language
+
+    *   Words likely to incite a breach of peace / violence
+
+    *   **Defamatory statementsA**
+  card_citation: ''
+card_4:
+  card_text: >-
+    Defamation Law
+
+    ==============
+
+
+    Plaintiff argues their reputation was harmed by defendant’s false statement
+    about them.
+
+
+    *   False statement & those made “with reckless disregard of the truth” =
+    defamatory
+
+    *   True statement =A non-defamatory
+
+    *   **Opinion statement** = non-defamatory IF it can be proven false
+    \[**Jones’ defense**\]
+  card_citation: ''
+card_5:
+  card_text: >-
+    Why This Matters Beyond Jones:
+
+    ==============================
+
+
+    New technology is like the Wild West.
+
+
+    Anyone can reach millions.
+
+
+    The law hasn’t caught up to new communities or new voices made possible by
+    this technology. How the law will evolve in this new era is still a
+    question.
+  card_citation: ''
+card_10:
+  card_text: >-
+    Facebook, YouTube, Apple & Spotify recently removed some of Jones' content
+    from their platforms for violating hate speech or bullying policies. Twitter
+    did not. Why all the platforms decided to take action now, when Jones has
+    posted for years, is unclear.
+
+
+    [view sources](https://smarthernews.com/18-08-09-alex-jones/)
+  card_citation: ''
+
+---
+*   **“Infowars” host doesn”t attend hearing in Sandy Hook lawsuit:**  
+    [https://apnews.com/e165045b8c754779a6f59d2d5d008eb4](http://a)
+*   **Alex Jones faces existential courtroom battle over limits of fake news:**  
+    [https://www.mystatesman.com/news/state–regional-govt–politics/alex-jones-faces-existential-courtroom-battle-over-limits-fake-news/uzGiDhpaPz0c1OJ79fd6bJ/](https://www.mystatesman.com/news/state--regional-govt--politics/alex-jones-faces-existential-courtroom-battle-over-limits-fake-news/uzGiDhpaPz0c1OJ79fd6bJ/)
+*   **Opinion and Fair Comment Privileges:**  
+    [www.dmlp.org/legal-guide/opinion-and-fair-comment-privileges](http://www.dmlp.org/legal-guide/opinion-and-fair-comment-privileges)
+*   **Why Infowars” Alex Jones was banned from Apple, Facebook, Youtube and Spotify:**  
+    [https://www.politifact.com/truth-o-meter/article/2018/aug/07/why-infowars-alex-jones-was-banned-apple-facebook-/](https://www.politifact.com/truth-o-meter/article/2018/aug/07/why-infowars-alex-jones-was-banned-apple-facebook-/)

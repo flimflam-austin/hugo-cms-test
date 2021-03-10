@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2018/05/sue-zeng-531514-unsplash-scaled.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Monday Morning Catch-Up\" src=\"https://www.youtube.com/embed/r3we3ZDUrfo?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> <p>The FDA Commissoner’s statement on convalescent plasma: <a href=\"https://smarthernews.com/article/hahn-on-convalescent-plasma/\">CLICK HERE</a></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Monday Morning Catch-Up\" src=\"https://www.youtube.com/embed/r3we3ZDUrfo?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube r3we3ZDUrfo &gt;}}</div></div><p></p> <p>The FDA Commissoner’s statement on convalescent plasma: <a href=\"https://smarthernews.com/article/hahn-on-convalescent-plasma/\">CLICK HERE</a></p> ",
   "contentType": "videoposts"
 }

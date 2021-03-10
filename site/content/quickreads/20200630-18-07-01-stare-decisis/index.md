@@ -1,0 +1,84 @@
+---
+title: 18.07.01 Stare Decisis
+description: >-
+  Stare decisis doesn't mean old decisions will *always* hold if challenged, but
+  it does mean that past decisions can shape current legal rulings.
+aliases:
+  - 18-07-01-stare-decisis/
+published: true
+date: '2018-07-02T11:30:34+00:00'
+publishDate: '2018-07-02T11:30:34+00:00'
+lastmod: '2020-06-30T20:43:16+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: now you know
+color_palette_classname: medium-gray
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/02/gabriele-diwald-523962-unsplash-360x360.jpg
+card_1:
+  card_text: >-
+    “To Stand By Things Decided”
+
+    ============================
+
+
+    > **Stare decisis**
+
+    > 
+
+    > As debate heats up over who will fill an empty seat at the Supreme Court,
+    here’s why you should know this term.
+  card_citation: ''
+card_2:
+  card_text: "Why It Matters:\n---------------\n\n*   **Stare decisis**_is a legal doctrine of precedent, meaning **past decisions carry weight**.\n*   As President Trump mulls another Supreme Court nomination for the Senate to consider, some predict the appointment of a conservative justice will lead to sweeping changes of current laws."
+  card_citation: ''
+card_3:
+  card_text: >-
+    > “See the new @USSupremeCourt clearly: Abortion illegal; doctors
+    prosecuted; gay people barred from restaurants, hotels, stores;
+    African-Americans out of elite schools; gun control banned in 50 states; the
+    end of regulatory state.”
+
+    > 
+
+    > Legal Commentator, Jeffrey Toobin, Twitter. While Toobin claims the above,
+    it's not easy to legally overturn the laws he mentions.
+  card_citation: ''
+card_4:
+  card_text: >-
+    Something To Consider:
+
+    ----------------------
+
+
+    > Justice Kennedy, who is retiring, referenced _stare decisis_ in an opinion
+    upholding a challenge to Roe v. Wade in 1992.
+
+    > 
+
+    > “In practice, the Supreme Court will usually defer to its previous
+    decisions even if the soundness of the decision is in doubt.”
+
+    > 
+
+    > Cornell Law School, Legal Information Institute.
+  card_citation: ''
+card_10:
+  card_text: >-
+    Stare Decisis doesn't mean old decisions will \*always\* hold if challenged,
+    but it does mean that past decisions can shape current legal rulings.
+
+
+    [view sources](https://smarthernews.com/18-07-01-stare-decisis/)
+  card_citation: ''
+
+---
+*   **Stare decisis:**  
+    [https://www.law.cornell.edu/wex/stare_decisis](https://www.law.cornell.edu/wex/stare_decisis)
+*   **How Trump’s Supreme Court Pick Could Undo Kennedy’s Legacy:**   
+    [https://www.newyorker.com/magazine/2018/07/09/how-trumps-supreme-court-pick-could-undo-kennedys-legacy](https://www.newyorker.com/magazine/2018/07/09/how-trumps-supreme-court-pick-could-undo-kennedys-legacy)
+*   **SmartHER Note:Here’s part of the opinion that led to defending the right of abortion in the 1992 case:A Planned Parenthood of Southeastern Pennsylvania v. Casey**  
+    [https://www.law.cornell.edu/supremecourt/text/505/833](https://www.law.cornell.edu/supremecourt/text/505/833)
+
+> _Application of the doctrine of **stare decisis** confirms that Roe’s essential holding should be reaffirmed. In reexamining that holding, the Court’s judgment is informed by a series of prudential and pragmatic considerations designed to test the consistency of overruling the holding with the ideal of the rule of law, and to gauge the respective costs of reaffirming and overruling._

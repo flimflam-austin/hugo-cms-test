@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2018/09/ella-jardim-669951-unsplash-1-scaled.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"What You Need To Know This Week 👊🏻\" src=\"https://www.youtube.com/embed/YMEkBbJTjB4?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"What You Need To Know This Week 👊🏻\" src=\"https://www.youtube.com/embed/YMEkBbJTjB4?feature=oembed\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube YMEkBbJTjB4 &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

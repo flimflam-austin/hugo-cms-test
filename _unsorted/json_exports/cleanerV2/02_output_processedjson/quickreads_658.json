@@ -18,5 +18,5 @@
   "card_10": {
     "cardText": "Have a great day!\n\n[view sources](https://smarthernews.com/19-01-08-coffee-talk/)"
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"Coffee Talk-1/8/19\" src=\"https://www.youtube.com/embed/oYVoT9Q6yqo?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p>"
+  "body": "  <p></p><div class=\"iframe-container\"><iframe title=\"Coffee Talk-1/8/19\" src=\"https://www.youtube.com/embed/oYVoT9Q6yqo?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube oYVoT9Q6yqo &gt;}}</div><div>{{&lt; youtube oYVoT9Q6yqo &gt;}}</div></div><p></p> "
 }

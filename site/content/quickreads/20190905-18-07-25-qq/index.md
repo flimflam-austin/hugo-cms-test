@@ -1,0 +1,67 @@
+---
+title: 18.07.25 Qq
+description: ''
+aliases:
+  - 18-07-25-qq/
+published: true
+date: '2018-07-25T10:56:47+00:00'
+publishDate: '2018-07-25T10:56:47+00:00'
+lastmod: '2019-09-05T21:44:46+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: quotes
+color_palette_classname: light-yellow
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/07/274bea00f5227b72bbc50574ac212e1106a76b194401.jpeg
+card_1:
+  card_text: "> “We’re preparing for an avalanche. Emails, telephone calls a\x14 we may see upwards of 500 calls a day.”\n> \n> Real Estate agent Ernie Carswell on listing the Brady Bunch house in Studio City, CA at $1.885M. The homeowners bought it in 1973 for $61K before the home's now iconic exterior was used on the show. The interiors were shot on an LA soundstage.\n\n[Click For Photos](https://www.elliman.com/listing-photos?l=d1a50e7a72cf956bea8e2a14fa1adcb1766560b71fc88087-3367d58f219ae1fb0e3243f58ea17f4559a4cb27)"
+  card_citation: Click For Photos
+card_2:
+  card_text: "> “…other nations cannot bully our agricultural producers to force the United States to cave in.’\n> \n> Secretary of Agriculture Sonny Perdue on the one-time, $12B emergency relief for farmers affected by tariffs. $34B in tariffs have been slapped on Chinese goods so far with China retaliating with tariffs on soybeans & pork. Some Republican lawmakers criticized the move, but it doesn't require Congressional approval."
+  card_citation: ''
+card_3:
+  card_text: >-
+    > “I do not know when or if I will ever return to the business, but I do
+    know that my focus for the foreseeable future will be the work I am doing
+    here in Washington.”
+
+    > 
+
+    > Ivanka Trump on her decision to shut down her fashion line to focus on her
+    White House role. She resigned from the day-to-day operations last year to
+    avoid conflicts of interest, but has confirmed all operations will wind down
+    immediately. Her line of handbags, shoes & dresses were sold in major
+    department stores nationwide.
+  card_citation: ''
+card_4:
+  card_text: >-
+    > “This beast was clearly one of the biggest that ever walked in North
+    America.”
+
+    > 
+
+    > Emanuel Tschopp, a postdoctoral fellow at the American Museum of Natural
+    History's Division of Paleontology, after discovering the largest dinosaur
+    foot to date. Excavated in Wyoming in 1998, paleontologists say they now
+    believe the fossil belongs to a brachiosaur, one of the largest known land
+    animals on Earth.
+  card_citation: ''
+card_5:
+  card_text: "> “I can’t wait for forever together. Yes a million times over.”\n> \n> Model Karlie Kloss announcing her engagement to businessman Joshua Kushner. The pair have dated for 6 years. Joshua’s brother, Jared Kushner, is married to the President's daughter, Ivanka Trump.\n\n[See her Insta post](https://www.instagram.com/p/BlnwAWIH5Y6/)"
+  card_citation: See her Insta post
+card_10:
+  card_text: '[view sources](https://smarthernews.com/18-07-25-qq/)'
+  card_citation: ''
+
+---
+*   **‘Brady Bunch’ House for Sale – But May Be Torn Down:**  
+    [https://deadline.com/2018/07/brady-bunch-house-for-sale-but-may-be-torn-down-1202429238/](https://deadline.com/2018/07/brady-bunch-house-for-sale-but-may-be-torn-down-1202429238/)
+*   **Trump to announce support for farmers caught in trade disputes:**  
+    [https://www.usatoday.com/story/news/politics/2018/07/24/trump-announce-support-farmers-caught-trade-disputes/825940002/](https://www.usatoday.com/story/news/politics/2018/07/24/trump-announce-support-farmers-caught-trade-disputes/825940002/)
+*   **Ivanka Trump Shuts Down Namesake Fashion Brand:**  
+    [https://www.nytimes.com/2018/07/24/business/ivanka-trump-brand-clothing.html](https://www.nytimes.com/2018/07/24/business/ivanka-trump-brand-clothing.html)
+*   **Maybe Bigfoot Was a Dinosaur, If These Fossils Are Any Indication:  
+    **[https://www.livescience.com/63146-bigfoot-dinosaur-discovered.html](https://www.livescience.com/63146-bigfoot-dinosaur-discovered.html)
+*   **Karlie Kloss is Engaged to Joshua Kushner “Their Hearts are Full”:A**  
+    [https://people.com/style/karlie-kloss-engaged-to-joshua-kushner/](https://people.com/style/karlie-kloss-engaged-to-joshua-kushner/)

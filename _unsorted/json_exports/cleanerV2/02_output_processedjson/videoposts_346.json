@@ -12,6 +12,6 @@
     "imageUrl": "https://smarthernews.com/wp-content/uploads/2020/05/IMG_9301-scaled-e1589841577220-890x1024.jpg",
     "alt": ""
   },
-  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"COVID Showdown: Your Personal Liberty vs. Big Government\" src=\"https://www.youtube.com/embed/povyXnuC8XU?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe></div><p></p> ",
+  "body": " <p></p><div class=\"iframe-container\"><iframe title=\"COVID Showdown: Your Personal Liberty vs. Big Government\" src=\"https://www.youtube.com/embed/povyXnuC8XU?feature=oembed\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"360\" width=\"640\"></iframe><div>{{&lt; youtube povyXnuC8XU &gt;}}</div></div><p></p> ",
   "contentType": "videoposts"
 }

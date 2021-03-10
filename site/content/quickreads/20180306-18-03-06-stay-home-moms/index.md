@@ -1,0 +1,96 @@
+---
+title: 18.03.06 Stay at Home Moms
+description: ''
+aliases:
+  - 18-03-06-stay-home-moms/
+published: true
+date: '2018-03-06T12:49:24+00:00'
+publishDate: '2018-03-06T12:49:24+00:00'
+lastmod: ''
+tags: []
+post_author: []
+section: quickreads
+card_series: current events
+color_palette_classname: light-purple
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/03/julie-johnson-514058-unsplash-scaled.jpg
+card_1:
+  card_text: >-
+    Harvard Business Review: Study Exposes Hiring Bias Against Stay-At-Home
+    Parents
+
+    ===============================================================================
+
+
+    Despite working the equivalent of a 90-hr work week, stay-at-home parents
+    are less likely to be rehired into the workforce than parents who are fired
+    or laid-off
+
+
+    Flip For More
+  card_citation: Flip For More
+card_2:
+  card_text: "About the Study:\n================\n\n*   Researchers sent 3,000+ “fake” resumes to business in 50 cities.\n*   Resumes featured three different types of “applicant” parents (currently employed,A unemployed, stay-at-home) with same level of experience, job history & skills.\n*   Researchers tracked who got a ‘call back’ – then issued survey & collected responses."
+  card_citation: ''
+card_3:
+  card_text: >-
+    > “Put simply, stay-at-home parents were about **half** as likely to get a
+    callback as unemployed parents and only**A one-third** as likely as employed
+    parents.”
+
+    > 
+
+    > Prof Kate Weisshaar, Lead Researcher, Harvard Business Review, Feb 22,
+    2018
+
+
+    Not Just Moms...Flip
+  card_citation: Not Just Moms...Flip
+card_4:
+  card_text: >-
+    > “My research shows that, after being pushed out, (mothers) are kept out &
+    have reduced job opportunities when attempting to regain employment.A When
+    fathers opt out…they too face penalties, and in some contexts greater
+    penalties than opt out mothers.”
+
+    > 
+
+    > Prof. Kate Weisshaar, Lead Researcher
+  card_citation: ''
+card_5:
+  card_text: "Study Shows Vicious Cycle\n-------------------------\n\n*   Stay-at-home parents are seen as less reliable & dependable thanA others because they are perceived as caring about family more than work.\n*   An all-encompassing work life forces many parents out of traditional roles. It’s those same ‘expectations’ that keep them from re-entering the workforce."
+  card_citation: ''
+card_6:
+  card_text: >-
+    Food For Thought
+
+    ================
+
+
+    What is a stay-at-home mom’s work REALLY worth?
+
+    -----------------------------------------------
+
+
+    **$143,000:** 92-hour workweek  
+
+    (according to Salary.com)
+
+
+    [Calculate Your Stay-At-Home
+    Pay](https://swz.salary.com/MomSalaryWizard/LayoutScripts/Mswl_NewSearch.aspx)
+  card_citation: Calculate Your Stay-At-Home Pay
+card_10:
+  card_text: >-
+    Why Does This Matter? Raises broader question about how parenting is valued
+    in Corporate America and beyond. SmartHer News wants to know: If parents
+    aren't valued as employees, are they valued as consumers/customers?
+
+
+    [view sources](https://smarthernews.com/18-03-06-stay-home-moms/)
+  card_citation: ''
+
+---
+*   Stay-at-Home Moms Are Half as Likely to Get a Job Interview as Moms Who Got Laid Off: [https://hbr.org/2018/02/stay-at-home-moms-are-half-as-likely-to-get-a-job-interview-as-moms-who-got-laid-off](https://hbr.org/2018/02/stay-at-home-moms-are-half-as-likely-to-get-a-job-interview-as-moms-who-got-laid-off)
+*   American Sociological Review: From Opt Out to Blocked Out: The Challenges for Labor Market Re-entry after Family-Related Employment Lapses: [http://journals.sagepub.com/eprint/wss5qdJRASWnqYiQiBpp/full](http://journals.sagepub.com/eprint/wss5qdJRASWnqYiQiBpp/full)
+*   Salary.com: Mom Salary Wizard:A [https://swz.salary.com/MomSalaryWizard/LayoutScripts/Mswl_NewSearch.aspx](https://swz.salary.com/MomSalaryWizard/LayoutScripts/Mswl_NewSearch.aspx)

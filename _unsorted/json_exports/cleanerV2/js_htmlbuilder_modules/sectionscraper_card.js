@@ -1,5 +1,6 @@
 const TurndownService = require("turndown");
 const turndown = new TurndownService();
+const getBody = require("./getEmbedIds").getBody;
 
 const getCheckmark = (cardElement) => cardElement.querySelector(`.checkmark`);
 
@@ -50,12 +51,10 @@ const getCards = (dom) =>
 const removeSourcesHeading = (sources) =>
 	sources.replace("<h1>Sources</h1>", "");
 
-const getSources = (dom) => dom.window.document.querySelector(".sources");
+const getSources = (dom) => getBody(dom, ".sources");
 
 const getCardSources = (dom) =>
-	getSources(dom)
-		? removeSourcesHeading(getSources(dom).innerHTML.trim())
-		: "";
+	getSources(dom) ? removeSourcesHeading(getSources(dom)) : "";
 
 const getCardBgImage = (dom) => {
 	const maybeImage = dom.window.document.querySelector(".card-inner-overlay");

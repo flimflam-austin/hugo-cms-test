@@ -1,0 +1,132 @@
+---
+title: 18.05.04 Kentucky Derby
+description: ''
+aliases:
+  - 18-05-04-kentucky-derby/
+published: true
+date: '2018-05-04T10:55:21+00:00'
+publishDate: '2018-05-04T10:55:21+00:00'
+lastmod: ''
+tags: []
+post_author: []
+section: quickreads
+card_series: sports
+color_palette_classname: dark-pink
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/05/gene-devine-430971-unsplash-scaled.jpg
+card_1:
+  card_text: >-
+    RUN FOR THE ROSES
+
+    =================
+
+
+    Kentucky Derby Weekend
+
+    ----------------------
+
+
+    It’s “**the most exciting two minutes in sports**” and even if you’re just
+    in it forA **hats & mint juleps** here’s the scoop on the **oldest sporting
+    event in American history**.
+
+
+    FLIP: GIDDY UP!
+  card_citation: 'FLIP: GIDDY UP!'
+card_2:
+  card_text: >-
+    THE TRADITIONS
+
+    --------------
+
+
+    **“Run for the roses”:** Winning horse receives a blanket of 500 blossoms.
+
+
+    **Fancy hats:** Not required, but a staple since 1875. Women wore best
+    fashions for the formal event.
+
+
+    **Mint juleps:**A Derby’s signature drink made with Kentucky bourbon.
+
+
+    **Rain or shine:** No Derby has ever been postponed.
+  card_citation: ''
+card_3:
+  card_text: >-
+    20 Thoroughbreds Race 1.25 Miles
+
+    ================================
+
+
+    HORSES TO WATCH:
+
+    ----------------
+
+
+    *   **Justify:**A Current favorite to win.
+
+    *   **Mendelssohn:** No European horseA has ever won the Derby.
+
+    *   **Magnum Moon:**A Undefeated in 4 starts this year.
+
+    *   **Fun fact:** 19 Derby winners’ names began with “S” – only one this
+    year is long-shotA **Solomoni.A**
+  card_citation: ''
+card_4:
+  card_text: >-
+    Why the Crazy Names?
+
+    --------------------
+
+
+    **Name must be:**A 18 characters. Spaces & punctuation count.
+
+
+    **Name can’t be:** used previously, lewd, vulgar, or named after famous
+    person w/o permission.
+
+
+    Each year, **one-third of 60K names submitted are rejected**.
+
+
+    [Got a name? Check if it's been used
+    here.](https://www.registry.jockeyclub.com/registry.cfm?page=namesrch&search=)
+  card_citation: Got a name? Check if it's been used here.
+card_5:
+  card_text: >-
+    DERBY DETAILS
+
+    -------------
+
+
+    *   **When:**A Saturday, 6:34pm EST
+
+    *   **Where**: Churchill Downs in Louisville, KY
+
+    *   **Why:**A $2M prize & chance to be a Triple Crown winner (must also win
+    Preakness & Belmont Stakes, only 12 horses have ever done it.)
+
+    *   **How to watch:** NBC
+
+
+    CLICK: GET DERBY READY
+  card_citation: 'CLICK: GET DERBY READY'
+card_10:
+  card_text: >-
+    Each year at the Kentucky Derby, almost 120,000 Mint Juleps are served. Get
+    inspired & make them at home with the Derby's official recipe here:
+
+
+    [view sources](https://smarthernews.com/18-05-04-kentucky-derby/)
+  card_citation: ''
+
+---
+*   ****Kentucky Derby odds and predictions 2018: Picks from same expert who has nailed 9 straight Derbys:  
+    ****[https://www.cbssports.com/general/news/kentucky-derby-odds-and-predictions-2018-picks-from-same-expert-who-has-nailed-9-straight-derbys/](https://www.cbssports.com/general/news/kentucky-derby-odds-and-predictions-2018-picks-from-same-expert-who-has-nailed-9-straight-derbys/)
+*   **How do Kentucky Derby thoroughbreds get their names?**  
+    [https://www.washingtonpost.com/news/early-lead/wp/2018/05/02/justify-solomini-how-the-kentucky-derby-horses-get-their-names/](https://www.washingtonpost.com/news/early-lead/wp/2018/05/02/justify-solomini-how-the-kentucky-derby-horses-get-their-names/)
+*   **Making History? Only 12 Triple Crown Winners in History:A**  
+    [https://www.belmontstakes.com/history/triple-crown-winners/](https://www.belmontstakes.com/history/triple-crown-winners/)
+*   **RECIPE: The Kentucky Derby’s Mint Julep:A**  
+    [https://www.kentuckyderby.com/party/recipes/drinks/old-forester-mint-julep](https://www.kentuckyderby.com/party/recipes/drinks/old-forester-mint-julep)

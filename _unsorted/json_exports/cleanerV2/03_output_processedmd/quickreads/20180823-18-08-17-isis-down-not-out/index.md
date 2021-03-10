@@ -1,0 +1,120 @@
+---
+title: 18.08.17 Isis Down but Not Out
+description: ''
+aliases:
+  - 18-08-17-isis-down-not-out/
+published: true
+date: '2018-08-17T11:34:48+00:00'
+publishDate: '2018-08-17T11:34:48+00:00'
+lastmod: '2018-08-23T20:25:44+00:00'
+tags: []
+post_author: []
+section: quickreads
+card_series: current events
+color_palette_classname: dark-gray
+background_image: >-
+  https://smarthernews.com/wp-content/uploads/2018/03/mads-schmidt-rasmussen-178879-unsplash-scaled.jpg
+card_1:
+  card_text: >-
+    DOWN, BUT NOT OUT
+
+    =================
+
+
+    ISIS attacks have fallen from the front pages, but the **terrorist group
+    remains a threat**, according to new reports — as **a**A **suspected ISIS
+    member is arrested in California**.
+
+
+    Why It Matters
+  card_citation: Why It Matters
+card_2:
+  card_text: >-
+    The Big Picture
+
+    ---------------
+
+
+    > “**The U.S. doesn’t really know how many fighters ISIS has**, but it is
+    clearly enough to continue launching daily attacks across Iraq and Syria,
+    while also fighting in several other countries. **It is a mistake to think
+    ISIS is defeated and the US needs to ensure it doesn’t mushroom once
+    again**.”
+
+    > 
+
+    > Tom Joscelyn Senior Fellow, Foundation of Defense of Democracies to SHN
+  card_citation: ''
+card_3:
+  card_text: >-
+    On America’s Shores
+
+    -------------------
+
+
+    *   **Suspected ISIS member** arrested Wednesday in **Sacramento** on
+    **murder charges.**
+
+    *   Allegations: He killed an Iraqi police officer in 2014 & fled to
+    America, **posing as a refugee.**
+
+    *   Allegedly, ties to ISIS &A Al Qaeda.
+
+    *   DOJ seeking to extradite him back to Iraq.
+  card_citation: ''
+card_4:
+  card_text: >-
+    Something To Consider:
+
+    ----------------------
+
+
+    *   **30,000:** UN & DOD estimate of ISIS fighters in Iraq & Syria alone
+
+    *   Positive: America’s **military** **defeat** of ISIS, & the terrorist’s
+    loss of territory in Syria.
+
+    *   However, power of ISIS loyalty / ideology remains. “ISIS’ resilience”
+    mentioned in both reports;A **$2B U.S. dollars** has gone to the Iraqi
+    Security Forces to support fight vs. ISIS.
+  card_citation: ''
+card_5:
+  card_text: >-
+    ISIS: Overseas
+
+    --------------
+
+
+    *   **Tajikistan:** 2 American cyclists in an ISIS claimed attack in July.
+
+    *   **Afghanistan**: ISIS bombed a school; dozens killed.
+
+    *   **Iraq:** operating in smaller cells, ISIS kidnaps & plants IEDs.
+
+    *   **Syria:** ISIS launched largest attack since 2017 in early June.
+    Defeated in 2 days.
+
+    *   **Philippines:** ISIS fighters present.
+  card_citation: ''
+card_10:
+  card_text: >-
+    Turkey, a NATO member, has both provided a gateway for ISIS fighters &
+    suffered from ISIS terrorism. America planned to work w/Turkey vs. ISIS
+    strongholds in Syria. As tension rise between U.S, & Turkey, the way forward
+    remains uncertain & Russia lurks in the background.
+
+
+    [view sources](https://smarthernews.com/18-08-17-isis-down-not-out/)
+  card_citation: ''
+
+---
+*   **Reports: 30,000 ISIS fighters remain in Iraq and Syria:A**  
+    [https://www.axios.com/isis-more-active-in-iraq-and-syria-than-1534426054-8876473a-bfe6-4b50-90b2-21c4b04dac44.html](https://www.axios.com/isis-more-active-in-iraq-and-syria-than-1534426054-8876473a-bfe6-4b50-90b2-21c4b04dac44.html?utm_source=twitter&utm_medium=social&utm_campaign=organic&utm_content=1100)
+*   **Arrest of Sacramento ISIS suspect one of several terror cases prosecuted in region:**  
+    [https://www.sacbee.com/news/local/crime/article216800345.html](https://www.sacbee.com/news/local/crime/article216800345.html)
+*   **2 American cyclists among 4 dead in Tajikistan attack claimed by ISIS:**  
+    [https://abcnews.go.com/International/american-cyclists-dead-terror-attack-tajikistan/story?id=56911753](https://abcnews.go.com/International/american-cyclists-dead-terror-attack-tajikistan/story?id=56911753)
+*   **U.S.-Turkey Tensions Could Stall Progress Against ISIS, Officials Say:  
+    **[https://www.nytimes.com/2018/08/14/world/europe/erdogan-turkey-trump-syria.html](https://www.nytimes.com/2018/08/14/world/europe/erdogan-turkey-trump-syria.html)
+*   **Islamic State claims deadly school bombing in Kabul:  
+    **[https://www.longwarjournal.org/archives/2018/08/islamic-state-claims-deadly-school-bombing-in-kabul.php](https://www.longwarjournal.org/archives/2018/08/islamic-state-claims-deadly-school-bombing-in-kabul.php)
