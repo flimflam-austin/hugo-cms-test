@@ -2,23 +2,23 @@
 title: QQ TX Masks
 section: quickquotes
 tags:
-    - politics
-    - covid
+  - politics
+  - covid
 is_breaking: false
 lastmod: ""
 date: March 3, 2021 12:45 PM
 featured_quote:
-    summary: Texas Gov. Greg Abbott announcing he's removing the statewide mask
-        mandate and COVID-related business restrictions.
-    quote: '"It is now time to open Texas 100 percent."'
+  summary: Texas Gov. Greg Abbott announcing he's removing the statewide mask
+    mandate and COVID-related business restrictions.
+  quote: It is now time to open Texas 100 percent.
 featured_image:
-    alt: TX star
-    image: /uploads/texas-1656861_640.jpg
+  alt: TX star
+  image: /uploads/texas-1656861_640.jpg
 ---
 
--   On March 10, Texas will join [15 other states](https://www.aarp.org/health/healthy-living/info-2020/states-mask-mandates-coronavirus.html) without a statewide mask mandate.
--   Gov. Abbott also [announced](https://gov.texas.gov/news/post/governor-abbott-lifts-mask-mandate-opens-texas-100-percent) he'll lift all COVID-related business restrictions, but left open the possibility for county judges in certain regions (where COVID-19 hospitalizations exceed 15% of the region's hospital capacity for seven straight days) to impose COVID mitigation strategies - so long as no entity is limited to less than 50% capacity.  He added that under no circumstances can anyone be put in jail for not following COVID orders, and that no penalties may be imposed for failing to wear a mask.
--   The Governor [said](https://www.youtube.com/watch?v=6qc2QOY21M0&feature=emb_imp_woyt&ab_channel=KVUE) that while COVID still exits, "_state mandates are no longer needed_" because "_people and businesses don't need the state telling them how to operate_." He explained the state and its citizens now have the resources (including therapeutic drugs and vaccines) and knowledge needed, saying Texans have "_mastered the daily habits to avoid getting COVID._"
+- On March 10, Texas will join [15 other states](https://www.aarp.org/health/healthy-living/info-2020/states-mask-mandates-coronavirus.html) without a statewide mask mandate.
+- Gov. Abbott also [announced](https://gov.texas.gov/news/post/governor-abbott-lifts-mask-mandate-opens-texas-100-percent) he'll lift all COVID-related business restrictions, but left open the possibility for county judges in certain regions (where COVID-19 hospitalizations exceed 15% of the region's hospital capacity for seven straight days) to impose COVID mitigation strategies - so long as no entity is limited to less than 50% capacity.  He added that under no circumstances can anyone be put in jail for not following COVID orders, and that no penalties may be imposed for failing to wear a mask.
+- The Governor [said](https://www.youtube.com/watch?v=6qc2QOY21M0&feature=emb_imp_woyt&ab_channel=KVUE) that while COVID still exits, "_state mandates are no longer needed_" because "_people and businesses don't need the state telling them how to operate_." He explained the state and its citizens now have the resources (including therapeutic drugs and vaccines) and knowledge needed, saying Texans have "_mastered the daily habits to avoid getting COVID._"
 
 "With this executive order, we are ensuring that all businesses and families in Texas have the freedom to determine their own destiny."
 
