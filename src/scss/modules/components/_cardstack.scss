@@ -101,10 +101,14 @@ $card-border-style: $card-border-width solid $card-border-color;
 		right: 0;
 		overflow: hidden;
 		transform-style: preserve-3d;
+		transform-origin: center left;
+		transform: rotate(50deg);
 
 		&--lower {
 			top: auto;
 			bottom: 0;
+			transform-origin: top left;
+			transform: rotate(50deg);
 		}
 	}
 
