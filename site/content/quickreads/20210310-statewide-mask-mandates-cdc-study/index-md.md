@@ -29,7 +29,7 @@ card_2:
     * Outcomes examined: growth rate of COVID-19 cases by county and county deaths (death growth rates) in the days after implementation (days 1-20, 21-40, 41-60, 61-80, + 81-100).
 card_3:
   card_text: >-
-    ### The Results
+    ## The Results
 
 
     * Within 20 days of a statewide mask mandate, counties showed a decrease in COVID-19 cases and deaths.
