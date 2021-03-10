@@ -2,7 +2,6 @@
 title: texas power grid update
 section: quickquotes
 is_breaking: true
-lastmod:
 date: 2021-02-25T15:34:02+00:00
 featured_quote:
     quote: This was really messed up.
