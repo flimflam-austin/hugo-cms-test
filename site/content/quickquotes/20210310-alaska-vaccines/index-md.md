@@ -18,7 +18,8 @@ featured_image:
 * Alaska is now the first state to allow those 16-and-older access to a COVID-19 vaccine.
 * Most other states have provided vaccination access to seniors, and those with pre-existing conditions as well as front-line workers.
 * The only vaccine with emergency use authorization for those as young as 16 is the Pfizer vaccine.
-* Other vaccines like Moderna are testing the vaccine on those 12 and older. No studies are currently being conducted with those under the age of 12.
+* Other vaccines like Moderna are testing the vaccine on those 12 and older. 
+* No vaccines studies (from Western nations) are currently being conducted with those under the age of 12 though this could change if the studies on those 12-and-older are successful.
 * Why This Matters: Some doctors believe that the only way America reaches a level of "community immunity" is to vaccine teenagers as well as adults. 
 
 [READ MORE HERE](https://www.npr.org/2021/03/10/975535053/alaska-opens-vaccines-to-everyone-over-16)
