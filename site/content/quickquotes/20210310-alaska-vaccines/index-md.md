@@ -8,8 +8,7 @@ lastmod: ""
 is_breaking: true
 featured_quote:
   quote: A healthy community means a healthy economy.
-  summary: Alaska Gov. Mike Dunleavy on his state making the COVID-19 vaccine
-    available for all those 16-and-older.
+  summary: ""
   citation: Alaska Gov. Mike Dunleavy on his state making the COVID-19 vaccine
     available for all those 16-and-older.
 featured_image:
