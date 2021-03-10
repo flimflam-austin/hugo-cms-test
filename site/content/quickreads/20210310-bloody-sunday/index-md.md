@@ -46,4 +46,50 @@ card_4:
 
 
     Congressman John Lewis - a young civil rights leader at the time - led the march with Hosea Williams, a fellow activist.
+card_5:
+  card_text: >-
+    ## The Aftermath
+
+
+    In the days that followed, 80 cities around the nation held demonstrations in support of the protestors. 
+
+
+    Faith & civil rights leaders, including Dr. Martin Luther King, Jr., flew to Selma. 
+
+
+    3 weeks later, under the protection of thousands of soldiers (& federal agents), 3000+ set out to march from Selma to Montgomery. Ultimately, 25,000 marchers arrived.
+card_6:
+  card_text: >-
+    > "What happened in Selma is part of a far larger movement which reaches
+    into every section and State of America … And we shall overcome.” 
+
+
+    Pres. Lyndon Johnson in the days following the march. Months later, he signed the Voting Rights Act of 1965 into law, which many see as a direct legislative action in response to "Bloody Sunday." The law prohibits literacy tests and requires federal oversight over any other local laws that could lead to limiting voting rights.
+card_7:
+  card_text: >-
+    > “There are more bridges to cross, but we will make it … ​I just believe
+    deeply within it’s just a matter of time, that fate and history will come
+    together. And we will get there.” 
+
+
+    The late U.S. Rep. John Lewis (D-GA) in 2019 discussing "Bloody Sunday." Rep. Lewis, who died in July 2020 at the age of 80, was brutally beaten that day. He spent his career in public service advocating for racial equality; this is the first Sunday in 56 years he will not be present to mark the day in person.
+card_10:
+  card_text: In 2013 the Edmund Pettus Bridge, named after a Confederate general,
+    was designated as a U.S. National Historic Landmark to honor the events of
+    Bloody Sunday. In recent years, there's been a movement to rename the
+    bridge; these efforts gained further steam after Rep. John Lewis' death in
+    2020.
 ---
+[New York Times: Death of John Lewis Fuels Movement to Rename Edmund Pettus Bridge](https://www.nytimes.com/2020/07/18/us/politics/edmund-pettus-bridge-renamed-john-lewis.html)
+
+[John Lewis Bridge](https://johnlewisbridge.com)
+
+[John Lewis - March from Selma to Montgomery, "Bloody Sunday," 1965 ](https://www.archives.gov/exhibits/eyewitness/html.php?section=2)
+
+
+
+https://smarthernews.com/john-lewis/
+
+https://smarthernews.com/john-lewis-editorial/
+
+https://smarthernews.com/john-lewis/
