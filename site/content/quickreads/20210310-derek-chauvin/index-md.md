@@ -36,4 +36,18 @@ card_3:
     will be relevant to both sides. Video appears to show Floyd fall
     unconscious. Shortly afterwards, he is loaded into an ambulance and later
     declared dead at a local hospital"
+card_4:
+  card_text: >-
+    ## IMPORTANT CONTEXT
+
+
+    Much about the events of May 25, 2020 comes from police and bystander videos.
+
+
+    However, NONE of the videos released from various perspectives show the entire length of the encounter.
+
+
+    We expect to learn a lot more about the details of the incident during the course of the upcoming trials.
+card_5:
+  card_text: ""
 ---
