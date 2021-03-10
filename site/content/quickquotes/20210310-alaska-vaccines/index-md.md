@@ -5,9 +5,9 @@ tags:
   - COVID-19, PANDEMIC
 date: 2021-03-10T21:07:50.039Z
 lastmod: ""
-is_breaking: false
+is_breaking: true
 featured_quote:
-  quote: '"A healthy community means a healthy economy."'
+  quote: A healthy community means a healthy economy.
   summary: ""
   citation: Alaska Gov. Mike Dunleavy on his state making the COVID-19 vaccine
     available for all those 16-and-older.
