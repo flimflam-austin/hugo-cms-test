@@ -1,5 +1,5 @@
-{{ $quickquotes := sort (where .Site.RegularPages "Section" "quickquotes") ".Params.date" }}
-{{ range (sort $quickquotes.Reverse ".Params.is_breaking" "=" true).Reverse }}
+{{ $quickquotes := sort (where .Site.RegularPages "Section" "quickquotes") ".Date" }}
+{{ range (sort $quickquotes ".Params.is_breaking" "=" true).Reverse }}
 <a class="qqprev qqprev--side {{ if (eq .Params.is_breaking true)}} qqprev--breaking {{end}}" href="{{- .Permalink -}}">
     {{ partial "content/preview-quickquote" . }}
 </a>
