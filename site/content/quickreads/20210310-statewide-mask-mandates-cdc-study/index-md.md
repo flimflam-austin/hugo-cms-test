@@ -3,8 +3,7 @@ section: quickreads
 title: Statewide Mask Mandates CDC study
 date: 2021-03-10T19:22:04.230Z
 lastmod: ""
-post_author:
-  - author: Jenna Lee
+post_author: []
 card_series: Politics
 color_palette_classname: light-purple
 background_image: https://images.unsplash.com/photo-1584634428004-1180accbcc9a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=3298&q=80
@@ -68,11 +67,11 @@ card_7:
 
     Connecticut Governor Ned Lamont who announced his state will resume restaurant dining at 100% capacity but with some restrictions (such as earlier closing times). Connecticut will maintain the statewide mask mandate, unlike other states such as Texas and Mississippi that will forego the policy. The differences in the timing of state mitigation efforts, infection rates, and cultural & regional differences in lifestyle are all variables to research.
 card_10:
-  card_text: The CDC calls the difference of infections and statewide mask
+  card_text: '##### The CDC calls the difference of infections and statewide mask
     mandates (an ultimate decrease of nearly 2%) & indoor dining reopening (an
     increase of about 1%) "statistically significant." Those statistics slightly
     change during every 20-day interval the study highlights. You can see the
-    percentages for yourself on our source page.
+    percentages for yourself on our source page.'
 ---
 [Here's the study by the CDC](https://www.cdc.gov/mmwr/volumes/70/wr/mm7010e3.htm?s_cid=mm7010e3_w)
 
