@@ -140,10 +140,10 @@
 		align-items: center;
 
 		@include hover-lighten;
+	}
 
-		&--main {
-			width: 18rem;
-		}
+	&--main .qqprev__wrapper {
+		width: 18rem;
 	}
 
 	&__breakingmarker {

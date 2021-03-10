@@ -14,11 +14,13 @@ $card-border-style: $card-border-width solid $card-border-color;
 	&--spread {
 		& .stackcard {
 			position: relative;
-			margin-bottom: 1rem;
+			margin-bottom: 2rem;
+			height: 400px;
 		}
 
 		& .cardstack__cards {
 			padding: 0;
+			height: auto;
 		}
 	}
 

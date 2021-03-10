@@ -1,10 +1,6 @@
 {{ $quickquotes := sort (where .Site.RegularPages "Section" "quickquotes") ".Params.date" "asc" }}
 {{ range (sort $quickquotes.Reverse ".Params.is_breaking" "=" true ).Reverse }}
 <a class="qqprev qqprev--main {{ if (eq .Params.is_breaking true)}} qqprev--breaking {{end}}" href="{{- .Permalink -}}">
-    <article class="qqprev__wrapper qqprev__wrapper--main">
-        {{ if (eq .Params.is_breaking true)}} <div class="qqprev__breakingmarker">breaking</div> {{end}}
-        <h2 class="qqprev__quote">&ldquo;{{ .Params.featured_quote.quote | truncate 120 }}&rdquo;</h2>
-        <p class="qqprev__summary">{{ .Params.featured_quote.summary | truncate 120 }}</p>
-    </article>
+    {{ partial "content/preview-quickquote" . }}
 </a> 
 {{ end }}

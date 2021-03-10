@@ -1,9 +1,9 @@
 ---
-title: "texas power grid update "
+title: texas power grid update
 section: quickquotes
 is_breaking: true
-lastmod: ""
-date: February 25, 2021 3:16 PM
+lastmod:
+date: 2021-02-25T15:34:02+00:00
 featured_quote:
     quote: '"This was really messed up."'
     citation: "Greg Abbott, Texas Governor "
