@@ -7,6 +7,7 @@ post_author:
   - author: Jenna Lee
 card_series: Politics
 color_palette_classname: light-purple
+background_image: https://images.unsplash.com/photo-1584634428004-1180accbcc9a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=3298&q=80
 card_1:
   card_text: >-
     ### A new study from the CDC takes a closer look at the \*potential\* impact
