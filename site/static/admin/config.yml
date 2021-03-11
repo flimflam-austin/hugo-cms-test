@@ -292,8 +292,6 @@ collections:
       slug: "{{year}}{{month}}{{day}}-{{slug}}"
       path: "{{slug}}/index"
       folder: site/content/quickreads
-      media_folder: ""
-      public_folder: ""
       create: true
       sortable_fields: ["date"]
       fields:
