@@ -220,7 +220,6 @@ collections:
           - label: Image
             name: image
             widget: image
-            media_folder: "./"
             allow_multiple: false
             required: true
           - label: Alt Text
@@ -284,8 +283,10 @@ collections:
   - label: Card Stacks
     name: quickreads
     slug: "{{year}}{{month}}{{day}}-{{slug}}"
-    path: "{{slug}}/index.md"
+    path: "{{slug}}/index"
     folder: site/content/quickreads
+    media_folder: ""
+    public_foler: ""
     create: true
     sortable_fields: ["date"]
     fields:
