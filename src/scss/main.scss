@@ -11,10 +11,9 @@
 @import "./modules/base/transitions";
 @import "./modules/base/colors";
 @import "./modules/base/typography";
-
 @import "./modules/base/borders";
-
 @import "./modules/base/layout";
+@import "./modules/base/hovers";
 
 @import "./modules/components/aspectimage";
 @import "./modules/components/buttons";
@@ -26,7 +25,7 @@
 @import "./modules/components/pagination";
 @import "./modules/components/footerform";
 @import "./modules/components/breakingheader";
-@import "./modules/components/searchbar";
+@import "./modules/components/search";
 
 @import "./modules/layout/siteheader";
 @import "./modules/layout/sitefooter";

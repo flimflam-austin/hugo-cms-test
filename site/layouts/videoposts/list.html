@@ -2,24 +2,15 @@
 <main class="l-page__container">
     {{ partial "components/ruledtitle" (dict "_sectionTitle" "all videos" "_viewAllLink" "")}}
     <div class="l-list-grid__content">
-        {{ $videoposts := sort (where .Site.RegularPages "Section" "videoposts") ".Date" }}
-        {{ $featuredvideoposts := sort $videoposts ".Params.is_featured" "=" true}}
-        {{ $breakingvideoposts := sort $featuredvideoposts ".Params.is_breaking_slider" "=" true}}
-        {{ range  (.Paginate ($breakingvideoposts.Reverse) 12 ).Pages  }}
 
-        <a class="homevidprev" href="{{- .Permalink -}}">
-            <article class="homevidprev__wrapper">
-                <div class="aspectimg">
-                    <img class="aspectimg__image" src="{{- .Params.featured_image.image -}}"
-                        alt="{{- .Params.featured_image.alt -}}">
-                </div>
-                {{ if .Params.category }}
-                <h3 class="homevidprev__category">{{- .Params.category -}}</h3>
-                {{ end }}
-                <h2 class="homevidprev__title">{{- .Title -}}</h2>
-                <p class="homevidprev__summary">{{- .Params.summary | truncate 50 -}}</p>
-            </article>
-        </a>
+        {{ $videoposts := (where .Site.RegularPages "Section" "videoposts").ByDate.Reverse }}
+        {{ $featuredvideoposts := where $videoposts ".Params.is_featured" "=" true}}
+        {{ $breakingvideoposts := where $videoposts ".Params.is_breaking_slider" "=" true}}
+        {{ $sortedvideoposts := union (union $breakingvideoposts $featuredvideoposts) $videoposts }}
+
+        {{ range (.Paginate $sortedvideoposts 12).Pages }}
+
+        {{ partial "content/preview-videoposts" . }}
         
         {{end}}
 

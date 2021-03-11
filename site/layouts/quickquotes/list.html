@@ -2,20 +2,28 @@
 <main class="l-page__container">
     {{ partial "components/ruledtitle" (dict "_sectionTitle" "all quick quotes" "_viewAllLink" "")}}
     <div class="l-list-grid__content">
-        {{ $quickquotes := sort (where .Site.RegularPages "Section" "quickquotes") ".Date" }}
-        {{ range (.Paginate (sort $quickquotes.Reverse ".Params.is_breaking" "=" true ).Reverse 18).Pages }}
+        {{/* {{ $quickquotes := sort (where .Site.RegularPages "Section" "quickquotes") ".Date" }}
+        {{ range (.Paginate (sort $quickquotes ".Params.is_breaking" "=" true ).Reverse 18).Pages }}
         <a class="qqprev qqprev--side qqprev--list {{ if (eq .Params.is_breaking true)}} qqprev--breaking {{end}}"
             href="{{- .Permalink -}}">
-            <article class="qqprev__wrapper">
-                {{ if (eq .Params.meta.is_breaking true)}} <div class="qqprev__breakingmarker">breaking</div> {{end}}
-
-                <h2 class="qqprev__quote">&ldquo;{{ .Params.featured_quote.quote | truncate 120 }}&rdquo;</h2>
-                {{/* {{ .Params.meta.publishdate }} */}}
-                <p class="qqprev__summary">{{ .Params.featured_quote.summary | truncate 120 }}</p>
-            </article>
+            {{ partial "content/preview-quickquote" . }}
         </a>
+        {{ end }} */}}
 
+        {{ $qq := (where .Site.RegularPages "Section" "quickquotes").ByDate.Reverse }}
+        {{ $qqWithBreaking := (where $qq ".Params.is_breaking" true)}}
+        {{ $qqSansBreaking := (where $qq ".Params.is_breaking" "!=" true)}}
+        {{ $qqCombined := union $qqWithBreaking $qqSansBreaking }}
+        {{ range ( .Paginate $qqCombined 12 ).Pages }}
+                {{ partial "content/preview-quickquote" . }}
         {{ end }}
+
+        {{/*{{ range $qqSansBreaking }}
+        <a class="qqprev qqprev--list" href="{{- .Permalink -}}">
+            {{ partial "content/preview-quickquote" . }} 
+        </a>
+        {{ end }}  */}}
+
 
     </div>
     <div class="pagination-body">

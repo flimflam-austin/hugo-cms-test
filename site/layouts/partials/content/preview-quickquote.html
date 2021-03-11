@@ -1,0 +1,12 @@
+<a class="qqprev qqprev {{ if (eq .Params.is_breaking true)}} qqprev--breaking {{end}}" href="{{- .Permalink -}}">
+    <article class="qqprev__wrapper">
+        {{ if (eq .Params.is_breaking true)}} <div class="qqprev__breakingmarker">breaking</div> {{end}}
+        <h2 class="qqprev__quote">&ldquo;{{ .Params.featured_quote.quote | truncate 120 }}&rdquo;</h2>
+        {{ if .Params.featured_quote.citation }}
+        <p class="qqprev__summary">{{ .Params.featured_quote.citation | truncate 120 }}</p>
+        {{else}}
+        <p class="qqprev__summary">{{ .Params.featured_quote.summary | truncate 120 }}</p>
+        {{end}}
+        <p class="qqprev__date">{{ .Date.Format "Jan 2, 2006" }}</p>
+    </article>
+</a>
