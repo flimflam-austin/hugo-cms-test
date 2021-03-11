@@ -75,14 +75,14 @@ card_7:
 
     * **Beyond The Trial:** Case described as a “*defining moment in the history of a nation that is grappling with a racial reckoning*.” (Washington Post)
 card_10:
-  card_text: The trial will begin with jury selection, which is expected to go on
+  card_text:
+    The trial will begin with jury selection, which is expected to go on
     for about three weeks. Next, the prosecution is slated to begin their
     arguments; the defense will respond by presenting their own arguments. The
     joint trial for the three other former MN officers charged is scheduled for
     this summer.
 ---
+
 **SmartHER Timeline:** <https://smarthernews.com/article/developing-story-the-death-of-george-floyd/>
-
-
 
 [George Floyd: What you need to know as Derek Chauvin trial starts Monday ](https://www.mercurynews.com/2021/03/08/george-floyd-derek-chauvin-trial-what-to-know/)
