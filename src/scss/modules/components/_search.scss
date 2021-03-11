@@ -50,15 +50,7 @@
 }
 
 .searchresult {
-	border-radius: 1rem;
-	margin: 1rem 0;
-	padding: 1rem;
-
-	@include transition-fast;
-
-	&:hover {
-		background-color: $color-brand-sage-20;
-	}
+	@include hover-card-rounded-sage;
 
 	&__link-wrapper {
 		color: $color-black;

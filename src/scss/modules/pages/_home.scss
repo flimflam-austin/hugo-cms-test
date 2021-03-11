@@ -65,6 +65,13 @@
 	&__content {
 		padding-top: 2rem;
 		padding-bottom: 4rem;
+
+		&--side {
+			width: 100%;
+			display: grid;
+			grid-template-columns: 1fr;
+			row-gap: $site-content-padding;
+		}
 	}
 }
 
@@ -81,7 +88,21 @@
 		@include hover-lighten;
 	}
 
+	&__info {
+		display: block;
+		width: 100%;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		align-content: flex-end;
+	}
+
 	&__category {
+		margin-top: 1rem;
+		@include typo-title-tiny-light;
+	}
+
+	&__date {
 		margin-top: 1rem;
 		@include typo-title-tiny-light;
 	}
@@ -109,6 +130,8 @@
 }
 
 .qqprev {
+	@include hover-card-rounded-sage;
+
 	display: block;
 	width: 100%;
 
@@ -119,7 +142,7 @@
 	}
 
 	&--side {
-		margin-bottom: 2rem;
+		//margin-bottom: 2rem;
 	}
 
 	&--list {
@@ -127,10 +150,12 @@
 	}
 
 	&__date {
-		color: $color-black;
+		/* color: $color-black;
 		@include alpha-regular;
 		font-size: $fs-sm;
-		padding-top: 0.5rem;
+		padding-top: 0.5rem; */
+		padding-top: 1rem;
+		@include typo-title-tiny-light;
 	}
 
 	&--breaking {
@@ -146,7 +171,7 @@
 		justify-content: center;
 		align-items: center;
 
-		@include hover-lighten;
+		//@include hover-lighten;
 	}
 
 	&--main .qqprev__wrapper {
@@ -179,6 +204,6 @@
 		justify-content: center;
 		width: 3rem;
 
-		margin-bottom: 2rem;
+		//margin-bottom: 2rem;
 	}
 }

@@ -1,28 +1,36 @@
 <div class="carousel">
-    {{ $videoposts := sort (where .Site.RegularPages "Section" "videoposts") ".Params.date" }}
-    {{ $featuredvideoposts := sort $videoposts ".Params.is_featured" "=" true}}
-    {{ $breakingvideoposts := sort $featuredvideoposts ".Params.is_breaking_slider" "=" true}}
-    {{ range first 3 $breakingvideoposts.Reverse }}
-    <article class="carousel-cell {{ if (eq .Params.is_breaking_slider true)}} carousel-cell--breaking {{ end }}">
+    
+    {{ $videoposts := (where .Site.RegularPages "Section" "videoposts").ByDate.Reverse }}
+    {{ $featuredvideoposts := where $videoposts ".Params.is_featured" "=" true}}
+    {{ $breakingvideoposts := where $videoposts ".Params.is_breaking_slider" "=" true}}
+    {{ $sortedvideoposts := union (union $breakingvideoposts $featuredvideoposts) $videoposts }}
+    {{ range first 3 $sortedvideoposts }}
+    <section class="carousel-cell {{ if (eq .Params.is_breaking_slider true)}} carousel-cell--breaking {{ end }}">
         {{ if (eq .Params.is_breaking_slider true)}}
         <a class="carousel__link carousel__link--breaking" href="{{- .Permalink -}}">
-            <span class="carousel__breaking-tag">Breaking</span>
-            <h1 class="carousel__title">{{ .Title }}</h1>
-            <p class="carousel__description">{{- .Params.summary -}}</p>
+            <div class="carousel__titlebox">
+                <span class="carousel__breaking-tag">Breaking</span>
+                <h1 class="carousel__title">{{ .Title }}</h1>
+                <p class="carousel__description">{{- .Params.summary -}}</p>
+            </div>
         </a>
         {{ else if (eq .Params.is_featured true) }}
         <a class="carousel__link carousel__link--featured" href="{{- .Permalink -}}">
-            <h1 class="carousel__title">{{ .Title }}</h1>
-            <p class="carousel__description">{{- .Params.summary -}}</p>
+            <div class="carousel__titlebox">
+                <h1 class="carousel__title">{{ .Title }}</h1>
+                <p class="carousel__description">{{- .Params.summary -}}</p>
+            </div>
         </a>
         {{ else }}
         <a class="carousel__link carousel__link--featured" href="{{- .Permalink -}}">
-            <h1 class="carousel__title">{{ .Title }}</h1>
-            <p class="carousel__description">{{- .Params.summary -}}</p>
+            <div class="carousel__titlebox">
+                <h1 class="carousel__title">{{ .Title }}</h1>
+                <p class="carousel__description">{{- .Params.summary -}}</p>
+            </div>
         </a>
         {{end}}
 
         <img class="carousel__image" src="{{- .Params.featured_image.image -}}" alt="{{- .Params.featured_image.alt -}}">
-    </article>
+    </section>
     {{ end }}
 </div>

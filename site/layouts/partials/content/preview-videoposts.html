@@ -1,0 +1,13 @@
+<a class="homevidprev" href="{{- .Permalink -}}">
+    <article class="homevidprev__wrapper">
+        <div class="aspectimg">
+            <img class="aspectimg__image" src="{{- .Params.featured_image.image -}}" alt="{{- .Params.featured_image.alt -}}">
+        </div>
+        <div class="homevidprev__info">
+            <h3 class="homevidprev__category">{{- .Params.video_series -}}</h3>
+            <p class="homevidprev__date">{{- .Date.Format "Jan 2, 2006" -}}</p>
+        </div>
+        <h2 class="homevidprev__title">{{- .Title -}}</h2>
+        <p class="homevidprev__summary">{{- .Params.summary | truncate 140 -}}</p>
+    </article>
+</a>

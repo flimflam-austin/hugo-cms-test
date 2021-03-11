@@ -46,9 +46,10 @@ $card-border-style: $card-border-width solid $card-border-color;
 	}
 
 	&__date {
-		line-height: 1;
+		/* line-height: 1;
 		padding: 0;
-		margin: 0;
+		margin: 0; */
+		@include typo-title-tiny-light;
 	}
 
 	&__link {
@@ -224,7 +225,11 @@ $card-border-style: $card-border-width solid $card-border-color;
 		display: inline-block;
 		width: $card-padding * 4;
 		height: $card-padding * 5;
-		margin: ($card-padding) auto $card-padding auto;
+		margin-top: $card-padding;
+		margin-bottom: $card-padding;
+		margin-left: 0.7em;
+		/* margin: ($card-padding) auto $card-padding auto;
+		padding-left: 0.6em; */
 	}
 
 	&__content {
@@ -235,6 +240,7 @@ $card-border-style: $card-border-width solid $card-border-color;
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
+		align-items: center;
 	}
 
 	&__text {
@@ -574,7 +580,7 @@ $card-flip-duration: 0.75s;
 	blockquote {
 		padding: 0;
 		margin: 0;
-		line-height: 1.3;
+		line-height: 1.4;
 		text-align: center;
 		text-transform: none;
 		width: 100%;
