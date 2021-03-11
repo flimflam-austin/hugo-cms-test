@@ -3,7 +3,5 @@
 {{ $qqSansBreaking := (where $qq ".Params.is_breaking" "!=" true)}}
 {{ $qqCombined := union $qqWithBreaking $qqSansBreaking }}
 {{ range first 10 $qqCombined }}
-<a class="qqprev qqprev--main {{ if (eq .Params.is_breaking true)}} qqprev--breaking {{end}}" href="{{- .Permalink -}}">
-    {{ partial "content/preview-quickquote" . }}
-</a> 
+{{ partial "content/preview-quickquote" . }}
 {{ end }}

@@ -114,11 +114,13 @@ $l-desktop-xl-up: containerSizes(3, 1);
 .l-sidescroll {
 	overflow-x: scroll;
 	width: auto;
-	display: flex;
+	/* display: flex;
 	flex-direction: row;
 	flex-wrap: nowrap;
-	justify-content: flex-start;
-
+	justify-content: flex-start; */
+	display: grid;
+	grid-template-columns: repeat(10, 400px);
+	grid-template-rows: auto;
 	@include hide-scrollbars;
 	//@include scrollbar-type-box;
 }

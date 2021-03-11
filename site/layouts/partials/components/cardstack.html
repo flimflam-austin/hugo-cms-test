@@ -5,7 +5,6 @@
             <div class="stackcard__frame stackcard__frame--upper">
                 <div class="stackcard__body">
                     {{ if .Params.background_image }}
-                    {{ $hasHttp := findRe }}
                     <img class="stackcard__bgimage" src="{{- .Params.background_image -}}" alt="" />
                     {{end}}
                     <div class="stackcard__borderwrapper">
