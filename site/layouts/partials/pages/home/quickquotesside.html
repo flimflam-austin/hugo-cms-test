@@ -1,9 +1,10 @@
+
+{{/*
 {{ $qq := (where .Site.RegularPages "Section" "quickquotes") }}
 {{ $qqSansBreaking := where $qq ".Params.is_breaking" "!=" "true" }}
 {{ $qqWithBreaking := where (where .Site.RegularPages "Section" "quickquotes") ".Params.is_breaking" "=" "true" }}
 
 {{ range (where (where .Site.RegularPages "Section" "quickquotes") ".Params.is_breaking" true).ByDate.Reverse }}
-{{/* {{ range (sort $quickquotes ".Params.is_breaking" "=" true).Reverse }} */}}
 <a class="qqprev qqprev--side qqprev--breaking" href="{{- .Permalink -}}">
     {{ partial "content/preview-quickquote" . }}
 </a>
@@ -15,4 +16,20 @@
     {{ partial "content/preview-quickquote" . }} 
 </a>
 <hr class="qqprev__ruler">
-{{ end }}  
+{{ end }}
+*/}}
+
+
+{{ $qq := (where .Site.RegularPages "Section" "quickquotes").ByDate.Reverse }}
+{{ $qqWithBreaking := (where $qq ".Params.is_breaking" true)}}
+{{ $qqSansBreaking := (where $qq ".Params.is_breaking" "!=" true)}}
+{{ $qqCombined := union $qqWithBreaking $qqSansBreaking }}
+{{ range first 10 $qqCombined }}
+    {{/* {{ range (sort $quickquotes ".Params.is_breaking" "=" true).Reverse }} */}}
+    <a class="qqprev qqprev--side {{ if (eq .Params.is_breaking true)}} qqprev--breaking {{end}}" href="{{- .Permalink -}}">
+        {{ partial "content/preview-quickquote" . }}
+    </a>
+    {{ if (eq .Params.is_breaking false) }}
+        <hr class="qqprev__ruler">
+    {{end}}
+{{ end }}
