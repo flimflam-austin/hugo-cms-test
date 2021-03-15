@@ -1,0 +1,12 @@
+{{/*{{< betterimg src="" full_width="" attribution="" >}}*/}}
+
+<figure {{if eq (.Get "full_width") true }}class="figure--full-width" {{ end }}>
+    {{ $is_remote := findRE "(http:|https:)" (.Get "src") 1 }}
+    {{ if isset $is_remote 0 }}
+    <img src="{{ .Get "src" }}">
+    {{ else }}
+    <img src="{{ .Page.Permalink }}/{{ .Get "src" }}">
+    {{ end }}
+    
+    {{ if .Get "attribution" }}<figcaption>{{ .Get "attribution" }}</figcaption>{{ end }}
+</figure>
