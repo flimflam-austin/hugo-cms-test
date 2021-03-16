@@ -11,6 +11,10 @@ command = "yarn build:preview"
 
 [[plugins]]
 package = "netlify-plugin-a11y"
+
+[[plugins]]
+package = "/plugins/netlify-sanity-md"
+
 [plugins.inputs]
 checkPaths = ['/']
 

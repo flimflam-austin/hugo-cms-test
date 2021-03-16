@@ -68,12 +68,15 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
+    "@sanity/block-content-to-markdown": "^0.0.5",
+    "@sanity/client": "^2.2.6",
     "csv-parser": "^3.0.0",
     "csv-split-stream": "^1.0.2",
     "csvtojson": "^2.0.10",
     "flickity": "^2.2.2",
     "flickity-imagesloaded": "^2.0.0",
     "front-matter": "^4.0.2",
+    "fs-extra": "^9.1.0",
     "fuse.js": "^6.4.6",
     "html-react-parser": "^1.2.4",
     "js-beautify": "^1.13.5",
