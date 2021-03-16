@@ -68,6 +68,7 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
+    "@octokit/rest": "^18.3.5",
     "@sanity/block-content-to-markdown": "^0.0.5",
     "@sanity/client": "^2.2.6",
     "csv-parser": "^3.0.0",
@@ -87,6 +88,7 @@
     "markdown-to-sanity": "^0.1.0",
     "marked": "^2.0.0",
     "overlayscrollbars": "^1.13.1",
+    "querystring": "^0.2.0",
     "remark": "^13.0.0",
     "remark-html": "^13.0.1",
     "request": "^2.88.2",
