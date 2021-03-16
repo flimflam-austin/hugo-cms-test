@@ -7,8 +7,8 @@ module.exports = {
 		const fs = require("fs-extra");
 		const toMarkdown = require("@sanity/block-content-to-markdown");
 		const client = require("@sanity/client")({
-			projectId: "YOUR_PROJECT_ID_HERE",
-			dataset: "YOUR_DATASET_HERE",
+			projectId: "zhir6k5d",
+			dataset: "public",
 			useCdn: false,
 		});
 

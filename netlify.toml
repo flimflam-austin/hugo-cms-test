@@ -10,10 +10,10 @@ publish = "dist"
 command = "yarn build:preview"
 
 [[plugins]]
-package = "netlify-plugin-a11y"
+package = "/plugins/netlify-sanity-md"
 
 [[plugins]]
-package = "/plugins/netlify-sanity-md"
+package = "netlify-plugin-a11y"
 
 [plugins.inputs]
 checkPaths = ['/']
