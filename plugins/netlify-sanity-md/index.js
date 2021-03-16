@@ -1,10 +1,24 @@
 // https://www.sanity.io/guides/sanity-and-hugo-with-netlify-plugins
+const fs = require("fs-extra");
+
+const updateDeployLog = () => {
+	const deployLogPath = "./plugins/netlify-sanity-md/deploylog.json";
+	const deployLog = JSON.parse(fs.readFileSync(deployLogPath, "utf8"));
+	const lastDeploy = Date.parse(deployLog.lastBuild);
+	const currentTime = new Date();
+
+	deployLog.lastBuild = currentTime;
+
+	fs.writeFileSync(deployLogPath, JSON.stringify(deployLog), "utf8");
+
+	return lastDeploy;
+};
 
 module.exports = {
 	onPreBuild: async ({ utils, packageJson }) => {
 		console.log("Starting plugin");
 		//imports
-		const fs = require("fs-extra");
+
 		const toMarkdown = require("@sanity/block-content-to-markdown");
 		const client = require("@sanity/client")({
 			projectId: "zhir6k5d",
@@ -12,6 +26,9 @@ module.exports = {
 			useCdn: false,
 		});
 
+		const lastBuildTime = updateDeployLog();
+
+		console.log(lastBuildTime);
 		//add any serializers for your portable text
 		/* const serializers = {
 			types: {
@@ -37,12 +54,12 @@ module.exports = {
 		}); */
 
 		try {
-			await client.fetch(`*[_type == "quickquotes"]{title}`).then((res) =>
+			/* await client.fetch(`*[_type == "quickquotes"]{title}`).then((res) =>
 				res.map(async (post) => {
-					console.log(post);
-
-					//output YAML frontmatter here
-					/* let frontmatter = "---";
+					console.log(post); */
+			//console.log(fs.readdirSync("./"));
+			//output YAML frontmatter here
+			/* let frontmatter = "---";
 						Object.keys(post).forEach((field) => {
 							if (field === "slug") {
 								return (frontmatter += `\n${field}: "${post.slug.current}"`);
@@ -75,8 +92,8 @@ module.exports = {
 								}
 							}
 						); */
-				})
-			);
+			/* })
+			); */
 		} catch (error) {
 			utils.build.failBuild("Failure message", { error });
 		}
