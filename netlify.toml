@@ -19,3 +19,11 @@ package = "netlify-plugin-a11y"
 checkPaths = ['/']
 
 resultMode = "warn"
+
+[[headers]]
+for = "/*"
+[headers.values]
+Refferer-Policy = "no-referrer"
+X-Content-Type-Options = "nosniff"
+X-Frame-Options = "DENY"
+X-XSS-Protection = "1; mode=block"
