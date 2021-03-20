@@ -30,12 +30,12 @@ resultMode = "warn"
 #X-Content-Type-Options = "nosniff"
 #X-Frame-Options = "DENY"
 
-[[headers]]
-for = "*.css"
-[headers.values]
-Cache-Control = "max-age=604800, public"
+#[[headers]]
+#for = "*.css"
+#[headers.values]
+#Cache-Control = "max-age=604800, public"
 
-[[headers]]
-for = "*.js"
-[headers.values]
-Cache-Control = "max-age=604800, public"
+#[[headers]]
+#for = "*.js"
+#[headers.values]
+#Cache-Control = "max-age=604800, public"
