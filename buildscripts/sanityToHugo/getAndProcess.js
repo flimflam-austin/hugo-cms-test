@@ -64,7 +64,7 @@ const asyncGetRequest = async () => {
   console.log(startMessage);
 
   const lastBuildTime = log.getLastLog();
-  const articlesSinceDate = 0;
+  const articlesSinceDate = lastBuildTime;
 
   const query = buildQuery(articlesSinceDate);
   const params = buildQueryParams();
