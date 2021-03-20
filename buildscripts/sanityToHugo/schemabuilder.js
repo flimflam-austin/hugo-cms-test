@@ -51,7 +51,7 @@ const getFeaturedImage = (imageFigure) => {
   const fields = [
     sh.getFlatPair("alt", imageFigure.alt),
     sh.getFlatPair("caption", imageFigure.caption),
-    sh.getFlatPair("url", imageFigure.asset?.url),
+    sh.getFlatPair("url", imageFigure.asset ? imageFigure.asset.url : null),
   ];
 
   return ff.compileValidArrayValues(fields);
@@ -63,13 +63,19 @@ const getFeaturedImage = (imageFigure) => {
 
 const getQuickQuotesFields = (data) => {
   const featuredQuoteFields = [
-    sh.getFlatPair("quote", data.featured_quote?.quote),
-    sh.getFlatPair("citation", data.featured_quote?.summary),
+    sh.getFlatPair(
+      "quote",
+      data.featured_quote ? data.featured_quote.quote : null
+    ),
+    sh.getFlatPair(
+      "citation",
+      data.featured_quote ? data.featured_quote.citation : null
+    ),
   ];
 
   const generalFields = [
     sh.getBoolPair("is_breaking", data.is_breaking),
-    sh.getFlatPair("summary", data.featured_quote?.summary),
+    sh.getFlatPair("summary", data.summary),
   ];
 
   return Object.freeze({
@@ -227,7 +233,7 @@ const getSlug = (slug) => slug.replace("article", "");
 const getUniversalFields = (data) => {
   const universalFields = [
     sh.getFlatPair("title", data.title),
-    sh.getFlatPair("slug", data.slug?.current, null, getSlug),
+    sh.getFlatPair("slug", data.slug ? data.slug.current : null, null, getSlug),
     sh.getFlatPair("_id", data._id, null, removeIdPrefix),
     sh.getFlatPair("_rev", data._rev),
     sh.getFlatPair("type", data._type, null, translateTypeName),
@@ -241,7 +247,7 @@ const getUniversalFields = (data) => {
     sh.getFlatPair("tags", data.tags, null, getTags),
     sh.getFlatPair("summary", data.summary),
     sh.getFlatPair("featured_image", data.mainimage, null, getFeaturedImage),
-    sh.getFlatPair("authorReference", data.author?._ref),
+    sh.getFlatPair("authorReference", data.author ? data.author._ref : null),
   ];
 
   return ff.compileValidArrayValues(universalFields);
