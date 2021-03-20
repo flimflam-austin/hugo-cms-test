@@ -9,6 +9,7 @@ _createdAt: '2021-03-17T16:06:34Z'
 _updatedAt: '2021-03-17T16:08:35Z'
 date: '2021-03-17T16:00:00.000Z'
 weight: 50
+summary: nfjdsmbfdms
 featured_image:
   url: >-
     e275002f6f4eb10ad02adf412aea61ea3d563df0-8063x5375.jpg

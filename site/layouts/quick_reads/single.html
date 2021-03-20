@@ -6,7 +6,7 @@
                 {{ .Scratch.Set "showlink" false }}
                 {{partial "components/cardstack" . }}
                 
-                <a class="btn btn--full-width btn--margin-top" href="/quickreads/">View All Quick Reads</a>
+                <a class="btn btn--full-width btn--margin-top" href="/quick_reads/">View All Quick Reads</a>
 
                 {{ partial "components/posttags" . }}
             </section>
@@ -19,7 +19,7 @@
                 {{ end }}
                 {{ partial "components/share" . }}
             </section>
-            
+            {{ partial "components/authors" . }}
         </article>
     </main>
 {{ end }}

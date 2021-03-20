@@ -2,9 +2,13 @@
     <main class="l-page__container">
         <article class="post">
             <header class="post-header">
-                <figure class="post-header__block aspectimg">
-                    <img class="aspectimg__image" src="{{ .Params.featured_image.image }}" alt="{{ .Params.featured_image.alt }}"/>
-                </figure>
+                {{ if .Params.featured_image.url }}
+                    {{- $image := .Resources.GetMatch ( print .Params.featured_image.url ) -}}
+                    <figure class="post-header__block aspectimg">
+                        <img class="aspectimg__image" src="{{ $image.RelPermalink }}" alt="{{ .Params.featured_image.alt }}"/>
+                    </figure>
+                {{ end }}
+                
                     {{/*<p>{{ .Params.video_category }}</p>*/}}
                 <div class="post-header__block post-header__block--text">
 
@@ -12,7 +16,7 @@
                     <a class="post-header__category" href="{{ .Permalink }}">{{ .LinkTitle}}</a>
                     {{end}}
 
-                    <h1 class="post-header__summary">{{ .Params.summary}}</h1>
+                    <h1 class="post-header__summary">{{ .Title }}</h1>
                     <span class="post-header__ruler"></span>
                     <div class="post-header__dates">
                         <p class="post-header__date">Published on<br><time datetime="{{ .Date }}">{{- .Date.Format "Jan 2, 2006" -}}</time></p>
@@ -22,7 +26,7 @@
                     </div>
 
                     
-                      <div>{{ .LinkTitle}}</div> 
+                      {{/*<div>{{ .LinkTitle}}</div> */}}
                     
 
                     {{ partial "components/posttags" . }}
@@ -38,11 +42,7 @@
                 {{ end }}
                 {{ partial "components/share" . }}
             </section>
-
-            <!-- for author, etc. -->
-            <footer class="post-footer">
-                {{/*  {{ partial "components/authors" . }}  */}}
-            </footer>
+            {{/*{{ partial "components/authors" . }}*/}}
         </article>
     </main>
 {{ end }}

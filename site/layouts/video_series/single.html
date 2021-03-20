@@ -1,0 +1,57 @@
+{{ define "main"}}
+
+{{/*
+<main class="l-page__container">
+{{ $pagetitle := print "all " (lower (.Title | humanize))}}
+{{ partial "components/ruledtitle" (dict "_sectionTitle" $pagetitle "_viewAllLink" "")}}
+<hr>
+*/}}
+
+
+<main class="l-page__container">
+    {{ $pagetitle := print "all " (lower (.Title | humanize))}}
+    {{ partial "components/ruledtitle" (dict "_sectionTitle" $pagetitle "_viewAllLink" "")}}
+<hr>
+{{/*
+<ul>
+    {{range .Data.Pages.ByPublishDate }}
+        <li><a class="" href="{{.Permalink}}">{{.Title}}</a></li>
+    {{end}}
+</ul>
+*/}}
+
+<ul class="btn-group">
+    {{- range .Data.Terms.Alphabetical -}}
+    <li class="btn-group__btn">
+        <a class="btn" href="{{ .Page.Permalink }}">{{- .Page.Title -}}</a>
+    </li>
+    {{end}}
+</ul>
+
+
+
+<div class="l-list-grid__content">
+
+    {{ range ( .Paginate (sort .Pages ".Date" "asc") 12) }}
+    
+        {{ partial "content/preview-videoposts" . }}
+
+    {{ end }}
+
+</div>
+
+
+
+
+
+</div>
+<div class="pagination-body">
+    <span class="pagination-rule"></span>
+    {{ template "_internal/pagination.html" . }}
+    <span class="pagination-rule"></span>
+</div>
+</main>
+{{/*
+</main>
+*/}}
+{{end}}

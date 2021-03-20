@@ -1,5 +1,5 @@
 <footer class="sitefooter">
-	<section class="sitefooter__section sitefooter__section--cta">
+	<section id="footer-sign-up" class="sitefooter__section sitefooter__section--cta">
 		<div class="l-page__container sitefooter__content">
 			<p class="footer-cta__tagline footer-cta__tagline--sub">Sign up today to</p>
 			<p class="footer-cta__tagline">Get SmartHER News In Your Mailbox</p>
@@ -10,28 +10,22 @@
 	<section class="sitefooter__section">
 		<div class="l-page__container sitefooter__content">
 			<aside class="sitefooter__brand">
-				<a class="sitefooter__logo-link" href="index.html">
-					<img class="sitefooter__logo" src="img/shn_logo_main.png" />
+				<a href="/">
+					<img src="/img/shn_logo_main.png" alt="Smarther news logo" />
 				</a>
-				<p class="sitefooter__blurb">Join us. SmartHER News: a resource that not only
+				<p><a href="{{ (printf "%s/%s" .Permalink "#footer-sign-up" ) }}">Join Us</a></p>
+				<p>SmartHER News: a resource that not only
 					benefits the American woman, but also ignites a
-					revolution in American journalism.
-					<strong>News returns to a service today.</strong>
-				</p>
+					revolution in American journalism.</p>
+				<p>News returns to a service today.</p>
 			</aside>
 			<nav class="sitefooternav">
 				<div class="sitefooternav__group">
-					<h4 class="sitefooternav__title">pages</h4>
+					<h3 class="sitefooternav__title">pages</h3>
 					<ul class="sitefooternav__links">
-						<li><a class="sitefooternav__link" href="/">home</a></li>
-						<li><a class="sitefooternav__link" href="/search">search</a></li>
-						<li><a class="sitefooternav__link" href="/videoposts/">Videos</a></li>
-						<li><a class="sitefooternav__link" href="/quickquotes/">Quick Quotes</a></li>
-						<li><a class="sitefooternav__link" href="/quickreads/">quick Reads</a></li>
-						<li><a class="sitefooternav__link" href="https://smarthernews.libsyn.com/"
-								target="_blank">Podcast</a></li>
-						<li><a class="sitefooternav__link" href="https://smarthernews.com/shop/"
-								target="_blank">Shop</a></li>
+						{{ range .Site.Menus.main }}
+							<li><a {{if eq .Params.dest "external" }}target="_blank"{{end}} href="{{ .URL }}">{{.Name}}</a></li>
+						{{ end }}
 					</ul>
 				</div>
 				{{/* <div class="sitefooternav__group">
@@ -42,21 +36,18 @@
 					</ul>
 				</div> */}}
 				<div class="sitefooternav__group">
-					<h4 class="sitefooternav__title">social</h4>
+					<h3 class="sitefooternav__title">social</h3>
 					<!-- TODO: tie to social in front matter -->
 					<ul class="sitefooternav__links">
-						<li><a class="sitefooternav__link"
-								href="https://www.youtube.com/channel/UCQ2Zh_7fnOSW9BegOmkwOtg"
-								target="_blank">youtube</a></li>
-						<li><a class="sitefooternav__link" href="https://www.instagram.com/smarthernews/"
-								target="_blank">instagram</a></li>
-						<li><a class="sitefooternav__link" href="https://www.facebook.com/GetSmartherNews"
-								target="_blank">facebook</a></li>
+						{{ range .Site.Menus.social }}
+							<li><a class="sitefooternav__link"
+								href="{{ .URL }}"
+								target="_blank">{{.Name}}</a></li>
+						{{ end }}
 					</ul>
 				</div>
 			</nav>
-			<p class="sitefooter__copyright">© SmartHER News 2021. All rights reserved.</p>
-			<!-- TODO: site search -->
+			<p class="sitefooter__copyright">{{ .Site.Params.footer | safeHTML }}</p>
 		</div>
 	</section>
 </footer>

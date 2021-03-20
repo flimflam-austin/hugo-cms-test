@@ -16,6 +16,4 @@ video_series: Spotlight
 ---
 {{< youtube N7TJZsE5Jqw >}}
 
-Read More Here: [SmartHER Gratitude](https://smarthernews.com/the-science-of-giving-thanks/)youtube N7TJZsE5Jqw >}}
-
 Read More Here: [SmartHER Gratitude](https://smarthernews.com/the-science-of-giving-thanks/)

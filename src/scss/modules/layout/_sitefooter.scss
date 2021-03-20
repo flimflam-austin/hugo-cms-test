@@ -1,120 +1,146 @@
 .sitefooter {
-	width: 100%;
+  width: 100%;
 
-	&__section {
-		border-top: $border-style-alpha;
-		padding-top: 4rem;
-		padding-bottom: 4rem;
-		background-color: $color-brand-gray-10;
+  &__section {
+    border-top: $border-style-alpha;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    background-color: $color-brand-gray-10;
 
-		&--cta {
-			background-color: $color-brand-blush;
-		}
-	}
+    &--cta {
+      background-color: $color-brand-blush;
+    }
+  }
 
-	&__content {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		width: 100%;
-	}
+  &__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+  }
 
-	&__brand {
-		width: 100%;
-		max-width: 600px;
-		margin: 0 auto;
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-	}
+  &__brand {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 
-	&__logo-link {
-		display: inline-block;
-		width: auto;
-		height: auto;
-		margin: 0 auto;
-	}
+    & a {
+      display: inline-block;
+      width: auto;
+      height: 4rem;
+      margin: 0 auto;
 
-	&__logo {
-		width: 200px;
-		height: 28.2px;
-		margin: 0 auto;
-		padding-bottom: 2rem;
-	}
+      & img {
+        height: 100%;
+        margin: 0 auto;
+        padding-bottom: 2rem;
+      }
+    }
 
-	&__blurb {
-		text-align: center;
-	}
+    & p {
+      display: inline-block;
+      text-align: center;
+      max-width: 40ch;
+      margin: 0 auto;
+      @include alpha-regular;
+      font-size: $fs-base;
+      line-height: 1.4;
 
-	& .sitefooternav {
-		width: 100%;
-		max-width: 600px;
-		margin: 0 auto;
-		padding-top: 4rem;
+      & a {
+        color: inherit;
+        display: inline;
+        @include hover-lighten;
+      }
+    }
 
-		grid-column: 1/-1;
+    & p:first-of-type {
+      @include beta-bold;
+      font-size: $fs-md;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      text-decoration: underline;
+    }
 
-		display: grid;
-		grid-template-columns: 1fr;
-		column-gap: $site-content-padding;
-		row-gap: $site-content-padding;
+    & p + p {
+      margin-top: 1em;
+    }
+  }
 
-		justify-content: center;
+  & .sitefooternav {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding-top: 6rem;
 
-		&__title {
-			text-align: center;
-			font-size: $fs-base;
-			text-transform: uppercase;
-			@include beta-regular;
-			color: $color-black;
-		}
+    grid-column: 1/-1;
 
-		&__links {
-			text-align: center;
-			padding-left: 0;
-			margin: 0;
-			list-style-type: none;
-		}
+    display: grid;
+    grid-template-columns: 1fr;
+    column-gap: $site-content-padding;
+    row-gap: $site-content-padding;
 
-		&__link {
-			display: inline-block;
-			font-size: $fs-sm;
-			color: $color-black;
-			text-transform: capitalize;
-			@include alpha-regular;
+    justify-content: center;
+    align-items: flex-start;
 
-			padding-top: 1rem;
+    &__group {
+      & h3 {
+        text-align: center;
+        font-size: $fs-base;
+        text-transform: uppercase;
+        @include beta-regular;
+        color: $color-black;
+      }
 
-			@include hover-link;
-		}
-	}
+      & ul {
+        text-align: center;
+        padding-left: 0;
+        margin: 0;
+        list-style-type: none;
 
-	&__copyright {
-		width: 100%;
-		margin: 0 auto;
-		text-align: center;
-		padding-top: 4rem;
-	}
+        & a {
+          display: inline-block;
+          font-size: $fs-sm;
+          color: $color-black;
+          text-transform: capitalize;
+          @include alpha-regular;
 
-	@include query-tablet-up {
-		& .sitefooternav {
-			grid-template-columns: 1fr 1fr;
-			justify-content: flex-start;
-		}
-	}
+          padding-top: 1rem;
+
+          @include hover-link;
+        }
+      }
+    }
+  }
+
+  &__copyright {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 4rem;
+  }
+
+  @include query-tablet-up {
+    & .sitefooternav {
+      grid-template-columns: 1fr 1fr;
+      justify-content: flex-start;
+    }
+  }
 }
 
 .footer-cta {
-	&__tagline {
-		@include typo-title-01;
-		text-align: center;
+  &__tagline {
+    @include typo-title-01;
+    text-align: center;
 
-		&--sub {
-			@include typo-subtitle-01;
-			display: inline-block;
-			margin-left: auto;
-			margin-right: auto;
-			margin-bottom: 1rem;
-		}
-	}
+    &--sub {
+      @include typo-subtitle-01;
+      display: inline-block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 1rem;
+    }
+  }
 }

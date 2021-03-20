@@ -1,10 +1,11 @@
 {{ define "main"}}
 
+{{/*
 <main class="l-page__container">
 {{ $pagetitle := print "all " (lower (.Title | humanize))}}
 {{ partial "components/ruledtitle" (dict "_sectionTitle" $pagetitle "_viewAllLink" "")}}
 <hr>
-
+*/}}
 <ul class="tags">
     {{- $type := .Type -}}
     {{- range $key, $value := .Data.Terms.Alphabetical -}}
@@ -22,12 +23,48 @@
     {{ $pagetitle := print "all " (lower (.Title | humanize))}}
     {{ partial "components/ruledtitle" (dict "_sectionTitle" $pagetitle "_viewAllLink" "")}}
 <hr>
-
+{{/*
 <ul>
     {{range .Data.Pages.ByPublishDate }}
         <li><a class="" href="{{.Permalink}}">{{.Title}}</a></li>
     {{end}}
 </ul>
+*/}}
+
+{{ $query := print ".Params." (lower (.Title))}}
+{{ range (where site.RegularPages $query "!=" nil) }}
+<h1>{{.Params.title}} - {{.Params.summary}}</h1>
+{{ end }}
+
+
+{{/*
+</main>
+*/}}
+{{end}}
+{{/*
+{{ define "main"}}
+
+<main class="l-page__container">
+
+    {{ $pagetitle := print "all " (lower (.Title | humanize))}}
+    {{ partial "components/ruledtitle" (dict "_sectionTitle" $pagetitle "_viewAllLink" "")}}
+
+
+<hr>
+
+<ul class="btn-group">
+    {{- range .Data.Terms.Alphabetical -}}
+    <li class="btn-group__btn">
+        <a class="btn" href="{{ .Page.Permalink }}">{{- .Page.Title -}}</a>
+    </li>
+    {{end}}
+</ul>
+
+{{ $query := print ".Params." (lower (.title))}}
+{{ range (where site.RegularPages $query "!=" nil) }}
+<h1>{{.Params.title}}</h1>
+{{ end }}
 
 </main>
 {{end}}
+*/}}

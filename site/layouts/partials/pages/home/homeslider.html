@@ -2,11 +2,11 @@
     
     {{ $videoposts := (where .Site.RegularPages "Section" "video_posts").ByDate.Reverse }}
     {{ $featuredvideoposts := where $videoposts ".Params.is_featured" "=" true}}
-    {{ $breakingvideoposts := where $videoposts ".Params.is_breaking_slider" "=" true}}
+    {{ $breakingvideoposts := where $videoposts ".Params.is_breaking" "=" true}}
     {{ $sortedvideoposts := union (union $breakingvideoposts $featuredvideoposts) $videoposts }}
     {{ range first 3 (where $sortedvideoposts ".Params.featured_image.url" "!=" nil ) }}
-    <section class="carousel-cell {{ if (eq .Params.is_breaking_slider true)}} carousel-cell--breaking {{ end }}">
-        {{ if (eq .Params.is_breaking_slider true)}}
+    <section class="carousel-cell {{ if (eq .Params.is_breaking true)}} carousel-cell--breaking {{ end }}">
+        {{ if (eq .Params.is_breaking true)}}
         <a class="carousel__link carousel__link--breaking" href="{{- .Permalink -}}">
             <div class="carousel__titlebox">
                 <span class="carousel__breaking-tag">Breaking</span>

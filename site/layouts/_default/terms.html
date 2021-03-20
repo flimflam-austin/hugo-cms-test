@@ -15,10 +15,9 @@
     {{end}}
 </ul>
 
-{{/*  <ul>
-    {{range .Data.Pages.ByPublishDate }}
-        <li><a class="" href="{{.Permalink}}">{{.Title}}</a></li>
-    {{end}}
-</ul>  */}}
+{{ range .Pages.ByDate }}
+<h1>{{.Title}}</h1>
+{{ end }}
+
 </main>
 {{end}}

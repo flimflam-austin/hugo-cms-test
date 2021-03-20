@@ -2,13 +2,21 @@
 {{ range first 6 $shopposts }}
 
 
-<a class="homevidprev" href="{{- .Params.storelink -}}">
+<a class="homevidprev" target="_blank" href="{{- .Params.storeLink -}}">
     <article class="homevidprev__wrapper">
         <div class="aspectimg">
-            <img class="aspectimg__image" src="{{- .Params.featured_image.image -}}" alt="{{- .Params.featured_image.alt -}}">
+            {{ $productPhoto := .Resources.GetMatch (print .Params.featured_image.url )}}
+            <img class="aspectimg__image" src="{{- $productPhoto.RelPermalink -}}" alt="{{- .Params.featured_image.alt -}}">
+        </div>
+        <div class="homevidprev__info">
+            <h3 class="homevidprev__category">{{- .Params.product_series -}}</h3>
         </div>
         <h2 class="homevidprev__productname">{{- .Title -}}</h2>
-        <p class="homevidprev__price">{{- .Params.price -}}</p>
+        {{ if .Params.summary }}
+            <p class="homevidprev__summary">{{- .Params.summary -}}</p>
+        {{ end }}
+        <p class="homevidprev__price">{{ if .Params.discounted_from_price }}<span class="homevidprev__price--discounted">{{- .Params.discounted_from_price -}}</span> {{ end }}{{- .Params.price -}}</p>
+        
     </article>
 </a>
 

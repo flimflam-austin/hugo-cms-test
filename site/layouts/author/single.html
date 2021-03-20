@@ -1,0 +1,53 @@
+
+{{/*
+{{ if .Params.authorReference }}
+{{ $authorRef := .Params.authorReference | string }}
+<footer class="author">
+    
+    {{- $authorRef -}}
+    {{ range where (where .Site.Pages "Section" "author" ) ".Params._id"  "=" $authorRef }}
+    
+    <div class="author__wrapper">
+            <div class="aspectimg author__portrait-wrapper">
+                {{- $portrait := .Resources.GetMatch ( print .Params.featured_image.url ) -}}
+                <img class="aspectimg__image author__portrait " src="{{- $portrait.RelPermalink -}}" alt="Photo of author {{- .Params.title -}}"/>
+            </div>
+            <div class="author__details">
+                <h3>{{ .Params.title}}</h3>
+                {{ if .Params.subtitle }}
+                    <h4>{{- .Params.subtitle -}}</h4>
+                {{ end }}
+                <hr>
+                {{ if and (.Params.personal_site) (.Params.email) }}
+                    <ul class="author__contact-info">
+                        {{ if .Params.personal_site}}
+                            <li>
+                                <a href="{{- .Params.personal_site -}}">website</a>
+                            </li>
+                        {{ end }}
+                        {{ if .Params.email }}
+                            <li>{{- .Params.email -}}</li>
+                        {{ end }}
+                    </ul>
+                {{ end }}
+                <ul class="author__social-links">
+                    {{- range $siteName, $address := .Params.social_links -}}
+                        {{ if $address }}
+                            <li>
+                                <a target="_blank" href="{{- $address -}}">{{- $siteName -}}</a>
+                            </li>
+                        {{ end }}
+                    {{ end }}
+                </ul>
+                <p>{{- .Params.summary -}}</p>
+            </div>
+        
+    </div>
+    
+    
+    
+    <h1>{{ .Params.title }}</h1>
+    {{ end }}
+</footer>
+{{ end }}
+*/}}

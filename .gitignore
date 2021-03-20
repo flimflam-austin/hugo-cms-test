@@ -2,6 +2,7 @@
 dist/
 site/data/webpack.json
 /npm-debug.log
+node_modules
 yarn-error.log
 00_output_rawscrapecsv/
 

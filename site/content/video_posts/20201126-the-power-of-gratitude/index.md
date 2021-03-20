@@ -16,6 +16,7 @@ featured_image:
   url: >-
     23640c299576ab5a375d9be1a099ff049fe5c7a4-1939x1657.jpg
 video_series: Coffee Talk
+is_breaking: true
 
 ---
 {{< youtube N7TJZsE5Jqw >}}

@@ -3,9 +3,10 @@
         <article class="post">
             <header class="post-header">
 
-                {{ if .Params.featured_image.image }}
+                {{ if .Params.featured_image.url }}
+                {{ $image := .Resources.GetMatch ( print .Params.featured_image.url ) }}
                 <figure class="post-header__block aspectimg">
-                    <img class="aspectimg__image" src="{{ .Params.featured_image.url }}" alt="{{ .Params.featured_image.alt }}" />
+                    <img class="aspectimg__image" src="{{ $image.RelPermalink }}" alt="{{ .Params.featured_image.alt }}" />
                 </figure>
                 <div class="post-header__block post-header__block--text">
                 {{ else }}
@@ -19,8 +20,8 @@
                     <p class="post-header__citation">{{ .Params.featured_quote.citation }}</p>
                     {{end}}
 
-                    {{ if .Params.featured_quote.summary }}
-                    <p class="post-header__summary--secondary">{{ .Params.featured_quote.summary }}</p>
+                    {{ if .Params.summary }}
+                    <p class="post-header__summary--secondary">{{ .Params.summary }}</p>
                     {{ end }}
 
                     <span class="post-header__ruler"></span>

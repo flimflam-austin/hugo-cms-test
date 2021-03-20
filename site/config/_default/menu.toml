@@ -1,83 +1,83 @@
 [[main]]
-    name = "Home"
-    url = "/"
-    weight = 10
-    [main.params]
-        dest = "external"
+name = "Home"
+url = "/"
+weight = 10
+[main.params]
+dest = "internal"
 
 [[main]]
-    name = "Videos"
-    url = "/video-posts/"
-    weight = 20
-    [main.params]
-        dest = "external" 
+name = "Videos"
+url = "/video_posts/"
+weight = 20
+[main.params]
+dest = "internal"
 
 [[main]]
-    name = "Quick Quotes"
-    url = "/quick-quotes/"
-    weight = 30
-    [main.params]
-        dest = "external"
+name = "Quick Quotes"
+url = "/quick_quotes/"
+weight = 30
+[main.params]
+dest = "internal"
 
 [[main]]
-    name = "Quick Reads"
-    url = "/quick-reads/"
-    weight = 40
-    [main.params]
-        dest = "external"
+name = "Quick Reads"
+url = "/quick_reads/"
+weight = 40
+[main.params]
+dest = "internal"
 
 [[main]]
-    name = "Podcast"
-    url = "https://smarthernews.libsyn.com/"
-    weight = 50
-    [main.params]
-        dest = "external"
+name = "Podcast"
+url = "https://smarthernews.libsyn.com/"
+weight = 50
+[main.params]
+dest = "external"
 
 [[main]]
-    name = "Shop"
-    url = "https://smarthernews.com/shop/"
-    weight = 60
-    [main.params]
-        dest = "external"
+name = "Shop"
+url = "https://smarthernews.com/shop/"
+weight = 60
+[main.params]
+dest = "external"
 
 [[main]]
-    name = "Search"
-    url = "/search/"
-    weight = 70
-    [main.params]
-        dest = "external"
+name = "Search"
+url = "/search/"
+weight = 70
+[main.params]
+dest = "external"
 
 [[info]]
-    name = "About"
-    url = "/about/"
-    weight = 0
+name = "About"
+url = "/about/"
+weight = 0
 
 [[info]]
-    name = "Privacy"
-    url = "/privacy/"
-    weight = 0
+name = "Privacy"
+url = "/privacy/"
+weight = 0
 
 
 [[social]]
-    name = "Twitter"
-    url = "https://twitter.com/smarthernews"
-    weight = 30
-    pre = '<img src="/images/icon_twitter_small.jpeg" alt="twitter icon"/>'
+name = "Twitter"
+url = "https://twitter.com/smarthernews"
+weight = 30
+pre = '<img src="/images/icon_twitter_small.jpeg" alt="twitter icon"/>'
 
 [[social]]
-    name = "Facebook"
-    url = "https://www.facebook.com/GetSmartherNews"
-    weight = 30
-    pre = '<img src="/images/icon_facebook_small.jpeg" alt="facebook icon"/>'
+name = "Facebook"
+url = "https://www.facebook.com/GetSmartherNews"
+weight = 30
+pre = '<img src="/images/icon_facebook_small.jpeg" alt="facebook icon"/>'
 
 [[social]]
-    name = "Instagram"
-    url = "https://www.instagram.com/smarthernews/"
-    weight = 30
-    pre = '<img src="/images/icon_instagram_small.jpeg" alt="instagram icon"/>'
+name = "Instagram"
+url = "https://www.instagram.com/smarthernews/"
+weight = 30
+pre = '<img src="/images/icon_instagram_small.jpeg" alt="instagram icon"/>'
 
 [[social]]
-    name = "YouTube"
-    url = "https://www.youtube.com/channel/UCQ2Zh_7fnOSW9BegOmkwOtg"
-    weight = 30
-    pre = '<img src="/images/icon_youtube_small.jpeg" alt="youtube icon"/>'
+name = "YouTube"
+url = "https://www.youtube.com/channel/UCQ2Zh_7fnOSW9BegOmkwOtg"
+weight = 30
+pre = '<img src="/images/icon_youtube_small.jpeg" alt="youtube icon"/>'

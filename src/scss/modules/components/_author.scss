@@ -1,0 +1,20 @@
+.author {
+  width: 100%;
+
+  &__wrapper {
+    width: 100%;
+    max-width: 900px;
+    display: grid;
+    grid-template-columns: minmax(150px, 200px), 1fr;
+    grid-template-rows: auto;
+    column-gap: $site-content-padding * 2;
+    row-gap: $site-content-padding;
+  }
+
+  &__portrait-wrapper {
+    border-radius: 50%;
+  }
+
+  &__portrait {
+  }
+}

@@ -2,17 +2,18 @@
 title: Jenna
 slug: jenna
 _id: 5011411a-3ce0-4c80-975a-7b1a35572700
-_rev: AkM8Yiz4gDyxgF6ALifjCH
+_rev: R6kA69VziFxUziirh4VRZ4
 type: author
 draft: false
 _createdAt: '2021-03-17T23:04:44Z'
-_updatedAt: '2021-03-19T22:48:19Z'
+_updatedAt: '2021-03-20T11:38:05Z'
 date: '2021-03-17T23:04:44Z'
 weight: 50
+summary: Blurb text to test
 featured_image:
-  alt: image of jenna
+  alt: alt text
   url: >-
-    8f26b5dcff7fa0a7707aa4b8e2361c958a1e5d88-4478x5597.jpg
+    274597f5b84ce87333e3cb8266683ef13845800e-4608x3072.jpg
 subtitle: sample subtitle
 email: test@example.com
 personal_site: https://example.com

@@ -1,58 +1,62 @@
 .breakingheader {
-	background-color: $color-ui-alert;
-	height: 3rem;
-	position: fixed;
-	width: 100%;
-	top: 0;
-	left: 0;
-	right: 0;
-	opacity: 0;
-	visibility: hidden;
-	z-index: map-get($zindex, "header-primary-beta");
-	@include transition-standard;
+  background-color: $color-ui-alert;
+  height: 3rem;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 0;
+  visibility: hidden;
+  z-index: map-get($zindex, "header-primary-beta");
+  @include transition-standard;
 
-	&--open {
-		top: $sitenav-height;
-		opacity: 1;
-		visibility: visible;
-	}
+  & a {
+    color: inherit;
+  }
 
-	&__content {
-		height: 100%;
-		@extend .l-page__container;
-		flex-direction: row;
-		flex-wrap: nowrap;
-		justify-content: space-between;
-		align-items: center;
-	}
+  &--open {
+    top: $sitenav-height;
+    opacity: 1;
+    visibility: visible;
+  }
 
-	&__text {
-		height: 100%;
-		display: flex;
-		flex-direction: row;
-		flex-wrap: nowrap;
-		align-items: center;
-	}
+  &__content {
+    height: 100%;
+    @extend .l-page__container;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+  }
 
-	&__headline {
-		display: inline-block;
-		@include typo-breaking-dropdown;
-	}
+  &__text {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+  }
 
-	// build to extend global breakingmarker
-	&__breakingmarker {
-		@include typo-breaking-sm;
-		display: inline-block;
-		margin: 0 1rem 0 0;
-	}
+  &__headline {
+    display: inline-block;
+    @include typo-breaking-dropdown;
+  }
 
-	&__prefix {
-		@include alpha-bold;
-		text-transform: uppercase;
-	}
+  // build to extend global breakingmarker
+  &__breakingmarker {
+    @include typo-breaking-sm;
+    display: inline-block;
+    margin: 0 1rem 0 0;
+  }
 
-	&__close {
-		position: relative;
-		z-index: map-get($zindex, "header-primary") + 1;
-	}
+  &__prefix {
+    @include alpha-bold;
+    text-transform: uppercase;
+  }
+
+  &__close {
+    position: relative;
+    z-index: map-get($zindex, "header-primary") + 1;
+  }
 }

@@ -1,213 +1,233 @@
 .home {
-	&__body {
-		@include query-desktop-up {
-			height: 100vh;
-			display: flex;
-			flex-direction: column;
-		}
-	}
-	&__feeds {
-		@include query-desktop-up {
-			overflow-y: hidden;
-		}
-	}
+  &__body {
+    @include query-desktop-up {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  &__feeds {
+    @include query-desktop-up {
+      overflow-y: hidden;
+    }
+  }
 
-	&__feed {
-		width: 100%;
-		overflow-x: hidden;
-		grid-column: 1/-1;
-		@include hide-scrollbars;
+  &__feed {
+    width: 100%;
+    //overflow-x: hidden;
+    overflow-x: visible;
+    grid-column: 1/-1;
+    @include hide-scrollbars;
 
-		@include query-tablet-up {
-		}
+    @include query-tablet-up {
+    }
 
-		@include query-desktop-up {
-			grid-column: 1 / span 2;
-			overflow-y: scroll;
-		}
+    @include query-desktop-up {
+      grid-column: 1 / span 2;
+      overflow-y: scroll;
+    }
 
-		@include query-desktop-xl-up {
-			grid-column: 1 / span 3;
-		}
+    @include query-desktop-xl-up {
+      grid-column: 1 / span 3;
+    }
 
-		&--side {
-			display: none;
-			padding-left: $site-content-padding;
-			@include hide-scrollbars;
+    &--side {
+      display: none;
+      padding-left: $site-content-padding;
+      @include hide-scrollbars;
 
-			@include query-tablet-up {
-			}
+      @include query-tablet-up {
+      }
 
-			@include query-desktop-up {
-				display: block;
-				grid-column: 3 / span 1;
-			}
+      @include query-desktop-up {
+        display: block;
+        grid-column: 3 / span 1;
+      }
 
-			@include query-desktop-xl-up {
-				grid-column: 4 / span 1;
-			}
-		}
-	}
+      @include query-desktop-xl-up {
+        grid-column: 4 / span 1;
+      }
+    }
+  }
 }
 
 .feed-section {
-	width: 100%;
-	position: relative;
+  width: 100%;
+  position: relative;
+  overflow-x: visible;
 
-	&--mobileonly {
-		width: 100%;
-		@include query-desktop-up {
-			visibility: hidden;
-			display: none;
-		}
-	}
+  &--mobileonly {
+    width: 100%;
+    @include query-desktop-up {
+      visibility: hidden;
+      display: none;
+    }
+  }
 
-	&__content {
-		padding-top: 2rem;
-		padding-bottom: 4rem;
+  &__content {
+    padding-top: 2rem;
+    padding-bottom: 4rem;
 
-		&--side {
-			width: 100%;
-			display: grid;
-			grid-template-columns: 1fr;
-			row-gap: $site-content-padding;
-		}
-	}
+    &--side {
+      width: 100%;
+      display: grid;
+      grid-template-columns: 1fr;
+      row-gap: $site-content-padding;
+    }
+  }
 
-	&__side-view-more {
-		margin-top: 2rem;
-	}
+  &__side-view-more {
+    margin-top: 2rem;
+  }
 }
 
 .homevidprev {
-	width: 100%;
-	max-width: 400px;
-	display: block;
+  width: 100%;
+  max-width: 400px;
+  display: block;
 
-	text-decoration: none;
+  text-decoration: none;
 
-	&__wrapper {
-		width: 100%;
+  &__wrapper {
+    width: 100%;
 
-		@include hover-lighten;
-	}
+    /* @include hover-lighten; */
+    /* @include hover-soft-rise; */
+  }
 
-	&__info {
-		display: block;
-		width: 100%;
-		display: flex;
-		flex-direction: row;
-		justify-content: space-between;
-		align-content: flex-end;
-	}
+  &__info {
+    display: block;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: flex-end;
+  }
 
-	&__category {
-		margin-top: 1rem;
-		@include typo-title-tiny-light;
-	}
+  &__category {
+    margin-top: 1rem;
+    @include typo-title-tiny-light;
 
-	&__date {
-		margin-top: 1rem;
-		@include typo-title-tiny-light;
-	}
+    &--centered {
+      text-align: center;
+      width: 100%;
+    }
+  }
 
-	&__title {
-		@include typo-title-md;
-		margin: 0.5rem 0;
-	}
+  &__date {
+    margin-top: 1rem;
+    @include typo-title-tiny-light;
+  }
 
-	&__summary {
-		@include typo-base-paragraph;
-	}
+  &__title {
+    @include typo-title-md;
+    margin: 0.5rem 0;
+  }
 
-	&__productname {
-		margin: 0.5rem 0;
-		text-align: center;
-		@include typo-title-md;
-	}
+  &__summary {
+    @include typo-base-paragraph;
+  }
 
-	&__price {
-		@include typo-base-paragraph;
-		width: 100%;
-		text-align: center;
-	}
+  &__productname {
+    margin: 0.5rem 0;
+    text-align: left;
+    @include typo-title-md;
+  }
+
+  &__price {
+    @include typo-base-paragraph;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    width: 100%;
+    text-align: left;
+    display: inline-block;
+
+    margin-top: 1em;
+
+    &--discounted {
+      text-decoration: line-through;
+      opacity: 0.75;
+    }
+  }
 }
 
 .qqprev {
-	@include hover-card-rounded-sage;
+  @include hover-card-rounded-sage;
 
-	display: block;
-	width: 100%;
+  display: block;
+  width: 100%;
+  height: auto;
 
-	text-decoration: none;
+  text-decoration: none;
 
-	&--main {
-		margin-right: 2rem;
-	}
+  &--main {
+    margin-right: 2rem;
+  }
 
-	&--side {
-		//margin-bottom: 2rem;
-	}
+  &--side {
+    //margin-bottom: 2rem;
+  }
 
-	&--list {
-		padding: 0 1rem;
-	}
+  &--list {
+    padding: 0 1rem;
+  }
 
-	&__date {
-		/* color: $color-black;
+  &__date {
+    /* color: $color-black;
 		@include alpha-regular;
 		font-size: $fs-sm;
 		padding-top: 0.5rem; */
-		padding-top: 1rem;
-		@include typo-title-tiny-light;
-	}
+    padding-top: 1rem;
+    @include typo-title-tiny-light;
+  }
 
-	&--breaking {
-		background-color: $color-ui-alert;
-		border-radius: 1rem;
-		padding: ($site-content-padding * 1.5);
-	}
+  &--breaking {
+    background-color: $color-ui-alert;
+    border-radius: 1rem;
+    padding: ($site-content-padding * 1.5);
+  }
 
-	&__wrapper {
-		width: 100%;
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
+  &__wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
-		//@include hover-lighten;
-	}
+    //@include hover-lighten;
+  }
 
-	&--main .qqprev__wrapper {
-		width: 18rem;
-	}
+  &--main .qqprev__wrapper {
+    width: 18rem;
+  }
 
-	&__breakingmarker {
-		@include typo-breaking-sm;
-	}
+  &__breakingmarker {
+    @include typo-breaking-sm;
+  }
 
-	&__quote {
-		width: 100%;
+  &__quote {
+    width: 100%;
 
-		text-align: center;
-		margin: 0 0 1rem 0;
+    text-align: center;
+    margin: 0 0 1rem 0;
 
-		@include typo-title-sm;
-	}
+    @include typo-title-sm;
+  }
 
-	&__summary {
-		width: 100%;
-		text-align: center;
-		margin: 0;
-		@include typo-base-paragraph;
-	}
+  &__summary {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    @include typo-base-paragraph;
+  }
 
-	&__ruler {
-		border: none;
-		border-top: $border-style-title;
-		justify-content: center;
-		width: 3rem;
+  &__ruler {
+    border: none;
+    border-top: $border-style-title;
+    justify-content: center;
+    width: 3rem;
 
-		//margin-bottom: 2rem;
-	}
+    //margin-bottom: 2rem;
+  }
 }
