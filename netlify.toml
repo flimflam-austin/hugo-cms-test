@@ -8,7 +8,7 @@ publish = "public"
 functions = "functions"
 
 [context.production]
-command = "npm run netlify-build"
+command = "npm run build"
 
 [context.deploy-preview]
 command = "npm run build:preview"
