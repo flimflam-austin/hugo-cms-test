@@ -1,4 +1,4 @@
-{{ $cardstacks := (where .Site.RegularPages "Section" "quickreads").ByDate }}
+{{ $cardstacks := (where .Site.RegularPages "Section" "quick_reads").ByDate }}
 {{ range first 6 $cardstacks.Reverse }}
     {{ .Scratch.Set "showlink" true }}
     {{partial "components/cardstack" . }}

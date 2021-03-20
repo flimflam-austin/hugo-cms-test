@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sample tag on </title>
+    <link>http://smarthernews.com/tags/sample-tag/</link>
+    <description>Recent content in sample tag on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Mar 2021 05:00:00 +0000</lastBuildDate><atom:link href="http://smarthernews.com/tags/sample-tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test 2</title>
+      <link>http://smarthernews.com/quick-reads/2021-03-17-test-2/</link>
+      <pubDate>Wed, 17 Mar 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://smarthernews.com/quick-reads/2021-03-17-test-2/</guid>
+      <description>dsadsadsadsa</description>
+    </item>
+    
+    <item>
+      <title>Can you see working</title>
+      <link>http://smarthernews.com/quick-reads/testing-123/</link>
+      <pubDate>Tue, 16 Mar 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://smarthernews.com/quick-reads/testing-123/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

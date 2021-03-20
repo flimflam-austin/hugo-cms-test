@@ -1,0 +1,138 @@
+---
+title: 18.03.07 Bloody Sunday
+slug: 20180307-18-03-07-bloody-sunday
+_id: legacy-2d28701f-1f47-4734-93ef-2aae4e812dfa
+_rev: XOnQP8cIThhnw9BWFxV3WD
+type: quick_reads
+draft: false
+aliases:
+  - 18-03-07-bloody-sunday/
+_createdAt: '2018-03-07T12:20:58Z'
+_updatedAt: '2021-03-16T12:28:07Z'
+date: '2018-03-07T12:20:58+00:00'
+weight: 50
+featured_image:
+  alt: Quick Reads background image
+  url: >-
+    7220aca0044bb422bbebd30ae263a9ce6b2200bd-283x200.jpg
+card_series: On This Day
+colorpaletteclassname: '--medium-gray'
+cards:
+  - order: 0
+    body: >-
+      # OTD in 1965:
+
+
+      ## “Bloody Sunday”
+
+
+      On March 7, peaceful civil rights marchers were violently attacked by
+      police as they began a 54-mile march from Selma to Montgomery, Alabama
+      aimed at ending discriminatory laws & practices used against African
+      Americans to prevent them from voting.
+
+
+      TAP HERE FOR MORE
+    citation: TAP HERE FOR MORE
+    _key: card-1-2bb86930-30dc-49b2-af3f-414b04527c34
+  - order: 1
+    body: >-
+      ## Why Did This Happen?
+
+
+      * After slavery was abolished a century earlier, Congress passed the 15th
+      Amendment, which guaranteed that the right to vote could not be denied on
+      the basis of race, color or prior servitude.
+
+      * Yet, many states passed laws and employed practices to get around the
+      15th Amendment, like poll taxes, literacy exams, fraud, & intimidation.
+    _key: card-2-ef5d9cc2-5c9f-4541-9499-9e79df6305b3
+  - order: 2
+    body: >-
+      ## “Bloody Sunday”
+
+
+      * Nearly 600 nonviolent activists marched for six blocks before they were
+      attacked by police at the Edmund Pettus Bridge.
+
+      * That night, the nation watched the horrific scene unfold on t.v.
+
+      * Two days later, Dr. Martin Luther King, Jr., led a “symbolic” march to
+      the bridge.
+
+      * Three weeks later, 3,000+ set out for Montgomery;A 25,000 arrived.
+    _key: card-3-fef89410-0239-40ce-88c3-e02d6b115ee0
+  - order: 3
+    body: >-
+      ## Rep. John Lewis (D-Ga.) shared his “Bloody Sunday” memories with TIME
+      Magazine in 2017:
+
+
+      “They came toward us with nightsticks, beating us, pushing us, trampling
+      us with horses, and releasing the tear gas. I was hit in the head by a
+      state trooper with a nightstick. . . . “
+
+
+      FLIP TO CONTINUE
+    citation: FLIP TO CONTINUE
+    _key: card-4-9b4e1ae9-97f0-41f8-8e51-2ef5637a3a9e
+  - order: 4
+    body: >-
+      ## Rep. John Lewis (D-Ga.) shared his “Bloody Sunday” memories with TIME
+      Magazine in 2017:
+
+
+      “I suffered a concussion on the bridge, and I thought I was going to die
+      that day. I saw death. Fifty years later, I still don’t remember how I
+      made it through the streets of Selma back to Brown Chapel that evening.”
+
+
+      [Watch
+      Now](https://www.youtube.com/embed/DRwnXUbJdfg?enablejsapi=1&autoplay=1&rel=0)
+    citation: Watch Now
+    _key: card-5-1ea05777-e929-4219-883b-30c4235b68b1
+  - order: 5
+    body: >-
+      ## A week later, Pres. Lyndon Johnson told Congress:
+
+
+      “There is no Negro problem. There is no Southern problem. There is no
+      Northern problem. There is only an American problem. . . . What happened
+      in Selma is part of a far larger movement which reaches into every section
+      and State of America. . . .A And we shall overcome.”
+
+
+      [Watch
+      Now](https://www.youtube.com/embed/5NvPhiuGZ6I?enablejsapi=1&autoplay=1&rel=0)
+    citation: Watch Now
+    _key: card-6-0f76977c-38ae-4c5a-8156-8fc94574a20f
+  - order: 6
+    body: >-
+      ## Five months later, Congress passed the Voting Rights Act
+
+
+      In August 1965, Pres. Johnson signed the Act, which prohibited
+      discrimination in voting & gave the federal gov’t a way to enforce the
+      15th Amendment against the states.
+
+
+      By 1969, the percent of voting-age African Americans registered to vote
+      nearly tripled.
+    _key: card-7-1b79c7f4-a081-4f87-a60f-e8e68a337c4d
+  - order: 7
+    body: >-
+      To commemorate the 50th Anniversary of Bloody Sunday in 2015, Pres. Barack
+      Obama & former Pres. George W. Bush, joined former marchers, including
+      Rep. Lewis, and other leaders to walk across Selma's Edmund Pettus Bridge.
+
+
+      [view sources](https://smarthernews.com/18-03-07-bloody-sunday/)
+    _key: card-10-a4d5d22e-f632-4e04-b02f-1e2fa365acfb
+
+---
+* John Lewis – March from Selma to Montgomery, “Bloody Sunday,” 1965: [https://www.archives.gov/exhibits/eyewitness/html.php?section=2](https://www.archives.gov/exhibits/eyewitness/html.php?section=2)
+* History Of Federal Voting Rights Laws: [https://www.justice.gov/crt/history-federal-voting-rights-laws](https://www.justice.gov/crt/history-federal-voting-rights-laws)
+* Congress and the Voting Rights Act of 1965: [https://www.archives.gov/legislative/features/voting-rights-1965](https://www.archives.gov/legislative/features/voting-rights-1965)
+* The House and Selma: Bridging History and Memory: [history.house.gov/Exhibitions-and-Publications/Civil-Rights/Selma/](http://history.house.gov/Exhibitions-and-Publications/Civil-Rights/Selma/)
+* Voting Rights for African Americans: [https://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/elections/voting-rights-african-americans.html](https://www.loc.gov/teachers/classroommaterials/presentationsandactivities/presentations/elections/voting-rights-african-americans.html)
+* Rep. John Lewis: An Oral History of Selma and the Struggle for the Voting Rights Act: [time.com/3647070/selma-john-lewis-voting-rights-act/](http://time.com/3647070/selma-john-lewis-voting-rights-act/)

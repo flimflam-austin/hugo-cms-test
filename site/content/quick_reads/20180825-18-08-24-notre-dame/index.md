@@ -1,0 +1,117 @@
+---
+title: A Once in a Lifetime College Gameday Experience
+slug: 20180825-18-08-24-notre-dame
+_id: legacy-4d4d0518-ea70-429f-9be6-db82dffc5ae9
+_rev: XOnQP8cIThhnw9BWFxV4OP
+type: quick_reads
+draft: false
+aliases:
+  - 18-08-24-notre-dame/
+_createdAt: '2018-08-25T04:39:00Z'
+_updatedAt: '2021-03-16T12:28:16Z'
+date: '2018-08-25T04:39:00+00:00'
+weight: 50
+featured_image:
+  alt: Quick Reads background image
+  url: >-
+    cd6daee82c38a72cf5cdb831f2fa3b33b912d232-2560x2062.jpg
+card_series: Travel
+colorpaletteclassname: '--light-green'
+cards:
+  - order: 0
+    body: >-
+      SmartHER Adventure:  
+
+      Notre Dame Football
+
+
+      > Jill Frangie of the SmartHER Squad shares her tips for an unforgettable,
+      game day getaway.
+    _key: card-1-e4eb65ec-286b-4b3f-92b9-471fc9a1bfa0
+  - order: 1
+    body: >-
+      > “You don’t need to be Irish, & it doesn’t matter your college team
+      allegiances.A Heck, maybe you’re just a fan of the movieA _Rudy_. A Notre
+      Dame football weekend is a once-in-a-lifetime experience.”  
+        
+        
+        
+      Most schools call it a "fight song", but Notre Dame calls it a "victory
+      march." Do yourself a favor & learn the lyrics.
+
+
+      [Watch
+      Now](https://www.youtube.com/embed/8r0PfgtJvHU?enablejsapi=1&autoplay=1&rel=0)
+    citation: Watch Now
+    _key: card-2-f2987e0b-48e0-4713-a943-c8d435cbdb55
+  - order: 2
+    body: >-
+      ## Key to Success: Start Early
+
+
+      > “Buy game tickets, hotel rooms & flights as soon as possible. The closer
+      to football season the harder to find & more expensive things get.”  
+        
+        
+        
+      Jill recommends staying at a hotel across from the stadium or in nearby
+      Mishawaka. South Bend has its own airport & is about a 2 hour drive east
+      of Chicago.
+    _key: card-3-1ba22117-1e55-469e-ac03-680f4c645f83
+  - order: 3
+    body: >-
+      ## Game Weekend
+
+
+      > “A tradition since 1931, every Notre Dame football team has marched down
+      the same tunnel and on to the same field for every home football game. On
+      football weekend Fridays, you can too!”  
+        
+        
+        
+      SmartHER tip: most of the best things to do are FREE!
+
+
+      [CLICK: Game Day Events](http://gameday.nd.edu/events/)
+    citation: 'CLICK: Game Day Events'
+    _key: card-4-6c6bac6f-beb3-4ffc-9d70-f5e7aa08a887
+  - order: 4
+    body: >-
+      Keep Your Camera Handy
+
+
+      It’s worth heading to the bookstore for any last minute Irish gear because
+      there’s no doubtA you’ll run into a former coach or player or famous fan
+      and get an autograph.
+    _key: card-5-9e6b50d7-1d30-4fa5-987a-c2c67aaf4d6f
+  - order: 5
+    body: >-
+      College football kicks off this Saturday! Notre Dame is ranked #12
+      (Alabama is #1). Time to pack your bags -- but read on to learn why you
+      should leave your purse at home.
+
+
+      [view sources](https://smarthernews.com/18-08-24-notre-dame/)
+    _key: card-10-9ddfbfd6-3233-4a53-86d8-663cf5d9df53
+
+---
+**SmartHER Notre Dame Game Day Tips:**
+
+One thing new this year: **no purses allowed**. It’s following in the steps of the NFL and only allowing clear bags. (Jill [carried this one](https://www.amazon.com/ideas/amzn1.account.AH4ZMJ4VF3WWP37RLCXPNWDRGAZA/QHZSAPPBX4C0) and recommend it!)
+
+If you are planning on going to the game, make sure to **keep the weather in mind**. Winters in South Bend can be downright brutal. In December, the average high is 34 degrees or so. September and October are my favorite times of the year to have perfect, Fall football weather.
+
+Downtown hotels may seem close on a map, but your **best bet is to stay at a hotel across from the campus or in the more desirable area called Mishawaka** whichA It’s a short, 10-minute drive to campus. There are several VRBO options as well.
+
+**On Friday before the game, take a campus tour.** Don’t miss the Grotto of our Lady of Lourdes, the Basilica of the Sacred Heart, the Golden Dome, and “Touchdown Jesus” on the Hesburgh Library.A (Free, Monday – Thursday 11AM -3PM, Friday before game 10-11:30 during football season,A 90 minutes in length. Note: it’s about a 2 mile walk. Check in for all tours at the Eck Visitor Center.)
+
+Don’t miss a chance to **run out of the tunnel and taking a picture on the field**! (Free, Friday only, 10AM – 5PM at the North Tunnel of Notre Dame Stadium – across from “Touchdown Jesus”)
+
+Between an hour and half to 2 hours before kickoff, the football team completes the traditional pre-game mass in the Sacred Heart Basilica and **walks over together to the stadium**. The route is traditionally lined with Irish fans giving the team some last minute encouragement. The last time we visited actorA **Vince Vaughn walked out with the team, givingA high-fives.**
+
+**Follow the team & crowds over to the stadium**. Before you set foot in the legendary sports venue, walk around outside and pay homage to four legendary Notre Dame football coaches: Knute Rockne (The North Tunnel), Ara Parseghian (Gate B), Frank Leahy (Gate C), & Lou Holtz (Gate D).
+
+After the game, **grab a drink at alumni favorite “The Linebacker Lounge”** which is walking distance from the stadium.
+
+* **Campus Map:A** [https://www.nd.edu/assets/docs/campus-map.pdf](https://www.nd.edu/assets/docs/campus-map.pdf)
+* **Game Day Events Website:**A [http://gameday.nd.edu/events/](http://gameday.nd.edu/events/)

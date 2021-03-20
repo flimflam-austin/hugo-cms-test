@@ -1,0 +1,47 @@
+---
+title: 18.12.1 Qtd Hw
+slug: 20191203-18-12-1-qtd-hw
+_id: legacy-6c6a13b9-9988-4822-9981-825f9b0ac62b
+_rev: XOnQP8cIThhnw9BWFxV4pV
+type: quick_reads
+draft: false
+aliases:
+  - 18-12-1-qtd-hw/
+_createdAt: '2018-12-01T05:39:18Z'
+_updatedAt: '2021-03-16T12:28:20Z'
+date: '2018-12-01T05:39:18+00:00'
+weight: 50
+featured_image:
+  alt: Quick Reads background image
+  url: >-
+    955b32a44c0b974ad0d41f027681b72c687ebec9-428x640.jpg
+card_series: Quote of the Day
+colorpaletteclassname: '--dark-blue'
+cards:
+  - order: 0
+    body: >-
+      > _“I don’t mistrust the future; I don’t fear what is ahead. For our
+      problems are large, but our hearts are larger.”_
+
+
+      Pres. George H.W. Bush
+    citation: Pres. George H.W. Bush
+    _key: card-1-13a34f7d-bf75-480a-94eb-33a6a4e2b588
+  - order: 1
+    body: >-
+      The 41st U.S. President died at age 94. His life was one of service as a
+      congressman, UN Ambassador, RNC Chairman, CIA Director, Vice President &
+      President. He died Friday night, just 8 months after the passing of his
+      wife Barbara. He's survived by 5 kids & 14 grandkids.
+
+
+      [view sources](https://smarthernews.com/18-12-1-qtd-hw/)
+    _key: card-10-ab5a993b-7dc6-4a60-9289-8fcb43c31223
+
+---
+* **Transcript of Bush’s Inaugural Address: ‘Nation Stands Ready to Push On’**  
+[https://www.nytimes.com/1989/01/21/us/41st-president-transcript-bush-s-inaugural-address-nation-stands-ready-push.html](https://www.nytimes.com/1989/01/21/us/41st-president-transcript-bush-s-inaugural-address-nation-stands-ready-push.html)
+* **George Bush, 41st President, Dies at 94:**  
+[https://www.nytimes.com/2018/11/30/us/politics/george-hw-bush-dies.html](https://www.nytimes.com/2018/11/30/us/politics/george-hw-bush-dies.html)
+* **George H.W. Bush, 41st president of the United States, dead at 94:**  
+[https://www.foxnews.com/us/george-h-w-bush-41st-president-of-the-united-states-dead-at-94](https://www.foxnews.com/us/george-h-w-bush-41st-president-of-the-united-states-dead-at-94)

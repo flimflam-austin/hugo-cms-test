@@ -1,8 +1,8 @@
-{{ $videoposts := (where .Site.RegularPages "Section" "videoposts").ByDate.Reverse }}
+{{ $videoposts := (where .Site.RegularPages "Section" "video_posts").ByDate.Reverse }}
 {{ $featuredvideoposts := where $videoposts ".Params.is_featured" "=" true}}
 {{ $breakingvideoposts := where $videoposts ".Params.is_breaking_slider" "=" true}}
 {{ $sortedvideoposts := union (union $breakingvideoposts $featuredvideoposts) $videoposts }}
-{{ range first 6 (after 3 $sortedvideoposts) }}
+{{ range first 6 (after 3 (where $sortedvideoposts ".Params.featured_image.url" "!=" nil )) }}
 
 {{ partial "content/preview-videoposts" . }}
 

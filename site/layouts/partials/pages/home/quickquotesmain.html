@@ -1,7 +1,7 @@
-{{ $qq := (where .Site.RegularPages "Section" "quickquotes").ByDate.Reverse }}
+{{ $qq := (where .Site.Pages "Section" "quick_quotes").ByDate.Reverse }}
 {{ $qqWithBreaking := (where $qq ".Params.is_breaking" true)}}
 {{ $qqSansBreaking := (where $qq ".Params.is_breaking" "!=" true)}}
 {{ $qqCombined := union $qqWithBreaking $qqSansBreaking }}
 {{ range first 10 $qqCombined }}
-{{ partial "content/preview-quickquote" . }}
+    {{ partial "content/preview-quickquote" . }}
 {{ end }}

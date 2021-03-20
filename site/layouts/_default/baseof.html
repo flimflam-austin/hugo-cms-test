@@ -3,7 +3,7 @@
 {{ partial "head" . }}
 
 {{/*<body class="{{ .Type }} {{ with .File }} page_{{.TranslationBaseName }}{{ end }}">*/}}
-{{ $videoposts := where .Site.RegularPages "Section" "videoposts" }}
+{{ $videoposts := where .Site.RegularPages "Section" "video-posts" }}
 {{ $breakingvideoposts := where $videoposts ".Params.meta.is_breaking_dropdown" "=" true }}
 <body class="l-body{{ if .IsHome }} home__body {{ end }}" >
 	{{/*<body class='{{ if .IsPage }}single{{ else }}list{{ end }}'>*/}}

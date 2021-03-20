@@ -1,41 +1,42 @@
 [build.environment]
-NPM_VERSION = "6.4.1"
-YARN_VERSION = "1.12.1"
+    HUGO_VERSION = "0.81.0"
+    NODE_VERSION = "15.5.1"
+    NPM_VERSION = "7.3.0"
 
 [build]
-command = "yarn build"
-publish = "dist"
+    publish = "public"
+    functions = "functions"
+
+[context.production]
+    command = "npm run netlify-build"
 
 [context.deploy-preview]
-command = "yarn build:preview"
+    command = "npm run build:preview"
+
+
 
 [[plugins]]
-package = "/plugins/netlify-sanity-md"
-
-[[plugins]]
-package = "netlify-plugin-a11y"
-
+    package = "netlify-plugin-a11y"
 [plugins.inputs]
-checkPaths = ['/']
-
-resultMode = "warn"
-
-[[headers]]
-for = "/*"
-[headers.values]
-Content-Security-Policy = "default-src data: 'unsafe-inline' 'unsafe-eval' https:; script-src data: 'unsafe-inline' 'unsafe-eval' https: blob:; style-src data: 'unsafe-inline' https:; img-src data: https: blob:; font-src data: https:; connect-src https: wss: blob:; media-src https: blob:; object-src https:; child-src https: data: blob:; form-action https:; block-all-mixed-content"
-Feature-Policy = "microphone 'none'; geolocation 'none'"
-Referrer-Policy = "no-referrer"
-Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
-X-Content-Type-Options = "nosniff"
-X-Frame-Options = "DENY"
+    checkPaths = ['/']
+    resultMode = "warn"
 
 [[headers]]
-for = "*.css"
-[headers.values]
-Cache-Control = "max-age=604800, public"
+    for = "/*"
+    [headers.values]
+        Content-Security-Policy = "default-src data: 'unsafe-inline' 'unsafe-eval' https:; script-src data: 'unsafe-inline' 'unsafe-eval' https: blob:; style-src data: 'unsafe-inline' https:; img-src data: https: blob:; font-src data: https:; connect-src https: wss: blob:; media-src https: blob:; object-src https:; child-src https: data: blob:; form-action https:; block-all-mixed-content"
+        Feature-Policy = "microphone 'none'; geolocation 'none'"
+        Referrer-Policy = "no-referrer"
+        Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+        X-Content-Type-Options = "nosniff"
+        X-Frame-Options = "DENY"
 
 [[headers]]
-for = "*.js"
-[headers.values]
-Cache-Control = "max-age=604800, public"
+    for = "*.css"
+    [headers.values]
+        Cache-Control = "max-age=604800, public"
+
+[[headers]]
+    for = "*.js"
+    [headers.values]
+        Cache-Control = "max-age=604800, public"

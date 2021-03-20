@@ -1,0 +1,31 @@
+description = "Life is too short to waste time filtering through headlines searching for the facts. That's when we realized the need for a quick, trustworthy news source that makes staying up-to-date easy and interesting."
+title = "SmartHER News"
+titleAddition = "Created By Jenna Lee Babin"
+titleSeparator = "-"
+
+sitelogo = "shn_logo_main.png"
+
+facebookAuthor = "SmartHER News"
+facebookPublisher = "SmartHER News"
+ogLocale = "en_US"
+twitterCreator = "@SmartHerNews"
+twitterSite = "@SmartHerNews"
+
+schemaGitHub = "https://github.com/smarthernews"
+schemaLogo = "shn_logo_main.png"
+schemaSection = "blog"
+schemaTwitter = "https://twitter.com/smarthernews"
+schemaType = "Organization"
+
+siteLinksSearchBox = false
+
+themeColor = "#fff"
+
+bgColor = "#fff"
+landscapePhotoWidths = [1000, 800, 700, 600, 500]
+lqipWidth = "20x"
+portraitPhotoWidths = [800, 700, 600, 500]
+quality = 85
+
+# Footer
+footer = "© SmartHER News 2021. All rights reserved."

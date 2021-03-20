@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test tag on </title>
+    <link>/tags/test-tag/</link>
+    <description>Recent content in test tag on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Mar 2021 05:00:00 +0000</lastBuildDate><atom:link href="/tags/test-tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atlanta Shooting </title>
+      <link>/quick-quotes/atlanta-shooting/</link>
+      <pubDate>Wed, 17 Mar 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/quick-quotes/atlanta-shooting/</guid>
+      <description>Atlanta Police Chief Rodney Bryant on the arrest of a 21-year-old man connected to multiple shootings at neighborhood spas in the Atlanta area – 8 people died.</description>
+    </item>
+    
+    <item>
+      <title>a title</title>
+      <link>/quick-quotes/2021-03-16-a-title/</link>
+      <pubDate>Tue, 16 Mar 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/quick-quotes/2021-03-16-a-title/</guid>
+      <description>Here is my summary</description>
+    </item>
+    
+    <item>
+      <title>fdsafdsafdsa</title>
+      <link>/video-posts/2021-03-16-fdsafdsafdsa/</link>
+      <pubDate>Tue, 16 Mar 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/video-posts/2021-03-16-fdsafdsafdsa/</guid>
+      <description>bodyht
+ body</description>
+    </item>
+    
+  </channel>
+</rss>

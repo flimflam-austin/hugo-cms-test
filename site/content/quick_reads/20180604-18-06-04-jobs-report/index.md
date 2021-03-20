@@ -1,0 +1,129 @@
+---
+title: 18.06.04 Jobs Report
+slug: 20180604-18-06-04-jobs-report
+_id: legacy-f35639e8-2962-427c-9cbd-736d7d866934
+_rev: CRhmwZOx7vxYXrRSdQpmrH
+type: quick_reads
+draft: false
+aliases:
+  - 18-06-04-jobs-report/
+_createdAt: '2018-06-04T10:46:50Z'
+_updatedAt: '2021-03-16T12:28:12Z'
+date: '2018-06-04T10:46:50+00:00'
+weight: 50
+featured_image:
+  alt: Quick Reads background image
+  url: >-
+    58abfd49071da91b5a7ef121346b3e95dc96652d-2560x2048.jpg
+card_series: Current Events
+colorpaletteclassname: '--light-green'
+cards:
+  - order: 0
+    body: >-
+      # “FIRING ON ALL CYLINDERS”
+
+
+      5 Things to Know From May’s Jobs Report
+
+
+      Economy keeps humming, putting more people to work, at higher wages – and
+      in sectors that surprised.
+
+
+      FLIP: FOR THE FACTS
+    citation: 'FLIP: FOR THE FACTS'
+    _key: card-1-a0496eb6-2dbb-4452-990b-829943eebe83
+  - order: 1
+    body: >-
+      ## Unemployment Rate Hasn’t Been This Low in Nearly 50 Years
+
+
+      * **More people employed, fewer unemployed** = **unemployment rate drop
+      for good reasons.**
+
+      * Women, high-school dropouts, blacks & Latinos benefit.
+
+      * American economy has **added jobs for more than 7 years** (92 straight
+      months).
+    _key: card-2-b88ee2c9-794b-4049-9aea-e2b32bcb0e9c
+  - order: 2
+    body: >-
+      ## Back from the Sidelines?
+
+
+      * **Mining & manufacturing,** two industries once dismissed as “has
+      beens,” saw job gains ***again*** last month, following a trend over the
+      last year.
+
+      * This challenges a belief the “new normal” in the U.S. economy didn’t
+      include these sectors.
+
+      * That said, **retail**, **healthcare** and **construction** remain the
+      top job-gaining industries.
+    _key: card-3-34db91dd-d03d-4d8d-a170-34d9d359d7fc
+  - order: 3
+    body: >-
+      ## Americans Making More $
+
+
+      * Ave.A **hourly earnings rose** by 8 cents. Many look at this as a sign
+      of the strength of the job market.
+
+      * **Important to watch:**A Wage growth ofA 2.7% over the last year is a
+      nice improvement – a bigger bump may stoke fears of inflation (an economy
+      overheating).
+    _key: card-4-baea9218-6e38-4479-a1fe-76f0d33ee988
+  - order: 4
+    body: >-
+      > “We remain in a virtuous circle: the labor market is strong, which
+      supports consumption, which drives production, which keeps the labor
+      market strong. Until something disrupts that cycle, we should expect the
+      good economic times to continue.”  
+        
+        
+        
+      Eric Winograd, AB U.S. economist
+    _key: card-5-d1409f53-2298-467d-bf81-9e091ccac791
+  - order: 5
+    body: >-
+      ## Wow. Seems Pretty good. Any Negatives?
+
+
+      >   
+        
+      “…some employers are having a hard time filling roles and some job seekers
+      are having a hard time finding good jobs near them.”  
+        
+        
+        
+      Cathy Barrera, ZipRecruiter chief economist
+
+
+      * Number of people who want work remain discouraged & aren’t searching for
+      jobs.
+    _key: card-6-d4ced4c3-32d6-4d96-8649-d39d62e1d9bf
+  - order: 6
+    body: >-
+      The jobs numbers are confidential, but Pres. Trump tweeted an hour before
+      released: "Looking forward to seeing the employment numbers at 8:30 this
+      morning." Click for why this break in protocol matters.
+
+
+      [view sources](https://smarthernews.com/18-06-04-jobs-report/)
+    _key: card-10-50c3568b-15bd-4e57-bba8-4922716d32cc
+
+---
+* “The economy and labor market appear to be **firing on all cylinders**,” says Paul Ashworth, chief U.S. Economist of Capital Economics.A [https://www.usatoday.com/story/money/2018/06/01/jobs-economy-adds-223-000-jobs-may/662028002/](https://www.usatoday.com/story/money/2018/06/01/jobs-economy-adds-223-000-jobs-may/662028002/)
+* **JOBS REPORT:A Nonfarm payrolls increase by 223,000 in May, vs 188,000 estimate:**  
+[https://www.cnbc.com/2018/06/01/nonfarm-payrolls-may-2018.html](https://www.cnbc.com/2018/06/01/nonfarm-payrolls-may-2018.html)
+* **OPINION: Making (and Building, and DiggingA Up) Stuff Is Back in Fashion:A**  
+[https://www.bloomberg.com/view/articles/2018-06-01/jobs-report-is-good-news-for-u-s-manufacturing](https://www.bloomberg.com/view/articles/2018-06-01/jobs-report-is-good-news-for-u-s-manufacturing)
+* **Trump”s jobs report tweet in advance of release appears to have violated federal rules:**  
+[https://www.marketwatch.com/story/trumps-jobs-report-tweet-in-advance-of-release-appears-to-have-violated-federal-rules-2018-06-01](https://www.marketwatch.com/story/trumps-jobs-report-tweet-in-advance-of-release-appears-to-have-violated-federal-rules-2018-06-01)  
+_President Donald Trump”s tweet in advance of the crucial jobs report may have violated federal guidelines barring officials from commenting on data before its release._  
+  
+**But the Trump Admin. says:**  
+_White House press secretary Sarah Sanders told CNBC the comment was appropriate since he didn”t put the numbers out._
+
+> **And an interesting historical fact…**  
+_Trump is not the first president to have crossed lines. President Dwight Eisenhower leaked the jobs report ahead of time, right before Election Day in 1954, 1956 and 1958._

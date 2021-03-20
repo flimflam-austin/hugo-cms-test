@@ -1,0 +1,90 @@
+---
+title: 18.08.13 Plastic
+slug: 20180813-18-08-13-plastic
+_id: legacy-ee283331-1406-4d28-94b1-26e59c31fcb5
+_rev: XOnQP8cIThhnw9BWFxV4OP
+type: quick_reads
+draft: false
+aliases:
+  - 18-08-13-plastic/
+_createdAt: '2018-08-13T11:46:06Z'
+_updatedAt: '2021-03-16T12:28:16Z'
+date: '2018-08-13T11:46:06+00:00'
+weight: 50
+featured_image:
+  alt: Quick Reads background image
+  url: >-
+    4b951a23bb82cfd69304cb3b5f124e3e7169c54c-2560x1707.jpg
+card_series: Now You Know
+colorpaletteclassname: '--medium-gray'
+cards:
+  - order: 0
+    body: >-
+      ## TRASH NOBODY WANTS
+
+
+      Paper straws, biodegradable utensils, and bag bans…
+
+
+      The new rush away from plastic as China says it no longer wants to be the
+      “world’s garbage dump.”
+
+
+      Why It matters
+    citation: Why It matters
+    _key: card-1-26e8d212-88be-47f4-a228-8967f05d4a55
+  - order: 1
+    body: >-
+      ## For 27 years, China has bought 45% of the world’s plastic trash, but
+      now it says no more.
+
+
+      On January 1, 2018, China banned all but the most pristine plastic.
+
+
+      America sent nearly 4K shipping containers full of plastic recyclables to
+      China every day.
+
+
+      Where Will It Go?
+    citation: Where Will It Go?
+    _key: card-2-ba448ee1-f9d7-4e28-a40a-6f0fa00391b2
+  - order: 2
+    body: >-
+      ## Now What?
+
+
+      * U.S. recyclers are trying to find a substitute for the Chinese market.
+
+      * As demand grows, some other countries have accepted more plastic exports
+      – at a price.
+
+      * Even still, America’s total scrap plastic exports are down about 40% vs.
+      last year.
+
+      * **Bottom line:** China’s move has made recycling plastics less
+      economical.
+    _key: card-3-6d0930a4-0c68-4c53-8589-ec5ee38e9c72
+  - order: 3
+    body: >-
+      Scientists are working to create a durable plastic material that
+      self-destructs on command. While it still doesn't make economic sense to
+      use for plastic bottles or grocery bags, scientists have targeted
+      polyurethane foams in mattresses and car seats. Read more here.
+
+
+      [view sources](https://smarthernews.com/18-08-13-plastic/)
+    _key: card-10-61b8e772-1995-418b-8a11-8bb0e3b4018e
+
+---
+* The Chinese import ban and its impact on global plastic waste trade:  
+[http://advances.sciencemag.org/content/4/6/eaat0131](http://advances.sciencemag.org/content/4/6/eaat0131)
+* **Plastics Pile Up as China Refuses to Take the West”s Recycling:**  
+[https://www.nytimes.com/2018/01/11/world/china-recyclables-ban.html](https://www.nytimes.com/2018/01/11/world/china-recyclables-ban.html)
+* **China Won’t Solve The World’s Plastics Problem Any More:**  
+[https://www.wired.com/story/china-wont-solve-the-worlds-plastics-problem-any-more/](https://www.wired.com/story/china-wont-solve-the-worlds-plastics-problem-any-more/)
+* **China Has Refused To Recycle The West’s Plastics. What Now?:**  
+[https://www.npr.org/sections/goatsandsoda/2018/06/28/623972937/china-has-refused-to-recycle-the-wests-plastics-what-now](https://www.npr.org/sections/goatsandsoda/2018/06/28/623972937/china-has-refused-to-recycle-the-wests-plastics-what-now)
+* **Designing the Death of a Plastic:**  
+[https://www.nytimes.com/2018/08/06/science/plastics-polymers-pollution.html](https://www.nytimes.com/2018/08/06/science/plastics-polymers-pollution.html)  
+In theory, these next-generation polymers could help mitigate pollution problems associated with plastic products. If the units were collected after unzipping to make new polymers, that would lead to chemical recycling. Most recycling done today simply involves melting the plastic and remolding it.In my view it has great potential, the problem is to make it cheap enough and to make the properties competitive enough to be useful and have market penetration for the consumer, Dr. Hillmyer said.Economically speaking, replacing the most widely used polymers like polyethylene (grocery bags), polypropylene (fishing nets) or polyterephthalate (single-use bottles) with unzipping polymers is not feasible.Packaging plastic is the cheapest thing ever, Dr. Gillies said.Instead, scientists like Dr. Hillmyer are focusing their attention on higher-value materials like the polyurethane foams commonly found in mattresses and car seats. In 2016, Dr. Hillmyer and his team made a polyurethane from unzipping polymers that was chemically recyclable. Molecular units derived from sugar linked up to make the polymers, which then cross-linked into polyurethane networks. The foam remains stable at room temperature but unzips into units if heated above 400 degrees Fahrenheit.

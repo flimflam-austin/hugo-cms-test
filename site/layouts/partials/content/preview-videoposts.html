@@ -1,7 +1,10 @@
 <a class="homevidprev" href="{{- .Permalink -}}">
     <article class="homevidprev__wrapper">
         <div class="aspectimg">
-            <img class="aspectimg__image" src="{{- .Params.featured_image.image -}}" alt="{{- .Params.featured_image.alt -}}">
+            {{ $image := .Resources.GetMatch (print .Params.featured_image.url )}}
+            {{ if ne $image nil }}
+            <img class="aspectimg__image" src="{{- $image.RelPermalink -}}" alt="{{- .Params.featured_image.alt -}}">
+            {{ end }}
         </div>
         <div class="homevidprev__info">
             <h3 class="homevidprev__category">{{- .Params.video_series -}}</h3>

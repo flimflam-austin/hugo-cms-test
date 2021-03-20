@@ -1,0 +1,42 @@
+baseurl = "/"
+disableAliases = true
+disableHugoGeneratorInject = true
+enableEmoji = true
+enableGitInfo = false
+enableRobotsTXT = true
+languageCode = "en-US"
+disableKinds = ["taxonomies"]
+
+
+[outputs]
+    home = ["html", "RSS", "REDIRECTS", "HEADERS", "JSON"]
+
+
+# remove .{ext} from text/netlify
+[mediaTypes."text/netlify"]
+    delimiter = ""
+    suffixes = [""]
+
+# add output format for netlify _redirects
+[outputFormats.REDIRECTS]
+    baseName = "_redirects"
+    isPlainText = true
+    mediatype = "text/netlify"
+    notAlternative = true
+
+# add output format for netlify _headers
+[outputFormats.HEADERS]
+    baseName = "_headers"
+    isPlainText = true
+    mediatype = "text/netlify"
+    notAlternative = true
+
+[sitemap]
+    changefreq = "monthly"
+    filename = "sitemap.xml"
+    priority = 0.5
+
+[taxonomies]
+    tags = "tags"
+    card_series = "card series"
+    video_series = "video series"

@@ -1,0 +1,21 @@
+{{ define "main" }}
+<main class="l-page__container">
+    {{ partial "components/ruledtitle" (dict "_sectionTitle" "all quick reads" "_viewAllLink" "")}}
+    <div class="l-list-grid__content">
+        {{ $cardstacks := sort (where .Site.RegularPages "Section" "quick_reads") ".Date" }}
+        {{ range (.Paginate ( $cardstacks.Reverse) 12 ).Pages }}
+        
+        {{ .Scratch.Set "showlink" true }}
+        {{partial "components/cardstack" . }}
+
+        {{ end }}
+
+    </div>
+    <div class="pagination-body">
+        <span class="pagination-rule"></span>
+        {{ template "_internal/pagination.html" . }}
+        <span class="pagination-rule"></span>
+    </div>
+    
+</main>
+{{ end }}

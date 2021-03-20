@@ -1,0 +1,155 @@
+---
+title: 18.02.19 Icymi Mueller's Indictment of Russia
+slug: 20180220-18-02-19-icymi-muellers-indictment-russia
+_id: legacy-b3c97176-01fc-44ae-9225-4fae8fd557c0
+_rev: XOnQP8cIThhnw9BWFxV3Qn
+type: quick_reads
+draft: false
+aliases:
+  - 18-02-19-icymi-muellers-indictment-russia/
+_createdAt: '2018-02-20T12:30:41Z'
+_updatedAt: '2021-03-16T12:28:06Z'
+date: '2018-02-20T12:30:41+00:00'
+weight: 50
+featured_image:
+  alt: Quick Reads background image
+  url: >-
+    612b369f11bd5d1feb5c6d79e90909b81bf816af-360x360.jpg
+card_series: Current Events
+colorpaletteclassname: '--dark-purple'
+cards:
+  - order: 0
+    body: >-
+      ICYMI:  
+
+      U.S. Indicts Russia ============================
+
+
+      Federal indictment accuses “Internet Research Agency” – a “Russian
+      organization” – as well as 13 Russian individuals of trying to **undermine
+      faith** in America’s political system and specifically **influence** the
+      2016 election.
+
+
+      Tap to Flip
+    citation: Tap to Flip
+    _key: card-1-f35d1327-85f3-44ca-8ff6-a9322c68a08e
+  - order: 1
+    body: >-
+      ## Allegations Include:
+
+
+      * _“strategic goal to **sow discord** in the U.S. political system,
+      including the 2016 U.S. presidential election”_
+
+      * “**Supporting**” Trump & “**disparaging**” Clinton, encouraging
+      minorities not to vote, or to vote for 3rd party.
+
+      * Posing as Americans **online** & **in-person,** buying ads & staging
+      rallies.
+    _key: card-2-2e2f1f39-5d82-46cb-b73f-33924c5fcb08
+  - order: 2
+    body: >-
+      # Important Analysis
+
+
+      “The indictment **does not allege collusion** between Russia and the Trump
+      campaign and **does not assert that Russia’s deeds tipped the election**
+      in Trump’s favor. But Mueller’s **investigation continues** and nothing is
+      ruled out.”
+
+
+      _Associated Press “AP Fact Check”A_
+
+
+      [Read More
+      Here](https://www.pbs.org/newshour/politics/ap-fact-check-following-mueller-indictments-friday-trump-lashes-out-on-russia-probe)
+    citation: Read More Here
+    _key: card-3-073b6bab-1399-4b4c-acd9-2e66c8d18f13
+  - order: 3
+    body: >-
+      Internet Research Agency  
+
+      aka “Troll Factory”
+
+
+      > ‘The main idea was to work on people’s thinking, to raise patriotism
+      among the Russian people and to portray the U.S. negatively’  
+        
+        
+        
+      Sergei to New York Times on working in an alleged propaganda shop.
+    _key: card-4-abe9ea11-4458-495f-b460-788c36410ef4
+  - order: 4
+    body: >-
+      ## Why It Matters:
+
+
+      * **Symbolic move** by U.S. laying out where the investigation into
+      Russian election interference stands.
+
+      * This does **NOT** signify the end of the investigation.
+
+      * Do not expect the case against the Russians to play out in court.
+
+      * This is the **FIFTH** round of indictments handed down by the Special
+      Counsel team.
+    _key: card-5-5b7bad31-c92c-4c79-acdd-637fa56b7eb2
+  - order: 5
+    body: |-
+      # Russia’s Response
+
+      > “Until we see facts, everything else will be just blather.”  
+        
+        
+        
+      Sergei Lavrov, Russian Foreign Minister, February 17, 2018
+    _key: card-6-db616c2f-3ca4-451d-b7bd-f3d499e4b458
+  - order: 6
+    body: >-
+      > _“**Americans of all political stripes** must see this charging document
+      as a **wake-up call**. We must not let partisan divides between
+      Republicans and Democrats blind us to the threat, nor bind us to
+      inaction.”_  
+        
+        
+        
+      Washington Post Editorial, Feb 17, 2018
+
+
+      [Click For Full
+      Article](https://www.washingtonpost.com/news/democracy-post/wp/2018/02/17/russia-is-at-war-with-our-democracy-when-will-we-finally-start-defending-it/?utm_term=.5a4005a7c083)
+    citation: Click For Full Article
+    _key: card-7-0a6560c3-eb73-47fc-9d45-669b0711728f
+  - order: 7
+    body: >-
+      # Did You Know?
+
+
+      ## Cost of Mueller’s Special Counsel Investigation
+
+
+      **$3.2 million**
+
+
+      The latest DOJ estimate is ONLY for the first four and half months ending
+      in September 2017.
+    _key: card-8-a5cb7aaa-fb22-403c-9c16-39f2eba505c4
+  - order: 8
+    body: >-
+      Full 37-page Indictment (it's Worth-A-Read) & the other Indictments handed
+      down by the Special Counsel thus far...
+
+
+      [view
+      sources](https://smarthernews.com/18-02-19-icymi-muellers-indictment-russia/)
+    _key: card-10-4e609540-fd3a-426a-9900-b1492b1d102b
+
+---
+* The Case:A [https://www.justice.gov/file/1035477/download](https://www.justice.gov/file/1035477/download)
+* Read other indictments of the Special Counsel:A [https://www.justice.gov/sco](https://www.justice.gov/sco)
+* AP Fact Check: Trump lashes out on Russia probe after Friday”s indictment  
+[https://www.pbs.org/newshour/politics/ap-fact-check-following-mueller-indictments-friday-trump-lashes-out-on-russia-probe](https://www.pbs.org/newshour/politics/ap-fact-check-following-mueller-indictments-friday-trump-lashes-out-on-russia-probe)
+* Inside the Russian Troll Factory: Zombies and a Breakneck PaceA [https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=a-lede-package-region&region=top-news&WT.nav=top-news](https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=a-lede-package-region&region=top-news&WT.nav=top-news)
+* Sergei Lavrov rejects as ‘claptrap’ charges of Russian election meddlingA [https://www.usatoday.com/story/news/world/2018/02/17/sergei-lavrov-rejects-claptrap-charges-russian-election-meddling/347830002/](https://www.usatoday.com/story/news/world/2018/02/17/sergei-lavrov-rejects-claptrap-charges-russian-election-meddling/347830002/)
+* Russia is at war with our democracy. When will we finally start defending it?A [https://www.washingtonpost.com/news/democracy-post/wp/2018/02/17/russia-is-at-war-with-our-democracy-when-will-we-finally-start-defending-it/?utm_term=.5a4005a7c083](https://www.washingtonpost.com/news/democracy-post/wp/2018/02/17/russia-is-at-war-with-our-democracy-when-will-we-finally-start-defending-it/?utm_term=.5a4005a7c083)

@@ -1,0 +1,103 @@
+---
+title: Smarthernews Quick Quotes for Friday, October 5th
+slug: 20190905-quick-quotes-11
+_id: legacy-98bb94c2-5027-4962-b80d-a7d599dd6467
+_rev: XOnQP8cIThhnw9BWFxV4pV
+type: quick_reads
+draft: false
+aliases:
+  - quick-quotes-11/
+_createdAt: '2018-10-05T11:42:21Z'
+_updatedAt: '2021-03-16T12:28:20Z'
+date: '2018-10-05T11:42:21+00:00'
+weight: 50
+featured_image:
+  alt: Quick Reads background image
+  url: >-
+    f5c7d934c25b6c4c7868dca64cd430cfe3fda438-2560x1707.jpg
+card_series: Quotes
+colorpaletteclassname: '--light-pink'
+cards:
+  - order: 0
+    body: >-
+      > “When you move at this pace in a short amount of time, it’s natural for
+      the market to take a breather.”  
+        
+        
+        
+      Steve Chiavarone, Federated Investors portfolio manager, as the Dow
+      suffered its worst one-day point drop in nearly 3 months on Thursday as
+      interest rates hit new multi-year highs. With stocks still holding near
+      record highs, investors will watch Friday's September jobs report for any
+      employment changes or a worrisome jump in avg. hourly earnings.
+    _key: card-1-35753eea-568e-411e-91ba-dcb921fae1e7
+  - order: 1
+    body: >-
+      > “The ninety-nine percent are just a bunch of Zero’$.”  
+        
+        
+        
+      William Clyde Allen III, who confessed to sending ricin-laced envelopes to
+      President Trump and three other members of the administration, in a recent
+      Facebook post. The Navy veteran was arrested by the FBI at his Utah home
+      on Wednesday where he admitted to purchasing castor beans, the raw
+      material for the poison ricin, and mailed it. No one was hurt. He's being
+      held on a $25K cash bond.
+    _key: card-2-e71f3460-614c-4755-b6ef-3dc67268f636
+  - order: 2
+    body: >-
+      > ‘There’s no one silver bullet when it comes to the epidemic of opioids,
+      but one thing is for certain, I and we will keep fighting.”  
+        
+        
+        
+      Sen. Shelley Moore Capito (R-WV) on the sweeping bipartisan effort to pass
+      opioid legislation to fund programs to treat addiction, monitor
+      prescriptions and update information on alternative treatments to
+      addictive drugs. President Trump is expected to sign the bill.
+    _key: card-3-1249dfc1-25ed-4164-b9a2-bbf03a3b0ba2
+  - order: 3
+    body: >-
+      > “Keen as I may be to clear my name, I refuse to feed the media spectacle
+      created by people seeking to promote themselves at my expense.”  
+        
+        
+        
+      Cristiano Ronaldo tweet denying charges he raped a woman in a Las Vegas
+      hotel room in 2009. The world's highest-paid soccer star ($108M) was
+      benched by his Portugal team for two games following the claims, and his
+      sponsor Nike says it is "deeply concerned" by the allegations.
+    _key: card-4-13c24921-db21-4e13-896e-fff5bee8c2d8
+  - order: 4
+    body: >-
+      > “It’s the Rolls Royce of malts. … it’s an object of beauty in its own
+      right – almost a museum piece.”  
+        
+        
+        
+      Martin Green, Bonhams auction house specialist, on the 60-year-old bottle
+      of whiskey that just sold for $1.1 million dollars at auction. The
+      Macallan 26, which was purchased by a private collector from Asia, is now
+      the most expensive standard whisky bottle ever to be sold at auction. When
+      first sold in 1986, the bottle cost $27,000.
+    _key: card-5-c9ae9e02-c29b-43bb-86e6-57c7e500e2b2
+  - order: 5
+    body: |-
+      Cheers to the weekend!
+
+      [view sources](https://smarthernews.com/quick-quotes-11/)
+    _key: card-10-644165d5-3852-4887-bcd6-982acda7d5cf
+
+---
+* Dow drops 300 points as rates surge; 10-year yield hits its highest level since 2011:  
+[https://www.cnbc.com/2018/10/04/us-markets-rising-rates-economic-data-and-politics-in-focus.html](https://www.cnbc.com/2018/10/04/us-markets-rising-rates-economic-data-and-politics-in-focus.html)
+* **FBI arrests Utah Man in Ricin Scare at Pentagon:**  
+[https://www.nytimes.com/2018/10/03/us/pentagon-ricin-utah.html](https://www.nytimes.com/2018/10/03/us/pentagon-ricin-utah.html)
+* **Utah vet confessed to sending ricin envelopes, officials say:**  
+[https://apnews.com/07af3b2712054edfbf0290d6db3e6313/Utah-vet-confessed-to-sending-ricin-envelopes,-officials-say](https://apnews.com/07af3b2712054edfbf0290d6db3e6313/Utah-vet-confessed-to-sending-ricin-envelopes,-officials-say)
+* **Senate passes multi-pronged legislation to battle nation’s opioid crisis:**  
+[https://www.usatoday.com/story/news/politics/2018/10/03/opioids-senate-passes-legislation-battle-nations-opioid-crisis/1515372002/](https://www.usatoday.com/story/news/politics/2018/10/03/opioids-senate-passes-legislation-battle-nations-opioid-crisis/1515372002/)
+* **Cristiano Ronaldo faces growing heat from sponsors over rape allegation:**  
+[http://www.chicagotribune.com/sports/soccer/ct-spt-cristiano-ronaldo-nike-rape-allegation-20181004-story.html](http://www.chicagotribune.com/sports/soccer/ct-spt-cristiano-ronaldo-nike-rape-allegation-20181004-story.html)
+* **60-Year Old Whisky Sells For Over $1 Million at Auction:**  
+[https://www.forbes.com/sites/georgekoutsakis/2018/10/03/60-year-old-whisky-sells-for-over-1-million-dollars-at-auction/#5001d2f58837](https://www.forbes.com/sites/georgekoutsakis/2018/10/03/60-year-old-whisky-sells-for-over-1-million-dollars-at-auction/#5001d2f58837)

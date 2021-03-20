@@ -1,0 +1,26 @@
+---
+title: Kanye West, Announcing He's Running for President.
+slug: 20200708-kanye-west-announcing-hes-running-for-president
+_id: legacy-27412e8b-0731-4e1f-8cdb-17c0bc93d330
+_rev: 7QmxBnVgzphH4dpufNYQc0
+type: quick_quotes
+draft: false
+aliases:
+  - article/kanye-west-announcing-hes-running-for-president/
+_createdAt: '2020-07-05T20:54:54Z'
+_updatedAt: '2021-03-16T12:32:42Z'
+date: '2020-07-05T20:54:54+00:00'
+weight: 50
+is_breaking: false
+summary: Kanye West, announcing he’s running for president.
+featured_quote:
+  quote: >-
+    We must now realize the promise of America by trusting God, unifying our
+    vision and building our future.
+  citation: Kanye West, announcing he’s running for president.
+
+---
+* West’s July 4th [tweet](https://twitter.com/kanyewest/status/1279575273365594112) announcing his run ends with the hashtag “#2020VISION” leading many to interpret his tweet as implying he’s running this year.
+* West has previously discussed both his White House aspirations and support of Pres. Trump. In November, he said he’ll run in [2024](https://www.hollywoodreporter.com/news/christian-genius-billionaire-kanye-west-talks-2024-presidential-candidacy-moving-yeezy-stateside-1253358), and in May, he indicated he’s voting for [Pres. Trump](https://www.gq.com/story/inside-kanye-west-vision-for-the-future-cover-may-2020) this year.
+  * *UPDATE* In a [Forbes](https://www.forbes.com/sites/randalllane/2020/07/08/kanye-west-says-hes-done-with-trump-opens-up-about-white-house-bid-damaging-biden-and-everything-in-between/#b3b8b8547aab) interview released on July 8, West said he definitely wants to run in 2020 (not 2024) and that although he’s “_taking the red hat off_“, that he’d “_run as a Republican if Trump wasn’t there”_ but that he’ll “_run as an independent if Trump is there_.”
+* **Kanye 2020?** West has not filed any of the necessary paper work required to run for president this year, and he’s already missed the deadline to appear on the ballot as an Independent in at least six states, but he does have a new album coming out soon.ne to appear on the ballot as an Independent in at least six states, but he does have a new album coming out soon.

@@ -1,0 +1,97 @@
+---
+title: 18.06.25 Great Straw Debate
+slug: 20180626-18-06-25-great-straw-debate
+_id: legacy-72f518e3-ad24-4be8-a685-34eeff1f4b66
+_rev: XOnQP8cIThhnw9BWFxV4GH
+type: quick_reads
+draft: false
+aliases:
+  - 18-06-25-great-straw-debate/
+_createdAt: '2018-06-26T11:16:43Z'
+_updatedAt: '2021-03-16T12:28:13Z'
+date: '2018-06-26T11:16:43+00:00'
+weight: 50
+featured_image:
+  alt: Quick Reads background image
+  url: >-
+    a319ed0405b014d70e34122e82050ecc1e4376f4-2560x1693.jpg
+card_series: Now You Know
+colorpaletteclassname: '--white'
+cards:
+  - order: 0
+    body: |-
+      ## The Great Straw Debate
+
+      First, plastic bags.  
+      Now, plastic straws?  
+      Straw bans span coast to coast, but stir up questions.
+
+      Why Now?
+    citation: Why Now?
+    _key: card-1-3e9147a9-14da-4c83-88ec-dcad9dbe4d0f
+  - order: 1
+    body: >-
+      ## Why Hate On Straws?
+
+
+      > “Straws are a luxury, we do not need straws to have our drinks, and I
+      think it’s an easy step forward where we can have a great impact for our
+      environment.”  
+        
+        
+        
+      Brooklyn City Councilman Rafael Espinal who introduced a straw ban for
+      America's largest city in late May, following previous official bans in
+      Seattle, Oakland & Miami Beach.
+
+
+      Flip: What Impact?
+    citation: 'Flip: What Impact?'
+    _key: card-2-65d21117-90f9-4180-b3d4-bf1d8a4ebd77
+  - order: 2
+    body: >-
+      ## Impact? Data Debate
+
+
+      * You’ll see this number A LOT: **Americans use an est. 500,000,000 straws
+      a day** (that would mean every single American uses more than 1 straw a
+      day).
+
+      * **That estimate is based on a 9-year-old’s research project.**
+
+      * Whatever the number, debate continues on whether straws are public enemy
+      #1 for pollution.
+    _key: card-3-7d8c86b0-e8f2-4367-8354-95ab21f01782
+  - order: 3
+    body: >-
+      ## The Last Straw?
+
+
+      * Straw ban part of renewed focus on reducing plastic in the ocean. 60-80%
+      of all marine debris is composed of plastic: WCS.
+
+      * Study looking at efficacy of general plastic bans says **initial results
+      encouraging,** but **more research needed**.
+
+      * Other study: fishing gear, balloons & plastic bags = biggest threat to
+      ocean life, doesn’t name straws.
+    _key: card-4-8ba37065-86cc-46a6-9f1b-ead19c5feac9
+  - order: 4
+    body: >-
+      The patent for the first straw was approved in 1888, but a patent for
+      "drinking tubes" for disabled Americans came before that - another
+      argument against the straw ban is it will hurt the disabled who depend on
+      straws to drink.
+
+
+      [view sources](https://smarthernews.com/18-06-25-great-straw-debate/)
+    _key: card-10-bbaa3b7c-53f2-4ba8-a0ff-5aec27575cf7
+
+---
+* GREAT READ on history of straws in America:Disposable America  
+**A history of modern capitalism from the perspective of the straw. Seriously**.A [https://www.theatlantic.com/technology/archive/2018/06/disposable-america/563204/](https://www.theatlantic.com/technology/archive/2018/06/disposable-america/563204/)
+* **City councilman proposes a ban on plastic straws in New York City**A [http://www.ny1.com/nyc/all-boroughs/news/2018/05/24/nyc-councilman-rafael-espinal-proposes-a-ban-on-plastic-straws-in-the-city](http://www.ny1.com/nyc/all-boroughs/news/2018/05/24/nyc-councilman-rafael-espinal-proposes-a-ban-on-plastic-straws-in-the-city)
+* **Be Straw Free Campaign**:A [http://www.ecocycle.org/bestrawfree/faqs](http://www.ecocycle.org/bestrawfree/faqs)
+* **GIVE A SIP: WCS Launches Campaign to Support Bill Eliminating Plastic Straws in New York City**A [https://press.wcs.org/News-Releases/articleType/ArticleView/articleId/11311/GIVE-A-SIP-WCS-Launches-Campaign-to-Support-Bill-Eliminating-Plastic-Straws-in-New-York-City.aspx](https://press.wcs.org/News-Releases/articleType/ArticleView/articleId/11311/GIVE-A-SIP-WCS-Launches-Campaign-to-Support-Bill-Eliminating-Plastic-Straws-in-New-York-City.aspx)
+* **Dear, NBC: Stop repeating that stupid lie about how many straws Americans use**A [https://www.washingtonexaminer.com/opinion/dear-nbc-stop-repeating-that-stupid-lie-about-how-many-straws-americans-use](https://www.washingtonexaminer.com/opinion/dear-nbc-stop-repeating-that-stupid-lie-about-how-many-straws-americans-use)
+* **BANNING STRAWS WON’T SAVE THE OCEANS**A [https://psmag.com/environment/banning-straws-wont-save-the-oceans](https://psmag.com/environment/banning-straws-wont-save-the-oceans)

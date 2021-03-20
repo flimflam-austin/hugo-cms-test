@@ -24,7 +24,7 @@
 		</div>
 	</div>
 </header>
-{{ $videoposts := where .Site.RegularPages "Section" "videoposts" }}
+{{ $videoposts := where .Site.RegularPages "Section" "video_posts" }}
 {{ $breakingvideoposts := where $videoposts ".Params.meta.is_breaking_dropdown" "=" true }}
 {{- range first 1 (sort $breakingvideoposts ".Params.meta.date_published") -}}
 
