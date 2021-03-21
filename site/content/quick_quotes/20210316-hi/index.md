@@ -1,12 +1,12 @@
 ---
 title: 'Hi '
 slug: 20210316-hi
-_id: drafts.c5eb31c6-29f3-40dd-9115-c8f282e877f9
-_rev: raeay5-vk4-myq-746-s0klu9oce
+_id: c5eb31c6-29f3-40dd-9115-c8f282e877f9
+_rev: 3lFEqzItaGauOcp0aYDsUL
 type: quick_quotes
-draft: true
+draft: false
 _createdAt: '2021-03-16T19:12:58Z'
-_updatedAt: '2021-03-20T02:56:26Z'
+_updatedAt: '2021-03-20T14:39:14Z'
 date: '2021-03-16T20:00:00.000Z'
 weight: 50
 featured_image:
