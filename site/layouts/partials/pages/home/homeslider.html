@@ -31,7 +31,8 @@
         {{end}}
 
         {{ $imagePath := .Resources.GetMatch (print .Params.featured_image.url) }}
-        {{ $image2000 := $imagePath.Resize "2000x" }}
+        {{ $imageFull := $imagePath.Resize "1500x" }}
+        {{ $imagePlaceholder := $imagePath.Resize "80x" }}
         {{/*{{ $image300 := $imagePath.Resize "300x"}}
         {{ $image600 := $imagePath.Resize "600x"}}
         {{ $image1200 := $imagePath.Resize "1200x"}}
@@ -45,7 +46,7 @@
             "
             sizes="100vmin"
             alt="{{- .Params.featured_image.alt -}}">*/}}
-        <img class="carousel__image" src="{{- $image2000.RelPermalink -}}" />
+        <img class="carousel__image" src="{{- $imagePlaceholder.RelPermalink -}}" data-flickity-lazyload="{{- $imageFull.RelPermalink -}}" />
     </section>
     {{ end }}
 </div>
