@@ -100,6 +100,7 @@
     "title-case": "^3.0.3",
     "to-sentence-case": "^1.0.0",
     "turndown": "^7.0.0",
-    "urlize": "^0.2.1"
+    "urlize": "^0.2.1",
+    "yarn": "^1.22.10"
   }
 }
