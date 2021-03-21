@@ -5,6 +5,7 @@ site/data/webpack.json
 node_modules/
 yarn-error.log
 00_output_rawscrapecsv/
+public/
 
 # OS generated files #
 ######################
