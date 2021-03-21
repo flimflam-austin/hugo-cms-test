@@ -4,7 +4,14 @@
 
 
         {{ $cardImage := .Resources.GetMatch (print .Params.featured_image.url) }}
-        {{/* {{ $resizedImage := $cardImage.Fill "500x500"}} */}}
+        {{ $imageScratch := newScratch}}
+        {{ $imageScratch.Set "image" " " }}
+        {{ if ne $cardImage nil }}
+            {{ $resized := ($cardImage.Fill "800x800").RelPermalink }}
+            {{ $imageScratch.Set "image" $resized }}
+        {{ end }}
+
+
         {{ $cardSeries := .Params.card_series }}
 
         {{ $cards := .Params.cards }}
@@ -17,8 +24,9 @@
             <div class="stackcard">
                 <div class="stackcard__frame stackcard__frame--upper">
                     <div class="stackcard__body">
+                        {{/*{{ if and ($isFirstCard) (ne $cardImage nil) }}*/}}
                         {{ if and ($isFirstCard) (ne $cardImage nil) }}
-                            <img class="stackcard__bgimage" src="{{- $cardImage.RelPermalink -}}" alt="{{- .Params.featured_image.alt -}}" />
+                            <img class="stackcard__bgimage" src="{{ $imageScratch.Get "image" }}" alt="{{- .Params.featured_image.alt -}}" />
                         {{end}}
                         <div class="stackcard__borderwrapper">
                             <div class="stackcard__borderelements">
@@ -41,7 +49,7 @@
                 <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
                     <div class="stackcard__body stackcard__body--lower">
                         {{ if and ($isFirstCard) (ne $cardImage nil) }}
-                            <img class="stackcard__bgimage" src="{{- $cardImage.Permalink -}}" alt="{{- .Params.featured_image.alt -}}" />
+                            <img class="stackcard__bgimage" src="{{ $imageScratch.Get "image" }}" alt="{{- .Params.featured_image.alt -}}" />
                         {{end}}
                         <div class="stackcard__borderwrapper">
                             <div class="stackcard__borderelements stackcard__borderelements--lower">
