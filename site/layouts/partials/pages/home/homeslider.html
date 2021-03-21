@@ -33,19 +33,7 @@
         {{ $imagePath := .Resources.GetMatch (print .Params.featured_image.url) }}
         {{ $imageFull := $imagePath.Resize "1500x" }}
         {{ $imagePlaceholder := $imagePath.Resize "80x" }}
-        {{/*{{ $image300 := $imagePath.Resize "300x"}}
-        {{ $image600 := $imagePath.Resize "600x"}}
-        {{ $image1200 := $imagePath.Resize "1200x"}}
-        {{ $image2000 := $imagePath.Resize "2000x"}}
-        <img class="carousel__image"
-            srcset="
-                {{- $image300.RelPermalink -}} 300w,
-                {{- $image600.RelPermalink -}} 600w,
-                {{- $image1200.RelPermalink -}} 1200w,
-                {{- $image2000.RelPermalink -}} 2000w
-            "
-            sizes="100vmin"
-            alt="{{- .Params.featured_image.alt -}}">*/}}
+
         <img class="carousel__image" src="{{- $imagePlaceholder.RelPermalink -}}" data-flickity-lazyload="{{- $imageFull.RelPermalink -}}" />
     </section>
     {{ end }}
