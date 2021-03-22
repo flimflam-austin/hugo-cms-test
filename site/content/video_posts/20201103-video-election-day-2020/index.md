@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\WilG1CIK-nQ\ title=\Election Day 2020 - We have arrived!\ >}}
+{{< youtube id="WilG1CIK-nQ" title="Election Day 2020 - We have arrived!" >}}

@@ -45,4 +45,4 @@ Alaska earthquake: When will the aftershocks stop?A [https://www.usatoday.com/st
 
 The following is an account from a SmartHER News reader, Tarryn, who is not only a mom of a 2-year-old but alsoA 39 weeks pregnant!
 
-{{< youtube id=\E5tM5aUmsbI\ title=\SHN-Alaskan Earthquake\ >}}
+{{< youtube id="E5tM5aUmsbI" title="SHN-Alaskan Earthquake" >}}

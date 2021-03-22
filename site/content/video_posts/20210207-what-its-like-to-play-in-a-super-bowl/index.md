@@ -18,6 +18,6 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\1hZZSxFaG30\ title=\Playing in the NFL for $10 a day! What it’s like to play in a Super Bowl?\ >}}
+{{< youtube id="1hZZSxFaG30" title="Playing in the NFL for $10 a day! What it’s like to play in a Super Bowl?" >}}
 
 Fun fact – My dad use to play in the NFL! During his days in the league, he played in 3 Super Bowls as a punter, and quarterback. This all happened in the years before I was born so I never experienced this part of his life with him, but we always watched football together and he would tell us stories about his years playing in the National Football League. It was a much different time. As you’ll hear, my mother, a public school teacher, earned more money than my dad as a first-year football player – My dad also worked in the off-season. I called him up on the morning of the Super Bowl and we recorded this quick interview before the big game. It’s been just over 50 years since his first Super Bowl but he still has some of the most fascinating observations I’ve heard on the game, and what football means to America. I hope you enjoy it!

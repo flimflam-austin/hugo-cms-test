@@ -27,4 +27,4 @@ featured_quote:
 
 [Listen to the full prayer here](https://youtu.be/hoXJ1H3F3X4)
 
-{{< youtube id=\hoXJ1H3F3X4\ title=\“The power of life and death is in the tongue.”\ >}}
+{{< youtube id="hoXJ1H3F3X4" title="“The power of life and death is in the tongue.”" >}}

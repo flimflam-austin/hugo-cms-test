@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\g-z5mpgfn60\ title=\The Glorious Cause ~\ >}}
+{{< youtube id="g-z5mpgfn60" title="The Glorious Cause ~" >}}

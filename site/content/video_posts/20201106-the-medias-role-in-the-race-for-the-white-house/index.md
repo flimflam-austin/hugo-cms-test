@@ -14,4 +14,4 @@ weight: 50
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\VfDz4PVP7-s\ title=\Obese Turtles? (The Media's Role in the Race For The White House)\ >}}
+{{< youtube id="VfDz4PVP7-s" title="Obese Turtles? (The Media's Role in the Race For The White House)" >}}

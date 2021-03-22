@@ -18,7 +18,7 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\m3QIf0hAs-4\ title=\The later you get this virus, the better off you will be.\ >}}
+{{< youtube id="m3QIf0hAs-4" title="The later you get this virus, the better off you will be." >}}
 
 _Dr. Natasha Kathuria ([instagram.com/natashad123](http://instgram.com/natashad123))_
 

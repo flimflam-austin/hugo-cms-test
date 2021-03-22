@@ -18,7 +18,7 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\UmKE3MypbnQ\ title=\COVID, KIDS & MISSING CONTEXT\ >}}
+{{< youtube id="UmKE3MypbnQ" title="COVID, KIDS & MISSING CONTEXT" >}}
 
 **LEARN MORE:**
 

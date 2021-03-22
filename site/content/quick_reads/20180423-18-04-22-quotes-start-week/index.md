@@ -103,7 +103,7 @@ cards:
     _key: card-10-1fba64f8-45f7-4949-8e5a-b220199862dc
 
 ---
-{{< instapost id=\Bh24ODehfXA\ >}}
+{{< instapost id="Bh24ODehfXA" >}}
 
 Ivana Trump thinks Vanessa will “have a problem” finding a newA man: [https://pagesix.com/2018/04/21/ivana-trump-says-donald-should-just-go-and-play-golf/](https://pagesix.com/2018/04/21/ivana-trump-says-donald-should-just-go-and-play-golf/)
 

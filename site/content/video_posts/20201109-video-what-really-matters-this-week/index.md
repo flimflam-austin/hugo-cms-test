@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\q-qCdlakyjM\ title=\What Really Matters - This Week\ >}}
+{{< youtube id="q-qCdlakyjM" title="What Really Matters - This Week" >}}

@@ -22,4 +22,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\J5rOdq8xdP8\ title=\No Matter What Happens Next - THIS Matters\ >}}
+{{< youtube id="J5rOdq8xdP8" title="No Matter What Happens Next - THIS Matters" >}}

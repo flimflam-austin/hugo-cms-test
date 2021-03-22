@@ -18,7 +18,7 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\vxTg1JzQsvc\ title=\Should Kids Go To School During COVID?\ >}}
+{{< youtube id="vxTg1JzQsvc" title="Should Kids Go To School During COVID?" >}}
 
 A link to the interactive model through the New York Times: [CLICK HERE](https://www.nytimes.com/interactive/2020/07/31/us/coronavirus-school-reopening-risk.html)
 

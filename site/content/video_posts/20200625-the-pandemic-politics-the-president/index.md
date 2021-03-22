@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\ixLjCKhpJDc\ title=\The Pandemic, Politics & The President\ >}}
+{{< youtube id="ixLjCKhpJDc" title="The Pandemic, Politics & The President" >}}

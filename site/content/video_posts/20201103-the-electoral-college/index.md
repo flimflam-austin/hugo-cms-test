@@ -18,7 +18,7 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\sTHAkc46SiE\ title=\The Electoral College - Where It Comes From & Why It Matters\ >}}
+{{< youtube id="sTHAkc46SiE" title="The Electoral College - Where It Comes From & Why It Matters" >}}
 
 ## **Create your own electoral college map: [CLICK HERE](https://www.realclearpolitics.com/epolls/2020/president/create_your_own_president_map.html)**
 

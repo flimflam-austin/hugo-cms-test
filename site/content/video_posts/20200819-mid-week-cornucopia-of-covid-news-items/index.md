@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\0FvVKALdI2U\ title=\Mid-Week Cornucopia of COVID News Items\ >}}
+{{< youtube id="0FvVKALdI2U" title="Mid-Week Cornucopia of COVID News Items" >}}

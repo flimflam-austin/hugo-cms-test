@@ -40,4 +40,4 @@ cards:
 ---
 Interview with Historian Doug Wead:A [https://youtu.be/dYLbBALvMJo](https://youtu.be/dYLbBALvMJo)
 
-{{< youtube id=\dYLbBALvMJo\ title=\ >}}
+{{< youtube id="dYLbBALvMJo" title=" >}}

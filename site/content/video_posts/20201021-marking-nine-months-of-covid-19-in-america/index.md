@@ -18,7 +18,7 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\snzCakPbV-k\ title=\Marking 9 Months of COVID-19 in America\ >}}
+{{< youtube id="snzCakPbV-k" title="Marking 9 Months of COVID-19 in America" >}}
 
 ‘If We Had a Panic Button, We’d be Hitting it.’ Women Are Exiting the Labor Force En Masse—And That’s Bad For Everyone: [CLICK HERE](https://time.com/5900583/women-workforce-economy-covid/)
 

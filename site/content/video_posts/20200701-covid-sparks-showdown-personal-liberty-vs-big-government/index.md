@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\povyXnuC8XU\ title=\COVID Showdown: Your Personal Liberty vs. Big Government\ >}}
+{{< youtube id="povyXnuC8XU" title="COVID Showdown: Your Personal Liberty vs. Big Government" >}}

@@ -18,7 +18,7 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\I2aqQouEf_A\ title=\Surprise! #AlpacaSunshine\ >}}
+{{< youtube id="I2aqQouEf_A" title="Surprise! #AlpacaSunshine" >}}
 
 FOR MORE INFO: [RedBarnFarm.org](http://REdBarnfarm.org)
 

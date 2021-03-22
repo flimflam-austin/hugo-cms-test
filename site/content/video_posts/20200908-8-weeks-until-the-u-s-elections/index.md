@@ -18,7 +18,7 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\m4Xlpf3t28Y\ title=\8 weeks!\ >}}
+{{< youtube id="m4Xlpf3t28Y" title="8 weeks!" >}}
 
 Here’s more info on [JOBS](https://smarthernews.com/jobs-report-august/)
 

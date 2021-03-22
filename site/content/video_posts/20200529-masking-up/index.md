@@ -18,7 +18,7 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\F2A_QcnJiQ4\ title=\NEW STUDY: Masking Up\ >}}
+{{< youtube id="F2A_QcnJiQ4" title="NEW STUDY: Masking Up" >}}
 
 Here’s the quick tutorial: [CLICK HERE](https://www.youtube.com/watch?v=yfeW2l8G_W4&feature=youtu.be)
 

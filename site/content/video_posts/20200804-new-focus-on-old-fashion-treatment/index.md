@@ -18,7 +18,7 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\XF4WK08GEeY\ title=\An \Old-Fashion\ Treatment For COVID-19 Gains New Attention\ >}}
+{{< youtube id="XF4WK08GEeY" title="An "Old-Fashion" Treatment For COVID-19 Gains New Attention" >}}
 
 **Additional Resources:**
 

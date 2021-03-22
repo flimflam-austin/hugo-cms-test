@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\m9Xc3x8XuHs\ title=\Should Wearing A Mask Be Like Wearing A Seatbelt?\ >}}
+{{< youtube id="m9Xc3x8XuHs" title="Should Wearing A Mask Be Like Wearing A Seatbelt?" >}}

@@ -18,6 +18,6 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\pnq1r-ZCDkI\ title=\Tuesday Coffee Talk\ >}}
+{{< youtube id="pnq1r-ZCDkI" title="Tuesday Coffee Talk" >}}
 
 Coffee Talk Monday: [CLICK HERE](https://youtu.be/6nTg66NbRvw)

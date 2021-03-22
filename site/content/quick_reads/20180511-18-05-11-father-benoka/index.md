@@ -61,4 +61,4 @@ cards:
 ---
 Full Interview:A Father Benoka, Catholic Priest, speaking to SmartHER News about the threats Christians face in Northern Iraq, by Shiite Militias, believed to be tied to Iran.
 
-{{< youtube id=\mQTCRB3vdSU\ title=\ >}}
+{{< youtube id="mQTCRB3vdSU" title=" >}}

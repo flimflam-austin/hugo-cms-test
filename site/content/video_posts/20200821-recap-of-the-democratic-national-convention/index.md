@@ -18,7 +18,7 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\H7vM7AhYArc\ title=\RECAP! Democratic National Convention\ >}}
+{{< youtube id="H7vM7AhYArc" title="RECAP! Democratic National Convention" >}}
 
 **Full Speech by VP Joe Biden:** [CLICK HERE](https://www.cnn.com/videos/politics/2020/08/21/joe-biden-dnc-2020-speech-full-video-vpx.cnn)
 

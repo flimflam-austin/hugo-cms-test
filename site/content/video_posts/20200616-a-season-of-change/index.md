@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\J44-685YIDI\ title=\A Season Of Change\ >}}
+{{< youtube id="J44-685YIDI" title="A Season Of Change" >}}

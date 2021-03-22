@@ -29,4 +29,4 @@ featured_quote:
 
 Watch His Explanation [HERE](https://youtu.be/9Kd3yfT_DsQ):
 
-{{< youtube id=\9Kd3yfT_DsQ\ title=\Chief of Metropolitan Police Department on declaring a riot at the U.S. Capitol on Jan. 7, 2021\ >}}
+{{< youtube id="9Kd3yfT_DsQ" title="Chief of Metropolitan Police Department on declaring a riot at the U.S. Capitol on Jan. 7, 2021" >}}

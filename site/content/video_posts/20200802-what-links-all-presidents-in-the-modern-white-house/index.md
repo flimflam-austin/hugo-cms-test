@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\nC4xQ7oCjI0\ title=\What links all Presidents in the modern White House?\ >}}
+{{< youtube id="nC4xQ7oCjI0" title="What links all Presidents in the modern White House?" >}}

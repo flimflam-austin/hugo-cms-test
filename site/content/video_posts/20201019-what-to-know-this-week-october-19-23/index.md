@@ -18,7 +18,7 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\ThFVmpIDXdg\ title=\The Next 24 Hours - 🙌🏻\ >}}
+{{< youtube id="ThFVmpIDXdg" title="The Next 24 Hours - 🙌🏻" >}}
 
 **Here’s some info on voter registration in swing states:** [READ MORE](https://www.cbsnews.com/news/voter-registration-republicans-swing-states-narrow-gap/)
 

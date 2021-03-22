@@ -18,6 +18,6 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\nPuSFC5yTnM\ title=\LEAKED PHONE CALL: Did Pres. Trump break any laws?\ >}}
+{{< youtube id="nPuSFC5yTnM" title="LEAKED PHONE CALL: Did Pres. Trump break any laws?" >}}
 
 Here’s a link to our backstory on all of this including a transcript/audio of the call: [READ MORE](https://smarthernews.com/article/ga-trump-phone-call/)

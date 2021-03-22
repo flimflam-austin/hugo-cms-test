@@ -18,6 +18,6 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\gPf-VQL-tQo\ title=\Why all the talk about the USPS?\ >}}
+{{< youtube id="gPf-VQL-tQo" title="Why all the talk about the USPS?" >}}
 
 Here’s some background about mail in voting: [CLICK HERE](https://smarthernews.com/vote-by-mail/)

@@ -18,6 +18,6 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\r3we3ZDUrfo\ title=\Monday Morning Catch-Up\ >}}
+{{< youtube id="r3we3ZDUrfo" title="Monday Morning Catch-Up" >}}
 
 The FDA Commissoner’s statement on convalescent plasma: [CLICK HERE](https://smarthernews.com/article/hahn-on-convalescent-plasma/)

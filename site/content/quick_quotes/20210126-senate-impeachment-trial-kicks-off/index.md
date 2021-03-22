@@ -37,4 +37,4 @@ featured_quote:
 
 Here’s the two sides of the argument about whether to impeach or not impeach Pres. Trump for a second time:
 
-{{< youtube id=\aC38qktpCv8\ title=\The Central Argument For/Against Impeachment: Two-Sides\ >}}
+{{< youtube id="aC38qktpCv8" title="The Central Argument For/Against Impeachment: Two-Sides" >}}

@@ -102,4 +102,4 @@ cards:
 * **UFC 229 Tickets On Sale This Week For Khabib Nurmagomedov Vs. Conor McGregor Fight Card:**  
 [https://www.forbes.com/sites/trentreinsmith/2018/08/15/ufc-229-tickets-on-sale-this-week-for-khabib-nurmagomedov-vs-conor-mcgregor-fight-card/](https://www.forbes.com/sites/trentreinsmith/2018/08/15/ufc-229-tickets-on-sale-this-week-for-khabib-nurmagomedov-vs-conor-mcgregor-fight-card/)
 
-{{< instapost id=\Bmi-84OFPAZ\ >}}
+{{< instapost id="Bmi-84OFPAZ" >}}

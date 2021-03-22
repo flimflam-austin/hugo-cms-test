@@ -18,6 +18,6 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\wJ7boni5PF4\ title=\Small Bites - Early Tuesday Update\ >}}
+{{< youtube id="wJ7boni5PF4" title="Small Bites - Early Tuesday Update" >}}
 
 Update on the shooting of Jacob Blake: [CLICK HERE](https://smarthernews.com/article/jacobblake/)

@@ -18,6 +18,6 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\yg9UR6ifU8o\ title=\How deadly REALLY is COVID-19?\ >}}
+{{< youtube id="yg9UR6ifU8o" title="How deadly REALLY is COVID-19?" >}}
 
 Here’s some information about death rates OR deaths per 100,000: [CLICK HERE](https://coronavirus.jhu.edu/data/mortality)

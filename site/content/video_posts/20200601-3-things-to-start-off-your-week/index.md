@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\6nTg66NbRvw\ title=\Three Things To Know - June 1st, 2020\ >}}
+{{< youtube id="6nTg66NbRvw" title="Three Things To Know - June 1st, 2020" >}}

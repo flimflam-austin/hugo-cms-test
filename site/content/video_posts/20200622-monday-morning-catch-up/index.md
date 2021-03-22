@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\09Y69rNzUNM\ title=\Monday Morning Catch-Up\ >}}
+{{< youtube id="09Y69rNzUNM" title="Monday Morning Catch-Up" >}}

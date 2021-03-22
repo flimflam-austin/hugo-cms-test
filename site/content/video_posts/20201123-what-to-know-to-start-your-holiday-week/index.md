@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\gelfe-pu8-U\ title=\Coffee Talk ☕️ What To Know To Start Your Holiday Week\ >}}
+{{< youtube id="gelfe-pu8-U" title="Coffee Talk ☕️ What To Know To Start Your Holiday Week" >}}

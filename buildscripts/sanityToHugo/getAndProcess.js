@@ -23,6 +23,7 @@ const ff = require("./ffhelpers");
 const convertFilesToMd = require("./filebuilder");
 const log = require("./buildlog");
 const schema = require("./schemabuilder");
+const shortcodeFix = require("./fixShortcode");
 
 const sanityToken =
   "skT56bQ7gH63mOrsGUHTwh9hO6Hfx6npXXboZQMp4gdkt4JqkZCcn8mUtRvkMAhj82hIqcvf23asmaHbVlAgeXmJjqenA8KrEnXTwMVLhFIDVp7FJwNxAtjznqoRoMvVP86bksCeIbAV8MeapCTczWEstIzLF5ch3uQgWARLDIy3fG506ga2";
@@ -91,6 +92,8 @@ const asyncGetRequest = async () => {
       (err) =>
         `Done: No changes made to content:\n-\tEither there is nothing new to download, or there was a failure.\n-\tPlease see message below for reason:\n-\t${err}`
     );
+
+  shortcodeFix.scrubShortcodes();
 
   return completeStatus + endMessage;
 };

@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\rqFBaaupdFg\ title=\Friday Wrap-Up ~ Plus Why I Got Tested For Covid-19\ >}}
+{{< youtube id="rqFBaaupdFg" title="Friday Wrap-Up ~ Plus Why I Got Tested For Covid-19" >}}

@@ -18,7 +18,7 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\G0XGCP9FelE\ title=\What To Know & Why It Matters: Armenia & Azerbaijan\ >}}
+{{< youtube id="G0XGCP9FelE" title="What To Know & Why It Matters: Armenia & Azerbaijan" >}}
 
 Here’s a good backgrounder on the conflict: [Eruption of Conflict Over Nagorno-Karabakh](https://www.cfr.org/blog/eruption-conflict-over-nagorno-karabakh?gclid=Cj0KCQjw2or8BRCNARIsAC_ppybvcQfm_hSPU2GZs2T7wZ3MtKeZzQQFpdm3BGCH4O_-71WdnVvHEVsaAlVwEALw_wcB)
 

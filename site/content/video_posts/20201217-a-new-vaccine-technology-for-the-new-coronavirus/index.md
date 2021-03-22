@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\by8wQOdMKl0\ title=\NEW vaccine technology...for a NEW Coronavirus?\ >}}
+{{< youtube id="by8wQOdMKl0" title="NEW vaccine technology...for a NEW Coronavirus?" >}}

@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\LC_bz9eZvx4\ title=\Breaking News from Atlanta, Minneapolis and the Supreme Court\ >}}
+{{< youtube id="LC_bz9eZvx4" title="Breaking News from Atlanta, Minneapolis and the Supreme Court" >}}

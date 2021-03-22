@@ -18,7 +18,7 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\pGYmeQOPzXE\ title=\“Peace Deal” In of the Middle East?\ >}}
+{{< youtube id="pGYmeQOPzXE" title="“Peace Deal” In of the Middle East?" >}}
 
 Listen here: [CLICK](https://smarthernews.libsyn.com/peace-deal-in-of-the-middle-east)
 

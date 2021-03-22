@@ -22,4 +22,4 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\MvTg-WCk2sg\ title=\This Tx Congressman Says He Will Object To The Electoral College Votes For The Sake Of His Grandkids\ >}}
+{{< youtube id="MvTg-WCk2sg" title="This Tx Congressman Says He Will Object To The Electoral College Votes For The Sake Of His Grandkids" >}}

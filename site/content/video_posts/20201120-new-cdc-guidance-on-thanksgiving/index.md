@@ -18,4 +18,4 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=-dSs21z8pQI\ title=\**NEW** CDC Guidance on Thanksgiving & **DEVELOPMENTS** On A COVID-19 Vaccine (DESKTOP Version)\ >}}
+{{< youtube id=-dSs21z8pQI" title="**NEW** CDC Guidance on Thanksgiving & **DEVELOPMENTS** On A COVID-19 Vaccine (DESKTOP Version)" >}}

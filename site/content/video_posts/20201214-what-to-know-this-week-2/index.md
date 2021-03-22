@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\YMEkBbJTjB4\ title=\What You Need To Know This Week 👊🏻\ >}}
+{{< youtube id="YMEkBbJTjB4" title="What You Need To Know This Week 👊🏻" >}}

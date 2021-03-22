@@ -18,6 +18,6 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\IHAEUyJ0emg\ title=\2nd Impeachment of Pres. Trump: What Happened, Why It Matters, What's Next\ >}}
+{{< youtube id="IHAEUyJ0emg" title="2nd Impeachment of Pres. Trump: What Happened, Why It Matters, What's Next" >}}
 
 Here’s the [Article of Impeachment](https://int.nyt.com/data/documenttools/articles-impeachment-trump-xml/b0422e292cebafda/full.pdf) – [CLICK HERE](https://www.nytimes.com/interactive/2021/01/11/us/articles-impeachment-trump.html)

@@ -32,4 +32,4 @@ Facebook (owner of Instagram) has banned President Trump “indefinitely and for
 * There’s multiple storylines to discuss here but for now, we wanted you to see the statement in full.  
 .
 
-{{< youtube id=\7htWlXhCiAA\ title=\President Trump: Recorded National Address January 7th, 2021.\ >}}
+{{< youtube id="7htWlXhCiAA" title="President Trump: Recorded National Address January 7th, 2021." >}}

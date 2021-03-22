@@ -18,7 +18,7 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\hJvY1CU1Eyg\ title=\Small Bites of Your Big Stories\ >}}
+{{< youtube id="hJvY1CU1Eyg" title="Small Bites of Your Big Stories" >}}
 
 **Study referenced in report:**
 

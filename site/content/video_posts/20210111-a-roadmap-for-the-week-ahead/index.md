@@ -18,6 +18,6 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\a46RdR8BuEU\ title=\A Roadmap For The Week Ahead\ >}}
+{{< youtube id="a46RdR8BuEU" title="A Roadmap For The Week Ahead" >}}
 
 READ MORE: [Quick SmartHER News stack on Iran](https://smarthernews.com/iran-january-2021/)

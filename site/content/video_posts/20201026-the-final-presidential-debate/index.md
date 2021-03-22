@@ -18,6 +18,6 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\DuwLVsBfVBo\ title=\The Final Presidential Debate\ >}}
+{{< youtube id="DuwLVsBfVBo" title="The Final Presidential Debate" >}}
 
 Here’s a transcript of the debate: [CLICK HERE](https://www.usatoday.com/story/news/politics/elections/2020/10/23/debate-transcript-trump-biden-final-presidential-debate-nashville/3740152001/)

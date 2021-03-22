@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\VssF1IY43fE\ title=\Have We All Been Exposed To COVID?\ >}}
+{{< youtube id="VssF1IY43fE" title="Have We All Been Exposed To COVID?" >}}

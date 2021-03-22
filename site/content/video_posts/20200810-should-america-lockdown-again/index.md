@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\wiiQXTn6dEU\ title=\Should America Lockdown Again?\ >}}
+{{< youtube id="wiiQXTn6dEU" title="Should America Lockdown Again?" >}}

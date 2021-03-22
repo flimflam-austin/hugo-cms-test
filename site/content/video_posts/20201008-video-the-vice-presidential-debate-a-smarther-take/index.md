@@ -18,7 +18,7 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\Wr8SwNlXnX4\ title=\What To Know: Vice Presidential Debate 2020\ >}}
+{{< youtube id="Wr8SwNlXnX4" title="What To Know: Vice Presidential Debate 2020" >}}
 
 Transcript to the debate: [READ HERE](https://www.usatoday.com/story/news/politics/elections/2020/10/08/vice-presidential-debate-full-transcript-mike-pence-and-kamala-harris/5920773002/)
 

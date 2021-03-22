@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\5BYZctRAKtI\ title=\A SmartHER Thanksgiving\ >}}
+{{< youtube id="5BYZctRAKtI" title="A SmartHER Thanksgiving" >}}

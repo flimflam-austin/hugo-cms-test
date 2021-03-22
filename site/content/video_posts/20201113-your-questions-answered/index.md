@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\npC3_Jm2VuU\ title=\Your Questions Answered!\ >}}
+{{< youtube id="npC3_Jm2VuU" title="Your Questions Answered!" >}}

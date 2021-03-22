@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\2Y-IClfBO-U\ title=\Two Things (on Three Topics)\ >}}
+{{< youtube id="2Y-IClfBO-U" title="Two Things (on Three Topics)" >}}

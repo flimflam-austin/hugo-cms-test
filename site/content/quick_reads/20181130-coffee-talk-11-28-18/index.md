@@ -35,4 +35,4 @@ cards:
     _key: card-10-94246ffb-8aca-4ebf-8e91-624627576c6b
 
 ---
-{{< youtube id=\3El6tb9rRSY\ title=\ >}}
+{{< youtube id="3El6tb9rRSY" title=" >}}

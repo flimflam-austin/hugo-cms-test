@@ -34,8 +34,8 @@ featured_quote:
 
 Here’s an excerpt of his speech:
 
-{{< youtube id=\Wai9-4XyoaA\ title=\Pres. Trump Farewell Address - 3 Minute Take\ >}}
+{{< youtube id="Wai9-4XyoaA" title="Pres. Trump Farewell Address - 3 Minute Take" >}}
 
 Here’s his full speech:
 
-{{< youtube id=\6h5_d3DUdR4\ title=\Farewell Address of President Donald J. Trump\ >}}
+{{< youtube id="6h5_d3DUdR4" title="Farewell Address of President Donald J. Trump" >}}

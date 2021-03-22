@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\zSRL1Cz_fMw\ title=\What You Need To Know To Start Your Week\ >}}
+{{< youtube id="zSRL1Cz_fMw" title="What You Need To Know To Start Your Week" >}}

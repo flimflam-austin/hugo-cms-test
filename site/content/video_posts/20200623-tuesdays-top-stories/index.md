@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\7gtwhrQye1U\ title=\Tuesday's Top Stories\ >}}
+{{< youtube id="7gtwhrQye1U" title="Tuesday's Top Stories" >}}

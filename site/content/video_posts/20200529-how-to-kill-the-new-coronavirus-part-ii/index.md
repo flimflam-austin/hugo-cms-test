@@ -18,7 +18,7 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\KPRRqserksA\ title=\How To Kill The New Coronavirus Part II\ >}}
+{{< youtube id="KPRRqserksA" title="How To Kill The New Coronavirus Part II" >}}
 
 Here’s Dr. Lin’s power point presentation he constantly updates on COVID-19: [CLICK HERE](https://drive.google.com/file/d/1ZlNx1cIdz7eTAIWfm8_RAnmy-4ARpmli/view)
 

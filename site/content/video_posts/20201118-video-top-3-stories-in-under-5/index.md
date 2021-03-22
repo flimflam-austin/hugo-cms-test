@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\x7itJhSSovg\ title=\Top 3 Stories in Less Than 5 Minutes\ >}}
+{{< youtube id="x7itJhSSovg" title="Top 3 Stories in Less Than 5 Minutes" >}}

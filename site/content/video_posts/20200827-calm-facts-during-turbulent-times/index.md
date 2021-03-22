@@ -18,6 +18,6 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\5W7-XgzTUfU\ title=\Calm Facts During Turbulent Times\ >}}
+{{< youtube id="5W7-XgzTUfU" title="Calm Facts During Turbulent Times" >}}
 
 Here’s where you can access the latest on Jacob Blake: [CLICK HERE](https://smarthernews.com/article/jacobblake/)

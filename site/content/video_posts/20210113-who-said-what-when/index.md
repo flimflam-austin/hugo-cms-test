@@ -20,8 +20,8 @@ video_series: Spotlight
 ---
 What lawmakers said during the debate on impeaching President Trump:
 
-{{< youtube id=\Sgac1LkhZs0\ title=\Who Said What - House Debate on Impeachment\ >}}
+{{< youtube id="Sgac1LkhZs0" title="Who Said What - House Debate on Impeachment" >}}
 
 What President Trump said after the impeachment vote:
 
-{{< youtube id=\FYPHo8Q9ulI\ title=\President Trump Delivers Remarks After Impeachment Vote\ >}}
+{{< youtube id="FYPHo8Q9ulI" title="President Trump Delivers Remarks After Impeachment Vote" >}}

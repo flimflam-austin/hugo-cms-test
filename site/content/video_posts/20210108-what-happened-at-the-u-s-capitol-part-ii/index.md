@@ -18,8 +18,8 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\qmBQQCphe5w\ title=\What’s Happening At The U.S. Capitol Day 2\ >}}
+{{< youtube id="qmBQQCphe5w" title="What’s Happening At The U.S. Capitol Day 2" >}}
 
 What Happened At The U.S. Capitol – Part I
 
-{{< youtube id=\gfvdb0WVuM8\ title=\What Happened At The U.S. Capitol: January 6, 2021\ >}}
+{{< youtube id="gfvdb0WVuM8" title="What Happened At The U.S. Capitol: January 6, 2021" >}}

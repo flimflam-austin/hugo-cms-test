@@ -37,4 +37,4 @@ cards:
     _key: card-10-20c0f4c8-ec57-4b5c-970b-18124d726177
 
 ---
-{{< youtube id=\oYVoT9Q6yqo\ title=\Coffee Talk-1/8/19\ >}}
+{{< youtube id="oYVoT9Q6yqo" title="Coffee Talk-1/8/19" >}}

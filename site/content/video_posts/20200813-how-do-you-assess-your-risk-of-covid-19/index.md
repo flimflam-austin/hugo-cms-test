@@ -18,6 +18,6 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\4kuUvFuxjyE\ title=\How Do You Assess Your Risk of COVID-19?\ >}}
+{{< youtube id="4kuUvFuxjyE" title="How Do You Assess Your Risk of COVID-19?" >}}
 
 HERE’S THE MODEL FROM HARVARD UNIVERSITY: [CLICK HERE](https://globalepidemics.org/)

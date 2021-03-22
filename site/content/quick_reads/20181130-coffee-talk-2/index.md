@@ -32,4 +32,4 @@ cards:
     _key: card-10-4a52212c-a19f-4390-b833-972665286a2a
 
 ---
-{{< youtube id=\8AEL1J1WMoI\ title=\SmarHER News-Coffee Talk-11/30/18\ >}}
+{{< youtube id="8AEL1J1WMoI" title="SmarHER News-Coffee Talk-11/30/18" >}}

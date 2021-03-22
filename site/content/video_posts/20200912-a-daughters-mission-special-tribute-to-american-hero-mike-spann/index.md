@@ -18,7 +18,7 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\VUyfe-swd2g\ title=\A Daughter’s Mission: Special Tribute To American Hero Mike Spann\ >}}
+{{< youtube id="VUyfe-swd2g" title="A Daughter’s Mission: Special Tribute To American Hero Mike Spann" >}}
 
 Link to podcast platform for easy listening: [CLICK HERE](http://smarthernews.libsyn.com/a-daughters-mission-special-tribute-to-american-hero-mike-spann)
 

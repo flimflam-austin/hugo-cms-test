@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\fzblTubWHwQ\ title=\3 Stories To Start Your Week Smarter\ >}}
+{{< youtube id="fzblTubWHwQ" title="3 Stories To Start Your Week Smarter" >}}

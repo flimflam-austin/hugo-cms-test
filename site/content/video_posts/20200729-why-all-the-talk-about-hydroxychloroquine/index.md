@@ -20,6 +20,6 @@ video_series: Coffee Talk
 ---
 WATCH OUR LATEST COFFEE TALK VIDEO:
 
-{{< youtube id=\b_tCq7Ra7K4\ title=\Why All The Talk about Hydroxychloroquine?\ >}}
+{{< youtube id="b_tCq7Ra7K4" title="Why All The Talk about Hydroxychloroquine?" >}}
 
 Here’s some of the SmartHER News stories covering hydroxychloroquine: [CLICK HERE](https://smarthernews.com/?s=hydroxychloroquine)

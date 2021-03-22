@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\ZY2sgXAl6TM\ title=\Coffee Talk: 3 Quick News Items For The First Week of December\ >}}
+{{< youtube id="ZY2sgXAl6TM" title="Coffee Talk: 3 Quick News Items For The First Week of December" >}}

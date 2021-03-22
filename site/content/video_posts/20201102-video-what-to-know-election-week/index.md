@@ -18,7 +18,7 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\lO6jZvI7Kkk\ title=\What To Know - Election Eve\ >}}
+{{< youtube id="lO6jZvI7Kkk" title="What To Know - Election Eve" >}}
 
 More info:
 

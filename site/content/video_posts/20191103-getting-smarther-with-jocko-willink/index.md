@@ -18,4 +18,4 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=_JOK7AFik7s\ title=\Jenna Chats With Jocko Willink\ >}}
+{{< youtube id=_JOK7AFik7s" title="Jenna Chats With Jocko Willink" >}}

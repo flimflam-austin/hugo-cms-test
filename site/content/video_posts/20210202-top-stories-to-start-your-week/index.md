@@ -18,6 +18,6 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\p1Rv_iTGt1U\ title=\Top Stories To Start Your Week, Coup In Myanmar, Executive Actions By President Biden\ >}}
+{{< youtube id="p1Rv_iTGt1U" title="Top Stories To Start Your Week, Coup In Myanmar, Executive Actions By President Biden" >}}
 
 From January 28: [Here are all the executive orders President Joe Biden has signed so far](https://www.usatoday.com/story/news/politics/2021/01/29/all-executive-orders-president-joe-biden-has-signed/4308740001/)

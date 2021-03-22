@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\QS3cJ5Q4Wg8\ title=\SmartHER News #CoffeeTalk Your Top 3 Stories in 5 and under...\ >}}
+{{< youtube id="QS3cJ5Q4Wg8" title="SmartHER News #CoffeeTalk Your Top 3 Stories in 5 and under..." >}}

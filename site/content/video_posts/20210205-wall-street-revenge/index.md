@@ -18,4 +18,4 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< instapost id=\CK6iKuwlbDG\ >}}
+{{< instapost id="CK6iKuwlbDG" >}}

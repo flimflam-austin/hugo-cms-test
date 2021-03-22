@@ -18,6 +18,6 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\N7TJZsE5Jqw\ title=\The Power Of A Thank You\ >}}
+{{< youtube id="N7TJZsE5Jqw" title="The Power Of A Thank You" >}}
 
 Read More Here: [SmartHER Gratitude](https://smarthernews.com/the-science-of-giving-thanks/)

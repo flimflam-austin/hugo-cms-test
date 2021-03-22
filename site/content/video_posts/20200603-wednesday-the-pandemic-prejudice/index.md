@@ -18,7 +18,7 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\ztV1uvgj35g\ title=\News Themes: The Pandemic vs. Prejudice\ >}}
+{{< youtube id="ztV1uvgj35g" title="News Themes: The Pandemic vs. Prejudice" >}}
 
 Tuesday: [Coffee Talk](https://smarthernews.com/article/3-things-to-know/)
 

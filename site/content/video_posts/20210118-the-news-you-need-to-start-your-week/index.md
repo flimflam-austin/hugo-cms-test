@@ -18,7 +18,7 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\dMIN2440KA4\ title=\Monday Morning Coffee Talk - The News You Need To Start Your Week\ >}}
+{{< youtube id="dMIN2440KA4" title="Monday Morning Coffee Talk - The News You Need To Start Your Week" >}}
 
 More Stories:
 

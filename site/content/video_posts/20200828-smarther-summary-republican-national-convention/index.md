@@ -18,7 +18,7 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\k4g_XudESuQ\ title=\SmartHER Summary of the Republican National Convention\ >}}
+{{< youtube id="k4g_XudESuQ" title="SmartHER Summary of the Republican National Convention" >}}
 
 Transcript and video from [President Trump’s speech](https://www.cnn.com/2020/08/28/politics/donald-trump-speech-transcript/index.html)
 

@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\7MMmm5Eh8HA\ title=\Why The Next 3 Weeks May Determine The Next 4 Years\ >}}
+{{< youtube id="7MMmm5Eh8HA" title="Why The Next 3 Weeks May Determine The Next 4 Years" >}}

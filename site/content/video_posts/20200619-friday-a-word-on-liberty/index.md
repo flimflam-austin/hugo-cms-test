@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\FOT7ILcHoeY\ title=\A Word On Liberty\ >}}
+{{< youtube id="FOT7ILcHoeY" title="A Word On Liberty" >}}

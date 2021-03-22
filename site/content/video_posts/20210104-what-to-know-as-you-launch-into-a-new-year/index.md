@@ -18,4 +18,4 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\8CjZtxoW7FA\ title=\What To Know & Why It Matters: First Full Week of 2021\ >}}
+{{< youtube id="8CjZtxoW7FA" title="What To Know & Why It Matters: First Full Week of 2021" >}}

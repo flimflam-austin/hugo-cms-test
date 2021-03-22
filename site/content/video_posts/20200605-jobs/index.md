@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\KfW_jUW0j08\ title=\Jobs~!\ >}}
+{{< youtube id="KfW_jUW0j08" title="Jobs~!" >}}

@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\gfvdb0WVuM8\ title=\What Happened At The U.S. Capitol: January 6, 2021\ >}}
+{{< youtube id="gfvdb0WVuM8" title="What Happened At The U.S. Capitol: January 6, 2021" >}}

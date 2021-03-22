@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\Pa_jTzSNotM\ title=\Monday August 3: Small Bites - Big Stories\ >}}
+{{< youtube id="Pa_jTzSNotM" title="Monday August 3: Small Bites - Big Stories" >}}

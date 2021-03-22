@@ -96,7 +96,7 @@ cards:
 
 **WATCH: new emojis unveiling:**
 
-{{< youtube id=\4HJhBUIVul8\ title=\ >}}
+{{< youtube id="4HJhBUIVul8" title=" >}}
 
 * 
 

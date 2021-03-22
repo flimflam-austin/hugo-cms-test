@@ -20,4 +20,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\Gdxdv7Buq3M\ title=\History Making Week! Get Ready...\ >}}
+{{< youtube id="Gdxdv7Buq3M" title="History Making Week! Get Ready..." >}}

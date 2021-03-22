@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\N0LTHALoyHo\ title=\Quick Bites. High Quality. Your Wednesday Coffee Talk.\ >}}
+{{< youtube id="N0LTHALoyHo" title="Quick Bites. High Quality. Your Wednesday Coffee Talk." >}}

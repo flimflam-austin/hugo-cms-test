@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\olEsZLR9Pao\ title=\Curiosity Over Commentary\ >}}
+{{< youtube id="olEsZLR9Pao" title="Curiosity Over Commentary" >}}

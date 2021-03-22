@@ -1,3 +1,7 @@
 const asyncGetRequest = require("./getAndProcess");
 
-asyncGetRequest().then(console.log);
+const asyncRebuild = async () => {
+  const result = await asyncGetRequest().then(console.log);
+  return result;
+};
+module.exports = asyncRebuild;

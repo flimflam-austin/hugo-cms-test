@@ -18,7 +18,7 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\k1Ye9Lvq4Mw\ title=\NEW Weeks: BIG Stories\ >}}
+{{< youtube id="k1Ye9Lvq4Mw" title="NEW Weeks: BIG Stories" >}}
 
 Operation Not Forgotten: [READ MORE](https://smarthernews.com/operation-not-forgotten/)
 

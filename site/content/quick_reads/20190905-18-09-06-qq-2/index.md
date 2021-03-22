@@ -112,7 +112,7 @@ cards:
 [https://www.nytimes.com/2018/09/05/nyregion/emirates-jfk-flight.html](https://www.nytimes.com/2018/09/05/nyregion/emirates-jfk-flight.html?rref=collection%2Fsectioncollection%2Fhealth&action=click&contentCollection=health&region=stream&module=stream_unit&version=latest&contentPlacement=8&pgtype=sectionfront)
 * **Associated Press: Video:**
 
-{{< youtube id=\ba1ihuT9uOU\ title=\ >}}
+{{< youtube id="ba1ihuT9uOU" title=" >}}
 
 * **Iran summit holds key to looming battle in Syria”s Idlib:**  
 [https://apnews.com/ac0d69f6957d464a8032b6cd63a76dcc](https://apnews.com/ac0d69f6957d464a8032b6cd63a76dcc)

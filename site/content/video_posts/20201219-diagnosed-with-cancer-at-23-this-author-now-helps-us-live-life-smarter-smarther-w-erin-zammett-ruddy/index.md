@@ -20,6 +20,6 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\xo8S8Wr6jBQ\ title=\SmartHER With Erin Zammett Ruddy, author of The Little Book of Life Skills\ >}}
+{{< youtube id="xo8S8Wr6jBQ" title="SmartHER With Erin Zammett Ruddy, author of The Little Book of Life Skills" >}}
 
 Check out Erin’s book and our other favorite reads [on our Amazon shop!](https://www.amazon.com/shop/smarthernews?listId=299RDIAANK4DN)

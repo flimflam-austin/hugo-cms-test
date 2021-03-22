@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\7WiZYtffbW4\ title=\Road Trip! Around the world in 7 minutes.\ >}}
+{{< youtube id="7WiZYtffbW4" title="Road Trip! Around the world in 7 minutes." >}}

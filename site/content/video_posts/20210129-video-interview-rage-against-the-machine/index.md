@@ -16,8 +16,8 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< instapost id=\CKoq59pFmZE\ >}}
+{{< instapost id="CKoq59pFmZE" >}}
 
 Also view on YouTube:
 
-{{< youtube id=\dbWlJHRIDNM\ title=\SHN-Interview with Guy Adami\ >}}
+{{< youtube id="dbWlJHRIDNM" title="SHN-Interview with Guy Adami" >}}

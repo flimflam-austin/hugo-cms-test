@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\UsbHUSkG1mo\ title=\*NEW* JOBS REPORT\ >}}
+{{< youtube id="UsbHUSkG1mo" title="*NEW* JOBS REPORT" >}}

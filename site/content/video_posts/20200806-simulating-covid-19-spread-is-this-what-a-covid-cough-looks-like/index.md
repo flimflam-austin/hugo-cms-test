@@ -18,6 +18,6 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\JCg7JqVImA4\ title=\Simulating COVID-19 Spread: Is This What A COVID Cough Looks Like?\ >}}
+{{< youtube id="JCg7JqVImA4" title="Simulating COVID-19 Spread: Is This What A COVID Cough Looks Like?" >}}
 
 Here’s the [VIDEO](https://www.fau.edu/newsdesk/articles/efficacy-facemasks-coronavirus.php) in full from the [recent published study](https://aip.scitation.org/doi/10.1063/5.0016018) by [Florida Atlantic University’s College of Engineering and Computer Science](https://www.fau.edu/newsdesk/articles/efficacy-facemasks-coronavirus.php)

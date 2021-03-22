@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\giWQLHTP7Ac\ title=\*NEW INFORMATION*: Missing Children & COVID-19\ >}}
+{{< youtube id="giWQLHTP7Ac" title="*NEW INFORMATION*: Missing Children & COVID-19" >}}

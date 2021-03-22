@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\EApZjgZStGQ\ title=\What We DON’T Know about Fmr. Pres. Trump’s second impeachment trial\ >}}
+{{< youtube id="EApZjgZStGQ" title="What We DON’T Know about Fmr. Pres. Trump’s second impeachment trial" >}}

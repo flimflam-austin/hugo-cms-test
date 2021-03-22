@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\e1nBw1Viv2Y\ title=\3 Top Stories To Have On Your Radar - PLUS what does 525,600 mean to you?\ >}}
+{{< youtube id="e1nBw1Viv2Y" title="3 Top Stories To Have On Your Radar - PLUS what does 525,600 mean to you?" >}}

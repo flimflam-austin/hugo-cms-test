@@ -18,6 +18,6 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\Ejmn53aBzBs\ title=\History-Making - Start your week SmartHer\ >}}
+{{< youtube id="Ejmn53aBzBs" title="History-Making - Start your week SmartHer" >}}
 
 Here’s the study we referenced from the CDC: [CLICK HERE](https://www.cdc.gov/mmwr/volumes/69/wr/mm6915e1.htm)

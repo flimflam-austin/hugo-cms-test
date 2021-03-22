@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\kCuzJKqr-EQ\ title=\Facts & Humility - Wednesday Wrap-Up!\ >}}
+{{< youtube id="kCuzJKqr-EQ" title="Facts & Humility - Wednesday Wrap-Up!" >}}

@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\E7aXBKAAMe0\ title=\Did you know this about America?\ >}}
+{{< youtube id="E7aXBKAAMe0" title="Did you know this about America?" >}}

@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\j3lAAinFChQ\ title=\Small Bites - Big News\ >}}
+{{< youtube id="j3lAAinFChQ" title="Small Bites - Big News" >}}

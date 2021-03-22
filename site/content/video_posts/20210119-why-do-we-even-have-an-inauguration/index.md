@@ -18,6 +18,6 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\Yn1N3LqIrNw\ title=\Why Do We Even Have An Inauguration?\ >}}
+{{< youtube id="Yn1N3LqIrNw" title="Why Do We Even Have An Inauguration?" >}}
 
 More on the [Inauguration History from SmartHER News](https://smarthernews.com/inauguration-history/)

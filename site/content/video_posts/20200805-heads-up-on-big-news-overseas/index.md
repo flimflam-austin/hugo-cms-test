@@ -18,4 +18,4 @@ featured_image:
 video_series: Coffee Talk
 
 ---
-{{< youtube id=\puYVZvnpilA\ title=\Heads-Up On Big News Overseas\ >}}
+{{< youtube id="puYVZvnpilA" title="Heads-Up On Big News Overseas" >}}

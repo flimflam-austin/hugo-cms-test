@@ -18,7 +18,7 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\r6hwGZObvqs\ title=\Promising News on COVID-19?\ >}}
+{{< youtube id="r6hwGZObvqs" title="Promising News on COVID-19?" >}}
 
 Here’s info on of the new studies on blood type: [CLICK HERE](https://www.tmc.edu/news/2020/06/blood-type-may-affect-covid-19-outcomes-study-shows/)
 

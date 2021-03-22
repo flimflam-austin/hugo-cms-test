@@ -20,7 +20,7 @@ featured_image:
 video_series: Spotlight
 
 ---
-{{< youtube id=\fW3C0QEq7B8\ title=\Before she trained Carrie Underwood, she went to war as a Marine: SmartHER With Erin Oprea\ >}}
+{{< youtube id="fW3C0QEq7B8" title="Before she trained Carrie Underwood, she went to war as a Marine: SmartHER With Erin Oprea" >}}
 
 Here’s how you can listen to this interview as a podcast – [CLICK HERE](https://smarthernews.libsyn.com/website/before-she-trained-carrie-underwood-she-went-to-war-as-a-marine-smarther-with-erin-oprea-0)
 
