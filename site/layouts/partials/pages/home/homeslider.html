@@ -7,7 +7,7 @@
     {{ range first 3 (where $sortedvideoposts ".Params.featured_image.url" "!=" nil ) }}
     <section class="carousel-cell {{ if (eq .Params.is_breaking true)}} carousel-cell--breaking {{ end }}">
         {{ if (eq .Params.is_breaking true)}}
-        <a class="carousel__link carousel__link--breaking" href="{{- .Permalink -}}">
+        <a class="carousel__link carousel__link--breaking" href="{{- .Permalink -}}" aria-label="Go to article">
             <div class="carousel__titlebox">
                 <span class="carousel__breaking-tag">Breaking</span>
                 <h1 class="carousel__title">{{ .Title }}</h1>
@@ -15,14 +15,14 @@
             </div>
         </a>
         {{ else if (eq .Params.is_featured true) }}
-        <a class="carousel__link carousel__link--featured" href="{{- .Permalink -}}">
+        <a class="carousel__link carousel__link--featured" href="{{- .Permalink -}}" aria-label="Go to article">
             <div class="carousel__titlebox">
                 <h1 class="carousel__title">{{ .Title }}</h1>
                 <p class="carousel__description">{{- .Params.summary -}}</p>
             </div>
         </a>
         {{ else }}
-        <a class="carousel__link carousel__link--featured" href="{{- .Permalink -}}">
+        <a class="carousel__link carousel__link--featured" href="{{- .Permalink -}}" aria-label="Go to article">
             <div class="carousel__titlebox">
                 <h1 class="carousel__title">{{ .Title }}</h1>
                 <p class="carousel__description">{{- .Params.summary -}}</p>
@@ -31,10 +31,10 @@
         {{end}}
 
         {{ $imagePath := .Resources.GetMatch (print .Params.featured_image.url) }}
-        {{ $imageFull := $imagePath.Resize "1500x" }}
-        {{ $imagePlaceholder := ($imagePath.Resize "80x jpg q90").Filter (images.GaussianBlur 6) }}
+        {{ $imageFull := $imagePath.Resize "1500x jpg" }}
+        {{ $imagePlaceholder := ($imagePath.Resize "80x jpg").Filter (images.GaussianBlur 6) }}
 
-        <img class="carousel__image" src="{{- $imagePlaceholder.RelPermalink -}}" data-flickity-lazyload="{{- $imageFull.RelPermalink -}}" />
+        <img class="carousel__image" src="{{- $imagePlaceholder.RelPermalink -}}" data-flickity-lazyload="{{- $imageFull.RelPermalink -}}" alt="{{- .Params.featured_image.alt -}}" />
     </section>
     {{ end }}
 </div>

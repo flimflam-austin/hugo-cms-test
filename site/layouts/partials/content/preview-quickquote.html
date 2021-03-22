@@ -1,4 +1,4 @@
-<a class="qqprev qqprev {{ if (eq .Params.is_breaking true)}} qqprev--breaking {{end}}" href="{{- .Permalink -}}">
+<a class="qqprev qqprev {{ if (eq .Params.is_breaking true)}} qqprev--breaking {{end}}" href="{{- .Permalink -}}" aria-label="Go to article">
     <article class="qqprev__wrapper">
         {{ if (eq .Params.is_breaking true)}} <div class="qqprev__breakingmarker">breaking</div> {{end}}
         <h2 class="qqprev__quote">&ldquo;{{ .Params.featured_quote.quote | truncate 120 }}&rdquo;</h2>

@@ -1,4 +1,4 @@
-<a class="homevidprev" href="{{- .Permalink -}}">
+<a class="homevidprev" href="{{- .Permalink -}}" aria-label="Go to article">
     <article class="homevidprev__wrapper">
         <div class="aspectimg">
             {{ $image := .Resources.GetMatch (print .Params.featured_image.url )}}
