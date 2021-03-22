@@ -4,7 +4,7 @@
 
 	{{ $stylesheet := .Site.Data.webpack.main }}
 	{{ with $stylesheet.css }}
-	<link href="{{ relURL . }}" rel="stylesheet">
+	<link src="{{ relURL . }}" rel="stylesheet">
 	{{ end }}
 
 	<meta charset="utf-8">
@@ -26,8 +26,4 @@
 	<meta property="og:title" content="SmartHER News">
 	<meta property="og:url" content="/">
 	<meta property="og:image" content="/img/og-image.jpg">
-
-	{{ if .IsHome }}
-	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-	{{ end }}
 </head>

@@ -4,11 +4,22 @@
             <header class="post-header">
 
                 {{ if .Params.featured_image.url }}
-                {{ $image := .Resources.GetMatch ( print .Params.featured_image.url ) }}
-                <figure class="post-header__block aspectimg">
-                    <img class="aspectimg__image" src="{{ $image.RelPermalink }}" alt="{{ .Params.featured_image.alt }}" />
-                </figure>
-                <div class="post-header__block post-header__block--text">
+                    {{- $image := .Resources.GetMatch ( print .Params.featured_image.url ) -}}
+                    {{- $image300 := $image.Resize "300x" -}}
+                    {{- $image800 := $image.Resize "800x" -}}
+                    {{- $image1400 := $image.Resize "1400x" -}}
+                    {{- $image2000 := $image.Resize "2000x" -}}
+
+                    <figure class="post-header__block aspectimg">
+                        <img
+                            class="aspectimg__image"
+                            sizes="(min-width: 1270px) 50vw, 100vw"
+                            srcset="{{- $image300.RelPermalink -}} 300w, {{- $image800.RelPermalink -}} 800w, {{- $image1400.RelPermalink -}} 1400w,{{- $image2000.RelPermalink -}} 2000w,"
+                            alt="{{ .Params.featured_image.alt }}"
+                        />
+                    </figure>
+
+                    <div class="post-header__block post-header__block--text">
                 {{ else }}
                 <div class="post-header__block post-header__block--no-image post-header__block--text ">
                 {{ end }}
