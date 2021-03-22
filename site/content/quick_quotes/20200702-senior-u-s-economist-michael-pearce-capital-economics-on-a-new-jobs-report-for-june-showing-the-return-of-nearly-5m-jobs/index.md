@@ -4,28 +4,24 @@ title: >-
   Report for June Showing the Return of Nearly 5m Jobs.
 slug: >-
   20200702-senior-u-s-economist-michael-pearce-capital-economics-on-a-new-jobs-report-for-june-showing-the-return-of-nearly-5m-jobs
-_id: legacy-f8bb2180-6ebb-4240-8382-76863796a7ee
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-d4ceb00c-8192-4bf4-865b-9af7a6e92c51
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/senior-u-s-economist-michael-pearce-capital-economics-on-a-new-jobs-report-for-june-showing-the-return-of-nearly-5m-jobs/
 _createdAt: '2020-07-02T21:07:47Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2020-07-02T21:07:47+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
 is_breaking: false
-summary: >-
-  Senior U.S. economist, Michael Pearce, Capital Economics on a new U.S. jobs
-  report for June showing the return of nearly 5M jobs.
 featured_quote:
   quote: >-
     ...with the spread of the virus accelerating again, we expect the recovery
     from here will be a lot bumpier and job gains far slower on average.
-  citation: >-
-    Senior U.S. economist, Michael Pearce, Capital Economics on a new U.S. jobs
-    report for June showing the return of nearly 5M jobs.
 
 ---
 * The June jobs report: 11.1% unemployment – 4.8M jobs added.
@@ -35,4 +31,4 @@ featured_quote:
 
 **Here’s a good read on the jobs report:** [CLICK HERE](https://www.cnbc.com/2020/07/02/jobs-report-june-2020.html)
 
-**Here’s the report from the Bureau of Labor Statistics:** [CLICK HERE](https://www.bls.gov/news.release/empsit.nr0.htm)tps://www.bls.gov/news.release/empsit.nr0.htm)
+**Here’s the report from the Bureau of Labor Statistics:** [CLICK HERE](https://www.bls.gov/news.release/empsit.nr0.htm)

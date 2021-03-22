@@ -1,14 +1,14 @@
 ---
 title: 18.07.24 Iron Man Suit
 slug: 20180724-18-07-24-iron-man-suit
-_id: legacy-7b9d2e0d-0920-458b-b223-4b13e28b5002
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-bc71d91a-f48d-457e-9c61-417f53539d8c
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-24-iron-man-suit/
 _createdAt: '2018-07-24T11:43:11Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-24T11:43:11+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/bxR_GyPxOgE?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-3930fd3a-1d42-43ad-bc06-86f86a234cfd
+    _key: card-1-e15420ee-5881-41f0-950c-2c2f9fd459a2
   - order: 1
     body: |-
       # Gravity Schmavity
@@ -45,7 +45,7 @@ cards:
 
       OK, how much?
     citation: OK, how much?
-    _key: card-2-b000c2b8-36d4-4797-a5ea-73813d106d68
+    _key: card-2-bf70b318-9cc4-4546-8a96-62617a517856
   - order: 2
     body: >-
       # Ready for Liftoff?
@@ -56,7 +56,7 @@ cards:
 
       * Gravity, the suit’s maker, has requests fromA _Mission Impossible_ &A
       James Bond filmmakers.
-    _key: card-3-942acc07-bbb5-46e7-9ef0-e7c0dd7564d5
+    _key: card-3-ff73234f-42b9-4563-b160-080c14eeab6e
   - order: 3
     body: >-
       The US Army is also testing & prototyping Iron Man-like suits in order to
@@ -65,7 +65,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-24-iron-man-suit/)
-    _key: card-10-eaaf2255-c598-4118-8e23-3f60e3ad77b1
+    _key: card-10-7aea81ee-0303-4ab4-ad60-d8bec8e26156
 
 ---
 * **Selfridges is stocking an Iron Man jet suit for AL340,000:**  

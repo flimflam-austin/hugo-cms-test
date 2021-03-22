@@ -1,14 +1,14 @@
 ---
 title: Interview with Renae Chapman
 slug: 20190911-interview-with-renae-chapman
-_id: legacy-28620c99-4a5f-48d2-a1c1-332c0d710db7
-_rev: CRhmwZOx7vxYXrRSdQr7Zu
+_id: legacy-c310480e-973c-4bb3-9afe-2d69aeca3699
+_rev: O8E8pz1fLwnc3fN7JVF8BC
 type: video_posts
 draft: false
 aliases:
   - article/interview-with-renae-chapman/
 _createdAt: '2019-08-29T19:36:45Z'
-_updatedAt: '2021-03-16T13:06:00Z'
+_updatedAt: '2021-03-22T13:11:59Z'
 date: '2019-08-29T19:36:45+00:00'
 weight: 50
 video_series: Spotlight

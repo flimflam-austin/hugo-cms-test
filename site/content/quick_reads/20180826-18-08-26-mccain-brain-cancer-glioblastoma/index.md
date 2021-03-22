@@ -1,14 +1,14 @@
 ---
 title: 'What You Should Know: Glioblastoma'
 slug: 20180826-18-08-26-mccain-brain-cancer-glioblastoma
-_id: legacy-3d4c6408-4f15-49c4-a10d-c6e9737ca352
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-779c443a-f23a-4385-838a-1d9220dea63c
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-26-mccain-brain-cancer-glioblastoma/
 _createdAt: '2018-08-26T18:26:13Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-26T18:26:13+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       What is it?
     citation: What is it?
-    _key: card-1-62086445-6124-4654-8bf7-e25d7487236c
+    _key: card-1-c2e74a5e-35e2-4dea-b6e8-435aa4d95c60
   - order: 1
     body: >-
       ## Glioblastoma (GBM) 101
@@ -46,7 +46,7 @@ cards:
 
       * Patients typically undergo **surgery** to remove as much of the tumor as
       possible, followed by **radiation** and/or **chemotherapy**
-    _key: card-2-6c678d6e-3142-444c-8e10-7a6add1e6a50
+    _key: card-2-0b6d65f4-e273-487d-9735-4163026fee8a
   - order: 2
     body: >-
       ## Sen. McCain is NOT the first public figure to suffer from glioblastoma
@@ -59,7 +59,7 @@ cards:
 
       * **More than 12,000 cases diagnosed last year in the U.S**. – only 10% of
       patients survive longer than 5 years.
-    _key: card-3-425d2a71-712e-4c2e-92d2-e09d44ee1725
+    _key: card-3-4804482f-2749-44f2-9a66-93946443248d
   - order: 3
     body: >-
       > “He was good company, excellent company. I think I’m going to miss him
@@ -71,7 +71,7 @@ cards:
         
         
       Sen. McCain at Sen. Kennedy's Memorial Service, August 2009
-    _key: card-4-dcc4c2df-1040-4af2-bc73-04bc60a0e8ec
+    _key: card-4-b8d3fc37-3b83-4403-a311-d5d7003abf29
   - order: 4
     body: >-
       U.S. senators Ted Kennedy and John McCain died on August 25 (Kennedy in
@@ -80,7 +80,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-08-26-mccain-brain-cancer-glioblastoma/)
-    _key: card-10-91bf5f79-3122-46ff-884c-4901bd05ccb1
+    _key: card-10-0279bdf5-6a57-4fca-b10b-742308182370
 
 ---
 * **Glioblastoma (GBM):**  

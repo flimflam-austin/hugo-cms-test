@@ -1,18 +1,17 @@
 ---
 title: Valley of the Frozen Obi
 slug: 20190905-valley-of-the-frozen-obi
-_id: legacy-5d4b88ec-704f-430b-8498-172220dbb980
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-723b562c-7efc-4350-96ce-7d944f0002da
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/valley-of-the-frozen-obi/
 _createdAt: '2019-01-05T19:45:10Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-01-05T19:45:10+00:00'
 weight: 50
 is_breaking: false
-summary: Valley of the Frozen Obi
 featured_quote:
   quote: >-
     Conceptions formed from the river-basins of Western Europe are rudely
@@ -20,7 +19,6 @@ featured_quote:
     are those formed from the sterile basins of the great rivers of Siberia, the
     lofty plateaus of Central Asia, or the mighty sweep of the swampy Amazon
     more adequate.
-  citation: Valley of the Frozen Obi
 
 ---
 * Having about eight-ninths of its area

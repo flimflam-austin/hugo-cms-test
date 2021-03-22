@@ -1,14 +1,14 @@
 ---
 title: 18.08.01 Food Recalls
 slug: 20180801-18-08-01-food-recalls
-_id: legacy-de5dc6c0-893e-4b31-975e-4f7f47214c78
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-26fe63fe-edf8-48c4-bdf6-820412af2c25
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-08-01-food-recalls/
 _createdAt: '2018-08-01T11:50:09Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-08-01T11:50:09+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Not necessarily.
     citation: Not necessarily.
-    _key: card-1-5193c72c-9af4-463b-8712-b4cf5fef29e5
+    _key: card-1-2e4e1ddd-c6d1-4450-b2b3-ce34e36ffe5f
   - order: 1
     body: >-
       ## Why It Matters
@@ -52,7 +52,7 @@ cards:
 
       * **1 in 6** develop a foodborne illness (i.e. E.Coli, salmonella,
       listeria) each year, killing 3K (CDC).
-    _key: card-2-081683fe-9a48-4f4b-91f7-32e630cca37f
+    _key: card-2-b58aae33-f208-4960-9b8e-6a4cd1044fed
   - order: 2
     body: >-
       ## Things to Know:
@@ -66,7 +66,7 @@ cards:
       * **Annual USDA recalls rose 83% from 2012-2017**,A **FDA recalls are up
       93%A** in same period, according to industry consultant, Stericycle. FDA
       disputes this data.
-    _key: card-3-18a57cb7-3b31-498c-953f-f651d66b0a72
+    _key: card-3-7573c8d7-2364-41d5-a164-978521c1c066
   - order: 3
     body: >-
       ## Why All the Recalls?
@@ -78,7 +78,7 @@ cards:
 
       **Industry consolidation** has different products using the same supply
       chain, so an issue with one supplier can affect multiple products.
-    _key: card-4-054dedb3-cc9c-4338-bc32-15655dbe3cca
+    _key: card-4-248f397a-f729-4453-996f-f2bfc8fdd099
   - order: 4
     body: >-
       # Important to Note
@@ -91,7 +91,7 @@ cards:
 
       Congress required food labels to include allergens in 2006, so if an item
       comes in contact with something not listed on packaging, it is recalled.
-    _key: card-5-92871e59-953e-4d8a-8dbf-a550f6815d41
+    _key: card-5-47575651-4afa-4116-9fe5-b5daed3d511f
   - order: 5
     body: >-
       You might be surprised to learn how long it takes from the time of
@@ -101,7 +101,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-01-food-recalls/)
-    _key: card-10-94d974f6-bc14-40a4-b7f3-be27b3c41a4f
+    _key: card-10-7d244709-c529-4e39-8784-38e4fcea420a
 
 ---
 * **Victims blame FDA for food-recall failures:**  

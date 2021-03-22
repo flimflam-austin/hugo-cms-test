@@ -1,14 +1,14 @@
 ---
 title: 18.05.08 Quick Quotes May 8
 slug: 20180508-18-05-08-quick-quotes-may-8
-_id: legacy-e07d0b7e-788a-4634-bee9-c7b87fa7c93d
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-303ff78a-2a31-46f9-9a42-0e26866d5028
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-08-quick-quotes-may-8/
 _createdAt: '2018-05-08T10:25:45Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-08T10:25:45+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
       former coal executive, spent a year in federal prison - convicted of
       conspiring to violate mine safety in connection with a 2010 explosion that
       killed 29 miners.
-    _key: card-1-9b419d66-07ea-4b8a-bcc4-3f24b56fef03
+    _key: card-1-9475d4cb-cf30-4ac4-98d1-bdf6d11bdc76
   - order: 1
     body: >-
       > **“Let us teach our children the difference between right and wrong, and
@@ -47,7 +47,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/F2awD02xit8?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-655d7a3e-a1a5-4726-9488-2a804f8e9b6e
+    _key: card-2-09e7275b-1182-4bd1-9bfd-952960385035
   - order: 2
     body: >-
       > **“We think that what you can do is be tougher on Iran, address the
@@ -60,7 +60,7 @@ cards:
       Trump not to back out of the 2015 Iran nuclear deal, one day ahead of the
       President's announcement on whether the U.S. will withdraw from the
       agreement.
-    _key: card-3-ddd1ca1c-6ed9-4a59-bf90-2d39179714ed
+    _key: card-3-b9dfbcc4-6c79-4c94-abd9-81fea30bd987
   - order: 3
     body: >-
       > **“Russia should be modern and dynamic, it should be ready to accept the
@@ -72,10 +72,10 @@ cards:
       presidential term. Putin, a 65-year-old former KGB agent, has led Russia
       for 18 years, and is the LONGEST-SERVING Russian leader since Joseph
       Stalin.
-    _key: card-4-b5f987af-2424-452d-81b4-a75f042e7f17
+    _key: card-4-6377f8a2-8ca1-4801-966d-7910387342ab
   - order: 4
     body: '[view sources](https://smarthernews.com/18-05-08-quick-quotes-may-8/)'
-    _key: card-10-9e17f7e5-2152-466d-80c5-a084e750b88d
+    _key: card-10-5f9ac53b-6347-4928-85d0-98354cbcb02f
 
 ---
 * **Don Blankenship’s Response to President Trump’s Tweet:**A [https://www.votedonblankenship.com/single-post/2018/05/07/Don-Blankenships-Response-to-President-Trumps-Tweet](https://www.votedonblankenship.com/single-post/2018/05/07/Don-Blankenships-Response-to-President-Trumps-Tweet)

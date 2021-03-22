@@ -1,14 +1,14 @@
 ---
 title: 18.04.06 Mcgregor
 slug: 20180406-18-04-06-mcgregor
-_id: legacy-1a02b8d3-bc1b-45e5-bc1b-0870211e04c4
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-d6df3a5c-4b33-4603-a092-722bef0fd70e
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-06-mcgregor/
 _createdAt: '2018-04-06T13:00:54Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-06T13:00:54+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
       [Watch Attack
       Here:](https://twitter.com/SkyNews/status/982218188548063238/video/1)
     citation: 'Watch Attack Here:'
-    _key: card-1-54e1aea2-2d43-4f0a-8da6-493df39de79f
+    _key: card-1-1e210730-fcfa-4d75-a75d-92a3752b14dd
   - order: 1
     body: >-
       ## UFC President Dana White called it “the most disgusting thing that has
@@ -51,7 +51,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/sfj3aX_ed7U?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-24a30561-69cc-44e1-ae20-0a59bd0ebb75
+    _key: card-2-b5763dba-95f6-414a-9659-b7988a8a9b1d
   - order: 2
     body: >-
       Will Face Charges…  
@@ -66,7 +66,7 @@ cards:
         
         
       McGregor to the Los Angeles Times, August 2017
-    _key: card-3-7efd1f6f-6a2f-4514-b14c-2ad85ed119f2
+    _key: card-3-4a016b4c-1db6-420b-8372-49591204a7db
   - order: 3
     body: >-
       Although McGregor (21-3) hasn't fought in the UFC since he won the
@@ -75,7 +75,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-06-mcgregor/)
-    _key: card-10-19f1161a-db3b-4c66-91ac-01acf379866b
+    _key: card-10-44163e42-3c61-4c4a-92d7-7292d61c2cb4
 
 ---
 * Conor McGregor, Stripped Of UFC Lightweight Title, Is None Too Pleased: [https://www.forbes.com/sites/trentreinsmith/2018/04/05/conor-mcgregor-reacts-to-being-stripped-of-ufc-lightweight-title-and-hes-none-too-pleased/#28b986fa61dc](https://www.forbes.com/sites/trentreinsmith/2018/04/05/conor-mcgregor-reacts-to-being-stripped-of-ufc-lightweight-title-and-hes-none-too-pleased/#28b986fa61dc)

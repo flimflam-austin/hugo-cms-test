@@ -4,27 +4,23 @@ title: >-
   Tropical Medicine. He Co-Discovered One of the World's Infectious Diseases,
   Ebola and This Year, Became Ill with Covid-19.
 slug: 20200908-virus-hunter-wsj
-_id: legacy-bb9690f2-d99d-40c4-adeb-efc361f4597c
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-1717fd0b-7a83-45eb-ace5-f995acf5b7ff
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - article/virus-hunter-wsj/
 _createdAt: '2020-09-08T11:28:46Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-09-08T11:28:46+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    81ace01cbb1530029ae3528209217b08978cd60d-1024x576.jpg
 is_breaking: false
-summary: >-
-  “Virus hunter” Dr. Peter Piot, the head of the London School of Hygiene &
-  Tropical Medicine. He co-discovered one of the world’s infectious diseases,
-  Ebola and this year, became ill with COVID-19.
 featured_quote:
   quote: It behaves unlike any other virus.
-  citation: >-
-    “Virus hunter” Dr. Peter Piot, the head of the London School of Hygiene &
-    Tropical Medicine. He co-discovered one of the world’s infectious diseases,
-    Ebola and this year, became ill with COVID-19.
 
 ---
 * Piot continues to recover after 5 months of battling the disease brought on by SARS-COV-2. He says of the new coronavirus, ““We underestimated it.”
@@ -42,4 +38,4 @@ _“It behaves unlike any other virus. It spreads through our respiratory system
 * _**“The immune system in people is as diverse as beauty, height, intelligence and any other human feature,”** said molecular immunologist Michel Nussenzweig at Rockefeller University in New York. **“Not everybody is the same in their ability to fight infection.”**_
 * _“The virus changes on a fairly clockwork basis,” said computational biologist Michael Zody at the genome center. “Every two weeks or so, it seems that the virus picks up a new mutation._” **_That adds up to about 25 random changes a year, much less than the seasonal flu, which has a mutation rate of almost 50 mutations a year. Most of the changes in the coronavirus don’t make any difference now._** **_In time, it is possible that some might make it easier to transmit from person to person or become deadlier._**
 
-‘Really Diabolical’: Inside the Coronavirus That Outsmarted Science: [READ IT HERE](https://www.wsj.com/articles/really-diabolical-inside-the-coronavirus-that-outsmarted-science-11599498840)T HERE](https://www.wsj.com/articles/really-diabolical-inside-the-coronavirus-that-outsmarted-science-11599498840)
+‘Really Diabolical’: Inside the Coronavirus That Outsmarted Science: [READ IT HERE](https://www.wsj.com/articles/really-diabolical-inside-the-coronavirus-that-outsmarted-science-11599498840)

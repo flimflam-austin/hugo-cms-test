@@ -1,14 +1,14 @@
 ---
 title: To Vape or Not to Vape? Are E-Cigarettes Safe?
 slug: 20180830-18-08-30-cigarettes-vaping
-_id: legacy-94cc434b-ddee-4709-a8d3-229e3f5a17e4
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-2209729f-37a0-47a9-8fc8-139ae95f75f7
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-30-cigarettes-vaping/
 _createdAt: '2018-08-30T11:11:52Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-30T11:11:52+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       What's "Safe"?
     citation: What's "Safe"?
-    _key: card-1-d2108d3c-8d3b-467d-a65f-0a97a1d2d691
+    _key: card-1-94967a9f-2302-44ff-9886-419dfb208f5e
   - order: 1
     body: >-
       > According to new U.S. study of self-reported e-cigarette smokers 18+:  
@@ -51,7 +51,7 @@ cards:
       * 15% never smoked cigarettes
 
       * More than 50% are below 35
-    _key: card-2-985a8f34-4fb5-4fce-9796-9c74261b9be3
+    _key: card-2-ca008fe0-c5ac-4d10-ac83-efd825f83f7c
   - order: 2
     body: >-
       BOTTOM LINE:
@@ -65,7 +65,7 @@ cards:
 
       E-cigarettes are considered a “tobacco product” because they contain
       nicotine, which is highly addictive, and derived from tobacco.
-    _key: card-3-634928b5-8c00-4951-a389-63bf4b362d6a
+    _key: card-3-489a90a6-644c-4236-a01b-1f32d9b0d8fd
   - order: 3
     body: >-
       > “E-cigarette aerosol generally contains fewer toxic chemicals than theA
@@ -77,7 +77,7 @@ cards:
         
         
       CDC
-    _key: card-4-5e530355-d7e0-4e8b-a7cd-6f7a77d9aca2
+    _key: card-4-88a9dbbf-67e9-4495-ab4c-6d965895d79f
   - order: 4
     body: >-
       E-cigarettes are the most commonly used tobacco product among U.S.
@@ -87,7 +87,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-30-cigarettes-vaping/)
-    _key: card-10-2b4c5001-bd92-4014-8c9e-58d6ba408dc0
+    _key: card-10-9c10693d-003f-438d-bf3f-bd6ca1a3c8ea
 
 ---
 * **Smoking is down, but almost 38 million American adults still smoke:** [https://www.cdc.gov/media/releases/2018/p0118-smoking-rates-declining.html](https://www.cdc.gov/media/releases/2018/p0118-smoking-rates-declining.html)

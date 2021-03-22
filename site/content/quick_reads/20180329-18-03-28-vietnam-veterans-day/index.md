@@ -1,14 +1,14 @@
 ---
 title: 18.03.28 Vietnam Veterans Day
 slug: 20180329-18-03-28-vietnam-veterans-day
-_id: legacy-79ffe6ff-b1f1-4d15-a905-83658a9eed7a
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-b48c6c01-8cbc-42e6-b9d3-a685388229c7
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-03-28-vietnam-veterans-day/
 _createdAt: '2018-03-29T11:05:18Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-29T11:05:18+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       Flip For Context
     citation: Flip For Context
-    _key: card-1-4efe0ad7-ffdd-4e30-920c-2cb410d54329
+    _key: card-1-67dcfa25-e1e2-4cee-acf8-85e8a28e5eb9
   - order: 1
     body: >-
       > ‘We are not about to send American boys nine or ten thousand miles away
@@ -44,7 +44,7 @@ cards:
       President Lyndon Johnson, in aA speech at Akron University, October 21,
       1964, 2 weeks before presidential election & 6 months before he sent
       American troops into combat.
-    _key: card-2-27796c3d-d9f0-4eed-9d8c-810eaada2d96
+    _key: card-2-57985cdb-2ac7-470d-ab4e-f35d23f23a2a
   - order: 2
     body: |-
       ## Vietnam: By The Numbers
@@ -58,7 +58,7 @@ cards:
       **300,000+** injured
 
       *****Despite draft, 70% of those who served volunteered*****
-    _key: card-3-bd2f4ed4-defb-4cb7-ac06-e200702a4c59
+    _key: card-3-0153d039-b913-431f-a0f7-f25a207beac3
   - order: 3
     body: >-
       ## Veterans Affairs Shake-Up
@@ -73,7 +73,7 @@ cards:
 
       Flip For Replacement
     citation: Flip For Replacement
-    _key: card-4-539afeeb-7da4-4724-8131-f16f5246b70b
+    _key: card-4-3671414f-de36-4821-8482-c777696b01fa
   - order: 4
     body: >-
       White House physician, Navy Rear Adm. Ronny L. Jackson, is expected
@@ -82,7 +82,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-28-vietnam-veterans-day/)
-    _key: card-10-7511dc35-62fd-4a59-a1f8-07a32a44c569
+    _key: card-10-66e72a0d-9cb9-4c43-aa09-115d66a63292
 
 ---
 * **Author’s Note:** You might read this is the 1-year anniversary ofA National Vietnam War Veterans Day – that’s both true and deserving of more context. President Obama declared March 29 2012, “[Vietnam Veterans Day](https://obamawhitehouse.archives.gov/the-press-office/2012/03/29/presidential-proclamation-vietnam-veterans-day)” and in 2017, President Trump made the day an annual event when he signed into lawA [The Vietnam War Veterans Recognition Act of 2017](https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-305-law/).

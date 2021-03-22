@@ -1,14 +1,14 @@
 ---
 title: 18.05.15 Summer Gas Prices
 slug: 20180515-18-05-15-summer-gas-prices
-_id: legacy-a5b69ae3-dee9-45a6-8fd0-7339fc78d78a
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-bfe85b97-bebb-41a0-a874-72b69d2100ba
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-15-summer-gas-prices/
 _createdAt: '2018-05-16T10:34:51Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-16T10:34:51+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       I feel like this happens EVERY Summer... Why?
     citation: I feel like this happens EVERY Summer... Why?
-    _key: card-1-01236606-9d53-4195-a496-c642518927b8
+    _key: card-1-4b7e7131-b5d4-4369-aed0-17dfaf4740c7
   - order: 1
     body: >-
       > U.S. economic growth has boosted demand for oil which means most
@@ -48,7 +48,7 @@ cards:
         
         
       Patrick DeHaan, GasBuddy analyst
-    _key: card-2-f3b917db-2b08-4e89-83ed-0b0e1281ac74
+    _key: card-2-8485764f-d066-410f-9aad-7ae816dc6e04
   - order: 2
     body: >-
       ## WHAT’S TO BLAME?
@@ -62,7 +62,7 @@ cards:
       * **Saudi Arabia:** World’s largest oil producer signaled it wants oil
       prices $80-$100/barrel. Oil just toppedA **$70/bbl, a level notA seen
       since 2014** & upA 50% vs. last year.
-    _key: card-3-8e59e8ed-4996-4a04-a363-dc3601f603ae
+    _key: card-3-218033f9-f825-4c8d-8296-3973bae19f83
   - order: 3
     body: >-
       ## Feeling Tapped Out?
@@ -79,7 +79,7 @@ cards:
 
       CLICK: FOR TIPS TO $AVE
     citation: 'CLICK: FOR TIPS TO $AVE'
-    _key: card-4-67d1f02a-58bf-40a9-a035-d24d007dd874
+    _key: card-4-1c81fdd9-1889-487a-b944-fcb16029bb9a
   - order: 4
     body: >-
       It's expected to be the most expensive summer driving season in years --A
@@ -88,7 +88,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-15-summer-gas-prices/)
-    _key: card-10-7685eed5-df4c-4982-8caa-e28b71c0d20d
+    _key: card-10-e23c03e6-ebb3-489c-86a6-7aafc55f91ca
 
 ---
 * **MAP: Where Gas Prices are the Highest:**  

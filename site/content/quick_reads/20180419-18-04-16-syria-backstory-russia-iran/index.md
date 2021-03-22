@@ -1,14 +1,14 @@
 ---
 title: 18.04.16 Syria Backstory with Russia/iran
 slug: 20180419-18-04-16-syria-backstory-russia-iran
-_id: legacy-a4003423-1ec7-412a-be78-3088b93bda53
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-110d2660-73be-4c2d-b18f-d01fc20332aa
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-16-syria-backstory-russia-iran/
 _createdAt: '2018-04-16T10:31:54Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-16T10:31:54+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip Here
     citation: Flip Here
-    _key: card-1-d0725b8b-7eb5-4e36-aa1f-727a694fa122
+    _key: card-1-fcac6079-522b-4165-9495-25eed2d5c0fc
   - order: 1
     body: >-
       ## Back in 2017…
@@ -45,7 +45,7 @@ cards:
         
         
       Payam Mohseni and Hussein Kalout, Foreign Policy, Jan 24, 2017
-    _key: card-2-d3d184f0-6854-433b-82c1-97db73da8d4d
+    _key: card-2-5890f70d-9bdd-4a99-bcc7-ae15d924d117
   - order: 2
     body: >-
       # IRAN & SYRIA
@@ -60,7 +60,7 @@ cards:
 
       * Syria provides Iran something it doesn’t have: strategic access to
       Mediterranean Sea.
-    _key: card-3-69e3ee52-ff3f-49e3-aeb1-b034308f0a45
+    _key: card-3-1c43436e-9866-4af0-a33d-c9a7178f64cb
   - order: 3
     body: >-
       ## SYRIA & RUSSIA
@@ -74,7 +74,7 @@ cards:
 
       * Russia identifies with Syria repelling popular uprisings challenging
       status quo & Islamic terrorism (Russia confronts both domestically).
-    _key: card-4-dccc9642-9391-4fc2-9144-6c1da934800e
+    _key: card-4-20036320-102f-480d-b6a4-73d623cf0cc7
   - order: 4
     body: >-
       President Assad’s father learned how to fly fighter jets in Soviet Union.
@@ -82,7 +82,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-04-16-syria-backstory-russia-iran/)
-    _key: card-10-f72a1f25-8761-47fe-96d1-866cefa8ce49
+    _key: card-10-dddc6b28-08e8-45ef-aa63-27aedb6c669e
 
 ---
 * Why Russia is an ally of Assad: [https://www.economist.com/blogs/economist-explains/2015/09/economist-explains-22](https://www.economist.com/blogs/economist-explains/2015/09/economist-explains-22)

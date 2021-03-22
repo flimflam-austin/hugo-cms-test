@@ -1,14 +1,14 @@
 ---
 title: 18.08.10 Qq
 slug: 20190905-18-08-10-qq
-_id: legacy-85f74528-177c-4565-b7fc-e92e4fa477e0
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-24806e47-632f-47cd-b023-1f537ffbd2ea
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-10-qq/
 _createdAt: '2018-08-10T11:43:30Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-10T11:43:30+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/rzXpJcwqYIg?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-34a95928-320e-4415-b335-f51e3ec041c6
+    _key: card-1-18a03469-78bd-4b80-b86c-9c5067a45c77
   - order: 1
     body: >-
       > “Character, sophistication, personality, the way they get along with
@@ -43,7 +43,7 @@ cards:
       Jeff Sveen explaining how he will help choose which Thanksgiving turkeys
       to give to the President - the FIRST turkeys from South Dakota in the
       71-year-old tradition.
-    _key: card-2-811598b8-f1b7-4027-b163-9280cc506c9b
+    _key: card-2-7429496f-a845-4a1a-9bd5-77cc0a0dfe75
   - order: 2
     body: >-
       > ‘This is such a niche app with niche content, that for it to make that
@@ -59,7 +59,7 @@ cards:
 
       [INFOWARS' LEGAL WARS](https://smarthernews.com/18-08-09-alex-jones/)
     citation: INFOWARS' LEGAL WARS
-    _key: card-3-173fc0a6-82f0-4d68-b455-e118fcdc1281
+    _key: card-3-a6fc0260-77ea-4d78-81a1-6d8f302e23fb
   - order: 3
     body: >-
       > “I wanted to let the voters debate, discuss and think about a different
@@ -72,13 +72,13 @@ cards:
       his bid to split California into 3 states. Draper spent $1.7M & several
       years supporting the plan. The CA Supreme Court would not allow it on the
       November ballot.
-    _key: card-4-24ec46e3-746d-4b1e-a26d-ab7c233b87c5
+    _key: card-4-a8384fa0-f4b8-4d93-baae-abcf037b4e9d
   - order: 4
     body: |-
       TGIF!
 
       [view sources](https://smarthernews.com/18-08-10-qq/)
-    _key: card-10-25201d07-baa3-4187-9041-61e986b673c6
+    _key: card-10-c39351db-e87a-4039-93ea-755580fe8c7d
 
 ---
 * **Will Trump pardon South Dakota’s first-ever National Thanksgiving Turkey?**  

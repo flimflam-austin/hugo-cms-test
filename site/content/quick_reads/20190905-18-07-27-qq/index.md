@@ -1,14 +1,14 @@
 ---
 title: 18.07.27 Qq
 slug: 20190905-18-07-27-qq
-_id: legacy-8a78a706-f649-4d10-80b4-3d7721b14412
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-1d8ef5e7-4caa-4843-ae2c-af6b7640de93
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-07-27-qq/
 _createdAt: '2018-07-27T11:55:44Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-07-27T11:55:44+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       Valerie Jarrett, who is black, was the product if the muslim brotherhood &
       planet of the apes had a baby. Barr apologized & reiterated she is not a
       bigot.
-    _key: card-1-f67d5b03-d022-4f29-8794-e79abac83317
+    _key: card-1-ee7d896b-dde5-41ed-96cf-2f09bef1710d
   - order: 1
     body: >-
       > ‘…I had my own activism streak in my youth. I’m not sure if you’ve heard
@@ -42,7 +42,7 @@ cards:
       profile reported he died last year. Hatch, who is set to retire this year,
       is the 3rd oldest current Senator behind Dianne Feinstein (D-CA) & Chuck
       Grassley (R-IA).
-    _key: card-2-59de9c59-5774-47fd-8af0-ed0a6a314774
+    _key: card-2-696d78ea-300b-480d-add2-8c4f3541593f
   - order: 2
     body: >-
       > “We’re investing so much in security that it will significantly impact
@@ -55,13 +55,13 @@ cards:
       users' privacy concerns. In turn, Facebook's stock fell 19% in trading
       Thursday, suffering the largest one-day loss in the history of Wall
       Street. Zuckerberg personally lost $16B.
-    _key: card-3-7b3b8239-be28-4078-8457-407acecf977b
+    _key: card-3-14fe529f-0dee-4fcc-8de1-ff3f816af8bc
   - order: 3
     body: |-
       Have a great weekend!
 
       [view sources](https://smarthernews.com/18-07-27-qq/)
-    _key: card-10-afe5beee-3fb4-44e8-9b91-9360ded8a319
+    _key: card-10-e13df4de-0787-496b-9ee3-7874cc334b9a
 
 ---
 * **Roseanne Barr disputes racist claims: ‘I’m not that person’:**  

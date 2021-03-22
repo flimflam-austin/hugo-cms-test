@@ -1,14 +1,14 @@
 ---
 title: 18.08.13 Qq
 slug: 20190905-18-08-13-qq
-_id: legacy-e1418e95-cf91-4406-af19-e0d5116cbcf8
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-f504032e-097b-403e-b5a9-2d6a24395f95
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-13-qq/
 _createdAt: '2018-08-13T11:45:42Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-13T11:45:42+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       Seattle-Tacoma International airport on Friday night. Military jets chased
       Russell, a ground service agent, for an hour before he crashed into a
       wooded area and died. There were no passengers aboard.
-    _key: card-1-efeeba8d-b409-4007-bfe8-1753775291b9
+    _key: card-1-c0203310-b966-4be1-9c02-4d3907907278
   - order: 1
     body: >-
       > “The place is going to burn.”  
@@ -42,7 +42,7 @@ cards:
       populous counties: Orange & Riverside. Clark is facing $1M bail and
       according to reports, he initially refused to face the judge due to fears
       of "retaliation."
-    _key: card-2-73c6d5ca-ae0a-472e-a304-7194ecc49936
+    _key: card-2-d5d61b5f-6f72-4f02-a1ec-d49b9cd75010
   - order: 2
     body: >-
       > ‘Monsanto made Roundup the OxyContin of pesticides, and now the
@@ -55,13 +55,13 @@ cards:
       its weed killers, including Roundup, gave him non-Hodgkin's lymphoma. The
       case is the first of thousands of lawsuits in state & federal courts
       alleging Roundup causes cancer, a claim Monsanto denies.
-    _key: card-3-409d0651-cc80-4c6e-8b86-15f7bc375f3a
+    _key: card-3-3ca63454-309e-4683-91b3-242372f992e7
   - order: 3
     body: |-
       Have a good week!
 
       [view sources](https://smarthernews.com/18-08-13-qq/)
-    _key: card-10-16fffe5e-3d08-41b0-9612-6ecaea075e29
+    _key: card-10-73ccb33a-6a9d-4ea9-b72b-28946549de4f
 
 ---
 * The man who stole a plane said he didn’t need much help: ‘I’ve played some video games’:  

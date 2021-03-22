@@ -1,14 +1,14 @@
 ---
 title: Aging & Allergies
 slug: 20190110-aging-allergies
-_id: legacy-dba3f0d6-b21a-4ed4-90ef-ff558b557f23
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-b923417f-6437-4f21-9b67-4099a68c9f2e
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - aging-allergies/
 _createdAt: '2019-01-10T13:31:22Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-01-10T13:31:22+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       What Are The Facts?
     citation: What Are The Facts?
-    _key: card-1-b376a16e-3d1a-4a5a-a7a6-98f257198a2b
+    _key: card-1-a1fee57d-6452-4e1b-bae2-b94e74913534
   - order: 1
     body: >-
       # FOOD ALLERGY 101
@@ -49,7 +49,7 @@ cards:
 
       * Approx. **5% of U.S. children** have a food allergy vs. approx.A **10%
       of adults (26M).**
-    _key: card-2-7b48d7fa-743a-4bfc-96a2-a6cba3e5b16c
+    _key: card-2-fd262b7d-d4a3-45b2-b934-aa7897c93e59
   - order: 2
     body: >-
       # About The Study
@@ -66,7 +66,7 @@ cards:
       without a childhood food allergy.
 
       * Only half of adults with a “food allergy” had an **official diagnosis**.
-    _key: card-3-a0215711-acf2-49d2-9b68-7bb8d1e1d178
+    _key: card-3-2e1ba9e4-5507-4139-8b13-de29f022c8c5
   - order: 3
     body: >-
       # Allergy v. Intolerance
@@ -78,7 +78,7 @@ cards:
 
 
       Why do allergies start in adulthood? No one knows.
-    _key: card-4-2a159c11-1aab-447b-93c1-698297e2df2e
+    _key: card-4-4e50595e-fd14-465f-b762-017f61beb18b
   - order: 4
     body: |-
       ## Most Common Food Allergies in America
@@ -92,7 +92,7 @@ cards:
       * Wheat
       * Soy
       * Sesame
-    _key: card-5-ab3678e7-1028-4e4e-9b35-da961cddce47
+    _key: card-5-522d3921-92d8-40a0-8256-001e6ffe8049
   - order: 5
     body: >-
       Of the 26 million U.S. adult with a food allergy, 12 million developed the
@@ -102,7 +102,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/aging-allergies/)
-    _key: card-10-61f0b0bd-0962-45ab-b590-ee5b4a643598
+    _key: card-10-fc611a47-45a8-481d-8386-b11c59bb65d3
 
 ---
 * **New drug shows promise of protecting people with peanut allergies:**  

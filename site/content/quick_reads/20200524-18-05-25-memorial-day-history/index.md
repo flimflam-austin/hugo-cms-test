@@ -1,14 +1,14 @@
 ---
 title: The History of Memorial Day
 slug: 20200524-18-05-25-memorial-day-history
-_id: legacy-fa2412b0-b5c4-41b9-9603-92114a3451db
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-40379c17-5483-4499-bd35-3b85cabe4b37
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-05-25-memorial-day-history/
 _createdAt: '2019-05-24T13:18:23Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2019-05-24T13:18:23+00:00'
 weight: 50
 featured_image:
@@ -20,7 +20,7 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     body: '> The history of Memorial Day is a story few ever know.'
-    _key: card-1-43d3a873-2062-4d8f-80a1-c26bac83ae09
+    _key: card-1-70aecf62-bc76-44ac-9d59-ee55c0e47fb7
   - order: 1
     body: >-
       It Wasn’t Always  
@@ -35,7 +35,7 @@ cards:
       graves **with flowers**.
 
       * May 30th chosen reportedly because flowers bloomed nationwide.
-    _key: card-2-1f80f0df-cd0b-4b84-adf8-24685c880704
+    _key: card-2-b573dd21-10a0-45f1-9b56-3be541aadb98
   - order: 2
     body: >-
       ## About 25 Cities Claim Ties To First Memorial Day…
@@ -48,7 +48,7 @@ cards:
       graves of Confederate soldiers, saw neglected graves of Union soldiers and
       decided to place flowers on ALL the graves despite the war ending a year
       earlier.
-    _key: card-3-257a4769-d176-4dd7-b93a-cf3c4da42bf8
+    _key: card-3-fbdbdad8-6078-4f97-a13d-2a81284c9b8a
   - order: 3
     body: >-
       * The first “Memorial Day” at Arlington spearheaded by Gen. Logan (Civil
@@ -59,7 +59,7 @@ cards:
 
       * About 5,000 people gathered & put small American flags on graves ~ About
       the same # of people attend in modern times and do exactly the same thing.
-    _key: card-4-d050e901-f680-4689-a8dc-1459b6689f57
+    _key: card-4-c55197e6-d9c6-415a-a8a8-bf1b20998052
   - order: 4
     body: >-
       Federal Holiday: 1971  
@@ -74,7 +74,7 @@ cards:
 
       **VETERANS DAY (Nov 11):**A “largely intended to thank**A LIVING
       veterans** for their service…”
-    _key: card-5-78e8dd98-e3f6-4c87-8e05-dc0d3671ca03
+    _key: card-5-316e3e79-7dc9-44fa-9715-a16df78bdb3f
   - order: 5
     body: >-
       ‘We should guard their graves with sacred vigilance...Let no neglect, no
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-25-memorial-day-history/)
-    _key: card-10-f0770f53-3922-4e82-808d-9e49e2d1eac9
+    _key: card-10-6b34c207-2369-442a-bc45-90368eb4d2e0
 
 ---
 * **Memorial Day History**A [https://www.va.gov/opa/speceven/memday/history.asp](https://www.va.gov/opa/speceven/memday/history.asp)

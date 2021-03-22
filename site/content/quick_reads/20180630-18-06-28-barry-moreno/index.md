@@ -1,14 +1,14 @@
 ---
 title: 18.06.28 Barry Moreno
 slug: 20180630-18-06-28-barry-moreno
-_id: legacy-204b56e4-9898-4697-85e9-5cfc878f902c
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-a854b756-c074-4d4d-82bc-b3278b97429e
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-06-28-barry-moreno/
 _createdAt: '2018-06-30T14:02:16Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-06-30T14:02:16+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
       [Click: Play
       Podcast](http://smarthernews.libsyn.com/smarther-news-ep5-historian-barry-moreno)
     citation: 'Click: Play Podcast'
-    _key: card-1-ce25dbb8-f88a-4094-bb33-ade991886904
+    _key: card-1-bab7f14c-9f91-4d3b-8255-9f50ad4e2d52
   - order: 1
     body: >-
       > “Ellis Island was very unpopular much in the media. When it was opened
@@ -41,13 +41,13 @@ cards:
       different but these controversies and some of the main points are the
       same.A There were some of the same issues about jobs, and crimes and
       terrorism, and all those things were leveled then in 1890.”
-    _key: card-2-25e4fd52-c5ee-4482-945d-826070cfcc87
+    _key: card-2-f542e2e3-2450-488e-a38f-d39afb2235db
   - order: 2
     body: |-
       Listen to the podcast...
 
       [view sources](https://smarthernews.com/18-06-28-barry-moreno/)
-    _key: card-10-8a4e34fc-c529-4942-afa7-62f581be140f
+    _key: card-10-15c49c8f-ea86-45cb-894c-8d961683d97e
 
 ---
 Podcast Link:

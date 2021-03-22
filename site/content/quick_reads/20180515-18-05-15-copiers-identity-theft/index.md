@@ -1,14 +1,14 @@
 ---
 title: 18.05.15 Copiers Identity Theft
 slug: 20180515-18-05-15-copiers-identity-theft
-_id: legacy-7e3dbd90-3fb7-40a4-90d9-3ae013cc6413
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-b81a6287-1ac6-4baf-8b96-74374a5f37ed
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-15-copiers-identity-theft/
 _createdAt: '2018-05-15T11:00:50Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-15T11:00:50+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       FLIP FOR WHY
     citation: FLIP FOR WHY
-    _key: card-1-340d4246-8905-4150-8c3e-8628c0699bc5
+    _key: card-1-3c1dec90-8d2d-4e9c-b71f-286716f95fe5
   - order: 1
     body: >-
       ## Copy Machines Have Hard Drives, Too.
@@ -51,7 +51,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/iC38D5am7go?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-0c69a459-09d7-4504-a060-d93459f32c6c
+    _key: card-2-1cd7f265-2484-4fc9-b9cb-fb0a26331f31
   - order: 2
     body: >-
       * Since CBS’s report in 2010, the industry stepped up security with hard
@@ -63,7 +63,7 @@ cards:
 
 
       * This *despite* federal & some state laws requiring it.
-    _key: card-3-02c1c67d-456a-4b1a-b418-4839035c7b79
+    _key: card-3-b43df151-f46c-4b38-b4b0-5cf74863d7af
   - order: 3
     body: >-
       Just last year, HP hired Christian Slater for a short series called ‘The
@@ -72,7 +72,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-15-copiers-identity-theft/)
-    _key: card-10-e2237803-8142-4b9e-a062-74291faef577
+    _key: card-10-bb9b6a27-3d0d-4fe4-b953-d9c731569fdd
 
 ---
 * **FTC on digital copier data safety:A** [https://www.ftc.gov/tips-advice/business-center/guidance/digital-copier-data-security-guide-businesses](https://www.ftc.gov/tips-advice/business-center/guidance/digital-copier-data-security-guide-businesses)

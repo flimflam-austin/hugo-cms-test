@@ -1,14 +1,14 @@
 ---
 title: 18.06.04 Otd 19th Amendment
 slug: 20180604-18-06-04-otd-19th-amendment
-_id: legacy-ae01fdca-9ff9-4bbf-8df2-372d81184394
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-0c125df7-7a83-497e-bc31-cf02e242eaf1
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-04-otd-19th-amendment/
 _createdAt: '2018-06-04T10:45:50Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-04T10:45:50+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip For Why It Matters
     citation: Flip For Why It Matters
-    _key: card-1-9d4933c8-67d7-4c9d-b79f-bb57ef461ab3
+    _key: card-1-e7d9807a-136d-4ba4-a1e6-bd97378da3da
   - order: 1
     body: >-
       ## The Women’s Vote
@@ -47,7 +47,7 @@ cards:
 
       **FYI: 56% of women (compared to 44% of men) identify with, or lean
       toward, the Democratic Party.**
-    _key: card-2-e41d1c6f-4eaa-4515-910a-b569a8f4f2d8
+    _key: card-2-9756d4c2-6b7f-4277-8dca-3a11142e11b3
   - order: 2
     body: >-
       ## Why did it take so long?
@@ -64,7 +64,7 @@ cards:
         
         
       On Aug 18, 1920, Tennessee became the 36th and final state to ratify.
-    _key: card-3-53a61fff-9056-4010-8d64-811d762b20e7
+    _key: card-3-52dda060-218d-4b50-a64c-3635c842846b
   - order: 3
     body: >-
       Did you know that during the last census the United States was almost
@@ -73,7 +73,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-04-otd-19th-amendment/)
-    _key: card-10-781c1b93-8125-48d3-ad06-c83044a43753
+    _key: card-10-286fcf69-eccb-4d1b-b40c-ba96a06a4322
 
 ---
 * 19th Amendment Ratification Fact Sheet: [https://www.archives.gov/files/exhibits/nates/files/19th-amendment-ratification-fact-sheet.pdf](https://www.archives.gov/files/exhibits/nates/files/19th-amendment-ratification-fact-sheet.pdf)A The 19th Amendment states: 1. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex. 2. Congress shall have power to enforce this Article by appropriate legislation.

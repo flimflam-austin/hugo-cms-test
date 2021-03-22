@@ -1,14 +1,14 @@
 ---
 title: Quick Quotes for Monday, September 10th
 slug: 20190905-quick-quotes-3
-_id: legacy-7d8ec83c-da60-4efb-afb1-efe4ef3ed33a
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-06705f21-5168-4890-be81-682c02deb1ea
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-3/
 _createdAt: '2018-09-10T12:00:40Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-10T12:00:40+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       passengers & crew members that died on Flight 93 which crashed near
       Shanksville, PA. The President & First Lady are expected to visit Tuesday
       to honor victims.
-    _key: card-1-0f0f76a8-c743-436d-9903-6978dbe37f49
+    _key: card-1-c501e479-fb99-46b4-a6b9-dbc2b66ae128
   - order: 1
     body: >-
       > “When a woman is emotional, she’s ‘hysterical’ and she’s penalized for
@@ -44,7 +44,7 @@ cards:
       for her 24th Grand Slam title, was defeated by Japan's Naomi Osaka after
       Williams was cited for rule violations & docked a game for what umpire
       Carlos Ramos deemed as verbal abuse.
-    _key: card-2-1f333d2a-2653-4af2-9637-fc268ca9b369
+    _key: card-2-90d25cd6-96bb-41d6-b6fa-1f6ae6a38db5
   - order: 2
     body: >-
       > “…we concluded that the author’s principal motivation was to describe,
@@ -56,7 +56,7 @@ cards:
       James Dao, The New York Times Op-Ed Editor, on the possible motives of the
       anonymous Op-Ed from what it calls a Senior Administration Official. The
       article has been viewed 10M+ times since its publication Wednesday.
-    _key: card-3-58334ae1-6a86-4639-8343-5aedffbca21b
+    _key: card-3-c9984117-7532-407a-bb91-a92ad3960b42
   - order: 3
     body: >-
       > ‘What do we say to the U.S.? That if they want to help the people of
@@ -69,7 +69,7 @@ cards:
       Nicaraguan President Daniel Ortega's response to UN Ambassador Nikki
       Haley's likening of the country to Syria or Venezuela. An est. 300+ people
       have died & 2K injured in crackdowns by Nicaraguan police since April.
-    _key: card-4-e7447184-049c-432c-8957-63216f377e66
+    _key: card-4-97378b80-7c95-4195-9249-b4b22041bbe1
   - order: 4
     body: >-
       > “I was pretty sure I wasn’t going to be homecoming queen, but I was
@@ -80,13 +80,13 @@ cards:
       Kaylee Foster, Ocean Springs, MS high school senior, on how she felt being
       crowned homecoming queen and then just hours later kicking the winning
       field goal for the football team's overtime win.
-    _key: card-5-c0954113-0b30-49a8-a160-896621895a21
+    _key: card-5-1cd97cc7-8345-457d-8253-22ed802eb95c
   - order: 5
     body: |-
       Have a good week!
 
       [view sources](https://smarthernews.com/quick-quotes-3/)
-    _key: card-10-b1bf171e-6639-4b39-96e6-0f6ba0d74ae9
+    _key: card-10-184bbf61-54aa-4bbe-92bb-843829c68fe0
 
 ---
 * **Chime tower is voice for Flight 93 passengers killed on 9/11:**  

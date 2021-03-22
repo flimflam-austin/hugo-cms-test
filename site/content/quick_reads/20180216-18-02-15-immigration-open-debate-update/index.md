@@ -1,14 +1,14 @@
 ---
 title: 18.02.15 Immigration Open Debate Update
 slug: 20180216-18-02-15-immigration-open-debate-update
-_id: legacy-761f75a6-4099-47f8-ae73-f2d2b69bdf73
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-ce43d8d8-45a7-4ac5-8f8b-6939224dbec7
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-15-immigration-open-debate-update/
 _createdAt: '2018-02-16T12:51:11Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-16T12:51:11+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       Sen. Joe Manchin (D-WV), Chairman of the bipartisan Common Sense
       Coalition, after proposal on immigration reform did not get necessary
       votes to move forward in Senate.
-    _key: card-1-d7b3d61e-62ed-4c2c-8e72-2175637a4159
+    _key: card-1-a81d0ee3-832e-45ec-b15d-c7530ea78c8d
   - order: 1
     body: >-
       ## Recap: Rare Week In Senate
@@ -42,7 +42,7 @@ cards:
 
       * **Thursday Evening:** Few bills brought; 4 votes taken & no proposals
       pass to further debate.
-    _key: card-2-9c0251d6-c008-49a8-ac3b-0d7b38619504
+    _key: card-2-77391936-2886-47b7-ae9b-7eccefcf6428
   - order: 2
     body: >-
       Why It Matters:  
@@ -56,7 +56,7 @@ cards:
 
       * Pres. Trump open to allowing DACA recipients legal status or even
       citizenship in exchange for broader reform (ex: border wall $$$).
-    _key: card-3-70f1ffb3-127f-46c9-80b8-e031ce79b0e9
+    _key: card-3-b1cd30d3-62a0-4b36-95d7-d43c7644bbf4
   - order: 3
     body: >-
       # Important To Note
@@ -69,7 +69,7 @@ cards:
 
       * If Congress compromised on broader immigration reform, deadline & court
       cases might be irrelevant.
-    _key: card-4-7567a735-9d78-4c2c-bdac-beba12d287e2
+    _key: card-4-0480f15a-2a31-43ec-a33b-6b377300c06d
   - order: 4
     body: >-
       ## Meanwhile…At The White House
@@ -85,7 +85,7 @@ cards:
       [View Photos Click
       Here](https://twitter.com/SRE_mx/status/963944565768990720)
     citation: View Photos Click Here
-    _key: card-5-aea690e2-95ef-4497-bf79-842fcc97cdcf
+    _key: card-5-92ca55c3-aba5-4dd6-867a-9d683686f578
   - order: 5
     body: >-
       ## Official Word From WH On Meeting:
@@ -99,7 +99,7 @@ cards:
 
       WH Press Office
     citation: WH Press Office
-    _key: card-6-fd8c1b57-5a50-44d5-9cc1-478006c2823b
+    _key: card-6-25c6e737-ff79-4633-bdcf-e4c5a0eb2a7e
   - order: 6
     body: >-
       Check out the list of attendees at the WH meeting...and more...
@@ -107,7 +107,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-02-15-immigration-open-debate-update/)
-    _key: card-10-debe4ce4-4b28-4827-889f-235a98c8b004
+    _key: card-10-881c0f27-d923-4548-8c2f-e70e5e54b38f
 
 ---
 * Senate Rejects Immigration Plans, Leaving Fate of Dreamers Uncertain: [https://www.nytimes.com/2018/02/15/us/politics/immigration-senate-dreamers.html](https://www.nytimes.com/2018/02/15/us/politics/immigration-senate-dreamers.html?mtrref=www.google.com)

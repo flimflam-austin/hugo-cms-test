@@ -1,14 +1,14 @@
 ---
 title: 18.07.20 Women Paid More
 slug: 20180720-18-07-20-women-paid-more
-_id: legacy-233a7129-161a-452e-b4ce-4cba38204654
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-a8e254ff-ac98-4677-8447-03a20da3f082
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-20-women-paid-more/
 _createdAt: '2018-07-20T11:58:02Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-20T11:58:02+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Huh? Makes No CENTS.
     citation: Huh? Makes No CENTS.
-    _key: card-1-2e327c83-2958-4bf6-b242-468a1f672d59
+    _key: card-1-e2b17c73-1617-437c-9ad7-e7d7473c855e
   - order: 1
     body: >-
       ## ‘Manning Up & Womaning Down”
@@ -45,7 +45,7 @@ cards:
       earnings on avg of 2.9%**, **diminish woman’s by 1.5%.**
 
       * Says couples **“minimize the violation”** **of social norms** by lying.
-    _key: card-2-24e67d68-6ac2-40b5-b375-3103e2048788
+    _key: card-2-c2c37066-ae6e-47d3-b44c-d77847a063a4
   - order: 2
     body: >-
       > ‘It’s kind of like if he’s shorter than she is, she doesn’t wear heels.
@@ -57,7 +57,7 @@ cards:
       Bill Doherty, marriage therapist & Univ. of Minnesota professor on the
       marital struggles he's seen when the women is more successful
       professionally.
-    _key: card-3-1b260bb1-01d4-4585-8f6b-955d1a388016
+    _key: card-3-66724a3d-1b0b-4444-9882-a22c79c54d65
   - order: 3
     body: >-
       # Bigger Picture
@@ -69,7 +69,7 @@ cards:
 
       Pew survey: 71% say very important for man to support a family financially
       to be a good husband or partner,A **32% for women**.
-    _key: card-4-e73a2a60-65b1-4aaf-8676-b27e8c5e1400
+    _key: card-4-a95ae8d3-bb7b-4762-aeb4-44a64054df72
   - order: 4
     body: >-
       Social norms impact self-reported data, and the Census Bureau warns that
@@ -77,7 +77,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-20-women-paid-more/)
-    _key: card-10-f64de52a-bfe0-4565-9870-a51588ff2341
+    _key: card-10-51ae44a1-bd73-4503-a044-04927df121e8
 
 ---
 * **Manning up andA womanizingA down:A How husbands and wives report their earnings when she earns more:**  

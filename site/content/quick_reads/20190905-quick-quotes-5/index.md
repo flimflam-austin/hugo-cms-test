@@ -1,14 +1,14 @@
 ---
 title: Quick Quotes for Thursday, September 13th
 slug: 20190905-quick-quotes-5
-_id: legacy-26108587-2daa-43a7-a2be-6a4a8385e93b
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-6f178d3d-f57a-41b1-bc6a-b9168a3aa665
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-5/
 _createdAt: '2018-09-13T12:01:07Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-13T12:01:07+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       Hurricane Florence which is now tracking southward. The Category 2 storm's
       path change will now likely impact Georgia, but may possibly limit effects
       on Washington, D.C. and points northward.
-    _key: card-1-be8692e3-8863-4b83-ba75-d850fb8375a7
+    _key: card-1-df79dec3-b65f-4bd5-a0a3-52b8edd96617
   - order: 1
     body: >-
       > “The State Department has come to the determination that they were
@@ -42,7 +42,7 @@ cards:
       government workers in Cuba & at least one in China, causing brain
       injuries, hearing loss. NBC reports Russia is the main suspect; State Dept
       has yet to formally assign any blame.
-    _key: card-2-062a1b8f-d756-44ad-9ae1-1cc2b23460eb
+    _key: card-2-2f2e7fa3-11f5-4f41-8b1e-30889de09d77
   - order: 2
     body: >-
       > “The disturbing and accelerating trajectory of use we’re seeing in
@@ -59,7 +59,7 @@ cards:
 
       [Read more Here](https://smarthernews.com/18-08-30-cigarettes-vaping/)
     citation: Read more Here
-    _key: card-3-5ed83a27-d237-4a15-89d3-51dacdade36f
+    _key: card-3-a65bb078-3167-4f0a-9973-57e06c41379c
   - order: 3
     body: >-
       > “I think I could beat Trump because I’m as tough as he is, I’m smarter
@@ -72,7 +72,7 @@ cards:
       Democrat, is one only 2 Wall Street CEO still in place since the financial
       crisis. He has said he would like running the country, but it is unlikely
       a rich banker would win over the liberal Democrats.
-    _key: card-4-9e4d92cc-8c62-4f37-9485-7a2062162fe9
+    _key: card-4-483157f9-d372-448e-bc4d-a18ee0676931
   - order: 4
     body: >-
       > ‘We have branding opportunities right there.”  
@@ -84,10 +84,10 @@ cards:
       International Space Station. Critics warn it creates a conflict of
       interest between private companies & public interest and may violate
       NASA's own rules.
-    _key: card-5-0ff36e03-5b02-44ff-b85f-bbc5d01d686b
+    _key: card-5-0178c80f-0d26-47c0-ad65-975cf47f1b43
   - order: 5
     body: '[view sources](https://smarthernews.com/quick-quotes-5/)'
-    _key: card-10-39e1000e-5604-4158-8221-d4ec0bce2e64
+    _key: card-10-2eab9dda-92d2-40ba-bf96-c415d4bc144e
 
 ---
 * U.S. officials suspect Russia in mystery ‘attacks’ on diplomats in Cuba, China:  

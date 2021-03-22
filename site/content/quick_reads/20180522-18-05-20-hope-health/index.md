@@ -1,14 +1,14 @@
 ---
 title: 18.05.20 Hope & Your Health
 slug: 20180522-18-05-20-hope-health
-_id: legacy-db1c6186-f6e0-4ca1-bdfc-4b2a7a020627
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-44b1ec16-0659-42a0-9b39-eec000420d5e
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-20-hope-health/
 _createdAt: '2018-05-22T11:30:15Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-22T11:30:15+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       IS IT TRUE? FLIP
     citation: IS IT TRUE? FLIP
-    _key: card-1-a37dcf4f-13d0-4dc0-8cbc-43dd193545e5
+    _key: card-1-59d4f117-6d92-4e81-b8c1-dba154a1857d
   - order: 1
     body: >-
       > “We find, indeed, that to be the case.’  
@@ -39,7 +39,7 @@ cards:
 
       FLIP: THE DETAILS
     citation: 'FLIP: THE DETAILS'
-    _key: card-2-cde67f79-faae-476e-849f-a86a8e3a9fff
+    _key: card-2-25e9f756-b5dd-489e-bef1-048ce925801f
   - order: 2
     body: >-
       ## Study: Highlights
@@ -53,7 +53,7 @@ cards:
       Those with **less than a high school education** (especially white
       Americans) suffered from **greater declines in optimism** over the years
       (and higher mortality rates).
-    _key: card-3-d1741796-37b4-41c7-b50a-8c329609ed79
+    _key: card-3-8f2be8a7-d685-4f07-905f-bc73da4b3905
   - order: 3
     body: >-
       Why?
@@ -67,7 +67,7 @@ cards:
 
       * Past Study: Some researchers believe our physiology is healthier when we
       are more hopeful.
-    _key: card-4-213c9009-8f04-4ec2-aa24-6ba798057e77
+    _key: card-4-d0bdf5cb-24eb-459a-ad8a-51aa79851d0f
   - order: 4
     body: >-
       Education may not *just* impact optimism, but also employment. The U.S.
@@ -76,7 +76,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-20-hope-health/)
-    _key: card-10-16ebf228-2568-49a7-9ff2-09d0797bf43e
+    _key: card-10-9faa7832-5692-4717-9a94-09529a255cee
 
 ---
 * **LONGER, MORE OPTIMISTIC LIVES: HISTORIC OPTIMISM AND LIFE EXPECTANCY IN THE UNITED STATES:** [https://www.brookings.edu/wp-content/uploads/2018/05/working-paper-117_optimism-and-life-expectancy_oconnor_graham.pdf](https://www.brookings.edu/wp-content/uploads/2018/05/working-paper-117_optimism-and-life-expectancy_oconnor_graham.pdf)

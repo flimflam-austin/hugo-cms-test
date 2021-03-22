@@ -1,14 +1,14 @@
 ---
 title: 18.08.07 Election Day and the Economy
 slug: 20180807-18-08-07-election-day-and-the-economy
-_id: legacy-6096ca8f-3677-470f-85a6-5887243da90b
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-674f5d50-a2d9-4230-98b0-30f6149f61e3
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-07-election-day-and-the-economy/
 _createdAt: '2018-08-07T11:45:19Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-07T11:45:19+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       What To Know
     citation: What To Know
-    _key: card-1-a52f08f7-1c4c-4a65-b677-2c56b445ea14
+    _key: card-1-599a853d-ee5c-4c2a-a70b-9147222bf211
   - order: 1
     body: >-
       ## The BIG Picture
@@ -44,10 +44,10 @@ cards:
 
       * Pew Research poll raises question about whether or not jobs are the TOP
       priority for voters during this particular midterm election.
-    _key: card-2-ce15289f-b43c-4260-8f0c-c8cbf5f5cbb1
+    _key: card-2-91cefef8-a026-42af-8a1c-c667e789b6b3
   - order: 2
     body: "> “Trump is a bigger factor in midterm voting preferences a\x13 positive or negative a\x13 than any president in more than three decades. “  \n  \n  \n  \nPew Research, June 20th 2018. Polling also showed voters want to hear most from candidates about immigration, followed by health care, education, & gun laws."
-    _key: card-3-feeb7c72-b660-4ac6-8654-ebb76b7bf112
+    _key: card-3-73258e5f-da1e-45c9-8bcf-b8ad491c3786
   - order: 3
     body: >-
       ## What To Watch: Aug 7
@@ -61,10 +61,10 @@ cards:
 
       * **Democrats need to flip 24 seats from R to D.** Will this be one for
       them?
-    _key: card-4-af67cd83-5423-4c6f-8772-84f238cd4e3b
+    _key: card-4-a1045314-44be-40f7-b0dc-6e193892fbdb
   - order: 4
     body: "## A Bipartisan Challenge\n\n> “_Winning control of the House and Senate means **Democrats have to fight on Republican turf,** and that means talking to Romney-Clinton and Obama-Trump voters. How well they can talk to both at the same time a\x14 and **how well Republicans do among the same groups** a\x14 will determine whether we see a blue wave or another case of Democratic despair.”_ (NYT)"
-    _key: card-5-66cdd8b2-35be-4da6-a02d-a5835e42ea8b
+    _key: card-5-d6b242e4-59d3-4f6f-99e0-30cf1ed3ea99
   - order: 5
     body: >-
       AP Analysis re: midterm elections: "The proportion of people who said the
@@ -75,7 +75,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-08-07-election-day-and-the-economy/)
-    _key: card-10-14c4f78f-8f99-47b3-88b8-97567e18da65
+    _key: card-10-f13b8a31-c50a-4568-96ce-39721c4ac3fb
 
 ---
 * **Jobs boom favors Democratic counties, not Trump strongholds**  

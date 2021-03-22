@@ -1,14 +1,14 @@
 ---
 title: 18.08.01 Superman Beats Olympian
 slug: 20180801-18-08-01-superman-beats-olympian
-_id: legacy-8cf61f5c-1138-4b48-af75-fdbea69ba60d
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-953d57ed-e53b-4aef-9630-b0a97b3a6232
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-08-01-superman-beats-olympian/
 _createdAt: '2018-08-01T11:58:15Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-08-01T11:58:15+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Say What?
     citation: Say What?
-    _key: card-1-6b7e23c4-3eb9-458d-b7f2-bdba1b4126df
+    _key: card-1-8133c290-b903-46b0-abda-beca46c05fa6
   - order: 1
     body: >-
       ## What Happened?
@@ -46,7 +46,7 @@ cards:
       * How: **Beat Michael Phelps’ longest standing record** by nearly a full
       second. Phelps set that record more than 20 yrs ago, nearly the same age
       as Clark.
-    _key: card-2-b247092d-9708-4e2e-8fd4-e203facda423
+    _key: card-2-0a854a85-8ed9-432a-8e41-e1fe9985dede
   - order: 2
     body: >-
       > “Always have fun and never give up on your dreams, no matter what anyone
@@ -56,7 +56,7 @@ cards:
         
       Clark Kent Apuada, swimming phenom who only recently started swimming
       competitively, hoping to become an Olympian.
-    _key: card-3-62cc7343-bd0d-4b24-9ddf-07bab9b6a197
+    _key: card-3-be160c86-abde-4de3-a328-99509adfa4aa
   - order: 3
     body: >-
       Michael Phelps has more Olympic medals (28) than anyone in history. The
@@ -65,7 +65,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-01-superman-beats-olympian/)
-    _key: card-10-c93c0caa-fcdc-4ec9-9037-ca49a793ae8c
+    _key: card-10-0737027f-06d0-4d83-b382-f514b10230b1
 
 ---
 * **10-year-old California boy named Clark Kent beats record Michael Phelps set in 1995:**  

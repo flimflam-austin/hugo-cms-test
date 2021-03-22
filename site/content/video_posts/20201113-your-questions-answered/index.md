@@ -1,21 +1,21 @@
 ---
 title: Your questions...answered!
 slug: 20201113-your-questions-answered
-_id: legacy-16fa2b15-c41c-4519-86b5-a97f53ec277f
-_rev: XOnQP8cIThhnw9BWFxY3pZ
+_id: legacy-cd1831b1-24e7-49c3-b564-a4b5ad97b008
+_rev: ZEyhBiGfgCfwE8WOjbuK7B
 type: video_posts
 draft: false
 aliases:
   - article/your-questions-answered/
 _createdAt: '2020-11-13T23:57:14Z'
-_updatedAt: '2021-03-16T13:06:01Z'
+_updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-11-13T23:57:14+00:00'
 weight: 50
-video_series: Spotlight
-
----
-{{< youtube npC3_Jm2VuU >}}    21f386e748502ece6c932bf7af0f3b03ad4fe5e3-1024x1021.jpg
+featured_image:
+  alt: Featured article image
+  url: >-
+    21f386e748502ece6c932bf7af0f3b03ad4fe5e3-1024x1021.jpg
 video_series: Coffee Talk
 
 ---
-{{< youtube npC3_Jm2VuU >}}
+{{< youtube id=\npC3_Jm2VuU\ title=\Your Questions Answered!\ >}}

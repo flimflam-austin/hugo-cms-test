@@ -1,14 +1,14 @@
 ---
 title: 18.07.27 Spam Calls
 slug: 20180727-18-07-27-spam-calls
-_id: legacy-da343628-e892-42c7-9d37-bcf3ffbf67f6
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-39ead009-98a9-4aae-8ee0-712b8249af67
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-27-spam-calls/
 _createdAt: '2018-07-27T11:56:53Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-27T11:56:53+00:00'
 weight: 50
 featured_image:
@@ -25,7 +25,7 @@ cards:
 
       > **Spam & robocalls have increased more than 40% since January.A** Why &
       what can you do about it?
-    _key: card-1-8dc2e825-1faa-4fb3-b4b7-dd1202d77200
+    _key: card-1-c3c0f730-08c2-4ff3-950c-421427e33dd1
   - order: 1
     body: >-
       # It’s Not Just You
@@ -37,7 +37,7 @@ cards:
 
       Robocalls were the **#1 FTC complaint** (4.5M) in 2017 – that figure
       doesn’t include the 2.5M live caller complaints.
-    _key: card-2-eca667f3-81a3-49b9-b845-383f9d24141e
+    _key: card-2-d4a24bfb-6e4e-4210-9c60-02c69aca10c8
   - order: 2
     body: >-
       ## 4 WAYS (TO TRY) TO MAKE THEM STOP
@@ -55,7 +55,7 @@ cards:
 
       4. Report unwanted calls & register your #s w/A **FTC’s Do Not Call
       List**.
-    _key: card-3-79a27493-1abf-4b67-b78e-41f77a148878
+    _key: card-3-9f10173e-76e3-424f-a986-a92d5f1ff39c
   - order: 3
     body: >-
       ## And Why Are Some Calls in Chinese Anyway?A
@@ -71,7 +71,7 @@ cards:
       nothing; they just need to reach one Chinese-speaking person.
 
       * NYPD estimates $3M has been stolen from this roboscam.
-    _key: card-4-61c3af43-89b0-400e-bead-b0f4bf0883d4
+    _key: card-4-a78784eb-a904-442b-b476-09e7be03c118
   - order: 4
     body: >-
       The law can't catch up with tech, but prosecutions are up. In May, the FCC
@@ -81,7 +81,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-27-spam-calls/)
-    _key: card-10-6147a0e3-7020-46a0-9353-439d1a7e2916
+    _key: card-10-c2eab1b5-78d9-40a1-b330-c4e54944ff51
 
 ---
 * **National Do Not Call Registry Data Book for Fiscal Year 2017:**  

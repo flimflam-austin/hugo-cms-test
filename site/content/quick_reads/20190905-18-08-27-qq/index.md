@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for August 27
 slug: 20190905-18-08-27-qq
-_id: legacy-2bc82dfe-03eb-4741-9460-61a637f999b8
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-74e60bcd-7cf3-40f9-a5ef-40decb6d5eb5
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-27-qq/
 _createdAt: '2018-08-27T11:56:58Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-27T11:56:58+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       [SmartHer #PowerMom](https://smarthernews.com/18-05-03-serena-williams/)
     citation: 'SmartHer #PowerMom'
-    _key: card-1-008c466c-7fed-4339-8cc0-2fabf7872275
+    _key: card-1-35c88f92-079b-403f-aa64-b3a204e57d4e
   - order: 1
     body: >-
       > “We cannot but take a serious note of the double-dealing attitudes of
@@ -45,7 +45,7 @@ cards:
       North Korea's state-controlled newspaper after President Trump asked
       Secretary of State Mike Pompeo to cancel a visit. It would have been Sec.
       Pompeo's 4th trip to N. Korea.
-    _key: card-2-02a02af5-8ca4-4123-bc8f-0c31afe7a308
+    _key: card-2-af792042-8715-48af-b02a-65738961decd
   - order: 2
     body: >-
       > “This is a horrible situation, and our deepest sympathies go out to all
@@ -57,7 +57,7 @@ cards:
       the shooting at the Madden 19 Tournament, a video game tournament held on
       Sunday in Jacksonville, Florida. The shooter killed two and injured many
       more before taking his own life.
-    _key: card-3-e5a0c87b-fee9-4531-945f-fe82d71d44f0
+    _key: card-3-ff5efd85-ce39-4bbf-92ff-49c3d6d78b86
   - order: 3
     body: >-
       > ‘It was my great good fortune that my very first Broadway play was
@@ -69,7 +69,7 @@ cards:
       American playwright & screenwriter wrote 50+ plays and screenplays, and
       won countless awards, including the Pulitzer Prize for Drama (1991) & the
       American Comedy Lifetime Achievement Award (1989).
-    _key: card-4-5d35ea12-300c-4e7f-9aa2-59b8e196c06e
+    _key: card-4-0326666f-b3c7-49ec-a4bb-828579fe45d2
   - order: 4
     body: >-
       > “The Senate, the United States, and the world are lesser places without
@@ -81,10 +81,10 @@ cards:
         
       Sen. Chuck Schumer (D-NY) on his plans to introduce a bill to rename the
       Senate Office Building after Sen. John McCain.
-    _key: card-5-7f6ffff8-7a62-466e-b3a4-f72a46db3b56
+    _key: card-5-9d610a11-84f1-48e0-995a-8b19166bd191
   - order: 5
     body: '[view sources](https://smarthernews.com/18-08-27-qq/)'
-    _key: card-10-d3167c62-4ce2-4a93-8277-dd0286db7788
+    _key: card-10-32983403-ef9e-4f67-958e-3ad1650ce2a1
 
 ---
 * **Nike tweet on Serena Williams:**  

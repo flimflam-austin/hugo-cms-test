@@ -1,14 +1,14 @@
 ---
 title: 18.05.28 Memorial Day Btn
 slug: 20180528-18-05-28-memorial-day-btn
-_id: legacy-00016940-8251-4f4a-a4e1-e0285eab2b63
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-f5e2e5d0-1526-474e-bd8e-346a2fc2484d
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-28-memorial-day-btn/
 _createdAt: '2018-05-28T13:59:59Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-28T13:59:59+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       FLIP FOR MORE
     citation: FLIP FOR MORE
-    _key: card-1-b450be8d-b658-4fe1-af49-a3eb2a7ea16e
+    _key: card-1-62968e8a-8bd3-47a6-84f9-01cc684ec30c
   - order: 1
     body: >-
       Behind The Number  
@@ -48,10 +48,10 @@ cards:
 
       Of the 13 soldiers who died this year, 1 was a 26-year-old Kansas woman.
       She died in Iraq during the U.S. fight against ISIS.
-    _key: card-2-e9153d58-680f-4ed8-a816-c38dda6b1cd4
+    _key: card-2-e0a3d754-1866-4686-a284-dbdd40ad37e0
   - order: 2
     body: '> Army Sgt. Christina M. Schoenecker who died in Iraq in February.'
-    _key: card-3-68dcfb66-7af7-4a0a-8072-8768af318afb
+    _key: card-3-f95e1e8c-9268-4777-9b7d-8767191aedb7
   - order: 3
     body: >-
       > “Her hobbies included fishing, drawing, gardening, crocheting,
@@ -61,7 +61,7 @@ cards:
         
       Obituary of Army Sgt. Christina M. Schoenecker - 'Tina' served in the Army
       reserves since 2009.
-    _key: card-4-12663a25-222c-4c01-8792-01b967a2352e
+    _key: card-4-aeef0c13-de05-4ee3-8edc-1dac2fcc8442
   - order: 4
     body: |-
       Wartime Deaths  
@@ -72,10 +72,10 @@ cards:
       * **Korean War (1950 – 1955):** 5.7M served – 54,246 died
       * **Vietnam Era (1964 – 1975):** 8.7M served – 90,220 died
       * **Gulf War Era (1990 – 2001):** 5.6M served – 1,948 died
-    _key: card-5-8b1a42b0-10f5-4397-ae5d-7f826ee5cf91
+    _key: card-5-04d1bc9b-67c5-416e-aa67-0edf502634f3
   - order: 5
     body: "Learn more about Christina Marie a\x18Tina’ Schoenecker & the 12 others who died in service to our nation this year. Memorial Day honors those who died serving, specifically those who died in combat.\n\n[view sources](https://smarthernews.com/18-05-28-memorial-day-btn/)"
-    _key: card-10-0b1c43c0-63cd-4a29-9ce0-33ac398f8948
+    _key: card-10-ab65e514-cac5-4827-b002-1e2fdf25f84d
 
 ---
 * **GREAT RESOURCE for learning the names and honoring those who passed:**A [https://thefallen.militarytimes.com/](https://thefallen.militarytimes.com/)

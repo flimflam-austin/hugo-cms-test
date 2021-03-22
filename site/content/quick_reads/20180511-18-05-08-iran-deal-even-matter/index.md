@@ -1,14 +1,14 @@
 ---
 title: 18.05.08 Why Does Iran Deal Even Matter?
 slug: 20180511-18-05-08-iran-deal-even-matter
-_id: legacy-c74263ce-15bb-4e25-bb00-6295352d1046
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-9787bfc3-9ac9-47e9-8640-e16133804150
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-08-iran-deal-even-matter/
 _createdAt: '2018-05-09T10:44:43Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-09T10:44:43+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-501f58a1-6a7c-4ff7-82ed-4ff990947f7b
+    _key: card-1-2908e42b-6f2e-41f1-84bb-e1466a3d94b5
   - order: 1
     body: >-
       ## Basics Of “The Deal”:
@@ -51,7 +51,7 @@ cards:
       **How**: International Atomic Energy Agency (U.N. watchdog) says Iran
       **complying** w/deal; Israel says found evidence Iran already
       **cheating**.
-    _key: card-2-b61f5ee6-f929-484e-8f4f-178b8365963a
+    _key: card-2-5539229e-6f30-4dba-a0c6-8c26f82e9acd
   - order: 2
     body: >-
       ## What About Terrorism?
@@ -65,7 +65,7 @@ cards:
       * Obama admin negotiated deal SOLELY on nuclear issue, relying on
       established sanctions to address Iran’s state-sponsored terror. Trump
       admin thinks this was a mistake.
-    _key: card-3-9692800c-701b-41ef-bcb7-31901a6ffc8b
+    _key: card-3-ea1d2ad4-c052-4913-9c32-01a7b0f5a652
   - order: 3
     body: >-
       ## Meanwhile, Inside Iran…
@@ -80,7 +80,7 @@ cards:
         
         
       New York Times
-    _key: card-4-b0e7a4e5-7b99-4c71-b238-ea898bb82f17
+    _key: card-4-9a94e5e7-59ba-48cb-8235-eeab1b6cdd89
   - order: 4
     body: >-
       ## What Now?
@@ -94,7 +94,7 @@ cards:
 
       * Nat. Security Advisor John Bolton says Prez’ decision **will impact
       upcoming negotiations w/ North Korea** & getting a “real deal”.
-    _key: card-5-0bf3d9d4-81e8-480a-aa2a-f322cb2346ef
+    _key: card-5-d5abb65d-1c71-4ba7-876a-d5ee2c8f4575
   - order: 5
     body: >-
       Here's the opinion of an American man formerly held prisoner by the
@@ -102,7 +102,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-08-iran-deal-even-matter/)
-    _key: card-10-7615b4ee-d0d1-4746-8069-f69c5677135a
+    _key: card-10-108fdb65-0ae7-4f0d-a6db-4dbf7fd9b9c1
 
 ---
 * **SmartHER Definition: “Iran Deal” =A A “Joint Comprehensive Plan of Action” = “JCPOA”**

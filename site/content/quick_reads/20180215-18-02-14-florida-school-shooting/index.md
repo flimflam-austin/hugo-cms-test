@@ -1,14 +1,14 @@
 ---
 title: 18.02.14 Florida School Shooting
 slug: 20180215-18-02-14-florida-school-shooting
-_id: legacy-a20c7fb5-b797-4d89-8510-36057aca0437
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-bdf3909c-a66b-4eb0-a3b3-d54102a2d615
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-14-florida-school-shooting/
 _createdAt: '2018-02-15T03:00:16Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-15T03:00:16+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
       More Than A Dozen Injured
 
       One of the Deadliest School Shootings in American History
-    _key: card-1-c9886f09-eea3-4865-b908-445313c0ac9e
+    _key: card-1-1c18938a-6e11-475a-85cc-08eb4e938f3f
   - order: 1
     body: >-
       # Marjory Stoneman Douglas High School
@@ -42,7 +42,7 @@ cards:
       * Grades 9-12; approximately 3,000 students in southeast Florida.
 
       * Home to State Championship Marching Band.
-    _key: card-2-e135880d-b46e-404a-8e89-d6e37e7b7c62
+    _key: card-2-1303e964-5e6a-4957-a08c-c7684864863b
   - order: 2
     body: >-
       ## Former Student In Custody
@@ -55,7 +55,7 @@ cards:
         
         
       Jim Gard, Math Teacher, Interview With The Miami Herald (Feb 14, 2018)
-    _key: card-3-6ff73442-158d-4a10-a6e8-1ad828f6ea90
+    _key: card-3-c8fcdc91-83ae-4ebf-8a09-33092047d857
   - order: 3
     body: >-
       ## Things To Know
@@ -68,7 +68,7 @@ cards:
 
       * Superintendent says no recent warning of impending attack, but suspect
       kicked out of school for unspecific “disciplinary reasons.”
-    _key: card-4-95a4c5fe-ba56-42bf-ba21-0d7c45a55d7c
+    _key: card-4-5e922f4c-6104-467c-989e-341b4b5280db
   - order: 4
     body: >-
       Your Family & The News
@@ -84,7 +84,7 @@ cards:
       [Click HERE For
       More](http://www.apa.org/topics/violence/school-shooting.aspx)
     citation: Click HERE For More
-    _key: card-5-1e6b9b1b-5a4b-42c1-bf29-c1187db60d6b
+    _key: card-5-d541286b-4249-42a1-82d9-042b59cd50c6
   - order: 5
     body: >-
       We Know This Isn’t Typical,  
@@ -97,7 +97,7 @@ cards:
 
       We ache for all the families devastated by this heinous act. You are in
       our hearts, our thoughts & our prayers.
-    _key: card-6-b49b1db9-94ec-4b15-b3df-ca935953a583
+    _key: card-6-3619d2b3-8839-4527-9d3c-a569ae7a66cc
   - order: 6
     body: >-
       Local news has provided some incredible photos & reporting - Read More
@@ -105,7 +105,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-14-florida-school-shooting/)
-    _key: card-10-ab30a7ec-ebe9-45df-a5f0-c4761a60ae9b
+    _key: card-10-505081af-c9e0-4eb2-b69b-41b454fd22ea
 
 ---
 * **_Beautiful read_**:A [http://www.miamiherald.com/news/local/article200187579.html](http://www.miamiherald.com/news/local/article200187579.html)

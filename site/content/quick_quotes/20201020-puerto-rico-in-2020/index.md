@@ -5,31 +5,25 @@ title: >-
   Vote Despite the Fact Residents of the u.s. Territory Cannot Vote in u.s.
   Elections.
 slug: 20201020-puerto-rico-in-2020
-_id: legacy-64d74cf1-33e6-4d6c-a920-3a705d73c37f
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-e7368a51-5c6e-4425-92cf-c5ecc7a372a7
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - article/puerto-rico-in-2020/
 _createdAt: '2020-10-20T02:54:50Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2020-10-20T02:54:50+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    a4834165b15acf7c789d616109733a8cddd4cb93-640x425.jpg
 is_breaking: false
-summary: >-
-  Florida resident Jerick Mediavilla, who will vote for the first time in a
-  presidential election this year. Both political parties court the Puerto Rican
-  vote despite the fact residents of the U.S. territory cannot vote in U.S.
-  elections.
 featured_quote:
   quote: >-
     I’m voting for 3 million Puerto Ricans on the island... Puerto Rico doesn’t
     have a voice. Our voice is via the United States.
-  citation: >-
-    Florida resident Jerick Mediavilla, who will vote for the first time in a
-    presidential election this year. Both political parties court the Puerto
-    Rican vote despite the fact residents of the U.S. territory cannot vote in
-    U.S. elections.
 
 ---
 * Puerto Rico’s 3 million inhabitants are U.S. citizens
@@ -58,7 +52,5 @@ _From the famed Borinqueneers to countless current members of the U.S. military,
 _EXCERPT:_
 
 _The idea of statehood remains **divisive in a territory** that has long bristled at the decisions of the nation that claimed it in 1898. “Puerto Ricans never asked to be colonized, never asked to be denied their Puerto Rican citizenship and never asked to have U.S. citizenship imposed on them,” writes legal professor Jacqueline N. Font-Guzmán for the Washington Post. “They are colonial subjects of the United States.”_
-
-_For Puerto Rico to become a state, it will need the support of U.S. citizens on the island and off._tates.”_
 
 _For Puerto Rico to become a state, it will need the support of U.S. citizens on the island and off._

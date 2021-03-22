@@ -1,14 +1,14 @@
 ---
 title: 18.05.25 Quick Quotes
 slug: 20180525-18-05-25-quick-quotes
-_id: legacy-6c1490b0-a54d-4d17-aece-ef13031bebfe
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-142a8ccc-b8f8-46c9-b737-151d13c7ce8b
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-25-quick-quotes/
 _createdAt: '2018-05-25T09:04:13Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-25T09:04:13+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
       NYC establishments from providing plastic straws. Several million tons of
       plastic waste sit in our oceans, but studies show less than 5% consists of
       straws.
-    _key: card-1-870c6021-ddb9-4214-8fa2-00b8d36a4a33
+    _key: card-1-550b583c-28bb-411e-9cfe-68dcfec0afc6
   - order: 1
     body: >-
       > “Atlantic Hurricane Season Outlook 2018 — 70% likelihood of 10-16 named
@@ -44,7 +44,7 @@ cards:
       Gov't forecasters at the National Oceanic Atmosphere Admin predict a
       near-normal hurricane season for the Atlantic Ocean, which runs from June
       1 to November 30.
-    _key: card-2-6ddebee8-aded-48c1-94f6-3e91b3502a60
+    _key: card-2-184f7d7e-fd84-415b-89c3-027ca8765be6
   - order: 2
     body: >-
       > ‘It wasn’t like a movie opening… it was like an earthquake.’  
@@ -61,10 +61,10 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/nH-jLrirmM8?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-3-d0da47c5-712a-4303-ac69-cf6936b52245
+    _key: card-3-7c2335bd-7c53-45e6-8262-0d0caaa2d984
   - order: 3
     body: '[view sources](https://smarthernews.com/18-05-25-quick-quotes/)'
-    _key: card-10-3d53d04c-365e-4ed5-aec8-4be60b7ed5ea
+    _key: card-10-2dbf57b6-0f3f-4f80-b6e2-6cc35009602a
 
 ---
 * **City Councilman Proposes a Ban on Plastic Straws in New York City:A**  

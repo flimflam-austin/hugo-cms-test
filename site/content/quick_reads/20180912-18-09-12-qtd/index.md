@@ -1,14 +1,14 @@
 ---
 title: Quote of the Day
 slug: 20180912-18-09-12-qtd
-_id: legacy-ac473057-0dc8-4fe8-b76e-924709b76c32
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-afb9c007-91e3-463f-a6f0-232cc5f4c96b
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-12-qtd/
 _createdAt: '2018-09-12T18:59:05Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-12T18:59:05+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       sarah zorn
     citation: sarah zorn
-    _key: card-1-ece4b421-9833-4c67-9e6b-954a370e03ff
+    _key: card-1-44568817-974f-4149-b17f-adbf5a198b02
   - order: 1
     body: >-
       In May 2018, Zorn (21) became the 1st female 'commander of cadets'
@@ -39,7 +39,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-12-qtd/)
-    _key: card-10-2d68021d-d76e-4cde-ba8c-186e701efaf1
+    _key: card-10-a6be4179-4846-407d-a177-30a64700ed90
 
 ---
 * **MUST-SEE CBS INTERVIEW WITHA ZORN & A PEEK INTO HER DAILY LIFE:**  

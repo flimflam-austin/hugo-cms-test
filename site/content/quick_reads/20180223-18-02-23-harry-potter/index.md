@@ -1,14 +1,14 @@
 ---
 title: 18.02.23 Harry Potter
 slug: 20180223-18-02-23-harry-potter
-_id: legacy-71ecebf0-4c93-45f0-aeb7-6f1e933d3d8d
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-699e3b4f-5c11-467f-8c24-60127268327b
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-23-harry-potter/
 _createdAt: '2018-02-24T13:00:01Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-24T13:00:01+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
       Expected run time of the Broadway adaption of “Harry Potter”
 
       Play staged in two parts seen on one day or on different nights.
-    _key: card-1-c4da7051-7cbe-4226-a6a2-c785d1a55aa5
+    _key: card-1-735901e2-0556-491e-bff1-627590c4adf6
   - order: 1
     body: >-
       # ‘Harry Potter and the Cursed Child”
@@ -42,7 +42,7 @@ cards:
 
       * NOT a musical but will compete against Disney’s musical adaptation of
       “Frozen”
-    _key: card-2-53742a0d-f562-4cf1-9947-d4b124e3c4bd
+    _key: card-2-8e411c6c-28ed-4741-8d1a-13ff46ddb9d0
   - order: 2
     body: >-
       # Pre-show jitters?
@@ -54,7 +54,7 @@ cards:
         
       J.K. Rowling to The New York Times about the challenges of adapting her
       best selling book series to Broadway, Feb. 21, 2018
-    _key: card-3-63e266c7-620c-4849-9953-f99c5925910b
+    _key: card-3-e11d06cd-c104-4451-a44a-0f796b0d1344
   - order: 3
     body: >-
       # Pure Magic!
@@ -71,7 +71,7 @@ cards:
 
       * **20 years** since first book “Harry Potter and the Sorcerer’s Stone”
       was published (still the bestseller of the series)
-    _key: card-4-0a1980cd-c835-4d60-b236-c110212734aa
+    _key: card-4-f3987d21-115f-4d3c-afd2-70ebb71f8819
   - order: 4
     body: |-
       # No Potter without an 8-year-old’s approval?
@@ -81,13 +81,13 @@ cards:
       Small British publisher Bloomsbury finally said yes.
 
       But only after its Chairman’s young daughter couldn’t put the book down.
-    _key: card-5-68e158cb-2ea9-4469-a426-453621e55e87
+    _key: card-5-6a677a07-83db-4af2-9268-357d646dc233
   - order: 5
     body: |-
       For More Potter-Palooza Click Here!
 
       [view sources](https://smarthernews.com/18-02-23-harry-potter/)
-    _key: card-10-fa1da3a3-c6c0-40ce-8fce-da8d922e4b6e
+    _key: card-10-77e266e6-dc7d-481e-a7f5-ac553b5836dd
 
 ---
 * About the show:A [https://www.harrypottertheplay.com/us/the-show/](https://www.harrypottertheplay.com/us/the-show/)

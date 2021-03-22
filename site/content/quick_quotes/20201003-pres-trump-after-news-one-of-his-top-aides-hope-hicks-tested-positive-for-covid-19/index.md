@@ -4,26 +4,24 @@ title: >-
   Top Aides Also Tested Positive for the Illness.
 slug: >-
   20201003-pres-trump-after-news-one-of-his-top-aides-hope-hicks-tested-positive-for-covid-19
-_id: legacy-ce2cd8a0-d959-4d10-bbfd-210b43ec9b97
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-8302bcae-70c9-4c96-a5b1-024da9f697ba
+_rev: f2cVhvAV1wntWw1uaABAwR
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/pres-trump-after-news-one-of-his-top-aides-hope-hicks-tested-positive-for-covid-19/
 _createdAt: '2020-10-02T03:44:48Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:53Z'
 date: '2020-10-02T03:44:48+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    c0bcda6074c15bec9c8f6a0f191ab57c81c9f080-799x533.jpg
 is_breaking: false
-summary: >-
-  President Trump announcing his test results hours after learning one of his
-  top aides also tested positive for the illness.
 featured_quote:
   quote: Tonight, @FLOTUS and I tested positive for COVID-19.
-  citation: >-
-    President Trump announcing his test results hours after learning one of his
-    top aides also tested positive for the illness.
 
 ---
 * The President received a test for COVID-19 on Thursday after learning one of his top aides, Hope Hicks, also tested positive.
@@ -42,4 +40,4 @@ featured_quote:
 
 The Latest on the President from the Associated Press: [READ HERE](https://apnews.com/article/virus-outbreak-donald-trump-health-archive-hope-hicks-7fece2838ff7a9bd91ccf5ac287348b3)
 
-“It’s not just a number. It’s human beings. It’s people we love.” University of Michigan professor Dr. Howard Markel as the number of global COVID-19 deaths surpasses 1 million. [CLICK HERE](https://smarthernews.com/article/university-of-michigan-professor-dr-howard-markel-as-the-number-of-global-covid-19-deaths-surpasses-1-million/)e/university-of-michigan-professor-dr-howard-markel-as-the-number-of-global-covid-19-deaths-surpasses-1-million/)
+“It’s not just a number. It’s human beings. It’s people we love.” University of Michigan professor Dr. Howard Markel as the number of global COVID-19 deaths surpasses 1 million. [CLICK HERE](https://smarthernews.com/article/university-of-michigan-professor-dr-howard-markel-as-the-number-of-global-covid-19-deaths-surpasses-1-million/)

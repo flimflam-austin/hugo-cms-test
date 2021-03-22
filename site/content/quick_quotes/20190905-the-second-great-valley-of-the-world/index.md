@@ -1,24 +1,22 @@
 ---
 title: The Second Great Valley of the World
 slug: 20190905-the-second-great-valley-of-the-world
-_id: legacy-2e80edce-f712-4754-b565-05f547433664
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-d4bc9d32-2ed0-4da1-9172-37e59af7fb53
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/the-second-great-valley-of-the-world/
 _createdAt: '2019-01-05T19:46:23Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-01-05T19:46:23+00:00'
 weight: 50
 is_breaking: false
-summary: The Second Great Valley of the World
 featured_quote:
   quote: >-
     BUT the basin of the Mississippi is the Body of The Nation. All the other
     parts are but members, important in themselves, yet more important in their
     relations to this.
-  citation: The Second Great Valley of the World
 
 ---
 * Having about eight-ninths of its area

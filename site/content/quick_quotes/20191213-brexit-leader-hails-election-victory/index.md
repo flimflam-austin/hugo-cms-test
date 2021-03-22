@@ -1,23 +1,21 @@
 ---
 title: Prime Minister Boris Johnson on Election Victory
 slug: 20191213-brexit-leader-hails-election-victory
-_id: legacy-2f10e0f8-358d-4f14-b561-ccba2c518ed4
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-242a1252-0f7c-4223-bc5c-36f22c9784fa
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/brexit-leader-hails-election-victory/
 _createdAt: '2019-12-13T17:17:29Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-12-13T17:17:29+00:00'
 weight: 50
 is_breaking: false
-summary: Prime Minister Boris Johnson on election victory
 featured_quote:
   quote: >-
     ... this election means that getting Brexit done is now the irrefutable,
     irresistible, unarguable decision of the British people.
-  citation: Prime Minister Boris Johnson on election victory
 
 ---
 * UK voters went to the polls Thursday for their third General Election in four years, handing a major victory to Prime Minister Boris Johnson and his Conservative Party, in what many are calling a Brexit triumph.

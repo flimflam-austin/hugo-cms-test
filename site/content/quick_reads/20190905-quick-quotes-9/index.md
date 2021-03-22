@@ -1,14 +1,14 @@
 ---
 title: Quick Quotes for Thursday, September 27th
 slug: 20190905-quick-quotes-9
-_id: legacy-fcda3f62-c96f-4c4f-9332-3dceebec9d26
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-15630fab-bedc-4c9e-a8b1-28c62441106f
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-9/
 _createdAt: '2018-09-27T12:32:18Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-27T12:32:18+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
       Committee, which will hear from Dr. Christine Blasey Ford on her
       allegations against Supreme Court nominee Brett Kavanaugh. He says he
       believes Kavanaugh but wants to hear from Prof. Ford.
-    _key: card-1-3021622b-71ea-4b59-839f-68b89ff5cba1
+    _key: card-1-d8772ad4-aaa1-44d0-bb2c-0ac1997864c1
   - order: 1
     body: >-
       > “I’m going to be watching, believe it or not… I’m going to see what’s
@@ -41,7 +41,7 @@ cards:
       Committee. When asked if there were conditions in which he would withdraw
       Kavanaugh's nomination to the Supreme Court, the President said, "If I
       thought he was guilty of something like this, sure."
-    _key: card-2-829599dc-9672-461f-9bc7-d570e679d3c3
+    _key: card-2-930ca265-4bea-4a02-bf18-d60f36896ba6
   - order: 2
     body: >-
       > ‘(The U.S.) wants to continue just giving orders to the world as though
@@ -54,7 +54,7 @@ cards:
       asked the UN to investigate Venezuela for crimes against humanity; the
       U.S. has sanctioned Venezuelan officials for human rights violations &
       corruption.
-    _key: card-3-301b3257-dd21-480a-8f20-1f5403e444a5
+    _key: card-3-db2b69e2-1d84-4e55-9446-ea0203212207
   - order: 3
     body: >-
       > “We’ve been able to raise rates and then wait and see how the economy
@@ -68,7 +68,7 @@ cards:
       on signs of an improving economy, raising its economic outlook. The Fed
       has gradually raised rates from near 0% following the financial crisis and
       expects one more this year & 3 hikes in 2019.
-    _key: card-4-af242676-7582-4a18-8f3f-6011cf86304a
+    _key: card-4-a62767eb-8531-4770-bfc9-0ca528d98178
   - order: 4
     body: >-
       > “We will be bringing a different voice and viewpoint to covering the
@@ -81,7 +81,7 @@ cards:
       first-ever, female team to announce an NFL game, serving as an alternative
       to Fox broadcast crew Joe Buck & Troy Aikman. Amazon will also offer a UK
       & Spanish-language broadcast.
-    _key: card-5-e489b58f-d2a8-4609-b934-0fb51ec45608
+    _key: card-5-79e61059-27d5-4fdb-815f-a49516ae5c85
   - order: 5
     body: >-
       > “Whether it is education, drug addiction, hunger, online safety or
@@ -94,7 +94,7 @@ cards:
       prepares to visit 4 African countries: Ghana, Malawi, Kenya and Egypt. She
       leaves October 1st and is connecting the trip to her "Be Best" campaign
       focusing on children's well-being.
-    _key: card-6-b4cbf50f-91cb-4dbc-b795-c6d162cc5226
+    _key: card-6-1ea965af-1651-4280-b16f-b8d6115ad805
   - order: 6
     body: >-
       > “Six people will be chosen to attempt to spend 30 hours in ‘deluxe,’
@@ -106,13 +106,13 @@ cards:
       which participants will lie in a coffin. Phones are allowed, snacks are
       provided and there are 6-minute bathroom breaks every hour. The grand
       prize? $300.
-    _key: card-7-708b7b1b-831c-4f56-a39c-dc7f1079c2b1
+    _key: card-7-c70c7d21-b681-4b9c-9d40-7c254b82e954
   - order: 7
     body: |-
       Happy Friday Eve! Have a great day!
 
       [view sources](https://smarthernews.com/quick-quotes-9/)
-    _key: card-10-318f6ee8-d60e-439a-93de-b84e84342f45
+    _key: card-10-ca2a3976-072d-4fa2-b6c8-f3d550fe119f
 
 ---
 * **I believe Kavanaugh, but I want to hear Ford: Sen. Kennedy:A**  

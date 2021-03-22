@@ -1,14 +1,14 @@
 ---
 title: 18.05.02 the Meeting Spot?
 slug: 20180501-18-05-02-meeting-spot
-_id: legacy-25de11ea-f460-4f98-b707-08136b768ddf
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-f526ae36-b27a-4c91-a25f-197e93768e4b
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-02-meeting-spot/
 _createdAt: '2018-05-02T10:57:41Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-02T10:57:41+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       FLIP: THE FRONT RUNNER
     citation: 'FLIP: THE FRONT RUNNER'
-    _key: card-1-c08500cc-ca06-4915-bac6-4afbc8485eb5
+    _key: card-1-7dc18752-6617-4bc3-b795-ab4d2c01eebc
   - order: 1
     body: >-
       # FRONT RUNNER: DMZ
@@ -48,7 +48,7 @@ cards:
 
       **Cons:** Too close to Kim’s turf? Pres. Trump may want a grander setting
       for 1st ever meeting btwn aA sitting U.S. President & N. Korean leader.
-    _key: card-2-663a406c-bdcd-4912-970f-c9273d4e5f0d
+    _key: card-2-5fb502b1-d987-4dc7-b4dd-ff31ba9a7de0
   - order: 2
     body: >-
       > ‘There’s something I like about it because you’re there, you’re actually
@@ -62,7 +62,7 @@ cards:
 
       FLIP FOR SUPRISE PICKS
     citation: FLIP FOR SUPRISE PICKS
-    _key: card-3-f853b341-9e62-4189-a013-4e5bd14c258b
+    _key: card-3-141bb5b0-6c6c-4da9-bc6c-0a558c7d9062
   - order: 3
     body: >-
       ## OTHER CONTENDERS
@@ -76,7 +76,7 @@ cards:
       take several days.
 
       * **Longer shots:** Neutral European cities like **Geneva** orA **Oslo.**
-    _key: card-4-2000e60c-5613-4f08-82b0-84c13190f80f
+    _key: card-4-9abb82ea-7d78-4cc1-b9c8-f7dad569e579
   - order: 4
     body: >-
       Millions watched Kim & S. Korea's President meet on Friday (1st meeting in
@@ -85,7 +85,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-02-meeting-spot/)
-    _key: card-10-b55436db-7a0b-4db3-9514-63e123bf9ad3
+    _key: card-10-c37e51f5-9265-461e-86b7-b4a4cb801602
 
 ---
 * **Sources tell CNN:A Kim Jong Un agrees to meet Donald Trump at DMZ:** [https://www.cnn.com/2018/04/30/asia/trump-kim-summit-dmz/index.html](https://www.cnn.com/2018/04/30/asia/trump-kim-summit-dmz/index.html)

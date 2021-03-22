@@ -1,14 +1,14 @@
 ---
 title: 18.10.02 Qtd
 slug: 20181002-18-10-02-qtd
-_id: legacy-6d8f32cf-cdd0-44b3-bed0-6fccc062d22e
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-186425f6-768e-4fa7-ab25-5e69b025561f
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-10-02-qtd/
 _createdAt: '2018-10-02T11:43:15Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-10-02T11:43:15+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       Ashley Hoff
     citation: Ashley Hoff
-    _key: card-1-3c1cf6fa-6233-48e4-94ac-ee7305d42932
+    _key: card-1-d51e1f0f-5ce4-40a5-a696-85b24bbef691
   - order: 1
     body: >-
       Hoff and her husband sat in the fourth row at the Route 91 Harvest Music
@@ -38,7 +38,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-10-02-qtd/)
-    _key: card-10-e5691d59-3716-45a4-ac8c-b05234eef1f7
+    _key: card-10-f9438502-fb37-4317-8c9b-ff7b8f1d8c1d
 
 ---
 * **I Survived The Las Vegas Shooting. One Year Later, Here’s What I’ve Learned.:** [https://www.refinery29.com/en-us/2018/10/212628/las-vegas-concert-shooting-survivor-essay-gun-violence](https://www.refinery29.com/en-us/2018/10/212628/las-vegas-concert-shooting-survivor-essay-gun-violence)

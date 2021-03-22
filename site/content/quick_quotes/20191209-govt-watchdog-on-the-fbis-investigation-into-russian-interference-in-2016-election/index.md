@@ -4,29 +4,23 @@ title: >-
   Election
 slug: >-
   20191209-govt-watchdog-on-the-fbis-investigation-into-russian-interference-in-2016-election
-_id: legacy-5049d2ac-adc3-4ac7-98e6-ea37a454f8c2
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-52451d82-9c48-477d-a6f5-95a1664d0570
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/govt-watchdog-on-the-fbis-investigation-into-russian-interference-in-2016-election/
 _createdAt: '2019-12-10T02:24:34Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-12-10T02:24:34+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  Gov’t watchdog on the FBI’s investigation into Russian interference in 2016
-  election
 featured_quote:
   quote: >-
     We did not find documentary or testimonial evidence that political bias or
     improper motivation influenced the decisions to open the four individual
     investigations.
-  citation: >-
-    Gov’t watchdog on the FBI’s investigation into Russian interference in 2016
-    election
 
 ---
 * The Department of Justice Inspector General concluded the FBI’s decisions to open the investigation (and related investigations into four current and former members of the Trump campaign) were free from “political bias” and initiated in compliance with FBI policies.

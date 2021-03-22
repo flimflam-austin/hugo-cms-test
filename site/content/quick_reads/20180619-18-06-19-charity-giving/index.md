@@ -1,14 +1,14 @@
 ---
 title: 18.06.19 Charity Giving
 slug: 20180619-18-06-19-charity-giving
-_id: legacy-1c3d9c0c-7fee-45fe-9823-5e63b0c6c312
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-0707dcce-086f-44c3-badb-201df8555936
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-19-charity-giving/
 _createdAt: '2018-06-19T10:45:36Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-19T10:45:36+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Feeling Generous?
     citation: Feeling Generous?
-    _key: card-1-488e5116-c652-40c3-a1b0-b887ef60cbc6
+    _key: card-1-2fc24654-8e47-4ece-85b4-97d05911fb97
   - order: 1
     body: >-
       ## STUDY RESULTS
@@ -48,7 +48,7 @@ cards:
 
       * **Foundation donations up 15%**, driven by mega giftsA Michael Dell
       ($1B) & Mark Zuckerberg ($2B).
-    _key: card-2-e9660527-30d0-46d7-ad73-0837179c3119
+    _key: card-2-0c529f74-452b-4a59-ab42-5f030b40b2ea
   - order: 2
     body: >-
       ## WHY IT MATTERS
@@ -68,7 +68,7 @@ cards:
 
       * This as we learn millionaires & billionaires hold almost half of global
       personal wealth.
-    _key: card-3-3d6971cf-c74e-46a1-87b3-7f4719e71435
+    _key: card-3-182615ec-2cc6-41cc-ae29-b7b753079b0b
   - order: 3
     body: >-
       Need another reason to give? A study last year shows being generous really
@@ -76,7 +76,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-19-charity-giving/)
-    _key: card-10-57cce743-195f-471e-8077-4520e57b59aa
+    _key: card-10-67c51517-b84f-4329-94e1-104172dea28e
 
 ---
 * **Charitable giving in US tops $400 billion for first time:**  

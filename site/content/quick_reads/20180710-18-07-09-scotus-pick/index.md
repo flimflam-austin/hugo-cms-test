@@ -1,14 +1,14 @@
 ---
 title: 18.07.09 Scotus Pick
 slug: 20180710-18-07-09-scotus-pick
-_id: legacy-9e10b77e-409d-41bf-a89d-22c7fad680b1
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-d838a5b6-f4b8-4f27-bd89-f6e9db0da04b
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-09-scotus-pick/
 _createdAt: '2018-07-10T11:49:54Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-10T11:49:54+00:00'
 weight: 50
 card_series: From the President's Desk
@@ -24,7 +24,7 @@ cards:
 
       Pres. Trump nominated Justice Anthony Kennedy’s former law clerk to fill
       his seat.
-    _key: card-1-96e901b9-9e69-4541-8b92-99535b48d506
+    _key: card-1-45ccf5b8-1677-4815-b940-09cff4e6fd11
   - order: 1
     body: >-
       ## Brett Kavanaugh: The Man
@@ -42,7 +42,7 @@ cards:
       counsel for Pres. Bush
 
       * Ran the Boston Marathon twice
-    _key: card-2-d9b3ea91-89f6-4954-b9bb-4e57bf89eb8b
+    _key: card-2-2618c9f0-e2a7-4c0c-950c-43e37c318bca
   - order: 2
     body: >-
       ## Kavanaugh: The Jurist
@@ -57,7 +57,7 @@ cards:
 
       * Hired by Obama nominee & “liberal” Justice Elena Kagan to teach at
       Harvard Law School
-    _key: card-3-af4c8b27-079d-495d-a366-e26eefe4e3e3
+    _key: card-3-0f1a851e-4d4c-4230-9676-d821799d12b3
   - order: 3
     body: >-
       ## CRITICS
@@ -74,7 +74,7 @@ cards:
       [Watch It
       Here](https://www.c-span.org/video/?c4738584/full-schumer-kavanaugh)
     citation: Watch It Here
-    _key: card-4-3e4981a4-62b9-4925-83b5-0c10024eb633
+    _key: card-4-7e366e18-83bf-4491-9826-5d9ed23fda8b
   - order: 4
     body: >-
       # So Now What?
@@ -88,7 +88,7 @@ cards:
       [Click: SHN Refresher SCOTUS
       Process](https://smarthernews.com/18-07-09-scotus-new-justice-pick/)
     citation: 'Click: SHN Refresher SCOTUS Process'
-    _key: card-5-fc655117-c3d7-4091-8df7-ec590c56c9e7
+    _key: card-5-aa4aa45d-015f-423c-b983-2fc4e0e6f98d
   - order: 5
     body: >-
       Kavanaugh served as a law clerk for Justice Kennedy alongside Pres.
@@ -98,7 +98,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-09-scotus-pick/)
-    _key: card-10-59405e5f-fb54-4245-9dfe-6d5b8641ec7f
+    _key: card-10-2ed7de58-66f1-4fd7-ab5a-e9ba1f7a2ac1
 
 ---
 * **President Donald J. Trump Announces Intent to Nominate Judge Brett M. Kavanaugh to the Supreme Court of the United States:** [https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-intent-nominate-judge-brett-m-kavanaugh-supreme-court-united-states/](https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-intent-nominate-judge-brett-m-kavanaugh-supreme-court-united-states/)

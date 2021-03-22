@@ -1,14 +1,14 @@
 ---
 title: A New Era for America & Mexico?
 slug: 20181203-18-12-3-this-weekend-in-mexico
-_id: legacy-4d296139-e86f-48ff-b4ed-18922795004a
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-5771fda9-718f-46cb-98c2-e23c2971e0f4
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 18-12-3-this-weekend-in-mexico/
 _createdAt: '2018-12-03T12:50:23Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-12-03T12:50:23+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-12-3-this-weekend-in-mexico/)
-    _key: card-10-ab0d75d6-033f-49b2-8248-097e73deb818
+    _key: card-10-afca88ca-3c49-43a5-b6c8-48f176b51b51
 
 ---
 * SmartHER Read: Mexico’s New President:  

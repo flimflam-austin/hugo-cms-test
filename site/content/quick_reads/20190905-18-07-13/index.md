@@ -1,14 +1,14 @@
 ---
 title: 18.07.13 Qq
 slug: 20190905-18-07-13
-_id: legacy-1cc4f635-bfdb-46c9-80c8-4ab49556d370
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-e3947ddd-f745-4782-999d-c401b51d748e
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-07-13/
 _createdAt: '2018-07-13T11:00:14Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-07-13T11:00:14+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
       Jenner. Forbes writes the 21-year-old is "set to be the youngest-ever
       self-made billionaire." Dictionary.com says searches for "self-made" were
       up 18,628 percent Wednesday when cover story broke.
-    _key: card-1-c7436b2a-7108-464b-9794-09633ce6ac9c
+    _key: card-1-54f02c4f-72d2-46e1-8f30-d6c9efa3e410
   - order: 1
     body: >-
       > “I wouldn’t call it a mystery, but I would say that it’s a bit of a
@@ -44,7 +44,7 @@ cards:
       we are paying more for basic goods, effectively wiping out the real-life
       impact of wage gains. Powell says he doesn't know why wages aren't going
       up faster, considering workers are more in demand.
-    _key: card-2-b3edb017-a919-435b-b6f3-cdd2cd56de13
+    _key: card-2-458420ee-142b-4a5b-8885-e5ca48ba0217
   - order: 2
     body: >-
       > ‘Let me be clear, unequivocally and under oath: not once in my 26 years
@@ -58,7 +58,7 @@ cards:
       one time, Strzok's text messages revealed criticisms of officials of both
       parties, but most notably the President who he called an idiot and said he
       would stop from assuming office.
-    _key: card-3-f3337348-5004-47b9-b9fb-f3f00874cae3
+    _key: card-3-20fae5af-5138-4b25-8da7-fb9daad7fb8c
   - order: 3
     body: >-
       > ‘He was sort of the guy that would argue both sides. I don’t think he
@@ -71,13 +71,13 @@ cards:
       Court Justice nominee Brett Kavanaugh. Christmas, an African-American,
       said the two would often discuss minority issues. Christmas also says
       Kavanaugh was a bland eater & has limited dance moves.
-    _key: card-4-d437053b-d29f-4e04-b13c-e2ef2a45c54e
+    _key: card-4-aa6dd269-0143-4166-86f8-6655e26a3a24
   - order: 4
     body: |-
       Cheers! TGIF
 
       [view sources](https://smarthernews.com/18-07-13/)
-    _key: card-10-ec9c47ab-4268-4933-938c-e1ff5c7b86a9
+    _key: card-10-5fd1f4f2-c7f8-44de-9484-03d65c0cb18e
 
 ---
 * **No, Dictionary.com didn’t throw shade at Kylie Jenner**A [https://mashable.com/2018/07/12/kylie-jenner-dictionary-self-made/?europe=true&utm_cid=mash-com-Tw-main-link#hWMGgVuYYPqg](https://mashable.com/2018/07/12/kylie-jenner-dictionary-self-made/?europe=true&utm_cid=mash-com-Tw-main-link#hWMGgVuYYPqg)

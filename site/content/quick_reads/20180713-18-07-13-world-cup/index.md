@@ -1,14 +1,14 @@
 ---
 title: 18.07.13 World Cup
 slug: 20180713-18-07-13-world-cup
-_id: legacy-7da9da7a-c163-4f4e-85b6-e434a217fa14
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-d4b10aab-5844-4d84-889b-c08c58bcf811
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-13-world-cup/
 _createdAt: '2018-07-13T11:05:54Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-13T11:05:54+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Moscow: 11AM est
     citation: 'Moscow: 11AM est'
-    _key: card-1-db03f838-ab45-4342-8831-e6c358f89737
+    _key: card-1-50dbf2a0-db95-4a04-8663-c2529bebdad1
   - order: 1
     body: >-
       ## CROATIA
@@ -47,7 +47,7 @@ cards:
 
       * Team will finally get to wearA famed (& favored) red & white shirts for
       the first time in a month (because they clashed with opponents).
-    _key: card-2-6d54290d-e85c-4f2b-bfc6-f5f170bab220
+    _key: card-2-10cbe1af-5f0a-469f-82c7-06e9284130f3
   - order: 2
     body: >-
       ## FRANCE
@@ -60,7 +60,7 @@ cards:
 
       * OneA CBS analyst described the team as a “terrific blend ofA youth,
       experience, speed & strength.”
-    _key: card-3-2eab47b6-8618-48a8-8416-60ee02453904
+    _key: card-3-e42c585e-d30f-4464-929c-9bf4e4d2f644
   - order: 3
     body: >-
       The US men's team failed to qualify for this year's tournament for the
@@ -70,7 +70,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-13-world-cup/)
-    _key: card-10-b3fece67-7e7e-4153-b456-c4fe5ce998c4
+    _key: card-10-a211bd85-0176-4f5d-997b-9c5914eb6ce5
 
 ---
 * World Cup: France vs. Croatia:  

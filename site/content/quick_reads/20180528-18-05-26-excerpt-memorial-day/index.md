@@ -1,14 +1,14 @@
 ---
 title: 18.05.26 Excerpt for Memorial Day
 slug: 20180528-18-05-26-excerpt-memorial-day
-_id: legacy-44dd5c8f-5123-4802-b352-df2013336fd6
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-beaab7ae-7662-4158-9ce2-ff5c5a33a51a
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-26-excerpt-memorial-day/
 _createdAt: '2018-05-26T14:46:54Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-26T14:46:54+00:00'
 weight: 50
 featured_image:
@@ -31,13 +31,13 @@ cards:
         
         
       Jenna Lee Babin, Founder, SmartHER News in a personal Memorial Day essay
-    _key: card-1-f3c2f93f-baa4-4e80-bc45-5d7aa65e983f
+    _key: card-1-5eedf3c3-1fb6-47b1-93b0-93e332a22a59
   - order: 1
     body: |-
       Read the essay
 
       [view sources](https://smarthernews.com/18-05-26-excerpt-memorial-day/)
-    _key: card-10-add3323c-e448-423b-98dc-28ae50e8f2bb
+    _key: card-10-0ba30bde-cf25-4cc3-b5fa-b48a434a5143
 
 ---
 Memorial Day:

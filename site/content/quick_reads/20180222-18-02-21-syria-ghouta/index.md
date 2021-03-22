@@ -1,14 +1,14 @@
 ---
 title: 18.02.21 Syria Ghouta
 slug: 20180222-18-02-21-syria-ghouta
-_id: legacy-359189ee-1a02-4877-95f1-24cdf56e33c2
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-711c151b-8ec3-46c7-821c-ef92d6da38f8
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-21-syria-ghouta/
 _createdAt: '2018-02-22T04:48:06Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-22T04:48:06+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       * Bombings intensified THIS week as Syrian gov’t targets Ghouta, an
       eastern suburb of Damascus.
-    _key: card-1-469f1aef-347b-49c3-a72c-5f3fafbdeba6
+    _key: card-1-fe349a1e-d161-4e64-92ea-49f220ffe171
   - order: 1
     body: >-
       # Ghouta = “GOO-Ta”
@@ -44,7 +44,7 @@ cards:
 
       **Damascus:** Capital of Syria & home to 1.7 million.A World heritage site
       & center of gov’t led by President Assad.
-    _key: card-2-194ed68b-7831-430e-ae52-cd8f89470d82
+    _key: card-2-4eaa7bf1-ea41-4cf9-af85-b266c1c13122
   - order: 2
     body: >-
       ## Why is Ghouta the target?
@@ -56,7 +56,7 @@ cards:
       (who is helped by Russia & Iran).
 
       * Syrian gov’t allegedly attacked same area with chemical weapons in 2013.
-    _key: card-3-7cb30ff0-0301-4ea5-80be-af730fbe769c
+    _key: card-3-61ab3090-b35a-4874-8cec-0144166b7ecc
   - order: 3
     body: >-
       # War Crimes on an “Epic Scale”
@@ -68,7 +68,7 @@ cards:
         
         
       Amnesty International
-    _key: card-4-3e3641ce-ee76-47b1-9121-ba11e86fab87
+    _key: card-4-be59f194-5a9d-42d3-8772-7003d7c3a978
   - order: 4
     body: >-
       # Russia’s Role
@@ -84,7 +84,7 @@ cards:
 
       [Click HERE For More](http://www.bbc.com/news/world-europe-43125506)
     citation: Click HERE For More
-    _key: card-5-9bde75d2-40d8-4717-84af-1d4419b5c53d
+    _key: card-5-ab5e9332-2a0c-4afd-abb6-ba03a83bbff2
   - order: 5
     body: >-
       Chilling Warning:  
@@ -98,7 +98,7 @@ cards:
         
       Pro-Assad Commander to Reuters - Syria asserts its targeting terrorists
       not civilians.
-    _key: card-6-6fe6a302-7310-4715-b1cb-1d8c3005b4aa
+    _key: card-6-a20b2ff6-3d20-4a5b-9f52-68af017cc15d
   - order: 6
     body: >-
       ## White House Supports UN Action
@@ -112,7 +112,7 @@ cards:
         
       WH Press Secretary on Syrian Regime Attacks in Eastern Ghouta, Feb 21,
       2018
-    _key: card-7-f9e0cbb3-00cd-4023-a3a7-6584168ea399
+    _key: card-7-1cd8ccec-1ec8-4d89-9256-9cd1c257ad80
   - order: 7
     body: >-
       # America & Syria
@@ -126,7 +126,7 @@ cards:
 
       * ICYMI: US military came under attack by pro-Assad forces at the “Syrian
       Democratic Forces” headquarters on Feb. 7, 2018. Fierce fighting followed.
-    _key: card-8-a6d81cbc-dfa5-4f75-b4bb-dc78d68af685
+    _key: card-8-cacdb2af-724b-4fe1-949c-6a6463a13998
   - order: 8
     body: |-
       What Can Be Done?  
@@ -136,13 +136,13 @@ cards:
       * Cease-fire would be used to deliver aid, evacuate sick & wounded
       * Russia calls cease-fire “unrealistic.”
       * Remains to be seen if UN resolution would be honored or effective.
-    _key: card-9-8db55171-1753-4301-9f29-7febac445de1
+    _key: card-9-111bfab2-9dff-4f69-a596-b3760c46f8d8
   - order: 9
     body: |-
       Complicated & Deadly: Conflict In Syria important to watch
 
       [view sources](https://smarthernews.com/18-02-21-syria-ghouta/)
-    _key: card-10-ad72fe5f-2054-48e7-86de-e1725f1fb4b5
+    _key: card-10-457173aa-1598-463f-ba03-d2b022447c84
 
 ---
 * Map & updates from the Associated Press:  

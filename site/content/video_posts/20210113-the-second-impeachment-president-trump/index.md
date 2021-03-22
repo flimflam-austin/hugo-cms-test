@@ -1,19 +1,23 @@
 ---
 title: 'The Second Impeachment: Pres. Trump'
 slug: 20210113-the-second-impeachment-president-trump
-_id: legacy-c3c64f7c-2684-4f80-b98f-e2756cfd4566
-_rev: XOnQP8cIThhnw9BWFxY3xh
+_id: legacy-57c5e692-8ff5-4065-976e-518aae2612e1
+_rev: O8E8pz1fLwnc3fN7JVF8RC
 type: video_posts
 draft: false
 aliases:
   - article/the-second-impeachment-president-trump/
 _createdAt: '2021-01-14T02:02:31Z'
-_updatedAt: '2021-03-16T13:06:02Z'
+_updatedAt: '2021-03-22T13:12:00Z'
 date: '2021-01-14T02:02:31+00:00'
 weight: 50
-video_series: Spotlight
+featured_image:
+  alt: Featured article image
+  url: >-
+    73dc34139f401dd7764dbea6b54e68e4e548adc9-857x1024.jpg
+video_series: Coffee Talk
 
 ---
-{{< youtube IHAEUyJ0emg >}}
+{{< youtube id=\IHAEUyJ0emg\ title=\2nd Impeachment of Pres. Trump: What Happened, Why It Matters, What's Next\ >}}
 
-Here’s the [Article of Impeachment](https://int.nyt.com/data/documenttools/articles-impeachment-trump-xml/b0422e292cebafda/full.pdf) – [CLICK HERE](https://www.nytimes.com/interactive/2021/01/11/us/articles-impeachment-trump.html)ebafda/full.pdf) – [CLICK HERE](https://www.nytimes.com/interactive/2021/01/11/us/articles-impeachment-trump.html)
+Here’s the [Article of Impeachment](https://int.nyt.com/data/documenttools/articles-impeachment-trump-xml/b0422e292cebafda/full.pdf) – [CLICK HERE](https://www.nytimes.com/interactive/2021/01/11/us/articles-impeachment-trump.html)

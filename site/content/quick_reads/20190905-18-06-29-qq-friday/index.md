@@ -1,14 +1,14 @@
 ---
 title: 18.06.29 Qq Friday
 slug: 20190905-18-06-29-qq-friday
-_id: legacy-c9536f2a-ee7c-46ca-ac4a-74e167aedc05
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-3c9394e5-716d-424f-bc7d-7c932c656b04
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-06-29-qq-friday/
 _createdAt: '2018-06-29T09:37:20Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-06-29T09:37:20+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
         
       House Oversight Committee Chairman Trey Gowdy (R-SC) to Acting Deputy
       Attorney General Rod Rosenstein during a hearing on the Mueller probe.
-    _key: card-1-f5e721fa-2977-4d84-9bc7-f47052309edf
+    _key: card-1-9b90f9ac-a569-4913-9746-49eef49a48c7
   - order: 1
     body: >-
       > “There is nothing more terrifying than hearing multiple people get shot
@@ -41,7 +41,7 @@ cards:
       Phil Davis, police reporter for the Capital Gazette in Annapolis,
       Maryland, in a tweet about the mass shooting that took place at his
       office, which left five people dead and dozens others gravely injured.
-    _key: card-2-31cceadf-09ac-4682-b18b-cdd08a0045c0
+    _key: card-2-24d61152-55ae-4d89-99ae-93af1b68a120
   - order: 2
     body: >-
       > ‘Infrastructure improvements continue at Yongbyon.A Underscores reason
@@ -54,7 +54,7 @@ cards:
       a nuke site show its business as usual until Pyongyang issues orders
       otherwise. Pres. Trump & Kim Jong Un agreed to denuclearization 2 weeks
       ago.
-    _key: card-3-61669ae8-a0bd-460c-a058-b96174fc0120
+    _key: card-3-b1a24a96-b1df-47a0-8e66-e4f3a31e09a0
   - order: 3
     body: >-
       > ‘We cannot lose even one inch of the territory left behind by our
@@ -70,7 +70,7 @@ cards:
 
       [SMARTHER Refresher](https://smarthernews.com/18-06-11-china-mischief/)
     citation: SMARTHER Refresher
-    _key: card-4-9054b148-7597-4a49-940d-37d43d453ade
+    _key: card-4-8c9c49dd-d268-4983-bee1-1142cd919e18
   - order: 4
     body: >-
       > ‘I’m proud to have been arrested with them to put myself in the camp of
@@ -84,13 +84,13 @@ cards:
       Rep. Pramila Jayapal (D-WA), one of 500+ protesters arrested during a
       #WomenDisobey rally in D.C. against President Trump's immigration
       policies.
-    _key: card-5-42e8dcda-d4e4-4234-b5a2-02ec05dc6dcf
+    _key: card-5-35a93448-ed2a-4771-9347-32446fcf6717
   - order: 5
     body: |-
       Have a wonderful weekend!
 
       [view sources](https://smarthernews.com/18-06-29-qq-friday/)
-    _key: card-10-f7067ef3-995e-4659-abd6-54dd4b1ceed2
+    _key: card-10-36ddd749-530e-4322-82c4-35a9155886a0
 
 ---
 * **Gowdy on Mueller Probe: “Whatever You Got, Finish It The Hell Up”:**A [https://www.realclearpolitics.com/video/2018/06/28/gowdy_to_mueller_whatever_you_got_finish_it_the_hell_up.html](https://www.realclearpolitics.com/video/2018/06/28/gowdy_to_mueller_whatever_you_got_finish_it_the_hell_up.html)

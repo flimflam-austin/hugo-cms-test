@@ -1,14 +1,14 @@
 ---
 title: 18.02.19 Sex in the City Governor Run
 slug: 20180319-18-02-19-sex-city-governor-run
-_id: legacy-9833347b-38b8-477d-8483-b583aa5209d9
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-34a2c476-01a5-4d63-853b-a415cafa2c4b
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-19-sex-city-governor-run/
 _createdAt: '2018-03-20T12:00:13Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-20T12:00:13+00:00'
 weight: 50
 featured_image:
@@ -39,7 +39,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/SiOo4C2CiRQ?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-61036178-fb19-4da4-a716-545960d283d5
+    _key: card-1-cfd793cd-6a23-4199-a1f7-28cbb434354f
   - order: 1
     body: |-
       Cynthia Nixon  
@@ -51,7 +51,7 @@ cards:
       * Public activist on education & LGBT issues.
       * Equality (economic & otherwise) = major theme of campaign.
       * Has never run for elected office.
-    _key: card-2-76fa7f00-acb7-415c-8680-b4aa5036ccc6
+    _key: card-2-da01ca39-1898-4471-a61f-46b2f0bedca5
   - order: 2
     body: >-
       Why You Should Care:
@@ -71,7 +71,7 @@ cards:
 
       * Watching who wins $$ & support **may provide insight into direction of
       Democratic Party.A**
-    _key: card-3-b68356f0-75ee-43c8-932e-8f495b7dfc02
+    _key: card-3-9e759a3e-205a-42df-ad1b-f7ff69373ce1
   - order: 3
     body: >-
       ## Another Reason To Care
@@ -83,7 +83,7 @@ cards:
 
       The MTA – Metropolitan Transit Authority – includes all New York City
       subways and state trains into-and-out of NYC.
-    _key: card-4-3b4eed4a-c902-4a9d-832b-418e3c3fbac9
+    _key: card-4-fe17a3e9-a841-4582-a699-fcfb76ba1f1b
   - order: 4
     body: >-
       Actress who played Charlotte in Sex In The City was the first to support
@@ -92,7 +92,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-19-sex-city-governor-run/)
-    _key: card-10-9615324f-8815-4f93-8e34-8af21d32660d
+    _key: card-10-c5454c30-7bdb-4509-a59b-3a9c8fd04c7b
 
 ---
 * ‘Sex and the City’ actress Cynthia Nixon to run for New York governorA [https://www.reuters.com/article/us-new-york-governor-cynthianixon/sex-and-the-city-actress-cynthia-nixon-to-run-for-new-york-governor-idUSKBN1GV2HU](https://www.reuters.com/article/us-new-york-governor-cynthianixon/sex-and-the-city-actress-cynthia-nixon-to-run-for-new-york-governor-idUSKBN1GV2HU)

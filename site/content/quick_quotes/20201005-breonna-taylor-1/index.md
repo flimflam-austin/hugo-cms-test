@@ -3,25 +3,19 @@ title: >-
   Louisville Metro Council President on the Unanimous Vote in Favor of Breonna's
   Law, Which Will Ban 'No-Knock' Warrants in the Kentucky City.
 slug: 20201005-breonna-taylor-1
-_id: legacy-503e9d68-7778-43b8-a301-9ead5352449b
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-12bce56e-426c-4ab8-9a18-f391cb1dea84
+_rev: O8E8pz1fLwnc3fN7JVFAJC
 type: quick_quotes
 draft: false
 aliases:
   - article/breonna-taylor-1/
 _createdAt: '2020-06-12T18:34:56Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2020-06-12T18:34:56+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  Louisville Metro Council President on the unanimous vote in favor of Breonna’s
-  Law, which will ban ‘no-knock’ warrants in the Kentucky city.
 featured_quote:
   quote: I am proud that we are first in justice for all.
-  citation: >-
-    Louisville Metro Council President on the unanimous vote in favor of
-    Breonna’s Law, which will ban ‘no-knock’ warrants in the Kentucky city.
 
 ---
 * In March, Breonna Taylor, a 26-year-old EMT, was killed after she was shot multiple times by police inside her Louisville, KY home after police conducting a drug investigation entered using a ‘no-knock’ warrant, meaning they were not required to identify themselves before entering her home.

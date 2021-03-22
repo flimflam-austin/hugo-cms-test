@@ -1,14 +1,14 @@
 ---
 title: 18.02.08 Louboutin
 slug: 20180211-18-02-08-louboutin
-_id: legacy-8cc24975-645c-4c91-903e-1c56a573d151
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-946f7231-86fd-43eb-a6f6-f8001ec2f5e5
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-08-louboutin/
 _createdAt: '2018-02-09T21:52:33Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-09T21:52:33+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Click Here To Flip
     citation: Click Here To Flip
-    _key: card-1-1816f7a7-0d4e-48a5-a309-db629a740529
+    _key: card-1-7a131e19-96b4-4185-a4ac-4bb18427e798
   - order: 1
     body: >-
       # Why This Matters?
@@ -46,7 +46,7 @@ cards:
 
       * Now, EU court adviser says Louboutin’s EU trademark might be invalid. A
       ruling is expected shortly.
-    _key: card-2-f0a0a1e6-f65c-4258-bb64-dd7d4047b7f5
+    _key: card-2-ff20a19d-f3ce-480d-a4ec-830ec7e388fa
   - order: 2
     body: >-
       # Red Sole Battle In U.S.
@@ -56,7 +56,7 @@ cards:
       red-soled shoes was valid, EXCEPT when the shoe itself is red too –
       meaning the trademark doesn’t apply to red monochromatic shoes (i.e.
       Dorothy’s red slippers in The Wizard of Oz).
-    _key: card-3-60742b4c-a7c6-4cb6-a217-d5e3c8bcfca3
+    _key: card-3-d7f5a5a9-88fc-404a-ad23-4157e1f7bf95
   - order: 3
     body: >-
       # Did You Know?
@@ -64,7 +64,7 @@ cards:
 
       The American woman owns, on average,**A 19** pairs of shoes, but only
       wears **4** on a regular basis (Consumer Reports).
-    _key: card-4-f5432418-6dd4-4add-b0db-c8d6bd0d40c9
+    _key: card-4-b26f637e-9d77-40cd-bfcf-ebc0eb91613e
   - order: 4
     body: >-
       # Did You Know?
@@ -72,13 +72,13 @@ cards:
 
       In 1986, when the former First Lady of the Philippines Imelda Marcos fled
       and went into exile, she left behind at least **1,200** pairs of shoes.
-    _key: card-5-ce1265a7-5146-46bb-b6a5-91a53897d859
+    _key: card-5-5017fb50-ab2e-4a2c-8650-9dc23555c741
   - order: 5
     body: "> “I don’t wear my heels in the shower or when I sleep a\x13 and I wear my little tennis shoes when I do my treadmill a\x13 but when I go out, of course I will. That’s my look and that’s how I’m always gonna be.”  \n  \n  \n  \nDolly Parton on rumor she wears heels in the shower (Guardian, 2011)"
-    _key: card-6-2a4a24ef-df8e-4442-a021-0d52e9793f6d
+    _key: card-6-a3a1cbb4-c3d8-4ff7-9bf2-142db3148d56
   - order: 6
     body: '[view sources](https://smarthernews.com/18-02-08-louboutin/)'
-    _key: card-10-697d4587-ab75-4d94-bd41-9ff55b37736f
+    _key: card-10-21153cf7-f78a-4c39-acf6-7f8bfc43da55
 
 ---
 [Could Christian Louboutin’s Red Sole Trademark Be Invalid?](http://www.vogue.co.uk/article/)

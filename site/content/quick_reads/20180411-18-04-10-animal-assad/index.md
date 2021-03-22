@@ -1,14 +1,14 @@
 ---
 title: 18.04.10 Animal Assad
 slug: 20180411-18-04-10-animal-assad
-_id: legacy-06a648f8-7846-4d44-bffe-9d46043fba1e
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-09cca33d-bf76-45be-9e9f-808763b4c0b2
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-10-animal-assad/
 _createdAt: '2018-04-11T10:30:46Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-11T10:30:46+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       How Did We Get Here?
     citation: How Did We Get Here?
-    _key: card-1-75919295-a2eb-47a0-8004-47ce9edac3db
+    _key: card-1-8ca87742-d328-4862-a527-996f187be66d
   - order: 1
     body: >-
       ## Syria: By The Numbers
@@ -51,7 +51,7 @@ cards:
 
       **2,000:** Approx # of U.S. troops working in Syria to defeat
       ISIS.**400,000 – 500,000**: Estimated deaths since war began.
-    _key: card-2-c08eb2ea-d4e7-4098-bc66-07f9451b7c39
+    _key: card-2-c67f4e18-02cf-4880-ac51-c4573866c049
   - order: 2
     body: >-
       > ‘Due to the possible launch of air strikes into Syria with air-to-ground
@@ -63,7 +63,7 @@ cards:
         
         
       EuroControl, Air Traffic - European Continent (Reuters)
-    _key: card-3-70103fdf-401b-4bd6-94fa-c60d34efcd89
+    _key: card-3-f121db17-ba1f-46eb-a1ae-710a584a69cf
   - order: 3
     body: >-
       ## Why We Watch:
@@ -81,7 +81,7 @@ cards:
 
       Then What? Flip
     citation: Then What? Flip
-    _key: card-4-54098fce-0591-4ac4-838a-0b33bdb311ee
+    _key: card-4-6bbc3ff2-ea44-4b09-89cc-bd483af4eb79
   - order: 4
     body: >-
       ## Potential For Fireworks:
@@ -99,13 +99,13 @@ cards:
         
         
       Pres. Trump, Twitter, April 8, 2018
-    _key: card-5-d3b194ac-ff13-4e0d-b6d1-40139f8827d6
+    _key: card-5-dd2d0b6c-cc4f-41a7-aea9-117711c6e3ed
   - order: 5
     body: |-
       Need one good catch-up on Syria? We found it:
 
       [view sources](https://smarthernews.com/18-04-10-animal-assad/)
-    _key: card-10-8266a42d-a663-4ed7-a08c-28f705b76e5c
+    _key: card-10-914b6e99-5136-4182-8572-efb5cd224418
 
 ---
 * **CHEAT SHEET:** Syria’s civil war has been raging for 7 years and no end in sight: [https://www.usatoday.com/story/news/world/2018/03/14/syrias-war-enters-eighth-year/423821002/](https://www.usatoday.com/story/news/world/2018/03/14/syrias-war-enters-eighth-year/423821002/)

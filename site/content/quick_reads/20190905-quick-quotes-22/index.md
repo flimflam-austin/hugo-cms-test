@@ -1,14 +1,14 @@
 ---
 title: Quick Quotes for December 7, 2018
 slug: 20190905-quick-quotes-22
-_id: legacy-b1527e84-5517-4e5b-b9fb-dfb054f09d25
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-1a657ffd-714e-4939-a828-580d311b110a
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-22/
 _createdAt: '2018-12-07T13:02:11Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-12-07T13:02:11+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
       cancelled plans for a fuel tax increase, but protestors vow to continue,
       fighting what they say is a high cost of living in France & a gov't that
       favors the rich.
-    _key: card-1-170a7b0f-c5cd-46df-a530-544dad60ca6c
+    _key: card-1-30f76d99-37f8-41eb-86ee-4064f626a3d7
   - order: 1
     body: >-
       > “What this week and a half shows is an extraordinary sensitivity to
@@ -44,7 +44,7 @@ cards:
       US-China trade stalemate weighed on investors, but stocks rebounded on
       news the Federal Reserve may not raise interest rates as quickly as
       planned. The Nov. Jobs report will be key Friday.
-    _key: card-2-1bcec447-849c-4e5c-bcdf-2a58005dea58
+    _key: card-2-798a91ac-426a-457b-bcba-642cfe8f106b
   - order: 2
     body: >-
       > ‘We still want Russia to cut as much as possible…A I’m not confident,
@@ -58,7 +58,7 @@ cards:
       oil's price slide but the group is waiting for Russia, a non-OPEC member,
       to commit. Oil prices dropped by the most in 2 weeks on the news. OPEC
       will meet again Friday.
-    _key: card-3-bec72963-8c61-4ee8-aa73-57e60389f5d1
+    _key: card-3-5d46167b-0ac3-423e-b205-49e1ca22d0d3
   - order: 3
     body: >-
       > “All of a sudden we started skidding, and then he started braking even
@@ -71,7 +71,7 @@ cards:
       of a CA freeway during a rainstorm. Cement blocks & sand-like ground
       material prevented the plane from overshooting even further. No one was
       injured.
-    _key: card-4-3f7c1664-47d9-4a07-852f-e62f8b14811f
+    _key: card-4-8be19d25-a34e-4b65-aef9-d89b9215a059
   - order: 4
     body: >-
       > “I just about fainted. I’ve never touched that much money and I don’t
@@ -84,13 +84,13 @@ cards:
       over to police who held it for the required 90 days, but no one claimed it
       so they returned it to the food bank, which gave a portion of it back to
       Booth to thank him for his honesty.
-    _key: card-5-498743f0-b052-49d6-9e26-97796bc340d4
+    _key: card-5-65439b1d-2cb9-4344-aa7c-7e48c59976d7
   - order: 5
     body: |-
       Have a great weekend!
 
       [view sources](https://smarthernews.com/quick-quotes-22/)
-    _key: card-10-3389b76e-c8f6-4fc8-a1d3-ad9c706488e4
+    _key: card-10-aa22ff23-4f8f-4640-81dc-7cdfc9c96d1c
 
 ---
 * **Eiffel Tower to close Saturday due to planned ‘yellow vest’ protests in Paris:**  

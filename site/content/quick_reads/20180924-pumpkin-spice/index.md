@@ -1,14 +1,14 @@
 ---
 title: Pumpkin Spice-Palooza
 slug: 20180924-pumpkin-spice
-_id: legacy-71181114-449d-4e70-9479-2f349cf288a3
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-c68219ee-05fe-4dfa-bdfc-2ac69975c422
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - pumpkin-spice/
 _createdAt: '2018-09-24T13:14:49Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-24T13:14:49+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       Oh. My. Gourd.
     citation: Oh. My. Gourd.
-    _key: card-1-53ae4e5b-c556-45a9-8786-11e177da8088
+    _key: card-1-acc9698b-9156-4ce5-a08f-2f8bc5a69794
   - order: 1
     body: >-
       ## How Did We Get Here?
@@ -49,7 +49,7 @@ cards:
 
       Starbucks debuted its pumpkin spice latte in 2003, which is credited for
       the craze as we know it today.
-    _key: card-2-68dc0ac9-1bd6-44af-b5cb-8d4578cec320
+    _key: card-2-5915e792-929d-4bd1-a9a4-44b1df4df140
   - order: 2
     body: >-
       > ‘It represents a sense of goodness, natural abundance and old values
@@ -61,7 +61,7 @@ cards:
       how Americans have used pumpkin pie & the spices in it to maintain
       connections to nature and our country's beginnings. America is the only
       country in the world that consumes pumpkin as a seasonal food or drink.
-    _key: card-3-e84cb005-da19-478b-bba2-26f1498355bd
+    _key: card-3-76f1d2c4-c976-46b0-bb1b-79feb1d5092b
   - order: 3
     body: >-
       ## Peak Pumpkin Spice?
@@ -74,7 +74,7 @@ cards:
       By 2015, the number grew to **14.5%**, with the most in the northeast.
 
       * Fastest growing pumpkin-spiced product? **Dog food.** Seriously.
-    _key: card-4-42d94749-0d1a-4c71-8094-c8c709a9ebe8
+    _key: card-4-55a2563c-69d9-44b8-b2da-a35df0755468
   - order: 4
     body: >-
       Starbuck's sprang forward this fall, debuting its famed pumpkin spice
@@ -84,7 +84,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/pumpkin-spice/)
-    _key: card-10-713a9c32-594e-4dfd-8463-2b70467d1e28
+    _key: card-10-d3074d92-f621-4d93-9b5c-f3bbb7b88fcf
 
 ---
 * **Pumpkin Spice Sales Growth Makes a Hot Return in August:**  

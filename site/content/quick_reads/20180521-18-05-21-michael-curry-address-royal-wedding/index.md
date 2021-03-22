@@ -1,14 +1,14 @@
 ---
 title: 18.05.21 Michael Curry Address at Royal Wedding
 slug: 20180521-18-05-21-michael-curry-address-royal-wedding
-_id: legacy-05b82e34-56a0-4ca3-ab11-f2020eb20de6
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-4173d569-89bc-4098-891f-936e86b7acfb
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-21-michael-curry-address-royal-wedding/
 _createdAt: '2018-05-21T12:36:52Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-21T12:36:52+00:00'
 weight: 50
 featured_image:
@@ -38,7 +38,7 @@ cards:
         
       Bishop Michael Curry, the first black presiding bishop of the Episcopal
       Church, in his address at the royal wedding.
-    _key: card-1-df32774d-8e80-4580-b465-1c015dc88f0d
+    _key: card-1-d62c8498-927c-4cf9-8a5d-60a567a0eb24
   - order: 1
     body: >-
       If Pippa was the unexpected star of Kate’s wedding, Michael Curry is the
@@ -48,7 +48,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-05-21-michael-curry-address-royal-wedding/)
-    _key: card-10-0e05902f-ee1d-4814-ad96-cadfb04a6446
+    _key: card-10-4a5b820c-7d07-41bc-bd18-95b75cf2bfb4
 
 ---
 Follow Bishop Curry:A @PB_Curry

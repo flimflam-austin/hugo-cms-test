@@ -1,14 +1,14 @@
 ---
 title: 'On This Day: September 25, 1981'
 slug: 20180925-18-09-25-otd
-_id: legacy-91895272-b419-4d0e-9599-0607048c8e1b
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-cacba1c3-49a9-4800-93bc-92877fdbbbfc
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-25-otd/
 _createdAt: '2018-09-25T12:15:53Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-25T12:15:53+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Lady Justice
     citation: Lady Justice
-    _key: card-1-8007355e-f320-4dee-8d3d-4bd90f026269
+    _key: card-1-7fba51e1-48e1-40ca-a751-b2049d130436
   - order: 1
     body: >-
       > “It’s wonderful to be the first to do something, but I didn’t want to be
@@ -42,7 +42,7 @@ cards:
         
         
       O'Connor in 2012
-    _key: card-2-43022cbf-4d95-4b32-943e-6ddd36c37c7c
+    _key: card-2-0ac1ef7d-b762-4258-9e96-233b1898dddf
   - order: 2
     body: >-
       # About the Woman:
@@ -56,7 +56,7 @@ cards:
 
       * In 1965, she became the Arizona Assistant Attorney General, and later
       she became the **first female Senate Majority Leader** (R) in AZ.
-    _key: card-3-157971f7-672f-40fa-a69d-b864a362f442
+    _key: card-3-88bb5417-1d91-46f2-abac-56bb07dd4497
   - order: 3
     body: >-
       # Her Lasting Legacy:
@@ -70,7 +70,7 @@ cards:
       In 2000, she cast the deciding vote inA _Bush v. Gore,_ settling the
       dispute in the **2000 election** and awarding the presidency to George W.
       Bush.
-    _key: card-4-b4b028c5-66db-4832-acdd-2df498053480
+    _key: card-4-2fcd6ddf-1e72-4582-8be5-356c7813640d
   - order: 4
     body: >-
       > “Treat people well. Don’t mislead them. Don’t be prickly. Don’t say
@@ -82,7 +82,7 @@ cards:
       O'Connor in 2013 to the Harvard Business Review on what it's like working
       with colleagues with whom you disagree (potentially) for life. Supreme
       Court justices have lifetime tenure.
-    _key: card-5-9c6727d5-33bb-4977-973b-b4e13f481703
+    _key: card-5-238892b1-63ec-4654-ad92-4b7b818044cf
   - order: 5
     body: >-
       **There have been 113 Supreme Court justices.A In addition to O’Connor,
@@ -97,7 +97,7 @@ cards:
 
 
       **All (except O’Connor) were appointed by Democrats.**
-    _key: card-6-ad11bd59-928d-46fe-a6a0-99cbff2027a7
+    _key: card-6-7233c673-3c8c-4ac6-94c1-55de8bb42dea
   - order: 6
     body: >-
       Last week, Arizona Governor Doug Ducey (R) issued a proclamation
@@ -107,7 +107,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-25-otd/)
-    _key: card-10-8f4caa09-7793-466e-afa8-df27cae58eb9
+    _key: card-10-8d1eba5b-19ea-4a8a-bc6c-6079a84d28d8
 
 ---
 * **Justice Sandra Day O”Connor:**  

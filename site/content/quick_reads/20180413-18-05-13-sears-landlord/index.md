@@ -1,14 +1,14 @@
 ---
 title: 18.05.13 Sears Landlord
 slug: 20180413-18-05-13-sears-landlord
-_id: legacy-5db20bf9-985e-4994-9728-8dab61903eb1
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-cc29c2e4-8ac8-4fe5-afcb-5a0f115ed733
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-13-sears-landlord/
 _createdAt: '2018-04-13T10:35:49Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-13T10:35:49+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       wanna be a landlord?
     citation: wanna be a landlord?
-    _key: card-1-ceace432-57be-49d8-b73c-ad347374def8
+    _key: card-1-d27ea188-ae81-49b2-8289-1c45f7a6b046
   - order: 1
     body: >-
       ## Bid to be a Sears Landlord
@@ -51,7 +51,7 @@ cards:
 
       Click To Make Bid
     citation: Click To Make Bid
-    _key: card-2-43de9d97-0d8b-404b-a73b-362168e06545
+    _key: card-2-25a4c155-881c-48d7-9801-490658a29567
   - order: 2
     body: >-
       # Sears’ Struggle
@@ -67,7 +67,7 @@ cards:
 
       Sears, which also owns Kmart, has **closed hundreds of stores** since the
       start of 2017.
-    _key: card-3-23cae165-3dcd-495c-af5d-ab3695ea7bcb
+    _key: card-3-c7041f6b-7f15-426b-8dd0-ca4551943462
   - order: 3
     body: >-
       And then there were none... Later this year, Sears will close its last
@@ -76,7 +76,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-13-sears-landlord/)
-    _key: card-10-915758cd-497a-451f-ba8b-ced21753b3f2
+    _key: card-10-928ac6a3-71db-4c41-b84f-edfd3739c333
 
 ---
 * WSJ broke the news: Some Sears Stores Are Being Auctioned Online  

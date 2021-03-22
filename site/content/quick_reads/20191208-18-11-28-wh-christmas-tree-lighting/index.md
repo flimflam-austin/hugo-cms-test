@@ -1,14 +1,14 @@
 ---
 title: White House Christmas Tree Lighting
 slug: 20191208-18-11-28-wh-christmas-tree-lighting
-_id: legacy-f3357b92-f057-4287-ad43-a36d5a2d9dce
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-4db98951-16ae-4577-98ba-a13c870a3a39
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-11-28-wh-christmas-tree-lighting/
 _createdAt: '2018-11-28T13:35:49Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-11-28T13:35:49+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       The backstory on the National Christmas Tree Lighting Ceremony at the
       White House.
-    _key: card-1-432ef571-8d82-400d-b872-8b8373dc9e06
+    _key: card-1-90dea67d-7137-4bfd-872c-04e5e9fc5b74
   - order: 1
     body: >-
       ## HOW IT CAME TO BE:
@@ -43,7 +43,7 @@ cards:
       College in VT, his home state, donated a balsam fir.
 
       * 2,500 electric bulbs lit the 48-ft tree in front of a crowd of 3,000.
-    _key: card-2-017a5a17-0cd5-4cd0-870a-c6846a094635
+    _key: card-2-080c9754-306b-4654-aa96-2da2b332a92b
   - order: 2
     body: >-
       * **Host**: National Park Service & its non-profit National Park
@@ -55,7 +55,7 @@ cards:
       * **Decorations**: Family company, Hargrove Inc., has decorated the tree
       since 1954; Earl Hargrove would fix light bulbs, climbing the tree dressed
       as Santa.
-    _key: card-3-e9be3dff-836d-4a17-9c51-cc86a8c8198c
+    _key: card-3-d2f59205-5600-4e34-bcff-be40b154f93f
   - order: 3
     body: >-
       > “I’m very proud of all of this. I’ve been proud since year one …. It’s
@@ -67,7 +67,7 @@ cards:
       Hargrove opened his event planning company with his father in 1946.
       Hargrove was known as "the President's prop man" and the company continues
       to serve as an event supplier for inaugurations and D.C. events
-    _key: card-4-c79b0857-dab8-451d-a98f-bbd3cf8fea60
+    _key: card-4-3b3cdfb5-36bb-4f82-ae3c-82f4e75a6e98
   - order: 4
     body: >-
       On Nov. 28, the White House will hold its annual Christmas Tree Lighting
@@ -78,7 +78,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-11-28-wh-christmas-tree-lighting/)
-    _key: card-10-85800629-099f-4a2f-b3a5-4636f76d1613
+    _key: card-10-af997a5d-8f82-491b-bf71-a76b4c2d6ff7
 
 ---
 * **A Coolidge ChristmasA** **the 1923 national Christmas tree lighting and the public celebration:**  

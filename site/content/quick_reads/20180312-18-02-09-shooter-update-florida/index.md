@@ -1,14 +1,14 @@
 ---
 title: 18.02.09 Shooter Update Florida
 slug: 20180312-18-02-09-shooter-update-florida
-_id: legacy-9c00f94d-d686-4d0e-8d90-f040edc296db
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-48334934-d4b3-4726-886d-e0fab73ba6c8
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-09-shooter-update-florida/
 _createdAt: '2018-03-12T12:04:44Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-12T12:04:44+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip: Break In Case?
     citation: 'Flip: Break In Case?'
-    _key: card-1-9d79a0ed-3111-465b-9d3e-61bd9940078a
+    _key: card-1-c377d8e4-7722-43c5-a343-787b728a9380
   - order: 1
     body: >-
       New Florida Laws
@@ -47,7 +47,7 @@ cards:
       * Creates “Guardian Program” allows teachers & staff to carry guns
       w/proper training. Program NOT mandatory; school districts can decide to
       participate. **FL Teachers Union opposes – hopes gov’t strikes funding.**
-    _key: card-2-f5542a1d-bfa2-4700-bce1-2959dec5cb6b
+    _key: card-2-bd5ab282-5f03-48af-b3f4-401328ac3f7d
   - order: 2
     body: >-
       ## “Break” In Unsolved Story
@@ -64,7 +64,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-3-43db2aa6-f60a-4c42-b94b-0999b8c2b180
+    _key: card-3-a47669e8-8763-42d2-bfbc-5ef2187357fb
   - order: 3
     body: >-
       ## Reports: Why FL Shooter Had No Criminal Record
@@ -77,7 +77,7 @@ cards:
 
       * Reports: Policy aimed to slow the “school-to-prison” pipeline that
       disproportionately impacts minority students.
-    _key: card-4-ae7f584b-19ab-4ad6-8920-a194b0f52143
+    _key: card-4-08231404-382f-487f-8280-cd145af7714b
   - order: 4
     body: >-
       > “Students charged with various misdemeanors, including assault, would
@@ -92,7 +92,7 @@ cards:
       [Read Full
       Article:](https://www.realclearinvestigations.com/articles/2018/02/28/obama_administration_school_discipline_policy_and_the_parkland_shooting.html)
     citation: 'Read Full Article:'
-    _key: card-5-f3a63f83-6a54-45a4-b2c6-bd17c5b6d4da
+    _key: card-5-f3254f58-0002-4513-bcf2-116dd512a679
   - order: 5
     body: >-
       Several other sources have also reported similar explanation to Real Clear
@@ -101,7 +101,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-09-shooter-update-florida/)
-    _key: card-10-67948fcb-a4c0-46b5-9860-dcbddbabb799
+    _key: card-10-c346530f-1354-46ce-b34c-cbe0d53c0d43
 
 ---
 * Florida governor signs gun control bill that would allow teachers to beA armed: [https://nypost.com/2018/03/09/florida-governor-signs-gun-control-bill-that-would-allow-teachers-to-be-armed/](https://nypost.com/2018/03/09/florida-governor-signs-gun-control-bill-that-would-allow-teachers-to-be-armed/?utm_campaign=SocialFlow&utm_source=NYPTwitter&utm_medium=SocialFlow)

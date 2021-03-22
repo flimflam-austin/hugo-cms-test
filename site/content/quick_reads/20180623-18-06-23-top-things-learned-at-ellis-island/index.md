@@ -1,14 +1,14 @@
 ---
 title: 18.06.23 Top Things Learned at Ellis Island
 slug: 20180623-18-06-23-top-things-learned-at-ellis-island
-_id: legacy-3712eba8-4e65-40c6-873d-8b4462cedf5e
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-b5dfa9d1-f0eb-47e9-a1a7-5069c822add2
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-23-top-things-learned-at-ellis-island/
 _createdAt: '2018-06-23T02:58:03Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-23T02:58:03+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-f9f840a4-d83c-4f03-8145-da9910ec48c4
+    _key: card-1-43edf82d-0007-4df1-a3be-8136bc11e618
   - order: 1
     body: >-
       ## “Illegal Immigration’ hasn’t ALWAYS existed.
@@ -43,7 +43,7 @@ cards:
 
       After the Civil War, the Federal Government became more powerful and this
       set the stage for more centralized immigration reform.
-    _key: card-2-8f7b536e-bb91-476e-9045-096fea61726a
+    _key: card-2-d65affad-9d35-4ee0-b21a-e00b39b5dc80
   - order: 2
     body: >-
       ## Immigration: A State Issue
@@ -59,7 +59,7 @@ cards:
       * Immigration previously managed by individualA **states and cities**. In
       fact the nation’s **first immigration center**A **ever** was in NYC –
       “Castle Gardens.”
-    _key: card-3-626ed260-acd8-4145-8253-24747496e535
+    _key: card-3-14e4be56-a787-42a1-840c-b20f3e321ae3
   - order: 3
     body: >-
       ## Children: Immigration
@@ -74,7 +74,7 @@ cards:
 
       * If parents/child detained at Ellis Island, they stayed with their mother
       – as long as they were under 16-yrs-old – in the women’s ward.
-    _key: card-4-6205a090-fcd3-4de9-8728-2b27a4666803
+    _key: card-4-47038bf8-ecb5-4050-b01e-132a0d188945
   - order: 4
     body: >-
       We asked Mr. Moreno what historical context he feels is often missing from
@@ -84,7 +84,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-06-23-top-things-learned-at-ellis-island/)
-    _key: card-10-9f427fc1-d312-480c-91de-c916b3073257
+    _key: card-10-359ce096-92d0-49d8-b0c0-5e32c38a5826
 
 ---
 _On June 20th, 2018 Jenna Lee, Founder of SmartHER News, spent 2 hours speaking with the librarian and historian at the Statue of Liberty National Monument and Ellis Island, Barry Moreno. Mr. Moreno has written several books including [The Illustrated Encyclopedia of Ellis Island](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=barry+moreno)_

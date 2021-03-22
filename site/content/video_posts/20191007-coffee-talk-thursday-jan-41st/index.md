@@ -1,17 +1,21 @@
 ---
 title: 'Coffee Talk: Rime of the Ancient Mariner and News'
 slug: 20191007-coffee-talk-thursday-jan-41st
-_id: legacy-5469018f-6991-486e-88bb-99cd96b0c131
-_rev: CRhmwZOx7vxYXrRSdQr7Zu
+_id: legacy-54ee3153-a4c3-4678-88f3-bc21c01c42ca
+_rev: O8E8pz1fLwnc3fN7JVF8BC
 type: video_posts
 draft: false
 aliases:
   - article/coffee-talk-thursday-jan-41st/
 _createdAt: '2019-10-01T22:02:11Z'
-_updatedAt: '2021-03-16T13:06:00Z'
+_updatedAt: '2021-03-22T13:11:59Z'
 date: '2019-10-01T22:02:11+00:00'
 weight: 50
-video_series: Spotlight
+featured_image:
+  alt: Featured article image
+  url: >-
+    069b5e20e3a55996407919fd1c9d77ea9650ccbb-768x577.jpg
+video_series: Coffee Talk
 
 ---
 It is an ancient Mariner,  
@@ -112,9 +116,6 @@ Whiles all the night, through fog-smoke white,
 Glimmered the white Moon-shine.
 
 God save thee, ancient Mariner!  
-From the fiends, that plague thee thus!—  
-Why look”st thou so?—With my cross-bow  
-I shot the ALBATROSS.!  
 From the fiends, that plague thee thus!—  
 Why look”st thou so?—With my cross-bow  
 I shot the ALBATROSS.

@@ -1,14 +1,14 @@
 ---
 title: 18.04.10 Tammy Duckworth
 slug: 20200621-tammy-duckworth
-_id: legacy-22c285ce-1164-4e76-853c-65d51b816b7b
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-701c2b20-de19-40f1-8127-ef8d6af6bf62
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - tammy-duckworth/
 _createdAt: '2018-04-09T23:29:36Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-04-09T23:29:36+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
       [FLIP For More
       Firsts](https://twitter.com/SenDuckworth/status/983434525626781696)
     citation: FLIP For More Firsts
-    _key: card-1-d3fa9d7c-d4a7-4723-a2b7-2ac099d5a298
+    _key: card-1-8fd76332-6a54-4717-b7c8-f531fdb8c5b5
   - order: 1
     body: >-
       ## Tammy’s Firsts
@@ -49,7 +49,7 @@ cards:
       * 1st disabled woman **combat veteran** elected to Congress
 
       * 1st member of Congress born in Thailand
-    _key: card-2-1b646c95-da62-4f87-9279-1553b56a4c5d
+    _key: card-2-5905544e-169b-4ed6-b354-258f3589eb55
   - order: 2
     body: >-
       # Senator Duckworth
@@ -62,7 +62,7 @@ cards:
       by a rocket-propelled grenade; **She lost both of her legs**.
 
       * Purple Heart recipient.
-    _key: card-3-7b2107c7-6a5c-4530-bd35-6b3fb93569c1
+    _key: card-3-0aea8f81-ebec-4265-9ed7-29b95ce921ff
   - order: 3
     body: >-
       Being “First”…  
@@ -77,7 +77,7 @@ cards:
         
         
       Senator Duckworth, Women Rule Podcast, Politico, Feb. 14, 2018
-    _key: card-4-414b2541-f178-42bd-a610-e09c0badca16
+    _key: card-4-1f77d7d1-46cc-4cd1-af5b-28573f8ddd01
   - order: 4
     body: >-
       Since Senator Duckworth is the first Senator who gave birth while in
@@ -86,7 +86,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/tammy-duckworth/)
-    _key: card-10-53ccb907-9122-40cc-8542-0e3f5410bc83
+    _key: card-10-d54586ec-3afd-425f-abe8-6302496c9296
 
 ---
 * Duckworth & Family Welcome Second Daughter into the World: [https://www.duckworth.senate.gov/news/press-releases/-duckworth-and-family-welcome-second-daughter-into-the-world](https://www.duckworth.senate.gov/news/press-releases/-duckworth-and-family-welcome-second-daughter-into-the-world)

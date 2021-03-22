@@ -1,14 +1,14 @@
 ---
 title: 18.02.01 Superbowl Ads
 slug: 20180202-18-02-01-superbowl-ads
-_id: legacy-d19f3c88-6724-468d-b8c2-735af6b9d8a7
-_rev: XOnQP8cIThhnw9BWFxSjgf
+_id: legacy-66ced609-1253-4839-abe3-9d8e3366479f
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-01-superbowl-ads/
 _createdAt: '2018-02-02T10:55:19Z'
-_updatedAt: '2021-03-16T11:57:58Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-02T10:55:19+00:00'
 weight: 50
 card_series: Current Events
@@ -19,7 +19,7 @@ cards:
       # Super Bowl Ads Hit New High
 
       > $5 million Buys 30 seconds
-    _key: card-1-368cb25e-abfe-4ec7-80f5-15f9ee842ab1
+    _key: card-1-0b4b8a2b-f1ad-4317-9c1f-224502bd0ed5
   - order: 1
     body: >-
       # Why is it so expensive?
@@ -35,7 +35,7 @@ cards:
 
       * The Academy Awards = the only non-football event to break into 5
       most-viewed events in 2017.
-    _key: card-2-49fac45a-4c59-4ced-8191-2f5e3304a300
+    _key: card-2-bf4b4d2b-c95e-445e-9413-35f0325437a9
   - order: 2
     body: >-
       # MeToo?
@@ -54,7 +54,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-3-e8138c46-a33c-42a3-b3c1-6e06111ea55b
+    _key: card-3-e57e406d-a4d6-413e-b8ac-2c3703294344
   - order: 3
     body: |-
       # “#BoringBowl”
@@ -62,10 +62,10 @@ cards:
       ## What ‘Ad Age’ Has Entitled This Super Bowl
 
       Multiple articles suggest companies playing “safe”.
-    _key: card-4-6ee5995c-c3be-44eb-b589-fd5ded4ed36a
+    _key: card-4-9fa1f1d2-93d9-4c50-8b3a-78f1bfcec5ab
   - order: 4
     body: '[view sources](https://smarthernews.com/18-02-01-superbowl-ads/)'
-    _key: card-10-81730ba1-274d-4c07-91cf-31d7819a727f
+    _key: card-10-e7ee6ac9-b8e0-45f5-a1c1-10503ff47e3e
 
 ---
 1. Why Companies Spend So Much on Super Bowl Ads  

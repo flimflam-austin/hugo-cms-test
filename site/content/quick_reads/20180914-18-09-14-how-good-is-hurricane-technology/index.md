@@ -1,14 +1,14 @@
 ---
 title: New Forecasting Tools Save Lives
 slug: 20180914-18-09-14-how-good-is-hurricane-technology
-_id: legacy-c9fcd614-c277-48fc-ac60-08756a8c36a1
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-9b832b45-eb5b-4c46-9938-08a0b1fc15a8
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-14-how-good-is-hurricane-technology/
 _createdAt: '2018-09-14T12:18:11Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-14T12:18:11+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       How It Works
     citation: How It Works
-    _key: card-1-dbc0b15f-698e-4b9e-8030-1f65ba5f04d9
+    _key: card-1-56fe313e-5b7e-494d-bece-8217a4c236d5
   - order: 1
     body: >-
       ## How We Forecast Hurricanes
@@ -42,7 +42,7 @@ cards:
 
       * Bottom line: The worlds’ oceans are massive. We don’t have the
       technology to cover the whole surface constantly.
-    _key: card-2-dd2afb3b-3edc-4467-a2aa-dd47a2f91214
+    _key: card-2-6882522c-3545-454e-afb7-bbc407569696
   - order: 2
     body: >-
       # What we CAN do…
@@ -59,7 +59,7 @@ cards:
 
       * GOES-17: new satellite enables us to see storms & lightning that can
       spark forest fires.
-    _key: card-3-c1fd2130-e04c-4f6b-a89b-f6919674ca4c
+    _key: card-3-76fdb68a-0d06-4660-9be2-f4c6fc583fec
   - order: 3
     body: >-
       > “I can’t stress this enough. Models and observations are the base
@@ -70,7 +70,7 @@ cards:
       David Novak, Director of the National Weather Service's Prediction Center,
       speaking in 2017 to CNBC. Technology helps forecasts, he says, but the
       human analysis remains important.
-    _key: card-4-dd6ff7e9-814d-4135-bf1b-864a2e82b8cb
+    _key: card-4-0c0fa3c9-baf1-41ed-8722-31c2cb76474f
   - order: 4
     body: >-
       Once winds hit 74 mph a storm gets a new name: "Hurricane". Anything below
@@ -80,7 +80,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-09-14-how-good-is-hurricane-technology/)
-    _key: card-10-fba876f2-47cf-4b02-b5a1-ec6d823bf8a6
+    _key: card-10-44103256-df07-4957-96c5-a4246bf1744a
 
 ---
 * **Here’s why hurricane forecasting is getting better:**  

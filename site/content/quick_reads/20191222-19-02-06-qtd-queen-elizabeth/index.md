@@ -1,14 +1,14 @@
 ---
 title: Queen Elizabeth Ii Ascended to the British Throne
 slug: 20191222-19-02-06-qtd-queen-elizabeth
-_id: legacy-feea9f17-ca22-4bca-87a4-da34da753496
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-bfd2727f-2d35-435a-bf24-722f15741d16
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 19-02-06-qtd-queen-elizabeth/
 _createdAt: '2019-02-06T14:21:01Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2019-02-06T14:21:01+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       67 years ago, following the death of her father, Elizabeth became Queen at
       age 25.
-    _key: card-1-23bb27ef-c23b-4983-a246-5d42d410c042
+    _key: card-1-00fc9f2d-815b-47c9-b35e-28af785fc6b4
   - order: 1
     body: >-
       ## Record-Breaking Queen
@@ -41,7 +41,7 @@ cards:
       In 2015, at 88, she became the **world’s oldest monarch.**_Months later,
       she passed Queen Victoria again, & became **Britain’s longest-reigning
       monarch.**
-    _key: card-2-42deb36f-02ab-42c7-bc08-480457d4d2b4
+    _key: card-2-d2ede607-7e58-4404-9482-38c06730b9bf
   - order: 2
     body: >-
       ## Bag Lady?
@@ -55,7 +55,7 @@ cards:
       **One item not in her purse?**  
 
       A passport; she doesn’t need one! (because they are issued in her name).
-    _key: card-3-25e62299-ea6e-4b35-8de5-02f425b32d6e
+    _key: card-3-3f85cdee-662c-41cd-8628-ee081093558b
   - order: 3
     body: >-
       > “Each day is a new beginning, I know that the only way to live my life
@@ -65,7 +65,7 @@ cards:
         
         
       Queen Elizabeth II
-    _key: card-4-1ee16527-928d-466b-8b7a-e2e3d2f032ef
+    _key: card-4-ab84fc86-0012-4a90-854d-2189f135f736
   - order: 4
     body: >-
       Although she is the world's longest (living) monarch, she is not *yet* the
@@ -75,7 +75,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/19-02-06-qtd-queen-elizabeth/)
-    _key: card-10-e49b8e81-540b-4d18-9823-22c5db873d11
+    _key: card-10-f7ef319b-f0b9-4386-af52-83804924e95b
 
 ---
 * **Queen Elizabeth II: The Life And Legacy Of Britain’s Longest-Serving Monarch:** [https://www.wbur.org/hereandnow/2018/12/04/queen-elizabeth-life-legacy](https://www.wbur.org/hereandnow/2018/12/04/queen-elizabeth-life-legacy)

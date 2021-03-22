@@ -1,14 +1,14 @@
 ---
 title: 18.5.18 Romaine Now Safe
 slug: 20180518-18-5-18-romaine-now-safe
-_id: legacy-2c4886f4-97fd-4125-80b6-b7d226b763c0
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-03dfd592-3d5a-4c12-b64c-955bc5134850
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-5-18-romaine-now-safe/
 _createdAt: '2018-05-18T09:33:35Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-18T09:33:35+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       FLIP: WHAT THE FDA SAYS
     citation: 'FLIP: WHAT THE FDA SAYS'
-    _key: card-1-1e3e7ebb-d0d9-4f70-9262-82471d9b48ad
+    _key: card-1-18dfbb6b-5640-473f-9cad-6d4c4cf50aaf
   - order: 1
     body: >-
       ## Safe, But Still Questions…
@@ -56,7 +56,7 @@ cards:
       21-day shelf life.
 
       * **Source of E. Coli stillA unknown.**
-    _key: card-2-2d781469-55f2-4cad-b0cc-e567775cdebe
+    _key: card-2-29bca89c-4f16-4108-a47d-227186da7632
   - order: 2
     body: >-
       Maybe hold off on the caesar salads for now... romaine may be safe, but
@@ -65,7 +65,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-5-18-romaine-now-safe/)
-    _key: card-10-970162e4-88f2-4d91-8cc6-4d2a8b782d63
+    _key: card-10-b1fd5aed-cffb-4f64-91b8-e520b891c424
 
 ---
 * **SmartHER Refresher:A** [https://smarthernews.com/18-05-03-deadly-romaine/](https://smarthernews.com/18-05-03-deadly-romaine/)

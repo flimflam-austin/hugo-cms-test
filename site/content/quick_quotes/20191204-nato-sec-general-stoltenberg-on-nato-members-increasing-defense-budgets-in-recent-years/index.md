@@ -4,28 +4,22 @@ title: >-
   Recent Years.
 slug: >-
   20191204-nato-sec-general-stoltenberg-on-nato-members-increasing-defense-budgets-in-recent-years
-_id: legacy-348b50ed-5d9a-4ac7-a85e-47aa00b58ed6
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-fab19b7a-ee8d-4fbd-973a-f0a0021db255
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/nato-sec-general-stoltenberg-on-nato-members-increasing-defense-budgets-in-recent-years/
 _createdAt: '2019-12-04T17:17:02Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-12-04T17:17:02+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  NATO Sec. General Stoltenberg on NATO members increasing defense budgets in
-  recent years.
 featured_quote:
   quote: >-
     This is unprecedented. This is making NATO stronger. And it shows that this
     Alliance is adapting, responding when the world is changing.
-  citation: >-
-    NATO Sec. General Stoltenberg on NATO members increasing defense budgets in
-    recent years.
 
 ---
 * Sec. Stoltenberg held a press conference with President Trump during a 70th anniversary summit of NATO in London.

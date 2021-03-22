@@ -1,14 +1,14 @@
 ---
 title: 18.02.10 Shortest Govt Shutdown in a Few Decades
 slug: 20180214-18-02-10-shortest-govt-shutdown-decades
-_id: legacy-5c63870c-8ca1-4abe-aa32-8fefd9afe400
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-29ca1e14-b415-4aca-a1d6-74f9bcc1da62
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-10-shortest-govt-shutdown-decades/
 _createdAt: '2018-02-09T15:59:37Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-09T15:59:37+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-02-10-shortest-govt-shutdown-decades/)
-    _key: card-10-af8be629-3fca-43f7-a2dd-02db5127c415
+    _key: card-10-6bb5f568-db66-4764-aef9-4e0b4d3cde11
 
 ---
 How one GOP senator — Rand Paul — caused the super-short shutdownA [https://www.usatoday.com/story/news/politics/2018/02/09/how-one-gop-senator-rand-paul-caused-super-short-shutdown/322600002/](https://www.usatoday.com/story/news/politics/2018/02/09/how-one-gop-senator-rand-paul-caused-super-short-shutdown/322600002/)

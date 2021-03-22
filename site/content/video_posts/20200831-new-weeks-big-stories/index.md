@@ -1,25 +1,27 @@
 ---
 title: 'New Week: Big Stories'
 slug: 20200831-new-weeks-big-stories
-_id: legacy-4014070a-6fbc-486e-888a-70265843a032
-_rev: XOnQP8cIThhnw9BWFxY3pZ
+_id: legacy-b7acfb64-1dd4-45b2-be2e-3d5dc220ec45
+_rev: ZEyhBiGfgCfwE8WOjbuK7B
 type: video_posts
 draft: false
 aliases:
   - article/new-weeks-big-stories/
 _createdAt: '2020-08-31T21:17:09Z'
-_updatedAt: '2021-03-16T13:06:01Z'
+_updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-08-31T21:17:09+00:00'
 weight: 50
-video_series: Spotlight
+featured_image:
+  alt: Featured article image
+  url: >-
+    151de6a2f2922747abd22c6c52f980bad5c15ce3-1688x1420.jpg
+video_series: Coffee Talk
 
 ---
-{{< youtube k1Ye9Lvq4Mw >}}
+{{< youtube id=\k1Ye9Lvq4Mw\ title=\NEW Weeks: BIG Stories\ >}}
 
 Operation Not Forgotten: [READ MORE](https://smarthernews.com/operation-not-forgotten/)
 
 CDC Data: [CLICK HERE](https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm?fbclid=IwAR3-wrg3tTKK5-9tOHPGAHWFVO3DfslkJ0KsDEPQpWmPbKtp6EsoVV2Qs1Q#AgeAndSex)
-
-Shooting of Jacob Blake with update: [READ HERE](https://smarthernews.com/article/jacobblake/)EsoVV2Qs1Q#AgeAndSex)
 
 Shooting of Jacob Blake with update: [READ HERE](https://smarthernews.com/article/jacobblake/)

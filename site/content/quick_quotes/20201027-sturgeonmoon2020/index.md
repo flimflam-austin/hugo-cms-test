@@ -3,25 +3,23 @@ title: >-
   Forbes Senior Contributor Jamie Carter on This Week's Sturgeon Moon,
   Highlighting 2020's Rare Full Moon Sightings.
 slug: 20201027-sturgeonmoon2020
-_id: legacy-18790aae-727e-4cb0-a96d-fd7707e526fd
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-cb4cbfd2-77c2-4731-97ea-5aeaf73332c4
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - article/sturgeonmoon2020/
 _createdAt: '2020-08-03T21:58:04Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2020-08-03T21:58:04+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    064cd836a5b6c82635de2a65d5d4e3ea4750e6e1-360x360.jpg
 is_breaking: false
-summary: >-
-  Forbes Senior Contributor Jamie Carter on this week’s “Sturgeon Moon,”
-  highlighting 2020’s rare full moon sightings.
 featured_quote:
   quote: In a clear sky it will look glorious.
-  citation: >-
-    Forbes Senior Contributor Jamie Carter on this week’s “Sturgeon Moon,”
-    highlighting 2020’s rare full moon sightings.
 
 ---
 * August’s Full Moon: August 3.
@@ -33,4 +31,4 @@ featured_quote:
 
 MORE ON 2020 FULL MOONS: [READ MORE](https://www.usatoday.com/story/news/nation/2020/02/03/full-moon-2020-calendar-supermoons-lunar-eclipses-blue-moons-more/4489314002/)
 
-More from Jamie Carter: [CLICK LINK](https://www.forbes.com/sites/jamiecartereurope/2020/08/02/full-red-moon-sparkles-then-creeps-up-on-the-red-planet-what-to-watch-for-in-the-night-sky-this-week/#5cbd12867b06)ll-red-moon-sparkles-then-creeps-up-on-the-red-planet-what-to-watch-for-in-the-night-sky-this-week/#5cbd12867b06)
+More from Jamie Carter: [CLICK LINK](https://www.forbes.com/sites/jamiecartereurope/2020/08/02/full-red-moon-sparkles-then-creeps-up-on-the-red-planet-what-to-watch-for-in-the-night-sky-this-week/#5cbd12867b06)

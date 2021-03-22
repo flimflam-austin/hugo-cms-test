@@ -1,14 +1,14 @@
 ---
 title: 18.03.02 Dolly Goes to Washington
 slug: 20200331-dolly
-_id: legacy-d9ba4322-3af6-49cc-8303-e80f507ae3da
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-3704d5c1-9a86-413c-b24f-a565830fbbab
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - dolly/
 _createdAt: '2018-03-01T23:29:07Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-03-01T23:29:07+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       TAP HERE FOR MORE
     citation: TAP HERE FOR MORE
-    _key: card-1-8f1af1e0-9387-4a1c-a5e1-a3abaa819b3e
+    _key: card-1-99e0d7e2-fb43-4dd9-92fb-006913226fe5
   - order: 1
     body: >-
       > “I never thought about being the book lady, but that just goes to show
@@ -39,7 +39,7 @@ cards:
         
         
       Dolly Parton speaking at the Library of Congress, Feb 27, 2018
-    _key: card-2-743c169d-7c2b-421c-a01a-1a0f35cc4be1
+    _key: card-2-39fd7f6f-b74b-4985-9c10-ac59f4b4c89c
   - order: 2
     body: >-
       ## Dolly’s Library:
@@ -53,7 +53,7 @@ cards:
       * To date, the _Imagination Library_ has mailed more than 100 million free
       books to children in participating communities in US, UK, Canada &
       Australia.
-    _key: card-3-df4c3d6b-38c1-4564-89ff-d85dc2aa6c02
+    _key: card-3-bcb8ea73-9b37-4564-b34b-dd036648755c
   - order: 3
     body: >-
       ## Why It Matters:
@@ -66,7 +66,7 @@ cards:
 
       * Kids from families with incomes below the poverty line are less likely
       to be read aloud to than those from higher income families.
-    _key: card-4-c46955b5-a255-4bf2-90ec-75e348096ff2
+    _key: card-4-fc34adeb-413e-4b74-8b9f-29dfd9a42d19
   - order: 4
     body: >-
       Can't get enough Dolly? Us either! We're in luck because she just
@@ -74,7 +74,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/dolly/)
-    _key: card-10-8708c6c9-2404-4dfd-a638-51f3f54736f3
+    _key: card-10-08699cb6-4cd3-4dbe-9475-c5da31e9d624
 
 ---
 * Dolly Parton Donates 100 Millionth Book to Children In Need: [https://www.billboard.com/articles/columns/country/8221433/dolly-parton-100-millionth-book-immigration-library](https://www.billboard.com/articles/columns/country/8221433/dolly-parton-100-millionth-book-immigration-library)

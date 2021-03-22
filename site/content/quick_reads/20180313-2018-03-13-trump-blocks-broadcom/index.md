@@ -1,14 +1,14 @@
 ---
 title: 2018.03.13 Trump Blocks Broadcom
 slug: 20180313-2018-03-13-trump-blocks-broadcom
-_id: legacy-3c46d4b8-9da3-4c68-bf34-cab23ade07fa
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-4c907240-6a3c-4ccb-aa6b-6f6322723ad1
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 2018-03-13-trump-blocks-broadcom/
 _createdAt: '2018-03-13T10:18:02Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-13T10:18:02+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       WHY THIS IS A BIG DEAL
     citation: WHY THIS IS A BIG DEAL
-    _key: card-1-97d67362-91b5-4405-b609-28732c92ad7a
+    _key: card-1-e06162bb-b3d6-4329-973e-ebc9260ec59b
   - order: 1
     body: >-
       ## How Rare Is This?
@@ -49,7 +49,7 @@ cards:
 
       In 2016, Pres. Obama blocked another Chinese co. takeover of chipmaker
       with ties to U.S.
-    _key: card-2-9e87f5e5-ff98-42fb-ba96-5f0daed3a170
+    _key: card-2-74e18f3a-a4b2-415c-b380-3dcdeabfd767
   - order: 2
     body: >-
       ## Why They Want Our Tech
@@ -64,7 +64,7 @@ cards:
       [Need a refresher? Click for last week's
       scoop.](https://smarthernews.com/18-03-07-tech-spy-games/)
     citation: Need a refresher? Click for last week's scoop.
-    _key: card-3-271416d4-2fce-4ee8-8673-51a911c3b0da
+    _key: card-3-04fa0a7f-e0c6-436b-b13d-264720d5a431
   - order: 3
     body: >-
       Acronym to Know: CFIUS  
@@ -80,10 +80,10 @@ cards:
       foreign companies pose a national security threat
 
       * CFIUS warned**A** onA Broadcom’s takeover last week
-    _key: card-4-0aa2c3f4-925e-4aa8-8722-d54ca4de433c
+    _key: card-4-52b2ea4c-b97d-485a-bc12-4638665085ae
   - order: 4
     body: '[view sources](https://smarthernews.com/2018-03-13-trump-blocks-broadcom/)'
-    _key: card-10-d62ccbea-ba4f-45a5-890c-e28fa0cc74f4
+    _key: card-10-65cfabdc-8cf8-4833-981a-87ca9defd4a9
 
 ---
 * Read why President Trump blocked the Broadcom-Qualcomm Deal:A [https://www.whitehouse.gov/presidential-actions/presidential-order-regarding-proposed-takeover-qualcomm-incorporated-broadcom-limited/](https://www.whitehouse.gov/presidential-actions/presidential-order-regarding-proposed-takeover-qualcomm-incorporated-broadcom-limited/)

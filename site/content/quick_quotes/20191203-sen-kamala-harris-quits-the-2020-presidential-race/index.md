@@ -1,23 +1,21 @@
 ---
 title: Sen. Kamala Harris Out of the 2020 Presidential Race
 slug: 20191203-sen-kamala-harris-quits-the-2020-presidential-race
-_id: legacy-3f543df1-5ac8-42a9-a116-8b1ddca74fa8
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-4ed5f139-093d-4cf3-a21c-aed4a9dbeb9c
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/sen-kamala-harris-quits-the-2020-presidential-race/
 _createdAt: '2019-12-04T02:47:40Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-12-04T02:47:40+00:00'
 weight: 50
 is_breaking: false
-summary: Sen. Kamala Harris out of the 2020 presidential race
 featured_quote:
   quote: >-
     In good faith, I can’t tell you, my supporters and volunteers, that I have a
     path forward if I don’t believe I do.
-  citation: Sen. Kamala Harris out of the 2020 presidential race
 
 ---
 * **Why It Matters:** Once considered a top contender, Harris now joins another dozen democratic candidates who dropped out of the race. Another 16 candidates remain, including four women.

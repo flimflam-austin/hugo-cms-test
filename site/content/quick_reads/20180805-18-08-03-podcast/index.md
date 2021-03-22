@@ -1,14 +1,14 @@
 ---
 title: 18.08.03 Podcast
 slug: 20180805-18-08-03-podcast
-_id: legacy-9c0a5bc0-9313-4fcd-a46d-51d27851a256
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-42066bde-243a-4814-b62e-46bf22800d33
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-03-podcast/
 _createdAt: '2018-08-06T02:17:22Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-06T02:17:22+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
       [Click Here To
       Listen:](http://smarthernews.libsyn.com/smarther-podcast-ep-8-a-remarkable-invention-news-to-know)
     citation: 'Click Here To Listen:'
-    _key: card-1-ee99c29f-7330-447f-8249-4f48cfa9a4bd
+    _key: card-1-1faf5d56-328e-4165-b922-fbfd116cacaf
   - order: 1
     body: >-
       We want to hear from you - call us, email us, send a telegram:
@@ -41,7 +41,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-03-podcast/)
-    _key: card-10-c83b2b4f-df1e-4e05-82a4-afffaadb54ec
+    _key: card-10-c2411a34-2ff2-4f78-a6bf-6b55d8f24067
 
 ---
 Podcast Link:

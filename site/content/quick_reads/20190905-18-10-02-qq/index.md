@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for Tuesday, October 2
 slug: 20190905-18-10-02-qq
-_id: legacy-3e889edd-9031-42bb-8452-2949709e57b6
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-ed6ff12b-7651-4472-a23c-8cd3be5e706a
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-10-02-qq/
 _createdAt: '2018-10-02T11:36:59Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-10-02T11:36:59+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       Afghanistan in 2008 who ran into fire to treat teammates & take the fight
       to the enemy; no one died. Shurer now serves in the secret service &
       suffers from lung cancer; he has 2 young children.
-    _key: card-1-aa97073b-efd2-4141-adbd-93f34c511add
+    _key: card-1-229d03ed-0fe2-47ab-b6ee-c7ff65d4196d
   - order: 1
     body: >-
       > ‘Many people are still strongly against the idea of retailers opening
@@ -43,7 +43,7 @@ cards:
       sales. According to their survey, a record number of 60 retailers have
       already announced their stores (not their websites) will be closed on
       Thanksgiving, incl. Costco & Nordstrom.
-    _key: card-2-b8e1c3b7-00f9-4a95-ba43-6ac63a174bfc
+    _key: card-2-4800d5ff-7ef8-4651-a4db-5a6745764f4b
   - order: 2
     body: >-
       > “The time for endless delay and obstruction has come to a close. Judge
@@ -56,7 +56,7 @@ cards:
       about expected full Senate vote on Supreme Court nominee Judge Brett
       Kavanaugh. McConnell has not set a date or time; the FBI investigation is
       expected to conclude by Friday, but also lacks a firm timeline.
-    _key: card-3-4563d60d-ca01-4b45-b503-6f5c9041a686
+    _key: card-3-a4a0a3cf-24a4-4782-808f-20d62b8f65b2
   - order: 3
     body: >-
       > ‘We just ran. There were no sirens, no warning. Just the shaking and the
@@ -70,7 +70,7 @@ cards:
       tsunamis hasn't worked since 2012. Officials used text message and social
       media to try to warn residents but the location of the earthquake produced
       almost an immediate tidal surge.
-    _key: card-4-2210ab0a-bcc5-4bb9-a238-5aaecf39256a
+    _key: card-4-f363fa8c-2981-4bda-b6d9-09c43e933517
   - order: 4
     body: >-
       > “We listened to our critics, thought hard about what we wanted to do,
@@ -83,13 +83,13 @@ cards:
       minimum wage ($7.25/hour since 2009). The announcement comes on the same
       day a large service industry union will lead protests around the country
       advocating for higher pay; Amazon has been pressured to do the same.
-    _key: card-5-da2ff2be-9624-4686-bccd-4b1577b6b1c0
+    _key: card-5-d4c31dcf-05a2-488a-9361-79ce9f682549
   - order: 5
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-10-02-qq/)
-    _key: card-10-8274b682-ffd2-45a8-8342-2063f0664893
+    _key: card-10-36951da7-6290-443f-82ee-f1a66a113189
 
 ---
 * **Medal of Honor recipient who saved his teammates’ lives faces a new battle: cancer**  

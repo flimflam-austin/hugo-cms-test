@@ -1,14 +1,14 @@
 ---
 title: 18.05.02 Backup Cameras
 slug: 20180504-18-05-02-blind-spot-breakthrough
-_id: legacy-be3c6458-a0e9-428d-87d4-6a8e812e7473
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-e2de5f10-c216-4830-8560-366cfa58af86
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-02-blind-spot-breakthrough/
 _createdAt: '2018-05-04T10:54:50Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-04T10:54:50+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       Each year “**backover crashes**” result in 200+ fatalities; more than 50%
       are kids under 5 & adults over 70.
-    _key: card-1-cfdd82a0-7656-4fbe-89bc-05e99ff1765c
+    _key: card-1-f2366f86-ab55-4565-9e0c-15e6d4082d3b
   - order: 1
     body: >-
       > **‘It’s a bittersweet day because this rule should have been in place
@@ -44,7 +44,7 @@ cards:
       son Cameron when he backed over him with his vehicle in 2002. His work led
       to Cameron Gulbransen Kids. Transportation Safety Act of 2007', which
       eventually led to this new rule.
-    _key: card-2-afc970fa-a3ed-45c9-ba97-141e6bb44676
+    _key: card-2-570e3912-8deb-4d8b-8ceb-adac74ff6246
   - order: 2
     body: >-
       ## Will It Work? Is it Enough?
@@ -57,7 +57,7 @@ cards:
       HOWEVER, a 2018 IIHS study found that cars equipped with backup cameras
       **AND rear breaking systems with parking sensors** can reduce backup
       related crash rates by **75%.**
-    _key: card-3-009dd336-d3c8-4517-a343-3be086696890
+    _key: card-3-6a10ce90-1787-41fc-92df-d2e40c07cae0
   - order: 3
     body: >-
       Backup crashes account for about 2% of all passenger vehicle accidents,
@@ -66,7 +66,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-02-blind-spot-breakthrough/)
-    _key: card-10-b67641d6-891b-4437-9f26-8364ae5e817a
+    _key: card-10-58d002b8-43f4-47d9-b1e7-4549364cd771
 
 ---
 * **All new cars in U.S. now required to have backup cameras:** [https://abcnews.go.com/US/cars-us-now-required-backup-cameras/story?id=54854404](https://abcnews.go.com/US/cars-us-now-required-backup-cameras/story?id=54854404)

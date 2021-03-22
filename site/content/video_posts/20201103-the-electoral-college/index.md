@@ -1,20 +1,24 @@
 ---
 title: 'Video: the Electoral College'
 slug: 20201103-the-electoral-college
-_id: legacy-82ba9d45-3590-45a3-9803-e07c71abacdd
-_rev: XOnQP8cIThhnw9BWFxY3pZ
+_id: legacy-87fc6af9-aff5-48b3-b8cc-b31d0654d1be
+_rev: ZEyhBiGfgCfwE8WOjbuK7B
 type: video_posts
 draft: false
 aliases:
   - article/the-electoral-college/
 _createdAt: '2020-10-30T05:11:32Z'
-_updatedAt: '2021-03-16T13:06:01Z'
+_updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-10-30T05:11:32+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    d96571889d21aee65c019d6207e7797c187691a5-843x1024.jpg
 video_series: Spotlight
 
 ---
-{{< youtube sTHAkc46SiE >}}
+{{< youtube id=\sTHAkc46SiE\ title=\The Electoral College - Where It Comes From & Why It Matters\ >}}
 
 ## **Create your own electoral college map: [CLICK HERE](https://www.realclearpolitics.com/epolls/2020/president/create_your_own_president_map.html)**
 
@@ -24,4 +28,4 @@ A thorough long read about the electoral college for something more in-depth: [C
 
 COMMENTARY: In Defense of the Electoral College: [READ HERE](https://www.nationalaffairs.com/publications/detail/in-defense-of-the-electoral-college)
 
-COMMENTARY: It’s time to abolish the Electoral College: [READ HERE](https://www.brookings.edu/policy2020/bigideas/its-time-to-abolish-the-electoral-college/)ral College: [READ HERE](https://www.brookings.edu/policy2020/bigideas/its-time-to-abolish-the-electoral-college/)
+COMMENTARY: It’s time to abolish the Electoral College: [READ HERE](https://www.brookings.edu/policy2020/bigideas/its-time-to-abolish-the-electoral-college/)

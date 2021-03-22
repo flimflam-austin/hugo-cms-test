@@ -1,14 +1,14 @@
 ---
 title: 18.08.21 Qtd Jennifer Garner
 slug: 20180822-18-08-21-qtd-jennifer-garner
-_id: legacy-07544b65-d2fa-46f8-86d2-940b617f6212
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-6b428132-df3b-4c63-8e7c-bf9c98956cf8
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-21-qtd-jennifer-garner/
 _createdAt: '2018-08-22T11:59:56Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-22T11:59:56+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       Jennifer Garner
     citation: Jennifer Garner
-    _key: card-1-3c1aef2c-41e0-4dc3-9ec0-218d7b124c8d
+    _key: card-1-1878403d-75b0-4ebc-9c30-928a6aeaa827
   - order: 1
     body: >-
       Garner received her star on The Hollywood Walk of Fame on Tuesday,
@@ -37,7 +37,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-21-qtd-jennifer-garner/)
-    _key: card-10-7d19a48e-738b-4693-8082-ac3791255f5c
+    _key: card-10-52837339-cbb6-447a-a18e-33ffa10330d6
 
 ---
 * **Recent SmartHER News post about the** “[Hollywood Walk of Fame](https://smarthernews.com/18-08-08-trump-hollywood-star/)” **including how one receives a star**A **and the controversy surrounding President Trump’s star.A**

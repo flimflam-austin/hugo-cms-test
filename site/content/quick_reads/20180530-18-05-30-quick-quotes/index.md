@@ -1,14 +1,14 @@
 ---
 title: 18.05.30 Quick Quotes
 slug: 20180530-18-05-30-quick-quotes
-_id: legacy-b8f81e3d-939a-435d-b3c1-86474222d65a
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-c25033db-45b6-4e30-9cc4-927e466f21f0
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-30-quick-quotes/
 _createdAt: '2018-05-30T10:20:05Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-05-30T10:20:05+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
       Chinese imports, ending a brief cease-fire in the trade war. This
       announcement comes AHEAD of Commerce Secy Wilbur Ross' trade negotiations
       with China Saturday.
-    _key: card-1-16dce0f8-e9e6-40af-8d6f-084e85a96f0d
+    _key: card-1-2ad08653-a6c7-4a29-9f44-28c9a0f350cc
   - order: 1
     body: >-
       > **‘Conflicting messages coming from the admin. is causing whiplash for
@@ -44,7 +44,7 @@ cards:
       Retail Industry Leaders Assoc. statement on announcement of tariffs. The
       association supports holding China accountable but worries plan punishes
       American families with expected higher prices.
-    _key: card-2-f7715e16-5212-49c7-a337-ad556c70bd09
+    _key: card-2-8f0166ae-2017-4843-a95f-61881f0a2508
   - order: 2
     body: >-
       > **“But the estimate isn’t as precise as the figure implies. The
@@ -58,10 +58,10 @@ cards:
       Rico following 2017's Hurricane Maria, up from the 65 deaths originally
       reported by the gov't. By comparison, 1,833 died in Hurricane Katrina in
       2005.
-    _key: card-3-d2b92183-ab12-420f-a7f5-cbab5926a033
+    _key: card-3-df4442b7-6e9e-4ee5-9eb7-6f81506fb1f9
   - order: 3
     body: "> “This is incredibly sad and difficult for all of us, as we’ve created a show that we believe in, are proud of, and that audiences lovea\x14 one that is separate and apart from the opinions and words of one cast member.”  \n  \n  \n  \nSara Gilbert, actress, from Roseanne tweeting about the show's cancellation after a a racist tweet from star, Roseanne Barr."
-    _key: card-4-34cc7e10-e4ee-41a7-83a9-06c773d60bdb
+    _key: card-4-72f6cacc-2fb1-4d72-8234-1f29d502df54
   - order: 4
     body: >-
       > “Didn’t meet projections but amounts to a new personal best.”  
@@ -72,7 +72,7 @@ cards:
       Story." The movie brought in brought in an est $103M vs $130M projected
       sparking talk of Star Wars film fatigue (BTW - it WAS a 3-day opening
       weekend best for Howard).
-    _key: card-5-f475c3d8-b414-4368-b344-be58c326fd98
+    _key: card-5-c0dfc451-b219-4b80-89ca-659fbd692819
   - order: 5
     body: >-
       > **“People might think: ‘Why are these people still harping on about
@@ -85,13 +85,13 @@ cards:
       private search efforts end & Malaysia's gov't says there are no plans for
       new searches. The flight was carrying 239 passengers & crew, including an
       American, when it vanished 40 mins into a trip from Malaysia to China.
-    _key: card-6-977d1380-1912-461b-bbab-09bcaf161f17
+    _key: card-6-bd8a683a-0b51-475a-b87b-fc152e87af7c
   - order: 6
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-05-30-quick-quotes/)
-    _key: card-10-960b2348-0ba5-4ba0-bbfb-cc5eb4ace60d
+    _key: card-10-227fdff0-a798-4197-ba77-a4672a2d6f10
 
 ---
 * **Trump Ratchets Up Pressure on China With Swerve on Tariff Plans:**  

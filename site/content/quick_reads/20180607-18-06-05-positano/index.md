@@ -1,14 +1,14 @@
 ---
 title: 18.06.05 Positano
 slug: 20180607-18-06-05-positano
-_id: legacy-779ce28d-698e-4ff5-a2ce-9adf71c1e2cf
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-e38cf9ce-61d3-45db-9ed2-41a93c6a3071
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-05-positano/
 _createdAt: '2018-06-07T10:56:57Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-07T10:56:57+00:00'
 weight: 50
 featured_image:
@@ -24,7 +24,7 @@ cards:
 
       Flip: Ciao Bella
     citation: 'Flip: Ciao Bella'
-    _key: card-1-f723d5eb-3873-4774-8163-764d25b4834e
+    _key: card-1-131c6dd4-3c34-4f3f-8852-bdb350dc17f5
   - order: 1
     body: >-
       > “I thought no exotic destination could ever match our Honeymoon in Bora
@@ -35,7 +35,7 @@ cards:
         
       SmatHER reader, Kit Schumaker shares her tips for a romantic getaway to
       Positano on Italy's Amalfi Coast.
-    _key: card-2-a6fa18ea-4d93-47a9-a737-0ba6e813e664
+    _key: card-2-38b41195-2d25-4e55-bc60-82acbf345700
   - order: 2
     body: >-
       ## Getting There
@@ -50,7 +50,7 @@ cards:
       Kit says the road to Positano is an adventure all its own! Speaking of
       "traffic," the ideal months to visit the Amalfi Coast are May & September
       when the weather is good, crowds lighter and prices less expensive.
-    _key: card-3-d0256ce4-b316-4216-aebf-dae242e73917
+    _key: card-3-aef0a3bc-ba6b-4090-b001-444a4e005e5b
   - order: 3
     body: >-
       > “After climbing up and down steps all day, there is no guilt in the
@@ -66,7 +66,7 @@ cards:
 
       Flip: Where To Go
     citation: 'Flip: Where To Go'
-    _key: card-4-9b10b8f4-8864-4ad7-b10d-68863cd87d99
+    _key: card-4-a1ecdb2d-a967-4a20-b57f-a9a968f1911d
   - order: 4
     body: >-
       ## In Nearby Capri
@@ -81,7 +81,7 @@ cards:
         
       Kit didn't want to leave Positano but says a quick day trip to the island
       of Capri is a must.
-    _key: card-5-472a98ac-572d-4137-9d69-92759d9bb6a4
+    _key: card-5-520a67a1-6776-4a16-a5b6-799bfaa8f99d
   - order: 5
     body: >-
       We asked Kit how she looked so glamorous while traveling - Her response?
@@ -91,7 +91,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-05-positano/)
-    _key: card-10-8f547cae-3143-40ec-a508-1166fd796f59
+    _key: card-10-4e15026d-2069-49b4-a6b0-1b6ea2225418
 
 ---
 **SmartHER Positano:**

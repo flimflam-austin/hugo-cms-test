@@ -1,14 +1,14 @@
 ---
 title: 18.04.06 Interview with Jonathan Schanzer
 slug: 20180407-18-04-06-interview-jonathan-schanzer
-_id: legacy-c9bf382b-f41a-4a5b-8426-a7894ba1590c
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-bb31318b-3e61-4a91-aa70-7e55f532e560
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-06-interview-jonathan-schanzer/
 _createdAt: '2018-04-06T15:14:37Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-06T15:14:37+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/rUIOf__zcxc?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-090e917f-60ee-4dbf-ad8b-dea2f3961a4e
+    _key: card-1-fa4dee7d-054c-4e2e-9235-72c180cfac58
   - order: 1
     body: >-
       Who should we interview next? Write us: Info@SmartHernews.com
@@ -41,7 +41,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-04-06-interview-jonathan-schanzer/)
-    _key: card-10-382240d0-08b7-49b4-b304-93c694e82544
+    _key: card-10-fb87211a-7988-4ec9-b4ac-dd1404072ce8
 
 ---
 Interview Link:

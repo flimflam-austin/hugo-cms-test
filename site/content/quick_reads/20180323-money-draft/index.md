@@ -1,14 +1,14 @@
 ---
 title: 18.03.23 Spending Bill
 slug: 20180323-money-draft
-_id: legacy-c17c307f-0b59-49e6-9b4c-860a841c8285
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-a4dad6f6-2e74-47a8-8c00-3f9276081816
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - money-draft/
 _createdAt: '2018-03-23T11:18:07Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-23T11:18:07+00:00'
 weight: 50
 featured_image:
@@ -34,10 +34,10 @@ cards:
 
       Flip For How It’s Spent.
     citation: Flip For How It’s Spent.
-    _key: card-1-72bb787a-a00b-4697-9038-1836da35ac6f
+    _key: card-1-6468bbeb-1e4d-4610-ae94-d45646b64bfe
   - order: 1
     body: "> “But I say to Congress: I will never sign another bill like this again.A I’m not going to do it again.A Nobody read it.A It’s only hours old.A Some people don’t even know what is in a\x14 $1.3 trillion a\x14 it’s the second largest ever.”  \n  \n  \n  \nPresident Trump, remarks after signing spending bill, White House, March 23, 2018"
-    _key: card-2-d610008e-f543-49de-8499-853c8a6d238d
+    _key: card-2-1f605499-35d2-4444-bacd-c22b913e773c
   - order: 2
     body: >-
       Highlights: Spending Bill  
@@ -53,7 +53,7 @@ cards:
       * $4.5B+ for opioid addiction
 
       * $2B for school security (including mental health)
-    _key: card-3-e1f2a4fb-4ef4-4c54-92f4-6bb020aa8337
+    _key: card-3-8c3f1ef7-f333-409e-85ad-3b99399b6bde
   - order: 3
     body: >-
       ## Why Some Don’t Like It:
@@ -65,7 +65,7 @@ cards:
         
       Senator Mike Lee (R-UT), Twitter, March 21, 2018 ~ Some feel there's TOO
       much spending and not enough public debate.
-    _key: card-4-ce920857-a4bf-40d2-8466-7674edc801a6
+    _key: card-4-84241fb2-51f9-4d6b-9827-9fc7644f4645
   - order: 4
     body: >-
       > “Victory for conservatives today is that all of America now knows what a
@@ -77,7 +77,7 @@ cards:
         
       Sen Rand Paul (R, KY) Twitter, March 22, 2018 (He doesn't like the bill
       either)
-    _key: card-5-559ccbf3-f00a-4544-957d-4e96a19d0b3c
+    _key: card-5-e210e89c-9530-4c88-a6db-f82f8be9ee88
   - order: 5
     body: >-
       ## Bipartisan Support
@@ -91,7 +91,7 @@ cards:
       there first.”_  
 
       Senator Chuck Schumer (D, NY) WSJ
-    _key: card-6-3402e0d0-fe02-4af5-b057-fbf89bb0bec4
+    _key: card-6-ec77303c-3dc9-496c-88e3-e3fbf4c34640
   - order: 6
     body: >-
       ## Why Pres Was Angry:
@@ -103,7 +103,7 @@ cards:
       desperately needed for our National Defense, is not fully funded.”_  
 
       Pres. Trump, @Twitter, Friday March 24, 2018 8:55 a.m.
-    _key: card-7-160ff58b-5398-4615-8030-4206e47c4237
+    _key: card-7-5704f848-c126-4e48-893b-82bd7b3e0a38
   - order: 7
     body: >-
       ## For Your Consideration:
@@ -119,7 +119,7 @@ cards:
       [Click Here For Catch-Up On
       Daca](https://smarthernews.com/02-19-18-trump-daca/)
     citation: Click Here For Catch-Up On Daca
-    _key: card-8-58918c00-7c66-42e9-a4a2-c343f68b00b7
+    _key: card-8-de9a76e4-032f-4f03-85c2-2e8e4227e63f
   - order: 8
     body: >-
       ## Interesting Side-Story:
@@ -133,7 +133,7 @@ cards:
       because of it.
 
       * Proving the 2200+ page bill may have a lot of overlooked line items.
-    _key: card-9-24f74dd5-39e8-4645-bffd-02dda1374ead
+    _key: card-9-5b9cd960-a86c-4752-8a11-cd4a105bf746
   - order: 9
     body: >-
       Meanwhile, witness your tax dollars hard atA work as two senators from
@@ -143,7 +143,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/money-draft/)
-    _key: card-10-4dc4ca07-87ce-458a-9dbd-6e03decc2c4a
+    _key: card-10-37474327-bef2-4741-9a13-661edaf591ef
 
 ---
 * WASHINGTON (AP) — The Latest on Congress and a $1.3 trillion government spending bill (all times local):A [https://apnews.com/81a76d9089954877a4cbf7b091cdb02f?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP](https://apnews.com/81a76d9089954877a4cbf7b091cdb02f?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP)

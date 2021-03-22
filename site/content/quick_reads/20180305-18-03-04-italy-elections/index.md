@@ -1,14 +1,14 @@
 ---
 title: 18.03.04 Italy Elections
 slug: 20180305-18-03-04-italy-elections
-_id: legacy-e41d4322-53d1-4726-9a7e-410fa098a5f9
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-361683ae-f48e-47ac-9b2e-b7bef53d7d9d
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-04-italy-elections/
 _createdAt: '2018-03-05T12:01:29Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-05T12:01:29+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       * No clear winner, but Euroskeptic, anti-establishment parties gained most
       votes, & ruling center-left party lost ground. **This marks a change.**
-    _key: card-1-3fdffcf7-1d58-4075-839b-193e1865e481
+    _key: card-1-5014a0ec-e27f-4371-badb-9ea758680a5d
   - order: 1
     body: >-
       Word To Know:  
@@ -49,7 +49,7 @@ cards:
 
       _New York Times:_ “That anti-immigrant sentiment, as well as a strong dose
       of **euroskepticism**, swept Italy this election season.”
-    _key: card-2-66446dba-031e-46cb-a65d-473556e40e46
+    _key: card-2-1c7cbacb-c007-453b-b821-a5883cb7ee0a
   - order: 2
     body: >-
       # The Major Players
@@ -63,7 +63,7 @@ cards:
 
       * **Center-Left Coalition**: Former ruling party led by Ex-PM Renzi,
       focusedA on proposals to revive the economy.
-    _key: card-3-670358c0-a3f8-412c-9b33-461a916e7c88
+    _key: card-3-41c05a16-b53e-4633-8ac3-70d3ede8ad08
   - order: 3
     body: >-
       ## Key Issues: Immigration & the Economy
@@ -78,7 +78,7 @@ cards:
 
       Unemployment at **10.8%** with more than 32% of Italians under 25
       unemployed.
-    _key: card-4-86165e2e-47ec-4b30-a8a5-5555bd0008cc
+    _key: card-4-6dfbcd0e-5402-427a-99df-5775942a0ac2
   - order: 4
     body: >-
       # No Clear Winner?
@@ -94,7 +94,7 @@ cards:
 
       * Experts say 2017 changes to Italy’s election laws make it harder for one
       single party to win.
-    _key: card-5-87b5b365-1fa9-4201-87e7-025905663526
+    _key: card-5-73ae7563-a9fb-4666-9721-980122e536df
   - order: 5
     body: >-
       > ‘Bottom line: Italy is far from having sorted its longstanding problems,
@@ -105,10 +105,10 @@ cards:
         
       Lorenzo Codogno, founder & chief economist of LC Macro Advisors, NYT March
       4, 2018
-    _key: card-6-da6d8e62-b770-4a19-8bee-59adeaeb24d6
+    _key: card-6-195d2a98-1e06-4aea-997c-6c5b745f40a6
   - order: 6
     body: '[view sources](https://smarthernews.com/18-03-04-italy-elections/)'
-    _key: card-10-2c360fa0-1778-47ab-9f0c-8daa444fc6e6
+    _key: card-10-0678098d-976b-457d-9c49-f368082c6627
 
 ---
 * Up-to-the-minute updates from the Associated Press:A [https://apnews.com/3e3813ba195749ab872e8a2462786dfd/The-Latest:-Italy-polling-lines-blamed-on-anti-fraud-checks](https://apnews.com/3e3813ba195749ab872e8a2462786dfd/The-Latest:-Italy-polling-lines-blamed-on-anti-fraud-checks)

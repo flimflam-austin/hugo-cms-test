@@ -4,26 +4,24 @@ title: >-
   Emergencies.
 slug: >-
   20191202-california-wildfires-highlight-how-unreliable-cellphones-are-during-emergencies
-_id: legacy-8f7a5fa6-b684-40d3-b0d1-a266ee0b6160
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-f8ed4f7f-19e5-4b03-8e8d-712190c671b2
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/california-wildfires-highlight-how-unreliable-cellphones-are-during-emergencies/
 _createdAt: '2019-10-30T03:04:41Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2019-10-30T03:04:41+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    a82600d6cc093a5b9621b406af87f3273dd96a98-2160x1451.jpg
 is_breaking: false
-summary: >-
-  California wildfires highlight the inconsistency of cellphones during
-  emergencies.
 featured_quote:
   quote: It's a lifeline to many, many people.
-  citation: >-
-    California wildfires highlight the inconsistency of cellphones during
-    emergencies.
 
 ---
 * California Public Advocates Office Chris Ungson about an unforeseen consequences of the wildfires.
@@ -31,4 +29,4 @@ featured_quote:
 * The FCC is reviewing the system to make sure cell phone companies have the appropriate backup power.
 
 **California blackouts hit cellphone service, fraying a lifeline**  
-[https://www.sfgate.com/business/article/California-Blackouts-Hit-Cellphone-Service-14569692.php](https://www.sfgate.com/business/article/California-Blackouts-Hit-Cellphone-Service-14569692.php)vice-14569692.php](https://www.sfgate.com/business/article/California-Blackouts-Hit-Cellphone-Service-14569692.php)
+[https://www.sfgate.com/business/article/California-Blackouts-Hit-Cellphone-Service-14569692.php](https://www.sfgate.com/business/article/California-Blackouts-Hit-Cellphone-Service-14569692.php)

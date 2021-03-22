@@ -1,14 +1,14 @@
 ---
 title: 18.05.14 Quick Quotes
 slug: 20180514-18-05-14-quick-quotes
-_id: legacy-7b1c6a07-f5a0-447c-a96b-91792a81a3da
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-1e6473c7-6cbc-405a-8718-f2de0473afcb
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-14-quick-quotes/
 _createdAt: '2018-05-14T12:00:27Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-14T12:00:27+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
       Actor Ryan Reynolds speaking about how he manages his anxiety; once he
       gets in front of a crowd, he's fine but in the hours before, he's not. His
       sequel to Deadpool debuts Friday, May 18th.
-    _key: card-1-4a3b38ed-2c76-47de-9e42-b7cb1a9ca651
+    _key: card-1-250800fa-f76b-4985-b2c3-6bff50d257a2
   - order: 1
     body: >-
       > **“The average millennial doesn’t have time to make a full meal with
@@ -45,7 +45,7 @@ cards:
       food trends such as quinoa, kale and farm-to-table. The popularity stems
       in part from a record-high level of single Americans as millennials wait
       to form families.
-    _key: card-2-fdfb0881-9444-4485-9e8e-854898987097
+    _key: card-2-78e7ad2e-e106-4f16-9307-2bb534cb4848
   - order: 2
     body: >-
       > **‘That’s the prelude to getting them into a higher rate production
@@ -62,7 +62,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/Ve9kWX_KXus?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-3-9172df1e-1992-43bf-80a8-bc763e529254
+    _key: card-3-dd47ac63-a7ee-42d7-b040-c0d46132c52f
   - order: 3
     body: >-
       > **“This was not something that was really my doing or my choice.”**  
@@ -73,7 +73,7 @@ cards:
       as he says band has 'harmed its legacy'. The legendary rock group revealed
       last month they had parted ways with the lead guitarist ahead of a tour
       which kicks off in October.
-    _key: card-4-f8d17085-e015-4850-b5b6-069311363073
+    _key: card-4-99849ea2-f600-47bd-93a0-f8715117b899
   - order: 4
     body: >-
       > ‘It’s like a burned Cheez-It with syrup. But I don’t hate it like I
@@ -84,10 +84,10 @@ cards:
       Wife of NY Times Jordan Lebeau, who wrote an article on how casual dining
       chains like Red Lobster are trying new menu items amongst declining sales.
       Red Lobster's new menu item last month was lobster with waffles.
-    _key: card-5-a06b36dd-47bc-4da0-ac1b-37de01bbc571
+    _key: card-5-0ee417a9-ea78-42c6-9bf8-c6152d4cf5fe
   - order: 5
     body: '[view sources](https://smarthernews.com/18-05-14-quick-quotes/)'
-    _key: card-10-01315cbb-c794-4770-9a31-3c0fef3359d5
+    _key: card-10-a8c52de6-1e4c-41a0-86f8-bc4572f0efff
 
 ---
 * **This Story Has Already Stressed Ryan Reynolds Out:A** [https://www.nytimes.com/2018/05/02/movies/ryan-reynolds-deadpool-2.html](https://www.nytimes.com/2018/05/02/movies/ryan-reynolds-deadpool-2.html)

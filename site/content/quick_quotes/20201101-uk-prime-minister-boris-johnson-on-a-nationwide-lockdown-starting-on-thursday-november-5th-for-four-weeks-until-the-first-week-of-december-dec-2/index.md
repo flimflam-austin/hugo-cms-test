@@ -4,27 +4,24 @@ title: >-
   November 5th - for Four Weeks - Until the First Week of December (Dec. 2).
 slug: >-
   20201101-uk-prime-minister-boris-johnson-on-a-nationwide-lockdown-starting-on-thursday-november-5th-for-four-weeks-until-the-first-week-of-december-dec-2
-_id: legacy-f49991d9-e571-42d3-a283-942c1b1460a9
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-eddc89cc-bd12-4d90-a29b-92bc36c4c097
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/uk-prime-minister-boris-johnson-on-a-nationwide-lockdown-starting-on-thursday-november-5th-for-four-weeks-until-the-first-week-of-december-dec-2/
 _createdAt: '2020-11-02T05:19:16Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2020-11-02T05:19:16+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    8a88db22a5da28a536b7f8a2f771458edc600210-863x1024.jpg
 is_breaking: false
-summary: >-
-  UK Prime Minister Boris Johnson on a nationwide lockdown starting on Thursday
-  November 5th – for four weeks – until the first week of December (Dec. 2).
 featured_quote:
   quote: From Thursday until the start of December you must stay at home.
-  citation: >-
-    UK Prime Minister Boris Johnson on a nationwide lockdown starting on
-    Thursday November 5th – for four weeks – until the first week of December
-    (Dec. 2).
 
 ---
 * The Prime Minister, citing a rise in COVID infections and concerns about hospital capacity, informed the UK Saturday of a new lockdown – the most high-profile one imposed in Europe during the fall season.
@@ -45,4 +42,4 @@ _And the sheer weight of covid demand would mean depriving tens of thousands, if
 
 _It is crucial to grasp this that the general threat to public health comes not from focusing too much on covid, but from not focusing enough, from failing to get it under control_
 
-Full statement: [READ HERE](https://www.gov.uk/government/speeches/prime-ministers-statement-on-coronavirus-covid-19-31-october-2020)AD HERE](https://www.gov.uk/government/speeches/prime-ministers-statement-on-coronavirus-covid-19-31-october-2020)
+Full statement: [READ HERE](https://www.gov.uk/government/speeches/prime-ministers-statement-on-coronavirus-covid-19-31-october-2020)

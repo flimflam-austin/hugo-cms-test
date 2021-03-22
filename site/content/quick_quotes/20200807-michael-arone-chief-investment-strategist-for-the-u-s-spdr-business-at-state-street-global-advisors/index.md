@@ -4,28 +4,26 @@ title: >-
   the Better than Expected July Jobs Report.
 slug: >-
   20200807-michael-arone-chief-investment-strategist-for-the-u-s-spdr-business-at-state-street-global-advisors
-_id: legacy-245b93e1-8453-41cc-928b-53fb76924747
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-7d9ad191-09ef-43f5-a9fe-6d261d94b455
+_rev: f2cVhvAV1wntWw1uaABAwR
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/michael-arone-chief-investment-strategist-for-the-u-s-spdr-business-at-state-street-global-advisors/
 _createdAt: '2020-08-07T16:08:05Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:53Z'
 date: '2020-08-07T16:08:05+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    a4b59b590c120d2ad5004631e9ec2268554061c4-2560x1708.jpg
 is_breaking: false
-summary: >-
-  Michael Arone, chief investment strategist, State Street Global Advisors, on
-  the better than expected July jobs report.
 featured_quote:
   quote: >-
     We still have a lot of wood to chop here, but we’re moving in the right
     direction.
-  citation: >-
-    Michael Arone, chief investment strategist, State Street Global Advisors, on
-    the better than expected July jobs report.
 
 ---
 * Unemployment rate: 10.2% – 1.8M jobs gained (or potentially “returned”).
@@ -38,4 +36,4 @@ VIDEO on the Jobs Report: [Watch Jenna HERE](https://smarthernews.com/article/ju
 
 Payrolls increase by nearly 1.8 million, topping expectations despite coronavirus resurgence: [CLICK HERE](https://www.cnbc.com/2020/08/07/jobs-report-july-2020.html)
 
-Link to the Jobs Report from the Bureau of Labor Statistics: [CLICK HERE](https://www.bls.gov/news.release/empsit.nr0.htm) the Jobs Report from the Bureau of Labor Statistics: [CLICK HERE](https://www.bls.gov/news.release/empsit.nr0.htm)
+Link to the Jobs Report from the Bureau of Labor Statistics: [CLICK HERE](https://www.bls.gov/news.release/empsit.nr0.htm)

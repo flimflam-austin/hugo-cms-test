@@ -1,14 +1,14 @@
 ---
 title: 18.07.08 Jobs Report
 slug: 20180709-18-07-08-jobs-report
-_id: legacy-3a426560-891f-4388-87f6-9ccd0c659c85
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-100ae8a7-3fc7-40c5-8349-6a6fa9195170
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-08-jobs-report/
 _createdAt: '2018-07-09T12:29:53Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-09T12:29:53+00:00'
 weight: 50
 card_series: Current Events
@@ -28,7 +28,7 @@ cards:
 
       Flip: Why It Matters
     citation: 'Flip: Why It Matters'
-    _key: card-1-cede9ac9-fa9c-4174-9cd5-1c4d9c3cc378
+    _key: card-1-27306dcb-d7d3-4db4-8bd4-9019ae41b9cb
   - order: 1
     body: >-
       ## Jobs Report 101
@@ -42,7 +42,7 @@ cards:
 
       * The **labor force grew by 601,000 people**, reflecting more people
       looking for a job and the unemployment went up slightly.
-    _key: card-2-b260e4a3-ddbb-49e4-ba71-1b1c77f11317
+    _key: card-2-dc2c7512-e877-4628-85d6-74b07707cf38
   - order: 2
     body: >-
       ## Something To Consider:
@@ -55,7 +55,7 @@ cards:
       market. However, when adjusted for inflation, the **take-home pay is
       essentially flat to last year**. Possible reason? More Americans fill
       lower paid jobs during summer months (AP).
-    _key: card-3-93aedd8e-0132-44e8-8a37-d212539b3cf9
+    _key: card-3-ec09938e-caaf-4783-ad7d-3f865b4f26a5
   - order: 3
     body: >-
       ## National vs. Local
@@ -73,7 +73,7 @@ cards:
       “The jobless rate was also higher than the national average in Arizona,
       Mississippi, Louisiana and Pennsylvania, all states Trump carried in
       2016.”
-    _key: card-4-e253432d-45fd-4fb5-b223-bda0fe237628
+    _key: card-4-0692fcee-85ba-49cd-af7b-d8e4c7552a21
   - order: 4
     body: >-
       Don't forget the impact of potential aluminum & steel tariffs on
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-08-jobs-report/)
-    _key: card-10-1c21bb3d-bd37-4aa6-a38f-3f0b059215ba
+    _key: card-10-a7ba7dbf-baf4-42d3-8de6-fca524b9f9db
 
 ---
 * **U.S. job growth remains strong; wage growth still weak:**  

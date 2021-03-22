@@ -1,14 +1,14 @@
 ---
 title: 18.02.01 Nunes & Schiff Should Step Down
 slug: 20180202-18-02-01-2
-_id: legacy-df29a7e6-a5eb-4dce-824c-2765dee1f9aa
-_rev: XOnQP8cIThhnw9BWFxSjgf
+_id: legacy-70f3c33e-fda9-45cd-8702-37a2afde6ecb
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-01-2/
 _createdAt: '2018-02-02T10:30:09Z'
-_updatedAt: '2021-03-16T11:57:58Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-02T10:30:09+00:00'
 weight: 50
 featured_image:
@@ -29,10 +29,10 @@ cards:
         
         
       Tom Rogan, Washington Examiner
-    _key: card-1-dbd99863-6d87-4268-914d-874caf46dce0
+    _key: card-1-8f7c2e67-20ce-4798-8004-f5aec0dbb478
   - order: 1
     body: '[view sources](https://smarthernews.com/18-02-01-2/)'
-    _key: card-10-3d50f876-ccfc-434f-92af-903548d667f6
+    _key: card-10-1fe140c3-efb0-4cff-801a-ea8dbb6f19df
 
 ---
 **Whatever happens with the memo, Devin Nunes and Adam Schiff should step down from the House Intelligence Committee**  

@@ -1,14 +1,14 @@
 ---
 title: 18.02.27 Facebook Good Neighbor? Sued
 slug: 20180328-18-02-27-facebook-good-neighbor-sued
-_id: legacy-b9d17718-4d5b-48e1-9a08-213d65055dab
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-14ceeb81-ed16-4868-846c-0abb2ed46410
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-02-27-facebook-good-neighbor-sued/
 _createdAt: '2018-03-28T09:55:59Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-28T09:55:59+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       Flip For Why
     citation: Flip For Why
-    _key: card-1-c20ca1ff-6092-454f-bc95-ec683b8d361f
+    _key: card-1-c8aae3ea-eb13-4862-a654-affeeddfb3d9
   - order: 1
     body: >-
       ## Why is FB Being Sued?
@@ -50,7 +50,7 @@ cards:
       protected classes of people from receiving housing ads.’
 
       * **Bottom Line: FB is accused of enabling housing discrimination.**
-    _key: card-2-3973000b-dae2-4cde-bf92-58258bc6fb1d
+    _key: card-2-9ec1f437-c9e4-48b5-8457-e3cfe0e53b6a
   - order: 2
     body: >-
       ## A Tough Few Weeks for FB
@@ -63,7 +63,7 @@ cards:
       * Stock dropped dramatically (wiping away $80B ofA market value).
 
       * FB denies lawsuit allegations.
-    _key: card-3-7ccd568c-9a73-4ff4-a9ba-89cd31ae0e81
+    _key: card-3-79e69322-88d4-4248-bd47-7084e37e970e
   - order: 3
     body: >-
       # Speaking of Housing…
@@ -79,7 +79,7 @@ cards:
 
       * 1500 apartments – 15% for low income residents – the other 85% catered
       towards FB employees (who receive a bonus for living near work).
-    _key: card-4-14591234-837a-4696-899b-cc0eabeea988
+    _key: card-4-8e2a06df-0f12-4136-9425-186b94329149
   - order: 4
     body: >-
       Like Facebook, Google plans to build a community too. So have many other
@@ -90,7 +90,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-02-27-facebook-good-neighbor-sued/)
-    _key: card-10-25576f29-be5d-47a0-9c2a-cb0a09b19b9c
+    _key: card-10-6f8be165-444a-42fd-851d-03bea83e34c9
 
 ---
 * The Case:A [http://nationalfairhousing.org/wp-content/uploads/2018/03/NFHA-v.-Facebook.-Complaint-w-Exhibits-March-27-Final-pdf.pdf](http://nationalfairhousing.org/wp-content/uploads/2018/03/NFHA-v.-Facebook.-Complaint-w-Exhibits-March-27-Final-pdf.pdf)

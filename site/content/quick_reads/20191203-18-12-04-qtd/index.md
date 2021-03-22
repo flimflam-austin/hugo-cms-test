@@ -1,14 +1,14 @@
 ---
 title: 'Quote of the Day: Rabbi Aaron Konikov'
 slug: 20191203-18-12-04-qtd
-_id: legacy-0ee3aa5a-7a44-4e28-b0c6-a22e1d795332
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-ea94d995-db8f-4642-a9b3-86328b9c226c
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-12-04-qtd/
 _createdAt: '2018-12-04T12:35:46Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-12-04T12:35:46+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       Rabbi Aaron Konikov
     citation: Rabbi Aaron Konikov
-    _key: card-1-41404a31-a99f-49e1-9e4e-3c509c9345c3
+    _key: card-1-ce53c537-8b18-4184-931f-1431fb77f69b
   - order: 1
     body: >-
       On the first night of Hanukkah, the 11 officers who responded to the
@@ -37,7 +37,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-12-04-qtd/)
-    _key: card-10-70d7555b-6df9-4201-bbcb-afa94787e55a
+    _key: card-10-579fc893-2d68-4790-b3a3-65152d286a9a
 
 ---
 * **Officers who responded to Pittsburgh shooting light Long Island menorah:A**  

@@ -1,14 +1,14 @@
 ---
 title: 18.04.11 Zuckerberg Testifies
 slug: 20180411-18-04-11-zuckerberg-testifies
-_id: legacy-bc206306-076e-4e27-8067-4745a85b41b8
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-5167d27d-9b7f-409d-bafd-e99eee617a58
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-11-zuckerberg-testifies/
 _createdAt: '2018-04-11T10:31:02Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-11T10:31:02+00:00'
 weight: 50
 featured_image:
@@ -37,7 +37,7 @@ cards:
 
       flip for what he said
     citation: flip for what he said
-    _key: card-1-94e4893f-dadd-4884-85e3-1b26f1c97fe7
+    _key: card-1-83fafb34-7c67-4ce9-bad0-c605776b324e
   - order: 1
     body: >-
       ## GROWING PAINS
@@ -53,7 +53,7 @@ cards:
 
       The 33-year-old**A** ditched his trademark t-shirt & jeans for a navy
       suit, but repeatedly reminded senators of Facebook’s early days.
-    _key: card-2-4293b6c9-ba9f-4719-ade4-d8c30af7818b
+    _key: card-2-a0e455c2-b0d7-46c1-a305-065ce4ba65ec
   - order: 2
     body: >-
       CAMBRIDGE ANALYTICA
@@ -72,7 +72,7 @@ cards:
 
       [Click for Refresher](https://smarthernews.com/18-02-21-facebook-fixes/)
     citation: Click for Refresher
-    _key: card-3-cd2237b0-cb66-4a68-b617-e489689a3f8c
+    _key: card-3-58d664e0-d2e1-44b4-bd62-6e820ec7868b
   - order: 3
     body: >-
       FAKE NEWS &  
@@ -89,7 +89,7 @@ cards:
       This one is a biggie. Zuckerberg previously claimed that Facebook is not a
       media company, and takes no responsibility for what gets posted on the
       platform. This new admission could spell major changes for tech.
-    _key: card-4-66f544f7-6051-4fde-a7ef-8602a1fbbedd
+    _key: card-4-f506723f-ecf9-4987-9ec3-2ee59f3fbbc1
   - order: 4
     body: >-
       ## RUSSIA INVESTIGATION
@@ -105,7 +105,7 @@ cards:
       offered few detailsA citing confidentiality. Mueller has charged 13
       Russians in a plot to interfere in the 2016 presidential election through
       social media propaganda – some of which was on Facebook.
-    _key: card-5-7c6cb1ad-e421-415b-8cb4-7deb7918c6dd
+    _key: card-5-76d9c15f-2d41-46f8-b45a-4a652c04febe
   - order: 5
     body: >-
       ## NEW LAWS COMING?
@@ -122,7 +122,7 @@ cards:
       Cornyn says people expect action. That said, in testimony Zuckerberg had
       to explain Facebook’s basic workings, highlighting how unprepared Congress
       is to impose game-changing rules.
-    _key: card-6-fa066a02-d5d1-40eb-91ab-9bb180282738
+    _key: card-6-3c4c0d64-987a-4696-b7d0-660ae1773f2a
   - order: 6
     body: >-
       Overall, Zuckerberg came out largely unscathed in the nearly 5 hours of
@@ -132,7 +132,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-11-zuckerberg-testifies/)
-    _key: card-10-b17a65bc-e59b-4ffb-a6b3-f8103bfff6f8
+    _key: card-10-0d7b1589-3eba-46b5-a8a0-86d68233ca2c
 
 ---
 * Facebook’s Zuckerberg fends of senators on privacy:  

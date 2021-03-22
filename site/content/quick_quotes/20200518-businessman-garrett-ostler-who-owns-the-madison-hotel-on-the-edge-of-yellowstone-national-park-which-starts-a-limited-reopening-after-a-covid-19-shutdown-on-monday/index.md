@@ -5,30 +5,26 @@ title: >-
   Monday.
 slug: >-
   20200518-businessman-garrett-ostler-who-owns-the-madison-hotel-on-the-edge-of-yellowstone-national-park-which-starts-a-limited-reopening-after-a-covid-19-shutdown-on-monday
-_id: legacy-311a4422-f31d-49a4-b9f3-a05e70dd8881
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-c1a33e76-63d5-498c-8374-449e11b319cb
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/businessman-garrett-ostler-who-owns-the-madison-hotel-on-the-edge-of-yellowstone-national-park-which-starts-a-limited-reopening-after-a-covid-19-shutdown-on-monday/
 _createdAt: '2020-05-18T05:59:52Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-05-18T05:59:52+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    e0b8b0f9d28ec89a32b84cb1fcd702d4e4aaf2af-1024x658.jpg
 is_breaking: false
-summary: >-
-  Garrett Ostler who owns the Madison Hotel on the edge of Yellowstone National
-  Park; Yellowstone starts a limited reopening after a COVID-19 shutdown on
-  Monday.
 featured_quote:
   quote: >-
     People really struggle with staying 50 feet away from a bison, let alone six
     feet from each other. We're social critters.
-  citation: >-
-    Garrett Ostler who owns the Madison Hotel on the edge of Yellowstone
-    National Park; Yellowstone starts a limited reopening after a COVID-19
-    shutdown on Monday.
 
 ---
 * Yellowstone, America’s first National Park, will start a [partial reopening on Monday](https://www.nps.gov/yell/learn/news/20015.htm).
@@ -41,4 +37,4 @@ featured_quote:
 
 **LEARN MORE:**
 
-How the Grand Canyon became a national park (and the one-armed veteran who explored it): [CLICK HERE](https://smarthernews.com/19-02-26-grand-canyon/)al park (and the one-armed veteran who explored it): [CLICK HERE](https://smarthernews.com/19-02-26-grand-canyon/)
+How the Grand Canyon became a national park (and the one-armed veteran who explored it): [CLICK HERE](https://smarthernews.com/19-02-26-grand-canyon/)

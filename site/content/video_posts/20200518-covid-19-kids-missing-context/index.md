@@ -1,20 +1,24 @@
 ---
 title: Covid-19, Kids & Missing Context
 slug: 20200518-covid-19-kids-missing-context
-_id: legacy-12d8a5c8-8ba8-4999-92ea-39fe72579fdf
-_rev: CRhmwZOx7vxYXrRSdQr7Zu
+_id: legacy-2155d42c-241b-4389-80c4-10e30bfc7a1d
+_rev: O8E8pz1fLwnc3fN7JVF8BC
 type: video_posts
 draft: false
 aliases:
   - article/covid-19-kids-missing-context/
 _createdAt: '2020-05-18T22:38:35Z'
-_updatedAt: '2021-03-16T13:06:00Z'
+_updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-05-18T22:38:35+00:00'
 weight: 50
-video_series: Spotlight
+featured_image:
+  alt: Featured article image
+  url: >-
+    35f3cc0e9e42c071d95429837dbc9c8925924521-890x1024.jpg
+video_series: Coffee Talk
 
 ---
-{{< youtube UmKE3MypbnQ >}}
+{{< youtube id=\UmKE3MypbnQ\ title=\COVID, KIDS & MISSING CONTEXT\ >}}
 
 **LEARN MORE:**
 
@@ -22,4 +26,4 @@ video_series: Spotlight
 
 **Children & COVID-19 – THE CDC’S LATEST:** [LATEST INFO](https://smarthernews.com/article/children-covid-19/)
 
-**THE COVID-19 MODELS: HOW TO VIEW ‘EM & USE ‘EM:** [READ HERE](https://smarthernews.com/article/the-covid-19-models-how-to-view-em-use-em/)O VIEW ‘EM & USE ‘EM:** [READ HERE](https://smarthernews.com/article/the-covid-19-models-how-to-view-em-use-em/)
+**THE COVID-19 MODELS: HOW TO VIEW ‘EM & USE ‘EM:** [READ HERE](https://smarthernews.com/article/the-covid-19-models-how-to-view-em-use-em/)

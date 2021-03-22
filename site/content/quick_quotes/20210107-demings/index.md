@@ -3,27 +3,25 @@ title: >-
   Congresswoman Val Demings (D-Fla) Reacting to a Significant Security Breach at
   the u.s. Capitol January 6th, 2021.
 slug: 20210107-demings
-_id: legacy-def48db4-32f9-489e-b660-b2593146d4ae
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-616ff984-3b36-46cb-8659-1aa8eebe7d2c
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - article/demings/
 _createdAt: '2021-01-07T07:44:50Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2021-01-07T07:44:50+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    6ffd23599feabf542bf7a72a1296cabc3d0c8d7a-768x1024.jpg
 is_breaking: false
-summary: >-
-  Congresswoman Val Demings (D-Fla) reacting to a significant security breach at
-  the U.S. Capitol January 6th, 2021.
 featured_quote:
   quote: >-
     I’m damn determined to get answers to those questions about what went wrong
     today.
-  citation: >-
-    Congresswoman Val Demings (D-Fla) reacting to a significant security breach
-    at the U.S. Capitol January 6th, 2021.
 
 ---
 * 4 people died – 1 woman due to a gun shot and 3 others due to “medical emergencies” after a mob broke into the U.S. Capitol.
@@ -39,4 +37,4 @@ featured_quote:
 
 More information on [Congresswoman Demings](https://demings.house.gov/)
 
-(Photo credit: [Congresswoman Demings Twitter Account](https://twitter.com/RepValDemings/status/1347005650849705985?s=20): The Caption: _“Earlier tonight. Shortly after this, rioters were pounding on the doors. Tonight we’ll be back in the same room fulfilling our duty under the constitution.”)_e pounding on the doors. Tonight we’ll be back in the same room fulfilling our duty under the constitution.”)_
+(Photo credit: [Congresswoman Demings Twitter Account](https://twitter.com/RepValDemings/status/1347005650849705985?s=20): The Caption: _“Earlier tonight. Shortly after this, rioters were pounding on the doors. Tonight we’ll be back in the same room fulfilling our duty under the constitution.”)_

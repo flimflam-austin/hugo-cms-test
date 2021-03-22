@@ -1,14 +1,14 @@
 ---
 title: High Court Hearings Begin for Brett Kavanaugh
 slug: 20180926-18-09-04-kavanaugh-scotus-hearings
-_id: legacy-f1b20181-3ff8-493a-92a7-0b74dc60766d
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-d190d4e4-5df8-4fd2-9589-715f39d06318
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-04-kavanaugh-scotus-hearings/
 _createdAt: '2018-09-04T12:00:26Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-04T12:00:26+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       What To Expect
     citation: What To Expect
-    _key: card-1-292aefd4-3d2e-4e49-9388-66e0dd4496ca
+    _key: card-1-04e31cb0-737f-4bed-bdc1-fc02dd5e88e1
   - order: 1
     body: >-
       ## Why Have Hearings?
@@ -50,7 +50,7 @@ cards:
 
       [click: THE ISSUES](https://smarthernews.com/kavanaugh-on-the-issues/)
     citation: 'click: THE ISSUES'
-    _key: card-2-e4beb457-9821-481c-8088-1f952f671736
+    _key: card-2-9f59013f-f98e-46af-9524-6a3e0b9b021d
   - order: 2
     body: >-
       ## HISTORICAL SIGNIFICANCE
@@ -63,7 +63,7 @@ cards:
 
       * Kavanaugh: theA 163rd nominee since SCOTUS was established in 1789; not
       all nominees became justices incl. Merrick Garland in 2016.
-    _key: card-3-00dfec67-db36-4d98-ab9d-28f8a404e2f6
+    _key: card-3-3a759e06-3817-4f9c-8f6a-6ca159ab5677
   - order: 3
     body: >-
       ## KAVANAUGH’S CHANCES?
@@ -79,7 +79,7 @@ cards:
       [Click: What's
       Next?](https://smarthernews.com/18-07-09-scotus-new-justice-pick/)
     citation: 'Click: What''s Next?'
-    _key: card-4-f7546563-15a9-4e0f-bcc6-509a2a93ec61
+    _key: card-4-8b9829c8-43c1-4c76-9d40-03b32d7af6f1
   - order: 4
     body: >-
       How long will Kavanaugh's hearing last? Last year, hearings for Neil
@@ -89,7 +89,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-09-04-kavanaugh-scotus-hearings/)
-    _key: card-10-7836c9f1-bba0-43b1-9bd1-57053659c5ce
+    _key: card-10-e1a8eef4-cba3-4e00-8049-2d80a4adcc18
 
 ---
 * **C-SPAN Supreme Court Survey:**  

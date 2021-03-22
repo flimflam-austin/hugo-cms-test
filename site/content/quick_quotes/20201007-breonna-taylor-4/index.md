@@ -4,29 +4,25 @@ title: >-
   Kentucky Attorney General Daniel Cameron Asking Him to Recuse Himself so that
   a New Special Prosecutor May Be Appointed.
 slug: 20201007-breonna-taylor-4
-_id: legacy-29903df3-f4b6-41ee-ab19-4fa60f84c1ab
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-4bdbed85-07e3-4448-b67e-9935f1b8fd24
+_rev: f2cVhvAV1wntWw1uaABAwR
 type: quick_quotes
 draft: false
 aliases:
   - article/breonna-taylor-4/
 _createdAt: '2020-10-07T15:36:07Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:53Z'
 date: '2020-10-07T15:36:07+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    18bdd3bcea8535917d3940e0385d4f086598ef2d-636x537.jpg
 is_breaking: false
-summary: >-
-  Breonna Taylor’s family attorney Benjamin Crump announcing an open letter to
-  Kentucky Attorney General Daniel Cameron asking him to recuse himself so that
-  a new special prosecutor may be appointed.
 featured_quote:
   quote: >-
     This fight is NOT OVER! We DEMAND a new special prosecutor reopen
     #BreonnaTaylor’s case!
-  citation: >-
-    Breonna Taylor’s family attorney Benjamin Crump announcing an open letter to
-    Kentucky Attorney General Daniel Cameron asking him to recuse himself so
-    that a new special prosecutor may be appointed.
 
 ---
 * 
@@ -52,4 +48,4 @@ Speaking to local media about the case ahead of the release of the grand jury re
 
   * On Tuesday, Cameron responded to Crump’s call for him to recuse himself, [stating](https://www.foxnews.com/us/breonna-taylor-daniel-cameron-kentucky-ag-black-republican-mob-mentality-megan-thee-stallion): “_This is the Ben Crump model. He goes into a city, created a narrative, cherry-picks facts to prove that narrative, creates chaos in a community, misrepresents the facts and then he leaves with his money and asks the community to pick up the pieces,… It is terribly irresponsible on his part to push such narratives, such falsehoods._“
 
-**Read SmartHER News’ backgrounder on the Breonna Taylor Case [HERE](https://www.smarthernews.com/article/breonna-taylor-update/)**’ backgrounder on the Breonna Taylor Case [HERE](https://www.smarthernews.com/article/breonna-taylor-update/)**
+**Read SmartHER News’ backgrounder on the Breonna Taylor Case [HERE](https://www.smarthernews.com/article/breonna-taylor-update/)**

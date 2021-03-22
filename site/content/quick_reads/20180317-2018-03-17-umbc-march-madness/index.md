@@ -1,14 +1,14 @@
 ---
 title: 2018.03.17 Umbc March Madness
 slug: 20180317-2018-03-17-umbc-march-madness
-_id: legacy-c32b4255-7d17-4499-8402-85e8ff04e71f
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-9ff84d33-e390-4724-82ff-9eb8e98f7bf1
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 2018-03-17-umbc-march-madness/
 _createdAt: '2018-03-17T13:22:40Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-17T13:22:40+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       WHY THIS IS HISTORIC
     citation: WHY THIS IS HISTORIC
-    _key: card-1-c7b91a61-b8f0-4712-8672-382f13098a1f
+    _key: card-1-38c2cf91-2fd9-41cd-bb34-8b18f2160cb1
   - order: 1
     body: >-
       # The Greatest Upset in College Basketball?
@@ -53,7 +53,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/pIoVgJTOx5Y?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-ec6e2985-632f-4cdd-96e5-d7595d73183d
+    _key: card-2-0ba4fe7a-fe15-4949-b865-aa657802171d
   - order: 2
     body: |-
       ## Cinderella’s Stats
@@ -64,7 +64,7 @@ cards:
       * Colors: Black & Gold
       * Only previous appearances in the NCAA tournament were 1979, 1980 & 2008
       * CBS Sports jokes UMBC stands for “**U** **M**ust **B**e **C**inderella”
-    _key: card-3-75ecf7dc-0874-4d2e-8b47-401b40d65aa8
+    _key: card-3-0aa366b8-35e1-4d06-81ab-ac9e82f985af
   - order: 3
     body: >-
       ## Impressive Performance
@@ -81,7 +81,7 @@ cards:
 
 
       @UMBCAthletics gained 13K Twitter followers in last 2 mins of game.
-    _key: card-4-dfc25e7f-d58a-4cd2-8eaf-dba5667163fe
+    _key: card-4-f1e49f36-b682-4070-ad21-5837bbf770c0
   - order: 4
     body: >-
       This may be the first for the men, but a women's college team did this 20
@@ -89,7 +89,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/2018-03-17-umbc-march-madness/)
-    _key: card-10-916a4c99-20fd-4b5c-acfc-67e17bd573c4
+    _key: card-10-a2e21b62-0b4a-4a95-8bb7-8cb09f878c18
 
 ---
 * Virginia becomes first No. 1 seed to lose in the first round of the NCAA tournament in an upset by UMBC: [https://www.cbssports.com/college-basketball/news/no-16-seed-umbc-beats-no-1-virginia-in-biggest-ncaa-tournament-upset-of-all-time/](https://www.cbssports.com/college-basketball/news/no-16-seed-umbc-beats-no-1-virginia-in-biggest-ncaa-tournament-upset-of-all-time/)

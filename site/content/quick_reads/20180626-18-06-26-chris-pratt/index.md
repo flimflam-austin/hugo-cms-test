@@ -1,14 +1,14 @@
 ---
 title: 18.06.26 Chris Pratt
 slug: 20180626-18-06-26-chris-pratt
-_id: legacy-327ad8cd-70fa-4b9c-910e-a9afb2d002ae
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-7cd3adf4-04f3-439b-8823-40046d2ef25f
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-26-chris-pratt/
 _createdAt: '2018-06-27T11:00:34Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-27T11:00:34+00:00'
 weight: 50
 featured_image:
@@ -24,7 +24,7 @@ cards:
 
       > “In a world full of De Niros,  
       be a Pratt”
-    _key: card-1-d8c18329-4d51-4bdf-9d32-2488a4edb0c4
+    _key: card-1-3b5772ee-2ad2-4afd-bfed-89e3689d086a
   - order: 1
     body: >-
       ## ICYMI:
@@ -43,7 +43,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/EihqXHqxri0?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-6eaf9d05-12d3-4d52-b806-7c669e6a8d3e
+    _key: card-2-a719c946-4235-4dab-ad30-bff66122c25d
   - order: 2
     body: >-
       ## His Roots:
@@ -59,10 +59,10 @@ cards:
       Hawaii & lived in a van on the beach at 19.
 
       * “Discovered” working as a waiter for Bubba Gump Shrimp Co. restaurant.
-    _key: card-3-c060cf41-51cd-47ec-a796-134a5a286aaa
+    _key: card-3-0ac7c7d8-e493-47e7-8e29-1fd6e1f050a3
   - order: 3
     body: "> ‘He asked what I was doing that night, and I was honest. I said, a\x18My friend’s inside buying me alcohol… He said, a\x18Jesus told me to talk to you…’ At that moment I was like, I think I have to go with this guy. He took me to church. Over the next few days I surprised my friends by declaring that I was going to change my life.’  \n  \n  \n  \nChris Pratt, Vanity Fair, about the moment his life changed randomly meeting a man named Henry in Maui."
-    _key: card-4-a8e2595a-b091-4ff4-a819-cd8bd26fe82d
+    _key: card-4-f01c40f2-efe2-495d-8304-1ad84cdf6c65
   - order: 4
     body: >-
       ## Pratt’s Path
@@ -76,7 +76,7 @@ cards:
       action stars.**
 
       * Pratt has a 5-year-old son Jack & divorced from actress Anna Farris.
-    _key: card-5-1e769f69-b482-4745-868e-832c6ca6581d
+    _key: card-5-99753a69-7178-4dec-a916-f661d7351dd8
   - order: 5
     body: >-
       Pratt has talked faith before - including at the Teen Choice Awards in
@@ -86,7 +86,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-26-chris-pratt/)
-    _key: card-10-b7f55f49-4656-44a6-8614-8056569c74a5
+    _key: card-10-e03803cc-e8f6-4cd1-9f0a-8789c5b2a1e7
 
 ---
 * Cully Pratt:[https://www.instagram.com/p/Bkd8dZ3jiU8/](https://www.instagram.com/p/Bkd8dZ3jiU8/)

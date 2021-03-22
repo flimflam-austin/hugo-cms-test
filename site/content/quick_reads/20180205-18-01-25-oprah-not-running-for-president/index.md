@@ -1,14 +1,14 @@
 ---
 title: 18.01.25 Oprah Not Running for President
 slug: 20180205-18-01-25-oprah-not-running-for-president
-_id: legacy-2e6d778a-aad8-4881-a036-365d3c377e24
-_rev: XOnQP8cIThhnw9BWFxSjgf
+_id: legacy-179ea79c-4b8f-4211-83f2-41ea26419eea
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-01-25-oprah-not-running-for-president/
 _createdAt: '2018-02-01T09:04:05Z'
-_updatedAt: '2021-03-16T11:57:58Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-01T09:04:05+00:00'
 weight: 50
 featured_image:
@@ -25,7 +25,7 @@ cards:
         
         
       Oprah Winfrey on running for President InStyle Magazine, March Issue 2018
-    _key: card-1-845b8485-4244-4df8-a0d5-9a12c1745f5a
+    _key: card-1-7edefcc8-4f2e-4df8-ae6d-4e2664ad395f
   - order: 1
     body: >-
       # Oprah: On Aging
@@ -33,7 +33,7 @@ cards:
 
       “You take no shit. None. Not a bit. In your 40s you want to say you take
       no shit, but you still do. In your 60s you take none.”
-    _key: card-2-6c6b60e0-cc56-4a14-8e83-f78914bd339b
+    _key: card-2-5e03b7c6-4312-4c51-ba06-a18b3986def0
   - order: 2
     body: >-
       Read Full Article Here
@@ -41,7 +41,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-01-25-oprah-not-running-for-president/)
-    _key: card-10-97b585d4-7d5a-44c5-ad6b-b9bbaa61f449
+    _key: card-10-53dd32f7-f8ea-45e1-86de-ec6cb32f7421
 
 ---
 **The singular Oprah Winfrey on braving the elements, the way forward for women, and why, for now at least, she doesn”t want to be president**

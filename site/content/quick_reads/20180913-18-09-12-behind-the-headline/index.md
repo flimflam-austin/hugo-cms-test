@@ -1,14 +1,14 @@
 ---
 title: Behind the Headline
 slug: 20180913-18-09-12-behind-the-headline
-_id: legacy-e7073f7c-3852-4cd1-b404-4be3a68760c0
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-0aea6b7f-8cf8-40d7-8b3d-f04426526fd3
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-12-behind-the-headline/
 _createdAt: '2018-09-13T11:59:09Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-13T11:59:09+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       Dollars & Sense
     citation: Dollars &amp; Sense
-    _key: card-1-514bbd9f-e584-439b-b92c-18afe13fa15e
+    _key: card-1-1cbdf61b-da8c-4c92-b70f-d0af3c0f358a
   - order: 1
     body: |-
       ## BIG PICTURE: U.S.A.
@@ -49,7 +49,7 @@ cards:
 
       But...
     citation: But...
-    _key: card-2-5cdcf217-8ac9-4028-8a99-a729834bb34f
+    _key: card-2-e8d4c534-a6b8-4393-bf67-bb629feb6ab2
   - order: 2
     body: >-
       ## THE WAGE DEBATE
@@ -61,7 +61,7 @@ cards:
 
 
       Do we look like we make more on paper, but have less $pending power?
-    _key: card-3-d41ece37-08d7-42b1-a15b-3a8a5caa681c
+    _key: card-3-5e77dbc6-60ee-4561-b39e-6dda1d5ae8bc
   - order: 3
     body: >-
       ## What’s Going on?
@@ -76,7 +76,7 @@ cards:
 
       **Another theory:**A People reentering workforce may get lower paying or
       part-time jobs, or have fewer qualifications, so they make less $$.
-    _key: card-4-7c429730-7fc3-434f-b538-920da7bdd070
+    _key: card-4-26f41d74-73b0-437b-92c3-d3f65bf88cf3
   - order: 4
     body: >-
       Something To Consider: The way the census measures median income has
@@ -86,7 +86,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-12-behind-the-headline/)
-    _key: card-10-0c4fc8fc-edce-436f-a741-7ae58874e541
+    _key: card-10-6d14e33e-6609-4293-a395-afa93ec00d1b
 
 ---
 * **Median Household Income Rose 1.8% in 2017, Census Bureau Figures Show**  

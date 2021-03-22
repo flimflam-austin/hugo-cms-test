@@ -1,14 +1,14 @@
 ---
 title: Ve Day
 slug: 20180508-ve-day
-_id: legacy-75e2286a-c2a5-476e-b6d3-7b0275c21ada
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-a2205abe-5ab9-481a-959d-45dd5e70a1f7
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - ve-day/
 _createdAt: '2018-05-08T22:10:59Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-08T22:10:59+00:00'
 weight: 50
 featured_image:
@@ -39,7 +39,7 @@ cards:
       [Flip: "Mission
       Fulfilled"](https://www.archives.gov/publications/prologue/2015/summer/war-message.html)
     citation: 'Flip: "Mission Fulfilled"'
-    _key: card-1-c5502fad-4e45-4a37-8f82-cc9011fe9f73
+    _key: card-1-161e072e-556d-4a78-8e7b-f928aec8221e
   - order: 1
     body: >-
       ## V-E Day Ended WWII in Europe But Not In Asia
@@ -50,7 +50,7 @@ cards:
 
       * “V-J Day” celebrated in September when Japan formerly surrendered;
       unofficial surrender happened in August 1945.
-    _key: card-2-69cd7608-2026-4434-9098-bbcf8f8bbffd
+    _key: card-2-c8a59615-7671-48d6-be95-4b88cb717c1a
   - order: 2
     body: >-
       Estimates place total deaths in WWII as over 50M...But some suggest it's
@@ -58,7 +58,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/ve-day/)
-    _key: card-10-e3fd0e0f-c965-44e9-8d9b-1405e9479bba
+    _key: card-10-474729be-310e-402f-91a0-de1f4d611b60
 
 ---
 * **“Mission Fulfilled”;A Eisenhower”s message for the end of the war in Europe** A [https://www.archives.gov/publications/prologue/2015/summer/war-message.html](https://www.archives.gov/publications/prologue/2015/summer/war-message.html)

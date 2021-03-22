@@ -1,14 +1,14 @@
 ---
 title: 18.05.29 Quick Quotes
 slug: 20180530-18-05-29-quick-quotes
-_id: legacy-fca80cca-86e8-4a09-8615-d655e07fae09
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-f1e37080-6ab2-48e4-bf0c-2aedd5be676b
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-29-quick-quotes/
 _createdAt: '2018-05-29T10:16:51Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-05-29T10:16:51+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
       shortly after they interviewed him as part of their Alberto storm
       coverage. A Gulf of Mexico storm in May is very rare; it's only happened 3
       times on record.
-    _key: card-1-d20f9a2e-e02b-410f-8245-275134af85b1
+    _key: card-1-4a23b9b8-68ee-47b0-92ff-6d7b103da29f
   - order: 1
     body: >-
       > “There are no words to describe the devastation.”  
@@ -46,7 +46,7 @@ cards:
       struck again, just 2 years after raging floods decimated the town and
       killed 2 people. 8 inches of water pounded the community on Sunday.
       Meteorologists dismissed the 2016 disaster as a 1-in-1,000-year event.
-    _key: card-2-02885adc-04aa-4db5-b7cf-33166e688c47
+    _key: card-2-91e57a64-912f-47ec-8028-7f9192c3d7cb
   - order: 2
     body: >-
       > “I think it’s safe to say authorities have been concerned about the flow
@@ -58,10 +58,10 @@ cards:
       one of the wells at the island's geothermal power plant, prompting fears
       of a toxic gas leak. Authorities urge residents to evacuate the area due
       to fast-moving flows.
-    _key: card-3-f83c0487-9903-4ce7-bba8-fda2b4857485
+    _key: card-3-8ece3dc7-fb3b-46c7-97ec-a068ecdc48a4
   - order: 3
     body: '[view sources](https://smarthernews.com/18-05-29-quick-quotes/)'
-    _key: card-10-e040e70a-74ec-4595-9440-c3a8a6df1720
+    _key: card-10-1c3c2fba-bfc0-4317-b485-13117f0709ff
 
 ---
 * **Alberto after landfall:A Threat of heavy rains, flooding:**  

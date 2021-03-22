@@ -1,14 +1,14 @@
 ---
 title: 18.04.22 Quotes to Start Your Week
 slug: 20180423-18-04-22-quotes-start-week
-_id: legacy-02c3f7dd-8959-433f-83b1-239e474ccdbd
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-b62c255d-7a78-41b1-89f3-e8e95d64b917
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-22-quotes-start-week/
 _createdAt: '2018-04-23T01:39:58Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-23T01:39:58+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
       Former President George W Bush, Instagram, April 21, 2018 at the funeral
       of his mother, Fmr. first lady Barbara Bush. Robin, the Bush's first
       daughter, died at 3 years from Leukemia.
-    _key: card-1-b52c9dd0-0bd6-4369-89ec-bd486d698c71
+    _key: card-1-97cfc73f-f362-4293-9c6c-f5b49fe4cce6
   - order: 1
     body: >-
       > “‘He has a good life and he has everything. Donald is going to be 74, 73
@@ -48,7 +48,7 @@ cards:
       [click for full
       article](https://pagesix.com/2018/04/21/ivana-trump-says-donald-should-just-go-and-play-golf/)
     citation: click for full article
-    _key: card-2-8e065f2c-ce77-44ca-9c88-88bb39bd8622
+    _key: card-2-337ec989-ad5d-4924-8ebb-42c8188e5336
   - order: 2
     body: >-
       > “I would like to apologise to anybody I have offended in a recent
@@ -68,7 +68,7 @@ cards:
       [Click:
       Backstory](https://www.usatoday.com/story/life/music/2018/04/22/shania-twain-would-have-voted-trump-even-though-he-offensive/540721002/)
     citation: 'Click: Backstory'
-    _key: card-3-e4126be7-701f-45c5-9e2e-580a0251a6c4
+    _key: card-3-fd11115e-2bb5-41a5-ae21-ddbcadef125c
   - order: 3
     body: >-
       > “Thank you to all the delegates who hung in there with us all day at the
@@ -80,7 +80,7 @@ cards:
       Fmr Presidential Candidate Mitt Romney, Twitter, April 21, 2018. Romney,
       running for Senate in Utah, came in second during Utah GOP convention and
       now faces a primary challenge.
-    _key: card-4-e36d7c23-e239-48c3-8042-69d29ffcf6ae
+    _key: card-4-516de70c-0efa-4346-8288-ab7c8a304c03
   - order: 4
     body: >-
       ## ICYMI:
@@ -94,18 +94,16 @@ cards:
       Advisor who said she may have been momentarily confused when speaking
       about a new round Russian sanctions (that never happened). Something to
       watch for this week: Any further U.S. action vs. Russia regarding Syria.
-    _key: card-5-2baea4ee-679f-48ed-9ad2-9ef11df88274
+    _key: card-5-c885c7e5-1b26-4170-ad30-855154904ebf
   - order: 5
     body: |-
       See any quotes you love this week? Send them to us: Info@SmartHernews.com
 
       [view sources](https://smarthernews.com/18-04-22-quotes-start-week/)
-    _key: card-10-e7edb6f4-2ef8-4315-b759-1fa7901ceddd
+    _key: card-10-1fba64f8-45f7-4949-8e5a-b220199862dc
 
 ---
-[Click here](https://www.instagram.com/tv/Bh24ODehfXA/) learn more on instagram.
-
-[Click here](https://www.instagram.com/tv/Bh24ODehfXA/) learn more on instagram.
+{{< instapost id=\Bh24ODehfXA\ >}}
 
 Ivana Trump thinks Vanessa will “have a problem” finding a newA man: [https://pagesix.com/2018/04/21/ivana-trump-says-donald-should-just-go-and-play-golf/](https://pagesix.com/2018/04/21/ivana-trump-says-donald-should-just-go-and-play-golf/)
 

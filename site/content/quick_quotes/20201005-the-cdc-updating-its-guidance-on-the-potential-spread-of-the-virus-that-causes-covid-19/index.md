@@ -4,26 +4,24 @@ title: >-
   Covid-19.
 slug: >-
   20201005-the-cdc-updating-its-guidance-on-the-potential-spread-of-the-virus-that-causes-covid-19
-_id: legacy-f014eb6a-8d1a-4690-975e-744f2fdb396c
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-1a1287e9-7469-41f2-9445-43afc96ac1e0
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/the-cdc-updating-its-guidance-on-the-potential-spread-of-the-virus-that-causes-covid-19/
 _createdAt: '2020-10-05T19:05:43Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-10-05T19:05:43+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    81ace01cbb1530029ae3528209217b08978cd60d-1024x576.jpg
 is_breaking: false
-summary: >-
-  The CDC updating its guidance on the potential spread of the virus that causes
-  COVID-19.
 featured_quote:
   quote: COVID-19 can sometimes be spread by airborne transmission.
-  citation: >-
-    The CDC updating its guidance on the potential spread of the virus that
-    causes COVID-19.
 
 ---
 * Previously, the CDC said the transmission of SARS-CoV-2 depended mainly on larger respiratory droplets, transmitted by an infected person within relatively close proximity to another, when coughing, singing, or even talking. **This is the reason behind guidance for social distancing and mask-wearing.**
@@ -36,4 +34,4 @@ featured_quote:
 * **Why It Matters:** In the immediate, this reflects a broadening of ways COVID-19 can be transmitted. It puts further emphasis on mask-wearing as a potential layer of protection.
 * **What to Watch For:** We’ll watch to see if this revelation changes any policies within states for indoor dining, education, recreational activities, and beyond.
 
-Here’s the official page: [CLICK HERE](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html)official page: [CLICK HERE](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html)
+Here’s the official page: [CLICK HERE](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html)

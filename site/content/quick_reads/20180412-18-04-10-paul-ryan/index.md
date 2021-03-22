@@ -1,14 +1,14 @@
 ---
 title: 18.04.10 Paul Ryan
 slug: 20180412-18-04-10-paul-ryan
-_id: legacy-caa8b03a-9977-4cba-909f-5e2c87b7a353
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-01d1602d-ed14-4c7e-969b-bbcb1ddbb24b
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-10-paul-ryan/
 _createdAt: '2018-04-12T10:00:45Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-12T10:00:45+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       flip: It Could Be You
     citation: 'flip: It Could Be You'
-    _key: card-1-efc8486b-2557-43d3-b9b3-f087758e8de3
+    _key: card-1-e01ca2a6-d16a-4fcf-aac3-7ede9048253e
   - order: 1
     body: >-
       # Speaker of the House
@@ -43,7 +43,7 @@ cards:
       duties within the House and serves as the top representative of elected
       officials (aka congressmen/women) nationally & especially, before the
       President.
-    _key: card-2-46c466a7-5ff3-4b49-9e98-5079e26f6455
+    _key: card-2-f697dd6b-88c8-4b2a-b77d-0d9a79873818
   - order: 2
     body: >-
       ## History
@@ -56,7 +56,7 @@ cards:
       elected officials representing the “Average Joes.” Speaker spoke for the
       monarchy within the Commons…while ALSO speaking for elected officials
       before the monarchy.
-    _key: card-3-a918745a-dc62-4c43-a37d-530fe6cda120
+    _key: card-3-a660bc7b-1e72-4a3d-b43c-5f13398668b6
   - order: 3
     body: >-
       ## Will Republicans Lose Majority In The House?
@@ -68,7 +68,7 @@ cards:
       * Speaker Ryan could’ve run for re-election, win & then retire – securing
       a Republican seat. Ryan said he just couldn’t lie to his constituents
       about his intent.
-    _key: card-4-9c665a39-b578-452b-ae75-71be873e82dd
+    _key: card-4-9b8d7837-9d58-4ca8-b794-db6698b943f7
   - order: 4
     body: >-
       U.S. House Speaker:  
@@ -85,7 +85,7 @@ cards:
 
       * **First Woman Speaker:** Nancy Pelosi (2007 ) 218 years after the First
       Speaker was elected.
-    _key: card-5-a8f25124-d988-4b3c-a6c8-ea5c0931d508
+    _key: card-5-8cdf07e8-fa8e-4162-a246-df811db2a1aa
   - order: 5
     body: >-
       So who will be the next Speaker of the House? You could be! Why? Because
@@ -94,7 +94,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-10-paul-ryan/)
-    _key: card-10-68b5dcd7-f19c-41a7-8148-2b28bd51582f
+    _key: card-10-76da5d7e-e9af-4232-ac79-d9a7c4389711
 
 ---
 * The House of Representatives shall chuse their Speaker and other Officers; and shall have the sole Power of Impeachment.  

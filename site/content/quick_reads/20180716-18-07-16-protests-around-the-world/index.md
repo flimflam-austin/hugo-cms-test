@@ -1,14 +1,14 @@
 ---
 title: 18.07.16 Protests Around the World
 slug: 20180716-18-07-16-protests-around-the-world
-_id: legacy-f15cae2f-2bf4-4b12-a9e0-a052251c7f32
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-b1d0aac3-329d-4e41-878d-5c1e7f4b816a
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-16-protests-around-the-world/
 _createdAt: '2018-07-16T04:27:11Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-16T04:27:11+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Here’s 2 countries you should watch outside of the West… and why they
       matter.
-    _key: card-1-fde50e3b-d9a9-4418-a67b-ecf016fcc366
+    _key: card-1-cfa8728f-125c-4ef8-aad2-275b2ff8597b
   - order: 1
     body: >-
       # Nicaragua
@@ -45,7 +45,7 @@ cards:
 
       * Critics say Ortega strangling democratic institutions in a deadly power
       grab; supporters say protesters are “criminals” or “terrorists.”
-    _key: card-2-03c17679-5106-4e28-bc1e-8fd703915133
+    _key: card-2-ecb5edad-ac6f-4999-a2c8-8237ea504675
   - order: 2
     body: >-
       > “Nicaragua’s descent into chaos makes the population vulnerable to
@@ -57,7 +57,7 @@ cards:
       Senior Analyst Allison Fedirka, Geopolitical Futures, who underscores
       instability In Nicaragua can put more pressure on neighboring unstable
       states, with larger migration flows to America.
-    _key: card-3-f48a9ac9-cf66-4877-a2e7-436801dd2bc6
+    _key: card-3-a0f597ba-b82f-4b96-a160-b3edfe438141
   - order: 3
     body: >-
       # Iraq
@@ -70,7 +70,7 @@ cards:
       * Bigger Picture: Iraq doesn’t have a *new* gov’t since May election;A
       **chaos not good for security as politicians try building coalition
       gov’t.**
-    _key: card-4-f4ed6c60-cb56-4eb3-a0b1-b838bb32693b
+    _key: card-4-8e7eb6e9-7c7b-4794-b3d4-17978b4263be
   - order: 4
     body: >-
       Iran worked to create a stable neighbor after invasion of ISIS, filling a
@@ -80,7 +80,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-07-16-protests-around-the-world/)
-    _key: card-10-2c6bde4c-8883-463e-bbc5-fd6ca66f6e1e
+    _key: card-10-342805ca-805c-43e1-9714-fdae55a11104
 
 ---
 * **“They are shooting at a church”: Inside the 15-hour siege by Nicaraguan paramilitaries on university students:**  

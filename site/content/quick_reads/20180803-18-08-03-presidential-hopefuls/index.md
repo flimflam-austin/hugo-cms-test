@@ -1,14 +1,14 @@
 ---
 title: 18.08.03 Presidential Hopefuls
 slug: 20180803-18-08-03-presidential-hopefuls
-_id: legacy-6ab70d21-c15f-4c97-bf92-13c68292b7a6
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-0f77fa82-a390-4591-a4ab-053c50489da6
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-08-03-presidential-hopefuls/
 _createdAt: '2018-08-03T11:29:35Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-08-03T11:29:35+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Who's in & Who's Out?
     citation: Who's in &amp; Who's Out?
-    _key: card-1-5e227d0d-fc3b-4273-9a67-026216f0ee11
+    _key: card-1-cc6735eb-a223-48ba-b611-ca680c4068b5
   - order: 1
     body: >-
       ## Possible “Contender”?
@@ -51,7 +51,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/4ZLGy8VkWM4?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-0feeb7c5-d4d2-4369-9822-a41b164adacd
+    _key: card-2-8f8807f0-33bd-4442-ad21-27078123098a
   - order: 2
     body: >-
       ## Not Running – Yet.
@@ -66,7 +66,7 @@ cards:
       wants to, but won’t because his “wife might divorce” him.
 
       * **Kanye?:**A Recently used #2024.
-    _key: card-3-4a01294a-06ee-48b7-b6dc-ee08ee5dba3b
+    _key: card-3-47c67d73-16e5-4c3e-a1d4-2480017f0655
   - order: 3
     body: >-
       Of course not everyone vying to beat Trump in 2020 is a celebrity ... Fmr.
@@ -76,7 +76,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-03-presidential-hopefuls/)
-    _key: card-10-f60b97c7-9367-466c-8439-d95a4724f31e
+    _key: card-10-3271d500-9f36-43ee-a955-70792ff795ed
 
 ---
 * **WATCH: LeBron James talks to CNN about Running for President:**  

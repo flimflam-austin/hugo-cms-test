@@ -1,14 +1,14 @@
 ---
 title: 18.04.26 Quote Stacks
 slug: 20180501-18-04-26-quote-stacks
-_id: legacy-03635f99-8c1a-4dd7-8f21-b006528047e2
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-b21a8f9d-b8bb-49e2-a66b-d68d304c42df
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-26-quote-stacks/
 _createdAt: '2018-04-27T10:55:55Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-27T10:55:55+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
       Roger Goodell, NFL Commissioner, April 26, 2018. Oklahoma QB Baker
       Mayfield went from playing on a college team without a scholarship to
       winning the Heisman Trophy.
-    _key: card-1-a2afa82f-09da-4fd2-ad70-12dc1825effe
+    _key: card-1-a7330f06-a3c6-4fb1-b602-22fbf34a3dc2
   - order: 1
     body: >-
       > “I got her a beautiful card. You know, I am very busy to be running
@@ -47,7 +47,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/_lu_Hgw60Ns?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-bf185e1d-9719-4254-b890-0f6d5fd674fe
+    _key: card-2-d753a8e5-a4e3-49d7-8e3e-89bcbd7970c7
   - order: 2
     body: >-
       > “Great to have Secretary Pompeo confirmed. He will do an excellent job
@@ -63,7 +63,7 @@ cards:
       [Click Here:
       Photos](https://twitter.com/PressSec/status/989593842944036864)
     citation: 'Click Here: Photos'
-    _key: card-3-9cce59c7-04e0-4914-9e3d-2e8f3a6835ae
+    _key: card-3-fb651c29-6710-4c53-bfcd-9cf4c5c0fb4d
   - order: 3
     body: >-
       > “It is not just a victory for Andrea Constand …. It is not just a
@@ -76,10 +76,10 @@ cards:
       Lili Bernard, reacting outside the courtroom to the verdict in the
       criminal case against Bill Cosby. America's #1 dad faces up to 30 years in
       prison in connection with the 2004 sexual assault.
-    _key: card-4-421c0edd-20c1-4ad5-9b3b-b725b5f6ec8b
+    _key: card-4-8c1ef5ee-bd25-4628-9259-fe308892c33f
   - order: 4
     body: '[view sources](https://smarthernews.com/18-04-26-quote-stacks/)'
-    _key: card-10-8584f8a9-a2a2-4c73-85a1-31a455d13887
+    _key: card-10-8dca9e7b-c910-4782-bec4-0ccc08da5a76
 
 ---
 * **WATCH: Baker Mayfield reacts to being the No. 1 overall pick in 2018 NFL Draft**A [https://sportsday.dallasnews.com/college-sports/collegesports/2018/04/26/watch-baker-mayfield-reacts-no-1-overall-pick-2018-nfl-draft](https://sportsday.dallasnews.com/college-sports/collegesports/2018/04/26/watch-baker-mayfield-reacts-no-1-overall-pick-2018-nfl-draft)

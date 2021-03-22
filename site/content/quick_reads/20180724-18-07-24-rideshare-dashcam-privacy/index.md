@@ -1,14 +1,14 @@
 ---
 title: 18.07.24 Rideshare Dashcam Privacy
 slug: 20180724-18-07-24-rideshare-dashcam-privacy
-_id: legacy-1fde1adc-006c-4562-9085-ae1cb94f9cd6
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-731a7f81-e004-40a6-936f-d55fb7d0a064
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-24-rideshare-dashcam-privacy/
 _createdAt: '2018-07-24T11:50:48Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-24T11:50:48+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       are you at risk?
     citation: are you at risk?
-    _key: card-1-acd63e0f-d5f3-48c5-881c-1a34b429d6c9
+    _key: card-1-aa17ce9e-0b16-4530-b3a3-94bdbdae382d
   - order: 1
     body: >-
       # What Happened?
@@ -44,7 +44,7 @@ cards:
 
       * When passengers complained to Uber, they got a **$5 credit & a promise**
       they would be paired with other drivers going forward.
-    _key: card-2-80a12960-f842-4c77-9d3d-b49e25d90a08
+    _key: card-2-bbca28b5-830d-421e-a4fa-ec99e162a7f0
   - order: 2
     body: >-
       # Your Rideshare Rights
@@ -58,7 +58,7 @@ cards:
       * In most states, it’s legal to secretly record you b/c you don’t have a
       ‘**reasonable expectation of privacy**’ in someone else’s car AND consent
       is only required from one party (ie: the recorder).
-    _key: card-3-f8d5f124-d2cd-4130-9d28-bfb846ccd7ed
+    _key: card-3-94c2c213-d2df-467a-bdde-e4eb7b2aab25
   - order: 3
     body: >-
       > ‘This is one of those things that’s certainly a breach of our norms, but
@@ -71,7 +71,7 @@ cards:
       Chip Stewart, journalism professor at Texas Christian University, who
       studied the privacy implications of live streaming technology and the
       right to record.
-    _key: card-4-db243496-3ebc-4b72-8c25-f902b321f1ec
+    _key: card-4-0f3b18dd-d30a-4d4c-a500-5a8d4b04ea3a
   - order: 4
     body: >-
       Most rideshare drivers employ dash cams for security purposes and to
@@ -81,7 +81,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-07-24-rideshare-dashcam-privacy/)
-    _key: card-10-db4d9c56-3b77-4203-b74e-be2460b311d1
+    _key: card-10-c8c9f7c5-819c-4c53-b418-ad4c5d604bf4
 
 ---
 * **St. Louis Uber driver has put video of hundreds of passengers online. Most have no idea:** [https://www.stltoday.com/news/local/metro/st-louis-uber-driver-has-put-video-of-hundreds-of/article_9060fd2f-f683-5321-8c67-ebba5559c753.html](https://www.stltoday.com/news/local/metro/st-louis-uber-driver-has-put-video-of-hundreds-of/article_9060fd2f-f683-5321-8c67-ebba5559c753.html)

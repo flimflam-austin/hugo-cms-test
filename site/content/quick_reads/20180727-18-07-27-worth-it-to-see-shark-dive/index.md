@@ -1,14 +1,14 @@
 ---
 title: 18.07.27 Worth It to See Shark Dive
 slug: 20180727-18-07-27-worth-it-to-see-shark-dive
-_id: legacy-754de24d-ff0d-4964-af06-0dfd189db0e7
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-b9be066a-e45f-4d3d-9247-96d599a44960
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-27-worth-it-to-see-shark-dive/
 _createdAt: '2018-07-27T11:57:11Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-27T11:57:11+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/SdNoAI25uLk?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-928d631c-e158-4da8-ba20-058c1c4e2509
+    _key: card-1-0620ef78-3d6b-489e-86a2-a8c19d4b63a4
   - order: 1
     body: >-
       > “The world’s largest predatory fish doesn’t show up on cue. If I have
@@ -41,7 +41,7 @@ cards:
         
       It can take several hours to see just one shark - Jenna says prepare ahead
       of time!
-    _key: card-2-f50bf7cd-12e9-4968-8772-f68dc2006dd2
+    _key: card-2-c4f6a336-fd44-4b37-a051-792716806a2b
   - order: 2
     body: >-
       > “Experience and passion over the fancy boats makes all the
@@ -52,7 +52,7 @@ cards:
       Jenna says look for an operator that has a ton of experience in the area
       and also believes in proper conservation because it will make for a better
       experience all around.
-    _key: card-3-28b9a976-b6e1-481e-8629-e9647283dece
+    _key: card-3-f1746a63-ff63-4a93-bd5f-a2dc8d2603cb
   - order: 3
     body: >-
       > “I still don’t love swimming in open water (and I am not sure I ever
@@ -65,7 +65,7 @@ cards:
       While 'Jaws" is seared into our collective consciousness, Jenna says
       seeing sharks up-close provides a completely different picture than the
       one presented by Hollywood.
-    _key: card-4-0098f948-ee55-4b56-8109-37d357da1d7f
+    _key: card-4-d54e71f6-9cc7-4052-a7fa-879d8ad92aa7
   - order: 4
     body: >-
       Read more about Jenna's adventure cage-diving with Great Whites in South
@@ -74,12 +74,10 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-07-27-worth-it-to-see-shark-dive/)
-    _key: card-10-c7125958-4a27-43fc-9273-9dc5c65ae413
+    _key: card-10-e19c31f4-1f30-44f4-861c-ae3b7492c7cd
 
 ---
-{{< youtube SdNoAI25uLk >}}
-
-{{< youtube SdNoAI25uLk >}}
+{{< youtube id=\SdNoAI25uLk\ title=\ >}}
 
 **The diving company:**A [http://www.sharkdivingunlimited.com/](http://www.sharkdivingunlimited.com/)
 

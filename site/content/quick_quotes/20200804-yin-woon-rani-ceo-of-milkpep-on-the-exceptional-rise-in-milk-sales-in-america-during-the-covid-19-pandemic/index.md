@@ -4,28 +4,26 @@ title: >-
   America During the Covid-19 Pandemic.
 slug: >-
   20200804-yin-woon-rani-ceo-of-milkpep-on-the-exceptional-rise-in-milk-sales-in-america-during-the-covid-19-pandemic
-_id: legacy-11838308-995d-46a9-9f8e-d4223ccd4a74
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-b5b4fe9f-ba1e-461f-b4f3-c7ce4c2c7d2c
+_rev: ZEyhBiGfgCfwE8WOjbuSlO
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/yin-woon-rani-ceo-of-milkpep-on-the-exceptional-rise-in-milk-sales-in-america-during-the-covid-19-pandemic/
 _createdAt: '2020-08-04T12:08:21Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-08-04T12:08:21+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    151de6a2f2922747abd22c6c52f980bad5c15ce3-1688x1420.jpg
 is_breaking: false
-summary: >-
-  Yin Woon Rani, CEO of MilkPEP, on the exceptional rise in milk sales in
-  America during the COVID-19 pandemic.
 featured_quote:
   quote: >-
     It’s been a really exceptional year. We’re very focused on, ‘How do we
     sustain that demand?’
-  citation: >-
-    Yin Woon Rani, CEO of MilkPEP, on the exceptional rise in milk sales in
-    America during the COVID-19 pandemic.
 
 ---
 * Milk sales soared during “panic buying” during the spring but elevated sales have remained after that initial wave of buying.
@@ -38,5 +36,4 @@ featured_quote:
 **SmartHER News Stories re Milk**
 
 * [Whole Milk vs. Low Fat](https://smarthernews.com/18-09-25-milk-study/)
-* [The Great Milk Debate](https://smarthernews.com/18-09-07-great-milk-debate/)rthernews.com/18-09-25-milk-study/)
 * [The Great Milk Debate](https://smarthernews.com/18-09-07-great-milk-debate/)

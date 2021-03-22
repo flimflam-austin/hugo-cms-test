@@ -5,28 +5,24 @@ title: >-
   Impact Roughly 1 in 4 Americans.
 slug: >-
   20210201-meteorologist-chris-stumpf-on-the-10-to-15-inches-of-snow-that-pummeled-the-milwaukee-metro-area-over-the-weekend-as-a-massive-snow-storm-this-week-will-impact-roughly-1-in-4-americans
-_id: legacy-c85df3eb-50db-46c9-94a1-777c9755b750
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-89c5b375-9f14-4e09-aa64-1b4ca6e5ece9
+_rev: ZEyhBiGfgCfwE8WOjbuTJp
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/meteorologist-chris-stumpf-on-the-10-to-15-inches-of-snow-that-pummeled-the-milwaukee-metro-area-over-the-weekend-as-a-massive-snow-storm-this-week-will-impact-roughly-1-in-4-americans/
 _createdAt: '2021-02-01T20:20:00Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2021-02-01T20:20:00+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    78066147ab7cd7f4556bd23fd51299582981529e-2560x2560.jpg
 is_breaking: false
-summary: >-
-  Meteorologist Chris Stumpf on the 10 to 15 inches of snow that pummeled the
-  Milwaukee metro area over the weekend as a massive snow storm this week will
-  impact roughly 1 in 4 Americans.
 featured_quote:
   quote: That’s more snow than we’ve seen in a decade.
-  citation: >-
-    Meteorologist Chris Stumpf on the 10 to 15 inches of snow that pummeled the
-    Milwaukee metro area over the weekend as a massive snow storm this week will
-    impact roughly 1 in 4 Americans.
 
 ---
 * Many parts of the Midwest already have several inches of snow blanketing the ground as 80 million Americans were under winter storm watches, advisories or warnings over the weekend.
@@ -35,4 +31,4 @@ featured_quote:
 
 **Why It Matters:** This will be the biggest snow in years for many parts of the country, potentially disrupting travel and the movement of goods at some of the nation’s largest travel hubs.
 
-Local officials urged anyone in the path of the storm to prepare their homes and stock up on necessities. Learn simple steps to prep for a winter storm, [here](https://weather.com/safety/winter/news/2019-01-30-how-to-prepare-for-blizzards).to prep for a winter storm, [here](https://weather.com/safety/winter/news/2019-01-30-how-to-prepare-for-blizzards).
+Local officials urged anyone in the path of the storm to prepare their homes and stock up on necessities. Learn simple steps to prep for a winter storm, [here](https://weather.com/safety/winter/news/2019-01-30-how-to-prepare-for-blizzards).

@@ -1,14 +1,14 @@
 ---
 title: 18.04.11 Ac Privilege
 slug: 20180411-18-04-11-ac-privilege
-_id: legacy-99d4ea86-16f1-40b6-accc-6b367b3e187e
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-e37aa31c-5c33-4633-ad13-48abc09f9f3a
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-11-ac-privilege/
 _createdAt: '2018-04-11T12:52:50Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-11T12:52:50+00:00'
 weight: 50
 featured_image:
@@ -21,7 +21,7 @@ cards:
   - order: 0
     body: "# “Attorneya\x13client privilege is dead!”\n\nPresident Trump via Twitter, April 10, 2018\n\n**Does the federal raid on Michael Cohen (Trump’s personal lawyer) signify the end of one of our nation’s most sacred legal principles?**\n\nFLIP HERE FOR MORE"
     citation: FLIP HERE FOR MORE
-    _key: card-1-6c2c7178-2584-4f4c-bf0b-5c1c7d185387
+    _key: card-1-87b18413-3e66-41fd-8378-40eda1b13808
   - order: 1
     body: >-
       ## What is the Attorney-Client Privilege?
@@ -34,7 +34,7 @@ cards:
       * Also means the attorney ***usually*** cannot be required to disclose.
 
       * Meant to encourage clients to communicate freely with their attorneys.
-    _key: card-2-978d2832-2823-4373-8544-f88071544ba5
+    _key: card-2-be5160fb-8c80-4bb7-8a6d-c0426c25ab32
   - order: 2
     body: >-
       Is the Attorney-Client Privilege Dead? Nope.
@@ -46,7 +46,7 @@ cards:
 
       The privilege does NOT apply to communications in **furtherance** of an
       ongoing or (intended) future crime or fraud.
-    _key: card-3-d6e97f4a-86e3-4900-b955-5a2a29269284
+    _key: card-3-b6ec1076-24a4-404f-95a6-891acf03d22d
   - order: 3
     body: >-
       ## What does this mean for Cohen &/or Pres. Trump?
@@ -59,7 +59,7 @@ cards:
       federal officials, IS proof that law enforcement authorities convinced a
       judge there was probable cause to believe the search would produce
       evidence of a particular crime.
-    _key: card-4-1ce04241-ec39-4152-9ef0-aef7d1e483a3
+    _key: card-4-95487646-403d-4cf8-ba59-628e480e1a18
   - order: 4
     body: >-
       NBC legal analyst Danny Cevallos says the fact the FBI opted to execute
@@ -69,7 +69,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-11-ac-privilege/)
-    _key: card-10-9b7e9899-57c4-405d-8552-c6f745f69217
+    _key: card-10-bb575d99-f204-40bd-9160-70d834ca3877
 
 ---
 * **Donald J. Trump Twitter**: [https://twitter.com/realDonaldTrump/status/983662868540346371](https://twitter.com/realDonaldTrump/status/983662868540346371)

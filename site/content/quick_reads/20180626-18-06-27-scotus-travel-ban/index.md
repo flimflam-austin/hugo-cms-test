@@ -1,14 +1,14 @@
 ---
 title: 18.06.27 Scotus Travel Ban
 slug: 20180626-18-06-27-scotus-travel-ban
-_id: legacy-09238804-a54b-4bf6-ae89-c7dc83e8fa2f
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-c5a5ec21-b6bc-47b8-9f79-30d0c4b838f3
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-27-scotus-travel-ban/
 _createdAt: '2018-06-27T11:05:59Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-27T11:05:59+00:00'
 weight: 50
 card_series: Current Events
@@ -22,7 +22,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-27-scotus-travel-ban/)
-    _key: card-10-5850612f-8c0f-467b-98c4-0f1dbbb30f12
+    _key: card-10-b530c418-7a76-46ef-9aa1-336b6a5e069a
 
 ---
 * **Statement from the President Regarding Supreme Court Ruling:** [https://www.whitehouse.gov/briefings-statements/statement-president-regarding-supreme-court-ruling/](https://www.whitehouse.gov/briefings-statements/statement-president-regarding-supreme-court-ruling/)

@@ -1,14 +1,14 @@
 ---
 title: 18.07.10 Immigration Separation Wall
 slug: 20180710-18-07-10-immigration-separation-wall
-_id: legacy-8793f7ac-7013-4d68-9bbe-8e8c3858e925
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-47d4cd26-683a-4bbd-bbbb-2e67c48f5cea
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-10-immigration-separation-wall/
 _createdAt: '2018-07-10T11:51:36Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-10T11:51:36+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       FLIP FOR LATEST
     citation: FLIP FOR LATEST
-    _key: card-1-bc67b80b-759c-4c76-88ab-6412c06776cb
+    _key: card-1-ce2bf9c2-100a-48e9-9d98-f389fc363840
   - order: 1
     body: >-
       ## Tuesday Deadline to Reunite Children Under 5
@@ -44,7 +44,7 @@ cards:
       * **Past deadline, now what?A** Judge can impose fines, but admits more
       time needed. ACLU, which brought the lawsuit, says it just wants families
       reunited fast.
-    _key: card-2-507946d9-ceb8-40b7-ba67-de568ec26d70
+    _key: card-2-fc08df97-7de3-4be0-ac18-ab9de661d99c
   - order: 2
     body: >-
       ## Judge Rejects Request to Hold Children Longer
@@ -61,7 +61,7 @@ cards:
 
       elsewhere on border...
     citation: elsewhere on border...
-    _key: card-3-207646d5-4c6e-4ba4-96a8-686e0ffc664c
+    _key: card-3-e4cc0627-223d-4fc7-acca-ed0c1e900264
   - order: 3
     body: >-
       ## Border Wall Land Surveys
@@ -77,7 +77,7 @@ cards:
       fencing in Rio Grande valley – half of what Border Patrol wanted.
 
       * Pres. Trump has **requested $25B.**
-    _key: card-4-f3c297a6-5b75-4ac7-acde-df338cc01e43
+    _key: card-4-d4161135-6430-43b6-995b-e51a2009e868
   - order: 4
     body: >-
       In Arizona, New Mexico & California, Federal Govt controls 60-foot wide
@@ -88,7 +88,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-07-10-immigration-separation-wall/)
-    _key: card-10-c57d6b10-4a35-46c4-aad1-0fb0b12418f7
+    _key: card-10-6706f1f4-a222-4101-8d20-4145db64bebe
 
 ---
 * **At Least 54 Migrant Children Under 5 to Be Reunited With Parents, Justice Dept. Says:**  

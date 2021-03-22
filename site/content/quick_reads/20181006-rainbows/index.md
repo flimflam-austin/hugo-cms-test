@@ -1,14 +1,14 @@
 ---
 title: 'Worth It to See: Rare Quintuple Rainbow'
 slug: 20181006-rainbows
-_id: legacy-e339ee35-fb2d-43c6-a1ef-07f5f6f5bacf
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-b89a950a-eda6-4dc6-a830-47dc04bc807d
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - rainbows/
 _createdAt: '2018-10-05T11:45:47Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-10-05T11:45:47+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/rainbows/)
-    _key: card-10-73a2faa5-ef52-4231-8067-3bb1963860a0
+    _key: card-10-9b7151f2-3755-4322-ad67-b12e35f61b56
 
 ---
 * **Rare Quintuple Rainbow Captured:**  

@@ -1,14 +1,14 @@
 ---
 title: 18.06.04 Quick Quotes
 slug: 20190905-18-06-04-quick-quotes
-_id: legacy-d6e6c32d-ce99-4aea-808c-585d2c316f60
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-0a51ef51-ce66-4bc3-8701-ca8feafcb731
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-04-quick-quotes/
 _createdAt: '2018-06-04T10:44:47Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-06-04T10:44:47+00:00'
 weight: 50
 featured_image:
@@ -23,7 +23,7 @@ cards:
       Have a great day! See a quote you love? Email us: info@SmartHERNews.com
 
       [view sources](https://smarthernews.com/18-06-04-quick-quotes/)
-    _key: card-10-e0289022-fe96-403e-8aaf-79daa84cdb6f
+    _key: card-10-a9d27e86-556f-4b6f-ac49-dc701e9715ba
 
 ---
 * **Jon Huntsman: Trump Intends To Get Together With Putin To “Solve Some Of The Issues Between Us”:** [https://www.realclearpolitics.com/video/2018/06/03/jon_huntsman_trump_intends_to_get_together_with_putin_to_solve_some_of_the_issues_between_us.html](https://www.realclearpolitics.com/video/2018/06/03/jon_huntsman_trump_intends_to_get_together_with_putin_to_solve_some_of_the_issues_between_us.html)

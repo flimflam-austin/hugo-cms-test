@@ -1,14 +1,14 @@
 ---
 title: 'Where It Stand: the Border Wall'
 slug: 20190211-19-02-11-border-wall
-_id: legacy-a9677e4a-d4a2-4b6f-a45a-24b1f8521c47
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-97713e6f-49d8-4dde-808f-d4a8c1120ea5
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 19-02-11-border-wall/
 _createdAt: '2019-02-11T13:42:29Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-02-11T13:42:29+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       As President Trump heads to the U.S.-Mexico border ahead of this week’s
       deadline for a border security funding deal, here’s where a “wall” stands
       & what’s next.
-    _key: card-1-8c7b6588-3d51-4f71-a97e-105292a564d7
+    _key: card-1-2b686c6f-ad5d-450d-8f0e-ee9ffd97b7e4
   - order: 1
     body: >-
       # THE BORDER WALL
@@ -43,7 +43,7 @@ cards:
       barriers. **Est.**A **1,300 miles has no barrier**.
 
       * No significant additions since 2011.
-    _key: card-2-4c7b0099-9866-4e04-91ee-3a54124b6d87
+    _key: card-2-57d9fd8e-71e5-4c35-9412-e21480fb9b7a
   - order: 2
     body: >-
       ## COST$
@@ -59,7 +59,7 @@ cards:
 
       * Border Patrol says it’ll cost **$18B** to build barrier in 17 priority
       spots.
-    _key: card-3-e5b1db34-29de-4f82-8cd7-6d12f56caa9a
+    _key: card-3-33049bb6-5e95-4fb4-9048-e09eb3c93e38
   - order: 3
     body: >-
       ## Current Construction Plan
@@ -73,7 +73,7 @@ cards:
 
       * New construction w/already approved funds expected this year on 61
       additional miles.
-    _key: card-4-39b96610-ca42-4f3b-ac61-a7ecfb380cfa
+    _key: card-4-895b7765-b5e7-4335-9b88-326f61e5c98e
   - order: 4
     body: >-
       Customs & Border Patrol just released data for January 2019 and reported
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/19-02-11-border-wall/)
-    _key: card-10-d040e2bb-4dbd-4deb-899c-8fd2121b354e
+    _key: card-10-4f9fbc4b-bcfd-4f15-b34b-3fc6b1380d26
 
 ---
 * **As Clock Ticks, More Hurdles in Border Security:A**  

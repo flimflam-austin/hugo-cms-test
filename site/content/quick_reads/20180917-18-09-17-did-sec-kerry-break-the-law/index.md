@@ -1,14 +1,14 @@
 ---
 title: Did Fmr. Sec of State John Kerry Break the Law?
 slug: 20180917-18-09-17-did-sec-kerry-break-the-law
-_id: legacy-fefc5c67-4167-42b0-9a1d-633341d464d5
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-8b60a66b-8ab1-4f9e-a859-adeee818f512
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-17-did-sec-kerry-break-the-law/
 _createdAt: '2018-09-17T01:17:40Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-17T01:17:40+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
         
         
       Why some say he belongs in jail.
-    _key: card-1-f3945899-16dc-4c30-9f43-b68d29840ab2
+    _key: card-1-f9a00940-dfd9-44b6-ba9b-ab6c99807b85
   - order: 1
     body: >-
       ## The Backstory
@@ -52,7 +52,7 @@ cards:
         
         
       Fmr. Sec. Kerry to Hugh Hewitt
-    _key: card-2-25d8158f-1253-414e-b14f-85ba4767a528
+    _key: card-2-9f73a7d5-c865-4f44-a60e-a75596157acd
   - order: 2
     body: >-
       ## Why This Matters:
@@ -65,7 +65,7 @@ cards:
       * **Context:** Some say Mike Flynn, Pres. Trump’s former national security
       advisor, violated the Logan Act when he spoke with the Russian ambassador
       before Trump’s inauguration.
-    _key: card-3-2043367f-bb31-41ec-8e16-c7e7b0b177b7
+    _key: card-3-78d1d870-750c-40ed-b5fc-abd2d70ac395
   - order: 3
     body: >-
       ## Logan Act
@@ -78,10 +78,10 @@ cards:
 
       * **No one has ever been convicted of the Logan Act in more than 220
       years.**
-    _key: card-4-33ba055c-9506-40a8-9206-092b8bb547cd
+    _key: card-4-b29e2613-f4db-4506-8706-2d3bd1b25916
   - order: 4
     body: "> “I’ll leave the legal determinations to others. But what Secretary Kerry has done is unseemly and unprecedented. This is a former secretary of state engaged with the world’s largest state sponsor of terror, and according to him a\x13 right? You don’t have to take my word for it….He was talking to them. He was telling them to wait out this administration.”  \n  \n  \n  \nSec of State Mike Pompeo"
-    _key: card-5-e991e936-1856-4c3d-a004-bfacc6af44d6
+    _key: card-5-16261167-758b-48a4-8aa2-23630762d819
   - order: 5
     body: >-
       ## ICYMI: Big Story
@@ -95,7 +95,7 @@ cards:
       **What’s Happening**: Iran backs some Iraqi politicians, we support
       others. Iran blames the U.S. for stirring up dissent against the officials
       they support.
-    _key: card-6-0ebeaa21-2705-42a6-9dfe-7dae6dc624d0
+    _key: card-6-fbbb81ee-28d3-40cf-a3e7-35444efe132d
   - order: 6
     body: >-
       Kerry admitted to speaking to the Iranian Foreign Minister about Yemen,
@@ -106,7 +106,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-09-17-did-sec-kerry-break-the-law/)
-    _key: card-10-e3a80e04-8a9e-4723-9ec0-ff179f90be89
+    _key: card-10-e9a4d681-47bc-4e67-9db6-3a1da5be442e
 
 ---
 * **Rockets Fired Toward U.S. Diplomatic Missions in Iraq**  

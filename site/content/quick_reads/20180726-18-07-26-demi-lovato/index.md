@@ -1,14 +1,14 @@
 ---
 title: 18.07.26 Demi Lovato
 slug: 20180726-18-07-26-demi-lovato
-_id: legacy-f7a8eaa8-8bf2-413d-887b-537fb2f134fe
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-6bab2dd3-144c-4739-9b2c-3da78cc0c3e7
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-26-demi-lovato/
 _createdAt: '2018-07-26T11:57:10Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-26T11:57:10+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       Demi Lovato
     citation: Demi Lovato
-    _key: card-1-7f8b5e6a-52da-4978-8e3d-a6fb10a8ff8a
+    _key: card-1-463ea11e-9934-4d15-8fef-df11f3a95412
   - order: 1
     body: >-
       The 25-year-old pop star is "awake & recovering" after a reported
@@ -36,7 +36,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-26-demi-lovato/)
-    _key: card-10-32aa7f4f-74e1-47c6-b1d5-209ec55f8e8b
+    _key: card-10-829a4aec-419d-4f27-8110-3d555c6fcfdc
 
 ---
 * **Demi Lovato Started to Believe the ‘Myth of Moderation’ Before Apparent Overdose: Source:**  

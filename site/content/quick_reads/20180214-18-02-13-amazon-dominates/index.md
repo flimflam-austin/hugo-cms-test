@@ -1,14 +1,14 @@
 ---
 title: 18.02.13 Amazon Dominates
 slug: 20180214-18-02-13-amazon-dominates
-_id: legacy-3e5c8d43-b4e7-4b70-87fa-24a893ee7cf0
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-a5267409-d5a5-4dc4-b625-d30a71fda2e4
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-13-amazon-dominates/
 _createdAt: '2018-02-13T19:18:45Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-13T19:18:45+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Why is Amazon targeting health care? Flip Here
     citation: Why is Amazon targeting health care? Flip Here
-    _key: card-1-f9132ed1-c00d-43a1-b42e-77626c43d6b7
+    _key: card-1-9716f8e2-b31b-4f3a-a6d4-2f7a31d30c82
   - order: 1
     body: >-
       ## Amazon Health Care Kick
@@ -46,7 +46,7 @@ cards:
       Hathaway (Warren Buffett’s company) to create non-profit, more cost
       effective health insurance option for company employees (est. 1 million
       people).
-    _key: card-2-ef465256-4997-461a-b39f-fa997ed49eeb
+    _key: card-2-c199136d-baea-4c24-8763-890e12b8a141
   - order: 2
     body: >-
       Amazon “Health”:  
@@ -62,7 +62,7 @@ cards:
       * Yet, costs keep going higher, which means we all $pend more.
 
       * Companies see an opportunity to compete for our $$.
-    _key: card-3-1f4dc238-2b39-45f7-b83a-6ab8ca9bd84f
+    _key: card-3-b844efcc-23d3-4467-bcc2-202e6296a488
   - order: 3
     body: >-
       > “I think health care is one of those industries that is elevated and
@@ -71,7 +71,7 @@ cards:
         
         
       Jeff Bezos, Amazon CEO, Vanity Fair New Establishment Summit, April 2017
-    _key: card-4-2736ad55-fac7-4a65-91c3-6db940e4308f
+    _key: card-4-798cd82f-7949-4555-b8dd-9e437504c909
   - order: 4
     body: >-
       # Would you “Amazon” your health?
@@ -84,13 +84,13 @@ cards:
 
       * Whatever Amazon learns from health care venture with Chase/Berkshire
       Hathaway could be test for more public products.
-    _key: card-5-4c1309ca-ac3c-4aee-a052-90897b769b78
+    _key: card-5-64cf1f97-08eb-4b79-8c4a-fda4ddb3774e
   - order: 5
     body: |-
       BTW...It's not just Amazon.
 
       [view sources](https://smarthernews.com/18-02-13-amazon-dominates/)
-    _key: card-10-6388712e-b66c-4308-9e4f-abbc67ad9cab
+    _key: card-10-c8d4722c-6180-4f41-a629-3bd47449bfb3
 
 ---
 * Apple and Amazon”s moves in health signal a coming transformation [https://www.economist.com/news/business/21736193-worlds-biggest-tech-firms-see-opportunity-health-care-which-could-mean-empowered](https://www.economist.com/news/business/21736193-worlds-biggest-tech-firms-see-opportunity-health-care-which-could-mean-empowered)

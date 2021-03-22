@@ -1,14 +1,14 @@
 ---
 title: 18.05.31 Quick Quotes
 slug: 20180531-18-05-31-quick-quotes
-_id: legacy-eeda87eb-c57e-4c1d-806a-3103903af9d3
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-3522f67d-08ae-43f7-bcc2-99b205de9989
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-31-quick-quotes/
 _createdAt: '2018-05-31T10:57:34Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-05-31T10:57:34+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
         
       Sanofi, manufacturer of Ambien, responding to Roseanne Barr blaming a
       series of hateful & derogatory tweets on taking the sleeping medication.
-    _key: card-1-99895869-17fa-4abf-abba-3cade28e802b
+    _key: card-1-235ae2f5-b418-45b6-bc40-0d237f7fbb26
   - order: 1
     body: >-
       > “This indictment brings the defendant another step closer to
@@ -41,7 +41,7 @@ cards:
       Manhattan District Attorney Cyrus Vance, Jr., responding to a grand jury's
       indictment of Harvey Weinstein on charges of 1st degree rape (2 counts) &
       1st degree criminal sexual act.
-    _key: card-2-e5dc4009-fb1a-41df-9744-82b223cc8c4b
+    _key: card-2-a3ba734b-be67-46d0-9625-600b544c846b
   - order: 2
     body: >-
       > “I am even more convinced that the FBI did exactly what my fellow
@@ -53,7 +53,7 @@ cards:
       House Oversight & Government Reform Committee Chairman Rep. Trey Gowdy
       (R-SC) on recent reports suggesting an FBI informant spied on Pres.
       Trump's 2016 campaign.
-    _key: card-3-5e803ace-a0bb-4d8e-a07e-deda4b10f5dc
+    _key: card-3-5f7a5891-3e1e-45f7-bc96-55496d110a45
   - order: 3
     body: >-
       > “They say life is about timing. I learned this lesson at age 18, when I
@@ -66,10 +66,10 @@ cards:
       Serena Williams announcing her clothing line "Serena" on Instagram. She
       credits 15 years of "false starts" and critics telling her "no" for the
       motivation to never quit pursuing her dream.
-    _key: card-4-310ea195-dd9b-49b0-8681-e032e6e81a33
+    _key: card-4-aca073db-bf85-416d-b196-55352164ade2
   - order: 4
     body: '[view sources](https://smarthernews.com/18-05-31-quick-quotes/)'
-    _key: card-10-84a9a7b3-e15d-4fcd-b7a5-826fb9110427
+    _key: card-10-41aae02a-c1ba-43cc-9e32-8ba556501579
 
 ---
 * **Sanofi Official Twitter Account, May 30 Post:** [https://twitter.com/SanofiUS/status/1001824999496404992](https://twitter.com/SanofiUS/status/1001824999496404992)

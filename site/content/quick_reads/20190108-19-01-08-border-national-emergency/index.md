@@ -1,14 +1,14 @@
 ---
 title: Border Emergency?
 slug: 20190108-19-01-08-border-national-emergency
-_id: legacy-3bfe67ce-1fc4-476f-8b4c-1d3a632f701b
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-55a85fbd-0c5d-4236-ac42-82044fefc759
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 19-01-08-border-national-emergency/
 _createdAt: '2019-01-08T13:19:13Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-01-08T13:19:13+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       What To Know
     citation: What To Know
-    _key: card-1-94c63049-8097-4f55-b15a-29c067e72244
+    _key: card-1-4fda87b7-8726-4eb5-987b-cd173a65c06c
   - order: 1
     body: >-
       The **1976 National Emergencies Act** allows a president to declare an
@@ -50,7 +50,7 @@ cards:
 
       The Act does NOT define “national emergency.”A The president must use
       existing laws to do so.
-    _key: card-2-385b29e1-1577-41fa-8912-b70f933d655c
+    _key: card-2-7d3615d7-0a9e-4853-8329-c0bbc31c99b3
   - order: 2
     body: >-
       ## Presidential Power Limits
@@ -64,7 +64,7 @@ cards:
 
       * Emergency can be rescinded any time via a **joint resolution** passed by
       both houses of Congress.
-    _key: card-3-ebbc1287-bea7-4850-bbff-c751713f430b
+    _key: card-3-4c2ecdf5-772b-4009-9670-96cf2a837012
   - order: 3
     body: >-
       BOTTOM LINE: Yes, it is within President Trump's legal authority to
@@ -75,7 +75,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/19-01-08-border-national-emergency/)
-    _key: card-10-dd7fb6cb-1ad4-4ae4-ab84-3ac321fc7e50
+    _key: card-10-3f606295-b73d-4e1b-9e6d-168003bc4e35
 
 ---
 * **Trump wants to declare a national emergency to fund a border wall. Here”s why it”s unlikely to work.:**  

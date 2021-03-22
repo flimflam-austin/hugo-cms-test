@@ -1,14 +1,14 @@
 ---
 title: 18.02.19 Mitt Romney
 slug: 20180220-18-02-19-mitt-romney
-_id: legacy-9deb828f-e598-4e02-a3bc-35808011c02f
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-17e70990-6b2d-4cef-aeb1-18062fcedc89
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-19-mitt-romney/
 _createdAt: '2018-02-20T12:22:43Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-20T12:22:43+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
         
         
       President Trump, Twitter, Feb. 19, 2018 9:21 pm est
-    _key: card-1-835cd965-2c7e-4587-9442-6d3654c0913c
+    _key: card-1-6add6ce7-593e-4f1c-b6a1-09928e55dd2e
   - order: 1
     body: >-
       > “Thank you Mr. President for the support. I hope that over the course of
@@ -38,7 +38,7 @@ cards:
         
       Mitt Romney, Republican candidate for Senate in Utah, Twitter, Feb 19,
       2018 9:56 pm est
-    _key: card-2-6a2cdb26-413e-48d2-9bf7-db72dd8704b5
+    _key: card-2-8851d379-5957-4f37-8d7b-342d04b97b33
   - order: 2
     body: >-
       ## Just Under 2 Years Ago…
@@ -52,7 +52,7 @@ cards:
 
       Mitt Romney, Remarks,A University of Utah’s Hinckley Institute, March 3,
       2016
-    _key: card-3-eeef2dec-e666-4eeb-8813-f9727e0470a3
+    _key: card-3-e1a030c4-30a4-4be5-a3b1-c9d60db3720a
   - order: 3
     body: >-
       ## Also This…
@@ -65,7 +65,7 @@ cards:
         
       President Trump, then "candidate" during campaign speech Rome, New York,
       April 12, 2016
-    _key: card-4-fd1668c3-4cf0-4c8b-b403-897eae8dc1a1
+    _key: card-4-73831c76-e8a3-4b2c-9d7c-4ac73a7b48e1
   - order: 4
     body: >-
       Fast Forward:  
@@ -81,7 +81,7 @@ cards:
 
       * Report: Trump encouraged Romney to run for Utah seat (_Salt Lake
       Tribune_).
-    _key: card-5-f65bfa05-63de-4a57-aaf5-27975929b417
+    _key: card-5-168edc09-bc98-4045-a5ef-8b8f2c660f2b
   - order: 5
     body: >-
       # Why It Matters
@@ -95,7 +95,7 @@ cards:
 
       * However, it remains a question if Romney would support President Trump’s
       priorities.
-    _key: card-6-61f340da-9aec-43cf-8d2e-8e693285d690
+    _key: card-6-af10dc8e-648a-40bb-a5c2-db1666a30856
   - order: 6
     body: >-
       ## How Can A Former Gov. of Massachusetts Run for Senate in Utah?
@@ -105,10 +105,10 @@ cards:
 
       * Utah law stipulates a Senate candidate has to be 30-years-old, **a Utah
       resident when elected** and a citizen of the U.S. for at least 9 years.
-    _key: card-7-38d41a17-6a6e-4bd3-9852-82ee9bd5cd53
+    _key: card-7-21c35c1a-256b-41ac-b73f-3614a974315c
   - order: 7
     body: '[view sources](https://smarthernews.com/18-02-19-mitt-romney/)'
-    _key: card-10-12ecc2dd-8603-43d3-b388-f42950423744
+    _key: card-10-51ed3013-1112-4fdf-adcd-a0ab269aa9b3
 
 ---
 * President Trump:A [https://twitter.com/realDonaldTrump/status/965773283554668544](https://twitter.com/realDonaldTrump/status/965773283554668544)

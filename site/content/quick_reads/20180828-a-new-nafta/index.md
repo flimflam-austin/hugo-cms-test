@@ -1,14 +1,14 @@
 ---
 title: A New Nafta? Why It Matters & How It Might Impact Your $$
 slug: 20180828-a-new-nafta
-_id: legacy-b6377725-9892-4b47-a342-ba8c43a70b62
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-de5fc944-d12c-4688-9944-4721e1c7f438
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - a-new-nafta/
 _createdAt: '2018-08-28T12:02:17Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-28T12:02:17+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       A *new* NAFTA?
     citation: A *new* NAFTA?
-    _key: card-1-d88dfa44-54a3-4127-8b3d-fa13ebc7f852
+    _key: card-1-009a15fd-3d17-4bd0-b589-d4d3cf255783
   - order: 1
     body: >-
       ## NAFTA 101
@@ -42,7 +42,7 @@ cards:
 
       * Pres. Trump called it the “**single worst trade deal ever**” because he
       says it allowed American jobs to go to Mexico; many disagree.
-    _key: card-2-fd77c060-8eaf-4912-9cac-7a741105993a
+    _key: card-2-988621f7-7016-4281-b664-0796c5230d4c
   - order: 2
     body: >-
       ## Why Now?
@@ -56,7 +56,7 @@ cards:
 
       * New trade deal needs approval by Congress; completing draft puts
       pressure on Congress to act before or after midterm elections.
-    _key: card-3-36ee116b-1db4-4aae-a4f1-7d1b9c6ba442
+    _key: card-3-625359bd-a80d-4cc0-a19d-429274c5b3ce
   - order: 3
     body: >-
       ## What’s At Stake?
@@ -72,7 +72,7 @@ cards:
 
       The Concern?
     citation: The Concern?
-    _key: card-4-b5706a4d-4e36-4e76-8c6d-cd942e8bcb98
+    _key: card-4-8102ceee-4857-43f3-be0c-372b7c664a85
   - order: 4
     body: >-
       ## Cost To Consumer
@@ -86,7 +86,7 @@ cards:
         
         
       Alliance of Auto Manufacturers
-    _key: card-5-eb5974d2-edb1-4c7b-a787-f382e370f4fa
+    _key: card-5-041c77c8-500e-4fbe-9c20-58d430cb84d4
   - order: 5
     body: >-
       The North American Trade Agreement was a result of a trifecta of Mexico,
@@ -95,7 +95,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/a-new-nafta/)
-    _key: card-10-b325a29f-43a3-4e71-952b-cc2ad5d72cb3
+    _key: card-10-44c4087a-fe4e-4de9-b533-44618b5857bc
 
 ---
 * **North American Free Trade Agreement – NAFTA:A**  

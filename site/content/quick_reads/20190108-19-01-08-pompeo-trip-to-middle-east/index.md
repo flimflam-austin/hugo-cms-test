@@ -1,14 +1,14 @@
 ---
 title: An Eye on the East
 slug: 20190108-19-01-08-pompeo-trip-to-middle-east
-_id: legacy-ddba7130-e47c-45fe-91e9-be28c3859dd7
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-42f3abfc-3977-42b1-bff2-d66f202f66dd
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 19-01-08-pompeo-trip-to-middle-east/
 _createdAt: '2019-01-08T13:19:22Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-01-08T13:19:22+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       SETTING THE TONE 2019
     citation: SETTING THE TONE 2019
-    _key: card-1-3cd4fcec-b210-4a62-a9ea-eb6028341e33
+    _key: card-1-ba48628b-c19e-40bb-ab86-cbce8ea49304
   - order: 1
     body: >-
       Why Is He Going?A
@@ -48,7 +48,7 @@ cards:
 
       * U.S. will continue to work to **thwart Iran** & its “dangerous”
       activities in the Middle East.
-    _key: card-2-53493586-5e90-400f-a888-1be3441cb66c
+    _key: card-2-340c6c4b-c6ee-40a9-a027-9119e6b5e9da
   - order: 2
     body: >-
       ## Why Now?
@@ -64,7 +64,7 @@ cards:
       Mattis resigned & emphasized the importance of America's allies. NS
       Advisor John Bolton & Sec. Pompeo are now meeting with key regional
       Mideast allies.
-    _key: card-3-145d341a-993d-40ef-ad84-efa1b489d5b9
+    _key: card-3-cdf46271-7eb4-43fa-8bbc-caf4236c6816
   - order: 3
     body: >-
       > ‘One day he (President Trump) is saying we are in Syria for the long
@@ -78,7 +78,7 @@ cards:
       Center for a New American Security. Sec. Pompeo plans to speak about
       America's Middle East policy while in Cairo - the same city Pres. Obama
       delivered a speech on the same topic.
-    _key: card-4-b7e6066e-b23d-446a-803c-6ef1fa898087
+    _key: card-4-22bf4586-95d8-4379-a9d4-ac27b789b08b
   - order: 4
     body: >-
       ## YOUR SAFETY AT STAKE
@@ -90,7 +90,7 @@ cards:
 
       * **Iran:** Funds terrorist organizations, wants to expand anti-American
       influence in region and is suspected of pursuing nuclear weapons.
-    _key: card-5-eeb08028-5338-4215-bea8-9abb980880d7
+    _key: card-5-4a26d1bc-e23a-41de-8583-fab906ed1b3d
   - order: 5
     body: >-
       ## Also on Agenda: Yemen
@@ -105,7 +105,7 @@ cards:
       * On Jan. 1, a U.S. airstrike killed a suspected al-Qaeda terrorist.
 
       * Ally support makes these drone strikes possible.
-    _key: card-6-bd2db1ef-83d8-4a45-8ba2-b2134b44ffb8
+    _key: card-6-4c1d85cb-923b-4e78-9e9e-7b530463e0d4
   - order: 6
     body: >-
       Sec. Pompeo's trip follows NS Advisor, John Bolton's trip to Israel &
@@ -116,7 +116,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/19-01-08-pompeo-trip-to-middle-east/)
-    _key: card-10-3cebf0d2-152d-4022-8b29-9aa0d9303d3e
+    _key: card-10-b836b262-bf93-41db-b331-e6fdc0a1f948
 
 ---
 * **Secretary Pompeo’s Travel to Amman, Cairo, Manama, Abu Dhabi, Doha, Riyadh, Muscat, and Kuwait City:**  

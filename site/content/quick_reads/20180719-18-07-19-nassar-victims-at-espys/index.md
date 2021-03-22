@@ -1,14 +1,14 @@
 ---
 title: 18.07.19 Nassar Victims at Espys
 slug: 20180719-18-07-19-nassar-victims-at-espys
-_id: legacy-4c52cf09-2f04-4a05-9856-d5edd75aee95
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-6374d8ba-2084-42fb-948e-5cfa79d530d8
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-19-nassar-victims-at-espys/
 _createdAt: '2018-07-19T14:29:25Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-19T14:29:25+00:00'
 weight: 50
 featured_image:
@@ -34,10 +34,10 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/W9hu5HLoSzM?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-679f1dc2-246a-4387-be34-198ea0a9e793
+    _key: card-1-ffb1880e-7f3c-40a8-9a2b-d8bacc202984
   - order: 1
     body: '[view sources](https://smarthernews.com/18-07-19-nassar-victims-at-espys/)'
-    _key: card-10-412186db-5002-4368-8c44-eca2ddf6c852
+    _key: card-10-c57659bf-eaad-48fe-ad42-d57582c7dbcd
 
 ---
 * **‘Sister survivors’ moment of solidarity accepting Arthur Ashe Courage Award | ESPYS 2018 | ESPN:**  

@@ -1,14 +1,14 @@
 ---
 title: 18.06.29 Mexico Elections
 slug: 20180629-18-06-29-mexico-elections
-_id: legacy-1ff4b525-07fb-4078-ab09-f216caab27d0
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-7f294082-68fd-4b95-8766-b9b126efffc1
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-06-29-mexico-elections/
 _createdAt: '2018-06-29T09:34:22Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-06-29T09:34:22+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-29-mexico-elections/)
-    _key: card-10-beea2071-f53d-433c-88d4-7293e57ed6ed
+    _key: card-10-69f16563-9a56-4900-91fa-e86b2f34ac6b
 
 ---
 * **2 mayoral candidates killed in Mexico, 18 dead so far:**  

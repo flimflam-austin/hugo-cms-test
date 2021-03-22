@@ -1,14 +1,14 @@
 ---
 title: 18.08.21 Manafort & Cohen
 slug: 20180822-18-08-21-manafort-cohen
-_id: legacy-413517e0-9e51-4306-b900-80690e64c342
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-184b06c1-1404-4bbc-9020-df7e89971332
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-21-manafort-cohen/
 _createdAt: '2018-08-22T11:59:07Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-22T11:59:07+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
         
       Here’s what we’ve learned from the investigation aimed at protecting
       America’s democracy.
-    _key: card-1-4ce43caa-6980-436a-9f55-cd8bd2287054
+    _key: card-1-5d6bda8e-b5c8-4e68-9a95-587c9d7ce5e7
   - order: 1
     body: >-
       ## THE “FIRSTS”
@@ -47,7 +47,7 @@ cards:
 
       * Pres. Trump’s fmr lawyer, **Michael Cohen:**A **first to plead guilty**
       to charges resulting from a reported referral from the Special Counsel.
-    _key: card-2-219ec5dd-c24b-4726-979c-14f0eda59399
+    _key: card-2-ac89022d-ffa0-4594-b7e2-2f9de0087093
   - order: 2
     body: >-
       # WHY IT MATTERS:
@@ -60,7 +60,7 @@ cards:
       related to 2016 election.** Prosecutor said he _“worked to pay money to
       **silence two women** who had information that he believed would be
       detrimental to the 2016 campaign…”_
-    _key: card-3-c300b55a-f2d3-4e0e-94ac-59d6fb1778a6
+    _key: card-3-ddcc2d5a-76e1-4dab-be0d-03f7d1652738
   - order: 3
     body: >-
       ## NOW WHAT?
@@ -74,7 +74,7 @@ cards:
 
 
       **What it means for President Trump? TBD**
-    _key: card-4-81dbd95e-669e-4801-89a1-ed067e38fd56
+    _key: card-4-42e76558-4312-42e0-9189-1b3e0f546ea1
   - order: 4
     body: >-
       > “Cohen … is more than happy to tell the Special Counsel all that he
@@ -85,7 +85,7 @@ cards:
         
       Michael Cohen's attorney, Lanny Davis. Davis is best known for serving in
       the Clinton White House.
-    _key: card-5-7d6c8ba1-2c61-42ae-b489-69ff9828aec3
+    _key: card-5-0865a86a-e963-4fc0-b3a7-64c104623e3b
   - order: 5
     body: >-
       Pres. Trump called the Manafort trial a "witch hunt and disgrace." He has
@@ -95,7 +95,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-21-manafort-cohen/)
-    _key: card-10-671bbb1f-0664-409f-b9a7-c92a4b66567d
+    _key: card-10-914d8a88-14ac-4666-b562-7b335d54bf2b
 
 ---
 * **Is the Mueller probe costing $20 million, as Donald Trump says?:** [https://www.politifact.com/truth-o-meter/statements/2018/may/23/donald-trump/mueller-probe-costing-20-million-donald-trump-says/](https://www.politifact.com/truth-o-meter/statements/2018/may/23/donald-trump/mueller-probe-costing-20-million-donald-trump-says/)

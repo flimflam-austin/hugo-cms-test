@@ -1,14 +1,14 @@
 ---
 title: 18.04.24 E Coli & Women
 slug: 20180423-18-04-24-e-coli-women
-_id: legacy-86a362ce-0640-4ded-b3bc-5d2dd19a8869
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-f98a40e7-a51b-4634-80bd-38ab52092a15
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-24-e-coli-women/
 _createdAt: '2018-04-23T10:03:42Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-23T10:03:42+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       FLIP FOR WHY
     citation: FLIP FOR WHY
-    _key: card-1-fe2ff1d2-a9c8-41c7-adf1-fca2da14cd54
+    _key: card-1-097672da-0d6a-4766-b3b9-c6818e42f729
   - order: 1
     body: >-
       # Why Women?
@@ -46,7 +46,7 @@ cards:
 
       Skip the salad
     citation: Skip the salad
-    _key: card-2-857ba097-9e6a-4c54-a269-0270581d77fb
+    _key: card-2-fe31bf03-6e9e-464c-988f-6c42e1245478
   - order: 2
     body: >-
       ## THROW IT ALL AWAY
@@ -67,7 +67,7 @@ cards:
         
         
       Ian Williams, CDC's Outbreak Response and Prevention Branch Chief to CNN
-    _key: card-3-789301d3-36c9-4521-bf78-f66a3a847428
+    _key: card-3-7be712b4-ba44-454d-aad7-606ba0a71796
   - order: 3
     body: |-
       ## What You Need to Know
@@ -80,7 +80,7 @@ cards:
 
       * 31 hospitalized, 5 w/kidney issues.
       * No deaths reported.
-    _key: card-4-fddcdc37-a459-4cc4-830d-2d2dbdbfa44f
+    _key: card-4-496a6cb2-1fac-423a-b9e2-5ff7a34a41be
   - order: 4
     body: >-
       ## Where E. Coli Comes From
@@ -93,7 +93,7 @@ cards:
 
 
       Common inA **ground beef, unpasteurized milk & produce**.
-    _key: card-5-b1b62408-9535-4afa-8f69-13490949c02a
+    _key: card-5-5ddeb579-40f6-41be-96f2-8a8edd40fbd7
   - order: 5
     body: >-
       Bigger Picture? "The CDC is doing their best to protect us. ...Identifying
@@ -103,7 +103,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-24-e-coli-women/)
-    _key: card-10-2026e1f4-d6a8-4132-9fd9-c90d9e46a5bd
+    _key: card-10-02d27bd3-2d8b-45ad-a5ac-09a99101f1d9
 
 ---
 * **Multistage Outbreak of E. coli O157:H7 Infections Linked to Romaine Lettuce**: [https://www.cdc.gov/ecoli/2018/o157h7-04-18/index.html](https://www.cdc.gov/ecoli/2018/o157h7-04-18/index.html)

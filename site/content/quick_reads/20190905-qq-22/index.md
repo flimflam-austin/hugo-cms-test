@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for Thursday, February 7, 2019
 slug: 20190905-qq-22
-_id: legacy-10f6eef7-8f69-41cf-8500-b7fc4bf2ef95
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-3fbc7dd1-ef13-48c1-9160-e99474edb579
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - qq-22/
 _createdAt: '2019-02-07T13:37:05Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2019-02-07T13:37:05+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
       Fast moving reports indicate the group believes they can come to an
       agreement that includes *some* $$ for a border barrier & other security
       measures.
-    _key: card-1-fdb61800-4c8a-441d-b2c5-3d9f90d24a6e
+    _key: card-1-9e4e8a70-45c3-4a9d-b281-4adcd6122959
   - order: 1
     body: >-
       > ‘You know what keeps me up at night? Measles is exquisitely contagious.
@@ -44,7 +44,7 @@ cards:
       centered in his Washington State community that has low vaccination rates.
       At least 55 measles cases have emerged in WA & Oregon, the most in more
       than 2 decades.
-    _key: card-2-203d039d-09f7-4ed2-82cf-bba0e75b8ca5
+    _key: card-2-8716714f-0959-4947-b69a-554e493cc938
   - order: 2
     body: >-
       > “For a long time people have tried to pose this or prop this up as a
@@ -58,7 +58,7 @@ cards:
       democratic leadership, after the Governor admitted to wearing blackface in
       the 1980s & the Lt. General was accused of sexual assault in 2004 - a
       charge he denies.
-    _key: card-3-4606dee7-e1a9-4654-b0a7-30b55a4b39e7
+    _key: card-3-637c0371-f577-42e2-a5d9-37596c97dec0
   - order: 3
     body: >-
       > ‘I was notA consulted.’  
@@ -71,7 +71,7 @@ cards:
       President Trump tweeted ISIS was defeated & troops would come home now.
       Gen. Votel says his duty now is to execute those orders, but added he
       isn't under pressure to leave by a certain date.
-    _key: card-4-f1e58483-d6cd-4b08-bda8-e94793eedf5d
+    _key: card-4-da4602e8-f3d0-4c65-99b4-5d1871b4f061
   - order: 4
     body: >-
       > “I’ve been wondering what that special place in hell looks like, for
@@ -85,7 +85,7 @@ cards:
       next month. Without a deal, both sides warn of "considerable disruption."
       UK PM Theresa May is in Brussels today for a series of meetings with EU
       officials, including Tusk.
-    _key: card-5-a18ee9d3-0ecb-4137-bdeb-394f4a8197ec
+    _key: card-5-7224ef11-b43b-4a7f-8d6d-9441a08eae0b
   - order: 5
     body: >-
       > “the lack of clarity… has kept the Oscars really in the conversation and
@@ -97,10 +97,10 @@ cards:
       ceremony will go without an official host for the first time in 30 years.
       The Feb. 24th event had originally tapped comedian Kevin Hart to host, but
       he withdrew amid a controversy over his old, homophobic tweets.
-    _key: card-6-e2b601de-e020-4cb7-baeb-9a2e9f929f82
+    _key: card-6-274283f8-cb5b-4e2a-8bff-648804dfae81
   - order: 6
     body: '[view sources](https://smarthernews.com/qq-22/)'
-    _key: card-10-9122e9aa-9a9a-40db-9879-8782525ddbe8
+    _key: card-10-0a4dc92d-c0bf-444c-854f-414c7ba455a5
 
 ---
 * **Pelosi Says She Will Back a Bipartisan Border Deal, Putting the Onus on Trump**  

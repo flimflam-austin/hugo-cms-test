@@ -1,14 +1,14 @@
 ---
 title: 18.08.18 Notorious Bomb Maker Dead?
 slug: 20180821-18-08-18-notorious-bomb-maker-dead
-_id: legacy-fdd7da2c-fb7b-4354-bda5-4b65ca7a876f
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-e3410881-0abe-4a44-9d40-5a2c951d7f49
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-18-notorious-bomb-maker-dead/
 _createdAt: '2018-08-21T11:58:58Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-21T11:58:58+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       Why It Matters
     citation: Why It Matters
-    _key: card-1-b235f4c8-47c0-4ec6-8609-882f5b35ac2f
+    _key: card-1-f47c0947-8f35-4737-9a81-f11695605a7b
   - order: 1
     body: >-
       > “A good chunk of what you have to take out of your bag and what has to
@@ -37,7 +37,7 @@ cards:
         
       Former CIA deputy director Michael Morell on the rumored death of Ibrahim
       al Asiri.
-    _key: card-2-3452a2f9-d6c1-46d3-aa0f-d36110315607
+    _key: card-2-52b88063-c921-4bc2-810a-7648fb2df778
   - order: 2
     body: >-
       ## TERRORIST TARGET
@@ -53,7 +53,7 @@ cards:
 
       * Responsible for underwear bomber technology in 2009 and disguising bombs
       as printers.
-    _key: card-3-3af4db8f-4661-4fb4-87b8-35e8092d37d6
+    _key: card-3-90787488-bf91-445b-92d9-ac2b195cc7fb
   - order: 3
     body: |-
       ## What You Should Know:
@@ -65,7 +65,7 @@ cards:
       $5 million award from State Dept for his arrest and prosecution.
 
       **Reportedly: working on laptop or tablet bombs.**
-    _key: card-4-05f8a796-5032-4913-9017-ffaeb233c2f8
+    _key: card-4-7ed4910d-710e-4b59-8719-00274412c3a0
   - order: 4
     body: >-
       ## Important Context
@@ -79,7 +79,7 @@ cards:
         
       Bill Roggio, Senior Fellow at the Foundation for Defense of Democracies &
       Editor of FDD's Long War Journal
-    _key: card-5-432aff5d-b7cc-4824-a707-b7da0d3b3aca
+    _key: card-5-987d9ce2-1897-4037-b4f0-42380dbd9723
   - order: 5
     body: >-
       Timing matters: Monday Aug 20-21 is an important worldwide Muslim holiday
@@ -90,7 +90,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-08-18-notorious-bomb-maker-dead/)
-    _key: card-10-e48b0ca9-9652-43d3-a115-1f860c3d2373
+    _key: card-10-e9efab09-569d-440a-9ad6-4fe9b1aa37f3
 
 ---
 * **Wanted AQAP bomb maker rumored killed in US drone strike:**  

@@ -1,14 +1,14 @@
 ---
 title: 18.06.18 Otd Sally Ride
 slug: 20200617-18-06-18-otd-sally-ride
-_id: legacy-2e8f3092-fe82-4836-9220-101580d1fb84
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-a8855c3e-61f3-499f-9b3f-c2970046c95d
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-06-18-otd-sally-ride/
 _createdAt: '2018-06-18T10:57:10Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-06-18T10:57:10+00:00'
 weight: 50
 featured_image:
@@ -23,7 +23,7 @@ cards:
       # One Giant Leap for WOMANkind
 
       On June 18, 1983, Sally Ride became the 1st American woman in space.
-    _key: card-1-85edfe89-c881-4899-9239-515a7fe6bf3e
+    _key: card-1-edbbf169-83c3-41b0-8ec7-5959db8eecd4
   - order: 1
     body: >-
       > “When I was a little girl, I dreamed of flying in space. Amazingly
@@ -34,7 +34,7 @@ cards:
         
         
       Sally Ride at the 2002 Sally Ride Science Club's Boston Science Festival
-    _key: card-2-b8337f21-d130-45a3-abb1-c0016bb0cff6
+    _key: card-2-48bd1323-042c-42d0-96ff-d36b548f2f58
   - order: 2
     body: >-
       ## About Dr. Sally Ride:
@@ -49,7 +49,7 @@ cards:
 
       * Named into the Astronauts Hall of Fame in 2003 & awarded the
       Presidential Medal of Freedom in 2013, a year after her death.
-    _key: card-3-efdd55c6-71d3-4604-90e5-c0fc31bb120d
+    _key: card-3-d370967a-170c-4dfc-b96e-ead27a3c4b8f
   - order: 3
     body: >-
       ## WOMEN IN SPACE
@@ -62,7 +62,7 @@ cards:
       * Ride was the THIRD woman in space.
 
       * The first two were Soviet cosmonauts.
-    _key: card-4-f9cdd65c-e736-46a5-8330-0437c3cac455
+    _key: card-4-e91b2e92-2c82-482d-874c-509ba70366eb
   - order: 4
     body: >-
       Ride was a huge STEM advocate education. In 2010, she helped found the
@@ -72,7 +72,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-18-otd-sally-ride/)
-    _key: card-10-18d49ab5-5325-46fe-989e-e3ac379e05d0
+    _key: card-10-f4b48103-a2b6-4166-a248-78d163c98f97
 
 ---
 * **Sally Ride tells girls about career as astronaut at MIT event:**  
@@ -82,4 +82,4 @@ cards:
 * **Women in Space:**  
 [https://history.nasa.gov/women.html](https://history.nasa.gov/women.html)
 * **USPS Releases New Stamp Honoring Sally Ride, First American Woman In Space:**  
-[https://www.forbes.com/sites/jesseshanahan/2018/05/23/usps-releases-new-stamp-honoring-sally-ride-first-american-woman-in-space/#5653ea7e5c67](https://www.forbes.com/sites/jesseshanahan/2018/05/23/usps-releases-new-stamp-honoring-sally-ride-first-american-woman-in-space/#5653ea7e5c67)653ea7e5c67)
+[https://www.forbes.com/sites/jesseshanahan/2018/05/23/usps-releases-new-stamp-honoring-sally-ride-first-american-woman-in-space/#5653ea7e5c67](https://www.forbes.com/sites/jesseshanahan/2018/05/23/usps-releases-new-stamp-honoring-sally-ride-first-american-woman-in-space/#5653ea7e5c67)

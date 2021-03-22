@@ -1,14 +1,14 @@
 ---
 title: 18.02.08 National Prayer Breakfast
 slug: 20180208-18-02-08-national-prayer-breakfast
-_id: legacy-d47426f8-f2a6-4b86-9fb7-4fc77fe1611f
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-a2194a4f-5c60-42e6-b1f2-e8f70157af7a
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-08-national-prayer-breakfast/
 _createdAt: '2018-02-08T17:00:16Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-08T17:00:16+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       Flip For Honoree
     citation: Flip For Honoree
-    _key: card-1-7d4de7ee-fbe2-477d-956d-88247cd919f2
+    _key: card-1-64602177-f058-4dcf-8e02-f36d805456cb
   - order: 1
     body: >-
       Ret. Army Major  
@@ -48,7 +48,7 @@ cards:
 
       * Says faith propelled him forward, specifically favorite Bible verse:A
       _“I can do all things through Christ who strengthens me.”_ Phil 4:13
-    _key: card-2-09b9ba5d-79f5-4b1e-a712-154444e6cb24
+    _key: card-2-b8759b4b-939e-4cb7-89eb-290b479e298f
   - order: 2
     body: >-
       > “America is a nation of believers, and together we are strengthened by
@@ -61,7 +61,7 @@ cards:
 
       Flip Card For Who The President Called Out:
     citation: 'Flip Card For Who The President Called Out:'
-    _key: card-3-6f35e3aa-10c2-4717-b62f-29272ed291a8
+    _key: card-3-2b3291cf-0c52-4054-9318-28e7d701c8a9
   - order: 3
     body: >-
       # President Addressed:
@@ -73,7 +73,7 @@ cards:
 
       * “We know that millions of people in Iran, Cuba, Venezuela, North Korea,
       and other countries suffer under repressive and brutal regimes.”
-    _key: card-4-8027e6d9-eadb-48a7-9e0c-e114f4973a41
+    _key: card-4-6c2ce4a0-8878-4784-9411-8c1efe083bdf
   - order: 4
     body: >-
       Watch Entire Prayer Breakfast Program
@@ -81,7 +81,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-02-08-national-prayer-breakfast/)
-    _key: card-10-c402fcaf-ae66-4e69-8da7-f93aebf1374e
+    _key: card-10-76bf1c9d-7a8f-437c-a738-5e05109a9b0f
 
 ---
 Watch Whole Presentation of National Prayer Breakfast:A [https://www.c-span.org/video/?440812-1/president-trump-addresses-national-prayer-breakfast&live](https://www.c-span.org/video/?440812-1/president-trump-addresses-national-prayer-breakfast&live)

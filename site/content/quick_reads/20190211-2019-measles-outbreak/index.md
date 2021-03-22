@@ -1,14 +1,14 @@
 ---
 title: 19.02.11 Measles 2019 Outbreak
 slug: 20190211-2019-measles-outbreak
-_id: legacy-3a5e2a81-9522-465d-a2e3-68ffac734d35
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-fa242702-e85c-4c54-b9e5-b5c0d0b29827
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 2019-measles-outbreak/
 _createdAt: '2019-02-11T15:09:34Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-02-11T15:09:34+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Why Now?
     citation: Why Now?
-    _key: card-1-49d167e1-155f-4ec5-89b3-0313cca1624e
+    _key: card-1-91b39565-0a62-435c-b86b-3718caee08d1
   - order: 1
     body: >-
       > “Measles can be so contagious that you can be in a room, and if you’re
@@ -42,7 +42,7 @@ cards:
       the measles outbreak in Washington state. Most of the cases are children
       under 10. The vaccination rate for school age children is 78%, much lower
       than recommended 90-95% to create community or herd immunity.
-    _key: card-2-aa434e2c-fa80-4dd4-bd69-d0bbb78e0844
+    _key: card-2-122104cc-8d60-4d70-b30f-b74f4c001e87
   - order: 2
     body: >-
       # Measles: Defined
@@ -56,7 +56,7 @@ cards:
 
       * particularly dangerous for children, can cause ear infections that lead
       to hearing loss, brain swelling, or even death.
-    _key: card-3-3a69577c-67c7-453e-95d1-abaefd375f24
+    _key: card-3-920b7a4f-5a7d-4eb0-80b6-ae4061582961
   - order: 3
     body: >-
       ## The Vaccine In America
@@ -73,7 +73,7 @@ cards:
       * 1 dose = 93% effective.
 
       * 2nd dose = 97% effective.
-    _key: card-4-42a1c2ed-14aa-49df-9e56-c6231f08e5d1
+    _key: card-4-1a6ba02a-1d98-4f68-86d8-21092657d0d0
   - order: 4
     body: >-
       ## What’s Going On:
@@ -88,7 +88,7 @@ cards:
       travel.
 
       * Most recent state w/cases: **Texas**.
-    _key: card-5-9a1fd14f-61e3-4bd6-b6e0-90b02aa79b0c
+    _key: card-5-28e04c42-f72f-4157-b847-29fd68c4700c
   - order: 5
     body: >-
       # Why Now?
@@ -101,7 +101,7 @@ cards:
         
         
       Medical researcher & author CL Ventola.
-    _key: card-6-4a06990e-169d-4b73-a46c-c298d0d7f402
+    _key: card-6-505572d7-951d-4e8f-9a20-b0bbfeb449e4
   - order: 6
     body: >-
       Between 2010 - 2018, the CDC reported an average of 217 measles cases
@@ -111,7 +111,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/2019-measles-outbreak/)
-    _key: card-10-6a89fdcc-cd22-46ef-abbe-7c0bf429a20d
+    _key: card-10-af6d5717-1b01-405e-81cf-319033eee198
 
 ---
 * **Measles Cases & Outbreaks**:  

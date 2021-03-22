@@ -1,14 +1,14 @@
 ---
 title: 18.02.15 Battling Dementia
 slug: 20180316-18-02-15-battling-dementia
-_id: legacy-d23888cd-181b-4573-b68a-f64aa4ab2190
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-9496a965-63f0-45a5-8d15-3ac814a1cae9
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-15-battling-dementia/
 _createdAt: '2018-03-16T13:30:24Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-16T13:30:24+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip For Why It Matters
     citation: Flip For Why It Matters
-    _key: card-1-87414190-ce2a-499d-bc56-848099675d49
+    _key: card-1-ed016cf0-b3d3-4182-b516-5e4b8ad59278
   - order: 1
     body: >-
       # Dementia: No Cure
@@ -47,7 +47,7 @@ cards:
       diagnosis happening later-and-later in life.
 
       * Dementia can also be easily undiagnosed.
-    _key: card-2-ee66ede9-732c-4db9-a32b-4341b011d7aa
+    _key: card-2-17000cec-e57a-4dcd-8753-5ec78f8c47bf
   - order: 2
     body: >-
       # “Memory Suitcases”
@@ -67,7 +67,7 @@ cards:
       [Check Them
       Out:](http://houseofmemories.co.uk/things-to-do/memory-suitcases/)
     citation: 'Check Them Out:'
-    _key: card-3-206f0383-756b-48f5-a6e9-82fe99d8c59e
+    _key: card-3-18f9483d-f24d-42c6-93f6-510b6b35704f
   - order: 3
     body: >-
       Not Just Suitcases:  
@@ -85,10 +85,10 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/TJrJBRSRyj0?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-4-a84234d1-8abb-425a-8fdc-bffaa52596b5
+    _key: card-4-41ddf90a-7b44-4f1a-a7fa-c2f63dc2c9d5
   - order: 4
     body: "## How It Works:\n\n> “Photographs, memorabilia and objects a\x14 be they the actual items or images of them on apps a\x14 help rekindle memories in people with dementia and lead them to start conversations.”  \n  \n  \n  \nMuseums Fight the Isolation and Pain of Dementia, NYT, Mar. 11, 2018"
-    _key: card-5-3891eb17-85ed-4036-8284-9c33ed26d613
+    _key: card-5-1a902542-977c-412d-bf10-9f6eeea36d00
   - order: 5
     body: >-
       It's coming to America: The Minnesota Historical Society plans to offer an
@@ -96,7 +96,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-15-battling-dementia/)
-    _key: card-10-b79937e3-00cb-4001-843b-69b583037fd7
+    _key: card-10-c5a54094-87e2-452b-ae06-1d000f49fdf9
 
 ---
 * Museums Fight the Isolation and Pain of DementiaA [https://www.nytimes.com/2018/03/11/arts/dementia-national-museums-liverpool.html?ribbon-ad-idx=3&rref=health&module=Ribbon&version=origin&region=Header&action=click&contentCollection=Health&pgtype=article](https://www.nytimes.com/2018/03/11/arts/dementia-national-museums-liverpool.html?ribbon-ad-idx=3&rref=health&module=Ribbon&version=origin&region=Header&action=click&contentCollection=Health&pgtype=article)

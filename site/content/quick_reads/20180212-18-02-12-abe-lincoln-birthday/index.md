@@ -1,14 +1,14 @@
 ---
 title: 18.02.12 Abe Lincoln Birthday
 slug: 20180212-18-02-12-abe-lincoln-birthday
-_id: legacy-c0a97056-b425-416a-ab77-b071e58076fe
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-8980f088-5056-43ab-874b-8ffcb3fc5b1d
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-12-abe-lincoln-birthday/
 _createdAt: '2018-02-12T10:31:31Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-12T10:31:31+00:00'
 weight: 50
 featured_image:
@@ -20,7 +20,7 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     body: "## President Abraham Lincoln Is Born\n\n> ‘I was born **Feb. 12, 1809**, in Hardin County, Kentucky. My parents were both born in Virginia, of undistinguished familiesa\x13second families, perhaps I should say.”  \n  \n  \n  \nPres. Lincoln, Dec 20, 1859 before he secured Republican nomination"
-    _key: card-1-21114af3-942e-4780-8334-466301d7a876
+    _key: card-1-df972b56-159e-451e-97c8-1b97a77fe600
   - order: 1
     body: >-
       # Lincoln: Facts
@@ -35,7 +35,7 @@ cards:
       * Father to 4 sons; Only 1 lived to adulthood.
 
       * Little formal education; avid reader. One-time store clerk.
-    _key: card-2-27718dd9-ef34-46aa-9bea-572e7e4c6315
+    _key: card-2-eaa71deb-4035-4578-8625-f54eed5676db
   - order: 2
     body: >-
       ## Lincoln’s Famous Speech: Gettysburg Address
@@ -48,7 +48,7 @@ cards:
 
       * Recent History: Some now believe Lincoln suffered from Small Pox during
       speech.
-    _key: card-3-70ca6e4f-e0eb-4849-8ec8-0e3d651cc070
+    _key: card-3-85a04bb2-3a6b-44d7-b202-06a74226ce21
   - order: 3
     body: >-
       Lincoln’s Famous Order  
@@ -63,13 +63,13 @@ cards:
       * Limited. Yet Significant.
 
       * Only impacted 10 southern states but set stage for abolition of slavery.
-    _key: card-4-094a7591-99bf-43d1-a5a3-2947c9aacecc
+    _key: card-4-fe1f985c-c196-4532-b298-988c752844da
   - order: 4
     body: |-
       See President Abraham Lincoln's Handwritten Gettysburg Address & More:
 
       [view sources](https://smarthernews.com/18-02-12-abe-lincoln-birthday/)
-    _key: card-10-5465c4dd-90c7-458b-b42a-e2dcfc22e64a
+    _key: card-10-c482df40-6dd9-4bdc-a3e6-194738fe402b
 
 ---
 * Gettysburg Address: [http://americanhistory.si.edu/documentsgallery/exhibitions/document_transcripts/Gettysburg_Address_small.pdf](http://americanhistory.si.edu/documentsgallery/exhibitions/document_transcripts/Gettysburg_Address_small.pdf)

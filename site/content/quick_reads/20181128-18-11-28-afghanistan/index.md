@@ -1,14 +1,14 @@
 ---
 title: Honoring the Fallen
 slug: 20181128-18-11-28-afghanistan
-_id: legacy-3995768a-3c5f-4d14-a58c-0102192a93c0
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-d8d6e167-0631-4bb0-b9f6-900b047a9e20
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-11-28-afghanistan/
 _createdAt: '2018-11-28T13:23:30Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-11-28T13:23:30+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       What's Going On
     citation: What's Going On
-    _key: card-1-473eb940-90f7-4d33-8204-9b32d1bb280c
+    _key: card-1-bd3ced99-2cbf-4780-911d-62988b9e76dd
   - order: 1
     body: >-
       ## What Happened:
@@ -43,7 +43,7 @@ cards:
       Qaeda. The military says he was killed accidentally by an Afghan soldier
       he was fighting alongside in close quarters. The incident is being
       investigated.
-    _key: card-2-15205cf8-527c-4c73-82f1-6b419d163a85
+    _key: card-2-fed80243-97d4-4602-9954-4ef8703c1e2b
   - order: 2
     body: >-
       ## BIG PICTURE
@@ -56,7 +56,7 @@ cards:
       * The Trump administration has allowed the military to operate more freely
       to target terrorists, but also reportedly wants to negotiate a “peace
       deal” with the Taliban.
-    _key: card-3-abe96bd3-c9f9-4a36-a919-903f1afe247e
+    _key: card-3-669b34b3-7b3e-4a5c-9028-ccd6afb64485
   - order: 3
     body: >-
       ## Something To Consider:
@@ -73,7 +73,7 @@ cards:
         
         
       Tom Josceyln, The Long War Journal
-    _key: card-4-7187a751-ef1b-498d-8499-43abec5bf239
+    _key: card-4-0456b063-ad44-4596-9536-c13d4b126b87
   - order: 4
     body: >-
       ‘It is heart wrenching. Lando was an incredibly charismatic human beinga|
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-11-28-afghanistan/)
-    _key: card-10-e59b8af7-292b-4d97-9e61-87abea553e12
+    _key: card-10-bb42ae1e-4429-4d70-9522-24b837871ccf
 
 ---
 * **Sgt. Leandro A.S. Jasso was ‘charismatic,’ ‘wonderful kid,’ friends, mentors recall:**  

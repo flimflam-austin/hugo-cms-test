@@ -1,14 +1,14 @@
 ---
 title: 18.05.13 Mother's Day Background
 slug: 20180512-18-05-13-mothers-day-background
-_id: legacy-b3d292d2-f359-42b8-b999-a6cfd3b52a52
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-08764dad-fc74-418b-8e1d-cea916ed82b6
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-13-mothers-day-background/
 _createdAt: '2018-05-13T00:23:48Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-13T00:23:48+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       FLIP FOR "HERSTORY"
     citation: FLIP FOR "HERSTORY"
-    _key: card-1-43d7a17d-06f5-402b-9c51-fdee69863b4a
+    _key: card-1-109b2ee7-7e8c-491f-9087-0a5ba07a9daa
   - order: 1
     body: >-
       * In **1908**, Jarvis organized the 1st Mother’s Day in West Virginia to
@@ -39,7 +39,7 @@ cards:
 
       * In 1914, **Congress declared the 2nd Sunday in May** (anniversary of
       Jarvis’ mom’s death) **as Mother’s Day**.
-    _key: card-2-dab301af-1caf-40f6-9a47-c8390f3f2bb1
+    _key: card-2-567bce9f-f247-4407-82b4-a312b2711413
   - order: 2
     body: >-
       By the 1920s, mothers nationwide were showered with candy, flowers, cards,
@@ -50,7 +50,7 @@ cards:
       intended as a day to **honor the role mothers play in the family, church,
       and community**, spent the rest of her life fighting against its
       commercial success.
-    _key: card-3-8044d897-8574-4d4c-9e56-0468bb563270
+    _key: card-3-b92d691d-424d-4aba-958c-b32a3bb17d06
   - order: 3
     body: >-
       Jarvis handed out at carnations at the first Mother's Day celebration in
@@ -60,7 +60,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-13-mothers-day-background/)
-    _key: card-10-a52a7547-88c2-4453-b8b4-3a4852838bbb
+    _key: card-10-ca3a5752-32cf-4159-b924-f003e4763763
 
 ---
 * **Topics in Chronicling America – Mother’s Day:** [https://www.loc.gov/rr/news/topics/mothers.html](https://www.loc.gov/rr/news/topics/mothers.html)

@@ -1,14 +1,14 @@
 ---
 title: 18.07.30 Honoring Emeline Miller
 slug: 20180731-18-07-30-honoring-emeline-miller
-_id: legacy-2d90e140-5dd6-4c22-949a-2c7fe92abb2c
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-199c746c-fb4e-4733-af57-163c69d330e8
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-30-honoring-emeline-miller/
 _createdAt: '2018-07-30T17:35:09Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-30T17:35:09+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
       Morgan Beck Miller, wife of skier Bode Miller, speaking about the drowning
       death of daughter, Emeline. The Millers want to educate the public about
       the dangers of drowning.
-    _key: card-1-6e2fd009-a424-49d4-bcd6-7e42485d9922
+    _key: card-1-d28e911b-e94e-49f8-8b5f-ca2362e5fcf5
   - order: 1
     body: >-
       > Every single day in America…  
@@ -45,7 +45,7 @@ cards:
         
       The CDC also states "drowning kills more children 1-4 than anything else
       except birth defects."
-    _key: card-2-3b0fac32-b764-462e-a4a3-2649c89672fe
+    _key: card-2-9345a0d6-a76f-4f1a-8faf-c97ab5c5eed9
   - order: 2
     body: >-
       ## What You Should Know:
@@ -60,7 +60,7 @@ cards:
       drowning deaths**.
 
       * July/August = deadliest months.
-    _key: card-3-fa973904-ebb4-46c2-97a3-be64968c7e21
+    _key: card-3-f0bed949-764a-4bb3-a573-0a8674603881
   - order: 3
     body: >-
       ‘A child under 30 pounds can drown in 30 seconds....And I just keep
@@ -68,7 +68,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-30-honoring-emeline-miller/)
-    _key: card-10-8189c5eb-99d2-4047-89f0-43a94d17fa1a
+    _key: card-10-5ff5b055-d541-40f1-b97a-9ebd58990554
 
 ---
 * **Bode and Morgan Miller open up about daughter’s drowning and share new mission**A [https://www.today.com/parents/bode-morgan-miller-open-about-daughter-s-drowning-share-new-t134603](https://www.today.com/parents/bode-morgan-miller-open-about-daughter-s-drowning-share-new-t134603)

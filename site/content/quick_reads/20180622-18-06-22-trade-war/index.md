@@ -1,14 +1,14 @@
 ---
 title: 18.06.22 Trade War
 slug: 20180622-18-06-22-trade-war
-_id: legacy-5a6ddbf2-1192-4cbd-b019-f6b22d42e37e
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-029bf712-626d-4770-aaa3-21586495aa07
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-22-trade-war/
 _createdAt: '2018-06-22T11:15:13Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-22T11:15:13+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Tit for tat trade War
     citation: Tit for tat trade War
-    _key: card-1-40cb4c01-2e2f-4d52-8d4e-fe51ff0865c7
+    _key: card-1-244dcff1-af37-4e21-a64c-f2ea093f5a5c
   - order: 1
     body: >-
       ## Where Things Stand Now
@@ -47,7 +47,7 @@ cards:
       “unfair practices.”
 
       * Tariffs make US-made goods cheaper vs. imports.
-    _key: card-2-a354b892-e522-4e84-b749-dc29380e628c
+    _key: card-2-656e40fa-7969-41f3-9485-ed0389d1139f
   - order: 2
     body: >-
       > **_‘China does have much more to lose than we do.’_**  
@@ -64,7 +64,7 @@ cards:
 
       * That said, China’s $13T economy, can turn to other countries to sell its
       goods.
-    _key: card-3-c49fc332-73fa-49b2-b375-6b5c795da410
+    _key: card-3-bc4220a5-fce8-4536-ae09-c55ff68bd30f
   - order: 3
     body: >-
       > ‘Mr. Trump seems to be counting on the fact that China will soon run out
@@ -75,7 +75,7 @@ cards:
       Eswar Prasad, Cornell University trade expert & Brookings Sr. Fellow on
       China's other options for retaliation like disrupting American businesses'
       sales operations & supply chains in China.
-    _key: card-4-6391988b-bfbf-4bec-bb58-e1a8637819c4
+    _key: card-4-d79c54b0-afd4-4fb1-b21f-6f5e389189b3
   - order: 4
     body: >-
       ## And It’s Not Just China…
@@ -86,7 +86,7 @@ cards:
 
       * In retaliation, the **EU is set Friday to slap tariffs on $3.4B in
       American products** (i.e. whiskey, motorcycles, peanuts & cranberries.)
-    _key: card-5-1f8b3673-c940-4da4-8f94-1ca4c43b65ff
+    _key: card-5-2b2cef42-fbfc-4fe6-898e-28a72525b32d
   - order: 5
     body: >-
       The US economy is on track to expand at the fastest rate in more than a
@@ -96,7 +96,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-22-trade-war/)
-    _key: card-10-34f15244-407c-47e3-9889-72a03139ccba
+    _key: card-10-644ea663-06af-4c93-9508-4447ffe5abbb
 
 ---
 * **Trump’s Ace in the Hole in Trade War: A Strong Economy:**  

@@ -5,30 +5,26 @@ title: >-
   Indictment of Isis Terrorists Known as the Beatles.
 slug: >-
   20201008-us-attorney-g-zachary-terwilliger-speaking-directly-to-the-parents-of-james-foley-peter-kassig-kayla-mueller-and-steven-sotloff-as-he-announces-the-indictment-of-isis-terrorists-known-as-the-beat
-_id: legacy-cf2c485c-037d-4a08-9b3b-392cbb8c075a
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-14854842-4028-4a97-bb61-501e61bd8d7e
+_rev: f2cVhvAV1wntWw1uaABAwR
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/us-attorney-g-zachary-terwilliger-speaking-directly-to-the-parents-of-james-foley-peter-kassig-kayla-mueller-and-steven-sotloff-as-he-announces-the-indictment-of-isis-terrorists-known-as-the-beat/
 _createdAt: '2020-10-09T03:27:06Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:53Z'
 date: '2020-10-09T03:27:06+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    2b78079a1c85cd16f937c9733699654ce2fe5c6e-2203x2560.jpg
 is_breaking: false
-summary: >-
-  US Attorney G. Zachary Terwilliger speaking directly to the parents of James
-  Foley, Peter Kassig, Kayla Mueller and Steven Sotloff as he announces the
-  indictment of ISIS terrorists known as “the Beatles.”
 featured_quote:
   quote: >-
     It's now a certainty -_ISIS will not have the last word when it comes to
     your children. You will.
-  citation: >-
-    US Attorney G. Zachary Terwilliger speaking directly to the parents of James
-    Foley, Peter Kassig, Kayla Mueller and Steven Sotloff as he announces the
-    indictment of ISIS terrorists known as “the Beatles.”
 
 ---
 * On Wednesday, the Department of Justice [announced](https://www.justice.gov/usao-edva/pr/isis-militants-charged-deaths-americans-syria) federal charges against two members of ISIS (and former British citizens) in connection to their role in the torture and killings of four American citizens, as well as two British citizens, and two Japanese citizens, in Syria.
@@ -41,10 +37,6 @@ featured_quote:
 * FBI Director Christopher Wray also spoke at Wednesday’s press conference, [warning](https://www.fbi.gov/news/pressrel/press-releases/fbi-director-christopher-wrays-remarks-at-press-conference-announcing-indictments-of-isis-militants) Americans that despite the significance of the charges, that ISIS (Islamic State of Iraq and Syria), also known as ISIL (Islamic State of Iraq and the Levant) is still a threat, stating:
 
 > _“ISIS is still trying to radicalize people—here in the United States and elsewhere—through online propaganda and their global network of supporters. Their goal is to motivate people to launch attacks against Western targets wherever they are, using any means available. But as today’s announcement shows, the FBI and our partners, both here and overseas, will continue to relentlessly pursue these terrorists—and anyone who chooses to support terrorist organizations like ISIS—no matter where they are, and no matter how long it takes. “_  
-  
-  
-  
-[KAYLA MUELLER](https://smarthernews.com/kayla-mueller/)they are, and no matter how long it takes. “_  
   
   
   

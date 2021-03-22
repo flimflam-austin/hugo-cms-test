@@ -1,14 +1,14 @@
 ---
 title: 18.04.04 Fixer Upper Final Bye Bye
 slug: 20180404-18-04-04-fixer-upper-final-bye-bye
-_id: legacy-bf07ce00-d18e-4a64-a69e-415b97cf8e2c
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-04d85ab6-d672-43fe-b4ed-f504857005be
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-04-fixer-upper-final-bye-bye/
 _createdAt: '2018-04-04T10:52:04Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-04T10:52:04+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       How Fixer Upper Changed TV
     citation: How Fixer Upper Changed TV
-    _key: card-1-e81182eb-adff-4e9d-9ab2-a334aeb56c17
+    _key: card-1-b29b266c-1b56-4d2f-8103-a1e6784a537a
   - order: 1
     body: |-
       ## Background:
@@ -47,7 +47,7 @@ cards:
       Averaged 14.5 M viewers weekly.
 
       Irony? Chip & Joanna Gaines don’t own a TV.
-    _key: card-2-f37c85bc-12a9-4aa8-9714-58499c03791d
+    _key: card-2-642c1652-bca2-4066-afda-a4d38b84dcf5
   - order: 2
     body: >-
       ## Why Is Fixer Upper SUCH A Big Deal…in TV?
@@ -62,7 +62,7 @@ cards:
 
       * Important network morning shows all losing viewers year-over-year. In
       fact, **Fixer Upper often beat the TV giants in viewership**.
-    _key: card-3-667887bf-6f8d-4480-8f6f-5988a0deca87
+    _key: card-3-adf59bc4-2a0b-48cf-a205-c3e122eb10da
   - order: 3
     body: >-
       # ‘Fixer Upper’ Success
@@ -78,7 +78,7 @@ cards:
       * Sales on homes already built (ripe for remodel) up year-over-year.
 
       * Overall, healthy real estate market.
-    _key: card-4-55471d76-aff8-409e-89f1-b544b8313092
+    _key: card-4-b4d5835f-6650-40bc-9c6a-649ef6380fe1
   - order: 4
     body: >-
       Chip & Joanna Gaines have big plans - including a new baby in July (child
@@ -87,7 +87,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-04-04-fixer-upper-final-bye-bye/)
-    _key: card-10-3910452f-e7d1-40ee-bda1-47b28eb9a5cb
+    _key: card-10-fda654ad-1b0e-4a53-9334-8bcb5a1c5313
 
 ---
 * What’s Next?A [https://magnolia.com/update-jo-final-episode/](https://magnolia.com/update-jo-final-episode/)

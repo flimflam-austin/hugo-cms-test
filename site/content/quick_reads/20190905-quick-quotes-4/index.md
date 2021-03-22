@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for September 12th
 slug: 20190905-quick-quotes-4
-_id: legacy-d344e913-7dc9-41c1-8ad2-b440c9f259b7
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-14fdc956-75ec-4217-870b-ce76eaf2c47f
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-4/
 _createdAt: '2018-09-12T12:00:13Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-12T12:00:13+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
       set to hit the Carolinas as a Category 4 storm late Thursday. Graham, a
       24-year veteran of the National Weather Center, warned of heavy rain, high
       wind and catastrophic life-threatening storm surge.
-    _key: card-1-a62aa0f3-3e23-4f4c-aa75-87a91970e923
+    _key: card-1-129635b1-a011-469c-b8f0-38b745000c8e
   - order: 1
     body: >-
       > “The American people expect us to get our work done…. we can
@@ -41,7 +41,7 @@ cards:
       the first of 3 gov't spending packages intended to avert a federal
       shutdown on October 1st, by postponing a funding fight over a wall at the
       Mexico border until after the Nov. 6 elections.
-    _key: card-2-84dc7085-3718-4bc8-be3b-83fb06421d4e
+    _key: card-2-61b9627b-eaa8-4daf-a19e-b2bbe8175533
   - order: 2
     body: >-
       > “…we are open to and already in the process of coordinating.”  
@@ -53,7 +53,7 @@ cards:
       with President Trump. Last month, President Trump scrapped Secretary of
       State's scheduled trip to N. Korea citing lack of progress. The June
       meeting in Singapore cost $12M.
-    _key: card-3-a07f59cd-4ddf-41d5-b158-9a2a7bdf10cf
+    _key: card-3-5bf4e429-faaa-47d4-b350-da32cc41c672
   - order: 3
     body: >-
       > “What the prices are for those 3 new products … that’s going to be the
@@ -66,7 +66,7 @@ cards:
       entry-level model may cost as little as $600 in an effort to boost iPhone
       sales, which have been flat even as Apple's stock climb has valued the
       company at more than $1T.
-    _key: card-4-329bf2ee-999e-4891-8586-96ba3a1beaba
+    _key: card-4-e5003daf-4d94-4b3f-8393-da7745c747d2
   - order: 4
     body: >-
       > ‘It is 50 times more powerful than heroin. It is very inexpensive. It is
@@ -80,7 +80,7 @@ cards:
       track sender's name, address & package contents for nearly all int'l mail
       shipments, including all from China. FedEx, UPS & DHL are already required
       to do so.
-    _key: card-5-0648143c-202e-40bd-bf09-ffd3360272de
+    _key: card-5-47f55155-5bbd-4086-b0ca-9df07c7cd49a
   - order: 5
     body: >-
       > “She was very cooperative.”  
@@ -92,10 +92,10 @@ cards:
       meat, daily for 8 years. The store's loss prevention manager calculated
       the 3-5 slices of ham per shift was worth $9,200. Authorities say she also
       occasionally ate salami.
-    _key: card-6-e9c9f5c4-dd04-4497-b8ba-ebeba8d82fd5
+    _key: card-6-f09a654b-1ae8-435e-848b-ed3f5d06141e
   - order: 6
     body: '[view sources](https://smarthernews.com/quick-quotes-4/)'
-    _key: card-10-b8a087f1-6d75-4fa1-aaf3-7d2b1f78e309
+    _key: card-10-8a0c9f45-8fb7-4817-8f84-8f2ca5ce0474
 
 ---
 * **Hurricane Florence: ‘This One Really Scares Me,’ Forecaster Says:**  

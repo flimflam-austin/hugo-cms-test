@@ -1,14 +1,14 @@
 ---
 title: 17.07.16 Qq
 slug: 20190905-17-07-16-qq
-_id: legacy-5a70f8fd-2de5-4170-bd5a-de80da79a3c9
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-6690726d-ca3f-4664-b4a8-f6b74badbabb
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 17-07-16-qq/
 _createdAt: '2018-07-16T11:00:02Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-07-16T11:00:02+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       Trump’s ambassador to Russia, Jon Huntsman, on the meeting of Putin &
       Trump Monday in Helsinki, Finland. It is the first official Russian-U.S.
       presidential summit since 2010.
-    _key: card-1-0343d83d-7fea-4b13-ba9e-6936ccfbe0b0
+    _key: card-1-ca86c120-76ee-42cc-b2c3-32603ba4375d
   - order: 1
     body: >-
       > “I was really happy to get this far. For all the moms out there, I was
@@ -41,7 +41,7 @@ cards:
       Good friend Meghan Markle & Kate Middleton were in the crowd in their
       first solo outing together. Williams gave birth to daughter Alexis Olympia
       in September.
-    _key: card-2-dd48f641-2da4-401f-ad67-0a90cc3846c5
+    _key: card-2-3c8d745b-0e6f-446f-b54c-cbf99308ff99
   - order: 2
     body: >-
       > “Today the digital infrastructure that serves this country is literally
@@ -54,7 +54,7 @@ cards:
       are blinking red again," similar to the signals received ahead of the
       Sept. 11, 2001 attacks. Coates also cited Russia as the "most aggressive
       foreign actor."
-    _key: card-3-a73bb0ff-25ad-4af0-a501-c64da11f78be
+    _key: card-3-85fca955-2edd-4ee0-b98a-7b3531ca7249
   - order: 3
     body: >-
       > “People wondered why our marriage came to an end. I think it’s because
@@ -67,7 +67,7 @@ cards:
       ex-husband Bruce Willis. Watch all the burns from the likes of Joseph
       Gordon-Levitt to Dennis Rodman to Martha Stewart when the roast airs July
       29th.
-    _key: card-4-93e33401-980f-4e2e-8fc1-77973b51ec87
+    _key: card-4-10ce0a8a-94d3-4549-ac22-b40c08a1944e
   - order: 4
     body: >-
       > ‘I don’t really realize yet what it is. The World Cup, it’s a lot. I’m
@@ -78,13 +78,13 @@ cards:
       France's forward Antoine Griezmann on the team's 4-2 World Cup win over
       Croatia in Moscow on Sunday. France's only other World Cup win was 20
       years ago.
-    _key: card-5-0f27ce96-e4ac-4402-9963-5c0aa01c14cb
+    _key: card-5-74c13584-57cc-44b6-a8c1-0fca33f2b62a
   - order: 5
     body: |-
       Have a great week!
 
       [view sources](https://smarthernews.com/17-07-16-qq/)
-    _key: card-10-6124be0a-9994-4d9e-88e7-caf2b58302c7
+    _key: card-10-ad7cdec8-4b3f-48f8-9f7b-5d28e4913544
 
 ---
 * **Summit fever: Trump reaches for big moment with Putin:**  

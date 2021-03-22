@@ -1,14 +1,14 @@
 ---
 title: 18.05.23 Nfl New Anthem Policy
 slug: 20180524-18-05-23-nfl-new-anthem-policy
-_id: legacy-a31d5355-3868-411e-8fff-7e5078f8570f
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-a0ac0273-c752-404a-a122-c0c541cb0778
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-23-nfl-new-anthem-policy/
 _createdAt: '2018-05-24T10:16:33Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-24T10:16:33+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Why Now?
     citation: Why Now?
-    _key: card-1-ad6ef1b1-caea-4346-8ef2-898871813e0d
+    _key: card-1-6ca4bb83-1804-4a52-a1b6-d3d9df864d90
   - order: 1
     body: >-
       ## Important Context:
@@ -43,7 +43,7 @@ cards:
 
       * *If* on the field, players must **“stand and show respect”** during the
       anthem or **face a league fine & possibly a fine from the team.**
-    _key: card-2-181975d8-4b80-4e68-8422-3483535425cf
+    _key: card-2-fb025e2d-5470-4598-8763-ea314a11c827
   - order: 2
     body: >-
       ## Why Now?
@@ -56,7 +56,7 @@ cards:
       **Something To Consider**: Americans are watching less TV overall & NFL
       viewership has declined by millions since 2015. Some viewers say they
       boycotted the NFL because of the players on-field protests.
-    _key: card-3-b466f7f8-de86-4e7c-b801-532a91d79a94
+    _key: card-3-f45c36ea-2839-4915-bfca-2b3908eca95e
   - order: 3
     body: >-
       > “This is fear of a diminished bottom line. It’s also fear of a president
@@ -68,7 +68,7 @@ cards:
       Chris Long, Philadelphia Eagles defensive end, responding to the "new
       policy" via Twitter. Long supports players on-field protests and is an
       outspoken critic of President Trump.
-    _key: card-4-5c671986-ae27-4b02-8337-cd3c6a0057f2
+    _key: card-4-2737f074-bd9b-4580-8d1d-ee12b5ff4503
   - order: 4
     body: >-
       Different sports have different policies for player etiquette during the
@@ -76,7 +76,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-23-nfl-new-anthem-policy/)
-    _key: card-10-b7c2db8a-d473-4669-a37b-61399823558b
+    _key: card-10-8654b435-8f75-4362-9296-d8fef2a353e4
 
 ---
 * **NFL owners approve national anthem policy for 2018:** [http://www.nfl.com/news/story/0ap3000000933971/article/nfl-owners-approve-national-anthem-policy-for-2018](http://www.nfl.com/news/story/0ap3000000933971/article/nfl-owners-approve-national-anthem-policy-for-2018)

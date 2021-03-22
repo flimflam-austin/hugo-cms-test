@@ -4,29 +4,21 @@ title: >-
   the 100-Year-Old Veteran Raised More than $40 Million for Uk Hospitals Walking
   Laps in His Backyard.
 slug: 20210205-capt-tom
-_id: legacy-32e7adbc-57fd-458b-b4ea-6d3a8b0eab68
-_rev: 7QmxBnVgzphH4dpufNYQkN
+_id: legacy-03171ae3-627a-4add-9c9a-9506b83c164d
+_rev: f2cVhvAV1wntWw1uaAB6CF
 type: quick_quotes
 draft: false
 aliases:
   - article/capt-tom/
 _createdAt: '2021-02-04T19:11:44Z'
-_updatedAt: '2021-03-16T12:32:43Z'
+_updatedAt: '2021-03-22T13:12:19Z'
 date: '2021-02-04T19:11:44+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  UK Prime Minister Boris Johnson on the passing of Army Captain Sir Tom Moore.
-  The 100-year-old veteran raised more than $40 million for UK hospitals walking
-  laps in his backyard.
 featured_quote:
   quote: >-
     He became not just a national inspiration but a beacon of hope for the
     world.
-  citation: >-
-    UK Prime Minister Boris Johnson on the passing of Army Captain Sir Tom
-    Moore. The 100-year-old veteran raised more than $40 million for UK
-    hospitals walking laps in his backyard.
 
 ---
 * Captain Tom developed a deep appreciation for UK healthcare workers after fracturing his hip several years ago.

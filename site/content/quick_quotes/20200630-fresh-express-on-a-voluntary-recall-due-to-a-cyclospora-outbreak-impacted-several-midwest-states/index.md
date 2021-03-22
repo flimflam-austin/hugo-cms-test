@@ -5,30 +5,26 @@ title: >-
   People.
 slug: >-
   20200630-fresh-express-on-a-voluntary-recall-due-to-a-cyclospora-outbreak-impacted-several-midwest-states
-_id: legacy-47f96cbe-8977-4c15-a879-0246532cf0af
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-feef5f66-24d3-439f-8b4c-e1455e4f52bd
+_rev: ZEyhBiGfgCfwE8WOjbuSlO
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/fresh-express-on-a-voluntary-recall-due-to-a-cyclospora-outbreak-impacted-several-midwest-states/
 _createdAt: '2020-06-30T11:53:33Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-06-30T11:53:33+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    4b15ccf6d2a02d94737eab483f0b55e6ea9fd7a4-2560x1707.jpg
 is_breaking: false
-summary: >-
-  Fresh Express on a voluntary recall due to a cyclospora outbreak impacting
-  several Midwest states, leading to the hospitalization of nearly two dozen
-  people.
 featured_quote:
   quote: >-
     Our immediate thoughts and concern are for those consumers who have become
     ill due to the outbreak.
-  citation: >-
-    Fresh Express on a voluntary recall due to a cyclospora outbreak impacting
-    several Midwest states, leading to the hospitalization of nearly two dozen
-    people.
 
 ---
 * The CDC believes a cyclospora outbreak is linked to pre-package lettuce made by Fresh Express.
@@ -40,4 +36,4 @@ Here’s a list of recalled items via [_USA Today_](https://www.usatoday.com/sto
 
 Latest information from [_CDC_](https://www.cdc.gov/parasites/cyclosporiasis/outbreaks/2020/index.html)
 
-Common questions on cyclospora infections: [CLICK HERE](https://www.cdc.gov/parasites/cyclosporiasis/gen_info/faqs.html#what_cyclo) on cyclospora infections: [CLICK HERE](https://www.cdc.gov/parasites/cyclosporiasis/gen_info/faqs.html#what_cyclo)
+Common questions on cyclospora infections: [CLICK HERE](https://www.cdc.gov/parasites/cyclosporiasis/gen_info/faqs.html#what_cyclo)

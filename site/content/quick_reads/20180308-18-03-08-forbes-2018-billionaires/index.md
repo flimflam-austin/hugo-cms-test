@@ -1,14 +1,14 @@
 ---
 title: 18.03.08 Forbes 2018 Billionaires
 slug: 20180308-18-03-08-forbes-2018-billionaires
-_id: legacy-ed4cb88f-9b3f-4e37-ad34-ebf8efa6b09b
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-fdadf95e-84f9-40ea-92a5-ada14a1f18b6
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-08-forbes-2018-billionaires/
 _createdAt: '2018-03-08T11:59:38Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-08T11:59:38+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       _Forbes_ newly released 2018 World’s Billionaire rankings shows **women
       make up nearly 12% of the world’s billionaires** – that’s an all-time
       high.
-    _key: card-1-072ff903-d1e3-42cd-855d-513431ce7411
+    _key: card-1-2e50a7ac-00a8-48e2-b68e-2ca6d53867fd
   - order: 1
     body: >-
       ## The Billion Dollar Ladie$
@@ -45,7 +45,7 @@ cards:
 
       * The majority of women who made the list inherited their wealth, with
       less than 30% self-made.
-    _key: card-2-e7afd28a-6a4e-49e2-bf13-ccc92581abe8
+    _key: card-2-5df04d77-c1f6-469a-a963-f69a1d007a23
   - order: 2
     body: |-
       # For Comparison Sake:
@@ -55,7 +55,7 @@ cards:
       ## $56,516
 
       A according to 2015 U.S. Census
-    _key: card-3-3af117a2-e9c4-47cd-9ae3-4604f7a2454d
+    _key: card-3-f3a95b9f-4565-4676-af22-9c7fe76535ee
   - order: 3
     body: |-
       # Median Annual Income for American Women:
@@ -67,7 +67,7 @@ cards:
       age 45 – 54: $44,252  
       age 55 – 64: $45,188  
       age 65 & up: $41,600
-    _key: card-4-1e102ad5-b248-4d11-a845-dad7593e36f4
+    _key: card-4-a5d22723-2a36-4058-bcbe-b415640b5add
   - order: 4
     body: >-
       So who is the richest BILLIONAIRE of them all? Jeff Bezos, CEO Amazon.
@@ -76,7 +76,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-03-08-forbes-2018-billionaires/)
-    _key: card-10-286aee3f-6385-49e8-aa44-99e60460f0f2
+    _key: card-10-3cdfcc61-4d7f-4090-a2a8-9dd7e2fb23bd
 
 ---
 * Meet The Members Of The Three-Comma Club: [https://www.forbes.com/billionaires/#6cd64645251c](https://www.forbes.com/billionaires/#6cd64645251c)

@@ -1,14 +1,14 @@
 ---
 title: 18.02.16 Russia Sanctions
 slug: 20180315-18-02-16-russia-sanctions
-_id: legacy-0cb5cb51-ce36-454b-9486-694d545491aa
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-f7562da8-5ec4-4d95-b388-e83b61267240
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-16-russia-sanctions/
 _createdAt: '2018-03-16T12:29:50Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-16T12:29:50+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-45162886-7de7-405b-8b40-defe314e0b68
+    _key: card-1-9ed2eade-8fb3-4f76-8810-8f0952216bd5
   - order: 1
     body: >-
       > ‘The Administration is confronting and countering malign Russian cyber
@@ -46,10 +46,10 @@ cards:
         
         
       Treasury Secretary Steven Mnuchin, Press Release Mar. 15, 2018
-    _key: card-2-110d4a37-a857-4f56-8708-6795f5debed1
+    _key: card-2-5c815cb3-9153-416a-adc2-6bf5cf747a0e
   - order: 2
     body: "What You Need To Know:  \nNew Sanctions\n\n**Who:** Targets 5 Russian “entities” & 19 Russian individuals.\n\n**Why:** Not only meddling in our elections but major cyber attacks targeting everything from American ground, water & sky a\x14 our power grid, manufacturing facilities, aviation systems & even our nuclear power plants."
-    _key: card-3-b8548b4a-4029-46a6-b900-c2b1e9adf8c2
+    _key: card-3-bdf38fe5-12c4-4e4f-ab30-0931ef2e6c88
   - order: 3
     body: >-
       ## Timing Matters
@@ -62,7 +62,7 @@ cards:
 
       * **This Weekend**: Russian Presidential Election; Vladimir Putin expected
       to win.
-    _key: card-4-c9cf2295-6e8d-4b63-aacd-1374521d8841
+    _key: card-4-93b071c5-a072-4c32-b8e2-620811770792
   - order: 4
     body: >-
       > “This use of a military-grade nerve agent, of a type developed by
@@ -77,7 +77,7 @@ cards:
       [View
       Statement](https://www.gov.uk/government/news/salisbury-attack-joint-statement-from-the-leaders-of-france-germany-the-united-states-and-the-united-kingdom)
     citation: View Statement
-    _key: card-5-f702635b-fb1c-48fa-8f12-5d1db3a93478
+    _key: card-5-dd7d3e48-cd4c-4ef9-a2a3-5d9b08c2f6be
   - order: 5
     body: >-
       Sanctions Also Address:  
@@ -95,7 +95,7 @@ cards:
       * Several hospitals in U.S. unable toA create electronic records.
 
       * Attributed to **Russia military**.
-    _key: card-6-d26cec1d-a956-4a39-bc0f-c15e977dd592
+    _key: card-6-4f7a69d0-2651-4f54-b882-e2db0469c2cd
   - order: 6
     body: >-
       ## What Do Sanctions Really Do?
@@ -106,7 +106,7 @@ cards:
       prohibited from engaging in transactions with them.”  
 
       _U.S. Treasury Department_
-    _key: card-7-f6be9cd2-a184-43f9-a97a-65d37bb3066c
+    _key: card-7-45a4a12a-94a9-4c51-a651-11e4a3026b9c
   - order: 7
     body: >-
       > ‘The Americans have no grounds for introducing new sanctions. We have
@@ -116,7 +116,7 @@ cards:
         
       Russian Deputy Foreign Minister Sergei Ryabkov, interview with Interfax
       News Agency quoted in Wall Street Journal, Mar 15, 2018
-    _key: card-8-4ecc3f31-e473-4b66-aafe-3c3b16c6f818
+    _key: card-8-e5dcb6a1-015d-4c6a-b439-6a7503cf800f
   - order: 8
     body: >-
       Are sanctions effective? It's debatable. Some say this move by WH is
@@ -125,7 +125,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-16-russia-sanctions/)
-    _key: card-10-77b54b6f-492a-463d-8798-1cd5714cd026
+    _key: card-10-58b2ba04-b42b-4de6-961d-0a69377f1b4e
 
 ---
 * US: Russia hacks energy grid, critical infrastructure [https://www.detroitnews.com/story/news/politics/2018/03/15/us-russia-sanctions/32955457/](https://www.detroitnews.com/story/news/politics/2018/03/15/us-russia-sanctions/32955457/)

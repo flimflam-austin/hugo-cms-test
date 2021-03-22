@@ -1,14 +1,14 @@
 ---
 title: 18.03.05 Baseball Bucks
 slug: 20180412-18-03-05-baseball-bucks
-_id: legacy-c362ef1b-157f-4610-a6bd-da79d42f055b
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-93363157-4b1b-4d48-a63e-c9d092d111e0
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-05-baseball-bucks/
 _createdAt: '2018-04-12T10:03:09Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-12T10:03:09+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Flip Here
     citation: Flip Here
-    _key: card-1-0abc9caa-4563-4323-8e8c-5bf088bd363f
+    _key: card-1-8199dcce-950d-48a6-9539-5f1b52109b2d
   - order: 1
     body: >-
       ## Cool Tech We WON’T See
@@ -45,7 +45,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-2-2ae4d1d0-e17b-441a-bda0-6c64ba40185e
+    _key: card-2-f16609d7-624b-4ab9-be18-c6c9d6520121
   - order: 2
     body: >-
       ## You WILL See This:
@@ -58,7 +58,7 @@ cards:
       * **Real-time instant replay:** In an effort to speed up the game, teams
       get immediate access to slo-mo cameras & phone lines to teams’ review
       centers to decide whether or not to challenge a call.
-    _key: card-3-835d1190-6a54-45c4-b7f5-e3a11aceb711
+    _key: card-3-c7a6c164-f4de-461d-8bcf-243bc3850da2
   - order: 3
     body: >-
       ## Take Me Out to the Ballgame – Or Not.
@@ -71,7 +71,7 @@ cards:
 
       * MLB is also tapping the Chinese market, partnering with Tencent to
       stream 125 games to its 1B active users.
-    _key: card-4-329b414d-2641-4f34-a3ed-d1bdd604ade6
+    _key: card-4-d082bf6e-2990-4cfa-8486-f58778e7102c
   - order: 4
     body: >-
       What teams are demanding the highest prices? The World Series Champs
@@ -79,7 +79,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-05-baseball-bucks/)
-    _key: card-10-f828ecaa-69b9-4605-8cbd-f5e8510c9d81
+    _key: card-10-489f3134-dc64-4859-a56e-8730555b79e8
 
 ---
 * MLB ticket sales: [https://www.usatoday.com/story/sports/mlb/2018/03/27/mlb-ticket-sales-opening-day-yankees-astros/461602002/](https://www.usatoday.com/story/sports/mlb/2018/03/27/mlb-ticket-sales-opening-day-yankees-astros/461602002/)  

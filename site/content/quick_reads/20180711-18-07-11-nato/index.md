@@ -1,14 +1,14 @@
 ---
 title: 18.07.11 Nato
 slug: 20180711-18-07-11-nato
-_id: legacy-1c4a5c4b-f427-4d74-91b5-509f074e88df
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-466e4966-9213-42d2-8d0e-10a29ffa92f7
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-11-nato/
 _createdAt: '2018-07-12T10:10:52Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-12T10:10:52+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       Flip: Nato refresher
     citation: 'Flip: Nato refresher'
-    _key: card-1-c9572bb3-71be-4673-8591-8e3192b90e30
+    _key: card-1-ea941338-3f57-4b32-96a6-fc82b13864ac
   - order: 1
     body: >-
       # NATO:
@@ -49,7 +49,7 @@ cards:
 
       [Click Here: Read More](https://www.nato.int/cps/su/natohq/126169.htm)
     citation: 'Click Here: Read More'
-    _key: card-2-aa9d0306-0594-489c-87b4-4c031efa03b8
+    _key: card-2-cc342155-9573-4a35-90e5-a99a14e89faa
   - order: 2
     body: >-
       ## What’s The Drama?
@@ -61,7 +61,7 @@ cards:
       * Pres. used term “inappropriate” several times describing biz deals
       Germany has with Russia while not contributing more to NATO & wanting U.S.
       protection (aka $$$);A described situation as unfair to American taxpayer
-    _key: card-3-f8ed9310-54f0-4263-ba20-bda275f67ada
+    _key: card-3-631df8ab-8be7-4af8-9b92-2063525e8135
   - order: 3
     body: >-
       > “…Germany is just paying a little bit over 1 percent, whereas the United
@@ -78,7 +78,7 @@ cards:
       [Click:
       Transcript](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-nato-secretary-general-jens-stoltenberg-bilateral-breakfast/)
     citation: 'Click: Transcript'
-    _key: card-4-1e2177d6-03ac-4334-87ad-e9d57a5b2ae5
+    _key: card-4-1915fec2-6cb6-4619-9ed3-360b906b9c2f
   - order: 4
     body: >-
       > “I agree with you that we have to do make sure that our allies are
@@ -91,7 +91,7 @@ cards:
         
         
       NATO Sec. Stoltenberg, July 11, 2018
-    _key: card-5-78dc1a61-eac1-4ca4-af18-f8a63e12dc70
+    _key: card-5-cce6e8cc-d83c-4b82-b733-14e9ed6be87f
   - order: 5
     body: >-
       ## Why Timing Matters?
@@ -104,7 +104,7 @@ cards:
       * Pres. Trump criticized NATO members (who want protection from Russia)
       AND pointed out their own relationships w/the Kremlin before his mtg
       w/Russian Pres. Putin next week in Helsinki.
-    _key: card-6-502f46a1-a684-4e48-a818-16b614b93e9d
+    _key: card-6-9dad4e7b-68ee-4a21-a369-373d44688270
   - order: 6
     body: >-
       Is NATO worth the investment? One commentator says: "The issue is not
@@ -113,7 +113,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-11-nato/)
-    _key: card-10-529b1571-2089-407c-9059-1f64177219ac
+    _key: card-10-43b9dc0d-5e85-4c1f-a55d-14d00dc51710
 
 ---
 * **Russia Casts Shadow Over President Trump’s NATO Meetings:**  

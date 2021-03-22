@@ -1,14 +1,14 @@
 ---
 title: 18.06.07 Dino Auction
 slug: 20180607-18-06-07-dino-auction
-_id: legacy-62f2a961-149a-4278-8bb0-5d04ea2cb6be
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-155f5119-1d17-4d3f-b456-4859cd04903f
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-07-dino-auction/
 _createdAt: '2018-06-07T11:03:43Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-07T11:03:43+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       flip: for the scoop
     citation: 'flip: for the scoop'
-    _key: card-1-561df794-36fa-430b-9ca3-daea30a5acfb
+    _key: card-1-412ddbcc-5fa8-4850-afa1-a707a0ccf4dc
   - order: 1
     body: >-
       ## Wait, I Could’ve Bought A… DINOSAUR?!
@@ -47,7 +47,7 @@ cards:
 
       who's lucky winner?
     citation: who's lucky winner?
-    _key: card-2-c8def5c5-8bd7-4a98-8b98-196f618fce67
+    _key: card-2-dd09207d-d8f2-481b-8155-511bc58f0ead
   - order: 2
     body: >-
       ## Going once… going twice…
@@ -66,7 +66,7 @@ cards:
       * Sold to an unnamed British man whoA pledges to lend to museum.
 
       * Paleontologists worry science will be priced out of auctions.
-    _key: card-3-83325b9f-b962-4577-869d-c9134a8c6f02
+    _key: card-3-ff12dbf5-0796-4373-8b08-2ae3a9211254
   - order: 3
     body: >-
       Dinosaur sale was totally legal. U.S. laws say fossils found on private
@@ -76,7 +76,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-07-dino-auction/)
-    _key: card-10-7019f417-d971-42e3-b81f-98ad86449c06
+    _key: card-10-2b48dea9-1cf9-4d15-a210-22d65bf61285
 
 ---
 * **Dinosaur Sells for Over $2 Million at Auction. Why Paleontologists Are Dismayed:** [https://www.livescience.com/62745-dinosaur-auction-paleontologists-angry.html](https://www.livescience.com/62745-dinosaur-auction-paleontologists-angry.html)  

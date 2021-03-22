@@ -1,14 +1,14 @@
 ---
 title: 18.07.04 Podcast Washington's Crossing
 slug: 20180703-18-07-04-podcast-washingtons-crossing
-_id: legacy-fe633ae2-9fac-472c-961d-ed5bc6063d2a
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-144ba10d-4a0f-4568-ba5e-9bf56c49faf3
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-04-podcast-washingtons-crossing/
 _createdAt: '2018-07-03T23:10:00Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-03T23:10:00+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       [Click:
       Listen](http://smarthernews.libsyn.com/smarther-news-ep6-independence-day)
     citation: 'Click: Listen'
-    _key: card-1-e360dda5-030b-46c3-8afa-1a90b39a8d4d
+    _key: card-1-13c306a3-6260-4b1c-a7a7-0ba4b6b6d9f3
   - order: 1
     body: >-
       SmartHER News sits down with Clay Craighead, historian at the Washington
@@ -40,7 +40,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-07-04-podcast-washingtons-crossing/)
-    _key: card-10-a1d49866-55a8-48a5-9da2-1e960d96a4f2
+    _key: card-10-c9c92d5c-5724-4fff-882c-403d735ec4ba
 
 ---
 A note f_rom our founder, Jenna Lee Babin, adapted from the SmartHER Podcast._

@@ -1,14 +1,14 @@
 ---
 title: 18.02.05 Freezing Olympics
 slug: 20180206-18-02-05-freezing-olympics
-_id: legacy-6434d466-b778-42a1-98d7-0636cfa84f87
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-554cc443-33d4-4fdc-94c0-e64769dea341
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-05-freezing-olympics/
 _createdAt: '2018-02-06T23:32:05Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-06T23:32:05+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip Card For More
     citation: Flip Card For More
-    _key: card-1-90d843b6-e13f-44b4-b0e0-5dd90e7e5949
+    _key: card-1-dd6d1ee0-60ba-4468-ba1f-4326fe24e945
   - order: 1
     body: >-
       # “Electronic-Printed” Ink Heats Olympians
@@ -50,7 +50,7 @@ cards:
       * Ink: Conducts heat, flexible, water-repellant.
 
       * 3 heat-levels controlled remotely by Olympian’s mobile phone.
-    _key: card-2-f9270987-80f4-4239-b9e7-06fe4176d0a2
+    _key: card-2-098a998c-993a-408a-8732-de39749417e1
   - order: 2
     body: >-
       > “It’s the most technologically advanced jacket ever produced.”  
@@ -63,7 +63,7 @@ cards:
       [Click This Link For More Of His
       Interview](https://www.usatoday.com/story/life/2018/01/22/exclusive-ralph-laurens-olympic-opening-ceremony-uniforms-wearable-mini-heaters/1045189001/)
     citation: Click This Link For More Of His Interview
-    _key: card-3-44f8d885-2ad2-4fd3-924c-5358d7be86a7
+    _key: card-3-3a598555-bdb8-4497-a4fa-56e38ad5f0f3
   - order: 3
     body: >-
       # Why Is It SO Cold?
@@ -78,10 +78,10 @@ cards:
       “brutal”
 
       * Olympics located half-mile above sea level.
-    _key: card-4-7e3d517f-f10d-4cb4-a13b-d10c18ff1cfd
+    _key: card-4-f5ff8229-c633-4d40-8e02-f8ea0e6269ac
   - order: 4
     body: '[view sources](https://smarthernews.com/18-02-05-freezing-olympics/)'
-    _key: card-10-6cdde314-d134-4d1d-9908-9115a2584af2
+    _key: card-10-26e53aa5-cc2a-4580-b0d2-75904f71cbb5
 
 ---
 1. **STRAIGHT FROM THE SOURCE: RALPH LAUREN PRESS RELEASE**:A [http://investor.ralphlauren.com/phoenix.zhtml?c=65933&p=irol-newsArticle&ID=2327718](http://investor.ralphlauren.com/phoenix.zhtml?c=65933&p=irol-newsArticle&ID=2327718)

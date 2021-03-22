@@ -1,14 +1,14 @@
 ---
 title: 18.11.27 Baby Gene Editing
 slug: 20181127-18-11-27-baby-gene-editing
-_id: legacy-2a4e3ba5-6a0f-4a6c-a160-a15a030e47df
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-00d80ec5-6289-4398-9832-71e5bc0f398a
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-11-27-baby-gene-editing/
 _createdAt: '2018-11-27T20:00:22Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-11-27T20:00:22+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Science Bombshell?
     citation: Science Bombshell?
-    _key: card-1-1c737d19-ad8f-4a00-b69d-463ccb83f784
+    _key: card-1-7e6023c9-ab35-4e6f-a39e-9b78e663e2a9
   - order: 1
     body: >-
       ## Background
@@ -43,7 +43,7 @@ cards:
 
       * **Is it legal?** U.S. scientists can experiment with human embryos but
       cannot implant these embryos to produce actual pregnancies.
-    _key: card-2-416d7476-b90c-47ff-8181-c51a9a7989b5
+    _key: card-2-e1f99db7-1277-455d-8aed-54f9518d724a
   - order: 2
     body: >-
       ## The Basics: Reports
@@ -57,7 +57,7 @@ cards:
       * Results, **which have yet to be vetted,** focus on twin girls: only one
       twin had both copies of the genes altered, meaning the **other is still at
       risk.**
-    _key: card-3-4fa55f20-1162-40ca-8654-35de7f7d7bc4
+    _key: card-3-fec9b5fe-2db4-4ab3-bf4b-81655f70aa08
   - order: 3
     body: >-
       > “If true, this experiment is monstrous. The embryos were healthy. No
@@ -69,7 +69,7 @@ cards:
       Centre for Practical Ethics, describing the experiment as "genetic Russian
       roulette." Experts argue there are many other effective ways to counter
       HIV if one does get it.
-    _key: card-4-9a5d3508-b87b-4967-8792-ba7cc9f98ee5
+    _key: card-4-783eef01-2cf5-45df-a472-d3f777911bac
   - order: 4
     body: >-
       ## Something To Consider:
@@ -83,7 +83,7 @@ cards:
 
       * A pioneer of gene editing, reacting to the news of the study,A called
       for a “moratorium on implantation of edited embryos.”
-    _key: card-5-60803d69-64d7-48a7-9e4d-5031a469da15
+    _key: card-5-ec3c256b-bcc8-4faa-a36f-4afe819d62bf
   - order: 5
     body: >-
       Today in Hong Kong a huge conference on humane genome editing is taking
@@ -93,7 +93,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-11-27-baby-gene-editing/)
-    _key: card-10-f0f0954d-ccdb-4799-9232-55407a51382d
+    _key: card-10-cabadee6-a537-4c35-859d-0fc96685ca00
 
 ---
 * **AP Exclusive:A Chinese researcher claims first gene-edited babies:**  

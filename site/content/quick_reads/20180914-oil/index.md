@@ -1,14 +1,14 @@
 ---
 title: World's Top Oil Producer
 slug: 20180914-oil
-_id: legacy-a7243cef-9d33-4bec-b1cb-19d6931e0827
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-4fb9a8fc-46d6-44e0-ab43-bc0d44c5f4ab
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - oil/
 _createdAt: '2018-09-14T12:17:50Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-14T12:17:50+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       "Texas Tea" Party.
     citation: '"Texas Tea" Party.'
-    _key: card-1-6da3e5a2-526d-46bd-9c30-2915745f0a91
+    _key: card-1-6e0b94db-0384-487c-a5e1-2018f2670cd7
   - order: 1
     body: >-
       # Don’t Mess with Texas
@@ -46,7 +46,7 @@ cards:
 
       * **Texas is now on track to produce more oil than Iraq & Iran;**A Mideast
       instability has impacted that region’s oil markets.
-    _key: card-2-3089b78c-8f26-40ad-b401-9ca0ab9bcdda
+    _key: card-2-4feed401-461a-41a0-8a36-6ab6cdd74e82
   - order: 2
     body: >-
       > “It’s a historic milestone and a reminder: Never bet against the US oil
@@ -55,7 +55,7 @@ cards:
         
         
       Bob McNally, president of Radian Energy Group, a consulting firm.
-    _key: card-3-3ed3c205-715d-4fc5-b180-a62512e23d23
+    _key: card-3-8a96a009-9893-4afb-ba45-fdf88537e0b8
   - order: 3
     body: >-
       ## Why It Matters
@@ -68,7 +68,7 @@ cards:
       or Russia ramped up production dramatically, it could drive prices lower –
       potentially to a point that would make extracting oil from shale not worth
       it financially.
-    _key: card-4-f9287941-f572-43a0-9f2b-31d546012cb0
+    _key: card-4-e8771824-eaf7-4621-af82-77f518739710
   - order: 4
     body: >-
       The Department of Energy expects US oil production next year to continue
@@ -77,7 +77,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/oil/)
-    _key: card-10-a31d0228-3e5a-4ebd-8e9c-434ab001a7ee
+    _key: card-10-14453fdb-d9b3-4922-8dc7-f1fdcc1649cb
 
 ---
 * **Dept of Energy:A The United States is now the largest global crude oil producer:**  

@@ -1,14 +1,14 @@
 ---
 title: Smarthernews Quick Quotes for August 28
 slug: 20200624-smarthernews-quick-quotes-for-tuesday-august-28
-_id: legacy-4a239b17-cb10-444f-bc00-912ee5e8bb69
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-d435a9d1-a1c7-4c34-8325-ab5baeaf9ac9
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - smarthernews-quick-quotes-for-tuesday-august-28/
 _createdAt: '2018-08-28T12:01:12Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-08-28T12:01:12+00:00'
 weight: 50
 featured_image:
@@ -20,7 +20,7 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     body: "> “I’m just lucky. The Lord likes me. And I like him.”  \n  \n  \n  \nKatherine Johnson, the former NASA Langley mathematician and\x1Chuman computer,\x1D who helped develop human spaceflight in America, on turning 100. Johnson and her work were depicted in the 2016 film Hidden Figures."
-    _key: card-1-7f68d9d5-5e4a-4f07-a869-db71cb3f1e27
+    _key: card-1-34e6feb8-2e7b-4df1-9489-3d5902aff80e
   - order: 1
     body: >-
       > “I know for a fact that Roseanne is not a racist.”  
@@ -29,7 +29,7 @@ cards:
         
       John Goodman to to the U.K's "Times Sunday" on the cancellation of
       "Roseanne" and the new spin-off (sans Roseanne Barr) "The Conners."
-    _key: card-2-e6c5a02f-226a-495a-be1d-cce9a55ce8ed
+    _key: card-2-68319e83-dab6-4b84-aa70-d1bcb1b5cd67
   - order: 2
     body: >-
       > “It is the untraceable and undetectable nature of these small firearms
@@ -43,7 +43,7 @@ cards:
 
       [click: Refresher](https://smarthernews.com/18-07-30-3d-guns/)
     citation: 'click: Refresher'
-    _key: card-3-4169c8fd-5c64-49ac-89fd-adcfb5531239
+    _key: card-3-d813348d-d1ff-47ef-8e4a-d7a6150c62fc
   - order: 3
     body: >-
       > “Be the person you wish Harvey could have been.”  
@@ -54,12 +54,12 @@ cards:
       Weinstein sexual abuse / harassment accusers, Asia Argento, was accused of
       paying to silence Jimmy Bennett, who alleges Argento assaulted him when he
       was 17 & she was 37.
-    _key: card-4-4ecb77f2-48ac-4d5a-b766-7a8e3ef29667
+    _key: card-4-07d13766-47f3-4f1b-93a6-60e2444d5843
   - order: 4
     body: >-
       [view
       sources](https://smarthernews.com/smarthernews-quick-quotes-for-tuesday-august-28/)
-    _key: card-10-5fdc127e-2deb-40cb-9044-eb64803a0d46
+    _key: card-10-697a1f3b-d387-40ac-9bff-ebaae6623082
 
 ---
 * **‘Human computer’ turns 100: Katherine Johnson says, ‘I’m just lucky’:**  

@@ -1,14 +1,14 @@
 ---
 title: Do We Really Need Ice?
 slug: 20180702-do-we-really-need-ice
-_id: legacy-501607e7-7f73-426c-ae49-b4256e44a3dd
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-38795164-c9ce-425a-9288-43d0c66c2259
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - do-we-really-need-ice/
 _createdAt: '2018-07-02T10:45:19Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-02T10:45:19+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       So... should it be?
     citation: So... should it be?
-    _key: card-1-985be944-53e5-404a-ab37-302979122125
+    _key: card-1-3a08c7ad-cf17-4131-95c6-4555194e9eed
   - order: 1
     body: >-
       ## What is ICE Anyway?
@@ -50,7 +50,7 @@ cards:
       trafficking, cybercrime, etc.
 
       * **EROA** arrests, detains, & deports undocumented immigrants.
-    _key: card-2-9f94e54d-b30d-4410-828f-8a6cb47f184c
+    _key: card-2-5e11adee-a76c-4421-b5b7-43d1bfdf2c2a
   - order: 2
     body: >-
       ## Do We Really Need ICE?
@@ -69,7 +69,7 @@ cards:
 
       **Supporters say:** Yes, immigration enforcement is important. ICE manages
       illegal immigrants. If you get rid of it, then what?
-    _key: card-3-e197092a-a6de-4802-a5fc-f2cd9c1b5d3d
+    _key: card-3-89f89946-16f0-49ec-9abf-5fb426a27753
   - order: 3
     body: >-
       ## Who Did ICE’s Job Before 2003?
@@ -85,10 +85,10 @@ cards:
 
       [CLICK FULL LIST](https://www.dhs.gov/who-joined-dhs)
     citation: CLICK FULL LIST
-    _key: card-4-b34fdfdb-448d-4d32-995c-744ea383d899
+    _key: card-4-1d26e5ef-d04c-4bba-aead-ecfdb71f444b
   - order: 4
     body: "## Something To Consider\n\n> “The child of a forced marriage between two defunct federal agencies a\x14 The United States Customs Service and the Immigration and Naturalization Service a\x14 ICE has long struggled to balance its dual roles of transnational criminal investigations and deportations.”  \n  \n  \n  \nNew York Times"
-    _key: card-5-1d24e203-d393-471d-887f-d66d62ed61e4
+    _key: card-5-ae0150bf-a1eb-4171-95e9-7dbf460bce92
   - order: 5
     body: >-
       ## How Did We Get Here?
@@ -102,7 +102,7 @@ cards:
       * 19 HSI agents within ICE wrote a letter to DHS Secy saying they want to
       separate HSI from ICE because ICE’s reputation is making it difficult to
       do their job.
-    _key: card-6-d24c6a7d-ddfe-42fd-97a4-92d39a28431f
+    _key: card-6-acf28fb0-a1a5-4e7a-928e-d2aa0fc9b3e1
   - order: 6
     body: >-
       > “…you get rid of ICE you’re going to have a country that you’re going to
@@ -113,7 +113,7 @@ cards:
       Pres. Trump on calls to abolish ICE, predicting Democrats will beA ‘beaten
       so badly’ if that's their campaign for the midterms.A In a tweet later, he
       reiterated there was ‘zero chance’ of ICE being abolished.
-    _key: card-7-88ff6559-1804-4aa4-ad8c-79293c80c796
+    _key: card-7-30ffdd88-4fff-48e5-8863-6809cb7dfb14
   - order: 7
     body: >-
       Bigger picture: Is ICE & the entire Dept of Homeland Security efficient &
@@ -123,7 +123,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/do-we-really-need-ice/)
-    _key: card-10-9e2452c1-89e1-4674-afbe-d6763c540de3
+    _key: card-10-183ed528-7c8f-4054-a4cb-334995925202
 
 ---
 * **Trump predicts electoral doom for Democrats with “abolish ICE” push: “They”re going to get beaten so badly”:**  

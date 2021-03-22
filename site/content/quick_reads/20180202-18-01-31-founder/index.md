@@ -1,14 +1,14 @@
 ---
 title: 18.01.31 Our Founder
 slug: 20180202-18-01-31-founder
-_id: legacy-4de73325-4cb8-4cae-972f-fb4e71936163
-_rev: XOnQP8cIThhnw9BWFxSjgf
+_id: legacy-c0ceb820-5483-40b3-bfe1-af6dbc509d32
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-01-31-founder/
 _createdAt: '2018-01-31T15:10:41Z'
-_updatedAt: '2021-03-16T11:57:58Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-01-31T15:10:41+00:00'
 weight: 50
 featured_image:
@@ -29,10 +29,10 @@ cards:
 
       [Read More From Jenna:](https://smarthernews.com/about/)
     citation: 'Read More From Jenna:'
-    _key: card-1-9b91423e-9eb4-4e7e-8244-4d335836c051
+    _key: card-1-e206edd8-2e65-466e-b22d-d79790037605
   - order: 1
     body: '[view sources](https://smarthernews.com/18-01-31-founder/)'
-    _key: card-10-6821ceb1-11f7-4d7f-8e6f-b55d47835192
+    _key: card-10-6968c00b-6af1-4ffa-8bbd-a5f57f4e5e12
 
 ---
 Jenna Lee is an American journalist, writer, producer and founder of Leep Media LLC. Her portfolio of work includes reporting on the biggest domestic and international stories of the last decade.

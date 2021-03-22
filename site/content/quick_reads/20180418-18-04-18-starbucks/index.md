@@ -1,14 +1,14 @@
 ---
 title: 18.04.18 Starbucks
 slug: 20180418-18-04-18-starbucks
-_id: legacy-e72d4901-0487-4af7-8825-2b2b9c83fd4b
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-6b005840-b459-4951-9ba8-1563e0ca5d5a
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-18-starbucks/
 _createdAt: '2018-04-18T09:59:18Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-18T09:59:18+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip For Why
     citation: Flip For Why
-    _key: card-1-77c2dc60-078a-4921-88b6-ae86d54589fd
+    _key: card-1-1d3f6ed2-66c7-4f1e-94e9-1874fd7b9e8a
   - order: 1
     body: >-
       # Patron or Tresspasser?
@@ -52,7 +52,7 @@ cards:
 
       [Click: Video](https://twitter.com/missydepino/status/984539713016094721)
     citation: 'Click: Video'
-    _key: card-2-ba1e47d5-e000-487a-85e4-4b933a62a68c
+    _key: card-2-832426f2-b099-47e6-820e-a2d5c5963ac8
   - order: 2
     body: >-
       ## Event Timeline
@@ -73,7 +73,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/pFRP7QwlIH0?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-3-14c76ff3-2be2-4cb8-83aa-a4f41a408ea3
+    _key: card-3-dfafda71-d1d5-4619-957e-80878fe7bfda
   - order: 3
     body: |-
       TUESDAY MAY 29TH
@@ -87,7 +87,7 @@ cards:
       Est. say this will cost Starbucks approx. $12M
 
       Did you know that Starbucks makes about $61M a day?
-    _key: card-4-acbac1e3-71fc-43de-b532-c15db68a409d
+    _key: card-4-03770710-3c34-45c7-bed5-57d0846be9d8
   - order: 4
     body: >-
       Back in 2008, Starbucks shut 7,100 of its US locations for 3 hours. But
@@ -96,7 +96,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-18-starbucks/)
-    _key: card-10-4f4a822f-267c-4b0e-9955-d9ae31426a53
+    _key: card-10-f5d1647a-d3d0-440f-bf72-dbf0e7183f6b
 
 ---
 * WATCH: Video of the arrests at Philadelphia Starbucks, viewed on Twitter more than 10M times:  

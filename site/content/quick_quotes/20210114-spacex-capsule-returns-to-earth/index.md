@@ -4,27 +4,23 @@ title: >-
   Space. It Returned with the Spacex Dragon Cargo Resupply Capsule Wednesday
   Night Off the Coast of Florida.
 slug: 20210114-spacex-capsule-returns-to-earth
-_id: legacy-5b1a7874-3053-4fe6-a8ab-5c9f2e5714da
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-29651d33-e973-4b35-bf71-71a7924a90de
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - article/spacex-capsule-returns-to-earth/
 _createdAt: '2021-01-14T13:20:02Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2021-01-14T13:20:02+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    06a3e1b2ab50f88eaa2b59545c1358a9669b9320-2560x1707.jpg
 is_breaking: false
-summary: >-
-  Space Cargo Unlimited, Nicolas Gaume, on sending 12 bottles of French wine to
-  space. It returned with the SpaceX Dragon cargo resupply capsule Wednesday
-  night off the coast of Florida.
 featured_quote:
   quote: Being French, it’s part of life to have some good food and good wine.
-  citation: >-
-    Space Cargo Unlimited, Nicolas Gaume, on sending 12 bottles of French wine
-    to space. It returned with the SpaceX Dragon cargo resupply capsule
-    Wednesday night off the coast of Florida.
 
 ---
 * The French Bordeaux wine was sent to “age” in space – Will space change its “sedimentation and bubbles”?
@@ -39,4 +35,4 @@ This week’s SpaceX Dragon resupply cargo capsule “splashdown” off the coas
 * The cargo capsule can now arrive closer to NASA where researchers can retrieve it and unload it more quickly.
 * It also attaches automatically to the International Space Station.
 * These advances allow supplies, experiments to both travel to space and back to Earth with greater ease.
-* Plus: It’s also re-useable. [READ MORE](https://www.space.com/spacex-upgraded-dragon-crs-21-atlantic-splashdown) Plus: It’s also re-useable. [READ MORE](https://www.space.com/spacex-upgraded-dragon-crs-21-atlantic-splashdown)
+* Plus: It’s also re-useable. [READ MORE](https://www.space.com/spacex-upgraded-dragon-crs-21-atlantic-splashdown)

@@ -1,14 +1,14 @@
 ---
 title: 18.06.21 Canada & u.s. Marijuana
 slug: 20180620-18-06-21-canada-u-s-marijuana
-_id: legacy-b42d1306-ba7e-45fe-b028-676bbc17ee74
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-a173c9f5-069a-428e-96f7-87f32f138499
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-21-canada-u-s-marijuana/
 _createdAt: '2018-06-21T09:05:27Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-21T09:05:27+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       New signs suggest the existing U.S. **federal ban _against_ marijuana
       could become a ban _against_ the federal gov’t interfering** in states
       where it’s legal.
-    _key: card-1-2f8703f5-4586-4671-b1db-c3ac5557cfd7
+    _key: card-1-9db15e75-c169-454c-9780-54f852802598
   - order: 1
     body: >-
       ## The (many) marijuana laws of the land:
@@ -43,7 +43,7 @@ cards:
 
       * In 2012, Colorado & Washington became 1st statesA to legalize
       **recreational marijuana**.A **Today, it is legal in 9 states + DC.**
-    _key: card-2-d594a223-f4e5-4393-b5ae-9bed8fd21680
+    _key: card-2-eae6ec8a-d885-42d0-a3f4-41a95215e274
   - order: 2
     body: >-
       ## Marijuana: State vs. Feds
@@ -57,7 +57,7 @@ cards:
 
       Instead, opting to focus on “**serious drug traffickers while taking into
       account state and local laws**.”
-    _key: card-3-f26269ab-5a39-4b85-8f26-d1de1c724c5d
+    _key: card-3-dea78409-bce8-41e1-845c-75a84044a023
   - order: 3
     body: >-
       ## Policy Change?
@@ -69,7 +69,7 @@ cards:
 
       * **June 2018:** Just last week, Pres. Trump indicated he is willing to
       loosen the federal blanket ban on marijuana in states where it is legal.
-    _key: card-4-625ac894-d0b9-4615-93b4-acfab758b84c
+    _key: card-4-d299d686-599e-450e-a79d-ba25a38b2f5d
   - order: 4
     body: >-
       ## Something To Consider:
@@ -83,7 +83,7 @@ cards:
 
       * The bill would **NOT legalize marijuana** on the federal level or force
       states to take any action.
-    _key: card-5-b1f00b91-1eb2-4ce1-903e-70755c991a7c
+    _key: card-5-933b5f5b-1947-4ffb-9e48-8a64a5c11f9e
   - order: 5
     body: >-
       Po$$ible motivation? Economic Benefits. According to one cannabis
@@ -92,7 +92,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-21-canada-u-s-marijuana/)
-    _key: card-10-5f94cc52-e17a-4351-922d-a21d9d025fa9
+    _key: card-10-fe4c89fe-affb-44e8-b5e9-bca9671e406a
 
 ---
 * **Canadian senate passes weed bill but legalization delayed:**  

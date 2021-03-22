@@ -1,14 +1,14 @@
 ---
 title: 18.06.14 Fed Moves
 slug: 20180614-18-06-14-fed-moves
-_id: legacy-81f7fcd3-18c2-43e2-9e27-92df2c570582
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-01de70d7-5696-4f00-8cdd-1753db98c16f
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-14-fed-moves/
 _createdAt: '2018-06-14T10:32:15Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-14T10:32:15+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       HOW IT IMPACTS YOU.
     citation: HOW IT IMPACTS YOU.
-    _key: card-1-4ac58c1c-5d1b-4670-8c2c-a86f636bdd2e
+    _key: card-1-9286a013-8cfa-4c85-892a-a93a1f81ebd2
   - order: 1
     body: >-
       ## “Main takeaway is the economy is doing very well.”A
@@ -43,7 +43,7 @@ cards:
 
       * **Why it matters:** Borrowing gets more expensive – rate impacts credit
       cards, mortgages, auto loans, etc. But savers to benefit.
-    _key: card-2-3f147f67-2507-4a7d-bf34-b0e6e0b5461f
+    _key: card-2-daf8bc47-7bef-40e0-afe5-58b2a8f6f08c
   - order: 2
     body: >-
       ## What’s to Blame
@@ -58,7 +58,7 @@ cards:
       * A decade after the recession, Fed has made progress. May unemployment
       rate was 3.8%, lowest since 2000, while inflation was just below Fed’s 2%
       target.
-    _key: card-3-50eef324-ca8b-44dc-8a5a-585b0484154a
+    _key: card-3-99ef493c-2820-4dd8-b397-9ce8f2254a17
   - order: 3
     body: >-
       The Fed began raising rates from 0 at the end of 2015 with the goal to
@@ -68,7 +68,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-14-fed-moves/)
-    _key: card-10-a4696d27-3d64-47f1-82c0-eec3b903db73
+    _key: card-10-7d449908-e0d2-4cb9-8254-5e62694d49d3
 
 ---
 * **Fed Raises Interest Rates and Sees 2018 Unemployment at 3.6%:**  

@@ -1,14 +1,14 @@
 ---
 title: 18.04.04 Nat Guard
 slug: 20180405-18-04-04-nat-guard
-_id: legacy-ee02da3d-a176-4cc1-bfac-0ddb867557c2
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-2b873135-7a19-41ac-85a7-db87a1b3d9b0
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-04-nat-guard/
 _createdAt: '2018-04-05T11:08:33Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-05T11:08:33+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-04-nat-guard/)
-    _key: card-10-9eabd47c-613e-4aec-8b1e-075591575786
+    _key: card-10-a61b8144-b28c-49f5-8716-7c800ddd2cc0
 
 ---
 **SmartHer Context:** Remember the President asked for $25B for a border wall in the recent spending bill. Congress allocated $1.6B for a limit fence…NOT a wall. Building a wall and border security remains front and center of President Trump’s “Make America Great Again” agenda. This is one way to continue his mission without needing Congressional approval. At least for now.

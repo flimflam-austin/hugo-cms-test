@@ -1,14 +1,14 @@
 ---
 title: 02.09.18 Stock Market Breather
 slug: 20180209-02-09-18-stock-market-breather
-_id: legacy-447e9576-b7db-4953-90e8-cf97e34cf73d
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-958ea4a0-b072-4c2a-973b-1ba4ed66489b
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 02-09-18-stock-market-breather/
 _createdAt: '2018-02-09T19:33:12Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-09T19:33:12+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip Here
     citation: Flip Here
-    _key: card-1-43ffde35-db23-4d0d-8868-6ec851fcd13d
+    _key: card-1-7da14967-f5c6-40e7-a026-ccad0b2b2844
   - order: 1
     body: >-
       ## Many Theories As To Why Stocks Fell:
@@ -53,7 +53,7 @@ cards:
       [Click Here To Watch Him
       Explain](https://www.cnbc.com/video/2018/02/08/cramer-blames-this-weeks-crazy-market-on-a-group-of-complete-morons.html)
     citation: Click Here To Watch Him Explain
-    _key: card-2-c18b69f4-272c-4875-81dc-af070fb43f95
+    _key: card-2-54816884-1490-49f4-be90-8f294d2cdc18
   - order: 2
     body: >-
       Some say stock market looks like 1996-1997 - Find that article on our
@@ -61,7 +61,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/02-09-18-stock-market-breather/)
-    _key: card-10-67cd4524-d332-47b1-8f78-a371d460aa9a
+    _key: card-10-cb4f23d0-d87c-4dee-bd51-899f449743d4
 
 ---
 1. **This stock-market shakeout looks a lot like 1996-97:**  

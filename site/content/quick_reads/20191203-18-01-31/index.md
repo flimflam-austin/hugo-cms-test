@@ -1,14 +1,14 @@
 ---
 title: 18.01.31 Smarther Mission
 slug: 20191203-18-01-31
-_id: legacy-3cd8a709-d108-404a-9ac3-b68385584130
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-6e0f79cf-7f2c-47b0-a9ff-12f258ce282b
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - 18-01-31/
 _createdAt: '2018-01-31T14:33:42Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-01-31T14:33:42+00:00'
 weight: 50
 featured_image:
@@ -37,10 +37,10 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/tGquvWuk0kk?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-120a500d-9c93-40dd-9046-bbe1d18c57a8
+    _key: card-1-76e45289-f8e7-40ef-a052-2f777f044165
   - order: 1
     body: '[view sources](https://smarthernews.com/18-01-31/)'
-    _key: card-10-e3c51e0d-d593-43e8-9319-4fb751c04ba6
+    _key: card-10-c9543d37-3cd4-4b90-a14c-5d4dd604e33f
 
 ---
 **SmartHER News News For the Modern Woman**

@@ -1,14 +1,14 @@
 ---
 title: 18.02.12 Famous Designer Dies
 slug: 20180313-18-02-12-famous-designer-dies
-_id: legacy-bbaea571-e055-4262-8362-88fd21c11238
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-a87fbb06-4657-48ad-9e43-5067ef3281c2
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-12-famous-designer-dies/
 _createdAt: '2018-03-13T10:08:50Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-13T10:08:50+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
 
       Hubert de Givenchy passes away at age 91.
-    _key: card-1-3853267c-9c7b-4c65-b46a-a8511f783af8
+    _key: card-1-a25ebe18-ce5e-40c4-b275-d32e3440d267
   - order: 1
     body: >-
       # Givenchy & Hepburn
@@ -52,7 +52,7 @@ cards:
       [Click Here: More
       Looks](https://www.harpersbazaar.com/fashion/designers/g19405875/audrey-hepburn-hubert-de-givenchy/?slide=2)
     citation: 'Click Here: More Looks'
-    _key: card-2-442e86d0-eef5-437d-9eb9-a4607c02af4b
+    _key: card-2-b6dda8a6-2ca4-428d-bf4b-2743f7554bec
   - order: 2
     body: >-
       ## Advice From Givenchy
@@ -64,7 +64,7 @@ cards:
         
         
       Hubert de Givenchy
-    _key: card-3-5d37b37c-8365-4e55-88fc-ed4d509e281f
+    _key: card-3-143355f3-5413-4820-954d-36860baf0561
   - order: 3
     body: >-
       # FUN FACT
@@ -79,7 +79,7 @@ cards:
       [Auction Item:
       2006](https://www.christies.com/lotfinder/Lot/audrey-hepburn-breakfast-at-tiffanys-1961-4832498-details.aspx)
     citation: 'Auction Item: 2006'
-    _key: card-4-fb92e02e-dd1a-4ec1-af23-024982cfff57
+    _key: card-4-fb68cb7a-5e16-4efe-b43a-eb41ca07becc
   - order: 4
     body: >-
       ## Givenchy: Backstory
@@ -94,7 +94,7 @@ cards:
 
       * Opened his first shop at 24, using plastic mannequins because he
       couldn’t afford “live” models.
-    _key: card-5-c5b9d44f-bfff-484c-a3fe-98f62e886cac
+    _key: card-5-d994c3b1-fb6b-405e-b25e-8ecb6a361731
   - order: 5
     body: >-
       ## Givenchy Today
@@ -111,7 +111,7 @@ cards:
       [Click: Fashion
       Show](https://www.nytimes.com/2018/01/24/fashion/couture-margiela-galliano-givenchy.html)
     citation: 'Click: Fashion Show'
-    _key: card-6-743aa90f-c015-4464-b180-f54c70d8845a
+    _key: card-6-598c3f32-9d26-429b-9412-9cb77a94796e
   - order: 6
     body: >-
       The perfect dress can make many things happen in a woman’s life. It can
@@ -120,7 +120,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-12-famous-designer-dies/)
-    _key: card-10-e1f1cff5-31ed-4a45-b29b-9aa62daf64e3
+    _key: card-10-f43d5dc7-f136-4266-8028-0e0fbd9b1198
 
 ---
 * Obituary: [https://www.irishtimes.com/life-and-style/people/hubert-de-givenchy-obituary-couturier-to-audrey-hepburn-and-jackie-kennedy-1.3424401](https://www.irishtimes.com/life-and-style/people/hubert-de-givenchy-obituary-couturier-to-audrey-hepburn-and-jackie-kennedy-1.3424401)

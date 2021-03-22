@@ -5,30 +5,22 @@ title: >-
   Community Transmission of the Virus.
 slug: >-
   20201210-dr-patrick-moore-of-the-university-of-pittsburgh-during-an-fda-advisory-panel-meeting-on-the-pfizer-covid-19-vaccine-asking-about-whether-it-will-lower-community-transmission-of-the-virus
-_id: legacy-19058a68-540d-4dbc-9bdd-8b99dfbbb9ea
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-62eff06d-5f76-4b2c-b3b6-12cf9e94c565
+_rev: ZEyhBiGfgCfwE8WOjbuN87
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/dr-patrick-moore-of-the-university-of-pittsburgh-during-an-fda-advisory-panel-meeting-on-the-pfizer-covid-19-vaccine-asking-about-whether-it-will-lower-community-transmission-of-the-virus/
 _createdAt: '2020-12-11T00:11:09Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:19Z'
 date: '2020-12-11T00:11:09+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  Dr. Patrick Moore of the University of Pittsburgh during an FDA advisory panel
-  meeting on the Pfizer COVID-19 vaccine asking about whether it will lower
-  community transmission of the virus.
 featured_quote:
   quote: >-
     Even though the individual efficacy of this vaccine is very, very, very
     high, you really as of right now do not have any evidence...
-  citation: >-
-    Dr. Patrick Moore of the University of Pittsburgh during an FDA advisory
-    panel meeting on the Pfizer COVID-19 vaccine asking about whether it will
-    lower community transmission of the virus.
 
 ---
 * Health officials believe asymptomatic cases of COVID-19 account for upwards of 50% of all infections. One of the big challenges discussed to stopping the spread of COVID-19 is stopping these particular cases. However, there’s also a question about transmission – including just how contagious (and for how long) a person is with few or no symptoms.

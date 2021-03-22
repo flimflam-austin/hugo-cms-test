@@ -1,14 +1,14 @@
 ---
 title: 18.05.03 Quotes
 slug: 20180503-18-05-03-quotes
-_id: legacy-00d512bc-b149-4724-b81e-f8d18526fd0d
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-c031650f-82a3-4e8c-bc65-bbc6c3c34402
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-03-quotes/
 _createdAt: '2018-05-03T10:47:01Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-03T10:47:01+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       Rudy Giuliani, a member of President Trump's legal team, tells Fox NewsA
       that Trump repaid his personal attorney Michael Cohen for a $130,000
       payment to porn star Stormy Daniels.
-    _key: card-1-9672e004-a228-4de2-8ae3-9ad1a3e9540e
+    _key: card-1-4e79cb96-a514-445c-9181-fc41d75c820e
   - order: 1
     body: >-
       > **“It just sounded like a really loud ‘POP’ like someone throwing a rock
@@ -42,7 +42,7 @@ cards:
       Newark, diverted safely to Cleveland after a window broke at 30,000 feet.
       FAA is now investigating. The incident is the second in 2 weeks for
       Southwest after a deadly engine explosion. A
-    _key: card-2-c8bdfb56-74ff-4c05-9ad5-59fc724f556f
+    _key: card-2-b5e1e3a1-7cdc-423f-aba2-70de6875b5a9
   - order: 2
     body: >-
       > **‘…vilified for activities that are not only legal, but also widely
@@ -54,7 +54,7 @@ cards:
       Statement from Cambridge Analytica, announcing it will shut U.S. & U.K.
       operations after a Facebook scandal revealed it had improperly obtained
       the personal information of millions of the social network's users.
-    _key: card-3-afd5a5a2-21db-449e-a69d-492fedf3bafc
+    _key: card-3-dc452d9b-d556-44b9-9083-fa2b13fbc99b
   - order: 3
     body: >-
       > ‘We thought long and hard about it, & we feel like this is the best way
@@ -67,10 +67,10 @@ cards:
       each & a promise from officials to set up a $200,000 program for young
       entrepreneurs. Separately, Starbucks also reached an undisclosed financial
       agreement with the two men.
-    _key: card-4-9055dd21-4e8d-4665-bd0e-f79851afdb19
+    _key: card-4-f57211e9-371b-4368-b9f3-a10ee7a57626
   - order: 4
     body: '[view sources](https://smarthernews.com/18-05-03-quotes/)'
-    _key: card-10-ebcfb8c3-19cf-4c90-9e51-ae7ff6e1b211
+    _key: card-10-40edda46-7dbc-42d9-8be3-b06524c853e3
 
 ---
 * **WATCH: Giuliani calls for Comey to be prosecuted, end to Mueller probe ‘in the interest of justice’:**  

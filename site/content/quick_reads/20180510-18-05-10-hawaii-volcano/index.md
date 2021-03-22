@@ -1,14 +1,14 @@
 ---
 title: 18.05.10 Hawaii Volcano
 slug: 20180510-18-05-10-hawaii-volcano
-_id: legacy-804415f2-aefa-4ae1-b253-e159c46deabc
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-e7019846-3897-4792-9e65-0c4c38aa3d8b
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-10-hawaii-volcano/
 _createdAt: '2018-05-10T10:04:16Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-10T10:04:16+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-10-hawaii-volcano/)
-    _key: card-10-7efba329-0d76-4b1e-ae7e-e1fade3c5e9a
+    _key: card-10-9ff1c53a-a9e5-4f4c-b090-00a536764693
 
 ---
 * 

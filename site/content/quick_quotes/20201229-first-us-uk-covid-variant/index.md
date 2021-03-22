@@ -4,29 +4,25 @@ title: >-
   Infectious Diseases, Reacting to News of a Variant or New Strain of the New
   Coronavirus Discovered in the u.k.
 slug: 20201229-first-us-uk-covid-variant
-_id: legacy-f6c999a4-e6d5-4307-a436-c4bca48cd43c
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-ba8e53f3-f919-4ac3-a762-bfbde453d78a
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - article/first-us-uk-covid-variant/
 _createdAt: '2020-12-20T20:59:35Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-12-20T20:59:35+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    81ace01cbb1530029ae3528209217b08978cd60d-1024x576.jpg
 is_breaking: false
-summary: >-
-  Professor Melissa Nolan, University of South Carolina, who specializes in
-  infectious diseases, reacting to news of a variant or “new strain” of the new
-  coronavirus discovered in the U.K.
 featured_quote:
   quote: >-
     These changes in the viral composition are expected. At the moment we have
     not seen any dramatic genetic shifts of concern.
-  citation: >-
-    Professor Melissa Nolan, University of South Carolina, who specializes in
-    infectious diseases, reacting to news of a variant or “new strain” of the
-    new coronavirus discovered in the U.K.
 
 ---
 * 
@@ -53,4 +49,4 @@ Meantime, an excerpt from _The Wall Street Journal_
 
 _Susan Hopkins, chief medical adviser on Covid-19 to England’s public health agency, said Sunday there was no reason to think the new variant would be resistant to the current crop of vaccines being rolled out in the U.S., Canada, the U.K. and some other countries. The vaccines aim to trigger a broad immune response that teaches the body to recognize the virus’s entire spike protein, so small mutations shouldn’t prevent that happening, she said._
 
-_Nor does it appear more dangerous. “We are not seeing a disproportionate number of people being admitted to hospital over the last two weeks and we’re not seeing any increases in mortality yet,” Dr. Hopkins said in an interview with Sky News. Nervtag said four deaths in 1,000 cases have been linked to the new variant, and more work is needed to compare fatality rates across different strains. [WSJ](https://www.wsj.com/articles/u-k-lockdowns-prompt-travel-bans-to-block-new-covid-19-strain-11608469676)_ns. [WSJ](https://www.wsj.com/articles/u-k-lockdowns-prompt-travel-bans-to-block-new-covid-19-strain-11608469676)_
+_Nor does it appear more dangerous. “We are not seeing a disproportionate number of people being admitted to hospital over the last two weeks and we’re not seeing any increases in mortality yet,” Dr. Hopkins said in an interview with Sky News. Nervtag said four deaths in 1,000 cases have been linked to the new variant, and more work is needed to compare fatality rates across different strains. [WSJ](https://www.wsj.com/articles/u-k-lockdowns-prompt-travel-bans-to-block-new-covid-19-strain-11608469676)_

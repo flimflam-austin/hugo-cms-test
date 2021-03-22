@@ -1,14 +1,14 @@
 ---
 title: A Courageous Voice
 slug: 20180825-18-08-24-nicaragua-podcast
-_id: legacy-16b298c3-63c9-49da-8069-ba0efa7c0c97
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-b0fd9951-4523-4ce7-85fb-bb5b15fb2366
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-24-nicaragua-podcast/
 _createdAt: '2018-08-25T12:40:26Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-25T12:40:26+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       [Listen:](http://smarthernews.libsyn.com/smarther-news-podcast-ep11-crisis-in-nicaragua)
     citation: 'Listen:'
-    _key: card-1-70fe1bf9-f813-4795-bf34-939ce905ab78
+    _key: card-1-ede63138-5185-41e2-a32a-01014aaa9d00
   - order: 1
     body: >-
       The recent turmoil in Nicaragua has gone mostly overlooked. Our guest this
@@ -41,7 +41,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-24-nicaragua-podcast/)
-    _key: card-10-ae67fd83-35ab-4523-930f-b28bb1649fc9
+    _key: card-10-d6c01a6c-8fac-4289-8a9d-a570e65b6086
 
 ---
 Podcast Link:

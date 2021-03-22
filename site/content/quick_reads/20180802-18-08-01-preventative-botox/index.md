@@ -1,14 +1,14 @@
 ---
 title: 18.08.01 Botox Instead of Opioids
 slug: 20180802-18-08-01-preventative-botox
-_id: legacy-6e5c8e7c-8d99-40ba-a550-b552b8f97b3c
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-fd0b6e64-ddb6-4f75-9e4d-7abfff6bcc89
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-08-01-preventative-botox/
 _createdAt: '2018-08-02T11:55:11Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-08-02T11:55:11+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       What To Know
     citation: What To Know
-    _key: card-1-797c0f3d-8d6f-4cc9-b189-151c5e4fb7f1
+    _key: card-1-c2b01eef-66f7-448f-af91-e0dc370d8e61
   - order: 1
     body: >-
       > ‘The most promising aspect of our new approach is that **we can prolong
@@ -45,7 +45,7 @@ cards:
         
       Bazbek Davletov, study author and chair of the biomedical science
       department, University of Sheffield
-    _key: card-2-17fbb08f-2a75-4b71-bfa3-b982d8383b9d
+    _key: card-2-65b539cd-54a2-48bf-9e82-51647b7588d0
   - order: 2
     body: >-
       ## About The Study:
@@ -60,7 +60,7 @@ cards:
       nerves from transmitting pain.**
 
       * End result is a less toxic & less addictive injectable than opioids.
-    _key: card-3-677fe151-f4f6-464a-8ab7-b42a26ce0d68
+    _key: card-3-63c33e9e-e165-4311-ae3b-2ff1a312cab6
   - order: 3
     body: >-
       ## Why It Matters:
@@ -74,7 +74,7 @@ cards:
 
       * In October 2017, Pres. Trump declared the opioid epidemic a public
       health emergency.
-    _key: card-4-b6b04495-c5c3-4316-aeae-c7ac9c9d1af2
+    _key: card-4-6d3099b9-8cd7-42a1-9841-db31f4d0ee21
   - order: 4
     body: >-
       Many people don’t realize that there are numerous medical indications for
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-01-preventative-botox/)
-    _key: card-10-1d89b80e-7d29-4b26-982c-b1fea8946ed2
+    _key: card-10-7e8aba2a-af00-4e03-bb9e-b6665151540e
 
 ---
 * **An Experimental Painkiller Combines the Best Parts of Botox and Opioids—at Least in Mice:**  

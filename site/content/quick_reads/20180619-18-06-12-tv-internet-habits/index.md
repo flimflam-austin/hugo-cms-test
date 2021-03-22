@@ -1,14 +1,14 @@
 ---
 title: 18.06.12 Tv & Internet Habits
 slug: 20180619-18-06-12-tv-internet-habits
-_id: legacy-2907427a-ce51-4901-b0cb-97eee3436065
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-db2ec792-5b0f-40cf-9c0e-c6d91cbc16e7
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-12-tv-internet-habits/
 _createdAt: '2018-06-20T09:00:29Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-20T09:00:29+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Why & Why It Matters
     citation: Why &amp; Why It Matters
-    _key: card-1-b134c759-6408-4c7a-9427-ee868b11ffd7
+    _key: card-1-94f0c45f-d924-4029-b7bf-176abbb0b064
   - order: 1
     body: >-
       ## THE FINDINGS
@@ -46,7 +46,7 @@ cards:
 
       * However, **_in America,_ internet usage isn’t expected to top TV until
       2020**. TVs prolific in 96.5% of American households.
-    _key: card-2-ff1a43ff-46ed-4439-ab88-2dcf51acf7bf
+    _key: card-2-1962251c-81a0-4b88-b110-05044c8a2aee
   - order: 2
     body: >-
       ## Why it Matters
@@ -62,7 +62,7 @@ cards:
 
       Can't live without?
     citation: Can't live without?
-    _key: card-3-54634607-9d89-4ef1-8034-d62034ef2aee
+    _key: card-3-eccee58c-95b6-4652-8f6b-915b4b9980ed
   - order: 3
     body: >-
       Earlier this year, Pew Research found about a quarter of Americans are
@@ -71,7 +71,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-12-tv-internet-habits/)
-    _key: card-10-310a1eef-65da-4ef6-a13c-f83fa146a3a8
+    _key: card-10-bcce0781-65f1-4c25-8627-4edc57081eef
 
 ---
 * **Next year, people will spend more time online than they will watching TV. That”s a first.:**  

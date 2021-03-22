@@ -1,25 +1,23 @@
 ---
 title: Amazon Announces Its One Step Closer to Offering Deliveries via Drone.
 slug: 20200831-amazon-announces-its-one-step-closer-to-offering-deliveries-via-drone
-_id: legacy-b59f39e4-bcc7-4c7f-bd70-a34e51905a4c
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-b275688e-9b52-488a-b4d8-bca9670cf220
+_rev: O8E8pz1fLwnc3fN7JVFAJC
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/amazon-announces-its-one-step-closer-to-offering-deliveries-via-drone/
 _createdAt: '2020-08-31T20:56:50Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2020-08-31T20:56:50+00:00'
 weight: 50
 is_breaking: false
-summary: Amazon announces its one step closer to offering deliveries via drone.
 featured_quote:
   quote: >-
     This certification is an important step forward for Prime Air ... an
     autonomous drone delivery service that will one day deliver packages to our
     customers around the world.
-  citation: Amazon announces its one step closer to offering deliveries via drone.
 
 ---
 * Amazon says **Prime Air** will offer drone delivery of packages weighing up to 5 pounds in 30 minutes or less. The drones operate without a human pilot and will transport items from one of Amazon’s more than 175 fulfillment centers across the globe.

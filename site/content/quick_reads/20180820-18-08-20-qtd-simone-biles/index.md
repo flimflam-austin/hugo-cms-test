@@ -1,14 +1,14 @@
 ---
 title: 18.08.20 Qtd Simone Biles
 slug: 20180820-18-08-20-qtd-simone-biles
-_id: legacy-d9db5b34-9fa5-48ae-a0c0-27b3ea12c2ad
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-2db33233-764d-4497-8ef7-8de4eca1ec7c
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-20-qtd-simone-biles/
 _createdAt: '2018-08-20T13:16:26Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-20T13:16:26+00:00'
 weight: 50
 featured_image:
@@ -24,7 +24,7 @@ cards:
 
       Simone Biles
     citation: Simone Biles
-    _key: card-1-65802a4a-69fa-4853-b188-7b3397d0992b
+    _key: card-1-fe1d0616-5cbe-42a6-9688-54c5b4905a3d
   - order: 1
     body: >-
       After a break from competition, Simone Biles won her 5th national
@@ -34,11 +34,9 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-20-qtd-simone-biles/)
-    _key: card-10-113b3345-16dc-4b17-b407-1da4ff9c4668
+    _key: card-10-b0f91d38-384e-4725-b727-21e242195299
 
 ---
-{{< tweet 1031513888259489793 >}}
-
 {{< tweet 1031513888259489793 >}}
 
 * **Simone Biles returns with a focus on 2020 Olympics**A [https://www.houstonchronicle.com/olympics/article/Simone-Biles-returns-with-a-focus-on-2020-Olympics-13163862.php](https://www.houstonchronicle.com/olympics/article/Simone-Biles-returns-with-a-focus-on-2020-Olympics-13163862.php)

@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for Tuesday, November 27, 2018
 slug: 20190905-18-11-27-qq
-_id: legacy-3584b8e0-96ed-4b50-8b71-33f68ac0ea7e
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-4825d0f7-d8c2-43cf-b423-615f400310d1
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - 18-11-27-qq/
 _createdAt: '2018-11-27T12:32:07Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-11-27T12:32:07+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       will dig into Mars' core to learn more about how rocky planets like it in
       our solar system differ so greatly from Earth. The last time NASA touched
       down on Mars was 2012.
-    _key: card-1-810796c8-286f-4fac-9590-ad515198fe63
+    _key: card-1-84766f4c-1c29-4829-8a42-c70254944bb6
   - order: 1
     body: >-
       > “It is introduced with the sole purpose of boosting Ukraine’s defense in
@@ -43,7 +43,7 @@ cards:
       Ukrainian ships & 23 crew members in a disputed area of the Black Sea.
       Martial law, a first for the nation even during war times, effects 10 of
       27 regions. Russia says Ukraine entered its waters illegally.
-    _key: card-2-15374334-9c58-49aa-b51d-196efc27d52d
+    _key: card-2-b109ab98-9943-4e00-9a60-d71e1bbf521c
   - order: 2
     body: >-
       > “Last year was bad; this year is horrible.”  
@@ -56,7 +56,7 @@ cards:
       about 10 years to grow and the crisis meant growers planted fewer trees to
       save money. Fear not! The shortage doesn't mean you'll have to buy an
       artifical tree, but it could mean higher prices and less selection.
-    _key: card-3-e92a90af-fb08-49db-b20f-34d87a8d0a23
+    _key: card-3-d9d0e73c-87dd-43ea-aa42-0536dcdec4e9
   - order: 3
     body: >-
       > “When this started out a couple years ago we were pretty skeptical about
@@ -69,7 +69,7 @@ cards:
       year, was started by New York City's 92nd Street Y & the United Nations
       Foundation. Last year, it raised more than $300M in one day with an
       average gift of $120.
-    _key: card-4-5e0c7770-a1f6-4df6-900a-7055ac22fe67
+    _key: card-4-3057eda8-bdff-4252-92be-19b03d17706a
   - order: 4
     body: >-
       > “There’s no guarantee that this it’s going to stay SUV, SUV, SUV, SUV.
@@ -82,10 +82,10 @@ cards:
       off 14K+ employees and closing plants in Michigan, Ohio, Maryland &
       Canada. GM says the move will save the company an est. $6B by 2020; The
       United Auto Workers union says it will fight the decision.
-    _key: card-5-e08aa8b5-a950-43d3-92d9-7e0763e1a9fd
+    _key: card-5-be4361fd-cb86-463c-87c6-75fe4f6ed1ca
   - order: 5
     body: '[view sources](https://smarthernews.com/18-11-27-qq/)'
-    _key: card-10-ed6b58ff-7e2e-4245-9b27-37f6f40f7fff
+    _key: card-10-48fbfb7a-492c-48a3-99f5-5b049b6a227f
 
 ---
 * **NASA spacecraft lands on red planet after six-month journey:**  

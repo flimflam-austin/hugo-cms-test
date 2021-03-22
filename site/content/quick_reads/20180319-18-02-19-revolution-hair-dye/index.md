@@ -1,14 +1,14 @@
 ---
 title: 18.02.19 Revolution in Hair Dye
 slug: 20180319-18-02-19-revolution-hair-dye
-_id: legacy-a559dc49-ec91-4812-be9f-fb778da9e320
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-6ecd69bb-2370-43d0-a5ed-41aa8184715a
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-19-revolution-hair-dye/
 _createdAt: '2018-03-19T13:31:36Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-19T13:31:36+00:00'
 weight: 50
 featured_image:
@@ -39,7 +39,7 @@ cards:
 
       Say What? Flip!
     citation: Say What? Flip!
-    _key: card-1-61c4042d-aff2-40f0-a133-355d53225c84
+    _key: card-1-737f71cd-25fb-4929-91b2-e2977cc96e22
   - order: 1
     body: |-
       # What Is Graphene?
@@ -52,7 +52,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-2-7c567c11-bbe0-496f-8006-be72d453e362
+    _key: card-2-cef6399a-14cf-4ac1-b188-a070553ec4df
   - order: 2
     body: >-
       ## How Did They Do It?
@@ -68,7 +68,7 @@ cards:
       * Dye process 10 minutes or less.
 
       * Lasted more than 30 washes = current industry dye standards.
-    _key: card-3-55c27a6c-4ecf-4cc1-98eb-f75707a938c3
+    _key: card-3-94b4b8cc-9f39-465d-88d1-96cf3f1b208f
   - order: 3
     body: >-
       Why Dye Is Healthier:  
@@ -83,7 +83,7 @@ cards:
         
       Dr. Jiaxing Huang, Northwestern University, Interview w/New York Times,
       March 16, 2018
-    _key: card-4-7cf93461-f1e8-4b82-9148-8edff0dd3ed0
+    _key: card-4-d368ea82-fcc4-4f96-a477-9fd16c2e5112
   - order: 4
     body: >-
       ## A Note From The Study:
@@ -95,7 +95,7 @@ cards:
 
       _Graphene-based hair dyes could also potentially benefit the development
       of electronics interfacing with the body._
-    _key: card-5-bb34f3fa-b001-487d-9da6-230a06582d44
+    _key: card-5-d8f50f99-8022-45ce-80c8-876b39a13a49
   - order: 5
     body: >-
       Graphene is naturally black in color so for now, the dye is only black as
@@ -103,7 +103,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-19-revolution-hair-dye/)
-    _key: card-10-d54826eb-24df-4c17-957d-a5b66cc88c67
+    _key: card-10-4a931ec1-60b3-413b-9c25-616967b4751b
 
 ---
 * The barbers of the future may offer a trim, shampoo, and graphene infusionA [https://www.digitaltrends.com/cool-tech/graphene-hair-dye/](https://www.digitaltrends.com/cool-tech/graphene-hair-dye/)

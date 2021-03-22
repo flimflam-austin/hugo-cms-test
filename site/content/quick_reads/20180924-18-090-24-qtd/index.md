@@ -1,14 +1,14 @@
 ---
 title: Quote of the Day for Monday, September 24th
 slug: 20180924-18-090-24-qtd
-_id: legacy-2b445e26-eb05-4e48-a84d-aff6b6bddc67
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-ce4cdf87-52cc-4698-be08-d558c210765a
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-090-24-qtd/
 _createdAt: '2018-09-24T13:15:11Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-24T13:15:11+00:00'
 weight: 50
 featured_image:
@@ -24,7 +24,7 @@ cards:
 
       Isabella Rossellini
     citation: Isabella Rossellini
-    _key: card-1-91ada3a7-32a4-4988-849f-9d689588378f
+    _key: card-1-6e2c733d-b629-4f5e-906e-bc4c4f8ae9fa
   - order: 1
     body: >-
       Isabella Rossellini, 66, walked the runway with her daughter, son, and
@@ -35,7 +35,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-090-24-qtd/)
-    _key: card-10-38932690-7d0d-4eee-a3a6-559441f9ede9
+    _key: card-10-f46732ad-f292-49ae-a571-c708079e3d42
 
 ---
 * **Isabella Rossellini Says This is the Best Thing About Aging:A**  

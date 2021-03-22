@@ -1,14 +1,14 @@
 ---
 title: u.s. / China Trade War Latest
 slug: 20180919-18-09-18-trade-war
-_id: legacy-b1b4e044-fe08-46c7-aeac-50443104e88e
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-2dae1ad7-3160-4e62-b88f-ca511d0e3073
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-18-trade-war/
 _createdAt: '2018-09-18T18:21:54Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-18T18:21:54+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       What To Know
     citation: What To Know
-    _key: card-1-508f6605-1753-45e8-862d-0bf7a59d079a
+    _key: card-1-cfbd85b4-1044-41dc-a761-9d998ff8aac8
   - order: 1
     body: >-
       > “Because it’s spread over thousands and thousands of products, nobody is
@@ -45,7 +45,7 @@ cards:
       of 10% tariffs on $200B of Chinese imports this week will impact the
       American consumer. If the White House doesn't see a change from China by
       January the tariff jumps to 25%.
-    _key: card-2-319652a2-20a7-4391-8546-5eec4f503728
+    _key: card-2-f59a0646-edbe-4d49-8405-b541c106cf44
   - order: 2
     body: >-
       > ‘Every time this trade war escalates, the risk to U.S. consumers grows.
@@ -57,7 +57,7 @@ cards:
       Matthew Shay, President and CEO of the National Retail Federation. Other
       experts agree and say as Chinese imports cost more, these higher prices
       will start hitting consumers around the holidays.
-    _key: card-3-c2300b2d-03f8-49c2-862f-7d3e227e4aa0
+    _key: card-3-2cda719c-03c6-446b-a1ad-480063f0ad81
   - order: 3
     body: >-
       ## Why Now?
@@ -71,7 +71,7 @@ cards:
       espionage to steal our intellectual property.
 
       * China is retaliating withA tariffs on U.S. goods worth $60 billion.
-    _key: card-4-253d6ec0-bf25-42de-9956-eead1dec866a
+    _key: card-4-971cb359-2d5c-4034-836d-24122f50772c
   - order: 4
     body: >-
       This is the second round of tariffs the White House has levied on China to
@@ -81,7 +81,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-18-trade-war/)
-    _key: card-10-b41305cf-5af2-4922-8c71-577a16b02382
+    _key: card-10-fa509954-bc39-4544-a892-320eb53e517f
 
 ---
 * **How the tariffs on China may hit your pocketbook:**  

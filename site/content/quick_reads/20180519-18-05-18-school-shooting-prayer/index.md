@@ -1,14 +1,14 @@
 ---
 title: 18.05.18 School Shooting & Prayer
 slug: 20180519-18-05-18-school-shooting-prayer
-_id: legacy-0797891f-a43c-49d2-adbe-b0eba07e3a7c
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-415e683d-0046-4af5-8779-bf06cf0dfb41
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-18-school-shooting-prayer/
 _createdAt: '2018-05-19T01:56:32Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-19T01:56:32+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       What To Consider
     citation: What To Consider
-    _key: card-1-24d1562c-1738-4585-b281-adb413a723ce
+    _key: card-1-ef20012d-3ea9-45be-a0c9-56044b49fc3a
   - order: 1
     body: >-
       > ‘Once again, our Nation grieves another mass murder. Heidi and I are
@@ -40,7 +40,7 @@ cards:
 
       [Full Statement](https://www.cruz.senate.gov/?p=press_release&id=3833)
     citation: Full Statement
-    _key: card-2-29fca7ba-8364-4026-bf99-9a1f4fc096ed
+    _key: card-2-0b443e81-9e66-49ec-b4c7-3ed48599503e
   - order: 2
     body: >-
       > “Spare us your thoughts and prayers and do you job.”  
@@ -55,7 +55,7 @@ cards:
       [Full
       Statement](https://twitter.com/Mike_Rawlings/status/997520858213175297)
     citation: Full Statement
-    _key: card-3-0d1ded29-e534-42bb-a8c1-9caab20df236
+    _key: card-3-72fd3984-c783-4994-a1a5-ef950cd42fb0
   - order: 3
     body: >-
       > “…so heartbroken. Texas, I’m thinking of you and sending all the victims
@@ -68,7 +68,7 @@ cards:
 
       [Click: Tweet](https://twitter.com/KylieJenner/status/997569941439049728)
     citation: 'Click: Tweet'
-    _key: card-4-da0fbd3c-200f-4532-9388-4c38d0fadaaa
+    _key: card-4-1668a4c9-e3c5-4c44-90e5-898300c46d9f
   - order: 4
     body: >-
       > “Santa Fe High, you didn’t deserve this. You deserve peace all your
@@ -83,7 +83,7 @@ cards:
 
       [Click: Tweet](https://twitter.com/Emma4Change/status/997505205771079680)
     citation: 'Click: Tweet'
-    _key: card-5-e43f104a-24a7-46b8-a613-56c5b1942326
+    _key: card-5-48383664-38c3-4264-a398-8a94b400684b
   - order: 5
     body: >-
       ## Agree or Disagree?
@@ -98,7 +98,7 @@ cards:
         
         
       Billy Hallowell, Author
-    _key: card-6-a6851b91-1a50-4a66-ad34-42df5c62de1c
+    _key: card-6-81c7271b-8162-4013-814c-625ca9c11f9c
   - order: 6
     body: >-
       Is prayer, the usefulness or lack-of, a priority of debate in the hours
@@ -106,7 +106,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-18-school-shooting-prayer/)
-    _key: card-10-e565b01b-0aa6-41e5-abdd-3fa62e08d452
+    _key: card-10-a15e32f3-98d8-4ac2-b475-9c4216d422a5
 
 ---
 * **OPINION ARTICLE: Texas school shooting –What it means when we talk about ‘thoughts and prayers’**A http://www.foxnews.com/opinion/2018/05/18/texas-school-shooting-what-it-means-when-talk-about-thoughts-and-prayers.html

@@ -1,14 +1,14 @@
 ---
 title: 18.05.20 Royal Wedding Ii
 slug: 20180521-18-05-20-royal-wedding-ii
-_id: legacy-971c352e-7fe1-4ff4-a097-3771dfdccfc7
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-716952fe-7b94-4478-a30e-ff1e28c638e7
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-20-royal-wedding-ii/
 _createdAt: '2018-05-21T10:33:20Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-21T10:33:20+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-d1555007-a9ac-4c08-a492-dff4bb59b447
+    _key: card-1-5da2e567-c74e-4214-90d8-9ae11dad4f52
   - order: 1
     body: >-
       The groom handpicked flowers from the private garden at Kensington Palace
@@ -44,7 +44,7 @@ cards:
       * Myrtle sprigs from stems plantedA by Queen Victoria in 1845 and a plant
       grown from the myrtle, which was also used in The Queen’s wedding bouquet
       in 1947
-    _key: card-2-248d3422-b140-46e2-a4cb-23a5a8e412d1
+    _key: card-2-dbe1a855-c837-4b12-aa1e-bc546ba0bca6
   - order: 2
     body: >-
       Princess Diana’s sister Lady Jane FellowesA gave the only ceremony reading
@@ -56,7 +56,7 @@ cards:
       Princess on the wedding day**”  
 
       Kensington Palace statement (5/4/18)
-    _key: card-3-3b3313fd-e69d-41f5-9505-7228ae46e5c3
+    _key: card-3-f5e71580-2e0b-43e1-b9c5-47f82e1fd415
   - order: 3
     body: >-
       The hymnA ‘**Guide Me, O Thy Great Redeemer**’, which was sung at the
@@ -67,7 +67,7 @@ cards:
       version of “Candle in the Wind”, at Princess Diana’s funeral, was a
       wedding guest. He also performed at the lunchtime reception following the
       wedding.
-    _key: card-4-ff0b25bc-3bf7-461f-93fd-279b80a8527b
+    _key: card-4-cff321a5-a53b-4cff-b6d3-6a73f8b17a22
   - order: 4
     body: >-
       Many onlookers compared the Duchess’ monarch-length veil to Princess
@@ -76,7 +76,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-20-royal-wedding-ii/)
-    _key: card-10-65e4d074-7b61-4546-89a4-5052fa405834
+    _key: card-10-a9f3634c-f4fd-4d2f-93dc-7b070ec4398e
 
 ---
 * **The Wedding Dress, Bridesmaid Dresses and Page Boys Uniforms:** [https://www.royal.uk/wedding-dress-bridesmaids”-dresses-and-page-boys-uniforms](https://www.royal.uk/wedding-dress-bridesmaidsa)

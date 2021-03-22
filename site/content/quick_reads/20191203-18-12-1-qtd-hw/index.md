@@ -1,14 +1,14 @@
 ---
 title: 18.12.1 Qtd Hw
 slug: 20191203-18-12-1-qtd-hw
-_id: legacy-6c6a13b9-9988-4822-9981-825f9b0ac62b
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-9066c300-de58-47a2-ba5f-5a19eb4f8574
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-12-1-qtd-hw/
 _createdAt: '2018-12-01T05:39:18Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-12-01T05:39:18+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       Pres. George H.W. Bush
     citation: Pres. George H.W. Bush
-    _key: card-1-13a34f7d-bf75-480a-94eb-33a6a4e2b588
+    _key: card-1-1330c330-12e5-4804-b08e-03da129b47b8
   - order: 1
     body: >-
       The 41st U.S. President died at age 94. His life was one of service as a
@@ -36,7 +36,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-12-1-qtd-hw/)
-    _key: card-10-ab5a993b-7dc6-4a60-9289-8fcb43c31223
+    _key: card-10-1fa9fe8a-9702-4fdf-ab18-74f8f75df7bf
 
 ---
 * **Transcript of Bush’s Inaugural Address: ‘Nation Stands Ready to Push On’**  

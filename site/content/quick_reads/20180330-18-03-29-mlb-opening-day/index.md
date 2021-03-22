@@ -1,14 +1,14 @@
 ---
 title: 18.03.29 Mlb Opening Day
 slug: 20180330-18-03-29-mlb-opening-day
-_id: legacy-287cc46c-4163-42ca-ab43-a44e4eca92db
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-67c83da9-bfd8-4880-9222-c91ebdf99a48
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-03-29-mlb-opening-day/
 _createdAt: '2018-03-29T10:47:03Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-29T10:47:03+00:00'
 weight: 50
 featured_image:
@@ -25,7 +25,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-29-mlb-opening-day/)
-    _key: card-10-e6e8f4c4-8280-4b96-830e-7b6d453b5057
+    _key: card-10-dfc5e582-3b19-4f35-863c-29464406bcd5
 
 ---
 * Guide to Opening Day lineups via MLB:  

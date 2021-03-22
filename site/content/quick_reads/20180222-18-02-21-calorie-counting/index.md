@@ -1,14 +1,14 @@
 ---
 title: 18.02.21 Calorie Counting
 slug: 20180222-18-02-21-calorie-counting
-_id: legacy-f989e0ec-b39b-405b-8510-76830504764e
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-763f5c53-4a1f-4289-afa1-98abb44a17f3
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-21-calorie-counting/
 _createdAt: '2018-02-22T12:00:09Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-22T12:00:09+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       Yum. Flip Here.
     citation: Yum. Flip Here.
-    _key: card-1-5522cdb1-d43a-45c4-b6a0-9c9923a38980
+    _key: card-1-9811e3f8-74a0-4f98-9bc5-5823d41b1173
   - order: 1
     body: >-
       > ‘This is the road map to reducing the obesity epidemic in the United
@@ -44,7 +44,7 @@ cards:
         
       Dr. Dariush Mozaffarian, Dean of Friedman School of Nutrition Science and
       Policy at Tufts University
-    _key: card-2-e9e3539a-6d87-4e27-a662-f9373fff01e7
+    _key: card-2-226ad6bb-f61c-49f5-8897-3cf48878bb92
   - order: 2
     body: >-
       ## Study by Journal of the American Medical Association
@@ -57,7 +57,7 @@ cards:
       calories, led to weight loss.
 
       * BTW: Genetics alone doesn’t determine ability to lose weight.
-    _key: card-3-ff0ddcd3-eadc-4509-b623-42ee492f1f38
+    _key: card-3-bc22f703-c517-4095-8cd5-a4deb365de3c
   - order: 3
     body: >-
       ## Meanwhile…In A Restaurant Near You…
@@ -69,7 +69,7 @@ cards:
       * Obama-era policy related to health care law.
 
       * Current FDA Director supports implementation.
-    _key: card-4-cacb4a67-0397-4cf4-a93d-5522e1045448
+    _key: card-4-495253fd-c3a6-4dea-a4fc-e039b012cfbb
   - order: 4
     body: >-
       ‘I think one place we go wrong is telling people to figure out how many
@@ -79,7 +79,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-21-calorie-counting/)
-    _key: card-10-439f7b07-1b2c-467c-a871-8a7cdbcb0589
+    _key: card-10-06f8b469-18c7-410a-9621-7d545f5593cc
 
 ---
 * Counting calories not key to weight loss, study findA [https://www.seattletimes.com/nation-world/counting-calories-not-key-to-weight-loss-study-finds/](https://www.seattletimes.com/nation-world/counting-calories-not-key-to-weight-loss-study-finds/)_We really need to focus on that foundational diet, which is more vegetables, more whole foods, less added sugar and less refined grains. according to Dr. Gardner._

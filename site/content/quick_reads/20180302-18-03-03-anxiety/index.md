@@ -1,14 +1,14 @@
 ---
 title: 18.03.03 Anxiety
 slug: 20180302-18-03-03-anxiety
-_id: legacy-bf1afbee-17a7-4580-b0c1-d6acd907bca1
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-6a08caf9-4c16-450c-aab0-f78ec4df5286
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-03-anxiety/
 _createdAt: '2018-03-02T20:50:06Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-02T20:50:06+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-c635018e-4701-4a19-980b-c907b0dc5e6a
+    _key: card-1-323940e1-bb8c-45d5-81f9-171d55edbc4a
   - order: 1
     body: >-
       ## About the Study:
@@ -48,10 +48,10 @@ cards:
       * Only difference in their memory recall? Those with high levels of
       anxiety remembered the words more accurately when they were shown over the
       negative images.
-    _key: card-2-45b17e3e-3d8e-4c6d-935b-b45e6d56d259
+    _key: card-2-2e0c2e41-9ab2-4e12-a168-f80d57dad5c7
   - order: 2
     body: "## What Might This Mean?\n\nPeople with some anxiety may remember an event or moment more vividly, but with a tainted negative light that may be unwarranted.\n\nReaffirmed anxiety ‘**sweet spot**’: some anxiety helps us rememberA a\x14 too much might make our memory recall less accurate."
-    _key: card-3-03a15ee0-ddaa-4409-98fc-31c7fd796d93
+    _key: card-3-f4120cbb-5bd9-4919-b26a-211cfbacfb9f
   - order: 3
     body: >-
       > “Having butterflies in your stomach might actually make that information
@@ -61,7 +61,7 @@ cards:
         
       Myra Fernandes, Professor, University of Waterloo, Department of
       Psychology, and co-author of the study
-    _key: card-4-79cc243e-7900-4298-a57c-9c3283651e14
+    _key: card-4-12f35080-fb8a-44f4-89d1-27e28a16dafd
   - order: 4
     body: >-
       > ‘I think a practical takeaway from this study is to be aware of the
@@ -72,7 +72,7 @@ cards:
         
       Christopher Lee, Professor, University of Waterloo, Department of
       Psychology, and co-author of the study
-    _key: card-5-f06a0613-40ec-4566-a61b-e7d59c5da443
+    _key: card-5-31fb6492-4316-4158-8aae-d02e40f20a6c
   - order: 5
     body: >-
       Researchers gave a terrific example of how negative memory recall works -
@@ -80,7 +80,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-03-anxiety/)
-    _key: card-10-ad147848-3cf2-4d87-a1a7-dc31cd2ee013
+    _key: card-10-285d47c1-27ab-4445-80c1-91b6a491e855
 
 ---
 Overall, that could mean that anxious people have a memory advantage over non-anxious people, says Fernandes, especially in emotional situations. But it also has a downside: It shows how people can adopt a negative retrieval mode when recalling events, which could lead to biased memories. _For people with high anxiety, the emotional context in the background tainted their later memory of these words that were otherwise neutral_, says Fernandes.A Co-author Christopher Lee says most people have probably experienced this type of memory bias at some point. _Say you”re having the worst day possible—you slept through your alarm, you slipped and fell in mud—and then the barista atA StarbucksA asks you a totally neutral question, like if you want whipped cream on your mocha_, he says. _Because you entered this situation in such a negative mindset, you may remember him being rude or hostile or horrible for some reason, even when he”s not._

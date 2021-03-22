@@ -1,14 +1,14 @@
 ---
 title: 18.06.04 Jobs Report
 slug: 20180604-18-06-04-jobs-report
-_id: legacy-f35639e8-2962-427c-9cbd-736d7d866934
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-8e9872c3-b4e1-486e-820a-121988db7c52
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-04-jobs-report/
 _createdAt: '2018-06-04T10:46:50Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-04T10:46:50+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       FLIP: FOR THE FACTS
     citation: 'FLIP: FOR THE FACTS'
-    _key: card-1-a0496eb6-2dbb-4452-990b-829943eebe83
+    _key: card-1-d0a6442d-f16f-4d90-82b3-24200aa2ca38
   - order: 1
     body: >-
       ## Unemployment Rate Hasn’t Been This Low in Nearly 50 Years
@@ -45,7 +45,7 @@ cards:
 
       * American economy has **added jobs for more than 7 years** (92 straight
       months).
-    _key: card-2-b88ee2c9-794b-4049-9aea-e2b32bcb0e9c
+    _key: card-2-08922ea1-04cb-453d-ab2f-614642c0eb61
   - order: 2
     body: >-
       ## Back from the Sidelines?
@@ -60,7 +60,7 @@ cards:
 
       * That said, **retail**, **healthcare** and **construction** remain the
       top job-gaining industries.
-    _key: card-3-34db91dd-d03d-4d8d-a170-34d9d359d7fc
+    _key: card-3-87ddc298-2cde-49d2-b6b0-ca443b088569
   - order: 3
     body: >-
       ## Americans Making More $
@@ -72,7 +72,7 @@ cards:
       * **Important to watch:**A Wage growth ofA 2.7% over the last year is a
       nice improvement – a bigger bump may stoke fears of inflation (an economy
       overheating).
-    _key: card-4-baea9218-6e38-4479-a1fe-76f0d33ee988
+    _key: card-4-70cdf7e1-ee7c-4729-ac11-4cf9f1419146
   - order: 4
     body: >-
       > “We remain in a virtuous circle: the labor market is strong, which
@@ -83,7 +83,7 @@ cards:
         
         
       Eric Winograd, AB U.S. economist
-    _key: card-5-d1409f53-2298-467d-bf81-9e091ccac791
+    _key: card-5-5d3b921c-2620-4732-ad22-92c0da8a1dcd
   - order: 5
     body: >-
       ## Wow. Seems Pretty good. Any Negatives?
@@ -101,7 +101,7 @@ cards:
 
       * Number of people who want work remain discouraged & aren’t searching for
       jobs.
-    _key: card-6-d4ced4c3-32d6-4d96-8649-d39d62e1d9bf
+    _key: card-6-7dfce4d3-f6c0-48f1-b3cc-c1898382eae5
   - order: 6
     body: >-
       The jobs numbers are confidential, but Pres. Trump tweeted an hour before
@@ -110,7 +110,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-04-jobs-report/)
-    _key: card-10-50c3568b-15bd-4e57-bba8-4922716d32cc
+    _key: card-10-1fc5041d-3c48-4c29-b936-b4881d868f9f
 
 ---
 * “The economy and labor market appear to be **firing on all cylinders**,” says Paul Ashworth, chief U.S. Economist of Capital Economics.A [https://www.usatoday.com/story/money/2018/06/01/jobs-economy-adds-223-000-jobs-may/662028002/](https://www.usatoday.com/story/money/2018/06/01/jobs-economy-adds-223-000-jobs-may/662028002/)

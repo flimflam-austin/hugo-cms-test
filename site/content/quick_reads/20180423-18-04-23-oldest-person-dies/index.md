@@ -1,14 +1,14 @@
 ---
 title: 18.04.23 Oldest Person Dies
 slug: 20180423-18-04-23-oldest-person-dies
-_id: legacy-0e3b7926-3ecd-421f-a751-087cda6364e3
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-285787c8-951d-497c-be0d-f3191225aec0
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-23-oldest-person-dies/
 _createdAt: '2018-04-23T10:02:21Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-23T10:02:21+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-54ea46bc-5d48-4bdd-8793-59f5bd184717
+    _key: card-1-e0f01c4d-17e7-472e-9403-68f2c48ee204
   - order: 1
     body: >-
       Tajima became the world’s oldest known person in September.
@@ -44,7 +44,7 @@ cards:
 
       **Today, the world’s oldest living woman and man are also from Japan**:
       Chiyo Miyako (116) & Masazo Nonaka (112).
-    _key: card-2-c4ed5206-be1f-4192-806b-9ec69bbd6405
+    _key: card-2-5e85d08c-ba4e-4011-957c-0bc15cc56a9c
   - order: 2
     body: |-
       ## Today, 36 people are 110-yrs-old or more worldwide
@@ -55,7 +55,7 @@ cards:
 
       [Click Here: Research](http://www.grg.org/SC/WorldSCRankingsList.html)
     citation: 'Click Here: Research'
-    _key: card-3-b3abf215-2646-4323-86b8-f4547f7ddbe1
+    _key: card-3-39bd9c38-daec-4a44-b3dc-2af34fa2a950
   - order: 3
     body: |-
       **WHO Ranking of Countries with Highest-Life Expectancy At Birth**  
@@ -71,7 +71,7 @@ cards:
 
       Secret to long life?
     citation: Secret to long life?
-    _key: card-4-80304f7f-7b75-4d42-8d33-dcc9146694ef
+    _key: card-4-a1c7b61f-e500-4ad9-bc9a-e4fb02460798
   - order: 4
     body: >-
       What's the secret to long life? According to Nonaka (who's still living at
@@ -80,7 +80,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-23-oldest-person-dies/)
-    _key: card-10-b3f0e7cf-6cec-44a4-92f1-ca6efe76d77e
+    _key: card-10-63dce99e-d3d2-4685-9a29-72fc57a8b6cd
 
 ---
 * World’s oldest person, last survivor of 19th century, dies in Japan at 117: [https://www.usatoday.com/story/news/world/2018/04/21/worlds-oldest-person-dies-southern-japan-117-years-old/539747002/](https://www.usatoday.com/story/news/world/2018/04/21/worlds-oldest-person-dies-southern-japan-117-years-old/539747002/)

@@ -1,14 +1,14 @@
 ---
 title: 18.07.23 Shark Week
 slug: 20180723-18-07-23-shark-week
-_id: legacy-dcd0849a-236f-469d-9feb-8b8578a074bb
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-f1d899e5-564b-40a9-adeb-c71f36f81dd6
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-23-shark-week/
 _createdAt: '2018-07-23T12:03:05Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-23T12:03:05+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       Duh-Nuh, duh-nuh...
     citation: Duh-Nuh, duh-nuh...
-    _key: card-1-82de9279-a856-4c67-beb2-40218cb6ec0f
+    _key: card-1-c3019947-7bcf-4d4f-8715-fdb658ef77dc
   - order: 1
     body: >-
       1 in 3,748,067:  
@@ -51,7 +51,7 @@ cards:
       [CLICK: Odd Shark
       Odds](https://www.floridamuseum.ufl.edu/shark-attacks/odds/compare-risk/death/)
     citation: 'CLICK: Odd Shark Odds'
-    _key: card-2-184fa4d1-0276-457a-8ce9-f751a8a1bcb7
+    _key: card-2-09e72514-5425-436c-b2fa-0ea9a3350c85
   - order: 2
     body: >-
       ## JULY SHARK INCIDENTS:
@@ -63,7 +63,7 @@ cards:
       * **Fernandina Beach, FL:** Rare double shark attack minutes apart.
 
       * **San Clemente, CA:** Great white spotted feeding on dead whale.
-    _key: card-3-64567fce-15cd-4017-9276-f1d3a5b02634
+    _key: card-3-ca6c0d60-9ac1-4ac2-b6ae-2a51211cac8f
   - order: 3
     body: >-
       ## OK, Deep Breath…
@@ -77,7 +77,7 @@ cards:
       * Globally, there are**A 6 deaths/year on average**A due to unprovoked
       shark attacks, but conservationists point out about 100M sharks & rays are
       killed each year by fisheries.
-    _key: card-4-e1f73021-f364-4e0e-9d33-c696f4d11651
+    _key: card-4-0a698a3b-e62c-424b-9afc-912a3607a7e0
   - order: 4
     body: >-
       If the long odds of a shark attack don't comfort you, there are a few tips
@@ -86,7 +86,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-23-shark-week/)
-    _key: card-10-a8d4270c-4c7e-4423-ad9b-1f08efd653a4
+    _key: card-10-84daddcf-4e11-4eed-bba4-ffdcd4c9157a
 
 ---
 * **Yearly Worldwide Shark Attack Summary:A**  

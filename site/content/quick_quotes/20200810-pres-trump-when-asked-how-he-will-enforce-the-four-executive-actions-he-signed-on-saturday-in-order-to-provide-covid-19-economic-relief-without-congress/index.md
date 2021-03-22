@@ -4,26 +4,24 @@ title: >-
   He Signed without Congress.
 slug: >-
   20200810-pres-trump-when-asked-how-he-will-enforce-the-four-executive-actions-he-signed-on-saturday-in-order-to-provide-covid-19-economic-relief-without-congress
-_id: legacy-5ed0e90a-ee37-4833-b3f7-76307afba27e
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-3cc85497-3d82-4f64-92ec-21100f68740a
+_rev: f2cVhvAV1wntWw1uaABAwR
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/pres-trump-when-asked-how-he-will-enforce-the-four-executive-actions-he-signed-on-saturday-in-order-to-provide-covid-19-economic-relief-without-congress/
 _createdAt: '2020-08-09T18:54:37Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:53Z'
 date: '2020-08-09T18:54:37+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    bd8ae21b577a6e0cc7989450380515fe397e9f45-1920x855.jpg
 is_breaking: false
-summary: >-
-  Pres. Trump, when asked how he’ll enforce the COVID-19 economic relief order
-  he signed without Congress.
 featured_quote:
   quote: We have plenty of money.
-  citation: >-
-    Pres. Trump, when asked how he’ll enforce the COVID-19 economic relief order
-    he signed without Congress.
 
 ---
 * 
@@ -43,4 +41,4 @@ Pres. Trump received criticisms from legislators from both sides of the aisle �
 
   * House Speaker Nancy Pelosi (D-CA) [said](https://www.facebook.com/NancyPelosi/) “_President Trump’s meager executive actions **do little for working families.** Republicans must come back to the negotiating table, meet us halfway and work toward a compromise that will truly help American workers and familie_s.”
   * Senator Ben Sasse (R-NE) [said](https://www.sasse.senate.gov/public/index.cfm/press-releases?ID=7E22ECEA-CE33-4E4E-B109-6C0ED418170F) “_The pen-and-phone theory of executive lawmaking is unconstitutional slop. President Obama did not have the power to unilaterally rewrite immigration law with DACA, and President **Trump does not have the power to unilaterally rewrite the payroll tax law.** Under the Constitution, that power belongs to the American people acting through their members of Congress_.”
-  * The President meanwhile accused the Democrats of too many “add-ons” to a stimulus bill: _“…what the Democrats primarily want is bailout money…They want to bailout states that have been badly managed by Democrats, badly run by Democrats for many years — and, in fact, in all cases, many decades. And we’re not willing to do that.” Read the [President’s comments HERE](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-press-briefing-080920/)_�s comments HERE](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-press-briefing-080920/)_
+  * The President meanwhile accused the Democrats of too many “add-ons” to a stimulus bill: _“…what the Democrats primarily want is bailout money…They want to bailout states that have been badly managed by Democrats, badly run by Democrats for many years — and, in fact, in all cases, many decades. And we’re not willing to do that.” Read the [President’s comments HERE](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-press-briefing-080920/)_

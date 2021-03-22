@@ -1,14 +1,14 @@
 ---
 title: 18.07.03 New Laws
 slug: 20180704-18-07-03-new-laws
-_id: legacy-10b6d6f9-1088-43de-84b2-4d92fa7d97fe
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-a52044bc-7034-4fbd-b1f0-fd4404c0a7ea
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-03-new-laws/
 _createdAt: '2018-07-03T11:00:23Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-03T11:00:23+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Practical to bizarre...
     citation: Practical to bizarre...
-    _key: card-1-e0c2b78d-ff3e-4222-8de0-f34619d5ce4a
+    _key: card-1-cd277158-79e3-4375-aa43-0b3ba6972f84
   - order: 1
     body: >-
       # No Plastic Straws & Utensils in Seattle
@@ -45,7 +45,7 @@ cards:
       paper, steel & bamboo.
 
       * 1st major city to do so; NYC introduced similar legislation in May.
-    _key: card-2-801d19b9-5048-4112-b827-bd907466b985
+    _key: card-2-fba86467-698f-4172-bab9-df9125ccaf12
   - order: 2
     body: >-
       ## Must Be 18 Years or Older to Marry in Florida
@@ -59,7 +59,7 @@ cards:
       * Old law allowed 16- & 17-year-olds to marry with parental consent.
 
       * Law stems from forced, minor marriages.
-    _key: card-3-c22a9e2b-a8e8-4fe2-86c4-7fd56ca1e525
+    _key: card-3-0226aa5a-41b9-4803-bad3-60f4597dc960
   - order: 3
     body: >-
       ## More Recess in Virginia
@@ -73,7 +73,7 @@ cards:
 
       * Others will likely add time as well – as long as itA does not exceed 15%
       of total instructional time or teaching hours.
-    _key: card-4-fa9da085-99c3-4974-ab4f-ef8c572c10d3
+    _key: card-4-f5cd0b73-033f-4d41-ba49-6de95f30adcc
   - order: 4
     body: >-
       ## Don’t Dial & Drive
@@ -89,7 +89,7 @@ cards:
       years.
 
       * ALSO, new law in Arizona bans teen drivers from using phones.
-    _key: card-5-0ab22462-9bcc-469f-818f-b8c478d82f77
+    _key: card-5-b7ed98d3-2c11-4f5c-b326-dd6039f0be83
   - order: 5
     body: >-
       ## No Eyeball Tattooing in Indiana
@@ -103,7 +103,7 @@ cards:
       complications.
 
       * Oklahoma is the only other state with a similar law.
-    _key: card-6-89a555e9-b9a8-44f9-91a9-b97d58fcbc37
+    _key: card-6-985bd7c6-b3cb-4970-ae4d-31ec6789b3bb
   - order: 6
     body: >-
       ## No Slow Pokes in the Left Lane in Idaho
@@ -116,7 +116,7 @@ cards:
       drivers who are traveling at the speed limit.
 
       * Citations would be handled like a speeding ticket & could cost you $90.
-    _key: card-7-7e71ec7b-db72-4f4c-b290-69b6bc176473
+    _key: card-7-cfe3944f-14ae-4363-b419-ed9f696a5e3e
   - order: 7
     body: >-
       Hundreds of new laws went into effect on July 1 for many state & local
@@ -125,7 +125,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-03-new-laws/)
-    _key: card-10-cd0f113f-4986-4688-ae73-7a7c3a1f0ff8
+    _key: card-10-70b30695-dbff-4641-aafc-038058dac644
 
 ---
 * **Seattle becomes first major city in U.S. to enact plastic straw, utensil ban:**  

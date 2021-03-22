@@ -1,14 +1,14 @@
 ---
 title: 18.07.15 Amazon Prime Day Drivers Duel
 slug: 20180716-18-07-15-amazon-prime-day-drivers-duel
-_id: legacy-0f69e83d-8b94-4059-86aa-2e619cd8c553
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-c498a792-df28-45ca-9174-1eccb86803b6
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-15-amazon-prime-day-drivers-duel/
 _createdAt: '2018-07-16T11:10:13Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-16T11:10:13+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       Who's In The Lead?
     citation: Who's In The Lead?
-    _key: card-1-a1beb1cc-f609-4e90-9205-0e56c2512771
+    _key: card-1-9012b2bd-f630-4ace-a81b-b2e5306b512b
   - order: 1
     body: >-
       ## Summer Shopping Holiday
@@ -46,7 +46,7 @@ cards:
 
       * More than half of America’s households are Amazon Prime members – proof
       that online convenience & free, fast shipping matters to consumers.
-    _key: card-2-850eddc9-681a-4dda-b4f5-795d617fc7e1
+    _key: card-2-91affe6b-a204-400d-a26f-bf4d4245c3f7
   - order: 2
     body: >-
       # Who Can Compete With Amazon Delivery?
@@ -61,7 +61,7 @@ cards:
 
       * 5,000+ stores = instant shipping centers IF they can master logistics.
       **Recently launched same-day text-order trial ‘Jetblack.’**
-    _key: card-3-dc17ffa7-33be-426f-8d61-0f502eb92c1b
+    _key: card-3-7aad2c61-f9b6-4f94-8b56-b32af39864ff
   - order: 3
     body: >-
       ## Amazon’s New Strategy
@@ -79,7 +79,7 @@ cards:
         
         
       Amazon, Press Release
-    _key: card-4-40bbf729-1d77-4451-9682-76431c9725f4
+    _key: card-4-a56184ba-4a87-4414-979f-9788970150b0
   - order: 4
     body: >-
       That's not all. Target bought a company called "Shipt" to try to up its
@@ -90,7 +90,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-07-15-amazon-prime-day-drivers-duel/)
-    _key: card-10-7790a6ef-c425-4755-b033-765f910e7d58
+    _key: card-10-2400cef6-4682-479b-8c3e-e0a72a31e371
 
 ---
 * The unintentional winners of Prime Day: Amazon”s competitors:A  

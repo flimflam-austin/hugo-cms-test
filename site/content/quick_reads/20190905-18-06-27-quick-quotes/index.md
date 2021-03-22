@@ -1,14 +1,14 @@
 ---
 title: 18.06.27 Quick Quotes
 slug: 20190905-18-06-27-quick-quotes
-_id: legacy-0c55f630-d012-4f49-a040-eb97f99bae06
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-0c268868-438c-4039-a36e-bf6475ab507a
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-06-27-quick-quotes/
 _createdAt: '2018-06-28T11:05:01Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-06-28T11:05:01+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
       after news President Trump will meet face-to-face with Russian President
       Vladimir Putin during a July trip to Europe. Bolton met with Putin and
       Russian officials Wednesday to discuss the summit.
-    _key: card-1-c36146c8-25f0-4393-bc43-659610d4c7ef
+    _key: card-1-abc407c5-340f-4b8a-938a-aeb437e7ed0e
   - order: 1
     body: >-
       > “This is something for us to reckon with. This is historic. I am sure
@@ -39,7 +39,7 @@ cards:
       Joachim Low, manager of Germany's World Cup team, after Germany lost in
       the first round of the World Cup for the first time since 1938; South
       Korea came away with an underdog victory of 2-0.
-    _key: card-2-ffea40f7-e406-4576-8ba8-bfd842a6f821
+    _key: card-2-f13d6526-eaa8-4453-bdf8-bd79653e549d
   - order: 2
     body: >-
       > “Please permit me by this letter to express my profound gratitude for
@@ -55,7 +55,7 @@ cards:
 
       [Click: Background](https://smarthernews.com/18-06-28-kennedy-scotus/)
     citation: 'Click: Background'
-    _key: card-3-12988855-9f1d-4a40-a301-391e66ff7bb4
+    _key: card-3-c7f4211f-c98c-405d-8845-0912fb5fffca
   - order: 3
     body: >-
       > “I will always love you! You gave us strength, you made us one of the
@@ -68,13 +68,13 @@ cards:
       La Toya Jackson, reflecting on the death of her father, Joe Jackson who
       died at the age of 89. Her brother, Michael Jackson, both praised &
       criticized his father/manager.
-    _key: card-4-d3cac73e-a451-4902-8dd8-5ed5edf6bade
+    _key: card-4-afb31000-8412-4482-b74a-fe0b652080b0
   - order: 4
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-06-27-quick-quotes/)
-    _key: card-10-f16b8c6b-1e6e-478c-8c8f-84d57fcde7cf
+    _key: card-10-573c4af6-dfaa-44d0-870f-f45b32970576
 
 ---
 * **Trump, Putin to hold summit: Kremlin:**  

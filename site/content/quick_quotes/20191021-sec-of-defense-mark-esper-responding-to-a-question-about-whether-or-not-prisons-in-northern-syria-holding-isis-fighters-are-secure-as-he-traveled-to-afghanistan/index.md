@@ -5,30 +5,22 @@ title: >-
   Afghanistan.
 slug: >-
   20191021-sec-of-defense-mark-esper-responding-to-a-question-about-whether-or-not-prisons-in-northern-syria-holding-isis-fighters-are-secure-as-he-traveled-to-afghanistan
-_id: legacy-8d665f0a-92ca-4eb2-861b-8b030c0d012b
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-8f47dd2a-12a1-410e-9940-f8d31622f972
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/sec-of-defense-mark-esper-responding-to-a-question-about-whether-or-not-prisons-in-northern-syria-holding-isis-fighters-are-secure-as-he-traveled-to-afghanistan/
 _createdAt: '2019-10-21T20:25:51Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-10-21T20:25:51+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  Sec. of Defense Mark Esper responding to a question about whether or not
-  prisons in northern Syria holding ISIS fighters are secure as he traveled to
-  Afghanistan.
 featured_quote:
   quote: >-
     I can't assess whether that's true or not without having people on the
     ground.
-  citation: >-
-    Sec. of Defense Mark Esper responding to a question about whether or not
-    prisons in northern Syria holding ISIS fighters are secure as he traveled to
-    Afghanistan.
 
 ---
 * Thousands of terrorists and their families were being held in prisons supervised by Kurdish forces, who have now been pushed out by Turkey.

@@ -1,14 +1,14 @@
 ---
 title: 02.19.18 Trump Daca
 slug: 20180323-02-19-18-trump-daca
-_id: legacy-e2024663-a84f-4ce0-baa4-9c9ceee66daa
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-05a4f3bd-d3af-484d-a5eb-a6b6049f0d6d
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 02-19-18-trump-daca/
 _createdAt: '2018-03-20T11:00:54Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-20T11:00:54+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
         
         
       President Trump, Twitter, March 19, 2018 8:38 pm est.
-    _key: card-1-76a7720c-c800-4233-90c2-95d18bc1f914
+    _key: card-1-466cb196-416f-4b23-9305-d296d966f3b4
   - order: 1
     body: >-
       ## Refresher: DACA
@@ -46,7 +46,7 @@ cards:
 
       * Pres. Trump: **Offered citizenship for DACA recipients** in State of the
       Union speech as part of broader immigration reform.
-    _key: card-2-5df0ff7a-1ead-41f9-b3d3-f0546c995cfb
+    _key: card-2-effc3504-4ceb-4ed3-8b4c-9180eaa41404
   - order: 2
     body: >-
       ## What’s The Drama?
@@ -59,7 +59,7 @@ cards:
       * **Report:** Dems want more illegal immigrants eligible for a pathway to
       citizenship – a non-starter for GOP who didn’t like Trump’s offer of
       citizenship for DACA recipients to begin with.
-    _key: card-3-cdf22d02-ae0c-4fca-82e2-5fff198525f8
+    _key: card-3-28f29a3b-3192-49f2-b9aa-50537509d989
   - order: 3
     body: >-
       ## Big Picture
@@ -73,7 +73,7 @@ cards:
       shuts down – for the **3rd time this year**.
 
       * Potentially last big legislative fight before mid-term elections in Nov.
-    _key: card-4-b9d90bb1-2c98-48a5-b65b-179a1454a24b
+    _key: card-4-41b5f917-888b-446b-8308-f5fe520575f8
   - order: 4
     body: >-
       Immigration reform isn't the only issue of debate. P.S. In 1977, the
@@ -82,7 +82,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/02-19-18-trump-daca/)
-    _key: card-10-046eb9ca-5d91-4b66-a061-ffa93dab49fd
+    _key: card-10-b16c1fd7-ef9d-4a5c-b70d-beb1826e5889
 
 ---
 * White House, Dems restart negotiations over DACA, funding border wallA [http://www.foxnews.com/politics/2018/03/19/white-house-dems-restart-negotiations-over-daca-funding-border-wall.html](http://www.foxnews.com/politics/2018/03/19/white-house-dems-restart-negotiations-over-daca-funding-border-wall.html)

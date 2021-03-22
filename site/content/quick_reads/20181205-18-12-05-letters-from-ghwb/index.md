@@ -1,14 +1,14 @@
 ---
 title: 'George h.w. Bush: in His Own Words'
 slug: 20181205-18-12-05-letters-from-ghwb
-_id: legacy-de945547-82c6-4615-ae72-90d0905eb76b
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-13975454-f660-4845-a4b9-3ee8e9b9f494
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 18-12-05-letters-from-ghwb/
 _createdAt: '2018-12-05T12:24:08Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-12-05T12:24:08+00:00'
 weight: 50
 featured_image:
@@ -20,7 +20,7 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     body: "In a September 1998 letter to his children, he wrote Remember the old song a\x18I’ll Be There Ready When You Are'? Well, I’ll be there ready when you are where there is so much excitement ahead, so many grandkids to watch grow. If you need me, I’m here. Devotedly, Dad.’\n\n[view sources](https://smarthernews.com/18-12-05-letters-from-ghwb/)"
-    _key: card-10-8736f8e1-eea8-409f-94db-1adfda63edcf
+    _key: card-10-e4c9c246-c120-4720-a01d-9354164c7c40
 
 ---
 * **Destiny and Power: The American Odyssey of George Herbert Walker Bush:**  

@@ -1,14 +1,14 @@
 ---
 title: 18.03.26 Final Four
 slug: 20180326-18-03-26-final-four
-_id: legacy-03979a1a-6bf6-474f-8c03-35c52d0ed486
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-b5c11ff7-67be-4eea-abfb-d21538ec8879
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-26-final-four/
 _createdAt: '2018-03-26T08:00:59Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-26T08:00:59+00:00'
 weight: 50
 featured_image:
@@ -38,7 +38,7 @@ cards:
 
       FLIP HERE FOR MORE
     citation: FLIP HERE FOR MORE
-    _key: card-1-7767331c-954e-49a5-acbd-1b7042b3d4b8
+    _key: card-1-35be9f0e-da87-46a3-a5db-6f906e7edd66
   - order: 1
     body: >-
       PHRASE TO KNOW:  
@@ -55,7 +55,7 @@ cards:
 
       ok, ok... So Who Should I cheer For?
     citation: ok, ok... So Who Should I cheer For?
-    _key: card-2-58f859fd-3356-4c89-9bd3-6cb3d2f8ab2e
+    _key: card-2-a87d2357-a8de-4c76-8806-1940794411c0
   - order: 2
     body: >-
       # 11 LOYOLA-CHICAGO
@@ -78,7 +78,7 @@ cards:
 
       FLIP FOR WHO THEY PLAY
     citation: FLIP FOR WHO THEY PLAY
-    _key: card-3-1f994fbb-03cd-4b9e-9be1-d5f77d438bdf
+    _key: card-3-2760b71e-ad9e-4043-a745-cf83069b22ee
   - order: 3
     body: >-
       # 3 MICHIGAN
@@ -97,7 +97,7 @@ cards:
 
       * **Fun fact:** Despite the mascot,A there are **no wild wolverines** in
       Michigan.
-    _key: card-4-ada66146-4a6b-4455-a599-b22da2e3389a
+    _key: card-4-155b6224-87ba-4ef0-84c1-25e684769079
   - order: 4
     body: >-
       # 1 VILLANOVA
@@ -120,7 +120,7 @@ cards:
 
       flip for who they play
     citation: flip for who they play
-    _key: card-5-1de6d56a-39cd-4e4b-8abd-373dd25cbcb3
+    _key: card-5-97d9fa04-89fd-4a1b-b7e9-97e590e58346
   - order: 5
     body: >-
       # 1 KANSAS
@@ -144,7 +144,7 @@ cards:
       [Listen to "Rock
       Chalk"](http://communicators.ku.edu/resources/audio/chant.mp3)
     citation: Listen to "Rock Chalk"
-    _key: card-6-481b532b-0e26-4970-8f0a-c4f59a19878c
+    _key: card-6-838c90f5-f293-4b38-8370-b12e769b24eb
   - order: 6
     body: >-
       Play starts March 31st in San Antonio at Alamodome. No matter who is
@@ -153,7 +153,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-26-final-four/)
-    _key: card-10-f74345ea-2457-4ecb-adc8-39656af24038
+    _key: card-10-24c5543f-9ebe-412b-9893-1faa05f9f101
 
 ---
 * 2018 NCAA Tournament: When is the Final Four? Time, date, schedule, city, location, TV info [https://www.cbssports.com/college-basketball/news/2018-ncaa-tournament-when-is-the-final-four-time-date-schedule-city-location-tv-info/](https://www.cbssports.com/college-basketball/news/2018-ncaa-tournament-when-is-the-final-four-time-date-schedule-city-location-tv-info/)

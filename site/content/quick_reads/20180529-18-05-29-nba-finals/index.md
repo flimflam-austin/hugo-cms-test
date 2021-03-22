@@ -1,14 +1,14 @@
 ---
 title: 18.05.29 Nba Finals
 slug: 20180529-18-05-29-nba-finals
-_id: legacy-ac9cb4b9-ff70-4684-a0d6-1fff94396fec
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-56a82ad8-0e94-4fc3-bfe6-66d43f2fd806
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-29-nba-finals/
 _createdAt: '2018-05-29T10:17:04Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-05-29T10:17:04+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       FLIP FOR WHY
     citation: FLIP FOR WHY
-    _key: card-1-7fdd9b85-c8a3-4055-ab16-0aae4135f90b
+    _key: card-1-94b34136-678f-4616-a7e5-0fbcf8c9d979
   - order: 1
     body: >-
       ## Golden State Warriors
@@ -58,7 +58,7 @@ cards:
       * Won 2 of the last 3 NBA Finals.
 
       * Deep bench with sharp-shooters.
-    _key: card-2-1bc6b548-c0e1-4e40-b976-cf7393a436d6
+    _key: card-2-172dc4cf-be82-475a-a734-3bf8194d0621
   - order: 2
     body: >-
       ## Cleveland Cavaliers
@@ -79,7 +79,7 @@ cards:
 
       * With a weak roster, **he played all 48 mins** of Game 7 vs. Boston
       Celtics getting them to the Finals.
-    _key: card-3-a7d328a9-f352-4759-99d5-30bd26eed70b
+    _key: card-3-866dbf16-56d8-41d7-a8b9-5c1127fe73af
   - order: 3
     body: >-
       The twist in all this? LeBron is free to join a different team next season
@@ -89,7 +89,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-29-nba-finals/)
-    _key: card-10-69719612-a2f2-4b3f-9b34-2a19a1832fd5
+    _key: card-10-32ed614b-3579-41a2-a934-23270a0126d0
 
 ---
 * **NBA: A How the Warriors and Cavaliers keep making history with another NBA Finals meeting:A** [http://www.sacbee.com/sports/nba/article212088599.html](http://www.sacbee.com/sports/nba/article212088599.html)

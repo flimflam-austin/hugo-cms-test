@@ -1,14 +1,14 @@
 ---
 title: 18.08.07 Qq
 slug: 20190905-18-08-07qq
-_id: legacy-851be6d1-8777-4c97-9e07-fa12be2bd9ac
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-97db65a8-d586-45cf-a675-1fc7602c7e5c
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-07qq/
 _createdAt: '2018-08-07T11:45:11Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-07T11:45:11+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       Rock On
     citation: Rock On
-    _key: card-1-956170f5-6300-45d5-bc6c-5e0a30c0f60c
+    _key: card-1-ee269cb9-92fe-487f-9269-70a19f2cf49a
   - order: 1
     body: >-
       > ‘That’s not realistic. I can’t do that.’  
@@ -42,7 +42,7 @@ cards:
       School of Medicine, stating her reaction when people make requests to look
       like their filtered and edited social media photographs. She co-authored a
       piece addressing: ‘Snapchat dysmorphia.
-    _key: card-2-25e0a905-5425-4cc3-a0db-a47d96486751
+    _key: card-2-8cac5419-c685-4f9e-ad36-c44747afc957
   - order: 2
     body: >-
       > “Look, we have a heavy heart. Our souls are burdened. We are a better
@@ -52,7 +52,7 @@ cards:
         
       Chicago Mayor Rahm Emanuel reacting to this weekend's 12 fatal and 63
       non-fatal shootings in America's third-largest city.
-    _key: card-3-507af6ec-22a4-422a-9209-4ced0ac7643c
+    _key: card-3-cc26ad51-32fe-42f9-b221-b2120b7f3097
   - order: 3
     body: >-
       > “Yes.”  
@@ -67,13 +67,13 @@ cards:
 
       [SHN Refresher](https://smarthernews.com/18-07-31-manafort/)
     citation: SHN Refresher
-    _key: card-4-393ce3b6-14e3-474c-945d-a4d85db8dd35
+    _key: card-4-5f4fce20-2763-4804-b83a-81c11f56509a
   - order: 4
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-08-07qq/)
-    _key: card-10-9e7bf825-0e5e-4bb4-8db2-987307440921
+    _key: card-10-2f051e66-eaf3-4aae-a769-c76b81361a10
 
 ---
 * **Elderly men escape nursing home to go to Wacken metal festival:** [https://www.dw.com/en/elderly-men-escape-nursing-home-to-go-to-wacken-metal-festival/a-44955305](https://www.dw.com/en/elderly-men-escape-nursing-home-to-go-to-wacken-metal-festival/a-44955305)

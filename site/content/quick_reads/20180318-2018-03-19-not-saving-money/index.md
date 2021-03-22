@@ -1,14 +1,14 @@
 ---
 title: 2018.03.19 Not Saving Money
 slug: 20180318-2018-03-19-not-saving-money
-_id: legacy-e482922f-805d-479a-ac41-11f51270202d
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-773f80d8-4976-4fbb-9f45-95555d6c4d7d
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 2018-03-19-not-saving-money/
 _createdAt: '2018-03-19T13:30:12Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-19T13:30:12+00:00'
 weight: 50
 featured_image:
@@ -38,7 +38,7 @@ cards:
 
       WHY THIS IS WORRISOME
     citation: WHY THIS IS WORRISOME
-    _key: card-1-28259918-3857-480a-a93b-36f14d6a3b80
+    _key: card-1-182d5de2-2398-40f4-9312-d49c65c6d8a9
   - order: 1
     body: >-
       ## Encouraging Economy = NOT Encouraging Savings
@@ -53,7 +53,7 @@ cards:
 
       * S&P 500 (a gauge of stock market performance) is up 3% in 2018, after
       21% rise last year.
-    _key: card-2-9e05a174-3f6e-4d62-a45f-c976a8b31780
+    _key: card-2-1e7a6bd6-e818-431f-97c3-9f49b00f0d7f
   - order: 2
     body: >-
       ## WHY AREN’T WE SAVING?
@@ -71,7 +71,7 @@ cards:
       [READ THE BANKRATE SURVEY
       HERE](https://www.bankrate.com/banking/savings/financial-security-0318/)
     citation: READ THE BANKRATE SURVEY HERE
-    _key: card-3-1a0ae0f8-12df-48be-b8ea-be3ab47996cc
+    _key: card-3-c5ad7ed2-bf28-448d-b7c3-b11496bddcee
   - order: 3
     body: >-
       # FINANCIAL FAIL
@@ -84,7 +84,7 @@ cards:
         
         
       Mark Hamrick, Bankrate Analyst
-    _key: card-4-b1a8d6fb-6b22-429f-98f2-3a95ae63d326
+    _key: card-4-bb74ea62-eb57-4fb2-8a6d-0be73ac2a7e8
   - order: 4
     body: |-
       ## So How Much Do I Need To Retire?
@@ -96,13 +96,13 @@ cards:
       3x at age 40  
       7x at age 55  
       10x at age 67
-    _key: card-5-95be6884-b046-4f55-8c3c-c0bc53af4d36
+    _key: card-5-4abf60f7-7fa3-4304-a5a7-48957d4909f8
   - order: 5
     body: |-
       Ready to Retire? See how your savings stack up here:
 
       [view sources](https://smarthernews.com/2018-03-19-not-saving-money/)
-    _key: card-10-569774f3-3a8b-44d2-b93a-a1e1f257567e
+    _key: card-10-1c364860-6976-4696-8b24-3f6ee8ee183d
 
 ---
 * Bankrate’s Study -A Despite an improving economy, 20% of Americans aren”t saving any money: [https://www.bankrate.com/banking/savings/financial-security-0318/](https://www.bankrate.com/banking/savings/financial-security-0318/)

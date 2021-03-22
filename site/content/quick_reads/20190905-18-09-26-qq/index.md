@@ -1,14 +1,14 @@
 ---
 title: Quick Quotes for Wednesday, September 26
 slug: 20190905-18-09-26-qq
-_id: legacy-4fce6d98-b0ca-4425-ae6f-d1b2c50ca074
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-ed8d7974-9a3e-4bf7-bbf5-eb4a57628fc3
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-26-qq/
 _createdAt: '2018-09-26T11:45:14Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-26T11:45:14+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       Honor for his heroism during one of the bloodiest battles of the Vietnam
       war. Canley, injured in battle, risked his own life to save his fellow
       Marines.
-    _key: card-1-8192a051-8094-4d93-9bf8-6693565ae34d
+    _key: card-1-e1e68660-b654-4a4d-a367-e26529c125e1
   - order: 1
     body: >-
       > “We may never know the full extent of his double life as a sexual
@@ -42,7 +42,7 @@ cards:
       assault. Cosby was sentenced to 3-11 years for assaulting Constand in
       2004. The judge said Constand's statement impacted him & ordered Cosby
       immediately to prison.
-    _key: card-2-bb86d11d-25ed-4351-9b25-05603eb6b59f
+    _key: card-2-dd6753da-257a-4a9b-ae62-a3940118838f
   - order: 2
     body: >-
       > “Americans under the age of 45 have found a novel way to rebel against
@@ -54,7 +54,7 @@ cards:
       divorce rate to plummet". The U.S. divorce rate is falling and researchers
       say that might be because younger Americans are choosing to get married
       older, and those who make the decision to marry, want to stay...married.
-    _key: card-3-9c1cc6ea-1a82-48ea-8113-df2dc0c8d6f6
+    _key: card-3-a98b09f0-581b-4b2b-a8e8-8a202914a8a1
   - order: 3
     body: >-
       > ‘It’s a feasible, viable and a safe option.’  
@@ -66,13 +66,13 @@ cards:
       Appendicitis is one of the most common emergency surgeries in the world.
       Doctors found a 64% success rate for those treated with antibiotics;
       others still needed the surgery.
-    _key: card-4-70ecf419-4d5a-43b9-8ec7-f2a223d9927d
+    _key: card-4-e9f8c67f-8075-4026-9312-7038213e7eb3
   - order: 4
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-09-26-qq/)
-    _key: card-10-fbe5d4f5-7752-4e8b-a21a-aa51f4b48f45
+    _key: card-10-0cb398e3-46d4-4c25-b4f7-5b4fc63a5bb5
 
 ---
 * **President Trump to award Medal of Honor to Marine whose heroism in Vietnam saved lives”**  

@@ -1,14 +1,14 @@
 ---
 title: 18.05.01 New York City Makeover
 slug: 20180501-18-05-01-new-york-city-makeover
-_id: legacy-a8517ff8-4339-43cd-8088-e3561e77f112
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-210fbcff-5f84-4401-ae53-54e9096c8678
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-01-new-york-city-makeover/
 _createdAt: '2018-05-02T10:55:13Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-02T10:55:13+00:00'
 weight: 50
 featured_image:
@@ -37,7 +37,7 @@ cards:
 
       Flip: What's Going On
     citation: 'Flip: What''s Going On'
-    _key: card-1-1c9acbd0-d49c-4537-9ba1-c54a0230065f
+    _key: card-1-16e2eefe-2ae5-43f1-bf27-9ae72f1c8e7c
   - order: 1
     body: >-
       Historic Jeweler Promoting *New Collection*
@@ -54,7 +54,7 @@ cards:
         
         
       Reed Krakoff , Tiffany & Co. Chief Artistic Officer, to Vogue
-    _key: card-2-df7efd94-1249-4dad-bc3c-aa879bead18d
+    _key: card-2-d0b58e43-28e2-45b6-a035-14e809a95af9
   - order: 2
     body: >-
       ## Not Just Taxi Cabs…
@@ -68,7 +68,7 @@ cards:
       Flowers**” collection.
 
       * Color set to disappear from NYC streets May 4th.
-    _key: card-3-c1c77ecb-879c-4cf6-88fc-57e75671010f
+    _key: card-3-64fedab1-a655-4cd8-b72a-992f1ab9e87f
   - order: 3
     body: >-
       To bring people "in" to the project and help spread the brand (knowingly
@@ -77,7 +77,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-01-new-york-city-makeover/)
-    _key: card-10-b2d01545-1e78-4c1a-877a-7f81bffda1d5
+    _key: card-10-d87bd772-3801-4dc5-901f-d398fbc07248
 
 ---
 * **Custom Google Map:**A [https://www.google.com/maps/d/viewer?ll=40.730664244604164%2C-73.99036241586913&hl=en&z=14&mid=1xbGLJNqWv_RyuJQzOZQbnWpI35FP6tBR](https://www.google.com/maps/d/viewer?ll=40.730664244604164%2C-73.99036241586913&hl=en&z=14&mid=1xbGLJNqWv_RyuJQzOZQbnWpI35FP6tBR)

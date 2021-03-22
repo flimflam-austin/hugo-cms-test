@@ -1,14 +1,14 @@
 ---
 title: 18.06.08 Triple Crown
 slug: 20180608-18-06-08-triple-crown
-_id: legacy-2e776273-9240-4839-8522-8ba818d44854
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-8b90823b-67ac-479e-a840-10797c7c748d
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-08-triple-crown/
 _createdAt: '2018-06-08T10:43:24Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-08T10:43:24+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Flip: RARE MARE
     citation: 'Flip: RARE MARE'
-    _key: card-1-59bf6775-31da-46d5-a52d-8979e2bfd149
+    _key: card-1-054d86dd-45b3-461c-8641-80d6f3f4cf36
   - order: 1
     body: >-
       ## TRIPLE CROWN HISTORY
@@ -43,7 +43,7 @@ cards:
 
       * Most recently, AmericanA Pharaoh won the Triple Crown in 2015 – ending a
       37-year Triple Crown drought.
-    _key: card-2-c251f341-2186-4f38-adc0-aa1247c0858e
+    _key: card-2-827d0f50-a1fb-4337-a21e-77a441cce745
   - order: 2
     body: >-
       # Horse to Know: Justify
@@ -59,7 +59,7 @@ cards:
       * **Justify is favored with 4/5 odds**.
 
       * **Biggest challengers?**A Bravado, Vino Rosso, & Hofburg
-    _key: card-3-3743860f-8855-4a08-9bc2-abcbb7e89eaf
+    _key: card-3-77257d99-1b48-431d-8906-0831fd50a7fd
   - order: 3
     body: >-
       Watch Saturday at 4pm ET on NBC. Fun Fact: an equal percentage of men &
@@ -69,7 +69,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-08-triple-crown/)
-    _key: card-10-59d5fe13-db14-41dd-985c-6255354686b4
+    _key: card-10-c52f88e5-d04e-48eb-9ce4-f2394c3e00e3
 
 ---
 * **HISTORY: List of Triple Crown Winners:**  

@@ -1,14 +1,14 @@
 ---
 title: 18.08.08 Peloton
 slug: 20180808-18-08-08-peloton
-_id: legacy-dbcb5b72-8ae8-41df-9e0c-36925b6ef16f
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-d2311dbb-1150-42cf-b2b0-cbc0e7a60781
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-08-peloton/
 _createdAt: '2018-08-08T11:59:57Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-08T11:59:57+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       And how do you say it?
     citation: And how do you say it?
-    _key: card-1-0aa45e75-e2a4-4268-b59e-8ed643c4cf51
+    _key: card-1-dac4dd2d-e583-4f5e-860c-4a6be708c48d
   - order: 1
     body: >-
       ## The Basics
@@ -47,7 +47,7 @@ cards:
 
       * **The catch?** Spin bicycle equipped w/22-inch touch-screen costs $1,995
       & need to pay $39/month for content on the screen.
-    _key: card-2-83775c75-5032-45ef-8c5a-073e5f90c6d8
+    _key: card-2-bbc97777-37f7-48c3-8252-00f355b13d15
   - order: 2
     body: >-
       ## The Bigger Picture
@@ -60,7 +60,7 @@ cards:
 
       * CEO argues it’s a **“media company”** not just exercise equipment due to
       its **subscription-based model** (a la Netflix.)
-    _key: card-3-d16e38b9-99bc-4c1e-9316-6770a853663d
+    _key: card-3-6901a189-ca38-49f8-b63a-1759f0affc34
   - order: 3
     body: >-
       ## Reinventing the Wheel?
@@ -76,7 +76,7 @@ cards:
 
       Today,A **stationary bikes are everywhere**, even the International Space
       Station.
-    _key: card-4-506d5363-b252-409b-a90c-9e4c47a57647
+    _key: card-4-46def28b-df51-481b-9353-876fcee60a98
   - order: 4
     body: >-
       Peloton is taking pre-orders for a treadmill "Peloton Tread" with the same
@@ -86,7 +86,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-08-peloton/)
-    _key: card-10-dff48eb0-277e-4f4c-9d42-3b37c7bd4bec
+    _key: card-10-aa0e8980-7c76-4ec0-80da-67e328e0cfeb
 
 ---
 * How Peloton Created a Cult Workout in Your Living Room:  

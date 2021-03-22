@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for Monday, December 10, 2018
 slug: 20190905-18-12-10-qq
-_id: legacy-9300c8eb-644f-4cfb-90e8-fc7e0a80f699
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-e6b93430-2175-4cea-9fa8-1ea61ff55985
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - 18-12-10-qq/
 _createdAt: '2018-12-10T12:38:26Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-12-10T12:38:26+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
       this weekend - more than many areas typically see in an entire year. The
       heavy, wet snow caused trees and power lines to snap with over 200,000
       without power.
-    _key: card-1-b79aa444-8510-458d-8d2d-e8a50db7a535
+    _key: card-1-48b81594-a3de-49c6-9807-537a99ff15c9
   - order: 1
     body: >-
       > “People don’t want to stop because we want the President to go.”  
@@ -39,7 +39,7 @@ cards:
       over the cost of living in France. French President Emmanuel Macron, who
       has been the target of protesters' anger, is expected to address the
       nation Monday.
-    _key: card-2-3366a7ee-a8e5-406b-8b6a-1ad3b960a0f5
+    _key: card-2-6aba77e7-8ce9-422f-92cc-47c82817e41a
   - order: 2
     body: >-
       > ‘When I say if this deal does not pass we would truly be in uncharted
@@ -52,7 +52,7 @@ cards:
       deal to leave the European Union. She warns of grave uncertainty if no
       Brexit or leaving without a deal at all. Britain is set to leave the EU
       March 29.
-    _key: card-3-23e9eac7-f3cf-48ba-9bc6-e9a637946251
+    _key: card-3-962de07b-7636-4348-acdf-1f0f20e11da1
   - order: 3
     body: >-
       > “It’s possible that we would be interested. If they were going to sell a
@@ -65,7 +65,7 @@ cards:
       restructuring plan, which will lay off 14,000 workers to focus on electric
       vehicles, like Tesla. However, Tesla's financial viability is often a
       matter of great debate.
-    _key: card-4-4441800b-1f01-4c6d-976f-e7ba207953e7
+    _key: card-4-02240417-2464-49ec-939a-670cbb6d1cc6
   - order: 4
     body: >-
       > “Imagine the loyalty of hanging in in the worst of circumstances and
@@ -78,13 +78,13 @@ cards:
       month until his owner returned. Gaylord was forced to flee immediately on
       Nov. 8 when the fire broke out, but an animal rescuer made sure her male
       Anatolian shepherd mix was given water and food regularly.
-    _key: card-5-72790c9a-f906-4f04-9126-926ef35b8aa5
+    _key: card-5-0c70433c-7edf-4cfd-a553-39333de8c581
   - order: 5
     body: |-
       Have a good week!
 
       [view sources](https://smarthernews.com/18-12-10-qq/)
-    _key: card-10-55bf687e-8a9b-4628-9ec4-fe5c5eebf3cf
+    _key: card-10-69db6be4-9cdc-40d3-894d-4d7ed5cad1e0
 
 ---
 * **Charlotte Winter Storm:**  

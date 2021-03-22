@@ -1,14 +1,14 @@
 ---
 title: 18.04.02 Stephon Clark
 slug: 20180402-18-04-01-stephon-clark
-_id: legacy-4f865e81-4d0d-4ebe-9362-dd6400ad72db
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-1e2729c2-e83a-4f04-9007-a747f2bf29a3
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-01-stephon-clark/
 _createdAt: '2018-04-02T10:34:18Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-02T10:34:18+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/eNwCJR5iiXQ?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-61e1b042-028b-4663-842d-b4137dd3b3c0
+    _key: card-1-8f3e2759-29ab-429d-8903-ab0404301461
   - order: 1
     body: >-
       ## Timeline:
@@ -52,7 +52,7 @@ cards:
       saw a gun. 20 shots fired.
 
       * A phone, but no gun, was found.
-    _key: card-2-4774c2c0-1b06-43ec-af88-040d999e5214
+    _key: card-2-d85aef7e-9f17-4557-8169-a5e9aa25cd81
   - order: 2
     body: >-
       > “Prior to theA shooting,A the involved officers saw the suspect facing
@@ -64,7 +64,7 @@ cards:
         
         
       Sacramento Police Press Release, March 19, 2018
-    _key: card-3-b8e85431-fa85-44aa-8724-de79932df7d4
+    _key: card-3-ea025478-f989-4ff7-95b8-fdea1d3e923e
   - order: 3
     body: >-
       Investigations Ongoing:  
@@ -80,7 +80,7 @@ cards:
         
         
       Chief Daniel Hahn, Sacramento Police
-    _key: card-4-7bb4d123-0c72-4f44-b654-2182ab612a31
+    _key: card-4-73a5a132-b295-4e6b-a47c-75af105d34d6
   - order: 4
     body: >-
       ## “Local Matter”
@@ -94,7 +94,7 @@ cards:
         
       Al Sharpton, funeral of Stephon Clark, responding to the White House Press
       Sec. responding to question on shooting by saying it's a local matter.
-    _key: card-5-fd8a260a-1614-49e9-b2bd-12cf3573831d
+    _key: card-5-1be40f17-fff9-403f-8f84-726eff24793c
   - order: 5
     body: >-
       While the race of Stephon Clark is known (he's black) - the race of the
@@ -103,7 +103,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-01-stephon-clark/)
-    _key: card-10-0aa767c4-399a-4d45-b15a-3539e682b1ef
+    _key: card-10-b50762d5-ecb8-416b-94c1-224be665f3d6
 
 ---
 * The death of Stephon Clark: What we know about the Sacramento police shooting: [https://www.nytimes.com/2018/03/30/us/stephon-clark-independent-autopsy.html](https://www.nytimes.com/2018/03/30/us/stephon-clark-independent-autopsy.html)

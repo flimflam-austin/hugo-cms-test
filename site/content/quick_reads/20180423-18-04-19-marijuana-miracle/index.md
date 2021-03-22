@@ -1,14 +1,14 @@
 ---
 title: 18.04.19 Marijuana Miracle
 slug: 20180423-18-04-19-marijuana-miracle
-_id: legacy-d37af976-c393-4a4e-8bb4-f057a34a6a18
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-b3a5102e-0c54-49e1-aa59-62561c2fbbc8
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-19-marijuana-miracle/
 _createdAt: '2018-04-23T10:00:50Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-23T10:00:50+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Say What? Flip!
     citation: Say What? Flip!
-    _key: card-1-ae2bd807-c35c-4cfb-9b2a-a25f827a6fd3
+    _key: card-1-479b32f7-27f8-4e14-9072-2e0f8a255717
   - order: 1
     body: >-
       ## CBD = cannabidiol
@@ -45,7 +45,7 @@ cards:
 
       * Experimental British CBD-based drug shows itA **reduces severe
       epilepsy** for children, though no one knows exactly WHY it works.
-    _key: card-2-43955f4e-e9bc-4b65-8d49-1af0c17cdf7a
+    _key: card-2-2b190218-0693-42ff-b5fb-0d55a6c76cf6
   - order: 2
     body: >-
       ## Life-Changer?
@@ -59,7 +59,7 @@ cards:
         
       Sam Vogelstein, 16, who suffers from epilepsy and participated in the
       study. He had 100 seizures a day before taking the CPD-based drug.
-    _key: card-3-330dd990-dec2-4a34-8542-d4fb21ebd371
+    _key: card-3-69b8bbc8-7c44-48cd-a2e2-0577bbd4b70e
   - order: 3
     body: >-
       ## FDA Controls Fate
@@ -71,7 +71,7 @@ cards:
 
       * Right now, CBD oil used by those with epilepsy AND those with muscle
       pain in states that allows its sale.
-    _key: card-4-c1dbbc53-de6d-421d-966b-b504e735b3e8
+    _key: card-4-7845eb3a-b695-4d4a-a3b9-4838aa62678c
   - order: 4
     body: >-
       Today, medical marijuana is legal in 29 states & DC. Did you know
@@ -80,7 +80,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-19-marijuana-miracle/)
-    _key: card-10-2658ddb1-8562-4a84-8cd6-5bd2732f6b11
+    _key: card-10-b6c7b10d-f987-44b8-bdda-7a6cb5d32daf
 
 ---
 * F.D.A. Panel Recommends Approval of Cannabis-Based Drug for Epilepsy:  

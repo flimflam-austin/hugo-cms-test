@@ -1,14 +1,14 @@
 ---
 title: 18.05.09 Quotes
 slug: 20180509-18-05-09-quotes
-_id: legacy-4b0d94cc-94b0-42aa-9beb-69685dc3451b
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-30ba6e9d-48c9-422b-ae2e-2510a11d2b60
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-09-quotes/
 _createdAt: '2018-05-09T10:28:22Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-09T10:28:22+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
       "free-range parenting" law preventing parents from being prosecuted for
       allowing kids to roam on their own. New York & New Jersey are now
       considering one too.
-    _key: card-1-21fea7db-5319-4237-84a1-504bb9648c23
+    _key: card-1-eae289e4-f73b-408e-814a-4b90fe9ba03d
   - order: 1
     body: >-
       > **“Within the U.S. national security community and among our allies
@@ -49,10 +49,10 @@ cards:
       [CLICK FOR
       Refresher](https://smarthernews.com/18-05-01-gina-haspel-personal-life/)
     citation: CLICK FOR Refresher
-    _key: card-2-4752e065-3f6a-4922-8f57-b3880e23dd3b
+    _key: card-2-770ae19d-90f2-4210-8067-40edf93380ad
   - order: 2
     body: "> **‘Hey Old Friend a\x14 I’ve been doing some reflecting on past miscommunications and hurt feelings between us…”**  \n  \n  \n  \nDeeply sorry Katy Perry sent a literal olive branch to Taylor Swift which Swift share on Instagram. The years-long feud reportedly started over backup dancers, and may have sparked Swift's 2004 song Bad Blood. Swift's Reputation tour kicked off Tuesday in Phoenix."
-    _key: card-3-45ff1dd3-0e68-42d4-8992-aadf06d52862
+    _key: card-3-e89ce6a4-3436-4b3f-9ee0-668dc85a4ae3
   - order: 3
     body: >-
       > **“Driven by increases in cocaine, methamphetamine and marijuana, drug
@@ -65,7 +65,7 @@ cards:
       amphetamines positivity surging in some areas of the country and marijuana
       positivity rising sharply in states that have made it legal. Prescription
       opiate positivity rates declined dramatically on national basis.
-    _key: card-4-ff3bcf34-676f-4c55-9239-740136d2e8bc
+    _key: card-4-e6dd3920-d679-427b-ac3b-3251589e5313
   - order: 4
     body: >-
       > **‘No selfies and pictures on the red carpet. Thank you. Offenders will
@@ -78,13 +78,13 @@ cards:
       all. The festival's director has called selfie-taking ‘grotesque’ & said
       they interrupt the elegance of the prestigious red carpet, lined by
       photographers.
-    _key: card-5-060205e7-81eb-4e2e-8a78-150cd4675161
+    _key: card-5-090a900e-3c11-4d45-8f74-3ec38b83ead1
   - order: 5
     body: |-
       Click to learn more
 
       [view sources](https://smarthernews.com/18-05-09-quotes/)
-    _key: card-10-23f5db16-be1c-4719-a344-fcc3d2594740
+    _key: card-10-aad20675-546e-44a5-b6b6-ff10a005b5c7
 
 ---
 * **Utah’s “free-range parenting” law gives kids more freedom to roam:** [https://www.cbsnews.com/news/utahs-free-range-parenting-law-gives-kids-more-freedom/](https://www.cbsnews.com/news/utahs-free-range-parenting-law-gives-kids-more-freedom/)

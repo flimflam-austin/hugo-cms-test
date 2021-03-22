@@ -1,14 +1,14 @@
 ---
 title: 18.03.15 United Airlines
 slug: 20180314-18-03-15-united-airlines
-_id: legacy-8a889e04-0697-43af-8f06-ea1734eb6308
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-5f9c8053-b88d-4d4d-ab14-de0c25f718ad
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-15-united-airlines/
 _createdAt: '2018-03-15T12:30:10Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-15T12:30:10+00:00'
 weight: 50
 card_series: Current Events
@@ -33,7 +33,7 @@ cards:
 
       FLIP HERE FOR MORE
     citation: FLIP HERE FOR MORE
-    _key: card-1-82831b57-6c9d-4b50-883d-1743609f4353
+    _key: card-1-ce00b027-0013-41a3-be16-114a9662ab15
   - order: 1
     body: >-
       ## Monday: KOKITO
@@ -46,7 +46,7 @@ cards:
 
       The family said they heard Kokito barking for two hours, but when the
       plane landed, Kokito was dead.
-    _key: card-2-6f58e718-7603-4d20-b040-edb45728bfb1
+    _key: card-2-b7b5859f-c3a4-40e0-a6d1-e321b4dade0f
   - order: 2
     body: >-
       ## United’s Response:
@@ -57,7 +57,7 @@ cards:
       or understand her, and did not knowingly place the dog in the overhead
       bin. As we stated, we take full responsibility and are deeply sorry for
       this tragic accident.”
-    _key: card-3-d4b8f30a-e6d3-4c97-996f-424fabb2cfc2
+    _key: card-3-eef61ee1-f05a-4ac3-a86d-94df44b262f5
   - order: 3
     body: >-
       ## This was NOT the first time a pet died on a United Airlines flight
@@ -66,7 +66,7 @@ cards:
       According to the Department of Transportation, 24 animals died on U.S.
       carriers in 2017 – **75% of those deaths took place on a United Airlines
       flight**.
-    _key: card-4-c2ac31bd-724e-4434-8591-90eed4e05adf
+    _key: card-4-102baba9-e8f6-4526-9215-7b25f6d00366
   - order: 4
     body: >-
       ## Tuesday: IRGO
@@ -79,7 +79,7 @@ cards:
       * United apologized and explained that an error occurred during
       connections sending two pets to the wrong destinations.A United is flying
       Irgo home first class with a human escort in the main cabin.
-    _key: card-5-3d40271f-160b-4c02-96f6-4a20cdc1043f
+    _key: card-5-3a871551-71be-4458-8d40-66010e6c7725
   - order: 5
     body: >-
       United announced it will implement a new policy: "To prevent this from
@@ -89,7 +89,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-15-united-airlines/)
-    _key: card-10-679cc4d4-fe6b-4424-a10b-e70302155253
+    _key: card-10-acd58638-d48c-45c1-ab40-a8c2e1335ba7
 
 ---
 * Dog that died in United overhead bin barked for 2 hours: [https://www.cbsnews.com/news/owners-dog-died-in-overhead-bin-on-united-airlines-flight-speak-out/](https://www.cbsnews.com/news/owners-dog-died-in-overhead-bin-on-united-airlines-flight-speak-out/)

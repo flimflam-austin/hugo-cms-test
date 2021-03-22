@@ -1,14 +1,14 @@
 ---
 title: 18.07.02 One Minute with Maccutting Boards
 slug: 20180702-18-07-02-one-minute-with-maccutting-boards
-_id: legacy-fbf50cd3-9187-46ab-b14a-f897ddc34931
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-37743df2-0d15-4a04-b565-860c0d67f15a
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-02-one-minute-with-maccutting-boards/
 _createdAt: '2018-07-03T11:23:42Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-03T11:23:42+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/jGNTWx8CHP4?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-22dd7d73-0998-4533-9b1b-67d044b84294
+    _key: card-1-e9ceb909-746e-49c8-b9c9-1de43fc777f9
   - order: 1
     body: >-
       # MAC Cutting Boards
@@ -44,7 +44,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-2-9e2a8e78-05d0-458c-9980-3fef8319f28f
+    _key: card-2-ad7302a3-62ca-4af3-af7b-4502b06b98ee
   - order: 2
     body: >-
       More from Bart & Josie, MAC Cutting Boards. Where did "MAC" come from?
@@ -53,7 +53,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-07-02-one-minute-with-maccutting-boards/)
-    _key: card-10-972597c7-41f5-4940-b8fc-63b7b1a867d5
+    _key: card-10-eee12947-e00f-4edd-b3e9-91ce4d119d47
 
 ---
 **5 Questions for [MAC Cutting Boards](https://shop.maccuttingboards.com/)**

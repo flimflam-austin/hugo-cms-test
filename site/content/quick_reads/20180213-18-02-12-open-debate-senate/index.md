@@ -1,14 +1,14 @@
 ---
 title: 18.02.12 Open Debate in Senate
 slug: 20180213-18-02-12-open-debate-senate
-_id: legacy-01c11767-cd87-43ae-abc7-a480e8f516bd
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-d6ff17d3-b73b-492d-8384-48c4e0d4d7a6
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-12-open-debate-senate/
 _createdAt: '2018-02-13T03:44:12Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-13T03:44:12+00:00'
 weight: 50
 featured_image:
@@ -37,7 +37,7 @@ cards:
 
       Flip Card Here
     citation: Flip Card Here
-    _key: card-1-0d42cb1e-884b-4c81-8728-d0361611270d
+    _key: card-1-3f9c5adc-2923-4129-b37c-09dc69137e39
   - order: 1
     body: >-
       > ‘We’re going to have something in the Senate that we haven’t had in a
@@ -47,7 +47,7 @@ cards:
         
         
       Sen. Jeff Flake (R-Az) ‘Meet the Press’ Feb 11, 2018
-    _key: card-2-1949e158-ade3-4f93-b5c6-1c52d38b1ff3
+    _key: card-2-abfa8476-eb52-4444-97ea-4404665c0c62
   - order: 2
     body: >-
       # Why Now?
@@ -63,7 +63,7 @@ cards:
 
       Flip Here For DACA Cheat Sheet
     citation: Flip Here For DACA Cheat Sheet
-    _key: card-3-d6bd3cac-a47e-4fa1-ad20-5298034a3c6e
+    _key: card-3-88937091-bef9-40c2-84bb-a8cf5aa28b63
   - order: 3
     body: >-
       # DACA 101:
@@ -76,7 +76,7 @@ cards:
 
       * Protects from deportation *some* individuals brought to U.S. illegally
       as children; NO pathway to citizenship.
-    _key: card-4-9acbdc85-2cce-4b4c-90de-c92117858768
+    _key: card-4-7def4fe4-05f4-4d04-a2c6-d845d4ee824e
   - order: 4
     body: >-
       # Important To Know:
@@ -91,13 +91,13 @@ cards:
 
       * Congress originates laws – For immigration reform to last, it needs to
       come from Congress.
-    _key: card-5-90f3aee9-fb97-4b9f-bf76-70d3463146cb
+    _key: card-5-c6c8f552-7e8e-4dff-91aa-cc040af7c3dc
   - order: 5
     body: |-
       Get Into The Nitty-Gritty
 
       [view sources](https://smarthernews.com/18-02-12-open-debate-senate/)
-    _key: card-10-bcce3716-c394-4800-882f-eba366487e0d
+    _key: card-10-7f11587e-ae11-42f0-8f4e-d93f904b74d2
 
 ---
 * Senate begins rare debate on immigration and “Dreamers” – [https://www.pbs.org/newshour/politics/senate-begins-rare-debate-on-immigration-and-dreamers-will-they-find-a-solution](https://www.pbs.org/newshour/politics/senate-begins-rare-debate-on-immigration-and-dreamers-will-they-find-a-solution)

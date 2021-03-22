@@ -1,14 +1,14 @@
 ---
 title: u.s. & Iran
 slug: 20180927-18-09-27-iran-u-s
-_id: legacy-4473bd3c-7c6a-463c-8d59-9d5a4f5b9c34
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-e516ad75-9a8d-4b41-9788-ea21c6027263
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-27-iran-u-s/
 _createdAt: '2018-09-27T12:31:50Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-27T12:31:50+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       Why It Matters
     citation: Why It Matters
-    _key: card-1-bfd5ea35-1873-4633-a668-3bd4392bc3ad
+    _key: card-1-e8177157-14a8-4667-98b0-a2bd27b00c71
   - order: 1
     body: >-
       ## Important Context:
@@ -40,7 +40,7 @@ cards:
       * Iran’s pursuit of nuclear weapons (which they deny) has worried several
       U.S. presidents because of Iran’s connection with terror groups & their
       desire to assert themselves as a superpower.
-    _key: card-2-ec843fe0-5cc1-41d6-8480-e7b5eb69d3c5
+    _key: card-2-381db5da-c7dc-4786-bf5a-094a39e4b53c
   - order: 2
     body: >-
       ## Why \*Extra Tense\* Now?
@@ -54,7 +54,7 @@ cards:
       * **Sanctions:**A America will implement sanctions on Iran’s oil market in
       approx. 45 days; both Iran & U.S. under pressure economically &
       diplomatically.
-    _key: card-3-5a4da0a0-93fc-4d1d-8827-e42e4934dc14
+    _key: card-3-a4bb1621-bb4b-4d50-8f75-00c54c28a081
   - order: 3
     body: >-
       > “As victims of terrorism in the past and today, we have always been and
@@ -66,7 +66,7 @@ cards:
       Iranian Pres. Rouhani during UN address. The U.S. State Dep't just issued
       an annual report underscoring Iran's status as a state sponsor of terror
       and highlighted Iran's relationship with groups like al Qaeda.
-    _key: card-4-5b52e2c1-ca1f-4f27-ae48-462880e788e0
+    _key: card-4-3aa58dbb-aab6-42f3-be09-b72d77afa1e4
   - order: 4
     body: >-
       > “We are working with countries that import Iranian crude oil to cut
@@ -79,7 +79,7 @@ cards:
       France, U.K and Russia (the other signatories of the original nuclear
       deal) about joining in sanctions on Iran's oil exports; they want to stay
       in the nuclear deal, for now.
-    _key: card-5-c69e96b3-ba3b-4012-a41c-9e3be1ded7fb
+    _key: card-5-9e25de26-dbde-43f1-a5fd-9ce0ce41085a
   - order: 5
     body: >-
       U.S. Defense Secretary Jim Matt responded to Iranian threats: "We've been
@@ -89,7 +89,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-27-iran-u-s/)
-    _key: card-10-d58c2ae2-8343-43c6-89da-ac00760c7dee
+    _key: card-10-ad0fcc65-329a-4b6e-a358-190c0dd8e631
 
 ---
 * **Hassan Rouhani: Twitter:**  

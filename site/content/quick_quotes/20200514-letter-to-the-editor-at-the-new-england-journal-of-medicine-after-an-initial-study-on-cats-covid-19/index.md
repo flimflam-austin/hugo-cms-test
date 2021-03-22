@@ -4,29 +4,27 @@ title: >-
   About Cats & Covid-19.
 slug: >-
   20200514-letter-to-the-editor-at-the-new-england-journal-of-medicine-after-an-initial-study-on-cats-covid-19
-_id: legacy-f311a6c8-c6f7-4cde-9352-e23c39a49aae
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-f61152f7-165e-4be5-8aa8-74a5b1ee7c7a
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/letter-to-the-editor-at-the-new-england-journal-of-medicine-after-an-initial-study-on-cats-covid-19/
 _createdAt: '2020-05-14T18:56:26Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-05-14T18:56:26+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    0470be39fa449b59e88eeb8a23d7f73fd5213b87-1880x1253.jpg
 is_breaking: false
-summary: >-
-  “Letter To The Editor” at the New England Journal of Medicine on early
-  research about cats & Covid-19.
 featured_quote:
   quote: >-
     ...cats may be a silent intermediate host of SARS-CoV-2, because infected
     cats may not show any appreciable symptoms that might be recognized by their
     owners.
-  citation: >-
-    “Letter To The Editor” at the New England Journal of Medicine on early
-    research about cats & Covid-19.
 
 ---
 * Researchers inoculated cats with SARS-CoV-2 and then housed the cats with 3 others without exposure.
@@ -37,4 +35,4 @@ featured_quote:
 
 LEARN MORE:
 
-**Alpaca “therapy” during COVID-19?** [CLICK HERE](https://smarthernews.com/article/linkedin-regional-sales-manager-heather-sloven-who-booked-time-with-an-alpaca-for-a-team-conference-call-its-a-trend-folks/)regional-sales-manager-heather-sloven-who-booked-time-with-an-alpaca-for-a-team-conference-call-its-a-trend-folks/)
+**Alpaca “therapy” during COVID-19?** [CLICK HERE](https://smarthernews.com/article/linkedin-regional-sales-manager-heather-sloven-who-booked-time-with-an-alpaca-for-a-team-conference-call-its-a-trend-folks/)

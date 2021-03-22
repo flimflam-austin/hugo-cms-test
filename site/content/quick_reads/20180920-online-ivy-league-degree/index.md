@@ -1,14 +1,14 @@
 ---
 title: A First for an Ivy League School
 slug: 20180920-online-ivy-league-degree
-_id: legacy-6364c2f1-9b0d-4b64-8acd-12f9e355bc60
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-c83848e3-b0a1-47c0-a913-6425c09ef38c
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - online-ivy-league-degree/
 _createdAt: '2018-09-20T11:59:28Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-20T11:59:28+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Ivy League ...Online?
     citation: Ivy League ...Online?
-    _key: card-1-3293e42e-d8db-4c95-9c73-db933c786e63
+    _key: card-1-26f5970a-d9ed-4274-b8b9-bf23ecda4f8f
   - order: 1
     body: >-
       ## The Future of Learning?
@@ -49,7 +49,7 @@ cards:
       * **Costs 30% less** than on-campus.
 
       * Visit campus twice before degree.
-    _key: card-2-5a4bf934-631a-433d-86c4-d6f9c4eb245f
+    _key: card-2-8d3a8427-a8c5-4b6f-ac48-f6fbba523c57
   - order: 2
     body: >-
       > ‘When you’re working and raising a family or you’re part of the sandwich
@@ -61,7 +61,7 @@ cards:
         
       Nora E. Lewis, vice dean of professional and liberal education at the
       University of Pennsylvania
-    _key: card-3-a9646371-471e-4763-a8d4-40b63727d517
+    _key: card-3-7627ae68-0006-46a0-8443-2af965d77247
   - order: 3
     body: >-
       ## Why It Matters
@@ -75,7 +75,7 @@ cards:
 
       * National unemployment rate for those with **college degree (2.1%)**
       about 1/2 what it is for those with only a **high school degree (4.3%)**.
-    _key: card-4-5c208766-ad3c-4501-8f21-e0f665e2ad06
+    _key: card-4-87884541-efde-4794-b116-2cda64bb6443
   - order: 4
     body: >-
       Several Ivy League universities offer online degrees at the graduate
@@ -85,7 +85,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/online-ivy-league-degree/)
-    _key: card-10-341344c7-a6d4-44ee-9093-e1858f519222
+    _key: card-10-6a13d9c6-7a2f-47c1-9684-9731c2840423
 
 ---
 * **Highest Educational Attainment Levels Since 1940:** [https://www.census.gov/library/visualizations/2017/comm/cb17-51_educational_attainment.html](https://www.census.gov/library/visualizations/2017/comm/cb17-51_educational_attainment.html)

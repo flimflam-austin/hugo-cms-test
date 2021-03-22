@@ -1,14 +1,14 @@
 ---
 title: 18.05.13 Top Names of 2017
 slug: 20180514-18-05-13-top-names-2017
-_id: legacy-bfb2783d-cb11-4622-8c5c-3525ed6fb981
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-5ed14302-1520-44b0-824b-6f480860aa54
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-13-top-names-2017/
 _createdAt: '2018-05-14T11:10:05Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-14T11:10:05+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip For Top Names
     citation: Flip For Top Names
-    _key: card-1-c535150b-4058-4e6e-86c4-8d2741c4e170
+    _key: card-1-74e9dc29-a649-4f41-a5be-c80c9ad99fd0
   - order: 1
     body: >-
       TOP NAMES:  
@@ -51,7 +51,7 @@ cards:
 
       What Names Moved Up/Down?
     citation: What Names Moved Up/Down?
-    _key: card-2-7ebdf78a-accc-40e0-9298-31f156a61827
+    _key: card-2-817f1f3c-5945-48fe-9da5-8fc341b89130
   - order: 2
     body: >-
       ## Name “Changes”
@@ -64,7 +64,7 @@ cards:
       * **“First Couple” Impact? MelaniaA** appears**A** in spot #930 (‘Melania’
       didn’t appear on list in 2016 & 2015). “**Donald**” held steady at #488
       from 2016, but down from #442 in 2015.
-    _key: card-3-b4bbeb39-d312-4ab7-820a-f8ac0ddc5c2f
+    _key: card-3-cfd9e231-c894-472c-a822-61480c91eeb1
   - order: 3
     body: >-
       3.8M babies were born last year in U.S. - the LOWEST number in 3 decades.
@@ -73,7 +73,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-13-top-names-2017/)
-    _key: card-10-3b58cc97-ba2a-4054-bece-a953e3624fe5
+    _key: card-10-0d139dbb-5ee1-4b6a-8b70-b9e98f888665
 
 ---
 * **Popular Names 2017:**A [https://www.ssa.gov/cgi-bin/popularnames.cgi](https://www.ssa.gov/cgi-bin/popularnames.cgi)

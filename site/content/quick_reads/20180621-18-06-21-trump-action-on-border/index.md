@@ -1,14 +1,14 @@
 ---
 title: 18.06.21 Trump Action on Border
 slug: 20180621-18-06-21-trump-action-on-border
-_id: legacy-08784434-08ca-4aec-a619-ba4ae969eda0
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-7dbf1d19-0b9d-484e-80fe-99bfc7162000
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-21-trump-action-on-border/
 _createdAt: '2018-06-21T10:33:12Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-21T10:33:12+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       FLIP FOR DETAILS
     citation: FLIP FOR DETAILS
-    _key: card-1-a4945ecd-5b7f-47da-8df4-ddec81c10a54
+    _key: card-1-b6a9ca22-65be-42dc-9f17-5e301a0ec2c9
   - order: 1
     body: >-
       ## What We Know:
@@ -47,7 +47,7 @@ cards:
 
       * It does leave roomA to separate children from family, but only if it’s
       in the child’s best interests.
-    _key: card-2-7c067000-f2cb-4a00-8d91-84af248a94d8
+    _key: card-2-88f2ec44-de66-48e7-9568-5d29bd86461d
   - order: 2
     body: >-
       ## Legal Trouble Ahead?
@@ -61,7 +61,7 @@ cards:
       proceedings.”
 
       * TBD what L.A.-based Federal Judge Dolly Gee will rule.
-    _key: card-3-ee4700b1-e2e7-4bda-aec6-99f88c5e638a
+    _key: card-3-245b340f-b557-4573-9074-17f875d8f989
   - order: 3
     body: >-
       ## Past As Precedent?
@@ -76,7 +76,7 @@ cards:
       WSJ. Trump admin will face same legal issue as Obama admin, and same
       judge. Children held now an ave of 40-50 days before placed w/sponsor
       family..
-    _key: card-4-5d89cdd8-b3f4-461c-ac55-628eaebed550
+    _key: card-4-f7027a83-51f4-4ecc-b95d-4c5b10d1c5b7
   - order: 4
     body: >-
       The President's Executive Order doesn’t change the status of children
@@ -84,7 +84,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-21-trump-action-on-border/)
-    _key: card-10-1eb85a5c-774c-4d61-a5bc-cc75b35d0ea2
+    _key: card-10-97a39250-ba9a-4d8b-8cd0-28899730743f
 
 ---
 * **Trump says he”ll sign order ending child-parent separation:**  

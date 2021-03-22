@@ -1,14 +1,14 @@
 ---
 title: 18.06.13 World Cup
 slug: 20180613-18-06-13-world-cup
-_id: legacy-a0ab6ac6-7a5e-47f8-ab8d-ead719333b88
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-a853e2c2-2192-4b8e-9ec3-e2d832492a4c
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-13-world-cup/
 _createdAt: '2018-06-13T08:51:59Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-13T08:51:59+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       FLIP: Gooooooooal!
     citation: 'FLIP: Gooooooooal!'
-    _key: card-1-39a10597-8787-4165-83f0-1d53eea804ac
+    _key: card-1-2a9983a4-88e5-4a58-bb5d-a093632398ed
   - order: 1
     body: >-
       ## WHAT TO KNOW:
@@ -48,7 +48,7 @@ cards:
 
       * Soccer superstars Argentina’s **Lionel Messi** & Portugal’s **Cristiano
       Ronaldo have never won a World Cup.**
-    _key: card-2-5e7a8403-dda1-4ce0-bb37-4aa9910a7b64
+    _key: card-2-70383333-4c20-4179-ba22-eecfa031af73
   - order: 2
     body: >-
       HOW TO CHEER:  
@@ -69,7 +69,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/Bl6VC4zA7ns?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-3-17286fab-f6fb-4413-8dde-9b1cd073e43d
+    _key: card-3-b6a18de2-be55-4d92-ad07-d1adcc4183bd
   - order: 3
     body: >-
       WHAT TO SAY:  
@@ -86,7 +86,7 @@ cards:
 
       **So why do we call it soccer?** First version played in the U.S. was
       called “association football” – **“soc” was derived from “association.”**
-    _key: card-4-0c12ff6d-f734-4e7f-84c4-68847242f67d
+    _key: card-4-826ba266-5738-4a4b-88f9-0d2417808e41
   - order: 4
     body: >-
       Before the matches even begin, Iran's team is struggling to find its
@@ -95,7 +95,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-13-world-cup/)
-    _key: card-10-c7a82b68-5c7c-42a7-9ed0-0fc6daa2465d
+    _key: card-10-78986821-8b51-48ab-8795-f5b0ead1654c
 
 ---
 * **Russia hopes to stir World Cup crowds with musical spoons:**  

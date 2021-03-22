@@ -1,14 +1,14 @@
 ---
 title: 'Quote of the Day: Idina Menzel'
 slug: 20181127-quote-of-the-day-2
-_id: legacy-094fde89-c23b-4385-b775-43dfe84d9203
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-3b4ec743-f2cd-429c-929e-3e28d9b27df4
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - quote-of-the-day-2/
 _createdAt: '2018-11-27T12:22:16Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-11-27T12:22:16+00:00'
 weight: 50
 featured_image:
@@ -24,7 +24,7 @@ cards:
 
       Idina Menzel
     citation: Idina Menzel
-    _key: card-1-8435cb9f-1822-4e43-b86f-568f184e49d0
+    _key: card-1-6773c103-d72e-4415-a12d-d145b7a47cb2
   - order: 1
     body: >-
       Idina Menzel, speaking about lessons learned during her career. Menzel
@@ -34,7 +34,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/quote-of-the-day-2/)
-    _key: card-10-b09afbb0-2825-4ec4-9ef4-00f7439b91c6
+    _key: card-10-9df8b84e-bdc4-4d9e-b557-bb34a2f2831b
 
 ---
 * **From 2014:A Idina Menzel’s Fairy Tale Journey: From Broadway to ‘Frozen’ and a ‘Gorgeous’ Note From John Travolta (Cover Story)**  

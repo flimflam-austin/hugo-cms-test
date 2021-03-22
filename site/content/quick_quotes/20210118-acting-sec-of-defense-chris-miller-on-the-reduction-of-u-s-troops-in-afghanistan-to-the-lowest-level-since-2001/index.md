@@ -4,28 +4,26 @@ title: >-
   Afghanistan to the Lowest Level Since 2001.
 slug: >-
   20210118-acting-sec-of-defense-chris-miller-on-the-reduction-of-u-s-troops-in-afghanistan-to-the-lowest-level-since-2001
-_id: legacy-7a9e889b-2a3d-4d1a-a489-1623c762b004
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-1344d6cf-4e40-4536-b330-a549698a62f6
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/acting-sec-of-defense-chris-miller-on-the-reduction-of-u-s-troops-in-afghanistan-to-the-lowest-level-since-2001/
 _createdAt: '2021-01-18T04:59:13Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2021-01-18T04:59:13+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    9193553065a285a58ae298b80ad61a47b9c26981-2560x1707.jpg
 is_breaking: false
-summary: >-
-  Acting Defense Sec. Chris Miller on the reduction of U.S. troops in
-  Afghanistan to the lowest level since 2001.
 featured_quote:
   quote: >-
     With a force of 2,500, commanders have what they need to keep America, our
     people and our interests safe.
-  citation: >-
-    Acting Defense Sec. Chris Miller on the reduction of U.S. troops in
-    Afghanistan to the lowest level since 2001.
 
 ---
 * The troop level reduction was announced in November.
@@ -37,4 +35,4 @@ featured_quote:
 
 [Official announcement on Afghanistan](https://www.defense.gov/Newsroom/Releases/Release/Article/2473337/statement-by-acting-defense-secretary-christopher-miller-on-force-levels-in-afg/)
 
-[Official announced on Iraq](https://www.defense.gov/Newsroom/Releases/Release/Article/2473344/statement-by-acting-defense-secretary-christopher-miller-on-force-levels-in-iraq/)Releases/Release/Article/2473344/statement-by-acting-defense-secretary-christopher-miller-on-force-levels-in-iraq/)
+[Official announced on Iraq](https://www.defense.gov/Newsroom/Releases/Release/Article/2473344/statement-by-acting-defense-secretary-christopher-miller-on-force-levels-in-iraq/)

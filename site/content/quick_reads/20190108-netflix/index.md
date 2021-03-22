@@ -1,14 +1,14 @@
 ---
 title: Thinking Outside the Bird Box
 slug: 20190108-netflix
-_id: legacy-a5beac77-bbc2-44b9-890e-0f039d5de2c4
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-4aea6ae3-9285-46fe-aa69-c870dea585ed
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - netflix/
 _createdAt: '2019-01-08T13:19:19Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-01-08T13:19:19+00:00'
 weight: 50
 card_series: Entertainment
@@ -31,7 +31,7 @@ cards:
 
       Why it matters
     citation: Why it matters
-    _key: card-1-53cae585-44a4-4a27-8602-f06545fd01b4
+    _key: card-1-f5e01483-debb-42cb-b8af-533193e5013b
   - order: 1
     body: >-
       ## What Is Bird Box?
@@ -46,7 +46,7 @@ cards:
 
       * **Bottom line:**A ratings matter; most imp’t for Netflix is
       subscriptions (boost from Bird Box unknown).
-    _key: card-2-3fbbe9ac-11f9-48c2-b626-95cd1832ecb4
+    _key: card-2-5292c73e-fab5-4663-8274-af8fa4e17d37
   - order: 2
     body: >-
       > ‘Classical measurement has either been box office or awards. This defies
@@ -58,7 +58,7 @@ cards:
       Susanne Bier, Bird Box Director, on the film's unconventional success
       flooding social media with memes & the Bird Box Challenge in which people
       wear blindfolds as the film's characters do. Netflix warns against it.
-    _key: card-3-833e4cc9-0740-4ca0-bee6-ffe541888199
+    _key: card-3-bd201ea0-f2dd-4ad2-bb60-67b519ea9b49
   - order: 3
     body: >-
       ## Why It Matters
@@ -73,7 +73,7 @@ cards:
 
       * Many artists rebuff Netflix, wanting a widespread theater release. **Is
       this a game changer?**
-    _key: card-4-767f8453-1d83-403e-a490-635b64828a1b
+    _key: card-4-692033c3-5b1e-4f18-b1e8-f210c24d3969
   - order: 4
     body: >-
       Netflix is eyeing the music industry, recently adding "Springsteen on
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/netflix/)
-    _key: card-10-7613061e-d299-4497-ac3a-3cb65a90dad8
+    _key: card-10-d24d1795-739a-4615-a427-fdc79b2c701f
 
 ---
 * **Netflix Opens Eyes in Hollywood as “Bird Box” Soars:**  

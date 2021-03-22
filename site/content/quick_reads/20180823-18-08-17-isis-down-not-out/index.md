@@ -1,14 +1,14 @@
 ---
 title: 18.08.17 Isis Down but Not Out
 slug: 20180823-18-08-17-isis-down-not-out
-_id: legacy-a851f342-eb27-441d-a31b-47c27cd11c58
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-40717347-3f1e-471e-a50a-51084f6a8d58
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-17-isis-down-not-out/
 _createdAt: '2018-08-17T11:34:48Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-17T11:34:48+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Why It Matters
     citation: Why It Matters
-    _key: card-1-72360ed0-0c27-4646-a2c5-0f7e449a7b2b
+    _key: card-1-841e69b0-dc4d-4f1b-b866-edb8408ea488
   - order: 1
     body: >-
       ## The Big Picture
@@ -45,7 +45,7 @@ cards:
         
         
       Tom Joscelyn Senior Fellow, Foundation of Defense of Democracies to SHN
-    _key: card-2-074800b0-e7cd-4a46-869c-b5245642df2c
+    _key: card-2-717644ba-ff4a-41c3-94e7-99e5cf019837
   - order: 2
     body: >-
       ## On America’s Shores
@@ -60,7 +60,7 @@ cards:
       * Allegedly, ties to ISIS &A Al Qaeda.
 
       * DOJ seeking to extradite him back to Iraq.
-    _key: card-3-47157379-7d00-4fe8-8cda-6d07e8c96aba
+    _key: card-3-8389fd50-1def-496b-a366-c75e52ff2f0c
   - order: 3
     body: >-
       ## Something To Consider:
@@ -74,7 +74,7 @@ cards:
       * However, power of ISIS loyalty / ideology remains. “ISIS’ resilience”
       mentioned in both reports;A **$2B U.S. dollars** has gone to the Iraqi
       Security Forces to support fight vs. ISIS.
-    _key: card-4-eed4f803-1e2f-469e-bca0-df86b2cdb702
+    _key: card-4-7194952a-e444-4bc9-ab51-e73480c69c99
   - order: 4
     body: >-
       ## ISIS: Overseas
@@ -90,7 +90,7 @@ cards:
       Defeated in 2 days.
 
       * **Philippines:** ISIS fighters present.
-    _key: card-5-f6cb80fa-02b5-4806-a7a9-e3633021972d
+    _key: card-5-363119fe-9457-4e80-b5c6-06a0597a5a6c
   - order: 5
     body: >-
       Turkey, a NATO member, has both provided a gateway for ISIS fighters &
@@ -100,7 +100,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-17-isis-down-not-out/)
-    _key: card-10-77798866-bc9c-488a-a1c1-f0905a175b8c
+    _key: card-10-5a30a5b5-269f-4102-8a40-7020d7fada75
 
 ---
 * **Reports: 30,000 ISIS fighters remain in Iraq and Syria:A**  

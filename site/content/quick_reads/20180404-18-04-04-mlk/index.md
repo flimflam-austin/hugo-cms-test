@@ -1,14 +1,14 @@
 ---
 title: 18.04.04 Mlk
 slug: 20180404-18-04-04-mlk
-_id: legacy-5a847f53-30fa-4cfe-8349-a0b7934b2d36
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-fc322381-368a-47b8-8d58-30f168ae643c
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-04-mlk/
 _createdAt: '2018-04-04T10:49:17Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-04T10:49:17+00:00'
 weight: 50
 featured_image:
@@ -23,11 +23,11 @@ cards:
       Honoring a light extinguished too soon:
 
       Martin Luther King Jr.
-    _key: card-1-27ee5692-90b5-48c8-909f-d72f83a159ec
+    _key: card-1-cfa5efd5-3563-46f9-a1bf-d06f416d28d3
   - order: 1
     body: "## The Day Before MLK Died:\n\n“We’ve got some difficult days ahead. …. Like anybody, I would like to live a long life a\x14 longevity has its place. But I’m not concerned about that now. I just want to do God’s will…. I may not get there with you. But I want you to know tonight, that we, as a people, will get to the promised land.”\n\n[MLK, April 3, 1968](https://www.smithsonianmag.com/videos/category/history/mlks-last-speech/)"
     citation: MLK, April 3, 1968
-    _key: card-2-3646b905-e9ac-426c-89b8-1597443b9632
+    _key: card-2-a15a0fb1-e29d-4b91-b448-7068868bd22d
   - order: 2
     body: >-
       ## Assassination & Aftermath
@@ -46,7 +46,7 @@ cards:
       [Click: Who Did
       It?](https://www.washingtonpost.com/news/retropolis/wp/2018/03/30/who-killed-martin-luther-king-jr-his-family-believes-james-earl-ray-was-framed/?utm_term=.0e93ef27d6f0)
     citation: 'Click: Who Did It?'
-    _key: card-3-1931bd20-23af-468c-a3a0-dc066ba1d5a7
+    _key: card-3-c9f80dea-056b-49a4-9677-868e81fa1bc5
   - order: 3
     body: >-
       ## MLK’s Lasting Legacy
@@ -64,7 +64,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/I47Y6VHc3Ms?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-4-1e3e4f87-514b-404a-b109-90dd66f46569
+    _key: card-4-a74e35f7-ffed-46ce-9298-d6375b8bb948
   - order: 4
     body: >-
       MLK is one of only two people with a federal holiday honoring their birth
@@ -73,7 +73,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-04-mlk/)
-    _key: card-10-6142fa5d-3c60-4e4e-9c83-048b9b9ebd02
+    _key: card-10-fa8e36d3-b650-4f42-824e-7994e462cbe6
 
 ---
 **SmartHER Highlights:A**  

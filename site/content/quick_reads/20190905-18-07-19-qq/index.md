@@ -1,14 +1,14 @@
 ---
 title: 18.07.19 Qq
 slug: 20190905-18-07-19-qq
-_id: legacy-cd11b3de-ef4c-47a3-909f-6750c9e28c14
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-c9ca5270-bf15-467b-9643-3917bd1a5bbd
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-07-19-qq/
 _createdAt: '2018-07-19T11:59:12Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-07-19T11:59:12+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/RwR4shi_JoQ?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-a91ebd2e-5afb-4b4d-8a9e-ce0e48e37099
+    _key: card-1-d76d572d-ac42-4fe0-8e79-77c1a71017ed
   - order: 1
     body: >-
       > ‘I had no strength at all. I didn’t think about food because it only
@@ -45,7 +45,7 @@ cards:
       Chanin Wibulroongreung, 11, as he and all of his Wild Boar teammates and
       coach were released from the hospital. It was the first public appearance
       since being rescued from a cave in northern Thailand.
-    _key: card-2-eb30d59e-9c59-4a01-b6b1-d61d4b4b0ee0
+    _key: card-2-a8c67754-5c39-4e42-8539-d835531f178c
   - order: 2
     body: >-
       > ‘Apparently, the insiders are in cahoots and the establishment doesn’t
@@ -58,7 +58,7 @@ cards:
       the California Supreme Court, removing it from the November 6 ballot.
       California's high court ruled a delay would be better than the harm of
       permitting the vote.
-    _key: card-3-16db2ffa-0212-48f6-be60-47293c61ee78
+    _key: card-3-10e085c7-00ba-462d-bd52-b9aa40243ae7
   - order: 3
     body: >-
       > “I pray to God no other parent feels this pain.”  
@@ -72,10 +72,10 @@ cards:
 
       [See the Post here](https://www.instagram.com/morganebeck/)
     citation: See the Post here
-    _key: card-4-4996fcac-611a-4dd2-9bec-326c55067e62
+    _key: card-4-a633e63d-3e59-4684-ad8e-6d28d1293269
   - order: 4
     body: '[view sources](https://smarthernews.com/18-07-19-qq/)'
-    _key: card-10-782e3bae-a64d-4e88-8725-e73b6b010b5f
+    _key: card-10-fc5c352e-2154-4f26-9688-fd0ec91ca8bf
 
 ---
 * **Birmingham college student walked 20 miles to 1st day of work so his boss gave him his car:**  

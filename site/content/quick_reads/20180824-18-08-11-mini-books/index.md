@@ -1,14 +1,14 @@
 ---
 title: The Rise of the Mini Books
 slug: 20180824-18-08-11-mini-books
-_id: legacy-a3bea543-62b7-4774-aea7-7442ba2615ad
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-3c2fc5d7-ed5a-4f42-8559-17ae398418b3
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-11-mini-books/
 _createdAt: '2018-08-14T11:54:36Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-14T11:54:36+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Introducing Flipbacks
     citation: Introducing Flipbacks
-    _key: card-1-ac9a5a99-4d05-46ee-a438-7799e2ba94f9
+    _key: card-1-a2e2cd93-2998-491e-82c8-437ae411db51
   - order: 1
     body: >-
       ## “Flipbacks”
@@ -50,7 +50,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/NgIa_RgiY0U?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-4a2e2eaf-6815-4d9e-af44-f6b992cfc170
+    _key: card-2-7c78d29a-0caf-48db-af7e-b32ae1392aae
   - order: 2
     body: >-
       ## “Phone-Shaped”
@@ -64,7 +64,7 @@ cards:
       Popular young adult author John Green wrote The Fault Of Our Stars. He
       first saw horizontal flip-novels in the Netherlands and wanted to try
       format in U.S. His flipback titles will sell this fall.
-    _key: card-3-860abc49-c30f-44ad-882d-3273dc56c5bd
+    _key: card-3-ae73efb6-9842-4bdc-9690-724e8af18637
   - order: 3
     body: >-
       While overall book sales increased last year in America, paperback sales
@@ -73,7 +73,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-11-mini-books/)
-    _key: card-10-80d813bb-73b1-40b4-ba1b-f017c9cb41b0
+    _key: card-10-115ff6b6-c7c4-4e45-971b-39f35dad9eb4
 
 ---
 * **John Green wants you to read tiny books:** [https://www.washingtonpost.com/entertainment/books/john-green-wants-you-to-read-tiny-books/2018/08/02/3110b5bc-94e6-11e8-a679-b09212fb69c2_story.html](https://www.washingtonpost.com/entertainment/books/john-green-wants-you-to-read-tiny-books/2018/08/02/3110b5bc-94e6-11e8-a679-b09212fb69c2_story.html?utm_term=.ecfed5a2877d)

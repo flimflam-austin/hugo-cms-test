@@ -1,14 +1,14 @@
 ---
 title: 18.07.01 Stare Decisis
 slug: 20200630-18-07-01-stare-decisis
-_id: legacy-87370a60-1bbf-4bda-b8d6-dbf885aecd23
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-785f56e1-cbad-427f-8466-593db3f883f6
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-07-01-stare-decisis/
 _createdAt: '2018-07-02T11:30:34Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-07-02T11:30:34+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
         
       As debate heats up over who will fill an empty seat at the Supreme Court,
       here’s why you should know this term.
-    _key: card-1-e785e169-3838-4cb5-9256-7c08c74e3f20
+    _key: card-1-77291624-59a4-4d4d-8d5a-a60e3e99a199
   - order: 1
     body: >-
       ## Why It Matters:
@@ -41,7 +41,7 @@ cards:
       * As President Trump mulls another Supreme Court nomination for the Senate
       to consider, some predict the appointment of a conservative justice will
       lead to sweeping changes of current laws.
-    _key: card-2-5f91309d-a540-4181-b9c2-62abb11ad917
+    _key: card-2-e75d8968-da01-4d86-9deb-503bc67cdbc3
   - order: 2
     body: >-
       > “See the new @USSupremeCourt clearly: Abortion illegal; doctors
@@ -53,7 +53,7 @@ cards:
         
       Legal Commentator, Jeffrey Toobin, Twitter. While Toobin claims the above,
       it's not easy to legally overturn the laws he mentions.
-    _key: card-3-7b28bfb6-a192-422b-8dda-819720fe2d88
+    _key: card-3-68fb2ed7-1986-4eda-9ee2-fd71bde4db6f
   - order: 3
     body: >-
       ## Something To Consider:
@@ -70,7 +70,7 @@ cards:
         
         
       Cornell Law School, Legal Information Institute.
-    _key: card-4-b0a9575f-23af-4743-afc0-fe736dc3479f
+    _key: card-4-13d80b1b-dcee-4695-868b-bbbda3578629
   - order: 4
     body: >-
       Stare Decisis doesn't mean old decisions will *always* hold if challenged,
@@ -78,7 +78,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-01-stare-decisis/)
-    _key: card-10-4f3cd8d2-0140-4cba-a901-ef830e1c110a
+    _key: card-10-a8d72794-bd2e-4a33-a85e-d005ce012d4d
 
 ---
 * **Stare decisis:**  

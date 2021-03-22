@@ -1,14 +1,14 @@
 ---
 title: 18.04.02 Hollywood Separation
 slug: 20180403-18-04-02-hollywood-separation
-_id: legacy-6a0b99a6-090d-429f-ba85-614e7c3e3ceb
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-4e757daa-3ebd-45ea-8a09-6e9f585c82a8
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-02-hollywood-separation/
 _createdAt: '2018-04-03T11:00:57Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-03T11:00:57+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Data Behind Divorce
     citation: Data Behind Divorce
-    _key: card-1-ed790141-f694-4fe4-b385-729a3bfbb907
+    _key: card-1-0dc7f6a2-b71e-42a0-96f2-b692bf6b1713
   - order: 1
     body: >-
       ## Exception: Not The Rule
@@ -50,7 +50,7 @@ cards:
 
       Chances of a marriage lasting MORE than 20 years is slightly better than
       50%.
-    _key: card-2-49c18c26-6db3-4a63-a141-dfe89ab222c8
+    _key: card-2-4e2d898a-af26-440f-95d6-236374a198c3
   - order: 2
     body: >-
       # Hollywood vs. Reality
@@ -65,11 +65,11 @@ cards:
       * Marriage rate: Nearly 7 per 1,000 Americans (CDC).
 
       * Divorce rate: Just over 3 per 1,000 Americans (CDC).
-    _key: card-3-c9e1e0d1-b179-478a-b414-4e23ec76ab77
+    _key: card-3-b7f76391-a1fa-40ef-bdc8-3409130ce64c
   - order: 3
     body: "## Something To Consider:\n\n> “…women who cohabited with their first husbanda\x14regardless of whether they were engaged when they began living togethera\x14had lower probabilities of marriage survival at 20 years than women who did not cohabit before marriage with their first husband.”  \n  \n  \n  \nNational Health Statistics Report, 2012\n\n[Report](https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf)"
     citation: Report
-    _key: card-4-195d4209-b308-4563-b802-880a5405a49c
+    _key: card-4-83023394-4282-4178-8a89-f7f4310ecd3f
   - order: 4
     body: >-
       Despite the announcement of a divorce, Channing Tatum *just* wrote this
@@ -77,7 +77,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-02-hollywood-separation/)
-    _key: card-10-b451d969-9f4c-4c46-9ecb-73881c5d3edd
+    _key: card-10-1349f2c4-6edc-40ae-992a-82d595876bb8
 
 ---
 * EXCLUSIVE Channing Tatum & Jenna Dewan ‘Have Lovingly Chosen to Separate’A After Nearly 9 Years of Marriage:A [http://people.com/movies/channing-tatum-jenna-dewan-split-nearly-nine-years-marriage/](http://people.com/movies/channing-tatum-jenna-dewan-split-nearly-nine-years-marriage/)

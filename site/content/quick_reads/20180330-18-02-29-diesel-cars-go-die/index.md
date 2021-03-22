@@ -1,14 +1,14 @@
 ---
 title: 18.02.29 Where Diesel Cars Go to Die
 slug: 20180330-18-02-29-diesel-cars-go-die
-_id: legacy-77095054-8ca8-4d06-af99-f1d4011c15f1
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-650d5107-820a-40f2-b15b-2b943d295d18
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-02-29-diesel-cars-go-die/
 _createdAt: '2018-03-30T10:30:12Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-30T10:30:12+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip For Backstory
     citation: Flip For Backstory
-    _key: card-1-88dae2de-e898-48e4-bd31-8a44d1e16f88
+    _key: card-1-1008a5c3-b46e-4cf4-97eb-5ca780661f9f
   - order: 1
     body: >-
       ## Backstory
@@ -53,7 +53,7 @@ cards:
       [Sky News: The
       Scoop](https://news.sky.com/story/vw-emissions-scandal-german-carmaker-storing-300000-diesels-in-graveyards-11308274)
     citation: 'Sky News: The Scoop'
-    _key: card-2-93845a33-1d59-4ddd-92a8-0f209645d088
+    _key: card-2-9684ecaf-1f64-4dac-bfcc-4a2f801409ac
   - order: 2
     body: >-
       One "parking lot" is a suburban football stadium. This is
@@ -62,7 +62,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-29-diesel-cars-go-die/)
-    _key: card-10-3fd035f8-9626-49e3-afba-d88d2652040d
+    _key: card-10-ddd0f01f-c41b-4c13-a28f-87697e65c968
 
 ---
 * VW emissions scandal: German carmaker storing 300,000 diesels in ‘graveyards’  

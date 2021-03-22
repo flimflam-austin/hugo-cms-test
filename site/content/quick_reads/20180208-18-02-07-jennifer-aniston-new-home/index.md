@@ -1,14 +1,14 @@
 ---
 title: 18.02.07 Jennifer Aniston New Home
 slug: 20180208-18-02-07-jennifer-aniston-new-home
-_id: legacy-49259475-23f6-40e6-bcab-e87209bcfdf0
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-aa3a4591-db94-4042-9953-a574ec15e209
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-07-jennifer-aniston-new-home/
 _createdAt: '2018-02-08T18:00:46Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-08T18:00:46+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       Jenn is like so many Americans - Flip Here For Why
     citation: Jenn is like so many Americans - Flip Here For Why
-    _key: card-1-d0481b51-f84f-43be-9202-641a0fb74210
+    _key: card-1-9b1e3614-e023-4348-abff-908e0c12036e
   - order: 1
     body: >-
       # Jen Is Just Like Us
@@ -43,7 +43,7 @@ cards:
       jump.
 
       * Home improvement spending estimates topped $300 billion in 2017.
-    _key: card-2-af1ccaab-c7b0-4716-aa70-d55447603005
+    _key: card-2-7249661e-a1d0-4fa0-812a-6172ed0819bc
   - order: 2
     body: >-
       # Jen Is NOT like Us
@@ -58,12 +58,12 @@ cards:
       [Pics Of Aniston's Home: Click
       Here](https://www.architecturaldigest.com/story/jennifer-aniston-los-angeles-home)
     citation: 'Pics Of Aniston''s Home: Click Here'
-    _key: card-3-002690e6-f53f-414f-8a60-75fdc95da030
+    _key: card-3-72b901c5-8423-4202-b7e0-c3e28cb5abb8
   - order: 3
     body: >-
       [view
       sources](https://smarthernews.com/18-02-07-jennifer-aniston-new-home/)
-    _key: card-10-eba851ec-a9b6-4fc2-b14a-310b6b990deb
+    _key: card-10-01f7ba4c-b707-4dc6-8ab9-a257b00ebd2f
 
 ---
 [Americans Pour Record Sums Into Home Improvements](https://www.wsj.com/articles/americans-pour-record-sums-into-home-improvements-1500975001) A shortage of new single-family homes across the U.S. is pushing up prices and locking many buyers out of the market. The silver lining: a boom in renovations of existing homes. Americans are expected to pour a record $316 billion into home remodeling this year, up from $296 billion a year earlier, according to Harvard University”s Joint Center for Housing Studies.

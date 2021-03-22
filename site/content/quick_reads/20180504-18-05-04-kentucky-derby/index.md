@@ -1,14 +1,14 @@
 ---
 title: 18.05.04 Kentucky Derby
 slug: 20180504-18-05-04-kentucky-derby
-_id: legacy-7a4eacf6-5e24-4a47-8355-f77a6a2e55ab
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-c7b0aae4-b6a1-4e71-8c41-72bbcd0f9a3f
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-04-kentucky-derby/
 _createdAt: '2018-05-04T10:55:21Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-04T10:55:21+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       FLIP: GIDDY UP!
     citation: 'FLIP: GIDDY UP!'
-    _key: card-1-0b164105-a2c8-4a7b-8981-746a82acf7f8
+    _key: card-1-6c402cb0-66ee-42f9-9161-c6218920d34b
   - order: 1
     body: >-
       ## THE TRADITIONS
@@ -50,7 +50,7 @@ cards:
 
 
       **Rain or shine:** No Derby has ever been postponed.
-    _key: card-2-8d0f10ee-78dd-4116-bec2-286d28f8071e
+    _key: card-2-5b0e1c5d-d397-45b8-97b9-4b3040d8af9f
   - order: 2
     body: >-
       # 20 Thoroughbreds Race 1.25 Miles
@@ -67,7 +67,7 @@ cards:
 
       * **Fun fact:** 19 Derby winners’ names began with “S” – only one this
       year is long-shotA **Solomoni.A**
-    _key: card-3-219bab07-d0ec-441a-8fb1-2e0959d67400
+    _key: card-3-ae1cf380-030d-439a-a11a-133fcbe92e04
   - order: 3
     body: >-
       ## Why the Crazy Names?
@@ -86,7 +86,7 @@ cards:
       [Got a name? Check if it's been used
       here.](https://www.registry.jockeyclub.com/registry.cfm?page=namesrch&search=)
     citation: Got a name? Check if it's been used here.
-    _key: card-4-b5f2401f-cf61-40b2-ba93-1559f48dc77b
+    _key: card-4-63be0756-56ba-4835-abe6-2544e9301c34
   - order: 4
     body: >-
       ## DERBY DETAILS
@@ -104,7 +104,7 @@ cards:
 
       CLICK: GET DERBY READY
     citation: 'CLICK: GET DERBY READY'
-    _key: card-5-4b9d7791-8d78-4c18-ad6f-b836aa7f74f1
+    _key: card-5-359f0cb5-ece3-487c-9f9c-90f322c3ea5d
   - order: 5
     body: >-
       Each year at the Kentucky Derby, almost 120,000 Mint Juleps are served.
@@ -112,7 +112,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-04-kentucky-derby/)
-    _key: card-10-753d5e78-ac06-4e83-becd-13a50a9666df
+    _key: card-10-2d8e9817-7e4b-4c64-8e19-30a8d91b3496
 
 ---
 * Kentucky Derby odds and predictions 2018: Picks from same expert who has nailed 9 straight Derbys:  

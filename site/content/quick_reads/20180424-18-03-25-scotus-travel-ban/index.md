@@ -1,14 +1,14 @@
 ---
 title: 18.03.25 Scotus Travel Ban
 slug: 20180424-18-03-25-scotus-travel-ban
-_id: legacy-f51367c3-3aa6-4745-a966-473210e7028d
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-384cbc87-cdb8-4e6f-a4e2-d9c376216efa
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-25-scotus-travel-ban/
 _createdAt: '2018-04-25T10:03:37Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-25T10:03:37+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       Flip: What's At Stake
     citation: 'Flip: What''s At Stake'
-    _key: card-1-1b007c2e-1abe-4db0-bd74-7096575acb43
+    _key: card-1-ac0327b9-4d5b-4ef6-8791-04f93648aaa3
   - order: 1
     body: >-
       # “The Ban”
@@ -44,7 +44,7 @@ cards:
       Proclamation **restricts travel into the U.S.** **by non-citizens from**
       **6 predominantly Muslim countries** (Chad, Iran, Libya, Somalia, Syria,
       Yemen) and **2 other countries** (North Korea & Venezuela).
-    _key: card-2-993bf7a3-0ae1-4dfc-9bdc-3e4148b6c035
+    _key: card-2-ce5149f9-eb28-49c7-a94d-f78c03dc0c63
   - order: 2
     body: >-
       ## Why This Matters:
@@ -59,7 +59,7 @@ cards:
       ban?**
 
       * **Is this discrimination?**
-    _key: card-3-0aedb9b8-e0b6-4725-a450-2697a400f0c6
+    _key: card-3-3ddab606-e19e-49e0-8150-c67116c59b62
   - order: 3
     body: >-
       **Lawyers SUPPORTING the ban argue:**
@@ -73,7 +73,7 @@ cards:
       [Click here: Read
       Brief](https://www.supremecourt.gov/DocketPDF/17/17-965/26928/20180106115022487_Trump%20v%20Hawaii%20Revised%20Petition.pdf)
     citation: 'Click here: Read Brief'
-    _key: card-4-8aba90e2-eef8-4848-b1f4-49cf67365f0b
+    _key: card-4-eee92413-0e30-408c-9b4e-df9934ef2b91
   - order: 4
     body: >-
       **Lawyers OPPOSING the ban argue:A A**
@@ -88,7 +88,7 @@ cards:
       [Click here: Read
       Brief](https://www.supremecourt.gov/DocketPDF/17/17-965/27771/20180112172848825_Trump%20v.%20Hawaii%20Brief%20in%20Opposition.pdf)
     citation: 'Click here: Read Brief'
-    _key: card-5-c3038dbd-a062-4e9d-b584-cd96d82fc432
+    _key: card-5-a0104606-e941-4518-9193-85e2851e19c8
   - order: 5
     body: >-
       Although the Supreme Court won't issue its decision until late June, keep
@@ -97,7 +97,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-25-scotus-travel-ban/)
-    _key: card-10-e02079e8-3629-4b5e-ae90-f97bfa348835
+    _key: card-10-59d2e80c-5aab-4edb-a293-88dae0dcadd6
 
 ---
 * **SmartHER Read:A Your guide to the Supreme Court case on Trump’s travel ban:** [www.pbs.org/newshour/amp/politics/your-guide-to-the-supreme-court-case-on-trumps-travel-ban](http://www.pbs.org/newshour/amp/politics/your-guide-to-the-supreme-court-case-on-trumps-travel-ban)

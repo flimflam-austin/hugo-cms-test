@@ -1,14 +1,14 @@
 ---
 title: 18.05.01 Tmobile Sprint
 slug: 20180501-18-05-01-tmobile-sprint
-_id: legacy-2cebb1ea-8c2d-4781-be2a-7b3a8dd8b7db
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-14d6955a-66ac-419e-9287-8fbf197f6ca0
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-01-tmobile-sprint/
 _createdAt: '2018-05-01T09:51:10Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-01T09:51:10+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       THIRD TIME THE CHARM?
     citation: THIRD TIME THE CHARM?
-    _key: card-1-f1d1e6b1-d0df-47ef-826d-d5a7d95a7bbe
+    _key: card-1-88c2ecc1-9297-449b-885b-4b302e194a40
   - order: 1
     body: >-
       > **What’s different this time?**  
@@ -54,7 +54,7 @@ cards:
       greatest salesman. But what he’s selling right now, it’s old stuff.”_  
 
       _Tom Wheeler, Former FCC Chair_
-    _key: card-2-5f9af56b-f8a1-4f7e-b604-00b5566b29c9
+    _key: card-2-10dd8e5f-c8ef-4057-9e90-1773fe9159f6
   - order: 2
     body: >-
       ## How Will Deal Affect You?
@@ -76,7 +76,7 @@ cards:
 
       FLIP: opposing takes
     citation: 'FLIP: opposing takes'
-    _key: card-3-a9772dd0-fe26-4518-9288-157117ab766a
+    _key: card-3-85b32e4d-6f00-4c7d-bc39-11490a6bd266
   - order: 3
     body: >-
       > _‘Combination will not only result in less choice for consumers, it will
@@ -92,7 +92,7 @@ cards:
       consumer-focused charge… (rivals have) been forced to follow suit.’_  
 
       **Jonathan Chaplin, New Street Research**
-    _key: card-4-75012380-f18c-4ca6-960a-45331a7981bb
+    _key: card-4-c2e1a191-3708-47dc-9cb4-28bab44fd005
   - order: 4
     body: >-
       SmartHER Take: The biggest question for regulators will be what's more
@@ -102,7 +102,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-01-tmobile-sprint/)
-    _key: card-10-66ae3e61-4d8c-4db5-bde3-e8e312f6d9d5
+    _key: card-10-5a8cc044-dbfe-494c-89f2-9dbebb3d28fa
 
 ---
 * **T-Mobile CEO to regulators: China is beating US on fast 5G wireless but our Sprint deal can change that:** [https://www.cnbc.com/2018/04/30/t-mobile-ceo-john-legere-sprint-buyout-will-super-charge-competition-and-wireless-speeds.html](https://www.cnbc.com/2018/04/30/t-mobile-ceo-john-legere-sprint-buyout-will-super-charge-competition-and-wireless-speeds.html)

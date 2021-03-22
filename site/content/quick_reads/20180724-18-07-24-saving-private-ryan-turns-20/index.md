@@ -1,14 +1,14 @@
 ---
 title: 18.07.24 Saving Private Ryan Turns 20
 slug: 20180724-18-07-24-saving-private-ryan-turns-20
-_id: legacy-f54a90f5-015c-41b3-a931-04ea4427e425
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-71e5aba1-1d44-4668-8b2e-e1701b5f4a50
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-24-saving-private-ryan-turns-20/
 _createdAt: '2018-07-24T22:42:37Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-24T22:42:37+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/RYExstiQlLc?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-398e017a-39c3-4d14-9b8b-f150149ab132
+    _key: card-1-48e501c4-db22-494f-a760-9bf716f0eebe
   - order: 1
     body: >-
       # Saving Private Ryan
@@ -46,7 +46,7 @@ cards:
 
       * The graphic violence nearly earned it an “NC-17” rating and prevented
       Spielberg from letting his 13-year-old son see his film.
-    _key: card-2-50482be2-3e78-4f9b-8679-e1eb74c09aa4
+    _key: card-2-df6bdffc-58c3-481a-be55-2e631548c7d1
   - order: 2
     body: >-
       ## The Niland Brothers
@@ -63,7 +63,7 @@ cards:
         
         
       Two Niland brothers survived WWII.
-    _key: card-3-92dd9f8c-1792-4790-82a7-283245ca3c9c
+    _key: card-3-4787c6de-7615-4aae-ba73-5e0f09e7c243
   - order: 3
     body: >-
       > “The minute we finished the D-Day/Omaha Beach sequence, I knew we had
@@ -76,7 +76,7 @@ cards:
         
       Capt. Dale Dye, senior military advisor on 'Saving Private Ryan' to
       SmartHER News
-    _key: card-4-c6ca165f-7c54-4036-a7ec-9f1838e54366
+    _key: card-4-51e4b063-d8f2-43d0-a86e-d2c6464ba291
   - order: 4
     body: >-
       SPR is Spielberg's 10th highest grossing film ($329M in 2018 dollars). His
@@ -85,7 +85,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-07-24-saving-private-ryan-turns-20/)
-    _key: card-10-2bdbb2f5-b8b0-432d-bf68-cfccd2172fca
+    _key: card-10-f35e8140-3f1a-495b-bf20-47d5f3398933
 
 ---
 > “When you make something as subjective and perishable as movies or scripted TV shows, being a part of one that rises above the rest and promises to be around for many generations is a remarkable experience.A When a project like that – such as Saving Pvt. Ryan – celebrates the rugged, determined Americans who fought and won World War II, it’s especially rewarding.A You never know when you’re making a movie, how audiences will react.A I didn’t have that problem with SPR.”  

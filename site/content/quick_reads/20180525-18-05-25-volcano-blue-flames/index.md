@@ -1,14 +1,14 @@
 ---
 title: 18.05.25 Volcano Blue Flames
 slug: 20180525-18-05-25-volcano-blue-flames
-_id: legacy-4bcc8fec-3669-42db-bd87-181475176657
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-d8633e09-ccea-4f37-bf5d-371ae9fc7a53
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-25-volcano-blue-flames/
 _createdAt: '2018-05-25T08:58:08Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-25T08:58:08+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/7uGjDsN8JGM?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-5e2875a7-3ebe-49de-ae69-b42c7e092095
+    _key: card-1-cfbfbc9e-3b04-4789-af2c-8e47f7f48eb5
   - order: 1
     body: >-
       ## Wait… BLUE Flames?
@@ -44,7 +44,7 @@ cards:
 
 
       Scientists are now concerned the methane may cause explosions.
-    _key: card-2-522ea929-ad1f-443c-bf3e-3417c604d10a
+    _key: card-2-3ec0717e-5163-4c80-be8e-acad12070186
   - order: 2
     body: >-
       Mother Nature has put on quite a show... Kilauea’s eruption has also
@@ -54,7 +54,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-25-volcano-blue-flames/)
-    _key: card-10-d6136930-c5d8-4890-9aba-aafba840e970
+    _key: card-10-586a00f4-915a-4730-8347-684ea1a0559f
 
 ---
 * **USGS Kilauea Latest:A** [https://www.usgs.gov/news/k-lauea-volcano-erupts](https://www.usgs.gov/news/k-lauea-volcano-erupts)

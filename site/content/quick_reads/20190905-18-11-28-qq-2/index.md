@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for Thursday, November 29, 2018
 slug: 20190905-18-11-28-qq-2
-_id: legacy-c4257723-c801-41ca-9f7b-1d558d4d09d5
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-f2bf13a6-0e7d-4796-8566-ff00efd300c5
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - 18-11-28-qq-2/
 _createdAt: '2018-11-29T12:44:44Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-11-29T12:44:44+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       served in the Army for 7 years and is survived by his wife. Emond, served
       in the Army and Marine Corp for more than two decades. He was on his 7th
       overseas deployment and leaves behind his wife and 3 children.
-    _key: card-1-7c6f3041-4bb7-4680-8c9c-90570004b1b9
+    _key: card-1-5b14e29c-e743-46fe-aaa0-29ff73004917
   - order: 1
     body: >-
       > ‘I must note we are seldom free to work with unblemished partners.’  
@@ -43,7 +43,7 @@ cards:
       controversy over the murder of Saudi journalist Jamal Khashoggi. Senators
       voted to allow a vote next week on withdrawing U.S. support for Yemen's
       civil war; a direct affront to the Saudis.
-    _key: card-2-67cbf700-f4d7-4362-a21c-d7964ac74bba
+    _key: card-2-05cab799-1535-41d9-9b3b-39c42a23c0f9
   - order: 2
     body: >-
       > ‘There is no preset policy. We will be paying very close attention to
@@ -56,7 +56,7 @@ cards:
       market rallied on this news, as the comments soothed investor fears over
       higher interest rates negatively impacting the economy (making it more
       expensive for people and companies to borrow money in some cases.)
-    _key: card-3-e789fd46-6dc9-48c7-8aa9-b926bba0bb0e
+    _key: card-3-fc5d2071-67c0-41f4-9092-e0af8ae9ee1f
   - order: 3
     body: >-
       > ‘I don’t want anyone to think this is fun and games. Ukraine is under
@@ -69,7 +69,7 @@ cards:
       it and now says Poroshenko is using it to his advantage ahead of 2019
       elections. Due to the clash, President Trump has threatened to cancel his
       meeting with Putin on the sidelines of the G-20.
-    _key: card-4-54959de2-e112-4c1f-a676-63f87cf5831f
+    _key: card-4-374bf5a4-67cf-41e1-b2a7-6b471f774494
   - order: 4
     body: >-
       > ‘I’m thinking about how the hell to get out from under that question
@@ -82,7 +82,7 @@ cards:
       I haven’t been running around to the most obvious states, laying any
       groundwork or doing anything. Am I going to think about it? Yeah, I’m
       going to think about it.’
-    _key: card-5-9850eb7a-7e71-45ed-9880-9e05c0b595f1
+    _key: card-5-8bc6bbbf-fc94-4703-99a8-89c680131b16
   - order: 5
     body: >-
       > ‘Roald would, I know, be thrilled.’  
@@ -97,13 +97,13 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/loV0N4m6AMw?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-6-933999ff-0ae8-4540-9665-c38f84dd0435
+    _key: card-6-e2bcb8d3-f87c-4c1c-9ea4-0871a27749c2
   - order: 6
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-11-28-qq-2/)
-    _key: card-10-382691cf-9697-4fd2-be49-b135e0d25fa4
+    _key: card-10-9cffed96-b729-44e2-847f-0b2622a9fb96
 
 ---
 * **Three service members killed by roadside bomb blast in Afghanistan are identified:**

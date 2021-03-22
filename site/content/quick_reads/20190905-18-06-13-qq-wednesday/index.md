@@ -1,14 +1,14 @@
 ---
 title: 18.06.13 Qq Wednesday
 slug: 20190905-18-06-13-qq-wednesday
-_id: legacy-5349d89b-e22c-407b-b52f-2e0914adcf0b
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-09c75eaf-304e-4fea-8e1c-e18ab5ee199f
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-06-13-qq-wednesday/
 _createdAt: '2018-06-13T08:51:52Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-06-13T08:51:52+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
       take to denuclearize North Korea. The historic summit did not produce a
       way to achieve this goal, but it did produce an agreement *to start
       another* agreement on denuclearization.
-    _key: card-1-6dc44ce3-09e3-4963-a44b-34f294785ae9
+    _key: card-1-cea50d86-de22-4dd7-8c8b-a607a8858790
   - order: 1
     body: >-
       > “…little did we know he could run across the side of the building.”  
@@ -45,7 +45,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/Fh3WsBEWOA0?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-9e0007e6-566e-4e11-bb6e-202df381c874
+    _key: card-2-6627a5bb-a31b-4f69-a2a3-a088fcfe7210
   - order: 2
     body: >-
       > ‘If there ever were an antitrust case where the parties had a
@@ -58,10 +58,10 @@ cards:
       Federal judge Richard J. Leon's opinion approving AT&T's $85B takeover of
       Time Warner. Deal gives AT&T ownership of HBO, CNN, & Warner Bros. DOJ
       sued to block the merger over concerns of higher costs for consumers.
-    _key: card-3-edb9032a-259c-499b-8551-7c964b76562d
+    _key: card-3-f796c8ec-00c4-4424-a18c-e36197e870ae
   - order: 3
     body: "> “The asylum system is being abused …. Asylum was never meant to alleviate all problems a\x14 even all serious problems a\x14 that people face every day all over the world.”  \n  \n  \n  \nAttorney General Jeff Sessions announcing a new policy making it more difficult for victims of gang & domestic violence to obtain asylum in the U.S."
-    _key: card-4-5e2961f2-7100-4a85-a649-e57ff8d35e8d
+    _key: card-4-a1b5e19b-f8fd-4f0c-a335-0ac59539e968
   - order: 4
     body: >-
       > “…a matter of time before a cybersecurity breach on an airline
@@ -74,13 +74,13 @@ cards:
       Boeing 757 for hacking weak spots in documents provided to CBS News. The
       757 hasn't been made since 2004 but is an "aging workhorse" for American,
       Delta & United. Boeing maintains its planes are safe.
-    _key: card-5-8fc5545f-142b-4839-bbac-81ad7b693982
+    _key: card-5-ef327ecb-2a7b-412c-bcf1-f5c1f48a47ab
   - order: 5
     body: |-
       Get even SmartHer by clicking here to read more.
 
       [view sources](https://smarthernews.com/18-06-13-qq-wednesday/)
-    _key: card-10-511c6c6a-5638-4394-9afc-8dc42a7923a0
+    _key: card-10-04b542f9-6ebc-4eac-8fda-623156c23de4
 
 ---
 * **President Trump sits down with George Stephanopoulos:** [https://abcnews.go.com/Politics/president-trump-sits-george-stephanopoulos-transcript/story?id=55831055](https://abcnews.go.com/Politics/president-trump-sits-george-stephanopoulos-transcript/story?id=55831055)

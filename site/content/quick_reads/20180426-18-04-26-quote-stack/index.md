@@ -1,14 +1,14 @@
 ---
 title: 18.04.26 Quote Stack
 slug: 20180426-18-04-26-quote-stack
-_id: legacy-ac004eee-6087-4743-a0f6-8b5af33920b4
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-2fc6a976-4d4d-48f2-8678-e2e704eb688a
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-26-quote-stack/
 _createdAt: '2018-04-26T10:43:20Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-26T10:43:20+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
       impeaching Pres. Trump in an interview with NBC News. Reid went on to say
       ‘I’ve been through impeachment, and they’re not pleasant .... And the less
       we talk about impeachment, the better off we are.’
-    _key: card-1-518c7cd9-b792-4273-8a03-495b25dd50b8
+    _key: card-1-1c328eeb-ce12-4109-a48b-f2753e7dc1d3
   - order: 1
     body: >-
       > **“It is the most prolific unsolved serial-killing case probably in
@@ -47,7 +47,7 @@ cards:
       [Click HERE for
       more](https://smarthernews.com/18-04-25-golden-state-murderer/)
     citation: Click HERE for more
-    _key: card-2-baaebd41-6ba2-425e-ad45-5d0ed94c365e
+    _key: card-2-27048e37-ce24-49da-ac5f-7b66c6cccfdd
   - order: 2
     body: >-
       > **“If you look at what was done, it does not look at allA like a Muslim
@@ -65,7 +65,7 @@ cards:
         
         
       Overheard during Supreme Court showdown over travel ban #3.
-    _key: card-3-fa3ad89c-b56e-401e-93a7-a638f92a95ae
+    _key: card-3-237f4506-a449-4013-8634-69b2fc16e16d
   - order: 3
     body: >-
       > “You don’t have to agree with trump but the mob can’t make me not love
@@ -78,7 +78,7 @@ cards:
       Kanye West, Twitter, April 25, 2018 1125 cst. Since April 15, Kanye West
       resurfaced on @twitter with a tweet storm that covers fashion, family &
       his future political amibtions.
-    _key: card-4-036d8f46-dd87-446c-a216-b8a5a794473e
+    _key: card-4-864891ea-fb21-4dae-a61f-5676ddade74d
   - order: 4
     body: >-
       ## 2 Hours Later…
@@ -97,10 +97,10 @@ cards:
       [Click:
       Tweet](https://twitter.com/KimKardashian/status/989221660661137408)
     citation: 'Click: Tweet'
-    _key: card-5-27aaa09d-6875-4747-b267-0ea4931459db
+    _key: card-5-93487d6d-4cb7-460d-9856-454214a9dc25
   - order: 5
     body: '[view sources](https://smarthernews.com/18-04-26-quote-stack/)'
-    _key: card-10-343f0364-e1de-44d6-831d-b2e9cd9af4d1
+    _key: card-10-09a8f21e-4de5-40be-af7f-b1d122e81ca9
 
 ---
 * **Golden State Killer arrest: ‘Most prolific unsolved serial-killing case’ might be solved:** [www.oregonlive.com/trending/2018/04/golden_state_killer_arrest_mad.html](http://www.oregonlive.com/trending/2018/04/golden_state_killer_arrest_mad.html)

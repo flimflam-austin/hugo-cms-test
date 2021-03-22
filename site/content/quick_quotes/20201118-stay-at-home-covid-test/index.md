@@ -4,30 +4,26 @@ title: >-
   Authorization for a First of Its Kind at-Home Covid-19 Test - Providing
   Results in 30 Minutes or Less.
 slug: 20201118-stay-at-home-covid-test
-_id: legacy-2ab47cfc-d909-4dda-9d11-d39e9dc73949
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-38408b95-a01c-461f-8875-f3431f4ef3ab
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - article/stay-at-home-covid-test/
 _createdAt: '2020-11-18T22:45:49Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2020-11-18T22:45:49+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    5cd283615a7db468afe8c6b4387292dd3711e5dc-1024x683.jpg
 is_breaking: false
-summary: >-
-  FDA Director Steven Hahn after the U.S. gov’t granted emergency use
-  authorization for a first of its kind at-home COVID-19 test – providing
-  results in 30 minutes or less.
 featured_quote:
   quote: >-
     While COVID-19 diagnostic tests have been authorized for at-home collection,
     this is the first that can be fully self-administered and provide results at
     home.
-  citation: >-
-    FDA Director Steven Hahn after the U.S. gov’t granted emergency use
-    authorization for a first of its kind at-home COVID-19 test – providing
-    results in 30 minutes or less.
 
 ---
 * **How it works:** A test-taker swabs inside their nose, puts the sample in a vial and will get results in 30 minutes. [Here’s what it looks like and the company’s website.](https://www.lucirahealth.com)
@@ -38,7 +34,5 @@ featured_quote:
 * **Why It Matters:** Since health experts believe COVID-19 can spread through asymptomatic people, and the disease has a long incubation period before symptoms surface after exposure, the availability of a test like this will add another tool for citizens to keep themselves, and others, healthy.
 
 [CLICK HERE](https://www.politico.com/news/2020/11/17/fda-authorizes-first-at-home-coronavirus-test-437295) to read more
-
-Here’s the [approval of emergency use authorization](https://www.fda.gov/media/143810/download) by the FDAmore
 
 Here’s the [approval of emergency use authorization](https://www.fda.gov/media/143810/download) by the FDA

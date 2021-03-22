@@ -1,14 +1,14 @@
 ---
 title: 18.02.02 Unemployment
 slug: 20180202-18-02-02-unemployment
-_id: legacy-c83fb47a-d366-46fd-8e68-d1bba442e563
-_rev: XOnQP8cIThhnw9BWFxSjgf
+_id: legacy-b39df137-8420-4593-904c-75b0e4b8249b
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-02-unemployment/
 _createdAt: '2018-02-02T13:39:39Z'
-_updatedAt: '2021-03-16T11:57:58Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-02T13:39:39+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
       * Reflects January’s “employment situation”.
       * 200,000 jobs added.
       * 4.1% rate = same forA the last 4 months.
-    _key: card-1-2a82ea37-24ac-4f5a-a1df-180f9a51d915
+    _key: card-1-69e10ab2-22a7-4811-bd19-2c1720ffe2c6
   - order: 1
     body: >-
       > “Employment continued to trend up in construction, food services and
@@ -40,7 +40,7 @@ cards:
 
       [Click For Full Report](https://www.bls.gov/news.release/pdf/empsit.pdf)
     citation: Click For Full Report
-    _key: card-2-4483dfb2-90ff-447d-bd09-348137a73f96
+    _key: card-2-2d41b51e-3049-4bc1-be4d-a5725c7e8e7d
   - order: 2
     body: >-
       # Important To Note: Hourly Earnings
@@ -52,7 +52,7 @@ cards:
 
       * Hourly earnings matter because it *may* reflect better quality jobs;
       more confidence in economy.
-    _key: card-3-b1851c26-f182-4cc4-a990-3918ec43a6bc
+    _key: card-3-0a3b1c8f-9976-4869-8b31-36507074a186
   - order: 3
     body: >-
       # Consider This:
@@ -63,7 +63,7 @@ cards:
 
       * Bad News: Some economist worry other indicators may show economy
       “overheating”.
-    _key: card-4-ae3cd45c-53ce-4b55-b45f-b4ad442616ec
+    _key: card-4-ef0f2676-93c1-422d-ad76-db6a2aa0097d
   - order: 4
     body: >-
       A Dog Receives Unemployment Benefits In Michigan - For Real. Flip For the
@@ -71,7 +71,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-02-unemployment/)
-    _key: card-10-043b8541-2db3-45ad-9c1b-7a2ef6b02984
+    _key: card-10-e0408e9e-cfa2-4303-acfd-11b808014514
 
 ---
 1. **The Employment Situation Report**  

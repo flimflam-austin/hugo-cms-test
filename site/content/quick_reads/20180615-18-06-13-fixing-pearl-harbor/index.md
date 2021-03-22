@@ -1,14 +1,14 @@
 ---
 title: 18.06.13 Fixing Pearl Harbor
 slug: 20180615-18-06-13-fixing-pearl-harbor
-_id: legacy-5887c788-09fc-4ed0-8134-5cbf5f87616b
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-1ab7d229-f75c-4c39-869c-268155736b43
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-13-fixing-pearl-harbor/
 _createdAt: '2018-06-15T10:27:21Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-15T10:27:21+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Why?
     citation: Why?
-    _key: card-1-941bfc3b-e4b2-4493-bd93-5a337e9a2fed
+    _key: card-1-4e7a5123-f486-47c5-9e96-422935f942ae
   - order: 1
     body: >-
       ## USS Arizona
@@ -46,7 +46,7 @@ cards:
       sunken ship.
 
       * More than 4,000 people visit the memorial every single day.
-    _key: card-2-9a0eaed1-1561-456f-944c-d7b499493ab3
+    _key: card-2-e098ed4c-9986-4cb3-a353-0930f67dda89
   - order: 2
     body: >-
       What You Should Know:
@@ -64,7 +64,7 @@ cards:
 
       Why This Matters
     citation: Why This Matters
-    _key: card-3-26a69465-8bdc-406e-a911-127194697d00
+    _key: card-3-ebc3c26b-0208-4f2c-8d4a-55eac8f4378b
   - order: 3
     body: >-
       > “It’s not like you dig a big anchor into the ground. You’ve got an
@@ -75,7 +75,7 @@ cards:
         
       Jacqueline Ashwell, National Park Service, Superintendent of World War II
       Valor in the Pacific National Monument, Pearl Harbor.
-    _key: card-4-a86400f3-8f0d-4a5b-b928-961059ce035d
+    _key: card-4-8700b72b-6176-4e0e-9e4a-da4a3b4bc52f
   - order: 4
     body: >-
       We don't know how long the repairs will take or what they will cost.
@@ -84,7 +84,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-13-fixing-pearl-harbor/)
-    _key: card-10-dfc61c09-e7dd-4738-b53c-9583ba9dd554
+    _key: card-10-462697a2-728e-47a1-9860-09d9878a7de2
 
 ---
 * **USS Arizona repairs are complicated, but harbor tours remain:**  

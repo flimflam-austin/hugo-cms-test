@@ -1,14 +1,14 @@
 ---
 title: 18.02.26 Dem Russia Memo
 slug: 20180226-dem-russia-memo
-_id: legacy-f95b796f-29e8-4eb1-953e-de5d01abfbc4
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-42fbc163-d13c-485d-8122-e86b6460016e
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - dem-russia-memo/
 _createdAt: '2018-02-26T12:59:44Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-26T12:59:44+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip Here
     citation: Flip Here
-    _key: card-1-fa644dd3-2204-4e42-a17d-dbe27569132f
+    _key: card-1-f6fec6c9-b279-4cde-95d1-312745e617fe
   - order: 1
     body: >-
       ## Democrat Memo
@@ -48,7 +48,7 @@ cards:
 
       * **In-Focus:** Carter Page, an American who worked for Trump campaign at
       one time.
-    _key: card-2-03691c78-756c-40fb-9e05-8ad6aa27d756
+    _key: card-2-20958e37-67ab-4b77-a171-8dd3dd91f319
   - order: 2
     body: >-
       ## Democrats Claim:
@@ -60,7 +60,7 @@ cards:
 
       * This goes against GOP allegations FBI officials relied on slanted
       political material (dossier) to justify surveillance of Page.
-    _key: card-3-9944e6f4-794f-4216-b431-ad5a51ef9b9a
+    _key: card-3-43b0ecc2-a536-4a94-8ca6-79bea8672b49
   - order: 3
     body: >-
       > “DOJ and the FBI would have been remiss in their duty to protect the
@@ -72,7 +72,7 @@ cards:
         
       Democrat Minority Memo: House Intel Committee: "Correcting The Record -
       The Russia Investigation" Written Jan 29, 2018 & Released Feb 24, 2018
-    _key: card-4-e9e6c67c-e1c9-4600-843c-c630cbe39de7
+    _key: card-4-783869ab-b3ee-4ee7-b213-dfbbef785f23
   - order: 4
     body: >-
       > “The Democratic response memo released today should put to rest any
@@ -82,7 +82,7 @@ cards:
         
         
       House Intel Committee Ranking Member Adam Schiff (D-CA), Feb 24, 2018
-    _key: card-5-f43f4733-4cc9-40c8-94cd-5ab8374c2d00
+    _key: card-5-e8e4701f-d9ea-47c9-bb47-406a9e32b2fc
   - order: 5
     body: >-
       > “The Democrat memo response on government surveillance abuses is a total
@@ -93,7 +93,7 @@ cards:
       [President Trump via Twitter, Feb 24,
       2018](https://twitter.com/realDonaldTrump/status/967538684789739520)
     citation: President Trump via Twitter, Feb 24, 2018
-    _key: card-6-855c572a-d80a-4d7d-9cfa-41ba89c09b7c
+    _key: card-6-ec6508a3-f6fd-4a07-b1e0-e143d77d3031
   - order: 6
     body: >-
       # Why This Matters:
@@ -109,10 +109,10 @@ cards:
 
       * Either way, political material mentioned in a case to spy on an
       American. **Slippery Slope.A**
-    _key: card-7-71766f2b-f0e3-487b-84ef-6906b7b48310
+    _key: card-7-7b1fe881-e792-42ac-aac6-5eb21b52ca94
   - order: 7
     body: '[view sources](https://smarthernews.com/dem-russia-memo/)'
-    _key: card-10-926ac947-21c7-40c0-8a5b-69dcbba01ded
+    _key: card-10-829b8433-ba4d-4f1b-ab7a-763c43a38e31
 
 ---
 * Democratic memo: [http://apne.ws/oGQvU7S](http://apne.ws/oGQvU7S)

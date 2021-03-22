@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for Wednesday, September 19th
 slug: 20190905-18-09-19-qq
-_id: legacy-690e3dbe-b656-42f7-b3c3-e536fc0f82fe
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-fa390451-ced5-4586-b0e2-724fb4c14029
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-19-qq/
 _createdAt: '2018-09-19T12:00:20Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-19T12:00:20+00:00'
 weight: 50
 featured_image:
@@ -29,10 +29,10 @@ cards:
       Un announcing several agreements intended to achieve peace on the Korean
       Peninsula. Among other things, Un said he would destroy nuclear sites *if*
       the U.S. takes unspecified reciprocal measures.
-    _key: card-1-5cec8a17-c373-4486-9768-ebbb9bc29f0e
+    _key: card-1-6d858300-3288-4020-8931-47413775e493
   - order: 1
     body: "> ‘The concept of saying a\x18downgraded’ or ’weakened’ should be forever banished.’  \n  \n  \n  \nUniversity of Georgia meteorology professor Marshall Shepherd speaking about the limits of the current rating system for Cat 1-5 hurricanes. He believed Florence was more dangerous as a Cat 2 storm, but the current scale measures wind strength, not flooding threat, giving some residents reason to not evacuate."
-    _key: card-2-9ee503a2-6cbf-4d85-bac5-a7701db8959f
+    _key: card-2-12f84337-faec-431a-8013-804d0205a4c5
   - order: 2
     body: >-
       > “The FBI investigation of Judge Kavanaugh is closed…. The FBI is not
@@ -46,7 +46,7 @@ cards:
       back 30+ years. The White House hasn’t asked the FBI to reopen its
       background investigation, which was completed before the accuser came
       forward.
-    _key: card-3-4695007c-2bee-4544-8091-ae16d23e46ae
+    _key: card-3-c0935285-620e-4f0c-96cc-9e2abb769bb2
   - order: 3
     body: >-
       > “The job of the Senate Judiciary Committee is to serve as fact-finders,
@@ -59,7 +59,7 @@ cards:
       Anita Hill who testified in front of the aforementioned cmte in 1991 when
       she accused then-Supreme Court nominee Clarence Thomas of sexual
       harassment.
-    _key: card-4-7d68445b-7874-45b3-85a1-fc1f3467ff8b
+    _key: card-4-4d1f2a4f-089c-4ccd-8385-3b3af24f1c2d
   - order: 4
     body: >-
       > “As we have always said, Bert and Ernie are best friends. They were
@@ -70,10 +70,10 @@ cards:
         
       Sesame Workshop comment following a former show writer's comments that
       when he wrote for Bert & Ernie he always saw them as a "loving couple."
-    _key: card-5-61d5cdb5-c391-43a0-adb0-9e04ac43e77e
+    _key: card-5-bafd1064-ba55-497a-8ef6-7df1347091ab
   - order: 5
     body: '[view sources](https://smarthernews.com/18-09-19-qq/)'
-    _key: card-10-998f2f24-e70d-481d-877a-c0b672db4a8b
+    _key: card-10-f1219f48-828b-4225-bede-02409df4028d
 
 ---
 * **Hurricane rating system fails to account for deadly rain:**  

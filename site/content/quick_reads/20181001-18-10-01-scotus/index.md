@@ -1,14 +1,14 @@
 ---
 title: Opening Day at the Supreme Court
 slug: 20181001-18-10-01-scotus
-_id: legacy-73500c56-4181-4c50-8fe8-10c846f877c7
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-45612560-758a-45ad-9a0f-981d150b60b6
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-10-01-scotus/
 _createdAt: '2018-10-01T11:39:46Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-10-01T11:39:46+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       Why 9?
     citation: Why 9?
-    _key: card-1-79c7617a-9346-4110-bd4f-5c1882bad5f1
+    _key: card-1-750b0748-05f8-402b-b568-f69b0ff15c0f
   - order: 1
     body: >-
       # WHY NINE?
@@ -46,7 +46,7 @@ cards:
       From 1790 to 1869, Congress has changed the number of justices 6 times
       (requiring as many as 10 and as few as 5) until settling atA **9A
       justices**.
-    _key: card-2-85bf7672-13ef-444a-8c5f-1b34e7a7c1e2
+    _key: card-2-ca0dffab-43aa-4e43-be6a-f7ca109b2333
   - order: 2
     body: >-
       # WHY “9” MATTERS:
@@ -59,7 +59,7 @@ cards:
       Court reheard a 4-4 case it heard in 2016, and ruled 5-4 to strike down a
       vauge immigration law that made it easier to deport immigrants convicted
       of crimes.
-    _key: card-3-e4020835-264c-4580-a47b-aa06bc7afe2a
+    _key: card-3-f8391d0e-a3d9-4de3-947e-ecbbfebf3017
   - order: 3
     body: >-
       > Although this term does not yet include any notable cases, *IF* Judge
@@ -75,7 +75,7 @@ cards:
         
         
       Elizabeth Wydra, President of the Constitutional Accountability Center
-    _key: card-4-291b481b-b1de-47c5-81d8-fe1d37bc98a2
+    _key: card-4-9250a91b-48e5-45ee-a106-0dbf58975476
   - order: 4
     body: >-
       The first time in history the Supreme Court opened a new term with eight
@@ -85,7 +85,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-10-01-scotus/)
-    _key: card-10-17252c2e-73b8-46a3-9af9-31b3097a56d9
+    _key: card-10-5759dda6-861d-4d43-94fb-749666d36bab
 
 ---
 * **2016 article: U.S. Supreme Court returns to work with glaring vacancy:**  

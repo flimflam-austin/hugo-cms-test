@@ -1,14 +1,14 @@
 ---
 title: How Well Do You Know America?
 slug: 20181019-18-10-19-citizenship-test
-_id: legacy-e41d350e-7071-4c76-8d07-95251799e8ae
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-c4a6504a-cd42-4ad5-9ff3-e273af1807df
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-10-19-citizenship-test/
 _createdAt: '2018-10-19T11:25:12Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-10-19T11:25:12+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
       [Test your U.S.A.
       GPA](https://www.uscis.gov/sites/default/files/USCIS/Office%20of%20Citizenship/Citizenship%20Resource%20Center%20Site/Publications/100q.pdf)
     citation: Test your U.S.A. GPA
-    _key: card-1-631ada2e-d9dd-4321-978c-66fad33ea923
+    _key: card-1-776d7e75-ff95-4968-8e0d-b35c60b51599
   - order: 1
     body: >-
       ## Background
@@ -50,7 +50,7 @@ cards:
 
       test yourself
     citation: test yourself
-    _key: card-2-f6b0653a-d814-4f61-812c-2fbf5e31e393
+    _key: card-2-348815a2-44ce-400a-837f-b054ea431ee4
   - order: 2
     body: |-
       ## Example Questions
@@ -67,7 +67,7 @@ cards:
 
       FLIP FOR ANSWERS
     citation: FLIP FOR ANSWERS
-    _key: card-3-b3308c4a-273a-4d6f-8f56-2610589b6a35
+    _key: card-3-2aa1c3d0-d618-4747-8087-2b71fca6d770
   - order: 3
     body: |-
       > 1. Constitution written?A **1787**  
@@ -82,7 +82,7 @@ cards:
         
       3. WWII enemy?A **Japan, Germany, and Italy**  
       (40% Answered Correctly)
-    _key: card-4-239bdf61-280a-4dd4-8612-e7003f87dc97
+    _key: card-4-e1e32bbb-7573-4783-9292-7c7d5cfae93d
   - order: 4
     body: >-
       > _‘Unfortunately this study found the average American to be woefully
@@ -94,7 +94,7 @@ cards:
       Woodrow Wilson Foundation Pres. Arthur Levine on the first of its kind
       survey. Since it's the first survey, we can't compare to past results, but
       the foundation intends to do further research.
-    _key: card-5-d9876019-a430-49f9-951e-788679f10644
+    _key: card-5-dba7bbaf-6ec1-4fe7-9733-7a2afaa966ce
   - order: 5
     body: >-
       ## Something To Consider:
@@ -108,7 +108,7 @@ cards:
       * While survey was given to respondents on paper with multiple choice
       answers, those trying to pass citizenship test must answer questions
       verbally.
-    _key: card-6-cc460e57-28fa-4826-b9df-4a08c44e1791
+    _key: card-6-4423f6ae-4f88-4d87-9c77-4a78797f0362
   - order: 6
     body: >-
       Informed or not, voters are headed to the polls next month, and both
@@ -118,7 +118,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-10-19-citizenship-test/)
-    _key: card-10-d1744035-a869-482d-b642-16b624cb67a3
+    _key: card-10-308dae12-8216-4420-99da-e79d8660975f
 
 ---
 * **Civics (History and Government) Questions for the Naturalization Test:** [https://www.uscis.gov/sites/default/files/USCIS/Office%20of%20Citizenship/Citizenship%20Resource%20Center%20Site/Publications/100q.pdf](https://www.uscis.gov/sites/default/files/USCIS/Office%20of%20Citizenship/Citizenship%20Resource%20Center%20Site/Publications/100q.pdf)

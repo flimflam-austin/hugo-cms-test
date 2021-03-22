@@ -1,14 +1,14 @@
 ---
 title: 18.02.26 Flu Update
 slug: 20180326-18-02-26-flu-update
-_id: legacy-03d08570-b393-4612-9c38-c7c4286b39f1
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-086a3453-912a-47c9-b818-85b645e59621
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-26-flu-update/
 _createdAt: '2018-03-26T11:10:09Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-26T11:10:09+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip For Update
     citation: Flip For Update
-    _key: card-1-fca9a604-caf1-43be-9387-74864409c579
+    _key: card-1-4c21bd6c-99c6-485d-97b4-3968cd353efd
   - order: 1
     body: >-
       ## The Latest: CDC
@@ -51,7 +51,7 @@ cards:
       * Flu-related pediatric deaths: **133**
 
       * Hospitalization rates still comparably high to other tough flu seasons.
-    _key: card-2-9f317374-0878-4ecf-bff6-a276ff3f57e2
+    _key: card-2-68a68ce5-5137-46ec-8909-f2d3689b3251
   - order: 2
     body: >-
       ## $pending Bill = $$ For Flu
@@ -64,7 +64,7 @@ cards:
       * Budget increase for flu vaccine research = additional $40M.
 
       * $100M = new total budget for universal flu vaccine research.
-    _key: card-3-93acac98-0689-4b4e-80b4-7324a09ef80d
+    _key: card-3-8e2f14ab-28b5-48a1-a82a-072e136f9cfc
   - order: 3
     body: >-
       ## Not Only Gov’t Money…
@@ -79,7 +79,7 @@ cards:
       Dr. James Crowe, pediatric infectious diseases doctor at Vanderbilt U.
       Medical Center & head of non-profit funded "Universal Influenza Vaccine
       Initiative"
-    _key: card-4-178e6d05-a9bf-47f0-afc9-61863c8778f3
+    _key: card-4-8e1e1206-067b-49cf-8bbe-870c39f815f1
   - order: 4
     body: >-
       What is the #1 killer of Americans? An interesting chart that provides
@@ -87,7 +87,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-26-flu-update/)
-    _key: card-10-8e265ad6-eb56-4dd2-aeea-3d20f3c247e3
+    _key: card-10-738a2099-40ed-4457-a806-b6748bf4dbe7
 
 ---
 * Situation Update: Summary of Weekly FluView Report: [https://www.cdc.gov/flu/weekly/summary.htm](https://www.cdc.gov/flu/weekly/summary.htm)

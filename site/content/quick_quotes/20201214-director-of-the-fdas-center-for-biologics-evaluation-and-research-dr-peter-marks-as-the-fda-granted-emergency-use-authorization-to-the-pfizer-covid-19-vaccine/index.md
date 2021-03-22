@@ -5,31 +5,27 @@ title: >-
   Vaccine.
 slug: >-
   20201214-director-of-the-fdas-center-for-biologics-evaluation-and-research-dr-peter-marks-as-the-fda-granted-emergency-use-authorization-to-the-pfizer-covid-19-vaccine
-_id: legacy-7213851d-fda6-483a-bb83-1c4b27b6b13a
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-b813fbeb-dec2-420d-bd9e-678dc27ca649
+_rev: ZEyhBiGfgCfwE8WOjbuSlO
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/director-of-the-fdas-center-for-biologics-evaluation-and-research-dr-peter-marks-as-the-fda-granted-emergency-use-authorization-to-the-pfizer-covid-19-vaccine/
 _createdAt: '2020-12-12T04:18:14Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-12-12T04:18:14+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    3cad03fdfac0625e72d853aa39ecc266b6b826e2-1024x576.jpg
 is_breaking: false
-summary: >-
-  Director of the FDA’s Center for Biologics Evaluation and Research, Dr. Peter
-  Marks, as the FDA granted emergency use authorization to the Pfizer COVID-19
-  vaccine.
 featured_quote:
   quote: >-
     While not an FDA approval, today’s emergency use authorization of the
     Pfizer-BioNTech COVID-19 Vaccine holds the promise to alter the course of
     this pandemic in the United States,
-  citation: >-
-    Director of the FDA’s Center for Biologics Evaluation and Research, Dr.
-    Peter Marks, as the FDA granted emergency use authorization to the Pfizer
-    COVID-19 vaccine.
 
 ---
 * One day after an independent advisory panel recommended the FDA grant special status to a COVID-19 vaccine, the FDA followed suit.
@@ -38,4 +34,4 @@ featured_quote:
 * The President in an oval office message said vaccine distribution will begin within 24 hours of the EUA.
 * **Why It Matters:** This is the first time a vaccine using mRNA technology has been licensed for human use in the U.S. Some models show the vaccine decreasing the number of expected deaths.
 
-Here’s the FDA’s [announcement](https://www.fda.gov/news-events/press-announcements/fda-takes-key-action-fight-against-covid-19-issuing-emergency-use-authorization-first-covid-19)ress-announcements/fda-takes-key-action-fight-against-covid-19-issuing-emergency-use-authorization-first-covid-19)
+Here’s the FDA’s [announcement](https://www.fda.gov/news-events/press-announcements/fda-takes-key-action-fight-against-covid-19-issuing-emergency-use-authorization-first-covid-19)

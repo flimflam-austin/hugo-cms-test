@@ -4,28 +4,26 @@ title: >-
   Brother by Portland Police for a Fatal Shooting Saturday Night.
 slug: >-
   20200904-sister-of-michael-forest-reinoehl-on-her-48-year-old-brother-reportedly-under-investigation-by-portland-police-for-shooting-and-killing-a-pres-trump-supporter-saturday-night
-_id: legacy-2d4bd56a-8823-4785-b0e4-bbcae4ab0f56
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-9cfa864c-9ba6-42c0-95c4-e7306977f553
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/sister-of-michael-forest-reinoehl-on-her-48-year-old-brother-reportedly-under-investigation-by-portland-police-for-shooting-and-killing-a-pres-trump-supporter-saturday-night/
 _createdAt: '2020-08-31T04:12:19Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-08-31T04:12:19+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    b71a75f9ad66acef184eea3532f702f67da97494-2560x1707.jpg
 is_breaking: false
-summary: >-
-  Sister of Michael Forest Reinoehl on reported investigation of her 48-year-old
-  brother by Portland police for a fatal shooting Saturday night.
 featured_quote:
   quote: >-
     I have friends, family and loved ones on both sides of the conflict.
     Violence begets violence and hatred begets hatred. This is not the solution.
-  citation: >-
-    Sister of Michael Forest Reinoehl on reported investigation of her
-    48-year-old brother by Portland police for a fatal shooting Saturday night.
 
 ---
 * Both peaceful protests and violent riots have occurred in Portland, Oregon over the last 90 days.
@@ -41,4 +39,4 @@ featured_quote:
   * On Monday, the [Department of Justice](https://twitter.com/KerriKupecDOJ/status/1300429579044171778) disclosed there have been 300 people arrested on federal charges related to rioting and civil unrest – a third of whom were arrested in Portland.
 * ***UPDATE*:** On September 4, the U.S. Marshals Service [announced](https://www.usmarshals.gov/news/chron/2020/090420.htm) that Reinoehl was killed on September 3 in Olympia, Washington during a confrontation with law enforcement who sought to take him into custody in connection with a warrant issued for his arrest. Initial reports indicate Reinoehl produced a firearm, but no law enforcement officers were injured.
 
-**Read More Here**: [The Oregonian](https://www.oregonlive.com/crime/2020/08/man-under-investigation-in-fatal-shooting-after-pro-trump-rally-allegedly-took-loaded-gun-to-earlier-portland-protest.html?utm_campaign=oregonian_sf&utm_source=twitter&utm_medium=social)ly-took-loaded-gun-to-earlier-portland-protest.html?utm_campaign=oregonian_sf&utm_source=twitter&utm_medium=social)
+**Read More Here**: [The Oregonian](https://www.oregonlive.com/crime/2020/08/man-under-investigation-in-fatal-shooting-after-pro-trump-rally-allegedly-took-loaded-gun-to-earlier-portland-protest.html?utm_campaign=oregonian_sf&utm_source=twitter&utm_medium=social)

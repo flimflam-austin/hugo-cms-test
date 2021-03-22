@@ -1,14 +1,14 @@
 ---
 title: 18.08.01 Qq
 slug: 20190905-18-08-01-qq
-_id: legacy-c47646a5-7504-4411-b484-a73d92a6fc0c
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-4d4de5df-8620-42e1-a926-80bb82f901c7
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-08-01-qq/
 _createdAt: '2018-08-01T11:55:28Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-08-01T11:55:28+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
       fires engulfing more than 185K acres in northern California. According to
       the National Interagency Fire Center, CA is just one of 14 states
       currently reporting large fires.
-    _key: card-1-b606922b-e559-4e62-a44b-18bc9a8f7e67
+    _key: card-1-f28877bf-0db4-4a06-99f2-491904f2041c
   - order: 1
     body: >-
       > “There is a possibility of irreparable harm because of the way these
@@ -45,7 +45,7 @@ cards:
 
       [ABOUT 3D PLASTIC GUNS](https://smarthernews.com/18-07-30-3d-guns/)
     citation: ABOUT 3D PLASTIC GUNS
-    _key: card-2-bbb75a47-754b-4e2c-b3de-b2ce1f2d42dc
+    _key: card-2-3a2a27f2-455e-4dc9-8b32-4c67a6b5c6b5
   - order: 2
     body: >-
       > “With regard to the FRCs, I think the best way to describe them is to be
@@ -63,7 +63,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/l1v9NEfz9Bw?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-3-99088bbb-c17e-400f-b0a4-2b61811388b0
+    _key: card-3-88c31a85-9e62-4dfe-b07b-e08f1e909c93
   - order: 3
     body: >-
       > “Please help make this stop. Please help make hazing recognized for what
@@ -74,13 +74,13 @@ cards:
       Evelyn Piazza, in a statment to the court, as the first of 26 defendants
       are sentenced in connection with the February 2017 fraternity hazing death
       of her 19-year-old son Timothy Piazza at Penn State University.
-    _key: card-4-7743e036-bf37-4e82-8cd2-8293ff291b9d
+    _key: card-4-b8138463-018f-404e-bac7-cdf0494d8621
   - order: 4
     body: |-
       Check out SmartHERNews.com for more of the day's news.
 
       [view sources](https://smarthernews.com/18-08-01-qq/)
-    _key: card-10-c8889e78-913f-48ae-8fa7-bfe9ae2edd18
+    _key: card-10-c9824736-2fa0-4ba9-9bbc-68b7d4b3f0f2
 
 ---
 * **Federal judge in Seattle blocks release of blueprints for 3D-printed guns:**  

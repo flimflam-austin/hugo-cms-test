@@ -1,14 +1,14 @@
 ---
 title: 18.03.16 Otd West Point
 slug: 20180316-18-03-16-otd-west-point
-_id: legacy-b0dd1c2f-b487-42b4-989f-845d1ded6d09
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-5878bdc3-6231-4711-a35f-71b61378e73a
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-16-otd-west-point/
 _createdAt: '2018-03-16T12:01:25Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-16T12:01:25+00:00'
 weight: 50
 featured_image:
@@ -38,7 +38,7 @@ cards:
 
       FLIP HERE FOR MORE
     citation: FLIP HERE FOR MORE
-    _key: card-1-338a183e-0951-45cc-a95e-40eb43d704a7
+    _key: card-1-2279659d-73d0-4772-8e98-8183f8a231ec
   - order: 1
     body: >-
       ## Why “West Point”?
@@ -55,7 +55,7 @@ cards:
       [Click This Link:
       History](http://www.mountvernon.org/digital-encyclopedia/article/west-point/)
     citation: 'Click This Link: History'
-    _key: card-2-fff709af-a500-45c7-945b-dc64f2fc1d0d
+    _key: card-2-fc91dc86-78e5-4fc1-9ad7-91289e042ef6
   - order: 2
     body: |-
       ## A Brief History:
@@ -67,7 +67,7 @@ cards:
       1877: First African American cadet graduated
 
       1976: Enrollment opened to women
-    _key: card-3-f7e4b0c1-946f-48d6-9911-3823de1da60b
+    _key: card-3-f32b5473-8a16-4999-9440-53ff1836e01f
   - order: 3
     body: |-
       West Point Admissions
@@ -79,7 +79,7 @@ cards:
       * Under no legal obligation to support a child
       * “Qualified academically, medically, and physically”
       * Nominated by an approved source (ex: member of Congress)
-    _key: card-4-aca1efc8-17e0-4950-85a3-17850cb750de
+    _key: card-4-2f32af0f-93c9-448f-acf7-fc649fc8b97a
   - order: 4
     body: >-
       ## Life After West Point
@@ -92,7 +92,7 @@ cards:
       * West Point has forged countlessA leaders, including 2 U.S. Presidents
       (Grant & Eisenhower), governors, lawmakers, ambassadors, & **18
       astronauts**.
-    _key: card-5-6c1fd147-87e7-4a42-9e7e-949b7df11338
+    _key: card-5-d5a0fb85-1a3c-43d1-b033-3e9689f0b1fb
   - order: 5
     body: >-
       In 1826, when the West Point superintendent instituted a no-booze policy,
@@ -102,7 +102,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-16-otd-west-point/)
-    _key: card-10-fa1e6209-0df4-4e4b-94b9-361f73df0c8b
+    _key: card-10-e65719f4-9f50-4f2b-bdb0-96da66a710e3
 
 ---
 * West Point – The Making of America: [americanhistory.si.edu/westpoint/](http://americanhistory.si.edu/westpoint/)

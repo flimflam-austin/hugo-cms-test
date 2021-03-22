@@ -1,14 +1,14 @@
 ---
 title: Sexy Selfie Study
 slug: 20180906-18-09-05-sexy-selfie-study
-_id: legacy-843e5094-b4d5-46bc-974e-aff23d4885fb
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-c26b7a1d-994f-490c-afea-c4db14e5d4a4
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-09-05-sexy-selfie-study/
 _createdAt: '2018-09-06T12:00:15Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-09-06T12:00:15+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       Flip: Bottom Line
     citation: 'Flip: Bottom Line'
-    _key: card-1-81d5c815-2f7c-4256-9cde-49f94cef765d
+    _key: card-1-4941aa73-d49f-48b7-805f-fe38e5fd0286
   - order: 1
     body: >-
       ## Selfie Study
@@ -42,7 +42,7 @@ cards:
 
       * Analysis:A **Sexy selfies “sell”**; reflect desire to climb in social
       status.
-    _key: card-2-56a16f47-53b9-4867-b3c2-92dfdca1dbc2
+    _key: card-2-9ba42a46-cf2b-4415-88a5-90a504faa1fc
   - order: 2
     body: >-
       > ‘So, when a young woman adjusts her bikini provocatively with her phone
@@ -54,7 +54,7 @@ cards:
         
       Dr Khandis Blake, lead author, UNSW Science’s School of Biological, Earth
       and Environmental Sciences
-    _key: card-3-05ed7d18-f808-45f1-b5ba-4fa3fd52e849
+    _key: card-3-91419db9-ec01-4ba5-a675-31ca9227fd56
   - order: 3
     body: >-
       What Do Men  
@@ -71,7 +71,7 @@ cards:
 
       Researchers: sexy selfies play to primitive instincts of **women to
       compete with other women**,A for higher status, and finding a mate.
-    _key: card-4-7d09f61d-20ab-4cb0-aab9-8a0cafebe276
+    _key: card-4-e8fa4362-451a-44a9-b23e-a379c52f18e0
   - order: 4
     body: >-
       "In evolutionary terms, these kinds of behaviors are completely rational,
@@ -81,7 +81,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-05-sexy-selfie-study/)
-    _key: card-10-86342e63-7739-4269-a353-52f4c1bc568c
+    _key: card-10-39c450e6-8352-427b-b17f-02cdda7cd2e4
 
 ---
 * **The science behind sexy selfies:A**  

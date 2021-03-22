@@ -1,14 +1,14 @@
 ---
 title: 18.03.06 Stay at Home Moms
 slug: 20180306-18-03-06-stay-home-moms
-_id: legacy-962dfb31-eaaa-47d6-9516-7a81275666d7
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-dd9943ef-8175-4cf6-87dc-0440c3e01cf1
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-06-stay-home-moms/
 _createdAt: '2018-03-06T12:49:24Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-06T12:49:24+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-812a2709-e13c-47fb-b1ee-4165404b0a56
+    _key: card-1-cc078caf-c5af-4658-a3d3-2f8260155b19
   - order: 1
     body: >-
       # About the Study:
@@ -45,7 +45,7 @@ cards:
 
       * Researchers tracked who got a ‘call back’ – then issued survey &
       collected responses.
-    _key: card-2-d10d3214-84a1-4b09-aa76-032faf33452c
+    _key: card-2-a43f4089-613e-4a1f-a93a-baa812399675
   - order: 2
     body: >-
       > “Put simply, stay-at-home parents were about **half** as likely to get a
@@ -60,7 +60,7 @@ cards:
 
       Not Just Moms...Flip
     citation: Not Just Moms...Flip
-    _key: card-3-f25f330c-1681-41bb-a682-907ba0400c61
+    _key: card-3-2c657d9d-260d-44ce-9f6c-7b54f5f316a2
   - order: 3
     body: >-
       > “My research shows that, after being pushed out, (mothers) are kept out
@@ -71,7 +71,7 @@ cards:
         
         
       Prof. Kate Weisshaar, Lead Researcher
-    _key: card-4-83a444b8-1a72-46f3-b7de-a83344cd3f0f
+    _key: card-4-f68d80a2-75a7-4d3b-8df6-400dc62d15a4
   - order: 4
     body: >-
       ## Study Shows Vicious Cycle
@@ -83,7 +83,7 @@ cards:
       * An all-encompassing work life forces many parents out of traditional
       roles. It’s those same ‘expectations’ that keep them from re-entering the
       workforce.
-    _key: card-5-065a2f4b-3dcb-4fd8-8942-fbd66ab26a19
+    _key: card-5-c39a659e-2930-4b1d-8771-2377ca954058
   - order: 5
     body: >-
       # Food For Thought
@@ -100,7 +100,7 @@ cards:
       [Calculate Your Stay-At-Home
       Pay](https://swz.salary.com/MomSalaryWizard/LayoutScripts/Mswl_NewSearch.aspx)
     citation: Calculate Your Stay-At-Home Pay
-    _key: card-6-0df085e7-507b-4b78-b9d1-b77959dea9b5
+    _key: card-6-66667d7e-d898-48a6-b9a5-d60ca740f690
   - order: 6
     body: >-
       Why Does This Matter? Raises broader question about how parenting is
@@ -110,7 +110,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-06-stay-home-moms/)
-    _key: card-10-cd71924d-6a23-4d75-8b95-a662d45d9248
+    _key: card-10-5aea75c1-7ac4-49f2-99eb-131029e9dc63
 
 ---
 * Stay-at-Home Moms Are Half as Likely to Get a Job Interview as Moms Who Got Laid Off: [https://hbr.org/2018/02/stay-at-home-moms-are-half-as-likely-to-get-a-job-interview-as-moms-who-got-laid-off](https://hbr.org/2018/02/stay-at-home-moms-are-half-as-likely-to-get-a-job-interview-as-moms-who-got-laid-off)

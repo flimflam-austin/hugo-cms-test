@@ -1,14 +1,14 @@
 ---
 title: Will a Crucial Meting Help Keep America Safe?
 slug: 20180906-18-08-18-why-yemen-matters
-_id: legacy-b848d3de-454e-4aeb-a937-ce876331f601
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-43efabe5-bbb0-461f-8c4d-225d75092126
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-18-why-yemen-matters/
 _createdAt: '2018-09-06T11:58:32Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-09-06T11:58:32+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Why Yemen Matters
     citation: Why Yemen Matters
-    _key: card-1-e76b0f5c-536a-40e3-87b9-5ed7c24daeb6
+    _key: card-1-c8e884f5-3f70-4d97-9013-f30dfe140833
   - order: 1
     body: >-
       ## Why Yemen Matters
@@ -47,7 +47,7 @@ cards:
         
       AQ cleric Anwar al-Awlaki found refuge in Yemen, as did al-Qaeda’s lead
       bomb maker who helped launch the so-called underwear bomber.
-    _key: card-2-9ab4e131-f86d-4d70-86da-628c2b93aafc
+    _key: card-2-a8a3125e-9792-4daa-9996-96ca2e554545
   - order: 2
     body: >-
       ## What’s Happening
@@ -64,7 +64,7 @@ cards:
 
       **Big Question:** Do talks help the 4-year conflict or make situation
       worse?
-    _key: card-3-35ede9b9-8d35-4c9c-9707-52bb0d6f2437
+    _key: card-3-d570d590-34d8-48d9-838b-85b68915a3c6
   - order: 3
     body: >-
       The U.N. described the conditions in Yemen as an "apocalypse." Millions
@@ -74,7 +74,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-18-why-yemen-matters/)
-    _key: card-10-c6013590-fc85-4bce-8dc7-75711e49f5b2
+    _key: card-10-cfc86e83-0b6c-4dca-a0f0-8e52fa02abbb
 
 ---
 * **Yemen”s warring sides to meet, with tensions — and stakes — higher than ever :**  

@@ -1,23 +1,21 @@
 ---
 title: Dominican Republic
 slug: 20190905-dominican-republic
-_id: legacy-66c89f34-f0d5-4436-ae63-6f0b0acec253
-_rev: 7QmxBnVgzphH4dpufNYHA2
+_id: legacy-7f55b325-390d-4a2c-81f5-84f73583130c
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/dominican-republic/
 _createdAt: '2019-08-16T19:57:51Z'
-_updatedAt: '2021-03-16T12:30:36Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-08-16T19:57:51+00:00'
 weight: 50
 is_breaking: false
-summary: Dominican Republic
 featured_quote:
   quote: >-
     Former Boston Red Sox player reportedly shot. Several American families come
     forward with allegations of mistreatment at a DR Resort.
-  citation: Dominican Republic
 
 ---
 * Having about eight-ninths of its area

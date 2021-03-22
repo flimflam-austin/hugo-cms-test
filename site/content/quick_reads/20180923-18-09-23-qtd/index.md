@@ -1,14 +1,14 @@
 ---
 title: 18.09.23 Qtd
 slug: 20180923-18-09-23-qtd
-_id: legacy-a7d77a34-26b1-43f0-8d0d-5c16fe0003fe
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-b524cdc2-7eb1-470a-b9e5-27d2870fe354
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-23-qtd/
 _createdAt: '2018-09-23T15:05:28Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-23T15:05:28+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       Kristen Masciantonio
     citation: Kristen Masciantonio
-    _key: card-1-9c43e6f4-82a6-48b0-b70f-c17d251e3301
+    _key: card-1-8623f7fe-6923-47be-bd9a-9fe109f21c13
   - order: 1
     body: >-
       Kristen's daughter, Gianna was born with a deadly brain stem tumor. Given
@@ -38,7 +38,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-23-qtd/)
-    _key: card-10-16f71c82-7fe1-46d2-aec4-f6e0eefd2414
+    _key: card-10-01c6282d-6a17-40f2-ac9a-4d2c9b904b3d
 
 ---
 Listen to Kristen’s story:A [https://smarthernews.libsyn.com/smarther-news-ep13-the-true-story-behind-the-miracle-on-market](https://smarthernews.libsyn.com/smarther-news-ep13-the-true-story-behind-the-miracle-on-market)

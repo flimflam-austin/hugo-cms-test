@@ -1,14 +1,14 @@
 ---
 title: 18.07.17 Cheesy Cheesiness
 slug: 20180717-18-07-17-cheesy-cheesiness
-_id: legacy-117b66ac-c143-4f61-be3a-a8b0ef958a41
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-548d613b-7a4d-42b5-8ed6-0e65a7f6f04a
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-17-cheesy-cheesiness/
 _createdAt: '2018-07-17T10:45:56Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-17T10:45:56+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       Why?
     citation: Why?
-    _key: card-1-a385c28e-7844-45f9-8aeb-cc0ae54006e7
+    _key: card-1-ac618e3c-1935-4dc2-8ff6-3522cdb62006
   - order: 1
     body: >-
       ## Wait…Cheese Stockpiles?
@@ -45,7 +45,7 @@ cards:
 
       * Why? Too much milk. Milk often made into cheese to preserve it. Also,
       summer months = less lunches packed. And tariffs.
-    _key: card-2-eab58f75-973f-4373-96ec-d07fa8c539e0
+    _key: card-2-190bc0de-700c-406c-aec0-067d4d534a19
   - order: 2
     body: >-
       ## Why It Matters
@@ -58,7 +58,7 @@ cards:
       Mexico/Canada tariffs in retaliation for our tariffs on steel & aluminum.
       This adds more pressure on farmers who don’t make a ton of money off of
       cheese (margins tight).
-    _key: card-3-0f6fd5e7-1794-494e-ab5d-9f2b608c4546
+    _key: card-3-91fff6ce-0e2b-441a-abcc-7e9f181fc55f
   - order: 3
     body: >-
       ## Bigger Picture
@@ -72,7 +72,7 @@ cards:
 
       * Insight from one industry exec: While yogurt producers have innovated
       (pouches, squeeze packs), milk producers haven’t.
-    _key: card-4-5cc0ecf5-76ad-4bc7-ae99-d2a75f5c2b06
+    _key: card-4-93ca78df-e04c-4bb6-b01e-b8daed9168a3
   - order: 4
     body: >-
       The price of cheese impacts the price farmers receive for milk, so it
@@ -81,7 +81,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-17-cheesy-cheesiness/)
-    _key: card-10-c32d86e4-bdac-410a-9af5-77d50554b2e3
+    _key: card-10-e7d73b6f-e0cd-4f7d-a24e-702af96e9237
 
 ---
 * **Cheese prices crumble — but the global trade dispute could halt their drop:**  

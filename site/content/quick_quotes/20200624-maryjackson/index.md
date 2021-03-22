@@ -3,28 +3,26 @@ title: >-
   Carolyn Lewis on Nasa's Decision to Rename Its d.c. Headquarters After Her
   Mother, Mary Jackson, the Agency's First Black Female Engineer.
 slug: 20200624-maryjackson
-_id: legacy-036cdfe1-76c5-46d9-ae79-179f70c3c970
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-de2fa98e-55db-40fc-8dd3-ea50e9c2b6a4
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - article/maryjackson/
 _createdAt: '2020-06-24T22:16:21Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-06-24T22:16:21+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    d9cb042fe4b4596e59d0aaea5c9fda0adc24803a-1024x793.jpg
 is_breaking: false
-summary: >-
-  Carolyn Lewis on NASA’s decision to rename its D.C. headquarters after her
-  mother, Mary Jackson, the agency’s first black female engineer.
 featured_quote:
   quote: >-
     She was a scientist, humanitarian, wife, mother, and trailblazer who paved
     the way for thousands of others to succeed, not only at NASA, but throughout
     this nation.
-  citation: >-
-    Carolyn Lewis on NASA’s decision to rename its D.C. headquarters after her
-    mother, Mary Jackson, the agency’s first black female engineer.
 
 ---
 * NASA announced the name change to honor not only Jackson’s talent as a mathematician and aeronautical engineer, but also her influence promoting the hiring of other women during America’s “space race” and beyond.
@@ -36,4 +34,4 @@ featured_quote:
 * In 2019, fourteen years after her death, she was awarded the a congressional gold medal, the highest civilian award
 * In 2016, NASA named a new research facility after Katherine Johnson, another leading NASA black female engineer, who made America’s first flight into space possible. A SmartHER backgrounder on Johnson: [CLICK HERE](https://smarthernews.com/katherine-johnson/)
 
-Official press release from NASA: [CLICK HERE](https://www.nasa.gov/press-release/nasa-names-headquarters-after-hidden-figure-mary-w-jackson) NASA: [CLICK HERE](https://www.nasa.gov/press-release/nasa-names-headquarters-after-hidden-figure-mary-w-jackson)
+Official press release from NASA: [CLICK HERE](https://www.nasa.gov/press-release/nasa-names-headquarters-after-hidden-figure-mary-w-jackson)

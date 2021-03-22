@@ -1,14 +1,14 @@
 ---
 title: 18.06.17 Immigration and Children at Border
 slug: 20180620-18-06-17-immigration-and-children-at-border
-_id: legacy-79cc2e7b-875c-4179-8024-6481e75ed53d
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-fa4c2125-44cc-40d6-ba2e-891d7b4f8bf8
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-17-immigration-and-children-at-border/
 _createdAt: '2018-06-18T11:13:23Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-18T11:13:23+00:00'
 weight: 50
 featured_image:
@@ -37,7 +37,7 @@ cards:
 
       What's Going On
     citation: What's Going On
-    _key: card-1-486f697d-82c6-48cf-a0a2-265ef0130bf3
+    _key: card-1-0913d7ce-1d21-4100-852d-2ab3c629b872
   - order: 1
     body: >-
       ## Context Matters
@@ -55,7 +55,7 @@ cards:
       [Click: DHS
       Numbers](https://www.dhs.gov/news/2018/06/06/statement-dhs-press-secretary-may-border-numbers)
     citation: 'Click: DHS Numbers'
-    _key: card-2-75f65541-c394-4f2f-a19b-f0e6fe4ed4cf
+    _key: card-2-b5c70dd9-5af3-4e9c-8460-9a4305279d20
   - order: 2
     body: >-
       ## Why Separate Children?
@@ -71,7 +71,7 @@ cards:
 
       What Happens Now?
     citation: What Happens Now?
-    _key: card-3-f69cf05c-f36c-4e5f-b472-719c82b108b2
+    _key: card-3-4b775d6b-d020-41cd-a5f7-8345980f41fa
   - order: 3
     body: >-
       ## Children: What Happens?
@@ -85,7 +85,7 @@ cards:
 
       * DHS: Last year, 90% of children released to sponsor who was either a
       parent or close relative.
-    _key: card-4-91e2ec13-0ed1-4662-a842-bd5cd2563654
+    _key: card-4-a269ebda-6244-4719-bc7a-27111763b117
   - order: 4
     body: >-
       > “It is inconsistent with our American values to separate these children
@@ -96,10 +96,10 @@ cards:
         
         
       Senator Susan Collins (R, ME), Twitter, June 17, 2018
-    _key: card-5-8a12ba96-36ee-40c8-b113-bf4952fb27be
+    _key: card-5-1ef5d294-05af-4bea-952b-99d439d2aa25
   - order: 5
     body: "> “.@SenatorCollins There is no policy to separate those seeking asylum at a port of entry. @DHSgov still has a responsibility, however, to ensure the minor is not in danger or being trafficked. We will not look the other way.”  \n  \n  \n  \nTyler Houltona\x0F, Dep't of Homeland Security spokesman, Twitter, June 17, 2018"
-    _key: card-6-8aac9652-6fda-4181-bf08-e3fed5865274
+    _key: card-6-e5092f8e-d3c0-4b60-9b1e-a2c1ae36fa23
   - order: 6
     body: >-
       Watch For: Terms "parents" & "families" used in this debate. DHS says part
@@ -109,7 +109,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-06-17-immigration-and-children-at-border/)
-    _key: card-10-e078b1ba-a900-488a-b4cc-e43f415bd2ec
+    _key: card-10-df647b84-79da-4e47-ad06-03840c59954d
 
 ---
 * **GOOD READ:A What you need to know about the Trump administration”s zero-tolerance immigration policy:** [http://www.politifact.com/truth-o-meter/article/2018/jun/06/what-you-need-know-about-trump-administrations-zer/](http://www.politifact.com/truth-o-meter/article/2018/jun/06/what-you-need-know-about-trump-administrations-zer/)  

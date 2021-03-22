@@ -1,14 +1,14 @@
 ---
 title: Quote of the Day
 slug: 20191203-18-10-03-qtd
-_id: legacy-a4c96ffc-e173-4520-aa69-49a4832daf7a
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-9925aebe-3d7b-4496-806c-155b5875462e
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - 18-10-03-qtd/
 _createdAt: '2018-10-03T21:21:47Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-10-03T21:21:47+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       Rev. Dr. Herbert Sprouse
     citation: Rev. Dr. Herbert Sprouse
-    _key: card-1-6bd583ae-82e8-48dc-8a06-2c22ba8030bf
+    _key: card-1-7d733d68-f6ea-4a18-a8b8-d21ee9be11d4
   - order: 1
     body: >-
       Rev. Dr. Sprouse is one member of a bipartisan civilian group called
@@ -37,7 +37,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-10-03-qtd/)
-    _key: card-10-b83dcc71-6b41-465e-80ff-6b0c631de2f5
+    _key: card-10-908bc9cb-33f2-4667-af98-0de8feadf10b
 
 ---
 * **No eye rolling, no yelling. How Trump supporters and critics try to find common ground:**  

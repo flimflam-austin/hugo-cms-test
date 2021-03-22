@@ -1,14 +1,14 @@
 ---
 title: 18.02.13 Ligety Video
 slug: 20180212-18-02-13-ligety-video
-_id: legacy-fcfdbd00-64fa-4cdd-b476-3c740eaebcb6
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-fe6619fb-fd95-466e-a1af-33bd4884356d
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-13-ligety-video/
 _createdAt: '2018-02-13T00:32:17Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-13T00:32:17+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
       [Click HERE to see video Click sunglasses (below) for card
       flip](https://instagram.com/p/BfAqRn_gbVu/)
     citation: Click HERE to see video Click sunglasses (below) for card flip
-    _key: card-1-549543c1-1614-4fc5-b15e-609528656958
+    _key: card-1-f8793ddf-7a6d-43d2-97c5-9d77e0fb32de
   - order: 1
     body: >-
       # Ted “Shred” Ligety
@@ -47,10 +47,10 @@ cards:
       * Father of an infant son: Jax.
 
       * Last year at this time? He was recovering from back surgery.
-    _key: card-2-090a37f5-b342-432b-88fc-eaa96f3930d6
+    _key: card-2-b5b053a4-59f6-4997-b897-6854b6ebdb26
   - order: 2
     body: '[view sources](https://smarthernews.com/18-02-13-ligety-video/)'
-    _key: card-10-717cf760-6557-4a93-a362-0417df34f929
+    _key: card-10-68b38d2e-b84c-4521-92d2-044b11512cf2
 
 ---
 * Ted Ligety:A [http://www.tedligety.com/](http://www.tedligety.com/)

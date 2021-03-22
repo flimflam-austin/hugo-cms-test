@@ -1,14 +1,14 @@
 ---
 title: 18.06.11 History of Handshake
 slug: 20180612-18-06-11-history-handshake
-_id: legacy-d902bdf3-a193-4d4a-900b-a32d00a91417
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-9b1b1e64-978f-4840-8f90-aa82c925d549
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-11-history-handshake/
 _createdAt: '2018-06-12T10:56:06Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-12T10:56:06+00:00'
 weight: 50
 featured_image:
@@ -24,7 +24,7 @@ cards:
 
       Symbolism: Poignant
     citation: 'Symbolism: Poignant'
-    _key: card-1-5bd7d8f1-8a11-45c6-8542-5a2f3b918608
+    _key: card-1-da2cf895-224d-4906-ab78-24a7363ec4b0
   - order: 1
     body: >-
       Exact Origin?  
@@ -39,7 +39,7 @@ cards:
         
         
       Farmers' Almanac
-    _key: card-2-d2f2eb90-3d4b-4e69-8e9f-b0ba32ef5a1e
+    _key: card-2-ebc9eb78-acac-483c-816d-0d7e52fbe2a1
   - order: 2
     body: >-
       Do We Shake Hands…  
@@ -58,7 +58,7 @@ cards:
       [Click: Link To
       Study](https://www.smithsonianmag.com/smart-news/might-be-why-handshaking-evolved-180954472/)
     citation: 'Click: Link To Study'
-    _key: card-3-cd223163-0865-4215-951e-f8c50095fa5f
+    _key: card-3-46cd857a-1577-4119-9f24-8b22ee7e1086
   - order: 3
     body: >-
       ## What makes a good handshake?
@@ -71,7 +71,7 @@ cards:
         
         
       Emily Post
-    _key: card-4-59b39a9d-5a72-49f3-a0ff-9c8c03049b11
+    _key: card-4-f4f57fe9-bef5-4160-863b-f0e561e82c7c
   - order: 4
     body: >-
       Good guide to handshakes... when to... when not to... and what about
@@ -79,7 +79,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-11-history-handshake/)
-    _key: card-10-e3453d65-fb1c-4134-981d-3c927dd904cb
+    _key: card-10-9c70561f-f998-4f90-89b8-8f28a44b4df4
 
 ---
 * **A Great Handshake at Home or Abroad:**  

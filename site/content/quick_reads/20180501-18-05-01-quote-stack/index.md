@@ -1,14 +1,14 @@
 ---
 title: 18.05.01 Quote Stack
 slug: 20180501-18-05-01-quote-stack
-_id: legacy-cf0686fe-3339-4827-8bac-c3665d86ef7b
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-824f6169-6ba3-4de9-8200-c8f673dfb162
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-01-quote-stack/
 _createdAt: '2018-05-01T09:52:05Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-01T09:52:05+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
       (OPIS), to the Associated Press on April 30th. Climbing crude oil prices
       have pushed the U.S. daily national average for regular gasoline to $2.81
       per gallon - up from $2.38 per gallon last year.
-    _key: card-1-40b3b627-816c-4dcd-a8c8-efd34d5eddab
+    _key: card-1-cab3b404-6bc1-4059-88a8-a33428150005
   - order: 1
     body: >-
       > **“Only in Texas will you get a Gator and Whataburger in the same
@@ -47,7 +47,7 @@ cards:
       [Click:
       Video](https://www.facebook.com/100001386861557/videos/pcb.1783916161664595/1783877835001761/?type=3&theater)
     citation: 'Click: Video'
-    _key: card-2-e85f7c8f-eee6-4137-b1bb-9e96042ec468
+    _key: card-2-c234b72c-93fe-483d-9314-e96c383594d5
   - order: 2
     body: >-
       > “Before I leave I’d like to see our politics begin to return to the
@@ -61,7 +61,7 @@ cards:
       excerpt from his forthcoming book, ‘The Restless Wave: Good Times, Just
       Causes, Great Fights, and Other Appreciations.’ McCain, 81, is battling
       brain cancer.
-    _key: card-3-240f1bd3-5b43-4dc0-8db6-57309ea236ca
+    _key: card-3-d88d6800-0655-4b5c-b694-eb0d2b247633
   - order: 3
     body: >-
       > **“It’s not about our salaries. Most teachers I know, they try to get
@@ -75,10 +75,10 @@ cards:
       Colorado. Like their counterparts in Oklahoma, West Virginia, & Kentucky,
       the AZ & CO educators want improved facilities, more funding & higher
       wages.
-    _key: card-4-e76a710c-8807-4608-961c-0a58a0f0c28c
+    _key: card-4-2906a132-3046-47d8-849d-68a955918331
   - order: 4
     body: '[view sources](https://smarthernews.com/18-05-01-quote-stack/)'
-    _key: card-10-69bd71e5-96c5-490d-b33c-1068520ea3e9
+    _key: card-10-20e164dd-9154-4d0e-a91c-f2d725a7c5e9
 
 ---
 * **Drivers facing most expensive driving season in years:** [https://apnews.com/0ccaaf89843945ae8b6e7ab48966ef86/Drivers-facing-most-expensive-driving-season-in-years](https://apnews.com/0ccaaf89843945ae8b6e7ab48966ef86/Drivers-facing-most-expensive-driving-season-in-years)

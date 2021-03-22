@@ -1,14 +1,14 @@
 ---
 title: Smarthernews Quick Quotes for Friday, October 5th
 slug: 20190905-quick-quotes-11
-_id: legacy-98bb94c2-5027-4962-b80d-a7d599dd6467
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-da7710e3-ef40-4db4-bac8-a10961e91b32
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-11/
 _createdAt: '2018-10-05T11:42:21Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-10-05T11:42:21+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       interest rates hit new multi-year highs. With stocks still holding near
       record highs, investors will watch Friday's September jobs report for any
       employment changes or a worrisome jump in avg. hourly earnings.
-    _key: card-1-35753eea-568e-411e-91ba-dcb921fae1e7
+    _key: card-1-b066c12d-4e76-4fc2-8d3c-0838b55fa121
   - order: 1
     body: >-
       > “The ninety-nine percent are just a bunch of Zero’$.”  
@@ -43,7 +43,7 @@ cards:
       on Wednesday where he admitted to purchasing castor beans, the raw
       material for the poison ricin, and mailed it. No one was hurt. He's being
       held on a $25K cash bond.
-    _key: card-2-e71f3460-614c-4755-b6ef-3dc67268f636
+    _key: card-2-81c937ec-a6e0-4c98-bb1a-25dd34a0fc6e
   - order: 2
     body: >-
       > ‘There’s no one silver bullet when it comes to the epidemic of opioids,
@@ -55,7 +55,7 @@ cards:
       opioid legislation to fund programs to treat addiction, monitor
       prescriptions and update information on alternative treatments to
       addictive drugs. President Trump is expected to sign the bill.
-    _key: card-3-1249dfc1-25ed-4164-b9a2-bbf03a3b0ba2
+    _key: card-3-69c38df8-f1f2-4368-badc-a38d0c49acc2
   - order: 3
     body: >-
       > “Keen as I may be to clear my name, I refuse to feed the media spectacle
@@ -67,7 +67,7 @@ cards:
       hotel room in 2009. The world's highest-paid soccer star ($108M) was
       benched by his Portugal team for two games following the claims, and his
       sponsor Nike says it is "deeply concerned" by the allegations.
-    _key: card-4-13c24921-db21-4e13-896e-fff5bee8c2d8
+    _key: card-4-066747ed-f59b-4ecc-9adc-a18bb52e3892
   - order: 4
     body: >-
       > “It’s the Rolls Royce of malts. … it’s an object of beauty in its own
@@ -80,13 +80,13 @@ cards:
       Macallan 26, which was purchased by a private collector from Asia, is now
       the most expensive standard whisky bottle ever to be sold at auction. When
       first sold in 1986, the bottle cost $27,000.
-    _key: card-5-c9ae9e02-c29b-43bb-86e6-57c7e500e2b2
+    _key: card-5-6f621e2c-4e6e-442e-bcbb-1796ab42cb5d
   - order: 5
     body: |-
       Cheers to the weekend!
 
       [view sources](https://smarthernews.com/quick-quotes-11/)
-    _key: card-10-644165d5-3852-4887-bcd6-982acda7d5cf
+    _key: card-10-0aa3ee26-42e2-4063-a2c1-2ea70b2b37e8
 
 ---
 * Dow drops 300 points as rates surge; 10-year yield hits its highest level since 2011:  

@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for September 5
 slug: 20190905-18-09-05-qq
-_id: legacy-8e154859-8309-4463-bf93-f53a94d50f9f
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-7cc2c15a-8c4f-4eef-9109-f83cd74865f3
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-05-qq/
 _createdAt: '2018-09-05T11:54:47Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-05T11:54:47+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       recover Dorothy's ruby slippers, 13 years after they were stolen from the
       Judy Garland Museum in the actress' hometown. They are one of four known
       pairs and were insured for $1M.
-    _key: card-1-55e6fab8-5c47-43ea-b401-59d54c3e895b
+    _key: card-1-91ef90f9-4f51-4996-9df5-6369b99df9a3
   - order: 1
     body: >-
       > “Twitter does not use political ideology to make any decisions….A In
@@ -43,10 +43,10 @@ cards:
       Dorsey & Facebook's Sheryl Sandberg will appear before the House Committee
       on Energy and Commerce to discuss their companies' response to foreign
       attempts to influence U.S. political campaigns.
-    _key: card-2-d93158d7-495a-4ce2-b21f-6cc482e69dc8
+    _key: card-2-36a22304-1c15-4f61-9fdf-2c5b520a9c7d
   - order: 2
     body: "> ‘You hire us to get things done a\x14 and pass the torch when we’ve done our best to do what you hired us to do.’  \n  \n  \n  \nChicago Mayor Rahm Emanuel announcing he will not seek re-election. The move is a surprise as he's raised $10M for a third term and, historically, Chicago mayors hold office for decades. Emanuel faces scrutiny over his handling of a police officer shooting a knife-wielding teen 16 times. The officer's murder trial starts Wednesday."
-    _key: card-3-f0182fd0-fc0d-4725-aa85-3cde11eb40fc
+    _key: card-3-498b6ed3-8be3-42f8-8b51-6aea885eba1a
   - order: 3
     body: >-
       > “I’m here to take that stand and say we are ready for the storm.”  
@@ -57,7 +57,7 @@ cards:
       Board, on approaching storm Gordon. His first day on the job was Tuesday;
       he came from Milwaukee. Gordon is on track to be the first hurricane to
       make landfall this year.
-    _key: card-4-e87bfdd6-db05-4bcf-b1e5-91bd346e0d5e
+    _key: card-4-b9aee35e-a548-4183-bc6e-56dcb47eb430
   - order: 4
     body: >-
       "No place like home." Go deeper on the mysterious disappearance of those
@@ -65,7 +65,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-05-qq/)
-    _key: card-10-c280a090-e228-4398-a684-5e980ef13dd5
+    _key: card-10-8928f258-6b38-4fa6-bb7d-d0791cf8a12c
 
 ---
 * **How Judy Garland’s ruby slippers from ‘The Wizard of Oz’ were recovered after 13 years:**  

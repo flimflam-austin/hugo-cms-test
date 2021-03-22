@@ -1,14 +1,14 @@
 ---
 title: Deadly Demonstrations in France
 slug: 20181206-french-protests
-_id: legacy-f5ec1b35-8663-41d9-b94f-d6c08bbee9ee
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-8cacbee2-6799-461d-b737-d21ad6a9dc35
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - french-protests/
 _createdAt: '2018-12-06T02:53:47Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-12-06T02:53:47+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       What's Going On
     citation: What's Going On
-    _key: card-1-26839232-f702-4917-9263-1f1e21862c89
+    _key: card-1-1a05ccd9-d200-43aa-95eb-b589ea631f20
   - order: 1
     body: >-
       ## Fuel Tax Sparked Protests
@@ -46,7 +46,7 @@ cards:
 
       * **Huge anti-government protests**A & riots followed over the last 3
       weeks;A 4 people died.
-    _key: card-2-719abf57-9e86-4884-8bea-392f1ff6fc6b
+    _key: card-2-b536eda3-79f7-4d63-a784-ec4be109d37a
   - order: 2
     body: >-
       ## FUEL TAX CANCELLED
@@ -62,7 +62,7 @@ cards:
       Macron didn't start the fuel tax - it dates back to 2014 and has gradually
       risen over the last few years. Regardless, Macron's critics say his
       policies favor the wealthy.
-    _key: card-3-0d2678f2-8629-4090-9224-c2885fe3581e
+    _key: card-3-f71eb6b5-3feb-4a63-8cfd-0f80cc9daf72
   - order: 3
     body: >-
       ## PROTESTS MAY NOT END
@@ -77,7 +77,7 @@ cards:
       wanting higher wages, to students, to truckers threatening to strike. One
       analyst described protestors as middle class & squeezed by the welfare
       state - paying high taxes but feeling few benefits.
-    _key: card-4-92a749c6-7319-40c4-a3fe-259e1a17e75a
+    _key: card-4-01eba6a4-7bee-4904-88f8-3e3eb57b73be
   - order: 4
     body: >-
       ## Why It Matters
@@ -91,7 +91,7 @@ cards:
       * **Big Picture**: The European Union is under pressure as the U.K’s exit
       looms & Russia rattles Ukraine. How long will this political crisis in
       France last? What’s the impact?
-    _key: card-5-0f0f0b34-62b3-4b7f-a78b-f4c89a3898e3
+    _key: card-5-440ae55a-7368-45eb-901b-e23541626696
   - order: 5
     body: >-
       America has a fuel tax too. Federal & state fees typically add
@@ -101,7 +101,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/french-protests/)
-    _key: card-10-514c07cc-16f9-48a9-855b-7be5a1ffcb0a
+    _key: card-10-f6a903d1-f881-4002-aef8-4a07d28b18a1
 
 ---
 * **Macron scraps French fuel tax hike amid violent protests**  

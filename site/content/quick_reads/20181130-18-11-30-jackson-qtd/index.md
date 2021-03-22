@@ -1,14 +1,14 @@
 ---
 title: 'Quote of the Day: Michael Jackson'
 slug: 20181130-18-11-30-jackson-qtd
-_id: legacy-5a6a99dc-3d18-4de5-b073-22a020bb3a29
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-e4a84edb-3d78-42b9-9fe9-96af4f52581f
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-11-30-jackson-qtd/
 _createdAt: '2018-11-30T12:33:48Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-11-30T12:33:48+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       MICHAEL JACKSON
     citation: MICHAEL JACKSON
-    _key: card-1-94b6e9b0-6326-48ce-9f56-c88b88585002
+    _key: card-1-d1ce9b2b-6078-4e9f-a7ac-f6be52a79f80
   - order: 1
     body: >-
       Michael Jackson recalling what Ed Sullivan told him during their first
@@ -36,7 +36,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-11-30-jackson-qtd/)
-    _key: card-10-eaead87a-b745-49dd-b103-9b08e72a5087
+    _key: card-10-4cc9fa6a-b464-4f88-a661-555802ec3527
 
 ---
 * **Michael Jackson’s Thriller at 30 (From 2012):**  

@@ -1,14 +1,14 @@
 ---
 title: 18.07.18 Qq
 slug: 20190905-18-07-18-qq
-_id: legacy-f5d6e9f6-360c-4fb4-90b9-cf697af103f1
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-b6d2dfd5-1f25-4e9f-aedc-d7780bb0e5b9
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-07-18-qq/
 _createdAt: '2018-07-18T11:00:50Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-07-18T11:00:50+00:00'
 weight: 50
 featured_image:
@@ -21,7 +21,7 @@ cards:
   - order: 0
     body: "> “Ready for lift off! New Shepard is gearing up for its ninth mission. We’ll be doing a high altitude escape motor test a\x13 pushing the rocket to its limits.”  \n  \n  \n  \nBlue Origin, Jeff Bezos' spaceflight company, on the blast off of its suborbital spaceship scheduled for July 18. When it's ready for human flight, tickets will cost at least $200K.\n\n[WATCH LAUNCH HERE](https://www.blueorigin.com/#youtubeNRDhdHRyyjc)"
     citation: WATCH LAUNCH HERE
-    _key: card-1-2709e174-727a-4100-a80d-5039809cf268
+    _key: card-1-4e142d63-147d-4e8d-a24f-9915502fb091
   - order: 1
     body: >-
       > “Whoops, they just turned off the light.A That must be the intelligence
@@ -33,7 +33,7 @@ cards:
       since meeting with Pres. Putin. The President just finished saying he had
       "full faith" in the intelligence agencies when the lights suddenly &
       briefly turned off.
-    _key: card-2-2fcb642e-f0ca-4509-986f-135888e38c2e
+    _key: card-2-b9ee0bff-c78c-484e-9257-2354a8abcac1
   - order: 2
     body: >-
       > “I believe what belongs to you, comes to you. And I would have never
@@ -44,7 +44,7 @@ cards:
       Cher, on her return to the big screen in "Mama Mia! Here We Go Again."
       Inspired by her new film, she is set to release a new album of ABBA
       covers, making it her 26th studio album to date.
-    _key: card-3-adabea87-6c51-4d93-8efc-c6cdb3248280
+    _key: card-3-b7cfd4d6-b52a-4658-bca8-8c6ba775d120
   - order: 3
     body: >-
       > “I love you. I miss you. I’m sorry for anything that went wrong…. I want
@@ -61,13 +61,13 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/fucTtvyssFg?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-4-c3262539-edbd-4388-8907-de2b5cb276db
+    _key: card-4-0a4cc55e-3d2b-4c44-b727-e67a4c9b3312
   - order: 4
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-07-18-qq/)
-    _key: card-10-82e460e6-9f7a-4ca2-9bb1-b9634f08e709
+    _key: card-10-6ac55859-0702-4309-9928-2a53e7332eba
 
 ---
 * **Blue Origin Twitter**: [https://twitter.com/blueorigin/status/1019190558936436737](https://twitter.com/blueorigin/status/1019190558936436737)

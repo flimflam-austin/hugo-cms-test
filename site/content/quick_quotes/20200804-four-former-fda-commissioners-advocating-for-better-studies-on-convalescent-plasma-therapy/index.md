@@ -4,28 +4,26 @@ title: >-
   Plasma Therapy.
 slug: >-
   20200804-four-former-fda-commissioners-advocating-for-better-studies-on-convalescent-plasma-therapy
-_id: legacy-660e96b2-6836-4628-b272-1a274cc6bf84
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-5ca0d3c7-a536-4084-be8a-b68f1e73cc89
+_rev: ZEyhBiGfgCfwE8WOjbuSlO
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/four-former-fda-commissioners-advocating-for-better-studies-on-convalescent-plasma-therapy/
 _createdAt: '2020-08-04T11:03:45Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-08-04T11:03:45+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    119009cc9785499902c4acf9c3aaca09cadba42b-2500x1478.jpg
 is_breaking: false
-summary: >-
-  Four former FDA commissioners advocating for better studies on convalescent
-  plasma therapy.
 featured_quote:
   quote: >-
     While vaccine development continues, it’s important to advance every
     promising treatment option to improve the odds for those who become sick.
-  citation: >-
-    Four former FDA commissioners advocating for better studies on convalescent
-    plasma therapy.
 
 ---
 * FDA commissioners (Mark McClellan, Margaret Hamburg, Robert Califf and Scott Gottlieb) want to shine a spotlight on the need for strong, quick scientific trials on convalescent plasma treatment for COVID-19.
@@ -38,4 +36,4 @@ featured_quote:
 
 How to donate: [Helpful Link](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/donate-covid-19-plasma/)
 
-Dr. Darria shares with SmartHER News why blood matters in new COVID-19 research and convalescent plasma treatment. [Promising News on COVID-19?](https://smarthernews.com/article/promising-news-on-covid-19/)scent plasma treatment. [Promising News on COVID-19?](https://smarthernews.com/article/promising-news-on-covid-19/)
+Dr. Darria shares with SmartHER News why blood matters in new COVID-19 research and convalescent plasma treatment. [Promising News on COVID-19?](https://smarthernews.com/article/promising-news-on-covid-19/)

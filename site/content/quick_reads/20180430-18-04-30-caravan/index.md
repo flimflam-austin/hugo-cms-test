@@ -1,14 +1,14 @@
 ---
 title: 18.04.30 Caravan
 slug: 20180430-18-04-30-caravan
-_id: legacy-48f79363-d713-418a-b185-52c5d055b941
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-fd33739a-8818-492b-99b0-38c0ef21c84e
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-30-caravan/
 _createdAt: '2018-04-30T15:33:59Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-30T15:33:59+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       FLIP FOR MORE
     citation: FLIP FOR MORE
-    _key: card-1-64c96fcf-66cc-471c-92fd-38226da66429
+    _key: card-1-1ad5e760-6908-4e6b-a232-7e1cacf36eda
   - order: 1
     body: >-
       ## Caravan 101
@@ -44,7 +44,7 @@ cards:
 
 
       **Why:** To obtain *legal* asylum in U.S.
-    _key: card-2-88466953-41f5-46c0-be5e-283de2166b78
+    _key: card-2-c5ba4e6d-a96c-4ac8-b8b3-6a914e426edd
   - order: 2
     body: >-
       ## What is legal asylum?
@@ -63,7 +63,7 @@ cards:
       4. Nationality  
 
       5. Race
-    _key: card-3-8ab913db-9596-4fcd-b0b9-c69f569b8dcb
+    _key: card-3-8c912641-139b-446f-950f-5a457061d176
   - order: 3
     body: >-
       ## Approx 11% of all asylum applications were granted in 2016
@@ -75,10 +75,10 @@ cards:
 
       **FYI:** San Ysidro is the nation’s busiest border crossing. Immigration
       officials there processed 50 asylum cases a day from Oct – Feb.
-    _key: card-4-38e7032f-03f9-494e-aa60-196369c667a1
+    _key: card-4-b57940a2-bb2e-4d16-a284-1d9dbc40cbbf
   - order: 4
     body: "## Opposing Views: Caravan\n\n**“a deliberate attempt to undermine our laws and overwhelm our system”**  \nAG Jeff Sessions\n\n**‘For us, this is all about who we are as a country…I want it to be true that when we say, a\x18Liberty & justice for all,’ we mean it.”**  \nHeather Cronk, Showing Up for Racial Justice to NYT"
-    _key: card-5-680a80a3-13d5-46bf-83f3-7097b6c160cf
+    _key: card-5-ac10355a-499d-499c-918b-cd568486e4f0
   - order: 5
     body: >-
       NOW WHAT? Unclear. Generally, asylum-seekers are held for up to three days
@@ -87,7 +87,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-30-caravan/)
-    _key: card-10-253589d0-b07b-4097-aa37-087f7433b169
+    _key: card-10-3dcc149c-6d3d-418c-a59b-30908cf097cd
 
 ---
 * **‘Caravan’ of migrants reaches US border, temporarily turned away by Border Patrol:** [http://abcnews.go.com/International/caravan-migrants-reach-us-border-temporarily-turned-border/story?id=54812004](http://abcnews.go.com/International/caravan-migrants-reach-us-border-temporarily-turned-border/story?id=54812004)

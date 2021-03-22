@@ -1,14 +1,14 @@
 ---
 title: 18.05.13 Embassy Moving to Jerusalem
 slug: 20180514-18-05-13-embassy-moving-jerusalem
-_id: legacy-105366df-96d1-4851-a120-d0fb7735084e
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-fbc6615f-db78-4e2a-9af7-a5d0e372993e
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-13-embassy-moving-jerusalem/
 _createdAt: '2018-05-14T11:05:31Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-14T11:05:31+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip: Why It Matters
     citation: 'Flip: Why It Matters'
-    _key: card-1-96d58b99-5c28-4f76-839c-51d2c518f214
+    _key: card-1-14893979-b7bb-47fc-aaae-3ac1d54fe52a
   - order: 1
     body: >-
       ## The Basics
@@ -46,7 +46,7 @@ cards:
 
       * When people talk about “**Middle East Peace**” – debate over who “owns”
       Jerusalem at center.
-    _key: card-2-28eb3f39-c0c5-433f-a2d2-f044d5f7b6ba
+    _key: card-2-963ea4cf-0406-4a8d-abba-e190f5226e42
   - order: 2
     body: >-
       ## Why Now?
@@ -60,7 +60,7 @@ cards:
 
       * Timing coincides w/U.S. withdrawing from Iran Deal, reaffirmsA
       **Israel-America alliance; Israel is a U.S. ally.**
-    _key: card-3-08422edd-95f1-40ba-aa3e-8c6b5349bb63
+    _key: card-3-688c483f-0172-4dcd-a365-b3b3cd5183ad
   - order: 3
     body: >-
       > _‘We are not taking a position on final status issues, including the
@@ -72,7 +72,7 @@ cards:
       U.S. State Department's official statement on Jerusalem embassy opening,
       an attempt to leave room for negotiations that *could* bring peace or an
       territorial agreement between Israel & the West Bank.
-    _key: card-4-59691acd-5d92-408c-833f-ca654d697a89
+    _key: card-4-389778b5-0bd8-4d76-93dd-f6aa8955ea5e
   - order: 4
     body: >-
       The embassy move is symbolic in many ways. The U.S. ambassador and a small
@@ -83,7 +83,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-05-13-embassy-moving-jerusalem/)
-    _key: card-10-d6469d51-153e-4502-b04d-8a7580f2ee43
+    _key: card-10-077bc843-b270-40b7-a80c-19e00f9820a3
 
 ---
 * **U.S. Embassy Jerusalem Dedication Ceremony:** [https://www.state.gov/r/pa/prs/ps/2018/05/282032.htm](https://www.state.gov/r/pa/prs/ps/2018/05/282032.htm)

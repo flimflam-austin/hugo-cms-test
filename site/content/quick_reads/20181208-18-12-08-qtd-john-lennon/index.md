@@ -1,14 +1,14 @@
 ---
 title: 'Quote of the Day: John Lennon'
 slug: 20181208-18-12-08-qtd-john-lennon
-_id: legacy-6c0bd3d6-68d7-4017-8c6e-dcb8a4973728
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-03c30614-b97a-4406-bcbd-bd3ddd3fd655
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 18-12-08-qtd-john-lennon/
 _createdAt: '2018-12-08T13:56:17Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-12-08T13:56:17+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       John Lennon
     citation: John Lennon
-    _key: card-1-f6f1761e-ae40-4e63-b7d0-93509e62a7b4
+    _key: card-1-579335ff-1efc-465c-ba75-a7015df1dd56
   - order: 1
     body: >-
       On Dec 8, 1980,A LennonA was shotA & killed in New York City where he
@@ -37,7 +37,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-12-08-qtd-john-lennon/)
-    _key: card-10-ce533f9a-7816-451c-bea2-6f53010d6ce6
+    _key: card-10-3d4e1f60-5ee8-4aa8-9615-2549b1eeb7ec
 
 ---
 * **International Peace Day: 5 Artists That Have Made Peace a Priority:**  

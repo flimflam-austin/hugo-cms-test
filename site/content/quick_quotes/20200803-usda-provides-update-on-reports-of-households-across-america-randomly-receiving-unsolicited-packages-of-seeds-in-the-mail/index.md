@@ -4,28 +4,26 @@ title: >-
   Receiving Unsolicited Seed Packages_in the Mail.
 slug: >-
   20200803-usda-provides-update-on-reports-of-households-across-america-randomly-receiving-unsolicited-packages-of-seeds-in-the-mail
-_id: legacy-aee8178e-7538-4c6e-a054-790091f4c29c
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-fc0295c9-1c70-44e3-ba1b-64e15a7bfec5
+_rev: ZEyhBiGfgCfwE8WOjbuSlO
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/usda-provides-update-on-reports-of-households-across-america-randomly-receiving-unsolicited-packages-of-seeds-in-the-mail/
 _createdAt: '2020-08-03T23:13:21Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-08-03T23:13:21+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    65ed51125be028a7d2c43f49a83e28dfadc6a2b5-1913x1952.jpg
 is_breaking: false
-summary: >-
-  USDA provides update on reports of households across America randomly
-  receiving unsolicited seed packages_in the mail.
 featured_quote:
   quote: >-
     We are not aware of any human health risks at this time. In an abundance of
     caution, people should wear gloves and limit touching the material.
-  citation: >-
-    USDA provides update on reports of households across America randomly
-    receiving unsolicited seed packages_in the mail.
 
 ---
 * The USDA still doesn’t know the exact origins of the packages, but [says](https://www.aphis.usda.gov/publications/plant_health/faq-unsolicited-seeds.pdf) they appear to be coming from China – though they’ve received reports of packages coming from other countries as well.
@@ -40,4 +38,4 @@ featured_quote:
   * _Place everything (seeds and any packaging, including the mailing label) in a mailing envelope. Please include your name, address, and phone number so that a State or Federal agriculture official can contact you for additional information._
   * _Contact your State plant regulatory official or APHIS State plant health director for instructions or where to send the package, to arrange a no-contact pick up, or to determine a convenient drop-off location_
 
-SEE ALSO: [SmartHER News Unsolicited Seeds Reports](https://smarthernews.com/article/spokesman-michael-wallace-virginia-department-of-agriculture-and-consumer-services-on-residents-receiving-mysterious-seed-packs-from-china/)-virginia-department-of-agriculture-and-consumer-services-on-residents-receiving-mysterious-seed-packs-from-china/)
+SEE ALSO: [SmartHER News Unsolicited Seeds Reports](https://smarthernews.com/article/spokesman-michael-wallace-virginia-department-of-agriculture-and-consumer-services-on-residents-receiving-mysterious-seed-packs-from-china/)

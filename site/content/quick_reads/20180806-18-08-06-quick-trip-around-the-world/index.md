@@ -1,14 +1,14 @@
 ---
 title: 18.08.06 Quick Trip Around the World
 slug: 20180806-18-08-06-quick-trip-around-the-world
-_id: legacy-c26cfc46-f27d-44c1-bb43-7aca00e9214d
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-f8d78108-7e29-473d-9558-91231c74eaf4
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-06-quick-trip-around-the-world/
 _createdAt: '2018-08-06T12:34:03Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-06T12:34:03+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       **Here’s What Happened** &  
       **Why It Matters**
-    _key: card-1-d8e1fbdb-def8-4d6f-8d17-5cfee4e05f41
+    _key: card-1-126f2293-000b-45df-8809-0979ce0bf6c7
   - order: 1
     body: >-
       ## VENEZUELA: Tinder Box
@@ -49,7 +49,7 @@ cards:
       [Click: Watch
       Explosion](https://twitter.com/NTN24ve/status/1026201174024900608)
     citation: 'Click: Watch Explosion'
-    _key: card-2-87e81c3c-5878-47e1-bf3c-e2d3ad2caf51
+    _key: card-2-717a30c0-402f-4ecc-b47d-bcb8ea4f5c7d
   - order: 2
     body: >-
       ## IRAN: Economy Matters
@@ -63,7 +63,7 @@ cards:
 
       * **Backdrop**: Iran economy already struggling & public discontent rising
       w/ gov’t. Often overlooked: major drought adding pressure.
-    _key: card-3-339944c7-54b9-48a7-9d0c-b3b7db6855f6
+    _key: card-3-d3a44992-5f32-45de-9a66-b47681e0df91
   - order: 3
     body: |-
       ## AFGHANISTAN: Attacks
@@ -73,7 +73,7 @@ cards:
       * 1 American injured in attack (FYI: an American also killed mid-July).
       * Recent Defense Dep’t budget turns focus to China & Russia.
       * **Bottom Line**: Easy to forget, but U.S. still very much at war.
-    _key: card-4-dfc51412-ff21-455f-9ac5-ec266e8f6384
+    _key: card-4-e0f1459f-3308-4275-9c9b-09f8cd0dd4c5
   - order: 4
     body: >-
       The instability (and unpredictability) in Iran & Venezuela, 2 large oil
@@ -84,7 +84,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-08-06-quick-trip-around-the-world/)
-    _key: card-10-e30bf676-fc95-4291-983f-cccb7bd602c0
+    _key: card-10-25d9df55-4f42-4ce5-8951-e134911830b9
 
 ---
 * **Venezuelan Officials Say President NicolA!s Maduro Is Unharmed After Drone ‘Attack’:**  

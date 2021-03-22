@@ -3,27 +3,25 @@ title: >-
   Dr. Megan Ranney, Brown University, on the Latest Rise in Covid-19 Cases in
   America.
 slug: 20201025-dr-megan-ranney-brown-warning
-_id: legacy-f2631215-31be-42c7-b576-60fb46b7a4a2
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-d3ce15e0-8993-45a7-9bac-f4054c6e4e18
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - article/dr-megan-ranney-brown-warning/
 _createdAt: '2020-10-26T02:37:11Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2020-10-26T02:37:11+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    5cd283615a7db468afe8c6b4387292dd3711e5dc-1024x683.jpg
 is_breaking: false
-summary: >-
-  Dr. Megan Ranney, Brown University, on the latest rise in COVID-19 cases in
-  America.
 featured_quote:
   quote: >-
     ...Thanksgiving will be the wind that will whip this fire up into an
     absolute human disaster for our country.
-  citation: >-
-    Dr. Megan Ranney, Brown University, on the latest rise in COVID-19 cases in
-    America.
 
 ---
 * Here’s Dr. Ranney’s [full quote](https://www.washingtonpost.com/nation/2020/10/25/coronavirus-cases-hospitalizations-surge/): _“We are set up for just a perfect storm — a conflagration,” said Megan Ranney, an emergency medicine professor at Brown University. “Right now, you can talk about there being lots of little burning fires across the country. And then Thanksgiving will be the wind that will whip this fire up into an absolute human disaster for our country.”_
@@ -34,4 +32,4 @@ featured_quote:
 
 **Why It Matters:** Some have predicted that the “second wave” of the COVID pandemic could be more deadly than the first as was seen in the pandemic of 1918.
 
-The news is changing quickly – here’s one solid read about where the U.S. stands heading into the week of Halloween: [READ HERE](https://www.washingtonpost.com/nation/2020/10/25/coronavirus-cases-hospitalizations-surge/)Halloween: [READ HERE](https://www.washingtonpost.com/nation/2020/10/25/coronavirus-cases-hospitalizations-surge/)
+The news is changing quickly – here’s one solid read about where the U.S. stands heading into the week of Halloween: [READ HERE](https://www.washingtonpost.com/nation/2020/10/25/coronavirus-cases-hospitalizations-surge/)

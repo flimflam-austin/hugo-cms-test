@@ -1,14 +1,14 @@
 ---
 title: 18.02.22 Who Buys a 100 Mil Apartment
 slug: 20180222-18-02-22-buys-100-mil-apartment
-_id: legacy-734d5dd1-36a4-4a6d-9fbc-d3e6ff9ca7e8
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-52a70814-d6f7-4c78-9bb4-0c1eec160d46
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-22-buys-100-mil-apartment/
 _createdAt: '2018-02-22T18:30:36Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-22T18:30:36+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       WSJ With The Scoop Flip For More
     citation: WSJ With The Scoop Flip For More
-    _key: card-1-b5df19fe-aa1e-4ce1-8097-a5c524576820
+    _key: card-1-a9fda559-11a5-4930-8f45-5b33ca08c4db
   - order: 1
     body: |-
       # What Does $100 MIL Buy You?
@@ -43,7 +43,7 @@ cards:
 
       [Click HERE To Look At Building](https://one57.com/)
     citation: Click HERE To Look At Building
-    _key: card-2-5e1475af-9700-457c-9f76-60f74d96b868
+    _key: card-2-ac9d0627-51ac-4c72-a53e-430212b2a725
   - order: 2
     body: >-
       ## Wall Street Journal Says:
@@ -58,7 +58,7 @@ cards:
 
       * Dell and others would NOT confirm ownership; WSJ reporting based on
       “sources.”
-    _key: card-3-82ec5d99-abf2-4ccf-9942-145fb837e2e0
+    _key: card-3-9b8755eb-961e-464f-841d-a96e464401c2
   - order: 3
     body: >-
       > “I had been warned…not to bring ponies, gerbils, guinea pigs or bunnies
@@ -69,7 +69,7 @@ cards:
         
       Penelope Green detailed her "sleepover" in the skyscraper for The New York
       Times, Feb 22, 2018
-    _key: card-4-7ea350ec-3b8f-4fec-ac8e-ed7f09fbb6b2
+    _key: card-4-d9ff3c27-4b97-4d31-8249-a99237da1937
   - order: 4
     body: >-
       ## Meanwhile…Back On Earth
@@ -83,7 +83,7 @@ cards:
       market.
 
       * Low inventory leading to higher prices & slower sales.
-    _key: card-5-da1dd471-43b1-4ffe-a8e6-8c194cc011de
+    _key: card-5-78b91e9f-0908-40c8-86a0-558e40c3116c
   - order: 5
     body: >-
       ## Why It Matters
@@ -96,7 +96,7 @@ cards:
 
       * Recent data is a snapshot of **one** month, but this is why we pay
       attention – to see if slowing sales becomes a “trend.”
-    _key: card-6-3657b51d-539e-45a0-97d0-c99f9f25a60e
+    _key: card-6-cc98b6da-7c25-4bfd-afc2-2f30839d72c0
   - order: 6
     body: >-
       > ‘There may be some headwinds ahead for home resales with rising mortgage
@@ -106,13 +106,13 @@ cards:
         
         
       Chris Rupkey, Economist to Reuters
-    _key: card-7-a28002e3-b091-4e01-9aa8-2172e40af251
+    _key: card-7-91bdbd19-9791-44e9-a191-85f77c262d03
   - order: 7
     body: |-
       The Median Sale Price of An "Existing" Home in America = $240,500
 
       [view sources](https://smarthernews.com/18-02-22-buys-100-mil-apartment/)
-    _key: card-10-477ffd6c-1698-4a42-a944-fb704472c167
+    _key: card-10-bfdcbcad-cdaf-4813-b801-3737494230b8
 
 ---
 * Michael Dell Paid a Record $100.47 Million for Manhattan”s One57 PenthouseA [https://www.wsj.com/articles/michael-dell-paid-a-record-100-47-million-for-manhattans-one57-penthouse-1519304017](https://www.wsj.com/articles/michael-dell-paid-a-record-100-47-million-for-manhattans-one57-penthouse-1519304017)

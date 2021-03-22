@@ -1,14 +1,14 @@
 ---
 title: 18.07.20 Qq
 slug: 20190905-18-07-20-qq
-_id: legacy-d2ee00bb-4806-44bc-a08b-03522e2da05c
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-f88c34e7-bc6f-4034-b54b-a2e065be54fa
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-07-20-qq/
 _createdAt: '2018-07-20T11:54:59Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-07-20T11:54:59+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/5Q-IsLzHH4M?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-787a464c-6f2f-49c6-96de-468f889e3ba6
+    _key: card-1-176787c7-c3ce-4e88-b4fe-298b88dfa9e5
   - order: 1
     body: >-
       > ‘It’s a combination of relief and celebration.”  
@@ -45,7 +45,7 @@ cards:
       Coast Highway reopens 14 months after a mudslide shut down a portion of
       it. 1,500 feet of highway was covered with more than 1M tons of dirt and
       rock blocking the scenic California coastal drive.
-    _key: card-2-54f14e66-548c-4491-9b50-697ad5f9ed1f
+    _key: card-2-8ad58134-07fd-4f82-81f3-aafed945236f
   - order: 2
     body: >-
       > “I am not happy about it. But at the same time I’m letting them do what
@@ -57,13 +57,13 @@ cards:
       interest rates despite all of this work that we're putting into the
       economy. Historically, Presidents have not commented on the Fed's actions
       due to its independence.
-    _key: card-3-7727c952-6ce8-4b71-90a5-d76596076c15
+    _key: card-3-f1cc0106-507e-47e8-902c-b7a01cc34e00
   - order: 3
     body: |-
       Have a great weekend!
 
       [view sources](https://smarthernews.com/18-07-20-qq/)
-    _key: card-10-7dceec18-a0db-40b0-aa7e-db2d9737b8e7
+    _key: card-10-8dbe688e-65e1-4d67-98a1-c6bf323f5dce
 
 ---
 * **Round 2 for Trump-Putin: A Fall Invite Amid Summit Mop-Up:**  

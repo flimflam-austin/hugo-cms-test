@@ -1,14 +1,14 @@
 ---
 title: 18.03.10 Daylight Saving
 slug: 20190310-18-03-10-daylight-saving
-_id: legacy-362c81d4-3677-43b9-8f89-20eef006166e
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-523890fb-26d4-4130-a77b-4d22ac5b2b6c
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-10-daylight-saving/
 _createdAt: '2019-03-10T11:00:50Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-03-10T11:00:50+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       WHY DO WE DO THIS?
     citation: WHY DO WE DO THIS?
-    _key: card-1-60c68e01-79a4-490b-b182-dfcd58432b1f
+    _key: card-1-de97249b-afa4-4184-96c2-d7af35a45d3d
   - order: 1
     body: |-
       # The Backstory
@@ -45,7 +45,7 @@ cards:
       * Re-established during WWII.
       * 1966: national law under Uniform Time Act (states can opt out).
       * 2007: expanded to encompass 65% of the year (about 8 months).
-    _key: card-2-3cb22c26-56d1-4f95-93af-702813e323ef
+    _key: card-2-450a0809-20b2-4fad-866c-afdd992085d0
   - order: 2
     body: >-
       ## More Sunshine All Year?
@@ -58,7 +58,7 @@ cards:
       * FL state lawmakers passed a bill last year for year-round Daylight
       Savings Time in their state However, it **will take an act of Congress**
       to make the change.
-    _key: card-3-c4477d5e-a5b2-46c4-8c39-b99aef1f0f8f
+    _key: card-3-95c9c986-08ac-4ed4-9a48-507c55d6df9d
   - order: 3
     body: >-
       > ‘Studies have shown many benefits of a year-round Daylight Saving Time,
@@ -71,7 +71,7 @@ cards:
       states that like Florida follow Daylight Savings Time, citing decreased
       car accidents & decreased robberies both reasons behind the fight for more
       light.
-    _key: card-4-d9d41577-c649-419b-a5d6-43d384fb39c7
+    _key: card-4-9799fe9c-76d8-446b-861b-0ba22698de97
   - order: 4
     body: |-
       ## Could The Clock Change Be Bad for Your Health?
@@ -85,7 +85,7 @@ cards:
 
       Details: Source Page
     citation: 'Details: Source Page'
-    _key: card-5-94c3cbe4-805b-46b4-b468-6d1babf59213
+    _key: card-5-fe89aa90-28c5-41bc-84e5-7ccb3bf4de7a
   - order: 5
     body: >-
       Arizona, Hawaii & US Territories like Puerto Rico:A don't follow DST. By
@@ -95,7 +95,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-10-daylight-saving/)
-    _key: card-10-51fc340d-a477-4496-a5ea-50edc8731200
+    _key: card-10-2e64d18c-bb5a-4638-a97f-0a82bdf44d94
 
 ---
 * **Daylight Saving Time: Florida lawmakers want 2019 to be the last time anyone has to ‘Spring Forward’**  

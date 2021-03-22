@@ -1,14 +1,14 @@
 ---
 title: 18.06.27 Ptsd
 slug: 20180627-18-06-27-ptsd
-_id: legacy-263f2965-1256-4545-8be0-bb8c16a07cdc
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-cf441b0d-fcdd-4cbb-81a1-b1ee0defe10f
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-27-ptsd/
 _createdAt: '2018-06-27T11:02:52Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-27T11:02:52+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Can magnets help?
     citation: Can magnets help?
-    _key: card-1-6b2faf60-631f-41da-9361-d776263319ef
+    _key: card-1-0669e4b1-2847-400e-9dfc-4a4afed1b22d
   - order: 1
     body: >-
       ## PTSD
@@ -44,7 +44,7 @@ cards:
       **What makes PTSD – PTSD?**: Direct relation to a **specific** traumatic
       event. Disorder tracked back to a moment in time – trauma reoccurs in the
       person who suffers.
-    _key: card-2-92cb44e3-5077-46c0-9e4f-f80fdd7ea64e
+    _key: card-2-3a2b6955-841c-4813-b03f-77ccb7863408
   - order: 2
     body: >-
       # Why Is PTSD More Prevalent in Women?
@@ -59,7 +59,7 @@ cards:
 
       Treatment: Flip
     citation: 'Treatment: Flip'
-    _key: card-3-c053822c-3ee3-40db-b51a-711f3d090859
+    _key: card-3-532ac684-b13d-4a8b-8208-dfd195cd82ea
   - order: 3
     body: >-
       What's the latest innovation to treat PTSD? Magnets used for depression -
@@ -69,7 +69,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-27-ptsd/)
-    _key: card-10-f3c7a5e5-9447-4e28-9467-765713bb834e
+    _key: card-10-25a108ae-5caf-4859-af7e-328485cca5a4
 
 ---
 * **Veterans with PTSD treated with Transcranial Magnetic Stimulation**  

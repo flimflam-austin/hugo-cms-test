@@ -1,14 +1,14 @@
 ---
 title: 18.04.02 Potus Second Amendment Tweet
 slug: 20180406-18-04-02-potus-second-amendment-tweet
-_id: legacy-051b1eec-0018-4e42-90cd-c172cde7c56d
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-c1d32bcb-5daf-4085-bce8-d6ee98efa9e8
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-02-potus-second-amendment-tweet/
 _createdAt: '2018-04-06T09:26:03Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-06T09:26:03+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-2e07571c-b085-4dac-960c-d2af22a513c6
+    _key: card-1-81b2431e-ba43-47b4-a45f-a63305af5816
   - order: 1
     body: >-
       ## Why Now?
@@ -45,7 +45,7 @@ cards:
       [Here's the
       Op-Ed](https://www.nytimes.com/2018/03/27/opinion/john-paul-stevens-repeal-second-amendment.html)
     citation: Here's the Op-Ed
-    _key: card-2-5278271f-4ec1-451d-ac7d-bac0be56f395
+    _key: card-2-1aa97cdc-e460-494e-8c0f-d48727a2060b
   - order: 2
     body: >-
       ## 2nd Amendment
@@ -59,7 +59,7 @@ cards:
       **_“A well regulated Militia, being necessary to the security of a free
       State, the right of the people to keep and bear Arms, shall not be
       infringed.’_**
-    _key: card-3-4a90c0c3-c916-4e36-bd91-d0f6879b3198
+    _key: card-3-fb70280b-102a-4532-9936-2e03cb2cbc2a
   - order: 3
     body: >-
       Amendment Repeal 101  
@@ -74,7 +74,7 @@ cards:
       **Option 2:** Requires two-thirds of states’ legislatures to hold
       Constitutional Convention where amendments must be approved by
       three-fourths of the 50 states.
-    _key: card-4-187a2142-74de-4a89-a536-c21fa7fa1939
+    _key: card-4-cb45e89c-9300-417a-8976-6bfd29c5eb20
   - order: 4
     body: >-
       In our nation's history, only ONE amendment has ever been repealed. In
@@ -84,7 +84,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-04-02-potus-second-amendment-tweet/)
-    _key: card-10-bee783ba-a2f8-41ea-8b60-e599c33af6b9
+    _key: card-10-6c2f0aa9-eb34-4cf5-9ff0-b12be4f79ca9
 
 ---
 * How is the Constitution amended?: [https://www.lexisnexis.com/constitution/amendments_howitsdone.asp](https://www.lexisnexis.com/constitution/amendments_howitsdone.asp)

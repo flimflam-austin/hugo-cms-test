@@ -1,14 +1,14 @@
 ---
 title: 18.05.07 Met Gala
 slug: 20180508-18-05-07-met-gala
-_id: legacy-c1d89c62-cf02-442e-bc6c-8c6d9b759985
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-f76c028d-4c0b-46af-810f-d33395261a9a
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-07-met-gala/
 _createdAt: '2018-05-08T10:20:48Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-08T10:20:48+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       Flip For Why It Matters
     citation: Flip For Why It Matters
-    _key: card-1-bf019cab-523d-4b65-a782-25cdf52f1af6
+    _key: card-1-7ed083a4-a049-4997-ac7f-43da991e7a2f
   - order: 1
     body: >-
       ## Toughest Ticket in Town
@@ -50,7 +50,7 @@ cards:
 
 
       Last year, $12 million was raised.
-    _key: card-2-308ea146-ba66-47a8-b91e-7d992a0744e7
+    _key: card-2-1e25e00d-9dce-4116-a83b-06f93ab9bd7d
   - order: 2
     body: >-
       ## Met Gala: Did You Know?
@@ -66,7 +66,7 @@ cards:
 
       * Under Wintour’s reign, the Met Gala has **raised $145M** for the Costume
       Institute.
-    _key: card-3-15073680-be2d-46a7-b77e-ac88f4da53b4
+    _key: card-3-bf892d8b-2d7a-4cc0-ae78-8ce281565224
   - order: 3
     body: >-
       The 2018 Met Gala's theme is "Heavenly Bodies: Fashion and the Catholic
@@ -75,7 +75,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-07-met-gala/)
-    _key: card-10-bbc5fb27-0254-4c08-83f7-39ada7b5dbef
+    _key: card-10-5646fb98-9b16-49e8-a73c-4af3ef22a99b
 
 ---
 * PHOTOS of 2018 Met Gala:A [http://people.com/style/met-gala-2018-best-dressed-red-carpet/](http://people.com/style/met-gala-2018-best-dressed-red-carpet/)

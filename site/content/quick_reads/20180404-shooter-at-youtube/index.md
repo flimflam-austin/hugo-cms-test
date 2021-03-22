@@ -1,14 +1,14 @@
 ---
 title: Shooter at Youtube
 slug: 20180404-shooter-at-youtube
-_id: legacy-17822f7a-b739-4150-bc62-3848f380a8ce
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-7439df7d-9047-4e00-89d2-cfe83cd94dbd
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - shooter-at-youtube/
 _createdAt: '2018-04-04T10:50:33Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-04T10:50:33+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       How rare is a woman shooter?
     citation: How rare is a woman shooter?
-    _key: card-1-e34a5eb4-c68a-4cf0-97c8-722040c0f346
+    _key: card-1-7a6eab64-b0a5-4c75-adbb-da45f57a210e
   - order: 1
     body: >-
       ## What Happened
@@ -46,7 +46,7 @@ cards:
 
       * IMPORTANT: Police had made contact with the shooter the night before…and
       had been warned about her.
-    _key: card-2-79f377dc-1a4e-4b1a-86d6-fa7ec99fde70
+    _key: card-2-6246d62d-ccc1-4433-9436-982892b18858
   - order: 2
     body: >-
       “The night before (the shooter) opened fire in a courtyard at YouTube’s
@@ -56,7 +56,7 @@ cards:
       going to YouTube because she ‘hated’ the company.”  
 
       _The Mercury News_
-    _key: card-3-6e82876b-a1f6-432c-8ce4-aaa08880442c
+    _key: card-3-c14dbacf-029c-458d-a3ea-7ab1a27753ed
   - order: 3
     body: >-
       “Women commit only about 10% to 13% of homicides in the United States,
@@ -69,7 +69,7 @@ cards:
       [Click: Full
       Article](https://www.livescience.com/53047-why-female-mass-shooters-are-rare.html)
     citation: 'Click: Full Article'
-    _key: card-4-bc150d71-5227-4aed-9d19-24b9d3fe8dbe
+    _key: card-4-a921825d-ff55-4c4f-b114-874015e2b258
   - order: 4
     body: >-
       1100 employees work at YouTube HQ...Why did the shooter target the
@@ -77,7 +77,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/shooter-at-youtube/)
-    _key: card-10-59dc5184-967c-4bfb-b7ff-25ef09be243d
+    _key: card-10-f30592b8-22a9-4ca6-8270-4cc031a97892
 
 ---
 * Woman opens fire at YouTube headquarters, wounding at least 3 before taking her own life: [http://www.latimes.com/local/lanow/la-me-ln-youtube-shooter-20180403-story.html](http://www.latimes.com/local/lanow/la-me-ln-youtube-shooter-20180403-story.html)

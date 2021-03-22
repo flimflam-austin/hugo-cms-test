@@ -1,14 +1,14 @@
 ---
 title: Nobel Peace Prize
 slug: 20181005-18-10-05-nobel-peace-prize
-_id: legacy-74cbe110-ea9c-42e8-80ef-23774d867301
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-8527aeef-80bc-4de0-8469-697d9e2b63df
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-10-05-nobel-peace-prize/
 _createdAt: '2018-10-05T11:36:26Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-10-05T11:36:26+00:00'
 weight: 50
 featured_image:
@@ -25,7 +25,7 @@ cards:
         
         
       (is named after the inventor of dynamite...)
-    _key: card-1-df67cb4c-6e9e-4162-b971-9cc1bdadc8eb
+    _key: card-1-0d732ae8-8730-429c-9952-214f8eb3eef5
   - order: 1
     body: >-
       ## Who’s Nobel?
@@ -39,7 +39,7 @@ cards:
       When he died in 1895, he used his fortune to create a foundation honoring
       excellence in **Literature, Medicine, Physics, Chemistry, and Peace.A
       Economics** added in 1968.
-    _key: card-2-a0ac6ff7-63f5-4835-b9ba-b1fa1db10bb2
+    _key: card-2-e50a71da-3de2-481f-94a4-9181f7e45469
   - order: 2
     body: >-
       # What’s the Prize?
@@ -54,7 +54,7 @@ cards:
       * Nobel Diploma
 
       * 9 Million Swedish kronorA ($1.01A million) – divided equally
-    _key: card-3-1d107d6d-fa67-4da2-a3d1-c150cad12bb8
+    _key: card-3-f6d974b0-581d-4de9-a7af-4af06673ae8a
   - order: 3
     body: >-
       Who Else Was Nominated?  
@@ -68,7 +68,7 @@ cards:
 
       Everything reported in media is mere speculation.A **Information on
       nominees isn’t made public until after 50 years.**
-    _key: card-4-a0acf184-7e30-4fa1-ac8a-edeef67c87f6
+    _key: card-4-af32264f-dd4b-4cc6-94d1-378ff9a23030
   - order: 4
     body: >-
       # A By The Numbers
@@ -82,7 +82,7 @@ cards:
       Roosevelt (1906),
 
       * Cmte made up of **5 appointees** of the Norwegian Parliament.
-    _key: card-5-5b5b0c80-a79d-4ae7-805a-2c758a365c89
+    _key: card-5-e44aa6dc-8947-422e-9bd4-95bd916fb32b
   - order: 5
     body: >-
       Learn more about this year's Nobel Peace Prize laureates, Denis Mukwege &
@@ -91,7 +91,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-10-05-nobel-peace-prize/)
-    _key: card-10-e5a3b79f-45b7-4c8d-ba52-91c4596efa3c
+    _key: card-10-f9c73f2c-a458-42e5-9f2b-f9d597b9cb93
 
 ---
 * **All Nobel Peace Prizes:**  

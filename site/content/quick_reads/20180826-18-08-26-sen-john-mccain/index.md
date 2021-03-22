@@ -1,14 +1,14 @@
 ---
 title: The Life of Sen. John Mccain
 slug: 20180826-18-08-26-sen-john-mccain
-_id: legacy-b707117e-a6ce-4aa0-b767-dc10de57f3cb
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-d858e0e0-ce0b-4967-b61d-0c46e356c703
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-26-sen-john-mccain/
 _createdAt: '2018-08-26T17:35:17Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-26T17:35:17+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-26-sen-john-mccain/)
-    _key: card-10-a14e44c5-da12-40c8-bac9-5746bf928e27
+    _key: card-10-046bb67c-2217-4971-92c9-193b08490bcf
 
 ---
 * **McCain’s convention speech**:  

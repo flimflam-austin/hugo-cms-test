@@ -1,14 +1,14 @@
 ---
 title: Qtd Smarther Founder Quote
 slug: 20180926-qtd-smarther-founder-quote
-_id: legacy-39492690-a0a3-4457-9da2-49daba9bdb70
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-eed06041-fa0b-4b42-9837-25a998c4e9d5
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - qtd-smarther-founder-quote/
 _createdAt: '2018-09-27T03:03:44Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-27T03:03:44+00:00'
 weight: 50
 featured_image:
@@ -24,7 +24,7 @@ cards:
 
       Jenna Lee Babin
     citation: Jenna Lee Babin
-    _key: card-1-5a1c7f56-2eaa-454d-8cd6-73d4775daa6d
+    _key: card-1-10fe5b91-ef6c-4d37-a574-093d65d117b4
   - order: 1
     body: >-
       Our founder of SmartHER News, Jenna Lee Babin speaking on a SmartHER News
@@ -34,7 +34,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/qtd-smarther-founder-quote/)
-    _key: card-10-934dce23-afe6-4f1b-9e2e-f2c599b6474f
+    _key: card-10-5020bdb4-3e7c-4757-8f30-775a726caf72
 
 ---
 [https://smarthernews.com/about/](https://smarthernews.com/about/)

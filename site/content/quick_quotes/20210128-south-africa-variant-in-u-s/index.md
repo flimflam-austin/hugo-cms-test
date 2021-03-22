@@ -3,28 +3,26 @@ title: >-
   The Cdc on a Variant of the New Coronavirus that some Worry May Challenge
   Available Treatments and Vaccines.
 slug: 20210128-south-africa-variant-in-u-s
-_id: legacy-e03322d6-6fc1-43e1-8026-e6c5e6a2d5be
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-e3827ad8-918f-4796-821c-7eea51551440
+_rev: ZEyhBiGfgCfwE8WOjbuTJp
 type: quick_quotes
 draft: false
 aliases:
   - article/south-africa-variant-in-u-s/
 _createdAt: '2021-01-28T21:50:29Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2021-01-28T21:50:29+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    a08950f97dc8b7d8c01e4e13a1a45f7df1726c6a-1024x684.jpg
 is_breaking: false
-summary: >-
-  The CDC on a variant of the new coronavirus that some worry may challenge
-  available treatments and vaccines.
 featured_quote:
   quote: >-
     CDC is aware that the first US documented cases of the B 1.351 variant of
     SARS-CoV-2, which was first detected in South Africa, have been identified
     in South Carolina.
-  citation: >-
-    The CDC on a variant of the new coronavirus that some worry may challenge
-    available treatments and vaccines.
 
 ---
 * Variants of the new coronavirus show the virus has evolved. Currently the CDC lists 3 variants: (identified first in) the UK, South Africa and Brazil.
@@ -50,4 +48,4 @@ _CDC recommends that people avoid travel at this time. However, for those who 
 
 _CDC’s recommendations for slowing the spread—wearing masks, staying at least 6 feet apart from others, avoiding crowds, ventilating indoor spaces, and washing hands often—will also prevent the spread of this variant._
 
-[**Good resource from the CDC on variants**](https://www.cdc.gov/coronavirus/2019-ncov/more/science-and-research/scientific-brief-emerging-variants.html)ts**](https://www.cdc.gov/coronavirus/2019-ncov/more/science-and-research/scientific-brief-emerging-variants.html)
+[**Good resource from the CDC on variants**](https://www.cdc.gov/coronavirus/2019-ncov/more/science-and-research/scientific-brief-emerging-variants.html)

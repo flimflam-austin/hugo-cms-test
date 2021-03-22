@@ -1,14 +1,14 @@
 ---
 title: 6.6.18 Dday Turns 74
 slug: 20180606-6-6-18-dday-turns-74
-_id: legacy-81a51a98-e111-481e-8d37-969de7455e49
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-9df71830-ba53-45b3-bd6c-1acf119fe9d5
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 6-6-18-dday-turns-74/
 _createdAt: '2018-06-06T10:46:43Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-06T10:46:43+00:00'
 weight: 50
 featured_image:
@@ -21,7 +21,7 @@ cards:
   - order: 0
     body: "# D-Day June 6, 1944\n\n## 74 YEARS AGO TODAY\n\n> **“Two kinds of people are staying on this beacha\x14the dead and those who are going to die.”**  \n  \n  \n  \nCol. George A. Taylor, commanding the Sixteenth Infantry Regiment, First Infantry Division, on Omaha Beach.\n\nWhy D...Day? Flip"
     citation: Why "D"...Day? Flip
-    _key: card-1-1f674003-990b-4bff-b271-39518ae340f4
+    _key: card-1-0daa590c-debc-4ce9-89c2-f14234e919e6
   - order: 1
     body: >-
       ## Why It Matters
@@ -34,7 +34,7 @@ cards:
 
       * Est. 6,603 Americans died June 6, 1944 (for context: this is more than
       the total number of Americans killed in the entire Iraq War).
-    _key: card-2-3956ea04-a304-4e0f-8300-824f8b694921
+    _key: card-2-5667b0d6-2b23-4207-8ef8-963c93254cea
   - order: 2
     body: >-
       # “Operation Overlord”
@@ -50,7 +50,7 @@ cards:
 
       Flip: Hitler's Reaction
     citation: 'Flip: Hitler''s Reaction'
-    _key: card-3-31996d4b-fa17-444c-ada3-be5882425767
+    _key: card-3-d23990a9-d4e6-473a-9517-e530e8e3ad0b
   - order: 3
     body: >-
       # “Well, is it or isn’t it the invasion?”
@@ -68,7 +68,7 @@ cards:
 
       What's D - in D-Day?
     citation: What's "D" - in D-Day?
-    _key: card-4-7cc92ca1-ef44-4df6-80d7-ad8915e0c693
+    _key: card-4-6facd8b1-9740-4152-b6bc-a2a7ce344144
   - order: 4
     body: >-
       From U.S. Army: "D in D-Day merely stands for Day. This coded designation
@@ -77,7 +77,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/6-6-18-dday-turns-74/)
-    _key: card-10-be11204f-6e1a-40b6-b06f-186ba8c69b87
+    _key: card-10-55cf1951-6c04-42c3-ace2-115e65380cac
 
 ---
 * **June 6, 1944 73rd anniversary of D-Day**:_A_ [https://www.al.com/news/index.ssf/2017/06/june_6_1944_73rd_anniversary_o.html](https://www.al.com/news/index.ssf/2017/06/june_6_1944_73rd_anniversary_o.html)

@@ -1,14 +1,14 @@
 ---
 title: 18.05.11 Quotes
 slug: 20180511-18-05-11-quotes
-_id: legacy-f5d75114-9fc6-4693-bd3b-55028d5c1dff
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-88f7a74d-ceaa-49e5-9f1d-e39e6899d5a4
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-11-quotes/
 _createdAt: '2018-05-11T10:15:02Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-11T10:15:02+00:00'
 weight: 50
 featured_image:
@@ -35,10 +35,10 @@ cards:
 
       [CLICK FOR A REFRESHER](https://smarthernews.com/18-05-02-meeting-spot/)
     citation: CLICK FOR A REFRESHER
-    _key: card-1-ca52d16e-27f2-4f83-bca9-62bd7fde076b
+    _key: card-1-1d42d497-7eda-487f-99b2-49aab0983e6a
   - order: 1
     body: "> **‘There was a part of me that was terribly naivea\x14clearly, _so_ naive. I have moments of rage, I have moments of confusion, I have moments of disbelief! And I have moments when I just cry for my children. What are their lives going to be?’**  \n  \n  \n  \nGeorgina Chapman in her first public comments on soon-to-be ex-husband Harvey Weinstein after he was accused of sexual violence & sexual harassment by 100+ women."
-    _key: card-2-4041219a-23b9-461f-90d6-35d75136e691
+    _key: card-2-5f25853c-9334-4a9a-82e0-1f894e1654d4
   - order: 2
     body: >-
       > **“It could be large rocks, it could be boulders the size of cows.”**  
@@ -52,13 +52,13 @@ cards:
 
       [CLICK FOR REFRESHER](https://smarthernews.com/18-05-10-hawaii-volcano/)
     citation: CLICK FOR REFRESHER
-    _key: card-3-a21b03c3-87d2-4092-8267-2e7fde778dbe
+    _key: card-3-7f99510e-7765-472c-b1bd-60a1e9d43a7e
   - order: 3
     body: "> **“I’m almost speechless about it. It’s not like, a\x18Oh, we’re short on a medicine for a headache.’ This is a life-threatening issue.”**  \n  \n  \n  \nAimee Weiss on an EpiPen shortage affecting her 12-year-old daughter who is allergic to tree nuts. The FDA added the emergency allergy medication to its list of medicines in short supply, but the shortage is not expected to last long, according to its maker Mylan."
-    _key: card-4-0e2a99fd-498e-44b0-b5b6-b060c9266998
+    _key: card-4-0831c9a1-ddbc-40f3-9c16-a07ecbedbbd8
   - order: 4
     body: '[view sources](https://smarthernews.com/18-05-11-quotes/)'
-    _key: card-10-f85f1522-ae6a-4c75-9ba8-843f7a46c337
+    _key: card-10-d2cd3459-5a8f-4395-b7e4-d95336c26bbb
 
 ---
 * **Summit is set: Trump-Kim to meet June 12 in Singapore:** [https://apnews.com/e6d54788ef5546f9b429ef7c0fe3587f/Summit-is-set:-Trump-Kim-to-meet-June-12-in-Singapore](https://apnews.com/e6d54788ef5546f9b429ef7c0fe3587f/Summit-is-set:-Trump-Kim-to-meet-June-12-in-Singapore)

@@ -1,14 +1,14 @@
 ---
 title: 18.06.19 Forever War
 slug: 20180704-18-06-19-forever-war
-_id: legacy-762a75e9-5beb-4af1-89d0-cedfad0a7290
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-76018730-51c8-4f9f-93af-7a02e20f0df1
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-06-19-forever-war/
 _createdAt: '2018-07-05T02:47:27Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-05T02:47:27+00:00'
 weight: 50
 featured_image:
@@ -30,11 +30,11 @@ cards:
 
       how long is too long?
     citation: how long is too long?
-    _key: card-1-3adc4e62-dffd-4216-b021-c888b5ff146e
+    _key: card-1-b4e2640f-1ab4-4b99-b160-a6d96ffe6a58
   - order: 1
     body: "## Background\n\n* AUMF = Authorization for Use of Military Force\n* AUMF became public law on Sept. 18, 2001 after 9/11 attacks.\n* Allows president to use ‘all necessary & appropriate forces against’ terrorists who committed or aided in 9/11 attacks a\x13 particularly, Al Qaeda & Taliban.\n\nsounds reasonable..."
     citation: sounds reasonable...
-    _key: card-2-e51290a9-7464-4102-a395-daf21068dd13
+    _key: card-2-a4f01c73-e6d4-4191-b7d9-ba00926648b6
   - order: 2
     body: >-
       ## What’s the Controversy?
@@ -52,7 +52,7 @@ cards:
       [Click: Fascinating
       Map](http://watson.brown.edu/costsofwar/files/cow/imce/papers/Current%20US%20Counterterror%20War%20Locations_Costs%20of%20War%20Project%20Map.pdf)
     citation: 'Click: Fascinating Map'
-    _key: card-3-1d1e77fe-306b-47c3-988f-752e7c9b15b6
+    _key: card-3-fb098311-4243-4420-9460-f7157f978484
   - order: 3
     body: >-
       Bipartisan AUMF Proposal  
@@ -66,7 +66,7 @@ cards:
       * Critics say it flips Constitution, requires 2/3rds to _disapprove_ war.
 
       * Fate unclear; Congress looks to avoid messy debate before midterms.
-    _key: card-4-f92ddee5-748c-49fd-8f6c-36b3161bf873
+    _key: card-4-f1c20491-b5f8-41f8-ab65-5c8481c3c36a
   - order: 4
     body: >-
       In a separate study, released in November, Costs of War Project estimated
@@ -76,7 +76,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-19-forever-war/)
-    _key: card-10-90ce6916-ddd5-4330-bfb6-39efe0cacaaa
+    _key: card-10-910301b4-9bef-41b2-8435-824fba5f896a
 
 ---
 * **Congress May Declare the Forever War:A**  

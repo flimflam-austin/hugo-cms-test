@@ -1,14 +1,14 @@
 ---
 title: 18.04.30 Netanyahu Lies and Lies
 slug: 20200302-18-04-30-netanyahu-lies-lies
-_id: legacy-fd11ba5b-d6d6-41cf-8eee-6ed4b8a23064
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-314797dc-e398-4254-9b15-b04556ee7f00
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-30-netanyahu-lies-lies/
 _createdAt: '2018-05-01T09:52:44Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-05-01T09:52:44+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
       primetime address revealing a cache of materials he said Israeli spies
       lifted from Iran about a SECRETIVE nuclear program despite the so-called
       "Iran Nuclear Deal." Not everyone agrees.
-    _key: card-1-565b8fc3-1e6c-4863-b511-ebe8138bc90e
+    _key: card-1-dede2352-c304-4d59-ab0a-4f8744eecc45
   - order: 1
     body: >-
       > **“BREAKING: The boy who can’t stop crying wolf is at it again.”**  
@@ -45,7 +45,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-2-d99cc3b1-17a7-42ad-8df6-e7e0bdc029cc
+    _key: card-2-ddb531af-a454-4e07-baad-b3424c099ac5
   - order: 2
     body: >-
       > “For many years, the Iranian regime has insisted to the world that its
@@ -61,7 +61,7 @@ cards:
 
       Flip
     citation: Flip
-    _key: card-3-5c339ed0-56b7-4809-b216-37a265cdab4b
+    _key: card-3-24f09ca7-3947-4083-b6fa-7acac4241bf7
   - order: 3
     body: >-
       ## Timing Matters
@@ -77,7 +77,7 @@ cards:
       Netanyahu Sunday.
 
       * PM Netanyahu faces a series of domestic challenges politically.
-    _key: card-4-d582b57b-1f16-4b8d-80c4-82f99755ad8a
+    _key: card-4-5e444ef4-4847-49e6-929f-d7c30b80b00d
   - order: 4
     body: >-
       "... Iran is a dangerous foe, never to be allowed to build a nuclear
@@ -87,7 +87,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-30-netanyahu-lies-lies/)
-    _key: card-10-39f7145d-51c1-4d0a-8d46-adeb641f96d6
+    _key: card-10-eb34acfb-25d9-4e46-8382-79fa0882456a
 
 ---
 * **Editorial:A Israel’s spy caper and the Iran nuclear deal:** [http://www.chicagotribune.com/news/opinion/editorials/ct-edit-netanyahu-iran-nuclear-sanctions-trump-20180430-story.html](http://www.chicagotribune.com/news/opinion/editorials/ct-edit-netanyahu-iran-nuclear-sanctions-trump-20180430-story.html)

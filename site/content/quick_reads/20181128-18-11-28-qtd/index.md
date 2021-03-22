@@ -1,14 +1,14 @@
 ---
 title: 'Quote of the Day: President Calvin Coolidge'
 slug: 20181128-18-11-28-qtd
-_id: legacy-a0479976-dc6c-483c-be75-121f95511cf7
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-9ac12b7a-37d0-4c58-95f4-c03e60f32634
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-11-28-qtd/
 _createdAt: '2018-11-28T13:29:43Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-11-28T13:29:43+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       President Coolidge
     citation: President Coolidge
-    _key: card-1-15c8dc14-844a-462e-8a07-ac061a50fa1d
+    _key: card-1-1a195c95-7f70-4928-855b-b012c372970a
   - order: 1
     body: >-
       Pres. Coolidge said this during a special Christmas Eve message to the
@@ -36,7 +36,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-11-28-qtd/)
-    _key: card-10-7e85b68a-b0a2-4b4b-aea3-880db414e3ca
+    _key: card-10-146eed4f-9761-426d-8311-95e1f5083f9d
 
 ---
 * **A Coolidge Christmas:**A [https://www.whitehousehistory.org/a-coolidge-christmas](https://www.whitehousehistory.org/a-coolidge-christmas)

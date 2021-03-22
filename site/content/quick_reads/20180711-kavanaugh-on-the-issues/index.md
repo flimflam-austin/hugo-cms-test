@@ -1,14 +1,14 @@
 ---
 title: Kavanaugh on the Issues
 slug: 20180711-kavanaugh-on-the-issues
-_id: legacy-fb84f47b-c6a6-413f-8088-dfb5f074ad75
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-e1f47b81-1334-4b65-92a4-b7da4206e621
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - kavanaugh-on-the-issues/
 _createdAt: '2018-07-12T10:01:12Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-12T10:01:12+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
       Judge Brett Kavanaugh accepting the nomination for Supreme Court. What do
       his past rulings tell us about how he might rule from the highest court in
       the land?
-    _key: card-1-ca59a231-3778-4448-bc8d-7e37edde512b
+    _key: card-1-9a5bece2-4c84-48dd-b976-d0d67eabc326
   - order: 1
     body: >-
       ## RE: A President facing criminal investigations
@@ -49,7 +49,7 @@ cards:
       Kavanaugh in 2009. He went on to say that just as Congress provides a
       "deferral of civil suits" for Presidents, it should consider the same for
       "criminal investigations and prosecutions."
-    _key: card-2-516620ed-dd36-480a-9852-a3ef7acbbd0a
+    _key: card-2-e68b2c48-7f01-45e6-ab8d-328f3c95f0ab
   - order: 2
     body: >-
       ## RE: Gun Rights
@@ -63,10 +63,10 @@ cards:
         
       Kavanuaugh in a 2011 dissenting opinion arguing that the Second Amendment
       includes the right to own semi-automatic rifles.
-    _key: card-3-598c7d7b-2d4d-42f5-853a-79d78f958245
+    _key: card-3-0f4571a2-f6f1-4050-acc2-57573dde8aab
   - order: 3
     body: "## RE: Gov’t Surveillance\n\n> “….the Government’s metadata collection program is entirely consistent with the Fourth Amendment.”  \n  \n  \n  \nKavanaugh in a 2015 ruling on the National Security Agency’s collection of phone records. He went on to say that the Government’s program for bulk collection of 2 telephony metadata serves a critically important special need a\x13 preventing terrorist attacks on the United States."
-    _key: card-4-2336173f-585e-48ae-a710-1f913e6587ba
+    _key: card-4-39804fe5-0dec-49eb-879c-2108ac144eed
   - order: 4
     body: >-
       ## RE: Abortion
@@ -81,7 +81,7 @@ cards:
         
       Kavanaugh in a 2017 dissent in a case about whether a detained illegal
       immigrant teen could be released from custody to obtain an abortion.
-    _key: card-5-e52547f6-e8be-495e-8e25-294cf6ee3a07
+    _key: card-5-293d6101-cf9e-4caf-9df3-91b8690b26fb
   - order: 5
     body: >-
       Some critics of the Affordable Care Act point the finger at Kavanaugh
@@ -91,7 +91,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/kavanaugh-on-the-issues/)
-    _key: card-10-773098e4-bc03-46fc-aa17-650c4b1a7cff
+    _key: card-10-619b09ad-d8bf-4649-a860-1a920772431c
 
 ---
 * **A look at Supreme Court nominee Kavanaugh’s notable opinions:** [https://www.houstonchronicle.com/news/politics/article/A-look-at-Supreme-Court-nominee-Kavanaugh-s-13061443.php](https://www.houstonchronicle.com/news/politics/article/A-look-at-Supreme-Court-nominee-Kavanaugh-s-13061443.php)

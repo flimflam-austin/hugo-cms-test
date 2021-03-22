@@ -1,14 +1,14 @@
 ---
 title: 18.02.27 Fashion Week
 slug: 20180306-18-02-27-fashion-week
-_id: legacy-8bb03a0d-80f8-4fe3-8c8b-0ad180621c32
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-37f2221f-d2e5-4fe9-8c86-d751dd46b46e
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-27-fashion-week/
 _createdAt: '2018-03-06T18:00:47Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-06T18:00:47+00:00'
 weight: 50
 featured_image:
@@ -41,7 +41,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-cc70f6a0-d9dd-459d-b390-9286bebdd93c
+    _key: card-1-35b6f558-58c0-478d-9033-1bc06be17682
   - order: 1
     body: >-
       What You Should Know:  
@@ -61,7 +61,7 @@ cards:
       [See Paris Show
       Here](https://www.vogue.com/fashion-shows/fall-2018-ready-to-wear/saint-laurent)
     citation: See Paris Show Here
-    _key: card-2-8eae72c8-5a97-4afa-b74c-7f357bee8bc4
+    _key: card-2-d2b407bb-416d-4b22-b62b-ded6f81d8ac4
   - order: 2
     body: >-
       ## Models Need Not Apply
@@ -77,7 +77,7 @@ cards:
       [Click HERE for "IT"
       Girl](https://www.instagram.com/lilmiquela/?utm_source=ig_embed&utm_campaign=embed_ufi_test&action=profilevisit)
     citation: Click HERE for "IT" Girl
-    _key: card-3-d03ea618-fc16-4b4b-a2da-34b7244aa5a0
+    _key: card-3-0034a177-5a3f-4f63-b8b4-33c1174c30cd
   - order: 3
     body: >-
       Can you imagine someone printing a 3-D image of your body and tailoring
@@ -86,7 +86,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-27-fashion-week/)
-    _key: card-10-dba34456-a590-44d5-806c-2c4c3acdc62a
+    _key: card-10-da83a67b-2b80-4a8b-8a6c-35e073caa213
 
 ---
 * **Something New and Different: 3-D Printing:** Balenciaga”s Fall 2018 Collection is the New Shape ofA Things:A _The designer invested in a computer-enabled 3D molded tailoring process in which bodies are scanned and fittings are done digitally, with the 3D molds printed out and fabrics (wool, velvet, etc.) are bonded to lightweight foam. The result was outerwear, skirts, and bodycon dresses with sharp edges and proportions in line with the tailoring traditions of Balenciaga”s legacy_.A [http://footwearnews.com/2018/fashion/fall-2018/fall-2018-read-to-wear-balenciaga-paris-fashion-week-513144/](http://footwearnews.com/2018/fashion/fall-2018/fall-2018-read-to-wear-balenciaga-paris-fashion-week-513144/)

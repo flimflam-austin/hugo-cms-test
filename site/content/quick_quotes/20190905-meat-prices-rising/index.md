@@ -1,23 +1,21 @@
 ---
 title: Meat Prices Rising
 slug: 20190905-meat-prices-rising
-_id: legacy-526f8b21-35bb-4bdb-a5e2-929a155a61a7
-_rev: 7QmxBnVgzphH4dpufNYHA2
+_id: legacy-d90a7dc1-ea89-4032-92b9-9f2eb9adb48a
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/meat-prices-rising/
 _createdAt: '2019-08-16T19:57:14Z'
-_updatedAt: '2021-03-16T12:30:36Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-08-16T19:57:14+00:00'
 weight: 50
 is_breaking: false
-summary: Meat Prices Rising
 featured_quote:
   quote: >-
     Outbreak of African Swine Fever in China is impacting pigs. Not dangerous to
     humans but effects pricing on almost all the meat we consume.
-  citation: Meat Prices Rising
 
 ---
 * Having about eight-ninths of its area

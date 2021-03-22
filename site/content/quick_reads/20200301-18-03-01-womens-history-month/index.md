@@ -1,14 +1,14 @@
 ---
 title: 18.03.01 Women's History Month
 slug: 20200301-18-03-01-womens-history-month
-_id: legacy-47b2e46f-2bc4-4fd8-9b71-1ab272ec3827
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-4bbbb35e-f166-454f-8715-c3ef2f49a98f
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-03-01-womens-history-month/
 _createdAt: '2018-03-01T10:00:42Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-03-01T10:00:42+00:00'
 weight: 50
 card_series: Current Events
@@ -22,7 +22,7 @@ cards:
 
       Dates back to Reagan: Flip Here
     citation: 'Dates back to Reagan: Flip Here'
-    _key: card-1-809d96fb-a5ab-41dc-93fa-d0a5948e6224
+    _key: card-1-b1b96d7c-d70e-48b2-87d6-ba76333b8312
   - order: 1
     body: >-
       ## Women’s History Month Timeline
@@ -36,7 +36,7 @@ cards:
 
       **Since 1995:** Every President issued annual proclamations designating
       March Women’s History Month
-    _key: card-2-a66704ab-de95-4018-84de-9afa101f1883
+    _key: card-2-8959df48-ad02-4259-910d-150a3d37e140
   - order: 2
     body: >-
       “American women of every race, creed and ethnic background helped found
@@ -49,7 +49,7 @@ cards:
       [President Reagan's 1982
       Proclamation](http://www.presidency.ucsb.edu/ws/index.php?pid=42216)
     citation: President Reagan's 1982 Proclamation
-    _key: card-3-02b4a25a-649f-4bba-ba5e-b4aaf4e923b4
+    _key: card-3-9a69d1a3-8e60-4851-97f9-4764a6fb4f3b
   - order: 3
     body: >-
       ## Did You Know?: March is also Irish-American Heritage Month
@@ -62,7 +62,7 @@ cards:
       residents
 
       * World’s 1st St. Patrick’s Day parade took place in 1762 in NYC
-    _key: card-4-99f825a0-83ee-44e4-b318-d45063b4d49a
+    _key: card-4-a56e91f9-e993-4fe2-9e76-36e70671b2e7
   - order: 4
     body: >-
       P.S. President Trump also declared March "American Red Cross Month" - It's
@@ -70,7 +70,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-01-womens-history-month/)
-    _key: card-10-b28b531f-b2ee-45fe-858a-a97cd7b04b12
+    _key: card-10-cd4935b8-5a1a-4d66-bf02-96b229645d04
 
 ---
 * March is Women’s History Month: [https://womenshistorymonth.gov/about/](https://womenshistorymonth.gov/about/)

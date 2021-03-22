@@ -1,14 +1,14 @@
 ---
 title: Us China Tarriffs
 slug: 20180323-us-china-tarriffs
-_id: legacy-164a1aca-dc96-4d5c-b510-58d23c8ed7b0
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-3c48560f-f1b8-42a3-b78a-921d58de35ff
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - us-china-tarriffs/
 _createdAt: '2018-03-23T11:00:47Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-23T11:00:47+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Flip For Why It Matters
     citation: Flip For Why It Matters
-    _key: card-1-0cdc55f5-dd84-4e88-b81d-aa34a0a181b8
+    _key: card-1-57c3b167-5027-41df-9117-1afd55465e30
   - order: 1
     body: >-
       # Let’s Set The Stage:
@@ -42,7 +42,7 @@ cards:
 
       * We have a trade deficit (we take in more goods than we export); ChinaA
       has a positive tradeA balance (they export more goods than they import).
-    _key: card-2-c6a75c77-bf39-4c6a-9ab3-1cf8780ea3d5
+    _key: card-2-a804f21d-d495-40e4-8495-38b40d8d4512
   - order: 2
     body: |-
       ## What Do You Buy From China?
@@ -53,7 +53,7 @@ cards:
       * Computers
       * Broadcasting Equipment (TVs, radios, wireless devices)
       * Telephones
-    _key: card-3-e0f5a99b-9b3c-43eb-88a5-d6dc5a8e161d
+    _key: card-3-d854f637-3b04-4319-a020-6881d37a37b0
   - order: 3
     body: >-
       # Why Tax On China?
@@ -69,7 +69,7 @@ cards:
 
       * China’s trade policies threaten U.S. national security (for all of the
       above).
-    _key: card-4-19e587b0-24aa-4f69-af4e-a09ba151a077
+    _key: card-4-e0f367d9-75e9-47da-bb7d-5c0fc70f08b0
   - order: 4
     body: >-
       ## China’s Response
@@ -89,7 +89,7 @@ cards:
       [Click: More
       Details](https://www.washingtonpost.com/business/economy/trump-moves-toward-imposing-steep-tariffs-on-china-sending-stocks-plummeting/2018/03/22/5cd3a7c6-2dfe-11e8-8ad6-fbc50284fce8_story.html?utm_term=.4a9fedb785d5&wpisrc=al_news__alert-world--alert-national&wpmk=1)
     citation: 'Click: More Details'
-    _key: card-5-b99ef709-00df-47cd-bf4f-030031079aef
+    _key: card-5-3c7c61b0-24e8-4a43-83f9-6efe90fa371c
   - order: 5
     body: >-
       ## What Does It Mean For You?
@@ -101,7 +101,7 @@ cards:
       * Reminder: We are China’s #1 customer.A Some argue we **should** leverage
       our standing. After all,A isn’t the customer always right? But others say
       this is dangerous.
-    _key: card-6-7751187b-957b-4a5c-bfaf-e98194472693
+    _key: card-6-629017ca-7df6-40cb-bc0c-3804cd91a0c7
   - order: 6
     body: >-
       ## New White House Advisor
@@ -119,7 +119,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/VxOCvxi_iSM?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-7-4a2590dd-b352-4490-98a0-1f9056158ff9
+    _key: card-7-2feb6781-0e81-4213-a51f-64e7ee3d5e08
   - order: 7
     body: >-
       ## Perspective
@@ -133,7 +133,7 @@ cards:
         
       Scott Kennedy, Dir - Project on Chinese Business, Center for Strategic and
       International Studies, Washington Post, March 22, 2018
-    _key: card-8-8faba72d-dfce-4ec6-b71c-a073e4db4b25
+    _key: card-8-bdc39e70-2d62-44c0-ac72-74318a9a83f9
   - order: 8
     body: >-
       We will know more in 2 weeks about what goods make theA tariff list. InA
@@ -143,7 +143,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/us-china-tarriffs/)
-    _key: card-10-8670ca29-0301-469c-bf78-0e070cf26c09
+    _key: card-10-dc20aa51-27e2-4dbc-8531-7cc8be66585c
 
 ---
 * China threatens to raise tariffs on about $3 billion of U.S. importsA [https://www.washingtonpost.com/business/economy/trump-moves-toward-imposing-steep-tariffs-on-china-sending-stocks-plummeting/2018/03/22/5cd3a7c6-2dfe-11e8-8ad6-fbc50284fce8_story.html?utm_term=.4a9fedb785d5&wpisrc=al_news__alert-world–alert-national&wpmk=1](https://www.washingtonpost.com/business/economy/trump-moves-toward-imposing-steep-tariffs-on-china-sending-stocks-plummeting/2018/03/22/5cd3a7c6-2dfe-11e8-8ad6-fbc50284fce8_story.html?utm_term=.4a9fedb785d5&wpisrc=al_news__alert-world--alert-national&wpmk=1)

@@ -3,29 +3,23 @@ title: >-
   Pres. Trump Denying that He Suffered a Series of Mini-Strokes in November
   2019.
 slug: 20200901-pres-trump-denying-mini-strokes
-_id: legacy-303e3f66-1e3f-4b47-a856-7aef147e686b
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-3a78ca64-4d4f-42e7-98db-0f7a6582c5db
+_rev: O8E8pz1fLwnc3fN7JVFAJC
 type: quick_quotes
 draft: false
 aliases:
   - article/pres-trump-denying-mini-strokes/
 _createdAt: '2020-09-02T00:53:16Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2020-09-02T00:53:16+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  Pres. Trump denying that he suffered a series of mini-strokes in November
-  2019.
 featured_quote:
   quote: >-
     It never ends! Now they are trying to say that your favorite President, me,
     went to Walter Reed Medical Center, having suffered a series of
     mini-strokes. Never happened to THIS candidate - FAKE NEWS. Perhaps they are
     referring to another candidate from another Party!
-  citation: >-
-    Pres. Trump denying that he suffered a series of mini-strokes in November
-    2019.
 
 ---
 * **Background:** In November 2019, questions arose when the President had an unscheduled visit to Walter Reed National Military Medical Center. At the time, the White House [responded](https://apnews.com/e3e5cdafbbc540afb0ae59c40715e02d) by saying that the purpose of the Pres. Trump’s visit was to get a head start on his 2020 annual physical exam due to an anticipated busy 2020 campaign schedule. Both the 2018 and 2019 annual physical exams were noted on the President’s public schedule.

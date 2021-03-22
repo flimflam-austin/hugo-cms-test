@@ -1,21 +1,19 @@
 ---
 title: Government Committee Greenlights First Ever Treatment for Peanut Allergies.
 slug: 20190919-government-greenlights-first-ever-treatment-for-peanut-allergies
-_id: legacy-464e82e8-983a-4eb6-929b-65875ee28a3e
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-48e86d04-63da-4eb2-9b27-b97612ecf269
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/government-greenlights-first-ever-treatment-for-peanut-allergies/
 _createdAt: '2019-09-18T16:12:36Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-09-18T16:12:36+00:00'
 weight: 50
 is_breaking: false
-summary: Government committee greenlights first EVER treatment for peanut allergies.
 featured_quote:
   quote: This is a big deal.
-  citation: Government committee greenlights first EVER treatment for peanut allergies.
 
 ---
 Pediatric allergist, Dr. BJ Lanser, at National Jewish Health, the hospital that helped run a clinical trial on a treatment for peanut allergy sufferers. He went on to say, This is a big deal, but with this caveat that this is not an easy, simple cure and the therapy isn”t going to be for everyone.

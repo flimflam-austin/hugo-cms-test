@@ -1,14 +1,14 @@
 ---
 title: 18.08.03 Mama Making History Power Mom Jacinda Ardern
 slug: 20180803-18-08-03-mama-making-history-powermom-jacindaardern
-_id: legacy-2f7ee3fb-79cc-48dd-a1ed-21f1dde60b51
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-2366387f-049c-4776-92d9-8970b59a7d6f
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-08-03-mama-making-history-powermom-jacindaardern/
 _createdAt: '2018-08-03T11:24:36Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-08-03T11:24:36+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       Jacinda Ardern
     citation: Jacinda Ardern
-    _key: card-1-635e1a22-71b1-4d1c-9b7f-bbebddf81150
+    _key: card-1-d2c9da23-bb94-4b96-b4a9-6a23c4ef49b6
   - order: 1
     body: >-
       ## Timing Is Everything
@@ -42,7 +42,7 @@ cards:
 
       In 1990, Bhutto became the **FIRST** world leader to give birth in office
       (She was assassinated in 2007).
-    _key: card-2-eb95c2e3-6d6f-42b6-b40d-e53cb2481581
+    _key: card-2-a2929cad-d237-4065-acb7-c568a062f742
   - order: 2
     body: >-
       > “I am not the first woman to give birth.”  
@@ -57,7 +57,7 @@ cards:
       [Click: Her
       Post](https://www.facebook.com/jacindaardern/videos/10155405508197441/)
     citation: 'Click: Her Post'
-    _key: card-3-aa936b91-6faa-475f-b828-de93d9aa1cce
+    _key: card-3-ffa4dbaf-3e73-48d9-b06c-4a74eb33120f
   - order: 3
     body: >-
       # Paid Parental Leave Policies Abroad
@@ -70,7 +70,7 @@ cards:
 
       * In the UK, new parents get up to 39 weeks (nearly 10 months) of paid
       parental leave.
-    _key: card-4-27aaa271-e4cc-4931-bf31-94a2282fda51
+    _key: card-4-06a98eb6-3958-48b9-81ba-7afe993a730a
   - order: 4
     body: >-
       In America, 10 women have given birth while in Congress. One of them, Sen.
@@ -81,7 +81,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-08-03-mama-making-history-powermom-jacindaardern/)
-    _key: card-10-385572ba-8171-4020-bbad-2d0381885f7d
+    _key: card-10-593b4491-5d10-4898-a6f6-955b31a7ca91
 
 ---
 * **Jacinda Ardern returns to work after maternity leave:** [https://www.bbc.com/news/av/world-45046484/jacinda-ardern-returns-to-work-after-maternity-leave](https://www.bbc.com/news/av/world-45046484/jacinda-ardern-returns-to-work-after-maternity-leave)

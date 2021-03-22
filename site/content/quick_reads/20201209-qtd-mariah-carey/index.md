@@ -1,14 +1,14 @@
 ---
 title: 'Quote of the Day: Mariah Carey'
 slug: 20201209-qtd-mariah-carey
-_id: legacy-dd54ad1e-6de7-4a8f-a61d-1c3216c23405
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-a1f7957d-1c0f-423a-99f7-e94f00c7bf41
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - qtd-mariah-carey/
 _createdAt: '2018-12-07T13:03:09Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-12-07T13:03:09+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       Mariah Carey
     citation: Mariah Carey
-    _key: card-1-0c8171df-9ce4-446c-b6d8-6c9400a89aad
+    _key: card-1-b93afc04-04a0-42ef-a59d-6f7174e46bc9
   - order: 1
     body: >-
       In 2017, Carey spoke to Billboard about how her modern day Christmas
@@ -38,7 +38,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/qtd-mariah-carey/)
-    _key: card-10-f27a3561-2023-4916-88d8-d2886779837f
+    _key: card-10-518dead4-9625-41aa-a2d7-192bc7d2d12a
 
 ---
 * **Mariah Carey Reflects on ‘All I Want for Christmas Is You’ and Her Growing Holiday Mini-Empire:**  

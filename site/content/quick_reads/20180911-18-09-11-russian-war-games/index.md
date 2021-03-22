@@ -1,14 +1,14 @@
 ---
 title: Russia Launches Largest War Games Since the Cold War
 slug: 20180911-18-09-11-russian-war-games
-_id: legacy-01e51a27-212e-4d19-8087-870be52a2cdd
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-fab07433-7f7c-45a3-880a-2e526f9d04e9
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-11-russian-war-games/
 _createdAt: '2018-09-11T11:57:47Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-11T11:57:47+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       Why Now?
     citation: Why Now?
-    _key: card-1-5a339645-3ade-475d-88c0-7a757047b619
+    _key: card-1-1e1f37cd-3904-461b-9942-b9a6c4c5cda3
   - order: 1
     body: >-
       > “The giant drill is clearly meant as a show of strength by Vladimir
@@ -44,7 +44,7 @@ cards:
         
       Sarah Rainsford, BBC journalist in Moscow, who adds Russia views NATO as a
       threat as well.
-    _key: card-2-06e1ef8c-1afa-451d-b903-d5e5de685eec
+    _key: card-2-244a5e4e-9872-460f-b705-8f05a7c2da0b
   - order: 2
     body: >-
       ## What You Should Know:
@@ -59,7 +59,7 @@ cards:
 
       * Some say Russia inflates the numbers, BUT military strength part of
       Pres. Putin’s agenda.
-    _key: card-3-4fe2d57f-a5fe-4d5c-97ee-a4e9f61f9c05
+    _key: card-3-47c36a5b-0d6d-4e71-8b97-cfc8e53662dc
   - order: 3
     body: >-
       ## “UNPRECEDENTED”
@@ -73,7 +73,7 @@ cards:
       * Takeaway: This is a significant show of cooperation vs. the United
       States as a global leader (what both sides refer to as a “unipolar
       world”).
-    _key: card-4-7f0bf2d5-f3f2-41c6-88a3-e9b245ba9343
+    _key: card-4-256ccd4d-abe0-4c2a-b6b4-d99aabdc3f50
   - order: 4
     body: >-
       The U.S. participates in smaller "war games" with NATO & with South Korea.
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-11-russian-war-games/)
-    _key: card-10-b38bc857-7565-4a8a-885c-a4205b410ffa
+    _key: card-10-7e0e5eea-175d-4c80-b679-d6a7d0ba5a9a
 
 ---
 * **Russia launches its biggest war games since Cold War:**  

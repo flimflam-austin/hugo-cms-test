@@ -1,14 +1,14 @@
 ---
 title: 18.08.15 Fire Wood
 slug: 20180815-18-08-15-fire-wood
-_id: legacy-28e91ccc-f33d-4460-a9d3-d2ab9839fb87
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-8ca42c0d-986d-466d-8219-fc5eec965b1c
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-15-fire-wood/
 _createdAt: '2018-08-15T11:54:35Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-15T11:54:35+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       FLIP: The Anti-Firewood
     citation: 'FLIP: The Anti-Firewood'
-    _key: card-1-6a25e38a-b013-4284-9c24-0fdcc773efeb
+    _key: card-1-e2c74f86-1500-4bf9-86d0-c811c951f04d
   - order: 1
     body: >-
       # Will This Prevent Fires?
@@ -53,7 +53,7 @@ cards:
       * **Take hours to make**, unlike trees which take decades to grow.
 
       * **Price TBD**.
-    _key: card-2-70571173-5f35-4413-983e-40ef1c1b75bf
+    _key: card-2-36864bb1-630e-43cd-944e-c01cea64d3a1
   - order: 2
     body: >-
       ## Wildfire Destruction
@@ -67,7 +67,7 @@ cards:
 
       * **Earlier than normal?** Yes, August is peak month.A Forecasters expect
       fires to slow in September before ramping up again in Oct.
-    _key: card-3-22139f30-f6d1-42ae-8d03-acd817b4d595
+    _key: card-3-672da01e-5d55-4302-855d-fcb58f75f4ad
   - order: 3
     body: >-
       ## Is It Worse This Year?
@@ -83,7 +83,7 @@ cards:
         
       Twenty large fires are now burning in CA, including the Ranch Fire (one of
       the Mendocino Complex Fire) the **largest wildfire in CA history**.
-    _key: card-4-4c0c5e23-416c-469f-8259-db0769b1cf0e
+    _key: card-4-2af38813-e17d-4830-93e6-0e504733be18
   - order: 4
     body: >-
       In California, 6 firefighters died and more than 2,200 buildings are
@@ -92,7 +92,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-15-fire-wood/)
-    _key: card-10-837cfe9e-f96c-4b06-ae23-f892a413089b
+    _key: card-10-bde5aac6-3787-41aa-8e16-3b0dcb963a5e
 
 ---
 * **This synthetic wood is as strong as the real thing—and won”t catch fire:**  

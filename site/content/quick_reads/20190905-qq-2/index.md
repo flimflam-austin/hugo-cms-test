@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for Monday, December 3, 2018
 slug: 20190905-qq-2
-_id: legacy-fea2f763-3ebd-4b23-8d07-9c73610ef236
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-3675faed-dd57-4b32-beca-69a0d5dc49f6
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - qq-2/
 _createdAt: '2018-12-03T12:49:57Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-12-03T12:49:57+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       G20 Saturday, Presidents Trump & Xi's trade truce was broadly seen as
       "positive," but there is caution. If no deal is reached in 90 days, U.S.
       warns it will raise tariffs from 10% to 25%.
-    _key: card-1-0b84c240-af1d-4b77-9988-9b37cc097f20
+    _key: card-1-d08eb911-29b6-4f3d-bb4b-f0e1d96f6c00
   - order: 1
     body: >-
       > “Nothing felt safe. Nowhere felt safe.’  
@@ -42,7 +42,7 @@ cards:
       briefly triggering tsunami warnings. While Alaska has experienced powerful
       earthquakes over 7.0, it is rare for one to strike this close to a densely
       populated area.
-    _key: card-2-f00cb919-d5f4-4eff-b7b3-a124b0a9044f
+    _key: card-2-5887d9a8-e056-4bc7-af63-0f1fa218b436
   - order: 2
     body: >-
       > “People work and pay a lot of taxes and we are fed up.”  
@@ -54,7 +54,7 @@ cards:
       even sprayed the famed Arc de Triomphe with graffiti. Over 400 people were
       arrested in protests Saturday, as riots against tax hikes and the high
       cost of living stretch into a third week.
-    _key: card-3-d05a6279-a0d6-4efd-a128-437178852e53
+    _key: card-3-3b36c109-88c0-4e3d-9910-a6cd59c13d9c
   - order: 3
     body: >-
       > “That’s a lie. And it’s not always enough to lean in, because that s***
@@ -67,7 +67,7 @@ cards:
       went on to say the Facebook's COO Sheryl Sandberg's feminist mantra lean
       in, which says women should be assertive to overcome workplace inequities,
       doesn't always work. Becoming is the best-selling book of 2018.
-    _key: card-4-696235b4-217a-484e-adc9-afac74ebbd47
+    _key: card-4-9c04080d-e411-43ac-ac71-880c72e9a3ed
   - order: 4
     body: >-
       > “We just presumed it was gone. In the end, we had no choice but to walk
@@ -81,13 +81,13 @@ cards:
       tried to help, but it was too dark. By Sunday morning, NYPD's emergency
       services unit had success and tracked down the UK couple to return the
       ring.
-    _key: card-5-86607d1b-8e0b-4cf5-a627-fbd1c7fdd0fb
+    _key: card-5-e52641ae-e96c-4054-9381-abae320d23e4
   - order: 5
     body: |-
       Have a great week!
 
       [view sources](https://smarthernews.com/qq-2/)
-    _key: card-10-103dfae3-cda1-4e8a-83cb-77a0df8405c8
+    _key: card-10-98aed44d-d7a1-478f-989c-17e2e461ff3d
 
 ---
 * **Stocks in Asia trade higher after US and China postpone tariff escalation:**  

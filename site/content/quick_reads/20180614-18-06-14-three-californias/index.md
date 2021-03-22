@@ -1,14 +1,14 @@
 ---
 title: 18.06.14 Three Californias
 slug: 20180614-18-06-14-three-californias
-_id: legacy-e60a400e-1fb5-4c50-944d-133a9390b1db
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-bc718705-6557-4079-9d66-08d7548724ba
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-14-three-californias/
 _createdAt: '2018-06-14T10:33:19Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-14T10:33:19+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Is this, Like, You know, Like, for real?
     citation: Is this, Like, You know, Like, for real?
-    _key: card-1-9435c21e-762c-4941-bb40-ec88750dd0fa
+    _key: card-1-725b9bfb-62d8-4b2c-be00-7cc085dfb444
   - order: 1
     body: >-
       ## Proposal Calls for 3 States:
@@ -50,7 +50,7 @@ cards:
 
       [Click to See & Compare](https://cal3.com/compare-the-cas/)
     citation: Click to See &amp; Compare
-    _key: card-2-733d4f9c-6c15-4ce5-8ce2-9853118f6227
+    _key: card-2-e352dc78-b056-49ee-a62b-d0bcacf58b15
   - order: 2
     body: >-
       ## Cali-THREE-nia? Why?
@@ -66,7 +66,7 @@ cards:
 
       He’s been working on this for years. In 2014, he tried & failed to break
       up California into 6 different states.
-    _key: card-3-66f5c296-7def-4608-8aa1-e51e5e526de1
+    _key: card-3-c1283f7d-ddfb-457a-a21a-989816d73478
   - order: 3
     body: >-
       ## Could it Happen? Maybe.
@@ -86,7 +86,7 @@ cards:
         
         
       Steven Maviglio, CA Democratic adviser
-    _key: card-4-1110ff3a-9bef-449c-9370-e3226583e6f2
+    _key: card-4-a4837190-0f2d-446c-a780-2cab2ca02ba5
   - order: 4
     body: >-
       Making it happen would require not only approval by California voters but
@@ -95,7 +95,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-14-three-californias/)
-    _key: card-10-eff9d827-3fb8-4eae-9388-a17d5a21e4ad
+    _key: card-10-3c853eed-6dfe-43ae-bb8c-d1ac4d425d35
 
 ---
 * **Sacramento Bee: Californians to vote on splitting state three ways:**  

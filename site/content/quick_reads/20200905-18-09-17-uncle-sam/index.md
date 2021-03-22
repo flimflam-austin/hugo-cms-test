@@ -1,14 +1,14 @@
 ---
 title: 'On This Day: Sept. 7, 1813'
 slug: 20200905-18-09-17-uncle-sam
-_id: legacy-9296adaf-873b-4664-8604-ed2619f79aff
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-cd3f688c-dd4b-49d9-9c99-491cc479c3f2
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-09-17-uncle-sam/
 _createdAt: '2018-09-07T11:59:28Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-09-07T11:59:28+00:00'
 weight: 50
 featured_image:
@@ -24,7 +24,7 @@ cards:
       The Birth Of “Uncle Sam”
 
       How did America get its nickname?
-    _key: card-1-334b6b34-173e-4e15-ba91-e224f062709a
+    _key: card-1-585c6246-8847-4bc5-8160-b4521169d7a3
   - order: 1
     body: >-
       ## Was Uncle Sam Real?
@@ -37,7 +37,7 @@ cards:
       Hungry troops were fed meat from **Samuel Wilson.** His barrels of beef &
       pork were stamped with a “U.S.” but **soldiers started calling it “Uncle
       Sam’s.”**
-    _key: card-2-0e5db992-f9c0-4a79-a05e-5a1681fc68ff
+    _key: card-2-42269c9f-4d61-4ce8-a2c0-345d002ea384
   - order: 2
     body: >-
       ## Did He Look Like That?
@@ -52,7 +52,7 @@ cards:
 
       * Artist James Montgomery Flagg’s “I Want You” painting showed him stern
       and muscular.
-    _key: card-3-5e4ce3e3-cc68-4cbe-b35e-9cf1d07bf7b5
+    _key: card-3-f731a3da-623e-4f55-ad54-c94a6ea8e8d1
   - order: 3
     body: >-
       205 years after Uncle Sam's creation his legacy lives on - but did you
@@ -61,7 +61,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-17-uncle-sam/)
-    _key: card-10-8a51980f-b71f-4526-961c-c9b8b2520cb3
+    _key: card-10-f5b1f4ca-d3b6-419e-bda1-5e6ba62c7064
 
 ---
 * **Smithsonian: Uncle Sam: the man and the meme**  

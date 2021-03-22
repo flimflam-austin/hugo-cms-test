@@ -1,14 +1,14 @@
 ---
 title: Lying in State
 slug: 20200726-18-08-31-lying-in-state
-_id: legacy-da2e2013-dc58-4720-aba3-380b6d051fb2
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-e9825a1a-c4f5-4cb9-ab03-e5e306d9bff0
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-31-lying-in-state/
 _createdAt: '2018-08-31T11:50:37Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-08-31T11:50:37+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       How & Why We Do It
     citation: How &amp; Why We Do It
-    _key: card-1-160b1ea8-e637-43fd-b672-c161bfdb87c3
+    _key: card-1-8b95d6de-d73d-43c3-ac4c-97360e8d6b0b
   - order: 1
     body: >-
       ## Pres. Lincoln’s “Support”
@@ -43,7 +43,7 @@ cards:
       * The catafalque has had minor restorations since 1865 (retrofitted to
       hold larger coffins, drapery replaced), but for the most part, it remains
       like the original.
-    _key: card-2-881a2253-34d6-4aff-94f5-5f91200c3979
+    _key: card-2-147212c7-f32c-4506-9cf4-c62c0fa84811
   - order: 2
     body: >-
       What It Means &  
@@ -56,7 +56,7 @@ cards:
 
       * 11 U.S Presidents have lain in state: Ford, Reagan, Johnson, Eisenhower,
       Hoover, Kennedy, Taft, Harding, McKinley, Garfield, & Lincoln.
-    _key: card-3-bbeb9b08-c240-42ed-9aff-8790e8a1ce49
+    _key: card-3-2a854139-6746-4a8d-9b59-93c7b70b6d73
   - order: 3
     body: >-
       ## “In State” vs. “In Honor”
@@ -71,7 +71,7 @@ cards:
 
       To date, only four have received the honor, including Rev. Billy Graham &
       two police officers killed during an attack on the U.S. Capitol.
-    _key: card-4-8ef89a34-8086-41a6-82b4-d4e85879f372
+    _key: card-4-df99ef55-0857-4d6d-ae2a-7a6d460751ab
   - order: 4
     body: >-
       In 2005, civil rights activist Rosa Parks became the first (and only)
@@ -79,7 +79,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-31-lying-in-state/)
-    _key: card-10-4005740f-96c6-4161-b8d2-f22971e47107
+    _key: card-10-712ea4b2-a26c-49ab-a1f8-06bf3abbd680
 
 ---
 * **Lying In State Or In Honor:**  

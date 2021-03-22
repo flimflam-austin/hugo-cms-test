@@ -1,14 +1,14 @@
 ---
 title: 18.03.14 Women & Makeup
 slug: 20180314-18-03-14-women-makeup
-_id: legacy-18bf356f-6bf7-4eb9-916b-49c8a3d1084c
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-cb384cd5-9722-4be5-88af-735cf98079e9
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-14-women-makeup/
 _createdAt: '2018-03-14T13:00:34Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-14T13:00:34+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       FLIP HERE FOR MORE
     citation: FLIP HERE FOR MORE
-    _key: card-1-f3a834be-98d6-47e7-a63e-80eac15e3cb1
+    _key: card-1-129df1a4-6844-4a79-8574-3ca54746a975
   - order: 1
     body: >-
       ## About the Study:
@@ -51,7 +51,7 @@ cards:
 
       Flip Here
     citation: Flip Here
-    _key: card-2-d7ce2ec8-98c9-4194-a866-9cbdc6521b7d
+    _key: card-2-8bb77656-467d-4888-8dce-2288005fe5fb
   - order: 2
     body: >-
       ## The Result
@@ -67,7 +67,7 @@ cards:
       Dr Christopher Watkins  
 
       Lead Researcher
-    _key: card-3-61903131-675e-4a51-82ff-6778a62c7088
+    _key: card-3-16e4fb20-c2d8-47c5-beb6-48bf158dc1ff
   - order: 3
     body: >-
       ## How Much Makeup Do We Actually Wear?
@@ -83,7 +83,7 @@ cards:
       [How Much Is Your State's
       Face?](http://www.skinstore.com/blog/skincare/womens-face-worth-survey-2017/)
     citation: How Much Is Your State's Face?
-    _key: card-4-4b870fe8-7b9c-4dba-9ec1-da5f1755fec6
+    _key: card-4-c23ac0c1-3347-4b67-bd43-d8434265c007
   - order: 4
     body: >-
       SmartHER Reminder: Check out the images study participants saw and you'll
@@ -92,7 +92,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-14-women-makeup/)
-    _key: card-10-de478398-e8d7-48e7-b693-96e9d78641eb
+    _key: card-10-3b66e2a0-e0ef-45af-85a9-050da9ad47ee
 
 ---
 * Makeup study reveals leadership perceptions: [https://www.abertay.ac.uk/news/2018/makeup-study-reveals-leadership-perceptions/](https://www.abertay.ac.uk/news/2018/makeup-study-reveals-leadership-perceptions/)

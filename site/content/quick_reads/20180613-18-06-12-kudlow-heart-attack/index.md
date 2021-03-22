@@ -1,14 +1,14 @@
 ---
 title: 18.06.12 Kudlow Heart Attack
 slug: 20180613-18-06-12-kudlow-heart-attack
-_id: legacy-0c4825eb-f498-46cc-aab4-ae9555e1deaa
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-1952b3b6-6242-4fe5-aa3c-417787bae824
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-12-kudlow-heart-attack/
 _createdAt: '2018-06-13T08:51:24Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-13T08:51:24+00:00'
 weight: 50
 featured_image:
@@ -25,7 +25,7 @@ cards:
 
       **…someone suffers a heart attack.** The WH top economic advisor survived
       one as the President met with North Korea in Singapore.
-    _key: card-1-4e87ff38-3004-4dea-ba85-7750145e3a24
+    _key: card-1-d8bf7409-44ff-4cdf-b2b5-3002f474a63f
   - order: 1
     body: >-
       > “National Economic Council Director and Assistant to the President Larry
@@ -38,7 +38,7 @@ cards:
         
         
       WHITE HOUSE
-    _key: card-2-3338eccd-72d7-4622-8c6e-74eb9b312bed
+    _key: card-2-bc46686a-431a-42be-ba88-5241c89c822e
   - order: 2
     body: >-
       ## U.S. Economy & Kudlow
@@ -52,10 +52,10 @@ cards:
 
       * Kudlow says the global trade system “is broken and President Trump is
       trying to fix it.”
-    _key: card-3-d1f30c1c-f4c6-4ce2-8b3d-e6c3f83e9d10
+    _key: card-3-320fb08e-0215-465f-a63c-5805b6cc2245
   - order: 3
     body: "How do you know you’re having a heart attack?\n\n> “While heart disease can present in a very typical waya\x14chest pain, shortness of breatha\x14the symptoms can also be quite insidious–Particularly in women.”  \n  \n  \n  \nCardiologist Kevin Campbell to SmartHER News says atypical symptoms include nausea, feelings of dread, flu-like illness, pain in the neck, arm or back."
-    _key: card-4-2943d7c0-0089-44f2-b44c-fd4f557e2e8d
+    _key: card-4-04da1719-1bbb-44d2-8e6e-cc4b9ee9c475
   - order: 4
     body: >-
       1 of 5 heart attacks are "silent," according to the CDC. The person never
@@ -64,7 +64,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-12-kudlow-heart-attack/)
-    _key: card-10-02a67a73-0660-4c49-8898-f5dd6a4f8ac4
+    _key: card-10-2a5e4e3c-9647-44ce-88aa-6057204b2f3d
 
 ---
 * **US economic advisor Larry Kudlow in good condition following heart attack, White House says:**  

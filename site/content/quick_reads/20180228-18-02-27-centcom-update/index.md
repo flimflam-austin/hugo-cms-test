@@ -1,14 +1,14 @@
 ---
 title: 18.02.27 Centcom Update
 slug: 20180228-18-02-27-centcom-update
-_id: legacy-72541dd0-81b4-4a27-9b47-017cdeba43ad
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-c9a8defa-1167-4dd2-a599-38ea8cb028c6
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-27-centcom-update/
 _createdAt: '2018-02-28T13:00:39Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-28T13:00:39+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
         
         
       General John Votel, Commander, CentCom, Feb 27, 2018
-    _key: card-1-aaeb1d1c-aa39-4fcb-96c4-de2d8dd3fdba
+    _key: card-1-7aeeff65-c70f-4a1d-b2dd-926b097f100c
   - order: 1
     body: >-
       ## Feb 27th Hearing
@@ -50,7 +50,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/ssvpjWRaQq8?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-0d2e5961-c928-4d1e-a5a8-030e8b5fc733
+    _key: card-2-50e719e2-674d-46c8-bad9-656dd0dc81fa
   - order: 2
     body: >-
       # Key Takeaways
@@ -65,7 +65,7 @@ cards:
 
       * Something to watch: **China’s** growing presence in Middle East, such as
       a port in **Pakistan** and military base in **Djibouti** (Africa).
-    _key: card-3-539bef18-346c-404e-b92d-f20100f0449e
+    _key: card-3-5aef646b-304a-4bff-bd53-3e9a29b1bd6a
   - order: 3
     body: >-
       ## Top Priority: Iran
@@ -78,7 +78,7 @@ cards:
         
         
       General Votel, Commander, CentCom, Congressional Testimony Feb 27, 2018
-    _key: card-4-be68e349-6323-49f8-8779-0033ca1f63b0
+    _key: card-4-1b04b20b-838b-4ebd-b0b5-20dfe39ebfb3
   - order: 4
     body: >-
       ## Why It Matters:
@@ -91,7 +91,7 @@ cards:
       * The Middle East impacts our national security, not only because of
       terrorism threat, but also economically (oil markets, shipping lanes,
       investment of military “men & materials”).
-    _key: card-5-c0888698-837b-4d85-a768-cce0746ae6ba
+    _key: card-5-298da3bb-2776-4af0-88c3-74060af3ccce
   - order: 5
     body: >-
       SmartHER News quotes the "open" session available to the public; General
@@ -100,7 +100,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-27-centcom-update/)
-    _key: card-10-ef52a60d-bca8-412f-ba79-f5e9b66b23ec
+    _key: card-10-2159421a-fc80-43c5-bbab-722d236251d8
 
 ---
 * Full Testimony – Terrorism & Iran: Defense Challenges In The Middle East:A [https://www.youtube.com/watch?v=ssvpjWRaQq8](https://www.youtube.com/watch?v=ssvpjWRaQq8)

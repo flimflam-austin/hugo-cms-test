@@ -1,14 +1,14 @@
 ---
 title: 18.04.21 Barbara Bush Interview
 slug: 20180421-18-04-21-barbara-bush-interview
-_id: legacy-5296e092-c46c-49ea-8e2d-fd268954727e
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-16ae425f-f2c2-424c-8b7e-a31b1b90282f
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-21-barbara-bush-interview/
 _createdAt: '2018-04-21T13:23:34Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-21T13:23:34+00:00'
 weight: 50
 featured_image:
@@ -32,14 +32,12 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/dYLbBALvMJo?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-72eed55a-11db-4a7e-8a8e-03ecb458ad25
+    _key: card-1-27bb7f01-52e4-4222-8dbb-68892dc03d2c
   - order: 1
     body: '[view sources](https://smarthernews.com/18-04-21-barbara-bush-interview/)'
-    _key: card-10-83121489-17ef-466f-95e0-89f677d47d8a
+    _key: card-10-2db2ae56-35ae-4e22-903b-41c0f3f43ead
 
 ---
 Interview with Historian Doug Wead:A [https://youtu.be/dYLbBALvMJo](https://youtu.be/dYLbBALvMJo)
 
-{{< youtube dYLbBALvMJo >}}
-
-{{< youtube dYLbBALvMJo >}}
+{{< youtube id=\dYLbBALvMJo\ title=\ >}}

@@ -1,14 +1,14 @@
 ---
 title: 18.02.27 Noko and Soko
 slug: 20180328-18-02-27-noko-soko
-_id: legacy-8da692de-3d03-43e4-a92f-1dfa4b670266
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-4a10731d-af22-4d86-9166-489b64b5c935
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-02-27-noko-soko/
 _createdAt: '2018-03-28T10:32:09Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-28T10:32:09+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Why This Matters
     citation: Why This Matters
-    _key: card-1-0cb9091a-5011-4711-baf2-8e557076afa9
+    _key: card-1-a0112c61-ef8e-49e3-b7db-7f8c5dd7e49b
   - order: 1
     body: >-
       Kim Jong Un:  
@@ -46,7 +46,7 @@ cards:
 
       * Show of unity as reports surface of a major trade pact between South
       Korea, and it’s ally, the U.S.
-    _key: card-2-24e03cb7-ad69-4dcb-996a-4b5fcbb97768
+    _key: card-2-d1c282ce-2b69-4a40-93ef-af7f2fed393e
   - order: 2
     body: >-
       ## U.S. & SoKo Trade Deal
@@ -61,7 +61,7 @@ cards:
 
       * P.S. Show of force not just economic. Joint annual military drills begin
       on Easter Sunday, April 1st.
-    _key: card-3-5a320707-754e-4538-8cd4-4bb9bf1b720b
+    _key: card-3-c5136d5f-818b-445f-be83-0bc20eba0e01
   - order: 3
     body: >-
       ## What’s At Stake:
@@ -75,7 +75,7 @@ cards:
 
       * SoKo announced meeting between President Trump & Kim Jong Un by end of
       May.
-    _key: card-4-35fb9bbb-1173-4b35-bb4c-1dbcfe1b0725
+    _key: card-4-2cb4295f-8180-45cb-9653-d900157757d4
   - order: 4
     body: >-
       Reminder: Approx 25,000 U.S. troops stationed in South Korea. Interesting
@@ -84,7 +84,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-27-noko-soko/)
-    _key: card-10-a4dadb38-c499-4849-96f3-ff3b40da785d
+    _key: card-10-e6c0313d-2c88-4345-bdea-8311dbca814c
 
 ---
 * Kim, Xi portray strong ties after N. Korean leader”s visit: [https://apnews.com/060ca55f694740b9945268b10d7b0090?](https://apnews.com/060ca55f694740b9945268b10d7b0090?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP&__twitter_impression=true)

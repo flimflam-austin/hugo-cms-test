@@ -1,14 +1,14 @@
 ---
 title: 18.08.19 Quick Quotes
 slug: 20190905-18-08-19-quick-quotes
-_id: legacy-ae5dca35-8e34-47ea-b44c-a99f5b0fcc26
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-39c00251-6072-4ec3-bcdb-0a618a9f62d3
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-19-quick-quotes/
 _createdAt: '2018-08-21T11:59:06Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-21T11:59:06+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
       Their Greatest Hits (1971-1975), surpassing Michael Jackson's Thriller as
       the biggest selling album of all time. The two albums have often switched
       #1 and #2 spots over the years.
-    _key: card-1-174dcaf5-2515-4bd2-bca8-a8caf32115a4
+    _key: card-1-4b6e3e8d-6e24-4ea7-9dc4-ce331fead6f4
   - order: 1
     body: >-
       > “In my time covering races professionally, I’ve never observed this
@@ -41,7 +41,7 @@ cards:
       the midterms are a tale of 2 races - the Senate seats are in rural, red
       states; the House seats in swing states. Feeling out of the loop on the
       midterms? This piece on our source page is worth a read.
-    _key: card-2-83e6665e-7eee-4f88-89d7-f2a936bcb44a
+    _key: card-2-4c295259-a940-482a-b86a-758fd56a07be
   - order: 2
     body: >-
       > ‘We showed no care for the little ones; we abandoned them.’  
@@ -52,7 +52,7 @@ cards:
       addressing the ongoing sex abuse scandal roiling the church. A newly
       released grand jury report in Pennsylvania exposed the church's coverup
       for hundreds of victims and priests.
-    _key: card-3-7fb9e5c3-4dc6-4f8b-b355-3e3b5f422008
+    _key: card-3-2594c41f-9558-4959-8ec0-e7231ba4b91a
   - order: 3
     body: >-
       > ‘…we know it was made mostly from sheep’s and goat’s milk, but for me,
@@ -63,10 +63,10 @@ cards:
       Dr. Enrico Greco, Italian researcher who says his team found probably the
       most ancient archaeological solid residue of cheese ever found to date in
       an Egyptian tomb from approx. 3,200 yrs ago.
-    _key: card-4-f2dc75da-dda6-4ec9-b4e7-62368eef95fd
+    _key: card-4-9c5a438a-fd26-4539-97fa-0ab15f9ed18e
   - order: 4
     body: '[view sources](https://smarthernews.com/18-08-19-quick-quotes/)'
-    _key: card-10-2f774a8b-c9ac-474e-8550-19bd47a943e7
+    _key: card-10-de754dde-54cb-44c2-914e-2afffdb5e3f7
 
 ---
 * **The Eagles once again have the all-time best-selling album in the U.S., upstaging Michael Jackson**  

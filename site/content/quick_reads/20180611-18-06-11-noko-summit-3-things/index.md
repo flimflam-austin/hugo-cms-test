@@ -1,14 +1,14 @@
 ---
 title: 18.06.11 Noko Summit 3 Things
 slug: 20180611-18-06-11-noko-summit-3-things
-_id: legacy-6212facd-ea92-4b5a-94f4-1f1eeac93a4f
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-28d279ae-81e8-4212-bb84-fff9f5e8caa7
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-11-noko-summit-3-things/
 _createdAt: '2018-06-11T10:50:14Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-11T10:50:14+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       FLIP: Get the popcorn.
     citation: 'FLIP: Get the popcorn.'
-    _key: card-1-0acaaa72-de83-4d70-9864-62815fe5b6fe
+    _key: card-1-d2b83f96-c622-4d1b-a611-9b60a71f2d44
   - order: 1
     body: >-
       ## What Does the U.S. Want?
@@ -41,7 +41,7 @@ cards:
       * U.S. defense & intelligence say **N. Korea is close to being able to
       strike anywhere in the continental U.S.** with a nuclear-tipped missile,
       which Pres. Trump & other U.S. officials say they **wouldn’t tolerate.**
-    _key: card-2-5db1768b-1ec6-4d55-83d4-1b75957b94cb
+    _key: card-2-1d8228a8-2354-4df8-8d0d-38d978339de3
   - order: 2
     body: >-
       ## What Does N. Korea Want?
@@ -55,7 +55,7 @@ cards:
       overthrown or removed** if nukes are removed.
 
       * Dropping of sanctions to allow more $$ in NoKo economy.
-    _key: card-3-ba6d2ed9-c8f3-4e17-b983-0638b61205e5
+    _key: card-3-0ba6e013-f60b-42c5-a0ec-3cda5ade6b99
   - order: 3
     body: >-
       ## What is Success?
@@ -70,7 +70,7 @@ cards:
 
       [Refresher: hostages](https://smarthernews.com/18-05-09-korean-hostages/)
     citation: 'Refresher: hostages'
-    _key: card-4-b805a80f-390e-491c-be02-76a7f6326aa7
+    _key: card-4-f93aabfa-309d-4244-9ccb-0a00f337e17e
   - order: 4
     body: >-
       It may be a sitting President's first time negotiating with North Korea,
@@ -80,7 +80,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-11-noko-summit-3-things/)
-    _key: card-10-467afaaa-da0e-448c-98ac-51e75cc8bb50
+    _key: card-10-b2f09c74-0c32-49bc-9042-015903d1caf9
 
 ---
 * **Trump Greets 3 American Detainees From North Korea (From early May):**  

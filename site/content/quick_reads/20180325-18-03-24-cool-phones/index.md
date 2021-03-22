@@ -1,14 +1,14 @@
 ---
 title: 18.03.24 Cool Phones
 slug: 20180325-18-03-24-cool-phones
-_id: legacy-71e49643-a7a5-41b4-bf1b-0dbc6d350e05
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-67bd0a4b-2764-4c50-9b8d-cc9048828381
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-24-cool-phones/
 _createdAt: '2018-03-26T12:00:28Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-26T12:00:28+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip For The Future
     citation: Flip For The Future
-    _key: card-1-5fb7e45b-da8a-42fe-8204-13a380003666
+    _key: card-1-30e6cd33-9d6f-4c7b-b050-3e164e79980c
   - order: 1
     body: >-
       Analysts: Apple Working  
@@ -50,7 +50,7 @@ cards:
       [WATCH: WHAT A FLEXIBLE PHONE MIGHT LOOK
       LIKE](https://youtu.be/Sfc_Peev660)
     citation: 'WATCH: WHAT A FLEXIBLE PHONE MIGHT LOOK LIKE'
-    _key: card-2-cdcc8c2a-d7a1-4daa-a534-0b35e00750be
+    _key: card-2-1f1770a2-b05b-4d1e-8d80-a2568bac7720
   - order: 2
     body: >-
       ## Don’t Get Too Excited Yet…
@@ -63,7 +63,7 @@ cards:
 
       * It’s not just the screen that needs to be flexible, but all of the
       internal components as well. (Think: circuit boards, batteries, etc.)
-    _key: card-3-d4edfd05-7bc6-4104-938a-5c6f9a5eda0a
+    _key: card-3-98edb441-79f8-44da-9da0-c74a2988241a
   - order: 3
     body: >-
       Samsung Trying to One-Up  
@@ -76,7 +76,7 @@ cards:
 
       * Fingerprint scanner would liveA **_underneath_A your phone’s screen**,
       leaving more room for content.
-    _key: card-4-d15a0a63-6f19-4fe4-8c4b-2084c2440565
+    _key: card-4-0ce97bdb-201b-4969-89b4-31c8a980e9c8
   - order: 4
     body: >-
       Touch or Look:  
@@ -91,7 +91,7 @@ cards:
 
       * Apple ditched its _on-screen_ fingerprint sensor for 3D face
       recognition.
-    _key: card-5-da790303-c3f1-46ec-96ee-91c12821c911
+    _key: card-5-7851d81c-4c2a-4553-8612-5fa75d8e18df
   - order: 5
     body: >-
       Taking Photos in the Dark  
@@ -106,7 +106,7 @@ cards:
 
       * This kind of camera tech is *currently* only available with
       interchangeable lenses.
-    _key: card-6-47d6757e-e886-4055-9cbf-25ae34021d82
+    _key: card-6-c42494eb-522b-4563-9dfc-3a861981ab88
   - order: 6
     body: >-
       # Seeing the Light?
@@ -118,7 +118,7 @@ cards:
 
       No word yet on when SONY’s low-light camera technology will arrive in
       smartphones.
-    _key: card-7-341719f5-9ba8-4907-8b8a-88459223dfbd
+    _key: card-7-2984c852-3289-4130-b994-533290f3ca12
   - order: 7
     body: >-
       How important is your cellphone to you? Click to find out how what
@@ -126,7 +126,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-24-cool-phones/)
-    _key: card-10-5ded4c6e-13b1-42eb-90dd-131133babe24
+    _key: card-10-7ea5c169-6f6a-4a53-b105-9c6cadb0eda8
 
 ---
 * Apple is working on a “foldable” iPhone for release in 2020, says Bank of America:  

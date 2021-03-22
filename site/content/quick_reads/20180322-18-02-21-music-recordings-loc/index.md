@@ -1,14 +1,14 @@
 ---
 title: 18.02.21 Music Recordings Loc
 slug: 20180322-18-02-21-music-recordings-loc
-_id: legacy-b81e7f94-2071-4707-8314-f5091c2b7777
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-2a3a476a-1908-4d83-bf74-6bc0a6d0f5a9
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-21-music-recordings-loc/
 _createdAt: '2018-03-22T10:56:29Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-22T10:56:29+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip To Find Out
     citation: Flip To Find Out
-    _key: card-1-3993fc00-2eb8-4d65-b880-fae3c82390c2
+    _key: card-1-63cd1eea-efe6-4fbb-b224-04256f2200e6
   - order: 1
     body: >-
       NEW INDUCTEES  
@@ -49,7 +49,7 @@ cards:
 
       * Selects 25 works every year deemedA “_culturally, historically or
       aesthetically significant_’ AND **more than 10 years old**.
-    _key: card-2-0152fd01-60b9-4ed6-acef-2850aae7e1f5
+    _key: card-2-dff261e5-c26a-404e-8bde-b24baca1e341
   - order: 2
     body: >-
       # Not Just Songs
@@ -64,7 +64,7 @@ cards:
 
 
       **Comedy**:A Groucho Marx’s 1972 album ‘A_n Evening with Groucho_.’
-    _key: card-3-4176a7e1-f76d-4972-9fb9-01e3ad2a06d3
+    _key: card-3-382c00a9-c579-46ee-b353-98a8465229ff
   - order: 3
     body: >-
       ## Where Are Recordings Kept?A
@@ -80,10 +80,10 @@ cards:
 
       [Tap HERE Closer Look](http://www.loc.gov/avconservation/)
     citation: Tap HERE Closer Look
-    _key: card-4-de5ec1ca-f073-46ce-b406-1af4465cd4d6
+    _key: card-4-e7a3cd0c-14be-4296-b8df-eeeecedd1979
   - order: 4
     body: "> _‘**I’m totally overwhelmed**_  \n_**by a\x18My Girl’ receiving such an honor**. As a songwriter, it has become my international anthem. People in countries where English is not the primary language know and sing a\x18My Girl’ when I perform it.’_  \n  \n  \n  \nSmokey Robinson, co-writer My Girl, LOC Press Release, March 21, 2018"
-    _key: card-5-6558cdab-d4b9-4074-a79b-6bb9ef46b477
+    _key: card-5-ad7994cb-1bdf-4fa0-a48c-bf5b2e4abc05
   - order: 5
     body: |-
       # Who Nominates?
@@ -96,7 +96,7 @@ cards:
 
       Click for The Form
     citation: Click for The Form
-    _key: card-6-314ca744-27af-4c33-8325-ecb7554cc5f4
+    _key: card-6-c513a085-3dce-4f7e-8b24-db8b3f973861
   - order: 6
     body: >-
       Did you know there's something called the "National Jukebox"? You don't
@@ -104,7 +104,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-21-music-recordings-loc/)
-    _key: card-10-32c8c0f2-1d45-4748-8ec3-9b1cda579be0
+    _key: card-10-0719a812-5545-4c5b-9c6a-2403e5dc9113
 
 ---
 * Nomination Form:A [https://www.research.net/r/national-recording-registry-nominations-2017](https://www.research.net/r/national-recording-registry-nominations-2017)

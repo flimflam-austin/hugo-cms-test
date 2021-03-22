@@ -1,14 +1,14 @@
 ---
 title: 18.05.31 Glasses
 slug: 20180531-18-05-31-glasses
-_id: legacy-2d85a61e-dca5-498f-971a-1eb0f8715847
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-0d30d5f5-221b-41f7-8a8e-a0e9ac4cd907
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-31-glasses/
 _createdAt: '2018-05-31T10:56:07Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-05-31T10:56:07+00:00'
 weight: 50
 featured_image:
@@ -23,7 +23,7 @@ cards:
       # “Four Eyes” Gets the Last Laugh
 
       What wearing glasses or contacts says about you…
-    _key: card-1-d2e5b31d-8978-4e4e-b01c-3691a4f7a0ca
+    _key: card-1-5af713c3-6259-4b17-8b1b-781ca8adc6c9
   - order: 1
     body: >-
       ## You Really Are Smarter – Science Says So.
@@ -39,7 +39,7 @@ cards:
 
       But that's not all...
     citation: But that's not all...
-    _key: card-2-a1467553-c865-45f9-abbc-bf37d446e124
+    _key: card-2-83541512-d7de-47f0-a442-ace394183171
   - order: 2
     body: >-
       # Weak Eyes, But…
@@ -56,7 +56,7 @@ cards:
 
       Solved: Smarter Sex?
     citation: 'Solved: Smarter Sex?'
-    _key: card-3-ffa0bdee-0e18-4ce0-818a-bf218a4b26ae
+    _key: card-3-0ba0daa0-4177-4a51-9c00-eac6acdb904c
   - order: 3
     body: >-
       Approximately 6% of the U.S. population are visually impaired, according
@@ -65,7 +65,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-31-glasses/)
-    _key: card-10-8a5742e0-5f58-44fa-8c7a-bed2e70e9817
+    _key: card-10-21a7500d-552f-4fbc-bba2-07d71ca7865c
 
 ---
 * **Wearing glasses may really mean you’re smarter, major study finds:A**  

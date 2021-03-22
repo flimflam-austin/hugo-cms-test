@@ -1,14 +1,14 @@
 ---
 title: Quote of the Day
 slug: 20180918-18-09-18-qtd
-_id: legacy-2b1f9db3-3137-4a7f-ad9b-a2eb00fd2a79
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-1bf70a61-4c79-434c-a41d-585dc36c9b21
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-18-qtd/
 _createdAt: '2018-09-18T11:54:12Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-18T11:54:12+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       Betty White
     citation: Betty White
-    _key: card-1-6edb8ea1-cd76-4129-9dae-90cf57fb7e3b
+    _key: card-1-b3713458-41f0-4e8f-a5d5-76a60003b498
   - order: 1
     body: >-
       96-year-old Betty White still making people laugh as she was honored at
@@ -35,7 +35,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-18-qtd/)
-    _key: card-10-dd83bf40-1d18-4cb5-a46f-55416df9221d
+    _key: card-10-f55bde3a-84f7-45b2-ac32-0f0503af7597
 
 ---
 * **Betty White, 96, Earns Standing Ovation At 2018 Emmys:A**  

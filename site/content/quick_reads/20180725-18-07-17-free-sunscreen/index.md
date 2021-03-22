@@ -1,14 +1,14 @@
 ---
 title: 18.07.17 Free Sunscreen
 slug: 20180725-18-07-17-free-sunscreen
-_id: legacy-dae0ae98-4824-4bed-8b3a-5616c74f12e8
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-fe50e744-7015-45b9-b07a-fa98920eb220
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-17-free-sunscreen/
 _createdAt: '2018-07-25T11:53:07Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-25T11:53:07+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Here's The Deal
     citation: Here's The Deal
-    _key: card-1-edf1a0d0-20b8-4e63-8034-b1babd0746b2
+    _key: card-1-c54043cb-2506-4f6b-9b37-6c7dd0d13228
   - order: 1
     body: >-
       # SPF
@@ -50,7 +50,7 @@ cards:
 
       * Docs worry those wearing higher SPF may feel “invincible” and stay in
       sun longer.
-    _key: card-2-3436f0f6-c523-44d0-9c06-ad4baecd51b3
+    _key: card-2-92f9d165-2dc9-432e-a505-b6442c713436
   - order: 2
     body: >-
       # Free Sunscreen?
@@ -65,7 +65,7 @@ cards:
 
       * Nonprofits, hospitals, sunscreen dispenser-maker often foot cost for
       city for initial program.
-    _key: card-3-e7294e84-d4ec-4554-9c14-1afabeeac0ef
+    _key: card-3-294db54d-e3e3-43cd-8a74-3a645213bd1d
   - order: 3
     body: >-
       ## An American dies of melanoma every hour
@@ -78,7 +78,7 @@ cards:
         
         
       American Cancer Society
-    _key: card-4-8f14953f-430b-4a99-94ec-0b71743f9599
+    _key: card-4-1d08aab1-6b4c-4071-8dc7-4a6f8d1fbd7b
   - order: 4
     body: >-
       Did you know you should be using ‘about a shot-glass worth of BROAD
@@ -88,7 +88,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-17-free-sunscreen/)
-    _key: card-10-539cb2ae-5966-4527-804e-e2f759720688
+    _key: card-10-d81395ca-6a22-4fe1-b5b7-2fb707c071e0
 
 ---
 * **BrightGuard Installs Free Sunscreen Dispensers at New York City Public Pools and Beaches:**  

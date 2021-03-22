@@ -1,14 +1,14 @@
 ---
 title: 18.03.30 Sister Jean
 slug: 20180330-18-03-30-sister-jean
-_id: legacy-efc0a224-f91f-4d27-97d2-369f39fb3382
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-62cf65a9-9be1-4f27-8e36-946fe0bf2950
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-03-30-sister-jean/
 _createdAt: '2018-03-30T10:32:50Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-30T10:32:50+00:00'
 weight: 50
 featured_image:
@@ -37,7 +37,7 @@ cards:
 
       Meet 'Sister Jean'
     citation: Meet 'Sister Jean'
-    _key: card-1-ac830d2d-49de-4286-8730-f2cf2ce5d576
+    _key: card-1-ed8efbd4-92dc-479e-940f-f038c78601fa
   - order: 1
     body: >-
       ## All About Sister Jean
@@ -58,7 +58,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/vlgliO8oYSA?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-a273772f-8a08-46e5-bbbf-5fe3f50b2720
+    _key: card-2-4bf18403-a3c2-4849-ac0c-58faf19385fa
   - order: 2
     body: >-
       NCAA Tournament’s M.V.P.  
@@ -75,7 +75,7 @@ cards:
 
       * Proceeds from the sales support Loyola Athletic Fund & Sisters of
       Charity of the Blessed Virgin Mary.
-    _key: card-3-6737910c-31e7-4bb9-aaed-84aba25d5eb1
+    _key: card-3-ee51ae11-243d-4906-8206-3fe1ca44c5f6
   - order: 3
     body: |-
       ## Keeping the Faith
@@ -89,7 +89,7 @@ cards:
 
       NCAA Championship Game is  
       Monday night.
-    _key: card-4-9dad9d1b-91f7-4e4d-afb3-95e30430afde
+    _key: card-4-bfc88c5b-d554-4e7a-863d-de1e95e9db3d
   - order: 4
     body: >-
       Poking fun at a nun? Check out these new billboards in Michigan ahead of
@@ -97,7 +97,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-30-sister-jean/)
-    _key: card-10-578b40b0-5d2e-481a-956d-b34e21e474d7
+    _key: card-10-374204ae-b3c7-4377-ab0b-d8ec063cc025
 
 ---
 * A compilation of the media coverage of Sister Jean: [https://luc.edu/sisterjean/](https://luc.edu/sisterjean/)

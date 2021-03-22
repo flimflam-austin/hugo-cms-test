@@ -1,14 +1,14 @@
 ---
 title: 18.07.19 Facial Recognition
 slug: 20180719-18-07-19-facial-recognition
-_id: legacy-4e007f30-ea9e-4cd7-8a3c-607f90615ac6
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-d86aa64b-d1a8-40e1-a833-f08966198148
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-19-facial-recognition/
 _createdAt: '2018-07-19T11:55:54Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-19T11:55:54+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       FLIP: WHO'S WATCHING?
     citation: 'FLIP: WHO''S WATCHING?'
-    _key: card-1-24b1c131-9929-4196-b28f-92ad907bcabd
+    _key: card-1-952133f2-2a5e-46a3-942c-16b6ff527fc5
   - order: 1
     body: >-
       Surveillance in Society:  
@@ -49,7 +49,7 @@ cards:
 
       * In 2012, FTC suggested people should have option to opt-out, but
       **Congress never made it law.**
-    _key: card-2-0964f441-4baf-40ed-8cae-d2deaba2aeb5
+    _key: card-2-bb250fd7-06ba-4f62-b2dc-36cac8309047
   - order: 2
     body: >-
       ## MICROSOFT’S WARNING
@@ -67,7 +67,7 @@ cards:
         
         
       Brad Smith, Microsoft President
-    _key: card-3-54f6e891-a685-4db7-9857-a4a8f1863d73
+    _key: card-3-bf9e7c21-8292-4935-8835-d7865ba1f171
   - order: 3
     body: >-
       ## Why It Matters: Extremes
@@ -82,7 +82,7 @@ cards:
       * China is using it to give all 1.4B of its citizens a “trustworthy”
       score. Citizens with low scoresA **may not be allowed to travel or
       purchase**A **property.**
-    _key: card-4-7ae5c3e0-bf06-4737-8b73-bc119f988d84
+    _key: card-4-8255cfbe-09a8-4be9-bfe4-0e6bbb4997a8
   - order: 4
     body: >-
       Sure - Apple, Amazon, Facebook, Google & Microsoft are working on facial
@@ -92,7 +92,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-19-facial-recognition/)
-    _key: card-10-a267b66d-7485-4c1e-a90e-d9a527668c6b
+    _key: card-10-f20097a5-f344-4338-96ea-3ff59cdc9bde
 
 ---
 * **MICROSOFT BLOG POST: Facial recognition technology: The need for public regulation and corporate responsibility:**  

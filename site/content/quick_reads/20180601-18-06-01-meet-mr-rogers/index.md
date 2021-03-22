@@ -1,14 +1,14 @@
 ---
 title: 18.06.01 Meet Mr. Rogers
 slug: 20180601-18-06-01-meet-mr-rogers
-_id: legacy-ca3c0cac-c748-44ea-bd46-5d7b3a21d07a
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-23692d9c-3b93-4d86-a99a-595506f6fb8a
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-01-meet-mr-rogers/
 _createdAt: '2018-06-01T10:45:13Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-01T10:45:13+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       Flip: the true story
     citation: 'Flip: the true story'
-    _key: card-1-3addd21b-cbde-4335-aa68-f81346b3a685
+    _key: card-1-fcbd9d0e-ef7f-48bf-b450-d595141bb3b3
   - order: 1
     body: >-
       ## Yes, He Was THAT Nice.
@@ -50,7 +50,7 @@ cards:
       children.
 
       * Rogers responded to every fan letter – over 1 million of them.
-    _key: card-2-a5eaaef3-417f-4abf-a6ac-bbdf15745ada
+    _key: card-2-c6b095fc-8aea-4c73-a522-96c71838afb4
   - order: 2
     body: >-
       ## He Worked Tirelessly.
@@ -67,7 +67,7 @@ cards:
 
       * He wrote scripts, songs, created the characters & puppet voices – all of
       which were some facet of his personality.
-    _key: card-3-220c923c-c636-4e62-9814-ec1490a10661
+    _key: card-3-dbedbaf5-dc74-409f-a5e1-5e9cca1df3aa
   - order: 3
     body: >-
       ## He Was Really Very Funny.
@@ -82,7 +82,7 @@ cards:
       * Loved to get a laugh telling jokes or talking in puppet voices at home.
 
       * Monty Python fan.
-    _key: card-4-5f12d214-6b3d-4c39-9d9b-5da32c9aa706
+    _key: card-4-47fa3e49-bf36-40e2-8d22-009b9ac34153
   - order: 4
     body: >-
       ## The Cardigan Was Special
@@ -103,7 +103,7 @@ cards:
 
       [Watch him tell you.](https://vimeo.com/88089113)
     citation: Watch him tell you.
-    _key: card-5-05359c35-df00-43c8-9783-ff7a07850a0b
+    _key: card-5-0988c8ae-aacf-4d07-acb2-56981147343e
   - order: 5
     body: >-
       The documentary "Won't You Be My Neighbor?" isn't the only upcoming movie
@@ -112,7 +112,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-01-meet-mr-rogers/)
-    _key: card-10-bc65f3a2-da7e-4ac8-ba3c-296942b89f61
+    _key: card-10-ea52e491-d175-4277-959d-91eafac5bed9
 
 ---
 * **WATCH: “Won’t you be my neighbor?” Trailer:A**  

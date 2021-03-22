@@ -1,25 +1,23 @@
 ---
 title: 'Video Interview: Rage Against the Machine?'
 slug: 20210129-video-interview-rage-against-the-machine
-_id: legacy-ba78fc1c-88e4-47cc-9f15-69499b1d0cb3
-_rev: XOnQP8cIThhnw9BWFxY3xh
+_id: legacy-665a60dc-0613-4326-bae5-0a08d01c4a45
+_rev: O8E8pz1fLwnc3fN7JVF8RC
 type: video_posts
 draft: false
 aliases:
   - article/video-interview-rage-against-the-machine/
 _createdAt: '2021-01-29T22:34:08Z'
-_updatedAt: '2021-03-16T13:06:02Z'
-date: '2021-01-29T22:34:08.000Z'
+_updatedAt: '2021-03-22T13:12:00Z'
+date: '2021-01-29T22:34:08+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
 video_series: Spotlight
 
 ---
-[Click here](https://www.instagram.com/tv/CKoq59pFmZE/) learn more on instagram.
+{{< instapost id=\CKoq59pFmZE\ >}}
 
 Also view on YouTube:
 
-{{< youtube dbWlJHRIDNM >}}ttps://www.instagram.com/tv/CKoq59pFmZE/) learn more on instagram.
-
-Also view on YouTube:
-
-{{< youtube dbWlJHRIDNM >}}
+{{< youtube id=\dbWlJHRIDNM\ title=\SHN-Interview with Guy Adami\ >}}

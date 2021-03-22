@@ -1,14 +1,14 @@
 ---
 title: 18.07.06 Iran
 slug: 20180706-18-07-06-iran
-_id: legacy-503d362a-464c-48bd-8b21-180e34f4c8ab
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-a2af7c57-f694-483a-acd9-6963a71070d1
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-06-iran/
 _createdAt: '2018-07-06T04:00:20Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-06T04:00:20+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       What's Going On
     citation: What's Going On
-    _key: card-1-c503c301-fee8-4eae-b934-129adc9ef4c1
+    _key: card-1-64350a0b-0b4b-436d-b4a4-2343a4f341d2
   - order: 1
     body: >-
       ## FRIDAY MEETING
@@ -46,7 +46,7 @@ cards:
 
       * Why meet now? Irans wants access to intl banking system & business.
       Others want business w/Iran & no nuclear program.
-    _key: card-2-d7e7af60-d2a0-42d2-ad9d-05e66eee3d01
+    _key: card-2-90489a47-e209-4f92-9dee-692277edfb35
   - order: 2
     body: >-
       ## What’s Important To Know
@@ -60,7 +60,7 @@ cards:
 
       * Water scarcity an issue as a major drought continues; one Iranian
       general blamed “foreign interference” for lack of rain.
-    _key: card-3-3ec1e4a9-f4e6-424b-890c-b8e628867c5f
+    _key: card-3-168149d7-4f7f-4693-af2f-9d3a5f5ee605
   - order: 3
     body: >-
       ## In The Meantime…
@@ -76,7 +76,7 @@ cards:
 
       * Iranian diplomat who works in Vienna arrested in Germany; **Iran says
       not involved**.
-    _key: card-4-8568f2a9-c25f-43d4-bd5b-393acae32404
+    _key: card-4-a43eba5c-b368-4bf7-81fc-b711149997c5
   - order: 4
     body: >-
       As tensions rise, Iran threatens to close a strategic waterway; the U.S.
@@ -86,7 +86,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-06-iran/)
-    _key: card-10-d544fe1c-2213-433e-a631-43113ef76fb8
+    _key: card-10-2cd2d9f0-0aca-4e99-aa9a-d2fab677c4dd
 
 ---
 * **Struggling to save nuclear deal, Iran and world powers meet**A [https://www.reuters.com/article/us-iran-nuclear-talks/struggling-to-save-nuclear-deal-iran-and-world-powers-meet-idUSKBN1JW0BQ](https://www.reuters.com/article/us-iran-nuclear-talks/struggling-to-save-nuclear-deal-iran-and-world-powers-meet-idUSKBN1JW0BQ)

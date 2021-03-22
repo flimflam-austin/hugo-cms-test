@@ -1,14 +1,14 @@
 ---
 title: 18.04.09 Coffee & Cancer
 slug: 20180409-18-04-09-coffee-cancer
-_id: legacy-5d40dfe7-ecaa-46d0-9b38-73f67e956c6c
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-d711c4be-01f2-4996-a3ab-6db9e4b12431
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-09-coffee-cancer/
 _createdAt: '2018-04-09T10:30:14Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-09T10:30:14+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Why? Flip Here
     citation: Why? Flip Here
-    _key: card-1-50c873b1-045c-480c-96cc-7c0a2866bc9b
+    _key: card-1-3b19337f-6429-4973-bcd4-880c5703ba32
   - order: 1
     body: >-
       ## All About Acrylamide:
@@ -50,7 +50,7 @@ cards:
 
       * Found in foods like **fries**, potato chips, crackers, cookies, cereals,
       canned black olives, & **coffee**.
-    _key: card-2-942c806b-aabd-43a3-b8ed-05d8e3164adf
+    _key: card-2-663e6c97-4d8b-4701-9ea2-66d92896b17a
   - order: 2
     body: >-
       ## Does Coffee Cause Cancer?
@@ -62,7 +62,7 @@ cards:
 
       In 2016, the WHO’s cancer unitA moved coffee off the ‘possible carcinogen’
       list, but says evidence is insufficient to rule out any possible role.
-    _key: card-3-a977ac14-8d7f-4199-b534-ccdb5ddf7927
+    _key: card-3-8fc5cc18-2071-457e-b9dc-093cc7033cb3
   - order: 3
     body: >-
       # Why Is CA Different?
@@ -79,7 +79,7 @@ cards:
 
       * All potato chips sold in CA have a warning on their packaging because of
       Prop 65.
-    _key: card-4-8588ea37-5226-45ec-ad63-5ba44dd139a7
+    _key: card-4-1da6e2df-be10-4667-b7cb-e8d4382548ec
   - order: 4
     body: >-
       Starbucks and other coffee purveyors says the level of the acrylamide
@@ -89,7 +89,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-09-coffee-cancer/)
-    _key: card-10-408b41d9-7191-491c-8cb3-65d37fd5466c
+    _key: card-10-50904604-0144-4fd0-b201-af9823d73fc8
 
 ---
 * A cancer warning on coffee? Why people are freaking over this California decision: [www.nj.com/news/index.ssf/2018/04/coffee_cup_cancer_warning_ label_california_judge_r.html](http://www.nj.com/news/index.ssf/2018/04/coffee_cup_cancer_warning_)

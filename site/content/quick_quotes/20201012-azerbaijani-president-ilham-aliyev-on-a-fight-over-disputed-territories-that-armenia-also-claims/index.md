@@ -4,28 +4,26 @@ title: >-
   Armenia Also Claims.
 slug: >-
   20201012-azerbaijani-president-ilham-aliyev-on-a-fight-over-disputed-territories-that-armenia-also-claims
-_id: legacy-f9c8741f-8516-4508-b1f4-bb2e7a86c946
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-14b9d1f6-ae85-418f-a6cd-bee47eac20cc
+_rev: ZEyhBiGfgCfwE8WOjbuSlO
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/azerbaijani-president-ilham-aliyev-on-a-fight-over-disputed-territories-that-armenia-also-claims/
 _createdAt: '2020-10-12T15:51:30Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-10-12T15:51:30+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    fbeb237f1da74c40c22bbb824aca4ef890669b93-2560x1707.jpg
 is_breaking: false
-summary: >-
-  Azerbaijani president, Ilham Aliyev, on a fight over disputed territories that
-  Armenia also claims.
 featured_quote:
   quote: >-
     We are winning and will get our territory back and ensure our territorial
     integrity. Let them abandon our territory in peace.
-  citation: >-
-    Azerbaijani president, Ilham Aliyev, on a fight over disputed territories
-    that Armenia also claims.
 
 ---
 * Fighting began on September 27th – The exact source that led to the eruption of hostilities also remains disputed.
@@ -37,4 +35,4 @@ Here’s a good backgrounder on the conflict: [Eruption of Conflict Over Nagorno
 
 Here’s a good editorial on the stakes: [Armenia, Azerbaijan Trade Accusations of Shelling Despite Truce](https://www.wsj.com/articles/armenia-azerbaijan-trade-accusations-of-shelling-despite-truce-11602427364)
 
-The most recent news as of October 12th with good context: ​[Why Is Conflict Erupting Again Between Armenia and Azerbaijan?](https://www.nytimes.com/article/armenian-azerbaijan-conflict.html) Erupting Again Between Armenia and Azerbaijan?](https://www.nytimes.com/article/armenian-azerbaijan-conflict.html)
+The most recent news as of October 12th with good context: ​[Why Is Conflict Erupting Again Between Armenia and Azerbaijan?](https://www.nytimes.com/article/armenian-azerbaijan-conflict.html)

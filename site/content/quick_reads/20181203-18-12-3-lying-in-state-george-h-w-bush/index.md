@@ -1,14 +1,14 @@
 ---
 title: 'Lying in State: George h.w. Bush'
 slug: 20181203-18-12-3-lying-in-state-george-h-w-bush
-_id: legacy-79f89359-9510-454c-8378-91c3a58b8416
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-d5b31823-ffb6-4fef-b9e2-dc2c2c778d8b
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 18-12-3-lying-in-state-george-h-w-bush/
 _createdAt: '2018-12-03T13:04:27Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-12-03T13:04:27+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Why It Matters
     citation: Why It Matters
-    _key: card-1-a2a61cc7-36f8-4830-8560-d7f93a904e7f
+    _key: card-1-e563298a-267d-4dcd-a48e-935b168fd514
   - order: 1
     body: >-
       ## Why We Do It:
@@ -44,7 +44,7 @@ cards:
       * Previously, 11 U.S Presidents have lain in state: Presidents Ford,
       Reagan, Johnson, Eisenhower, Hoover, Kennedy, Taft, Harding, McKinley,
       Garfield, & Lincoln
-    _key: card-2-647fe9d0-859b-4bf1-894e-976324469b4f
+    _key: card-2-d7a7e8be-1127-4a82-9226-b88b4d35ead2
   - order: 2
     body: >-
       ## Pres. Lincoln’s “Support”
@@ -58,7 +58,7 @@ cards:
       * The catafalque has had minor restorations since 1865 (retrofitted to
       hold larger coffins, drapery replaced), but for the most part, it remains
       like the original.
-    _key: card-3-47d2e5b3-01aa-49d3-991c-3e524e6a2b7b
+    _key: card-3-1d8700d8-546a-4b4e-9d00-4c896e0d9f81
   - order: 3
     body: >-
       ## Lie in \*State\* vs \*Honor\*
@@ -72,7 +72,7 @@ cards:
       * To date, only four Americans have “lain in honor” at the U.S. Capitol:
       Rev. Billy Graham, two police officers killed during an attack on the U.S.
       Capitol & Rosa Parks (only woman to lie in state or honor).
-    _key: card-4-33e93baf-6f62-498b-8101-5d68022360ac
+    _key: card-4-af82fde1-8b66-4e69-8c29-1e8f9d2a3697
   - order: 4
     body: >-
       > “It is with great sadness that we mark the passing of one of America’s
@@ -83,7 +83,7 @@ cards:
       President Trump declared Dec. 5, the day of Pres. H.W. Bush's Washington
       D.C. funeral, a national day of mourning and ordered flags flown
       half-staff for 30 days from his day of passing.
-    _key: card-5-36a3c247-4455-49fb-be33-310fdfdd4bb7
+    _key: card-5-a1f617b4-9a0e-481e-8af2-09e251d30ef8
   - order: 5
     body: >-
       President H.W. Bush will lie in state from Monday night until his
@@ -94,7 +94,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-12-3-lying-in-state-george-h-w-bush/)
-    _key: card-10-e0a59477-e077-4e3c-95b2-7f8ce2f50e7f
+    _key: card-10-a1a948c6-bf41-4cfb-b100-beb5e0f50706
 
 ---
 * **George H.W. Bush To Lie In State At The Capitol And Be Buried In Texas:**  

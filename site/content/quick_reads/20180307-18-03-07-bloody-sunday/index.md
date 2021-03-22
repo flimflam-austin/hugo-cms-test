@@ -1,14 +1,14 @@
 ---
 title: 18.03.07 Bloody Sunday
 slug: 20180307-18-03-07-bloody-sunday
-_id: legacy-2d28701f-1f47-4734-93ef-2aae4e812dfa
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-abb6afa8-2a2c-49f9-ad06-274a23ba6eaf
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-07-bloody-sunday/
 _createdAt: '2018-03-07T12:20:58Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-07T12:20:58+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       TAP HERE FOR MORE
     citation: TAP HERE FOR MORE
-    _key: card-1-2bb86930-30dc-49b2-af3f-414b04527c34
+    _key: card-1-935304ca-47b8-4356-9658-90cb885f29ec
   - order: 1
     body: >-
       ## Why Did This Happen?
@@ -46,7 +46,7 @@ cards:
 
       * Yet, many states passed laws and employed practices to get around the
       15th Amendment, like poll taxes, literacy exams, fraud, & intimidation.
-    _key: card-2-ef5d9cc2-5c9f-4541-9499-9e79df6305b3
+    _key: card-2-964608cb-014c-40eb-a7f4-6ac4653be826
   - order: 2
     body: >-
       ## “Bloody Sunday”
@@ -61,7 +61,7 @@ cards:
       the bridge.
 
       * Three weeks later, 3,000+ set out for Montgomery;A 25,000 arrived.
-    _key: card-3-fef89410-0239-40ce-88c3-e02d6b115ee0
+    _key: card-3-036c5019-d23d-43a9-9b8b-c65c1bcbab6a
   - order: 3
     body: >-
       ## Rep. John Lewis (D-Ga.) shared his “Bloody Sunday” memories with TIME
@@ -75,7 +75,7 @@ cards:
 
       FLIP TO CONTINUE
     citation: FLIP TO CONTINUE
-    _key: card-4-9b4e1ae9-97f0-41f8-8e51-2ef5637a3a9e
+    _key: card-4-ff7c3e1c-2059-4821-86b5-20f7e289be59
   - order: 4
     body: >-
       ## Rep. John Lewis (D-Ga.) shared his “Bloody Sunday” memories with TIME
@@ -90,7 +90,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/DRwnXUbJdfg?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-5-1ea05777-e929-4219-883b-30c4235b68b1
+    _key: card-5-2b202023-d25d-45e8-a279-c24ae5b60b19
   - order: 5
     body: >-
       ## A week later, Pres. Lyndon Johnson told Congress:
@@ -105,7 +105,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/5NvPhiuGZ6I?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-6-0f76977c-38ae-4c5a-8156-8fc94574a20f
+    _key: card-6-17dee8ed-cd05-46cd-a621-c88bbca77e9e
   - order: 6
     body: >-
       ## Five months later, Congress passed the Voting Rights Act
@@ -118,7 +118,7 @@ cards:
 
       By 1969, the percent of voting-age African Americans registered to vote
       nearly tripled.
-    _key: card-7-1b79c7f4-a081-4f87-a60f-e8e68a337c4d
+    _key: card-7-a6af8699-148a-4a05-88ab-f66ebcfa5a48
   - order: 7
     body: >-
       To commemorate the 50th Anniversary of Bloody Sunday in 2015, Pres. Barack
@@ -127,7 +127,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-07-bloody-sunday/)
-    _key: card-10-a4d5d22e-f632-4e04-b02f-1e2fa365acfb
+    _key: card-10-eea6479a-36a7-4559-8e72-f1bc9efc6d1f
 
 ---
 * John Lewis – March from Selma to Montgomery, “Bloody Sunday,” 1965: [https://www.archives.gov/exhibits/eyewitness/html.php?section=2](https://www.archives.gov/exhibits/eyewitness/html.php?section=2)

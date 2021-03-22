@@ -1,14 +1,14 @@
 ---
 title: Coffee Talk
 slug: 20181130-coffee-talk-2
-_id: legacy-eb8b07b5-f5a4-4a72-864d-08f8c94da410
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-aa2e492e-8bcd-4ee2-9a5e-566c04ddb5a7
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - coffee-talk-2/
 _createdAt: '2018-11-30T13:55:52Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-11-30T13:55:52+00:00'
 weight: 50
 featured_image:
@@ -26,12 +26,10 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/8AEL1J1WMoI?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-3335d1ad-997c-4206-b220-4e5e8527f93d
+    _key: card-1-0b7d48f0-50ec-4681-a65a-5127a2a6d160
   - order: 1
     body: '[view sources](https://smarthernews.com/coffee-talk-2/)'
-    _key: card-10-7c744e63-63a0-4c4f-b05c-8195dae94403
+    _key: card-10-4a52212c-a19f-4390-b833-972665286a2a
 
 ---
-{{< youtube 8AEL1J1WMoI >}}
-
-{{< youtube 8AEL1J1WMoI >}}
+{{< youtube id=\8AEL1J1WMoI\ title=\SmarHER News-Coffee Talk-11/30/18\ >}}

@@ -1,14 +1,14 @@
 ---
 title: 18.06.06 Quick Quotes
 slug: 20190905-18-06-06-quick-quotes
-_id: legacy-4dc73f14-2f01-4440-a39f-d15f0958f83e
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-0898389c-d086-45f4-9637-839cae923855
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-06-quick-quotes/
 _createdAt: '2018-06-06T10:32:01Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-06-06T10:32:01+00:00'
 weight: 50
 card_series: Quotes
@@ -26,7 +26,7 @@ cards:
       week. Rodman, an NBA Hall of Famer, has visited North Korea 5 times since
       2013 & has ties with Pres. Trump, appearing on his Celebrity Apprentice
       show twice.
-    _key: card-1-52d28f7e-e03c-4041-b6f0-7c7864e85002
+    _key: card-1-2f895b3f-a4db-480d-861f-c638a110af6f
   - order: 1
     body: >-
       > “Due to the historic obstruction by Senate Democrats of the President’s
@@ -40,7 +40,7 @@ cards:
       their states just 2 months before the midterm elections. Democrats are
       particularly vulnerable with far more incumbents seeking re-election this
       yr.
-    _key: card-2-1f70de09-002c-4bd2-a8f3-1e1ae9b6c7e0
+    _key: card-2-04602b77-b5c4-4b88-91b4-c0c1a2ca61fc
   - order: 2
     body: >-
       > ‘It’s important that consumers and contractors understand that improper
@@ -53,13 +53,13 @@ cards:
       Upper' stars Chip & Joanna Gaines over lead-based paint violations in more
       than 30 renovated homes. The Magnolia Homes owners will pay a $40K fine,
       cost of lead abatement & release a video about lead-based paint dangers.
-    _key: card-3-4edb6d07-5cde-4687-914b-9ab3c026b714
+    _key: card-3-54c4c634-a3bd-47d8-be1b-0b485b718d5d
   - order: 3
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-06-06-quick-quotes/)
-    _key: card-10-aa75b7ee-4d96-4d96-8300-0c8123a1b7ae
+    _key: card-10-e65f9bf0-61ab-474a-b2e0-d24db3685afd
 
 ---
 * **NYP: Dennis Rodman will be in Singapore for Trump-KimA summit:**  

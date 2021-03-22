@@ -1,14 +1,14 @@
 ---
 title: 'Quote of the Day: Janet Jackson on Beauty'
 slug: 20180905-18-09-05-qtd-janet-jackson
-_id: legacy-def3a168-fbf7-4a10-b421-844fdeda68c2
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-4fb32fee-53db-4a02-aaea-629396d63841
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-09-05-qtd-janet-jackson/
 _createdAt: '2018-09-05T18:07:42Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-09-05T18:07:42+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       JANET JACKSON
     citation: JANET JACKSON
-    _key: card-1-51547f88-d1d1-4cfb-be1a-2408952ad2a8
+    _key: card-1-543f44b3-2e40-41cd-95a1-684842a6ca0a
   - order: 1
     body: >-
       Janet Jackson will grace the cover of InStyle's October beauty issue. In
@@ -36,7 +36,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-05-qtd-janet-jackson/)
-    _key: card-10-d7eab64f-22b9-4f2d-a25a-eb590eefad69
+    _key: card-10-45a5400a-9867-4ddf-a4c3-de9faf0f160b
 
 ---
 **Beauty According to Janet Jackson:** [https://www.instyle.com/news/janet-jackson-october-cover](https://www.instyle.com/news/janet-jackson-october-cover)

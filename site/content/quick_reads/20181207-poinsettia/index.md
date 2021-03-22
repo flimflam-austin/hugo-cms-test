@@ -1,14 +1,14 @@
 ---
 title: The Christmas Flower
 slug: 20181207-poinsettia
-_id: legacy-23fca21f-7673-4269-a421-b744b93857a1
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-211c6620-88a1-4059-97cd-c20e81ee86f8
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - poinsettia/
 _createdAt: '2018-12-07T13:02:47Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-12-07T13:02:47+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       Feliz NAVIDAD!
     citation: Feliz NAVIDAD!
-    _key: card-1-d180fcd7-5984-49ea-8d99-81a1636b48df
+    _key: card-1-8d954d72-498a-4c82-b127-aeec70598790
   - order: 1
     body: >-
       # HISTORY
@@ -47,7 +47,7 @@ cards:
       Introduced to America in the 1820s by – and named for – the **first U.S.
       Ambassador to Mexico** & botanistA **Joel Roberts Poinsett**. He also
       cultivated it into the smaller plant we know now.
-    _key: card-2-54b0a061-309c-40b4-a704-5964a3d8971a
+    _key: card-2-796acb6e-6eae-44fe-b870-1f2c998c53ca
   - order: 2
     body: >-
       # POISONOUS LEAVES?
@@ -61,7 +61,7 @@ cards:
 
       * Researchers say the taste would be awful, but advise **keeping it away
       from pets** because it may cause vomiting & diarrhea.
-    _key: card-3-6c358993-fd1e-4e4b-ac1b-1e40a5ac7af4
+    _key: card-3-1f5c1e26-0008-4e4a-bf7f-e51ad9c69f16
   - order: 3
     body: >-
       # HOW DO YOU SAY IT?
@@ -78,7 +78,7 @@ cards:
       But since it was named after a person, Poinsett, English scholars believe
       the added **“ia” should be pronounced** (Poin-set-ee-ah) & it should
       always be **capitalized**.
-    _key: card-4-84997fa1-88a0-435b-8f48-0ef1b68e202e
+    _key: card-4-a4ea37f9-53f7-4a5d-9ed1-4ef6e5190020
   - order: 4
     body: >-
       Blooming only once around Christmas, the Poinsettia is America's 2nd most
@@ -88,7 +88,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/poinsettia/)
-    _key: card-10-5258ae26-ca1d-4120-9377-ac7170c0b091
+    _key: card-10-d5ede86d-341f-4148-ae96-1e37324d0514
 
 ---
 * **The season of Poinsettias (From 2016):**  

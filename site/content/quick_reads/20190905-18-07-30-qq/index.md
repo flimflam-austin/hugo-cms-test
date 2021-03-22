@@ -1,14 +1,14 @@
 ---
 title: 18.07.30 Qq
 slug: 20190905-18-07-30-qq
-_id: legacy-5b4716e5-94dc-4dba-9c38-c63bca00c3e9
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-45498bb0-fc39-410d-bf10-156d939f5be1
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-07-30-qq/
 _createdAt: '2018-07-30T11:53:33Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-07-30T11:53:33+00:00'
 weight: 50
 featured_image:
@@ -29,10 +29,10 @@ cards:
       business spending and a surge in exports ahead of tariffs helped drive
       America's best quarter of growth in nearly 4 years. The first of 3
       readings, this number may be further revised.
-    _key: card-1-19347750-3bf2-4cd1-9ee5-3e4a6a568f96
+    _key: card-1-42d91ae8-7bd3-4841-8659-2d876da86729
   - order: 1
     body: "> “The whole city is in flames, and the stuff is falling out of the sky. I want to call it a\x18Silent Night,’ but that’s not it. This is spooky.”  \n  \n  \n  \nChristine Shields on a raging wildfire near Redding, California and how the scene reminded her of a horror or science fiction film. Her mother died in the blaze. More than a dozen wildfires are burning in California, prompting the President to sign an emergency declaration for federal help."
-    _key: card-2-d03b1320-5e97-4d40-af7f-51da5ca9dc80
+    _key: card-2-90041ced-5710-4468-94ae-e8121886beea
   - order: 2
     body: >-
       > ‘The Hollywood Walk of Fame is an institution celebrating the positive
@@ -45,7 +45,7 @@ cards:
       Leron Gubler, President/CEO of the Hollywood Chamber of Commerce, on the
       chamber's decision to repair (not remove) the star honoring Donald Trump
       despite it being repeatedly vandalized and a site of violent protest.
-    _key: card-3-8d77c6f8-09e8-4f1f-9483-e0af9c5bea5b
+    _key: card-3-3e51f400-7dba-4782-8246-8e5bdd4639d8
   - order: 3
     body: >-
       > “My senior colleague, Justice John Paul Stevens, he stepped down when he
@@ -56,7 +56,7 @@ cards:
       Supreme Court Justice Ruth Bader Ginsburg (85) on her hopes to remain on
       the court for years to come. In 1993, Ginsburg was appointed to the court
       by President Clinton.
-    _key: card-4-e4f2c00a-cfb4-48da-9880-daba4a27ef52
+    _key: card-4-016894fb-443d-4416-923a-0c48081c7a7c
   - order: 4
     body: >-
       > “Our mission is to bring happiness.”  
@@ -72,7 +72,7 @@ cards:
       [Watch his
       story](https://mobile.reuters.com/video/2018/07/24/down-syndrome-doesnt-hold-back-4-million?videoId=448549169&videoChannel=4)
     citation: Watch his story
-    _key: card-5-ab4bce95-14ad-4eb4-b47d-3ad3ee70e2f5
+    _key: card-5-e9595dcc-1ddf-4a0b-93ed-8abb91b3742c
   - order: 5
     body: >-
       Want us to look into a news story or two? Leave a comment on our Instagram
@@ -81,7 +81,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-30-qq/)
-    _key: card-10-ae5d733c-ddaa-4b52-81bb-0cd9faa6d4eb
+    _key: card-10-23894624-245e-411e-ba57-6c89092d8a91
 
 ---
 * **Trump triumphant: ‘We’re going to go a lot higher’ than 4.1% GDP growth:**  

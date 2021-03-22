@@ -1,14 +1,14 @@
 ---
 title: 'Entertainment History: What Is an Egot?'
 slug: 20180910-egot
-_id: legacy-d781a509-8553-4614-9864-46055d03ddff
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-21e7167b-45ef-45fc-8307-57e8c31c65b9
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - egot/
 _createdAt: '2018-09-10T12:00:19Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-09-10T12:00:19+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       Only 15 people in history have done it…  
 
       **3 of them did so last night.**
-    _key: card-1-4b5921dd-2e7b-4240-81ec-a34ec0e23ef1
+    _key: card-1-9a639b99-8829-4b7f-bba5-39ce1c6132ca
   - order: 1
     body: >-
       ## Entertainment History
@@ -45,7 +45,7 @@ cards:
 
       Legend has won 10 Grammys, an Oscar for his song in _Selma &A aA_ Tony for
       co-producing _Jitney_.
-    _key: card-2-deb0521f-7960-4b45-9fc4-8adb2fc0e5d6
+    _key: card-2-7e2646da-cf4a-4db1-9099-d5b69f6871a0
   - order: 2
     body: >-
       ## A “Miami Vice” Connection
@@ -60,7 +60,7 @@ cards:
 
       That was back in 1984. He has not won any of the awards – or been
       nominated.
-    _key: card-3-7909b680-d9f2-40e3-9bae-c0d6a0aa2a34
+    _key: card-3-09dc4bc2-671f-46b3-82a0-463b4b5ff9a2
   - order: 3
     body: >-
       ## Who’s Got an EGOT?
@@ -75,7 +75,7 @@ cards:
       * **Audrey Hepburn:**A Only posthumous EGOT.
 
       * **Whoopi Goldberg:A** 1st Black EGOT.
-    _key: card-4-d3de718d-8b52-4de9-8666-90167bdaa455
+    _key: card-4-ff235bf3-1d18-4b11-9083-9f99f2be2c2b
   - order: 4
     body: >-
       There are 5 others with "unofficial" EGOT status: those who won thanks to
@@ -84,7 +84,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/egot/)
-    _key: card-10-806d10f7-a8f1-47d1-aad1-7b0dfcdf8fee
+    _key: card-10-53ec6d12-4425-41c0-91d3-95522211a192
 
 ---
 * **John Legend Becomes an EGOT as He Wins Emmy for Jesus Christ Superstar:**  

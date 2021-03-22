@@ -1,14 +1,14 @@
 ---
 title: 18.05.30 Uac
 slug: 20180530-18-05-30-uac
-_id: legacy-2a35af30-2fea-42de-abee-faad4427b81a
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-1c450e9e-ba5a-4a29-80c4-70dd60f2db1b
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-30-uac/
 _createdAt: '2018-05-30T12:46:19Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-05-30T12:46:19+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       FLIP HERE FOR THE FACTS
     citation: FLIP HERE FOR THE FACTS
-    _key: card-1-9c54decc-da9a-429e-9019-23d80e48f924
+    _key: card-1-889ec81d-aa49-468e-a9c4-232fd708e22a
   - order: 1
     body: >-
       ## The 1,475 “immigrant children” are Unaccompanied Alien Children (UAC)
@@ -38,7 +38,7 @@ cards:
 
       UAC (by definition) do NOT arrive with a parent or legal guardian.A
       **Since 2012, more than 200,000 UAC have arrived in the U.S.**
-    _key: card-2-655dfe8d-6e00-4b28-969f-bc2655f93821
+    _key: card-2-d321e086-b3e9-429b-9d4d-3da03fb61f82
   - order: 2
     body: >-
       ## UAC 101
@@ -53,7 +53,7 @@ cards:
       * The sponsors are usually their parents or close family members.
 
       * ORR periodically checks in to monitor their safety & well-being.
-    _key: card-3-e9e43521-6bb6-4bee-a3b5-77a376adff37
+    _key: card-3-9064da59-08ce-4bc4-b59f-7bd72520c8e3
   - order: 3
     body: >-
       In April, aA Dept. of Health & Human Services (HHS) official testified to
@@ -65,10 +65,10 @@ cards:
 
       * 86% participated in safety & well-being calls, but “**ORR was unable to
       determine with certainty the whereabouts of 1,475 UAC**.”
-    _key: card-4-29483ce7-ecc7-424f-b6a8-d26ee69d8c9e
+    _key: card-4-027ef98f-7d08-4538-b93c-7b5e1013316b
   - order: 4
     body: "> “**The assertion that unaccompanied alien children (UAC) are a\x18lost’ is completely false**. … These children are not a\x18lost’; their sponsors a\x14 who … in all cases have been vetted for criminality and ability to provide for thema\x14 simply did not respond or could not be reached when this voluntary call was made.”  \n  \n  \n  \nHHS Deputy Secretary Eric Hargan, May 28 statement"
-    _key: card-5-3f0fa99a-5baf-4f47-b144-ea2b08c03b2b
+    _key: card-5-4a6bafe4-ef82-43f8-adbc-8b5968035cfa
   - order: 5
     body: >-
       UAC are NOT separated from their parents at the border, but many other
@@ -76,7 +76,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-30-uac/)
-    _key: card-10-ef5a12b4-78fc-42f3-9d57-534117dd5ba7
+    _key: card-10-df077ecf-718d-4ba4-bd99-4d224ae1a534
 
 ---
 * **Unaccompanied Alien Children Program:** [https://www.acf.hhs.gov/orr/programs/ucs](https://www.acf.hhs.gov/orr/programs/ucs)

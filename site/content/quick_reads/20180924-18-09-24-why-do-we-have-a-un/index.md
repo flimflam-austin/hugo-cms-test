@@ -1,14 +1,14 @@
 ---
 title: Why Do We Have a Un?
 slug: 20180924-18-09-24-why-do-we-have-a-un
-_id: legacy-5a16f450-fbc2-4ba4-abcc-568abc176840
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-d00a0492-b21a-4470-b367-b3c19d3a9d65
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-24-why-do-we-have-a-un/
 _createdAt: '2018-09-24T12:00:17Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-24T12:00:17+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       BTW You Pay For It...
     citation: BTW You Pay For It...
-    _key: card-1-fefc2125-1399-4275-b478-9dac90e90cf2
+    _key: card-1-824d19a8-b371-4bd5-8a82-1b0367b7aa60
   - order: 1
     body: >-
       > “WE THE PEOPLES OF THE UNITED NATIONS DETERMINED  
@@ -50,7 +50,7 @@ cards:
       The UN's founding Charter signed in 1945. Pres. Roosevelt believed an
       international body would help prevent future world wars; Congress agreed &
       approved America's membership.
-    _key: card-2-e35861a4-4a06-436f-8c7a-10f93d60cd7f
+    _key: card-2-f9b8c2fe-885f-4266-a566-51832d102b34
   - order: 2
     body: >-
       ## General Assembly: General Debate
@@ -64,7 +64,7 @@ cards:
       * In reality, very little substantial decisions happen during this time,
       BUT it allows for informal conversations between leaders that can have a
       lasting impact.
-    _key: card-3-359e8ef7-0671-4c38-b203-6663dbc4d0f2
+    _key: card-3-62cd5435-156b-439b-91cf-5ae62855c742
   - order: 3
     body: >-
       ## What To Watch For:
@@ -78,7 +78,7 @@ cards:
 
       * Pres. Trump will chair UN Security Council meeting Wednesday. Topic of
       discussion? Non-proliferation of nuclear weapons.
-    _key: card-4-c5f956d1-15a2-4ff2-94ea-1c704e046b31
+    _key: card-4-edfd3e5f-1866-4f64-a0f0-a1d8dfe3865c
   - order: 4
     body: >-
       ## Something To Consider:
@@ -92,7 +92,7 @@ cards:
       * Critics say the UN doesn’t achieve its goal aimed at bringing world
       peace and actually works against America’s interests; Gallup poll =
       majority of Americans agree the UN is not helping solve problems.
-    _key: card-5-e89185c8-e644-4ba0-86e1-d0e0e3ea6533
+    _key: card-5-9ab83ef6-c196-4fb1-b268-14722d5691fd
   - order: 5
     body: >-
       On Tuesday, Pres. Trump and the First Lady will host a cocktail party for
@@ -102,7 +102,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-24-why-do-we-have-a-un/)
-    _key: card-10-9ec7061f-411b-4500-acd1-0f587344f904
+    _key: card-10-f6f8d63f-8d9f-4bbb-b1d8-e22ac44d872d
 
 ---
 * **What Happens at the UN General Assembly?**  

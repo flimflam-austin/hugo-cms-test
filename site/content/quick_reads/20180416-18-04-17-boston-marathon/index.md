@@ -1,14 +1,14 @@
 ---
 title: 18.04.17 Boston Marathon
 slug: 20180416-18-04-17-boston-marathon
-_id: legacy-048fec90-2d0b-42fc-bae4-c4b9f89a3af5
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-2548f95d-ce8b-4b54-9088-ddd4d2bf4694
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-17-boston-marathon/
 _createdAt: '2018-04-17T10:20:14Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-17T10:20:14+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/Em05ryjKyrI?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-90b6b711-306f-4332-a40e-95cc67aa7fe2
+    _key: card-1-72c32fc3-77fc-4c33-b9ed-5eed86c70714
   - order: 1
     body: >-
       ## Desiree (Desi) Linden
@@ -49,7 +49,7 @@ cards:
 
       FLIP: Why she almost dropped out mid-race
     citation: 'FLIP: Why she almost dropped out mid-race'
-    _key: card-2-63b00a57-a6a3-47d8-8b21-277b860e1f55
+    _key: card-2-aea19e13-49ed-4ed1-a050-d94776cb784c
   - order: 2
     body: >-
       ## Sportswomanship Pays Off
@@ -69,7 +69,7 @@ cards:
 
       FLIP FOR MORE
     citation: FLIP FOR MORE
-    _key: card-3-6f1acfd0-0946-4a7d-ae18-c4b95fe4f399
+    _key: card-3-47120839-6cd2-477e-8e3a-0dbff643aef2
   - order: 3
     body: >-
       ## Marathon Moments
@@ -85,7 +85,7 @@ cards:
 
       **5 years ago**A terrorists killed 3 people & wounded hundreds by
       detonating bombs along race route.
-    _key: card-4-ded234b9-14c5-4108-b121-d060ac43241a
+    _key: card-4-75132f11-e00f-4c5d-bb6f-56d3257f04fc
   - order: 4
     body: >-
       The last American woman to win the Boston Marathon was Lisa Rainsberger in
@@ -93,7 +93,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-17-boston-marathon/)
-    _key: card-10-d41a077c-6b93-48f3-88d7-733033c7b45e
+    _key: card-10-affd0f98-5a4e-418d-ac06-f42a1fead637
 
 ---
 * Desi Linden is first U.S. woman to win Boston Marathon sinceA 1985:  

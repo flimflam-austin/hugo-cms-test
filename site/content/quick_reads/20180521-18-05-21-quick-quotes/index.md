@@ -1,14 +1,14 @@
 ---
 title: 18.05.21 Quick Quotes
 slug: 20180521-18-05-21-quick-quotes
-_id: legacy-38b179ee-516c-4aab-9e5b-e2b0c3f7a8ba
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-da31b2d1-0feb-4d70-a5b6-1a251309ca18
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-21-quick-quotes/
 _createdAt: '2018-05-21T10:32:41Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-21T10:32:41+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
         
       Pres. Trump on Twitter Sunday after reports an FBI informant had talked to
       campaign advisers to solicit information for its Russia investigation.
-    _key: card-1-40dd3bd9-edb1-4e4d-9436-3a55514cadf7
+    _key: card-1-7804ff71-7fbd-4735-80ae-42256aa16629
   - order: 1
     body: >-
       > **“I’m not sure… How does one put it? Under the caption, Radio: The
@@ -48,7 +48,7 @@ cards:
       [Listen: You
       decide](https://twitter.com/CloeCouture/status/996218489831473152?tfw_creator=ForTheWin&tfw_site=forthewin&ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fftw.usatoday.com%2F2018%2F05%2Flaurel-or-yanny-audio-clip-video-twitter-crazy-what-poll-please-vote-help)
     citation: 'Listen: You decide'
-    _key: card-2-cc6e6bfd-abb0-46e1-bfc6-e55892ca8f70
+    _key: card-2-ee88f70b-86ee-4de5-a878-cf49cbfb96a9
   - order: 2
     body: >-
       > **“We’re putting the trade war on hold, so right now we have agreed to
@@ -59,7 +59,7 @@ cards:
         
       Treasury Secretary Steve Mnuchin on Fox News Sunday announcing the U.S.
       will pause $150B in proposed tariffs while negotiating with China.
-    _key: card-3-28f304c0-473d-48fa-a4ac-e49966a621a0
+    _key: card-3-8c4a1d97-c841-4c16-aa93-020fe5ecdba6
   - order: 3
     body: >-
       > **“We are committed to creating a culture of warmth and belonging where
@@ -71,7 +71,7 @@ cards:
       its cafes or use its restrooms, even if they don't buy anything. The move
       comes 5 weeks after 2 black men who hadn't bought anything were arrested
       at one of its Philadelphia locations.
-    _key: card-4-99ef9648-f133-471b-82f9-8561c7ab277d
+    _key: card-4-c46688d2-c8af-4594-a364-9ffaa60ae107
   - order: 4
     body: >-
       > **“A sweet, slightlyA musky, vanilla-like fragrance, with slight
@@ -88,13 +88,13 @@ cards:
       [CLICK: How does one trademark a
       smell?](https://mashable.com/2018/05/19/hasbro-play-doh-smell-trademark/)
     citation: 'CLICK: How does one trademark a smell?'
-    _key: card-5-4b67820f-f958-4e59-8627-82de43b61b51
+    _key: card-5-21c915d8-0bbf-4a4f-8bc0-8ba12cfdc896
   - order: 5
     body: |-
       Have a great day! Check out more at SmartHerNews.com
 
       [view sources](https://smarthernews.com/18-05-21-quick-quotes/)
-    _key: card-10-aba249f5-5e4e-4ef8-9bb9-0248bcd4c4a6
+    _key: card-10-e7c6e6b7-f363-4b22-b0f4-1da9fe82897a
 
 ---
 * **President Trump says he will demand Justice Department probe into FBI’s use of informant:A** [https://www.usatoday.com/story/news/politics/2018/05/20/president-trump-says-he-demand-justice-department-probe-into-fbi-informant/627162002/](https://www.usatoday.com/story/news/politics/2018/05/20/president-trump-says-he-demand-justice-department-probe-into-fbi-informant/627162002/)

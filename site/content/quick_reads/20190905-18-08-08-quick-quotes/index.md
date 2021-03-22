@@ -1,14 +1,14 @@
 ---
 title: 18.08.08 Quick Quotes
 slug: 20190905-18-08-08-quick-quotes
-_id: legacy-78c0528c-9a3f-458f-a250-75572ed50361
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-284fa308-f60e-40b7-80e9-1a6874851dbe
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-08-quick-quotes/
 _createdAt: '2018-08-08T11:58:42Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-08T11:58:42+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
         
       Lance Bass @Twitter, reacting to the sale of the former 'Brady Bunch' home
       to HGTV - Bass had bid on the house.
-    _key: card-1-5976fe65-af13-4c8c-b7c4-e84d5282cd42
+    _key: card-1-829c8f13-59cc-446e-97ef-7e1c38ff3d5e
   - order: 1
     body: >-
       > ‘Weather-wise, we are still seeing a lot of heat throughout California
@@ -41,7 +41,7 @@ cards:
       Jonathan Cox, Northern California battalion chief for the CA Department of
       Forestry and Fire Protection, or Cal Fire. 17 wildfires rage, including
       the largest fire in California history: the Mendocino Complex Fire.
-    _key: card-2-c1f1f00f-e030-4646-9c37-be571d0387a9
+    _key: card-2-55f1ed2b-f396-40ff-a5ce-d9772ca559c0
   - order: 2
     body: >-
       > ‘The jury’s still out on how big a threat this is, but we think it’s a
@@ -53,7 +53,7 @@ cards:
       It's the first NEW tick species in the nation in 50 years. The ticks found
       in the U.S.A. don't carry human diseases *so far*, but in Asia, the virus
       they carry can be fatal.
-    _key: card-3-797af16a-ae51-4fc4-8a47-9b783062296d
+    _key: card-3-ed097d43-a307-4251-99e7-ddc3cc88ac5d
   - order: 3
     body: >-
       > ‘The process has been great, everyone has been really nice to me and I
@@ -66,13 +66,13 @@ cards:
       male cheerleaders. NFL teams have hired stuntmen, but not male dancers to
       cheer along side the mainly all-women teams. NFL pre-season kicks off
       tomorrow.
-    _key: card-4-ff6c9c6d-5f78-41d5-ba1e-6060c43afe5a
+    _key: card-4-c0082611-f877-4201-ae19-2c8d1be54221
   - order: 4
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-08-08-quick-quotes/)
-    _key: card-10-4f45bde0-ac4a-4fc4-ae7d-c24c6cbcfff3
+    _key: card-10-428b11ba-ac8f-4b6c-965a-03d4e0f4b256
 
 ---
 * **Sorry, Lance Bass! HGTV announces purchase of ‘Brady Bunch’ house:**  

@@ -1,14 +1,14 @@
 ---
 title: 18.07.24 Kid College Grad
 slug: 20180724-18-07-24-kid-college-grad
-_id: legacy-79453445-ebdd-44b3-b337-f67065ab9c50
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-e51f32fc-886c-485c-852f-f039383423aa
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-24-kid-college-grad/
 _createdAt: '2018-07-24T11:51:54Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-24T11:51:54+00:00'
 weight: 50
 featured_image:
@@ -24,7 +24,7 @@ cards:
 
       11-year-old William Maillis
     citation: 11-year-old William Maillis
-    _key: card-1-c6a2f989-0aba-4430-8ecd-586a3863ccde
+    _key: card-1-26625fbf-d33a-435e-a674-00e2ea095c6f
   - order: 1
     body: >-
       Maillis, who completed high school at age 9, graduated from St. Petersburg
@@ -33,7 +33,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-24-kid-college-grad/)
-    _key: card-10-a461dc02-7dc7-43d1-bcf0-90d7f42ac5d1
+    _key: card-10-569240b2-417f-4c72-8069-49f3cc4fcc95
 
 ---
 * **11-year-old William MaillisA graduates from St. Petersburg College:**  

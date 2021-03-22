@@ -1,14 +1,14 @@
 ---
 title: 18.04.05? Dna Tests Iq
 slug: 20180406-18-04-05-dna-tests-iq
-_id: legacy-85c6b1bf-d953-46be-913e-8974f6e5fa2f
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-a3c70ad7-2eb3-4379-a601-9d270589b5e8
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-05-dna-tests-iq/
 _createdAt: '2018-04-06T09:29:11Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-06T09:29:11+00:00'
 weight: 50
 featured_image:
@@ -33,11 +33,11 @@ cards:
 
       Flip: How It Works
     citation: 'Flip: How It Works'
-    _key: card-1-a841fb39-e230-4ff6-9270-b8eb87d6a6af
+    _key: card-1-926e04cf-3920-4dfb-8a2d-d0f3ddaf74f7
   - order: 1
     body: "DNA Tests for IQ\n\n* In a study of 240,000 people, researchers found **500+ genes linked to intelligence**.\n* Previous research: **50-75% of smarts inherited**, rest is a\x18nurture.’\n* Science isn’t perfect, but discoveries mean a young child’s DNA could **give a sense of how intelligent he/she will be.**\n\nis this a good thing?"
     citation: is this a good thing?
-    _key: card-2-fc52e599-9df6-406d-858a-5d6277e185e2
+    _key: card-2-5f7c3573-9594-4160-981f-328c882af260
   - order: 2
     body: >-
       ## Online Services Offer to Quantify Your Genetic IQ
@@ -54,7 +54,7 @@ cards:
         
         
       Alain Coletta, GenePlaza Founder
-    _key: card-3-007e65c5-ee20-4fc2-a878-d4e2b2e7bdf5
+    _key: card-3-a84ce743-c118-42f4-aa9a-852de84fbc1c
   - order: 3
     body: >-
       What if you were able toA pick the smartest embryo from an IVF dish,
@@ -63,7 +63,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-05-dna-tests-iq/)
-    _key: card-10-457087a1-1397-4c3a-a60d-a0a00afbc80e
+    _key: card-10-f4cfcb68-1773-4ba8-96ea-926769569278
 
 ---
 * DNA tests for IQ are coming, but it might not be smart to take one: [https://www.technologyreview.com/s/610339/dna-tests-for-iq-are-coming-but-it-might-not-be-smart-to-take-one/](https://www.technologyreview.com/s/610339/dna-tests-for-iq-are-coming-but-it-might-not-be-smart-to-take-one/)

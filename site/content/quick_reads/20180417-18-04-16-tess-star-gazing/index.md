@@ -1,14 +1,14 @@
 ---
 title: 18.04.16 Tess Star Gazing
 slug: 20180417-18-04-16-tess-star-gazing
-_id: legacy-d3b32bed-bf43-4c90-a719-0581a09ae590
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-9605caf1-9260-4584-88fd-c30b9d9d7ed6
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-16-tess-star-gazing/
 _createdAt: '2018-04-17T10:30:09Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-17T10:30:09+00:00'
 weight: 50
 featured_image:
@@ -37,7 +37,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/ZsPStvGgNuk?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-6da7c619-3628-48c8-b5c4-f9752432d27f
+    _key: card-1-147fac71-95d6-4d71-8fbd-9f6f83fd04db
   - order: 1
     body: >-
       ## MEET ‘TESS’
@@ -56,7 +56,7 @@ cards:
 
       flip: why this matters
     citation: 'flip: why this matters'
-    _key: card-2-ab24fed3-90f7-49fd-8216-53a585df2827
+    _key: card-2-d1f418ec-51a9-4844-8e59-02266b39462a
   - order: 2
     body: >-
       ## STAR SCANNER
@@ -71,7 +71,7 @@ cards:
       * **Why?** Current telescopes can’t examine certain planets (they’re too
       far away); by charting stars & planet movements, TESS will help NASA
       decide where to prioritize further focus & exploration.
-    _key: card-3-ac073c0f-d37b-488a-9102-b6b08e3d83ba
+    _key: card-3-a50806a0-ad52-4bb6-b10c-e69801254d6d
   - order: 3
     body: >-
       > ‘By looking at such a large section of the sky, this kind of stellar
@@ -83,7 +83,7 @@ cards:
       Researcher Jenn Burt, MIT, part of a collaborative TESS team. TESS missed
       the initial launch date of April 16 due to an issue with the Space X
       rocket it was hitching a ride on - will try again April 18th, 2018
-    _key: card-4-7904fbe3-38cf-4ab3-9f3c-c77fbdd85021
+    _key: card-4-33af3851-b545-49d0-b8f4-1b459079a1c2
   - order: 4
     body: >-
       When it comes to "ET", do we even know what to look for? A new study says
@@ -91,7 +91,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-16-tess-star-gazing/)
-    _key: card-10-1ca1e0dc-712f-4488-b7f3-8e2198fc55a5
+    _key: card-10-84510770-00f0-4389-9b8f-7a1983ec66cb
 
 ---
 * **TESS FactSheet:**A [https://tess.gsfc.nasa.gov/documents/tess_factsheet_06-05-15.pdf](https://tess.gsfc.nasa.gov/documents/tess_factsheet_06-05-15.pdf)

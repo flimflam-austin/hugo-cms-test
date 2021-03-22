@@ -1,14 +1,14 @@
 ---
 title: 18.08.06 Qq
 slug: 20190905-18-08-06-qq
-_id: legacy-ac035eed-d005-40bc-87cb-14a960e19aec
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-45babc1a-89fd-4ed4-a6b9-13e426e812b6
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-06-qq/
 _createdAt: '2018-08-06T12:34:14Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-06T12:34:14+00:00'
 weight: 50
 featured_image:
@@ -20,7 +20,7 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     body: "> “I feel like I had a lot of luck along the way, and a lot of help. Help from my friends, my family, the community a\x14 from some higher power, I don’t know.’  \n  \n  \n  \nBryce Carlson (37) on his 38-day, 6-hour & 49 minute solo row across the Atlantic Ocean. The high school science teacher is the first American to complete the 2,000-mile feat, according to the Ocean Rowing Society."
-    _key: card-1-ec6a17be-8a88-4aa8-b546-78b1b74db1d3
+    _key: card-1-cddc419c-d9e3-44d9-9385-1d789d855b13
   - order: 1
     body: >-
       > “Fire season is really just beginning.”  
@@ -32,7 +32,7 @@ cards:
       one of 18 fires blazing across the state. So far this year, CA fires have
       burned about 290,000 acres - more than double the five-year average during
       the same time period.
-    _key: card-2-ee4f5c96-f9ad-47af-9108-83eda3870fde
+    _key: card-2-c688444b-93af-4e1b-8af9-c363275c1d2e
   - order: 2
     body: >-
       > ‘It just felt like my mouth was burning.”  
@@ -44,10 +44,10 @@ cards:
       McDonald's apologized and said it was in the process of cleaning the
       machine. Although, the fast-food chain confirms this is not the first time
       it has happened.
-    _key: card-3-16ed351b-ff4d-48b2-b5f2-cece5534787b
+    _key: card-3-27c6ea81-37c7-432f-b896-75d807b17fb2
   - order: 3
     body: "> ‘Even when we were little girls I can remember being in kindergarten, knowing that that is what we saw for ourselves.’  \n  \n  \n  \nBriana Dean to PEOPLE. Briana and her identical twin sister, Brittany (32), married identical twin brothers, Josh & Jeremy Salyers (34), in a joint ceremony at the 2018 Twins Days Festival in Twinsburg, OHa\x14 where they met in 2017. The two newlywed couples plan on raising their families together."
-    _key: card-4-38f8b3f0-fe6d-4d0e-9148-8758c7b98cbb
+    _key: card-4-0154d2be-160e-4156-ac76-60c6afcab6ad
   - order: 4
     body: >-
       > “I want to thank God for keeping me alive and well…. The love you have
@@ -58,13 +58,13 @@ cards:
         
       Demi Lovato, in her first statement since a reportedly near fatal drug
       overdose.
-    _key: card-5-83e42b03-9c92-42a7-8bea-3db588e29778
+    _key: card-5-35c6c501-d550-44a4-9727-1409c4524467
   - order: 5
     body: |-
       Have a fabulous week!
 
       [view sources](https://smarthernews.com/18-08-06-qq/)
-    _key: card-10-c65447c3-0df9-4263-8e84-80d38fe5553d
+    _key: card-10-9eb33efb-a28b-47eb-876e-da0ec40caf7b
 
 ---
 * **Cincinnati teacher rows solo across Atlantic in record time:**  

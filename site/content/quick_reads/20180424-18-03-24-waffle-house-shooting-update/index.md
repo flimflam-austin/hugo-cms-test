@@ -1,14 +1,14 @@
 ---
 title: 18.03.24 Waffle House Shooting Update
 slug: 20180424-18-03-24-waffle-house-shooting-update
-_id: legacy-e54273f7-91bc-4d45-a12e-bc67186aada2
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-dd4c09c2-4c6a-4330-9b71-e96720dc0d14
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-24-waffle-house-shooting-update/
 _createdAt: '2018-04-25T09:59:48Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-25T09:59:48+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       Flip Here For More
     citation: Flip Here For More
-    _key: card-1-fcc209dd-a114-4391-b5d0-b4b424ff84bc
+    _key: card-1-b98b8a5f-1e0f-41be-bd0a-69163fef5789
   - order: 1
     body: >-
       ## A “Mass Public Shooting” is defined as
@@ -51,7 +51,7 @@ cards:
 
       [Click Here: Report](https://fas.org/sgp/crs/misc/R44126.pdf)
     citation: 'Click Here: Report'
-    _key: card-2-4cd5eeae-fe51-4ee4-8ec1-d3818a10887b
+    _key: card-2-64c9d07a-06bf-42a0-8637-c258a1b345df
   - order: 2
     body: >-
       ## Shooter’s Past & Lingering Legal Questions
@@ -63,7 +63,7 @@ cards:
 
       **Mental Illness?A** In 2017, shooter told police people were trying to
       hack his phone.A In 2016, he told police Taylor Swift was stalking him.
-    _key: card-3-99bc1e58-f46a-42e9-b40c-f821ff0e15f9
+    _key: card-3-4d5930fb-6540-4761-a0ea-d386bc0f4dfd
   - order: 3
     body: >-
       James Shaw Jr., the 29-year-old man who wrestled the gun away from the
@@ -74,7 +74,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-03-24-waffle-house-shooting-update/)
-    _key: card-10-e56ee2ba-9f92-423b-80ed-f47bedd9291d
+    _key: card-10-8dd247f7-26b6-4fcd-bb67-7194b9f8b814
 
 ---
 * **SmartHER Take:** The so-called “Waffle House” shooting is the second mass shooting in 2018 where the shooter was KNOWN to law enforcement; the alleged high school shooter in Parkland Florida was also known to local police before his murderous rampage and reported to the FBI through a tipline. We will continue to investigate what led to the identification of these threatening would-be criminals but the inability to stop a horrendous crime.

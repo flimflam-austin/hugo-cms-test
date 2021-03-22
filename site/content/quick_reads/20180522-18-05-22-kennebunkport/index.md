@@ -1,14 +1,14 @@
 ---
 title: 18.05.22 Kennebunkport
 slug: 20180522-18-05-22-kennebunkport
-_id: legacy-0eb02f21-71db-4592-81c0-f7f34768ca1c
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-99b8ff90-cf38-40a8-9aa5-928a04b5a2ee
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-22-kennebunkport/
 _createdAt: '2018-05-22T11:28:55Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-22T11:28:55+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       Flip: To Learn
     citation: 'Flip: To Learn'
-    _key: card-1-ca30ed00-8c76-489f-bff8-401b72b0795e
+    _key: card-1-7ac6639d-69b3-4964-a077-e458015959b8
   - order: 1
     body: >-
       * The coastal property in southern Maine, has **beenA in the family for a
@@ -39,10 +39,10 @@ cards:
 
       * This summer will be Pres. Bush’s **1st summer inA Kennebunkport without
       Barbara,** his wife of 73 years, who died on April 17th.
-    _key: card-2-a26bad72-b104-46eb-bdf5-6e4ab9d1a414
+    _key: card-2-c13195ae-788c-4a20-9b95-3b1bc44c8461
   - order: 2
     body: "> “I imagine he will feel that half of him is missing for the rest of his life. But that said, there is no quit in this man. Life goes on, and for George Bush life is to be lived with joy a\x14 especially when he is in Maine.”  \n  \n  \n  \nJim McGrath, President George H.W. Bush's spokesman"
-    _key: card-3-f925885d-78ea-4eee-9fd2-5a81ae680549
+    _key: card-3-900096f4-ace3-4cc0-81e6-e1f949c2d9e7
   - order: 3
     body: >-
       ## The Bush Compound
@@ -56,7 +56,7 @@ cards:
       pond, pool & tennis court.
 
       * Secret Service **prohibits access**, but boats can offer a glimpse.
-    _key: card-4-702556f7-c645-4977-9ca1-2dfa6438557b
+    _key: card-4-23f9a40f-3cf8-4c92-b232-26ad8174de1c
   - order: 4
     body: >-
       ## Presidential History
@@ -68,7 +68,7 @@ cards:
       * The Bushes hosted world leaders like **Margaret Thatcher**, **Mikhail
       Gorbachev**, & **Vladimir Putin** – Putin’s visit in 2007 was called “The
       Lobster Summit” (reference to Maine’s famous crustacean).
-    _key: card-5-7a578d80-0a25-489c-93ae-538bb7a365a1
+    _key: card-5-c4a42952-26e5-437d-9362-deaa0f39ef82
   - order: 5
     body: >-
       For a man who moved 28 times in his adult life, the constant for Pres.
@@ -78,7 +78,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-22-kennebunkport/)
-    _key: card-10-385a30cf-0023-49bf-b0dd-6eeb0ab62d7f
+    _key: card-10-2595e36a-b016-467f-9db1-fad34933191f
 
 ---
 * Photo Credits: Evan Sisley, Office of George H. W. Bush & John Hoey

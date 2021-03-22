@@ -1,14 +1,14 @@
 ---
 title: 18.06.25 Perfect Cup of Coffee
 slug: 20180625-18-06-25-perfect-cup-of-coffee
-_id: legacy-585144ea-e226-4875-87b1-d9ec44cae15e
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-f8635e22-c601-4e7f-81e5-50bc868a4d2e
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-25-perfect-cup-of-coffee/
 _createdAt: '2018-06-25T09:44:07Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-25T09:44:07+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Flip - How?
     citation: Flip - How?
-    _key: card-1-3246fd67-ec10-4786-962d-adadddae96fb
+    _key: card-1-7e7f2e9e-b1e8-4a6e-8b75-d0a5315e0a5f
   - order: 1
     body: >-
       # Why Study This?
@@ -48,7 +48,7 @@ cards:
 
       How It Works
     citation: How It Works
-    _key: card-2-4c086e8d-deaf-48c7-9e4a-cd1369797c0f
+    _key: card-2-07c8daca-e7e4-448a-a5d8-cc37ba96397c
   - order: 2
     body: >-
       ## How Does It Work?
@@ -61,7 +61,7 @@ cards:
 
       Researchers found users upgraded their performance by more than 60% &
       ironically reduced their caffeine consumption by more than 60%.
-    _key: card-3-be8a3d76-c84a-4d40-9d6f-373c3151eeb3
+    _key: card-3-42698632-a78b-4766-a6f7-8c4a33f035ba
   - order: 3
     body: >-
       ## Cappucino?
@@ -76,7 +76,7 @@ cards:
 
       * Previous Research: 500 mg of caffeine (2 cups of coffee) or lower = best
       health benefits.
-    _key: card-4-04fb1aad-3845-4ac7-830c-e9320dbe058e
+    _key: card-4-bea8fc6b-d1c6-45a1-b68d-ecd4779fbc9b
   - order: 4
     body: >-
       This study mentions sleep loss as a problem for performance for both
@@ -85,7 +85,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-25-perfect-cup-of-coffee/)
-    _key: card-10-5912c1c7-7c7d-4297-888d-153be59599e5
+    _key: card-10-376b635c-4017-4a97-b031-78d19d55bd50
 
 ---
 * **Now There”s an Algorithm for How Much Coffee Can Boost Your Performance—And When to Drink It**A [https://www.vogue.com/article/coffee-army-algorithm-perfect-amount-dosage-caffeine/amp?**twitter_impression=true](https://www.vogue.com/article/coffee-army-algorithm-perfect-amount-dosage-caffeine/amp?**twitter_impression=true)

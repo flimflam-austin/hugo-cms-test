@@ -1,14 +1,14 @@
 ---
 title: 18.06.17 Qq
 slug: 20190905-18-06-17-qq
-_id: legacy-27b3826f-c233-44db-8465-f1a16b5cb04b
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-b51f8074-c142-4e53-a083-7f84cff46e94
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-06-17-qq/
 _createdAt: '2018-06-18T11:02:18Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-06-18T11:02:18+00:00'
 weight: 50
 card_series: Quotes
@@ -16,7 +16,7 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     body: '[view sources](https://smarthernews.com/18-06-17-qq/)'
-    _key: card-10-768a5e10-4dd5-46fe-9dd8-4e8f18ab0d98
+    _key: card-10-1a1bcdce-2958-4c7f-8211-458254561f7c
 
 ---
 * **U.S. & China Expand Trade War as Beijing Matches Trump’s Tariffs:**  

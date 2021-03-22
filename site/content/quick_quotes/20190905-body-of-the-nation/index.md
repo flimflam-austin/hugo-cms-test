@@ -1,23 +1,21 @@
 ---
 title: Body of the Nation
 slug: 20190905-body-of-the-nation
-_id: legacy-ba43bd78-25aa-436a-9132-04d6b07beeae
-_rev: 7QmxBnVgzphH4dpufNYHA2
+_id: legacy-33ec3532-4635-4f56-950d-8ea1a6d3b51d
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/body-of-the-nation/
 _createdAt: '2019-01-05T19:44:36Z'
-_updatedAt: '2021-03-16T12:30:36Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-01-05T19:44:36+00:00'
 weight: 50
 is_breaking: false
-summary: Body of The Nation
 featured_quote:
   quote: >-
     It would contain austria four times, germany or spain five times, france six
     times, the british islands or italy ten times.
-  citation: Body of The Nation
 
 ---
 * Having about eight-ninths of its area

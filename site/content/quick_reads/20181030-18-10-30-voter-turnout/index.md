@@ -1,14 +1,14 @@
 ---
 title: Midterm Anomaly?
 slug: 20181030-18-10-30-voter-turnout
-_id: legacy-6053b465-c4eb-40fb-9c3e-1fe4cfde4fb4
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-3418fa28-4448-4c2f-9c75-c8caecb40e78
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-10-30-voter-turnout/
 _createdAt: '2018-10-30T11:33:06Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-10-30T11:33:06+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
       elections**.  
 
       Why 2018 *may* be different.
-    _key: card-1-7ad2ccc5-1950-42ad-9c9e-80a1c7aedaad
+    _key: card-1-4e0c4e81-55f3-44f2-9bf7-ef34807a9484
   - order: 1
     body: >-
       ## IMPORTANT CONTEXT:
@@ -46,7 +46,7 @@ cards:
       * 1990: **49.3%**
 
       * 1982: **51.9%**
-    _key: card-2-8e36dd1b-b462-4895-a841-32ae822a0958
+    _key: card-2-99b94717-fa41-49ac-9cbe-493d089d2df2
   - order: 2
     body: >-
       ## Analysts expect a big jump in turnout for 3 reasons:
@@ -59,7 +59,7 @@ cards:
 
       * Voter registration skyrocketed (800,00+ new voters – a record vs.
       771,321 in 2016).
-    _key: card-3-68282c21-9616-4a85-95f9-0cdf8f35dbcb
+    _key: card-3-b451555d-6544-415d-8522-1b13cfe261e9
   - order: 3
     body: >-
       With Election Day one week away, the number of voters participating in
@@ -68,7 +68,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-10-30-voter-turnout/)
-    _key: card-10-24711899-4236-4eb2-a1d0-dd200c7c198d
+    _key: card-10-588486da-819e-48f6-a5e7-79d599c0d734
 
 ---
 * **Who Votes? Congressional Elections and the American Electorate: 1978a\u00132014:** [https://www.census.gov/content/dam/Census/library/publications/2015/demo/p20-577.pdf](https://www.census.gov/content/dam/Census/library/publications/2015/demo/p20-577.pdf)

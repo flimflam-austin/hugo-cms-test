@@ -1,14 +1,14 @@
 ---
 title: 18.02.01 Immigration Opposing Views
 slug: 20180202-18-02-01
-_id: legacy-d5ba5717-641b-4151-9544-6de4b2bfef55
-_rev: XOnQP8cIThhnw9BWFxSjgf
+_id: legacy-70ba621b-19fe-4886-b6d9-7312d44a7e87
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-01/
 _createdAt: '2018-02-01T23:04:39Z'
-_updatedAt: '2021-03-16T11:57:58Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-01T23:04:39+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       1.8 million people who came into the country illegally with their parents
       a pathway to citizenship over a period of 12 years as part of broader
       immigration reform.
-    _key: card-1-d5572b57-bae2-4ecc-bffb-a21b53ac9db6
+    _key: card-1-b165b180-3c1f-4bd1-9031-741c30ea3935
   - order: 1
     body: >-
       # “Four Pillars”: Potus Proposed Immigration Reform
@@ -44,7 +44,7 @@ cards:
 
       * Ends “Chain Migration” (extended families of immigrants receiving
       priority treatment).
-    _key: card-2-810b2d3b-1463-44a1-aca3-69cc1ea4a10f
+    _key: card-2-69619e5d-86fb-4564-a760-7ec67ed8bf2f
   - order: 2
     body: >-
       # Words Matter
@@ -58,10 +58,10 @@ cards:
 
 
       All these words can refer to same group of people.
-    _key: card-3-1d02224b-50b7-4046-beeb-da171ebb75f4
+    _key: card-3-685be4ce-eb56-40ae-ab54-e4b792c55157
   - order: 3
     body: "# Debate Heats Up\n\n> “President Trump is proposing a very large-scale amnestya\x14a path to citizenship for 1.8 million illegal aliensa\x14that his base will perceive as a betrayal.”  \n  \n  \n  \nHeather MacDonald, Americans First City Journal"
-    _key: card-4-e913e4f9-e06e-44cf-a4e6-7c5cb529a1b5
+    _key: card-4-85b14400-4c8d-44ba-ab43-ff68dbb37ae8
   - order: 4
     body: >-
       # More Heated Rhetoric
@@ -73,13 +73,13 @@ cards:
         
         
       Sadhana Singh, We Are Not Bargaining Chips Prospect.Org
-    _key: card-5-dc24d81b-5ecb-4842-8116-6f61b3dbf66b
+    _key: card-5-fe8ff6bf-16fc-451a-8a4d-2b4be5369783
   - order: 5
     body: |-
       What's Next? TBD: Immigration Issue In The Hands of Congress
 
       [view sources](https://smarthernews.com/18-02-01/)
-    _key: card-10-082f231b-1d6f-41c1-af1f-6d2150cfd16e
+    _key: card-10-b3087627-8b57-4087-9a8c-76989c6d6e73
 
 ---
 1. **Remarks by President Trump in State of the Union Address**  

@@ -4,26 +4,20 @@ title: >-
   Involving Drugs Often Used for Heart Trouble.
 slug: >-
   20200603-brigham-and-womens-hospital-deepak-bhatt-executive-director-of-interventional-cardiovascular-programs-on-new-research-on-covid-19-involving-drugs-often-used-for-heart-trouble
-_id: legacy-17774c3e-4632-48db-8800-40aad8da071d
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-fd1477b6-de55-42e2-a746-e4e866211491
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/brigham-and-womens-hospital-deepak-bhatt-executive-director-of-interventional-cardiovascular-programs-on-new-research-on-covid-19-involving-drugs-often-used-for-heart-trouble/
 _createdAt: '2020-06-03T22:34:57Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2020-06-03T22:34:57+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  Brigham and Women’s Hospital Dr. Deepak Bhatt on new COVID-19 research
-  involving drugs often used for heart trouble.
 featured_quote:
   quote: It quiets down inflammation.
-  citation: >-
-    Brigham and Women’s Hospital Dr. Deepak Bhatt on new COVID-19 research
-    involving drugs often used for heart trouble.
 
 ---
 * Dr. Bhatt, executive director of interventional cardiovascular programs, is studying whether a drug, derived from fish oil and often prescribed for those with heart trouble, may help prevent damage to the body caused by COVID-19.

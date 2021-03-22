@@ -1,14 +1,14 @@
 ---
 title: 18.07.09 Scotus New Justice Pick Updated
 slug: 20180903-18-07-09-scotus-new-justice-pick
-_id: legacy-860fa7f6-2e94-45fa-a549-6298041b83a7
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-c3612669-291f-4481-8dc9-747d5b2ba862
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-07-09-scotus-new-justice-pick/
 _createdAt: '2018-07-09T03:47:44Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-07-09T03:47:44+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Let the games begin!
     citation: Let the games begin!
-    _key: card-1-fc3eb4f5-4b54-4032-bb0e-d8ca8c125336
+    _key: card-1-0b0f9db9-44ab-4384-9c64-e305aa4609e6
   - order: 1
     body: >-
       ## ROUND I: Senate Judiciary Committee Hearings
@@ -42,7 +42,7 @@ cards:
 
       * Next, the cmte sends a recommendation on whether or not to confirm the
       nominee to the full Senate.
-    _key: card-2-3cdc82bb-c9b0-410a-b5c2-a2f594f6db12
+    _key: card-2-bf07e6cb-6b11-4c24-b3fd-1ea984b12340
   - order: 2
     body: >-
       ROUND II:  
@@ -58,7 +58,7 @@ cards:
 
       * Once debate is over, the Senate votes on whether to confirm the nominee
       – a simple majority is required to confirm the nominee.
-    _key: card-3-0beb4109-22e8-4fba-8518-0ae799c0814c
+    _key: card-3-5b015f5f-3796-4fb5-81bf-3d39bacae065
   - order: 3
     body: >-
       **What if there’s a tie?**  
@@ -71,7 +71,7 @@ cards:
 
       Since 1975, the process from nomination to final vote has taken anywhere
       from 19 to 87 days.
-    _key: card-4-744c07a7-df93-415d-a2f5-ec91d22d1bda
+    _key: card-4-14f44df2-4c7b-48eb-a8ba-f04376266cef
   - order: 4
     body: >-
       ALL ABOUT JUDGE BRETT KAVANAUGH:
@@ -79,7 +79,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-09-scotus-new-justice-pick/)
-    _key: card-10-3507b4fa-c2e3-4472-a224-134b29a749d7
+    _key: card-10-6f10d2c7-c984-497b-b0b6-844d1ed69bf6
 
 ---
 * **Supreme Court Nomination Process Q&A:** [https://www.americanbar.org/publications/preview_home/supremecourtnomination.html](https://www.americanbar.org/publications/preview_home/supremecourtnomination.html)

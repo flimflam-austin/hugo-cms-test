@@ -1,14 +1,14 @@
 ---
 title: 18.07.31 Russian Election Meddling and Protests.
 slug: 20180731-18-07-31-russian-election-meddling-and-protests
-_id: legacy-5e85877d-0caf-4e23-8596-9c987c53e89c
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-440a7e14-82b4-4e13-821a-a4e1133cc9ae
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-31-russian-election-meddling-and-protests/
 _createdAt: '2018-07-31T11:28:40Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-31T11:28:40+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       What To Know
     citation: What To Know
-    _key: card-1-acc8dad0-9dd0-4ea7-ab0d-28bdf4b97cd0
+    _key: card-1-27822e32-f459-4941-9c9e-0dcd1aeab37b
   - order: 1
     body: >-
       ## What Happened?
@@ -44,7 +44,7 @@ cards:
       steal data.
 
       * Number and extent of attacks is reportedly unknown.
-    _key: card-2-4175fbbd-86ee-4207-b1d1-c3db9985301a
+    _key: card-2-5457e396-05c8-4a76-8eed-9d9133dfed42
   - order: 2
     body: >-
       > ‘They got to the point where they could have thrown switches…’  
@@ -53,7 +53,7 @@ cards:
         
       Jonathan Homer, Chief of industrial-control-system analysis for Dept of
       Homeland Security references the extent of one Russian-led attack.
-    _key: card-3-b685be8f-b447-4f81-8686-9dd440d54c9e
+    _key: card-3-30811052-0b8a-4aa4-94bc-ef255067626c
   - order: 3
     body: >-
       ## Why It Matters:
@@ -68,7 +68,7 @@ cards:
 
       Russians could hypothetically access these control rooms through remote
       control (and they’ve done it before in Ukraine).
-    _key: card-4-f210a774-13da-4e5b-99c5-f244b5e1bf0f
+    _key: card-4-15a32577-8352-4bd2-baad-13ec7be8e3d3
   - order: 4
     body: >-
       Russian election meddling still happening according to several accounts,
@@ -79,7 +79,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-07-31-russian-election-meddling-and-protests/)
-    _key: card-10-a15432c8-00d9-464a-a319-5a2d62fa7d78
+    _key: card-10-b615c5d0-360e-4d8b-9cb2-0ef6f6edf0ac
 
 ---
 * **DHS Slides from Webinar onA Russian cyber activity:**  

@@ -1,14 +1,14 @@
 ---
 title: 18.08.20 Qq
 slug: 20190905-18-08-20-qq
-_id: legacy-bd48f3cf-78ab-4080-9b1e-e515af616ca3
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-b66f7be6-2225-489e-972c-4157b0928656
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-20-qq/
 _createdAt: '2018-08-20T11:56:36Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-20T11:56:36+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
       Afghan President Ashraf Ghani conditioned on Taliban participation. Pompeo
       said "We remain ready to support, facilitate, and participate in direct
       negotiations between the Afghan government and the Taliban."
-    _key: card-1-542a23ab-b28d-4f4b-aae1-74e14294b32b
+    _key: card-1-8bce6dad-ac12-4be1-ae97-ec6452149485
   - order: 1
     body: >-
       > ‘We don’t want to auction. But if we’re put in that position, we have to
@@ -41,7 +41,7 @@ cards:
       including his iconic stovepipe hat & bloodstained gloves from his
       assassination. The group needs to raise $9M by next Oct. to pay its bills
       & has set up a GoFundMe page.
-    _key: card-2-27a5d3f6-77a6-46eb-a655-8a5e1738743f
+    _key: card-2-d950e776-d618-4bd4-987b-0e20a69a3903
   - order: 2
     body: >-
       > “I think we need to constantly show that we are not adding our own bias,
@@ -52,11 +52,11 @@ cards:
         
       Twitter CEO Jack Dorsey on CNN's 'Reliable Sources' responding to
       allegations the social media platform discriminates against conservatives.
-    _key: card-3-90a499c1-8892-4441-a033-48555d9975b1
+    _key: card-3-94f97780-c105-4ca7-843d-65502e63016c
   - order: 3
     body: "> ‘We’ve had phone calls from individuals on our line in California desperate to know what is going on and asking us, a\x18Why isn’t the plane flying?’”  \n  \n  \n  \nRoger Miller, managing partner at Alterna Capital Partners that owns a company of air tankers that fight forest fires. Demand has outrun supply and there's debate as to whether there are enough air assets working in the right way to help contain these fires.\n\n[Click: Fire Refresher](https://smarthernews.com/18-08-15-fire-wood/)"
     citation: 'Click: Fire Refresher'
-    _key: card-4-48fdd0b5-3b6a-4240-b3f1-dff6dda8964f
+    _key: card-4-c9e486b5-e9a2-465c-9d2e-da878eb25db9
   - order: 4
     body: >-
       > “I think John’s an extraordinary servant of the country, but I think he
@@ -69,13 +69,13 @@ cards:
       Ret. Adm. Michael Mullen, fmr. chair of the Joint Chiefs, re: fmr. CIA
       Director John Brennan. Mullen criticized both Brennan's behavior & Pres.
       Trump revoking his security clearance.
-    _key: card-5-f2172ffc-3f01-4a19-a63d-c5bb070a8ba5
+    _key: card-5-b8b36313-d08b-46c5-9256-f5e9fbe5c32e
   - order: 5
     body: |-
       Have a great week!
 
       [view sources](https://smarthernews.com/18-08-20-qq/)
-    _key: card-10-2f4754a8-6e0f-464e-9fc1-cf9c6f689016
+    _key: card-10-31aeb5b5-3a00-4e79-bb24-dd72473e132f
 
 ---
 * **Lincoln”s Stovepipe Hat and Letters Could Be Sold to Ease Nonprofit”s Debt:**  

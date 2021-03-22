@@ -1,14 +1,14 @@
 ---
 title: 18.03.26 March for Life Reflection
 slug: 20180326-18-03-26-march-life-reflection
-_id: legacy-858c2d17-43cb-4bec-b438-0bd7a0559290
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-ae972b08-41b2-4b3a-8f68-dda913a6e8a3
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-26-march-life-reflection/
 _createdAt: '2018-03-26T11:00:13Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-26T11:00:13+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-3b61bbb5-5387-4865-86a7-f55352421af3
+    _key: card-1-d2a2173d-edb6-4270-81f2-d3effd9b3319
   - order: 1
     body: >-
       # USA TODAY/IPOS Poll
@@ -50,7 +50,7 @@ cards:
 
       * **70%** say they want an armed officer at their school; **47%** did NOT
       want to arm teachers.
-    _key: card-2-5b1a086a-6db3-46e7-9a63-c95eeae4890e
+    _key: card-2-0bd6a7ff-c830-43a6-bea4-eb6e9d4d6af2
   - order: 2
     body: >-
       Something To Consider:
@@ -63,7 +63,7 @@ cards:
       background checks would prevent more mass shootings in the United States.
       Those under 18 were less confident about that; they said by 47%-37% that
       taking those steps would work.”
-    _key: card-3-60a81f5b-6937-4fcf-ac7b-42b8bf3dc3bf
+    _key: card-3-718e52e3-879c-4060-8bbe-22abdb4625dd
   - order: 3
     body: >-
       ICYMI: Friday  
@@ -79,7 +79,7 @@ cards:
       guns – making them illegal.
 
       * Public has 90 days to comment.
-    _key: card-4-c6a9b8cd-4027-413f-bcfd-fa7614b6c5a1
+    _key: card-4-401c054e-fbd0-4f51-98c6-8f3cffd2524d
   - order: 4
     body: >-
       “After the senseless attack in Las Vegas, this proposed rule is a critical
@@ -93,7 +93,7 @@ cards:
       [Click: Quick Review on Bump
       Stocks](https://smarthernews.com/18-02-20-bump-stocks/)
     citation: 'Click: Quick Review on Bump Stocks'
-    _key: card-5-b9283db0-2172-47de-a5f3-da3356a94df4
+    _key: card-5-6f55287c-566a-48a6-95eb-4c4a343268bb
   - order: 5
     body: >-
       # ICYMI: Friday
@@ -109,7 +109,7 @@ cards:
 
       * Now: Line item empowers CDC to “conduct research on the causes of gun
       violence.”
-    _key: card-6-411e0b9f-464e-4964-b498-b9d0e56995ad
+    _key: card-6-91e4ce2d-22b7-466d-8a80-a5f98b4465b1
   - order: 6
     body: >-
       How Much Money?  
@@ -124,7 +124,7 @@ cards:
 
       * Some say without specific research purpose, approved by Congress, no $$
       will *actually* be devoted to gun-related research despite clarification.
-    _key: card-7-a5c3c05f-cf77-4f37-b64c-5d7bfa99223c
+    _key: card-7-675bea0d-9164-49a2-8239-21b73d886321
   - order: 7
     body: >-
       Have a strong opinion on gun control laws and school safety? Here are 2
@@ -133,7 +133,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-26-march-life-reflection/)
-    _key: card-10-565e481d-a7c8-4956-ad43-82c90d1c9ebd
+    _key: card-10-cdcfc7ee-b43e-4bfb-b155-e748498ee24c
 
 ---
 * Poll: For the Columbine generation, gun violence is a defining fear: [https://www.usatoday.com/story/news/2018/03/22/poll-columbine-generation-gun-violence-defining-fear/441446002/](https://www.usatoday.com/story/news/2018/03/22/poll-columbine-generation-gun-violence-defining-fear/441446002/)

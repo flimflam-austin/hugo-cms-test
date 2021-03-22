@@ -1,14 +1,14 @@
 ---
 title: 18.08.09 Americans Choose Spirits
 slug: 20180810-18-08-09-americans-choose-spirits
-_id: legacy-a9c20dad-be1c-499e-adcf-a5d1f7f40c89
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-50461a40-0c04-4311-be41-6386eacd36a4
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-09-americans-choose-spirits/
 _createdAt: '2018-08-10T11:55:20Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-10T11:55:20+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       How Much We Drink
     citation: How Much We Drink
-    _key: card-1-382e4cc7-be2a-4903-be74-3dc86d67198b
+    _key: card-1-16d19c2a-8207-4323-aaf6-38ee029a0ca1
   - order: 1
     body: >-
       # GULP
@@ -42,7 +42,7 @@ cards:
 
       * Gov’t wants us to drink closer to 2.1 gallons of alcohol a year orA 448
       standard drinks (about 1 drink per day or 8.5 a week).
-    _key: card-2-27183596-3828-484e-bbfd-0bb8814e58c7
+    _key: card-2-5be6ccea-53a8-4710-a4df-dc81f6864830
   - order: 2
     body: >-
       ## Why Less Beer?
@@ -56,7 +56,7 @@ cards:
 
       * Millenials drink less than older generation; choose drinks based on
       what’s perceived as healthier.
-    _key: card-3-70d08631-c391-475d-8b63-f73f9d98003d
+    _key: card-3-fef9c1cc-a949-4fad-8d4a-a9217ee0d951
   - order: 3
     body: >-
       # BIGGER PICTURE
@@ -72,7 +72,7 @@ cards:
 
       _“Brands such as Kellogg’s cereal, Campbell’s soup and Aunt Jemima pancake
       mix are all feeling the pinch”_ (WSJ)
-    _key: card-4-775db19a-2144-4701-9981-f75e726f2bdd
+    _key: card-4-4432b582-48b9-49c6-bade-9eafcff8a057
   - order: 4
     body: >-
       The state that drinks the MOST alcohol per person? New Hampshire. Click
@@ -81,7 +81,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-08-09-americans-choose-spirits/)
-    _key: card-10-b270a26f-b1f7-44a5-a95f-62be995f319c
+    _key: card-10-297582fb-54bc-47cb-99cc-7b8424c047be
 
 ---
 * **The 10 States That Consume the Most Alcohol:**  

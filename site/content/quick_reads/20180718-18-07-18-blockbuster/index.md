@@ -1,14 +1,14 @@
 ---
 title: 18.07.18 Blockbuster
 slug: 20180718-18-07-18-blockbuster
-_id: legacy-5f7db9ca-d2a5-4f8b-ad38-8688bf8f4226
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-1ab4fd66-a910-4dfb-bed0-05360a8680c3
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-18-blockbuster/
 _createdAt: '2018-07-18T11:01:03Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-18T11:01:03+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Be Kind, Please Rewind.
     citation: Be Kind, Please Rewind.
-    _key: card-1-f806e5a0-c0aa-429a-b4dc-dd2ef6c46d30
+    _key: card-1-20de7980-23df-4c73-b44d-dd0b843150ad
   - order: 1
     body: >-
       # Internet Killed the Video Store
@@ -45,7 +45,7 @@ cards:
       **DVDs, Blu-rays & video games**.
 
       * **No plans to close** anytime soon.
-    _key: card-2-bbb42c92-515e-45af-b073-5eebf00bd8ac
+    _key: card-2-708d564f-f320-498e-9ca5-68f0b7401539
   - order: 2
     body: >-
       ## The Ultimate Late Fee
@@ -61,7 +61,7 @@ cards:
 
 
       Today, **Netflix has 125M global subscribers.**
-    _key: card-3-feab6725-efac-4b9d-92f9-3b6f913c98dc
+    _key: card-3-e536775f-b718-420f-a949-acb323cfba2e
   - order: 3
     body: >-
       The real kicker? Blockbuster's CEO passed on an opportunity to buy Netflix
@@ -71,7 +71,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-18-blockbuster/)
-    _key: card-10-2c1332df-9a49-46c5-9171-c5a19a188612
+    _key: card-10-b98a7fa7-8de2-4f5c-a64f-6d21c112a1c1
 
 ---
 * **Bend Is Now Home To The Last Blockbuster Video Store In America:**  

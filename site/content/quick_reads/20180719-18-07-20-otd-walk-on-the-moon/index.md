@@ -1,14 +1,14 @@
 ---
 title: 18.07.20 Otd Walk on the Moon
 slug: 20180719-18-07-20-otd-walk-on-the-moon
-_id: legacy-df728ab1-1e7d-4ec1-8e94-c8c5f3b63665
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-78dbb048-ee47-4f60-8c80-fb9fd41bec0a
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-20-otd-walk-on-the-moon/
 _createdAt: '2018-07-20T11:50:39Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-20T11:50:39+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/hxPbnFc7iU8?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-61888e58-b26e-4796-aa9c-9c31c469b131
+    _key: card-1-c40d5385-3ee1-4778-8d74-c070845c38d8
   - order: 1
     body: >-
       ## The Race Into Space
@@ -45,7 +45,7 @@ cards:
 
       On July 16, 1969, Armstrong, Aldrin, and Mike Collins, blasted off for the
       moon. They accomplished their mission & returned 8 days later.
-    _key: card-2-84e829f8-29d6-4647-bc0b-f30ece9a848d
+    _key: card-2-b8f66320-2986-4e0a-b8f0-fc9995a3907f
   - order: 2
     body: >-
       # Apollo Moon Missions
@@ -57,7 +57,7 @@ cards:
       moon.
 
       * In 1973, NASA said theA total cost of the moon missions was **$25B.**
-    _key: card-3-21f66f0e-797b-420e-a42e-aa98ae1b1830
+    _key: card-3-b9001273-d189-4640-8390-e948cf171450
   - order: 3
     body: >-
       # A New Era of Space Exploration?
@@ -71,7 +71,7 @@ cards:
 
       Today, support for NASA is bipartisan and Pres. Trump’s 2019 budget
       allocates $$ for a trip to moon, and eventually, a visit to Mars.
-    _key: card-4-2c37b1bf-b0a2-48bd-b78f-a90aa607f6b9
+    _key: card-4-80d1f666-130c-4d8a-a9d1-a43af767c74c
   - order: 4
     body: >-
       The Apollo 11 astronauts left behind a U.S. flag, a patch honoring the
@@ -80,7 +80,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-20-otd-walk-on-the-moon/)
-    _key: card-10-4dc85c2a-2728-4795-849a-0cd0b5eed0e0
+    _key: card-10-a8719e7e-a14a-45fc-ba2e-7408223c2809
 
 ---
 * **Space Program:**  

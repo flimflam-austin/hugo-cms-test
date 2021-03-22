@@ -1,14 +1,14 @@
 ---
 title: 18.07.17 Helsinki Summit
 slug: 20180717-18-07-17-helsinki-summit
-_id: legacy-67c71da9-0201-49b2-8580-3e63201bb756
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-e243f5f8-77fd-477c-9a45-9832c2495298
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-17-helsinki-summit/
 _createdAt: '2018-07-17T11:05:23Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-17T11:05:23+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Why It Matters
     citation: Why It Matters
-    _key: card-1-ef9a1e7d-701b-40db-807a-fce9e7a34c91
+    _key: card-1-f86f1f3b-404a-4c04-bb3e-85df025f4cd8
   - order: 1
     body: >-
       ## U.S. Policy Vs. Russia
@@ -47,7 +47,7 @@ cards:
       * supplied Ukraine with weapons to help defend against Russia.
 
       * U.S. forces killed hundreds of Russian fighting w/Assad in Syria.
-    _key: card-2-3428ad86-39c8-4dbd-b767-641639b67b67
+    _key: card-2-58d3ae45-53c9-43d4-b272-4f6bf0693b23
   - order: 2
     body: >-
       ## Russia: What’s At Stake:
@@ -62,7 +62,7 @@ cards:
 
       * Russia & Pres. Putin accused of human rightsA abuses (i.e. no free
       speech, no protests & murder).
-    _key: card-3-09f8d3ce-e9f3-4762-8367-81cdfc40c7fc
+    _key: card-3-0ba019ee-342c-4837-9cc8-3d2888e5f114
   - order: 3
     body: >-
       ## Major Takeaways: Summit
@@ -75,7 +75,7 @@ cards:
 
       **Pres. Putin** confirmed he wanted Trump to win election “_because he
       talked about bringing the U.S. Russia relationship back to normal._“
-    _key: card-4-8e1dc3a3-00bd-4a92-bffa-46f7ebefe86a
+    _key: card-4-ea052807-935c-4819-a72c-fcf222c9c00c
   - order: 4
     body: >-
       How does the U.S. gov't define Russian "meddling"? It's a blanket term
@@ -85,7 +85,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-17-helsinki-summit/)
-    _key: card-10-7440ee4a-394e-4289-9fb3-f2fb2b69004f
+    _key: card-10-279d4db7-ab6b-4a04-96fb-d9fc199536a6
 
 ---
 * **Administration actions on Russia sometimes tougher than Trump’s words:** [https://abcnews.go.com/Politics/fact-check-administration-actions-russia-tougher-trumps-words/story?id=53223453](https://abcnews.go.com/Politics/fact-check-administration-actions-russia-tougher-trumps-words/story?id=53223453)

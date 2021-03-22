@@ -1,14 +1,14 @@
 ---
 title: What Is Essence?
 slug: 20180829-18-08-29-essence
-_id: legacy-aca263d0-1ff6-4492-9584-c8c54140f1b5
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-23d73402-eede-48a4-ad93-61bc31ef2199
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-29-essence/
 _createdAt: '2018-08-29T11:35:03Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-29T11:35:03+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       100 bucks?! Worth it?
     citation: 100 bucks?! Worth it?
-    _key: card-1-7f9e8de5-4b7f-461a-9d15-1e6329259a7c
+    _key: card-1-686cc83f-9ceb-492e-9724-b9cef1af1495
   - order: 1
     body: >-
       ## What is Essence?
@@ -47,7 +47,7 @@ cards:
       serums and creams.
 
       * Used **both in morning & evening** skin care routines.
-    _key: card-2-ea342de6-d786-486a-86b1-21b461b2d2a5
+    _key: card-2-e25ea5d5-6f04-46df-9465-cba6d067d35f
   - order: 2
     body: >-
       ## Well, Why Am I Just Hearing About It?
@@ -60,7 +60,7 @@ cards:
       Beauty experts say it’s taken time to **change mindsets**.A Americans tend
       to strip their skin (i.e. feel the burn to make sure it’s working), **a**
       **watery solution may feel like a waste**.
-    _key: card-3-d1361eb8-c6be-4cb0-9232-226698e0ef79
+    _key: card-3-eb306458-d744-4cb7-99b6-13e6946ddd2e
   - order: 3
     body: >-
       # BIGGER PICTURE
@@ -74,7 +74,7 @@ cards:
 
 
       That comes to roughly **$8 A DAY.**
-    _key: card-4-8be121d3-a95e-4029-81b0-50093c6cee2e
+    _key: card-4-27f20dfc-9588-4a37-827f-576dcb2b10e4
   - order: 4
     body: >-
       Look for low alcohol content and focus on active ingredients to get the
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-29-essence/)
-    _key: card-10-d157e47d-bccc-4e4d-ae66-9bc74cf2d77f
+    _key: card-10-cfbcc6de-6802-4f37-88d6-658031ad65e3
 
 ---
 * **What Is an Essence and Why Is It More Important Than Moisturizer?**  

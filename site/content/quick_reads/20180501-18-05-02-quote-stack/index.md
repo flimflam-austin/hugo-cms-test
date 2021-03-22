@@ -1,14 +1,14 @@
 ---
 title: 18.05.02 Quote Stack
 slug: 20180501-18-05-02-quote-stack
-_id: legacy-3b590500-e57f-400d-9f01-bdf0a8b64243
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-f13a2697-3a0b-4c40-86a9-4410ccd3af57
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-02-quote-stack/
 _createdAt: '2018-05-02T10:52:54Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-02T10:52:54+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
       Former Attorney General Alberto Gonzales, on whether the "caravan" of
       migrants seeking asylum at the border are defying U.S. laws, MSNBC
       (5/1/18)
-    _key: card-1-65708d76-a96d-4035-aafc-3543baf69b21
+    _key: card-1-a712d054-723e-479a-8df4-180f905d4cb9
   - order: 1
     body: >-
       > **‘Don’t try to negotiate the details with Kim Jong Un. Leave that to
@@ -43,7 +43,7 @@ cards:
         
       Former Sec. of State Condoleezza Rice, on her advice to Pres. Trump on how
       to deal with Kim Jong Un, Fox News (5/1/18)
-    _key: card-2-e5dd0235-c3ad-46ee-9796-ff6590a95e61
+    _key: card-2-3f476817-b2bd-49b9-8da8-64e64889747d
   - order: 2
     body: >-
       > **“We are drugged out. We are following other people’s opinions. We are
@@ -52,10 +52,10 @@ cards:
         
         
       Kanye West, TMZ Live, May 1, 2018
-    _key: card-3-1dc618cd-be8d-41aa-9028-f0fc27917fd2
+    _key: card-3-332f4ec5-5f6e-4ca2-969c-afb2d0a76b78
   - order: 3
     body: '[view sources](https://smarthernews.com/18-05-02-quote-stack/)'
-    _key: card-10-518f6fcd-fe2d-439d-9643-7e929017af3a
+    _key: card-10-329e80eb-38ae-4588-a32f-cb46a65ff2ac
 
 ---
 * **WATCH: Former AG Gonzales to MSNBC: ‘I Disagree’ With President Donald Trump About Migrants:** [https://www.youtube.com/watch?v=kzBMK98MoZY](https://www.youtube.com/watch?v=kzBMK98MoZY)

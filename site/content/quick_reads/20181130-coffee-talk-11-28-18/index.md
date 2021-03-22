@@ -1,14 +1,14 @@
 ---
 title: Coffee Talk 11/28/18
 slug: 20181130-coffee-talk-11-28-18
-_id: legacy-eabec2ee-89a5-483d-8f6a-6db541e3ffbd
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-ee7a20b8-7fce-485b-b477-7af9e9a985c3
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - coffee-talk-11-28-18/
 _createdAt: '2018-11-28T16:15:50Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-11-28T16:15:50+00:00'
 weight: 50
 featured_image:
@@ -26,15 +26,13 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/3El6tb9rRSY?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-7d5b861c-8fdd-4b68-b3c3-9994b9da2574
+    _key: card-1-a8411894-eb72-43b4-a045-04cf1a63b208
   - order: 1
     body: |-
       Have A Great Day!
 
       [view sources](https://smarthernews.com/coffee-talk-11-28-18/)
-    _key: card-10-f94fd1bd-e731-4a52-ad16-1263981f0acc
+    _key: card-10-94246ffb-8aca-4ebf-8e91-624627576c6b
 
 ---
-{{< youtube 3El6tb9rRSY >}}
-
-{{< youtube 3El6tb9rRSY >}}
+{{< youtube id=\3El6tb9rRSY\ title=\ >}}

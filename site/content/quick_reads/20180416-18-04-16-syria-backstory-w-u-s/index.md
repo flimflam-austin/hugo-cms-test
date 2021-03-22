@@ -1,14 +1,14 @@
 ---
 title: 18.04.16 Syria Backstory W/ u.s.
 slug: 20180416-18-04-16-syria-backstory-w-u-s
-_id: legacy-ee400098-543c-4368-abe6-a28696dabb6a
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-74505e08-2d2a-431b-912b-3a9412615656
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-16-syria-backstory-w-u-s/
 _createdAt: '2018-04-16T10:30:40Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-16T10:30:40+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-99100000-204c-4cdd-9b61-12762b8d6cca
+    _key: card-1-60346ac1-fd38-4fbf-b24e-133609998083
   - order: 1
     body: >-
       ## Syria: Did You Know?
@@ -46,7 +46,7 @@ cards:
 
       * Current population roughly the same as Pennsylvania: 13M (about 5M
       refugees dispersed).
-    _key: card-2-95a1d3a7-c60c-4c4c-82ea-a0c4be0f4819
+    _key: card-2-81ab12ce-9350-4c84-a0d6-90195f5e286b
   - order: 2
     body: >-
       ## Tension Builds
@@ -58,7 +58,7 @@ cards:
       * During roughly the same time period Syria’s relationship with America
       soured, U.S accused Syria of allowing transport of foreign fighters into
       Iraq to kill American soldiers.
-    _key: card-3-031c9272-2601-43e4-932d-df0c765a0481
+    _key: card-3-5843f826-fc68-4fc4-b3ff-2da25c22d96f
   - order: 3
     body: >-
       ## U.S. & Syria
@@ -73,7 +73,7 @@ cards:
 
       * U.S. embassy in Syria closed 2012. U.S. forced closure of Syrian embassy
       in DC in 2014.
-    _key: card-4-b17fbce5-3e4a-4553-aa5e-2afc674e6705
+    _key: card-4-159a1695-34eb-4a4d-9614-c879f548d6fb
   - order: 4
     body: >-
       Location Matters. Part of Syria's importance to America has less to do
@@ -82,7 +82,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-16-syria-backstory-w-u-s/)
-    _key: card-10-325b17ac-86b1-4e83-a282-d7b2efc08338
+    _key: card-10-9dc5668f-dd1c-428e-8b41-3025824cd8aa
 
 ---
 * **C.I.A. WORLD FACTBOOK**:A [https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html](https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html)

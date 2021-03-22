@@ -1,14 +1,14 @@
 ---
 title: 18.02.15 Reaction to Shooting
 slug: 20180215-18-02-15-reaction-shooting
-_id: legacy-d514e959-d370-4d1a-90cb-ec8f3dca5d5e
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-8b465ee2-e9d2-4419-85f1-5f05d1eb77a9
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-15-reaction-shooting/
 _createdAt: '2018-02-15T21:04:59Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-15T21:04:59+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip Card Here
     citation: Flip Card Here
-    _key: card-1-f3f98c9f-4704-41d5-8703-c3ce51e3f893
+    _key: card-1-5f1b26f2-f207-4f33-942d-1acff961740b
   - order: 1
     body: >-
       # Top House Republican
@@ -52,7 +52,7 @@ cards:
 
       [Click For Remarks](https://www.speaker.gov/live)
     citation: Click For Remarks
-    _key: card-2-e12f53aa-8ead-41e6-afd2-45cdf3145b92
+    _key: card-2-b5f5d376-e7f1-42e8-8584-4fdd9368a44f
   - order: 2
     body: >-
       # Top House Democrat
@@ -65,7 +65,7 @@ cards:
 
 
       House Minority Leader Nancy Pelosi (D-CA) Twitter Feb 15, 2018
-    _key: card-3-60f0d025-614f-4839-9540-39577fadc09d
+    _key: card-3-4f8887ae-8db2-4b30-93bf-481b391fc7ad
   - order: 3
     body: >-
       # Top Senate Republican
@@ -77,7 +77,7 @@ cards:
 
 
       Senator Mitch McConnell, Twitter, Feb 14, 2018
-    _key: card-4-769a7f28-fa3a-4486-96df-99694469864b
+    _key: card-4-4917d72b-3007-4297-882a-adc5f11d28e3
   - order: 4
     body: >-
       # Top Senate Democrat
@@ -90,10 +90,10 @@ cards:
 
 
       Senator Chuck Schumer, (D-NY) Twitter, Feb 14, 2018
-    _key: card-5-f6f7cd98-564c-4b64-aec9-e4eb10978aba
+    _key: card-5-7154f96f-847d-4cd8-bbb7-557f799b70d5
   - order: 5
     body: '[view sources](https://smarthernews.com/18-02-15-reaction-shooting/)'
-    _key: card-10-b32a7fb4-7349-4028-a8ee-8656a327ac2e
+    _key: card-10-b774be3f-3e74-400f-b3ee-1f8227dc6dc2
 
 ---
 Speaker Paul Ryan Weekly Address:A [https://www.youtube.com/watch?v=4loUy2nVZyI&feature=youtu.be](https://www.youtube.com/watch?v=4loUy2nVZyI&feature=youtu.be)

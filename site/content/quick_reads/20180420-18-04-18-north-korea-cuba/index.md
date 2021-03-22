@@ -1,14 +1,14 @@
 ---
 title: 18.04.18 North Korea & Cuba
 slug: 20180420-18-04-18-north-korea-cuba
-_id: legacy-6737af13-315d-4717-be5d-4b058918354b
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-d5099e58-56cb-4854-b506-184705e6136c
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-18-north-korea-cuba/
 _createdAt: '2018-04-20T13:32:14Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-20T13:32:14+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip: Cuba & NoKo
     citation: 'Flip: Cuba &amp; NoKo'
-    _key: card-1-d259c699-7553-435d-938f-d2e43ac859c6
+    _key: card-1-f64b66b2-d82f-4a69-9efa-ea85092e56d2
   - order: 1
     body: >-
       ## North Korea
@@ -45,7 +45,7 @@ cards:
 
       Pres. Trump acknowledged **secret trip** by CIA Dir Mike Pompeo (Sec of
       State nominee) to meetA with North Korean leader.
-    _key: card-2-1ffccc66-e32d-4961-a44f-86ab0e095d1f
+    _key: card-2-ad8308fe-999c-49eb-ad54-3a0927695fce
   - order: 2
     body: >-
       ## CUBA:
@@ -59,7 +59,7 @@ cards:
       **Canada pulls diplomats from Cuban embassy**. Diplomats complaining of
       similar symptoms to U.S. diplomats in 2017 when they fell ill with a
       mysterious sickness.
-    _key: card-3-b4566b88-cc49-4dc1-881e-b67b5078fd4b
+    _key: card-3-ba92fe5f-d4ac-423a-9984-c7cfa17eb354
   - order: 3
     body: >-
       ## North Korea & Cuba
@@ -75,7 +75,7 @@ cards:
 
       * Soviets supported the birth of North Korean & Cuban dynasties. **Modern
       day Russia** **“circles” both countries for influence**.
-    _key: card-4-798d9a6c-6c2c-4f97-a950-69d32d0f7038
+    _key: card-4-be7b7009-47a3-4e82-a64d-b589b04c1697
   - order: 4
     body: >-
       Why does potential change in North Korea & Cuba matter? Both countries,
@@ -85,7 +85,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-18-north-korea-cuba/)
-    _key: card-10-cdaf8aca-cc6a-42f9-9601-df083f37bf83
+    _key: card-10-404c5abf-5d27-42d3-b0b3-e0d69066b91e
 
 ---
 * Canada Pulls Diplomat Families from Cuba Over Mystery Illness: [https://www.livescience.com/62333-mystery-illness-cuba-diplomats-canada.html](https://www.livescience.com/62333-mystery-illness-cuba-diplomats-canada.html)

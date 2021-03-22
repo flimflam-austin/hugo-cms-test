@@ -4,28 +4,26 @@ title: >-
   Presidential Debate.
 slug: >-
   20201007-epidemiologist-ellie-murray-on-the-plexiglass-barriers-set-up-for-the-vice-presidential-debate
-_id: legacy-c3cfc6d7-be02-41ee-835f-b33eeeddc2df
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-30e1be2f-8ff1-49a4-bbf5-b94fe49bc949
+_rev: ZEyhBiGfgCfwE8WOjbuSlO
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/epidemiologist-ellie-murray-on-the-plexiglass-barriers-set-up-for-the-vice-presidential-debate/
 _createdAt: '2020-10-07T23:44:04Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-10-07T23:44:04+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    3cad03fdfac0625e72d853aa39ecc266b6b826e2-1024x576.jpg
 is_breaking: false
-summary: >-
-  Epidemiologist Ellie Murray on the plexiglass barriers set up for the Vice
-  Presidential debate.
 featured_quote:
   quote: >-
     Those plexiglass barriers are really only going to be effective if the vice
     president or Kamala Harris are spitting at each other,
-  citation: >-
-    Epidemiologist Ellie Murray on the plexiglass barriers set up for the Vice
-    Presidential debate.
 
 ---
 * **Backstory**: At the debate on Wednesday night, each candidate will be separated by 12 feet and have a plexiglass barrier.
@@ -59,7 +57,5 @@ _“At 12 feet 3 inches apart, spray droplet transmission is not the issue,” s
 _Dr. Milton and his colleagues contacted the debate commission and both campaigns to recommend purchasing plug-and-play air filters — excellent ones run to just about $300 each — or four box fans and air filters taped together. Each debater would have one device positioned to suck up and clean the air exhaled, and another to produce clean air._
 
 _In research conducted with singers over the past few months, they have found that this so-called “Corsi box” — named for Richard Corsi, the scientist who cobbled together the first one — can significantly decrease aerosols._
-
-_The safest solution, experts said, is to move the debate online._ one — can significantly decrease aerosols._
 
 _The safest solution, experts said, is to move the debate online._

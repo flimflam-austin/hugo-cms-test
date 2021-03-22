@@ -3,27 +3,25 @@ title: >-
   Epidemiologist Lauren Ancel Meyers, University of Texas Austin, on New
   Research Trying to Help Parents Determine Return to School.
 slug: 20200803-utreturningtoschool
-_id: legacy-112fe281-fafc-40be-90ee-80659dcb0b38
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-6274c121-3595-4815-a020-e4cb87729579
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - article/utreturningtoschool/
 _createdAt: '2020-08-03T13:36:10Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-08-03T13:36:10+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    1646e8eac1a30449bc1d78f45155c53fff5fdca4-2560x1920.jpg
 is_breaking: false
-summary: >-
-  Epidemiologist Lauren Ancel Meyers, University of Texas Austin, on new
-  research trying to help parents determine return to school.
 featured_quote:
   quote: >-
     It’s meant to guide schools so they can anticipate when it might be safe, or
     easier, to open and bring kids in.
-  citation: >-
-    Epidemiologist Lauren Ancel Meyers, University of Texas Austin, on new
-    research trying to help parents determine return to school.
 
 ---
 _“Based on current infection rates, more than 80 percent of Americans live in a county where at least one infected person would be expected to show up to a school of 500 students and staff in the first week, if school started today.”_ [FULL ARTICLE](https://www.nytimes.com/interactive/2020/07/31/us/coronavirus-school-reopening-risk.html)
@@ -35,4 +33,4 @@ _“Based on current infection rates, more than 80 percent of Americans live in 
 
 
 
-Interactive tool from NYT for what “Back To School” might look like: [CLICK HERE](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html)might look like: [CLICK HERE](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html)
+Interactive tool from NYT for what “Back To School” might look like: [CLICK HERE](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html)

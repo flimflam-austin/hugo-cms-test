@@ -1,14 +1,14 @@
 ---
 title: 18.06.26 Mergerpalooza
 slug: 20180626-18-06-26-mergerpalooza
-_id: legacy-ed493944-d762-4ed0-83fc-3262d6fabecc
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-e990738f-6d7e-437f-943b-09537737cf48
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-26-mergerpalooza/
 _createdAt: '2018-06-26T10:45:53Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-26T10:45:53+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       FLIP: Chasing a sly fox
     citation: 'FLIP: Chasing a sly fox'
-    _key: card-1-e6896af1-3185-4a38-9e20-9642bd0e916a
+    _key: card-1-0f1cb086-c78f-4306-842b-8c088da5f85b
   - order: 1
     body: >-
       ## Get Me Up to Speed
@@ -50,7 +50,7 @@ cards:
 
       Oh the drama...
     citation: Oh the drama...
-    _key: card-2-ebfcf7e7-00fb-4ee9-8616-a0aa9622cac5
+    _key: card-2-85030851-6700-4d0d-a3ea-fc832815ce12
   - order: 2
     body: >-
       ## $71B?! Why So Much?
@@ -63,7 +63,7 @@ cards:
       * **Bottom line:**A Real driver is the fear of the future with digital
       rivals like Amazon, Facebook & Netflix disrupting content, advertising &
       distribution. Media cos. need to get in the game to compete.
-    _key: card-3-ebc27823-6b15-43e8-9455-ce25783cf640
+    _key: card-3-a64e042f-1674-4748-a5dd-ad93473578f9
   - order: 3
     body: >-
       Whoever wins in the end - Disney or Comcast - it's important to note Fox
@@ -72,7 +72,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-26-mergerpalooza/)
-    _key: card-10-ca726227-7b6b-4fd9-bb13-7b3f7cee819d
+    _key: card-10-e94596c3-a440-4588-bbc4-f329390966c3
 
 ---
 * **21st Century Fox Agrees to Higher Offer From Disney:A**  

@@ -4,28 +4,26 @@ title: >-
   Variation in China with Pandemic Potential.
 slug: >-
   20200630-professor-kin-chow-chang-who-worked-on-a-new-study-that-identified-a-swine-flu-variation-in-china-with-pandemic-potential
-_id: legacy-fd4dfacf-06f7-4f53-beb6-2289cb637e60
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-3e96c3f9-baa2-4336-8751-aeca19bd6bb2
+_rev: ZEyhBiGfgCfwE8WOjbuSlO
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/professor-kin-chow-chang-who-worked-on-a-new-study-that-identified-a-swine-flu-variation-in-china-with-pandemic-potential/
 _createdAt: '2020-06-30T11:39:43Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-06-30T11:39:43+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    58a89452599268a1172a682a8d4a8571833fa01f-2560x1700.jpg
 is_breaking: false
-summary: >-
-  Professor Kin-Chow Chang who worked on a new study that identified a swine-flu
-  variation in China with pandemic potential.
 featured_quote:
   quote: >-
     Right now we are distracted with coronavirus and rightly so. But we must not
     lose sight of potentially dangerous new viruses.
-  citation: >-
-    Professor Kin-Chow Chang who worked on a new study that identified a
-    swine-flu variation in China with pandemic potential.
 
 ---
 * Researchers looked at pig populations and workers in China from 2011-2018.
@@ -39,4 +37,4 @@ featured_quote:
 
 New strain of flu found in China has potential to become a pandemic, scientists warn [CNBC ARTICLE](https://www.cnbc.com/2020/06/30/new-strain-of-flu-in-china-has-pandemic-potential-scientists-warns.html)
 
-Lessons from the past: What to know about past pandemic response in the U.S.: C[LICK HERE](https://smarthernews.com/comparing-the-flu-response/)o know about past pandemic response in the U.S.: C[LICK HERE](https://smarthernews.com/comparing-the-flu-response/)
+Lessons from the past: What to know about past pandemic response in the U.S.: C[LICK HERE](https://smarthernews.com/comparing-the-flu-response/)

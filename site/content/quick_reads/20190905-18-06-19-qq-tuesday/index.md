@@ -1,14 +1,14 @@
 ---
 title: 18.06.19 Qq Tuesday
 slug: 20190905-18-06-19-qq-tuesday
-_id: legacy-1a15307a-efe4-4307-9eec-090c23960e5c
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-82fec6eb-e3a0-4b76-ae90-3f392fef31a1
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-06-19-qq-tuesday/
 _createdAt: '2018-06-19T10:46:43Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-06-19T10:46:43+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
       [CLICK: SmartHer
       Facts](https://smarthernews.com/18-06-17-immigration-and-children-at-border/)
     citation: 'CLICK: SmartHer Facts'
-    _key: card-1-bb783a92-49d9-4eac-803f-07e7208ea4c9
+    _key: card-1-63db98ea-f645-4e54-b74c-b2b46d7eff42
   - order: 1
     body: >-
       > “Sometimes truth transcends party.”  
@@ -45,7 +45,7 @@ cards:
       zero-tolerance immigration policy, which demands all adults attempting to
       cross the border illegally be arrested (thereby separating children from
       the adults they arrive with).
-    _key: card-2-b00cb6ce-c4c7-4275-8cbc-1b9766d79274
+    _key: card-2-ed70a6a1-f306-4ebe-9e9c-ff2c00eb2780
   - order: 2
     body: >-
       > “In defending America, it is not enough to merely have an American
@@ -56,7 +56,7 @@ cards:
         
       Pres. Trump directing the Pentagon to establish a 'space force' as the
       sixth branch of the Armed Forces.
-    _key: card-3-6e09d223-f42c-43e7-bf48-d5b266b3334a
+    _key: card-3-86be2a45-ceb5-45a8-acd4-6ec5f7527d46
   - order: 3
     body: >-
       > “Researchers estimate that birds & mammals harbor anywhere from 631K to
@@ -73,7 +73,7 @@ cards:
       [CLICK: FULL
       STORY](https://smarthernews.com/18-06-19-return-of-the-plague/)
     citation: 'CLICK: FULL STORY'
-    _key: card-4-41a9499d-60ad-4b2f-afd5-dac6df55a269
+    _key: card-4-7c4dbace-8d8b-4afb-8e58-22f864145e0f
   - order: 4
     body: >-
       > “I thought it would be a nice way of improving my look well, obviously
@@ -86,10 +86,10 @@ cards:
       the infamous staged paparazzi photos he took in the days before the royal
       wedding. Markle said he agreed to take part in the photos in an attempt to
       change his image.
-    _key: card-5-1cd98318-77fd-408b-8213-055e030146d5
+    _key: card-5-399ec557-453f-406b-b193-bbdd3f66b3f3
   - order: 5
     body: '[view sources](https://smarthernews.com/18-06-19-qq-tuesday/)'
-    _key: card-10-ebb3fa1c-ff06-42fe-a0c0-aef7418fb4a8
+    _key: card-10-13057c83-d61b-448f-bf98-5177d4c12423
 
 ---
 * **‘We will not apologize’: Trump DHS chief defends immigration policy:**  

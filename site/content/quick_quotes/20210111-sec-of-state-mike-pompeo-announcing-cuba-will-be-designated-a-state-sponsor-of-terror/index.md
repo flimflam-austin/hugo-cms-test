@@ -4,29 +4,23 @@ title: >-
   Sponsor of Terrorism.
 slug: >-
   20210111-sec-of-state-mike-pompeo-announcing-cuba-will-be-designated-a-state-sponsor-of-terror
-_id: legacy-d5da2094-1698-4e2e-bf91-42439f7487d5
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-32e4b843-a6df-4beb-b7df-4bdbb50c0cb2
+_rev: ZEyhBiGfgCfwE8WOjbuN87
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/sec-of-state-mike-pompeo-announcing-cuba-will-be-designated-a-state-sponsor-of-terror/
 _createdAt: '2021-01-12T05:26:48Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:19Z'
 date: '2021-01-12T05:26:48+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  Sec. of State Mike Pompeo announcing Cuba will be re-designated a State
-  Sponsor of Terrorism.
 featured_quote:
   quote: >-
     For decades, the Cuban government has fed, housed, and provided medical care
     for murderers, bombmakers, and hijackers, while many Cubans go hungry,
     homeless, and without basic medicine.
-  citation: >-
-    Sec. of State Mike Pompeo announcing Cuba will be re-designated a State
-    Sponsor of Terrorism.
 
 ---
 * Current designated [State Sponsor of Terrorism](https://www.state.gov/state-sponsors-of-terrorism/): Iran, North Korea, Sudan.

@@ -1,16 +1,20 @@
 ---
 title: Another Spotlight Article Example Using the Republic by Plato
 slug: 20190830-another-spotlight-article-example
-_id: legacy-0afa45e6-85a4-40a4-b376-4790b77029d5
-_rev: CRhmwZOx7vxYXrRSdQr7Zu
+_id: legacy-166727f0-ca10-400c-b099-945e21c33f40
+_rev: O8E8pz1fLwnc3fN7JVF8BC
 type: video_posts
 draft: false
 aliases:
   - article/another-spotlight-article-example/
 _createdAt: '2019-07-30T15:51:07Z'
-_updatedAt: '2021-03-16T13:06:00Z'
+_updatedAt: '2021-03-22T13:11:59Z'
 date: '2019-07-30T15:51:07+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    21e86f87e6ee58b8ab0594719897fa3405cc5cae-360x360.jpg
 video_series: Spotlight
 
 ---
@@ -45,10 +49,6 @@ Adeimantus added: Has no one told you of the torch-race on horseback in honour o
 With horses! I replied: That is a novelty. Will horsemen carry torches and pass them one to another during the race?
 
 Yes, said Polemarchus, and not only so, but a festival will be celebrated at night, which you certainly ought to see. Let us rise soon after supper and see this festival; there will be a gathering of young men, and we will have a good talk. Stay then, and do not be perverse.
-
-Glaucon said: I suppose, since you insist, that we must.
-
-Very good, I replied.ay then, and do not be perverse.
 
 Glaucon said: I suppose, since you insist, that we must.
 

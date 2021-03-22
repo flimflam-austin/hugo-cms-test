@@ -1,14 +1,14 @@
 ---
 title: 18.06.24 Podcast
 slug: 20180624-18-06-24-podcast
-_id: legacy-dbf19513-8455-43c9-b2e1-debc688ad84d
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-d45eb030-7f85-40ab-8ab7-d3df279dc049
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-24-podcast/
 _createdAt: '2018-06-24T23:42:59Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-24T23:42:59+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
       [Click Here To
       Listen](http://smarthernews.libsyn.com/smarther-news-ep4-where-we-started-vs-where-we-end-up)
     citation: Click Here To Listen
-    _key: card-1-a760fd3c-1623-4282-a915-fd9c4d33c6ac
+    _key: card-1-ecb210c2-cbcc-4a61-b845-a1e9891ff981
   - order: 1
     body: >-
       Historical context matters - What remaining questions do you have about
@@ -35,7 +35,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-24-podcast/)
-    _key: card-10-338a5661-355b-47c0-aaff-1c517281ec5a
+    _key: card-10-d9dc2248-cd5c-4105-8b2e-060607c883c6
 
 ---
 SmartHER News Podcast:

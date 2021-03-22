@@ -1,14 +1,14 @@
 ---
 title: 18.08.14 Qq
 slug: 20190905-18-08-14-qq
-_id: legacy-67426aa2-2722-4169-aeb9-1e9d79c6b3ca
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-63e7ff5c-96a1-49ea-900d-e171916f35f8
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-14-qq/
 _createdAt: '2018-08-14T11:54:50Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-14T11:54:50+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       cell phones from pre-K to 9th grade. Blanquer has 2 smartphones and says
       he wants to ensure man is the master of the machine - not deny tech
       advancements.
-    _key: card-1-4e107321-e236-499b-b9ba-bbf806ae4d31
+    _key: card-1-3295434a-75d3-44bf-9968-96cb1ae39c83
   - order: 1
     body: >-
       > “I’ve been sleeping next to this kidney for thirty years. It knows me.A
@@ -43,7 +43,7 @@ cards:
       wasn't a perfect match. After their surgeries, the Seattle couple said "We
       can truly say we are a team. We were a team before, but now we're really a
       team."
-    _key: card-2-429c72b8-6db9-4ec1-9776-9ef83abcd1f8
+    _key: card-2-a95ef78b-46ce-4e1b-9a0c-38e0ad197953
   - order: 2
     body: >-
       > “I’ll just leave that to your imagination.”  
@@ -54,10 +54,10 @@ cards:
       discussing (or not) how she covertly recorded her December 2017 firing by
       White House Chief of Staff John Kelly in the Situation Room. She alleges
       the President is not fit for office.
-    _key: card-3-474f528d-d439-470f-ab60-b61f89d7e805
+    _key: card-3-d788846e-dda7-431a-bb80-083a662aeaf1
   - order: 3
     body: "> ‘The very idea a staff member would sneak a recording device into the White House Situation Room, shows a blatant disregard for our national security a\x13 and then to brag about it on national television further proves the lack of character and integrity of this disgruntled former White House employee.”  \n  \n  \n  \nWH Press Sec. Sarah Huckabee Sanders in response to Omarosa Manigault Newman's first national interviews."
-    _key: card-4-95ed37df-0c72-43c8-b867-766bd8bd7138
+    _key: card-4-66ddc312-c184-4b8e-b65f-6fdb68c66452
   - order: 4
     body: >-
       Check out our source page for a SmartHER Take on kids and cell phones. Do
@@ -66,7 +66,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-14-qq/)
-    _key: card-10-6054f21f-5954-4f0b-9c9d-6621d437589b
+    _key: card-10-56707a29-e226-4b04-b81d-9fa7906b6e1f
 
 ---
 * **CHECK OUT A SmartHER Take to Cell Phones & Our Kids:**  

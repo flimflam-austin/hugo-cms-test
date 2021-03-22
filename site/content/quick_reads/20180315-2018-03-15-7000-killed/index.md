@@ -1,14 +1,14 @@
 ---
 title: 2018.03.15 7,000 Killed
 slug: 20180315-2018-03-15-7000-killed
-_id: legacy-651a5e20-34d3-4026-937d-a9a122d0c90a
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-438fea3f-90eb-4ace-beab-115a12c00f63
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 2018-03-15-7000-killed/
 _createdAt: '2018-03-15T12:00:57Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-15T12:00:57+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
       since FL high school shooting.
 
       * **Flip card for a closer look at “gun violence” & theA 7,000 stat**
-    _key: card-1-cfeb4924-db81-4148-81e9-a8f5fe0610d2
+    _key: card-1-cb066192-d09d-4ee3-aa32-978e30736175
   - order: 1
     body: >-
       # “Gun Violence”
@@ -46,7 +46,7 @@ cards:
 
       * Defined by advocacy groups as: “a crime committed with a firearm” **not
       limited to murder or suicide**.
-    _key: card-2-5cda3169-5b2e-416e-bc9d-d01013fec39d
+    _key: card-2-b43b8615-b8f5-458e-9a17-4ea55eac8898
   - order: 2
     body: >-
       Deaths By Firearms  
@@ -64,7 +64,7 @@ cards:
       [Click for the
       study:](http://pediatrics.aappublications.org/content/pediatrics/early/2017/06/15/peds.2016-3486.full.pdf)
     citation: 'Click for the study:'
-    _key: card-3-8a0c6c66-0286-4d06-9ded-42b31cd810ee
+    _key: card-3-3869964c-2315-4477-9788-cac86c6da34f
   - order: 3
     body: >-
       Doing the Math:  
@@ -80,7 +80,7 @@ cards:
 
       * REMINDER: This includes **ALL deaths related to firearms – NOT just
       school shootings**.
-    _key: card-4-e80f67ed-191b-40c7-ad90-9368b8fbcb15
+    _key: card-4-d3cc6086-524a-491b-8419-8e7fd5aa443a
   - order: 4
     body: >-
       Children & Firearm Deaths  
@@ -98,7 +98,7 @@ cards:
 
       Flip For Bottom Line
     citation: Flip For Bottom Line
-    _key: card-5-aa96ddbe-11ab-4da4-bd17-6063b18c6ed7
+    _key: card-5-fa9bcc99-c0db-427b-a5ad-d3ff8bd5631a
   - order: 5
     body: >-
       Bottom Line  
@@ -111,7 +111,7 @@ cards:
 
       * The 7,000 figure is **not limited to school shootings or even murders**.
       It includes a variety of other crimes, including accidents & suicides.
-    _key: card-6-9712c6e0-c5f4-4943-b236-2d5857feb0d9
+    _key: card-6-7468ad3b-cfcd-4fe0-91ac-3fdf569152b7
   - order: 6
     body: >-
       On March 24, protestors will march on Washington for the March For Our
@@ -119,7 +119,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/2018-03-15-7000-killed/)
-    _key: card-10-0fb2fc14-98e0-4bae-a7ca-d5f87e255132
+    _key: card-10-e31fa5d2-b597-4f6c-92cd-30f43b9185ac
 
 ---
 * American Academy of Pediatrics onA Childhood Firearm Injuries in the United States: [http://pediatrics.aappublications.org/content/pediatrics/early/2017/06/15/peds.2016-3486.full.pdf](http://pediatrics.aappublications.org/content/pediatrics/early/2017/06/15/peds.2016-3486.full.pdf)

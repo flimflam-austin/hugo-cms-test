@@ -1,14 +1,14 @@
 ---
 title: 18.12.2 Week Ahead
 slug: 20181202-week-ahead-2
-_id: legacy-b2d67e64-940e-4dd4-8713-e8b1821d0d52
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-0b277bda-7333-45cd-90c0-e5bb004239bb
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - week-ahead-2/
 _createdAt: '2018-12-02T23:52:51Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-12-02T23:52:51+00:00'
 weight: 50
 featured_image:
@@ -24,13 +24,13 @@ cards:
 
       Dec 2 - 9
     citation: Dec 2 - 9
-    _key: card-1-3da32da7-faed-4b13-b18b-46b7045e9124
+    _key: card-1-bd9a3c97-8235-44ce-a65a-3e57cb65d535
   - order: 1
     body: |-
       Check out our source page for the full rundown!
 
       [view sources](https://smarthernews.com/week-ahead-2/)
-    _key: card-10-1a101022-02ba-4f00-b4f3-eb2d1d63b1f0
+    _key: card-10-ebe1e7be-8064-4b1f-a93f-b8543777d29d
 
 ---
 # SHNWeekAheadA TH\u001f\u0017\u0013A Notable news events to kick off yourA weekA feeling #SmartHER. Watch our feed or SmartHERNews.com for updates on these stories allA weekA long.A TH\u001f\u0015

@@ -1,14 +1,14 @@
 ---
 title: Kavanaugh Haunted by Allegation From High School
 slug: 20180918-18-09-18-kavanaugh-haunted-by-allegation-from-high-school
-_id: legacy-ee2390ce-08da-4906-8f2f-6119a7f0f531
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-ce524e0f-049e-46e8-9590-d93733208e09
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-18-kavanaugh-haunted-by-allegation-from-high-school/
 _createdAt: '2018-09-18T11:52:58Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-18T11:52:58+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Why It Matters
     citation: Why It Matters
-    _key: card-1-f659425f-c315-4ec1-beb5-45f0fddaa63b
+    _key: card-1-6cabe479-f5ac-463e-99b5-bb8d36b12ca3
   - order: 1
     body: >-
       ## What’s At Stake?
@@ -47,7 +47,7 @@ cards:
 
       * Kavanaugh described as a “conservative” judge, which would tip the court
       to the “right.”
-    _key: card-2-2c859311-c9c4-4d23-9862-fdedc862603e
+    _key: card-2-1704b264-5238-4cb8-b499-1f2ac361e53d
   - order: 2
     body: >-
       * **July**: Accuser calls newspaper tip line when Judge Kavanaugh
@@ -58,7 +58,7 @@ cards:
       declines coming forward. Feinstein refers letter to feds.
 
       * Story leaks **after** Senate Judiciary Hearing ends.
-    _key: card-3-cb28c7a4-cd47-4dca-b9eb-46f678a28b49
+    _key: card-3-51aabca6-4a33-431a-beb7-18849dc7b723
   - order: 3
     body: >-
       > ‘I thought he might inadvertently kill me. He was trying to attack me
@@ -71,10 +71,10 @@ cards:
       trapped her in a room. She doesn't remember exact date or place - says
       everyone was drinking. She claims Kavanaugh's friend Mark Judge jumped on
       top of them, causing them all to fall, and she freed herself.
-    _key: card-4-fed314cb-57a7-4af0-8e5c-00e89e05db73
+    _key: card-4-976498e6-7792-4481-904c-fa2ec227faf4
   - order: 4
     body: "> ‘I have never done anything like what the accuser describes a\x14 to her or to anyone. Because this never happened, I had no idea who was making this accusation until she identified herself…’  \n  \n  \n  \nJudge Brett Kavanaugh"
-    _key: card-5-9ff0ff16-446e-4545-90f5-39738ec71ea5
+    _key: card-5-4e1dbd8b-7fe3-4f3b-a94a-0b27d1c37592
   - order: 5
     body: >-
       > ‘It’s just absolutely nuts. I never saw Brett act that way.”  
@@ -85,7 +85,7 @@ cards:
       when the assault happened. Judge wrote a book about recovering from
       alcoholism. He has written for conservative news outlets; the accuser has
       donated to democratic campaigns.
-    _key: card-6-0b7cba44-a3a2-4e1e-ab84-732f2c50df2d
+    _key: card-6-fa873806-ba99-4ef7-b630-590b88feee45
   - order: 6
     body: >-
       ## Timing Matters
@@ -99,7 +99,7 @@ cards:
 
       * **DemocratsA** want to delay vote; if Senate flips to Dem majority after
       midterms they can block Kavanaugh’s confirmation.
-    _key: card-7-e58013aa-8aac-4999-a44e-4b1b36122c56
+    _key: card-7-d6e5e663-370b-441f-8f5f-c2a08f91630f
   - order: 7
     body: >-
       ## Some Things To Consider:
@@ -112,7 +112,7 @@ cards:
       will share her story with the Senate.
 
       * No other accusers have come forward at this time.
-    _key: card-8-6f1c561f-6940-4707-9f0b-f21f51a2486d
+    _key: card-8-d43e8dca-30d1-49c4-8c8a-111f7f1be94b
   - order: 8
     body: >-
       On Monday, Sept 24th, the Senate Judiciary Committee will hold a public
@@ -122,7 +122,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-09-18-kavanaugh-haunted-by-allegation-from-high-school/)
-    _key: card-10-bbc4da2f-6748-4c02-85fd-0eac62d4c139
+    _key: card-10-4319aeca-edfb-4bcc-93b4-154079bc0780
 
 ---
 * **California professor, writer of confidential Brett Kavanaugh letter, speaks out about her allegation of sexual assault:**  

@@ -1,14 +1,14 @@
 ---
 title: 2018.3.21 Puppy Pride
 slug: 20180322-2018-3-21-puppy-pride
-_id: legacy-7951b6d4-f4d5-4fa0-8ab1-1e104ce34e80
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-f135c9f4-8b5c-4881-b3cc-edf2300836e4
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 2018-3-21-puppy-pride/
 _createdAt: '2018-03-21T13:16:00Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-21T13:16:00+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       And the Top Dog is...
     citation: And the Top Dog is...
-    _key: card-1-10bca704-63ea-4b7f-be4f-deee92a0b0b0
+    _key: card-1-4d543244-1d3d-4cfa-b185-8e2f9740149b
   - order: 1
     body: >-
       ## The Labrador Retriever
@@ -48,7 +48,7 @@ cards:
 
       * American Kennel Club has named the Labrador the top breed for
       26-straight years.
-    _key: card-2-60ef36d5-1e19-4124-986b-ae858358a47e
+    _key: card-2-0cf66f57-144a-42f4-ae04-2744d0397099
   - order: 2
     body: >-
       # PETA isn’t Happy
@@ -61,7 +61,7 @@ cards:
         
         
       Ingrid Newkirk, PETA president
-    _key: card-3-5366fc89-c8bf-4a75-b692-ee169eb781ca
+    _key: card-3-3e1f1d8d-e8c0-4e48-a9d0-129d53ea66c3
   - order: 3
     body: >-
       # Ohio’s “Lab” Test
@@ -77,7 +77,7 @@ cards:
 
       do you have a state dog?
     citation: do you have a state dog?
-    _key: card-4-11ade28d-c433-442e-b83f-9b7c527aa93d
+    _key: card-4-ca9a00a0-9f56-45db-9c68-46de86d3599f
   - order: 4
     body: >-
       ## 12 Recognized State Dogs
@@ -89,7 +89,7 @@ cards:
       **N. Carolina** (Plott hound), **Pennsylvania** (Great Dane), **S.
       Carolina** (Boykin spaniel), **Texas** (Blue Lacy), **Virginia** (American
       foxhound) & **Wisconsin** (American water spaniel).
-    _key: card-5-f200a95f-ca3e-4803-a2ca-5c0a32b4037f
+    _key: card-5-652d501d-3c0c-42c2-a400-4cac520a3ecf
   - order: 5
     body: >-
       Ohio may not have a state dog, but did you know it has a state amphibian?
@@ -97,7 +97,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/2018-3-21-puppy-pride/)
-    _key: card-10-22d5696e-7f52-41b8-a9ed-833b5cad17d1
+    _key: card-10-d5273403-4d5a-4230-9244-ac14c9daf1e4
 
 ---
 * A labrador retriever may soon become Ohio’s state dog, and it couldn”t be a better fit: [https://www.cincinnati.com/story/news/2018/03/16/may-soon-become-ohios-state-dog-and-couldnt-better-fit/425274002/](https://www.cincinnati.com/story/news/2018/03/16/may-soon-become-ohios-state-dog-and-couldnt-better-fit/425274002/)

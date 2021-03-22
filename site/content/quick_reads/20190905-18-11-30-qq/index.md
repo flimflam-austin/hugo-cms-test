@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for Friday, November 30, 2018
 slug: 20190905-18-11-30-qq
-_id: legacy-f8c4d227-c991-408e-8202-93f18d0c5ac2
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-b9d63464-4107-4ae5-9b09-c496c277772c
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - 18-11-30-qq/
 _createdAt: '2018-11-30T13:21:06Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-11-30T13:21:06+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       MVP responded with a handwritten letter promising to "correct it now,"
       sending her a pair, and assuring her she'll be one of the first to get the
       next edition basketball shoe.
-    _key: card-1-671c862b-2aa9-417e-93c6-776eabab06e4
+    _key: card-1-1685869b-e8a3-4643-b64d-b12220a957bc
   - order: 1
     body: >-
       > ‘The moon represents a proving ground, it’s the way we can reduce risk,
@@ -43,7 +43,7 @@ cards:
       orbit the moon allowing humans to go back and forth to its surface in
       practice for landing on Mars. NASA hasn't been to the moon since 1972, but
       says it will have continuous presence within 10 years.
-    _key: card-2-d73df758-6e61-4040-b4b2-949ec8a9a2f1
+    _key: card-2-c1d6775e-8c6d-44bd-bf02-7c6e66142626
   - order: 2
     body: >-
       > ‘Given the due diligence that was done … I am very hopeful that we won’t
@@ -56,7 +56,7 @@ cards:
       burned structures in the search for victims. Three weeks after it began,
       the death toll stands at 88, but it is still not clear why 200 remain
       missing. Heavy rains are now impacting the area causing flooding.
-    _key: card-3-d7f37e23-96fe-4e60-90df-4edc0d1a07ec
+    _key: card-3-123f5389-d3a5-4123-831b-e8aa242bead4
   - order: 3
     body: >-
       > “I’m open to making a deal. But, frankly, I like the deal we have right
@@ -70,16 +70,16 @@ cards:
       will signal whether the world's two largest economies can resolve their
       differences and perhaps lower the combined hundreds of billions in tariffs
       currently imposed.
-    _key: card-4-2df35060-8675-4003-8d74-ae51751c7ebd
+    _key: card-4-df60029c-ac8b-44d3-b661-40eb4a94592e
   - order: 4
     body: "> “…I believe very much in Christmas.A That’s how I express myself a\x14A through my lights.”  \n  \n  \n  \nThomas Apruzzi of Old Bridge, NJ. His family's annual Christmas light display has taken place for at least 15 years & attracts throngs of onlookers. The town says the holiday display costs taxpayers at least $45K for resources to ensure traffic and pedestrian safety. Town officials want Apruzzi to foot the cost; Apruzzi believe his lights reflect his freedom of expression and he won’t pay."
-    _key: card-5-60857a5c-850f-45ba-80a9-ef459c2290f1
+    _key: card-5-fce5e8b8-09d9-492b-9368-8e75c117a0cf
   - order: 5
     body: |-
       Have a great weekend!
 
       [view sources](https://smarthernews.com/18-11-30-qq/)
-    _key: card-10-1e54c78b-587d-4e25-b22d-1f3c289ede30
+    _key: card-10-ab95f2ca-d691-4dda-96f7-9f27ccd330af
 
 ---
 * Stephen Curry makes shoes available to girls online after letter:  

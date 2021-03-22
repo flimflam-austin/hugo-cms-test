@@ -1,14 +1,14 @@
 ---
 title: 'On This Day in 1787: u.s. Constitution Signed'
 slug: 20200908-18-09-17-constitution-day
-_id: legacy-55e9bc4a-8730-478d-b780-a10120bce6fb
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-f75b0758-4c1a-4c8d-bf02-8747e0b838aa
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-09-17-constitution-day/
 _createdAt: '2018-09-17T11:53:56Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-09-17T11:53:56+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Our nation’s founding document is the **world’s longest surviving**
       written charter of government.
-    _key: card-1-61a0b755-1411-4e0b-baa0-1f51fb1fbad3
+    _key: card-1-75e2f070-11e0-4b38-9b26-3555a3557ea4
   - order: 1
     body: >-
       ## The Constitutional Convention
@@ -44,7 +44,7 @@ cards:
 
       * **Why:** Establish our federal gov’t (executive, judicial, legislative)
       and divide power between the federal gov’t & states.
-    _key: card-2-4c819861-d56e-4616-93c5-4b4dc4bff91f
+    _key: card-2-546647a6-b783-41e4-9818-43352fccbb18
   - order: 2
     body: >-
       # DID YOU KNOW?
@@ -58,7 +58,7 @@ cards:
 
       * The Constitution has been **amended 27 times**, most recently in 1992
       (re: lawmaker pay).
-    _key: card-3-14566e8c-566a-41ed-8472-6476c63b6ad1
+    _key: card-3-f49c1316-9b6a-4451-a69e-cbd67f6e9c84
   - order: 3
     body: >-
       > “We the People of the United States, in Order to form a more perfect
@@ -70,7 +70,7 @@ cards:
         
         
       Preamble to the U.S. Constitution
-    _key: card-4-0aa048f7-6b74-41b6-ab28-e3062808d8f4
+    _key: card-4-6f3e59a6-2e3b-4ec0-9285-f8ae8fa91f27
   - order: 4
     body: >-
       In June 1788, New Hampshire became the 9th of 13 states to ratify the
@@ -78,7 +78,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-17-constitution-day/)
-    _key: card-10-402ca782-5048-42b1-a658-762aa22a9f58
+    _key: card-10-d2061fb5-bc65-49c9-8703-106f1c855832
 
 ---
 * **United States Constitution:**  

@@ -1,14 +1,14 @@
 ---
 title: 18.08.22 Qq
 slug: 20190905-18-08-22-qq
-_id: legacy-df538a7b-6f26-4c00-a9be-e1ad7e8e7459
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-4b1ad164-8cc3-4dde-8894-6b79bdee276a
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-22-qq/
 _createdAt: '2018-08-22T11:59:33Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-22T11:59:33+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       hit the islands in 1992, as Hurricane Lane approaches. The path of Lane, a
       Category 5 hurricane, remains uncertain but has the Hawaiian islands in
       its path for now.
-    _key: card-1-c1e092b3-e937-43e1-8a94-51a79b9aec41
+    _key: card-1-b318b4f0-7009-4027-9bf2-7b57fda682fd
   - order: 1
     body: >-
       > ‘We are angry that a broken immigration system allowed a predator like
@@ -41,7 +41,7 @@ cards:
       Iowa Governor Kim Reynolds (R), as authorities reveal missing Univ. of
       Iowa student Mollie Tibbetts (20) was found dead. An illegal immigrant
       from Mexico confessed to her kidnapping & murder.
-    _key: card-2-448a159c-3593-4423-989e-92c316582217
+    _key: card-2-429acd90-e355-4fb9-9694-0ea22fb6e00b
   - order: 2
     body: >-
       > “…DUNCAN HUNTER told MARGARET HUNTER that he was planning to buy Hawaii
@@ -53,7 +53,7 @@ cards:
         
       Federal indictment of Congressman Duncan Hunter (R-CA) & his wife,
       Margaret. Hunter is a veteran & often championed veterans causes.
-    _key: card-3-3b65581d-1f4b-48ed-87cb-3348650ff5d4
+    _key: card-3-7eaa7786-aa00-44f2-84df-a366c33a1e6c
   - order: 3
     body: >-
       > “Get ready for the best semester of your life.”  
@@ -64,10 +64,10 @@ cards:
       those with an ".edu" email address called "Tinder U." This is part of a
       bigger trend for companies like Tinder and Facebook to attract younger
       users.
-    _key: card-4-b4567571-105c-4dfe-ad26-f9929e8035fe
+    _key: card-4-575719a4-7fbc-477c-a8fc-b2e7a9ba662b
   - order: 4
     body: '[view sources](https://smarthernews.com/18-08-22-qq/)'
-    _key: card-10-a21197ee-d4b9-46b0-b7da-72a80289bbb1
+    _key: card-10-594242bd-5cef-4ddb-9bfb-348f03881b11
 
 ---
 * **Hawaii residents brace themselves as hurricane strengthens:** [https://apnews.com/2d105a149a6946c8b9c3afdda37ea234](https://apnews.com/2d105a149a6946c8b9c3afdda37ea234)

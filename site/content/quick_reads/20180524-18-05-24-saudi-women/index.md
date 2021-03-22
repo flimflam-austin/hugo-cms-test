@@ -1,14 +1,14 @@
 ---
 title: 18.05.24 Saudi Women
 slug: 20180524-18-05-24-saudi-women
-_id: legacy-5149d0ae-a1e0-41c9-8de0-46dcc051c1c5
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-bcab3476-618d-49c9-8c91-8c9026829242
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-24-saudi-women/
 _createdAt: '2018-05-24T10:16:24Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-24T10:16:24+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       What's Going On
     citation: What's Going On
-    _key: card-1-665f0ea1-4fd5-4703-a268-c2ba60f84375
+    _key: card-1-8b978f71-4440-4566-b453-d3e7e501cfb2
   - order: 1
     body: >-
       ## “Ban” Basics
@@ -46,7 +46,7 @@ cards:
       [Click:
       Watch](https://twitter.com/SaudiEmbassyUSA/status/987824525894209536)
     citation: 'Click: Watch'
-    _key: card-2-dc33ea2a-c6ea-4551-b2f9-18e08993c018
+    _key: card-2-0667eaf8-5116-48a1-9cc0-eb661b39ace1
   - order: 2
     body: >-
       Saudi Arabia follows ‘**Wahhabism**‘, a form of Islam that says women:
@@ -58,7 +58,7 @@ cards:
 
       * be accompanied by a male guardian (usually a relative or husband) unless
       they receive written permission from a male guardian
-    _key: card-3-63f37973-d331-4425-8d15-389fa01e354a
+    _key: card-3-45321794-12e6-476f-a95e-a13437850785
   - order: 3
     body: >-
       ## Why Now?
@@ -72,7 +72,7 @@ cards:
 
       * Women under arrest reportedly called “**traitors**” by govt but **little
       other explanation exists**.
-    _key: card-4-d2b2e03f-826e-4e52-8e21-d62a05f8194f
+    _key: card-4-5e4841ec-5f98-477a-9298-f6c1680e3e1c
   - order: 4
     body: >-
       Rights activists say they (the women) are being targeted because the
@@ -81,7 +81,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-24-saudi-women/)
-    _key: card-10-a4d98768-5f37-4cbf-a90e-d4e40d6ed8b1
+    _key: card-10-f980b7c1-3e89-49a2-b8fd-75df3d22daf5
 
 ---
 * Saudi Women Reunite To Remember Driving Protest: [https://www.npr.org/templates/story/story.php?storyId=97541372](https://www.npr.org/templates/story/story.php?storyId=97541372)

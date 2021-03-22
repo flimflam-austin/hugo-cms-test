@@ -1,14 +1,14 @@
 ---
 title: The State of Our Union
 slug: 20190206-what-did-the-state-of-the-union-address-deliver
-_id: legacy-cda7414f-dd5d-45fd-882b-92d3f833c443
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-62924b96-53b9-42e8-8d87-997d5d132dc6
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - what-did-the-state-of-the-union-address-deliver/
 _createdAt: '2019-02-06T14:04:36Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-02-06T14:04:36+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Highlights
     citation: Highlights
-    _key: card-1-1fa6976e-bd70-4191-b7c4-218528b841e6
+    _key: card-1-30e6aca6-2db9-4868-a81f-4942c03777e0
   - order: 1
     body: >-
       ## “American Greatness”
@@ -45,7 +45,7 @@ cards:
 
       **Notable**: Opening of speech provided moments for both Democrats &
       Republicans to cheer, about the nation & economy.
-    _key: card-2-3150da34-c27d-493f-ab79-3a29e6cfa1e8
+    _key: card-2-4f4e889f-4694-49e9-8d5f-f9265f08f1cc
   - order: 2
     body: >-
       > “We can bridge all divisions, heal old wounds, build new coalitions,
@@ -57,7 +57,7 @@ cards:
         
         
       Pres. Trump delivered speech one week delayed due to gov't shutdown.
-    _key: card-3-cad15920-99e3-4565-b262-3d731cb280eb
+    _key: card-3-c8cde9d4-a5f5-4309-8f8e-cf729d296e72
   - order: 3
     body: >-
       ## DOMESTIC ISSUES:
@@ -72,7 +72,7 @@ cards:
 
       * **New Bills:** Infrastructure spending, transparency in prescription
       drugs to lower prices
-    _key: card-4-1c3e65c6-a016-4b83-b36d-74e957a914f9
+    _key: card-4-c41a79dd-8f83-46af-890f-d547ad98c26c
   - order: 4
     body: >-
       ## FOREIGN AFFAIRS:
@@ -86,7 +86,7 @@ cards:
       * **Syria & Afghanistan**: _“Great nations do not fight endless wars.”A_
       President says U.S. negotiating with _“a number of Afghan groups, incl.
       the Taliban.”_
-    _key: card-5-ec77c34e-9478-4429-bb12-c32925331a81
+    _key: card-5-66b6d91e-69cb-4a7f-a0af-915f11595408
   - order: 5
     body: >-
       ## Lighter Moments of Note:
@@ -99,7 +99,7 @@ cards:
       Democrat congresswomen who wore “suffragette white” for womenA cheered
       when the Republican president mentioned recent victories in female
       employment & representation in gov’t.
-    _key: card-6-d959a1d4-2481-4130-b6f1-42cd8d022906
+    _key: card-6-9ea09c18-a3f4-4a67-87c6-f1e35d13022e
   - order: 6
     body: >-
       ## Democrat Response
@@ -114,7 +114,7 @@ cards:
         
       Stacey Abrams, fmr. GA gubernatorial candidate & the first
       African-American woman to deliver the State of the Union response.
-    _key: card-7-76a67c35-595a-40ca-a51a-e3548c21648c
+    _key: card-7-3c309e23-9a46-4e10-9a57-4bd834b13def
   - order: 7
     body: >-
       ## Where Both Sides Agree:
@@ -129,7 +129,7 @@ cards:
 
 
       _Both ended with a version of “Thank You” & “God Bless America.”_
-    _key: card-8-9653f4f8-c4cc-40ff-a95f-b51034ccf7b4
+    _key: card-8-44581f02-3356-4469-8b0a-2240337eda56
   - order: 8
     body: >-
       Last year around 46M Americans watched the State of the Union. For
@@ -140,7 +140,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/what-did-the-state-of-the-union-address-deliver/)
-    _key: card-10-7ea55a4f-1ea9-4d9d-a35d-3a2c2b130883
+    _key: card-10-b604d6a0-1042-40a7-92e8-d89dd3511f01
 
 ---
 * **Trump’s State of the Union address:**  

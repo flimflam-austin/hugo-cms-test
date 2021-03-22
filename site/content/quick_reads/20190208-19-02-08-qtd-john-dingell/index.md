@@ -1,14 +1,14 @@
 ---
 title: 'Quote of the Day: John Dingell'
 slug: 20190208-19-02-08-qtd-john-dingell
-_id: legacy-23d1e5ca-f40a-4ab1-92d5-d11ca7a21c71
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-4fad2a72-71f5-440d-915f-722f5903267d
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 19-02-08-qtd-john-dingell/
 _createdAt: '2019-02-08T14:18:35Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-02-08T14:18:35+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       John Dingell
     citation: John Dingell
-    _key: card-1-7700482a-521f-498d-8ba1-592ec315eb6c
+    _key: card-1-28a79609-e882-49b3-a9a0-5959c3b963dd
   - order: 1
     body: >-
       On Thursday, former U.S. Representative John Dingell, the longest-serving
@@ -36,7 +36,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/19-02-08-qtd-john-dingell/)
-    _key: card-10-f282ef73-67ca-45e0-8216-50a34b86d017
+    _key: card-10-6d2164c9-bf45-45d2-951d-b3b915be7c22
 
 ---
 * **The Honorable John Dingell, Jr. Oral History Interview:**  

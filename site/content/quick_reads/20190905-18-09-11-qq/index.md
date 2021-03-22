@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for Tuesday, September 11
 slug: 20190905-18-09-11-qq
-_id: legacy-2c48177a-a258-4b3b-a5ea-7853ef849e19
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-41980c03-3464-4e02-94be-64b99c478a8b
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-11-qq/
 _createdAt: '2018-09-11T12:00:09Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-11T12:00:09+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       subway stop, entombed until 2015, just opened 17 years after 9/11. A
       mosaic in the station displays text from the Declaration of Independence &
       the UN Universal Declaration of Human Rights.
-    _key: card-1-ef6c4f0c-a532-4af1-96f4-c3eefd963238
+    _key: card-1-4c214329-e5d6-4242-9ff3-48aa5a9e07d6
   - order: 1
     body: >-
       > “To the incredible citizens of North Carolina, South Carolina and the
@@ -43,7 +43,7 @@ cards:
       President Trump, Twitter, as Hurricane Florence spins toward the East
       coast of the United States. In the Pacific, Hurricane Olivia threatens
       Hawaii.
-    _key: card-2-0eddd0e9-dff5-44be-aa94-d64c0fc9bdfb
+    _key: card-2-fa585af2-3796-4cad-8dc0-bc7c27f357ab
   - order: 2
     body: >-
       > ‘It is absurd to imagine my husband engaging in espionage by researching
@@ -56,7 +56,7 @@ cards:
       Hua Qu, wife of Xiyue Wang, a Princeton University graduate student
       currently in prison in Iran; 1 of 4 known Americans detainees. The UN
       Rights Group just appealed for his release.
-    _key: card-3-31c85263-74cd-4038-9b40-5be75caa85d7
+    _key: card-3-56bfddd6-35ad-437e-9cba-05c131346af8
   - order: 3
     body: >-
       > “Who wants to take it? C’mon hurry! You gotta go fast!”  
@@ -72,10 +72,10 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/qhejwuDLr24?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-4-aa2dbf5c-1e13-4fb6-86ed-15559642472d
+    _key: card-4-e909b2b1-3c1c-458e-a39a-aecb0a87b680
   - order: 4
     body: '[view sources](https://smarthernews.com/18-09-11-qq/)'
-    _key: card-10-985bb662-6cd7-4bdb-a1dc-aa44c1a5a146
+    _key: card-10-cc0daf57-496b-4c6d-ae54-063fd56bd684
 
 ---
 * **Cortlandt Street subway station reopens 17 years after 9/11:**  

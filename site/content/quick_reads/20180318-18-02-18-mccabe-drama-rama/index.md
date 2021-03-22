@@ -1,14 +1,14 @@
 ---
 title: 18.02.18 Mccabe Drama-Rama
 slug: 20180318-18-02-18-mccabe-drama-rama
-_id: legacy-a02d1f29-8410-4a13-a500-2deb8f096037
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-cfd74f7d-68eb-46bb-b4f6-5af9dfca05a9
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-18-mccabe-drama-rama/
 _createdAt: '2018-03-19T12:00:52Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-19T12:00:52+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       Who. What. Why.
     citation: Who. What. Why.
-    _key: card-1-913dbe45-0450-4e2f-a60c-af8b68b543df
+    _key: card-1-dca63898-19c7-419a-af98-fd85850a41d2
   - order: 1
     body: >-
       ## Why This Matters
@@ -47,17 +47,17 @@ cards:
       of the FBI tried to unfairly influence investigations based on political
       beliefs. If the conclusion is yes, that means corruption at the highest
       law enforcement agency in America. **Answer: TBD**
-    _key: card-2-79854190-cfa9-4637-96a7-fc13aef05407
+    _key: card-2-9ee9c439-f1d3-4e38-9688-9cce7fe15dcf
   - order: 2
     body: "Andrew McCabe\n\n* **Served** more than 20 years in FBI, rose from street agent in NYC to Deputy Director in DC.\n* **Stepped-down** from Deputy Director position in January a\x13 allowed to stay part of FBI on terminal leave.\n* **Fired** Friday, March 16, 2018, 2 days ahead of his expected retirement on March 18th."
-    _key: card-3-7e4532e8-4978-4959-86e1-ba303217f0f7
+    _key: card-3-e75c442d-c39d-40ad-bf7a-b982eeedae95
   - order: 3
     body: "Why McCabe Was Fired:  \nLEAKS & LYING\n\n> “Mr. McCabe had made an unauthorized disclosure to the news media and lacked candor a\b\x12 including under oath a\b\x12 on multiple occasions.”  \n  \n  \n  \nAttorney General Jeff Sessions, Press Release, March 16, 2018\n\n[Click: Full Statement](https://www.reuters.com/article/us-usa-trump-sessions-statement/statement-by-attorney-general-on-firing-of-fbis-mccabe-idUSKCN1GT04O)"
     citation: 'Click: Full Statement'
-    _key: card-4-7fd4c349-ac34-4123-9465-e1d13f684025
+    _key: card-4-b01b8782-419f-45a2-8b31-41df2c8c0203
   - order: 4
     body: "## How It Happened: DOJ\n\n* Termination recommended by Inspector General (IG appointed by President Obama).\n* Agreed by an additional DOJ members (Office of Professional Responsibility a\x13 Counsel appointed by Obama).\n* Ultimately decision up to Attorney General (President Trump appointee)."
-    _key: card-5-2dc53a5f-89fe-4ff6-acf5-de4e80eefd32
+    _key: card-5-93ec355f-bc30-4a1c-b2f1-80084e2ebee9
   - order: 5
     body: >-
       Name-To-Know:  
@@ -72,7 +72,7 @@ cards:
 
       * Major Tasks: Reviewing FBI’s investigation into Hillary Clinton’s use of
       a private email server & Trump/Russia meddling.
-    _key: card-6-ac1977b4-0c32-4e52-8c34-8b572a5c794a
+    _key: card-6-50cdf666-e82e-44dc-9d66-1042a4ad9751
   - order: 6
     body: >-
       What We Don’t Know:  
@@ -85,7 +85,7 @@ cards:
       * **Timing matters:** Did recommendation come recently, as catalyst behind
       Friday night firing? Or weeks ago and timing chosen by Attorney General
       Sessions right before McCabe’s retirement?
-    _key: card-7-7a2c3144-e3c4-46e2-938d-9f708f26f518
+    _key: card-7-f7290453-13dc-44ac-adaf-0b606e1e027b
   - order: 7
     body: >-
       ## What McCabe Says:
@@ -103,10 +103,10 @@ cards:
       [Read Full
       Statement:](https://www.cnn.com/2018/03/16/politics/mccabe-fired-statement-fbi-deputy-director/index.html)
     citation: 'Read Full Statement:'
-    _key: card-8-6f5b8bef-0c4e-4383-871e-d5667e6d5538
+    _key: card-8-d3a7f61f-4808-4c65-b227-7e93949c8bc0
   - order: 8
     body: "## McCabe’s Claim:\n\n* Says his firing is part of Trump Administration’s “_ongoing war with FBI and special counsel investigation”_.\n* Insinuates he supports former FBI Dir James Comey claim that Pres. Trump told him to drop the investigation into Russia collusion a\x13 amongst other potentially unethical or illegal actions."
-    _key: card-9-ddd261dc-fe6b-43a1-a4e2-f798727169dc
+    _key: card-9-5997e3e1-56dd-4cf4-b524-dc4781c88157
   - order: 9
     body: >-
       Some suggest McCabe's statement on his firing contradicts James Comey's
@@ -114,7 +114,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-18-mccabe-drama-rama/)
-    _key: card-10-9045401c-2d48-404e-83cb-1e722ce03ef4
+    _key: card-10-eb1a43ba-d019-4ae0-92c6-dd2afef9281b
 
 ---
 * FBI’s Andrew McCabe fired days before retirement; Trump applauds Sessions’ move [https://www.usatoday.com/story/news/politics/2018/03/16/fbis-andrew-mccabe-fired-sessions-reports/434385002/](https://www.usatoday.com/story/news/politics/2018/03/16/fbis-andrew-mccabe-fired-sessions-reports/434385002/)

@@ -4,29 +4,25 @@ title: >-
   Weather and Holiday Travel, Meaning We're Unlikely to See a Relaxation of
   Preventative Covid-19 Measures Anytime Soon.
 slug: 20201130-fauci-holiday-travel
-_id: legacy-a7315642-041f-4499-87c4-45ca5054a644
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-f5c81155-5861-4920-93d7-a41e083de2e5
+_rev: f2cVhvAV1wntWw1uaABAwR
 type: quick_quotes
 draft: false
 aliases:
   - article/fauci-holiday-travel/
 _createdAt: '2020-11-30T15:44:11Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:53Z'
 date: '2020-11-30T15:44:11+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    a26d0b99d120b79c82c3feed6d9969942f58634f-2560x1615.jpg
 is_breaking: false
-summary: >-
-  Dr. Fauci on why we’ll likely see a “surge upon a surge” due to the colder
-  weather and holiday travel, meaning we’re unlikely to see a relaxation of
-  preventative COVID-19 measures anytime soon.
 featured_quote:
   quote: >-
     We said that these things would happen, as we got into the cold weather and
     as we began traveling, and they've happened. It's going to happen again.
-  citation: >-
-    Dr. Fauci on why we’ll likely see a “surge upon a surge” due to the colder
-    weather and holiday travel, meaning we’re unlikely to see a relaxation of
-    preventative COVID-19 measures anytime soon.
 
 ---
 * [Dr. Fauci](https://abcnews.go.com/Politics/week-transcript-11-29-20-dr-anthony-fauci/story?id=74446435) added there will “almost certainly” be an uptick in the weeks ahead due to Thanksgiving holiday travel.
@@ -34,4 +30,4 @@ featured_quote:
 * Dr. Fauci advised that those who recently traveled (and are able to do so) should get tested and quarantine.
 * In terms of what state and local governments can do to help slow the spread, he said “close the bars and keep the schools open” – though he also noted there is no one size fits all policy that works for every community.
 * **HELP IS ON THE WAY:** In recent weeks three pharmaceutical companies announced promising clinical trial results for COVID-19 vaccines. On Monday, Moderna joined Pfizer, becoming the second company to apply for emergency use authorization from the FDA for its COVID-19 vaccine.
-  * Health and Human Services Secretary Alex Azar said he expects the U.S. will have 40 million doses of vaccines available for high-risk and vulnerable populations, such as frontline workers, by the end of the year. However, vaccines are not expected to be widely available until next year.ontline workers, by the end of the year. However, vaccines are not expected to be widely available until next year.
+  * Health and Human Services Secretary Alex Azar said he expects the U.S. will have 40 million doses of vaccines available for high-risk and vulnerable populations, such as frontline workers, by the end of the year. However, vaccines are not expected to be widely available until next year.

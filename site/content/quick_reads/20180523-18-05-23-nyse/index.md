@@ -1,14 +1,14 @@
 ---
 title: 18.05.23 Nyse
 slug: 20180523-18-05-23-nyse
-_id: legacy-19f3b4b1-ee2c-4f2a-a88d-462d301fc12c
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-818f9221-fba8-4bc5-b6f9-6af0ec38d086
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-23-nyse/
 _createdAt: '2018-05-23T10:56:01Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-23T10:56:01+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       Perfect timing? The news comes as “Fearless Girl”, a symbol of female
       business prowess, is moved to a new home at the Exchange.
-    _key: card-1-e5cd3979-314d-425f-ab49-f83fe913c3ec
+    _key: card-1-ad53137b-b1be-4a77-afee-73e69b762c52
   - order: 1
     body: >-
       NYSE’S GLASS CEILING  
@@ -45,7 +45,7 @@ cards:
 
       * **2018:** Stacey Cunningham, NYSE’s COO, becomes its 1st female
       President.
-    _key: card-2-f0962083-3f7e-40dd-b80d-689f4e5296b6
+    _key: card-2-d87a700f-f813-4e73-9adf-d0436800d327
   - order: 2
     body: >-
       # Can’t Stand the Heat…
@@ -58,7 +58,7 @@ cards:
       Cunningham started her NYSE career as an intern in 1994, but she took a
       break from the stock exchange to go to culinary school, & has been known
       to whip up grilled peach and burrata snacks in the NYSE’s on-site kitchen.
-    _key: card-3-1c929efd-2a0d-4ea1-bc2b-1460a8e7f252
+    _key: card-3-cf6910d6-422a-4f6a-bccf-3bf679cdb1d1
   - order: 3
     body: >-
       NYSE’s rival stock exchange, NASDAQ, also has a woman CEO, Adena Friedman.
@@ -68,7 +68,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-23-nyse/)
-    _key: card-10-6ddce6c5-b894-4800-9f64-d1d0f0664ef1
+    _key: card-10-a8353171-19ed-4d96-941d-fded4b2a3350
 
 ---
 * **NYSE’s first female president points to gender diversity problem:** [https://www.cnbc.com/2018/05/22/nyses-first-female-president-points-to-gender-diversity-problem.html](https://www.cnbc.com/2018/05/22/nyses-first-female-president-points-to-gender-diversity-problem.html)

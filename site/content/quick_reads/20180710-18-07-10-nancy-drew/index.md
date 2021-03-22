@@ -1,14 +1,14 @@
 ---
 title: 18.07.10 Nancy Drew
 slug: 20180710-18-07-10-nancy-drew
-_id: legacy-2bfc9cca-2c72-4724-afd5-7eff12289e9c
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-d33f642f-8e32-4847-9233-64f49ccb1d0e
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-10-nancy-drew/
 _createdAt: '2018-07-10T11:51:54Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-10T11:51:54+00:00'
 weight: 50
 card_series: On This Day
@@ -28,7 +28,7 @@ cards:
 
       (A.K.A. Carolyn Keene)
     citation: (A.K.A. Carolyn Keene)
-    _key: card-1-94a8b9b5-7c50-42dc-b165-9ee73c50b4fc
+    _key: card-1-d34b94e9-016b-4c72-b8d0-4bbedd9e6876
   - order: 1
     body: >-
       > _“I always wanted to be a writer from the time I could walk.”_  
@@ -44,7 +44,7 @@ cards:
       Univ. of Iowa.
 
       * Her first trip to NYC changed everything…
-    _key: card-2-66ca8c52-a505-4656-a0c4-882bcb94e3b7
+    _key: card-2-0da39a59-d505-4bae-91dd-aa8705858686
   - order: 2
     body: >-
       ## Creating Nancy Drew
@@ -60,7 +60,7 @@ cards:
 
       * Paid **$125 per book**,A **signed away rights to royalties on books,
       movies & board games**.
-    _key: card-3-c20f06e5-e165-4320-a86a-bb70208d1f3e
+    _key: card-3-01c2d171-30d2-42cc-87f5-e101ce8202b3
   - order: 3
     body: >-
       ## Enduring Popularity
@@ -75,7 +75,7 @@ cards:
       anything was possible at a time when females struggled for equality.
 
       * Series still in print, selling over **200M books in 17 languages**.
-    _key: card-4-008bc7d7-f888-40db-b10a-18ead39ab195
+    _key: card-4-2d6c1bb7-dec9-4751-88ce-0957020d0a2a
   - order: 4
     body: >-
       ## Mystery Solved!
@@ -89,7 +89,7 @@ cards:
 
       * In 1980 Benson testified in a court case involving the publisher and her
       name became known.
-    _key: card-5-747bcfb3-a643-4569-94be-483bb07de4a9
+    _key: card-5-e1132fa1-cec8-4dd9-bcba-b447b5d02a39
   - order: 5
     body: >-
       Not only was she a writer & journalist for 58 years (at the AP, Toledo
@@ -99,7 +99,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-10-nancy-drew/)
-    _key: card-10-085d7e19-6e16-434c-8358-039ecda4ed24
+    _key: card-10-0a6fe8d1-58c8-4306-b6b4-7a8f13131d48
 
 ---
 * Nancy Drew Sleuth Fan Website:  

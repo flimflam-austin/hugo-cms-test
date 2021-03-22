@@ -1,14 +1,14 @@
 ---
 title: 18.06.21 Qq Thursday
 slug: 20190905-18-06-21-qq-thursday
-_id: legacy-8f256c53-f8b3-4d32-a532-4c064dd44c7f
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-1cc51f9b-a9db-46bc-a681-6c1201bdf0b0
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-06-21-qq-thursday/
 _createdAt: '2018-06-21T09:00:13Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-06-21T09:00:13+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       trade war with China. Pres. Trump is threatening $200B in tariffs on
       Chinese goods, in addition to $50B in tariffs already imposed. Last month,
       Dalio has said a trade war with China would be a "tragedy."
-    _key: card-1-d3a8506a-cf64-4f56-bf97-406e9d33bffc
+    _key: card-1-64141ae5-5269-47e9-b73f-113c4de3eef1
   - order: 1
     body: >-
       > “To watch those families broken apart in real time puts to us a very
@@ -43,7 +43,7 @@ cards:
       zero-tolerance border policy. His administration cared for unaccompanied
       children identical to "separated" children now. However, his challenge was
       children WITHOUT adults - no separation required.
-    _key: card-2-64e43a7f-58c8-4f30-a75f-e9e6b05155cd
+    _key: card-2-64fd516a-521d-4d18-9217-f0cea4794376
   - order: 2
     body: >-
       > “In obedience I accept the decision of The Holy See, that I no longer
@@ -55,7 +55,7 @@ cards:
       removal from ministry after a teenager's sex abuse allegation while he was
       in New York almost 50 years ago. McCarrick served as D.C.’s archbishop
       from 2001 to 2006.
-    _key: card-3-64489e15-3dd3-4454-990a-c42d5a42928b
+    _key: card-3-9d8ff37c-d96f-411f-a575-ff224b2badf8
   - order: 3
     body: >-
       > “…my parents are abusive. They abuse us, and my two little sisters right
@@ -68,7 +68,7 @@ cards:
       Mr. & Mrs. Turpin have pleaded not guilty to more than 40 charges
       including torture, child abuse & false imprisonment. They are being held
       on $12M bail each.
-    _key: card-4-5f1f459a-b0b7-4578-8594-b014a18ded1c
+    _key: card-4-d2b624cf-1563-4041-8990-d66ebe461712
   - order: 4
     body: >-
       > “It’s mobile first. It’s simple and it’s quality. That’s IGTV.”  
@@ -78,10 +78,10 @@ cards:
       Instagram CEO Kevin System announcing its new video hub capable of hosting
       vertical videos as long as one hour. IGTV, a direct challenge to YouTube,
       is available now on iPhone & Android devices.
-    _key: card-5-043d5c3b-59a7-49cf-8c1e-9e3ae6fe4a09
+    _key: card-5-2267dae1-a8fb-4697-8111-830b22b74fad
   - order: 5
     body: '[view sources](https://smarthernews.com/18-06-21-qq-thursday/)'
-    _key: card-10-b67db843-e3f9-4578-bcfa-cf06676ee94b
+    _key: card-10-d412fabc-c53c-4131-b18b-04cdbdb815a3
 
 ---
 * **Ray Dalio on China Trade Wars:**  

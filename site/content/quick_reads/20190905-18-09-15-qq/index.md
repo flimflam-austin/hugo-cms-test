@@ -1,14 +1,14 @@
 ---
 title: Quick Quotes for Your Weekend
 slug: 20190905-18-09-15-qq
-_id: legacy-853c81bc-834f-46fd-a705-36e4f9271c65
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-77a4f26d-4c90-4163-bf8e-9253a63440e8
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-15-qq/
 _createdAt: '2018-09-15T13:33:12Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-15T13:33:12+00:00'
 weight: 50
 featured_image:
@@ -20,7 +20,7 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     body: "> “.@khamenei\_ir fancies himself the leader of the Islamic world, but his regime has been totally silent as Chinaa\x14the top buyer of #Iran’s oila\x14has persecuted and detained hundreds of thousands of its Muslim citizens.”  \n  \n  \n  \nSec. of State Mike Pompeo addressing the leader of Iran in a tweet as the UN reports China holds at least 1 million Uighur Muslims in detention camps to reportedly get them to renounce Islam. China denies this practice."
-    _key: card-1-0e8d38e6-e7ff-4488-a2c0-be9e4a994565
+    _key: card-1-679cfb4f-b044-48ac-aa71-21de19dc842b
   - order: 1
     body: >-
       > “Our friends had been suggesting for a long time that we visit this
@@ -32,7 +32,7 @@ cards:
       on why they were in the area of Salisbury, England last March. UK gov't
       says the two men are suspects in the poisoning of a Russian ex-spy Sergei
       Skripal & his daughter Yulia with a rare nerve agent in the UK.
-    _key: card-2-d7633eaa-993a-4d93-a225-8f25abe79e25
+    _key: card-2-28d8f48f-5c98-4312-b8df-54a95e7f92bf
   - order: 2
     body: >-
       > ‘He is a completely expressive character with an incredibly wide range
@@ -43,7 +43,7 @@ cards:
       Christiani Pitts, actress, on her starring role with a 20 foot tall, 2,000
       pound puppet in the Broadway show King Kong expected this Fall. It takes
       14 performers to operate the massive King Kong puppet.
-    _key: card-3-83ad201f-5492-4b2d-bd65-936e4457a0af
+    _key: card-3-286bc7fa-d1cf-431b-8fdb-cdeb0bc8ec55
   - order: 3
     body: >-
       > “There are no immediate plans to replace it… I would also say, ‘Never
@@ -55,13 +55,13 @@ cards:
       scrap its Beetle model. Designed in the 1930s, German automaker VW had to
       scrap production of its "bug" model due to WWII, but once it arrived in
       America it soared in popularity during the 1960s.
-    _key: card-4-4637dea2-0e1c-4363-8eb2-55edc6a9f67b
+    _key: card-4-41d94335-72b4-44bc-a902-c0cf5c6c01a3
   - order: 4
     body: |-
       Enjoy your weekend!
 
       [view sources](https://smarthernews.com/18-09-15-qq/)
-    _key: card-10-9a0a90a5-ba02-490f-85e6-b8ddaa2286ab
+    _key: card-10-c4560712-1c9a-4652-b113-a10490d3a66f
 
 ---
 * **China Is Detaining Muslims in Vast Numbers. The Goal: “Transformation:**  

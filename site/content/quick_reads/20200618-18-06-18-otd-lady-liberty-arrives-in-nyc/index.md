@@ -1,14 +1,14 @@
 ---
 title: On This Day in 1885
 slug: 20200618-18-06-18-otd-lady-liberty-arrives-in-nyc
-_id: legacy-7f4acf40-6bde-4ffe-b024-496863cd08f2
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-5fc2672b-4939-4f21-a3ed-b26849d053c9
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-06-18-otd-lady-liberty-arrives-in-nyc/
 _createdAt: '2020-06-19T10:47:50Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2020-06-19T10:47:50+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       The Statue of Liberty arrives in New York Harbor. Although 12M+ immigrants
       passed under her gaze, she was delivered (and constructed) years before
       Ellis Island opened.
-    _key: card-1-154b9f35-c968-43d2-b493-7f3e9dcf2a12
+    _key: card-1-2ce9fe70-b3ec-4056-b73f-e3872df6d071
   - order: 1
     body: >-
       ## How Did Liberty Arrive?
@@ -47,7 +47,7 @@ cards:
 
       [Click Here: Newspaper](https://www.loc.gov/resource/cph.3b08482/)
     citation: 'Click Here: Newspaper'
-    _key: card-2-7021b9bc-160a-4fc1-bef7-7d0dcff5bda3
+    _key: card-2-b3f5dfb6-7a9e-4254-b660-734e7c8bafc4
   - order: 2
     body: >-
       ## Liberty & Immigration
@@ -61,7 +61,7 @@ cards:
       * Famous Lazarus poem “_Give me your tired, your poor_” written in
       **1883** to raise funds for the statue**;** engraved on base 20 years
       later in **1903**.
-    _key: card-3-786a90f7-3bd1-477b-9476-db50acb5bba3
+    _key: card-3-c56bfe42-c147-4d42-9eb6-e6340231f109
   - order: 3
     body: >-
       "Here at our sea-washed, sunset gates shall stand/ A mighty woman with a
@@ -71,7 +71,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-06-18-otd-lady-liberty-arrives-in-nyc/)
-    _key: card-10-51ba4190-e505-4900-a4b1-fef001dcd16f
+    _key: card-10-ed65d40a-c2ae-44a1-aaad-19278809efac
 
 ---
 * **SmartHER FYI:** We’ve seen the date of the arrival of the Statue of Liberty also attributed to June 17, 1885. We are following the history according to the Library of Congress, though some sites, including the official site of the Statue of Liberty, leaves the exact date vague and says generically, June 1885.

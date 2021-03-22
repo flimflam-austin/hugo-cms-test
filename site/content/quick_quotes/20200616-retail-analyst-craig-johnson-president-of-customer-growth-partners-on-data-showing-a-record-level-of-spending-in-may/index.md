@@ -4,26 +4,20 @@ title: >-
   Showing a Record Level of Spending in May.
 slug: >-
   20200616-retail-analyst-craig-johnson-president-of-customer-growth-partners-on-data-showing-a-record-level-of-spending-in-may
-_id: legacy-9b333ae5-be78-468f-9bd4-8b4ee54295bc
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-5f42997a-f1e3-4179-abe5-ecf9f04d75f7
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/retail-analyst-craig-johnson-president-of-customer-growth-partners-on-data-showing-a-record-level-of-spending-in-may/
 _createdAt: '2020-06-16T21:41:05Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2020-06-16T21:41:05+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  Retail analyst Craig Johnson, president of Customer Growth Partners, on data
-  showing a record level of spending in May.
 featured_quote:
   quote: The U.S. consumer’s back big time and she’s spending.
-  citation: >-
-    Retail analyst Craig Johnson, president of Customer Growth Partners, on data
-    showing a record level of spending in May.
 
 ---
 * The increase of shopping activity month-to-month was the largest seen on record dating back to 1992.

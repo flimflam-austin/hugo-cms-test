@@ -1,23 +1,21 @@
 ---
 title: Pres. Trump While Attending the Nato Summit in London
 slug: 20191204-pres-trump-speaking-during-a-nato-summit-press-conference-in-london
-_id: legacy-b2473e56-ff2f-4fce-9f30-dc1dbc878f08
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-0a8b5824-90ea-4c71-8c65-b0ab3033be1e
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/pres-trump-speaking-during-a-nato-summit-press-conference-in-london/
 _createdAt: '2019-12-04T03:47:17Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-12-04T03:47:17+00:00'
 weight: 50
 is_breaking: false
-summary: Pres. Trump while attending the NATO summit in London
 featured_quote:
   quote: >-
     Nobody needs NATO more than France. And, frankly, the one that benefits,
     really, the least is the United States.
-  citation: Pres. Trump while attending the NATO summit in London
 
 ---
 * **Why It Matters:** The President is in Europe marking the 70th anniversary of the alliance born out of WWII.

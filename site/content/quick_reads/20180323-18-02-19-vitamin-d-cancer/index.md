@@ -1,14 +1,14 @@
 ---
 title: 18.02.19 Vitamin D and Cancer
 slug: 20180323-18-02-19-vitamin-d-cancer
-_id: legacy-32f937cf-cd00-486a-950c-07cd149f5ae6
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-6de673e2-7541-446f-95ae-0e0f12977d2a
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-19-vitamin-d-cancer/
 _createdAt: '2018-03-20T13:00:25Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-20T13:00:25+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
         
         
       Japan Public Health Center Study
-    _key: card-1-dc3483f5-8cf3-49a6-a108-1d02ebf75cd0
+    _key: card-1-a5a52e6c-d4c8-47b4-b1c1-54e005ecb13a
   - order: 1
     body: >-
       ## Vitamin D & Cancer
@@ -48,7 +48,7 @@ cards:
       * Other studies have shown a link between vitamin D & cancer rates in
       other ethnicities – Scientists said observing a link in an Asian
       population would further prove a connection.
-    _key: card-2-5ff81c8d-1141-4f12-8a33-5195967d866e
+    _key: card-2-af56842f-ec98-467f-87d7-49bc40401fef
   - order: 2
     body: >-
       ## What They Found:
@@ -62,7 +62,7 @@ cards:
       * A noticeable decrease risk of liver cancer.
 
       * **Bottom Line: Vitamin D may help prevent cancer**.
-    _key: card-3-c3bb9933-7399-4897-a374-85ca0114286b
+    _key: card-3-76b96e4b-9bc1-41eb-9da7-0c27c0a8c4ae
   - order: 3
     body: >-
       ## What Exactly Is Vitamin D?
@@ -81,7 +81,7 @@ cards:
       [Click Here For
       SOURCE](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/vitamins/vitamin-d/)
     citation: Click Here For SOURCE
-    _key: card-4-a6099998-dc4e-40aa-a4a1-c3373c7f60cf
+    _key: card-4-163ee3bd-e54d-40db-b5d1-ab8db0febf37
   - order: 4
     body: >-
       # Vitamin ‘D-ficient’
@@ -92,7 +92,7 @@ cards:
 
       * Being ‘D-ficient’ may increase the risk of osteoporosis, heart disease,
       some cancers, infectious diseases, seasonal flu & more.
-    _key: card-5-377626c3-832e-417f-bfc5-5ea5db2bed9a
+    _key: card-5-5e7c7dc2-6e6a-4bca-ad17-2e8ea902eb01
   - order: 5
     body: >-
       ## What About The Sun?
@@ -105,7 +105,7 @@ cards:
 
       * Supplementation with vitamin D3 is needed to raise blood levels for most
       people.
-    _key: card-6-545eb858-d851-48a3-9bb8-72af390b232d
+    _key: card-6-a30a9aa7-8644-4a14-9f2e-978221b35dec
   - order: 6
     body: >-
       We're asking the same question. HOW MUCH VITAMIN D DO WE NEED? SmartHER
@@ -114,7 +114,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-19-vitamin-d-cancer/)
-    _key: card-10-14142a8a-46d8-4e6a-a25b-9d886cf27d39
+    _key: card-10-9d982d56-f914-4b2f-a0e7-ec17298df27f
 
 ---
 * THE STUDY:A Plasma 25-hydroxyvitamin D concentration and subsequent risk of total and site specific cancers in Japanese population: large case-cohort study within Japan Public Health Center-based Prospective Study cohortA [http://www.bmj.com/content/360/bmj.k671.full](http://www.bmj.com/content/360/bmj.k671.full)

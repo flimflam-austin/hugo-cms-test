@@ -1,14 +1,14 @@
 ---
 title: 18.02.27 West Virginia Teachers
 slug: 20180306-18-02-27-west-virginia-teachers
-_id: legacy-be042c7a-7ed4-4251-a1ec-72a8b9549df7
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-8f1d8f5d-1e69-4d35-bdee-a2f3c212d430
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-27-west-virginia-teachers/
 _createdAt: '2018-02-28T23:15:01Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-02-28T23:15:01+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
       * To pay for it, lawmakers will seek to **cut state spending by $20M**.
       * Teachers’ strike canceled schoolsA statewide for **9-straight days**.
       * Governor promises task force to address health care costs.
-    _key: card-1-c1820d26-2a78-45d4-9b78-ea7f46a701c8
+    _key: card-1-c634352e-9606-476d-8c93-b0a722bf7ec2
   - order: 1
     body: >-
       > “This is very positive. We are surprised, but we aren’t putting all of
@@ -37,7 +37,7 @@ cards:
         
         
       Tina Workman, Midland Trail Elementary teacher to CBS News
-    _key: card-2-e7a5e7cb-288e-4101-b954-6d94ceff5a51
+    _key: card-2-14654e1d-754f-4531-a1d2-855a1c75255e
   - order: 2
     body: >-
       ## Contentious Negotiations
@@ -53,7 +53,7 @@ cards:
 
       Feb 27: Gov. Jim Justice & union leaders negotiate 5% pay raise deal in
       attempt to end strike
-    _key: card-3-b89c7d65-adab-409f-bd44-a28e68749542
+    _key: card-3-ee818b03-a48f-40e2-8fa0-bfb3b51b957f
   - order: 3
     body: >-
       # Where will the Money Come From?
@@ -66,7 +66,7 @@ cards:
         
         
       West Virginia Republican Senate President Michael Carmichael (2/28/18)
-    _key: card-4-5741bf59-5564-460d-8568-1fbeebd2febc
+    _key: card-4-c259cf5c-eccb-4422-8f6d-8520c7286278
   - order: 4
     body: |-
       # Protesting Over Pay
@@ -77,7 +77,7 @@ cards:
       * **Ranked 48th** in the country, above only Oklahoma & Mississippi.
       * **$58,353** = **National average** public teacher salary.
       * New York ranked #1 at $79,152.
-    _key: card-5-0d157ed7-93d2-4649-b22b-71b83e267991
+    _key: card-5-84a98443-5ca5-45a0-8eb7-82c17411cdc3
   - order: 5
     body: >-
       And it's not just in West Virginia, now teachers in Oklahoma say they may
@@ -85,7 +85,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-27-west-virginia-teachers/)
-    _key: card-10-20b38dcd-608c-4209-8bab-57e1dc20f085
+    _key: card-10-8f1c7e2b-885b-4fd7-ac7b-6fa2a34ff484
 
 ---
 * West Virginia Raises Teachers” Pay to End Statewide Strike [https://www.cbsnews.com/news/ west-virginia-teachers-strike- jim-justice-tentative- agreement-walkout/](https://www.cbsnews.com/news/west-virginia-teachers-strike-jim-justice-tentative-agreement-walkout/)

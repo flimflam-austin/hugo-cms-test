@@ -1,14 +1,14 @@
 ---
 title: '#Otd the First Release of Guinness Book of Records'
 slug: 20180827-18-08-27-guinness-world-records
-_id: legacy-8962006d-38ec-48d8-b346-278ec277ed7d
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-09ba4c52-31c9-412f-9037-abc460651f5d
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-27-guinness-world-records/
 _createdAt: '2018-08-27T11:58:35Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-27T11:58:35+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       How So?
     citation: How So?
-    _key: card-1-83c3d774-b8e8-41be-a433-6ddbf9a12ce1
+    _key: card-1-f013844a-a8be-41f6-b353-e71d4c7cce1e
   - order: 1
     body: >-
       ## Hunting History
@@ -47,7 +47,7 @@ cards:
 
       Then what?
     citation: Then what?
-    _key: card-2-c085f40a-9f20-47fe-8a9a-e3782a13f60c
+    _key: card-2-68452cec-ef9f-4ad9-83fb-a3031ea1d159
   - order: 2
     body: >-
       ## BELLY UP
@@ -61,7 +61,7 @@ cards:
       * In 1955, they distributed the first Guinness Book of Records **for free
       — in pubs**A as a form of publicity to settle friendly debates over a few
       brewskies. **It was an instant success.**
-    _key: card-3-3de17378-9a71-4cc5-9ae8-fb04e73d6ced
+    _key: card-3-588d14d4-d1a2-4106-9e37-794e43fd354d
   - order: 3
     body: >-
       ## Most Recent Records:
@@ -75,7 +75,7 @@ cards:
       * _“All record attempts require the presence of completely independent
       witnesses who are our eyes on the ground to witness and confirm that all
       of our rules have been followed.”_
-    _key: card-4-c4a23f85-1b81-4066-981a-b68812063282
+    _key: card-4-2363f536-b080-4260-9fe1-c0dbfd5b3c55
   - order: 4
     body: >-
       The twin brothers who help found the Guinness Record Book set a standard -
@@ -85,7 +85,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-27-guinness-world-records/)
-    _key: card-10-b2b91883-512c-4799-af35-77c1e02c33bf
+    _key: card-10-5fbc7c6c-ebf2-4ba4-b70a-6ae48aa70f52
 
 ---
 * **GUINNESS WORLD RECORDSA HISTORY:**  

@@ -5,30 +5,26 @@ title: >-
   Violence.
 slug: >-
   20200728-a-selection-of-u-s-mayors-writing-lawmakers-asking-for-the-removal-of-federal-law-enforcement-in-their-cities-attempting-to-protect-property-reduce-violence
-_id: legacy-f7583455-882d-4ff7-844e-c312f8fe822e
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-875409e5-8bd0-4a26-83d1-6f782fb0bcfb
+_rev: ZEyhBiGfgCfwE8WOjbuSlO
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/a-selection-of-u-s-mayors-writing-lawmakers-asking-for-the-removal-of-federal-law-enforcement-in-their-cities-attempting-to-protect-property-reduce-violence/
 _createdAt: '2020-07-28T10:54:22Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-07-28T10:54:22+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    43db1ad38423034261a7c0c4539ae177e04b0370-750x500.jpg
 is_breaking: false
-summary: >-
-  A selection of U.S. mayors writing lawmakers, asking for the removal of
-  federal law enforcement in their cities attempting to protect property, reduce
-  violence.
 featured_quote:
   quote: >-
     This administration’s egregious use of federal force on cities over the
     objections of local authorities should never happen.
-  citation: >-
-    A selection of U.S. mayors writing lawmakers, asking for the removal of
-    federal law enforcement in their cities attempting to protect property,
-    reduce violence.
 
 ---
 * Letter drafted by “Portland, Seattle, Chicago, Kansas City, Albuquerque, New Mexico, and Washington” – [according to Associated Press.](https://apnews.com/ebe8e681d99c3c790ee66e8089e67fdf)
@@ -39,4 +35,4 @@ featured_quote:
 * Backstory – in places like Portland, Seattle, protests ignited after the death of George Floyd in policy custody over Memorial Day weekend.
 * **Why It Matters**: Civil unrest continues, showing no signs of abatement, some major cities struggle with protecting property and citizens, tension remains between the federal government and local authorities. **It is not unprecedented for the federal government to send forces into locales without consent** **– but it is more often done with support of local governments.**
 
-Overview of protests the final weekend of July 2020 – [CLICK HERE](https://www.washingtonpost.com/nation/2020/07/25/seattle-police-declare-riot-renewed-black-lives-matter-protests/)ttps://www.washingtonpost.com/nation/2020/07/25/seattle-police-declare-riot-renewed-black-lives-matter-protests/)
+Overview of protests the final weekend of July 2020 – [CLICK HERE](https://www.washingtonpost.com/nation/2020/07/25/seattle-police-declare-riot-renewed-black-lives-matter-protests/)

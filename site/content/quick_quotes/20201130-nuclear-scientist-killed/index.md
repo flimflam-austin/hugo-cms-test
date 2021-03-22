@@ -4,30 +4,26 @@ title: >-
   to Be the Targeted Killing of an Iranian Scientist, Allegedly Involved in
   Developing Nuclear Weapons.
 slug: 20201130-nuclear-scientist-killed
-_id: legacy-369be242-b20d-427c-8942-9658cba5bd18
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-1e1b17b6-e74d-4505-94cd-d3be05030fb2
+_rev: ZEyhBiGfgCfwE8WOjbuSlO
 type: quick_quotes
 draft: false
 aliases:
   - article/nuclear-scientist-killed/
 _createdAt: '2020-11-27T21:24:19Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-11-27T21:24:19+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    fbeb237f1da74c40c22bbb824aca4ef890669b93-2560x1707.jpg
 is_breaking: false
-summary: >-
-  Foreign Minister of Islamic Republic of Iran, Javad Zarif, after what appears
-  to be the targeted killing of an Iranian scientist, allegedly involved in
-  developing nuclear weapons.
 featured_quote:
   quote: >-
     Terrorists murdered an eminent Iranian scientist today. This cowardice —
     with serious indications of Israeli role — shows desperate warmongering of
     perpetrators.
-  citation: >-
-    Foreign Minister of Islamic Republic of Iran, Javad Zarif, after what
-    appears to be the targeted killing of an Iranian scientist, allegedly
-    involved in developing nuclear weapons.
 
 ---
 * Zarif continued in Persian on social media (this is the translation): _“Once again, Iran is a victim of terrorism, with the assassination of one of its great scholars by terrorists. Our heroes have always faced terrorism in order to establish security and stability in the region and the world.”_
@@ -40,4 +36,4 @@ featured_quote:
 
 Here’s a [good read](https://apnews.com/article/dubai-iran-united-arab-emirates-nuclear-weapons-israel-28d7c6e4abec1b82f2d2f3ad649bbe01) on the latest news.
 
-Here’s a review of what happened in January: [“Bigger Than Bin Laden”](https://smarthernews.com/iran-and-america-2020/) review of what happened in January: [“Bigger Than Bin Laden”](https://smarthernews.com/iran-and-america-2020/)
+Here’s a review of what happened in January: [“Bigger Than Bin Laden”](https://smarthernews.com/iran-and-america-2020/)

@@ -1,14 +1,14 @@
 ---
 title: 18.07.30 3d Guns
 slug: 20180730-18-07-30-3d-guns
-_id: legacy-b056057c-25f7-4bc5-9ff6-186a766d48f0
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-0836ff52-b23d-45bc-94f2-684ef37e2fb2
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-30-3d-guns/
 _createdAt: '2018-07-30T11:52:23Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-30T11:52:23+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       What Every Family Should Know
     citation: What Every Family Should Know
-    _key: card-1-b82d51f4-9b69-4f98-b9b9-f4dcdf984faf
+    _key: card-1-1357ab5a-8bee-4241-854a-725ef59787c7
   - order: 1
     body: >-
       ## What’s the Backstory?
@@ -49,7 +49,7 @@ cards:
       were violated & won.
 
       * Settlement reached in June.
-    _key: card-2-9564a238-5d4a-4530-b222-eadfa62565c3
+    _key: card-2-12746df8-0621-40a3-b6b5-df2956a92d0e
   - order: 2
     body: >-
       ## What This Means:
@@ -64,7 +64,7 @@ cards:
       * 3D-printed guns**A untraceable**A (no system in place to assign serial
       numbers to 3D-printed firearms)A & therefore, owner **not subject to
       background checks.**
-    _key: card-3-40dff9de-7019-4fc8-af20-b5eee701f7bf
+    _key: card-3-1809be2d-147b-411d-b6f4-4e0cfdd5a62c
   - order: 3
     body: >-
       > **_‘…would enable convicted felons & domestic abusers to download
@@ -78,7 +78,7 @@ cards:
       expensive technology.”_**  
 
       Lawrence Keane,A National Shooting Sports FoundationA general counsel
-    _key: card-4-7cf3e417-d8c7-4673-8bcb-0715c0ed5d9b
+    _key: card-4-d229b100-b3fe-4f1d-92bd-317fa8eabe2f
   - order: 4
     body: >-
       ## What is the TRUE threat?
@@ -90,7 +90,7 @@ cards:
 
       * **COST:**A 3D Printers cost**A $5K – $600K.**A A standard gun costs
       **only a few**A **hundred of dollars**.
-    _key: card-5-b3e0e948-4d88-4518-b104-15f490e190e2
+    _key: card-5-867bd179-8f8c-4357-ad98-786183ccbe54
   - order: 5
     body: >-
       What's next? Philadelphia was the 1st city to ban 3D gun printing now
@@ -100,7 +100,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-30-3d-guns/)
-    _key: card-10-fe0a1ba0-af8e-4d27-b84b-568902ad12df
+    _key: card-10-16fa9e68-b01f-4351-b13f-1989a1982ac5
 
 ---
 * **A landmark legal shift opens Pandora’s Box for DIY guns:**  

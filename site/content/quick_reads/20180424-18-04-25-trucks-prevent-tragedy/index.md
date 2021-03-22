@@ -1,14 +1,14 @@
 ---
 title: 18.04.25 Trucks Prevent Tragedy
 slug: 20180424-18-04-25-trucks-prevent-tragedy
-_id: legacy-dac4e6c6-e030-44df-9386-11fd1a59abb5
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-1a1b1f82-5823-4848-901f-39a8e8e131da
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-25-trucks-prevent-tragedy/
 _createdAt: '2018-04-25T10:00:01Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-25T10:00:01+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       FLIP FOR THE STORY
     citation: FLIP FOR THE STORY
-    _key: card-1-643f4631-0dcd-4337-af28-725b01c7f45b
+    _key: card-1-ce4c4b9f-f456-438f-876f-6cf50bb2c1cb
   - order: 1
     body: >-
       ## Trucks Prevent Tragedy
@@ -41,7 +41,7 @@ cards:
 
 
       The man, in his 30s, did not to jump and walked to safety.
-    _key: card-2-fc5f1276-a33b-42d5-b026-38b93e3f2529
+    _key: card-2-46c24654-6b01-46c9-b449-31a73020110d
   - order: 2
     body: >-
       If you or a loved one is feeling distressed, call the National Suicide
@@ -51,7 +51,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-25-trucks-prevent-tragedy/)
-    _key: card-10-133e63ca-294b-441f-9e43-d0719ce263b5
+    _key: card-10-968f6315-2ec8-45b7-854b-c804ad66be4c
 
 ---
 * **Fox2 News – 13 semis line Detroit freeway to help man considering suicide (photo credit):**  

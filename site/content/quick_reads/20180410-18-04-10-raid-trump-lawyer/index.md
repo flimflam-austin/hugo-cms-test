@@ -1,14 +1,14 @@
 ---
 title: 18.04.10 Raid on Trump Lawyer
 slug: 20180410-18-04-10-raid-trump-lawyer
-_id: legacy-1728b616-dc5d-4c8b-98e1-00ee6c0c46b2
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-db84d3ec-7f41-4153-bb73-33466541e317
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-10-raid-trump-lawyer/
 _createdAt: '2018-04-10T10:30:30Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-10T10:30:30+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       why? Flip Card
     citation: why? Flip Card
-    _key: card-1-bcccd1ac-c73b-4200-af85-d231a8c9cb5c
+    _key: card-1-49c29109-ee62-4360-aa8b-731e3d0ebcbf
   - order: 1
     body: >-
       # Why The Raid?
@@ -50,7 +50,7 @@ cards:
 
       Flip: Crucial Context
     citation: 'Flip: Crucial Context'
-    _key: card-2-edcfc74b-ea1c-4a20-af8b-f9b22661d1dd
+    _key: card-2-3717ea1c-e221-4bea-9d55-2e1d3e76955b
   - order: 2
     body: |-
       ## Who Is Michael Cohen?
@@ -62,7 +62,7 @@ cards:
       * Personal injury attorney
       * Worked for Trump organization since 2006
       * NEVER officially part of campaign or White House
-    _key: card-3-a191e0a4-aefe-4d5c-b28a-543c3e965798
+    _key: card-3-58c4c7d7-8658-489c-bace-9196a2ffd3ad
   - order: 3
     body: >-
       What Is This All About?  
@@ -76,7 +76,7 @@ cards:
       * We know Cohen made a payment to “Stormy Daniels” in exchange for her not
       going public with claims she had an affair with the President in 2006.
       Debates about this payment have emerged: **Is it legal or ethical?**
-    _key: card-4-03dca5f2-4f7d-4a5d-a9ed-9114ef9c00fc
+    _key: card-4-fb715bb3-8cf9-4671-97a1-bcd3ff53c0e2
   - order: 4
     body: >-
       ‘A search warrant for a law office is extremely rare. Lawyers are given
@@ -86,7 +86,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-10-raid-trump-lawyer/)
-    _key: card-10-94ef3987-a4a3-4386-9e11-352541cb323c
+    _key: card-10-fdd66c61-722b-4d7e-b6ce-8b2d63be6335
 
 ---
 * F.B.I. Raids Office of Trump”s Longtime Lawyer Michael Cohen; Trump Calls It “Disgraceful” [https://www.nytimes.com/2018/04/09/us/politics/fbi-raids-office-of-trumps-longtime-lawyer-michael-cohen.html](https://www.nytimes.com/2018/04/09/us/politics/fbi-raids-office-of-trumps-longtime-lawyer-michael-cohen.html)

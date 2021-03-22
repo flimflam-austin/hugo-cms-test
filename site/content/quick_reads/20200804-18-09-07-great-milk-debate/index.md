@@ -1,14 +1,14 @@
 ---
 title: The Great Milk Debate
 slug: 20200804-18-09-07-great-milk-debate
-_id: legacy-09bed587-43c5-442f-ba1b-c270bb852f39
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-5377efec-9458-49aa-8a22-02f292e651a9
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-09-07-great-milk-debate/
 _createdAt: '2018-09-07T11:57:23Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-09-07T11:57:23+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Why It Matters
     citation: Why It Matters
-    _key: card-1-4db4b108-2e9c-4cfd-b7e5-fcc9785e0e77
+    _key: card-1-13417175-3f76-4780-93b9-3cd0dca68ed7
   - order: 1
     body: >-
       > “An almond doesn’t lactate.”  
@@ -46,7 +46,7 @@ cards:
       [Click:
       Watch](https://www.politico.com/video/2018/07/17/fda-commissioner-on-milk-regulation-an-almond-doesnt-lactate-067140)
     citation: 'Click: Watch'
-    _key: card-2-22966d8a-6b83-4954-a704-4865f9d88942
+    _key: card-2-37f823ce-9613-4ac2-a6c1-7aa99eb1ed7a
   - order: 2
     body: >-
       ## Why This Matters
@@ -59,7 +59,7 @@ cards:
       misleads the public into believing alternatives provide the same
       nutritional value as cow milk, when they don’t; they want a new law
       “protecting” the milk label.
-    _key: card-3-e2012b4f-0bfd-4e8a-bc21-4fea036f1e5e
+    _key: card-3-d44cf1ca-bda6-4328-9dcf-623cdbdda817
   - order: 3
     body: >-
       > “No one owns the English language, and we’re not backing down.”  
@@ -70,7 +70,7 @@ cards:
       resolve this conflict in a "peaceful manner." The FDA has shown signs of
       empathy for the dairy industry, but enforcing any change to the language
       remains questionable.
-    _key: card-4-34a50172-db97-4c20-b636-1c210cf3f48a
+    _key: card-4-c0e59f3b-aa8e-4efd-a8ad-be4184854ded
   - order: 4
     body: >-
       Laws DO exist to protect certain products, such as "bourbon" (whiskey
@@ -79,7 +79,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-07-great-milk-debate/)
-    _key: card-10-e3431976-184d-4d6c-b773-1fe863e51a3f
+    _key: card-10-648137ac-bd5d-4acc-ac9f-c3c208e4e9e9
 
 ---
 * **Got Milk? Or Was That Really a Plant Beverage?**  

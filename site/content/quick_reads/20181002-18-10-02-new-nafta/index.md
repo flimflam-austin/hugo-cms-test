@@ -1,14 +1,14 @@
 ---
 title: The *New* Nafta?
 slug: 20181002-18-10-02-new-nafta
-_id: legacy-265ab6cc-1a78-4a3f-a22c-af40595cefdf
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-4891e5f5-612f-4e9c-a8ee-a11e917b3a73
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-10-02-new-nafta/
 _createdAt: '2018-10-02T11:42:58Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-10-02T11:42:58+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Why It Matters
     citation: Why It Matters
-    _key: card-1-2ea5b1c6-8f56-4c0a-98fb-9b57d90ec175
+    _key: card-1-7f5802a6-b936-4208-bbf8-5cfe73a4a924
   - order: 1
     body: >-
       > “It’s not NAFTA redone. It’s a brand new deal.”  
@@ -44,7 +44,7 @@ cards:
       President says it "will send cash and jobs pouring into the United
       States"; other analysts say the impact on the overall economy will be very
       little.
-    _key: card-2-c5845df3-df13-42b3-9161-6b8b15b79d06
+    _key: card-2-fe82cd03-11e4-45ba-8b94-7902cde8ae34
   - order: 2
     body: >-
       ## Behind The Scenes
@@ -57,7 +57,7 @@ cards:
 
       * Pres. Trump felt NAFTA didn’t favor the U.S. and campaigned on changing
       it.
-    _key: card-3-d89eb1da-cf10-41a2-8396-002c5165fc31
+    _key: card-3-f637d3ba-5067-4d06-8262-57094e0cc94b
   - order: 3
     body: >-
       ## How It Impacts You:
@@ -70,7 +70,7 @@ cards:
       * **Gives American farmers *slightly* more accessA to Canadian markets**
       for dairy, eggs, & poultryA products; good news for farmers hurting due to
       trade tensions with China.
-    _key: card-4-cbe06671-7fc8-43f0-8c0a-cd0f1de38b2d
+    _key: card-4-6df48d58-db28-4fee-ae3c-7264b6af92e4
   - order: 4
     body: >-
       ## Something To Consider
@@ -84,7 +84,7 @@ cards:
         
         
       Jim O'Sullivan, economist at High Frequency Economics to CNBC.
-    _key: card-5-cfcb523b-6d14-4617-a6f7-2b234e2bb8e3
+    _key: card-5-fc8290bd-e5fb-4a75-a7d2-1441f937a183
   - order: 5
     body: >-
       Important Reminder: Congress MUST approve all trade deals, so while the
@@ -92,7 +92,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-10-02-new-nafta/)
-    _key: card-10-3b306865-4374-4893-bb12-cd84b26439b0
+    _key: card-10-bae1e4e5-7294-46f7-aff3-2827b04c5ab8
 
 ---
 * **Trump Hails Revised Nafta Deal as a Trade Promise Kept:**  

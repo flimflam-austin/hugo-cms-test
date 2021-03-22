@@ -1,14 +1,14 @@
 ---
 title: Real Estate Slowdown?
 slug: 20180905-real-estate-slowdown
-_id: legacy-2f6a5dc1-882e-4c50-b56e-dc48bfd3a6ab
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-e9e02608-8d5d-42db-9ec9-9ea49c1c1359
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - real-estate-slowdown/
 _createdAt: '2018-09-05T11:55:14Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-09-05T11:55:14+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Maybe...
     citation: Maybe...
-    _key: card-1-2bd5b36c-b2e6-4b55-9e2f-1f54980356cb
+    _key: card-1-1f2c0df2-9bb5-4d9b-9164-0d0da39d7f36
   - order: 1
     body: >-
       ## What To Know:
@@ -44,7 +44,7 @@ cards:
         
         
       Daren Blomquist, ATTOM Data Solutions SVP, a property data firm
-    _key: card-2-a870a9c6-7130-4803-ac95-1f3f8b3f53c7
+    _key: card-2-ad8009a7-c4e8-47d8-965f-66b3d49b3db0
   - order: 2
     body: >-
       ## Why it Matters
@@ -57,7 +57,7 @@ cards:
       Our current lending environment has changed, but one property data company
       says “some loosening” of lending standards has put risk back into the
       market.
-    _key: card-3-d8128a2f-534c-4793-9860-01c75f55d501
+    _key: card-3-8f06955a-83df-48ac-b52b-9cef7a4b4f2d
   - order: 3
     body: >-
       ## Cause For Concern?
@@ -72,7 +72,7 @@ cards:
       significantly rebound.
 
       * **Fewer Foreign Buyers:** Overseas purchases down a record 21%.
-    _key: card-4-7e657623-ca9b-4f82-9690-fe2cdec72d79
+    _key: card-4-00eb6698-1f16-47b8-afdc-af917d00dc91
   - order: 4
     body: >-
       Housing faces an uncertain future. A new study finds a record low
@@ -80,7 +80,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/real-estate-slowdown/)
-    _key: card-10-ed0d9caf-655c-479f-88d1-f27bab39ea17
+    _key: card-10-3eb0c91e-967d-44f0-8336-90cbf3be23cf
 
 ---
 * **U.S. homebuilding slowing; labor market strong:**  

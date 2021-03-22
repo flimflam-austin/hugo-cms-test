@@ -1,14 +1,14 @@
 ---
 title: 18.07.10 Quote of the Day Mildred Benson
 slug: 20180709-18-07-10-quote-of-the-day-mildred-benson
-_id: legacy-f32340b7-7574-45de-a9f1-01606f68b856
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-c911594a-4e8f-4a80-8e32-5d9ad2635403
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-10-quote-of-the-day-mildred-benson/
 _createdAt: '2018-07-10T05:01:50Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-10T05:01:50+00:00'
 weight: 50
 featured_image:
@@ -24,7 +24,7 @@ cards:
 
       Mildred Wirt Benson
     citation: Mildred Wirt Benson
-    _key: card-1-0596299f-dc2c-49dd-bba1-4c9e70d4c27c
+    _key: card-1-afe637a4-80ef-4441-9acc-f33d2b1080d7
   - order: 1
     body: >-
       The original ghostwriter of Nancy Drew books, Benson was born July 10,
@@ -33,7 +33,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-07-10-quote-of-the-day-mildred-benson/)
-    _key: card-10-2a0fbb3d-5b18-4c9c-9895-6fd6c59f47fe
+    _key: card-10-16257ced-6d35-4895-9aa5-4472a20ee623
 
 ---
 **Who was Carolyn Keene?**  

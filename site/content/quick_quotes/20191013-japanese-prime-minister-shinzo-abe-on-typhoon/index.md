@@ -1,21 +1,19 @@
 ---
 title: Japanese Prime Minister Shinzo Abe on Typhoon.
 slug: 20191013-japanese-prime-minister-shinzo-abe-on-typhoon
-_id: legacy-7267e20a-97ff-4886-8369-b19e3340be86
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-3963c3a8-d198-4857-96f6-be9a5baed87e
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/japanese-prime-minister-shinzo-abe-on-typhoon/
 _createdAt: '2019-10-13T23:42:44Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-10-13T23:42:44+00:00'
 weight: 50
 is_breaking: false
-summary: Japanese Prime Minister Shinzo Abe on typhoon.
 featured_quote:
   quote: The first priority is saving lives.
-  citation: Japanese Prime Minister Shinzo Abe on typhoon.
 
 ---
 * Death toll continues to rise in Japan because of one of the worst storms in decades.

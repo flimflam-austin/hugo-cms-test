@@ -1,21 +1,19 @@
 ---
 title: President Announces 4th National Security Advisor
 slug: 20190918-president-announces-4th-national-security-advisor
-_id: legacy-ca158386-dca1-4d17-a295-58e8078c52af
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-e36f7a24-7c6f-47a8-aa03-c780073b74eb
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/president-announces-4th-national-security-advisor/
 _createdAt: '2019-09-18T16:25:03Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-09-18T16:25:03+00:00'
 weight: 50
 is_breaking: false
-summary: President announces 4th National Security Advisor
 featured_quote:
   quote: "\x1CI have worked long & hard with Robert. He will do a great job!"
-  citation: President announces 4th National Security Advisor
 
 ---
 President Trump announces Robert O”Brien as his new national security advisor, replacing John Bolton

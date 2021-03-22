@@ -1,14 +1,14 @@
 ---
 title: 18.06.25 Qq
 slug: 20190905-18-06-25-qq
-_id: legacy-7d290464-0443-4255-9364-0ff6ca5db31c
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-c26ffbed-1d6a-43fc-b943-4a363192346a
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-06-25-qq/
 _createdAt: '2018-06-25T09:42:02Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-06-25T09:42:02+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       Pres. Trump's tweet Sunday sparking immediate criticism saying his
       proposal would violate the U.S. Constitution’s due process provision,
       which applies to citizens & non-citizens.
-    _key: card-1-a7f8de4d-605b-4fdb-a973-addc2e1d0a7f
+    _key: card-1-c6154e2f-3d00-44e5-91b1-e10bdbbc6efc
   - order: 1
     body: >-
       > “Republicans should stop wasting their time on Immigration until after
@@ -41,7 +41,7 @@ cards:
       Pres. Trump tweet Friday signaling GOP needed larger majorities in the
       House & Senate to pass immigration legislation, throwing cold water on a
       House bill that'd been delayed to this week.
-    _key: card-2-b732a01a-7c01-46cc-bff2-3a16511469b2
+    _key: card-2-d08f356b-ac91-4391-9ef1-6a424c92f3b3
   - order: 2
     body: >-
       > “I hope they understand that if they begin to ramp up their nuclear
@@ -52,7 +52,7 @@ cards:
       U.S. Secretary of State Mike Pompeo warning Iran not to pursue nuclear
       weapons in an interview on MSNBC. Sec Pompeo added that he hoped the US
       would never have to use military action against Iran.
-    _key: card-3-63bb3a18-b840-4a69-8657-bafaa6f8edb1
+    _key: card-3-46f70778-80cf-446f-8b2b-7e1aab985e6d
   - order: 3
     body: >-
       > “He said, ‘But, son, there’s enough of these Americanisms around.
@@ -69,7 +69,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/QjvzCTqkBDQ?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-4-28cbb08e-0d2f-4768-a090-1638f343e79b
+    _key: card-4-e761339d-e489-485b-80e7-78a2d8cb3212
   - order: 4
     body: >-
       > “I really enjoyed it… Having the freedom in my own country.”  
@@ -79,13 +79,13 @@ cards:
       Mona Al-Fares on how it felt to be one of the first female drivers in
       Saudi Arabia. Women got behind the wheel at midnight on Sunday as Saudi
       Arabia lifted the world's only remaining ban on women drivers.
-    _key: card-5-e066cb8a-f54d-49c1-bccc-18d066ceffbf
+    _key: card-5-d3500b99-cb37-4cae-924f-529b895f943f
   - order: 5
     body: |-
       Have a great week!
 
       [view sources](https://smarthernews.com/18-06-25-qq/)
-    _key: card-10-0ba29ca8-f6e6-4dc4-aab9-365c47e9251a
+    _key: card-10-db1d4cd2-47da-440d-9b42-f65e3018761d
 
 ---
 * **Trump Calls for Depriving Immigrants Who Illegally Cross Border of Due Process Rights:**  

@@ -1,14 +1,14 @@
 ---
 title: 18.04.10 Credit Card Signatures
 slug: 20180410-18-04-10-credit-card-signatures
-_id: legacy-9a198829-9130-4353-ae83-1731b6353f09
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-312b74d7-f850-469c-a59d-701375889bd2
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-10-credit-card-signatures/
 _createdAt: '2018-04-10T10:32:28Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-10T10:32:28+00:00'
 weight: 50
 featured_image:
@@ -37,7 +37,7 @@ cards:
 
       FLIP: CHECKOUT CHANGE
     citation: 'FLIP: CHECKOUT CHANGE'
-    _key: card-1-2c257ab1-cd4a-43a8-80d2-355d8c87331c
+    _key: card-1-5da356ff-0ebd-4a70-a2a8-5bf8e8d60dbf
   - order: 1
     body: >-
       Change At The Checkout
@@ -52,7 +52,7 @@ cards:
       * Most people just scribble an illegible signature.
 
       * Most businesses don’t even bother to check.
-    _key: card-2-57a61d0a-da33-441d-8525-0ea7d4351b6c
+    _key: card-2-d0fcd478-23a2-44c5-8dca-0377c8fe1114
   - order: 2
     body: >-
       ## So I’ll Never Sign Again?
@@ -70,7 +70,7 @@ cards:
 
       no auTOGRAPHS, PLEASE.
     citation: no auTOGRAPHS, PLEASE.
-    _key: card-3-a6660182-0ca6-4830-a127-a64813375952
+    _key: card-3-71e50835-9fa2-41a3-9337-cac531344cc4
   - order: 3
     body: >-
       ## Is Your Safety in Jeopardy?
@@ -87,7 +87,7 @@ cards:
 
       * Once merchants upgraded swipe technology, signatures became “largely
       irrelevant.”
-    _key: card-4-858e17d5-3ecf-4b04-9833-3eaa0cce6844
+    _key: card-4-83bbfc21-24a8-42ed-8e40-a8cd27db07a8
   - order: 4
     body: >-
       But seriously, when was the last time you signed your name? Mastercard
@@ -96,7 +96,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-10-credit-card-signatures/)
-    _key: card-10-f3d4b8d8-1adc-4c35-9d93-0d92052e37e7
+    _key: card-10-0331c72a-4265-491f-9199-33a864173271
 
 ---
 * MasterCard, Discover, AmEx and now Visa will ditch signatures: [https://www.creditcards.com/ credit-card-news/signatures- soon-may-not-be-required.php](https://www.creditcards.com/)

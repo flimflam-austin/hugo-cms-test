@@ -1,14 +1,14 @@
 ---
 title: Words for Reflection
 slug: 20180826-18-08-25-mccain
-_id: legacy-6ff56d0a-ecb5-4f85-8785-fa18b68c35a4
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-5ef725f5-8670-4630-aff5-f75ea00bac6e
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-25-mccain/
 _createdAt: '2018-08-25T15:02:20Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-25T15:02:20+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       John McCain
     citation: John McCain
-    _key: card-1-efb73908-93f1-4bd9-8ff4-6bfe86abd8f6
+    _key: card-1-de51d879-4e89-4f1b-84f2-356d1008dbb2
   - order: 1
     body: >-
       The former P.O.W. & 6-term AZ Senator (R) has stopped treatment for an
@@ -38,7 +38,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-25-mccain/)
-    _key: card-10-feccb14b-ffca-4d3c-9f07-6a02b9ea5d19
+    _key: card-10-ab3f0192-6fbd-49c3-b3a9-a06ea66beaee
 
 ---
 * **McCain stops cancer treatment as as remarkable life nears end:**  

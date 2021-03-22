@@ -3,25 +3,23 @@ title: >-
   Pres. Trump Reacting to the Announcement From the Commission on Presidential
   Debates that the Second Presidential Debate Will Be Held Virtually.
 slug: 20201011-second-pres-debate
-_id: legacy-3cfb1e84-f083-4d13-b951-bae865a77cda
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-cb1cb46e-95d3-4d29-b61b-7b132fa1bb33
+_rev: f2cVhvAV1wntWw1uaABAwR
 type: quick_quotes
 draft: false
 aliases:
   - article/second-pres-debate/
 _createdAt: '2020-10-08T13:19:37Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:53Z'
 date: '2020-10-08T13:19:37+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    61bd742160aacabb6ab9d5bef655f344c00e338a-2560x1707.jpg
 is_breaking: false
-summary: >-
-  Pres. Trump reacting to the announcement from the Commission on Presidential
-  Debates that the second presidential debate will be held virtually.
 featured_quote:
   quote: That's not acceptable to us... I’m not going to do a virtual debate.
-  citation: >-
-    Pres. Trump reacting to the announcement from the Commission on Presidential
-    Debates that the second presidential debate will be held virtually.
 
 ---
 * On October 8, the nonpartisan Commission on Presidential Debates (CPD) [announced](https://www.debates.org/2020/10/08/cpd-announces-second-presidential-debate-will-be-virtual/) the Oct. 15th second presidential debate will take the form of a virtual town meeting. The candidates will participate from separate remote locations “_in order to protect the health and safety of all involved._”
@@ -33,4 +31,4 @@ featured_quote:
 
 * In response, Biden deputy campaign manager Kate Bedingfield [released](https://www.npr.org/2020/10/08/921538492/second-presidential-debate-to-be-virtual-commission-says) the following statement: “_Vice President Biden looks forward to speaking directly to the American people and comparing his plan for bringing the country together and building back better with Donald Trump’s failed leadership on the coronavirus that has thrown the strong economy he inherited into the worst downturn since the Great Depression_.”
 
-**UPDATE:** On October 9, CPD [announced](https://www.debates.org/2020/10/09/statement-by-the-commission-on-presidential-debates-cpd-october-15-presidential-debate-will-not-proceed/) the Oct. 15th second presidential debate was officially cancelled.ctober-15-presidential-debate-will-not-proceed/) the Oct. 15th second presidential debate was officially cancelled.
+**UPDATE:** On October 9, CPD [announced](https://www.debates.org/2020/10/09/statement-by-the-commission-on-presidential-debates-cpd-october-15-presidential-debate-will-not-proceed/) the Oct. 15th second presidential debate was officially cancelled.

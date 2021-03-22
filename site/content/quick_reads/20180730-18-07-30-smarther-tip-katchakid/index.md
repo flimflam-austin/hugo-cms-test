@@ -1,14 +1,14 @@
 ---
 title: 18.07.30 Smarther Tip Katchakid
 slug: 20180730-18-07-30-smarther-tip-katchakid
-_id: legacy-7004c1e5-b8fd-4809-acfc-90ecf8ddb7e6
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-b2f32527-1f11-4dbe-8f7c-34484ffc5cf3
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-30-smarther-tip-katchakid/
 _createdAt: '2018-07-31T01:14:25Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-31T01:14:25+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/lNmDwOS9bDU?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-594e55af-035c-47fd-b680-0f7747252d7f
+    _key: card-1-5c406b9e-9464-4e2e-97fa-5b8b325956da
   - order: 1
     body: >-
       KatchaKid is based in Texas but services a wide swath of the entire United
@@ -38,7 +38,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-30-smarther-tip-katchakid/)
-    _key: card-10-932ad1b8-fd9f-412f-afdf-c5c2cc108452
+    _key: card-10-cd4105c7-13de-460b-be35-fd56cdf326bd
 
 ---
 [https://katchakid.com/](https://katchakid.com/)

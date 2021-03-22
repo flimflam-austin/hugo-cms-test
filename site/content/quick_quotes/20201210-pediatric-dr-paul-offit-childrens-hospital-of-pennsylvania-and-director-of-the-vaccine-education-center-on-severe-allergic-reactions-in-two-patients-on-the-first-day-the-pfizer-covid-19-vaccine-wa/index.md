@@ -5,28 +5,20 @@ title: >-
   the Pfizer Covid-19 Vaccine Was Distributed in the Uk.
 slug: >-
   20201210-pediatric-dr-paul-offit-childrens-hospital-of-pennsylvania-and-director-of-the-vaccine-education-center-on-severe-allergic-reactions-in-two-patients-on-the-first-day-the-pfizer-covid-19-vaccine-wa
-_id: legacy-4f82537b-aefb-4ea6-8a45-d49d62db4016
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-3b6e5189-a51f-469b-a56f-c36959dd8d9c
+_rev: ZEyhBiGfgCfwE8WOjbuN87
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/pediatric-dr-paul-offit-childrens-hospital-of-pennsylvania-and-director-of-the-vaccine-education-center-on-severe-allergic-reactions-in-two-patients-on-the-first-day-the-pfizer-covid-19-vaccine-wa/
 _createdAt: '2020-12-10T23:44:19Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:19Z'
 date: '2020-12-10T23:44:19+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  Director of the Vaccine Education Center, Dr. Paul Offit, Children’s Hospital
-  Of Pennsylvania, on severe allergic reactions in two patients on the first day
-  the Pfizer COVID-19 vaccine was distributed in the UK.
 featured_quote:
   quote: This issue is not going to die until we have better data.
-  citation: >-
-    Director of the Vaccine Education Center, Dr. Paul Offit, Children’s
-    Hospital Of Pennsylvania, on severe allergic reactions in two patients on
-    the first day the Pfizer COVID-19 vaccine was distributed in the UK.
 
 ---
 * Both of the people who had a severe reaction to the vaccine dose (anaphylactoid reaction), had a history of allergic reactions in the past and carried an epi-pen.

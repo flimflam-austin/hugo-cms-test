@@ -1,14 +1,14 @@
 ---
 title: 18.08.09 Pizza Museum
 slug: 20180810-18-08-09-pizza-museum
-_id: legacy-14e37112-edf3-452f-a060-7b9062165396
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-fe38ceba-c1ed-41eb-bca5-6c45a27a5810
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-09-pizza-museum/
 _createdAt: '2018-08-10T11:43:10Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-10T11:43:10+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       you want a pizza dis?
     citation: you want a pizza dis?
-    _key: card-1-0ecf9a86-9a25-4dae-a01c-bcb85acf6f6c
+    _key: card-1-b205d8fb-b8a7-4241-9f4b-46dc94fbb788
   - order: 1
     body: >-
       # U.S. Pizza Museum
@@ -52,7 +52,7 @@ cards:
       [Reserve Tickets
       Here](https://www.eventbrite.com/o/us-pizza-museum-17565390009)
     citation: Reserve Tickets Here
-    _key: card-2-9b51c905-f337-4f3a-85a5-c2d6b6c3e04b
+    _key: card-2-a4864695-6a64-4d47-a8f2-186ae8fa2d6e
   - order: 2
     body: >-
       # The Power of Pizza
@@ -69,7 +69,7 @@ cards:
 
 
       **Pizza Hut** is the #1 selling pizza chain in the U.S.
-    _key: card-3-a12eb132-4949-4c2e-bbe6-4facd1248507
+    _key: card-3-b854c9e7-98f9-437e-b9e2-6901480b0753
   - order: 3
     body: >-
       NYC v. CHICAGO:  
@@ -84,7 +84,7 @@ cards:
       “_**I do indeed like so-called ‘deep dish pizza…. But it should not be
       called pizza. It should be called a tomato pie. Real pizza is Neapolitan.
       It is thin. It is chewy and crispy, OK?**A_ ”
-    _key: card-4-83581254-51f2-4855-beef-f6cb0c727ef9
+    _key: card-4-ae104384-6a1b-474a-bfc3-d82659a11102
   - order: 4
     body: >-
       Not to be outdone, a "Museum of Pizza" will open in NYC in October. It
@@ -93,7 +93,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-09-pizza-museum/)
-    _key: card-10-5b98e70c-4db3-4f28-af5c-5243f76faada
+    _key: card-10-5e8b5c6e-ae47-4784-880e-16f9b5e89a9b
 
 ---
 * **About the U.S. Pizza Museum:**  

@@ -1,14 +1,14 @@
 ---
 title: The Cost of Connection
 slug: 20180824-18-08-23-digital-connection-vs-human-connection
-_id: legacy-8032b0d7-3dfa-4b61-8a41-c4981b0cc9e8
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-7d242763-10ad-4c2d-b304-dd4ace37db6f
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-23-digital-connection-vs-human-connection/
 _createdAt: '2018-08-23T11:11:59Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-23T11:11:59+00:00'
 weight: 50
 featured_image:
@@ -25,7 +25,7 @@ cards:
 
       > New studies reveal whether our digital connections areA draining our
       connections to each other & the world around us.
-    _key: card-1-4d309ef1-0859-4ed5-a696-f6ec60af554f
+    _key: card-1-aeff4e08-e39b-4499-bd02-bd49d2b6523e
   - order: 1
     body: >-
       > ‘**Decades of research on happiness tell us that engaging positively
@@ -37,7 +37,7 @@ cards:
         
       Ryan Dwyer of the University of British Columbia on his study of
       smartphone distraction at the dinner table.
-    _key: card-2-780bf7e1-89a6-49b8-8f37-7839ff3569c3
+    _key: card-2-8198915b-0f9c-428f-83e7-40da5ad5cb1d
   - order: 2
     body: >-
       ## Why It Matters
@@ -49,7 +49,7 @@ cards:
       * Participants who had their phones easily accessible had more trouble
       staying present in the moment,A reported feeling more distracted, &
       enjoyed the experience less.
-    _key: card-3-4edc9b8c-9c2a-4a71-b512-d13aa5a37057
+    _key: card-3-3ed48c55-dc94-4735-9182-8b8199cfb588
   - order: 3
     body: >-
       # The Next Generation
@@ -64,7 +64,7 @@ cards:
       * In 2016, nearly **a third of 12th graders hadn’t read a book** for
       pleasure **in a year**.A In the 1970s, 60% of 12th graders read a book or
       magazine almost every day.
-    _key: card-4-b9c24550-7989-4546-9fe2-167a5051aa3d
+    _key: card-4-8e1ea685-6027-4410-af46-31b0589cebfa
   - order: 4
     body: >-
       In 2018, 45% of teens say they're "online almost constantly," according to
@@ -73,7 +73,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-08-23-digital-connection-vs-human-connection/)
-    _key: card-10-8986237b-3a45-4e67-9ce7-90d11297ce14
+    _key: card-10-030962fc-3f4b-456c-ba40-fc43477dc192
 
 ---
 * **Dealing With Digital Distraction:**  

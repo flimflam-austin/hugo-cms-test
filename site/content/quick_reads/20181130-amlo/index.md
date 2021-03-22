@@ -1,14 +1,14 @@
 ---
 title: Mexico's New President
 slug: 20181130-amlo
-_id: legacy-ac000040-a02a-45fa-8b66-e970f00dffc8
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-20af121b-eb7f-4e5c-94b1-04209c56aefc
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - amlo/
 _createdAt: '2018-12-01T04:41:22Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-12-01T04:41:22+00:00'
 weight: 50
 card_series: Current Events
@@ -23,7 +23,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/amlo/)
-    _key: card-10-8a739728-0412-4f01-8823-242bc3d7564e
+    _key: card-10-724f0be8-d8d5-40ed-8115-680409cf9124
 
 ---
 * **US and Mexico face stark choices as new president takes over:**  

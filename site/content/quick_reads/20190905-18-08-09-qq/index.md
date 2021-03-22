@@ -1,14 +1,14 @@
 ---
 title: 18.08.09 Qq
 slug: 20190905-18-08-09-qq
-_id: legacy-052a2665-53ef-4951-b91a-50b72b55e0f5
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-403b122b-82ba-43f9-ac52-9c08c9d00b4f
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-09-qq/
 _createdAt: '2018-08-09T11:59:37Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-09T11:59:37+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
         
         
       Lindsay Lohan on the #MeToo movement to The Times (UK)
-    _key: card-1-11e57061-89c5-4687-866a-d36ebefeaed6
+    _key: card-1-4c3f03ca-3262-4a8d-9cff-333a96fdc749
   - order: 1
     body: >-
       > “The film business passed away today with the announcement of the
@@ -40,7 +40,7 @@ cards:
       Actor Rob Lowe's Twitter response to the Academy Award's decision to add a
       "popular film" category. Eligibility & other requirements have not been
       announced. Last year was the lowest rated Oscars telecast on record.
-    _key: card-2-54c7688c-7e3a-4338-b7e5-4a72d5adb81d
+    _key: card-2-74d19098-cf2c-4375-93c7-de87a686391b
   - order: 2
     body: >-
       > “We believe privacy is a fundamental human right and purposely design
@@ -52,7 +52,7 @@ cards:
       users' data and privacy. Cook also says Apple doesn't use microphones on
       iPhones to listen to customers. The House Cmte sent letters to Apple &
       Google following the Facebook data breach.
-    _key: card-3-1c3ef825-24a4-43e3-90f1-a33d64f84b5a
+    _key: card-3-cb054981-e32a-48e1-ac12-70854f663543
   - order: 3
     body: >-
       > ‘inflicting a punishment in the absence of a crime in the tradition of
@@ -65,13 +65,13 @@ cards:
       spokeswoman said the Government of the Russian Federation has used
       chemical or biological weapons in violation of international law or has
       used lethal chemical or biological weapons against its own nationals.
-    _key: card-4-6eed4a1e-be8f-44dd-84b0-74a6849ff0da
+    _key: card-4-db24ae64-7148-4b7c-a8ed-c3e821f8d556
   - order: 4
     body: |-
       Happy Friday's Eve...!
 
       [view sources](https://smarthernews.com/18-08-09-qq/)
-    _key: card-10-6979908f-cc93-473b-be55-8696a908b026
+    _key: card-10-e7121cc8-aab7-4449-8496-ebde3eb32916
 
 ---
 * **Lindsay Lohan On the #MeToo Movement: ‘Women Speaking Against All These Things Makes Them Look Weak’:** [https://www.billboard.com/articles/news/8469252/lindsay-lohan-on-me-too-movement-says-women-look-weak-interview](https://www.billboard.com/articles/news/8469252/lindsay-lohan-on-me-too-movement-says-women-look-weak-interview)

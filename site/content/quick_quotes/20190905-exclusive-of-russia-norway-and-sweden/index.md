@@ -1,24 +1,22 @@
 ---
 title: Exclusive of Russia, Norway, and Sweden
 slug: 20190905-exclusive-of-russia-norway-and-sweden
-_id: legacy-42cf47f7-acae-4336-b052-b25848078941
-_rev: 7QmxBnVgzphH4dpufNYHA2
+_id: legacy-8f809c36-f045-4e72-8972-d9bc9b74c688
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/exclusive-of-russia-norway-and-sweden/
 _createdAt: '2019-01-05T19:44:13Z'
-_updatedAt: '2021-03-16T12:30:36Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-01-05T19:44:13+00:00'
 weight: 50
 is_breaking: false
-summary: Exclusive of Russia, Norway, and Sweden
 featured_quote:
   quote: >-
     Latitude, elevation, and rainfall all combine to render every part of the
     Mississippi Valley capable of supporting a dense population. As a
     dwelling-place for civilized man it is by far the first upon our globe.
-  citation: Exclusive of Russia, Norway, and Sweden
 
 ---
 * Having about eight-ninths of its area

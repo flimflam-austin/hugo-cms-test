@@ -1,14 +1,14 @@
 ---
 title: 18.07.18 Mosquitoes
 slug: 20180719-18-07-18-mosquitoes
-_id: legacy-c048735d-9f4f-43bb-aea0-8f7f6ff16e7d
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-64916964-cef1-4650-81da-a35c9e93a2fb
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-18-mosquitoes/
 _createdAt: '2018-07-19T14:28:17Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-19T14:28:17+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       DEETS ON NO MORE DEET
     citation: DEETS ON NO MORE DEET
-    _key: card-1-1cbc0bd8-499f-45ca-8b28-9e4e954608eb
+    _key: card-1-5b6472ec-2d4f-446e-bce8-ecffdf48eac2
   - order: 1
     body: >-
       ## The Experiment
@@ -48,7 +48,7 @@ cards:
       out population.
 
       * **Why:** The mosquitoes spread diseases like dengue fever & zika.
-    _key: card-2-94213a2b-fdad-458c-ba89-5581ad41c226
+    _key: card-2-49092bdd-8c67-4186-b1bc-be15a48b1904
   - order: 2
     body: >-
       ## Why it Matters
@@ -61,7 +61,7 @@ cards:
 
       * In May, the CDC warned the US is **“not fully prepared”** for these
       **widespread & difficult to control diseases.**
-    _key: card-3-aaf15af0-be27-4a68-a062-d058a699799b
+    _key: card-3-f7ad1fbc-4898-4ac7-a33c-3855e5b09a32
   - order: 3
     body: >-
       Why do we need mosquitoes anyway? And what's the downside to wiping out a
@@ -69,7 +69,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-18-mosquitoes/)
-    _key: card-10-69c473fc-1d20-4c7d-a556-82ce60452654
+    _key: card-10-7dfbad88-61d5-4408-a107-c59d10b8a9b6
 
 ---
 * **Sterile mosquito experiment could save millions of lives:**  

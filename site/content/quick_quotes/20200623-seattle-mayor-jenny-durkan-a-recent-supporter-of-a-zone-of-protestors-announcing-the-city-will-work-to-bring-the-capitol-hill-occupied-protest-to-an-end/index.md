@@ -5,28 +5,24 @@ title: >-
   End.
 slug: >-
   20200623-seattle-mayor-jenny-durkan-a-recent-supporter-of-a-zone-of-protestors-announcing-the-city-will-work-to-bring-the-capitol-hill-occupied-protest-to-an-end
-_id: legacy-353dc888-57df-4682-8ffe-043372d57c60
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-e0473596-3b09-4c4c-a145-29a544e5c6ca
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/seattle-mayor-jenny-durkan-a-recent-supporter-of-a-zone-of-protestors-announcing-the-city-will-work-to-bring-the-capitol-hill-occupied-protest-to-an-end/
 _createdAt: '2020-06-23T03:08:07Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-06-23T03:08:07+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    075b2f3161d87323458d0a9a3fe4c5e40923e29f-1024x683.jpg
 is_breaking: false
-summary: >-
-  Seattle Mayor Jenny Durkan, a recent supporter of a new “protest zone”,
-  announcing the city will work to bring the Capitol Hill Occupied Protest to an
-  end.
 featured_quote:
   quote: No violence is acceptable.
-  citation: >-
-    Seattle Mayor Jenny Durkan, a recent supporter of a new “protest zone”,
-    announcing the city will work to bring the Capitol Hill Occupied Protest to
-    an end.
 
 ---
 * The announcement comes after two shootings this weekend, that led to at least one death. Police were unable to help the shooting victims Saturday night after determining the crowd was too “violent.” [WATCH](https://spdblotter.seattle.gov/2020/06/20/homicide-investigation-inside-protest-area/)
@@ -66,7 +62,5 @@ Seattle has moved rapidly to meet some of the demands…
 * On June 15, the Seattle City Council voted unanimously to ban police from using chokeholds, tear gas, pepper spray and several other crowd control device
 * Over the weekend June 20-21, 2 shootings occurred in the protest zone. One was of a 19-year-old man, Lorenzo Anderson, who later died. His godmother, speaking at the site of the autonomous zone, said in the wake of his death: “You just messed up your whole movement because you should’ve sat up here and been protecting him. You guys let a black life go in your so-called ‘Black Lives Matter’ protest on the street. Come on now.”
 * June 22: The Seattle mayor announced police will move back into their abandoned precinct: “It’s time for people to go home, it is time for us to restore Cal Anderson and Capitol Hill so it can be a vibrant part of the community. The impacts on the businesses and residents and the community are now too much.” [READ MORE](https://www.seattletimes.com/seattle-news/seattle-police-will-return-to-east-precinct-where-chop-has-reigned-durkan-says/)
-
-Developing…s.com/seattle-news/seattle-police-will-return-to-east-precinct-where-chop-has-reigned-durkan-says/)
 
 Developing…

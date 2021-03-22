@@ -1,14 +1,14 @@
 ---
 title: Carrie Underwood on Personal Struggles
 slug: 20180917-carrie-underwood
-_id: legacy-afce8fb8-13d2-43a4-a679-cec48cd5bd08
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-1647b84d-ef63-438e-8740-c87c33b48b68
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - carrie-underwood/
 _createdAt: '2018-09-17T11:25:01Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-17T11:25:01+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       CARRIE UNDERWOOD
     citation: CARRIE UNDERWOOD
-    _key: card-1-528e0c60-89b9-4659-8f85-dac87e0b8a41
+    _key: card-1-79ba481d-cdaa-4dba-bbd7-5d682b899d70
   - order: 1
     body: >-
       The "Cry Pretty" singer revealing her pain suffering 3 miscarriages over
@@ -36,7 +36,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/carrie-underwood/)
-    _key: card-10-416b54c3-966f-432f-b501-05751d93fabf
+    _key: card-10-0445b1b9-b522-4125-b3d0-b79efdc08f30
 
 ---
 * **WATCH: Carrie Underwood on getting beyond three miscarriages, to joy:**  

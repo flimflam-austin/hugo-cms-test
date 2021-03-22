@@ -1,14 +1,14 @@
 ---
 title: Oil's Magic Number
 slug: 20181129-18-11-29-oils-magic-number
-_id: legacy-5c47e6a8-30ad-4284-90f8-e30dd71c204a
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-e384a906-cb09-423f-99f0-57721469a3f9
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-11-29-oils-magic-number/
 _createdAt: '2018-11-29T12:36:03Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-11-29T12:36:03+00:00'
 weight: 50
 featured_image:
@@ -38,7 +38,7 @@ cards:
 
       G-OIL-DILOCKS
     citation: G-OIL-DILOCKS
-    _key: card-1-f190334f-a162-440a-aef9-83d31f02a81d
+    _key: card-1-ec976aa1-f053-4511-9ba3-a1ac3b0cf28d
   - order: 1
     body: >-
       ## Oil’s Slippery Slope
@@ -51,7 +51,7 @@ cards:
       * **Why?** There’s **too much oil**. U.S. crude inventories have **climbed
       10-straight weeks** to the highest level in a year, just as concerns grow
       over a **global economic slowdown** with less oil demand.
-    _key: card-2-e80069a0-64dc-46f7-83fd-9483d00de7ba
+    _key: card-2-50a23e1c-4211-4b27-bc41-2ac1f8452dde
   - order: 2
     body: >-
       > “Oil prices getting lower. Great! Like a big Tax Cut for America and the
@@ -60,7 +60,7 @@ cards:
         
         
       President Trump tweet on Nov. 21st
-    _key: card-3-29370dd9-9bd9-4ed1-987f-49c7b4967ee0
+    _key: card-3-39d4369a-8189-4c38-a0db-b1227f2618c3
   - order: 3
     body: >-
       ## What is the Perfect Price?
@@ -77,7 +77,7 @@ cards:
         
         
       Jeff Currie, Goldman SachsA head of commodities research
-    _key: card-4-0c3d3fcc-eec7-41da-8010-cc888ab49060
+    _key: card-4-fff35a1b-85d0-4d0e-928a-d5107a21152e
   - order: 4
     body: >-
       ## Why It Matters
@@ -91,7 +91,7 @@ cards:
       While lower oil prices boost consumers, ultimately energy producers will
       be forced to cut back, laying off workers which may send prices ultimately
       spiking higher.
-    _key: card-5-9bf7f125-9811-42b1-9c83-75fc55a7d4e3
+    _key: card-5-5704861a-c9f5-4bc7-af07-94bd03d4a197
   - order: 5
     body: >-
       Organization of Petroleum Exporting Countries (OPEC) meets Dec. 6th. Its
@@ -101,7 +101,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-11-29-oils-magic-number/)
-    _key: card-10-c97e1cb9-d4c4-4613-be43-0e641e513ae8
+    _key: card-10-3be925a5-7986-45f8-b3fd-10e8094a5e84
 
 ---
 * **Crude Oil Slides Below $50 for First Time in Over a Year:**  

@@ -1,14 +1,14 @@
 ---
 title: 18.4.25 Quick Quotes
 slug: 20180424-18-4-25-quick-quotes
-_id: legacy-f20814b6-3aec-42c7-bf96-d399c4c9ec19
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-e5371fee-21c5-49db-a989-c09284bdc2f0
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-4-25-quick-quotes/
 _createdAt: '2018-04-25T10:02:08Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-25T10:02:08+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
       Pres. Trump stands by his Veterans Affairs nominee & WH physician Ronny
       Jackson. The confirmation hearing for Dr. Jackson was delayed due to
       allegations of misconduct, such as drinking on the job.
-    _key: card-1-66072088-aca9-4bf3-a834-44e84773c5f3
+    _key: card-1-6e535009-73b7-4c49-a711-4926409e1611
   - order: 1
     body: >-
       > “I am telling those in the White House that if they do not live up to
@@ -45,7 +45,7 @@ cards:
       the nuclear deal it signed in 2015. French & German leaders visit the
       White House this week to pressure Pres. Trump NOT to scrap the deal, POTUS
       calls "insane."
-    _key: card-2-557d2378-d8dd-422c-b20c-15eff5cac240
+    _key: card-2-dc736060-7fb8-4333-9a26-281c9fa4284e
   - order: 2
     body: >-
       > “I have no idea how I can do this without her, but because of her I know
@@ -56,7 +56,7 @@ cards:
       Michael Riordin, husband of the woman killed when an engine exploded on a
       Southwest flight last week, to CBS News. She leaves behind 2 children
       12-year-old Averie & 10-year-old Josh.
-    _key: card-3-6971d2ca-b246-47b3-9d83-e82438b3dcf7
+    _key: card-3-5f5ccbae-1a86-4e5b-a17d-b0dc89fd0dfb
   - order: 3
     body: >-
       > “I’m sure many consumers would prefer to have their car trunk opened
@@ -67,16 +67,16 @@ cards:
       Analyst Greg Melich on Amazon's attempt to beat porch thieves with a new
       in-car delivery service. Amazon accesses car trunks using a connected car
       service (i.e. OnStar).
-    _key: card-4-0623562b-f6af-4b36-b76d-fddf4700f216
+    _key: card-4-23eacdab-051b-48d1-aa58-5f1488395b51
   - order: 4
     body: "> “People say, a\x18You don’t have a wife and children at home to care for; why are you working so hard? I laugh on the outside but the pain that I have in my heart only I know.”  \n  \n  \n  \nSuresh Kumar, a 35-year old man living in India, on the loneliness he feels not having a spouse. Men now outnumber women by 70 million in China and India."
-    _key: card-5-cfbfdfd0-d877-40ea-ba5e-293100e19f30
+    _key: card-5-a59432e7-0fc0-4a47-bd8f-3f6c00af0567
   - order: 5
     body: |-
       Want to learn more? Dig deeper by clicking "view sources."
 
       [view sources](https://smarthernews.com/18-4-25-quick-quotes/)
-    _key: card-10-a2339775-bb4a-40eb-a59b-859e8f704041
+    _key: card-10-94f9d524-83fe-47a1-83ed-02850e39233a
 
 ---
 * **Trump suggests Ronny Jackson drop out of VA nomination:**  

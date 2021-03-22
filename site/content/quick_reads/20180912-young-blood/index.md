@@ -1,14 +1,14 @@
 ---
 title: Fountain of Youth
 slug: 20180912-young-blood
-_id: legacy-6763d18d-5f08-4e88-903a-8329343f3256
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-61da3a53-37c9-4dd8-a546-942b427a0d27
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - young-blood/
 _createdAt: '2018-09-12T11:59:35Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-12T11:59:35+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       Fad or Solid Science?
     citation: Fad or Solid Science?
-    _key: card-1-3b02c3ca-9335-4840-bc7d-e0b02af4015a
+    _key: card-1-ab2c32ef-23c0-493e-a995-4e88ab151d54
   - order: 1
     body: >-
       ## Tech’s “Death Disruption”
@@ -42,7 +42,7 @@ cards:
       person.
 
       * Most promising research done on mice, not conclusive for humans.
-    _key: card-2-8ad0e238-0e19-4468-bc17-e144da8349a3
+    _key: card-2-b3f30c43-8b5a-4b31-a0ff-34be09912062
   - order: 2
     body: >-
       ## Why It Matters: Panacea?
@@ -57,7 +57,7 @@ cards:
       Dr. Amy Wagers, Harvard professor, who showed the blood of young mice
       rejuvenates the hearts of old mice. Some experts believe young blood may
       treat Alzheimer’s & heart disease.
-    _key: card-3-67c89899-22d7-4bcb-8899-474bb39cf9a6
+    _key: card-3-56504285-d17f-445d-be19-8f7243d7f81d
   - order: 3
     body: >-
       ## Something To Consider:
@@ -71,7 +71,7 @@ cards:
       U.S. clinical trial offered teenage blood to elderly at $8K/treatment, but
       with no peer review or control study, some questioned company’s proclaimed
       positive results.
-    _key: card-4-eb896c7b-1610-4663-9cb0-6d0ee66ca6bd
+    _key: card-4-74b090c0-ba91-427f-be3a-5ef8a2c11d5a
   - order: 4
     body: >-
       Young blood research focuses on the internal - it won't erase wrinkles.
@@ -81,7 +81,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/young-blood/)
-    _key: card-10-fc0640cf-dc36-4caf-b201-375b6427b1d9
+    _key: card-10-f2b85eac-0f8d-4c0a-bec4-ad26281e4fb8
 
 ---
 * **Startups Flock To Turn Young Blood Into An Elixir of Youth:**  

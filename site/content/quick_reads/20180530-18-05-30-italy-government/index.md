@@ -1,14 +1,14 @@
 ---
 title: 18.05.30 Italy Government
 slug: 20180530-18-05-30-italy-government
-_id: legacy-aa5eeb27-45f9-46db-af10-393f1afac9d0
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-2f11e746-3239-41b2-8e53-0740cff0f3c6
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-30-italy-government/
 _createdAt: '2018-05-30T10:18:43Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-05-30T10:18:43+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       in inglese, per favore
     citation: in inglese, per favore
-    _key: card-1-cd29937b-ee72-4c2e-b9cc-a045b05328e3
+    _key: card-1-15be3b53-78f2-460d-b32c-d1402eb8f008
   - order: 1
     body: >-
       ## Political Crisis Explained
@@ -52,7 +52,7 @@ cards:
 
       Now it’s a political standoff that will likely lead to new elections as
       soon as June.
-    _key: card-2-fecffdd7-f542-4857-bf25-38eecb46d287
+    _key: card-2-f04e05cb-8a75-4169-80ec-c86c31931d50
   - order: 2
     body: >-
       ## Why It Matters
@@ -68,7 +68,7 @@ cards:
 
       Now What?
     citation: Now What?
-    _key: card-3-07408cdc-499c-4868-97f3-9ddbae4cb91b
+    _key: card-3-d2db379a-7144-4faf-a711-a1e508d4988d
   - order: 3
     body: >-
       Another round of elections may serve as a proxy vote on Italy leaving EU.
@@ -78,7 +78,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-30-italy-government/)
-    _key: card-10-37bcb822-db62-4aaf-ad2b-ef4577e1d3b0
+    _key: card-10-04663a7e-ecb7-4b70-b29c-052c337cf2a5
 
 ---
 * **GOOD CONTEXT:** [https://www.express.co.uk/news/world/966528/Italy-news-Italian-elections-latest-Jacob-Rees-Mogg-European-Union](https://www.express.co.uk/news/world/966528/Italy-news-Italian-elections-latest-Jacob-Rees-Mogg-European-Union)  

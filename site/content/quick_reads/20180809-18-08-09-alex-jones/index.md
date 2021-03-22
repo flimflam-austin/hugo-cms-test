@@ -1,14 +1,14 @@
 ---
 title: 18.08.09 Alex Jones
 slug: 20180809-18-08-09-alex-jones
-_id: legacy-a6dac2f6-2356-4025-b37d-c95b5d086eb0
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-316b1dfb-39a2-4a62-94ed-b16090d6b746
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-09-alex-jones/
 _createdAt: '2018-08-09T11:57:28Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-09T11:57:28+00:00'
 weight: 50
 featured_image:
@@ -20,7 +20,7 @@ colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
     body: "“Free Speech”  \nInfo War?\n\n============================\n\n> a\x18Infowars’A founder Alex Jones faces several defamation lawsuits, while social media platforms remove some of his content. When is opinion no longer FREE SPEECH?"
-    _key: card-1-29283faf-e5b7-488f-b30c-50f34de07fa7
+    _key: card-1-92bf8430-47a8-48cb-a4b5-119b04e100ec
   - order: 1
     body: >-
       ## Defamation Suits
@@ -37,7 +37,7 @@ cards:
 
       A LOOK AT THE LAW
     citation: A LOOK AT THE LAW
-    _key: card-2-d166eb4c-9251-4949-a0a6-afa711707ca7
+    _key: card-2-29fa032e-da6b-4a36-ba32-f301f2f25061
   - order: 2
     body: >-
       FREE SPEECH…  
@@ -54,7 +54,7 @@ cards:
       * Words likely to incite a breach of peace / violence
 
       * **Defamatory statementsA**
-    _key: card-3-0d8dc735-63c9-45d2-a04b-9ad29a2fd285
+    _key: card-3-2dc1a3d2-97d8-4f6b-b3b8-ec817c1b095c
   - order: 3
     body: >-
       # Defamation Law
@@ -71,7 +71,7 @@ cards:
 
       * **Opinion statement** = non-defamatory IF it can be proven false
       [**Jones’ defense**]
-    _key: card-4-7a0a7dce-8bc9-472c-983a-0685eb14f850
+    _key: card-4-f6488f45-8ece-43de-b318-dfe3162679c2
   - order: 4
     body: >-
       # Why This Matters Beyond Jones:
@@ -86,7 +86,7 @@ cards:
       The law hasn’t caught up to new communities or new voices made possible by
       this technology. How the law will evolve in this new era is still a
       question.
-    _key: card-5-b3c183b3-1bac-4fa4-b380-f6620d8d1c69
+    _key: card-5-3ed2ff76-4c62-4406-bb78-6150b91c78a2
   - order: 5
     body: >-
       Facebook, YouTube, Apple & Spotify recently removed some of Jones' content
@@ -96,7 +96,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-09-alex-jones/)
-    _key: card-10-7391d62d-38a8-41c5-aad4-643a1f4007a2
+    _key: card-10-1070fbfb-fdda-4505-a24c-cff834daf9db
 
 ---
 * **“Infowars” host doesn”t attend hearing in Sandy Hook lawsuit:**  

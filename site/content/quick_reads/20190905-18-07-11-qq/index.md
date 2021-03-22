@@ -1,14 +1,14 @@
 ---
 title: 18.07.11 Qq
 slug: 20190905-18-07-11-qq
-_id: legacy-b9cc4b26-68ac-439d-b7ad-ebfbfc5be96f
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-0ebe2233-2866-435f-ad08-bdb0df4de8ba
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-07-11-qq/
 _createdAt: '2018-07-11T03:15:54Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-07-11T03:15:54+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       Brussels, Belgium. He's expected to push member nations to pay more on
       defense. So far this year, only 5 of 29 countries have spent 2% of GDP on
       defense - the NATO standard.
-    _key: card-1-974d7ee4-1792-465a-a520-5f7bf1742784
+    _key: card-1-cb77589d-dbe7-4ce8-a393-b37b843852f7
   - order: 1
     body: >-
       > “Dear America, appreciate your allies, after all you don’t have that
@@ -39,7 +39,7 @@ cards:
         
       European Council President Donald Tusk in response to President Trump's
       claims the US is being "taken advantage of" by other NATO members.
-    _key: card-2-5f77515f-3782-492d-8b2e-245357e511da
+    _key: card-2-854b431a-7391-4de0-bf65-40faec2d6b3b
   - order: 2
     body: >-
       > ‘He is recovering at his home and will be fine.”  
@@ -50,7 +50,7 @@ cards:
       motorbike into an oncoming car that turned suddenly into his lane on the
       Italian island of Sardinia. Clooney was thrown several yards in the air.
       The 57-year-old was heading to a film set when the accident happened.
-    _key: card-3-d66941fc-af9f-4c10-86ae-2fd9fdb6a860
+    _key: card-3-56e99597-79d1-4b01-ad2f-c9f21830f0d3
   - order: 3
     body: >-
       > “We’ve made the difficult decision to discontinue serving peanuts on all
@@ -62,13 +62,13 @@ cards:
       peanuts on all flights starting August 1st. Severe allergic reactions to
       food are the cause of 150 deaths a year in the US & 2,000
       hospitalizations, according to the FDA.
-    _key: card-4-607d52cf-c3f2-43d3-8b28-b2f7701b1cfa
+    _key: card-4-6da31b85-69f7-4357-9fa0-285d00dbc85d
   - order: 4
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-07-11-qq/)
-    _key: card-10-e1e3e009-9bc6-4d64-9c8c-b725af722a7c
+    _key: card-10-2fe1d964-e9ca-4e5f-b4b4-1c70f18ad2df
 
 ---
 * **President Trump’s Remarks via the White House:**  

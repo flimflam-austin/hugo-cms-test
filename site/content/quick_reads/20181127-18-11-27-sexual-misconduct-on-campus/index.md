@@ -1,14 +1,14 @@
 ---
 title: New Rules on Campus?
 slug: 20181127-18-11-27-sexual-misconduct-on-campus
-_id: legacy-aa3c599b-19d9-47ee-8777-3903b329b2b7
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-949262de-39c4-47ca-87b9-597f1b96fe31
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-11-27-sexual-misconduct-on-campus/
 _createdAt: '2018-11-27T12:22:37Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-11-27T12:22:37+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Why It Matters
     citation: Why It Matters
-    _key: card-1-413e4724-b641-4a6c-8021-ff882a15c6ac
+    _key: card-1-6cf779f1-b41f-4d75-9565-2a8a45acb97b
   - order: 1
     body: >-
       # BIG PICTURE
@@ -44,7 +44,7 @@ cards:
       * Some say victims need broad guidelines; others say the broad guidelines
       cast too wide of a net. The Dept of Ed. believes the latter. Proposed
       rules would apply for K-12 & higher education.
-    _key: card-2-56ff0ec0-c949-4e6b-8b82-7c16e3746dcb
+    _key: card-2-d79fa226-4944-47fe-9b1d-f72088b2892b
   - order: 2
     body: >-
       ## Proposed New Rules
@@ -59,7 +59,7 @@ cards:
 
       * Allow accused students to **cross-examine** their accusers (using a
       representative).
-    _key: card-3-725ee9e8-ab6a-4419-8496-d6e9c841529e
+    _key: card-3-3676dc4d-549c-4414-8a20-9a12678d5d10
   - order: 3
     body: >-
       **More specific** (or **more narrow**, depending on your point of view)
@@ -71,7 +71,7 @@ cards:
       * **NEW DEFINITION:** ‘unwelcome conduct on the basis of sex that is so
       severe, pervasive and objectively offensive that it denies a person access
       to the school’s education program or activity.’
-    _key: card-4-59799c4d-13f0-4283-8edf-72e10bcbc727
+    _key: card-4-614219e6-f810-4a4d-afd3-9c19f00ab89e
   - order: 4
     body: >-
       > “… my focus was, is, and always will be on ensuring that every student
@@ -84,7 +84,7 @@ cards:
         
         
       Sec. of Education Betsy DeVos
-    _key: card-5-57bfb4cd-3180-42e4-8e89-a785b2943d21
+    _key: card-5-40547023-5e23-4718-8798-1223bf51653b
   - order: 5
     body: >-
       > ‘… something like **one in five women will be victims of sexual assault
@@ -97,7 +97,7 @@ cards:
         
         
       Fmr. Sec. of Education John King. Jr
-    _key: card-6-5daeb4f8-c452-4d47-8929-e054bae5b0e0
+    _key: card-6-b9ab0eb2-342c-474d-913c-43bedfbca386
   - order: 6
     body: >-
       Some ask whether or not sexual crimes in college should be handled by
@@ -108,7 +108,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-11-27-sexual-misconduct-on-campus/)
-    _key: card-10-6923da50-1b8d-4f98-bb55-f96bbb031ac6
+    _key: card-10-51c5b26c-b531-49a9-b83c-973deef62f4e
 
 ---
 * **DeVos proposes overhaul to campus sexual misconduct rules:**  

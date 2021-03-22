@@ -1,14 +1,14 @@
 ---
 title: Springing Ahead
 slug: 20200308-day-light-saving
-_id: legacy-65a2507b-40ad-47db-b522-178fc5bb39ce
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-3be25fe8-bf13-4147-8cdd-de401abaf59f
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - day-light-saving/
 _createdAt: '2020-03-07T16:51:12Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2020-03-07T16:51:12+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
       ## WHY?
 
       > HINT: It has nothing to do with helping farmers.
-    _key: card-1-04423bc2-ce01-4590-bbd5-b82a9f679974
+    _key: card-1-e6aa6e97-fb5a-4fe2-bf3d-76c1e5cda762
   - order: 1
     body: >-
       ## 3 Things To Know About Daylight Saving Time (DST)
@@ -40,7 +40,7 @@ cards:
       countries observe DST – that’s less than 40% of world.
 
       3. Daylight saving time lasts 8 months. Standard time lasts 4 months.
-    _key: card-2-1d53d95c-4241-4d3d-88e0-ebbdbb4d053d
+    _key: card-2-0523da89-f9a1-4048-a692-fe237c4e7b5d
   - order: 2
     body: >-
       ## ORIGINS
@@ -54,7 +54,7 @@ cards:
 
       * **2005:** Congress re-set the start of DST to the 2nd Sunday in March &
       set the end for the 1st Sunday in November.
-    _key: card-3-f5a5659d-f4ea-4ff1-bc6b-a3f2b1890c71
+    _key: card-3-21ec9098-5a96-4c49-9da2-eb132d9028e0
   - order: 3
     body: >-
       ## Did You Know?
@@ -70,7 +70,7 @@ cards:
       * Two states – Arizona (except Navajo territories) and Hawaii – as well as
       five major U.S. territories, don’t observe DST & keep year-round standard
       time.
-    _key: card-4-95de9e0d-8f61-4f52-b997-e8975c8beb96
+    _key: card-4-e49a41c7-aabe-431e-a2cc-acc02a8a7d2e
   - order: 4
     body: >-
       > _“I prefer Daylight Savings over Standard but in the end what I really
@@ -83,7 +83,7 @@ cards:
       eliminate the time shift and make daylight saving time permanent.
       President Trump has also voiced his support for keeping year-round
       daylight saving time.
-    _key: card-5-408a4e61-a182-4bc8-8320-c70e8bcc0852
+    _key: card-5-02175fcf-cf97-4f0b-925c-27eb0be74e81
   - order: 5
     body: >-
       Changing our clocks was controversial from the beginning with complaints
@@ -94,7 +94,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/day-light-saving/)
-    _key: card-10-6499d2fb-1330-4346-bd1d-92582d0ca61c
+    _key: card-10-3ca33781-1924-40f7-a364-91aa4259863c
 
 ---
 * **Daylight Saving Time**  

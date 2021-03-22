@@ -1,14 +1,14 @@
 ---
 title: 18.07.17 Bezos Qtd
 slug: 20180717-18-07-17-bezos-qtd
-_id: legacy-58ab343d-346e-4f89-bf81-02a86372d8ed
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-e0ed7ea4-f1a4-40fc-95fc-64a28a169226
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-17-bezos-qtd/
 _createdAt: '2018-07-17T11:00:54Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-17T11:00:54+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       Jeff Bezos
     citation: Jeff Bezos
-    _key: card-1-80d694cf-ad30-48ce-9184-d98f23d95f6c
+    _key: card-1-3d46244d-c613-4b91-9243-b23c693816cd
   - order: 1
     body: >-
       The founder and CEO of Amazon, Jeff Bezos, was just named the richest
@@ -36,7 +36,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-17-bezos-qtd/)
-    _key: card-10-78b51319-9e1d-4042-9bf6-7cfd7a3023c0
+    _key: card-10-bcdce90a-cc9c-4261-8cd9-0132b88018c0
 
 ---
 * **Forum on Leadership: Conversation with Jeff Bezos:**  

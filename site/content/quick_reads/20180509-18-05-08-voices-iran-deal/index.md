@@ -1,14 +1,14 @@
 ---
 title: 18.05.08 Voices on the Iran Deal
 slug: 20180509-18-05-08-voices-iran-deal
-_id: legacy-b8a0d4e2-0e4a-4c47-8320-ce404f268cac
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-940946f7-1b19-47e4-a19a-02b3247e1a3a
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-08-voices-iran-deal/
 _createdAt: '2018-05-09T10:45:50Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-09T10:45:50+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-ae79c865-6586-475c-a44e-7c76f4608f14
+    _key: card-1-da9ffdaf-a7e1-40c3-a92b-f4d4519098ae
   - order: 1
     body: >-
       > “Look, this deal was fundamentally flawed, as the President said.A It
@@ -51,7 +51,7 @@ cards:
       [click: full
       briefing](https://www.whitehouse.gov/briefings-statements/press-briefing-national-security-advisor-john-bolton-iran/)
     citation: 'click: full briefing'
-    _key: card-2-aea5c72e-0141-475b-919b-783bf9ec86fb
+    _key: card-2-5f1aad41-b8f5-4f00-98cf-5f1635ba6be1
   - order: 2
     body: >-
       > ‘We have reached a dead-end. The problem is that if the Islamic Republic
@@ -63,7 +63,7 @@ cards:
       Anonymous Business Man to Financial Times columnist Najmeh Bozorgmehr who
       asks: Has the countdown to the collapse of the Islamic Republic of Iran
       begun?
-    _key: card-3-07762392-01fd-4f9b-a373-d8d994dcbdf2
+    _key: card-3-29851b76-1d1c-40b0-92d1-f9ac37bad8a3
   - order: 3
     body: >-
       > “If we achieve the deal’s goals in cooperation with other members of the
@@ -77,7 +77,7 @@ cards:
 
       Flip: "Not A Treaty"
     citation: 'Flip: "Not A Treaty"'
-    _key: card-4-6884da79-e828-4cd0-93c9-71b23667d9e1
+    _key: card-4-59eff964-9ed3-4a81-8a0c-43cd5c5c3b32
   - order: 4
     body: >-
       > “(Iran) can opt to have a functioning economy, free of sanctions and
@@ -89,7 +89,7 @@ cards:
         
         
       Bret Stephens, NY Times Columnist
-    _key: card-5-308d2823-5d0a-4236-a55b-f78fba303ec9
+    _key: card-5-5ae13f60-4462-489d-b3aa-7493dd3ce397
   - order: 5
     body: >-
       > “Blatant falsehoods in Trumps’s case against #Iran deal will only
@@ -104,7 +104,7 @@ cards:
 
       [Click: Tweet](https://twitter.com/vali_nasr/status/993954934851764225)
     citation: 'Click: Tweet'
-    _key: card-6-a89714ff-5e1a-4ea3-b76a-f831d9a9e75a
+    _key: card-6-1bba0054-a144-42ef-83ad-26e6b9cb884e
   - order: 6
     body: >-
       > “The IDF has detected irregular Iranian activity in Syria and is
@@ -119,7 +119,7 @@ cards:
 
       [Click: Tweet](https://twitter.com/LTCJonathan/status/993916646011088896)
     citation: 'Click: Tweet'
-    _key: card-7-15a4c3a1-0180-40f1-837a-c5c9165db11a
+    _key: card-7-e2139d35-1f47-42d5-b08e-7c002fa6b8fd
   - order: 7
     body: >-
       > “In a dangerous world, America must be able to rely in part on strong,
@@ -134,7 +134,7 @@ cards:
       [Click:
       Statement](https://www.facebook.com/barackobama/posts/10155854913976749)
     citation: 'Click: Statement'
-    _key: card-8-ce4d86d3-0841-4b17-b681-c64bcc91e8ac
+    _key: card-8-eb98bbae-36f4-435c-b9e2-a46533f15e6a
   - order: 8
     body: >-
       > “The President absolutely made the right decision to pull out of the
@@ -150,7 +150,7 @@ cards:
 
       [Click: Statement](https://usun.state.gov/remarks/8419)
     citation: 'Click: Statement'
-    _key: card-9-f514b58e-27d2-4126-9768-2f2cce2fd2fa
+    _key: card-9-2d5467b0-9e4d-4801-89af-55e44c8bb8c0
   - order: 9
     body: >-
       Some sources are found in links inside card itself; others are listed
@@ -158,7 +158,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-08-voices-iran-deal/)
-    _key: card-10-5f54071d-0873-406a-b2b2-ae13e65211ee
+    _key: card-10-ce734d25-e11d-429e-bc0c-c16de1e7c54e
 
 ---
 * **SmartHER Read: Trump announces decision to “withdraw” from Iran nuclear deal:** [https://www.cbsnews.com/live-news/trump-iran-nuclear-deal-announcement-today-2018-05-08-live-stream-updates/](https://www.cbsnews.com/live-news/trump-iran-nuclear-deal-announcement-today-2018-05-08-live-stream-updates/)

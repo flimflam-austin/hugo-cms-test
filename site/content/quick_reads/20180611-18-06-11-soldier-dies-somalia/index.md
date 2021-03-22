@@ -1,14 +1,14 @@
 ---
 title: 18.06.11 Soldier Dies in Somalia
 slug: 20180611-18-06-11-soldier-dies-somalia
-_id: legacy-a818d0e2-1b66-4dd2-8f7b-dd3224979ca2
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-07e55eb7-4e28-48b6-92bc-130fb21fc95f
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-11-soldier-dies-somalia/
 _createdAt: '2018-06-11T10:41:44Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-11T10:41:44+00:00'
 weight: 50
 card_series: Now You Know
@@ -24,7 +24,7 @@ cards:
 
       What To Know
     citation: What To Know
-    _key: card-1-8a894a99-8dc8-428a-a84f-c865d27af518
+    _key: card-1-5666c1f4-2667-4c61-9745-b29b239de6bf
   - order: 1
     body: >-
       ## Staff Sgt. Alex Conrad
@@ -45,7 +45,7 @@ cards:
 
       Why Somalia?
     citation: Why Somalia?
-    _key: card-2-417d655a-2c2d-41bf-a373-b8bedab0d123
+    _key: card-2-034ce731-9916-4b86-8340-bf0986ab1a0f
   - order: 2
     body: >-
       ## Why Is U.S. In Somalia?
@@ -57,7 +57,7 @@ cards:
       * U.S. soldiers working with local forces when attacked. Their mission:
       _“to clear al-Shabab terrorists from contested areas, liberate villages
       from al-Shabab control, and establish a permanent combat outpost”_ (DOD).
-    _key: card-3-6fb49b95-6836-43e7-b2a8-5d9e2b5ce0ab
+    _key: card-3-26185378-4692-431a-af84-43c61bd3a565
   - order: 3
     body: >-
       ## Why al-Shabab Matters:
@@ -72,7 +72,7 @@ cards:
       * U.S. recently expanded operations againstA al-Shabab due to concerns the
       group will gain more territory & power in Africa and launch attacks on
       Americans, either overseas or in U.S.
-    _key: card-4-55835706-7a12-4477-93a9-5c41e6680ccb
+    _key: card-4-caa4f73a-2487-4ea1-a7b0-9947fcd620d2
   - order: 4
     body: >-
       "US Special Operations Forces often work in the shadows in Africa. The
@@ -81,7 +81,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-11-soldier-dies-somalia/)
-    _key: card-10-9ab9a942-4a07-46ab-b1d9-14a3c5130df6
+    _key: card-10-21a7b104-e09a-40be-9706-56ece6ffafa6
 
 ---
 * **DOD Identifies Army Casualty:** [https://www.defense.gov/News/News-Releases/News-Release-View/Article/1545936/dod-identifies-army-casualty/](https://www.defense.gov/News/News-Releases/News-Release-View/Article/1545936/dod-identifies-army-casualty/)

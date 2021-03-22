@@ -1,14 +1,14 @@
 ---
 title: 'Trend to Watch: Hemlines in the Headlines'
 slug: 20181003-18-10-03-dress-codes
-_id: legacy-3af7fe6d-0335-46c8-b85d-ba4172a66bc4
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-e43ccce7-afe3-4190-a096-0a093bbf3ab9
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-10-03-dress-codes/
 _createdAt: '2018-10-03T11:37:15Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-10-03T11:37:15+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Helpful or hurtful?
     citation: Helpful or hurtful?
-    _key: card-1-aaae0a0b-0eca-4aed-9763-b68be677fc50
+    _key: card-1-3e9fdfc4-2742-405a-a015-5c2b6a2c6fa3
   - order: 1
     body: >-
       ## Dressed To Suppress?
@@ -44,7 +44,7 @@ cards:
       * More recently, schools in **CA, OR, and IL**A adopted more “**femaleA
       friendly**” dress codes, inspired by theA National Organization for Women
       (NOW).
-    _key: card-2-719e87f6-2433-4a03-baac-6eaaf88695e0
+    _key: card-2-2742d96b-f3b5-4663-a038-8e598aaf6d7f
   - order: 2
     body: >-
       ## WHY?
@@ -56,7 +56,7 @@ cards:
 
       * CA’s Alameda school district is the latest to adopt a dress code that
       allows items once deemed “too distracting” (ex: short shorts, & midriffs).
-    _key: card-3-5c26abb9-f19f-4d95-94f5-4d7e0dad6610
+    _key: card-3-3d5ada0d-d034-4dd0-ba9f-b897ed188867
   - order: 3
     body: >-
       > “because more of the policy was focused on girls’ clothing than boys,
@@ -69,7 +69,7 @@ cards:
       Alameda, California Unified School District on why it changed its dress
       code policy. Some argued the policy was too vague and enforced differently
       depending on a student's particular body type (body shaming).
-    _key: card-4-f19c30c4-4c5f-4640-8607-8ca2919110d3
+    _key: card-4-5dd44b29-85e1-4fca-8a06-e591e6ee9a3e
   - order: 4
     body: >-
       > “It’s good not to punish girls for being distractions. I fully, fully
@@ -81,7 +81,7 @@ cards:
       expressed concern about not enforcing a stricter dress code and whether or
       not that sends the signal to girls that it's okay to "sex it up" or dress
       inappropriately with no accountability.
-    _key: card-5-5222cd84-ec2c-4da3-b777-f64c62b61a7a
+    _key: card-5-ef7a07b7-d345-4d46-b3a4-3d854c5d14a1
   - order: 5
     body: >-
       Businesses nationwide are also revamping their dress codes to embrace a
@@ -91,7 +91,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-10-03-dress-codes/)
-    _key: card-10-709bd695-7271-4c44-807c-78f287c103cb
+    _key: card-10-0ae551d4-87d9-46ee-ad1a-c54678ffb8c8
 
 ---
 * **Percentage of public schools with various safety and security measures:A**  

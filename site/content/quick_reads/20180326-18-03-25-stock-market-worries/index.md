@@ -1,14 +1,14 @@
 ---
 title: 18.03.25 Stock Market Worries
 slug: 20180326-18-03-25-stock-market-worries
-_id: legacy-393fe4f3-c71d-4c93-9608-55d2bddbf14b
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-89d777ab-39d9-43a9-9ba1-097c8ccbbc3e
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-25-stock-market-worries/
 _createdAt: '2018-03-26T11:15:56Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-26T11:15:56+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       what happened?
     citation: what happened?
-    _key: card-1-aa29dff1-bb3a-440e-bc88-c958531e27ba
+    _key: card-1-f2ad409d-991a-4abe-8356-7ed74ffe49ee
   - order: 1
     body: >-
       # STEEP LOSSES
@@ -54,7 +54,7 @@ cards:
 
       WHY NOW?
     citation: WHY NOW?
-    _key: card-2-53db4df5-1ae2-4c08-8c4e-df9b9befdc3e
+    _key: card-2-357ddbaf-86a6-4796-98b4-151cc0941168
   - order: 2
     body: >-
       ## Why? Pick Your Poison:
@@ -72,7 +72,7 @@ cards:
 
       [CLICK: Trade Refresher](https://smarthernews.com/us-china-tarriffs/)
     citation: 'CLICK: Trade Refresher'
-    _key: card-3-71a93336-e223-4b4f-b89b-7ceb2a5a2ce6
+    _key: card-3-69a5518f-8490-4ab3-9ff6-33309f6adede
   - order: 3
     body: >-
       Will the Hits  
@@ -90,7 +90,7 @@ cards:
 
       So Now What?
     citation: So Now What?
-    _key: card-4-340bfb57-c43f-4f06-a4be-26b634021aa4
+    _key: card-4-17e7436c-3253-464c-8f23-749d7c721031
   - order: 4
     body: >-
       WHAT TO WATCH:
@@ -104,7 +104,7 @@ cards:
       income/spending data this week, markets closed Fri. for holiday
 
       * **Earnings season:** Begins late April
-    _key: card-5-7f7b0c00-f55e-463e-828e-8497519dcfe4
+    _key: card-5-192c9ad6-f6a3-47f6-b5ab-3086257fd436
   - order: 5
     body: >-
       # WALL ST. TO D.C.
@@ -118,7 +118,7 @@ cards:
 
       * The Dow closed at 19,827 on Inauguration Day, Jan. 20, 2017, which means
       the Dow is still up 3,700 points in the ‘Trump rally.’
-    _key: card-6-22f740f8-f25e-4619-85eb-563e6e52274e
+    _key: card-6-a8c48d41-7658-467c-9964-10ee0e6d5505
   - order: 6
     body: >-
       Setting the tone for the trading week? The Trump Admin. says its not
@@ -127,7 +127,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-25-stock-market-worries/)
-    _key: card-10-98341e8a-de15-4fe5-a315-a2dc50c95f1d
+    _key: card-10-436b8538-3503-4b3a-92e0-77f06b3d9eac
 
 ---
 * Dow sheds more than 1,100 points in two days as trade jitters rock Wall Street: [http://money.cnn.com/2018/03/23/investing/dow-jones-stocks-trade-war-china/index.html](http://money.cnn.com/2018/03/23/investing/dow-jones-stocks-trade-war-china/index.html)

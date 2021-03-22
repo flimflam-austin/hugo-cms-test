@@ -1,14 +1,14 @@
 ---
 title: 18.02.28 Roseanne Tvland Domination
 slug: 20180329-18-02-28-roseanne-tvland-domination
-_id: legacy-90ac8c15-6d55-4fa9-bb07-d12c793e8f36
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-10d2913c-df79-4eaa-bc52-b63988af2f05
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-02-28-roseanne-tvland-domination/
 _createdAt: '2018-03-29T09:46:46Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-29T09:46:46+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       Flip For Why It Matters
     citation: Flip For Why It Matters
-    _key: card-1-b423165e-8aaa-451e-83d5-eb43979fe779
+    _key: card-1-9b87e764-8112-4da2-a310-1ea1a53b0046
   - order: 1
     body: >-
       # Distinct Departure
@@ -49,7 +49,7 @@ cards:
         
         
       Hollywood Reporter, March 28, 2018
-    _key: card-2-f9b6e9c1-0dd7-4595-8687-2cfffb69cea3
+    _key: card-2-c42f124d-3894-4afd-b8f8-f07e6054969f
   - order: 2
     body: |-
       # Flyover Power
@@ -62,7 +62,7 @@ cards:
       Cincinnati, Ohio
 
       Kansas City, Missouri
-    _key: card-3-a6146952-6e94-445c-be55-bd1821282ec1
+    _key: card-3-d226e606-c3e6-4bb6-a64f-d2f6b92bf238
   - order: 3
     body: >-
       ## Comparatively Speaking
@@ -76,7 +76,7 @@ cards:
 
       * ‘Will & Grace’ was justA **re-upped** for a 3rd season; 4M viewers on
       average per show.
-    _key: card-4-e7762fef-e027-4a7c-a40b-051e2133f378
+    _key: card-4-cb10e9d5-e51c-416c-af94-08fb5fdba9ee
   - order: 4
     body: >-
       "Roseanne"s popularity offers advertisers valuable real estate. How much
@@ -86,7 +86,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-02-28-roseanne-tvland-domination/)
-    _key: card-10-f58edb67-97d6-49b9-add8-bd68ba632a07
+    _key: card-10-3d7bf18b-1cca-4dd6-8cbe-1fedfe065d46
 
 ---
 * **Author’s Note**: ABC’s ‘Roseanne’ crushed competitors days after CBS had a record showing for its ’60 minutes’ with an exclusive interview with an adult-film star, Stormy Daniels, who alleges an affair with President Trump. The one thing these two drastically different broadcasts have in common? Trump as the topic. NYT reports the President called Roseanne to congratulate her on the show’s “huge” ratings.

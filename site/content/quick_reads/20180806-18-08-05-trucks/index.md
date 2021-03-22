@@ -1,14 +1,14 @@
 ---
 title: 18.08.05 Trucks
 slug: 20180806-18-08-05-trucks
-_id: legacy-8c0887ff-ef08-4168-88a0-c915368bd2ec
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-804fd6c9-ae8c-4e90-bd51-42e3749752d8
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-05-trucks/
 _createdAt: '2018-08-06T12:37:55Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-06T12:37:55+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       but...my amazon order!
     citation: but...my amazon order!
-    _key: card-1-2f1aee13-d2b1-459e-83c1-7d3b8b5d96c9
+    _key: card-1-e2dde35f-3267-4305-a62c-ff7446b44b19
   - order: 1
     body: >-
       ## Why Driver Shortage Matters
@@ -47,7 +47,7 @@ cards:
 
       * **Slower Deliveries:**A Are your Amazon delivery taking longer? You’re
       not alone.
-    _key: card-2-9765c93d-3fe1-4cc2-b11f-c511e6809c2f
+    _key: card-2-b7422493-9050-46fe-b4d4-6aada00d1320
   - order: 2
     body: >-
       Drivers Wanted
@@ -64,7 +64,7 @@ cards:
       * **Median age: 49**
 
       * **6% are women, two-thirds are white**.
-    _key: card-3-5ff722f3-94ba-4e04-9327-36d9cfb10bae
+    _key: card-3-88b8c044-6a67-451d-b534-2daaf75ad396
   - order: 3
     body: >-
       Trying to Fix It:  
@@ -78,7 +78,7 @@ cards:
       * White House is backing a trial program to **allow those under 21 with
       military training** to operate commercial vehicles across state lines,
       showing a willingness to possibly change federal law.
-    _key: card-4-9a384f33-1b25-4713-8358-c616a086539d
+    _key: card-4-8d2ccc35-135b-4588-9cfe-d08ce017f5b9
   - order: 4
     body: >-
       Going the way of the dinosaurs? Although there's plenty of hype around
@@ -87,7 +87,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-05-trucks/)
-    _key: card-10-7b1636ac-0e76-4577-914c-ee49a7ec3325
+    _key: card-10-699cab07-0865-4b51-8764-0e754edeaac0
 
 ---
 * **Truck Orders Soared to a Monthly Record in July:**  

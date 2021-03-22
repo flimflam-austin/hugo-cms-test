@@ -1,14 +1,14 @@
 ---
 title: What's Happening at the White House?
 slug: 20181214-chief-of-staff-changes-investigations-what-to-know
-_id: legacy-c37db429-5a1e-4f9a-804c-4306129cc6ef
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-68d7f540-6b4d-4952-8187-875a7a2f0038
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - chief-of-staff-changes-investigations-what-to-know/
 _createdAt: '2018-12-10T13:14:43Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-12-10T13:14:43+00:00'
 weight: 50
 featured_image:
@@ -31,11 +31,11 @@ cards:
 
       Why It matters
     citation: Why It matters
-    _key: card-1-a74a9c93-c8d4-4098-8c25-00040e803268
+    _key: card-1-320ed9fe-1a91-438a-b936-c04114fc5696
   - order: 1
     body: "> ‘John Kelly will be leaving a\x14 I don’t know if I can say a\x18retiring.’ But, he’s a great guy.”  \n  \n  \n  \nPres. Trump speaking to the press about Chief of Staff John Kelly's departure. The fmr. Marine 4-star general, started w/the administration as Sec. of Homeland Security & became Chief of Staff in July 2017. Kelly’s son was killed in Afghanistan. During a notable moment of his tenure, he described what happens when a solider dies at war.\n\n[Watch Now](https://www.youtube.com/embed/At1hOCEIwE8?enablejsapi=1&autoplay=1&rel=0)"
     citation: Watch Now
-    _key: card-2-1eaab836-6cf4-4db8-b78f-f481a8556a02
+    _key: card-2-30aeb2f4-500e-4fc8-994a-1507a0198533
   - order: 2
     body: >-
       ## WH Chief of Staff:
@@ -49,7 +49,7 @@ cards:
 
       * **Bottom Line:**A Chief of StaffA runs the office, serves on Cabinet &
       as a close advisor to the President.
-    _key: card-3-e42e3f15-e7c1-4299-934d-3c7ef58702fc
+    _key: card-3-5f6c82f5-8799-47cd-874f-04087223fa36
   - order: 3
     body: >-
       ## Something To Consider:
@@ -65,7 +65,7 @@ cards:
       past (Paul Manafort).
 
       * Potential campaign finance law violations by Pres. Trump.
-    _key: card-4-ef299e06-1f2b-4bff-8545-818521e1c6ab
+    _key: card-4-b9c14ebd-33ca-49e0-803b-77b2f8e7e25d
   - order: 4
     body: >-
       ## Why Timing Matters:
@@ -79,7 +79,7 @@ cards:
         
         
       Associated Press
-    _key: card-5-dfbd9ed3-c4ca-471d-8fa9-7e622c2ff234
+    _key: card-5-e944f996-7de3-4aad-9614-4742cb808dd6
   - order: 5
     body: >-
       Despite rampant rumors, no official reason was given for Kelly's upcoming
@@ -90,7 +90,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/chief-of-staff-changes-investigations-what-to-know/)
-    _key: card-10-01ed92bb-5779-4f36-b6f6-09cc34d54471
+    _key: card-10-49a89150-c86f-4ec9-a0c9-7677ed80058a
 
 ---
 * ****UPDATED****  

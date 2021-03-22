@@ -1,14 +1,14 @@
 ---
 title: 18.07.26 Mexico & Immigration
 slug: 20180726-18-07-26-mexico-immigration
-_id: legacy-16f94451-ae37-4eef-8a4f-220e1e52ff13
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-d5e84401-584b-4cfa-b16a-2bf7805fd4e2
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-26-mexico-immigration/
 _createdAt: '2018-07-26T11:59:51Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-26T11:59:51+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-26-mexico-immigration/)
-    _key: card-10-eb8d4080-5aa9-4f65-bc3e-7897c1062ce0
+    _key: card-10-87bfe2f7-227f-4584-b510-d6479f02693c
 
 ---
 * **Mexican President-elect vows to deter migration:**  

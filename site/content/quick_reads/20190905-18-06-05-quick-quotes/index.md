@@ -1,14 +1,14 @@
 ---
 title: 18.06.05. Quick Quotes
 slug: 20190905-18-06-05-quick-quotes
-_id: legacy-fe751e3e-ff7a-4502-bfe0-b2bfb27c43d8
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-dba27083-4a8c-4e4d-85a8-4656bc04e27a
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-05-quick-quotes/
 _createdAt: '2018-06-07T10:51:24Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-06-07T10:51:24+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       DHS Press Secretary Tyler Q. Houlton. This is an increase of 160% from May
       2017. Compared to May 2017, family apprehensions jumped by 435% and
       apprehensions of unaccompanied minors went up by more than 300%.
-    _key: card-1-ea62c88a-f8a8-4d54-8bc4-746a4331573b
+    _key: card-1-2bcdedbc-98bb-4721-a524-051e714f308a
   - order: 1
     body: >-
       > “I hope to continue this important work by working together with
@@ -42,7 +42,7 @@ cards:
       Alice Marie Johnson, a woman serving a life sentence without parole for
       non-violent drug charges. Kardashian West met with the President to
       advocate for Johnson and prison reform.
-    _key: card-2-6207e208-e6ad-44d7-aaa3-27b9caa87d3b
+    _key: card-2-50af4b2d-c1e2-4115-af08-3ee6cf81b155
   - order: 2
     body: >-
       > ‘It looks like the lobster was cooked.”  
@@ -53,7 +53,7 @@ cards:
       Bros. supermarket talking to Newsweek about a super rare, 1 in 30 million
       lobster, delivered at random to the grocery. The phenom was saved from
       boiling water and butter.
-    _key: card-3-85456075-8715-450e-9670-1f4718319223
+    _key: card-3-9efd600d-df55-49c2-ac58-5eb9c255614d
   - order: 3
     body: >-
       > ‘As a result of the screening process so far, the department has sent a
@@ -66,13 +66,13 @@ cards:
       the U.S. Consulate in Guangzhou, China. Staffers are said to be suffering
       from a mystery illness similiar to the one suffered by U.S. diplomatic
       staff in Cuba.
-    _key: card-4-aa60714b-e5c7-4eb8-a52b-d81d9b5f8cad
+    _key: card-4-bb0674ff-c7cc-479d-8c85-99d266664eaa
   - order: 4
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-06-05-quick-quotes/)
-    _key: card-10-ec750ec0-a4e3-4cba-8c27-0b3959242561
+    _key: card-10-b90d6c0a-c869-495e-9ec4-c20f1344ca73
 
 ---
 * **Statement from DHS Press Secretary on May Border Numbers:** [https://www.dhs.gov/news/2018/06/06/statement-dhs-press-secretary-may-border-numbers](https://www.dhs.gov/news/2018/06/06/statement-dhs-press-secretary-may-border-numbers)

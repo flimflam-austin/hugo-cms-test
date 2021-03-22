@@ -1,14 +1,14 @@
 ---
 title: 18.06.05 Is God Key to Discipline?
 slug: 20180607-18-06-05-god-key-discipline
-_id: legacy-61e0fb37-1737-4596-9545-2d194fbf093e
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-bb6337db-ec42-4bfe-80a6-31e8219128aa
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-05-god-key-discipline/
 _createdAt: '2018-06-07T11:02:47Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-07T11:02:47+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       Flip: The Findings
     citation: 'Flip: The Findings'
-    _key: card-1-2fa81b8e-ffba-412a-8717-9c5f284bdd8d
+    _key: card-1-0038d172-cc42-4392-8e8a-f5b8739abc46
   - order: 1
     body: >-
       ## The Findings:
@@ -43,7 +43,7 @@ cards:
 
       Why This Matters
     citation: Why This Matters
-    _key: card-2-06a2149c-5106-476e-aa3d-31206cd01131
+    _key: card-2-b89fb342-d1f9-417c-b9a3-1206b7d1d776
   - order: 2
     body: >-
       ## Big Picture
@@ -56,7 +56,7 @@ cards:
       * Study accounted for “race, gender, socioeconomic status, & family
       immigrant status” & arrived at same result. The authors have a few
       theories as to why.
-    _key: card-3-b77036ef-853d-4753-b442-30be0e8c0090
+    _key: card-3-da02bebb-ea5a-4d81-8acb-71a12124108a
   - order: 3
     body: >-
       > “Perhaps students are more likely to internalize such values when they
@@ -67,7 +67,7 @@ cards:
         
         
       Self-Discipline and Catholic Schools
-    _key: card-4-33134676-0f02-471f-8abd-be6819843f6b
+    _key: card-4-515ab0bd-8e0c-47bd-9f56-7af83dae5697
   - order: 4
     body: >-
       Regardless, one thing is certain: Religion can mold hearts and minds in
@@ -77,7 +77,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-05-god-key-discipline/)
-    _key: card-10-e0109b18-17d3-4d7f-abed-21493e3a20af
+    _key: card-10-1ee19767-4ca2-4300-94fa-25e5a630d4d5
 
 ---
 * **The Catholic School Difference:** [https://www.wsj.com/articles/the-catholic-school-difference-1527894168](https://www.wsj.com/articles/the-catholic-school-difference-1527894168)

@@ -1,14 +1,14 @@
 ---
 title: 18.12.07 Pearl Harbor
 slug: 20201207-18-12-07-pearl-harbor
-_id: legacy-22cd902c-bc94-404d-b873-4b2d1c3a4149
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-db32fa0e-075a-400d-81bc-8dc3ec260215
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-12-07-pearl-harbor/
 _createdAt: '2018-12-07T12:58:58Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-12-07T12:58:58+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       **7:55 a.m.**  
 
       **Japanese attack Pearl Harbor**
-    _key: card-1-b3238710-6d0b-4913-8a75-59ba4342c467
+    _key: card-1-6b98a393-692c-41b7-b340-cff4bbe8b6e7
   - order: 1
     body: >-
       ## Why Pearl Harbor?
@@ -47,7 +47,7 @@ cards:
 
       * **2,403 Americans died**; 1,177 on USS Arizona. 900+ bodies remain
       entombed underwater in the ship.
-    _key: card-2-7209732b-bf96-4b2a-94b4-73482053c455
+    _key: card-2-54766390-2750-4c39-873e-80dc0d2f00e2
   - order: 2
     body: >-
       ## A First in 2018
@@ -64,7 +64,7 @@ cards:
         
       _“My doctor said,’ Lou, damn it, you’re old.'”__Lou Conter, 97, a pilot,
       explaining why he isn’t traveling.
-    _key: card-3-8ef289f1-3181-4f4b-b2c3-1a5c1385eca4
+    _key: card-3-e27d64bf-24b7-406c-b419-5f2700be9ea8
   - order: 3
     body: >-
       ## Not Just Soldiers Impacted
@@ -78,7 +78,7 @@ cards:
 
       * **Real Fear:** One mother, fearing atrocities of Japanese told an
       American soldier to shoot her hiding family if Japanese invaded.
-    _key: card-4-de9cf9ec-8e3d-4328-b6f3-121077ff3031
+    _key: card-4-83b73dcc-ffe3-4b42-bb42-6a6bb9039561
   - order: 4
     body: >-
       > “I saw a formation of black planes diving straight into the ocean off
@@ -92,10 +92,10 @@ cards:
       Harbor attack. Her editor refused to publish it because of its graphic
       nature. The Washington Post printed it 71 years later (read it in full on
       our source page).
-    _key: card-5-9eec0199-aa1c-46ab-92a0-a13a472ca3dd
+    _key: card-5-1fb6a2fa-69e9-491b-b725-70fa6f0da071
   - order: 5
     body: "December 7, 1941a\x14a date which will live in infamy - a famous phrase by Pres. Roosevelt uttered the day *after* the Pearl Harbor attack. Japan planned the attack while all along engaging in diplomatic talks with America. Listen to the speech:\n\n[view sources](https://smarthernews.com/18-12-07-pearl-harbor/)"
-    _key: card-10-0522608c-7b09-47a1-890a-6a9553135883
+    _key: card-10-c6638dc9-974b-46ed-a794-2e517145b878
 
 ---
 * **Listen to the famous speech by Pres. FDR:**A [http://historymatters.gmu.edu/d/5166/](http://historymatters.gmu.edu/d/5166/)

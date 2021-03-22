@@ -3,28 +3,26 @@ title: >-
   Editor-in-Chief Eric Rubin of the New England Journal of Medicine on Two
   Studies Published on a Syndrome in Children Related to Covid-19.
 slug: 20200701-mis-c-from-nejm
-_id: legacy-04f9d52b-b069-4b43-83c8-a7a81963211d
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-8dc4b4b6-5e6c-4258-8021-7d25221081eb
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - article/mis-c-from-nejm/
 _createdAt: '2020-07-01T22:22:22Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-07-01T22:22:22+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    1646e8eac1a30449bc1d78f45155c53fff5fdca4-2560x1920.jpg
 is_breaking: false
-summary: >-
-  Editor-in-Chief Eric Rubin of The New England Journal of Medicine on two
-  studies published on a syndrome in children related to COVID-19.
 featured_quote:
   quote: >-
     ...very few children develop symptoms of COVID-19 and the vast majority who
     do, only have mild disease, so what we are talking about here is an
     exceptional group, a small group of severely ill children and adolescents.
-  citation: >-
-    Editor-in-Chief Eric Rubin of The New England Journal of Medicine on two
-    studies published on a syndrome in children related to COVID-19.
 
 ---
 * The two studies: New York State Dept of Public Health examining cases in New York, and the CDC looking at cases nationwide.
@@ -48,7 +46,5 @@ Multisystem Inflammatory Syndrome in Children in New York State: [CLICK HERE](ht
 Two New Cases of MIS-C in Nevada: [CLICK HERE](https://www.ktnv.com/news/coronavirus/2-new-cases-of-mis-c-in-clark-county-children)
 
 COVID-19, Kids & MISSING Context: [WATCH HERE](https://smarthernews.com/article/covid-19-kids-missing-context/)
-
-Information from the CDC on MIS-C: [CLICK HERE](https://www.cdc.gov/mis-c/)rticle/covid-19-kids-missing-context/)
 
 Information from the CDC on MIS-C: [CLICK HERE](https://www.cdc.gov/mis-c/)

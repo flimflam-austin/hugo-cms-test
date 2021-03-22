@@ -1,14 +1,14 @@
 ---
 title: 18.04.04 Back to the Mall, because of Fb
 slug: 20180405-18-04-04-back-mall-fb
-_id: legacy-252291c8-3da0-4110-993d-c05c59892fb4
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-7fd1bed6-a886-486c-aa72-2a9437f9a5fc
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-04-back-mall-fb/
 _createdAt: '2018-04-05T10:03:47Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-05T10:03:47+00:00'
 weight: 50
 featured_image:
@@ -25,7 +25,7 @@ cards:
 
       FB’s attempt to increase user security after a major loophole may change
       the way you shop & connect with friends. **But are you safer**?
-    _key: card-1-c07111cd-53c2-4dbc-95e0-1d77d680cca3
+    _key: card-1-44bea989-14a4-4ecc-be18-1eb8f6a8f62a
   - order: 1
     body: >-
       ## New From Facebook
@@ -38,7 +38,7 @@ cards:
       FB says you should assume your info has been “**scraped**” if you allowed
       people to search for you using your email or phone number. FB has now
       disabled that feature.
-    _key: card-2-414b7005-eee7-43a2-b421-a8f73a0fff21
+    _key: card-2-74110ec5-b163-42f5-9ef9-1e8b3be14839
   - order: 2
     body: >-
       ## Facebook Drama
@@ -51,7 +51,7 @@ cards:
       * **Your user experience on FB or Insta may change.**A For example,
       accounts where you “like” a photo so you can shop the product have likely
       been altered until a full security assessment is completed.
-    _key: card-3-a415ce8c-c05e-43d7-93f7-50e6996b136f
+    _key: card-3-1c71d004-9a32-4bb4-89b7-f591031839f7
   - order: 3
     body: >-
       ## Breaking-Up With FB?
@@ -69,7 +69,7 @@ cards:
       [click: READ
       STUDY](https://www.uq.edu.au/news/article/2018/03/quitting-facebook-can-reduce-stress)
     citation: 'click: READ STUDY'
-    _key: card-4-7d43610a-ed23-41b7-b66f-14400b1686bb
+    _key: card-4-253c5ddb-489c-4467-b69d-a2479c91abe9
   - order: 4
     body: >-
       Is this the beginning of the end for FB? Do you even use the site? Tell us
@@ -78,7 +78,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-04-back-mall-fb/)
-    _key: card-10-66427832-daaf-4c6c-913f-d2b75be3b22a
+    _key: card-10-666b6c3c-d24c-4020-bd74-356a9136aeb2
 
 ---
 * An Update on Our Plans to Restrict Data Access on Facebook: [https://newsroom.fb.com/news/2018/04/restricting-data-access/](https://newsroom.fb.com/news/2018/04/restricting-data-access/)

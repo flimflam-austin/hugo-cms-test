@@ -1,14 +1,14 @@
 ---
 title: 18.05.18 Prince Harry
 slug: 20180518-18-05-18-prince-harry
-_id: legacy-7a3c9735-3e9c-486b-a2b3-985a32eda46f
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-a065d95c-3bee-46bc-aaa3-dd5544128dad
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-18-prince-harry/
 _createdAt: '2018-05-18T10:00:18Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-18T10:00:18+00:00'
 weight: 50
 card_series: Now You Know
@@ -22,7 +22,7 @@ cards:
 
       FLIP here for more
     citation: FLIP here for more
-    _key: card-1-8c7eeb7c-df4e-4dc6-add1-e89fa5ed0499
+    _key: card-1-46805eae-7c4f-4fd4-9257-d27606eb0694
   - order: 1
     body: >-
       ## His Royal Highness
@@ -39,7 +39,7 @@ cards:
 
       **SIXTH in line to throne** behind Prince Charles, Prince William, Prince
       George, Princess Charlotte & newborn Prince Louis
-    _key: card-2-1091c618-7678-41a9-abb9-7b61580c29f3
+    _key: card-2-800f7e57-aa66-4cd8-92c9-0f9a619da941
   - order: 2
     body: >-
       > In 2015, Prince Harry ended his decade-long career in the British Army.
@@ -58,7 +58,7 @@ cards:
 
       Flip: Why Invictus Games Matter
     citation: 'Flip: Why Invictus Games Matter'
-    _key: card-3-f6eb45ed-6333-46ad-ac64-74d646da5ad0
+    _key: card-3-92df9aa9-58f8-41f7-aad3-f2a9e260613a
   - order: 3
     body: >-
       > “In a world where so many have reasons to feel cynical and apathetic, I
@@ -70,7 +70,7 @@ cards:
         
       Prince Harry at the 2017 Invictus Games, the Olympic-style multi-sport
       tournament for wounded veterans he founded in 2014.
-    _key: card-4-32a01f45-2a06-465c-925e-72368b65cc99
+    _key: card-4-0f923802-c8b9-4613-ac71-4bc82edb2261
   - order: 4
     body: >-
       The Prince's soon-to-be bride's real name is Rachel Meghan Markle. When
@@ -80,7 +80,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-18-prince-harry/)
-    _key: card-10-e1a2ce6a-5cc9-4a16-ab6a-6c493d14bd6b
+    _key: card-10-8188d9b2-f5ee-4a1d-bcb5-3c9bc045da1a
 
 ---
 * **2018 Royal Wedding Topical Guide:** [https://www.apstylebook.com/topical_most_recent](https://www.apstylebook.com/topical_most_recent)

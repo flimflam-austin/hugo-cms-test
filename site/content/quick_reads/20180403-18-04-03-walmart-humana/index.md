@@ -1,14 +1,14 @@
 ---
 title: 18.04.03 Walmart Humana
 slug: 20180403-18-04-03-walmart-humana
-_id: legacy-9230f419-11e2-4ae4-8752-2a37fc92d1ad
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-8bf04d2e-446d-4715-8670-0b85d3d26a6a
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-03-walmart-humana/
 _createdAt: '2018-04-03T11:00:55Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-03T11:00:55+00:00'
 weight: 50
 featured_image:
@@ -37,7 +37,7 @@ cards:
         
         
       Oliver Chen, Cowen senior retail analyst to CNBC
-    _key: card-1-562347a6-71fe-42c0-901f-4ca31be018b2
+    _key: card-1-68c10675-876c-4ac7-bfb5-5f2beb2ca07d
   - order: 1
     body: >-
       ## What’s in it for Walmart?
@@ -52,7 +52,7 @@ cards:
       * **Increased profitability:** Retail margins slimmer than health care.
 
       * **Data:A** Knowing more about you & how to better sell to you.
-    _key: card-2-03451aec-350a-4953-9efb-ca569bf354cd
+    _key: card-2-c10436ce-6930-423d-95c7-fbcc6bed07a8
   - order: 2
     body: >-
       ## Why a Walmart-Humana Tie-Up Now?
@@ -65,7 +65,7 @@ cards:
 
       * **Amazon:**A Walmart’s biggest threat is teaming up with Berkshire
       Hathaway & JPMorgan in an effort to lower health care costs.
-    _key: card-3-1267cd26-e355-4ea7-9658-82456a804b91
+    _key: card-3-79320aa4-fdb3-4cd2-9853-76c558c74d78
   - order: 3
     body: >-
       Remember: There's no official Walmart-Humana deal yet, but there's
@@ -74,7 +74,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-03-walmart-humana/)
-    _key: card-10-a519bb3a-f7cc-4ebc-b6d5-ad1dcf687fca
+    _key: card-10-d676cf8b-636a-48fe-a53a-9d912a1a6c99
 
 ---
 * WSJ: Walmart in early talks to buy insurer Humana:  

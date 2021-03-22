@@ -1,14 +1,14 @@
 ---
 title: 18.02.13 Hey Sweettooth Dark Chocolate
 slug: 20180214-18-02-13-hey-sweettooth-dark-chocolate
-_id: legacy-53c317fa-97e1-44b0-b043-3dd7556dc9d4
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-e5fbeec3-4978-4290-b1d0-b00665e2dec0
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-13-hey-sweettooth-dark-chocolate/
 _createdAt: '2018-02-14T12:00:26Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-14T12:00:26+00:00'
 weight: 50
 featured_image:
@@ -37,7 +37,7 @@ cards:
 
       Flip To Find Out
     citation: Flip To Find Out
-    _key: card-1-1a79fffd-ee08-4701-9ce0-a7148faf25d3
+    _key: card-1-195882d1-2475-49e0-ab83-b3b917a4148d
   - order: 1
     body: >-
       > “While nutrition advice can often be complicated, choosing dark
@@ -49,7 +49,7 @@ cards:
         
       Christy Youens, Registered & Licensed Dietitian (RD, LD) interview with
       "SmartHER News"
-    _key: card-2-72438dbf-f7e1-41ae-b55b-fe9435859366
+    _key: card-2-bc943951-ce46-49a6-a5e5-146d007e7c06
   - order: 2
     body: |-
       # Dark Chocolate: What’s The Magic?
@@ -60,7 +60,7 @@ cards:
       * Cocoa powder from beans makes chocolate.
       * Dark chocolate has higher amounts of flavanols.
       * Flavanols have antioxidant and anti-inflammatory properties.
-    _key: card-3-d70e90a1-e342-45b3-890a-2badd6bbe8f9
+    _key: card-3-92bbfab4-2800-4bd7-a5e7-5ef2db8dcdae
   - order: 3
     body: >-
       > “Flavanols in cocoa have been studied for many years. They have been
@@ -70,7 +70,7 @@ cards:
         
         
       Heidi Godman, Executive Editor, "Harvard Health Letter"
-    _key: card-4-060048e5-50bc-4448-bd31-828800a3f76c
+    _key: card-4-b31fc421-d3df-44b8-b14a-31bb24f8f5b5
   - order: 4
     body: |-
       # Dark Chocolate Is Not The Only Option
@@ -81,7 +81,7 @@ cards:
       * Apples, Blueberries, Blackberries, Red Grapes, & Pomegranates
       * Peanuts
       * Red Wine!
-    _key: card-5-85509a41-bf02-4f89-b02b-96e114140bec
+    _key: card-5-3d09f957-79b6-4302-90c6-0f6da312ceed
   - order: 5
     body: >-
       BTW: Sweet companies employ more than 60,000 Americans. Grab some
@@ -90,7 +90,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-02-13-hey-sweettooth-dark-chocolate/)
-    _key: card-10-22e67bbd-1748-4e42-b2e1-84d8f5c2034e
+    _key: card-10-0e212abe-44ed-43ea-932f-f2d22b851d6f
 
 ---
 * U.S. Census Bureau Daily Feature for June 3: Sugar Rush – [https://www.prnewswire.com/news-releases/us-census-bureau-daily-feature-for-june-3-sugar-rush-300467613.html](https://www.prnewswire.com/news-releases/us-census-bureau-daily-feature-for-june-3-sugar-rush-300467613.html)

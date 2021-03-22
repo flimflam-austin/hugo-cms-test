@@ -1,14 +1,14 @@
 ---
 title: 18.02.14 President on School Schooting
 slug: 20180215-18-02-14-president-school-schooting
-_id: legacy-65ea3c2f-af0a-47cf-8d26-77323e27f506
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-183fbc21-2de8-4eb4-9981-88693a4ee997
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-14-president-school-schooting/
 _createdAt: '2018-02-15T11:00:52Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-15T11:00:52+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
       [Click HERE for
       Proclamation](https://www.whitehouse.gov/presidential-actions/presidential-proclamation-honoring-victims-tragedy-parkland-florida/)
     citation: Click HERE for Proclamation
-    _key: card-1-995b1f7a-f2b2-47be-a9a9-8e9b818f26a7
+    _key: card-1-d5573877-6772-4809-a9c3-95762b96a203
   - order: 1
     body: >-
       ## Nationwide Address
@@ -53,7 +53,7 @@ cards:
       [CLICK: FULL
       REMARKS](https://twitter.com/realDonaldTrump/status/964190995687591936)
     citation: 'CLICK: FULL REMARKS'
-    _key: card-2-464a9a2a-7875-410a-909a-9c126a7af48b
+    _key: card-2-2886917d-1844-4aca-98b5-eaad248fc27d
   - order: 2
     body: >-
       > “My prayers and condolences to the families of the victims of the
@@ -68,7 +68,7 @@ cards:
 
       Flip Here
     citation: Flip Here
-    _key: card-3-b011c0c9-4e3f-49f3-bd1e-41e579af67bd
+    _key: card-3-823445f1-6b04-47f0-a299-fe73e09cf132
   - order: 3
     body: >-
       _“On just Monday, Parkland, Florida,A was listedA as one of the **safest
@@ -82,7 +82,7 @@ cards:
 
 
       Miami Herald
-    _key: card-4-56040ff4-6e17-4e1d-8aed-0d868d0ca1b7
+    _key: card-4-cd2bd64f-adc6-462e-8077-e7227fdbc931
   - order: 4
     body: >-
       # Snapshot of America
@@ -102,7 +102,7 @@ cards:
       [Tap HERE for
       Data](https://www.neighborhoodscout.com/fl/parkland/demographics)
     citation: Tap HERE for Data
-    _key: card-5-512bca13-f5d0-4e5a-ab45-2947934339a4
+    _key: card-5-bd73265f-2cd9-4821-9257-7a0ef639ac46
   - order: 5
     body: >-
       Find List For Other "Safest Cities" in America & More
@@ -110,7 +110,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-02-14-president-school-schooting/)
-    _key: card-10-fd144a0f-c29d-4743-9505-6ff2bd6b6efc
+    _key: card-10-a8a9b4a0-2986-4436-8d77-da958a580b1e
 
 ---
 * President Trump:A [http://bit.ly/2EthQZv](http://bit.ly/2EthQZv)

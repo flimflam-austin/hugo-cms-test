@@ -1,14 +1,14 @@
 ---
 title: 18.02.20 Walmart Loses Money
 slug: 20180221-18-02-20-walmart-loses-money
-_id: legacy-aa94f6c0-7295-4774-9763-533cd2e9dc87
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-9b81f577-efea-492e-af89-608f3efe8086
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-20-walmart-loses-money/
 _createdAt: '2018-02-21T13:47:33Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-21T13:47:33+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       * Investors reacting to news about Walmart’s earnings, specifically online
       business.
-    _key: card-1-27b5257c-9f0a-4bd2-9c8c-42b50a0828a3
+    _key: card-1-83a481f3-5e2b-49a4-ba22-a8da8c5bd69e
   - order: 1
     body: >-
       ## Why This Matters
@@ -48,7 +48,7 @@ cards:
       weighs heavier on market overall.
 
       * Plus, investors see it as a symbol of America’s economy.
-    _key: card-2-781d3d17-f380-486c-be22-d39953a37b7a
+    _key: card-2-d13afa42-0077-446f-9510-94ca4b23c65c
   - order: 2
     body: >-
       ## Why Did This Happen?
@@ -61,7 +61,7 @@ cards:
 
       * **Bottom Line:** Walmart (world’s largest retailer & America’s largest
       private employer) didn’t meet expectations.
-    _key: card-3-91996133-b657-4531-9afa-15324f5ab27a
+    _key: card-3-c1141b46-4a7b-418b-b5c5-43f09740da7c
   - order: 3
     body: |-
       # How Badly Businesses Want Your Online $$
@@ -72,7 +72,7 @@ cards:
       * Walgreens bought other portion of Rite Aid business.
       * Target bought “Shipt” (same-day delivery service).
       * Walmart bought “Jet” (online retailer).
-    _key: card-4-8224d7ca-717a-4cb6-9763-ea7d53e2e3c4
+    _key: card-4-26aaefa3-d2e5-4dd9-893c-acddf7027bcc
   - order: 4
     body: >-
       Despite lower-than-expected earnings, Walmart has high hopes for year
@@ -80,7 +80,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-20-walmart-loses-money/)
-    _key: card-10-c43e25bb-be4b-4c07-8e25-569cdc8c1f1f
+    _key: card-10-49b8dfd2-dc93-4227-8f20-fbd0383580c1
 
 ---
 * Walmart Stumbles in Shift to Web Selling: [https://www.wsj.com/articles/walmarts-online-sales-growth-slows-1519129573](https://www.wsj.com/articles/walmarts-online-sales-growth-slows-1519129573?mod=trending_now_5)

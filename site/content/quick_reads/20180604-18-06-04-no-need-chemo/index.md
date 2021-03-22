@@ -1,14 +1,14 @@
 ---
 title: 18.06.04 No Need for Chemo?
 slug: 20180604-18-06-04-no-need-chemo
-_id: legacy-ff7e697c-c5ae-4c80-83fe-d9c78bfcbad6
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-01ad0c4f-90de-4809-a3d0-95aa8b2cc52b
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-04-no-need-chemo/
 _createdAt: '2018-06-04T10:41:36Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-04T10:41:36+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Flip For Why It Matters
     citation: Flip For Why It Matters
-    _key: card-1-8d2973f9-ce24-424c-9fe5-d6463280d03d
+    _key: card-1-8a064671-a05a-4c16-b7b0-c54aa48ec3d8
   - order: 1
     body: >-
       > ‘We can spare thousands and thousands of women from getting toxic
@@ -40,7 +40,7 @@ cards:
         
       Dr. Ingrid A. Mayer, Vanderbilt University Medical Center, an author of
       the study that started in 2006 and included more than 10,000 women.
-    _key: card-2-1db15653-8b6f-4ede-84b9-0350db904987
+    _key: card-2-b0b2be61-03fb-410f-aa8f-0621883185b1
   - order: 2
     body: >-
       ## Basics of Study
@@ -55,7 +55,7 @@ cards:
       focused on this group and now challenges the use of chemo.
 
       * **70%: NO benefit from chemo.**
-    _key: card-3-a99d6997-ed2c-4d36-9350-2420e45dcc13
+    _key: card-3-53636b99-2b20-467f-8da3-67b4a953aab3
   - order: 3
     body: >-
       ## Something To Consider:
@@ -67,7 +67,7 @@ cards:
 
       * **One caveat:**A Women under 50 with breast cancer *may* benefit from
       chemo, but **docs don’t know why.**
-    _key: card-4-45ba5fb9-bd03-4ae3-a309-2e1124d68852
+    _key: card-4-59fffbd0-1d2e-4134-84f8-0ca64a6a9fb1
   - order: 4
     body: >-
       Some suggest this isn't a move away from simply chemo; but a move toward
@@ -77,7 +77,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-04-no-need-chemo/)
-    _key: card-10-caadc151-c0ff-48dd-80cb-ffa7ba829115
+    _key: card-10-ee7a6b94-d385-40c8-8194-3e58c0629fc5
 
 ---
 * **Doctors Suggest Less Chemo, Surgery for Some Cancer Treatments Researchers explore leaner approaches aimed at sparing patients tough side effects—and costs:** [https://www.wsj.com/articles/in-cancer-treatments-less-is-sometimes-more-1528025400](https://www.wsj.com/articles/in-cancer-treatments-less-is-sometimes-more-1528025400)

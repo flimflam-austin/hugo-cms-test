@@ -1,14 +1,14 @@
 ---
 title: 18.06.22 Qq Friday
 slug: 20190905-18-06-22-qq-friday
-_id: legacy-1e13f37e-2123-4fd3-8c83-9e58d7147da8
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-bdb647bb-4743-488b-a7e9-6382745fcc3d
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-06-22-qq-friday/
 _createdAt: '2018-06-22T11:25:41Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-06-22T11:25:41+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       Mulvaney unveiled plans to merge the Labor & Education departments as part
       of a broader reorganization of the Fed Govt. The move would be subject to
       congressional approval.
-    _key: card-1-b6127030-5a27-4b9d-8186-2699ae70f35c
+    _key: card-1-b6f35d49-8342-4d6f-9878-deac7cda2a9a
   - order: 1
     body: >-
       > ‘I’m directing HHS, DHS, DOJ to work together to keep illegal immigrant
@@ -42,7 +42,7 @@ cards:
       immigrant families separated by his administration’s ‘zero tolerance’
       policy. 2,342 children have been separated from their parents between May
       5 - June 9.A
-    _key: card-2-b4b9808d-180b-46c4-9c71-f0bf39c65c06
+    _key: card-2-836e5b1f-6d41-45c7-b3ca-ddce85efc976
   - order: 2
     body: >-
       > “…a game changer for the experience. You can literally go from curb to
@@ -55,7 +55,7 @@ cards:
       scan of passengers arriving & departing on intl flights, including U.S.
       citizens. Other major US airports may use face scans, but not for all
       international flights.
-    _key: card-3-d185e488-443c-4f67-946f-98ebc716e555
+    _key: card-3-3a7ac4d3-b0f5-4737-952e-3e04909e4e11
   - order: 3
     body: >-
       > “He has to see the head of state. Putting his foot on the ground of
@@ -67,7 +67,7 @@ cards:
       meet Queen Elizabeth next month when he visits Britain. Bloomberg News is
       reporting Pres. Trump may also visit with Russian President Vladimir Putin
       next month after his trip to the UK.
-    _key: card-4-746a4a02-fd53-4014-8c80-a939d8cc30e3
+    _key: card-4-295869d5-8501-4cc1-bbb1-23ca5ea12138
   - order: 4
     body: >-
       > “Legit bawling like a baby right now. This news just breaks my heart.”  
@@ -84,13 +84,13 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/cn79Lgfh1hw?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-5-7ba2318c-0de9-4391-866c-420f23cd4d76
+    _key: card-5-bfa50a4d-f338-40f6-91ea-ee69c404131b
   - order: 5
     body: |-
       TGIF... amirite people?!
 
       [view sources](https://smarthernews.com/18-06-22-qq-friday/)
-    _key: card-10-58178caf-85de-4539-8342-c7666bf98fa7
+    _key: card-10-6e2e26fd-2047-4307-b27a-120422f60e78
 
 ---
 * **White House Pushes Workforce Training in Proposal to Shrink Agencies:**  

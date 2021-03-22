@@ -1,14 +1,14 @@
 ---
 title: 18.03.06 Cubs of the Cailiphate
 slug: 20180307-18-02-06-cubs-cailiphate
-_id: legacy-5ff4b7f5-f5e5-4e71-b86b-b0fd160276b0
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-5139d260-4420-42f9-ad7d-7b8b54cc3ab4
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-06-cubs-cailiphate/
 _createdAt: '2018-03-07T12:14:34Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-07T12:14:34+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-e99ab2c1-b8d3-40ff-907a-d92b47d6376d
+    _key: card-1-bf818772-5604-4750-a42a-727d09be911e
   - order: 1
     body: >-
       ## What Happened:
@@ -48,7 +48,7 @@ cards:
 
       * Showed children graphic videos of beheadings and made them role play
       killing police officers during training sessions.
-    _key: card-2-c87cd4b2-dd5e-45df-a86a-562b237ae7f5
+    _key: card-2-c86a6b3b-2a06-4a89-b661-6604c90dabe0
   - order: 2
     body: >-
       ## Important Facts:
@@ -65,7 +65,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-3-9bc43d1d-8af6-4c8b-9209-25068896cc98
+    _key: card-3-9428325d-f6ad-4bbb-9d63-321769cdc342
   - order: 3
     body: >-
       > “The children were paralyzed by fear of (the ringleader), who they
@@ -76,7 +76,7 @@ cards:
         
         
       Commander Dean Haydon, head of the Met Police Counter Terrorism Command
-    _key: card-4-b1a0fca0-f65b-4e1e-98f6-2ae431b1adee
+    _key: card-4-a0da7590-3b2a-41ad-964f-175ba86df890
   - order: 4
     body: >-
       ## Why It Matters:
@@ -91,7 +91,7 @@ cards:
 
 
       **The SmartHER question:** Does America have a game plan to counter it?
-    _key: card-5-2c5a245f-3d9f-4b28-adf9-df2b25f53d09
+    _key: card-5-4f96b8d3-e106-4461-81aa-bbbc7ebbdb10
   - order: 5
     body: >-
       > “The poisonous ideas ISIS promotes are being adopted by sympathizers
@@ -101,13 +101,13 @@ cards:
         
         
       Thomas Joscelyn, Senior Editor, "The Long War Journal", to SmartHER News
-    _key: card-6-ff40dd9f-e2ed-4a44-81e6-8c742d64146d
+    _key: card-6-c30c5570-3817-4e1e-8a41-6ab3c950b317
   - order: 6
     body: |-
       What happens to the 55 children now? Read More Here:
 
       [view sources](https://smarthernews.com/18-02-06-cubs-cailiphate/)
-    _key: card-10-2685a6df-be3c-4840-a073-3157136aeaa2
+    _key: card-10-37cb3346-50b2-4e97-afd8-6e8ec5103821
 
 ---
 “**_All 55 children have received safeguarding support and 35 have been assessed to require longer-term support, which is being provided to them_**.”

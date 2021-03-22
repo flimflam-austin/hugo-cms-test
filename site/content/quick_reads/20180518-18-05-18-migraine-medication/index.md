@@ -1,14 +1,14 @@
 ---
 title: 18.05.18 Migraine Medication
 slug: 20180518-18-05-18-migraine-medication
-_id: legacy-f9c8a275-cd86-45f1-89ad-3947c19a5d16
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-61fd6ab8-f60d-47cb-a349-3b07a0af8524
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-18-migraine-medication/
 _createdAt: '2018-05-18T15:25:50Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-18T15:25:50+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Why It Matters
     citation: Why It Matters
-    _key: card-1-75b46ded-093e-4535-aee9-e8913c9325f2
+    _key: card-1-d215de60-7a18-40a9-8643-f2f8b3134cf7
   - order: 1
     body: >-
       ## Who Suffers?
@@ -50,7 +50,7 @@ cards:
 
       What Is The Drug?
     citation: What Is The Drug?
-    _key: card-2-7784b14a-b647-4666-ade5-ce3ad52d8a10
+    _key: card-2-c05fd19a-292c-4a4b-88a6-ea9a0441fe0f
   - order: 2
     body: |-
       ## What’s The Treatment?
@@ -63,7 +63,7 @@ cards:
 
       Why Is This A Big Deal?
     citation: Why Is This A Big Deal?
-    _key: card-3-30b416dc-ea9e-4865-a08d-5036a9cbbdea
+    _key: card-3-a386b2c3-cb42-4f80-8cef-b4ca3208f1bf
   - order: 3
     body: >-
       ## What’s The Breakthrough?
@@ -77,7 +77,7 @@ cards:
 
       * Other big drug companies are working on similar treatments – **Could
       this change the course of migraine treatment forever?**
-    _key: card-4-fe51f1e4-820d-4c66-8b34-b166711ab3ed
+    _key: card-4-440b9cc2-a6a8-4ea7-8dde-68ee8fa26575
   - order: 4
     body: >-
       Did you know...migraines are often distinguished from headaches because
@@ -85,7 +85,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-18-migraine-medication/)
-    _key: card-10-fd21f957-09fa-4a7d-835e-891aeef36c0b
+    _key: card-10-5d6dbbe5-fd68-4844-9b6b-1339433e8fe1
 
 ---
 * **SmartHER Tip:** What’s the difference between a super bad headache and a migraine?  

@@ -1,23 +1,21 @@
 ---
 title: President Biden Delivering His Inaugural Address, January 20, 2021.
 slug: 20210120-president-biden-delivering-his-inaugural-address-january-20-2021
-_id: legacy-9a1f6c2a-2a78-465f-8d8c-a033c43e4ad4
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-4437d5ab-e55a-40e1-a6bb-2b0b4b672952
+_rev: ZEyhBiGfgCfwE8WOjbuN87
 type: quick_quotes
 draft: false
 aliases:
   - article/president-biden-delivering-his-inaugural-address-january-20-2021/
 _createdAt: '2021-01-20T18:39:09Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:19Z'
 date: '2021-01-20T18:39:09+00:00'
 weight: 50
 is_breaking: false
-summary: President Biden delivering his inaugural address, January 20, 2021.
 featured_quote:
   quote: >-
     History, faith, and reason show the way, the way of unity...For without
     unity, there is no peace, only bitterness and fury.
-  citation: President Biden delivering his inaugural address, January 20, 2021.
 
 ---
 * Here’s a full text of the speech: [CLICK HERE](https://abc11.com/joe-biden-inaugural-address-inauguration-speech-video-2021-watch/9694215/)

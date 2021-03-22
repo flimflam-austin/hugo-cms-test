@@ -4,29 +4,25 @@ title: >-
   Taylor Case, and Granting Permission for the Grand Jurors to Speak Publicly
   About the Case.
 slug: 20201020-breonna-taylor-5
-_id: legacy-9f40d4ae-f4ef-4092-8c30-9f20ce675936
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-94ebd2ac-ae53-4b1b-b260-baa5489ea14a
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - article/breonna-taylor-5/
 _createdAt: '2020-10-20T22:14:17Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2020-10-20T22:14:17+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    74918b5576819087db2fedc90ddc4f34d35f5965-1280x960.jpg
 is_breaking: false
-summary: >-
-  A Kentucky judge ordering the grand jury records unsealed in the Breonna
-  Taylor case, and granting permission for the grand jurors to speak publicly
-  about the case.
 featured_quote:
   quote: >-
     This is a rare and extraordinary example of a case where ... the historical
     reasons for preserving grand jury secrecy are null.
-  citation: >-
-    A Kentucky judge ordering the grand jury records unsealed in the Breonna
-    Taylor case, and granting permission for the grand jurors to speak publicly
-    about the case.
 
 ---
 * **BACKGROUND:** In September, an anonymous grand juror requested permission to speak publicly about the case and for the grand jury records to be released after Kentucky’s Attorney General Daniel Camero made public remarks about why the grand jury decided there was insufficient evidence to charge any police officers in connection with the killing of **Breonna Taylor**.
@@ -35,4 +31,4 @@ featured_quote:
 * **CASE REFRESHER:**
   * On March 13, Breonna Taylor, a 26-year-old EMT was shot multiple times by police inside her Louisville, KY home after plain clothes police officers conducting a drug investigation entered her home using a **‘no-knock’ warrant**, meaning they were not required to identify themselves before entering.
   * Police said they returned fire after Taylor’s boyfriend, **Kenneth Walker**, fired a shot which hit one of the officers in the thigh. Walker said the police knocked, but did not identify themselves, leading him and Taylor to believe they were robbers, which is why he fired his gun. The police said they identified themselves.
-  * One of the officers was charged – but not in connection with Taylor’s death. **Brett Hankison** (no longer an officer) was charged with wanton endangerment, a class D felony punishable by up to 5 years. He is accused of endangering the lives of Taylor’s neighbors – a male, a pregnant female, and a child – because he fired into the apartment with no clear line of sight (this is also the reason he was fired). child – because he fired into the apartment with no clear line of sight (this is also the reason he was fired).
+  * One of the officers was charged – but not in connection with Taylor’s death. **Brett Hankison** (no longer an officer) was charged with wanton endangerment, a class D felony punishable by up to 5 years. He is accused of endangering the lives of Taylor’s neighbors – a male, a pregnant female, and a child – because he fired into the apartment with no clear line of sight (this is also the reason he was fired).

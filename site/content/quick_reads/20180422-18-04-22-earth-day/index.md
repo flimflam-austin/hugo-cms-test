@@ -1,14 +1,14 @@
 ---
 title: 18.04.22 Earth Day
 slug: 20180422-18-04-22-earth-day
-_id: legacy-97e4edda-b269-4973-906a-b70e9e805aac
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-2bd76755-1864-495f-a3e5-89d928638fe6
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-22-earth-day/
 _createdAt: '2018-04-22T12:51:38Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-22T12:51:38+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip Here For Earth Day's Origins & Impact
     citation: Flip Here For Earth Day's Origins &amp; Impact
-    _key: card-1-ec16cb4a-c7b0-4b6a-8da4-bdf2a11e204d
+    _key: card-1-4b75b00c-008f-41a7-a5ca-6edc8a087e5e
   - order: 1
     body: >-
       After the 1969 oil spill in Santa Barbara, CA, Wisconsin Sen. Gaylord
@@ -46,7 +46,7 @@ cards:
 
       20M Americans celebrated the first day in 1970, by 1990 Earth Day
       mobilized 200M across the globe.
-    _key: card-2-6075e1ec-3a57-41ce-822b-4e903e26cc89
+    _key: card-2-fb59c860-17a8-4371-b31e-cce0103c8ba5
   - order: 2
     body: >-
       ## Earth Day launched the modern environmental movement
@@ -61,7 +61,7 @@ cards:
       * Clean Water Act (1972)
 
       * Endangered Species Act (1973)
-    _key: card-3-5bb55711-2c42-40a8-8f2e-adcd03332531
+    _key: card-3-478774e6-b2e1-4c8a-84b4-4562ac4f3709
   - order: 3
     body: >-
       ## California is home to the USA’s most polluted cities
@@ -75,7 +75,7 @@ cards:
       [Is Your City On the
       List?](http://%20www.lung.org/our-initiatives/healthy-air/sota/city-rankings/most-polluted-cities.html)
     citation: Is Your City On the List?
-    _key: card-4-1d1f02a7-2a46-4f5d-8a14-cdcf90bed0a3
+    _key: card-4-95c7a643-b8ef-4d1f-a941-4e99d09582c0
   - order: 4
     body: >-
       EP Administrator Scott Pruitt currently faces criticism re: allegations of
@@ -84,7 +84,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-22-earth-day/)
-    _key: card-10-93aabf9e-996b-4c9a-b919-ea91c0031a44
+    _key: card-10-de9fb07c-c1a2-4669-b0e0-9efb244fca96
 
 ---
 * EPA History: Earth Day: [https://www.epa.gov/history/epa-history-earth-day](https://www.epa.gov/history/epa-history-earth-day)

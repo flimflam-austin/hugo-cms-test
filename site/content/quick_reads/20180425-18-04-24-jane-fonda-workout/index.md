@@ -1,14 +1,14 @@
 ---
 title: 18.04.24 Jane Fonda Workout
 slug: 20180425-18-04-24-jane-fonda-workout
-_id: legacy-93582e08-d78d-41ad-a67e-f56acb011e4b
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-31994f49-12a3-4323-ace4-936c7c772358
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-24-jane-fonda-workout/
 _createdAt: '2018-04-24T11:26:09Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-24T11:26:09+00:00'
 weight: 50
 featured_image:
@@ -23,7 +23,7 @@ cards:
       April 24, 1982
 
       The Day the Workout World Changed Forever
-    _key: card-1-c2b7a063-d9c2-402e-96a9-788b263e0fc4
+    _key: card-1-5cddf0aa-a48d-47ef-be9e-1ae675fc4411
   - order: 1
     body: >-
       ## “Jane Fonda’s Workout”
@@ -44,7 +44,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/deKHYCsjseg?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-79824a15-f97d-4624-848d-5ffb7c13fcf1
+    _key: card-2-b0a7f48a-d3f2-4d97-ab47-c4236e15ae48
   - order: 2
     body: >-
       At **44-years-old**, she was a **2-timeA Oscar-winning actress**. She had
@@ -55,7 +55,7 @@ cards:
 
       She finally agreed, with **all proceeds going to Campaign for Economic
       Democracy**,**A** aA progressive group run by then-husbandA Tom Hayden.
-    _key: card-3-2bc5f1ac-77ed-437a-9b68-bf6ace02f5ad
+    _key: card-3-dd2091f0-a0ff-4d0f-ae52-61462f57db90
   - order: 3
     body: >-
       ## It Changed Everything.
@@ -70,7 +70,7 @@ cards:
 
       **Tech:**A Before “Workout” debuted, less than 10% of households had a
       VCR. By 1985, 30% had one.
-    _key: card-4-2dbad4c1-c129-4d21-b955-7b46d2b27b6a
+    _key: card-4-afef07d6-d1d3-49d1-87cc-a71d6c85364c
   - order: 4
     body: |-
       ## Feel the Burn: By the #s
@@ -82,7 +82,7 @@ cards:
       **29:** VHS & DVD workouts made by Jane Fonda.
 
       **17M:**A Fonda workout videos sold.
-    _key: card-5-740b9111-1ba0-4a1f-8f32-03dc810f636b
+    _key: card-5-9d66207c-4060-493b-8c15-6ffb82874988
   - order: 5
     body: >-
       # Copycat Moves
@@ -95,7 +95,7 @@ cards:
       **Nothing topped Fonda’s innovation**: In 1985, three of her tapes topped
       Billboard’s VHS sales chart. **The original had been there for 145
       weeks.**
-    _key: card-6-59e564f7-f279-45d1-a0b7-4ec05284b66b
+    _key: card-6-e81f733c-9e61-4ee6-8a04-a363bce97f7c
   - order: 6
     body: >-
       Advice For Her  
@@ -111,7 +111,7 @@ cards:
         
         
       Jane Fonda to Shape Magazine in 2014
-    _key: card-7-4254c4dd-e3d4-4bba-b5b3-df2027c37d31
+    _key: card-7-26104908-dbc8-4521-a991-fc6e079520a8
   - order: 7
     body: >-
       What about those leg warmers? For why she wore them & what the now
@@ -119,7 +119,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-24-jane-fonda-workout/)
-    _key: card-10-c7198add-e800-48fe-93cd-695144d80538
+    _key: card-10-215ba8b3-1f7b-44bb-9e4b-06bb83e3040e
 
 ---
 * **Jane Fonda on the 30th anniversary of her workout video (From 2012):** [https://www.janefonda.com/30th-anniversary-of-my-first-workout-video/](https://www.janefonda.com/30th-anniversary-of-my-first-workout-video/)

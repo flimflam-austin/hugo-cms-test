@@ -1,14 +1,14 @@
 ---
 title: 18.03.09 Paralympics
 slug: 20180312-18-03-09-paralympics
-_id: legacy-675c97c9-9025-4e0b-b8e7-1a4db1ec8b56
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-0ec33270-e74d-4481-a81f-323057dc820c
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-09-paralympics/
 _createdAt: '2018-03-12T12:00:11Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-12T12:00:11+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       Yes. That's a real bio.
     citation: Yes. That's a real bio.
-    _key: card-1-5030b8cc-7422-4478-a3d6-5a30d2f4fcc3
+    _key: card-1-0dad938e-46f0-4195-b433-4414c5cfed27
   - order: 1
     body: |-
       # Winter Olympics Round II
@@ -47,7 +47,7 @@ cards:
 
       FLIP HERE FOR MORE
     citation: FLIP HERE FOR MORE
-    _key: card-2-ca8eb9ba-c42a-4f14-a342-1a029a7bf707
+    _key: card-2-3f322c4b-eca5-418a-bba0-41cacb9881c2
   - order: 2
     body: |-
       ## Team USA’s 74-Member Team Includes:
@@ -57,7 +57,7 @@ cards:
       * 18 military veterans & active duty service members
       * 6 guides for visually impaired athletes
       * 1 married couple (alpine skiers Danelle & Rob Umstead)
-    _key: card-3-332edfb2-ba60-4283-a0f9-9602666a1cff
+    _key: card-3-6679d942-3ca2-49f3-877b-badd4657e893
   - order: 3
     body: >-
       Name to Know:  
@@ -75,7 +75,7 @@ cards:
       * **Gold Medal**: Biathlon (cross-country skiing & rifle shooting)
 
       * **Silver Medal**: Cross-country
-    _key: card-4-844a4272-324b-4fb6-9e68-3c28abfeb504
+    _key: card-4-58ed3470-4336-4860-8843-603844fa6bd7
   - order: 4
     body: >-
       Name to Know:  
@@ -92,7 +92,7 @@ cards:
 
       * Founded a non-profit that helped get snowboarding in 2014 games & helps
       disabled athletes engage in action sports.
-    _key: card-5-1a6d39da-eeaa-4b59-ae11-15b85e6cf08b
+    _key: card-5-ec39b968-958f-4ad9-8c89-6fc4226bb238
   - order: 5
     body: |-
       Paralympic Winter Games:  
@@ -104,7 +104,7 @@ cards:
       * ice hockey
       * snowboarding
       * wheelchair curling
-    _key: card-6-9815dfdc-d4c2-45ef-99d1-a741caeda355
+    _key: card-6-94b02d4a-c35d-4d3e-a275-80dec9b6ccf5
   - order: 6
     body: >-
       Want to learn more about pro-snowboarder, entrepreneur & author Amy Purdy,
@@ -112,7 +112,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-09-paralympics/)
-    _key: card-10-ec9b2a85-3b6d-4205-96ed-95dafb7c82fd
+    _key: card-10-13671768-afbf-42f4-8f0e-715744ffff02
 
 ---
 * About the PyeongChang 2018 Paralympic Winter Games: [https://www.paralympic.org/pyeongchang-2018/about](https://www.paralympic.org/pyeongchang-2018/about)

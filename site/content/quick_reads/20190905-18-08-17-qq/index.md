@@ -1,14 +1,14 @@
 ---
 title: 18.08.17 Qq
 slug: 20190905-18-08-17-qq
-_id: legacy-5b2b56f2-3820-49ff-bab4-e42dd074a446
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-f925132b-0896-45a4-a29c-0bb09336671a
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-17-qq/
 _createdAt: '2018-08-17T11:47:07Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-17T11:47:07+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       reflecting on his colleagues donating their sick days so he could recover
       from treatments. He credits the extra 75 sick days for allowing him to
       keep his job.
-    _key: card-1-f2f7f149-132b-4beb-a712-3051e104fe82
+    _key: card-1-8ef3c7cc-1d40-474c-aff3-87c179bb4732
   - order: 1
     body: >-
       > ‘If the Iranian regime demonstrates a commitment to make fundamental
@@ -41,7 +41,7 @@ cards:
       Brian Hook, current director of policy planning at the State Department,
       who will now lead a newly announced 'Iran Action Group' to focus on
       Iran-U.S. relations.
-    _key: card-2-a03825f4-7188-4658-ac28-c9bd24100eb0
+    _key: card-2-91112f8f-720f-4bd0-b9a8-e23b5aa3302c
   - order: 2
     body: >-
       > “Mr. Trump’s claims of no collusion are, in a word, hogwash.”  
@@ -57,7 +57,7 @@ cards:
       [SMARTHER
       REFRESHER](https://smarthernews.com/18-08-16-who-keeps-our-secrets/)
     citation: SMARTHER REFRESHER
-    _key: card-3-e2694f25-4d68-4b3c-ba7b-a502e001a98a
+    _key: card-3-b0968faf-7c8a-4bca-ba5f-f355da979e7c
   - order: 3
     body: >-
       > ‘Director Brennan’s recent statements purport to know as fact that the
@@ -70,7 +70,7 @@ cards:
         
         
       Sen. Richard Burr (R-NC)
-    _key: card-4-b6e953d6-ee44-40d5-b92a-0a4f889198ab
+    _key: card-4-3919654e-7b00-4cfd-9e79-e6dd74a7ddbe
   - order: 4
     body: >-
       > “My plan is to make him flat, make him tired and make him give up.”  
@@ -83,13 +83,13 @@ cards:
 
       [Click: McGregor's Response](https://www.instagram.com/thenotoriousmma/)
     citation: 'Click: McGregor''s Response'
-    _key: card-5-65822fa5-2eed-4339-bf38-5a248977de48
+    _key: card-5-dd4c206e-087e-4432-a32d-ae5f3a2d1458
   - order: 5
     body: |-
       TGIF!
 
       [view sources](https://smarthernews.com/18-08-17-qq/)
-    _key: card-10-1794d361-b489-4a30-9379-872dd78c6f9c
+    _key: card-10-23ff768a-61e5-4ca6-a8d7-ed82251eea6a
 
 ---
 * **Florida teacher battling cancer thanks colleagues who ‘threw their love’ at him, donated sick days:**  
@@ -102,6 +102,4 @@ cards:
 * **UFC 229 Tickets On Sale This Week For Khabib Nurmagomedov Vs. Conor McGregor Fight Card:**  
 [https://www.forbes.com/sites/trentreinsmith/2018/08/15/ufc-229-tickets-on-sale-this-week-for-khabib-nurmagomedov-vs-conor-mcgregor-fight-card/](https://www.forbes.com/sites/trentreinsmith/2018/08/15/ufc-229-tickets-on-sale-this-week-for-khabib-nurmagomedov-vs-conor-mcgregor-fight-card/)
 
-[Click here](https://www.instagram.com/tv/Bmi-84OFPAZ/) learn more on instagram.
-
-[Click here](https://www.instagram.com/tv/Bmi-84OFPAZ/) learn more on instagram.
+{{< instapost id=\Bmi-84OFPAZ\ >}}

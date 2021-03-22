@@ -1,14 +1,14 @@
 ---
 title: 18.05.19 Santa Fe Shooting Student
 slug: 20180520-18-05-19-santa-fe-shooting-student
-_id: legacy-d08472a7-620b-493c-802d-105c05f2a0cb
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-07f422b3-858d-4e9f-912e-050998386ab2
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-19-santa-fe-shooting-student/
 _createdAt: '2018-05-19T20:08:22Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-19T20:08:22+00:00'
 weight: 50
 card_series: Worth-It-To-See-It
@@ -28,12 +28,12 @@ cards:
 
       [Watch Interview Here:](http://abc13.com/video/embed/?pid=3491939)
     citation: 'Watch Interview Here:'
-    _key: card-1-e246b778-3361-4e1f-b4bf-da51b74fd49e
+    _key: card-1-42a91fae-6d54-4c21-abe1-37ad247c42e4
   - order: 1
     body: >-
       [view
       sources](https://smarthernews.com/18-05-19-santa-fe-shooting-student/)
-    _key: card-10-8ebdf814-df77-4405-bede-c280f3e5da0a
+    _key: card-10-4ec06e6b-b723-4086-91a5-6f76e67433cf
 
 ---
 **FULL INTERVIEW HERE AT 55:12: Live Coverage from ABC News: Authorities respond to active shooter incident at Texas high school:** [https://www.periscope.tv/ABC/1vAGRVkpXEzGl](https://www.periscope.tv/ABC/1vAGRVkpXEzGl)

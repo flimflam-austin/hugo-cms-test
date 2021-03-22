@@ -1,14 +1,14 @@
 ---
 title: Michael Kors to Buy Versace for $2.1b
 slug: 20180926-kors-to-buy-versace
-_id: legacy-54dd8459-d948-49fd-ac80-376636c8c67e
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-27656a86-2b7c-4b32-8c34-9a626bf0a9ed
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - kors-to-buy-versace/
 _createdAt: '2018-09-26T11:45:02Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-26T11:45:02+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Ciao Bella.
     citation: Ciao Bella.
-    _key: card-1-7dc6a293-2ae3-4b59-8291-5fa0206c8b2e
+    _key: card-1-d1668afe-1a49-4970-b3f1-27a9aabe06c1
   - order: 1
     body: >-
       ## A Fashion Statement
@@ -46,7 +46,7 @@ cards:
 
       * Kors will rename co.A **“Capri Holdings,”**A for the fashionable Italian
       vacation spot, to better reflect its diverse brands.
-    _key: card-2-c70a27ca-8e87-4338-98e8-43aac7a51c99
+    _key: card-2-b398a497-c457-41fe-93b9-9d32463dc8f2
   - order: 2
     body: >-
       ## Why it Matters
@@ -60,7 +60,7 @@ cards:
       America has the **largest apparel market in the world**, but has yet to
       produce a global, multi-brand company like European names Gucci or
       Christian Dior.
-    _key: card-3-93fbc1f5-8459-4565-b060-174633550034
+    _key: card-3-5b011503-1729-4155-a985-7002a4848365
   - order: 3
     body: >-
       Some Things to Consider:  
@@ -77,7 +77,7 @@ cards:
 
       _‘Time to get Versace at your local TJ MAXX and Marshall’s,”_ tweetedA
       writer Danielle Ayoka.
-    _key: card-4-6e18a0e6-ac3f-46a7-ab20-a29d8e1407f2
+    _key: card-4-0ac74100-9129-47ba-b84a-876b08148d1e
   - order: 4
     body: >-
       Donatella Versace has served as the fashion house's creative director
@@ -87,7 +87,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/kors-to-buy-versace/)
-    _key: card-10-04aca81d-cd6b-4a9a-905f-9f960658b096
+    _key: card-10-84827112-e842-46c8-b46c-be0192ef9f2e
 
 ---
 * **Michael Kors to Buy Versace for $2.1B:**  

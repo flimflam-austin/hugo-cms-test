@@ -1,14 +1,14 @@
 ---
 title: 18.08.01 Qtd Anthony Hopkins
 slug: 20180802-18-08-01-quote-of-the-day-anthony-hopkins
-_id: legacy-3ef76df7-7e9f-41d4-984f-7f34b00d57cf
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-0bd9078e-62d8-430e-8d61-aebb0b756767
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-08-01-quote-of-the-day-anthony-hopkins/
 _createdAt: '2018-08-02T11:50:14Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-08-02T11:50:14+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       Anthony Hopkins
     citation: Anthony Hopkins
-    _key: card-1-1c8307fd-a34b-4802-b8b8-dbd387dde200
+    _key: card-1-e50f11f3-4806-43f5-9a16-e3735f162b9b
   - order: 1
     body: >-
       Hopkins discussed overcoming his battle with alcoholism as a guest speaker
@@ -37,7 +37,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-08-01-quote-of-the-day-anthony-hopkins/)
-    _key: card-10-7d61ba9d-48de-4fcf-a396-0288e68af4ea
+    _key: card-10-62bed238-0684-4638-8110-0a0f8451a1ae
 
 ---
 * **Anthony Hopkins Recalls Struggle With Alcoholism: “I Was Very Difficult to Work With”:** [https://www.hollywoodreporter.com/news/anthony-hopkins-recalls-struggle-alcoholism-i-was-very-difficult-work-1129776](https://www.hollywoodreporter.com/news/anthony-hopkins-recalls-struggle-alcoholism-i-was-very-difficult-work-1129776)

@@ -1,14 +1,14 @@
 ---
 title: 18.02.20 Bump Stocks
 slug: 20180221-18-02-20-bump-stocks
-_id: legacy-649c3f39-ebeb-4835-9a1d-789e20dfff58
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-9b0229a6-7085-4e30-9703-8300d817afbc
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-20-bump-stocks/
 _createdAt: '2018-02-21T14:00:29Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-21T14:00:29+00:00'
 weight: 50
 featured_image:
@@ -37,7 +37,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-33262f23-f953-4160-af98-0b6d231ba313
+    _key: card-1-50317355-5fb9-411e-accc-bcfad9beceee
   - order: 1
     body: >-
       > “Just a few moments ago I signed a memorandum directing the AG to
@@ -48,7 +48,7 @@ cards:
         
         
       President Trump, Remarks, White House, Feb 20, 2018
-    _key: card-2-79ac0907-6552-4298-877b-2ce7943325c2
+    _key: card-2-68ef650b-e25a-4533-9996-fe0354f2c022
   - order: 2
     body: >-
       ## Presidential Memorandum
@@ -63,7 +63,7 @@ cards:
       [Full Pres.
       Memo](https://www.whitehouse.gov/presidential-actions/presidential-memorandum-application-definition-machinegun-bump-fire-stocks-similar-devices/)
     citation: Full Pres. Memo
-    _key: card-3-f1e5ad49-eaca-482c-8809-e1d0f1a77014
+    _key: card-3-e72a42a4-723f-4977-8391-b55d27f0b6f2
   - order: 3
     body: >-
       What To Know:  
@@ -78,7 +78,7 @@ cards:
       murders.
 
       * Reports: not used in recent high school shooting in Florida.
-    _key: card-4-f035cd48-60a9-4f20-bec7-9652a663e02f
+    _key: card-4-26860021-81ed-463f-8e7b-bfecb49d2ee0
   - order: 4
     body: >-
       Bump Stocks:  
@@ -91,7 +91,7 @@ cards:
       * NRA after Las Vegas Shooting: _“The NRA believes that devices designed
       to allow semi-automatic rifles to function like fully automatic rifles
       should be subject to additional regulations.”A_
-    _key: card-5-516250cf-ae2d-4ece-babf-71b2d03f17d1
+    _key: card-5-ce6b1755-c3ac-4d9e-a7a9-a266153dd70b
   - order: 5
     body: >-
       ## To Consider
@@ -105,7 +105,7 @@ cards:
         
       Dr. Adam Winkler, UCLA Law School to Christian Science Monitor, Oct 17,
       2017
-    _key: card-6-71e24fcd-90c9-432a-b7c2-79880a3b4914
+    _key: card-6-759d3b1a-ac62-4644-978f-4362df3feb34
   - order: 6
     body: >-
       ## Next Issue? Stay Tuned.
@@ -117,10 +117,10 @@ cards:
         
         
       President Trump, Twitter, Feb 20, 2018, 8:18 pm
-    _key: card-7-a6f20756-53ea-4d35-9d4a-c68bb4ef7543
+    _key: card-7-637cde5d-6523-4a72-8f20-f3ce14312ee8
   - order: 7
     body: '[view sources](https://smarthernews.com/18-02-20-bump-stocks/)'
-    _key: card-10-cf8c8fc8-c707-4daf-9953-fbd092b97e8e
+    _key: card-10-4d7478e6-7ff9-419b-a117-1155fd32ca8d
 
 ---
 * Presidential Memorandum on the Application of the Definition of Machinegun to Bump Fire Stocks and Other Similar Devices: [https://www.whitehouse.gov/presidential-actions/presidential-memorandum-application-definition-machinegun-bump-fire-stocks-similar-devices/](https://www.whitehouse.gov/presidential-actions/presidential-memorandum-application-definition-machinegun-bump-fire-stocks-similar-devices/)

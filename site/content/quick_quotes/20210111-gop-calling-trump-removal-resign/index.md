@@ -3,29 +3,27 @@ title: >-
   Sen. Pat Toomey (R-Pa), the Second Republican Senator Calling for Pres. Trump
   to Resign.
 slug: 20210111-gop-calling-trump-removal-resign
-_id: legacy-7215c1a8-3740-4eaa-b42e-c3d96ab39d32
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-aeb9fb4b-ee48-4a64-a3a9-cfbc115aaa34
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - article/gop-calling-trump-removal-resign/
 _createdAt: '2021-01-11T00:18:15Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2021-01-11T00:18:15+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    774ff3bed94776e2223e4d8d7d6dda24337350f1-1024x667.jpg
 is_breaking: false
-summary: >-
-  Sen. Pat Toomey (R-PA), the second Republican senator calling for Pres. Trump
-  to resign.
 featured_quote:
   quote: >-
     Does not look as though there is the will or the consensus to exercise the
     25th Amendment option. And I don't think there's time to do an impeachment.
     There’s ten days left before the president leaves anyway. I think the best
     thing would be a resignation.
-  citation: >-
-    Sen. Pat Toomey (R-PA), the second Republican senator calling for Pres.
-    Trump to resign.
 
 ---
 In the aftermath of last week’s riot at the U.S. Capitol several lawmakers have called for the President to resign, be impeached, or be removed under the 25th Amendment — most are Democrats, but some are Republicans.
@@ -37,4 +35,4 @@ In the aftermath of last week’s riot at the U.S. Capitol several lawmakers hav
       * Remember: Impeachment is complicated process. [CLICK HERE](https://smarthernews.com/impeachment-history/) for an impeachment refresher.
 * A day after the riot at the U.S. Capitol, U.S. Representative Adam Kinzinger (R-IL) announced he’s calling for 25th Amendment be invoked “_for the sake of our democracy_.”
   * *IF* you hear people talking about the 25th Amendment, they’re probably referencing Section 4, which allows the Vice President and a majority of the President’s Cabinet declare the president unfit, allowing the Vice President to becomes acting president.
-      * On Monday, the [House](https://twitter.com/60Minutes/status/1348415150018195457/photo/1) will vote on a bill calling on Vice President Pence to invoke the 25th Amendment.tus/1348415150018195457/photo/1) will vote on a bill calling on Vice President Pence to invoke the 25th Amendment.
+      * On Monday, the [House](https://twitter.com/60Minutes/status/1348415150018195457/photo/1) will vote on a bill calling on Vice President Pence to invoke the 25th Amendment.

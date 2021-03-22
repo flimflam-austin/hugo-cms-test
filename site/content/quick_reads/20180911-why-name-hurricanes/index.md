@@ -1,14 +1,14 @@
 ---
 title: You Will Never See Another Hurricane Katrina again...why?
 slug: 20180911-why-name-hurricanes
-_id: legacy-7b10e9f7-f1a4-4f48-8956-d198709deaa0
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-dca560ec-44ca-4ecb-b022-3966f7831d46
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - why-name-hurricanes/
 _createdAt: '2018-09-11T11:57:07Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-11T11:57:07+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       Never A "Katrina" Again
     citation: Never A "Katrina" Again
-    _key: card-1-e69e7e18-ddde-416b-a3c4-148b0e79f135
+    _key: card-1-d0f2fe86-a3c3-4537-bd62-30a3faeac022
   - order: 1
     body: >-
       ## Who Names The Storms?
@@ -49,7 +49,7 @@ cards:
 
       * **You’ll never hear of another “Hurricane Katrina” because names of
       infamous deadly and destructive storms are retired**.
-    _key: card-2-a8f90f17-a430-478b-8b43-d74978d934aa
+    _key: card-2-39346c03-e94d-434c-8491-661a89d1eee8
   - order: 2
     body: |-
       ## History of Naming
@@ -61,7 +61,7 @@ cards:
       Storm names mainly female in the 1900s; a tradition w/o an origin.
 
       Beginning in 1979, both male & female names officially used.
-    _key: card-3-2da45548-4694-490f-bd91-1db940d87fb0
+    _key: card-3-2f7370d8-70a9-4764-84ef-a39066d18d4b
   - order: 3
     body: >-
       2018 hurricane season peaked on Sept 10. It started roughly in beginning
@@ -70,7 +70,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/why-name-hurricanes/)
-    _key: card-10-1de67781-d020-4c85-a570-21d919ffe59a
+    _key: card-10-8af8b95f-5155-47d3-beb6-2a74137a935d
 
 ---
 * **Why do we name tropical storms and hurricanes?**  

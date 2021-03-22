@@ -1,14 +1,14 @@
 ---
 title: 19.01.08 Coffee Talk
 slug: 20190108-19-01-08-coffee-talk
-_id: legacy-903f5aba-5959-472a-8508-e0525948fb12
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-a9864602-2b39-4a2c-b52e-e7020fa15a06
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 19-01-08-coffee-talk/
 _createdAt: '2019-01-08T17:36:09Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-01-08T17:36:09+00:00'
 weight: 50
 featured_image:
@@ -28,15 +28,13 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/oYVoT9Q6yqo?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-df4b3b12-8949-43f8-92aa-6b063ed1700a
+    _key: card-1-6d3a0bc9-37b4-439f-8a64-a13c3e233de2
   - order: 1
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/19-01-08-coffee-talk/)
-    _key: card-10-2e029a3e-a24c-4abf-9455-4a2c168679aa
+    _key: card-10-20c0f4c8-ec57-4b5c-970b-18124d726177
 
 ---
-{{< youtube oYVoT9Q6yqo >}}
-
-{{< youtube oYVoT9Q6yqo >}}
+{{< youtube id=\oYVoT9Q6yqo\ title=\Coffee Talk-1/8/19\ >}}

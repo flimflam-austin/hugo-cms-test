@@ -1,14 +1,14 @@
 ---
 title: 18.05.22 Noko Whats the Drama
 slug: 20180522-18-05-22-noko-whats-drama
-_id: legacy-995a23b8-98ef-481c-8023-ee34d8eec23a
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-80f73f18-062f-4ca8-9378-28b733e2495b
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-22-noko-whats-drama/
 _createdAt: '2018-05-22T11:29:25Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-22T11:29:25+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Flip: Whats Going On?
     citation: 'Flip: Whats Going On?'
-    _key: card-1-863ab9c0-bc9e-4fdc-92a6-76ce6dd278df
+    _key: card-1-14f96006-f96e-489a-a4fd-ef7841f0da3d
   - order: 1
     body: >-
       ## “Denuclearization”
@@ -44,7 +44,7 @@ cards:
 
       * National Security Advisor John Bolton mentioned a “Libya-model”
       denuclearization – this sparked trouble in NoKo.
-    _key: card-2-076d553e-5a1d-4847-be26-1a342a62811a
+    _key: card-2-87cce8fb-7e20-4fff-88be-6f7b51fcb21c
   - order: 2
     body: >-
       ## Quick Catch-Up: Libya
@@ -58,7 +58,7 @@ cards:
 
       * NoKo: Libya’s fate show why NoKo NEEDS nukes – for security, leverage
       and to keep America from meddling in its affairs.
-    _key: card-3-b8910437-8494-412d-9cf9-2a9f674ca846
+    _key: card-3-15ee3561-e97a-461d-99f0-ff64f2f41a62
   - order: 3
     body: >-
       ## Debate: Denuclearization
@@ -71,7 +71,7 @@ cards:
       KOREAN PENINSULA**? The U.S. doesn’t have nukes in South Korea but a key
       military base. Could that change?A **Is that a non-starter for the
       summit?**
-    _key: card-4-d562b9fe-09dc-4c20-88c5-e08f2672bb2a
+    _key: card-4-4d169e64-61ff-4855-8ae4-a4ab1bc3e3b1
   - order: 4
     body: >-
       SmartHER Tip: Watch what's going on with China (NoKo trade partner). The
@@ -81,7 +81,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-22-noko-whats-drama/)
-    _key: card-10-25910b8a-5d66-4a28-ac94-c2192afc0ca1
+    _key: card-10-e82e7bc8-b509-4ac2-9bd6-02a32b717d58
 
 ---
 * **As Trump-Kim Summit Approaches, South Korea’s Leader Heads To White House:** [https://www.npr.org/sections/parallels/2018/05/21/612965580/ahead-of-trumps-n-korea-summit-some-face-time-with-s-koreas-leader](https://www.npr.org/sections/parallels/2018/05/21/612965580/ahead-of-trumps-n-korea-summit-some-face-time-with-s-koreas-leader)

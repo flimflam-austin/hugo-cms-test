@@ -1,14 +1,14 @@
 ---
 title: America's Leaders on America's Maverick
 slug: 20180830-americas-leaders-on-americas-maverick
-_id: legacy-1b8e227d-677b-4027-80eb-f24164a31803
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-cb820219-fb2c-4224-a33b-7345f791ce82
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - americas-leaders-on-americas-maverick/
 _createdAt: '2018-08-30T11:14:15Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-30T11:14:15+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
         
         
       Sen. Lindsey Graham (R-SC), March 2017
-    _key: card-1-f4b748cb-2783-465e-a2a2-2eb7d0d66591
+    _key: card-1-ae1226fe-857e-463a-8852-21b832f535ee
   - order: 1
     body: >-
       > “John McCain is an American hero & one of the bravest fighters I’ve ever
@@ -48,7 +48,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/ggmk9uwAXvE?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-211fafc8-e088-4301-a14d-a3496217a05c
+    _key: card-2-4dc77044-d2fc-45c3-a457-a7c96b9db18e
   - order: 2
     body: >-
       > “John McCain’s life is a story of service above self…. John is an
@@ -59,7 +59,7 @@ cards:
         
         
       Former President George W. Bush, September 2008
-    _key: card-3-21d87b78-a5d7-447b-bd39-7459d6cee24f
+    _key: card-3-9e1fc4a9-1ffa-4865-bdbd-f9ef65bee067
   - order: 3
     body: >-
       > “I know if I picked up the phone tonight and called John McCain and
@@ -74,7 +74,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/3Sa8G-VR13Q?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-4-d690cd8c-ab36-42a3-9447-a9ddfb260b1a
+    _key: card-4-b9cc9c3c-5c79-411b-afb6-87cb6fad60b4
   - order: 4
     body: >-
       > ‘In my lifetime, he’s one of the most remarkable patriots our country’s
@@ -83,7 +83,7 @@ cards:
         
         
       Former President Bill Clinton, May 2018
-    _key: card-5-97df0c39-18e8-453e-aad1-a6b99f1e49d8
+    _key: card-5-a3e5274f-b934-48fe-9259-fb4b0596e1b4
   - order: 5
     body: >-
       > “I know this: As soon as my boys are of age, I’ll tell them stories
@@ -100,12 +100,12 @@ cards:
       [WORTH THE
       READ](https://www.si.com/nfl/2017/12/23/larry-fitzgerald-senator-john-mccain-arizona-vietnam-war-pow)
     citation: WORTH THE READ
-    _key: card-6-4f109dae-6bc8-4ae2-beef-b0f16e989694
+    _key: card-6-fc762c05-1274-4ff1-a2d7-5f123d0e2b7c
   - order: 6
     body: >-
       [view
       sources](https://smarthernews.com/americas-leaders-on-americas-maverick/)
-    _key: card-10-b93ddf00-9260-4905-9c8f-41017a4f4612
+    _key: card-10-d93882f1-9aca-446e-8351-02d2ff1a5208
 
 ---
 * **WORTH THE WATCH: Graham: McCain will fight for his friends:** [https://www.youtube.com/watch?v=ggmk9uwAXvE](https://www.youtube.com/watch?v=ggmk9uwAXvE)

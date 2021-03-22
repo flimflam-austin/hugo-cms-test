@@ -1,14 +1,14 @@
 ---
 title: 18.07.31 Quick Quotes
 slug: 20190905-18-07-31-quick-quotes
-_id: legacy-4fd935fa-c409-42ad-9d2e-aa6f7c027181
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-d0453134-8203-43a6-8087-a8c63523cffb
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-07-31-quick-quotes/
 _createdAt: '2018-07-31T11:28:53Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-07-31T11:28:53+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       Weymouth, MA Mayor Robert Hedlund on Taylor Swift providing free concert
       tickets after the shooting death of a local police officer. Swift's camp
       did not respond to a request for comment.
-    _key: card-1-902f1456-dc95-49d7-829c-2b37cf8d5233
+    _key: card-1-84c9733a-54ae-4a4f-b07f-3e8790b69ddd
   - order: 1
     body: >-
       > ‘We see them going to work, just as before…’  
@@ -41,7 +41,7 @@ cards:
       reported late Monday that work continues at the same weapons factory North
       Korea used to build an intercontinental ballistic missile capable of
       carrying a nuclear warhead to the U.S.
-    _key: card-2-f96ed9fd-0cb6-48a0-958d-29f84f42fe57
+    _key: card-2-fa357510-42e9-4e90-9e65-7d73833ffc4c
   - order: 2
     body: >-
       > “I’ll always leave room for negotiation.”  
@@ -55,7 +55,7 @@ cards:
       by not approving a spending bill without that $$, he also said that when
       it comes to funding he has no red line and just wants great border
       security.
-    _key: card-3-7fe4c1f4-220c-4287-9a81-2e70102ed69e
+    _key: card-3-9b648423-6077-43ec-a363-4317dd80e6cd
   - order: 3
     body: >-
       > ‘Putin is a thief.’  
@@ -68,7 +68,7 @@ cards:
       popularity, though he says it's needed. We have to proceed not from
       emotions, but from the real assessment of economic conditions..., Putin
       said.
-    _key: card-4-a685ef6b-6ca6-4319-aed9-cde09b5a607e
+    _key: card-4-d86f08b3-b53c-4f6d-b45b-9320517ff322
   - order: 4
     body: >-
       > “He has no information incriminating of the president, I know that for a
@@ -83,13 +83,13 @@ cards:
 
       [More Info Here](https://smarthernews.com/18-07-31-manafort/%20a)
     citation: More Info Here
-    _key: card-5-b82ab2f6-face-4581-be5f-5053009fd08f
+    _key: card-5-41e70006-df46-4029-b67a-93d584503057
   - order: 5
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-07-31-quick-quotes/)
-    _key: card-10-6327c568-994b-491d-a259-ccbc3ecac028
+    _key: card-10-43957aa1-d5c9-488a-b6de-f14f8d1ec161
 
 ---
 * **Taylor Swift offers free tickets after Weymouth officer”s death:**  

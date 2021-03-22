@@ -3,25 +3,19 @@ title: >-
   Border Apprehensions Hit a 13 Year High in May: Unprecedented Numbers of
   Families and Minors.
 slug: 20190905-test
-_id: legacy-bab77a4f-3de5-4aeb-b2a3-93a9fe7204b4
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-350a38fd-689e-4ee1-ad3f-254f9b91dd6e
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/test/
 _createdAt: '2019-08-16T19:20:06Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-08-16T19:20:06+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  Border Apprehensions hit a 13 year high in May: unprecedented numbers of
-  families and minors.
 featured_quote:
   quote: Government moves migrant kids after AP exposes bad treatment
-  citation: >-
-    Border Apprehensions hit a 13 year high in May: unprecedented numbers of
-    families and minors.
 
 ---
 * Having about eight-ninths of its area

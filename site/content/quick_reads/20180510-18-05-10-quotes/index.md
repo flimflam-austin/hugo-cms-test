@@ -1,14 +1,14 @@
 ---
 title: 18.05.10 Quotes
 slug: 20180510-18-05-10-quotes
-_id: legacy-eebca790-74f6-49d3-a04a-a6d057962f5f
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-7c8a22f5-d424-46dd-9a01-24cf3694b863
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-10-quotes/
 _createdAt: '2018-05-10T10:03:59Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-10T10:03:59+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
       hearing. Afterwards, Sen. John McCain (R-AZ) issued a statement urging his
       colleagues to vote against her confirmation. Sen. McCain was detained
       during the Vietnam War & is an outspoken critic of CIA's use of torture.
-    _key: card-1-a36329bf-cd6f-4043-8f7d-08248b83f62c
+    _key: card-1-67be2182-df88-4236-8000-7b72334d4efa
   - order: 1
     body: >-
       > **‘Corporations want to pay for insight, advocacy & expertise on a White
@@ -43,7 +43,7 @@ cards:
       Trump's personal lawyer Michael Cohen sold insight into the new president.
       AT&T and Novartis confirmed payments. Cohen is also under investigation
       over payment to porn star Stormy Daniels.
-    _key: card-2-33795803-84f9-4fc3-96fe-a8b9443e4e76
+    _key: card-2-dc8f3d1a-564b-4783-b89c-1ffe54a6e504
   - order: 2
     body: >-
       > **“Someone, please change our fate, whoever, even Trump. I used to be a
@@ -53,7 +53,7 @@ cards:
         
       Ali Shoja, a cleaner who said he could not afford to support his family,
       on Iran's economy & and the hardship caused by sanctions to NYT.
-    _key: card-3-3ee2ca8a-daab-4172-b712-bb26ef5061f8
+    _key: card-3-e7db1156-e524-401b-8c71-3ac9cb8ca760
   - order: 3
     body: >-
       > **‘This is huge. It’s a cost-effective measure that is going to reduce
@@ -66,10 +66,10 @@ cards:
       move to becomes the first state to mandate solar panels on new homes. Rule
       will cut emissions, but also drive home prices higher in a state already
       known for expensive housing.
-    _key: card-4-1e170407-d60c-45fc-b6b1-3be9fd9a8483
+    _key: card-4-f71d8511-ecc2-437b-875a-2f5828ba8a96
   - order: 4
     body: '[view sources](https://smarthernews.com/18-05-10-quotes/)'
-    _key: card-10-fa30e7b1-d266-4254-882b-b762646373df
+    _key: card-10-dc82a010-7473-41b1-8c91-a7d25d087def
 
 ---
 * **Trump lawyer sold “insight” into his high-powered client:** [https://apnews.com/91570c4065ba44e5bcc85a082138cebe/Trump-lawyer-sold-%27insight%27-into-his-high-powered-client](https://apnews.com/91570c4065ba44e5bcc85a082138cebe/Trump-lawyer-sold-%27insight%27-into-his-high-powered-client)

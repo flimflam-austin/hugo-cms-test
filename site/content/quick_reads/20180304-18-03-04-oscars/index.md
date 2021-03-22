@@ -1,14 +1,14 @@
 ---
 title: 18.03.04 Oscars
 slug: 20180304-18-03-04-oscars
-_id: legacy-92f26952-b115-4e8b-9371-5b18d1d44348
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-9132fa79-f48d-4fbd-8b8f-026323d1f736
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-04-oscars/
 _createdAt: '2018-03-04T15:21:15Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-04T15:21:15+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       TAP HERE FOR MORE
     citation: TAP HERE FOR MORE
-    _key: card-1-84087d7c-c568-427b-8d87-807cce60774a
+    _key: card-1-97a42b7f-0566-415c-a6fd-256deaf29080
   - order: 1
     body: >-
       ## 2018 Female Trailblazers:
@@ -47,7 +47,7 @@ cards:
 
       Greta Gerwig (_I, Tonya_), the only 2018 female director nominee, could
       become the 2nd woman ever to win Best Director.
-    _key: card-2-1df5d94e-6330-4464-a68d-2bd77b84a214
+    _key: card-2-c2403838-2596-4ef6-b9b7-6c1999b40e45
   - order: 2
     body: >-
       _According to an analysis by the Women’s Media Center:_
@@ -59,7 +59,7 @@ cards:
 
       From 2005 – 2016, **less than a fifth** of non-acting nominations went to
       women.
-    _key: card-3-85b1d2ae-de17-46a5-ac8c-704661e13dee
+    _key: card-3-64e5f3a3-ab47-4c0d-8238-7acab2e69bfc
   - order: 3
     body: >-
       In an interview with CNN, Mudbound's Rachel Morrison said "Sure, there's
@@ -70,7 +70,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-04-oscars/)
-    _key: card-10-43615063-5cfc-4c7d-905a-9554bdf055cd
+    _key: card-10-d971b537-9ed2-4e50-b84a-2a79099c6b6e
 
 ---
 * Oscars 2018: Female-led Oscar films “more profitable”: [http://www.bbc.com/news/entertainment-arts-43146026](http://www.bbc.com/news/entertainment-arts-43146026)

@@ -1,14 +1,14 @@
 ---
 title: 18.06.15 Doj on Clinton Probe
 slug: 20180615-18-06-15-doj-on-clinton-probe
-_id: legacy-fa75c297-3bb0-47f6-aab8-d181d3e2c8be
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-df8c8b97-064a-4abb-a383-029abd69d696
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-15-doj-on-clinton-probe/
 _createdAt: '2018-06-15T10:36:52Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-15T10:36:52+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       500+ pages condensed.
     citation: 500+ pages condensed.
-    _key: card-1-00690828-0815-4768-8a9b-e88a1ea536f2
+    _key: card-1-804965c1-6e36-4d80-8a35-29370f328600
   - order: 1
     body: >-
       ## WATCHDOG’S FINDINGS:
@@ -47,7 +47,7 @@ cards:
       email probe 9 days before election.
 
       * Comey’s actions **“negatively impacted the perception of FBI.”**
-    _key: card-2-21668f4b-926f-48e5-9531-0a4191f2184d
+    _key: card-2-144affda-2f06-4042-83ec-af7860d0d23a
   - order: 2
     body: >-
       > Watchdog’s report also found **several instances of FBI officials
@@ -63,7 +63,7 @@ cards:
       Right!?”
 
       * Strzok: “No. No he won’t. We’ll stop it.”
-    _key: card-3-c65440c3-46db-4744-8472-d6b6facc238a
+    _key: card-3-300d5ae7-e83a-4c40-b8f3-655470958124
   - order: 3
     body: >-
       > _“I do not agree with all of the inspector general’s conclusions, but I
@@ -83,7 +83,7 @@ cards:
       _“But my emails.”_  
 
       Hillary Clinton tweet
-    _key: card-4-d4d1066f-4854-459a-8b08-705f1a854118
+    _key: card-4-a5e109e3-5bb6-448a-86f6-2561ca831ec8
   - order: 4
     body: >-
       ## WHY IT MATTERS:
@@ -98,7 +98,7 @@ cards:
 
 
       **Bottom line:** Watchdog’s findings give neither side total vindication.
-    _key: card-5-81f6d7c9-7697-4dde-8bbd-fa69e91bd966
+    _key: card-5-078823f1-3bb8-46c8-83a2-02895cbd75e5
   - order: 5
     body: >-
       The Inspector General's report made no recommendation of leveling any
@@ -107,16 +107,13 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-15-doj-on-clinton-probe/)
-    _key: card-10-4781626a-791d-40cc-b072-1271f48ad41c
+    _key: card-10-1f62f6ee-9d36-4517-b424-36c1af7aa605
 
 ---
 * **Watchdog sees errors, not bias, in Comey’s Clinton Probe:**  
 [https://apnews.com/e5f20d965ad244b4b9b45a4412d2e4df/Watchdog-sees-errors,-not-bias,-in-Comey’s-Clinton-probe](https://apnews.com/e5f20d965ad244b4b9b45a4412d2e4df/Watchdog-sees-errors,-not-bias,-in-Comey's-Clinton-probe)
-* 
-
-**Lawmakers accuse FBI of ‘destructive level of animus’ following release of IG report:**  
+* **Lawmakers accuse FBI of ‘destructive level of animus’ following release of IG report:**  
 [http://www.foxnews.com/politics/2018/06/14/lawmakers-accuse-fbi-destructive-level-animus-following-release-ig-report.html](http://www.foxnews.com/politics/2018/06/14/lawmakers-accuse-fbi-destructive-level-animus-following-release-ig-report.html)
-
   * **Republican Rep. Trey Gowdy of South Carolina:** alarmed, angered, and deeply disappointed by the Inspector General’s finding of numerous failures by DOJ and FBI and noted that the report showed an alarming and destructive level of animus displayed by top officials at the FBI.
   * **Democratic Sen. Dick Durbin of Illinois:A** This report makes clear that FBI Director Comey and FBI personnel failed to follow the rules, and in doing so, hurt Hillary Clinton”s campaign and helped Donald Trump”s.
   * **Senate Minority Leader & New York Democrat ChuckA Schumer:**A Comey had made “an error of judgement, but not an error of credibility.”

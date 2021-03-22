@@ -1,14 +1,14 @@
 ---
 title: 18.04.27 Korean War in Pictures
 slug: 20180427-18-04-27-korean-war-pictures
-_id: legacy-140d8f0e-2c86-4a28-9938-055937f368bf
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-b0566c6f-480c-4578-b6b8-529f65c5059a
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-27-korean-war-pictures/
 _createdAt: '2018-04-28T02:49:44Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-28T02:49:44+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       [CLICK HERE:
       PHOTOS](https://www.nytimes.com/2018/04/25/world/asia/korean-war-.html)
     citation: 'CLICK HERE: PHOTOS'
-    _key: card-1-72d7bd21-0b15-4bcc-8d50-6ef94d428109
+    _key: card-1-364303e5-63b5-4993-9bb1-b5e0130b695e
   - order: 1
     body: >-
       ## KOREAN WAR
@@ -43,7 +43,7 @@ cards:
       * **Tensions arose from WWII.** Korean Peninsula occupied by Japan during
       war. After the war, U.S. divided peninsula into North & South arbitrarily
       at 38th parallel aka the “DMZ” or demilitarized zone”.
-    _key: card-2-b8689438-561a-4f82-92e3-5774c356e0fa
+    _key: card-2-9a220676-7be4-4a3c-b9c0-64176be8a113
   - order: 2
     body: >-
       What You Should Know:  
@@ -59,7 +59,7 @@ cards:
 
       * Called “**The Forgotten Wa**r” in America because Vietnam soon
       overshadowed the deadly conflict.
-    _key: card-3-807e53b5-1e8a-4711-a218-925463ccd33f
+    _key: card-3-1aef6479-f825-4fc7-b0fa-e9f87df709a0
   - order: 3
     body: >-
       Why we should #NeverForget: More than 20,000 American troops remain
@@ -68,7 +68,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-27-korean-war-pictures/)
-    _key: card-10-9062a14f-1cf8-4719-90db-5f08b520dc70
+    _key: card-10-cabc19ec-b291-4b46-8853-f51454c14f52
 
 ---
 * **WORTH-IT-TO-SEE:A The Korean War in Pictures**A [https://www.nytimes.com/2018/04/25/world/asia/korean-war-.html](https://www.nytimes.com/2018/04/25/world/asia/korean-war-.html)

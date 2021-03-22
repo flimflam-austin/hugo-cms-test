@@ -4,27 +4,23 @@ title: >-
   Says Lawmakers & the White House Need to Agree to a Plan in the Next 48-Hours
   to Have a Deal Before the Election.
 slug: 20201018-speaker-on-stimulus-oct-2020
-_id: legacy-8203b7a3-bfc7-4fab-bca8-c9ab9dfa7b9e
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-8401f496-5396-4bf2-b056-d151c6278831
+_rev: f2cVhvAV1wntWw1uaABAwR
 type: quick_quotes
 draft: false
 aliases:
   - article/speaker-on-stimulus-oct-2020/
 _createdAt: '2020-10-19T03:37:13Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:53Z'
 date: '2020-10-19T03:37:13+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    bd8ae21b577a6e0cc7989450380515fe397e9f45-1920x855.jpg
 is_breaking: false
-summary: >-
-  House Speaker Nancy Pelosi on working on another economic stimulus bill. She
-  says lawmakers & the White House need to agree to a plan in the next 48-hours
-  to have a deal before the election.
 featured_quote:
   quote: We don't have agreement in the language yet, but I'm hopeful.
-  citation: >-
-    House Speaker Nancy Pelosi on working on another economic stimulus bill. She
-    says lawmakers & the White House need to agree to a plan in the next
-    48-hours to have a deal before the election.
 
 ---
 * The current bill stands around $1.8 trillion dollars – a reduction of the House plan that passed with more than $2 trillion.
@@ -34,4 +30,4 @@ featured_quote:
 * Although the focus remains on Democrats and Republicans – some Republican lawmakers in the Senate do not like the idea of passing another massive stimulus plan.
 * **Why This Matters:** Passed stimulus bills gave Americans additional funds for unemployment benefits. Many are running out of benefits altogether.
 
-**Watch the interview:** [WATCH HERE](https://abcnews.go.com/Politics/dems-wh-48-hours-reach-stimulus-agreement-election/story?id=73672906)[WATCH HERE](https://abcnews.go.com/Politics/dems-wh-48-hours-reach-stimulus-agreement-election/story?id=73672906)
+**Watch the interview:** [WATCH HERE](https://abcnews.go.com/Politics/dems-wh-48-hours-reach-stimulus-agreement-election/story?id=73672906)

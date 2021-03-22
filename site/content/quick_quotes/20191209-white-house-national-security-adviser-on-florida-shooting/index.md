@@ -1,21 +1,21 @@
 ---
 title: White House National Security Adviser on Florida Shooting
 slug: 20191209-white-house-national-security-adviser-on-florida-shooting
-_id: legacy-45144863-d444-4e70-8a55-66d5a754a8b0
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-aed96007-7302-4324-973b-8034dd15349c
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/white-house-national-security-adviser-on-florida-shooting/
 _createdAt: '2019-12-09T04:32:46Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-12-09T04:32:46+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
 is_breaking: false
-summary: White House National Security Adviser on Florida shooting
 featured_quote:
   quote: Look, to me it appears to be a terrorist attack.
-  citation: White House National Security Adviser on Florida shooting
 
 ---
 * National Security Adviser Robert O’Brien speaking about a Saudi national who opened fire at a naval base in Florida last week.
@@ -27,4 +27,4 @@ featured_quote:
 _The official who spoke Saturday said one of the three students who attended the dinner party hosted by the attacker recorded video outside the classroom building while the shooting was taking place. Two other Saudi students watched from a car, the official said_
 
 **Read More: Saudi gunman tweeted against US before naval base shooting**  
-[https://apnews.com/8aef6b09fe84ba7f5ee1d0b00e7d1b0a](https://apnews.com/8aef6b09fe84ba7f5ee1d0b00e7d1b0a)//apnews.com/8aef6b09fe84ba7f5ee1d0b00e7d1b0a)
+[https://apnews.com/8aef6b09fe84ba7f5ee1d0b00e7d1b0a](https://apnews.com/8aef6b09fe84ba7f5ee1d0b00e7d1b0a)

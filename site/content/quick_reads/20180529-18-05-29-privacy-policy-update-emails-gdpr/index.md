@@ -1,14 +1,14 @@
 ---
 title: 18.05.29 Privacy Policy Update Emails (Gdpr)
 slug: 20180529-18-05-29-privacy-policy-update-emails-gdpr
-_id: legacy-f2eb8321-8d30-400c-903a-1dfe012eb2a6
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-ef6141e2-8221-4e68-ba01-e855474b5433
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-29-privacy-policy-update-emails-gdpr/
 _createdAt: '2018-05-29T10:16:37Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-05-29T10:16:37+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       FLIP HERE FOR MORE
     citation: FLIP HERE FOR MORE
-    _key: card-1-2f22bdab-210d-47d1-b6f6-75ee3722dfc4
+    _key: card-1-1691371e-ccce-4bbf-b673-7a2550ec5a20
   - order: 1
     body: >-
       ## EU Privacy Protections
@@ -40,7 +40,7 @@ cards:
       UPDATE their privacy polices *and* clearly describe (in plain English) how
       they COLLECT & USE personal data, like your name, age, location, gender,
       birthday, or marital status.
-    _key: card-2-e287fbc5-e141-4763-8bec-5092e2a66730
+    _key: card-2-98e1dff4-9284-4f83-a7e9-4e6a8ac0fd0a
   - order: 2
     body: >-
       ## Under the GDPR, companies MUST:
@@ -55,7 +55,7 @@ cards:
 
       * **ERASE** users’ data (upon request) if it is not being used for a
       compelling business purpose.
-    _key: card-3-dee7977c-1bb8-42c8-935f-41c75f5002c4
+    _key: card-3-d10b3382-409a-49ba-b72a-bbc978c517e4
   - order: 3
     body: >-
       ## You don’t live in the EU, so why are you getting the privacy updates?
@@ -68,7 +68,7 @@ cards:
 
       Those that fail to comply risk a fine of up to 4% of their annual revenue
       or 20M euros (**whichever is higher**).
-    _key: card-4-0c880546-a576-49e7-bfe9-829bafedd69b
+    _key: card-4-5185c576-a36a-4a01-a04b-0918c2c761ca
   - order: 4
     body: >-
       The GDPR aims to improve privacy protections, but some experts are
@@ -79,7 +79,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-05-29-privacy-policy-update-emails-gdpr/)
-    _key: card-10-29fba27b-5198-4ecc-bc0e-c0d99a143462
+    _key: card-10-79d3cbec-9dd1-4ad7-9153-437ac97de111
 
 ---
 * **Why you’re suddenly getting lots of emails from sites you haven’t visited in years:** [https://finance.yahoo.com/news/why-apos-suddenly-getting-lots-130200362.html](https://finance.yahoo.com/news/why-apos-suddenly-getting-lots-130200362.html)

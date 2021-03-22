@@ -1,16 +1,20 @@
 ---
 title: Here, We Have a Spotlight Example with the Metamorphosis by Kafka
 slug: 20190830-here-we-have-a-spotlight-example-with-the-metamorphosis-by-kafka
-_id: legacy-c92593aa-8255-41c7-bef8-91351ec28474
-_rev: CRhmwZOx7vxYXrRSdQr7Zu
+_id: legacy-2fa8aeaa-9b0d-4c11-a818-1223fde5da7b
+_rev: O8E8pz1fLwnc3fN7JVF8BC
 type: video_posts
 draft: false
 aliases:
   - article/here-we-have-a-spotlight-example-with-the-metamorphosis-by-kafka/
 _createdAt: '2019-06-30T16:04:14Z'
-_updatedAt: '2021-03-16T13:06:00Z'
+_updatedAt: '2021-03-22T13:11:59Z'
 date: '2019-06-30T16:04:14+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    b629dfb85b3890e8b16a09624abe2154192591f1-819x1024.jpg
 video_series: Spotlight
 
 ---
@@ -20,4 +24,4 @@ One morning, when Gregor Samsa woke from troubled dreams, he found himself trans
 
 Gregor then turned to look out the window at the dull weather. Drops of rain could be heard hitting the pane, which made him feel quite sad. “How about if I sleep a little bit longer and forget all this nonsense”, he thought, but that was something he was unable to do because he was used to sleeping on his right, and in his present state couldn’t get into that position. However hard he threw himself onto his right, he always rolled back to where he was. He must have tried it a hundred times, shut his eyes so that he wouldn’t have to look at the floundering legs, and only stopped when he began to feel a mild, dull pain there that he had never felt before.
 
-“Oh, God”, he thought, “what a strenuous career it is that I’ve chosen! Travelling day in and day out. Doing business like this takes much more effort than doing your own business at home, and on top of that there’s the curse of travelling, worries about making train connections, bad and irregular food, contact with different people all the time so that you can never get to know anyone or become friendly with them. It can all go to Hell!” He felt a slight itch up on his belly; pushed himself slowly up on his back towards the headboard so that he could lift his head better; found where the itch was, and saw that it was covered with lots of little white spots which he didn’t know what to make of; and when he tried to feel the place with one of his legs he drew it quickly back because as soon as he touched it he was overcome by a cold shudder.e with one of his legs he drew it quickly back because as soon as he touched it he was overcome by a cold shudder.
+“Oh, God”, he thought, “what a strenuous career it is that I’ve chosen! Travelling day in and day out. Doing business like this takes much more effort than doing your own business at home, and on top of that there’s the curse of travelling, worries about making train connections, bad and irregular food, contact with different people all the time so that you can never get to know anyone or become friendly with them. It can all go to Hell!” He felt a slight itch up on his belly; pushed himself slowly up on his back towards the headboard so that he could lift his head better; found where the itch was, and saw that it was covered with lots of little white spots which he didn’t know what to make of; and when he tried to feel the place with one of his legs he drew it quickly back because as soon as he touched it he was overcome by a cold shudder.

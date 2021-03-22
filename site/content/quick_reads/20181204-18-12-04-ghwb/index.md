@@ -1,14 +1,14 @@
 ---
 title: George Herbert Walker Bush
 slug: 20181204-18-12-04-ghwb
-_id: legacy-66c75484-0d12-45a9-967e-6119634e34da
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-4264aac6-76ca-473d-b3e7-f0a2cd1d6403
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 18-12-04-ghwb/
 _createdAt: '2018-12-04T12:34:04Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-12-04T12:34:04+00:00'
 weight: 50
 featured_image:
@@ -23,7 +23,7 @@ cards:
       # GEORGE HERBERT WALKER BUSH
 
       The life of America’s longest-living president.
-    _key: card-1-47e2a485-8998-4d41-8ada-7fb2a3fe7fe7
+    _key: card-1-7270e030-b5a0-4e2d-b8a7-211fdd3480d2
   - order: 1
     body: >-
       # The Navy Pilot
@@ -38,7 +38,7 @@ cards:
       at the time & aA Lieutenant. During one of his 58 combat missions, his
       plane was shot down over the Pacific during WWII. He survived on a raft
       and was eventually rescued.
-    _key: card-2-a56bba48-f88c-442f-b2b4-9b0a969a0dec
+    _key: card-2-2588f9c0-f23e-46bd-bdd3-774800c2db08
   - order: 2
     body: >-
       # The Family Man
@@ -53,7 +53,7 @@ cards:
       73-year marriage resulted in 6 children (including daughter Robin, who
       died of leukemia at age 3), 17 grandchildren, & 8 great-grandchildren.
       Barbara Bush passed away in April 2018.
-    _key: card-3-66a6a5c4-79d6-4cb6-8c9a-26e4b60638e9
+    _key: card-3-cebf73b2-7b9c-425c-9412-66305166cb65
   - order: 3
     body: >-
       # The Business Man
@@ -67,7 +67,7 @@ cards:
       After graduating from Yale, Bush moved his family to Odessa, Texas in 1948
       due to the booming oil industry. He went on to co-found three oil
       businesses.
-    _key: card-4-66269f2f-6ea8-485e-a1f3-6d3e111e2a09
+    _key: card-4-81e75a30-9515-490e-bf4e-9f0d0d9f7e59
   - order: 4
     body: >-
       # The Statesman
@@ -81,7 +81,7 @@ cards:
       Congress. In 1971, Bush became the U.S. Ambassador to the United Nations
       and by 1976, he was the director of the CIA. He served as Pres. Ronald
       Reagan's Vice President from 1980 - 1988.
-    _key: card-5-ef0e7570-8226-4bff-a61a-7687f084ad88
+    _key: card-5-f4c86d8f-f317-4b0b-b348-6df445a02396
   - order: 5
     body: >-
       # The President
@@ -96,7 +96,7 @@ cards:
       Soviet Union, and the fall of the Berlin Wall. In the U.S., Bush signed
       theA Clear Air Act amendments and the Americans with Disabilities Act into
       law.
-    _key: card-6-4b0de6ad-b2b9-4016-92d0-ba4a1cf14f66
+    _key: card-6-5470ccfc-98f7-4d17-bbec-91c761da17a8
   - order: 6
     body: >-
       # The Skydiver
@@ -111,7 +111,7 @@ cards:
       At 72, he delivered on a promise he made to himself as a WWII pilot to
       jump out of a plane not on fire.A He went on to do it seven more times,
       always with Barbara waiting for him on the ground.
-    _key: card-7-8af530a4-bc55-486f-ab8f-34f6a2a43351
+    _key: card-7-53f09bdb-e189-41e7-afb6-186d3e8f78f1
   - order: 7
     body: >-
       Known by many as "41", President Bush was known to his family and loved
@@ -120,7 +120,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-12-04-ghwb/)
-    _key: card-10-19c32be1-bdf6-441b-8b7b-98ef64d0cde9
+    _key: card-10-0f44fb69-131b-429b-8a80-5eea39b6371b
 
 ---
 * **Destiny and Power: The American Odyssey of George Herbert Walker Bush:**  

@@ -1,14 +1,14 @@
 ---
 title: 18.02.14 Valentine's Day
 slug: 20180214-18-02-14-valentines-day
-_id: legacy-91c0347a-6fc1-4acc-a09b-3dc41432f7a8
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-7c1f857f-dcd0-48ed-a654-6f0e3569092d
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-14-valentines-day/
 _createdAt: '2018-02-14T11:42:19Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-14T11:42:19+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       CLICK HERE TO FLIP
     citation: CLICK HERE TO FLIP
-    _key: card-1-291b63d1-19d3-4444-be45-0c7d9ec6011b
+    _key: card-1-46bf13ea-9b7b-47b7-beef-6d38b9f3d3a6
   - order: 1
     body: >-
       # Did You Know?
@@ -49,7 +49,7 @@ cards:
       [Click HERE: Her
       Cards](http://time.com/4663003/esther-howland-valentines/)
     citation: 'Click HERE: Her Cards'
-    _key: card-2-656a9806-2ee6-4b36-9fe8-ebff6dc04168
+    _key: card-2-a57cc265-7b41-4e4b-8f5a-3c6e82d91077
   - order: 2
     body: >-
       # How Do We Celebrate Valentine’s Day?
@@ -65,7 +65,7 @@ cards:
 
       It's Not All Sweet...Flip!
     citation: It's Not All Sweet...Flip!
-    _key: card-3-4d33273c-52ed-41f8-8654-fedaf916e0be
+    _key: card-3-977754ba-5a57-4c7b-9707-0953e9a28708
   - order: 3
     body: >-
       # OTD 1929:
@@ -83,7 +83,7 @@ cards:
       [Click HERE:
       Photos](http://www.history.com/news/valentines-day-massacre-capone)
     citation: 'Click HERE: Photos'
-    _key: card-4-911c76b7-e8eb-422e-bf65-76a0dd6fbf28
+    _key: card-4-9195480c-d8ed-405b-a0dd-e71cdbc603e8
   - order: 4
     body: >-
       Also Today:  
@@ -98,10 +98,10 @@ cards:
 
       * Some Christians receive ashes on their forehead as a sign of their
       faith.
-    _key: card-5-c64eba31-8f98-4405-bcea-f8cea62bf0ea
+    _key: card-5-8761b533-efd8-4729-83ea-5688884c9a1b
   - order: 5
     body: '[view sources](https://smarthernews.com/18-02-14-valentines-day/)'
-    _key: card-10-87a42cee-db36-4665-ad6f-59ad1842063c
+    _key: card-10-ca478c8e-0cfa-41ce-8568-87874fa9eed3
 
 ---
 * Today in History: February 14 – [https://www.loc.gov/item/today-in-history/february-14/](https://www.loc.gov/item/today-in-history/february-14/)

@@ -1,14 +1,14 @@
 ---
 title: Is Your Pet Obese?
 slug: 20190208-19-02-08-fat-pets
-_id: legacy-052e9498-7e57-4f9d-964e-9301111b7fca
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-a4a896e1-df15-48a1-83b3-f9afe4fede63
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 19-02-08-fat-pets/
 _createdAt: '2019-02-08T14:04:32Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-02-08T14:04:32+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Not Fat. Just Husky
     citation: Not Fat. Just Husky
-    _key: card-1-3f0058d6-18c1-44be-ba6b-bd71c5332cc0
+    _key: card-1-bcf4fcab-b04b-4b8e-931c-3e1a3be2291a
   - order: 1
     body: |-
       # US vs. THEM
@@ -41,7 +41,7 @@ cards:
       **56% of dogs & 60% of cats are overweight or obese.**
 
       Only **17% of owners acknowledge** that their pets are overweight.
-    _key: card-2-b5a5b7e0-e385-4333-9865-0419a63bc77a
+    _key: card-2-3caf234d-567b-43f9-a5b7-208ca759d466
   - order: 2
     body: >-
       > “The number of pets with clinical obesity continues to increase… We’re
@@ -53,7 +53,7 @@ cards:
         
       Dr. Ernie Ward, Association for Pet Obesity Prevention founder &
       veterinarian
-    _key: card-3-42a464ba-17cb-4af2-bda5-6e3efe2ed098
+    _key: card-3-2fe03808-a964-4d9a-804e-0e7f80678677
   - order: 3
     body: >-
       ## WHY IT MATTERS:
@@ -72,7 +72,7 @@ cards:
       In 2018, the U.S. pet industry was valued at **$72B** (a 50% jump in 15
       years). Insiders say it’s due to increasing**A health care costs,** many
       related to **overweight ailments.A**
-    _key: card-4-c83a5c5e-6067-4e02-ac5e-030bcaf0ee09
+    _key: card-4-0763f98c-2d59-4a48-8fe1-672abfcf1308
   - order: 4
     body: >-
       Found in more than 60% of U.S. households, dogs & cats are still the most
@@ -82,7 +82,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/19-02-08-fat-pets/)
-    _key: card-10-bef851f6-d214-4197-831a-9aaceef9db03
+    _key: card-10-7672abc6-4393-424f-a5bb-1b8509d520e5
 
 ---
 * **Obesity and Overweight:**  

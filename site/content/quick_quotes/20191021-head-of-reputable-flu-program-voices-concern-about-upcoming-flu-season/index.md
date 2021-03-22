@@ -2,22 +2,20 @@
 title: Head of Reputable Flu Program Voices Concern About Upcoming Flu Season.
 slug: >-
   20191021-head-of-reputable-flu-program-voices-concern-about-upcoming-flu-season
-_id: legacy-df5222eb-66d5-49af-bbfc-99041b4e4c2a
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-135489f1-e4ae-4760-93c9-2bbb300fc829
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/head-of-reputable-flu-program-voices-concern-about-upcoming-flu-season/
 _createdAt: '2019-10-21T20:22:50Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-10-21T20:22:50+00:00'
 weight: 50
 is_breaking: false
-summary: Head of reputable flu program voices concern about upcoming flu season.
 featured_quote:
   quote: "\x1CIt does make me a little bit more nervous than I am in general looking ahead to the flu season."
-  citation: Head of reputable flu program voices concern about upcoming flu season.
 
 ---
 * Head of Kaiser Permanente flu vaccine program Dr. Randy Bergen, who voices concerns about a potentially dangerous upcoming flu season.

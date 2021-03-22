@@ -4,28 +4,22 @@ title: >-
   in December - the First Recorded Job Loss in 8 Months.
 slug: >-
   20210108-u-s-economist-pooja-sriram-barclays-on-the-u-s-economy-losing-140000-jobs-in-december-the-first-recorded-job-loss-in-8-months
-_id: legacy-891bb413-8e92-473a-8eae-18e3e57850d6
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-2b4e0522-8699-462e-be6c-e276d35d0f26
+_rev: ZEyhBiGfgCfwE8WOjbuN87
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/u-s-economist-pooja-sriram-barclays-on-the-u-s-economy-losing-140000-jobs-in-december-the-first-recorded-job-loss-in-8-months/
 _createdAt: '2021-01-08T15:06:38Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:19Z'
 date: '2021-01-08T15:06:38+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  U.S. economist Pooja Sriram, Barclays, on the U.S. economy losing 140,000 jobs
-  in December – the first recorded job loss in 8 months.
 featured_quote:
   quote: >-
     It’s reasonably hopeful this will be a one-off rough patch and we’ll recover
     from there.
-  citation: >-
-    U.S. economist Pooja Sriram, Barclays, on the U.S. economy losing 140,000
-    jobs in December – the first recorded job loss in 8 months.
 
 ---
 * The U.S. unemployment rate is 6.7% (this held steady from the previous month – the [first time it hasn’t fallen since April](https://apnews.com/article/coronavirus-pandemic-economy-ad4cb9fe70653c56ac6253aaab210f21)).

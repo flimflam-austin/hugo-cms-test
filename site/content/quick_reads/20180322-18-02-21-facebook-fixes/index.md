@@ -1,14 +1,14 @@
 ---
 title: 18.02.21 Facebook Fixes
 slug: 20180322-18-02-21-facebook-fixes
-_id: legacy-586c7fce-10c2-478a-8bc4-0652fab91b5f
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-10966c75-ec4e-45a5-95a1-459142a63623
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-21-facebook-fixes/
 _createdAt: '2018-03-22T10:41:02Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-22T10:41:02+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       CEO Mark Zuckerburg finally talked.
     citation: CEO Mark Zuckerburg finally talked.
-    _key: card-1-1e8374c1-166b-456e-be38-af65e19f7275
+    _key: card-1-1df246db-88da-4788-b5c9-33392944dec9
   - order: 1
     body: >-
       > “I started Facebook,  
@@ -45,7 +45,7 @@ cards:
         
         
       Mark Zuckerberg, FB, March 21, 2018
-    _key: card-2-8bad8880-e5a7-4a88-8b4e-525f311aa8ab
+    _key: card-2-b2ef1c21-f0a7-4f57-9d43-2c3ee5a426c4
   - order: 2
     body: >-
       ## Good Catch-Up
@@ -58,7 +58,7 @@ cards:
 
 
       TechCrunch
-    _key: card-3-cba689c6-bdc3-4ae1-961c-e0de03e5188c
+    _key: card-3-cfca576a-2ad9-4caf-b211-c3044144bda8
   - order: 3
     body: >-
       Why It Matters:  
@@ -76,7 +76,7 @@ cards:
 
       * Was the material clearly marked as political paid-for ads or was it more
       sinister to sway opinions?
-    _key: card-4-4dbce301-e8ea-4ac1-99ef-ef8427d8316f
+    _key: card-4-083e69e3-f0f8-4c44-bdaf-27dd04d0e228
   - order: 4
     body: >-
       ## Big Take Away?
@@ -92,7 +92,7 @@ cards:
 
       Another way to look at it?A Facebook did not insure the data, collected
       against their policies, was erased.
-    _key: card-5-a20ed988-d1bd-4c22-b80d-7fdd21ad61c7
+    _key: card-5-e3205420-8b2d-4633-95cd-353ad05beaa3
   - order: 5
     body: >-
       ## Important To Note:
@@ -105,7 +105,7 @@ cards:
       friend’s contact could be accessed without them having the app themselves.
       **After**: If you sign up for an app, your contacts are protected unless
       your friends sign up too.
-    _key: card-6-26f61fcc-1f1d-4112-9661-48f9aa443fd5
+    _key: card-6-4ce9c342-b0a2-4296-9ea6-defc0ce434ee
   - order: 6
     body: >-
       ## What FB is doing NOW:
@@ -119,7 +119,7 @@ cards:
 
       3. FB putting an easier way for users themselves to be reminded what apps
       they have and restrict access.
-    _key: card-7-8a89f888-4448-433c-b1a6-258ecce9c4ec
+    _key: card-7-c1ba6f85-ce20-4007-85e0-137f682d7dc9
   - order: 7
     body: >-
       P.S. Birthdays, Addresses, of you and your friends through your FB
@@ -128,7 +128,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-21-facebook-fixes/)
-    _key: card-10-094b8427-8589-481e-b1fa-34bc6bdd8492
+    _key: card-10-54a0a241-7d1a-48f8-9331-48347cb30be6
 
 ---
 * Mark Zuckerberg StatementA [https://www.facebook.com/zuck/posts/10104712037900071](https://www.facebook.com/zuck/posts/10104712037900071)

@@ -1,14 +1,14 @@
 ---
 title: 18.06.28 Kennedy Scotus
 slug: 20180628-18-06-28-kennedy-scotus
-_id: legacy-ec609619-9e84-4f49-bae6-9282bbbc2b58
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-dabd11d9-78b1-4f81-8c80-afcfa26ae1dd
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-06-28-kennedy-scotus/
 _createdAt: '2018-06-28T11:00:27Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-06-28T11:00:27+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Why This Matters
     citation: Why This Matters
-    _key: card-1-a3152830-6129-435a-bca0-36a67a676ef8
+    _key: card-1-82165690-d8d4-4704-bce6-429879e6860b
   - order: 1
     body: >-
       # LAW OF THE LAND
@@ -50,7 +50,7 @@ cards:
 
       * Justices**A serve 16 years on average**, plenty of opportunity to
       weigh-in on casesA that impact everyday lives of all Americans.
-    _key: card-2-1b436ca6-d407-4acf-9ae0-290b7307d1ed
+    _key: card-2-8481dbcf-026c-45a8-89f4-fbef60a58a2b
   - order: 2
     body: >-
       ## Who is Justice Kennedy?
@@ -66,7 +66,7 @@ cards:
       views often made him the “swing vote ” in hot-button cases.
 
       * Best known for 2015 ruling on constitutional right to same-sex marriage.
-    _key: card-3-27a63664-a8aa-4072-9a29-217c37017492
+    _key: card-3-b0a0bb13-88da-457b-b6cd-656a49d1fb62
   - order: 3
     body: >-
       ## Why Kennedy’s Vacancy Matters
@@ -78,7 +78,7 @@ cards:
       * **Close votes:**A Gorsuch & Kennedy were key votes in 2 controversial
       decisions this week, upholding Trump’s ‘travel ban’ & ruling against
       union’s ‘fair share’ fees. Both decisions were 5-4.
-    _key: card-4-39d8ea97-46fd-48a6-a456-969e321388d0
+    _key: card-4-63c6b293-0e1b-43d0-97d5-23954a19b8d1
   - order: 4
     body: >-
       ## Next Steps
@@ -91,7 +91,7 @@ cards:
       * Only a simple majority is required for confirmation. GOP leaders changed
       the rules when Gorsuch was being considered in order to get rid of the
       60-vote procedural filibuster threshold.
-    _key: card-5-ce571826-9278-4506-afd2-ecfbc5f7c537
+    _key: card-5-cb7f9ca8-053b-4cf2-b4f1-65051a9e8359
   - order: 5
     body: >-
       The President published a previous list of potential Supreme Court
@@ -101,7 +101,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-28-kennedy-scotus/)
-    _key: card-10-fd7dc7d2-8759-4566-99b9-d9cace5d370b
+    _key: card-10-5e2bdecb-3828-4389-9df2-5e75ca2f1b14
 
 ---
 * **President Donald J. Trump”s Supreme Court List:**  

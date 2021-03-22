@@ -1,14 +1,14 @@
 ---
 title: 18.06.15 Quick Quotes
 slug: 20190905-18-06-15-quick-quotes
-_id: legacy-d5364468-0a93-4928-90d6-128d78fc288d
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-53f051c6-a836-4e94-a67b-f8aca5a9d2fd
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-06-15-quick-quotes/
 _createdAt: '2018-06-15T10:28:34Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-06-15T10:28:34+00:00'
 weight: 50
 card_series: Quotes
@@ -30,7 +30,7 @@ cards:
       [CLICK: TO READ
       REPORT](https://www.cdc.gov/media/releases/2018/p0614-yrbs.html)
     citation: 'CLICK: TO READ REPORT'
-    _key: card-1-14ac5422-a16e-46af-8b2b-4639c47bbeed
+    _key: card-1-bd4d9efd-d12e-4479-bbf6-33763d986b9a
   - order: 1
     body: >-
       > “As our investigation reveals, the Trump Foundation was little more than
@@ -43,7 +43,7 @@ cards:
       Foundation & its directors, the President, his sons Eric & Donald Jr. and
       daughter Ivanka, alleging they violated state & federal charities law.
       Trump denies allegations & vows to not settle.
-    _key: card-2-c7dd30e5-1338-436a-8e4b-3c99e3fcabc3
+    _key: card-2-f4bf63d3-f109-4e18-b60d-b149c95874b8
   - order: 2
     body: >-
       > “We’re taking a bet on a guy who doesn’t like to fail.”  
@@ -60,7 +60,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/tfV8z2JY_bI?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-3-5952bb87-e130-4a0b-b60d-e108f7b8617b
+    _key: card-3-ed44fc92-8652-4490-8a9d-c9233a47ae89
   - order: 3
     body: >-
       > “She was a pioneer and icon in the women’s game & made a profound and
@@ -73,10 +73,10 @@ cards:
       college & the WNBA died Wednesday of heart failure. She became the first
       female coach & the youngest person (42) to win a title in the WNBA,
       guiding the Seattle Storm to a championship in 2004.
-    _key: card-4-724f7bba-e240-4b7e-84cd-3005206c7e2e
+    _key: card-4-eee14f4a-f5ce-40d9-ac5c-9b5f23b1a72f
   - order: 4
     body: '[view sources](https://smarthernews.com/18-06-15-quick-quotes/)'
-    _key: card-10-43f8e696-f1d1-437a-a3c4-455c0197ddf7
+    _key: card-10-9394b787-e6fd-4dc5-b240-e94984e8c8a8
 
 ---
 * **CDC:A Teens take fewer risks with sex and drugs but face new challenges:**  

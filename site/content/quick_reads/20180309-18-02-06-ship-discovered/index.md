@@ -1,14 +1,14 @@
 ---
 title: 18.03.06. Ship Discovered
 slug: 20180309-18-02-06-ship-discovered
-_id: legacy-2f9e85c1-599e-4784-b5b8-6de1bd66ac82
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-36b093b4-b7e8-4bd2-99cb-9634bcabfe6a
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-06-ship-discovered/
 _createdAt: '2018-03-07T12:16:30Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-07T12:16:30+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/-K-V_ah6IIs?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-1c875c2a-6bfe-4970-b747-dc71453f4e3e
+    _key: card-1-584a9812-4d6d-4599-a8ac-a41f1ddc803d
   - order: 1
     body: >-
       ## Backstory:
@@ -48,7 +48,7 @@ cards:
       “Lady Lex” sank.
 
       * 2,770 men rescued at sea, but 200+ went down with the ship.
-    _key: card-2-441f8ec4-b0f3-470a-af45-fc301b488ebe
+    _key: card-2-f44aa6e0-9c01-4fab-9084-cb3676b3bba8
   - order: 2
     body: >-
       ## Why It Matters:
@@ -63,7 +63,7 @@ cards:
 
       * A month later, the “Battle of Midway” turns the tide of the war in
       America’s favor.
-    _key: card-3-e4921980-aec5-40fa-a0bf-a91185106523
+    _key: card-3-ad94d97e-291f-47ca-bc7f-9ab9196e5ecd
   - order: 3
     body: >-
       > ‘To pay tribute to theA USSA LexingtonA and the brave men that served on
@@ -74,7 +74,7 @@ cards:
         
         
       Paul Allen, Microsoft Co-Founder & Explorer of Historic Battleships
-    _key: card-4-e062e2d9-250c-4041-b0bf-b059ff5b0a4d
+    _key: card-4-98b0f8fa-d7e0-4a0e-805c-b7b3852bf110
   - order: 4
     body: >-
       BTW Paul Allen is building the world's largest airplane. Expect to hear
@@ -82,7 +82,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-06-ship-discovered/)
-    _key: card-10-ce6aaeec-e1c8-4132-8bb2-5d564e27d1f2
+    _key: card-10-59445772-4438-4762-b2bf-55ab8be1ec2a
 
 ---
 * Paul Allen’s Website:A [https://www.paulallen.com/uss-lexington-wreck-located-rv-petrel/](https://www.paulallen.com/uss-lexington-wreck-located-rv-petrel/)

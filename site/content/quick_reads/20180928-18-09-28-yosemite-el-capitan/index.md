@@ -1,14 +1,14 @@
 ---
 title: Free Solo
 slug: 20180928-18-09-28-yosemite-el-capitan
-_id: legacy-cf62d9d0-fe52-41b6-8ebf-a3ddd6576326
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-d79ba443-b79f-44b0-a1ca-adf8388330a1
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-28-yosemite-el-capitan/
 _createdAt: '2018-09-28T11:12:32Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-09-28T11:12:32+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/urRVZ4SW7WU?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-929fa60c-6498-4210-a963-bfaf7e2e6792
+    _key: card-1-c54590db-47cc-499f-bd5e-4ac2d52040d6
   - order: 1
     body: >-
       Alex Honnold (33) completed this amazing feat June 2017. His journey is
@@ -36,7 +36,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-28-yosemite-el-capitan/)
-    _key: card-10-f1e987e8-5332-484d-b3b3-23ce1ddf8ef8
+    _key: card-10-cc033777-4b08-48ef-ab83-2cc46ae9acf3
 
 ---
 * **Exclusive: Climber Completes the Most Dangerous Rope-Free Ascent Ever:** [https://www.nationalgeographic.com/adventure/features/athletes/alex-honnold/most-dangerous-free-solo-climb-yosemite-national-park-el-capitan/](https://www.nationalgeographic.com/adventure/features/athletes/alex-honnold/most-dangerous-free-solo-climb-yosemite-national-park-el-capitan/)

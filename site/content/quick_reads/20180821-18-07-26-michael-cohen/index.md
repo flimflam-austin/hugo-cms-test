@@ -1,14 +1,14 @@
 ---
 title: 18.07.26 Michael Cohen
 slug: 20180821-18-07-26-michael-cohen
-_id: legacy-527b1952-dfed-470e-a78c-fe2b02571564
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-d4d1f9a6-f630-453e-8ddb-b190395f126d
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-07-26-michael-cohen/
 _createdAt: '2018-07-26T11:55:46Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-07-26T11:55:46+00:00'
 weight: 50
 featured_image:
@@ -25,7 +25,7 @@ cards:
 
       Pres. Trump’s former personal lawyer has been all over the headlines for
       months, here’s why:
-    _key: card-1-1850c932-0d48-497f-91df-c8635e777ca8
+    _key: card-1-2c132d96-ee17-48a8-bbc7-34e18eb31e1c
   - order: 1
     body: >-
       # WHO HE IS:
@@ -41,7 +41,7 @@ cards:
 
       * April:A **FBI raided**A his NY office, home & hotel room as part of an
       **ongoing criminal investigation**
-    _key: card-2-55dec68b-eee8-44b1-8a69-0e38ec0231cb
+    _key: card-2-72bda652-3286-4e07-bcf6-74db6bb527f7
   - order: 2
     body: >-
       # WHY HE MATTERS:
@@ -53,7 +53,7 @@ cards:
 
       Cohen is BELIEVED TO BE of interest to the Special CounselA investigation
       intoA Russia’s interferenceA in the 2016 election.
-    _key: card-3-ff3ab423-33c9-4455-9d91-f7c3867bb1de
+    _key: card-3-f786eca2-043c-4fbd-a94d-9e300a2328a2
   - order: 3
     body: >-
       # HE SAID / HE SAID
@@ -67,7 +67,7 @@ cards:
       be talking about a potential deal on the rights to a story over a 2006
       alleged affair. **Cohen & Trump disagree about the sometimes garbled
       tape’s meaning & weight.**
-    _key: card-4-8e2ff17c-74cb-4f9c-b326-fe2bed0ae2f7
+    _key: card-4-9259cfc2-5f6b-46aa-a007-4ac853f0e9b1
   - order: 4
     body: >-
       # WHY HE MATTERS:
@@ -82,7 +82,7 @@ cards:
 
       * **IF**A Cohen is charged by the NY feds or Special Counsel, he _could_
       try to make a deal.
-    _key: card-5-c98bc932-37e6-463e-8aba-452d8b49d47a
+    _key: card-5-a726c19e-7d93-41c8-9548-40680822fa47
   - order: 5
     body: >-
       On Wednesday, on ABC's "Good Morning America", Lanny Davis, Cohen's
@@ -91,7 +91,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-26-michael-cohen/)
-    _key: card-10-d6e08837-e84c-45ff-a84e-3d95ebdc7060
+    _key: card-10-b0604de2-1fc1-49cb-b813-ed6862506bcb
 
 ---
 * **“Get me a Coke!” What”s in the Trump-Cohen audio, what”s not:**  

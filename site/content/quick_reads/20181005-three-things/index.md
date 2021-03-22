@@ -1,14 +1,14 @@
 ---
 title: Top 3 Things to Know
 slug: 20181005-three-things
-_id: legacy-433468a2-8c7c-47c8-a961-a759f491b55c
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-4ded9280-dec1-4312-91bc-5981caf851af
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - three-things/
 _createdAt: '2018-10-05T11:41:57Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-10-05T11:41:57+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       Nothing but the facts.
     citation: Nothing but the facts.
-    _key: card-1-be88e198-de0a-4990-9781-960556a226bd
+    _key: card-1-22be0c97-14e5-4be3-9804-18934977c071
   - order: 1
     body: >-
       ## WHAT THE FBI’S REPORT SAYS:
@@ -50,7 +50,7 @@ cards:
       either.
 
       * **We do know:A** FBI interviewed 9 people.
-    _key: card-2-1dd12231-8768-4a45-b558-28703639f527
+    _key: card-2-23b428c6-9f70-4628-80b2-504f4e694063
   - order: 2
     body: >-
       ## WHEN WILL THE SENATE VOTE:
@@ -64,7 +64,7 @@ cards:
 
       * Saturday TBD, full Senate will vote on nomination – **51 votes needed to
       confirm nominee.**
-    _key: card-3-300defbd-7f3a-45c7-916f-400dae4ac170
+    _key: card-3-2693af0f-7b44-4950-80a7-909a46a856be
   - order: 3
     body: >-
       # WILL KAVANAUGH GET CONFIRMED:
@@ -76,7 +76,7 @@ cards:
       * That means Kavanaugh will likely be confirmed UNLESS **twoA of the three
       following “undeclared” GOP Senators vote**A against their party:A Susan
       Collins (R-ME), Lisa Murkowski (R-AK), or Jeff Flake (R-AZ).
-    _key: card-4-93cfb5fd-0502-4f86-a8ec-24a7980f8490
+    _key: card-4-670cfd0d-4c86-4ab0-8ef0-85011e2bd458
   - order: 4
     body: >-
       If there is a tie in the Senate, the Vice President will cast the deciding
@@ -86,7 +86,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/three-things/)
-    _key: card-10-a1f1d72c-12ca-4660-99f7-a7137de550e3
+    _key: card-10-65217fd0-5223-4163-9849-556e28010f2b
 
 ---
 * **Editorial by Brett Kavanaugh: I Am an Independent, Impartial Judge**  

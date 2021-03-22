@@ -1,27 +1,29 @@
 ---
 title: 'Video: the News You Need to Start Your Week'
 slug: 20210118-the-news-you-need-to-start-your-week
-_id: legacy-c0b9b79a-9300-4516-949e-b010e2e219ac
-_rev: XOnQP8cIThhnw9BWFxY3xh
+_id: legacy-d641220d-be8a-453c-93c8-9c5a1440e526
+_rev: O8E8pz1fLwnc3fN7JVF8RC
 type: video_posts
 draft: false
 aliases:
   - article/the-news-you-need-to-start-your-week/
 _createdAt: '2021-01-18T17:45:12Z'
-_updatedAt: '2021-03-16T13:06:02Z'
+_updatedAt: '2021-03-22T13:12:00Z'
 date: '2021-01-18T17:45:12+00:00'
 weight: 50
-video_series: Spotlight
+featured_image:
+  alt: Featured article image
+  url: >-
+    493c809808c3ebe4fecf40f5ed67163a90712eab-2560x1920.jpg
+video_series: Coffee Talk
 
 ---
-{{< youtube dMIN2440KA4 >}}
+{{< youtube id=\dMIN2440KA4\ title=\Monday Morning Coffee Talk - The News You Need To Start Your Week\ >}}
 
 More Stories:
 
 The latest from Afghanistan/Iraq [HERE](https://smarthernews.com/article/acting-sec-of-defense-chris-miller-on-the-reduction-of-u-s-troops-in-afghanistan-to-the-lowest-level-since-2001/)
 
 Listen to Sec. Pompeo’s speech [HERE](https://smarthernews.com/article/pompeo-iran-and-alqaeda/)
-
-[MLK Jr’s home church: America’s Freedom Church](https://smarthernews.com/ebenezer-church/)o-iran-and-alqaeda/)
 
 [MLK Jr’s home church: America’s Freedom Church](https://smarthernews.com/ebenezer-church/)

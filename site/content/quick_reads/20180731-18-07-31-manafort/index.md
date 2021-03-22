@@ -1,14 +1,14 @@
 ---
 title: 18.07.31 Manafort
 slug: 20180731-18-07-31-manafort
-_id: legacy-f4f5902a-58c2-4575-a3b6-1803ef96ac93
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-4ebaa198-c3f2-4a5b-8a83-850722a76f8a
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-31-manafort/
 _createdAt: '2018-07-31T11:28:42Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-31T11:28:42+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Yet **none of the charges** against himA relate to his work on the
       campaign or the President.
-    _key: card-1-9d6964fb-8788-40d3-ac79-6a1ebb0c049e
+    _key: card-1-0d827dd4-084e-4d2a-933a-5a7e2882c6a6
   - order: 1
     body: >-
       ## Why It Matters:
@@ -43,7 +43,7 @@ cards:
       Legal experts debate whether Manafort has information that could be
       detrimental to Pres. Trump and, if so, whether he would use it to
       negotiate?
-    _key: card-2-92657fc4-15cd-4300-9f20-f8b6c74e6e7a
+    _key: card-2-1b24c7e7-ca48-4480-a82d-c1496f1c0ca3
   - order: 2
     body: >-
       ## Manafort & The Charges:
@@ -56,7 +56,7 @@ cards:
       Joined Trump campaign in March 2016 & named campaign chairman in May,
       before resigning less than 3 months later in August over ties to a
       pro-Russian political party in Ukraine.
-    _key: card-3-e06f08d7-fa9c-4608-8840-d15ef198fe66
+    _key: card-3-d55494ad-a113-40fd-acb6-c2496cb68a06
   - order: 3
     body: >-
       ## What You Should Know:
@@ -72,7 +72,7 @@ cards:
 
       * **NONE of the charges against former Trump aides are related to the 2016
       election.**
-    _key: card-4-c17c4a39-ddfc-491a-a407-896970918a65
+    _key: card-4-df4447d6-dcb8-46dd-bfcd-6ba02ff222d4
   - order: 4
     body: >-
       Manafort's VA trial is expected to last about three weeks, but delays are
@@ -81,7 +81,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-31-manafort/)
-    _key: card-10-48d90619-a43f-4bc8-9123-e2dbb32533eb
+    _key: card-10-3f7bc3b4-8435-4bb2-b914-aa598eef8f23
 
 ---
 * **Manafort trial to focus on lavish lifestyle, not collusion:** [https://www.boston.com/news/politics/2018/07/29/manafort-trial-to-focus-on-lavish-lifestyle-not-collusion](https://www.boston.com/news/politics/2018/07/29/manafort-trial-to-focus-on-lavish-lifestyle-not-collusion)

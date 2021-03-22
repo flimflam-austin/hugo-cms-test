@@ -1,14 +1,14 @@
 ---
 title: 18.03.01 White House Moves
 slug: 20180301-18-03-01-white-house-moves
-_id: legacy-bdbb629a-b72c-4a27-9281-c308ff1f9fab
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-a6eb6991-59f0-4f4f-a830-9747276f2855
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-01-white-house-moves/
 _createdAt: '2018-03-01T13:00:44Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-01T13:00:44+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       * **Someone Loses Security Clearance:** Jared Kushner, White House Advisor
       & President’s son-in-law
-    _key: card-1-3d1c0b2b-2088-440d-8dd0-20e4b5d665ba
+    _key: card-1-d6d5d2a9-54ad-4b8a-bfd3-423f3f22d076
   - order: 1
     body: >-
       ## Hope Hicks
@@ -46,10 +46,10 @@ cards:
 
       * Noticeable low profile in WH; never led press briefing or did on-camera
       interviews.
-    _key: card-2-7af472e4-90f1-490b-9ec0-791a3fc4cdc5
+    _key: card-2-e9867c97-0389-4524-bab0-cb03ea4d6265
   - order: 2
     body: "“Today we start to build another entity to help with the midterms. We must reenergize the #ArmyOfTrump to help our country stay on @realDonaldTrump a\x18s path that is Making America Great Again. We have only just started, you haven’t seen anything yet. #MAGA”\n\nBrad Parscale, Campaign Manager for Pres. Trump 2020, Twitter  \nFeb 28, 2018"
-    _key: card-3-2e68eb85-f79c-4669-acd8-12a21df836bb
+    _key: card-3-ed18bccd-81fd-4d87-b6c6-5649c174b1ae
   - order: 3
     body: >-
       ## Brad Parscale
@@ -64,7 +64,7 @@ cards:
       * Told CBS 60 minutes in 2017:A _“I understood early that Facebook was how
       Donald Trump was going to win. Twitter is how he talked to the people.
       Facebook was going to be how he won.”_
-    _key: card-4-f2147f9d-9dc0-4929-803b-4a8d90dbed73
+    _key: card-4-b78303ec-4873-4a68-9616-eb768d39a868
   - order: 4
     body: >-
       ## Jared Kushner
@@ -77,7 +77,7 @@ cards:
       * _Washington Post_ reports nations like China discussing ways to take
       advantage of Kushner’s extensive family business & lack of foreign policy
       experience.
-    _key: card-5-7b6cb527-a0a6-4635-8e69-6b819d8e1b45
+    _key: card-5-b11da601-fc6d-4a3a-b4a8-a183373a0d1b
   - order: 5
     body: >-
       Breaking story on Jared Kushner raises questions about his White House
@@ -85,7 +85,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-01-white-house-moves/)
-    _key: card-10-675e9530-9faf-4c66-ac3b-24164d5e70d7
+    _key: card-10-be8f9e2e-520e-45cc-8caa-94270b4ab484
 
 ---
 * Kushner”s Business Got Loans After White House Meetings: [https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html](https://www.nytimes.com/2018/02/28/business/jared-kushner-apollo-citigroup-loans.html)

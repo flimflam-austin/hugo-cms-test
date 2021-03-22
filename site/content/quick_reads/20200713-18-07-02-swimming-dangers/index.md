@@ -1,14 +1,14 @@
 ---
 title: 18.07.02 Swimming Dangers
 slug: 20200713-18-07-02-swimming-dangers
-_id: legacy-e3e7d43d-1073-4da2-a822-08a9abfd8bf6
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-dcf38649-99a0-480c-a71a-30549633df91
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-07-02-swimming-dangers/
 _createdAt: '2018-07-06T05:01:01Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-07-06T05:01:01+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Flip: Deadliest Month
     citation: 'Flip: Deadliest Month'
-    _key: card-1-16b63a17-18ac-41bc-9f34-617027f83157
+    _key: card-1-714fba9e-8d03-4e08-b8e5-427a7e42d027
   - order: 1
     body: >-
       DROWNING  
@@ -47,7 +47,7 @@ cards:
 
       * For adolescents and adults, **alcohol use is involved in up to 70% of
       drowning deaths.**
-    _key: card-2-4dd8c11e-9a00-41aa-8133-86e749ea6be8
+    _key: card-2-eb762189-d461-4d2d-8f16-3348da79374a
   - order: 2
     body: >-
       ## CAR CRASHES
@@ -65,7 +65,7 @@ cards:
         
         
       Insurance Institute For Highway Safety
-    _key: card-3-64abdd18-bfee-44a3-91ba-d9c4ef3cfa8b
+    _key: card-3-05f0a497-7537-421a-86bc-7f6c780bffee
   - order: 3
     body: >-
       ## Water-Associated Disease Outbreaks
@@ -80,7 +80,7 @@ cards:
       (ex: lakes, rivers, oceans)A from 2000 – 2014.
 
       * Outbreaks caused 4,958 illnesses & 2 fatalities.
-    _key: card-4-bb1ed78e-27be-40ef-8be4-ca68afc45c61
+    _key: card-4-8adf91f3-db6c-4b50-b72a-1a43f72ead37
   - order: 4
     body: >-
       Unfortunately when we look at accidental deaths, summer is not the
@@ -89,7 +89,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-02-swimming-dangers/)
-    _key: card-10-4648868d-341e-410e-bd80-d6db4cf8313d
+    _key: card-10-f7cc5c32-26ab-48f5-9ad4-2dab9254cd08
 
 ---
 * **When it Comes to Accidental Deaths, United States is Approaching Deadliest Stretch of the Year**  

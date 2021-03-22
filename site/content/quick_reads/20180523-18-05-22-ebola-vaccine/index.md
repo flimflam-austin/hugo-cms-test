@@ -1,14 +1,14 @@
 ---
 title: 18.05.22 Ebola Vaccine
 slug: 20180523-18-05-22-ebola-vaccine
-_id: legacy-133eeb3f-63f0-48e5-88ef-c39c694ebf82
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-29c8c089-a3dc-403d-ad5e-2f160dbe23cd
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-22-ebola-vaccine/
 _createdAt: '2018-05-23T10:51:57Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-23T10:51:57+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
       Health officials call an **unregulated…A** **unlicensed… unnamed** vaccine
       a **“milestone”** in strategy to prevent Ebola outbreak in Africa &
       **you’re helping pay for it**.
-    _key: card-1-df9569a1-559e-4c10-95d8-48379e59be12
+    _key: card-1-1deec316-780f-4c18-ad2e-63f46146c3a1
   - order: 1
     body: >-
       ‘rVSV-ZEBOV’
@@ -46,7 +46,7 @@ cards:
 
       Flip: Challenges
     citation: 'Flip: Challenges'
-    _key: card-2-2a3a4e1a-67da-43a2-b52e-009ca255045e
+    _key: card-2-acfa990f-6a76-4881-a69a-b191d4efb57e
   - order: 2
     body: >-
       ## Challenges of The Congo
@@ -62,7 +62,7 @@ cards:
 
       Flip: Why This Matters
     citation: 'Flip: Why This Matters'
-    _key: card-3-fb791502-c81f-447a-9ba2-98d285f85776
+    _key: card-3-c9d786f7-a192-4b58-b922-f188627a551e
   - order: 3
     body: >-
       ## Why Ebola Is Dangerous
@@ -75,7 +75,7 @@ cards:
       handling infected meat.
 
       * Ebola killed**A 11,000+ inA Africa in 2014-2016**; 11 cases in U.S.
-    _key: card-4-e5c6b67c-2cd9-435e-aa0f-008af1344ce7
+    _key: card-4-7c0c94f6-00da-40be-a197-69c14f8f32f0
   - order: 4
     body: >-
       The Health and Human Services Secretary announced this Tuesday that the
@@ -84,7 +84,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-22-ebola-vaccine/)
-    _key: card-10-5f82e379-f729-4f36-9954-8ba53eb05cf3
+    _key: card-10-fd762a50-5932-46e1-bee6-f6fd429c9dea
 
 ---
 * **Ebola virus disease a\u0013 Democratic Republic of the Congo: Update on Ring Vaccination:** [http://www.who.int/csr/don/21-may-2018-ebola-drc/en/](http://www.who.int/csr/don/21-may-2018-ebola-drc/en/)

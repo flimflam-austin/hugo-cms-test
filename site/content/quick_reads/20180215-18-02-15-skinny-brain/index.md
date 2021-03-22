@@ -1,14 +1,14 @@
 ---
 title: 18.02.15 the Skinny Brain
 slug: 20180215-18-02-15-skinny-brain
-_id: legacy-714a37f1-39b5-4639-8ad6-a97bd031518b
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-f1d9333b-3af8-4ef4-8ae7-69b78694ad9f
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-15-skinny-brain/
 _createdAt: '2018-02-15T01:00:14Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-15T01:00:14+00:00'
 weight: 50
 featured_image:
@@ -37,7 +37,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-efb9e4b8-557b-428b-9a22-f0fc1798ab6c
+    _key: card-1-f5d12350-f34f-47f2-959d-78bfd9cde954
   - order: 1
     body: >-
       ## Why It Matters:
@@ -52,7 +52,7 @@ cards:
       desire to store fat after dieting.
 
       * Could help with yo-yo dieting and obesity therapies.
-    _key: card-2-7a2e647a-102f-41c8-b30d-00a123ca427b
+    _key: card-2-6f38c83c-238c-4e4b-99f3-fbb9c12f93d2
   - order: 2
     body: >-
       Protein: Potential Link  
@@ -67,10 +67,10 @@ cards:
         
         
       Associate Professor Zane Andrews, Monash Biomedicine Discovery Institute
-    _key: card-3-8dd3c525-a75d-4c8c-8394-09e792a4af8a
+    _key: card-3-25be65fe-14a3-43b1-b4e2-beca540edccb
   - order: 3
     body: '[view sources](https://smarthernews.com/18-02-15-skinny-brain/)'
-    _key: card-10-367a2be7-1c91-461f-8716-1ff20246b2b3
+    _key: card-10-ee5bcd8f-02a7-4eca-8bd7-2f364c27bd60
 
 ---
 * The end of yo-yo dieting? Brain switch that controls fat burning uncoveredA [https://www.sciencedaily.com/releases/2018/02/180213120451.htm](https://www.sciencedaily.com/releases/2018/02/180213120451.htm)

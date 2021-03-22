@@ -1,14 +1,14 @@
 ---
 title: 18.06.08 Quick Quotes
 slug: 20190905-18-06-08-quick-quotes
-_id: legacy-c808c441-9862-48e0-a9e3-df09b636a7c5
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-1b7aabe2-6e63-4afd-a750-7c0427295f96
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-08-quick-quotes/
 _createdAt: '2018-06-08T10:47:47Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-06-08T10:47:47+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       Singapore. He also said it was not a one-meeting deal suggesting he would
       be willing to stay for continued talks, and enticing Kim with normalized
       U.S. relations, economic investment & even a White House visit.
-    _key: card-1-dc015d6c-3c89-497d-8ec8-13e7b9aab699
+    _key: card-1-36c02e95-f967-4b74-b9bb-6931cb01b5ff
   - order: 1
     body: >-
       > “We won the Stanley Cup. That’s all that matters. We won it. It doesn’t
@@ -40,7 +40,7 @@ cards:
       Washington Capitals' captain Alex Ovechkin on having to wait 13 years for
       a Stanley Cup. His team defeated the Las Vegas Golden Knights 4-3 in the
       city of Washington's first major sports championship since 1992.
-    _key: card-2-1c4d1af3-6846-444a-bd8b-03bd9b6b65dd
+    _key: card-2-5d46cd7b-7971-4824-b059-210e577f0d51
   - order: 2
     body: >-
       > ‘I don’t believe Mrs. Trump has ever discussed her thoughts on anything
@@ -51,7 +51,7 @@ cards:
       Melania Trump's Communications Director, Stephanie Grisham, responding to
       Rudy Giuliani's remarks that the First Lady believes her husband's denials
       regarding his alleged affair with Stormy Daniels.
-    _key: card-3-224fd400-237f-4994-a652-2940ee0c076a
+    _key: card-3-b1c29111-b0d3-4bc0-9b8f-0aba8299023e
   - order: 3
     body: >-
       > “This should serve as a very good deterrent not only for them but for
@@ -64,7 +64,7 @@ cards:
       fine & change its board of directors & exec team within 30 days. U.S.
       alleges ZTE violated trade agreements by working with Iran and N. Korea &
       then misled U.S. regulators about it.
-    _key: card-4-51533e05-f33e-4f73-8df4-3f35e050553c
+    _key: card-4-743741d0-fff0-401b-85e7-0437550c5752
   - order: 4
     body: >-
       > “I never gave up hope. Now I can’t tell you that everyday was a good
@@ -75,10 +75,10 @@ cards:
       Alice Marie Johnson to CNN on life before President Trump commuted her
       life sentence. Johnson, a first-time nonviolent drug offender, served 21
       years of her sentence before she was released from prison on Wednesday.
-    _key: card-5-53a10351-7df7-4be3-a100-e2654c4a3843
+    _key: card-5-91f88f54-4c43-45a5-bb1e-0dcc60912bd3
   - order: 5
     body: '[view sources](https://smarthernews.com/18-06-08-quick-quotes/)'
-    _key: card-10-e7501922-f03f-4d36-acfd-34917f19559b
+    _key: card-10-a575f73a-63bb-4dae-95f9-eccac8215e56
 
 ---
 * **Trump says Kim summit all about attitude, not preparation:**  

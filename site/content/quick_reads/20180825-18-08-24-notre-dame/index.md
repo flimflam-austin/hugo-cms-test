@@ -1,14 +1,14 @@
 ---
 title: A Once in a Lifetime College Gameday Experience
 slug: 20180825-18-08-24-notre-dame
-_id: legacy-4d4d0518-ea70-429f-9be6-db82dffc5ae9
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-96c1a9b3-c94b-4004-81ca-0f4589a88879
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-24-notre-dame/
 _createdAt: '2018-08-25T04:39:00Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-25T04:39:00+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       > Jill Frangie of the SmartHER Squad shares her tips for an unforgettable,
       game day getaway.
-    _key: card-1-e4eb65ec-286b-4b3f-92b9-471fc9a1bfa0
+    _key: card-1-172f3312-40f2-4266-b98e-15e38ac0c63c
   - order: 1
     body: >-
       > “You don’t need to be Irish, & it doesn’t matter your college team
@@ -43,7 +43,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/8r0PfgtJvHU?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-f2987e0b-48e0-4713-a943-c8d435cbdb55
+    _key: card-2-6c47b1ff-782a-4f73-b77b-3fef4863d6c1
   - order: 2
     body: >-
       ## Key to Success: Start Early
@@ -57,7 +57,7 @@ cards:
       Jill recommends staying at a hotel across from the stadium or in nearby
       Mishawaka. South Bend has its own airport & is about a 2 hour drive east
       of Chicago.
-    _key: card-3-1ba22117-1e55-469e-ac03-680f4c645f83
+    _key: card-3-4526bcba-e94f-4bd4-ab5d-449c322c2bb6
   - order: 3
     body: >-
       ## Game Weekend
@@ -74,7 +74,7 @@ cards:
 
       [CLICK: Game Day Events](http://gameday.nd.edu/events/)
     citation: 'CLICK: Game Day Events'
-    _key: card-4-6c6bac6f-beb3-4ffc-9d70-f5e7aa08a887
+    _key: card-4-d6f95db3-59de-47a8-a6b2-300cc688af13
   - order: 4
     body: >-
       Keep Your Camera Handy
@@ -83,7 +83,7 @@ cards:
       It’s worth heading to the bookstore for any last minute Irish gear because
       there’s no doubtA you’ll run into a former coach or player or famous fan
       and get an autograph.
-    _key: card-5-9e6b50d7-1d30-4fa5-987a-c2c67aaf4d6f
+    _key: card-5-0723f9dd-df9e-4a89-8c21-318c509a858c
   - order: 5
     body: >-
       College football kicks off this Saturday! Notre Dame is ranked #12
@@ -92,7 +92,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-24-notre-dame/)
-    _key: card-10-9ddfbfd6-3233-4a53-86d8-663cf5d9df53
+    _key: card-10-c1bfb8b8-cba9-4597-bedd-a11d5db1fd12
 
 ---
 **SmartHER Notre Dame Game Day Tips:**

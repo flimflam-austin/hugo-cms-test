@@ -1,14 +1,14 @@
 ---
 title: 18.04.26 Two Meetings
 slug: 20180427-18-04-26-two-meetings
-_id: legacy-b14b4fa4-1ff0-4f7d-b469-c3fb1ad629a8
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-e6ad1b05-64d2-444e-ba0c-b70e9dfa7b0e
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-26-two-meetings/
 _createdAt: '2018-04-27T11:00:05Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-27T11:00:05+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Why Now?
     citation: Why Now?
-    _key: card-1-ae6897d8-c262-4c2c-97be-9fbded28ed5a
+    _key: card-1-17829ce8-3c64-45fc-a2ea-a96d110011dd
   - order: 1
     body: >-
       ## NUCLEAR WAR
@@ -48,7 +48,7 @@ cards:
       * Iran doesn’t have nukes (yet) & **Germany believes the “Iran Nuclear
       Deal” maintains peace**; **Pres. Trump doesn’t** and may withdraw U.S.
       from deal.
-    _key: card-2-d218b00d-a34c-400a-bfff-cabc887d637e
+    _key: card-2-c174372e-5064-4dbf-ad6a-92145d320f12
   - order: 2
     body: >-
       ## North & South Korea
@@ -63,7 +63,7 @@ cards:
       * U.S. levies sanctions on NoKo to stop nuclear program; effect of
       sanctions & North Korea’s *true* desire to denuclearize difficult to
       determine.
-    _key: card-3-259a0b9e-ad09-4f96-96ff-77999b67640c
+    _key: card-3-64132eec-5135-4ca6-a553-be9cf3cb64be
   - order: 3
     body: >-
       ## U.S. & Germany.: Agenda
@@ -77,7 +77,7 @@ cards:
 
       * Aluminum/Steel tariffs the U.S. imposed to help domestic industry (&
       hurt China/North Korea), also hurt some European industry, incl. Germany.
-    _key: card-4-9058e196-72f7-4fb2-89df-1dcbca7aeae9
+    _key: card-4-74f2513a-b30a-4422-9b91-2c7547c0cb4b
   - order: 4
     body: >-
       President Trump & German Chancellor Merkel will have a working lunch.
@@ -86,7 +86,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-26-two-meetings/)
-    _key: card-10-c49e3779-4586-4faf-b758-0897e9422471
+    _key: card-10-3561ea61-81f2-4f35-9b14-33a6ae524573
 
 ---
 * **Korea Talks Begin as Kim Jong-un Enters South”s Side of DMZ:** [https://www.nytimes.com/2018/04/26/world/asia/korea-kim-moon-summit.html?](https://www.nytimes.com/2018/04/26/world/asia/korea-kim-moon-summit.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=a-lede-package-region&region=top-news&WT.nav=top-news)

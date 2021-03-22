@@ -1,14 +1,14 @@
 ---
 title: 18.07.09 Thai Cave
 slug: 20180709-18-07-09-thai-cave
-_id: legacy-837c1f88-4465-49cc-a259-960808cabc26
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-316149e4-f0f5-44e7-a072-3dd02477325e
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-09-thai-cave/
 _createdAt: '2018-07-09T12:42:11Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-09T12:42:11+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       FLIP: what happened
     citation: 'FLIP: what happened'
-    _key: card-1-63f21cb9-fb2a-497c-8173-219278eafdce
+    _key: card-1-759f2627-cf32-4ee0-8076-8aa20059e716
   - order: 1
     body: >-
       ## The Basics:
@@ -48,7 +48,7 @@ cards:
 
       * **How:** 1,000 volunteers, 13 foreign divers & 5 Thai navy SEALs are
       doing key, rescue swim.
-    _key: card-2-63cd5950-3fa3-434c-8eff-dad2cc7c7fb6
+    _key: card-2-53214893-537b-4b4d-b8c7-aa963e76c482
   - order: 2
     body: >-
       ## How To Get Them Out?
@@ -66,7 +66,7 @@ cards:
 
       flip: The dangers
     citation: 'flip: The dangers'
-    _key: card-3-30b7ca48-9d05-4ba2-b6ed-42edc8179795
+    _key: card-3-7d4e63e3-2fe2-4b18-ad36-6cebb1c06e2b
   - order: 3
     body: >-
       ## So Many Dangers
@@ -83,7 +83,7 @@ cards:
       * **Weather:A** Rainy season – monsoons expected soon.
 
       * **Time:** Rescue ops. may take days.
-    _key: card-4-ce2273a5-2016-454e-9d47-8034d984dbfd
+    _key: card-4-4f8a0c7f-5676-48cb-9aa0-c6bfe33c6e70
   - order: 4
     body: >-
       Thai Navy SEALs carried a batch of letters from the group to family
@@ -92,7 +92,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-09-thai-cave/)
-    _key: card-10-6861a6e3-6465-4336-8614-782cbe636c60
+    _key: card-10-09c4352e-b830-4f36-bc18-9225a04b56ec
 
 ---
 * **Thailand cave rescue: 4 boys successfully rescued from cave — live updates**  

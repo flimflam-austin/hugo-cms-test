@@ -1,14 +1,14 @@
 ---
 title: 18.02.16 Fbi Omission
 slug: 20180216-18-02-16-fbi-omission
-_id: legacy-a978c272-637b-4fdc-927a-28923cd0e139
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-e796980f-86d4-4a4f-8a4c-09ab3bbfadd6
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-16-fbi-omission/
 _createdAt: '2018-02-16T19:38:59Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-16T19:38:59+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       Flip To See What Caller Said
     citation: Flip To See What Caller Said
-    _key: card-1-db152c16-ac19-4049-975a-eebb46e4c776
+    _key: card-1-2992f32d-db34-472f-b9fe-b899ad447b11
   - order: 1
     body: >-
       # FBI
@@ -46,7 +46,7 @@ cards:
 
       Flip For What Happened Next
     citation: Flip For What Happened Next
-    _key: card-2-7b81ba8c-2a71-431e-8192-ec15ebcf4e24
+    _key: card-2-ca7e4530-0989-41ec-9979-2b4be4d18d05
   - order: 2
     body: >-
       ## FBI
@@ -57,7 +57,7 @@ cards:
       have determined that these protocols were not followed..**.The information
       was **not provided** to the Miami Field Office, and **no further
       investigation was conducted** at that time.”
-    _key: card-3-87767f35-81e6-4256-8ab7-9f8b2734ea6e
+    _key: card-3-44e07652-44d3-43d1-a61b-bad1677c4741
   - order: 3
     body: |-
       # Why This Matters
@@ -72,7 +72,7 @@ cards:
 
       Flip - FBI Dir Statement
     citation: Flip - FBI Dir Statement
-    _key: card-4-dc4e02bc-ccc1-46a3-83c9-8974ac1e2cdb
+    _key: card-4-9ec3e412-5b54-416f-91bc-da8e42ee35ec
   - order: 4
     body: >-
       FBI Director:  
@@ -85,13 +85,13 @@ cards:
       All of the men and women of the FBI are dedicated to keeping the American
       people safe, and are relentlessly committed to improving all that we do
       and how we do it.’
-    _key: card-5-d16f010b-7b01-41bf-bc0e-2c642dc0fe4d
+    _key: card-5-98f3dcee-feb9-481a-bd45-6b8798e75c8f
   - order: 5
     body: |-
       Watch FBI Video on Tip Line: BTW FBI Number? 1-800-CALL-FBI
 
       [view sources](https://smarthernews.com/18-02-16-fbi-omission/)
-    _key: card-10-4b717ac5-1e92-4bea-9bc1-0bba503995b1
+    _key: card-10-0fc096fe-c093-4151-994a-5bb6b820cf9c
 
 ---
 [https://www.fbi.gov/news/pressrel/press-releases/fbi-statement-on-the-shooting-in-parkland-florida](https://www.fbi.gov/news/pressrel/press-releases/fbi-statement-on-the-shooting-in-parkland-florida)

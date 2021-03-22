@@ -1,14 +1,14 @@
 ---
 title: The Great Vaccine Debate
 slug: 20190211-19-02-11-should-you-have-the-right-not-to-vaccinate
-_id: legacy-36541121-3076-4a72-8863-4aade0233e7d
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-9086b2cf-6c11-41cf-bd48-10f019005e8b
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 19-02-11-should-you-have-the-right-not-to-vaccinate/
 _createdAt: '2019-02-11T15:11:22Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-02-11T15:11:22+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       A measles outbreak prompts lawmakers to consider reversing course on
       policies they may have helped put in place.
-    _key: card-1-212b212d-58e5-4359-a1b5-507319bbda95
+    _key: card-1-74bf84f6-f1bd-426e-974b-5cb937d405df
   - order: 1
     body: >-
       ## What’s Going On:
@@ -42,7 +42,7 @@ cards:
 
       * In the wake of recent outbreaks, Washington & Oregon are looking to
       potentially tighten laws that allow for these personal exemptions.
-    _key: card-2-f1d79030-5275-4606-ab52-a7e2989d4fa4
+    _key: card-2-1fda7eac-2615-42b1-8697-7cd701782594
   - order: 2
     body: >-
       > ‘I’m very worried that these measles epidemics are becoming a new
@@ -54,7 +54,7 @@ cards:
       Dr. Peter Hotez, Texas Children’s Hospital Center for Vaccine Development
       at Baylor College of Medicine in Houston who is against personal
       exemptions for vaccines.
-    _key: card-3-de97deb2-982f-4675-99c2-3eb63b1c3947
+    _key: card-3-a2f93dd1-fbdb-42fc-a3a4-a80dbd18e451
   - order: 3
     body: >-
       > ‘I see that as medical fascism. I’m the one who is going to make medical
@@ -65,7 +65,7 @@ cards:
       Becky Johnson mother of 3, who is against vaccinations. She disagrees with
       a new California law passed in 2015 (after a measles outbreak at
       Disneyland) that reversed personal exemptions, requiring vaccinations.
-    _key: card-4-063c84e7-f9a8-445e-bf60-d50e843315c0
+    _key: card-4-da1ae058-2a14-44b7-8d8a-ea108428ed73
   - order: 4
     body: >-
       ## Who Decides Who Vaccinates & Where?
@@ -79,7 +79,7 @@ cards:
 
       * **Why?** Simply – the federal gov’t is responsible for our national
       security and your state, for your personal safety.
-    _key: card-5-a23a08e1-b057-41ee-ae41-83add83cc330
+    _key: card-5-29c11fbb-fb49-4f8a-b1fe-2827667184aa
   - order: 5
     body: >-
       Current measles vaccination rate in America is approx. 90%; Some states
@@ -89,7 +89,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/19-02-11-should-you-have-the-right-not-to-vaccinate/)
-    _key: card-10-7996a437-7051-4273-91f8-aecc472adc1f
+    _key: card-10-ca8aa3dc-b4aa-4533-8861-42d3843f30da
 
 ---
 * **STATES WITH RELIGIOUS AND PHILOSOPHICAL EXEMPTIONS FROM SCHOOL IMMUNIZATION REQUIREMENTS**  

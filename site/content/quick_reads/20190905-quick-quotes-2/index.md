@@ -1,14 +1,14 @@
 ---
 title: Quick Quotes for Saturday, September 8th
 slug: 20190905-quick-quotes-2
-_id: legacy-0d171e43-030d-43c7-9352-b8a605e21156
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-a4e8e982-6a1a-4996-8cc2-0db3741f15d9
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-2/
 _createdAt: '2018-09-08T11:59:59Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-08T11:59:59+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       the lots of evidence that chemical weapon are being prepared for a
       possible attack on Idlib - the last remaining stronghold of those opposed
       to Syrian President Bashar al-Assad.
-    _key: card-1-e5e6b3fd-f334-401e-a1d1-4e434006b7f4
+    _key: card-1-3a358477-8c80-4e76-829b-3fec02d9f2de
   - order: 1
     body: >-
       > “30 minutes of your time. Is democracy worth that?”  
@@ -41,7 +41,7 @@ cards:
       President Trump by name, criticizing him as "the symptom, not the cause"
       of what's dividing the country and kickstarts President Obama's return to
       politics with several planned speeches ahead of the midterms in November.
-    _key: card-2-ff49d500-82a6-4ecc-b036-5d2602ce1787
+    _key: card-2-301c3d1f-9ce6-4877-af5f-7a1a77f00bc4
   - order: 2
     body: >-
       > “It’s legal right?”  
@@ -59,7 +59,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/ycPr5-27vSI?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-3-7eb610d6-2954-4186-9512-ca8b8a55755b
+    _key: card-3-edaebe13-bcb1-4a5d-80e8-3461a20661c1
   - order: 3
     body: >-
       > ‘It is important that we can make a toy that doesn’t jeopardize
@@ -72,7 +72,7 @@ cards:
       materials by 2030. Lego is spending the equivalent of $120M & hiring 100
       people in search of a material that will work despite suffering from
       struggling sales recently.
-    _key: card-4-80942b5d-b2f7-4b49-9905-47b8077f8364
+    _key: card-4-9426a834-7bc6-4a8c-b016-a271fb28f7fd
   - order: 4
     body: >-
       > “We leave it up to the imagination to figure it out, so we like to give
@@ -83,13 +83,13 @@ cards:
       Connor Green, a freshman at Rockhurst High School in Kansas City, on how
       the school is seeing quintuple. There are 5 sets of twins in the freshman
       class of about 250 students.
-    _key: card-5-0948e124-e694-40c6-9203-3beef4ac3c1f
+    _key: card-5-a5918d07-73c6-47b1-98a6-876cd66c7f15
   - order: 5
     body: |-
       Enjoy the weekend!
 
       [view sources](https://smarthernews.com/quick-quotes-2/)
-    _key: card-10-1a9b4685-2495-4607-aa4d-0dbbeb872b38
+    _key: card-10-fce128c7-f817-4f6e-b957-bd15f873d8d3
 
 ---
 * **U.S. has seen evidence of Syria preparing chemical weapons in Idlib: envoy:**  

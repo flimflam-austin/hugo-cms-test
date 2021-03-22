@@ -1,14 +1,14 @@
 ---
 title: 18.03.01 Tariffs
 slug: 20180302-18-03-01-tariffs
-_id: legacy-879ad13d-84b0-40f6-b181-6f65024abbb5
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-c177d706-d93a-4998-a90a-8f1d361c30f4
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-01-tariffs/
 _createdAt: '2018-03-02T11:00:12Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-02T11:00:12+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Flip For Why
     citation: Flip For Why
-    _key: card-1-e76a0915-a420-4690-b2ac-5e7b6b96ca67
+    _key: card-1-63efa9dd-1fad-47a9-a506-c8c6ebd16cdc
   - order: 1
     body: |-
       # Pres Trump:
@@ -42,7 +42,7 @@ cards:
       * 10% duty on aluminum imports
       * TBD: “…for a long period of time”
       * Formal order expected next week
-    _key: card-2-da562030-ab3a-4986-b70e-c095a8390eb8
+    _key: card-2-9072abf1-a81a-4dc1-bb96-a0d2ebb157d8
   - order: 2
     body: >-
       ## Why Tariffs Now?
@@ -54,7 +54,7 @@ cards:
 
       * Pres. Trump campaigned on boosting jobs & growth in what he labeled a
       bedrock American industry (important in key states like Pennsylvania).
-    _key: card-3-9c57e21b-01da-4d9e-a916-97d20b5364db
+    _key: card-3-52343c74-d39d-451d-b532-aae75087f90e
   - order: 3
     body: >-
       # Why Tariffs Matter:
@@ -71,7 +71,7 @@ cards:
       mean higher prices for U.S. consumers on MANY products.
 
       * Stock market reacted by falling sharply (down 586 pts at low).
-    _key: card-4-07c9a8d3-7b8e-46cd-aa47-ed9acf7e25ad
+    _key: card-4-465573b7-ef7a-4ad3-8e99-971c189a8431
   - order: 4
     body: >-
       ## From Those Who Would Benefit From Tariffs:
@@ -84,7 +84,7 @@ cards:
       Dave Burritt, Pres/CEO U.S. Steel, March 1, 2018, at White House Listening
       Session; says current situation is completely unfair to U.S. companies
       like his.
-    _key: card-5-383cfa5c-152c-4968-86e0-1e858a3fe17b
+    _key: card-5-ecf8d58b-91f8-4f17-916f-3f96cf54969f
   - order: 5
     body: >-
       > ‘The President is proposing a massive tax increase on American families.
@@ -95,7 +95,7 @@ cards:
       Sen. Ben Sasse (R-NE), March 1, 2018, who is concerned about rising prices
       for American families & industries, such as farming that use heavy
       equipment made from material like steel.
-    _key: card-6-0be3f158-cd94-4ecc-8b35-b2151e581cfa
+    _key: card-6-7291329a-def0-4b4c-99f8-79c1a7c4f069
   - order: 6
     body: >-
       # Tariff Deja Vu?
@@ -110,7 +110,7 @@ cards:
 
       * **Difference this time**: Pres. Trump cites nat’l security provision
       that WTO typically doesn’t probe.
-    _key: card-7-956219e1-43ef-4dca-b4eb-8633f4b79e57
+    _key: card-7-0f2cbe31-92c3-4b28-819b-16cc9f72352e
   - order: 7
     body: >-
       Don't forget timing. Trump announced his campaign manager for 2020 this
@@ -119,7 +119,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-01-tariffs/)
-    _key: card-10-17290461-37a5-4426-8d6b-71be6c37f9bf
+    _key: card-10-6990f27b-ce8d-47ad-bf03-e7eb879224e9
 
 ---
 * Hear the President’s Announcement: [http://video.ap.org/Trump-says-US-steel-aluminum-sectors-need-free-fair-trade-33591466?playlistId=993](http://video.ap.org/Trump-says-US-steel-aluminum-sectors-need-free-fair-trade-33591466?playlistId=993)

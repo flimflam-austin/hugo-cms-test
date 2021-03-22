@@ -1,14 +1,14 @@
 ---
 title: What Is Sexual Assault?
 slug: 20180925-18-09-25-what-is-sexual-assault
-_id: legacy-e10e025d-2584-4d49-be53-6d902c3e5fc0
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-04425ce9-751b-436b-bf64-bfba26c90d05
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-25-what-is-sexual-assault/
 _createdAt: '2018-09-25T12:00:04Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-25T12:00:04+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Why It Matters
     citation: Why It Matters
-    _key: card-1-2e705a61-b1cb-429c-a7b9-79738f52f220
+    _key: card-1-138b4cb9-d083-48d4-8f20-18104c8c243e
   - order: 1
     body: >-
       > “The term ‘sexual assault’ means **any nonconsensual sexual act**
@@ -44,7 +44,7 @@ cards:
       U.S. Justice Department on what constitutes sexual assault under federal
       law. The definitions of sexual assault and sexual misconduct vary by
       state.
-    _key: card-2-aa793f1e-48e3-4445-aba6-34af2b4ea89d
+    _key: card-2-29e5abf8-25fc-40e0-8df0-cbefc4d80c28
   - order: 2
     body: >-
       ## Let’s Clear This Up:
@@ -58,7 +58,7 @@ cards:
       * The Senate Judiciary cmte is **NOT** a court of law & they will not
       decide if a sexual assault happened. Instead, they vote on whether
       Kavanaugh should be considered for SCOTUS.
-    _key: card-3-a359d037-d1f4-495c-b434-7c01f7b364c4
+    _key: card-3-6676fb0d-6dda-4a80-923f-061b77d49982
   - order: 3
     body: >-
       Some in the media have chosen to use the umbrella term "sexual misconduct"
@@ -69,7 +69,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-25-what-is-sexual-assault/)
-    _key: card-10-a6766055-7406-40ab-b292-4ae649104846
+    _key: card-10-df667971-2616-4fb2-b44d-d842e8fc59ee
 
 ---
 * **Sexual Assault:**  

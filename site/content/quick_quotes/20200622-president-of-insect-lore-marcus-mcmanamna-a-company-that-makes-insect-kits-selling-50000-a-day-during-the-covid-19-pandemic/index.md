@@ -4,26 +4,24 @@ title: >-
   Day During the Covid-19 Pandemic.
 slug: >-
   20200622-president-of-insect-lore-marcus-mcmanamna-a-company-that-makes-insect-kits-selling-50000-a-day-during-the-covid-19-pandemic
-_id: legacy-8a1c462e-1fe4-40eb-9c95-b12189398d5c
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-2de5c313-00b3-4b71-b657-275ced95963f
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/president-of-insect-lore-marcus-mcmanamna-a-company-that-makes-insect-kits-selling-50000-a-day-during-the-covid-19-pandemic/
 _createdAt: '2020-06-23T04:01:04Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-06-23T04:01:04+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    118711f777db66d103873ad63f63829425dc636c-2560x1707.jpg
 is_breaking: false
-summary: >-
-  President of Insect Lore, Marcus McManamna, on selling 50,000 butterfly kits a
-  day during the COVID-19 pandemic.
 featured_quote:
   quote: We’ve never experienced a year like this in 50 years.
-  citation: >-
-    President of Insect Lore, Marcus McManamna, on selling 50,000 butterfly kits
-    a day during the COVID-19 pandemic.
 
 ---
 * McManamna says sales have quintupled during the pandemic.
@@ -47,4 +45,4 @@ _“Caterpillars will eat each other,” said Kathryn Hokamp, a lepidopterist at
 
 _Emberly was too young to understand what was going on. But the tiny slaughter spurred an awkward conversation with Ms. Bastide’s 12-year-old son about nature’s caprice. “Yeah, it was pretty weird,” the mother said._
 
-[CONTINUING READING: CLICK HERE](https://www.wsj.com/articles/they-ate-their-friends-butterfly-kits-backfire-11592838980?mod=hp_featst_pos5)K HERE](https://www.wsj.com/articles/they-ate-their-friends-butterfly-kits-backfire-11592838980?mod=hp_featst_pos5)
+[CONTINUING READING: CLICK HERE](https://www.wsj.com/articles/they-ate-their-friends-butterfly-kits-backfire-11592838980?mod=hp_featst_pos5)

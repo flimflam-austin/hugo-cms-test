@@ -1,14 +1,14 @@
 ---
 title: 18.03.29 New Organ
 slug: 20180329-18-03-29-new-organ
-_id: legacy-c010ef6c-83d6-4875-a5ea-5ed32794f073
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-1031c87d-337d-4376-8ac3-fb412a7b1644
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-03-29-new-organ/
 _createdAt: '2018-03-29T19:10:11Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-29T19:10:11+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       Flip: Exclusive Info
     citation: 'Flip: Exclusive Info'
-    _key: card-1-904959de-6496-493f-ba59-c856abdf47d7
+    _key: card-1-698addad-9b62-4f8e-9b3b-550f7ddcc02b
   - order: 1
     body: >-
       > “This finding has **potential to drive dramatic advances in medicine**,
@@ -47,7 +47,7 @@ cards:
         
       Neil Theise, MD, co-senior author of study & professor in the Department
       of Pathology at NYU Langone Health
-    _key: card-2-2c10026a-489c-48b6-9bcf-2c625c5e65ce
+    _key: card-2-5fd05274-e4c5-4663-a0cd-649de743c11a
   - order: 2
     body: >-
       ## Why It Matters:
@@ -60,7 +60,7 @@ cards:
       _“Importantly, the finding that this layer is a highway of moving fluid
       may explain why cancer that invades it becomes much more likely to
       spread.” Study Authors_
-    _key: card-3-45dc7ba5-a757-4de2-b086-be3bb56a6b33
+    _key: card-3-e5246bfb-c313-4a6c-a26a-78ff048ac3d3
   - order: 3
     body: >-
       ## NOT “News” To Some…
@@ -78,7 +78,7 @@ cards:
       [Click Link For
       Group](https://fasciaresearchsociety.org/fascia-research-congress)
     citation: Click Link For Group
-    _key: card-4-00041e6d-17fa-494d-b058-6a0aa5419ed5
+    _key: card-4-e80e5904-0efe-4b37-a34e-2b8962117542
   - order: 4
     body: >-
       > “It is refreshing to see science is finally catching up to what I’ve
@@ -90,7 +90,7 @@ cards:
         
         
       John F. Barnes, PT, to SmartHer News.
-    _key: card-5-2f664238-65e3-42f4-9a77-10184073e60c
+    _key: card-5-23d8dc08-7a56-418f-9438-7de4acf2eb72
   - order: 5
     body: >-
       Now that science & alternative healing seem to be on the same page - read
@@ -99,7 +99,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-29-new-organ/)
-    _key: card-10-8e45a87f-205d-46c4-a8a8-118dbca0560f
+    _key: card-10-2a4df2fc-0a89-4162-b0c7-ac637edb4c03
 
 ---
 * Researchers Find New “Organ” Missed by Gold Standard Methods for Visualizing Anatomy & Disease: [https://nyulangone.org/press-releases/researchers-find-new-organ-missed-by-gold-standard-methods-for-visualizing-anatomy-disease](https://nyulangone.org/press-releases/researchers-find-new-organ-missed-by-gold-standard-methods-for-visualizing-anatomy-disease)

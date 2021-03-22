@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for Wednesday, November 28, 2018
 slug: 20190905-18-11-28-qq
-_id: legacy-19cab99e-a7e2-4d63-a853-03a158e4ca2f
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-94359351-7a3b-4cc4-80ea-aa209cae7654
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - 18-11-28-qq/
 _createdAt: '2018-11-28T13:20:04Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-11-28T13:20:04+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       in the housing market next year. Less home construction will limit
       inventory to avoid a collapse, but it warns the boom days following the
       Great Recession are over.
-    _key: card-1-0374d4a8-b023-49f1-9d03-afbaa7fac804
+    _key: card-1-8a9f1a30-819d-4ee1-a59d-9b5becc3f048
   - order: 1
     body: >-
       > “So far, I’m not even a little bit happy with my selection of Jay. Not
@@ -43,7 +43,7 @@ cards:
       will deliver a closely-watched speech ahead of an expected interest rate
       hike in December - making it slightly more expensive to borrow. Pres.
       Trump has repeatedly warned rising interest rates will hurt the economy.
-    _key: card-2-bc48912a-65ad-40ef-95b0-f43d99f7b400
+    _key: card-2-fb814661-4913-4fe0-bc53-d11f872d8e65
   - order: 2
     body: >-
       > “…appear to have used cellular telephones… to facilitate unauthorized…
@@ -56,7 +56,7 @@ cards:
       Coronel. The motion asks for sanctions against the defense team for
       violating strict security rules that forbids hug between the couple.
       Defense team says the claim is "pure speculation."
-    _key: card-3-ac1c0a00-e643-4577-a2ef-b89b38e413e1
+    _key: card-3-92ac9577-2250-4d1d-8339-18b2641244ac
   - order: 3
     body: >-
       > “The reason we won is because Mississippians know me and they know my
@@ -69,7 +69,7 @@ cards:
       the Senate to 53-47. Hyde-Smith will be the first woman elected to
       Congress from Mississippi. Next year, a record-breaking 24 women will
       serve in the U.S. Senate.
-    _key: card-4-085a055f-c3ea-4381-ab9f-3df14b74112a
+    _key: card-4-f3423023-f0dd-4215-b92a-efdbd88a5952
   - order: 4
     body: >-
       > ‘Sir, I can’t thank you enough. What you’ve done for me is virtually
@@ -82,10 +82,10 @@ cards:
       finding it on a flight. The package, sent to his home in South Dakota,
       contained a note, the wallet - *plus* an extra $40 in cash for an even
       $100, encouraging him to celebrate getting your wallet back.
-    _key: card-5-4bea0345-c903-4b5a-90a3-f44427bf9f89
+    _key: card-5-b0a98659-4b6a-464a-a840-1e6dc2e0852f
   - order: 5
     body: '[view sources](https://smarthernews.com/18-11-28-qq/)'
-    _key: card-10-47f42123-fafc-4a1a-8633-437ddb10af56
+    _key: card-10-4197aed5-6341-42ae-ab2d-c3b43bf28a36
 
 ---
 * **GOLDMAN: 3 reasons why the US housing market is slowing down:**  

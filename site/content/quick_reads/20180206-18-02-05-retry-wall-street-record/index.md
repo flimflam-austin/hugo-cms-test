@@ -1,14 +1,14 @@
 ---
 title: 18.02.05 Retry Wall Street Record
 slug: 20180206-18-02-05-retry-wall-street-record
-_id: legacy-d626539d-341c-48eb-a77c-c02de298b2ae
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-85ed9a21-430b-4446-8e50-f63261881ae1
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-05-retry-wall-street-record/
 _createdAt: '2018-02-06T03:44:43Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-06T03:44:43+00:00'
 weight: 50
 featured_image:
@@ -39,7 +39,7 @@ cards:
 
       Flip For Why
     citation: Flip For Why
-    _key: card-1-90495be1-7f96-4cfa-ade2-0ccc815e299b
+    _key: card-1-73e658d7-82f1-4d03-928c-c50ec8cae727
   - order: 1
     body: >-
       A 10% drop in stocks may signal a correction in a hot market. It also may
@@ -48,7 +48,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-02-05-retry-wall-street-record/)
-    _key: card-10-4d3cb9c6-6a69-49fa-9f90-9a0b0a2323aa
+    _key: card-10-c44dd655-a704-43a0-84f9-a02f4210148c
 
 ---
 1. _Corrections are generally temporary price declines interrupting anA uptrendA in the market or an asset. A correction has a shorter duration than aA bear marketA or aA recession, but it can be a precursor to either._ [https://www.investopedia.com/terms/c/correction.asp#ixzz56INQF1hw](https://www.investopedia.com/terms/c/correction.asp#ixzz56INQF1hw)

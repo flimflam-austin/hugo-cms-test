@@ -1,14 +1,14 @@
 ---
 title: On This Day in 1933
 slug: 20200304-otd-frances-perkins
-_id: legacy-913c6ded-6ae2-4fd4-8ba3-8e3d89da4b64
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-53f91ec9-d10c-4d52-8ab6-88c623fb36da
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - otd-frances-perkins/
 _createdAt: '2020-03-04T17:00:09Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2020-03-04T17:00:09+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       > The 40-hour work week, child labor laws, and social security, all
       policies **she** helped create after becoming the first woman named in a
       presidential cabinet on this day in 1933.
-    _key: card-1-7493c2fa-c176-4a7d-b6ce-63e5af7ebf69
+    _key: card-1-24afca03-1706-45f4-ab5a-7d4e972605e0
   - order: 1
     body: >-
       > “The people are what matter to government, and a government should aim
@@ -42,7 +42,7 @@ cards:
       the 1911 Triangle Shirtwaist Factory fire, when nearly 150 workers died.
       She held many positions in the New York government under then-Governor
       Franklin D. Roosevelt and his predecessor.
-    _key: card-2-675d747e-841b-46ad-aadf-db435763569a
+    _key: card-2-6e44d61c-69d0-4023-8af4-589eadfac174
   - order: 2
     body: >-
       > “I came to Washington to work for God, FDR, and the millions of
@@ -55,7 +55,7 @@ cards:
       Great Depression, became the FIRST female cabinet secretary and the
       LONGEST-serving Labor Secretary in history. As the head of the labor
       department, she also oversaw the Immigration and Naturalization Service.
-    _key: card-3-1db46c05-0466-412d-8624-a8e482634da0
+    _key: card-3-77813ef9-6268-4e70-8ef2-7528c83cbadc
   - order: 3
     body: >-
       ## Perkins’ Lasting Legacy
@@ -73,7 +73,7 @@ cards:
 
       * setting up federal **minimum wage** laws & the **40-hour workweek**
       (1938)
-    _key: card-4-c03cd79f-2d01-4333-bebc-eca384bcabd6
+    _key: card-4-361c5832-035d-4303-bc9a-a7c56aaf57e9
   - order: 4
     body: >-
       In 2008, the Frances Perkins Center was established in Maine to honor
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/otd-frances-perkins/)
-    _key: card-10-6bd1f24c-2fff-4b25-a710-471474634fa7
+    _key: card-10-e09f27a4-2cfb-47a2-8b48-8065fc1b0912
 
 ---
 **OTD You Might Like:**

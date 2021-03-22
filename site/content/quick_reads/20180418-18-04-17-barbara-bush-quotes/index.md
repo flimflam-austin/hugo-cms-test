@@ -1,14 +1,14 @@
 ---
 title: 18.04.17 Barbara Bush Quotes
 slug: 20180418-18-04-17-barbara-bush-quotes
-_id: legacy-5e0f0f33-86d9-4084-9c93-132782e8ac94
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-562fd671-fe89-4b26-90c8-be79d044f1f1
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-17-barbara-bush-quotes/
 _createdAt: '2018-04-18T10:00:46Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-18T10:00:46+00:00'
 weight: 50
 featured_image:
@@ -23,7 +23,7 @@ cards:
       # “Find The Joy In Life”
 
       > Quotes to Learn From & Live By: Barbara Bush
-    _key: card-1-af425735-3faa-43de-97dc-01b68b07b142
+    _key: card-1-ded9e5e1-3690-4c31-b848-21ae3584403e
   - order: 1
     body: >-
       > “At the end of your life, you will never regret not having passed one
@@ -39,7 +39,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/6VhmyA4Kd80?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-6211fc05-51d6-446d-a5fa-88eb3fb2f954
+    _key: card-2-e8c9a7c7-cd06-4a8d-bdf9-c9cba8d9f09d
   - order: 2
     body: >-
       > ‘I was combing her hair and holding her hand. I saw that little body, I
@@ -51,7 +51,7 @@ cards:
       Barbara Bush, 2012, speaking about the death of her first daughter, Robin,
       at age 3 to leukemia, the grief that followed, & the perspective that came
       years later.
-    _key: card-3-19211a01-b7f5-423a-857a-7aefc8ab3693
+    _key: card-3-85083782-24e4-48d3-b1c9-757bddf18dd7
   - order: 3
     body: >-
       > “I married the first man I ever kissed. When I tell this to my children,
@@ -62,7 +62,7 @@ cards:
       Barbara Bush, Time Magazine 1989. She referred to her husband of 73 years
       as "precious George." The Bushes went on to become the longest married
       couple in presidential history.
-    _key: card-4-842caae3-a6af-45f4-9955-2942d899ee7d
+    _key: card-4-2bed6989-cef7-418b-8033-74a1a3b53fea
   - order: 4
     body: >-
       > “I think a lot of our problems are because people don’t listen to our
@@ -74,7 +74,7 @@ cards:
       Barbara Bush, 1989, Christian Science Monitor, discussing her lifelong
       goal to eradicate illiteracy and spending quality time reading & listening
       to children.
-    _key: card-5-16771b4d-2cf6-4b16-98ad-57f60f0e7517
+    _key: card-5-0902d1b3-010e-477c-a58d-9f3d13c08ded
   - order: 5
     body: >-
       > “Your success as a family, our success as a society, depends not on what
@@ -83,7 +83,7 @@ cards:
         
         
       Barbara Bush, 1990, Commencement Address, Wellesley College
-    _key: card-6-5bd54a91-e53e-4d21-b59c-aef06598fc35
+    _key: card-6-941fd732-3b02-4972-9b64-310bdbccee66
   - order: 6
     body: >-
       "I know there is a great God, and I'm not worried." Barbara Bush to C-SPAN
@@ -91,7 +91,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-17-barbara-bush-quotes/)
-    _key: card-10-855c83ff-498f-4689-bc88-d602aa77c9a1
+    _key: card-10-6668a9c5-f485-4fe0-82f1-3b50ca07d2a1
 
 ---
 * “One last time”: Barbara Bush had already faced a death more painful than her own: [https://www.washingtonpost.com/news/retropolis/wp/2018/04/17/one-last-time-barbara-bush-has-already-faced-a-death-more-painful-than-her-own/](https://www.washingtonpost.com/news/retropolis/wp/2018/04/17/one-last-time-barbara-bush-has-already-faced-a-death-more-painful-than-her-own/?utm_term=.db0ba6af288d)

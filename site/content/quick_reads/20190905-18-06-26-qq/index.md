@@ -1,14 +1,14 @@
 ---
 title: 18.06.26 Qq
 slug: 20190905-18-06-26-qq
-_id: legacy-3eb5722e-5557-4853-bc77-03c22a3a6ad2
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-2339f98c-051b-4752-9f05-4db356ad0c1a
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-06-26-qq/
 _createdAt: '2018-06-26T10:56:31Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-06-26T10:56:31+00:00'
 weight: 50
 featured_image:
@@ -34,10 +34,10 @@ cards:
       [HEAR INTERVIEW
       HERE](https://soundcloud.com/user-642636263/episode-1-roseanne-barr)
     citation: HEAR INTERVIEW HERE
-    _key: card-1-02c966d5-9ffd-4a91-ba93-b4a71f8ba973
+    _key: card-1-5e7c39d0-144c-4dec-8b57-5e51f0487297
   - order: 1
     body: "> ‘I’m really grateful to Joe a\x13 a little bit of a sore rib for a couple of weeks is no big deal.”  \n  \n  \n  \nSenator Claire McCaskill (D-MO) joked she was avoiding hugs after fellow Senator Joe Manchin (D-WV) broke a rib while saving her with the Heimlich maneuver while she was choking. Manchin & McCaskill are seen as 2 of the most vulnerable Sen Dems up for reelection this year, after Pres. Trump won both states by a landslide."
-    _key: card-2-5ad03763-9f05-4eea-b8d0-69da9eb8bb4e
+    _key: card-2-6fa79ade-aabf-42bd-aaee-407cca135864
   - order: 2
     body: >-
       > “God is on our side…. If you see anybody from that cabinet in a
@@ -55,7 +55,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/-1Fu3g1MGHY?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-3-ee94102d-f8e3-41be-a497-2b1f33928d23
+    _key: card-3-934cc6f5-e366-495e-bb70-194a47e677cd
   - order: 3
     body: >-
       > “As one person said, he can do just about anything except make you a
@@ -68,7 +68,7 @@ cards:
       yellow Labrador service dog. The dog, named "Sully HW Bush", after hero
       pilot Chesley "Sully" Sullenberger III, can perform a 2-page list of
       commands including answering the phone & fetching items.
-    _key: card-4-62b2d588-f84f-47ba-9ded-ee15d2cb8322
+    _key: card-4-5fdec966-8d3f-4de3-9f1a-9a8d9a82e882
   - order: 4
     body: >-
       > “Duterte’s tirade against God and the Bible reveals again that he is a
@@ -80,7 +80,7 @@ cards:
       Arturo Bastes, a Catholic Bishop, responding to Philippine President
       Rodrigo Duterte's latest controversial remarks calling god "stupid" in a
       speech about Adam & Eve's original sin.
-    _key: card-5-c81993c4-f37d-4ac1-953e-8a776edba765
+    _key: card-5-ca48a5fc-e205-4aec-976d-23e2874e0023
   - order: 5
     body: >-
       > ‘Women understand a little better their collective power, and they’re
@@ -92,10 +92,10 @@ cards:
       According to her firm's research, at least 407 high-profile men (& 7
       women) have been outed by the #MeToo Movement and accused of sexual
       harassment or similar behavior during the past 18 months.
-    _key: card-6-06c70a6e-a1b1-4604-9796-b3735ee41ab0
+    _key: card-6-df717474-886e-402d-90c1-8533d97745dc
   - order: 6
     body: '[view sources](https://smarthernews.com/18-06-26-qq/)'
-    _key: card-10-3a4717c6-894b-4337-98eb-bc7b5008fa41
+    _key: card-10-e51e0c0b-2afa-49db-90a6-ca8b03384e3f
 
 ---
 * **Rosanne Barr Interview:**A [https://soundcloud.com/user-642636263/episode-1-roseanne-barr](https://soundcloud.com/user-642636263/episode-1-roseanne-barr)

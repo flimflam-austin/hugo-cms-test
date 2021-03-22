@@ -1,14 +1,14 @@
 ---
 title: 18.04.25 Golden State Murderer
 slug: 20180426-18-04-25-golden-state-murderer
-_id: legacy-e56b6200-9dc8-4f64-af4b-ee555890ab09
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-d238a9dd-c6a3-4b8b-99c6-cee7392dce1f
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-25-golden-state-murderer/
 _createdAt: '2018-04-26T10:49:35Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-26T10:49:35+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       Say What? Flip!
     citation: Say What? Flip!
-    _key: card-1-55ea8b75-8339-4b74-b4cf-bf5054c56369
+    _key: card-1-70b18547-dd08-4026-b5aa-0282febc17f0
   - order: 1
     body: >-
       ## “Golden State Killer”
@@ -57,7 +57,7 @@ cards:
 
       Flip: Who Coined Name
     citation: 'Flip: Who Coined Name'
-    _key: card-2-667e36e2-846f-46d8-acee-2ee18f2a7bd7
+    _key: card-2-d87053c9-d7f6-4a25-ab0e-734b381dfa55
   - order: 2
     body: >-
       Michelle NcNamaraA  
@@ -76,7 +76,7 @@ cards:
       [Click Here:
       Book](https://www.amazon.com/Ill-Be-Gone-Dark-Obsessive/dp/0062319787/ref=sr_1_1?ie=UTF8&qid=1524707227&sr=8-1&keywords=michelle+mcnamara)
     citation: 'Click Here: Book'
-    _key: card-3-21c05a06-c82a-4056-9bbb-36b2517a2153
+    _key: card-3-13b4208a-6ad8-4801-a6df-5d138d1c0c65
   - order: 3
     body: >-
       ## ROLE OF DNA:
@@ -93,7 +93,7 @@ cards:
         
       “The probability of the DNA profiles of two unrelated individuals matching
       is onA average less than 1 in 1 billion.”A _National Geographic_
-    _key: card-4-3aff5312-9932-4c17-97fb-e6bd280bd15f
+    _key: card-4-c96db3a1-6abb-453a-8536-68bac6592a3c
   - order: 4
     body: >-
       A ski mask won’t help you now.- line from Michelle NcNamara's book. Her
@@ -103,7 +103,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-25-golden-state-murderer/)
-    _key: card-10-98098742-cba0-4c92-bb87-2b8fe4deee5d
+    _key: card-10-3a98b083-6717-43f8-897b-324e1f03b10e
 
 ---
 * **DNA match catches alleged “East Area Rapist,” who murdered 12, raped 45:** [https://www.sfgate.com/bayarea/article/Report-East-Area-Rapist-who-murdered-12-12863488.php](https://www.sfgate.com/bayarea/article/Report-East-Area-Rapist-who-murdered-12-12863488.php)

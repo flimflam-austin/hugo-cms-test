@@ -1,14 +1,14 @@
 ---
 title: 18.02.04 Kylie Jenner
 slug: 20180205-kylie
-_id: legacy-af7983f6-3cf0-4d7f-a1f5-8bb1e4e75f35
-_rev: XOnQP8cIThhnw9BWFxSjgf
+_id: legacy-db6a5b15-dd90-462b-94cb-a104e3e0ce6b
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - kylie/
 _createdAt: '2018-02-05T14:15:18Z'
-_updatedAt: '2021-03-16T11:57:58Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-05T14:15:18+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       [Click For Video](https://www.youtube.com/watch?v=BhIEIO0vaBE)
     citation: Click For Video
-    _key: card-1-9f94c839-b448-4c1b-8657-5983eb36257e
+    _key: card-1-64c25d0b-459c-4c70-bdad-fcbf17d55154
   - order: 1
     body: >-
       # Interesting Fact
@@ -51,7 +51,7 @@ cards:
       in every U.S. state.
 
       * Kylie is 20.5 yrs old.
-    _key: card-2-342d6476-15a6-40b5-a698-f10f82b827cc
+    _key: card-2-42768e6c-2141-4af5-996d-9eaee5a15374
   - order: 2
     body: >-
       # 4 out of 10 babies born in U.S. to unmarried women (CDC)
@@ -64,7 +64,7 @@ cards:
       [Click For An Example of Travis'
       Work](https://www.youtube.com/watch?v=_EyZUTDAH0U)
     citation: Click For An Example of Travis' Work
-    _key: card-3-ffc46da0-c2bc-4fd0-9ff6-3c141b61c62d
+    _key: card-3-225b14f6-7531-4d36-a180-7b92100824d7
   - order: 3
     body: >-
       # Kylie’s estimate net worth = $41 million
@@ -74,7 +74,7 @@ cards:
 
       * In 2017, the median annual income for American women aged 20 – 24 was
       $26,416.
-    _key: card-4-22d4ec1e-d13f-444b-bc33-82a3d4549fa3
+    _key: card-4-8de32965-a85f-4c41-a1da-cd4a73403221
   - order: 4
     body: >-
       > ‘I’m sorry for keeping you in the dark through all the assumptions. I
@@ -85,10 +85,10 @@ cards:
       [Read Kylie's Instagram
       Post](https://www.instagram.com/p/BeycUmgFTWb/?hl=en&taken-by=kyliejenner)
     citation: Read Kylie's Instagram Post
-    _key: card-5-7186370a-da82-41c5-aee6-7ee309735ba6
+    _key: card-5-b40ec707-1863-4969-b161-a1e4b318f306
   - order: 5
     body: '[view sources](https://smarthernews.com/kylie/)'
-    _key: card-10-4cc6f379-edc9-46db-b7b9-a08d4bba6788
+    _key: card-10-ab6dad8d-81bb-4639-8e7b-dd9d39829eec
 
 ---
 CENSUS – U.S. and World Population Clock – [https://www.census.gov/popclock/](https://www.census.gov/popclock/)

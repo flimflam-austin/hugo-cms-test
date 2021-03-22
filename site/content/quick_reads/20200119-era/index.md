@@ -1,14 +1,14 @@
 ---
 title: Should We Amend the Constitution?
 slug: 20200119-era
-_id: legacy-7dc3b362-402f-4f80-9151-12d8d38224cb
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-e195f5e2-e3b9-4df8-81e2-fb4d2079feb8
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - era/
 _createdAt: '2019-04-30T12:02:03Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2019-04-30T12:02:03+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
 
       Will it become the 28th Amendment to the U.S. Constitution?
-    _key: card-1-75b25d43-0bf0-4717-bc04-ad2c76a14e03
+    _key: card-1-b300dac5-f8ee-42e6-a872-3aad785521de
   - order: 1
     body: >-
       > _“Women shall have equal rights in the United States and every place
@@ -41,7 +41,7 @@ cards:
       On March 22, 1972, Congress passed the Equal Rights Amendment in order to
       make gender equality a fundamental right. Ultimately, it was NOT added to
       the U.S. Constitution because not enough states ratified (approved) it.
-    _key: card-2-d8aeb3d3-1cd0-494f-9188-5acb5ce00868
+    _key: card-2-beaf9dce-5955-48be-8d55-bbd27cb384a4
   - order: 2
     body: >-
       ## Equal Rights Amendment
@@ -56,7 +56,7 @@ cards:
 
       * To date, it has been ratified by 37 of the 38 states needed, but some
       rescinded their ratification.
-    _key: card-3-6e1d97e7-ee2d-41b0-bd52-69be92ee8489
+    _key: card-3-2183ec48-2caf-4167-815a-b941ab618c62
   - order: 3
     body: >-
       ## Do We Need It?
@@ -71,7 +71,7 @@ cards:
       * Equality of the sexes is protected under a series of state & federal
       laws (ex: Equal Pay Act). Laws can be overturned more easily than
       constitutional amendments.
-    _key: card-4-a95fb0c8-6048-4e63-b22d-f71cdee1e203
+    _key: card-4-b3673ddc-d211-48b8-ac58-b0b53c2e49f4
   - order: 4
     body: >-
       > “Every constitution written since the end of World War II includes a
@@ -83,7 +83,7 @@ cards:
         
         
       U.S. Supreme Court Justice Ruth Bader Ginsburg in 2005.
-    _key: card-5-83211a50-ba4e-415e-b14b-c230fe88af9d
+    _key: card-5-cd5db25a-1b11-43a8-9cf3-5398b4edd978
   - order: 5
     body: >-
       > “Certainly the Constitution does not require discrimination on the basis
@@ -94,7 +94,7 @@ cards:
       The late U.S. Supreme Court Justice Antonin Scalia in 2011 when asked
       whether the 14th Amendment (equal protection clause) outlaws sex
       discrimination.
-    _key: card-6-e6b1ddd1-f549-4f9f-a4d4-39209a99ec66
+    _key: card-6-397d7761-1a47-4ebe-a0f8-0668168f4969
   - order: 6
     body: >-
       Illinois became the 37th state to ratify the Equal Rights Amendment in
@@ -104,7 +104,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/era/)
-    _key: card-10-f8883635-7831-4519-8087-47736fb0c2bb
+    _key: card-10-6442f711-d934-4ada-90ca-b70bd160d9c0
 
 ---
 * **Equal Rights Amendment will get a hearing before House Judiciary Committee next week:** [www.abajournal.com/news/article/equal-rights-amendment-will-get-a-hearing-next-week](http://www.abajournal.com/news/article/equal-rights-amendment-will-get-a-hearing-next-week)

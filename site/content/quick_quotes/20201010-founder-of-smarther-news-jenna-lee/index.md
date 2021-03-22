@@ -1,23 +1,25 @@
 ---
 title: Founder of Smarther News, Jenna Lee.
 slug: 20201010-founder-of-smarther-news-jenna-lee
-_id: legacy-eb365569-b6d6-4cf8-a497-6cdd01c2c063
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-4ac15dca-eb9a-4e0f-a2d5-60b646c31dfa
+_rev: f2cVhvAV1wntWw1uaABAwR
 type: quick_quotes
 draft: false
 aliases:
   - article/founder-of-smarther-news-jenna-lee/
 _createdAt: '2020-10-04T02:25:04Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:53Z'
 date: '2020-10-04T02:25:04+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    8d9858180a0d7f1677651c1f81cc0581fc0a63e8-768x1024.jpg
 is_breaking: false
-summary: Founder of SmartHER News, Jenna Lee.
 featured_quote:
   quote: >-
     ...I didn’t build SmartHER News just to change news delivery - I wanted to
     enrich your whole experience.
-  citation: Founder of SmartHER News, Jenna Lee.
 
 ---
 Sometimes, we just need to see things differently.
@@ -53,12 +55,6 @@ By [purchasing one of these mugs](http://Smarthernews.com/shop) you can become
 We hope you love them as much as we do.
 
 Thank you for helping us turn this dream into a reality.
-
-We are deeply grateful…you inspire us each and every day.
-
-In gratitude,
-
-Jennaturn this dream into a reality.
 
 We are deeply grateful…you inspire us each and every day.
 

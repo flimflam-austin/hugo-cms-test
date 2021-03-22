@@ -3,25 +3,23 @@ title: >-
   National President Mark Dimondstein, American Postal Workers Union, on the
   Delays in the Us Postal Service, Leading to Late Deliveries for Christmas.
 slug: 20201222-usps-delivery-delays
-_id: legacy-2e42bf07-bf36-4a6d-9a57-6fbd256b8840
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-61fffbff-a3ec-4d86-a5ec-840d99b51d04
+_rev: ZEyhBiGfgCfwE8WOjbuSlO
 type: quick_quotes
 draft: false
 aliases:
   - article/usps-delivery-delays/
 _createdAt: '2020-12-23T03:17:34Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-12-23T03:17:34+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    65ed51125be028a7d2c43f49a83e28dfadc6a2b5-1913x1952.jpg
 is_breaking: false
-summary: >-
-  National President Mark Dimondstein, American Postal Workers Union, on the
-  delays in the US Postal Service, leading to late deliveries for Christmas.
 featured_quote:
   quote: We’re doing the very best we can...This is a long, hard struggle.
-  citation: >-
-    National President Mark Dimondstein, American Postal Workers Union, on the
-    delays in the US Postal Service, leading to late deliveries for Christmas.
 
 ---
 * Some packages shipped nearly a month ago still have not arrived at their destination – Many customers have received a notice of “In Transit” with delivery dates come and gone.
@@ -40,7 +38,5 @@ _“We are working as quickly as possible to process the mail._
 _The U.S. Postal Service, similar to the broader shipping sector, continues to face near-term pressure on service performance across categories as it manages through a historic record of holiday volume this season. **This negative impact is compounded by the temporary employee shortage due to the COVID-19 surge, as well as ongoing capacity challenges with airlifts and trucking for moving this historic volume of mail.**_
 
 _The Postal Service’s 644,000 employees continue to work diligently to address issues and remain focused on delivering the Holidays and beyond for the nation. Amid the historic volume, the Postal Service continues to flex its network, including making sure the right equipment is available to sort, process and deliver a historic volume of mail and packages this holiday season. Our entire Operations team, from collections, to processing to delivery, worked throughout this past weekend and continues to work around the clock to address the historic volume. We are accepting all volume that is presented to us which is adding to our challenges.”_
-
-_U.S. POSTAL SERVICE_. We are accepting all volume that is presented to us which is adding to our challenges.”_
 
 _U.S. POSTAL SERVICE_

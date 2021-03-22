@@ -5,32 +5,26 @@ title: >-
   of Its Kind and Potentially the Beginning of a New Era in u.s. Space
   Exploration.
 slug: 20201117-resilience-flight-dec-2020
-_id: legacy-c713b8f8-b7f4-4569-b8a3-65f60879f7d5
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-b35e0a41-1e73-4b5c-ae44-265ed5f9ed85
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - article/resilience-flight-dec-2020/
 _createdAt: '2020-11-16T03:47:29Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2020-11-16T03:47:29+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    8325436e313d139b5614e472d90e82084b0f6bd5-2560x1325.jpg
 is_breaking: false
-summary: >-
-  NASA Head of human spaceflight Kathy Lueders speaking about the historic
-  launch of the SpaceX Crew Dragon spacecraft aka “Resilience ” – the first
-  flight of its kind and potentially the beginning of a new era in U.S. space
-  exploration.
 featured_quote:
   quote: >-
     ...we're not done yet...That spacecraft is out there is 4 precious crew
     members on it and we're going to get them safely to the International Space
     Station tomorrow...
-  citation: >-
-    NASA Head of human spaceflight Kathy Lueders speaking about the historic
-    launch of the SpaceX Crew Dragon spacecraft aka “Resilience ” – the first
-    flight of its kind and potentially the beginning of a new era in U.S. space
-    exploration.
 
 ---
 * Leuders said the launch signaled a “first” for agency partnerships (NASA with the FAA for this “commercial flight”), international partnerships (one of the astronauts is Japanese, and as the NASA administrator said, “there is [no better partner to the U.S. for space exploration than Japan”](https://twitter.com/NASA/status/1328171694599458816?s=20)), and commercial partnerships (NASA “hired” SpaceX as its transportation to space).
@@ -42,4 +36,4 @@ featured_quote:
 * This is the first time the Dragon rocket held 4 people.
 * **Why It Matters:** This is only the second time in ten years that American astronauts launched from American soil. The partnerships solidified with this launch is *thought* to be the beginning of more regular missions to space from U.S. soil.
 
-Read about the [Commercial Crew Program and learn more about the astronauts.](https://www.nasa.gov/specials/ccp-press-kit/main.html)ommercial Crew Program and learn more about the astronauts.](https://www.nasa.gov/specials/ccp-press-kit/main.html)
+Read about the [Commercial Crew Program and learn more about the astronauts.](https://www.nasa.gov/specials/ccp-press-kit/main.html)

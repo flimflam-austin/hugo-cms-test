@@ -4,27 +4,23 @@ title: >-
   Suggesting Johnson and Johnson’s Single-Dose Vaccine Is 85% Effective in
   Preventing Severe Cases of Covid-19.
 slug: 20210205-jnjvaccine
-_id: legacy-d7749860-da01-4504-9e02-21104cb9d6f0
-_rev: 7QmxBnVgzphH4dpufNYQkN
+_id: legacy-639f831c-655e-4f25-ba5a-35c49a3e898d
+_rev: ZEyhBiGfgCfwE8WOjbuTJp
 type: quick_quotes
 draft: false
 aliases:
   - article/jnjvaccine/
 _createdAt: '2021-01-30T04:16:22Z'
-_updatedAt: '2021-03-16T12:32:43Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2021-01-30T04:16:22+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    a5cab7d71ed0d8d3c0b135e06a0a391b999ba6ee-640x360.jpg
 is_breaking: false
-summary: >-
-  Dr. Matt Hepburn who leads the U.S. gov’t COVID response on preliminary data
-  suggesting Johnson and Johnson’s single-dose vaccine is 85% effective in
-  preventing severe cases of COVID-19.
 featured_quote:
   quote: Frankly, simple is beautiful.
-  citation: >-
-    Dr. Matt Hepburn who leads the U.S. gov’t COVID response on preliminary data
-    suggesting Johnson and Johnson’s single-dose vaccine is 85% effective in
-    preventing severe cases of COVID-19.
 
 ---
 * If approved, the Johnson and Johnson (J&J) vaccine would be the first single-dose COVID-19 vaccine available. Health officials say this will streamline the vaccination process by improving access to people in rural areas and developing countries.
@@ -37,4 +33,4 @@ featured_quote:
 * **Why it matters**: The single-dose vaccine offers hope in speeding up the vaccination process, especially in locations that lack the infrastructure to coordinate two doses for each person.
   * Dr. Paul Stoffels, Vice Chairman of the Executive Committee and Chief Scientific Officer at Johnson & Johnson, said in a release. “_A one-shot vaccine is considered by the World Health Organization to be the best option in pandemic settings, enhancing access, distribution and compliance._”
 
-[‘Simple is beautiful’: One-shot vaccine proves effective](https://apnews.com/article/j-and-j-coronavirus-vaccine-a7d254f0299d846062bf6195031880a3)accine proves effective](https://apnews.com/article/j-and-j-coronavirus-vaccine-a7d254f0299d846062bf6195031880a3)
+[‘Simple is beautiful’: One-shot vaccine proves effective](https://apnews.com/article/j-and-j-coronavirus-vaccine-a7d254f0299d846062bf6195031880a3)

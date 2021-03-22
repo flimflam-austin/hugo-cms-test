@@ -1,14 +1,14 @@
 ---
 title: 18.08.14 Qtd Aretha Franklin
 slug: 20180814-18-08-14-qtd-aretha-franklin
-_id: legacy-769dc7eb-e7ff-4040-ba36-51af3a3db5c4
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-6f641c1e-615f-4c2f-bdec-e5ec2d84bb56
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-14-qtd-aretha-franklin/
 _createdAt: '2018-08-14T11:52:51Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-14T11:52:51+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Aretha Franklin
     citation: Aretha Franklin
-    _key: card-1-5de5f902-c2cc-44d3-bb44-fe2b5e4a0865
+    _key: card-1-9059685b-d418-4b3f-81cf-201345c9cb96
   - order: 1
     body: >-
       Queen of Soul Aretha Franklin became the first woman inducted into the
@@ -40,7 +40,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-14-qtd-aretha-franklin/)
-    _key: card-10-6a31ea4a-8480-4d19-8deb-eb2e455d8ad2
+    _key: card-10-719b91de-ad46-49f2-9330-656e24c69a2d
 
 ---
 * **Aretha Franklin:** [time.com/collection/firsts/4898601/aretha-franklin-firsts/](http://time.com/collection/firsts/4898601/aretha-franklin-firsts/)

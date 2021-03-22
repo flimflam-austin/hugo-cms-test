@@ -1,14 +1,14 @@
 ---
 title: 18.04.02 Saudi Spring Break
 slug: 20180402-18-04-03-saudi-spring-break
-_id: legacy-18b9bc02-3948-47e7-8d6c-cbdc0c3ae787
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-8d6329d2-d35d-41c8-9907-f565b094b950
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-03-saudi-spring-break/
 _createdAt: '2018-04-02T10:56:18Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-02T10:56:18+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       Flip: Why now?
     citation: 'Flip: Why now?'
-    _key: card-1-381c6ac6-3205-427f-83f0-9cedbe4d5ba2
+    _key: card-1-ec469e69-6603-4c4e-888b-b69565a762d7
   - order: 1
     body: >-
       ## Who Is This Prince?
@@ -48,7 +48,7 @@ cards:
 
       * Wants to spearhead more outside investment in Saudi Arabia – “Saudi
       Vision 2030” – to diversify the economy.
-    _key: card-2-65bd1f3c-10d7-44a0-b928-f0dcddd427d1
+    _key: card-2-d4f9f6cf-cdd4-4a85-a986-9766df7d1bc7
   - order: 2
     body: >-
       ## Saudi Arabia & USA
@@ -62,7 +62,7 @@ cards:
       * **Oil**. Saudi Arabia is #1 oil exporter in the world, making it a
       powerful potential partner. It’s economy is built on (& vulnerable) to
       fluctuations in the oil market.
-    _key: card-3-52d2fe8f-fb4a-4218-81a5-64a1412b1c4b
+    _key: card-3-ad3eae4c-34f8-4cfb-bfb6-51526248e193
   - order: 3
     body: >-
       ## Why Now?
@@ -76,7 +76,7 @@ cards:
       **Yemen:** Saudi Arabia & Iran fighting proxy war in Yemen. Saudis share
       border w/Yemen & want to prevent Iran-backed forces from taking power.
       Saudis need firepower – literally & symbolically – from U.S.
-    _key: card-4-65317611-bf84-44bf-b379-cb710764e48b
+    _key: card-4-2d448169-d502-4e63-9d47-b7a7e7d39150
   - order: 4
     body: >-
       Reminder: 15 of the 19 hijackers on 9/11 were from Saudi Arabia. The Saudi
@@ -84,7 +84,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-03-saudi-spring-break/)
-    _key: card-10-8e13ba68-ab6e-43f9-a16a-d6461606fa0d
+    _key: card-10-a4162fab-a7d6-4901-92dc-1aa2d0b1a4d1
 
 ---
 * Saudi Crown Prince Mohammed bin Salman Is Visiting the U.S. This Week. Here’s What to Expect: [fortune.com/2018/03/19/mohammed-bin-salman-us-trump/](http://fortune.com/2018/03/19/mohammed-bin-salman-us-trump/)

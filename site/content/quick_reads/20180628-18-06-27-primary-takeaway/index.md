@@ -1,14 +1,14 @@
 ---
 title: 18.06.27 Primary Takeaway
 slug: 20180628-18-06-27-primary-takeaway
-_id: legacy-63379445-eefd-4d89-81bd-da139a6f59f9
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-7c11e596-b8c5-461a-9951-a4963f33331e
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-27-primary-takeaway/
 _createdAt: '2018-06-28T11:01:47Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-28T11:01:47+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       To Your Corners!
     citation: To Your Corners!
-    _key: card-1-d7e004ed-404c-431b-8f3c-1aef007793d7
+    _key: card-1-1bfcd2ea-a863-44c7-8aaf-0085ba5b2e7c
   - order: 1
     body: >-
       # Who’s The Most Progressive?
@@ -42,7 +42,7 @@ cards:
 
       * Likely *new* congresswoman Alexandria Ocasio-Cortez: 28-year-old
       **socialist**, with little funding or name recognition.
-    _key: card-2-526a54a4-cc20-4081-b952-8088bc9c5c66
+    _key: card-2-14f88722-7b37-4249-a39e-ee5194754afe
   - order: 2
     body: >-
       ## Who’s The \*Best\* Conservative?
@@ -56,7 +56,7 @@ cards:
       * Candidate,A state Sen. William Timmons, supported by current
       Congressional leadership, beat out a candidate supported by a low tax,
       small gov’t GOP group.
-    _key: card-3-8cd8a9a5-1e19-491d-b8af-297a42e817b9
+    _key: card-3-23bbd587-9ebb-41ae-952f-291bb11ff8bb
   - order: 3
     body: >-
       ## The Trump Effect
@@ -70,7 +70,7 @@ cards:
 
       * In New York, the President’s pick for congressional candidate defeated a
       well-known, though controversial, challenger.
-    _key: card-4-f5e1db75-84fd-4510-85cb-e9889b23c9ad
+    _key: card-4-bbc6fecd-dd82-43c5-bec9-f433b14773f1
   - order: 4
     body: >-
       Despite sparring with Pres. Trump, former Gov. & presidential candidate
@@ -80,7 +80,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-27-primary-takeaway/)
-    _key: card-10-50573b21-e882-4d1d-99ec-a6fb2ababe2a
+    _key: card-10-e9b2aa40-8f23-40e8-9688-19034ecf228a
 
 ---
 * **Crowley and Grimm crash: Top takeaways from Tuesday”s primaries ~A**

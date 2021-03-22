@@ -1,24 +1,22 @@
 ---
 title: Officials Deliver Updates on the Pensacola Naval Station Shooting
 slug: 20191208-officials-deliver-updates-on-the-pensacola-naval-station-shooting
-_id: legacy-b4fce6e5-f33f-412f-a174-89c069f1a8f7
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-14bbea40-dd8e-40d5-9433-b4bf592fbb0c
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/officials-deliver-updates-on-the-pensacola-naval-station-shooting/
 _createdAt: '2019-12-07T02:26:26Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-12-07T02:26:26+00:00'
 weight: 50
 is_breaking: false
-summary: Sheriff shares details on the latest Florida Naval Station shooting
 featured_quote:
   quote: >-
     It doesn't happen in Pensacola. It doesn't happen to our friends and
     neighbors who are members of the United States Navy — but it did, and it
     has.
-  citation: Sheriff shares details on the latest Florida Naval Station shooting
 
 ---
 * Escambia County Sheriff David Morgan confirmed an active shooter incident took place this morning in a classroom at the Naval Air Station in Pensacola, FL. The suspect killed three victims and was killed by law enforcement. Several others, including two deputies, were injured. The shooter was a Saudi national (a citizen of Saudi Arabia) and member of the Saudi Air Force at the base for training.

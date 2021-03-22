@@ -4,29 +4,25 @@ title: >-
   Full Moons – the First Full Moon of the Year Is Frequently Referred to as the
   Wolf Moon.
 slug: 20210131-wolf-moon-2021
-_id: legacy-c5b2a415-e3ba-452f-8c2b-0a12d975bda6
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-e6e587c6-48f3-485b-99f0-c4bedb123559
+_rev: ZEyhBiGfgCfwE8WOjbuTJp
 type: quick_quotes
 draft: false
 aliases:
   - article/wolf-moon-2021/
 _createdAt: '2021-02-01T05:36:50Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2021-02-01T05:36:50+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    f4bc7047e0a148d1f75b2bb75fa0cd5c5f46de12-1024x906.jpg
 is_breaking: false
-summary: >-
-  Retired NASA Program Manager Gordon Johnston reflecting on the many names for
-  full moons – the first full moon of the year is frequently referred to as the
-  “wolf moon.”
 featured_quote:
   quote: >-
     Full Moon names were used to describe and remember what happened in the past
     and to remind of what was likely to come in the near future.
-  citation: >-
-    Retired NASA Program Manager Gordon Johnston reflecting on the many names
-    for full moons – the first full moon of the year is frequently referred to
-    as the “wolf moon.”
 
 ---
 * _“From what I have learned about traditional names given to full Moons prior to the introduction of modern timekeeping, local leaders would usually decide on the name of the Moon based on conditions at the time. These cultures did not generally need calendars that specify exact dates far in advance. Full Moon names were used to describe and remember what happened in the past and to remind of what was likely to come in the near future. Also, there are many different Native American names for the full Moons.” Johnston._
@@ -50,10 +46,6 @@ May 26: Flower moon
 June 24: Strawberry moon  
 July 23: Buck moon  
 Aug. 22: Sturgeon moon  
-Sept. 20: Harvest moon  
-Oct. 20: Hunter’s moon  
-Nov. 19: Beaver moon  
-Dec. 18: Cold moon 22: Sturgeon moon  
 Sept. 20: Harvest moon  
 Oct. 20: Hunter’s moon  
 Nov. 19: Beaver moon  

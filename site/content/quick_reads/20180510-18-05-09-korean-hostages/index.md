@@ -1,14 +1,14 @@
 ---
 title: 18.05.09 Korean Hostages
 slug: 20180510-18-05-09-korean-hostages
-_id: legacy-d7969344-44f6-44c0-90ac-8d48e94bea80
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-a0069606-f3f7-4db4-88d5-d184dd953f1f
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-09-korean-hostages/
 _createdAt: '2018-05-10T10:05:06Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-10T10:05:06+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip: Who Are They?
     citation: 'Flip: Who Are They?'
-    _key: card-1-cf936d70-ce4e-4d33-b4a8-fd4a253f5105
+    _key: card-1-3733a711-8b90-43e5-bdb1-b2f6c9a11b56
   - order: 1
     body: >-
       ## Released Hostages
@@ -45,7 +45,7 @@ cards:
       * **Kim Hak Song & Tony Kim** both worked at Pyongyang University of
       Science and Technology, or PUST (privately funded university with $$ from
       Christian groups).
-    _key: card-2-dbf73eba-39fd-4201-9f88-0ec5ae53239b
+    _key: card-2-efe61c34-4727-486e-98d6-8323c0562f5b
   - order: 2
     body: >-
       ## Something To Consider:
@@ -58,7 +58,7 @@ cards:
         
       Senator Chuck Schumer (D-NY) May 9, 2018 warning more Americans could be
       taken if that gives North Korea bargaining power.
-    _key: card-3-deb7a2d4-1413-4046-9458-97d8abe474c3
+    _key: card-3-475a1420-85f1-4f32-850a-8898ddffd096
   - order: 3
     body: >-
       > “**It represents something**. It represents something very important to
@@ -71,7 +71,7 @@ cards:
         
         
       President Trump
-    _key: card-4-4debf55e-3096-44ec-8a2d-3fb19a5eb7ae
+    _key: card-4-e32dafa2-875e-41ab-b140-8127b95b2a79
   - order: 4
     body: >-
       Reminder: Otto Warmbier, an American student, the last American released
@@ -81,7 +81,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-09-korean-hostages/)
-    _key: card-10-efb161e6-3dbc-4411-af72-67acbc5a23bb
+    _key: card-10-dcc3c066-c9a1-4449-958b-e4d72e918c45
 
 ---
 * **Remarks by President Trump in Cabinet Meeting:** [https://www.whitehouse.gov/briefings-statements/remarks-president-trump-cabinet-meeting-8/](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-cabinet-meeting-8/)

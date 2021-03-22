@@ -1,14 +1,14 @@
 ---
 title: 18.07.04 4th Fun Facts
 slug: 20200629-18-07-04-4th-fun-facts
-_id: legacy-dc4836b4-e55d-4ef1-bd8e-fb715a77d2ce
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-575c7ef9-f8bd-4fbe-99ed-d8c55c0fabe2
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-07-04-4th-fun-facts/
 _createdAt: '2018-07-03T23:00:19Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-07-03T23:00:19+00:00'
 weight: 50
 featured_image:
@@ -25,7 +25,7 @@ cards:
       SmartHER Facts to Impress at Your 4th of July Festivities.
 
       …And should we REALLY be celebrating America’s birth on _AUGUST__2nd?
-    _key: card-1-e802bf77-2598-4add-98ab-f061067846a8
+    _key: card-1-c5537043-4c3d-42c3-9b66-5c7a643b8423
   - order: 1
     body: >-
       ## THE DECLARATION WASN’T SIGNED ON JULY 4 (OR IN JULY AT ALL)
@@ -38,7 +38,7 @@ cards:
       day John Adams thought we should celebrate).
 
       * Founding Fathers signed on August 2nd.
-    _key: card-2-b5cd2a9f-9f9a-446b-9259-18e2721eadee
+    _key: card-2-d86a1132-7832-4f22-8614-1e9015c1128b
   - order: 2
     body: >-
       ## 3 PRESIDENTS HAVE DIED & 1 WAS BORN ON THE 4TH OF JULY
@@ -50,7 +50,7 @@ cards:
       * James Monroe, America’s 5th president, died on the 4th in 1831.
 
       * Our 30th Pres Calvin Coolidge was only one born on the 4th.
-    _key: card-3-6355e5ac-f0d3-4ca3-8438-45fe3c237f6e
+    _key: card-3-bc74eab3-f591-47fa-93f4-b7cc0ad47706
   - order: 3
     body: >-
       ## FIREWORKS INVENTED UNINTENTIONALLY
@@ -64,7 +64,7 @@ cards:
       * On America’s first 4th, fireworks were one color: orange
 
       * This year, 16K displays, big ones like Boston Pops cost $2.5M.
-    _key: card-4-5b65f363-3733-4b70-84d1-3324ba1df705
+    _key: card-4-f25329bf-24df-4bde-ad2a-5eb4f3ee776d
   - order: 4
     body: >-
       ## MOST PATRIOTIC FOODS: DOGS & TURTLES?
@@ -77,7 +77,7 @@ cards:
 
       * Fun fact: on the first celebration of America’s birth, John Adams &
       thousands of others celebrated by eating **Turtle Soup**. Mmmm….
-    _key: card-5-bcd45af4-b0a0-477d-8642-ff9ed6c9e48c
+    _key: card-5-3672010d-54da-4a80-b40c-b0fa75c93e76
   - order: 5
     body: >-
       We continue to do our forefathers proud as America's attention turns to
@@ -87,7 +87,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-04-4th-fun-facts/)
-    _key: card-10-7749cb6f-38ff-483d-8c20-4a4f6815dd2a
+    _key: card-10-2f2c895b-eb23-439b-b668-97fdce71cd12
 
 ---
 * **9 Things You May Not Know About the Declaration of Independence:**  
@@ -96,10 +96,7 @@ cards:
 [https://ssec.si.edu/stemvisions-blog/evolution-fireworks](https://ssec.si.edu/stemvisions-blog/evolution-fireworks)
 * **Every Fourth of July, a Taste of 1776:**  
 [https://www.nytimes.com/1989/06/28/garden/de-gustibus-every-fourth-of-july-a-taste-of-1776.html](https://www.nytimes.com/1989/06/28/garden/de-gustibus-every-fourth-of-july-a-taste-of-1776.html)
-* 
-
-**History of Nathan”s Hot Dog Eating Competition:**  
+* **History of Nathan”s Hot Dog Eating Competition:**  
 [https://nathansfamous.com/promos-and-fanfare/the-stand/hdec-fun-facts/](https://nathansfamous.com/promos-and-fanfare/the-stand/hdec-fun-facts/)
-
   * In 2017, Joey Chestnut ate 72 of those hot dogs to win theA Famous Nathan”s Hot Dog Eating Contest in 10 minutes. A new hot dog record.
   * For the females in 2017,A Miki SudoA ate 41 hot dogs and buns in 10 minutes to win her fourth straight women’s title.

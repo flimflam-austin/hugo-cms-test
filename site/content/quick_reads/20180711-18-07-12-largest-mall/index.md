@@ -1,14 +1,14 @@
 ---
 title: 18.07.12 Largest Mall
 slug: 20180711-18-07-12-largest-mall
-_id: legacy-edfe9442-fb77-48d0-8117-d4a35c005738
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-4efc14cc-d808-42e5-9f5a-e44f6ea17271
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-12-largest-mall/
 _createdAt: '2018-07-12T10:00:24Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-12T10:00:24+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Attention shoppers!
     citation: Attention shoppers!
-    _key: card-1-4fd09adf-326e-4cf5-b25b-26c340db6316
+    _key: card-1-53a2e438-3d71-42c8-831e-67fcc003645a
   - order: 1
     body: >-
       AMERICAN DREAM MALL  
@@ -49,7 +49,7 @@ cards:
 
       * **Estimated to open by 2022**, but permits, financing & infrastructure
       still needed.
-    _key: card-2-86e0a2a4-731a-4f7b-8539-83fa2460d9e6
+    _key: card-2-d488c72b-55e3-4ddb-a61d-c6bca961cccf
   - order: 2
     body: >-
       > _“We’re not building a mega-mall. We’re not in the mall business.”_  
@@ -64,7 +64,7 @@ cards:
 
       * Possible indoor ski slope, lake with submarine rides, roller coaster,
       aquarium & permanent Cirque du Soleil show.
-    _key: card-3-e691e790-108b-4f80-a0b3-fc4364a7dd3b
+    _key: card-3-61732945-0ab9-4fb7-8b83-8848a64f4258
   - order: 3
     body: >-
       Bigger Picture:  
@@ -78,7 +78,7 @@ cards:
 
       * **Perspective:A** For **every person in the U.S., there is 24 sq ft of
       retail space.** (vs. Canada 16 sq ft, Australia 11 sq ft & U.K. 5 sq ft)
-    _key: card-4-1eaf812c-b552-416d-81e7-a8e0924753b3
+    _key: card-4-4b1c4c9e-ee11-48ef-9d6c-61a87d942775
   - order: 4
     body: >-
       Mall of America was the first of its kind when it opened back in 1992.
@@ -88,7 +88,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-12-largest-mall/)
-    _key: card-10-7713e701-6f81-4c56-bfc4-f71d72b5262b
+    _key: card-10-0101fada-d54a-4ab5-8ec0-9e1f28c750da
 
 ---
 * **Florida Officials Approve Plan to Build Largest U.S. MallA**  

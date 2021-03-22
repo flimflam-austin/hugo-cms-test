@@ -1,23 +1,21 @@
 ---
 title: Texas Becomes Latest State to Ban Red Light Cameras
 slug: 20190905-texas-becomes-latest-state-to-ban-red-light-cameras
-_id: legacy-cc2f9b31-8e84-4119-8ceb-5a724ba103da
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-49801fb2-1506-4b6c-88b0-574b56cb8d50
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/texas-becomes-latest-state-to-ban-red-light-cameras/
 _createdAt: '2019-08-16T19:56:15Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-08-16T19:56:15+00:00'
 weight: 50
 is_breaking: false
-summary: Texas becomes latest state to ban red light cameras
 featured_quote:
   quote: >-
     Texas Governors signs bill into law making Texas the xyz state to ban the
     cameras. Check the status of your state.
-  citation: Texas becomes latest state to ban red light cameras
 
 ---
 * Having about eight-ninths of its area

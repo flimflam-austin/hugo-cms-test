@@ -1,14 +1,14 @@
 ---
 title: Your Top Stories
 slug: 20190905-18-12-06-qq
-_id: legacy-fcaba724-dd62-45cf-bf62-6a6a22b6f978
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-1396330f-e708-46f1-90ee-4d775ba6573c
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - 18-12-06-qq/
 _createdAt: '2018-12-06T02:59:46Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-12-06T02:59:46+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       brilliant diversity spread like stars, like a thousand points of light in
       a broad and peaceful sky." Pres. H.W. Bush will be laid to rest Thursday
       in Texas.
-    _key: card-1-4cccee27-069f-4762-8df7-1d241fea03e4
+    _key: card-1-e9796d3c-40e5-47d4-8e4b-435ab7a70f49
   - order: 1
     body: >-
       > ‘I believe that the operational military situation is largely
@@ -44,7 +44,7 @@ cards:
       security forces could not defend the country against the Taliban but
       expressed some optimism re: peace talks with the group that just claimed
       responsibility for killing 4 U.S. soldiers.
-    _key: card-2-4f4668ce-9394-49ed-90ce-dc316a01790c
+    _key: card-2-73d138cb-94a1-406f-a225-fed1c78a3778
   - order: 2
     body: >-
       > ‘Our American partners apparently believe that the situation has changed
@@ -58,10 +58,10 @@ cards:
       nuclear missiles. The U.S. believes Russia is violating the treaty and
       unless Russia shows compliance, will sever the pact. Russia denies
       violating the deal.
-    _key: card-3-e3f4dbb2-28e2-4f3b-839c-cb03c5d4526e
+    _key: card-3-bbfbc884-02ce-4d07-b4c9-43201bf9e988
   - order: 3
     body: "> ‘She came out on the good, on this end, and the other guy a\x14 the bad guy a\x14 didn’t… I think she’ll be inspiration to a lot of other ladies.’  \n  \n  \n  \nSouth Carolina Pickens County Sheriff Rick Clark speaking about a local woman who shot and killed an escaped prison inmate who broke down her door in the middle of the night and approached her bedroom. The woman, a legal gun owner, shot the intruder once in the head and killed him."
-    _key: card-4-25f03ca4-5511-4c9b-9ba9-071ae160b7bb
+    _key: card-4-c016b629-6a9e-4d97-b094-1a8ffba53b06
   - order: 4
     body: >-
       > “It was a day and night difference. She got up on the bed and did a back
@@ -74,13 +74,13 @@ cards:
       using the skin of tilapia (a white fish) to help heal burns on cats & dogs
       injured by the fire. Initial reports suggest new skin, that would take
       weeks to rejuvenate, is taking days.
-    _key: card-5-6a303fe1-81b0-421a-8404-95292188410d
+    _key: card-5-abb2bf51-abea-48a6-a725-2e9732a11a5d
   - order: 5
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-12-06-qq/)
-    _key: card-10-4dd8edce-cc62-4318-ab43-7231b4cad1b7
+    _key: card-10-f9549556-319b-4d15-94d5-f09a8a4caacb
 
 ---
 * **George H.W. Bush eulogized by son at funeral: ‘The brightest of a thousand points of light’**  

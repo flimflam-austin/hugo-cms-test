@@ -1,21 +1,19 @@
 ---
 title: Historic Settlement for Tracking Your Children
 slug: 20190906-youtube-cannot-bury-its-head-in-the-sand
-_id: legacy-02bd6f08-79cf-4a25-8ae2-a2a8ec96d259
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-92f0f3b4-71d9-40d5-aa0a-263881b9da50
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/youtube-cannot-bury-its-head-in-the-sand/
 _createdAt: '2019-09-05T20:43:50Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-09-05T20:43:50+00:00'
 weight: 50
 is_breaking: false
-summary: Historic Settlement for tracking your children
 featured_quote:
   quote: YouTube cannot bury its head in the sand.
-  citation: Historic Settlement for tracking your children
 
 ---
 FTC”s Bureau of Consumer Protection Andrew Smith announcing a historic $170M settlement with YouTube owner, Google.

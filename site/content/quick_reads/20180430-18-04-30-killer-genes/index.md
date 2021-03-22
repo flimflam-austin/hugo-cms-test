@@ -1,14 +1,14 @@
 ---
 title: 18.04.30 Killer Genes
 slug: 20180430-18-04-30-killer-genes
-_id: legacy-a5c01466-d0f3-46ba-823b-85909a075209
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-cba29031-aefd-4997-ae89-0acf4db61c88
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-30-killer-genes/
 _createdAt: '2018-04-30T10:25:45Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-30T10:25:45+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Clever detective work *or* Privacy violation?
     citation: Clever detective work *or* Privacy violation?
-    _key: card-1-66eaa096-aad8-4603-90bf-8132f442d630
+    _key: card-1-9bf87cc1-9a79-48dd-aca8-9201d97a5439
   - order: 1
     body: >-
       # Killer “left his DNA all over the place.”A
@@ -47,7 +47,7 @@ cards:
 
       **DNA hits came from 3rd & 4th cousins**, *NOT* from suspect Joseph James
       DeAngelo.
-    _key: card-2-a84fd011-a9ad-4b95-a921-4a664d4eff0b
+    _key: card-2-efe195f2-2437-4371-9cc0-81a63741cdd0
   - order: 2
     body: >-
       > Investigators saidA GEDmatch narrowed their search & no court order was
@@ -62,7 +62,7 @@ cards:
         
         
       Curtis Rogers, GEDmatch Spokesman
-    _key: card-3-4756dfd1-c2d2-40e0-abd6-407bad8ed3bc
+    _key: card-3-b412a5d7-dab2-41fd-84e7-401e5122b127
   - order: 3
     body: >-
       # SLIPPERY SLOPE
@@ -77,7 +77,7 @@ cards:
         
         
       Andrea Roth, UC Berkeley Boalt School of Law Assistant Professor
-    _key: card-4-5363576e-bdb1-4bdc-b332-7b0156cb58cd
+    _key: card-4-bc4980e9-8723-49dc-a34b-a014fe8eb33e
   - order: 4
     body: >-
       Ancestry & 23andMe say they were not involved in the "Golden State Killer"
@@ -87,7 +87,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-30-killer-genes/)
-    _key: card-10-edc54a98-a98f-4938-b1ab-d94fa1964073
+    _key: card-10-7ffe6ff8-6e79-4328-8adf-dade748b030c
 
 ---
 * **SmartHER Refresher on the Golden State Killer case:**  

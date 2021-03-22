@@ -1,14 +1,14 @@
 ---
 title: 18.03.07 Tech Spy Games
 slug: 20180308-18-03-07-tech-spy-games
-_id: legacy-9d3ed696-bb3f-4ce6-aae0-b93858ccd92c
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-0504b86c-9d02-41d2-850d-4fff486baa62
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-07-tech-spy-games/
 _createdAt: '2018-03-08T12:00:23Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-08T12:00:23+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       What’s at stake? Potentially your internet access and the safety of our
       entire telecommunications system.
-    _key: card-1-057fb54d-c685-4e08-9a93-76f404b07082
+    _key: card-1-209029e4-0fc5-4397-943a-da9531e8e258
   - order: 1
     body: >-
       Why Such Drama?
@@ -45,7 +45,7 @@ cards:
 
       * Whoever buys it, buys its competitive advantage AND literally a way “in”
       to our electronics.
-    _key: card-2-5a66c590-71f8-4792-bea9-b8cb8f05709f
+    _key: card-2-c95ef923-daad-409e-93bb-c2c01282d1e1
   - order: 2
     body: >-
       ## “National Security Threat”
@@ -62,7 +62,7 @@ cards:
 
       WHY IT MATTERS
     citation: WHY IT MATTERS
-    _key: card-3-a6db4394-20ec-4fd7-9247-3326981bc376
+    _key: card-3-d38f9885-98ec-4ebd-8a87-97e672e54dd3
   - order: 3
     body: >-
       ## The U.S. Govt Fears…
@@ -73,7 +73,7 @@ cards:
       lose its competitive advantage, especially in 5G (5G = 5th generation
       ultra-fast wireless connections) and allow Chinese competitors to gain
       ground.
-    _key: card-4-7cd76cc3-4261-4601-901e-c2fbb7d23883
+    _key: card-4-e9c0e9d5-b7ad-4f86-86bb-9958249f0ba5
   - order: 4
     body: |-
       ## Why Broadcom Says Critics Are Wrong
@@ -82,7 +82,7 @@ cards:
       * Plans to move its company HQ to U.S.A by May 6.
       * 25K Broadcom employees will be here in the US = American jobs.
       * Creating a $1.5B investment fund to train American engineers
-    _key: card-5-b4ff7168-abf0-4fd2-8807-26db1857b26a
+    _key: card-5-f917fc87-ea67-4dc7-942c-4ae462073c89
   - order: 5
     body: >-
       A new $229 smartphone -- but the CIA, FBI & NSA warn Americans don't buy
@@ -90,7 +90,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-07-tech-spy-games/)
-    _key: card-10-d6463eeb-951f-4dea-a071-b4dcd37cb5bc
+    _key: card-10-0e16b03e-be4e-455b-8a0d-90f823f3f6f2
 
 ---
 * Letter US Gov’t sent to Broadcom & Qualcomm lawyers: [https://www.qcomvalue.com/wp- content/uploads/2018/03/ Letter-from-Treasury- Department-to-Broadcom-and- Qualcomm-regarding-CFIUS.pdf](https://www.qcomvalue.com/wp-)

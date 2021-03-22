@@ -1,14 +1,14 @@
 ---
 title: Quick Quotes for Thursday, September 20th
 slug: 20190905-quick-quotes-7
-_id: legacy-442c247a-7e38-489f-9fdd-57c1d6f890e2
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-75544259-c0ea-49fa-af5b-85db8b58cc76
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-7/
 _createdAt: '2018-09-20T12:07:38Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-20T12:07:38+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       follows a meeting between North & South Korea in which the North's Kim
       Jong Un agreed to dismantle its nuclear site in front of U.S. &
       international inspectors.
-    _key: card-1-5701f6c3-3f68-415a-aff8-1d704bf9052a
+    _key: card-1-d5295b02-be80-43d1-b734-4ad465f5bcb0
   - order: 1
     body: >-
       > ‘When you have two 500-year floods within two years of each other, it’s
@@ -43,7 +43,7 @@ cards:
       Governor says it's time to rethink the strategy & be smarter about
       recovery. Early estimates have the damage from Florence nearing $20B, but
       that number is expected to rise.
-    _key: card-2-b2ee7dff-5c70-4e0e-a110-574668d81603
+    _key: card-2-0273afb6-1476-4523-b186-ddf33328ef76
   - order: 2
     body: >-
       > “I’ll be doing things over the next two weeks having to do with
@@ -56,7 +56,7 @@ cards:
       mentioned $1.6B used for repairs and an 80-foot stretch of border wall, as
       well as his desire for more; the U.S. Southern Border is nearly 2000
       miles.
-    _key: card-3-6bd34757-981b-48d2-aa61-ca2b3019993b
+    _key: card-3-d60c0dce-bdc0-44fb-a0e1-d8388b8d352e
   - order: 3
     body: >-
       > “I can give you lots of reasons but they don’t matter. What matters is
@@ -74,7 +74,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/JWXtCcDpfNU?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-4-17ef4c0e-82f6-439b-a658-9618cea4f70a
+    _key: card-4-02df27ef-a832-44a0-8505-d1ec704f60c4
   - order: 4
     body: >-
       > “When Dr. Ford came forward, I said that her voice should be heard and
@@ -86,7 +86,7 @@ cards:
         
       Sen. Jeff Flake (R-AZ) on the latest attempts to move forward with the
       accusations facing Supreme Court nominee Judge Brett Kavanaugh.
-    _key: card-5-d4709bde-428b-43c8-9580-44c7ff824ddd
+    _key: card-5-bb30a807-ca8e-477b-8c6a-dbe182ba8475
   - order: 5
     body: >-
       > “Here’s why we chose her: She’s not crazy.”  
@@ -99,13 +99,13 @@ cards:
       blond aliens kidnapped her at age 7 and took her on a spaceship. The
       Herald says it does not believe her views or past experiences affect her
       ability to be an effective public servant.
-    _key: card-6-c0d10212-567c-4c68-95ba-aabc39bea73f
+    _key: card-6-ee7c180f-a3d0-41fc-830d-ff8d46250c44
   - order: 6
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/quick-quotes-7/)
-    _key: card-10-1299ac97-20e3-4641-bd76-98c7a3863810
+    _key: card-10-a61baae6-4c81-4561-adbe-a6f254f3c27f
 
 ---
 * **U.S. ready to restart talks with North Korea immediately: Pompeo:**  

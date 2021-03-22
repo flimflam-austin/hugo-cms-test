@@ -6,30 +6,20 @@ title: >-
   Shutdown.
 slug: >-
   20200810-center-for-infectious-disease-research-and-policy-at-the-university-of-minnesota-prof-michael-osterholm-and-president-of-the-federal-reserve-bank-of-minneapolis-neel-kashkari
-_id: legacy-2cccc17d-64c7-4873-a29f-0f8dc7c4691d
-_rev: 7QmxBnVgzphH4dpufNZxDG
+_id: legacy-f2ab14ff-920e-4dbf-baf3-0f97da51c5ab
+_rev: O8E8pz1fLwnc3fN7JVFAJC
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/center-for-infectious-disease-research-and-policy-at-the-university-of-minnesota-prof-michael-osterholm-and-president-of-the-federal-reserve-bank-of-minneapolis-neel-kashkari/
 _createdAt: '2020-08-10T12:31:02Z'
-_updatedAt: '2021-03-16T12:53:34Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2020-08-10T12:31:02+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  Prof. Michael Osterholm, Director of Center for Infectious Disease Research
-  and Policy at the University of Minnesota, and President of the Federal
-  Reserve Bank of Minneapolis, Neel Kashkari, advocating for a nationwide 6-week
-  shutdown.
 featured_quote:
   quote: '**OP-ED** It will require sacrifice but save many thousands of lives.'
-  citation: >-
-    Prof. Michael Osterholm, Director of Center for Infectious Disease Research
-    and Policy at the University of Minnesota, and President of the Federal
-    Reserve Bank of Minneapolis, Neel Kashkari, advocating for a nationwide
-    6-week shutdown.
 
 ---
 **Here’s How to Crush the Virus Until Vaccines Arrive**  

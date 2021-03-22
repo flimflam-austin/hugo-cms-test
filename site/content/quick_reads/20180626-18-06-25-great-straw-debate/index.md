@@ -1,14 +1,14 @@
 ---
 title: 18.06.25 Great Straw Debate
 slug: 20180626-18-06-25-great-straw-debate
-_id: legacy-72f518e3-ad24-4be8-a685-34eeff1f4b66
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-f5783a47-4d02-45cd-9715-682a9aa78fb7
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-25-great-straw-debate/
 _createdAt: '2018-06-26T11:16:43Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-26T11:16:43+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       Why Now?
     citation: Why Now?
-    _key: card-1-3e9147a9-14da-4c83-88ec-dcad9dbe4d0f
+    _key: card-1-d48fcc8d-4f9b-41d7-aa39-19e9cb1916be
   - order: 1
     body: >-
       ## Why Hate On Straws?
@@ -47,7 +47,7 @@ cards:
 
       Flip: What Impact?
     citation: 'Flip: What Impact?'
-    _key: card-2-65d21117-90f9-4180-b3d4-bf1d8a4ebd77
+    _key: card-2-36f439e8-242a-40dd-b3b8-b8cde914e3fb
   - order: 2
     body: >-
       ## Impact? Data Debate
@@ -61,7 +61,7 @@ cards:
 
       * Whatever the number, debate continues on whether straws are public enemy
       #1 for pollution.
-    _key: card-3-7d8c86b0-e8f2-4367-8354-95ab21f01782
+    _key: card-3-9381a4c2-0843-4e4d-9d7f-d87fbc45c429
   - order: 3
     body: >-
       ## The Last Straw?
@@ -75,7 +75,7 @@ cards:
 
       * Other study: fishing gear, balloons & plastic bags = biggest threat to
       ocean life, doesn’t name straws.
-    _key: card-4-8ba37065-86cc-46a6-9f1b-ead19c5feac9
+    _key: card-4-e3fa7307-5061-47cc-93af-abd302d44b71
   - order: 4
     body: >-
       The patent for the first straw was approved in 1888, but a patent for
@@ -85,7 +85,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-25-great-straw-debate/)
-    _key: card-10-bbaa3b7c-53f2-4ba8-a0ff-5aec27575cf7
+    _key: card-10-fa93ea9f-fbe8-445a-8ed6-4f5f4c18ec4f
 
 ---
 * GREAT READ on history of straws in America:Disposable America  

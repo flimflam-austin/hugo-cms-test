@@ -5,31 +5,23 @@ title: >-
   Pandemic.
 slug: >-
   20200819-l-a-schools-superintendent-austin-beutner-on-a-proposed-plan-to-reopen-one-of-the-largest-school-districts-in-america-eventually-during-the-covid-19-pandemic
-_id: legacy-73ce5155-2b64-44f8-b4bf-bc9cc11938ef
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-96341b8d-7af7-4cbb-b140-16ed1acf2a0f
+_rev: O8E8pz1fLwnc3fN7JVFAJC
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/l-a-schools-superintendent-austin-beutner-on-a-proposed-plan-to-reopen-one-of-the-largest-school-districts-in-america-eventually-during-the-covid-19-pandemic/
 _createdAt: '2020-08-19T16:43:48Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2020-08-19T16:43:48+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  L.A. schools Superintendent Austin Beutner on a proposed plan to reopen one of
-  the largest school districts in America (eventually) during the COVID-19
-  pandemic.
 featured_quote:
   quote: >-
     Extraordinary circumstances call for extraordinary actions, and while this
     testing and contact-tracing effort is unprecedented, it is necessary and
     appropriate.
-  citation: >-
-    L.A. schools Superintendent Austin Beutner on a proposed plan to reopen one
-    of the largest school districts in America (eventually) during the COVID-19
-    pandemic.
 
 ---
 * The plan would include testing all 700,000 children in the district.

@@ -1,14 +1,14 @@
 ---
 title: 18.03.27 Russia Expulsions
 slug: 20180327-18-03-27-russia-expulsions
-_id: legacy-3f2e3cdb-4967-4c6d-80b6-fac2ced9768f
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-019bfe6d-69e5-4f59-9705-7a2da2cbc346
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-27-russia-expulsions/
 _createdAt: '2018-03-27T11:50:12Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-27T11:50:12+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       What Happened?
     citation: What Happened?
-    _key: card-1-0808f11a-3567-4833-80d2-845e9a8f5d84
+    _key: card-1-1b83f67f-1456-4e26-b6ae-88039b429c15
   - order: 1
     body: >-
       # Dasvidaniya!
@@ -55,7 +55,7 @@ cards:
 
       Flip For Why
     citation: Flip For Why
-    _key: card-2-d022b204-c3bd-4732-9f8f-6db7dbc6c17c
+    _key: card-2-db65bea6-f67b-4b44-b0be-42e688438cb7
   - order: 2
     body: >-
       ## Why Now?
@@ -70,10 +70,10 @@ cards:
       * Concerns about an emboldened Russia attacking on foreign soil.
 
       * Add into the mix: Russia’s aggression in Ukraine & Syria.
-    _key: card-3-ded51958-9e05-4d57-9f0a-be42bad1a4b0
+    _key: card-3-d2a6a133-9d6f-4221-9704-7f0c04c372d2
   - order: 3
     body: "## The New Cold War?\n\n“Look, we want to work with Russia, but **this type of an action cannot be tolerated**. The United States is responding to Russia’s action a\x14 as I called it, brazen and reckless…You know, the ball is in their court with respect to how they want to respond.”\n\nWhite House Principal Deputy Press Secretary Raj Shah, March 26, 2018"
-    _key: card-4-a5260d83-25de-4fa4-99e0-42389f0c12c7
+    _key: card-4-cc1dbb00-6689-49c2-9c2d-5cb5e0818cee
   - order: 4
     body: >-
       While important, this tit-for-tat expulsion of diplomats isn't new - It
@@ -81,7 +81,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-27-russia-expulsions/)
-    _key: card-10-da154cc5-8c97-4a8c-8ac8-13ba83918a5f
+    _key: card-10-104161ad-4281-4bce-be47-36b9a05e54e6
 
 ---
 * Russia’s Twitter Poll: [https://twitter.com/EnglishRussia1/status/978345757932773378](https://twitter.com/EnglishRussia1/status/978345757932773378)

@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for Friday, September 21
 slug: 20190905-18-09-21-qq
-_id: legacy-b5c160bd-6afc-4d79-a0f5-039c4df22229
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-1df16d62-1be3-428a-929d-e5464f714b10
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-21-qq/
 _createdAt: '2018-09-21T11:44:19Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-21T11:44:19+00:00'
 weight: 50
 featured_image:
@@ -20,10 +20,10 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     body: "> ‘Whether overseas or right here at home in D.C., we didn’t think a\x14 we just knew we needed to act. That’s the Marine in all of us.’  \n  \n  \n  \nMarine Capt. Trey Gregory, who rushed into a senior public housing complex in DC alongside fellow Marines and firefighters to rescue residents. 10 people had minor injuries but everyone survived. The DC Fire Chief said that might not have been the case without the Marines."
-    _key: card-1-901e40c7-9737-4012-b267-ab792607d2d2
+    _key: card-1-409b2b3f-72f8-4af1-b34d-0c7023cbc31b
   - order: 1
     body: "> ‘This shy lady walks in and sings a\x18I Can’t Make You Love Me’ and the show turned into full color.”  \n  \n  \n  \nSimon Cowell, speaking about Carrie Underwood's audition at American Idol 14 years ago as he honored the Country Music Star receiving her star on the Hollywood Walk of Fame."
-    _key: card-2-1ec1d866-8912-4114-91a0-7361a65ba173
+    _key: card-2-a70a23e7-4a81-40a4-9bf5-b1d1afbbade2
   - order: 2
     body: >-
       > ‘… the world would start to rot.’  
@@ -35,7 +35,7 @@ cards:
       challenging to research and quantify, scientists say they see signs these
       type of insects are on the decline, but they don't know why; mosquitoes
       and tic populations appear just fine.
-    _key: card-3-8d3d9326-15a3-4959-a27b-c5b742103078
+    _key: card-3-95b41572-defb-4d83-8576-824450099d4f
   - order: 3
     body: >-
       > “She wishes to testify, provided that we can agree on terms that are
@@ -49,7 +49,7 @@ cards:
       Brett Kavanaugh sexually assaulted her in the 1980s. According to AP,
       Ford's atty said she would testify Thursday instead, but no official
       decision has been made.
-    _key: card-4-e6dc1fc2-0291-4eb8-855f-e6ac4a71029d
+    _key: card-4-8d66587f-289a-41aa-b28d-1e1796147f86
   - order: 4
     body: >-
       > “What’s going to happen after fentanyl?’  
@@ -62,17 +62,17 @@ cards:
       epidemic, our drug overdose problem is far more wide-ranging and complex
       than any one drug. Nearly 600,000 Americans died from a drug overdose from
       1979 - 2016.
-    _key: card-5-b0c2536f-baf9-4ac9-be93-02963f44826d
+    _key: card-5-c4a144e6-ff77-45c7-84a8-f15c9c3c21f5
   - order: 5
     body: "> “The power of food is more than just the meal itself a\x14 it is the story behind it. And when you get to know the story of the recipe, you get to know the person behind it.”  \n  \n  \n  \nHRH Meghan Markle, The Duchess of Sussex, at the launch lunch of a\x18Together: Our Community Cookbook’ celebrating the Hubb community kitchen, which was created by a diverse group of London women displaced after a horrific high rise apartment fire in 2017.\n\n[Watch Now](https://www.youtube.com/embed/2gXwBYs2Ulw?enablejsapi=1&autoplay=1&rel=0)"
     citation: Watch Now
-    _key: card-6-4835b7c5-4b46-460d-b3d4-2a0d3565a5f6
+    _key: card-6-ea33e578-1b35-4588-84e8-c1cc82fef6b4
   - order: 6
     body: |-
       Have a great weekend!
 
       [view sources](https://smarthernews.com/18-09-21-qq/)
-    _key: card-10-3128d38f-e7c7-4651-b20a-b0d61a7257a5
+    _key: card-10-93f94417-ead9-4af3-9f26-84d4316bbaf7
 
 ---
 * **“These are our neighbors”: Marines pulled D.C. seniors to safety as their homes burnedA**  

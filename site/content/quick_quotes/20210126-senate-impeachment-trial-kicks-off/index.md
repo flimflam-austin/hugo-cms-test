@@ -5,29 +5,23 @@ title: >-
   Senate; Turley Is Commenting on Whether This Second Impeachment Is
   Constitutional.
 slug: 20210126-senate-impeachment-trial-kicks-off
-_id: legacy-71104337-be55-41cc-8fb0-0ec353c1451b
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-fb8a574d-d9a3-4aab-8f46-1160131c6f03
+_rev: ZEyhBiGfgCfwE8WOjbuTJp
 type: quick_quotes
 draft: false
 aliases:
   - article/senate-impeachment-trial-kicks-off/
 _createdAt: '2021-01-26T23:05:13Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2021-01-26T23:05:13+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    271d3b039b4b4a0b3b23fcf23045c888e6789f9f-1024x680.jpg
 is_breaking: false
-summary: >-
-  George Washington University law professor Jonathan Turley who spoke to
-  Republicans ahead of the second impeachment trial of Pres. Trump in the
-  Senate; Turley is commenting on whether this second impeachment is
-  constitutional.
 featured_quote:
   quote: They have a tough decision to make.
-  citation: >-
-    George Washington University law professor Jonathan Turley who spoke to
-    Republicans ahead of the second impeachment trial of Pres. Trump in the
-    Senate; Turley is commenting on whether this second impeachment is
-    constitutional.
 
 ---
 * The impeachment trial will look different than President Trump’s first trial (and others).
@@ -43,6 +37,4 @@ featured_quote:
 
 Here’s the two sides of the argument about whether to impeach or not impeach Pres. Trump for a second time:
 
-{{< youtube aC38qktpCv8 >}}f the argument about whether to impeach or not impeach Pres. Trump for a second time:
-
-{{< youtube aC38qktpCv8 >}}
+{{< youtube id=\aC38qktpCv8\ title=\The Central Argument For/Against Impeachment: Two-Sides\ >}}

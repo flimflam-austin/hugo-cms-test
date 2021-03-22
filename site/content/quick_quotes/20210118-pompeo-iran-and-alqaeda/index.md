@@ -4,29 +4,25 @@ title: >-
   Terror Group, and Iran, the World's Largest State Sponsor of Terror for the
   First Time.
 slug: 20210118-pompeo-iran-and-alqaeda
-_id: legacy-3838c00a-814a-4fda-81cf-ece199cc269c
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-e10205e5-4b9e-4ca9-b15f-29773f41e468
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - article/pompeo-iran-and-alqaeda/
 _createdAt: '2021-01-18T04:34:34Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2021-01-18T04:34:34+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    7d3ff8e130b859f11974eab40662805f915c6059-2560x1751.jpg
 is_breaking: false
-summary: >-
-  Sec. of State Mike Pompeo defining the relationship between Al Qaeda, the
-  terror group, and Iran, “the world’s largest state sponsor of terror” for the
-  first time.
 featured_quote:
   quote: >-
     Iran is, indeed, the new Afghanistan – as the key geographic hub for
     al-Qa’ida – but it’s actually worse.
-  citation: >-
-    Sec. of State Mike Pompeo defining the relationship between Al Qaeda, the
-    terror group, and Iran, “the world’s largest state sponsor of terror” for
-    the first time.
 
 ---
 * Sec. Pompeo delivered these remarks at the National Press Club a week before the end of the Trump administration, in a speech titled the “The Iran-al-Qa’ida Axis”
@@ -37,4 +33,4 @@ featured_quote:
 
 **Why This Matters:** Many have raised questions about the relationship between Al Qaeda and Iran in the past, an unlikely match to some who note the two groups observe different branches of Islam – Al Qaeda is a Sunni affiliated group while Iran practice Shia Islam. Sec. Pompeo, for the first time in detail, mapped out the relationship between the two and their common interest of targeting America. The backdrop to this speech was the killing of a high-profile Al Qaeda member in Iran earlier this year.
 
-Here’s a link to the speech – [Both text and video](https://www.state.gov/the-iran-al-qaida-axis/). It’s 15 minutes and worth a listen.ech – [Both text and video](https://www.state.gov/the-iran-al-qaida-axis/). It’s 15 minutes and worth a listen.
+Here’s a link to the speech – [Both text and video](https://www.state.gov/the-iran-al-qaida-axis/). It’s 15 minutes and worth a listen.

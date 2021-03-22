@@ -1,14 +1,14 @@
 ---
 title: 18.05.01 Ticks and Bites Oh My
 slug: 20180502-18-05-01-ticks-bites-oh
-_id: legacy-82831697-932b-4a7f-aa7a-47312f96fd13
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-2e439fa4-4c4e-4f70-a335-d234c704be0c
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-01-ticks-bites-oh/
 _createdAt: '2018-05-02T10:50:36Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-02T10:50:36+00:00'
 weight: 50
 featured_image:
@@ -38,7 +38,7 @@ cards:
 
       Flip Here
     citation: Flip Here
-    _key: card-1-95507f96-f0bd-4f7a-ac69-f88ec3781d8d
+    _key: card-1-8fd5f70a-63fd-47d5-80ea-2509b2fbd181
   - order: 1
     body: >-
       ## Important Context:
@@ -54,7 +54,7 @@ cards:
       * **DRAMATIC increase in 2016** (due to Zika).
 
       * Chikungunya and Zika outbreaks in U.S. for first time.
-    _key: card-2-f1861eeb-a02a-4f04-b5ad-7872fc3ec9d7
+    _key: card-2-a419c8f6-3e59-4216-b1cc-7e603568c869
   - order: 2
     body: >-
       ## Takeaway?
@@ -71,7 +71,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/mLumut2nQMs?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-3-2d590608-7f29-4861-acd1-ed20c68e4cee
+    _key: card-3-28391836-bcc1-4fa8-8acc-96834357a4eb
   - order: 3
     body: >-
       What can you do? EPA has a tool to help you choosing the right repellant.
@@ -79,7 +79,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-01-ticks-bites-oh/)
-    _key: card-10-3db7e648-00f8-4c24-92ae-f26fe2fa2f0e
+    _key: card-10-dd6b8e97-9fea-43c8-ad4b-a8dcee4d4106
 
 ---
 * **Find the Repellent that is Right for You**A [https://www.epa.gov/insect-repellents/find-repellent-right-you](https://www.epa.gov/insect-repellents/find-repellent-right-you)

@@ -4,28 +4,24 @@ title: >-
   Awards for 2021.
 slug: >-
   20200616-academy-president-david-rubin-and-ceo-dawn-hudson-on-delay-of-the-academy-awards-for-2021
-_id: legacy-08f9f4e3-3bed-4613-abdf-72bc307eff38
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-44365dfd-9b64-418f-b12d-795c2b2ff6be
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/academy-president-david-rubin-and-ceo-dawn-hudson-on-delay-of-the-academy-awards-for-2021/
 _createdAt: '2020-06-16T14:48:31Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2020-06-16T14:48:31+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
 is_breaking: false
-summary: >-
-  Academy president David Rubin and CEO Dawn Hudson on delay of the Academy
-  Awards for 2021.
 featured_quote:
   quote: >-
     ...movies have played an important role in comforting, inspiring, and
     entertaining us during the darkest of times. They certainly have this year.
-  citation: >-
-    Academy president David Rubin and CEO Dawn Hudson on delay of the Academy
-    Awards for 2021.
 
 ---
 * The Academy Awards have been postponed from February to late April 2021 due to concerns over coronavirus.
@@ -33,4 +29,4 @@ featured_quote:
 * Other awards show are expected to follow.
 * Why This Matters: The Oscars have been a presence in America since the 1930s. After years of questions over lower ratings, controversy over race and gender discrimination in the wake of #MeToo & #OscarsSoWhite, how will the Academy evolve considering the current environment?
 
-Read More: [CLICK HERE](https://variety.com/2020/film/news/oscars-2021-postponed-coronavirus-1234635457/)oscars-2021-postponed-coronavirus-1234635457/)
+Read More: [CLICK HERE](https://variety.com/2020/film/news/oscars-2021-postponed-coronavirus-1234635457/)

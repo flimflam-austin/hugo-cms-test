@@ -1,14 +1,14 @@
 ---
 title: 18.08.03 Apple $1t
 slug: 20180803-18-08-03-apple-1t
-_id: legacy-9507fad0-2adf-4e5a-a4d6-bdd868f604da
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-dd4e69db-e1fd-490e-922a-2167c937d7ad
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-08-03-apple-1t/
 _createdAt: '2018-08-03T13:49:15Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-08-03T13:49:15+00:00'
 weight: 50
 card_series: Money
@@ -31,7 +31,7 @@ cards:
 
       Why $1T?
     citation: Why $1T?
-    _key: card-1-66682d8a-cce0-4fc3-8ea9-1ff21ce041e8
+    _key: card-1-3439a9e2-f122-4394-baa2-8c1f384dce5f
   - order: 1
     body: >-
       ## iPhone Center Stage
@@ -46,7 +46,7 @@ cards:
 
       * Apple “beat” expectations, but some analysts lowered #’s wks ago because
       of concerns re: iPhone sales.
-    _key: card-2-678d1df0-8e5f-4a3b-836d-ac68a36a42e5
+    _key: card-2-f14402ee-2c29-444f-868b-391c484253cf
   - order: 2
     body: >-
       # What’s Next?
@@ -59,7 +59,7 @@ cards:
         
       Some Wall Street analysts think Apple’s stock has room to trade even
       higher, which would lift its market cap OVER $1T.
-    _key: card-3-99365796-da4e-4fd9-9b8b-0acbb9be04b9
+    _key: card-3-3168f5ff-d55d-42b1-8567-bdcdcfc5f078
   - order: 3
     body: >-
       ## Why $1T Ain’t Everything
@@ -73,7 +73,7 @@ cards:
         
       NYU professorA Aswath Damodaran to CNBC, pointing out that even if Apple's
       iPhone sales slow now, its CURRENT customer base has great value.
-    _key: card-4-3f6b4474-2e97-45fb-a0ea-257ef4923c95
+    _key: card-4-6dc4434f-a4b0-4cad-87bf-74c6a37b7acc
   - order: 4
     body: >-
       Food for thought: Apple makes many of its products in China, where trade
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-03-apple-1t/)
-    _key: card-10-1be90027-53ef-40be-b643-c87c69dd35b7
+    _key: card-10-31a49b9e-491c-42b9-acf6-8d0bbd612dd7
 
 ---
 * **Apple hangs onto its historic $1 trillion market cap:**  

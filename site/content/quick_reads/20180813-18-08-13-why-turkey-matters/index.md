@@ -1,14 +1,14 @@
 ---
 title: 18.08.13 Why Turkey Matters
 slug: 20180813-18-08-13-why-turkey-matters
-_id: legacy-5b14e728-2be7-42de-8df0-2dd5d184577e
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-024a482b-8547-4d23-8d11-750e569a42c9
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-13-why-turkey-matters/
 _createdAt: '2018-08-13T11:46:24Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-13T11:46:24+00:00'
 weight: 50
 featured_image:
@@ -29,10 +29,10 @@ cards:
 
       The worldwide impact
     citation: The worldwide impact
-    _key: card-1-7b99a71c-21f3-4de1-89e6-ede9b09e1d33
+    _key: card-1-bdc264a2-5eb3-456b-9cf5-b0bd559e5715
   - order: 1
     body: "> “Turkey is a NATO ally & a traditional buffer between the West and the Middle East. A …Over the last decade, however, under President ErdoA\x1Fan, the country has become increasingly radical and anti-American. **We are watching our alliance with the crucial country unravel in real time.**“  \n  \n  \n  \nDr. Jonathan Schnanzer, Senior VP with an expertise on Turkey for the Foundation For Defense of Democracies, to SmartHER News"
-    _key: card-2-74dd17c7-8083-4493-b2c4-d8d382608e55
+    _key: card-2-7fb9baf8-fcd7-4056-9cf7-1e500c47a9b6
   - order: 2
     body: >-
       ## Turkey: What’s Going On?
@@ -49,7 +49,7 @@ cards:
 
       The U.S.A.?
     citation: The U.S.A.?
-    _key: card-3-6e89374a-dd2a-4d6e-bf9f-cc41ac4d7402
+    _key: card-3-e4846b61-1eb5-41b5-a9bd-ca7ddf6d188d
   - order: 3
     body: >-
       > “Our relations with Turkey are not good at this time!”  
@@ -66,13 +66,13 @@ cards:
 
       * **Sanctions didn’t cause Turkey’s economic crisis,** but added attention
       to it.
-    _key: card-4-3c3667e1-f0ab-4ea7-a96c-75d2579997ae
+    _key: card-4-20b50862-cafb-4ded-b246-b9d62ab8a54f
   - order: 4
     body: "# What Turkey Says:\n\n> ‘What is the reason for all this storm in a tea cup? There is no economic reason for thisa| This is called carrying out an operation against Turkey,’  \n  \n  \n  \nPresident ErdoA\x1Fan, speaking at a rally on Sunday August 11, 2018"
-    _key: card-5-2ad98c84-c2ef-4c53-97cd-fd1bccaf33bb
+    _key: card-5-b14746e2-eb00-44eb-9134-33f2380a6a34
   - order: 5
     body: "Bigger Picture: Turkey became a member of NATO (North Atlantic Treaty Organization) in 1952, 3 years after NATO was established. Pres. ErdoA\x1Fan threatened in a NYT editorial to walk away from the alliance & find new friends (many read this as Russia). Read it here.\n\n[view sources](https://smarthernews.com/18-08-13-why-turkey-matters/)"
-    _key: card-10-b351cb82-8758-4e40-9298-6ac11c210099
+    _key: card-10-eaa77464-f334-4376-a586-3f0f8b98d853
 
 ---
 Jonathan Schanzer to SmartHER News:A _Turkey is a NATO ally and a traditional buffer between the West and the Middle East. And it has been extremely useful in this regard in terms of helping us keep the US-led order in the Middle East. Over the last decade, however, under President Recep Tayyip Erdogan, the country has become increasingly radical and anti-American. We are watching our alliance with the crucial country unravel in real time. And **we may also be watching Turkey switch sides from America to Team Russia and Iran.A [http://www.defenddemocracy.org/about-fdd/team-overview/schanzer-jonathan/](http://www.defenddemocracy.org/about-fdd/team-overview/schanzer-jonathan/)**_

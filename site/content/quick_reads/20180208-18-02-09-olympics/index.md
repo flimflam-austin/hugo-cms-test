@@ -1,14 +1,14 @@
 ---
 title: 18.02.09 Olympics
 slug: 20180208-18-02-09-olympics
-_id: legacy-ba830262-9dc5-483c-9122-afcdcd31abd2
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-0f69a296-6e76-4858-aee4-0c2c4f5dfc0e
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-09-olympics/
 _createdAt: '2018-02-09T06:01:52Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-09T06:01:52+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
       * 7 sets of siblings
 
       * 1 married couple
-    _key: card-1-d8efbe77-c1ce-44dd-b4bb-b6d3c4d6020d
+    _key: card-1-4799ca51-69b4-43b6-b46d-3bfb58110716
   - order: 1
     body: |-
       Name To Know:  
@@ -47,7 +47,7 @@ cards:
       * She’s the **only** mother on Team USA; Infant son.
       * Lives & trains in Anchorage, Alaska.
       * 4x Olympian; Never earned an Olympic Medal.
-    _key: card-2-d5730944-0578-4a11-bee9-7fb85ea2e85e
+    _key: card-2-9685ea66-1f11-4269-a713-a50dc2da3581
   - order: 2
     body: >-
       ## WOMEN OLYMPIC FIRSTS:
@@ -58,7 +58,7 @@ cards:
 
       **2012:** First time every participating country included a women athlete
       & the first time women participated in every Olympic game.
-    _key: card-3-a6a4c32f-d795-4cbe-94d2-b2a9be444b54
+    _key: card-3-9fba4f89-3dd9-4892-a1d5-b86df951e01c
   - order: 3
     body: >-
       ## TEAM USA WOMEN “FIRSTS”:
@@ -70,10 +70,10 @@ cards:
 
       **2014:**A For the first time, American women outpace the men earning more
       than half of the team’s medals (58 of 103).
-    _key: card-4-a86c4fc1-ada2-4838-b67f-7a5f5c479538
+    _key: card-4-ce04d255-fe42-46e3-aa6d-dd9d70e162a8
   - order: 4
     body: '[view sources](https://smarthernews.com/18-02-09-olympics/)'
-    _key: card-10-3aea710c-1f8c-44ae-9cd8-f745d9a97126
+    _key: card-10-5f21c6f5-13c4-42e0-ac9e-e66a081fdc1a
 
 ---
 [U.S. Olympic Committee Announces 242-Member 2018 U.S. Olympic Team](https://www.teamusa.org/News/2018/January/26/US-Olympic-Committee-Announces-242-Member-2018-US-Olympic-Team)

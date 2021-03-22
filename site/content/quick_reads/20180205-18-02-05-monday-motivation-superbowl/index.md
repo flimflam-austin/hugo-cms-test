@@ -1,14 +1,14 @@
 ---
 title: 18.02.05 Monday Motivation Superbowl
 slug: 20180205-18-02-05-monday-motivation-superbowl
-_id: legacy-f8a517af-535a-46f6-bf8c-4b9b461b809c
-_rev: XOnQP8cIThhnw9BWFxSjgf
+_id: legacy-377c3305-0425-4b3f-9693-49277363c0ca
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-05-monday-motivation-superbowl/
 _createdAt: '2018-02-05T12:32:50Z'
-_updatedAt: '2021-03-16T11:57:58Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-05T12:32:50+00:00'
 weight: 50
 featured_image:
@@ -25,7 +25,7 @@ cards:
         
         
       Nick Foles, Phil Eagles QB & Super Bowl MVP on post-football career plans.
-    _key: card-1-0a367763-1dc3-4d3a-9864-824b7b6b7991
+    _key: card-1-e6da0055-0c51-48b9-87f9-ea9b91c1e9d3
   - order: 1
     body: >-
       # Philadelphia Eagles Win Super Bowl
@@ -39,7 +39,7 @@ cards:
 
       * Center Jason Kelce, emotional post game, inspired by Calvin Coolidge
       quote (flip to see).
-    _key: card-2-b9aaeac6-5358-4c7d-95ed-f21775241f36
+    _key: card-2-596a71b4-ee75-4f9a-a7bf-e6ffeced2ca6
   - order: 2
     body: >-
       ‘Nothing in this world can take the place of persistence. Talent will not;
@@ -47,7 +47,7 @@ cards:
       unrewarded genius is almost a proverb. Education will not; the world is
       full of educated derelicts. Persistence and determination alone are
       omnipotent.’
-    _key: card-3-36dc5c14-b951-41f3-8231-8d64c619ee9f
+    _key: card-3-238d5f8e-f24a-4221-af28-fd64b8bf1809
   - order: 3
     body: >-
       Watch Eagles' emotional reaction to win & more:
@@ -55,7 +55,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-02-05-monday-motivation-superbowl/)
-    _key: card-10-e1d953e0-5eaa-4187-ab8c-62ba029fa257
+    _key: card-10-52c109ec-040c-474a-8fbc-6e3c64433c82
 
 ---
 1. Eagle Center Gets Emotional Over Win: [https://twitter.com/CBSSports/status/960386085615386625/video/1](https://twitter.com/CBSSports/status/960386085615386625/video/1)

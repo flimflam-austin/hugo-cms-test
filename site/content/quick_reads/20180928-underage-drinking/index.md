@@ -1,14 +1,14 @@
 ---
 title: Underage Drinking & the Supreme Court Nominee
 slug: 20180928-underage-drinking
-_id: legacy-4491bc50-64a7-43f8-a837-d3ee417023db
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-df87202e-5277-4019-b5fc-862b43f833e6
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - underage-drinking/
 _createdAt: '2018-09-28T11:41:14Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-09-28T11:41:14+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       WHAT TO KNOW
     citation: WHAT TO KNOW
-    _key: card-1-282281c9-16ec-4696-84d4-a597a5f1ae57
+    _key: card-1-f7adf8cb-0520-40a7-935f-50f07321c860
   - order: 1
     body: >-
       ## 3 ALLEGATIONS
@@ -46,7 +46,7 @@ cards:
 
       * Underage drinking at parties. Allegations = overall “abusive and
       physically aggressive behavior toward girls.”
-    _key: card-2-8b6972fb-f480-494a-844a-02e96dda742d
+    _key: card-2-e65911f9-56dd-4f61-b9df-e8f182413a67
   - order: 2
     body: >-
       > “I drank beer with my friends. Almost everyone did. Sometimes I had too
@@ -60,7 +60,7 @@ cards:
       points out in his testimony, the drinking age in Maryland during his youth
       was 18; In current context "underage drinking" refers to anyone younger
       than 21.
-    _key: card-3-a0d20f3f-768a-4d59-a945-039dc4912afa
+    _key: card-3-b3a134e5-d0fd-4ca9-99f7-693e77591cb5
   - order: 3
     body: >-
       ## Underage Drinking: U.S.A.
@@ -77,7 +77,7 @@ cards:
       “**Although drinking by persons under the age of 21 is illegal, people
       aged 12 to 20 years drink 11% of all alcohol consumed in the United
       States.**” (CDC)
-    _key: card-4-d7433a77-a6b0-45e3-97a8-6ae2f6df9a75
+    _key: card-4-28276cfb-5e74-4cf6-845c-e123edda64ec
   - order: 4
     body: >-
       ## Something To Consider
@@ -91,7 +91,7 @@ cards:
         
       National Institute on Alcohol Abuse and Alcoholism that states other risks
       include drinking & driving accidents, suicides and drowning.
-    _key: card-5-b883a801-2479-4f4a-8eb1-52107ff3f294
+    _key: card-5-9c2e332b-8b70-410e-a8c5-6080066eaa61
   - order: 5
     body: >-
       The most recent data available showed a slight decline in underage
@@ -100,7 +100,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/underage-drinking/)
-    _key: card-10-8a51b1be-b69f-476f-8aff-24f61a52f160
+    _key: card-10-6bffae9a-6e85-48b0-bc37-ef450973aabb
 
 ---
 * **Underage Drinking:**  

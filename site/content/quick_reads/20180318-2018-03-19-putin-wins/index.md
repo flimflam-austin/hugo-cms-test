@@ -1,14 +1,14 @@
 ---
 title: 2018.03.19 Putin Wins
 slug: 20180318-2018-03-19-putin-wins
-_id: legacy-7581496f-0bdd-48f2-aa8f-d8ba0ed1ded3
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-ce888c6f-ccb5-479c-9546-81a6ff58018c
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 2018-03-19-putin-wins/
 _createdAt: '2018-03-19T12:15:47Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-19T12:15:47+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       How Long Can He Stay in Power Anyway?
     citation: How Long Can He Stay in Power Anyway?
-    _key: card-1-451e56a1-56c2-4049-b238-86014c0809b0
+    _key: card-1-41affbf9-3ab4-489f-8616-da0412030826
   - order: 1
     body: >-
       ## Putin in Power
@@ -43,7 +43,7 @@ cards:
 
       Another 6 year term extends his lock on power to **24 years**, longer than
       any Russian leader since Soviet Joseph Stalin (12 years).
-    _key: card-2-32c1801b-f678-4400-baab-c97c345ab8ea
+    _key: card-2-91c6c428-be1f-4c4e-8b0a-4a54bb59dc4d
   - order: 2
     body: >-
       ## Election Notes
@@ -58,7 +58,7 @@ cards:
 
       Election Day was moved to March 18, the 4th anniversary of Russia’s
       seizure of Crimea.
-    _key: card-3-c2cbca16-0d59-48e4-a4bb-47730bcebc16
+    _key: card-3-49fde4bb-ea72-43be-8ebc-e42c8faff8e6
   - order: 3
     body: >-
       ## Putin Fast Facts
@@ -78,7 +78,7 @@ cards:
 
       * Tough-guy image:A rode horseback shirtless, treated a tranquilizedA
       tiger & a polar bear
-    _key: card-4-4891fd92-de0c-43d5-a690-858a56648416
+    _key: card-4-8b30cdc5-ca1c-4b6d-ad34-11db173bd7e8
   - order: 4
     body: >-
       ## Putin: Alleged Poisoning
@@ -91,7 +91,7 @@ cards:
       * First public comments: Putin says it’s “nonsense” to think Russia would
       be involved before major election or before hosting World Cup this summer,
       but he’s ready to cooperate with investigation.
-    _key: card-5-61dc3c6f-3a09-4df2-8900-60282760f7ea
+    _key: card-5-50423fdd-7b7f-407f-bba9-02824c9fd84f
   - order: 5
     body: >-
       See what President Putin said when asked if he was planning any changes in
@@ -100,7 +100,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/2018-03-19-putin-wins/)
-    _key: card-10-e75439a4-176b-4e02-8e1c-a2e0ce09040c
+    _key: card-10-6a2dbac3-aeb2-4c64-9afb-26570b47e1c1
 
 ---
 * Putin overwhelmingly wins another 6 years as Russian leaderA [https://apnews.com/e5fe39460453405cb3b110abecfe0ce5/Putin-overwhelmingly-wins-another-6-years-as-Russian-leader](https://apnews.com/e5fe39460453405cb3b110abecfe0ce5/Putin-overwhelmingly-wins-another-6-years-as-Russian-leader)

@@ -1,14 +1,14 @@
 ---
 title: 18.03.27 Russia & Americans in Space
 slug: 20180327-18-03-27-russia-americans-space
-_id: legacy-d69560b0-c7a7-4aa9-86d2-c57ddc966a18
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-3ccb1616-8019-4fa0-bf56-14a106ee23d0
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-27-russia-americans-space/
 _createdAt: '2018-03-27T11:52:21Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-27T11:52:21+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip For Why It Matters
     citation: Flip For Why It Matters
-    _key: card-1-6a325cd5-8aa3-4772-b2b6-0b2b16345c84
+    _key: card-1-32bdae6b-39b2-46b2-96c7-ba51b6371082
   - order: 1
     body: >-
       # 250
@@ -48,7 +48,7 @@ cards:
 
       * 2 Americans & 1 Russian arrived at ISS over the last week bringing crew
       total:A 4 Americans, 1 Russian & 1 Japanese.
-    _key: card-2-ce73e79b-d4ae-4fd3-aa3f-faecc0e17e16
+    _key: card-2-f38ced1c-e3ed-4f29-99c4-3ce47534f25f
   - order: 2
     body: >-
       ## Working Together
@@ -62,7 +62,7 @@ cards:
 
       * U.S. relies on Russia for transportation to and from ISS (since
       “retirement” of U.S. space shuttle program).
-    _key: card-3-454d01f5-361a-4948-a589-21e01d39bb41
+    _key: card-3-3fb9013d-a697-470d-8ac1-8116d815f558
   - order: 3
     body: >-
       _“The ISS has remained the only reason for Russia and the United States to
@@ -73,7 +73,7 @@ cards:
       Pavel Luzin, Russian Professor  
 
       August 29, 2017
-    _key: card-4-0d6fbdc7-36cb-46cb-b621-9309e3e2f4ed
+    _key: card-4-b075da70-16d4-4d9b-a333-ca50d9692929
   - order: 4
     body: >-
       Did you know? 18 countries have traveled to the International Space
@@ -81,7 +81,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-27-russia-americans-space/)
-    _key: card-10-675c4013-30df-4688-aacf-47bec3c38daa
+    _key: card-10-5f63c835-2e23-4db2-885c-ef34ea01f7b8
 
 ---
 * Two NASA Astronauts Among Crew Heading to International Space Station:A [https://www.nasa.gov/press-release/two-nasa-astronauts-among-crew-heading-to-international-space-station](https://www.nasa.gov/press-release/two-nasa-astronauts-among-crew-heading-to-international-space-station)

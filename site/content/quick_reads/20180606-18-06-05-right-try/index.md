@@ -1,14 +1,14 @@
 ---
 title: 18.06.05 Right to Try
 slug: 20180606-18-06-05-right-try
-_id: legacy-2b8b0551-6b0b-49e2-b142-0016f5405322
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-169a32b8-ff1a-4efe-a283-d5bccce74f9e
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-05-right-try/
 _createdAt: '2018-06-06T10:32:16Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-06T10:32:16+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
       Pres. Trump at the May 30 signing of the 'Right to Try' bill, aimed at
       helping the 1M+ terminally ill patients who die each year access drugs
       pending final FDA approval.
-    _key: card-1-dc38c31f-b9b1-4a23-8801-ff1b19f4c74a
+    _key: card-1-2e7ff7a9-da95-4876-9869-79371a490e9b
   - order: 1
     body: >-
       ## The ‘Right To Try’ Law
@@ -47,7 +47,7 @@ cards:
       * Drug must pass FDA approval phase #1.
 
       * Eliminates existing FDA application requirements.
-    _key: card-2-1246854f-8e48-413a-befd-b2c964ad6cc0
+    _key: card-2-f16fb53f-e41a-4fe3-876b-92b7e80a9719
   - order: 2
     body: >-
       # Why Does This Matter?
@@ -63,7 +63,7 @@ cards:
 
       * On average, a new cancer drug spends **14 years** being studied and
       undergoing clinical trials BEFORE it gets approved.
-    _key: card-3-1b416492-312e-4b11-94bd-e02927cb241a
+    _key: card-3-74fd2189-264b-4a7b-b683-79a0fea82cd4
   - order: 3
     body: >-
       ## Something To Consider
@@ -77,7 +77,7 @@ cards:
       * Drug manufacturers are NOT mandated to undergo clinical trials OR
       provide experimental drugs OR produce large enough amt of drugs to ensure
       availability.
-    _key: card-4-d268c938-9d77-4b20-9961-f3a883a5b2f3
+    _key: card-4-6cd307d3-2a98-4df2-94c8-f95f13c99ab4
   - order: 4
     body: >-
       Under its Expanded Access (Compassionate Use) program, the FDA already
@@ -86,7 +86,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-05-right-try/)
-    _key: card-10-91459b2e-d271-4dd6-b878-fab62747ea26
+    _key: card-10-03d22281-5505-4aa6-be60-077ad09b52c9
 
 ---
 * **Remarks by President Trump at S.204, Right to Try Bill Signing:** [https://www.whitehouse.gov/briefings-statements/remarks-president-trump-s-204-right-try-bill-signing](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-s-204-right-try-bill-signing)

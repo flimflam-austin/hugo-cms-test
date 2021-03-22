@@ -1,14 +1,14 @@
 ---
 title: 2018.03.21 Otd Alcatraz
 slug: 20180320-2018-03-21-otd-alcatraz
-_id: legacy-399cc315-4d38-4c57-8a67-c5d5941b69c7
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-9351419d-cc92-459f-8477-c00ece6d5551
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 2018-03-21-otd-alcatraz/
 _createdAt: '2018-03-21T12:45:48Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-21T12:45:48+00:00'
 weight: 50
 featured_image:
@@ -37,7 +37,7 @@ cards:
 
       tap here for more
     citation: tap here for more
-    _key: card-1-a9e4fe4b-d916-4730-935a-d0e8ffc1dac9
+    _key: card-1-07c1eadc-910e-4020-b601-231c1737f445
   - order: 1
     body: >-
       ## Behind the Prison Walls
@@ -55,7 +55,7 @@ cards:
 
       WHY DID IT CLOSE?
     citation: WHY DID IT CLOSE?
-    _key: card-2-8d7d8d9a-f50d-41b3-a282-9f158d92c545
+    _key: card-2-6c297c56-70ea-468a-8a24-15e7a6d19263
   - order: 2
     body: >-
       ## Turns out a prison on an island = EXPEN$IVE
@@ -71,7 +71,7 @@ cards:
       inmate at Alcatraz was $10.10 vs. $3 at a U.S. prison in Atlanta._)
 
       * U.S. Gov’t: more cost effective to close Alcatraz & build new.
-    _key: card-3-a15e9512-91fa-42c7-8d8d-911bd999cc2d
+    _key: card-3-64b68f0a-ec8d-4c68-b854-e3c1909e5e6a
   - order: 3
     body: >-
       # DOIN’ TIME
@@ -88,7 +88,7 @@ cards:
       * **George “Machine-Gun” KellyA**
 
       * Alvin Karpis (**first “Public Enemy #1”**)
-    _key: card-4-79fa46bc-6152-44c3-9e69-ae41680506a4
+    _key: card-4-e0435855-0513-4562-9abe-c63a0b8f43be
   - order: 4
     body: |-
       # No Escaping the Rock
@@ -99,7 +99,7 @@ cards:
 
       BUT... there were these 3 guys...
     citation: BUT... there were these 3 guys...
-    _key: card-5-ed9daf4e-f15c-4435-999f-00b1b32df21e
+    _key: card-5-3c3739b9-489f-41df-8752-e597f881261d
   - order: 5
     body: >-
       ## Alcatraz’s Great Mystery
@@ -118,7 +118,7 @@ cards:
       [Click: Did They
       Survive](https://www.cbsnews.com/news/alcatraz-inmates-survived-infamous-1962-escape-letter-suggests/)
     citation: 'Click: Did They Survive'
-    _key: card-6-726b19bf-2722-4ad3-803e-c5054daecea1
+    _key: card-6-65553548-9223-4c00-b123-337ca2a02981
   - order: 6
     body: >-
       Prison to Tourist Hot Spot
@@ -135,7 +135,7 @@ cards:
 
 
       Now 1M tourists visit each year.
-    _key: card-7-ec7dc758-dbd5-4428-8416-025caf56f6d9
+    _key: card-7-136e5307-29b6-497f-863b-20620784c95d
   - order: 7
     body: >-
       Did you know "The Rock" almost became a shopping mall after it closed?
@@ -143,7 +143,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/2018-03-21-otd-alcatraz/)
-    _key: card-10-7a15c38a-303c-4d2a-ac3c-5beeca818543
+    _key: card-10-4e93af8e-3c57-4b6f-9364-16237f573654
 
 ---
 * History of Alcatraz: [https://www.history.com/ topics/alcatraz](https://www.history.com/)

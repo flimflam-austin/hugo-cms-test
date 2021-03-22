@@ -1,14 +1,14 @@
 ---
 title: 18.02.26 Wtc Bombing 1993
 slug: 20180226-18-02-26-wtc-bombing-1993
-_id: legacy-c05a61a9-afa5-463d-940f-72f7379de1b0
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-8019b17b-06b9-4c0f-bbcd-38e327bdef93
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-26-wtc-bombing-1993/
 _createdAt: '2018-02-27T00:35:17Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-27T00:35:17+00:00'
 weight: 50
 featured_image:
@@ -30,10 +30,10 @@ cards:
 
       Just past noon, 2 of 7 terrorists drove a truck into the WTC’s basement
       garage & detonated the bomb before fleeing the scene.
-    _key: card-1-36f05639-6c1d-4e96-a7e8-1db77d12a853
+    _key: card-1-72ec687c-1e37-4bcc-896a-396d9e150175
   - order: 1
     body: "February 26, 1993  \nFriday 12:17 pm\n\n> “…Middle Eastern terrorism had arrived on American soila\x14with a bang”  \n  \n  \n  \nFBI, First Strike: Global Terror in America"
-    _key: card-2-5725fe7c-6c48-48a5-bc17-48cebacb51fb
+    _key: card-2-b86d0fc3-6a29-4547-9dd0-7e793291dc78
   - order: 2
     body: >-
       # 1993 WTC Bombing
@@ -48,7 +48,7 @@ cards:
 
       * Yousef’s uncle, Khalid Sheikh Mohammed, called the mastermind of 9/11,
       is currently detained at Guantanamo Bay.
-    _key: card-3-97e3479b-baed-471c-8026-2c6c38f0de8e
+    _key: card-3-7adee5d3-480c-4cbb-ae8b-26ce0051b1e0
   - order: 3
     body: |-
       # al-Qaeda Inspired Attacks On US Soil
@@ -58,7 +58,7 @@ cards:
       * 2009: Attempted “underwear bombing” on US-bound jetliner
       * 2010: Attempted car bombing in NYC’s Times Square
       * 2013: Boston Marathon bombing
-    _key: card-4-8b38af35-8f0c-44b2-93d2-650f363b49b3
+    _key: card-4-9152c11f-7d7c-471b-b1b6-9d461ecab9fa
   - order: 4
     body: >-
       ICYMI:  
@@ -74,7 +74,7 @@ cards:
       [Click For Full
       Article](http://www.bostonherald.com/news/local_coverage/2018/02/dzhokhar_tsarnaev_s_college_pal_robel_phillipos_slated_for_release_today)
     citation: Click For Full Article
-    _key: card-5-ba36353f-5cc0-4d86-af55-2850f6a6508a
+    _key: card-5-ce99ab8b-a863-4ff7-870e-f320d7802da8
   - order: 5
     body: >-
       One terrorist from 1993 WTC bombing remains at large. Click to see FBI
@@ -82,7 +82,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-26-wtc-bombing-1993/)
-    _key: card-10-aca2b393-060c-424d-9f62-cf4fe4301e3f
+    _key: card-10-881515d0-b271-44a6-998d-2dc27516a2d5
 
 ---
 * FBI MOST WANTED:A [https://www.fbi.gov/wanted/wanted_terrorists/abdul-rahman-yasin/download.pdf](https://www.fbi.gov/wanted/wanted_terrorists/abdul-rahman-yasin/download.pdf)

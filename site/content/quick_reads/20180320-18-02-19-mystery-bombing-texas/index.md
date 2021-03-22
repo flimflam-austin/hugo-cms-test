@@ -1,14 +1,14 @@
 ---
 title: 18.02.19 Mystery Bombing in Texas
 slug: 20180320-18-02-19-mystery-bombing-texas
-_id: legacy-f0c9bfdd-7266-41f3-beea-b3a337018c1b
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-87a64f89-cae8-4ad7-b0ad-70f65add5f12
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-19-mystery-bombing-texas/
 _createdAt: '2018-03-20T11:15:23Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-20T11:15:23+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
         
       Chief Chief Brian Manley, Austin Police Department, Press Conference,
       March 19, 2018
-    _key: card-1-1029154b-8de3-492e-92db-c3cc0c7e05f4
+    _key: card-1-73a60170-4246-4cab-babb-0156bedc1f74
   - order: 1
     body: |-
       ## Backstory: Bombs
@@ -46,7 +46,7 @@ cards:
 
       Flip For Timeline
     citation: Flip For Timeline
-    _key: card-2-011549bf-c8f5-4e8b-b121-287b9093efd9
+    _key: card-2-0e310bf3-e687-4e67-b4e9-7d849176cd75
   - order: 2
     body: >-
       * **March 2**: pkg bomb killed 39-year-old man in Northeast Austin.
@@ -57,7 +57,7 @@ cards:
 
       * **March 18**: 2 yet-to-be identified 20-year-old “anglo” males injured
       while walking down the street in a residential area of Southwest Austin.
-    _key: card-3-b3b9a994-c797-4a46-b69b-75a45c340309
+    _key: card-3-c16a8a5d-6f37-4bb2-89bd-6c136398ff56
   - order: 3
     body: >-
       ## Latest Incident:
@@ -70,7 +70,7 @@ cards:
       _“According to San Antonio media reports, the package detonated around
       12:25 a.m. as it traveled on a conveyor belt …the package blasted out
       metal shrapnel and nails when it exploded.”A_ Austin Statesman
-    _key: card-4-a1d3207a-b849-46b8-b4e4-23808ffd513e
+    _key: card-4-79b05fa0-f2a9-4eb3-b05f-a640996f843f
   - order: 4
     body: >-
       ## What You Should Know:
@@ -84,7 +84,7 @@ cards:
 
       * Tripwire use also indicates a **level of sophistication**, according to
       law enforcement.
-    _key: card-5-645543b4-87cb-4f1a-8497-581059ddbb18
+    _key: card-5-362f0e9e-cce1-498d-99bc-b358afb24f2b
   - order: 5
     body: >-
       # What Now?
@@ -100,7 +100,7 @@ cards:
       Average American homeowner receives **27 pkgs** **a year** (younger
       generation receives even more). **Nearly 45 million pkgs delivered
       everyday in U.S.A** (_Package Guard_)
-    _key: card-6-9ee11ef7-6a00-4502-9370-7ed2dae71510
+    _key: card-6-7dad27d6-231c-40dd-b616-8cfb733b2741
   - order: 6
     body: >-
       Law enforcement offering $100,000 reward for information leading to arrest
@@ -108,7 +108,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-19-mystery-bombing-texas/)
-    _key: card-10-6d73770e-4690-46cb-9a40-967918e31dc7
+    _key: card-10-a1ff1fe2-66b0-4b7b-9dca-3608645a2558
 
 ---
 * FBI Press Release:A [https://www.fbi.gov/contact-us/field-offices/sanantonio/news/press-releases/austin-police-department-atf-and-fbi-seek-information-on-package-bomb-murders](https://www.fbi.gov/contact-us/field-offices/sanantonio/news/press-releases/austin-police-department-atf-and-fbi-seek-information-on-package-bomb-murders)

@@ -1,14 +1,14 @@
 ---
 title: 18.04.17 Black Panther Head to House of Saud
 slug: 20180419-18-04-17-black-panther-head-house-saud
-_id: legacy-8b580967-c78b-41fd-87a7-f45c970f5fd1
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-59fac006-af14-4811-8a07-e07c351b8de4
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-17-black-panther-head-house-saud/
 _createdAt: '2018-04-19T10:51:21Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-19T10:51:21+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       Flip For Why It Matters
     citation: Flip For Why It Matters
-    _key: card-1-765d0916-d97a-4256-b3ba-8eece76aecbe
+    _key: card-1-f975bc32-6b6f-4fd5-ba58-e8d37b09dcfb
   - order: 1
     body: >-
       # Why Now?
@@ -52,7 +52,7 @@ cards:
       [click here:
       Catch-Up](https://smarthernews.com/18-04-03-saudi-spring-break/)
     citation: 'click here: Catch-Up'
-    _key: card-2-506699af-c84f-47cc-bdcb-ecb33acca4fb
+    _key: card-2-ac70a0b3-17d5-4a60-a66d-4ff1398e5d2b
   - order: 2
     body: >-
       # Money & Politics
@@ -69,7 +69,7 @@ cards:
 
       * **Reforms geared towards the young but keeping the Saudi royal kingdom
       intact**.
-    _key: card-3-78111bf4-68f2-4212-b7c1-fc174d09537b
+    _key: card-3-eb037574-bc4c-47fb-9acf-39dabff3cecc
   - order: 3
     body: >-
       ## Something To Consider:
@@ -83,7 +83,7 @@ cards:
 
       * Other Muslim nations like Bahrain and United Arab Emirates *already*
       show movies.
-    _key: card-4-04505285-d61c-4857-bdeb-66652dcb1f96
+    _key: card-4-f418fecb-17a2-40b7-9dc0-2ab4db226be2
   - order: 4
     body: >-
       ## So Why Outlaw Movies?
@@ -101,10 +101,10 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/rUIOf__zcxc?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-5-a21f662b-1a8b-475f-9ffa-7be42a9ae9ee
+    _key: card-5-454ac2e7-56f9-40e8-974b-11ec91e9d2be
   - order: 5
     body: "> “Films are slightly edited and modified to reflect sensitivity to the local culture here in the region. But even with those modest edits a\x14 you can imagine what they are, sexuality and nudity are out a\x14 but we believe that those edits will be quite modest.”  \n  \n  \n  \nAdam Aron, AMC Chief Executive, to CNBC April 18, 2018. He said the company rushed in when they heard of an opportunity in Saudi Arabia."
-    _key: card-6-e86e3165-3e51-4454-aa55-b10607262c0b
+    _key: card-6-ed31b05c-a5cf-4d58-a42b-cc6cf6e4ee0d
   - order: 6
     body: >-
       AMC plan to open 40 theaters over the next 5 years in Saudi Arabia. Next
@@ -113,7 +113,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-04-17-black-panther-head-house-saud/)
-    _key: card-10-de9ada74-d2cb-40d1-85d1-8e83ea622fde
+    _key: card-10-76006b95-7120-44cc-897d-3971bdf8c855
 
 ---
 * Saudi Arabia ends 35-year ban on cinemas with ‘Black Panther’ screening: [https://www.smh.com.au/entertainment/movies/saudi-arabia-ends-35-year-ban-on-cinemas-with-black-panther-screening-20180419-p4zaes.html](https://www.smh.com.au/entertainment/movies/saudi-arabia-ends-35-year-ban-on-cinemas-with-black-panther-screening-20180419-p4zaes.html)

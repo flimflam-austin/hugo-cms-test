@@ -4,27 +4,19 @@ title: >-
   Denying to Hear a Texas Lawsuit Against Four Battleground States, Asking for
   Their Election Results to Be Overturned.
 slug: 20201213-rudy-giuliani-texas-lawsuit
-_id: legacy-27e7601e-4daf-4f7d-b373-2d1df1d0e96f
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-7ef535bf-ec2a-4cb7-bfd2-20d17573b1e3
+_rev: ZEyhBiGfgCfwE8WOjbuN87
 type: quick_quotes
 draft: false
 aliases:
   - article/rudy-giuliani-texas-lawsuit/
 _createdAt: '2020-12-14T04:40:55Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:19Z'
 date: '2020-12-14T04:40:55+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  Rudy Giuliani, President Trump’s personal attorney, on the Supreme Court
-  denying to hear a Texas lawsuit against four battleground states, asking for
-  their election results to be overturned.
 featured_quote:
   quote: We’re not finished. Believe me.
-  citation: >-
-    Rudy Giuliani, President Trump’s personal attorney, on the Supreme Court
-    denying to hear a Texas lawsuit against four battleground states, asking for
-    their election results to be overturned.
 
 ---
 * Texas sued Pennsylvania, Wisconsin, Michigan, and Georgia for allegedly illegally managing their state’s elections, asking the Supreme Court to halt the electoral college vote and ultimately overturn the results.

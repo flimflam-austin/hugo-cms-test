@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for Sept 6
 slug: 20190905-18-09-06-qq
-_id: legacy-7c59ac3f-6a8a-4984-8a7b-26fd8576d321
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-3ec777fd-763c-4bbc-9281-7979e2b687d6
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-06-qq/
 _createdAt: '2018-09-06T11:57:02Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-06T11:57:02+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
       prize money for men and women's surfing competitions equal. The WSL says
       it's the "first American-based global sports league to offer gender pay
       equality." We don't know the current prize difference.
-    _key: card-1-1c707495-bc3e-4221-bd12-e8672c7cfc10
+    _key: card-1-e13a198e-1008-40e4-a7b5-896e4fc9e2fb
   - order: 1
     body: >-
       > ‘No one is above the law in our constitutional system…. Under our system
@@ -46,7 +46,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/KxqNyflN2xU?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-a525bc69-9948-4984-926f-191689cd2f0a
+    _key: card-2-1d85a2f6-e6ef-4852-a3c2-06344b71ec17
   - order: 2
     body: >-
       > “It’s impossible to evaluate how important it is without knowing how
@@ -59,7 +59,7 @@ cards:
       Ari Fleischer, fmr White House Press Sec., responding to a New York Times
       anonymous op-ed that claims members of President Trump's team are working
       against him in the White House.
-    _key: card-3-848bfb21-d307-4313-a09f-7813408e1208
+    _key: card-3-b8d4067b-6f52-4bd0-b303-92a2a2a758dd
   - order: 3
     body: >-
       > ‘I don’t want to search until I’m 80. But if I have to, I will.’  
@@ -70,10 +70,10 @@ cards:
       Nation, who is looking for her sister Ashley. No official numbers exist on
       missing Native American women because many go unreported and there's no
       official federal database.
-    _key: card-4-1fcb6633-ec1a-40d8-be99-9185ada1bb77
+    _key: card-4-230fb365-5119-45d0-9caf-5b26df0765d2
   - order: 4
     body: '[view sources](https://smarthernews.com/18-09-06-qq/)'
-    _key: card-10-696a47ba-dd54-4d94-ba44-a4070b410429
+    _key: card-10-9269b5c4-fdb4-4e44-82c3-deea27370ce0
 
 ---
 * **Bethany Hamilton Instagram:**  

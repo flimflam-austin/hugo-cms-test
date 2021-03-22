@@ -1,14 +1,14 @@
 ---
 title: Did You Know? Presidents Day Isn't a Federal Holiday
 slug: 20210215-18-02-17-presidents-day
-_id: legacy-1965cc55-b914-493b-9ea2-b8e601d2dc25
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-7e282a6d-33c6-4025-9935-d85df979329e
+_rev: ZEyhBiGfgCfwE8WOjbuCtW
 type: quick_reads
 draft: false
 aliases:
   - 18-02-17-presidents-day/
 _createdAt: '2021-02-15T07:00:52Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2021-02-15T07:00:52+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
         
         
       So what is?
-    _key: card-1-ca6073a1-1465-4053-a8a3-6388a72961b3
+    _key: card-1-d21104ef-0c2b-4e01-a915-20a7f5d3a248
   - order: 1
     body: >-
       ## Washington’s Birthday
@@ -40,7 +40,7 @@ cards:
       * Some tried to change holiday officially to “Presidents Day” but the
       legislation never passed, so it remains **Washington’s Birthday**
       (ironically, Pres. Washington was quite a shopper).
-    _key: card-2-361feaef-fb77-48f6-8900-ed6323a61605
+    _key: card-2-d45ee5a5-4a22-4e20-9575-202dbb6f4f8f
   - order: 2
     body: >-
       > “Mrs. Washington’s slippers and clogs have come safe to hand, the
@@ -57,7 +57,7 @@ cards:
       [Click For
       Shoes](http://www.mountvernon.org/george-washington/colonial-life-today/shoe-shopping-with-martha-washington/)
     citation: Click For Shoes
-    _key: card-3-698d08ea-640f-4d99-97c1-c66c9992acec
+    _key: card-3-31e28208-a70b-4381-9c4e-ae7c55377159
   - order: 3
     body: >-
       ## Pres. George Washington
@@ -71,7 +71,7 @@ cards:
 
       * His birthday (Feb. 22) was an unofficial holiday celebrated by for many
       years; it became a federal holiday 80 years after his death.
-    _key: card-4-9435ea6d-eb3f-438e-a2b1-c3adf18ca27b
+    _key: card-4-6e4840d1-cd94-4e3a-b8df-21e4764f1576
   - order: 4
     body: >-
       ## What About Pres. Lincoln?
@@ -87,7 +87,7 @@ cards:
 
       President Washington & MLK Jr. are the ONLY two Americans whose birthdays
       are *official* **federal holidays**.
-    _key: card-5-a6419b29-905b-4672-b6f7-2eaaecd2ab2f
+    _key: card-5-0a5dd0e3-2dcf-4155-8ae5-7b8b801f5e6c
   - order: 5
     body: >-
       Since the late 1890s, the Senate follows a tradition of reading Pres.
@@ -97,7 +97,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-17-presidents-day/)
-    _key: card-10-a2446842-241d-4ea6-aeb5-431bcfad9b34
+    _key: card-10-e0fe7f3b-5c75-4caa-87cf-b42aadf0df48
 
 ---
 * **Washington’s Farewell Address**  

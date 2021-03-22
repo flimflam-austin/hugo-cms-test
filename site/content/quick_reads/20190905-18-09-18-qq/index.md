@@ -1,14 +1,14 @@
 ---
 title: Quick Quotes for Tuesday, September 18th
 slug: 20190905-18-09-18-qq
-_id: legacy-78087ba4-b4d5-46ab-8862-cb565c3fff37
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-9e2bdd98-5c82-4b99-b4cd-949a90bb3bc7
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-18-qq/
 _createdAt: '2018-09-18T12:11:00Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-18T12:11:00+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       lifelong NC native on Hurricane Florence's wrath. 300,000 of Duke Energy's
       1.4M impacted customers are still without power. Fountain says Duke is
       "pleased with restoration efforts.... but there's much more to do."
-    _key: card-1-424d934b-4cb8-4b99-a786-69380875e1d5
+    _key: card-1-3186b05f-fb4e-4670-98cc-f4dc6cf6e26d
   - order: 1
     body: >-
       > ‘I believe that with this agreement we prevented a humanitarian crisis
@@ -42,7 +42,7 @@ cards:
       remaining holdout for Syria's anti-government rebels. U.S. says Syria has
       been prepping a possible chemical attack. It's unclear if Syria's
       President Bashar al-Assad supports Erdogan-Putin plan.
-    _key: card-2-dbe006c5-d5e2-43de-9d31-d057ae3d796c
+    _key: card-2-dc0f9cbe-da86-44e4-93a8-2f9f6ceaa141
   - order: 2
     body: >-
       > ‘It’s impossible to conceive that I could run as a Republican…. That’s
@@ -55,7 +55,7 @@ cards:
       The 3-term NYC Mayor was elected as a Republican & switched to the
       Independent party, but now says only a major party nominee can win. He's
       spending $80M to support Dems in 2018.
-    _key: card-3-6a15f621-e2db-468e-a264-7f55d6cfed5e
+    _key: card-3-c94cbb07-4ab9-4b73-b383-c13cc22bfdf4
   - order: 3
     body: >-
       > ‘For months, we have urged China to change these unfair practices, and
@@ -68,7 +68,7 @@ cards:
       of Chinese goods starting next week. He threatened more tariffs should
       China retaliate, setting up what could be a prolonged trade war between
       the world's two biggest economies.
-    _key: card-4-0bf750f3-db1d-4829-a713-a324bb4b9a74
+    _key: card-4-363fdc8b-b21c-434d-a0ea-d483485eb830
   - order: 4
     body: >-
       > “Mom always believed in finding the sunshine in things & she adored my
@@ -80,13 +80,13 @@ cards:
         
       Glenn Weiss, Emmy Winner for Outstanding Dir For A Variety Special making
       history for first ever proposal during the Primetime Emmys.
-    _key: card-5-f8a79de8-2062-4f9a-9f16-89ba5795efe3
+    _key: card-5-438320e7-b8eb-42c1-8bc4-e39d300c0494
   - order: 5
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-09-18-qq/)
-    _key: card-10-d7c3f484-d2b9-4737-b244-8b7c753cbdf6
+    _key: card-10-545478c2-44dd-4e9b-93c6-c3e1f30589f5
 
 ---
 * **Duke Energy leader: Florence is ‘absolutely the worst’ storm I’ve ever seen as a lifelong NC resident:**  

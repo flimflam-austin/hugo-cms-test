@@ -1,14 +1,14 @@
 ---
 title: 18.06.18 Baseball Attendance
 slug: 20180618-18-06-18-baseball-attendance
-_id: legacy-81ac3c08-6f17-4a8a-9303-b0aae43934db
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-c45c80fe-2d1d-499c-8b40-0bf19973813f
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-18-baseball-attendance/
 _createdAt: '2018-06-18T11:03:01Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-18T11:03:01+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       FLIP: WHIFF & A MISS
     citation: 'FLIP: WHIFF &amp; A MISS'
-    _key: card-1-19482b90-547d-4a62-beb2-bd41667f6892
+    _key: card-1-212184cc-c02d-49da-9a55-5162e7842327
   - order: 1
     body: >-
       WHAT’S TO BLAME?  
@@ -48,7 +48,7 @@ cards:
       makes for less thrill. Strikeouts topped hits in April.
 
       * **No incentive?** Fans can watch anywhere – phone, tablet, TV.
-    _key: card-2-1879432d-e964-4eb5-af23-5d4e06a1c51b
+    _key: card-2-a6cd6c2a-257d-47e8-9ae7-d3b080b8d1ec
   - order: 2
     body: >-
       ## WHY THIS MATTERS
@@ -62,7 +62,7 @@ cards:
 
       * Empty stadiums may give you a better shot at catching a foul ball, but
       **not an ideal setting to watch a game.**
-    _key: card-3-d7bef011-074a-4295-a93d-20f440d3d332
+    _key: card-3-144393da-f5cc-478f-ba0a-f5ec785ac81f
   - order: 3
     body: >-
       ## MLB WANTS TO FIX IT
@@ -75,7 +75,7 @@ cards:
         
         
       Rob Manfred, MLB Commissioner
-    _key: card-4-3ca568ea-3b35-4620-a72d-3c040aee86b1
+    _key: card-4-a53cdbbe-dcb1-4f4f-ade0-c6ca74673fc1
   - order: 4
     body: >-
       So which teams are seeing the biggest drops in attendance? And which 4
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-18-baseball-attendance/)
-    _key: card-10-b6c2a818-fda4-4a31-bec3-431e04f6718e
+    _key: card-10-fd35b38b-b58b-4a1f-9e96-9d93187ac2aa
 
 ---
 * **Attendance drop, strikeout rise has MLB concerned (From May 27th)**  

@@ -1,14 +1,14 @@
 ---
 title: 18.04.30 Quotes
 slug: 20180430-18-04-30-quotes
-_id: legacy-17064f26-f8c6-4dba-a691-45d80738664b
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-1bd0d4d7-61e3-4e87-af47-d77360675779
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-30-quotes/
 _createdAt: '2018-04-30T10:27:20Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-30T10:27:20+00:00'
 weight: 50
 featured_image:
@@ -25,7 +25,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-30-quotes/)
-    _key: card-10-c7b5a55c-6d72-4637-ab03-4e7d39b1b09e
+    _key: card-10-ec800c8d-f58d-484d-8a6b-a6f8deb6abd5
 
 ---
 * **South Korea:A Kim Jong Un says he’ll give up nukes if U.S. vows not to attack:**  

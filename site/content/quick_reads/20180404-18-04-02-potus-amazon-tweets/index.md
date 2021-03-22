@@ -1,14 +1,14 @@
 ---
 title: 18.04.02 Potus Amazon Tweets
 slug: 20180404-18-04-02-potus-amazon-tweets
-_id: legacy-c40c4795-beda-4b4a-aa2a-d8e667ab2b6d
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-2d59d9c2-86df-4fc0-bdd6-c1014a67f336
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-02-potus-amazon-tweets/
 _createdAt: '2018-04-03T11:05:58Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-03T11:05:58+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip: What's Going On?
     citation: 'Flip: What''s Going On?'
-    _key: card-1-0f3d9f07-ae17-4dc7-8b27-f9eda5fa9d82
+    _key: card-1-78331ea3-ba3b-43eb-8ee7-1de5070e6ba8
   - order: 1
     body: >-
       > “Only fools, or worse, are saying that our money losing Post Office
@@ -46,7 +46,7 @@ cards:
         
         
       President Trump via Twitter, April 2, 2018
-    _key: card-2-636a4c2a-7f5f-4402-b76e-360698f5aa61
+    _key: card-2-ca058bfc-de8d-4102-8439-842282754810
   - order: 2
     body: >-
       ## Post Office Problem$
@@ -60,7 +60,7 @@ cards:
       * USPS has “deal” with Amazon but we don’t know the specifics (USPS is
       independently operated and makes deals with retailers outside of gov’t
       oversight).
-    _key: card-3-bce06ea6-39cf-4e7a-b8e2-71017d8d62f2
+    _key: card-3-aefcf81b-b2d3-4a28-8d98-9673434101ae
   - order: 3
     body: >-
       > “I have stated my concerns with Amazon long before the Election. Unlike
@@ -71,7 +71,7 @@ cards:
         
         
       President Trump via Twitter, March 29, 2018
-    _key: card-4-d47aff31-1696-4cdc-a0b4-34b69b6f0f3f
+    _key: card-4-d0cf2b9e-f099-4175-8620-9ae4a79af14c
   - order: 4
     body: >-
       Fact Check:  
@@ -88,7 +88,7 @@ cards:
       govt), but has since ’17.
 
       * Amazon uses USPS to deliver pkgs because it’s cheaper. Period.
-    _key: card-5-19e27fca-c0d2-48a9-9545-a22c090351cc
+    _key: card-5-454c8952-3afc-4726-a4e9-5cc948c93255
   - order: 5
     body: >-
       Fox Business Anchor & Harvard Business School Grad, Melissa Francis, says
@@ -98,7 +98,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-02-potus-amazon-tweets/)
-    _key: card-10-4f1afcdc-77f3-4f2f-83f4-539175b43275
+    _key: card-10-69f58996-4975-4a5f-a844-57f6b69ecb05
 
 ---
 * **SmartHer Take**: Amazon didn’t cause the U.S. postal service’s downfall, but it usually pays less using USPS than it would from other big corps (FedEx & UPS), and like other big corps, it pays taxes, but benefits from tax breaks / loopholes.

@@ -1,14 +1,14 @@
 ---
 title: 18.02.07 Mississippi Abortion Bill
 slug: 20200304-18-02-07-mississippi-abortion-bill
-_id: legacy-b726d3fe-65da-452e-8495-0344f6032fa8
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-7b54ba7f-cbca-456f-a2c6-f7e031c411e3
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-02-07-mississippi-abortion-bill/
 _createdAt: '2018-03-09T11:59:58Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-03-09T11:59:58+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-fab9a952-a274-4d2d-bd7c-ffad18524161
+    _key: card-1-ccba95f9-3b10-479e-a391-ba6cea6a89c2
   - order: 1
     body: >-
       ## What Does MS Bill Say?
@@ -54,7 +54,7 @@ cards:
 
       Flip For Context
     citation: Flip For Context
-    _key: card-2-627f64bc-49e9-4eb3-9d0c-ad437b55c699
+    _key: card-2-77779b92-c27d-4005-bc59-92a242efa887
   - order: 2
     body: >-
       Why Is This Significant
@@ -69,7 +69,7 @@ cards:
 
       * States may restrict or ban abortions when a baby can survive outside
       womb (aka legally as “fetal viability”).
-    _key: card-3-f8222703-c8d1-4486-ad1a-ff0b2fe48729
+    _key: card-3-4477163e-505f-47c5-a1c1-c9339aa152e1
   - order: 3
     body: >-
       The 15 week mark in Mississippi is why this law is controversial and
@@ -79,7 +79,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-02-07-mississippi-abortion-bill/)
-    _key: card-10-49521cc6-b4c6-478e-963c-5d84c355810c
+    _key: card-10-c4a14d19-2078-4665-a024-51659ffa749a
 
 ---
 * Mississippi Legislature Approves Bill Banning Abortions After 15 Weeks: [https://www.npr.org/sections/thetwo-way/2018/03/08/591972992/mississippi-legislature-approves-bill-banning-abortions-after-15-weeks](https://www.npr.org/sections/thetwo-way/2018/03/08/591972992/mississippi-legislature-approves-bill-banning-abortions-after-15-weeks)

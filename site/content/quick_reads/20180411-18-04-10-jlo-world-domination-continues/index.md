@@ -1,14 +1,14 @@
 ---
 title: 18.04.10 Jlo World Domination Continues
 slug: 20180411-18-04-10-jlo-world-domination-continues
-_id: legacy-0cdf7dc4-1bc7-4332-8745-eac8bd495dac
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-19ffc83b-ec23-45dc-afb2-0814208dd6ff
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-10-jlo-world-domination-continues/
 _createdAt: '2018-04-11T12:51:12Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-11T12:51:12+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       Bigger Picture: Flip
     citation: 'Bigger Picture: Flip'
-    _key: card-1-0bf128ec-b0ce-49b0-9d33-3be9edbbc8e1
+    _key: card-1-c3c9f816-949e-4a8d-a29f-7d939bca5b27
   - order: 1
     body: >-
       ## From The Block To The Biz
@@ -42,10 +42,10 @@ cards:
 
       Why Now?
     citation: Why Now?
-    _key: card-2-0eba9263-74f3-4856-b4b3-a50eff0cb10e
+    _key: card-2-e0cd28fa-9f00-4696-87ef-8810d559aff0
   - order: 2
     body: "## Beauty Industry Billions\n\n>   \n  \nLarissa Jensen, The NPD Group\n\n* $17.7 B = U.S. beauty business.\n* Makeup = biggest segment.”As beauty brands and retailers look to understand a\x18what’s next’…their focus should be on developing new and alternative ways to engage with consumers.”"
-    _key: card-3-00e24990-b852-428b-a033-e0b64dc40521
+    _key: card-3-98f9cd83-72c6-4cf2-93b7-870941c51dc3
   - order: 3
     body: >-
       ## What’s JLO Selling?
@@ -65,7 +65,7 @@ cards:
 
       [Click: Link To Site](http://jenniferlopezinglot.com/)
     citation: 'Click: Link To Site'
-    _key: card-4-801fa4af-5db1-45c9-9a72-81532a0cf4d2
+    _key: card-4-9fad1f07-fd42-4a3a-b847-39bcaa0350ad
   - order: 4
     body: >-
       "Larger-than-life campaigns, with untouchable stars, hold little appeal to
@@ -74,7 +74,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-04-10-jlo-world-domination-continues/)
-    _key: card-10-03d20b97-2a4f-4b4a-8fd6-33bc8077b699
+    _key: card-10-8b1db7d9-2274-494d-b2b5-0697a684ebcc
 
 ---
 * The Newest Crop of Beauty Moguls Contains Some Very Familiar Faces: [https://www.townandcountrymag.com/style/beauty-products/a17765095/celebrity-beauty-brands/](https://www.townandcountrymag.com/style/beauty-products/a17765095/celebrity-beauty-brands/)

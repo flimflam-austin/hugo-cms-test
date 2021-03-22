@@ -1,14 +1,14 @@
 ---
 title: 18.07.02 Qq Monday
 slug: 20190905-18-07-02-qq-monday
-_id: legacy-6a53b165-e962-4dfa-bf28-523f7b1061fe
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-9c0790c0-7270-493c-9393-faf1c067debb
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-07-02-qq-monday/
 _createdAt: '2018-07-02T10:30:29Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-07-02T10:30:29+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
       prison. Armed men landed a helicopter in the prison's court yard and flew
       away with a notorious gangster serving time for an armed robbery and the
       murder of a young policewoman.
-    _key: card-1-ff1e10b7-8bf2-463d-b5b9-3e8cebaa8986
+    _key: card-1-6250fc15-f0fb-4b6b-96f6-a1cedb7afb6d
   - order: 1
     body: >-
       > ‘…today the people will decide between more of the same or a real
@@ -44,7 +44,7 @@ cards:
 
       [SMARTHER REFRESHER](https://smarthernews.com/18-06-29-mexico-elections/)
     citation: SMARTHER REFRESHER
-    _key: card-2-baaf4dc3-c788-4f38-914c-04eb82c65ba3
+    _key: card-2-c0902104-96f2-46fd-9dc4-81e8c8577d1d
   - order: 2
     body: >-
       > “This was always going to be the place. It was always a two-horse race
@@ -55,7 +55,7 @@ cards:
       ESPN reporter Brian Windhorst on 33-year-old NBA superstar LeBron James
       4-year, $154M contract with the Los Angeles Lakers. It marks the 3rd time
       in 8 years James will have changed teams.
-    _key: card-3-8cf4310c-d3b0-4d3c-b591-5482db4d5ac7
+    _key: card-3-2799de82-69d4-40c3-82fa-0f1968e7cb5a
   - order: 3
     body: >-
       > “I’m pro-life and the job of a judge is to decide cases before the
@@ -67,7 +67,7 @@ cards:
         
         
       Sen. Lindsey Graham (R-SC) Meet the Press.
-    _key: card-4-15817550-1e40-4431-91d4-6c727d111d4e
+    _key: card-4-17f9947c-5e74-47c9-8a60-cab0df7cdbf0
   - order: 4
     body: >-
       > “Writing daily obits only reinforced what I had long suspected: It is
@@ -78,7 +78,7 @@ cards:
       NYT obituary writer, Margalit Fox, who after 14 years writing obituaries
       will leave the newspaper to write novels. Her own "epitaph" in the paper
       is charming and worth a read.
-    _key: card-5-4cd4055b-7174-4765-917f-f6a1a925c528
+    _key: card-5-41606226-a2c5-4002-be66-c2ece147ddf3
   - order: 5
     body: >-
       > “I’m convinced you can be old at 30 or young at 90, and it’s all up to
@@ -89,13 +89,13 @@ cards:
       Legendary oil tycoon, T. Boone Pickens, in an essay on age and attitude on
       LinkedIn as he revealed some of the health challenges he has recently
       confronted.
-    _key: card-6-b737097f-517a-497d-9d7a-2ad520ee1ab1
+    _key: card-6-2f8eb133-f64e-4121-b5fe-f5a7b821df27
   - order: 6
     body: |-
       Happy 4th of July Week!
 
       [view sources](https://smarthernews.com/18-07-02-qq-monday/)
-    _key: card-10-6abbbb70-3597-46a1-aafe-6a6a7995ad7f
+    _key: card-10-6e5d1b91-c262-45c0-966d-5901d3d5001c
 
 ---
 * **Helicopter used to bust gangster Redoine Faid out of French jail**  

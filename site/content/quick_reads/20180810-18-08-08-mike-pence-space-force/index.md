@@ -1,14 +1,14 @@
 ---
 title: 18.08.08 Mike Pence Space Force
 slug: 20180810-18-08-08-mike-pence-space-force
-_id: legacy-40e16888-7c35-420a-ac65-c8ae180bd28d
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-f4e5bfbb-c843-49d7-89e5-03f13c62ab21
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-08-mike-pence-space-force/
 _createdAt: '2018-08-10T11:51:32Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-10T11:51:32+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Wait...new battlefield?
     citation: Wait...new battlefield?
-    _key: card-1-28ba3774-8140-4082-919e-75f6c94df0b3
+    _key: card-1-a766e45a-7326-4370-9393-0ca40c12329e
   - order: 1
     body: >-
       ## What is the Space Force?
@@ -46,7 +46,7 @@ cards:
 
       Why?
     citation: Why?
-    _key: card-2-339a4146-8b29-4cb7-8fba-b035092bbafe
+    _key: card-2-da87846e-8f0a-40cf-94c4-aa624f291f52
   - order: 2
     body: >-
       ## Why Do We Need It?
@@ -58,7 +58,7 @@ cards:
       * U.S. is increasingly dependent upon satellites. National security, TVs,
       phones, GPS, weather prediction (i.e. agriculture), & finance (i.e.
       swiping your credit card) are all linked to space.
-    _key: card-3-1e20c785-5e78-46b9-9c14-83e07710070b
+    _key: card-3-6c710b97-bdcc-4e08-90ef-05d0e52d2c8e
   - order: 3
     body: >-
       > “There is a threat out there, but it is being handled by the U.S. Air
@@ -70,7 +70,7 @@ cards:
       Captain Mark Kelly, retired NASA astronaut who commanded the final mission
       of space shuttle Endeavor, referencing the Air Force Space Command at
       Peterson Air Force base in Colorado.
-    _key: card-4-bb222db9-6149-41c4-9ff9-781a070dad70
+    _key: card-4-4432c6de-940c-4720-b0ea-70e4aa707df8
   - order: 4
     body: >-
       ## Something to Consider
@@ -85,7 +85,7 @@ cards:
 
 
       **Remember:** Congress controls purse strings & allocating taxpayer money.
-    _key: card-5-b683a2b3-bca7-45d2-b04d-bedfb2b68af5
+    _key: card-5-d3a06368-82ba-45e2-b0d3-c8ff2d7a7c02
   - order: 5
     body: >-
       VP Pence announced the Space Force because he's chairman of the National
@@ -94,7 +94,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-08-mike-pence-space-force/)
-    _key: card-10-3e53c90f-0436-4278-89da-33e7fa8d32d9
+    _key: card-10-41ccc62b-e551-4b4c-9f24-09547bf5d5b9
 
 ---
 * **President Trump relaunches the National Space Council:**  

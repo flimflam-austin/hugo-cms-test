@@ -1,14 +1,14 @@
 ---
 title: 18.08.16 Qtd Michael J. Fox
 slug: 20180816-18-08-16-qtd-michael-j-fox
-_id: legacy-8e579496-d411-45f9-adc1-6536a2c80a4d
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-0882d128-790c-4809-a726-3c38d33fd213
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-16-qtd-michael-j-fox/
 _createdAt: '2018-08-16T11:42:46Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-16T11:42:46+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       Michael J. Fox
     citation: Michael J. Fox
-    _key: card-1-5ac59df3-0e33-4145-9bf1-06466ff455eb
+    _key: card-1-780b722b-694a-40d6-9851-51e9c699ee82
   - order: 1
     body: >-
       Fox and his wife, Tracy Pollan, sat down with PEOPLE to discuss their
@@ -36,7 +36,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-16-qtd-michael-j-fox/)
-    _key: card-10-473447db-c6f6-4168-96eb-b45f1d0963e9
+    _key: card-10-232b92a3-e7ea-4afa-8f71-910d83b45592
 
 ---
 * **Michael J. Fox & Tracy Pollan Share the Secret to Their 30-Year Marriage: ‘Us Against the World’:**  

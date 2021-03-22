@@ -3,26 +3,23 @@ title: >-
   Fulton County District Attorney Paul Howard Announcing 11 Charges Against the
   Former Atlanta Police Officer Who Shot and Killed Rayshard Brooks Last Friday.
 slug: 20200617-charges-brooks-case
-_id: legacy-3b64602e-0238-4dee-96c4-62f9fe0fad68
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-ab96bc1b-e95f-481f-bfd8-927d024d1da3
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - article/charges-brooks-case/
 _createdAt: '2020-06-17T21:44:31Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-06-17T21:44:31+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    518316aace1a25a7ff43db9b7b519657322a8b86-1920x1281.jpg
 is_breaking: false
-summary: >-
-  Fulton County District Attorney Paul Howard announcing 11 charges against the
-  former Atlanta police officer who shot and killed Rayshard Brooks last Friday.
 featured_quote:
   quote: Mr Brooks was running away at the time the shot was fired.
-  citation: >-
-    Fulton County District Attorney Paul Howard announcing 11 charges against
-    the former Atlanta police officer who shot and killed Rayshard Brooks last
-    Friday.
 
 ---
 * Former Atlanta police officer Garrett Rolfe was charged with 11 crimes including felony murder and aggravated assault with a deadly weapon. The felony murder charge carries a **potential death sentence or life without parole**. The aggravated assault with a deadly weapon charge carries up to a 20-year sentence. Rolfe also faces charges for kicking Brooks, shooting his taser at Brooks while he was running away, failing to render aid to Brooks, and for shooting his firearm in the direction of bystanders
@@ -33,4 +30,4 @@ featured_quote:
 
 **READ MORE:** [CLICK HERE](ttps://apnews.com/f3c3747e6d8c0bd63ba7c57c6d363868)
 
-You can watch DA Howard make his statement [HERE](https://www.wsbtv.com/news/local/da-paul-howard-expected-make-announcement-possible-charges-rayshard-brooks-shooting/EZ5T5RIXTRHO3O5LYBX6W3VN5U/)al/da-paul-howard-expected-make-announcement-possible-charges-rayshard-brooks-shooting/EZ5T5RIXTRHO3O5LYBX6W3VN5U/)
+You can watch DA Howard make his statement [HERE](https://www.wsbtv.com/news/local/da-paul-howard-expected-make-announcement-possible-charges-rayshard-brooks-shooting/EZ5T5RIXTRHO3O5LYBX6W3VN5U/)

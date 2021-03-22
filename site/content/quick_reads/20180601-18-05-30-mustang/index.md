@@ -1,14 +1,14 @@
 ---
 title: 18.05.30 Mustang
 slug: 20180601-18-05-30-mustang
-_id: legacy-f656f869-1159-4dcc-93d4-f2c2b7e18c6e
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-16646660-cdfb-42dc-8097-96d994f60b3d
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-30-mustang/
 _createdAt: '2018-06-01T10:45:19Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-01T10:45:19+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Flip: Why
     citation: 'Flip: Why'
-    _key: card-1-35367794-659d-4e42-b60e-ac3aa43eb457
+    _key: card-1-b7be0ff0-0964-45ff-bb5b-4198ba41b269
   - order: 1
     body: >-
       Ford kept the “modestly profitable” Mustang largely due to **drivers’
@@ -42,7 +42,7 @@ cards:
 
       * **Fun fact:** Mustang’s 1st movie appearance was James Bond’s
       “Goldfinger.”
-    _key: card-2-5b65d319-084e-4c89-ab9c-f0eb2afc8932
+    _key: card-2-a3a3c491-72f8-4d5d-b7d4-f160d9ac95f0
   - order: 2
     body: >-
       > ‘The Mustang is like Rocky: It survived the 1970s fuel crisis, the glam
@@ -55,7 +55,7 @@ cards:
 
       FLIP: End of the road for sedans?
     citation: 'FLIP: End of the road for sedans?'
-    _key: card-3-c5689609-7ad9-4e72-8151-0199c7eb2d1b
+    _key: card-3-188700c3-0981-49e4-9305-ebd81caa4e6b
   - order: 3
     body: >-
       Say goodbye to Ford's full-size Taurus, midsize Fusion, and subcompact
@@ -64,7 +64,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-30-mustang/)
-    _key: card-10-92a4d465-e80b-4a9c-ab2d-abc42cae1f0c
+    _key: card-10-a91c93b2-ac20-4d63-ac76-32e10ba919a2
 
 ---
 * “Mustang Means Freedom”: Why Ford is Saving an American Icon:  

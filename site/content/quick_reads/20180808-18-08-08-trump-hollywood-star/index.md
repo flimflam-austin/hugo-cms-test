@@ -1,14 +1,14 @@
 ---
 title: 18.08.08 Trump Hollywood Star
 slug: 20180808-18-08-08-trump-hollywood-star
-_id: legacy-f5554377-7664-4b91-8ed2-1f1a1976d74d
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-bbee2b38-87f8-48a6-aa72-78437d246fb1
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-08-trump-hollywood-star/
 _createdAt: '2018-08-08T11:47:28Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-08T11:47:28+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Want a star? Got 40K?
     citation: Want a star? Got 40K?
-    _key: card-1-f78afd7f-5cfa-4f64-80bd-f541c94e0ca8
+    _key: card-1-15bb8fac-c679-4a54-a261-f08ccfc5fc89
   - order: 1
     body: >-
       ## Behind the Scenes
@@ -41,7 +41,7 @@ cards:
       removal isn’t political, telling CNN:A _“Earning a star … is an honor.
       When one belittles & attacks minorities, immigrants, Muslims, people with
       disabilities or women — the honor no longer exists.”_
-    _key: card-2-634ac08a-ccf0-4a08-ae72-cb1716bdc688
+    _key: card-2-9754e3f8-9a16-4117-af5c-97e55d2932d7
   - order: 2
     body: >-
       ## Walk of Fame 101
@@ -54,7 +54,7 @@ cards:
 
       * Once selected, **nominees or a sponsor (a movie studio, agent, PR
       company) pay $40K for ceremony & star’s upkeep**.
-    _key: card-3-1bda2929-1161-488f-8fb1-201b63a4fcbf
+    _key: card-3-e3b96074-6673-4661-aaa0-4970e838dcc2
   - order: 3
     body: >-
       > “Once a star has been added to the walk, it is considered a part of the
@@ -67,7 +67,7 @@ cards:
       calls in 2015 to remove Bill Cosby's star after allegations of sexual
       misconduct. The L.A. City Council & The Hollywood Chamber of Commerce have
       the final world on the Walk of Fame.
-    _key: card-4-4a7a54fe-2034-4f6a-89af-172490ecfdd5
+    _key: card-4-22e64806-f5fa-4fd5-98e2-a129e27f2f22
   - order: 4
     body: >-
       The 18-block stretch of the Hollywood Walk of Fame is home to more than
@@ -77,7 +77,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-08-trump-hollywood-star/)
-    _key: card-10-215b2a35-5761-4076-b07a-7cc8c8a69903
+    _key: card-10-730b19da-b85e-4a7b-b89c-6233adc077cc
 
 ---
 * **West Hollywood City Council Approves Resolution Urging Removal of Trump’s Walk of Fame Star:**  

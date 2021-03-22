@@ -1,14 +1,14 @@
 ---
 title: 18.04.12 Border Wall Begins
 slug: 20180412-18-04-12-border-wall-begins
-_id: legacy-813d52f9-1d5f-4233-b22b-70820b7c166c
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-a29f1943-0741-4d40-bcb3-c4c29d8ab75e
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-12-border-wall-begins/
 _createdAt: '2018-04-12T10:05:30Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-12T10:05:30+00:00'
 weight: 50
 featured_image:
@@ -24,7 +24,7 @@ cards:
 
       FLIP FOR MORE
     citation: FLIP FOR MORE
-    _key: card-1-099b4f4e-ca87-43bf-9de0-461820fdf06f
+    _key: card-1-53077071-869b-4a04-b4e1-832ceb2c6c14
   - order: 1
     body: >-
       ## Construction Begins at the U.S.-Mexico Border
@@ -41,7 +41,7 @@ cards:
 
       * $73.3M price tag, which will come from 2017 Dept of Homeland Security
       funding.
-    _key: card-2-cf89e577-b066-4418-a6e7-6cf88230265f
+    _key: card-2-ed77fba3-fbe6-4491-933f-f7e6e2d30261
   - order: 2
     body: >-
       ## Securing the Border
@@ -60,7 +60,7 @@ cards:
         
         
       Chief Patrol Agent Aaron Hull
-    _key: card-3-5f86918d-ed82-4cfa-aaab-a4995387560b
+    _key: card-3-b0521b58-a454-41b2-b65b-e62bce2c83fd
   - order: 3
     body: >-
       ## IS IT A FENCE OR A WALL?
@@ -78,7 +78,7 @@ cards:
         
       This new 20-mile stretch is being **called a “wall”** **by Border
       Patrol**A despite it being **the exact same structure used previously**.
-    _key: card-4-1b75e8a0-ff8f-4a17-8979-1ae40c4259fb
+    _key: card-4-5a0ff095-a23b-4e77-af64-2270fe057521
   - order: 4
     body: >-
       New Mexico Gov. Susana Martinez announced 80+ National Guard soldiers will
@@ -87,7 +87,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-12-border-wall-begins/)
-    _key: card-10-fccfc6a9-9c46-40b9-99df-e991201403b1
+    _key: card-10-f18b7f7d-060f-4cbd-93f9-f81d8a9a4a01
 
 ---
 * U.S. Customs & Border Protection – Border Wall Begins: [https://www.cbp.gov/newsroom/local-media-release/santa-teresa-border-wall-replacement-project-begin](https://www.cbp.gov/newsroom/local-media-release/santa-teresa-border-wall-replacement-project-begin)

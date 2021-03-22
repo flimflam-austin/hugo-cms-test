@@ -1,14 +1,14 @@
 ---
 title: 18.05.14 Free-Range Parenting
 slug: 20180517-18-05-14-free-range-parenting
-_id: legacy-804debd5-c3fd-4445-adca-b802ae371f4b
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-04c3a18b-afb1-4e93-aeed-7884a05de5ce
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-14-free-range-parenting/
 _createdAt: '2018-05-17T10:05:52Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-17T10:05:52+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip Here For More
     citation: Flip Here For More
-    _key: card-1-026ef5af-19e0-4737-b162-53e706ff1809
+    _key: card-1-4609e45e-4acf-4ce9-b75a-34ed264fdd9d
   - order: 1
     body: >-
       Those who practice “**free-range parenting**” allow their kids to do
@@ -47,7 +47,7 @@ cards:
       Legal issues arise when child protective authorities view those
       “**freedoms**” as parental neglect & initiate legal proceedings against
       the parents to “**protect**” the kids.
-    _key: card-2-c90bbb2f-9838-46eb-b9ea-06f67b4e95c3
+    _key: card-2-b3d9b95c-0605-4fb3-addd-4be3618d1839
   - order: 2
     body: >-
       Although child abuse & neglect laws vary by state, the U.S Constitution
@@ -58,7 +58,7 @@ cards:
       Parents may parent as they see fit UNLESS they do something, or fail to do
       something, that places a child in **imminent risk of danger of physical or
       emotional harm.**
-    _key: card-3-7474aac7-6a5d-4d74-bd6a-49722b2e7183
+    _key: card-3-0d9639d5-0ad9-4717-8a35-e697ffaf3137
   - order: 3
     body: >-
       **The Utah Law carves out exceptions to the state’s child neglect laws**
@@ -74,7 +74,7 @@ cards:
 
       (so long as they are ofA “**sufficient age and maturity**” & theirA
       “**basic needs are met**.”)
-    _key: card-4-ad702f68-2094-4b84-8e50-b5a231379b9f
+    _key: card-4-4a84acb8-8b53-49c6-8c04-2fbf6aa59e0e
   - order: 4
     body: >-
       Did a particular event start this "free-range parenting" law in Utah? Not
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-14-free-range-parenting/)
-    _key: card-10-5a0cb939-4ae4-4ba9-bb13-9725554a5c48
+    _key: card-10-2e84006a-43bf-4e0f-975c-fba13535d78e
 
 ---
 * **Free to roam: Utah”s first-of-its-kind “free-range parenting” law takes effect:** [https://www.sltrib.com/news/2018/05/08/free-to-roam-utahs-first-of-its-kind-free-range-parenting-law-takes-effect/](https://www.sltrib.com/news/2018/05/08/free-to-roam-utahs-first-of-its-kind-free-range-parenting-law-takes-effect/)

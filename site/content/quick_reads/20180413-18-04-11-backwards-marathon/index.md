@@ -1,14 +1,14 @@
 ---
 title: 18.04.11 Backwards Marathon
 slug: 20180413-18-04-11-backwards-marathon
-_id: legacy-7a3aae4f-e629-4bcf-8c28-99da9bb2a3d2
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-725c1ae1-8744-4ea0-98c2-c57d5a118869
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-11-backwards-marathon/
 _createdAt: '2018-04-13T13:26:14Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-13T13:26:14+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/-3AgeEpxqfw?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-9b5487be-40bb-44e5-8114-6787206b7590
+    _key: card-1-3175f0f5-2ad0-4501-99ed-b66ab990dc55
   - order: 1
     body: >-
       > “Having epilepsy is like going through life backwards. You can’t see
@@ -37,11 +37,11 @@ cards:
         
       Loren Zitomersky to SmartHER News on WHY he's attempting to break a world
       record...backwards.
-    _key: card-2-e7b14693-0227-4992-abc1-3f240fd24df0
+    _key: card-2-199c0e4a-cdd9-4c35-aa4f-483f9d124703
   - order: 2
     body: "## Wait…BACKWARDS? Why?\n\nHis goal is to raise **$100,000 for the Epilepsy Foundation** a\x14 and break the **world record for the fastest marathon (26.2 miles) ever run backwardsA** in less than 3 hours, 43 mins & 39 seconds**.**\n\n(For those keeping tabs, that’d be about anA **8:30 min/mile** avg pace!)\n\nflip: head on a swivel"
     citation: 'flip: head on a swivel'
-    _key: card-3-31ac78c6-2996-418b-9b6f-42cf290588f0
+    _key: card-3-c250ec37-b1bf-4aca-bbe9-bf4a1abc39bf
   - order: 3
     body: >-
       ## Backwards Training 101
@@ -57,7 +57,7 @@ cards:
 
       * During Boston Marathon, he’ll have a spotter to help him avoid spills or
       running into other people.
-    _key: card-4-1de01f50-675f-4688-86e1-1593344d77ba
+    _key: card-4-11d175c8-8b9b-4637-84dd-615e1cd67031
   - order: 4
     body: >-
       ## How Hard Is Running Backwards Anyway?
@@ -72,7 +72,7 @@ cards:
         
       Loren who runs an avg of 45 miles/week when not working as a movie
       production lawyer at Disney in L.A.
-    _key: card-5-196f05d3-5c07-463b-9fed-ad0f830e8d42
+    _key: card-5-569ed9b6-1b39-4415-91e1-b84c578ab62a
   - order: 5
     body: >-
       ## Charity Close to His Heart
@@ -86,7 +86,7 @@ cards:
 
       * He’s more than halfway to his goal of raising $100K for the Epilepsy
       Foundation for research & local programs.
-    _key: card-6-99a74c02-9e98-4501-80c7-cef18d8c7916
+    _key: card-6-434dbdfb-5e31-47f6-b50e-dc7b0e672876
   - order: 6
     body: >-
       Loren says he's worried about taking a spill & bad weather, but he
@@ -96,7 +96,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-11-backwards-marathon/)
-    _key: card-10-e15d05fe-9920-4ad7-8fa7-71ffe6c784dc
+    _key: card-10-51229780-b771-45af-8c67-2c292ad0ed20
 
 ---
 * Learn more about #backwardsguy Loren’s cause & donate to his $100,000 goal here:  

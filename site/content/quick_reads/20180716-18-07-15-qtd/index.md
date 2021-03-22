@@ -1,14 +1,14 @@
 ---
 title: 18.07.15 Qtd
 slug: 20180716-18-07-15-qtd
-_id: legacy-99087fad-8100-4b68-855c-8368d458aaeb
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-72910a63-7fdf-4141-a4e1-df66ffcd31cd
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-15-qtd/
 _createdAt: '2018-07-16T14:10:08Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-16T14:10:08+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       Sarah Cummins
     citation: Sarah Cummins
-    _key: card-1-c8d14c7b-35f6-44f9-b758-d4111e998efb
+    _key: card-1-5267d5c3-ab57-4a7d-951d-e5872404b97e
   - order: 1
     body: >-
       Last year, 26-year-old Sarah Cummins cancelled her wedding and invited the
@@ -37,7 +37,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-15-qtd/)
-    _key: card-10-a82c2b8c-1d14-4c26-884d-a3ff86c9dff8
+    _key: card-10-f37c8329-b0f4-4ba0-b267-5be15fe3b252
 
 ---
 **What the bride who donated her reception to the homeless learned from going viral**A [https://www.indystar.com/story/news/2018/07/15/viral-bride-looks-back-decision-invite-homeless-canceled-wedding/761050002/](https://www.indystar.com/story/news/2018/07/15/viral-bride-looks-back-decision-invite-homeless-canceled-wedding/761050002/)

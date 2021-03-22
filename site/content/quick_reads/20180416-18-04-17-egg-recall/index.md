@@ -1,14 +1,14 @@
 ---
 title: 18.04.17 Egg Recall
 slug: 20180416-18-04-17-egg-recall
-_id: legacy-11e5b5ed-418f-4fda-ad55-211871bdd2e7
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-7c2468e5-7dd7-4e67-a2c4-c833b35968e1
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-17-egg-recall/
 _createdAt: '2018-04-17T10:31:20Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-17T10:31:20+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       FLIP HERE FOR MORE
     citation: FLIP HERE FOR MORE
-    _key: card-1-90f6adbc-7972-4a52-98a0-c1302c4424de
+    _key: card-1-6bf34c72-402e-4682-b9f8-725d8c31778d
   - order: 1
     body: >-
       ## The Facts: Egg Recall
@@ -45,7 +45,7 @@ cards:
 
       **Rose Acre Farms** sold in **stores & used in restaurants** in 9 states
       (CO, FL, NJ, NY, NC, PA, SC, VA, WV).
-    _key: card-2-b4ae42ac-a018-435e-8942-aa72498f5b41
+    _key: card-2-fa5c941b-b367-405c-89d4-c1e12d1db4f5
   - order: 2
     body: >-
       ## How To Protect Yourself:
@@ -62,7 +62,7 @@ cards:
       [Click Here: Specific
       List](https://www.fda.gov/Safety/Recalls/ucm604640.htm)
     citation: 'Click Here: Specific List'
-    _key: card-3-2c7d5e96-1f9a-44bd-85e7-623f6e20a45d
+    _key: card-3-f53ce3fe-7633-4871-9ada-d2013cc2d8f5
   - order: 3
     body: >-
       U.S.A: Egg Capital of the World in Both Production & Consumption
@@ -77,7 +77,7 @@ cards:
 
       **325:** Avg number of eggs produced by one hen in 2009 (a 50% increase
       from 50 years earlier)
-    _key: card-4-25a5f8bf-f12e-4416-8d10-708676b97d3e
+    _key: card-4-d64d01d9-d91c-4b2e-8b8b-7b487a201f85
   - order: 4
     body: >-
       EGGScellent News: In recent years, eggs have gotten a bad reputation due
@@ -87,7 +87,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-17-egg-recall/)
-    _key: card-10-43e4d885-788d-40c2-8aeb-ed6137aff51c
+    _key: card-10-cd77ecfc-9ab5-4e8e-8dea-33f04240dae8
 
 ---
 * Rose Acre Farms Recalls Shell Eggs Due to Possible Health Risk: [https://www.fda.gov/Safety/Recalls/ucm604640.htm](https://www.fda.gov/Safety/Recalls/ucm604640.htm)

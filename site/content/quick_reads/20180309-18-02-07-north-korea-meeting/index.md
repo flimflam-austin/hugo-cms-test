@@ -1,14 +1,14 @@
 ---
 title: 18.02.07 North Korea Meeting
 slug: 20180309-18-02-07-north-korea-meeting
-_id: legacy-6ab3873e-170f-4511-976e-f1d9ab8f24e9
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-3d196806-ed9b-40a7-9538-a87ab66c5f04
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-07-north-korea-meeting/
 _createdAt: '2018-03-09T12:00:43Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-09T12:00:43+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip For Why It Matters
     citation: Flip For Why It Matters
-    _key: card-1-44ea538c-1ad1-4fd1-9583-dd4bbeb5f401
+    _key: card-1-14196f28-36c5-402b-806a-5c555bd329b6
   - order: 1
     body: >-
       What’s At Stake:  
@@ -54,7 +54,7 @@ cards:
 
       * Continually lies about nuclear program, talks to gain time, while
       advancing technology.
-    _key: card-2-a80f0fd4-2979-4420-b041-5761752b310f
+    _key: card-2-fac25129-1701-4fcc-bf83-ac5b2d4db902
   - order: 2
     body: >-
       How We Got Here:  
@@ -69,7 +69,7 @@ cards:
       * U.S. recently announced “toughest sanctions ever” – targeting shipping
       companies that enable North Korea to do business with outside world (Feb
       23).
-    _key: card-3-7a12ff38-621f-4c68-a142-0c76e568b8e9
+    _key: card-3-038a90e2-9eef-4190-b01f-f70c258949a5
   - order: 3
     body: >-
       ## Brief Background
@@ -83,7 +83,7 @@ cards:
 
       * Several more nuclear tests during Obama admin. Americans
       arrested/imprisoned 2009 & 2016 (OttoA Warmbier died 2017).
-    _key: card-4-beae52e9-b406-48bd-bb0b-bc2a0e0debc7
+    _key: card-4-a0bf1485-c100-440b-9ed1-d413e3bb7ff3
   - order: 4
     body: >-
       ## What to Watch For
@@ -99,7 +99,7 @@ cards:
       * **Where?** TBD.
 
       * **How?** It’s unprecedented. Stay Tuned.
-    _key: card-5-64760488-d93a-4863-a41e-68d0a4cca282
+    _key: card-5-90fddf7b-f07b-4ce6-abf8-e419e43ef001
   - order: 5
     body: >-
       ## From The President
@@ -114,10 +114,10 @@ cards:
       President Trump, Twitter,  
 
       @realdonaldtrump, Mar. 8, 2018
-    _key: card-6-00fcd28a-988d-4af3-8d9b-19f848e74004
+    _key: card-6-47d13029-61f2-457a-a144-3a49d7fe5a2c
   - order: 6
     body: "## Something To Consider:\n\n_“PS: To be clear — we need to talk to North Korea. But Kim is not inviting Trump so that he can surrender North Korea’s weapons. Kim is inviting Trump to demonstrate that his investment in nuclear and missile capabilities has forced the United States to treat him as an equal.”_  \nJeffrey Lewisa\x0F, Twitter, @ArmsControlWonk Mar. 8, 2018"
-    _key: card-7-61607cc8-acfd-4e98-8fec-168123e6f8ad
+    _key: card-7-fea98227-bd7f-435f-9a70-5ab4ad0a17a1
   - order: 7
     body: >-
       Word to the Wise: Talk is one thing. Action another. Watch ACTION by
@@ -127,7 +127,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-07-north-korea-meeting/)
-    _key: card-10-44ca2632-e2df-495c-9f35-9976a3dfd0ce
+    _key: card-10-0fed2fcb-e13a-4f40-b3c9-ab27f22e8b6f
 
 ---
 * Trump agrees to meet with Kim: [http://thehill.com/homenews/administration/377524-north-koreas-kim-jong-un-invites-trump-to-meet](http://thehill.com/homenews/administration/377524-north-koreas-kim-jong-un-invites-trump-to-meet)

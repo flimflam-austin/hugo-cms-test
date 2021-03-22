@@ -1,14 +1,14 @@
 ---
 title: Collision Course
 slug: 20180823-18-08-23-hawaiian-hurricane
-_id: legacy-34c88484-1ebd-4f9c-a5ee-ba4370fae332
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-2f12f94e-ab46-4595-83fe-0303be541dfc
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-23-hawaiian-hurricane/
 _createdAt: '2018-08-23T11:12:52Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-23T11:12:52+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       2018 hurricane season.
     citation: 2018 hurricane season.
-    _key: card-1-35900095-b8b5-4c7e-b0b8-907d4edce225
+    _key: card-1-37145433-bed4-4555-b304-b835706a9bc5
   - order: 1
     body: >-
       ## Why So Rare?
@@ -45,7 +45,7 @@ cards:
       Brian McNoldy, University of Miami meterologist says only 5 storms as
       strong as Hurricane Lane have EVER been recorded *near* Hawaii. Wind
       patterns tend to keep storms away.
-    _key: card-2-03f45454-5f0a-40bd-b881-3f1df6650bee
+    _key: card-2-c90dddde-6f10-47a5-af2e-40caaaf6d07e
   - order: 2
     body: >-
       ## Something To Consider:
@@ -60,7 +60,7 @@ cards:
       * All 8 islands in danger.
 
       * Officials want citizens to have essential supplies for 14 days.
-    _key: card-3-36fe4d9a-bfe9-4ad9-a6d6-f0a58223754c
+    _key: card-3-1376c723-af86-42e5-8e61-03c89123562a
   - order: 3
     body: >-
       ## 2018 Hurricane Season
@@ -80,7 +80,7 @@ cards:
 
       Hurricane vs. Cyclone
     citation: Hurricane vs. Cyclone
-    _key: card-4-baee4382-f846-41b0-b7ca-c28eaa967cc7
+    _key: card-4-3cdf4766-ea4d-476a-aa9c-b2dc5b2cce76
   - order: 4
     body: |-
       # What’s The Difference?
@@ -97,7 +97,7 @@ cards:
 
       [Read More: Click Here](https://oceanservice.noaa.gov/facts/cyclone.html)
     citation: 'Read More: Click Here'
-    _key: card-5-e1777b86-dac0-4bbd-b388-2fd0c8743b51
+    _key: card-5-08652322-90a4-4a61-bdee-3c5a6ae798ab
   - order: 5
     body: >-
       NOAA forecasts suggest a "normal" hurricane season for the Atlantic (0-2
@@ -107,7 +107,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-23-hawaiian-hurricane/)
-    _key: card-10-61094f0a-2281-4c1d-9f37-1d16e7933310
+    _key: card-10-5acb42ad-1558-413a-8f55-1ea391e05e20
 
 ---
 * **As Hurricane Lane approaches Hawaii, Kilauea volcano simmers down:**  
@@ -116,7 +116,5 @@ cards:
 [https://www.popsci.com/hurricane-lane-hawaii](https://www.popsci.com/hurricane-lane-hawaii)
 * **NOAA predicts a near- or above-normal 2018 hurricane season in the central Pacific:**  
 [http://www.noaa.gov/media-release/noaa-predicts-near-or-above-normal-2018-hurricane-season-in-central-pacific](http://www.noaa.gov/media-release/noaa-predicts-near-or-above-normal-2018-hurricane-season-in-central-pacific)
-
-{{< tweet 1032205016227110917 >}}
 
 {{< tweet 1032205016227110917 >}}

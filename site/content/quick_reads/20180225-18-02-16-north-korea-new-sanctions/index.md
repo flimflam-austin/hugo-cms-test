@@ -1,14 +1,14 @@
 ---
 title: 18.02.16 North Korea New Sanctions
 slug: 20180225-18-02-16-north-korea-new-sanctions
-_id: legacy-7c7a0ec1-e93b-4c16-9487-e698c86b4962
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-fa6bb535-20a7-4193-81b8-4a49aada7aec
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-16-north-korea-new-sanctions/
 _createdAt: '2018-02-26T13:00:48Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-26T13:00:48+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip For how we got here
     citation: Flip For how we got here
-    _key: card-1-00e45644-064e-424a-a30b-69f6d5ec53ae
+    _key: card-1-fe2764a0-3d15-4bbe-95a3-fbf343234c61
   - order: 1
     body: >-
       ## North Korea & Sanctions
@@ -46,7 +46,7 @@ cards:
 
       * Trump administration calls latest round ‘largest sanctions ever’ – some
       debate this description.
-    _key: card-2-13a36833-bab6-47cc-b00f-3eb3e429fa07
+    _key: card-2-72ab7447-022d-4042-aeac-2b9aab9f33a4
   - order: 2
     body: >-
       # Timing Matters
@@ -62,7 +62,7 @@ cards:
       Korea.
 
       * USA demands total denuclearization of North Korea.
-    _key: card-3-0d0bd171-0b0c-4eba-bfaf-343893bf6996
+    _key: card-3-dc39b172-3897-432b-a940-e8c7b6c8b174
   - order: 3
     body: >-
       Sanctions Target?  
@@ -76,7 +76,7 @@ cards:
         
         
       Treasury Secretary Steven Mnuchin, Feb 23, 2018
-    _key: card-4-19b23b61-b485-4bd0-a391-03b332c54a1e
+    _key: card-4-f411feac-0a1a-45f1-bda9-5c32666813a3
   - order: 4
     body: >-
       Will sanctions work this time? If past is precedent, North Korea will
@@ -85,7 +85,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-02-16-north-korea-new-sanctions/)
-    _key: card-10-daa8a9e4-7d76-430f-b8c2-c841523bb36b
+    _key: card-10-7ff08915-c68d-4ad0-a573-7c69e13e5a4d
 
 ---
 * North Korea condemns new sanctions but opens door to talks withA U.S.A [https://www.nbcnews.com/news/world/north-korea-condemns-new-u-s-sanctions-says-blockade-would-n851021](https://www.nbcnews.com/news/world/north-korea-condemns-new-u-s-sanctions-says-blockade-would-n851021)

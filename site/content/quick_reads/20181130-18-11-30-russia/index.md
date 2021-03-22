@@ -1,14 +1,14 @@
 ---
 title: Russia Recap
 slug: 20181130-18-11-30-russia
-_id: legacy-aeb9d4a6-0b12-48d5-8ce3-b23cadb848f7
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-4cf29275-5900-4a63-b1d5-65f49fceb4cc
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-11-30-russia/
 _createdAt: '2018-11-30T13:00:34Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-11-30T13:00:34+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Why It Matters
     citation: Why It Matters
-    _key: card-1-660341e2-5576-47b6-85b8-b949f0dc127c
+    _key: card-1-54ee060f-1c30-41ff-ac7d-55bae30bf104
   - order: 1
     body: >-
       # Ukraine Conflict
@@ -48,7 +48,7 @@ cards:
       * Friday: Ukraine banned Russian men aged 16 – 60 from entry.
 
       * Russia says Ukraine’s Pres. is posturing before his elections.
-    _key: card-2-b0935208-8a2a-4ec0-9c8c-a61e3a444fb7
+    _key: card-2-a2688811-8a46-4dc7-a439-835ff5488f99
   - order: 2
     body: >-
       # Michael Cohen
@@ -61,7 +61,7 @@ cards:
       * August: Pleaded guilty to 8 counts unrelated to Trump or Russia.
 
       * Pres. Trump says Cohen is **lying to get a reduced sentence.**
-    _key: card-3-2d75112c-58fe-4b23-9e17-83ad9137797b
+    _key: card-3-df62a84a-0673-4e99-8d23-3b20b7be9f72
   - order: 3
     body: >-
       # Pres. Vladimir Putin
@@ -74,7 +74,7 @@ cards:
       * Topics expected to be discussed were the uncertainty over future of a
       Cold War-era **arms treaty**, as well as security issues in **Ukraine**,
       **Syria**, **Iran** and **North Korea**.
-    _key: card-4-81af9258-b681-4159-9512-36b5da304711
+    _key: card-4-9d8db549-d6ec-4fa2-8675-3702ba2626ef
   - order: 4
     body: >-
       The Kremlin expressed regret over the cancelled meeting, but a foreign
@@ -84,7 +84,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-11-30-russia/)
-    _key: card-10-3adda6dc-63b6-44bd-bd92-8e5c90a6911a
+    _key: card-10-855cf6e2-a4ee-435a-9ab7-0586fd4ecbdc
 
 ---
 * **Donald J. Trump Twitter:**  

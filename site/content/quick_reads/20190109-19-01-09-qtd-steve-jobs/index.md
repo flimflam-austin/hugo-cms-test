@@ -1,14 +1,14 @@
 ---
 title: 'Quote of the Day: Steve Jobs'
 slug: 20190109-19-01-09-qtd-steve-jobs
-_id: legacy-d127da5c-b0d8-48ef-99ad-443db56b15a8
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-497fc834-31cc-4a4e-a67e-572e182a2baf
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - 19-01-09-qtd-steve-jobs/
 _createdAt: '2019-01-09T13:11:07Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-01-09T13:11:07+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Steve Jobs
     citation: Steve Jobs
-    _key: card-1-74782a17-96ae-4fa0-a0da-778911101e30
+    _key: card-1-356559ff-fe0b-4201-b967-d794614640e9
   - order: 1
     body: >-
       Jobs, one of the most successful college dropouts ever, co-founded Apple
@@ -40,7 +40,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/19-01-09-qtd-steve-jobs/)
-    _key: card-10-989e022c-2c37-49cc-bf2b-85f59072cffe
+    _key: card-10-8dcec2fe-6c25-4bbf-b649-e71737695566
 
 ---
 * **‘You’ve got to find what you love,’ Jobs says:**  

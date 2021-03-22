@@ -1,14 +1,14 @@
 ---
 title: 18.02.01 the Memo
 slug: 20180202-18-02-01-the-memo
-_id: legacy-1dac7b25-b05d-4802-8dfd-369bdc7125b4
-_rev: XOnQP8cIThhnw9BWFxSjgf
+_id: legacy-76b3300d-3506-4cb6-9fdf-cf8a5084a594
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-02-01-the-memo/
 _createdAt: '2018-02-02T10:50:42Z'
-_updatedAt: '2021-03-16T11:57:58Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-02T10:50:42+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       2016 elections.
 
       * IncludesA controversial classified info about surveillance by the FBI.
-    _key: card-1-898d36a2-a6a1-4e2e-8e32-5b415b78a872
+    _key: card-1-2dacc16f-ba5f-43ce-8e51-693a290d3e1a
   - order: 1
     body: >-
       ## “The Memo”: Why It Matters
@@ -43,7 +43,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-2-45e29679-3315-4730-b3d2-19aa8020e229
+    _key: card-2-3378244a-a8cc-4f3c-8306-dde732940c37
   - order: 2
     body: >-
       ## “The Memo”: Why It Matters
@@ -51,7 +51,7 @@ cards:
 
       * The FBI did not disclose the source of their info (Christopher Steele)
       worked for the opposition research firm and was personally anti-Trump.
-    _key: card-3-ea1effa9-bbe8-431a-ba84-349919db0a30
+    _key: card-3-1efc3192-0e7f-43e6-be89-df7ac557050f
   - order: 3
     body: >-
       # Bottom Line Analysis
@@ -64,7 +64,7 @@ cards:
         
         
       Tom Bevan, Real Clear Politics, Co-Founder & Publisher
-    _key: card-4-851d7c50-9d55-45ee-b866-797e5639301a
+    _key: card-4-e352678d-b21f-486d-abe4-c08ce42fcd48
   - order: 4
     body: |-
       # “The Memo”
@@ -74,7 +74,7 @@ cards:
       * Chair of Intelligence Cmte: Devin NunesA (R-CA) released memo.
       * Ranking Member:A Adam Schiff (D-CA) says politics at play.
       * POTUS: Approved release of memo.
-    _key: card-5-514fdf0b-e320-448b-99a4-3be35dc895a7
+    _key: card-5-938c45a9-a691-4e73-97dd-3c128e74ca07
   - order: 5
     body: >-
       # The President Says
@@ -88,7 +88,7 @@ cards:
 
       [@RealDonaldTrump](https://twitter.com/realDonaldTrump)
     citation: '@RealDonaldTrump'
-    _key: card-6-84a98ca5-c872-4cc3-b974-ef966c066f26
+    _key: card-6-f8d50c11-97df-4aed-9c2d-637677be337d
   - order: 6
     body: >-
       > “…it’s clear that top officials used unverified information in a court
@@ -98,7 +98,7 @@ cards:
         
         
       Devin Nunes (R-CA) Chair of House Intelligence Cmte, Jan 31, 2018
-    _key: card-7-ea6df959-92f9-4f63-b8df-2566d4116f4f
+    _key: card-7-206ebd25-9e84-4a36-8ee3-8547d31b1a37
   - order: 7
     body: >-
       > “The decision by Nunes to employ an obscure rule to release classified
@@ -109,16 +109,16 @@ cards:
         
       Adam Schiff (D-CA) Ranking Democrat, House Intel Cmte, Jan 31, 2018 via
       @RepAdamSchiff
-    _key: card-8-5d56f7f7-5435-4cc9-9040-fd5afd631790
+    _key: card-8-8c95c9dc-613a-4a84-b948-f9a507a05684
   - order: 8
     body: "# What You Should Know: FBI\n\n* FBI statement:A A “grave concerns” about memo’s accuracy\n* Surveillance of Americans by the FBI is approved throughA FISA courts a\x13 similar to getting a warrant in aA classifiedA setting.\n* However, if you’re “spied” on by FBI, you would not be told."
-    _key: card-9-bb9a5229-63a2-4daf-907a-81a378593815
+    _key: card-9-b9d1057e-8592-45af-b86a-e841751e0bfd
   - order: 9
     body: |-
       Here's The Memo & Other Links:
 
       [view sources](https://smarthernews.com/18-02-01-the-memo/)
-    _key: card-10-dc938ac1-f60b-473a-8f25-2ecfc2492e0d
+    _key: card-10-717eef77-467f-437b-997d-7bb1ebe43fb0
 
 ---
 1. **Read the unredacted Nunes memo**: http://docs.house.gov/meetings/IG/IG00/20180129/106822/HMTG-115-IG00-20180129-SD001.pdf

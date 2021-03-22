@@ -5,28 +5,24 @@ title: >-
   During an Arrest.
 slug: >-
   20200528-minneapolis-mayor-jacob-frey-reacting-to-the-death-of-black-man-while-a-white-officer-kneeled-on-his-neck-during-an-arrest
-_id: legacy-9258f36c-abc8-4da1-a33e-d7b87c46f712
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-6fda5be0-60b5-46a2-8841-b8e52059d357
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/minneapolis-mayor-jacob-frey-reacting-to-the-death-of-black-man-while-a-white-officer-kneeled-on-his-neck-during-an-arrest/
 _createdAt: '2020-05-28T02:04:47Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-05-28T02:04:47+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    b71a75f9ad66acef184eea3532f702f67da97494-2560x1707.jpg
 is_breaking: false
-summary: >-
-  Minneapolis Mayor Jacob Frey reacting to the death of a black man, George
-  Floyd, who died in police custody after a white officer kneeled on his neck
-  during an arrest.
 featured_quote:
   quote: This man's life matters.
-  citation: >-
-    Minneapolis Mayor Jacob Frey reacting to the death of a black man, George
-    Floyd, who died in police custody after a white officer kneeled on his neck
-    during an arrest.
 
 ---
 * Police arrested George Floyd for forgery (reportedly using a counterfeit $20 bill) on Monday, May 25, around 8 p.m. in Minneapolis, Minnesota. Police say he resisted arrest and had to be apprehended. A [new video](https://www.cbsnews.com/video/new-video-shows-minneapolis-police-arrest-of-george-floyd-before-death/) shows some footage prior to the arrest.
@@ -38,4 +34,4 @@ featured_quote:
 * Via [Twitter](https://twitter.com/realDonaldTrump/status/1265774767493148672?s=20), Pres. Trump announced he’s requested that the FBI and Department of Justice investigate the case: _“At my request, the FBI and the Department of Justice are already well into an investigation as to the very sad and tragic death in Minnesota of George Floyd…I have asked for this investigation to be expedited and greatly appreciate all of the work done by local law enforcement. My heart goes out to George’s family and friends. Justice will be served!”_
 * For a round-up from the local CBS affiliate in Minneapolis: [CLICK HERE](https://minnesota.cbslocal.com/2020/05/26/being-black-in-america-should-not-be-a-death-sentence-officials-respond-to-george-floyds-death/)
 
-**LEARN MORE**: This is a good overview from national press: [READ HERE](https://www.usatoday.com/story/news/nation/2020/05/27/george-floyd-protesters-clash-minneapolis-police-after-video/5264887002/)usatoday.com/story/news/nation/2020/05/27/george-floyd-protesters-clash-minneapolis-police-after-video/5264887002/)
+**LEARN MORE**: This is a good overview from national press: [READ HERE](https://www.usatoday.com/story/news/nation/2020/05/27/george-floyd-protesters-clash-minneapolis-police-after-video/5264887002/)

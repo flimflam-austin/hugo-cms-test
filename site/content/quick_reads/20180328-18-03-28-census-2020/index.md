@@ -1,14 +1,14 @@
 ---
 title: 18.03.28 Census 2020
 slug: 20180328-18-03-28-census-2020
-_id: legacy-8b555106-874c-4dc3-b244-1579287024bc
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-eb22d6c7-10cd-4d3b-87d3-c79d733133cf
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-03-28-census-2020/
 _createdAt: '2018-03-28T09:32:42Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-28T09:32:42+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
         
         
       California Attorney General Xavier Becerra, March 27, 2018
-    _key: card-1-05f8be6e-b34f-49dd-aeae-4da7b34c1938
+    _key: card-1-65c5fd35-ead4-4ae7-83bd-d141244750f2
   - order: 1
     body: >-
       ## “Are You a U.S. Citizen?”
@@ -43,7 +43,7 @@ cards:
 
       * **Not a first:** From 1820-1950 every census included a question about
       citizenship.
-    _key: card-2-c0a54701-e074-4337-b969-d74d179d2b5f
+    _key: card-2-b915ddd9-d5e5-4583-8a4b-80904fec0c1e
   - order: 2
     body: >-
       ## Why the Census Counts
@@ -62,7 +62,7 @@ cards:
 
       What's at stake?
     citation: What's at stake?
-    _key: card-3-76f00d4b-7906-4338-8855-856d3badffd0
+    _key: card-3-18eed334-feb6-415f-a27b-b5f9a68eec9f
   - order: 3
     body: >-
       Why Are the States Suing?
@@ -77,13 +77,13 @@ cards:
 
       * **Immigration Enforcement:**A No one knows if the data would be used
       against those who respond.
-    _key: card-4-89321d95-904f-4f11-b838-46720ee62d09
+    _key: card-4-6f3fe78f-8e8b-4397-abab-3ad8b4a69eb5
   - order: 4
     body: |-
       How do they take the Census anyway? Click to find out.
 
       [view sources](https://smarthernews.com/18-03-28-census-2020/)
-    _key: card-10-a09e80af-4ab7-41bb-98fe-705b578202ac
+    _key: card-10-2f7ee11d-453d-4bef-aa39-7522a650b4a8
 
 ---
 * Commerce Department’s announcement to include citizenship question:A [https://www.commerce.gov/news/press-releases/2018/03/us-department-commerce-announces-reinstatement-citizenship-question-2020](https://www.commerce.gov/news/press-releases/2018/03/us-department-commerce-announces-reinstatement-citizenship-question-2020)

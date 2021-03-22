@@ -1,14 +1,14 @@
 ---
 title: 18.03.30 Reagan Shot
 slug: 20180330-18-03-30-reagan-shot
-_id: legacy-e8f5cbb4-c4dd-401d-bf38-47354c96af74
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-9a34a5bf-9ed9-461f-bd6d-34ac34ad023d
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-03-30-reagan-shot/
 _createdAt: '2018-03-30T10:31:53Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-30T10:31:53+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/EYI79ziwh0w?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-e362d421-249a-46e6-bfde-b199e6074a51
+    _key: card-1-4cc4c1d2-4982-4ed2-99d3-84265ff6d42b
   - order: 1
     body: >-
       ## 6 Shots Fired; 4 Men Shot
@@ -50,7 +50,7 @@ cards:
 
       * WH Press Secretary James Brady was severely injured. He was shot in the
       head, leaving him partially paralyzed & in a wheelchair.
-    _key: card-2-94aaca15-0b39-417a-8458-09dfbf86595a
+    _key: card-2-fd45345b-f8ad-44a6-8e6b-e4930f8a5685
   - order: 2
     body: >-
       ## “The verdict of not guilty by reason of insanity was a bad verdict.”
@@ -62,7 +62,7 @@ cards:
       In 2016, 34 years after a jury found him insane, a federal judge released
       Hinckley into the custody of his mother after doctors at the mental
       hospital where he lived for decades said he was no longer a threat.
-    _key: card-3-4168016e-7ecd-4d9d-87a6-5d2165358492
+    _key: card-3-d042f5db-78d5-4ec3-b95a-1cabbce88d3f
   - order: 3
     body: >-
       ## Jim Brady’s Lasting Legacy
@@ -76,7 +76,7 @@ cards:
       Protection Act into law. The Act requires federally licensed firearms
       dealer (about 60% of all gun sales) to conduct background checks of
       potential gun buyers.
-    _key: card-4-248445e3-fad5-45b6-a168-d9a1686a570c
+    _key: card-4-d5ce7557-c6ac-4119-93b2-de0d61148f6a
   - order: 4
     body: >-
       In 2014, when James Brady died his death was ruled a homicide because he
@@ -86,7 +86,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-03-30-reagan-shot/)
-    _key: card-10-8d8831c9-bf49-4695-910c-bf6091a17817
+    _key: card-10-b2677734-8739-48b5-91d1-48a2d6ef6441
 
 ---
 * Ronald Reagan assassination attempt: [archive.boston.com/news/politics/gallery/ronald_reagan_assassination_attempt/](http://archive.boston.com/news/politics/gallery/ronald_reagan_assassination_attempt/)

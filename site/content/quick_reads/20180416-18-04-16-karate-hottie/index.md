@@ -1,14 +1,14 @@
 ---
 title: 18.04.16 Karate Hottie
 slug: 20180416-18-04-16-karate-hottie
-_id: legacy-0c9d9e00-42ad-4c74-9160-ed7aa612adea
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-4c39abaa-d8c5-4c7a-9709-e81d893f02fd
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-16-karate-hottie/
 _createdAt: '2018-04-16T11:00:58Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-16T11:00:58+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
       Michelle Waterson aka "The Karate Hottie" after her UFC victory Saturday,
       April 14, 2018. P.S. She says her warrior instinct was birthed with her
       child.
-    _key: card-1-32d58014-96f1-454c-a600-1ae162bdb11d
+    _key: card-1-2d3d00e8-306f-42ec-af43-031607fbb4f8
   - order: 1
     body: >-
       # Michelle Waterson
@@ -41,7 +41,7 @@ cards:
       ring.
 
       * Daughter,A Araya (8) has come to all her fights.
-    _key: card-2-e1ec0ec2-89ab-43f1-85ae-b427924eacab
+    _key: card-2-3e3ac745-bad6-49e8-9219-f5893c4cfe51
   - order: 2
     body: >-
       > “For a long time, I was embarrassed about my stretch marks.A Now I
@@ -56,7 +56,7 @@ cards:
       [Click Here: Waterson's Daughter &
       Husband](https://www.instagram.com/p/BhiTRiCjUTx/?taken-by=karatehottiemma)
     citation: 'Click Here: Waterson''s Daughter &amp; Husband'
-    _key: card-3-91a6dbb6-82ea-4e8a-b27e-f4495d349192
+    _key: card-3-7c8f8f85-b900-4d5b-a814-9b2bd2421135
   - order: 3
     body: >-
       Michelle was working at "Hooters" in college when she decided that she
@@ -64,7 +64,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-16-karate-hottie/)
-    _key: card-10-51741711-be51-4cc5-9056-4fc880a8a643
+    _key: card-10-0e0ee02b-d6cc-475b-a117-44ff12e1eec3
 
 ---
 * Michelle Waterson:A [https://www.instagram.com/karatehottiemma/](https://www.instagram.com/karatehottiemma/)

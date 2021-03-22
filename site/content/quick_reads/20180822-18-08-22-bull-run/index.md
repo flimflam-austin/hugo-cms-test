@@ -1,14 +1,14 @@
 ---
 title: 18.08.22 Bull Run
 slug: 20180822-18-08-22-bull-run
-_id: legacy-2a36522c-7841-4cca-aee0-85c68aa8d48e
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-540b2add-65ae-4752-a6d3-d2c97eff07cc
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-22-bull-run/
 _createdAt: '2018-08-22T11:59:49Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-22T11:59:49+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
 
       Why the timing matters.
-    _key: card-1-254d4513-52a6-418f-a08c-3cbfc43b20e8
+    _key: card-1-81df98a8-3b38-4e8d-ba16-2afce35c3599
   - order: 1
     body: >-
       ## Why It Matters
@@ -47,7 +47,7 @@ cards:
 
       * Gains have **added trillions of dollars** to household wealth, boosting
       the economy and retirement savings.
-    _key: card-2-758be44c-e689-4f5a-b433-42d0c526927d
+    _key: card-2-d67d61bd-26e8-4353-aa24-dc7a5215d040
   - order: 2
     body: >-
       ## Important Context
@@ -62,7 +62,7 @@ cards:
 
       * Bottom line: **it’s the longest bull market, but not necessarily the
       greatest.**
-    _key: card-3-9b15e613-a360-46da-bae2-6c7759022ce1
+    _key: card-3-2f298f59-bbff-4492-8ff0-017ddcc576a8
   - order: 3
     body: >-
       > “ThisA bullA marketA has been breathtaking…valuations in general have
@@ -75,7 +75,7 @@ cards:
         
       Kristina Hooper, Invesco's chief global market strategist, as the S&P 500
       rose to a new all-time high Tuesday.
-    _key: card-4-daa5d664-639a-4e4a-9739-7815f0fa9d74
+    _key: card-4-e4734156-ad9d-4503-b236-58d2b785507b
   - order: 4
     body: >-
       Strong earnings growth continues to power the stock market, but experts
@@ -85,7 +85,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-22-bull-run/)
-    _key: card-10-681fc79f-f599-4f4a-9f1a-1aefbd5ba875
+    _key: card-10-460f9623-72fa-4c88-b02b-deecc8a6ab56
 
 ---
 * **S&P 500 touches all-time high, ties record for longest bull market:**  

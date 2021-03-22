@@ -1,14 +1,14 @@
 ---
 title: Judge Kavanaugh & Dr. Ford to Testify
 slug: 20180927-18-09-27-kavanaugh-assault-hearing
-_id: legacy-20217ca0-ef53-4dda-b7d3-19866b79733c
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-c4c7f2bc-9757-44c4-ab02-c62c9d1738ff
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-27-kavanaugh-assault-hearing/
 _createdAt: '2018-09-27T12:39:52Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-27T12:39:52+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       But first, A recap
     citation: But first, A recap
-    _key: card-1-010fb61c-0ff8-448a-af10-e24e0e47609c
+    _key: card-1-70823fd1-6991-411e-9735-67a9d7982813
   - order: 1
     body: >-
       ## RECAP
@@ -50,7 +50,7 @@ cards:
 
       * **Sept 16:** Ford identified herself (4 days after media reports on
       letter)
-    _key: card-2-f63f4ff3-2da9-45db-a08d-a9f940f0d18f
+    _key: card-2-bcc8d626-8305-4e36-a32b-f5a582f92a0b
   - order: 2
     body: >-
       > **Q:** Have _they been in the same room since the alleged incident?_  
@@ -69,7 +69,7 @@ cards:
       her, we did not travel in the same social circle, she was not a friend,
       not someone I knew” and that he doesn’t recall ever being at parties where
       Ford was present.
-    _key: card-3-b5ed5760-cf3f-412b-b706-3841fafbb111
+    _key: card-3-b9e28ace-693e-4229-8ab4-f5569f782fbd
   - order: 3
     body: >-
       > **Q:** _Why is it an open hearing?A_  
@@ -88,7 +88,7 @@ cards:
         
       An open session is a matter of public record, whereas a closed session
       would be confidential.
-    _key: card-4-67fd8239-8418-43d3-9834-f86a023bcad3
+    _key: card-4-68949c16-2e23-4231-8e0a-c775a4b3b942
   - order: 4
     body: >-
       > **Q:A** _Is there any penalty for lying under oath during a Senate
@@ -106,7 +106,7 @@ cards:
         
       Whether you’re under oath or not, lying to Congress is punishable by up to
       5 year in prison.
-    _key: card-5-5d2d4796-7007-4c3a-841c-116d1f87308c
+    _key: card-5-9442a096-6634-4b81-a44f-831f411cd2ef
   - order: 5
     body: >-
       > **Q:** _When will the Senate vote on Kavanaugh’s nomination?_  
@@ -124,7 +124,7 @@ cards:
         
       In 2017, the Senate changed its rules to allow confirmation by a simple
       majority (51 of 100) instead of 60 votes.
-    _key: card-6-fa8a15fd-a9a9-492c-b354-0651e665b326
+    _key: card-6-7bcacec4-ac3f-4c8b-b2ef-2a8f0ec83568
   - order: 6
     body: >-
       > “These unwitting combatants in an undeclared war. These people are not
@@ -135,7 +135,7 @@ cards:
       Sen. Jeff Flake (R-AZ) speaking on the Senate floor on Wednesday about
       both Dr. Christine Blasey Ford and Supreme Court nominee Brett Kavanaugh
       ahead of today's hearing.
-    _key: card-7-e0926aa5-c101-4f25-b619-2a0e9742deb6
+    _key: card-7-9b9302e9-e32a-4982-acca-99a5dc1bb65b
   - order: 7
     body: >-
       The two other woman accusing Kavanaugh of sexual assault and misconduct in
@@ -145,7 +145,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-09-27-kavanaugh-assault-hearing/)
-    _key: card-10-d2e296d5-b7bf-4b9e-b931-643d40316eba
+    _key: card-10-987d2f17-0746-47ba-972f-177a7fb50dea
 
 ---
 * **Read Christine Blasey Ford’s initial letter to Dianne Feinstein:**  

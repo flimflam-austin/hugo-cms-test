@@ -1,14 +1,14 @@
 ---
 title: 18.07.05 Otd Bikini
 slug: 20180704-18-07-05-otd-bikini
-_id: legacy-e271ebf0-4ff8-4f15-a702-0cfb7a7887b4
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-42898ec2-effe-47d4-ac9b-c4112f6073bd
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-05-otd-bikini/
 _createdAt: '2018-07-05T02:45:25Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-05T02:45:25+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       FLIP: Itsy bitsy...
     citation: 'FLIP: Itsy bitsy...'
-    _key: card-1-2b8943f1-8f76-4830-96ba-73f8161044f0
+    _key: card-1-c00a3193-5f00-4ded-8ff2-2c1e22e18e58
   - order: 1
     body: >-
       ## Scandalous History
@@ -48,7 +48,7 @@ cards:
       * NOT the first 2-piece swimsuit, but theA **firstA to show navel.**
 
       * Banned in numerous countries, Vatican called it sinful.
-    _key: card-2-8194c750-b1f7-437c-b61e-6833bc0a6da7
+    _key: card-2-f5bcd90e-6387-4046-a9cd-ba359a4052c8
   - order: 2
     body: >-
       ## Less is Much, Much More
@@ -64,7 +64,7 @@ cards:
       pulled through a wedding ring.”**
 
       * **Fun fact:** If the other design won out, we’d call a bikini an “atom.”
-    _key: card-3-0505d661-48ee-4084-afcb-5db8fa400cac
+    _key: card-3-2b75bf8b-98e6-49cf-a437-d9e020dcd0e2
   - order: 3
     body: >-
       The bikini didn't really catch on in America until the '60s, but by the
@@ -74,7 +74,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-05-otd-bikini/)
-    _key: card-10-2b60d1d8-065a-4624-a1d0-31ef2dafa95c
+    _key: card-10-bc48b23c-a2c1-4725-9eb9-6148c0937317
 
 ---
 * **Bikini’s birthday – and why is it so hard to buy? (From 2016)**  

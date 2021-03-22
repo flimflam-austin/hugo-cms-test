@@ -1,14 +1,14 @@
 ---
 title: 18.04.03 Free the Pasta!!
 slug: 20180404-18-04-03-free-pasta
-_id: legacy-86ea3dd9-8390-4ef3-a399-4a7aa9832341
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-cfcf13ed-6400-4b4a-8073-b509ccf12fbe
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-03-free-pasta/
 _createdAt: '2018-04-04T10:51:40Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-04T10:51:40+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       Flip: Say What?
     citation: 'Flip: Say What?'
-    _key: card-1-20bc45dd-27e6-4f26-822d-7c3c7683ad7a
+    _key: card-1-1d34d7df-c48c-444a-9d7b-f00de44752d0
   - order: 1
     body: >-
       > ‘The study found that that pasta **didn’t contribute to weight gain or
@@ -41,7 +41,7 @@ cards:
 
       Flip To Rejoice!
     citation: Flip To Rejoice!
-    _key: card-2-81d11af2-8aee-48da-ad29-cc0d3af4388f
+    _key: card-2-c109ca6d-610d-42a4-a919-d920ce4a4554
   - order: 2
     body: >-
       ## Study Details
@@ -60,7 +60,7 @@ cards:
       [Click: Low-GI
       foods](http://www.diabetes.org/food-and-fitness/food/what-can-i-eat/understanding-carbohydrates/glycemic-index-and-diabetes.html)
     citation: 'Click: Low-GI foods'
-    _key: card-3-d78fe316-1962-4bfc-b475-836ea8bec1cd
+    _key: card-3-795dba0e-ed4b-4245-9ee9-fd2e258d62b2
   - order: 3
     body: >-
       ## But…Why Did Pasta Lead To Weight Loss?
@@ -72,7 +72,7 @@ cards:
 
 
       Translation? **A little pasta may have made eaters feel fuller, longer.**
-    _key: card-4-50ffaebf-db5f-4863-ba0f-a2c3c8a76f1e
+    _key: card-4-7090c5e7-8673-4d2d-984d-6e034c7c2e75
   - order: 4
     body: >-
       Why all this confusion about carbs vs. no-carbs etc? Maybe it's this: "We
@@ -81,7 +81,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-03-free-pasta/)
-    _key: card-10-73fa3291-90bd-4140-883c-00c9ead31b5a
+    _key: card-10-178dece7-136f-418d-b6be-ebbbc5c5105f
 
 ---
 * Effect of pasta in the context of low-glycaemic index dietary patterns on body weight and markers of adiposity: a systematic review and meta-analysis of randomised controlled trials in adults: [http://bmjopen.bmj.com/content/8/3/e019438](http://bmjopen.bmj.com/content/8/3/e019438)

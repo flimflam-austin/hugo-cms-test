@@ -3,27 +3,25 @@ title: >-
   Punxsutawney Groundhog Club President Jeff Lundy’s Message of Hope After the
   Groundhog, Phil, Saw His Shadow, Indicating Six More Weeks of Winter.
 slug: 20210202-groundhogday2021
-_id: legacy-1ed0ae1d-d9db-41b1-87a5-7b69ad7f264a
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-4a7d7f21-b247-4f3d-ad4e-abed5f032cbb
+_rev: ZEyhBiGfgCfwE8WOjbuTJp
 type: quick_quotes
 draft: false
 aliases:
   - article/groundhogday2021/
 _createdAt: '2021-02-02T19:28:09Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2021-02-02T19:28:09+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    c2d4762de623933a9018dae2cd066229dbb68419-1024x575.jpg
 is_breaking: false
-summary: >-
-  Punxsutawney Groundhog Club President Jeff Lundy’s message of hope after the
-  groundhog, Phil, saw his shadow, indicating six more weeks of winter.
 featured_quote:
   quote: >-
     …Phil has also told us after winter, you’re looking forward to one of the
     most beautiful and brightest springs you’ve ever seen.
-  citation: >-
-    Punxsutawney Groundhog Club President Jeff Lundy’s message of hope after the
-    groundhog, Phil, saw his shadow, indicating six more weeks of winter.
 
 ---
 * Groundhog Day 2021 was held virtually this year due to the pandemic, with only cardboard cutout fans to cheer Phil on as he emerged from his burrow in Punxsutawney, Pennsylvania—a small town about 80 miles northeast of Pittsburgh.
@@ -39,4 +37,4 @@ Go straight to the source: [CLICK HERE](https://www.groundhog.org/)
 
 [Groundhog Day 2021: Punxsutawney Phil predicts winter will hang on](https://nypost.com/2021/02/02/groundhog-day-2021-punxsutawney-phil-predicts-winter-will-hang-on/)
 
-[Here’s how Groundhog Day works and how we know what Punxsutawney Phil says](https://www.pennlive.com/life/2018/01/how_groundhog_day_works.html)s and how we know what Punxsutawney Phil says](https://www.pennlive.com/life/2018/01/how_groundhog_day_works.html)
+[Here’s how Groundhog Day works and how we know what Punxsutawney Phil says](https://www.pennlive.com/life/2018/01/how_groundhog_day_works.html)

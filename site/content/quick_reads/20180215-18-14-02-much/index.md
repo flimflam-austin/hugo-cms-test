@@ -1,14 +1,14 @@
 ---
 title: 18.14.02 How Much $ = :)
 slug: 20180215-18-14-02-much
-_id: legacy-7ddde36b-8637-4777-b6bc-b00e57f4dd40
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-cfb3ec28-85cb-4807-a2a8-0b7f89373dca
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-14-02-much/
 _createdAt: '2018-02-16T23:00:55Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-16T23:00:55+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Cha-Ching: Flip Card
     citation: 'Cha-Ching: Flip Card'
-    _key: card-1-ab494e3d-442b-4c6c-bf5c-c9f16b9dcd1b
+    _key: card-1-735c80fc-e2bc-49cc-a6c7-3e5df423262b
   - order: 1
     body: >-
       # Can Money Buy Happiness?
@@ -50,7 +50,7 @@ cards:
 
       * Study based on Gallup World Poll survey of 1.7M people from 164
       countries
-    _key: card-2-32aac67a-5465-47ec-a717-5fd69aba62f1
+    _key: card-2-9c1352a7-5634-4eda-b0ea-f4211f1b1f9b
   - order: 2
     body: >-
       # But — there’s a catch!
@@ -62,13 +62,13 @@ cards:
       Study: After $95,000, people seem less satisfied. Researchers say desires
       such as pursuing more material gains and engaging in social comparisons
       could, ironically, lead to “a lower level of well-being.”
-    _key: card-3-7495172a-cf78-4f97-89ba-b19be442fcd0
+    _key: card-3-17c2b325-1dce-4abc-a8f1-76ae2ca18b01
   - order: 3
     body: |-
       So how much is the average American income? Click below to find out!
 
       [view sources](https://smarthernews.com/18-14-02-much/)
-    _key: card-10-465142ac-927c-4e27-bd27-b6e983d3fa7a
+    _key: card-10-39b214f4-3182-4ff9-90ff-4200f25096a3
 
 ---
 * Money only buys happiness for a certain amount:A [http://purdue.edu/newsroom/releases/2018/Q1/money-only-buys-happiness-for-a-certain-amount.html](http://purdue.edu/newsroom/releases/2018/Q1/money-only-buys-happiness-for-a-certain-amount.html)

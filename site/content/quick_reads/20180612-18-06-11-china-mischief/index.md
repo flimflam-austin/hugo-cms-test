@@ -1,14 +1,14 @@
 ---
 title: 18.06.11 China Mischief
 slug: 20180612-18-06-11-china-mischief
-_id: legacy-195b1a92-113d-47c1-8a3e-6dc9ea893b30
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-be235a45-4c1d-4973-a89d-cb4f93b43192
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-11-china-mischief/
 _createdAt: '2018-06-12T10:58:46Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-12T10:58:46+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       What To Know
     citation: What To Know
-    _key: card-1-754e056c-bcf2-41a3-b7fa-216f71dc0e77
+    _key: card-1-80b2fecd-9de6-4fb9-8e1d-e07a9e7ebded
   - order: 1
     body: >-
       ## SOUTH CHINA SEA
@@ -48,7 +48,7 @@ cards:
 
       * U.S. ships have sailed close to islands to assert freedom of waterway;
       **tensions very high.**
-    _key: card-2-efafc96a-2e78-4c5f-8c62-5482f4b7fa79
+    _key: card-2-a18c9956-1a0a-4988-acb2-5b3023ba6cd4
   - order: 2
     body: >-
       > _‘Despite China’s claims to the contrary, the placement of these weapons
@@ -60,7 +60,7 @@ cards:
       Sec. of Defense Jim Mattis last week on China's militarization of islands
       in the South China Sea. Brunei, Malaysia, the Philippines, Taiwan &
       Vietnam contest China's claims of the land.
-    _key: card-3-e42c8b33-a26f-415f-aaf1-62159c2f6f69
+    _key: card-3-f3a47495-f74c-4e42-9b93-6ce0dbab73f6
   - order: 3
     body: >-
       # CHINA & IRAN?
@@ -75,7 +75,7 @@ cards:
 
       * Chinese Pres. says he’s willing to work with Iran on nuke deal & trade
       despite sanctions; U.S. is not.
-    _key: card-4-80679ad4-14ed-4369-a798-cd56be108bf7
+    _key: card-4-323f5f3d-90eb-4a91-a766-fd8e47be7697
   - order: 4
     body: >-
       ## CYBER ATTACK
@@ -90,7 +90,7 @@ cards:
       * Data was **unclassified, but submarine program = top secret.**
 
       * China denies any involvement.
-    _key: card-5-3578d796-9b23-4101-ad12-51c7036c28cd
+    _key: card-5-7970a591-1c93-4c30-bf07-94617a6dae93
   - order: 5
     body: >-
       Some believe China may come out the "winner" in the historic Singapore
@@ -98,7 +98,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-11-china-mischief/)
-    _key: card-10-a095f324-ad58-4cbe-8c65-8e3e5971bfc3
+    _key: card-10-d3519ef2-34f9-4468-be55-614fc8455e88
 
 ---
 * **China could come away a big winner from a US-North Korea peace deal:** [https://www.cnbc.com/2018/06/11/us-north-korea-summit-chinas-interests.html](https://www.cnbc.com/2018/06/11/us-north-korea-summit-chinas-interests.html)

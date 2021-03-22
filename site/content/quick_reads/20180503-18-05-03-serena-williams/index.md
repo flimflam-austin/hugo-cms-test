@@ -1,14 +1,14 @@
 ---
 title: 18.05.03 Serena Williams
 slug: 20180503-18-05-03-serena-williams
-_id: legacy-28fd718c-d105-495a-89ea-0019c12a41d0
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-4b357d63-e200-4536-8315-fb7e6b9c3a44
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-03-serena-williams/
 _createdAt: '2018-05-03T10:52:21Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-03T10:52:21+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/cNABSm-jUNk?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-f2d45846-6a25-464b-9d23-a31fb71c07af
+    _key: card-1-c841fc91-963f-4eaa-8015-6c626dfe6806
   - order: 1
     body: >-
       ## Did You Know?
@@ -53,7 +53,7 @@ cards:
         
       When Serena met her would-be husband, Reddit co-founder Alexis Ohanian,
       she’d never heard of Reddit & he’d never watched her play tennis.
-    _key: card-2-40f9fda6-9767-4ba7-9579-dcc1b9e601a3
+    _key: card-2-4794735b-5ce3-4d32-91d4-9529679ca3ed
   - order: 2
     body: >-
       Some of Serena’s  
@@ -69,7 +69,7 @@ cards:
 
       * After designing for Nike & HSN, she is launching her **own fashion
       line** on May 20th.
-    _key: card-3-204d4d30-5784-427b-bca6-ec5e2d8ebaa3
+    _key: card-3-78d9d609-ccf5-43f7-ada1-7af6b1aa2e97
   - order: 3
     body: >-
       What's next for this #PowerMOM besides scoring her 24th & 25th Grand Slam
@@ -79,7 +79,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-03-serena-williams/)
-    _key: card-10-0786b5b7-dfa9-4826-a062-163a907071b0
+    _key: card-10-ba7f0f9c-79d5-46e4-ad9c-c516007a4eae
 
 ---
 * **WATCH: Before They Were Superstars: The Williams Sisters at age 11 and 12** : [https://www.olympicchannel.com/en/playback/before-they-were-superstars/episodes/the-williams-sisters-at-age-11-and-12/](https://www.olympicchannel.com/en/playback/before-they-were-superstars/episodes/the-williams-sisters-at-age-11-and-12/)

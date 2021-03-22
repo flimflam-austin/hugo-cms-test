@@ -1,14 +1,14 @@
 ---
 title: 18.03.06 Tx Primary Elections
 slug: 20180306-18-03-06-tx-primary-elections
-_id: legacy-7875aa95-dff4-4eb4-bd03-df8612b381a7
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-bfe588a3-8667-4715-83f0-47fe58b20a12
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-06-tx-primary-elections/
 _createdAt: '2018-03-06T12:43:55Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-06T12:43:55+00:00'
 weight: 50
 card_series: Current Events
@@ -22,7 +22,7 @@ cards:
 
       TAP HERE FOR MORE
     citation: TAP HERE FOR MORE
-    _key: card-1-86b5aedc-1dd5-46c6-91b7-b0264d30c375
+    _key: card-1-2d9eaf28-13b8-46c8-b3ef-657a9431f94c
   - order: 1
     body: >-
       ## TX Early Voters Broke Records This Year
@@ -35,7 +35,7 @@ cards:
       * By Friday, at the end of the early voting, more than 885k Texans (52%
       Dems & 48% Reps) had cast their ballots – up more than 50% since the 2014
       midterm primary elections.
-    _key: card-2-87ccb1d2-c545-48cb-bf47-d1ee20498f37
+    _key: card-2-91074691-6bd2-430d-9963-d506174947a6
   - order: 2
     body: >-
       ## Why Texas Matters:
@@ -53,7 +53,7 @@ cards:
 
       Why This Matters
     citation: Why This Matters
-    _key: card-3-d5517806-31a1-4637-a146-20528074b9ad
+    _key: card-3-edfb0824-d633-4d42-82e8-9a8e6535924f
   - order: 3
     body: >-
       ## As the population of Texas grows, so does its sway over presidential
@@ -66,10 +66,10 @@ cards:
 
       Current Electoral College Votes: California (55) Florida (29) Illinois
       (20) New York (29) Ohio (18)
-    _key: card-4-594ca4be-dfb1-4eba-838a-5d424690e385
+    _key: card-4-22ffdde7-ff71-45e8-bdcd-67d1f7311678
   - order: 4
     body: '[view sources](https://smarthernews.com/18-03-06-tx-primary-elections/)'
-    _key: card-10-a9386b72-2030-4b29-979f-78e9292dbe71
+    _key: card-10-b05a6198-91cc-47dc-b8e9-c3ca044de1fe
 
 ---
 * Texans smash early voting record powered by Democratic surge: [https://www.statesman.com/news/state–regional-govt–politics/texans-smash-early-voting-record-powered-democratic-surge/NMXgMt4JbHC2bWuQIesNoL/](https://www.statesman.com/news/state--regional-govt--politics/texans-smash-early-voting-record-powered-democratic-surge/NMXgMt4JbHC2bWuQIesNoL/)

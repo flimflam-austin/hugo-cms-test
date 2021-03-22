@@ -1,14 +1,14 @@
 ---
 title: 18.06.06 Stockton
 slug: 20180605-18-06-06-stockton
-_id: legacy-3b19f74c-11f6-4f0b-a1a1-4e28de3e9b3d
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-f13bacde-91af-4743-b874-3694efdd7300
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-06-stockton/
 _createdAt: '2018-06-05T10:58:04Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-05T10:58:04+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       FLIP: For city's plan
     citation: 'FLIP: For city''s plan'
-    _key: card-1-5041a62b-d3c9-4150-83e5-cb75558c29f1
+    _key: card-1-cbfeddd0-49f2-418c-bb56-391b50d779ed
   - order: 1
     body: >-
       # STOCKTON’S PLAN
@@ -45,10 +45,10 @@ cards:
 
       * Poverty plagues Stockton after the housing bust sent the city into
       bankruptcy in 2012.
-    _key: card-2-ee223925-564f-448c-ab6d-3356016eab50
+    _key: card-2-c6f0cdb5-0b80-40e7-bb9a-45deff39e5be
   - order: 2
     body: "It’s Actually  \nNot a New Idea… ===============================\n\n> _“I’m now convinced that the simplest approach will prove to be the most effective a_  \n_a\x14a_  \n_the solution to poverty is to abolish it directly by a now widely discussed measure: the guaranteed income.”_  \n  \n  \n  \nMartin Luther King, Jr. in his book Where Do We Go From Here: Chaos or Community? (1967)"
-    _key: card-3-a689a5e2-a90e-453a-8905-0482daf0b2f1
+    _key: card-3-f1857d6a-60b9-4bd7-ba29-6c230be70c5e
   - order: 3
     body: >-
       ## Critics Argue the Math Doesn’t Add Up
@@ -67,7 +67,7 @@ cards:
 
 
       * $10K/yr x 300M Americans = $3T =A 3/4ths ofA _entire_ $4T fedl budget
-    _key: card-4-72ab1d2e-3dba-4ef8-af4f-207c6613d144
+    _key: card-4-e93ebe41-0cbd-4180-9dac-0f8701c5daaf
   - order: 4
     body: >-
       Who are the backers behind the $1M Stockton funding? Click to learn more
@@ -75,7 +75,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-06-stockton/)
-    _key: card-10-c433e2d2-aa50-4212-ad2c-4e3cc55c1416
+    _key: card-10-695070ac-7618-4342-ad95-3f7ae437e83a
 
 ---
 * **NYT: Free Cash to Fight Income Inequality? California City Is First in U.S. to Try:**  

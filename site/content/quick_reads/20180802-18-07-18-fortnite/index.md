@@ -1,14 +1,14 @@
 ---
 title: 18.07.18 Fortnite
 slug: 20180802-18-07-18-fortnite
-_id: legacy-60f7df6e-d5db-4512-9bc8-6c38d2492632
-_rev: CRhmwZOx7vxYXrRSdQpn1T
+_id: legacy-25437dbc-22b0-4c4a-aa8d-7f2352c1ab39
+_rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
   - 18-07-18-fortnite/
 _createdAt: '2018-07-18T11:02:52Z'
-_updatedAt: '2021-03-16T12:28:15Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-18T11:02:52+00:00'
 weight: 50
 card_series: Entertainment
@@ -25,7 +25,7 @@ cards:
 
       move over, pac-man.
     citation: move over, pac-man.
-    _key: card-1-f9c70c0f-c0aa-47bb-8559-41f7b87df7a6
+    _key: card-1-1173b465-68a6-4fd1-a323-adde98337f5e
   - order: 1
     body: >-
       ## What Is Fortnite Anyway?
@@ -46,7 +46,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/F3UNnrr1pg4?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-d0a39913-bcc3-4d44-bf7c-b54fcb27fd76
+    _key: card-2-6f4c85a7-0a75-42e6-8804-80a123875253
   - order: 2
     body: >-
       ## Why It Matters
@@ -63,7 +63,7 @@ cards:
 
       * **Group play:**A not super violent, attracting both sexes & can be
       played among friends.
-    _key: card-3-cf7ca541-8baa-4db3-8248-f86639e29ab6
+    _key: card-3-a56d9489-f3ec-4019-9421-0708cea7937b
   - order: 3
     body: >-
       Heard of Flossing?  
@@ -83,7 +83,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/IBaiZbMEnyA?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-4-4bcdb400-a537-4879-8718-6b4baf402aa4
+    _key: card-4-8829bec0-9f96-496d-99e4-832edc1ea070
   - order: 4
     body: >-
       The Fortnite player to know? "Ninja" who's real name is Tyler Blevins.
@@ -93,7 +93,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-18-fortnite/)
-    _key: card-10-662017e9-0da1-41a2-9e89-1e1be63da103
+    _key: card-10-25bb1898-feef-4969-a980-8d7cf9d24310
 
 ---
 * **Video game ‘Fortnite’ is raking in millions and taking over the real world:**  

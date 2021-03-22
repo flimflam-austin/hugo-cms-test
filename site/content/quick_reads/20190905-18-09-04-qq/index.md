@@ -1,14 +1,14 @@
 ---
 title: Smarthernews Quick Quotes for September 4
 slug: 20190905-18-09-04-qq
-_id: legacy-9d3d58d3-aa45-4081-b232-c71919a5bdf4
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-68cc1eca-50dc-4f9c-93cf-a4b6a2a6eeb4
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-04-qq/
 _createdAt: '2018-09-04T11:59:56Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-04T11:59:56+00:00'
 weight: 50
 card_series: Quotes
@@ -26,7 +26,7 @@ cards:
       Commanding General Scott Miller on the 6th death of an American this year
       in Afghanistan; another soldier was wounded in the apparent "insider
       attack."
-    _key: card-1-95f9b723-86a1-4f0f-99d8-8cb22b7b09ab
+    _key: card-1-8c0610c3-2ee0-4f6d-ac94-3d694a6522c5
   - order: 1
     body: >-
       > ‘If I decide to do it, it will be done. I’m not gonna ‘try’.’  
@@ -40,7 +40,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/xfA4Mt2WDK0?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-3b9eb570-10aa-4652-a026-01590963a97b
+    _key: card-2-6543472e-93fa-451e-b637-ac82c260dee1
   - order: 2
     body: >-
       > ‘Do not appropriate Mollie’s soul in advancing views she believed were
@@ -52,7 +52,7 @@ cards:
       asking for her death not to be used to advance racist views. His comments
       follow a Donald Trump, Jr. op-ed in the same paper in which he criticized
       Democrats' reaction to her death.
-    _key: card-3-4467d9fe-648d-49b7-9d52-2cc729e79023
+    _key: card-3-3892bb3d-aef8-4f25-aed2-b978f54dbbc5
   - order: 3
     body: >-
       > “Despite what some Democrats may wish in the depths of their hearts,A
@@ -64,7 +64,7 @@ cards:
       Donald Trump Jr., describing the reaction of *some* Democrats to Mollie
       Tibbetts' murder by an illegal immigrant as "heartless" and "despicable"
       in a guest column for the Des Moines Register.
-    _key: card-4-71ed3bb9-c361-4ab4-a947-159444d7d170
+    _key: card-4-4c84c797-6ac6-46e7-be05-43e4561f6153
   - order: 4
     body: >-
       > ‘It’s best to keep your child rear-facing as long as possible. This is
@@ -77,7 +77,7 @@ cards:
       backwards facing, but the new recommendation suggests children should not
       face forward until they reach the weight limit of the seat, which is
       typically 40 pounds.
-    _key: card-5-e0ff4c10-e4c7-4d2f-a6a7-27e7b11ed4e8
+    _key: card-5-622d3138-7880-4e28-bc33-9984dd57130f
   - order: 5
     body: >-
       > “Countless sensitive crustaceans experienced an agonizing death…”  
@@ -89,13 +89,13 @@ cards:
       crashed in Maine. The animal rights group is seeking approval for a
       5-foot-tall, roadside tombstone for the lobsters in an effort to remind
       people to keep animals off your plate.
-    _key: card-6-a3a56e99-9359-4a34-b32d-c4486893cf0e
+    _key: card-6-2db89584-3445-4802-9347-dc66cd2b6e84
   - order: 6
     body: |-
       Have a great week!
 
       [view sources](https://smarthernews.com/18-09-04-qq/)
-    _key: card-10-0c37264a-8b22-45e3-af7b-b0d2f5dceb08
+    _key: card-10-6c2ba579-fb67-45ca-85e0-63f147e25115
 
 ---
 * **Resolute Support Twitter:** [https://twitter.com/ResoluteSupport/status/1036632508354441218](https://twitter.com/ResoluteSupport/status/1036632508354441218)

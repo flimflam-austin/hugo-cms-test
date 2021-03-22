@@ -1,14 +1,14 @@
 ---
 title: 18.04.26 White Hat Melania
 slug: 20180427-18-04-26-white-hat-melania
-_id: legacy-cbcb9132-665e-4d08-9716-210459083f8c
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-d332aa16-c806-488b-bf61-27017a2f5bb1
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-26-white-hat-melania/
 _createdAt: '2018-04-27T11:02:26Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-27T11:02:26+00:00'
 weight: 50
 card_series: Style
@@ -23,7 +23,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-26-white-hat-melania/)
-    _key: card-10-279b1078-b856-42a5-84f7-5b7036f32ed7
+    _key: card-10-0f03ab07-8981-4ce6-926e-259bc7aed43b
 
 ---
 * **First Lady Melania Trump Wears Chanel for First State Dinner, While Brigitte Macron Sports Louis Vuitton:** [http://wwd.com/fashion-news/fashion-scoops/first-lady-melania-trump-chanel-first-state-dinner-while-brigitte-macron-sports-louis-vuitton-1202659933/](http://wwd.com/fashion-news/fashion-scoops/first-lady-melania-trump-chanel-first-state-dinner-while-brigitte-macron-sports-louis-vuitton-1202659933/)

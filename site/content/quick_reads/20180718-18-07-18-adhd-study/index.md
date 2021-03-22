@@ -1,14 +1,14 @@
 ---
 title: 18.07.18 Adhd Study
 slug: 20180718-18-07-18-adhd-study
-_id: legacy-3cbc3a9e-2928-4285-b3e6-33984dd9f626
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-57af9bd9-4582-4e83-b831-117ad9018913
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-18-adhd-study/
 _createdAt: '2018-07-18T12:02:39Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-18T12:02:39+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Headline vs Reality
     citation: Headline vs Reality
-    _key: card-1-abc3ce2a-1966-4c28-b4cf-bdf8263d4ef5
+    _key: card-1-00fe2b9b-64e4-437b-a030-7a6e0342b41e
   - order: 1
     body: >-
       ## Why It Matters:
@@ -46,7 +46,7 @@ cards:
 
       * Lingering Question: Can tech use **cause** ADHD, or do ADHD sufferers
       enjoy the stimulation of tech more than others?
-    _key: card-2-26152e48-a234-4f7b-8d80-b75717bc4a6e
+    _key: card-2-9200a5a6-5f4b-4639-9767-d704c4355fb0
   - order: 2
     body: >-
       # ADHD: Defined
@@ -60,7 +60,7 @@ cards:
         
         
       American Psychiatric Association
-    _key: card-3-68732912-92eb-4261-b95c-90efaf01cbbe
+    _key: card-3-b7ae8b63-2158-4d61-ba16-a5f75a84b7f6
   - order: 3
     body: >-
       ## Bigger Picture
@@ -76,7 +76,7 @@ cards:
       * 1 out of 3 children with ADHD will retain diagnosis as adults.
 
       * Treatment = therapy & medication.
-    _key: card-4-0981015f-ba1d-4086-9916-5e123f5ad514
+    _key: card-4-94b6c7a6-8ac6-43bf-a9ab-2b522a390d1c
   - order: 4
     body: >-
       We put children into the Wild West, and I think that’s where the problems
@@ -86,7 +86,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-18-adhd-study/)
-    _key: card-10-b88f7bf6-b0ad-46be-8194-017cbe39b126
+    _key: card-10-b6623aa8-7ab5-423b-9c85-cbfa22ecc0c3
 
 ---
 * **Association of Digital Media Use With Subsequent Symptoms of Attention-Deficit/Hyperactivity Disorder Among Adolescents:**  

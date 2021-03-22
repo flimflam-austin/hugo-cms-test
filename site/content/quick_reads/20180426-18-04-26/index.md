@@ -1,14 +1,14 @@
 ---
 title: 18.04.26 One Minute with the Sign Guys
 slug: 20180426-18-04-26
-_id: legacy-6ce7dd44-13bc-418e-a5f9-1843e0322f6a
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-25e62d19-1578-4712-9780-c61a4af01a27
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-26/
 _createdAt: '2018-04-26T18:13:20Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-26T18:13:20+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/od7KTuFACd0?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-1-2af9edf0-506e-4503-959e-d1da29a6e195
+    _key: card-1-b3d408c5-5c81-48f0-a653-d241653e3b3a
   - order: 1
     body: >-
       We loved talking to Greg Amaral and Wendell Walker about their passion to
@@ -38,7 +38,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-26/)
-    _key: card-10-f98efadf-8546-4c64-9093-1476742e5af0
+    _key: card-10-f63656d2-73bd-457d-b6f6-2b05bc93f38e
 
 ---
 **Find “The Sign Guys” here:A [https://www.facebook.com/Nashuasignguys/](https://www.facebook.com/Nashuasignguys/)**

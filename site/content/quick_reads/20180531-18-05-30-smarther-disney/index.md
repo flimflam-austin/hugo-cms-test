@@ -1,14 +1,14 @@
 ---
 title: 18.05.30 Smarther Disney
 slug: 20180531-18-05-30-smarther-disney
-_id: legacy-a2f3c8c3-fbf3-4aa9-8a57-500b17486539
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-07663e82-4752-45e5-bf84-e5ba6d01ffb8
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-30-smarther-disney/
 _createdAt: '2018-05-31T10:58:38Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-05-31T10:58:38+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       Flip For Tips
     citation: Flip For Tips
-    _key: card-1-aca5cd77-2012-443e-8ae9-d9f10660ff31
+    _key: card-1-288eae0c-ac28-403f-b0d0-a10cbf42e443
   - order: 1
     body: >-
       > “I am firmly convinced that Disney World pumps Oxytocin into the air.
@@ -43,7 +43,7 @@ cards:
         
       Dr. Darria on taking her 4 & 1-year-old to Disney World. (P.S. oxytocin is
       a natural hormone that causes you to forget the pain of childbirth.)
-    _key: card-2-0de35ef9-0df6-41b1-8901-bd4fb5e46921
+    _key: card-2-618155db-529a-4460-91f7-ca952af6cec9
   - order: 2
     body: >-
       ## The Key To Happiness
@@ -57,7 +57,7 @@ cards:
         
       Dr. Darria suggests stroller hooks for water bottles and water breaks
       every 20-30 mins for kiddos & parents.
-    _key: card-3-6cc61888-b0ca-49be-b90b-31596156fa55
+    _key: card-3-32891481-8601-4d2a-8857-1539d45e1e5b
   - order: 3
     body: >-
       > “…sometimes getting in lines for a Disney ride will feel only marginally
@@ -73,7 +73,7 @@ cards:
       [Click: FastPass
       Info](https://disneyworld.disney.go.com/faq/fast-pass-plus/product-description/)
     citation: 'Click: FastPass Info'
-    _key: card-4-b445346a-5d6e-4a27-887c-312181a82c4f
+    _key: card-4-3d26a06c-4400-4c91-9088-140aec23abfc
   - order: 4
     body: >-
       > “…the only people who say ‘My family is going to eat healthy at Disney’
@@ -88,7 +88,7 @@ cards:
 
       Flip For A Tasty Tip
     citation: Flip For A Tasty Tip
-    _key: card-5-c0e37289-43f4-4de9-9ea9-a33224245e6e
+    _key: card-5-04f46b40-97ff-460e-9f36-c3e4ce67da7b
   - order: 5
     body: >-
       ## “Donuts are absolutely required. Doctor’s orders.”
@@ -101,7 +101,7 @@ cards:
         
         
       Dr. Darria shares more of her tips on our source page. It's a must-read!
-    _key: card-6-01361724-78c8-4d44-8eea-f0c29949df19
+    _key: card-6-f1bf9544-4e57-497d-9a63-44f91efe1167
   - order: 6
     body: >-
       Take a trip recently? Have tips to share? We'd love to hear them and
@@ -111,7 +111,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-30-smarther-disney/)
-    _key: card-10-ba54ee86-fceb-4f6f-8fb2-e1054be5acbc
+    _key: card-10-d45a1244-b542-497d-9fad-16ed9490a6b1
 
 ---
 Dr. Darria exclusively gave these tips to SmartHER news – look out for her upcoming book _Mom Hacks_, and follow her for great health hacks in the meantime! [@DrDarria](https://www.facebook.com/DrDarria/) &A [www.drdarria.com](http://www.drdarria.com)

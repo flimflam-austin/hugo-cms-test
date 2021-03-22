@@ -1,14 +1,14 @@
 ---
 title: 18.03.14 New Top Spy?
 slug: 20180314-18-03-14-new-top-spy
-_id: legacy-751f8368-85c7-457f-ae00-270bccc4bf4d
-_rev: XOnQP8cIThhnw9BWFxV3WD
+_id: legacy-2fda429a-85cc-474f-b9b8-b942f37978aa
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-03-14-new-top-spy/
 _createdAt: '2018-03-14T10:29:34Z'
-_updatedAt: '2021-03-16T12:28:07Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-14T10:29:34+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       Flip To Learn More
     citation: Flip To Learn More
-    _key: card-1-d866a453-4dcb-4837-ae41-1a7789de11ca
+    _key: card-1-1e138464-5183-4a44-b03a-99c17374e5ff
   - order: 1
     body: >-
       Why Now?  
@@ -52,7 +52,7 @@ cards:
       * Haspel nominated to replace Pompeo.
 
       * **Fun Fact:** Pompeo *also* served in the CIA.
-    _key: card-2-e73a10fa-b167-42df-bac7-9c6c4641fb0a
+    _key: card-2-4ad4e672-e8de-4b15-967e-6e5b25acbd32
   - order: 2
     body: >-
       Gina Haspel:  
@@ -70,7 +70,7 @@ cards:
       **the first female career CIA officer to do so.**
 
       * OversawA _National Clandestine Services_ aka “covert” operations.
-    _key: card-3-3bb1848e-5ca2-4195-ae6c-c5af8a10e055
+    _key: card-3-26cc534e-a004-4984-a163-93b7cc874eb7
   - order: 3
     body: |-
       ## Is She A Good Choice?
@@ -83,7 +83,7 @@ cards:
 
       Flip For Why:
     citation: 'Flip For Why:'
-    _key: card-4-d8ab20c5-4831-4405-96b5-b86238a1c2cb
+    _key: card-4-999dfda0-2a9b-424e-8630-ae6154ac8e77
   - order: 4
     body: >-
       ## Backstory: Haspel
@@ -96,7 +96,7 @@ cards:
 
       * Her boss says HE made the orders, yet her name was on the cable as his
       deputy at the time.
-    _key: card-5-0ced6d69-ba58-4f62-90ec-60213c1f129b
+    _key: card-5-67d2a9b4-1008-4a5c-852a-39ed17f80ce1
   - order: 5
     body: >-
       ## Backstory: Cat’s Eye
@@ -109,7 +109,7 @@ cards:
 
       * **Abd al-Rahim al-Nashiri**: alleged mastermind of USS Cole terror
       attack that killed 17 American sailors.
-    _key: card-6-26ebde27-3fe9-4a44-b103-cd391c2c6236
+    _key: card-6-ae46e090-d928-43f5-8add-a2dc93710d69
   - order: 6
     body: >-
       _“The torture of detainees in U.S. custody during the last decade was one
@@ -120,7 +120,7 @@ cards:
 
       Sen. John McCain, (R-Az) victim of torture as U.S. soldier, Press Release,
       March 13, 2018
-    _key: card-7-c0062a14-5cb0-4106-9e28-daad977af136
+    _key: card-7-437294cd-640a-4aed-89f2-a075e389e051
   - order: 7
     body: >-
       ## Random Fact
@@ -136,10 +136,10 @@ cards:
 
       [Click HERE to apply:](https://www.cia.gov/careers/application-process)
     citation: 'Click HERE to apply:'
-    _key: card-8-b4b47a0f-36ea-47d0-a507-ecb90197bfc1
+    _key: card-8-da1c8dee-2b7e-4596-ad42-87f7323e556b
   - order: 8
     body: '[view sources](https://smarthernews.com/18-03-14-new-top-spy/)'
-    _key: card-10-55ec87e6-b67a-446b-bc91-a578c10f8f31
+    _key: card-10-26c6b4f9-5493-4409-9f87-6d30f6fd8abf
 
 ---
 * Trump’s pick for new CIA chief dogged by secret prisons: [https://www.reuters.com/article/us-usa-trump-haspel/trumps-pick-for-new-cia-chief-dogged-by-secret-prisons-idUSKCN1GP2C1](https://www.reuters.com/article/us-usa-trump-haspel/trumps-pick-for-new-cia-chief-dogged-by-secret-prisons-idUSKCN1GP2C1)

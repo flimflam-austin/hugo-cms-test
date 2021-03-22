@@ -1,14 +1,14 @@
 ---
 title: 18.07.13 Qtd
 slug: 20180713-18-07-13-qtd
-_id: legacy-c5db676f-8ab2-4cae-b89a-e367fc5b8aa1
-_rev: CRhmwZOx7vxYXrRSdQpmyv
+_id: legacy-314cc3b6-1475-44a4-9c49-e02ba793bceb
+_rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
   - 18-07-13-qtd/
 _createdAt: '2018-07-13T16:43:03Z'
-_updatedAt: '2021-03-16T12:28:14Z'
+_updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-13T16:43:03+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       Queen Elizabeth II
     citation: Queen Elizabeth II
-    _key: card-1-7d95784f-3bff-408d-ae98-d675f56a82a9
+    _key: card-1-cbfab59f-66cb-4931-acef-bcb8e67be3fe
   - order: 1
     body: >-
       President Trump, joined by his wife, met Queen Elizabeth for tea Friday
@@ -35,7 +35,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-07-13-qtd/)
-    _key: card-10-720c0fb7-5ba2-4302-b8e4-a389deb8df8c
+    _key: card-10-a8c93389-177b-4937-abe2-371382c3a250
 
 ---
 * **Here’s How Every Meeting Between the Queen and a U.S. President WentA [http://time.com/5333083/queen-elizabeth-trump-visit-presidents/](http://time.com/5333083/queen-elizabeth-trump-visit-presidents/)**

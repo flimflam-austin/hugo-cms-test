@@ -1,14 +1,14 @@
 ---
 title: 18.07.09 Qq
 slug: 20190905-18-07-09-qq
-_id: legacy-4d8ee683-cf28-4220-a64a-7839de0315dd
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-b136e25f-3b0b-4263-b62d-0c5ae03e2653
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-07-09-qq/
 _createdAt: '2018-07-09T12:27:03Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-07-09T12:27:03+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
       [Click: More
       Photos](https://twitter.com/WonderWomanHQ/status/1016066329692995585)
     citation: 'Click: More Photos'
-    _key: card-1-8fec05dc-1d73-461d-bce8-9545426ba786
+    _key: card-1-8d6bd8d3-5689-4707-87f7-b9ee17601290
   - order: 1
     body: >-
       > “We must hope that sanity, and a little courage, someday, somehow
@@ -45,7 +45,7 @@ cards:
       Washington Post, Johnson writes, "Calls to abolish ICE only serve to sow
       even greater division in the American public and in its political
       leadership." It's an interesting read - check it out on our source page.
-    _key: card-2-18d4c344-339f-4392-b764-2fbe678a6fd4
+    _key: card-2-53fa01e7-9b9a-4a47-92a0-52332fe5784b
   - order: 2
     body: >-
       > ‘If those requests were gangster-like, the world is a gangster’  
@@ -56,7 +56,7 @@ cards:
       America is making gangster-like denuclearization demands of North Korea -
       one of the preliminary agreements made at the Singapore Summit - proving
       yet again the addage: The devil is in the details.
-    _key: card-3-8a29686d-7800-4415-86dc-ff3686be0c28
+    _key: card-3-25dfb4a3-bcf2-4eee-9a71-89063f54d6d2
   - order: 3
     body: >-
       > ‘The question is no longer whether or not there will be a trade war, the
@@ -68,13 +68,13 @@ cards:
       25% tax on steel & 10% tax on aluminum from Europe (in addition to new
       tariffs on China). Le Maire also threatened to tax digital giants like
       Apple who do business in favorable tax havens in Europe.
-    _key: card-4-ec2fa557-4a58-4940-bea8-1f126424bab2
+    _key: card-4-e50894d0-a045-4d75-aae9-dfb31f8e8dd7
   - order: 4
     body: |-
       Have a great week!
 
       [view sources](https://smarthernews.com/18-07-09-qq/)
-    _key: card-10-e291a656-5053-499c-8e0f-921f22f9d024
+    _key: card-10-a5b64c57-ac34-47dd-b8ed-1752a36929ec
 
 ---
 * **Gal Gadot Surprises Children’s Hospital in Full Wonder Woman Gear:**  

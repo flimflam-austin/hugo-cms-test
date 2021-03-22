@@ -1,14 +1,14 @@
 ---
 title: 18.03.04 Oscars You Missed
 slug: 20180306-18-02-04-oscars-missed
-_id: legacy-1d9f03e4-e213-4c27-8098-7eccb847f9c6
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-1fdecd78-f066-4a78-ab25-48fd2e3ceaca
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-04-oscars-missed/
 _createdAt: '2018-03-05T12:01:07Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-05T12:01:07+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-b5c0b7ee-7119-43e2-9fc9-88d6ec1b2144
+    _key: card-1-8fae4f2a-78a5-439b-ae74-85060b569ec2
   - order: 1
     body: |-
       # Hollywood Legend
@@ -42,7 +42,7 @@ cards:
       Winner, Best Supporting Actress, ‘On the Waterfront’, 1955 Oscars
 
       Gave birth to her first child, a son, days after she won Academy Award
-    _key: card-2-28837915-3cba-4f2e-b681-e738da6ca953
+    _key: card-2-bfa7f6c0-2d2e-4f2a-b304-840073971429
   - order: 2
     body: >-
       > “At age 17, I enlisted in the National Guard. A few years later, I
@@ -54,7 +54,7 @@ cards:
         
       Wes Studi, Actor, introducing films about those "who fought for freedom
       around the world" 90th Academy Awards
-    _key: card-3-869a1e3a-61fe-4a58-85b7-e4dad3fcd883
+    _key: card-3-a07f0e57-2d40-471c-b936-31bed41f6f1d
   - order: 3
     body: >-
       Amazing American:  
@@ -70,7 +70,7 @@ cards:
 
 
       Only spoke Cherokee language until age 5
-    _key: card-4-9ff2e48f-88bb-4baa-832a-2251deb798b6
+    _key: card-4-aed10ef3-9e06-4b9b-b633-a59fe387f4c9
   - order: 4
     body: >-
       > ‘I have two words for you: ‘**Inclusion Rider**‘.”  
@@ -83,7 +83,7 @@ cards:
 
       Flip For What It Means
     citation: Flip For What It Means
-    _key: card-5-b5b091a9-6991-4d11-94cb-66718cfc4c59
+    _key: card-5-6265fbe3-e9e3-4cdc-b857-9e7ef0e8251f
   - order: 5
     body: >-
       ## AKA: “Equity Rider”
@@ -100,10 +100,10 @@ cards:
       [Click Here For
       Article](https://www.hollywoodreporter.com/news/what-is-an-inclusion-rider-frances-mcdormands-oscars-speech-explained-1091532)
     citation: Click Here For Article
-    _key: card-6-ff39b6ef-7ed1-4e9a-aff2-cb14b57356b5
+    _key: card-6-2f58c206-32f8-4ab5-ad6c-b7a1818f7fda
   - order: 6
     body: '[view sources](https://smarthernews.com/18-02-04-oscars-missed/)'
-    _key: card-10-742ad9fb-f9bf-447a-9a62-af3ff170c5ec
+    _key: card-10-eac9140e-4164-4149-9adc-b537da03b19c
 
 ---
 * ‘I’m older than the Academy’: Eva Marie Saint hands out Oscar at age 93 [https://www.ctvnews.ca/entertainment/i-m-older-than-the-academy-eva-marie-saint-hands-out-oscar-at-age-93-1.3828591](https://www.ctvnews.ca/entertainment/i-m-older-than-the-academy-eva-marie-saint-hands-out-oscar-at-age-93-1.3828591)

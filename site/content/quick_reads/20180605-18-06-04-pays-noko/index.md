@@ -1,14 +1,14 @@
 ---
 title: 18.06.04 Who Pays Noko?
 slug: 20180605-18-06-04-pays-noko
-_id: legacy-eba06321-0273-4b0d-8a4e-1a55f56e46b1
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-96b57368-1882-4d8b-9ef0-2c1d64a37354
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-04-pays-noko/
 _createdAt: '2018-06-05T10:59:18Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-05T10:59:18+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Hold Up. Wait A Minute.
     citation: Hold Up. Wait A Minute.
-    _key: card-1-9ef168dc-3262-4122-b420-29244f253baa
+    _key: card-1-c9f38a83-e883-46a4-ba3b-65b4d1abce47
   - order: 1
     body: >-
       ## Reports: What’s Going On
@@ -50,7 +50,7 @@ cards:
       [Click HERE: See
       Hotel](https://www.fullertonhotels.com/the-fullerton-hotel)
     citation: 'Click HERE: See Hotel'
-    _key: card-2-e525e2ef-573d-4b67-959d-b408eb7be9c3
+    _key: card-2-8b2b9410-6dd8-417e-bc9a-b8e0a44d2dfa
   - order: 2
     body: >-
       ## How Much Will The Summit Cost?
@@ -65,7 +65,7 @@ cards:
 
       Singapore says: “…we’re willing to bear (some of the costs) to play a
       small part in this historic meeting.”
-    _key: card-3-fd7a536f-9e56-4c18-95a5-e4d8a70111c7
+    _key: card-3-f9946014-30a7-4997-8aa3-6d9f1d6e0d74
   - order: 3
     body: |-
       ## Nobel Peace Prize Winner Steps Forward
@@ -78,7 +78,7 @@ cards:
 
       Flip: Not Just Hotel
     citation: 'Flip: Not Just Hotel'
-    _key: card-4-b5e1999a-4dc0-444e-801a-b3734e28bf41
+    _key: card-4-2f41d9c7-ea63-4d94-841d-991ca95e37ca
   - order: 4
     body: >-
       U.S. can't pay for NoKo's bills (without waivers from the Treasury)
@@ -88,7 +88,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-04-pays-noko/)
-    _key: card-10-7fc0011e-441d-4aa2-9a03-eaefff70c546
+    _key: card-10-f35a1f4e-3617-4b58-9b78-0adfd47df39f
 
 ---
 * **Singapore will bear some costs of Trump-Kim summit – ministerA** A [https://uk.reuters.com/article/uk-northkorea-usa-singapore/singapore-will-bear-some-costs-of-trump-kim-summit-minister-idUKKCN1IY0DT](https://uk.reuters.com/article/uk-northkorea-usa-singapore/singapore-will-bear-some-costs-of-trump-kim-summit-minister-idUKKCN1IY0DT)

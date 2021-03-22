@@ -4,27 +4,19 @@ title: >-
   as a Monthslong Global Cyberespionage Campaign Allegedly Leveraged by Russia,
   Involving u.s. Federal Agencies.
 slug: 20201213-cyber-attack-2020
-_id: legacy-128019d0-750d-4c5d-a755-8f6869dcd535
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-da4ff8ac-f677-497b-88b0-c9d8841d6f46
+_rev: ZEyhBiGfgCfwE8WOjbuN87
 type: quick_quotes
 draft: false
 aliases:
   - article/cyber-attack-2020/
 _createdAt: '2020-12-14T04:53:39Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:19Z'
 date: '2020-12-14T04:53:39+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  Cybersecurity expert Dmitri Alperovitch on what the Associated Press describes
-  as a “monthslong global cyberespionage campaign” allegedly leveraged by
-  Russia, involving U.S. federal agencies.
 featured_quote:
   quote: This can turn into one of the most impactful espionage campaigns on record.
-  citation: >-
-    Cybersecurity expert Dmitri Alperovitch on what the Associated Press
-    describes as a “monthslong global cyberespionage campaign” allegedly
-    leveraged by Russia, involving U.S. federal agencies.
 
 ---
 * This so-called campaign began months ago but has only recently been revealed.

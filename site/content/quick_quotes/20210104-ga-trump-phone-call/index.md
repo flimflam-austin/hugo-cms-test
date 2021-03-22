@@ -4,27 +4,23 @@ title: >-
   President Trump's Claim on a Recorded Phone Call that Thousands of Dead People
   Voted in Georgia, Skewing the Results.
 slug: 20210104-ga-trump-phone-call
-_id: legacy-0c050445-6dbd-4f42-a0fc-7becc19d345d
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-f720ec05-107b-41af-838f-c3bb97539499
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - article/ga-trump-phone-call/
 _createdAt: '2021-01-04T05:49:52Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2021-01-04T05:49:52+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    813f64ef28c49abcd2215a60841e517d98a0a65d-390x487.jpg
 is_breaking: false
-summary: >-
-  Georgia Sec. of State Brad Raffensperger, a Republican, responding to
-  President Trump’s claim on a recorded phone call that thousands of dead people
-  voted in Georgia, skewing the results.
 featured_quote:
   quote: The actual number was two. Two. Two people that were dead that voted.
-  citation: >-
-    Georgia Sec. of State Brad Raffensperger, a Republican, responding to
-    President Trump’s claim on a recorded phone call that thousands of dead
-    people voted in Georgia, skewing the results.
 
 ---
 * The recorded call was obtained by many news outlets including [_The Associated Pres_s](https://apnews.com/article/d503c8b4e58f7cd648fbf9a746131ec9) but [_The Washington Post_](https://www.washingtonpost.com/politics/trump-raffensperger-call-georgia-vote/2021/01/03/d45acb92-4dc4-11eb-bda4-615aaefd0555_story.html) _initially broke the story._
@@ -38,4 +34,4 @@ featured_quote:
 
 Here’s [The](https://www.washingtonpost.com/politics/trump-raffensperger-call-georgia-vote/2021/01/03/d45acb92-4dc4-11eb-bda4-615aaefd0555_story.html) [Associated Press Fact Check](https://apnews.com/article/407d934b6649a4e4059ec28c4cb70512) on the call – [It may provide some context for your lingering questions.](https://apnews.com/article/407d934b6649a4e4059ec28c4cb70512)
 
-If you cant reach [The Washington Post’s original version of the story](https://www.washingtonpost.com/politics/trump-raffensperger-call-georgia-vote/2021/01/03/d45acb92-4dc4-11eb-bda4-615aaefd0555_story.html), [here’s a lengthy report by the AP.](https://apnews.com/article/d503c8b4e58f7cd648fbf9a746131ec9)_story.html), [here’s a lengthy report by the AP.](https://apnews.com/article/d503c8b4e58f7cd648fbf9a746131ec9)
+If you cant reach [The Washington Post’s original version of the story](https://www.washingtonpost.com/politics/trump-raffensperger-call-georgia-vote/2021/01/03/d45acb92-4dc4-11eb-bda4-615aaefd0555_story.html), [here’s a lengthy report by the AP.](https://apnews.com/article/d503c8b4e58f7cd648fbf9a746131ec9)

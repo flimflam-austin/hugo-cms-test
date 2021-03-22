@@ -1,14 +1,14 @@
 ---
 title: 18.05.24 Nhl Stanley Cup
 slug: 20180524-18-05-24-nhl-stanley-cup
-_id: legacy-479b9d06-1a4c-4a0e-b7fd-a52c583a7645
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-57523586-f53d-4b9c-9156-9b37542c740c
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-24-nhl-stanley-cup/
 _createdAt: '2018-05-24T10:15:37Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-24T10:15:37+00:00'
 weight: 50
 featured_image:
@@ -33,10 +33,10 @@ cards:
 
       flip: What You should Know
     citation: 'flip: What You should Know'
-    _key: card-1-f7089eeb-5241-4a97-aacb-5f56c7b5a30d
+    _key: card-1-ff0cd634-0df4-499b-8536-a1a0772a63f3
   - order: 1
     body: "## Vegas Golden Knights\n\n>   \n  \n**_‘Everybody on this team has something to prove. We call ourselves a\x18The Golden Misfits’ for a reason. We’re doing a good job of proving everybody wrong.’_**  \n  \n  \n  \nRyan Reaves, Golden Knights, helped score winning goal that sent team to the Final.\n\n* **New franchise:**A At one point, 500-1 odds to win championship."
-    _key: card-2-c2be0748-e08c-42e8-8ebe-d6b1551a22c4
+    _key: card-2-78332d8a-0776-4e5b-bd0f-9c69ccf7ef54
   - order: 2
     body: >-
       ## Washington Capitals
@@ -54,7 +54,7 @@ cards:
 
 
       * **Tortured Past:A** First Stanley Cup appearance in 20 yrs, never won.
-    _key: card-3-95630c9e-4155-49fe-adf4-3b9c3b88b2b0
+    _key: card-3-bab47c70-103e-4960-9eaf-945228adbfc2
   - order: 3
     body: >-
       The best of 7 series starts Monday. Who ya got? Click for the full
@@ -62,7 +62,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-24-nhl-stanley-cup/)
-    _key: card-10-8f1fbd4f-c407-45a1-8856-cc7b511caea3
+    _key: card-10-2a39d296-92aa-457c-bbed-d4c167344e80
 
 ---
 * **NHL Playoffs 2018: Vegas Golden Knights rewrite NHL history with Stanley Cup Final Berth:**  

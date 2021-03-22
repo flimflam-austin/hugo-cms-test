@@ -1,14 +1,14 @@
 ---
 title: 18.05.16 Quick Quotes
 slug: 20180516-18-05-16-quick-quotes
-_id: legacy-001a192a-34fd-4a8e-8d4f-84226a405e84
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-4a16869c-538d-4688-abf7-a54bc1c4629c
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-16-quick-quotes/
 _createdAt: '2018-05-16T11:37:29Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-16T11:37:29+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
       relationship with the man he called "a genuine American hero" in the wake
       of untoward comments about Sen. McCain (R-AZ) made last week by a WH
       staffer.
-    _key: card-1-b2921b2a-f9d7-4196-9e6c-f2ff5779944c
+    _key: card-1-fb018783-f81a-497c-905c-a1376967d509
   - order: 1
     body: >-
       > “Just as women have been undervalued in Hollywood, we aren’t adequately
@@ -46,7 +46,7 @@ cards:
         
       Barbara Streisand in a May 15th op-ed for USA Today on raising awareness
       for women's heart health.
-    _key: card-2-2e383e04-9a79-47b5-8ded-d22b317791ed
+    _key: card-2-ba024dc2-73d4-4a8b-9325-3f2b22f3873b
   - order: 2
     body: >-
       > “… the indictment falls squarely within that portion of the authority
@@ -60,10 +60,10 @@ cards:
         
       U.S. District Judge Amy Jackson, rejecting Trump's former campaign
       manager, Paul Manafort's attempt to dismiss a criminal case against him.
-    _key: card-3-ea654979-cc89-46fd-b829-81e3c840b499
+    _key: card-3-19a1b0f8-ecb1-451d-837b-89d475201293
   - order: 3
     body: '[view sources](https://smarthernews.com/18-05-16-quick-quotes/)'
-    _key: card-10-726eeb0c-0204-4e9a-a167-ad52cc8caccd
+    _key: card-10-24db2871-dc9a-4b9e-9d49-85ea5e3ef4ac
 
 ---
 * **McConnell comes to McCain’s defense on Senate floor: ‘You”d rather be on his side than not’:** [https://abcnews.go.com/Politics/mcconnell-mccains-defense-senate-floor-youd-side/story?id=55167731](https://abcnews.go.com/Politics/mcconnell-mccains-defense-senate-floor-youd-side/story?id=55167731)

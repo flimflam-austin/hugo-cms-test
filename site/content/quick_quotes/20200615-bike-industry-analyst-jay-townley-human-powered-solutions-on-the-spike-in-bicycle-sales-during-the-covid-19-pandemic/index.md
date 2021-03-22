@@ -4,28 +4,26 @@ title: >-
   Bicycle Sales During the Covid-19 Pandemic.
 slug: >-
   20200615-bike-industry-analyst-jay-townley-human-powered-solutions-on-the-spike-in-bicycle-sales-during-the-covid-19-pandemic
-_id: legacy-5e74dfcc-1297-436a-beac-065dcafbfbee
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-4e53eea4-be63-4b02-b1b2-e6a2cbebed05
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/bike-industry-analyst-jay-townley-human-powered-solutions-on-the-spike-in-bicycle-sales-during-the-covid-19-pandemic/
 _createdAt: '2020-06-15T11:37:30Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-06-15T11:37:30+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    7d2d00c2b4a32491aeda74637cad331d532954ff-2560x2048.jpg
 is_breaking: false
-summary: >-
-  Bike industry analyst Jay Townley, Human Powered Solutions, on the spike in
-  bicycle sales during the COVID-19 pandemic.
 featured_quote:
   quote: >-
     People quite frankly have panicked, and they’re buying bikes like toilet
     paper.
-  citation: >-
-    Bike industry analyst Jay Townley, Human Powered Solutions, on the spike in
-    bicycle sales during the COVID-19 pandemic.
 
 ---
 * Townley says bike sales haven’t rallied to this point since the 1970s oil crisis in America.
@@ -35,4 +33,4 @@ featured_quote:
 
 **READ MORE:**
 
-[Pandemic leads to a bicycle boom, and shortage, around world](https://apnews.com/39b3691b8e1ea3d74d1280a75e451a36)[Pandemic leads to a bicycle boom, and shortage, around world](https://apnews.com/39b3691b8e1ea3d74d1280a75e451a36)
+[Pandemic leads to a bicycle boom, and shortage, around world](https://apnews.com/39b3691b8e1ea3d74d1280a75e451a36)

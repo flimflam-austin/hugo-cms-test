@@ -1,14 +1,14 @@
 ---
 title: 18.02.22 Support Animals vs Service Animals on Plane
 slug: 20180223-18-02-22-support-animals-vs-service-animals-plane
-_id: legacy-97338ff0-71d2-4f8d-a059-205b84e71509
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-0078fbb8-3217-4019-98dd-605d7eaa4b45
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-22-support-animals-vs-service-animals-plane/
 _createdAt: '2018-02-23T14:00:55Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-23T14:00:55+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       Flip For Why It Matters
     citation: Flip For Why It Matters
-    _key: card-1-a5d5f46c-7876-4e73-9439-0263db6da495
+    _key: card-1-c029bfda-ef7c-49c1-872c-7bc0c50ade93
   - order: 1
     body: >-
       # Consider The Context
@@ -48,7 +48,7 @@ cards:
 
       * United denied the peacock a seat and a debate about “appropriate”
       support animals ensued.
-    _key: card-2-5ffdabff-20aa-4fb2-b153-4c9987ea70ff
+    _key: card-2-9f3a6572-65fd-464c-9d7a-942f6ac8b959
   - order: 2
     body: >-
       ## Why This Is Important
@@ -61,7 +61,7 @@ cards:
         
         
       Charlie Hobart, United Airlines spokesman, USA Today, Feb 1, 2018
-    _key: card-3-57889754-f3e0-41af-8c67-13128945a692
+    _key: card-3-a73306e5-d2c1-4a39-8378-b8085f0de1f4
   - order: 3
     body: >-
       ## Why Is This Happening?
@@ -76,7 +76,7 @@ cards:
       pet, which can lead to more “incidents.”
 
       * No hard firm rules about acceptable “comfort” animals on flights.
-    _key: card-4-5733c1ae-4170-4a81-b32e-33a1788b2a7f
+    _key: card-4-7a17b023-a8f1-4b57-afed-1a2e696d3b2c
   - order: 4
     body: >-
       ## Airlines: Reviewing Rules
@@ -88,7 +88,7 @@ cards:
       * Current rules purposefully very broad; **spiders** are clearly NOT
       considered comfort pets, but did you know **miniature horses** are
       included in _The Americans with Disabilities Act_ as “service pets”?
-    _key: card-5-23a7ec60-524d-4b0a-a82a-4d57c8050fe4
+    _key: card-5-63f207b7-8c2e-49e3-a187-f58199cd9294
   - order: 5
     body: >-
       Just For Kicks: Dexter, the peacock, may not have "frequent flyer" miles
@@ -97,7 +97,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-02-22-support-animals-vs-service-animals-plane/)
-    _key: card-10-226b6fdb-c719-4516-bec2-09e09c2e8a7a
+    _key: card-10-e46824cd-95c9-4f56-bf9b-4e1fe9befd06
 
 ---
 * Girl injured by dog during boarding for Southwest flightA [https://apnews.com/f29933c0a6f242d8828fa7cd51498a4a](https://apnews.com/f29933c0a6f242d8828fa7cd51498a4a)  

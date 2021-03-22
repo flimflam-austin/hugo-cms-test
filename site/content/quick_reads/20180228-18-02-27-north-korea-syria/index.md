@@ -1,14 +1,14 @@
 ---
 title: 18.02.27 North Korea & Syria
 slug: 20180228-18-02-27-north-korea-syria
-_id: legacy-1a19bcc9-6698-400e-a7ab-17e3e28c8493
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-8fcbaf36-fcb6-4f4f-b7ae-eb8e12a3b9b2
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-27-north-korea-syria/
 _createdAt: '2018-02-28T13:05:13Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-28T13:05:13+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip For More From NYT
     citation: Flip For More From NYT
-    _key: card-1-43fcdd9f-c083-49fc-ba8c-ee1f1d0270b1
+    _key: card-1-71d760fb-b2fa-409c-93a9-4acd26a9d106
   - order: 1
     body: >-
       ## What NYT Reports
@@ -46,7 +46,7 @@ cards:
       Korea’s nuclear program.
 
       * Dozens of black market shipments: 2012-2017
-    _key: card-2-32db8df6-9a2a-4af3-8fc6-2f59c66a58e5
+    _key: card-2-aae89303-457e-47cd-b911-7c45ab87bfda
   - order: 2
     body: >-
       ## What You Should Know:
@@ -65,7 +65,7 @@ cards:
 
       Flip For History
     citation: Flip For History
-    _key: card-3-ec6f24fb-d697-4a4f-945f-9f90923f3008
+    _key: card-3-b479bf0b-78d0-4120-ba1b-f32a8852b9f3
   - order: 3
     body: >-
       Context:  
@@ -79,7 +79,7 @@ cards:
 
       * Some experts say North Korea helped Syria buildA chemical weapon
       stockpile dating back to the 1990s.
-    _key: card-4-1db61f09-733a-49d4-a920-08ee614d292a
+    _key: card-4-e67b7169-cfd5-4fbe-ba84-d34d2b2ea6de
   - order: 4
     body: >-
       ## Public Reaction To Report
@@ -91,7 +91,7 @@ cards:
 
       * White House: “no comment” when asked about report during daily press
       briefing.
-    _key: card-5-6e8f645d-82e0-49cb-9adf-1cf347bf9dbd
+    _key: card-5-fc16d6bf-9a9f-4f0d-866d-d518b86bc87a
   - order: 5
     body: >-
       Timing: America levied serious sanctions against North Korea shipping
@@ -101,7 +101,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-27-north-korea-syria/)
-    _key: card-10-a71c7867-295e-4c41-b06d-92723125727c
+    _key: card-10-9c8d92f8-6c0c-4f1a-aea2-8f3513387296
 
 ---
 SCOOP: U.N. Links North Korea to Syria”s Chemical Weapons ProgramA [https://www.nytimes.com/2018/02/27/world/asia/north-korea-syria-chemical-weapons-sanctions.html](https://www.nytimes.com/2018/02/27/world/asia/north-korea-syria-chemical-weapons-sanctions.html)

@@ -1,14 +1,14 @@
 ---
 title: 18.06.25 Scotus Sales Tax
 slug: 20180625-18-06-25-scotus-sales-tax
-_id: legacy-e53ddca4-5a1f-4fd4-a4f0-3e39e49e9d6f
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-0c3e4dee-5551-422f-8fd3-d7141c29c062
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-25-scotus-sales-tax/
 _createdAt: '2018-06-25T09:40:52Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-25T09:40:52+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       Cha-Ching: Why Now?
     citation: 'Cha-Ching: Why Now?'
-    _key: card-1-a44834ae-0989-41dc-9640-37de4f5fa8f6
+    _key: card-1-4aa581d2-61f8-401b-abd3-6b41b94fd86d
   - order: 1
     body: >-
       ## What Happened?
@@ -45,7 +45,7 @@ cards:
       The high court overturned a 1992 ruling prohibiting states from collecting
       sales tax from out-of-state retailers w/o a ‘physical presence’ in the
       same state as the buyer.
-    _key: card-2-a94bc75e-ade9-4478-ad43-5d1a10cb4c19
+    _key: card-2-3b572a39-88fe-4f6e-b226-7655b88aab0e
   - order: 2
     body: >-
       > “The retail industry is changing, and the Supreme Court has acted
@@ -57,7 +57,7 @@ cards:
         
         
       National Retail Federation President and CEO Matthew Shay
-    _key: card-3-3878b4b8-ea5d-4a9d-9e22-cf544b7cc71e
+    _key: card-3-ccf7dab5-a428-48a2-b548-d17eaf13b17d
   - order: 3
     body: >-
       ## What It Means For You:
@@ -70,7 +70,7 @@ cards:
 
       * **States will have more $ to spend internally.** In its decision, the
       Supreme Court estimated states were losing up to $33B a year.
-    _key: card-4-0455d05d-0719-440c-9ae4-1f14d048598d
+    _key: card-4-0d6258c4-1517-4ac5-8897-cb243ad6edb8
   - order: 4
     body: >-
       Stocks for major online retailers like Amazon, Ebay, Overstock and Wayfair
@@ -79,7 +79,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-25-scotus-sales-tax/)
-    _key: card-10-326f8d08-dd04-4695-bf94-5dc373cf2c2f
+    _key: card-10-cb8210c8-cd90-4aca-9d1e-66422236303a
 
 ---
 * **Here”s what that Supreme Court sales tax decision means for you:** [https://www.cnbc.com/2018/06/21/heres-what-that-supreme-court-sales-tax-decision-means-for-you.html](https://www.cnbc.com/2018/06/21/heres-what-that-supreme-court-sales-tax-decision-means-for-you.html)

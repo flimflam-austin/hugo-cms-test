@@ -1,14 +1,14 @@
 ---
 title: Mind-Altering Brain Cancer Innovations
 slug: 20180828-mind-altering-brain-cancer-innovations
-_id: legacy-bcf55f7c-d418-4b1c-8a9d-88c5847282ea
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-88117571-ef82-4bc1-b7b9-7c856428077e
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - mind-altering-brain-cancer-innovations/
 _createdAt: '2018-08-28T12:01:48Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-28T12:01:48+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       Reason to Hope?
     citation: Reason to Hope?
-    _key: card-1-f33c5033-437e-4d81-8baa-20bca6be2508
+    _key: card-1-b2484f77-ee76-41e4-8c57-20a88f531d2c
   - order: 1
     body: >-
       ## Why Do We Call It Cancer?
@@ -45,7 +45,7 @@ cards:
       can turn deadly. Est. 1 out of 100 cancer diagnoses will be brain cancer;
       it's also the second most common form of cancer in children (behind
       Leukemia).
-    _key: card-2-8ec5d5ec-4101-4aae-b70c-0442406654b7
+    _key: card-2-3653e2d5-876b-428e-b272-5e90cd80fd16
   - order: 2
     body: >-
       ## Brain Cancer Boost?
@@ -60,7 +60,7 @@ cards:
       * **Tumor Treating Fields or TTF:** A wearable device (like a cap) that
       uses electric fields to disrupt tumor growth (forA glioblastoma -the
       cancer Sen. McCain had).
-    _key: card-3-5ce14f96-e3e9-4c2d-b2fc-8df6f185df14
+    _key: card-3-9ef479bb-cd90-402c-a18f-e043c0c03401
   - order: 3
     body: >-
       > ‘Just to use this ad that used to be out, ‘This is not your father’s
@@ -77,7 +77,7 @@ cards:
       [CLICK TO
       Watch](https://www.survivornet.com/articles/could-a-new-treatment-have-saved-john-mccain-fighting-brain-cancer-with-electric-fields/)
     citation: CLICK TO Watch
-    _key: card-4-e259ee57-30b0-4b95-ab40-197e55da9252
+    _key: card-4-f964db64-3571-4eb4-b5ec-0aa93ef8113f
   - order: 4
     body: >-
       Novocure, the company using Tumor Treatment Fields, received FDA approval
@@ -87,7 +87,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/mind-altering-brain-cancer-innovations/)
-    _key: card-10-ed4fd2dc-da22-4895-891a-85772be84c00
+    _key: card-10-424a3b4f-7bd4-4cd4-a426-e4468b773b1b
 
 ---
 * **What is cancer?:**  

@@ -3,29 +3,27 @@ title: >-
   Sen. Tim Scott (R-Sc) Addressing the Shooting Death of Rayshard Brooks by
   Police in Atlanta Friday Night.
 slug: 20200617-sen-tim-scott-rayshard-brooks
-_id: legacy-5e463217-4b01-4d8a-86a3-fe5377e6b575
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-3eea6e17-015f-41d0-9c4e-1660e8891e2f
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - article/sen-tim-scott-rayshard-brooks/
 _createdAt: '2020-06-14T22:56:02Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-06-14T22:56:02+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    b71a75f9ad66acef184eea3532f702f67da97494-2560x1707.jpg
 is_breaking: false
-summary: >-
-  Sen. Tim Scott (R-SC) addressing the shooting death of Rayshard Brooks by
-  police in Atlanta Friday night.
 featured_quote:
   quote: >-
     The question is when the suspect turned to fire the taser, what should the
     officer have done? ...That situation is certainly a far less clear one than
     the ones that we saw with George Floyd and several other ones around the
     country.
-  citation: >-
-    Sen. Tim Scott (R-SC) addressing the shooting death of Rayshard Brooks by
-    police in Atlanta Friday night.
 
 ---
 * Atlanta police attempted to arrest Brooks, after responding to a complaint a man had fallen asleep in his car, blocking traffic at a Wendy’s drive-thru lane.
@@ -46,4 +44,4 @@ Here’s a link to several videos of the incident: [CLICK HERE](https://www.cnn.
 
 LEARN MORE:
 
-One of the few African-American police chiefs in the nation speaks on leadership during this time of crisis: [CLICK HERE](https://smarthernews.com/chief-williams/) the nation speaks on leadership during this time of crisis: [CLICK HERE](https://smarthernews.com/chief-williams/)
+One of the few African-American police chiefs in the nation speaks on leadership during this time of crisis: [CLICK HERE](https://smarthernews.com/chief-williams/)

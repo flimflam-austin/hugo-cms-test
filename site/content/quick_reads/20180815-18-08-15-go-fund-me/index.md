@@ -1,14 +1,14 @@
 ---
 title: 18.08.15 Go Fund Me
 slug: 20180815-18-08-15-go-fund-me
-_id: legacy-33bc4991-f163-4918-a7ff-6f5b4747a05a
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-83068c76-6ed8-4219-9cd4-199622181950
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-15-go-fund-me/
 _createdAt: '2018-08-15T12:06:24Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-15T12:06:24+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Got a cause, goal, or bill to pay?
     citation: Got a cause, goal, or bill to pay?
-    _key: card-1-1b3e8bf9-7865-423a-9f5e-80cf54c00e2c
+    _key: card-1-7d0e82ea-95bc-4a8f-ba21-34acadc681e3
   - order: 1
     body: >-
       # GoFundMe
@@ -46,7 +46,7 @@ cards:
       * **How:A** In 2017, GFM stopped taking a 5% fee for personal funds.A
       There is still a 2.9% processing fee & a 30 cent fee for every donation.
       Users may also tip.
-    _key: card-2-3da119f0-e781-4efa-962b-5471c6b81b5a
+    _key: card-2-8a9a5cf1-0e3b-4efd-a527-e5dc32c29288
   - order: 2
     body: >-
       # Top Three Large$t GoFundMe Campaigns
@@ -60,10 +60,10 @@ cards:
 
 
       **$7.8 million:** 2016 Pulse Nightclub Shooting Victims Fund
-    _key: card-3-186277d7-9bc1-4ab0-b7da-d9216e028e59
+    _key: card-3-34bf92c4-752c-4731-b658-4cc920792c63
   - order: 3
     body: "> “The biggest surprise is how much positivity there is in the world. News cycles and the social web often present a barrage of negativity. Yet I’ve been surprised by just how much people are compassionate, sympathetic, and empathetic a\x13 they genuinely want to help.”  \n  \n  \n  \nGoFundMe CEO Rob Solomon"
-    _key: card-4-f63404e8-fdfd-4fc7-ab2a-b7c7e240985f
+    _key: card-4-5f168c2b-82e3-492e-8752-b847d7a46cb7
   - order: 4
     body: >-
       The GoFundMe page for newly fired FBI agent Peter Strzok has raised more
@@ -73,7 +73,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-15-go-fund-me/)
-    _key: card-10-04b82b0b-a745-45c0-a537-7161d5252589
+    _key: card-10-fb15fdd1-51c4-4f8d-a3f9-1cade6d3844b
 
 ---
 * **Press & Media:**  

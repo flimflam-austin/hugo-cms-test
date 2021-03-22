@@ -1,14 +1,14 @@
 ---
 title: 18.05.01 Gina Haspel Personal Life
 slug: 20180504-18-05-01-gina-haspel-personal-life
-_id: legacy-9f6ac882-7dbc-4c15-af36-dd3265ac9792
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-17a44b84-adc4-4594-9f7d-8774b3259841
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-01-gina-haspel-personal-life/
 _createdAt: '2018-05-04T10:54:30Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-04T10:54:30+00:00'
 weight: 50
 card_series: Current Events
@@ -32,7 +32,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-1d7b275e-0006-4d9e-9103-d8ae7dd52cfa
+    _key: card-1-0460a68c-a35b-4392-a9a6-c7566176c5c3
   - order: 1
     body: >-
       ## Background
@@ -49,7 +49,7 @@ cards:
 
       Flip: Who is haspel?
     citation: 'Flip: Who is haspel?'
-    _key: card-2-61c1143f-f799-476e-a297-8a7f4ae2675f
+    _key: card-2-009dcd92-0f3f-41f4-9654-4dc8b4d19b27
   - order: 2
     body: >-
       ## Gina Haspel: CIA
@@ -69,7 +69,7 @@ cards:
       * 61 years old; Not married.
 
       * Fan of Johnny Cash.
-    _key: card-3-a1a29dfb-0f95-49cf-941a-4606a2c06b3c
+    _key: card-3-6c02b989-90f9-4e69-96b6-918ef852ae90
   - order: 3
     body: >-
       ## Critics Say:
@@ -84,7 +84,7 @@ cards:
         
         
       Brian Tashman, ACLU (4/27/18)
-    _key: card-4-4d129bf9-fa2d-46a6-bb6c-5163d79f558f
+    _key: card-4-0206f146-9d24-4730-aab0-84682e05c0f2
   - order: 4
     body: >-
       ## DO NOT MISS THIS:
@@ -97,7 +97,7 @@ cards:
       of an infamous terrorist; she assumed role *after* that incident.**
 
       * Questions remain as to Haspel’s role destroying CIA torture tapes.
-    _key: card-5-117b56ed-b8c0-41d6-81fa-c6a0f4db2a9f
+    _key: card-5-8c64ee97-f883-418e-bf47-872c4afb2696
   - order: 5
     body: >-
       "If confirmed, Ms. Haspel, 61 years old, would be the second person to
@@ -107,7 +107,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-05-01-gina-haspel-personal-life/)
-    _key: card-10-ee189694-e5e7-415c-92e8-62ab1ec49e81
+    _key: card-10-8fdc08f2-8009-4122-9f61-f7dc2dd3f9a1
 
 ---
 * **CIA Fills In Some Blanks on Gina Haspel”s Secret Life**  

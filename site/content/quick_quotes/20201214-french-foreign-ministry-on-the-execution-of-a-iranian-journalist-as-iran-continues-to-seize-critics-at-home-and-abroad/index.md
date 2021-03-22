@@ -4,26 +4,20 @@ title: >-
   Continues to Seize Critics at Home and Abroad.
 slug: >-
   20201214-french-foreign-ministry-on-the-execution-of-a-iranian-journalist-as-iran-continues-to-seize-critics-at-home-and-abroad
-_id: legacy-fe4baa21-b0a4-4531-ac35-8052665f2d3e
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-c095f845-aca6-46eb-9d5c-e4a799c282db
+_rev: ZEyhBiGfgCfwE8WOjbuN87
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/french-foreign-ministry-on-the-execution-of-a-iranian-journalist-as-iran-continues-to-seize-critics-at-home-and-abroad/
 _createdAt: '2020-12-15T04:39:46Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:19Z'
 date: '2020-12-15T04:39:46+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  French Foreign Ministry on the execution of a Iranian journalist as Iran
-  continues to seize critics at home and abroad.
 featured_quote:
   quote: This is barbarous and unacceptable act.
-  citation: >-
-    French Foreign Ministry on the execution of a Iranian journalist as Iran
-    continues to seize critics at home and abroad.
 
 ---
 * Journalist Ruhollah Zam fled from Iran in 2009 and lived in France where he managed a website that would highlight protests against those in power.
@@ -36,4 +30,4 @@ featured_quote:
 
 **Commentary:**
 
-{{< youtube EPe3-rY_zxQ >}}
+{{< youtube id=\EPe3-rY_zxQ\ title=\Flip The Script\ >}}

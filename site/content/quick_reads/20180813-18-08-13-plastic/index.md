@@ -1,14 +1,14 @@
 ---
 title: 18.08.13 Plastic
 slug: 20180813-18-08-13-plastic
-_id: legacy-ee283331-1406-4d28-94b1-26e59c31fcb5
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-39f2cb43-8854-4c1e-a297-dc2f57aa34a9
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-13-plastic/
 _createdAt: '2018-08-13T11:46:06Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-13T11:46:06+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Why It matters
     citation: Why It matters
-    _key: card-1-26e8d212-88be-47f4-a228-8967f05d4a55
+    _key: card-1-4b74ccc6-3212-40d5-a6f4-96d78f882b55
   - order: 1
     body: >-
       ## For 27 years, China has bought 45% of the world’s plastic trash, but
@@ -48,7 +48,7 @@ cards:
 
       Where Will It Go?
     citation: Where Will It Go?
-    _key: card-2-ba448ee1-f9d7-4e28-a40a-6f0fa00391b2
+    _key: card-2-4f54cce8-4c79-4685-8bb2-34760e4bfc62
   - order: 2
     body: >-
       ## Now What?
@@ -64,7 +64,7 @@ cards:
 
       * **Bottom line:** China’s move has made recycling plastics less
       economical.
-    _key: card-3-6d0930a4-0c68-4c53-8589-ec5ee38e9c72
+    _key: card-3-61a7c47d-5cfa-43ec-a07b-3a3e3e3e596a
   - order: 3
     body: >-
       Scientists are working to create a durable plastic material that
@@ -74,7 +74,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-13-plastic/)
-    _key: card-10-61b8e772-1995-418b-8a11-8bb0e3b4018e
+    _key: card-10-4d4c973b-a48c-4760-b6d4-846ee794ccb9
 
 ---
 * The Chinese import ban and its impact on global plastic waste trade:  

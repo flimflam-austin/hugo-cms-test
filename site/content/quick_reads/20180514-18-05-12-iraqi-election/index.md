@@ -1,14 +1,14 @@
 ---
 title: 18.05.12 Iraqi Election
 slug: 20180514-18-05-12-iraqi-election
-_id: legacy-72521bbb-35ba-4182-a878-5f8a19949c71
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-380e7885-3bad-4b30-aa99-0c2b8a4dd4a3
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-12-iraqi-election/
 _createdAt: '2018-05-14T11:00:04Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-14T11:00:04+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Here's Why It Matters
     citation: Here's Why It Matters
-    _key: card-1-3b9dd300-b60d-4ec2-970e-d3f2ad97c7f4
+    _key: card-1-7810ba48-b9bc-4de3-bf50-a00f7c49635a
   - order: 1
     body: >-
       ## What’s At Stake
@@ -49,7 +49,7 @@ cards:
 
       * ISIS led to massive displacement of **diverse Iraqi population**. Next
       leader will have a major role in Iraq’s demographics & geography.
-    _key: card-2-ce83b8ac-600a-45b6-a461-1add7da95039
+    _key: card-2-6baa7ed3-f797-461b-9eb5-1fca95c873e0
   - order: 2
     body: >-
       ## Something To Consider:
@@ -60,7 +60,7 @@ cards:
 
       * First election since the start of the Iraq war (2003) whereA **no
       bombings were reported at ANY polling site**.
-    _key: card-3-9176674c-49b3-44dd-90c7-e7db16bb7832
+    _key: card-3-519ebcb8-b3f0-4c48-8dbb-f70a93a0d1f8
   - order: 3
     body: >-
       No clear winner...yet. Once parliament is elected in Iraq (nearly 400
@@ -70,7 +70,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-12-iraqi-election/)
-    _key: card-10-965ab65e-af83-46c6-980d-663bb92b8fe7
+    _key: card-10-56ad5502-93ff-4e92-bd74-ea2f4bd468f8
 
 ---
 * **ANALYSIS: WHY IRAQ”S ELECTION MATTERS:**A [https://www.jpost.com/Middle-East/Analysis-Why-Iraqs-election-matters-556216](https://www.jpost.com/Middle-East/Analysis-Why-Iraqs-election-matters-556216)

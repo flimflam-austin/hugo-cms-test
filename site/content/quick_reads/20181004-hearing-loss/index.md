@@ -1,14 +1,14 @@
 ---
 title: Dangerous Decibels
 slug: 20181004-hearing-loss
-_id: legacy-02b77395-ab1f-46f6-bcd9-bcf1e72cd825
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-93ec4e98-8c24-4194-b75a-6b8ba70ce98a
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - hearing-loss/
 _createdAt: '2018-10-04T11:33:44Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-10-04T11:33:44+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       Listen Up.
     citation: Listen Up.
-    _key: card-1-cc560d11-108d-4f06-911a-4c7645fc042d
+    _key: card-1-fdc7502d-8c3c-493a-b8d1-6da8df7d9445
   - order: 1
     body: >-
       ## How Do You Lose Your Hearing Anyway?
@@ -45,7 +45,7 @@ cards:
 
 
       **2 out of 3 people over age 70** have trouble hearing.
-    _key: card-2-f2e5188d-1eaa-406b-a1a1-c3216cf4eebb
+    _key: card-2-b1f3a8ac-f9d5-4d02-96ec-fc613206372b
   - order: 2
     body: >-
       > ‘You can certainly hurt your hearing listening to loud music, whether
@@ -57,7 +57,7 @@ cards:
       Dr. Robert Dobie, clinical professor of otolaryngology at the University
       of Texas Health Science Center. One of Dr. Dobie's March 2017 studies
       found rates of hearing loss have actually fallen among adults aged 20-69.
-    _key: card-3-3f782a8e-f717-44ea-b47d-e7641fcc489f
+    _key: card-3-9aa930b5-edd4-42fd-ade2-44defe9e2fa2
   - order: 3
     body: >-
       ## Stopping It Before It Starts
@@ -71,7 +71,7 @@ cards:
       **people listen for longer periods of time.**
 
       * **60/60 Rule:**A volume at less than 60% with breaks every 60 mins.
-    _key: card-4-d4760981-7ba7-43cd-bb83-65d8e8d33523
+    _key: card-4-15f7ab5d-c968-410d-8001-fe9bc8bbdc90
   - order: 4
     body: >-
       ## Not Your Grandpa’s Hearing Aid
@@ -86,7 +86,7 @@ cards:
 
 
       New law allows over-the-counter hearing aids by 2020 for just $80.
-    _key: card-5-550615c7-3469-4f52-9599-b0d5d55a4f4d
+    _key: card-5-0da3ad65-a7c1-48e1-bff9-16c204c0f163
   - order: 5
     body: >-
       Which headphones are safest? Experts recommend noise-canceling ones,
@@ -96,7 +96,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/hearing-loss/)
-    _key: card-10-72197a56-4c04-41f9-ae2f-b13a5fde4994
+    _key: card-10-d704221d-0b82-49f8-9bb2-6a19ac2ae955
 
 ---
 * **To protect your hearing, noise-canceling earphones provide the best protection:**  

@@ -1,14 +1,14 @@
 ---
 title: All About the Bubbles Baby
 slug: 20180824-18-08-21-all-about-the-bubbles-baby
-_id: legacy-833c70bf-4465-4f3a-aa02-c946ca8c6511
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-b6ffb3b7-628e-4092-8a17-185e141dc713
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-21-all-about-the-bubbles-baby/
 _createdAt: '2018-08-21T11:59:29Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-21T11:59:29+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       What's old is new
     citation: What's old is new
-    _key: card-1-d33ba698-6e3c-4fce-9e75-703128e35c89
+    _key: card-1-4e9fd180-0770-4bfe-9922-d2c65c02eba0
   - order: 1
     body: >-
       ## Pepsi Buys SodaStream
@@ -40,7 +40,7 @@ cards:
 
       * Big Picture: Major brands are battling for bubbles. Last year, CocaCola
       bought TopoChico, a sparkling water brand, for more than $200M.
-    _key: card-2-c8ba0b8c-359a-4b89-b52d-c6ab4d775e6b
+    _key: card-2-f207c5a1-1e77-481f-8288-cb125cdf98e1
   - order: 2
     body: >-
       > “Sparkling water has grown far more strongly than the overall bottled
@@ -50,7 +50,7 @@ cards:
         
       Wall Street Journal, on how sparkling water market has grown more than 30%
       in recent years. In the meantime, Americans are drinking less soda.
-    _key: card-3-8b0df624-b926-4c0f-9bfd-beef8a20e58a
+    _key: card-3-9679563c-64b2-4b98-9de5-ca1da05468fc
   - order: 3
     body: |-
       ## Are Bubbles Actually Healthier?
@@ -60,7 +60,7 @@ cards:
       * Helps with hydration.
       * Doesn’t strip bone density (as reported in mid-2000s).
       * May (mildly) impact your teeth enamel.
-    _key: card-4-356acb2e-169c-4fa7-a472-f506aeed8c90
+    _key: card-4-b33a4663-44e3-447c-9311-ea33ff374059
   - order: 4
     body: >-
       The man who invented sparkling water also discovered oxygen (as we know
@@ -71,7 +71,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-08-21-all-about-the-bubbles-baby/)
-    _key: card-10-97d08fa6-ff8b-4ee5-85ca-7080eff7d5b5
+    _key: card-10-58a7cfea-c976-4ee4-8037-c748f9c59084
 
 ---
 * **The man who invented carbonated water:A Joseph Priestley and the Discovery of Oxygen:**  

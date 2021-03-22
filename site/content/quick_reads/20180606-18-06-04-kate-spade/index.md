@@ -1,14 +1,14 @@
 ---
 title: 18.06.04 Kate Spade
 slug: 20180606-18-06-04-kate-spade
-_id: legacy-e080e093-839f-463b-8e24-39d138399c69
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-dd922b88-fb77-48ec-a04b-d6b094068d9d
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-04-kate-spade/
 _createdAt: '2018-06-06T10:51:17Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-06T10:51:17+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       Flip For Her Story
     citation: Flip For Her Story
-    _key: card-1-55d75542-e03f-446c-a4fd-aa0ed9f0ae87
+    _key: card-1-4dcd0afd-2caa-4d03-af59-b684485128c4
   - order: 1
     body: >-
       ## Kate Spade: Bio
@@ -52,7 +52,7 @@ cards:
 
       Flip: How They Made It
     citation: 'Flip: How They Made It'
-    _key: card-2-5b2a6f4b-091c-48fc-831f-774e68382fc9
+    _key: card-2-f3db3000-44ac-405b-8183-0b35540c8817
   - order: 2
     body: >-
       > _“There were a lot of lean times — Mr. Spade cleaned out his 401K to buy
@@ -64,7 +64,7 @@ cards:
         
       New York Times interview, 1999. The couple launched the brand with $35,000
       & at the time of this interview the company was making millions.
-    _key: card-3-cf4ad183-c109-4db2-ac16-365340dc49b2
+    _key: card-3-e42cea4f-d85a-4ce7-a09e-8cc38ebee58b
   - order: 3
     body: >-
       ## Kate Spade: Business
@@ -78,10 +78,10 @@ cards:
 
       * Spade launched accessory line **Frances Valentine**A in 2016 &
       officially took the name “Kate **Valentine** Spade.”
-    _key: card-4-e1f6bb73-7b0a-4bf5-99e7-95e3f9a318ef
+    _key: card-4-f7f5585c-cbf7-4b09-84ba-1c1ce204dda9
   - order: 4
     body: "> “I will say this was not unexpected by me. I’d flown out to Napa and NYC several times in the past 3-4 years to help her to get the treatment she needed (inpatient hospitalization). … She was a dear little person. So dear a\x14 so kind, so funny…I’m off to bed for a good cry.”  \n  \n  \n  \nReta Saffo, Kate Spade's older sister in an email to their hometown newspaper, The Kansas City Star. Saffo says her sister suffered from mental illness."
-    _key: card-5-f012588b-ad1f-42b3-b4e8-8e9997e867c6
+    _key: card-5-c2b4caff-d495-4993-b389-66df5d0f9c47
   - order: 5
     body: >-
       The Kate Spade brand describes itself as "quick and curious and playful
@@ -91,7 +91,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-04-kate-spade/)
-    _key: card-10-7c634954-d47b-49b4-9b0d-bbaf5a6e1c41
+    _key: card-10-1f45db28-5bf7-4ae6-b6e3-f5d2b428b585
 
 ---
 * 

@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for Monday, October 1st
 slug: 20190905-18-10-01
-_id: legacy-37695862-1302-4b1d-8e95-0724d8740f3d
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-ca9e723b-3dbf-412a-a5dc-50d3047a746f
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-10-01/
 _createdAt: '2018-10-01T11:47:43Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-10-01T11:47:43+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
       victim and an oak for the tree of life. A year after the shooting,
       investigators still don't have a clear motive or answer to why the shooter
       did it.
-    _key: card-1-df68fe61-4706-40ad-a0a0-747ddeb9b74f
+    _key: card-1-de28adb3-c11e-4768-ae26-edb7d6e02e69
   - order: 1
     body: >-
       > ‘I’m a victim of sexual assault…. We do treat people differently who are
@@ -44,7 +44,7 @@ cards:
       Kellyanne Conway, WH counselor, speaking to CNN's Jake Tapper about the
       nomination and debate over the President's Supreme Court nominee, Brett
       Kavanaugh.
-    _key: card-2-cacfea35-7251-4122-b8ae-c4784b00a78d
+    _key: card-2-840bffd8-f514-457d-b38e-6f81bc83da0f
   - order: 2
     body: >-
       > “And then we fell in love, OK? No, really, he wrote me beautiful
@@ -61,13 +61,13 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/rXFRrho5uCg?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-3-c1a108d0-5476-4ab8-a43a-9212afcfcfda
+    _key: card-3-bf67d729-b290-4ff3-b8d3-3cef27f83085
   - order: 3
     body: "> ‘It was like a flurry a\x14 like it was snowing mosquitoes… I waited for them to calm down before I grabbed the kids and the ran into the house.’  \n  \n  \n  \nCassie Vadovsky speaking to her local news station in North Carolina. Flooding from Hurricane Florence continues in North & South Carolina; one of the side effects is mosquitos, including one type that grows 3x the average size."
-    _key: card-4-0f59a715-1403-4aa3-a167-36644ee6773c
+    _key: card-4-77f03f7c-6ca2-4dea-97ca-ce44e239c698
   - order: 4
     body: '[view sources](https://smarthernews.com/18-10-01/)'
-    _key: card-10-07aff0a9-2882-4d1f-8468-7c9b11463716
+    _key: card-10-d6c10cd9-c65e-4d32-8fae-1ecf71094c17
 
 ---
 * **Garden provides place to mourn Las Vegas shooting victims:**  

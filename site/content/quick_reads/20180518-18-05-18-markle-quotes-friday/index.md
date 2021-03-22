@@ -1,14 +1,14 @@
 ---
 title: 18.05.18 Markle Quotes *Saturday*
 slug: 20180518-18-05-18-markle-quotes-friday
-_id: legacy-c6035d87-d753-4a9d-a0a7-6bad055bc991
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-3bee7be3-e95c-42c1-8e24-974599808c5d
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-18-markle-quotes-friday/
 _createdAt: '2018-05-18T15:30:50Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-18T15:30:50+00:00'
 weight: 50
 featured_image:
@@ -20,7 +20,7 @@ colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
     body: "Meghan Markle:  \nIn Her Own Words\n\n> **“It means that a wife is equal to her husband, a sister to her brother. Not better, not worsea\x14they are equal.”**  \n  \n  \n  \nMarkle, on what it meant to her when, at 11, her letter to Proctor & Gamble led them to change their ad from women all over America are fighting greasy pots and pans to people all over America are fighting greasy pots and pans."
-    _key: card-1-b9f776ed-fb1e-4ce1-909c-14acca9a6ec7
+    _key: card-1-b804524a-2809-4102-bd45-a2161802422f
   - order: 1
     body: >-
       > **“To be a feminist, to be a lady, to be a president, to be a woman does
@@ -32,7 +32,7 @@ cards:
         
       Markle, to the Irish Independent in 2014, on why feminity and feminism are
       not mutially exclusive.
-    _key: card-2-1386fdfd-8d38-47d9-b809-c2dacde5f385
+    _key: card-2-585a4270-06d9-4be4-9cc1-43108370b7c3
   - order: 2
     body: >-
       > **“While my mixed heritage may have created a grey area surrounding my
@@ -43,7 +43,7 @@ cards:
         
         
       Markle, to Elle Magazine in 2015, on her biracial identity.
-    _key: card-3-539ddb8a-f55b-4f4c-b384-62ab0b7f0593
+    _key: card-3-32fa49a7-7a0b-4485-ae28-3189589f2b85
   - order: 3
     body: >-
       > **“If we just talk to ourselves the way we talk to our best friends….
@@ -59,7 +59,7 @@ cards:
 
       [Watch It Here](https://vimeo.com/189216026)
     citation: Watch It Here
-    _key: card-4-34d6a678-8368-42c8-8d42-e4c0491093bc
+    _key: card-4-d686de23-03bf-43e8-9782-3db581c7fb5a
   - order: 4
     body: >-
       Megan Markle's new title will reportedly be: Her Royal Highness the
@@ -68,7 +68,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-18-markle-quotes-friday/)
-    _key: card-10-37a63fe4-9332-4f52-8044-245e75bf95ea
+    _key: card-10-f3a16a89-60a0-44e7-bc23-52656d35bd7e
 
 ---
 * **Meghan Markle has advocated for women since the age of 11:** [www.chicagotribune.com/news/nationworld/sns-bc-un–royal-engagement-meghan-markle-united-nations-20171128-story.html](http://www.chicagotribune.com/news/nationworld/sns-bc-un--royal-engagement-meghan-markle-united-nations-20171128-story.html)

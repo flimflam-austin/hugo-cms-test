@@ -4,26 +4,24 @@ title: >-
   Potential Additional Economic Stimulus Bill.
 slug: >-
   20200730-white-house-chief-of-staff-mark-meadows-on-lawmakers-trying-to-compromise-on-a-potential-additional-economic-stimulus-bill
-_id: legacy-0b8e7ba4-f3ed-460d-a6d8-484c4ab3344c
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-83b71366-8bcf-4427-9dd8-9f06173b3d63
+_rev: ZEyhBiGfgCfwE8WOjbuSlO
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/white-house-chief-of-staff-mark-meadows-on-lawmakers-trying-to-compromise-on-a-potential-additional-economic-stimulus-bill/
 _createdAt: '2020-07-30T11:35:23Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-07-30T11:35:23+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    d0d5312d9d7a35b5ba75e4a8746f03338f46476d-1024x663.jpg
 is_breaking: false
-summary: >-
-  White House Chief of Staff Mark Meadows on lawmakers trying to compromise on a
-  potential additional economic stimulus bill.
 featured_quote:
   quote: I'm not optimistic that we'll reach any kind of comprehensive deal.
-  citation: >-
-    White House Chief of Staff Mark Meadows on lawmakers trying to compromise on
-    a potential additional economic stimulus bill.
 
 ---
 * Democrats and Republicans remain at odds over legislation – potentially 5th round of economic stimulus.
@@ -35,4 +33,4 @@ featured_quote:
 
 READ MORE [HERE](https://www.usatoday.com/story/news/politics/2020/07/30/coronavirus-stimulus-trump-congress-struggle-reach-deal-relief/5534896002/)
 
-GOOD READ ON [EXTRA UNEMPLOYMENT BENEFITS](https://www.usatoday.com/story/money/2020/07/22/coronavirus-stimulus-unemployment-money-questions-answers/5489266002/)s://www.usatoday.com/story/money/2020/07/22/coronavirus-stimulus-unemployment-money-questions-answers/5489266002/)
+GOOD READ ON [EXTRA UNEMPLOYMENT BENEFITS](https://www.usatoday.com/story/money/2020/07/22/coronavirus-stimulus-unemployment-money-questions-answers/5489266002/)

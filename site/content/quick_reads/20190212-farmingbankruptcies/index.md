@@ -1,14 +1,14 @@
 ---
 title: Tightening Our (Farm) Belt
 slug: 20190212-farmingbankruptcies
-_id: legacy-75d3f835-029e-4ec7-9812-80c1564a6381
-_rev: CRhmwZOx7vxYXrRSdQpnCw
+_id: legacy-3c83fd1a-2b86-44ad-9012-6bf8f9bd463a
+_rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
   - farmingbankruptcies/
 _createdAt: '2019-02-12T13:01:46Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-02-12T13:01:46+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
 
       Why Now?
     citation: Why Now?
-    _key: card-1-b120c172-5c60-4f83-b094-931f82a2f66e
+    _key: card-1-0343e64c-0e98-41f6-88c8-6f35bae120bc
   - order: 1
     body: >-
       > ‘I’ve been through several dips in 40 years. This one here is gonna kick
@@ -41,7 +41,7 @@ cards:
       Kirk Duensing, Nebraska Farmer, who says low prices for soy & corn crops
       combined with high interest loans has left him more than $1M in debt. He
       has sold land and equipment to try to stay afloat.
-    _key: card-2-f3b47576-21f6-47af-8422-6e6889b1a18a
+    _key: card-2-2d68aef0-34e5-4638-8be9-df757f566d9c
   - order: 2
     body: >-
       # Why Now?
@@ -54,7 +54,7 @@ cards:
 
       * **Trade**: Tariffs (or taxes) on American grown crops exported to China
       or Mexico hurts farmers on top of the depressed prices.
-    _key: card-3-3bdd1906-8146-4ee6-8a92-cfa095765448
+    _key: card-3-41ce7c89-c94c-479d-a581-bceb0e50a174
   - order: 3
     body: >-
       > ‘We thought 2019 would be the year things turned around. Then the trade
@@ -65,7 +65,7 @@ cards:
       Curt Hudnutt, Head of Rural Banking for Rabobank, one of the biggest U.S.
       farm lenders, warning bankruptcies among U.S. farmers will increase. The
       majority of farms lost money last year.
-    _key: card-4-d251caa7-817b-47a4-bb13-fb80239e16f3
+    _key: card-4-9cddead1-bbd8-4e09-96aa-bee7b6c9f104
   - order: 4
     body: >-
       ## Why It Matters:
@@ -78,7 +78,7 @@ cards:
       **Your Tax Dollars**: Pres. Trump created a $12B fund to help subsidize
       farmers impacted by trade disputes. Only a portion of the funds have been
       accessed.
-    _key: card-5-69808c4a-dcfb-4a8c-8c6c-d1ada102b81b
+    _key: card-5-ecde89d2-1311-47f5-ba9e-2f42e4d4d6c2
   - order: 5
     body: >-
       The downward trend in prices is predicted to continue for U.S. farmers.
@@ -88,7 +88,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/farmingbankruptcies/)
-    _key: card-10-64e83ac9-93df-4ad5-8870-d21b2d71568c
+    _key: card-10-679c86b0-8495-410b-8ae3-84d3f83eb3b7
 
 ---
 * **“This One Here Is Gonna Kick My Butt”—Farm Belt Bankruptcies Are Soaring:**  

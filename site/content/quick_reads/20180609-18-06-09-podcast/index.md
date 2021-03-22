@@ -1,14 +1,14 @@
 ---
 title: 18.06.09 Podcast
 slug: 20180609-18-06-09-podcast
-_id: legacy-00983df0-d2bb-40b2-9def-a8787351b1a3
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-f1a88b2b-52db-4f6b-baa5-a2fa4cb4e125
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-09-podcast/
 _createdAt: '2018-06-09T13:04:43Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-09T13:04:43+00:00'
 weight: 50
 featured_image:
@@ -29,13 +29,13 @@ cards:
       [click here to
       listen](http://smarthernews.libsyn.com/smarther-news-episode-2)
     citation: click here to listen
-    _key: card-1-411c53bf-a398-4678-827a-0a8e0d200148
+    _key: card-1-7ca35099-72d6-4834-a0d1-5a5c608b8210
   - order: 1
     body: |-
       What would you like to hear on the podcast?
 
       [view sources](https://smarthernews.com/18-06-09-podcast/)
-    _key: card-10-05250042-da74-4247-9ed6-153b03afd485
+    _key: card-10-be45d5ee-ef99-4c26-8dfd-1f47f917901b
 
 ---
 SmartHER Podcast:A [http://smarthernews.libsyn.com/smarther-news-episode-2](http://smarthernews.libsyn.com/smarther-news-episode-2)

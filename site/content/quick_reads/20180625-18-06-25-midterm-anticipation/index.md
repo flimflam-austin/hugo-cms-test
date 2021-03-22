@@ -1,14 +1,14 @@
 ---
 title: 18.06.25 Midterm Anticipation
 slug: 20180625-18-06-25-midterm-anticipation
-_id: legacy-0f8269f4-405d-4a0a-8f6e-aec4620a1ae9
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-3a88471d-85c6-4235-9b55-cad8a5c703ab
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-25-midterm-anticipation/
 _createdAt: '2018-06-25T09:43:26Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-25T09:43:26+00:00'
 weight: 50
 featured_image:
@@ -29,10 +29,10 @@ cards:
 
       FLIP: Why Now?
     citation: 'FLIP: Why Now?'
-    _key: card-1-3168b63a-0c0d-406d-b5f9-9edf5d1e9095
+    _key: card-1-7273db16-f9ae-4be7-842f-aa6ab8123ffe
   - order: 1
     body: "Voter Interest in Midterms  \nOff the Charts\n\n* Record share of voters (68%) say control of Congress factor in their vote, according to a new Pew poll.\n* More voters also say their view of the Pres. a\x13 positive or negative a\x13 will influence vote for Congress.\n* Democrats’ advantage on enthusiasm is weaker than it was in previous election cycles when their party scored big."
-    _key: card-2-f2a509a5-1052-4d07-b11f-a34a405efc53
+    _key: card-2-ed7e5cce-27c8-4fbb-a66c-1fd690c94cc1
   - order: 2
     body: >-
       # MIDTERM$
@@ -47,7 +47,7 @@ cards:
 
       * **BUT..**.A Fmr NYC MayorA **Michael Bloomberg has pledged $80M** in an
       effort to flip the House for Democrats.
-    _key: card-3-6873da1f-bf64-4b0f-b562-ea77c8a82587
+    _key: card-3-c27d8dc2-8c93-4145-952c-d1acff6e8f7b
   - order: 3
     body: >-
       Pres. Trump will ramp up travel ahead of the midterms to support what he
@@ -57,7 +57,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-25-midterm-anticipation/)
-    _key: card-10-841d3f4f-2ddb-4b34-bf2d-59658d44ba67
+    _key: card-10-c2e8f50e-4278-48bb-9015-0a3f8b9a1111
 
 ---
 * **Poll: Democrats Fired Up Against Trump In Midterms, But GOP Rallying Around Him:**  

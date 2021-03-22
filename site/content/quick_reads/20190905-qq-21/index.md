@@ -1,14 +1,14 @@
 ---
 title: Quick Quotes for February 6, 2019
 slug: 20190905-qq-21
-_id: legacy-7d387574-954b-4f9e-9087-ea5ff699659c
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-c60d38c9-3e10-46ae-87eb-0bc12adda04a
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - qq-21/
 _createdAt: '2019-02-06T13:38:32Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2019-02-06T13:38:32+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       which has already received several inches, covering Pacific coast beaches.
       In nearby San Francisco, the winter weather blast brought the Bay Area its
       first notable snow in 8 years, dusting the region's mountaintops.
-    _key: card-1-20248bb4-1f94-44bc-b4cd-03e7cafc4ad7
+    _key: card-1-85884b5a-f975-48c3-8c21-ee7e2ed2042c
   - order: 1
     body: >-
       > “2019 expands the scope of people that can be represented.”  
@@ -42,7 +42,7 @@ cards:
       eye dog, hearing aid & wheelchair. Of course, there are also plenty of fun
       ones, like butter, swimsuits, sloth, flamingo & yo-yo. The new emojis will
       roll out April - December.
-    _key: card-2-3f8c4013-ae0b-4827-acf4-ea5eae05d2b3
+    _key: card-2-1dfdbc02-3cef-4527-a3a8-d27ab7ee2672
   - order: 2
     body: >-
       > ‘Should we do something more? Yes. Is there the will? Yes. But it’s a
@@ -54,7 +54,7 @@ cards:
       nuns. After a trip to the United Arab Emirates, the first ever trip by the
       papacy to the Arabian Peninsula - the birthplace of Islam - the Pope said
       the church has been working to stop the abuse for some time.
-    _key: card-3-2d261423-ec88-460e-a885-bb4a3dc31dce
+    _key: card-3-de7c4b7b-a7b0-4eac-b752-faf3069f4bb1
   - order: 3
     body: >-
       > “The legislature finds that the cigarette is considered the deadliest
@@ -69,7 +69,7 @@ cards:
       10 years each year after, effectively prohibiting sales to all but
       centenarians in 5 years. Restrictions would not apply to ecigs, cigars or
       chewing tobacco.
-    _key: card-4-343ddcc0-d8d1-4e17-a49a-f6ef184a5b9a
+    _key: card-4-ac5ec750-ba00-4282-b0b1-a0d0512b6b15
   - order: 4
     body: >-
       > ‘Red tide’s impact was significant…our initiative is to give back. Our
@@ -82,10 +82,10 @@ cards:
       last year's red tide, Florida's worse in a decade, which killed 267 tons
       of marine life. The red tide is caused by toxins released from dead algae;
       it can be deadly to wildlife and irritate humans.
-    _key: card-5-21b323c8-1d82-4fce-938c-4235105f5ac9
+    _key: card-5-41183aaa-d93b-4d6a-b620-0bcbc82d4812
   - order: 5
     body: '[view sources](https://smarthernews.com/qq-21/)'
-    _key: card-10-07f7165d-c828-4129-8ae6-b82330fa162d
+    _key: card-10-b1df84c6-688c-4764-a090-45959cc90532
 
 ---
 * **Snow in San Francisco? Mild cities don’t escape winter storm:**  
@@ -96,9 +96,7 @@ cards:
 
 **WATCH: new emojis unveiling:**
 
-{{< youtube 4HJhBUIVul8 >}}
-
-{{< youtube 4HJhBUIVul8 >}}
+{{< youtube id=\4HJhBUIVul8\ title=\ >}}
 
 * 
 

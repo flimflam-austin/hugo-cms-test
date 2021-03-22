@@ -1,14 +1,14 @@
 ---
 title: 18.05.22 Quick Quotes
 slug: 20180522-18-05-22-quick-quotes
-_id: legacy-c9b3b2ba-84d6-471b-af9b-4f60b50ac21f
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-5742ee29-3df2-44d2-a6a9-0e9ff885f094
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-22-quick-quotes/
 _createdAt: '2018-05-22T11:27:29Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-22T11:27:29+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
       Press Sec. Sarah Huckabee Sanders on May 21, 2018, responding to Haspel
       becoming the first female CIA director on Monday despite few Dems voting
       for her confirmation.
-    _key: card-1-2508d699-4bb4-43fd-a58f-8136d485376f
+    _key: card-1-8b5cd393-8651-4786-b6cd-ed8be2d7460d
   - order: 1
     body: >-
       > “There’s something I’d like to say about the tragedy Friday at Santa Fe
@@ -48,7 +48,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/B41XUP-ivL8?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-2-526865ba-6545-4d37-b4e9-7bab489845d8
+    _key: card-2-51b10285-51e1-4729-ada3-064dc3f1c187
   - order: 2
     body: >-
       > ‘Recently, I’ve changed my mind about the biggest challenge that the
@@ -60,10 +60,10 @@ cards:
       Former President Jimmy Carter, during his May 19, 2018 commencement speech
       at Liberty University, on the greatest challenge facing the world today as
       opposed to what he said in 1999 (wealth disparity).
-    _key: card-3-e006d1bc-79de-4a2c-9971-a8e73b6744e7
+    _key: card-3-9ee63d80-9c5e-48dd-b164-f3df31034e31
   - order: 3
     body: '[view sources](https://smarthernews.com/18-05-22-quick-quotes/)'
-    _key: card-10-6a06981e-5f77-44e0-9490-87a1a3197417
+    _key: card-10-7bfbf031-5d34-4e3f-b865-02208318f313
 
 ---
 * **White House Press Secretary Sarah Huckabee Sanders Official Twitter:** [https://twitter.com/PressSec/status/998523089188245504](https://twitter.com/PressSec/status/998523089188245504)

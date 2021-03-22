@@ -4,26 +4,24 @@ title: >-
   Three-Night Stay at Walter Reed National Military Medical Center.
 slug: >-
   20201007-pres-trumps-remarks-as-he-arrived-back-at-the-white-house-after-his-three-night-stay-at-walter-reed-national-military-medical-center
-_id: legacy-89e9d4db-636b-447c-97b0-5e928b5a1b2c
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-7636d9a3-f53a-4e0c-a815-3d6f26b7647c
+_rev: f2cVhvAV1wntWw1uaABAwR
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/pres-trumps-remarks-as-he-arrived-back-at-the-white-house-after-his-three-night-stay-at-walter-reed-national-military-medical-center/
 _createdAt: '2020-10-05T23:41:02Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:53Z'
 date: '2020-10-05T23:41:02+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    63c80426f027228b0caf3d7fe676f1a78a4fdc92-799x534.jpg
 is_breaking: false
-summary: >-
-  Pres. Trump’s remarks as he arrived back at the White House after his
-  three-night stay at Walter Reed National Military Medical Center.
 featured_quote:
   quote: I feel good.
-  citation: >-
-    Pres. Trump’s remarks as he arrived back at the White House after his
-    three-night stay at Walter Reed National Military Medical Center.
 
 ---
 * **THE LATEST:** On Monday afternoon, the President’s doctor announced that the President would return to the White House. Dr. Sean Conley [explained](https://www.c-span.org/video/?476637-1/dr-sean-conley-confirms-president-trump-return-white-house) that although Pres. Trump met the standards for discharge criteria, he “**_may not entirely be out of the woods yet_**.”
@@ -41,4 +39,4 @@ featured_quote:
   * Senators Mike Lee and Thom Tillis
   * Former White House advisor Kellyanne Conway
   * Former New Jersey Gov. Chris Christie
-* **WHAT TO EXPECT NEXT:** We’ll continue to get regular updates concerning the President’s progress . In the meantime, expect to hear about additional cases of COVID-19 connected to the White House. It’s possible that others will test positive in the coming days following a series of recent negative test results – that’s what happened to White House Press Sec. Kayleigh McEnany.g a series of recent negative test results – that’s what happened to White House Press Sec. Kayleigh McEnany.
+* **WHAT TO EXPECT NEXT:** We’ll continue to get regular updates concerning the President’s progress . In the meantime, expect to hear about additional cases of COVID-19 connected to the White House. It’s possible that others will test positive in the coming days following a series of recent negative test results – that’s what happened to White House Press Sec. Kayleigh McEnany.

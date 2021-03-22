@@ -1,14 +1,14 @@
 ---
 title: 18.05.21 Venezuela Elections
 slug: 20180521-18-05-21-venezuela-elections
-_id: legacy-bf5545b4-1f66-441d-a2b8-394b8393f8c4
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-72b26165-98eb-4bd9-a427-e158e5e29e61
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-21-venezuela-elections/
 _createdAt: '2018-05-21T10:33:23Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-21T10:33:23+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
 
       FLIP: Legit Election?
     citation: 'FLIP: Legit Election?'
-    _key: card-1-3cf42294-00f4-4f43-b8e3-2c9422f823b4
+    _key: card-1-188177c2-462b-497f-a529-92d74556caa7
   - order: 1
     body: >-
       ## Background
@@ -47,7 +47,7 @@ cards:
       Chavez.
 
       * Maduro says Venezuela is a victim of “economic warfare” from the U.S.
-    _key: card-2-197f5e74-12ad-41c6-96c3-7aac2cb2c966
+    _key: card-2-c3363912-3895-4e0b-a1b1-792c3c0421c3
   - order: 2
     body: |-
       Venezuela Election:  
@@ -58,7 +58,7 @@ cards:
       * Economy cut in half since Maduro took over in 2013.
       * Desperation hasA sparked a **wave of deadly crime**.
       * At least **1 million people have left the country in the past 4 years**.
-    _key: card-3-d8987e7d-87c9-4011-ac84-81dbc59e8415
+    _key: card-3-a2c20ecf-f722-4c09-8f79-a89000e0e773
   - order: 3
     body: >-
       > ‘I don’t know what everybody else does to survive. If I don’t get out of
@@ -72,7 +72,7 @@ cards:
 
       FLIP: Cursed riches
     citation: 'FLIP: Cursed riches'
-    _key: card-4-5d28a187-fc1c-4533-8051-9b79efbcdee4
+    _key: card-4-cc302f0e-20ca-4717-8823-71d1c6fe1248
   - order: 4
     body: >-
       ## More Oil Than Saudis, Why Are People Starving?
@@ -86,7 +86,7 @@ cards:
 
       * In turn, gov’t printed more money, led to hyperinflation. Everything =
       expensive.
-    _key: card-5-c5193c44-cd96-4965-8f6b-78a89f657330
+    _key: card-5-19f23f9e-1d84-433d-a220-f45c0c41b7ff
   - order: 5
     body: >-
       To protest election abuses, Trump officials have warned Venezuela may face
@@ -96,7 +96,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-21-venezuela-elections/)
-    _key: card-10-919420ca-f32b-4471-8399-b628eb66d0aa
+    _key: card-10-6f9180c8-4f70-45e0-9d71-3d8aff5d91ea
 
 ---
 * Photo credit of Maduro:A Tasnim News Agency

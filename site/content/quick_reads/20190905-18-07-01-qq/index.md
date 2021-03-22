@@ -1,14 +1,14 @@
 ---
 title: 18.07.01 Qq
 slug: 20190905-18-07-01-qq
-_id: legacy-5bc40b3e-4d57-42fa-af55-835fa77a0942
-_rev: XOnQP8cIThhnw9BWFxV4ef
+_id: legacy-b36da108-5439-4339-aa46-0792faa2b60b
+_rev: ZEyhBiGfgCfwE8WOjbuCBF
 type: quick_reads
 draft: false
 aliases:
   - 18-07-01-qq/
 _createdAt: '2018-07-03T10:40:47Z'
-_updatedAt: '2021-03-16T12:28:19Z'
+_updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-07-03T10:40:47+00:00'
 weight: 50
 card_series: Quotes
@@ -24,7 +24,7 @@ cards:
       WTAP news station in West Virginia addressing a side-effect of a heat wave
       that's impacting nearly 100M Americans in the eastern US - piping hot
       playground equipment.
-    _key: card-1-ec25df85-9aae-4956-94d3-582b5c482f75
+    _key: card-1-dec79b39-3705-42c4-8f40-42ecdc8847be
   - order: 1
     body: >-
       > ‘It’s hard to believe that something we enjoy so much could be good for
@@ -36,7 +36,7 @@ cards:
       first-of-its-kind study on coffee and longevity. Researchers found
       coffee-drinkers lived longer than non-coffee drinkers - though they have
       no specific explanation why.
-    _key: card-2-e841e81e-cef5-474e-9101-53714f50eba4
+    _key: card-2-d003e9ea-9252-46f5-9aa1-fdd572937e32
   - order: 2
     body: >-
       > ‘We are conscious of the need to maintain good relations with the United
@@ -49,7 +49,7 @@ cards:
         
         
       Newly-elected Mexican President Andres Manuel Lopez Obrador
-    _key: card-3-cd6e4f05-4f79-45f2-bd2d-b67150f47e09
+    _key: card-3-0da7127c-2bd0-4acc-adfc-deeb0e7f1672
   - order: 3
     body: >-
       > “Secretary Pompeo will travel to Pyongyang, July 5-7, to continue
@@ -61,13 +61,13 @@ cards:
       Heather Nauert, State Department Spokesperson, detailing Sec. Pompeo's
       travel from July 5-12. Secy Pompeo will visit Pyongyang, Tokyo, Hanoi, Abu
       Dhabi, & Brussels.
-    _key: card-4-e938c3c7-8f86-4417-8a16-1cadf5ca1e76
+    _key: card-4-b0dc89bd-5a8a-4c02-9e79-4e1df8f5450a
   - order: 4
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-07-01-qq/)
-    _key: card-10-cd09a130-479f-40c9-8c73-7d9d850f74e3
+    _key: card-10-952f89a6-a8eb-46a5-85da-036180f4ef81
 
 ---
 * **Heat wave causing playground equipment to reach dangerous temperatures**A [http://www.thenewscenter.tv/content/news/Heat-wave-causing-playground-equipment-to-reach-dangerous-temperatures-487164121.html](http://www.thenewscenter.tv/content/news/Heat-wave-causing-playground-equipment-to-reach-dangerous-temperatures-487164121.html)

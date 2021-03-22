@@ -1,14 +1,14 @@
 ---
 title: 18.04.20 Food Waste
 slug: 20180420-18-04-20-food-waste
-_id: legacy-c856185f-38fa-44d7-a7a5-2477474361b9
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-6c7b0408-dbcf-4098-97a5-753a89882eed
+_rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-20-food-waste/
 _createdAt: '2018-04-20T10:44:18Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-20T10:44:18+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
 
       FLIP: are you guilty?
     citation: 'FLIP: are you guilty?'
-    _key: card-1-d1701851-0110-41b3-a54c-558bc3682ad3
+    _key: card-1-30ce8af4-747c-42b1-844c-3ac320136398
   - order: 1
     body: >-
       WHAT DO WE TRASH?  
@@ -50,7 +50,7 @@ cards:
 
       Note: Food loss is a portion not eaten for any reason, like spoilage &
       plate waste.
-    _key: card-2-bfd6709a-521a-4f67-9992-604847a10c66
+    _key: card-2-e0da35db-ef97-43d1-a2c2-031de583cdce
   - order: 2
     body: >-
       ## WHY?
@@ -66,7 +66,7 @@ cards:
 
       **Did you know?** Federal law only requires expiration dates on infant
       formula.
-    _key: card-3-ab6d39da-d8f9-46f2-a0dc-98e937781232
+    _key: card-3-9a1f625b-024e-47ec-89e9-887dbe6af5ef
   - order: 3
     body: >-
       ## DECIPHERING THE LINGO
@@ -84,7 +84,7 @@ cards:
 
 
       **“Expiration Date”:**A last day to eat. Proceed at your own risk.
-    _key: card-4-56d91c1c-9a05-4c09-ba75-7bc1287bd2aa
+    _key: card-4-c1725dda-95f7-41c9-9b2d-ab255a81aa1f
   - order: 4
     body: >-
       ## Honey, Will You Sniff This?
@@ -100,7 +100,7 @@ cards:
 
       * **Canned goods:**A Acidic foods (i.e. tomato sauce) can keep 18 months.
       Low-acid foods like veggies may last 5 years.
-    _key: card-5-f6133c38-ce25-449c-99d0-30045fbee011
+    _key: card-5-a4a732f4-2397-42d3-a29f-83dee26bd0a1
   - order: 5
     body: >-
       In a recent poll, 76% respondents think they waste less edible food than
@@ -109,7 +109,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-20-food-waste/)
-    _key: card-10-065034d4-020e-40d7-a14b-d1de863393e7
+    _key: card-10-3231b6bb-9c22-4927-9e49-4520076a4af4
 
 ---
 * STUDY: Relationship between food waste, diet quality, and environmental sustainability: [http://journals.plos.org/ploso ne/article?id=10.1371/journal. pone.0195405](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195405)

@@ -4,27 +4,19 @@ title: >-
   the Diabolical Ironclad Beetle as a Model Potentially for Airplanes, Vehicles
   and Buildings.
 slug: 20201025-beetle-power
-_id: legacy-7c80d07a-224d-4411-993e-22ec85556c44
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-d8d7b1f5-aa76-4baf-b8fd-697f29ea39fc
+_rev: ZEyhBiGfgCfwE8WOjbuMjW
 type: quick_quotes
 draft: false
 aliases:
   - article/beetle-power/
 _createdAt: '2020-10-26T03:08:10Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2020-10-26T03:08:10+00:00'
 weight: 50
 is_breaking: false
-summary: >-
-  Purdue University civil engineer Pablo Zavattieri on a new study looking at
-  the diabolical ironclad beetle as a model potentially for airplanes, vehicles
-  and buildings.
 featured_quote:
   quote: This beetle is super tough.
-  citation: >-
-    Purdue University civil engineer Pablo Zavattieri on a new study looking at
-    the diabolical ironclad beetle as a model potentially for airplanes,
-    vehicles and buildings.
 
 ---
 * Researchers published their work in the journal of “Nature.”

@@ -1,21 +1,19 @@
 ---
 title: California Becomes First State to Ban Sale of Fur.
 slug: 20191013-california-becomes-first-state-to-ban-sale-of-fur
-_id: legacy-dcc1a42a-a73e-4b2a-8335-459b949f8f4f
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-a900f883-4e38-4d0d-b3e3-953fdcff3259
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/california-becomes-first-state-to-ban-sale-of-fur/
 _createdAt: '2019-10-13T23:57:52Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-10-13T23:57:52+00:00'
 weight: 50
 is_breaking: false
-summary: California becomes first state to ban sale of fur.
 featured_quote:
   quote: Ordinary people want to see animals protected, not abused.
-  citation: California becomes first state to ban sale of fur.
 
 ---
 Cassie King, an organizer with the Berkeley-based group, to the associated press.

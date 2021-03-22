@@ -1,14 +1,14 @@
 ---
 title: 18.05.03 Deadly Romaine
 slug: 20180503-18-05-03-deadly-romaine
-_id: legacy-7378975d-fc53-4ea9-bc97-daa3266f386c
-_rev: XOnQP8cIThhnw9BWFxV401
+_id: legacy-7ed55be0-d810-4533-8283-bee1297a97ce
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-03-deadly-romaine/
 _createdAt: '2018-05-03T10:53:06Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-03T10:53:06+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       FLIP: WHY IS THIS STILL HAPPENING?
     citation: 'FLIP: WHY IS THIS STILL HAPPENING?'
-    _key: card-1-5daf85c3-3b99-4a09-ac19-c34cd52fcaf4
+    _key: card-1-a944d170-b524-43d5-b3b7-efa797141c10
   - order: 1
     body: >-
       E. Coli Outbreak Spreads
@@ -51,7 +51,7 @@ cards:
 
       BUT Still on the menu?
     citation: BUT Still on the menu?
-    _key: card-2-9f8016e1-bd9c-43fa-a94a-8ca6098cccec
+    _key: card-2-8f20b5ee-671f-49e8-a784-de6b206a7fc4
   - order: 2
     body: >-
       But I Still See It In Stores  
@@ -68,7 +68,7 @@ cards:
       [CLICK: FOR OUR REFRESHER FROM
       APRIL](https://smarthernews.com/18-04-24-e-coli-women/)
     citation: 'CLICK: FOR OUR REFRESHER FROM APRIL'
-    _key: card-3-c7dbfc62-6b12-43ef-8bcc-677ea474864b
+    _key: card-3-51b4aefc-257a-4453-94a6-38d76a05737b
   - order: 3
     body: >-
       The romaine outbreak started March 13th and now 121 people have become
@@ -78,7 +78,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-03-deadly-romaine/)
-    _key: card-10-546a99ab-16ff-4bad-b841-d414883db8ad
+    _key: card-10-c7c420e2-0444-4b99-949f-d00c15a5adcf
 
 ---
 * **CDC: Multistage Outbreak of E. coli O157:H7 Infections Linked to Romaine Lettuce:** [https://www.cdc.gov/ecoli/2018/o157h7-04-18/index.html](https://www.cdc.gov/ecoli/2018/o157h7-04-18/index.html)

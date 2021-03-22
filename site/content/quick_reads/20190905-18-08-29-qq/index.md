@@ -1,14 +1,14 @@
 ---
 title: Smarthernews Quick Quotes for August 29
 slug: 20190905-18-08-29-qq
-_id: legacy-5c66b92f-bf3e-4b92-9042-d5039f6e628b
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-a981c7d1-964d-4cda-9517-b2f95e4b0c39
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-29-qq/
 _createdAt: '2018-08-29T11:47:42Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-29T11:47:42+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       bail for those awaiting trial and replacing it with a risk-based
       assessment system focused on the defendant's risk to public safety and
       likelihood to return to court.
-    _key: card-1-b6c94408-2649-4cbe-bd88-d07fe8ecae96
+    _key: card-1-36a84f64-d245-4a8a-837a-608ce472e192
   - order: 1
     body: >-
       > ‘I think the lesson is to anticipate the worst.’  
@@ -38,7 +38,7 @@ cards:
         
       Puerto Rico's governor, Ricardo RossellA3, on the latest official figures
       on Hurricane Maria's devastation, raising the death toll from 64 to 2,975.
-    _key: card-2-3bb9eb54-954a-44b2-9d08-bb86a7638720
+    _key: card-2-b5c54197-4990-4fc5-935a-bbc18fa80c4a
   - order: 2
     body: >-
       > “Nobody can remove him from his place as pope unless he himself decides
@@ -54,7 +54,7 @@ cards:
 
       [SMARTHER REFRESHER](https://smarthernews.com/catholic-church/)
     citation: SMARTHER REFRESHER
-    _key: card-3-bff14b7b-ad3f-4726-987f-de0835709de8
+    _key: card-3-3dbc66e5-7e28-4511-8d87-ac862de75d3f
   - order: 3
     body: >-
       > “All guys who went through the military, you almost become a semi-expert
@@ -69,13 +69,13 @@ cards:
 
       [Click: Asian Beauty Secret](https://smarthernews.com/18-08-29-essence/)
     citation: 'Click: Asian Beauty Secret'
-    _key: card-4-2b97390b-5897-46da-9e1d-f305bae4e931
+    _key: card-4-9e6ec678-a38b-4b46-a5ec-2ab41e9ebe63
   - order: 4
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-08-29-qq/)
-    _key: card-10-23fb5af6-fa9f-446b-8892-b34bb81589b1
+    _key: card-10-bba45faa-8af3-48a5-83a1-d58a37c2ec4a
 
 ---
 * **Governor Brown Signs Legislation to Revamp California”s Bail System, Protect Public Safety:**  

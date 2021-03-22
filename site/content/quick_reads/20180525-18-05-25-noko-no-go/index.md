@@ -1,14 +1,14 @@
 ---
 title: 18.05.25 Noko No-Go
 slug: 20180525-18-05-25-noko-no-go
-_id: legacy-0ec16b53-57e5-49dc-bc8d-fc8756eeb835
-_rev: XOnQP8cIThhnw9BWFxV4Ar
+_id: legacy-7d79b922-5590-4ea7-b59c-ad4468d0b7b3
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-05-25-noko-no-go/
 _createdAt: '2018-05-25T09:06:57Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-25T09:06:57+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       FLIP: LEARN MORE
     citation: 'FLIP: LEARN MORE'
-    _key: card-1-ae10b27c-a5f3-4cbc-9275-2e6ff4972508
+    _key: card-1-4cf44f31-8239-4646-a658-d5f5d34605b3
   - order: 1
     body: >-
       > “I was very much looking forward to being there with you. Sadly, I feel
@@ -45,7 +45,7 @@ cards:
         
       Pres. Trump's May 24 letter to Kim Jong Un cancelling their upcoming
       meeting.
-    _key: card-2-9a13753a-7ad4-4e27-b934-d79a3f4acfef
+    _key: card-2-a097a623-65e8-45fd-9d95-1c43d153e2a8
   - order: 2
     body: >-
       ## “Art Of The Deal”
@@ -61,7 +61,7 @@ cards:
       real estate deal where he didn't want the other side to walk away.
       Considering the tone of his letter to North Korea, we thought this was
       worth your attention.
-    _key: card-3-8d814c4e-26ce-4728-8040-43fa7f6c2d52
+    _key: card-3-69502830-89e0-4fb0-ae10-1072b6f609e3
   - order: 3
     body: >-
       ## Less Than 24 Hours After President Trump Sent His Letter…
@@ -74,7 +74,7 @@ cards:
       “We express our willingness to sit down face-to-face with the U.S. and
       resolve issues anytime and in any format …. we are open-minded in giving
       time and opportunity to the U.S.”
-    _key: card-4-beb68e56-f347-4cfb-93c1-d07d188dde8a
+    _key: card-4-0bb346f1-5309-4ade-b3e4-23ff334e6569
   - order: 4
     body: >-
       Are the tactics working? Hours before Trump officially called off the
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-05-25-noko-no-go/)
-    _key: card-10-8afb2856-9944-4593-adb5-492cfd5d84ef
+    _key: card-10-9e74dbd6-2df2-49e7-9980-2058105c4e70
 
 ---
 * **Read President Trump’s Letter to Chairman Kim Jong Un:** [https://www.whitehouse.gov/briefings-statements/letter-chairman-kim-jong-un/](https://www.whitehouse.gov/briefings-statements/letter-chairman-kim-jong-un/)

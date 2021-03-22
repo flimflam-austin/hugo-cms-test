@@ -1,14 +1,14 @@
 ---
 title: Father's Day
 slug: 20200621-fathers-day
-_id: legacy-24f4a4d9-c740-42b6-81fa-2fd76946ea14
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-a47a6ba3-848f-45ab-96a2-8071749f6151
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - fathers-day/
 _createdAt: '2020-06-21T10:47:54Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2020-06-21T10:47:54+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
         
         
       A president made it official.
-    _key: card-1-4a60cb9d-34ac-4c8d-8fff-9ccdef05ebd7
+    _key: card-1-2016f850-6ae5-4c8f-869f-1f09e460e5b3
   - order: 1
     body: >-
       ## BACKSTORY
@@ -41,7 +41,7 @@ cards:
 
       * First Father’s Day: Spokane, WA, June 19, 1910. The date was inspired by
       William’s birthday on June 5th.
-    _key: card-2-54f505ec-7c3b-45cd-bcbe-1abd75b027b7
+    _key: card-2-0924e9ac-d875-421d-b37d-5ba512464325
   - order: 2
     body: >-
       ## Interesting To Note
@@ -57,7 +57,7 @@ cards:
 
       * Pres. Nixon signed legislation making Father’s Day a national holiday in
       1972.
-    _key: card-3-cd5e7235-fbcf-4c27-94bf-aae5683e9adf
+    _key: card-3-5d2fda4b-f983-4759-aab9-c9ab84dfd3f5
   - order: 3
     body: >-
       # Flowers For Fathers?
@@ -72,7 +72,7 @@ cards:
       * Americans expect to spend $148 on average on Father’s Day – an increase
       of about $10 dollars from last year’s record number despite the pandemic.
       Americans were expected to spend $205 for Mother’s Day.
-    _key: card-4-d516f4d2-fc84-4e09-83a3-f548080a0a67
+    _key: card-4-97ea1093-9277-4b08-97fc-2d93736793e0
   - order: 4
     body: >-
       "To have a father - to be a father - is to come very near the heart of
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/fathers-day/)
-    _key: card-10-0fbd9595-43c7-4742-a7ae-29b4947d6aa4
+    _key: card-10-5092fcb3-b626-41f7-ab18-f2320940ffb4
 
 ---
 * **Father’s Day Proclamation: [CLICK HERE](https://www.presidency.ucsb.edu/documents/proclamation-4127-fathers-day)**

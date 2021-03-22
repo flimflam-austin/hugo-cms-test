@@ -1,14 +1,14 @@
 ---
 title: 18.02.21 Woman Rides 20,000 Miles a Year on Her Bike
 slug: 20180322-18-02-21-woman-rides-20000-miles-year-bike
-_id: legacy-0aebbab9-f569-4c71-a3ae-16853203a373
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-5efc2771-fbc0-45aa-b11f-eed3bb4dc7d8
+_rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
   - 18-02-21-woman-rides-20000-miles-year-bike/
 _createdAt: '2018-03-22T14:51:29Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-22T14:51:29+00:00'
 weight: 50
 card_series: Worth-It-To-See-It
@@ -28,7 +28,7 @@ cards:
 
       Why?
     citation: Why?
-    _key: card-1-2f7e0a8c-3cf6-49ac-af01-465d21f27126
+    _key: card-1-c31a5c2c-bbb9-4042-b986-32bb1695f401
   - order: 1
     body: >-
       # She Loves To Cycle
@@ -45,7 +45,7 @@ cards:
       [Click Here To See Her
       Ride:](https://thescene.com/watch/wired/how-this-woman-rides-20-000-miles-a-year-on-her-bike)
     citation: 'Click Here To See Her Ride:'
-    _key: card-2-d7877d19-83d6-4878-a158-bb11fef8f14c
+    _key: card-2-2d836213-74f9-4497-9452-67387ba9fcbf
   - order: 2
     body: >-
       Wilcox keeps everything she needs on her bike - learn what she never
@@ -54,7 +54,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-02-21-woman-rides-20000-miles-year-bike/)
-    _key: card-10-16ee3d29-c104-49d6-a627-195d02e95056
+    _key: card-10-34c6dedc-4dea-4891-94fc-337475c61d71
 
 ---
 How This Woman Rides 20,000 Miles a Year on Her Bike  

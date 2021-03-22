@@ -1,14 +1,14 @@
 ---
 title: 18.06.19 Return of the Plague?
 slug: 20180619-18-06-19-return-of-the-plague
-_id: legacy-138fb5e0-b136-4803-ac6c-c4df1a2b69d2
-_rev: XOnQP8cIThhnw9BWFxV4GH
+_id: legacy-517c583a-822a-4d49-bc8c-b18edcf23b7c
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-19-return-of-the-plague/
 _createdAt: '2018-06-19T10:44:29Z'
-_updatedAt: '2021-03-16T12:28:13Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-19T10:44:29+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       What To Know
     citation: What To Know
-    _key: card-1-ba5a46ea-7d6d-416f-8fdf-10c4113ec5cf
+    _key: card-1-2065426e-927c-49cc-8a19-e7536db6f487
   - order: 1
     body: >-
       # Infected Idaho Child
@@ -42,7 +42,7 @@ cards:
       recent years IN rodents.
 
       * First case in Idaho since 1992.
-    _key: card-2-8735158b-b2af-4049-bf67-81caaa95be2c
+    _key: card-2-bcd2ec49-6a97-467d-bb63-f14e1496ffc1
   - order: 2
     body: |-
       ## What Is Plague?
@@ -53,7 +53,7 @@ cards:
       * Rare to pass from human-to-human.
       * Killed millions in Europe during Middle Ages.
       * Brought to U.S. through infected rodents on steamships in 1900s.
-    _key: card-3-1af29463-024b-447b-8085-9fa8ac1eaf32
+    _key: card-3-bb888d7f-ed5c-47b4-96f9-a1b0fb3a28a6
   - order: 3
     body: >-
       ## Symptoms, Cure, History
@@ -72,7 +72,7 @@ cards:
 
       [Click: View Map](https://www.cdc.gov/plague/maps/index.html)
     citation: 'Click: View Map'
-    _key: card-4-91245cbf-2040-491c-80a5-5737868bda9b
+    _key: card-4-582d0e1e-15ad-45ac-b9a1-530784445d0d
   - order: 4
     body: >-
       Did you know health officials have often worried about plague used as a
@@ -80,7 +80,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-19-return-of-the-plague/)
-    _key: card-10-6eb560c8-d01f-45fb-898f-6ae20aba9689
+    _key: card-10-ab67bfc3-21ea-408f-a939-b23acd64407b
 
 ---
 * **Plague as a Weapon of War:**  

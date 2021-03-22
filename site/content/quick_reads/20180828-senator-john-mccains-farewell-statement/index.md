@@ -1,14 +1,14 @@
 ---
 title: Senator John Mccain's Farewell Statement
 slug: 20180828-senator-john-mccains-farewell-statement
-_id: legacy-099d52c0-9fa8-4388-abc2-abc938c1ab16
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-da46b5de-bf12-46e1-bcbf-93cab35793f1
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - senator-john-mccains-farewell-statement/
 _createdAt: '2018-08-28T12:02:13Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-28T12:02:13+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       Sen. John McCain
     citation: Sen. John McCain
-    _key: card-1-a28f07c3-78ce-4f5e-9c1d-5e7e818ca9f3
+    _key: card-1-e3c46b59-c9c8-48e1-9e04-9f4561753fa0
   - order: 1
     body: >-
       Two days after his death, the McCain family issued a Farewell Statement
@@ -37,7 +37,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/senator-john-mccains-farewell-statement/)
-    _key: card-10-f60fdecd-9006-4a75-9f56-3329784c0845
+    _key: card-10-1403359c-a597-4ed3-82ab-db7c55b20169
 
 ---
 * **Farewell Statement from Senator John McCain:**  

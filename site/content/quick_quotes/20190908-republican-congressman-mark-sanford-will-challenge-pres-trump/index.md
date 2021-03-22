@@ -1,21 +1,19 @@
 ---
 title: Republican Congressman Mark Sanford Will Challenge Pres. Trump
 slug: 20190908-republican-congressman-mark-sanford-will-challenge-pres-trump
-_id: legacy-e67fb023-2976-48ff-8b54-2c667fc586c2
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-d6a14fa2-d99b-4fa1-b6cb-153b64d83778
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/republican-congressman-mark-sanford-will-challenge-pres-trump/
 _createdAt: '2019-09-08T19:45:48Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-09-08T19:45:48+00:00'
 weight: 50
 is_breaking: false
-summary: Republican Congressman Mark Sanford will challenge Pres. Trump
 featured_quote:
   quote: "\x1CI think we need to have a conversation on what it means to be a Republican."
-  citation: Republican Congressman Mark Sanford will challenge Pres. Trump
 
 ---
 * Congressman Mark Sanford: Republican from South Carolina

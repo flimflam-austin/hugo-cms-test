@@ -1,14 +1,14 @@
 ---
 title: 18.06.12 Nk
 slug: 20180612-18-06-12-nk
-_id: legacy-f3a31e40-842f-4303-b187-f8e926c3aed6
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-f9519770-3639-48e4-9508-7248bf520ab6
+_rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-12-nk/
 _createdAt: '2018-06-12T12:25:56Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-12T12:25:56+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
       again, adversaries can indeed become friends…. Peace is always worth the
       effort…. Anyone can make war, but only the most courageous can make
       peace.”
-    _key: card-1-3d10b9a0-b46d-4c42-94f2-b070d561424c
+    _key: card-1-17d15192-0f24-486c-9f19-c113d59607bd
   - order: 1
     body: >-
       ## What It Says:
@@ -42,7 +42,7 @@ cards:
         
         
       Pres. Trump said NK will begin destroying missile testing site soon.
-    _key: card-2-c1d4cbfa-2e02-44d2-b0c3-a799048f7922
+    _key: card-2-66e78c32-b38d-46ba-8c1c-b91475c96216
   - order: 2
     body: >-
       ## What It Doesn’t Say:
@@ -59,7 +59,7 @@ cards:
       * Pres. Trump did NOT agree to lift sanctions.
 
       * NK’s human rights violations discussed; NO promises made.
-    _key: card-3-5ab0f761-f3f8-4f7d-8f76-8a74e96bc84b
+    _key: card-3-0a532483-4bb6-4a6c-9d81-d41d72a6399a
   - order: 3
     body: >-
       > “Our unprecedented meeting, the first between an American president and
@@ -71,7 +71,7 @@ cards:
         
         
       Pres. Trump's remarks following Singapore Summit
-    _key: card-4-80369f9f-0e1f-4148-ae19-61817d08ddc7
+    _key: card-4-038f0157-b874-4b89-ad18-f22f7915e1c2
   - order: 4
     body: >-
       > **“I think without Otto, this would not have happened…. Otto did not die
@@ -84,7 +84,7 @@ cards:
       poster and sentenced to 15 years of hard labor. When he was released by
       North Korea after nearly a year and a half in captivity, he was in a coma
       and died days later.
-    _key: card-5-f011ea06-5dfe-4193-9115-860bcbe47499
+    _key: card-5-c5a5a95a-242e-48e3-bac2-f64dfcac6eef
   - order: 5
     body: >-
       The joint statement signed by Pres. Trump & Kim Jong Un is short on
@@ -94,7 +94,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-12-nk/)
-    _key: card-10-ce9a6e99-74f2-423f-88b5-f69ccb72b204
+    _key: card-10-5e333c67-ccce-4528-b6f4-67a1d83dd663
 
 ---
 * **Trump, North Korea”s Kim Jong Un sign unspecified document:** [https://www.apnews.com/f4a5201ceceb44f896e2e497537ba116/Trump,-North-Korea’s-Kim-Jong-Un-sign-unspecified-document](https://www.apnews.com/f4a5201ceceb44f896e2e497537ba116/Trump,-North-Korea's-Kim-Jong-Un-sign-unspecified-document)

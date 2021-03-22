@@ -1,14 +1,14 @@
 ---
 title: 18.02.23 Russia Investigation
 slug: 20180304-russia-investigation
-_id: legacy-47e4eed4-8448-499a-a0d2-d7a28937919f
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-4cfd4f7e-8908-4c31-baae-4d7ccf3873b5
+_rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
   - russia-investigation/
 _createdAt: '2018-02-23T12:10:21Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-02-23T12:10:21+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       How Did We Get Here?
     citation: How Did We Get Here?
-    _key: card-1-075ed446-0a6d-4c34-b05a-317b61f3a3aa
+    _key: card-1-69bafa00-4637-47ad-a691-67e7be25a403
   - order: 1
     body: >-
       **MAY 2017:**
@@ -43,7 +43,7 @@ cards:
 
       **FYI:** Attorney General Jeff Sessions recused himself from Russia
       inquiry
-    _key: card-2-9dfed72a-7b2b-495c-86b0-8c35360abeb9
+    _key: card-2-90ab275f-aff8-4be1-b32f-a22bb819858d
   - order: 2
     body: >-
       **OCTOBER 2017:**
@@ -56,7 +56,7 @@ cards:
       **Paul Manafort** (Trump’s former campaign manager) and **Rick Gates**
       (Manafort’s associate) are indicted by a D.C federal grand jury on
       12-counts and plead **not guilty**
-    _key: card-3-5ae7703b-91d7-411f-a686-2b23df539ad1
+    _key: card-3-2ed58e67-592d-47d4-b16a-b39db0cf6ed7
   - order: 3
     body: >-
       **DECEMBER 2017:**
@@ -64,7 +64,7 @@ cards:
 
       **Michael Flynn**, Trump’s former national security adviser, **pleads
       guilty** to lying to the FBI about conversations with Russia’s ambassador
-    _key: card-4-8564d0bd-9d1b-4811-a81e-a86bec0ca918
+    _key: card-4-9b69381d-a798-40c1-9f4c-b9afc35a8712
   - order: 4
     body: >-
       **FEBRUARY 2018:**
@@ -79,7 +79,7 @@ cards:
 
       A A Dutch lawyer living in U.S. **pleads guilty** to lying to FBI about
       interactions with Rick Gates
-    _key: card-5-78620340-205e-4b23-bfb7-ff51f3e403e1
+    _key: card-5-c2b43335-9cef-4b96-88e4-289a6238b78f
   - order: 5
     body: >-
       **FEBRUARY 2018:**
@@ -92,7 +92,7 @@ cards:
 
       **Rick GatesA pleads guilty** to 2 counts (lying to FBI & conspiracy) in
       DC & feds agree to drop VA charges against him
-    _key: card-6-f889b08f-aeb2-4975-be1b-92e788751f27
+    _key: card-6-f8714515-0207-4880-9c40-44368b0f917f
   - order: 6
     body: >-
       > “It’s very clear that Russia meddled in the election. It’s also very
@@ -103,7 +103,7 @@ cards:
         
         
       Press Secretary Sarah Sanders, Feb 20. 2018
-    _key: card-7-99366cb4-8126-4f8b-a5f4-04283f4d5162
+    _key: card-7-820c70e4-801f-4c2a-86a8-eb26d0a816cc
   - order: 7
     body: >-
       ## For Your Consideration
@@ -113,7 +113,7 @@ cards:
       them of filing false tax returns, failing to file foreign bank accounts,
       and bank fraud – although the crimes they’re accused of are unrelated to
       their work for Trump, some took place around US election.
-    _key: card-8-c259be5c-490c-4c1a-bcff-e06196b2bb09
+    _key: card-8-8ef33403-2de9-427e-87c7-cdf6f4e6e1a8
   - order: 8
     body: >-
       # BOTTOM LINE
@@ -128,10 +128,10 @@ cards:
 
       We don’t know when the investigation will end; there isn’t a timeline, but
       the pace of indictments indicates progress.
-    _key: card-9-fc29c413-98d2-4cb8-b59f-2d6b339de7b5
+    _key: card-9-949e6f12-49b6-43ca-be18-25d591f53c40
   - order: 9
     body: '[view sources](https://smarthernews.com/russia-investigation/)'
-    _key: card-10-1b1c80cc-a7c3-47ac-a2a0-e6f518cd6540
+    _key: card-10-c0ab0230-b112-429b-90d4-64371c676044
 
 ---
 * Special Counsel’s Office: [https://www.justice.gov/sco](https://www.justice.gov/sco)

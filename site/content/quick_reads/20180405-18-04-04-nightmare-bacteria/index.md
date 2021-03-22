@@ -1,14 +1,14 @@
 ---
 title: 18.04.04. Nightmare Bacteria
 slug: 20180405-18-04-04-nightmare-bacteria
-_id: legacy-6b82d311-1975-44c7-b1fc-4e75359bcc33
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-55b251e5-260f-47aa-b58e-0d10469808f8
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-04-nightmare-bacteria/
 _createdAt: '2018-04-05T10:00:10Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-05T10:00:10+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Wash Hands. Flip Card.
     citation: Wash Hands. Flip Card.
-    _key: card-1-79b18b47-e936-4948-a4fa-0d1b40946d34
+    _key: card-1-0c673170-6f7b-4048-8183-7dad9aed4077
   - order: 1
     body: >-
       ## What’s the “Nightmare”?
@@ -52,7 +52,7 @@ cards:
 
       * More challenging “version” of antibiotic-resistant bacteria found in
       every state.
-    _key: card-2-3db0b4d4-8266-4b03-be6f-166a99495d1e
+    _key: card-2-79e4c26d-b554-4683-b07f-1584d46c85f7
   - order: 2
     body: >-
       ## Why Does This Matter?
@@ -65,7 +65,7 @@ cards:
       CDC, Containing Unusual Resistance, April 3, 2018 explaining why it could
       quickly becomes a public health emergency *if* the government is unable to
       contain the germs.
-    _key: card-3-ee78f4cd-f614-46c1-98d9-9992de9bc514
+    _key: card-3-a888bb17-320c-4c89-8388-4820b6f44658
   - order: 3
     body: >-
       ## Whats YOUR real risk?
@@ -78,7 +78,7 @@ cards:
       * Higher risk if you receive health care in another country (many with
       “nightmare bacteria” in 2017 had received medical care in another
       country).
-    _key: card-4-02c5a9a2-9b06-44ae-840d-aad81d44db81
+    _key: card-4-fead5bfd-f71a-41be-889b-9aadd354797d
   - order: 4
     body: >-
       This is the first time the CDC tracked "nightmare bacteria." CDC Dir. on
@@ -87,7 +87,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-04-nightmare-bacteria/)
-    _key: card-10-81283ab4-3b44-444f-8695-fb512e8cbabf
+    _key: card-10-1614b16b-fc4a-4a3c-a73f-11307bb97b23
 
 ---
 **Important:** Context for this study isn’t available – It’s the first of its kind: “..this was the beginning of the surveillance and so it”s just the first nine months. I can tell you that I was surprised by the numbers that we found. This was more than I was expecting. But it”s the beginning of looking. We hope though that this won”t be an inevitable march upward, but that by finding them early when there”s only one in the facility we can stop this from becoming very, very common. So we don”t have any trend data.” Read More:A [https://www.cdc.gov/media/releases/2018/t0403-antibiotic-resistant-germs.html](https://www.cdc.gov/media/releases/2018/t0403-antibiotic-resistant-germs.html)

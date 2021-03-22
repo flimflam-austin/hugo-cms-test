@@ -1,14 +1,14 @@
 ---
 title: 18.04.16 Comey
 slug: 20180416-18-04-16-comey
-_id: legacy-c8f3a232-0f0d-46a1-b48d-a287f136af87
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-3f5d5390-0b2d-41bf-a441-4bfc67755943
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-16-comey/
 _createdAt: '2018-04-16T10:42:09Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-16T10:42:09+00:00'
 weight: 50
 featured_image:
@@ -32,7 +32,7 @@ cards:
 
       Flip: Does It Matter?
     citation: 'Flip: Does It Matter?'
-    _key: card-1-6bdbdd47-080b-4cb7-b706-047cdd4dac48
+    _key: card-1-b789e10d-bd67-4e89-a058-fc349cb39f81
   - order: 1
     body: >-
       ## Comey on Pres. Trump:
@@ -45,7 +45,7 @@ cards:
       **Stops short of calling him a criminal:** ‘I have one perspective on the
       behavior I saw, which while disturbing and violating basic norms of
       ethical leadership, may fall short of being illegal.’
-    _key: card-2-f4ef58ac-4f4c-4b20-811d-e41a7b4f3649
+    _key: card-2-7bb0acb8-3b94-4926-b6cf-de2d997bac30
   - order: 2
     body: >-
       ## Pres. Trump on Comey:
@@ -64,7 +64,7 @@ cards:
       [CLICK FOR
       TWEETS](https://twitter.com/realDonaldTrump/status/984763579210633216)
     citation: CLICK FOR TWEETS
-    _key: card-3-f959dba6-d784-42c1-8312-45ad1d50b7d9
+    _key: card-3-9b249cb7-d0a2-4a35-8d7a-bb9f332d8997
   - order: 3
     body: >-
       ## Is Comey’s Book A Game Changer?
@@ -79,7 +79,7 @@ cards:
       If what Comey says in an interview or book is inconsistent with his
       previous public statement, he may discredit himself and potentially impact
       current investigations.
-    _key: card-4-db087651-a6ff-46e2-bd20-ccbb6bc1a446
+    _key: card-4-874f7665-bec8-4a18-9ac3-7eff677492c8
   - order: 4
     body: >-
       Comey's tell-all book has yet to hit stores, but expect to see it (and
@@ -87,7 +87,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-16-comey/)
-    _key: card-10-ef81ceb9-4003-4f11-b9c7-efb6290277ac
+    _key: card-10-27b41307-8ed3-48da-a086-b00393ee7a73
 
 ---
 * Timeline: Trump, Comey and the Russia probe: [https://www.axios.com/timeline-trump-comey-and-the-russia-probe-1513302813-480092d3-2554-4698-818a-e40e8da782ab.html](https://www.axios.com/timeline-trump-comey-and-the-russia-probe-1513302813-480092d3-2554-4698-818a-e40e8da782ab.html)

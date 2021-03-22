@@ -1,14 +1,14 @@
 ---
 title: Whole vs. Low-Fat Milk
 slug: 20180925-18-09-25-milk-study
-_id: legacy-db4890fd-e1ae-4c8c-bdd5-550c894d608d
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-c96e170a-ee75-47a3-8389-6c4c6f31b15c
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-25-milk-study/
 _createdAt: '2018-09-25T12:16:09Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-25T12:16:09+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,7 @@ cards:
 
       WHAT TO KNOW
     citation: WHAT TO KNOW
-    _key: card-1-9b21f864-7d0c-439b-b8a3-aa7387e659a3
+    _key: card-1-15b0ee6e-8376-4501-a102-87197087e717
   - order: 1
     body: >-
       ## Dairy, Disease & Death
@@ -42,7 +42,7 @@ cards:
       result in any change.
 
       * The study is limited and doesn’t explain WHY this is the case.
-    _key: card-2-957a60eb-d356-444f-a980-7a8c2bf4c288
+    _key: card-2-2401c250-f2ea-46e5-9b42-8b566b72b3a3
   - order: 2
     body: >-
       > “Parents have started to look at milk not as a good thing and they are
@@ -55,7 +55,7 @@ cards:
       Dr. Mona Eissa, The University of Texas Health Science Center, on a
       separate study that researched obese children & dairy consumption, which
       found obese children who drank *any* milk had better blood sugar control.
-    _key: card-3-49e8eaec-99b1-4258-94f9-86bd44e77c4b
+    _key: card-3-820c57c8-8bf5-4e92-9b9d-5dead4660a05
   - order: 3
     body: >-
       > “Greater consumption of total dairy products may be of importance in the
@@ -67,7 +67,7 @@ cards:
       Study published in the American Journal of Nutrition 2016 that examined
       dairy consumption & weight gain in women. The authors found women with
       higher intakes of fat from dairy had lower weight gain.
-    _key: card-4-defc7149-aa59-4757-9420-e9fe8d0817e7
+    _key: card-4-cb3a3035-6068-4e58-8c65-5d157f2070aa
   - order: 4
     body: >-
       ## Whole Milk: Bad Rap?
@@ -81,7 +81,7 @@ cards:
 
       * Science has not fully explained why whole dairy products may lower our
       risk for diabetes, or weight gain.
-    _key: card-5-c59ec512-e72b-4f3e-b792-c41a6fd941a6
+    _key: card-5-a471dfdc-fd96-40ee-a3ab-28697c5bd26d
   - order: 5
     body: >-
       Overall, Americans are drinking less milk & obesity rates are rising. Some
@@ -91,7 +91,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-25-milk-study/)
-    _key: card-10-e09073a6-870e-4077-acab-377aa360f076
+    _key: card-10-ebf2ed84-e603-4058-b942-1bbfaeb0da92
 
 ---
 * **Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study:**  

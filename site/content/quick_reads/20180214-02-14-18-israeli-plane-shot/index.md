@@ -1,14 +1,14 @@
 ---
 title: 02.14.18 Israeli Plane Shot Down
 slug: 20180214-02-14-18-israeli-plane-shot
-_id: legacy-ea0c97d2-adbb-4c35-a1bc-144ef5285a38
-_rev: XOnQP8cIThhnw9BWFxV3LN
+_id: legacy-cbd4db75-dc6b-4a42-b4ed-f74125b1017c
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 02-14-18-israeli-plane-shot/
 _createdAt: '2018-02-14T14:00:50Z'
-_updatedAt: '2021-03-16T12:28:05Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-14T14:00:50+00:00'
 weight: 50
 featured_image:
@@ -38,7 +38,7 @@ cards:
 
       Flip For Why It Matters
     citation: Flip For Why It Matters
-    _key: card-1-9202bc02-30b2-4036-aed0-4743aadbee61
+    _key: card-1-061551c9-1afd-4bd5-92c1-041a591073d3
   - order: 1
     body: >-
       # Why It Matters:
@@ -53,7 +53,7 @@ cards:
 
       * If confirmed, this will be first time Israeli plane shot down by enemy
       fire since 1982.
-    _key: card-2-fa3b90cd-e099-442e-965d-4f777cd6ad9c
+    _key: card-2-f6da81e6-be67-4e1c-a06c-af7c338399be
   - order: 2
     body: >-
       IMPORTANT:  
@@ -67,7 +67,7 @@ cards:
       * Russia & Iran align with Pro-Assad forces in Syria.
 
       * U.S. responded with major bombing campaign.
-    _key: card-3-4b8420aa-e08d-4ae7-a933-47ad27371199
+    _key: card-3-080a425e-799c-4550-a47d-4fbb27849f12
   - order: 3
     body: >-
       > ‘The risks are high. There is a new Cold War prevailing in Syria and any
@@ -78,7 +78,7 @@ cards:
         
       Samir Nadir, Levant Institue For Strategic Affairs to Washington Post
       (2/12/18)
-    _key: card-4-42911211-0558-41db-95ad-e00c8e6982b8
+    _key: card-4-9999c426-85d8-4f3e-95b1-c4bb5d1773ab
   - order: 4
     body: >-
       Bottom Line: Watch Syria. Conflict Continues. Tensions High. Sec of State
@@ -86,7 +86,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/02-14-18-israeli-plane-shot/)
-    _key: card-10-513170d0-ded7-4543-9479-2cc0fcb33cf1
+    _key: card-10-5ea2b26f-6ce7-4ccc-9b30-d43009cadbb7
 
 ---
 * Syria”s war mutates into a regional conflict, risking a wider conflagration – [https://www.washingtonpost.com/world/syrias-war-mutates-into-a-regional-conflict-risking-a-wider-conflagration/2018/02/12/87c783fc-0da2-11e8-998c-96deb18cca19_story.html?utm_term=.15164a65c4a0](https://www.washingtonpost.com/world/syrias-war-mutates-into-a-regional-conflict-risking-a-wider-conflagration/2018/02/12/87c783fc-0da2-11e8-998c-96deb18cca19_story.html?utm_term=.15164a65c4a0)

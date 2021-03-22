@@ -1,14 +1,14 @@
 ---
 title: Quick Quotes
 slug: 20190905-quick-quotes-august-30
-_id: legacy-9369cba5-1994-4cb2-955a-48203555af07
-_rev: XOnQP8cIThhnw9BWFxV4pV
+_id: legacy-e7f4aa15-2ceb-4dad-ab36-4ed6ce12b235
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-august-30/
 _createdAt: '2018-08-30T11:12:18Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-30T11:12:18+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
       said Franklin's music inspired her to leave an abusive relationship.
       Franklin's funeral is Friday at 10am ET in Detroit. Stevie Wonder, Ariana
       Grande & Faith Hill will perform.
-    _key: card-1-41b02501-f1ea-45cc-b4e2-4766ccc26bbe
+    _key: card-1-9571cc8f-fb40-4584-a269-1200e508c8a5
   - order: 1
     body: >-
       > “…out of an abundance of caution and concern for the safety of our
@@ -43,7 +43,7 @@ cards:
       copper can leach from corroded pipes and contaminate water supply over
       time causing various ailments from stomach aches to brain damage. Bottled
       water will be provided.
-    _key: card-2-c6065fb7-3ecd-4f82-aa4e-d15ad90ae068
+    _key: card-2-610be104-3fe3-46a6-8039-519a09b28b37
   - order: 2
     body: >-
       > “I think Canada very much wants to make the deal.A It probably won’t be
@@ -59,7 +59,7 @@ cards:
 
       [SMARTHER REFRESHER](https://smarthernews.com/a-new-nafta/)
     citation: SMARTHER REFRESHER
-    _key: card-3-fb18e62b-0751-485c-8481-d120ef51c601
+    _key: card-3-19b717f0-bd1e-4db2-9455-d801a6550a60
   - order: 3
     body: >-
       > “The sickest folks that were exposed to this substance came in
@@ -72,7 +72,7 @@ cards:
       Corrections officers believe the drugs are being smuggled into the
       prisons. In Ohio, it is suspected the drug may be fentanyl dispersed via a
       fan.
-    _key: card-4-866b8a8c-b349-4220-96b5-cb51ad533cad
+    _key: card-4-dbf0bbee-58cc-4191-8b01-a69068b123fd
   - order: 4
     body: >-
       > ‘Of course, I was surprised when I just changed (the) T-shirt really
@@ -84,13 +84,13 @@ cards:
       French tennis player Alize Cornet who received a warning for changing her
       shirt on the tennis court of the U.S. Open; it was on backwards. The US
       Open said it regrets the code violation and has since clarified its rules.
-    _key: card-5-715c8366-8fb8-4e8b-857c-d7668c156be8
+    _key: card-5-5f73b98b-508e-4162-a3d2-096e66d32271
   - order: 5
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/quick-quotes-august-30/)
-    _key: card-10-e4d10c8e-261c-42e3-9096-aca1fd43e392
+    _key: card-10-f6cfe51b-3e61-40f9-b55d-1b0f81cd5369
 
 ---
 * **Aretha Franklin”s Fans Say Goodbye, With Tears and Dance Moves:**  

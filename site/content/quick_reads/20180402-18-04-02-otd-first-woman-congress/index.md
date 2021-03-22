@@ -1,14 +1,14 @@
 ---
 title: 18.04.02 Otd First Woman in Congress
 slug: 20180402-18-04-02-otd-first-woman-congress
-_id: legacy-1a7420e9-5c4a-46a4-9b62-b1c543c47895
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-4238ebf4-2ee3-4605-9869-c487744594e8
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-04-02-otd-first-woman-congress/
 _createdAt: '2018-04-02T10:27:52Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-02T10:27:52+00:00'
 weight: 50
 featured_image:
@@ -20,7 +20,7 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     body: First Woman Sworn Into Congress
-    _key: card-1-58d9ec33-9ad7-4c0e-9b0a-ebf79448bd11
+    _key: card-1-b2e018d7-c23c-4cef-a305-9a83db0b283d
   - order: 1
     body: >-
       > **‘I may be the first woman member of Congress, but I won’t be the
@@ -30,7 +30,7 @@ cards:
         
       Jeannette Rankin (R-MT), first woman elected in U.S. Congress' 128-year
       history
-    _key: card-2-aedb7630-3687-4d80-ab10-157d0f034a13
+    _key: card-2-47192489-bd54-409c-8fb4-f7e393e75e1d
   - order: 2
     body: >-
       ## About Jeanette Rankin:
@@ -43,7 +43,7 @@ cards:
 
       * Since 1978, her scholarship foundation has awarded more than $2.5
       million in scholarships to 1,000 women.
-    _key: card-3-4ec16b2f-777a-437e-a512-310fe9910b4e
+    _key: card-3-6276fe22-8dc2-4242-b5dc-b13a952a9a9c
   - order: 3
     body: >-
       # Rankin Was Right!
@@ -57,12 +57,12 @@ cards:
 
       Since Rankin’s election, 327 women have served as U.S. Representatives,
       Delegates, or Senators.
-    _key: card-4-eaafaa5f-9908-419c-9adf-887d33bb878d
+    _key: card-4-fc8511cf-087a-43cb-8228-2d2ce5961f74
   - order: 4
     body: >-
       [view
       sources](https://smarthernews.com/18-04-02-otd-first-woman-congress/)
-    _key: card-10-74da4e63-96f6-40c3-829d-d698760e836f
+    _key: card-10-a46c53c2-42ec-44d8-85bb-535534c150ca
 
 ---
 * Jeannette Rankin: [http://history.house.gov/People/Listing/R/RANKIN,-Jeannette-(R000055)/](http://history.house.gov/People/Listing/R/RANKIN,-Jeannette-(R000055)/)

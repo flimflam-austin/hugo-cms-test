@@ -1,14 +1,14 @@
 ---
 title: Smarther News Quick Quotes for Friday, September 28th
 slug: 20190905-18-09-28-qq
-_id: legacy-7d938229-38ba-448f-9ae8-4435d3118fcd
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-75873df6-804b-48c9-a7f6-8f5de4af6d7a
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-28-qq/
 _createdAt: '2018-09-28T11:41:09Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-09-28T11:41:09+00:00'
 weight: 50
 featured_image:
@@ -20,7 +20,7 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     body: "> ‘I often think to myself, a\x18What would Eleanor have done?'”  \n  \n  \n  \nMeera Gandhi, the current owner of a brownstone in New York City where former First Lady Eleanor Roosevelt lived. The 6-bedroom, 8,000 square foot home is now on sale for nearly $20M; the purchase price includes includes some of Roosevelt's memorabilia."
-    _key: card-1-66319f63-991a-4177-9135-c243334a0ee4
+    _key: card-1-4d38825c-c144-46ac-938c-6620462510ae
   - order: 1
     body: >-
       > ‘If you look at it in terms of the incredible dysfunction of Congress on
@@ -32,7 +32,7 @@ cards:
       Stanford Prof. Keith Humphreys who advises lawmakers on health care
       related issues addressing a 653-page bill agreed upon by both parties to
       combat the opioid crisis. The bill faces a vote next week.
-    _key: card-2-36740123-8ce3-4477-a27c-80a982201058
+    _key: card-2-1445f3e7-a39e-4c67-95f6-2056474d9f36
   - order: 2
     body: >-
       > ‘The path to peace and a brighter future is only through diplomacy and
@@ -44,7 +44,7 @@ cards:
       Sec. of State Mike Pompeo addressing the UN Security Council on Thursday.
       Sec. Pompeo will travel to North Korea in October to prepare for a
       potential second summit between North Korean and American leadership.
-    _key: card-3-6daa79de-b1fd-4dfa-b99b-6c388178bd9d
+    _key: card-3-9bf90d1e-46c8-4767-8492-302b3828f1d6
   - order: 3
     body: >-
       > “This is serious. This is what you go after insider traders and market
@@ -56,7 +56,7 @@ cards:
       Tesla CEO Elon Musk. Musk sent a tweet Aug. 7 that referred to taking
       Tesla, a public company, private. The SEC says Musk made "false and
       misleading statements"; Musk denies the charges.
-    _key: card-4-62465f5c-e7f2-43c1-9c5e-c174be9e7707
+    _key: card-4-57b0665c-78aa-4b84-998c-1637ce440137
   - order: 4
     body: >-
       > “Deciding to proceed without conducting additional investigation would
@@ -69,7 +69,7 @@ cards:
       Non-partisan American Bar Association, in a letter to the Senate,
       requesting an investigation into allegations vs. Judge Brett Kavanaugh,
       who the ABA previously rated as well qualified.
-    _key: card-5-f6b42b43-3f27-444f-8b0c-14f0e14f1b91
+    _key: card-5-734a300b-2d4b-4f4a-8d0c-b6557f6b14f2
   - order: 5
     body: >-
       The most recent data available showed a slight decline in underage
@@ -78,7 +78,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-28-qq/)
-    _key: card-10-e7a7eb7a-001c-4b1c-b242-0ecd64cebea7
+    _key: card-10-abc8fe6e-0b72-44e7-ae45-1127a32ad986
 
 ---
 * **Inside the Final Home of Eleanor Roosevelt:**  

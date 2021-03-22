@@ -1,14 +1,14 @@
 ---
 title: 18.04.13 Holocaust Remembrance Week
 slug: 20180413-18-04-13-holocaust-remembrance-week
-_id: legacy-6e3737ea-d1b7-40d9-8e8f-3fdadf9778eb
-_rev: XOnQP8cIThhnw9BWFxV3rt
+_id: legacy-fe41de01-bddf-4bcc-8959-6a3d2c1e932e
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-13-holocaust-remembrance-week/
 _createdAt: '2018-04-13T10:30:16Z'
-_updatedAt: '2021-03-16T12:28:09Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-13T10:30:16+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
         
         
       Irena Sendlerowa
-    _key: card-1-1a7cda97-f936-407e-b999-26ad9b1c55af
+    _key: card-1-c1ee33d5-dbd9-4d7c-9861-522bba95890f
   - order: 1
     body: >-
       ## Sendlerowa the Savior
@@ -42,7 +42,7 @@ cards:
 
       She wrote their names on papers, which she buried in glass bottles.A The
       bottles were dug up after WWII & used to reunite families.
-    _key: card-2-63397e4d-3ffb-4777-aac3-700ff37ce331
+    _key: card-2-9eca0bf7-aecc-48b2-98cb-2b46218b363b
   - order: 2
     body: >-
       **1943:** Sendlerowa was arrested, sentenced to death, but escaped.
@@ -57,7 +57,7 @@ cards:
 
       **2008:** Shortly before her death, Sendlerowa was nominated for (but did
       not win) the Nobel Peace Prize.
-    _key: card-3-17299032-22ad-436c-a47b-db607092e51a
+    _key: card-3-446c345e-3b8d-4f2c-a512-917fbf31a508
   - order: 3
     body: >-
       # NEVER FORGET
@@ -75,7 +75,7 @@ cards:
         
       Julius Berman, President of the Conference on Jewish Material Claims
       Against Germany
-    _key: card-4-b67b7bca-8ab2-4544-b034-b0038b3a05f7
+    _key: card-4-2fa8e577-bf3d-4d1a-9ea6-3ead5f63491a
   - order: 4
     body: >-
       "There remain troubling gaps in Holocaust awareness while survivors are
@@ -86,7 +86,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-04-13-holocaust-remembrance-week/)
-    _key: card-10-28b10e57-f4e8-4199-a114-480cf07bd554
+    _key: card-10-52e9a305-cdfd-4019-bce2-4994d172afde
 
 ---
 * I’m no hero, says woman who saved 2,500 ghetto children: ARTICLE FROM 2007A A [https://www.theguardian.com/world/2007/mar/15/secondworldwar.poland](https://www.theguardian.com/world/2007/mar/15/secondworldwar.poland)

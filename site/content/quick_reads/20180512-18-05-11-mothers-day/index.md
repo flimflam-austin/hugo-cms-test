@@ -1,14 +1,14 @@
 ---
 title: 18.05.11 Mothers Day
 slug: 20180512-18-05-11-mothers-day
-_id: legacy-38bd4dc3-8e7d-4a0f-b710-76de994546f0
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-795d1776-0b8f-435e-bc26-2b8024e33654
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-11-mothers-day/
 _createdAt: '2018-05-12T11:45:40Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-12T11:45:40+00:00'
 weight: 50
 featured_image:
@@ -24,7 +24,7 @@ cards:
 
       LOVE, SMARTHER NEWS
     citation: LOVE, SMARTHER NEWS
-    _key: card-1-c2b8be2c-a21e-4687-a3b3-32afa4f1e974
+    _key: card-1-e5a612e9-918a-4a5c-9a68-09eff74844ed
   - order: 1
     body: |-
       # 85 MILLION
@@ -39,13 +39,13 @@ cards:
 
       Love, SmartHER News
     citation: Love, SmartHER News
-    _key: card-2-de7a200c-0f73-4138-8dcb-5b547b7a8501
+    _key: card-2-2570a70c-409b-4bdc-a9dc-571496b20af2
   - order: 2
     body: |-
       Click for some fun Mothers Day quotes!
 
       [view sources](https://smarthernews.com/18-05-11-mothers-day/)
-    _key: card-10-6db1fd44-1e54-410e-a26f-1a3950b2be20
+    _key: card-10-abecad33-163a-4a4e-bb64-da2a6f01cee9
 
 ---
 * **SmartHER Context: The most recent government data places the number of American mothers around 76M *but* that counts *only* mothers between the ages of 15-50. The most recent data that counts ALL mothers in America dates back to 2014 – that estimate put the number at 85M. We decided to use that number.A**

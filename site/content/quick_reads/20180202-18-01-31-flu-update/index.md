@@ -1,14 +1,14 @@
 ---
 title: 18.01.31 Flu Update
 slug: 20180202-18-01-31-flu-update
-_id: legacy-6deb0ed8-bc34-48d7-ad99-50ed974676ff
-_rev: XOnQP8cIThhnw9BWFxSjgf
+_id: legacy-ba63a218-9c69-4f2c-b6bf-d9248bce2082
+_rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
   - 18-01-31-flu-update/
 _createdAt: '2018-02-01T09:10:58Z'
-_updatedAt: '2021-03-16T11:57:58Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-01T09:10:58+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
       [Click HERE for
       Story](http://www.wndu.com/content/news/Michigan-school-closed-for-two-days-after-widespread-flu-472260673.html)
     citation: Click HERE for Story
-    _key: card-1-ed061c1d-38e3-4bff-a77f-c8dfcd97ea71
+    _key: card-1-f9c24502-c437-4718-b545-0f5f42a1942e
   - order: 1
     body: >-
       > “It has been a tough flu season so far this year. And while flu activity
@@ -43,7 +43,7 @@ cards:
         
         
       Dr. Dan Jergian, CDC Conference Call, January 26, 2018
-    _key: card-2-f4e64902-5455-407f-8f07-19ddc93e919c
+    _key: card-2-72c5484b-77b2-4d4a-8a9b-3182858bb70e
   - order: 2
     body: >-
       # Why “Flu Season”?
@@ -62,10 +62,10 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-3-78f984df-3a14-4e89-a1a4-b9d258b5132e
+    _key: card-3-8567b3d5-2a61-4b0a-a7f2-c86abe38ca6c
   - order: 3
     body: '[view sources](https://smarthernews.com/18-01-31-flu-update/)'
-    _key: card-10-d525c68a-0362-4163-8775-8a0fb4e823a3
+    _key: card-10-81a09286-337a-4f74-9af9-2d8e5d8abb72
 
 ---
 1. **Transcript for CDC Update on Flu Activity**  

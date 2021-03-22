@@ -4,29 +4,27 @@ title: >-
   Saliva Test for Covid-19 He Helped Develop.
 slug: >-
   20200819-professor-nathan-grubaugh-yale-school-of-public-health-on-new-fda-approved-saliva-test-for-covid-19-he-helped-develop
-_id: legacy-7b6b536d-1766-420d-8aac-1610d3a83d93
-_rev: 7QmxBnVgzphH4dpufNYQc0
+_id: legacy-a83b1ef6-7bb3-44e6-ae9a-d27488e09661
+_rev: ZEyhBiGfgCfwE8WOjbuSbY
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/professor-nathan-grubaugh-yale-school-of-public-health-on-new-fda-approved-saliva-test-for-covid-19-he-helped-develop/
 _createdAt: '2020-08-19T11:06:30Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-08-19T11:06:30+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    81ace01cbb1530029ae3528209217b08978cd60d-1024x576.jpg
 is_breaking: false
-summary: >-
-  Professor Nathan Grubaugh, Yale School of Public Health, on new FDA-approved
-  saliva test for COVID-19 he helped develop.
 featured_quote:
   quote: >-
     If cheap alternatives like SalivaDirect can be implemented across the
     country, we may finally get a handle on this pandemic, even before a
     vaccine.
-  citation: >-
-    Professor Nathan Grubaugh, Yale School of Public Health, on new FDA-approved
-    saliva test for COVID-19 he helped develop.
 
 ---
 * Test name: [SalivaDirect](https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization)
@@ -36,4 +34,4 @@ featured_quote:
 * The difference between this test and others? You don’t need to special equipment, for example, a special tube to collect the saliva. It also doesn’t need one reagent or one specific machine to process the test but can use many, making it potentially accessible and cheap to process for both private citizens and labs. Grubuagh says he thinks it will cost labs approx. $10 to process.
 * **Why It Matters:** Quick COVID-19 tests may be one of the keys to identifying cases, even asymptomatic ones, and slowing transmission rates nationwide. This saliva test and [others some of which are available at grocery store pharmacy for you to use at home](https://www.ktvb.com/article/news/health/coronavirus/albertsons-now-offers-at-home-coronavirus-test-kit-using-saliva/277-bb6c7c5f-1035-4011-ad46-293e3926fc63), allow another option to the uncomfortable nasal swab testing that may take days to get results. If these tests continue to show reliability and quick turnaround, this may make regular testing more possible so Americans feel a greater degree of comfort returning to work, school and play (knowing they themselves don’t have the virus, or friends/family/colleagues don’t).  
 .  
-Read more from Yale: [https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization](https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization)ation](https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization)
+Read more from Yale: [https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization](https://news.yale.edu/2020/08/15/yales-rapid-covid-19-saliva-test-receives-fda-emergency-use-authorization)

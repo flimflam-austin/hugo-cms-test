@@ -1,14 +1,14 @@
 ---
 title: 18.08.24 Qq
 slug: 20190905-18-08-24-qq
-_id: legacy-de999780-3a93-4448-b84b-b9fd436cd23f
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-28f9b101-fc7c-4c3c-829e-9eaa04eaf13e
+_rev: O8E8pz1fLwnc3fN7JVF2pC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-24-qq/
 _createdAt: '2018-08-24T11:53:03Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-08-24T11:53:03+00:00'
 weight: 50
 featured_image:
@@ -33,7 +33,7 @@ cards:
       [SMARTHER
       REFRESHER](https://smarthernews.com/18-08-23-hawaiian-hurricane/)
     citation: SMARTHER REFRESHER
-    _key: card-1-644e9131-6a25-4891-b183-19d0ad8498c9
+    _key: card-1-24b6830c-1d84-479a-91eb-4d57aa9dc685
   - order: 1
     body: >-
       > “It’s a ridiculous amount of money. No matter how much money you have,
@@ -44,7 +44,7 @@ cards:
       Phil Mickelson on the $9M pot for a one-on-one golf game against Tiger
       Woods planned for Thanksgiving weekend in Las Vegas. According to Forbes,
       the two are the highest-paid golfers Woods ($43.3M) & Mickelson ($41.3M).
-    _key: card-2-6c1db082-7cfe-4683-988d-da3757b441f6
+    _key: card-2-8bbe1824-b43f-4b0c-bc90-5aca1694da23
   - order: 2
     body: >-
       > “It’s a bold move that will better protect our planet for future
@@ -56,7 +56,7 @@ cards:
       grocery-chain's plans to phase out single-use plastic bags by 2025. Kroger
       orders 6B plastic bags per year, costing an estimated $120M - $300M.
       Approximately 100B plastic, grocery bags are used each year in America.
-    _key: card-3-b97eb96f-c8d1-488c-a21d-a59ca311e29e
+    _key: card-3-a898c9e5-9e8e-4aca-acf1-f7886f04094c
   - order: 3
     body: >-
       > “Any time they don’t leave a trust or will, there always ends up being a
@@ -69,13 +69,13 @@ cards:
       equally, but that could be contested in court. Wilson compared it to Ike
       Turner whose estate he says is still being litigated 11 years after his
       death.
-    _key: card-4-120b87f5-97e9-4c46-b76e-448209174dee
+    _key: card-4-4390a415-465a-4980-b415-064f75b76cf3
   - order: 4
     body: |-
       Have a great weekend!
 
       [view sources](https://smarthernews.com/18-08-24-qq/)
-    _key: card-10-3a6d3a8a-10c0-4b0a-a095-1e88b29a574b
+    _key: card-10-32858b59-dc63-4eec-ab66-fd42149b18c5
 
 ---
 * **Trump issues presidential disaster declaration as Lane marches toward Hawaii:**  

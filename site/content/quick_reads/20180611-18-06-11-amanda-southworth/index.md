@@ -1,14 +1,14 @@
 ---
 title: 18.06.11 Amanda Southworth
 slug: 20180611-18-06-11-amanda-southworth
-_id: legacy-1125fb0b-335b-4c2d-886c-37ab37822a9e
-_rev: CRhmwZOx7vxYXrRSdQpmrH
+_id: legacy-345248c2-57b7-4e8a-a5e2-9bf994c1945a
+_rev: O8E8pz1fLwnc3fN7JVF1DC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-11-amanda-southworth/
 _createdAt: '2018-06-11T10:46:57Z'
-_updatedAt: '2021-03-16T12:28:12Z'
+_updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-11T10:46:57+00:00'
 weight: 50
 card_series: Health
@@ -25,7 +25,7 @@ cards:
 
       Meet Amanda.
     citation: Meet Amanda.
-    _key: card-1-9c9e77a0-f05b-44cd-8932-f34ae3b2536c
+    _key: card-1-59a0fa94-f645-40cd-9b96-7ea7a066a256
   - order: 1
     body: >-
       > ‘I can honestly say that technology has saved my life. When I found
@@ -41,7 +41,7 @@ cards:
       [Click to See:
       App](https://itunes.apple.com/us/app/anxietyhelper/id1028767781)
     citation: 'Click to See: App'
-    _key: card-2-97c81b36-fbe3-4884-997c-fe2c924e9130
+    _key: card-2-d374851f-c63d-4269-ad99-bf59948afeee
   - order: 2
     body: >-
       ## About Amanda:
@@ -58,7 +58,7 @@ cards:
       Apple.
 
       * In 2018, she launched Astra Labs, a nonprofit software company.
-    _key: card-3-cc823c47-7582-45cf-a6fc-85a18fce9db5
+    _key: card-3-58d3eacb-2586-4693-91bd-96d3cc776f24
   - order: 3
     body: >-
       > “Everything in my life has shown me that both good and bad things in
@@ -74,7 +74,7 @@ cards:
       [Watch
       Now](https://www.youtube.com/embed/pLOagmZTWmM?enablejsapi=1&autoplay=1&rel=0)
     citation: Watch Now
-    _key: card-4-61d2dc4c-6528-454d-af95-36ccfb2aff43
+    _key: card-4-1b6acfd8-17f4-44ae-aaf7-0002b8401ccb
   - order: 4
     body: >-
       Amanda's second app Verena is described as "a personal security system for
@@ -83,7 +83,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-06-11-amanda-southworth/)
-    _key: card-10-1f487951-28b8-493a-bfb8-e164f1d484fc
+    _key: card-10-1b84bde2-fbb0-40cb-b436-2a37005258ba
 
 ---
 * **This teen, who attempted suicide seven times, builds apps that saved her life and others:**  

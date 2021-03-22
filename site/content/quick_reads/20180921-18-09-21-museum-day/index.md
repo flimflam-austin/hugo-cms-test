@@ -1,14 +1,14 @@
 ---
 title: Free Museum Day This Saturday, September 22
 slug: 20180921-18-09-21-museum-day
-_id: legacy-b59faeb3-f4df-4b88-92e9-f701803faea6
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-b182c023-62d1-4a1a-a499-91a5550003a4
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-21-museum-day/
 _createdAt: '2018-09-21T11:41:53Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-21T11:41:53+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       SEE IT FOR FREE
     citation: SEE IT FOR FREE
-    _key: card-1-88f81747-f1f3-469d-a5e8-e3893db06aa1
+    _key: card-1-494a89d1-5c04-4ab8-ba0b-9003805c24da
   - order: 1
     body: >-
       # MUSEUM DAY
@@ -45,7 +45,7 @@ cards:
 
       * Visitors must download one ticket per email address that’s worth free
       **admission for two people**.
-    _key: card-2-3e00b991-8c7d-4e8c-a976-a83b1a835fca
+    _key: card-2-2db88854-fcc6-4872-a395-1f5d88d28b57
   - order: 2
     body: >-
       ## How Much Should It Cost?
@@ -59,7 +59,7 @@ cards:
       * **Ticket prices are crucial: Admissions represent 7%** of museum’s
       financial support, behind **endowments (22%) & museum store purchases
       (8%).**
-    _key: card-3-dd05912c-9a6a-4c4c-bdd1-e3f56030d707
+    _key: card-3-e00bd4b6-a58c-4892-881f-816359144637
   - order: 3
     body: >-
       This year's Museum Day theme is ‘Women Making History recognizing female
@@ -68,7 +68,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-09-21-museum-day/)
-    _key: card-10-05d21a1f-9dcf-4fd8-96bd-fb6f29a983c0
+    _key: card-10-c06d74d8-4587-456b-a19a-e135db87a2f8
 
 ---
 * **Smithsonian: Welcome to Museum Day:**  

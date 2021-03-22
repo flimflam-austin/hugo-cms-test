@@ -1,14 +1,14 @@
 ---
 title: 18.02.20 Measles in Europe
 slug: 20180220-18-02-20-measles-europe
-_id: legacy-46a5a622-ac5e-4df5-b7b5-2e65a4bb4ca9
-_rev: XOnQP8cIThhnw9BWFxV3Qn
+_id: legacy-3f147ac1-3e90-48e9-b68a-5c1264a0a6d4
+_rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
   - 18-02-20-measles-europe/
 _createdAt: '2018-02-21T02:10:01Z'
-_updatedAt: '2021-03-16T12:28:06Z'
+_updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-21T02:10:01+00:00'
 weight: 50
 featured_image:
@@ -34,7 +34,7 @@ cards:
 
       Flip Here
     citation: Flip Here
-    _key: card-1-cf0dd952-fe4a-4d76-bb57-a1f0d2c96bbe
+    _key: card-1-3a19e19d-604e-42c7-b121-0f938401c9d7
   - order: 1
     body: >-
       # Why This Matters
@@ -52,7 +52,7 @@ cards:
 
       FLIP HERE FOR MORE
     citation: FLIP HERE FOR MORE
-    _key: card-2-41f00753-a488-441c-96ec-5476d1cfaf3a
+    _key: card-2-64d387ce-61c5-4eff-a33d-04ef072574d5
   - order: 2
     body: >-
       ## Why Is This Happening?
@@ -64,7 +64,7 @@ cards:
         
         
       European Centre for Disease Prevention and Control, Jan 12, 2018
-    _key: card-3-013987af-073e-4712-91bf-30a56e4c3781
+    _key: card-3-33980f4c-2a39-4ebe-bfc6-348f542d94a4
   - order: 3
     body: >-
       ## 4 Reasons For Measles EU Outbreak
@@ -82,7 +82,7 @@ cards:
 
       World Health Organization
     citation: World Health Organization
-    _key: card-4-6bdf1ea6-631a-4d4e-ae55-59cf34bf21e8
+    _key: card-4-b185d231-d138-47e0-bfc2-7e35d5661e88
   - order: 4
     body: |-
       ## The Data: Measles in Europe
@@ -94,7 +94,7 @@ cards:
       1 in 4 European countries with large outbreaks (100+ cases)
 
       Top Three Countries Impacted: Romania, Italy & Ukraine
-    _key: card-5-1160f297-4ab6-48c4-9430-2aaf9c16eb62
+    _key: card-5-268ec4c0-15b4-48dd-a431-4d47bdabd42b
   - order: 5
     body: >-
       # U.S. Measles Cases
@@ -111,7 +111,7 @@ cards:
       * In 2000, U.S. declared measles “**eliminated**” (no major transmissions
       of disease for at least a year) due to a highly effective vaccination
       program.
-    _key: card-6-fe3c8da2-66ce-4c35-b2f3-48f177ca5c34
+    _key: card-6-5364ca0d-400f-4052-b308-13c0309c438d
   - order: 6
     body: >-
       Ease of travel, under vaccinated communities - all potential factors in
@@ -119,7 +119,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-02-20-measles-europe/)
-    _key: card-10-6ca7025e-cb82-4aab-9146-93c4fc3219cd
+    _key: card-10-7979cfda-6b41-4d73-91a6-b1dbeac7776d
 
 ---
 * Europe observes a 4-fold increase in measles cases in 2017 compared to previous year:A [http://www.euro.who.int/en/media-centre/sections/press-releases/2018/europe-observes-a-4-fold-increase-in-measles-cases-in-2017-compared-to-previous-year](http://www.euro.who.int/en/media-centre/sections/press-releases/2018/europe-observes-a-4-fold-increase-in-measles-cases-in-2017-compared-to-previous-year)

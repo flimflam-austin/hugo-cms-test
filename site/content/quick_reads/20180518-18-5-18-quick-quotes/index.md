@@ -1,14 +1,14 @@
 ---
 title: 18.5.18 Quick Quotes
 slug: 20180518-18-5-18-quick-quotes
-_id: legacy-7bab3020-c96d-4b71-a3db-0f46203ba018
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-40bfde5d-1dae-42db-8971-adaaa5119500
+_rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
   - 18-5-18-quick-quotes/
 _createdAt: '2018-05-18T09:48:46Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-18T09:48:46+00:00'
 weight: 50
 featured_image:
@@ -20,7 +20,7 @@ colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
     body: "## QUICK QUOTES\n\n> “It is not my way to trumpet the fact that I am a woman up for the top job, but I would be remiss in not remarking on it a\x13 not least because of the outpouring of support from young women at CIA who consider it a good sign for their own prospects.”  \n  \n  \n  \nGina Haspel last week before her confirmation THIS week as the first woman CIA Director in American history."
-    _key: card-1-3ed23a14-eb23-4df5-a62c-8bc8324e1df9
+    _key: card-1-5b62c6f4-7807-42a1-8dbd-03933a073f72
   - order: 1
     body: >-
       > **‘When we as people, a free people, go wobbly on the truth even on what
@@ -36,7 +36,7 @@ cards:
       [Click: Full
       Speech](http://www.wbur.org/onpoint/2018/05/17/tillerson-vmi-commencement-speech)
     citation: 'Click: Full Speech'
-    _key: card-2-6d3629be-2ed5-4eee-b8a7-9180a3e74c8c
+    _key: card-2-2099df39-6735-455e-a4f8-df095eb6728c
   - order: 2
     body: >-
       > **“YouTube in general is where most music is consumed. If there was ever
@@ -49,10 +49,10 @@ cards:
       out a new music-streaming service, YouTube Music on Tuesday. Like Spotify,
       an ad-supported version of YouTube Music will be free, while an ad-free
       version will cost $9.99 a month
-    _key: card-3-ae961a98-f4cc-4d05-b8ea-493823f99443
+    _key: card-3-c6f8dc5a-5eb4-40bd-9159-82af28901c63
   - order: 3
     body: '[view sources](https://smarthernews.com/18-5-18-quick-quotes/)'
-    _key: card-10-351666e8-fdc9-4504-856b-4b9fcad9f1a0
+    _key: card-10-80410e74-ca1f-4d71-ad69-203a2e42ac7b
 
 ---
 * **How Haspel beat the resistance:**A [https://www.politico.com/story/2018/05/17/gina-haspel-cia-confirmed-democrats-596784](https://www.politico.com/story/2018/05/17/gina-haspel-cia-confirmed-democrats-596784)

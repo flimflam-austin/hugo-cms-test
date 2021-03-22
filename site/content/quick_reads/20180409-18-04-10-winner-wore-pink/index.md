@@ -1,14 +1,14 @@
 ---
 title: 18.04.10 and the Winner Wore Pink
 slug: 20180409-18-04-10-winner-wore-pink
-_id: legacy-fd0db8b0-bdc0-456d-887e-0bcd2d91b12d
-_rev: XOnQP8cIThhnw9BWFxV3h3
+_id: legacy-02379819-a7dd-4368-ad4b-4f8c5514388f
+_rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
   - 18-04-10-winner-wore-pink/
 _createdAt: '2018-04-09T10:35:08Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-09T10:35:08+00:00'
 weight: 50
 featured_image:
@@ -36,7 +36,7 @@ cards:
 
       Why Pink?
     citation: Why Pink?
-    _key: card-1-7773b6e0-8541-4398-a03c-850117f8b7b3
+    _key: card-1-9e722cfe-28c3-44fd-896a-4d0b5d679e40
   - order: 1
     body: >-
       # “Hyper Magenta”
@@ -51,7 +51,7 @@ cards:
       * That meant bitter rivals sported the same color shirt (or “hyper
       magenta” -A _Golf Week_) on the same day while battling for the
       championship.
-    _key: card-2-24302f9d-96f5-4bde-82ab-dd09c0741110
+    _key: card-2-bf76269b-9436-401f-b25d-b887ced56a9f
   - order: 2
     body: >-
       # “Captain America”
@@ -67,7 +67,7 @@ cards:
 
       * Idolizes Tiger Woods & dresses like him in a red shirt and black pants
       (why many took note of Reed’s deviated hot pink shirt).
-    _key: card-3-4cd4a99c-5c2f-456e-828c-1395e3cc61ed
+    _key: card-3-73e3dc61-2ac7-45eb-86d1-d936869d4279
   - order: 3
     body: >-
       ## Why A Green Jacket?
@@ -86,7 +86,7 @@ cards:
       [Click: Tailor's
       Story](https://www.cincinnati.com/story/sports/golf/2016/04/05/mystery-exclusivity-masters-green-jacket/82665982/)
     citation: 'Click: Tailor''s Story'
-    _key: card-4-573795a6-49e9-497f-bd87-515d9ab21a0b
+    _key: card-4-a99268de-59f3-416b-8630-48dab443c9f7
   - order: 4
     body: >-
       Last year, Tiger Woods could barely walk. This year, he competed at The
@@ -95,7 +95,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-04-10-winner-wore-pink/)
-    _key: card-10-2b1738b4-151b-4339-afae-48e186f5f6ab
+    _key: card-10-0fc6b67f-419f-4da6-a70e-937f4afd893f
 
 ---
 * **Patrick Reed wins Masters for first major title:**A [http://www.espn.com/golf/story/_/id/23081962/patrick-reed-wins-masters-first-major-title](http://www.espn.com/golf/story/_/id/23081962/patrick-reed-wins-masters-first-major-title)

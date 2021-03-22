@@ -1,21 +1,19 @@
 ---
 title: Sec. of Def Mark Esper on Conflict in Syria.
 slug: 20191013-sec-of-def-mark-esper-on-conflict-in-syria
-_id: legacy-88dfb4cd-efeb-4b86-b219-098f6e79699e
-_rev: XOnQP8cIThhnw9BWFxVLuz
+_id: legacy-e738fff6-6ed1-44ca-934e-2fe0dd4b72a5
+_rev: f2cVhvAV1wntWw1uaAB5yS
 type: quick_quotes
 draft: false
 aliases:
   - article/sec-of-def-mark-esper-on-conflict-in-syria/
 _createdAt: '2019-10-13T23:32:03Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:18Z'
 date: '2019-10-13T23:32:03+00:00'
 weight: 50
 is_breaking: false
-summary: Sec. of Def Mark Esper on conflict in Syria.
 featured_quote:
   quote: It gets worse by the hour.
-  citation: Sec. of Def Mark Esper on conflict in Syria.
 
 ---
 * U.S. says Turkey is pushing deeper than expected into Syrian territory.

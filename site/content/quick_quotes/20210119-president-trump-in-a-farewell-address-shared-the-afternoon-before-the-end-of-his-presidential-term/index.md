@@ -4,29 +4,27 @@ title: >-
   His Presidential Term.
 slug: >-
   20210119-president-trump-in-a-farewell-address-shared-the-afternoon-before-the-end-of-his-presidential-term
-_id: legacy-4162e904-ba09-4b5d-92cd-341fff79710e
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-839741b8-82e2-48ed-9235-dd2f6eb25d89
+_rev: f2cVhvAV1wntWw1uaABAwR
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/president-trump-in-a-farewell-address-shared-the-afternoon-before-the-end-of-his-presidential-term/
 _createdAt: '2021-01-20T00:50:12Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:53Z'
 date: '2021-01-20T00:50:12+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    c0bcda6074c15bec9c8f6a0f191ab57c81c9f080-799x533.jpg
 is_breaking: false
-summary: >-
-  President Trump in a farewell address shared the afternoon before the end of
-  his presidential term.
 featured_quote:
   quote: >-
     ...I want you to know that the movement we started is only just beginning.
     There’s never been anything like it. The belief that a nation must serve its
     citizens will not dwindle but instead only grow stronger by the day.
-  citation: >-
-    President Trump in a farewell address shared the afternoon before the end of
-    his presidential term.
 
 ---
 * The President spoke for nearly 20 minutes in a recorded address. Here’s the [TEXT](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-farewell-address-nation/).
@@ -36,14 +34,8 @@ featured_quote:
 
 Here’s an excerpt of his speech:
 
-{{< youtube Wai9-4XyoaA >}}
+{{< youtube id=\Wai9-4XyoaA\ title=\Pres. Trump Farewell Address - 3 Minute Take\ >}}
 
 Here’s his full speech:
 
-{{< youtube 6h5_d3DUdR4 >}}�s an excerpt of his speech:
-
-{{< youtube Wai9-4XyoaA >}}
-
-Here’s his full speech:
-
-{{< youtube 6h5_d3DUdR4 >}}
+{{< youtube id=\6h5_d3DUdR4\ title=\Farewell Address of President Donald J. Trump\ >}}

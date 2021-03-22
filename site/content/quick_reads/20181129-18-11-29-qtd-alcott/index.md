@@ -1,14 +1,14 @@
 ---
 title: 'Quote of the Day: Louis May Alcott'
 slug: 20181129-18-11-29-qtd-alcott
-_id: legacy-6f30da5a-b1c8-418a-ba6d-d76a748ff509
-_rev: CRhmwZOx7vxYXrRSdQpn97
+_id: legacy-0081abb6-5fdc-4000-8e0c-8c7b6bbd4ef5
+_rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
   - 18-11-29-qtd-alcott/
 _createdAt: '2018-11-29T12:28:05Z'
-_updatedAt: '2021-03-16T12:28:18Z'
+_updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-11-29T12:28:05+00:00'
 weight: 50
 featured_image:
@@ -24,7 +24,7 @@ cards:
 
       LOUISA MAY ALCOTT
     citation: LOUISA MAY ALCOTT
-    _key: card-1-63791f1e-fbb8-4475-8fcb-37b586c176fa
+    _key: card-1-a1d9d6b9-58ad-4ebe-8e8b-938a26fe45b7
   - order: 1
     body: >-
       # OTD in 1832 the author of "Little Women" was born. The novel about four
@@ -35,7 +35,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-11-29-qtd-alcott/)
-    _key: card-10-68c63cc9-4487-4076-9c9a-c309b8012a96
+    _key: card-10-889771f9-9e41-439c-bf4b-894f07661307
 
 ---
 * **Louisa May Alcott obituary:**  

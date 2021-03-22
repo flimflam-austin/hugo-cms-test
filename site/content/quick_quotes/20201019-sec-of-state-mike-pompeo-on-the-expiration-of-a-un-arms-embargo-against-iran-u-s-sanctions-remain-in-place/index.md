@@ -4,30 +4,28 @@ title: >-
   - u.s. Sanctions Remain in Place.
 slug: >-
   20201019-sec-of-state-mike-pompeo-on-the-expiration-of-a-un-arms-embargo-against-iran-u-s-sanctions-remain-in-place
-_id: legacy-0ea1a2be-3b3b-4de6-886b-3c33e7f707db
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-5587f437-e3f1-4910-a8eb-43c2f2333cce
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - >-
     article/sec-of-state-mike-pompeo-on-the-expiration-of-a-un-arms-embargo-against-iran-u-s-sanctions-remain-in-place/
 _createdAt: '2020-10-19T05:22:09Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2020-10-19T05:22:09+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    5758a4d5600ef821112552b05a4ac00001fe6cc7-2560x1714.jpg
 is_breaking: false
-summary: >-
-  Sec. of State Mike Pompeo on the expiration of a UN arms embargo against Iran
-  – U.S. sanctions remain in place.
 featured_quote:
   quote: >-
     For the past 10 years, countries have refrained from selling weapons to Iran
     under various UN measures. Any country that now challenges this prohibition
     will be very clearly choosing to fuel conflict and tension over promoting
     peace and security.
-  citation: >-
-    Sec. of State Mike Pompeo on the expiration of a UN arms embargo against
-    Iran – U.S. sanctions remain in place.
 
 ---
 * The arms embargo expiration is part of the “Iran Nuclear Deal” put in place by the Obama administration in 2015.
@@ -38,4 +36,4 @@ featured_quote:
 
 Here’s the official statement by the [U.S. State Dept.](https://www.state.gov/status-of-un-arms-embargo-on-iran/)
 
-Here’s a good overview from the [Associated Press](https://apnews.com/article/tehran-middle-east-iran-united-nations-united-states-6b6600decc0436b0aa52578fc7bfa374)](https://apnews.com/article/tehran-middle-east-iran-united-nations-united-states-6b6600decc0436b0aa52578fc7bfa374)
+Here’s a good overview from the [Associated Press](https://apnews.com/article/tehran-middle-east-iran-united-nations-united-states-6b6600decc0436b0aa52578fc7bfa374)

@@ -1,14 +1,14 @@
 ---
 title: America on the Attack in Africa
 slug: 20180831-18-08-31-america-fighting-al-qaeda-in-africa
-_id: legacy-287c9b8e-8bc6-4cf7-94c9-0971e2c4b258
-_rev: XOnQP8cIThhnw9BWFxV4Tp
+_id: legacy-dd5aa5e3-3bbc-417d-b2cb-f7462cf511d6
+_rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
   - 18-08-31-america-fighting-al-qaeda-in-africa/
 _createdAt: '2018-08-31T11:50:07Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-31T11:50:07+00:00'
 weight: 50
 featured_image:
@@ -27,7 +27,7 @@ cards:
 
       While We Sleep...
     citation: While We Sleep...
-    _key: card-1-d8d40721-b98a-4f56-8399-89fde9d9a453
+    _key: card-1-67905a01-7f78-4577-a1aa-b2fc728b1593
   - order: 1
     body: >-
       ## What You Should Know:
@@ -41,7 +41,7 @@ cards:
 
       * Despite their efforts, military says**A al-Shabaab threatens safety of
       Americans;**A U.S. soldier killed in June.
-    _key: card-2-e10b6c8a-beb2-40af-a9fe-8c594b434456
+    _key: card-2-efeb9296-e3f3-4472-92bb-dd197da62dd6
   - order: 2
     body: >-
       ## Why al-Shabaab Matters:
@@ -56,7 +56,7 @@ cards:
         
       Daveed Gartenstein-Ross, Senior Analyst, Foundation for Defense of
       Democracies
-    _key: card-3-c9e47bd0-44c8-48e0-b2ff-3a7a2ac4a2e1
+    _key: card-3-2385ed66-8251-4716-b7f2-b9b4d7011ba1
   - order: 3
     body: >-
       ## Something To Consider:
@@ -70,7 +70,7 @@ cards:
 
       Why This Matters?
     citation: Why This Matters?
-    _key: card-4-90ed13b6-5a88-488b-b555-7ae8d713fc11
+    _key: card-4-749f5198-66eb-4b9e-a58c-00ac5272590c
   - order: 4
     body: >-
       ## Al-Qaeda (AQ) Adjusts
@@ -86,7 +86,7 @@ cards:
 
       * Afghanistan “home” to arguably more terrorist groups now than in 2001:
       AQ, Taliban and ISIS.
-    _key: card-5-822e691b-608b-4ced-a53a-d4a299cd16ba
+    _key: card-5-5159bf02-32b2-4eea-9393-82f06b6f015c
   - order: 5
     body: >-
       The U.S military reportedly dropped thousands more bombs inside
@@ -97,7 +97,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-08-31-america-fighting-al-qaeda-in-africa/)
-    _key: card-10-9d27e06d-5278-4087-b642-3bf0ef6fc9d6
+    _key: card-10-e9000020-97fb-46b3-a4cd-c380414fe456
 
 ---
 * **U.S. Airstrikes:**  

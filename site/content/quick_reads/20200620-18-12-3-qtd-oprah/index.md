@@ -1,14 +1,14 @@
 ---
 title: 'Quote of the Day: Oprah'
 slug: 20200620-18-12-3-qtd-oprah
-_id: legacy-c3fb226e-57a9-4187-9b7c-7e79aa7b434a
-_rev: XOnQP8cIThhnw9BWFxV4uv
+_id: legacy-774b32f8-907c-4748-a9fc-93879ce4754d
+_rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
   - 18-12-3-qtd-oprah/
 _createdAt: '2018-12-03T12:56:37Z'
-_updatedAt: '2021-03-16T12:28:21Z'
+_updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-12-03T12:56:37+00:00'
 weight: 50
 featured_image:
@@ -26,7 +26,7 @@ cards:
 
       Oprah Winfrey
     citation: Oprah Winfrey
-    _key: card-1-8d59314c-e55a-400a-9b76-243f7a25b1d4
+    _key: card-1-cfdd7b1f-e779-4adc-b390-d8e286c140fa
   - order: 1
     body: >-
       Oprah delivered a speech in South Africa honoring the 100th anniversary of
@@ -36,7 +36,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-12-3-qtd-oprah/)
-    _key: card-10-e0071268-db16-4cfb-82d7-b283bc4bd3ea
+    _key: card-10-4c65966b-a4bc-4af7-87d6-8564af801ee3
 
 ---
 * **Oprah Offers Rousing Tribute to Mandela in S. Africa Visit:**  

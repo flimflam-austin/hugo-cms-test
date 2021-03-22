@@ -1,14 +1,14 @@
 ---
 title: 18.08.16 Who Keeps Our Nation's Secrets?
 slug: 20180816-18-08-16-who-keeps-our-secrets
-_id: legacy-f6eda3bf-c0f4-4c5f-bf1a-3182493956ee
-_rev: XOnQP8cIThhnw9BWFxV4OP
+_id: legacy-d965ce6c-2dc6-4fbf-8195-28d0407d91e1
+_rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
   - 18-08-16-who-keeps-our-secrets/
 _createdAt: '2018-08-16T11:42:35Z'
-_updatedAt: '2021-03-16T12:28:16Z'
+_updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-16T11:42:35+00:00'
 weight: 50
 featured_image:
@@ -37,7 +37,7 @@ cards:
 
       BIGGER PICTURE
     citation: BIGGER PICTURE
-    _key: card-1-c2ed75de-af16-4577-bb67-5f28ab2e231c
+    _key: card-1-2551ddd8-85b8-4718-9eb0-5b134fb85448
   - order: 1
     body: >-
       ## Who Keeps Clearance?
@@ -52,7 +52,7 @@ cards:
       * **How long**: Clearance continues (with periodic reviews) as long as
       person avoids sharing classified info, getting into debt, & traveling to
       certain parts of the world, etc.
-    _key: card-2-0073c67b-17e1-4c0f-97e0-e9c7bde26c7a
+    _key: card-2-782eabda-1207-41a4-b2f6-ff268d13ed4b
   - order: 2
     body: >-
       ## Bigger Picture:
@@ -66,10 +66,10 @@ cards:
 
       * Evaluations take too long. More than 700,000 people waiting for security
       clearance, according to most recent estimates.
-    _key: card-3-0b423e62-bf58-45be-878f-37516deee885
+    _key: card-3-8dfd31d3-5636-4f26-a97f-e4521339117e
   - order: 3
     body: "## Why Revoke Brennan?\n\n> “Mr. Brennan has recently leveraged his status as a former high-ranking official with access to highly sensitive information to make a series of unfounded and outrageous allegations a\x14 wild outbursts on the Internet and television a\x14 about this administration.  \n  \n  \n  \nPresident Trump"
-    _key: card-4-40a1c939-3144-4b5e-a2d2-7133b8af49df
+    _key: card-4-7bec2b90-b800-4097-aef2-38e74f73239d
   - order: 4
     body: >-
       ## John Brennan’s Response:
@@ -85,7 +85,7 @@ cards:
       [Click: His
       Criticism](https://twitter.com/JohnBrennan/status/1018885971104985093)
     citation: 'Click: His Criticism'
-    _key: card-5-c1b298a1-9e83-4a45-b7e9-5a6be754228e
+    _key: card-5-c2d18b53-31c7-48dd-89a7-3d87e1008da5
   - order: 5
     body: >-
       The topic of revoking security clearances came up several weeks ago when
@@ -95,7 +95,7 @@ cards:
 
 
       [view sources](https://smarthernews.com/18-08-16-who-keeps-our-secrets/)
-    _key: card-10-043ad339-7729-48b6-ac0c-61bc154afbca
+    _key: card-10-dfe93197-c144-455f-9f98-adbe2d5001e6
 
 ---
 * **SOMETHING TO CONSIDER:** Deputy Dir of the CIA, Mike Morrell, says the argument officials use classified information to criticize the administration doesn’t work because…”Senators and Congressman have security clearances. Senators and Congressman know classified information. And they talk to the media all the time too.” Listen to more here:  

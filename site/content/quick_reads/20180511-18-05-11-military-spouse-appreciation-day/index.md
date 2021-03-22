@@ -1,14 +1,14 @@
 ---
 title: 18.05.11 Military Spouse Appreciation Day
 slug: 20180511-18-05-11-military-spouse-appreciation-day
-_id: legacy-b16323b1-df8d-46de-a726-faaad5fa7fc9
-_rev: XOnQP8cIThhnw9BWFxV45R
+_id: legacy-992e987c-b7ea-4138-a31a-5c98c9b4029d
+_rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
   - 18-05-11-military-spouse-appreciation-day/
 _createdAt: '2018-05-11T10:16:24Z'
-_updatedAt: '2021-03-16T12:28:10Z'
+_updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-11T10:16:24+00:00'
 weight: 50
 featured_image:
@@ -31,7 +31,7 @@ cards:
         
         
       Pres. Trump at the May 9 Celebration of Military Mothers & Spouses Event
-    _key: card-1-78378192-2609-46b2-bcf2-02088a9c8f74
+    _key: card-1-2592b68a-c53d-4b8a-9457-0ac4cd4284fa
   - order: 1
     body: >-
       America’s **690,000 military spousesA (at least 90% of whom are women)**A
@@ -47,7 +47,7 @@ cards:
       * frequent moves (every 2-3 years on average)
 
       * occupational licensing regimes that vary by state
-    _key: card-2-3d6b25f5-b0f6-4244-ae2c-ba8f39b8a913
+    _key: card-2-c198a349-3198-481c-8b9d-127ed2f8445b
   - order: 2
     body: >-
       As result of the employment difficulties they encounter, military spouses
@@ -57,7 +57,7 @@ cards:
 
       The **unemployment rate** among military spouses is estimated to be **AT
       LEAST 4X HIGHER**A than the national average, which was 3.9% in April.
-    _key: card-3-58ae2cdb-624c-4fc9-a7f4-a3ef4e06f3b8
+    _key: card-3-92ae51cc-70b3-416e-8844-b4ee763c9c77
   - order: 3
     body: >-
       On May 9, Pres. Trump signed an executive order addressing the labor
@@ -68,7 +68,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-05-11-military-spouse-appreciation-day/)
-    _key: card-10-8986e304-f4e3-465e-bb96-259425c84a99
+    _key: card-10-d58769f8-6a3b-476c-bd62-230b06a140e6
 
 ---
 * **Remarks by President Trump at the Celebration of Military Mothers and Spouses Event:** [https://www.whitehouse.gov/briefings-statements/remarks-president-trump-celebration-military-mothers-spouses-event/](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-celebration-military-mothers-spouses-event/)

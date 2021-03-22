@@ -3,27 +3,25 @@ title: >-
   President-Elect Joe Biden as 400 Candles Were Lit on the Lincoln Memorial
   Reflecting Pool to Honor the 400,000+ Americans Who Have Died From Covid-19.
 slug: 20210119-pres-elect-biden-candles
-_id: legacy-5c853dc4-70a9-4ed2-8ead-025bd36e7ef2
-_rev: 7QmxBnVgzphH4dpufNYQpx
+_id: legacy-baad4c4c-2287-4a52-a735-bd178e651b5a
+_rev: f2cVhvAV1wntWw1uaABB5d
 type: quick_quotes
 draft: false
 aliases:
   - article/pres-elect-biden-candles/
 _createdAt: '2021-01-20T02:58:14Z'
-_updatedAt: '2021-03-16T12:32:44Z'
+_updatedAt: '2021-03-22T13:12:54Z'
 date: '2021-01-20T02:58:14+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    2733734d7f655e887cdfb7814f4d1738a0e44930-1024x683.jpg
 is_breaking: false
-summary: >-
-  President-elect Joe Biden as 400 candles were lit on the Lincoln Memorial
-  Reflecting Pool to honor the 400,000+ Americans who have died from Covid-19.
 featured_quote:
   quote: >-
     It's hard sometimes to remember, but that's how we heal. It's important to
     do that as a nation.
-  citation: >-
-    President-elect Joe Biden as 400 candles were lit on the Lincoln Memorial
-    Reflecting Pool to honor the 400,000+ Americans who have died from Covid-19.
 
 ---
 * The Tuesday night memorial was the first major event for President-elect Biden and VP-elect Harris ahead of Wednesday’s inauguration.
@@ -32,4 +30,4 @@ featured_quote:
 
 Here’s a good overview of the [latest news on COVID-19.](https://www.axios.com/coronavirus-deaths-2029a1c8-1e2f-42f0-bf49-b6c0c5dd1ff8.html)
 
-More background on the [memorial](https://www.cnn.com/2021/01/19/politics/biden-covid-victims-memorial/index.html) and [full video of the ceremony](https://www.c-span.org/video/?508115-1/president-elect-biden-vice-president-elect-harris-attend-covid-19-memorial-ceremony).w.c-span.org/video/?508115-1/president-elect-biden-vice-president-elect-harris-attend-covid-19-memorial-ceremony).
+More background on the [memorial](https://www.cnn.com/2021/01/19/politics/biden-covid-victims-memorial/index.html) and [full video of the ceremony](https://www.c-span.org/video/?508115-1/president-elect-biden-vice-president-elect-harris-attend-covid-19-memorial-ceremony).

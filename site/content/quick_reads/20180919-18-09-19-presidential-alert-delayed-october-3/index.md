@@ -1,14 +1,14 @@
 ---
 title: 18.09.19 Presidential Alert **Delayed October 3***
 slug: 20180919-18-09-19-presidential-alert-delayed-october-3
-_id: legacy-18fd7823-db22-43c2-b1b5-304006744783
-_rev: CRhmwZOx7vxYXrRSdQpn6Z
+_id: legacy-ef478d09-f170-4d0c-a08e-bae87b1a2d75
+_rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-19-presidential-alert-delayed-october-3/
 _createdAt: '2018-09-19T12:17:35Z'
-_updatedAt: '2021-03-16T12:28:17Z'
+_updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-19T12:17:35+00:00'
 weight: 50
 featured_image:
@@ -29,7 +29,7 @@ cards:
 
       (no, you cant text back)
     citation: (no, you cant text back)
-    _key: card-1-ee17ed40-d763-4899-abfa-34ba31c8c158
+    _key: card-1-a4214308-0239-47ec-a1b2-6c7bc5510aeb
   - order: 1
     body: >-
       ## What’s Going On?
@@ -42,7 +42,7 @@ cards:
       The “text test” was scheduled for THIS Thursday Sept. 20 at 2:18 p.m. EST,
       but **will instead go out on October 3rd** because FEMA says it’s focusing
       on Hurricane Florence recovery.
-    _key: card-2-9336fcc4-2dcb-4a8f-a807-17d4a10ca8a7
+    _key: card-2-8449ef1e-40d4-4cb9-9381-f586dc2d0ed2
   - order: 2
     body: >-
       ## Why Now?
@@ -56,7 +56,7 @@ cards:
 
       * You can opt out of receiving Amber Alerts but NOT for this national
       alert.
-    _key: card-3-8c49c420-c60e-42f4-89dd-397fb3825d01
+    _key: card-3-6adb8488-9ed2-4212-bfce-dd4b7f21dfe6
   - order: 3
     body: >-
       Some argue this is a great tool for communicating with the public during
@@ -67,7 +67,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-09-19-presidential-alert-delayed-october-3/)
-    _key: card-10-c76ab1c7-c9b1-4b32-b99c-3004d38f1664
+    _key: card-10-52271a5b-788b-4649-bd89-ed38b3b2c3f6
 
 ---
 * **The IPAWS National Test:**  

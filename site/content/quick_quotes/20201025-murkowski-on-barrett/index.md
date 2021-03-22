@@ -4,29 +4,25 @@ title: >-
   Judge Amy Coney Barrett. Sen. Murkowski's Vote All but Ensures Barrett's
   Confirmation.
 slug: 20201025-murkowski-on-barrett
-_id: legacy-8ccbb8de-6930-44a6-8cc7-9c50672c4017
-_rev: 7QmxBnVgzphH4dpufNYQZD
+_id: legacy-c02b01a1-f1ca-4e47-97c3-f2ff0cade763
+_rev: ZEyhBiGfgCfwE8WOjbuSlO
 type: quick_quotes
 draft: false
 aliases:
   - article/murkowski-on-barrett/
 _createdAt: '2020-10-26T01:29:11Z'
-_updatedAt: '2021-03-16T12:32:42Z'
+_updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-10-26T01:29:11+00:00'
 weight: 50
+featured_image:
+  alt: Featured article image
+  url: >-
+    1b7aa2e6e9c27f1d9ae3c70205776891f016044d-1024x755.jpg
 is_breaking: false
-summary: >-
-  Senator Lisa Murkowski (R-Alaska) on her support of Supreme Court nominee
-  Judge Amy Coney Barrett. Sen. Murkowski’s vote all but ensures Barrett’s
-  confirmation.
 featured_quote:
   quote: >-
     While I oppose the process that has led us to this point, I do not hold it
     against her,
-  citation: >-
-    Senator Lisa Murkowski (R-Alaska) on her support of Supreme Court nominee
-    Judge Amy Coney Barrett. Sen. Murkowski’s vote all but ensures Barrett’s
-    confirmation.
 
 ---
 * A simple majority is needed to confirm a Supreme Court nominee in the Senate.
@@ -36,4 +32,4 @@ featured_quote:
 
 **Why It Matters:** Confirmation to the Supreme Court is undoubtedly a history-making moment. However, the timing of this nomination make it even more interesting. Currently, 8 justices sit on the Supreme Court. There’s some question about whether or not the Supreme Court may have to get involved in the election process if there’s a legal challenge regarding the results. A 9th justice would serve as the tie-breaker.
 
-**READ MORE [HERE](https://www.realclearpolitics.com/articles/2020/10/25/murkowskis_nod_gives_barrett_extra_boost_for_supreme_court_144525.html)**ealclearpolitics.com/articles/2020/10/25/murkowskis_nod_gives_barrett_extra_boost_for_supreme_court_144525.html)**
+**READ MORE [HERE](https://www.realclearpolitics.com/articles/2020/10/25/murkowskis_nod_gives_barrett_extra_boost_for_supreme_court_144525.html)**

@@ -1,14 +1,14 @@
 ---
 title: Smarthernews Quick Quotes for Thursday, September 4
 slug: 20190905-18-10-04-qq
-_id: legacy-2fb3f612-e32a-45ad-9b37-a8bcde3bd0a1
-_rev: XOnQP8cIThhnw9BWFxV4k5
+_id: legacy-02cb5311-1e73-4204-a2cb-5baa04428251
+_rev: ZEyhBiGfgCfwE8WOjbuCUv
 type: quick_reads
 draft: false
 aliases:
   - 18-10-04-qq/
 _createdAt: '2018-10-04T11:53:12Z'
-_updatedAt: '2021-03-16T12:28:20Z'
+_updatedAt: '2021-03-22T13:11:16Z'
 date: '2018-10-04T11:53:12+00:00'
 weight: 50
 featured_image:
@@ -30,7 +30,7 @@ cards:
       Sen. Chuck Grassley (R-IA) confirming the FBI report delivered to the
       Senate; the confidential report will be kept in a locked room for all 100
       senators to read.
-    _key: card-1-aa43ff81-5670-44b8-8045-b3bd6bc656ad
+    _key: card-1-dc56b4a6-bfa9-42fc-b9ca-2c65d5e3833d
   - order: 1
     body: >-
       > “We are profoundly disappointed that after the tremendous sacrifice she
@@ -43,7 +43,7 @@ cards:
       interviewed by the FBI after her public testimony under oath. We do not
       yet know if the public will see the additional FBI investigation into
       allegations against Supreme Court nominee Judge Kavanaugh.
-    _key: card-2-0ee2cbdd-f528-42d7-bbaa-e0444dc0be58
+    _key: card-2-370085bb-6355-46f4-af10-29b8f2efc602
   - order: 2
     body: >-
       > ‘We see this as a consistent effort, before, during and after any
@@ -57,7 +57,7 @@ cards:
       remains on NoKo's nuclear program, several groups warn of their hacking
       prowess, especially in the international banking system where NoKo's
       reportedly stole hundreds of millions of dollars.
-    _key: card-3-1cc4b4b5-6efc-48e0-b999-43d5db7b4ba3
+    _key: card-3-b6b49b8e-fc1b-4314-8961-27d49546920e
   - order: 3
     body: >-
       > “We’re at a stage now where more information is available about you
@@ -69,7 +69,7 @@ cards:
       went on to say tech companies that say they need your data to perform
       better customer service is a "bunch of bunk"; Cook also said some amount
       of government regulation on data collection is important.
-    _key: card-4-9648b9dc-e646-4806-9dd8-d8e5068d854a
+    _key: card-4-ed30f7c0-5d22-4126-ba11-7959ee3d3f49
   - order: 4
     body: >-
       > ‘We want to finish telling this story.’  
@@ -80,13 +80,13 @@ cards:
       Roseanne costars Laurie Metcalf and Sara Gilbert felt compelled to do a
       spinoff after Roseanne Barr was fired from the show in May for a racist
       tweet. The Connors airs on ABC on October 16th.
-    _key: card-5-9f5614fc-a753-4abc-870a-298b16fc06b8
+    _key: card-5-37580161-afda-4af4-a7e2-1128d37279ba
   - order: 5
     body: |-
       Have a great day!
 
       [view sources](https://smarthernews.com/18-10-04-qq/)
-    _key: card-10-7d228516-6507-4989-b8f8-38db6ab51752
+    _key: card-10-7ce47268-28a9-4b7b-bbd6-8689f04a3528
 
 ---
 * **Who sees it? Senators, staff to have access to FBI report:**  

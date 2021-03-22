@@ -1,14 +1,14 @@
 ---
 title: 18.03.29 Russian Policy of Retaliation
 slug: 20180330-18-03-29-russian-policy-retaliation
-_id: legacy-e842bba0-40bc-40cb-833b-03b10c335b86
-_rev: CRhmwZOx7vxYXrRSdQpmku
+_id: legacy-3222b8e2-e392-4ca1-a15b-ee4fc632ede6
+_rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
   - 18-03-29-russian-policy-retaliation/
 _createdAt: '2018-03-30T10:14:27Z'
-_updatedAt: '2021-03-16T12:28:08Z'
+_updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-30T10:14:27+00:00'
 weight: 50
 featured_image:
@@ -35,7 +35,7 @@ cards:
 
       Flip For More
     citation: Flip For More
-    _key: card-1-795889a1-aa72-4177-a7a1-7c7e1cef8f35
+    _key: card-1-3d275d6d-7bdd-444b-a887-e9882a8c3166
   - order: 1
     body: >-
       ## Kremlin Twitter-plomacy
@@ -52,7 +52,7 @@ cards:
 
       [See the Poll](https://twitter.com/RusEmbUSA/status/978273613349556224)
     citation: See the Poll
-    _key: card-2-cfdc41f8-6fbf-4862-866a-92be5fc9729f
+    _key: card-2-84075e26-5a80-4cea-b465-6af280fe6c16
   - order: 2
     body: >-
       Important Context: 2017
@@ -66,7 +66,7 @@ cards:
 
       In return, America ordered Russia to close its SF consulate, & 2 annexes –
       1 in WashingtonA & 1 in NY.
-    _key: card-3-bcd86ba1-a9d1-4b5a-ba6c-76ea39a7da58
+    _key: card-3-c2195394-b451-4e9c-8452-2aa8ac84605c
   - order: 3
     body: >-
       An American journalist banished from Russia weighs in on what the U.S.
@@ -75,7 +75,7 @@ cards:
 
       [view
       sources](https://smarthernews.com/18-03-29-russian-policy-retaliation/)
-    _key: card-10-e03e4b9e-4103-4d9d-9d04-18486d46c74a
+    _key: card-10-b8d7cca2-40d9-43eb-9b79-63d5393559cf
 
 ---
 * How to Answer Russia”s Escalation – In response to a chemical attack in the U.K., impose sanctions directly against President Vladimir Putin: [https://www.wsj.com/articles/how-to-answer-russias-escalation-1521397157](https://www.wsj.com/articles/how-to-answer-russias-escalation-1521397157)
