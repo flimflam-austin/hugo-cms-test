@@ -7,7 +7,7 @@
         {{ $imageScratch := newScratch}}
         {{ $imageScratch.Set "image" " " }}
         {{ if ne $cardImage nil }}
-            {{ $resized := ($cardImage.Fill "600x600").RelPermalink }}
+            {{ $resized := ($cardImage.Fill "600x600 jpg").RelPermalink }}
             {{ $imageScratch.Set "image" $resized }}
         {{ end }}
 

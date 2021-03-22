@@ -32,7 +32,7 @@
 
         {{ $imagePath := .Resources.GetMatch (print .Params.featured_image.url) }}
         {{ $imageFull := $imagePath.Resize "1500x" }}
-        {{ $imagePlaceholder := $imagePath.Resize "80x" }}
+        {{ $imagePlaceholder := ($imagePath.Resize "80x jpg q90").Filter (images.GaussianBlur 6) }}
 
         <img class="carousel__image" src="{{- $imagePlaceholder.RelPermalink -}}" data-flickity-lazyload="{{- $imageFull.RelPermalink -}}" />
     </section>

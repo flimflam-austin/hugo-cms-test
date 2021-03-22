@@ -5,8 +5,11 @@
 <a class="homevidprev" target="_blank" href="{{- .Params.storeLink -}}">
     <article class="homevidprev__wrapper">
         <div class="aspectimg">
-            {{ $productPhoto := .Resources.GetMatch (print .Params.featured_image.url )}}
-            <img class="aspectimg__image" src="{{- $productPhoto.RelPermalink -}}" alt="{{- .Params.featured_image.alt -}}">
+            {{ $image := .Resources.GetMatch (print .Params.featured_image.url )}}
+            {{ if ne $image nil }}
+                {{ $resized := ($image.Fill "800x800 jpg q90").RelPermalink }}
+                <img class="aspectimg__image" src="{{- $resized -}}" alt="{{- .Params.featured_image.alt -}}">
+            {{ end }}
         </div>
         <div class="homevidprev__info">
             <h3 class="homevidprev__category">{{- .Params.product_series -}}</h3>

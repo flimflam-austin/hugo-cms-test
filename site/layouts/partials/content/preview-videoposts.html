@@ -3,7 +3,7 @@
         <div class="aspectimg">
             {{ $image := .Resources.GetMatch (print .Params.featured_image.url )}}
             {{ if ne $image nil }}
-                {{ $resized := ($image.Fill "800x800").RelPermalink }}
+                {{ $resized := ($image.Fill "800x800 jpg q90").RelPermalink }}
                 <img class="aspectimg__image" src="{{- $resized -}}" alt="{{- .Params.featured_image.alt -}}">
             {{ end }}
         </div>
