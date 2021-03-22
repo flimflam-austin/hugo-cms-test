@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="{{ $.Site.Language.Lang }}">
-{{ partial "head" . }}
+{{ partial "head/head" . }}
 
 {{/*<body class="{{ .Type }} {{ with .File }} page_{{.TranslationBaseName }}{{ end }}">*/}}
 {{ $videoposts := where .Site.RegularPages "Section" "video-posts" }}
