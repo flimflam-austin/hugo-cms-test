@@ -18,7 +18,7 @@
     "build:hugo:preview": "npm run build:hugo -- -D -F",
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js",
     "refresh-content": "node ./buildscripts/sanityToHugo/index.js",
-    "netlify-build": "webpack --config webpack.prod.js && hugo -s /site -d ../dist -v"
+    "netlify-build": "webpack --config webpack.prod.js && hugo -s site -d site/../dist -v"
   },
   "author": "",
   "license": "MIT",
