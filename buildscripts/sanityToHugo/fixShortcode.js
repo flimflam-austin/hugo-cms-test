@@ -29,11 +29,15 @@ const scrubShortcodes = () => {
         return match.replace(/\\/g, '"');
       });
 
-      fs.writeFileSync(filePath, cleanedShortcodes);
+      const cleanedTitle = cleanedShortcodes.replace('title=" ', "");
+
+      fs.writeFileSync(filePath, cleanedTitle);
     });
   });
 
   console.log("Shortcode conversion complete.....");
 };
+
+scrubShortcodes();
 
 exports.scrubShortcodes = scrubShortcodes;

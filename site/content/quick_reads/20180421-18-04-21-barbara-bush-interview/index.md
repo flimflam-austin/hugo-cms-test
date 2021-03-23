@@ -2,13 +2,13 @@
 title: 18.04.21 Barbara Bush Interview
 slug: 20180421-18-04-21-barbara-bush-interview
 _id: legacy-16ae425f-f2c2-424c-8b7e-a31b1b90282f
-_rev: O8E8pz1fLwnc3fN7JVF0RC
+_rev: ZEyhBiGfgCfwE8WOjgMl9B
 type: quick_reads
 draft: false
 aliases:
   - 18-04-21-barbara-bush-interview/
 _createdAt: '2018-04-21T13:23:34Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-23T15:11:00Z'
 date: '2018-04-21T13:23:34+00:00'
 weight: 50
 featured_image:
@@ -40,4 +40,4 @@ cards:
 ---
 Interview with Historian Doug Wead:A [https://youtu.be/dYLbBALvMJo](https://youtu.be/dYLbBALvMJo)
 
-{{< youtube id="dYLbBALvMJo" title=" >}}
+{{< youtube id="dYLbBALvMJo"  >}}

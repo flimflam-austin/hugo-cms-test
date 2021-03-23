@@ -88,12 +88,13 @@ const asyncGetRequest = async () => {
     .then(() => {
       return "- Done";
     })
+    .then(() => {
+      shortcodeFix.scrubShortcodes();
+    })
     .catch(
       (err) =>
         `Done: No changes made to content:\n-\tEither there is nothing new to download, or there was a failure.\n-\tPlease see message below for reason:\n-\t${err}`
     );
-
-  shortcodeFix.scrubShortcodes();
 
   return completeStatus + endMessage;
 };

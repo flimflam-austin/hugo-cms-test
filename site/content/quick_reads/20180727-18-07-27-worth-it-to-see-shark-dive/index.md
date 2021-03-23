@@ -77,7 +77,7 @@ cards:
     _key: card-10-e19c31f4-1f30-44f4-861c-ae3b7492c7cd
 
 ---
-{{< youtube id="SdNoAI25uLk" title=" >}}
+{{< youtube id="SdNoAI25uLk" >}}
 
 **The diving company:**A [http://www.sharkdivingunlimited.com/](http://www.sharkdivingunlimited.com/)
 
