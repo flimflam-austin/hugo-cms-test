@@ -5,7 +5,7 @@ NPM_VERSION = "7.3.0"
 
 [build]
 base = "/"
-publish = "/site/dist"
+publish = "/dist"
 functions = "functions/"
 command = "npm run netlify-build"
 
