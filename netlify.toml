@@ -23,7 +23,7 @@ checkPaths = ['/']
 resultMode = "warn"
 
 [[plugins]]
-package = "netlify-sanity-md"
+package = "/plugins/netlify-sanity-md"
 [plugins.inputs]
 checkPaths = ['/']
 resultMode = 'warn'
