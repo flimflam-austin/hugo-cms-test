@@ -13,7 +13,7 @@
                         <img
                             class="aspectimg__image"
                             sizes="(min-width: 1270px) 50vw, 100vw"
-                            srcset="{{- $image300.RelPermalink -}} 300w, {{- $image800.RelPermalink -}} 800w, {{- $image1400.RelPermalink -}} 1400w,{{- $image2000.RelPermalink -}} 2000w,"
+                            srcset="{{ $image300.RelPermalink }} 300w, {{ $image800.RelPermalink }} 800w, {{ $image1400.RelPermalink }} 1400w,{{ $image2000.RelPermalink }} 2000w,"
                             alt="{{ .Params.featured_image.alt }}"
                         />
                     </figure>

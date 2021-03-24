@@ -6,25 +6,25 @@ NPM_VERSION = "7.3.0"
 [build]
 base = "/"
 publish = "/dist"
-functions = "functions/"
-command = "npm run netlify-build"
+functions = "/functions"
+command = "yarn run netlify-build"
 
 [context.production]
-command = "npm run netlify-build"
+command = "yarn run netlify-build"
 
 [context.deploy-preview]
-command = "npm run build:preview"
+command = "yarn run build:preview"
 
 
-[[plugins]]
-package = "netlify-plugin-a11y"
-[plugins.inputs]
-checkPaths = ['/']
-resultMode = "warn"
+#[[plugins]]
+#package = "netlify-plugin-a11y"
+#[plugins.inputs]
+#checkPaths = ['/']
+#resultMode = "warn"
 
 [[plugins]]
 package = "/plugins/netlify-sanity-md"
-[plugins.inputs]
+#[plugins.inputs]
 #checkPaths = ['/']
 #resultMode = 'warn'
 

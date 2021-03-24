@@ -23,5 +23,5 @@
 
 {{ $stylesheet := .Site.Data.webpack.main }}
 {{ with $stylesheet.css }}
-  <link href="{{ relURL . }}" rel="stylesheet">
+  <link rel="stylesheet" href="{{ relURL . }}">
 {{ end }}
