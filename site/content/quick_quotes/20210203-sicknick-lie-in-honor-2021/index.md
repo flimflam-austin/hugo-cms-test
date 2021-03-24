@@ -6,20 +6,20 @@ title: >-
   Rotunda.
 slug: 20210203-sicknick-lie-in-honor-2021
 _id: legacy-0c5dd82b-6564-4244-b481-e79faa1e2d44
-_rev: ZEyhBiGfgCfwE8WOjbuTJp
+_rev: O8E8pz1fLwnc3fN7JZ6pXC
 type: quick_quotes
 draft: false
 aliases:
   - article/sicknick-lie-in-honor-2021/
 _createdAt: '2021-02-03T16:50:05Z'
-_updatedAt: '2021-03-22T13:12:54Z'
+_updatedAt: '2021-03-23T16:23:53Z'
 date: '2021-02-03T16:50:05+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     35e32fe2e8d1f25c017b2ce98888c61e7f37d006-1024x683.jpg
-is_breaking: false
+is_breaking: true
 featured_quote:
   quote: >-
     Knowing our personal tragedy and loss is shared by the nation brings hope

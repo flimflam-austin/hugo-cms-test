@@ -2,13 +2,13 @@
 title: 'On This Day: September 25, 1981'
 slug: 20180925-18-09-25-otd
 _id: legacy-cacba1c3-49a9-4800-93bc-92877fdbbbfc
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: O8E8pz1fLwnc3fN7JZdapC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-25-otd/
 _createdAt: '2018-09-25T12:15:53Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-23T19:51:32Z'
 date: '2018-09-25T12:15:53+00:00'
 weight: 50
 featured_image:
@@ -28,9 +28,6 @@ cards:
 
       Pres. Ronald Reagan’s first of two Supreme Court appointees (Antonin
       Scalia was the second) was confirmed by the Senate 99-0.
-
-
-      Lady Justice
     citation: Lady Justice
     _key: card-1-7fba51e1-48e1-40ca-a751-b2049d130436
   - order: 1
