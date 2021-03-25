@@ -2,13 +2,13 @@
 title: 18.03.10 Daylight Saving
 slug: 20190310-18-03-10-daylight-saving
 _id: legacy-523890fb-26d4-4130-a77b-4d22ac5b2b6c
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 0aCMfzqL0erea7otJrPrLn
 type: quick_reads
 draft: false
 aliases:
   - 18-03-10-daylight-saving/
 _createdAt: '2019-03-10T11:00:50Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-25T20:08:33Z'
 date: '2019-03-10T11:00:50+00:00'
 weight: 50
 featured_image:
@@ -24,16 +24,11 @@ cards:
 
       > Daylight Savings Time.  
         
-        
-        
       We lose an hour of sleep…  
-        
-        
         
       But we gain an hour of sunshine.
 
       WHY DO WE DO THIS?
-    citation: WHY DO WE DO THIS?
     _key: card-1-de97249b-afa4-4184-96c2-d7af35a45d3d
   - order: 1
     body: |-
@@ -65,8 +60,6 @@ cards:
       which is why Florida’s legislature overwhelmingly voted to make it
       permanent last year.’  
         
-        
-        
       Sen. Marco Rubio on the Sunshine Protection Act that would apply to ALL
       states that like Florida follow Daylight Savings Time, citing decreased
       car accidents & decreased robberies both reasons behind the fight for more
@@ -81,10 +74,11 @@ cards:
       * Stroke rates rise
       * Fatigue & decreased productivity
 
+
+
       HEALTH Magazine
 
       Details: Source Page
-    citation: 'Details: Source Page'
     _key: card-5-fe89aa90-28c5-41bc-84e5-7ccb3bf4de7a
   - order: 5
     body: >-

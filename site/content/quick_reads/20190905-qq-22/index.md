@@ -2,13 +2,13 @@
 title: Smarther News Quick Quotes for Thursday, February 7, 2019
 slug: 20190905-qq-22
 _id: legacy-3fbc7dd1-ef13-48c1-9160-e99474edb579
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 45Isps23253Yjlaq27k8c5
 type: quick_reads
 draft: false
 aliases:
   - qq-22/
 _createdAt: '2019-02-07T13:37:05Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-25T20:22:36Z'
 date: '2019-02-07T13:37:05+00:00'
 weight: 50
 featured_image:
@@ -20,10 +20,8 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     body: >-
-      > ‘If left to their own devices, if they have a bipartisan agreement, I
-      will support it.’  
-        
-        
+      > "If left to their own devices, if they have a bipartisan agreement, I
+      will support it."  
         
       House Speaker Nancy Pelosi speaking about a group of bipartisan lawmakers
       working to come up with an agreement on border security funding before
@@ -34,12 +32,11 @@ cards:
     _key: card-1-9e4e8a70-45c3-4a9d-b281-4adcd6122959
   - order: 1
     body: >-
-      > ‘You know what keeps me up at night? Measles is exquisitely contagious.
+      > "You know what keeps me up at night? Measles is exquisitely contagious.
       If you have an under-vaccinated population, and you introduce a measles
-      case into that population, it will take off like a wildfire.’  
-        
-        
-        
+      case into that population, it will take off like a wildfire."
+
+
       Clark County Public Health Director Alan Melnick on a measles outbreak
       centered in his Washington State community that has low vaccination rates.
       At least 55 measles cases have emerged in WA & Oregon, the most in more
@@ -48,10 +45,9 @@ cards:
   - order: 2
     body: >-
       > “For a long time people have tried to pose this or prop this up as a
-      Republican issue, and we’re finding out today it’s a human issue.”  
-        
-        
-        
+      Republican issue, and we’re finding out today it’s a human issue.”
+
+
       Sen. Tim Scott (R-SC), the Senate's only black Republican, as Virginia's
       AG, third in line for Governor, admitted to dressing up in blackface in
       1980. This is the third scandal in a week for the state's most-senior
@@ -61,10 +57,9 @@ cards:
     _key: card-3-637c0371-f577-42e2-a5d9-37596c97dec0
   - order: 3
     body: >-
-      > ‘I was notA consulted.’  
-        
-        
-        
+      > "I was not consulted."
+
+
       U.S. Central Command Gen. Joseph Votel, the top U.S. commander in the
       Middle East, publicly confirming for the first time that the Pentagon was
       not aware of President Trump's plan to withdraw from Syria. In December,
@@ -76,10 +71,9 @@ cards:
     body: >-
       > “I’ve been wondering what that special place in hell looks like, for
       those who promoted #Brexit, without even a sketch of a plan how to carry
-      it out safely.”  
-        
-        
-        
+      it out safely.”
+
+
       European Council president Donald Tusk in a tweet as the EU digs in,
       insisting it will not renegotiate a deal to allow Britain to leave the EU
       next month. Without a deal, both sides warn of "considerable disruption."
@@ -89,10 +83,9 @@ cards:
   - order: 5
     body: >-
       > “the lack of clarity… has kept the Oscars really in the conversation and
-      the mystery has been really compelling. People really care.’  
-        
-        
-        
+      the mystery has been really compelling. People really care."
+
+
       Karey Burke, ABC Entertainment president, as the 2019 Academy Awards
       ceremony will go without an official host for the first time in 30 years.
       The Feb. 24th event had originally tapped comedian Kevin Hart to host, but

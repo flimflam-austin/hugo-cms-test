@@ -115,4 +115,4 @@ cards:
 * **Sandra Day O’Connor:**  
 [https://www.pbs.org/video/makers-women-who-make-america-sandra-day-oconnor/](https://www.pbs.org/video/makers-women-who-make-america-sandra-day-oconnor/)
 * **Life”s Work: An Interview with Sandra Day O”Connor:**  
-[https://hbr.org/2013/12/sandra-day-oconnor](https://hbr.org/2013/12/sandra-day-oconnor)
+[https://hbr.org/2013/12/sandra-day-oconnor](https://hbr.org/2013/12/sandra-day-oconnor)day-oconnor)

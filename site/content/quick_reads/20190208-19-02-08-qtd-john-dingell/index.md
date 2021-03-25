@@ -2,13 +2,13 @@
 title: 'Quote of the Day: John Dingell'
 slug: 20190208-19-02-08-qtd-john-dingell
 _id: legacy-4fad2a72-71f5-440d-915f-722f5903267d
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: LotyrYkaRjTl0E452wGv0n
 type: quick_reads
 draft: false
 aliases:
   - 19-02-08-qtd-john-dingell/
 _createdAt: '2019-02-08T14:18:35Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-25T20:12:05Z'
 date: '2019-02-08T14:18:35+00:00'
 weight: 50
 featured_image:
@@ -23,9 +23,6 @@ cards:
       > “…A _we work for a just and a humane and a decent society, where
       everybody has a chance to amount to something. And where we don’t give
       handouts, but we give hands-up, so that people can grow._“
-
-
-      John Dingell
     citation: John Dingell
     _key: card-1-28a79609-e882-49b3-a9a0-5959c3b963dd
   - order: 1

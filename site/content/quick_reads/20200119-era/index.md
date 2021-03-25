@@ -2,13 +2,13 @@
 title: Should We Amend the Constitution?
 slug: 20200119-era
 _id: legacy-e195f5e2-e3b9-4df8-81e2-fb4d2079feb8
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: LotyrYkaRjTl0E452wGZev
 type: quick_reads
 draft: false
 aliases:
   - era/
 _createdAt: '2019-04-30T12:02:03Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-25T20:06:39Z'
 date: '2019-04-30T12:02:03+00:00'
 weight: 50
 featured_image:
@@ -35,12 +35,12 @@ cards:
       subject to its jurisdiction._ _Equality of rights under the law shall not
       be denied or abridged by the United States or by any State on account of
       sex_.”  
-        
-        
-        
-      On March 22, 1972, Congress passed the Equal Rights Amendment in order to
-      make gender equality a fundamental right. Ultimately, it was NOT added to
-      the U.S. Constitution because not enough states ratified (approved) it.
+
+
+
+      > On March 22, 1972, Congress passed the Equal Rights Amendment in order
+      to make gender equality a fundamental right. Ultimately, it was NOT added
+      to the U.S. Constitution because not enough states ratified (approved) it.
     _key: card-2-beaf9dce-5955-48be-8d55-bbd27cb384a4
   - order: 2
     body: >-
@@ -80,16 +80,12 @@ cards:
       meant in the 1860s to change anything with regard to women’s status. Women
       didn’t get to vote until 1920.”  
         
-        
-        
       U.S. Supreme Court Justice Ruth Bader Ginsburg in 2005.
     _key: card-5-cd5db25a-1b11-43a8-9cf3-5398b4edd978
   - order: 5
     body: >-
       > “Certainly the Constitution does not require discrimination on the basis
       of sex. The only issue is whether it prohibits it. It doesn’t.”  
-        
-        
         
       The late U.S. Supreme Court Justice Antonin Scalia in 2011 when asked
       whether the 14th Amendment (equal protection clause) outlaws sex

@@ -1,33 +1,33 @@
 @mixin flex-column-center-center {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 }
 
 @mixin flex-row-center-center {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
 }
 
 @function containerSizes($numCards, $numSidebars: 0) {
-  $sidePadding: $site-content-padding * 2;
-  $columnPadding: (($numCards + $numSidebars) - 1) * $site-content-padding;
-  $contentWidth: ($numCards * $card-width) + ($numSidebars * $side-feed-width);
+	$sidePadding: $site-content-padding * 2;
+	$columnPadding: (($numCards + $numSidebars) - 1) * $site-content-padding;
+	$contentWidth: ($numCards * $card-width) + ($numSidebars * $side-feed-width);
 
-  $containerSet: (
-    width: (
-      $sidePadding + $columnPadding + $contentWidth,
-    ),
-    columns: repeat($numCards, $card-width)
-      (
-        $numSidebars * $side-feed-width,
-      ),
-  );
+	$containerSet: (
+		width: (
+			$sidePadding + $columnPadding + $contentWidth,
+		),
+		columns: repeat($numCards, $card-width)
+			(
+				$numSidebars * $side-feed-width,
+			),
+	);
 
-  @return $containerSet;
+	@return $containerSet;
 }
 
 $l-tablet-up: containerSizes(2);
@@ -35,132 +35,132 @@ $l-desktop-up: containerSizes(2, 1);
 $l-desktop-xl-up: containerSizes(3, 1);
 
 .l-page__container {
-  position: relative;
-  padding: $site-content-padding;
-  width: 100%;
-  margin: 0 auto;
-  justify-content: center;
+	position: relative;
+	padding: $site-content-padding;
+	width: 100%;
+	margin: 0 auto;
+	justify-content: center;
 
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
 
-  @include query-tablet-up {
-    width: map-get($l-tablet-up, "width");
-  }
+	@include query-tablet-up {
+		width: map-get($l-tablet-up, "width");
+	}
 
-  @include query-desktop-up {
-    width: map-get($l-desktop-up, "width");
-  }
+	@include query-desktop-up {
+		width: map-get($l-desktop-up, "width");
+	}
 
-  @include query-desktop-xl-up {
-    width: map-get($l-desktop-xl-up, "width");
-  }
+	@include query-desktop-xl-up {
+		width: map-get($l-desktop-xl-up, "width");
+	}
 
-  &--grid {
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr;
-    column-gap: $site-content-padding;
-    row-gap: $site-content-padding;
+	&--grid {
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-template-rows: 1fr;
+		column-gap: $site-content-padding;
+		row-gap: $site-content-padding;
 
-    @include query-tablet-up {
-      width: 100%;
-      grid-template-columns: map-get($l-tablet-up, "columns");
-    }
+		@include query-tablet-up {
+			width: 100%;
+			grid-template-columns: map-get($l-tablet-up, "columns");
+		}
 
-    @include query-desktop-up {
-      width: 100%;
-      grid-template-columns: map-get($l-desktop-up, "columns");
-    }
+		@include query-desktop-up {
+			width: 100%;
+			grid-template-columns: map-get($l-desktop-up, "columns");
+		}
 
-    @include query-desktop-xl-up {
-      width: 100%;
-      grid-template-columns: map-get($l-desktop-xl-up, "columns");
-    }
-  }
+		@include query-desktop-xl-up {
+			width: 100%;
+			grid-template-columns: map-get($l-desktop-xl-up, "columns");
+		}
+	}
 
-  &--navoffset {
-    margin-top: 8rem;
-  }
+	&--navoffset {
+		margin-top: 8rem;
+	}
 }
 
 .l-page__content {
-  width: 100%;
-  justify-content: center;
-  justify-items: center;
+	width: 100%;
+	justify-content: center;
+	justify-items: center;
 
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
 
-  &--grid {
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1fr;
-    column-gap: $site-content-padding;
-    row-gap: $site-content-padding;
+	&--grid {
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-template-rows: 1fr;
+		column-gap: $site-content-padding;
+		row-gap: $site-content-padding;
 
-    @include query-tablet-up {
-      grid-template-columns: repeat(2, $card-width);
-    }
+		@include query-tablet-up {
+			grid-template-columns: repeat(2, $card-width);
+		}
 
-    @include query-desktop-xl-up {
-      grid-template-columns: repeat(3, $card-width);
-    }
-  }
+		@include query-desktop-xl-up {
+			grid-template-columns: repeat(3, $card-width);
+		}
+	}
 }
 
 .l-sidescroll {
-  overflow-x: scroll;
-  width: auto;
-  /* display: flex;
+	overflow-x: scroll;
+	width: auto;
+	/* display: flex;
 	flex-direction: row;
 	flex-wrap: nowrap;
 	justify-content: flex-start; */
-  display: grid;
-  grid-template-columns: repeat(10, 400px);
-  grid-template-rows: auto;
-  column-gap: $site-content-padding;
-  @include hide-scrollbars;
-  //@include scrollbar-type-box;
+	display: grid;
+	grid-template-columns: repeat(10, auto);
+	grid-template-rows: auto;
+	column-gap: $site-content-padding;
+	@include hide-scrollbars;
+	//@include scrollbar-type-box;
 }
 
 .l-body {
-  padding-top: $sitenav-height + 2;
-  @include transition-standard;
+	padding-top: $sitenav-height + 2;
+	@include transition-standard;
 
-  &--has-breaking-dropdown {
-    @extend .l-body;
-    padding-top: $sitenav-height + 3 + 2;
-  }
+	&--has-breaking-dropdown {
+		@extend .l-body;
+		padding-top: $sitenav-height + 3 + 2;
+	}
 }
 
 .l-list-grid__content {
-  position: relative;
-  padding: ($post-section-spacing / 2) 0 $post-section-spacing 0;
-  width: 100%;
-  margin: 0 auto;
-  justify-content: center;
+	position: relative;
+	padding: ($post-section-spacing / 2) 0 $post-section-spacing 0;
+	width: 100%;
+	margin: 0 auto;
+	justify-content: center;
 
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr;
-  column-gap: $site-content-padding;
-  row-gap: $post-section-spacing;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 1fr;
+	column-gap: $site-content-padding;
+	row-gap: $post-section-spacing;
 
-  @include query-tablet-up {
-    width: 100%;
-    grid-template-columns: repeat(2, $card-width);
-  }
+	@include query-tablet-up {
+		width: 100%;
+		grid-template-columns: repeat(2, $card-width);
+	}
 
-  @include query-desktop-up {
-    width: 100%;
-    grid-template-columns: repeat(3, $card-width);
-  }
+	@include query-desktop-up {
+		width: 100%;
+		grid-template-columns: repeat(3, $card-width);
+	}
 
-  @include query-desktop-xl-up {
-    width: 100%;
-    grid-template-columns: repeat(4, $card-width);
-  }
+	@include query-desktop-xl-up {
+		width: 100%;
+		grid-template-columns: repeat(4, $card-width);
+	}
 }

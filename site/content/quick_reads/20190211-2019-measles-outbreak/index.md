@@ -2,13 +2,13 @@
 title: 19.02.11 Measles 2019 Outbreak
 slug: 20190211-2019-measles-outbreak
 _id: legacy-fa242702-e85c-4c54-b9e5-b5c0d0b29827
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 45Isps23253Yjlaq27iLdM
 type: quick_reads
 draft: false
 aliases:
   - 2019-measles-outbreak/
 _createdAt: '2019-02-11T15:09:34Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-25T20:11:19Z'
 date: '2019-02-11T15:09:34+00:00'
 weight: 50
 featured_image:
@@ -28,16 +28,13 @@ cards:
 
 
       Why Now?
-    citation: Why Now?
     _key: card-1-91b39565-0a62-435c-b86b-3718caee08d1
   - order: 1
     body: >-
       > “Measles can be so contagious that you can be in a room, and if you’re
       susceptible, two hours after someone with measles left, and still get the
       disease.”  
-        
-        
-        
+
       Dr. Alan Melnick, director of public health for Clark County, the site of
       the measles outbreak in Washington state. Most of the cases are children
       under 10. The vaccination rate for school age children is 78%, much lower

@@ -7,16 +7,16 @@ type: quick_reads
 draft: false
 aliases:
   - 18-05-11-father-benoka/
-_createdAt: "2018-05-11T21:35:13Z"
-_updatedAt: "2021-03-22T13:11:08Z"
-date: "2018-05-11T21:35:13+00:00"
+_createdAt: '2018-05-11T21:35:13Z'
+_updatedAt: '2021-03-22T13:11:08Z'
+date: '2018-05-11T21:35:13+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
   url: >-
     d5fb05b20f04fbe4f866a9964b86932ef29c0751-2560x1643.jpg
 card_series: Worth-It-To-See-It
-colorpaletteclassname: "--dark-green"
+colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
     body: >-
@@ -57,8 +57,8 @@ cards:
 
       [view sources](https://smarthernews.com/18-05-11-father-benoka/)
     _key: card-10-38a3caaa-fb6d-4242-87cf-7b576e849d1a
----
 
+---
 Full Interview:A Father Benoka, Catholic Priest, speaking to SmartHER News about the threats Christians face in Northern Iraq, by Shiite Militias, believed to be tied to Iran.
 
 {{< youtube id="mQTCRB3vdSU" >}}

@@ -2,13 +2,13 @@
 title: Tightening Our (Farm) Belt
 slug: 20190212-farmingbankruptcies
 _id: legacy-3c83fd1a-2b86-44ad-9012-6bf8f9bd463a
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 45Isps23253Yjlaq27i0wS
 type: quick_reads
 draft: false
 aliases:
   - farmingbankruptcies/
 _createdAt: '2019-02-12T13:01:46Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-25T20:09:26Z'
 date: '2019-02-12T13:01:46+00:00'
 weight: 50
 featured_image:
@@ -29,14 +29,11 @@ cards:
 
 
       Why Now?
-    citation: Why Now?
     _key: card-1-0343e64c-0e98-41f6-88c8-6f35bae120bc
   - order: 1
     body: >-
       > ‘I’ve been through several dips in 40 years. This one here is gonna kick
       my butt.’  
-        
-        
         
       Kirk Duensing, Nebraska Farmer, who says low prices for soy & corn crops
       combined with high interest loans has left him more than $1M in debt. He
@@ -59,8 +56,6 @@ cards:
     body: >-
       > ‘We thought 2019 would be the year things turned around. Then the trade
       dispute happened and that really put a damper on things.’  
-        
-        
         
       Curt Hudnutt, Head of Rural Banking for Rabobank, one of the biggest U.S.
       farm lenders, warning bankruptcies among U.S. farmers will increase. The

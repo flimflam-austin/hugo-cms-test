@@ -33,6 +33,16 @@ const replaceImageUrls = (bodyText) => {
 	});
 };
 
+const scrubShortcodes = (data) => {
+	const cleanedShortcodes = data.replace(/(?<={{<).*?(?=>}})/g, (match) => {
+		return match.replace(/\\/g, '"');
+	});
+
+	const cleanedTitle = cleanedShortcodes.replace('title=" ', "");
+
+	return cleanedTitle;
+};
+
 const writeFile = (dataObj) => {
 	/* console.log('Data to write:');
 	console.log(dataObj); */
@@ -40,10 +50,12 @@ const writeFile = (dataObj) => {
 
 	const { relinkedMarkdown, imageUrls } = replaceImageUrls(markdown);
 
+	const scrubbedShortcodes = scrubShortcodes(relinkedMarkdown);
+
 	// TODO: better path resolution
 	const outputPath = `${__dirname}/../../site/content/${type}/${slug}`;
 
-	fsextra.outputFile(`${outputPath}/index.md`, relinkedMarkdown, (err) => {
+	fsextra.outputFile(`${outputPath}/index.md`, scrubbedShortcodes, (err) => {
 		if (err) {
 			console.log(`Failed to write file with slug ${type}/${slug}. =(`);
 			return null;

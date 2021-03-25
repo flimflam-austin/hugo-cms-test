@@ -597,7 +597,6 @@ $card-flip-duration: 0.75s;
 		@include beta-bold;
 		//margin-bottom: $card-base;
 		margin-bottom: 1em;
-		text-transform: capitalize;
 	}
 
 	& h2 {
@@ -606,7 +605,6 @@ $card-flip-duration: 0.75s;
 		@include beta-bold;
 		//margin-bottom: $card-base;
 		margin-bottom: 1em;
-		text-transform: capitalize;
 	}
 
 	& h3 {
@@ -615,7 +613,6 @@ $card-flip-duration: 0.75s;
 		@include gamma-regular;
 		//margin-bottom: $card-base;
 		margin-bottom: 1em;
-		text-transform: capitalize;
 	}
 
 	& h4 {
@@ -631,7 +628,6 @@ $card-flip-duration: 0.75s;
 		font-size: 0.875em;
 		@include gamma-bold;
 		letter-spacing: 0.05em;
-		text-transform: capitalize;
 	}
 
 	& h6 {
@@ -640,7 +636,6 @@ $card-flip-duration: 0.75s;
 		@include gamma-bold;
 		//margin-bottom: 0.625 * $card-base;
 		margin-bottom: 0.625em;
-		text-transform: capitalize;
 	}
 
 	& a {

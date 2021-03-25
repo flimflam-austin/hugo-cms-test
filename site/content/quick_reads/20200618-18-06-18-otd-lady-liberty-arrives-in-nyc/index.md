@@ -2,13 +2,13 @@
 title: On This Day in 1885
 slug: 20200618-18-06-18-otd-lady-liberty-arrives-in-nyc
 _id: legacy-5fc2672b-4939-4f21-a3ed-b26849d053c9
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: 0aCMfzqL0erea7otJrOiUC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-18-otd-lady-liberty-arrives-in-nyc/
 _createdAt: '2020-06-19T10:47:50Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-25T20:00:59Z'
 date: '2020-06-19T10:47:50+00:00'
 weight: 50
 featured_image:
@@ -45,8 +45,9 @@ cards:
       donation to bring “Lady Liberty” to life.
 
 
+
+
       [Click Here: Newspaper](https://www.loc.gov/resource/cph.3b08482/)
-    citation: 'Click Here: Newspaper'
     _key: card-2-b3f5dfb6-7a9e-4254-b660-734e7c8bafc4
   - order: 2
     body: >-

@@ -2,13 +2,13 @@
 title: The Great Vaccine Debate
 slug: 20190211-19-02-11-should-you-have-the-right-not-to-vaccinate
 _id: legacy-9086b2cf-6c11-41cf-bd48-10f019005e8b
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 45Isps23253Yjlaq27i71O
 type: quick_reads
 draft: false
 aliases:
   - 19-02-11-should-you-have-the-right-not-to-vaccinate/
 _createdAt: '2019-02-11T15:11:22Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-25T20:10:07Z'
 date: '2019-02-11T15:11:22+00:00'
 weight: 50
 featured_image:
@@ -49,8 +49,6 @@ cards:
       normal…The enablers are state legislators in those states, that have
       allowed themselves to be played.”  
         
-        
-        
       Dr. Peter Hotez, Texas Children’s Hospital Center for Vaccine Development
       at Baylor College of Medicine in Houston who is against personal
       exemptions for vaccines.
@@ -59,8 +57,6 @@ cards:
     body: >-
       > ‘I see that as medical fascism. I’m the one who is going to make medical
       decisions for my kids.’  
-        
-        
         
       Becky Johnson mother of 3, who is against vaccinations. She disagrees with
       a new California law passed in 2015 (after a measles outbreak at

@@ -2,13 +2,13 @@
 title: Is Your Pet Obese?
 slug: 20190208-19-02-08-fat-pets
 _id: legacy-a4a896e1-df15-48a1-83b3-f9afe4fede63
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 45Isps23253Yjlaq27ico2
 type: quick_reads
 draft: false
 aliases:
   - 19-02-08-fat-pets/
 _createdAt: '2019-02-08T14:04:32Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-25T20:12:45Z'
 date: '2019-02-08T14:04:32+00:00'
 weight: 50
 featured_image:
@@ -28,7 +28,6 @@ cards:
 
 
       Not Fat. Just Husky
-    citation: Not Fat. Just Husky
     _key: card-1-bcf4fcab-b04b-4b8e-931c-3e1a3be2291a
   - order: 1
     body: |-

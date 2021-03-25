@@ -2,13 +2,13 @@
 title: Did You Know? Presidents Day Isn't a Federal Holiday
 slug: 20210215-18-02-17-presidents-day
 _id: legacy-7e282a6d-33c6-4025-9935-d85df979329e
-_rev: ZEyhBiGfgCfwE8WOjbuCtW
+_rev: LotyrYkaRjTl0E452wG5af
 type: quick_reads
 draft: false
 aliases:
   - 18-02-17-presidents-day/
 _createdAt: '2021-02-15T07:00:52Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-25T19:59:13Z'
 date: '2021-02-15T07:00:52+00:00'
 weight: 50
 featured_image:
@@ -48,15 +48,12 @@ cards:
       convenient opportunity, return the clogs to Mr. Palmer and get a pair of
       galoshes.”  
         
-        
-        
       Pres. Washington on March 15, 1789, ordering his wife shoes from London.
       He regularly ordered "designer shoes" for his wife from a London broker.
 
 
       [Click For
       Shoes](http://www.mountvernon.org/george-washington/colonial-life-today/shoe-shopping-with-martha-washington/)
-    citation: Click For Shoes
     _key: card-3-31e28208-a70b-4381-9c4e-ae7c55377159
   - order: 3
     body: >-

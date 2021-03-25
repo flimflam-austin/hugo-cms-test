@@ -2,13 +2,13 @@
 title: Smarther News Quick Quotes for Friday, February 8, 2019
 slug: 20190905-qq-23
 _id: legacy-888e395e-b42d-4bed-a838-46f468dadb25
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: LotyrYkaRjTl0E452wH8FR
 type: quick_reads
 draft: false
 aliases:
   - qq-23/
 _createdAt: '2019-02-08T14:03:20Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-25T20:15:58Z'
 date: '2019-02-08T14:03:20+00:00'
 weight: 50
 featured_image:
@@ -21,9 +21,8 @@ cards:
   - order: 0
     body: >-
       > ‘It gives us hope that this history will be sustained and improved upon
-      and captured and passed on from generation to generation.’  
-        
-        
+      and captured and passed on from generation to generation.’
+
         
       Anderson Flen speaking about preserving the history of Africatown,
       Alabama, a town created by the 100+ last slaves kidnapped from West Africa
@@ -37,8 +36,6 @@ cards:
       > ‘We’re showing the district we are going to stand up for what we
       need.”  
         
-        
-        
       Denver elementary school teacher Chris Christoff as 4,000+ teachers in the
       city vow to walk off the job Monday unless a deal can be reached to raise
       pay. The union says its incentive-based system is unfair. Last month, L.A.
@@ -50,8 +47,6 @@ cards:
       > “I was made an offer I couldn’t refuse. Or at least that’s what the top
       people at the National Enquirer thought.”  
         
-        
-        
       Jeff Bezos, Amazon's founder & world's richest man, accusing AMI, the
       publisher of the National Enquirer, with extortion and blackmail,
       providing emails he says show its threats to publish nude photos he sent
@@ -61,10 +56,8 @@ cards:
   - order: 3
     body: >-
       > “It is apparent that the Committee’s true intention is not to discuss
-      the great work of the Dept of Justice, but to create a public
-      spectacle.”  
-        
-        
+      the great work of the Dept of Justice, but to create a public spectacle.”
+
         
       Acting Attorney General Matthew Whitaker on his plans to skip voluntary
       testimony before the House Judiciary Committee Friday unless it drops its
@@ -74,10 +67,8 @@ cards:
     _key: card-4-bed42f4d-7ebd-4b92-a91a-002715fece82
   - order: 4
     body: >-
-      > ‘The green dream or whatever they call it, nobody knows what it is, but
-      they’re for it right?’  
-        
-        
+      > "The green dream or whatever they call it, nobody knows what it is, but
+      they’re for it right?"  
         
       House Speaker Nancy Pelosi (D-CA) dismissing fellow democrat Rep.
       Alexandria Ocasio-Cortez’s ‘Green New Deal while launching a new committee
@@ -88,8 +79,6 @@ cards:
   - order: 5
     body: >-
       > “..a trailblazer in every sense, whose impact spanned generations.”  
-        
-        
         
       Rob Manfred, MLB Commissioner, on the death of Frank Robinson (83).
       Robinson, who's career spanned 21 seasons, was the MLB's first black

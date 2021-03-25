@@ -2,13 +2,13 @@
 title: On This Day in 1933
 slug: 20200304-otd-frances-perkins
 _id: legacy-53f91ec9-d10c-4d52-8ab6-88c623fb36da
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: LotyrYkaRjTl0E452wGPAb
 type: quick_reads
 draft: false
 aliases:
   - otd-frances-perkins/
 _createdAt: '2020-03-04T17:00:09Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-25T20:03:58Z'
 date: '2020-03-04T17:00:09+00:00'
 weight: 50
 featured_image:
@@ -23,7 +23,6 @@ cards:
       March 4, 1933
 
 
-      ================
 
 
       > The 40-hour work week, child labor laws, and social security, all
@@ -33,11 +32,10 @@ cards:
   - order: 1
     body: >-
       > “The people are what matter to government, and a government should aim
-      to give all the people under its jurisdiction the best possible life.”  
-        
-        
-        
-      Frances Perkins began her work in public service as a social worker. Her
+      to give all the people under its jurisdiction the best possible life.”
+
+
+      > Frances Perkins began her work in public service as a social worker. Her
       pursuit for workers' rights was shaped during a trip to NYC on the day of
       the 1911 Triangle Shirtwaist Factory fire, when nearly 150 workers died.
       She held many positions in the New York government under then-Governor
@@ -47,8 +45,6 @@ cards:
     body: >-
       > “I came to Washington to work for God, FDR, and the millions of
       forgotten, plain common workingmen.”  
-        
-        
         
       Sec. Perkins, who came to the White House to help President Roosevelt
       draft and implement labor and economic policies during the height of the

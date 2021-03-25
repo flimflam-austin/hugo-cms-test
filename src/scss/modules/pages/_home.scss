@@ -151,6 +151,12 @@
 	}
 }
 
+.l-sidescroll .qqprev {
+	width: 100%;
+	min-width: 300px;
+	max-width: 400px;
+}
+
 .qqprev {
 	@include hover-card-rounded-sage;
 
@@ -159,10 +165,6 @@
 	height: auto;
 
 	text-decoration: none;
-
-	&--main {
-		margin-right: 2rem;
-	}
 
 	&--side {
 		//margin-bottom: 2rem;
