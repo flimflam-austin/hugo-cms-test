@@ -65,7 +65,7 @@ const asyncGetRequest = async () => {
 	console.log(startMessage);
 
 	const lastBuildTime = log.getLastLog();
-	const articlesSinceDate = 0;
+	const articlesSinceDate = lastBuildTime;
 
 	const query = buildQuery(articlesSinceDate);
 	const params = buildQueryParams();
@@ -83,18 +83,10 @@ const asyncGetRequest = async () => {
 		.then(handleResponse)
 		.then(buildSchemaFromResponse)
 		.then(convertFilesToMd)
-		.then((response) => {
-			console.log(response);
-			return response;
-		})
 		.then(writeFiles)
 		.then(log.logBuild)
 		.then(() => {
 			return "- Done";
-		})
-		.then((response) => {
-			//shortcodeFix.scrubShortcodes();
-			return response;
 		})
 		.catch(
 			(err) =>
