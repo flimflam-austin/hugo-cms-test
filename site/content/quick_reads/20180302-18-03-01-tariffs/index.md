@@ -2,14 +2,15 @@
 title: 18.03.01 Tariffs
 slug: 20180302-18-03-01-tariffs
 _id: legacy-c177d706-d93a-4998-a90a-8f1d361c30f4
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: 45Isps23253Yjlaq281pBL
 type: quick_reads
 draft: false
 aliases:
   - 18-03-01-tariffs/
 _createdAt: '2018-03-02T11:00:12Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:06:07Z'
 date: '2018-03-02T11:00:12+00:00'
+lastmod: '2018-03-02T11:00:12+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
       President Trump announces tariffs; Some love. Some hate.
 
       Flip For Why
-    citation: Flip For Why
     _key: card-1-63efa9dd-1fad-47a9-a506-c8c6ebd16cdc
   - order: 1
     body: |-

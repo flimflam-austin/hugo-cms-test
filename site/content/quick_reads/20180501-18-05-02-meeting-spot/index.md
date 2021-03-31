@@ -2,14 +2,15 @@
 title: 18.05.02 the Meeting Spot?
 slug: 20180501-18-05-02-meeting-spot
 _id: legacy-f526ae36-b27a-4c91-a25f-197e93768e4b
-_rev: O8E8pz1fLwnc3fN7JVF0RC
+_rev: 45Isps23253Yjlaq28EJaK
 type: quick_reads
 draft: false
 aliases:
   - 18-05-02-meeting-spot/
 _createdAt: '2018-05-02T10:57:41Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:32:55Z'
 date: '2018-05-02T10:57:41+00:00'
+lastmod: '2018-05-02T10:57:41+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       FLIP: THE FRONT RUNNER
-    citation: 'FLIP: THE FRONT RUNNER'
     _key: card-1-7dc18752-6617-4bc3-b795-ab4d2c01eebc
   - order: 1
     body: >-
@@ -61,7 +61,6 @@ cards:
 
 
       FLIP FOR SUPRISE PICKS
-    citation: FLIP FOR SUPRISE PICKS
     _key: card-3-141bb5b0-6c6c-4da9-bc6c-0a558c7d9062
   - order: 3
     body: >-

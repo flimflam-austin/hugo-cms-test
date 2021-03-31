@@ -2,14 +2,15 @@
 title: 18.06.14 Qq Thursday
 slug: 20190905-18-06-14-qq-thursday
 _id: legacy-ac37d393-d459-4088-a18f-460b834d5f70
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: LotyrYkaRjTl0E452wYbIL
 type: quick_reads
 draft: false
 aliases:
   - 18-06-14-qq-thursday/
 _createdAt: '2018-06-14T10:30:13Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T01:32:02Z'
 date: '2018-06-14T10:30:13+00:00'
+lastmod: '2018-06-14T10:30:13+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,7 +27,6 @@ cards:
       and am honored to work for @POTUS”  
         
         
-        
       Press Sec. Sarah Huckabee Sanders responding to reports of her supposed
       imminent White House departure.
     _key: card-1-500c2295-6ad3-411a-a142-94783c901cca
@@ -38,7 +38,6 @@ cards:
       Oregon.”  
         
         
-        
       Idaho's Central District Health Dep't announcing the country's first human
       case of plague in over two decades.
     _key: card-2-acbaaeaa-3a64-49e3-bda5-a11da02e4030
@@ -46,7 +45,6 @@ cards:
     body: >-
       > “…it seems likely that Louboutin will be allowed to develop a monopoly
       for red-soled high-heeled shoes.’  
-        
         
         
       Elaine O’Hare, an intellectual property specialist, as luxury shoe
@@ -57,8 +55,6 @@ cards:
     body: >-
       > “Hosting the 2026 FIFA World Cup is a rare and important moment to
       demonstrate that we are all truly united through sport.”  
-        
-        
         
       US Soccer President Carlos Cordeiro reacting to the announcement that the
       U.S.'s joint bid with Canada & Mexico was selected to host the 2026 World
@@ -72,8 +68,6 @@ cards:
       did we think we would experience a pain like this. Her love, her light,
       her spirit will never be forgotten. Our little girl loved life and lived
       it to it’s fullest everyday.”  
-        
-        
         
       Olympic skier Bode Miller on the devastating drowning death of his
       19-month-old daughter over the weekend. According to the CDC, drowning is

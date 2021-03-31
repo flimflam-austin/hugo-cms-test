@@ -2,14 +2,15 @@
 title: 18.07.23 Qq
 slug: 20190905-18-07-23-qq
 _id: legacy-3919599b-3587-48cf-91bd-bdbc39f8e816
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: LotyrYkaRjTl0E452xQS8r
 type: quick_reads
 draft: false
 aliases:
   - 18-07-23-qq/
 _createdAt: '2018-07-23T11:59:23Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T17:36:52Z'
 date: '2018-07-23T11:59:23+00:00'
+lastmod: '2018-07-23T11:59:23+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       flip here for more
-    citation: flip here for more
     _key: card-1-5f4765d9-baf2-4171-a6ab-86f901f1ae12
   - order: 1
     body: >-
@@ -45,7 +45,7 @@ cards:
     _key: card-2-54308301-acdc-4904-92cb-d152dc031fb6
   - order: 2
     body: >-
-      > ‘If they don’t make it Lord, take me, too. I don’t need to be here.’’  
+      > "If they don’t make it Lord, take me, too. I don’t need to be here.’’  
         
         
         
@@ -56,7 +56,7 @@ cards:
     _key: card-3-a002f9f4-b5e7-4b05-9509-8a974378a694
   - order: 3
     body: >-
-      > ‘Everyone thought we were going to die.”  
+      > "Everyone thought we were going to die.”  
         
         
         
@@ -79,8 +79,6 @@ cards:
     body: >-
       > “I told them I tried and I said, ‘Hopefully you’re as proud of your pops
       for trying as hard as I did.'”  
-        
-        
         
       Tiger Woods on what he told his children after his first close run at a
       major title in over 10 years at the British Open this weekend. He put

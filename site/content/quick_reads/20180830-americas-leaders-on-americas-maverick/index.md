@@ -2,14 +2,15 @@
 title: America's Leaders on America's Maverick
 slug: 20180830-americas-leaders-on-americas-maverick
 _id: legacy-cb820219-fb2c-4224-a33b-7345f791ce82
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 0aCMfzqL0erea7otJxdO2e
 type: quick_reads
 draft: false
 aliases:
   - americas-leaders-on-americas-maverick/
 _createdAt: '2018-08-30T11:14:15Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-27T21:14:28Z'
 date: '2018-08-30T11:14:15+00:00'
+lastmod: '2018-08-30T11:14:15+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -47,7 +48,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/ggmk9uwAXvE?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-4dc77044-d2fc-45c3-a457-a7c96b9db18e
   - order: 2
     body: >-
@@ -73,12 +73,11 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/3Sa8G-VR13Q?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-4-b9cc9c3c-5c79-411b-afb6-87cb6fad60b4
   - order: 4
     body: >-
-      > ‘In my lifetime, he’s one of the most remarkable patriots our country’s
-      ever produced. I love the guy.’  
+      > "In my lifetime, he’s one of the most remarkable patriots our country’s
+      ever produced. I love the guy."  
         
         
         
@@ -93,13 +92,11 @@ cards:
       all.”  
         
         
-        
       Larry Fitzgerald, AZ Cardinals wide receiver, in a December 2017 op-ed
 
 
       [WORTH THE
       READ](https://www.si.com/nfl/2017/12/23/larry-fitzgerald-senator-john-mccain-arizona-vietnam-war-pow)
-    citation: WORTH THE READ
     _key: card-6-fc762c05-1274-4ff1-a2d7-5f123d0e2b7c
   - order: 6
     body: >-

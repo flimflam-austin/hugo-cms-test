@@ -2,14 +2,15 @@
 title: 18.05.09 Korean Hostages
 slug: 20180510-18-05-09-korean-hostages
 _id: legacy-a0069606-f3f7-4db4-88d5-d184dd953f1f
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: LotyrYkaRjTl0E452wUpjp
 type: quick_reads
 draft: false
 aliases:
   - 18-05-09-korean-hostages/
 _createdAt: '2018-05-10T10:05:06Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-26T00:08:56Z'
 date: '2018-05-10T10:05:06+00:00'
+lastmod: '2018-05-10T10:05:06+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,15 +24,12 @@ cards:
       > **“… flying back are three, what they were calling ‘hostages.’ We call
       them ‘fine people.’ Three really fine people.”**  
         
-        
-        
       President Trump, May 9, 2018, speaking about the three American men
       released from prison in North Korea, ahead of what's expected to be a
       historic summit between the American and North Korean leaders.
 
 
       Flip: Who Are They?
-    citation: 'Flip: Who Are They?'
     _key: card-1-3733a711-8b90-43e5-bdb1-b2f6c9a11b56
   - order: 1
     body: >-
@@ -66,11 +64,8 @@ cards:
       can. People never thought you were going to have a situation where we’re
       having serious & positive communication with North Korea and we are. What
       happens? Who knows? We have a chance at something really great for the
-      world.”  
-        
-        
-        
-      President Trump
+      world.”
+    citation: President Trump
     _key: card-4-e32dafa2-875e-41ab-b140-8127b95b2a79
   - order: 4
     body: >-

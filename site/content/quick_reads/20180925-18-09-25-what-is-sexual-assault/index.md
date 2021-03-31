@@ -2,14 +2,15 @@
 title: What Is Sexual Assault?
 slug: 20180925-18-09-25-what-is-sexual-assault
 _id: legacy-04425ce9-751b-436b-bf64-bfba26c90d05
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: LotyrYkaRjTl0E452yduT7
 type: quick_reads
 draft: false
 aliases:
   - 18-09-25-what-is-sexual-assault/
 _createdAt: '2018-09-25T12:00:04Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:33:34Z'
 date: '2018-09-25T12:00:04+00:00'
+lastmod: '2018-09-25T12:00:04+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,18 +28,16 @@ cards:
       situations, but what is the definition of “**sexual assault**“?
 
 
-      **Court of Law v.A Court of Public Opinion**
+      **Court of Law v. Court of Public Opinion**
 
 
       Why It Matters
-    citation: Why It Matters
     _key: card-1-138b4cb9-d083-48d4-8f20-18104c8c243e
   - order: 1
     body: >-
       > “The term ‘sexual assault’ means **any nonconsensual sexual act**
       proscribed by Federal, tribal, or State law, including when the victim
       lacks capacity to consent.”  
-        
         
         
       U.S. Justice Department on what constitutes sexual assault under federal
@@ -53,7 +52,7 @@ cards:
       * Prof. Christine Ford has accused Supreme Court Brett Kavanaugh nominee
       of **sexual assault**.
 
-      * Despite her allegations, she hasA **not** filed a criminal complaint.
+      * Despite her allegations, she has **not** filed a criminal complaint.
 
       * The Senate Judiciary cmte is **NOT** a court of law & they will not
       decide if a sexual assault happened. Instead, they vote on whether

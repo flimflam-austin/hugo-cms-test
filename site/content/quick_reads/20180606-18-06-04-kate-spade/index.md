@@ -2,14 +2,15 @@
 title: 18.06.04 Kate Spade
 slug: 20180606-18-06-04-kate-spade
 _id: legacy-dd922b88-fb77-48ec-a04b-d6b094068d9d
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28QbOz
 type: quick_reads
 draft: false
 aliases:
   - 18-06-04-kate-spade/
 _createdAt: '2018-06-06T10:51:17Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:05:59Z'
 date: '2018-06-06T10:51:17+00:00'
+lastmod: '2018-06-06T10:51:17+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,43 +25,37 @@ cards:
       effort that goes into it. Jump all the way in. Don’t be afraid. And don’t
       worry so much.’  
         
-        
-        
       Fashion designer Kate Spade speaking to People Magazine in 2016. Spade
       (55) was found dead in her apartment of an apparent suicide on June 5,
       2018.
 
 
       Flip For Her Story
-    citation: Flip For Her Story
     _key: card-1-4dcd0afd-2caa-4d03-af59-b684485128c4
   - order: 1
     body: >-
       ## Kate Spade: Bio
 
 
-      * Born inA **Kansas City, Missouri**.
+      * Born in **Kansas City, Missouri**.
 
       * Started her brand “Kate Spade” in 1993 with her **now-husband Andy
       Spade** (brother to the actor, David Spade) – **married 24 years**.
 
-      * 13-yr-old daughterA **Frances**.
+      * 13-yr-old daughter **Frances**.
 
       * Once worked in a motorcycle bar in Arizona & as an accessories editor at
       _Mademoiselle_ magazine.
 
 
       Flip: How They Made It
-    citation: 'Flip: How They Made It'
     _key: card-2-f3db3000-44ac-405b-8183-0b35540c8817
   - order: 2
     body: >-
-      > _“There were a lot of lean times — Mr. Spade cleaned out his 401K to buy
+      _“There were a lot of lean times — Mr. Spade cleaned out his 401K to buy
       fabric, and used money from his personal checking account to make payroll.
       During shipping season, the Spades stayed with friends because boxes of
       handbags were piled all over their bed.”_  
-        
-        
         
       New York Times interview, 1999. The couple launched the brand with $35,000
       & at the time of this interview the company was making millions.
@@ -80,7 +75,15 @@ cards:
       officially took the name “Kate **Valentine** Spade.”
     _key: card-4-f7f5585c-cbf7-4b09-84ba-1c1ce204dda9
   - order: 4
-    body: "> “I will say this was not unexpected by me. I’d flown out to Napa and NYC several times in the past 3-4 years to help her to get the treatment she needed (inpatient hospitalization). … She was a dear little person. So dear a\x14 so kind, so funny…I’m off to bed for a good cry.”  \n  \n  \n  \nReta Saffo, Kate Spade's older sister in an email to their hometown newspaper, The Kansas City Star. Saffo says her sister suffered from mental illness."
+    body: >-
+      > “I will say this was not unexpected by me. I’d flown out to Napa and NYC
+      several times in the past 3-4 years to help her to get the treatment she
+      needed (inpatient hospitalization). … She was a dear little person. So
+      dear, so kind, so funny…I’m off to bed for a good cry.”  
+        
+      Reta Saffo, Kate Spade's older sister in an email to their hometown
+      newspaper, The Kansas City Star. Saffo says her sister suffered from
+      mental illness.
     _key: card-5-c2b4caff-d495-4993-b389-66df5d0f9c47
   - order: 5
     body: >-

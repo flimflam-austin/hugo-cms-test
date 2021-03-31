@@ -2,14 +2,15 @@
 title: 18.06.11 China Mischief
 slug: 20180612-18-06-11-china-mischief
 _id: legacy-be235a45-4c1d-4973-a89d-cb4f93b43192
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: LotyrYkaRjTl0E452wYIjt
 type: quick_reads
 draft: false
 aliases:
   - 18-06-11-china-mischief/
 _createdAt: '2018-06-12T10:58:46Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:23:07Z'
 date: '2018-06-12T10:58:46+00:00'
+lastmod: '2018-06-12T10:58:46+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       What To Know
-    citation: What To Know
     _key: card-1-80b2fecd-9de6-4fb9-8e1d-e07a9e7ebded
   - order: 1
     body: >-

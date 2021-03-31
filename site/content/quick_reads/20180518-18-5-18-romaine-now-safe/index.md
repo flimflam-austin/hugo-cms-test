@@ -2,14 +2,15 @@
 title: 18.5.18 Romaine Now Safe
 slug: 20180518-18-5-18-romaine-now-safe
 _id: legacy-03dfd592-3d5a-4c12-b64c-955bc5134850
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: LotyrYkaRjTl0E452wVLSH
 type: quick_reads
 draft: false
 aliases:
   - 18-5-18-romaine-now-safe/
 _createdAt: '2018-05-18T09:33:35Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:21:00Z'
 date: '2018-05-18T09:33:35+00:00'
+lastmod: '2018-05-18T09:33:35+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,17 +35,14 @@ cards:
 
 
       FLIP: WHAT THE FDA SAYS
-    citation: 'FLIP: WHAT THE FDA SAYS'
     _key: card-1-18dfbb6b-5640-473f-9cad-6d4c4cf50aaf
   - order: 1
     body: >-
       ## Safe, But Still Questions…
 
 
-      >   
-        
-      **_‘The easy answers don’t explain this. We have to look at something
-      potentially different.’_**  
+      **_"The easy answers don’t explain this. We have to look at something
+      potentially different."_**  
 
       Dr. Stephen Ostroff, FDA
 
@@ -52,10 +50,10 @@ cards:
       * Harvest season for romaine lettuce, linked to the multi-state E. coli
       outbreak, is over.
 
-      * FDA says it’s **unlikely contaminated lettuce still for sale,**A due to
-      21-day shelf life.
+      * FDA says it’s unlikely contaminated lettuce still for sale due to 21-day
+      shelf life.
 
-      * **Source of E. Coli stillA unknown.**
+      * Source of E. Coli still unknown.
     _key: card-2-29bca89c-4f16-4108-a47d-227186da7632
   - order: 2
     body: >-

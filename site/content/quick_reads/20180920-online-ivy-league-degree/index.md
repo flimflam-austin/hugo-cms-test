@@ -2,14 +2,15 @@
 title: A First for an Ivy League School
 slug: 20180920-online-ivy-league-degree
 _id: legacy-c83848e3-b0a1-47c0-a913-6425c09ef38c
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 45Isps23253Yjlaq2D8D8I
 type: quick_reads
 draft: false
 aliases:
   - online-ivy-league-degree/
 _createdAt: '2018-09-20T11:59:28Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:20:06Z'
 date: '2018-09-20T11:59:28+00:00'
+lastmod: '2018-09-20T11:59:28+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Ivy League ...Online?
-    citation: Ivy League ...Online?
     _key: card-1-26f5970a-d9ed-4274-b8b9-bf23ecda4f8f
   - order: 1
     body: >-
@@ -52,10 +52,10 @@ cards:
     _key: card-2-8d3a8427-a8c5-4b6f-ac48-f6fbba523c57
   - order: 2
     body: >-
-      > ‘When you’re working and raising a family or you’re part of the sandwich
+      > "When you’re working and raising a family or you’re part of the sandwich
       generation, it really makes it very difficult to get through the 30 to 36
       courses needed to get an undergraduate degree. And it’s not terribly
-      affordable.’  
+      affordable."  
         
         
         

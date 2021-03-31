@@ -2,14 +2,15 @@
 title: 18.05.10 Quotes
 slug: 20180510-18-05-10-quotes
 _id: legacy-7c8a22f5-d424-46dd-9a01-24cf3694b863
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: LotyrYkaRjTl0E452wUceT
 type: quick_reads
 draft: false
 aliases:
   - 18-05-10-quotes/
 _createdAt: '2018-05-10T10:03:59Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-26T00:04:23Z'
 date: '2018-05-10T10:03:59+00:00'
+lastmod: '2018-05-10T10:03:59+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,8 +26,6 @@ cards:
 
       > **“I don’t believe torture works.”**  
         
-        
-        
       Gina Haspel, CIA Director nominee, during her May 9th Senate confirmation
       hearing. Afterwards, Sen. John McCain (R-AZ) issued a statement urging his
       colleagues to vote against her confirmation. Sen. McCain was detained
@@ -36,8 +35,6 @@ cards:
     body: >-
       > **‘Corporations want to pay for insight, advocacy & expertise on a White
       House. Michael offered that. He didn’t do anything wrong.”**  
-        
-        
         
       Sam Nurnberg, former Trump campaign aide, on allegations that Pres.
       Trump's personal lawyer Michael Cohen sold insight into the new president.
@@ -50,16 +47,14 @@ cards:
       driver, now I clean. What’s next? I cannot become a beggar.”**  
         
         
-        
       Ali Shoja, a cleaner who said he could not afford to support his family,
       on Iran's economy & and the hardship caused by sanctions to NYT.
     _key: card-3-e7db1156-e524-401b-8c71-3ac9cb8ca760
   - order: 3
     body: >-
-      > **‘This is huge. It’s a cost-effective measure that is going to reduce
+      > **"This is huge. It’s a cost-effective measure that is going to reduce
       greenhouse gas emissions and support growth in renewable clean
-      energy.’**  
-        
+      energy."**  
         
         
       Rachel Golden, Sierra Club Senior Campaign Representative, on California's

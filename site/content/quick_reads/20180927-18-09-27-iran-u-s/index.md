@@ -2,14 +2,15 @@
 title: u.s. & Iran
 slug: 20180927-18-09-27-iran-u-s
 _id: legacy-e516ad75-9a8d-4b41-9788-ea21c6027263
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 45Isps23253Yjlaq2D9La7
 type: quick_reads
 draft: false
 aliases:
   - 18-09-27-iran-u-s/
 _createdAt: '2018-09-27T12:31:50Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:39:30Z'
 date: '2018-09-27T12:31:50+00:00'
+lastmod: '2018-09-27T12:31:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,7 +28,6 @@ cards:
       Here’s the CliffsNotes on the last week of this complex relationship.
 
       Why It Matters
-    citation: Why It Matters
     _key: card-1-e8177157-14a8-4667-98b0-a2bd27b00c71
   - order: 1
     body: >-
@@ -72,8 +72,6 @@ cards:
       > “We are working with countries that import Iranian crude oil to cut
       their purchases substantially. We cannot allow the world’s leading sponsor
       of terrorism to possess the planet’s most dangerous weapons.”  
-        
-        
         
       Pres. Trump during UN address. America received pushback from China,
       France, U.K and Russia (the other signatories of the original nuclear

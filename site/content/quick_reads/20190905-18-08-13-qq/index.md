@@ -2,14 +2,15 @@
 title: 18.08.13 Qq
 slug: 20190905-18-08-13-qq
 _id: legacy-f504032e-097b-403e-b5a9-2d6a24395f95
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 45Isps23253Yjlaq2AyACs
 type: quick_reads
 draft: false
 aliases:
   - 18-08-13-qq/
 _createdAt: '2018-08-13T11:45:42Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-26T19:51:59Z'
 date: '2018-08-13T11:45:42+00:00'
+lastmod: '2018-08-13T11:45:42+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,8 +35,6 @@ cards:
     body: >-
       > “The place is going to burn.”  
         
-        
-        
       A text from Forrest Gordon Clark, suspected California arsonist, to Mike
       Milligan, Holy Jim Volunteer Fire Department Chief. The Holy fire has
       forced evacuations of 20,000 as it burns in two of California's most
@@ -45,10 +44,8 @@ cards:
     _key: card-2-d5d61b5f-6f72-4f02-a1ec-d49b9cd75010
   - order: 2
     body: >-
-      > ‘Monsanto made Roundup the OxyContin of pesticides, and now the
-      addiction and damage they caused have come home to roost.’  
-        
-        
+      "Monsanto made Roundup the OxyContin of pesticides, and now the addiction
+      and damage they caused have come home to roost."  
         
       Ken Cook, Environmental Working Group President, as a California jury
       awarded $289M to a former school groundskeeper who sued Monsanto saying

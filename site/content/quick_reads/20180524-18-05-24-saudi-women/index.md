@@ -2,14 +2,15 @@
 title: 18.05.24 Saudi Women
 slug: 20180524-18-05-24-saudi-women
 _id: legacy-bcab3476-618d-49c9-8c91-8c9026829242
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 0aCMfzqL0erea7otJs5o9t
 type: quick_reads
 draft: false
 aliases:
   - 18-05-24-saudi-women/
 _createdAt: '2018-05-24T10:16:24Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:42:19Z'
 date: '2018-05-24T10:16:24+00:00'
+lastmod: '2018-05-24T10:16:24+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       What's Going On
-    citation: What's Going On
     _key: card-1-8b978f71-4440-4566-b453-d3e7e501cfb2
   - order: 1
     body: >-
@@ -45,7 +45,6 @@ cards:
 
       [Click:
       Watch](https://twitter.com/SaudiEmbassyUSA/status/987824525894209536)
-    citation: 'Click: Watch'
     _key: card-2-0667eaf8-5116-48a1-9cc0-eb661b39ace1
   - order: 2
     body: >-

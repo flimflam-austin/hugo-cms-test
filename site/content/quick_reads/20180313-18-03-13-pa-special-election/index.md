@@ -2,14 +2,15 @@
 title: 18.03.13 Pa Special Election
 slug: 20180313-18-03-13-pa-special-election
 _id: legacy-831f7d2b-abae-4bed-b526-d9c86c2e8968
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: 45Isps23253Yjlaq285KEb
 type: quick_reads
 draft: false
 aliases:
   - 18-03-13-pa-special-election/
 _createdAt: '2018-03-13T11:05:08Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:20:28Z'
 date: '2018-03-13T11:05:08+00:00'
+lastmod: '2018-03-13T11:05:08+00:00'
 weight: 50
 card_series: Current Events
 colorpaletteclassname: '--light-purple'
@@ -27,8 +28,9 @@ cards:
       EVEN THOUGH the district will **disappear** after November’s election.
 
 
+
+
       FLIP HERE FOR WHY
-    citation: FLIP HERE FOR WHY
     _key: card-1-1905b985-edb7-4a06-966f-94c4ce985cc9
   - order: 1
     body: >-
@@ -43,7 +45,6 @@ cards:
 
       [Click for Video:
       Gerry-What?](https://www.cbsnews.com/news/drawing-the-lines-on-gerrymandering/)
-    citation: 'Click for Video: Gerry-What?'
     _key: card-2-a74f2e77-8284-430b-8fd6-88960322fa84
   - order: 2
     body: >-

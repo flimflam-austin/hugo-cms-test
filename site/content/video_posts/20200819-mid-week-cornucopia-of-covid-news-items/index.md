@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-08-19T16:24:59Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-08-19T16:24:59+00:00'
+lastmod: '2020-08-19T16:24:59+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     23640c299576ab5a375d9be1a099ff049fe5c7a4-1939x1657.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="0FvVKALdI2U" title="Mid-Week Cornucopia of COVID News Items" >}}

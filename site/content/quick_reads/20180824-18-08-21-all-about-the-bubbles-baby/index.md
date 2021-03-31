@@ -2,14 +2,15 @@
 title: All About the Bubbles Baby
 slug: 20180824-18-08-21-all-about-the-bubbles-baby
 _id: legacy-b6ffb3b7-628e-4092-8a17-185e141dc713
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 0aCMfzqL0erea7otJuzrcR
 type: quick_reads
 draft: false
 aliases:
   - 18-08-21-all-about-the-bubbles-baby/
 _createdAt: '2018-08-21T11:59:29Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:11:15Z'
 date: '2018-08-21T11:59:29+00:00'
+lastmod: '2018-08-21T11:59:29+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       What's old is new
-    citation: What's old is new
     _key: card-1-4e9fd180-0770-4bfe-9922-d2c65c02eba0
   - order: 1
     body: >-

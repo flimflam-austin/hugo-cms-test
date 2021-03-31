@@ -2,14 +2,15 @@
 title: 18.02.15 Numbers on School Shootings
 slug: 20180216-18-02-15-numbers-school-shootings
 _id: legacy-e22b6565-cb57-4494-b6eb-a2bde308360b
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: LotyrYkaRjTl0E452wN4JZ
 type: quick_reads
 draft: false
 aliases:
   - 18-02-15-numbers-school-shootings/
 _createdAt: '2018-02-16T13:00:50Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:46:27Z'
 date: '2018-02-16T13:00:50+00:00'
+lastmod: '2018-02-16T13:00:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -42,8 +43,9 @@ cards:
       accidentally, or no one is injured.
 
 
+
+
       [Click For Tweet](https://twitter.com/Everytown/status/963886128829992961)
-    citation: Click For Tweet
     _key: card-2-31ae53ad-bae0-47f5-affb-b4fe235fdf07
   - order: 2
     body: >-
@@ -72,7 +74,6 @@ cards:
 
       [CLICK for
       ARTICLE](https://www.washingtonpost.com/local/no-there-havent-been-18-school-shooting-in-2018-that-number-is-flat-wrong/2018/02/15/65b6cf72-1264-11e8-8ea1-c1d91fcec3fe_story.html?hpid=hp_hp-top-table-main_fla-debunk-525pm%3Ahomepage%2Fstory&utm_term=.c5b90cd9b13f)
-    citation: CLICK for ARTICLE
     _key: card-4-776af5b0-d79a-4b21-b92d-c56ae83cf411
   - order: 4
     body: >-
@@ -87,7 +88,7 @@ cards:
     _key: card-5-d307571f-4484-46cd-bb46-d24d6d509804
   - order: 5
     body: >-
-      # SmartHER says...read both sides. Numbers only do so much to tell a
+      ### SmartHER says...read both sides. Numbers only do so much to tell a
       story... Botton line: Parkland, Florida shooting is one of the deadliest
       in American history.
 

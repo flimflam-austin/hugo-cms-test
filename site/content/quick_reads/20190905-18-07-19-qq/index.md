@@ -2,14 +2,15 @@
 title: 18.07.19 Qq
 slug: 20190905-18-07-19-qq
 _id: legacy-c9ca5270-bf15-467b-9643-3917bd1a5bbd
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: 0aCMfzqL0erea7otJuWecl
 type: quick_reads
 draft: false
 aliases:
   - 18-07-19-qq/
 _createdAt: '2018-07-19T11:59:12Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T17:29:24Z'
 date: '2018-07-19T11:59:12+00:00'
+lastmod: '2018-07-19T11:59:12+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,7 +26,6 @@ cards:
       for a reason.”  
         
         
-        
       Walter Carr, a college student and U.S. Marine hopeful, who walked about
       20 miles to his first day of work at Bellhops Moving Company in Alabama.
       When his boss heard his story, he gifted him a car.
@@ -33,13 +33,11 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/RwR4shi_JoQ?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-d76d572d-ac42-4fe0-8e79-77c1a71017ed
   - order: 1
     body: >-
-      > ‘I had no strength at all. I didn’t think about food because it only
-      made me hungrier.’  
-        
+      > "I had no strength at all. I didn’t think about food because it only
+      made me hungrier."  
         
         
       Chanin Wibulroongreung, 11, as he and all of his Wild Boar teammates and
@@ -48,10 +46,9 @@ cards:
     _key: card-2-a8c67754-5c39-4e42-8539-d835531f178c
   - order: 2
     body: >-
-      > ‘Apparently, the insiders are in cahoots and the establishment doesn’t
+      > "Apparently, the insiders are in cahoots and the establishment doesn’t
       want to find out how many people don’t like the way California is being
-      governed,’  
-        
+      governed."  
         
         
       Tim Draper, after his proposition to split the state into 3 was blocked by
@@ -64,14 +61,12 @@ cards:
       > “I pray to God no other parent feels this pain.”  
         
         
-        
       Morgan Beck Miller in an Instagram post 37 days after the death of her
       daughter Emmy. Beck Miller and husband, Olympic skier Bode, lost their
       19-month-old daughter in a drowning accident at a neighbor’s house.
 
 
       [See the Post here](https://www.instagram.com/morganebeck/)
-    citation: See the Post here
     _key: card-4-a633e63d-3e59-4684-ad8e-6d28d1293269
   - order: 4
     body: '[view sources](https://smarthernews.com/18-07-19-qq/)'

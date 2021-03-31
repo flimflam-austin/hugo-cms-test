@@ -2,14 +2,15 @@
 title: 18.02.12 Open Debate in Senate
 slug: 20180213-18-02-12-open-debate-senate
 _id: legacy-d6ff17d3-b73b-492d-8384-48c4e0d4d7a6
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: 45Isps23253Yjlaq27xHE8
 type: quick_reads
 draft: false
 aliases:
   - 18-02-12-open-debate-senate/
 _createdAt: '2018-02-13T03:44:12Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:36:51Z'
 date: '2018-02-13T03:44:12+00:00'
+lastmod: '2018-02-13T03:44:12+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -35,14 +36,15 @@ cards:
       Senate *could* continue bipartisanship on immigration reform.
 
 
+
+
       Flip Card Here
-    citation: Flip Card Here
     _key: card-1-3f9c5adc-2923-4129-b37c-09dc69137e39
   - order: 1
     body: >-
-      > ‘We’re going to have something in the Senate that we haven’t had in a
+      > "We’re going to have something in the Senate that we haven’t had in a
       while. It’s a real debate on an issue where we really don’t know what the
-      outcome is going to be.’  
+      outcome is going to be."  
         
         
         
@@ -62,7 +64,6 @@ cards:
 
 
       Flip Here For DACA Cheat Sheet
-    citation: Flip Here For DACA Cheat Sheet
     _key: card-3-88937091-bef9-40c2-84bb-a8cf5aa28b63
   - order: 3
     body: >-

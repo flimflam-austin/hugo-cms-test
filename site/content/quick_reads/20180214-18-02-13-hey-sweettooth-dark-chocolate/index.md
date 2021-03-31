@@ -2,14 +2,15 @@
 title: 18.02.13 Hey Sweettooth Dark Chocolate
 slug: 20180214-18-02-13-hey-sweettooth-dark-chocolate
 _id: legacy-e5fbeec3-4978-4290-b1d0-b00665e2dec0
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: LotyrYkaRjTl0E452wMKMX
 type: quick_reads
 draft: false
 aliases:
   - 18-02-13-hey-sweettooth-dark-chocolate/
 _createdAt: '2018-02-14T12:00:26Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:40:09Z'
 date: '2018-02-14T12:00:26+00:00'
+lastmod: '2018-02-14T12:00:26+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,7 +23,7 @@ cards:
     body: >-
       Number To Know:  
 
-      22 ====================
+      22 
 
 
       **22 lbs** = Amount of candy Americans consume on average every year,
@@ -36,7 +37,6 @@ cards:
 
 
       Flip To Find Out
-    citation: Flip To Find Out
     _key: card-1-195882d1-2475-49e0-ab83-b3b917a4148d
   - order: 1
     body: >-

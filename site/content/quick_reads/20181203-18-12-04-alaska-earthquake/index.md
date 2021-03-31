@@ -2,14 +2,15 @@
 title: 18.12.04 Alaska Earthquake
 slug: 20181203-18-12-04-alaska-earthquake
 _id: legacy-dd448cc6-6b7b-465c-994d-197796bdab6a
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: 45Isps23253Yjlaq2DJppg
 type: quick_reads
 draft: false
 aliases:
   - 18-12-04-alaska-earthquake/
 _createdAt: '2018-12-04T03:31:29Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:47:20Z'
 date: '2018-12-04T03:31:29+00:00'
+lastmod: '2018-12-04T03:31:29+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/E5tM5aUmsbI?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-64d43c83-21fc-44c7-86f4-e0a736ff3461
   - order: 1
     body: >-

@@ -14,6 +14,7 @@ aliases:
 _createdAt: '2021-01-07T21:48:17Z'
 _updatedAt: '2021-03-22T13:12:19Z'
 date: '2021-01-07T21:48:17+00:00'
+lastmod: '2021-01-07T21:48:17+00:00'
 weight: 50
 is_breaking: false
 featured_quote:

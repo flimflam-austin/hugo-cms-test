@@ -2,14 +2,15 @@
 title: 18.07.17 Free Sunscreen
 slug: 20180725-18-07-17-free-sunscreen
 _id: legacy-fe50e744-7015-45b9-b07a-fa98920eb220
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 45Isps23253Yjlaq2AfCi4
 type: quick_reads
 draft: false
 aliases:
   - 18-07-17-free-sunscreen/
 _createdAt: '2018-07-25T11:53:07Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T17:43:31Z'
 date: '2018-07-25T11:53:07+00:00'
+lastmod: '2018-07-25T11:53:07+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Here's The Deal
-    citation: Here's The Deal
     _key: card-1-c54043cb-2506-4f6b-9b37-6c7dd0d13228
   - order: 1
     body: >-
@@ -73,11 +73,8 @@ cards:
 
       > “Many of the more than 5 million skin cancer cases that are diagnosed
       annually could be prevented by protecting skin from excessive sun exposure
-      and not using indoor tanning devices.”  
-        
-        
-        
-      American Cancer Society
+      and not using indoor tanning devices.”
+    citation: American Cancer Society
     _key: card-4-1d08aab1-6b4c-4071-8dc7-4a6f8d1fbd7b
   - order: 4
     body: >-

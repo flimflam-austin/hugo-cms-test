@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2019-05-30T16:05:14Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2019-05-30T16:05:14+00:00'
+lastmod: '2019-05-30T16:05:14+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     af617eba2c188b4b9a6a7a696d265adabe4af4f1-1024x894.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 It is not worth the while to go round the world to count the cats in Zanzibar. Yet do this even till you can do better, and you may perhaps find some Symmes” Hole by which to get at the inside at last. England and France, Spain and Portugal, Gold Coast and Slave Coast, all front on this private sea; but no bark from them has ventured out of sight of land, though it is without doubt the direct way to India. If you would learn to speak all tongues and conform to the customs of all nations, if you would travel farther than all travellers, be naturalized in all climes, and cause the Sphinx to dash her head against a stone, even obey the precept of the old philosopher, and Explore thyself. Herein are demanded the eye and the nerve. Only the defeated and deserters go to the wars, cowards that run away and enlist. Start now on that farthest western way, which does not pause at the Mississippi or the Pacific, nor conduct toward a worn-out China or Japan, but leads on direct a tangent to this sphere, summer and winter, day and night, sun down, moon down, and at last earth down too.

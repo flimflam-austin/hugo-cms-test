@@ -2,14 +2,15 @@
 title: Russia Launches Largest War Games Since the Cold War
 slug: 20180911-18-09-11-russian-war-games
 _id: legacy-fab07433-7f7c-45a3-880a-2e526f9d04e9
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 45Isps23253Yjlaq2D4kqy
 type: quick_reads
 draft: false
 aliases:
   - 18-09-11-russian-war-games/
 _createdAt: '2018-09-11T11:57:47Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T21:40:26Z'
 date: '2018-09-11T11:57:47+00:00'
+lastmod: '2018-09-11T11:57:47+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,19 +28,16 @@ cards:
       drills since The Cold War.  
         
         
-        
       And invites China to play.
 
 
       Why Now?
-    citation: Why Now?
     _key: card-1-1e1f37cd-3904-461b-9942-b9a6c4c5cda3
   - order: 1
     body: >-
       > “The giant drill is clearly meant as a show of strength by Vladimir
       Putin and his military, a demonstration that – despite Western sanctions,
       including against the defence sector – the country remains defiant.”  
-        
         
         
       Sarah Rainsford, BBC journalist in Moscow, who adds Russia views NATO as a

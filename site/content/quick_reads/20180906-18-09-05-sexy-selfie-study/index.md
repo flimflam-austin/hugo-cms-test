@@ -2,14 +2,15 @@
 title: Sexy Selfie Study
 slug: 20180906-18-09-05-sexy-selfie-study
 _id: legacy-c26b7a1d-994f-490c-afea-c4db14e5d4a4
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 0aCMfzqL0erea7otJxgEHo
 type: quick_reads
 draft: false
 aliases:
   - 18-09-05-sexy-selfie-study/
 _createdAt: '2018-09-06T12:00:15Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-27T21:32:58Z'
 date: '2018-09-06T12:00:15+00:00'
+lastmod: '2018-09-06T12:00:15+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,7 +26,6 @@ cards:
       > New research says we’re looking at sexy selfies all wrong.
 
       Flip: Bottom Line
-    citation: 'Flip: Bottom Line'
     _key: card-1-4941aa73-d49f-48b7-805f-fe38e5fd0286
   - order: 1
     body: >-
@@ -45,11 +45,10 @@ cards:
     _key: card-2-9ba42a46-cf2b-4415-88a5-90a504faa1fc
   - order: 2
     body: >-
-      > ‘So, when a young woman adjusts her bikini provocatively with her phone
+      > "So, when a young woman adjusts her bikini provocatively with her phone
       at the ready, don’t think of her as vacuous or as a victim. Think of her
       as a strategic player in a complex social and evolutionary game. She’s out
-      to maximise her lot in life, just like everyone.’  
-        
+      to maximise her lot in life, just like everyone."  
         
         
       Dr Khandis Blake, lead author, UNSW Science’s School of Biological, Earth

@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Tuesday, October 2
 slug: 20190905-18-10-02-qq
 _id: legacy-ed6ff12b-7651-4472-a23c-8cd3be5e706a
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 0aCMfzqL0erea7otJxvj65
 type: quick_reads
 draft: false
 aliases:
   - 18-10-02-qq/
 _createdAt: '2018-10-02T11:36:59Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:16:49Z'
 date: '2018-10-02T11:36:59+00:00'
+lastmod: '2018-10-02T11:36:59+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,8 +25,6 @@ cards:
       there. Without them, this medal wouldn’t have been possible, it’s truly a
       team effort.”  
         
-        
-        
       Medal of Honor recipient Ronald J. Shurer, an Army medic serving in
       Afghanistan in 2008 who ran into fire to treat teammates & take the fight
       to the enemy; no one died. Shurer now serves in the secret service &
@@ -33,11 +32,9 @@ cards:
     _key: card-1-229d03ed-0fe2-47ab-b6ee-c7ff65d4196d
   - order: 1
     body: >-
-      > ‘Many people are still strongly against the idea of retailers opening
+      > "Many people are still strongly against the idea of retailers opening
       their doors on Thanksgiving. Since Thanksgiving is all about family, a
-      majority of people believe stores should be closed on the day.’  
-        
-        
+      majority of people believe stores should be closed on the day."  
         
       Phillip Dengler, BestBlackFriday.com - a website that tracks Black Friday
       sales. According to their survey, a record number of 60 retailers have
@@ -50,8 +47,6 @@ cards:
       Kavanaugh’s nomination is out of committee. We’re considering it here on
       the floor. And we’ll be voting this week.”  
         
-        
-        
       Senate Majority Leader Mitch McConnell (R-KS) speaking on Senate floor
       about expected full Senate vote on Supreme Court nominee Judge Brett
       Kavanaugh. McConnell has not set a date or time; the FBI investigation is
@@ -59,10 +54,8 @@ cards:
     _key: card-3-a4a0a3cf-24a4-4782-808f-20d62b8f65b2
   - order: 3
     body: >-
-      > ‘We just ran. There were no sirens, no warning. Just the shaking and the
-      panic.’  
-        
-        
+      "We just ran. There were no sirens, no warning. Just the shaking and the
+      panic."  
         
       Nurdiyah Rasid who lived through a powerful earthquake and tsunami in
       Palu, Indonesia - a city of nearly 400,000 people; 1,200+ have died in the
@@ -73,10 +66,8 @@ cards:
     _key: card-4-f363fa8c-2981-4bda-b6d9-09c43e933517
   - order: 4
     body: >-
-      > “We listened to our critics, thought hard about what we wanted to do,
-      and decided we want to lead.”  
-        
-        
+      “We listened to our critics, thought hard about what we wanted to do, and
+      decided we want to lead.”  
         
       Amazon CEO Jeff Bezos announcing the company will now raise the minimum
       wage for its U.S. employees to $15/hour and advocates raising the federal

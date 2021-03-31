@@ -2,14 +2,15 @@
 title: 19.01.08 Coffee Talk
 slug: 20190108-19-01-08-coffee-talk
 _id: legacy-a9864602-2b39-4a2c-b52e-e7020fa15a06
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 45Isps23253Yjlaq2DKrIM
 type: quick_reads
 draft: false
 aliases:
   - 19-01-08-coffee-talk/
 _createdAt: '2019-01-08T17:36:09Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T01:06:46Z'
 date: '2019-01-08T17:36:09+00:00'
+lastmod: '2019-01-08T17:36:09+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,7 +28,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/oYVoT9Q6yqo?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-6d3a0bc9-37b4-439f-8a64-a13c3e233de2
   - order: 1
     body: |-

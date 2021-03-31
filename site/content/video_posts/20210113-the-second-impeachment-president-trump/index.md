@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2021-01-14T02:02:31Z'
 _updatedAt: '2021-03-22T13:12:00Z'
 date: '2021-01-14T02:02:31+00:00'
+lastmod: '2021-01-14T02:02:31+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     73dc34139f401dd7764dbea6b54e68e4e548adc9-857x1024.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="IHAEUyJ0emg" title="2nd Impeachment of Pres. Trump: What Happened, Why It Matters, What's Next" >}}

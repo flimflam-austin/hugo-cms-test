@@ -2,14 +2,15 @@
 title: 18.05.01 Quote Stack
 slug: 20180501-18-05-01-quote-stack
 _id: legacy-824f6169-6ba3-4de9-8200-c8f673dfb162
-_rev: O8E8pz1fLwnc3fN7JVF0RC
+_rev: 0aCMfzqL0erea7otJrwS5t
 type: quick_reads
 draft: false
 aliases:
   - 18-05-01-quote-stack/
 _createdAt: '2018-05-01T09:52:05Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:27:49Z'
 date: '2018-05-01T09:52:05+00:00'
+lastmod: '2018-05-01T09:52:05+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,8 +26,6 @@ cards:
 
       > **‘This will be the most expensive driving season since 2014.”**  
         
-        
-        
       Tom Kloza, Global Head of Energy Analysis at Oil Price Information Service
       (OPIS), to the Associated Press on April 30th. Climbing crude oil prices
       have pushed the U.S. daily national average for regular gasoline to $2.81
@@ -37,8 +36,6 @@ cards:
       > **“Only in Texas will you get a Gator and Whataburger in the same
       picture.”**  
         
-        
-        
       Chance Ward, "Alligator Wrangler" who worked with local law enforcement to
       get an alligator blocking traffic off US-59. Mr. Ward named the alligator
       "George" and released him 20 mi from a major highway.
@@ -46,7 +43,6 @@ cards:
 
       [Click:
       Video](https://www.facebook.com/100001386861557/videos/pcb.1783916161664595/1783877835001761/?type=3&theater)
-    citation: 'Click: Video'
     _key: card-2-c234b72c-93fe-483d-9314-e96c383594d5
   - order: 2
     body: >-
@@ -55,8 +51,6 @@ cards:
       other nations. I would like to see us recover our sense that we are more
       alike than different.’  
         
-        
-        
       Sen. John McCain (R-AZ) on his goals for his last term in office in an
       excerpt from his forthcoming book, ‘The Restless Wave: Good Times, Just
       Causes, Great Fights, and Other Appreciations.’ McCain, 81, is battling
@@ -64,11 +58,9 @@ cards:
     _key: card-3-d88d6800-0655-4b5c-b694-eb0d2b247633
   - order: 3
     body: >-
-      > **“It’s not about our salaries. Most teachers I know, they try to get
-      by, they live paycheck to paycheck. … we work ourselves to the bone trying
-      to do it because it matters.”**  
-        
-        
+      **“It’s not about our salaries. Most teachers I know, they try to get by,
+      they live paycheck to paycheck. … we work ourselves to the bone trying to
+      do it because it matters.”**  
         
       Stacy Masciangelo, an AZ high school teacher, to ABC News on Sunday about
       why she is striking alongside thousands of other educators in Arizona &

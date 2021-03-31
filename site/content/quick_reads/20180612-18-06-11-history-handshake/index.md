@@ -2,14 +2,15 @@
 title: 18.06.11 History of Handshake
 slug: 20180612-18-06-11-history-handshake
 _id: legacy-9b1b1e64-978f-4840-8f90-aa82c925d549
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: LotyrYkaRjTl0E452wYHW1
 type: quick_reads
 draft: false
 aliases:
   - 18-06-11-history-handshake/
 _createdAt: '2018-06-12T10:56:06Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:22:33Z'
 date: '2018-06-12T10:56:06+00:00'
+lastmod: '2018-06-12T10:56:06+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,7 +24,6 @@ cards:
       > Why Do We Shake Hands?
 
       Symbolism: Poignant
-    citation: 'Symbolism: Poignant'
     _key: card-1-da2cf895-224d-4906-ab78-24a7363ec4b0
   - order: 1
     body: >-
@@ -57,7 +57,6 @@ cards:
 
       [Click: Link To
       Study](https://www.smithsonianmag.com/smart-news/might-be-why-handshaking-evolved-180954472/)
-    citation: 'Click: Link To Study'
     _key: card-3-46cd857a-1577-4119-9f24-8b22ee7e1086
   - order: 3
     body: >-

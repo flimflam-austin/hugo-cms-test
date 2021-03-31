@@ -2,14 +2,15 @@
 title: White House Christmas Tree Lighting
 slug: 20191208-18-11-28-wh-christmas-tree-lighting
 _id: legacy-4db98951-16ae-4577-98ba-a13c870a3a39
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: 45Isps23253Yjlaq2DIB7S
 type: quick_reads
 draft: false
 aliases:
   - 18-11-28-wh-christmas-tree-lighting/
 _createdAt: '2018-11-28T13:35:49Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-28T00:37:40Z'
 date: '2018-11-28T13:35:49+00:00'
+lastmod: '2018-11-28T13:35:49+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -60,8 +61,6 @@ cards:
     body: >-
       > “I’m very proud of all of this. I’ve been proud since year one …. It’s
       the thing that we always brag about.”  
-        
-        
         
       Hargrove Inc. founder Earl Hargrove, Jr. to the Washington Post in 2006.
       Hargrove opened his event planning company with his father in 1946.

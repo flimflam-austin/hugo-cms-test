@@ -2,14 +2,15 @@
 title: 18.06.05 Right to Try
 slug: 20180606-18-06-05-right-try
 _id: legacy-169a32b8-ff1a-4efe-a283-d5bccce74f9e
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28QIZo
 type: quick_reads
 draft: false
 aliases:
   - 18-06-05-right-try/
 _createdAt: '2018-06-06T10:32:16Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:02:37Z'
 date: '2018-06-06T10:32:16+00:00'
+lastmod: '2018-06-06T10:32:16+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,11 +24,9 @@ cards:
       # A RIGHT TO TRY
 
 
-      > “… thousands of terminally ill Americans will finally have the help, the
+      “… thousands of terminally ill Americans will finally have the help, the
       hope, and the fighting chance … that they will be cured, that they will be
       helped, that they’ll be able to be with their families for a long time.”  
-        
-        
         
       Pres. Trump at the May 30 signing of the 'Right to Try' bill, aimed at
       helping the 1M+ terminally ill patients who die each year access drugs

@@ -2,14 +2,15 @@
 title: 18.02.15 the Skinny Brain
 slug: 20180215-18-02-15-skinny-brain
 _id: legacy-f1d9333b-3af8-4ef4-8ae7-69b78694ad9f
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: LotyrYkaRjTl0E452wMOrF
 type: quick_reads
 draft: false
 aliases:
   - 18-02-15-skinny-brain/
 _createdAt: '2018-02-15T01:00:14Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:41:17Z'
 date: '2018-02-15T01:00:14+00:00'
+lastmod: '2018-02-15T01:00:14+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,9 +24,6 @@ cards:
       Mind Games
 
 
-      =============
-
-
       Can’t Lose Weight?  
 
       Blame Your Brain
@@ -36,7 +34,6 @@ cards:
 
 
       Flip For More
-    citation: Flip For More
     _key: card-1-f5d12350-f34f-47f2-959d-78bfd9cde954
   - order: 1
     body: >-

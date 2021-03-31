@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Your Weekend Reading
 slug: 20190905-quick-quotes-for-your-weekend-reading
 _id: legacy-1e059157-be11-4d79-a18d-46d73b2df339
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 0aCMfzqL0erea7otJxv9p5
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-for-your-weekend-reading/
 _createdAt: '2018-09-29T03:18:03Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:09:22Z'
 date: '2018-09-29T03:18:03+00:00'
+lastmod: '2018-09-29T03:18:03+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,11 +21,9 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     body: >-
-      > ‘I’ve ordered the FBI to conduct a supplemental investigation to update
+      > "I’ve ordered the FBI to conduct a supplemental investigation to update
       Judge Kavanaugh’s file. As the Senate has requested, this update must be
-      limited in scope and completed in less than one week.’  
-        
-        
+      limited in scope and completed in less than one week."  
         
       Pres. Trump following the Senate Judiciary Cmte's request that he direct
       the FBI to update its investigation into Kavanaugh. The cmte's request
@@ -36,8 +35,6 @@ cards:
       > “Secretary of State Michael R. Pompeo has made the determination to
       place Consulate Basrah on ordered departure.”  
         
-        
-        
       An announcement by the U.S. State Dept that America closed its consulate
       in Basra, Iraq - the same building targeted by Iran rockets earlier this
       month. Public protests against the Iraqi govt officials & their Iranian
@@ -46,10 +43,9 @@ cards:
     _key: card-2-4909042c-e387-42b4-b4f9-1d0ae625f58f
   - order: 2
     body: >-
-      > ‘With Iran’s oil essentially out of reach, gas prices may not see the
+      > "With Iran’s oil essentially out of reach, gas prices may not see the
       typical decline we had been expecting. That’s not going to be good news
       for motorists.”  
-        
         
         
       Patrick Dehaan, Head of Petroleum Analysis for Gasbuddy.com - a site that
@@ -60,8 +56,7 @@ cards:
   - order: 3
     body: >-
       > “This is a really serious security issue. And we’re taking it really
-      seriously.’  
-        
+      seriously."  
         
         
       Facebook CEO Mark Zuckerberg reacting to the company's latest security
@@ -72,10 +67,8 @@ cards:
     _key: card-4-c545db7f-2d7a-4063-ab81-0ed23d79df45
   - order: 4
     body: >-
-      > ‘They are part of our family, and their care needs to be a consideration
-      during divorce proceedings.’  
-        
-        
+      > "They are part of our family, and their care needs to be a consideration
+      during divorce proceedings."  
         
       Assemblymember Bill Quirk (D-Hayward) who was behind new legislation just
       signed into law in Calfiornia that puts pets more in the category of

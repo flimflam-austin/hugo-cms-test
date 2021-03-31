@@ -2,14 +2,15 @@
 title: 18.05.08 Quick Quotes May 8
 slug: 20180508-18-05-08-quick-quotes-may-8
 _id: legacy-303ff78a-2a31-46f9-9a42-0e26866d5028
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: LotyrYkaRjTl0E452wTj5J
 type: quick_reads
 draft: false
 aliases:
   - 18-05-08-quick-quotes-may-8/
 _createdAt: '2018-05-08T10:25:45Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:46:32Z'
 date: '2018-05-08T10:25:45+00:00'
+lastmod: '2018-05-08T10:25:45+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,8 +26,6 @@ cards:
 
       > **“I am Trumpier than Trump.”**  
         
-        
-        
       WV GOP Senate candidate Don Blankenship, May 7, 2018 response to a tweet
       by Pres. Trump urging voters to support his opponents. Blankenship, a
       former coal executive, spent a year in federal prison - convicted of
@@ -38,22 +37,18 @@ cards:
       > **“Let us teach our children the difference between right and wrong, and
       encourage them to be best in their individual paths in life.”**  
         
-        
-        
       First Lady Melania Trump, announcing her "Be Best" initiative, aimed at
       improving children's lives by focusing on social media use & opioid abuse.
 
 
       [Watch
       Now](https://www.youtube.com/embed/F2awD02xit8?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-09e7275b-1182-4bd1-9bfd-952960385035
   - order: 2
     body: >-
       > **“We think that what you can do is be tougher on Iran, address the
       concerns of the president and not throw the baby out with the bath
       water.”**  
-        
         
         
       UK Foreign Secretary Boris Johnson on "Fox & Friends", cautioning Pres.
@@ -65,7 +60,6 @@ cards:
     body: >-
       > **“Russia should be modern and dynamic, it should be ready to accept the
       call of the times.”**  
-        
         
         
       Vladimir Putin, May 7, 2018, Kremlin ceremony kicking off his fourth

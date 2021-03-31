@@ -2,14 +2,15 @@
 title: 18.08.09 Alex Jones
 slug: 20180809-18-08-09-alex-jones
 _id: legacy-316b1dfb-39a2-4a62-94ed-b16090d6b746
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: 0aCMfzqL0erea7otJuue1G
 type: quick_reads
 draft: false
 aliases:
   - 18-08-09-alex-jones/
 _createdAt: '2018-08-09T11:57:28Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:42:54Z'
 date: '2018-08-09T11:57:28+00:00'
+lastmod: '2018-08-09T11:57:28+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -19,7 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
-    body: "“Free Speech”  \nInfo War?\n\n============================\n\n> a\x18Infowars’A founder Alex Jones faces several defamation lawsuits, while social media platforms remove some of his content. When is opinion no longer FREE SPEECH?"
+    body: "“Free Speech”  \nInfo War?\n\n> a\x18Infowars’A founder Alex Jones faces several defamation lawsuits, while social media platforms remove some of his content. When is opinion no longer FREE SPEECH?"
     _key: card-1-92bf8430-47a8-48cb-a4b5-119b04e100ec
   - order: 1
     body: >-
@@ -36,7 +37,6 @@ cards:
 
 
       A LOOK AT THE LAW
-    citation: A LOOK AT THE LAW
     _key: card-2-29fa032e-da6b-4a36-ba32-f301f2f25061
   - order: 2
     body: >-
@@ -53,7 +53,7 @@ cards:
 
       * Words likely to incite a breach of peace / violence
 
-      * **Defamatory statementsA**
+      * **Defamatory statements**
     _key: card-3-2dc1a3d2-97d8-4f6b-b3b8-ec817c1b095c
   - order: 3
     body: >-

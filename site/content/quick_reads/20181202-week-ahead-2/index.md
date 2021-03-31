@@ -2,14 +2,15 @@
 title: 18.12.2 Week Ahead
 slug: 20181202-week-ahead-2
 _id: legacy-0b277bda-7333-45cd-90c0-e5bb004239bb
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: LotyrYkaRjTl0E452yjRA5
 type: quick_reads
 draft: false
 aliases:
   - week-ahead-2/
 _createdAt: '2018-12-02T23:52:51Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:44:09Z'
 date: '2018-12-02T23:52:51+00:00'
+lastmod: '2018-12-02T23:52:51+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,7 +24,6 @@ cards:
       SmartHER News Week Ahead
 
       Dec 2 - 9
-    citation: Dec 2 - 9
     _key: card-1-bd9a3c97-8235-44ce-a65a-3e57cb65d535
   - order: 1
     body: |-

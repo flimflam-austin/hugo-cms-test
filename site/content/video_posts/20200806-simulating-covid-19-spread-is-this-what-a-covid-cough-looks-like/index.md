@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-08-06T12:51:21Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-08-06T12:51:21+00:00'
+lastmod: '2020-08-06T12:51:21+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     81ace01cbb1530029ae3528209217b08978cd60d-1024x576.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="JCg7JqVImA4" title="Simulating COVID-19 Spread: Is This What A COVID Cough Looks Like?" >}}

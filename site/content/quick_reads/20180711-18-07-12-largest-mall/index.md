@@ -2,14 +2,15 @@
 title: 18.07.12 Largest Mall
 slug: 20180711-18-07-12-largest-mall
 _id: legacy-4efc14cc-d808-42e5-9f5a-e44f6ea17271
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 0aCMfzqL0erea7otJsGu4J
 type: quick_reads
 draft: false
 aliases:
   - 18-07-12-largest-mall/
 _createdAt: '2018-07-12T10:00:24Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:22:11Z'
 date: '2018-07-12T10:00:24+00:00'
+lastmod: '2018-07-12T10:00:24+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Attention shoppers!
-    citation: Attention shoppers!
     _key: card-1-53a2e438-3d71-42c8-831e-67fcc003645a
   - order: 1
     body: >-

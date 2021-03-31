@@ -2,14 +2,15 @@
 title: 18.06.11 Quick Quotes
 slug: 20190905-18-06-11-quick-quotes
 _id: legacy-ca36c61f-9cd4-4a2d-8bbe-cc6c98f3000c
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: 45Isps23253Yjlaq28RH9w
 type: quick_reads
 draft: false
 aliases:
   - 18-06-11-quick-quotes/
 _createdAt: '2018-06-11T10:43:08Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T01:12:54Z'
 date: '2018-06-11T10:43:08+00:00'
+lastmod: '2018-06-11T10:43:08+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,8 +23,6 @@ cards:
     body: >-
       > “We’re the piggy bank that everybody’s robbing, and that ends.”  
         
-        
-        
       President Trump speaking Saturday at the G-7 summit in Quebec on trade
       issues with allies. He warned retaliatory tariffs - which countries
       threatened - would be a mistake. Trump also surprised by suggesting the
@@ -35,8 +34,6 @@ cards:
       > “Nobody started talking about a meeting between Kim Jong Un and
       President Trump until we suggested it at the Olympics.”  
         
-        
-        
       Dennis Alan, Pres. Trump impersonator to Associated Press. Alan and Kim
       Jong Un impersonator, Lee Howard Ho Wun aka "Howard X" traveled to
       Singapore. Their resemblance to the 2 leaders IS uncanny.
@@ -44,15 +41,12 @@ cards:
 
       [Click Here To
       See](http://www.foxnews.com/travel/2018/06/08/singapore-airport-detains-kim-jong-un-impersonator-on-arrival.html)
-    citation: Click Here To See
     _key: card-2-700835c2-a33c-4c5d-a8bb-b07f251d97f0
   - order: 2
     body: >-
       > “To me, he was a warm person, and you liked to spend time with him
       because he was interested. He wanted to talk about me and my home … he
-      just didn’t talk about himself and his interest in food.’  
-        
-        
+      just didn’t talk about himself and his interest in food."  
         
       92-year-old Marilyn Hagerty describing Anthony Bourdain, who took his own
       life last week. Bourdain published a book of Hagerty's food reviews as a
@@ -61,9 +55,9 @@ cards:
     _key: card-3-36a4d701-ddfc-41ba-9f8e-c5b22cff469c
   - order: 3
     body: >-
-      > ‘Good deeds come back to help you, and bad deeds come back to haunt
+      > "Good deeds come back to help you, and bad deeds come back to haunt
       you….It felt good to give it to them…They said it restored their faith in
-      humanity.’  
+      humanity."  
         
         
         

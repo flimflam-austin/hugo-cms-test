@@ -2,14 +2,15 @@
 title: 18.06.15 Quick Quotes
 slug: 20190905-18-06-15-quick-quotes
 _id: legacy-53f051c6-a836-4e94-a67b-f8aca5a9d2fd
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: LotyrYkaRjTl0E452wYj0n
 type: quick_reads
 draft: false
 aliases:
   - 18-06-15-quick-quotes/
 _createdAt: '2018-06-15T10:28:34Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T01:35:16Z'
 date: '2018-06-15T10:28:34+00:00'
+lastmod: '2018-06-15T10:28:34+00:00'
 weight: 50
 card_series: Quotes
 colorpaletteclassname: '--light-green'
@@ -20,7 +21,6 @@ cards:
       their sexual behavior & their drug use.”  
         
         
-        
       CDC's Kathleen Ethier on its new survey which found fewer teens are having
       sex & using drugs. Disturbingly, however, it found increases in
       experiences of persistent feelings of sadness, hopelessness & suicide
@@ -29,15 +29,12 @@ cards:
 
       [CLICK: TO READ
       REPORT](https://www.cdc.gov/media/releases/2018/p0614-yrbs.html)
-    citation: 'CLICK: TO READ REPORT'
     _key: card-1-bd4d9efd-d12e-4479-bbf6-33763d986b9a
   - order: 1
     body: >-
       > “As our investigation reveals, the Trump Foundation was little more than
       a checkbook for payments from Mr. Trump or his business to nonprofits,
       regardless of their purpose or legality.”  
-        
-        
         
       NY Attorney General Barbara Underwood on state's decision to sue the Trump
       Foundation & its directors, the President, his sons Eric & Donald Jr. and
@@ -46,9 +43,7 @@ cards:
     _key: card-2-f4bf63d3-f109-4e18-b60d-b149c95874b8
   - order: 2
     body: >-
-      > “We’re taking a bet on a guy who doesn’t like to fail.”  
-        
-        
+      “We’re taking a bet on a guy who doesn’t like to fail.”  
         
       Chicago Mayor Rahm Emanuel after selecting Elon Musk's Boring company to
       build an underground high-speed rail line from downtown Chicago to O’Hare
@@ -59,14 +54,11 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/tfV8z2JY_bI?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-3-ed44fc92-8652-4490-8a9d-c9233a47ae89
   - order: 3
     body: >-
-      > “She was a pioneer and icon in the women’s game & made a profound and
+      “She was a pioneer and icon in the women’s game & made a profound and
       lasting impact at all levels as a player, coach, colleague & friend.”  
-        
-        
         
       Val Ackerman, the WNBA’s first president, on the death of Hall of Famer &
       Olympic Gold Medalist Anne Donovan. The 6-foot-8 center coached both in

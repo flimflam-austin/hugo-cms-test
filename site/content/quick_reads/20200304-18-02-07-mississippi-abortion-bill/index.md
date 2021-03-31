@@ -2,14 +2,15 @@
 title: 18.02.07 Mississippi Abortion Bill
 slug: 20200304-18-02-07-mississippi-abortion-bill
 _id: legacy-7b54ba7f-cbca-456f-a2c6-f7e031c411e3
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: 45Isps23253Yjlaq284aJk
 type: quick_reads
 draft: false
 aliases:
   - 18-02-07-mississippi-abortion-bill/
 _createdAt: '2018-03-09T11:59:58Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-25T22:14:55Z'
 date: '2018-03-09T11:59:58+00:00'
+lastmod: '2018-03-09T11:59:58+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,7 +35,6 @@ cards:
 
 
       Flip For More
-    citation: Flip For More
     _key: card-1-ccba95f9-3b10-479e-a391-ba6cea6a89c2
   - order: 1
     body: >-
@@ -53,7 +53,6 @@ cards:
 
 
       Flip For Context
-    citation: Flip For Context
     _key: card-2-77779b92-c27d-4005-bc59-92a242efa887
   - order: 2
     body: >-

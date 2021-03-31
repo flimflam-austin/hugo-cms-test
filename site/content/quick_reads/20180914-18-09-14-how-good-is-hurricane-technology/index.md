@@ -2,14 +2,15 @@
 title: New Forecasting Tools Save Lives
 slug: 20180914-18-09-14-how-good-is-hurricane-technology
 _id: legacy-9b832b45-eb5b-4c46-9938-08a0b1fc15a8
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 45Isps23253Yjlaq2D6O4c
 type: quick_reads
 draft: false
 aliases:
   - 18-09-14-how-good-is-hurricane-technology/
 _createdAt: '2018-09-14T12:18:11Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T21:50:12Z'
 date: '2018-09-14T12:18:11+00:00'
+lastmod: '2018-09-14T12:18:11+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,7 +28,6 @@ cards:
       How new technology works to save American families.
 
       How It Works
-    citation: How It Works
     _key: card-1-56fe313e-5b7e-494d-bece-8217a4c236d5
   - order: 1
     body: >-

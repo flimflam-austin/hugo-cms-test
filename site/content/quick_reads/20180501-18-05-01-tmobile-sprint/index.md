@@ -2,14 +2,15 @@
 title: 18.05.01 Tmobile Sprint
 slug: 20180501-18-05-01-tmobile-sprint
 _id: legacy-14d6955a-66ac-419e-9287-8fbf197f6ca0
-_rev: O8E8pz1fLwnc3fN7JVF0RC
+_rev: 45Isps23253Yjlaq28DiFo
 type: quick_reads
 draft: false
 aliases:
   - 18-05-01-tmobile-sprint/
 _createdAt: '2018-05-01T09:51:10Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:26:43Z'
 date: '2018-05-01T09:51:10+00:00'
+lastmod: '2018-05-01T09:51:10+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,22 +32,17 @@ cards:
 
 
       THIRD TIME THE CHARM?
-    citation: THIRD TIME THE CHARM?
     _key: card-1-88c2ecc1-9297-449b-885b-4b302e194a40
   - order: 1
     body: >-
-      > **What’s different this time?**  
+      **What’s different this time?**  
 
       Their sales pitch: merger makes the U.S. beat China on 5G wireless
       (ultra-fast internet).  
         
-        
-        
       **Why would that plan work?**  
 
       Trump Admin shown 5G is a priority.  
-        
-        
         
       **Not everybody is buying it…**  
 
@@ -74,22 +70,21 @@ cards:
       prices.
 
 
+
+
       FLIP: opposing takes
-    citation: 'FLIP: opposing takes'
     _key: card-3-85b32e4d-6f00-4c7d-bc39-11490a6bd266
   - order: 3
     body: >-
-      > _‘Combination will not only result in less choice for consumers, it will
+      _"Combination will not only result in less choice for consumers, it will
       provide greater incentive for the 3 remaining companies to act in
       concert.”_  
 
       **Gigi Sohn, Georgetown Law Inst.**  
         
         
-        
-        
-      _‘I think this deal is good for consumers. …T-Mobile led this aggressive,
-      consumer-focused charge… (rivals have) been forced to follow suit.’_  
+      _"I think this deal is good for consumers. …T-Mobile led this aggressive,
+      consumer-focused charge… (rivals have) been forced to follow suit."_  
 
       **Jonathan Chaplin, New Street Research**
     _key: card-4-c2e1a191-3708-47dc-9cb4-28bab44fd005

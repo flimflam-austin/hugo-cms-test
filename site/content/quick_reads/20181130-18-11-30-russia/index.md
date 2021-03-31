@@ -2,14 +2,15 @@
 title: Russia Recap
 slug: 20181130-18-11-30-russia
 _id: legacy-4cf29275-5900-4a63-b1d5-65f49fceb4cc
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: 45Isps23253Yjlaq2DIT2Q
 type: quick_reads
 draft: false
 aliases:
   - 18-11-30-russia/
 _createdAt: '2018-11-30T13:00:34Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:41:53Z'
 date: '2018-11-30T13:00:34+00:00'
+lastmod: '2018-11-30T13:00:34+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
       Russia finds itself at the center of several controversial stories.
 
       Why It Matters
-    citation: Why It Matters
     _key: card-1-54ee060f-1c30-41ff-ac7d-55bae30bf104
   - order: 1
     body: >-

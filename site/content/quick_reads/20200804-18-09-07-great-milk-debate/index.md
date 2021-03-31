@@ -2,14 +2,15 @@
 title: The Great Milk Debate
 slug: 20200804-18-09-07-great-milk-debate
 _id: legacy-5377efec-9458-49aa-8a22-02f292e651a9
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: LotyrYkaRjTl0E452yb7FV
 type: quick_reads
 draft: false
 aliases:
   - 18-09-07-great-milk-debate/
 _createdAt: '2018-09-07T11:57:23Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-27T21:35:29Z'
 date: '2018-09-07T11:57:23+00:00'
+lastmod: '2018-09-07T11:57:23+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,16 +26,13 @@ cards:
       > **Think again.**  
         
         
-        
       The fascinating (& heated) fight over who can call what “milk.”
 
       Why It Matters
-    citation: Why It Matters
     _key: card-1-13417175-3f76-4780-93b9-3cd0dca68ed7
   - order: 1
     body: >-
       > “An almond doesn’t lactate.”  
-        
         
         
       Commissioner Scott Gottleib addressing food labels and the term "milk" -
@@ -45,7 +43,6 @@ cards:
 
       [Click:
       Watch](https://www.politico.com/video/2018/07/17/fda-commissioner-on-milk-regulation-an-almond-doesnt-lactate-067140)
-    citation: 'Click: Watch'
     _key: card-2-37f823ce-9613-4ac2-a6c1-7aa99eb1ed7a
   - order: 2
     body: >-

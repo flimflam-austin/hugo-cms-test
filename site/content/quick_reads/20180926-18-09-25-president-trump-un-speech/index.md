@@ -2,14 +2,15 @@
 title: President Trump's Un Speech
 slug: 20180926-18-09-25-president-trump-un-speech
 _id: legacy-db4460b1-b039-4dc0-8746-126765e0ba14
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 0aCMfzqL0erea7otJxmWS4
 type: quick_reads
 draft: false
 aliases:
   - 18-09-25-president-trump-un-speech/
 _createdAt: '2018-09-26T11:45:27Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:38:35Z'
 date: '2018-09-26T11:45:27+00:00'
+lastmod: '2018-09-26T11:45:27+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -60,7 +61,6 @@ cards:
       world, and I don’t like it. Nobody should like it. We defend many of these
       nations for nothing, and then they take advantage of us by giving us high
       oil prices. **Not good.**“  
-        
         
         
       Pres. Trump referred to America as the largest energy producer anywhere on

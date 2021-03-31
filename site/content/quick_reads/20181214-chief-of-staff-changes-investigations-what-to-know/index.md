@@ -2,14 +2,15 @@
 title: What's Happening at the White House?
 slug: 20181214-chief-of-staff-changes-investigations-what-to-know
 _id: legacy-68d7f540-6b4d-4952-8187-875a7a2f0038
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 0aCMfzqL0erea7otJxzyS7
 type: quick_reads
 draft: false
 aliases:
   - chief-of-staff-changes-investigations-what-to-know/
 _createdAt: '2018-12-10T13:14:43Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T01:00:57Z'
 date: '2018-12-10T13:14:43+00:00'
+lastmod: '2018-12-10T13:14:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,7 +23,7 @@ cards:
     body: >-
       What’s Happening At  
 
-      The White House? ======================================
+      The White House? 
 
 
       President Trump announces a staffing change as questions swirl about
@@ -30,11 +31,9 @@ cards:
 
 
       Why It matters
-    citation: Why It matters
     _key: card-1-320ed9fe-1a91-438a-b936-c04114fc5696
   - order: 1
-    body: "> ‘John Kelly will be leaving a\x14 I don’t know if I can say a\x18retiring.’ But, he’s a great guy.”  \n  \n  \n  \nPres. Trump speaking to the press about Chief of Staff John Kelly's departure. The fmr. Marine 4-star general, started w/the administration as Sec. of Homeland Security & became Chief of Staff in July 2017. Kelly’s son was killed in Afghanistan. During a notable moment of his tenure, he described what happens when a solider dies at war.\n\n[Watch Now](https://www.youtube.com/embed/At1hOCEIwE8?enablejsapi=1&autoplay=1&rel=0)"
-    citation: Watch Now
+    body: "\"John Kelly will be leaving I don’t know if I can say\x18retiring.’ But, he’s a great guy.”  \n  \n  \nPres. Trump speaking to the press about Chief of Staff John Kelly's departure. The fmr. Marine 4-star general, started w/the administration as Sec. of Homeland Security & became Chief of Staff in July 2017. Kelly’s son was killed in Afghanistan. During a notable moment of his tenure, he described what happens when a solider dies at war.\n\n[Watch Now](https://www.youtube.com/embed/At1hOCEIwE8?enablejsapi=1&autoplay=1&rel=0)"
     _key: card-2-30aeb2f4-500e-4fc8-994a-1507a0198533
   - order: 2
     body: >-
@@ -74,11 +73,8 @@ cards:
       > _“The high-profile hiring search comes at a pivotal time as the
       president looks to prepare his White House for the twin challenges of
       securing his re-election and fending off inquiries once Democrats gain
-      control of the House next year.”_  
-        
-        
-        
-      Associated Press
+      control of the House next year.”_
+    citation: Associated Press
     _key: card-5-e944f996-7de3-4aad-9614-4742cb808dd6
   - order: 5
     body: >-

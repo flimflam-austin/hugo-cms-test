@@ -2,14 +2,15 @@
 title: 18.06.26 Qq
 slug: 20190905-18-06-26-qq
 _id: legacy-2339f98c-051b-4752-9f05-4db356ad0c1a
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: 0aCMfzqL0erea7otJsETo0
 type: quick_reads
 draft: false
 aliases:
   - 18-06-26-qq/
 _createdAt: '2018-06-26T10:56:31Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T01:53:58Z'
 date: '2018-06-26T10:56:31+00:00'
+lastmod: '2018-06-26T10:56:31+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,18 +26,15 @@ cards:
       with her politics and I thought she was white. I did not know she was a
       black woman… Of course I am not a racist, I’m an idiot.”  
         
-        
-        
       Roseanne Barr, in her first interview after ABC cancelled the 'Roseanne'
       reboot due to her racist tweet about Jarrett.
 
 
       [HEAR INTERVIEW
       HERE](https://soundcloud.com/user-642636263/episode-1-roseanne-barr)
-    citation: HEAR INTERVIEW HERE
     _key: card-1-5e7c39d0-144c-4dec-8b57-5e51f0487297
   - order: 1
-    body: "> ‘I’m really grateful to Joe a\x13 a little bit of a sore rib for a couple of weeks is no big deal.”  \n  \n  \n  \nSenator Claire McCaskill (D-MO) joked she was avoiding hugs after fellow Senator Joe Manchin (D-WV) broke a rib while saving her with the Heimlich maneuver while she was choking. Manchin & McCaskill are seen as 2 of the most vulnerable Sen Dems up for reelection this year, after Pres. Trump won both states by a landslide."
+    body: "> \"I’m really grateful to Joe a\x13 a little bit of a sore rib for a couple of weeks is no big deal.”  \n  \nSenator Claire McCaskill (D-MO) joked she was avoiding hugs after fellow Senator Joe Manchin (D-WV) broke a rib while saving her with the Heimlich maneuver while she was choking. Manchin & McCaskill are seen as 2 of the most vulnerable Sen Dems up for reelection this year, after Pres. Trump won both states by a landslide."
     _key: card-2-6fa79ade-aabf-42bd-aaee-407cca135864
   - order: 2
     body: >-
@@ -45,8 +43,6 @@ cards:
       you push back on them, and you tell them they’re not welcome anymore,
       anywhere.’  
         
-        
-        
       Rep. Maxine Waters (D-CA) during a speech at a Keep Families Together
       rally, calling on the crowd to confront Trump administration officials
       over the zero-tolerance immigration policy.
@@ -54,15 +50,12 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/-1Fu3g1MGHY?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-3-934cc6f5-e366-495e-bb70-194a47e677cd
   - order: 3
     body: >-
       > “As one person said, he can do just about anything except make you a
       martini, but not to worry, he can go get you someone to make you a
       martini!”  
-        
-        
         
       Pres. George H.W. Bush's spokesman Jim McGrath on the Bush Sr.'s new
       yellow Labrador service dog. The dog, named "Sully HW Bush", after hero
@@ -75,17 +68,14 @@ cards:
       psychological freak, a psychopath, an abnormal mind who should have not
       been elected as president of our civilized and Christian nation.”  
         
-        
-        
       Arturo Bastes, a Catholic Bishop, responding to Philippine President
       Rodrigo Duterte's latest controversial remarks calling god "stupid" in a
       speech about Adam & Eve's original sin.
     _key: card-5-ca48a5fc-e205-4aec-976d-23e2874e0023
   - order: 5
     body: >-
-      > ‘Women understand a little better their collective power, and they’re
-      using it.’  
-        
+      > "Women understand a little better their collective power, and they’re
+      using it."  
         
         
       Davia Temin, President & CEO of Temin & Co, a crisis management firm.

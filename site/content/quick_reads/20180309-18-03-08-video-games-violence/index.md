@@ -2,14 +2,15 @@
 title: 18.03.08 Video Games and Violence
 slug: 20180309-18-03-08-video-games-violence
 _id: legacy-0c43c613-3eed-4513-9bb2-2284aa02ec1a
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: 0aCMfzqL0erea7otJrmqrF
 type: quick_reads
 draft: false
 aliases:
   - 18-03-08-video-games-violence/
 _createdAt: '2018-03-09T11:58:14Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:14:26Z'
 date: '2018-03-09T11:58:14+00:00'
+lastmod: '2018-03-09T11:58:14+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,7 +35,6 @@ cards:
 
 
       Flip Here
-    citation: Flip Here
     _key: card-1-562708df-2039-4b38-8e4d-e0a6ceb88b1a
   - order: 1
     body: >-
@@ -49,7 +49,6 @@ cards:
 
       [Click HERE-Full
       Article](http://www.miamiherald.com/news/local/community/broward/article200754714.html)
-    citation: Click HERE-Full Article
     _key: card-2-3b1211f3-6613-4300-9f70-84d9a1c0eb7a
   - order: 2
     body: >-

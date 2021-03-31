@@ -2,14 +2,15 @@
 title: 18.07.01 Qq
 slug: 20190905-18-07-01-qq
 _id: legacy-b36da108-5439-4339-aa46-0792faa2b60b
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: 45Isps23253Yjlaq28Xgwl
 type: quick_reads
 draft: false
 aliases:
   - 18-07-01-qq/
 _createdAt: '2018-07-03T10:40:47Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T02:07:58Z'
 date: '2018-07-03T10:40:47+00:00'
+lastmod: '2018-07-03T10:40:47+00:00'
 weight: 50
 card_series: Quotes
 colorpaletteclassname: '--light-yellow'
@@ -27,7 +28,7 @@ cards:
     _key: card-1-dec79b39-3705-42c4-8f40-42ecdc8847be
   - order: 1
     body: >-
-      > ‘It’s hard to believe that something we enjoy so much could be good for
+      > "It’s hard to believe that something we enjoy so much could be good for
       us. Or at least not be bad.”  
         
         
@@ -39,13 +40,12 @@ cards:
     _key: card-2-d003e9ea-9252-46f5-9aa1-fdd572937e32
   - order: 2
     body: >-
-      > ‘We are conscious of the need to maintain good relations with the United
+      "We are conscious of the need to maintain good relations with the United
       States. We have a border of more than 3,000 kilometers, more than 12
       million Mexicans live in the United States. It is our main
       economic-commercial partner. We are not going to fight…We are going to
       extend our frank hand to seek a relation of friendship, I repeat, of
-      cooperation with the United States.’  
-        
+      cooperation with the United States."  
         
         
       Newly-elected Mexican President Andres Manuel Lopez Obrador

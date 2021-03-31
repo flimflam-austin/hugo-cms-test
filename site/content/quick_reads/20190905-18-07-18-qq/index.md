@@ -2,14 +2,15 @@
 title: 18.07.18 Qq
 slug: 20190905-18-07-18-qq
 _id: legacy-b6d2dfd5-1f25-4e9f-aedc-d7780bb0e5b9
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: 0aCMfzqL0erea7otJsKfSZ
 type: quick_reads
 draft: false
 aliases:
   - 18-07-18-qq/
 _createdAt: '2018-07-18T11:00:50Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T02:53:49Z'
 date: '2018-07-18T11:00:50+00:00'
+lastmod: '2018-07-18T11:00:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,7 +21,6 @@ colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
     body: "> “Ready for lift off! New Shepard is gearing up for its ninth mission. We’ll be doing a high altitude escape motor test a\x13 pushing the rocket to its limits.”  \n  \n  \n  \nBlue Origin, Jeff Bezos' spaceflight company, on the blast off of its suborbital spaceship scheduled for July 18. When it's ready for human flight, tickets will cost at least $200K.\n\n[WATCH LAUNCH HERE](https://www.blueorigin.com/#youtubeNRDhdHRyyjc)"
-    citation: WATCH LAUNCH HERE
     _key: card-1-4e142d63-147d-4e8d-a24f-9915502fb091
   - order: 1
     body: >-
@@ -60,7 +60,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/fucTtvyssFg?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-4-0a4cc55e-3d2b-4c44-b727-e67a4c9b3312
   - order: 4
     body: |-

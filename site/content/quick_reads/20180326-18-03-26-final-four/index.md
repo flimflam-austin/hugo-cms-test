@@ -2,14 +2,15 @@
 title: 18.03.26 Final Four
 slug: 20180326-18-03-26-final-four
 _id: legacy-b5c11ff7-67be-4eea-abfb-d21538ec8879
-_rev: O8E8pz1fLwnc3fN7JVEzvC
+_rev: LotyrYkaRjTl0E452wPxLx
 type: quick_reads
 draft: false
 aliases:
   - 18-03-26-final-four/
 _createdAt: '2018-03-26T08:00:59Z'
-_updatedAt: '2021-03-22T13:11:06Z'
+_updatedAt: '2021-03-25T22:37:38Z'
 date: '2018-03-26T08:00:59+00:00'
+lastmod: '2018-03-26T08:00:59+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,10 +27,10 @@ cards:
       ## Final Four: San Antonio
 
 
-      # 11 Loyola-Chicago vs #3 Michigan
+      ### 11 Loyola-Chicago vs #3 Michigan
 
 
-      # 1 Kansas vs #1 Villanova
+      ### 1 Kansas vs #1 Villanova
 
 
       Oddsmakers like Villanova to win nat’l college championship, underdog
@@ -37,7 +38,6 @@ cards:
 
 
       FLIP HERE FOR MORE
-    citation: FLIP HERE FOR MORE
     _key: card-1-35be9f0e-da87-46a3-a5db-6f906e7edd66
   - order: 1
     body: >-
@@ -54,7 +54,6 @@ cards:
 
 
       ok, ok... So Who Should I cheer For?
-    citation: ok, ok... So Who Should I cheer For?
     _key: card-2-a87d2357-a8de-4c76-8806-1940794411c0
   - order: 2
     body: >-
@@ -119,7 +118,6 @@ cards:
 
 
       flip for who they play
-    citation: flip for who they play
     _key: card-5-97d9fa04-89fd-4a1b-b7e9-97e590e58346
   - order: 5
     body: >-
@@ -143,7 +141,6 @@ cards:
 
       [Listen to "Rock
       Chalk"](http://communicators.ku.edu/resources/audio/chant.mp3)
-    citation: Listen to "Rock Chalk"
     _key: card-6-838c90f5-f293-4b38-8370-b12e769b24eb
   - order: 6
     body: >-

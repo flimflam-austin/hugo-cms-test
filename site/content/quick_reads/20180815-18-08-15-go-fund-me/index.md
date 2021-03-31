@@ -2,14 +2,15 @@
 title: 18.08.15 Go Fund Me
 slug: 20180815-18-08-15-go-fund-me
 _id: legacy-83068c76-6ed8-4219-9cd4-199622181950
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: 0aCMfzqL0erea7otJuy6lJ
 type: quick_reads
 draft: false
 aliases:
   - 18-08-15-go-fund-me/
 _createdAt: '2018-08-15T12:06:24Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:58:47Z'
 date: '2018-08-15T12:06:24+00:00'
+lastmod: '2018-08-15T12:06:24+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,7 +23,7 @@ cards:
     body: >-
       GO FUND MY  
 
-      (fill in the blank) ================================
+      (fill in the blank) 
 
 
       GoFundMe (GFM), the globe’s largest crowdfunding website hosts 10,000 new
@@ -31,7 +32,6 @@ cards:
 
 
       Got a cause, goal, or bill to pay?
-    citation: Got a cause, goal, or bill to pay?
     _key: card-1-7d0e82ea-95bc-4a8f-ba21-34acadc681e3
   - order: 1
     body: >-

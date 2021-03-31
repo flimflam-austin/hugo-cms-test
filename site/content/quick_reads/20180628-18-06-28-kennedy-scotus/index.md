@@ -2,14 +2,15 @@
 title: 18.06.28 Kennedy Scotus
 slug: 20180628-18-06-28-kennedy-scotus
 _id: legacy-dabd11d9-78b1-4f81-8c80-afcfa26ae1dd
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 0aCMfzqL0erea7otJsEwJd
 type: quick_reads
 draft: false
 aliases:
   - 18-06-28-kennedy-scotus/
 _createdAt: '2018-06-28T11:00:27Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T01:59:48Z'
 date: '2018-06-28T11:00:27+00:00'
+lastmod: '2018-06-28T11:00:27+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Why This Matters
-    citation: Why This Matters
     _key: card-1-82165690-d8d4-4704-bce6-429879e6860b
   - order: 1
     body: >-

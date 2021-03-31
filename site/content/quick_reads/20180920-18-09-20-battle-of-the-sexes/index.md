@@ -2,14 +2,15 @@
 title: 'On This Day in 1973: Battle of the Sexes'
 slug: 20180920-18-09-20-battle-of-the-sexes
 _id: legacy-c6cdeb94-643a-4152-a73b-a05ce11beeb6
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 0aCMfzqL0erea7otJxl5lD
 type: quick_reads
 draft: false
 aliases:
   - 18-09-20-battle-of-the-sexes/
 _createdAt: '2018-09-20T12:00:20Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:20:51Z'
 date: '2018-09-20T12:00:20+00:00'
+lastmod: '2018-09-20T12:00:20+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Why King Is Still Queen
-    citation: Why King Is Still Queen
     _key: card-1-5fd97c46-65bd-4f3e-9d6d-1b84917e1603
   - order: 1
     body: >-
@@ -49,7 +49,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/CFa6fhW26A4?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-685c57b5-5620-4d3b-8307-bb8991921225
   - order: 2
     body: >-
@@ -79,10 +78,9 @@ cards:
     _key: card-4-97c0dd70-956b-495a-9f3d-5453ab2909b9
   - order: 4
     body: >-
-      > ‘We always put our hands up for Billie. We love her. She has a
+      > "We always put our hands up for Billie. We love her. She has a
       tremendous history, not just in women’s tennis, but in leading rights for
       people, in general, no matter who they were.”  
-        
         
         
       Venus Williams, April 2018, after joining the advisory board at the Billie

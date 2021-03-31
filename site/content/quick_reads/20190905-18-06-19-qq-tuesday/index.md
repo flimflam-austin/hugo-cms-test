@@ -2,14 +2,15 @@
 title: 18.06.19 Qq Tuesday
 slug: 20190905-18-06-19-qq-tuesday
 _id: legacy-82fec6eb-e3a0-4b76-ae90-3f392fef31a1
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: LotyrYkaRjTl0E452wYtkb
 type: quick_reads
 draft: false
 aliases:
   - 18-06-19-qq-tuesday/
 _createdAt: '2018-06-19T10:46:43Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T01:40:39Z'
 date: '2018-06-19T10:46:43+00:00'
+lastmod: '2018-06-19T10:46:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,8 +24,6 @@ cards:
       > “Illegal actions have and must have consequences. No more free passes,
       no more get out of jail free cards.”  
         
-        
-        
       Department of Homeland Security Secretary Kirstjen Nielsen defending the
       Trump Administration's "zero-tolerance" border policy while also calling
       on Congress to fix America's "broken immigration system."
@@ -32,12 +31,10 @@ cards:
 
       [CLICK: SmartHer
       Facts](https://smarthernews.com/18-06-17-immigration-and-children-at-border/)
-    citation: 'CLICK: SmartHer Facts'
     _key: card-1-63db98ea-f645-4e54-b74c-b2b46d7eff42
   - order: 1
     body: >-
       > “Sometimes truth transcends party.”  
-        
         
         
       Former First Lady Michelle Obama on Former First Lady Laura Bush's
@@ -62,8 +59,6 @@ cards:
       > “Researchers estimate that birds & mammals harbor anywhere from 631K to
       827K unknown viruses that could potentially leap into humans.”  
         
-        
-        
       Ed Yong, The Atlantic "The Next Plague Is Coming. Is America Ready?" - A
       recent case of Plague (spread from rodents to fleas to humans) surfaced in
       Idaho, raising questions about America's preparedness for worst case
@@ -72,14 +67,12 @@ cards:
 
       [CLICK: FULL
       STORY](https://smarthernews.com/18-06-19-return-of-the-plague/)
-    citation: 'CLICK: FULL STORY'
     _key: card-4-7c4dbace-8d8b-4afb-8e58-22f864145e0f
   - order: 4
     body: >-
       > “I thought it would be a nice way of improving my look well, obviously
       that all went to hell. I feel bad about it. I apologized for it…. That was
       a mistake.”  
-        
         
         
       HRH Meghan Markle's father, Thomas Markle, to 'Good Morning Britain' on

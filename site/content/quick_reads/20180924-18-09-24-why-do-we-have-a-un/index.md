@@ -2,14 +2,15 @@
 title: Why Do We Have a Un?
 slug: 20180924-18-09-24-why-do-we-have-a-un
 _id: legacy-d00a0492-b21a-4470-b367-b3c19d3a9d65
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: LotyrYkaRjTl0E452ydk1t
 type: quick_reads
 draft: false
 aliases:
   - 18-09-24-why-do-we-have-a-un/
 _createdAt: '2018-09-24T12:00:17Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:28:46Z'
 date: '2018-09-24T12:00:17+00:00'
+lastmod: '2018-09-24T12:00:17+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,17 +35,15 @@ cards:
 
 
       BTW You Pay For It...
-    citation: BTW You Pay For It...
     _key: card-1-824d19a8-b371-4bd5-8a82-1b0367b7aa60
   - order: 1
     body: >-
-      > “WE THE PEOPLES OF THE UNITED NATIONS DETERMINED  
+      “WE THE PEOPLES OF THE UNITED NATIONS DETERMINED  
 
       to save succeeding generations from the scourge of war, which twice in our
       lifetime has brought untold sorrow to mankind, and  
 
       to reaffirm faith in fundamental human rights…”  
-        
         
         
       The UN's founding Charter signed in 1945. Pres. Roosevelt believed an

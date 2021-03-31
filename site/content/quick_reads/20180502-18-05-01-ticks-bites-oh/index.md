@@ -2,14 +2,15 @@
 title: 18.05.01 Ticks and Bites Oh My
 slug: 20180502-18-05-01-ticks-bites-oh
 _id: legacy-2e439fa4-4c4e-4f70-a335-d234c704be0c
-_rev: O8E8pz1fLwnc3fN7JVF0RC
+_rev: 45Isps23253Yjlaq28E7Jq
 type: quick_reads
 draft: false
 aliases:
   - 18-05-01-ticks-bites-oh/
 _createdAt: '2018-05-02T10:50:36Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:30:51Z'
 date: '2018-05-02T10:50:36+00:00'
+lastmod: '2018-05-02T10:50:36+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -37,7 +38,6 @@ cards:
 
 
       Flip Here
-    citation: Flip Here
     _key: card-1-8fd5f70a-63fd-47d5-80ea-2509b2fbd181
   - order: 1
     body: >-
@@ -70,7 +70,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/mLumut2nQMs?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-3-28391836-bcc1-4fa8-8acc-96834357a4eb
   - order: 3
     body: >-

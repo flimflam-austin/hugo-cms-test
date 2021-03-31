@@ -2,14 +2,15 @@
 title: 18.07.13 World Cup
 slug: 20180713-18-07-13-world-cup
 _id: legacy-d4b10aab-5844-4d84-889b-c08c58bcf811
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 45Isps23253Yjlaq28akA3
 type: quick_reads
 draft: false
 aliases:
   - 18-07-13-world-cup/
 _createdAt: '2018-07-13T11:05:54Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:39:44Z'
 date: '2018-07-13T11:05:54+00:00'
+lastmod: '2018-07-13T11:05:54+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Moscow: 11AM est
-    citation: 'Moscow: 11AM est'
     _key: card-1-50dbf2a0-db95-4a04-8663-c2529bebdad1
   - order: 1
     body: >-

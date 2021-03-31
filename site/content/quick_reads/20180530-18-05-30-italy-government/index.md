@@ -2,14 +2,15 @@
 title: 18.05.30 Italy Government
 slug: 20180530-18-05-30-italy-government
 _id: legacy-2f11e746-3239-41b2-8e53-0740cff0f3c6
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28Ovzm
 type: quick_reads
 draft: false
 aliases:
   - 18-05-30-italy-government/
 _createdAt: '2018-05-30T10:18:43Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T00:47:42Z'
 date: '2018-05-30T10:18:43+00:00'
+lastmod: '2018-05-30T10:18:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -35,7 +36,6 @@ cards:
 
 
       in inglese, per favore
-    citation: in inglese, per favore
     _key: card-1-15be3b53-78f2-460d-b32c-d1402eb8f008
   - order: 1
     body: >-
@@ -67,7 +67,6 @@ cards:
 
 
       Now What?
-    citation: Now What?
     _key: card-3-d2db379a-7144-4faf-a711-a1e508d4988d
   - order: 3
     body: >-

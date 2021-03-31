@@ -2,14 +2,15 @@
 title: 'Quote of the Day: Idina Menzel'
 slug: 20181127-quote-of-the-day-2
 _id: legacy-3b4ec743-f2cd-429c-929e-3e28d9b27df4
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: 45Isps23253Yjlaq2DHj0x
 type: quick_reads
 draft: false
 aliases:
   - quote-of-the-day-2/
 _createdAt: '2018-11-27T12:22:16Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:30:17Z'
 date: '2018-11-27T12:22:16+00:00'
+lastmod: '2018-11-27T12:22:16+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -19,10 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
-    body: |-
-      > _“When you sit back and you just do what you love, things happen.’_
-
-      Idina Menzel
+    body: '> _“When you sit back and you just do what you love, things happen."_'
     citation: Idina Menzel
     _key: card-1-6773c103-d72e-4415-a12d-d145b7a47cb2
   - order: 1

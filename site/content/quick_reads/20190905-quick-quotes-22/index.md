@@ -2,14 +2,15 @@
 title: Quick Quotes for December 7, 2018
 slug: 20190905-quick-quotes-22
 _id: legacy-1a657ffd-714e-4939-a828-580d311b110a
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 45Isps23253Yjlaq2DKHVj
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-22/
 _createdAt: '2018-12-07T13:02:11Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:55:31Z'
 date: '2018-12-07T13:02:11+00:00'
+lastmod: '2018-12-07T13:02:11+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,9 +21,7 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     body: >-
-      > “We cannot take the risk when we know the threat.”  
-        
-        
+      “We cannot take the risk when we know the threat.”  
         
       France's Culture Minister Franck Riester on plans to close the Eiffel
       Tower and Louvre Museum Saturday due to planned protests. The riots, now
@@ -37,8 +36,6 @@ cards:
       > “What this week and a half shows is an extraordinary sensitivity to
       headlines, more so than usual.”  
         
-        
-        
       Delores Rubin, Deutsche Bank Wealth Management senior equities trader, as
       stocks fell nearly 800 points before bouncing back Thursday. Concerns of a
       US-China trade stalemate weighed on investors, but stocks rebounded on
@@ -47,10 +44,8 @@ cards:
     _key: card-2-798a91ac-426a-457b-bcba-642cfe8f106b
   - order: 2
     body: >-
-      > ‘We still want Russia to cut as much as possible…A I’m not confident,
+      > "We still want Russia to cut as much as possible…A I’m not confident,
       but I hope to reach a deal.”  
-        
-        
         
       Saudi Arabian Oil Minister Khalid Al-Falih as OPEC fails to reach a
       consensus on how much oil the 15-nation group will produce for the next 6
@@ -64,8 +59,6 @@ cards:
       > “All of a sudden we started skidding, and then he started braking even
       more aggressively and then he was like, ‘brake!'”  
         
-        
-        
       Yvonne Dorr, Southwest Airlines passenger on a flight from Oakland to
       Burbank, after the 737 skidded off the runway to a sharp stop, just short
       of a CA freeway during a rainstorm. Cement blocks & sand-like ground
@@ -76,8 +69,6 @@ cards:
     body: >-
       > “I just about fainted. I’ve never touched that much money and I don’t
       think I ever will again.”  
-        
-        
         
       Kevin Booth (32), a homeless man in Seattle, who found $17,000 in a bag
       outside of a food bank and turned it in. The food bank turned the money

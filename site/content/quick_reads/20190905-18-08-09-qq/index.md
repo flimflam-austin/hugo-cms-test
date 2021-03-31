@@ -2,14 +2,15 @@
 title: 18.08.09 Qq
 slug: 20190905-18-08-09-qq
 _id: legacy-403b122b-82ba-43f9-ac52-9c08c9d00b4f
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 0aCMfzqL0erea7otJuupu6
 type: quick_reads
 draft: false
 aliases:
   - 18-08-09-qq/
 _createdAt: '2018-08-09T11:59:37Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-26T19:44:10Z'
 date: '2018-08-09T11:59:37+00:00'
+lastmod: '2018-08-09T11:59:37+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -21,9 +22,9 @@ cards:
   - order: 0
     body: >-
       > “Look, I am very supportive of women. Everyone goes through their own
-      experiences in their own ways….A I’m going to really hate myself for
-      saying this, but I think by women speaking against all these things, it
-      makes them look weak when they are very strong women.”  
+      experiences in their own ways…. I’m going to really hate myself for saying
+      this, but I think by women speaking against all these things, it makes
+      them look weak when they are very strong women.”  
         
         
         
@@ -35,8 +36,6 @@ cards:
       ‘popular’ film Oscar. It had been in poor health for a number of years. It
       is survived by sequels, tent-poles, and vertical integration.”  
         
-        
-        
       Actor Rob Lowe's Twitter response to the Academy Award's decision to add a
       "popular film" category. Eligibility & other requirements have not been
       announced. Last year was the lowest rated Oscars telecast on record.
@@ -46,8 +45,6 @@ cards:
       > “We believe privacy is a fundamental human right and purposely design
       our products and services to minimize our collection of personal data.”  
         
-        
-        
       Apple CEO Tim Cook in a letter responding to Congress on how it protects
       users' data and privacy. Cook also says Apple doesn't use microphones on
       iPhones to listen to customers. The House Cmte sent letters to Apple &
@@ -55,9 +52,8 @@ cards:
     _key: card-3-cb054981-e32a-48e1-ac12-70854f663543
   - order: 3
     body: >-
-      > ‘inflicting a punishment in the absence of a crime in the tradition of
+      "inflicting a punishment in the absence of a crime in the tradition of
       lynch law.”  
-        
         
         
       Senior Russian lawmaker on newly announced U.S. sanctions on Russia over

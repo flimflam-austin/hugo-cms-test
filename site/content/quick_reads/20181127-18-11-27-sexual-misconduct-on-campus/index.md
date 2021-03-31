@@ -2,14 +2,15 @@
 title: New Rules on Campus?
 slug: 20181127-18-11-27-sexual-misconduct-on-campus
 _id: legacy-949262de-39c4-47ca-87b9-597f1b96fe31
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: 45Isps23253Yjlaq2DHltV
 type: quick_reads
 draft: false
 aliases:
   - 18-11-27-sexual-misconduct-on-campus/
 _createdAt: '2018-11-27T12:22:37Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:31:08Z'
 date: '2018-11-27T12:22:37+00:00'
+lastmod: '2018-11-27T12:22:37+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Why It Matters
-    citation: Why It Matters
     _key: card-1-6cf779f1-b41f-4d75-9565-2a8a45acb97b
   - order: 1
     body: >-
@@ -81,18 +81,16 @@ cards:
       student accused of sexual misconduct must know that guilt is not
       predetermined.”  
         
-        
-        
       Sec. of Education Betsy DeVos
     _key: card-5-40547023-5e23-4718-8798-1223bf51653b
   - order: 5
     body: >-
-      > ‘… something like **one in five women will be victims of sexual assault
+      > "… something like **one in five women will be victims of sexual assault
       on campuses,** and cases of false accusations are exceedingly rare. But
       when you hear folks in the current administration talk about issues of
       sexual harassment or assault, what one hears from them is **the
       implication that false accusations are a rampant problem and that is
-      false.**’  
+      false."**  
         
         
         

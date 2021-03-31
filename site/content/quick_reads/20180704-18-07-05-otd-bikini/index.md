@@ -2,14 +2,15 @@
 title: 18.07.05 Otd Bikini
 slug: 20180704-18-07-05-otd-bikini
 _id: legacy-42898ec2-effe-47d4-ac9b-c4112f6073bd
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 0aCMfzqL0erea7otJsGB3j
 type: quick_reads
 draft: false
 aliases:
   - 18-07-05-otd-bikini/
 _createdAt: '2018-07-05T02:45:25Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:13:07Z'
 date: '2018-07-05T02:45:25+00:00'
+lastmod: '2018-07-05T02:45:25+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -30,14 +31,13 @@ cards:
 
 
       FLIP: Itsy bitsy...
-    citation: 'FLIP: Itsy bitsy...'
     _key: card-1-c00a3193-5f00-4ded-8ff2-2c1e22e18e58
   - order: 1
     body: >-
       ## Scandalous History
 
 
-      * Bikini was invented by (who else?) aA **Frenchman, Louis Reard.**
+      * Bikini was invented by (who else?) a **Frenchman, Louis Reard.**
 
       * Named after a nuclear test site **off the Bikini Atoll in Pacific
       Ocean.**

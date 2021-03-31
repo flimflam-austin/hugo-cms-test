@@ -2,14 +2,15 @@
 title: 18.06.26 Chris Pratt
 slug: 20180626-18-06-26-chris-pratt
 _id: legacy-7cd3adf4-04f3-439b-8823-40046d2ef25f
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 0aCMfzqL0erea7otJsEnal
 type: quick_reads
 draft: false
 aliases:
   - 18-06-26-chris-pratt/
 _createdAt: '2018-06-27T11:00:34Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:58:19Z'
 date: '2018-06-27T11:00:34+00:00'
+lastmod: '2018-06-27T11:00:34+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,7 +35,6 @@ cards:
       do.”  
         
         
-        
       Actor Chris Pratt, acceptance speech for MTV's Generation Award. In his "9
       rules from Chris Pratt" speech, he also advised about learning to pray and
       bathroom etiquette.
@@ -42,7 +42,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/EihqXHqxri0?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-a719c946-4235-4dab-ad30-bff66122c25d
   - order: 2
     body: >-
@@ -51,7 +50,9 @@ cards:
 
       * Washington State native.
 
-      * Mom bagged groceries. Dad worked as a miner.
+      * Mom bagged groceries.
+
+      *  Dad worked as a miner.
 
       * He wrestled in high school.
 
@@ -61,7 +62,7 @@ cards:
       * “Discovered” working as a waiter for Bubba Gump Shrimp Co. restaurant.
     _key: card-3-0ac7c7d8-e493-47e7-8e29-1fd6e1f050a3
   - order: 3
-    body: "> ‘He asked what I was doing that night, and I was honest. I said, a\x18My friend’s inside buying me alcohol… He said, a\x18Jesus told me to talk to you…’ At that moment I was like, I think I have to go with this guy. He took me to church. Over the next few days I surprised my friends by declaring that I was going to change my life.’  \n  \n  \n  \nChris Pratt, Vanity Fair, about the moment his life changed randomly meeting a man named Henry in Maui."
+    body: "> \"He asked what I was doing that night, and I was honest. I said, a\x18My friend’s inside buying me alcohol… He said, a\x18Jesus told me to talk to you…’ At that moment I was like, I think I have to go with this guy. He took me to church. Over the next few days I surprised my friends by declaring that I was going to change my life.\"  \n  \nChris Pratt, Vanity Fair, about the moment his life changed randomly meeting a man named Henry in Maui."
     _key: card-4-f01c40f2-efe2-495d-8304-1ad84cdf6c65
   - order: 4
     body: >-
@@ -69,7 +70,7 @@ cards:
 
 
       * Recent movie: Jurassic Park: Fallen Kingdom – part of Jurassic World
-      series – **earned**A **one of top opening wkds of the year.**
+      series – **earned** **one of top opening wkds of the year.**
 
       * Pratt gained 40lbs working on sitcom, _Park & Rec,_ and was passed over
       for roles because of his weight. Now he’s **one of America’s biggest

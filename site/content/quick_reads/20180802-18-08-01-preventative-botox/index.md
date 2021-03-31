@@ -2,14 +2,15 @@
 title: 18.08.01 Botox Instead of Opioids
 slug: 20180802-18-08-01-preventative-botox
 _id: legacy-fd0b6e64-ddb6-4f75-9e4d-7abfff6bcc89
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: LotyrYkaRjTl0E452xWaZR
 type: quick_reads
 draft: false
 aliases:
   - 18-08-01-preventative-botox/
 _createdAt: '2018-08-02T11:55:11Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T19:22:23Z'
 date: '2018-08-02T11:55:11+00:00'
+lastmod: '2018-08-02T11:55:11+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,17 +32,14 @@ cards:
 
 
       What To Know
-    citation: What To Know
     _key: card-1-c2b01eef-66f7-448f-af91-e0dc370d8e61
   - order: 1
     body: >-
-      > ‘The most promising aspect of our new approach is that **we can prolong
+      > "The most promising aspect of our new approach is that **we can prolong
       the opioid pain relief effect for many months with a single injection** of
       our new bio-pharmaceuticals. This could benefit chronic pain sufferers in
       many ways and also avoid the terrible consequences of continuous use of
-      opioids.’  
-        
-        
+      opioids."  
         
       Bazbek Davletov, study author and chair of the biomedical science
       department, University of Sheffield

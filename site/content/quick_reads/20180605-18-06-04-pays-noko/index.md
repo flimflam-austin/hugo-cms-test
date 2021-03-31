@@ -2,14 +2,15 @@
 title: 18.06.04 Who Pays Noko?
 slug: 20180605-18-06-04-pays-noko
 _id: legacy-96b57368-1882-4d8b-9ef0-2c1d64a37354
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: LotyrYkaRjTl0E452wXPzp
 type: quick_reads
 draft: false
 aliases:
   - 18-06-04-pays-noko/
 _createdAt: '2018-06-05T10:59:18Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:01:00Z'
 date: '2018-06-05T10:59:18+00:00'
+lastmod: '2018-06-05T10:59:18+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,7 +24,7 @@ cards:
       # NORTH KOREA
 
 
-      ## Champagne Taste…Beer Budget?A
+      ## Champagne Taste…Beer Budget?
 
 
       Will your tax dollars pay for North Korea’s luxury hotel during the
@@ -31,7 +32,6 @@ cards:
 
 
       Hold Up. Wait A Minute.
-    citation: Hold Up. Wait A Minute.
     _key: card-1-c9f38a83-e883-46a4-ba3b-65b4d1abce47
   - order: 1
     body: >-
@@ -49,7 +49,6 @@ cards:
 
       [Click HERE: See
       Hotel](https://www.fullertonhotels.com/the-fullerton-hotel)
-    citation: 'Click HERE: See Hotel'
     _key: card-2-8b2b9410-6dd8-417e-bc9a-b8e0a44d2dfa
   - order: 2
     body: >-
@@ -77,7 +76,6 @@ cards:
       Offers to use Nobel Peace prize money (about $1M) to foot the bill.
 
       Flip: Not Just Hotel
-    citation: 'Flip: Not Just Hotel'
     _key: card-4-2f41d9c7-ea63-4d94-841d-991ca95e37ca
   - order: 4
     body: >-

@@ -2,14 +2,15 @@
 title: Kavanaugh on the Issues
 slug: 20180711-kavanaugh-on-the-issues
 _id: legacy-e1f47b81-1334-4b65-92a4-b7da4206e621
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 0aCMfzqL0erea7otJsHw6c
 type: quick_reads
 draft: false
 aliases:
   - kavanaugh-on-the-issues/
 _createdAt: '2018-07-12T10:01:12Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:35:26Z'
 date: '2018-07-12T10:01:12+00:00'
+lastmod: '2018-07-12T10:01:12+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,12 +26,8 @@ cards:
 
       > A closer look at the next Supreme Court nominee.  
         
-        
-        
       **“A judge must be independent and must interpret the law, not make the
       law…. “**  
-        
-        
         
       Judge Brett Kavanaugh accepting the nomination for Supreme Court. What do
       his past rulings tell us about how he might rule from the highest court in
@@ -43,8 +40,6 @@ cards:
 
       > “… a President who is concerned about an ongoing criminal investigation
       is almost inevitably going to do a worse job as President.”  
-        
-        
         
       Kavanaugh in 2009. He went on to say that just as Congress provides a
       "deferral of civil suits" for Presidents, it should consider the same for
@@ -59,25 +54,21 @@ cards:
       traditionally been banned and are in common use by law-abiding citizens
       for self-defense in the home, hunting, and other lawful uses.”  
         
-        
-        
       Kavanuaugh in a 2011 dissenting opinion arguing that the Second Amendment
       includes the right to own semi-automatic rifles.
     _key: card-3-0f4571a2-f6f1-4050-acc2-57573dde8aab
   - order: 3
-    body: "## RE: Gov’t Surveillance\n\n> “….the Government’s metadata collection program is entirely consistent with the Fourth Amendment.”  \n  \n  \n  \nKavanaugh in a 2015 ruling on the National Security Agency’s collection of phone records. He went on to say that the Government’s program for bulk collection of 2 telephony metadata serves a critically important special need a\x13 preventing terrorist attacks on the United States."
+    body: "## RE: Gov’t Surveillance\n\n> “….the Government’s metadata collection program is entirely consistent with the Fourth Amendment.”  \n  \n  \nKavanaugh in a 2015 ruling on the National Security Agency’s collection of phone records. He went on to say that the Government’s program for bulk collection of 2 telephony metadata serves a critically important special need a\x13 preventing terrorist attacks on the United States."
     _key: card-4-39804fe5-0dec-49eb-879c-2108ac144eed
   - order: 4
     body: >-
       ## RE: Abortion
 
 
-      > “…the Government has permissible interests in favoring fetal life,
+      “…the Government has permissible interests in favoring fetal life,
       protecting the best interests of a minor, and refraining from facilitating
       abortion…. so long as it does not impose an undue burden on a woman
       seeking an abortion.”  
-        
-        
         
       Kavanaugh in a 2017 dissent in a case about whether a detained illegal
       immigrant teen could be released from custody to obtain an abortion.

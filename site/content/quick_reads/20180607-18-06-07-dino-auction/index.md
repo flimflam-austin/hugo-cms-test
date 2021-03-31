@@ -2,14 +2,15 @@
 title: 18.06.07 Dino Auction
 slug: 20180607-18-06-07-dino-auction
 _id: legacy-155f5119-1d17-4d3f-b456-4859cd04903f
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28Qv54
 type: quick_reads
 draft: false
 aliases:
   - 18-06-07-dino-auction/
 _createdAt: '2018-06-07T11:03:43Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:09:02Z'
 date: '2018-06-07T11:03:43+00:00'
+lastmod: '2018-06-07T11:03:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       flip: for the scoop
-    citation: 'flip: for the scoop'
     _key: card-1-412ddbcc-5fa8-4850-afa1-a707a0ccf4dc
   - order: 1
     body: >-
@@ -45,20 +45,17 @@ cards:
       dinosaurs.
 
 
+
+
       who's lucky winner?
-    citation: who's lucky winner?
     _key: card-2-dd09207d-d8f2-481b-8155-511bc58f0ead
   - order: 2
     body: >-
       ## Going once… going twice…
 
-
-      >   
         
       _“Scientifically important vertebrate fossils are part of our collective
       natural heritage and deserve to be held in public trust.”_  
-        
-        
         
       Society of Vertebrate Paleontology's letter asking to cancel the auction.
 

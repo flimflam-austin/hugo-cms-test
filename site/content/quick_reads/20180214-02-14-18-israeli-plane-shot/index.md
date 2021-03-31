@@ -2,14 +2,15 @@
 title: 02.14.18 Israeli Plane Shot Down
 slug: 20180214-02-14-18-israeli-plane-shot
 _id: legacy-cbd4db75-dc6b-4a42-b4ed-f74125b1017c
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: LotyrYkaRjTl0E452wMNHh
 type: quick_reads
 draft: false
 aliases:
   - 02-14-18-israeli-plane-shot/
 _createdAt: '2018-02-14T14:00:50Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:40:48Z'
 date: '2018-02-14T14:00:50+00:00'
+lastmod: '2018-02-14T14:00:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -36,8 +37,9 @@ cards:
       * Two pilots survived Feb 10 crash.
 
 
+
+
       Flip For Why It Matters
-    citation: Flip For Why It Matters
     _key: card-1-061551c9-1afd-4bd5-92c1-041a591073d3
   - order: 1
     body: >-

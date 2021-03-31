@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-10-08T20:14:56Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-10-08T20:14:56+00:00'
+lastmod: '2020-10-08T20:14:56+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     35f3cc0e9e42c071d95429837dbc9c8925924521-890x1024.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="Wr8SwNlXnX4" title="What To Know: Vice Presidential Debate 2020" >}}

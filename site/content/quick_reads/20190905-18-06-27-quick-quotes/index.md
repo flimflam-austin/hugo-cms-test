@@ -2,14 +2,15 @@
 title: 18.06.27 Quick Quotes
 slug: 20190905-18-06-27-quick-quotes
 _id: legacy-0c268868-438c-4039-a36e-bf6475ab507a
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: LotyrYkaRjTl0E452wa9Mz
 type: quick_reads
 draft: false
 aliases:
   - 18-06-27-quick-quotes/
 _createdAt: '2018-06-28T11:05:01Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T02:01:03Z'
 date: '2018-06-28T11:05:01+00:00'
+lastmod: '2018-06-28T11:05:01+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,8 +21,7 @@ colorpaletteclassname: '--light-green'
 cards:
   - order: 0
     body: >-
-      > ‘I’d like to hear someone say this is a bad idea.’  
-        
+      > "I’d like to hear someone say this is a bad idea."  
         
         
       National Security Advisor John Bolton, at a press conference in Russia,
@@ -47,14 +47,12 @@ cards:
       and defend the Constitution and the laws that must always conform to its
       mandates and promises.”  
         
-        
-        
       Supreme Court Justice Anthony Kennedy, in note he hand-delivered to the
       President, announcing his retirement.
 
 
       [Click: Background](https://smarthernews.com/18-06-28-kennedy-scotus/)
-    citation: 'Click: Background'
+    citation: ']'
     _key: card-3-c7f4211f-c98c-405d-8845-0912fb5fffca
   - order: 3
     body: >-
@@ -62,8 +60,6 @@ cards:
       most famous families in the world. I am extremely appreciative of that, I
       will never forget our moments together and how you told me how much you
       cared. #RIP Joe Jackson.”  
-        
-        
         
       La Toya Jackson, reflecting on the death of her father, Joe Jackson who
       died at the age of 89. Her brother, Michael Jackson, both praised &

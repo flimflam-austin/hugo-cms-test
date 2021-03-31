@@ -2,14 +2,15 @@
 title: 18.07.02 One Minute with Maccutting Boards
 slug: 20180702-18-07-02-one-minute-with-maccutting-boards
 _id: legacy-37743df2-0d15-4a04-b565-860c0d67f15a
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: LotyrYkaRjTl0E452waWJx
 type: quick_reads
 draft: false
 aliases:
   - 18-07-02-one-minute-with-maccutting-boards/
 _createdAt: '2018-07-03T11:23:42Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:11:17Z'
 date: '2018-07-03T11:23:42+00:00'
+lastmod: '2018-07-03T11:23:42+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,7 +27,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/jGNTWx8CHP4?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-e9ceb909-746e-49c8-b9c9-1de43fc777f9
   - order: 1
     body: >-
@@ -37,13 +37,11 @@ cards:
       smartest person in the room, you’reA in the wrong room’  
         
         
-        
       SmartHER advice from MAC Cutting Boards, founded in 2009 by Bart & Josie
       McHale
 
 
       Flip For More
-    citation: Flip For More
     _key: card-2-ad7302a3-62ca-4af3-af7b-4502b06b98ee
   - order: 2
     body: >-

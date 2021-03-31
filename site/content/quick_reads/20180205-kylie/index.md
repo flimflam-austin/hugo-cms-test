@@ -2,14 +2,15 @@
 title: 18.02.04 Kylie Jenner
 slug: 20180205-kylie
 _id: legacy-db6a5b15-dd90-462b-94cb-a104e3e0ce6b
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: LotyrYkaRjTl0E452wJLkr
 type: quick_reads
 draft: false
 aliases:
   - kylie/
 _createdAt: '2018-02-05T14:15:18Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T20:46:54Z'
 date: '2018-02-05T14:15:18+00:00'
+lastmod: '2018-02-05T14:15:18+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,7 +23,7 @@ cards:
     body: >-
       Kylie Jenner  
 
-      Announces Birth ==============================
+      Announces Birth 
 
 
       ## Flip For #SmartHER Take on This Headline
@@ -35,7 +36,6 @@ cards:
 
 
       [Click For Video](https://www.youtube.com/watch?v=BhIEIO0vaBE)
-    citation: Click For Video
     _key: card-1-64c25d0b-459c-4c70-bdad-fcbf17d55154
   - order: 1
     body: >-
@@ -61,9 +61,10 @@ cards:
       Scott.
 
 
+
+
       [Click For An Example of Travis'
       Work](https://www.youtube.com/watch?v=_EyZUTDAH0U)
-    citation: Click For An Example of Travis' Work
     _key: card-3-225b14f6-7531-4d36-a180-7b92100824d7
   - order: 3
     body: >-
@@ -84,7 +85,6 @@ cards:
 
       [Read Kylie's Instagram
       Post](https://www.instagram.com/p/BeycUmgFTWb/?hl=en&taken-by=kyliejenner)
-    citation: Read Kylie's Instagram Post
     _key: card-5-b40ec707-1863-4969-b161-a1e4b318f306
   - order: 5
     body: '[view sources](https://smarthernews.com/kylie/)'

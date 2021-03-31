@@ -2,14 +2,15 @@
 title: Dean Jacket up at Auction
 slug: 20180228-dean-jacket-up-at-auction
 _id: legacy-a8842d61-27d1-4af5-a8b8-9dd8ad1f6bce
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: 45Isps23253Yjlaq281Y0f
 type: quick_reads
 draft: false
 aliases:
   - dean-jacket-up-at-auction/
 _createdAt: '2018-02-28T22:58:15Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T22:03:50Z'
 date: '2018-02-28T22:58:15+00:00'
+lastmod: '2018-02-28T22:58:15+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,7 +23,7 @@ cards:
     body: >-
       James Dean  
 
-      Jacket Up For Auction ==================================
+      Jacket Up For Auction 
 
 
       ## Expected To Fetch Up To $600,000
@@ -33,7 +34,6 @@ cards:
 
 
       Learn More
-    citation: Learn More
     _key: card-1-ab323cef-bc5a-42ca-a4a9-cccce274a660
   - order: 1
     body: >-
@@ -49,7 +49,6 @@ cards:
 
 
       More About James Dean
-    citation: More About James Dean
     _key: card-2-b8d49919-1272-46c8-b13c-76d4ad82036b
   - order: 2
     body: >-
@@ -69,7 +68,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/wXRgAXU1-T4?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-3-95a0a845-1d07-4dc4-a681-2fabd9a271d9
   - order: 3
     body: |-
@@ -82,7 +80,6 @@ cards:
       * Fairmount holds an annual James Dean Festival
 
       [Click For Festival Info](http://www.jamesdeangallery.com/events)
-    citation: Click For Festival Info
     _key: card-4-fed56a5c-1817-4199-92cc-4d0b172c8a41
   - order: 4
     body: |-

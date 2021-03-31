@@ -2,14 +2,15 @@
 title: 18.02.08 Military Parade
 slug: 20180208-18-02-08-military-parade
 _id: legacy-be894800-94d9-4084-85ab-a2792530bd88
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: LotyrYkaRjTl0E452wJidB
 type: quick_reads
 draft: false
 aliases:
   - 18-02-08-military-parade/
 _createdAt: '2018-02-08T17:49:40Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T20:53:03Z'
 date: '2018-02-08T17:49:40+00:00'
+lastmod: '2018-02-08T17:49:40+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       What parade? Flip Here
-    citation: What parade? Flip Here
     _key: card-1-9de7c825-05c8-40af-82cc-5c3b5ca02b24
   - order: 1
     body: >-

@@ -2,14 +2,15 @@
 title: 18.06.11 Amanda Southworth
 slug: 20180611-18-06-11-amanda-southworth
 _id: legacy-345248c2-57b7-4e8a-a5e2-9bf994c1945a
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28RKgA
 type: quick_reads
 draft: false
 aliases:
   - 18-06-11-amanda-southworth/
 _createdAt: '2018-06-11T10:46:57Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:13:28Z'
 date: '2018-06-11T10:46:57+00:00'
+lastmod: '2018-06-11T10:46:57+00:00'
 weight: 50
 card_series: Health
 colorpaletteclassname: '--dark-blue'
@@ -24,7 +25,6 @@ cards:
 
 
       Meet Amanda.
-    citation: Meet Amanda.
     _key: card-1-59a0fa94-f645-40cd-9b96-7ea7a066a256
   - order: 1
     body: >-
@@ -32,15 +32,12 @@ cards:
       something greater than myself, I realized that I am not just a person with
       a life. I am a person who has something to contribute.’  
         
-        
-        
       Amanda Southworth on her app AnxietyHelper, which provides tools,
       resources, & emergency help for those suffering with depression & anxiety.
 
 
       [Click to See:
       App](https://itunes.apple.com/us/app/anxietyhelper/id1028767781)
-    citation: 'Click to See: App'
     _key: card-2-d374851f-c63d-4269-ad99-bf59948afeee
   - order: 2
     body: >-
@@ -73,7 +70,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/pLOagmZTWmM?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-4-1b6acfd8-17f4-44ae-aaf7-0002b8401ccb
   - order: 4
     body: >-

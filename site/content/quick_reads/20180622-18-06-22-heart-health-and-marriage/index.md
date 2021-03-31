@@ -2,14 +2,15 @@
 title: 18.06.22 Heart Health and Marriage
 slug: 20180622-18-06-22-heart-health-and-marriage
 _id: legacy-c46020bb-1f2c-4ff8-8a82-8d863684ef1c
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 0aCMfzqL0erea7otJsDeTU
 type: quick_reads
 draft: false
 aliases:
   - 18-06-22-heart-health-and-marriage/
 _createdAt: '2018-06-22T08:59:16Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:46:32Z'
 date: '2018-06-22T08:59:16+00:00'
+lastmod: '2018-06-22T08:59:16+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
       New study says marriage may factor into your heart health.
 
       If you like it...flip!
-    citation: If you like it...flip!
     _key: card-1-91d0215c-4536-4d5a-8b22-b6f9ea0ddab1
   - order: 1
     body: >-

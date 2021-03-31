@@ -2,14 +2,15 @@
 title: America on the Attack in Africa
 slug: 20180831-18-08-31-america-fighting-al-qaeda-in-africa
 _id: legacy-dd5aa5e3-3bbc-417d-b2cb-f7462cf511d6
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 45Isps23253Yjlaq2D1ev3
 type: quick_reads
 draft: false
 aliases:
   - 18-08-31-america-fighting-al-qaeda-in-africa/
 _createdAt: '2018-08-31T11:50:07Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-27T21:15:26Z'
 date: '2018-08-31T11:50:07+00:00'
+lastmod: '2018-08-31T11:50:07+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,7 +27,6 @@ cards:
       al-Qaeda in Africa at a record pace as strikes drop near Afghanistan.
 
       While We Sleep...
-    citation: While We Sleep...
     _key: card-1-67905a01-7f78-4577-a1aa-b2fc728b1593
   - order: 1
     body: >-
@@ -47,12 +47,10 @@ cards:
       ## Why al-Shabaab Matters:
 
 
-      > ‘They’ve been able to **kill very high numbers** and you didn’t see that
+      > "They’ve been able to **kill very high numbers** and you didn’t see that
       five years ago. They’ve been able to actually **overrun bases at times**.
       The danger is as African Union forces draw down, they may **retake major
-      urban areas**. I think there’s a good chance of that.’  
-        
-        
+      urban areas**. I think there’s a good chance of that."  
         
       Daveed Gartenstein-Ross, Senior Analyst, Foundation for Defense of
       Democracies
@@ -69,7 +67,6 @@ cards:
 
 
       Why This Matters?
-    citation: Why This Matters?
     _key: card-4-749f5198-66eb-4b9e-a58c-00ac5272590c
   - order: 4
     body: >-

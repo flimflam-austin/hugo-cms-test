@@ -2,14 +2,15 @@
 title: 'Quote of the Day: Michael Jackson'
 slug: 20181130-18-11-30-jackson-qtd
 _id: legacy-e4a84edb-3d78-42b9-9fe9-96af4f52581f
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: 45Isps23253Yjlaq2DIRRE
 type: quick_reads
 draft: false
 aliases:
   - 18-11-30-jackson-qtd/
 _createdAt: '2018-11-30T12:33:48Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:41:28Z'
 date: '2018-11-30T12:33:48+00:00'
+lastmod: '2018-11-30T12:33:48+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,11 +21,8 @@ colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
     body: >-
-      > _‘Never forget where your talent came from, that your talent is a gift
-      from God.’_
-
-
-      MICHAEL JACKSON
+      > _"Never forget where your talent came from, that your talent is a gift
+      from God."_
     citation: MICHAEL JACKSON
     _key: card-1-d1ce9b2b-6078-4e9f-a7ac-f6be52a79f80
   - order: 1

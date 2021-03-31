@@ -2,14 +2,15 @@
 title: 18.02.09 How to Use Smarther News
 slug: 20180828-18-02-09-how-to-use-smarther-news
 _id: legacy-b1666a54-c114-4b43-aabf-6162d8db7d2a
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: LotyrYkaRjTl0E452xQJV7
 type: quick_reads
 draft: false
 aliases:
   - 18-02-09-how-to-use-smarther-news/
 _createdAt: '2018-07-20T16:22:26Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T17:34:18Z'
 date: '2018-07-20T16:22:26+00:00'
+lastmod: '2018-07-20T16:22:26+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,7 +28,6 @@ cards:
       Let’s be pioneers together…
 
       Tap Sunglasses To Flip The Card
-    citation: Tap Sunglasses To Flip The Card
     _key: card-1-d2223eda-c93a-42e5-95c2-bd17c3681a5d
   - order: 1
     body: >-
@@ -66,8 +66,9 @@ cards:
       news service – a public service that informs & reports.
 
 
+
+
       Tap Sunglasses To Flip
-    citation: Tap Sunglasses To Flip
     _key: card-4-37d968a3-e62f-458c-a547-4db25413bca4
   - order: 4
     body: >-
@@ -86,7 +87,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/WmTYqzRczCg?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-5-705a7ac3-60b9-4a6d-b3d7-3f9847f945e8
   - order: 5
     body: >-
@@ -141,7 +141,7 @@ cards:
     body: >-
       Want more news?  
 
-      We have it. =============================
+      We have it. 
 
 
       * Last card in every stack, links to our “source page.”

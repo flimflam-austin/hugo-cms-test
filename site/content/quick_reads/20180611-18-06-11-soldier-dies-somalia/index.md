@@ -2,14 +2,15 @@
 title: 18.06.11 Soldier Dies in Somalia
 slug: 20180611-18-06-11-soldier-dies-somalia
 _id: legacy-07e55eb7-4e28-48b6-92bc-130fb21fc95f
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 0aCMfzqL0erea7otJs9Tbj
 type: quick_reads
 draft: false
 aliases:
   - 18-06-11-soldier-dies-somalia/
 _createdAt: '2018-06-11T10:41:44Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:12:09Z'
 date: '2018-06-11T10:41:44+00:00'
+lastmod: '2018-06-11T10:41:44+00:00'
 weight: 50
 card_series: Now You Know
 colorpaletteclassname: '--dark-green'
@@ -23,7 +24,6 @@ cards:
       26-year-old U.S. Army soldier killed in action in Somalia.
 
       What To Know
-    citation: What To Know
     _key: card-1-5666c1f4-2667-4c61-9745-b29b239de6bf
   - order: 1
     body: >-
@@ -43,8 +43,9 @@ cards:
       * 4 other soldiers wounded.
 
 
+
+
       Why Somalia?
-    citation: Why Somalia?
     _key: card-2-034ce731-9916-4b86-8340-bf0986ab1a0f
   - order: 2
     body: >-

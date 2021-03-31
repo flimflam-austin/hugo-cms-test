@@ -2,14 +2,15 @@
 title: 18.08.24 Special Counsel Investigation
 slug: 20180824-18-08-24-special-counsel-investigation
 _id: legacy-69c5d1ba-29cb-45fe-bf0c-9a4db08216c0
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 45Isps23253Yjlaq2B0fbs
 type: quick_reads
 draft: false
 aliases:
   - 18-08-24-special-counsel-investigation/
 _createdAt: '2018-08-24T12:03:26Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:17:58Z'
 date: '2018-08-24T12:03:26+00:00'
+lastmod: '2018-08-24T12:03:26+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,11 +24,9 @@ cards:
       > “NO COLLUSION – RIGGED WITCH HUNT!”  
         
         
-        
       President Trump via Twitter re: the special counsel investigation.
 
       What *exactly* can the special counsel investigate?
-    citation: What *exactly* can the special counsel investigate?
     _key: card-1-78f382f8-5516-470d-af62-07a2d58795a4
   - order: 1
     body: >-
@@ -65,11 +64,10 @@ cards:
     _key: card-4-9e477e00-17fc-4610-8582-a05e285d1141
   - order: 4
     body: >-
-      > “I did not want Paul Manafort to be guilty, but he was …. the charges
-      were legitimate, but the prosecution tried to make the case about the
-      Russian collusion ….. I think that they used Manafort to try to get the
-      dirt on Trump.”  
-        
+      “I did not want Paul Manafort to be guilty, but he was …. the charges were
+      legitimate, but the prosecution tried to make the case about the Russian
+      collusion ….. I think that they used Manafort to try to get the dirt on
+      Trump.”  
         
         
       Paula Duncan, one of 12 jurors who decided the Paul Manafort case, to 'Fox

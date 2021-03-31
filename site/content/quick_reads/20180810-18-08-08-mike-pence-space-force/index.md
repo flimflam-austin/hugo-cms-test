@@ -2,14 +2,15 @@
 title: 18.08.08 Mike Pence Space Force
 slug: 20180810-18-08-08-mike-pence-space-force
 _id: legacy-f4e5bfbb-c843-49d7-89e5-03f13c62ab21
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: 45Isps23253Yjlaq2Ay1Sc
 type: quick_reads
 draft: false
 aliases:
   - 18-08-08-mike-pence-space-force/
 _createdAt: '2018-08-10T11:51:32Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:50:19Z'
 date: '2018-08-10T11:51:32+00:00'
+lastmod: '2018-08-10T11:51:32+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       Wait...new battlefield?
-    citation: Wait...new battlefield?
     _key: card-1-a766e45a-7326-4370-9393-0ca40c12329e
   - order: 1
     body: >-
@@ -44,8 +44,9 @@ cards:
       * Goal to isA **establish by 2020.**
 
 
+
+
       Why?
-    citation: Why?
     _key: card-2-da87846e-8f0a-40cf-94c4-aa624f291f52
   - order: 2
     body: >-
@@ -61,10 +62,9 @@ cards:
     _key: card-3-6c710b97-bdcc-4e08-90ef-05d0e52d2c8e
   - order: 3
     body: >-
-      > “There is a threat out there, but it is being handled by the U.S. Air
+      “There is a threat out there, but it is being handled by the U.S. Air
       Force today. It doesn’t make sense to build a whole other level of
       bureaucracy in an already bureaucratic DOD (Department of Defense).”  
-        
         
         
       Captain Mark Kelly, retired NASA astronaut who commanded the final mission

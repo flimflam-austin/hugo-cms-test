@@ -2,14 +2,15 @@
 title: 18.06.08 Triple Crown
 slug: 20180608-18-06-08-triple-crown
 _id: legacy-8b90823b-67ac-479e-a840-10797c7c748d
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 0aCMfzqL0erea7otJs9Hey
 type: quick_reads
 draft: false
 aliases:
   - 18-06-08-triple-crown/
 _createdAt: '2018-06-08T10:43:24Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:10:14Z'
 date: '2018-06-08T10:43:24+00:00'
+lastmod: '2018-06-08T10:43:24+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       Flip: RARE MARE
-    citation: 'Flip: RARE MARE'
     _key: card-1-054d86dd-45b3-461c-8641-80d6f3f4cf36
   - order: 1
     body: >-

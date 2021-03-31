@@ -2,14 +2,15 @@
 title: 18.02.09 Olympics
 slug: 20180208-18-02-09-olympics
 _id: legacy-0f69a296-6e76-4858-aee4-0c2c4f5dfc0e
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: LotyrYkaRjTl0E452wJzAD
 type: quick_reads
 draft: false
 aliases:
   - 18-02-09-olympics/
 _createdAt: '2018-02-09T06:01:52Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T20:57:07Z'
 date: '2018-02-09T06:01:52+00:00'
+lastmod: '2018-02-09T06:01:52+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -40,7 +41,7 @@ cards:
   - order: 1
     body: |-
       Name To Know:  
-      Kikkan Randall ==============================
+      Kikkan Randall 
 
       ## Cross Country Skiing
 

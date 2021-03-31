@@ -2,14 +2,15 @@
 title: 18.06.21 Trump Action on Border
 slug: 20180621-18-06-21-trump-action-on-border
 _id: legacy-7dbf1d19-0b9d-484e-80fe-99bfc7162000
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 45Isps23253Yjlaq28VMk7
 type: quick_reads
 draft: false
 aliases:
   - 18-06-21-trump-action-on-border/
 _createdAt: '2018-06-21T10:33:12Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:46:09Z'
 date: '2018-06-21T10:33:12+00:00'
+lastmod: '2018-06-21T10:33:12+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       FLIP FOR DETAILS
-    citation: FLIP FOR DETAILS
     _key: card-1-b6a9ca22-65be-42dc-9f17-5e301a0ec2c9
   - order: 1
     body: >-

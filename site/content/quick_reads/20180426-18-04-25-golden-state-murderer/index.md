@@ -2,14 +2,15 @@
 title: 18.04.25 Golden State Murderer
 slug: 20180426-18-04-25-golden-state-murderer
 _id: legacy-d238a9dd-c6a3-4b8b-99c6-cee7392dce1f
-_rev: O8E8pz1fLwnc3fN7JVF0RC
+_rev: LotyrYkaRjTl0E452wSE21
 type: quick_reads
 draft: false
 aliases:
   - 18-04-25-golden-state-murderer/
 _createdAt: '2018-04-26T10:49:35Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:21:03Z'
 date: '2018-04-26T10:49:35+00:00'
+lastmod: '2018-04-26T10:49:35+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       Say What? Flip!
-    citation: Say What? Flip!
     _key: card-1-70b18547-dd08-4026-b5aa-0282febc17f0
   - order: 1
     body: >-
@@ -56,11 +56,10 @@ cards:
 
 
       Flip: Who Coined Name
-    citation: 'Flip: Who Coined Name'
     _key: card-2-d87053c9-d7f6-4a25-ab0e-734b381dfa55
   - order: 2
     body: >-
-      Michelle NcNamaraA  
+      Michelle NcNamara  
 
       Writer
 
@@ -75,7 +74,6 @@ cards:
 
       [Click Here:
       Book](https://www.amazon.com/Ill-Be-Gone-Dark-Obsessive/dp/0062319787/ref=sr_1_1?ie=UTF8&qid=1524707227&sr=8-1&keywords=michelle+mcnamara)
-    citation: 'Click Here: Book'
     _key: card-3-13b4208a-6ad8-4801-a6df-5d138d1c0c65
   - order: 3
     body: >-
@@ -84,12 +82,8 @@ cards:
 
       > DNA = our genetic fingerprint  
         
-        
-        
       Police say suspect’s DNA matched 2 murders of “Golden State Killer”, but
       we don’t know specifics or how they got a “break” in the cold case.  
-        
-        
         
       “The probability of the DNA profiles of two unrelated individuals matching
       is onA average less than 1 in 1 billion.”A _National Geographic_

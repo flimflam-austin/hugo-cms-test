@@ -2,14 +2,15 @@
 title: 18.06.05 Emojis
 slug: 20180605-18-06-05-emojis
 _id: legacy-082dac49-9745-468d-a39e-ea4721d88c37
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28QCB2
 type: quick_reads
 draft: false
 aliases:
   - 18-06-05-emojis/
 _createdAt: '2018-06-05T11:00:24Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:01:27Z'
 date: '2018-06-05T11:00:24+00:00'
+lastmod: '2018-06-05T11:00:24+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       FLIP TO SEE: New Emojis
-    citation: 'FLIP TO SEE: New Emojis'
     _key: card-1-553d95a0-b5c6-46a7-b79b-2db8a86d0924
   - order: 1
     body: >-
@@ -49,7 +49,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/5qLDBQ583Y8?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-65ddb090-1787-475d-a5b6-7679b8f5fa88
   - order: 2
     body: >-

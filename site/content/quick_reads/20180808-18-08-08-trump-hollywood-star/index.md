@@ -2,14 +2,15 @@
 title: 18.08.08 Trump Hollywood Star
 slug: 20180808-18-08-08-trump-hollywood-star
 _id: legacy-bbee2b38-87f8-48a6-aa72-78437d246fb1
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: LotyrYkaRjTl0E452xXP8v
 type: quick_reads
 draft: false
 aliases:
   - 18-08-08-trump-hollywood-star/
 _createdAt: '2018-08-08T11:47:28Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:40:12Z'
 date: '2018-08-08T11:47:28+00:00'
+lastmod: '2018-08-08T11:47:28+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       Want a star? Got 40K?
-    citation: Want a star? Got 40K?
     _key: card-1-15bb8fac-c679-4a54-a261-f08ccfc5fc89
   - order: 1
     body: >-
@@ -60,8 +60,6 @@ cards:
       > “Once a star has been added to the walk, it is considered a part of the
       historic fabric of the Hollywood Walk of Fame. Because of this, **we have
       never removed a star from the walk**.”  
-        
-        
         
       Leron Gubler, Pres & CEO of the Hollywood Chamber of Commerce, addressing
       calls in 2015 to remove Bill Cosby's star after allegations of sexual

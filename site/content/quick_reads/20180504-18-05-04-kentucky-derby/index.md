@@ -2,14 +2,15 @@
 title: 18.05.04 Kentucky Derby
 slug: 20180504-18-05-04-kentucky-derby
 _id: legacy-c7b0aae4-b6a1-4e71-8c41-72bbcd0f9a3f
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 45Isps23253Yjlaq28FVV4
 type: quick_reads
 draft: false
 aliases:
   - 18-05-04-kentucky-derby/
 _createdAt: '2018-05-04T10:55:21Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:44:28Z'
 date: '2018-05-04T10:55:21+00:00'
+lastmod: '2018-05-04T10:55:21+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       FLIP: GIDDY UP!
-    citation: 'FLIP: GIDDY UP!'
     _key: card-1-6c402cb0-66ee-42f9-9161-c6218920d34b
   - order: 1
     body: >-
@@ -66,7 +66,7 @@ cards:
       * **Magnum Moon:**A Undefeated in 4 starts this year.
 
       * **Fun fact:** 19 Derby winners’ names began with “S” – only one this
-      year is long-shotA **Solomoni.A**
+      year is long-shot **Solomoni.A**
     _key: card-3-ae1cf380-030d-439a-a11a-133fcbe92e04
   - order: 3
     body: >-
@@ -85,7 +85,6 @@ cards:
 
       [Got a name? Check if it's been used
       here.](https://www.registry.jockeyclub.com/registry.cfm?page=namesrch&search=)
-    citation: Got a name? Check if it's been used here.
     _key: card-4-63be0756-56ba-4835-abe6-2544e9301c34
   - order: 4
     body: >-
@@ -100,9 +99,6 @@ cards:
       Preakness & Belmont Stakes, only 12 horses have ever done it.)
 
       * **How to watch:** NBC
-
-
-      CLICK: GET DERBY READY
     citation: 'CLICK: GET DERBY READY'
     _key: card-5-359f0cb5-ece3-487c-9f9c-90f322c3ea5d
   - order: 5

@@ -2,14 +2,15 @@
 title: The Queen
 slug: 20180823-18-08-16-the-queen
 _id: legacy-962c3978-ead8-440d-a0a5-5adb4c9d1ab7
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: 0aCMfzqL0erea7otJuyid0
 type: quick_reads
 draft: false
 aliases:
   - 18-08-16-the-queen/
 _createdAt: '2018-08-16T14:36:28Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:03:07Z'
 date: '2018-08-16T14:36:28+00:00'
+lastmod: '2018-08-16T14:36:28+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -37,10 +38,9 @@ cards:
     _key: card-2-4b8fbc7d-b12c-43a6-b12f-2b7543a0f2a2
   - order: 2
     body: >-
-      > “You weren’t an overnight sensation. You had to work at it and learn
-      your craft: how to take care of your voice, how to pace your concerts, all
-      that trial and error. I paid my dues, I certainly did.”  
-        
+      “You weren’t an overnight sensation. You had to work at it and learn your
+      craft: how to take care of your voice, how to pace your concerts, all that
+      trial and error. I paid my dues, I certainly did.”  
         
         
       Franklin, the daughter of a pastor, got her start singing in church. By
@@ -54,7 +54,6 @@ cards:
       respect, and acknowledgment, in their terms.”  
         
         
-        
       On her 1967 #1 hit & signature song "Respect." Originally recorded by Otis
       Redding, Franklin proudly acknowledged its civil & female rights roots,
       noting she had written into her performance contract that she wouldn't
@@ -63,13 +62,11 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/0L4Bonnw484?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-4-f62b6cd2-3c3d-4c61-bbe0-ea008a2dad01
   - order: 4
     body: >-
       > “I do appreciate it, absolutely. But some very fine and dynamite people
       paved the way for me… Sarah (Vaughn), Ella (Fitzgerald), and so on.”  
-        
         
         
       Franklin on how she feels when fellow music artists credit her for their
@@ -79,8 +76,8 @@ cards:
     _key: card-5-256856c6-4e17-4bb3-a429-fc8f32522813
   - order: 5
     body: >-
-      > ‘Falling out of love is like losing weight. It’s a lot easier putting it
-      on than taking it off.’  
+      > "Falling out of love is like losing weight. It’s a lot easier putting it
+      on than taking it off."  
         
         
         
@@ -88,9 +85,9 @@ cards:
     _key: card-6-02cb7689-bae1-4439-a092-97b27ddd05fa
   - order: 6
     body: >-
-      > ‘I love Wal-Mart and not just because my record is there. You can get
+      > "I love Wal-Mart and not just because my record is there. You can get
       some things there that you cannot find at Saks or Bergdorf’s or other
-      upscale stores.’  
+      upscale stores."  
         
         
         

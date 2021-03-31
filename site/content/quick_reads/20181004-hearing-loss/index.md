@@ -2,14 +2,15 @@
 title: Dangerous Decibels
 slug: 20181004-hearing-loss
 _id: legacy-93ec4e98-8c24-4194-b75a-6b8ba70ce98a
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: 45Isps23253Yjlaq2DHBPt
 type: quick_reads
 draft: false
 aliases:
   - hearing-loss/
 _createdAt: '2018-10-04T11:33:44Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:21:55Z'
 date: '2018-10-04T11:33:44+00:00'
+lastmod: '2018-10-04T11:33:44+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,13 +25,13 @@ cards:
 
 
       **1 in 10** American adults will suffer hearing loss in the next 2 yrs &
-      that numberA will jump to **1 in 4 by 2060**.  
+      that numberA will jump to **1 in 4 by 2060**.
 
+        
       Are headphones to blame?
 
 
       Listen Up.
-    citation: Listen Up.
     _key: card-1-fdc7502d-8c3c-493a-b8d1-6da8df7d9445
   - order: 1
     body: >-
@@ -48,10 +49,9 @@ cards:
     _key: card-2-b1f3a8ac-f9d5-4d02-96ec-fc613206372b
   - order: 2
     body: >-
-      > ‘You can certainly hurt your hearing listening to loud music, whether
+      > "You can certainly hurt your hearing listening to loud music, whether
       through earbuds or something else. But earbuds and listening to music with
-      earbuds are not a major cause of hearing loss.’  
-        
+      earbuds are not a major cause of hearing loss."  
         
         
       Dr. Robert Dobie, clinical professor of otolaryngology at the University

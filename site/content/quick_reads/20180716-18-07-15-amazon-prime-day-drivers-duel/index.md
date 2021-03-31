@@ -2,14 +2,15 @@
 title: 18.07.15 Amazon Prime Day Drivers Duel
 slug: 20180716-18-07-15-amazon-prime-day-drivers-duel
 _id: legacy-c498a792-df28-45ca-9174-1eccb86803b6
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: LotyrYkaRjTl0E452wcEVh
 type: quick_reads
 draft: false
 aliases:
   - 18-07-15-amazon-prime-day-drivers-duel/
 _createdAt: '2018-07-16T11:10:13Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:50:42Z'
 date: '2018-07-16T11:10:13+00:00'
+lastmod: '2018-07-16T11:10:13+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       Who's In The Lead?
-    citation: Who's In The Lead?
     _key: card-1-9012b2bd-f630-4ace-a81b-b2e5306b512b
   - order: 1
     body: >-
@@ -69,14 +69,10 @@ cards:
 
       > Turn small businesses into drivers  
         
-        
-        
-      “AmazonA will take an active role in helping interested entrepreneurs
+      “Amazon will take an active role in helping interested entrepreneurs
       start, set up and manage their own delivery business. Successful owners
       can earn as much asA $300,000A in annual profit operating a fleet of up to
       40 delivery vehicles.”  
-        
-        
         
       Amazon, Press Release
     _key: card-4-a56184ba-4a87-4414-979f-9788970150b0

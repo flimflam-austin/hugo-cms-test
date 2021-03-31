@@ -2,14 +2,15 @@
 title: So Long Sororities?a
 slug: 20180829-so-long-sororities
 _id: legacy-c423751a-34da-4afe-bebc-2c0ca2800ff2
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: LotyrYkaRjTl0E452yZ08T
 type: quick_reads
 draft: false
 aliases:
   - so-long-sororities/
 _createdAt: '2018-08-29T11:43:43Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-27T20:53:04Z'
 date: '2018-08-29T11:43:43+00:00'
+lastmod: '2018-08-29T11:43:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,9 +21,9 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     body: |-
-      So Long Sororities?A
+      So Long Sororities?
 
-      =======================
+
 
       Harvard University’s last all-female Greek sisterhood goes co-ed.
     _key: card-1-11428c0c-7922-4e0f-9677-000e3dcb81c9
@@ -39,22 +40,22 @@ cards:
 
 
       Accordingly, Alpha Phi, Harvard’s last remaining Greek sorority, has
-      become the co-ed group, ‘**The Ivy**.”
+      become the co-ed group, "**The Ivy**.”
     _key: card-2-22553648-fb86-4d78-8950-e2b7901e1b92
   - order: 2
-    body: "> “It is with deep sadness that we accept Iota Tau’s decision to cease activities. New sanctions put in place by Harvard University placed our members in an untenable conflict a\x13 to choose between their supportive, empowering women-only space and external scholastic and leadership opportunities.”  \n  \n  \n  \nRenee Zainer, Alpha Phi International President and Chairman of the International Executive Board"
+    body: "> “It is with deep sadness that we accept Iota Tau’s decision to cease activities. New sanctions put in place by Harvard University placed our members in an untenable conflict a\x13 to choose between their supportive, empowering women-only space and external scholastic and leadership opportunities.”  \n  \n  \nRenee Zainer, Alpha Phi International President and Chairman of the International Executive Board"
     _key: card-3-a45d0760-8c66-4318-a9a2-e54eac929540
   - order: 3
     body: >-
       # What About The Guys?
 
 
-      9 male-only groups, including 3 fraternities, remain.A 4 formerly
-      male-only groups are now coed.
+      9 male-only groups, including 3 fraternities, remain. 4 formerly male-only
+      groups are now coed.
 
 
       The more established history of Harvard’s male-only organizations (and
-      their powerful alumni) are believed by some to carry more weight inA
+      their powerful alumni) are believed by some to carry more weight in
       resisting the sanctions, according to the Harvard Crimson.
     _key: card-4-0851ae9a-33a9-40c7-8c69-5850cbd39466
   - order: 4
@@ -62,14 +63,14 @@ cards:
       # BIGGER PICTURE
 
 
-      ## Participation in ‘Greek Life’ decliningA overall.
+      ## Participation in ‘Greek Life’ declining overall.
 
 
-      * **Alcohol-related** and/or **hazing-related violence** mayA deter
+      * **Alcohol-related** and/or **hazing-related violence** may deter
       membership; certain universities have simply suspended their “Greek Life”
       programs.
 
-      * Others say a push towardA **gender inclusivity** is the cause.
+      * Others say a push toward **gender inclusivity** is the cause.
     _key: card-5-bf198c9f-7e49-41b4-831f-47e4a55605a9
   - order: 5
     body: >-

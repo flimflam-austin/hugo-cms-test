@@ -2,14 +2,15 @@
 title: 18.08.09 Americans Choose Spirits
 slug: 20180810-18-08-09-americans-choose-spirits
 _id: legacy-50461a40-0c04-4311-be41-6386eacd36a4
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: LotyrYkaRjTl0E452xYHrR
 type: quick_reads
 draft: false
 aliases:
   - 18-08-09-americans-choose-spirits/
 _createdAt: '2018-08-10T11:55:20Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:51:11Z'
 date: '2018-08-10T11:55:20+00:00'
+lastmod: '2018-08-10T11:55:20+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,7 +26,6 @@ cards:
       America drinking less beer – but more alcohol than ever.
 
       How Much We Drink
-    citation: How Much We Drink
     _key: card-1-16d19c2a-8207-4323-aaf6-38ee029a0ca1
   - order: 1
     body: >-

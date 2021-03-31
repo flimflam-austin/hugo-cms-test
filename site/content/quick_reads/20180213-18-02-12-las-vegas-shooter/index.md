@@ -2,14 +2,15 @@
 title: 18.02.12 Las Vegas Shooter
 slug: 20180213-18-02-12-las-vegas-shooter
 _id: legacy-4eba3876-cbf3-4ed1-ae41-eb7a0ce05796
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: 45Isps23253Yjlaq27xNcu
 type: quick_reads
 draft: false
 aliases:
   - 18-02-12-las-vegas-shooter/
 _createdAt: '2018-02-13T12:00:29Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:37:44Z'
 date: '2018-02-13T12:00:29+00:00'
+lastmod: '2018-02-13T12:00:29+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,7 +24,6 @@ cards:
       Unsolved Mystery
 
 
-      ===================
 
 
       ## Deadliest Shooting In Modern America History
@@ -34,7 +34,6 @@ cards:
 
 
       Flip Here
-    citation: Flip Here
     _key: card-1-aec0374f-235b-4d35-8b8d-9b51308c35d0
   - order: 1
     body: |-
@@ -51,8 +50,7 @@ cards:
       # Searching For Answers
 
 
-      > ‘With a good deal of screening, I didn’t see anything.’  
-        
+      > "With a good deal of screening, I didn’t see anything."  
         
         
       Dr. Hannes Vogel, Dir. of Neuropathology Stanford University to NYT about

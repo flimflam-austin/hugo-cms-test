@@ -2,14 +2,15 @@
 title: George Herbert Walker Bush
 slug: 20181204-18-12-04-ghwb
 _id: legacy-4264aac6-76ca-473d-b3e7-f0a2cd1d6403
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 0aCMfzqL0erea7otJxzHmY
 type: quick_reads
 draft: false
 aliases:
   - 18-12-04-ghwb/
 _createdAt: '2018-12-04T12:34:04Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:50:31Z'
 date: '2018-12-04T12:34:04+00:00'
+lastmod: '2018-12-04T12:34:04+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,10 +30,8 @@ cards:
       # The Navy Pilot
 
 
-      > **‘_It was a red, white, and blue thing. Your country’s attacked, you’d
-      better get in there and try to help_.’**  
-        
-        
+      **"_It was a red, white, and blue thing. Your country’s attacked, you’d
+      better get in there and try to help_."**  
         
       At 18, he joined the Navy. He went on to become the youngest naval aviator
       at the time & aA Lieutenant. During one of his 58 combat missions, his
@@ -44,10 +43,8 @@ cards:
       # The Family Man
 
 
-      > **‘_I have climbed perhaps the highest mountain in the world, but even
+      **_"I have climbed perhaps the highest mountain in the world, but even
       that cannot hold a candle to being Barbara’s husband…_“**  
-        
-        
         
       In 1945, while on leave from the Navy, he married Barbara Pierce. Their
       73-year marriage resulted in 6 children (including daughter Robin, who
@@ -62,8 +59,6 @@ cards:
       > **_“This West Texas is a fabulous place …. Fortunes can be made in the
       land end of the oil business, and of course can be lost.”_**  
         
-        
-        
       After graduating from Yale, Bush moved his family to Odessa, Texas in 1948
       due to the booming oil industry. He went on to co-found three oil
       businesses.
@@ -74,8 +69,6 @@ cards:
 
 
       > **“_There is but one just use of power, and it is to serve people_.”**  
-        
-        
         
       His life in politics began in 1966 when he was elected to the Texas
       Congress. In 1971, Bush became the U.S. Ambassador to the United Nations
@@ -90,8 +83,6 @@ cards:
       > **“_A President is neither prince nor pope, and I don’t seek a window on
       men’s souls_.”**  
         
-        
-        
       During his presidency, he oversaw the end of the Cold War, the fall of the
       Soviet Union, and the fall of the Berlin Wall. In the U.S., Bush signed
       theA Clear Air Act amendments and the Americans with Disabilities Act into
@@ -105,8 +96,6 @@ cards:
       > **“_Just because you’re an old guy, you don’t have to sit around
       drooling in corner. Get out and do something. Get out and enjoy
       life_.”**  
-        
-        
         
       At 72, he delivered on a promise he made to himself as a WWII pilot to
       jump out of a plane not on fire.A He went on to do it seven more times,

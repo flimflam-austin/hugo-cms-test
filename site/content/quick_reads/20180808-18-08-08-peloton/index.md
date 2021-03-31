@@ -2,14 +2,15 @@
 title: 18.08.08 Peloton
 slug: 20180808-18-08-08-peloton
 _id: legacy-d2311dbb-1150-42cf-b2b0-cbc0e7a60781
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: 0aCMfzqL0erea7otJuuVET
 type: quick_reads
 draft: false
 aliases:
   - 18-08-08-peloton/
 _createdAt: '2018-08-08T11:59:57Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:41:59Z'
 date: '2018-08-08T11:59:57+00:00'
+lastmod: '2018-08-08T11:59:57+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       And how do you say it?
-    citation: And how do you say it?
     _key: card-1-dac4dd2d-e583-4f5e-860c-4a6be708c48d
   - order: 1
     body: >-

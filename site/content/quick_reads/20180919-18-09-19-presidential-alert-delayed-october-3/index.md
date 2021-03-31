@@ -2,14 +2,15 @@
 title: 18.09.19 Presidential Alert **Delayed October 3***
 slug: 20180919-18-09-19-presidential-alert-delayed-october-3
 _id: legacy-ef478d09-f170-4d0c-a08e-bae87b1a2d75
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: LotyrYkaRjTl0E452ydNg5
 type: quick_reads
 draft: false
 aliases:
   - 18-09-19-presidential-alert-delayed-october-3/
 _createdAt: '2018-09-19T12:17:35Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:19:36Z'
 date: '2018-09-19T12:17:35+00:00'
+lastmod: '2018-09-19T12:17:35+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       (no, you cant text back)
-    citation: (no, you cant text back)
     _key: card-1-a4214308-0239-47ec-a1b2-6c7bc5510aeb
   - order: 1
     body: >-

@@ -2,14 +2,15 @@
 title: 18.08.13 Plastic
 slug: 20180813-18-08-13-plastic
 _id: legacy-39f2cb43-8854-4c1e-a297-dc2f57aa34a9
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: 45Isps23253Yjlaq2AyDZB
 type: quick_reads
 draft: false
 aliases:
   - 18-08-13-plastic/
 _createdAt: '2018-08-13T11:46:06Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:52:40Z'
 date: '2018-08-13T11:46:06+00:00'
+lastmod: '2018-08-13T11:46:06+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Why It matters
-    citation: Why It matters
     _key: card-1-4b74ccc6-3212-40d5-a6f4-96d78f882b55
   - order: 1
     body: >-
@@ -47,7 +47,6 @@ cards:
 
 
       Where Will It Go?
-    citation: Where Will It Go?
     _key: card-2-4f54cce8-4c79-4685-8bb2-34760e4bfc62
   - order: 2
     body: >-

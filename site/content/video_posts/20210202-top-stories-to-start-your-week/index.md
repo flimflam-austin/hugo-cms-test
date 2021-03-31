@@ -2,20 +2,24 @@
 title: Top Stories to Start Your Week
 slug: 20210202-top-stories-to-start-your-week
 _id: legacy-63f8d3da-89af-4df0-89c4-d5c434e3b0e3
-_rev: O8E8pz1fLwnc3fN7JVF8RC
+_rev: 45Isps23253Yjlaq27qzyL
 type: video_posts
 draft: false
 aliases:
   - article/top-stories-to-start-your-week/
 _createdAt: '2021-02-02T18:53:11Z'
-_updatedAt: '2021-03-22T13:12:00Z'
+_updatedAt: '2021-03-25T20:55:52Z'
 date: '2021-02-02T18:53:11+00:00'
+lastmod: '2021-02-02T18:53:11+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     7619bd8e12cc3839e58e3951ebb35d54e0f80206-640x428.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="p1Rv_iTGt1U" title="Top Stories To Start Your Week, Coup In Myanmar, Executive Actions By President Biden" >}}

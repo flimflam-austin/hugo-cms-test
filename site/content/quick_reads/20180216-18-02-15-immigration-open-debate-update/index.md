@@ -2,14 +2,15 @@
 title: 18.02.15 Immigration Open Debate Update
 slug: 20180216-18-02-15-immigration-open-debate-update
 _id: legacy-ce43d8d8-45a7-4ac5-8f8b-6939224dbec7
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: LotyrYkaRjTl0E452wMu3B
 type: quick_reads
 draft: false
 aliases:
   - 18-02-15-immigration-open-debate-update/
 _createdAt: '2018-02-16T12:51:11Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:45:22Z'
 date: '2018-02-16T12:51:11+00:00'
+lastmod: '2018-02-16T12:51:11+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,7 +24,7 @@ cards:
       ## Immigration Debate Hits Dead End…For Now
 
 
-      > ‘No one comes out a winner in this. We tried everything.’  
+      > "No one comes out a winner in this. We tried everything."  
         
         
         
@@ -84,7 +85,6 @@ cards:
 
       [View Photos Click
       Here](https://twitter.com/SRE_mx/status/963944565768990720)
-    citation: View Photos Click Here
     _key: card-5-92ca55c3-aba5-4dd6-867a-9d683686f578
   - order: 5
     body: >-
@@ -95,9 +95,6 @@ cards:
       establish comprehensive agreements on several issues, including economic
       cooperation and trade, security and law enforcement, energy, regional
       initiatives, and **immigration**.”
-
-
-      WH Press Office
     citation: WH Press Office
     _key: card-6-25c6e737-ff79-4633-bdcf-e4c5a0eb2a7e
   - order: 6

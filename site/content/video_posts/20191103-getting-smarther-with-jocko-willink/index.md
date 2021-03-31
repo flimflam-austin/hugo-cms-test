@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2019-11-04T03:58:34Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2019-11-04T03:58:34+00:00'
+lastmod: '2019-11-04T03:58:34+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     7a456fd0a51b3f7d5ebbf5e134d982fb6b1bff14-1775x1300.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id=_JOK7AFik7s" title="Jenna Chats With Jocko Willink" >}}

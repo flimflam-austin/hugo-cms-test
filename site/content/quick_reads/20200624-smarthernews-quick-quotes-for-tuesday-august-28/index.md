@@ -2,14 +2,15 @@
 title: Smarthernews Quick Quotes for August 28
 slug: 20200624-smarthernews-quick-quotes-for-tuesday-august-28
 _id: legacy-d435a9d1-a1c7-4c34-8325-ab5baeaf9ac9
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: 0aCMfzqL0erea7otJxYZr3
 type: quick_reads
 draft: false
 aliases:
   - smarthernews-quick-quotes-for-tuesday-august-28/
 _createdAt: '2018-08-28T12:01:12Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-27T20:44:46Z'
 date: '2018-08-28T12:01:12+00:00'
+lastmod: '2018-08-28T12:01:12+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -42,7 +43,6 @@ cards:
 
 
       [click: Refresher](https://smarthernews.com/18-07-30-3d-guns/)
-    citation: 'click: Refresher'
     _key: card-3-d813348d-d1ff-47ef-8e4a-d7a6150c62fc
   - order: 3
     body: >-

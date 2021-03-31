@@ -13,16 +13,25 @@ const serializers = {
   types: {
     youtube: (node) => {
       const { url } = node;
-      if (!url) throw `Could not extract Youtube id from node: ${node}`;
+      if (!url)
+        throw `Could not extract Youtube id from node: ${JSON.stringify(
+          node
+        )} at url: ${url}`;
 
       return `{{< youtube id="${getYouTubeId(node.url)}" >}}`;
     },
     vimeo: (node) => {
       const { url } = node;
-      if (!url) throw `Could not get url from node: ${node}`;
+      if (!url)
+        throw `Could not get url from node: ${JSON.stringify(
+          node
+        )} at url: ${url}`;
 
       const { id, service } = getVideoId(node);
-      if (!id) throw `Could not get id from node: ${node}`;
+      if (!id)
+        throw `Could not get id from node: ${JSON.stringify(
+          node
+        )} at url: ${url}`;
 
       if (service === "vimeo") {
         return `{{< vimeo id="${id}" >}}`;
@@ -32,11 +41,16 @@ const serializers = {
     },
     instagramPost: (node) => {
       const { url } = node;
-      if (!url) throw `Could not get url from node: ${node}`;
+      if (!url)
+        throw `Could not get url from node: ${JSON.stringify(
+          node
+        )} at url: ${url}`;
 
       const idArray = getInstagramId(url);
       if (!idArray || !idArray[0])
-        throw `Could not extract instagram post id from node: ${node}`;
+        throw `Could not extract instagram post id from node: ${JSON.stringify(
+          node
+        )} at url: ${url}`;
 
       return `{{< instapost id="${idArray[0]}" >}}`;
     },

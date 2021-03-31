@@ -2,14 +2,15 @@
 title: 18.02.27 North Korea & Syria
 slug: 20180228-18-02-27-north-korea-syria
 _id: legacy-8fcbaf36-fcb6-4f4f-b7ae-eb8e12a3b9b2
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: LotyrYkaRjTl0E452wNqc9
 type: quick_reads
 draft: false
 aliases:
   - 18-02-27-north-korea-syria/
 _createdAt: '2018-02-28T13:05:13Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T22:02:54Z'
 date: '2018-02-28T13:05:13+00:00'
+lastmod: '2018-02-28T13:05:13+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,18 +21,15 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     body: >-
-      Dangerous Duo:  
+      Dangerous Duo:
 
-      North Korea & Syria ====================================
-
-
-      **North Korea** shipping chemical weapon supplies to **Syrian**
-      government, according to a United Nations report reviewed exclusively by
-      the New York Times.
+        
+      North Korea & Syria **North Korea** shipping chemical weapon supplies to
+      **Syrian** government, according to a United Nations report reviewed
+      exclusively by the New York Times.
 
 
       Flip For More From NYT
-    citation: Flip For More From NYT
     _key: card-1-71d760fb-b2fa-409c-93a9-4acd26a9d106
   - order: 1
     body: >-
@@ -63,8 +61,9 @@ cards:
       Korea & Syria.
 
 
+
+
       Flip For History
-    citation: Flip For History
     _key: card-3-b479bf0b-78d0-4120-ba1b-f32a8852b9f3
   - order: 3
     body: >-

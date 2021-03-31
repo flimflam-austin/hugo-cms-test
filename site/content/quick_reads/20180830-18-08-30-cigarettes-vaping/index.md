@@ -2,14 +2,15 @@
 title: To Vape or Not to Vape? Are E-Cigarettes Safe?
 slug: 20180830-18-08-30-cigarettes-vaping
 _id: legacy-2209729f-37a0-47a9-8fc8-139ae95f75f7
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 45Isps23253Yjlaq2CzYnJ
 type: quick_reads
 draft: false
 aliases:
   - 18-08-30-cigarettes-vaping/
 _createdAt: '2018-08-30T11:11:52Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-27T20:58:00Z'
 date: '2018-08-30T11:11:52+00:00'
+lastmod: '2018-08-30T11:11:52+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,15 +23,14 @@ cards:
     body: >-
       To Vape Or  
 
-      Not To Vape? =========================
+      Not To Vape?
 
 
-      Approx. 1 out of 8A U.S. adults smoke cigarettes. A new study says
+      Approx. 1 out of 8 U.S. adults smoke cigarettes. A new study says
       **e-cigarette use is on the rise**, especially among young people.
 
 
       What's "Safe"?
-    citation: What's "Safe"?
     _key: card-1-94967a9f-2302-44ff-9886-419dfb208f5e
   - order: 1
     body: >-
@@ -38,7 +38,7 @@ cards:
         
         
         
-      **A “The most common pattern of use in the U.S. is dual use, i.e. current
+      ** “The most common pattern of use in the U.S. is dual use, i.e. current
       use of both traditional cigarettes and electronic cigarettes.”**  
         
         
@@ -46,7 +46,7 @@ cards:
       Dr. Michael Blaha, study co-author
 
 
-      * Nearly 1 in 20 adults vape with 1 in 3 e-cigarette usersA vaping daily
+      * Nearly 1 in 20 adults vape with 1 in 3 e-cigarette users vaping daily
 
       * 15% never smoked cigarettes
 
@@ -57,18 +57,17 @@ cards:
       BOTTOM LINE:
 
 
-      ===============
 
 
       **E-cigarettes are NOT an FDA-approved quit smoking aid.**
 
 
       E-cigarettes are considered a “tobacco product” because they contain
-      nicotine, which is highly addictive, and derived from tobacco.
+      nicotine, which is highly addictive and derived from tobacco.
     _key: card-3-489a90a6-644c-4236-a01b-1f32d9b0d8fd
   - order: 3
     body: >-
-      > “E-cigarette aerosol generally contains fewer toxic chemicals than theA
+      > “E-cigarette aerosol generally contains fewer toxic chemicals than the
       deadly mix of 7,000 chemicals in smoke from regular cigarettes. However,
       **e-cigarette aerosol is not harmless**. It can contain harmful and
       potentially harmful substances, including nicotine, heavy metals like

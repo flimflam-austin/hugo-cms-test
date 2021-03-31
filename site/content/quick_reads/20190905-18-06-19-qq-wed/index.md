@@ -2,14 +2,15 @@
 title: 18.06.19 Qq Wed
 slug: 20190905-18-06-19-qq-wed
 _id: legacy-7c45e1ba-5484-40c0-814a-d00b8cc616c1
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: LotyrYkaRjTl0E452wYvTR
 type: quick_reads
 draft: false
 aliases:
   - 18-06-19-qq-wed/
 _createdAt: '2018-06-20T08:59:10Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T01:41:08Z'
 date: '2018-06-20T08:59:10+00:00'
+lastmod: '2018-06-20T08:59:10+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -66,7 +67,6 @@ cards:
   - order: 4
     body: >-
       > “extensive and damaging sabotage to our operations.’  
-        
         
         
       Elon Musk in an email seen by Reuters discussing an unnamed Tesla employee

@@ -2,14 +2,15 @@
 title: 18.05.15 Summer Gas Prices
 slug: 20180515-18-05-15-summer-gas-prices
 _id: legacy-bfe85b97-bebb-41a0-a874-72b69d2100ba
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: LotyrYkaRjTl0E452wVBZ7
 type: quick_reads
 draft: false
 aliases:
   - 18-05-15-summer-gas-prices/
 _createdAt: '2018-05-16T10:34:51Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-26T00:17:22Z'
 date: '2018-05-16T10:34:51+00:00'
+lastmod: '2018-05-16T10:34:51+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,21 +32,16 @@ cards:
 
 
       I feel like this happens EVERY Summer... Why?
-    citation: I feel like this happens EVERY Summer... Why?
     _key: card-1-4b7e7131-b5d4-4369-aed0-17dfaf4740c7
   - order: 1
     body: >-
-      > U.S. economic growth has boosted demand for oil which means most
-      consumers should be able to afford to pay more at the pump, BUT wildcards
-      in oil-producing areas may mean higher prices ahead.  
+      U.S. economic growth has boosted demand for oil which means most consumers
+      should be able to afford to pay more at the pump, BUT wildcards in
+      oil-producing areas may mean higher prices ahead.  
         
-        
-        
-      **_‘Three dollars is like a small fence. You can get through it, you can
+      **_"Three dollars is like a small fence. You can get through it, you can
       get over it. But $4 is like the electric fence in Jurassic Park. There’s
-      no getting over that.’_**  
-        
-        
+      no getting over that."_**  
         
       Patrick DeHaan, GasBuddy analyst
     _key: card-2-8485764f-d066-410f-9aad-7ae816dc6e04
@@ -78,7 +74,6 @@ cards:
 
 
       CLICK: FOR TIPS TO $AVE
-    citation: 'CLICK: FOR TIPS TO $AVE'
     _key: card-4-1c81fdd9-1889-487a-b944-fcb16029bb9a
   - order: 4
     body: >-

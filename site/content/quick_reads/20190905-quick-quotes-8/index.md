@@ -2,14 +2,15 @@
 title: Quick Quotes for Monday, September 24th
 slug: 20190905-quick-quotes-8
 _id: legacy-9e6fea42-b324-4974-8dee-69bb1884ef41
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: LotyrYkaRjTl0E452ydqDt
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-8/
 _createdAt: '2018-09-24T12:00:28Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T22:31:38Z'
 date: '2018-09-24T12:00:28+00:00'
+lastmod: '2018-09-24T12:00:28+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,10 +21,8 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     body: >-
-      > ‘They’ve changed the science… I don’t think any two people come close to
-      the impact they have had.’  
-        
-        
+      > "They’ve changed the science… I don’t think any two people come close to
+      the impact they have had."  
         
       David Boies, a high-profile attorney who suffers from dyslexia, reflecting
       on Sally and Bennett Shaywitz who lead Yale Center for Dyslexia and
@@ -33,10 +32,8 @@ cards:
     _key: card-1-0e7bddfb-5476-488f-b879-53674709222f
   - order: 1
     body: >-
-      > ‘I am writing to request an immediate postponement of any further
-      proceedings related to the nomination of Brett Kavanaugh.’  
-        
-        
+      "I am writing to request an immediate postponement of any further
+      proceedings related to the nomination of Brett Kavanaugh."  
         
       Sen. Dianne Feinstein, in a letter to Sen. Grassley, the head of the
       Senate Judiciary Committee. On Sunday night another allegation surfaced
@@ -50,8 +47,6 @@ cards:
       to make in terms of whether they get exemptions or not but I’ll tell you
       right now we’re gonna be really tough on Iran.”  
         
-        
-        
       UN Ambassador Nikki Haley on whether the other parties to the 2015 Iran
       nuclear deal will face penalties for doing business with Iran. Pres. Trump
       said the U.S. would withdraw from the deal in May. A second set of
@@ -61,8 +56,6 @@ cards:
     body: >-
       > “We will overcome this situation and America will regret choosing the
       wrong path.”  
-        
-        
         
       Iranian Pres. Rouhani speaking about the U.S. exiting the nuclear
       agreement & re-implementing sanctions that hurt Iran's economy. Rouhani
@@ -75,8 +68,6 @@ cards:
       > “Everyone will want to know if Cosby is given a pass after all this. If
       the answer is no, that’s a message that will reverberate.”  
         
-        
-        
       Deborah Tuerkheimer, former sex crimes prosecutor & Northwestern
       University law professor, as Bill Cosby (81) returns to the courtroom for
       a 2-day sentencing Monday after a jury found he drugged and molested a
@@ -85,9 +76,8 @@ cards:
     _key: card-5-d1fd4130-2d2f-4db5-b4f0-9bfa08166c5a
   - order: 5
     body: >-
-      > ‘I sort of feel like Amazon is playing chess when everyone else is
-      playing checkers…’  
-        
+      > "I sort of feel like Amazon is playing chess when everyone else is
+      playing checkers…"  
         
         
       Andrew Lipsman, eMarketer principal analyst, as Amazon unveils a dozen,
@@ -110,8 +100,6 @@ cards:
     body: >-
       > “We are trying to make the world a better place by taking as much pain
       out of it as we can.”  
-        
-        
         
       Charlotte Gill, owner of Charlotte’s Legendary Lobster Pound in Maine, who
       is sedating lobsters with marijuana smoke in hopes of killing them more

@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-10-21T10:43:08Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-10-21T10:43:08+00:00'
+lastmod: '2020-10-21T10:43:08+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     cb60cf4416de35fa84ad2a5649835d6b50417252-1024x683.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="snzCakPbV-k" title="Marking 9 Months of COVID-19 in America" >}}

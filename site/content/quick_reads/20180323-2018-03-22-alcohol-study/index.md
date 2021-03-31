@@ -2,14 +2,15 @@
 title: 2018.03.22 Alcohol Study
 slug: 20180323-2018-03-22-alcohol-study
 _id: legacy-acc030aa-bb78-4a8f-9179-7958e8fc5c72
-_rev: O8E8pz1fLwnc3fN7JVEzvC
+_rev: 45Isps23253Yjlaq2873dn
 type: quick_reads
 draft: false
 aliases:
   - 2018-03-22-alcohol-study/
 _createdAt: '2018-03-23T11:30:56Z'
-_updatedAt: '2021-03-22T13:11:06Z'
+_updatedAt: '2021-03-25T22:36:02Z'
 date: '2018-03-23T11:30:56+00:00'
+lastmod: '2018-03-23T11:30:56+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,12 +28,11 @@ cards:
 
 
       New gov’t study may once and for all set the record straight about whether
-      or not a drink a day is good for youa|But it’s not without a splash of
+      or not a drink a day is good for you, but it’s not without a splash of
       controversy.
 
 
       Flip Here
-    citation: Flip Here
     _key: card-1-30ee705f-20b3-4394-a56b-890b1e6c5518
   - order: 1
     body: >-
@@ -51,8 +51,9 @@ cards:
       * Tracked for 6 years on average.
 
 
+
+
       hold up... WE'RE SPENDING HOW MUCH?
-    citation: hold up... WE'RE SPENDING HOW MUCH?
     _key: card-2-62fbc3f3-17e9-45a3-b691-f153dca9c8a5
   - order: 2
     body: >-
@@ -63,14 +64,11 @@ cards:
       money on research for a possible good use of alcohol was something that
       would never fly.”  
         
-        
-        
       Dr. Lorraine Gunzerath, Retired from NIH's National Institute on Alcohol
       Abuse and Alcohol to NYT, 3/17/18
     _key: card-3-092d5598-2740-4d8d-87e7-e0cfa226db28
   - order: 3
     body: "## So How’d They Pay For It?\n\nTurns outA 5 large beer and liquor companies a\x14 **Anheuser-Busch InBev**, **Heineken**, **Carlsberg**, **Diageo**A & **Pernod Ricard** a\x14 agreed to contribute **$67M of the $100M** cost of the study.\n\nN.I.H. courted the alcohol industry for donations, according to the NYT.\n\n[Click for NYT scoop](https://www.nytimes.com/2018/03/17/health/nih-alcohol-study-liquor-industry.html?emc=edit_nn_20180318&nl=morning-briefing&nlid=3452358220180318&te=1)"
-    citation: Click for NYT scoop
     _key: card-4-1db2e221-9c09-432a-b212-72c5daf17f27
   - order: 4
     body: >-

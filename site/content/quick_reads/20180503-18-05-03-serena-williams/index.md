@@ -2,14 +2,15 @@
 title: 18.05.03 Serena Williams
 slug: 20180503-18-05-03-serena-williams
 _id: legacy-4b357d63-e200-4536-8315-fb7e6b9c3a44
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 0aCMfzqL0erea7otJrx8Rr
 type: quick_reads
 draft: false
 aliases:
   - 18-05-03-serena-williams/
 _createdAt: '2018-05-03T10:52:21Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:34:57Z'
 date: '2018-05-03T10:52:21+00:00'
+lastmod: '2018-05-03T10:52:21+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,8 +27,6 @@ cards:
       > **“Without fear, without doubt, without discomfort, what is there for a
       person to overcome?”**  
         
-        
-        
       Serena Williams, in the premiere May 2 episode of "Being Serena," a
       five-part HBO docu-series about the athlete, entrepeneur, &
       philanthropist, and her journey into motherhood.
@@ -35,7 +34,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/cNABSm-jUNk?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-c841fc91-963f-4eaa-8015-6c626dfe6806
   - order: 1
     body: >-
@@ -44,12 +42,8 @@ cards:
 
       > Serena, born the youngest of five girls, was raised in Compton, CA.  
         
-        
-        
       Trained by their dad, she & sister, Venus, grew up to be two of the
       greatest tennis players ever.  
-        
-        
         
       When Serena met her would-be husband, Reddit co-founder Alexis Ohanian,
       she’d never heard of Reddit & he’d never watched her play tennis.

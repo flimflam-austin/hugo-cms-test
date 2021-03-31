@@ -2,14 +2,15 @@
 title: A Courageous Voice
 slug: 20180825-18-08-24-nicaragua-podcast
 _id: legacy-b0fd9951-4523-4ce7-85fb-bb5b15fb2366
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: LotyrYkaRjTl0E452xZZyf
 type: quick_reads
 draft: false
 aliases:
   - 18-08-24-nicaragua-podcast/
 _createdAt: '2018-08-25T12:40:26Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:19:01Z'
 date: '2018-08-25T12:40:26+00:00'
+lastmod: '2018-08-25T12:40:26+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,14 +25,12 @@ cards:
       my life.”  
         
         
-        
       Our guest, joining us from Nicaragua, explains why he feels compelled to
       speak out as turmoil rises in his country. It's a perspective you won't
       hear anywhere else.
 
 
       [Listen:](http://smarthernews.libsyn.com/smarther-news-podcast-ep11-crisis-in-nicaragua)
-    citation: 'Listen:'
     _key: card-1-ede63138-5185-41e2-a32a-01014aaa9d00
   - order: 1
     body: >-

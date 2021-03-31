@@ -2,14 +2,15 @@
 title: 18.03.07 Bloody Sunday
 slug: 20180307-18-03-07-bloody-sunday
 _id: legacy-abb6afa8-2a2c-49f9-ad06-274a23ba6eaf
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: 45Isps23253Yjlaq284FMJ
 type: quick_reads
 draft: false
 aliases:
   - 18-03-07-bloody-sunday/
 _createdAt: '2018-03-07T12:20:58Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:12:13Z'
 date: '2018-03-07T12:20:58+00:00'
+lastmod: '2018-03-07T12:20:58+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -33,7 +34,6 @@ cards:
 
 
       TAP HERE FOR MORE
-    citation: TAP HERE FOR MORE
     _key: card-1-935304ca-47b8-4356-9658-90cb885f29ec
   - order: 1
     body: >-
@@ -74,7 +74,6 @@ cards:
 
 
       FLIP TO CONTINUE
-    citation: FLIP TO CONTINUE
     _key: card-4-ff7c3e1c-2059-4821-86b5-20f7e289be59
   - order: 4
     body: >-
@@ -89,7 +88,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/DRwnXUbJdfg?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-5-2b202023-d25d-45e8-a279-c24ae5b60b19
   - order: 5
     body: >-
@@ -104,7 +102,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/5NvPhiuGZ6I?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-6-17dee8ed-cd05-46cd-a621-c88bbca77e9e
   - order: 6
     body: >-

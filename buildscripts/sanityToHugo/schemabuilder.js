@@ -4,7 +4,9 @@ const portableTextToMarkdown = require("./portableTextToMarkdown");
 
 const translateTypeName = (type) => {
   if (!type) {
-    console.error(`Value of type '${type}' is not valid. Returning null.`);
+    console.error(
+      "Type missing for entry at 'translateTypeName'. Returning null."
+    );
     return null;
   }
 
@@ -20,7 +22,7 @@ const translateTypeName = (type) => {
 
   if (!translatedType) {
     console.error(
-      `Translated article type of '${translatedType}' from '${type}' is not valid. Returning null.`
+      `Failed to translate 'type' of entry. The type '${type}' is not valid. Returning null.`
     );
     return null;
   }
@@ -33,8 +35,9 @@ const removeIdPrefix = (id) => {
   return unprefixedId;
 };
 
-const isDraft = (id) =>
-  id.toLowerCase().slice(0, 5) === "draft" ? true : false;
+const isDraft = (id) => {
+  return id.toLowerCase().slice(0, 5) === "draft" ? true : false;
+};
 
 const getTags = (tags) => {
   if (!ff.isFilledArray(tags)) return null;
@@ -74,7 +77,7 @@ const getQuickQuotesFields = (data) => {
   ];
 
   const generalFields = [
-    sh.getBoolPair("is_breaking", data.is_breaking),
+    sh.getBoolPair("is_breaking", data.is_breaking, false),
     sh.getFlatPair("summary", data.summary),
   ];
 
@@ -137,9 +140,9 @@ const getVideoPostsFields = (data) => {
       "video_series",
       data.series ? data.series.title : "spotlight"
     ),
-    sh.getFlatPair("is_breaking", data.is_breaking),
-    sh.getFlatPair("is_breaking_dropdown", data.is_breaking_dropdown),
-    sh.getFlatPair("is_featured", data.is_featured),
+    sh.getFlatPair("is_breaking", data.is_breaking, false),
+    sh.getFlatPair("is_breaking_dropdown", data.is_breaking_dropdown, false),
+    sh.getFlatPair("is_featured", data.is_featured, false),
   ];
 
   return ff.compileValidArrayValues(fields);
@@ -242,7 +245,7 @@ const getUniversalFields = (data) => {
     sh.getFlatPair("_createdAt", data._createdAt),
     sh.getFlatPair("_updatedAt", data._updatedAt),
     sh.getFlatPair("date", data.datePublished, data._createdAt),
-    sh.getFlatPair("lastmod", data.lastModified),
+    sh.getFlatPair("lastmod", data.lastModified, data.datePublished),
     sh.getFlatPair("weight", data.weight, 50),
     sh.getFlatPair("tags", data.tags, null, getTags),
     sh.getFlatPair("summary", data.summary),
@@ -256,27 +259,45 @@ const getUniversalFields = (data) => {
 const getJsonFromSanityData = (data) => {
   if (!data) {
     console.error(
-      "There was an error fetching from sanity! =(\n\tConversion failed: Cannot parse empty dataset. Skipping and returning Null. Caught by guard clase at entry to getJsonFromSanityData"
+      "There was an uncaught error fetching from sanity! =(\n\tConversion failed: Cannot parse empty dataset. Skipping and returning Null. Caught by guard clase at entry to getJsonFromSanityData"
+    );
+    return null;
+  }
+
+  if (!data.slug) {
+    console.error(
+      `Skipping item with id: ${data._id}. Reason: No slug was found.`
+    );
+    return null;
+  }
+
+  if (!data.title) {
+    console.error(
+      `Skipping item with id: ${data._id}. Reason: No title was found.`
     );
     return null;
   }
 
   if (!data._type) {
     console.error(
-      `Entry with type '${data._type}' is invalid. Skipping and returning null.`
+      `Skipping item with id: ${data._id}. Reason: No type was found.`
     );
     return null;
   }
 
   const sectionalFields = getSectionalFields(data);
   if (!sectionalFields) {
-    console.error("No sectional fields found. Returning null.");
+    console.error(
+      `Skipping item with id: ${data._id}. Reason: No sectional fields produced.`
+    );
     return null;
   }
 
   const universalFields = getUniversalFields(data);
   if (!universalFields) {
-    console.error("No universal fields found. Returning null.");
+    console.error(
+      `Skipping item with id: ${data._id}. Reason: No universal fields produced.`
+    );
     return null;
   }
 
@@ -297,9 +318,14 @@ const getJsonFromSanityData = (data) => {
     ...validatedBody,
   });
 
-  console.log(
-    `New page built =)\ntype: ${builtPage.frontmatter._type} | id: ${builtPage.frontmatter._type}`
-  );
+  if (!builtPage.frontmatter) {
+    console.error(
+      `Skipping item with id: ${data._id}. Reason: Failed to create frontmatter.`
+    );
+    return null;
+  }
+
+  //console.log(`New page built =)\ntype: ${data._type} | id: ${data._id}`);
 
   return builtPage;
 };

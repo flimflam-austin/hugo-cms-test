@@ -2,14 +2,15 @@
 title: 18.14.02 How Much $ = :)
 slug: 20180215-18-14-02-much
 _id: legacy-cfb3ec28-85cb-4807-a2a8-0b7f89373dca
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: 45Isps23253Yjlaq27zWtj
 type: quick_reads
 draft: false
 aliases:
   - 18-14-02-much/
 _createdAt: '2018-02-16T23:00:55Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:48:02Z'
 date: '2018-02-16T23:00:55+00:00'
+lastmod: '2018-02-16T23:00:55+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,9 +24,6 @@ cards:
       How Much Money Do You REALLY Need?
 
 
-      =====================================
-
-
       ## $95,000
 
 
@@ -34,7 +32,6 @@ cards:
 
 
       Cha-Ching: Flip Card
-    citation: 'Cha-Ching: Flip Card'
     _key: card-1-735c80fc-e2bc-49cc-a6c7-3e5df423262b
   - order: 1
     body: >-

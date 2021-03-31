@@ -2,14 +2,15 @@
 title: 18.07.18 Blockbuster
 slug: 20180718-18-07-18-blockbuster
 _id: legacy-1ab4fd66-a910-4dfb-bed0-05360a8680c3
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 45Isps23253Yjlaq28dD6x
 type: quick_reads
 draft: false
 aliases:
   - 18-07-18-blockbuster/
 _createdAt: '2018-07-18T11:01:03Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:54:19Z'
 date: '2018-07-18T11:01:03+00:00'
+lastmod: '2018-07-18T11:01:03+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,12 +25,11 @@ cards:
 
 
       In its heyday, a new Blockbuster store opened every 17 hours,A but now
-      **only one remains in theA US…A** and itA may have a **$40 late fee to
+      **only one remains in theA US…A** and it may have a **$40 late fee to
       blame for its downfall**.
 
 
       Be Kind, Please Rewind.
-    citation: Be Kind, Please Rewind.
     _key: card-1-20de7980-23df-4c73-b44d-dd0b843150ad
   - order: 1
     body: >-

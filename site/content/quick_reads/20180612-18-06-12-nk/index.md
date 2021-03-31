@@ -2,14 +2,15 @@
 title: 18.06.12 Nk
 slug: 20180612-18-06-12-nk
 _id: legacy-f9519770-3639-48e4-9508-7248bf520ab6
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 0aCMfzqL0erea7otJsAvBS
 type: quick_reads
 draft: false
 aliases:
   - 18-06-12-nk/
 _createdAt: '2018-06-12T12:25:56Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:25:45Z'
 date: '2018-06-12T12:25:56+00:00'
+lastmod: '2018-06-12T12:25:56+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -48,9 +49,7 @@ cards:
       ## What It Doesn’t Say:
 
 
-      >   
-        
-      “**We will be stopping the war games** … unless and until we see the
+      > “**We will be stopping the war games** … unless and until we see the
       future negotiation is not going along like it should.”
 
 
@@ -68,16 +67,12 @@ cards:
       prepared to start a new history and we’re ready to write new chapter
       between our two nations**.”  
         
-        
-        
       Pres. Trump's remarks following Singapore Summit
     _key: card-4-038f0157-b874-4b89-ad18-f22f7915e1c2
   - order: 4
     body: >-
       > **“I think without Otto, this would not have happened…. Otto did not die
       in vain. He had a lot to do with us being here today.”**  
-        
-        
         
       In 2016, Otto Warmbier was a 21-year-old American student who was arrested
       in North Korea after he was accused of stealing a political (propoganda)

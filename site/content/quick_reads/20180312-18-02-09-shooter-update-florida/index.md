@@ -2,14 +2,15 @@
 title: 18.02.09 Shooter Update Florida
 slug: 20180312-18-02-09-shooter-update-florida
 _id: legacy-48334934-d4b3-4726-886d-e0fab73ba6c8
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: 45Isps23253Yjlaq284yWs
 type: quick_reads
 draft: false
 aliases:
   - 18-02-09-shooter-update-florida/
 _createdAt: '2018-03-12T12:04:44Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:18:34Z'
 date: '2018-03-12T12:04:44+00:00'
+lastmod: '2018-03-12T12:04:44+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,7 +35,6 @@ cards:
 
 
       Flip: Break In Case?
-    citation: 'Flip: Break In Case?'
     _key: card-1-c377d8e4-7722-43c5-a343-787b728a9380
   - order: 1
     body: >-
@@ -63,7 +63,6 @@ cards:
 
 
       Flip For More
-    citation: Flip For More
     _key: card-3-a47669e8-8763-42d2-bfbc-5ef2187357fb
   - order: 3
     body: >-
@@ -91,7 +90,6 @@ cards:
 
       [Read Full
       Article:](https://www.realclearinvestigations.com/articles/2018/02/28/obama_administration_school_discipline_policy_and_the_parkland_shooting.html)
-    citation: 'Read Full Article:'
     _key: card-5-f3254f58-0002-4513-bcf2-116dd512a679
   - order: 5
     body: >-

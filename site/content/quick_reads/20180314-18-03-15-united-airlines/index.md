@@ -10,6 +10,7 @@ aliases:
 _createdAt: '2018-03-15T12:30:10Z'
 _updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-15T12:30:10+00:00'
+lastmod: '2018-03-15T12:30:10+00:00'
 weight: 50
 card_series: Current Events
 colorpaletteclassname: '--dark-brown'

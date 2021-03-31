@@ -2,14 +2,15 @@
 title: 18.06.19 Forever War
 slug: 20180704-18-06-19-forever-war
 _id: legacy-76018730-51c8-4f9f-93af-7a02e20f0df1
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 45Isps23253Yjlaq28YEHI
 type: quick_reads
 draft: false
 aliases:
   - 18-06-19-forever-war/
 _createdAt: '2018-07-05T02:47:27Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:13:55Z'
 date: '2018-07-05T02:47:27+00:00'
+lastmod: '2018-07-05T02:47:27+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,11 +30,9 @@ cards:
 
 
       how long is too long?
-    citation: how long is too long?
     _key: card-1-b4e2640f-1ab4-4b99-b160-a6d96ffe6a58
   - order: 1
-    body: "## Background\n\n* AUMF = Authorization for Use of Military Force\n* AUMF became public law on Sept. 18, 2001 after 9/11 attacks.\n* Allows president to use ‘all necessary & appropriate forces against’ terrorists who committed or aided in 9/11 attacks a\x13 particularly, Al Qaeda & Taliban.\n\nsounds reasonable..."
-    citation: sounds reasonable...
+    body: "## Background\n\n* AUMF = Authorization for Use of Military Force\n* AUMF became public law on Sept. 18, 2001 after 9/11 attacks.\n* Allows president to use ‘all necessary & appropriate forces against’ terrorists who committed or aided in 9/11 attacks a\x13 particularly, Al Qaeda & Taliban.\n\n\n\nsounds reasonable..."
     _key: card-2-a4f01c73-e6d4-4191-b7d9-ba00926648b6
   - order: 2
     body: >-
@@ -49,9 +48,10 @@ cards:
       * Lawmakers: time to take war off “autopilot.”
 
 
+
+
       [Click: Fascinating
       Map](http://watson.brown.edu/costsofwar/files/cow/imce/papers/Current%20US%20Counterterror%20War%20Locations_Costs%20of%20War%20Project%20Map.pdf)
-    citation: 'Click: Fascinating Map'
     _key: card-3-fb098311-4243-4420-9460-f7157f978484
   - order: 3
     body: >-

@@ -2,14 +2,15 @@
 title: Carrie Underwood on Personal Struggles
 slug: 20180917-carrie-underwood
 _id: legacy-1647b84d-ef63-438e-8740-c87c33b48b68
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 0aCMfzqL0erea7otJxjvl4
 type: quick_reads
 draft: false
 aliases:
   - carrie-underwood/
 _createdAt: '2018-09-17T11:25:01Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:05:44Z'
 date: '2018-09-17T11:25:01+00:00'
+lastmod: '2018-09-17T11:25:01+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,9 +23,6 @@ cards:
     body: >-
       > _“I’ve had a good life, and you can’t win all the time. You gotta have
       some downs to realize when you’re up.”_
-
-
-      CARRIE UNDERWOOD
     citation: CARRIE UNDERWOOD
     _key: card-1-79ba481d-cdaa-4dba-bbd7-5d682b899d70
   - order: 1

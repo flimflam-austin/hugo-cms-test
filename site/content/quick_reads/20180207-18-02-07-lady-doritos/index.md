@@ -2,14 +2,15 @@
 title: 18.02.07 Lady Doritos
 slug: 20180207-18-02-07-lady-doritos
 _id: legacy-d31c1bc7-b7ff-4b8f-823c-c9e99cbc2596
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: 0aCMfzqL0erea7otJrXB30
 type: quick_reads
 draft: false
 aliases:
   - 18-02-07-lady-doritos/
 _createdAt: '2018-02-07T14:05:56Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T20:49:41Z'
 date: '2018-02-07T14:05:56+00:00'
+lastmod: '2018-02-07T14:05:56+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,11 +33,9 @@ cards:
 
 
       [Listen to the Podcast](http://freakonomics.com/podcast/indra-nooyi/%20)
-    citation: Listen to the Podcast
     _key: card-1-b7345717-81f2-4434-8600-cf5369fb0802
   - order: 1
-    body: "# Reaction Wasn’t Good\n\n> The controversy ended when Doritos recanted on Monday:  \n  \n  \n  \n“**_We already have Doritos for women a\x14 they’re called Doritos, and they’re loved by millions_**.”\n\n[@Doritos Tweet](https://twitter.com/Doritos/status/960668947812093952)"
-    citation: '@Doritos Tweet'
+    body: "# Reaction Wasn’t Good\n\n> The controversy ended when Doritos recanted on Monday:  \n  \n  \n“**_We already have Doritos for women a\x14 they’re called Doritos, and they’re loved by millions_**.”\n\n[@Doritos Tweet](https://twitter.com/Doritos/status/960668947812093952)"
     _key: card-2-313b95fe-3927-4e63-a4b9-eef40815846d
   - order: 2
     body: >-
@@ -66,7 +65,6 @@ cards:
 
       [BIC For Her Fashion Retractable Ball
       Pen](https://www.amazon.com/BIC-Fashion-Retractable-Assorted-Fashion-FHAP21-ASST/dp/B005YGLA5Y)
-    citation: BIC For Her Fashion Retractable Ball Pen
     _key: card-4-1a3525da-8725-4053-b261-8caf15fcc7f0
   - order: 4
     body: >-
@@ -78,7 +76,6 @@ cards:
 
       [Howard Leight Super Leight Earplugs for
       Women](https://www.google.com/shopping/product/4524234291918787101?%20)
-    citation: Howard Leight Super Leight Earplugs for Women
     _key: card-5-8cfad2c0-16f4-47ca-8da3-aab66da3339a
   - order: 5
     body: >-
@@ -90,7 +87,6 @@ cards:
 
       [Apollo Women Essential Tool
       Kit](https://www.homedepot.com/p/KING-Complete-Household-Pink-Tool-Kit-with-Bag-24-Piece-3111-0/303967535)
-    citation: Apollo Women Essential Tool Kit
     _key: card-6-7d30bb65-b479-4db5-8d28-4417b88ec134
   - order: 6
     body: '[view sources](https://smarthernews.com/18-02-07-lady-doritos/)'

@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Tuesday, January 8, 2019
 slug: 20190905-19-01-08-qq
 _id: legacy-eed442ab-a665-4bb6-b1f5-692a42342651
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: LotyrYkaRjTl0E452ykYdh
 type: quick_reads
 draft: false
 aliases:
   - 19-01-08-qq/
 _createdAt: '2019-01-08T13:19:02Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T01:03:04Z'
 date: '2019-01-08T13:19:02+00:00'
+lastmod: '2019-01-08T13:19:02+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,9 +21,7 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     body: >-
-      > ‘Tax refunds will go out.’  
-        
-        
+      "Tax refunds will go out."  
         
       Russell Vought, Acting Director of Office of Management & Budget (OMB),
       speaking at a White House briefing, explaining that the OMB believes its
@@ -34,11 +33,9 @@ cards:
     _key: card-1-a27924ac-b4f8-477e-a6b9-8118d446917a
   - order: 1
     body: >-
-      > ‘It’s not okay with me for my job to be used as a bargaining chip when
+      > "It’s not okay with me for my job to be used as a bargaining chip when
       people on either side don’t get what they want and they can’t come to an
-      agreement. I just want to work.’  
-        
-        
+      agreement. I just want to work."  
         
       Krystle Kirkpatrick, one of approx. 70,000 employees furloughed
       (temporarily laid-off) by the IRS because of the partial gov't shutdown.
@@ -51,17 +48,13 @@ cards:
       Humanitarian and National Security crisis on our Southern Border. Tuesday
       night at 9:00 P.M. Eastern.”  
         
-        
-        
       President Trump announcing a rare national address scheduled for Tuesday
       night as his team announces he will travel to the U.S. Southern Border on
       Thursday. The partial gov't shutdown enters into its 18th day on Tuesday.
     _key: card-3-f63eb504-9118-4e0b-ad76-42b35d8a62c9
   - order: 3
     body: >-
-      > ‘It’s more than a wall. A lot more.’  
-        
-        
+      > "It’s more than a wall. A lot more."  
         
       Vice President Pence, who's working to negotiate with Democrats, speaking
       about the White House's request for more than $5B in funding for border
@@ -72,11 +65,9 @@ cards:
     _key: card-4-e0d882e4-3d09-4e9f-951f-f2f0d9a77bc1
   - order: 4
     body: >-
-      > ‘Justice Ginsburg is unable to be present today, but will participate in
+      "Justice Ginsburg is unable to be present today, but will participate in
       the consideration and decision of the cases on the basis of the briefs and
       the transcripts of oral arguments.”  
-        
-        
         
       Chief Justice John Roberts on Monday confirming Justice Ruth Bader
       Ginsburg would not be physically present at the Supreme Court to hear
@@ -86,11 +77,9 @@ cards:
     _key: card-5-e8f3954c-69c3-4691-8a92-938a7e4f4679
   - order: 5
     body: >-
-      > ‘China has actually been a good partner in our efforts to reduce the
+      > "China has actually been a good partner in our efforts to reduce the
       risk to the world from North Korea’s nuclear capability. I expect they
-      will continue to do so.’  
-        
-        
+      will continue to do so."  
         
       Sec. of State Mike Pompeo commenting on China's role in talks between the
       U.S, & North Korea. North Korean leader Kim Jong Un is in China for a
@@ -100,9 +89,7 @@ cards:
   - order: 6
     body: >-
       > “There was a lot of talk about ‘best ever’ all year long. We were never
-      in that conversation. But tonight, there’s no doubt.  
-        
-        
+      in that conversation. But tonight, there’s no doubt."  
         
       Dabo Swinney, coach of the Clemson Tigers, who defeated #1 ranked Alabama
       on Monday night to claim the national championship. Some may debate the

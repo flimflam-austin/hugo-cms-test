@@ -2,14 +2,15 @@
 title: 18.08.13 Why Turkey Matters
 slug: 20180813-18-08-13-why-turkey-matters
 _id: legacy-024a482b-8547-4d23-8d11-750e569a42c9
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: 0aCMfzqL0erea7otJuxLv4
 type: quick_reads
 draft: false
 aliases:
   - 18-08-13-why-turkey-matters/
 _createdAt: '2018-08-13T11:46:24Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:53:40Z'
 date: '2018-08-13T11:46:24+00:00'
+lastmod: '2018-08-13T11:46:24+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,10 +29,9 @@ cards:
 
 
       The worldwide impact
-    citation: The worldwide impact
     _key: card-1-bdc264a2-5eb3-456b-9cf5-b0bd559e5715
   - order: 1
-    body: "> “Turkey is a NATO ally & a traditional buffer between the West and the Middle East. A …Over the last decade, however, under President ErdoA\x1Fan, the country has become increasingly radical and anti-American. **We are watching our alliance with the crucial country unravel in real time.**“  \n  \n  \n  \nDr. Jonathan Schnanzer, Senior VP with an expertise on Turkey for the Foundation For Defense of Democracies, to SmartHER News"
+    body: "“Turkey is a NATO ally & a traditional buffer between the West and the Middle East. A …Over the last decade, however, under President ErdoA\x1Fan, the country has become increasingly radical and anti-American. **We are watching our alliance with the crucial country unravel in real time.**“  \n  \nDr. Jonathan Schnanzer, Senior VP with an expertise on Turkey for the Foundation For Defense of Democracies, to SmartHER News"
     _key: card-2-7fb9baf8-fcd7-4056-9cf7-1e500c47a9b6
   - order: 2
     body: >-
@@ -47,8 +47,9 @@ cards:
       to Turkish debt who worry about losing investments.
 
 
+
+
       The U.S.A.?
-    citation: The U.S.A.?
     _key: card-3-e4846b61-1eb5-41b5-a9bd-ca7ddf6d188d
   - order: 3
     body: >-
@@ -68,7 +69,7 @@ cards:
       to it.
     _key: card-4-20b50862-cafb-4ded-b246-b9d62ab8a54f
   - order: 4
-    body: "# What Turkey Says:\n\n> ‘What is the reason for all this storm in a tea cup? There is no economic reason for thisa| This is called carrying out an operation against Turkey,’  \n  \n  \n  \nPresident ErdoA\x1Fan, speaking at a rally on Sunday August 11, 2018"
+    body: "# What Turkey Says:\n\n> ‘What is the reason for all this storm in a tea cup? There is no economic reason for thisa| This is called carrying out an operation against Turkey,’  \n  \n  \n  \nPresident Erdo\x1Fan, speaking at a rally on Sunday August 11, 2018"
     _key: card-5-b14746e2-eb00-44eb-9134-33f2380a6a34
   - order: 5
     body: "Bigger Picture: Turkey became a member of NATO (North Atlantic Treaty Organization) in 1952, 3 years after NATO was established. Pres. ErdoA\x1Fan threatened in a NYT editorial to walk away from the alliance & find new friends (many read this as Russia). Read it here.\n\n[view sources](https://smarthernews.com/18-08-13-why-turkey-matters/)"

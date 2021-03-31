@@ -2,14 +2,15 @@
 title: 18.02.05 Freezing Olympics
 slug: 20180206-18-02-05-freezing-olympics
 _id: legacy-554cc443-33d4-4fdc-94c0-e64769dea341
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: LotyrYkaRjTl0E452wJP6L
 type: quick_reads
 draft: false
 aliases:
   - 18-02-05-freezing-olympics/
 _createdAt: '2018-02-06T23:32:05Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T20:47:54Z'
 date: '2018-02-06T23:32:05+00:00'
+lastmod: '2018-02-06T23:32:05+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,7 +23,7 @@ cards:
     body: >-
       Winter Olympics:  
 
-      Coldest On Record? =====================================
+      Coldest On Record? 
 
 
       * Below-freezing conditions reportedly forced some athletes to walk out of
@@ -62,7 +63,6 @@ cards:
 
       [Click This Link For More Of His
       Interview](https://www.usatoday.com/story/life/2018/01/22/exclusive-ralph-laurens-olympic-opening-ceremony-uniforms-wearable-mini-heaters/1045189001/)
-    citation: Click This Link For More Of His Interview
     _key: card-3-3a598555-bdb8-4497-a4fa-56e38ad5f0f3
   - order: 3
     body: >-

@@ -2,14 +2,15 @@
 title: 'Quote of the Day: Mariah Carey'
 slug: 20201209-qtd-mariah-carey
 _id: legacy-a1f7957d-1c0f-423a-99f7-e94f00c7bf41
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: 45Isps23253Yjlaq2DKK18
 type: quick_reads
 draft: false
 aliases:
   - qtd-mariah-carey/
 _createdAt: '2018-12-07T13:03:09Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-28T00:56:10Z'
 date: '2018-12-07T13:03:09+00:00'
+lastmod: '2018-12-07T13:03:09+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,9 +23,6 @@ cards:
     body: >-
       > “_I felt like it was a little bit too early in my career to be doing a
       Christmas album. And then I decided to do it_. “
-
-
-      Mariah Carey
     citation: Mariah Carey
     _key: card-1-b93afc04-04a0-42ef-a59d-6f7174e46bc9
   - order: 1

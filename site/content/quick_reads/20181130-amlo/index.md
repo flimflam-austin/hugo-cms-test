@@ -10,6 +10,7 @@ aliases:
 _createdAt: '2018-12-01T04:41:22Z'
 _updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-12-01T04:41:22+00:00'
+lastmod: '2018-12-01T04:41:22+00:00'
 weight: 50
 card_series: Current Events
 colorpaletteclassname: '--light-yellow'

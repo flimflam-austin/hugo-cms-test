@@ -2,14 +2,15 @@
 title: 18.06.09 Podcast
 slug: 20180609-18-06-09-podcast
 _id: legacy-f1a88b2b-52db-4f6b-baa5-a2fa4cb4e125
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 0aCMfzqL0erea7otJs9R4x
 type: quick_reads
 draft: false
 aliases:
   - 18-06-09-podcast/
 _createdAt: '2018-06-09T13:04:43Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:11:39Z'
 date: '2018-06-09T13:04:43+00:00'
+lastmod: '2018-06-09T13:04:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
       [click here to
       listen](http://smarthernews.libsyn.com/smarther-news-episode-2)
-    citation: click here to listen
     _key: card-1-7ca35099-72d6-4834-a0d1-5a5c608b8210
   - order: 1
     body: |-

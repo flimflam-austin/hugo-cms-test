@@ -2,14 +2,15 @@
 title: 18.07.31 Russian Election Meddling and Protests.
 slug: 20180731-18-07-31-russian-election-meddling-and-protests
 _id: legacy-440a7e14-82b4-4e13-821a-a4e1133cc9ae
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 45Isps23253Yjlaq2AtoW9
 type: quick_reads
 draft: false
 aliases:
   - 18-07-31-russian-election-meddling-and-protests/
 _createdAt: '2018-07-31T11:28:40Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T19:17:41Z'
 date: '2018-07-31T11:28:40+00:00'
+lastmod: '2018-07-31T11:28:40+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
 
 
       What To Know
-    citation: What To Know
     _key: card-1-27822e32-f459-4941-9c9e-0dcd1aeab37b
   - order: 1
     body: >-

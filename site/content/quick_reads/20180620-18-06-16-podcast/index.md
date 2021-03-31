@@ -2,14 +2,15 @@
 title: 18.06.16 Podcast
 slug: 20180620-18-06-16-podcast
 _id: legacy-cb960b31-63cc-41d9-ac44-3bfd86611fc4
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 0aCMfzqL0erea7otJsBk4X
 type: quick_reads
 draft: false
 aliases:
   - 18-06-16-podcast/
 _createdAt: '2018-06-16T12:54:19Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:36:25Z'
 date: '2018-06-16T12:54:19+00:00'
+lastmod: '2018-06-16T12:54:19+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
       [Click Here To
       Listen](http://smarthernews.libsyn.com/smarther-news-podcast-ep-3)
-    citation: Click Here To Listen
     _key: card-1-a763b7ec-c5e1-4e57-91cc-ef3e28f1cf4e
   - order: 1
     body: |-

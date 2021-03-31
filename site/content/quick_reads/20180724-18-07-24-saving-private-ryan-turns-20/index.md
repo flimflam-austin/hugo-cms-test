@@ -2,14 +2,15 @@
 title: 18.07.24 Saving Private Ryan Turns 20
 slug: 20180724-18-07-24-saving-private-ryan-turns-20
 _id: legacy-71e5aba1-1d44-4668-8b2e-e1701b5f4a50
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 0aCMfzqL0erea7otJuYM0K
 type: quick_reads
 draft: false
 aliases:
   - 18-07-24-saving-private-ryan-turns-20/
 _createdAt: '2018-07-24T22:42:37Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T17:41:11Z'
 date: '2018-07-24T22:42:37+00:00'
+lastmod: '2018-07-24T22:42:37+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -30,7 +31,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/RYExstiQlLc?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-48e501c4-db22-494f-a760-9bf716f0eebe
   - order: 1
     body: >-
@@ -54,13 +54,9 @@ cards:
 
       > Four Niland brothers hailed from Tonawanda, NY.  
         
-        
-        
       Brothers all served during WWII, but they were separated into different
       units after the tragedy of the 5 A Sullivan brothers, who served and died
       together when the USS Juneau sank in 1942 in the South Pacific.  
-        
-        
         
       Two Niland brothers survived WWII.
     _key: card-3-4787c6de-7615-4aae-ba73-5e0f09e7c243
@@ -71,8 +67,6 @@ cards:
       of us who worked on that film – from Director Steven Spielberg down to the
       lowliest extra in crowd scenes – can be proud that we had a part in making
       Saving Private Ryan.”  
-        
-        
         
       Capt. Dale Dye, senior military advisor on 'Saving Private Ryan' to
       SmartHER News

@@ -2,14 +2,15 @@
 title: 18.05.17 Quick Quotes
 slug: 20180516-18-05-17-quick-quotes
 _id: legacy-98eefb52-6b6c-4404-a446-075452bc0ca0
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 0aCMfzqL0erea7otJs3LMo
 type: quick_reads
 draft: false
 aliases:
   - 18-05-17-quick-quotes/
 _createdAt: '2018-05-17T10:00:33Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:19:13Z'
 date: '2018-05-17T10:00:33+00:00'
+lastmod: '2018-05-17T10:00:33+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,8 +27,6 @@ cards:
       > **“Success for women shouldn’t only be measured in terms of how many
       nominations they win or seats they gain in November.”**  
         
-        
-        
       Kelly Dittmar, Gender Watch 2018 project director to Newsweek, on
       Tuesday's primary election results, which indicate women candidates have a
       good chance to change the political landscape in states like PA & ID.
@@ -38,17 +37,14 @@ cards:
       looking to keep them out. We’re looking to bring them in. We need them.”  
         
         
-        
       Pres. Trump, speaking at the May 16 California Sanctuary State Roundtable
       discussion, on why he favors a merit-based immigration system.
     _key: card-2-3a610403-27f9-4e96-a04d-4bba3096db0c
   - order: 2
     body: >-
-      > “… in 2016 expenses were incurred by one of Donald J. Trump’s attorneys,
+      “… in 2016 expenses were incurred by one of Donald J. Trump’s attorneys,
       Michael Cohen. Mr. Cohen sought reimbursement of those expenses and Mr.
       Trump fully reimbursed Mr. Cohen in 2017.”  
-        
-        
         
       Pres. Trump's newly filed 2017 annual financial disclosure report revealed
       he reimbursed his attorney an unspecified amount - widely believed to be

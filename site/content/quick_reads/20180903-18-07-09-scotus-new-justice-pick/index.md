@@ -2,14 +2,15 @@
 title: 18.07.09 Scotus New Justice Pick Updated
 slug: 20180903-18-07-09-scotus-new-justice-pick
 _id: legacy-c3612669-291f-4481-8dc9-747d5b2ba862
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: LotyrYkaRjTl0E452wafuX
 type: quick_reads
 draft: false
 aliases:
   - 18-07-09-scotus-new-justice-pick/
 _createdAt: '2018-07-09T03:47:44Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T02:16:18Z'
 date: '2018-07-09T03:47:44+00:00'
+lastmod: '2018-07-09T03:47:44+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       Let the games begin!
-    citation: Let the games begin!
     _key: card-1-0b0f9db9-44ab-4384-9c64-e305aa4609e6
   - order: 1
     body: >-

@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-06-22T15:47:32Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-06-22T15:47:32+00:00'
+lastmod: '2020-06-22T15:47:32+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     cdcc7c88b51aad67a936f2b99f665ccd99857601-1024x961.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="09Y69rNzUNM" title="Monday Morning Catch-Up" >}}

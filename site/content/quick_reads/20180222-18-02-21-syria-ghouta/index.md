@@ -2,14 +2,15 @@
 title: 18.02.21 Syria Ghouta
 slug: 20180222-18-02-21-syria-ghouta
 _id: legacy-711c151b-8ec3-46c7-821c-ef92d6da38f8
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: LotyrYkaRjTl0E452wNJTR
 type: quick_reads
 draft: false
 aliases:
   - 18-02-21-syria-ghouta/
 _createdAt: '2018-02-22T04:48:06Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:51:15Z'
 date: '2018-02-22T04:48:06+00:00'
+lastmod: '2018-02-22T04:48:06+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -83,18 +84,15 @@ cards:
 
 
       [Click HERE For More](http://www.bbc.com/news/world-europe-43125506)
-    citation: Click HERE For More
     _key: card-5-ab5e9332-2a0c-4afd-abb6-ba03a83bbff2
   - order: 5
     body: >-
       Chilling Warning:  
 
-      Ground Campaign to Follow? ==============================================
+      Ground Campaign to Follow? 
 
 
       > “The offensive has not started yet. This is preliminary bombing.”  
-        
-        
         
       Pro-Assad Commander to Reuters - Syria asserts its targeting terrorists
       not civilians.

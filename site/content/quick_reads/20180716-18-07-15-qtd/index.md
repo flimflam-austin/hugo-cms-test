@@ -2,14 +2,15 @@
 title: 18.07.15 Qtd
 slug: 20180716-18-07-15-qtd
 _id: legacy-72910a63-7fdf-4141-a4e1-df66ffcd31cd
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 45Isps23253Yjlaq28csQ3
 type: quick_reads
 draft: false
 aliases:
   - 18-07-15-qtd/
 _createdAt: '2018-07-16T14:10:08Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:51:08Z'
 date: '2018-07-16T14:10:08+00:00'
+lastmod: '2018-07-16T14:10:08+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,12 +21,9 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     body: >-
-      > _‘If you know in your heart that you’re doing the right thing and you’re
+      > _"If you know in your heart that you’re doing the right thing and you’re
       just afraid of the consequences, you just have to do it. You have to do
       what you know in your heart is right.”_
-
-
-      Sarah Cummins
     citation: Sarah Cummins
     _key: card-1-5267d5c3-ab57-4a7d-951d-e5872404b97e
   - order: 1

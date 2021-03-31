@@ -2,14 +2,15 @@
 title: Top 3 Things to Know
 slug: 20181005-three-things
 _id: legacy-4ded9280-dec1-4312-91bc-5981caf851af
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: LotyrYkaRjTl0E452yimP7
 type: quick_reads
 draft: false
 aliases:
   - three-things/
 _createdAt: '2018-10-05T11:41:57Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:26:13Z'
 date: '2018-10-05T11:41:57+00:00'
+lastmod: '2018-10-05T11:41:57+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,11 +24,7 @@ cards:
       FINAL COUNTDOWN
 
 
-      ==================
-
-
       > **Top 3 Things To Know…**  
-        
         
         
       …about the **final report** and **final vote** on Supreme Court Nominee
@@ -35,7 +32,6 @@ cards:
 
 
       Nothing but the facts.
-    citation: Nothing but the facts.
     _key: card-1-22be0c97-14e5-4be3-9804-18934977c071
   - order: 1
     body: >-

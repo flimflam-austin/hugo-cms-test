@@ -2,14 +2,15 @@
 title: 18.06.27 Primary Takeaway
 slug: 20180628-18-06-27-primary-takeaway
 _id: legacy-7c11e596-b8c5-461a-9951-a4963f33331e
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: LotyrYkaRjTl0E452wa7td
 type: quick_reads
 draft: false
 aliases:
   - 18-06-27-primary-takeaway/
 _createdAt: '2018-06-28T11:01:47Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T02:00:18Z'
 date: '2018-06-28T11:01:47+00:00'
+lastmod: '2018-06-28T11:01:47+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       To Your Corners!
-    citation: To Your Corners!
     _key: card-1-1bfcd2ea-a863-44c7-8aaf-0085ba5b2e7c
   - order: 1
     body: >-

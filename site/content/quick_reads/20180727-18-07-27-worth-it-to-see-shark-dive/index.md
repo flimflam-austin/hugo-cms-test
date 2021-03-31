@@ -2,14 +2,15 @@
 title: 18.07.27 Worth It to See Shark Dive
 slug: 20180727-18-07-27-worth-it-to-see-shark-dive
 _id: legacy-b9be066a-e45f-4d3d-9247-96d599a44960
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: LotyrYkaRjTl0E452xRQIv
 type: quick_reads
 draft: false
 aliases:
   - 18-07-27-worth-it-to-see-shark-dive/
 _createdAt: '2018-07-27T11:57:11Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T17:46:40Z'
 date: '2018-07-27T11:57:11+00:00'
+lastmod: '2018-07-27T11:57:11+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/SdNoAI25uLk?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-0620ef78-3d6b-489e-86a2-a8c19d4b63a4
   - order: 1
     body: >-
@@ -59,8 +59,6 @@ cards:
       will), but this adventure instilled in me a truly unique respect for the
       beauty, grace and power of Great Whites. And if nothing else, it made me
       realize how little they are interested in us!”  
-        
-        
         
       While 'Jaws" is seared into our collective consciousness, Jenna says
       seeing sharks up-close provides a completely different picture than the

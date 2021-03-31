@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-07-30T15:22:56Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-07-30T15:22:56+00:00'
+lastmod: '2020-07-30T15:22:56+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     26409bcd445c478ca6eaa5ff56aa580186bbfea3-2560x1703.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="hJvY1CU1Eyg" title="Small Bites of Your Big Stories" >}}

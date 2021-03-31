@@ -2,14 +2,15 @@
 title: 02.09.18 Stock Market Breather
 slug: 20180209-02-09-18-stock-market-breather
 _id: legacy-958ea4a0-b072-4c2a-973b-1ba4ed66489b
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: m8O8PDvTRICveNMxPwjuCh
 type: quick_reads
 draft: false
 aliases:
   - 02-09-18-stock-market-breather/
 _createdAt: '2018-02-09T19:33:12Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T20:57:57Z'
 date: '2018-02-09T19:33:12+00:00'
+lastmod: '2018-02-09T19:33:12+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,9 +32,6 @@ cards:
       territory (down 10% from record highs).
 
       * Big question: What happens next?
-
-
-      Flip Here
     citation: Flip Here
     _key: card-1-7da14967-f5c6-40e7-a026-ccad0b2b2844
   - order: 1
@@ -50,9 +48,10 @@ cards:
       can trade stocks.
 
 
+
+
       [Click Here To Watch Him
       Explain](https://www.cnbc.com/video/2018/02/08/cramer-blames-this-weeks-crazy-market-on-a-group-of-complete-morons.html)
-    citation: Click Here To Watch Him Explain
     _key: card-2-54816884-1490-49f4-be90-8f294d2cdc18
   - order: 2
     body: >-

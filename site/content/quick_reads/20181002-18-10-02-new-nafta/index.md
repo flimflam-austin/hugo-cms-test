@@ -2,14 +2,15 @@
 title: The *New* Nafta?
 slug: 20181002-18-10-02-new-nafta
 _id: legacy-4891e5f5-612f-4e9c-a8ee-a11e917b3a73
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: LotyrYkaRjTl0E452yiUCL
 type: quick_reads
 draft: false
 aliases:
   - 18-10-02-new-nafta/
 _createdAt: '2018-10-02T11:42:58Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:18:18Z'
 date: '2018-10-02T11:42:58+00:00'
+lastmod: '2018-10-02T11:42:58+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,13 +32,10 @@ cards:
 
 
       Why It Matters
-    citation: Why It Matters
     _key: card-1-7f5802a6-b936-4208-bbf8-5cfe73a4a924
   - order: 1
     body: >-
       > “It’s not NAFTA redone. It’s a brand new deal.”  
-        
-        
         
       Pres. Trump announcing the trade agreement between U.S. & Mexico. The new
       deal has a new name: United States-Mexico-Canada Agreement, or USMCA. The
@@ -80,7 +78,6 @@ cards:
       NAFTA would go from being one of the worst deals ever to the one of the
       best…. The bigger issue is the positive impact on confidence and
       sentiment.”  
-        
         
         
       Jim O'Sullivan, economist at High Frequency Economics to CNBC.

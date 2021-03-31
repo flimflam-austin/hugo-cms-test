@@ -2,14 +2,15 @@
 title: 18.05.14 Free-Range Parenting
 slug: 20180517-18-05-14-free-range-parenting
 _id: legacy-04c3a18b-afb1-4e93-aeed-7884a05de5ce
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: LotyrYkaRjTl0E452wVHSX
 type: quick_reads
 draft: false
 aliases:
   - 18-05-14-free-range-parenting/
 _createdAt: '2018-05-17T10:05:52Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:19:35Z'
 date: '2018-05-17T10:05:52+00:00'
+lastmod: '2018-05-17T10:05:52+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,7 +35,6 @@ cards:
 
 
       Flip Here For More
-    citation: Flip Here For More
     _key: card-1-4609e45e-4acf-4ce9-b75a-34ed264fdd9d
   - order: 1
     body: >-

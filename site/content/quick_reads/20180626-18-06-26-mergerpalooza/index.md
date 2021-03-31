@@ -2,14 +2,15 @@
 title: 18.06.26 Mergerpalooza
 slug: 20180626-18-06-26-mergerpalooza
 _id: legacy-e990738f-6d7e-437f-943b-09537737cf48
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: LotyrYkaRjTl0E452wZpgr
 type: quick_reads
 draft: false
 aliases:
   - 18-06-26-mergerpalooza/
 _createdAt: '2018-06-26T10:45:53Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:51:55Z'
 date: '2018-06-26T10:45:53+00:00'
+lastmod: '2018-06-26T10:45:53+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       FLIP: Chasing a sly fox
-    citation: 'FLIP: Chasing a sly fox'
     _key: card-1-0f1cb086-c78f-4306-842b-8c088da5f85b
   - order: 1
     body: >-
@@ -48,8 +48,9 @@ cards:
       * Ball is now in Comcast’s court: will it up the stakes even more?
 
 
+
+
       Oh the drama...
-    citation: Oh the drama...
     _key: card-2-85030851-6700-4d0d-a3ea-fc832815ce12
   - order: 2
     body: >-

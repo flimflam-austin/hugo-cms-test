@@ -2,14 +2,15 @@
 title: 'California''s New Law: Precedent or Problem?'
 slug: 20181002-females-in-the-boardroom
 _id: legacy-64dc761a-50c2-4c62-9b37-e143781ee7f9
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: LotyrYkaRjTl0E452yiOP7
 type: quick_reads
 draft: false
 aliases:
   - females-in-the-boardroom/
 _createdAt: '2018-10-02T11:36:20Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:15:52Z'
 date: '2018-10-02T11:36:20+00:00'
+lastmod: '2018-10-02T11:36:20+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       What To Know
-    citation: What To Know
     _key: card-1-36d6549c-be90-4730-8100-3aed7ec4d7b7
   - order: 1
     body: >-
@@ -63,11 +63,9 @@ cards:
     _key: card-3-aec66a16-374f-45d7-835d-d3f5d72f916f
   - order: 3
     body: >-
-      > ‘I’m not at all convinced it would pass legal muster. …you are saying
-      you need to single out women and get them on boards. The question is can
-      you make that preference & will it hurt men?’  
-        
-        
+      "I’m not at all convinced it would pass legal muster. …you are saying you
+      need to single out women and get them on boards. The question is can you
+      make that preference & will it hurt men?"  
         
       Jessica Levinson, Loyola Law School professor, on why the new California
       law may be vulnerable to a court challenge. Critics argue it may lead to

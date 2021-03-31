@@ -2,14 +2,15 @@
 title: 18.04.26 Quote Stacks
 slug: 20180501-18-04-26-quote-stacks
 _id: legacy-b21a8f9d-b8bb-49e2-a66b-d68d304c42df
-_rev: O8E8pz1fLwnc3fN7JVF0RC
+_rev: 0aCMfzqL0erea7otJrvwEX
 type: quick_reads
 draft: false
 aliases:
   - 18-04-26-quote-stacks/
 _createdAt: '2018-04-27T10:55:55Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:22:37Z'
 date: '2018-04-27T10:55:55+00:00'
+lastmod: '2018-04-27T10:55:55+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,8 +27,6 @@ cards:
       > “With the first pick in the 2018 NFL Draft, the Cleveland Browns pick,
       **Baker Mayfield**.”  
         
-        
-        
       Roger Goodell, NFL Commissioner, April 26, 2018. Oklahoma QB Baker
       Mayfield went from playing on a college team without a scholarship to
       winning the Heisman Trophy.
@@ -37,8 +36,6 @@ cards:
       > “I got her a beautiful card. You know, I am very busy to be running
       around looking for presents.”  
         
-        
-        
       President Trump, Fox & Friends, April 26, 2018 (his wife, Melania's
       birthday). The President called into the show unexpectedly and spoke for
       30 minutes.
@@ -46,13 +43,11 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/_lu_Hgw60Ns?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-d753a8e5-a4e3-49d7-8e3e-89bcbd7970c7
   - order: 2
     body: >-
       > “Great to have Secretary Pompeo confirmed. He will do an excellent job
       helping @POTUS lead our efforts to denuclearize the Korean Peninsula.”  
-        
         
         
       Press Sec Sarah Huckabee Sanders, April 26, 2018 Tweet, after Senate
@@ -62,7 +57,6 @@ cards:
 
       [Click Here:
       Photos](https://twitter.com/PressSec/status/989593842944036864)
-    citation: 'Click Here: Photos'
     _key: card-3-fb651c29-6710-4c53-bfcd-9cf4c5c0fb4d
   - order: 3
     body: >-
@@ -70,8 +64,6 @@ cards:
       victory for the 62 of us publicly known Cosby survivors …. It also a
       victory for womanhood, and it is a victory for all sexual assault
       survivors, female and male.’  
-        
-        
         
       Lili Bernard, reacting outside the courtroom to the verdict in the
       criminal case against Bill Cosby. America's #1 dad faces up to 30 years in

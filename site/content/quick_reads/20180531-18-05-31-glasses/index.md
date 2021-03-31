@@ -2,14 +2,15 @@
 title: 18.05.31 Glasses
 slug: 20180531-18-05-31-glasses
 _id: legacy-0d30d5f5-221b-41f7-8a8e-a0e9ac4cd907
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28P8dP
 type: quick_reads
 draft: false
 aliases:
   - 18-05-31-glasses/
 _createdAt: '2018-05-31T10:56:07Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T00:49:54Z'
 date: '2018-05-31T10:56:07+00:00'
+lastmod: '2018-05-31T10:56:07+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -38,7 +39,6 @@ cards:
 
 
       But that's not all...
-    citation: But that's not all...
     _key: card-2-83541512-d7de-47f0-a442-ace394183171
   - order: 2
     body: >-
@@ -46,7 +46,7 @@ cards:
 
 
       * Researchers also found **_negative_** correlations between intelligence
-      & health problems likeA angina, lung cancer, & depression.
+      & health problems like angina, lung cancer, & depression.
 
       * But only correlations – intelligence doesn’t definitely mean you have
       lower risk of heart disease, for example.
@@ -54,8 +54,9 @@ cards:
       * Not clear yet why those links exist.
 
 
+
+
       Solved: Smarter Sex?
-    citation: 'Solved: Smarter Sex?'
     _key: card-3-0ba0daa0-4177-4a51-9c00-eac6acdb904c
   - order: 3
     body: >-

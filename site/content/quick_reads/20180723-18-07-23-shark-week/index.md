@@ -2,14 +2,15 @@
 title: 18.07.23 Shark Week
 slug: 20180723-18-07-23-shark-week
 _id: legacy-f1d899e5-564b-40a9-adeb-c71f36f81dd6
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 0aCMfzqL0erea7otJuXu3y
 type: quick_reads
 draft: false
 aliases:
   - 18-07-23-shark-week/
 _createdAt: '2018-07-23T12:03:05Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T17:38:00Z'
 date: '2018-07-23T12:03:05+00:00'
+lastmod: '2018-07-23T12:03:05+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -30,7 +31,6 @@ cards:
 
 
       Duh-Nuh, duh-nuh...
-    citation: Duh-Nuh, duh-nuh...
     _key: card-1-c3019947-7bcf-4d4f-8715-fdb658ef77dc
   - order: 1
     body: >-
@@ -39,9 +39,9 @@ cards:
       Odds of Dying by Shark
 
 
-      > _‘Mosquitos kill far more people than sharks. Family dogs kill far more
+      > _"Mosquitos kill far more people than sharks. Family dogs kill far more
       people than sharks. Maybe 10 people worldwide are killed by sharks (per
-      year).’_  
+      year)."_  
         
         
         
@@ -50,7 +50,6 @@ cards:
 
       [CLICK: Odd Shark
       Odds](https://www.floridamuseum.ufl.edu/shark-attacks/odds/compare-risk/death/)
-    citation: 'CLICK: Odd Shark Odds'
     _key: card-2-09e72514-5425-436c-b2fa-0ea9a3350c85
   - order: 2
     body: >-
@@ -74,8 +73,8 @@ cards:
 
       * **NONE of the attacks were fatal**.
 
-      * Globally, there are**A 6 deaths/year on average**A due to unprovoked
-      shark attacks, but conservationists point out about 100M sharks & rays are
+      * Globally, there are** 6 deaths/year on average** due to unprovoked shark
+      attacks, but conservationists point out about 100M sharks & rays are
       killed each year by fisheries.
     _key: card-4-0a698a3b-e62c-424b-9afc-912a3607a7e0
   - order: 4

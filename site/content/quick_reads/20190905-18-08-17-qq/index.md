@@ -2,14 +2,15 @@
 title: 18.08.17 Qq
 slug: 20190905-18-08-17-qq
 _id: legacy-f925132b-0896-45a4-a29c-0bb09336671a
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: LotyrYkaRjTl0E452xYscf
 type: quick_reads
 draft: false
 aliases:
   - 18-08-17-qq/
 _createdAt: '2018-08-17T11:47:07Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-26T20:04:55Z'
 date: '2018-08-17T11:47:07+00:00'
+lastmod: '2018-08-17T11:47:07+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,7 @@ cards:
     _key: card-1-8ef3c7cc-1d40-474c-aff3-87c179bb4732
   - order: 1
     body: >-
-      > ‘If the Iranian regime demonstrates a commitment to make fundamental
+      > "If the Iranian regime demonstrates a commitment to make fundamental
       changes in its behavior, then the president is prepared to engage in
       dialogue in order to find solutions.”  
         
@@ -56,17 +57,15 @@ cards:
 
       [SMARTHER
       REFRESHER](https://smarthernews.com/18-08-16-who-keeps-our-secrets/)
-    citation: SMARTHER REFRESHER
     _key: card-3-b0968faf-7c8a-4bca-ba5f-f355da979e7c
   - order: 3
     body: >-
-      > ‘Director Brennan’s recent statements purport to know as fact that the
+      > "Director Brennan’s recent statements purport to know as fact that the
       Trump campaign colluded with a foreign power…. If his statement is based
       on intelligence he has seen since leaving office, it constitutes an
       intelligence breach. If he has some other personal knowledge of or
       evidence of collusion, it should be disclosed to the Special Counsel, notA
       _TheA New York Times._“  
-        
         
         
       Sen. Richard Burr (R-NC)
@@ -82,7 +81,6 @@ cards:
 
 
       [Click: McGregor's Response](https://www.instagram.com/thenotoriousmma/)
-    citation: 'Click: McGregor''s Response'
     _key: card-5-dd4c206e-087e-4432-a32d-ae5f3a2d1458
   - order: 5
     body: |-

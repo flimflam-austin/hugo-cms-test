@@ -2,14 +2,15 @@
 title: 18.08.16 Who Keeps Our Nation's Secrets?
 slug: 20180816-18-08-16-who-keeps-our-secrets
 _id: legacy-d965ce6c-2dc6-4fbf-8195-28d0407d91e1
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: LotyrYkaRjTl0E452xYiuL
 type: quick_reads
 draft: false
 aliases:
   - 18-08-16-who-keeps-our-secrets/
 _createdAt: '2018-08-16T11:42:35Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:01:22Z'
 date: '2018-08-16T11:42:35+00:00'
+lastmod: '2018-08-16T11:42:35+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,19 +25,14 @@ cards:
 
 
       > **4+ million Americans have security clearances.**  
-        
-        
-        
+
       **President Trump revoked 1**.  
-        
-        
         
       Why some say stripping former CIA Dir. John Brennan of his clearance is an
       attack on free speech, while others say it had to be done.
 
 
       BIGGER PICTURE
-    citation: BIGGER PICTURE
     _key: card-1-2551ddd8-85b8-4718-9eb0-5b134fb85448
   - order: 1
     body: >-
@@ -68,7 +64,7 @@ cards:
       clearance, according to most recent estimates.
     _key: card-3-8dfd31d3-5636-4f26-a97f-e4521339117e
   - order: 3
-    body: "## Why Revoke Brennan?\n\n> “Mr. Brennan has recently leveraged his status as a former high-ranking official with access to highly sensitive information to make a series of unfounded and outrageous allegations a\x14 wild outbursts on the Internet and television a\x14 about this administration.  \n  \n  \n  \nPresident Trump"
+    body: "## Why Revoke Brennan?\n\n> “Mr. Brennan has recently leveraged his status as a former high-ranking official with access to highly sensitive information to make a series of unfounded and outrageous allegations a\x14 wild outbursts on the Internet and television a\x14 about this administration.\"  \n  \n  \n  \nPresident Trump"
     _key: card-4-7bec2b90-b800-4097-aef2-38e74f73239d
   - order: 4
     body: >-
@@ -84,7 +80,6 @@ cards:
 
       [Click: His
       Criticism](https://twitter.com/JohnBrennan/status/1018885971104985093)
-    citation: 'Click: His Criticism'
     _key: card-5-c2d18b53-31c7-48dd-89a7-3d87e1008da5
   - order: 5
     body: >-

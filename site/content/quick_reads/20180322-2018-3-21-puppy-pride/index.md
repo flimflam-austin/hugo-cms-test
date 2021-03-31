@@ -2,14 +2,15 @@
 title: 2018.3.21 Puppy Pride
 slug: 20180322-2018-3-21-puppy-pride
 _id: legacy-f135c9f4-8b5c-4881-b3cc-edf2300836e4
-_rev: O8E8pz1fLwnc3fN7JVEzvC
+_rev: 45Isps23253Yjlaq28675J
 type: quick_reads
 draft: false
 aliases:
   - 2018-3-21-puppy-pride/
 _createdAt: '2018-03-21T13:16:00Z'
-_updatedAt: '2021-03-22T13:11:06Z'
+_updatedAt: '2021-03-25T22:28:18Z'
 date: '2018-03-21T13:16:00+00:00'
+lastmod: '2018-03-21T13:16:00+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,8 +29,6 @@ cards:
 
       > ‘We looked at what breeds would represent Ohio the best and came to a
       pretty quick decision.’  
-        
-        
         
       State Rep. Jeffery Rezabek (R-Clayton), Cincinnati Enquirer, Mar 16, 2018
 
@@ -76,7 +75,6 @@ cards:
 
 
       do you have a state dog?
-    citation: do you have a state dog?
     _key: card-4-ca9a00a0-9f56-45db-9c68-46de86d3599f
   - order: 4
     body: >-

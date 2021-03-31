@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-06-27T04:11:52Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-06-27T04:11:52+00:00'
+lastmod: '2020-06-27T04:11:52+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     2cde1c8d1b8f324030acacda747c6d6babb412bd-1024x740.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="m3QIf0hAs-4" title="The later you get this virus, the better off you will be." >}}

@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes December 4, 2018
 slug: 20190905-quickquotes
 _id: legacy-3a4a7caf-67be-43a6-ab4c-65b8dd1fe242
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 0aCMfzqL0erea7otJxzB91
 type: quick_reads
 draft: false
 aliases:
   - quickquotes/
 _createdAt: '2018-12-04T12:33:00Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:48:55Z'
 date: '2018-12-04T12:33:00+00:00'
+lastmod: '2018-12-04T12:33:00+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,10 +21,8 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     body: >-
-      > ‘It was in his blood to be a soldier. He wanted to be a true American
-      and fight for his country.’  
-        
-        
+      > "It was in his blood to be a soldier. He wanted to be a true American
+      and fight for his country."  
         
       Linda Collins on the death of her nephew Sgt. Jason Mitchell McClary (24).
       The Army soldier died Sunday at a military hospital in Germany as a result
@@ -36,8 +35,6 @@ cards:
       > “We have to avoid a shutdown. If we haven’t learned our lessons in the
       past, I don’t think we’ll ever learn them.”  
         
-        
-        
       Sen. Orin Hatch (R-UT) as Congress seeks a 2-week extension to avoid a
       gov't shutdown as business in D.C. comes to a standstill following the
       death of Pres. George H.W. Bush. Lawmakers will extend temporary funding
@@ -46,9 +43,8 @@ cards:
     _key: card-2-664e4c70-80dc-4f87-9822-db2a7771f96a
   - order: 2
     body: >-
-      > ‘We are not saying we are going to get out of the oil business but it is
-      controlled by an organization managed by a country.’  
-        
+      "We are not saying we are going to get out of the oil business but it is
+      controlled by an organization managed by a country."  
         
         
       Qatar's Minister of State for Energy Affairs Saad Sherida al-Kaabi, in a
@@ -62,15 +58,13 @@ cards:
       > “…it appears that the number of persons under investigation for AFM has
       peaked and will continue to decline.”  
         
-        
-        
       CDC after confirming 134 cases of a polio-like illness Acute Flaccid
       Myelitis (AFM) in 33 states. While 18 new cases have been confirmed in the
       past week, most were from September & October. 90% of the patients are
       children. The CDC does not yet know what causes it.
     _key: card-4-7ddffcc8-188f-4ac6-9fe7-5f2eb8c81828
   - order: 4
-    body: "> ‘She is the true original. She not only marched to the beat of her own drum a\x14 honey, she is a one-woman band!’  \n  \n  \n  \nWhoopi Goldberg, paying tribute to Cher, at the Kennedy Center Honors Sunday evening. The 41st annual awards show began with a standing ovation tribute for President George H.W. Bush & then honored singers Cher, Reba McEntire, jazz great Wayne Shorter, composer Philip Glass, & a special award for the co-creators of Hamilton."
+    body: "> \"She is the true original. She not only marched to the beat of her own drum a\x14 honey, she is a one-woman band!\"  \n  \nWhoopi Goldberg, paying tribute to Cher, at the Kennedy Center Honors Sunday evening. The 41st annual awards show began with a standing ovation tribute for President George H.W. Bush & then honored singers Cher, Reba McEntire, jazz great Wayne Shorter, composer Philip Glass, & a special award for the co-creators of Hamilton."
     _key: card-5-c5be69ad-9794-4a99-85e4-c15b464a1bc3
   - order: 5
     body: '[view sources](https://smarthernews.com/quickquotes/)'

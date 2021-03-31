@@ -2,14 +2,15 @@
 title: 18.05.25 Quick Quotes
 slug: 20180525-18-05-25-quick-quotes
 _id: legacy-142a8ccc-b8f8-46c9-b737-151d13c7ce8b
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 45Isps23253Yjlaq28NbRO
 type: quick_reads
 draft: false
 aliases:
   - 18-05-25-quick-quotes/
 _createdAt: '2018-05-25T09:04:13Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:44:10Z'
 date: '2018-05-25T09:04:13+00:00'
+lastmod: '2018-05-25T09:04:13+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,10 +24,9 @@ cards:
       ## QUICK QUOTES
 
 
-      > “Straws are a luxury, we do not need straws to have our drinks, and I
+      “Straws are a luxury, we do not need straws to have our drinks, and I
       think it’s an easy step forward where we can have a great impact for our
       environment.”  
-        
         
         
       Brooklyn City Councilman Rafael Espinal introduced a bill which would ban
@@ -40,15 +40,13 @@ cards:
       storms of which 5-9 could become hurricanes, including 1-4 major.”  
         
         
-        
       Gov't forecasters at the National Oceanic Atmosphere Admin predict a
       near-normal hurricane season for the Atlantic Ocean, which runs from June
       1 to November 30.
     _key: card-2-184f7d7e-fd84-415b-89c3-027ca8765be6
   - order: 2
     body: >-
-      > ‘It wasn’t like a movie opening… it was like an earthquake.’  
-        
+      > "It wasn’t like a movie opening… it was like an earthquake."  
         
         
       Actress Carrie Fisher, who played Princess Leia, later described Star Wars
@@ -60,7 +58,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/nH-jLrirmM8?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-3-7c2335bd-7c53-45e6-8262-0d0caaa2d984
   - order: 3
     body: '[view sources](https://smarthernews.com/18-05-25-quick-quotes/)'

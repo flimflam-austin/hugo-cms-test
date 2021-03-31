@@ -2,14 +2,15 @@
 title: 18.06.04 No Need for Chemo?
 slug: 20180604-18-06-04-no-need-chemo
 _id: legacy-01ad0c4f-90de-4809-a3d0-95aa8b2cc52b
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28PoYH
 type: quick_reads
 draft: false
 aliases:
   - 18-06-04-no-need-chemo/
 _createdAt: '2018-06-04T10:41:36Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T00:57:20Z'
 date: '2018-06-04T10:41:36+00:00'
+lastmod: '2018-06-04T10:41:36+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       Flip For Why It Matters
-    citation: Flip For Why It Matters
     _key: card-1-8a064671-a05a-4c16-b7b0-c54aa48ec3d8
   - order: 1
     body: >-

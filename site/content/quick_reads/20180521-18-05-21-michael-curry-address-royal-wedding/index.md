@@ -2,14 +2,15 @@
 title: 18.05.21 Michael Curry Address at Royal Wedding
 slug: 20180521-18-05-21-michael-curry-address-royal-wedding
 _id: legacy-4173d569-89bc-4098-891f-936e86b7acfb
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 45Isps23253Yjlaq28MTnA
 type: quick_reads
 draft: false
 aliases:
   - 18-05-21-michael-curry-address-royal-wedding/
 _createdAt: '2018-05-21T12:36:52Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:35:04Z'
 date: '2018-05-21T12:36:52+00:00'
+lastmod: '2018-05-21T12:36:52+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,19 +23,11 @@ cards:
     body: >-
       > **_“There’s power in love._**  
         
-        
-        
       **_Don’t underestimate it._**  
-        
-        
         
       **_Don’t even over-sentimentalize it._**  
         
-        
-        
       **_There’s power – power in love.”_**  
-        
-        
         
       Bishop Michael Curry, the first black presiding bishop of the Episcopal
       Church, in his address at the royal wedding.

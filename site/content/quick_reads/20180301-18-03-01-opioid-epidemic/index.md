@@ -2,14 +2,15 @@
 title: 18.03.01 Opioid Epidemic
 slug: 20180301-18-03-01-opioid-epidemic
 _id: legacy-a0aa1c50-bf45-4c28-80e3-e7590b848bf8
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: LotyrYkaRjTl0E452wNxsj
 type: quick_reads
 draft: false
 aliases:
   - 18-03-01-opioid-epidemic/
 _createdAt: '2018-03-01T12:00:50Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:05:01Z'
 date: '2018-03-01T12:00:50+00:00'
+lastmod: '2018-03-01T12:00:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,7 +28,6 @@ cards:
       > What kills 116 Americans everyday?
 
       Flip Here For Answer
-    citation: Flip Here For Answer
     _key: card-1-1ef8ec0a-6fbe-4ce7-83d4-5ddc2c635892
   - order: 1
     body: >-

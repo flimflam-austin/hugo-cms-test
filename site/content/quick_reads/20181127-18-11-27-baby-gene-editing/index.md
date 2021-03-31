@@ -2,14 +2,15 @@
 title: 18.11.27 Baby Gene Editing
 slug: 20181127-18-11-27-baby-gene-editing
 _id: legacy-00d80ec5-6289-4398-9832-71e5bc0f398a
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: LotyrYkaRjTl0E452yj33t
 type: quick_reads
 draft: false
 aliases:
   - 18-11-27-baby-gene-editing/
 _createdAt: '2018-11-27T20:00:22Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:34:07Z'
 date: '2018-11-27T20:00:22+00:00'
+lastmod: '2018-11-27T20:00:22+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
 
 
       Science Bombshell?
-    citation: Science Bombshell?
     _key: card-1-7e6023c9-ab35-4e6f-a39e-9b78e663e2a9
   - order: 1
     body: >-
@@ -49,8 +49,8 @@ cards:
       ## The Basics: Reports
 
 
-      * Chinese researcher,A He Jiankui, says he modified genes during IVF, to
-      make babiesA **resistant to HIV.**
+      * Chinese researcher, He Jiankui, says he modified genes during IVF, to
+      make babies **resistant to HIV.**
 
       * Couples (all fathers HIV positive) recruited to participate.
 
@@ -62,8 +62,6 @@ cards:
     body: >-
       > “If true, this experiment is monstrous. The embryos were healthy. No
       known diseases.”  
-        
-        
         
       Julian Savulescu, University of Oxford director of the Oxford Uehiro
       Centre for Practical Ethics, describing the experiment as "genetic Russian
@@ -79,10 +77,10 @@ cards:
       one has not…yet.
 
       * Experts question whether study was **necessary**, **safe**, or
-      **ethical**.A Unintended genetic edits may do more harm than good.
+      **ethical**. Unintended genetic edits may do more harm than good.
 
-      * A pioneer of gene editing, reacting to the news of the study,A called
-      for a “moratorium on implantation of edited embryos.”
+      * A pioneer of gene editing, reacting to the news of the study, called for
+      a “moratorium on implantation of edited embryos.”
     _key: card-5-ec3c256b-bcc8-4faa-a36f-4afe819d62bf
   - order: 5
     body: >-

@@ -2,14 +2,15 @@
 title: 18.06.14 Supreme Court Voting Case
 slug: 20180614-18-06-14-supreme-court-voting-case
 _id: legacy-e80d869e-ff40-4c2b-b3b8-61fc8d4176a7
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 0aCMfzqL0erea7otJsBPKz
 type: quick_reads
 draft: false
 aliases:
   - 18-06-14-supreme-court-voting-case/
 _createdAt: '2018-06-14T10:31:37Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:32:23Z'
 date: '2018-06-14T10:31:37+00:00'
+lastmod: '2018-06-14T10:31:37+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       Check Your Mailbox
-    citation: Check Your Mailbox
     _key: card-1-47d440e1-d514-437e-9295-56904810c6df
   - order: 1
     body: >-

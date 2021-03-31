@@ -2,14 +2,15 @@
 title: '#Otd the First Release of Guinness Book of Records'
 slug: 20180827-18-08-27-guinness-world-records
 _id: legacy-09ba4c52-31c9-412f-9037-abc460651f5d
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: LotyrYkaRjTl0E452yXoJR
 type: quick_reads
 draft: false
 aliases:
   - 18-08-27-guinness-world-records/
 _createdAt: '2018-08-27T11:58:35Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-27T20:39:36Z'
 date: '2018-08-27T11:58:35+00:00'
+lastmod: '2018-08-27T11:58:35+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       How So?
-    citation: How So?
     _key: card-1-f013844a-a8be-41f6-b353-e71d4c7cce1e
   - order: 1
     body: >-
@@ -46,7 +46,6 @@ cards:
 
 
       Then what?
-    citation: Then what?
     _key: card-2-68452cec-ef9f-4ad9-83fb-a3031ea1d159
   - order: 2
     body: >-

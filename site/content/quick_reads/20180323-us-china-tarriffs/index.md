@@ -2,14 +2,15 @@
 title: Us China Tarriffs
 slug: 20180323-us-china-tarriffs
 _id: legacy-3c48560f-f1b8-42a3-b78a-921d58de35ff
-_rev: O8E8pz1fLwnc3fN7JVEzvC
+_rev: LotyrYkaRjTl0E452wPmDN
 type: quick_reads
 draft: false
 aliases:
   - us-china-tarriffs/
 _createdAt: '2018-03-23T11:00:47Z'
-_updatedAt: '2021-03-22T13:11:06Z'
+_updatedAt: '2021-03-25T22:34:02Z'
 date: '2018-03-23T11:00:47+00:00'
+lastmod: '2018-03-23T11:00:47+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
       Are we on the verge of a trade war?
 
       Flip For Why It Matters
-    citation: Flip For Why It Matters
     _key: card-1-57c3b167-5027-41df-9117-1afd55465e30
   - order: 1
     body: >-
@@ -86,9 +86,10 @@ cards:
       * 128 items potentially on the list including American pork, fruit & wine.
 
 
+
+
       [Click: More
       Details](https://www.washingtonpost.com/business/economy/trump-moves-toward-imposing-steep-tariffs-on-china-sending-stocks-plummeting/2018/03/22/5cd3a7c6-2dfe-11e8-8ad6-fbc50284fce8_story.html?utm_term=.4a9fedb785d5&wpisrc=al_news__alert-world--alert-national&wpmk=1)
-    citation: 'Click: More Details'
     _key: card-5-3c7c61b0-24e8-4a43-83f9-6efe90fa371c
   - order: 5
     body: >-
@@ -118,7 +119,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/VxOCvxi_iSM?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-7-2feb6781-0e81-4213-a51f-64e7ee3d5e08
   - order: 7
     body: >-

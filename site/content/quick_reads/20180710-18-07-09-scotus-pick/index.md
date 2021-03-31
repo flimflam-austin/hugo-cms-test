@@ -2,14 +2,15 @@
 title: 18.07.09 Scotus Pick
 slug: 20180710-18-07-09-scotus-pick
 _id: legacy-d838a5b6-f4b8-4f27-bd89-f6e9db0da04b
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: LotyrYkaRjTl0E452wamvd
 type: quick_reads
 draft: false
 aliases:
   - 18-07-09-scotus-pick/
 _createdAt: '2018-07-10T11:49:54Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:18:48Z'
 date: '2018-07-10T11:49:54+00:00'
+lastmod: '2018-07-10T11:49:54+00:00'
 weight: 50
 card_series: From the President's Desk
 colorpaletteclassname: '--dark-gray'
@@ -73,7 +74,6 @@ cards:
 
       [Watch It
       Here](https://www.c-span.org/video/?c4738584/full-schumer-kavanaugh)
-    citation: Watch It Here
     _key: card-4-7e366e18-83bf-4491-9826-5d9ed23fda8b
   - order: 4
     body: >-
@@ -87,7 +87,6 @@ cards:
 
       [Click: SHN Refresher SCOTUS
       Process](https://smarthernews.com/18-07-09-scotus-new-justice-pick/)
-    citation: 'Click: SHN Refresher SCOTUS Process'
     _key: card-5-aa4aa45d-015f-423c-b983-2fc4e0e6f98d
   - order: 5
     body: >-

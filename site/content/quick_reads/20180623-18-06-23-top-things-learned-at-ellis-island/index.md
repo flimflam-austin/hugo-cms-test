@@ -2,14 +2,15 @@
 title: 18.06.23 Top Things Learned at Ellis Island
 slug: 20180623-18-06-23-top-things-learned-at-ellis-island
 _id: legacy-b5dfa9d1-f0eb-47e9-a1a7-5069c822add2
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: LotyrYkaRjTl0E452wZeIn
 type: quick_reads
 draft: false
 aliases:
   - 18-06-23-top-things-learned-at-ellis-island/
 _createdAt: '2018-06-23T02:58:03Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:48:42Z'
 date: '2018-06-23T02:58:03+00:00'
+lastmod: '2018-06-23T02:58:03+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       Flip For More
-    citation: Flip For More
     _key: card-1-43edf82d-0007-4df1-a3be-8136bc11e618
   - order: 1
     body: >-

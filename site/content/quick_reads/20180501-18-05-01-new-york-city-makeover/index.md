@@ -2,14 +2,15 @@
 title: 18.05.01 New York City Makeover
 slug: 20180501-18-05-01-new-york-city-makeover
 _id: legacy-210fbcff-5f84-4401-ae53-54e9096c8678
-_rev: O8E8pz1fLwnc3fN7JVF0RC
+_rev: 45Isps23253Yjlaq28EH1c
 type: quick_reads
 draft: false
 aliases:
   - 18-05-01-new-york-city-makeover/
 _createdAt: '2018-05-02T10:55:13Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:32:28Z'
 date: '2018-05-02T10:55:13+00:00'
+lastmod: '2018-05-02T10:55:13+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -36,7 +37,6 @@ cards:
 
 
       Flip: What's Going On
-    citation: 'Flip: What''s Going On'
     _key: card-1-16e2eefe-2ae5-43f1-bf27-9ae72f1c8e7c
   - order: 1
     body: >-
@@ -45,13 +45,9 @@ cards:
 
       > Inspiration for ‘**painting the town blue**‘: Holly GoLightly  
         
-        
-        
       It’s ‘_the juxtaposition of wearing a floor length gown and a tiara while
       holding a paper bag with coffee and a pastry. …__**The idea that luxury
       doesn’t have to be formal**_.’  
-        
-        
         
       Reed Krakoff , Tiffany & Co. Chief Artistic Officer, to Vogue
     _key: card-2-d0b58e43-28e2-45b6-a035-14e809a95af9

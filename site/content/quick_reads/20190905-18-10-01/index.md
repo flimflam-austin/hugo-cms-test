@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Monday, October 1st
 slug: 20190905-18-10-01
 _id: legacy-ca9e723b-3dbf-412a-a5dc-50d3047a746f
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: LotyrYkaRjTl0E452yiHbx
 type: quick_reads
 draft: false
 aliases:
   - 18-10-01/
 _createdAt: '2018-10-01T11:47:43Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:13:03Z'
 date: '2018-10-01T11:47:43+00:00'
+lastmod: '2018-10-01T11:47:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,10 +21,8 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     body: >-
-      > ‘It gave me a space to talk with him, and he is there with his
+      > "It gave me a space to talk with him, and he is there with his
       angels.”  
-        
-        
         
       Angelica Cervantes, mother of Eric Silva, one of the 58 people murdered on
       Oct 1, 2017 in the largest mass shooting in American history. Cervantes is
@@ -34,12 +33,10 @@ cards:
     _key: card-1-de28adb3-c11e-4768-ae26-edb7d6e02e69
   - order: 1
     body: >-
-      > ‘I’m a victim of sexual assault…. We do treat people differently who are
+      > "I’m a victim of sexual assault…. We do treat people differently who are
       either the victims or perpetrators of this based on their politics now, or
       based on their gender now. That is a huge mistake. America, it’s a huge
       mistake.”  
-        
-        
         
       Kellyanne Conway, WH counselor, speaking to CNN's Jake Tapper about the
       nomination and debate over the President's Supreme Court nominee, Brett
@@ -48,8 +45,7 @@ cards:
   - order: 2
     body: >-
       > “And then we fell in love, OK? No, really, he wrote me beautiful
-      letters, and they’re great letters. We fell in love.’  
-        
+      letters, and they’re great letters. We fell in love."  
         
         
       Pres. Trump speaking at a rally on Saturday about how he and North Korean
@@ -60,10 +56,9 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/rXFRrho5uCg?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-3-bf67d729-b290-4ff3-b8d3-3cef27f83085
   - order: 3
-    body: "> ‘It was like a flurry a\x14 like it was snowing mosquitoes… I waited for them to calm down before I grabbed the kids and the ran into the house.’  \n  \n  \n  \nCassie Vadovsky speaking to her local news station in North Carolina. Flooding from Hurricane Florence continues in North & South Carolina; one of the side effects is mosquitos, including one type that grows 3x the average size."
+    body: "> \"It was like a flurry a\x14 like it was snowing mosquitoes… I waited for them to calm down before I grabbed the kids and the ran into the house.\"  \n  \nCassie Vadovsky speaking to her local news station in North Carolina. Flooding from Hurricane Florence continues in North & South Carolina; one of the side effects is mosquitos, including one type that grows 3x the average size."
     _key: card-4-77f03f7c-6ca2-4dea-97ca-ce44e239c698
   - order: 4
     body: '[view sources](https://smarthernews.com/18-10-01/)'

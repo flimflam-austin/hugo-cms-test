@@ -2,14 +2,15 @@
 title: 18.02.26 Wtc Bombing 1993
 slug: 20180226-18-02-26-wtc-bombing-1993
 _id: legacy-8019b17b-06b9-4c0f-bbcd-38e327bdef93
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: LotyrYkaRjTl0E452wNeIn
 type: quick_reads
 draft: false
 aliases:
   - 18-02-26-wtc-bombing-1993/
 _createdAt: '2018-02-27T00:35:17Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:58:24Z'
 date: '2018-02-27T00:35:17+00:00'
+lastmod: '2018-02-27T00:35:17+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -73,7 +74,6 @@ cards:
 
       [Click For Full
       Article](http://www.bostonherald.com/news/local_coverage/2018/02/dzhokhar_tsarnaev_s_college_pal_robel_phillipos_slated_for_release_today)
-    citation: Click For Full Article
     _key: card-5-ce99ab8b-a863-4ff7-870e-f320d7802da8
   - order: 5
     body: >-

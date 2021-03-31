@@ -2,14 +2,15 @@
 title: 18.08.03 Mama Making History Power Mom Jacinda Ardern
 slug: 20180803-18-08-03-mama-making-history-powermom-jacindaardern
 _id: legacy-2366387f-049c-4776-92d9-8970b59a7d6f
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 45Isps23253Yjlaq2AuV4h
 type: quick_reads
 draft: false
 aliases:
   - 18-08-03-mama-making-history-powermom-jacindaardern/
 _createdAt: '2018-08-03T11:24:36Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T19:23:46Z'
 date: '2018-08-03T11:24:36+00:00'
+lastmod: '2018-08-03T11:24:36+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -56,7 +57,6 @@ cards:
 
       [Click: Her
       Post](https://www.facebook.com/jacindaardern/videos/10155405508197441/)
-    citation: 'Click: Her Post'
     _key: card-3-ffa4dbaf-3e73-48d9-b06c-4a74eb33120f
   - order: 3
     body: >-

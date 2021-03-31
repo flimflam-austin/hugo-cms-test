@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-06-01T22:01:01Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-06-01T22:01:01+00:00'
+lastmod: '2020-06-01T22:01:01+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     35f3cc0e9e42c071d95429837dbc9c8925924521-890x1024.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="6nTg66NbRvw" title="Three Things To Know - June 1st, 2020" >}}

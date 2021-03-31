@@ -2,14 +2,15 @@
 title: 18.02.20 Bump Stocks
 slug: 20180221-18-02-20-bump-stocks
 _id: legacy-9b0229a6-7085-4e30-9703-8300d817afbc
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: LotyrYkaRjTl0E452wNIqj
 type: quick_reads
 draft: false
 aliases:
   - 18-02-20-bump-stocks/
 _createdAt: '2018-02-21T14:00:29Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:51:01Z'
 date: '2018-02-21T14:00:29+00:00'
+lastmod: '2018-02-21T14:00:29+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -36,7 +37,6 @@ cards:
 
 
       Flip For More
-    citation: Flip For More
     _key: card-1-50317355-5fb9-411e-accc-bcfad9beceee
   - order: 1
     body: >-
@@ -62,7 +62,6 @@ cards:
 
       [Full Pres.
       Memo](https://www.whitehouse.gov/presidential-actions/presidential-memorandum-application-definition-machinegun-bump-fire-stocks-similar-devices/)
-    citation: Full Pres. Memo
     _key: card-3-e72a42a4-723f-4977-8391-b55d27f0b6f2
   - order: 3
     body: >-

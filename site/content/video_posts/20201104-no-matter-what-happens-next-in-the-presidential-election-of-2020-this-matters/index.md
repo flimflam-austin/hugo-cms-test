@@ -14,12 +14,16 @@ aliases:
 _createdAt: '2020-11-04T20:58:23Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-11-04T20:58:23+00:00'
+lastmod: '2020-11-04T20:58:23+00:00'
 weight: 50
 featured_image:
   alt: vote
   url: >-
     7a8ae36c3de94abffebc798ca2fe1c1eb32aba6c-2500x1407.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="J5rOdq8xdP8" title="No Matter What Happens Next - THIS Matters" >}}

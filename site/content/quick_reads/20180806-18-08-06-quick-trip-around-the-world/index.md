@@ -2,14 +2,15 @@
 title: 18.08.06 Quick Trip Around the World
 slug: 20180806-18-08-06-quick-trip-around-the-world
 _id: legacy-f8d78108-7e29-473d-9558-91231c74eaf4
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: LotyrYkaRjTl0E452xWjO1
 type: quick_reads
 draft: false
 aliases:
   - 18-08-06-quick-trip-around-the-world/
 _createdAt: '2018-08-06T12:34:03Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:25:39Z'
 date: '2018-08-06T12:34:03+00:00'
+lastmod: '2018-08-06T12:34:03+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -48,7 +49,6 @@ cards:
 
       [Click: Watch
       Explosion](https://twitter.com/NTN24ve/status/1026201174024900608)
-    citation: 'Click: Watch Explosion'
     _key: card-2-717a30c0-402f-4ecc-b47d-bcb8ea4f5c7d
   - order: 2
     body: >-

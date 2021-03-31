@@ -2,14 +2,15 @@
 title: 18.08.24 Qq
 slug: 20190905-18-08-24-qq
 _id: legacy-28f9b101-fc7c-4c3c-829e-9eaa04eaf13e
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: LotyrYkaRjTl0E452xZRaP
 type: quick_reads
 draft: false
 aliases:
   - 18-08-24-qq/
 _createdAt: '2018-08-24T11:53:03Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-26T20:16:58Z'
 date: '2018-08-24T11:53:03+00:00'
+lastmod: '2018-08-24T11:53:03+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,7 +25,6 @@ cards:
       making sure we’re prepared.”  
         
         
-        
       Kirk Caldwell, Honolulu Mayor, as Hurricane Lane pummels the Big Island of
       Hawaii with 20+ inches of rain in 24 hours. President Trump has authorized
       emergency aid. The last major storm to hit Hawaii was Iniki 26 years ago.
@@ -32,7 +32,6 @@ cards:
 
       [SMARTHER
       REFRESHER](https://smarthernews.com/18-08-23-hawaiian-hurricane/)
-    citation: SMARTHER REFRESHER
     _key: card-1-24b6830c-1d84-479a-91eb-4d57aa9dc685
   - order: 1
     body: >-

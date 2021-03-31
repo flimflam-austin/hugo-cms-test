@@ -2,14 +2,15 @@
 title: 18.07.04 Podcast Washington's Crossing
 slug: 20180703-18-07-04-podcast-washingtons-crossing
 _id: legacy-144ba10d-4a0f-4568-ba5e-9bf56c49faf3
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 45Isps23253Yjlaq28Y3ic
 type: quick_reads
 draft: false
 aliases:
   - 18-07-04-podcast-washingtons-crossing/
 _createdAt: '2018-07-03T23:10:00Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:11:46Z'
 date: '2018-07-03T23:10:00+00:00'
+lastmod: '2018-07-03T23:10:00+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
 
       [Click:
       Listen](http://smarthernews.libsyn.com/smarther-news-ep6-independence-day)
-    citation: 'Click: Listen'
     _key: card-1-13c306a3-6260-4b1c-a7a7-0ba4b6b6d9f3
   - order: 1
     body: >-

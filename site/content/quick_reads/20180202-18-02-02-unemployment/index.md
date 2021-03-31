@@ -2,14 +2,15 @@
 title: 18.02.02 Unemployment
 slug: 20180202-18-02-02-unemployment
 _id: legacy-b39df137-8420-4593-904c-75b0e4b8249b
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: 45Isps23253Yjlaq27ovEZ
 type: quick_reads
 draft: false
 aliases:
   - 18-02-02-unemployment/
 _createdAt: '2018-02-02T13:39:39Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T20:45:48Z'
 date: '2018-02-02T13:39:39+00:00'
+lastmod: '2018-02-02T13:39:39+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,12 +35,10 @@ cards:
       drinking places, health care, and manufacturing. “  
         
         
-        
       Labor Department, Employment Situation Report, January 2018
 
 
       [Click For Full Report](https://www.bls.gov/news.release/pdf/empsit.pdf)
-    citation: Click For Full Report
     _key: card-2-2d41b51e-3049-4bc1-be4d-a5725c7e8e7d
   - order: 2
     body: >-

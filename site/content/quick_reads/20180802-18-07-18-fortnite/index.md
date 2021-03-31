@@ -2,14 +2,15 @@
 title: 18.07.18 Fortnite
 slug: 20180802-18-07-18-fortnite
 _id: legacy-25437dbc-22b0-4c4a-aa8d-7f2352c1ab39
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: LotyrYkaRjTl0E452wcbjh
 type: quick_reads
 draft: false
 aliases:
   - 18-07-18-fortnite/
 _createdAt: '2018-07-18T11:02:52Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T03:01:31Z'
 date: '2018-07-18T11:02:52+00:00'
+lastmod: '2018-07-18T11:02:52+00:00'
 weight: 50
 card_series: Entertainment
 colorpaletteclassname: '--light-blue'
@@ -24,7 +25,6 @@ cards:
 
 
       move over, pac-man.
-    citation: move over, pac-man.
     _key: card-1-1173b465-68a6-4fd1-a323-adde98337f5e
   - order: 1
     body: >-
@@ -43,9 +43,10 @@ cards:
       * Epic Games just released Season 5.
 
 
+
+
       [Watch
       Now](https://www.youtube.com/embed/F3UNnrr1pg4?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-6f4c85a7-0a75-42e6-8804-80a123875253
   - order: 2
     body: >-
@@ -80,9 +81,10 @@ cards:
       your arms & back again.
 
 
+
+
       [Watch
       Now](https://www.youtube.com/embed/IBaiZbMEnyA?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-4-8829bec0-9f96-496d-99e4-832edc1ea070
   - order: 4
     body: >-

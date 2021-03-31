@@ -12,12 +12,16 @@ aliases:
 _createdAt: '2020-12-11T05:33:41Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-12-11T05:33:41+00:00'
+lastmod: '2020-12-11T05:33:41+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     273a3b6798f3d31abc93cffd0434afc23085085a-1024x1024.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="fW3C0QEq7B8" title="Before she trained Carrie Underwood, she went to war as a Marine: SmartHER With Erin Oprea" >}}

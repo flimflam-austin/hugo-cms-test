@@ -2,14 +2,15 @@
 title: 18.08.20 Qq
 slug: 20190905-18-08-20-qq
 _id: legacy-b66f7be6-2225-489e-972c-4157b0928656
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 0aCMfzqL0erea7otJuzB4i
 type: quick_reads
 draft: false
 aliases:
   - 18-08-20-qq/
 _createdAt: '2018-08-20T11:56:36Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-26T20:06:28Z'
 date: '2018-08-20T11:56:36+00:00'
+lastmod: '2018-08-20T11:56:36+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,9 +32,8 @@ cards:
     _key: card-1-8bce6dad-ac12-4be1-ae97-ec6452149485
   - order: 1
     body: >-
-      > ‘We don’t want to auction. But if we’re put in that position, we have to
-      do our fiscal responsibility.’  
-        
+      "We don’t want to auction. But if we’re put in that position, we have to
+      do our fiscal responsibility."  
         
         
       Carla Knorowski, Abraham Lincoln Presidential Library Foundation CEO who
@@ -54,8 +54,7 @@ cards:
       allegations the social media platform discriminates against conservatives.
     _key: card-3-94f97780-c105-4ca7-843d-65502e63016c
   - order: 3
-    body: "> ‘We’ve had phone calls from individuals on our line in California desperate to know what is going on and asking us, a\x18Why isn’t the plane flying?’”  \n  \n  \n  \nRoger Miller, managing partner at Alterna Capital Partners that owns a company of air tankers that fight forest fires. Demand has outrun supply and there's debate as to whether there are enough air assets working in the right way to help contain these fires.\n\n[Click: Fire Refresher](https://smarthernews.com/18-08-15-fire-wood/)"
-    citation: 'Click: Fire Refresher'
+    body: "> \"We’ve had phone calls from individuals on our line in California desperate to know what is going on and asking us, a\x18Why isn’t the plane flying?’”  \n  \nRoger Miller, managing partner at Alterna Capital Partners that owns a company of air tankers that fight forest fires. Demand has outrun supply and there's debate as to whether there are enough air assets working in the right way to help contain these fires.\n\n[Click: Fire Refresher](https://smarthernews.com/18-08-15-fire-wood/)"
     _key: card-4-c9e486b5-e9a2-465c-9d2e-da878eb25db9
   - order: 4
     body: >-
@@ -63,8 +62,6 @@ cards:
       has been incredibly critical of the president, and I think that has put
       him in a political place which actually does more damage for the
       intelligence community — which is apolitical.”  
-        
-        
         
       Ret. Adm. Michael Mullen, fmr. chair of the Joint Chiefs, re: fmr. CIA
       Director John Brennan. Mullen criticized both Brennan's behavior & Pres.

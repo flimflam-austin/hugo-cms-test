@@ -2,14 +2,15 @@
 title: 18.04.30 Netanyahu Lies and Lies
 slug: 20200302-18-04-30-netanyahu-lies-lies
 _id: legacy-314797dc-e398-4254-9b15-b04556ee7f00
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: LotyrYkaRjTl0E452wSWaT
 type: quick_reads
 draft: false
 aliases:
   - 18-04-30-netanyahu-lies-lies/
 _createdAt: '2018-05-01T09:52:44Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-25T23:28:43Z'
 date: '2018-05-01T09:52:44+00:00'
+lastmod: '2018-05-01T09:52:44+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,8 +26,6 @@ cards:
 
       > **“Iran lied. Big time.”**  
         
-        
-        
       Prime Minister of Israel Benjamin Netanyahu, April 30, 2018 during a
       primetime address revealing a cache of materials he said Israeli spies
       lifted from Iran about a SECRETIVE nuclear program despite the so-called
@@ -37,14 +36,12 @@ cards:
       > **“BREAKING: The boy who can’t stop crying wolf is at it again.”**  
         
         
-        
       Javad Zarif, Foreign Minister of Islamic Republic of Iran, Twitter,
       referring to PM Netanyahu. He argues Israel (and U.S.) rehashing "old
       allegations" for the purpose of breaking Iran deal.
 
 
       Flip For More
-    citation: Flip For More
     _key: card-2-ddb531af-a454-4e07-baad-b3424c099ac5
   - order: 2
     body: >-
@@ -53,14 +50,11 @@ cards:
       inside of #Iran show beyond any doubt that the Iranian regime was not
       telling the truth**.”  
         
-        
-        
       Sec. of State Mike Pompeo, April 30, 2018 via State Dept press release.
       Pompeo says he will consult with European allies on a way forward.
 
 
       Flip
-    citation: Flip
     _key: card-3-24f09ca7-3947-4083-b6fa-7acac4241bf7
   - order: 3
     body: >-

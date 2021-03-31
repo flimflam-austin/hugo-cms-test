@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Thursday, November 29, 2018
 slug: 20190905-18-11-28-qq-2
 _id: legacy-f2bf13a6-0e7d-4796-8566-ff00efd300c5
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 45Isps23253Yjlaq2DIOpD
 type: quick_reads
 draft: false
 aliases:
   - 18-11-28-qq-2/
 _createdAt: '2018-11-29T12:44:44Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:40:51Z'
 date: '2018-11-29T12:44:44+00:00'
+lastmod: '2018-11-29T12:44:44+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,22 +21,18 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     body: >-
-      > ‘He just amazed me. He’s my hero. My son is my hero.’  
-        
-        
+      "He just amazed me. He’s my hero. My son is my hero."  
         
       Dawna Duez, mother of Staff Sgt. Dylan Elchin (25) who was killed by a
       roadside bomb in Afghanistan on Tuesday with two others; Army Capt. Andrew
-      Patrick Ross (29) & Army Sgt. 1st Class Eric Michael Emond (39). Ross,
-      served in the Army for 7 years and is survived by his wife. Emond, served
+      Patrick Ross (29) & Army Sgt. 1st Class Eric Michael Emond (39). Ross
+      served in the Army for 7 years and is survived by his wife. Emond served
       in the Army and Marine Corp for more than two decades. He was on his 7th
       overseas deployment and leaves behind his wife and 3 children.
     _key: card-1-5b14e29c-e743-46fe-aaa0-29ff73004917
   - order: 1
     body: >-
-      > ‘I must note we are seldom free to work with unblemished partners.’  
-        
-        
+      "I must note we are seldom free to work with unblemished partners."  
         
       Defense Sec. Jim Mattis in a prepared statement before briefing senators
       in a classified setting, alongside Sec. of State Mike Pompeo. The topic of
@@ -46,10 +43,8 @@ cards:
     _key: card-2-05cab799-1535-41d9-9b3b-39c42a23c0f9
   - order: 2
     body: >-
-      > ‘There is no preset policy. We will be paying very close attention to
-      what incoming economic and financial data are telling us.’  
-        
-        
+      "There is no preset policy. We will be paying very close attention to what
+      incoming economic and financial data are telling us."  
         
       Federal Reserve Chairman Jerome Powell during a moderated a discussion,
       signaling a rapid rate rise by the Fed may not be in the cards. The stock
@@ -59,10 +54,8 @@ cards:
     _key: card-3-fc5d2071-67c0-41f4-9092-e0af8ae9ee1f
   - order: 3
     body: >-
-      > ‘I don’t want anyone to think this is fun and games. Ukraine is under
-      threat of full-scale war with Russia.’  
-        
-        
+      > "I don’t want anyone to think this is fun and games. Ukraine is under
+      threat of full-scale war with Russia."  
         
       Ukrainian President Petro Poroshenko on a naval confrontation with Russia
       in the Baltic Sea. President Putin alleges three Ukrainian ships provoked
@@ -72,10 +65,8 @@ cards:
     _key: card-4-374bf5a4-67cf-41e1-b2a7-6b471f774494
   - order: 4
     body: >-
-      > ‘I’m thinking about how the hell to get out from under that question
-      fast.’  
-        
-        
+      > "I’m thinking about how the hell to get out from under that question
+      fast."  
         
       Former Secretary of State John Kerry reacting to a direct question about
       whether he'd make an announcement to run for president. He went on to say,
@@ -85,8 +76,7 @@ cards:
     _key: card-5-8bc6bbbf-fc94-4703-99a8-89c680131b16
   - order: 5
     body: >-
-      > ‘Roald would, I know, be thrilled.’  
-        
+      > "Roald would, I know, be thrilled."  
         
         
       Felicity Crosland, widow of famous children's writer, Roald Dahl, reacting
@@ -96,7 +86,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/loV0N4m6AMw?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-6-e2bcb8d3-f87c-4c1c-9ea4-0871a27749c2
   - order: 6
     body: |-

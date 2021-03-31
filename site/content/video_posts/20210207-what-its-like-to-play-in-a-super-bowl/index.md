@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2021-02-07T23:14:27Z'
 _updatedAt: '2021-03-22T13:12:00Z'
 date: '2021-02-07T23:14:27+00:00'
+lastmod: '2021-02-07T23:14:27+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     71cbda9772aff60f8cd1f31f3dabe267ad97f599-1024x680.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="1hZZSxFaG30" title="Playing in the NFL for $10 a day! What it’s like to play in a Super Bowl?" >}}

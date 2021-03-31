@@ -2,14 +2,15 @@
 title: 18.02.27 Centcom Update
 slug: 20180228-18-02-27-centcom-update
 _id: legacy-c9a8defa-1167-4dd2-a599-38ea8cb028c6
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: LotyrYkaRjTl0E452wNoXd
 type: quick_reads
 draft: false
 aliases:
   - 18-02-27-centcom-update/
 _createdAt: '2018-02-28T13:00:39Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T22:02:08Z'
 date: '2018-02-28T13:00:39+00:00'
+lastmod: '2018-02-28T13:00:39+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,10 +28,9 @@ cards:
 
 
       > “Diplomatically & militarily **Moscow** plays both arsonist and fire
-      fighter, fueling tensions among all parties in Syria.”  
-        
-        
-        
+      fighter, fueling tensions among all parties in Syria.”
+
+
       General John Votel, Commander, CentCom, Feb 27, 2018
     _key: card-1-7aeeff65-c70f-4a1d-b2dd-926b097f100c
   - order: 1
@@ -47,9 +47,10 @@ cards:
       the full hearing:
 
 
+
+
       [Watch
       Now](https://www.youtube.com/embed/ssvpjWRaQq8?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-50e719e2-674d-46c8-bad9-656dd0dc81fa
   - order: 2
     body: >-

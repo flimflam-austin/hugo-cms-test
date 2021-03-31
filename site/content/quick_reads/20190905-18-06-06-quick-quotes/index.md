@@ -2,14 +2,15 @@
 title: 18.06.06 Quick Quotes
 slug: 20190905-18-06-06-quick-quotes
 _id: legacy-0898389c-d086-45f4-9637-839cae923855
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: LotyrYkaRjTl0E452wXSOT
 type: quick_reads
 draft: false
 aliases:
   - 18-06-06-quick-quotes/
 _createdAt: '2018-06-06T10:32:01Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-26T01:02:04Z'
 date: '2018-06-06T10:32:01+00:00'
+lastmod: '2018-06-06T10:32:01+00:00'
 weight: 50
 card_series: Quotes
 colorpaletteclassname: '--dark-purple'
@@ -19,8 +20,6 @@ cards:
       > ‘No matter what you might think about his presence. One thing’s for sure
       the ratings will be huge.’  
         
-        
-        
       An unnamed source to New York Post following its reporting Dennis Rodman
       will be in Singapore during Pres. Trump’s summit with Kim Jong Un next
       week. Rodman, an NBA Hall of Famer, has visited North Korea 5 times since
@@ -29,11 +28,9 @@ cards:
     _key: card-1-2f895b3f-a4db-480d-861f-c638a110af6f
   - order: 1
     body: >-
-      > “Due to the historic obstruction by Senate Democrats of the President’s
+      “Due to the historic obstruction by Senate Democrats of the President’s
       nominees, and the goal of passing appropriations bills prior to the end of
       the fiscal year…”  
-        
-        
         
       Sen. Majority Leader Mitch McConnell on why he cancelled Congress's August
       recess. Senators up for re-election would lose 4 weeks of campaigning in
@@ -46,8 +43,6 @@ cards:
       > ‘It’s important that consumers and contractors understand that improper
       home renovation can expose residents and workers to hazardous lead
       dust.”  
-        
-        
         
       EPA head of enforcement Susan Bodine following a settlement with 'Fixer
       Upper' stars Chip & Joanna Gaines over lead-based paint violations in more

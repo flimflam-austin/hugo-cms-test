@@ -2,14 +2,15 @@
 title: 18.08.05 Trucks
 slug: 20180806-18-08-05-trucks
 _id: legacy-804fd6c9-ae8c-4e90-bd51-42e3749752d8
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: 0aCMfzqL0erea7otJutkpf
 type: quick_reads
 draft: false
 aliases:
   - 18-08-05-trucks/
 _createdAt: '2018-08-06T12:37:55Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:36:52Z'
 date: '2018-08-06T12:37:55+00:00'
+lastmod: '2018-08-06T12:37:55+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       but...my amazon order!
-    citation: but...my amazon order!
     _key: card-1-e2dde35f-3267-4305-a62c-ff7446b44b19
   - order: 1
     body: >-

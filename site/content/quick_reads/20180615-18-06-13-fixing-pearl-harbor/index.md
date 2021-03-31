@@ -2,14 +2,15 @@
 title: 18.06.13 Fixing Pearl Harbor
 slug: 20180615-18-06-13-fixing-pearl-harbor
 _id: legacy-1ab7d229-f75c-4c39-869c-268155736b43
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 45Isps23253Yjlaq28TLZs
 type: quick_reads
 draft: false
 aliases:
   - 18-06-13-fixing-pearl-harbor/
 _createdAt: '2018-06-15T10:27:21Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:34:12Z'
 date: '2018-06-15T10:27:21+00:00'
+lastmod: '2018-06-15T10:27:21+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
 
 
       Why?
-    citation: Why?
     _key: card-1-4e7a5123-f486-47c5-9e96-422935f942ae
   - order: 1
     body: >-
@@ -62,8 +62,9 @@ cards:
       * Repairing the shift of 3 feet is not an easy fix.
 
 
+
+
       Why This Matters
-    citation: Why This Matters
     _key: card-3-ebc3c26b-0208-4f2c-8d4a-55eac8f4378b
   - order: 3
     body: >-

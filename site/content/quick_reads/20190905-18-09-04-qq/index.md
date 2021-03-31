@@ -2,14 +2,15 @@
 title: Smarthernews Quick Quotes for September 4
 slug: 20190905-18-09-04-qq
 _id: legacy-68cc1eca-50dc-4f9c-93cf-a4b6a2a6eeb4
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 0aCMfzqL0erea7otJxffxb
 type: quick_reads
 draft: false
 aliases:
   - 18-09-04-qq/
 _createdAt: '2018-09-04T11:59:56Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T21:26:05Z'
 date: '2018-09-04T11:59:56+00:00'
+lastmod: '2018-09-04T11:59:56+00:00'
 weight: 50
 card_series: Quotes
 colorpaletteclassname: '--light-blue'
@@ -22,14 +23,13 @@ cards:
       his family, and continue our mission.”  
         
         
-        
       Commanding General Scott Miller on the 6th death of an American this year
       in Afghanistan; another soldier was wounded in the apparent "insider
       attack."
     _key: card-1-8c0610c3-2ee0-4f6d-ac94-3d694a6522c5
   - order: 1
     body: >-
-      > ‘If I decide to do it, it will be done. I’m not gonna ‘try’.’  
+      > "If I decide to do it, it will be done. I’m not gonna ‘try’.’  
         
         
         
@@ -39,11 +39,10 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/xfA4Mt2WDK0?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-6543472e-93fa-451e-b637-ac82c260dee1
   - order: 2
     body: >-
-      > ‘Do not appropriate Mollie’s soul in advancing views she believed were
+      > "Do not appropriate Mollie’s soul in advancing views she believed were
       profoundly racist.”  
         
         
@@ -55,10 +54,9 @@ cards:
     _key: card-3-3892bb3d-aef8-4f25-aed2-b978f54dbbc5
   - order: 3
     body: >-
-      > “Despite what some Democrats may wish in the depths of their hearts,A
+      > “Despite what some Democrats may wish in the depths of their hearts,
       Mollie was murdered by an illegal alien and her murder would never have
       happened if we policed our southern border properly.”  
-        
         
         
       Donald Trump Jr., describing the reaction of *some* Democrats to Mollie
@@ -67,9 +65,8 @@ cards:
     _key: card-4-4c84c797-6ac6-46e7-be05-43e4561f6153
   - order: 4
     body: >-
-      > ‘It’s best to keep your child rear-facing as long as possible. This is
-      still the safest way for children to ride.’  
-        
+      > "It’s best to keep your child rear-facing as long as possible. This is
+      still the safest way for children to ride."  
         
         
       American Academy of Pediatrics as it drops the age limit for rear-facing
@@ -81,7 +78,6 @@ cards:
   - order: 5
     body: >-
       > “Countless sensitive crustaceans experienced an agonizing death…”  
-        
         
         
       Tracy Reiman, PETA EVP, on the organizations plans to erect a roadside

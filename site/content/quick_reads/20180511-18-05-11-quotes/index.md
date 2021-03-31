@@ -2,14 +2,15 @@
 title: 18.05.11 Quotes
 slug: 20180511-18-05-11-quotes
 _id: legacy-88f7a74d-ceaa-49e5-9f1d-e39e6899d5a4
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 0aCMfzqL0erea7otJs2OCI
 type: quick_reads
 draft: false
 aliases:
   - 18-05-11-quotes/
 _createdAt: '2018-05-11T10:15:02Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-26T00:10:17Z'
 date: '2018-05-11T10:15:02+00:00'
+lastmod: '2018-05-11T10:15:02+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,24 +27,19 @@ cards:
       > **‘We will both try to make it a very special moment for World
       Peace!’**  
         
-        
-        
       President Trump's tweet announcing he will meet North Korea's Kim Jong Un
       on June 12 in Singapore. This will be the first ever meeting between a
       sitting U.S. President and a North Korean leader.
 
 
       [CLICK FOR A REFRESHER](https://smarthernews.com/18-05-02-meeting-spot/)
-    citation: CLICK FOR A REFRESHER
     _key: card-1-1d42d497-7eda-487f-99b2-49aab0983e6a
   - order: 1
-    body: "> **‘There was a part of me that was terribly naivea\x14clearly, _so_ naive. I have moments of rage, I have moments of confusion, I have moments of disbelief! And I have moments when I just cry for my children. What are their lives going to be?’**  \n  \n  \n  \nGeorgina Chapman in her first public comments on soon-to-be ex-husband Harvey Weinstein after he was accused of sexual violence & sexual harassment by 100+ women."
+    body: "> **‘There was a part of me that was terribly naive\x14clearly, _so_ naive. I have moments of rage, I have moments of confusion, I have moments of disbelief! And I have moments when I just cry for my children. What are their lives going to be?’**  \n  \nGeorgina Chapman in her first public comments on soon-to-be ex-husband Harvey Weinstein after he was accused of sexual violence & sexual harassment by 100+ women."
     _key: card-2-5f25853c-9334-4a9a-82e0-1f894e1654d4
   - order: 2
     body: >-
       > **“It could be large rocks, it could be boulders the size of cows.”**  
-        
-        
         
       Jessica Ferracane, of the Hawaii Volcanoes National Park, on the threat of
       eruptions at Kilauea's summit crater. Scientists warn violent eruptions
@@ -51,10 +47,9 @@ cards:
 
 
       [CLICK FOR REFRESHER](https://smarthernews.com/18-05-10-hawaii-volcano/)
-    citation: CLICK FOR REFRESHER
     _key: card-3-7f99510e-7765-472c-b1bd-60a1e9d43a7e
   - order: 3
-    body: "> **“I’m almost speechless about it. It’s not like, a\x18Oh, we’re short on a medicine for a headache.’ This is a life-threatening issue.”**  \n  \n  \n  \nAimee Weiss on an EpiPen shortage affecting her 12-year-old daughter who is allergic to tree nuts. The FDA added the emergency allergy medication to its list of medicines in short supply, but the shortage is not expected to last long, according to its maker Mylan."
+    body: "> **“I’m almost speechless about it. It’s not like, a\x18Oh, we’re short on a medicine for a headache.’ This is a life-threatening issue.”**  \n  \nAimee Weiss on an EpiPen shortage affecting her 12-year-old daughter who is allergic to tree nuts. The FDA added the emergency allergy medication to its list of medicines in short supply, but the shortage is not expected to last long, according to its maker Mylan."
     _key: card-4-0831c9a1-ddbc-40f3-9c16-a07ecbedbbd8
   - order: 4
     body: '[view sources](https://smarthernews.com/18-05-11-quotes/)'

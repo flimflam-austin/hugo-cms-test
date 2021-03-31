@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2021-01-05T03:58:16Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2021-01-05T03:58:16+00:00'
+lastmod: '2021-01-05T03:58:16+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     c2edee9a5eb9deb601de7b10d3f9b4c0006085ad-800x534.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="nPuSFC5yTnM" title="LEAKED PHONE CALL: Did Pres. Trump break any laws?" >}}

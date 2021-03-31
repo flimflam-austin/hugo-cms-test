@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-09-08T14:49:28Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-09-08T14:49:28+00:00'
+lastmod: '2020-09-08T14:49:28+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     493c809808c3ebe4fecf40f5ed67163a90712eab-2560x1920.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="m4Xlpf3t28Y" title="8 weeks!" >}}

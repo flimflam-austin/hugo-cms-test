@@ -2,14 +2,15 @@
 title: 18.06.25 Perfect Cup of Coffee
 slug: 20180625-18-06-25-perfect-cup-of-coffee
 _id: legacy-f8635e22-c601-4e7f-81e5-50bc868a4d2e
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 45Isps23253Yjlaq28W0a2
 type: quick_reads
 draft: false
 aliases:
   - 18-06-25-perfect-cup-of-coffee/
 _createdAt: '2018-06-25T09:44:07Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:51:22Z'
 date: '2018-06-25T09:44:07+00:00'
+lastmod: '2018-06-25T09:44:07+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       Flip - How?
-    citation: Flip - How?
     _key: card-1-7e7f2e9e-b1e8-4a6e-8b75-d0a5315e0a5f
   - order: 1
     body: >-
@@ -46,8 +46,9 @@ cards:
       developed “an app for that.”
 
 
+
+
       How It Works
-    citation: How It Works
     _key: card-2-07c8daca-e7e4-448a-a5d8-cc37ba96397c
   - order: 2
     body: >-

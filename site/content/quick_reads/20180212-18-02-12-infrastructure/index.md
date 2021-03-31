@@ -2,14 +2,15 @@
 title: 18.02.12 Infrastructure
 slug: 20180212-18-02-12-infrastructure
 _id: legacy-222764b8-85a2-4b6f-b83f-6e03c6b84088
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: m8O8PDvTRICveNMxPwjyTT
 type: quick_reads
 draft: false
 aliases:
   - 18-02-12-infrastructure/
 _createdAt: '2018-02-12T14:02:19Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:00:27Z'
 date: '2018-02-12T14:02:19+00:00'
+lastmod: '2018-02-12T14:02:19+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,12 +26,10 @@ cards:
       Country!”  
         
         
-        
       President Trump, Twitter, Feb 12, 2018
 
 
       Click Here To Flip
-    citation: Click Here To Flip
     _key: card-1-12ac7f33-9e4b-400e-bfaa-bd88d55ae6e5
   - order: 1
     body: >-
@@ -69,7 +68,6 @@ cards:
 
       [Click Here For
       Report](https://www.infrastructurereportcard.org/making-the-grade/report-card-history/)
-    citation: Click Here For Report
     _key: card-4-9adff521-67dd-42a2-b27e-61e9e96d07e3
   - order: 4
     body: |-

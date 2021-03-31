@@ -2,14 +2,15 @@
 title: 18.02.14 President on School Schooting
 slug: 20180215-18-02-14-president-school-schooting
 _id: legacy-183fbc21-2de8-4eb4-9981-88693a4ee997
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: 0aCMfzqL0erea7otJrgsz6
 type: quick_reads
 draft: false
 aliases:
   - 18-02-14-president-school-schooting/
 _createdAt: '2018-02-15T11:00:52Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:42:59Z'
 date: '2018-02-15T11:00:52+00:00'
+lastmod: '2018-02-15T11:00:52+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
       [Click HERE for
       Proclamation](https://www.whitehouse.gov/presidential-actions/presidential-proclamation-honoring-victims-tragedy-parkland-florida/)
-    citation: Click HERE for Proclamation
     _key: card-1-d5573877-6772-4809-a9c3-95762b96a203
   - order: 1
     body: >-
@@ -50,9 +50,10 @@ cards:
       guns/background checks.
 
 
+
+
       [CLICK: FULL
       REMARKS](https://twitter.com/realDonaldTrump/status/964190995687591936)
-    citation: 'CLICK: FULL REMARKS'
     _key: card-2-2886917d-1844-4aca-98b5-eaad248fc27d
   - order: 2
     body: >-
@@ -61,13 +62,11 @@ cards:
       feel unsafe in an American school.”  
         
         
-        
       President Trump, Twitter, Feb 14, 2018 3:50 pm est (Florida shooting
       occurred around 230 pm est)
 
 
       Flip Here
-    citation: Flip Here
     _key: card-3-823445f1-6b04-47f0-a299-fe73e09cf132
   - order: 3
     body: >-
@@ -99,9 +98,10 @@ cards:
       * Middle Class/Upper Middle Class Community
 
 
+
+
       [Tap HERE for
       Data](https://www.neighborhoodscout.com/fl/parkland/demographics)
-    citation: Tap HERE for Data
     _key: card-5-bd73265f-2cd9-4821-9257-7a0ef639ac46
   - order: 5
     body: >-

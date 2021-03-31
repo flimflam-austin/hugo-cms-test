@@ -2,14 +2,15 @@
 title: 18.06.07 Suicide - How Can We Help Each Other?
 slug: 20180608-18-06-07-suicide-can-help
 _id: legacy-e24a5cef-8916-49d8-9c97-042a1400ed87
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28QzVV
 type: quick_reads
 draft: false
 aliases:
   - 18-06-07-suicide-can-help/
 _createdAt: '2018-06-08T10:41:20Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:09:54Z'
 date: '2018-06-08T10:41:20+00:00'
+lastmod: '2018-06-08T10:41:20+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,11 +25,10 @@ cards:
 
 
       New data shows suicide rates rising dramatically in U.S. **More than half
-      of those who died had**A **no known mental illness**.
+      of those who died had** **no known mental illness**.
 
 
       What To Know
-    citation: What To Know
     _key: card-1-536b70bf-f0e2-49b9-b339-77f6b4e2fff2
   - order: 1
     body: >-
@@ -46,7 +46,6 @@ cards:
 
 
       Why?
-    citation: Why?
     _key: card-2-ac8cba26-798b-4cd8-b6dc-b2858f52967b
   - order: 2
     body: >-
@@ -66,7 +65,7 @@ cards:
     _key: card-3-5139eac3-11a6-4fd1-81f7-f8a8fbe42f64
   - order: 3
     body: >-
-      > ‘Suicide isA a public health crisis when you look at the numbers, and
+      > ‘Suicide is a public health crisis when you look at the numbers, and
       they keep going up. It’s up everywhere. And we know that the rates are
       actually higher than what’s reported. But homicides still get more
       attention.’  

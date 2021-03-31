@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for September 5
 slug: 20190905-18-09-05-qq
 _id: legacy-7cc2c15a-8c4f-4eef-9109-f83cd74865f3
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: LotyrYkaRjTl0E452yatMb
 type: quick_reads
 draft: false
 aliases:
   - 18-09-05-qq/
 _createdAt: '2018-09-05T11:54:47Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T21:29:40Z'
 date: '2018-09-05T11:54:47+00:00'
+lastmod: '2018-09-05T11:54:47+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,12 +33,9 @@ cards:
     _key: card-1-91ef90f9-4f51-4996-9df5-6369b99df9a3
   - order: 1
     body: >-
-      > “Twitter does not use political ideology to make any decisions….A In
-      fact, from a simple business perspective and to serve the public
-      conversation, Twitter is incentivized to keep all voices on the
-      platform.”  
-        
-        
+      “Twitter does not use political ideology to make any decisions…. In fact,
+      from a simple business perspective and to serve the public conversation,
+      Twitter is incentivized to keep all voices on the platform.”  
         
       Jack Dorsey, Twitter co-founder & CEO, in written testimony. On Wednesday,
       Dorsey & Facebook's Sheryl Sandberg will appear before the House Committee
@@ -45,12 +43,20 @@ cards:
       attempts to influence U.S. political campaigns.
     _key: card-2-36a22304-1c15-4f61-9fdf-2c5b520a9c7d
   - order: 2
-    body: "> ‘You hire us to get things done a\x14 and pass the torch when we’ve done our best to do what you hired us to do.’  \n  \n  \n  \nChicago Mayor Rahm Emanuel announcing he will not seek re-election. The move is a surprise as he's raised $10M for a third term and, historically, Chicago mayors hold office for decades. Emanuel faces scrutiny over his handling of a police officer shooting a knife-wielding teen 16 times. The officer's murder trial starts Wednesday."
+    body: >-
+      "You hire us to get things done and pass the torch when we’ve done our
+      best to do what you hired us to do."  
+        
+        
+      Chicago Mayor Rahm Emanuel announcing he will not seek re-election. The
+      move is a surprise as he's raised $10M for a third term and, historically,
+      Chicago mayors hold office for decades. Emanuel faces scrutiny over his
+      handling of a police officer shooting a knife-wielding teen 16 times. The
+      officer's murder trial starts Wednesday.
     _key: card-3-498b6ed3-8be3-42f8-8b51-6aea885eba1a
   - order: 3
     body: >-
       > “I’m here to take that stand and say we are ready for the storm.”  
-        
         
         
       Ghassan Korban, newly named Exec. Dir. of New Orleans Sewerage & Water

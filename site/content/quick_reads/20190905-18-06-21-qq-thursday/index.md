@@ -2,14 +2,15 @@
 title: 18.06.21 Qq Thursday
 slug: 20190905-18-06-21-qq-thursday
 _id: legacy-1cc51f9b-a9db-46bc-a681-6c1201bdf0b0
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: 45Isps23253Yjlaq28UFcx
 type: quick_reads
 draft: false
 aliases:
   - 18-06-21-qq-thursday/
 _createdAt: '2018-06-21T09:00:13Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T01:44:21Z'
 date: '2018-06-21T09:00:13+00:00'
+lastmod: '2018-06-21T09:00:13+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,7 +25,6 @@ cards:
       to see how this plays out.”  
         
         
-        
       Ray Dalio, founder of hedge fund Bridgewater Associates, on a possible
       trade war with China. Pres. Trump is threatening $200B in tariffs on
       Chinese goods, in addition to $50B in tariffs already imposed. Last month,
@@ -32,12 +32,10 @@ cards:
     _key: card-1-64141ae5-5269-47e9-b73f-113c4de3eef1
   - order: 1
     body: >-
-      > “To watch those families broken apart in real time puts to us a very
+      “To watch those families broken apart in real time puts to us a very
       simple question: are we a nation that accepts the cruelty of ripping
       children from their parents’ arms, or are we a nation that values
       families, and works to keep them together?”  
-        
-        
         
       Pres. Obama, Facebook, for the first time on U.S. immigration
       zero-tolerance border policy. His administration cared for unaccompanied
@@ -50,7 +48,6 @@ cards:
       exercise any public ministry.”  
         
         
-        
       Cardinal Theodore McCormick, former archbishop of Washington, on his
       removal from ministry after a teenager's sex abuse allegation while he was
       in New York almost 50 years ago. McCarrick served as D.C.’s archbishop
@@ -59,8 +56,7 @@ cards:
   - order: 3
     body: >-
       > “…my parents are abusive. They abuse us, and my two little sisters right
-      now are chained up.’  
-        
+      now are chained up."  
         
         
       17-year-old daughter of David & Louise Turpin to 911 dispatch. Her parents

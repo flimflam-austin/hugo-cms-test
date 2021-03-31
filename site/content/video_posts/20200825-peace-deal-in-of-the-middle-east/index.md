@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-08-24T18:42:26Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-08-24T18:42:26+00:00'
+lastmod: '2020-08-24T18:42:26+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     fbeb237f1da74c40c22bbb824aca4ef890669b93-2560x1707.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="pGYmeQOPzXE" title="“Peace Deal” In of the Middle East?" >}}

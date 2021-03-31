@@ -2,14 +2,15 @@
 title: Real Estate Slowdown?
 slug: 20180905-real-estate-slowdown
 _id: legacy-e9e02608-8d5d-42db-9ec9-9ea49c1c1359
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 45Isps23253Yjlaq2D423Y
 type: quick_reads
 draft: false
 aliases:
   - real-estate-slowdown/
 _createdAt: '2018-09-05T11:55:14Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-27T21:30:22Z'
 date: '2018-09-05T11:55:14+00:00'
+lastmod: '2018-09-05T11:55:14+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
 
 
       Maybe...
-    citation: Maybe...
     _key: card-1-1f2c0df2-9bb5-4d9b-9164-0d0da39d7f36
   - order: 1
     body: >-

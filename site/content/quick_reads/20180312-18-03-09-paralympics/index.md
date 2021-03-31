@@ -2,14 +2,15 @@
 title: 18.03.09 Paralympics
 slug: 20180312-18-03-09-paralympics
 _id: legacy-0ec33270-e74d-4481-a81f-323057dc820c
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: 0aCMfzqL0erea7otJrnGWV
 type: quick_reads
 draft: false
 aliases:
   - 18-03-09-paralympics/
 _createdAt: '2018-03-12T12:00:11Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:17:59Z'
 date: '2018-03-12T12:00:11+00:00'
+lastmod: '2018-03-12T12:00:11+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,13 +28,11 @@ cards:
       I was looking to seek that out again.”  
         
         
-        
       Dan Cnossen, Retired Navy SEAL, Gold & Silver Paralympic Medalist, Purple
       Heart, Bronze Medal, pursuing second Master's Degree at Harvard.
 
 
       Yes. That's a real bio.
-    citation: Yes. That's a real bio.
     _key: card-1-0dad938e-46f0-4195-b433-4414c5cfed27
   - order: 1
     body: |-
@@ -46,7 +45,6 @@ cards:
       **44% MORE female athletes** than the 2014 Sochi games.
 
       FLIP HERE FOR MORE
-    citation: FLIP HERE FOR MORE
     _key: card-2-3f322c4b-eca5-418a-bba0-41cacb9881c2
   - order: 2
     body: |-

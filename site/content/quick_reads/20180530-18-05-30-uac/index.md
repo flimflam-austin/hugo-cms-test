@@ -2,14 +2,15 @@
 title: 18.05.30 Uac
 slug: 20180530-18-05-30-uac
 _id: legacy-1c450e9e-ba5a-4a29-80c4-70dd60f2db1b
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28P4Ja
 type: quick_reads
 draft: false
 aliases:
   - 18-05-30-uac/
 _createdAt: '2018-05-30T12:46:19Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T00:49:15Z'
 date: '2018-05-30T12:46:19+00:00'
+lastmod: '2018-05-30T12:46:19+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       FLIP HERE FOR THE FACTS
-    citation: FLIP HERE FOR THE FACTS
     _key: card-1-889ec81d-aa49-468e-a9c4-232fd708e22a
   - order: 1
     body: >-

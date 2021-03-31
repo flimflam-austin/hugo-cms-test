@@ -2,14 +2,15 @@
 title: 18.02.13 Ligety Video
 slug: 20180212-18-02-13-ligety-video
 _id: legacy-fe6619fb-fd95-466e-a1af-33bd4884356d
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: LotyrYkaRjTl0E452wM6Td
 type: quick_reads
 draft: false
 aliases:
   - 18-02-13-ligety-video/
 _createdAt: '2018-02-13T00:32:17Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:36:08Z'
 date: '2018-02-13T00:32:17+00:00'
+lastmod: '2018-02-13T00:32:17+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
       [Click HERE to see video Click sunglasses (below) for card
       flip](https://instagram.com/p/BfAqRn_gbVu/)
-    citation: Click HERE to see video Click sunglasses (below) for card flip
     _key: card-1-f8793ddf-7a6d-43d2-97c5-9d77e0fb32de
   - order: 1
     body: >-

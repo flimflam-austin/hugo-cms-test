@@ -2,14 +2,15 @@
 title: 18.07.31 Quick Quotes
 slug: 20190905-18-07-31-quick-quotes
 _id: legacy-d0453134-8203-43a6-8087-a8c63523cffb
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: 45Isps23253Yjlaq2Atwcj
 type: quick_reads
 draft: false
 aliases:
   - 18-07-31-quick-quotes/
 _createdAt: '2018-07-31T11:28:53Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T19:19:05Z'
 date: '2018-07-31T11:28:53+00:00'
+lastmod: '2018-07-31T11:28:53+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,12 +21,10 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     body: >-
-      > ‘My understanding is that they did it low-key and weren’t looking for
+      > "My understanding is that they did it low-key and weren’t looking for
       publicity. There were enough to send every police officer, firefighter and
       extended family to the concert, and then some. The gesture was absolutely
       generous, significant and appreciated.”  
-        
-        
         
       Weymouth, MA Mayor Robert Hedlund on Taylor Swift providing free concert
       tickets after the shooting death of a local police officer. Swift's camp
@@ -33,7 +32,7 @@ cards:
     _key: card-1-84c9733a-54ae-4a4f-b07f-3e8790b69ddd
   - order: 1
     body: >-
-      > ‘We see them going to work, just as before…’  
+      > "We see them going to work, just as before…"  
         
         
         
@@ -44,9 +43,7 @@ cards:
     _key: card-2-fa357510-42e9-4e90-9e65-7d73833ffc4c
   - order: 2
     body: >-
-      > “I’ll always leave room for negotiation.”  
-        
-        
+      “I’ll always leave room for negotiation.”  
         
       President Trump responding to a question about funding a border wall
       during a press conference. Pres. Trump has requested $25B for border
@@ -58,9 +55,7 @@ cards:
     _key: card-3-9b648423-6077-43ec-a363-4317dd80e6cd
   - order: 3
     body: >-
-      > ‘Putin is a thief.’  
-        
-        
+      > "Putin is a thief."  
         
       Rallying cry at a Sunday protest in Russia against proposed hikes to the
       retirement age. The new legislation would move the retirement age for men
@@ -82,7 +77,6 @@ cards:
 
 
       [More Info Here](https://smarthernews.com/18-07-31-manafort/%20a)
-    citation: More Info Here
     _key: card-5-41e70006-df46-4029-b67a-93d584503057
   - order: 5
     body: |-

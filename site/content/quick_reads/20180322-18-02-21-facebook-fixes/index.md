@@ -2,14 +2,15 @@
 title: 18.02.21 Facebook Fixes
 slug: 20180322-18-02-21-facebook-fixes
 _id: legacy-10966c75-ec4e-45a5-95a1-459142a63623
-_rev: O8E8pz1fLwnc3fN7JVEzvC
+_rev: 0aCMfzqL0erea7otJroge5
 type: quick_reads
 draft: false
 aliases:
   - 18-02-21-facebook-fixes/
 _createdAt: '2018-03-22T10:41:02Z'
-_updatedAt: '2021-03-22T13:11:06Z'
+_updatedAt: '2021-03-25T22:29:27Z'
 date: '2018-03-22T10:41:02+00:00'
+lastmod: '2018-03-22T10:41:02+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       CEO Mark Zuckerburg finally talked.
-    citation: CEO Mark Zuckerburg finally talked.
     _key: card-1-1df246db-88da-4788-b5c9-33392944dec9
   - order: 1
     body: >-

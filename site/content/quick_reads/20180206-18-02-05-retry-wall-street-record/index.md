@@ -2,14 +2,15 @@
 title: 18.02.05 Retry Wall Street Record
 slug: 20180206-18-02-05-retry-wall-street-record
 _id: legacy-85ed9a21-430b-4446-8e50-f63261881ae1
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: 45Isps23253Yjlaq27pDG9
 type: quick_reads
 draft: false
 aliases:
   - 18-02-05-retry-wall-street-record/
 _createdAt: '2018-02-06T03:44:43Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T20:47:17Z'
 date: '2018-02-06T03:44:43+00:00'
+lastmod: '2018-02-06T03:44:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -38,7 +39,6 @@ cards:
 
 
       Flip For Why
-    citation: Flip For Why
     _key: card-1-73e658d7-82f1-4d03-928c-c50ec8cae727
   - order: 1
     body: >-

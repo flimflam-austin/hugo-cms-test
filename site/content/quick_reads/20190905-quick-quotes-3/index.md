@@ -2,14 +2,15 @@
 title: Quick Quotes for Monday, September 10th
 slug: 20190905-quick-quotes-3
 _id: legacy-06705f21-5168-4890-be81-682c02deb1ea
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 0aCMfzqL0erea7otJxgnJ8
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-3/
 _createdAt: '2018-09-10T12:00:40Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T21:39:35Z'
 date: '2018-09-10T12:00:40+00:00'
+lastmod: '2018-09-10T12:00:40+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,9 +21,7 @@ colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
     body: >-
-      > ‘Together their voices will ring out into perpetuity…”  
-        
-        
+      > "Together their voices will ring out into perpetuity…”  
         
       Stephen Clark, Somerset County, PA parks superintendent, on the Tower of
       Voices memorial dedicated to 9/11 victims nearly 17 years after the
@@ -33,11 +32,9 @@ cards:
     _key: card-1-c501e479-fb99-46b4-a6b9-dbc2b66ae128
   - order: 1
     body: >-
-      > “When a woman is emotional, she’s ‘hysterical’ and she’s penalized for
-      it. When a man does the same, he’s ‘outspoken’ & and there are no
+      "When a woman is emotional, she’s ‘hysterical’ and she’s penalized for it.
+      When a man does the same, he’s ‘outspoken’ & and there are no
       repercussions.”  
-        
-        
         
       Tennis legend Billie Jean King in a tweet thanking Serena Williams for
       calling out a double standard after a US Open outburst. Williams, vying
@@ -51,20 +48,16 @@ cards:
       as faithfully as possible, the internal workings of a chaotic and divided
       administration and to defend the choice to nevertheless work within it.”  
         
-        
-        
       James Dao, The New York Times Op-Ed Editor, on the possible motives of the
       anonymous Op-Ed from what it calls a Senior Administration Official. The
       article has been viewed 10M+ times since its publication Wednesday.
     _key: card-3-c9984117-7532-407a-bb91-a92ad3960b42
   - order: 3
     body: >-
-      > ‘What do we say to the U.S.? That if they want to help the people of
+      > "What do we say to the U.S.? That if they want to help the people of
       Nicaragua, if they want to contribute to peace, the best thing they can
       do, and should do, is not interfere in Nicaragua, and respect
       Nicaragua.”  
-        
-        
         
       Nicaraguan President Daniel Ortega's response to UN Ambassador Nikki
       Haley's likening of the country to Syria or Venezuela. An est. 300+ people
@@ -74,7 +67,6 @@ cards:
     body: >-
       > “I was pretty sure I wasn’t going to be homecoming queen, but I was
       pretty sure I was going to make that kick.”  
-        
         
         
       Kaylee Foster, Ocean Springs, MS high school senior, on how she felt being

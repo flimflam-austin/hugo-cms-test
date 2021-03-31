@@ -2,14 +2,15 @@
 title: Oil's Magic Number
 slug: 20181129-18-11-29-oils-magic-number
 _id: legacy-e384a906-cb09-423f-99f0-57721469a3f9
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: 45Isps23253Yjlaq2DIHjS
 type: quick_reads
 draft: false
 aliases:
   - 18-11-29-oils-magic-number/
 _createdAt: '2018-11-29T12:36:03Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:39:08Z'
 date: '2018-11-29T12:36:03+00:00'
+lastmod: '2018-11-29T12:36:03+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,9 +24,6 @@ cards:
       OIL’S MAGIC NUMBER
 
 
-      =====================
-
-
       Not too high… not too low… what is the best price for oil?
 
 
@@ -37,7 +35,6 @@ cards:
 
 
       G-OIL-DILOCKS
-    citation: G-OIL-DILOCKS
     _key: card-1-ec976aa1-f053-4511-9ba3-a1ac3b0cf28d
   - order: 1
     body: >-
@@ -55,7 +52,7 @@ cards:
   - order: 2
     body: >-
       > “Oil prices getting lower. Great! Like a big Tax Cut for America and the
-      World. Enjoy! …Thank you to Saudi Arabia, but let’s go lower!  
+      World. Enjoy! …Thank you to Saudi Arabia, but let’s go lower!"  
         
         
         
@@ -68,8 +65,6 @@ cards:
 
       > Goldman Sachs warns $50/barrel oil is not good for America, instead says
       a $65 to $70/barrel range is best for all.  
-        
-        
         
       _“When you’re in that level it’s not too high & damaging the consumer, but
       at the same time, it creates a stable environment for the industry.”_  

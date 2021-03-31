@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Sept 6
 slug: 20190905-18-09-06-qq
 _id: legacy-3ec777fd-763c-4bbc-9281-7979e2b687d6
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 45Isps23253Yjlaq2D481s
 type: quick_reads
 draft: false
 aliases:
   - 18-09-06-qq/
 _createdAt: '2018-09-06T11:57:02Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T21:31:45Z'
 date: '2018-09-06T11:57:02+00:00'
+lastmod: '2018-09-06T11:57:02+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,11 +32,9 @@ cards:
     _key: card-1-e13a198e-1008-40e4-a7b5-896e4fc9e2fb
   - order: 1
     body: >-
-      > ‘No one is above the law in our constitutional system…. Under our system
+      "No one is above the law in our constitutional system…. Under our system
       of government, the executive branch is subject to the law, subject to the
       court system.”  
-        
-        
         
       Supreme Court nominee Judge Brett Kavanaugh responding to accusations that
       his views of presidential authority prevent any meaningful check of Pres.
@@ -45,7 +44,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/KxqNyflN2xU?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-1d85a2f6-e6ef-4852-a3c2-06344b71ec17
   - order: 2
     body: >-
@@ -54,16 +52,13 @@ cards:
       they’re ‘senior’ officials…. The NYT giving it anonymity (Mr. X), makes it
       appear bigger than it likey [sic] is.”  
         
-        
-        
       Ari Fleischer, fmr White House Press Sec., responding to a New York Times
       anonymous op-ed that claims members of President Trump's team are working
       against him in the White House.
     _key: card-3-b8d4067b-6f52-4bd0-b303-92a2a2a758dd
   - order: 3
     body: >-
-      > ‘I don’t want to search until I’m 80. But if I have to, I will.’  
-        
+      > "I don’t want to search until I’m 80. But if I have to, I will."  
         
         
       24-year-old Kimberley HeavyRunner Loring, a member of The Blackfeet

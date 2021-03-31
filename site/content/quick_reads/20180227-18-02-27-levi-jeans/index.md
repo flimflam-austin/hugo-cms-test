@@ -2,14 +2,15 @@
 title: 18.02.27 Levi Jeans
 slug: 20180227-18-02-27-levi-jeans
 _id: legacy-f8fb3d04-8079-4148-a1f2-24911f600b48
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: 0aCMfzqL0erea7otJrk6zw
 type: quick_reads
 draft: false
 aliases:
   - 18-02-27-levi-jeans/
 _createdAt: '2018-02-28T03:24:52Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T22:01:18Z'
 date: '2018-02-28T03:24:52+00:00'
+lastmod: '2018-02-28T03:24:52+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Flip For The Scoop
-    citation: Flip For The Scoop
     _key: card-1-ad7e3450-6726-4f8e-8674-0ec202f8c324
   - order: 1
     body: >-
@@ -88,7 +88,6 @@ cards:
 
       [Click Here: Oldest Pair of Women's
       Jeans](http://time.com/4915850/oldest-womens-jeans/)
-    citation: 'Click Here: Oldest Pair of Women''s Jeans'
     _key: card-5-36ea35ed-c11e-4fe2-afb5-99e764714162
   - order: 5
     body: >-

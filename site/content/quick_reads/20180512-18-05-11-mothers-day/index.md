@@ -2,14 +2,15 @@
 title: 18.05.11 Mothers Day
 slug: 20180512-18-05-11-mothers-day
 _id: legacy-795d1776-0b8f-435e-bc26-2b8024e33654
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 45Isps23253Yjlaq28JxaZ
 type: quick_reads
 draft: false
 aliases:
   - 18-05-11-mothers-day/
 _createdAt: '2018-05-12T11:45:40Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-26T00:11:44Z'
 date: '2018-05-12T11:45:40+00:00'
+lastmod: '2018-05-12T11:45:40+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,14 +32,11 @@ cards:
 
       ## Total number of American mothers as of last count.
 
-      > **‘Being a mom has made me so tired. And so happy.’**  
-        
-        
+      > **"Being a mom has made me so tired. And so happy."**  
         
       Tina Fey
 
       Love, SmartHER News
-    citation: Love, SmartHER News
     _key: card-2-2570a70c-409b-4bdc-a9dc-571496b20af2
   - order: 2
     body: |-

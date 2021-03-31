@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-11-23T18:51:51Z'
 _updatedAt: '2021-03-25T19:55:51Z'
 date: '2020-11-23T18:51:51+00:00'
+lastmod: '2020-11-23T18:51:51+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     8c123f69f86b2d4e0bad52047eed4d29146bf196-2560x1707.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="gelfe-pu8-U" title="Coffee Talk ☕️ What To Know To Start Your Holiday Week" >}}

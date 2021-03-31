@@ -2,14 +2,15 @@
 title: 18.06.25 Scotus Sales Tax
 slug: 20180625-18-06-25-scotus-sales-tax
 _id: legacy-0c3e4dee-5551-422f-8fd3-d7141c29c062
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: LotyrYkaRjTl0E452wZgsH
 type: quick_reads
 draft: false
 aliases:
   - 18-06-25-scotus-sales-tax/
 _createdAt: '2018-06-25T09:40:52Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:49:33Z'
 date: '2018-06-25T09:40:52+00:00'
+lastmod: '2018-06-25T09:40:52+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,7 +23,7 @@ cards:
     body: >-
       Your Online Shopping  
 
-      Dollars & Sense ======================================
+      Dollars & Sense 
 
 
       The Supreme Court ruled states can require online sellers to collect sales
@@ -30,7 +31,6 @@ cards:
 
 
       Cha-Ching: Why Now?
-    citation: 'Cha-Ching: Why Now?'
     _key: card-1-4aa581d2-61f8-401b-abd3-6b41b94fd86d
   - order: 1
     body: >-
@@ -52,9 +52,7 @@ cards:
       correctly in recognizing that it’s time for outdated sales tax policies to
       change as well. This ruling clears the way for a fair and level playing
       field where all retailers compete under the same sales tax rules whether
-      they sell merchandise online, in-store or both.’  
-        
-        
+      they sell merchandise online, in-store or both."  
         
       National Retail Federation President and CEO Matthew Shay
     _key: card-3-ccf7dab5-a428-48a2-b548-d17eaf13b17d

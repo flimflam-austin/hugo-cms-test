@@ -2,14 +2,15 @@
 title: 18.08.21 Qtd Jennifer Garner
 slug: 20180822-18-08-21-qtd-jennifer-garner
 _id: legacy-6b428132-df3b-4c63-8e7c-bf9c98956cf8
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: 0aCMfzqL0erea7otJv0KlG
 type: quick_reads
 draft: false
 aliases:
   - 18-08-21-qtd-jennifer-garner/
 _createdAt: '2018-08-22T11:59:56Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:14:28Z'
 date: '2018-08-22T11:59:56+00:00'
+lastmod: '2018-08-22T11:59:56+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,9 +24,6 @@ cards:
       > _“When you walk over this star, I want you to remember first of all that
       I love you. And this is about hard work. And good luck. And not a whole
       lot else. You define me. Not this wonderful spot in the pavement.”_
-
-
-      Jennifer Garner
     citation: Jennifer Garner
     _key: card-1-1878403d-75b0-4ebc-9c30-928a6aeaa827
   - order: 1

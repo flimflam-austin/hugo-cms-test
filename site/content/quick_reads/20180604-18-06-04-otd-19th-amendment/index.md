@@ -2,14 +2,15 @@
 title: 18.06.04 Otd 19th Amendment
 slug: 20180604-18-06-04-otd-19th-amendment
 _id: legacy-0c125df7-7a83-497e-bc31-cf02e242eaf1
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28PrhM
 type: quick_reads
 draft: false
 aliases:
   - 18-06-04-otd-19th-amendment/
 _createdAt: '2018-06-04T10:45:50Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T00:57:56Z'
 date: '2018-06-04T10:45:50+00:00'
+lastmod: '2018-06-04T10:45:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Flip For Why It Matters
-    citation: Flip For Why It Matters
     _key: card-1-e7d9807a-136d-4ba4-a1e6-bd97378da3da
   - order: 1
     body: >-

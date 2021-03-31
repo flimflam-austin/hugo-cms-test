@@ -2,14 +2,15 @@
 title: 18.02.26 Dem Russia Memo
 slug: 20180226-dem-russia-memo
 _id: legacy-42fbc163-d13c-485d-8122-e86b6460016e
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: 0aCMfzqL0erea7otJrjaVO
 type: quick_reads
 draft: false
 aliases:
   - dem-russia-memo/
 _createdAt: '2018-02-26T12:59:44Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:56:49Z'
 date: '2018-02-26T12:59:44+00:00'
+lastmod: '2018-02-26T12:59:44+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Flip Here
-    citation: Flip Here
     _key: card-1-f6fec6c9-b279-4cde-95d1-312745e617fe
   - order: 1
     body: >-
@@ -67,9 +67,11 @@ cards:
       country had they not sought…to conduct temporary surveillance of Carter
       Page, someone the FBI assessed to be an agent of the Russian
       government.”  
-        
-        
-        
+
+
+
+      >   
+
       Democrat Minority Memo: House Intel Committee: "Correcting The Record -
       The Russia Investigation" Written Jan 29, 2018 & Released Feb 24, 2018
     _key: card-4-783869ab-b3ee-4ee7-b213-dfbbef785f23
@@ -92,7 +94,6 @@ cards:
 
       [President Trump via Twitter, Feb 24,
       2018](https://twitter.com/realDonaldTrump/status/967538684789739520)
-    citation: President Trump via Twitter, Feb 24, 2018
     _key: card-6-ec6508a3-f6fd-4a07-b1e0-e143d77d3031
   - order: 6
     body: >-

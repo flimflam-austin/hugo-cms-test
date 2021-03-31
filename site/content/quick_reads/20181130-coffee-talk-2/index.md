@@ -2,14 +2,15 @@
 title: Coffee Talk
 slug: 20181130-coffee-talk-2
 _id: legacy-aa2e492e-8bcd-4ee2-9a5e-566c04ddb5a7
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: LotyrYkaRjTl0E452yjP2T
 type: quick_reads
 draft: false
 aliases:
   - coffee-talk-2/
 _createdAt: '2018-11-30T13:55:52Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:43:14Z'
 date: '2018-11-30T13:55:52+00:00'
+lastmod: '2018-11-30T13:55:52+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,7 +26,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/8AEL1J1WMoI?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-0b7d48f0-50ec-4681-a65a-5127a2a6d160
   - order: 1
     body: '[view sources](https://smarthernews.com/coffee-talk-2/)'

@@ -2,14 +2,15 @@
 title: 18.08.20 Pirates of the Caribbean
 slug: 20180823-18-08-20-pirates-of-the-caribbean
 _id: legacy-0da6843f-056c-40f7-a35c-869ca8f40575
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: 0aCMfzqL0erea7otJuzOr8
 type: quick_reads
 draft: false
 aliases:
   - 18-08-20-pirates-of-the-caribbean/
 _createdAt: '2018-08-20T11:59:45Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:08:06Z'
 date: '2018-08-20T11:59:45+00:00'
+lastmod: '2018-08-20T11:59:45+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -79,12 +80,12 @@ cards:
       “I’m The Captain Now”
 
 
-      While **piracy in East Africa**A bags a larger booty ($1.4B in 2017) vs.
+      While **piracy in East Africa **bags a larger booty ($1.4B in 2017) vs.
       Caribbean, **attacks there are on the decline** – both in incidents
       reported & amount stolen.
 
 
-      In 2017, there wereA **54 attacks in E. Africa**A while attacks in theA
+      In 2017, there wereA **54 attacks in E. Africa** while attacks in theA
       **Caribbean jumped to 71.**
     _key: card-5-bf474508-25cb-478c-a52d-138fc6a036c9
   - order: 5

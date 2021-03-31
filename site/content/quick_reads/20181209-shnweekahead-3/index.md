@@ -2,14 +2,15 @@
 title: Smarther Week Ahead for December 9, 2018
 slug: 20181209-shnweekahead-3
 _id: legacy-0550cbbc-c573-40a5-b9d6-1824f894ba46
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: LotyrYkaRjTl0E452ykMnl
 type: quick_reads
 draft: false
 aliases:
   - shnweekahead-3/
 _createdAt: '2018-12-09T23:48:23Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:57:01Z'
 date: '2018-12-09T23:48:23+00:00'
+lastmod: '2018-12-09T23:48:23+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,15 +24,14 @@ cards:
       SmartHER News  
       Week Ahead
 
-      ============================================
+
 
       December 9 - 15
-    citation: December 9 - 15
     _key: card-1-8eb3c498-0e27-4781-a223-dbca91a0ad59
   - order: 1
     body: >-
-      # SHNWeekAhead Click "view sources" for the notable news events to kick
-      off your week feeling #SmartHer. Watch our social media feeds or
+      SHNWeekAhead Click "view sources" for the notable news events to kick off
+      your week feeling #SmartHer. Watch our social media feeds or
       SmartHerNews.com for updates on these stories all week long.
 
 

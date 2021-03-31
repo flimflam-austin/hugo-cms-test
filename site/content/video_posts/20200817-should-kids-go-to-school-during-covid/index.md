@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-08-17T10:59:58Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-08-17T10:59:58+00:00'
+lastmod: '2020-08-17T10:59:58+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     8e1bdc3207348dde4aaccae9f56cd11c4c9e1451-2560x1708.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="vxTg1JzQsvc" title="Should Kids Go To School During COVID?" >}}

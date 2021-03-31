@@ -2,14 +2,15 @@
 title: 18.08.07 Qq
 slug: 20190905-18-08-07qq
 _id: legacy-97db65a8-d586-45cf-a675-1fc7602c7e5c
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 0aCMfzqL0erea7otJutxXS
 type: quick_reads
 draft: false
 aliases:
   - 18-08-07qq/
 _createdAt: '2018-08-07T11:45:11Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-26T19:37:59Z'
 date: '2018-08-07T11:45:11+00:00'
+lastmod: '2018-08-07T11:45:11+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -30,12 +31,10 @@ cards:
 
 
       Rock On
-    citation: Rock On
     _key: card-1-ee269cb9-92fe-487f-9269-70a19f2cf49a
   - order: 1
     body: >-
-      > ‘That’s not realistic. I can’t do that.’  
-        
+      > "That’s not realistic. I can’t do that."  
         
         
       Neelam Vashi, assistant professor of dermatology at Boston University
@@ -46,7 +45,7 @@ cards:
   - order: 2
     body: >-
       > “Look, we have a heavy heart. Our souls are burdened. We are a better
-      city.’  
+      city."  
         
         
         
@@ -58,7 +57,6 @@ cards:
       > “Yes.”  
         
         
-        
       Rick Gates when asked by prosecutors about whether he committed crimes
       with his former business associate, Paul Manafort. Gates is testifying
       during the first of two federal criminal cases against his co-defendant,
@@ -66,7 +64,6 @@ cards:
 
 
       [SHN Refresher](https://smarthernews.com/18-07-31-manafort/)
-    citation: SHN Refresher
     _key: card-4-5f4fce20-2763-4804-b83a-81c11f56509a
   - order: 4
     body: |-

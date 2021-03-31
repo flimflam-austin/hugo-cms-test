@@ -2,14 +2,15 @@
 title: 18.05.12 Iraqi Election
 slug: 20180514-18-05-12-iraqi-election
 _id: legacy-380e7885-3bad-4b30-aa99-0c2b8a4dd4a3
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 45Isps23253Yjlaq28K2RS
 type: quick_reads
 draft: false
 aliases:
   - 18-05-12-iraqi-election/
 _createdAt: '2018-05-14T11:00:04Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-26T00:12:37Z'
 date: '2018-05-14T11:00:04+00:00'
+lastmod: '2018-05-14T11:00:04+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,13 +29,10 @@ cards:
 
       *new* Prime Minister.  
         
-        
-        
       The election has major repercussions.
 
 
       Here's Why It Matters
-    citation: Here's Why It Matters
     _key: card-1-7810ba48-b9bc-4de3-bf50-a00f7c49635a
   - order: 1
     body: >-

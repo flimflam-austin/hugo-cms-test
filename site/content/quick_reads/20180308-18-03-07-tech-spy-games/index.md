@@ -2,14 +2,15 @@
 title: 18.03.07 Tech Spy Games
 slug: 20180308-18-03-07-tech-spy-games
 _id: legacy-0504b86c-9d02-41d2-850d-4fff486baa62
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: LotyrYkaRjTl0E452wOs7h
 type: quick_reads
 draft: false
 aliases:
   - 18-03-07-tech-spy-games/
 _createdAt: '2018-03-08T12:00:23Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:12:47Z'
 date: '2018-03-08T12:00:23+00:00'
+lastmod: '2018-03-08T12:00:23+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -60,8 +61,9 @@ cards:
       according to CNBC.
 
 
+
+
       WHY IT MATTERS
-    citation: WHY IT MATTERS
     _key: card-3-d38f9885-98ec-4ebd-8a87-97e672e54dd3
   - order: 3
     body: >-

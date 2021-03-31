@@ -2,14 +2,15 @@
 title: 18.06.06 Stockton
 slug: 20180605-18-06-06-stockton
 _id: legacy-f13bacde-91af-4743-b874-3694efdd7300
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: LotyrYkaRjTl0E452wXO1V
 type: quick_reads
 draft: false
 aliases:
   - 18-06-06-stockton/
 _createdAt: '2018-06-05T10:58:04Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:00:16Z'
 date: '2018-06-05T10:58:04+00:00'
+lastmod: '2018-06-05T10:58:04+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       FLIP: For city's plan
-    citation: 'FLIP: For city''s plan'
     _key: card-1-cbfeddd0-49f2-418c-bb56-391b50d779ed
   - order: 1
     body: >-
@@ -47,7 +47,20 @@ cards:
       bankruptcy in 2012.
     _key: card-2-c6f0cdb5-0b80-40e7-bb9a-45deff39e5be
   - order: 2
-    body: "It’s Actually  \nNot a New Idea… ===============================\n\n> _“I’m now convinced that the simplest approach will prove to be the most effective a_  \n_a\x14a_  \n_the solution to poverty is to abolish it directly by a now widely discussed measure: the guaranteed income.”_  \n  \n  \n  \nMartin Luther King, Jr. in his book Where Do We Go From Here: Chaos or Community? (1967)"
+    body: >-
+      It’s Actually  
+
+      Not a New Idea… 
+
+
+      _“I’m now convinced that the simplest approach will prove to be the most
+      effective solution to poverty is to abolish it directly by a now widely
+      discussed measure: the guaranteed income.”_  
+        
+        
+        
+      Martin Luther King, Jr. in his book Where Do We Go From Here: Chaos or
+      Community? (1967)
     _key: card-3-f1857d6a-60b9-4bd7-ba29-6c230be70c5e
   - order: 3
     body: >-
@@ -55,12 +68,10 @@ cards:
 
 
       >   
-        
+
       _“I would prefer an approach that tells people, we will help you get jobs.
       I don’t think the solution is to say, ‘OK, lets just start handing people
       cash.'”_  
-        
-        
         
       Aparna Mathur, scholar at conservative-leaning American Enterprise
       Institute

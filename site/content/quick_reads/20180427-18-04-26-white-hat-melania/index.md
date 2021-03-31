@@ -10,6 +10,7 @@ aliases:
 _createdAt: '2018-04-27T11:02:26Z'
 _updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-27T11:02:26+00:00'
+lastmod: '2018-04-27T11:02:26+00:00'
 weight: 50
 card_series: Style
 colorpaletteclassname: '--white'

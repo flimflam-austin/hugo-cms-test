@@ -2,14 +2,15 @@
 title: 18.02.07 North Korea Meeting
 slug: 20180309-18-02-07-north-korea-meeting
 _id: legacy-3d196806-ed9b-40a7-9538-a87ab66c5f04
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: LotyrYkaRjTl0E452wOzXZ
 type: quick_reads
 draft: false
 aliases:
   - 18-02-07-north-korea-meeting/
 _createdAt: '2018-03-09T12:00:43Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:15:18Z'
 date: '2018-03-09T12:00:43+00:00'
+lastmod: '2018-03-09T12:00:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,7 +35,6 @@ cards:
 
 
       Flip For Why It Matters
-    citation: Flip For Why It Matters
     _key: card-1-14196f28-36c5-402b-806a-5c555bd329b6
   - order: 1
     body: >-

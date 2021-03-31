@@ -2,14 +2,15 @@
 title: World's Top Oil Producer
 slug: 20180914-oil
 _id: legacy-4fb9a8fc-46d6-44e0-ab43-bc0d44c5f4ab
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 0aCMfzqL0erea7otJxinOp
 type: quick_reads
 draft: false
 aliases:
   - oil/
 _createdAt: '2018-09-14T12:17:50Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T21:49:41Z'
 date: '2018-09-14T12:17:50+00:00'
+lastmod: '2018-09-14T12:17:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       "Texas Tea" Party.
-    citation: '"Texas Tea" Party.'
     _key: card-1-6e0b94db-0384-487c-a5e1-2018f2670cd7
   - order: 1
     body: >-

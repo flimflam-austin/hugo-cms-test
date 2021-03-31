@@ -2,14 +2,15 @@
 title: 18.02.21 Music Recordings Loc
 slug: 20180322-18-02-21-music-recordings-loc
 _id: legacy-2a3a476a-1908-4d83-bf74-6bc0a6d0f5a9
-_rev: O8E8pz1fLwnc3fN7JVEzvC
+_rev: LotyrYkaRjTl0E452wPj8v
 type: quick_reads
 draft: false
 aliases:
   - 18-02-21-music-recordings-loc/
 _createdAt: '2018-03-22T10:56:29Z'
-_updatedAt: '2021-03-22T13:11:06Z'
+_updatedAt: '2021-03-25T22:32:43Z'
 date: '2018-03-22T10:56:29+00:00'
+lastmod: '2018-03-22T10:56:29+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,7 +35,6 @@ cards:
       _‘I Left My Heart in San Francisco’_
 
       Flip To Find Out
-    citation: Flip To Find Out
     _key: card-1-63cd1eea-efe6-4fbb-b224-04256f2200e6
   - order: 1
     body: >-
@@ -78,11 +78,12 @@ cards:
       * More than 7 million items.
 
 
+
+
       [Tap HERE Closer Look](http://www.loc.gov/avconservation/)
-    citation: Tap HERE Closer Look
     _key: card-4-e7a3cd0c-14be-4296-b8df-eeeecedd1979
   - order: 4
-    body: "> _‘**I’m totally overwhelmed**_  \n_**by a\x18My Girl’ receiving such an honor**. As a songwriter, it has become my international anthem. People in countries where English is not the primary language know and sing a\x18My Girl’ when I perform it.’_  \n  \n  \n  \nSmokey Robinson, co-writer My Girl, LOC Press Release, March 21, 2018"
+    body: "> **_\"_**I’m totally overwhelmed  \nby 'My Girl’ receiving such an honor. As a songwriter, it has become my international anthem. People in countries where English is not the primary language know and sing a\x18My Girl’ when I perform it.\"  \n  \nSmokey Robinson, co-writer My Girl, LOC Press Release, March 21, 2018"
     _key: card-5-ad7994cb-1bdf-4fa0-a48c-bf5b2e4abc05
   - order: 5
     body: |-
@@ -94,8 +95,9 @@ cards:
       * In fact, YOU can submit 50 recordings a year if you want!
       * Nominations for 2018 accepted NOW.
 
+
+
       Click for The Form
-    citation: Click for The Form
     _key: card-6-c513a085-3dce-4f7e-8b24-db8b3f973861
   - order: 6
     body: >-
