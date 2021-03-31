@@ -8,6 +8,7 @@ draft: false
 _createdAt: '2021-03-23T19:16:47Z'
 _updatedAt: '2021-03-23T19:29:18Z'
 date: '2021-03-23T05:00:00.000Z'
+lastmod: '2021-03-23T05:00:00.000Z'
 weight: 50
 summary: >-
   This 20 oz. tumbler with a slide top lid keeps your favorite beverage cold or

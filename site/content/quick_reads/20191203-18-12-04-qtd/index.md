@@ -2,14 +2,15 @@
 title: 'Quote of the Day: Rabbi Aaron Konikov'
 slug: 20191203-18-12-04-qtd
 _id: legacy-ea94d995-db8f-4642-a9b3-86328b9c226c
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: 0aCMfzqL0erea7otJxzIfQ
 type: quick_reads
 draft: false
 aliases:
   - 18-12-04-qtd/
 _createdAt: '2018-12-04T12:35:46Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-28T00:50:51Z'
 date: '2018-12-04T12:35:46+00:00'
+lastmod: '2018-12-04T12:35:46+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,9 +24,6 @@ cards:
       > _“The light of the menorah reminds us that when the forces of light and
       good encounter darkness and hate, without fail, light will always
       prevail…”_
-
-
-      Rabbi Aaron Konikov
     citation: Rabbi Aaron Konikov
     _key: card-1-ce53c537-8b18-4184-931f-1431fb77f69b
   - order: 1

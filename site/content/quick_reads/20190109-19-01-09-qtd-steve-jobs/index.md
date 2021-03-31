@@ -2,14 +2,15 @@
 title: 'Quote of the Day: Steve Jobs'
 slug: 20190109-19-01-09-qtd-steve-jobs
 _id: legacy-497fc834-31cc-4a4e-a67e-572e182a2baf
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 45Isps23253Yjlaq2DKsJB
 type: quick_reads
 draft: false
 aliases:
   - 19-01-09-qtd-steve-jobs/
 _createdAt: '2019-01-09T13:11:07Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T01:07:06Z'
 date: '2019-01-09T13:11:07+00:00'
+lastmod: '2019-01-09T13:11:07+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,9 +26,6 @@ cards:
       only way to do great work is to love what you do. If you haven’t found it
       yet, keep looking. Don’t settle. As with all matters of the heart, you’ll
       know when you find it_.”
-
-
-      Steve Jobs
     citation: Steve Jobs
     _key: card-1-356559ff-fe0b-4201-b967-d794614640e9
   - order: 1

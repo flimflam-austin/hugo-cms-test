@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for August 27
 slug: 20190905-18-08-27-qq
 _id: legacy-74e60bcd-7cf3-40f9-a5ef-40decb6d5eb5
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: LotyrYkaRjTl0E452yXmtB
 type: quick_reads
 draft: false
 aliases:
   - 18-08-27-qq/
 _createdAt: '2018-08-27T11:56:58Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T20:38:55Z'
 date: '2018-08-27T11:56:58+00:00'
+lastmod: '2018-08-27T11:56:58+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,7 +25,6 @@ cards:
       away her superpowers.”  
         
         
-        
       Nike tweet following the French Open's decision to ban Serena Williams
       from wearing her "catsuit" which she wore to this year's Open. The 23-time
       Grand Slam champion who has a history of blood clots, says the full body,
@@ -32,7 +32,6 @@ cards:
 
 
       [SmartHer #PowerMom](https://smarthernews.com/18-05-03-serena-williams/)
-    citation: 'SmartHer #PowerMom'
     _key: card-1-35c88f92-079b-403f-aa64-b3a204e57d4e
   - order: 1
     body: >-
@@ -60,10 +59,8 @@ cards:
     _key: card-3-ff5efd85-ce39-4bbf-92ff-49c3d6d78b86
   - order: 3
     body: >-
-      > ‘It was my great good fortune that my very first Broadway play was
+      > "It was my great good fortune that my very first Broadway play was
       written by Neil Simon. He also wrote my first film. I owe him a career.”  
-        
-        
         
       Matthew Broderick, reacting to the passing of Neil Simon (91). The
       American playwright & screenwriter wrote 50+ plays and screenplays, and

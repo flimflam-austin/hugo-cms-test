@@ -2,14 +2,15 @@
 title: 18.02.19 Icymi Mueller's Indictment of Russia
 slug: 20180220-18-02-19-icymi-muellers-indictment-russia
 _id: legacy-0fe90888-7f8c-472a-84f6-b4c713012fcb
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: 45Isps23253Yjlaq27zeG1
 type: quick_reads
 draft: false
 aliases:
   - 18-02-19-icymi-muellers-indictment-russia/
 _createdAt: '2018-02-20T12:30:41Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:49:03Z'
 date: '2018-02-20T12:30:41+00:00'
+lastmod: '2018-02-20T12:30:41+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,7 +23,7 @@ cards:
     body: >-
       ICYMI:  
 
-      U.S. Indicts Russia ============================
+      U.S. Indicts Russia 
 
 
       Federal indictment accuses “Internet Research Agency” – a “Russian
@@ -32,7 +33,6 @@ cards:
 
 
       Tap to Flip
-    citation: Tap to Flip
     _key: card-1-cbfdb780-ee63-49b0-b287-7f2a46e61d6f
   - order: 1
     body: >-
@@ -64,7 +64,6 @@ cards:
 
       [Read More
       Here](https://www.pbs.org/newshour/politics/ap-fact-check-following-mueller-indictments-friday-trump-lashes-out-on-russia-probe)
-    citation: Read More Here
     _key: card-3-4769b167-e923-46cf-bc5d-752333fc44b6
   - order: 3
     body: >-
@@ -119,7 +118,6 @@ cards:
 
       [Click For Full
       Article](https://www.washingtonpost.com/news/democracy-post/wp/2018/02/17/russia-is-at-war-with-our-democracy-when-will-we-finally-start-defending-it/?utm_term=.5a4005a7c083)
-    citation: Click For Full Article
     _key: card-7-03926216-ddf4-4b62-b46b-5635fa9f1536
   - order: 7
     body: >-

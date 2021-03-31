@@ -2,14 +2,15 @@
 title: Quick Quotes for Thursday, September 27th
 slug: 20190905-quick-quotes-9
 _id: legacy-15630fab-bedc-4c9e-a8b1-28c62441106f
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: LotyrYkaRjTl0E452yeEUv
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-9/
 _createdAt: '2018-09-27T12:32:18Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T22:40:58Z'
 date: '2018-09-27T12:32:18+00:00'
+lastmod: '2018-09-27T12:32:18+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,8 +35,6 @@ cards:
       > “I’m going to be watching, believe it or not… I’m going to see what’s
       said. It’s possible they will be convincing.”  
         
-        
-        
       President Trump on keeping an open mind as Supreme Court nominee Brett
       Kavanaugh and one of his accusers testify before the Senate Judiciary
       Committee. When asked if there were conditions in which he would withdraw
@@ -44,10 +43,8 @@ cards:
     _key: card-2-930ca265-4bea-4a02-bf18-d60f36896ba6
   - order: 2
     body: >-
-      > ‘(The U.S.) wants to continue just giving orders to the world as though
+      > "(The U.S.) wants to continue just giving orders to the world as though
       the world were its own property. Venezuela will never give in.”  
-        
-        
         
       President Nichola Maduro of Venezuela, in a surprise visit & speech to the
       United Nations Wednesday night, after 6 countries (not including the U.S.)
@@ -57,11 +54,9 @@ cards:
     _key: card-3-db2b69e2-1d84-4e55-9446-ea0203212207
   - order: 3
     body: >-
-      > “We’ve been able to raise rates and then wait and see how the economy
+      “We’ve been able to raise rates and then wait and see how the economy
       absorbs these rate increases and so far the economy has performed very
       well…”  
-        
-        
         
       Jerome Powell, Federal Reserve Chairman, as America's central bank
       increases short-term interest rates for the 3rd time this year to 2-2.25%
@@ -74,8 +69,6 @@ cards:
       > “We will be bringing a different voice and viewpoint to covering the
       game of football.”  
         
-        
-        
       Andrea Kremer on joining Hannah Storm to call streaming, NFL games for
       Amazon Prime Video on Thursday nights. The sports journalists will be the
       first-ever, female team to announce an NFL game, serving as an alternative
@@ -86,9 +79,7 @@ cards:
     body: >-
       > “Whether it is education, drug addiction, hunger, online safety or
       bullying, poverty or disease, it is too often children who are hit first,
-      and hardest, across the globe.”  
-        
-        
+      and hardest, across the globe."  
         
       First Lady Melania Trump announcing her first solo trip abroad as she
       prepares to visit 4 African countries: Ghana, Malawi, Kenya and Egypt. She
@@ -99,8 +90,6 @@ cards:
     body: >-
       > “Six people will be chosen to attempt to spend 30 hours in ‘deluxe,’
       ‘slightly used’ 2-by-7-foot coffins.”  
-        
-        
         
       St. Louis Post-Dispatch describing a local Six Flags Halloween contest in
       which participants will lie in a coffin. Phones are allowed, snacks are

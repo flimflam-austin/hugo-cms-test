@@ -2,14 +2,15 @@
 title: Quote of the Day
 slug: 20180912-18-09-12-qtd
 _id: legacy-afb9c007-91e3-463f-a6f0-232cc5f4c96b
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 45Isps23253Yjlaq2D6AnJ
 type: quick_reads
 draft: false
 aliases:
   - 18-09-12-qtd/
 _createdAt: '2018-09-12T18:59:05Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T21:46:56Z'
 date: '2018-09-12T18:59:05+00:00'
+lastmod: '2018-09-12T18:59:05+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,10 +25,7 @@ cards:
       those are some ofA the fundamental things people need in this world right
       now.A AA little more leadership, a little more empathy and
       understanding._“
-
-
-      sarah zorn
-    citation: sarah zorn
+    citation: Sarah Zorn
     _key: card-1-44568817-974f-4149-b17f-adbf5a198b02
   - order: 1
     body: >-

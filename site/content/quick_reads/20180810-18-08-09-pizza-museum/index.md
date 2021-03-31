@@ -2,14 +2,15 @@
 title: 18.08.09 Pizza Museum
 slug: 20180810-18-08-09-pizza-museum
 _id: legacy-fe38ceba-c1ed-41eb-bca5-6c45a27a5810
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: LotyrYkaRjTl0E452xY7hF
 type: quick_reads
 draft: false
 aliases:
   - 18-08-09-pizza-museum/
 _createdAt: '2018-08-10T11:43:10Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:47:09Z'
 date: '2018-08-10T11:43:10+00:00'
+lastmod: '2018-08-10T11:43:10+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       you want a pizza dis?
-    citation: you want a pizza dis?
     _key: card-1-b205d8fb-b8a7-4241-9f4b-46dc94fbb788
   - order: 1
     body: >-
@@ -51,7 +51,6 @@ cards:
 
       [Reserve Tickets
       Here](https://www.eventbrite.com/o/us-pizza-museum-17565390009)
-    citation: Reserve Tickets Here
     _key: card-2-a4864695-6a64-4d47-a8f2-186ae8fa2d6e
   - order: 2
     body: >-
@@ -74,11 +73,10 @@ cards:
     body: >-
       NYC v. CHICAGO:  
 
-      The Final Verdict ===================================
+      The Final Verdict 
 
 
       > In 2011, the late Supreme Court JusticeA Antonin Scalia weighed in:  
-        
         
         
       “_**I do indeed like so-called ‘deep dish pizza…. But it should not be

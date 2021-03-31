@@ -2,14 +2,15 @@
 title: 18.06.13 Qq Wednesday
 slug: 20190905-18-06-13-qq-wednesday
 _id: legacy-09c75eaf-304e-4fea-8e1c-e18ab5ee199f
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: LotyrYkaRjTl0E452wYT0H
 type: quick_reads
 draft: false
 aliases:
   - 18-06-13-qq-wednesday/
 _createdAt: '2018-06-13T08:51:52Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T01:27:46Z'
 date: '2018-06-13T08:51:52+00:00'
+lastmod: '2018-06-13T08:51:52+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,7 +24,6 @@ cards:
       > “Some say 15 years, if you go rapidly.”  
         
         
-        
       Pres. Trump to ABC News following the Singapore Summit on how long it will
       take to denuclearize North Korea. The historic summit did not produce a
       way to achieve this goal, but it did produce an agreement *to start
@@ -32,8 +32,6 @@ cards:
   - order: 1
     body: >-
       > “…little did we know he could run across the side of the building.”  
-        
-        
         
       An onlooker in St. Paul, Minnesota on a raccoon stranded on the ledge of
       the UBS building, captivating the city & social media. The raccoon made it
@@ -44,15 +42,13 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/Fh3WsBEWOA0?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-6627a5bb-a31b-4f69-a2a3-a088fcfe7210
   - order: 2
     body: >-
-      > ‘If there ever were an antitrust case where the parties had a
-      dramatically different assessment of the current state of the relevant
-      market & a fundamentally different vision of its future development, this
-      is the one.”  
-        
+      "If there ever were an antitrust case where the parties had a dramatically
+      different assessment of the current state of the relevant market & a
+      fundamentally different vision of its future development, this is the
+      one.”  
         
         
       Federal judge Richard J. Leon's opinion approving AT&T's $85B takeover of
@@ -60,14 +56,12 @@ cards:
       sued to block the merger over concerns of higher costs for consumers.
     _key: card-3-f796c8ec-00c4-4424-a18c-e36197e870ae
   - order: 3
-    body: "> “The asylum system is being abused …. Asylum was never meant to alleviate all problems a\x14 even all serious problems a\x14 that people face every day all over the world.”  \n  \n  \n  \nAttorney General Jeff Sessions announcing a new policy making it more difficult for victims of gang & domestic violence to obtain asylum in the U.S."
+    body: "> “The asylum system is being abused …. Asylum was never meant to alleviate all problems a\x14 even all serious problems a\x14 that people face every day all over the world.”  \n  \nAttorney General Jeff Sessions announcing a new policy making it more difficult for victims of gang & domestic violence to obtain asylum in the U.S."
     _key: card-4-a1b5e19b-f8fd-4f0c-a335-0ac59539e968
   - order: 4
     body: >-
       > “…a matter of time before a cybersecurity breach on an airline
       occurs.”  
-        
-        
         
       Researchers from the Pacific Northwest Natl Laboratory warning after a
       Dept of Homeland Security decided to launch "nose to tail" tests of a

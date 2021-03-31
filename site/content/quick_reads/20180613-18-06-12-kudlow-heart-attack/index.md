@@ -2,14 +2,15 @@
 title: 18.06.12 Kudlow Heart Attack
 slug: 20180613-18-06-12-kudlow-heart-attack
 _id: legacy-1952b3b6-6242-4fe5-aa3c-417787bae824
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 45Isps23253Yjlaq28SgLz
 type: quick_reads
 draft: false
 aliases:
   - 18-06-12-kudlow-heart-attack/
 _createdAt: '2018-06-13T08:51:24Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:26:33Z'
 date: '2018-06-13T08:51:24+00:00'
+lastmod: '2018-06-13T08:51:24+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -35,8 +36,6 @@ cards:
       make a **full and speedy recovery**. We look forward to seeing him back at
       work soon.”  
         
-        
-        
       WHITE HOUSE
     _key: card-2-bc46686a-431a-42be-ba88-5241c89c822e
   - order: 2
@@ -54,7 +53,7 @@ cards:
       trying to fix it.”
     _key: card-3-320fb08e-0215-465f-a63c-5805b6cc2245
   - order: 3
-    body: "How do you know you’re having a heart attack?\n\n> “While heart disease can present in a very typical waya\x14chest pain, shortness of breatha\x14the symptoms can also be quite insidious–Particularly in women.”  \n  \n  \n  \nCardiologist Kevin Campbell to SmartHER News says atypical symptoms include nausea, feelings of dread, flu-like illness, pain in the neck, arm or back."
+    body: "How do you know you’re having a heart attack?\n\n> “While heart disease can present in a very typical waya\x14chest pain, shortness of breatha\x14the symptoms can also be quite insidious–Particularly in women.”  \n  \n  \nCardiologist Kevin Campbell to SmartHER News says atypical symptoms include nausea, feelings of dread, flu-like illness, pain in the neck, arm or back."
     _key: card-4-04da1719-1bbb-44d2-8e6e-cc4b9ee9c475
   - order: 4
     body: >-

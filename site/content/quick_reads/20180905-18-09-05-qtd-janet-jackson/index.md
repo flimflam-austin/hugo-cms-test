@@ -2,14 +2,15 @@
 title: 'Quote of the Day: Janet Jackson on Beauty'
 slug: 20180905-18-09-05-qtd-janet-jackson
 _id: legacy-4fb32fee-53db-4a02-aaea-629396d63841
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 45Isps23253Yjlaq2D43RW
 type: quick_reads
 draft: false
 aliases:
   - 18-09-05-qtd-janet-jackson/
 _createdAt: '2018-09-05T18:07:42Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-27T21:30:44Z'
 date: '2018-09-05T18:07:42+00:00'
+lastmod: '2018-09-05T18:07:42+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,9 +24,6 @@ cards:
       > “_Individuality is beautiful. God made you as you are, and that’s
       beautiful. You are unique, special. You don’t want to look like someone
       else or be that other person_.”
-
-
-      JANET JACKSON
     citation: JANET JACKSON
     _key: card-1-543f44b3-2e40-41cd-95a1-684842a6ca0a
   - order: 1

@@ -2,14 +2,15 @@
 title: 18.07.09 Thai Cave
 slug: 20180709-18-07-09-thai-cave
 _id: legacy-316149e4-f0f5-44e7-a072-3dd02477325e
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 0aCMfzqL0erea7otJsGamu
 type: quick_reads
 draft: false
 aliases:
   - 18-07-09-thai-cave/
 _createdAt: '2018-07-09T12:42:11Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:18:12Z'
 date: '2018-07-09T12:42:11+00:00'
+lastmod: '2018-07-09T12:42:11+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       FLIP: what happened
-    citation: 'FLIP: what happened'
     _key: card-1-759f2627-cf32-4ee0-8076-8aa20059e716
   - order: 1
     body: >-
@@ -64,8 +64,9 @@ cards:
       * Ret. Thai Navy SEAL diver died Friday when he ran out of air.
 
 
+
+
       flip: The dangers
-    citation: 'flip: The dangers'
     _key: card-3-7d4e63e3-2fe2-4b18-ad36-6cebb1c06e2b
   - order: 3
     body: >-

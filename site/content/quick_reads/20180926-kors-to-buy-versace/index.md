@@ -2,14 +2,15 @@
 title: Michael Kors to Buy Versace for $2.1b
 slug: 20180926-kors-to-buy-versace
 _id: legacy-27656a86-2b7c-4b32-8c34-9a626bf0a9ed
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 0aCMfzqL0erea7otJxmNfH
 type: quick_reads
 draft: false
 aliases:
   - kors-to-buy-versace/
 _createdAt: '2018-09-26T11:45:02Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:36:46Z'
 date: '2018-09-26T11:45:02+00:00'
+lastmod: '2018-09-26T11:45:02+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Ciao Bella.
-    citation: Ciao Bella.
     _key: card-1-d1668afe-1a49-4970-b3f1-27a9aabe06c1
   - order: 1
     body: >-

@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Tuesday, September 25th
 slug: 20190905-18-09-25-qq
 _id: legacy-435446d0-0cf8-4a31-aee1-a8777c50ab23
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: LotyrYkaRjTl0E452ydzgj
 type: quick_reads
 draft: false
 aliases:
   - 18-09-25-qq/
 _createdAt: '2018-09-25T12:13:54Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T22:35:37Z'
 date: '2018-09-25T12:13:54+00:00'
+lastmod: '2018-09-25T12:13:54+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,8 +21,7 @@ colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
     body: >-
-      > ‘This country has given me everything. It’s a dream come true.’  
-        
+      > "This country has given me everything. It’s a dream come true."  
         
         
       Felix Hernandez, 32-year-old pitcher for the Seattle Mariners, after
@@ -33,8 +33,6 @@ cards:
     body: >-
       > “We’re not in a court of law; we’re actually in a court of credibility
       at this point.”  
-        
-        
         
       Sen. Mazie Hirono (D-HI), Senate Judiciary Committee member, when asked
       whetherA Supreme Court nominee Judge Brett Kavanaugh deserves a
@@ -48,8 +46,6 @@ cards:
       school and regret or cringe a bit. But that’s not what we’re talking
       about.”  
         
-        
-        
       Supreme Court nominee judge Brett Kavanaugh in his first on-camera
       interview since Christine Ford accused him of sexual assault. Kavanaugh
       denied being at the party in question and any sexual assault or misconduct
@@ -61,7 +57,6 @@ cards:
       We warn all of those behind the story, we will take revenge.”  
         
         
-        
       Gen. Hossein Salami, Deputy Head of the Revolutionary Guard Corp, Iran's
       elite military force, speaking funerals on Monday after an attack on a
       military parade killed 25 and injured dozens more. Iran blames the United
@@ -69,9 +64,8 @@ cards:
     _key: card-4-65de6758-c2c9-48f2-8c7e-685c5e88ed3d
   - order: 4
     body: >-
-      > ‘We stand with the Iranian people against the scourge of radical Islamic
-      terrorism and express our sympathy to them at this terrible time.’  
-        
+      > "We stand with the Iranian people against the scourge of radical Islamic
+      terrorism and express our sympathy to them at this terrible time."  
         
         
       State Dept Spokeswoman Heather Nauert on the attack in Iran. ISIS has
@@ -85,17 +79,14 @@ cards:
       to do.”  
         
         
-        
       Kevin Systrom, CEO of Instagram, announcing he & his co-founder Mike
       Krieger, Chief Technology Officer, will leave the social media giant they
       created in the next few weeks.
     _key: card-6-245b706a-3346-4ab5-a08c-198d846addb4
   - order: 6
     body: >-
-      > “Such a famous actress and no one knows her whereabouts. And no
+      “Such a famous actress and no one knows her whereabouts. And no
       authorities have made any clarifications. This is the real suspense.”  
-        
-        
         
       Shi Shusi, Chinese columnist & commentator on the sudden disappearance of
       a famous Chinese actress. Fan Bingbing, who starred in movies like "X-Men:
@@ -105,7 +96,7 @@ cards:
     _key: card-7-adf2fb90-05ea-44f3-81d3-1457705ad55b
   - order: 7
     body: >-
-      > ‘Versace has struggled with its accessories business, and Michael Kors
+      > "Versace has struggled with its accessories business, and Michael Kors
       could help them with that.”  
         
         

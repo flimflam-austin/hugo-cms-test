@@ -2,14 +2,15 @@
 title: Collision Course
 slug: 20180823-18-08-23-hawaiian-hurricane
 _id: legacy-2f12f94e-ab46-4595-83fe-0303be541dfc
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 45Isps23253Yjlaq2B0T8A
 type: quick_reads
 draft: false
 aliases:
   - 18-08-23-hawaiian-hurricane/
 _createdAt: '2018-08-23T11:12:52Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:16:23Z'
 date: '2018-08-23T11:12:52+00:00'
+lastmod: '2018-08-23T11:12:52+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -30,16 +31,14 @@ cards:
 
 
       2018 hurricane season.
-    citation: 2018 hurricane season.
     _key: card-1-37145433-bed4-4555-b304-b835706a9bc5
   - order: 1
     body: >-
       ## Why So Rare?
 
 
-      > ‘You’re a pretty small spot in a large ocean, and to have something hit
-      you takes a bit of an unfortunate alignment of things.’  
-        
+      > "You’re a pretty small spot in a large ocean, and to have something hit
+      you takes a bit of an unfortunate alignment of things."  
         
         
       Brian McNoldy, University of Miami meterologist says only 5 storms as
@@ -67,7 +66,7 @@ cards:
 
 
       >   
-        
+
       ‘It is very important to remember that it only takes one landfalling
       tropical cyclone to bring major impacts to the State of Hawaii.’
 
@@ -90,13 +89,10 @@ cards:
       > **NOTHING.**  
       You might hear both.  
         
-        
-        
       “Hurricanes and typhoons are the same weather phenomenon:  
       tropical cyclones.”
 
       [Read More: Click Here](https://oceanservice.noaa.gov/facts/cyclone.html)
-    citation: 'Read More: Click Here'
     _key: card-5-08652322-90a4-4a61-bdee-3c5a6ae798ab
   - order: 5
     body: >-

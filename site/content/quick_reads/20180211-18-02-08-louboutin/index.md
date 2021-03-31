@@ -2,14 +2,15 @@
 title: 18.02.08 Louboutin
 slug: 20180211-18-02-08-louboutin
 _id: legacy-946f7231-86fd-43eb-a6f6-f8001ec2f5e5
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: 45Isps23253Yjlaq27rXg1
 type: quick_reads
 draft: false
 aliases:
   - 18-02-08-louboutin/
 _createdAt: '2018-02-09T21:52:33Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T20:58:48Z'
 date: '2018-02-09T21:52:33+00:00'
+lastmod: '2018-02-09T21:52:33+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Click Here To Flip
-    citation: Click Here To Flip
     _key: card-1-7a131e19-96b4-4185-a4ac-4bb18427e798
   - order: 1
     body: >-
@@ -74,7 +74,7 @@ cards:
       and went into exile, she left behind at least **1,200** pairs of shoes.
     _key: card-5-5017fb50-ab2e-4a2c-8650-9dc23555c741
   - order: 5
-    body: "> “I don’t wear my heels in the shower or when I sleep a\x13 and I wear my little tennis shoes when I do my treadmill a\x13 but when I go out, of course I will. That’s my look and that’s how I’m always gonna be.”  \n  \n  \n  \nDolly Parton on rumor she wears heels in the shower (Guardian, 2011)"
+    body: "> “I don’t wear my heels in the shower or when I sleep a\x13 and I wear my little tennis shoes when I do my treadmill a\x13 but when I go out, of course I will. That’s my look and that’s how I’m always gonna be.”  \n  \nDolly Parton on rumor she wears heels in the shower (Guardian, 2011)"
     _key: card-6-a3a1cbb4-c3d8-4ff7-9bf2-142db3148d56
   - order: 6
     body: '[view sources](https://smarthernews.com/18-02-08-louboutin/)'

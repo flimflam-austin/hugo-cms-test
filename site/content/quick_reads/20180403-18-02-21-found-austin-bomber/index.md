@@ -2,14 +2,15 @@
 title: 18.02.21 Found Austin Bomber
 slug: 20180403-18-02-21-found-austin-bomber
 _id: legacy-2dcda765-b116-44ae-8d97-5074cbd33771
-_rev: O8E8pz1fLwnc3fN7JVF03C
+_rev: 0aCMfzqL0erea7otJrop7H
 type: quick_reads
 draft: false
 aliases:
   - 18-02-21-found-austin-bomber/
 _createdAt: '2018-03-22T10:52:51Z'
-_updatedAt: '2021-03-22T13:11:06Z'
+_updatedAt: '2021-03-25T22:30:36Z'
 date: '2018-03-22T10:52:51+00:00'
+lastmod: '2018-03-22T10:52:51+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -21,7 +22,7 @@ cards:
   - order: 0
     body: |-
       TEXAS TYRANT  
-      OFF-THE-STREETS ==============================
+      OFF-THE-STREETS 
 
       Bomber Tracked & Killed.
 
@@ -32,16 +33,14 @@ cards:
       Why Did He Do It?
 
       Here's What We Know:
-    citation: 'Here''s What We Know:'
     _key: card-1-77201d07-b350-4fac-b486-1d68a5edd481
   - order: 1
     body: >-
-      > ‘We literally had Austin police officers running towards a vehicle that
+      > "We literally had Austin police officers running towards a vehicle that
       had an explosive device in it. That detonated. **That is unbelievable
-      courage. Those are heroes**.’  
-        
-        
-        
+      courage. Those are heroes**."
+
+
       Christopher Combs, FBI's special agent in charge - San Antonio Field
       Division, Mach 21, 2018
     _key: card-2-673b3863-dc86-4b23-ac7c-916beb5cd574
@@ -89,7 +88,6 @@ cards:
 
       [Click Here: Timeline Of
       Crimes](https://smarthernews.com/18-02-19-mystery-bombing-texas/)
-    citation: 'Click Here: Timeline Of Crimes'
     _key: card-6-33d3cb15-83e4-4cc4-9211-eb74e270a633
   - order: 6
     body: >-

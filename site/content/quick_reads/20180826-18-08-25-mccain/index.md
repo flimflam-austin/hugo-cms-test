@@ -2,14 +2,15 @@
 title: Words for Reflection
 slug: 20180826-18-08-25-mccain
 _id: legacy-5ef725f5-8670-4630-aff5-f75ea00bac6e
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 0aCMfzqL0erea7otJv1GPi
 type: quick_reads
 draft: false
 aliases:
   - 18-08-25-mccain/
 _createdAt: '2018-08-25T15:02:20Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:19:40Z'
 date: '2018-08-25T15:02:20+00:00'
+lastmod: '2018-08-25T15:02:20+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,13 +21,10 @@ colorpaletteclassname: '--white'
 cards:
   - order: 0
     body: >-
-      > _‘I was finding that prayer helped…When the pressure was on, you seemed
+      > _"I was finding that prayer helped…When the pressure was on, you seemed
       to go one way or the other. Either it was easier for them to break you the
       next time, or it was harder. In other words, if you are going to make it,
-      you get tougher as time goes by.’_
-
-
-      John McCain
+      you get tougher as time goes by."_
     citation: John McCain
     _key: card-1-de51d879-4e89-4f1b-84f2-356d1008dbb2
   - order: 1

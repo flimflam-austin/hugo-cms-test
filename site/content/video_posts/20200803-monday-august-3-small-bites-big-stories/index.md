@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-08-03T13:06:48Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-08-03T13:06:48+00:00'
+lastmod: '2020-08-03T13:06:48+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     8c123f69f86b2d4e0bad52047eed4d29146bf196-2560x1707.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="Pa_jTzSNotM" title="Monday August 3: Small Bites - Big Stories" >}}

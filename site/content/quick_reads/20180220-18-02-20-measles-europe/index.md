@@ -2,14 +2,15 @@
 title: 18.02.20 Measles in Europe
 slug: 20180220-18-02-20-measles-europe
 _id: legacy-3f147ac1-3e90-48e9-b68a-5c1264a0a6d4
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: LotyrYkaRjTl0E452wNGZp
 type: quick_reads
 draft: false
 aliases:
   - 18-02-20-measles-europe/
 _createdAt: '2018-02-21T02:10:01Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:50:23Z'
 date: '2018-02-21T02:10:01+00:00'
+lastmod: '2018-02-21T02:10:01+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,18 +23,13 @@ cards:
     body: |-
       Measles Outbreak Europe
 
-      ==========================
-
       ## 400% Increase In Cases
 
       > “…a tragedy we simply cannot accept.’  
         
-        
-        
       Dr. Zsuzsanna Jakab, WHO Regional Director for Europe, Feb 19, 2018
 
       Flip Here
-    citation: Flip Here
     _key: card-1-3a19e19d-604e-42c7-b121-0f938401c9d7
   - order: 1
     body: >-
@@ -50,8 +46,9 @@ cards:
       cases in 2016.
 
 
+
+
       FLIP HERE FOR MORE
-    citation: FLIP HERE FOR MORE
     _key: card-2-64d387ce-61c5-4eff-a33d-04ef072574d5
   - order: 2
     body: >-
@@ -78,9 +75,6 @@ cards:
 
       * Low rates of vaccination among “marginalized groups” (WHO does not
       specfically define this group)
-
-
-      World Health Organization
     citation: World Health Organization
     _key: card-4-b185d231-d138-47e0-bfc2-7e35d5661e88
   - order: 4

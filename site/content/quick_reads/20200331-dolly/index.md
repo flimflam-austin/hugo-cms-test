@@ -2,14 +2,15 @@
 title: 18.03.02 Dolly Goes to Washington
 slug: 20200331-dolly
 _id: legacy-3704d5c1-9a86-413c-b24f-a565830fbbab
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: 0aCMfzqL0erea7otJrkfCJ
 type: quick_reads
 draft: false
 aliases:
   - dolly/
 _createdAt: '2018-03-01T23:29:07Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-25T22:05:36Z'
 date: '2018-03-01T23:29:07+00:00'
+lastmod: '2018-03-01T23:29:07+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
 
 
       TAP HERE FOR MORE
-    citation: TAP HERE FOR MORE
     _key: card-1-99e0d7e2-fb43-4dd9-92fb-006913226fe5
   - order: 1
     body: >-

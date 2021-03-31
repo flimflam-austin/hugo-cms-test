@@ -2,14 +2,15 @@
 title: 18.12.07 Pearl Harbor
 slug: 20201207-18-12-07-pearl-harbor
 _id: legacy-db32fa0e-075a-400d-81bc-8dc3ec260215
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: 0aCMfzqL0erea7otJxzWxC
 type: quick_reads
 draft: false
 aliases:
   - 18-12-07-pearl-harbor/
 _createdAt: '2018-12-07T12:58:58Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-28T00:54:14Z'
 date: '2018-12-07T12:58:58+00:00'
+lastmod: '2018-12-07T12:58:58+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -81,11 +82,9 @@ cards:
     _key: card-4-83b73dcc-ffe3-4b42-bb42-6a6bb9039561
   - order: 4
     body: >-
-      > “I saw a formation of black planes diving straight into the ocean off
+      “I saw a formation of black planes diving straight into the ocean off
       Pearl Harbor. The blue sky was punctured with anti-aircraft smoke puffs…I
       saw a rooftop fly into the air like a pasteboard movie set.”  
-        
-        
         
       Elizabeth McIntosh, a journalist for Honolulu Star-Bulletin wrote an
       article specifically to tell women about the atrocities of the Pearl

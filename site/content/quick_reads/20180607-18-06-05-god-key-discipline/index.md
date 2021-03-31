@@ -2,14 +2,15 @@
 title: 18.06.05 Is God Key to Discipline?
 slug: 20180607-18-06-05-god-key-discipline
 _id: legacy-bb6337db-ec42-4bfe-80a6-31e8219128aa
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 0aCMfzqL0erea7otJs95aN
 type: quick_reads
 draft: false
 aliases:
   - 18-06-05-god-key-discipline/
 _createdAt: '2018-06-07T11:02:47Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:08:06Z'
 date: '2018-06-07T11:02:47+00:00'
+lastmod: '2018-06-07T11:02:47+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -21,7 +22,7 @@ cards:
   - order: 0
     body: |-
       Is The Key To Good Discipline In School…  
-      GOD? ===============================================
+      GOD? 
 
       **First-of-its-kind study says…YES**.
 
@@ -41,8 +42,9 @@ cards:
       in unobservable ways.”_
 
 
+
+
       Why This Matters
-    citation: Why This Matters
     _key: card-2-b89fb342-d1f9-417c-b9a3-1206b7d1d776
   - order: 2
     body: >-
@@ -63,7 +65,6 @@ cards:
       know **they are loved not only by their teachers but by their Creator,**
       or when they perceive that misbehavior may have **eternal consequences**.
       Maybe it’s something else entirely.”  
-        
         
         
       Self-Discipline and Catholic Schools

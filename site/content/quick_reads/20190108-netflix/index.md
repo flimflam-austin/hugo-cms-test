@@ -2,14 +2,15 @@
 title: Thinking Outside the Bird Box
 slug: 20190108-netflix
 _id: legacy-4aea6ae3-9285-46fe-aa69-c870dea585ed
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: LotyrYkaRjTl0E452ykbVl
 type: quick_reads
 draft: false
 aliases:
   - netflix/
 _createdAt: '2019-01-08T13:19:19Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T01:04:28Z'
 date: '2019-01-08T13:19:19+00:00'
+lastmod: '2019-01-08T13:19:19+00:00'
 weight: 50
 card_series: Entertainment
 colorpaletteclassname: '--dark-purple'
@@ -30,7 +31,6 @@ cards:
 
 
       Why it matters
-    citation: Why it matters
     _key: card-1-f5e01483-debb-42cb-b8af-533193e5013b
   - order: 1
     body: >-
@@ -49,11 +49,9 @@ cards:
     _key: card-2-5292c73e-fab5-4663-8274-af8fa4e17d37
   - order: 2
     body: >-
-      > ‘Classical measurement has either been box office or awards. This defies
+      > "Classical measurement has either been box office or awards. This defies
       all of it. But creating a phenomenon is bound to translate into
-      something.’  
-        
-        
+      something."  
         
       Susanne Bier, Bird Box Director, on the film's unconventional success
       flooding social media with memes & the Bird Box Challenge in which people

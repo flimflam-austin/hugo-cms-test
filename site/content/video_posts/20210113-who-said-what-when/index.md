@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2021-01-14T04:16:29Z'
 _updatedAt: '2021-03-23T16:29:13Z'
 date: '2021-01-14T04:16:29+00:00'
+lastmod: '2021-01-14T04:16:29+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     86ec2910af1bd99a46dece30482a3e764de8614f-2560x1658.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 What lawmakers said during the debate on impeaching President Trump:

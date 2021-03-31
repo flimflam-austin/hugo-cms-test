@@ -2,14 +2,15 @@
 title: 17.07.16 Qq
 slug: 20190905-17-07-16-qq
 _id: legacy-6690726d-ca3f-4664-b4a8-f6b74badbabb
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 45Isps23253Yjlaq28ck9Y
 type: quick_reads
 draft: false
 aliases:
   - 17-07-16-qq/
 _createdAt: '2018-07-16T11:00:02Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-26T02:49:54Z'
 date: '2018-07-16T11:00:02+00:00'
+lastmod: '2018-07-16T11:00:02+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -48,7 +49,6 @@ cards:
       under attack.”  
         
         
-        
       U.S. Director of National Intelligence Dan Coats warning of a looming
       cyber assault on critical US infrastructure. He said the "warning lights
       are blinking red again," similar to the signals received ahead of the
@@ -60,7 +60,6 @@ cards:
       > “People wondered why our marriage came to an end. I think it’s because
       some jealousy started to creep in. … Bruce never got over the fact that I
       rocked the bald look better than he did.”  
-        
         
         
       Demi Moore in a surprise appearance at the Comedy Central Roast of

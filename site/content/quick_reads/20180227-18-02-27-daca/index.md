@@ -2,14 +2,15 @@
 title: 18.02.27 Daca
 slug: 20180227-18-02-27-daca
 _id: legacy-7e868ab1-189f-474b-aef4-223f6724f755
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: 0aCMfzqL0erea7otJrjpjx
 type: quick_reads
 draft: false
 aliases:
   - 18-02-27-daca/
 _createdAt: '2018-02-27T12:55:43Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:58:47Z'
 date: '2018-02-27T12:55:43+00:00'
+lastmod: '2018-02-27T12:55:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       Flip Here
-    citation: Flip Here
     _key: card-1-b0262f77-6170-4d60-ad93-8b2831dd5951
   - order: 1
     body: >-

@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Friday, February 8, 2019
 slug: 20190905-qq-23
 _id: legacy-888e395e-b42d-4bed-a838-46f468dadb25
-_rev: LotyrYkaRjTl0E452wH8FR
+_rev: 0aCMfzqL0erea7otJy0cep
 type: quick_reads
 draft: false
 aliases:
   - qq-23/
 _createdAt: '2019-02-08T14:03:20Z'
-_updatedAt: '2021-03-25T20:15:58Z'
+_updatedAt: '2021-03-28T01:10:54Z'
 date: '2019-02-08T14:03:20+00:00'
+lastmod: '2019-02-08T14:03:20+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,8 +21,8 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     body: >-
-      > ‘It gives us hope that this history will be sustained and improved upon
-      and captured and passed on from generation to generation.’
+      > "It gives us hope that this history will be sustained and improved upon
+      and captured and passed on from generation to generation."
 
         
       Anderson Flen speaking about preserving the history of Africatown,
@@ -33,7 +34,7 @@ cards:
     _key: card-1-f19fb898-82d7-42b6-a3fa-65e8dc07a208
   - order: 1
     body: >-
-      > ‘We’re showing the district we are going to stand up for what we
+      > "We’re showing the district we are going to stand up for what we
       need.”  
         
       Denver elementary school teacher Chris Christoff as 4,000+ teachers in the

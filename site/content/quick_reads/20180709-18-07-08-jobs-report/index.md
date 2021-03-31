@@ -2,14 +2,15 @@
 title: 18.07.08 Jobs Report
 slug: 20180709-18-07-08-jobs-report
 _id: legacy-100ae8a7-3fc7-40c5-8349-6a6fa9195170
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 45Isps23253Yjlaq28YePS
 type: quick_reads
 draft: false
 aliases:
   - 18-07-08-jobs-report/
 _createdAt: '2018-07-09T12:29:53Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:17:40Z'
 date: '2018-07-09T12:29:53+00:00'
+lastmod: '2018-07-09T12:29:53+00:00'
 weight: 50
 card_series: Current Events
 colorpaletteclassname: '--light-yellow'
@@ -18,7 +19,7 @@ cards:
     body: |-
       ICYMI:
 
-      =========
+
 
       ## THE HOPE METRIC
 
@@ -27,7 +28,6 @@ cards:
       Why a higher unemployment rate reflects a healthy job market.
 
       Flip: Why It Matters
-    citation: 'Flip: Why It Matters'
     _key: card-1-27306dcb-d7d3-4db4-8bd4-9019ae41b9cb
   - order: 1
     body: >-

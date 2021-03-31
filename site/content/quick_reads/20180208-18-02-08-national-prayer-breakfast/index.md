@@ -2,14 +2,15 @@
 title: 18.02.08 National Prayer Breakfast
 slug: 20180208-18-02-08-national-prayer-breakfast
 _id: legacy-a2194a4f-5c60-42e6-b1f2-e8f70157af7a
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: LotyrYkaRjTl0E452wJfG9
 type: quick_reads
 draft: false
 aliases:
   - 18-02-08-national-prayer-breakfast/
 _createdAt: '2018-02-08T17:00:16Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T20:52:24Z'
 date: '2018-02-08T17:00:16+00:00'
+lastmod: '2018-02-08T17:00:16+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       Flip For Honoree
-    citation: Flip For Honoree
     _key: card-1-64602177-f058-4dcf-8e02-f36d805456cb
   - order: 1
     body: >-

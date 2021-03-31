@@ -2,14 +2,15 @@
 title: 18.07.17 Helsinki Summit
 slug: 20180717-18-07-17-helsinki-summit
 _id: legacy-e243f5f8-77fd-477c-9a45-9832c2495298
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 45Isps23253Yjlaq28d6B7
 type: quick_reads
 draft: false
 aliases:
   - 18-07-17-helsinki-summit/
 _createdAt: '2018-07-17T11:05:23Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:53:24Z'
 date: '2018-07-17T11:05:23+00:00'
+lastmod: '2018-07-17T11:05:23+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Why It Matters
-    citation: Why It Matters
     _key: card-1-f86f1f3b-404a-4c04-bb3e-85df025f4cd8
   - order: 1
     body: >-

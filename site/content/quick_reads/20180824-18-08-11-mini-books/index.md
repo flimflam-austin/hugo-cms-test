@@ -2,14 +2,15 @@
 title: The Rise of the Mini Books
 slug: 20180824-18-08-11-mini-books
 _id: legacy-3c2fc5d7-ed5a-4f42-8559-17ae398418b3
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 0aCMfzqL0erea7otJuxklN
 type: quick_reads
 draft: false
 aliases:
   - 18-08-11-mini-books/
 _createdAt: '2018-08-14T11:54:36Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:55:46Z'
 date: '2018-08-14T11:54:36+00:00'
+lastmod: '2018-08-14T11:54:36+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       Introducing Flipbacks
-    citation: Introducing Flipbacks
     _key: card-1-a2e2cd93-2998-491e-82c8-437ae411db51
   - order: 1
     body: >-
@@ -47,9 +47,10 @@ cards:
       * Easy to flip pages & hold with one hand.
 
 
+
+
       [Watch
       Now](https://www.youtube.com/embed/NgIa_RgiY0U?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-7c78d29a-0caf-48db-af7e-b32ae1392aae
   - order: 2
     body: >-
@@ -58,7 +59,6 @@ cards:
 
       > ‘I haven’t seen a new book format that I thought was at all interesting,
       but I findA thisA format really usable and A-super-portable.’  
-        
         
         
       Popular young adult author John Green wrote The Fault Of Our Stars. He

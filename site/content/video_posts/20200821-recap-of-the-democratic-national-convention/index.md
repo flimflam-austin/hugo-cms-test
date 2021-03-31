@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-08-21T19:06:02Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-08-21T19:06:02+00:00'
+lastmod: '2020-08-21T19:06:02+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     1f19099c280f9bf7fd2dcb25a002dc82beccc5b8-1024x683.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="H7vM7AhYArc" title="RECAP! Democratic National Convention" >}}

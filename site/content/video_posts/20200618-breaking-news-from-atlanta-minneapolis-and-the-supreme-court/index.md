@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-06-18T16:05:16Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-06-18T16:05:16+00:00'
+lastmod: '2020-06-18T16:05:16+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     503da4d8349bd1a686b77796af4f9ce5c7abe919-938x1024.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="LC_bz9eZvx4" title="Breaking News from Atlanta, Minneapolis and the Supreme Court" >}}

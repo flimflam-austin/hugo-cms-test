@@ -2,14 +2,15 @@
 title: 18.05.29 Nba Finals
 slug: 20180529-18-05-29-nba-finals
 _id: legacy-56a82ad8-0e94-4fc3-bfe6-66d43f2fd806
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: LotyrYkaRjTl0E452wWvS9
 type: quick_reads
 draft: false
 aliases:
   - 18-05-29-nba-finals/
 _createdAt: '2018-05-29T10:17:04Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T00:47:10Z'
 date: '2018-05-29T10:17:04+00:00'
+lastmod: '2018-05-29T10:17:04+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -35,7 +36,6 @@ cards:
 
 
       FLIP FOR WHY
-    citation: FLIP FOR WHY
     _key: card-1-94b34136-678f-4616-a7e5-0fbcf8c9d979
   - order: 1
     body: >-
@@ -65,11 +65,9 @@ cards:
 
 
       >   
-        
+
       **_“It’s ridiculous, and he doesA it at this level and with the pressure,
       with the scrutiny – doesn’t matter.”_**  
-        
-        
         
       Celtics coach Brad Stevens on LeBron.
 

@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Wednesday, September 19th
 slug: 20190905-18-09-19-qq
 _id: legacy-fa390451-ced5-4586-b0e2-724fb4c14029
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 0aCMfzqL0erea7otJxkwP9
 type: quick_reads
 draft: false
 aliases:
   - 18-09-19-qq/
 _createdAt: '2018-09-19T12:00:20Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T22:19:15Z'
 date: '2018-09-19T12:00:20+00:00'
+lastmod: '2018-09-19T12:00:20+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,22 +24,18 @@ cards:
       > “The era of no war has started…. Today the North and South decided to
       remove all threats that can cause war from the entire Korean peninsula.”  
         
-        
-        
       South Korean Pres. Moon Jae-in in a joint press conference with Kim Jong
       Un announcing several agreements intended to achieve peace on the Korean
       Peninsula. Among other things, Un said he would destroy nuclear sites *if*
       the U.S. takes unspecified reciprocal measures.
     _key: card-1-6d858300-3288-4020-8931-47413775e493
   - order: 1
-    body: "> ‘The concept of saying a\x18downgraded’ or ’weakened’ should be forever banished.’  \n  \n  \n  \nUniversity of Georgia meteorology professor Marshall Shepherd speaking about the limits of the current rating system for Cat 1-5 hurricanes. He believed Florence was more dangerous as a Cat 2 storm, but the current scale measures wind strength, not flooding threat, giving some residents reason to not evacuate."
+    body: "> \"The concept of saying a\x18downgraded’ or ’weakened’ should be forever banished.\"  \n  \n  \nUniversity of Georgia meteorology professor Marshall Shepherd speaking about the limits of the current rating system for Cat 1-5 hurricanes. He believed Florence was more dangerous as a Cat 2 storm, but the current scale measures wind strength, not flooding threat, giving some residents reason to not evacuate."
     _key: card-2-12f84337-faec-431a-8013-804d0205a4c5
   - order: 2
     body: >-
-      > “The FBI investigation of Judge Kavanaugh is closed…. The FBI is not
-      doing any further investigation.”  
-        
-        
+      “The FBI investigation of Judge Kavanaugh is closed…. The FBI is not doing
+      any further investigation.”  
         
       Senate Judiciary Committee Chairman Chuck Grassley (R-IA) responding to a
       request from his democrat colleagues to reopen the FBI's investigation
@@ -53,7 +50,6 @@ cards:
       to better serve the American public, and the weight of the government
       should not be used to destroy the lives of witnesses who are called to
       testify.”  
-        
         
         
       Anita Hill who testified in front of the aforementioned cmte in 1991 when

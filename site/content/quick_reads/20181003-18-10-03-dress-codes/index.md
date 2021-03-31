@@ -2,14 +2,15 @@
 title: 'Trend to Watch: Hemlines in the Headlines'
 slug: 20181003-18-10-03-dress-codes
 _id: legacy-e43ccce7-afe3-4190-a096-0a093bbf3ab9
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: 0aCMfzqL0erea7otJxvxlN
 type: quick_reads
 draft: false
 aliases:
   - 18-10-03-dress-codes/
 _createdAt: '2018-10-03T11:37:15Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:19:38Z'
 date: '2018-10-03T11:37:15+00:00'
+lastmod: '2018-10-03T11:37:15+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Helpful or hurtful?
-    citation: Helpful or hurtful?
     _key: card-1-3e9fdfc4-2742-405a-a015-5c2b6a2c6fa3
   - order: 1
     body: >-
@@ -64,8 +64,6 @@ cards:
       boys, which meant they were losing more class time than their male
       peers.”  
         
-        
-        
       Alameda, California Unified School District on why it changed its dress
       code policy. Some argued the policy was too vague and enforced differently
       depending on a student's particular body type (body shaming).
@@ -74,7 +72,6 @@ cards:
     body: >-
       > “It’s good not to punish girls for being distractions. I fully, fully
       get that. …. But I think it’s extraordinarily misled.”  
-        
         
         
       Marie Hsu, Alameda, CA math teacher and mother of two young children. She

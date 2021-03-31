@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-08-04T12:45:46Z'
 _updatedAt: '2021-03-23T15:28:56Z'
 date: '2020-08-04T12:45:46+00:00'
+lastmod: '2020-08-04T12:45:46+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     59259843e3b79cab300b59205f96316599d40294-960x960.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="XF4WK08GEeY" title="An Old-Fashion Treatment For COVID-19 Gains New Attention" >}}

@@ -10,6 +10,7 @@ aliases:
 _createdAt: '2018-09-27T12:41:08Z'
 _updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-09-27T12:41:08+00:00'
+lastmod: '2018-09-27T12:41:08+00:00'
 weight: 50
 card_series: Quote of the Day
 colorpaletteclassname: '--light-green'

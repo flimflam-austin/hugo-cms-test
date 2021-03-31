@@ -2,14 +2,15 @@
 title: Deadly Demonstrations in France
 slug: 20181206-french-protests
 _id: legacy-8cacbee2-6799-461d-b737-d21ad6a9dc35
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 45Isps23253Yjlaq2DK6Mg
 type: quick_reads
 draft: false
 aliases:
   - french-protests/
 _createdAt: '2018-12-06T02:53:47Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:52:21Z'
 date: '2018-12-06T02:53:47+00:00'
+lastmod: '2018-12-06T02:53:47+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,8 +23,6 @@ cards:
     body: |-
       TURMOIL IN FRANCE
 
-      ====================
-
       Deadly protests rage in France.
 
       Fears of more to come.
@@ -31,7 +30,6 @@ cards:
       4 people have died in the worst demonstrations in decades.
 
       What's Going On
-    citation: What's Going On
     _key: card-1-1a05ccd9-d200-43aa-95eb-b589ea631f20
   - order: 1
     body: >-
@@ -52,10 +50,8 @@ cards:
       ## FUEL TAX CANCELLED
 
 
-      > ‘…if there is such a level of anger … it’s because we still have a lot
-      of things to improve.’  
-        
-        
+      "…if there is such a level of anger … it’s because we still have a lot of
+      things to improve."  
         
       Pres. Macron speaking to French lawmakers Wednes. As the threat of more
       protests loom, lawmakers canceled the fuel tax from the 2019 budget.
@@ -68,9 +64,7 @@ cards:
       ## PROTESTS MAY NOT END
 
 
-      > “There will be more demonstrations. We remain mobilized.’  
-        
-        
+      “There will be more demonstrations. We remain mobilized."  
         
       Lionel Cucchi, protestor/spokesman. While the protests started because of
       the fuel tax, the anger ignited *other* protests varying from farmers

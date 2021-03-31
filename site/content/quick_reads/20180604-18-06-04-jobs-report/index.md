@@ -2,14 +2,15 @@
 title: 18.06.04 Jobs Report
 slug: 20180604-18-06-04-jobs-report
 _id: legacy-8e9872c3-b4e1-486e-820a-121988db7c52
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28Ptfh
 type: quick_reads
 draft: false
 aliases:
   - 18-06-04-jobs-report/
 _createdAt: '2018-06-04T10:46:50Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T00:58:22Z'
 date: '2018-06-04T10:46:50+00:00'
+lastmod: '2018-06-04T10:46:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       FLIP: FOR THE FACTS
-    citation: 'FLIP: FOR THE FACTS'
     _key: card-1-d0a6442d-f16f-4d90-82b3-24200aa2ca38
   - order: 1
     body: >-

@@ -2,14 +2,15 @@
 title: 18.05.29 Quick Quotes
 slug: 20180530-18-05-29-quick-quotes
 _id: legacy-f1e37080-6ab2-48e4-bf0c-2aedd5be676b
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28OpNm
 type: quick_reads
 draft: false
 aliases:
   - 18-05-29-quick-quotes/
 _createdAt: '2018-05-29T10:16:51Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T00:46:30Z'
 date: '2018-05-29T10:16:51+00:00'
+lastmod: '2018-05-29T10:16:51+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,8 +28,6 @@ cards:
 
       > “Ten minutes later we get the call and it was them.”  
         
-        
-        
       Tryon Fire Chief Geoffrey Tennant on the deaths of journalists Mike
       McCormick & Aaron Smeltzer in North Carolina. A tree fell on their vehicle
       shortly after they interviewed him as part of their Alberto storm
@@ -38,8 +37,6 @@ cards:
   - order: 1
     body: >-
       > “There are no words to describe the devastation.”  
-        
-        
         
       Howard County Executive Allan Kittleman on the aftermath for a small
       Maryland community in Ellicott City where devastating flash flooding has
@@ -51,8 +48,6 @@ cards:
     body: >-
       > “I think it’s safe to say authorities have been concerned about the flow
       of lava onto the plant property since the eruption started.”  
-        
-        
         
       David Mace, FEMA spokesman as lava from Hawaii’s Kilauea volcano covered
       one of the wells at the island's geothermal power plant, prompting fears

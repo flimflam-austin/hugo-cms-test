@@ -2,14 +2,15 @@
 title: 18.08.14 Qtd Aretha Franklin
 slug: 20180814-18-08-14-qtd-aretha-franklin
 _id: legacy-6f641c1e-615f-4c2f-bdec-e5ec2d84bb56
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: 45Isps23253Yjlaq2AyQTL
 type: quick_reads
 draft: false
 aliases:
   - 18-08-14-qtd-aretha-franklin/
 _createdAt: '2018-08-14T11:52:51Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:54:39Z'
 date: '2018-08-14T11:52:51+00:00'
+lastmod: '2018-08-14T11:52:51+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,15 +21,12 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     body: |-
-      > _“What’s your beauty regime?”_  
-        
+      > _ "What’s your beauty regime "_  
         
         
         
       _“Just cold cream_  
       _and a good attitude.”_
-
-      Aretha Franklin
     citation: Aretha Franklin
     _key: card-1-9059685b-d418-4b3f-81cf-201345c9cb96
   - order: 1

@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-08-18T13:43:08Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-08-18T13:43:08+00:00'
+lastmod: '2020-08-18T13:43:08+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     eeacb17810142386cc7ea4e90f5bffd39930bdd1-2560x1440.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="gPf-VQL-tQo" title="Why all the talk about the USPS?" >}}

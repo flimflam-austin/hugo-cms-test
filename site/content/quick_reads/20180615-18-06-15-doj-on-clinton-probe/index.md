@@ -2,14 +2,15 @@
 title: 18.06.15 Doj on Clinton Probe
 slug: 20180615-18-06-15-doj-on-clinton-probe
 _id: legacy-df8c8b97-064a-4abb-a383-029abd69d696
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 0aCMfzqL0erea7otJsBis4
 type: quick_reads
 draft: false
 aliases:
   - 18-06-15-doj-on-clinton-probe/
 _createdAt: '2018-06-15T10:36:52Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:36:08Z'
 date: '2018-06-15T10:36:52+00:00'
+lastmod: '2018-06-15T10:36:52+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       500+ pages condensed.
-    citation: 500+ pages condensed.
     _key: card-1-804965c1-6e36-4d80-8a35-29370f328600
   - order: 1
     body: >-
@@ -53,10 +53,8 @@ cards:
       > Watchdog’s report also found **several instances of FBI officials
       criticizing Trump**,A but says **biases did not compromise FBI’s work**.  
         
-        
-        
       Example: texts between FBI agents Peter Strzok & Lisa Page:  
-        
+
 
 
       * Page to Strzok: “[Trump’s] not ever going to become president, right?
@@ -66,19 +64,15 @@ cards:
     _key: card-3-300d5ae7-e83a-4c40-b8f3-655470958124
   - order: 3
     body: >-
-      > _“I do not agree with all of the inspector general’s conclusions, but I
+      _“I do not agree with all of the inspector general’s conclusions, but I
       respect the work of his office and salute its professionalism.”_  
 
       Fmr. FBI Dir. James Comey  
-        
-        
         
       _“(Report) reaffirmed the president’s suspicions about Comey’s conduct and
       the political bias among some of the members of the FBI.”A_  
 
       Press Secretary Sarah Sanders  
-        
-        
         
       _“But my emails.”_  
 

@@ -2,14 +2,15 @@
 title: 18.02.01 Superbowl Ads
 slug: 20180202-18-02-01-superbowl-ads
 _id: legacy-66ced609-1253-4839-abe3-9d8e3366479f
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: LotyrYkaRjTl0E452wIglx
 type: quick_reads
 draft: false
 aliases:
   - 18-02-01-superbowl-ads/
 _createdAt: '2018-02-02T10:55:19Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T20:43:36Z'
 date: '2018-02-02T10:55:19+00:00'
+lastmod: '2018-02-02T10:55:19+00:00'
 weight: 50
 card_series: Current Events
 colorpaletteclassname: '--light-gray'
@@ -41,19 +42,15 @@ cards:
       # MeToo?
 
 
-      =======
 
 
       > “As of Thursday morning, there were more thanA two times as many male
       celebrities than female appearing in Super Bowl commercials…”  
-        
-        
-        
-      Ad Age
+
 
 
       Flip For More
-    citation: Flip For More
+    citation: Ad Age
     _key: card-3-e57e406d-a4d6-413e-b8ac-2c3703294344
   - order: 3
     body: |-

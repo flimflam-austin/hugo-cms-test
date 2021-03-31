@@ -2,14 +2,15 @@
 title: An Eye on the East
 slug: 20190108-19-01-08-pompeo-trip-to-middle-east
 _id: legacy-42f3abfc-3977-42b1-bff2-d66f202f66dd
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: LotyrYkaRjTl0E452ykgJ3
 type: quick_reads
 draft: false
 aliases:
   - 19-01-08-pompeo-trip-to-middle-east/
 _createdAt: '2019-01-08T13:19:22Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T01:06:31Z'
 date: '2019-01-08T13:19:22+00:00'
+lastmod: '2019-01-08T13:19:22+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,17 +33,16 @@ cards:
 
 
       SETTING THE TONE 2019
-    citation: SETTING THE TONE 2019
     _key: card-1-ba48628b-c19e-40bb-ab86-cbce8ea49304
   - order: 1
     body: >-
-      Why Is He Going?A
+      Why Is He Going?
 
 
       Sec. Pompeo’s 2 declared priorities:
 
 
-      * U.S. will continue to **battle ISIS,**A **but change tactics** (withdraw
+      * U.S. will continue to **battle ISIS,** **but change tactics** (withdraw
       troops from Syria, though he sets no timeline. Nat’l Sec. Advisor Bolton
       echoed this sentiment in Israel over the wknd).
 
@@ -54,9 +54,7 @@ cards:
       ## Why Now?
 
 
-      > ‘This is the reality setting in that you’ve got to plan this out.”  
-        
-        
+      "This is the reality setting in that you’ve got to plan this out.”  
         
       Sen. Lindsey Graham (R-SC), responding to a question about whether the
       President's declaration that 2,000 U.S. troops will withdraw from Syria
@@ -67,12 +65,10 @@ cards:
     _key: card-3-cdf46271-7eb4-43fa-8bbc-caf4236c6816
   - order: 3
     body: >-
-      > ‘One day he (President Trump) is saying we are in Syria for the long
-      term to fight Iran. The next day Trump says we’re leaving in 30 days and
-      Iran can do whatever it wants in Syria. It’s impossible to be effective in
-      this environment.”  
-        
-        
+      "One day he (President Trump) is saying we are in Syria for the long term
+      to fight Iran. The next day Trump says we’re leaving in 30 days and Iran
+      can do whatever it wants in Syria. It’s impossible to be effective in this
+      environment.”  
         
       Ilan Goldenberg, fmr. Obama official, now w/the bipartisan nonprofit
       Center for a New American Security. Sec. Pompeo plans to speak about

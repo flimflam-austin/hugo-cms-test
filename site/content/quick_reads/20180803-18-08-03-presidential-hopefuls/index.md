@@ -2,14 +2,15 @@
 title: 18.08.03 Presidential Hopefuls
 slug: 20180803-18-08-03-presidential-hopefuls
 _id: legacy-0f77fa82-a390-4591-a4ab-053c50489da6
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 45Isps23253Yjlaq2AuYrS
 type: quick_reads
 draft: false
 aliases:
   - 18-08-03-presidential-hopefuls/
 _createdAt: '2018-08-03T11:29:35Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T19:24:18Z'
 date: '2018-08-03T11:29:35+00:00'
+lastmod: '2018-08-03T11:29:35+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Who's in & Who's Out?
-    citation: Who's in &amp; Who's Out?
     _key: card-1-cc6735eb-a223-48ba-b611-ca680c4068b5
   - order: 1
     body: >-
@@ -42,15 +42,12 @@ cards:
       Lakers admits he’s reluctant to run for office, but said he’d run if there
       were no other options.  
         
-        
-        
       “Yeah, if they have no one. I mean, I believe there are some people out
       there, I hope…. Let’s see first.”
 
 
       [Watch
       Now](https://www.youtube.com/embed/4ZLGy8VkWM4?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-8f8807f0-33bd-4442-ad21-27078123098a
   - order: 2
     body: >-

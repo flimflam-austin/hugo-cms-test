@@ -2,14 +2,15 @@
 title: 18.06.05 Positano
 slug: 20180607-18-06-05-positano
 _id: legacy-e38cf9ce-61d3-45db-9ed2-41a93c6a3071
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28Qjin
 type: quick_reads
 draft: false
 aliases:
   - 18-06-05-positano/
 _createdAt: '2018-06-07T10:56:57Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:07:15Z'
 date: '2018-06-07T10:56:57+00:00'
+lastmod: '2018-06-07T10:56:57+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -65,7 +66,6 @@ cards:
 
 
       Flip: Where To Go
-    citation: 'Flip: Where To Go'
     _key: card-4-a1ecdb2d-a967-4a20-b57f-a9a968f1911d
   - order: 4
     body: >-

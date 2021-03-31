@@ -2,14 +2,15 @@
 title: 18.05.18 School Shooting & Prayer
 slug: 20180519-18-05-18-school-shooting-prayer
 _id: legacy-415e683d-0046-4af5-8779-bf06cf0dfb41
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 45Isps23253Yjlaq28LY8t
 type: quick_reads
 draft: false
 aliases:
   - 18-05-18-school-shooting-prayer/
 _createdAt: '2018-05-19T01:56:32Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:27:29Z'
 date: '2018-05-19T01:56:32+00:00'
+lastmod: '2018-05-19T01:56:32+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,7 @@ cards:
     _key: card-1-ef20012d-3ea9-45be-a0c9-56044b49fc3a
   - order: 1
     body: >-
-      > ‘Once again, our Nation grieves another mass murder. Heidi and I are
+      > "Once again, our Nation grieves another mass murder. Heidi and I are
       keeping the students and faculty of Santa Fe High School in **our fervent
       prayers**.”  
         
@@ -39,11 +40,10 @@ cards:
 
 
       [Full Statement](https://www.cruz.senate.gov/?p=press_release&id=3833)
-    citation: Full Statement
     _key: card-2-0b443e81-9e66-49ec-b4c7-3ed48599503e
   - order: 2
     body: >-
-      > “Spare us your thoughts and prayers and do you job.”  
+      > “Spare us your thoughts and prayers and do your job.”  
         
         
         
@@ -54,7 +54,6 @@ cards:
 
       [Full
       Statement](https://twitter.com/Mike_Rawlings/status/997520858213175297)
-    citation: Full Statement
     _key: card-3-72fd3984-c783-4994-a1a5-ef950cd42fb0
   - order: 3
     body: >-
@@ -67,7 +66,6 @@ cards:
 
 
       [Click: Tweet](https://twitter.com/KylieJenner/status/997569941439049728)
-    citation: 'Click: Tweet'
     _key: card-4-1668a4c9-e3c5-4c44-90e5-898300c46d9f
   - order: 4
     body: >-
@@ -77,12 +75,10 @@ cards:
       we will be there to support you by raising up your voices.”  
         
         
-        
       Emma GonzA!lez, Student, Parkland High where a student killed 17 peers.
 
 
       [Click: Tweet](https://twitter.com/Emma4Change/status/997505205771079680)
-    citation: 'Click: Tweet'
     _key: card-5-48383664-38c3-4264-a398-8a94b400684b
   - order: 5
     body: >-

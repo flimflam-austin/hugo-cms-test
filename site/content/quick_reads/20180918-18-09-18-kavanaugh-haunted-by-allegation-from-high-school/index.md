@@ -2,14 +2,15 @@
 title: Kavanaugh Haunted by Allegation From High School
 slug: 20180918-18-09-18-kavanaugh-haunted-by-allegation-from-high-school
 _id: legacy-ce524e0f-049e-46e8-9590-d93733208e09
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: LotyrYkaRjTl0E452ycyyj
 type: quick_reads
 draft: false
 aliases:
   - 18-09-18-kavanaugh-haunted-by-allegation-from-high-school/
 _createdAt: '2018-09-18T11:52:58Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:09:19Z'
 date: '2018-09-18T11:52:58+00:00'
+lastmod: '2018-09-18T11:52:58+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Why It Matters
-    citation: Why It Matters
     _key: card-1-6cabe479-f5ac-463e-99b5-bb8d36b12ca3
   - order: 1
     body: >-
@@ -61,9 +61,8 @@ cards:
     _key: card-3-51aabca6-4a33-431a-beb7-18849dc7b723
   - order: 3
     body: >-
-      > ‘I thought he might inadvertently kill me. He was trying to attack me
-      and remove my clothing.’  
-        
+      "I thought he might inadvertently kill me. He was trying to attack me and
+      remove my clothing."  
         
         
       Professor Christine Blasey Ford describing what she says happened 30+
@@ -73,11 +72,11 @@ cards:
       top of them, causing them all to fall, and she freed herself.
     _key: card-4-976498e6-7792-4481-904c-fa2ec227faf4
   - order: 4
-    body: "> ‘I have never done anything like what the accuser describes a\x14 to her or to anyone. Because this never happened, I had no idea who was making this accusation until she identified herself…’  \n  \n  \n  \nJudge Brett Kavanaugh"
+    body: "> \"I have never done anything like what the accuser describes a\x14 to her or to anyone. Because this never happened, I had no idea who was making this accusation until she identified herself…\"  \n  \n  \n  \nJudge Brett Kavanaugh"
     _key: card-5-4e1dbd8b-7fe3-4f3b-a94a-0b27d1c37592
   - order: 5
     body: >-
-      > ‘It’s just absolutely nuts. I never saw Brett act that way.”  
+      > "It’s just absolutely nuts. I never saw Brett act that way.”  
         
         
         

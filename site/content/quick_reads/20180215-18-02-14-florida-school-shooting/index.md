@@ -2,21 +2,22 @@
 title: 18.02.14 Florida School Shooting
 slug: 20180215-18-02-14-florida-school-shooting
 _id: legacy-bdf3909c-a66b-4eb0-a3b3-d54102a2d615
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: 0aCMfzqL0erea7otJrgliN
 type: quick_reads
 draft: false
 aliases:
   - 18-02-14-florida-school-shooting/
 _createdAt: '2018-02-15T03:00:16Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:42:05Z'
 date: '2018-02-15T03:00:16+00:00'
+lastmod: '2018-02-15T03:00:16+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
   url: >-
     f1666668d95b0bef9fbac8394dbc2884feb6a85e-360x360.jpg
 card_series: Current Events
-colorpaletteclassname: '--default'
+colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     body: |-
@@ -83,7 +84,6 @@ cards:
 
       [Click HERE For
       More](http://www.apa.org/topics/violence/school-shooting.aspx)
-    citation: Click HERE For More
     _key: card-5-d541286b-4249-42a1-82d9-042b59cd50c6
   - order: 5
     body: >-

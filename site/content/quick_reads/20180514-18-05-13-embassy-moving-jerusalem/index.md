@@ -2,14 +2,15 @@
 title: 18.05.13 Embassy Moving to Jerusalem
 slug: 20180514-18-05-13-embassy-moving-jerusalem
 _id: legacy-fbc6615f-db78-4e2a-9af7-a5d0e372993e
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 0aCMfzqL0erea7otJs2ivq
 type: quick_reads
 draft: false
 aliases:
   - 18-05-13-embassy-moving-jerusalem/
 _createdAt: '2018-05-14T11:05:31Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-26T00:13:01Z'
 date: '2018-05-14T11:05:31+00:00'
+lastmod: '2018-05-14T11:05:31+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Flip: Why It Matters
-    citation: 'Flip: Why It Matters'
     _key: card-1-14893979-b7bb-47fc-aaae-3ac1d54fe52a
   - order: 1
     body: >-

@@ -14,6 +14,7 @@ aliases:
 _createdAt: '2020-07-02T21:07:47Z'
 _updatedAt: '2021-03-22T13:12:18Z'
 date: '2020-07-02T21:07:47+00:00'
+lastmod: '2020-07-02T21:07:47+00:00'
 weight: 50
 featured_image:
   alt: Featured article image

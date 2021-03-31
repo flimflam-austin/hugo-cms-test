@@ -2,14 +2,15 @@
 title: Quick Quotes
 slug: 20190905-quick-quotes-august-30
 _id: legacy-e7f4aa15-2ceb-4dad-ab36-4ed6ce12b235
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 45Isps23253Yjlaq2D1HII
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-august-30/
 _createdAt: '2018-08-30T11:12:18Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T21:10:35Z'
 date: '2018-08-30T11:12:18+00:00'
+lastmod: '2018-08-30T11:12:18+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,9 +21,8 @@ colorpaletteclassname: '--white'
 cards:
   - order: 0
     body: >-
-      > ‘I never got to meet her, I never got to tell her that I love her. But
-      I’ll be damned if I ain’t gonna say goodbye to her. She saved my life.’  
-        
+      > "I never got to meet her, I never got to tell her that I love her. But
+      I’ll be damned if I ain’t gonna say goodbye to her. She saved my life."  
         
         
       Rhonda Jefferson paying her respects to Aretha Franklin. Ms. Jefferson
@@ -36,8 +36,6 @@ cards:
       students and employees, I am turning off all drinking water in our
       schools…”  
         
-        
-        
       Nikolai Vitti, Superintendent, as Detroit Public Schools find elevated
       levels of lead & copper in 16 of 24 of its schools. The EPA warns lead &
       copper can leach from corroded pipes and contaminate water supply over
@@ -46,9 +44,8 @@ cards:
     _key: card-2-610be104-3fe3-46a6-8039-519a09b28b37
   - order: 2
     body: >-
-      > “I think Canada very much wants to make the deal.A It probably won’t be
+      > “I think Canada very much wants to make the deal. It probably won’t be
       good at all if they don’t.”  
-        
         
         
       President Trump says he's optimistic as Canada rejoins NAFTA trade talks.
@@ -58,14 +55,11 @@ cards:
 
 
       [SMARTHER REFRESHER](https://smarthernews.com/a-new-nafta/)
-    citation: SMARTHER REFRESHER
     _key: card-3-19b717f0-bd1e-4db2-9455-d801a6550a60
   - order: 3
     body: >-
       > “The sickest folks that were exposed to this substance came in
       unconscious and not breathing, they could not control their airway.”  
-        
-        
         
       Dr. Kirk Tucker, Adena Regional Medical Center Chief Clinical Officer,
       after dozens in Pennsylvania & Ohio were exposed to an unidentified drug.
@@ -75,10 +69,9 @@ cards:
     _key: card-4-dbf0bbee-58cc-4191-8b01-a69068b123fd
   - order: 4
     body: >-
-      > ‘Of course, I was surprised when I just changed (the) T-shirt really
+      > "Of course, I was surprised when I just changed (the) T-shirt really
       quick, and he gave me the code violation. I didn’t expect it, and I told
-      him it was pretty weird.’  
-        
+      him it was pretty weird."  
         
         
       French tennis player Alize Cornet who received a warning for changing her

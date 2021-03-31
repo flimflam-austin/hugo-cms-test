@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-06-15T15:15:43Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-06-15T15:15:43+00:00'
+lastmod: '2020-06-15T15:15:43+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     76dd8d58cd42d5a89abebf63f6a314a8b84198a7-953x1024.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="zSRL1Cz_fMw" title="What You Need To Know To Start Your Week" >}}

@@ -2,14 +2,15 @@
 title: 18.05.20 Hope & Your Health
 slug: 20180522-18-05-20-hope-health
 _id: legacy-44b1ec16-0659-42a0-9b39-eec000420d5e
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 45Isps23253Yjlaq28MngT
 type: quick_reads
 draft: false
 aliases:
   - 18-05-20-hope-health/
 _createdAt: '2018-05-22T11:30:15Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:37:29Z'
 date: '2018-05-22T11:30:15+00:00'
+lastmod: '2018-05-22T11:30:15+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,12 +26,10 @@ cards:
       **New study** explores whether or not optimistic people live longer.
 
       IS IT TRUE? FLIP
-    citation: IS IT TRUE? FLIP
     _key: card-1-59d4f117-6d92-4e81-b8c1-dba154a1857d
   - order: 1
     body: >-
       > “We find, indeed, that to be the case.’  
-        
         
         
       Researchers Kelsey J. O’Connor & Carol Graham, Brookings Institution in
@@ -38,7 +37,6 @@ cards:
 
 
       FLIP: THE DETAILS
-    citation: 'FLIP: THE DETAILS'
     _key: card-2-25e9f756-b5dd-489e-bef1-048ce925801f
   - order: 2
     body: >-

@@ -12,6 +12,7 @@ aliases:
 _createdAt: '2020-06-12T18:34:56Z'
 _updatedAt: '2021-03-22T13:12:18Z'
 date: '2020-06-12T18:34:56+00:00'
+lastmod: '2020-06-12T18:34:56+00:00'
 weight: 50
 is_breaking: false
 featured_quote:

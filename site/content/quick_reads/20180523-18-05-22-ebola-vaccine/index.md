@@ -2,14 +2,15 @@
 title: 18.05.22 Ebola Vaccine
 slug: 20180523-18-05-22-ebola-vaccine
 _id: legacy-29c8c089-a3dc-403d-ad5e-2f160dbe23cd
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 45Isps23253Yjlaq28Ms6u
 type: quick_reads
 draft: false
 aliases:
   - 18-05-22-ebola-vaccine/
 _createdAt: '2018-05-23T10:51:57Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:38:15Z'
 date: '2018-05-23T10:51:57+00:00'
+lastmod: '2018-05-23T10:51:57+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -44,8 +45,9 @@ cards:
       around them. Same strategy eradicated Small Pox.
 
 
+
+
       Flip: Challenges
-    citation: 'Flip: Challenges'
     _key: card-2-acfa990f-6a76-4881-a69a-b191d4efb57e
   - order: 2
     body: >-
@@ -60,8 +62,9 @@ cards:
       of vaccine doses avail.
 
 
+
+
       Flip: Why This Matters
-    citation: 'Flip: Why This Matters'
     _key: card-3-c9d786f7-a192-4b58-b922-f188627a551e
   - order: 3
     body: >-
@@ -74,7 +77,7 @@ cards:
       fluids, exposure to contaminated objects from an infected person, and by
       handling infected meat.
 
-      * Ebola killed**A 11,000+ inA Africa in 2014-2016**; 11 cases in U.S.
+      * Ebola killed** 11,000+ inA Africa in 2014-2016**; 11 cases in U.S.
     _key: card-4-7c0c94f6-00da-40be-a197-69c14f8f32f0
   - order: 4
     body: >-

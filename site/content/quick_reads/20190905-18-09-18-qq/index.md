@@ -2,14 +2,15 @@
 title: Quick Quotes for Tuesday, September 18th
 slug: 20190905-18-09-18-qq
 _id: legacy-9e2bdd98-5c82-4b99-b4cd-949a90bb3bc7
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 0aCMfzqL0erea7otJxkige
 type: quick_reads
 draft: false
 aliases:
   - 18-09-18-qq/
 _createdAt: '2018-09-18T12:11:00Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T22:16:40Z'
 date: '2018-09-18T12:11:00+00:00'
+lastmod: '2018-09-18T12:11:00+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,8 +24,6 @@ cards:
       > “I’ve lived in North Carolina my entire life, and I’ve seen a lot of bad
       storms, a lot of bad hurricanes. But this is absolutely the worst.”  
         
-        
-        
       David Fountain, Duke Energy's North Carolina operations president, and a
       lifelong NC native on Hurricane Florence's wrath. 300,000 of Duke Energy's
       1.4M impacted customers are still without power. Fountain says Duke is
@@ -32,9 +31,8 @@ cards:
     _key: card-1-3186b05f-fb4e-4670-98cc-f4dc6cf6e26d
   - order: 1
     body: >-
-      > ‘I believe that with this agreement we prevented a humanitarian crisis
+      > "I believe that with this agreement we prevented a humanitarian crisis
       in Idlib.”  
-        
         
         
       Turkey's President Erdogan after a 3-hr long meeting with Russia's
@@ -45,10 +43,9 @@ cards:
     _key: card-2-dc0f9cbe-da86-44e4-93a8-2f9f6ceaa141
   - order: 2
     body: >-
-      > ‘It’s impossible to conceive that I could run as a Republican…. That’s
-      not to say I’m with the Democratic Party on everything, but I don’t see
-      how you could possibly run as a Republican.”  
-        
+      "It’s impossible to conceive that I could run as a Republican…. That’s not
+      to say I’m with the Democratic Party on everything, but I don’t see how
+      you could possibly run as a Republican.”  
         
         
       Michael Bloomberg, media executive (76), on running for President in 2020.
@@ -58,11 +55,9 @@ cards:
     _key: card-3-c94cbb07-4ab9-4b73-b383-c13cc22bfdf4
   - order: 3
     body: >-
-      > ‘For months, we have urged China to change these unfair practices, and
+      "For months, we have urged China to change these unfair practices, and
       give fair and reciprocal treatment to American companies… But, so far,
-      China has been unwilling to change its practices.’  
-        
-        
+      China has been unwilling to change its practices."  
         
       President Trump as the U.S. ups its tariffs on China by 10% on about $200B
       of Chinese goods starting next week. He threatened more tariffs should
@@ -71,11 +66,10 @@ cards:
     _key: card-4-363fdc8b-b21c-434d-a0ea-d483485eb830
   - order: 4
     body: >-
-      > “Mom always believed in finding the sunshine in things & she adored my
+      “Mom always believed in finding the sunshine in things & she adored my
       girlfriend Jan. Jan, you are the sunshine in myA life.A And mom was right,
       don’t everA let go of your sunshine.A You wonder why I don’t like toA call
       you my girlfriend?A Because I want to call you myA wife.”  
-        
         
         
       Glenn Weiss, Emmy Winner for Outstanding Dir For A Variety Special making

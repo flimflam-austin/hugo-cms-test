@@ -2,14 +2,15 @@
 title: 18.02.12 Famous Designer Dies
 slug: 20180313-18-02-12-famous-designer-dies
 _id: legacy-a87fbb06-4657-48ad-9e43-5067ef3281c2
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: LotyrYkaRjTl0E452wP9YT
 type: quick_reads
 draft: false
 aliases:
   - 18-02-12-famous-designer-dies/
 _createdAt: '2018-03-13T10:08:50Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:19:04Z'
 date: '2018-03-13T10:08:50+00:00'
+lastmod: '2018-03-13T10:08:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -51,7 +52,6 @@ cards:
 
       [Click Here: More
       Looks](https://www.harpersbazaar.com/fashion/designers/g19405875/audrey-hepburn-hubert-de-givenchy/?slide=2)
-    citation: 'Click Here: More Looks'
     _key: card-2-b6dda8a6-2ca4-428d-bf4b-2743f7554bec
   - order: 2
     body: >-
@@ -78,7 +78,6 @@ cards:
 
       [Auction Item:
       2006](https://www.christies.com/lotfinder/Lot/audrey-hepburn-breakfast-at-tiffanys-1961-4832498-details.aspx)
-    citation: 'Auction Item: 2006'
     _key: card-4-fb68cb7a-5e16-4efe-b43a-eb41ca07becc
   - order: 4
     body: >-
@@ -110,7 +109,6 @@ cards:
 
       [Click: Fashion
       Show](https://www.nytimes.com/2018/01/24/fashion/couture-margiela-galliano-givenchy.html)
-    citation: 'Click: Fashion Show'
     _key: card-6-598c3f32-9d26-429b-9412-9cb77a94796e
   - order: 6
     body: >-

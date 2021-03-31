@@ -2,14 +2,15 @@
 title: 18.05.02 Quote Stack
 slug: 20180501-18-05-02-quote-stack
 _id: legacy-f13a2697-3a0b-4c40-86a9-4410ccd3af57
-_rev: O8E8pz1fLwnc3fN7JVF0RC
+_rev: 45Isps23253Yjlaq28EDIA
 type: quick_reads
 draft: false
 aliases:
   - 18-05-02-quote-stack/
 _createdAt: '2018-05-02T10:52:54Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:31:52Z'
 date: '2018-05-02T10:52:54+00:00'
+lastmod: '2018-05-02T10:52:54+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,11 +24,9 @@ cards:
       # QUICK QUOTES
 
 
-      > **“Well respectfully, I disagree with the President. … There are
-      millions of people that have sought to come into this country in a lawful
-      matter and that’s what’s occurring currently on our southern border.”**  
-        
-        
+      **“Well respectfully, I disagree with the President. … There are millions
+      of people that have sought to come into this country in a lawful matter
+      and that’s what’s occurring currently on our southern border.”**  
         
       Former Attorney General Alberto Gonzales, on whether the "caravan" of
       migrants seeking asylum at the border are defying U.S. laws, MSNBC
@@ -39,8 +38,6 @@ cards:
       people who understand all the nuances of this situation. … And finally,
       never forget what the nature of this regime really is.’**  
         
-        
-        
       Former Sec. of State Condoleezza Rice, on her advice to Pres. Trump on how
       to deal with Kim Jong Un, Fox News (5/1/18)
     _key: card-2-3f476817-b2bd-49b9-8da8-64e64889747d
@@ -48,7 +45,6 @@ cards:
     body: >-
       > **“We are drugged out. We are following other people’s opinions. We are
       controlled by the media and today it all changes.”**  
-        
         
         
       Kanye West, TMZ Live, May 1, 2018

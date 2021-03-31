@@ -2,14 +2,15 @@
 title: 18.03.06. Ship Discovered
 slug: 20180309-18-02-06-ship-discovered
 _id: legacy-36b093b4-b7e8-4bd2-99cb-9634bcabfe6a
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: 0aCMfzqL0erea7otJrmOyo
 type: quick_reads
 draft: false
 aliases:
   - 18-02-06-ship-discovered/
 _createdAt: '2018-03-07T12:16:30Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:11:18Z'
 date: '2018-03-07T12:16:30+00:00'
+lastmod: '2018-03-07T12:16:30+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -33,7 +34,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/-K-V_ah6IIs?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-584a9812-4d6d-4599-a8ac-a41f1ddc803d
   - order: 1
     body: >-

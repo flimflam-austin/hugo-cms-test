@@ -14,6 +14,7 @@ aliases:
 _createdAt: '2020-06-28T18:26:52Z'
 _updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-06-28T18:26:52+00:00'
+lastmod: '2020-06-28T18:26:52+00:00'
 weight: 50
 featured_image:
   alt: trump sign contract bill law

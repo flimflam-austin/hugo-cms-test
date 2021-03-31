@@ -2,14 +2,15 @@
 title: 18.05.09 Quotes
 slug: 20180509-18-05-09-quotes
 _id: legacy-30ba6e9d-48c9-422b-ae2e-2510a11d2b60
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 45Isps23253Yjlaq28GtJ9
 type: quick_reads
 draft: false
 aliases:
   - 18-05-09-quotes/
 _createdAt: '2018-05-09T10:28:22Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:49:23Z'
 date: '2018-05-09T10:28:22+00:00'
+lastmod: '2018-05-09T10:28:22+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,10 +24,8 @@ cards:
       # QUICK QUOTES
 
 
-      > **“Ultimately, I decided my parenting decisions are not going to be
-      based on fear.”**  
-        
-        
+      **“Ultimately, I decided my parenting decisions are not going to be based
+      on fear.”**  
         
       Melissa Butler, mother to 9 year-old Guy & 7-year-old Sammi, on Utah's new
       "free-range parenting" law preventing parents from being prosecuted for
@@ -38,8 +37,6 @@ cards:
       > **“Within the U.S. national security community and among our allies
       around the globe, admiration for her is unsurpassed.”**  
         
-        
-        
       April 9 letter signed by 50 intelligence officials, including 3 Obama-era
       CIA chiefs, supporting Gina Haspel as agency's Director. Critics cite
       torture allegations. Senate hearing set for Wednesday. If confirmed,
@@ -48,18 +45,23 @@ cards:
 
       [CLICK FOR
       Refresher](https://smarthernews.com/18-05-01-gina-haspel-personal-life/)
-    citation: CLICK FOR Refresher
     _key: card-2-770ae19d-90f2-4210-8067-40edf93380ad
   - order: 2
-    body: "> **‘Hey Old Friend a\x14 I’ve been doing some reflecting on past miscommunications and hurt feelings between us…”**  \n  \n  \n  \nDeeply sorry Katy Perry sent a literal olive branch to Taylor Swift which Swift share on Instagram. The years-long feud reportedly started over backup dancers, and may have sparked Swift's 2004 song Bad Blood. Swift's Reputation tour kicked off Tuesday in Phoenix."
+    body: >-
+      > **‘Hey Old Friend, I’ve been doing some reflecting on past
+      miscommunications and hurt feelings between us…”**  
+        
+        
+      Deeply sorry Katy Perry sent a literal olive branch to Taylor Swift which
+      Swift share on Instagram. The years-long feud reportedly started over
+      backup dancers, and may have sparked Swift's 2004 song Bad Blood. Swift's
+      Reputation tour kicked off Tuesday in Phoenix.
     _key: card-3-e89ce6a4-3436-4b3f-9ee0-668dc85a4ae3
   - order: 3
     body: >-
-      > **“Driven by increases in cocaine, methamphetamine and marijuana, drug
-      use by the American workforce remains at its highest rate in more than a
+      **“Driven by increases in cocaine, methamphetamine and marijuana, drug use
+      by the American workforce remains at its highest rate in more than a
       decade.”**  
-        
-        
         
       Quest Diagnostics analysis of 10M workforce drug test results. Cocaine &
       amphetamines positivity surging in some areas of the country and marijuana
@@ -68,10 +70,8 @@ cards:
     _key: card-4-e6dd3920-d679-427b-ac3b-3251589e5313
   - order: 4
     body: >-
-      > **‘No selfies and pictures on the red carpet. Thank you. Offenders will
-      be denied entrance to the screenings.’**  
-        
-        
+      > **"No selfies and pictures on the red carpet. Thank you. Offenders will
+      be denied entrance to the screenings."**  
         
       Warning to ticket holders at Cannes Film Festival. At opening night
       Tuesday, reports the first-of-its-kind ban was adhered to by most, but not

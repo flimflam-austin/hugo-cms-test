@@ -2,14 +2,15 @@
 title: 18.06.25 Qq
 slug: 20190905-18-06-25-qq
 _id: legacy-c26ffbed-1d6a-43fc-b943-4a363192346a
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: 45Isps23253Yjlaq28VuLB
 type: quick_reads
 draft: false
 aliases:
   - 18-06-25-qq/
 _createdAt: '2018-06-25T09:42:02Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T01:50:33Z'
 date: '2018-06-25T09:42:02+00:00'
+lastmod: '2018-06-25T09:42:02+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,7 +24,6 @@ cards:
       > “We cannot allow all of these people to invade our Country. When
       somebody comes in, we must immediately, with no Judges or Court Cases,
       bring them back from where they came.”  
-        
         
         
       Pres. Trump's tweet Sunday sparking immediate criticism saying his
@@ -48,7 +48,6 @@ cards:
       program, the wrath of the entire world will fall upon them.”  
         
         
-        
       U.S. Secretary of State Mike Pompeo warning Iran not to pursue nuclear
       weapons in an interview on MSNBC. Sec Pompeo added that he hoped the US
       would never have to use military action against Iran.
@@ -58,8 +57,6 @@ cards:
       > “He said, ‘But, son, there’s enough of these Americanisms around.
       Couldn’t you sing she loves you, yes, yes, yes?'”  
         
-        
-        
       Legendary singer & musician Paul McCartney on his father's response after
       singing "She loves you" to him for the first time. McCartney joined James
       Corden for an episode of "Carpool Karaoke" in his hometown of Liverpool,
@@ -68,12 +65,10 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/QjvzCTqkBDQ?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-4-e761339d-e489-485b-80e7-78a2d8cb3212
   - order: 4
     body: >-
       > “I really enjoyed it… Having the freedom in my own country.”  
-        
         
         
       Mona Al-Fares on how it felt to be one of the first female drivers in

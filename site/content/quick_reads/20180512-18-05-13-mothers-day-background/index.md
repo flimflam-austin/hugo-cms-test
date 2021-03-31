@@ -2,14 +2,15 @@
 title: 18.05.13 Mother's Day Background
 slug: 20180512-18-05-13-mothers-day-background
 _id: legacy-08764dad-fc74-418b-8e1d-cea916ed82b6
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 0aCMfzqL0erea7otJs2dUm
 type: quick_reads
 draft: false
 aliases:
   - 18-05-13-mothers-day-background/
 _createdAt: '2018-05-13T00:23:48Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-26T00:12:09Z'
 date: '2018-05-13T00:23:48+00:00'
+lastmod: '2018-05-13T00:23:48+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,7 +28,6 @@ cards:
       Anna Jarvis, founder of Mother’s Day, would hate that fact.
 
       FLIP FOR "HERSTORY"
-    citation: FLIP FOR "HERSTORY"
     _key: card-1-109b2ee7-7e8c-491f-9087-0a5ba07a9daa
   - order: 1
     body: >-

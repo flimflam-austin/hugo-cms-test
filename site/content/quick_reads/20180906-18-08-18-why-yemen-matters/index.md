@@ -2,14 +2,15 @@
 title: Will a Crucial Meting Help Keep America Safe?
 slug: 20180906-18-08-18-why-yemen-matters
 _id: legacy-43efabe5-bbb0-461f-8c4d-225d75092126
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 0aCMfzqL0erea7otJxgAw5
 type: quick_reads
 draft: false
 aliases:
   - 18-08-18-why-yemen-matters/
 _createdAt: '2018-09-06T11:58:32Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-27T21:32:24Z'
 date: '2018-09-06T11:58:32+00:00'
+lastmod: '2018-09-06T11:58:32+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
       Will peace talks make us safer?
 
       Why Yemen Matters
-    citation: Why Yemen Matters
     _key: card-1-c8e884f5-3f70-4d97-9013-f30dfe140833
   - order: 1
     body: >-
@@ -39,11 +39,7 @@ cards:
       > Unstable country providesA home for terrorists to fester & launch
       attacks.  
         
-        
-        
       Al-Qaeda in the Arabian Penniusula” (AQAP) calls Yemen home.  
-        
-        
         
       AQ cleric Anwar al-Awlaki found refuge in Yemen, as did al-Qaeda’s lead
       bomb maker who helped launch the so-called underwear bomber.

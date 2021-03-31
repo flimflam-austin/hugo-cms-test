@@ -2,14 +2,15 @@
 title: 18.05.18 Markle Quotes *Saturday*
 slug: 20180518-18-05-18-markle-quotes-friday
 _id: legacy-3bee7be3-e95c-42c1-8e24-974599808c5d
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 45Isps23253Yjlaq28LPLK
 type: quick_reads
 draft: false
 aliases:
   - 18-05-18-markle-quotes-friday/
 _createdAt: '2018-05-18T15:30:50Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:25:50Z'
 date: '2018-05-18T15:30:50+00:00'
+lastmod: '2018-05-18T15:30:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -19,7 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
-    body: "Meghan Markle:  \nIn Her Own Words\n\n> **“It means that a wife is equal to her husband, a sister to her brother. Not better, not worsea\x14they are equal.”**  \n  \n  \n  \nMarkle, on what it meant to her when, at 11, her letter to Proctor & Gamble led them to change their ad from women all over America are fighting greasy pots and pans to people all over America are fighting greasy pots and pans."
+    body: "Meghan Markle:  \nIn Her Own Words\n\n> **“It means that a wife is equal to her husband, a sister to her brother. Not better, not worsea\x14they are equal.”**  \n  \nMarkle, on what it meant to her when, at 11, her letter to Proctor & Gamble led them to change their ad from women all over America are fighting greasy pots and pans to people all over America are fighting greasy pots and pans."
     _key: card-1-b804524a-2809-4102-bd45-a2161802422f
   - order: 1
     body: >-
@@ -27,8 +28,6 @@ cards:
       not mean fighting against the stereotype of gender roles, but embracing
       the idea that one can rule a country and wear lipstick; be a breadwinner
       at work, and a bread baker with her kids at home.”**  
-        
-        
         
       Markle, to the Irish Independent in 2014, on why feminity and feminism are
       not mutially exclusive.
@@ -41,7 +40,6 @@ cards:
       voice my pride in being a strong, confident mixed-race woman.”**  
         
         
-        
       Markle, to Elle Magazine in 2015, on her biracial identity.
     _key: card-3-32fa49a7-7a0b-4485-ae28-3189589f2b85
   - order: 3
@@ -51,14 +49,11 @@ cards:
       through any of those work hurdles, or those life hurdles, because you
       always have yourself championing yourself.”**  
         
-        
-        
       Markle, in an interview at the 2016 Create & Cultivate conference, on
       being kind to yourself.
 
 
       [Watch It Here](https://vimeo.com/189216026)
-    citation: Watch It Here
     _key: card-4-d686de23-03bf-43e8-9782-3db581c7fb5a
   - order: 4
     body: >-

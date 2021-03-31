@@ -2,14 +2,15 @@
 title: 18.05.18 Migraine Medication
 slug: 20180518-18-05-18-migraine-medication
 _id: legacy-61fd6ab8-f60d-47cb-a349-3b07a0af8524
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 0aCMfzqL0erea7otJs3q1h
 type: quick_reads
 draft: false
 aliases:
   - 18-05-18-migraine-medication/
 _createdAt: '2018-05-18T15:25:50Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:24:14Z'
 date: '2018-05-18T15:25:50+00:00'
+lastmod: '2018-05-18T15:25:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Why It Matters
-    citation: Why It Matters
     _key: card-1-d215de60-7a18-40a9-8643-f2f8b3134cf7
   - order: 1
     body: >-
@@ -49,7 +49,6 @@ cards:
 
 
       What Is The Drug?
-    citation: What Is The Drug?
     _key: card-2-c05fd19a-292c-4a4b-88a6-ea9a0441fe0f
   - order: 2
     body: |-
@@ -62,7 +61,6 @@ cards:
       * Available starting next week.
 
       Why Is This A Big Deal?
-    citation: Why Is This A Big Deal?
     _key: card-3-a386b2c3-cb42-4f80-8cef-b4ca3208f1bf
   - order: 3
     body: >-

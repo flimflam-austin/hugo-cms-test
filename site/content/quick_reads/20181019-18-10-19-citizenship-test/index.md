@@ -2,14 +2,15 @@
 title: How Well Do You Know America?
 slug: 20181019-18-10-19-citizenship-test
 _id: legacy-c4a6504a-cd42-4ad5-9ff3-e273af1807df
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: 45Isps23253Yjlaq2DHfO7
 type: quick_reads
 draft: false
 aliases:
   - 18-10-19-citizenship-test/
 _createdAt: '2018-10-19T11:25:12Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:29:30Z'
 date: '2018-10-19T11:25:12+00:00'
+lastmod: '2018-10-19T11:25:12+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,7 +24,6 @@ cards:
       How Well Do You Know America?
 
 
-      ================================
 
 
       While 90% of new immigrants applying for American citizenship pass the
@@ -32,7 +32,6 @@ cards:
 
       [Test your U.S.A.
       GPA](https://www.uscis.gov/sites/default/files/USCIS/Office%20of%20Citizenship/Citizenship%20Resource%20Center%20Site/Publications/100q.pdf)
-    citation: Test your U.S.A. GPA
     _key: card-1-776d7e75-ff95-4968-8e0d-b35c60b51599
   - order: 1
     body: >-
@@ -49,7 +48,6 @@ cards:
 
 
       test yourself
-    citation: test yourself
     _key: card-2-348815a2-44ce-400a-837f-b054ea431ee4
   - order: 2
     body: |-
@@ -58,38 +56,33 @@ cards:
       > 1. When was the U.S. Constitution written?  
         
         
-        
-      2.A How many justices serve on the U.S. Supreme Court?  
-        
+      2. How many justices serve on the U.S. Supreme Court?  
         
         
       3. Who did the U.S. fight in World War II?
 
       FLIP FOR ANSWERS
-    citation: FLIP FOR ANSWERS
     _key: card-3-2aa1c3d0-d618-4747-8087-2b71fca6d770
   - order: 3
     body: |-
-      > 1. Constitution written?A **1787**  
+      > 1. Constitution written? **1787**  
       (13% Answered Correctly)  
         
         
         
-      2. Supreme Court Justices?A **9**  
+      2. Supreme Court Justices? **9**  
       (43% Answered Correctly)  
         
         
         
-      3. WWII enemy?A **Japan, Germany, and Italy**  
+      3. WWII enemy? **Japan, Germany, and Italy**  
       (40% Answered Correctly)
     _key: card-4-e1e32bbb-7573-4783-9292-7c7d5cfae93d
   - order: 4
     body: >-
-      > _‘Unfortunately this study found the average American to be woefully
+      > _"Unfortunately this study found the average American to be woefully
       uninformed regarding America’s history and incapable of passing the U.S.
       Citizenship Test.”_  
-        
-        
         
       Woodrow Wilson Foundation Pres. Arthur Levine on the first of its kind
       survey. Since it's the first survey, we can't compare to past results, but

@@ -2,14 +2,15 @@
 title: 'Quote of the Day: John Lennon'
 slug: 20181208-18-12-08-qtd-john-lennon
 _id: legacy-03c30614-b97a-4406-bcbd-bd3ddd3fd655
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: LotyrYkaRjTl0E452ykLx7
 type: quick_reads
 draft: false
 aliases:
   - 18-12-08-qtd-john-lennon/
 _createdAt: '2018-12-08T13:56:17Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:56:28Z'
 date: '2018-12-08T13:56:17+00:00'
+lastmod: '2018-12-08T13:56:17+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,9 +24,6 @@ cards:
       > “_If someone thinks that love and peace is a cliche that must have been
       left behind in the Sixties, that’s his problem. Love and peace are
       eternal_.”
-
-
-      John Lennon
     citation: John Lennon
     _key: card-1-579335ff-1efc-465c-ba75-a7015df1dd56
   - order: 1

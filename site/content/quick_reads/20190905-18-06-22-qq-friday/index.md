@@ -2,14 +2,15 @@
 title: 18.06.22 Qq Friday
 slug: 20190905-18-06-22-qq-friday
 _id: legacy-bdb647bb-4743-488b-a7e9-6382745fcc3d
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: 0aCMfzqL0erea7otJsDomL
 type: quick_reads
 draft: false
 aliases:
   - 18-06-22-qq-friday/
 _createdAt: '2018-06-22T11:25:41Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T01:48:19Z'
 date: '2018-06-22T11:25:41+00:00'
+lastmod: '2018-06-22T11:25:41+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,23 +33,20 @@ cards:
     _key: card-1-b6f35d49-8342-4d6f-9878-deac7cda2a9a
   - order: 1
     body: >-
-      > ‘I’m directing HHS, DHS, DOJ to work together to keep illegal immigrant
+      > "I’m directing HHS, DHS, DOJ to work together to keep illegal immigrant
       families together during the immigration process and reunite these
       previously separated groups.”  
-        
         
         
       Pres. Trump in a cabinet meeting directing federal agencies to reunite
       immigrant families separated by his administration’s ‘zero tolerance’
       policy. 2,342 children have been separated from their parents between May
-      5 - June 9.A
+      5 - June 9.
     _key: card-2-836e5b1f-6d41-45c7-b3ca-ddce85efc976
   - order: 2
     body: >-
       > “…a game changer for the experience. You can literally go from curb to
       plane without having to interact with a human being if you so desire.”  
-        
-        
         
       Gareth Joyce, Delta SVP of Customer Service, as Orlando International,
       Florida’s busiest airport, becomes the 1st in the nation to require a face
@@ -62,7 +60,6 @@ cards:
       British soil, it’s job one.”  
         
         
-        
       US Ambassador to the UK Robert Wood Johnson, announcing Pres Trump will
       meet Queen Elizabeth next month when he visits Britain. Bloomberg News is
       reporting Pres. Trump may also visit with Russian President Vladimir Putin
@@ -71,7 +68,6 @@ cards:
   - order: 4
     body: >-
       > “Legit bawling like a baby right now. This news just breaks my heart.”  
-        
         
         
       Jess Cameron's Facebook post on Gorilla Foundation's page on the death of

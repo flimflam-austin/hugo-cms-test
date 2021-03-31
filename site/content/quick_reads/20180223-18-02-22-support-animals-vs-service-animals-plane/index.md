@@ -2,14 +2,15 @@
 title: 18.02.22 Support Animals vs Service Animals on Plane
 slug: 20180223-18-02-22-support-animals-vs-service-animals-plane
 _id: legacy-0078fbb8-3217-4019-98dd-605d7eaa4b45
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: 0aCMfzqL0erea7otJrj7zl
 type: quick_reads
 draft: false
 aliases:
   - 18-02-22-support-animals-vs-service-animals-plane/
 _createdAt: '2018-02-23T14:00:55Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:52:47Z'
 date: '2018-02-23T14:00:55+00:00'
+lastmod: '2018-02-23T14:00:55+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       Flip For Why It Matters
-    citation: Flip For Why It Matters
     _key: card-1-c029bfda-ef7c-49c1-872c-7bc0c50ade93
   - order: 1
     body: >-

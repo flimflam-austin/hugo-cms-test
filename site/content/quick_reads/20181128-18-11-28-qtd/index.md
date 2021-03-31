@@ -2,14 +2,15 @@
 title: 'Quote of the Day: President Calvin Coolidge'
 slug: 20181128-18-11-28-qtd
 _id: legacy-9ac12b7a-37d0-4c58-95f4-c03e60f32634
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: 0aCMfzqL0erea7otJxx9f6
 type: quick_reads
 draft: false
 aliases:
   - 18-11-28-qtd/
 _createdAt: '2018-11-28T13:29:43Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:36:14Z'
 date: '2018-11-28T13:29:43+00:00'
+lastmod: '2018-11-28T13:29:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,11 +21,8 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     body: >-
-      > _A ‘The heart of America is with those who made the great sacrifice in
-      defense of our ideals.’_
-
-
-      President Coolidge
+      > _ "The heart of America is with those who made the great sacrifice in
+      defense of our ideals."_
     citation: President Coolidge
     _key: card-1-1a195c95-7f70-4928-855b-b012c372970a
   - order: 1

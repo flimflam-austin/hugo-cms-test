@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-05-15T23:26:43Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-05-15T23:26:43+00:00'
+lastmod: '2020-05-15T23:26:43+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     3cb619c2ad30f0fcdd74821a031cd34b3b5fd7ca-969x1024.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="I2aqQouEf_A" title="Surprise! #AlpacaSunshine" >}}

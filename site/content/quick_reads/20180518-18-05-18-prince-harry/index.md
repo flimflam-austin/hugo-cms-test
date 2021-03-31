@@ -2,14 +2,15 @@
 title: 18.05.18 Prince Harry
 slug: 20180518-18-05-18-prince-harry
 _id: legacy-a065d95c-3bee-46bc-aaa3-dd5544128dad
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 0aCMfzqL0erea7otJs3mUD
 type: quick_reads
 draft: false
 aliases:
   - 18-05-18-prince-harry/
 _createdAt: '2018-05-18T10:00:18Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:23:41Z'
 date: '2018-05-18T10:00:18+00:00'
+lastmod: '2018-05-18T10:00:18+00:00'
 weight: 50
 card_series: Now You Know
 colorpaletteclassname: '--medium-gray'
@@ -21,7 +22,6 @@ cards:
       **The Prince has 4 names …** **none of them are Harry.**
 
       FLIP here for more
-    citation: FLIP here for more
     _key: card-1-46805eae-7c4f-4fd4-9257-d27606eb0694
   - order: 1
     body: >-
@@ -43,11 +43,10 @@ cards:
   - order: 2
     body: >-
       > In 2015, Prince Harry ended his decade-long career in the British Army.
-      During that time, he  
-        
+      During that time, he
 
 
-      * Rose toA rank of Captain
+      * Rose to rank of Captain
 
       * Completed two operational tours of duty in Afghanistan
 
@@ -56,8 +55,9 @@ cards:
       * Spearheaded the Invictus Games
 
 
+
+
       Flip: Why Invictus Games Matter
-    citation: 'Flip: Why Invictus Games Matter'
     _key: card-3-92df9aa9-58f8-41f7-aad3-f2a9e260613a
   - order: 3
     body: >-
@@ -65,8 +65,6 @@ cards:
       wanted to find a way for veterans to be a beacon of light, and show us all
       that we have a role to play; that we all win when we respect our friends,
       neighbors and communities.”  
-        
-        
         
       Prince Harry at the 2017 Invictus Games, the Olympic-style multi-sport
       tournament for wounded veterans he founded in 2014.

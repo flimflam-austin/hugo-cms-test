@@ -2,14 +2,15 @@
 title: 18.06.14 Three Californias
 slug: 20180614-18-06-14-three-californias
 _id: legacy-bc718705-6557-4079-9d66-08d7548724ba
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 45Isps23253Yjlaq28TEQo
 type: quick_reads
 draft: false
 aliases:
   - 18-06-14-three-californias/
 _createdAt: '2018-06-14T10:33:19Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:33:40Z'
 date: '2018-06-14T10:33:19+00:00'
+lastmod: '2018-06-14T10:33:19+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Is this, Like, You know, Like, for real?
-    citation: Is this, Like, You know, Like, for real?
     _key: card-1-725b9bfb-62d8-4b2c-be00-7cc085dfb444
   - order: 1
     body: >-
@@ -48,8 +48,9 @@ cards:
       coastal areas.
 
 
+
+
       [Click to See & Compare](https://cal3.com/compare-the-cas/)
-    citation: Click to See &amp; Compare
     _key: card-2-e352dc78-b056-49ee-a62b-d0bcacf58b15
   - order: 2
     body: >-

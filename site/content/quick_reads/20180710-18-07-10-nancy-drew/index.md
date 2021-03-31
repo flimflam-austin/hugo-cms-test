@@ -2,14 +2,15 @@
 title: 18.07.10 Nancy Drew
 slug: 20180710-18-07-10-nancy-drew
 _id: legacy-d33f642f-8e32-4847-9233-64f49ccb1d0e
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 0aCMfzqL0erea7otJsGmQ4
 type: quick_reads
 draft: false
 aliases:
   - 18-07-10-nancy-drew/
 _createdAt: '2018-07-10T11:51:54Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:20:26Z'
 date: '2018-07-10T11:51:54+00:00'
+lastmod: '2018-07-10T11:51:54+00:00'
 weight: 50
 card_series: On This Day
 colorpaletteclassname: '--light-blue'
@@ -27,7 +28,6 @@ cards:
 
 
       (A.K.A. Carolyn Keene)
-    citation: (A.K.A. Carolyn Keene)
     _key: card-1-d34b94e9-016b-4c72-b8d0-4bbedd9e6876
   - order: 1
     body: >-
@@ -35,7 +35,7 @@ cards:
         
 
 
-      * **Born in rural Iowa**;A few opportunities for women outside the home.
+      * **Born in rural Iowa**; A few opportunities for women outside the home.
 
       * Her parents encouraged her writing pursuits; sheA **won her 1st writing
       award at age 14**.
@@ -53,12 +53,12 @@ cards:
       * Benson met kids book publisher Edward Stratemeyer who had ideas, but
       **needed ghost writers**.
 
-      * Benson wrote**A 23 of 30 original Nancy Drew** stories, establishing
+      * Benson wrote** 23 of 30 original Nancy Drew** stories, establishing
       Nancy’s determination & bravery.
 
       * She wrote the 2nd & 3rd stories in the series at **age 24.**
 
-      * Paid **$125 per book**,A **signed away rights to royalties on books,
+      * Paid **$125 per book**, **signed away rights to royalties on books,
       movies & board games**.
     _key: card-3-01c2d171-30d2-42cc-87f5-e101ce8202b3
   - order: 3

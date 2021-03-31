@@ -2,14 +2,15 @@
 title: u.s. Consulate in Iraq Evacuated
 slug: 20181001-18-10-01-united-states-closing-consulate
 _id: legacy-2045eefa-b0ea-4b3f-ac9e-58fb0ed94fbb
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: LotyrYkaRjTl0E452yiJ5J
 type: quick_reads
 draft: false
 aliases:
   - 18-10-01-united-states-closing-consulate/
 _createdAt: '2018-10-01T11:50:42Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:13:45Z'
 date: '2018-10-01T11:50:42+00:00'
+lastmod: '2018-10-01T11:50:42+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       Why It Matters
-    citation: Why It Matters
     _key: card-1-3c8ee725-428b-4d65-970c-288c7142aa88
   - order: 1
     body: >-
@@ -45,7 +45,6 @@ cards:
 
 
       WHY NOW?
-    citation: WHY NOW?
     _key: card-2-acb90610-d332-4036-98d6-1b7b11e92f22
   - order: 2
     body: >-
@@ -66,8 +65,6 @@ cards:
     body: >-
       > “I have made clear that Iran should understand that the United States
       will respond promptly and appropriately to any such attacks.”  
-        
-        
         
       Sec. of State Mike Pompeo in a statement on the "temporary relocation" of
       U.S. diplomats in Iraq after squarely blaming Iran for attacks and threats

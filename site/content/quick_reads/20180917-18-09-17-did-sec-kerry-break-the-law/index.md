@@ -2,14 +2,15 @@
 title: Did Fmr. Sec of State John Kerry Break the Law?
 slug: 20180917-18-09-17-did-sec-kerry-break-the-law
 _id: legacy-8b60a66b-8ab1-4f9e-a859-adeee818f512
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 45Isps23253Yjlaq2D7GTC
 type: quick_reads
 draft: false
 aliases:
   - 18-09-17-did-sec-kerry-break-the-law/
 _createdAt: '2018-09-17T01:17:40Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:05:17Z'
 date: '2018-09-17T01:17:40+00:00'
+lastmod: '2018-09-17T01:17:40+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,13 +26,9 @@ cards:
 
       > Tensions between Iran & America heat up overseas.  
         
-        
-        
       Meanwhile, Fmr. Sec. of State John Kerry admits to meeting with the
       Iranian Foreign Minister and discussing matters of great national
       importance to the United States.  
-        
-        
         
       Why some say he belongs in jail.
     _key: card-1-f9a00940-dfd9-44b6-ba9b-ab6c99807b85
@@ -42,8 +39,6 @@ cards:
 
       > Sec. Kerry on a radio show last week promoting his new book admitted to
       meeting with the Iranian Foreign Minister after he left office:  
-        
-        
         
       _“I met with him at a conference in Norway. I think I saw him in a
       conference in Munich at the World Economic Forum. So I’ve probably seen
@@ -80,7 +75,7 @@ cards:
       years.**
     _key: card-4-b29e2613-f4db-4506-8706-2d3bd1b25916
   - order: 4
-    body: "> “I’ll leave the legal determinations to others. But what Secretary Kerry has done is unseemly and unprecedented. This is a former secretary of state engaged with the world’s largest state sponsor of terror, and according to him a\x13 right? You don’t have to take my word for it….He was talking to them. He was telling them to wait out this administration.”  \n  \n  \n  \nSec of State Mike Pompeo"
+    body: "> “I’ll leave the legal determinations to others. But what Secretary Kerry has done is unseemly and unprecedented. This is a former secretary of state engaged with the world’s largest state sponsor of terror, and according to him a\x13 right? You don’t have to take my word for it….He was talking to them. He was telling them to wait out this administration.”  \n  \nSec of State Mike Pompeo"
     _key: card-5-16261167-758b-48a4-8aa2-23630762d819
   - order: 5
     body: >-

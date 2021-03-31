@@ -2,14 +2,15 @@
 title: 18.06.14 Fed Moves
 slug: 20180614-18-06-14-fed-moves
 _id: legacy-01de70d7-5696-4f00-8cdd-1753db98c16f
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 0aCMfzqL0erea7otJsBR6j
 type: quick_reads
 draft: false
 aliases:
   - 18-06-14-fed-moves/
 _createdAt: '2018-06-14T10:32:15Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:32:50Z'
 date: '2018-06-14T10:32:15+00:00'
+lastmod: '2018-06-14T10:32:15+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,7 +28,6 @@ cards:
       Why the Federal Reserve is taking action to cool things off.
 
       HOW IT IMPACTS YOU.
-    citation: HOW IT IMPACTS YOU.
     _key: card-1-9286a013-8cfa-4c85-892a-a93a1f81ebd2
   - order: 1
     body: >-

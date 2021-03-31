@@ -2,21 +2,22 @@
 title: 18.04.26 Two Meetings
 slug: 20180427-18-04-26-two-meetings
 _id: legacy-e6ad1b05-64d2-444e-ba0c-b70e9dfa7b0e
-_rev: O8E8pz1fLwnc3fN7JVF0RC
+_rev: 45Isps23253Yjlaq28DLhB
 type: quick_reads
 draft: false
 aliases:
   - 18-04-26-two-meetings/
 _createdAt: '2018-04-27T11:00:05Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:23:13Z'
 date: '2018-04-27T11:00:05+00:00'
+lastmod: '2018-04-27T11:00:05+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
   url: >-
     7da549e044ce64f5b17b01865bdab45a141c32fb-2560x1707.jpg
 card_series: Current Events
-colorpaletteclassname: '--default'
+colorpaletteclassname: '--white'
 cards:
   - order: 0
     body: >-

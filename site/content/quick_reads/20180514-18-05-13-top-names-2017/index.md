@@ -2,14 +2,15 @@
 title: 18.05.13 Top Names of 2017
 slug: 20180514-18-05-13-top-names-2017
 _id: legacy-5ed14302-1520-44b0-824b-6f480860aa54
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 45Isps23253Yjlaq28K8CY
 type: quick_reads
 draft: false
 aliases:
   - 18-05-13-top-names-2017/
 _createdAt: '2018-05-14T11:10:05Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-26T00:13:29Z'
 date: '2018-05-14T11:10:05+00:00'
+lastmod: '2018-05-14T11:10:05+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Flip For Top Names
-    citation: Flip For Top Names
     _key: card-1-74e9dc29-a649-4f41-a5be-c80c9ad99fd0
   - order: 1
     body: >-
@@ -50,7 +50,6 @@ cards:
 
 
       What Names Moved Up/Down?
-    citation: What Names Moved Up/Down?
     _key: card-2-817f1f3c-5945-48fe-9da5-8fc341b89130
   - order: 2
     body: >-

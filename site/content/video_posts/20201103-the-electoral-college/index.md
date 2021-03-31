@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-10-30T05:11:32Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-10-30T05:11:32+00:00'
+lastmod: '2020-10-30T05:11:32+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     d96571889d21aee65c019d6207e7797c187691a5-843x1024.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="sTHAkc46SiE" title="The Electoral College - Where It Comes From & Why It Matters" >}}

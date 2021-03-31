@@ -10,6 +10,7 @@ aliases:
 _createdAt: '2018-06-18T11:02:18Z'
 _updatedAt: '2021-03-22T13:11:15Z'
 date: '2018-06-18T11:02:18+00:00'
+lastmod: '2018-06-18T11:02:18+00:00'
 weight: 50
 card_series: Quotes
 colorpaletteclassname: '--light-purple'

@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Monday, December 3, 2018
 slug: 20190905-qq-2
 _id: legacy-3675faed-dd57-4b32-beca-69a0d5dc49f6
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 45Isps23253Yjlaq2DJlph
 type: quick_reads
 draft: false
 aliases:
   - qq-2/
 _createdAt: '2018-12-03T12:49:57Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:46:01Z'
 date: '2018-12-03T12:49:57+00:00'
+lastmod: '2018-12-03T12:49:57+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,8 +24,6 @@ cards:
       > “This is probably the best case scenario that markets were hoping
       for…”  
         
-        
-        
       Rakuten Securities Australia as the U.S. & China agree to postpone new
       tariffs and continue talks for 90 days. Meeting on the sidelines of the
       G20 Saturday, Presidents Trump & Xi's trade truce was broadly seen as
@@ -33,8 +32,7 @@ cards:
     _key: card-1-d08eb911-29b6-4f3d-bb4b-f0e1d96f6c00
   - order: 1
     body: >-
-      > “Nothing felt safe. Nowhere felt safe.’  
-        
+      > “Nothing felt safe. Nowhere felt safe."  
         
         
       Emily Grove of Anchorage, Alaska taking cover in her bathtub after
@@ -47,8 +45,6 @@ cards:
     body: >-
       > “People work and pay a lot of taxes and we are fed up.”  
         
-        
-        
       Rabah Mendez, protesting as part of the worst riots in a decade in Paris.
       Activists dubbed the "yellow jackets" have torched cars, looted shops, and
       even sprayed the famed Arc de Triomphe with graffiti. Over 400 people were
@@ -57,10 +53,8 @@ cards:
     _key: card-3-3b36c109-88c0-4e3d-9910-a6cd59c13d9c
   - order: 3
     body: >-
-      > “That’s a lie. And it’s not always enough to lean in, because that s***
+      “That’s a lie. And it’s not always enough to lean in, because that s***
       doesn’t work all the time.”  
-        
-        
         
       Former First Lady Michelle Obama speaking to a sold-out NYC crowd for her
       new memoir Becoming about why sometimes women can't have it all. Obama
@@ -70,10 +64,8 @@ cards:
     _key: card-4-9c04080d-e411-43ac-ac71-880c72e9a3ed
   - order: 4
     body: >-
-      > “We just presumed it was gone. In the end, we had no choice but to walk
+      “We just presumed it was gone. In the end, we had no choice but to walk
       away…”  
-        
-        
         
       John Drennan after losing the engagement ring he used hours earlier to
       propose to his girlfriend of 10 years Daniella Anthony. The ring slid off

@@ -2,14 +2,15 @@
 title: 18.03.01 Women's History Month
 slug: 20200301-18-03-01-womens-history-month
 _id: legacy-4bbbb35e-f166-454f-8715-c3ef2f49a98f
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: LotyrYkaRjTl0E452wNwG5
 type: quick_reads
 draft: false
 aliases:
   - 18-03-01-womens-history-month/
 _createdAt: '2018-03-01T10:00:42Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-25T22:04:32Z'
 date: '2018-03-01T10:00:42+00:00'
+lastmod: '2018-03-01T10:00:42+00:00'
 weight: 50
 card_series: Current Events
 colorpaletteclassname: '--dark-purple'
@@ -48,7 +49,6 @@ cards:
 
       [President Reagan's 1982
       Proclamation](http://www.presidency.ucsb.edu/ws/index.php?pid=42216)
-    citation: President Reagan's 1982 Proclamation
     _key: card-3-9a69d1a3-8e60-4851-97f9-4764a6fb4f3b
   - order: 3
     body: >-

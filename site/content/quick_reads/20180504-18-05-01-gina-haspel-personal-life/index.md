@@ -2,14 +2,15 @@
 title: 18.05.01 Gina Haspel Personal Life
 slug: 20180504-18-05-01-gina-haspel-personal-life
 _id: legacy-17a44b84-adc4-4594-9f7d-8774b3259841
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 0aCMfzqL0erea7otJrxoEY
 type: quick_reads
 draft: false
 aliases:
   - 18-05-01-gina-haspel-personal-life/
 _createdAt: '2018-05-04T10:54:30Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:41:27Z'
 date: '2018-05-04T10:54:30+00:00'
+lastmod: '2018-05-04T10:54:30+00:00'
 weight: 50
 card_series: Current Events
 colorpaletteclassname: '--black'
@@ -22,8 +23,6 @@ cards:
       > “It was right out of a spy novel. It really didn’t get any better than
       that.’  
         
-        
-        
       America finally hears from acting CIA Dir Gina Haspel about her life as a
       spy. As Fmr. Dir Mike Pompeo works his first full week as Sec. of State,
       attention shifts to whether or not Congress will confirm Haspel as FIRST
@@ -31,7 +30,6 @@ cards:
 
 
       Flip For More
-    citation: Flip For More
     _key: card-1-0460a68c-a35b-4392-a9a6-c7566176c5c3
   - order: 1
     body: >-
@@ -48,7 +46,6 @@ cards:
 
 
       Flip: Who is haspel?
-    citation: 'Flip: Who is haspel?'
     _key: card-2-009dcd92-0f3f-41f4-9654-4dc8b4d19b27
   - order: 2
     body: >-

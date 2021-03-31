@@ -2,14 +2,15 @@
 title: 18.01.31 Smarther Mission
 slug: 20191203-18-01-31
 _id: legacy-6e0f79cf-7f2c-47b0-a9ff-12f258ce282b
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 0aCMfzqL0erea7otJrU3Xr
 type: quick_reads
 draft: false
 aliases:
   - 18-01-31/
 _createdAt: '2018-01-31T14:33:42Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-25T20:36:33Z'
 date: '2018-01-31T14:33:42+00:00'
+lastmod: '2018-01-31T14:33:42+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,9 +35,10 @@ cards:
       * Bullet-Points; No Bias
 
 
+
+
       [Watch
       Now](https://www.youtube.com/embed/tGquvWuk0kk?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-76e45289-f8e7-40ef-a052-2f777f044165
   - order: 1
     body: '[view sources](https://smarthernews.com/18-01-31/)'

@@ -2,14 +2,15 @@
 title: 18.06.18 Baseball Attendance
 slug: 20180618-18-06-18-baseball-attendance
 _id: legacy-c45c80fe-2d1d-499c-8b40-0bf19973813f
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 0aCMfzqL0erea7otJsBm22
 type: quick_reads
 draft: false
 aliases:
   - 18-06-18-baseball-attendance/
 _createdAt: '2018-06-18T11:03:01Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:36:54Z'
 date: '2018-06-18T11:03:01+00:00'
+lastmod: '2018-06-18T11:03:01+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       FLIP: WHIFF & A MISS
-    citation: 'FLIP: WHIFF &amp; A MISS'
     _key: card-1-212184cc-c02d-49da-9a55-5162e7842327
   - order: 1
     body: >-

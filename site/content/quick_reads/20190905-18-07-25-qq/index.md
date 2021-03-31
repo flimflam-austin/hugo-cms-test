@@ -2,14 +2,15 @@
 title: 18.07.25 Qq
 slug: 20190905-18-07-25-qq
 _id: legacy-cf687729-350b-45a6-a484-2cc104757183
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: 0aCMfzqL0erea7otJuYa6L
 type: quick_reads
 draft: false
 aliases:
   - 18-07-25-qq/
 _createdAt: '2018-07-25T10:56:47Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T17:42:43Z'
 date: '2018-07-25T10:56:47+00:00'
+lastmod: '2018-07-25T10:56:47+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -19,15 +20,12 @@ card_series: Quotes
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
-    body: "> “We’re preparing for an avalanche. Emails, telephone calls a\x14 we may see upwards of 500 calls a day.”  \n  \n  \n  \nReal Estate agent Ernie Carswell on listing the Brady Bunch house in Studio City, CA at $1.885M. The homeowners bought it in 1973 for $61K before the home's now iconic exterior was used on the show. The interiors were shot on an LA soundstage.\n\n[Click For Photos](https://www.elliman.com/listing-photos?l=d1a50e7a72cf956bea8e2a14fa1adcb1766560b71fc88087-3367d58f219ae1fb0e3243f58ea17f4559a4cb27)"
-    citation: Click For Photos
+    body: "> “We’re preparing for an avalanche. Emails, telephone calls a\x14 we may see upwards of 500 calls a day.”  \n  \nReal Estate agent Ernie Carswell on listing the Brady Bunch house in Studio City, CA at $1.885M. The homeowners bought it in 1973 for $61K before the home's now iconic exterior was used on the show. The interiors were shot on an LA soundstage.\n\n[Click For Photos](https://www.elliman.com/listing-photos?l=d1a50e7a72cf956bea8e2a14fa1adcb1766560b71fc88087-3367d58f219ae1fb0e3243f58ea17f4559a4cb27)"
     _key: card-1-beb00eae-afed-4a11-a9ac-12086c53b0e7
   - order: 1
     body: >-
       > “…other nations cannot bully our agricultural producers to force the
-      United States to cave in.’  
-        
-        
+      United States to cave in."  
         
       Secretary of Agriculture Sonny Perdue on the one-time, $12B emergency
       relief for farmers affected by tariffs. $34B in tariffs have been slapped
@@ -37,11 +35,9 @@ cards:
     _key: card-2-02d8bebd-bd3a-41f2-83ff-c891b76ef956
   - order: 2
     body: >-
-      > “I do not know when or if I will ever return to the business, but I do
+      “I do not know when or if I will ever return to the business, but I do
       know that my focus for the foreseeable future will be the work I am doing
       here in Washington.”  
-        
-        
         
       Ivanka Trump on her decision to shut down her fashion line to focus on her
       White House role. She resigned from the day-to-day operations last year to
@@ -53,7 +49,6 @@ cards:
     body: >-
       > “This beast was clearly one of the biggest that ever walked in North
       America.”  
-        
         
         
       Emanuel Tschopp, a postdoctoral fellow at the American Museum of Natural
@@ -74,7 +69,6 @@ cards:
 
 
       [See her Insta post](https://www.instagram.com/p/BlnwAWIH5Y6/)
-    citation: See her Insta post
     _key: card-5-aa71e426-5948-4730-9f6f-75c3bea6f085
   - order: 5
     body: '[view sources](https://smarthernews.com/18-07-25-qq/)'

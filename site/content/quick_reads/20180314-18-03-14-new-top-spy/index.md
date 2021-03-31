@@ -2,14 +2,15 @@
 title: 18.03.14 New Top Spy?
 slug: 20180314-18-03-14-new-top-spy
 _id: legacy-2fda429a-85cc-474f-b9b8-b942f37978aa
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: LotyrYkaRjTl0E452wPGs9
 type: quick_reads
 draft: false
 aliases:
   - 18-03-14-new-top-spy/
 _createdAt: '2018-03-14T10:29:34Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:21:12Z'
 date: '2018-03-14T10:29:34+00:00'
+lastmod: '2018-03-14T10:29:34+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,7 +24,7 @@ cards:
       # Nation’s New Top Spy?
 
 
-      ## \*Gina Haspel\*
+      ## Gina Haspel
 
 
       First woman nominated to be CIA Director; not ‘official’ until confirmed
@@ -35,7 +36,6 @@ cards:
 
 
       Flip To Learn More
-    citation: Flip To Learn More
     _key: card-1-1e138464-5183-4a44-b03a-99c17374e5ff
   - order: 1
     body: >-
@@ -82,7 +82,6 @@ cards:
       Some Dems/GOP concerned about her role in our interrogation programs.
 
       Flip For Why:
-    citation: 'Flip For Why:'
     _key: card-4-999dfda0-2a9b-424e-8630-ae6154ac8e77
   - order: 4
     body: >-
@@ -135,7 +134,6 @@ cards:
 
 
       [Click HERE to apply:](https://www.cia.gov/careers/application-process)
-    citation: 'Click HERE to apply:'
     _key: card-8-da1c8dee-2b7e-4596-ad42-87f7323e556b
   - order: 8
     body: '[view sources](https://smarthernews.com/18-03-14-new-top-spy/)'

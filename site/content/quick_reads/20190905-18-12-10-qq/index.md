@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Monday, December 10, 2018
 slug: 20190905-18-12-10-qq
 _id: legacy-e6b93430-2175-4cea-9fa8-1ea61ff55985
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 0aCMfzqL0erea7otJxzmNW
 type: quick_reads
 draft: false
 aliases:
   - 18-12-10-qq/
 _createdAt: '2018-12-10T12:38:26Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:58:02Z'
 date: '2018-12-10T12:38:26+00:00'
+lastmod: '2018-12-10T12:38:26+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,8 +23,6 @@ cards:
     body: >-
       > “A winter storm’s not a Christmas carol snow. It’s serious.”  
         
-        
-        
       North Carolina Gov. Roy Cooper as 12-20 inches of snow pummeled the state
       this weekend - more than many areas typically see in an entire year. The
       heavy, wet snow caused trees and power lines to snap with over 200,000
@@ -33,8 +32,6 @@ cards:
     body: >-
       > “People don’t want to stop because we want the President to go.”  
         
-        
-        
       Ilda, protester, as 71 people were injured in the 4th week of protests
       over the cost of living in France. French President Emmanuel Macron, who
       has been the target of protesters' anger, is expected to address the
@@ -42,11 +39,9 @@ cards:
     _key: card-2-6aba77e7-8ce9-422f-92cc-47c82817e41a
   - order: 2
     body: >-
-      > ‘When I say if this deal does not pass we would truly be in uncharted
+      > "When I say if this deal does not pass we would truly be in uncharted
       waters, I hope people understand this is what I genuinely believe and fear
       could happen.”  
-        
-        
         
       UK Prime Minister Theresa May ahead of Tuesday's vote in Parliament on a
       deal to leave the European Union. She warns of grave uncertainty if no
@@ -58,8 +53,6 @@ cards:
       > “It’s possible that we would be interested. If they were going to sell a
       plant or not use it that we would take it over.”  
         
-        
-        
       Tesla CEO Elon Musk on Tesla's plans to expand, possibly into some of the
       five plants General Motors announced it will close as part of
       restructuring plan, which will lay off 14,000 workers to focus on electric
@@ -70,8 +63,6 @@ cards:
     body: >-
       > “Imagine the loyalty of hanging in in the worst of circumstances and
       being here waiting.”  
-        
-        
         
       Andrea Gaylord speaking about her dog who survived California's most
       deadly and destructive fire, protecting the ruins of the home for nearly a

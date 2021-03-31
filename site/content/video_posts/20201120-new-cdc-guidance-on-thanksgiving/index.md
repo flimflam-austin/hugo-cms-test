@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-11-20T03:49:43Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-11-20T03:49:43+00:00'
+lastmod: '2020-11-20T03:49:43+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     58072f9a4f1ef7c4ebf390d14d3f583a7904f868-764x1024.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id=-dSs21z8pQI" title="**NEW** CDC Guidance on Thanksgiving & **DEVELOPMENTS** On A COVID-19 Vaccine (DESKTOP Version)" >}}

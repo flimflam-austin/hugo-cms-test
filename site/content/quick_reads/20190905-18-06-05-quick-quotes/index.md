@@ -2,14 +2,15 @@
 title: 18.06.05. Quick Quotes
 slug: 20190905-18-06-05-quick-quotes
 _id: legacy-dba27083-4a8c-4e4d-85a8-4656bc04e27a
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 45Isps23253Yjlaq28Qgd1
 type: quick_reads
 draft: false
 aliases:
   - 18-06-05-quick-quotes/
 _createdAt: '2018-06-07T10:51:24Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-26T01:06:47Z'
 date: '2018-06-07T10:51:24+00:00'
+lastmod: '2018-06-07T10:51:24+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,8 +25,6 @@ cards:
       month in a row **more than 50,000 illegal border crossers were
       apprehended**.”  
         
-        
-        
       DHS Press Secretary Tyler Q. Houlton. This is an increase of 160% from May
       2017. Compared to May 2017, family apprehensions jumped by 435% and
       apprehensions of unaccompanied minors went up by more than 300%.
@@ -35,8 +34,6 @@ cards:
       > “I hope to continue this important work by working together with
       organizations who have been fighting this fight for much longer than I
       have and deserve the recognition.”  
-        
-        
         
       Kim Kardashian West after she learned Pres. Trump commuted the sentence of
       Alice Marie Johnson, a woman serving a life sentence without parole for
@@ -48,7 +45,6 @@ cards:
       > ‘It looks like the lobster was cooked.”  
         
         
-        
       Josh Naughton, Dir of Deli, Seafood and Bakery at the Westborough Roche
       Bros. supermarket talking to Newsweek about a super rare, 1 in 30 million
       lobster, delivered at random to the grocery. The phenom was saved from
@@ -56,11 +52,9 @@ cards:
     _key: card-3-9efd600d-df55-49c2-ac58-5eb9c255614d
   - order: 3
     body: >-
-      > ‘As a result of the screening process so far, the department has sent a
+      > "As a result of the screening process so far, the department has sent a
       number of individuals for further evaluation and a comprehensive
       assessment of their symptoms and findings in the United States.”  
-        
-        
         
       State Dept spokeswoman Heather Nauert on the removal of gov't workers from
       the U.S. Consulate in Guangzhou, China. Staffers are said to be suffering

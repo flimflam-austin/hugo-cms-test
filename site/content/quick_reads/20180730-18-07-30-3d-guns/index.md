@@ -2,14 +2,15 @@
 title: 18.07.30 3d Guns
 slug: 20180730-18-07-30-3d-guns
 _id: legacy-0836ff52-b23d-45bc-94f2-684ef37e2fb2
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: LotyrYkaRjTl0E452xRXLZ
 type: quick_reads
 draft: false
 aliases:
   - 18-07-30-3d-guns/
 _createdAt: '2018-07-30T11:52:23Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T17:48:12Z'
 date: '2018-07-30T11:52:23+00:00'
+lastmod: '2018-07-30T11:52:23+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -33,7 +34,6 @@ cards:
 
 
       What Every Family Should Know
-    citation: What Every Family Should Know
     _key: card-1-1357ab5a-8bee-4241-854a-725ef59787c7
   - order: 1
     body: >-
@@ -67,14 +67,12 @@ cards:
     _key: card-3-1809be2d-147b-411d-b6f4-4e0cfdd5a62c
   - order: 3
     body: >-
-      > **_‘…would enable convicted felons & domestic abusers to download
+      **_"…would enable convicted felons & domestic abusers to download
       schematics online & print their own illegal & untraceable guns.”_**  
 
       Nick Suplina, Everytown for Gun Safety Managing Director  
         
-        
-        
-      **_‘I don’t see it likely at all that criminals will use this clunky and
+      **_"I don’t see it likely at all that criminals will use this clunky and
       expensive technology.”_**  
 
       Lawrence Keane,A National Shooting Sports FoundationA general counsel
@@ -88,8 +86,8 @@ cards:
       efficiency; some say 3D-printed guns will explode in user’s face after one
       shot. Critics argue technology will get better & less expensive
 
-      * **COST:**A 3D Printers cost**A $5K – $600K.**A A standard gun costs
-      **only a few**A **hundred of dollars**.
+      * **COST:**A 3D Printers cost **$5K – $600K.** A standard gun costs **only
+      a few hundred of dollars**.
     _key: card-5-867bd179-8f8c-4357-ad98-786183ccbe54
   - order: 5
     body: >-

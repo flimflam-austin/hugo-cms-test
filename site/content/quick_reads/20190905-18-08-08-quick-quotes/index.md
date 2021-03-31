@@ -2,14 +2,15 @@
 title: 18.08.08 Quick Quotes
 slug: 20190905-18-08-08-quick-quotes
 _id: legacy-284fa308-f60e-40b7-80e9-1a6874851dbe
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 0aCMfzqL0erea7otJuuRgz
 type: quick_reads
 draft: false
 aliases:
   - 18-08-08-quick-quotes/
 _createdAt: '2018-08-08T11:58:42Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-26T19:41:28Z'
 date: '2018-08-08T11:58:42+00:00'
+lastmod: '2018-08-08T11:58:42+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,10 +33,9 @@ cards:
     _key: card-1-829c8f13-59cc-446e-97ef-7e1c38ff3d5e
   - order: 1
     body: >-
-      > ‘Weather-wise, we are still seeing a lot of heat throughout California
+      > "Weather-wise, we are still seeing a lot of heat throughout California
       and every day the vegetation is getting even drier, so conditions could
-      get worse before they get better.’  
-        
+      get worse before they get better."  
         
         
       Jonathan Cox, Northern California battalion chief for the CA Department of
@@ -44,8 +44,8 @@ cards:
     _key: card-2-55f1ed2b-f396-40ff-a5ce-d9772ca559c0
   - order: 2
     body: >-
-      > ‘The jury’s still out on how big a threat this is, but we think it’s a
-      very important question to address.’  
+      > "The jury’s still out on how big a threat this is, but we think it’s a
+      very important question to address."  
         
         
         
@@ -56,12 +56,12 @@ cards:
     _key: card-3-ed097d43-a307-4251-99e7-ddc3cc88ac5d
   - order: 3
     body: >-
-      > ‘The process has been great, everyone has been really nice to me and I
-      can’t wait to see where this goes.’  
+      > "The process has been great, everyone has been really nice to me and I
+      can’t wait to see where this goes."  
         
-        
-        
-      Jesse Hernandez (25), the first male to earn a spot on the New Orleans
+
+
+      > Jesse Hernandez (25), the first male to earn a spot on the New Orleans
       Saints dance squad as a Saintsation. In March, the L.A. Rams announced two
       male cheerleaders. NFL teams have hired stuntmen, but not male dancers to
       cheer along side the mainly all-women teams. NFL pre-season kicks off

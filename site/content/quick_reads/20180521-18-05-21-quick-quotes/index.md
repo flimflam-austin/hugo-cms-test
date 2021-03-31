@@ -2,14 +2,15 @@
 title: 18.05.21 Quick Quotes
 slug: 20180521-18-05-21-quick-quotes
 _id: legacy-da31b2d1-0feb-4d70-a5b6-1a251309ca18
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 45Isps23253Yjlaq28LhJb
 type: quick_reads
 draft: false
 aliases:
   - 18-05-21-quick-quotes/
 _createdAt: '2018-05-21T10:32:41Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:29:06Z'
 date: '2018-05-21T10:32:41+00:00'
+lastmod: '2018-05-21T10:32:41+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,11 +24,9 @@ cards:
       # QUICK QUOTES
 
 
-      > **“I hereby demand, and will do so officially tomorrow, that the
+      **“I hereby demand, and will do so officially tomorrow, that the
       Department of Justice look into whether or not the FBI/DOJ infiltrated or
       surveilled the Trump Campaign for Political Purposes…”**  
-        
-        
         
       Pres. Trump on Twitter Sunday after reports an FBI informant had talked to
       campaign advisers to solicit information for its Russia investigation.
@@ -38,7 +37,6 @@ cards:
       ‘Laurel’ Guy.”**  
         
         
-        
       Actor Jay Aubrey Jones, the voice behind the viral sensation "Yanny or
       Laurel", on whether or not he'll add the work to his resume. For the
       record, he hears "laurel" and that was the word he was recording for
@@ -47,14 +45,12 @@ cards:
 
       [Listen: You
       decide](https://twitter.com/CloeCouture/status/996218489831473152?tfw_creator=ForTheWin&tfw_site=forthewin&ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fftw.usatoday.com%2F2018%2F05%2Flaurel-or-yanny-audio-clip-video-twitter-crazy-what-poll-please-vote-help)
-    citation: 'Listen: You decide'
     _key: card-2-ee88f70b-86ee-4de5-a878-cf49cbfb96a9
   - order: 2
     body: >-
       > **“We’re putting the trade war on hold, so right now we have agreed to
       put the tariffs on hold while we try to execute the framework. …We have an
       agreement with China that they’re going to substantially agree to it.”**  
-        
         
         
       Treasury Secretary Steve Mnuchin on Fox News Sunday announcing the U.S.
@@ -66,7 +62,6 @@ cards:
       everyone is welcome.”**  
         
         
-        
       Statement from Starbucks announcing a new policy allowing anyone to sit in
       its cafes or use its restrooms, even if they don't buy anything. The move
       comes 5 weeks after 2 black men who hadn't bought anything were arrested
@@ -74,11 +69,9 @@ cards:
     _key: card-4-c46688d2-c8af-4594-a364-9ffaa60ae107
   - order: 4
     body: >-
-      > **“A sweet, slightlyA musky, vanilla-like fragrance, with slight
+      > **“A sweet, slightly musky, vanilla-like fragrance, with slight
       overtones of cherry, and the natural smell of a salted, wheat-based
       dough.”**  
-        
-        
         
       How Hasbro describes its now trademarked smell of Play-Doh. Since its
       creation in 1956, few changes have been made to Play-Doh's recipe & its
@@ -87,7 +80,6 @@ cards:
 
       [CLICK: How does one trademark a
       smell?](https://mashable.com/2018/05/19/hasbro-play-doh-smell-trademark/)
-    citation: 'CLICK: How does one trademark a smell?'
     _key: card-5-21c915d8-0bbf-4a4f-8bc0-8ba12cfdc896
   - order: 5
     body: |-

@@ -2,14 +2,15 @@
 title: 6.6.18 Dday Turns 74
 slug: 20180606-6-6-18-dday-turns-74
 _id: legacy-9df71830-ba53-45b3-bd6c-1acf119fe9d5
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: LotyrYkaRjTl0E452wXV49
 type: quick_reads
 draft: false
 aliases:
   - 6-6-18-dday-turns-74/
 _createdAt: '2018-06-06T10:46:43Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:03:32Z'
 date: '2018-06-06T10:46:43+00:00'
+lastmod: '2018-06-06T10:46:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -19,8 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
-    body: "# D-Day June 6, 1944\n\n## 74 YEARS AGO TODAY\n\n> **“Two kinds of people are staying on this beacha\x14the dead and those who are going to die.”**  \n  \n  \n  \nCol. George A. Taylor, commanding the Sixteenth Infantry Regiment, First Infantry Division, on Omaha Beach.\n\nWhy D...Day? Flip"
-    citation: Why "D"...Day? Flip
+    body: "# D-Day June 6, 1944\n\n## 74 YEARS AGO TODAY\n\n> **“Two kinds of people are staying on this beacha\x14the dead and those who are going to die.”**  \nCol. George A. Taylor, commanding the Sixteenth Infantry Regiment, First Infantry Division, on Omaha Beach.\n\nWhy D...Day? Flip"
     _key: card-1-0daa590c-debc-4ce9-89c2-f14234e919e6
   - order: 1
     body: >-
@@ -49,7 +49,6 @@ cards:
 
 
       Flip: Hitler's Reaction
-    citation: 'Flip: Hitler''s Reaction'
     _key: card-3-d23990a9-d4e6-473a-9517-e530e8e3ad0b
   - order: 3
     body: >-
@@ -67,7 +66,6 @@ cards:
 
 
       What's D - in D-Day?
-    citation: What's "D" - in D-Day?
     _key: card-4-6facd8b1-9740-4152-b6bc-a2a7ce344144
   - order: 4
     body: >-

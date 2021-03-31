@@ -2,14 +2,15 @@
 title: What Is Essence?
 slug: 20180829-18-08-29-essence
 _id: legacy-23d73402-eede-48a4-ad93-61bc31ef2199
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 0aCMfzqL0erea7otJxaLPI
 type: quick_reads
 draft: false
 aliases:
   - 18-08-29-essence/
 _createdAt: '2018-08-29T11:35:03Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-27T20:51:02Z'
 date: '2018-08-29T11:35:03+00:00'
+lastmod: '2018-08-29T11:35:03+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       100 bucks?! Worth it?
-    citation: 100 bucks?! Worth it?
     _key: card-1-686cc83f-9ceb-492e-9724-b9cef1af1495
   - order: 1
     body: >-

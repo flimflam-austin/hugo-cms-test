@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2021-01-04T05:29:13Z'
 _updatedAt: '2021-03-22T13:12:00Z'
 date: '2021-01-04T05:29:13+00:00'
+lastmod: '2021-01-04T05:29:13+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     0ebe129db73984389cd5a08a9b42b5855178cc77-984x1024.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="8CjZtxoW7FA" title="What To Know & Why It Matters: First Full Week of 2021" >}}

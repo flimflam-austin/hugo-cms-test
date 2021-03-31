@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-09-02T19:03:18Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-09-02T19:03:18+00:00'
+lastmod: '2020-09-02T19:03:18+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     5749c8f211e32ddd411690f8ad1d3b33d21c82f0-769x1024.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="giWQLHTP7Ac" title="*NEW INFORMATION*: Missing Children & COVID-19" >}}

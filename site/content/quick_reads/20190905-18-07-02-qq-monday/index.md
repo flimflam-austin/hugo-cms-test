@@ -2,14 +2,15 @@
 title: 18.07.02 Qq Monday
 slug: 20190905-18-07-02-qq-monday
 _id: legacy-9c0790c0-7270-493c-9393-faf1c067debb
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: LotyrYkaRjTl0E452waI5N
 type: quick_reads
 draft: false
 aliases:
   - 18-07-02-qq-monday/
 _createdAt: '2018-07-02T10:30:29Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T02:04:34Z'
 date: '2018-07-02T10:30:29+00:00'
+lastmod: '2018-07-02T10:30:29+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,8 +32,8 @@ cards:
     _key: card-1-6250fc15-f0fb-4b6b-96f6-a1cedb7afb6d
   - order: 1
     body: >-
-      > ‘…today the people will decide between more of the same or a real
-      change.’  
+      > "…today the people will decide between more of the same or a real
+      change."  
         
         
         
@@ -43,7 +44,6 @@ cards:
 
 
       [SMARTHER REFRESHER](https://smarthernews.com/18-06-29-mexico-elections/)
-    citation: SMARTHER REFRESHER
     _key: card-2-c0902104-96f2-46fd-9dc4-81e8c8577d1d
   - order: 2
     body: >-
@@ -58,11 +58,11 @@ cards:
     _key: card-3-2799de82-69d4-40c3-82fa-0f1968e7cb5a
   - order: 3
     body: >-
-      > “I’m pro-life and the job of a judge is to decide cases before the
-      court, but one of the concepts that really means a lot in America is
-      **stare decisis** – that means you don’t overturn precedent unless there
-      is a good reason.A I would tell my pro-life friends: you can be pro-life
-      and conservative, but you can also believe in **stare decisis**.”  
+      “I’m pro-life and the job of a judge is to decide cases before the court,
+      but one of the concepts that really means a lot in America is **stare
+      decisis** – that means you don’t overturn precedent unless there is a good
+      reason.A I would tell my pro-life friends: you can be pro-life and
+      conservative, but you can also believe in **stare decisis**.”  
         
         
         
@@ -74,7 +74,6 @@ cards:
       the best beat in journalism.”  
         
         
-        
       NYT obituary writer, Margalit Fox, who after 14 years writing obituaries
       will leave the newspaper to write novels. Her own "epitaph" in the paper
       is charming and worth a read.
@@ -83,7 +82,6 @@ cards:
     body: >-
       > “I’m convinced you can be old at 30 or young at 90, and it’s all up to
       you.”  
-        
         
         
       Legendary oil tycoon, T. Boone Pickens, in an essay on age and attitude on

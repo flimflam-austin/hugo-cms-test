@@ -2,14 +2,15 @@
 title: 'Lying in State: George h.w. Bush'
 slug: 20181203-18-12-3-lying-in-state-george-h-w-bush
 _id: legacy-d5b31823-ffb6-4fef-b9e2-dc2c2c778d8b
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: LotyrYkaRjTl0E452yk03B
 type: quick_reads
 draft: false
 aliases:
   - 18-12-3-lying-in-state-george-h-w-bush/
 _createdAt: '2018-12-03T13:04:27Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:46:49Z'
 date: '2018-12-03T13:04:27+00:00'
+lastmod: '2018-12-03T13:04:27+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,12 +27,11 @@ cards:
       **_“..one of America’s greatest points of light”_**
 
 
-      President George H.W. Bush, the **41st American president**, will be theA
-      **12th presidentA** to lie in state at the U.S. Capitol.
+      President George H.W. Bush, the **41st American president**, will be the
+      **12th president** to lie in state at the U.S. Capitol.
 
 
       Why It Matters
-    citation: Why It Matters
     _key: card-1-e563298a-267d-4dcd-a48e-935b168fd514
   - order: 1
     body: >-

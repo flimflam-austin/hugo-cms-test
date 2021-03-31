@@ -2,14 +2,15 @@
 title: 18.07.20 Women Paid More
 slug: 20180720-18-07-20-women-paid-more
 _id: legacy-a8e254ff-ac98-4677-8447-03a20da3f082
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 0aCMfzqL0erea7otJuXA6b
 type: quick_reads
 draft: false
 aliases:
   - 18-07-20-women-paid-more/
 _createdAt: '2018-07-20T11:58:02Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T17:32:57Z'
 date: '2018-07-20T11:58:02+00:00'
+lastmod: '2018-07-20T11:58:02+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,11 +32,10 @@ cards:
 
 
       Huh? Makes No CENTS.
-    citation: Huh? Makes No CENTS.
     _key: card-1-e2b17c73-1617-437c-9ad7-e7d7473c855e
   - order: 1
     body: >-
-      ## ‘Manning Up & Womaning Down”
+      ## "Manning Up & Womaning Down”
 
 
       * Census found inconsistencies inA **incomes reported vs. IRS tax forms**
@@ -48,10 +48,9 @@ cards:
     _key: card-2-c2c37066-ae6e-47d3-b44c-d77847a063a4
   - order: 2
     body: >-
-      > ‘It’s kind of like if he’s shorter than she is, she doesn’t wear heels.
+      > "It’s kind of like if he’s shorter than she is, she doesn’t wear heels.
       It’s in the cultural DNA that if anyone should be bigger, richer, more
-      successful, it should be the man.’  
-        
+      successful, it should be the man."  
         
         
       Bill Doherty, marriage therapist & Univ. of Minnesota professor on the

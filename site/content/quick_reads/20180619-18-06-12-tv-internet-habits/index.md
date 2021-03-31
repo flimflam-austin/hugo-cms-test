@@ -2,14 +2,15 @@
 title: 18.06.12 Tv & Internet Habits
 slug: 20180619-18-06-12-tv-internet-habits
 _id: legacy-db2ec792-5b0f-40cf-9c0e-c6d91cbc16e7
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 45Isps23253Yjlaq28U2Ox
 type: quick_reads
 draft: false
 aliases:
   - 18-06-12-tv-internet-habits/
 _createdAt: '2018-06-20T09:00:29Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:41:44Z'
 date: '2018-06-20T09:00:29+00:00'
+lastmod: '2018-06-20T09:00:29+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Why & Why It Matters
-    citation: Why &amp; Why It Matters
     _key: card-1-94f0c45f-d924-4029-b7bf-176abbb0b064
   - order: 1
     body: >-
@@ -60,8 +60,9 @@ cards:
       by $40B this year & $60B next year.
 
 
+
+
       Can't live without?
-    citation: Can't live without?
     _key: card-3-eccee58c-95b6-4652-8f6b-915b4b9980ed
   - order: 3
     body: >-

@@ -2,14 +2,15 @@
 title: Do We Really Need Ice?
 slug: 20180702-do-we-really-need-ice
 _id: legacy-38795164-c9ce-425a-9288-43d0c66c2259
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 0aCMfzqL0erea7otJsFVy9
 type: quick_reads
 draft: false
 aliases:
   - do-we-really-need-ice/
 _createdAt: '2018-07-02T10:45:19Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:05:36Z'
 date: '2018-07-02T10:45:19+00:00'
+lastmod: '2018-07-02T10:45:19+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       So... should it be?
-    citation: So... should it be?
     _key: card-1-3a08c7ad-cf17-4131-95c6-4555194e9eed
   - order: 1
     body: >-
@@ -56,19 +56,12 @@ cards:
       ## Do We Really Need ICE?
 
 
-      * 
-
-
-      **Critics say:**A No, its outdated with too broad of reach, especially
+      * **Critics say:**A No, its outdated with too broad of reach, especially
       under current “zero-tolerance” immigration policies where illegal border
       crossers are arrested & taken into ICE custody.
 
-
-      * 
-
-
-      **Supporters say:** Yes, immigration enforcement is important. ICE manages
-      illegal immigrants. If you get rid of it, then what?
+      * **Supporters say:** Yes, immigration enforcement is important. ICE
+      manages illegal immigrants. If you get rid of it, then what?
     _key: card-3-89f89946-16f0-49ec-9abf-5fb426a27753
   - order: 3
     body: >-
@@ -84,7 +77,6 @@ cards:
 
 
       [CLICK FULL LIST](https://www.dhs.gov/who-joined-dhs)
-    citation: CLICK FULL LIST
     _key: card-4-1d26e5ef-d04c-4bba-aead-ecfdb71f444b
   - order: 4
     body: "## Something To Consider\n\n> “The child of a forced marriage between two defunct federal agencies a\x14 The United States Customs Service and the Immigration and Naturalization Service a\x14 ICE has long struggled to balance its dual roles of transnational criminal investigations and deportations.”  \n  \n  \n  \nNew York Times"

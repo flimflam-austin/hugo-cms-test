@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-07-28T12:43:44Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-07-28T12:43:44+00:00'
+lastmod: '2020-07-28T12:43:44+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     3c31a8aa2d427e8a5d8f38dbe3cf971e53732399-683x1024.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="nC4xQ7oCjI0" title="What links all Presidents in the modern White House?" >}}

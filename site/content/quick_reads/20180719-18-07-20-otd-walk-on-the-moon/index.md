@@ -2,14 +2,15 @@
 title: 18.07.20 Otd Walk on the Moon
 slug: 20180719-18-07-20-otd-walk-on-the-moon
 _id: legacy-78dbb048-ee47-4f60-8c80-fb9fd41bec0a
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 45Isps23253Yjlaq2Ae2Rp
 type: quick_reads
 draft: false
 aliases:
   - 18-07-20-otd-walk-on-the-moon/
 _createdAt: '2018-07-20T11:50:39Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T17:31:20Z'
 date: '2018-07-20T11:50:39+00:00'
+lastmod: '2018-07-20T11:50:39+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/hxPbnFc7iU8?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-c40d5385-3ee1-4778-8d74-c070845c38d8
   - order: 1
     body: >-

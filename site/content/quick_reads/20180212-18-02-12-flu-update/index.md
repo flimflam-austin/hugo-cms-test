@@ -2,14 +2,15 @@
 title: 18.02.12 Flu Update
 slug: 20180212-18-02-12-flu-update
 _id: legacy-b66341d0-11bd-4fa1-81a5-6fec19236825
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: 45Isps23253Yjlaq27rbSm
 type: quick_reads
 draft: false
 aliases:
   - 18-02-12-flu-update/
 _createdAt: '2018-02-12T03:28:21Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T20:59:15Z'
 date: '2018-02-12T03:28:21+00:00'
+lastmod: '2018-02-12T03:28:21+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,8 +28,6 @@ cards:
 
 
       > ‘This could be a breakthrough in the way that we treat influenza.’  
-        
-        
         
       Martin Howell Friede, Initiative for Vaccine Research, World Health
       Organization

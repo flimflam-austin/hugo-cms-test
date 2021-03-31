@@ -2,14 +2,15 @@
 title: 18.03.23 Spending Bill
 slug: 20180323-money-draft
 _id: legacy-a4dad6f6-2e74-47a8-8c00-3f9276081816
-_rev: O8E8pz1fLwnc3fN7JVEzvC
+_rev: 45Isps23253Yjlaq286lip
 type: quick_reads
 draft: false
 aliases:
   - money-draft/
 _createdAt: '2018-03-23T11:18:07Z'
-_updatedAt: '2021-03-22T13:11:06Z'
+_updatedAt: '2021-03-25T22:34:52Z'
 date: '2018-03-23T11:18:07+00:00'
+lastmod: '2018-03-23T11:18:07+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,8 +24,8 @@ cards:
       # Your Money At Work?
 
 
-      Congress passed a **$1.3T $pending bill** thatA keeps the government
-      funded until October (approx. 6 months).
+      Congress passed a **$1.3T spending bill** that keeps the government funded
+      until October (approx. 6 months).
 
 
       FRIENDLY REMINDER:  
@@ -33,7 +34,6 @@ cards:
 
 
       Flip For How It’s Spent.
-    citation: Flip For How It’s Spent.
     _key: card-1-6468bbeb-1e4d-4610-ae94-d45646b64bfe
   - order: 1
     body: "> “But I say to Congress: I will never sign another bill like this again.A I’m not going to do it again.A Nobody read it.A It’s only hours old.A Some people don’t even know what is in a\x14 $1.3 trillion a\x14 it’s the second largest ever.”  \n  \n  \n  \nPresident Trump, remarks after signing spending bill, White House, March 23, 2018"
@@ -118,7 +118,6 @@ cards:
 
       [Click Here For Catch-Up On
       Daca](https://smarthernews.com/02-19-18-trump-daca/)
-    citation: Click Here For Catch-Up On Daca
     _key: card-8-de9a76e4-032f-4f03-85c2-2e8e4227e63f
   - order: 8
     body: >-

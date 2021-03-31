@@ -2,14 +2,15 @@
 title: Smarthernews Quick Quotes for Wednesday, October 3, 2018
 slug: 20190905-quick-quotes-10
 _id: legacy-30689def-c1fb-4f4b-b5c0-03733cbcf0b6
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 45Isps23253Yjlaq2DH7Mb
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-10/
 _createdAt: '2018-10-03T11:45:12Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:20:54Z'
 date: '2018-10-03T11:45:12+00:00'
+lastmod: '2018-10-03T11:45:12+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,10 +21,8 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     body: >-
-      > “…we can confirm that we are working jointly with our law enforcement
+      “…we can confirm that we are working jointly with our law enforcement
       partners to fully investigate this matter.”  
-        
-        
         
       Secret Service statement as it probes a suspicious letter addressed to
       President Trump. The FBI is also investigating two packages sent to the
@@ -38,8 +37,6 @@ cards:
       finally concluded it’s faster than me. That I have to stop running, turn
       around and confront it.”  
         
-        
-        
       Jason Kander (37), a rising star in the Democratic party and an
       Afghanistan War veteran, in an open letter announcing he will no longer
       run for Mayor of Kansas City. 7.7M Americans will suffer from PTSD during
@@ -47,9 +44,8 @@ cards:
     _key: card-2-d1e28b71-f229-4349-bf6b-ece19a9e4671
   - order: 2
     body: >-
-      > ‘Of course, we have quite a ways to go but we look forward to the next
-      steps in this conversation.’  
-        
+      > "Of course, we have quite a ways to go but we look forward to the next
+      steps in this conversation."  
         
         
       State Department spokeswoman on U.S. Secretary of State Mike Pompeo's
@@ -61,8 +57,6 @@ cards:
     body: >-
       > “I’d like to see more people get vaccinated.A We lost 80,000 people last
       year to the flu.”  
-        
-        
         
       Dr. Robert Redfield, CDC Director, on this year's flu season. While the
       official number of deaths has yet to be announced, the CDC has not backed
@@ -76,8 +70,6 @@ cards:
       something positive was a better thing than just twisting in the wind for a
       year.”  
         
-        
-        
       Adria Petty, daughter of Tom Petty, on her work going through archives,
       compiling a 60-song tribute album "American Treasure." The rock legend
       died suddenly at age 66 of cardiac arrest due to an accidental drug
@@ -87,13 +79,11 @@ cards:
     body: >-
       > “For me, I’ve got the right to wear what I want. That’s what’s so dope
       about this country – it’s a free country. I got the right to think what I
-      want;A I have the right to feel what I want and I will not be bullied
+      want; I have the right to feel what I want and I will not be bullied
       because I do what I feel.”  
         
-        
-        
       Kanye West to 'TMZ' explaining why he wears a 'Make America Great Again'
-      hat andA defending his support of Pres. Trump.A Kanye went on to say "I
+      hat and defending his support of Pres. Trump.A Kanye went on to say "I
       support our president, bottom line, no matter who they are."
     _key: card-6-9802caf1-6161-4b0b-a9a0-f06cd398a95f
   - order: 6

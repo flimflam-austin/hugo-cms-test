@@ -2,14 +2,15 @@
 title: Ve Day
 slug: 20180508-ve-day
 _id: legacy-a2205abe-5ab9-481a-959d-45dd5e70a1f7
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 0aCMfzqL0erea7otJrzO1n
 type: quick_reads
 draft: false
 aliases:
   - ve-day/
 _createdAt: '2018-05-08T22:10:59Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:47:19Z'
 date: '2018-05-08T22:10:59+00:00'
+lastmod: '2018-05-08T22:10:59+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,19 +27,17 @@ cards:
       ## 73 Years Ago
 
 
-      > “Humility must be the measure of a man whose success was brought with
-      the blood of his subordinates, and paid for with the lives of his
-      friends.”  
-        
-        
-        
+      “Humility must be the measure of a man whose success was brought with the
+      blood of his subordinates, and paid for with the lives of his friends.”  
+
+
+
       General Eisenhower's words to British Parliament following Victory in
       Europe.
 
 
       [Flip: "Mission
       Fulfilled"](https://www.archives.gov/publications/prologue/2015/summer/war-message.html)
-    citation: 'Flip: "Mission Fulfilled"'
     _key: card-1-161e072e-556d-4a78-8e7b-f928aec8221e
   - order: 1
     body: >-

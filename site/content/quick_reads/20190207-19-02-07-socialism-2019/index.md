@@ -2,14 +2,15 @@
 title: What Is Socialism?
 slug: 20190207-19-02-07-socialism-2019
 _id: legacy-e7dcb8f7-0a56-4e4e-8831-722c98d16ff4
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 0aCMfzqL0erea7otJrTmfO
 type: quick_reads
 draft: false
 aliases:
   - 19-02-07-socialism-2019/
 _createdAt: '2019-02-07T13:35:24Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-25T20:34:38Z'
 date: '2019-02-07T13:35:24+00:00'
+lastmod: '2019-02-07T13:35:24+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -33,10 +34,19 @@ cards:
 
 
       Why & What Is It
-    citation: Why &amp; What Is It
     _key: card-1-524333ef-4746-4b4a-9101-2e3b270d9de3
   - order: 1
-    body: "> “America was founded on liberty and independence a\x13- not government coercion, domination, and control.A A We are born free, and we will stay free.A Tonight, weA renew our resolve that America will never be a socialist country.”  \n  \n  \n  \nPres. Trump during the 2019 State of the Union. After championing his economic policies, he described the socialist policies in Venezuela as turning that nation from being the wealthiest in South America into a state of abject poverty and despair."
+    body: >-
+      > “America was founded on liberty and independence - not government
+      coercion, domination, and control. We are born free, and we will stay
+      free. Tonight, we renew our resolve that America will never be a socialist
+      country.”
+
+
+      Pres. Trump during the 2019 State of the Union. After championing his
+      economic policies, he described the socialist policies in Venezuela as
+      turning that nation from being the wealthiest in South America into a
+      state of abject poverty and despair.
     _key: card-2-ff620825-11ae-45be-b7d2-02f5c068a68f
   - order: 2
     body: >-
@@ -44,11 +54,9 @@ cards:
 
 
       > “social & economic doctrine that calls for public rather than private
-      ownership or control ofA propertyA and natural resources….in opposition
-      toA capitalism, which is based on private ownership of the means of
-      production & allows individual choices in a freeA market…”  
-        
-        
+      ownership or control of property and natural resources….in opposition to
+      capitalism, which is based on private ownership of the means of production
+      & allows individual choices in a free market…”  
         
       Encyclopedia Britannica
     _key: card-3-9d2234b4-05a6-4415-bae0-1429ca131bb2
@@ -67,7 +75,7 @@ cards:
     _key: card-4-b0ecbef6-f9b1-408c-bcc1-53e5044d2155
   - order: 4
     body: >-
-      ## Politics At Play
+      ## Politics at Play
 
 
       **Preview 2020 President Race**
@@ -77,8 +85,8 @@ cards:
       vs. the Democrat’s so-called “socialist” agenda.**
 
 
-      **Two Parties Already At Odds:A** A A A More Democrats have a favorable
-      view on socialism than capitalism; Republicans = the opposite. (Gallup)
+      **Two Parties Already At Odds:** More Democrats have a favorable view on
+      socialism than capitalism; Republicans = the opposite. (Gallup)
     _key: card-5-943f2759-4abd-47a5-a987-8ffa5323ac31
   - order: 5
     body: >-

@@ -2,14 +2,15 @@
 title: 18.04.27 Korean War in Pictures
 slug: 20180427-18-04-27-korean-war-pictures
 _id: legacy-b0566c6f-480c-4578-b6b8-529f65c5059a
-_rev: O8E8pz1fLwnc3fN7JVF0RC
+_rev: LotyrYkaRjTl0E452wSL1Z
 type: quick_reads
 draft: false
 aliases:
   - 18-04-27-korean-war-pictures/
 _createdAt: '2018-04-28T02:49:44Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:23:44Z'
 date: '2018-04-28T02:49:44+00:00'
+lastmod: '2018-04-28T02:49:44+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
 
       [CLICK HERE:
       PHOTOS](https://www.nytimes.com/2018/04/25/world/asia/korean-war-.html)
-    citation: 'CLICK HERE: PHOTOS'
     _key: card-1-364303e5-63b5-4993-9bb1-b5e0130b695e
   - order: 1
     body: >-

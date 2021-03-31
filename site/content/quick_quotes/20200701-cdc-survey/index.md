@@ -12,6 +12,7 @@ aliases:
 _createdAt: '2020-07-01T20:26:45Z'
 _updatedAt: '2021-03-22T13:12:52Z'
 date: '2020-07-01T20:26:45+00:00'
+lastmod: '2020-07-01T20:26:45+00:00'
 weight: 50
 featured_image:
   alt: face-mask

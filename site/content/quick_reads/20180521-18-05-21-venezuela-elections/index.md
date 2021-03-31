@@ -2,14 +2,15 @@
 title: 18.05.21 Venezuela Elections
 slug: 20180521-18-05-21-venezuela-elections
 _id: legacy-72b26165-98eb-4bd9-a427-e158e5e29e61
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 45Isps23253Yjlaq28MNRh
 type: quick_reads
 draft: false
 aliases:
   - 18-05-21-venezuela-elections/
 _createdAt: '2018-05-21T10:33:23Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:34:17Z'
 date: '2018-05-21T10:33:23+00:00'
+lastmod: '2018-05-21T10:33:23+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       FLIP: Legit Election?
-    citation: 'FLIP: Legit Election?'
     _key: card-1-188177c2-462b-497f-a529-92d74556caa7
   - order: 1
     body: >-
@@ -71,7 +71,6 @@ cards:
 
 
       FLIP: Cursed riches
-    citation: 'FLIP: Cursed riches'
     _key: card-4-cc302f0e-20ca-4717-8823-71d1c6fe1248
   - order: 4
     body: >-

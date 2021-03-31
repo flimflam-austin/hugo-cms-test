@@ -2,14 +2,15 @@
 title: 'Quote of the Day: Oprah'
 slug: 20200620-18-12-3-qtd-oprah
 _id: legacy-774b32f8-907c-4748-a9fc-93879ce4754d
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: 0aCMfzqL0erea7otJxz22d
 type: quick_reads
 draft: false
 aliases:
   - 18-12-3-qtd-oprah/
 _createdAt: '2018-12-03T12:56:37Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-28T00:46:21Z'
 date: '2018-12-03T12:56:37+00:00'
+lastmod: '2018-12-03T12:56:37+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,9 +23,6 @@ cards:
     body: >-
       > “_I say there’s no such thing as failure. Failure is just a mistake
       trying to move you in a better direction._”
-
-
-      Oprah Winfrey
     citation: Oprah Winfrey
     _key: card-1-cfdd7b1f-e779-4adc-b390-d8e286c140fa
   - order: 1

@@ -2,14 +2,15 @@
 title: 18.02.15 Reaction to Shooting
 slug: 20180215-18-02-15-reaction-shooting
 _id: legacy-8b465ee2-e9d2-4419-85f1-5f05d1eb77a9
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: LotyrYkaRjTl0E452wMXWX
 type: quick_reads
 draft: false
 aliases:
   - 18-02-15-reaction-shooting/
 _createdAt: '2018-02-15T21:04:59Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:44:20Z'
 date: '2018-02-15T21:04:59+00:00'
+lastmod: '2018-02-15T21:04:59+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,7 +35,6 @@ cards:
 
 
       Flip Card Here
-    citation: Flip Card Here
     _key: card-1-5f1b26f2-f207-4f33-942d-1acff961740b
   - order: 1
     body: >-
@@ -51,7 +51,6 @@ cards:
 
 
       [Click For Remarks](https://www.speaker.gov/live)
-    citation: Click For Remarks
     _key: card-2-b5f5d376-e7f1-42e8-8584-4fdd9368a44f
   - order: 2
     body: >-

@@ -2,14 +2,15 @@
 title: 18.07.13 Qtd
 slug: 20180713-18-07-13-qtd
 _id: legacy-314cc3b6-1475-44a4-9c49-e02ba793bceb
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 45Isps23253Yjlaq28cffo
 type: quick_reads
 draft: false
 aliases:
   - 18-07-13-qtd/
 _createdAt: '2018-07-13T16:43:03Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:48:59Z'
 date: '2018-07-13T16:43:03+00:00'
+lastmod: '2018-07-13T16:43:03+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,9 +23,6 @@ cards:
     body: >-
       > _“Let us not take ourselves too seriously. None of us has a monopoly of
       wisdom.”_
-
-
-      Queen Elizabeth II
     citation: Queen Elizabeth II
     _key: card-1-cbfab59f-66cb-4931-acef-bcb8e67be3fe
   - order: 1

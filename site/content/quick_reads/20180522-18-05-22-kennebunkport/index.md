@@ -2,14 +2,15 @@
 title: 18.05.22 Kennebunkport
 slug: 20180522-18-05-22-kennebunkport
 _id: legacy-99b8ff90-cf38-40a8-9aa5-928a04b5a2ee
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 45Isps23253Yjlaq28Mf68
 type: quick_reads
 draft: false
 aliases:
   - 18-05-22-kennebunkport/
 _createdAt: '2018-05-22T11:28:55Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:36:26Z'
 date: '2018-05-22T11:28:55+00:00'
+lastmod: '2018-05-22T11:28:55+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,7 +27,6 @@ cards:
       What is Kennebunkport? And why is it so special to the Bush family?
 
       Flip: To Learn
-    citation: 'Flip: To Learn'
     _key: card-1-7ac6639d-69b3-4964-a077-e458015959b8
   - order: 1
     body: >-

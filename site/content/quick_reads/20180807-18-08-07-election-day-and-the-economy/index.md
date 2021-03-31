@@ -2,14 +2,15 @@
 title: 18.08.07 Election Day and the Economy
 slug: 20180807-18-08-07-election-day-and-the-economy
 _id: legacy-674f5d50-a2d9-4230-98b0-30f6149f61e3
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: 45Isps23253Yjlaq2Aw2xh
 type: quick_reads
 draft: false
 aliases:
   - 18-08-07-election-day-and-the-economy/
 _createdAt: '2018-08-07T11:45:19Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:39:38Z'
 date: '2018-08-07T11:45:19+00:00'
+lastmod: '2018-08-07T11:45:19+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       What To Know
-    citation: What To Know
     _key: card-1-599a853d-ee5c-4c2a-a70b-9147222bf211
   - order: 1
     body: >-

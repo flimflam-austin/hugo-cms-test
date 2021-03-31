@@ -2,14 +2,15 @@
 title: 18.05.07 Met Gala
 slug: 20180508-18-05-07-met-gala
 _id: legacy-f76c028d-4c0b-46af-810f-d33395261a9a
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: LotyrYkaRjTl0E452wTgiD
 type: quick_reads
 draft: false
 aliases:
   - 18-05-07-met-gala/
 _createdAt: '2018-05-08T10:20:48Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:45:48Z'
 date: '2018-05-08T10:20:48+00:00'
+lastmod: '2018-05-08T10:20:48+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -33,7 +34,6 @@ cards:
 
 
       Flip For Why It Matters
-    citation: Flip For Why It Matters
     _key: card-1-7ed083a4-a049-4997-ac7f-43da991e7a2f
   - order: 1
     body: >-

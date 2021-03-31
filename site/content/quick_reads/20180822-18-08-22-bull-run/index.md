@@ -2,14 +2,15 @@
 title: 18.08.22 Bull Run
 slug: 20180822-18-08-22-bull-run
 _id: legacy-540b2add-65ae-4752-a6d3-d2c97eff07cc
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: LotyrYkaRjTl0E452xZGzt
 type: quick_reads
 draft: false
 aliases:
   - 18-08-22-bull-run/
 _createdAt: '2018-08-22T11:59:49Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:13:44Z'
 date: '2018-08-22T11:59:49+00:00'
+lastmod: '2018-08-22T11:59:49+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,7 +23,7 @@ cards:
     body: >-
       RECORD WIN STREAK  
 
-      ON WALL STREET ==================================
+      ON WALL STREET 
 
 
       ## 9 Yrs, 5 Months & 13 Days
@@ -65,12 +66,11 @@ cards:
     _key: card-3-2f298f59-bbff-4492-8ff0-017ddcc576a8
   - order: 3
     body: >-
-      > “ThisA bullA marketA has been breathtaking…valuations in general have
+      > “This bull market has been breathtaking…valuations in general have
       become stretched; however, corporate earnings have been strong, and I
       believe US stocks are likely to continue to outperform in the shorter term
       given the strength of the US economy and the perceived safety of US stocks
       in the midst of trade wars.”  
-        
         
         
       Kristina Hooper, Invesco's chief global market strategist, as the S&P 500

@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2019-10-13T23:59:03Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2019-10-13T23:59:03+00:00'
+lastmod: '2019-10-13T23:59:03+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     069b5e20e3a55996407919fd1c9d77ea9650ccbb-768x577.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id=-Sd5DoPVrJ8" title="SmartHER News Coffee Talk - 3 top stories in 5 minutes" >}}

@@ -2,14 +2,15 @@
 title: 18.05.15 Copiers Identity Theft
 slug: 20180515-18-05-15-copiers-identity-theft
 _id: legacy-b81a6287-1ac6-4baf-8b96-74374a5f37ed
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: LotyrYkaRjTl0E452wV4lx
 type: quick_reads
 draft: false
 aliases:
   - 18-05-15-copiers-identity-theft/
 _createdAt: '2018-05-15T11:00:50Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-26T00:15:07Z'
 date: '2018-05-15T11:00:50+00:00'
+lastmod: '2018-05-15T11:00:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -33,7 +34,6 @@ cards:
 
 
       FLIP FOR WHY
-    citation: FLIP FOR WHY
     _key: card-1-3c1dec90-8d2d-4e9c-b71f-286716f95fe5
   - order: 1
     body: >-
@@ -50,7 +50,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/iC38D5am7go?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-1cd7f265-2484-4fc9-b9cb-fb0a26331f31
   - order: 2
     body: >-

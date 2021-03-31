@@ -2,14 +2,15 @@
 title: 18.03.14 Women & Makeup
 slug: 20180314-18-03-14-women-makeup
 _id: legacy-cb384cd5-9722-4be5-88af-735cf98079e9
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: 45Isps23253Yjlaq285SiK
 type: quick_reads
 draft: false
 aliases:
   - 18-03-14-women-makeup/
 _createdAt: '2018-03-14T13:00:34Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:21:51Z'
 date: '2018-03-14T13:00:34+00:00'
+lastmod: '2018-03-14T13:00:34+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,7 +35,6 @@ cards:
 
 
       FLIP HERE FOR MORE
-    citation: FLIP HERE FOR MORE
     _key: card-1-129df1a4-6844-4a79-8574-3ca54746a975
   - order: 1
     body: >-
@@ -49,8 +49,9 @@ cards:
       abilities.
 
 
+
+
       Flip Here
-    citation: Flip Here
     _key: card-2-8bb77656-467d-4888-8dce-2288005fe5fb
   - order: 2
     body: >-
@@ -82,7 +83,6 @@ cards:
 
       [How Much Is Your State's
       Face?](http://www.skinstore.com/blog/skincare/womens-face-worth-survey-2017/)
-    citation: How Much Is Your State's Face?
     _key: card-4-c23ac0c1-3347-4b67-bd43-d8434265c007
   - order: 4
     body: >-

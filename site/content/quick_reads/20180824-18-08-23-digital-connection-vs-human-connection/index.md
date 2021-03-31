@@ -2,14 +2,15 @@
 title: The Cost of Connection
 slug: 20180824-18-08-23-digital-connection-vs-human-connection
 _id: legacy-7d242763-10ad-4c2d-b304-dd4ace37db6f
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: LotyrYkaRjTl0E452xZLJl
 type: quick_reads
 draft: false
 aliases:
   - 18-08-23-digital-connection-vs-human-connection/
 _createdAt: '2018-08-23T11:11:59Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:15:04Z'
 date: '2018-08-23T11:11:59+00:00'
+lastmod: '2018-08-23T11:11:59+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,15 +24,15 @@ cards:
       # Is The Cost of Constant Connection…Feeling Disconnected?
 
 
-      > New studies reveal whether our digital connections areA draining our
+      > New studies reveal whether our digital connections are draining our
       connections to each other & the world around us.
     _key: card-1-aeff4e08-e39b-4499-bd02-bd49d2b6523e
   - order: 1
     body: >-
-      > ‘**Decades of research on happiness tell us that engaging positively
+      > **"Decades of research on happiness tell us that engaging positively
       with others is critical for our well-being.** Modern technology may be
       wonderful, but it can … take away from the special moments we have with
-      friends and family in person.’  
+      friends and family in person."  
         
         
         

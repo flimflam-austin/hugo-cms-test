@@ -2,14 +2,15 @@
 title: 18.02.16 Fbi Omission
 slug: 20180216-18-02-16-fbi-omission
 _id: legacy-e796980f-86d4-4a4f-8a4c-09ab3bbfadd6
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: 0aCMfzqL0erea7otJriR4W
 type: quick_reads
 draft: false
 aliases:
   - 18-02-16-fbi-omission/
 _createdAt: '2018-02-16T19:38:59Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:47:18Z'
 date: '2018-02-16T19:38:59+00:00'
+lastmod: '2018-02-16T19:38:59+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       Flip To See What Caller Said
-    citation: Flip To See What Caller Said
     _key: card-1-2992f32d-db34-472f-b9fe-b899ad447b11
   - order: 1
     body: >-
@@ -45,7 +45,6 @@ cards:
 
 
       Flip For What Happened Next
-    citation: Flip For What Happened Next
     _key: card-2-ca7e4530-0989-41ec-9979-2b4be4d18d05
   - order: 2
     body: >-
@@ -69,8 +68,6 @@ cards:
       * Is this an issue of volume – too many calls, not enough resources?
       * Is this a failure of technology?
       * Where was the missing link?
-
-      Flip - FBI Dir Statement
     citation: Flip - FBI Dir Statement
     _key: card-4-9ec3e412-5b54-416f-91bc-da8e42ee35ec
   - order: 4

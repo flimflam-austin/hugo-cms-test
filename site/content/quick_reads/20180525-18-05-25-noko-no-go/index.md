@@ -2,14 +2,15 @@
 title: 18.05.25 Noko No-Go
 slug: 20180525-18-05-25-noko-no-go
 _id: legacy-7d79b922-5590-4ea7-b59c-ad4468d0b7b3
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 0aCMfzqL0erea7otJs63pt
 type: quick_reads
 draft: false
 aliases:
   - 18-05-25-noko-no-go/
 _createdAt: '2018-05-25T09:06:57Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:45:01Z'
 date: '2018-05-25T09:06:57+00:00'
+lastmod: '2018-05-25T09:06:57+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,12 +32,11 @@ cards:
 
 
       FLIP: LEARN MORE
-    citation: 'FLIP: LEARN MORE'
     _key: card-1-4cf44f31-8239-4646-a658-d5f5d34605b3
   - order: 1
     body: >-
-      > “I was very much looking forward to being there with you. Sadly, I feel
-      it is inappropriate, at this time, to have this long-planned meeting….The
+      “I was very much looking forward to being there with you. Sadly, I feel it
+      is inappropriate, at this time, to have this long-planned meeting….The
       world, and North Korea in particular, has lost a great opportunity for
       lasting peace and great prosperity and wealth. That missed opportunity is
       a truly sad moment in history.”  
@@ -55,8 +55,6 @@ cards:
       I want to be, but in this case I felt screaming would only scare them
       off.”  
         
-        
-        
       President Trump in his 1987 book Art of The Deal. He was speaking about a
       real estate deal where he didn't want the other side to walk away.
       Considering the tone of his letter to North Korea, we thought this was
@@ -68,8 +66,6 @@ cards:
 
 
       > North Korea says it’s still open to a sit-down.  
-        
-        
         
       “We express our willingness to sit down face-to-face with the U.S. and
       resolve issues anytime and in any format …. we are open-minded in giving

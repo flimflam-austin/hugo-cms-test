@@ -2,14 +2,15 @@
 title: 18.09.23 Qtd
 slug: 20180923-18-09-23-qtd
 _id: legacy-b524cdc2-7eb1-470a-b9e5-27d2870fe354
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 0aCMfzqL0erea7otJxlNKn
 type: quick_reads
 draft: false
 aliases:
   - 18-09-23-qtd/
 _createdAt: '2018-09-23T15:05:28Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:24:56Z'
 date: '2018-09-23T15:05:28+00:00'
+lastmod: '2018-09-23T15:05:28+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,9 +25,6 @@ cards:
       importance of surrendering to God, surrendering your fears to Him, and
       just knowing that whatever happens, whether it’s going to be a bad outcome
       or a good outcome, He is going to be there to help you get through it.”_
-
-
-      Kristen Masciantonio
     citation: Kristen Masciantonio
     _key: card-1-8623f7fe-6923-47be-bd9a-9fe109f21c13
   - order: 1

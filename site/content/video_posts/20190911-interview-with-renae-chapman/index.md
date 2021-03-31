@@ -10,8 +10,12 @@ aliases:
 _createdAt: '2019-08-29T19:36:45Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2019-08-29T19:36:45+00:00'
+lastmod: '2019-08-29T19:36:45+00:00'
 weight: 50
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 * Having about eight-ninths of its area

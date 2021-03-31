@@ -2,14 +2,15 @@
 title: 18.05.23 Nfl New Anthem Policy
 slug: 20180524-18-05-23-nfl-new-anthem-policy
 _id: legacy-a0ac0273-c752-404a-a122-c0c541cb0778
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 45Isps23253Yjlaq28NUVY
 type: quick_reads
 draft: false
 aliases:
   - 18-05-23-nfl-new-anthem-policy/
 _createdAt: '2018-05-24T10:16:33Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:42:58Z'
 date: '2018-05-24T10:16:33+00:00'
+lastmod: '2018-05-24T10:16:33+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,11 +25,10 @@ cards:
 
 
       Days ahead of Memorial Day, NFL announces new policy on national anthem.
-      Turns out the ***new*** policy isn’t really ***new***A at all.
+      Turns out the ***new*** policy isn’t really ***new* **at all.
 
 
       Why Now?
-    citation: Why Now?
     _key: card-1-6ca4bb83-1804-4a52-a1b6-d3d9df864d90
   - order: 1
     body: >-

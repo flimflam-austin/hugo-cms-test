@@ -2,14 +2,15 @@
 title: 18.08.16 Qtd Michael J. Fox
 slug: 20180816-18-08-16-qtd-michael-j-fox
 _id: legacy-0882d128-790c-4809-a726-3c38d33fd213
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: LotyrYkaRjTl0E452xYkPF
 type: quick_reads
 draft: false
 aliases:
   - 18-08-16-qtd-michael-j-fox/
 _createdAt: '2018-08-16T11:42:46Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:01:52Z'
 date: '2018-08-16T11:42:46+00:00'
+lastmod: '2018-08-16T11:42:46+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,9 +23,6 @@ cards:
     body: >-
       > _‘Find the best things about you and the best things about life and
       celebrate them.’_
-
-
-      Michael J. Fox
     citation: Michael J. Fox
     _key: card-1-780b722b-694a-40d6-9851-51e9c699ee82
   - order: 1

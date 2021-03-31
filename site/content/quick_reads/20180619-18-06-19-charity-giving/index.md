@@ -2,14 +2,15 @@
 title: 18.06.19 Charity Giving
 slug: 20180619-18-06-19-charity-giving
 _id: legacy-0707dcce-086f-44c3-badb-201df8555936
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: LotyrYkaRjTl0E452wYrP3
 type: quick_reads
 draft: false
 aliases:
   - 18-06-19-charity-giving/
 _createdAt: '2018-06-19T10:45:36Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:39:24Z'
 date: '2018-06-19T10:45:36+00:00'
+lastmod: '2018-06-19T10:45:36+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Feeling Generous?
-    citation: Feeling Generous?
     _key: card-1-2fc24654-8e47-4ece-85b4-97d05911fb97
   - order: 1
     body: >-
@@ -54,11 +54,7 @@ cards:
       ## WHY IT MATTERS
 
 
-      >   
-        
-      _‘Some people feel they don’t need to give any more.’_  
-        
-        
+      _"Some people feel they don’t need to give any more."_  
         
       Stacy Palmer, Chronicle of Philanthropy, alluding to a drop in giving for
       lower-income & middle-class families.

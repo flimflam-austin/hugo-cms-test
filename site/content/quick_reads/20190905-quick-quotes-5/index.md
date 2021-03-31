@@ -2,14 +2,15 @@
 title: Quick Quotes for Thursday, September 13th
 slug: 20190905-quick-quotes-5
 _id: legacy-6f178d3d-f57a-41b1-bc6a-b9168a3aa665
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 45Isps23253Yjlaq2D6KLA
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-5/
 _createdAt: '2018-09-13T12:01:07Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T21:49:14Z'
 date: '2018-09-13T12:01:07+00:00'
+lastmod: '2018-09-13T12:01:07+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,7 +25,6 @@ cards:
       Tyson punch to the Carolina coast.”  
         
         
-        
       Jeff Byard, FEMA Associate Administrator, on the immensely powerful
       Hurricane Florence which is now tracking southward. The Category 2 storm's
       path change will now likely impact Georgia, but may possibly limit effects
@@ -34,7 +34,6 @@ cards:
     body: >-
       > “The State Department has come to the determination that they were
       attacks.”  
-        
         
         
       Ret. Ambassador Peter Bodde, head of the State Dept's Accountability
@@ -50,22 +49,17 @@ cards:
       tolerate a whole generation of young people becoming addicted to
       nicotine…”  
         
-        
-        
       Scott Gottlieb, FDA Commissioner, after the agency took an unprecedented
       step ordering 5 e-cig makers to submit plans on how to address teen use of
       their products, which he calls an "epidemic."
 
 
       [Read more Here](https://smarthernews.com/18-08-30-cigarettes-vaping/)
-    citation: Read more Here
     _key: card-3-a65bb078-3167-4f0a-9973-57e06c41379c
   - order: 3
     body: >-
       > “I think I could beat Trump because I’m as tough as he is, I’m smarter
       than he is.”  
-        
-        
         
       Jamie Dimon, JP Morgan Chase CEO, before backtracking soon after saying he
       shouldn't have said it. I'm not running for President. Dimon, a lifelong
@@ -75,8 +69,7 @@ cards:
     _key: card-4-483157f9-d372-448e-bc4d-a18ee0676931
   - order: 4
     body: >-
-      > ‘We have branding opportunities right there.”  
-        
+      > "We have branding opportunities right there.”  
         
         
       Jim Bridenstine, NASA administrator, on the possibilities of corporate

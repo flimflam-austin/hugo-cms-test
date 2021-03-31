@@ -2,14 +2,15 @@
 title: 18.07.19 Facial Recognition
 slug: 20180719-18-07-19-facial-recognition
 _id: legacy-d86aa64b-d1a8-40e1-a833-f08966198148
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 0aCMfzqL0erea7otJuWQOu
 type: quick_reads
 draft: false
 aliases:
   - 18-07-19-facial-recognition/
 _createdAt: '2018-07-19T11:55:54Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T17:27:49Z'
 date: '2018-07-19T11:55:54+00:00'
+lastmod: '2018-07-19T11:55:54+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       FLIP: WHO'S WATCHING?
-    citation: 'FLIP: WHO''S WATCHING?'
     _key: card-1-952133f2-2a5e-46a3-942c-16b6ff527fc5
   - order: 1
     body: >-
@@ -57,7 +57,6 @@ cards:
 
       > Tech giant calls for Congress to create a bipartisan commission to
       outline new rules governing facial recognition.  
-        
         
         
       _“A world with vigorous regulation of products that are useful but

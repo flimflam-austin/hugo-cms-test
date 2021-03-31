@@ -2,14 +2,15 @@
 title: 18.07.18 Adhd Study
 slug: 20180718-18-07-18-adhd-study
 _id: legacy-57af9bd9-4582-4e83-b831-117ad9018913
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 0aCMfzqL0erea7otJuWL1l
 type: quick_reads
 draft: false
 aliases:
   - 18-07-18-adhd-study/
 _createdAt: '2018-07-18T12:02:39Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T17:27:22Z'
 date: '2018-07-18T12:02:39+00:00'
+lastmod: '2018-07-18T12:02:39+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Headline vs Reality
-    citation: Headline vs Reality
     _key: card-1-00fe2b9b-64e4-437b-a030-7a6e0342b41e
   - order: 1
     body: >-

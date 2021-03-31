@@ -2,14 +2,15 @@
 title: 18.07.10 Immigration Separation Wall
 slug: 20180710-18-07-10-immigration-separation-wall
 _id: legacy-47d4cd26-683a-4bbd-bbbb-2e67c48f5cea
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 45Isps23253Yjlaq28Yoaz
 type: quick_reads
 draft: false
 aliases:
   - 18-07-10-immigration-separation-wall/
 _createdAt: '2018-07-10T11:51:36Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:19:23Z'
 date: '2018-07-10T11:51:36+00:00'
+lastmod: '2018-07-10T11:51:36+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
 
 
       FLIP FOR LATEST
-    citation: FLIP FOR LATEST
     _key: card-1-ce2bf9c2-100a-48e9-9d98-f389fc363840
   - order: 1
     body: >-
@@ -56,11 +56,12 @@ cards:
       * Admin now may have 2 options: **release the family or split them up** -A
       which Trump’s June 20 directive pledged to stop.
 
-      * **Older kids**A to be reunited by **July 26**.
+      * **Older kids** to be reunited by **July 26**.
+
+
 
 
       elsewhere on border...
-    citation: elsewhere on border...
     _key: card-3-e4cc0627-223d-4fc7-acca-ed0c1e900264
   - order: 3
     body: >-

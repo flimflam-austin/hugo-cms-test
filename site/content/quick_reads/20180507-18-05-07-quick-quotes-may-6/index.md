@@ -2,14 +2,15 @@
 title: 18.05.07 Quick Quotes May 6
 slug: 20180507-18-05-07-quick-quotes-may-6
 _id: legacy-92bde5e7-802d-489a-ab94-9e015aa32e3a
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 45Isps23253Yjlaq28FaZB
 type: quick_reads
 draft: false
 aliases:
   - 18-05-07-quick-quotes-may-6/
 _createdAt: '2018-05-07T10:32:18Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:45:21Z'
 date: '2018-05-07T10:32:18+00:00'
+lastmod: '2018-05-07T10:32:18+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,8 +27,6 @@ cards:
       > “What we don’t want in this country, we don’t want anyone with
       unfettered power.”  
         
-        
-        
       Judge T.S. Elliot to prosecutors on Friday May 4, 2018, challenging them
       on whether the charges against Pres. Trump's former campaign advisor, Paul
       Manafort, fall within the scope of the investigation by Robert Mueller's
@@ -36,7 +35,6 @@ cards:
   - order: 1
     body: >-
       > “I have the date. I have the location. It’s all agreed to.  
-        
         
         
       Pres. Trump Friday, May 4th, 2018 aboard Air Force One re: the potential
@@ -49,7 +47,6 @@ cards:
       deal and a great thing.”  
         
         
-        
       Donatella Versace on "The Met's" latest exhibit "Heavenly Bodies: Fashion
       and the Catholic Imagination" (The Met Ball shares the same theme). 150
       fashions (including from Versace) will display along side religious
@@ -59,7 +56,6 @@ cards:
     body: >-
       > “The economy has added jobs every month since Oct 2010, a **91-month
       stretch** that ranks at the **longest period of job growth in record**.”  
-        
         
         
       Wall Street Journal article announcing new jobless rate at 3.9% - the

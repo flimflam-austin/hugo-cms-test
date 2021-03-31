@@ -2,14 +2,15 @@
 title: 18.07.30 Smarther Tip Katchakid
 slug: 20180730-18-07-30-smarther-tip-katchakid
 _id: legacy-b2f32527-1f11-4dbe-8f7c-34484ffc5cf3
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 45Isps23253Yjlaq2AtmNt
 type: quick_reads
 draft: false
 aliases:
   - 18-07-30-smarther-tip-katchakid/
 _createdAt: '2018-07-31T01:14:25Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T19:17:20Z'
 date: '2018-07-31T01:14:25+00:00'
+lastmod: '2018-07-31T01:14:25+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/lNmDwOS9bDU?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-5c406b9e-9464-4e2e-97fa-5b8b325956da
   - order: 1
     body: >-

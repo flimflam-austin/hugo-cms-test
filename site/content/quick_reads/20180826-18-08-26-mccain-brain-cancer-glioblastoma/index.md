@@ -2,14 +2,15 @@
 title: 'What You Should Know: Glioblastoma'
 slug: 20180826-18-08-26-mccain-brain-cancer-glioblastoma
 _id: legacy-779c443a-f23a-4385-838a-1d9220dea63c
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: LotyrYkaRjTl0E452yYfyv
 type: quick_reads
 draft: false
 aliases:
   - 18-08-26-mccain-brain-cancer-glioblastoma/
 _createdAt: '2018-08-26T18:26:13Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-27T20:48:38Z'
 date: '2018-08-26T18:26:13+00:00'
+lastmod: '2018-08-26T18:26:13+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,12 +24,11 @@ cards:
       # GLIOBLASTOMA
 
 
-      Sen. John McCain fell victim to one of the most **common**A and
-      **deadliest**A of malignant primary brainA tumors.
+      Sen. John McCain fell victim to one of the most common and deadliest of
+      malignant primary brain tumors.
 
 
       What is it?
-    citation: What is it?
     _key: card-1-c2e74a5e-35e2-4dea-b6e8-435aa4d95c60
   - order: 1
     body: >-
@@ -62,12 +62,11 @@ cards:
     _key: card-3-4804482f-2749-44f2-9a66-93946443248d
   - order: 3
     body: >-
-      > “He was good company, excellent company. I think I’m going to miss him
+      “He was good company, excellent company. I think I’m going to miss him
       more than I can say. We disagreed on most issues, but I admitted — but I
       admired his passion for his convictions, his patience with the hard and
       sometimes dull work of legislating, and his uncanny sense for when
       differences could be bridged and his cause advanced by degrees.”  
-        
         
         
       Sen. McCain at Sen. Kennedy's Memorial Service, August 2009

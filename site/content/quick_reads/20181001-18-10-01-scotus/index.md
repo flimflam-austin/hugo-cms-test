@@ -2,14 +2,15 @@
 title: Opening Day at the Supreme Court
 slug: 20181001-18-10-01-scotus
 _id: legacy-45612560-758a-45ad-9a0f-981d150b60b6
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: 0aCMfzqL0erea7otJxvH1t
 type: quick_reads
 draft: false
 aliases:
   - 18-10-01-scotus/
 _createdAt: '2018-10-01T11:39:46Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:11:00Z'
 date: '2018-10-01T11:39:46+00:00'
+lastmod: '2018-10-01T11:39:46+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       Why 9?
-    citation: Why 9?
     _key: card-1-750b0748-05f8-402b-b568-f69b0ff15c0f
   - order: 1
     body: >-
@@ -40,11 +40,11 @@ cards:
 
 
       In 1790, the Supreme Court assembled for the **first time in NYC** (then
-      our Nation’s Capital) with**A 6 justices**.
+      our Nation’s Capital) with** 6 justices**.
 
 
       From 1790 to 1869, Congress has changed the number of justices 6 times
-      (requiring as many as 10 and as few as 5) until settling atA **9A
+      (requiring as many as 10 and as few as 5) until settling at **9
       justices**.
     _key: card-2-ca0dffab-43aa-4e43-be6a-f7ca109b2333
   - order: 2
@@ -62,17 +62,13 @@ cards:
     _key: card-3-f8391d0e-a3d9-4de3-947e-ecbbfebf3017
   - order: 3
     body: >-
-      > Although this term does not yet include any notable cases, *IF* Judge
+      Although this term does not yet include any notable cases, *IF* Judge
       Brett Kavanaugh is confirmed, his lifetime appointment means he’ll start
       right away and:  
-        
-        
         
       “He will likely be the deciding votes on such issues as voting rights,
       reproductive choice and justice, the ability of everyday Americans to hold
       big business accountable.”  
-        
-        
         
       Elizabeth Wydra, President of the Constitutional Accountability Center
     _key: card-4-9250a91b-48e5-45ee-a106-0dbf58975476

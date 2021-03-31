@@ -2,14 +2,15 @@
 title: A Once in a Lifetime College Gameday Experience
 slug: 20180825-18-08-24-notre-dame
 _id: legacy-96c1a9b3-c94b-4004-81ca-0f4589a88879
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 0aCMfzqL0erea7otJv16QS
 type: quick_reads
 draft: false
 aliases:
   - 18-08-24-notre-dame/
 _createdAt: '2018-08-25T04:39:00Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:18:36Z'
 date: '2018-08-25T04:39:00+00:00'
+lastmod: '2018-08-25T04:39:00+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -42,7 +43,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/8r0PfgtJvHU?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-6c47b1ff-782a-4f73-b77b-3fef4863d6c1
   - order: 2
     body: >-
@@ -51,7 +51,6 @@ cards:
 
       > “Buy game tickets, hotel rooms & flights as soon as possible. The closer
       to football season the harder to find & more expensive things get.”  
-        
         
         
       Jill recommends staying at a hotel across from the stadium or in nearby
@@ -68,12 +67,10 @@ cards:
       football weekend Fridays, you can too!”  
         
         
-        
       SmartHER tip: most of the best things to do are FREE!
 
 
       [CLICK: Game Day Events](http://gameday.nd.edu/events/)
-    citation: 'CLICK: Game Day Events'
     _key: card-4-d6f95db3-59de-47a8-a6b2-300cc688af13
   - order: 4
     body: >-

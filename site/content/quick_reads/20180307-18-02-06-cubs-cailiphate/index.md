@@ -2,14 +2,15 @@
 title: 18.03.06 Cubs of the Cailiphate
 slug: 20180307-18-02-06-cubs-cailiphate
 _id: legacy-5139d260-4420-42f9-ad7d-7b8b54cc3ab4
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: 45Isps23253Yjlaq283xKj
 type: quick_reads
 draft: false
 aliases:
   - 18-02-06-cubs-cailiphate/
 _createdAt: '2018-03-07T12:14:34Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:10:44Z'
 date: '2018-03-07T12:14:34+00:00'
+lastmod: '2018-03-07T12:14:34+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,7 +35,6 @@ cards:
 
 
       Flip For More
-    citation: Flip For More
     _key: card-1-bf818772-5604-4750-a42a-727d09be911e
   - order: 1
     body: >-
@@ -64,7 +64,6 @@ cards:
 
 
       Flip For More
-    citation: Flip For More
     _key: card-3-9428325d-f6ad-4bbb-9d63-321769cdc342
   - order: 3
     body: >-

@@ -2,14 +2,15 @@
 title: 18.03.06 Stay at Home Moms
 slug: 20180306-18-03-06-stay-home-moms
 _id: legacy-dd9943ef-8175-4cf6-87dc-0440c3e01cf1
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: 45Isps23253Yjlaq283RvE
 type: quick_reads
 draft: false
 aliases:
   - 18-03-06-stay-home-moms/
 _createdAt: '2018-03-06T12:49:24Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:09:18Z'
 date: '2018-03-06T12:49:24+00:00'
+lastmod: '2018-03-06T12:49:24+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -30,7 +31,6 @@ cards:
 
 
       Flip For More
-    citation: Flip For More
     _key: card-1-cc078caf-c5af-4658-a3d3-2f8260155b19
   - order: 1
     body: >-
@@ -59,7 +59,6 @@ cards:
 
 
       Not Just Moms...Flip
-    citation: Not Just Moms...Flip
     _key: card-3-2c657d9d-260d-44ce-9f6c-7b54f5f316a2
   - order: 3
     body: >-
@@ -99,7 +98,6 @@ cards:
 
       [Calculate Your Stay-At-Home
       Pay](https://swz.salary.com/MomSalaryWizard/LayoutScripts/Mswl_NewSearch.aspx)
-    citation: Calculate Your Stay-At-Home Pay
     _key: card-6-66667d7e-d898-48a6-b9a5-d60ca740f690
   - order: 6
     body: >-

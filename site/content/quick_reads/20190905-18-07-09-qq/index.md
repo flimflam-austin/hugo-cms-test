@@ -2,14 +2,15 @@
 title: 18.07.09 Qq
 slug: 20190905-18-07-09-qq
 _id: legacy-b136e25f-3b0b-4263-b62d-0c5ae03e2653
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: LotyrYkaRjTl0E452wajX3
 type: quick_reads
 draft: false
 aliases:
   - 18-07-09-qq/
 _createdAt: '2018-07-09T12:27:03Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T02:17:11Z'
 date: '2018-07-09T12:27:03+00:00'
+lastmod: '2018-07-09T12:27:03+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,9 +21,8 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     body: >-
-      > ‘You are a true Wonder Woman. The kids loved ita|and so did the
+      > "You are a true Wonder Woman. The kids loved ita|and so did the
       staff.”  
-        
         
         
       Dr. Lucas Collazo, Inova Children's Hospital, outside of Washington D.C.,
@@ -32,13 +32,11 @@ cards:
 
       [Click: More
       Photos](https://twitter.com/WonderWomanHQ/status/1016066329692995585)
-    citation: 'Click: More Photos'
     _key: card-1-8d6bd8d3-5689-4707-87f7-b9ee17601290
   - order: 1
     body: >-
       > “We must hope that sanity, and a little courage, someday, somehow
       prevail in Washington.”  
-        
         
         
       Jeh Johnson, former DHS Sec. under Pres. Obama. In an editorial for the
@@ -48,8 +46,7 @@ cards:
     _key: card-2-53fa01e7-9b9a-4a47-92a0-52332fe5784b
   - order: 2
     body: >-
-      > ‘If those requests were gangster-like, the world is a gangster’  
-        
+      > "If those requests were gangster-like, the world is a gangster"  
         
         
       Sec. of State Mike Pompeo's response to North Korean officials saying
@@ -59,9 +56,8 @@ cards:
     _key: card-3-25dfb4a3-bcf2-4eee-9a71-89063f54d6d2
   - order: 3
     body: >-
-      > ‘The question is no longer whether or not there will be a trade war, the
-      war has already started’  
-        
+      > "The question is no longer whether or not there will be a trade war, the
+      war has already started"  
         
         
       French Finance Minister Bruno Le Maire on the Trump administration's new

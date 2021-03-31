@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-06-03T15:37:26Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-06-03T15:37:26+00:00'
+lastmod: '2020-06-03T15:37:26+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     0677e77de65d78d62ba0934cc6baa79317304949-1024x918.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="ztV1uvgj35g" title="News Themes: The Pandemic vs. Prejudice" >}}

@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Wednesday, November 28, 2018
 slug: 20190905-18-11-28-qq
 _id: legacy-94359351-7a3b-4cc4-80ea-aa209cae7654
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: LotyrYkaRjTl0E452yj5Kn
 type: quick_reads
 draft: false
 aliases:
   - 18-11-28-qq/
 _createdAt: '2018-11-28T13:20:04Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:35:07Z'
 date: '2018-11-28T13:20:04+00:00'
+lastmod: '2018-11-28T13:20:04+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,10 +21,8 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     body: >-
-      > ‘Despite the headwinds facing the housing market going into 2019, we
-      expect U.S. house prices to generally achieve a soft landing.’  
-        
-        
+      > "Despite the headwinds facing the housing market going into 2019, we
+      expect U.S. house prices to generally achieve a soft landing."  
         
       Goldman Sachs on why, even in the face of higher mortgage rates,
       unfavorable recent tax policy changes, it sees a slowdown - not a crisis
@@ -33,10 +32,8 @@ cards:
     _key: card-1-8a9f1a30-819d-4ee1-a59d-9b5becc3f048
   - order: 1
     body: >-
-      > “So far, I’m not even a little bit happy with my selection of Jay. Not
+      “So far, I’m not even a little bit happy with my selection of Jay. Not
       even a little bit.”  
-        
-        
         
       Pres. Trump on his disapproval of Federal Reserve's plan to gradual
       increase interest rates & its Chairman Jerome Powell. On Wednesday, Powell
@@ -49,8 +46,6 @@ cards:
       > “…appear to have used cellular telephones… to facilitate unauthorized…
       andA impermissible contact.”  
         
-        
-        
       U.S. prosecutors alleging lawyers for "El Chapo" Guzman helped coordinate
       an unauthorized phone conversation between the drug lord and his wife Emma
       Coronel. The motion asks for sanctions against the defense team for
@@ -62,8 +57,6 @@ cards:
       > “The reason we won is because Mississippians know me and they know my
       heart, and thank you for stepping up Mississippi.”  
         
-        
-        
       Republican Cindy Hyde-Smith on her historic and controversial election to
       the U.S. Senate in Mississippi. Her win brings the Republican majority in
       the Senate to 53-47. Hyde-Smith will be the first woman elected to
@@ -72,11 +65,9 @@ cards:
     _key: card-4-f3423023-f0dd-4215-b92a-efdbd88a5952
   - order: 4
     body: >-
-      > ‘Sir, I can’t thank you enough. What you’ve done for me is virtually
+      > "Sir, I can’t thank you enough. What you’ve done for me is virtually
       unheard of. Never in my life have I or my family witnessed such
       generosity.”  
-        
-        
         
       Hunter Shamatt (20) after a fellow traveler returned his lost wallet after
       finding it on a flight. The package, sent to his home in South Dakota,

@@ -2,14 +2,15 @@
 title: 18.05.08 Why Does Iran Deal Even Matter?
 slug: 20180511-18-05-08-iran-deal-even-matter
 _id: legacy-9787bfc3-9ac9-47e9-8640-e16133804150
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 0aCMfzqL0erea7otJrzeKz
 type: quick_reads
 draft: false
 aliases:
   - 18-05-08-iran-deal-even-matter/
 _createdAt: '2018-05-09T10:44:43Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:49:55Z'
 date: '2018-05-09T10:44:43+00:00'
+lastmod: '2018-05-09T10:44:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,7 +35,6 @@ cards:
 
 
       Flip For More
-    citation: Flip For More
     _key: card-1-2908e42b-6f2e-41f1-84bb-e1466a3d94b5
   - order: 1
     body: >-

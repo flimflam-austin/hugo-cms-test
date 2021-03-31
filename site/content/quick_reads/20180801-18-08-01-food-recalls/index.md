@@ -2,14 +2,15 @@
 title: 18.08.01 Food Recalls
 slug: 20180801-18-08-01-food-recalls
 _id: legacy-26fe63fe-edf8-48c4-bdf6-820412af2c25
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: LotyrYkaRjTl0E452xWR89
 type: quick_reads
 draft: false
 aliases:
   - 18-08-01-food-recalls/
 _createdAt: '2018-08-01T11:50:09Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T19:19:54Z'
 date: '2018-08-01T11:50:09+00:00'
+lastmod: '2018-08-01T11:50:09+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,19 +32,14 @@ cards:
 
 
       Not necessarily.
-    citation: Not necessarily.
     _key: card-1-2e4e1ddd-c6d1-4450-b2b3-ce34e36ffe5f
   - order: 1
     body: >-
       ## Why It Matters
 
 
-      >   
-        
-      _‘These are the kinds of statistics you should expect in Bangladesh, not
-      here.”A_  
-        
-        
+      _"These are the kinds of statistics you should expect in Bangladesh, not
+      here.”_  
         
       Jayden Hanson, Center for Food Safety
 

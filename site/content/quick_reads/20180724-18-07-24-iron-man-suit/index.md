@@ -2,14 +2,15 @@
 title: 18.07.24 Iron Man Suit
 slug: 20180724-18-07-24-iron-man-suit
 _id: legacy-bc71d91a-f48d-457e-9c61-417f53539d8c
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 45Isps23253Yjlaq2AeoL1
 type: quick_reads
 draft: false
 aliases:
   - 18-07-24-iron-man-suit/
 _createdAt: '2018-07-24T11:43:11Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T17:39:08Z'
 date: '2018-07-24T11:43:11+00:00'
+lastmod: '2018-07-24T11:43:11+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/bxR_GyPxOgE?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-e15420ee-5881-41f0-950c-2c2f9fd459a2
   - order: 1
     body: |-
@@ -43,8 +43,9 @@ cards:
       * Set a Guinness World Record flying at 32mph.
       * Flights last 3-4 minutes.
 
+
+
       OK, how much?
-    citation: OK, how much?
     _key: card-2-bf70b318-9cc4-4546-8a96-62617a517856
   - order: 2
     body: >-

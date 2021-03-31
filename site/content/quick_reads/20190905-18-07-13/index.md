@@ -2,14 +2,15 @@
 title: 18.07.13 Qq
 slug: 20190905-18-07-13
 _id: legacy-e3947ddd-f745-4782-999d-c401b51d748e
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: 0aCMfzqL0erea7otJsIGeP
 type: quick_reads
 draft: false
 aliases:
   - 18-07-13/
 _createdAt: '2018-07-13T11:00:14Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T02:39:22Z'
 date: '2018-07-13T11:00:14+00:00'
+lastmod: '2018-07-13T11:00:14+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,12 +21,10 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     body: >-
-      > “Self-made means having succeeded in life unaided.  
-        
+      “Self-made means having succeeded in life unaided.  
         
         
       Used in a sentence: Forbes says that Kylie Jenner is a self-made woman.”  
-        
         
         
       Dictionary.com tweet on Forbes magazine cover story featuring Kylie
@@ -39,7 +38,6 @@ cards:
       puzzle…”  
         
         
-        
       Fed Chairman Jay Powell to NPR addressing a question on wages. Data shows
       we are paying more for basic goods, effectively wiping out the real-life
       impact of wage gains. Powell says he doesn't know why wages aren't going
@@ -47,10 +45,9 @@ cards:
     _key: card-2-458420ee-142b-4a5b-8885-e5ca48ba0217
   - order: 2
     body: >-
-      > ‘Let me be clear, unequivocally and under oath: not once in my 26 years
-      of defending my nation did my personal opinions impact any official action
-      I took.”  
-        
+      "Let me be clear, unequivocally and under oath: not once in my 26 years of
+      defending my nation did my personal opinions impact any official action I
+      took.”  
         
         
       FBI agent Peter Strzok, testifying before Congress. A lead agent for the
@@ -61,11 +58,9 @@ cards:
     _key: card-3-20fae5af-5138-4b25-8da7-fb9daad7fb8c
   - order: 3
     body: >-
-      > ‘He was sort of the guy that would argue both sides. I don’t think he
-      sees himself as an ideologue in any way. I think he sees himself as
-      someone who has intellectual rigor in how he looks at the law.’  
-        
-        
+      "He was sort of the guy that would argue both sides. I don’t think he sees
+      himself as an ideologue in any way. I think he sees himself as someone who
+      has intellectual rigor in how he looks at the law."  
         
       Yale Law graduate Ken Christmas, a fmr. law school roommate of Supreme
       Court Justice nominee Brett Kavanaugh. Christmas, an African-American,

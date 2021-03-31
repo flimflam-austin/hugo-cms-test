@@ -2,14 +2,15 @@
 title: 18.05.14 Quick Quotes
 slug: 20180514-18-05-14-quick-quotes
 _id: legacy-1e6473c7-6cbc-405a-8718-f2de0473afcb
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: LotyrYkaRjTl0E452wV3kT
 type: quick_reads
 draft: false
 aliases:
   - 18-05-14-quick-quotes/
 _createdAt: '2018-05-14T12:00:27Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-26T00:14:39Z'
 date: '2018-05-14T12:00:27+00:00'
+lastmod: '2018-05-14T12:00:27+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,9 +24,8 @@ cards:
       # QUICK QUOTES
 
 
-      > **‘I figure if you’re going to jump off a cliff, you might as well
-      fly.’**  
-        
+      > **"I figure if you’re going to jump off a cliff, you might as well
+      fly."**  
         
         
       Actor Ryan Reynolds speaking about how he manages his anxiety; once he
@@ -37,10 +37,10 @@ cards:
       > **“The average millennial doesn’t have time to make a full meal with
       fresh meat and produce. More and more they’re seeing these products as
       viable options.’**  
-        
-        
-        
-      Dewey Warner, Euromonitor analyst on how the frozen meals have become a
+
+
+
+      > Dewey Warner, Euromonitor analyst on how the frozen meals have become a
       bright spot in the supermarket aisles despite appearing out of step with
       food trends such as quinoa, kale and farm-to-table. The popularity stems
       in part from a record-high level of single Americans as millennials wait
@@ -51,8 +51,6 @@ cards:
       > **‘That’s the prelude to getting them into a higher rate production
       which we hope to start about the middle of next year.’**  
         
-        
-        
       Marc Robert, Boston Dynamics CEO on plans to bring 100 of its Spotmini
       robot dogs into production later this year. The research firm said there
       would also be additional features like mounted security cameras and arms
@@ -61,12 +59,10 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/Ve9kWX_KXus?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-3-dd47ac63-a7ee-42d7-b040-c0d46132c52f
   - order: 3
     body: >-
       > **“This was not something that was really my doing or my choice.”**  
-        
         
         
       Lindsey Buckingham addresses his firing from Fleetwood Mac for first time
@@ -76,9 +72,8 @@ cards:
     _key: card-4-99849ea2-f600-47bd-93a0-f8715117b899
   - order: 4
     body: >-
-      > ‘It’s like a burned Cheez-It with syrup. But I don’t hate it like I
-      thought I would.’  
-        
+      > "It’s like a burned Cheez-It with syrup. But I don’t hate it like I
+      thought I would."  
         
         
       Wife of NY Times Jordan Lebeau, who wrote an article on how casual dining

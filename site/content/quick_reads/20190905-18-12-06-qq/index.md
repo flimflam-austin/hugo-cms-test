@@ -2,14 +2,15 @@
 title: Your Top Stories
 slug: 20190905-18-12-06-qq
 _id: legacy-1396330f-e708-46f1-90ee-4d775ba6573c
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: LotyrYkaRjTl0E452ykFxV
 type: quick_reads
 draft: false
 aliases:
   - 18-12-06-qq/
 _createdAt: '2018-12-06T02:59:46Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:53:42Z'
 date: '2018-12-06T02:59:46+00:00'
+lastmod: '2018-12-06T02:59:46+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,8 +23,6 @@ cards:
     body: >-
       > “To us, his was the brightest of the thousand points of light.”  
         
-        
-        
       President George W. Bush eulogizing his father by repeating one of his
       famous lines. In accepting the Republican nomination for President in
       1988, Pres. H.W. Bush described America, as a "nation of communities...a
@@ -33,10 +32,8 @@ cards:
     _key: card-1-e9796d3c-40e5-47d4-8e4b-435ab7a70f49
   - order: 1
     body: >-
-      > ‘I believe that the operational military situation is largely
-      stalemated.’  
-        
-        
+      "I believe that the operational military situation is largely
+      stalemated."  
         
       Marine Lt. Gen. Kenneth McKenzie testifying to the Senate Armed Services
       Committee about Afghanistan, as he seeks confirmation to head U.S. forces
@@ -47,11 +44,9 @@ cards:
     _key: card-2-73d138cb-94a1-406f-a225-fed1c78a3778
   - order: 2
     body: >-
-      > ‘Our American partners apparently believe that the situation has changed
+      "Our American partners apparently believe that the situation has changed
       to such an extent that the U.S. should have such weapons. What answer will
-      they have from our side? It’s simple: we’ll do it too.’  
-        
-        
+      they have from our side? It’s simple: we’ll do it too."  
         
       Russian President Vladimir President addressing U.S. threats to withdraw
       from a Cold War arms treaty that prohibits the construction of certain
@@ -60,14 +55,12 @@ cards:
       violating the deal.
     _key: card-3-bbfbc884-02ce-4d07-b4c9-43201bf9e988
   - order: 3
-    body: "> ‘She came out on the good, on this end, and the other guy a\x14 the bad guy a\x14 didn’t… I think she’ll be inspiration to a lot of other ladies.’  \n  \n  \n  \nSouth Carolina Pickens County Sheriff Rick Clark speaking about a local woman who shot and killed an escaped prison inmate who broke down her door in the middle of the night and approached her bedroom. The woman, a legal gun owner, shot the intruder once in the head and killed him."
+    body: "> \"She came out on the good, on this end, and the other guy a\x14 the bad guy a\x14 didn’t… I think she’ll be inspiration to a lot of other ladies.\"  \n  \nSouth Carolina Pickens County Sheriff Rick Clark speaking about a local woman who shot and killed an escaped prison inmate who broke down her door in the middle of the night and approached her bedroom. The woman, a legal gun owner, shot the intruder once in the head and killed him."
     _key: card-4-c016b629-6a9e-4d97-b094-1a8ffba53b06
   - order: 4
     body: >-
       > “It was a day and night difference. She got up on the bed and did a back
       flip. That is the first time we saw her acting like she was before.”  
-        
-        
         
       Curtis Stark, owner of Olivia, a Boston terrier, burned badly in
       California's deadliest wildfire. In an innovative new treatment, vets are

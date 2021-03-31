@@ -10,10 +10,14 @@ aliases:
 _createdAt: '2021-01-29T22:34:08Z'
 _updatedAt: '2021-03-23T16:22:29Z'
 date: '2021-01-29T22:34:08+00:00'
+lastmod: '2021-01-29T22:34:08+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< instapost id="CKoq59pFmZE" >}}

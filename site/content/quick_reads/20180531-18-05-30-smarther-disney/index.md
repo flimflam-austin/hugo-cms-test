@@ -2,14 +2,15 @@
 title: 18.05.30 Smarther Disney
 slug: 20180531-18-05-30-smarther-disney
 _id: legacy-07663e82-4752-45e5-bf84-e5ba6d01ffb8
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28Pfki
 type: quick_reads
 draft: false
 aliases:
   - 18-05-30-smarther-disney/
 _createdAt: '2018-05-31T10:58:38Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T00:55:48Z'
 date: '2018-05-31T10:58:38+00:00'
+lastmod: '2018-05-31T10:58:38+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -39,8 +40,6 @@ cards:
       AGAIN!’ And then on your way home, you say ‘We should probably start
       planning our next trip…’’  
         
-        
-        
       Dr. Darria on taking her 4 & 1-year-old to Disney World. (P.S. oxytocin is
       a natural hormone that causes you to forget the pain of childbirth.)
     _key: card-2-618155db-529a-4460-91f7-ca952af6cec9
@@ -53,8 +52,6 @@ cards:
       (and what’s always in reach at Disney? CANDY and sugary drinks = meltdowns
       later).”  
         
-        
-        
       Dr. Darria suggests stroller hooks for water bottles and water breaks
       every 20-30 mins for kiddos & parents.
     _key: card-3-32891481-8601-4d2a-8857-1539d45e1e5b
@@ -66,13 +63,11 @@ cards:
       worthwhile.”  
         
         
-        
       Dr. Darria opted for a FastPass, but says avoid over-scheduling.
 
 
       [Click: FastPass
       Info](https://disneyworld.disney.go.com/faq/fast-pass-plus/product-description/)
-    citation: 'Click: FastPass Info'
     _key: card-4-3d26a06c-4400-4c91-9088-140aec23abfc
   - order: 4
     body: >-
@@ -87,7 +82,6 @@ cards:
 
 
       Flip For A Tasty Tip
-    citation: Flip For A Tasty Tip
     _key: card-5-04f46b40-97ff-460e-9f36-c3e4ce67da7b
   - order: 5
     body: >-
@@ -97,7 +91,6 @@ cards:
       > “Stop by Joffrey’s for donuts some mornings. Just do it. You have to ask
       where the stand is in each different park, but after you’re handed a warm
       donut the size of your head, you will thank me.”  
-        
         
         
       Dr. Darria shares more of her tips on our source page. It's a must-read!

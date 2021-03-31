@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Tuesday, September 11
 slug: 20190905-18-09-11-qq
 _id: legacy-41980c03-3464-4e02-94be-64b99c478a8b
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 0aCMfzqL0erea7otJxhDjQ
 type: quick_reads
 draft: false
 aliases:
   - 18-09-11-qq/
 _createdAt: '2018-09-11T12:00:09Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T21:44:24Z'
 date: '2018-09-11T12:00:09+00:00'
+lastmod: '2018-09-11T12:00:09+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,9 +21,8 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     body: >-
-      > ‘They didn’t win. The entirety of the World Trade Center is more
-      beautiful than it used to be.’  
-        
+      "They didn’t win. The entirety of the World Trade Center is more beautiful
+      than it used to be."  
         
         
       Steven Kent, one of the first New Yorkers to use the newly reopened
@@ -38,20 +38,16 @@ cards:
       precautions. We have already began mobilizing our assets to respond
       accordingly, and we are here for you!”  
         
-        
-        
       President Trump, Twitter, as Hurricane Florence spins toward the East
       coast of the United States. In the Pacific, Hurricane Olivia threatens
       Hawaii.
     _key: card-2-fa585af2-3796-4cad-8dc0-bc7c27f357ab
   - order: 2
     body: >-
-      > ‘It is absurd to imagine my husband engaging in espionage by researching
+      > "It is absurd to imagine my husband engaging in espionage by researching
       archival documents more than 100 years old for a history dissertation. He
       is not a spy but a linguist, a historian who loves Persian culture, a
-      devoted husband and loving father.’  
-        
-        
+      devoted husband and loving father."  
         
       Hua Qu, wife of Xiyue Wang, a Princeton University graduate student
       currently in prison in Iran; 1 of 4 known Americans detainees. The UN
@@ -62,7 +58,6 @@ cards:
       > “Who wants to take it? C’mon hurry! You gotta go fast!”  
         
         
-        
       CAD designer Jeremy Fielding who rigged a rowing machine to power his
       children's Nintendo Wii after noticing they played video games for hours
       at a time. American children spend more than 2 hours on average in front
@@ -71,7 +66,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/qhejwuDLr24?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-4-e909b2b1-3c1c-458e-a39a-aecb0a87b680
   - order: 4
     body: '[view sources](https://smarthernews.com/18-09-11-qq/)'

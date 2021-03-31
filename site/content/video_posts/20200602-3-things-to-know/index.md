@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-06-03T02:14:11Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-06-03T02:14:11+00:00'
+lastmod: '2020-06-03T02:14:11+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     1f62996c8d3c99dac572ad9dc249b454d7e4c31b-2560x1847.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="pnq1r-ZCDkI" title="Tuesday Coffee Talk" >}}

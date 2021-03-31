@@ -2,14 +2,15 @@
 title: The True Story Behind the Miracle on Market
 slug: 20180921-18-09-21-miracle-on-market
 _id: legacy-1188d423-bd03-48cc-837d-d476572fbac2
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 0aCMfzqL0erea7otJxlMK5
 type: quick_reads
 draft: false
 aliases:
   - 18-09-21-miracle-on-market/
 _createdAt: '2018-09-21T13:29:25Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:24:37Z'
 date: '2018-09-21T13:29:25+00:00'
+lastmod: '2018-09-21T13:29:25+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,7 +28,6 @@ cards:
 
       [Click Here To
       Listen](http://smarthernews.libsyn.com/smarther-news-ep13-the-true-story-behind-the-miracle-on-market)
-    citation: Click Here To Listen
     _key: card-1-0dcaeee5-5e4c-4470-a761-30df9e9ac05c
   - order: 1
     body: >-

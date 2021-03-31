@@ -2,14 +2,15 @@
 title: 18.05.30 Mustang
 slug: 20180601-18-05-30-mustang
 _id: legacy-16646660-cdfb-42dc-8097-96d994f60b3d
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28PlzZ
 type: quick_reads
 draft: false
 aliases:
   - 18-05-30-mustang/
 _createdAt: '2018-06-01T10:45:19Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T00:56:51Z'
 date: '2018-06-01T10:45:19+00:00'
+lastmod: '2018-06-01T10:45:19+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       Flip: Why
-    citation: 'Flip: Why'
     _key: card-1-b7be0ff0-0964-45ff-bb5b-4198ba41b269
   - order: 1
     body: >-
@@ -54,7 +54,6 @@ cards:
 
 
       FLIP: End of the road for sedans?
-    citation: 'FLIP: End of the road for sedans?'
     _key: card-3-188700c3-0981-49e4-9305-ebd81caa4e6b
   - order: 3
     body: >-

@@ -2,14 +2,15 @@
 title: 18.07.27 Qq
 slug: 20190905-18-07-27-qq
 _id: legacy-1d8ef5e7-4caa-4843-ae2c-af6b7640de93
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: 0aCMfzqL0erea7otJuaC6l
 type: quick_reads
 draft: false
 aliases:
   - 18-07-27-qq/
 _createdAt: '2018-07-27T11:55:44Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T17:45:54Z'
 date: '2018-07-27T11:55:44+00:00'
+lastmod: '2018-07-27T11:55:44+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,9 +21,7 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     body: >-
-      > ‘It cost me everything. I wish I worded it better.’  
-        
-        
+      > "It cost me everything. I wish I worded it better."  
         
       Roseanne Barr in her first TV interview after her ABC sitcom was canceled
       following a racist tweet. In May, Barr tweeted that former Obama official
@@ -32,10 +31,8 @@ cards:
     _key: card-1-ee7d896b-dde5-41ed-96cf-2f09bef1710d
   - order: 1
     body: >-
-      > ‘…I had my own activism streak in my youth. I’m not sure if you’ve heard
-      of the Boston Tea Party, but it was a real game changer.’  
-        
-        
+      > "…I had my own activism streak in my youth. I’m not sure if you’ve heard
+      of the Boston Tea Party, but it was a real game changer."  
         
       Sen. Orrin Hatch (R-UT), 84, speaking to high school students at a
       leadership summit. The joke comes just days after he tweeted his Google
@@ -47,8 +44,6 @@ cards:
     body: >-
       > “We’re investing so much in security that it will significantly impact
       our profitability.”  
-        
-        
         
       Facebook CEO Mark Zuckerberg on the company's underwhelming quarterly
       results, forecasting years of lower profit margins after data leaks and

@@ -2,14 +2,15 @@
 title: Quick Quotes for Wednesday, September 26
 slug: 20190905-18-09-26-qq
 _id: legacy-ed8d7974-9a3e-4bf7-bbf5-eb4a57628fc3
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 0aCMfzqL0erea7otJxmTvI
 type: quick_reads
 draft: false
 aliases:
   - 18-09-26-qq/
 _createdAt: '2018-09-26T11:45:14Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T22:38:03Z'
 date: '2018-09-26T11:45:14+00:00'
+lastmod: '2018-09-26T11:45:14+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,8 +24,6 @@ cards:
       > “It’s not about me. It’s about the Marines who didn’t the appropriate
       recognition when we got home.”  
         
-        
-        
       Marine Sgt. Maj. John Canley, 80, who in October will receive the Medal of
       Honor for his heroism during one of the bloodiest battles of the Vietnam
       war. Canley, injured in battle, risked his own life to save his fellow
@@ -32,11 +31,9 @@ cards:
     _key: card-1-e1e68660-b654-4a4d-a367-e26529c125e1
   - order: 1
     body: >-
-      > “We may never know the full extent of his double life as a sexual
-      predator but his decades-long reign of terror as a serial rapist is over….
-      Bill Cosby took my beautiful, healthy young spirit and crushed it.”  
-        
-        
+      “We may never know the full extent of his double life as a sexual predator
+      but his decades-long reign of terror as a serial rapist is over…. Bill
+      Cosby took my beautiful, healthy young spirit and crushed it.”  
         
       Andrea Constand, one of 60+ women who accused Bill Cosby of rape or sexual
       assault. Cosby was sentenced to 3-11 years for assaulting Constand in
@@ -49,7 +46,6 @@ cards:
       their elders: They’re staying married.”  
         
         
-        
       Ben Steverman, Bloomberg News, in his article, "Millennials are causing US
       divorce rate to plummet". The U.S. divorce rate is falling and researchers
       say that might be because younger Americans are choosing to get married
@@ -57,7 +53,7 @@ cards:
     _key: card-3-a98b09f0-581b-4b2b-a8e8-8a202914a8a1
   - order: 3
     body: >-
-      > ‘It’s a feasible, viable and a safe option.’  
+      > "It’s a feasible, viable and a safe option."  
         
         
         

@@ -2,14 +2,15 @@
 title: Smarthernews Quick Quotes for Thursday, September 4
 slug: 20190905-18-10-04-qq
 _id: legacy-02cb5311-1e73-4204-a2cb-5baa04428251
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 0aCMfzqL0erea7otJxwCIp
 type: quick_reads
 draft: false
 aliases:
   - 18-10-04-qq/
 _createdAt: '2018-10-04T11:53:12Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:22:55Z'
 date: '2018-10-04T11:53:12+00:00'
+lastmod: '2018-10-04T11:53:12+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,19 +26,15 @@ cards:
       EQUAL access for senators to study content from additional background info
       gathered by non-partisan FBI agents.”  
         
-        
-        
       Sen. Chuck Grassley (R-IA) confirming the FBI report delivered to the
       Senate; the confidential report will be kept in a locked room for all 100
       senators to read.
     _key: card-1-dc56b4a6-bfa9-42fc-b9ca-2c65d5e3833d
   - order: 1
     body: >-
-      > “We are profoundly disappointed that after the tremendous sacrifice she
+      “We are profoundly disappointed that after the tremendous sacrifice she
       made in coming forward, those directing the FBI investigation were not
       interested in seeking the truth.”  
-        
-        
         
       Statement by lawyers for Dr. Christine Blasey Ford who say she wasn't
       interviewed by the FBI after her public testimony under oath. We do not
@@ -46,11 +43,9 @@ cards:
     _key: card-2-370085bb-6355-46f4-af10-29b8f2efc602
   - order: 2
     body: >-
-      > ‘We see this as a consistent effort, before, during and after any
+      "We see this as a consistent effort, before, during and after any
       diplomatic efforts by the United States and the international
       community.”  
-        
-        
         
       Sandra Joyce, FireEye - a cybersecurity firm that describes hacking
       efforts by North Korea as an active global threat. While much focus
@@ -63,8 +58,6 @@ cards:
       > “We’re at a stage now where more information is available about you
       online and on your phone than there is in your house.”  
         
-        
-        
       Apple CEO Tim Cook on data privacy in an interview with "VICE News." He
       went on to say tech companies that say they need your data to perform
       better customer service is a "bunch of bunk"; Cook also said some amount
@@ -72,8 +65,7 @@ cards:
     _key: card-4-ed30f7c0-5d22-4126-ba11-7959ee3d3f49
   - order: 4
     body: >-
-      > ‘We want to finish telling this story.’  
-        
+      > "We want to finish telling this story."  
         
         
       Actor John Goodman to 'People Magazine' on why he, and fellow former

@@ -2,14 +2,15 @@
 title: Behind the Headline
 slug: 20180913-18-09-12-behind-the-headline
 _id: legacy-0aea6b7f-8cf8-40d7-8b3d-f04426526fd3
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 45Isps23253Yjlaq2D6FAR
 type: quick_reads
 draft: false
 aliases:
   - 18-09-12-behind-the-headline/
 _createdAt: '2018-09-13T11:59:09Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T21:47:59Z'
 date: '2018-09-13T11:59:09+00:00'
+lastmod: '2018-09-13T11:59:09+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,15 +26,12 @@ cards:
       > New data shows Americans have the “**highest household income ever**“…  
         
         
-        
       Do you truly feel richer?  
-        
         
         
       What you should know about this data.
 
       Dollars & Sense
-    citation: Dollars &amp; Sense
     _key: card-1-1cbdf61b-da8c-4c92-b70f-d0af3c0f358a
   - order: 1
     body: |-
@@ -48,7 +46,6 @@ cards:
       $61,371 = median household income.
 
       But...
-    citation: But...
     _key: card-2-e8d4c534-a6b8-4393-bf67-bb629feb6ab2
   - order: 2
     body: >-

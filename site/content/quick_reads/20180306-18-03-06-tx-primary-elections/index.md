@@ -2,14 +2,15 @@
 title: 18.03.06 Tx Primary Elections
 slug: 20180306-18-03-06-tx-primary-elections
 _id: legacy-bfe588a3-8667-4715-83f0-47fe58b20a12
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: 45Isps23253Yjlaq282qai
 type: quick_reads
 draft: false
 aliases:
   - 18-03-06-tx-primary-elections/
 _createdAt: '2018-03-06T12:43:55Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:08:28Z'
 date: '2018-03-06T12:43:55+00:00'
+lastmod: '2018-03-06T12:43:55+00:00'
 weight: 50
 card_series: Current Events
 colorpaletteclassname: '--bronze'
@@ -21,7 +22,6 @@ cards:
       Midterm election season kicks off TODAY in TEXAS
 
       TAP HERE FOR MORE
-    citation: TAP HERE FOR MORE
     _key: card-1-2d9eaf28-13b8-46c8-b3ef-657a9431f94c
   - order: 1
     body: >-
@@ -49,9 +49,6 @@ cards:
 
 
       **More Texans *MEANS*** **More Electoral Votes**
-
-
-      Why This Matters
     citation: Why This Matters
     _key: card-3-edfb0824-d633-4d42-82e8-9a8e6535924f
   - order: 3

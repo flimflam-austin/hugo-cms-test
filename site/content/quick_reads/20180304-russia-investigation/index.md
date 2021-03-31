@@ -2,14 +2,15 @@
 title: 18.02.23 Russia Investigation
 slug: 20180304-russia-investigation
 _id: legacy-4cfd4f7e-8908-4c31-baae-4d7ccf3873b5
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: 45Isps23253Yjlaq2806JD
 type: quick_reads
 draft: false
 aliases:
   - russia-investigation/
 _createdAt: '2018-02-23T12:10:21Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T21:52:19Z'
 date: '2018-02-23T12:10:21+00:00'
+lastmod: '2018-02-23T12:10:21+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       How Did We Get Here?
-    citation: How Did We Get Here?
     _key: card-1-69bafa00-4637-47ad-a691-67e7be25a403
   - order: 1
     body: >-

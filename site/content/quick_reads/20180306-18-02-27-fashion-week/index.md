@@ -2,14 +2,15 @@
 title: 18.02.27 Fashion Week
 slug: 20180306-18-02-27-fashion-week
 _id: legacy-37f2221f-d2e5-4fe9-8c86-d751dd46b46e
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: 45Isps23253Yjlaq283rwm
 type: quick_reads
 draft: false
 aliases:
   - 18-02-27-fashion-week/
 _createdAt: '2018-03-06T18:00:47Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:10:10Z'
 date: '2018-03-06T18:00:47+00:00'
+lastmod: '2018-03-06T18:00:47+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,7 +24,6 @@ cards:
       The Final Catwalk
 
 
-      ====================
 
 
       ## Fashion Week
@@ -39,8 +39,9 @@ cards:
       * Spring shows preview fall fashion trends.
 
 
+
+
       Flip For More
-    citation: Flip For More
     _key: card-1-35b6f558-58c0-478d-9033-1bc06be17682
   - order: 1
     body: >-
@@ -58,9 +59,10 @@ cards:
       * **Longer hemlines:** (untilA Saint Laurent went super short in Paris).
 
 
+
+
       [See Paris Show
       Here](https://www.vogue.com/fashion-shows/fall-2018-ready-to-wear/saint-laurent)
-    citation: See Paris Show Here
     _key: card-2-d2b407bb-416d-4b22-b62b-ded6f81d8ac4
   - order: 2
     body: >-
@@ -74,9 +76,10 @@ cards:
       followers, but she doesn’t have a heartbeat.
 
 
+
+
       [Click HERE for "IT"
       Girl](https://www.instagram.com/lilmiquela/?utm_source=ig_embed&utm_campaign=embed_ufi_test&action=profilevisit)
-    citation: Click HERE for "IT" Girl
     _key: card-3-0034a177-5a3f-4f63-b8b4-33c1174c30cd
   - order: 3
     body: >-

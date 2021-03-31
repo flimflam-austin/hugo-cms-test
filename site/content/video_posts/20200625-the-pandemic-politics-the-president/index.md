@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2020-06-25T16:17:32Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-06-25T16:17:32+00:00'
+lastmod: '2020-06-25T16:17:32+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     19f6f59c0a2eea609103f1a51c936b163e9b5454-360x360.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="ixLjCKhpJDc" title="The Pandemic, Politics & The President" >}}

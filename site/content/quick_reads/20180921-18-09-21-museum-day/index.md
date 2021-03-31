@@ -2,14 +2,15 @@
 title: Free Museum Day This Saturday, September 22
 slug: 20180921-18-09-21-museum-day
 _id: legacy-b182c023-62d1-4a1a-a499-91a5550003a4
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 45Isps23253Yjlaq2D8MFh
 type: quick_reads
 draft: false
 aliases:
   - 18-09-21-museum-day/
 _createdAt: '2018-09-21T11:41:53Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:22:37Z'
 date: '2018-09-21T11:41:53+00:00'
+lastmod: '2018-09-21T11:41:53+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
       > Well, typically, not very much… but **this Saturday** is the exception.
 
       SEE IT FOR FREE
-    citation: SEE IT FOR FREE
     _key: card-1-494a89d1-5c04-4ab8-ba0b-9003805c24da
   - order: 1
     body: >-

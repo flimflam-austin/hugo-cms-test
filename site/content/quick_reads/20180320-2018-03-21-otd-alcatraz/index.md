@@ -2,14 +2,15 @@
 title: 2018.03.21 Otd Alcatraz
 slug: 20180320-2018-03-21-otd-alcatraz
 _id: legacy-9351419d-cc92-459f-8477-c00ece6d5551
-_rev: O8E8pz1fLwnc3fN7JVEzvC
+_rev: LotyrYkaRjTl0E452wPXM5
 type: quick_reads
 draft: false
 aliases:
   - 2018-03-21-otd-alcatraz/
 _createdAt: '2018-03-21T12:45:48Z'
-_updatedAt: '2021-03-22T13:11:06Z'
+_updatedAt: '2021-03-25T22:27:44Z'
 date: '2018-03-21T12:45:48+00:00'
+lastmod: '2018-03-21T12:45:48+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,17 +27,15 @@ cards:
       # Alcatraz Closes
 
 
-      > ‘Break the rules and you go to prison. Break the prison rules and you go
-      to Alcatraz.’  
-        
-        
-        
+      > "Break the rules and you go to prison. Break the prison rules and you go
+      to Alcatraz."
+
+
       Anonymous, Alcatraz Island, quote sourced by National Park Service that
       now oversees the famous prison.
 
 
       tap here for more
-    citation: tap here for more
     _key: card-1-07c1eadc-910e-4020-b601-231c1737f445
   - order: 1
     body: >-
@@ -54,7 +53,6 @@ cards:
 
 
       WHY DID IT CLOSE?
-    citation: WHY DID IT CLOSE?
     _key: card-2-6c297c56-70ea-468a-8a24-15e7a6d19263
   - order: 2
     body: >-
@@ -97,8 +95,9 @@ cards:
       * 36 inmates put the supposedly ‘escape-proof’ Alcatraz to the test.
       * Of those convicts, 23 were captured, 6 were shot to death & 2 drowned.
 
+
+
       BUT... there were these 3 guys...
-    citation: BUT... there were these 3 guys...
     _key: card-5-3c3739b9-489f-41df-8752-e597f881261d
   - order: 5
     body: >-
@@ -117,7 +116,6 @@ cards:
 
       [Click: Did They
       Survive](https://www.cbsnews.com/news/alcatraz-inmates-survived-infamous-1962-escape-letter-suggests/)
-    citation: 'Click: Did They Survive'
     _key: card-6-65553548-9223-4c00-b123-337ca2a02981
   - order: 6
     body: >-

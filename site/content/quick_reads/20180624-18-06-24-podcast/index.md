@@ -2,14 +2,15 @@
 title: 18.06.24 Podcast
 slug: 20180624-18-06-24-podcast
 _id: legacy-d45eb030-7f85-40ab-8ab7-d3df279dc049
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: LotyrYkaRjTl0E452wZf3F
 type: quick_reads
 draft: false
 aliases:
   - 18-06-24-podcast/
 _createdAt: '2018-06-24T23:42:59Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:48:59Z'
 date: '2018-06-24T23:42:59+00:00'
+lastmod: '2018-06-24T23:42:59+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,7 +27,6 @@ cards:
 
       [Click Here To
       Listen](http://smarthernews.libsyn.com/smarther-news-ep4-where-we-started-vs-where-we-end-up)
-    citation: Click Here To Listen
     _key: card-1-ecb210c2-cbcc-4a61-b845-a1e9891ff981
   - order: 1
     body: >-

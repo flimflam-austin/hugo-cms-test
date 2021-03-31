@@ -14,12 +14,16 @@ aliases:
 _createdAt: '2021-01-06T05:53:57Z'
 _updatedAt: '2021-03-22T13:12:00Z'
 date: '2021-01-06T05:53:57+00:00'
+lastmod: '2021-01-06T05:53:57+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     1b7aa2e6e9c27f1d9ae3c70205776891f016044d-1024x755.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="MvTg-WCk2sg" title="This Tx Congressman Says He Will Object To The Electoral College Votes For The Sake Of His Grandkids" >}}

@@ -10,6 +10,7 @@ aliases:
 _createdAt: '2018-06-27T11:05:59Z'
 _updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-27T11:05:59+00:00'
+lastmod: '2018-06-27T11:05:59+00:00'
 weight: 50
 card_series: Current Events
 colorpaletteclassname: '--medium-gray'

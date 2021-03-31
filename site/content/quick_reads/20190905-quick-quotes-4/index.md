@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for September 12th
 slug: 20190905-quick-quotes-4
 _id: legacy-14fdc956-75ec-4217-870b-ce76eaf2c47f
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 45Isps23253Yjlaq2D68yt
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-4/
 _createdAt: '2018-09-12T12:00:13Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T21:46:27Z'
 date: '2018-09-12T12:00:13+00:00'
+lastmod: '2018-09-12T12:00:13+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,7 +24,6 @@ cards:
       > “Let me tell you, this one really scares me.”  
         
         
-        
       Ken Graham, National Hurricane Center Director, as Hurricane Florence is
       set to hit the Carolinas as a Category 4 storm late Thursday. Graham, a
       24-year veteran of the National Weather Center, warned of heavy rain, high
@@ -31,11 +31,9 @@ cards:
     _key: card-1-129635b1-a011-469c-b8f0-38b745000c8e
   - order: 1
     body: >-
-      > “The American people expect us to get our work done…. we can
-      successfully fund nearly 90% of the federal government on time … something
-      Congress has not been able to do in many years.”  
-        
-        
+      “The American people expect us to get our work done…. we can successfully
+      fund nearly 90% of the federal government on time … something Congress has
+      not been able to do in many years.”  
         
       Senate Appropriations Chairman Richard Shelby (R-AL) as Congress reaches
       the first of 3 gov't spending packages intended to avert a federal
@@ -45,7 +43,6 @@ cards:
   - order: 2
     body: >-
       > “…we are open to and already in the process of coordinating.”  
-        
         
         
       White House Press Secretary Sarah Huckabee Sanders on a letter from North
@@ -69,10 +66,10 @@ cards:
     _key: card-4-e5003daf-4d94-4b3f-8393-da7745c747d2
   - order: 4
     body: >-
-      > ‘It is 50 times more powerful than heroin. It is very inexpensive. It is
+      "It is 50 times more powerful than heroin. It is very inexpensive. It is
       coming primarily from China and coming primarily through our U.S. Postal
-      Service, if you can believe it.’  
-        
+      Service, if you can believe it."
+
         
         
       Senator Rob Portman (R-OH) as the Senate looks to pass a bill this week to
@@ -84,7 +81,6 @@ cards:
   - order: 5
     body: >-
       > “She was very cooperative.”  
-        
         
         
       Brian Hale, Tuscarawas County Sheriff’s Deputy, after charging a Giant

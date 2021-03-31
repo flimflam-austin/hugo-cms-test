@@ -2,14 +2,15 @@
 title: 18.07.11 Nato
 slug: 20180711-18-07-11-nato
 _id: legacy-466e4966-9213-42d2-8d0e-10a29ffa92f7
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 45Isps23253Yjlaq28aWip
 type: quick_reads
 draft: false
 aliases:
   - 18-07-11-nato/
 _createdAt: '2018-07-12T10:10:52Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:37:16Z'
 date: '2018-07-12T10:10:52+00:00'
+lastmod: '2018-07-12T10:10:52+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,8 +27,9 @@ cards:
 
       What happened at the NATO summit & why the timing matters.
 
+
+
       Flip: Nato refresher
-    citation: 'Flip: Nato refresher'
     _key: card-1-ea941338-3f57-4b32-96a6-fc82b13864ac
   - order: 1
     body: >-
@@ -47,8 +49,9 @@ cards:
       an attack against all Allies)
 
 
+
+
       [Click Here: Read More](https://www.nato.int/cps/su/natohq/126169.htm)
-    citation: 'Click Here: Read More'
     _key: card-2-cc342155-9573-4a35-90e5-a99a14e89faa
   - order: 2
     body: >-
@@ -66,28 +69,24 @@ cards:
     body: >-
       > “…Germany is just paying a little bit over 1 percent, whereas the United
       States, in actual numbers, is paying 4.2 percent of a much larger GDP.A So
-      I think that’s **inappropriate** also.A You know, we’re protecting
-      Germany, we’re protecting France.A We’re protecting everybody.A And yet
-      we’re paying a lot of money to protect.”  
-        
-        
+      I think that’s **inappropriate** also. You know, we’re protecting Germany,
+      we’re protecting France. We’re protecting everybody. And yet we’re paying
+      a lot of money to protect.”  
         
       President Trump, July 11, 2018
 
 
       [Click:
       Transcript](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-nato-secretary-general-jens-stoltenberg-bilateral-breakfast/)
-    citation: 'Click: Transcript'
     _key: card-4-1915fec2-6cb6-4619-9ed3-360b906b9c2f
   - order: 4
     body: >-
       > “I agree with you that we have to do make sure that our allies are
-      investing more.A The good news is that allies have started to invest more
+      investing more. The good news is that allies have started to invest more
       in defense. After years of cutting defense budgets, they have started to
       add billions to their defense budgets.A And last year was the biggest
       increase in defense spending across Europe and Canada in that
       generation.”  
-        
         
         
       NATO Sec. Stoltenberg, July 11, 2018

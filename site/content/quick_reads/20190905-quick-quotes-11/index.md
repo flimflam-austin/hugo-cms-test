@@ -2,14 +2,15 @@
 title: Smarthernews Quick Quotes for Friday, October 5th
 slug: 20190905-quick-quotes-11
 _id: legacy-da7710e3-ef40-4db4-bac8-a10961e91b32
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 0aCMfzqL0erea7otJxwXXj
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-11/
 _createdAt: '2018-10-05T11:42:21Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:27:47Z'
 date: '2018-10-05T11:42:21+00:00'
+lastmod: '2018-10-05T11:42:21+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,8 +24,6 @@ cards:
       > “When you move at this pace in a short amount of time, it’s natural for
       the market to take a breather.”  
         
-        
-        
       Steve Chiavarone, Federated Investors portfolio manager, as the Dow
       suffered its worst one-day point drop in nearly 3 months on Thursday as
       interest rates hit new multi-year highs. With stocks still holding near
@@ -33,9 +32,7 @@ cards:
     _key: card-1-b066c12d-4e76-4fc2-8d3c-0838b55fa121
   - order: 1
     body: >-
-      > “The ninety-nine percent are just a bunch of Zero’$.”  
-        
-        
+      “The ninety-nine percent are just a bunch of Zero’$.”  
         
       William Clyde Allen III, who confessed to sending ricin-laced envelopes to
       President Trump and three other members of the administration, in a recent
@@ -46,10 +43,8 @@ cards:
     _key: card-2-81c937ec-a6e0-4c98-bb1a-25dd34a0fc6e
   - order: 2
     body: >-
-      > ‘There’s no one silver bullet when it comes to the epidemic of opioids,
+      > "There’s no one silver bullet when it comes to the epidemic of opioids,
       but one thing is for certain, I and we will keep fighting.”  
-        
-        
         
       Sen. Shelley Moore Capito (R-WV) on the sweeping bipartisan effort to pass
       opioid legislation to fund programs to treat addiction, monitor
@@ -61,8 +56,6 @@ cards:
       > “Keen as I may be to clear my name, I refuse to feed the media spectacle
       created by people seeking to promote themselves at my expense.”  
         
-        
-        
       Cristiano Ronaldo tweet denying charges he raped a woman in a Las Vegas
       hotel room in 2009. The world's highest-paid soccer star ($108M) was
       benched by his Portugal team for two games following the claims, and his
@@ -72,8 +65,6 @@ cards:
     body: >-
       > “It’s the Rolls Royce of malts. … it’s an object of beauty in its own
       right – almost a museum piece.”  
-        
-        
         
       Martin Green, Bonhams auction house specialist, on the 60-year-old bottle
       of whiskey that just sold for $1.1 million dollars at auction. The

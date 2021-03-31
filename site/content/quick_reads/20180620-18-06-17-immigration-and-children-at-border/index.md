@@ -2,14 +2,15 @@
 title: 18.06.17 Immigration and Children at Border
 slug: 20180620-18-06-17-immigration-and-children-at-border
 _id: legacy-fa4c2125-44cc-40d6-ba2e-891d7b4f8bf8
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 0aCMfzqL0erea7otJsBsfZ
 type: quick_reads
 draft: false
 aliases:
   - 18-06-17-immigration-and-children-at-border/
 _createdAt: '2018-06-18T11:13:23Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:38:11Z'
 date: '2018-06-18T11:13:23+00:00'
+lastmod: '2018-06-18T11:13:23+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -36,7 +37,6 @@ cards:
 
 
       What's Going On
-    citation: What's Going On
     _key: card-1-0913d7ce-1d21-4100-852d-2ab3c629b872
   - order: 1
     body: >-
@@ -54,7 +54,6 @@ cards:
 
       [Click: DHS
       Numbers](https://www.dhs.gov/news/2018/06/06/statement-dhs-press-secretary-may-border-numbers)
-    citation: 'Click: DHS Numbers'
     _key: card-2-b5c70dd9-5af3-4e9c-8460-9a4305279d20
   - order: 2
     body: >-
@@ -65,12 +64,11 @@ cards:
       **direct response to trying to deter surge of border crossings.**
 
 
-      ANY adults crossing border illegally **will be arrested**A – Previously,
-      an adult crossing illegally with child(ren) may not face prosecution.
+      ANY adults crossing border illegally **will be arrested**– Previously, an
+      adult crossing illegally with child(ren) may not face prosecution.
 
 
       What Happens Now?
-    citation: What Happens Now?
     _key: card-3-4b775d6b-d020-41cd-a5f7-8345980f41fa
   - order: 3
     body: >-

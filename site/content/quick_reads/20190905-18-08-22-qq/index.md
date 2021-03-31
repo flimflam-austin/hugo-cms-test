@@ -2,14 +2,15 @@
 title: 18.08.22 Qq
 slug: 20190905-18-08-22-qq
 _id: legacy-4b1ad164-8cc3-4dde-8894-6b79bdee276a
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 45Isps23253Yjlaq2B08Aj
 type: quick_reads
 draft: false
 aliases:
   - 18-08-22-qq/
 _createdAt: '2018-08-22T11:59:33Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-26T20:13:05Z'
 date: '2018-08-22T11:59:33+00:00'
+lastmod: '2018-08-22T11:59:33+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,9 +21,10 @@ colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
     body: >-
-      > ‘I remember the wind being the strongest force of nature I’ve ever
+      >   
+
+      "I remember the wind being the strongest force of nature I’ve ever
       witnessed and probably the scariest sounds I’ve ever heard in my life.”  
-        
         
         
       Kauai resident Mike Miranda, recalling the last devastating hurricane to
@@ -32,10 +34,9 @@ cards:
     _key: card-1-b318b4f0-7009-4027-9bf2-7b57fda682fd
   - order: 1
     body: >-
-      > ‘We are angry that a broken immigration system allowed a predator like
+      > "We are angry that a broken immigration system allowed a predator like
       this to live in our community, and we will do all we can to bring justice
       to Mollie’s killer.”  
-        
         
         
       Iowa Governor Kim Reynolds (R), as authorities reveal missing Univ. of
@@ -48,7 +49,6 @@ cards:
       shorts but had run out of money, she counseled him to buy the shorts at a
       golf pro shop so that they could falsely describe the purchase later as
       some [golf] balls for the wounded warriors.”  
-        
         
         
       Federal indictment of Congressman Duncan Hunter (R-CA) & his wife,

@@ -2,14 +2,15 @@
 title: 18.02.07 Budget Deal
 slug: 20180207-18-02-07-budget-deal
 _id: legacy-c61fc228-38a6-4618-827e-b34dd6883e70
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: 0aCMfzqL0erea7otJrXa54
 type: quick_reads
 draft: false
 aliases:
   - 18-02-07-budget-deal/
 _createdAt: '2018-02-08T03:26:43Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T20:51:47Z'
 date: '2018-02-08T03:26:43+00:00'
+lastmod: '2018-02-08T03:26:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,7 +23,7 @@ cards:
     body: >-
       Senate Reaches  
 
-      Budget Deal ============================
+      Budget Deal 
 
 
       ## A look at the deal ahead of final votes:
@@ -83,7 +84,7 @@ cards:
       * Anti-Debt advocates
     _key: card-5-b3826e72-b6d4-4c40-9a38-2269912ccb39
   - order: 5
-    body: "> “This budget deal shows just how broken the budget process is a\x13 that Congress thinks the only way to agree to a budget is to put hundreds of billions of dollars on the nation’s credit card. “  \n  \n  \n  \nMaya MacGuineas, President, Committee for a Responsible Federal Budget (non-partisan/non-profit)"
+    body: "> “This budget deal shows just how broken the budget process is a\x13 that Congress thinks the only way to agree to a budget is to put hundreds of billions of dollars on the nation’s credit card. “\n\n>   \nMaya MacGuineas, President, Committee for a Responsible Federal Budget (non-partisan/non-profit)"
     _key: card-6-bdde4000-21a1-4954-a305-c1c109a20700
   - order: 6
     body: |-
@@ -94,7 +95,6 @@ cards:
       $20 Trillion & Rising
 
       [See It For Yourself: Click Right Here](http://www.usdebtclock.org/)
-    citation: 'See It For Yourself: Click Right Here'
     _key: card-7-2d5bb247-6fad-4e77-a949-0f5691942db7
   - order: 7
     body: |-

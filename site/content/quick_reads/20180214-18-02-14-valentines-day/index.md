@@ -2,14 +2,15 @@
 title: 18.02.14 Valentine's Day
 slug: 20180214-18-02-14-valentines-day
 _id: legacy-7c1f857f-dcd0-48ed-a654-6f0e3569092d
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: LotyrYkaRjTl0E452wMIOD
 type: quick_reads
 draft: false
 aliases:
   - 18-02-14-valentines-day/
 _createdAt: '2018-02-14T11:42:19Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:39:45Z'
 date: '2018-02-14T11:42:19+00:00'
+lastmod: '2018-02-14T11:42:19+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       CLICK HERE TO FLIP
-    citation: CLICK HERE TO FLIP
     _key: card-1-46bf13ea-9b7b-47b7-beef-6d38b9f3d3a6
   - order: 1
     body: >-
@@ -46,9 +46,10 @@ cards:
       first popularized Valentine’s Day cards in America.
 
 
+
+
       [Click HERE: Her
       Cards](http://time.com/4663003/esther-howland-valentines/)
-    citation: 'Click HERE: Her Cards'
     _key: card-2-a57cc265-7b41-4e4b-8f5a-3c6e82d91077
   - order: 2
     body: >-
@@ -63,8 +64,9 @@ cards:
       $2 billion on flowers, and $4.7 billion on jewelry.
 
 
+
+
       It's Not All Sweet...Flip!
-    citation: It's Not All Sweet...Flip!
     _key: card-3-977754ba-5a57-4c7b-9707-0953e9a28708
   - order: 3
     body: >-
@@ -80,15 +82,16 @@ cards:
       shooting of 7 rival gang members, firing squad style.
 
 
+
+
       [Click HERE:
       Photos](http://www.history.com/news/valentines-day-massacre-capone)
-    citation: 'Click HERE: Photos'
     _key: card-4-9195480c-d8ed-405b-a0dd-e71cdbc603e8
   - order: 4
     body: >-
       Also Today:  
 
-      Ash Wednesday ===========================
+      Ash Wednesday 
 
 
       * For the first time in 73 years, Ash Wednesday & Valentine’s Day fall on

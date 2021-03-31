@@ -2,14 +2,15 @@
 title: Queen Elizabeth Ii Ascended to the British Throne
 slug: 20191222-19-02-06-qtd-queen-elizabeth
 _id: legacy-bfd2727f-2d35-435a-bf24-722f15741d16
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: 0aCMfzqL0erea7otJy0Yfu
 type: quick_reads
 draft: false
 aliases:
   - 19-02-06-qtd-queen-elizabeth/
 _createdAt: '2019-02-06T14:21:01Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-28T01:10:05Z'
 date: '2019-02-06T14:21:01+00:00'
+lastmod: '2019-02-06T14:21:01+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,7 +24,6 @@ cards:
       Queen Elizabeth II Ascended To The British Throne
 
 
-      =======================================================
 
 
       67 years ago, following the death of her father, Elizabeth became Queen at

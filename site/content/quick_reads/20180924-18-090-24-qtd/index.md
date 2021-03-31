@@ -2,14 +2,15 @@
 title: Quote of the Day for Monday, September 24th
 slug: 20180924-18-090-24-qtd
 _id: legacy-ce4cdf87-52cc-4698-be08-d558c210765a
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 45Isps23253Yjlaq2D8wW5
 type: quick_reads
 draft: false
 aliases:
   - 18-090-24-qtd/
 _createdAt: '2018-09-24T13:15:11Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:32:28Z'
 date: '2018-09-24T13:15:11+00:00'
+lastmod: '2018-09-24T13:15:11+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -19,10 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
-    body: |-
-      > _“Happiness is to look at what we have and feel grateful.”_
-
-      Isabella Rossellini
+    body: '> _“Happiness is to look at what we have and feel grateful.”_'
     citation: Isabella Rossellini
     _key: card-1-6e2c733d-b629-4f5e-906e-bc4c4f8ae9fa
   - order: 1

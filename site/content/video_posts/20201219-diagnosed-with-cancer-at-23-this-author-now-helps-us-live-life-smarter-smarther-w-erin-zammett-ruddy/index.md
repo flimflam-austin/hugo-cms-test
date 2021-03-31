@@ -12,12 +12,16 @@ aliases:
 _createdAt: '2020-12-19T14:22:10Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-12-19T14:22:10+00:00'
+lastmod: '2020-12-19T14:22:10+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     4cadabf91653bb9d00af1d0038089f4fef686bba-1024x576.png
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="xo8S8Wr6jBQ" title="SmartHER With Erin Zammett Ruddy, author of The Little Book of Life Skills" >}}

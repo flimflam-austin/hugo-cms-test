@@ -2,14 +2,15 @@
 title: 18.08.01 Qq
 slug: 20190905-18-08-01-qq
 _id: legacy-4d4de5df-8620-42e1-a926-80bb82f901c7
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: 45Isps23253Yjlaq2AuBiS
 type: quick_reads
 draft: false
 aliases:
   - 18-08-01-qq/
 _createdAt: '2018-08-01T11:55:28Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T19:20:55Z'
 date: '2018-08-01T11:55:28+00:00'
+lastmod: '2018-08-01T11:55:28+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,8 +21,7 @@ colorpaletteclassname: '--bronze'
 cards:
   - order: 0
     body: >-
-      > “It’s rough to be outside right now.’  
-        
+      > “It’s rough to be outside right now."  
         
         
       Michelle Eidem, a Cal Fire spokeswoman, on the Ferguson Fire, one of three
@@ -34,8 +34,6 @@ cards:
       > “There is a possibility of irreparable harm because of the way these
       guns can be made.”  
         
-        
-        
       U.S. District Judge Robert Lasnik, a Seattle federal judge appointed by
       Pres. Clinton. He issued a temporary restraining order preventing the
       release of blueprints to make 3D-printed plastic firearms in a case filed
@@ -44,7 +42,6 @@ cards:
 
 
       [ABOUT 3D PLASTIC GUNS](https://smarthernews.com/18-07-30-3d-guns/)
-    citation: ABOUT 3D PLASTIC GUNS
     _key: card-2-3a2a27f2-455e-4dc9-8b32-4c67a6b5c6b5
   - order: 2
     body: >-
@@ -53,8 +50,6 @@ cards:
       water. They have educational opportunities. They have recreational
       activities.”  
         
-        
-        
       Matt Albence, ICE Acting Deputy Director, describing the conditions of
       family detention centers during a congressional hearing on the Trump
       administration's reunification efforts.
@@ -62,13 +57,11 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/l1v9NEfz9Bw?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-3-88c31a85-9e62-4dfe-b07b-e08f1e909c93
   - order: 3
     body: >-
       > “Please help make this stop. Please help make hazing recognized for what
       it is – abuse, cruelty and torture.”  
-        
         
         
       Evelyn Piazza, in a statment to the court, as the first of 26 defendants

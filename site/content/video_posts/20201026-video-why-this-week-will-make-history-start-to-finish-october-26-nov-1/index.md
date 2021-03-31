@@ -12,12 +12,16 @@ aliases:
 _createdAt: '2020-10-26T06:05:54Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2020-10-26T06:05:54+00:00'
+lastmod: '2020-10-26T06:05:54+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     151de6a2f2922747abd22c6c52f980bad5c15ce3-1688x1420.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="Gdxdv7Buq3M" title="History Making Week! Get Ready..." >}}

@@ -2,14 +2,15 @@
 title: 18.05.22 Quick Quotes
 slug: 20180522-18-05-22-quick-quotes
 _id: legacy-5742ee29-3df2-44d2-a6a9-0e9ff885f094
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 0aCMfzqL0erea7otJs559J
 type: quick_reads
 draft: false
 aliases:
   - 18-05-22-quick-quotes/
 _createdAt: '2018-05-22T11:27:29Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:36:05Z'
 date: '2018-05-22T11:27:29+00:00'
+lastmod: '2018-05-22T11:27:29+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,8 +28,6 @@ cards:
       first woman ever to serve as CIA director. Democrats are losing their war
       against women in the Trump administration.”  
         
-        
-        
       Press Sec. Sarah Huckabee Sanders on May 21, 2018, responding to Haspel
       becoming the first female CIA director on Monday despite few Dems voting
       for her confirmation.
@@ -41,21 +40,17 @@ cards:
       action, a moment of change. Why don’t we change what’s happening?”  
         
         
-        
       Kelly Clarkson, Billboard Music Awards, May 20, 2018
 
 
       [Watch
       Now](https://www.youtube.com/embed/B41XUP-ivL8?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-2-51b10285-51e1-4729-ada3-064dc3f1c187
   - order: 2
     body: >-
-      > ‘Recently, I’ve changed my mind about the biggest challenge that the
+      > "‘Recently, I’ve changed my mind about the biggest challenge that the
       world faces. I think now it’s a human rights problem and it is the
-      discrimination against women and girls in the world.’  
-        
-        
+      discrimination against women and girls in the world."  
         
       Former President Jimmy Carter, during his May 19, 2018 commencement speech
       at Liberty University, on the greatest challenge facing the world today as

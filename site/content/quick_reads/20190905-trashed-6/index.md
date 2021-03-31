@@ -2,14 +2,15 @@
 title: 18.06.27 Qq
 slug: 20190905-trashed-6
 _id: legacy-d553b600-9b48-4724-a681-ea86bf009828
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: LotyrYkaRjTl0E452wa4Or
 type: quick_reads
 draft: false
 aliases:
   - __trashed-6/
 _createdAt: '2018-06-27T11:01:40Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-26T01:58:57Z'
 date: '2018-06-27T11:01:40+00:00'
+lastmod: '2018-06-27T11:01:40+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -35,14 +36,12 @@ cards:
       important medical therapies.”  
         
         
-        
       FDA chief Scott Gottlieb speaking about the FIRST drug made by marijuana
       approved by the U.S. govt. It addresses life-threatening seizures.
 
 
       [CLICK: FOR
       REFRESHER](https://smarthernews.com/18-04-19-marijuana-miracle/)
-    citation: 'CLICK: FOR REFRESHER'
     _key: card-2-34a5ad72-1c41-447f-b547-d26609edcd06
   - order: 2
     body: >-
@@ -58,13 +57,12 @@ cards:
       Pres. Obama…”  
         
         
-        
       Jay Willis, GQ columnist, who says Sen. McConnell's behavior as Majority
       Leader changed the courts for generations; critics will say a Democrat
       Majority Leader would've done the same.
     _key: card-4-788c2a09-a2a3-4713-8d65-39b23c85fb46
   - order: 4
-    body: "> “This region has a complicated and tragic history a\x13 in the past century the people of the Middle East have suffered great sadness and loss. Never has hope and reconciliation been more needed. I know I share a desire with all of you, and with your neighbors, for a just and lasting peace.”  \n  \n  \n  \nPrince William speaking in Israel as the first member of the British Royal Family to visit the country in an official capacity."
+    body: "> “This region has a complicated and tragic history a\x13 in the past century the people of the Middle East have suffered great sadness and loss. Never has hope and reconciliation been more needed. I know I share a desire with all of you, and with your neighbors, for a just and lasting peace.”  \n  \n  \nPrince William speaking in Israel as the first member of the British Royal Family to visit the country in an official capacity."
     _key: card-5-ca63d3b0-2848-42ce-8041-08aa48f71a32
   - order: 5
     body: >-

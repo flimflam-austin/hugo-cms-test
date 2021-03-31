@@ -2,14 +2,15 @@
 title: 18.03.03 Anxiety
 slug: 20180302-18-03-03-anxiety
 _id: legacy-6a08caf9-4c16-450c-aab0-f78ec4df5286
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: 45Isps23253Yjlaq281vJa
 type: quick_reads
 draft: false
 aliases:
   - 18-03-03-anxiety/
 _createdAt: '2018-03-02T20:50:06Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:06:36Z'
 date: '2018-03-02T20:50:06+00:00'
+lastmod: '2018-03-02T20:50:06+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,7 +25,7 @@ cards:
 
       (Not Paralysis)  
 
-      of Anxiety ========================================
+      of Anxiety 
 
 
       New neuroscience study out of Canada finds a certain level of anxiety
@@ -32,7 +33,6 @@ cards:
 
 
       Flip For More
-    citation: Flip For More
     _key: card-1-323940e1-bb8c-45d5-81f9-171d55edbc4a
   - order: 1
     body: >-

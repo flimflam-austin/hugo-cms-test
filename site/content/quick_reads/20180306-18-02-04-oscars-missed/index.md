@@ -2,14 +2,15 @@
 title: 18.03.04 Oscars You Missed
 slug: 20180306-18-02-04-oscars-missed
 _id: legacy-1fdecd78-f066-4a78-ab25-48fd2e3ceaca
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: LotyrYkaRjTl0E452wODAL
 type: quick_reads
 draft: false
 aliases:
   - 18-02-04-oscars-missed/
 _createdAt: '2018-03-05T12:01:07Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:07:49Z'
 date: '2018-03-05T12:01:07+00:00'
+lastmod: '2018-03-05T12:01:07+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
       Eva Saint Marie, 93-year-old actress presenting at the 90th Academy Award.
 
       Flip For More
-    citation: Flip For More
     _key: card-1-8fae4f2a-78a5-439b-ae74-85060b569ec2
   - order: 1
     body: |-
@@ -82,7 +82,6 @@ cards:
 
 
       Flip For What It Means
-    citation: Flip For What It Means
     _key: card-5-6265fbe3-e9e3-4cdc-b857-9e7ef0e8251f
   - order: 5
     body: >-
@@ -99,7 +98,6 @@ cards:
 
       [Click Here For
       Article](https://www.hollywoodreporter.com/news/what-is-an-inclusion-rider-frances-mcdormands-oscars-speech-explained-1091532)
-    citation: Click Here For Article
     _key: card-6-2f58c206-32f8-4ab5-ad6c-b7a1818f7fda
   - order: 6
     body: '[view sources](https://smarthernews.com/18-02-04-oscars-missed/)'

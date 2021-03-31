@@ -2,14 +2,15 @@
 title: Quick Quotes for February 6, 2019
 slug: 20190905-qq-21
 _id: legacy-c60d38c9-3e10-46ae-87eb-0bc12adda04a
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 0aCMfzqL0erea7otJy0TkC
 type: quick_reads
 draft: false
 aliases:
   - qq-21/
 _createdAt: '2019-02-06T13:38:32Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T01:08:50Z'
 date: '2019-02-06T13:38:32+00:00'
+lastmod: '2019-02-06T13:38:32+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,8 +24,6 @@ cards:
       > “Everyone is going around like billiard balls trying to get up and down
       the hills.”  
         
-        
-        
       Seattle resident Sarah Perry as snow, ice & freezing temperatures struck
       from Washington to Nevada. The snow is forecast to continue for Seattle
       which has already received several inches, covering Pacific coast beaches.
@@ -35,8 +34,6 @@ cards:
     body: >-
       > “2019 expands the scope of people that can be represented.”  
         
-        
-        
       Emojipedia on the 230 new emojis approved for use this year. A major theme
       is inclusivity with emojis for those with disabilities, including a seeing
       eye dog, hearing aid & wheelchair. Of course, there are also plenty of fun
@@ -45,10 +42,8 @@ cards:
     _key: card-2-1dfdbc02-3cef-4527-a3a8-d27ab7ee2672
   - order: 2
     body: >-
-      > ‘Should we do something more? Yes. Is there the will? Yes. But it’s a
+      > "Should we do something more? Yes. Is there the will? Yes. But it’s a
       path that we have already begun.”  
-        
-        
         
       Pope Francis in his first public acknowledgement of clergy sexual abuse of
       nuns. After a trip to the United Arab Emirates, the first ever trip by the
@@ -57,10 +52,8 @@ cards:
     _key: card-3-de7c4b7b-a7b0-4eac-b752-faf3069f4bb1
   - order: 3
     body: >-
-      > “The legislature finds that the cigarette is considered the deadliest
+      “The legislature finds that the cigarette is considered the deadliest
       artifact in human history.”  
-        
-        
         
       Text of a bill in Hawaii that calls for a phased ban on cigarettes,
       gradually raising the legal buying age to 100 years old by 2024.
@@ -72,10 +65,8 @@ cards:
     _key: card-4-ac5ec750-ba00-4282-b0b1-a0d0512b6b15
   - order: 4
     body: >-
-      > ‘Red tide’s impact was significant…our initiative is to give back. Our
-      philosophy is every little bit helps.’  
-        
-        
+      > "Red tide’s impact was significant…our initiative is to give back. Our
+      philosophy is every little bit helps."  
         
       Brian Gorski, Coastal Conservation Assoc. exec. dir., as more than 16K
       fish are released in southwest Florida waters in an effort to recover from

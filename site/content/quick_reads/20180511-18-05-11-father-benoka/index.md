@@ -2,14 +2,15 @@
 title: 18.05.11 Father Benoka
 slug: 20180511-18-05-11-father-benoka
 _id: legacy-38002a0a-e384-4e0b-99c9-f1fb08465bc6
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: LotyrYkaRjTl0E452wUva9
 type: quick_reads
 draft: false
 aliases:
   - 18-05-11-father-benoka/
 _createdAt: '2018-05-11T21:35:13Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-26T00:11:02Z'
 date: '2018-05-11T21:35:13+00:00'
+lastmod: '2018-05-11T21:35:13+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/mQTCRB3vdSU?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-70d2f445-6d29-43bf-bdb2-4a723d6506ab
   - order: 1
     body: >-

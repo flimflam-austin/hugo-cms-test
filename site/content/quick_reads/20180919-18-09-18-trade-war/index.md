@@ -2,14 +2,15 @@
 title: u.s. / China Trade War Latest
 slug: 20180919-18-09-18-trade-war
 _id: legacy-2dae1ad7-3160-4e62-b88f-ca511d0e3073
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 45Isps23253Yjlaq2D85Ym
 type: quick_reads
 draft: false
 aliases:
   - 18-09-18-trade-war/
 _createdAt: '2018-09-18T18:21:54Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:18:21Z'
 date: '2018-09-18T18:21:54+00:00'
+lastmod: '2018-09-18T18:21:54+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,13 +33,11 @@ cards:
 
 
       What To Know
-    citation: What To Know
     _key: card-1-cfbd85b4-1044-41dc-a761-9d998ff8aac8
   - order: 1
     body: >-
       > “Because it’s spread over thousands and thousands of products, nobody is
       actually going to notice it at the end of the day.”  
-        
         
         
       Commerce Sec. Wilbur Ross responding to a question about how the new round
@@ -48,10 +47,9 @@ cards:
     _key: card-2-f59a0646-edbe-4d49-8405-b541c106cf44
   - order: 2
     body: >-
-      > ‘Every time this trade war escalates, the risk to U.S. consumers grows.
+      > "Every time this trade war escalates, the risk to U.S. consumers grows.
       With these latest tariffs, many hardworking Americans will soon wonder why
       their shopping bills are higher and their budgets feel stretched.”  
-        
         
         
       Matthew Shay, President and CEO of the National Retail Federation. Other

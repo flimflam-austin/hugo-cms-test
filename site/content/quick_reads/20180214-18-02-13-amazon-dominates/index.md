@@ -2,14 +2,15 @@
 title: 18.02.13 Amazon Dominates
 slug: 20180214-18-02-13-amazon-dominates
 _id: legacy-a5267409-d5a5-4dc4-b625-d30a71fda2e4
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: LotyrYkaRjTl0E452wMEXl
 type: quick_reads
 draft: false
 aliases:
   - 18-02-13-amazon-dominates/
 _createdAt: '2018-02-13T19:18:45Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:38:29Z'
 date: '2018-02-13T19:18:45+00:00'
+lastmod: '2018-02-13T19:18:45+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Why is Amazon targeting health care? Flip Here
-    citation: Why is Amazon targeting health care? Flip Here
     _key: card-1-9716f8e2-b31b-4f3a-a6d4-2f7a31d30c82
   - order: 1
     body: >-
@@ -51,7 +51,7 @@ cards:
     body: >-
       Amazon “Health”:  
 
-      Why It Matters =================================
+      Why It Matters 
 
 
       * Health care spending makes up approx 1/5 of entire U.S economy.

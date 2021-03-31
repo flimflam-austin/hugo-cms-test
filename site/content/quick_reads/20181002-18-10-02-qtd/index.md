@@ -2,14 +2,15 @@
 title: 18.10.02 Qtd
 slug: 20181002-18-10-02-qtd
 _id: legacy-186425f6-768e-4fa7-ab25-5e69b025561f
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: LotyrYkaRjTl0E452yiVRl
 type: quick_reads
 draft: false
 aliases:
   - 18-10-02-qtd/
 _createdAt: '2018-10-02T11:43:15Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:18:48Z'
 date: '2018-10-02T11:43:15+00:00'
+lastmod: '2018-10-02T11:43:15+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,9 +25,6 @@ cards:
       stranger. Call a friend having a hard time. Take a moment to do something
       for someone else. Love each other better. Kindness can cause a ripple
       effect. And small gestures can create very big change. I’m living proof.”_
-
-
-      Ashley Hoff
     citation: Ashley Hoff
     _key: card-1-d51e1f0f-5ce4-40a5-a696-85b24bbef691
   - order: 1
@@ -41,4 +39,4 @@ cards:
     _key: card-10-f9438502-fb37-4317-8c9b-ff7b8f1d8c1d
 
 ---
-* **I Survived The Las Vegas Shooting. One Year Later, Here’s What I’ve Learned.:** [https://www.refinery29.com/en-us/2018/10/212628/las-vegas-concert-shooting-survivor-essay-gun-violence](https://www.refinery29.com/en-us/2018/10/212628/las-vegas-concert-shooting-survivor-essay-gun-violence)
+* **I Survived The Las Vegas Shooting. One Year Later, Here’s What I’ve Learned.:** [https://www.refinery29.com/en-us/2018/10/212628/las-vegas-concert-shooting-survivor-essay-gun-violence](https://www.refinery29.com/en-us/2018/10/212628/las-vegas-concert-shooting-survivor-essay-gun-violence)un-violence)

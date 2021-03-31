@@ -2,14 +2,15 @@
 title: 18.06.01 Meet Mr. Rogers
 slug: 20180601-18-06-01-meet-mr-rogers
 _id: legacy-23692d9c-3b93-4d86-a99a-595506f6fb8a
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 0aCMfzqL0erea7otJs88z8
 type: quick_reads
 draft: false
 aliases:
   - 18-06-01-meet-mr-rogers/
 _createdAt: '2018-06-01T10:45:13Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T00:56:25Z'
 date: '2018-06-01T10:45:13+00:00'
+lastmod: '2018-06-01T10:45:13+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -32,7 +33,6 @@ cards:
 
 
       Flip: the true story
-    citation: 'Flip: the true story'
     _key: card-1-fcbd9d0e-ef7f-48bf-b450-d595141bb3b3
   - order: 1
     body: >-
@@ -102,7 +102,6 @@ cards:
 
 
       [Watch him tell you.](https://vimeo.com/88089113)
-    citation: Watch him tell you.
     _key: card-5-0988c8ae-aacf-4d07-acb2-56981147343e
   - order: 5
     body: >-

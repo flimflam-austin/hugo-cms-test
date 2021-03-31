@@ -2,14 +2,15 @@
 title: A New Nafta? Why It Matters & How It Might Impact Your $$
 slug: 20180828-a-new-nafta
 _id: legacy-de5fc944-d12c-4688-9944-4721e1c7f438
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: LotyrYkaRjTl0E452yYieb
 type: quick_reads
 draft: false
 aliases:
   - a-new-nafta/
 _createdAt: '2018-08-28T12:02:17Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-27T20:49:40Z'
 date: '2018-08-28T12:02:17+00:00'
+lastmod: '2018-08-28T12:02:17+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,7 +28,6 @@ cards:
       (and why it may impact the cost of your next car).
 
       A *new* NAFTA?
-    citation: A *new* NAFTA?
     _key: card-1-009a15fd-3d17-4bd0-b589-d4d3cf255783
   - order: 1
     body: >-
@@ -71,7 +71,6 @@ cards:
 
 
       The Concern?
-    citation: The Concern?
     _key: card-4-8102ceee-4857-43f3-be0c-372b7c664a85
   - order: 4
     body: >-

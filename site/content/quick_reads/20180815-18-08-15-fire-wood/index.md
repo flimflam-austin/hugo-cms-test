@@ -2,14 +2,15 @@
 title: 18.08.15 Fire Wood
 slug: 20180815-18-08-15-fire-wood
 _id: legacy-8ca42c0d-986d-466d-8219-fc5eec965b1c
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: LotyrYkaRjTl0E452xYaPt
 type: quick_reads
 draft: false
 aliases:
   - 18-08-15-fire-wood/
 _createdAt: '2018-08-15T11:54:35Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T19:58:20Z'
 date: '2018-08-15T11:54:35+00:00'
+lastmod: '2018-08-15T11:54:35+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,7 +24,6 @@ cards:
       Fanning the Flames
 
 
-      =====================
 
 
       ## 100+ Wildfires Burn Across America
@@ -35,7 +35,6 @@ cards:
 
 
       FLIP: The Anti-Firewood
-    citation: 'FLIP: The Anti-Firewood'
     _key: card-1-e2c74f86-1500-4bf9-86d0-c811c951f04d
   - order: 1
     body: >-

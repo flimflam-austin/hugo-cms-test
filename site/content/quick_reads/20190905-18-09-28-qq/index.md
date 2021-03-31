@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Friday, September 28th
 slug: 20190905-18-09-28-qq
 _id: legacy-75873df6-804b-48c9-a7f6-8f5de4af6d7a
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: LotyrYkaRjTl0E452yfcST
 type: quick_reads
 draft: false
 aliases:
   - 18-09-28-qq/
 _createdAt: '2018-09-28T11:41:09Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T23:05:56Z'
 date: '2018-09-28T11:41:09+00:00'
+lastmod: '2018-09-28T11:41:09+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -19,14 +20,21 @@ card_series: Quotes
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
-    body: "> ‘I often think to myself, a\x18What would Eleanor have done?'”  \n  \n  \n  \nMeera Gandhi, the current owner of a brownstone in New York City where former First Lady Eleanor Roosevelt lived. The 6-bedroom, 8,000 square foot home is now on sale for nearly $20M; the purchase price includes includes some of Roosevelt's memorabilia."
+    body: >-
+      > "I often think to myself, 'What would Eleanor have done?'”  
+        
+        
+        
+      Meera Gandhi, the current owner of a brownstone in New York City where
+      former First Lady Eleanor Roosevelt lived. The 6-bedroom, 8,000 square
+      foot home is now on sale for nearly $20M; the purchase price includes
+      includes some of Roosevelt's memorabilia.
     _key: card-1-4d38825c-c144-46ac-938c-6620462510ae
   - order: 1
     body: >-
-      > ‘If you look at it in terms of the incredible dysfunction of Congress on
+      > "If you look at it in terms of the incredible dysfunction of Congress on
       everything, it’s actually one of the few things they’ve been able to do
-      together as parties.’  
-        
+      together as parties."  
         
         
       Stanford Prof. Keith Humphreys who advises lawmakers on health care
@@ -35,11 +43,9 @@ cards:
     _key: card-2-1445f3e7-a39e-4c67-95f6-2056474d9f36
   - order: 2
     body: >-
-      > ‘The path to peace and a brighter future is only through diplomacy and
+      > "The path to peace and a brighter future is only through diplomacy and
       only denuclearization. That means any other pathA North KoreaA may choose
-      will inevitably lead to ever-increasing isolation and pressure.’  
-        
-        
+      will inevitably lead to ever-increasing isolation and pressure."  
         
       Sec. of State Mike Pompeo addressing the UN Security Council on Thursday.
       Sec. Pompeo will travel to North Korea in October to prepare for a
@@ -62,9 +68,7 @@ cards:
       > “Deciding to proceed without conducting additional investigation would
       not only have a lasting impact on the Senate’s reputation, but it will
       also negatively affect the great trust necessary for the American people
-      to have in the Supreme Court.’  
-        
-        
+      to have in the Supreme Court."  
         
       Non-partisan American Bar Association, in a letter to the Senate,
       requesting an investigation into allegations vs. Judge Brett Kavanaugh,

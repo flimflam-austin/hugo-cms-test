@@ -2,14 +2,15 @@
 title: 18.05.02 Backup Cameras
 slug: 20180504-18-05-02-blind-spot-breakthrough
 _id: legacy-e2de5f10-c216-4830-8560-366cfa58af86
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 45Isps23253Yjlaq28FJEa
 type: quick_reads
 draft: false
 aliases:
   - 18-05-02-blind-spot-breakthrough/
 _createdAt: '2018-05-04T10:54:50Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:42:10Z'
 date: '2018-05-04T10:54:50+00:00'
+lastmod: '2018-05-04T10:54:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,7 +23,7 @@ cards:
     body: >-
       Blind Spot Breakthrough?  
 
-      Backup Cameras =========================================
+      Backup Cameras 
 
 
       New federal rule will require all newly manufactured cars to come equipped
@@ -34,11 +35,9 @@ cards:
     _key: card-1-f2366f86-ab55-4565-9e0c-15e6d4082d3b
   - order: 1
     body: >-
-      > **‘It’s a bittersweet day because this rule should have been in place
+      > **"It’s a bittersweet day because this rule should have been in place
       many years ago. Though his own life was short, my son Cameron inspired a
       regulation that will save the lives of countless others.”**  
-        
-        
         
       Dr. Greg Gulbransen, a pediatrician who accidentally killed his 2-year-old
       son Cameron when he backed over him with his vehicle in 2002. His work led

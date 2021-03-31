@@ -2,14 +2,15 @@
 title: Quick Quotes Friday
 slug: 20190905-quick-quotes
 _id: legacy-32ea84b4-624a-42f9-9b39-ae061c25d279
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: LotyrYkaRjTl0E452yaBrJ
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes/
 _createdAt: '2018-08-31T11:50:15Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T21:17:10Z'
 date: '2018-08-31T11:50:15+00:00'
+lastmod: '2018-08-31T11:50:15+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -23,8 +24,6 @@ cards:
       > “We can make chicken.A We can work hard. But if we don’t have peopleA
       who support us, we can’t survive.”  
         
-        
-        
       Indiana Chick-fil-A owner Chris Spries on why he'll pay his staff to
       volunteer in the Plainfield community next month while the restaurant is
       closed for construction. Spries said that "everyone who counts on this job
@@ -34,8 +33,7 @@ cards:
   - order: 1
     body: >-
       > “For all of you that have made a fortune in the markets, or seen your
-      401Ks rise beyond your wildest expectations, more good news is coming!’  
-        
+      401Ks rise beyond your wildest expectations, more good news is coming!"  
         
         
       President Trump on Twitter praising the recent rally in the stock market.
@@ -48,16 +46,14 @@ cards:
       lifestyle.”  
         
         
-        
       Pope Francis via Twitter - a nonspecific tweet during a week the Catholic
       Church continues to roil in debate over the latest sex abuse scandal and
       who knew what & when.
     _key: card-3-1ac69823-c860-4846-a54a-5e9726e72fc1
   - order: 3
     body: >-
-      > ‘This hotbed of terrorists (in Idlib) does really not bode anything good
-      if such inaction continues.’  
-        
+      > "This hotbed of terrorists (in Idlib) does really not bode anything good
+      if such inaction continues."  
         
         
       Dmitry Peskov, Kremlin spokesman, announcing Russia's Ministry of Defense
@@ -67,9 +63,8 @@ cards:
     _key: card-4-2a528baa-0adb-4eff-8869-9ce95eaa3592
   - order: 4
     body: >-
-      > ‘How are you going to market a tasteless apple when the consumer has
-      tasted so many good apples?’  
-        
+      > "How are you going to market a tasteless apple when the consumer has
+      tasted so many good apples?"  
         
         
       Tom Buford, an apple historian, as Gala cuts short Red Delicious's nearly

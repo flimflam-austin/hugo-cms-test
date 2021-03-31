@@ -2,14 +2,15 @@
 title: 18.02.27 Dash and Women in Elected Office
 slug: 20180227-18-02-27-dash-women-elected-office
 _id: legacy-3731b551-4359-4c8f-93f4-221fabdaeda0
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: LotyrYkaRjTl0E452wNh4f
 type: quick_reads
 draft: false
 aliases:
   - 18-02-27-dash-women-elected-office/
 _createdAt: '2018-02-27T13:00:58Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:59:34Z'
 date: '2018-02-27T13:00:58+00:00'
+lastmod: '2018-02-27T13:00:58+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -36,7 +37,6 @@ cards:
     _key: card-1-22761f3c-4bb6-4ea4-9ccb-3b3e1a85ea5a
   - order: 1
     body: "Record Run For Office\n\n_“At latest count, 431 women were running for or were likely to run for the House nationwide a\x14 339 Democrats and 92 Republicans. At this point in 2016, there were fewer than half that: 212. Likewise, 50 women are running for or likely to run for Senate, compared with 25 at this point in 2016.”_\n\n[NPR: Read Article](https://www.npr.org/2018/02/20/585542531/more-than-twice-as-many-women-are-running-for-congress-in-2018-compared-to-2016)"
-    citation: 'NPR: Read Article'
     _key: card-2-9ff01240-111f-4806-8cab-c48a1012339d
   - order: 2
     body: >-
@@ -53,7 +53,6 @@ cards:
 
       [Rutgers
       University](http://www.cawp.rutgers.edu/sites/default/files/resources/a_closer_look_2018_outlook_final.pdf)
-    citation: Rutgers University
     _key: card-3-ab37ab25-09d8-471f-b09f-0af6f580d253
   - order: 3
     body: |-

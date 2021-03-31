@@ -2,14 +2,15 @@
 title: Quick Quotes for Your Weekend
 slug: 20190905-18-09-15-qq
 _id: legacy-77a4f26d-4c90-4163-bf8e-9253a63440e8
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: LotyrYkaRjTl0E452yclW9
 type: quick_reads
 draft: false
 aliases:
   - 18-09-15-qq/
 _createdAt: '2018-09-15T13:33:12Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T22:03:56Z'
 date: '2018-09-15T13:33:12+00:00'
+lastmod: '2018-09-15T13:33:12+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -19,13 +20,12 @@ card_series: Quotes
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
-    body: "> “.@khamenei\_ir fancies himself the leader of the Islamic world, but his regime has been totally silent as Chinaa\x14the top buyer of #Iran’s oila\x14has persecuted and detained hundreds of thousands of its Muslim citizens.”  \n  \n  \n  \nSec. of State Mike Pompeo addressing the leader of Iran in a tweet as the UN reports China holds at least 1 million Uighur Muslims in detention camps to reportedly get them to renounce Islam. China denies this practice."
+    body: "> “.@khamenei\_ir fancies himself the leader of the Islamic world, but his regime has been totally silent as Chinaa\x14the top buyer of #Iran’s oila\x14has persecuted and detained hundreds of thousands of its Muslim citizens.”  \n  \nSec. of State Mike Pompeo addressing the leader of Iran in a tweet as the UN reports China holds at least 1 million Uighur Muslims in detention camps to reportedly get them to renounce Islam. China denies this practice."
     _key: card-1-679cfb4f-b044-48ac-aa71-21de19dc842b
   - order: 1
     body: >-
       > “Our friends had been suggesting for a long time that we visit this
       wonderful town.”  
-        
         
         
       Alexander Petrov, along with Ruslan Boshirov, to Russia's state-run RT TV
@@ -35,9 +35,8 @@ cards:
     _key: card-2-28d8f48f-5c98-4312-b8df-54a95e7f92bf
   - order: 2
     body: >-
-      > ‘He is a completely expressive character with an incredibly wide range
+      > "He is a completely expressive character with an incredibly wide range
       of emotions, and I’ve had to step up my game to compete.”  
-        
         
         
       Christiani Pitts, actress, on her starring role with a 20 foot tall, 2,000
@@ -48,7 +47,6 @@ cards:
     body: >-
       > “There are no immediate plans to replace it… I would also say, ‘Never
       say never.'”  
-        
         
         
       Hinrich J. Woebcken, Volkswagen America CEO, on the automaker's plans to

@@ -2,14 +2,15 @@
 title: 18.02.07 Jennifer Aniston New Home
 slug: 20180208-18-02-07-jennifer-aniston-new-home
 _id: legacy-aa3a4591-db94-4042-9953-a574ec15e209
-_rev: ZEyhBiGfgCfwE8WOjbu9sa
+_rev: 45Isps23253Yjlaq27qTEB
 type: quick_reads
 draft: false
 aliases:
   - 18-02-07-jennifer-aniston-new-home/
 _createdAt: '2018-02-08T18:00:46Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T20:53:59Z'
 date: '2018-02-08T18:00:46+00:00'
+lastmod: '2018-02-08T18:00:46+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,14 +21,12 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     body: |-
-      > ‘Sexy is important, but comfort is essential.”  
-        
+      > "Sexy is important, but comfort is essential.”  
         
         
       Jennifer Aniston, Actress, speaking to Architectural Digest
 
       Jenn is like so many Americans - Flip Here For Why
-    citation: Jenn is like so many Americans - Flip Here For Why
     _key: card-1-9b1e3614-e023-4348-abff-908e0c12036e
   - order: 1
     body: >-
@@ -57,7 +56,6 @@ cards:
 
       [Pics Of Aniston's Home: Click
       Here](https://www.architecturaldigest.com/story/jennifer-aniston-los-angeles-home)
-    citation: 'Pics Of Aniston''s Home: Click Here'
     _key: card-3-72b901c5-8423-4202-b7e0-c3e28cb5abb8
   - order: 3
     body: >-

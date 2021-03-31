@@ -2,14 +2,15 @@
 title: 18.04.30 Killer Genes
 slug: 20180430-18-04-30-killer-genes
 _id: legacy-cba29031-aefd-4997-ae89-0acf4db61c88
-_rev: O8E8pz1fLwnc3fN7JVF0RC
+_rev: 45Isps23253Yjlaq28DXuM
 type: quick_reads
 draft: false
 aliases:
   - 18-04-30-killer-genes/
 _createdAt: '2018-04-30T10:25:45Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:25:17Z'
 date: '2018-04-30T10:25:45+00:00'
+lastmod: '2018-04-30T10:25:45+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Clever detective work *or* Privacy violation?
-    citation: Clever detective work *or* Privacy violation?
     _key: card-1-9bf87cc1-9a79-48dd-aca8-9201d97a5439
   - order: 1
     body: >-
@@ -50,16 +50,12 @@ cards:
     _key: card-2-efe195f2-2437-4371-9cc0-81a63741cdd0
   - order: 2
     body: >-
-      > Investigators saidA GEDmatch narrowed their search & no court order was
+      > Investigators said GEDmatch narrowed their search & no court order was
       needed to access site’s database.  
         
-        
-        
-      **_‘Although we were not approached by law enforcement or anyone else
+      **_"Although we were not approached by law enforcement or anyone else
       about this case or about the DNA, it has always been GEDmatch’s policy to
       inform users that the database could be used for other uses.”_**  
-        
-        
         
       Curtis Rogers, GEDmatch Spokesman
     _key: card-3-b412a5d7-dab2-41fd-84e7-401e5122b127
@@ -72,10 +68,9 @@ cards:
       that is used just to track down serial killers, if we allow the government
       to use it with no accountability or no further safeguards, then all of our
       genetic information might be at risk for being used for things we don’t
-      want it to be used for.’  
-        
-        
-        
+      want it to be used for."
+
+
       Andrea Roth, UC Berkeley Boalt School of Law Assistant Professor
     _key: card-4-bc4980e9-8723-49dc-a34b-a014fe8eb33e
   - order: 4

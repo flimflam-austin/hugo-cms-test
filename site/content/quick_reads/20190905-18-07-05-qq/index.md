@@ -2,14 +2,15 @@
 title: 18.07.05 Qq
 slug: 20190905-18-07-05-qq
 _id: legacy-4d0ee6e3-35b3-4303-b0ea-98b9b3857e23
-_rev: ZEyhBiGfgCfwE8WOjbuCBF
+_rev: LotyrYkaRjTl0E452wadHx
 type: quick_reads
 draft: false
 aliases:
   - 18-07-05-qq/
 _createdAt: '2018-07-06T03:35:19Z'
-_updatedAt: '2021-03-22T13:11:15Z'
+_updatedAt: '2021-03-26T02:14:55Z'
 date: '2018-07-06T03:35:19+00:00'
+lastmod: '2018-07-06T03:35:19+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,8 +21,8 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     body: >-
-      > “It is a very great irony that the words of Thomas Jefferson should now
-      be censored in America.”  
+      “It is a very great irony that the words of Thomas Jefferson should now be
+      censored in America.”  
         
         
         
@@ -65,11 +66,10 @@ cards:
     _key: card-4-4de60d77-db58-48b6-973b-4bdcc973bf93
   - order: 4
     body: >-
-      > “It is extremely difficult for me to cease serving you in this role
-      first because I count it a blessing to be serving you in any
-      capacity…However, the unrelenting attacks on me personally, my family, are
-      unprecedented and have taken a sizable toll on all of us.”  
-        
+      “It is extremely difficult for me to cease serving you in this role first
+      because I count it a blessing to be serving you in any capacity…However,
+      the unrelenting attacks on me personally, my family, are unprecedented and
+      have taken a sizable toll on all of us.”  
         
         
       Resignation letter from EPA Dir Scott Pruitt to Pres. Trump. A long time
@@ -78,7 +78,7 @@ cards:
     _key: card-5-78ee91c2-11ef-44df-ac64-fbeb7ca1cb67
   - order: 5
     body: >-
-      > ‘Good.’  
+      > "Good."  
         
         
         

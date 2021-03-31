@@ -2,14 +2,15 @@
 title: Smarthernews Quick Quotes for August 29
 slug: 20190905-18-08-29-qq
 _id: legacy-a981c7d1-964d-4cda-9517-b2f95e4b0c39
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 0aCMfzqL0erea7otJxbQTj
 type: quick_reads
 draft: false
 aliases:
   - 18-08-29-qq/
 _createdAt: '2018-08-29T11:47:42Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T20:55:38Z'
 date: '2018-08-29T11:47:42+00:00'
+lastmod: '2018-08-29T11:47:42+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,7 +21,7 @@ colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
     body: >-
-      > ‘Today, California reforms its bail system so that rich and poor alike
+      > "Today, California reforms its bail system so that rich and poor alike
       are treated fairly.”  
         
         
@@ -32,7 +33,7 @@ cards:
     _key: card-1-36a84f64-d245-4a8a-837a-608ce472e192
   - order: 1
     body: >-
-      > ‘I think the lesson is to anticipate the worst.’  
+      > "I think the lesson is to anticipate the worst."  
         
         
         
@@ -68,7 +69,6 @@ cards:
 
 
       [Click: Asian Beauty Secret](https://smarthernews.com/18-08-29-essence/)
-    citation: 'Click: Asian Beauty Secret'
     _key: card-4-9e6ec678-a38b-4b46-a5ec-2ab41e9ebe63
   - order: 4
     body: |-

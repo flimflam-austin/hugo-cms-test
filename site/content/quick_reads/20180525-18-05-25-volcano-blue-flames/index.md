@@ -2,14 +2,15 @@
 title: 18.05.25 Volcano Blue Flames
 slug: 20180525-18-05-25-volcano-blue-flames
 _id: legacy-d8633e09-ccea-4f37-bf5d-371ae9fc7a53
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 0aCMfzqL0erea7otJs5sxl
 type: quick_reads
 draft: false
 aliases:
   - 18-05-25-volcano-blue-flames/
 _createdAt: '2018-05-25T08:58:08Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:43:24Z'
 date: '2018-05-25T08:58:08+00:00'
+lastmod: '2018-05-25T08:58:08+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/7uGjDsN8JGM?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-cfbfbc9e-3b04-4789-af2c-8e47f7f48eb5
   - order: 1
     body: >-

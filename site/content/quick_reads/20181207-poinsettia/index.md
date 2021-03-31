@@ -2,14 +2,15 @@
 title: The Christmas Flower
 slug: 20181207-poinsettia
 _id: legacy-211c6620-88a1-4059-97cd-c20e81ee86f8
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: LotyrYkaRjTl0E452ykKbV
 type: quick_reads
 draft: false
 aliases:
   - poinsettia/
 _createdAt: '2018-12-07T13:02:47Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:55:55Z'
 date: '2018-12-07T13:02:47+00:00'
+lastmod: '2018-12-07T13:02:47+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -33,7 +34,6 @@ cards:
 
 
       Feliz NAVIDAD!
-    citation: Feliz NAVIDAD!
     _key: card-1-8d954d72-498a-4c82-b127-aeec70598790
   - order: 1
     body: >-

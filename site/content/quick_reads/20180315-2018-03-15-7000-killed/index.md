@@ -2,14 +2,15 @@
 title: 2018.03.15 7,000 Killed
 slug: 20180315-2018-03-15-7000-killed
 _id: legacy-438fea3f-90eb-4ace-beab-115a12c00f63
-_rev: O8E8pz1fLwnc3fN7JVEzvC
+_rev: LotyrYkaRjTl0E452wPMBx
 type: quick_reads
 draft: false
 aliases:
   - 2018-03-15-7000-killed/
 _createdAt: '2018-03-15T12:00:57Z'
-_updatedAt: '2021-03-22T13:11:06Z'
+_updatedAt: '2021-03-25T22:23:06Z'
 date: '2018-03-15T12:00:57+00:00'
+lastmod: '2018-03-15T12:00:57+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -30,7 +31,10 @@ cards:
       * **Wednesday:** StudentsA nationwide staged a protest to mark 1 month
       since FL high school shooting.
 
-      * **Flip card for a closer look at “gun violence” & theA 7,000 stat**
+
+
+
+      Flip card for a closer look at “gun violence” & the 7,000 stat
     _key: card-1-cb066192-d09d-4ee3-aa32-978e30736175
   - order: 1
     body: >-
@@ -61,9 +65,10 @@ cards:
       * **53% homicides, 38% suicide**, 6% unintentional & 3% undetermined
 
 
+
+
       [Click for the
       study:](http://pediatrics.aappublications.org/content/pediatrics/early/2017/06/15/peds.2016-3486.full.pdf)
-    citation: 'Click for the study:'
     _key: card-3-3869964c-2315-4477-9788-cac86c6da34f
   - order: 3
     body: >-
@@ -97,7 +102,6 @@ cards:
 
 
       Flip For Bottom Line
-    citation: Flip For Bottom Line
     _key: card-5-fa9bcc99-c0db-427b-a5ad-d3ff8bd5631a
   - order: 5
     body: >-

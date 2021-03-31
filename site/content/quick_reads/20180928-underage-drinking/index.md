@@ -2,14 +2,15 @@
 title: Underage Drinking & the Supreme Court Nominee
 slug: 20180928-underage-drinking
 _id: legacy-df87202e-5277-4019-b5fc-862b43f833e6
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: 45Isps23253Yjlaq2DC35g
 type: quick_reads
 draft: false
 aliases:
   - underage-drinking/
 _createdAt: '2018-09-28T11:41:14Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-27T23:07:16Z'
 date: '2018-09-28T11:41:14+00:00'
+lastmod: '2018-09-28T11:41:14+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       WHAT TO KNOW
-    citation: WHAT TO KNOW
     _key: card-1-f7adf8cb-0520-40a7-935f-50f07321c860
   - order: 1
     body: >-
@@ -54,8 +54,6 @@ cards:
       did not drink beer to the point of blacking out and I never sexually
       assaulted anyone.”  
         
-        
-        
       Judge Brett Kavanaugh testifying before the Senate Judiciary Cmte. As he
       points out in his testimony, the drinking age in Maryland during his youth
       was 18; In current context "underage drinking" refers to anyone younger
@@ -68,11 +66,7 @@ cards:
 
       > 1 out of 3 high schoolers admits to drinking in the last 30 days.  
         
-        
-        
       By age 18, more than half of high schoolers have had one drink.  
-        
-        
         
       “**Although drinking by persons under the age of 21 is illegal, people
       aged 12 to 20 years drink 11% of all alcohol consumed in the United
@@ -86,7 +80,6 @@ cards:
       > “Underage youth who drink are more likely to carry out or be the victim
       of a physical or sexual assault after drinking than others their age who
       do not drink.”  
-        
         
         
       National Institute on Alcohol Abuse and Alcoholism that states other risks

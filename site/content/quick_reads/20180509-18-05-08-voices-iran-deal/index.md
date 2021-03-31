@@ -2,14 +2,15 @@
 title: 18.05.08 Voices on the Iran Deal
 slug: 20180509-18-05-08-voices-iran-deal
 _id: legacy-940946f7-1b19-47e4-a19a-02b3247e1a3a
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 0aCMfzqL0erea7otJrzmw1
 type: quick_reads
 draft: false
 aliases:
   - 18-05-08-voices-iran-deal/
 _createdAt: '2018-05-09T10:45:50Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:51:22Z'
 date: '2018-05-09T10:45:50+00:00'
+lastmod: '2018-05-09T10:45:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,14 +29,11 @@ cards:
       > ‘Now he (President Trump) has played in the hands of hard-liners in
       Iran.’  
         
-        
-        
       Ali Khorram, former Iranian ambassador to China & adviser to Iranian
       nuclear negotiating team, to NYT. Hard-liners = Anti-American.
 
 
       Flip For More
-    citation: Flip For More
     _key: card-1-da9ffdaf-a7e1-40c3-a92b-f4d4519098ae
   - order: 1
     body: >-
@@ -43,21 +41,17 @@ cards:
       does not do what it purports to do. It does not prevent Iran from
       developing deliverable nuclear weapons.”  
         
-        
-        
       National Security Advisor John Bolton, WH Press Briefing, May 8, 2018
 
 
       [click: full
       briefing](https://www.whitehouse.gov/briefings-statements/press-briefing-national-security-advisor-john-bolton-iran/)
-    citation: 'click: full briefing'
     _key: card-2-5f1aad41-b8f5-4f00-98cf-5f1635ba6be1
   - order: 2
     body: >-
-      > ‘We have reached a dead-end. The problem is that if the Islamic Republic
+      > "We have reached a dead-end. The problem is that if the Islamic Republic
       reforms itself, nothing would remain of it. And if it refuses to reform
-      itself, it would die.’  
-        
+      itself, it would die."  
         
         
       Anonymous Business Man to Financial Times columnist Najmeh Bozorgmehr who
@@ -70,13 +64,10 @@ cards:
       deal, it will remain in place. … By exiting the deal, America has
       officially undermined its commitment to an international treaty.”  
         
-        
-        
       Iranian President Hassan Rouhani
 
 
       Flip: "Not A Treaty"
-    citation: 'Flip: "Not A Treaty"'
     _key: card-4-59eff964-9ed3-4a81-8a0c-43cd5c5c3b32
   - order: 4
     body: >-
@@ -103,7 +94,6 @@ cards:
 
 
       [Click: Tweet](https://twitter.com/vali_nasr/status/993954934851764225)
-    citation: 'Click: Tweet'
     _key: card-6-1bba0054-a144-42ef-83ad-26e6b9cb884e
   - order: 6
     body: >-
@@ -118,7 +108,6 @@ cards:
 
 
       [Click: Tweet](https://twitter.com/LTCJonathan/status/993916646011088896)
-    citation: 'Click: Tweet'
     _key: card-7-e2139d35-1f47-42d5-b08e-7c002fa6b8fd
   - order: 7
     body: >-
@@ -133,7 +122,6 @@ cards:
 
       [Click:
       Statement](https://www.facebook.com/barackobama/posts/10155854913976749)
-    citation: 'Click: Statement'
     _key: card-8-eb98bbae-36f4-435c-b9e2-a46533f15e6a
   - order: 8
     body: >-
@@ -143,13 +131,10 @@ cards:
       weapons, and we must resist their support for terrorism that continues to
       threaten America and our allies.”  
         
-        
-        
       UN Ambassador Nikki Haley
 
 
       [Click: Statement](https://usun.state.gov/remarks/8419)
-    citation: 'Click: Statement'
     _key: card-9-2d5467b0-9e4d-4801-89af-55e44c8bb8c0
   - order: 9
     body: >-

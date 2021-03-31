@@ -2,14 +2,15 @@
 title: 18.03.04 Oscars
 slug: 20180304-18-03-04-oscars
 _id: legacy-9132fa79-f48d-4fbd-8b8f-026323d1f736
-_rev: O8E8pz1fLwnc3fN7JVEzbC
+_rev: LotyrYkaRjTl0E452wO5WX
 type: quick_reads
 draft: false
 aliases:
   - 18-03-04-oscars/
 _createdAt: '2018-03-04T15:21:15Z'
-_updatedAt: '2021-03-22T13:11:05Z'
+_updatedAt: '2021-03-25T22:07:13Z'
 date: '2018-03-04T15:21:15+00:00'
+lastmod: '2018-03-04T15:21:15+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,15 +23,16 @@ cards:
     body: >-
       And the Oscar goes to …  
 
-      Women To Watch ========================================
+      Women To Watch 
 
 
       Female Oscars nominees continued to break ground this year, but the data
       shows women in the film industry still have a long way to go
 
 
+
+
       TAP HERE FOR MORE
-    citation: TAP HERE FOR MORE
     _key: card-1-97a42b7f-0566-415c-a6fd-256deaf29080
   - order: 1
     body: >-

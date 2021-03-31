@@ -2,14 +2,15 @@
 title: 18.06.25 Great Straw Debate
 slug: 20180626-18-06-25-great-straw-debate
 _id: legacy-f5783a47-4d02-45cd-9715-682a9aa78fb7
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 45Isps23253Yjlaq28WKqU
 type: quick_reads
 draft: false
 aliases:
   - 18-06-25-great-straw-debate/
 _createdAt: '2018-06-26T11:16:43Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:54:48Z'
 date: '2018-06-26T11:16:43+00:00'
+lastmod: '2018-06-26T11:16:43+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,18 +28,15 @@ cards:
       Straw bans span coast to coast, but stir up questions.
 
       Why Now?
-    citation: Why Now?
     _key: card-1-d48fcc8d-4f9b-41d7-aa39-19e9cb1916be
   - order: 1
     body: >-
       ## Why Hate On Straws?
 
 
-      > “Straws are a luxury, we do not need straws to have our drinks, and I
+      “Straws are a luxury, we do not need straws to have our drinks, and I
       think it’s an easy step forward where we can have a great impact for our
       environment.”  
-        
-        
         
       Brooklyn City Councilman Rafael Espinal who introduced a straw ban for
       America's largest city in late May, following previous official bans in
@@ -46,7 +44,6 @@ cards:
 
 
       Flip: What Impact?
-    citation: 'Flip: What Impact?'
     _key: card-2-36f439e8-242a-40dd-b3b8-b8cde914e3fb
   - order: 2
     body: >-

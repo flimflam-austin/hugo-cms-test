@@ -2,14 +2,15 @@
 title: Judge Kavanaugh & Dr. Ford to Testify
 slug: 20180927-18-09-27-kavanaugh-assault-hearing
 _id: legacy-c4c7f2bc-9757-44c4-ab02-c62c9d1738ff
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 45Isps23253Yjlaq2D9co6
 type: quick_reads
 draft: false
 aliases:
   - 18-09-27-kavanaugh-assault-hearing/
 _createdAt: '2018-09-27T12:39:52Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:43:34Z'
 date: '2018-09-27T12:39:52+00:00'
+lastmod: '2018-09-27T12:39:52+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,13 +27,10 @@ cards:
 
       > We’re here to help!  
         
-        
-        
       **We answer YOUR questions**
 
 
       But first, A recap
-    citation: But first, A recap
     _key: card-1-70823fd1-6991-411e-9735-67a9d7982813
   - order: 1
     body: >-
@@ -55,15 +53,9 @@ cards:
     body: >-
       > **Q:** Have _they been in the same room since the alleged incident?_  
         
-        
-        
       **A:** Unclear.  
         
-        
-        
       **WHAT HE’S SAID:**  
-        
-        
         
       In a Fox News interview earlier this week, Kavanaugh said “I may have met
       her, we did not travel in the same social circle, she was not a friend,
@@ -72,37 +64,27 @@ cards:
     _key: card-3-b9e28ace-693e-4229-8ab4-f5569f782fbd
   - order: 3
     body: >-
-      > **Q:** _Why is it an open hearing?A_  
+      > **Q:** _Why is it an open hearing?_  
         
+      **A: **A The Senate Judiciary Committee offered Ford the option of a
+      public hearing, a private hearing, a public staff interview, or a private
+      staff interview. She choose a public hearing.  
         
-        
-      **A:A** The Senate Judiciary Committee offered Ford the option of a public
-      hearing, a private hearing, a public staff interview, or a private staff
-      interview. She choose a public hearing.  
-        
-        
-        
-      **WHY IT MATTERS:**  
-        
-        
-        
+      **WHY IT MATTERS:  
+
+      **  
+
       An open session is a matter of public record, whereas a closed session
       would be confidential.
     _key: card-4-68949c16-2e23-4231-8e0a-c775a4b3b942
   - order: 4
     body: >-
-      > **Q:A** _Is there any penalty for lying under oath during a Senate
+      > **Q: **_Is there any penalty for lying under oath during a Senate
       hearing?_  
         
-        
-        
-      **A:A** Yes.  
-        
-        
+      **A:** Yes.  
         
       **LYING TO CONGRESS = FELONY**  
-        
-        
         
       Whether you’re under oath or not, lying to Congress is punishable by up to
       5 year in prison.
@@ -111,16 +93,10 @@ cards:
     body: >-
       > **Q:** _When will the Senate vote on Kavanaugh’s nomination?_  
         
-        
-        
-      **A:A** The Senate Judiciary Committee is scheduled to vote Friday AM on
+      **A:** The Senate Judiciary Committee is scheduled to vote Friday AM on
       the referral to the full Senate, which will vote early next week.  
         
-        
-        
-      **REMEMBER:A**  
-        
-        
+      **REMEMBER:**  
         
       In 2017, the Senate changed its rules to allow confirmation by a simple
       majority (51 of 100) instead of 60 votes.
@@ -129,7 +105,6 @@ cards:
     body: >-
       > “These unwitting combatants in an undeclared war. These people are not
       props for us to make our political points.”  
-        
         
         
       Sen. Jeff Flake (R-AZ) speaking on the Senate floor on Wednesday about

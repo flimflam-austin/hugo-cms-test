@@ -2,14 +2,15 @@
 title: Border Emergency?
 slug: 20190108-19-01-08-border-national-emergency
 _id: legacy-55a85fbd-0c5d-4236-ac42-82044fefc759
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 0aCMfzqL0erea7otJy090e
 type: quick_reads
 draft: false
 aliases:
   - 19-01-08-border-national-emergency/
 _createdAt: '2019-01-08T13:19:13Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T01:03:45Z'
 date: '2019-01-08T13:19:13+00:00'
+lastmod: '2019-01-08T13:19:13+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -33,7 +34,6 @@ cards:
 
 
       What To Know
-    citation: What To Know
     _key: card-1-4fda87b7-8726-4eb5-987b-cd173a65c06c
   - order: 1
     body: >-

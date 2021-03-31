@@ -2,14 +2,15 @@
 title: 18.06.27 Ptsd
 slug: 20180627-18-06-27-ptsd
 _id: legacy-cf441b0d-fcdd-4cbb-81a1-b1ee0defe10f
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 0aCMfzqL0erea7otJsEuAN
 type: quick_reads
 draft: false
 aliases:
   - 18-06-27-ptsd/
 _createdAt: '2018-06-27T11:02:52Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:59:22Z'
 date: '2018-06-27T11:02:52+00:00'
+lastmod: '2018-06-27T11:02:52+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
 
 
       Can magnets help?
-    citation: Can magnets help?
     _key: card-1-0669e4b1-2847-400e-9dfc-4a4afed1b22d
   - order: 1
     body: >-
@@ -58,7 +58,6 @@ cards:
 
 
       Treatment: Flip
-    citation: 'Treatment: Flip'
     _key: card-3-532ac684-b13d-4a8b-8208-dfd195cd82ea
   - order: 3
     body: >-

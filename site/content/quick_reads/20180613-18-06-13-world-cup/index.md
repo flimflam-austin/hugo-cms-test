@@ -2,14 +2,15 @@
 title: 18.06.13 World Cup
 slug: 20180613-18-06-13-world-cup
 _id: legacy-a853e2c2-2192-4b8e-9ec3-e2d832492a4c
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 0aCMfzqL0erea7otJsBJ13
 type: quick_reads
 draft: false
 aliases:
   - 18-06-13-world-cup/
 _createdAt: '2018-06-13T08:51:59Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:30:54Z'
 date: '2018-06-13T08:51:59+00:00'
+lastmod: '2018-06-13T08:51:59+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       FLIP: Gooooooooal!
-    citation: 'FLIP: Gooooooooal!'
     _key: card-1-2a9983a4-88e5-4a58-bb5d-a093632398ed
   - order: 1
     body: >-
@@ -68,7 +68,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/Bl6VC4zA7ns?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-3-b6a18de2-be55-4d92-ad07-d1adcc4183bd
   - order: 3
     body: >-

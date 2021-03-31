@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2019-07-30T15:51:07Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2019-07-30T15:51:07+00:00'
+lastmod: '2019-07-30T15:51:07+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     21e86f87e6ee58b8ab0594719897fa3405cc5cae-360x360.jpg
 video_series: Spotlight
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 I went down yesterday to the Piraeus with Glaucon the son of Ariston, that I might offer up my prayers to the goddess (Bendis, the Thracian Artemis.); and also because I wanted to see in what manner they would celebrate the festival, which was a new thing. I was delighted with the procession of the inhabitants; but that of the Thracians was equally, if not more, beautiful. When we had finished our prayers and viewed the spectacle, we turned in the direction of the city; and at that instant Polemarchus the son of Cephalus chanced to catch sight of us from a distance as we were starting on our way home, and told his servant to run and bid us wait for him. The servant took hold of me by the cloak behind, and said: Polemarchus desires you to wait.

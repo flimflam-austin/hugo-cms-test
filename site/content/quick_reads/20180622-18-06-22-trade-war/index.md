@@ -2,14 +2,15 @@
 title: 18.06.22 Trade War
 slug: 20180622-18-06-22-trade-war
 _id: legacy-029bf712-626d-4770-aaa3-21586495aa07
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 0aCMfzqL0erea7otJsDjPC
 type: quick_reads
 draft: false
 aliases:
   - 18-06-22-trade-war/
 _createdAt: '2018-06-22T11:15:13Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:47:15Z'
 date: '2018-06-22T11:15:13+00:00'
+lastmod: '2018-06-22T11:15:13+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Tit for tat trade War
-    citation: Tit for tat trade War
     _key: card-1-244dcff1-af37-4e21-a64c-f2ea093f5a5c
   - order: 1
     body: >-
@@ -50,7 +50,7 @@ cards:
     _key: card-2-656e40fa-7969-41f3-9485-ed0389d1139f
   - order: 2
     body: >-
-      > **_‘China does have much more to lose than we do.’_**  
+      > **_"China does have much more to lose than we do."_**  
 
       Peter Navarro, Trump trade adviser  
         
@@ -67,8 +67,8 @@ cards:
     _key: card-3-bc4220a5-fce8-4536-ae09-c55ff68bd30f
   - order: 3
     body: >-
-      > ‘Mr. Trump seems to be counting on the fact that China will soon run out
-      of room to retaliate… This could prove to be a miscalculation.’  
+      > "Mr. Trump seems to be counting on the fact that China will soon run out
+      of room to retaliate… This could prove to be a miscalculation."  
         
         
         

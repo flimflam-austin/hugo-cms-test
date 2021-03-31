@@ -2,14 +2,15 @@
 title: Quick Quotes for Saturday, September 8th
 slug: 20190905-quick-quotes-2
 _id: legacy-a4e8e982-6a1a-4996-8cc2-0db3741f15d9
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 45Isps23253Yjlaq2D4Xja
 type: quick_reads
 draft: false
 aliases:
   - quick-quotes-2/
 _createdAt: '2018-09-08T11:59:59Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-27T21:37:27Z'
 date: '2018-09-08T11:59:59+00:00'
+lastmod: '2018-09-08T11:59:59+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,7 +21,7 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     body: >-
-      > ‘I am very sure that we have very, very good grounds to be making these
+      > "I am very sure that we have very, very good grounds to be making these
       warnings.”  
         
         
@@ -34,8 +35,6 @@ cards:
     body: >-
       > “30 minutes of your time. Is democracy worth that?”  
         
-        
-        
       President Obama, in his first campaign speech at the University of
       Illinois, encouraging students to vote. The wide-ranging speech called out
       President Trump by name, criticizing him as "the symptom, not the cause"
@@ -44,9 +43,7 @@ cards:
     _key: card-2-301c3d1f-9ce6-4877-af5f-7a1a77f00bc4
   - order: 2
     body: >-
-      > “It’s legal right?”  
-        
-        
+      “It’s legal right?”  
         
       Elon Musk, Telsa's co-founder & CEO, before taking a puff of a
       tobacco-and-marijuana joint (which is legal in California) while appearing
@@ -58,13 +55,11 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/ycPr5-27vSI?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-3-edaebe13-bcb1-4a5d-80e8-3461a20661c1
   - order: 3
     body: >-
-      > ‘It is important that we can make a toy that doesn’t jeopardize
+      > "It is important that we can make a toy that doesn’t jeopardize
       (children’s future).”  
-        
         
         
       Tim Brooks, Lego's VP for environmental responsibility, as the toymaker

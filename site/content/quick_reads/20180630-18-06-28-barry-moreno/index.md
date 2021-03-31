@@ -2,14 +2,15 @@
 title: 18.06.28 Barry Moreno
 slug: 20180630-18-06-28-barry-moreno
 _id: legacy-a854b756-c074-4d4d-82bc-b3278b97429e
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: LotyrYkaRjTl0E452waFSn
 type: quick_reads
 draft: false
 aliases:
   - 18-06-28-barry-moreno/
 _createdAt: '2018-06-30T14:02:16Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:03:12Z'
 date: '2018-06-30T14:02:16+00:00'
+lastmod: '2018-06-30T14:02:16+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
       [Click: Play
       Podcast](http://smarthernews.libsyn.com/smarther-news-ep5-historian-barry-moreno)
-    citation: 'Click: Play Podcast'
     _key: card-1-bab7f14c-9f91-4d3b-8255-9f50ad4e2d52
   - order: 1
     body: >-

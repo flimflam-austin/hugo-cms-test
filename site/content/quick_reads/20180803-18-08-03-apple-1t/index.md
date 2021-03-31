@@ -2,14 +2,15 @@
 title: 18.08.03 Apple $1t
 slug: 20180803-18-08-03-apple-1t
 _id: legacy-dd4e69db-e1fd-490e-922a-2167c937d7ad
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 45Isps23253Yjlaq2AucNg
 type: quick_reads
 draft: false
 aliases:
   - 18-08-03-apple-1t/
 _createdAt: '2018-08-03T13:49:15Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T19:25:01Z'
 date: '2018-08-03T13:49:15+00:00'
+lastmod: '2018-08-03T13:49:15+00:00'
 weight: 50
 card_series: Money
 colorpaletteclassname: '--light-green'
@@ -30,7 +31,6 @@ cards:
 
 
       Why $1T?
-    citation: Why $1T?
     _key: card-1-3439a9e2-f122-4394-baa2-8c1f384dce5f
   - order: 1
     body: >-
@@ -68,8 +68,6 @@ cards:
       > ‘The fact that you have a billion and a half people with Apple devices
       around the world in a sense gives them a user base that if they can figure
       out other ways to make money off that user base.”  
-        
-        
         
       NYU professorA Aswath Damodaran to CNBC, pointing out that even if Apple's
       iPhone sales slow now, its CURRENT customer base has great value.

@@ -2,14 +2,15 @@
 title: 18.07.03 New Laws
 slug: 20180704-18-07-03-new-laws
 _id: legacy-a52044bc-7034-4fbd-b1f0-fd4404c0a7ea
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: LotyrYkaRjTl0E452waUWT
 type: quick_reads
 draft: false
 aliases:
   - 18-07-03-new-laws/
 _createdAt: '2018-07-03T11:00:23Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:10:47Z'
 date: '2018-07-03T11:00:23+00:00'
+lastmod: '2018-07-03T11:00:23+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
 
 
       Practical to bizarre...
-    citation: Practical to bizarre...
     _key: card-1-cd277158-79e3-4375-aa43-0b3ba6972f84
   - order: 1
     body: >-

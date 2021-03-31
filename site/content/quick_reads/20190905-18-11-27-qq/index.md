@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Tuesday, November 27, 2018
 slug: 20190905-18-11-27-qq
 _id: legacy-4825d0f7-d8c2-43cf-b423-615f400310d1
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: LotyrYkaRjTl0E452yj0XV
 type: quick_reads
 draft: false
 aliases:
   - 18-11-27-qq/
 _createdAt: '2018-11-27T12:32:07Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:32:52Z'
 date: '2018-11-27T12:32:07+00:00'
+lastmod: '2018-11-27T12:32:07+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,9 +21,7 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     body: >-
-      > ‘Flawless.”  
-        
-        
+      > "Flawless.”  
         
       Rob Manning, NASA’s Jet Propulsion Laboratory chief engineer, on
       three-legged spacecraft InSight's autonomous landing on Mars after a
@@ -34,9 +33,7 @@ cards:
   - order: 1
     body: >-
       > “It is introduced with the sole purpose of boosting Ukraine’s defense in
-      the light of a growing aggression from Russia.’  
-        
-        
+      the light of a growing aggression from Russia."  
         
       Ukrainian President Petro Poroshenko after Parliament supported his plan
       to declare 30-day martial law after Russia fired-on and held three
@@ -47,8 +44,6 @@ cards:
   - order: 2
     body: >-
       > “Last year was bad; this year is horrible.”  
-        
-        
         
       Chris Winkler, on having to shut down two of his four Christmas Tree
       selling locations in Kendall, Florida, due to a nationwide Christmas Tree
@@ -62,8 +57,6 @@ cards:
       > “When this started out a couple years ago we were pretty skeptical about
       it…”  
         
-        
-        
       Colleen Finn Ridenhour, Habitat for Humanity SVP, on Giving Tuesday, a day
       of fundraising for our nation's charities. Giving Tuesday, now in its 7th
       year, was started by New York City's 92nd Street Y & the United Nations
@@ -72,10 +65,8 @@ cards:
     _key: card-4-3057eda8-bdff-4252-92be-19b03d17706a
   - order: 4
     body: >-
-      > “There’s no guarantee that this it’s going to stay SUV, SUV, SUV, SUV.
-      …it could be problematic for them.”  
-        
-        
+      “There’s no guarantee that this it’s going to stay SUV, SUV, SUV, SUV. …it
+      could be problematic for them.”  
         
       Mike Ramsey, Gartner transportation analyst, on General Motors decision to
       end production of smaller passenger cars like the Chevrolet Cruze, laying

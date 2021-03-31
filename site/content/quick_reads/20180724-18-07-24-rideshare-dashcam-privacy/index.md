@@ -2,14 +2,15 @@
 title: 18.07.24 Rideshare Dashcam Privacy
 slug: 20180724-18-07-24-rideshare-dashcam-privacy
 _id: legacy-731a7f81-e004-40a6-936f-d55fb7d0a064
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 45Isps23253Yjlaq2AesHh
 type: quick_reads
 draft: false
 aliases:
   - 18-07-24-rideshare-dashcam-privacy/
 _createdAt: '2018-07-24T11:50:48Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T17:39:53Z'
 date: '2018-07-24T11:50:48+00:00'
+lastmod: '2018-07-24T11:50:48+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,7 +23,7 @@ cards:
     body: >-
       Hidden Cost of Rideshare Apps:  
 
-      Your Privacy? ==============================================
+      Your Privacy? 
 
 
       A St. Louis Uber & Lyft driver was fired after he **filmed & secretly
@@ -30,7 +31,6 @@ cards:
 
 
       are you at risk?
-    citation: are you at risk?
     _key: card-1-aa17ce9e-0b16-4530-b3a3-94bdbdae382d
   - order: 1
     body: >-
@@ -61,7 +61,7 @@ cards:
     _key: card-3-94c2c213-d2df-467a-bdde-e4eb7b2aab25
   - order: 3
     body: >-
-      > ‘This is one of those things that’s certainly a breach of our norms, but
+      > "This is one of those things that’s certainly a breach of our norms, but
       the law might not be a great way to take care of that yet…. That could
       change if the law evolves, but it’s moving pretty slow when it comes to
       this technology.”  

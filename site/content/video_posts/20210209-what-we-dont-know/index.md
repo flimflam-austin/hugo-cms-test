@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2021-02-09T12:18:25Z'
 _updatedAt: '2021-03-22T13:12:00Z'
 date: '2021-02-09T12:18:25+00:00'
+lastmod: '2021-02-09T12:18:25+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     493c809808c3ebe4fecf40f5ed67163a90712eab-2560x1920.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
-{{< youtube id="EApZjgZStGQ" title="What We DON’T Know about Fmr. Pres. Trump’s second impeachment trial" >}} second impeachment trial" >}}
+{{< youtube id="EApZjgZStGQ" title="What We DON’T Know about Fmr. Pres. Trump’s second impeachment trial" >}} trial" >}}

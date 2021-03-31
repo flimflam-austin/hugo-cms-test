@@ -2,14 +2,15 @@
 title: 18.06.11 Noko Summit 3 Things
 slug: 20180611-18-06-11-noko-summit-3-things
 _id: legacy-28d279ae-81e8-4212-bb84-fff9f5e8caa7
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28RxVG
 type: quick_reads
 draft: false
 aliases:
   - 18-06-11-noko-summit-3-things/
 _createdAt: '2018-06-11T10:50:14Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:19:03Z'
 date: '2018-06-11T10:50:14+00:00'
+lastmod: '2018-06-11T10:50:14+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -28,7 +29,6 @@ cards:
 
 
       FLIP: Get the popcorn.
-    citation: 'FLIP: Get the popcorn.'
     _key: card-1-d2b83f96-c622-4d1b-a611-9b60a71f2d44
   - order: 1
     body: >-
@@ -68,8 +68,9 @@ cards:
       denuclearization a success; he’s called it a **“mission of peace.”**
 
 
+
+
       [Refresher: hostages](https://smarthernews.com/18-05-09-korean-hostages/)
-    citation: 'Refresher: hostages'
     _key: card-4-f93aabfa-309d-4244-9ccb-0a00f337e17e
   - order: 4
     body: >-

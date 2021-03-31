@@ -10,6 +10,7 @@ aliases:
 _createdAt: '2018-02-12T10:31:31Z'
 _updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-12T10:31:31+00:00'
+lastmod: '2018-02-12T10:31:31+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -77,4 +78,4 @@ cards:
 * Abraham Lincoln became the United States” 16th President in 1861, issuing the Emancipation Proclamation that declared forever free those slaves within the Confederacy in 1863. [https://www.whitehouse.gov/about-the-white-house/presidents/abraham-lincoln/](https://www.whitehouse.gov/about-the-white-house/presidents/abraham-lincoln/)
 * In December 1859, Abraham Lincoln drafted his first extensive autobiographical narrative, a roughly 600-word sketch prepared at the request of an old friend and Republican newspaper editor Jesse W. Fell, who was asking on behalf of a Republican newspaper from Chester County…[http://housedivided.dickinson.edu/sites/lincoln/autobiographical-sketch-december-20-1859/](http://housedivided.dickinson.edu/sites/lincoln/autobiographical-sketch-december-20-1859/)
 * [https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation](https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation)
-* For Fun:A This video shows all of the US presidents in order of heightA [http://www.businessinsider.com/video-shows-us-presidents-height-order-obama-trump-lincoln-bush-2017-4](http://www.businessinsider.com/video-shows-us-presidents-height-order-obama-trump-lincoln-bush-2017-4)
+* For Fun:A This video shows all of the US presidents in order of heightA [http://www.businessinsider.com/video-shows-us-presidents-height-order-obama-trump-lincoln-bush-2017-4](http://www.businessinsider.com/video-shows-us-presidents-height-order-obama-trump-lincoln-bush-2017-4)-2017-4)

@@ -2,14 +2,15 @@
 title: Aging & Allergies
 slug: 20190110-aging-allergies
 _id: legacy-b923417f-6437-4f21-9b67-4099a68c9f2e
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 0aCMfzqL0erea7otJy0OYo
 type: quick_reads
 draft: false
 aliases:
   - aging-allergies/
 _createdAt: '2019-01-10T13:31:22Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T01:07:33Z'
 date: '2019-01-10T13:31:22+00:00'
+lastmod: '2019-01-10T13:31:22+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -33,7 +34,6 @@ cards:
 
 
       What Are The Facts?
-    citation: What Are The Facts?
     _key: card-1-a1fee57d-6452-4e1b-bae2-b94e74913534
   - order: 1
     body: >-

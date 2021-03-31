@@ -2,14 +2,15 @@
 title: 18.0710 Young Love
 slug: 20180710-18-0710-young-love
 _id: legacy-9911ddaf-bdac-4f66-b7a4-0dc738d985d3
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: LotyrYkaRjTl0E452was9F
 type: quick_reads
 draft: false
 aliases:
   - 18-0710-young-love/
 _createdAt: '2018-07-11T03:15:38Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:21:38Z'
 date: '2018-07-11T03:15:38+00:00'
+lastmod: '2018-07-11T03:15:38+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,10 +28,9 @@ cards:
         
         
         
-      **Will it last?A**
+      **Will it last?**
 
       Here's The Data
-    citation: Here's The Data
     _key: card-1-5347e767-9d3f-417e-9505-5f9558a0da1f
   - order: 1
     body: >-
@@ -48,7 +48,6 @@ cards:
 
 
       Cold Hard Facts
-    citation: Cold Hard Facts
     _key: card-2-62f76869-db59-4f7b-87d9-754b2fbb2fe7
   - order: 2
     body: >-
@@ -70,7 +69,6 @@ cards:
       happened.”  
         
         
-        
       Pro. Nicholas H. Wolfinger to SmartHER News. Wolfinger has extensively
       researched marriage & divorce. His work shows success rates for marriage
       increase if you "wait to get married, but not too long."
@@ -78,7 +76,6 @@ cards:
 
       [Click Here: His
       Take](https://ifstudies.org/blog/want-to-avoid-divorce-wait-to-get-married-but-not-too-long/)
-    citation: 'Click Here: His Take'
     _key: card-4-b8174272-4ee5-42a4-8d5b-fbdd3963667d
   - order: 4
     body: >-

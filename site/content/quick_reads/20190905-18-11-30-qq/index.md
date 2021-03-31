@@ -2,14 +2,15 @@
 title: Smarther News Quick Quotes for Friday, November 30, 2018
 slug: 20190905-18-11-30-qq
 _id: legacy-b9d63464-4107-4ae5-9b09-c496c277772c
-_rev: ZEyhBiGfgCfwE8WOjbuCUv
+_rev: 0aCMfzqL0erea7otJxxdki
 type: quick_reads
 draft: false
 aliases:
   - 18-11-30-qq/
 _createdAt: '2018-11-30T13:21:06Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-28T00:42:58Z'
 date: '2018-11-30T13:21:06+00:00'
+lastmod: '2018-11-30T13:21:06+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,9 +21,7 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     body: >-
-      > “I want to make sure you can wear my kicks proudly.”  
-        
-        
+      “I want to make sure you can wear my kicks proudly.”  
         
       NBA Warriors' Steph Curry responding to a handwritten letter from
       9-year-old Riley Morrison. She wanted to wear Under Armour's "Curry 5"
@@ -33,11 +32,9 @@ cards:
     _key: card-1-1685869b-e8a3-4643-b64d-b12220a957bc
   - order: 1
     body: >-
-      > ‘The moon represents a proving ground, it’s the way we can reduce risk,
+      > "The moon represents a proving ground, it’s the way we can reduce risk,
       we can prove technology, we can prove human physiology… and we replicate
-      them at Mars.’  
-        
-        
+      them at Mars."  
         
       Jim Bridenstine, NASA Administrator, on its plans for space station to
       orbit the moon allowing humans to go back and forth to its surface in
@@ -46,10 +43,8 @@ cards:
     _key: card-2-c1d6775e-8c6d-44bd-bf02-7c6e66142626
   - order: 2
     body: >-
-      > ‘Given the due diligence that was done … I am very hopeful that we won’t
+      > "Given the due diligence that was done … I am very hopeful that we won’t
       see any kind of increase.”  
-        
-        
         
       Sheriff Kory Honea, the man in charge of searching for the missing in
       Northern California's Camp Fire, after completing a review of 18,000
@@ -62,8 +57,6 @@ cards:
       > “I’m open to making a deal. But, frankly, I like the deal we have right
       now.”  
         
-        
-        
       President Trump ahead of a critical meeting on trade with China's
       President Xi Jinping. The two are meeting on the sidelines of the G-20 and
       are expected to have dinner Saturday night in Buenos Aires. The meeting
@@ -72,7 +65,7 @@ cards:
       currently imposed.
     _key: card-4-df60029c-ac8b-44d3-b661-40eb4a94592e
   - order: 4
-    body: "> “…I believe very much in Christmas.A That’s how I express myself a\x14A through my lights.”  \n  \n  \n  \nThomas Apruzzi of Old Bridge, NJ. His family's annual Christmas light display has taken place for at least 15 years & attracts throngs of onlookers. The town says the holiday display costs taxpayers at least $45K for resources to ensure traffic and pedestrian safety. Town officials want Apruzzi to foot the cost; Apruzzi believe his lights reflect his freedom of expression and he won’t pay."
+    body: "“…I believe very much in Christmas. That’s how I express myself a\x14through my lights.”  \n  \nThomas Apruzzi of Old Bridge, NJ. His family's annual Christmas light display has taken place for at least 15 years & attracts throngs of onlookers. The town says the holiday display costs taxpayers at least $45K for resources to ensure traffic and pedestrian safety. Town officials want Apruzzi to foot the cost; Apruzzi believe his lights reflect his freedom of expression and he won’t pay."
     _key: card-5-fce5e8b8-09d9-492b-9368-8e75c117a0cf
   - order: 5
     body: |-

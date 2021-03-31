@@ -2,14 +2,15 @@
 title: 18.08.14 Qq
 slug: 20190905-18-08-14-qq
 _id: legacy-63e7ff5c-96a1-49ea-900d-e171916f35f8
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 45Isps23253Yjlaq2Ayi1A
 type: quick_reads
 draft: false
 aliases:
   - 18-08-14-qq/
 _createdAt: '2018-08-14T11:54:50Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-26T19:57:44Z'
 date: '2018-08-14T11:54:50+00:00'
+lastmod: '2018-08-14T11:54:50+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,10 +21,9 @@ colorpaletteclassname: '--white'
 cards:
   - order: 0
     body: >-
-      > ‘We want children to rediscover the real, that connection to the
+      > "We want children to rediscover the real, that connection to the
       concrete, to nature, to do doing things with their hands, to contact with
       other human beings.”  
-        
         
         
       France’s education minister, Jean-Michel Blanquer, on France's new ban on
@@ -35,7 +35,6 @@ cards:
     body: >-
       > “I’ve been sleeping next to this kidney for thirty years. It knows me.A
       So I’m hoping it stays with me for a good long time.”  
-        
         
         
       Lesley Kennedy on receiving her husband kidney. Lesley has Polycystic
@@ -56,7 +55,7 @@ cards:
       the President is not fit for office.
     _key: card-3-d788846e-dda7-431a-bb80-083a662aeaf1
   - order: 3
-    body: "> ‘The very idea a staff member would sneak a recording device into the White House Situation Room, shows a blatant disregard for our national security a\x13 and then to brag about it on national television further proves the lack of character and integrity of this disgruntled former White House employee.”  \n  \n  \n  \nWH Press Sec. Sarah Huckabee Sanders in response to Omarosa Manigault Newman's first national interviews."
+    body: "\"The very idea a staff member would sneak a recording device into the White House Situation Room, shows a blatant disregard for our national security a\x13 and then to brag about it on national television further proves the lack of character and integrity of this disgruntled former White House employee.”  \n  \n  \nWH Press Sec. Sarah Huckabee Sanders in response to Omarosa Manigault Newman's first national interviews."
     _key: card-4-66ddc312-c184-4b8e-b65f-6fdb68c66452
   - order: 4
     body: >-

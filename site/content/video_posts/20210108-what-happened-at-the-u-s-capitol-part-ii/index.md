@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2021-01-08T16:32:20Z'
 _updatedAt: '2021-03-22T13:12:00Z'
 date: '2021-01-08T16:32:20+00:00'
+lastmod: '2021-01-08T16:32:20+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     5b309360f8f8c5b951a8306a1088473607c46892-2560x1707.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="qmBQQCphe5w" title="What’s Happening At The U.S. Capitol Day 2" >}}

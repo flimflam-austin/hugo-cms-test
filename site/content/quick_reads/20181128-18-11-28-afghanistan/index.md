@@ -2,14 +2,15 @@
 title: Honoring the Fallen
 slug: 20181128-18-11-28-afghanistan
 _id: legacy-d8d6e167-0631-4bb0-b9f6-900b047a9e20
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: LotyrYkaRjTl0E452yj75B
 type: quick_reads
 draft: false
 aliases:
   - 18-11-28-afghanistan/
 _createdAt: '2018-11-28T13:23:30Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:35:40Z'
 date: '2018-11-28T13:23:30+00:00'
+lastmod: '2018-11-28T13:23:30+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
 
 
       What's Going On
-    citation: What's Going On
     _key: card-1-bd3ced99-2cbf-4780-911d-62988b9e76dd
   - order: 1
     body: >-
@@ -64,8 +64,6 @@ cards:
 
       > The Taliban now control more of Afghanistan than any other time during
       America’s longest war; al Qaeda remains a close ally of the Taliban.  
-        
-        
         
       _“Al Qaeda remains a threat. Its operatives are fighting in more countries
       around the world today than was the case on 9/11.”_  

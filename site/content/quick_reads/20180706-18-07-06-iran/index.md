@@ -2,14 +2,15 @@
 title: 18.07.06 Iran
 slug: 20180706-18-07-06-iran
 _id: legacy-a2af7c57-f694-483a-acd9-6963a71070d1
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: LotyrYkaRjTl0E452waeaT
 type: quick_reads
 draft: false
 aliases:
   - 18-07-06-iran/
 _createdAt: '2018-07-06T04:00:20Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:15:32Z'
 date: '2018-07-06T04:00:20+00:00'
+lastmod: '2018-07-06T04:00:20+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,7 +23,7 @@ cards:
     body: >-
       IRAN:  
 
-      ON THE BRINK? =====================
+      ON THE BRINK? 
 
 
       Iranian government at the center of a **crucial meeting** with world
@@ -31,7 +32,6 @@ cards:
 
 
       What's Going On
-    citation: What's Going On
     _key: card-1-64350a0b-0b4b-436d-b4a4-2343a4f341d2
   - order: 1
     body: >-

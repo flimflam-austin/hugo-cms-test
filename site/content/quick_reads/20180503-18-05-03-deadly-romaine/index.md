@@ -2,14 +2,15 @@
 title: 18.05.03 Deadly Romaine
 slug: 20180503-18-05-03-deadly-romaine
 _id: legacy-7ed55be0-d810-4533-8283-bee1297a97ce
-_rev: ZEyhBiGfgCfwE8WOjbuAar
+_rev: 0aCMfzqL0erea7otJrxCIw
 type: quick_reads
 draft: false
 aliases:
   - 18-05-03-deadly-romaine/
 _createdAt: '2018-05-03T10:53:06Z'
-_updatedAt: '2021-03-22T13:11:08Z'
+_updatedAt: '2021-03-25T23:35:33Z'
 date: '2018-05-03T10:53:06+00:00'
+lastmod: '2018-05-03T10:53:06+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       FLIP: WHY IS THIS STILL HAPPENING?
-    citation: 'FLIP: WHY IS THIS STILL HAPPENING?'
     _key: card-1-a944d170-b524-43d5-b3b7-efa797141c10
   - order: 1
     body: >-
@@ -50,7 +50,6 @@ cards:
 
 
       BUT Still on the menu?
-    citation: BUT Still on the menu?
     _key: card-2-8f20b5ee-671f-49e8-a784-de6b206a7fc4
   - order: 2
     body: >-
@@ -67,7 +66,6 @@ cards:
 
       [CLICK: FOR OUR REFRESHER FROM
       APRIL](https://smarthernews.com/18-04-24-e-coli-women/)
-    citation: 'CLICK: FOR OUR REFRESHER FROM APRIL'
     _key: card-3-51b4aefc-257a-4453-94a6-38d76a05737b
   - order: 3
     body: >-

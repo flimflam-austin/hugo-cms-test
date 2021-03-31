@@ -2,14 +2,15 @@
 title: 'On This Day: Oct 4, 1927'
 slug: 20200701-18-10-04-mount-rushmore
 _id: legacy-8b550923-5bc1-40e2-8c5d-f667a4c0b660
-_rev: O8E8pz1fLwnc3fN7JVF31C
+_rev: 0aCMfzqL0erea7otJxwLHN
 type: quick_reads
 draft: false
 aliases:
   - 18-10-04-mount-rushmore/
 _createdAt: '2018-10-04T15:06:45Z'
-_updatedAt: '2021-03-22T13:11:17Z'
+_updatedAt: '2021-03-28T00:25:02Z'
 date: '2018-10-04T15:06:45+00:00'
+lastmod: '2018-10-04T15:06:45+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,16 +28,12 @@ cards:
 
       > “America will march along that skyline.”  
         
-        
-        
       Gutzon Borglum, sculptor
     _key: card-1-a4dc30d2-dbf3-46e0-a1b6-fad9321bcb45
   - order: 1
     body: >-
       > “More and more we sensed we were creating a truly great thing, and after
       a while all of us old hands became truly dedicated to it.”  
-        
-        
         
       Red Anderson, Mount Rushmore carver. Approx. 400 men & women helped carve
       the granite memorial over a 14-year period. The idea for a mountain
@@ -77,12 +74,10 @@ cards:
     _key: card-4-ed427486-f6d0-49a9-be38-30f184347fe4
   - order: 4
     body: >-
-      > ”The idea is so that people a million years from now will realize their
+      ”The idea is so that people a million years from now will realize their
       significance. So many things are lost in history. The Sphinx, the
       pyramids, the heads on Easter Island. Archeologists are forever trying to
       figure them out.”  
-        
-        
         
       Lincoln Borglum, son of sculptor, who helped complete Mt. Rushmore after
       his dad's death. He advocated to complete the "Hall of Records"; a room

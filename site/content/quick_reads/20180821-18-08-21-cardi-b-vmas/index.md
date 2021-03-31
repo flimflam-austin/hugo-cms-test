@@ -2,14 +2,15 @@
 title: 18.08.21 Cardi B Vmas
 slug: 20180821-18-08-21-cardi-b-vmas
 _id: legacy-76b44046-8ca5-44e4-bc94-9287929a0830
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: 45Isps23253Yjlaq2AzzxX
 type: quick_reads
 draft: false
 aliases:
   - 18-08-21-cardi-b-vmas/
 _createdAt: '2018-08-21T11:59:42Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:11:34Z'
 date: '2018-08-21T11:59:42+00:00'
+lastmod: '2018-08-21T11:59:42+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,7 +27,6 @@ cards:
 
 
       CARDI B
-    citation: CARDI B
     _key: card-1-d294be2a-9788-4380-8899-994d7b1c2d72
   - order: 1
     body: >-

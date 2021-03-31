@@ -2,14 +2,15 @@
 title: Whole vs. Low-Fat Milk
 slug: 20180925-18-09-25-milk-study
 _id: legacy-c96e170a-ee75-47a3-8389-6c4c6f31b15c
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: 45Isps23253Yjlaq2D9ANl
 type: quick_reads
 draft: false
 aliases:
   - 18-09-25-milk-study/
 _createdAt: '2018-09-25T12:16:09Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T22:36:27Z'
 date: '2018-09-25T12:16:09+00:00'
+lastmod: '2018-09-25T12:16:09+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -27,7 +28,6 @@ cards:
       New research says Yes! (Maybe…)
 
       WHAT TO KNOW
-    citation: WHAT TO KNOW
     _key: card-1-15b0ee6e-8376-4501-a102-87197087e717
   - order: 1
     body: >-
@@ -50,8 +50,6 @@ cards:
       its consumption, and to encourage children of all ages to keep drinking it
       freely.”  
         
-        
-        
       Dr. Mona Eissa, The University of Texas Health Science Center, on a
       separate study that researched obese children & dairy consumption, which
       found obese children who drank *any* milk had better blood sugar control.
@@ -61,8 +59,6 @@ cards:
       > “Greater consumption of total dairy products may be of importance in the
       prevention of weight gain in middle-aged and elderly women who are
       initially normal weight.”  
-        
-        
         
       Study published in the American Journal of Nutrition 2016 that examined
       dairy consumption & weight gain in women. The authors found women with

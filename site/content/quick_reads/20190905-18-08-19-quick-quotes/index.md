@@ -2,14 +2,15 @@
 title: 18.08.19 Quick Quotes
 slug: 20190905-18-08-19-quick-quotes
 _id: legacy-39c00251-6072-4ec3-bcdb-0a618a9f62d3
-_rev: O8E8pz1fLwnc3fN7JVF2pC
+_rev: 0aCMfzqL0erea7otJuzn0K
 type: quick_reads
 draft: false
 aliases:
   - 18-08-19-quick-quotes/
 _createdAt: '2018-08-21T11:59:06Z'
-_updatedAt: '2021-03-22T13:11:16Z'
+_updatedAt: '2021-03-26T20:10:40Z'
 date: '2018-08-21T11:59:06+00:00'
+lastmod: '2018-08-21T11:59:06+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,7 +21,7 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     body: >-
-      > ‘It’s been quite a ride.’  
+      > "It’s been quite a ride."  
         
         
         
@@ -35,8 +36,6 @@ cards:
       little overlap between the battlegrounds of high-stakes Senate and House
       races.”  
         
-        
-        
       David Wasserman, House editor for The Cook Political Report, who argues
       the midterms are a tale of 2 races - the Senate seats are in rural, red
       states; the House seats in swing states. Feeling out of the loop on the
@@ -44,8 +43,7 @@ cards:
     _key: card-2-4c295259-a940-482a-b86a-758fd56a07be
   - order: 2
     body: >-
-      > ‘We showed no care for the little ones; we abandoned them.’  
-        
+      > "We showed no care for the little ones; we abandoned them."  
         
         
       Pope Francis, in a first of its kind open letter to the world's Catholics,
@@ -55,8 +53,8 @@ cards:
     _key: card-3-2594c41f-9558-4959-8ec0-e7231ba4b91a
   - order: 3
     body: >-
-      > ‘…we know it was made mostly from sheep’s and goat’s milk, but for me,
-      it’s really hard to imagine a specific flavor.’  
+      > "…we know it was made mostly from sheep’s and goat’s milk, but for me,
+      it’s really hard to imagine a specific flavor."  
         
         
         

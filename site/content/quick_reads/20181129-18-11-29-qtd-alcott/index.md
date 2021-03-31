@@ -2,14 +2,15 @@
 title: 'Quote of the Day: Louis May Alcott'
 slug: 20181129-18-11-29-qtd-alcott
 _id: legacy-0081abb6-5fdc-4000-8e0c-8c7b6bbd4ef5
-_rev: O8E8pz1fLwnc3fN7JVF2NC
+_rev: 0aCMfzqL0erea7otJxxIG8
 type: quick_reads
 draft: false
 aliases:
   - 18-11-29-qtd-alcott/
 _createdAt: '2018-11-29T12:28:05Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T00:38:18Z'
 date: '2018-11-29T12:28:05+00:00'
+lastmod: '2018-11-29T12:28:05+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -19,10 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
-    body: |-
-      > _“I am not afraid of storms for I am learning how to sail my ship.”_
-
-      LOUISA MAY ALCOTT
+    body: '> _“I am not afraid of storms for I am learning how to sail my ship.”_'
     citation: LOUISA MAY ALCOTT
     _key: card-1-a1d9d6b9-58ad-4ebe-8e8b-938a26fe45b7
   - order: 1

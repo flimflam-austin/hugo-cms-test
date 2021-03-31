@@ -2,14 +2,15 @@
 title: 18.08.17 Isis Down but Not Out
 slug: 20180823-18-08-17-isis-down-not-out
 _id: legacy-40717347-3f1e-471e-a50a-51084f6a8d58
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: LotyrYkaRjTl0E452xYq3B
 type: quick_reads
 draft: false
 aliases:
   - 18-08-17-isis-down-not-out/
 _createdAt: '2018-08-17T11:34:48Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:03:56Z'
 date: '2018-08-17T11:34:48+00:00'
+lastmod: '2018-08-17T11:34:48+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -29,7 +30,6 @@ cards:
 
 
       Why It Matters
-    citation: Why It Matters
     _key: card-1-841e69b0-dc4d-4f1b-b866-edb8408ea488
   - order: 1
     body: >-
@@ -41,8 +41,6 @@ cards:
       while also fighting in several other countries. **It is a mistake to think
       ISIS is defeated and the US needs to ensure it doesn’t mushroom once
       again**.”  
-        
-        
         
       Tom Joscelyn Senior Fellow, Foundation of Defense of Democracies to SHN
     _key: card-2-717644ba-ff4a-41c3-94e7-99e5cf019837

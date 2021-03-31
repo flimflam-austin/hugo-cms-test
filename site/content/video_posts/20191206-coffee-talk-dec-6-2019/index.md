@@ -10,12 +10,16 @@ aliases:
 _createdAt: '2019-12-07T02:55:52Z'
 _updatedAt: '2021-03-22T13:11:59Z'
 date: '2019-12-07T02:55:52+00:00'
+lastmod: '2019-12-07T02:55:52+00:00'
 weight: 50
 featured_image:
   alt: Featured article image
   url: >-
     e8382d01db531aa69e7cdc97e6ffe146c3971c36-1240x1295.jpg
 video_series: Coffee Talk
+is_breaking: false
+is_breaking_dropdown: false
+is_featured: false
 
 ---
 {{< youtube id="ZY2sgXAl6TM" title="Coffee Talk: 3 Quick News Items For The First Week of December" >}}

@@ -2,14 +2,15 @@
 title: 18.05.19 Santa Fe Shooting Student
 slug: 20180520-18-05-19-santa-fe-shooting-student
 _id: legacy-07f422b3-858d-4e9f-912e-050998386ab2
-_rev: O8E8pz1fLwnc3fN7JVF0xC
+_rev: 0aCMfzqL0erea7otJs47yn
 type: quick_reads
 draft: false
 aliases:
   - 18-05-19-santa-fe-shooting-student/
 _createdAt: '2018-05-19T20:08:22Z'
-_updatedAt: '2021-03-22T13:11:09Z'
+_updatedAt: '2021-03-26T00:27:54Z'
 date: '2018-05-19T20:08:22+00:00'
+lastmod: '2018-05-19T20:08:22+00:00'
 weight: 50
 card_series: Worth-It-To-See-It
 colorpaletteclassname: '--black'
@@ -27,7 +28,6 @@ cards:
 
 
       [Watch Interview Here:](http://abc13.com/video/embed/?pid=3491939)
-    citation: 'Watch Interview Here:'
     _key: card-1-42a91fae-6d54-4c21-abe1-37ad247c42e4
   - order: 1
     body: >-

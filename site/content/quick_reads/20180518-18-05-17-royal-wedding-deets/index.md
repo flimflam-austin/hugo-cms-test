@@ -10,6 +10,7 @@ aliases:
 _createdAt: '2018-05-17T10:10:41Z'
 _updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-17T10:10:41+00:00'
+lastmod: '2018-05-17T10:10:41+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image

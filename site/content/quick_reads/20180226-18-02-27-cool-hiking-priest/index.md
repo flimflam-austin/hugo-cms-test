@@ -2,14 +2,15 @@
 title: 18.02.27 Cool Hiking Priest
 slug: 20180226-18-02-27-cool-hiking-priest
 _id: legacy-5f68b059-8026-4d31-bc79-83fa4be7fc5c
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: 0aCMfzqL0erea7otJrjxKH
 type: quick_reads
 draft: false
 aliases:
   - 18-02-27-cool-hiking-priest/
 _createdAt: '2018-02-27T15:00:54Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:59:55Z'
 date: '2018-02-27T15:00:54+00:00'
+lastmod: '2018-02-27T15:00:54+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -34,7 +35,6 @@ cards:
 
       [Watch
       Now](https://www.youtube.com/embed/r1QXpmv-y2E?enablejsapi=1&autoplay=1&rel=0)
-    citation: Watch Now
     _key: card-1-f2c84109-75db-435b-8dab-3c80b52b9ce2
   - order: 1
     body: >-

@@ -2,14 +2,15 @@
 title: The State of Our Union
 slug: 20190206-what-did-the-state-of-the-union-address-deliver
 _id: legacy-62924b96-53b9-42e8-8d87-997d5d132dc6
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 45Isps23253Yjlaq2DL05v
 type: quick_reads
 draft: false
 aliases:
   - what-did-the-state-of-the-union-address-deliver/
 _createdAt: '2019-02-06T14:04:36Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-28T01:09:45Z'
 date: '2019-02-06T14:04:36+00:00'
+lastmod: '2019-02-06T14:04:36+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       Highlights
-    citation: Highlights
     _key: card-1-30e6aca6-2db9-4868-a81f-4942c03777e0
   - order: 1
     body: >-
@@ -48,9 +48,9 @@ cards:
     _key: card-2-4f4e889f-4694-49e9-8d5f-f9265f08f1cc
   - order: 2
     body: >-
-      > “We can bridge all divisions, heal old wounds, build new coalitions,
-      forge new solutions, and unlock the extraordinary promise of America’s
-      future. The decision is ours to make. We must choose between greatness or
+      “We can bridge all divisions, heal old wounds, build new coalitions, forge
+      new solutions, and unlock the extraordinary promise of America’s future.
+      The decision is ours to make. We must choose between greatness or
       gridlock, results or resistance, vision or vengeance, incredible progress
       or pointless destruction. Tonight, I ask you to choose greatness.”  
         
@@ -109,8 +109,6 @@ cards:
       States,A one that defied every tenet of fairness and abandoned not just
       our people but our values…America is stronger with immigrants, not
       walls.”  
-        
-        
         
       Stacey Abrams, fmr. GA gubernatorial candidate & the first
       African-American woman to deliver the State of the Union response.

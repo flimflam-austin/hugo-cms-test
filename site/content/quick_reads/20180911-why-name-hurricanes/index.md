@@ -2,14 +2,15 @@
 title: You Will Never See Another Hurricane Katrina again...why?
 slug: 20180911-why-name-hurricanes
 _id: legacy-dca560ec-44ca-4ecb-b022-3966f7831d46
-_rev: O8E8pz1fLwnc3fN7JVF2FC
+_rev: LotyrYkaRjTl0E452ybIpx
 type: quick_reads
 draft: false
 aliases:
   - why-name-hurricanes/
 _createdAt: '2018-09-11T11:57:07Z'
-_updatedAt: '2021-03-22T13:11:13Z'
+_updatedAt: '2021-03-27T21:39:55Z'
 date: '2018-09-11T11:57:07+00:00'
+lastmod: '2018-09-11T11:57:07+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -33,7 +34,6 @@ cards:
 
 
       Never A "Katrina" Again
-    citation: Never A "Katrina" Again
     _key: card-1-d0f2fe86-a3c3-4537-bd62-30a3faeac022
   - order: 1
     body: >-

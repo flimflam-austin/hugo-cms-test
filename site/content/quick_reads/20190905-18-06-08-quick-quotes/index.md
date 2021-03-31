@@ -2,14 +2,15 @@
 title: 18.06.08 Quick Quotes
 slug: 20190905-18-06-08-quick-quotes
 _id: legacy-1b7aabe2-6e63-4afd-a750-7c0427295f96
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: LotyrYkaRjTl0E452wXnLZ
 type: quick_reads
 draft: false
 aliases:
   - 18-06-08-quick-quotes/
 _createdAt: '2018-06-08T10:47:47Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-26T01:11:18Z'
 date: '2018-06-08T10:47:47+00:00'
+lastmod: '2018-06-08T10:47:47+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -20,9 +21,8 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     body: >-
-      > ‘I don’t think I have to prepare very much. It’s about attitude. It’s
-      about willingness to get things done.’  
-        
+      > "I don’t think I have to prepare very much. It’s about attitude. It’s
+      about willingness to get things done."  
         
         
       President Trump ahead of next Tuesday's meeting with Kim Jong Un in
@@ -43,8 +43,8 @@ cards:
     _key: card-2-5d46cd7b-7971-4824-b059-210e577f0d51
   - order: 2
     body: >-
-      > ‘I don’t believe Mrs. Trump has ever discussed her thoughts on anything
-      with Mr. Giuliani.’  
+      > "I don’t believe Mrs. Trump has ever discussed her thoughts on anything
+      with Mr. Giuliani."  
         
         
         
@@ -57,8 +57,6 @@ cards:
       > “This should serve as a very good deterrent not only for them but for
       other potential bad actors.”  
         
-        
-        
       Commerce Sec. Wilbur Ross to CNBC on a deal with Chinese telecom giant ZTE
       to end crippling U.S. sanctions. In exchange, ZTE will pay the U.S. a $1B
       fine & change its board of directors & exec team within 30 days. U.S.
@@ -69,7 +67,6 @@ cards:
     body: >-
       > “I never gave up hope. Now I can’t tell you that everyday was a good
       day, but there was not a day that I could tell you that I was hopeless.”  
-        
         
         
       Alice Marie Johnson to CNN on life before President Trump commuted her

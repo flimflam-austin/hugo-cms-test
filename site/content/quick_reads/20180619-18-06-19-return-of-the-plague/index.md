@@ -2,14 +2,15 @@
 title: 18.06.19 Return of the Plague?
 slug: 20180619-18-06-19-return-of-the-plague
 _id: legacy-517c583a-822a-4d49-bc8c-b18edcf23b7c
-_rev: O8E8pz1fLwnc3fN7JVF1TC
+_rev: 45Isps23253Yjlaq28TiSL
 type: quick_reads
 draft: false
 aliases:
   - 18-06-19-return-of-the-plague/
 _createdAt: '2018-06-19T10:44:29Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T01:38:41Z'
 date: '2018-06-19T10:44:29+00:00'
+lastmod: '2018-06-19T10:44:29+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,7 +26,6 @@ cards:
       American child tests positive for a mysterious case of bubonic plague.
 
       What To Know
-    citation: What To Know
     _key: card-1-2065426e-927c-49cc-8a19-e7536db6f487
   - order: 1
     body: >-
@@ -70,8 +70,9 @@ cards:
       West/Southwest
 
 
+
+
       [Click: View Map](https://www.cdc.gov/plague/maps/index.html)
-    citation: 'Click: View Map'
     _key: card-4-582d0e1e-15ad-45ac-b9a1-530784445d0d
   - order: 4
     body: >-

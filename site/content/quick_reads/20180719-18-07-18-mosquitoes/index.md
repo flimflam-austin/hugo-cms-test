@@ -2,14 +2,15 @@
 title: 18.07.18 Mosquitoes
 slug: 20180719-18-07-18-mosquitoes
 _id: legacy-64916964-cef1-4650-81da-a35c9e93a2fb
-_rev: ZEyhBiGfgCfwE8WOjbuBSy
+_rev: 45Isps23253Yjlaq2AdyV9
 type: quick_reads
 draft: false
 aliases:
   - 18-07-18-mosquitoes/
 _createdAt: '2018-07-19T14:28:17Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T17:30:28Z'
 date: '2018-07-19T14:28:17+00:00'
+lastmod: '2018-07-19T14:28:17+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       DEETS ON NO MORE DEET
-    citation: DEETS ON NO MORE DEET
     _key: card-1-5b6472ec-2d4f-446e-bce8-ecffdf48eac2
   - order: 1
     body: >-

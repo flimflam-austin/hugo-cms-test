@@ -2,14 +2,15 @@
 title: 18.07.17 Cheesy Cheesiness
 slug: 20180717-18-07-17-cheesy-cheesiness
 _id: legacy-548d613b-7a4d-42b5-8ed6-0e65a7f6f04a
-_rev: ZEyhBiGfgCfwE8WOjbuB9I
+_rev: 0aCMfzqL0erea7otJsKRg9
 type: quick_reads
 draft: false
 aliases:
   - 18-07-17-cheesy-cheesiness/
 _createdAt: '2018-07-17T10:45:56Z'
-_updatedAt: '2021-03-22T13:11:11Z'
+_updatedAt: '2021-03-26T02:51:35Z'
 date: '2018-07-17T10:45:56+00:00'
+lastmod: '2018-07-17T10:45:56+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -22,7 +23,7 @@ cards:
     body: >-
       It Ain’t Easy…  
 
-      Being Cheesy =============================
+      Being Cheesy
 
 
       Whether its mac & cheese or mozzarella, cheese prices fall as **America’s
@@ -30,7 +31,6 @@ cards:
 
 
       Why?
-    citation: Why?
     _key: card-1-ac618e3c-1935-4dc2-8ff6-3522cdb62006
   - order: 1
     body: >-

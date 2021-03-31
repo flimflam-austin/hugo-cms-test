@@ -2,14 +2,15 @@
 title: 18.05.29 Privacy Policy Update Emails (Gdpr)
 slug: 20180529-18-05-29-privacy-policy-update-emails-gdpr
 _id: legacy-ef6141e2-8221-4e68-ba01-e855474b5433
-_rev: O8E8pz1fLwnc3fN7JVF1DC
+_rev: 45Isps23253Yjlaq28Oilm
 type: quick_reads
 draft: false
 aliases:
   - 18-05-29-privacy-policy-update-emails-gdpr/
 _createdAt: '2018-05-29T10:16:37Z'
-_updatedAt: '2021-03-22T13:11:10Z'
+_updatedAt: '2021-03-26T00:45:51Z'
 date: '2018-05-29T10:16:37+00:00'
+lastmod: '2018-05-29T10:16:37+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -25,7 +26,6 @@ cards:
       Inbox flooded with privacy update notices? Here’s why:
 
       FLIP HERE FOR MORE
-    citation: FLIP HERE FOR MORE
     _key: card-1-1691371e-ccce-4bbf-b673-7a2550ec5a20
   - order: 1
     body: >-

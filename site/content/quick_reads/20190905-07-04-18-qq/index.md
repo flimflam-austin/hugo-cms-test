@@ -2,14 +2,15 @@
 title: 07.04.18 Qq
 slug: 20190905-07-04-18-qq
 _id: legacy-2c792dba-c294-42bf-8f8a-9097bd86aff1
-_rev: O8E8pz1fLwnc3fN7JVF2ZC
+_rev: 0aCMfzqL0erea7otJsG7OP
 type: quick_reads
 draft: false
 aliases:
   - 07-04-18-qq/
 _createdAt: '2018-07-05T02:30:37Z'
-_updatedAt: '2021-03-22T13:11:14Z'
+_updatedAt: '2021-03-26T02:12:34Z'
 date: '2018-07-05T02:30:37+00:00'
+lastmod: '2018-07-05T02:30:37+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -40,9 +41,8 @@ cards:
     _key: card-2-6af04060-de37-4a40-b04a-ebd35f1a2c60
   - order: 2
     body: >-
-      > “Normal countries don’t terrorize other nations, proliferate missiles,
-      and impoverish their own people.”  
-        
+      “Normal countries don’t terrorize other nations, proliferate missiles, and
+      impoverish their own people.”  
         
         
       Brian Hook, U.S. State Dept, during a briefing regarding U.S. & Iran
@@ -53,11 +53,10 @@ cards:
     _key: card-3-ebb0d78c-6192-4c0b-b2f0-6e8f37680593
   - order: 3
     body: >-
-      > ‘Divers are in dark areas that are not flat and there’s mud and rocks
+      "Divers are in dark areas that are not flat and there’s mud and rocks
       everywhere. Therefore, for the SEAL team that’s there, when they dive,
       sometimes one tank can only go as far as 30 meters and they have to turn
-      back.’  
-        
+      back."  
         
         
       Interior Minister, Thailand, describing why it's so difficult to rescue a

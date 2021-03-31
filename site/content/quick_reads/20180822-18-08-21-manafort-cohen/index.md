@@ -2,14 +2,15 @@
 title: 18.08.21 Manafort & Cohen
 slug: 20180822-18-08-21-manafort-cohen
 _id: legacy-184b06c1-1404-4bbc-9020-df7e89971332
-_rev: O8E8pz1fLwnc3fN7JVF1rC
+_rev: LotyrYkaRjTl0E452xZCE9
 type: quick_reads
 draft: false
 aliases:
   - 18-08-21-manafort-cohen/
 _createdAt: '2018-08-22T11:59:07Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-26T20:12:08Z'
 date: '2018-08-22T11:59:07+00:00'
+lastmod: '2018-08-22T11:59:07+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -26,10 +27,8 @@ cards:
       ## $17+Million
 
 
-      > Estimated costs to date in direct/indirect expenses of the “Mueller”
+      Estimated costs to date in direct/indirect expenses of the “Mueller”
       Special Counsel investigation.  
-        
-        
         
       Here’s what we’ve learned from the investigation aimed at protecting
       America’s democracy.

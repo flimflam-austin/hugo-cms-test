@@ -2,14 +2,15 @@
 title: 18.02.22 Who Buys a 100 Mil Apartment
 slug: 20180222-18-02-22-buys-100-mil-apartment
 _id: legacy-52a70814-d6f7-4c78-9bb4-0c1eec160d46
-_rev: ZEyhBiGfgCfwE8WOjbuACG
+_rev: IAvNP6RYLyXA7vmr3JpCuo
 type: quick_reads
 draft: false
 aliases:
   - 18-02-22-buys-100-mil-apartment/
 _createdAt: '2018-02-22T18:30:36Z'
-_updatedAt: '2021-03-22T13:11:04Z'
+_updatedAt: '2021-03-25T21:33:29Z'
 date: '2018-02-22T18:30:36+00:00'
+lastmod: '2018-02-22T18:30:36+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -31,7 +32,6 @@ cards:
 
 
       WSJ With The Scoop Flip For More
-    citation: WSJ With The Scoop Flip For More
     _key: card-1-a9fda559-11a5-4930-8f45-5b33ca08c4db
   - order: 1
     body: |-
@@ -41,8 +41,9 @@ cards:
       * Penthouse located just off Central Park South in midtown Manhattan.
       * 6 bedrooms, 6 baths; nearly 11,000 sq feet.
 
+
+
       [Click HERE To Look At Building](https://one57.com/)
-    citation: Click HERE To Look At Building
     _key: card-2-ac9d0627-51ac-4c72-a53e-430212b2a725
   - order: 2
     body: >-
@@ -64,7 +65,6 @@ cards:
       > “I had been warned…not to bring ponies, gerbils, guinea pigs or bunnies
       to the building, nor to engage in modeling, massage therapy or seminude
       performances, none of which are allowed.”  
-        
         
         
       Penelope Green detailed her "sleepover" in the skyscraper for The New York

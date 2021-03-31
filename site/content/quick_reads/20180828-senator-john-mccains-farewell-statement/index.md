@@ -2,14 +2,15 @@
 title: Senator John Mccain's Farewell Statement
 slug: 20180828-senator-john-mccains-farewell-statement
 _id: legacy-da46b5de-bf12-46e1-bcbf-93cab35793f1
-_rev: O8E8pz1fLwnc3fN7JVF27C
+_rev: 45Isps23253Yjlaq2CyX7P
 type: quick_reads
 draft: false
 aliases:
   - senator-john-mccains-farewell-statement/
 _createdAt: '2018-08-28T12:02:13Z'
-_updatedAt: '2021-03-22T13:11:12Z'
+_updatedAt: '2021-03-27T20:49:12Z'
 date: '2018-08-28T12:02:13+00:00'
+lastmod: '2018-08-28T12:02:13+00:00'
 weight: 50
 featured_image:
   alt: Quick Reads background image
@@ -24,9 +25,6 @@ cards:
       promise and greatness of America, because nothing is inevitable here.
       Americans never quit.A We never surrender.A We never hide from history. We
       make history.”_
-
-
-      Sen. John McCain
     citation: Sen. John McCain
     _key: card-1-e3c46b59-c9c8-48e1-9e04-9f4561753fa0
   - order: 1
