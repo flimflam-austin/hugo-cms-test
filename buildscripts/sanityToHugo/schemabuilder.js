@@ -63,13 +63,33 @@ const getFeaturedImage = (imageFigure) => {
 ////////////////////////////////////////////////
 /*               QUICK QUOTES                 */
 ////////////////////////////////////////////////
+const isQuoteMark = (character) =>
+  character === '"' ||
+  character === "“" ||
+  character === "”" ||
+  character === "‘" ||
+  character === "’";
+
+const trimFirstQuotemark = (string) =>
+  isQuoteMark(string[0]) ? string.substring(1) : string;
+
+const trimLastQuotemark = (string) =>
+  isQuoteMark(string[string.length - 1]) ? string.slice(0, -1) : string;
+
+const trimEndQuotes = (string) => trimFirstQuotemark(trimLastQuotemark(string));
+
+const getScrubbedQuote = (data) => {
+  const quote = sh.getFlatPair(
+    "quote",
+    data.featured_quote ? data.featured_quote.quote : null
+  );
+
+  return quote ? trimEndQuotes(quote) : null;
+};
 
 const getQuickQuotesFields = (data) => {
   const featuredQuoteFields = [
-    sh.getFlatPair(
-      "quote",
-      data.featured_quote ? data.featured_quote.quote : null
-    ),
+    getScrubbedQuote(data),
     sh.getFlatPair(
       "citation",
       data.featured_quote ? data.featured_quote.citation : null
@@ -284,6 +304,9 @@ const getJsonFromSanityData = (data) => {
     );
     return null;
   }
+
+  /* console.log(data.slug);
+  console.log(JSON.stringify(data, null, 2)); */
 
   const sectionalFields = getSectionalFields(data);
   if (!sectionalFields) {

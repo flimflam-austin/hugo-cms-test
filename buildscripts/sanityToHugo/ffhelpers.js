@@ -1,5 +1,5 @@
 const isValue = (value) =>
-	!!value || value === 0 || value === "0" || value === false ? true : false;
+  !!value || value === 0 || value === "0" || value === false ? true : false;
 
 const isMissingValue = (value) => !isValue(value);
 
@@ -8,31 +8,31 @@ const isArray = (value) => Array.isArray(value);
 const notArray = (value) => !isArray(value);
 
 const isFilledArray = (value) =>
-	isArray(value) && isValue(value[0]) ? true : false;
+  isArray(value) && isValue(value[0]) ? true : false;
 
 const getValidArrayValues = (array) => array.filter(isValue);
 
 const arrayToObject = (acc, field) => Object.freeze({ ...acc, ...field });
 
 const compileValidArrayValues = (array) =>
-	getValidArrayValues(array).reduce(arrayToObject, {});
+  getValidArrayValues(array).reduce(arrayToObject, {});
 
 const identity = (x) => x;
 
 const inspect = (x) => {
-	console.log("*inspecting--------------- >");
-	console.log(x);
-	console.log("^ -------------------------*");
-	return x;
+  console.log("*inspecting--------------- >");
+  console.log(x);
+  console.log("^ -------------------------*");
+  return x;
 };
 
 const inspectJson = (x) => {
-	inspect(JSON.stringify(x, null, 2));
-	return x;
+  inspect(JSON.stringify(x, null, 2));
+  return x;
 };
 
 const filterUniqueValues = (value, index, self) =>
-	self.indexOf(value) === index;
+  self.indexOf(value) === index;
 
 exports.isValue = isValue;
 

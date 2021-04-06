@@ -22,4 +22,4 @@ is_breaking_dropdown: false
 is_featured: false
 
 ---
-{{< youtube id="EApZjgZStGQ" title="What We DON’T Know about Fmr. Pres. Trump’s second impeachment trial" >}} trial" >}}
+{{< youtube id="EApZjgZStGQ" title="What We DON’T Know about Fmr. Pres. Trump’s second impeachment trial" >}}

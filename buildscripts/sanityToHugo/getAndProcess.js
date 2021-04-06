@@ -15,9 +15,8 @@ const octokit = new Octokit({ auth: GITHUB_AUTHTOKEN }); */
 const OUTPUT_CONFIG = Object.freeze({});
 ///////////////////////////////////////////
 
-const sanityClient = require("@sanity/client");
 const sh = require("./schemahelpers");
-
+const client = require("./clientMaker");
 const writeFiles = require("./outputfiles");
 const ff = require("./ffhelpers");
 const convertFilesToMd = require("./filebuilder");
@@ -25,15 +24,17 @@ const log = require("./buildlog");
 const schema = require("./schemabuilder");
 const shortcodeFix = require("./fixShortcode");
 
-const sanityToken =
-  "skT56bQ7gH63mOrsGUHTwh9hO6Hfx6npXXboZQMp4gdkt4JqkZCcn8mUtRvkMAhj82hIqcvf23asmaHbVlAgeXmJjqenA8KrEnXTwMVLhFIDVp7FJwNxAtjznqoRoMvVP86bksCeIbAV8MeapCTczWEstIzLF5ch3uQgWARLDIy3fG506ga2";
+/* const sanityToken =
+  "skxpyFFigQN4rUKuoXeGFnmWR0uEbk4NU0gcioVGbSsWSMrjcKvvGGseNLpNgY1gu6nVe8ryeRDRrSmllb2OsJ1OZMhfcNuouI5o1Ih4RFsgR4NEDjotEaDldAYRHincV5GTAB7oxwCG1gxVByWFFLY6bowUkiLXHHZyVkSpjlEFzkurfKw6";
+
 const client = sanityClient({
   projectId: "zhir6k5d",
   dataset: "public",
   token: sanityToken, // or leave blank to be anonymous user
   useCdn: false, // `false` if you want to ensure fresh data
+  apiVersion: "2021-03-20",
 });
-
+ */
 const buildQuery = (sinceDate) =>
   `*[_type in ["quickquotes", "videoposts", "cardstack", "products", "author"] && _updatedAt > "${sinceDate}" ]  | order(_updatedAt desc) {..., mainimage{asset->{url}, caption, alt}, series->{title}}`;
 
@@ -48,7 +49,7 @@ const buildSchemaFromResponse = (responseData) =>
 const handleResponse = (response) => {
   console.log(`Response length:\n-\t${response.length}\n\n`);
 
-  if (typeof response === "error") throw response;
+  if (typeof response === Error) throw response;
 
   if (!response[0]) throw "Response was empty.";
 
@@ -68,11 +69,17 @@ const logStartMessage = (query, params) => {
   );
 };
 
+const inspect = (data) => {
+  console.log(JSON.stringify(data, null, 2));
+  return data;
+};
+
 const asyncGetRequest = async () => {
   const lastBuildTime = log.getLastLog();
   const articlesSinceDate = lastBuildTime;
 
   const query = buildQuery(articlesSinceDate);
+
   const params = buildQueryParams();
 
   logStartMessage(query, params);
@@ -80,6 +87,7 @@ const asyncGetRequest = async () => {
   const completeStatus = await client
     .fetch(query, params)
     .then(handleResponse)
+    //.then(inspect)
     .then(buildSchemaFromResponse)
     .then(convertFilesToMd)
     .then(writeFiles)

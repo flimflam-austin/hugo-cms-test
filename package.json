@@ -70,6 +70,7 @@
 		"@octokit/rest": "^18.3.5",
 		"@sanity/block-content-to-markdown": "^0.0.5",
 		"@sanity/client": "^2.2.6",
+		"@sanity/image-url": "^0.140.22",
 		"acorn": "^7.4.1",
 		"csv-parser": "^3.0.0",
 		"csv-split-stream": "^1.0.2",

@@ -2,13 +2,13 @@
 title: 18.10.02 Qtd
 slug: 20181002-18-10-02-qtd
 _id: legacy-186425f6-768e-4fa7-ab25-5e69b025561f
-_rev: LotyrYkaRjTl0E452yiVRl
+_rev: p5oiLzuoOfR9bp21r4oGNZ
 type: quick_reads
 draft: false
 aliases:
   - 18-10-02-qtd/
 _createdAt: '2018-10-02T11:43:15Z'
-_updatedAt: '2021-03-28T00:18:48Z'
+_updatedAt: '2021-04-04T08:26:32Z'
 date: '2018-10-02T11:43:15+00:00'
 lastmod: '2018-10-02T11:43:15+00:00'
 weight: 50
@@ -39,4 +39,4 @@ cards:
     _key: card-10-f9438502-fb37-4317-8c9b-ff7b8f1d8c1d
 
 ---
-* **I Survived The Las Vegas Shooting. One Year Later, Here’s What I’ve Learned.:** [https://www.refinery29.com/en-us/2018/10/212628/las-vegas-concert-shooting-survivor-essay-gun-violence](https://www.refinery29.com/en-us/2018/10/212628/las-vegas-concert-shooting-survivor-essay-gun-violence)un-violence)
+* **I Survived The Las Vegas Shooting. One Year Later, Here’s What I’ve Learned.:** [https://www.refinery29.com/en-us/2018/10/212628/las-vegas-concert-shooting-survivor-essay-gun-violence](https://www.refinery29.com/en-us/2018/10/212628/las-vegas-concert-shooting-survivor-essay-gun-violence)

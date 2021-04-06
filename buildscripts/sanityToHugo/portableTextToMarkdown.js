@@ -2,6 +2,10 @@ const toMarkdown = require("@sanity/block-content-to-markdown");
 const getYouTubeId = require("get-youtube-id");
 const ff = require("./ffhelpers");
 const getVideoId = require("get-video-id");
+const imageUrlBuilder = require("@sanity/image-url");
+const client = require("./clientMaker");
+
+const builder = imageUrlBuilder(client);
 
 // TODO: Implement instagram feed plugin with api key: https://github.com/stevenschobert/instafeed.js/wiki/Managing-Access-Tokens
 // /(?<=instagram\.com\/).*?(?=\/\?)/gi
@@ -11,14 +15,42 @@ const getInstagramId = (url) => url.match(instagramIdRegex);
 
 const serializers = {
   types: {
+    image: (node) => {
+      const asset = node.asset || node.node.asset;
+      const alt = node.alt || node.node.alt || "article image";
+
+      if (!asset) {
+        console.log(
+          `Could not extract image ref from node: ${JSON.stringify(node)}.`
+        );
+        return "";
+      }
+
+      const imageSource = builder.image(asset);
+
+      const imageUrl = imageSource.url();
+
+      if (!imageUrl) {
+        console.log(
+          `Failed to extract image url from node: ${JSON.stringify(node)}`
+        );
+        return "";
+      }
+
+      return `{{< figure src="${imageUrl}" alt="${alt}" >}}`;
+    },
     youtube: (node) => {
-      const { url } = node;
+      const url = node.url || node.node.url;
+
       if (!url)
         throw `Could not extract Youtube id from node: ${JSON.stringify(
           node
         )} at url: ${url}`;
 
-      return `{{< youtube id="${getYouTubeId(node.url)}" >}}`;
+      const { id, service } = getVideoId(url);
+
+      //return `{{< youtube id="${getYouTubeId(url)}" >}}`;
+      return `{{< youtube id="${id}" >}}`;
     },
     vimeo: (node) => {
       const { url } = node;
