@@ -1,14 +1,14 @@
 ---
 title: Iraq Latest
 slug: 20200314-iraq-latest
-_id: 2e7c5998-9482-45a0-87d5-95126cd54b8c
-_rev: TDo1Nq1xkiZakmRW4xhmuJ
+_id: 7c34ed90-076b-49b1-bbf0-12395c50cbaf
+_rev: Jq8Xn76XXcuwmF7UDEGrKo
 type: quick_reads
 draft: false
 aliases:
   - iraq-latest/
-_createdAt: '2021-04-04T05:31:32Z'
-_updatedAt: '2021-04-04T05:31:32Z'
+_createdAt: '2021-04-04T05:35:00Z'
+_updatedAt: '2021-04-04T05:35:00Z'
 date: '2020-03-14T01:43:00.000Z'
 lastmod: '2020-03-14T01:43:00.000Z'
 weight: 50
@@ -16,7 +16,7 @@ featured_image:
   alt: Featured Article Image
   url: >-
     21560c7b6cbd4f98329bbdc508a2ba3cbc824da3-2560x1878.jpg
-card_series: SmartHER News
+card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
@@ -26,7 +26,7 @@ cards:
 
 
       ## The swift retaliation and why it matters.
-    _key: ee382877cb6a
+    _key: 251ef6513039
   - order: 1
     body: >-
       ## Backstory
@@ -39,18 +39,17 @@ cards:
       Wednesday: Two U.S. servicemembers + 1 U.K. soldier died during a rocket
       attack outside of Baghdad. 14 others injured. The U.S. blamed
       Iranian-backed militias.
-    _key: 546260fce875
+    _key: 65cb92f16be5
   - order: 2
     body: >-
       > “The United States will not tolerate attacks against our people, our
-      interests, or our allies.”
-
-
+      interests, or our allies.”  
+        
       Sec. of Defense Mark Esper on an airstrike targeting five weapons storage
       facilities the U.S. says belong to the militia that attacked U.S. and
       coalition forces Wednesday. Sec. Esper says the same Iranian-backed group
       is responsible for a series of other attacks.
-    _key: 12cb55bd64b6
+    _key: c77987f7edb9
   - order: 3
     body: >-
       ## Important Context
@@ -65,7 +64,7 @@ cards:
 
       * Bottom Line: The threats from both ISIS and Iran continue; tensions
       simmer.
-    _key: 2bc4ec5b941b
+    _key: 1c5eca6256f3
   - order: 4
     body: >-
       A message from the Defense Dept after the airstrikes Friday morning in
@@ -74,7 +73,7 @@ cards:
       Meanwhile, Iran confronts one of the deadliest outbreaks of COVID-19 on
       the planet.
     citation: VIEW SOURCES
-    _key: 49fd3d7e015e
+    _key: 1ead1126fcf0
 
 ---
 **Statement by the Department of Defense**  
@@ -84,4 +83,4 @@ cards:
 [https://www.defense.gov/Newsroom/Releases/Release/Article/2110986/dod-identifies-army-air-force-casualties/](https://www.defense.gov/Newsroom/Releases/Release/Article/2110986/dod-identifies-army-air-force-casualties/)
 
 **Officials: US strikes Iran-backed militias in response to Iraq base attack**  
-[https://www.stripes.com/news/middle-east/officials-us-strikes-iran-backed-militias-in-response-to-iraq-base-attack-1.622259](https://www.stripes.com/news/middle-east/officials-us-strikes-iran-backed-militias-in-response-to-iraq-base-attack-1.622259)-1.622259)
+[https://www.stripes.com/news/middle-east/officials-us-strikes-iran-backed-militias-in-response-to-iraq-base-attack-1.622259](https://www.stripes.com/news/middle-east/officials-us-strikes-iran-backed-militias-in-response-to-iraq-base-attack-1.622259)
