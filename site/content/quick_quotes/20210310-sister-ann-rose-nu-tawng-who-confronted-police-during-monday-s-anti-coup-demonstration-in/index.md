@@ -24,8 +24,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "I knelt down... begging them not to shoot and torture the children, but to
-    shoot me and kill me instead."
+    I knelt down... begging them not to shoot and torture the children, but to
+    shoot me and kill me instead.
 
 ---
 Anti-junta (anti-military) protestors took to the streets of the Myitkyina, the capital city of northern Myanmar’s Kachin state, as unrest continues in response to a military coup.

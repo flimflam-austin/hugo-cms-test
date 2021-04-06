@@ -21,7 +21,7 @@ featured_quote:
   quote: >-
     Now Congress has certified the results a new administration will be
     inaugurated January 20th, my focus now turns to ensuring a smooth orderly
-    and seamless transition of power. “
+    and seamless transition of power. 
 
 ---
 * At 6:30 pm cst. Pres. Trump released this statement.

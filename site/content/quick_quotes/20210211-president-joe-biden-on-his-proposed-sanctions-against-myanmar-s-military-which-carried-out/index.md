@@ -23,7 +23,7 @@ featured_image:
     86e5d5598e6be3a6965de80d924f77046f34b58c-600x400.jpg
 is_breaking: false
 featured_quote:
-  quote: “We will identify a first round of targets this week..."
+  quote: We will identify a first round of targets this week...
 
 ---
 President Biden announced he would withhold $1 billion in U.S. funds from the Myanmar government – unless the military “relinquished” power and set its prisoners free – and warned of even stronger sanctions on the horizon.

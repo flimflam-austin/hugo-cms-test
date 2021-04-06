@@ -23,8 +23,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “Though we gained jobs in January after a December loss, this is not a
-    we’ve-turned-the-corner report."
+    Though we gained jobs in January after a December loss, this is not a
+    we’ve-turned-the-corner report.
 
 ---
 [Frick want on to say](https://www.cnbc.com/2021/02/05/jobs-report-january-2021.html): _“We especially shouldn’t take solace that the unemployment rate fell dramatically given that’s mainly because more Americans dropped out of the labor force.”_

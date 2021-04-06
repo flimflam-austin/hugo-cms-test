@@ -24,8 +24,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "The window to prepare for this historic storm has closed as the time to
-    hunker down is here."
+    The window to prepare for this historic storm has closed as the time to
+    hunker down is here.
 
 ---
 _“The cold air is so widespread that you could travel nearly 2,000 miles from the Rio Grande on the Mexican border to the St. Lawrence River on the Canadian border entirely in winter storm warnings or watches.”_ [_CNN_](https://www.cnn.com/2021/02/15/weather/winter-storms-weather-monday/index.html)

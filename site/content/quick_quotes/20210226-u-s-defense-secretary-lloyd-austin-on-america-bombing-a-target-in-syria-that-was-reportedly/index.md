@@ -23,7 +23,7 @@ featured_image:
     fbeb237f1da74c40c22bbb824aca4ef890669b93-2560x1707.jpg
 is_breaking: false
 featured_quote:
-  quote: '"...we know what we hit."'
+  quote: ...we know what we hit.
 
 ---
 Mid-February a rocket attack on an American position in Irbil, Iraq killed one person and injured others.

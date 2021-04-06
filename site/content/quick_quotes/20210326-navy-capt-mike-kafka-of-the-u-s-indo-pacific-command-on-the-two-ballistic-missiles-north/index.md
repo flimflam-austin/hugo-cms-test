@@ -23,8 +23,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “This activity highlights the threat that North Korea’s illicit weapons
-    program poses to its neighbors and the international community."
+    This activity highlights the threat that North Korea’s illicit weapons
+    program poses to its neighbors and the international community.
 
 ---
 South Korea’s military detected the two short range missiles around 7 a.m. Thursday local time (Wednesday evening for us).

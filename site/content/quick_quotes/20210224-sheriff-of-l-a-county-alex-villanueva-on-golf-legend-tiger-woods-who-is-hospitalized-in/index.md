@@ -24,8 +24,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “The interior was more or less intact, which kind of gave him the cushion to
-    survive what otherwise would have been a fatal crash."
+    The interior was more or less intact, which kind of gave him the cushion to
+    survive what otherwise would have been a fatal crash.
 
 ---
 “He suffered multiple leg injuries. He is currently in surgery.” Woods’ agent, Mark Steinberg.

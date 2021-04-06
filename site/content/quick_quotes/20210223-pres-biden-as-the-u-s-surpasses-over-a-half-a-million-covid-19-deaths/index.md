@@ -19,9 +19,9 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "I ask all Americans to remember: Remember those we lost and those who are
+    I ask all Americans to remember: Remember those we lost and those who are
     left behind... Let this not be a story of how far we fell, but of how far we
-    climbed back up."
+    climbed back up.
 
 ---
 On Monday evening, the [President](https://www.youtube.com/watch?v=8Te4ES1TeJ0&ab_channel=CNBCTelevision) [spoke](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/02/22/remarks-by-president-biden-on-the-more-than-500000-american-lives-lost-to-covid-19/) about the more than 500,000 American lives lost to COVID-19, noting that more Americans have died from COVID than those who died fighting in WWI, WWII, and the Vietnam War combined.

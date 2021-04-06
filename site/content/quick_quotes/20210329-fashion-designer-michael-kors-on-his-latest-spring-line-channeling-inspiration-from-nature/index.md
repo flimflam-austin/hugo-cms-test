@@ -22,8 +22,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “Nature provides balance, and fashion is all about confidence and comfort,
-    and we could all use a little more....”
+    Nature provides balance, and fashion is all about confidence and comfort,
+    and we could all use a little more....
 
 ---
 The timing of quarantine with the designing of spring fashion lines may have influenced designers to turn to the outside world for inspiration during lockdown.

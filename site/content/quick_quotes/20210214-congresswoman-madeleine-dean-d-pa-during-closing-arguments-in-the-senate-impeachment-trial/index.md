@@ -22,8 +22,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “Senators, we are in a dialogue with history, a conversation with our past,
-    with a hope for our future."
+    Senators, we are in a dialogue with history, a conversation with our past,
+    with a hope for our future.
 
 ---
 “Mr. Trump is innocent of the charges against him. The act of incitement never happened.” Pres. Trump’s attorney, Michael van der Veen.

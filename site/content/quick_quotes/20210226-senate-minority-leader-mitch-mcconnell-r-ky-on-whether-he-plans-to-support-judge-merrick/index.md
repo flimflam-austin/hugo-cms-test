@@ -23,7 +23,7 @@ featured_image:
     b7953259c9c8c0d5456e58c42f9d13144b6d8e32-1920x1439.jpg
 is_breaking: false
 featured_quote:
-  quote: “I do."
+  quote: I do.
 
 ---
 Other Republicans have crossed party lines to say they will support Judge Garland, who will likely become the next Attorney General after a confirmation vote next week.

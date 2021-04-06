@@ -22,7 +22,7 @@ featured_image:
     446d11195f9fc594fd38a5d04ac8d504c3990983-768x513.jpg
 is_breaking: false
 featured_quote:
-  quote: “A healthy community means a healthy economy.”
+  quote: A healthy community means a healthy economy.
 
 ---
 Alaska is now the first state to allow those 16 and older access to a COVID-19 vaccine.

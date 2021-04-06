@@ -18,8 +18,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “Our historic, patriotic and beautiful movement to Make America Great Again
-    has only just begun."
+    Our historic, patriotic and beautiful movement to Make America Great Again
+    has only just begun.
 
 ---
 “We have so much work ahead of us, and soon we will emerge with a vision for a bright, radiant, and limitless American future.”

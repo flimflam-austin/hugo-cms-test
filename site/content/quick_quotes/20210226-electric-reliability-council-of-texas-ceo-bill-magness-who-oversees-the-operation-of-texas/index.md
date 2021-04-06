@@ -21,7 +21,7 @@ featured_image:
   alt: Featured article image
 is_breaking: false
 featured_quote:
-  quote: '"...we saw something here that, you know, outstrips any extreme scenario.”'
+  quote: ...we saw something here that, you know, outstrips any extreme scenario.
 
 ---
 Magness said the freezing winter storm was more challenging than any emergency scenarios the council had anticipated. However, board members criticize Magness for not spending time in the days ahead of the expected storm to speak about contingency plans.

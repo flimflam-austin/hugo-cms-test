@@ -23,9 +23,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “I would watch people sort of kiss their fingers and then kiss the heart. It
-    was allowing them to feel like it was OK to admit our sadness in the
-    moment.“
+    I would watch people sort of kiss their fingers and then kiss the heart. It
+    was allowing them to feel like it was OK to admit our sadness in the moment.
 
 ---
 The Floral Heart project aims “to create visualizations of those we have lost and to hold vigils and ritual ceremonies for those suffering…” during the COVID-19 pandemic.

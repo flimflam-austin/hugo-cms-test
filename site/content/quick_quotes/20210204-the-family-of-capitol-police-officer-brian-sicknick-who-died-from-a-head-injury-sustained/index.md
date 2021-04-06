@@ -24,8 +24,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “Knowing our personal tragedy and loss is shared by the nation brings hope
-    for healing.”
+    Knowing our personal tragedy and loss is shared by the nation brings hope
+    for healing.
 
 ---
 [According to his obituary,](https://www.dignitymemorial.com/obituaries/springfield-va/brian-sicknick-9992015) Sicknick lived a life “characterized by public service,” including six years in the National Guard and 12 years with the Capitol Police. He also rescued dachshunds, and had two of his own, Sparky and Pebbles.

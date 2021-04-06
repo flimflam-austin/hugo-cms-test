@@ -23,8 +23,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "The rainfall we got yesterday and overnight made this one of wettest
-    24-hour periods in Nashville's history."
+    The rainfall we got yesterday and overnight made this one of wettest 24-hour
+    periods in Nashville's history.
 
 ---
 _“… the second-highest two-day rainfall total in Nashville history, and the most for a single day in March.” –_The Nashville Tennessean

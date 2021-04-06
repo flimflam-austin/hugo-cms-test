@@ -24,7 +24,7 @@ is_breaking: false
 featured_quote:
   quote: >-
     It’s been a really exceptional year. We’re very focused on, ‘How do we
-    sustain that demand?’
+    sustain that demand?
 
 ---
 * Milk sales soared during “panic buying” during the spring but elevated sales have remained after that initial wave of buying.

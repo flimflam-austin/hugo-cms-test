@@ -23,8 +23,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “We need a 9/11 commission to find out what happened and make sure it never
-    happens again.”
+    We need a 9/11 commission to find out what happened and make sure it never
+    happens again.
 
 ---
 The 9/11 Commission was formed in 2002 after the 9/11 terrorist attacks – through hundreds of interviews, public hearings, and research, the commission issued a report about what happened in the lead up to and after the terrorist attacks. The report took nearly 2 years.

@@ -24,10 +24,10 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "As an artist, I believe it's my job, and all of our jobs, to reflect the
+    As an artist, I believe it's my job, and all of our jobs, to reflect the
     times. It's been such a difficult time, so I wanted to uplift, encourage,
     celebrate all the beautiful Black queens and kings that continue to inspire
-    me and inspire the whole world."
+    me and inspire the whole world.
 
 ---
 Beyonce won 4 awards during the Grammy Awards Show, bringing her total awards to 28.

@@ -23,8 +23,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “We’re in for a little bit of a bumpy ride for the next day or two, there’s
-    been a ton of backend work we’ve completed over the last couple of weeks.”
+    We’re in for a little bit of a bumpy ride for the next day or two, there’s
+    been a ton of backend work we’ve completed over the last couple of weeks.
 
 ---
 Parler returned to operation Feb 15th after Amazon stopped its hosting agreement, effectively cutting off the company from the internet. Amazon said Parler violated its terms of use.

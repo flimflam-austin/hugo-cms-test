@@ -22,7 +22,7 @@ featured_image:
     573c993d14c3aa37c634286429a377f7a9bdb1ad-768x474.jpg
 is_breaking: false
 featured_quote:
-  quote: '"It’s a matter of timing."'
+  quote: It’s a matter of timing.
 
 ---
 The President explained that in addition to pandemic, America is facing many long-term problems, including gun control and immigration, and said he plans on making progress on all of them but that his initial primary focus was COVID and “giving people peace of mind.”

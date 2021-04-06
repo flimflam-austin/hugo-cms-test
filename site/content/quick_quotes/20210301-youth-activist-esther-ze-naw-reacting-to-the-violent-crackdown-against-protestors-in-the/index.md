@@ -25,8 +25,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “It’s obvious they’re trying to instill fear in us by making us run and
-    hide. We can’t accept that.”
+    It’s obvious they’re trying to instill fear in us by making us run and hide.
+    We can’t accept that.
 
 ---
 _“Police and military forces have confronted peaceful demonstrations, using lethal force and less-than-lethal force that – according to credible information received by the UN Human Rights Office – has left at least 18 people dead and over 30 wounded.”_ [U.N. human rights office](https://www.reuters.com/article/us-myanmar-politics/at-least-18-killed-in-myanmar-on-bloodiest-day-of-protests-against-coup-idUSKCN2AS018)

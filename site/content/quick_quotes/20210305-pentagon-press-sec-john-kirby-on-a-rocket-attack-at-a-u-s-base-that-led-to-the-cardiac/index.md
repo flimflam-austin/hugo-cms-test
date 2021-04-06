@@ -23,9 +23,9 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "Let's let our Iraqi partners investigate this, see what they learn, and
-    then if a response is warranted, I think we have shown clearly ... that we
-    won't shy away from that. But we're just not there yet."
+    Let's let our Iraqi partners investigate this, see what they learn, and then
+    if a response is warranted, I think we have shown clearly ... that we won't
+    shy away from that. But we're just not there yet.
 
 ---
 No group has taken responsibility for the attack that happened in the early morning Wednesday March 3.

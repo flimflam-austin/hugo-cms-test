@@ -24,8 +24,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “Usually I’m just at home doing online school and there’s not much I can
-    really do to fight back against the virus."
+    Usually I’m just at home doing online school and there’s not much I can
+    really do to fight back against the virus.
 
 ---
 * The information about this study is not yet published – The data being quoted in headlines around the world is based on [Pfizer’s press release.](https://www.pfizer.com/news/press-release/press-release-detail/pfizer-biontech-announce-positive-topline-results-pivotal)

@@ -23,8 +23,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “I’m voting to confirm Judge Garland because of his long reputation as a
-    straight-shooter and legal expert."
+    I’m voting to confirm Judge Garland because of his long reputation as a
+    straight-shooter and legal expert.
 
 ---
 Garland was confirmed by a vote of 70-30 (all 30 who voted against his confirmation are Republicans, Republican support from others led to his confirmation).

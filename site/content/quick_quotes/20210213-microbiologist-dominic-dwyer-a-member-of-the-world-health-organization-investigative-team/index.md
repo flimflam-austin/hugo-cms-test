@@ -24,8 +24,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “They showed us a couple of examples, but that’s not the same as doing all
-    of them, which is standard epidemiological investigation.”
+    They showed us a couple of examples, but that’s not the same as doing all of
+    them, which is standard epidemiological investigation.
 
 ---
 Dwyer continues: “…the interpretation of that data becomes more limited from our point of view, although the other side might see it as being quite good.”

@@ -24,8 +24,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "We were walking in the stones and thorns. They started hitting us with guns
-    so that we could move.”
+    We were walking in the stones and thorns. They started hitting us with guns
+    so that we could move.
 
 ---
 The school girls say gunmen threatened to kill them as they marched the girls into a nearby forest.

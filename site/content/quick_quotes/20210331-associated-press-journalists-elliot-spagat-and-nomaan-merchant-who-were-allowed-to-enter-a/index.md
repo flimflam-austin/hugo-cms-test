@@ -23,7 +23,7 @@ featured_image:
     0203fdcf3ab9cab0239cbeeb14683e37e9214c34-600x398.jpg
 is_breaking: false
 featured_quote:
-  quote: '"It was a grim picture."'
+  quote: It was a grim picture.
 
 ---
 The Biden administration has received criticism from the media for NOT providing access to these government-run facilities, while also announcing plans to open more.

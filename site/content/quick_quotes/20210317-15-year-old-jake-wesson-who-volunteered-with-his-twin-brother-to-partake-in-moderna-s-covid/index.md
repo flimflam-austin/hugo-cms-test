@@ -24,7 +24,7 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >
-    "At first I was, like, a little nervous because of a fear of shots and
+    At first I was, like, a little nervous because of a fear of shots and
     needles."
 
 ---

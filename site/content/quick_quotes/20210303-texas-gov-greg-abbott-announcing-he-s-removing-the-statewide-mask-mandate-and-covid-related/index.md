@@ -21,7 +21,7 @@ featured_image:
     894e888b330f3c552762be46a66638de925d1eb3-2560x1707.jpg
 is_breaking: false
 featured_quote:
-  quote: '"It is now time to open Texas 100 percent."'
+  quote: It is now time to open Texas 100 percent.
 
 ---
 On March 10, Texas will join [15 other states](https://www.aarp.org/health/healthy-living/info-2020/states-mask-mandates-coronavirus.html) without a statewide mask mandate.

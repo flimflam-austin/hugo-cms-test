@@ -23,8 +23,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “If a cat is cornered, it may show a kind of behavior that a free cat would
-    not.”
+    If a cat is cornered, it may show a kind of behavior that a free cat would
+    not.
 
 ---
 In recent months Iran has moved towards developing nuclear weapons (for example, enriching uranium – a key component to building a nuclear weapon).

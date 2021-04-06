@@ -83,12 +83,8 @@ const getScrubbedQuote = (data) => {
     "quote",
     data.featured_quote ? data.featured_quote.quote : null
   );
-  const trimmedQuote = Object.freeze({ quote: trimEndQuotes(quote.quote) });
 
-  console.log(quote);
-  console.log(trimmedQuote);
-
-  return quote ? trimEndQuotes(quote) : null;
+  return quote ? Object.freeze({ quote: trimEndQuotes(quote.quote) }) : null;
 };
 
 const getQuickQuotesFields = (data) => {

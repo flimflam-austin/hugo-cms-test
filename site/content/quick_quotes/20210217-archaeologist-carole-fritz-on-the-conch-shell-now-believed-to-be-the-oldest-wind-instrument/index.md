@@ -22,7 +22,7 @@ featured_image:
     06c080a9069b60a7d9cdfe828e222e93fd884576-600x385.jpg
 is_breaking: false
 featured_quote:
-  quote: “Hearing it for the first time…. it was a big emotion.”
+  quote: Hearing it for the first time…. it was a big emotion.
 
 ---
 The [shell had sat in a French museum for decades](https://edition.cnn.com/style/article/oldest-wind-instrument-scli-intl-scn/index.html), with its song silenced and unknown.

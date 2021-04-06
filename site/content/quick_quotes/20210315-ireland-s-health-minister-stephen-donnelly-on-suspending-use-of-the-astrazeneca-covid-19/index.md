@@ -22,7 +22,7 @@ featured_image:
     a33c8d179e4fba70915d813458d46fdbd67745a9-768x432.jpg
 is_breaking: false
 featured_quote:
-  quote: '"This is a precautionary step."'
+  quote: This is a precautionary step.
 
 ---
 The AstraZeneca vaccine was created in partnership with Oxford University.

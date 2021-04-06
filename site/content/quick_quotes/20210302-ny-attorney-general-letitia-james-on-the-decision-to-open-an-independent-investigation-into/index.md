@@ -24,8 +24,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “This is not a responsibility we take lightly as allegations of sexual
-    harassment should always be taken seriously.”
+    This is not a responsibility we take lightly as allegations of sexual
+    harassment should always be taken seriously.
 
 ---
 **LATEST:** Today, Gov. Cuomo’s special counsel and senior advisor gave the attorney general the [green light](https://ag.ny.gov/press-release/2021/attorney-general-james-receives-referral-letter-investigate-allegations-sexual) (an official referral letter from the governor’s office required by law) to move forward with an independent investigation into allegations of sexual harassment made against the governor.

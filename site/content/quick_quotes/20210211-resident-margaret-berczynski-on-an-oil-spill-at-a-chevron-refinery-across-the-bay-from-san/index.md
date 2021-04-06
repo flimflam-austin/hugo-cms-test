@@ -23,7 +23,7 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >
-    "I'm really devastated. I cannot take my kids to the water ... I'm really
+    I'm really devastated. I cannot take my kids to the water ... I'm really
     scared."
 
     FacebookTwitterShare

@@ -23,8 +23,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "... Mr. Derek Chauvin betrayed this badge when he used excessive and
-    unreasonable force upon the body of Mr. George Floyd."
+    ... Mr. Derek Chauvin betrayed this badge when he used excessive and
+    unreasonable force upon the body of Mr. George Floyd.
 
 ---
 During opening arguments, the prosecutor previewed evidence and presented a timeline of the events on May 25, 2020, reiterating that Floyd said “I can’t breathe” 27 times during the 9 minutes and 29 seconds Chauvin held Floyd to the ground.

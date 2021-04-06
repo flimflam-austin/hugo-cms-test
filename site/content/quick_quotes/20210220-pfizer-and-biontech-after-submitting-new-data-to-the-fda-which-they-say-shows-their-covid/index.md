@@ -22,8 +22,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "Pfizer and BioNTech’s COVID-19 vaccine may not require the hospital grade,
-    ultra-low temperature freezer storage originally thought."
+    Pfizer and BioNTech’s COVID-19 vaccine may not require the hospital grade,
+    ultra-low temperature freezer storage originally thought.
 
 ---
 **BACKGROUND:** In December, the FDA approved the COVID-19 vaccine developed by Pfizer and BioNTech for emergency use. The mRNA vaccine is a two-dose vaccine given 21 days apart to people 16 and older. Currently, it must be stored at ultra-cold temperatures (-112ºF to -76ºF) before being administered.

@@ -23,10 +23,10 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "Dan and Laura left home this morning to carry out the mission they signed
-    up for and loved to do—to keep the American people safe. They were valuable
+    Dan and Laura left home this morning to carry out the mission they signed up
+    for and loved to do—to keep the American people safe. They were valuable
     members of our team. They will forever be heroes. We will always honor their
-    ultimate sacrifice."
+    ultimate sacrifice.
 
 ---
 Special Agents Laura Schwartzenberger (43) and Daniel Alfin (36), were killed and three other FBI officers were injured when a suspect opened fire while the agents attempted to execute a search warrant for a “_violent crimes against children investigation_” in Sunrise, Florida. The suspect also died.

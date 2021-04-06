@@ -23,8 +23,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “If it [the U.S.] wants to sleep in peace for the coming four years, it had
-    better refrain from causing a stink at its first step.”
+    If it [the U.S.] wants to sleep in peace for the coming four years, it had
+    better refrain from causing a stink at its first step.
 
 ---
 The U.S. and South Korea are holding military exercises in the region.

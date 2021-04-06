@@ -21,8 +21,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "He became not just a national inspiration but a beacon of hope for the
-    world."
+    He became not just a national inspiration but a beacon of hope for the
+    world.
 
 ---
 Captain Tom developed a deep appreciation for UK healthcare workers after fracturing his hip several years ago.

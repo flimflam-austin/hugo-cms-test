@@ -24,9 +24,9 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "Our goal is to ensure that unaccompanied children are transferred to HHS as
+    Our goal is to ensure that unaccompanied children are transferred to HHS as
     quickly as possible, consistent with legal requirements and in the best
-    interest of the children.”
+    interest of the children.
 
 ---
 FEMA will assist for the next 90 days.

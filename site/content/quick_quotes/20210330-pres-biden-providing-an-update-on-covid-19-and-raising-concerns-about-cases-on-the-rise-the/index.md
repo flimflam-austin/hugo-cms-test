@@ -24,8 +24,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "I'm reiterating my call for every governor, mayor and local leader to
-    maintain and reinstate the mask mandate."
+    I'm reiterating my call for every governor, mayor and local leader to
+    maintain and reinstate the mask mandate.
 
 ---
 President Biden says both cases and deaths have decreased by two-thirds since he took office, but the rising positive cases threaten to change the trajectory.

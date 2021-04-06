@@ -23,7 +23,7 @@ featured_image:
     327cf588bc92c382f84ebdcbf1a2ee0ae65b244c-600x400.jpg
 is_breaking: false
 featured_quote:
-  quote: “We already know that our capacity to offer care will be overwhelmed."
+  quote: We already know that our capacity to offer care will be overwhelmed.
 
 ---
 The doctors describe difficult treatment conditions (for anyone with *any need*) because of an overstressed French health system. They [want stricter mitigation efforts](https://www.sacbee.com/news/article250270675.html); the French president does not.

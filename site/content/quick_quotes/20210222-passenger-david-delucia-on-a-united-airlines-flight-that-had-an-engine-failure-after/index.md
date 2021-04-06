@@ -24,8 +24,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "The plane started shaking violently, and we lost altitude and we started
-    going down."
+    The plane started shaking violently, and we lost altitude and we started
+    going down.
 
 ---
 The plane’s manufacturer Boeing *also* recommended the grounding of its 777 aircrafts.

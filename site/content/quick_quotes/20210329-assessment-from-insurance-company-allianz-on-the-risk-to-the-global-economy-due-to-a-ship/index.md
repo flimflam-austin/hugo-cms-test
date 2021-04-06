@@ -23,8 +23,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "We calculate that each day of immobilization could cost global trade $6
-    billion to $10 billion."
+    We calculate that each day of immobilization could cost global trade $6
+    billion to $10 billion.
 
 ---
 About 10% of [global trade passes through this canal.](http://13%25%20of%20world%20trade%2C%20estimates%20german%20insurer%20allianz./)

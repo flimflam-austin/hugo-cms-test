@@ -23,7 +23,7 @@ featured_image:
     4d17c3e973cf77f3423d3c2f1a855951336dc12c-768x514.jpg
 is_breaking: false
 featured_quote:
-  quote: “These books portray people in ways that are hurtful and wrong.”
+  quote: These books portray people in ways that are hurtful and wrong.
 
 ---
 **Why The Controversy:** Here’s how the AP describes it: _“As adored as Dr. Seuss is by millions around the world for the positive values in many of his works, including environmentalism and tolerance, there has been increasing criticism in recent years over the way Blacks, Asians and others are drawn in some of his most beloved children’s books, as well as in his earlier advertising and propaganda illustrations.”_

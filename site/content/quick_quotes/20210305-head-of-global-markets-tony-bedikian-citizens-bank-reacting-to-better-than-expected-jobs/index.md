@@ -21,9 +21,9 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “While the labor market still has a lot of ground to make up, we are in a
+    While the labor market still has a lot of ground to make up, we are in a
     different place than we were a year ago and the economy seems poised for a
-    strong rebound.”
+    strong rebound.
 
 ---
 379,000 jobs added to the U.S. economy in February.

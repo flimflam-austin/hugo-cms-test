@@ -24,8 +24,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “We were woefully unprepared for this kind of cold ... This is a matter of
-    life and death.”
+    We were woefully unprepared for this kind of cold ... This is a matter of
+    life and death.
 
 ---
 Texas *mostly* has its own electric grid – [in part to remain independent, self-reliant and free of federal regulation.](https://www.texastribune.org/2011/02/08/texplainer-why-does-texas-have-its-own-power-grid/)

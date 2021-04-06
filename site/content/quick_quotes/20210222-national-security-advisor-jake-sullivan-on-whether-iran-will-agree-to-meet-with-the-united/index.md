@@ -23,7 +23,7 @@ featured_image:
     cfe3d306d426ecb70beed36f3bb1f3814e2a2ad4-600x400.jpg
 is_breaking: false
 featured_quote:
-  quote: '"...the ball is in their court.”'
+  quote: ...the ball is in their court.
 
 ---
 Jake Sullivan, advisor to Pres. Biden, said the U.S. had [“begun to communicate”](https://thehill.com/homenews/sunday-talk-shows/539799-national-security-adviser-us-has-begun-communicating-with-iran) with Iran over 5 American hostages held by the regime.

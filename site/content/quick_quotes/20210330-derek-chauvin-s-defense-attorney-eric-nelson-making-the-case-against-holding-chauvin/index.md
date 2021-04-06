@@ -22,7 +22,7 @@ featured_image:
     d70532773e82749fa2519171ee4da61ff171c9fc-600x400.jpg
 is_breaking: false
 featured_quote:
-  quote: '"The evidence is far greater than 9 minutes and 29 seconds."'
+  quote: The evidence is far greater than 9 minutes and 29 seconds.
 
 ---
 During opening arguments, Chauvin’s defense attorney argued George Floyd’s death was not a homicide and he did not die at the hands of Chauvin.

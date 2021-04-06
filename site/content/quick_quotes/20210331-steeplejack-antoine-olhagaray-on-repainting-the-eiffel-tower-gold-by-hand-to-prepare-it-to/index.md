@@ -22,7 +22,7 @@ featured_image:
     b820679a4515a3ccf0badfb63bf8ae07a3888c40-2560x1707.jpg
 is_breaking: false
 featured_quote:
-  quote: '"Most of the time we move around like at a treetop adventure course."'
+  quote: Most of the time we move around like at a treetop adventure course.
 
 ---
 The entire project is expected to take three years (began in 2019) and cost an estimated $60 million.

@@ -22,8 +22,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    “We believe these new recommendations are an important first step in our
-    efforts to resume everyday activities in our communities."
+    We believe these new recommendations are an important first step in our
+    efforts to resume everyday activities in our communities.
 
 ---
 To date, 9.5% of America’s population (approx. 31.4M people) are fully vaccinated, according to the [CDC](https://covid.cdc.gov/covid-data-tracker/#vaccinations).

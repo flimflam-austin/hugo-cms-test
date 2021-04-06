@@ -19,7 +19,7 @@ featured_image:
     de031305633dff480ec5d0cdf3e010ef77ee70c9-600x400.jpg
 is_breaking: false
 featured_quote:
-  quote: '"CDC is not mandating that schools reopen."'
+  quote: CDC is not mandating that schools reopen.
 
 ---
 In new specific guidelines, the CDC made the case for schools reopening during the pandemic.

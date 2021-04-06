@@ -22,8 +22,8 @@ featured_image:
 is_breaking: false
 featured_quote:
   quote: >-
-    "I will sign SB6 because of overwhelming legislative support and my sincere
-    and long-held pro-life convictions."
+    I will sign SB6 because of overwhelming legislative support and my sincere
+    and long-held pro-life convictions.
 
 ---
 As [explained](https://portal.arkansas.gov/agency/governors-office/news/governor-hutchinson-issues-statement-on-signing-of-sb/) by the Republican governor, the ban prohibits abortions in all circumstances “_except to save the life of the mother in a medical emergen_cy” and does not include any exceptions for rape or incest.
