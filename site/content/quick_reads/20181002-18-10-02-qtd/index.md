@@ -39,4 +39,4 @@ cards:
     _key: card-10-f9438502-fb37-4317-8c9b-ff7b8f1d8c1d
 
 ---
-* **I Survived The Las Vegas Shooting. One Year Later, Here’s What I’ve Learned.:** [https://www.refinery29.com/en-us/2018/10/212628/las-vegas-concert-shooting-survivor-essay-gun-violence](https://www.refinery29.com/en-us/2018/10/212628/las-vegas-concert-shooting-survivor-essay-gun-violence)
+* **I Survived The Las Vegas Shooting. One Year Later, Here’s What I’ve Learned.:** [https://www.refinery29.com/en-us/2018/10/212628/las-vegas-concert-shooting-survivor-essay-gun-violence](https://www.refinery29.com/en-us/2018/10/212628/las-vegas-concert-shooting-survivor-essay-gun-violence)un-violence)
