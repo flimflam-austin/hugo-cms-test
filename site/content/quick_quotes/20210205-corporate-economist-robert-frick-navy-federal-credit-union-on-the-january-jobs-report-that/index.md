@@ -6,13 +6,13 @@ title: >-
 slug: >-
   20210205-corporate-economist-robert-frick-navy-federal-credit-union-on-the-january-jobs-report-that
 _id: 8fe7864a-6b3a-4814-a536-33422001007a
-_rev: TDo1Nq1xkiZakmRW4mgsnn
+_rev: TDo1Nq1xkiZakmRW59ykpv
 type: quick_quotes
 draft: false
 aliases:
   - article/jan-jobs-report/
 _createdAt: '2021-04-01T11:45:30Z'
-_updatedAt: '2021-04-01T11:45:30Z'
+_updatedAt: '2021-04-06T22:25:13Z'
 date: '2021-02-05T23:50:00.000Z'
 lastmod: '2021-02-05T23:50:00.000Z'
 weight: 50

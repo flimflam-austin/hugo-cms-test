@@ -113,8 +113,6 @@ $card-border-style: $card-border-width solid $card-border-color;
 		perspective: 3000px;
 		transform-style: preserve-3d;
 
-		//transform: rotate(-50deg);
-		//transform: rotateX(0deg);
 		opacity: 1;
 		backface-visibility: hidden;
 
@@ -131,7 +129,6 @@ $card-border-style: $card-border-width solid $card-border-color;
 
 			transform-origin: top left;
 			transform: rotateX(0deg);
-			//transform: rotate(50deg);
 		}
 	}
 
@@ -576,6 +573,7 @@ $card-flip-duration: 0.75s;
 	a,
 	p,
 	ul,
+	ol,
 	li,
 	blockquote {
 		padding: 0;
@@ -584,6 +582,7 @@ $card-flip-duration: 0.75s;
 		text-align: center;
 		text-transform: none;
 		width: 100%;
+		font-size: 16px;
 		@include gamma-regular;
 	}
 	& p {
@@ -631,11 +630,10 @@ $card-flip-duration: 0.75s;
 	}
 
 	& h6 {
-		//font-size: $card-base * 0.75;
-		font-size: 0.75em;
-		@include gamma-bold;
-		//margin-bottom: 0.625 * $card-base;
+		font-size: 16px;
+		@include gamma-regular;
 		margin-bottom: 0.625em;
+		text-align: left;
 	}
 
 	& a {
@@ -645,15 +643,11 @@ $card-flip-duration: 0.75s;
 	}
 
 	li {
-		/* padding: $card-base * 0.1;
-		font-size: $card-base * 1; */
 		padding: 0.1em;
 		font-size: 1em;
 	}
 
 	& blockquote {
-		/* margin-bottom: $card-base;
-		font-size: $card-base * 1.125; */
 		margin-bottom: 1em;
 		font-size: 1.125em;
 		@include beta-regular;
@@ -674,8 +668,7 @@ $card-flip-duration: 0.75s;
 	}
 
 	& ul,
-	ol {
-		//padding-left: $card-base;
+	& ol {
 		padding-left: 1em;
 	}
 

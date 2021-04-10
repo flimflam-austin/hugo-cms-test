@@ -1,44 +1,56 @@
-const yaml = require("js-yaml");
+const yaml = require('js-yaml');
+const inspect = require('./inspect')
 
-const convertToYaml = (json) => yaml.dump(yaml.load(JSON.stringify(json)));
+const convertToYaml = json => yaml.dump(yaml.load(JSON.stringify(json)));
 
-const buildMd = (jsonFrontmatter) =>
-  "---\n" +
-  convertToYaml(jsonFrontmatter.frontmatter) +
-  "\n---\n" +
-  (jsonFrontmatter.body || " ");
+const buildMd = jsonFrontmatter => {
+    try {
+        const convertedFrontmatter = `---\n${convertToYaml(jsonFrontmatter.frontmatter)}\n---\n${jsonFrontmatter.body || ' '}`;
 
-const convertJsonToMd = (jsonData) => {
-  const jsonToWrite = Object.freeze({
-    ...jsonData,
-    path: `${__dirname}`,
-    fileName: "index.md",
-  });
+        return convertedFrontmatter
+    } catch (err) {
+        inspect.errorRed(Error(`Error in buildMd in filebuilder.js: ${err}`))
+        return null
+    }
 
-  const builtMd = buildMd(jsonToWrite);
+}
 
-  //console.log(`id '${jsonData.frontmatter._id}' translated into Markdown =)`);
+const convertJsonToMd = jsonData => {
+    const jsonToWrite = Object.freeze({
+        ...jsonData,
+        path: `${__dirname}`,
+        fileName: 'index.md'
+    });
 
-  const returnData = Object.freeze({
-    markdown: builtMd,
-    type: jsonData.frontmatter.type,
-    slug: jsonData.frontmatter.slug,
-  });
+    const builtMd = buildMd(jsonToWrite);
 
-  return returnData;
+
+    try {
+
+        const returnData = Object.freeze({
+            markdown: builtMd,
+            type: jsonData.frontmatter.type,
+            slug: jsonData.frontmatter.slug
+        });
+
+        return returnData;
+    } catch (err) {
+        inspect.errorRed(`Error in convertJsonToMd in filebuilder.js reading '${JSON.stringify(jsonToWrite.slug)}': ${err}`)
+        return null
+    }
 };
 
-const filterMissingFalseyData = (data) => {
-  if (!data) {
-    console.error(
-      'Removing entry from write pipeling at "convertFilesToMd" because json data was falsy.'
-    );
-    return false;
-  }
-  return true;
+const filterMissingFalseyData = data => {
+    if (!data) {
+        console.error(
+            'Removing entry from write pipeling at "convertFilesToMd" because json data was falsy.'
+        );
+        return false;
+    }
+    return true;
 };
 
-const convertFilesToMd = (objectArray) =>
-  objectArray.filter(filterMissingFalseyData).map(convertJsonToMd);
+const convertFilesToMd = objectArray =>
+    objectArray.filter(filterMissingFalseyData).map(convertJsonToMd);
 
 module.exports = convertFilesToMd;

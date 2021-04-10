@@ -6,6 +6,8 @@ enableGitInfo = false
 enableRobotsTXT = true
 languageCode = "en-US"
 
+[markup.goldmark.renderer]
+unsafe = true
 
 [outputs]
 home = ["html", "RSS", "REDIRECTS", "JSON"]
