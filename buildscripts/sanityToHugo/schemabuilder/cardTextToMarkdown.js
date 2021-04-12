@@ -1,26 +1,7 @@
-const ff = require('./ffhelpers');
-const inspect = require('./inspect')
-
-// const client = require('./clientMaker');
+const ff = require('./../ffhelpers');
+const inspect = require('./../inspect')
 
 const toMarkdown = require('@sanity/block-content-to-markdown');
-
-
-/* const BlockRenderer = props => {
-    const { style } = props.node || 'normal'
-
-    console.log('~~~~~~~~~~~~~~~~~~~', style)
-
-    if (style === 'alignleft') {
-        console.log('!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
-        return
-    }
-
-    // Fall back to default handling
-    return toMarkdown.defaultSerializers.types.block(props)
-}
- */
-
 
 const cardTextToMarkdown = portableText => {
     if (!portableText) {
@@ -37,8 +18,6 @@ const cardTextToMarkdown = portableText => {
 
         return ' '
     }
-
-
 };
 
 module.exports = cardTextToMarkdown;

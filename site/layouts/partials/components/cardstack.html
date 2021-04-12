@@ -7,8 +7,8 @@
         {{ $imageScratch := newScratch}}
         {{ $imageScratch.Set "image" " " }}
         {{ if ne $cardImage nil }}
-            {{ $resized := ($cardImage.Fill "600x600 jpg").RelPermalink }}
-            {{ $imageScratch.Set "image" $resized }}
+        {{ $resized := ($cardImage.Fill "600x600 jpg").RelPermalink }}
+        {{ $imageScratch.Set "image" $resized }}
         {{ end }}
 
 
@@ -18,65 +18,66 @@
         {{ $cardquantity := len $cards }}
 
         {{ range $index, $card := $cards }}
-            {{ $isFirstCard := eq $index 0 }}
-            {{ $isLastCard := eq (add $index 1) $cardquantity }}
+        {{ $isFirstCard := eq $index 0 }}
 
-            <div class="stackcard">
-                <div class="stackcard__frame stackcard__frame--upper">
-                    <div class="stackcard__body">
-                        {{/*{{ if and ($isFirstCard) (ne $cardImage nil) }}*/}}
-                        {{ if and ($isFirstCard) (ne $cardImage nil) }}
-                            <img class="stackcard__bgimage" src="{{ $imageScratch.Get "image" }}" alt="{{- .Params.featured_image.alt -}}" />
-                        {{end}}
-                        <div class="stackcard__borderwrapper">
-                            <div class="stackcard__borderelements">
-                                <span class="stackcard__borderpiece"></span>
-                                <h3 class="stackcard__category">{{ $cardSeries }}</h3>
-                                <span class="stackcard__borderpiece"></span>
-                            </div>
-    
-                            <div class="stackcard__content">
-                                {{ if $isLastCard }}
-                                    <div class="stackcard__checkmark"></div>
-                                {{ end }}
-                                <div class="stackcard__text">{{- $card.body | markdownify -}}</div>
-                                <p class="stackcard__citation">{{- $card.citation -}}</p>
-                            </div>
+        <div class="stackcard">
+            <div class="stackcard__frame stackcard__frame--upper">
+                <div class="stackcard__body">
+                    {{/*{{ if and ($isFirstCard) (ne $cardImage nil) }}*/}}
+                    {{ if and ($isFirstCard) (ne $cardImage nil) }}
+                    <img class="stackcard__bgimage" src="{{ $imageScratch.Get " image" }}"
+                        alt="{{- .Params.featured_image.alt -}}" />
+                    {{end}}
+                    <div class="stackcard__borderwrapper">
+                        <div class="stackcard__borderelements">
+                            <span class="stackcard__borderpiece"></span>
+                            <h3 class="stackcard__category">{{ $cardSeries }}</h3>
+                            <span class="stackcard__borderpiece"></span>
                         </div>
-                    </div>
-                </div>
-    
-                <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
-                    <div class="stackcard__body stackcard__body--lower">
-                        {{ if and ($isFirstCard) (ne $cardImage nil) }}
-                            <img class="stackcard__bgimage" src="{{ $imageScratch.Get "image" }}" alt="{{- .Params.featured_image.alt -}}" />
-                        {{end}}
-                        <div class="stackcard__borderwrapper">
-                            <div class="stackcard__borderelements stackcard__borderelements--lower">
-                                <span class="stackcard__borderpiece"></span>
-                                <div class="stackcard__logo"></div>
-                                <span class="stackcard__borderpiece"></span>
-                            </div>
-    
-                            <div class="stackcard__content">
-                                {{ if $isLastCard }}
-                                    <div class="stackcard__checkmark"></div>
-                                {{ end }}
-                                <div class="stackcard__text">{{- $card.body | markdownify -}}</div>
-                                <p class="stackcard__citation">{{- $card.citation -}}</p>
-                            </div>
+
+                        <div class="stackcard__content">
+                            {{ if eq .Params.useCheckmark true }}
+                            <div class="stackcard__checkmark"></div>
+                            {{ end }}
+                            <div class="stackcard__text">{{- $card.body | markdownify -}}</div>
+                            <p class="stackcard__citation">{{- $card.citation -}}</p>
                         </div>
-    
                     </div>
                 </div>
             </div>
+
+            <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
+                <div class="stackcard__body stackcard__body--lower">
+                    {{ if and ($isFirstCard) (ne $cardImage nil) }}
+                    <img class="stackcard__bgimage" src="{{ $imageScratch.Get " image" }}"
+                        alt="{{- .Params.featured_image.alt -}}" />
+                    {{end}}
+                    <div class="stackcard__borderwrapper">
+                        <div class="stackcard__borderelements stackcard__borderelements--lower">
+                            <span class="stackcard__borderpiece"></span>
+                            <div class="stackcard__logo"></div>
+                            <span class="stackcard__borderpiece"></span>
+                        </div>
+
+                        <div class="stackcard__content">
+                            {{ if eq .Params.useCheckmark true }}
+                            <div class="stackcard__checkmark"></div>
+                            {{ end }}
+                            <div class="stackcard__text">{{- $card.body | markdownify -}}</div>
+                            <p class="stackcard__citation">{{- $card.citation -}}</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
         {{ end }}
 
     </section>
     <section class="cardstack__details">
         <p class="cardstack__date">{{ .Date.Format "Jan 2, 2006" }}</p>
         {{ if eq (.Scratch.Get "showlink") true }}
-            <a class="cardstack__link" href="{{- .Permalink -}}">sources</a>
+        <a class="cardstack__link" href="{{- .Permalink -}}">sources</a>
         {{ end }}
     </section>
 </article>

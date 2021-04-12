@@ -2,11 +2,11 @@
 title: 'Georgia Election Law '
 slug: 20210405-georgia-election-law
 _id: 71a7777a-09be-408c-83b8-7eb3b240be05
-_rev: Jq8Xn76XXcuwmF7UDGC7kE
+_rev: p5oiLzuoOfR9bp21rDkRRF
 type: quick_reads
 draft: false
 _createdAt: '2021-04-06T01:27:18Z'
-_updatedAt: '2021-04-06T19:32:59Z'
+_updatedAt: '2021-04-10T16:38:58Z'
 date: '2021-04-06T01:27:18Z'
 weight: 50
 featured_image:
@@ -127,6 +127,7 @@ cards:
       Inspired voters vote; uninspired voters do not.
     _key: 458d1638032b
   - order: 8
+    useCheckmark: false
     body: "Remember - States remain in charge of state/federal elections but Georgia's law already faces a number of legal challenges by critics. Separately, the\_federal gov't is also weighing establishing federal election standards. The \"For the People Act\" passed the Democrat-controlled House in March."
     _key: 6c174e13c070
 

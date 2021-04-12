@@ -1,11 +1,11 @@
 const toMarkdown = require('@sanity/block-content-to-markdown');
 
 // const getYouTubeId = require('get-youtube-id');
-const ff = require('./ffhelpers');
+const ff = require('./../ffhelpers');
 const getVideoId = require('get-video-id');
 const imageUrlBuilder = require('@sanity/image-url');
-const client = require('./clientMaker');
-const inspect = require('./inspect')
+const client = require('./../clientMaker');
+const inspect = require('./../inspect')
 
 const builder = imageUrlBuilder(client);
 

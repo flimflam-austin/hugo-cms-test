@@ -119,6 +119,8 @@ const writeFile = dataObj => {
                     });
                 });
             }
+
+            return null;
         });
     })
 };
