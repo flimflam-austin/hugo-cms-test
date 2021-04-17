@@ -117,7 +117,7 @@ cards:
     _key: 182d42574173
 
 ---
-[READ](MemoFromPresidentsPhysician.png) the first letter from President Trump’s physician
+[READ](memofrompresidentsphysician.png) the first letter from President Trump’s physician
 
 [READ](https://twitter.com/PressSec/status/1312122950133272576/photo/1) the second update from President Trump’s physician
 

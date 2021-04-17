@@ -15,7 +15,7 @@ weight: 50
 featured_image:
   alt: Featured Article Image
   url: >-
-    https://cdn.sanity.io/images/zhir6k5d/public/ddc43ded1adabdd33499ad82cb606899df21f169-367x367.webp
+    ddc43ded1adabdd33499ad82cb606899df21f169-367x367.webp
 card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:

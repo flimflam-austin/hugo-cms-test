@@ -17,8 +17,6 @@ _updatedAt: '2021-04-01T09:32:48Z'
 date: '2021-02-26T06:26:00.000Z'
 lastmod: '2021-02-26T06:26:00.000Z'
 weight: 50
-featured_image:
-  alt: Featured article image
 is_breaking: false
 featured_quote:
   quote: ...we saw something here that, you know, outstrips any extreme scenario.

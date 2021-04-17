@@ -1,0 +1,33 @@
+
+
+thenify(Queries)
+.then(processQueries)
+.catch
+.finally
+
+
+class Logger {
+    constructor {
+        this.lastLog = await this.loadLastLog()
+    }
+
+    
+}
+
+
+interface Config = {
+    lastLogPath
+    typesList
+}
+
+const run = async (config) => {
+    const lastLog = await loadLastLog(config.lastLogPath)
+
+    const queries = buildQueries(config.typesList)
+
+    const newLog = logStart()
+
+    const {status, report} = await thenify(queries).then()
+
+
+}

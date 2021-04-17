@@ -13,7 +13,7 @@ weight: 50
 featured_image:
   alt: Iran, U.S. and others hold meeting on nuclear deal
   url: >-
-    fac2697942b2c2cee99eb8c1adaf97f1aff5c97d-3024x4032.jpg
+    rect39029752268fac2697942b2c2cee99eb8c1adaf97f1aff5c97d-3024x4032.jpg
 authorReference: 5011411a-3ce0-4c80-975a-7b1a35572700
 is_breaking: true
 featured_quote:

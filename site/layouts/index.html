@@ -9,19 +9,28 @@
             </div>
         </section>
         <section class="feed-section feed-section--mobileonly">
-            {{ partial "components/ruledtitle" (dict "_sectionTitle" "read: quick quotes" "_viewAllLink" "/quick_quotes/")}}
+            {{ partial "components/ruledtitle" (dict "_sectionTitle" "read: quick quotes" "_viewAllLink"
+            "/quick_quotes/")}}
             <div class="l-sidescroll feed-section__content">
                 {{ partial "pages/home/quickquotesmain" . }}
             </div>
         </section>
         <section class="feed-section">
-            {{ partial "components/ruledtitle" (dict "_sectionTitle" "flip: quick reads" "_viewAllLink" "/quick_reads/")}}
+            {{ partial "components/ruledtitle" (dict "_sectionTitle" "flip: quick reads" "_viewAllLink"
+            "/quick_reads/")}}
             <div class="l-page__content l-page__content--grid feed-section__content">
                 {{ partial "pages/home/quickreads" . }}
             </div>
         </section>
         <section class="feed-section">
-            {{ partial "components/ruledtitle" (dict "_sectionTitle" "shop" "_viewAllLink" "https://smarthernews.com/shop/")}}
+            {{ partial "components/ruledtitle" (dict "_sectionTitle" "newsletter" "_viewAllLink" "")}}
+            <div class="l-page__content l-page__content--grid feed-section__content">
+                {{ partial "pages/home/newsletter" . }}
+            </div>
+        </section>
+        <section class="feed-section">
+            {{ partial "components/ruledtitle" (dict "_sectionTitle" "shop" "_viewAllLink"
+            "https://smarthernews.com/shop/")}}
             <div class="l-page__content l-page__content--grid feed-section__content">
                 {{ partial "pages/home/shopspread" . }}
             </div>
@@ -35,7 +44,8 @@
     </div>
     <div class="home__feed home__feed--side">
         <section class="feed-section">
-            {{ partial "components/ruledtitle" (dict "_sectionTitle" "read: quick quotes" "_viewAllLink" "/quick_quotes/")}}
+            {{ partial "components/ruledtitle" (dict "_sectionTitle" "read: quick quotes" "_viewAllLink"
+            "/quick_quotes/")}}
             <div class="feed-section__content feed-section__content--side">
                 {{ partial "pages/home/quickquotesside" . }}
                 <a class="btn feed-section__side-view-more" href="/quick_quotes/">View More</a>

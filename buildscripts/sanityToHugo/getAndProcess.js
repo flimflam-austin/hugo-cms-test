@@ -9,7 +9,10 @@ const inspect = require('./inspect')
 /* const buildQuery = sinceDate =>
     `*[_type in ["quickquotes", "videoposts", "cardstack", "products", "author"] && _updatedAt > "${sinceDate}" ]  | order(_updatedAt desc) {..., mainimage{asset->{url}, caption, alt}, series->{title}}`
  */
-const buildQuery = sinceDate => '*[_type in ["quickquotes", "videoposts", "cardstack", "products", "author"]]  | order(_updatedAt desc) {..., mainimage{asset->{url}, caption, alt}, series->{title}}'
+// const buildQuery = sinceDate => '*[_type in ["quickquotes", "videoposts", "cardstack", "products", "author"]]  | order(_updatedAt desc) {..., mainimage{asset->{url}, caption, alt, crop, hotspot}, series->{title}}'
+
+const buildQuery = sinceDate => '*[_type in ["quickquotes", "videoposts", "cardstack", "products", "author"]] | order(_updatedAt desc) {..., series->{title}}'
+
 
 const buildQueryParams = (params = {}) => params
 
@@ -55,11 +58,6 @@ const asyncGetRequest = async () => {
         .fetch(query, params)
         .then(handleResponse)
         .then(buildSchemaFromResponse)
-
-        /* .then(input => {
-            inspect.bland(JSON.stringify(input, null, 2))
-            return input
-        }) */
         .then(convertFilesToMd)
         .then(writeFiles)
         .then(buildlog.logBuild)

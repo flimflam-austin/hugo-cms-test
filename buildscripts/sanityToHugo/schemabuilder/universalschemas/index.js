@@ -1,5 +1,6 @@
 const sh = require('./../schemahelpers')
 const ff = require('./../../ffhelpers')
+const getImageUrl = require('./../handleimage')
 
 const translateTypeName = type => {
     if (!type) {
@@ -48,18 +49,26 @@ const getTags = tags => {
 }
 
 const getFeaturedImage = imageFigure => {
-    const fields = [
-        sh.getFlatPair('alt', imageFigure.alt),
-        sh.getFlatPair('caption', imageFigure.caption),
-        sh.getFlatPair('url', imageFigure.asset ? imageFigure.asset.url : null)
-    ]
+    const imageSource = getImageUrl(imageFigure)
 
-    return ff.compileValidArrayValues(fields)
+    if (imageSource) {
+        const fields = [
+            sh.getFlatPair('alt', imageFigure.alt),
+            sh.getFlatPair('caption', imageFigure.caption),
+            sh.getFlatPair('url', imageSource)
+        ]
+
+        return ff.compileValidArrayValues(fields)
+    }
+
+
+    return null
 }
 
 const getSlug = slug => slug.replace('article', '')
 
 const getUniversalFields = data => {
+
     const universalFields = [
         sh.getFlatPair('title', data.title),
         sh.getFlatPair(

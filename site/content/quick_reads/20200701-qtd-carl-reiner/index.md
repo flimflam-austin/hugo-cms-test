@@ -15,7 +15,7 @@ weight: 50
 featured_image:
   alt: Featured Article Image
   url: >-
-    https://cdn.sanity.io/images/zhir6k5d/public/58861ad282c73eb5efd9db22bc25f8506d5d28af-360x360.webp
+    58861ad282c73eb5efd9db22bc25f8506d5d28af-360x360.webp
 card_series: Quote of the Day
 colorpaletteclassname: '--medium-gray'
 cards:

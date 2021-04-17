@@ -21,6 +21,9 @@ const identity = x => x;
 const filterUniqueValues = (value, index, self) =>
     self.indexOf(value) === index;
 
+const pipe = (...fns) => value => fns.reduce((acc, func) => func(acc), value)
+
+
 exports.isValue = isValue;
 
 exports.isMissingValue = isMissingValue;
@@ -40,3 +43,5 @@ exports.compileValidArrayValues = compileValidArrayValues;
 exports.identity = identity;
 
 exports.filterUniqueValues = filterUniqueValues;
+
+exports.pipe = pipe;

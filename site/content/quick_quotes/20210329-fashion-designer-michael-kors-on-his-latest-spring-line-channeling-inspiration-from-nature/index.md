@@ -17,8 +17,6 @@ _updatedAt: '2021-04-01T05:42:23Z'
 date: '2021-03-29T19:55:00.000Z'
 lastmod: '2021-03-29T19:55:00.000Z'
 weight: 50
-featured_image:
-  alt: Featured article image
 is_breaking: false
 featured_quote:
   quote: >-

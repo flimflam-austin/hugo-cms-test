@@ -15,7 +15,7 @@ weight: 50
 featured_image:
   alt: Featured Article Image
   url: >-
-    https://cdn.sanity.io/images/zhir6k5d/public/6e2736be4252168f61802302f57538e7c1b709c6-367x367.webp
+    6e2736be4252168f61802302f57538e7c1b709c6-367x367.webp
 card_series: On This Day
 colorpaletteclassname: '--light-green'
 cards:

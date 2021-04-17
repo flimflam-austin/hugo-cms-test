@@ -12,8 +12,6 @@ _updatedAt: '2021-03-26T00:34:17Z'
 date: '2018-05-21T10:33:23+00:00'
 lastmod: '2018-05-21T10:33:23+00:00'
 weight: 50
-featured_image:
-  alt: Quick Reads background image
 card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:

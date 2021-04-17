@@ -7,7 +7,7 @@
         {{ $imageScratch := newScratch}}
         {{ $imageScratch.Set "image" " " }}
         {{ if ne $cardImage nil }}
-        {{ $resized := ($cardImage.Fill "600x600 jpg").RelPermalink }}
+        {{ $resized := ($cardImage.Fill "600x600 jpg q90").RelPermalink }}
         {{ $imageScratch.Set "image" $resized }}
         {{ end }}
 
@@ -25,7 +25,7 @@
                 <div class="stackcard__body">
                     {{/*{{ if and ($isFirstCard) (ne $cardImage nil) }}*/}}
                     {{ if and ($isFirstCard) (ne $cardImage nil) }}
-                    <img class="stackcard__bgimage" src="{{ $imageScratch.Get " image" }}"
+                    <img class="stackcard__bgimage" src="{{ $imageScratch.Get "image" }}"
                         alt="{{- .Params.featured_image.alt -}}" />
                     {{end}}
                     <div class="stackcard__borderwrapper">
@@ -49,7 +49,7 @@
             <div class="stackcard__frame stackcard__frame--lower" aria-hidden="true">
                 <div class="stackcard__body stackcard__body--lower">
                     {{ if and ($isFirstCard) (ne $cardImage nil) }}
-                    <img class="stackcard__bgimage" src="{{ $imageScratch.Get " image" }}"
+                    <img class="stackcard__bgimage" src="{{ $imageScratch.Get "image" }}"
                         alt="{{- .Params.featured_image.alt -}}" />
                     {{end}}
                     <div class="stackcard__borderwrapper">
