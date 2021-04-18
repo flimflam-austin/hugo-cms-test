@@ -1,0 +1,9 @@
+.feednewsletter {
+    grid-column: 1/-1;
+    width: 100%;
+    border-top: 0;
+
+    & #footer-sign-up {
+        border: none;
+    }
+}

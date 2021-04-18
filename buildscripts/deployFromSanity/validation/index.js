@@ -39,7 +39,7 @@ const validateSchema = entry => {
     const schemaType = entry._type
     const schema = findSchema(schemaType)
 
-    const comparisonResult = compareEntryToSchema(entry, schema)
+    const result = compareEntryToSchema(entry, schema)
 
     return entry
 }
