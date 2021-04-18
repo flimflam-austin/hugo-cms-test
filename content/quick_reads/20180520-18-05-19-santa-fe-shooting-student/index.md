@@ -16,6 +16,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--black'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > **“It’s been happening everywhere. I’ve always kind of felt like
       eventually it was going to happen here too…. I wasn’t surprised, I was
@@ -30,6 +31,7 @@ cards:
       [Watch Interview Here:](http://abc13.com/video/embed/?pid=3491939)
     _key: card-1-42a91fae-6d54-4c21-abe1-37ad247c42e4
   - order: 1
+    useCheckmark: true
     body: >-
       [view
       sources](https://smarthernews.com/18-05-19-santa-fe-shooting-student/)

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # QUICK QUOTES
 
@@ -33,6 +34,7 @@ cards:
       team.
     _key: card-1-60e407c9-7e5e-4029-bd9e-970598bff002
   - order: 1
+    useCheckmark: false
     body: >-
       > “I have the date. I have the location. It’s all agreed to.  
         
@@ -42,6 +44,7 @@ cards:
       meeting ever between a sitting President and a North Korean leader.
     _key: card-2-4ae0c6d0-2b3a-4c8c-8efd-f2b39a749939
   - order: 2
+    useCheckmark: false
     body: >-
       > “I think for the Vatican to accept and be part of this is a really big
       deal and a great thing.”  
@@ -53,15 +56,17 @@ cards:
       garments, some lent by the Vatican.
     _key: card-3-af6697b9-e476-40cb-831f-bc87785d320a
   - order: 3
+    useCheckmark: false
     body: >-
-      > “The economy has added jobs every month since Oct 2010, a **91-month
-      stretch** that ranks at the **longest period of job growth in record**.”  
+      > “The economy has added jobs every month since Oct 2010, a**91-month
+      stretch** that ranks at the**longest period of job growth in record**.”  
         
         
       Wall Street Journal article announcing new jobless rate at 3.9% - the
       lowest level since December 2000.
     _key: card-4-116cfe34-c860-47b1-aad2-3646cca02316
   - order: 4
+    useCheckmark: true
     body: |-
       Have a great day!
 

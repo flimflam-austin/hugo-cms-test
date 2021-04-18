@@ -20,6 +20,7 @@ card_series: SmartHER News
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       Two hair stylists develop symptoms for COVID-19.
 
@@ -28,6 +29,7 @@ cards:
       The CDC says what happened next illustrates the power of wearing masks.
     _key: c4a504612a77
   - order: 1
+    useCheckmark: false
     body: >-
       ## Backstory
 
@@ -43,6 +45,7 @@ cards:
       self-isolating and testing positive 2 days later.
     _key: '852093502944'
   - order: 2
+    useCheckmark: false
     body: >-
       ## What Happened
 
@@ -58,6 +61,7 @@ cards:
       (the virus that causes COVID-19).
     _key: 140a9e7a182f
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
@@ -72,12 +76,13 @@ cards:
       * Stylist B’s contacts did not develop symptoms.
     _key: bd57b49dfcfc
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why This Matters?
 
 
       * As states start to “shut down” their economies during an increase in
-      infections, this new report suggests masks may help _“to reduce the impact
+      infections, this new report suggests masks may help_“to reduce the impact
       and magnitude of additional waves of COVID-19”_ according to the CDC.
 
       * **However**, the CDC notes scientists don’t fully understand how
@@ -85,6 +90,7 @@ cards:
       interacted with stylists BEFORE symptoms.
     _key: e916eff05080
   - order: 5
+    useCheckmark: true
     body: >-
       Important: Not all clients had on the same masks - some had cloth, other
       had medical masks. The stylists all wore cloth masks.

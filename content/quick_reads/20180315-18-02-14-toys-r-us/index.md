@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       The End of An Era
 
@@ -34,18 +35,19 @@ cards:
       David Brandon, CEO, quoted by Wall Street Journal, Mar 14, 2018
     _key: card-1-6d9f71d2-b5ee-4f66-b080-076f6469c0c2
   - order: 1
+    useCheckmark: false
     body: >-
       ## What It Means:
 
 
       * **33,000** U.S. workers to lose jobs.
 
-      * Potentially **700 stores closing** in America; including Babies ‘R’ Us.
+      * Potentially**700 stores closing** in America; including Babies ‘R’ Us.
 
-      * CNBC reports **200 U.S. stores may be spared** in a deal that would also
+      * CNBC reports**200 U.S. stores may be spared** in a deal that would also
       sell off its Canadian locations.
 
-      * During the holidays, Toys R Us employs over **100,000 workers**.
+      * During the holidays, Toys R Us employs over**100,000 workers**.
 
 
       [Read CNBC's
@@ -53,6 +55,7 @@ cards:
     citation: Read CNBC's report
     _key: card-2-5a1eee24-1fec-4f45-a5bb-7d4151b442a5
   - order: 2
+    useCheckmark: false
     body: >-
       ‘The last six months have been pure hell.”
 
@@ -65,6 +68,7 @@ cards:
       * Instead, THIS is how the CEO describes the company’s fight for survival.
     _key: card-3-a11f0b75-acd8-457a-9975-93e0fb5c4099
   - order: 3
+    useCheckmark: false
     body: >-
       # Why This Matters
 
@@ -72,10 +76,10 @@ cards:
       ## U.S. Toy Industry = $27B
 
 
-      * Toys ‘R’ Us = **2nd largest** U.S. toy retailer, represents **15% of
+      * Toys ‘R’ Us =**2nd largest** U.S. toy retailer, represents**15% of
       sales**.
 
-      * But, you guessed it, **Amazon is #1** as more shop online.
+      * But, you guessed it,**Amazon is #1** as more shop online.
 
       * Lesson in debt: Toys ‘R’ Us had billions in debt – couldn’t invest in
       changes to help it modernize.
@@ -83,6 +87,7 @@ cards:
       * Major fallout for Mattel, Hasbro & smaller toy makers.
     _key: card-4-406162db-1ed8-4047-a45a-4b3bc587badf
   - order: 4
+    useCheckmark: false
     body: >-
       ## The American Dream:
 
@@ -97,6 +102,7 @@ cards:
       “self-service” supermarkets.
     _key: card-5-b960739e-4026-4e9c-9254-9cd2b1b621e2
   - order: 5
+    useCheckmark: true
     body: |-
       Geoffrey The Giraffe first appeared in 1965 - See more history here:
 

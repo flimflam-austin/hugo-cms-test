@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       September 7, 1813  
       The Birth Of “Uncle Sam”
@@ -27,6 +28,7 @@ cards:
       How did America get its nickname?
     _key: card-1-585c6246-8847-4bc5-8160-b4521169d7a3
   - order: 1
+    useCheckmark: false
     body: >-
       ## Was Uncle Sam Real?
 
@@ -35,11 +37,12 @@ cards:
       World War I, Uncle Sam actually dates back to the War of 1812.
 
 
-      Hungry troops were fed meat from **Samuel Wilson.** His barrels of beef &
-      pork were stamped with a “U.S.” but **soldiers started calling it “Uncle
+      Hungry troops were fed meat from**Samuel Wilson.** His barrels of beef &
+      pork were stamped with a “U.S.” but**soldiers started calling it “Uncle
       Sam’s.”**
     _key: card-2-42269c9f-4d61-4ce8-a2c0-345d002ea384
   - order: 2
+    useCheckmark: false
     body: >-
       ## Did He Look Like That?
 
@@ -55,6 +58,7 @@ cards:
       and muscular.
     _key: card-3-f731a3da-623e-4f55-ad54-c94a6ea8e8d1
   - order: 3
+    useCheckmark: true
     body: >-
       205 years after Uncle Sam's creation his legacy lives on - but did you
       know our national symbol could've be "Miss Columbia"? Read on to learn

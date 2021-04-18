@@ -20,10 +20,11 @@ card_series: Current Events
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Kylie Jenner  
 
-      Announces Birth 
+      Announces Birth
 
 
       ## Flip For #SmartHER Take on This Headline
@@ -38,6 +39,7 @@ cards:
       [Click For Video](https://www.youtube.com/watch?v=BhIEIO0vaBE)
     _key: card-1-64c25d0b-459c-4c70-bdad-fcbf17d55154
   - order: 1
+    useCheckmark: false
     body: >-
       # Interesting Fact
 
@@ -53,6 +55,7 @@ cards:
       * Kylie is 20.5 yrs old.
     _key: card-2-42768e6c-2141-4af5-996d-9eaee5a15374
   - order: 2
+    useCheckmark: false
     body: >-
       # 4 out of 10 babies born in U.S. to unmarried women (CDC)
 
@@ -67,6 +70,7 @@ cards:
       Work](https://www.youtube.com/watch?v=_EyZUTDAH0U)
     _key: card-3-225b14f6-7531-4d36-a180-7b92100824d7
   - order: 3
+    useCheckmark: false
     body: >-
       # Kylie’s estimate net worth = $41 million
 
@@ -77,6 +81,7 @@ cards:
       $26,416.
     _key: card-4-8de32965-a85f-4c41-a1da-cd4a73403221
   - order: 4
+    useCheckmark: false
     body: >-
       > ‘I’m sorry for keeping you in the dark through all the assumptions. I
       understand you’re used to me bringing you along on all my journeys. my
@@ -87,6 +92,7 @@ cards:
       Post](https://www.instagram.com/p/BeycUmgFTWb/?hl=en&taken-by=kyliejenner)
     _key: card-5-b40ec707-1863-4969-b161-a1e4b318f306
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/kylie/)'
     _key: card-10-ab6dad8d-81bb-4639-8e7b-dd9d39829eec
 

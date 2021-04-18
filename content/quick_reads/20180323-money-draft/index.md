@@ -20,11 +20,12 @@ card_series: Money
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Your Money At Work?
 
 
-      Congress passed a **$1.3T spending bill** that keeps the government funded
+      Congress passed a**$1.3T spending bill** that keeps the government funded
       until October (approx. 6 months).
 
 
@@ -36,16 +37,18 @@ cards:
       Flip For How It’s Spent.
     _key: card-1-6468bbeb-1e4d-4610-ae94-d45646b64bfe
   - order: 1
+    useCheckmark: false
     body: "> “But I say to Congress: I will never sign another bill like this again.A I’m not going to do it again.A Nobody read it.A It’s only hours old.A Some people don’t even know what is in a\x14 $1.3 trillion a\x14 it’s the second largest ever.”  \n  \n  \n  \nPresident Trump, remarks after signing spending bill, White House, March 23, 2018"
     _key: card-2-1f605499-35d2-4444-bacd-c22b913e773c
   - order: 2
+    useCheckmark: false
     body: >-
       Highlights: Spending Bill  
 
       Where The $$ Goes
 
 
-      * $80B _increase_ in military spending.
+      * $80B_increase_ in military spending.
 
       * $1.6B for the border (the equivalent of 1-yr of work or 33 miles of
       fencing on Texas border; WH wanted $25B for wall)
@@ -55,6 +58,7 @@ cards:
       * $2B for school security (including mental health)
     _key: card-3-8c3f1ef7-f333-409e-85ad-3b99399b6bde
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why Some Don’t Like It:
 
@@ -67,6 +71,7 @@ cards:
       much spending and not enough public debate.
     _key: card-4-84241fb2-51f9-4d6b-9827-9fc7644f4645
   - order: 4
+    useCheckmark: false
     body: >-
       > “Victory for conservatives today is that all of America now knows what a
       budget busting bomb this bill is. Hopefully, today’s battle will embolden
@@ -79,6 +84,7 @@ cards:
       either)
     _key: card-5-e210e89c-9530-4c88-a6db-f82f8be9ee88
   - order: 5
+    useCheckmark: false
     body: >-
       ## Bipartisan Support
 
@@ -93,6 +99,7 @@ cards:
       Senator Chuck Schumer (D, NY) WSJ
     _key: card-6-ec77303c-3dc9-496c-88e3-e3fbf4c34640
   - order: 6
+    useCheckmark: false
     body: >-
       ## Why Pres Was Angry:
 
@@ -105,6 +112,7 @@ cards:
       Pres. Trump, @Twitter, Friday March 24, 2018 8:55 a.m.
     _key: card-7-5704f848-c126-4e48-893b-82bd7b3e0a38
   - order: 7
+    useCheckmark: false
     body: >-
       ## For Your Consideration:
 
@@ -120,6 +128,7 @@ cards:
       Daca](https://smarthernews.com/02-19-18-trump-daca/)
     _key: card-8-de9a76e4-032f-4f03-85c2-2e8e4227e63f
   - order: 8
+    useCheckmark: false
     body: >-
       ## Interesting Side-Story:
 
@@ -134,6 +143,7 @@ cards:
       * Proving the 2200+ page bill may have a lot of overlooked line items.
     _key: card-9-5b9cd960-a86c-4752-8a11-cd4a105bf746
   - order: 9
+    useCheckmark: true
     body: >-
       Meanwhile, witness your tax dollars hard atA work as two senators from
       across the aisle hold aA snow ball fight on Thursday. Fun or wasted time?

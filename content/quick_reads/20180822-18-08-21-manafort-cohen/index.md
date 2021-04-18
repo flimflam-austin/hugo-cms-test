@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # YOUR TAX DOLLAR$ AT WORK
 
@@ -34,33 +35,36 @@ cards:
       America’s democracy.
     _key: card-1-5d6bda8e-b5c8-4e68-9a95-587c9d7ce5e7
   - order: 1
+    useCheckmark: false
     body: >-
       ## THE “FIRSTS”
 
 
-      * Pres. Trump’s one-time campaign manager, **Paul Manafort:**A **first
-      indicted by Special Counsel** & **first to be found guilty** by a jury.
+      * Pres. Trump’s one-time campaign manager,**Paul Manafort:**A**first
+      indicted by Special Counsel** &**first to be found guilty** by a jury.
 
-      * Manafort convicted of 8 felonies – **none relating to the 2016 election
+      * Manafort convicted of 8 felonies –**none relating to the 2016 election
       OR Russian meddling**.
 
-      * Pres. Trump’s fmr lawyer, **Michael Cohen:**A **first to plead guilty**
-      to charges resulting from a reported referral from the Special Counsel.
+      * Pres. Trump’s fmr lawyer,**Michael Cohen:**A**first to plead guilty** to
+      charges resulting from a reported referral from the Special Counsel.
     _key: card-2-ac89022d-ffa0-4594-b7e2-2f9de0087093
   - order: 2
+    useCheckmark: false
     body: >-
       # WHY IT MATTERS:
 
 
-      Manafort’s convictions haveA **ZERO** to do with Pres. Trump or election.
+      Manafort’s convictions haveA**ZERO** to do with Pres. Trump or election.
 
 
       **Cohen pleaded guilty to 8 felonies, incl 2 campaign finance charges
-      related to 2016 election.** Prosecutor said he _“worked to pay money to
-      **silence two women** who had information that he believed would be
+      related to 2016 election.** Prosecutor said he_“worked to pay money
+      to**silence two women** who had information that he believed would be
       detrimental to the 2016 campaign…”_
     _key: card-3-ddcc2d5a-76e1-4dab-be0d-03f7d1652738
   - order: 3
+    useCheckmark: false
     body: >-
       ## NOW WHAT?
 
@@ -75,6 +79,7 @@ cards:
       **What it means for President Trump? TBD**
     _key: card-4-42e76558-4312-42e0-9189-1b3e0f546ea1
   - order: 4
+    useCheckmark: false
     body: >-
       > “Cohen … is more than happy to tell the Special Counsel all that he
       knows – not just about the obvious possibility of a conspiracy to collude
@@ -86,6 +91,7 @@ cards:
       the Clinton White House.
     _key: card-5-0865a86a-e963-4fc0-b3a7-64c104623e3b
   - order: 5
+    useCheckmark: true
     body: >-
       Pres. Trump called the Manafort trial a "witch hunt and disgrace." He has
       yet to speak publicly about Cohen's case. Meanwhile, the Special Counsel's

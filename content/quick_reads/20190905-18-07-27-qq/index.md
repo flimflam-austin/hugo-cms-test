@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "It cost me everything. I wish I worded it better."  
         
@@ -30,6 +31,7 @@ cards:
       bigot.
     _key: card-1-ee7d896b-dde5-41ed-96cf-2f09bef1710d
   - order: 1
+    useCheckmark: false
     body: >-
       > "…I had my own activism streak in my youth. I’m not sure if you’ve heard
       of the Boston Tea Party, but it was a real game changer."  
@@ -41,6 +43,7 @@ cards:
       Grassley (R-IA).
     _key: card-2-696d78ea-300b-480d-add2-8c4f3541593f
   - order: 2
+    useCheckmark: false
     body: >-
       > “We’re investing so much in security that it will significantly impact
       our profitability.”  
@@ -52,6 +55,7 @@ cards:
       Street. Zuckerberg personally lost $16B.
     _key: card-3-14fe529f-0dee-4fcc-8de1-ff3f816af8bc
   - order: 3
+    useCheckmark: true
     body: |-
       Have a great weekend!
 

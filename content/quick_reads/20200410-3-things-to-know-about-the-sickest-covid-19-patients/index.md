@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # What Are We Learning?
 
@@ -28,6 +29,7 @@ cards:
       in the U.S.
     _key: f104bd5e7dc5
   - order: 1
+    useCheckmark: false
     body: >-
       **90% of adults hospitalized had one or more pre-existing condition**
 
@@ -40,6 +42,7 @@ cards:
       pre-existing condition.
     _key: 73abfbbdc092
   - order: 2
+    useCheckmark: false
     body: >-
       **African Americans may be disproportionately affected**
 
@@ -50,6 +53,7 @@ cards:
       population in the 14 states examined by the CDC.
     _key: d1ed8bac9661
   - order: 3
+    useCheckmark: false
     body: >-
       **More than half of adults hospitalized are male**
 
@@ -60,6 +64,7 @@ cards:
       with the highest rates among those 65 and older.
     _key: b011a55517d3
   - order: 4
+    useCheckmark: false
     body: >-
       > “… the potential impact of both sex and race on COVID-19-associated
       hospitalization rates, need to be confirmed with additional data. “
@@ -72,6 +77,7 @@ cards:
       medical conditions, as well as the general public."
     _key: 6b88acef3255
   - order: 5
+    useCheckmark: true
     body: >-
       Why It Matters: We’re getting a more complete picture of serious cases in
       America, but we still need more data to understand why certain people are

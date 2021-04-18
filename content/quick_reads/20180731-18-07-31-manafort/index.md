@@ -20,19 +20,21 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # US v. Paul Manafort
 
 
-      Pres. Trump’s former campaign manager is the **first to face a criminal
-      trial stemming from the Special Counsel** **investigation** into Russian
+      Pres. Trump’s former campaign manager is the**first to face a criminal
+      trial stemming from the Special Counsel****investigation** into Russian
       interference in the 2016 election.
 
 
-      Yet **none of the charges** against himA relate to his work on the
-      campaign or the President.
+      Yet**none of the charges** against himA relate to his work on the campaign
+      or the President.
     _key: card-1-0d827dd4-084e-4d2a-933a-5a7e2882c6a6
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -46,6 +48,7 @@ cards:
       negotiate?
     _key: card-2-1b24c7e7-ca48-4480-a82d-c1496f1c0ca3
   - order: 2
+    useCheckmark: false
     body: >-
       ## Manafort & The Charges:
 
@@ -59,6 +62,7 @@ cards:
       pro-Russian political party in Ukraine.
     _key: card-3-d55494ad-a113-40fd-acb6-c2496cb68a06
   - order: 3
+    useCheckmark: false
     body: >-
       ## What You Should Know:
 
@@ -75,6 +79,7 @@ cards:
       election.**
     _key: card-4-df4447d6-dcb8-46dd-bfcd-6ba02ff222d4
   - order: 4
+    useCheckmark: true
     body: >-
       Manafort's VA trial is expected to last about three weeks, but delays are
       fairly certain. Either way, his first trial should be done in time before

@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## October 13, 1792
 
@@ -28,6 +29,7 @@ cards:
       The cornerstone of the White House was laid.
     _key: ff62926817ad
   - order: 1
+    useCheckmark: false
     body: >-
       ## Not A Natural White
 
@@ -40,6 +42,7 @@ cards:
       tone," according to the U.S. geographical survey.
     _key: 906d119f85f9
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why “White” House?
 
@@ -55,6 +58,7 @@ cards:
       famous, grand mansion in Ireland.
     _key: 4979329c0822
   - order: 3
+    useCheckmark: false
     body: >-
       ## “The Seat Of The Empire”
 
@@ -72,6 +76,7 @@ cards:
       President’s residence has 6 levels.
     _key: dc338b3e3aa3
   - order: 4
+    useCheckmark: true
     body: >-
       Whoever "wins the White House" this year will follow a tradition of every
       U.S, president since Pres. John Adams, the first inhabitant, in 1800 - a

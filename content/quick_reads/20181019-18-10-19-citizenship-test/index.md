@@ -20,6 +20,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       How Well Do You Know America?
 
@@ -34,6 +35,7 @@ cards:
       GPA](https://www.uscis.gov/sites/default/files/USCIS/Office%20of%20Citizenship/Citizenship%20Resource%20Center%20Site/Publications/100q.pdf)
     _key: card-1-776d7e75-ff95-4968-8e0d-b35c60b51599
   - order: 1
+    useCheckmark: false
     body: >-
       ## Background
 
@@ -50,6 +52,7 @@ cards:
       test yourself
     _key: card-2-348815a2-44ce-400a-837f-b054ea431ee4
   - order: 2
+    useCheckmark: false
     body: |-
       ## Example Questions
 
@@ -64,21 +67,23 @@ cards:
       FLIP FOR ANSWERS
     _key: card-3-2aa1c3d0-d618-4747-8087-2b71fca6d770
   - order: 3
+    useCheckmark: false
     body: |-
-      > 1. Constitution written? **1787**  
+      > 1. Constitution written?**1787**  
       (13% Answered Correctly)  
         
         
         
-      2. Supreme Court Justices? **9**  
+      2. Supreme Court Justices?**9**  
       (43% Answered Correctly)  
         
         
         
-      3. WWII enemy? **Japan, Germany, and Italy**  
+      3. WWII enemy?**Japan, Germany, and Italy**  
       (40% Answered Correctly)
     _key: card-4-e1e32bbb-7573-4783-9292-7c7d5cfae93d
   - order: 4
+    useCheckmark: false
     body: >-
       > _"Unfortunately this study found the average American to be woefully
       uninformed regarding America’s history and incapable of passing the U.S.
@@ -89,6 +94,7 @@ cards:
       the foundation intends to do further research.
     _key: card-5-dba7bbaf-6ec1-4fe7-9733-7a2afaa966ce
   - order: 5
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -103,6 +109,7 @@ cards:
       verbally.
     _key: card-6-4423f6ae-4f88-4d87-9c77-4a78797f0362
   - order: 6
+    useCheckmark: true
     body: >-
       Informed or not, voters are headed to the polls next month, and both
       parties use American history to bolster their platforms. The question is:

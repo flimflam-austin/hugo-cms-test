@@ -20,31 +20,35 @@ card_series: SmartHER News
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > The FDA streamlined a treatment for COVID-19.  
         
       What it is & why it matters.
     _key: 6ce39719d263
   - order: 1
+    useCheckmark: false
     body: >-
       ## What’s Going On
 
 
-      The FDA approved **emergency use** of the following drugs for treating
-      COVID-19: c**hloroquine phosphate** & **hydroxychloroquine sulfate**.
+      The FDA approved**emergency use** of the following drugs for treating
+      COVID-19: c**hloroquine phosphate** &**hydroxychloroquine sulfate**.
 
 
       This allows the drugs to be used in ways in which they haven’t been tested
       & originally approved.
 
 
-      You may hear about **hydroxychloroquine** used with the antibiotic
-      **azithromycin**.
+      You may hear about**hydroxychloroquine** used with the
+      antibiotic**azithromycin**.
     _key: bf80ca803166
   - order: 2
-    body: "## What You Should Know\n\nA **small but recent\_study** in France showed some positive results of using a combination of hydroxychloroquine and azithromycin for patients with COVID-19.\n\nThe study examined 80 patients who received the drugs. They ranged in age from 18 to 88-yrs-old, more than half had preexisting conditions. **ALL RECOVERED** except two: an 86-yr-old died & a 74-yr-old remained in ICU."
+    useCheckmark: false
+    body: "## What You Should Know\n\nA**small but recent\_study** in France showed some positive results of using a combination of hydroxychloroquine and azithromycin for patients with COVID-19.\n\nThe study examined 80 patients who received the drugs. They ranged in age from 18 to 88-yrs-old, more than half had preexisting conditions.**ALL RECOVERED** except two: an 86-yr-old died & a 74-yr-old remained in ICU."
     _key: d870eb972c9f
   - order: 3
+    useCheckmark: false
     body: >-
       > “We believe other teams should urgently evaluate this cost-effective
       therapeutic strategy, to both avoid the spread of the disease and treat
@@ -57,6 +61,7 @@ cards:
       stays, and hopefully preventing future transmission.
     _key: 023deb071292
   - order: 4
+    useCheckmark: false
     body: >-
       ## Hydroxychloroquine
 
@@ -73,6 +78,7 @@ cards:
       infection.
     _key: a4fe62056d4a
   - order: 5
+    useCheckmark: false
     body: |-
       ## Azithromycin
 
@@ -85,11 +91,12 @@ cards:
       Often used to battle bacterial infections, like sinus and ear infections.
     _key: 01aafc3dc2dc
   - order: 6
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
 
-      The FDA issued a warning after a married couple ingested **chloroquine**
+      The FDA issued a warning after a married couple ingested**chloroquine**
       phosphate, an ingredient in fish food, to prevent COVID-19; the husband
       died and the wife was hospitalized.
 
@@ -99,6 +106,7 @@ cards:
       people* can lead to cardiac arrest.
     _key: 11e02f0cfc96
   - order: 7
+    useCheckmark: true
     body: >-
       Why would the combination of drugs work? And what's the potential side
       effects for those with COVID-19? Two big, important, and unanswered

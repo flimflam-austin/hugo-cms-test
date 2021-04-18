@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Flu Virus Rages
 
@@ -38,6 +39,7 @@ cards:
     citation: Flip For Update
     _key: card-1-4c21bd6c-99c6-485d-97b4-3968cd353efd
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Latest: CDC
 
@@ -45,15 +47,16 @@ cards:
       * Flu peaked in early February but “flu activity” expected for weeks to
       come.
 
-      * 17 states = **“widespread” flu**.
+      * 17 states =**“widespread” flu**.
 
       * 6 states = high-rates of “influenza-like-illnesses” (flu diagnosis TBD).
 
-      * Flu-related pediatric deaths: **133**
+      * Flu-related pediatric deaths:**133**
 
       * Hospitalization rates still comparably high to other tough flu seasons.
     _key: card-2-68a68ce5-5137-46ec-8909-f2d3689b3251
   - order: 2
+    useCheckmark: false
     body: >-
       ## $pending Bill = $$ For Flu
 
@@ -67,6 +70,7 @@ cards:
       * $100M = new total budget for universal flu vaccine research.
     _key: card-3-8e2f14ab-28b5-48a1-a82a-072e136f9cfc
   - order: 3
+    useCheckmark: false
     body: >-
       ## Not Only Gov’t Money…
 
@@ -82,6 +86,7 @@ cards:
       Initiative"
     _key: card-4-8e1e1206-067b-49cf-8bbe-870c39f815f1
   - order: 4
+    useCheckmark: true
     body: >-
       What is the #1 killer of Americans? An interesting chart that provides
       perspective on the threats we all face.

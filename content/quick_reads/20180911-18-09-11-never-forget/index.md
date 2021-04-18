@@ -20,12 +20,14 @@ card_series: On This Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # September 11, 2001
 
       **Why We “Never Forget” & What To AlwaysA Remember**
     _key: card-1-7b96c62b-eb88-4aeb-8944-6a4c78e6e58a
   - order: 1
+    useCheckmark: false
     body: >-
       > “Jules, this is Brian. Listen, I’m on an airplane that’s been hijacked.
       If things don’t go well, and it’s not looking good, I just want you to
@@ -43,6 +45,7 @@ cards:
     citation: Watch Now
     _key: card-2-03bdefe4-1f2b-4024-92ea-d0166a2de556
   - order: 2
+    useCheckmark: false
     body: |-
       ## The Morning That Changed Us Forever
 
@@ -55,6 +58,7 @@ cards:
       **10:07 a.m.:A** United Flight 93 crashes in Pennsylvania
     _key: card-3-572c9149-aa41-4335-9410-85548b4f622c
   - order: 3
+    useCheckmark: false
     body: >-
       # THE VICTIMS
 
@@ -62,7 +66,7 @@ cards:
       ## 2,977 died
 
 
-      **2,753** in New York (including **343 firefighters** & approx.A **11
+      **2,753** in New York (including**343 firefighters** & approx.A**11
       pregnant women**)
 
 
@@ -72,6 +76,7 @@ cards:
       **40**A aboard Flight 93
     _key: card-4-79461fdb-bcaf-4a17-a4c3-a64bd9bccc1c
   - order: 4
+    useCheckmark: false
     body: >-
       # THE HIJACKERS
 
@@ -88,6 +93,7 @@ cards:
       existence” – LA Times.
     _key: card-5-f88d6e4b-f4ce-4573-a81e-e93aff145ebf
   - order: 5
+    useCheckmark: false
     body: >-
       # THE AFTERMATH
 
@@ -101,6 +107,7 @@ cards:
       been deployed to Afghanistan and Iraq; more than 6,800 have died.
     _key: card-6-662d7991-db08-4dc9-8c43-ed960140d687
   - order: 6
+    useCheckmark: true
     body: >-
       American military operations in Afghanistan, Iraq and Syria following the
       9/11 attacks have cost more than $1.5 trillion.

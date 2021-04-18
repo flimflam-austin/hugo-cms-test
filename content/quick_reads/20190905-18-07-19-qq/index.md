@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “Nothing is impossible unless you make it impossible…. God blessed me to
       be a blessing…. Whatever challenges God puts in front of me I know it’s
@@ -35,6 +36,7 @@ cards:
       Now](https://www.youtube.com/embed/RwR4shi_JoQ?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-d76d572d-ac42-4fe0-8e79-77c1a71017ed
   - order: 1
+    useCheckmark: false
     body: >-
       > "I had no strength at all. I didn’t think about food because it only
       made me hungrier."  
@@ -45,6 +47,7 @@ cards:
       since being rescued from a cave in northern Thailand.
     _key: card-2-a8c67754-5c39-4e42-8539-d835531f178c
   - order: 2
+    useCheckmark: false
     body: >-
       > "Apparently, the insiders are in cahoots and the establishment doesn’t
       want to find out how many people don’t like the way California is being
@@ -57,6 +60,7 @@ cards:
       permitting the vote.
     _key: card-3-10e085c7-00ba-462d-bd52-b9aa40243ae7
   - order: 3
+    useCheckmark: false
     body: >-
       > “I pray to God no other parent feels this pain.”  
         
@@ -69,6 +73,7 @@ cards:
       [See the Post here](https://www.instagram.com/morganebeck/)
     _key: card-4-a633e63d-3e59-4684-ad8e-6d28d1293269
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-07-19-qq/)'
     _key: card-10-fc5c352e-2154-4f26-9688-fd0ec91ca8bf
 

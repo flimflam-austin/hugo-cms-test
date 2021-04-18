@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “CUTIES”
 
@@ -30,11 +31,12 @@ cards:
       Why the controversy?
     _key: b8d7db2685c5
   - order: 1
+    useCheckmark: false
     body: >-
       ## About “Cuties”
 
 
-      * Sept 9: Netflix released the film about an **11-year-old** Senegalese
+      * Sept 9: Netflix released the film about an**11-year-old** Senegalese
       girl living in Paris with her strict Muslim family.
 
       * In the film, the girl is torn between her traditional upbringing and a
@@ -45,22 +47,24 @@ cards:
       applaud it for highlighting the issue.
     _key: 040d9dd390f5
   - order: 2
+    useCheckmark: false
     body: >-
       ## About U.S. & Netflix Parental Ratings
 
 
-      * “Cuties” is rated **TV-MA** under the 1996 federal rating system,
-      meaning its intended to be viewed by adults / may be unsuitable for
-      children under 17.
+      * “Cuties” is rated**TV-MA** under the 1996 federal rating system, meaning
+      its intended to be viewed by adults / may be unsuitable for children under
+      17.
 
       * TV-MA films contain graphic violence, explicit sex and/or crude
       language.
 
-      * Films rated TV-MA are given an **adult maturity** rating on Netflix.
+      * Films rated TV-MA are given an**adult maturity** rating on Netflix.
       Parents may set parental control settings on Netflix to restrict viewing
       of adult-rated titles.
     _key: 2ad2f7d8d107
   - order: 3
+    useCheckmark: false
     body: >-
       “Our girls see that the more a woman is sexualized on social media, the
       more she’s successful. And the children just imitate what they see, trying
@@ -73,6 +77,7 @@ cards:
       need to protect our children.'"
     _key: c881170096ed
   - order: 4
+    useCheckmark: false
     body: >-
       > “…this film does immeasurable damage to all of us fighting to keep our
       children safe.”
@@ -85,6 +90,7 @@ cards:
       commentary."
     _key: 466d4d799115
   - order: 5
+    useCheckmark: true
     body: >-
       CUTIES CANCELLATIONS? After it premiered, #CancelNetflix went viral on
       Twitter. Within three days, Netflix's cancellation rate multiplied by 8x

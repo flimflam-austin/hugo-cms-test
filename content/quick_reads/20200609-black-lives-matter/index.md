@@ -20,12 +20,14 @@ card_series: what to know
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Black Lives Matter
 
       > How a hashtag evolved into a movement.
     _key: 4277a2cef998
   - order: 1
+    useCheckmark: false
     body: >-
       “Black people. I love you. I love us. Our lives matter.”
 
@@ -37,6 +39,7 @@ cards:
       followed: #BlackLivesMatter
     _key: 4f4e7bdf55e5
   - order: 2
+    useCheckmark: false
     body: >-
       ## THE ORGANIZATION
 
@@ -52,6 +55,7 @@ cards:
       * **When**: 2013.
     _key: a7486d41865e
   - order: 3
+    useCheckmark: false
     body: >-
       ## THE MISSION
 
@@ -62,6 +66,7 @@ cards:
       state and vigilantes.”_
     _key: 93cc2b00f1ad
   - order: 4
+    useCheckmark: false
     body: >-
       ## THE GROWTH
 
@@ -76,6 +81,7 @@ cards:
       hashtags in the world.
     _key: d510699731ee
   - order: 5
+    useCheckmark: false
     body: >-
       “Black Lives Matter is really Black Lives Matter Too. It is not a phrase
       that is about excluding — it’s a phrase that is about focus. We are
@@ -86,6 +92,7 @@ cards:
       Co-Founder Patrisse Cullors on whether Black Lives Matter is anti-White.
     _key: d24551a6c915
   - order: 6
+    useCheckmark: false
     body: >-
       ## TODAY
 
@@ -101,6 +108,7 @@ cards:
       supremacy forever.”
     _key: 755ad1f1884d
   - order: 7
+    useCheckmark: false
     body: >-
       > “We have been fighting and advocating to stop a war on black lives.”
 
@@ -113,6 +121,7 @@ cards:
       policing. It’s bigger than that."
     _key: ac5b7d8e7257
   - order: 8
+    useCheckmark: false
     body: >-
       > “Do Black lives really matter to ‘Black Lives’ or is it just an agenda
       pushed by the Liberal Left?”
@@ -126,6 +135,7 @@ cards:
       graduation rates among Black men.
     _key: 07a078fa0b41
   - order: 9
+    useCheckmark: true
     body: >-
       The first person to use the hashtag #BlackLivesMatter on Twitter is
       reportedly Dr. Marcus Anthony Hunter, PhD, in 2012. On the the power of

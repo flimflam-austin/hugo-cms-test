@@ -20,6 +20,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # SEMI SAFETY NET
 
@@ -29,6 +30,7 @@ cards:
     citation: FLIP FOR THE STORY
     _key: card-1-ce4c4b9f-f456-438f-876f-6cf50bb2c1cb
   - order: 1
+    useCheckmark: false
     body: >-
       ## Trucks Prevent Tragedy
 
@@ -44,6 +46,7 @@ cards:
       The man, in his 30s, did not to jump and walked to safety.
     _key: card-2-46c24654-6b01-46c9-b449-31a73020110d
   - order: 2
+    useCheckmark: true
     body: >-
       If you or a loved one is feeling distressed, call the National Suicide
       Prevention Lifeline at 1-800-273-8255. The crisis center provides free and

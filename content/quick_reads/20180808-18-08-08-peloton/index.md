@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “The Netflix of Fitness”
 
@@ -34,6 +35,7 @@ cards:
       And how do you say it?
     _key: card-1-dac4dd2d-e583-4f5e-860c-4a6be708c48d
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Basics
 
@@ -49,35 +51,38 @@ cards:
       & need to pay $39/month for content on the screen.
     _key: card-2-bbc97777-37f7-48c3-8252-00f355b13d15
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Bigger Picture
 
 
       * Peloton wants to make itself a public-traded company on Wall St. which
-      says its **worth $4B+**.
+      says its**worth $4B+**.
 
-      * For perspective, that’s **more than Dick’s Sporting Goods** ($3.5B).
+      * For perspective, that’s**more than Dick’s Sporting Goods** ($3.5B).
 
-      * CEO argues it’s a **“media company”** not just exercise equipment due to
-      its **subscription-based model** (a la Netflix.)
+      * CEO argues it’s a**“media company”** not just exercise equipment due to
+      its**subscription-based model** (a la Netflix.)
     _key: card-3-6901a189-ca38-49f8-b63a-1759f0affc34
   - order: 3
+    useCheckmark: false
     body: >-
       ## Reinventing the Wheel?
 
 
       Exercise using a stationary bicycle is nothing new. In fact, first
-      rudimentary version **created in 1796**.
+      rudimentary version**created in 1796**.
 
 
-      It wasn’t until the 1960s when **Schwinn released the “Exerciser”** that
+      It wasn’t until the 1960s when**Schwinn released the “Exerciser”** that
       the bike exercise fad caught on.
 
 
-      Today,A **stationary bikes are everywhere**, even the International Space
+      Today,A**stationary bikes are everywhere**, even the International Space
       Station.
     _key: card-4-46def28b-df51-481b-9353-876fcee60a98
   - order: 4
+    useCheckmark: true
     body: >-
       Peloton is taking pre-orders for a treadmill "Peloton Tread" with the same
       features. The CEO says he wants users who don't own a Peloton bike to

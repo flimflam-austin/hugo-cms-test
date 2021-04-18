@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       How Much Money Do You REALLY Need?
 
@@ -34,6 +35,7 @@ cards:
       Cha-Ching: Flip Card
     _key: card-1-735c80fc-e2bc-49cc-a6c7-3e5df423262b
   - order: 1
+    useCheckmark: false
     body: >-
       # Can Money Buy Happiness?
 
@@ -49,6 +51,7 @@ cards:
       countries
     _key: card-2-9c1352a7-5634-4eda-b0ea-f4211f1b1f9b
   - order: 2
+    useCheckmark: false
     body: >-
       # But — there’s a catch!
 
@@ -61,6 +64,7 @@ cards:
       could, ironically, lead to “a lower level of well-being.”
     _key: card-3-17c2b325-1dce-4abc-a8f1-76ae2ca18b01
   - order: 3
+    useCheckmark: true
     body: |-
       So how much is the average American income? Click below to find out!
 

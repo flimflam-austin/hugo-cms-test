@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Historic Helsinki Summit
 
@@ -34,6 +35,7 @@ cards:
       Why It Matters
     _key: card-1-f86f1f3b-404a-4c04-bb3e-85df025f4cd8
   - order: 1
+    useCheckmark: false
     body: >-
       ## U.S. Policy Vs. Russia
 
@@ -49,11 +51,12 @@ cards:
       * U.S. forces killed hundreds of Russian fighting w/Assad in Syria.
     _key: card-2-58d3ae45-53c9-43d4-b272-4f6bf0693b23
   - order: 2
+    useCheckmark: false
     body: >-
       ## Russia: What’s At Stake:
 
 
-      * global security: **Russia has largest arsenal of nukes.**
+      * global security:**Russia has largest arsenal of nukes.**
 
       * Russia annexed Crimea from Ukraine, increasing worry it will threaten
       borders in E. Europe.
@@ -64,6 +67,7 @@ cards:
       speech, no protests & murder).
     _key: card-3-0ba019ee-342c-4837-9cc8-3d2888e5f114
   - order: 3
+    useCheckmark: false
     body: >-
       ## Major Takeaways: Summit
 
@@ -77,6 +81,7 @@ cards:
       talked about bringing the U.S. Russia relationship back to normal._“
     _key: card-4-ea052807-935c-4819-a72c-fcf222c9c00c
   - order: 4
+    useCheckmark: true
     body: >-
       How does the U.S. gov't define Russian "meddling"? It's a blanket term
       often referring to online "mischief" - hacking, spreading misinformation,

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # QUICK QUOTES
 
@@ -32,6 +33,7 @@ cards:
       campaign advisers to solicit information for its Russia investigation.
     _key: card-1-7804ff71-7fbd-4735-80ae-42256aa16629
   - order: 1
+    useCheckmark: false
     body: >-
       > **“I’m not sure… How does one put it? Under the caption, Radio: The
       ‘Laurel’ Guy.”**  
@@ -47,6 +49,7 @@ cards:
       decide](https://twitter.com/CloeCouture/status/996218489831473152?tfw_creator=ForTheWin&tfw_site=forthewin&ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fftw.usatoday.com%2F2018%2F05%2Flaurel-or-yanny-audio-clip-video-twitter-crazy-what-poll-please-vote-help)
     _key: card-2-ee88f70b-86ee-4de5-a878-cf49cbfb96a9
   - order: 2
+    useCheckmark: false
     body: >-
       > **“We’re putting the trade war on hold, so right now we have agreed to
       put the tariffs on hold while we try to execute the framework. …We have an
@@ -57,6 +60,7 @@ cards:
       will pause $150B in proposed tariffs while negotiating with China.
     _key: card-3-8c4a1d97-c841-4c16-aa93-020fe5ecdba6
   - order: 3
+    useCheckmark: false
     body: >-
       > **“We are committed to creating a culture of warmth and belonging where
       everyone is welcome.”**  
@@ -68,6 +72,7 @@ cards:
       at one of its Philadelphia locations.
     _key: card-4-c46688d2-c8af-4594-a364-9ffaa60ae107
   - order: 4
+    useCheckmark: false
     body: >-
       > **“A sweet, slightly musky, vanilla-like fragrance, with slight
       overtones of cherry, and the natural smell of a salted, wheat-based
@@ -82,6 +87,7 @@ cards:
       smell?](https://mashable.com/2018/05/19/hasbro-play-doh-smell-trademark/)
     _key: card-5-21c915d8-0bbf-4a4f-8bc0-8ba12cfdc896
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great day! Check out more at SmartHerNews.com
 

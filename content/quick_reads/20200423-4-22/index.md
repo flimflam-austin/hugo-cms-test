@@ -20,6 +20,7 @@ card_series: SmartHER News
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # White House  
       COVID-19 Task Force
@@ -27,9 +28,11 @@ cards:
       WHAT WE LEARNED TODAY
     _key: fbeced73e0ad
   - order: 1
+    useCheckmark: false
     body: "## FALL FLU\n\n> “I didn’t say that this was going to be worse; I said it’s going to be more difficult and potentially complicated.”  \n  \nCDC Dir. Robert Redfield clarifying his concerns about the U.S. dealing with both flu & COVID-19 in the fall.\_He reiterated the need for Americans to get the flu vaccine. Dr. Fauci added that he's convinced we'll have COVID-19 in the fall, but that we'll be better prepared to contain it."
     _key: b811b07af836
   - order: 2
+    useCheckmark: false
     body: >-
       ## IMMIGRATION INTO U.S.
 
@@ -43,9 +46,11 @@ cards:
       our economy reopens" and preserve healthcare resources.
     _key: cd0d1c2e68db
   - order: 3
+    useCheckmark: false
     body: "## “REOPENING”\n\n> “The one way not to reopen the economy is to have rebound that we can’t take care of.”  \n  \nDr. Fauci pleading with America's leaders (and the American public) to carefully consider their reopening plans, and advising them to proceed in a careful and measured way. He emphasized the speed will be different for each community, and if we don't use caution step-by-step, there's\_a greater likelihood of \"a rebound we can't take care of.\""
     _key: 168716a9036a
   - order: 4
+    useCheckmark: true
     body: >-
       ONE LAST THING: Dr. Fauci reiterated that although animals can get
       COVID-19, there's "no evidence that the virus is transmitted from a pet to

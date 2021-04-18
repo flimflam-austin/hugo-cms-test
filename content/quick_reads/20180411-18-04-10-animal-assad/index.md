@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       “ANIMAL ASSAD”  
 
@@ -38,6 +39,7 @@ cards:
     citation: How Did We Get Here?
     _key: card-1-8ca87742-d328-4862-a527-996f187be66d
   - order: 1
+    useCheckmark: false
     body: >-
       ## Syria: By The Numbers
 
@@ -54,6 +56,7 @@ cards:
       ISIS.**400,000 – 500,000**: Estimated deaths since war began.
     _key: card-2-c67f4e18-02cf-4880-ac51-c4573866c049
   - order: 2
+    useCheckmark: false
     body: >-
       > ‘Due to the possible launch of air strikes into Syria with air-to-ground
       and/or cruise missiles within the next 72 hours, and the possibility of
@@ -66,6 +69,7 @@ cards:
       EuroControl, Air Traffic - European Continent (Reuters)
     _key: card-3-f121db17-ba1f-46eb-a1ae-710a584a69cf
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why We Watch:
 
@@ -84,6 +88,7 @@ cards:
     citation: Then What? Flip
     _key: card-4-6bbc3ff2-ea44-4b09-89cc-bd483af4eb79
   - order: 4
+    useCheckmark: false
     body: >-
       ## Potential For Fireworks:
 
@@ -102,6 +107,7 @@ cards:
       Pres. Trump, Twitter, April 8, 2018
     _key: card-5-dd2d0b6c-cc4f-41a7-aea9-117711c6e3ed
   - order: 5
+    useCheckmark: true
     body: |-
       Need one good catch-up on Syria? We found it:
 

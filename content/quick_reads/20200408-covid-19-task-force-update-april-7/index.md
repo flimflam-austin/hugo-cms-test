@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # White House  
       COVID-19 Task Force
@@ -27,6 +28,7 @@ cards:
       What We Learned Today
     _key: 438ace5b4882
   - order: 1
+    useCheckmark: false
     body: >-
       > “We’re very concerned… It’s very sad. There’s nothing we can do about it
       right now except to try & give them the best possible care.”
@@ -40,6 +42,7 @@ cards:
       the virus.
     _key: 49ea48fbb300
   - order: 2
+    useCheckmark: false
     body: >-
       > “It’s really given us great heart.”
 
@@ -50,6 +53,7 @@ cards:
       households are succeeding in their social distancing efforts.
     _key: f680f57de64e
   - order: 3
+    useCheckmark: false
     body: >-
       > “No absolute prediction, but I think we’re going to be in good shape.”
 
@@ -60,6 +64,7 @@ cards:
       COVID-19 "is not going to disappear."
     _key: 5190ac1dd9cd
   - order: 4
+    useCheckmark: true
     body: >-
       A reminder of the historic times: Dr. Birx emphasized the mitigation
       efforts attempted by America has never been attempted before.

@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“It’s critical to participate in our democracy…If we can do it from
       space, then I believe folks can do it from the ground too_.”
     citation: DR. KATHLEEN RUBINS
     _key: 15f26b2b9056
   - order: 1
+    useCheckmark: true
     body: >-
       As voting has started in some form in over half of the states, NASA
       astronaut Dr. Rubins plans to vote from space this year - She did so as

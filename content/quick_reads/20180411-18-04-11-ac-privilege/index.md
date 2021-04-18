@@ -20,35 +20,39 @@ card_series: From the President's Desk
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: "# “Attorneya\x13client privilege is dead!”\n\nPresident Trump via Twitter, April 10, 2018\n\n**Does the federal raid on Michael Cohen (Trump’s personal lawyer) signify the end of one of our nation’s most sacred legal principles?**\n\nFLIP HERE FOR MORE"
     citation: FLIP HERE FOR MORE
     _key: card-1-87b18413-3e66-41fd-8378-40eda1b13808
   - order: 1
+    useCheckmark: false
     body: >-
       ## What is the Attorney-Client Privilege?
 
 
-      * Allows a client to avoid testifying about, or otherwise disclosing,
-      **confidential communications** with their lawyer relating to legal advice
-      (ex: not financial advice).
+      * Allows a client to avoid testifying about, or otherwise
+      disclosing,**confidential communications** with their lawyer relating to
+      legal advice (ex: not financial advice).
 
-      * Also means the attorney ***usually*** cannot be required to disclose.
+      * Also means the attorney***usually*** cannot be required to disclose.
 
       * Meant to encourage clients to communicate freely with their attorneys.
     _key: card-2-be5160fb-8c80-4bb7-8a6d-c0426c25ab32
   - order: 2
+    useCheckmark: false
     body: >-
       Is the Attorney-Client Privilege Dead? Nope.
 
 
       **BOTTOM LINE:** The attorney-client privilege is alive and well, as are
-      its exceptions, including the **crime-fraud exception.**
+      its exceptions, including the**crime-fraud exception.**
 
 
-      The privilege does NOT apply to communications in **furtherance** of an
+      The privilege does NOT apply to communications in**furtherance** of an
       ongoing or (intended) future crime or fraud.
     _key: card-3-b6ec1076-24a4-404f-95a6-891acf03d22d
   - order: 3
+    useCheckmark: false
     body: >-
       ## What does this mean for Cohen &/or Pres. Trump?
 
@@ -62,6 +66,7 @@ cards:
       evidence of a particular crime.
     _key: card-4-95487646-403d-4cf8-ba59-628e480e1a18
   - order: 4
+    useCheckmark: true
     body: >-
       NBC legal analyst Danny Cevallos says the fact the FBI opted to execute
       the raid on Cohen without notice, as opposed to allowing him to produce

@@ -20,18 +20,20 @@ card_series: Now You Know
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Is America Happy?
 
       A snapshot on how Americans feel in 2020.
     _key: 47afe1d18a0a
   - order: 1
+    useCheckmark: false
     body: >-
       ## What To Know:
 
 
       * **The New Research**: Survey facilitated by the National Opinion
-      Research Center (NORC) at the **University of Chicago** & focused on how
+      Research Center (NORC) at the**University of Chicago** & focused on how
       Americans feel during the COVID-19 pandemic.
 
       * The analysis pulls from previous research, asking similar questions,
@@ -41,6 +43,7 @@ cards:
       questions, mostly online.
     _key: f89f7aa3f678
   - order: 2
+    useCheckmark: false
     body: >-
       ## Historical Context
 
@@ -54,9 +57,11 @@ cards:
       pandemic.”_
     _key: fc9e7935b090
   - order: 3
-    body: "## HAPPINESS\n\n* The survey asks: are you _very happy? pretty happy?_ or _not too happy?\__\n* Over the past 50 years, the majority of Americans have **never**\_described themselves as “_very happy_” but the response has **consistently hovered around 30%**.\n* The number of Americans *now* reporting as “_very happy_” dropped to a historic low of 14% – the **lowest since the survey began in 1972**."
+    useCheckmark: false
+    body: "## HAPPINESS\n\n* The survey asks: are you_very happy? pretty happy?_ or_not too happy?\__\n* Over the past 50 years, the majority of Americans have**never**\_described themselves as “_very happy_” but the response has**consistently hovered around 30%**.\n* The number of Americans *now* reporting as “_very happy_” dropped to a historic low of 14% – the**lowest since the survey began in 1972**."
     _key: 2766f958c1e3
   - order: 4
+    useCheckmark: false
     body: >-
       ## Money Doesn’t Buy You Happiness (Or Optimism)
 
@@ -66,6 +71,7 @@ cards:
       financially_.”
     _key: 098cf9e14a2f
   - order: 5
+    useCheckmark: false
     body: >-
       ## THE FUTURE
 
@@ -82,6 +88,7 @@ cards:
       survey in 1994.
     _key: a1459152052d
   - order: 6
+    useCheckmark: true
     body: >-
       This survey concluded days before the death of George Floyd in police
       custody. Consequently, the answers do not include any reflection of the

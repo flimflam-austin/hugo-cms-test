@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # No Escaping Amazon
 
@@ -27,13 +28,14 @@ cards:
       ## Online Retailer’s Next Target: Your Health Care
 
 
-      Domination: Nearly **half** of all online purchases in U.S. flow through
+      Domination: Nearly**half** of all online purchases in U.S. flow through
       Amazon.
 
 
       Why is Amazon targeting health care? Flip Here
     _key: card-1-9716f8e2-b31b-4f3a-a6d4-2f7a31d30c82
   - order: 1
+    useCheckmark: false
     body: >-
       ## Amazon Health Care Kick
 
@@ -48,10 +50,11 @@ cards:
       people).
     _key: card-2-c199136d-baea-4c24-8763-890e12b8a141
   - order: 2
+    useCheckmark: false
     body: >-
       Amazon “Health”:  
 
-      Why It Matters 
+      Why It Matters
 
 
       * Health care spending makes up approx 1/5 of entire U.S economy.
@@ -64,6 +67,7 @@ cards:
       * Companies see an opportunity to compete for our $$.
     _key: card-3-b844efcc-23d3-4467-bcc2-202e6296a488
   - order: 3
+    useCheckmark: false
     body: >-
       > “I think health care is one of those industries that is elevated and
       made better by machine learning and artificial intelligence.”  
@@ -73,6 +77,7 @@ cards:
       Jeff Bezos, Amazon CEO, Vanity Fair New Establishment Summit, April 2017
     _key: card-4-798cd82f-7949-4555-b8dd-9e437504c909
   - order: 4
+    useCheckmark: false
     body: >-
       # Would you “Amazon” your health?
 
@@ -86,6 +91,7 @@ cards:
       Hathaway could be test for more public products.
     _key: card-5-64cf1f97-08eb-4b79-8c4a-fda4ddb3774e
   - order: 5
+    useCheckmark: true
     body: |-
       BTW...It's not just Amazon.
 

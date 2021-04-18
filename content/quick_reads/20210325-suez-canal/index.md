@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # S-T-U-C-K
 
@@ -27,6 +28,7 @@ cards:
       running into delays and/or higher prices.
     _key: 10f4e25f0ef9
   - order: 1
+    useCheckmark: false
     body: >-
       ## What’s Going On?
 
@@ -44,6 +46,7 @@ cards:
       shampoo.
     _key: d5d197e6c2a3
   - order: 2
+    useCheckmark: false
     body: >-
       # How Did This Happen?
 
@@ -60,6 +63,7 @@ cards:
       canal entirely.
     _key: 6676b6cfc9c8
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why Does This Matter?
 
@@ -72,6 +76,7 @@ cards:
       trying to get back on track during the pandemic.
     _key: f682e778e10c
   - order: 4
+    useCheckmark: true
     body: >-
       > So what would it take to "go around" (Africa) and not use the canal?
       About 15 days, according to one estimate. And remember - it's not just

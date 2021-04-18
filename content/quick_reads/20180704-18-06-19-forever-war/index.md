@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “THE FOREVER WAR”
 
@@ -32,15 +33,17 @@ cards:
       how long is too long?
     _key: card-1-b4e2640f-1ab4-4b99-b160-a6d96ffe6a58
   - order: 1
+    useCheckmark: false
     body: "## Background\n\n* AUMF = Authorization for Use of Military Force\n* AUMF became public law on Sept. 18, 2001 after 9/11 attacks.\n* Allows president to use ‘all necessary & appropriate forces against’ terrorists who committed or aided in 9/11 attacks a\x13 particularly, Al Qaeda & Taliban.\n\n\n\nsounds reasonable..."
     _key: card-2-a4f01c73-e6d4-4191-b7d9-ba00926648b6
   - order: 2
+    useCheckmark: false
     body: >-
       ## What’s the Controversy?
 
 
       * Nearly 17 years later, AUMF is still being used, allowing Presidents
-      Bush, Obama, & Trump to also fight _other_ terrorists around world.
+      Bush, Obama, & Trump to also fight_other_ terrorists around world.
 
       * America’s war on terror now stretches to no less than 76 countries (39%
       of the planet).
@@ -54,6 +57,7 @@ cards:
       Map](http://watson.brown.edu/costsofwar/files/cow/imce/papers/Current%20US%20Counterterror%20War%20Locations_Costs%20of%20War%20Project%20Map.pdf)
     _key: card-3-fb098311-4243-4420-9460-f7157f978484
   - order: 3
+    useCheckmark: false
     body: >-
       Bipartisan AUMF Proposal  
 
@@ -63,11 +67,12 @@ cards:
       * Broadly, it says a president can’t engage in prolonged or repeated
       incursions without consulting Congress on broader strategy.
 
-      * Critics say it flips Constitution, requires 2/3rds to _disapprove_ war.
+      * Critics say it flips Constitution, requires 2/3rds to_disapprove_ war.
 
       * Fate unclear; Congress looks to avoid messy debate before midterms.
     _key: card-4-f1c20491-b5f8-41f8-ab65-5c8481c3c36a
   - order: 4
+    useCheckmark: true
     body: >-
       In a separate study, released in November, Costs of War Project estimated
       the war on terror's price tag (with some future expenses included) has

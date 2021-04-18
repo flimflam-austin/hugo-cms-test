@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Alamo Dance Party
 
@@ -40,6 +41,7 @@ cards:
       FLIP HERE FOR MORE
     _key: card-1-35be9f0e-da87-46a3-a5db-6f906e7edd66
   - order: 1
+    useCheckmark: false
     body: >-
       PHRASE TO KNOW:  
 
@@ -49,13 +51,14 @@ cards:
       Descendants of royal nobility (a.k.a. teams that have won for years).
 
 
-      **Three Blue Bloods** (Kansas, Villanova & Michigan) **and a Cinderella**
+      **Three Blue Bloods** (Kansas, Villanova & Michigan)**and a Cinderella**
       (Loyola-Chicago) face off in a Final Four no one predicted.
 
 
       ok, ok... So Who Should I cheer For?
     _key: card-2-a87d2357-a8de-4c76-8806-1940794411c0
   - order: 2
+    useCheckmark: false
     body: >-
       # 11 LOYOLA-CHICAGO
 
@@ -79,6 +82,7 @@ cards:
     citation: FLIP FOR WHO THEY PLAY
     _key: card-3-2760b71e-ad9e-4043-a745-cf83069b22ee
   - order: 3
+    useCheckmark: false
     body: >-
       # 3 MICHIGAN
 
@@ -94,10 +98,11 @@ cards:
 
       * Won 13 straight and a school-record 32 games this season.
 
-      * **Fun fact:** Despite the mascot,A there are **no wild wolverines** in
+      * **Fun fact:** Despite the mascot,A there are**no wild wolverines** in
       Michigan.
     _key: card-4-155b6224-87ba-4ef0-84c1-25e684769079
   - order: 4
+    useCheckmark: false
     body: >-
       # 1 VILLANOVA
 
@@ -113,13 +118,14 @@ cards:
 
       * 2nd Final Four in last 3 seasons
 
-      * **5** **of the team’s top 6 players** were a part of the **2016 national
+      * **5****of the team’s top 6 players** were a part of the**2016 national
       championship squad**.
 
 
       flip for who they play
     _key: card-5-97d9fa04-89fd-4a1b-b7e9-97e590e58346
   - order: 5
+    useCheckmark: false
     body: >-
       # 1 KANSAS
 
@@ -135,14 +141,14 @@ cards:
 
       * 1st Final Four since 2012.
 
-      * School chant **“Rock chalk”A** started as a _science club_ cheer in
-      1886.
+      * School chant**“Rock chalk”A** started as a_science club_ cheer in 1886.
 
 
       [Listen to "Rock
       Chalk"](http://communicators.ku.edu/resources/audio/chant.mp3)
     _key: card-6-838c90f5-f293-4b38-8370-b12e769b24eb
   - order: 6
+    useCheckmark: true
     body: >-
       Play starts March 31st in San Antonio at Alamodome. No matter who is
       victorious all four teams will walk a way winner$. Find out how -- click

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # States Sue Over 2020 Census Citizenship Question
 
@@ -32,6 +33,7 @@ cards:
       California Attorney General Xavier Becerra, March 27, 2018
     _key: card-1-65c5fd35-ead4-4ae7-83bd-d141244750f2
   - order: 1
+    useCheckmark: false
     body: >-
       ## “Are You a U.S. Citizen?”
 
@@ -46,6 +48,7 @@ cards:
       citizenship.
     _key: card-2-b915ddd9-d5e5-4583-8a4b-80904fec0c1e
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why the Census Counts
 
@@ -65,6 +68,7 @@ cards:
     citation: What's at stake?
     _key: card-3-18eed334-feb6-415f-a27b-b5f9a68eec9f
   - order: 3
+    useCheckmark: false
     body: >-
       Why Are the States Suing?
 
@@ -80,6 +84,7 @@ cards:
       against those who respond.
     _key: card-4-6f3fe78f-8e8b-4397-abab-3ad8b4a69eb5
   - order: 4
+    useCheckmark: true
     body: |-
       How do they take the Census anyway? Click to find out.
 

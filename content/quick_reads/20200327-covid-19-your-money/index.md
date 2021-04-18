@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # COVID-19 AND YOUR MONEY
 
@@ -28,6 +29,7 @@ cards:
       as a record 3 million Americans file for unemployment.
     _key: d18f11622c0c
   - order: 1
+    useCheckmark: false
     body: >-
       > “You may well see significant rises in unemployment and significant
       declines in economic activity, but there can also be a good rebound on the
@@ -41,6 +43,7 @@ cards:
       timetable for the economic recovery ahead.
     _key: 594ac3977fe4
   - order: 2
+    useCheckmark: false
     body: >-
       ## YOUR HOME
 
@@ -56,14 +59,15 @@ cards:
       * **FYI:** Many cities and counties have enacted temporary eviction bans.
     _key: de216f989011
   - order: 3
+    useCheckmark: false
     body: >-
       ## YOUR TAXES
 
 
-      * Federal taxes aren’t due until **July 15**.
+      * Federal taxes aren’t due until**July 15**.
 
       * Treasury Dept. advises those able to do so to file their taxes by the
-      “normal” due date of **April 15** in order to speed up their refunds.
+      “normal” due date of**April 15** in order to speed up their refunds.
 
       * **FYI:** State tax filing deadlines vary by state, but many states are
       extending.
@@ -73,6 +77,7 @@ cards:
       deadlines in your state._**
     _key: 48826b3d1644
   - order: 4
+    useCheckmark: false
     body: >-
       ## YOUR BUSINESS
 
@@ -86,6 +91,7 @@ cards:
       benefits. Details TBD.
     _key: 130df06f4a81
   - order: 5
+    useCheckmark: false
     body: >-
       ## YOUR LOANS
 
@@ -101,6 +107,7 @@ cards:
       flowing (ex: car loans) if needed.
     _key: 60a858e097a6
   - order: 6
+    useCheckmark: true
     body: >-
       YOUR PAYCHECK? A third relief coronavirus response bill is being
       negotiated by congress. The exact details have yet to be approved by both

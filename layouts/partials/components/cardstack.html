@@ -2,8 +2,7 @@
     <section class="cardstack__cards">
 
 
-        <p>Context = {{ . }}</p>
-        
+
         {{ $imageScratch := newScratch}}
         {{ $imageScratch.Set "image" " " }}
  
@@ -14,19 +13,15 @@
         {{ $imageScratch.Set "image" $resizedPermalink }}
         {{ end }}  */}}
         {{ if ne .Params.featured_image.url nil}}
-        <p>{{ .Params.featured_image.url }}</p>
         {{ $searchString := printf "**%v" .Params.featured_image.url }}
-        <p>{{ $searchString }}</p>
         {{ $targetImage := (.Resources.ByType "image").GetMatch (printf "**%v" .Params.featured_image.url) }}
-        <p>{{ $targetImage }}</p>
-        {{ if ne $targetImage nil}}
-        {{ $resized := $targetImage.Resize "600x" }}
-        {{ if ne $resized nil }}
-        {{ $imageLink := $resized.Permalink }}
+
+        {{ if ne $targetImage nil }}
+        {{ $imageLink := $targetImage.Permalink }}
         {{ $imageScratch.Set "image" $imageLink }}
         {{ end }}
         {{ end }}
-        {{ end }}
+
 
 
         {{ $cardSeries := .Params.card_series }}
@@ -36,6 +31,8 @@
 
         {{ range $index, $card := $cards }}
         {{ $isFirstCard := eq $index 0 }}
+
+        {{ $usesCheckmark := eq $card.useCheckmark true}}
 
         {{ $cardImage := $imageScratch.Get "image"}}
         <div class="stackcard">
@@ -49,13 +46,12 @@
                     <div class="stackcard__borderwrapper">
                         <div class="stackcard__borderelements">
                             <span class="stackcard__borderpiece"></span>
-                            {{/*  <h3 class="stackcard__category">{{ $cardSeries }}</h3>  */}}
-                            <h3 class="stackcard__category">{{ $cardImage }}</h3>
+                            <h3 class="stackcard__category">{{ $cardSeries }}</h3>
                             <span class="stackcard__borderpiece"></span>
                         </div>
 
                         <div class="stackcard__content">
-                            {{ if eq .Params.useCheckmark true }}
+                            {{ if $usesCheckmark }}
                             <div class="stackcard__checkmark"></div>
                             {{ end }}
                             <div class="stackcard__text">{{- $card.body | markdownify -}}</div>
@@ -79,7 +75,7 @@
                         </div>
 
                         <div class="stackcard__content">
-                            {{ if eq .Params.useCheckmark true }}
+                            {{ if $usesCheckmark }}
                             <div class="stackcard__checkmark"></div>
                             {{ end }}
                             <div class="stackcard__text">{{- $card.body | markdownify -}}</div>

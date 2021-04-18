@@ -20,6 +20,7 @@ card_series: Coffee Talk
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       November 29, 2018
 
@@ -29,6 +30,7 @@ cards:
     citation: Watch Now
     _key: card-1-6e3e3058-98a4-4c20-a05c-fdf408f23b72
   - order: 1
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/coffee-talk-3/)'
     _key: card-10-05a9e798-a3d3-4cc2-b12c-d1647cf6386a
 

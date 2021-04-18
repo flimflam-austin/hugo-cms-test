@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       President Trump says immigration negotiations can now begin. In the
       meantime, view budget deal in written text and more:

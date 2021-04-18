@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Pres. George HW Bush Returns to Maine
 
@@ -29,35 +30,39 @@ cards:
       Flip: To Learn
     _key: card-1-7ac6639d-69b3-4964-a077-e458015959b8
   - order: 1
+    useCheckmark: false
     body: >-
-      * The coastal property in southern Maine, has **beenA in the family for a
+      * The coastal property in southern Maine, has**beenA in the family for a
       century**.
 
-      * Pres. Bush, 93, hasA visited Walker’s Point in Kennebunkport **every
+      * Pres. Bush, 93, hasA visited Walker’s Point in Kennebunkport**every
       summer since his childhood**, except 1944 when he was an aviator in World
       War II.
 
-      * This summer will be Pres. Bush’s **1st summer inA Kennebunkport without
+      * This summer will be Pres. Bush’s**1st summer inA Kennebunkport without
       Barbara,** his wife of 73 years, who died on April 17th.
     _key: card-2-c13195ae-788c-4a20-9b95-3b1bc44c8461
   - order: 2
+    useCheckmark: false
     body: "> “I imagine he will feel that half of him is missing for the rest of his life. But that said, there is no quit in this man. Life goes on, and for George Bush life is to be lived with joy a\x14 especially when he is in Maine.”  \n  \n  \n  \nJim McGrath, President George H.W. Bush's spokesman"
     _key: card-3-900096f4-ace3-4cc0-81e6-e1f949c2d9e7
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Bush Compound
 
 
-      * The largest house is a **6-bedroom, 7,100-square foot home built in
+      * The largest house is a**6-bedroom, 7,100-square foot home built in
       1920**. Other homes have been added over the yrs, including son Jeb’s
       house in ’15.
 
       * **11-acre property** has a building for Secret Service agents, gym,
       pond, pool & tennis court.
 
-      * Secret Service **prohibits access**, but boats can offer a glimpse.
+      * Secret Service**prohibits access**, but boats can offer a glimpse.
     _key: card-4-23f9a40f-3cf8-4c92-b232-26ad8174de1c
   - order: 4
+    useCheckmark: false
     body: >-
       ## Presidential History
 
@@ -65,11 +70,12 @@ cards:
       * If present during office, Pres. George H.W. (’89-’93) or Pres. George W.
       (’01-’09), theA Presidential flagA was hoisted below the national colors.
 
-      * The Bushes hosted world leaders like **Margaret Thatcher**, **Mikhail
-      Gorbachev**, & **Vladimir Putin** – Putin’s visit in 2007 was called “The
+      * The Bushes hosted world leaders like**Margaret Thatcher**,**Mikhail
+      Gorbachev**, &**Vladimir Putin** – Putin’s visit in 2007 was called “The
       Lobster Summit” (reference to Maine’s famous crustacean).
     _key: card-5-c4a42952-26e5-437d-9362-deaa0f39ef82
   - order: 5
+    useCheckmark: true
     body: >-
       For a man who moved 28 times in his adult life, the constant for Pres.
       Bush is Kennebunkport. 300 well-wishers lined the streets waving American

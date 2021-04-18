@@ -20,6 +20,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       So far, Kilauea has destroyed 36+ structures and covered 116+ acres in
       lava, but thankfully, although many have suffered serious injuries, no

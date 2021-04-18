@@ -20,9 +20,11 @@ card_series: Current Events
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: "# “I VOTED”  \n\n\nAn iconic badge of patriotism.\n\nIts origins? A\_little sticky…"
     _key: 73c86404e532
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKSTORY
 
@@ -41,6 +43,7 @@ cards:
       * **1988:** The stickers are widely distributed throughout the U.S.
     _key: a0b87ca9b997
   - order: 2
+    useCheckmark: false
     body: >-
       > “To me, this sticker means that my voice is heard… It means that I have
       spoken up for what I feel is right for myself, my family and this
@@ -51,6 +54,7 @@ cards:
       2020 election and she'd happily do it again.
     _key: edc7ed8d86d8
   - order: 3
+    useCheckmark: false
     body: >-
       > “People who get the sticker have already voted, so they’re motivated
       enough for it to have worked in the first place. If we could find the
@@ -63,6 +67,7 @@ cards:
       Other research shows some vote to avoid shame of not voting.
     _key: 18f7cbf91aed
   - order: 4
+    useCheckmark: true
     body: >-
       "I Voted" stickers vary by state and even sometimes by city or county.
       Send us a photo of your sticker and tell us what your vote means to you.

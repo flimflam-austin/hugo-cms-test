@@ -20,6 +20,7 @@ card_series: Politics
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # What About The President’s Taxes?
 
@@ -31,11 +32,12 @@ cards:
       **What To Know**
     _key: 8e78facc2374
   - order: 1
+    useCheckmark: false
     body: >-
       ## Disclaimer:
 
 
-      * The _New York Times_ says it obtained federal taxes spanning two decades
+      * The_New York Times_ says it obtained federal taxes spanning two decades
       for Pres. Trump and his businesses “by sources with legal access to it”
       but doesn’t say how or from whom.
 
@@ -46,6 +48,7 @@ cards:
       Amendment.
     _key: db0bd713ff88
   - order: 2
+    useCheckmark: false
     body: >-
       ## The NY Times Reports:
 
@@ -59,6 +62,7 @@ cards:
       accounts, write-offs, & uses the presidency for his financial benefit.
     _key: 6b3a371091b9
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -72,6 +76,7 @@ cards:
       taxes to demonstrate financial transparency. Pres. Trump has not.
     _key: 84b14e6e8e00
   - order: 4
+    useCheckmark: false
     body: >-
       ## Two Sides:
 
@@ -86,6 +91,7 @@ cards:
       took advantage of legal tax credits and depreciations.
     _key: 58162f6c76b6
   - order: 5
+    useCheckmark: false
     body: >-
       > “Their numbers were wrong.”
 
@@ -99,6 +105,7 @@ cards:
       releasing one's taxes while under audit.
     _key: 0d20e8ce49c6
   - order: 6
+    useCheckmark: false
     body: >-
       “I think he really is not a very good businessman … The fact that he’s a
       bad businessman does not mean that he’s not also cheating on his taxes.”  
@@ -110,6 +117,7 @@ cards:
       struggling financially.
     _key: a42a52f806cd
   - order: 7
+    useCheckmark: false
     body: >-
       > “_The New York Times_ account of President Trump’s tax returns reveal
       far more than his personal ability to avoid taxes. They show how the tax
@@ -121,8 +129,9 @@ cards:
       presidents.
     _key: 790295865c02
   - order: 8
+    useCheckmark: false
     body: >-
-      “No law barred _The Times_ from publishing its article and if there had
+      “No law barred_The Times_ from publishing its article and if there had
       been one it would in all likelihood be unconstitutional.”
 
 
@@ -133,6 +142,7 @@ cards:
       was authorized or permitted to provide it."
     _key: 65744eb0807a
   - order: 9
+    useCheckmark: true
     body: >-
       We can't confirm NYT's reporting, but we can confirm that nearly half of
       all Americans don't pay federal income taxes because they make either too

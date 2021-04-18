@@ -20,10 +20,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: '> _“Life is a great adventure…accept it in such a spirit.“_'
     citation: THEODORE ROOSEVELT
     _key: a6262fa11eb7
   - order: 1
+    useCheckmark: true
     body: >-
       At 43, Roosevelt became the youngest president to serve, after the
       assassination of Pres. McKinley. Grief led him to explore and love the

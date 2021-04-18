@@ -20,15 +20,18 @@ card_series: Current Events
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # The Matriarch
 
       > Barbara Bush, a first lady who made history, dies at 92.
     _key: card-1-7f089122-80ee-4e2d-a2dd-f1c19b1bb7bc
   - order: 1
+    useCheckmark: false
     body: ">   \n  \n_‘It will not surprise those who know her that Barbara Bush has been a rock in the face of her failing health, worrying not for herself a\x14 thanks to her abiding faith a\x14 but for others.”_  \nJim McGrath, Bush Spokesman\n\n* The former first lady announced days before her death she planned to no longer seek medical treatment.\n* No specific illness disclosed, had thyroid condition for decades."
     _key: card-2-89f84338-248c-4986-a9cd-5cd61ed19ec0
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Bushes: A Love Story
 
@@ -53,6 +56,7 @@ cards:
     citation: Watch Now
     _key: card-3-1f36d3f0-3472-449f-82be-b550f1f0dadf
   - order: 3
+    useCheckmark: false
     body: >-
       ## Family Lynchpin
 
@@ -71,10 +75,12 @@ cards:
     citation: 'Click: for her humor'
     _key: card-4-5f08c23a-a3ce-4ea1-bfc1-bd54705dae7b
   - order: 4
+    useCheckmark: false
     body: "## Her Secret to a Long Life?\n\n> “I have had great medical care and more operations than you would believe. I’m not sure God will recognize me; I have so many new body parts!”  \n  \n  \n  \n“Also, George Bush has given me the world. He is the best a\x14 thoughtful and loving.”\n\nClick: First Lady First"
     citation: 'Click: First Lady First'
     _key: card-5-f0f7f3d7-a572-4679-a81d-5a699bde3961
   - order: 5
+    useCheckmark: true
     body: >-
       Did you know: Barbara Bush is 1 of only 2 first ladies who was also the
       mother of a president. The other was Abigail Adams, wife of John Adams &

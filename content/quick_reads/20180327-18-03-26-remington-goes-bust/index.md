@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Oldest U.S. Gun Maker  
 
@@ -40,6 +41,7 @@ cards:
     citation: Why now?
     _key: card-1-fae9c9ca-0dc8-4818-8990-7a54e4939518
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why Now?
 
@@ -56,6 +58,7 @@ cards:
       Remington gun.
     _key: card-2-a519330c-495e-4f34-b1bd-f7ab8d584c07
   - order: 2
+    useCheckmark: false
     body: >-
       ## To Blame? “Trump Slump”
 
@@ -68,20 +71,22 @@ cards:
       are less motivated.
     _key: card-3-69b70be3-dfb7-4c3b-a38a-e11146fca017
   - order: 3
+    useCheckmark: false
     body: >-
       ## Fact Check: AR-15
 
 
-      * “AR” does **NOT** stand for “automatic rifle” or “assault rifle.”
+      * “AR” does**NOT** stand for “automatic rifle” or “assault rifle.”
 
       * AR = stands for ArmaLite.
 
       * AR-15 = a specific model of a semi-auto rifle produced by ArmaLite.
-      Other gun makers have their own model numbers for similar style weapons.A
-      **Though often used as a general term, an ‘AR’ is a specific gun by a
-      specific company.A**
+      Other gun makers have their own model numbers for similar style
+      weapons.A**Though often used as a general term, an ‘AR’ is a specific gun
+      by a specific company.A**
     _key: card-4-660a3ef4-78dd-4214-a252-5c0955c1a969
   - order: 4
+    useCheckmark: true
     body: >-
       Remington reportedly secured $300M in loans from U.S. banks to proceed
       through bankruptcy. Can the company be saved? Some smaller gun dealers say

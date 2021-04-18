@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _"Never forget where your talent came from, that your talent is a gift
       from God."_
     citation: MICHAEL JACKSON
     _key: card-1-d1ce9b2b-6078-4e9f-a7ac-f6be52a79f80
   - order: 1
+    useCheckmark: true
     body: >-
       Michael Jackson recalling what Ed Sullivan told him during their first
       meeting. On this day, in 1982, the Thriller album debuted - a worldwide

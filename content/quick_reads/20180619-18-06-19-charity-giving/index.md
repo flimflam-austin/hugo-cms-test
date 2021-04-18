@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # CHARITABLE RECORD
 
@@ -34,6 +35,7 @@ cards:
       Feeling Generous?
     _key: card-1-2fc24654-8e47-4ece-85b4-97d05911fb97
   - order: 1
+    useCheckmark: false
     body: >-
       ## STUDY RESULTS
 
@@ -43,13 +45,14 @@ cards:
 
       * Credits “booming stock market & a strong economy.”
 
-      * BUT Americans’A **generosity no higher than decades ago** at 2% of
+      * BUT Americans’A**generosity no higher than decades ago** at 2% of
       disposable income.
 
       * **Foundation donations up 15%**, driven by mega giftsA Michael Dell
       ($1B) & Mark Zuckerberg ($2B).
     _key: card-2-0c529f74-452b-4a59-ab42-5f030b40b2ea
   - order: 2
+    useCheckmark: false
     body: >-
       ## WHY IT MATTERS
 
@@ -60,12 +63,13 @@ cards:
       lower-income & middle-class families.
 
 
-      * Last year, **$4.1B in mega gifts by individuals** vs. $1.49B in 2016.
+      * Last year,**$4.1B in mega gifts by individuals** vs. $1.49B in 2016.
 
       * This as we learn millionaires & billionaires hold almost half of global
       personal wealth.
     _key: card-3-182615ec-2cc6-41cc-ae29-b7b753079b0b
   - order: 3
+    useCheckmark: true
     body: >-
       Need another reason to give? A study last year shows being generous really
       does make you happier - and may even make you healthier. Click for why.

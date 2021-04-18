@@ -20,33 +20,35 @@ card_series: Now You Know
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Move over Cricket, Baseball is coming to London
 
 
-      The **Boston Red Sox** & **New York Yankees**A *reportedly* close to a
-      deal that would bring the teams to **London** for a two-game series **in
-      2019**.
+      The**Boston Red Sox** &**New York Yankees**A *reportedly* close to a deal
+      that would bring the teams to**London** for a two-game series**in 2019**.
 
 
       WHY THIS IS HISTORIC
     citation: WHY THIS IS HISTORIC
     _key: card-1-dcb70928-fd27-4916-8c8b-4322a4fb7b5c
   - order: 1
+    useCheckmark: false
     body: >-
       # The Yanks are Coming
 
 
-      * This would be the **first MLB game ever played in Europe**.
+      * This would be the**first MLB game ever played in Europe**.
 
-      * Each player would receive a **$60K bonus** for participating.
+      * Each player would receive a**$60K bonus** for participating.
 
       * MLB has previously played in Japan, Australia & Mexico.
 
       * Commissioner Rob Manfred has expressed a desire to play games in London,
-      this series would lay groundwork for an **annual return**.
+      this series would lay groundwork for an**annual return**.
     _key: card-2-23123796-0fc1-42b6-8ec5-1670a8029c8b
   - order: 2
+    useCheckmark: false
     body: |-
       # Field Of Dreams
 
@@ -58,6 +60,7 @@ cards:
     citation: ROOT, ROOT, ROOT FOR THE "HOME" TEAM?
     _key: card-3-2af50b1e-5e30-4f6a-9b9d-07bed0327bc8
   - order: 3
+    useCheckmark: false
     body: >-
       # Who Will the Brits Cheer For?
 
@@ -73,6 +76,7 @@ cards:
       Boston a city that still revels in the Tea Party that got the war started.
     _key: card-4-74b04173-969d-4a60-b531-4972812313e7
   - order: 4
+    useCheckmark: true
     body: >-
       Is baseball in London a good business decision? Despite losing money there
       for the last decade, the NFL says "yes". Here's why:

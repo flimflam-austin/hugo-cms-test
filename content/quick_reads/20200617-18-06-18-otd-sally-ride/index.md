@@ -20,12 +20,14 @@ card_series: On This Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # One Giant Leap for WOMANkind
 
       On June 18, 1983, Sally Ride became the 1st American woman in space.
     _key: card-1-edbbf169-83c3-41b0-8ec7-5959db8eecd4
   - order: 1
+    useCheckmark: false
     body: >-
       > “When I was a little girl, I dreamed of flying in space. Amazingly
       enough, and I still can’t believe it, that dream came true. And through
@@ -37,6 +39,7 @@ cards:
       Sally Ride at the 2002 Sally Ride Science Club's Boston Science Festival
     _key: card-2-48bd1323-042c-42d0-96ff-d36b548f2f58
   - order: 2
+    useCheckmark: false
     body: >-
       ## About Dr. Sally Ride:
 
@@ -52,12 +55,13 @@ cards:
       Presidential Medal of Freedom in 2013, a year after her death.
     _key: card-3-d370967a-170c-4dfc-b96e-ead27a3c4b8f
   - order: 3
+    useCheckmark: false
     body: >-
       ## WOMEN IN SPACE
 
 
-      According to NASA, there have been at least **71 female astronauts** in
-      the history of space exploration.
+      According to NASA, there have been at least**71 female astronauts** in the
+      history of space exploration.
 
 
       * Ride was the THIRD woman in space.
@@ -65,6 +69,7 @@ cards:
       * The first two were Soviet cosmonauts.
     _key: card-4-e91b2e92-2c82-482d-874c-509ba70366eb
   - order: 4
+    useCheckmark: true
     body: >-
       Ride was a huge STEM advocate education. In 2010, she helped found the
       Change the Education initiative, a CEO-led effort to raise student

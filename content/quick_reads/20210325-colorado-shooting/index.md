@@ -19,9 +19,11 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: '## The Case in Colorado'
     _key: 892a7ff5ff92
   - order: 1
+    useCheckmark: false
     body: |-
       ##   
       The Victims:
@@ -38,6 +40,7 @@ cards:
       Jodi Waters, 65
     _key: b2112ea3abde
   - order: 2
+    useCheckmark: false
     body: >-
       “He loved his family more than anything. He wasn’t afraid of dying. He was
       afraid of putting them through it.”
@@ -48,6 +51,7 @@ cards:
       20 years old.
     _key: 2b80e440868e
   - order: 3
+    useCheckmark: false
     body: >-
       ##   
 
@@ -56,7 +60,7 @@ cards:
 
       * **Ahmad Al Aliwi Alissa**, 21; resident of a Denver suburb.
 
-      * Reportedly a **naturalized U.S. citizen** whose family emigrated from
+      * Reportedly a**naturalized U.S. citizen** whose family emigrated from
       Syria.
 
       * **Motive unknown.** Charges include 10 counts of 1st degree murder.
@@ -68,6 +72,7 @@ cards:
       crime scene.
     _key: a6e69191aade
   - order: 4
+    useCheckmark: false
     body: >-
       ##   
 
@@ -85,6 +90,7 @@ cards:
       into custody at 3:28 p.m.
     _key: 476ab999278e
   - order: 5
+    useCheckmark: false
     body: >-
       “He always suspected someone was behind him, someone was chasing him.”
 
@@ -96,9 +102,11 @@ cards:
       suspect at this time.
     _key: 45b1356f6283
   - order: 6
+    useCheckmark: false
     body: "_  \n  \n“The suspect’s identity was_\_**_previously known to the F.B.I._**\__because he was linked to another individual under investigation by the bureau, according to law enforcement officials.”_\n\nThe New York Times. The shooter was known to local law enforcement; this report suggests he was also known to federal authorities, raising questions about why and to what extent. How this figures into the investigation is TBD."
     _key: a4bb1016b142
   - order: 7
+    useCheckmark: true
     body: >-
       The alleged shooter is expected to appear in a Colorado courtroom on
       Thursday. His brother added in an interview: "I never thought he would

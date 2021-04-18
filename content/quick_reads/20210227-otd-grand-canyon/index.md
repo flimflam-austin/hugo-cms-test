@@ -19,6 +19,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## February 26, 1919
 
@@ -28,6 +29,7 @@ cards:
       Grand Canyon.
     _key: a7b7ebd696de
   - order: 1
+    useCheckmark: false
     body: >-
       > “The Grand Canyon fills me with awe. It is beyond comparison—beyond
       description; absolutely unparalleled throughout the wide world.”
@@ -40,6 +42,7 @@ cards:
       importance.
     _key: 4e822e6ecaec
   - order: 2
+    useCheckmark: false
     body: >-
       ## John Wesley Powell
 
@@ -56,6 +59,7 @@ cards:
       * Well-known for his work as a map maker, scientist, & conservationist.
     _key: f80d21f8759a
   - order: 3
+    useCheckmark: false
     body: >-
       ## How It Happened
 
@@ -71,6 +75,7 @@ cards:
       National Park Service.
     _key: 1288f237d38d
   - order: 4
+    useCheckmark: true
     body: >-
       Pres. Roosevelt underscored this point about Grand Canyon: "You cannot
       improve on it. But what you can do is to keep it for your children, your

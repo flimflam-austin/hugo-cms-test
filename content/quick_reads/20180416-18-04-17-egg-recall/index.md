@@ -20,34 +20,37 @@ card_series: Health
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Watch What You Eat
 
 
       **1 out of 5 Americans will eat an egg today**…which is why you should
-      know about the **206+ million recalled eggs** due to a potential
-      **salmonella** **contamination**.
+      know about the**206+ million recalled eggs** due to a
+      potential**salmonella****contamination**.
 
 
       FLIP HERE FOR MORE
     citation: FLIP HERE FOR MORE
     _key: card-1-6bf34c72-402e-4682-b9f8-725d8c31778d
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Facts: Egg Recall
 
 
       **23 people ill** due to a “multi-state outbreak” of salmonella linked to
-      eggs from **Rose Acre Farms** (CDC).
+      eggs from**Rose Acre Farms** (CDC).
 
 
       Salmonella can cause serious illnesses & death.
 
 
-      **Rose Acre Farms** sold in **stores & used in restaurants** in 9 states
+      **Rose Acre Farms** sold in**stores & used in restaurants** in 9 states
       (CO, FL, NJ, NY, NC, PA, SC, VA, WV).
     _key: card-2-fa5c941b-b367-405c-89d4-c1e12d1db4f5
   - order: 2
+    useCheckmark: false
     body: >-
       ## How To Protect Yourself:
 
@@ -65,6 +68,7 @@ cards:
     citation: 'Click Here: Specific List'
     _key: card-3-f53ce3fe-7633-4871-9ada-d2013cc2d8f5
   - order: 3
+    useCheckmark: false
     body: >-
       U.S.A: Egg Capital of the World in Both Production & Consumption
 
@@ -80,6 +84,7 @@ cards:
       from 50 years earlier)
     _key: card-4-d64d01d9-d91c-4b2e-8b8b-7b487a201f85
   - order: 4
+    useCheckmark: true
     body: >-
       EGGScellent News: In recent years, eggs have gotten a bad reputation due
       to the high levels of LDL cholesterol and saturated fat found in the

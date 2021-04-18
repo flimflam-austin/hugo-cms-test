@@ -20,20 +20,22 @@ card_series: Current Events
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       IRAN:  
 
-      ON THE BRINK? 
+      ON THE BRINK?
 
 
-      Iranian government at the center of a **crucial meeting** with world
-      powers, an **alleged terrorist plot**, and **domestic unrest** – all the
+      Iranian government at the center of a**crucial meeting** with world
+      powers, an**alleged terrorist plot**, and**domestic unrest** – all the
       while threatening to close one of the world’s crucial waterways.
 
 
       What's Going On
     _key: card-1-64350a0b-0b4b-436d-b4a4-2343a4f341d2
   - order: 1
+    useCheckmark: false
     body: >-
       ## FRIDAY MEETING
 
@@ -48,6 +50,7 @@ cards:
       Others want business w/Iran & no nuclear program.
     _key: card-2-90489a47-e209-4f92-9dee-692277edfb35
   - order: 2
+    useCheckmark: false
     body: >-
       ## What’s Important To Know
 
@@ -62,6 +65,7 @@ cards:
       general blamed “foreign interference” for lack of rain.
     _key: card-3-168149d7-4f7f-4693-af2f-9d3a5f5ee605
   - order: 3
+    useCheckmark: false
     body: >-
       ## In The Meantime…
 
@@ -74,10 +78,11 @@ cards:
 
       * More arrests made in France
 
-      * Iranian diplomat who works in Vienna arrested in Germany; **Iran says
-      not involved**.
+      * Iranian diplomat who works in Vienna arrested in Germany;**Iran says not
+      involved**.
     _key: card-4-a43eba5c-b368-4bf7-81fc-b711149997c5
   - order: 4
+    useCheckmark: true
     body: >-
       As tensions rise, Iran threatens to close a strategic waterway; the U.S.
       Navy patrols these waters and promises to keep them open. Conflict between

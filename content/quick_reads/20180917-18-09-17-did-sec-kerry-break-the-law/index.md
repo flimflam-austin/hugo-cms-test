@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## “A Dangerous New Phase”
 
@@ -33,6 +34,7 @@ cards:
       Why some say he belongs in jail.
     _key: card-1-f9a00940-dfd9-44b6-ba9b-ab6c99807b85
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Backstory
 
@@ -49,6 +51,7 @@ cards:
       Fmr. Sec. Kerry to Hugh Hewitt
     _key: card-2-9f73a7d5-c865-4f44-a60e-a75596157acd
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why This Matters:
 
@@ -62,6 +65,7 @@ cards:
       before Trump’s inauguration.
     _key: card-3-78d1d870-750c-40ed-b5fc-abd2d70ac395
   - order: 3
+    useCheckmark: false
     body: >-
       ## Logan Act
 
@@ -75,9 +79,11 @@ cards:
       years.**
     _key: card-4-b29e2613-f4db-4506-8706-2d3bd1b25916
   - order: 4
+    useCheckmark: false
     body: "> “I’ll leave the legal determinations to others. But what Secretary Kerry has done is unseemly and unprecedented. This is a former secretary of state engaged with the world’s largest state sponsor of terror, and according to him a\x13 right? You don’t have to take my word for it….He was talking to them. He was telling them to wait out this administration.”  \n  \nSec of State Mike Pompeo"
     _key: card-5-16261167-758b-48a4-8aa2-23630762d819
   - order: 5
+    useCheckmark: false
     body: >-
       ## ICYMI: Big Story
 
@@ -92,6 +98,7 @@ cards:
       they support.
     _key: card-6-fbbb81ee-28d3-40cf-a3e7-35444efe132d
   - order: 6
+    useCheckmark: true
     body: >-
       Kerry admitted to speaking to the Iranian Foreign Minister about Yemen,
       Syria, and Iranian backed terrorist organizations, like Hezbollah, and

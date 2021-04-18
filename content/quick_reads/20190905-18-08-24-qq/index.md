@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “We do not want to see what happened in Puerto Rico, and we do that by
       making sure we’re prepared.”  
@@ -34,6 +35,7 @@ cards:
       REFRESHER](https://smarthernews.com/18-08-23-hawaiian-hurricane/)
     _key: card-1-24b6830c-1d84-479a-91eb-4d57aa9dc685
   - order: 1
+    useCheckmark: false
     body: >-
       > “It’s a ridiculous amount of money. No matter how much money you have,
       this amount will take both of us out of our comfort zone.”  
@@ -45,6 +47,7 @@ cards:
       the two are the highest-paid golfers Woods ($43.3M) & Mickelson ($41.3M).
     _key: card-2-8bbe1824-b43f-4b0c-bc90-5aca1694da23
   - order: 2
+    useCheckmark: false
     body: >-
       > “It’s a bold move that will better protect our planet for future
       generations.”  
@@ -57,6 +60,7 @@ cards:
       Approximately 100B plastic, grocery bags are used each year in America.
     _key: card-3-a898c9e5-9e8e-4aca-acf1-f7886f04094c
   - order: 3
+    useCheckmark: false
     body: >-
       > “Any time they don’t leave a trust or will, there always ends up being a
       fight.”  
@@ -70,6 +74,7 @@ cards:
       death.
     _key: card-4-4390a415-465a-4980-b415-064f75b76cf3
   - order: 4
+    useCheckmark: true
     body: |-
       Have a great weekend!
 

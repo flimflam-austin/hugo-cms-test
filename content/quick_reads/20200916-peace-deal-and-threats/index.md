@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Middle East Peace?
 
@@ -29,6 +30,7 @@ cards:
       brokers on notice for an alleged assassination plot.
     _key: 3453f137a4e6
   - order: 1
+    useCheckmark: false
     body: >-
       ## “Abraham Accords”
 
@@ -44,6 +46,7 @@ cards:
       Middle East.”
     _key: dddea2274cd0
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -60,6 +63,7 @@ cards:
       anti-Israel).
     _key: 967f931eecdc
   - order: 3
+    useCheckmark: false
     body: >-
       > “The UAE both betrayed the world of Islam, and [it] betrayed Arab
       nations and regional countries, and [it] also betrayed Palestine.”
@@ -71,6 +75,7 @@ cards:
       Arab neighbors - on the sidelines.
     _key: 44c078961e86
   - order: 4
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -85,6 +90,7 @@ cards:
       receives support from Iran and UAE.
     _key: a0a2e48afbe6
   - order: 5
+    useCheckmark: false
     body: >-
       > “Any attack by Iran, in any form, against the United States will be met
       with an attack on Iran that will be 1,000 times greater in magnitude!”
@@ -97,6 +103,7 @@ cards:
       leader Soleimani."
     _key: d6115838336f
   - order: 6
+    useCheckmark: true
     body: >-
       The pacts are called the "Abraham Accords" for Abraham, a key figure in 3
       of the world's major religions: Judaism, Islam, & Christianity. One of the

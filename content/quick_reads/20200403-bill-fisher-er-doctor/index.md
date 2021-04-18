@@ -20,6 +20,7 @@ card_series: SmartHER News
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“To abandon ship during the greatest public health crisis of our
       lifetimes is inconceivable to me. A ship is safe in harbor, but that’s not
@@ -27,6 +28,7 @@ cards:
     citation: DR. BILL FISHER
     _key: a7cb48c6d342
   - order: 1
+    useCheckmark: true
     body: >-
       Fmr. NASA astronaut Dr. Fisher went to work in a Texas emergency room
       today, sharing he was "more concerned" about heading into the hospital

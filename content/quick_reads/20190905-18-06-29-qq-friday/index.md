@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “If you have evidence of wrongdoing by any member of the Trump campaign,
       present it to the damn grand jury. If you have evidence that this
@@ -33,6 +34,7 @@ cards:
       Attorney General Rod Rosenstein during a hearing on the Mueller probe.
     _key: card-1-9b90f9ac-a569-4913-9746-49eef49a48c7
   - order: 1
+    useCheckmark: false
     body: >-
       > “There is nothing more terrifying than hearing multiple people get shot
       while you’re under your desk and then hear the gunman reload.”  
@@ -44,6 +46,7 @@ cards:
       office, which left five people dead and dozens others gravely injured.
     _key: card-2-24d61152-55ae-4d89-99ae-93af1b68a120
   - order: 2
+    useCheckmark: false
     body: >-
       > ‘Infrastructure improvements continue at Yongbyon.A Underscores reason
       why an actual deal is necessary, not just a statement of lofty goals.”  
@@ -57,6 +60,7 @@ cards:
       ago.
     _key: card-3-b1a24a96-b1df-47a0-8e66-e4f3a31e09a0
   - order: 3
+    useCheckmark: false
     body: >-
       > ‘We cannot lose even one inch of the territory left behind by our
       ancestors.”  
@@ -73,6 +77,7 @@ cards:
     citation: SMARTHER Refresher
     _key: card-4-8c9c49dd-d268-4983-bee1-1142cd919e18
   - order: 4
+    useCheckmark: false
     body: >-
       > ‘I’m proud to have been arrested with them to put myself in the camp of
       people who believe that the United States of America is better and as a
@@ -87,6 +92,7 @@ cards:
       policies.
     _key: card-5-35a93448-ed2a-4771-9347-32446fcf6717
   - order: 5
+    useCheckmark: true
     body: |-
       Have a wonderful weekend!
 

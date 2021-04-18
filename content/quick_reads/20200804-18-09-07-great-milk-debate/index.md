@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## Think The Hottest Debate In America Is Political?
 
@@ -31,6 +32,7 @@ cards:
       Why It Matters
     _key: card-1-13417175-3f76-4780-93b9-3cd0dca68ed7
   - order: 1
+    useCheckmark: false
     body: >-
       > “An almond doesn’t lactate.”  
         
@@ -45,6 +47,7 @@ cards:
       Watch](https://www.politico.com/video/2018/07/17/fda-commissioner-on-milk-regulation-an-almond-doesnt-lactate-067140)
     _key: card-2-37f823ce-9613-4ac2-a6c1-7aa99eb1ed7a
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why This Matters
 
@@ -58,6 +61,7 @@ cards:
       “protecting” the milk label.
     _key: card-3-d44cf1ca-bda6-4328-9dcf-623cdbdda817
   - order: 3
+    useCheckmark: false
     body: >-
       > “No one owns the English language, and we’re not backing down.”  
         
@@ -69,6 +73,7 @@ cards:
       remains questionable.
     _key: card-4-c0e59f3b-aa8e-4efd-a8ad-be4184854ded
   - order: 4
+    useCheckmark: true
     body: >-
       Laws DO exist to protect certain products, such as "bourbon" (whiskey
       produced in the United States in a particular way). Will that extend to

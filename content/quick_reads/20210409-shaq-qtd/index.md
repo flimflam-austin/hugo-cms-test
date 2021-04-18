@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“I’m into making people happy. So, whenever I leave the house, I just
       try to do a good deed.”_

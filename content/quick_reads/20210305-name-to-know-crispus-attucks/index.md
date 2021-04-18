@@ -19,6 +19,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## March 5, 1770
 
@@ -34,6 +35,7 @@ cards:
       Pres. John Adams
     _key: e48defbaeefb
   - order: 1
+    useCheckmark: false
     body: >-
       ## Crispus Attucks
 
@@ -49,6 +51,7 @@ cards:
       liberty.
     _key: b4704d5eef78
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -63,6 +66,7 @@ cards:
       widely-known.
     _key: e9bdb303a07c
   - order: 3
+    useCheckmark: true
     body: >-
       Lawyer & future U.S. Pres. John Adams' defense of British soldiers led to
       their acquittal in an American court... an irony since the "Boston

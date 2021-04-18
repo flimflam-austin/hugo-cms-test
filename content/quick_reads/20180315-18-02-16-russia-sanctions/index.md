@@ -20,13 +20,14 @@ card_series: From the President's Desk
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       U.S. Sanctions Russia  
 
       For “Nefarious Attacks”
 
 
-      White House announces **new** sanctions against Russia – the **FIRST** for
+      White House announces**new** sanctions against Russia – the**FIRST** for
       meddling in the 2016 elections.
 
 
@@ -38,6 +39,7 @@ cards:
     citation: Flip For More
     _key: card-1-9ed2eade-8fb3-4f76-8810-8f0952216bd5
   - order: 1
+    useCheckmark: false
     body: >-
       > ‘The Administration is confronting and countering malign Russian cyber
       activity, including their attempted interference in U.S. elections,
@@ -49,9 +51,11 @@ cards:
       Treasury Secretary Steven Mnuchin, Press Release Mar. 15, 2018
     _key: card-2-5c815cb3-9153-416a-adc2-6bf5cf747a0e
   - order: 2
+    useCheckmark: false
     body: "What You Need To Know:  \nNew Sanctions\n\n**Who:** Targets 5 Russian “entities” & 19 Russian individuals.\n\n**Why:** Not only meddling in our elections but major cyber attacks targeting everything from American ground, water & sky a\x14 our power grid, manufacturing facilities, aviation systems & even our nuclear power plants."
     _key: card-3-bdf38fe5-12c4-4e4f-ab30-0931ef2e6c88
   - order: 3
+    useCheckmark: false
     body: >-
       ## Timing Matters
 
@@ -65,6 +69,7 @@ cards:
       to win.
     _key: card-4-93b071c5-a072-4c32-b8e2-620811770792
   - order: 4
+    useCheckmark: false
     body: >-
       > “This use of a military-grade nerve agent, of a type developed by
       Russia, constitutes the first offensive use of a nerve agent in Europe
@@ -80,6 +85,7 @@ cards:
     citation: View Statement
     _key: card-5-dd7d3e48-cd4c-4ef9-a2a3-5d9b08c2f6be
   - order: 5
+    useCheckmark: false
     body: >-
       Sanctions Also Address:  
 
@@ -95,9 +101,10 @@ cards:
 
       * Several hospitals in U.S. unable toA create electronic records.
 
-      * Attributed to **Russia military**.
+      * Attributed to**Russia military**.
     _key: card-6-4f7a69d0-2651-4f54-b882-e2db0469c2cd
   - order: 6
+    useCheckmark: false
     body: >-
       ## What Do Sanctions Really Do?
 
@@ -109,6 +116,7 @@ cards:
       _U.S. Treasury Department_
     _key: card-7-45a4a12a-94a9-4c51-a651-11e4a3026b9c
   - order: 7
+    useCheckmark: false
     body: >-
       > ‘The Americans have no grounds for introducing new sanctions. We have
       moved to prepare our own measures in response.’  
@@ -119,6 +127,7 @@ cards:
       News Agency quoted in Wall Street Journal, Mar 15, 2018
     _key: card-8-e5dcb6a1-015d-4c6a-b439-6a7503cf800f
   - order: 8
+    useCheckmark: true
     body: >-
       Are sanctions effective? It's debatable. Some say this move by WH is
       "symbolic" but important. Others say it's not enough. We thought an

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “The Memo” Hypnotizing DC
 
@@ -33,6 +34,7 @@ cards:
       * IncludesA controversial classified info about surveillance by the FBI.
     _key: card-1-2dacc16f-ba5f-43ce-8e51-693a290d3e1a
   - order: 1
+    useCheckmark: false
     body: >-
       ## “The Memo”: Why It Matters
 
@@ -46,6 +48,7 @@ cards:
     citation: Flip For More
     _key: card-2-3378244a-a8cc-4f3c-8306-dde732940c37
   - order: 2
+    useCheckmark: false
     body: >-
       ## “The Memo”: Why It Matters
 
@@ -54,6 +57,7 @@ cards:
       worked for the opposition research firm and was personally anti-Trump.
     _key: card-3-1efc3192-0e7f-43e6-be89-df7ac557050f
   - order: 3
+    useCheckmark: false
     body: >-
       # Bottom Line Analysis
 
@@ -67,6 +71,7 @@ cards:
       Tom Bevan, Real Clear Politics, Co-Founder & Publisher
     _key: card-4-e352678d-b21f-486d-abe4-c08ce42fcd48
   - order: 4
+    useCheckmark: false
     body: |-
       # “The Memo”
 
@@ -77,6 +82,7 @@ cards:
       * POTUS: Approved release of memo.
     _key: card-5-938c45a9-a691-4e73-97dd-3c128e74ca07
   - order: 5
+    useCheckmark: false
     body: >-
       # The President Says
 
@@ -91,6 +97,7 @@ cards:
     citation: '@RealDonaldTrump'
     _key: card-6-f8d50c11-97df-4aed-9c2d-637677be337d
   - order: 6
+    useCheckmark: false
     body: >-
       > “…it’s clear that top officials used unverified information in a court
       document to fuel a counter-intelligence investigation during an American
@@ -101,6 +108,7 @@ cards:
       Devin Nunes (R-CA) Chair of House Intelligence Cmte, Jan 31, 2018
     _key: card-7-206ebd25-9e84-4a36-8ee3-8547d31b1a37
   - order: 7
+    useCheckmark: false
     body: >-
       > “The decision by Nunes to employ an obscure rule to release classified
       information for partisan political purposes crossed a dangerous line, and
@@ -112,9 +120,11 @@ cards:
       @RepAdamSchiff
     _key: card-8-8c95c9dc-613a-4a84-b948-f9a507a05684
   - order: 8
+    useCheckmark: false
     body: "# What You Should Know: FBI\n\n* FBI statement:A A “grave concerns” about memo’s accuracy\n* Surveillance of Americans by the FBI is approved throughA FISA courts a\x13 similar to getting a warrant in aA classifiedA setting.\n* However, if you’re “spied” on by FBI, you would not be told."
     _key: card-9-b9d1057e-8592-45af-b86a-e841751e0bfd
   - order: 9
+    useCheckmark: true
     body: |-
       Here's The Memo & Other Links:
 

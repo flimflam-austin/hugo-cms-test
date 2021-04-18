@@ -20,6 +20,7 @@ card_series: Travel
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       SmartHER Adventure:  
 
@@ -30,9 +31,10 @@ cards:
       game day getaway.
     _key: card-1-172f3312-40f2-4266-b98e-15e38ac0c63c
   - order: 1
+    useCheckmark: false
     body: >-
       > “You don’t need to be Irish, & it doesn’t matter your college team
-      allegiances.A Heck, maybe you’re just a fan of the movieA _Rudy_. A Notre
+      allegiances.A Heck, maybe you’re just a fan of the movieA_Rudy_. A Notre
       Dame football weekend is a once-in-a-lifetime experience.”  
         
         
@@ -45,6 +47,7 @@ cards:
       Now](https://www.youtube.com/embed/8r0PfgtJvHU?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-6c47b1ff-782a-4f73-b77b-3fef4863d6c1
   - order: 2
+    useCheckmark: false
     body: >-
       ## Key to Success: Start Early
 
@@ -58,6 +61,7 @@ cards:
       of Chicago.
     _key: card-3-4526bcba-e94f-4bd4-ab5d-449c322c2bb6
   - order: 3
+    useCheckmark: false
     body: >-
       ## Game Weekend
 
@@ -73,6 +77,7 @@ cards:
       [CLICK: Game Day Events](http://gameday.nd.edu/events/)
     _key: card-4-d6f95db3-59de-47a8-a6b2-300cc688af13
   - order: 4
+    useCheckmark: false
     body: >-
       Keep Your Camera Handy
 
@@ -82,6 +87,7 @@ cards:
       and get an autograph.
     _key: card-5-0723f9dd-df9e-4a89-8c21-318c509a858c
   - order: 5
+    useCheckmark: true
     body: >-
       College football kicks off this Saturday! Notre Dame is ranked #12
       (Alabama is #1). Time to pack your bags -- but read on to learn why you

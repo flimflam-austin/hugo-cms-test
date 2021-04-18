@@ -20,6 +20,7 @@ card_series: Podcast
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > A conversation with White House Photographer Paul Morse
 
@@ -28,6 +29,7 @@ cards:
       Listen](http://smarthernews.libsyn.com/smarther-news-ep7-white-house-photog-paul-morse)
     _key: card-1-8eced8a6-6c8a-408d-9a8a-e401d276f09b
   - order: 1
+    useCheckmark: false
     body: >-
       > “There was a certain graciousness about all of them…and when the cameras
       aren’t on them, the true personalities are there and they’re really
@@ -39,6 +41,7 @@ cards:
       Photographer Paul Morse on working with President Bush, Clinton & Obama.
     _key: card-2-abac1d48-3a55-4911-83a8-5af78a7efa22
   - order: 2
+    useCheckmark: true
     body: >-
       View more of Paul's photos on our YouTube Channel and listen to his full
       story on our podcast.

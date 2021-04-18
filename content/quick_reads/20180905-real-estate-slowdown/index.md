@@ -20,11 +20,12 @@ card_series: Money
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # REALTY CHECK
 
 
-      Foreclosures – while still historically low – are rising in **nearly half
+      Foreclosures – while still historically low – are rising in**nearly half
       of U.S. housing markets.** Is it the latest sign of a broader real estate
       slowdown?
 
@@ -32,11 +33,12 @@ cards:
       Maybe...
     _key: card-1-1f2c0df2-9bb5-4d9b-9164-0d0da39d7f36
   - order: 1
+    useCheckmark: false
     body: >-
       ## What To Know:
 
 
-      > ‘The increase in foreclosure starts is **not just a one-month anomaly**
+      > ‘The increase in foreclosure starts is**not just a one-month anomaly**
       in many local markets given that July represented the third consecutive
       month with a year-over-year increase in 33 metro areas, including Los
       Angeles, Miami, Houston, Detroit, San Diego and Austin.”  
@@ -46,6 +48,7 @@ cards:
       Daren Blomquist, ATTOM Data Solutions SVP, a property data firm
     _key: card-2-ad8009a7-c4e8-47d8-965f-66b3d49b3db0
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why it Matters
 
@@ -59,6 +62,7 @@ cards:
       market.
     _key: card-3-8f06955a-83df-48ac-b52b-9cef7a4b4f2d
   - order: 3
+    useCheckmark: false
     body: >-
       ## Cause For Concern?
 
@@ -74,6 +78,7 @@ cards:
       * **Fewer Foreign Buyers:** Overseas purchases down a record 21%.
     _key: card-4-00eb6698-1f16-47b8-afdc-af917d00dc91
   - order: 4
+    useCheckmark: true
     body: >-
       Housing faces an uncertain future. A new study finds a record low
       percentage of millennials think buying a home is a good investment.

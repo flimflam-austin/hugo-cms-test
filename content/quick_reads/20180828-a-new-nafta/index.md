@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # TRADING UP?
 
@@ -30,6 +31,7 @@ cards:
       A *new* NAFTA?
     _key: card-1-009a15fd-3d17-4bd0-b589-d4d3cf255783
   - order: 1
+    useCheckmark: false
     body: >-
       ## NAFTA 101
 
@@ -44,6 +46,7 @@ cards:
       says it allowed American jobs to go to Mexico; many disagree.
     _key: card-2-988621f7-7016-4281-b664-0796c5230d4c
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Now?
 
@@ -58,6 +61,7 @@ cards:
       pressure on Congress to act before or after midterm elections.
     _key: card-3-625359bd-a80d-4cc0-a19d-429274c5b3ce
   - order: 3
+    useCheckmark: false
     body: >-
       ## What’s At Stake?
 
@@ -66,20 +70,21 @@ cards:
 
 
       One example of many potential changes: New “NAFTA” agreement reportedly
-      requires **more** U.S. car parts made in America with more U.S. material
+      requires**more** U.S. car parts made in America with more U.S. material
       (like steel) in exchange for the “no tax” benefit for companies.
 
 
       The Concern?
     _key: card-4-8102ceee-4857-43f3-be0c-372b7c664a85
   - order: 4
+    useCheckmark: false
     body: >-
       ## Cost To Consumer
 
 
       > ‘The industry is hopeful that any changes to Nafta auto rules of origin
-      continue to strike the right balance by **incentivizing production and
-      investment in North America** while keeping new vehicles **affordable for
+      continue to strike the right balance by**incentivizing production and
+      investment in North America** while keeping new vehicles**affordable for
       more Americans**.’  
         
         
@@ -87,6 +92,7 @@ cards:
       Alliance of Auto Manufacturers
     _key: card-5-041c77c8-500e-4fbe-9c20-58d430cb84d4
   - order: 5
+    useCheckmark: true
     body: >-
       The North American Trade Agreement was a result of a trifecta of Mexico,
       Canada & the U.S. Since the U.S. & Mexico have a working template, the big

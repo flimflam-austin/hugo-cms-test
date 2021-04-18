@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "We want children to rediscover the real, that connection to the
       concrete, to nature, to do doing things with their hands, to contact with
@@ -32,6 +33,7 @@ cards:
       advancements.
     _key: card-1-3295434a-75d3-44bf-9968-96cb1ae39c83
   - order: 1
+    useCheckmark: false
     body: >-
       > “I’ve been sleeping next to this kidney for thirty years. It knows me.A
       So I’m hoping it stays with me for a good long time.”  
@@ -44,6 +46,7 @@ cards:
       team."
     _key: card-2-a95ef78b-46ce-4e1b-9a0c-38e0ad197953
   - order: 2
+    useCheckmark: false
     body: >-
       > “I’ll just leave that to your imagination.”  
         
@@ -55,9 +58,11 @@ cards:
       the President is not fit for office.
     _key: card-3-d788846e-dda7-431a-bb80-083a662aeaf1
   - order: 3
+    useCheckmark: false
     body: "\"The very idea a staff member would sneak a recording device into the White House Situation Room, shows a blatant disregard for our national security a\x13 and then to brag about it on national television further proves the lack of character and integrity of this disgruntled former White House employee.”  \n  \n  \nWH Press Sec. Sarah Huckabee Sanders in response to Omarosa Manigault Newman's first national interviews."
     _key: card-4-66ddc312-c184-4b8e-b65f-6fdb68c66452
   - order: 4
+    useCheckmark: true
     body: >-
       Check out our source page for a SmartHER Take on kids and cell phones. Do
       you think an all-out ban on cell phones in American schools would work?

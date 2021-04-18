@@ -19,6 +19,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Time For “Perseverance”
 
@@ -29,6 +30,7 @@ cards:
       most challenging task lies ahead: surviving the “seven minutes of terror.”
     _key: e3e3f3034d7a
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why “Perseverance”?
 
@@ -43,12 +45,13 @@ cards:
       * About the size of a small car and weighs over 2,000 pounds.
     _key: 09e74582c642
   - order: 2
+    useCheckmark: false
     body: >-
       ## “Seven Minutes Of Terror”
 
 
       * In just 7 minutes, the rover will descend towards Mars & go from 12,000
-      mph to 2 mph in order to softly land… **completely autonomously.**
+      mph to 2 mph in order to softly land…**completely autonomously.**
 
       * Why the terror? The 11-minute communication delay from Mars to Earth
       means that when NASA’s Mission Control Center is alerted of the rover’s
@@ -56,6 +59,7 @@ cards:
       already have happened.
     _key: 4e2c2fb46162
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -71,6 +75,7 @@ cards:
       leaving much of it unexplored.
     _key: dba590062a23
   - order: 4
+    useCheckmark: false
     body: >-
       > “It’s just a matter of executing… Now, we just have to trust in our team
       and the hard work that we’ve put in until now, to see us through to the
@@ -82,6 +87,7 @@ cards:
       this project over the last decade.
     _key: e8e29459c217
   - order: 5
+    useCheckmark: true
     body: >-
       Perseverance is set to land around 3:55 est on Mars. We have a list of how
       to watch the event on our source page.

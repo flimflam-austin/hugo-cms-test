@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # COVID “Cocooning”
 
@@ -31,6 +32,7 @@ cards:
       What It Is & Why It Matters
     _key: 309499cf6d6a
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Is Cocooning?
 
@@ -39,16 +41,18 @@ cards:
       susceptible to severe cases of COVID-19, such as nursing home residents.
 
       * Instead of a one-size-fits-all approach to social mitigation, the
-      strategy suggests **doubling-down protection efforts for those most
+      strategy suggests**doubling-down protection efforts for those most
       vulnerable**.
 
       * Those cocooning would follow strict social distancing measures,
       essentially self-isolate, work from home, etc.
     _key: 1688851e734b
   - order: 2
-    body: "## The Recent Research\n\n* University of Texas, Austin.\n* Researchers analyzed transmission & case data of the “fastest-growing large city area” in the U.S. — Austin, Texas.\n* **One Take-Away:**\__“**postponing**_\__relaxation (of social mitigation efforts) will only delay future disease waves.”_\n* Researchers argue cocooning **prevents** higher hospitalizations and deaths, **preserving** resources & saving lives, while allowing others to “relax.”"
+    useCheckmark: false
+    body: "## The Recent Research\n\n* University of Texas, Austin.\n* Researchers analyzed transmission & case data of the “fastest-growing large city area” in the U.S. — Austin, Texas.\n* **One Take-Away:**\__“**postponing**_\__relaxation (of social mitigation efforts) will only delay future disease waves.”_\n* Researchers argue cocooning**prevents** higher hospitalizations and deaths,**preserving** resources & saving lives, while allowing others to “relax.”"
     _key: 9d6bf391128c
   - order: 3
+    useCheckmark: false
     body: >-
       > “Leaky cocooning can substantially undermine containment.”
 
@@ -59,6 +63,7 @@ cards:
       orders, as long as strict adherence for those "cocooned" takes place.
     _key: 41d72f97c316
   - order: 4
+    useCheckmark: true
     body: >-
       While COVID cases climb in certain states, the national average of new
       daily cases currently hovers at 50,000. In July, it topped 66,000.

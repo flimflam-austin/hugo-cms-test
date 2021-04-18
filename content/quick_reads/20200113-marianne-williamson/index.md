@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“Things are changing swiftly and dramatically in this country, and I
       have faith that something is awakening among us. A politics of conscience
@@ -27,6 +28,7 @@ cards:
     citation: MARIANNE WILLIAMSON
     _key: 8fc88e32234b
   - order: 1
+    useCheckmark: true
     body: >-
       Spiritual adviser & best-selling author Marianne Williamson suspended her
       2020 presidential campaign. Her departure (and Sen. Cory Booker's on

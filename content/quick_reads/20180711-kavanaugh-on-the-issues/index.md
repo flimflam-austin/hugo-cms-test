@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## WHERE DOES HE STAND?
 
@@ -34,6 +35,7 @@ cards:
       the land?
     _key: card-1-9a5bece2-4c84-48dd-b976-d0d67eabc326
   - order: 1
+    useCheckmark: false
     body: >-
       ## RE: A President facing criminal investigations
 
@@ -46,6 +48,7 @@ cards:
       "criminal investigations and prosecutions."
     _key: card-2-e68b2c48-7f01-45e6-ab8d-328f3c95f0ab
   - order: 2
+    useCheckmark: false
     body: >-
       ## RE: Gun Rights
 
@@ -58,9 +61,11 @@ cards:
       includes the right to own semi-automatic rifles.
     _key: card-3-0f4571a2-f6f1-4050-acc2-57573dde8aab
   - order: 3
+    useCheckmark: false
     body: "## RE: Gov’t Surveillance\n\n> “….the Government’s metadata collection program is entirely consistent with the Fourth Amendment.”  \n  \n  \nKavanaugh in a 2015 ruling on the National Security Agency’s collection of phone records. He went on to say that the Government’s program for bulk collection of 2 telephony metadata serves a critically important special need a\x13 preventing terrorist attacks on the United States."
     _key: card-4-39804fe5-0dec-49eb-879c-2108ac144eed
   - order: 4
+    useCheckmark: false
     body: >-
       ## RE: Abortion
 
@@ -74,6 +79,7 @@ cards:
       immigrant teen could be released from custody to obtain an abortion.
     _key: card-5-293d6101-cf9e-4caf-9df3-91b8690b26fb
   - order: 5
+    useCheckmark: true
     body: >-
       Some critics of the Affordable Care Act point the finger at Kavanaugh
       because the Supreme Court echoed his logic from an earlier case regarding

@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “_Talk to the person sitting alone. Hug a crying child. Say hello to a
       stranger. Call a friend having a hard time. Take a moment to do something
@@ -28,6 +29,7 @@ cards:
     citation: Ashley Hoff
     _key: card-1-d51e1f0f-5ce4-40a5-a696-85b24bbef691
   - order: 1
+    useCheckmark: true
     body: >-
       Hoff and her husband sat in the fourth row at the Route 91 Harvest Music
       Festival in Las Vegas on October 1, 2017 when 58 people were murdered.

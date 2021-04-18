@@ -20,6 +20,7 @@ card_series: Entertainment
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Best Selling Book Debuts On Broadway
 
@@ -30,6 +31,7 @@ cards:
       Play staged in two parts seen on one day or on different nights.
     _key: card-1-735901e2-0556-491e-bff1-627590c4adf6
   - order: 1
+    useCheckmark: false
     body: >-
       # ‘Harry Potter and the Cursed Child”
 
@@ -45,6 +47,7 @@ cards:
       “Frozen”
     _key: card-2-8e411c6c-28ed-4741-8d1a-13ff46ddb9d0
   - order: 2
+    useCheckmark: false
     body: >-
       # Pre-show jitters?
 
@@ -57,6 +60,7 @@ cards:
       best selling book series to Broadway, Feb. 21, 2018
     _key: card-3-e11d06cd-c104-4451-a44a-0f796b0d1344
   - order: 3
+    useCheckmark: false
     body: >-
       # Pure Magic!
 
@@ -68,12 +72,13 @@ cards:
 
       * **500M** books sold worldwide
 
-      * Translated into **80 languages**
+      * Translated into**80 languages**
 
       * **20 years** since first book “Harry Potter and the Sorcerer’s Stone”
       was published (still the bestseller of the series)
     _key: card-4-f3987d21-115f-4d3c-afd2-70ebb71f8819
   - order: 4
+    useCheckmark: false
     body: |-
       # No Potter without an 8-year-old’s approval?
 
@@ -84,6 +89,7 @@ cards:
       But only after its Chairman’s young daughter couldn’t put the book down.
     _key: card-5-6a677a07-83db-4af2-9268-357d646dc233
   - order: 5
+    useCheckmark: true
     body: |-
       For More Potter-Palooza Click Here!
 

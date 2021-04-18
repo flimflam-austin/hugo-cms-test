@@ -20,10 +20,12 @@ card_series: smarther news
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: '> _“The simple fact is this election is far from over.”_'
     citation: PRESIDENT TRUMP
     _key: 86e8c319c91a
   - order: 1
+    useCheckmark: true
     body: >-
       While the President did not speak publicly after the presidential race was
       called for former Vice-President Biden, he did issue a statement. You can

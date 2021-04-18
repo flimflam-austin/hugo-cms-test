@@ -20,6 +20,7 @@ card_series: Entertainment
 colorpaletteclassname: '--bronze'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Prince To Prince
 
@@ -27,16 +28,16 @@ cards:
       ## ‘Black Panther’ Heads To House of Saud
 
 
-      Two weeks after the **Saudi Crown Prince** met with the head of Walt
-      Disney in Los Angelesa|aA Disney movie, featuring a groundbreaking
-      **prince**, headlines as the first movie shown in Saudi Arabia in 35
-      years.
+      Two weeks after the**Saudi Crown Prince** met with the head of Walt Disney
+      in Los Angelesa|aA Disney movie, featuring a groundbreaking**prince**,
+      headlines as the first movie shown in Saudi Arabia in 35 years.
 
 
       Flip For Why It Matters
     citation: Flip For Why It Matters
     _key: card-1-f975bc32-6b6f-4fd5-ba58-e8d37b09dcfb
   - order: 1
+    useCheckmark: false
     body: >-
       # Why Now?
 
@@ -47,7 +48,7 @@ cards:
       * Movie theaters are part of Prince’s “**Vision 2030**” plan to reform
       Saudi Arabia & diversify economy.
 
-      * Movie industry estimated to bring in **$30B** & **30,000 jobs by 2030**.
+      * Movie industry estimated to bring in**$30B** &**30,000 jobs by 2030**.
 
 
       [click here:
@@ -55,29 +56,31 @@ cards:
     citation: 'click here: Catch-Up'
     _key: card-2-ac70a0b3-17d5-4a60-a66d-4ff1398e5d2b
   - order: 2
+    useCheckmark: false
     body: >-
       # Money & Politics
 
 
-      * Majority of the Saudi kingdom **under age of 25**.
+      * Majority of the Saudi kingdom**under age of 25**.
 
-      * 32-year-old Crown Prince is a **millennial** himself and could rule for
+      * 32-year-old Crown Prince is a**millennial** himself and could rule for
       the rest of our lifetimes.
 
-      * Domestic Priority: **HIGH unemployment** (esp for youth).
+      * Domestic Priority:**HIGH unemployment** (esp for youth).
 
-      * Economy: **Dependent on oil**.
+      * Economy:**Dependent on oil**.
 
       * **Reforms geared towards the young but keeping the Saudi royal kingdom
       intact**.
     _key: card-3-eb037574-bc4c-47fb-9acf-39dabff3cecc
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
 
       * Saudi Arabia may allow American movies, orA partner w/U.S. in certain
-      areas of foreign policy, but its **not a democracy**.
+      areas of foreign policy, but its**not a democracy**.
 
       * Saudi Arabia home to 2 holiest sites in Islam – important to entire
       Muslim world – millions make pilgrimages to sites.
@@ -86,6 +89,7 @@ cards:
       show movies.
     _key: card-4-f418fecb-17a2-40b7-9dc0-2ab4db226be2
   - order: 4
+    useCheckmark: false
     body: >-
       ## So Why Outlaw Movies?
 
@@ -104,9 +108,11 @@ cards:
     citation: Watch Now
     _key: card-5-454ac2e7-56f9-40e8-974b-11ec91e9d2be
   - order: 5
+    useCheckmark: false
     body: "> “Films are slightly edited and modified to reflect sensitivity to the local culture here in the region. But even with those modest edits a\x14 you can imagine what they are, sexuality and nudity are out a\x14 but we believe that those edits will be quite modest.”  \n  \n  \n  \nAdam Aron, AMC Chief Executive, to CNBC April 18, 2018. He said the company rushed in when they heard of an opportunity in Saudi Arabia."
     _key: card-6-ed31b05c-a5cf-4d58-a42b-cc6cf6e4ee0d
   - order: 6
+    useCheckmark: true
     body: >-
       AMC plan to open 40 theaters over the next 5 years in Saudi Arabia. Next
       movies? "Rampage" & "The Avengers"

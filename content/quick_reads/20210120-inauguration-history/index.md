@@ -19,9 +19,11 @@ card_series: Now You Know
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
-    body: "# The New Beginning\n\nThe U.S. Constitution has **ONE**\_**requirement** for the new president on Inauguration Day – the rest has become tradition.\n\nWhat It Is. Why It Matters."
+    useCheckmark: false
+    body: "# The New Beginning\n\nThe U.S. Constitution has**ONE**\_**requirement** for the new president on Inauguration Day – the rest has become tradition.\n\nWhat It Is. Why It Matters."
     _key: 9d049ecc7fb3
   - order: 1
+    useCheckmark: false
     body: >-
       > ”I do solemnly swear (or affirm) that I will faithfully execute the
       Office of President of the United States, and will to the best of my
@@ -33,9 +35,11 @@ cards:
       oath as a requirement for a new president to take office.
     _key: e87474cf1828
   - order: 2
+    useCheckmark: false
     body: "## The First Inauguration Day\n\n* **April 1789:** Pres. George Washington traveled from his home in VA to the nation’s then-capital: New York City.\n* He took the oath of office on an outdoor balcony in front of a large crowd, his hand on a Bible – thus beginning the current tradition. His inaugural address was given in the Senate chamber to Congress.\n* Fireworks erupted across the city in the evening,\_concluding the festivities."
     _key: 73ae974a6984
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why January 20?
 
@@ -43,33 +47,37 @@ cards:
       * Inauguration Day used to take place on March 4 due to how long it took
       to collect & count votes.
 
-      * The **20th Amendment** in 1933 changed Inauguration Day to Jan. 20.
+      * The**20th Amendment** in 1933 changed Inauguration Day to Jan. 20.
 
       * The Constitution states one presidential term is ended and the new one
       begins at noon on the 20th, and has only one other specific requirement
-      for the day: **the new president must take an oath of office.**
+      for the day:**the new president must take an oath of office.**
     _key: a60c750b8e68
   - order: 4
-    body: "## The Inaugural Ceremony\n\n* Besides D.C., past inaugurations have taken place in 4 states: NY, PA, VT & TX (on Air Force One after assassination of Pres. Kennedy).\n* **Pres. Jefferson (1801):** first inauguration at the U.S. Capitol (Senate’s chamber).\n* **Pres. Monroe (1817):\_**first inauguration held **outside** at the U.S. Capitol.\n* **Ronald Reagan (1981):** first inauguration held on the West Front of the Capitol, where it will be held yet again this year."
+    useCheckmark: false
+    body: "## The Inaugural Ceremony\n\n* Besides D.C., past inaugurations have taken place in 4 states: NY, PA, VT & TX (on Air Force One after assassination of Pres. Kennedy).\n* **Pres. Jefferson (1801):** first inauguration at the U.S. Capitol (Senate’s chamber).\n* **Pres. Monroe (1817):\_**first inauguration held**outside** at the U.S. Capitol.\n* **Ronald Reagan (1981):** first inauguration held on the West Front of the Capitol, where it will be held yet again this year."
     _key: 74887b3194d4
   - order: 5
+    useCheckmark: false
     body: "## Why Outside The Capitol?\n\n**A disagreement between lawmakers back in 1817 may have helped inspire the tradition of an outside inauguration:**\n\n> _“…when a_\_**_small feud ensued between the Senate and the House of Representatives over which chairs_**\__would be used in the House chamber, the venue changed to an outdoor platform in front of the building.”_"
     _key: 2479397e14ff
   - order: 6
+    useCheckmark: false
     body: >-
       ## The Parade
 
 
-      * Inaugural parades began as an informal event escorting the president
-      **to the Capitol** to be sworn in.
+      * Inaugural parades began as an informal event escorting the president**to
+      the Capitol** to be sworn in.
 
       * **1809**: the inauguration of James Madison included the first
       formally-planned parade route, with participants from around the country.
 
       * Modern day: the parade and its thousands of attendees escort the
-      President and VP **from the Capitol** to the White House.
+      President and VP**from the Capitol** to the White House.
     _key: 1b83ae8c0063
   - order: 7
+    useCheckmark: false
     body: >-
       ## Unique Moments:
 
@@ -86,6 +94,7 @@ cards:
       parade could go on.
     _key: 424629a659ac
   - order: 8
+    useCheckmark: true
     body: >-
       The presidential oath is typically recited with one hand on a Bible,
       though it is not required. John Q. Adams took his oath in 1825 using a

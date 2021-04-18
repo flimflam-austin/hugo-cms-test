@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## **_“Worst mass killing in the U.S. in almost two years.”_**
 
@@ -27,6 +28,7 @@ cards:
       The facts we know – the ones we don’t – and the context that matters.
     _key: fe67ca31aed8
   - order: 1
+    useCheckmark: false
     body: >-
       ##   
 
@@ -47,6 +49,7 @@ cards:
       **When:** Tuesday evening.
     _key: 9781d0510349
   - order: 2
+    useCheckmark: false
     body: >-
       > “They’re very distraught, and they were very helpful in this
       apprehension.”
@@ -61,6 +64,7 @@ cards:
       crimes.
     _key: c39a431aeee6
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -70,12 +74,13 @@ cards:
       * 24 hours after the attack investigators say it’s too early to confirm
       motive.
 
-      * Broader context: The shooting comes amid **reports of a wave of violent
+      * Broader context: The shooting comes amid**reports of a wave of violent
       and verbal attacks against Asian Americans during the pandemic.** A new
       report details nearly 3,800 “hate incidents” in the last year against
       Asian Americans, the majority targeting women.
     _key: 8783bd057dd1
   - order: 4
+    useCheckmark: false
     body: >-
       > “We’re not yet clear about the motive. But I do want to say to our Asian
       American community that we stand with you and understand how this has
@@ -88,6 +93,7 @@ cards:
       discrimination and violence against Asian Americans.
     _key: 2d991136ef63
   - order: 5
+    useCheckmark: false
     body: >-
       ## What To Know:
 
@@ -102,6 +108,7 @@ cards:
       varies state to state).
     _key: 5561fb3238e3
   - order: 6
+    useCheckmark: true
     body: >-
       THIS IS A QUICKLY DEVELOPING STORY. Investigators say Long, who was
       charged with eight counts of murder and one count of aggravated assault,

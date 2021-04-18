@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       Measles Outbreak Europe
 
@@ -32,15 +33,16 @@ cards:
       Flip Here
     _key: card-1-3a19e19d-604e-42c7-b121-0f938401c9d7
   - order: 1
+    useCheckmark: false
     body: >-
       # Why This Matters
 
 
-      * Measles is a **highly contagious** and potentially deadly disease.
+      * Measles is a**highly contagious** and potentially deadly disease.
 
-      * Unlike some deadly diseases, an effective **vaccine is available**.
+      * Unlike some deadly diseases, an effective**vaccine is available**.
 
-      * Two doses of vaccine is about **97% effective**, according to CDC.
+      * Two doses of vaccine is about**97% effective**, according to CDC.
 
       * Notable: 2017 spike in measles cases came after a record low year of
       cases in 2016.
@@ -51,6 +53,7 @@ cards:
       FLIP HERE FOR MORE
     _key: card-2-64d387ce-61c5-4eff-a33d-04ef072574d5
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Is This Happening?
 
@@ -63,6 +66,7 @@ cards:
       European Centre for Disease Prevention and Control, Jan 12, 2018
     _key: card-3-33980f4c-2a39-4ebe-bfc6-348f542d94a4
   - order: 3
+    useCheckmark: false
     body: >-
       ## 4 Reasons For Measles EU Outbreak
 
@@ -78,6 +82,7 @@ cards:
     citation: World Health Organization
     _key: card-4-b185d231-d138-47e0-bfc2-7e35d5661e88
   - order: 4
+    useCheckmark: false
     body: |-
       ## The Data: Measles in Europe
 
@@ -90,6 +95,7 @@ cards:
       Top Three Countries Impacted: Romania, Italy & Ukraine
     _key: card-5-268ec4c0-15b4-48dd-a431-4d47bdabd42b
   - order: 5
+    useCheckmark: false
     body: >-
       # U.S. Measles Cases
 
@@ -97,7 +103,7 @@ cards:
       ## What You Should Know
 
 
-      * In January, there wereA **9 measles cases** inA 4 states: Arkansas,
+      * In January, there wereA**9 measles cases** inA 4 states: Arkansas,
       Illinois, Indiana, & Texas.
 
       * **118 cases** nationwide in 2017.
@@ -107,6 +113,7 @@ cards:
       program.
     _key: card-6-5364ca0d-400f-4052-b308-13c0309c438d
   - order: 6
+    useCheckmark: true
     body: >-
       Ease of travel, under vaccinated communities - all potential factors in
       spread of measles. Read More:

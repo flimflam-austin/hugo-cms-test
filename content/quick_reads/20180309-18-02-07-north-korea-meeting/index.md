@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # HISTORIC NEWS
 
@@ -28,7 +29,7 @@ cards:
       Un
 
 
-      First mtg of a **sitting** U.S. President with North Korean leader.
+      First mtg of a**sitting** U.S. President with North Korean leader.
 
 
       Announcement made by U.S. ally South Korea at White House
@@ -37,6 +38,7 @@ cards:
       Flip For Why It Matters
     _key: card-1-14196f28-36c5-402b-806a-5c555bd329b6
   - order: 1
+    useCheckmark: false
     body: >-
       What’s At Stake:  
 
@@ -56,6 +58,7 @@ cards:
       advancing technology.
     _key: card-2-fac25129-1701-4fcc-bf83-ac5b2d4db902
   - order: 2
+    useCheckmark: false
     body: >-
       How We Got Here:  
 
@@ -71,6 +74,7 @@ cards:
       23).
     _key: card-3-038a90e2-9eef-4190-b01f-f70c258949a5
   - order: 3
+    useCheckmark: false
     body: >-
       ## Brief Background
 
@@ -85,6 +89,7 @@ cards:
       arrested/imprisoned 2009 & 2016 (OttoA Warmbier died 2017).
     _key: card-4-a0bf1485-c100-440b-9ed1-d413e3bb7ff3
   - order: 4
+    useCheckmark: false
     body: >-
       ## What to Watch For
 
@@ -101,24 +106,26 @@ cards:
       * **How?** It’s unprecedented. Stay Tuned.
     _key: card-5-90fddf7b-f07b-4ce6-abf8-e419e43ef001
   - order: 5
+    useCheckmark: false
     body: >-
       ## From The President
 
 
       _“Kim Jong Un talked about denuclearization with the South Korean
       Representatives, not just a freeze. Also, no missile testing by North
-      Korea during this period of time. **Great progress being made but
-      sanctions will remain until an agreement is reached. Meeting being
-      planned!”**_  
+      Korea during this period of time.**Great progress being made but sanctions
+      will remain until an agreement is reached. Meeting being planned!”**_  
 
       President Trump, Twitter,  
 
       @realdonaldtrump, Mar. 8, 2018
     _key: card-6-47d13029-61f2-457a-a144-3a49d7fe5a2c
   - order: 6
+    useCheckmark: false
     body: "## Something To Consider:\n\n_“PS: To be clear — we need to talk to North Korea. But Kim is not inviting Trump so that he can surrender North Korea’s weapons. Kim is inviting Trump to demonstrate that his investment in nuclear and missile capabilities has forced the United States to treat him as an equal.”_  \nJeffrey Lewisa\x0F, Twitter, @ArmsControlWonk Mar. 8, 2018"
     _key: card-7-fea98227-bd7f-435f-9a70-5ab4ad0a17a1
   - order: 7
+    useCheckmark: true
     body: >-
       Word to the Wise: Talk is one thing. Action another. Watch ACTION by
       either side instead of rhetoric. Pres. Trump talked about North Korea in

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # QUICK QUOTES
 
@@ -33,6 +34,7 @@ cards:
       series of hateful & derogatory tweets on taking the sleeping medication.
     _key: card-1-235ae2f5-b418-45b6-bc40-0d237f7fbb26
   - order: 1
+    useCheckmark: false
     body: >-
       > “This indictment brings the defendant another step closer to
       accountability for the crimes of violence with which he is now charged.”  
@@ -44,6 +46,7 @@ cards:
       1st degree criminal sexual act.
     _key: card-2-a3ba734b-be67-46d0-9625-600b544c846b
   - order: 2
+    useCheckmark: false
     body: >-
       > “I am even more convinced that the FBI did exactly what my fellow
       citizens would want them to do when they got the information they got, and
@@ -56,6 +59,7 @@ cards:
       Trump's 2016 campaign.
     _key: card-3-5f7a5891-3e1e-45f7-bc96-55496d110a45
   - order: 3
+    useCheckmark: false
     body: >-
       > “They say life is about timing. I learned this lesson at age 18, when I
       chose to play a light tennis schedule because I want to go to fashion
@@ -69,6 +73,7 @@ cards:
       motivation to never quit pursuing her dream.
     _key: card-4-aca073db-bf85-416d-b196-55352164ade2
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-05-31-quick-quotes/)'
     _key: card-10-41aae02a-c1ba-43cc-9e32-8ba556501579
 

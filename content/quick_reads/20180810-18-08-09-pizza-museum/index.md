@@ -20,6 +20,7 @@ card_series: Eats
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # U.S. PIZZA MUSEUM OPENS TODAY
 
@@ -34,6 +35,7 @@ cards:
       you want a pizza dis?
     _key: card-1-b205d8fb-b8a7-4241-9f4b-46dc94fbb788
   - order: 1
+    useCheckmark: false
     body: >-
       # U.S. Pizza Museum
 
@@ -53,14 +55,15 @@ cards:
       Here](https://www.eventbrite.com/o/us-pizza-museum-17565390009)
     _key: card-2-a4864695-6a64-4d47-a8f2-186ae8fa2d6e
   - order: 2
+    useCheckmark: false
     body: >-
       # The Power of Pizza
 
 
-      U.S. is home toA **75K+ pizzerias.A**
+      U.S. is home toA**75K+ pizzerias.A**
 
 
-      U.S. pizza market is **valued at $45B** – about one-third of worldwide
+      U.S. pizza market is**valued at $45B** – about one-third of worldwide
       market.
 
 
@@ -70,10 +73,11 @@ cards:
       **Pizza Hut** is the #1 selling pizza chain in the U.S.
     _key: card-3-b854c9e7-98f9-437e-b9e2-6901480b0753
   - order: 3
+    useCheckmark: false
     body: >-
       NYC v. CHICAGO:  
 
-      The Final Verdict 
+      The Final Verdict
 
 
       > In 2011, the late Supreme Court JusticeA Antonin Scalia weighed in:  
@@ -84,6 +88,7 @@ cards:
       It is thin. It is chewy and crispy, OK?**A_ ”
     _key: card-4-ae104384-6a1b-474a-bfc3-d82659a11102
   - order: 4
+    useCheckmark: true
     body: >-
       Not to be outdone, a "Museum of Pizza" will open in NYC in October. It
       promises to be the "world's first and only immersive art experience

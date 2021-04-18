@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “It’s all about self love. Tell yourself you’re beautiful daily. Be
       gentle with yourself.”
@@ -29,6 +30,7 @@ cards:
     citation: Demi Lovato
     _key: card-1-463ea11e-9934-4d15-8fef-df11f3a95412
   - order: 1
+    useCheckmark: true
     body: >-
       The 25-year-old pop star is "awake & recovering" after a reported
       overdose. Lovato has been open about her bipolar disorder & addiction

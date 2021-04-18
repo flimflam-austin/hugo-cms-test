@@ -20,9 +20,11 @@ card_series: Quotes
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: "“Let’s get to the truth of the matter…. I think this is a\x13 this is really good for the country.”  \n  \nJudge Kenneth Star speaking about a plea deal made between Pres. Trump's fmr. campaign manager, Paul Manafort, and Special Counsel, Robert Mueller. Star led a special counsel investigation into Bill Clinton. Starr says if Mueller can get the truth from Manafort perhaps the country will know once and for all about the collusion accusations against the President."
     _key: card-1-09baf5e5-637c-4afb-8bf1-484ee39942c5
   - order: 1
+    useCheckmark: false
     body: >-
       > "I can’t go through this again."  
         
@@ -35,6 +37,7 @@ cards:
       sudden flooding threat.
     _key: card-2-5d70cf5f-5704-4ada-931d-0dd0c5dc97a6
   - order: 2
+    useCheckmark: false
     body: >-
       > “If they push forward without any attempt with hearing what she’s had to
       say, I’m not comfortable voting yes.”  
@@ -46,9 +49,11 @@ cards:
       defended him in a letter to the Senate.
     _key: card-3-b89ca458-90e8-4fb4-9c91-35471347f170
   - order: 3
+    useCheckmark: false
     body: "> “I was that guy on the beach screaming, a\x18Shark, shark!’ It was like right out of that movie ‘Jaws.’ “  \n  \nJoe Booth, a local fisherman, on the shark attack off Cape Cod Saturday near Wellfleet, MA killing a 26-year-old man. It's the state's first fatal shark attack since 1936 and only the 4th attack in state history. Ironically, John Dowd, Pres. Trump's fmr. attorney warned of the growing seal & shark populations in a recent letter to a local editor."
     _key: card-4-05567aac-f2a7-476f-ba76-267caca3d17a
   - order: 4
+    useCheckmark: false
     body: >-
       > “This is deadly earnest, we are in a fight for America’s soul.”  
         
@@ -60,6 +65,7 @@ cards:
       until after the midterms; he recently joined Instagram.
     _key: card-5-202fd7f1-00d9-4dbb-bb8d-ac42103e2392
   - order: 5
+    useCheckmark: false
     body: >-
       > "Another 9 figure pay day on the way."  
         
@@ -71,6 +77,7 @@ cards:
       Mayweather raked in an est. $220M for the 2015 fight.
     _key: card-6-fe2ff652-de38-42ae-adf0-e965009ff21d
   - order: 6
+    useCheckmark: true
     body: |-
       Have a great week!
 

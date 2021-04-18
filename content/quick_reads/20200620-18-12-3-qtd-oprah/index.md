@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “_I say there’s no such thing as failure. Failure is just a mistake
       trying to move you in a better direction._”
     citation: Oprah Winfrey
     _key: card-1-cfdd7b1f-e779-4adc-b390-d8e286c140fa
   - order: 1
+    useCheckmark: true
     body: >-
       Oprah delivered a speech in South Africa honoring the 100th anniversary of
       Nelson Mandela's birth. Mandela, the anti-apartheid leader spent 27 years

@@ -20,11 +20,12 @@ card_series: Current Events
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## ‘Clueless” To Congress
 
 
-      * Stacey Dash, aka “Dionne” from the movie _Clueless,_ plans to run for
+      * Stacey Dash, aka “Dionne” from the movie_Clueless,_ plans to run for
       California congressional seat; district, south of LA, includes Compton &
       parts of Long Beach.
 
@@ -36,18 +37,20 @@ cards:
     citation: Flip For More
     _key: card-1-22761f3c-4bb6-4ea4-9ccb-3b3e1a85ea5a
   - order: 1
+    useCheckmark: false
     body: "Record Run For Office\n\n_“At latest count, 431 women were running for or were likely to run for the House nationwide a\x14 339 Democrats and 92 Republicans. At this point in 2016, there were fewer than half that: 212. Likewise, 50 women are running for or likely to run for Senate, compared with 25 at this point in 2016.”_\n\n[NPR: Read Article](https://www.npr.org/2018/02/20/585542531/more-than-twice-as-many-women-are-running-for-congress-in-2018-compared-to-2016)"
     _key: card-2-9ff01240-111f-4806-8cab-c48a1012339d
   - order: 2
+    useCheckmark: false
     body: >-
       ## Women Candidates: 2018
 
 
-      **Senate:**A _“increases in number of female incumbents & challengers of
-      **both** parties account for the rise in women’s candidacies.”_
+      **Senate:**A_“increases in number of female incumbents & challengers
+      of**both** parties account for the rise in women’s candidacies.”_
 
 
-      **House:**A _“surge of women candidates is concentrated almost **entirely
+      **House:**A_“surge of women candidates is concentrated almost**entirely
       among Democratic** challengers.”_
 
 
@@ -55,6 +58,7 @@ cards:
       University](http://www.cawp.rutgers.edu/sites/default/files/resources/a_closer_look_2018_outlook_final.pdf)
     _key: card-3-ab37ab25-09d8-471f-b09f-0af6f580d253
   - order: 3
+    useCheckmark: false
     body: |-
       # Women In America:
 
@@ -67,6 +71,7 @@ cards:
       **1 out of 5 representatives in Congress.**
     _key: card-4-afd99b5a-0dc8-433d-b166-2077fb0e615a
   - order: 4
+    useCheckmark: true
     body: >-
       Why Are More Women Running? Several factors depending on point-of-view.
       Read On:

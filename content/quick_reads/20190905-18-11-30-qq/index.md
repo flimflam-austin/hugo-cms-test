@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       “I want to make sure you can wear my kicks proudly.”  
         
@@ -31,6 +32,7 @@ cards:
       next edition basketball shoe.
     _key: card-1-1685869b-e8a3-4643-b64d-b12220a957bc
   - order: 1
+    useCheckmark: false
     body: >-
       > "The moon represents a proving ground, it’s the way we can reduce risk,
       we can prove technology, we can prove human physiology… and we replicate
@@ -42,6 +44,7 @@ cards:
       says it will have continuous presence within 10 years.
     _key: card-2-c1d6775e-8c6d-44bd-bf02-7c6e66142626
   - order: 2
+    useCheckmark: false
     body: >-
       > "Given the due diligence that was done … I am very hopeful that we won’t
       see any kind of increase.”  
@@ -53,6 +56,7 @@ cards:
       missing. Heavy rains are now impacting the area causing flooding.
     _key: card-3-123f5389-d3a5-4123-831b-e8aa242bead4
   - order: 3
+    useCheckmark: false
     body: >-
       > “I’m open to making a deal. But, frankly, I like the deal we have right
       now.”  
@@ -65,9 +69,11 @@ cards:
       currently imposed.
     _key: card-4-df60029c-ac8b-44d3-b661-40eb4a94592e
   - order: 4
+    useCheckmark: false
     body: "“…I believe very much in Christmas. That’s how I express myself a\x14through my lights.”  \n  \nThomas Apruzzi of Old Bridge, NJ. His family's annual Christmas light display has taken place for at least 15 years & attracts throngs of onlookers. The town says the holiday display costs taxpayers at least $45K for resources to ensure traffic and pedestrian safety. Town officials want Apruzzi to foot the cost; Apruzzi believe his lights reflect his freedom of expression and he won’t pay."
     _key: card-5-fce5e8b8-09d9-492b-9368-8e75c117a0cf
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great weekend!
 

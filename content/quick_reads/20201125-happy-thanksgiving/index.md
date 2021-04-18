@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # What Did They Eat?
 
@@ -34,6 +35,7 @@ cards:
     citation: WAIT. NO PIE?
     _key: 7adbb0bc17ab
   - order: 1
+    useCheckmark: false
     body: >-
       > “… no, the pastry isn’t there. That is a blank in the table, for an
       English eye … So what are they putting on instead? I think meat, meat and
@@ -47,12 +49,13 @@ cards:
       land.
     _key: 43ed973123d7
   - order: 2
+    useCheckmark: false
     body: >-
       ## MAJOR MEATS
 
 
       * Surviving letters from the time period describe hunts for “wild fowl” —
-      likely **wild turkey**, geese, duck, and potentially flocks of passenger
+      likely**wild turkey**, geese, duck, and potentially flocks of passenger
       pigeons.
 
       * **Venison** (aka DEER) meat was contributed by local Native Americans,
@@ -60,6 +63,7 @@ cards:
       harvest the area of modern-day Cape Cod.
     _key: a90b9d5e65a3
   - order: 3
+    useCheckmark: false
     body: >-
       ## LASTING DISHES
 
@@ -83,6 +87,7 @@ cards:
       scarce.
     _key: 221b3b6d49e2
   - order: 4
+    useCheckmark: false
     body: >-
       ## NAME TO KNOW:  
 
@@ -96,6 +101,7 @@ cards:
       politicians to make Thanksgiving a national (instead of regional) holiday.
     _key: 026484fd53f4
   - order: 5
+    useCheckmark: true
     body: >-
       Hale's work paid off. A letter to Pres. Lincoln in Sept. 1863 is thought
       to have inspired his proclamation to make Thanksgiving a national holiday

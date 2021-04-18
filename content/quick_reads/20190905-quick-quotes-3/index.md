@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "Together their voices will ring out into perpetuity…”  
         
@@ -31,6 +32,7 @@ cards:
       to honor victims.
     _key: card-1-c501e479-fb99-46b4-a6b9-dbc2b66ae128
   - order: 1
+    useCheckmark: false
     body: >-
       "When a woman is emotional, she’s ‘hysterical’ and she’s penalized for it.
       When a man does the same, he’s ‘outspoken’ & and there are no
@@ -43,6 +45,7 @@ cards:
       Carlos Ramos deemed as verbal abuse.
     _key: card-2-90d25cd6-96bb-41d6-b6fa-1f6ae6a38db5
   - order: 2
+    useCheckmark: false
     body: >-
       > “…we concluded that the author’s principal motivation was to describe,
       as faithfully as possible, the internal workings of a chaotic and divided
@@ -53,6 +56,7 @@ cards:
       article has been viewed 10M+ times since its publication Wednesday.
     _key: card-3-c9984117-7532-407a-bb91-a92ad3960b42
   - order: 3
+    useCheckmark: false
     body: >-
       > "What do we say to the U.S.? That if they want to help the people of
       Nicaragua, if they want to contribute to peace, the best thing they can
@@ -64,6 +68,7 @@ cards:
       have died & 2K injured in crackdowns by Nicaraguan police since April.
     _key: card-4-97378b80-7c95-4195-9249-b4b22041bbe1
   - order: 4
+    useCheckmark: false
     body: >-
       > “I was pretty sure I wasn’t going to be homecoming queen, but I was
       pretty sure I was going to make that kick.”  
@@ -74,6 +79,7 @@ cards:
       field goal for the football team's overtime win.
     _key: card-5-1cd97cc7-8345-457d-8253-22ed802eb95c
   - order: 5
+    useCheckmark: true
     body: |-
       Have a good week!
 

@@ -20,14 +20,16 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Three Truths On The High Court
 
       Surprising facts on the  
-      **S**upreme **C**ourt **O**f **T**he **U**nited **S**tates  
+      **S**upreme**C**ourt**O**f**T**he**U**nited**S**tates  
       (aka SCOTUS)
     _key: 2d0a28729454
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Constitution is silent about who may be a Justice  
 
@@ -41,6 +43,7 @@ cards:
       received some form of legal training.
     _key: 45b31c4cab01
   - order: 2
+    useCheckmark: false
     body: >-
       ## The number of Justices is not set by the Constitution
 
@@ -54,6 +57,7 @@ cards:
       tied (ex: 4-4) decisions.
     _key: e21f1888bd81
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Court accepts about 1% of cases it’s asked to review
 
@@ -67,6 +71,7 @@ cards:
       situations only (ex: disputes between two states).
     _key: bba5b2d32672
   - order: 4
+    useCheckmark: true
     body: >-
       Our next Supreme Court Justice will be the 115th in our nation's history.
       Like all federal judges, Supreme Court Justices serve lifetime

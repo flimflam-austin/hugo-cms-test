@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "I often think to myself, 'What would Eleanor have done?'”  
         
@@ -31,6 +32,7 @@ cards:
       includes some of Roosevelt's memorabilia.
     _key: card-1-4d38825c-c144-46ac-938c-6620462510ae
   - order: 1
+    useCheckmark: false
     body: >-
       > "If you look at it in terms of the incredible dysfunction of Congress on
       everything, it’s actually one of the few things they’ve been able to do
@@ -42,6 +44,7 @@ cards:
       combat the opioid crisis. The bill faces a vote next week.
     _key: card-2-1445f3e7-a39e-4c67-95f6-2056474d9f36
   - order: 2
+    useCheckmark: false
     body: >-
       > "The path to peace and a brighter future is only through diplomacy and
       only denuclearization. That means any other pathA North KoreaA may choose
@@ -52,6 +55,7 @@ cards:
       potential second summit between North Korean and American leadership.
     _key: card-3-9bf90d1e-46c8-4767-8492-302b3828f1d6
   - order: 3
+    useCheckmark: false
     body: >-
       > “This is serious. This is what you go after insider traders and market
       manipulators on. This is a serious allegation.”  
@@ -64,6 +68,7 @@ cards:
       misleading statements"; Musk denies the charges.
     _key: card-4-57b0665c-78aa-4b84-998c-1637ce440137
   - order: 4
+    useCheckmark: false
     body: >-
       > “Deciding to proceed without conducting additional investigation would
       not only have a lasting impact on the Senate’s reputation, but it will
@@ -75,6 +80,7 @@ cards:
       who the ABA previously rated as well qualified.
     _key: card-5-734a300b-2d4b-4f4a-8d0c-b6557f6b14f2
   - order: 5
+    useCheckmark: true
     body: >-
       The most recent data available showed a slight decline in underage
       drinking; that research is 3 years old. In the meantime, drinking among

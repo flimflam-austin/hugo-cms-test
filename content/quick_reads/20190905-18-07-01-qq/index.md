@@ -16,6 +16,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “In the sunlight, slides, poles and railings reached temperatures as
       high as 130 degrees, and the ground, nearly 150.”  
@@ -27,6 +28,7 @@ cards:
       playground equipment.
     _key: card-1-dec79b39-3705-42c4-8f40-42ecdc8847be
   - order: 1
+    useCheckmark: false
     body: >-
       > "It’s hard to believe that something we enjoy so much could be good for
       us. Or at least not be bad.”  
@@ -39,6 +41,7 @@ cards:
       no specific explanation why.
     _key: card-2-d003e9ea-9252-46f5-9aa1-fdd572937e32
   - order: 2
+    useCheckmark: false
     body: >-
       "We are conscious of the need to maintain good relations with the United
       States. We have a border of more than 3,000 kilometers, more than 12
@@ -51,6 +54,7 @@ cards:
       Newly-elected Mexican President Andres Manuel Lopez Obrador
     _key: card-3-0da7127c-2bd0-4acc-adfc-deeb0e7f1672
   - order: 3
+    useCheckmark: false
     body: >-
       > “Secretary Pompeo will travel to Pyongyang, July 5-7, to continue
       consultations and implement the forward progress made by President Trump
@@ -63,6 +67,7 @@ cards:
       Dhabi, & Brussels.
     _key: card-4-b0dc89bd-5a8a-4c02-9e79-4e1df8f5450a
   - order: 4
+    useCheckmark: true
     body: |-
       Have a great day!
 

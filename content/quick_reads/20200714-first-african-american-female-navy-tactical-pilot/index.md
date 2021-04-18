@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## “MAKING HISTORY!”
 
@@ -28,6 +29,7 @@ cards:
       tactical aircraft pilot in the 100+ years of the U.S. Navy.
     _key: 5f473be97baf
   - order: 1
+    useCheckmark: false
     body: >-
       ## Backstory
 
@@ -42,6 +44,7 @@ cards:
       continue her training.
     _key: cbc451afe996
   - order: 2
+    useCheckmark: true
     body: >-
       The platforms include F-18E/F “Super Hornet" (fighter attack aircraft),
       E-18G “Growler" (an electronic attack aircraft), or F35 “Lightning” (a

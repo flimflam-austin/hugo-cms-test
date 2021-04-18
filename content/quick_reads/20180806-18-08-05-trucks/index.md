@@ -20,21 +20,23 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Running on Empty
 
 
       If you bought it, chances are it got there via semi truck.A The trucking
-      industry is **responsible for moving 70% of goods across America.**
+      industry is**responsible for moving 70% of goods across America.**
 
 
-      But there’s just one problem… **there aren’t enough drivers to get it
+      But there’s just one problem…**there aren’t enough drivers to get it
       there.**
 
 
       but...my amazon order!
     _key: card-1-e2dde35f-3267-4305-a62c-ff7446b44b19
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why Driver Shortage Matters
 
@@ -49,11 +51,12 @@ cards:
       not alone.
     _key: card-2-b7422493-9050-46fe-b4d4-6aada00d1320
   - order: 2
+    useCheckmark: false
     body: >-
       Drivers Wanted
 
 
-      * Requires **3-6 months in trucking school at $3-7K.**
+      * Requires**3-6 months in trucking school at $3-7K.**
 
       * **Long, solitary stretches**A away from home, wearing electronic
       monitors to track driving time.
@@ -66,20 +69,22 @@ cards:
       * **6% are women, two-thirds are white**.
     _key: card-3-88b8c044-6a67-451d-b534-2daaf75ad396
   - order: 3
+    useCheckmark: false
     body: >-
       Trying to Fix It:  
 
       Lower Minimum Age?
 
 
-      * Currently, **must be 21 to drive interstateA freight** (out-of-state);
+      * Currently,**must be 21 to drive interstateA freight** (out-of-state);
       now considering lowering to 18.
 
-      * White House is backing a trial program to **allow those under 21 with
+      * White House is backing a trial program to**allow those under 21 with
       military training** to operate commercial vehicles across state lines,
       showing a willingness to possibly change federal law.
     _key: card-4-8d2ccc35-135b-4588-9cfe-d08ce017f5b9
   - order: 4
+    useCheckmark: true
     body: >-
       Going the way of the dinosaurs? Although there's plenty of hype around
       autonomous trucks wiping out the need for drivers, trucking executives say

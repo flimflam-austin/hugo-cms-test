@@ -20,6 +20,7 @@ card_series: Style
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > ‘Don’t rest on your laurels. The end result isn’t as important as the
       effort that goes into it. Jump all the way in. Don’t be afraid. And don’t
@@ -33,24 +34,26 @@ cards:
       Flip For Her Story
     _key: card-1-4dcd0afd-2caa-4d03-af59-b684485128c4
   - order: 1
+    useCheckmark: false
     body: >-
       ## Kate Spade: Bio
 
 
-      * Born in **Kansas City, Missouri**.
+      * Born in**Kansas City, Missouri**.
 
-      * Started her brand “Kate Spade” in 1993 with her **now-husband Andy
-      Spade** (brother to the actor, David Spade) – **married 24 years**.
+      * Started her brand “Kate Spade” in 1993 with her**now-husband Andy
+      Spade** (brother to the actor, David Spade) –**married 24 years**.
 
-      * 13-yr-old daughter **Frances**.
+      * 13-yr-old daughter**Frances**.
 
-      * Once worked in a motorcycle bar in Arizona & as an accessories editor at
-      _Mademoiselle_ magazine.
+      * Once worked in a motorcycle bar in Arizona & as an accessories editor
+      at_Mademoiselle_ magazine.
 
 
       Flip: How They Made It
     _key: card-2-f3db3000-44ac-405b-8183-0b35540c8817
   - order: 2
+    useCheckmark: false
     body: >-
       _“There were a lot of lean times — Mr. Spade cleaned out his 401K to buy
       fabric, and used money from his personal checking account to make payroll.
@@ -61,6 +64,7 @@ cards:
       & at the time of this interview the company was making millions.
     _key: card-3-e42cea4f-d85a-4ce7-a09e-8cc38ebee58b
   - order: 3
+    useCheckmark: false
     body: >-
       ## Kate Spade: Business
 
@@ -71,10 +75,11 @@ cards:
 
       * Coach bought the Kate Spade brand for $2.4B last year.
 
-      * Spade launched accessory line **Frances Valentine**A in 2016 &
-      officially took the name “Kate **Valentine** Spade.”
+      * Spade launched accessory line**Frances Valentine**A in 2016 & officially
+      took the name “Kate**Valentine** Spade.”
     _key: card-4-f7f5585c-cbf7-4b09-84ba-1c1ce204dda9
   - order: 4
+    useCheckmark: false
     body: >-
       > “I will say this was not unexpected by me. I’d flown out to Napa and NYC
       several times in the past 3-4 years to help her to get the treatment she
@@ -86,6 +91,7 @@ cards:
       mental illness.
     _key: card-5-c2b4caff-d495-4993-b389-66df5d0f9c47
   - order: 5
+    useCheckmark: true
     body: >-
       The Kate Spade brand describes itself as "quick and curious and playful
       and strong" - Her sister says wanting to keep up the image of her brand

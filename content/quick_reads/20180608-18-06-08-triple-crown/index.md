@@ -20,17 +20,19 @@ card_series: Sports
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## TRIPLE CROWN HOPES
 
 
-      After winning the Kentucky Derby & Preakness, **undefeated Justify looks
-      to add a third jewel to his crown** by winning Saturday’s Belmont Stakes.
+      After winning the Kentucky Derby & Preakness,**undefeated Justify looks to
+      add a third jewel to his crown** by winning Saturday’s Belmont Stakes.
 
 
       Flip: RARE MARE
     _key: card-1-054d86dd-45b3-461c-8641-80d6f3f4cf36
   - order: 1
+    useCheckmark: false
     body: >-
       ## TRIPLE CROWN HISTORY
 
@@ -45,6 +47,7 @@ cards:
       37-year Triple Crown drought.
     _key: card-2-827d0f50-a1fb-4337-a21e-77a441cce745
   - order: 2
+    useCheckmark: false
     body: >-
       # Horse to Know: Justify
 
@@ -61,6 +64,7 @@ cards:
       * **Biggest challengers?**A Bravado, Vino Rosso, & Hofburg
     _key: card-3-77257d99-1b48-431d-8906-0831fd50a7fd
   - order: 3
+    useCheckmark: true
     body: >-
       Watch Saturday at 4pm ET on NBC. Fun Fact: an equal percentage of men &
       women tend to watch the Belmont Stakes/Triple Crown, which is pretty rare

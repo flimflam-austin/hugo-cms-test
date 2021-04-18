@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # COVID-19  
       Weekend Wrap-Up
@@ -27,6 +28,7 @@ cards:
       What We Learned
     _key: 208ef24c550d
   - order: 1
+    useCheckmark: false
     body: >-
       > “I put China on there so you could see how basically unrealistic this
       could be.”
@@ -40,6 +42,7 @@ cards:
       the lowest *reported* fatality rate at .33 per 100,000 cases.
     _key: 65274b70ed8d
   - order: 2
+    useCheckmark: false
     body: >-
       “This isn’t going to be like a light switch. It’s more like a sunrise.”  
         
@@ -51,6 +54,7 @@ cards:
       resources/equipment to address potential COVID surges.
     _key: b1bfeb26393c
   - order: 3
+    useCheckmark: false
     body: >-
       > “I don’t think anyone is out of the woods right now.”
 
@@ -63,6 +67,7 @@ cards:
       cases.
     _key: 1079c2f05bb7
   - order: 4
+    useCheckmark: false
     body: >-
       > “We could double or triple the number of tests we could be doing daily,
       if we had the swabs and reagents.”
@@ -75,6 +80,7 @@ cards:
       Defense Production Act to insure supplies are available.
     _key: 05ad5f7699a9
   - order: 5
+    useCheckmark: false
     body: >-
       > “Testing is a local thing.”
 
@@ -88,6 +94,7 @@ cards:
       and/or have lost track of supplies.
     _key: 7ef3c795fff1
   - order: 6
+    useCheckmark: true
     body: >-
       Check out how COVID-19 is developing in your hometown by clicking through
       to our source page.

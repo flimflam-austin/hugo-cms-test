@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       "He just amazed me. He’s my hero. My son is my hero."  
         
@@ -31,6 +32,7 @@ cards:
       overseas deployment and leaves behind his wife and 3 children.
     _key: card-1-5b14e29c-e743-46fe-aaa0-29ff73004917
   - order: 1
+    useCheckmark: false
     body: >-
       "I must note we are seldom free to work with unblemished partners."  
         
@@ -42,6 +44,7 @@ cards:
       civil war; a direct affront to the Saudis.
     _key: card-2-05cab799-1535-41d9-9b3b-39c42a23c0f9
   - order: 2
+    useCheckmark: false
     body: >-
       "There is no preset policy. We will be paying very close attention to what
       incoming economic and financial data are telling us."  
@@ -53,6 +56,7 @@ cards:
       expensive for people and companies to borrow money in some cases.)
     _key: card-3-fc5d2071-67c0-41f4-9092-e0af8ae9ee1f
   - order: 3
+    useCheckmark: false
     body: >-
       > "I don’t want anyone to think this is fun and games. Ukraine is under
       threat of full-scale war with Russia."  
@@ -64,6 +68,7 @@ cards:
       meeting with Putin on the sidelines of the G-20.
     _key: card-4-374bf5a4-67cf-41e1-b2a7-6b471f774494
   - order: 4
+    useCheckmark: false
     body: >-
       > "I’m thinking about how the hell to get out from under that question
       fast."  
@@ -75,6 +80,7 @@ cards:
       going to think about it.’
     _key: card-5-8bc6bbbf-fc94-4703-99a8-89c680131b16
   - order: 5
+    useCheckmark: false
     body: >-
       > "Roald would, I know, be thrilled."  
         
@@ -88,6 +94,7 @@ cards:
       Now](https://www.youtube.com/embed/loV0N4m6AMw?enablejsapi=1&autoplay=1&rel=0)
     _key: card-6-e2bcb8d3-f87c-4c1c-9ea4-0871a27749c2
   - order: 6
+    useCheckmark: true
     body: |-
       Have a great day!
 

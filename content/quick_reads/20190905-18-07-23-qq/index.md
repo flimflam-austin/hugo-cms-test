@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “NEVER, EVER THREATEN THE UNITED STATES AGAIN OR YOU WILL SUFFER
       CONSEQUENCES THE LIKES OF WHICH FEW THROUGHOUT HISTORY HAVE EVER SUFFERED
@@ -34,6 +35,7 @@ cards:
       flip here for more
     _key: card-1-5f4765d9-baf2-4171-a6ab-86f901f1ae12
   - order: 1
+    useCheckmark: false
     body: >-
       > “Do not play with the lion’s tail or else you will regret it.”  
         
@@ -44,6 +46,7 @@ cards:
       result in the "mother of all wars."
     _key: card-2-54308301-acdc-4904-92cb-d152dc031fb6
   - order: 2
+    useCheckmark: false
     body: >-
       > "If they don’t make it Lord, take me, too. I don’t need to be here.’’  
         
@@ -55,6 +58,7 @@ cards:
       duck boat faced near-hurricane force winds.
     _key: card-3-a002f9f4-b5e7-4b05-9509-8a974378a694
   - order: 3
+    useCheckmark: false
     body: >-
       > "Everyone thought we were going to die.”  
         
@@ -66,6 +70,7 @@ cards:
       customers with questions and purchases.
     _key: card-4-2349ba85-1cce-40ac-9275-e63101424a4f
   - order: 4
+    useCheckmark: false
     body: >-
       > “Literally everybody on the planet now knows that we’re in the burger
       business.”  
@@ -76,6 +81,7 @@ cards:
       the "P" in IHOP with a "B" for burger.
     _key: card-5-f079e02a-c034-42d7-b8c3-ee235d5dd956
   - order: 5
+    useCheckmark: false
     body: >-
       > “I told them I tried and I said, ‘Hopefully you’re as proud of your pops
       for trying as hard as I did.'”  
@@ -87,6 +93,7 @@ cards:
       for the most major championships with 18.
     _key: card-6-4e5f779f-f09b-4e7a-80ea-655e6d70bbc9
   - order: 6
+    useCheckmark: true
     body: |-
       Have a great week!
 

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Happy Father’s Day
 
@@ -30,6 +31,7 @@ cards:
       A president made it official.
     _key: card-1-2016f850-6ae5-4c8f-869f-1f09e460e5b3
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKSTORY
 
@@ -44,6 +46,7 @@ cards:
       William’s birthday on June 5th.
     _key: card-2-0924e9ac-d875-421d-b37d-5ba512464325
   - order: 2
+    useCheckmark: false
     body: >-
       ## Interesting To Note
 
@@ -60,6 +63,7 @@ cards:
       1972.
     _key: card-3-5d2fda4b-f983-4759-aab9-c9ab84dfd3f5
   - order: 3
+    useCheckmark: false
     body: >-
       # Flowers For Fathers?
 
@@ -75,6 +79,7 @@ cards:
       Americans were expected to spend $205 for Mother’s Day.
     _key: card-4-97ea1093-9277-4b08-97fc-2d93736793e0
   - order: 4
+    useCheckmark: true
     body: >-
       "To have a father - to be a father - is to come very near the heart of
       life itself." Pres. Richard Nixon, 1972, in his proclamation making

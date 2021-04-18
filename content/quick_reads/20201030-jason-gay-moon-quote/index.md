@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“Scientists believe that the moon has water, and this is a big deal,
       because if the moon has water, it probably has sparkling water, and if it
@@ -28,6 +29,7 @@ cards:
     citation: JASON GAY
     _key: 8d0d95cd459d
   - order: 1
+    useCheckmark: true
     body: >-
       A hilarious read for a serious time. We learned of water on the moon the
       same week a Blue Moon arrives on Halloween (a blue moon or a second full

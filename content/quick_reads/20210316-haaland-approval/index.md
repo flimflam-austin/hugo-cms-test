@@ -19,6 +19,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“I believe that every one of us – Republicans, Democrats, and
       Independents – shares a common bond: our love for the outdoors and a
@@ -26,6 +27,7 @@ cards:
     citation: DEB HAALAND
     _key: 38014ef703cb
   - order: 1
+    useCheckmark: true
     body: >-
       The Senate confirmed Pres. Biden's choice for Secretary of the Interior -
       Deb Haaland, the first Native American to serve in this role AND in the

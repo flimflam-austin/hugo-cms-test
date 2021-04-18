@@ -16,6 +16,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## July 10, 1905
 
@@ -23,13 +24,14 @@ cards:
       **Mildred Wirt Benson born.**
 
 
-      A dedicated journalist for 60 years who introduced the world to **Nancy
+      A dedicated journalist for 60 years who introduced the world to**Nancy
       Drew**.
 
 
       (A.K.A. Carolyn Keene)
     _key: card-1-d34b94e9-016b-4c72-b8d0-4bbedd9e6876
   - order: 1
+    useCheckmark: false
     body: >-
       > _“I always wanted to be a writer from the time I could walk.”_  
         
@@ -37,31 +39,33 @@ cards:
 
       * **Born in rural Iowa**; A few opportunities for women outside the home.
 
-      * Her parents encouraged her writing pursuits; sheA **won her 1st writing
+      * Her parents encouraged her writing pursuits; sheA**won her 1st writing
       award at age 14**.
 
-      * **First student** (man or woman) **to earn master’s in journalism** at
+      * **First student** (man or woman)**to earn master’s in journalism** at
       Univ. of Iowa.
 
       * Her first trip to NYC changed everything…
     _key: card-2-0da39a59-d505-4bae-91dd-aa8705858686
   - order: 2
+    useCheckmark: false
     body: >-
       ## Creating Nancy Drew
 
 
-      * Benson met kids book publisher Edward Stratemeyer who had ideas, but
-      **needed ghost writers**.
+      * Benson met kids book publisher Edward Stratemeyer who had ideas,
+      but**needed ghost writers**.
 
       * Benson wrote** 23 of 30 original Nancy Drew** stories, establishing
       Nancy’s determination & bravery.
 
-      * She wrote the 2nd & 3rd stories in the series at **age 24.**
+      * She wrote the 2nd & 3rd stories in the series at**age 24.**
 
-      * Paid **$125 per book**, **signed away rights to royalties on books,
-      movies & board games**.
+      * Paid**$125 per book**,**signed away rights to royalties on books, movies
+      & board games**.
     _key: card-3-01c2d171-30d2-42cc-87f5-e101ce8202b3
   - order: 3
+    useCheckmark: false
     body: >-
       ## Enduring Popularity
 
@@ -74,9 +78,10 @@ cards:
       * Nancy Drew fans say the books allowed girls & young women to imagine
       anything was possible at a time when females struggled for equality.
 
-      * Series still in print, selling over **200M books in 17 languages**.
+      * Series still in print, selling over**200M books in 17 languages**.
     _key: card-4-2d6c1bb7-dec9-4751-88ce-0957020d0a2a
   - order: 4
+    useCheckmark: false
     body: >-
       ## Mystery Solved!
 
@@ -91,6 +96,7 @@ cards:
       name became known.
     _key: card-5-e1132fa1-cec8-4dd9-bcba-b447b5d02a39
   - order: 5
+    useCheckmark: true
     body: >-
       Not only was she a writer & journalist for 58 years (at the AP, Toledo
       Times & Toledo Blade), Benson became a pilot, amateur archaeologist &

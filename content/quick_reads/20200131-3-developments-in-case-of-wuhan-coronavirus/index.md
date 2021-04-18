@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       A growing number of cases…  
       infection person-to-person  
@@ -28,6 +29,7 @@ cards:
       The latest developments on the “new” coronavirus.
     _key: 24b58aab6bac
   - order: 1
+    useCheckmark: false
     body: >-
       ## “NEW” CORONAVIRUS
 
@@ -44,6 +46,7 @@ cards:
       countries.
     _key: 81d7d1ee6b6b
   - order: 2
+    useCheckmark: false
     body: >-
       ## DECLARATION
 
@@ -58,6 +61,7 @@ cards:
       illness.
     _key: 3aba5b1a365a
   - order: 3
+    useCheckmark: false
     body: >-
       ## CONTAGION
 
@@ -71,6 +75,7 @@ cards:
       spread it to her husband.
     _key: b87be9c60f84
   - order: 4
+    useCheckmark: false
     body: >-
       ## TRAVEL
 
@@ -88,6 +93,7 @@ cards:
       same.
     _key: 94c7ca583a6f
   - order: 5
+    useCheckmark: true
     body: >-
       Although this story is rapidly developing, one suggestion from healthcare
       providers that remains consistent as the #1 defense against the disease:

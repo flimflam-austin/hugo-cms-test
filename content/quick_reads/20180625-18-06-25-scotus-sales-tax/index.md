@@ -20,10 +20,11 @@ card_series: Money
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Your Online Shopping  
 
-      Dollars & Sense 
+      Dollars & Sense
 
 
       The Supreme Court ruled states can require online sellers to collect sales
@@ -33,13 +34,14 @@ cards:
       Cha-Ching: Why Now?
     _key: card-1-4aa581d2-61f8-401b-abd3-6b41b94fd86d
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Happened?
 
 
       Some online retailers voluntarily collect sales tax in the 45 states + DC
-      that impose a sales tax, **but many don’t**, placing brick-and-mortar
-      shops at a disadvantage.
+      that impose a sales tax,**but many don’t**, placing brick-and-mortar shops
+      at a disadvantage.
 
 
       The high court overturned a 1992 ruling prohibiting states from collecting
@@ -47,6 +49,7 @@ cards:
       same state as the buyer.
     _key: card-2-3b572a39-88fe-4f6e-b226-7655b88aab0e
   - order: 2
+    useCheckmark: false
     body: >-
       > “The retail industry is changing, and the Supreme Court has acted
       correctly in recognizing that it’s time for outdated sales tax policies to
@@ -57,6 +60,7 @@ cards:
       National Retail Federation President and CEO Matthew Shay
     _key: card-3-ccf7dab5-a428-48a2-b548-d17eaf13b17d
   - order: 3
+    useCheckmark: false
     body: >-
       ## What It Means For You:
 
@@ -70,6 +74,7 @@ cards:
       Supreme Court estimated states were losing up to $33B a year.
     _key: card-4-0d6258c4-1517-4ac5-8897-cb243ad6edb8
   - order: 4
+    useCheckmark: true
     body: >-
       Stocks for major online retailers like Amazon, Ebay, Overstock and Wayfair
       all dropped immediately following the ruling, but the lasting impact will

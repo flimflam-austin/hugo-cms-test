@@ -20,9 +20,11 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: '## What’s the drama over the USPS and the 2020 Election?'
     _key: a754a1678483
   - order: 1
+    useCheckmark: false
     body: >-
       ## USPS
 
@@ -30,9 +32,8 @@ cards:
       United States Postal Service
 
 
-      Unofficial creed: _“Neither snow nor rain nor heat nor gloom of night
-      stays these couriers from the swift completion of their appointed
-      rounds.”_
+      Unofficial creed:_“Neither snow nor rain nor heat nor gloom of night stays
+      these couriers from the swift completion of their appointed rounds.”_
 
 
       “The Postal Service receives NO tax dollars for operating expenses and
@@ -40,21 +41,23 @@ cards:
       operations.” (USPS)
     _key: e4f0b4c8b59e
   - order: 2
+    useCheckmark: false
     body: >-
       ## Important Background
 
 
-      * The USPS is a **financial mess.**
+      * The USPS is a**financial mess.**
 
-      * Why? Less business & huge liabilities (debt, pensions, etc.). **It lost
+      * Why? Less business & huge liabilities (debt, pensions, etc.).**It lost
       $78B from 2007-2019.**
 
-      * **Your state determines how you vote.** The federal government **DOES
-      NOT administer elections – state election boards do.** The federal gov’t
-      has oversight over the USPS which assists delivery of absentee & mail-in
+      * **Your state determines how you vote.** The federal government**DOES NOT
+      administer elections – state election boards do.** The federal gov’t has
+      oversight over the USPS which assists delivery of absentee & mail-in
       ballots on a state level.
     _key: 163a3f6037b7
   - order: 3
+    useCheckmark: false
     body: >-
       ## A 2020 Warning
 
@@ -69,13 +72,14 @@ cards:
       delays and recommended they send ballots to voters as early as possible.
     _key: d0d9763f285b
   - order: 4
+    useCheckmark: false
     body: >-
       ## Whats Happening Now?
 
 
-      * The House of Representatives, led by Democrats, **carved out $25B for
+      * The House of Representatives, led by Democrats,**carved out $25B for
       USPS** as part of an emergency economic stimulus bill to cushion the blow
-      of the COVID-19 pandemic, **PLUS $3.6B to states to help manage the
+      of the COVID-19 pandemic,**PLUS $3.6B to states to help manage the
       election.**
 
       * Pres. Trump calls this funding a “bailout” – an unnecessary add-on.
@@ -83,6 +87,7 @@ cards:
       the election against him and risk voter fraud.
     _key: 127de3f2e261
   - order: 5
+    useCheckmark: false
     body: >-
       ## And then there’s this…
 
@@ -97,6 +102,7 @@ cards:
       wrongdoing and postponed any changes until after the election.
     _key: 0086426ef06e
   - order: 6
+    useCheckmark: false
     body: >-
       > “Nice try, Postmaster General DeJoy, but the House will still be passing
       our bill to ensure the delivery of the mail through the election. We will
@@ -109,6 +115,7 @@ cards:
       standards until the COVID-19 pandemic is over.
     _key: ae1e29a099f4
   - order: 7
+    useCheckmark: false
     body: >-
       > “…(Democrats) want to send in millions and millions of ballots…They’re
       being lost, they’re being discarded. They’re finding them in piles. It’s
@@ -121,6 +128,7 @@ cards:
       USPS.
     _key: fea6bbdd5e14
   - order: 8
+    useCheckmark: true
     body: >-
       unions calls the potential challenge of extra votes a "piece of cake" with
       proper planning. The fate of the bill remains TBD. A previous COVID-19

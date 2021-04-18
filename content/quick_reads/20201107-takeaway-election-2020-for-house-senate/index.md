@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Balance of Power
 
@@ -31,6 +32,7 @@ cards:
       Senate.
     _key: 4391df01db0c
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -47,6 +49,7 @@ cards:
       citizens from wayward trends or rulers.
     _key: b79399aeb89f
   - order: 2
+    useCheckmark: false
     body: >-
       ## House of Representatives
 
@@ -60,6 +63,7 @@ cards:
       seats than expected.
     _key: dc6d170df057
   - order: 3
+    useCheckmark: false
     body: >-
       > “Last night and this morning’s results should serve as a wake-up call
       that the prognosticators have no clue what they are talking about,”
@@ -72,6 +76,7 @@ cards:
       for either party, remains TBD.
     _key: 1af6a9b7f05d
   - order: 4
+    useCheckmark: false
     body: >-
       ## The Senate: TBD
 
@@ -85,6 +90,7 @@ cards:
       to a runoff; the other might do the same.
     _key: b42d6321fd55
   - order: 5
+    useCheckmark: false
     body: >-
       > _“…get ready for nine more weeks of nasty campaign rhetoric, nonstop
       political advertising and even more visits from political VIPs, especially
@@ -97,6 +103,7 @@ cards:
       heightening attention & tension if the U.S. Senate hangs in the balance.
     _key: 672e2a870383
   - order: 6
+    useCheckmark: true
     body: >-
       While we can't call the presidency, remember this: Whoever is the VP
       serves as the tiebreaker in the Senate. Congress & the White House must

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # QUICK QUOTES
 
@@ -33,6 +34,7 @@ cards:
       considering one too.
     _key: card-1-eae289e4-f73b-408e-814a-4b90fe9ba03d
   - order: 1
+    useCheckmark: false
     body: >-
       > **“Within the U.S. national security community and among our allies
       around the globe, admiration for her is unsurpassed.”**  
@@ -47,6 +49,7 @@ cards:
       Refresher](https://smarthernews.com/18-05-01-gina-haspel-personal-life/)
     _key: card-2-770ae19d-90f2-4210-8067-40edf93380ad
   - order: 2
+    useCheckmark: false
     body: >-
       > **‘Hey Old Friend, I’ve been doing some reflecting on past
       miscommunications and hurt feelings between us…”**  
@@ -58,6 +61,7 @@ cards:
       Reputation tour kicked off Tuesday in Phoenix.
     _key: card-3-e89ce6a4-3436-4b3f-9ee0-668dc85a4ae3
   - order: 3
+    useCheckmark: false
     body: >-
       **“Driven by increases in cocaine, methamphetamine and marijuana, drug use
       by the American workforce remains at its highest rate in more than a
@@ -69,6 +73,7 @@ cards:
       opiate positivity rates declined dramatically on national basis.
     _key: card-4-e6dd3920-d679-427b-ac3b-3251589e5313
   - order: 4
+    useCheckmark: false
     body: >-
       > **"No selfies and pictures on the red carpet. Thank you. Offenders will
       be denied entrance to the screenings."**  
@@ -80,6 +85,7 @@ cards:
       photographers.
     _key: card-5-090a900e-3c11-4d45-8f74-3ec38b83ead1
   - order: 5
+    useCheckmark: true
     body: |-
       Click to learn more
 

@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## The markets, your money and talk of a worldwide “coronavirus”
       recession.
@@ -30,6 +31,7 @@ cards:
       Why it matters.
     _key: ffdf66ea0b04
   - order: 1
+    useCheckmark: false
     body: >-
       ## IMPORTANT CONTEXT
 
@@ -37,20 +39,21 @@ cards:
       Stock prices have gone up since 2009.
 
 
-      The 11-year run of market gains (also known as a “bull market”) is the
-      **longest in American history**.
+      The 11-year run of market gains (also known as a “bull market”) is
+      the**longest in American history**.
 
 
-      America is **near full-employment**. The latest jobs report on Friday
+      America is**near full-employment**. The latest jobs report on Friday
       indicated 273,000 jobs added, 3.5% unemployment in February.
     _key: 188e2fb80da4
   - order: 2
+    useCheckmark: false
     body: >-
       ## STOCK MARKET
 
 
-      * Notable This Week: **largest single day decline in stock prices** since
-      the 2008 financial crisis; **stocks entered “bear market” territory.**
+      * Notable This Week:**largest single day decline in stock prices** since
+      the 2008 financial crisis;**stocks entered “bear market” territory.**
 
       * Why Stocks Dropped: Uncertainty, fear over the impact of COVID-19 on
       global growth, consumer habits.
@@ -60,11 +63,12 @@ cards:
       stock prices.
     _key: 82ba1b04df4a
   - order: 3
+    useCheckmark: false
     body: >-
       ## OIL PRICES
 
 
-      * Notable This Week: **Largest decline in oil prices in more than 25
+      * Notable This Week:**Largest decline in oil prices in more than 25
       years.**
 
       * Why Prices Dropped: Oil fuels the global economy; slower economic growth
@@ -75,6 +79,7 @@ cards:
       disagreed. A price war has ensued, driving prices lower.
     _key: 4b7892635423
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why Oil Prices Matter:
 
@@ -88,6 +93,7 @@ cards:
       lead to lower gas prices, they can also lead to job losses.
     _key: 8a7bb4db1e33
   - order: 5
+    useCheckmark: false
     body: >-
       “What we have now is really two epidemics. We have an epidemic of the
       coronavirus, but we also have an epidemic of fear based around a narrative
@@ -99,6 +105,7 @@ cards:
       Robert Shiller, Yale professor and Nobel Prize winner
     _key: 0c5d4018af39
   - order: 6
+    useCheckmark: false
     body: >-
       > “We are going to take care of and have been taking care of the American
       public and the American economy.”
@@ -111,6 +118,7 @@ cards:
       policy. Details are TBD.
     _key: 0b4a445552e3
   - order: 7
+    useCheckmark: false
     body: >-
       > “A global recession is more likely than not.”  
         
@@ -122,6 +130,7 @@ cards:
       or worse.
     _key: aadc3d3d166c
   - order: 8
+    useCheckmark: true
     body: >-
       Reminder: Recessions, or periods of when the economy contracts rather than
       grows, can vary in severity and length of time. Over the last 100 years,

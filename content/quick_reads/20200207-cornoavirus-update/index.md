@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # MASKS: ON OR OFF?
 
@@ -27,6 +28,7 @@ cards:
     citation: '*NEW* CORONAVIRUS'
     _key: d91822fcf8ec
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKGROUND
 
@@ -41,6 +43,7 @@ cards:
       * World Health Organization declared a global health emergency.
     _key: 4806bbc5e7ea
   - order: 2
+    useCheckmark: false
     body: >-
       ## Coronavirus: China
 
@@ -58,6 +61,7 @@ cards:
       China.
     _key: dac12001f40b
   - order: 3
+    useCheckmark: false
     body: >-
       ## Coronavirus In U.S.
 
@@ -70,10 +74,11 @@ cards:
       * More than 300 suspicious cases tested negative; 60+ cases still pending
       (representing people in 37 states).
 
-      * CDC: _“…it’s unclear how easily or sustainably this virus is spreading
+      * CDC:_“…it’s unclear how easily or sustainably this virus is spreading
       between people.”_
     _key: e089e176ea6a
   - order: 4
+    useCheckmark: false
     body: >-
       ## DO YOU NEED A MASK?
 
@@ -85,12 +90,13 @@ cards:
       Nat'l Institute of Allergy & Infectious Diseases Dir. Dr. Anthony Fauci
     _key: 20da067b4ae3
   - order: 5
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
 
-      * Majority of respiratory illnesses spread either through tiny
-      **airborne** germs or **droplets**.
+      * Majority of respiratory illnesses spread either through tiny**airborne**
+      germs or**droplets**.
 
       * Airborne germs can easily spread simply by being in close proximity with
       someone who is ill, like the measles.
@@ -100,6 +106,7 @@ cards:
       3-6 ft may spread the disease.
     _key: 6608918aab86
   - order: 6
+    useCheckmark: false
     body: >-
       ## Practical Advice
 
@@ -112,6 +119,7 @@ cards:
       Dr. Darria Long Gillespie, MD MBA, author of "Mom Hacks."
     _key: 3586e99850c3
   - order: 7
+    useCheckmark: true
     body: >-
       For context: the CDC estimates 10,000 people have died from the flu since
       October, and 180,000 were hospitalized (comparable to past years). The CDC

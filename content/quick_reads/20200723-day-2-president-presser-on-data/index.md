@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## For the second day, the President provided an update on the COVID-19
       pandemic.
@@ -28,6 +29,7 @@ cards:
       ## 3 Highlights To Know
     _key: 9283707896a0
   - order: 1
+    useCheckmark: false
     body: >-
       > “Nationwide, beyond the outbreak in several states, cases remain low and
       very stable.”  
@@ -40,6 +42,7 @@ cards:
       property is coming in the next 24 hours.
     _key: 75f51e100b1a
   - order: 2
+    useCheckmark: false
     body: >-
       > “…we’re requiring increased testing of the nursing home personnel in
       states where you had the worst outbreaks.”
@@ -53,6 +56,7 @@ cards:
       people per day, by this fall.
     _key: 7f70aa1147d5
   - order: 3
+    useCheckmark: false
     body: >-
       > “Our strategy is to shelter the highest-risk Americans, while allowing
       younger and healthier citizens to return to work or school while being
@@ -65,6 +69,7 @@ cards:
       "comfortable" letting his child/grandchildren go back to school.
     _key: 260f9748d2ce
   - order: 4
+    useCheckmark: true
     body: >-
       The President said the U.S. gov't is looking carefully at how children
       transmit COVID-19 and to expect more information "over the next week." The

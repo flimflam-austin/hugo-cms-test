@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Sun’s Out, Sunscreen On!
 
@@ -34,6 +35,7 @@ cards:
       Here's The Deal
     _key: card-1-c54043cb-2506-4f6b-9b37-6c7dd0d13228
   - order: 1
+    useCheckmark: false
     body: >-
       # SPF
 
@@ -41,17 +43,18 @@ cards:
       > 
 
 
-      * **S**un **P**rotection **F**actor
+      * **S**un**P**rotection**F**actor
 
-      * SPF 30 coversA **98% of UVB rays**; Higher than SPF 30 offers only
+      * SPF 30 coversA**98% of UVB rays**; Higher than SPF 30 offers only
       slightly higher protection.
 
-      * SPF doesn’t reflect protection against **dangerous UVA rays**.
+      * SPF doesn’t reflect protection against**dangerous UVA rays**.
 
       * Docs worry those wearing higher SPF may feel “invincible” and stay in
       sun longer.
     _key: card-2-92f9d165-2dc9-432e-a505-b6442c713436
   - order: 2
+    useCheckmark: false
     body: >-
       # Free Sunscreen?
 
@@ -60,13 +63,14 @@ cards:
       July.
 
       * Miami & Boston first with program in 2015, after gov’t “call to action”
-      to prevent skin cancer because it’s theA **most commonly diagnosed cancer
+      to prevent skin cancer because it’s theA**most commonly diagnosed cancer
       in U.S**.
 
       * Nonprofits, hospitals, sunscreen dispenser-maker often foot cost for
       city for initial program.
     _key: card-3-294db54d-e3e3-43cd-8a74-3a645213bd1d
   - order: 3
+    useCheckmark: false
     body: >-
       ## An American dies of melanoma every hour
 
@@ -77,6 +81,7 @@ cards:
     citation: American Cancer Society
     _key: card-4-1d08aab1-6b4c-4071-8dc7-4a6f8d1fbd7b
   - order: 4
+    useCheckmark: true
     body: >-
       Did you know you should be using ‘about a shot-glass worth of BROAD
       SPECTRUM sunscreen every time you apply? Though the first free sunscreen

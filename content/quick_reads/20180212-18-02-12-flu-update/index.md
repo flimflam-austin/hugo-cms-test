@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Flu Breakthrough?
 
@@ -37,6 +38,7 @@ cards:
     citation: Click Here To Flip
     _key: card-1-5c3756fa-509e-4387-91ba-80ca190cdd84
   - order: 1
+    useCheckmark: false
     body: >-
       ## “Experimental Drug Promises to Kill the Flu Virus in a Day”: WSJ
 
@@ -51,6 +53,7 @@ cards:
       * Not available to U.S. public yet – Could take at least a year.
     _key: card-2-fee3e22c-eacd-421a-a55d-b32d9e5d3c72
   - order: 2
+    useCheckmark: false
     body: >-
       ## 48 U.S. States = Widespread Flu Activity
 
@@ -63,19 +66,21 @@ cards:
       Dr. Anne Schuchat, CDC Acting Director, Press Briefing Feb. 9, 2018
     _key: card-3-43e08f55-9eff-4263-9285-59035ba5c230
   - order: 3
+    useCheckmark: false
     body: >-
       # Update on Flu
 
 
-      * Where? **Everywhere. Hawaii/Oregon** only states to not report
-      widespread flu; flu still present.
+      * Where?**Everywhere. Hawaii/Oregon** only states to not report widespread
+      flu; flu still present.
 
-      * How much longer? **Week 11 of 20** in “flu season.”
+      * How much longer?**Week 11 of 20** in “flu season.”
 
-      * Why so bad? **More severeA H3N2 virus**A **dominates** (symptoms worse,
+      * Why so bad?**More severeA H3N2 virus**A**dominates** (symptoms worse,
       vaccine less effective); but other flu strains present.
     _key: card-4-28a5674d-dae4-4fed-b0d9-0efd1e61ef38
   - order: 4
+    useCheckmark: true
     body: |-
       Listen to CDC Press Briefing
 

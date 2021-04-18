@@ -20,6 +20,7 @@ card_series: From the President's Desk
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Military Spouse Appreciation Day
 
@@ -34,8 +35,9 @@ cards:
       Pres. Trump at the May 9 Celebration of Military Mothers & Spouses Event
     _key: card-1-2592b68a-c53d-4b8a-9457-0ac4cd4284fa
   - order: 1
+    useCheckmark: false
     body: >-
-      America’s **690,000 military spousesA (at least 90% of whom are women)**A
+      America’s**690,000 military spousesA (at least 90% of whom are women)**A
       face unique obstacles finding & keeping jobs due to:
 
 
@@ -50,16 +52,18 @@ cards:
       * occupational licensing regimes that vary by state
     _key: card-2-c198a349-3198-481c-8b9d-127ed2f8445b
   - order: 2
+    useCheckmark: false
     body: >-
       As result of the employment difficulties they encounter, military spouses
       are LESS likely than their civilian counterparts to participate in the
       labor market.
 
 
-      The **unemployment rate** among military spouses is estimated to be **AT
+      The**unemployment rate** among military spouses is estimated to be**AT
       LEAST 4X HIGHER**A than the national average, which was 3.9% in April.
     _key: card-3-92ae51cc-70b3-416e-8844-b4ee763c9c77
   - order: 3
+    useCheckmark: true
     body: >-
       On May 9, Pres. Trump signed an executive order addressing the labor
       market disadvantages facing military spouses and directing federal

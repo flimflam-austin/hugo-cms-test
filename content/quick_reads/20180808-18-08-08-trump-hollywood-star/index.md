@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Is President Trump a Hollywood Star?
 
@@ -31,6 +32,7 @@ cards:
       Want a star? Got 40K?
     _key: card-1-15bb8fac-c679-4a54-a261-f08ccfc5fc89
   - order: 1
+    useCheckmark: false
     body: >-
       ## Behind the Scenes
 
@@ -38,11 +40,12 @@ cards:
       * Pres. Trump’s star is a site of increasing vandalism & protest.
 
       * West Hollywood Mayor said the Council’s resolution urging the star’s
-      removal isn’t political, telling CNN:A _“Earning a star … is an honor.
-      When one belittles & attacks minorities, immigrants, Muslims, people with
+      removal isn’t political, telling CNN:A_“Earning a star … is an honor. When
+      one belittles & attacks minorities, immigrants, Muslims, people with
       disabilities or women — the honor no longer exists.”_
     _key: card-2-9754e3f8-9a16-4117-af5c-97e55d2932d7
   - order: 2
+    useCheckmark: false
     body: >-
       ## Walk of Fame 101
 
@@ -52,13 +55,14 @@ cards:
 
       * **Hollywood Chamber of Commerce** votes on nominees.
 
-      * Once selected, **nominees or a sponsor (a movie studio, agent, PR
+      * Once selected,**nominees or a sponsor (a movie studio, agent, PR
       company) pay $40K for ceremony & star’s upkeep**.
     _key: card-3-e3b96074-6673-4661-aaa0-4970e838dcc2
   - order: 3
+    useCheckmark: false
     body: >-
       > “Once a star has been added to the walk, it is considered a part of the
-      historic fabric of the Hollywood Walk of Fame. Because of this, **we have
+      historic fabric of the Hollywood Walk of Fame. Because of this,**we have
       never removed a star from the walk**.”  
         
       Leron Gubler, Pres & CEO of the Hollywood Chamber of Commerce, addressing
@@ -67,6 +71,7 @@ cards:
       the final world on the Walk of Fame.
     _key: card-4-22e64806-f5fa-4fd5-98e2-a129e27f2f22
   - order: 4
+    useCheckmark: true
     body: >-
       The 18-block stretch of the Hollywood Walk of Fame is home to more than
       2,600 stars, including two U.S. presidents. 2 decades before he became

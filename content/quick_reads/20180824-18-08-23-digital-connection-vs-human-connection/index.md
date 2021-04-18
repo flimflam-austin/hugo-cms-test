@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Is The Cost of Constant Connection…Feeling Disconnected?
 
@@ -28,6 +29,7 @@ cards:
       connections to each other & the world around us.
     _key: card-1-aeff4e08-e39b-4499-bd02-bd49d2b6523e
   - order: 1
+    useCheckmark: false
     body: >-
       > **"Decades of research on happiness tell us that engaging positively
       with others is critical for our well-being.** Modern technology may be
@@ -40,6 +42,7 @@ cards:
       smartphone distraction at the dinner table.
     _key: card-2-8198915b-0f9c-428f-83e7-40da5ad5cb1d
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -52,6 +55,7 @@ cards:
       enjoyed the experience less.
     _key: card-3-3ed48c55-dc94-4735-9182-8b8199cfb588
   - order: 3
+    useCheckmark: false
     body: >-
       # The Next Generation
 
@@ -59,14 +63,15 @@ cards:
       Another new study analyzed data from annual survey of 12th graders
 
 
-      * In 2016, the average **12th grader spent about 6 hours/day online,
+      * In 2016, the average**12th grader spent about 6 hours/day online,
       texting, and on social media.**
 
-      * In 2016, nearly **a third of 12th graders hadn’t read a book** for
-      pleasure **in a year**.A In the 1970s, 60% of 12th graders read a book or
+      * In 2016, nearly**a third of 12th graders hadn’t read a book** for
+      pleasure**in a year**.A In the 1970s, 60% of 12th graders read a book or
       magazine almost every day.
     _key: card-4-8e1ea685-6027-4410-af46-31b0589cebfa
   - order: 4
+    useCheckmark: true
     body: >-
       In 2018, 45% of teens say they're "online almost constantly," according to
       Pew Research Center - that's up nearly 50% from 2014-2015.

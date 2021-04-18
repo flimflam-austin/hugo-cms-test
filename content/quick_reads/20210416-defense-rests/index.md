@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## DEFENSE RESTS
 
@@ -28,8 +29,9 @@ cards:
       police officer charged with killing George Floyd should be acquitted.
     _key: 9a6c3a69613c
   - order: 1
+    useCheckmark: false
     body: >-
-      > "Undetermined." 
+      > "Undetermined."
 
 
       Fmr. Maryland Chief Medical Examiner Dr. David Fowler answering a question
@@ -41,10 +43,11 @@ cards:
       use or heart disease.
     _key: f567df003e11
   - order: 2
+    useCheckmark: false
     body: >-
       > "I felt that Derek Chauvin was justified, was acting with objective
       reasonableness, following Minneapolis police department policy and current
-      standards of law enforcement in his interaction with Mr. Floyd." 
+      standards of law enforcement in his interaction with Mr. Floyd."
 
 
       Fmr. police officer and use of force expert Barry Vance Brodd testified
@@ -53,7 +56,8 @@ cards:
       "a use of force."
     _key: 7e3abd036c8a
   - order: 3
-    body: "> \"I was concerned for the officers' safety, yes.\" \n\nMinneapolis Park Police Officer Peter Chang,\_one of the officers called to the scene on May 25, 2020, testified that he was concerned for the safety of the officers that day because \"the crowd was becoming more loud and aggressive.\" One of the arguments made by the defense is that Derek Chauvin's actions were influenced by the surrounding crowd and bystanders, which he deemed as hostile."
+    useCheckmark: false
+    body: "> \"I was concerned for the officers' safety, yes.\"\n\nMinneapolis Park Police Officer Peter Chang,\_one of the officers called to the scene on May 25, 2020, testified that he was concerned for the safety of the officers that day because \"the crowd was becoming more loud and aggressive.\" One of the arguments made by the defense is that Derek Chauvin's actions were influenced by the surrounding crowd and bystanders, which he deemed as hostile."
     _key: 051db138d31c
   - order: 4
     useCheckmark: true

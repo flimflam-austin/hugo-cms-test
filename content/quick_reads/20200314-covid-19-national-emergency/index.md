@@ -20,12 +20,14 @@ card_series: From the President's Desk
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## NATIONAL EMERGENCY  
       COVID-19
     citation: WHAT YOU NEED TO KNOW
     _key: 35d9278744c9
   - order: 1
+    useCheckmark: false
     body: >-
       “I’m officially declaring a national emergency… We will defeat this
       threat. When America is tested, America rises to the occasion.”
@@ -37,6 +39,7 @@ cards:
       and another 5M within a month.
     _key: d3838c9b068f
   - order: 2
+    useCheckmark: false
     body: >-
       ## COVID-19 Timeline
 
@@ -55,21 +58,23 @@ cards:
       * March 13, 2020: Pres. Trump declared it a “**national emergency**“
     _key: 460e5a614201
   - order: 3
+    useCheckmark: false
     body: >-
       ## Three Effects Of The Emergency Declaration
 
 
-      * Access to up to $50B in **federal money** to aid communities affected by
+      * Access to up to $50B in**federal money** to aid communities affected by
       the outbreak.
 
-      * Activates FEMA. For example: FEMA can **disperse aid** (tests, medicine,
+      * Activates FEMA. For example: FEMA can**disperse aid** (tests, medicine,
       food, supplies) to states & localities.
 
-      * Provides more flexibility by waiving licensing laws so **healthcare
+      * Provides more flexibility by waiving licensing laws so**healthcare
       workers** can provide care across state lines or “telehealth” (provide
       care remotely).
     _key: ee6be5fed109
   - order: 4
+    useCheckmark: false
     body: >-
       “These kind of things generally run out in a few months. Hopefully, we’ll
       make it several weeks — eight, nine, whatever weeks. But I can’t give you
@@ -80,6 +85,7 @@ cards:
       Infectious Diseases, on the stakes of slowing the spread of COVID-19.
     _key: a7d1abd95e89
   - order: 5
+    useCheckmark: true
     body: >-
       MORE MONEY: Last week, Pres. Trump signed a $8.3 billion emergency funding
       bill to combat COVID-19, but that money will soon run out. Congress is

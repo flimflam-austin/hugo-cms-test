@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## The Great Vaccine Debate
 
@@ -31,6 +32,7 @@ cards:
       policies they may have helped put in place.
     _key: card-1-74bf84f6-f1bd-426e-974b-5cb937d405df
   - order: 1
+    useCheckmark: false
     body: >-
       ## What’s Going On:
 
@@ -45,6 +47,7 @@ cards:
       potentially tighten laws that allow for these personal exemptions.
     _key: card-2-1fda7eac-2615-42b1-8697-7cd701782594
   - order: 2
+    useCheckmark: false
     body: >-
       > ‘I’m very worried that these measles epidemics are becoming a new
       normal…The enablers are state legislators in those states, that have
@@ -55,6 +58,7 @@ cards:
       exemptions for vaccines.
     _key: card-3-a2f93dd1-fbdb-42fc-a3a4-a80dbd18e451
   - order: 3
+    useCheckmark: false
     body: >-
       > ‘I see that as medical fascism. I’m the one who is going to make medical
       decisions for my kids.’  
@@ -64,11 +68,12 @@ cards:
       Disneyland) that reversed personal exemptions, requiring vaccinations.
     _key: card-4-da1ae058-2a14-44b7-8d8a-ea108428ed73
   - order: 4
+    useCheckmark: false
     body: >-
       ## Who Decides Who Vaccinates & Where?
 
 
-      * Federal gov’t makes **recommendations, not laws or policies,A** re:
+      * Federal gov’t makes**recommendations, not laws or policies,A** re:
       vaccines.
 
       * Your state gov’t sets requirements for vaccinations at a local level,
@@ -78,6 +83,7 @@ cards:
       security and your state, for your personal safety.
     _key: card-5-29c11fbb-fb49-4f8a-b1fe-2827667184aa
   - order: 5
+    useCheckmark: true
     body: >-
       Current measles vaccination rate in America is approx. 90%; Some states
       have lower. In general, a community needs to have 90-95% vaccination rates

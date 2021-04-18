@@ -20,6 +20,7 @@ card_series: Veterans Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “I have such pride in our country. I always was proud to be an American
       but it has grown immensely since my time in the Navy. You see so many
@@ -30,6 +31,7 @@ cards:
       LCDR Jayne Faul
     _key: cd9299644dc8
   - order: 1
+    useCheckmark: true
     body: >-
       LCDR Jayne Faul received her commission as an officer after joining a ROTC
       program. She became an aircraft commander, in charge of a multi-million

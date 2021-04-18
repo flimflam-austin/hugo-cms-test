@@ -20,6 +20,7 @@ card_series: what to know
 colorpaletteclassname: '--bronze'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## CHILDREN & COVID-19
 
@@ -28,9 +29,11 @@ cards:
       the new coronavirus impacts our children.
     _key: d8702c0c146a
   - order: 1
-    body: "## The Basics\n\nPreliminary analysis by the CDC covers COVID-19 data for a roughly 6-week period from mid-February to April.\n\nOut of nearly 150,000 cases, **less than 2%**\_children or teens under 18 years old (2,572 patients).\n\nThree children with COVID-19 died. Investigation still ongoing to confirm COVID-19 as the specific cause of death."
+    useCheckmark: false
+    body: "## The Basics\n\nPreliminary analysis by the CDC covers COVID-19 data for a roughly 6-week period from mid-February to April.\n\nOut of nearly 150,000 cases,**less than 2%**\_children or teens under 18 years old (2,572 patients).\n\nThree children with COVID-19 died. Investigation still ongoing to confirm COVID-19 as the specific cause of death."
     _key: bb7d456641e1
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Data To Note
 
@@ -50,15 +53,17 @@ cards:
       * Under 1 year old: 15% of cases
     _key: 2d8869ac436c
   - order: 3
-    body: "## Important To Know\n\n**Symptoms:** 93% of adults with COVID-19 report fever, cough, or shortness of breath, while **only 73% of children with COVID-19 do.**\n\nChildren and teens experience **less**\_**severe illness** and **lower hospitalization rates** compared to other age groups."
+    useCheckmark: false
+    body: "## Important To Know\n\n**Symptoms:** 93% of adults with COVID-19 report fever, cough, or shortness of breath, while**only 73% of children with COVID-19 do.**\n\nChildren and teens experience**less**\_**severe illness** and**lower hospitalization rates** compared to other age groups."
     _key: 5310ab8ea263
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
 
       **Why It Matters:** While children remain a lower percentage of known
-      COVID-19 cases in America, **children are not immune to severe illness**.
+      COVID-19 cases in America,**children are not immune to severe illness**.
 
 
       **Notable:** CDC clearly states their data is incomplete – e.g. at times
@@ -66,6 +71,7 @@ cards:
       symptoms, severity, or underlying conditions.”
     _key: 6598f16c6ea3
   - order: 5
+    useCheckmark: false
     body: >-
       > “If children meet in groups, it can put everyone at risk.”
 
@@ -77,6 +83,7 @@ cards:
       don't know.
     _key: b8f356d91825
   - order: 6
+    useCheckmark: true
     body: >-
       The very first case of a child contracting COVID-19 was reported to the
       CDC on March 2. Since then, the CDC says pediatric cases have been

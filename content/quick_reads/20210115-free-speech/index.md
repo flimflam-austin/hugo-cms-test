@@ -17,6 +17,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Are We Truly Free?
 
@@ -25,15 +26,18 @@ cards:
       from the president of the United States.
 
 
-      Here’s one part of the story: **What is free speech?**
+      Here’s one part of the story:**What is free speech?**
     _key: 91f9047966b4
   - order: 1
+    useCheckmark: false
     body: "> _“Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or_\__**abridging the freedom of speech**, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.”_\n\nThe First Amendment to the U.S. Constitution includes five guaranteed freedoms: religion, speech, press, assembly, and petition."
     _key: 6bf2766174ac
   - order: 2
-    body: "## Free Speech Basics\n\n* Free speech does ***not*** mean you can say whatever you want, whenever (or wherever) you choose.\n* Free speech means a gov’t entity can **neither**\_**compel** speech or other forms of expression, **nor**\_**prohibit *certain*** forms of speech & other forms of expression — this is “protected speech.”\n* Free speech prohibitions apply to gov’t actors — ***not*** private companies (like social media platforms)."
+    useCheckmark: false
+    body: "## Free Speech Basics\n\n* Free speech does***not*** mean you can say whatever you want, whenever (or wherever) you choose.\n* Free speech means a gov’t entity can**neither**\_**compel** speech or other forms of expression,**nor**\_**prohibit *certain*** forms of speech & other forms of expression — this is “protected speech.”\n* Free speech prohibitions apply to gov’t actors —***not*** private companies (like social media platforms)."
     _key: 3216cbbcaa1a
   - order: 3
+    useCheckmark: false
     body: >-
       ## What Counts As Speech?
 
@@ -53,6 +57,7 @@ cards:
       * **Commercial Speech** (ex: offensive ads)
     _key: a600b516c307
   - order: 4
+    useCheckmark: false
     body: >-
       ## Is It All Protected?
 
@@ -61,14 +66,14 @@ cards:
       certain categories, such as:
 
 
-      * **Intentional misrepresentations of facts**, such as **fraud** (ex: an
-      ad making false claims) or **defamation** (such as a tabloid’s false
-      report).
+      * **Intentional misrepresentations of facts**, such as**fraud** (ex: an ad
+      making false claims) or**defamation** (such as a tabloid’s false report).
 
       * **Incitement/fighting words** – hateful speech/actions likely to cause
       imminent unlawful violence.
     _key: 3faeeb8a01da
   - order: 5
+    useCheckmark: true
     body: >-
       BIG PICTURE: The First Amendment's Free Speech Clause is meant to ensure
       the free flow of ideas and protect us from censorship by the government so

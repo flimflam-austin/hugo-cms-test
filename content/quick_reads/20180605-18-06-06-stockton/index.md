@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Will $500 Per Family Solve Poverty in America?
 
@@ -31,26 +32,28 @@ cards:
       FLIP: For city's plan
     _key: card-1-cbfeddd0-49f2-418c-bb56-391b50d779ed
   - order: 1
+    useCheckmark: false
     body: >-
       # STOCKTON’S PLAN
 
 
-      * Starting early next year,A **100 families will receive $500 per month –
+      * Starting early next year,A**100 families will receive $500 per month –
       no strings attached.**
 
       * Participation criteria undecided.
 
-      * **$1M grant** from Economic Security Project **funds program for 18
+      * **$1M grant** from Economic Security Project**funds program for 18
       months**.
 
       * Poverty plagues Stockton after the housing bust sent the city into
       bankruptcy in 2012.
     _key: card-2-c6f0cdb5-0b80-40e7-bb9a-45deff39e5be
   - order: 2
+    useCheckmark: false
     body: >-
       It’s Actually  
 
-      Not a New Idea… 
+      Not a New Idea…
 
 
       _“I’m now convinced that the simplest approach will prove to be the most
@@ -63,6 +66,7 @@ cards:
       Community? (1967)
     _key: card-3-f1857d6a-60b9-4bd7-ba29-6c230be70c5e
   - order: 3
+    useCheckmark: false
     body: >-
       ## Critics Argue the Math Doesn’t Add Up
 
@@ -77,9 +81,10 @@ cards:
       Institute
 
 
-      * $10K/yr x 300M Americans = $3T =A 3/4ths ofA _entire_ $4T fedl budget
+      * $10K/yr x 300M Americans = $3T =A 3/4ths ofA_entire_ $4T fedl budget
     _key: card-4-e93ebe41-0cbd-4180-9dac-0f8701c5daaf
   - order: 4
+    useCheckmark: true
     body: >-
       Who are the backers behind the $1M Stockton funding? Click to learn more
       about the Economic Security Project and why they are doing this.

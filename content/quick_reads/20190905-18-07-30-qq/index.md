@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "Once again, we are the economic envy of the entire world.”  
         
@@ -30,9 +31,11 @@ cards:
       readings, this number may be further revised.
     _key: card-1-42d91ae8-7bd3-4841-8659-2d876da86729
   - order: 1
+    useCheckmark: false
     body: "“The whole city is in flames, and the stuff is falling out of the sky. I want to call it a\x18Silent Night,’ but that’s not it. This is spooky.”  \n  \n  \nChristine Shields on a raging wildfire near Redding, California and how the scene reminded her of a horror or science fiction film. Her mother died in the blaze. More than a dozen wildfires are burning in California, prompting the President to sign an emergency declaration for federal help."
     _key: card-2-90041ced-5710-4468-94ae-e8121886beea
   - order: 2
+    useCheckmark: false
     body: >-
       "The Hollywood Walk of Fame is an institution celebrating the positive
       contributions of the inductees…. Our democracy is based on respect for the
@@ -44,6 +47,7 @@ cards:
       despite it being repeatedly vandalized and a site of violent protest.
     _key: card-3-3e51f400-7dba-4782-8246-8e5bdd4639d8
   - order: 3
+    useCheckmark: false
     body: >-
       > “My senior colleague, Justice John Paul Stevens, he stepped down when he
       was 90, so think I have about at least five more years.”  
@@ -54,6 +58,7 @@ cards:
       by President Clinton.
     _key: card-4-016894fb-443d-4416-923a-0c48081c7a7c
   - order: 4
+    useCheckmark: false
     body: >-
       > “Our mission is to bring happiness.”  
         
@@ -68,6 +73,7 @@ cards:
       story](https://mobile.reuters.com/video/2018/07/24/down-syndrome-doesnt-hold-back-4-million?videoId=448549169&videoChannel=4)
     _key: card-5-e9595dcc-1ddf-4a0b-93ed-8abb91b3742c
   - order: 5
+    useCheckmark: true
     body: >-
       Want us to look into a news story or two? Leave a comment on our Instagram
       account or email us: Info@SmartHERNews.com. It's made-to-order

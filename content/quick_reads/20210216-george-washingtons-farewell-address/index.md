@@ -19,6 +19,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“(The spirit of political party) agitates the community with
       ill-founded jealousies and false alarms, kindles the animosity of one part
@@ -28,6 +29,7 @@ cards:
     citation: PRES. WASHINGTON
     _key: 2cbacb849ae7
   - order: 1
+    useCheckmark: true
     body: >-
       On George Washington's observed birthday a member of the Senate reads
       aloud his 1796 "Farewell Address" where he warns political parties are

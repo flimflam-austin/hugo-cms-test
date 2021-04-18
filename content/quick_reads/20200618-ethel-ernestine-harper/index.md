@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## _“You can no more teach what you haven’t learned than you can come back
       from where you haven’t been.”_
     citation: ETHEL ERNESTINE HARPER
     _key: 3c872da0b5d9
   - order: 1
+    useCheckmark: false
     body: >-
       Harper was the final woman to take on the role of “Aunt Jemima” for
       promotional appearances.
@@ -40,6 +42,7 @@ cards:
       reportedly becoming the first black history teacher in the county.
     _key: 42b0fb4133d8
   - order: 2
+    useCheckmark: true
     body: >-
       Quaker Oats announced Wednesday it will remove the name & image of Aunt
       Jemima from its products: "We recognize Aunt Jemima's origins are based on

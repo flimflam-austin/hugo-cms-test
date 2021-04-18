@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “_I felt like it was a little bit too early in my career to be doing a
       Christmas album. And then I decided to do it_. “
     citation: Mariah Carey
     _key: card-1-b93afc04-04a0-42ef-a59d-6f7174e46bc9
   - order: 1
+    useCheckmark: true
     body: >-
       In 2017, Carey spoke to Billboard about how her modern day Christmas
       anthem almost wasn't. With Christmas still weeks away, the 1994 hit has

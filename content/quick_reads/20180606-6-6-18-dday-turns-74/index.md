@@ -20,9 +20,11 @@ card_series: On This Day
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: "# D-Day June 6, 1944\n\n## 74 YEARS AGO TODAY\n\n> **“Two kinds of people are staying on this beacha\x14the dead and those who are going to die.”**  \nCol. George A. Taylor, commanding the Sixteenth Infantry Regiment, First Infantry Division, on Omaha Beach.\n\nWhy D...Day? Flip"
     _key: card-1-0daa590c-debc-4ce9-89c2-f14234e919e6
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -36,6 +38,7 @@ cards:
       the total number of Americans killed in the entire Iraq War).
     _key: card-2-5667b0d6-2b23-4207-8ef8-963c93254cea
   - order: 2
+    useCheckmark: false
     body: >-
       # “Operation Overlord”
 
@@ -43,14 +46,15 @@ cards:
       ## General Eisenhower commanded the invasion.
 
 
-      The invasion involved **5,000 ships,** **1,200 planes** and **100,000
-      ground troops** assaulting bunkered German forces across five beaches code
+      The invasion involved**5,000 ships,****1,200 planes** and**100,000 ground
+      troops** assaulting bunkered German forces across five beaches code
       named:A Utah, Omaha, Gold, Juno, and Sword.
 
 
       Flip: Hitler's Reaction
     _key: card-3-d23990a9-d4e6-473a-9517-e530e8e3ad0b
   - order: 3
+    useCheckmark: false
     body: >-
       # “Well, is it or isn’t it the invasion?”
 
@@ -68,6 +72,7 @@ cards:
       What's D - in D-Day?
     _key: card-4-6facd8b1-9740-4152-b6bc-a2a7ce344144
   - order: 4
+    useCheckmark: true
     body: >-
       From U.S. Army: "D in D-Day merely stands for Day. This coded designation
       was used for the day of any important invasion or military operation."

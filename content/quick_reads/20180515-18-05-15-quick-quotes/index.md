@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # QUICK QUOTES
 
@@ -34,6 +35,7 @@ cards:
       top of the 29,029-foot mountain.
     _key: card-1-81bdb291-3b7e-44dd-a32e-da46b7b19e3e
   - order: 1
+    useCheckmark: false
     body: >-
       > **‘The legalization of sports gambling requires an important policy
       choice, but the choice is not ours to make. Congress can regulate sports
@@ -47,6 +49,7 @@ cards:
       leagues, the NCAA & the Trump administration oppose the ruling.
     _key: card-2-b193c766-5e85-4434-8c61-ba17e429fe98
   - order: 2
+    useCheckmark: false
     body: >-
       > **“When you’re in the air 20,000 feet above the ground and don’t know
       what’s going on, it’s not uneventful.”**  
@@ -63,6 +66,7 @@ cards:
     citation: Watch Now
     _key: card-3-1174340d-4b58-40b7-a302-ca842215a771
   - order: 3
+    useCheckmark: false
     body: >-
       > “Whether I’m running around southern Wisconsin or America, nobody is
       talking about Stormy Daniels. Nobody is talking about Russia. They’re
@@ -76,6 +80,7 @@ cards:
       asset to the GOP.
     _key: card-4-dcb571e6-8a6e-48aa-a383-c716ff05c91f
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-05-15-quick-quotes/)'
     _key: card-10-e9a4422e-936a-4bbd-a853-635440c58cc7
 

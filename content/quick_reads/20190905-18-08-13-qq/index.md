@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “Nah, I mean, I don’t need that much help. I’ve played some video games
       before.”  
@@ -32,6 +33,7 @@ cards:
       wooded area and died. There were no passengers aboard.
     _key: card-1-c0203310-b966-4be1-9c02-4d3907907278
   - order: 1
+    useCheckmark: false
     body: >-
       > “The place is going to burn.”  
         
@@ -43,6 +45,7 @@ cards:
       of "retaliation."
     _key: card-2-d5d61b5f-6f72-4f02-a1ec-d49b9cd75010
   - order: 2
+    useCheckmark: false
     body: >-
       "Monsanto made Roundup the OxyContin of pesticides, and now the addiction
       and damage they caused have come home to roost."  
@@ -54,6 +57,7 @@ cards:
       alleging Roundup causes cancer, a claim Monsanto denies.
     _key: card-3-3ca63454-309e-4683-91b3-242372f992e7
   - order: 3
+    useCheckmark: true
     body: |-
       Have a good week!
 

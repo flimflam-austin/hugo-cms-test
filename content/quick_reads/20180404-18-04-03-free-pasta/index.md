@@ -20,19 +20,21 @@ card_series: Health
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       A Little Pasta A Day…  
       Keeps The Doctor Away? ==============================================
 
-      > New study shows eating **PASTA** may actually help you **LOSE** weight.
+      > New study shows eating**PASTA** may actually help you**LOSE** weight.
 
       Flip: Say What?
     citation: 'Flip: Say What?'
     _key: card-1-1d34d7df-c48c-444a-9d7b-f00de44752d0
   - order: 1
+    useCheckmark: false
     body: >-
-      > ‘The study found that that pasta **didn’t contribute to weight gain or
-      increase in body fat**. In fact analysis actually showed a **small weight
+      > ‘The study found that that pasta**didn’t contribute to weight gain or
+      increase in body fat**. In fact analysis actually showed a**small weight
       loss**.’  
         
         
@@ -44,18 +46,19 @@ cards:
     citation: Flip To Rejoice!
     _key: card-2-c109ca6d-610d-42a4-a919-d920ce4a4554
   - order: 2
+    useCheckmark: false
     body: >-
       ## Study Details
 
 
-      * Nearly **2,500** participants – ate a little more than **3 servings of
+      * Nearly**2,500** participants – ate a little more than**3 servings of
       pasta a week**.
 
-      * Serving Size: **1/2 cup**.
+      * Serving Size:**1/2 cup**.
 
       * Pasta replaced other carbs.
 
-      * Pasta part of a broader **low glycemic** (low-GI) diet (i.e. no bread).
+      * Pasta part of a broader**low glycemic** (low-GI) diet (i.e. no bread).
 
 
       [Click: Low-GI
@@ -63,18 +66,20 @@ cards:
     citation: 'Click: Low-GI foods'
     _key: card-3-795dba0e-ed4b-4245-9ee9-fd2e258d62b2
   - order: 3
+    useCheckmark: false
     body: >-
       ## But…Why Did Pasta Lead To Weight Loss?
 
 
-      Researchers aren’t 100% sure…but say : _“lower-GI foods have been shown to
-      be **more satiating** and **delay hunger** and **decrease subsequent
-      energy intake.**_
+      Researchers aren’t 100% sure…but say :_“lower-GI foods have been shown to
+      be**more satiating** and**delay hunger** and**decrease subsequent energy
+      intake.**_
 
 
-      Translation? **A little pasta may have made eaters feel fuller, longer.**
+      Translation?**A little pasta may have made eaters feel fuller, longer.**
     _key: card-4-7090c5e7-8673-4d2d-984d-6e034c7c2e75
   - order: 4
+    useCheckmark: true
     body: >-
       Why all this confusion about carbs vs. no-carbs etc? Maybe it's this: "We
       learn nothing about nutrition, claim medical students" (BBC) - Worth a

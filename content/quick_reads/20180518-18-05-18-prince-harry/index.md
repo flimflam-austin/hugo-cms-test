@@ -16,14 +16,16 @@ card_series: Now You Know
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # HERE COMES THE GROOM!
 
-      **The Prince has 4 names …** **none of them are Harry.**
+      **The Prince has 4 names …****none of them are Harry.**
 
       FLIP here for more
     _key: card-1-46805eae-7c4f-4fd4-9257-d27606eb0694
   - order: 1
+    useCheckmark: false
     body: >-
       ## His Royal Highness
 
@@ -41,6 +43,7 @@ cards:
       George, Princess Charlotte & newborn Prince Louis
     _key: card-2-800f7e57-aa66-4cd8-92c9-0f9a619da941
   - order: 2
+    useCheckmark: false
     body: >-
       > In 2015, Prince Harry ended his decade-long career in the British Army.
       During that time, he
@@ -60,6 +63,7 @@ cards:
       Flip: Why Invictus Games Matter
     _key: card-3-92df9aa9-58f8-41f7-aad3-f2a9e260613a
   - order: 3
+    useCheckmark: false
     body: >-
       > “In a world where so many have reasons to feel cynical and apathetic, I
       wanted to find a way for veterans to be a beacon of light, and show us all
@@ -70,6 +74,7 @@ cards:
       tournament for wounded veterans he founded in 2014.
     _key: card-4-0f923802-c8b9-4613-ac71-4bc82edb2261
   - order: 4
+    useCheckmark: true
     body: >-
       The Prince's soon-to-be bride's real name is Rachel Meghan Markle. When
       they marry, the Queen is expected to give them the title of Duke & Duchess

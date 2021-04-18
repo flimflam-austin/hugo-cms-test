@@ -16,6 +16,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “Overall, I think youth are making better decisions, particularly about
       their sexual behavior & their drug use.”  
@@ -31,6 +32,7 @@ cards:
       REPORT](https://www.cdc.gov/media/releases/2018/p0614-yrbs.html)
     _key: card-1-bd4d9efd-d12e-4479-bbf6-33763d986b9a
   - order: 1
+    useCheckmark: false
     body: >-
       > “As our investigation reveals, the Trump Foundation was little more than
       a checkbook for payments from Mr. Trump or his business to nonprofits,
@@ -42,6 +44,7 @@ cards:
       Trump denies allegations & vows to not settle.
     _key: card-2-f4bf63d3-f109-4e18-b60d-b149c95874b8
   - order: 2
+    useCheckmark: false
     body: >-
       “We’re taking a bet on a guy who doesn’t like to fail.”  
         
@@ -56,6 +59,7 @@ cards:
       Now](https://www.youtube.com/embed/tfV8z2JY_bI?enablejsapi=1&autoplay=1&rel=0)
     _key: card-3-ed44fc92-8652-4490-8a9d-c9233a47ae89
   - order: 3
+    useCheckmark: false
     body: >-
       “She was a pioneer and icon in the women’s game & made a profound and
       lasting impact at all levels as a player, coach, colleague & friend.”  
@@ -67,6 +71,7 @@ cards:
       guiding the Seattle Storm to a championship in 2004.
     _key: card-4-eee14f4a-f5ce-40d9-ac5c-9b5f23b1a72f
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-06-15-quick-quotes/)'
     _key: card-10-9394b787-e6fd-4dc5-b240-e94984e8c8a8
 

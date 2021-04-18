@@ -20,6 +20,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       NASA explains supernumerary rainbows only form "when falling water
       droplets are nearly all the same size" with sunlight not only reflecting

@@ -20,6 +20,7 @@ card_series: SmartHER News
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # The Longest War
 
@@ -31,6 +32,7 @@ cards:
       What To Know
     _key: 95faf7f63666
   - order: 1
+    useCheckmark: false
     body: >-
       ## Big Picture: Afghanistan
 
@@ -45,6 +47,7 @@ cards:
       al-Qaeda-linked groups continue violent attacks despite the deal’s terms.
     _key: 832c7a39411a
   - order: 2
+    useCheckmark: false
     body: >-
       ## Reports: What To Know
 
@@ -52,7 +55,7 @@ cards:
       * Several media outlets recently released stories about a Russian military
       agency paying “Taliban-linked” militants to kill American soldiers.
 
-      * All reports ***cite anonymous sources.***
+      * All reports***cite anonymous sources.***
 
       * Reports: U.S. intel identified money flowing from Russian military to
       Taliban accounts “most likely” connected to bounties.
@@ -61,6 +64,7 @@ cards:
       of bounty.
     _key: 1cfafd61a82a
   - order: 3
+    useCheckmark: false
     body: >-
       > “There was not a consensus among the intelligence community. And, in
       fact, there were dissenting opinions within the intelligence community,
@@ -71,6 +75,7 @@ cards:
       Monday. The White House continues to call the reports "unverified."
     _key: 4b1bf45f9ced
   - order: 4
+    useCheckmark: false
     body: >-
       > “I do not understand for a moment why the president is not saying this
       to the American people right now and is relying on ‘I don’t know,’ ‘I
@@ -81,6 +86,7 @@ cards:
       officials, cite the President heard of these reports in February.
     _key: 36689d960c71
   - order: 5
+    useCheckmark: false
     body: >-
       > “We are still investigating the alleged intelligence referenced in
       recent media reporting, and we will brief the president and congressional
@@ -92,6 +98,7 @@ cards:
       Dir. of National Intelligence John Ratcliffe
     _key: 2d630466919e
   - order: 6
+    useCheckmark: false
     body: >-
       ## The Politics
 
@@ -105,6 +112,7 @@ cards:
       collusion.
     _key: 784aacac2ce8
   - order: 7
+    useCheckmark: true
     body: >-
       America entered Afghanistan because the Taliban provided al-Qaeda a safe
       harbor to organize, train, and plot September 11th terror attacks. A

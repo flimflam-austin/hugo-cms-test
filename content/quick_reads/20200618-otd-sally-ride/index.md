@@ -20,12 +20,14 @@ card_series: On This Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # June 18, 1983
 
       Sally Ride becomes the first American woman in space
     _key: ffc3b873cf46
   - order: 1
+    useCheckmark: false
     body: >-
       > ‘I wasn’t really scared. I was very excited, and I was very anxious.
       When you’re getting ready to launch into space, you’re sitting on a big
@@ -35,6 +37,7 @@ cards:
       "The stars don't look bigger, but they do look brighter."
     _key: 0d477ce29f7a
   - order: 2
+    useCheckmark: false
     body: >-
       ## DR. SALLY RIDE
 
@@ -53,6 +56,7 @@ cards:
       * Awarded Presidential Medal of Freedom (2013).
     _key: e01fe93ae0ea
   - order: 3
+    useCheckmark: false
     body: >-
       > “When I was a little girl, I dreamed of flying in space. Amazingly
       enough, and I still can’t believe it, that dream came true. And through
@@ -63,22 +67,24 @@ cards:
       Sally Ride at the 2002 Sally Ride Science Club's Boston Science Festival
     _key: ff4025875c1b
   - order: 4
+    useCheckmark: false
     body: >-
       ## WOMEN IN SPACE
 
 
-      * NASA: **65 women** in space.
+      * NASA:**65 women** in space.
 
       * Ride became the third woman in space; 20 years prior (1963) a Soviet
       cosmonaut became the first, while another became the second in 1982.
 
       * Two American astronauts made space history last October in the first
-      spacewalk by an **all-woman team**.
+      spacewalk by an**all-woman team**.
 
       * One of the astronauts from all-woman team, Christina Koch, spent 329
       days – the longest spaceflight by a woman.
     _key: 0da93ca406fa
   - order: 5
+    useCheckmark: true
     body: >-
       Ride spent the final years of her life advocating for science, technology,
       engineering, and math (STEM) education for girls and young women.

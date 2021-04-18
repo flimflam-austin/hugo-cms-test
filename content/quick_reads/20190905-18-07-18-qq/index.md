@@ -20,9 +20,11 @@ card_series: Quotes
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: "> “Ready for lift off! New Shepard is gearing up for its ninth mission. We’ll be doing a high altitude escape motor test a\x13 pushing the rocket to its limits.”  \n  \n  \n  \nBlue Origin, Jeff Bezos' spaceflight company, on the blast off of its suborbital spaceship scheduled for July 18. When it's ready for human flight, tickets will cost at least $200K.\n\n[WATCH LAUNCH HERE](https://www.blueorigin.com/#youtubeNRDhdHRyyjc)"
     _key: card-1-4e142d63-147d-4e8d-a24f-9915502fb091
   - order: 1
+    useCheckmark: false
     body: >-
       > “Whoops, they just turned off the light.A That must be the intelligence
       agents.”  
@@ -35,6 +37,7 @@ cards:
       briefly turned off.
     _key: card-2-b9ee0bff-c78c-484e-9257-2354a8abcac1
   - order: 2
+    useCheckmark: false
     body: >-
       > “I believe what belongs to you, comes to you. And I would have never
       thought this belonged to me, but obviously it did.”  
@@ -46,6 +49,7 @@ cards:
       covers, making it her 26th studio album to date.
     _key: card-3-b7cfd4d6-b52a-4658-bca8-8c6ba775d120
   - order: 3
+    useCheckmark: false
     body: >-
       > “I love you. I miss you. I’m sorry for anything that went wrong…. I want
       to be her child’s grandfather and I want to be near them. I want to be a
@@ -62,6 +66,7 @@ cards:
       Now](https://www.youtube.com/embed/fucTtvyssFg?enablejsapi=1&autoplay=1&rel=0)
     _key: card-4-0a4cc55e-3d2b-4c44-b727-e67a4c9b3312
   - order: 4
+    useCheckmark: true
     body: |-
       Have a great day!
 

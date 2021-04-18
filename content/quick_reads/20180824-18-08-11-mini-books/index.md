@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## The Rise of The Mini Book
 
@@ -31,6 +32,7 @@ cards:
       Introducing Flipbacks
     _key: card-1-a2e2cd93-2998-491e-82c8-437ae411db51
   - order: 1
+    useCheckmark: false
     body: >-
       ## “Flipbacks”
 
@@ -53,6 +55,7 @@ cards:
       Now](https://www.youtube.com/embed/NgIa_RgiY0U?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-7c78d29a-0caf-48db-af7e-b32ae1392aae
   - order: 2
+    useCheckmark: false
     body: >-
       ## “Phone-Shaped”
 
@@ -66,6 +69,7 @@ cards:
       format in U.S. His flipback titles will sell this fall.
     _key: card-3-ae73efb6-9842-4bdc-9690-724e8af18637
   - order: 3
+    useCheckmark: true
     body: >-
       While overall book sales increased last year in America, paperback sales
       fell. Will this "Flipback" be the 'novel' new novel? In 2011, one European

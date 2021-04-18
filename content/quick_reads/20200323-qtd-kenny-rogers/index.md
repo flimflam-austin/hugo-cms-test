@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“When I was young, my mom gave me one of the greatest pieces of advice
       I’ve ever gotten….She said, ‘Son, be happy where you are. Never be content
@@ -29,6 +30,7 @@ cards:
     citation: KENNY ROGERS
     _key: 380e84c40bf1
   - order: 1
+    useCheckmark: true
     body: >-
       Kenny Rogers passed away Saturday. The son of a carpenter and a part-time
       cleaning lady sold 100 million+ records. The Grammy winner also won 19

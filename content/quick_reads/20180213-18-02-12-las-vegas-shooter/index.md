@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Unsolved Mystery
 
@@ -36,6 +37,7 @@ cards:
       Flip Here
     _key: card-1-aec0374f-235b-4d35-8b8d-9b51308c35d0
   - order: 1
+    useCheckmark: false
     body: |-
       # What We Learned From Autopsy
 
@@ -46,6 +48,7 @@ cards:
       * No further clarity on motive.
     _key: card-2-8114660f-23e6-4dc3-9ee6-47628c0c3816
   - order: 2
+    useCheckmark: false
     body: >-
       # Searching For Answers
 
@@ -57,6 +60,7 @@ cards:
       examining shooter's brain.
     _key: card-3-bba13363-d9a3-4460-be47-c7520f12fb20
   - order: 3
+    useCheckmark: false
     body: |-
       # Why It Matters
 
@@ -69,6 +73,7 @@ cards:
       “Did he have help?”
     _key: card-4-48c50bcf-b52e-4fde-abc2-b2eb45e22be8
   - order: 4
+    useCheckmark: false
     body: >-
       # Las Vegas Shooting
 
@@ -84,6 +89,7 @@ cards:
       recent data collection.
     _key: card-5-0758bc8d-3fd9-4e91-9e63-5781955a8ef3
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-02-12-las-vegas-shooter/)'
     _key: card-10-2ea969ca-085a-413e-b7ba-03be5208429f
 

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Do You Have COVID?
 
@@ -31,6 +32,7 @@ cards:
       New study reveals their current findings.
     _key: 024793d801d3
   - order: 1
+    useCheckmark: false
     body: >-
       ## Backstory
 
@@ -46,6 +48,7 @@ cards:
       attempted to associate these categories to potential severity of disease.
     _key: d12d26b75fb8
   - order: 2
+    useCheckmark: false
     body: |-
       ## The 6 Categories
 
@@ -62,6 +65,7 @@ cards:
       6. Severe level 3, abdominal and respiratory
     _key: 7a304f326ef7
   - order: 3
+    useCheckmark: false
     body: >-
       ## Potential “Early Warning”?
 
@@ -77,6 +81,7 @@ cards:
       serious case and enable doctors to intervene early.
     _key: 3a9f11f67605
   - order: 4
+    useCheckmark: false
     body: >-
       > “Certainly, we will have to see how this performs in the ‘real world.’
       With widespread use, it should ‘learn’ and become progressively more
@@ -88,6 +93,7 @@ cards:
       doctors with care plans.
     _key: b65eb5942017
   - order: 5
+    useCheckmark: true
     body: >-
       For a complete list of category symptoms, click on our source page. The
       study is not "peer reviewed" - an important step that helps validate

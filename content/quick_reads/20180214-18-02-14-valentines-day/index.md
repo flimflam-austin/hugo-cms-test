@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Valentine’s Day:
 
@@ -35,6 +36,7 @@ cards:
       CLICK HERE TO FLIP
     _key: card-1-46bf13ea-9b7b-47b7-beef-6d38b9f3d3a6
   - order: 1
+    useCheckmark: false
     body: >-
       # Did You Know?
 
@@ -52,15 +54,16 @@ cards:
       Cards](http://time.com/4663003/esther-howland-valentines/)
     _key: card-2-a57cc265-7b41-4e4b-8f5a-3c6e82d91077
   - order: 2
+    useCheckmark: false
     body: >-
       # How Do We Celebrate Valentine’s Day?
 
 
       * **More than half** of all Americans plan to celebrate.
 
-      * Average $pending:A **$143.56.**
+      * Average $pending:A**$143.56.**
 
-      * Total $pending est: **$19.6 billion**, including $1.8 billion on candy,
+      * Total $pending est:**$19.6 billion**, including $1.8 billion on candy,
       $2 billion on flowers, and $4.7 billion on jewelry.
 
 
@@ -69,6 +72,7 @@ cards:
       It's Not All Sweet...Flip!
     _key: card-3-977754ba-5a57-4c7b-9707-0953e9a28708
   - order: 3
+    useCheckmark: false
     body: >-
       # OTD 1929:
 
@@ -88,10 +92,11 @@ cards:
       Photos](http://www.history.com/news/valentines-day-massacre-capone)
     _key: card-4-9195480c-d8ed-405b-a0dd-e71cdbc603e8
   - order: 4
+    useCheckmark: false
     body: >-
       Also Today:  
 
-      Ash Wednesday 
+      Ash Wednesday
 
 
       * For the first time in 73 years, Ash Wednesday & Valentine’s Day fall on
@@ -103,6 +108,7 @@ cards:
       faith.
     _key: card-5-8761b533-efd8-4729-83ea-5688884c9a1b
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-02-14-valentines-day/)'
     _key: card-10-ca478c8e-0cfa-41ce-8568-87874fa9eed3
 

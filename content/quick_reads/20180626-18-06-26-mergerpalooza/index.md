@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Media Love Triangle
 
@@ -34,6 +35,7 @@ cards:
       FLIP: Chasing a sly fox
     _key: card-1-0f1cb086-c78f-4306-842b-8c088da5f85b
   - order: 1
+    useCheckmark: false
     body: >-
       ## Get Me Up to Speed
 
@@ -53,6 +55,7 @@ cards:
       Oh the drama...
     _key: card-2-85030851-6700-4d0d-a3ea-fc832815ce12
   - order: 2
+    useCheckmark: false
     body: >-
       ## $71B?! Why So Much?
 
@@ -66,6 +69,7 @@ cards:
       distribution. Media cos. need to get in the game to compete.
     _key: card-3-a64e042f-1674-4748-a5dd-ad93473578f9
   - order: 3
+    useCheckmark: true
     body: >-
       Whoever wins in the end - Disney or Comcast - it's important to note Fox
       would retain some assets, including Fox News and Fox Broadcasting Company.

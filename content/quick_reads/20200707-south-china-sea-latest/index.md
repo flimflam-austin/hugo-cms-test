@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > While Americans celebrated Independence Day at home, two U.S. aircraft
       carrier strike groups sailed together in the South China Sea — in the name
@@ -28,6 +29,7 @@ cards:
       What To Know
     _key: 35a3caa0fb0e
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Happened?
 
@@ -44,6 +46,7 @@ cards:
       region.
     _key: 982b561dfb19
   - order: 2
+    useCheckmark: false
     body: >-
       > “These efforts support enduring U.S. commitments to stand up for the
       right of all nations to fly, sail, and operate wherever international law
@@ -57,6 +60,7 @@ cards:
       strategically-important and disputed waterway.
     _key: d16e27a0001f
   - order: 3
+    useCheckmark: false
     body: >-
       > “…the U.S. deliberately dispatched massive forces to conduct large-scale
       military exercises in the relevant waters of the South China Sea to flex
@@ -69,6 +73,7 @@ cards:
       very easily spark an unforeseen incident."
     _key: 9436b521766f
   - order: 4
+    useCheckmark: false
     body: >-
       ## Overview: South China Sea
 
@@ -84,6 +89,7 @@ cards:
       consider international waters.
     _key: c0088df6dc8c
   - order: 5
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -100,6 +106,7 @@ cards:
       posture.
     _key: 6008d2429cc0
   - order: 6
+    useCheckmark: true
     body: >-
       The U.S. is one of the few nations in the world with aircraft carriers in
       its fleet, with a total of 12 -- more than any other nation. China has two

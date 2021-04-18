@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # SPRINGING AHEAD
 
@@ -30,6 +31,7 @@ cards:
       > HINT: It has nothing to do with helping farmers.
     _key: card-1-e6aa6e97-fb5a-4fe2-bf3d-76c1e5cda762
   - order: 1
+    useCheckmark: false
     body: >-
       ## 3 Things To Know About Daylight Saving Time (DST)
 
@@ -43,12 +45,13 @@ cards:
       3. Daylight saving time lasts 8 months. Standard time lasts 4 months.
     _key: card-2-0523da89-f9a1-4048-a692-fe237c4e7b5d
   - order: 2
+    useCheckmark: false
     body: >-
       ## ORIGINS
 
 
-      * Federal gov’t mandated daylight saving time (DST) in 1918 during
-      **WWI**, & again during **WWII**.
+      * Federal gov’t mandated daylight saving time (DST) in 1918 during**WWI**,
+      & again during**WWII**.
 
       * **1966:** Congress standardized DST start & end dates requiring
       observing states to be in sync, but allowed states to opt out.
@@ -57,6 +60,7 @@ cards:
       set the end for the 1st Sunday in November.
     _key: card-3-21ec9098-5a96-4c49-9da2-eb132d9028e0
   - order: 3
+    useCheckmark: false
     body: >-
       ## Did You Know?
 
@@ -73,6 +77,7 @@ cards:
       time.
     _key: card-4-e49a41c7-aabe-431e-a2cc-acc02a8a7d2e
   - order: 4
+    useCheckmark: false
     body: >-
       > _“I prefer Daylight Savings over Standard but in the end what I really
       want is to end this stupid twice a year time shift. Let’s
@@ -84,6 +89,7 @@ cards:
       daylight saving time.
     _key: card-5-02175fcf-cf97-4f0b-925c-27eb0be74e81
   - order: 5
+    useCheckmark: true
     body: >-
       Changing our clocks was controversial from the beginning with complaints
       about BIG gov't. According to a 2019 poll by the Associated Press, less

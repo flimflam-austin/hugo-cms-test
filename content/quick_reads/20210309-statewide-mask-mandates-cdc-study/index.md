@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ### A new study from the CDC takes a closer look at the *potential* impact
       of statewide mask mandates and indoor dining on COVID-19 cases.
@@ -27,6 +28,7 @@ cards:
       ### Here’s what the study shows & why it matters.
     _key: 5ac8a2010ece
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Research
 
@@ -43,6 +45,7 @@ cards:
       21-40, 41-60, 61-80, + 81-100).
     _key: 6b35754591c0
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Results
 
@@ -59,6 +62,7 @@ cards:
       transmission of COVID-19.” -CDC_
     _key: c4197e1f5ee7
   - order: 3
+    useCheckmark: false
     body: >-
       > “You have decreases in cases and deaths when you wear masks, and you
       have increases in cases and deaths when you have in-person restaurant
@@ -71,6 +75,7 @@ cards:
       these prevention measures."
     _key: 661d8fcda2ec
   - order: 4
+    useCheckmark: false
     body: >-
       ## Limitations Of The Study
 
@@ -85,6 +90,7 @@ cards:
       restrictions + distancing) could impact results.
     _key: 8ad0403c6eea
   - order: 5
+    useCheckmark: false
     body: >-
       > “If a positive correlation between ice cream sales and shark attacks is
       found, that would not mean that ice cream causes shark attacks.”
@@ -97,6 +103,7 @@ cards:
       conclusions, as in the maxim "Correlation does not equal causation."
     _key: aa60e6210b48
   - order: 6
+    useCheckmark: false
     body: >-
       > “We are maintaining the masks.”
 
@@ -110,6 +117,7 @@ cards:
       are all variables to research.
     _key: dc5d6af64a5a
   - order: 7
+    useCheckmark: true
     body: >-
       The CDC calls the difference of infections and statewide mask mandates (an
       ultimate decrease of nearly 2%) & indoor dining reopening (an increase of

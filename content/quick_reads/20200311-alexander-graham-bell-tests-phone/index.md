@@ -20,12 +20,14 @@ card_series: On This Day
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # March 10, 1876
 
       First successful test of the telephone by Alexander Graham Bell.
     _key: cb08b4cff347
   - order: 1
+    useCheckmark: false
     body: >-
       > “…the day is coming when telegraph wires will be laid on to houses just
       like water and gas — and friends converse with each other without leaving
@@ -38,6 +40,7 @@ cards:
       sound are said to have helped inspire his invention.
     _key: a4bd578e4a7c
   - order: 2
+    useCheckmark: false
     body: >-
       ## DID YOU KNOW?
 
@@ -45,15 +48,16 @@ cards:
       **Alexander Graham Bell: lifelong inventor.**
 
 
-      * Bell invented a modern version of a **metal detector** used when Pres.
+      * Bell invented a modern version of a**metal detector** used when Pres.
       Garfield was shot to try to find the bullet; he was unsuccessful.
 
-      * Bell became involved in **aeronautics**, building kites that carried
+      * Bell became involved in**aeronautics**, building kites that carried
       passengers and powered aircrafts.
 
-      * Bell co-founded the **National Geographic Society**.
+      * Bell co-founded the**National Geographic Society**.
     _key: e0745ea4753e
   - order: 3
+    useCheckmark: true
     body: >-
       Bell was 29 when he first successfully tested the telephone. Today, more
       than 95% of Americans own a cell phone of some kind.

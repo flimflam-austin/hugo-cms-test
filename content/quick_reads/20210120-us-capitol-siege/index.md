@@ -19,11 +19,13 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       What we’ve learned & the questions still unanswered two weeks after the
       historic Capitol Hill riot.
     _key: 126beb6b3a74
   - order: 1
+    useCheckmark: false
     body: >-
       > “This is an unprecedented incident. If this investigation was a football
       game, we’d still be in the first quarter.”
@@ -35,23 +37,25 @@ cards:
       and over 140,000 photos and videos.
     _key: 8b5bf6b90c84
   - order: 2
+    useCheckmark: false
     body: >-
       ## Aftermath
 
 
-      * Ongoing **investigations** by U.S. Capitol Police, D.C. police, &
-      federal agencies, including DHS, DOD, DOJ, and FBI.
+      * Ongoing**investigations** by U.S. Capitol Police, D.C. police, & federal
+      agencies, including DHS, DOD, DOJ, and FBI.
 
-      * U.S. Capitol Police Chief **resigned,** and several officers are
-      **suspended** pending investigations into their actions.
+      * U.S. Capitol Police Chief**resigned,** and several officers
+      are**suspended** pending investigations into their actions.
 
-      * Five **died** from their injuries, including a U.S. Capitol Police
+      * Five**died** from their injuries, including a U.S. Capitol Police
       officer.
 
-      * Over 270 **suspects** identified by law enforcement and at least 125
-      **charged** in federal courts.
+      * Over 270**suspects** identified by law enforcement and at least
+      125**charged** in federal courts.
     _key: 282186b57ff7
   - order: 3
+    useCheckmark: false
     body: >-
       ## Perpetrators
 
@@ -65,6 +69,7 @@ cards:
       President Mike Pence & House Speaker Nancy Pelosi.
     _key: 853635bfa2a0
   - order: 4
+    useCheckmark: false
     body: |-
       ## Charges
 
@@ -78,6 +83,7 @@ cards:
       * Conspiracy
     _key: f5f2aafd1828
   - order: 5
+    useCheckmark: false
     body: >-
       ## Unanswered Questions
 
@@ -96,6 +102,7 @@ cards:
       whom?
     _key: 662b7e1f5636
   - order: 6
+    useCheckmark: true
     body: >-
       BIG PICTURE: Although the number of criminal cases are increasing daily,
       the legal proceedings are still in very early stages. As the numerous

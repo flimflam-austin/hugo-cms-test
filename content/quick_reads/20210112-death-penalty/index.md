@@ -19,6 +19,7 @@ card_series: Now You Know
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       A closer look at the federal death penalty – on the eve of what could be
       the 11th federal execution after a 17-yr pause.
@@ -27,6 +28,7 @@ cards:
       Why It Matters
     _key: 10b48aeb9da4
   - order: 1
+    useCheckmark: false
     body: >-
       > “The Justice Department upholds the rule of law—and we owe it to the
       victims and their families to carry forward the sentence imposed by our
@@ -40,6 +42,7 @@ cards:
       death penalty.
     _key: 0b5a6357ccb4
   - order: 2
+    useCheckmark: false
     body: >-
       ## Death Penalty: Modern Era
 
@@ -55,6 +58,7 @@ cards:
       the first time since 2003.
     _key: 436525e9c366
   - order: 3
+    useCheckmark: false
     body: >-
       ## Death Penalty:  
 
@@ -71,12 +75,15 @@ cards:
       crime.
     _key: d064dfba2131
   - order: 4
-    body: "## Death Penalty: Today\n\n* **Federal & U.S. military:** Death penalty authorized\n* **22+DC:** States **without** the\_death penalty\n* **28:** States **with** death penalty – some of which have moratoriums in place preventing executions\n\n**Moratoriums matter:** New Hampshire hadn’t executed anyone since 1939, and repealed the death penalty in 2019."
+    useCheckmark: false
+    body: "## Death Penalty: Today\n\n* **Federal & U.S. military:** Death penalty authorized\n* **22+DC:** States**without** the\_death penalty\n* **28:** States**with** death penalty – some of which have moratoriums in place preventing executions\n\n**Moratoriums matter:** New Hampshire hadn’t executed anyone since 1939, and repealed the death penalty in 2019."
     _key: 5111c18f3fd7
   - order: 5
+    useCheckmark: false
     body: "## Death Penalty: Big Picture\n\nThe number of states utilizing the death penalty and the number of state-level executions have recently declined.\n\n* **2020:** 7 executions by 5 states and 10 by federal gov’t\n* **2010:** 46 executions by 12 states\n* **2000:\_**85 executions by 14 states & 10 by federal gov’t (the second-highest since the death penalty was reinstated in 1976)"
     _key: d787897fd2d1
   - order: 6
+    useCheckmark: true
     body: >-
       The federal government carried out ten executions during the last six
       months of 2020. Three more federal death row inmates are scheduled to be

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## THE CROWN IN CRISIS?
 
@@ -30,11 +31,12 @@ cards:
       Are we witnessing a moment that will change it forever?
     _key: 7f29eab51870
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
 
-      The United Kingdom is one of the few surviving **constitutional monarchies
+      The United Kingdom is one of the few surviving**constitutional monarchies
       on the planet.**
 
 
@@ -45,12 +47,13 @@ cards:
       Others include Belgium, Spain, Sweden, and Thailand.
     _key: b6a999a3fb26
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Stakes
 
 
       The Duke & Duchess of Sussex, Prince Harry & Meghan Markle, want to create
-      a new hybrid role, **one that has no precedent.**
+      a new hybrid role,**one that has no precedent.**
 
 
       * maintain their royal titles but step back as “senior members” of the
@@ -62,24 +65,27 @@ cards:
       * partially split their time abroad
     _key: eda08d6ea521
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Modern UK Monarchy
 
 
-      * Dates back to **1707** when the English and Scottish kingdoms merged to
-      form the **United Kingdom of Great Britain**.
+      * Dates back to**1707** when the English and Scottish kingdoms merged to
+      form the**United Kingdom of Great Britain**.
 
       * There have been 12 monarchs (Kings or Queens) and four Houses
-      (dynasties) since 1707. Currently, led by **Queen Elizabeth II** of the
-      **House of Windsor**.
+      (dynasties) since 1707. Currently, led by**Queen Elizabeth II** of
+      the**House of Windsor**.
 
       * Since its inception, the UK monarchy has fought to stay in existence
-      with its strength **largely dependent on the support of its citizens**.
+      with its strength**largely dependent on the support of its citizens**.
     _key: d1d846f33725
   - order: 4
-    body: "## The House Of Windsor\n\n**Did You Know?** 3 of the 4 monarchs were not born likely to ascend to the throne.\n\n* **1917:** The Queen’s grandpa **King George V** was born 3rd in the line to the crown\n* **1936:** The Queen’s father (the second son of George V) became King after her uncle, **King Edward VIII** abdicated the throne to marry an American divorcee.\n* **1952:**\_**Queen Elizabeth II** (25) ascends to the throne after death of her father."
+    useCheckmark: false
+    body: "## The House Of Windsor\n\n**Did You Know?** 3 of the 4 monarchs were not born likely to ascend to the throne.\n\n* **1917:** The Queen’s grandpa**King George V** was born 3rd in the line to the crown\n* **1936:** The Queen’s father (the second son of George V) became King after her uncle,**King Edward VIII** abdicated the throne to marry an American divorcee.\n* **1952:**\_**Queen Elizabeth II** (25) ascends to the throne after death of her father."
     _key: 1a22fc92361a
   - order: 5
+    useCheckmark: false
     body: >-
       > “I have found it impossible to carry the heavy burden of responsibility
       and to discharge my duties as King, as I would wish to do, without the
@@ -92,6 +98,7 @@ cards:
       chance at the crown.
     _key: bb86a50dd31d
   - order: 6
+    useCheckmark: false
     body: >-
       ## Not Just About England…
 
@@ -107,6 +114,7 @@ cards:
       countries.
     _key: 13f907af6236
   - order: 7
+    useCheckmark: true
     body: >-
       In February, the Queen (93) will mark 68 years on the throne. In 2015, she
       became the UK’s longest-reigning monarch, beating a record set by her

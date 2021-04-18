@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “HGTV??! Aw man. I’d be pretty upset if it were anyone else, but how can
       you be mad at HGTV?? My television is stuck on that channel. Kudos HGTV, I
@@ -32,6 +33,7 @@ cards:
       to HGTV - Bass had bid on the house.
     _key: card-1-829c8f13-59cc-446e-97ef-7e1c38ff3d5e
   - order: 1
+    useCheckmark: false
     body: >-
       > "Weather-wise, we are still seeing a lot of heat throughout California
       and every day the vegetation is getting even drier, so conditions could
@@ -43,6 +45,7 @@ cards:
       the largest fire in California history: the Mendocino Complex Fire.
     _key: card-2-55f1ed2b-f396-40ff-a5ce-d9772ca559c0
   - order: 2
+    useCheckmark: false
     body: >-
       > "The jury’s still out on how big a threat this is, but we think it’s a
       very important question to address."  
@@ -55,6 +58,7 @@ cards:
       they carry can be fatal.
     _key: card-3-ed097d43-a307-4251-99e7-ddc3cc88ac5d
   - order: 3
+    useCheckmark: false
     body: >-
       > "The process has been great, everyone has been really nice to me and I
       can’t wait to see where this goes."  
@@ -68,6 +72,7 @@ cards:
       tomorrow.
     _key: card-4-c0082611-f877-4201-ae19-2c8d1be54221
   - order: 4
+    useCheckmark: true
     body: |-
       Have a great day!
 

@@ -19,15 +19,17 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Some believe it will revolutionize the way we treat illness, including
-      cancer & **COVID.**
+      cancer &**COVID.**
 
 
-      The **innovations & limitations** of a cutting-edge vaccine technology as
-      the FDA considers another **mRNA vaccine** for emergency use.
+      The**innovations & limitations** of a cutting-edge vaccine technology as
+      the FDA considers another**mRNA vaccine** for emergency use.
     _key: 6dff2f853207
   - order: 1
+    useCheckmark: false
     body: >-
       ## mRNA
 
@@ -44,6 +46,7 @@ cards:
       “intruder” and build immunity against it.
     _key: 57adaae2dc7e
   - order: 2
+    useCheckmark: false
     body: >-
       > “With traditional vaccines, you have to do a lot of development. You
       need a big factory to make the protein, or the virus, and it takes a long
@@ -55,6 +58,7 @@ cards:
       the drugmaker Moderna, which has produced an mRNA COVID-19 vaccine.
     _key: 1a2433a69e11
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why This Is Different
 
@@ -70,13 +74,14 @@ cards:
       contagion is not a concern.
     _key: ba2b321a6ca2
   - order: 4
+    useCheckmark: false
     body: >-
       ## Limitations
 
 
-      * mRNA vaccines have **never been approved for human use**. One reason:
+      * mRNA vaccines have**never been approved for human use**. One reason:
       Past human trials have not shown enduring immunity. We don’t know the
-      exact length or quality of immunity **of any COVID vaccine** at this time.
+      exact length or quality of immunity**of any COVID vaccine** at this time.
 
       * **We have no long-term data on use of this vaccine technology**.
 
@@ -84,6 +89,7 @@ cards:
       refrigeration; mRNA vaccines need special freezers.
     _key: 8fa1a397346b
   - order: 5
+    useCheckmark: false
     body: >-
       > “The primary purpose of many vaccines is harm reduction. This is the
       best way to consider the latest COVID mRNA vaccines – as an aid to reduce
@@ -96,6 +102,7 @@ cards:
       development was possible for the SARS-CoV-2 virus that causes COVID-19.
     _key: a292567d1832
   - order: 6
+    useCheckmark: true
     body: >-
       To consider: Prior mRNA vaccine studies have not revealed major safety
       issues. The FDA's advisory board will review Moderna's mRNA vaccine for

@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Blue Jeans Getting Laser Treatment
 
@@ -34,6 +35,7 @@ cards:
       Flip For The Scoop
     _key: card-1-ad7e3450-6726-4f8e-8674-0ec202f8c324
   - order: 1
+    useCheckmark: false
     body: >-
       ## Levi: Jean Make-Over
 
@@ -50,9 +52,11 @@ cards:
       * Levi says in next 2 years all jeans will use lasers.
     _key: card-2-7bb4a335-93e6-4030-bbc6-aba744095e47
   - order: 2
+    useCheckmark: false
     body: "# Cleaner & Quicker\n\n> ‘Our goal was to tackle two predominant industry challenges a\x14 being able to respond quickly to changing consumer trends while making the manufacturing process more sustainable.’  \n  \n  \n  \nChip Bergh, Levi Strauss President & CEO, Feb 27, 2018"
     _key: card-3-30bbf8f4-315d-41af-9c3e-3bf5b2476379
   - order: 3
+    useCheckmark: false
     body: >-
       ## Levi Strauss = Real Person
 
@@ -70,6 +74,7 @@ cards:
       * First Jeans: Denim & Brown Cotton Duck (canvas material).
     _key: card-4-92038781-b73b-492f-8243-3019a68be963
   - order: 4
+    useCheckmark: false
     body: >-
       # Blue Jean Birthdate
 
@@ -90,6 +95,7 @@ cards:
       Jeans](http://time.com/4915850/oldest-womens-jeans/)
     _key: card-5-36ea35ed-c11e-4fe2-afb5-99e764714162
   - order: 5
+    useCheckmark: true
     body: >-
       Lasers = automation and automation can lead to job losses. What will that
       look like? TBD. Read More:

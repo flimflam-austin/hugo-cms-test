@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # WHAT’S NEXT?
 
@@ -39,17 +40,18 @@ cards:
     citation: what happened?
     _key: card-1-f2ad409d-991a-4abe-8356-7ed74ffe49ee
   - order: 1
+    useCheckmark: false
     body: >-
       # STEEP LOSSES
 
 
-      * 3 major stock indices (The Dow 30, S&P 500 & the Nasdaq Composite)
-      **dropped about 6%** on average last week – **worst weekly performance
-      since 2016**.
+      * 3 major stock indices (The Dow 30, S&P 500 & the Nasdaq
+      Composite)**dropped about 6%** on average last week –**worst weekly
+      performance since 2016**.
 
-      * The Dow ended at a **2018**A **low.**
+      * The Dow ended at a**2018**A**low.**
 
-      * And it’s not just the US…A **Globally, stocks shed $2.4 trillion** in
+      * And it’s not just the US…A**Globally, stocks shed $2.4 trillion** in
       market value last week.
 
 
@@ -57,6 +59,7 @@ cards:
     citation: WHY NOW?
     _key: card-2-357ddbaf-86a6-4796-98b4-151cc0941168
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why? Pick Your Poison:
 
@@ -75,6 +78,7 @@ cards:
     citation: 'CLICK: Trade Refresher'
     _key: card-3-69a5518f-8490-4ab3-9ff6-33309f6adede
   - order: 3
+    useCheckmark: false
     body: >-
       Will the Hits  
 
@@ -93,6 +97,7 @@ cards:
     citation: So Now What?
     _key: card-4-17e7436c-3253-464c-8f23-749d7c721031
   - order: 4
+    useCheckmark: false
     body: >-
       WHAT TO WATCH:
 
@@ -107,6 +112,7 @@ cards:
       * **Earnings season:** Begins late April
     _key: card-5-192c9ad6-f6a3-47f6-b5ab-3086257fd436
   - order: 5
+    useCheckmark: false
     body: >-
       # WALL ST. TO D.C.
 
@@ -114,13 +120,14 @@ cards:
       ## Some Perspective
 
 
-      * Despite the stock market’s recent struggles, the **Dow remains up about
+      * Despite the stock market’s recent struggles, the**Dow remains up about
       30% since Trump’s election**.
 
       * The Dow closed at 19,827 on Inauguration Day, Jan. 20, 2017, which means
       the Dow is still up 3,700 points in the ‘Trump rally.’
     _key: card-6-a8c48d41-7658-467c-9964-10ee0e6d5505
   - order: 6
+    useCheckmark: true
     body: >-
       Setting the tone for the trading week? The Trump Admin. says its not
       bluffing, vowing to push ahead on China tariffs despite market turbulence.

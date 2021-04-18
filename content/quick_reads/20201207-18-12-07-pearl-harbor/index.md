@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## AMERICA ATTACKED
 
@@ -33,6 +34,7 @@ cards:
       **Japanese attack Pearl Harbor**
     _key: card-1-6b98a393-692c-41b7-b340-cff4bbe8b6e7
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why Pearl Harbor?
 
@@ -50,6 +52,7 @@ cards:
       entombed underwater in the ship.
     _key: card-2-54766390-2750-4c39-873e-80dc0d2f00e2
   - order: 2
+    useCheckmark: false
     body: >-
       ## A First in 2018
 
@@ -67,11 +70,12 @@ cards:
       explaining why he isn’t traveling.
     _key: card-3-e27d64bf-24b7-406c-b419-5f2700be9ea8
   - order: 3
+    useCheckmark: false
     body: >-
       ## Not Just Soldiers Impacted
 
 
-      * **68 civilians died** in attack on Pearl Harbor, including **11 children
+      * **68 civilians died** in attack on Pearl Harbor, including**11 children
       under age of 16**.
 
       * Many civilians killed not by the Japanese but friendly fire, as bombs
@@ -81,6 +85,7 @@ cards:
       American soldier to shoot her hiding family if Japanese invaded.
     _key: card-4-83b73dcc-ffe3-4b42-bb42-6a6bb9039561
   - order: 4
+    useCheckmark: false
     body: >-
       “I saw a formation of black planes diving straight into the ocean off
       Pearl Harbor. The blue sky was punctured with anti-aircraft smoke puffs…I
@@ -93,6 +98,7 @@ cards:
       our source page).
     _key: card-5-1fb6a2fa-69e9-491b-b725-70fa6f0da071
   - order: 5
+    useCheckmark: true
     body: "December 7, 1941a\x14a date which will live in infamy - a famous phrase by Pres. Roosevelt uttered the day *after* the Pearl Harbor attack. Japan planned the attack while all along engaging in diplomatic talks with America. Listen to the speech:\n\n[view sources](https://smarthernews.com/18-12-07-pearl-harbor/)"
     _key: card-10-c6638dc9-974b-46ed-a794-2e517145b878
 

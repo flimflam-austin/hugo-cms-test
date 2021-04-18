@@ -20,6 +20,7 @@ card_series: Entertainment
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # IS YOUNG LOVE…ETERNAL?
 
@@ -33,6 +34,7 @@ cards:
       Here's The Data
     _key: card-1-5347e767-9d3f-417e-9505-5f9558a0da1f
   - order: 1
+    useCheckmark: false
     body: >-
       ## “But They’re So Young…”
 
@@ -50,19 +52,21 @@ cards:
       Cold Hard Facts
     _key: card-2-62f76869-db59-4f7b-87d9-754b2fbb2fe7
   - order: 2
+    useCheckmark: false
     body: >-
       ## What Research Says:
 
 
-      * Divorce rates within the first five years of marriage **dramatically
-      decrease** if you marry between the ages of 25 – 35…but **increase if you
-      marry** **younger OR older**.
+      * Divorce rates within the first five years of marriage**dramatically
+      decrease** if you marry between the ages of 25 – 35…but**increase if you
+      marry****younger OR older**.
 
       * Higher success rates of marriage for couple committed (not necessarily
       married) AFTER age 23-years-old; 60% divorce rate before 23 vs approx. 30%
       divorce rate after.
     _key: card-3-b46ea5d3-de2a-420a-90f6-9445892d2fca
   - order: 3
+    useCheckmark: false
     body: >-
       > “…older marriages now have higher divorce rates than those marrying
       28-32. I didn’t see this 20 years ago.A The mystery is why this has
@@ -78,6 +82,7 @@ cards:
       Take](https://ifstudies.org/blog/want-to-avoid-divorce-wait-to-get-married-but-not-too-long/)
     _key: card-4-b8174272-4ee5-42a4-8d5b-fbdd3963667d
   - order: 4
+    useCheckmark: false
     body: >-
       ## What’s “normal” marrying age in U.S.A?
 
@@ -89,9 +94,10 @@ cards:
       **Men = 29.5 years-old**
 
       * Median marrying age in 1947 (when data started being collected every
-      year until present time): **Women: 20.5 & Men: 23.7A** (Census).
+      year until present time):**Women: 20.5 & Men: 23.7A** (Census).
     _key: card-5-2c8a840b-525e-4417-bf98-faedf61d6a26
   - order: 5
+    useCheckmark: true
     body: >-
       Marriage rates in America have dropped in recent years; Divorce rates have
       risen. Data is mixed on whether thats due to "cohabitation" without a ring

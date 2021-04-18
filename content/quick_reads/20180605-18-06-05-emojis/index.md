@@ -20,17 +20,19 @@ card_series: Style
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # REDHEADS REJOICE!
 
 
-      More than 2000 emojis came before, but _finallyA_ redheads (curly & white
+      More than 2000 emojis came before, but_finallyA_ redheads (curly & white
       hair, too!) get their proper representation.
 
 
       FLIP TO SEE: New Emojis
     _key: card-1-553d95a0-b5c6-46a7-b79b-2db8a86d0924
   - order: 1
+    useCheckmark: false
     body: >-
       ## 150+ New Emojis
 
@@ -51,6 +53,7 @@ cards:
       Now](https://www.youtube.com/embed/5qLDBQ583Y8?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-65ddb090-1787-475d-a5b6-7679b8f5fa88
   - order: 2
+    useCheckmark: true
     body: >-
       Now there's a redhead...a peacock...a "leg"...what emoji do you think is
       still missing? A flamingo and white heart did not make the list this time,

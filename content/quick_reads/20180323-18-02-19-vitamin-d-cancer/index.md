@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       THE MISSING LINK…
 
@@ -30,7 +31,7 @@ cards:
       ## to LOWER cancer rates?
 
 
-      > “These findings **support the hypothesis that vitamin D has protective
+      > “These findings**support the hypothesis that vitamin D has protective
       effects against cancers** at many sites.”  
         
         
@@ -38,6 +39,7 @@ cards:
       Japan Public Health Center Study
     _key: card-1-a5a52e6c-d4c8-47b4-b1c1-54e005ecb13a
   - order: 1
+    useCheckmark: false
     body: >-
       ## Vitamin D & Cancer
 
@@ -51,6 +53,7 @@ cards:
       population would further prove a connection.
     _key: card-2-af56842f-ec98-467f-87d7-49bc40401fef
   - order: 2
+    useCheckmark: false
     body: >-
       ## What They Found:
 
@@ -65,12 +68,13 @@ cards:
       * **Bottom Line: Vitamin D may help prevent cancer**.
     _key: card-3-76b96e4b-9bc1-41eb-9da7-0c27c0a8c4ae
   - order: 3
+    useCheckmark: false
     body: >-
       ## What Exactly Is Vitamin D?
 
 
-      “Vitamin D is both a nutrient we eat & a hormone our bodies make.”
-      _Harvard School of Public Health_
+      “Vitamin D is both a nutrient we eat & a hormone our bodies make.”_Harvard
+      School of Public Health_
 
 
       * FewA foods naturally rich in vitamin D, but found in dairy products &
@@ -84,17 +88,19 @@ cards:
     citation: Click Here For SOURCE
     _key: card-4-163ee3bd-e54d-40db-b5d1-ab8db0febf37
   - order: 4
+    useCheckmark: false
     body: >-
       # Vitamin ‘D-ficient’
 
 
-      * Est. **1 Billion** people have **inadequate levels** of vitamin D in
-      their blood – the **#1 Worldwide nutritional deficiency**
+      * Est.**1 Billion** people have**inadequate levels** of vitamin D in their
+      blood – the**#1 Worldwide nutritional deficiency**
 
       * Being ‘D-ficient’ may increase the risk of osteoporosis, heart disease,
       some cancers, infectious diseases, seasonal flu & more.
     _key: card-5-5e7c7dc2-6e6a-4bca-ad17-2e8ea902eb01
   - order: 5
+    useCheckmark: false
     body: >-
       ## What About The Sun?
 
@@ -108,6 +114,7 @@ cards:
       people.
     _key: card-6-a30a9aa7-8644-4a14-9f2e-978221b35dec
   - order: 6
+    useCheckmark: true
     body: >-
       We're asking the same question. HOW MUCH VITAMIN D DO WE NEED? SmartHER
       Tip: Start with a blood test to determine your vitamin D level ...You'll

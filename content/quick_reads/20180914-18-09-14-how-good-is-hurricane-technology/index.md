@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Predicting Hurricanes
 
@@ -30,6 +31,7 @@ cards:
       How It Works
     _key: card-1-56fe313e-5b7e-494d-bece-8217a4c236d5
   - order: 1
+    useCheckmark: false
     body: >-
       ## How We Forecast Hurricanes
 
@@ -44,6 +46,7 @@ cards:
       technology to cover the whole surface constantly.
     _key: card-2-6882522c-3545-454e-afb7-bbc407569696
   - order: 2
+    useCheckmark: false
     body: >-
       # What we CAN do…
 
@@ -61,6 +64,7 @@ cards:
       spark forest fires.
     _key: card-3-76fdb68a-0d06-4660-9be2-f4c6fc583fec
   - order: 3
+    useCheckmark: false
     body: >-
       > “I can’t stress this enough. Models and observations are the base
       infrastructure that allows human forecasters to do better forecasts.”  
@@ -72,6 +76,7 @@ cards:
       human analysis remains important.
     _key: card-4-0c0fa3c9-baf1-41ed-8722-31c2cb76474f
   - order: 4
+    useCheckmark: true
     body: >-
       Once winds hit 74 mph a storm gets a new name: "Hurricane". Anything below
       74 mph considered a "tropical storm." After Florence, the next "named"

@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“What happens at your house is more important than what happens at the
       White House.”_
     citation: DAVE RAMSEY
     _key: c27adc23c5f7
   - order: 1
+    useCheckmark: true
     body: >-
       National radio host & best-selling author Dave Ramsey responding to those
       either exuberant or depressed from the U.S. presidential election. The

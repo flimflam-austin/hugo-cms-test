@@ -20,12 +20,14 @@ card_series: Current Events
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Targeting Terrorists, Waging War, and Beyond…
 
       What actions a U.S. President may (and may not) take alone.
     _key: b2bcf829374d
   - order: 1
+    useCheckmark: false
     body: >-
       ## RECENT HISTORY
 
@@ -40,6 +42,7 @@ cards:
       leader of the Islamic Revolutionary Guard Corps-Quds Force.
     _key: b9fe9e861363
   - order: 2
+    useCheckmark: false
     body: >-
       ## CURRENT LAW
 
@@ -51,14 +54,15 @@ cards:
       **WAR POWERS ACT**: Passed in 1973 after the Vietnam War established
       procedures left unanswered in the Constitution about military decisions.
       Requires the President to consult with Congress before deploying (or
-      withdrawing) U.S. forces where hostilities are **imminent**.
+      withdrawing) U.S. forces where hostilities are**imminent**.
     _key: 0b85d4e43905
   - order: 3
+    useCheckmark: false
     body: >-
       ## HOWEVER…
 
 
-      * The U.S. may attack in “self-defense” **without congressional approva**l
+      * The U.S. may attack in “self-defense”**without congressional approva**l
       to stop an upcoming or “**imminent threat**” but not for PAST actions.
 
       * This is why you’ve heard the White House use the term “imminent” to
@@ -69,6 +73,7 @@ cards:
       timeline.
     _key: '741566782692'
   - order: 4
+    useCheckmark: false
     body: >-
       > “We had specific information on an imminent threat and those included
       attack on US embassies. Period, full stop.”
@@ -81,6 +86,7 @@ cards:
       attacks were imminent."
     _key: 17eaeb2ec707
   - order: 5
+    useCheckmark: false
     body: >-
       > “At this point in time, the United States has not thus far provided any
       information suggesting that there was an imminent attack against the
@@ -94,6 +100,7 @@ cards:
       urgent, immediate specifics.
     _key: 47b7f358c98f
   - order: 6
+    useCheckmark: false
     body: >-
       > “If the facts are as the Defense Department said, then the president
       relatively clearly has Article II authority to act in self-defense of
@@ -107,6 +114,7 @@ cards:
       "worst"' briefing he has attended.
     _key: 57d0c9a8baff
   - order: 7
+    useCheckmark: false
     body: >-
       ## Uncharted Territory?
 
@@ -114,14 +122,15 @@ cards:
       * Debate over a President’s ability to “eliminate” threats surfaced in the
       past (e.g.: the killing of Osama Bin-Laden).
 
-      * The killing of Gen. Soleimani differs as he was a gov’t official of a
-      **country** rather than a terrorist group.
+      * The killing of Gen. Soleimani differs as he was a gov’t official of
+      a**country** rather than a terrorist group.
 
       * **However,** the U.S. designated Iran’s Islamic Revolutionary Guard
-      Corps a “foreign terrorist organization” in 2019, the **first time America
+      Corps a “foreign terrorist organization” in 2019, the**first time America
       gave this designation** to part of a foreign gov’t.
     _key: d3504e406ab3
   - order: 8
+    useCheckmark: true
     body: >-
       This week, in reaction to the targeting of Soleimani, the House of
       Representatives passed a measure voting in favor of limiting Pres. Trump's

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## COVID & KIDS
 
@@ -28,6 +29,7 @@ cards:
       children.
     _key: 3acd50af52a1
   - order: 1
+    useCheckmark: false
     body: >-
       ## Backstory
 
@@ -35,13 +37,14 @@ cards:
       * The CDC issued a new report on children hospitalized due to COVID-19 in
       America between March 1 – July 25.
 
-      * The CDC looked specifically at 576 hospitalizations across 14 states –
-      ***not*** TOTAL COVID-19 hospitalizations in children nationwide.
+      * The CDC looked specifically at 576 hospitalizations across 14 states
+      –***not*** TOTAL COVID-19 hospitalizations in children nationwide.
 
       * Around the same time, children under 18 represented about 7% of COVID-19
       cases in America and 1% of hospitalizations.
     _key: 27941c8a3493
   - order: 2
+    useCheckmark: false
     body: >-
       ## Big Picture
 
@@ -60,6 +63,7 @@ cards:
       the ICU (about 1 in 3) but lower rate of death.
     _key: 0fa2a62a2c50
   - order: 3
+    useCheckmark: false
     body: >-
       ## Characteristics
 
@@ -77,6 +81,7 @@ cards:
       nearly 42% of the group.
     _key: 5f839e04c0f0
   - order: 4
+    useCheckmark: false
     body: >-
       ## Notable
 
@@ -95,6 +100,7 @@ cards:
       Cough was listed 4th along with a runny nose/congestion.
     _key: 81fc44176aeb
   - order: 5
+    useCheckmark: true
     body: >-
       Black and Hispanic children were much more likely to be hospitalized than
       white (this disparity is also seen in adult cases of COVID). The specific

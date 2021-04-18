@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## While Americans hunker down at home, four soldiers died abroad in
       service to the nation.
@@ -28,6 +29,7 @@ cards:
       ## The swift retaliation and why it matters.
     _key: 251ef6513039
   - order: 1
+    useCheckmark: false
     body: >-
       ## Backstory
 
@@ -41,6 +43,7 @@ cards:
       Iranian-backed militias.
     _key: 65cb92f16be5
   - order: 2
+    useCheckmark: false
     body: >-
       > “The United States will not tolerate attacks against our people, our
       interests, or our allies.”  
@@ -51,6 +54,7 @@ cards:
       is responsible for a series of other attacks.
     _key: c77987f7edb9
   - order: 3
+    useCheckmark: false
     body: >-
       ## Important Context
 
@@ -66,6 +70,7 @@ cards:
       simmer.
     _key: 1c5eca6256f3
   - order: 4
+    useCheckmark: true
     body: >-
       A message from the Defense Dept after the airstrikes Friday morning in
       Iraq: "These terror groups must cease their attacks on U.S. and coalition

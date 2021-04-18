@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # BIG PICTURE
 
@@ -35,11 +36,12 @@ cards:
       What We Know
     _key: card-1-fc9afcb7-32d4-42f3-a364-e6cab0fa1328
   - order: 1
+    useCheckmark: false
     body: >-
       “As children are separated from their families, law enforcement agents
       reclassify them from members of family units to ‘unaccompanied alien
-      children.’ Federal officials said Tuesday that **since May, they have
-      separated 2,342 children** from their families, **rendering them
+      children.’ Federal officials said Tuesday that**since May, they have
+      separated 2,342 children** from their families,**rendering them
       unaccompanied minors** in the government’s care.”  
         
         
@@ -47,6 +49,7 @@ cards:
       Garance Burke and Martha Mendoza, Associated Press, June 19, 2018
     _key: card-2-5e675fe8-ed3f-40dc-9501-b30be3669193
   - order: 2
+    useCheckmark: false
     body: >-
       Where Are They From?
 
@@ -61,6 +64,7 @@ cards:
       Salvador & Mexico.
     _key: card-3-95e9e2ff-c4e2-4f4d-a808-8986360c79e0
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
@@ -74,14 +78,15 @@ cards:
       * **Unaccompanied children = anyone younger than 18.**
     _key: card-4-eb8a103d-4d4b-456d-9f62-b16d8dc34880
   - order: 4
+    useCheckmark: false
     body: >-
       ## Age & Gender
 
 
-      * Most recent data from 2017 for children unaccompanied *or* separated
-      **who stayed in govt custody**.
+      * Most recent data from 2017 for children unaccompanied *or*
+      separated**who stayed in govt custody**.
 
-      * Majority **over the age of 15** (69%).
+      * Majority**over the age of 15** (69%).
 
       * **68% Male**_vs. 32% Female.
 
@@ -89,6 +94,7 @@ cards:
       trends hold for the past 5 years.
     _key: card-5-a988ce26-739a-44c3-b390-771f49363e21
   - order: 5
+    useCheckmark: false
     body: >-
       ## How Many “Unaccompanied Alien Children” Have Come?
 
@@ -108,6 +114,7 @@ cards:
       2014](https://www.dhs.gov/archive/unaccompanied-children)
     _key: card-6-20de979e-93c5-4e6c-b514-aa3f523999bf
   - order: 6
+    useCheckmark: true
     body: >-
       Fingerpointing vs. Facts. We used the only available government data for
       these cards. Read more for an interesting look at which states have the

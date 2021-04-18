@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “We can have a dialogue about the president and not a diatribe – I got
       that from Sarah Jessica Parker.”  
@@ -34,6 +35,7 @@ cards:
     citation: Watch Now
     _key: card-1-18a03469-78bd-4b80-b86c-9c5067a45c77
   - order: 1
+    useCheckmark: false
     body: >-
       > “Character, sophistication, personality, the way they get along with
       other people, and beauty, because we want them all to look beautiful when
@@ -46,6 +48,7 @@ cards:
       71-year-old tradition.
     _key: card-2-7429496f-a845-4a1a-9bd5-77cc0a0dfe75
   - order: 2
+    useCheckmark: false
     body: >-
       > ‘This is such a niche app with niche content, that for it to make that
       sort of jump means it has become very interesting to a much broader
@@ -62,6 +65,7 @@ cards:
     citation: INFOWARS' LEGAL WARS
     _key: card-3-a6fc0260-77ea-4d78-81a1-6d8f302e23fb
   - order: 3
+    useCheckmark: false
     body: >-
       > “I wanted to let the voters debate, discuss and think about a different
       way forward… And, I wanted the political class to hear and witness the
@@ -75,6 +79,7 @@ cards:
       November ballot.
     _key: card-4-a8384fa0-f4b8-4d93-baae-abcf037b4e9d
   - order: 4
+    useCheckmark: true
     body: |-
       TGIF!
 

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Two U.S. soldiers killed in action in Afghanistan.
 
@@ -31,6 +32,7 @@ cards:
       talks.
     _key: 6cd3fc24389c
   - order: 1
+    useCheckmark: false
     body: >-
       ## Important To Know
 
@@ -47,6 +49,7 @@ cards:
       during America’s longest war.
     _key: eb5b1d11a487
   - order: 2
+    useCheckmark: false
     body: >-
       ## What Happened:
 
@@ -54,7 +57,7 @@ cards:
       * The Taliban took responsibility for a roadside bomb Saturday in southern
       Afghanistan.
 
-      * **29-year-old Staff Sgt. Ian McLaughlin** of Virginia and **21-year-old
+      * **29-year-old Staff Sgt. Ian McLaughlin** of Virginia and**21-year-old
       Pfc. Miguel Villalon** of Illinois died in the attack. The incident
       remains under investigation.
 
@@ -62,19 +65,21 @@ cards:
       his wife and four children. Villalon survived by his parents.
     _key: 1c038390eafc
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
 
       > “The Taliban has publicly stated its goals of the so-called ‘peace
-      talks’ is the **complete withdrawal of US forces** and the
-      re-establishment of the Islamic Emirate of Afghanistan, the official name
-      of the Taliban’s government.”  
+      talks’ is the**complete withdrawal of US forces** and the re-establishment
+      of the Islamic Emirate of Afghanistan, the official name of the Taliban’s
+      government.”  
         
       Bill Roggio, Long War Journal editor. Reports have indicated peace talks
       were set to resume between the U.S. & Taliban this week overseas.
     _key: 09650bd71225
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why This Matters
 
@@ -89,6 +94,7 @@ cards:
       & launching pad for terror.
     _key: e28e9e99ec3d
   - order: 5
+    useCheckmark: true
     body: >-
       Pres. Trump cancelled talks with the Taliban in September after the group
       claimed to have killed a U.S. soldier. In November, during a Thanksgiving

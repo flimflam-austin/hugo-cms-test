@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _ "The heart of America is with those who made the great sacrifice in
       defense of our ideals."_
     citation: President Coolidge
     _key: card-1-1a195c95-7f70-4928-855b-b012c372970a
   - order: 1
+    useCheckmark: true
     body: >-
       Pres. Coolidge said this during a special Christmas Eve message to the
       nation’s veterans in 1923, before walking out to light the first National

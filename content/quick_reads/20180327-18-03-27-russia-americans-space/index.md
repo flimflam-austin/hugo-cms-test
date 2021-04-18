@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Meanwhile…In Space  
 
@@ -38,6 +39,7 @@ cards:
     citation: Flip For Why It Matters
     _key: card-1-32bdae6b-39b2-46b2-96c7-ba51b6371082
   - order: 1
+    useCheckmark: false
     body: >-
       # 250
 
@@ -51,11 +53,12 @@ cards:
       total:A 4 Americans, 1 Russian & 1 Japanese.
     _key: card-2-f38ced1c-e3ed-4f29-99c4-3ce47534f25f
   - order: 2
+    useCheckmark: false
     body: >-
       ## Working Together
 
 
-      * Launch site for mission:A **Baikonur Cosmodrome** (Republic of
+      * Launch site for mission:A**Baikonur Cosmodrome** (Republic of
       Kazakhstan).
 
       * Same launch site for first space mission in 1957: Sputnik 1 (the
@@ -65,6 +68,7 @@ cards:
       “retirement” of U.S. space shuttle program).
     _key: card-3-3fb9013d-a697-470d-8ac1-8116d815f558
   - order: 3
+    useCheckmark: false
     body: >-
       _“The ISS has remained the only reason for Russia and the United States to
       cooperate, and currently the station’s operation is expected to terminate
@@ -76,6 +80,7 @@ cards:
       August 29, 2017
     _key: card-4-b075da70-16d4-4d9b-a333-ca50d9692929
   - order: 4
+    useCheckmark: true
     body: >-
       Did you know? 18 countries have traveled to the International Space
       Station.

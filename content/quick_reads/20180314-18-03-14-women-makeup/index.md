@@ -20,6 +20,7 @@ card_series: Beauty
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Makeup May Enhance Your Lashes…
 
@@ -30,13 +31,14 @@ cards:
       When it comes to makeup & leadership, LESS may be MORE
 
 
-      Study out of Scotland: women who wear **MORE** makeup are **LESS** likely
-      to be viewed as leaders.
+      Study out of Scotland: women who wear**MORE** makeup are**LESS** likely to
+      be viewed as leaders.
 
 
       FLIP HERE FOR MORE
     _key: card-1-129df1a4-6844-4a79-8574-3ca54746a975
   - order: 1
+    useCheckmark: false
     body: >-
       ## About the Study:
 
@@ -54,6 +56,7 @@ cards:
       Flip Here
     _key: card-2-8bb77656-467d-4888-8dce-2288005fe5fb
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Result
 
@@ -61,7 +64,7 @@ cards:
       Women wearing A LOT of makeup are MORE likely to be viewed as poor leaders
 
 
-      _“**Makeup**_ _**does not enhance a woman’s dominance by benefiting how we
+      _“**Makeup**__**does not enhance a woman’s dominance by benefiting how we
       evaluate her in a leadership role.**“_
 
 
@@ -70,13 +73,14 @@ cards:
       Lead Researcher
     _key: card-3-16e4fb20-c2d8-47c5-beb6-48bf158dc1ff
   - order: 3
+    useCheckmark: false
     body: >-
       ## How Much Makeup Do We Actually Wear?
 
 
-      The ave. American woman wears **$8.00** worth of makeup & skincare
-      products every day, with women on the east coast averaging the most
-      expensive face ($11.00).  
+      The ave. American woman wears**$8.00** worth of makeup & skincare products
+      every day, with women on the east coast averaging the most expensive face
+      ($11.00).  
 
       _(2017 survey by retailer SkinStore.com)A_
 
@@ -85,6 +89,7 @@ cards:
       Face?](http://www.skinstore.com/blog/skincare/womens-face-worth-survey-2017/)
     _key: card-4-c23ac0c1-3347-4b67-bd43-d8434265c007
   - order: 4
+    useCheckmark: true
     body: >-
       SmartHER Reminder: Check out the images study participants saw and you'll
       see what is considered "a lot" of makeup. BTW: study not specific to

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # AMERICA’S TREE
 
@@ -32,6 +33,7 @@ cards:
       White House.
     _key: card-1-90dea67d-7137-4bfd-872c-04e5e9fc5b74
   - order: 1
+    useCheckmark: false
     body: >-
       ## HOW IT CAME TO BE:
 
@@ -39,13 +41,14 @@ cards:
       * Many presidents and their families had Christmas trees INSIDE the White
       House.
 
-      * On **Christmas Eve 1923,** Pres. Coolidge became the first to light a
-      tree on the outside lawn, starting an **annual tradition**. Middlebury
+      * On**Christmas Eve 1923,** Pres. Coolidge became the first to light a
+      tree on the outside lawn, starting an**annual tradition**. Middlebury
       College in VT, his home state, donated a balsam fir.
 
       * 2,500 electric bulbs lit the 48-ft tree in front of a crowd of 3,000.
     _key: card-2-080c9754-306b-4654-aa96-2da2b332a92b
   - order: 2
+    useCheckmark: false
     body: >-
       * **Host**: National Park Service & its non-profit National Park
       Foundation
@@ -58,6 +61,7 @@ cards:
       as Santa.
     _key: card-3-d2f59205-5600-4e34-bcff-be40b154f93f
   - order: 3
+    useCheckmark: false
     body: >-
       > “I’m very proud of all of this. I’ve been proud since year one …. It’s
       the thing that we always brag about.”  
@@ -68,6 +72,7 @@ cards:
       to serve as an event supplier for inaugurations and D.C. events
     _key: card-4-3b3cdfb5-36bb-4f82-ae3c-82f4e75a6e98
   - order: 4
+    useCheckmark: true
     body: >-
       On Nov. 28, the White House will hold its annual Christmas Tree Lighting
       Ceremony at dark in President’s Park. 56 schools have designed ornaments

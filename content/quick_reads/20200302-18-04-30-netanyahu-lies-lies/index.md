@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # SPY GAMES
 
@@ -32,6 +33,7 @@ cards:
       "Iran Nuclear Deal." Not everyone agrees.
     _key: card-1-dede2352-c304-4d59-ab0a-4f8744eecc45
   - order: 1
+    useCheckmark: false
     body: >-
       > **“BREAKING: The boy who can’t stop crying wolf is at it again.”**  
         
@@ -44,9 +46,10 @@ cards:
       Flip For More
     _key: card-2-ddb531af-a454-4e07-baad-b3424c099ac5
   - order: 2
+    useCheckmark: false
     body: >-
       > “For many years, the Iranian regime has insisted to the world that its
-      nuclear program was peaceful. **The documents obtained by Israel from
+      nuclear program was peaceful.**The documents obtained by Israel from
       inside of #Iran show beyond any doubt that the Iranian regime was not
       telling the truth**.”  
         
@@ -57,6 +60,7 @@ cards:
       Flip
     _key: card-3-24f09ca7-3947-4083-b6fa-7acac4241bf7
   - order: 3
+    useCheckmark: false
     body: >-
       ## Timing Matters
 
@@ -73,6 +77,7 @@ cards:
       * PM Netanyahu faces a series of domestic challenges politically.
     _key: card-4-5e444ef4-4847-49e6-929f-d7c30b80b00d
   - order: 4
+    useCheckmark: true
     body: >-
       "... Iran is a dangerous foe, never to be allowed to build a nuclear
       weapon. The question is whether achieving that goal is easier with Tehran

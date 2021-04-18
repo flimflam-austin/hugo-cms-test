@@ -18,6 +18,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       _“You have to be a fighter and no matter what people say about you, you
       still have to stand up for what you know is right.”_

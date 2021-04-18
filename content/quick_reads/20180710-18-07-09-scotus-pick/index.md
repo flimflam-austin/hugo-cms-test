@@ -16,6 +16,7 @@ card_series: From the President's Desk
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Pres. Trump’s Pick for the Supreme Court:
 
@@ -27,6 +28,7 @@ cards:
       his seat.
     _key: card-1-45ccf5b8-1677-4815-b940-09cff4e6fd11
   - order: 1
+    useCheckmark: false
     body: >-
       ## Brett Kavanaugh: The Man
 
@@ -45,6 +47,7 @@ cards:
       * Ran the Boston Marathon twice
     _key: card-2-2618c9f0-e2a7-4c0c-950c-43e37c318bca
   - order: 2
+    useCheckmark: false
     body: >-
       ## Kavanaugh: The Jurist
 
@@ -60,6 +63,7 @@ cards:
       Harvard Law School
     _key: card-3-0f1a851e-4d4c-4230-9676-d821799d12b3
   - order: 3
+    useCheckmark: false
     body: >-
       ## CRITICS
 
@@ -69,13 +73,14 @@ cards:
 
       During the 2006 confirmation hearing following his appointment to the D.C.
       Circuit of Appeals, Sen. Schumer grilled Kavanaugh over his involvement in
-      Pres. Clinton’s impeachment and his take on _Roe v. Wade._
+      Pres. Clinton’s impeachment and his take on_Roe v. Wade._
 
 
       [Watch It
       Here](https://www.c-span.org/video/?c4738584/full-schumer-kavanaugh)
     _key: card-4-7e366e18-83bf-4491-9826-5d9ed23fda8b
   - order: 4
+    useCheckmark: false
     body: >-
       # So Now What?
 
@@ -89,6 +94,7 @@ cards:
       Process](https://smarthernews.com/18-07-09-scotus-new-justice-pick/)
     _key: card-5-aa4aa45d-015f-423c-b983-2fc4e0e6f98d
   - order: 5
+    useCheckmark: true
     body: >-
       Kavanaugh served as a law clerk for Justice Kennedy alongside Pres.
       Trump's 2017 Supreme Court nominee Neil Gorsuch. Justice Kennedy was

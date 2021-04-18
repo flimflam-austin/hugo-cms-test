@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Celebrating America’s 242nd Birthday
 
@@ -28,6 +29,7 @@ cards:
       …And should we REALLY be celebrating America’s birth on _AUGUST__2nd?
     _key: card-1-c5537043-4c3d-42c3-9b66-5c7a643b8423
   - order: 1
+    useCheckmark: false
     body: >-
       ## THE DECLARATION WASN’T SIGNED ON JULY 4 (OR IN JULY AT ALL)
 
@@ -41,6 +43,7 @@ cards:
       * Founding Fathers signed on August 2nd.
     _key: card-2-d86a1132-7832-4f22-8614-1e9015c1128b
   - order: 2
+    useCheckmark: false
     body: >-
       ## 3 PRESIDENTS HAVE DIED & 1 WAS BORN ON THE 4TH OF JULY
 
@@ -53,6 +56,7 @@ cards:
       * Our 30th Pres Calvin Coolidge was only one born on the 4th.
     _key: card-3-bc74eab3-f591-47fa-93f4-b7cc0ad47706
   - order: 3
+    useCheckmark: false
     body: >-
       ## FIREWORKS INVENTED UNINTENTIONALLY
 
@@ -67,19 +71,21 @@ cards:
       * This year, 16K displays, big ones like Boston Pops cost $2.5M.
     _key: card-4-f25329bf-24df-4bde-ad2a-5eb4f3ee776d
   - order: 4
+    useCheckmark: false
     body: >-
       ## MOST PATRIOTIC FOODS: DOGS & TURTLES?
 
 
-      * Americans will enjoy **150M hot dogs this 4th of July**.
+      * Americans will enjoy**150M hot dogs this 4th of July**.
 
       * That’s enough hot dogs to stretch from Washington D.C. to Los Angeles
       more than 5 TIMES.
 
       * Fun fact: on the first celebration of America’s birth, John Adams &
-      thousands of others celebrated by eating **Turtle Soup**. Mmmm….
+      thousands of others celebrated by eating**Turtle Soup**. Mmmm….
     _key: card-5-3672010d-54da-4a80-b40c-b0fa75c93e76
   - order: 5
+    useCheckmark: true
     body: >-
       We continue to do our forefathers proud as America's attention turns to
       New York's Coney Island & the Famous Nathan’s Hot Dog Eating Contest. How

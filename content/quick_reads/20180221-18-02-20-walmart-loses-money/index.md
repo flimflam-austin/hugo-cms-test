@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       $31 Billion  
 
@@ -38,6 +39,7 @@ cards:
       business.
     _key: card-1-83a481f3-5e2b-49a4-ba22-a8da8c5bd69e
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why This Matters
 
@@ -51,6 +53,7 @@ cards:
       * Plus, investors see it as a symbol of America’s economy.
     _key: card-2-d13afa42-0077-446f-9510-94ca4b23c65c
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Did This Happen?
 
@@ -64,6 +67,7 @@ cards:
       private employer) didn’t meet expectations.
     _key: card-3-c1141b46-4a7b-418b-b5c5-43f09740da7c
   - order: 3
+    useCheckmark: false
     body: |-
       # How Badly Businesses Want Your Online $$
 
@@ -75,6 +79,7 @@ cards:
       * Walmart bought “Jet” (online retailer).
     _key: card-4-26aaefa3-d2e5-4dd9-893c-acddf7027bcc
   - order: 4
+    useCheckmark: true
     body: >-
       Despite lower-than-expected earnings, Walmart has high hopes for year
       ahead:

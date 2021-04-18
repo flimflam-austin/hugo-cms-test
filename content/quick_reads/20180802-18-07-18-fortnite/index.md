@@ -16,6 +16,7 @@ card_series: Entertainment
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # FORTNITE
 
@@ -27,6 +28,7 @@ cards:
       move over, pac-man.
     _key: card-1-1173b465-68a6-4fd1-a323-adde98337f5e
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Is Fortnite Anyway?
 
@@ -49,6 +51,7 @@ cards:
       Now](https://www.youtube.com/embed/F3UNnrr1pg4?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-6f4c85a7-0a75-42e6-8804-80a123875253
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -66,6 +69,7 @@ cards:
       played among friends.
     _key: card-3-a56d9489-f3ec-4019-9421-0708cea7937b
   - order: 3
+    useCheckmark: false
     body: >-
       Heard of Flossing?  
 
@@ -87,6 +91,7 @@ cards:
       Now](https://www.youtube.com/embed/IBaiZbMEnyA?enablejsapi=1&autoplay=1&rel=0)
     _key: card-4-8829bec0-9f96-496d-99e4-832edc1ea070
   - order: 4
+    useCheckmark: true
     body: >-
       The Fortnite player to know? "Ninja" who's real name is Tyler Blevins.
       27-year-old streams his games online, raking in $500K A MONTH. Rapper

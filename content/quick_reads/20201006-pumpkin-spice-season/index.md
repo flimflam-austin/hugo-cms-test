@@ -19,6 +19,7 @@ card_series: Now You Know
 colorpaletteclassname: '--bronze'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # PUMPKIN SPICE
 
@@ -27,6 +28,7 @@ cards:
       Context for the craze.
     _key: 9f8ad23b81cc
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKSTORY
 
@@ -34,13 +36,14 @@ cards:
       * First “pumpkin spice” reference dates back to 1796, but it wasn’t until
       1934 that McCormick & Co. brought Pumpkin Spice to store shelves.
 
-      * McCormick uses cinnamon, ginger, nutmeg & allspice – but **no pumpkin**.
+      * McCormick uses cinnamon, ginger, nutmeg & allspice – but**no pumpkin**.
 
       * Starbucks debuted the Pumpkin Spice Latte (“PSL”), which features
       cinnamon, nutmeg, clove (and, recently, pumpkin) in 2003. It’s credited w/
       the pumpkin spice craze we’re familiar with today.
     _key: 4efe41602f8d
   - order: 2
+    useCheckmark: false
     body: >-
       ## ORIGINS
 
@@ -54,20 +57,22 @@ cards:
       year, on August 25th.
     _key: 7810c8e6eb8e
   - order: 3
+    useCheckmark: false
     body: >-
       ## PUMPKIN $PICE
 
 
-      * Americans spent over **$511M** on pumpkin-spice flavored grocery items
+      * Americans spent over**$511M** on pumpkin-spice flavored grocery items
       from 2018 to 2019, a new all-time high.
 
-      * In recent years the craze has expanded from pumpkin-spice flavored
-      **spam** & **dog food** to pumpkin-spice scented **deodorant**.
+      * In recent years the craze has expanded from pumpkin-spice
+      flavored**spam** &**dog food** to pumpkin-spice scented**deodorant**.
 
-      * This year’s latest pumpkin-spice food go-to? Kraft **macaroni and
+      * This year’s latest pumpkin-spice food go-to? Kraft**macaroni and
       cheese**.
     _key: 8c9a44946578
   - order: 4
+    useCheckmark: false
     body: >-
       ## WHY IT MATTERS
 
@@ -80,6 +85,7 @@ cards:
       pumpkin spice craze resonates with so many Americans.
     _key: 419d2d99addd
   - order: 5
+    useCheckmark: true
     body: >-
       WANT TO MAKE YOUR OWN PUMPKIN SPICE LATTE? Check out the super simple (and
       smarter) recipe above you can make at home to avoid the crowds amid COVID,

@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “There are no obstacles to talks. It is time for peace.”  
         
@@ -31,6 +32,7 @@ cards:
       negotiations between the Afghan government and the Taliban."
     _key: card-1-8bce6dad-ac12-4be1-ae97-ec6452149485
   - order: 1
+    useCheckmark: false
     body: >-
       "We don’t want to auction. But if we’re put in that position, we have to
       do our fiscal responsibility."  
@@ -43,6 +45,7 @@ cards:
       & has set up a GoFundMe page.
     _key: card-2-d950e776-d618-4bd4-987b-0e20a69a3903
   - order: 2
+    useCheckmark: false
     body: >-
       > “I think we need to constantly show that we are not adding our own bias,
       which I fully admit is left, is more left-leaning …. but we need to remove
@@ -54,9 +57,11 @@ cards:
       allegations the social media platform discriminates against conservatives.
     _key: card-3-94f97780-c105-4ca7-843d-65502e63016c
   - order: 3
+    useCheckmark: false
     body: "> \"We’ve had phone calls from individuals on our line in California desperate to know what is going on and asking us, a\x18Why isn’t the plane flying?’”  \n  \nRoger Miller, managing partner at Alterna Capital Partners that owns a company of air tankers that fight forest fires. Demand has outrun supply and there's debate as to whether there are enough air assets working in the right way to help contain these fires.\n\n[Click: Fire Refresher](https://smarthernews.com/18-08-15-fire-wood/)"
     _key: card-4-c9e486b5-e9a2-465c-9d2e-da878eb25db9
   - order: 4
+    useCheckmark: false
     body: >-
       > “I think John’s an extraordinary servant of the country, but I think he
       has been incredibly critical of the president, and I think that has put
@@ -68,6 +73,7 @@ cards:
       Trump revoking his security clearance.
     _key: card-5-b8b36313-d08b-46c5-9256-f5e9fbe5c32e
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great week!
 

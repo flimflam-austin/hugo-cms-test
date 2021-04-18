@@ -19,6 +19,7 @@ card_series: Politics
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## ALL EYES ON GEORGIA
 
@@ -27,24 +28,26 @@ cards:
       What to know about the high-stakes Georgia runoff elections
     _key: 3f95e33abe80
   - order: 1
+    useCheckmark: false
     body: >-
       ## About The U.S. Senate
 
 
-      * The Senate has **100** lawmakers: two from each state.
+      * The Senate has**100** lawmakers: two from each state.
 
-      * Senators are elected to **6-year terms**.
+      * Senators are elected to**6-year terms**.
 
-      * The U.S. Vice President is the president of the Senate and serves as the
-      **tiebreaker** when there’s a 50-50 vote.
+      * The U.S. Vice President is the president of the Senate and serves as
+      the**tiebreaker** when there’s a 50-50 vote.
 
       * The Senate & House of Representatives share legislative (lawmaking)
       power.
 
-      * Senate’s “Sole Powers”: impeachment **trials** or confirming
-      Presidential appointees (e.g. federal judges).
+      * Senate’s “Sole Powers”: impeachment**trials** or confirming Presidential
+      appointees (e.g. federal judges).
     _key: 33e3349ee7b5
   - order: 2
+    useCheckmark: false
     body: >-
       ## Runoff Elections 101
 
@@ -60,6 +63,7 @@ cards:
       two candidates with the most votes *automatically* face-off in a runoff.
     _key: 07f82840d2f2
   - order: 3
+    useCheckmark: false
     body: >-
       ## Sen. David Perdue (R) vs. Jon Ossoff (D)
 
@@ -75,6 +79,7 @@ cards:
       senator.
     _key: 2a28fd38cbbf
   - order: 4
+    useCheckmark: false
     body: >-
       ## Sen. Kelly Loeffler (R) vs. Rev. Raphael Warnock (D)
 
@@ -86,13 +91,15 @@ cards:
       Republican who received nearly 20% of the vote.
 
       * Loeffler was appointed in 2019 to temporarily fill a vacated Senate
-      seat; the winner will **serve out the final two years** of that retired
+      seat; the winner will**serve out the final two years** of that retired
       senator’s term.
     _key: 11d526328b46
   - order: 5
+    useCheckmark: false
     body: "## Why These Races Matter\n\n* The outcomes will determine which party controls the Senate. Republicans currently control the Senate 50 to 48.\n* Democrats need both Ossoff *and* Warnock to win to get to a 50-50 split.\n* **REMEMBER:** Vice President-elect Kamala Harris will serve as the tie-breaking vote in the Senate.\n* **FYI:**\_**No GA Democrat has won a U.S. Senate race since 2000.**"
     _key: 2a20cc2b5e9f
   - order: 6
+    useCheckmark: true
     body: >-
       While past precedent favors Republicans winning GA runoff elections,
       Pres-elect Biden became the first Democrat since 1992 to win the state as

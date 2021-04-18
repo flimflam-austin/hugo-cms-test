@@ -20,12 +20,13 @@ card_series: From the President's Desk
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # President Blocks Biggest Tech Deal
 
 
-      Executive order **prohibits** Singapore-based **Broadcom’s $117B**
-      **takeover of**A U.S. chipmaker **Qualcomm**.
+      Executive order**prohibits** Singapore-based**Broadcom’s $117B****takeover
+      of**A U.S. chipmaker**Qualcomm**.
 
 
       President Trump: “credible evidence” deal is a “**national security
@@ -35,11 +36,12 @@ cards:
       WHY THIS IS A BIG DEAL
     _key: card-1-e06162bb-b3d6-4329-973e-ebc9260ec59b
   - order: 1
+    useCheckmark: false
     body: >-
       ## How Rare Is This?
 
 
-      Only theA **5th time**A in 25 years Prez stopped a foreign takeover of a
+      Only theA**5th time**A in 25 years Prez stopped a foreign takeover of a
       U.S. firm on national security grounds.
 
 
@@ -51,6 +53,7 @@ cards:
       with ties to U.S.
     _key: card-2-74e18f3a-a4b2-415c-b380-3dcdeabfd767
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why They Want Our Tech
 
@@ -67,6 +70,7 @@ cards:
       scoop.](https://smarthernews.com/18-03-07-tech-spy-games/)
     _key: card-3-04fa0a7f-e0c6-436b-b13d-264720d5a431
   - order: 3
+    useCheckmark: false
     body: >-
       Acronym to Know: CFIUS  
 
@@ -75,7 +79,7 @@ cards:
 
       * **Stands for**:A Committee on Foreign Investment in the US
 
-      * **What it _really_ means**: Sheriff of Dealtown
+      * **What it_really_ means**: Sheriff of Dealtown
 
       * **What it does:** Decides whether takeovers of U.S. businesses by
       foreign companies pose a national security threat
@@ -83,6 +87,7 @@ cards:
       * CFIUS warned**A** onA Broadcom’s takeover last week
     _key: card-4-52b2ea4c-b97d-485a-bc12-4638665085ae
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/2018-03-13-trump-blocks-broadcom/)'
     _key: card-10-65cfabdc-8cf8-4833-981a-87ca9defd4a9
 

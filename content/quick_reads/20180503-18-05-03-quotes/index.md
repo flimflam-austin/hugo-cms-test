@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # QUICK QUOTES
 
@@ -33,6 +34,7 @@ cards:
       payment to porn star Stormy Daniels.
     _key: card-1-4e79cb96-a514-445c-9181-fc41d75c820e
   - order: 1
+    useCheckmark: false
     body: >-
       > **“It just sounded like a really loud ‘POP’ like someone throwing a rock
       at you.”**  
@@ -45,6 +47,7 @@ cards:
       Southwest after a deadly engine explosion. A
     _key: card-2-b5e1e3a1-7cdc-423f-aba2-70de6875b5a9
   - order: 2
+    useCheckmark: false
     body: >-
       > **‘…vilified for activities that are not only legal, but also widely
       accepted as a standard component of online advertising in both the
@@ -57,6 +60,7 @@ cards:
       the personal information of millions of the social network's users.
     _key: card-3-dc452d9b-d556-44b9-9083-fa2b13fbc99b
   - order: 3
+    useCheckmark: false
     body: >-
       > ‘We thought long and hard about it, & we feel like this is the best way
       to see that change that we want to see.”  
@@ -70,6 +74,7 @@ cards:
       agreement with the two men.
     _key: card-4-f57211e9-371b-4368-b9f3-a10ee7a57626
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-05-03-quotes/)'
     _key: card-10-40edda46-7dbc-42d9-8be3-b06524c853e3
 

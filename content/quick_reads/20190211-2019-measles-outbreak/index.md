@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # OUTBREAK
 
@@ -31,6 +32,7 @@ cards:
       Why Now?
     _key: card-1-91b39565-0a62-435c-b86b-3718caee08d1
   - order: 1
+    useCheckmark: false
     body: >-
       > “Measles can be so contagious that you can be in a room, and if you’re
       susceptible, two hours after someone with measles left, and still get the
@@ -42,6 +44,7 @@ cards:
       than recommended 90-95% to create community or herd immunity.
     _key: card-2-122104cc-8d60-4d70-b30f-b74f4c001e87
   - order: 2
+    useCheckmark: false
     body: >-
       # Measles: Defined
 
@@ -56,6 +59,7 @@ cards:
       to hearing loss, brain swelling, or even death.
     _key: card-3-920b7a4f-5a7d-4eb0-80b6-ae4061582961
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Vaccine In America
 
@@ -73,6 +77,7 @@ cards:
       * 2nd dose = 97% effective.
     _key: card-4-1a6ba02a-1d98-4f68-86d8-21092657d0d0
   - order: 4
+    useCheckmark: false
     body: >-
       ## What’s Going On:
 
@@ -85,22 +90,24 @@ cards:
       * **NJ/NY**: outbreak in Orthodox Jewish community linked to international
       travel.
 
-      * Most recent state w/cases: **Texas**.
+      * Most recent state w/cases:**Texas**.
     _key: card-5-28e04c42-f72f-4157-b847-29fd68c4700c
   - order: 5
+    useCheckmark: false
     body: >-
       # Why Now?
 
 
       > “These resurgences (of measles) have been attributed to various causes,
-      including **refusal to vaccinate**, **incomplete vaccination series**,
-      **waning immunity**, and **imported cases.**“  
+      including**refusal to vaccinate**,**incomplete vaccination
+      series**,**waning immunity**, and**imported cases.**“  
         
         
         
       Medical researcher & author CL Ventola.
     _key: card-6-505572d7-951d-4e8f-9a20-b0bbfeb449e4
   - order: 6
+    useCheckmark: true
     body: >-
       Between 2010 - 2018, the CDC reported an average of 217 measles cases
       every year; some years as low as 55 cases or as high as 667. So far in

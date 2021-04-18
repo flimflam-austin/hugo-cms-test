@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## SmartHER Dispatch
 
@@ -32,6 +33,7 @@ cards:
       Now](https://www.youtube.com/embed/E5tM5aUmsbI?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-64d43c83-21fc-44c7-86f4-e0a736ff3461
   - order: 1
+    useCheckmark: true
     body: >-
       Since the earthquake struck on Friday, more than 1400 aftershocks have
       been recorded. Alaska has the most earthquakes of any region.

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Number To Know:
 
@@ -32,6 +33,7 @@ cards:
       Flip For Why It Matters
     _key: card-1-57c3b167-5027-41df-9117-1afd55465e30
   - order: 1
+    useCheckmark: false
     body: >-
       # Let’s Set The Stage:
 
@@ -44,6 +46,7 @@ cards:
       has a positive tradeA balance (they export more goods than they import).
     _key: card-2-a804f21d-d495-40e4-8495-38b40d8d4512
   - order: 2
+    useCheckmark: false
     body: |-
       ## What Do You Buy From China?
 
@@ -55,6 +58,7 @@ cards:
       * Telephones
     _key: card-3-d854f637-3b04-4319-a020-6881d37a37b0
   - order: 3
+    useCheckmark: false
     body: >-
       # Why Tax On China?
 
@@ -71,6 +75,7 @@ cards:
       above).
     _key: card-4-e0f367d9-75e9-47da-bb7d-5c0fc70f08b0
   - order: 4
+    useCheckmark: false
     body: >-
       ## China’s Response
 
@@ -92,6 +97,7 @@ cards:
       Details](https://www.washingtonpost.com/business/economy/trump-moves-toward-imposing-steep-tariffs-on-china-sending-stocks-plummeting/2018/03/22/5cd3a7c6-2dfe-11e8-8ad6-fbc50284fce8_story.html?utm_term=.4a9fedb785d5&wpisrc=al_news__alert-world--alert-national&wpmk=1)
     _key: card-5-3c7c61b0-24e8-4a43-83f9-6efe90fa371c
   - order: 5
+    useCheckmark: false
     body: >-
       ## What Does It Mean For You?
 
@@ -99,11 +105,12 @@ cards:
       * You may pay more – not just for imported Chinese goods but U.S. goods if
       China retaliates with a tax of it’s own.
 
-      * Reminder: We are China’s #1 customer.A Some argue we **should** leverage
+      * Reminder: We are China’s #1 customer.A Some argue we**should** leverage
       our standing. After all,A isn’t the customer always right? But others say
       this is dangerous.
     _key: card-6-629017ca-7df6-40cb-bc0c-3804cd91a0c7
   - order: 6
+    useCheckmark: false
     body: >-
       ## New White House Advisor
 
@@ -121,6 +128,7 @@ cards:
       Now](https://www.youtube.com/embed/VxOCvxi_iSM?enablejsapi=1&autoplay=1&rel=0)
     _key: card-7-2feb6781-0e81-4213-a51f-64e7ee3d5e08
   - order: 7
+    useCheckmark: false
     body: >-
       ## Perspective
 
@@ -135,6 +143,7 @@ cards:
       International Studies, Washington Post, March 22, 2018
     _key: card-8-bdc39e70-2d62-44c0-ac72-74318a9a83f9
   - order: 8
+    useCheckmark: true
     body: >-
       We will know more in 2 weeks about what goods make theA tariff list. InA
       the meantime, the Dow plunged 700 points because of nervous investors.

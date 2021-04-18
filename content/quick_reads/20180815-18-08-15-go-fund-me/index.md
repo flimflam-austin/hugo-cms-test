@@ -20,10 +20,11 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       GO FUND MY  
 
-      (fill in the blank) 
+      (fill in the blank)
 
 
       GoFundMe (GFM), the globe’s largest crowdfunding website hosts 10,000 new
@@ -34,6 +35,7 @@ cards:
       Got a cause, goal, or bill to pay?
     _key: card-1-7d0e82ea-95bc-4a8f-ba21-34acadc681e3
   - order: 1
+    useCheckmark: false
     body: >-
       # GoFundMe
 
@@ -41,13 +43,14 @@ cards:
       * **Who:** Users create a campaign & solicit donations from the public.
 
       * **What:A** Funds are raised for anything from memorials to charities,
-      parties, and more.A A A A **#1 CAUSE: Medical bills.A**
+      parties, and more.A A A A**#1 CAUSE: Medical bills.A**
 
       * **How:A** In 2017, GFM stopped taking a 5% fee for personal funds.A
       There is still a 2.9% processing fee & a 30 cent fee for every donation.
       Users may also tip.
     _key: card-2-8a9a5cf1-0e3b-4efd-a527-e5dc32c29288
   - order: 2
+    useCheckmark: false
     body: >-
       # Top Three Large$t GoFundMe Campaigns
 
@@ -62,9 +65,11 @@ cards:
       **$7.8 million:** 2016 Pulse Nightclub Shooting Victims Fund
     _key: card-3-34bf92c4-752c-4731-b658-4cc920792c63
   - order: 3
+    useCheckmark: false
     body: "> “The biggest surprise is how much positivity there is in the world. News cycles and the social web often present a barrage of negativity. Yet I’ve been surprised by just how much people are compassionate, sympathetic, and empathetic a\x13 they genuinely want to help.”  \n  \n  \n  \nGoFundMe CEO Rob Solomon"
     _key: card-4-5f168c2b-82e3-492e-8752-b847d7a46cb7
   - order: 4
+    useCheckmark: true
     body: >-
       The GoFundMe page for newly fired FBI agent Peter Strzok has raised more
       than $380K+ since it launched on Monday. Although GoFundMe campaigns

@@ -20,18 +20,20 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## HONORING THE FALLEN
 
 
       **In the last 4 days, 4 American soldiers died fighting in Afghanistan** –
-      making **this year the deadliest for America** since combat missions
+      making**this year the deadliest for America** since combat missions
       officially ended in 2014.
 
 
       What's Going On
     _key: card-1-bd3ced99-2cbf-4780-911d-62988b9e76dd
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Happened:
 
@@ -45,6 +47,7 @@ cards:
       investigated.
     _key: card-2-fed80243-97d4-4602-9954-4ef8703c1e2b
   - order: 2
+    useCheckmark: false
     body: >-
       ## BIG PICTURE
 
@@ -58,6 +61,7 @@ cards:
       deal” with the Taliban.
     _key: card-3-669b34b3-7b3e-4a5c-9028-ccd6afb64485
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -73,6 +77,7 @@ cards:
       Tom Josceyln, The Long War Journal
     _key: card-4-0456b063-ad44-4596-9536-c13d4b126b87
   - order: 4
+    useCheckmark: true
     body: >-
       ‘It is heart wrenching. Lando was an incredibly charismatic human beinga|
       and it’s hard to imagine someone like that gone. It’s like you feel a hole

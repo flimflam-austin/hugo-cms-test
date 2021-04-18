@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “First of all I want like to thank my Lord and Savior, Jesus Christ, for
       blessing us on this afternoon and blessing us with this amazing horse.”  
@@ -30,6 +31,7 @@ cards:
       horse in 136 years to win the Kentucky Derby without racing as a 2-yr-old.
     _key: card-1-9700acba-0022-42fb-b874-cb468977be5b
   - order: 1
+    useCheckmark: true
     body: >-
       "He's got that "It"factor. He's just so above average. He's got
       unbelievable talent and then he's got a mind to go it." Smith on "Justify"

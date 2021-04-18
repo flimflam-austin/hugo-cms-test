@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       #   
       September 7, 1813  
@@ -31,12 +32,13 @@ cards:
       **Congress officially recognized the namesake of “Uncle Sam.”**
     _key: f5467018680b
   - order: 1
+    useCheckmark: false
     body: >-
       ## Was Uncle Sam Real?
 
 
       * Although best known from the U.S. Army’s “**I Want You**” posters of
-      World War I, the origins of Uncle Sam date back to the **War of 1812**.
+      World War I, the origins of Uncle Sam date back to the**War of 1812**.
 
       * New York meat packer Samuel Wilson fed hungry troops. His meat barrels
       of beef & pork were stamped with a “**U.S.**” but soldiers called it
@@ -46,6 +48,7 @@ cards:
       America’s national symbol of Uncle Sam**.”
     _key: 41699481d566
   - order: 2
+    useCheckmark: false
     body: >-
       ## How You See Him:
 
@@ -53,7 +56,7 @@ cards:
       * Over the years, many artists shaped Uncle Sam’s look, which began as a
       “congenial, folksy, older man.”
 
-      * Cartoonist **Thomas Nast** popularized him with white beard and stars &
+      * Cartoonist**Thomas Nast** popularized him with white beard and stars &
       stripes suit.
 
       * Artist James Montgomery Flagg’s 1917 “**I Want You For The U.S. Army**”
@@ -61,6 +64,7 @@ cards:
       both World War I and World War II.
     _key: 6c6533b42fba
   - order: 3
+    useCheckmark: false
     body: >-
       ## Thomas Nast
 
@@ -69,12 +73,13 @@ cards:
 
       * Known as one of the first political cartoonists.
 
-      * Popularized the **donkey** as the symbol for the Democratic Party and
-      the **elephant** as the symbol for the Republican Party.
+      * Popularized the**donkey** as the symbol for the Democratic Party and
+      the**elephant** as the symbol for the Republican Party.
 
-      * Also credited with creating the modern image of **Santa Claus**.
+      * Also credited with creating the modern image of**Santa Claus**.
     _key: d691a329e73d
   - order: 4
+    useCheckmark: true
     body: >-
       Why does Uncle Sam remain popular? Here's one theory: "Uncle Sam is
       rolling up his sleeves. He's going to go pound on somebody." Does that fit

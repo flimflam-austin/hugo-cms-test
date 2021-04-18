@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “We have more indications that reconciliation is no longer just a
       shimmer out there, no longer just a mirage.”  
@@ -30,6 +31,7 @@ cards:
       Taliban haven't made military gains, they've murdered women and children.
     _key: card-1-363f8a1f-59de-4284-a3e7-af0ea1c9a82f
   - order: 1
+    useCheckmark: false
     body: >-
       > "It was clear people were sick before they even got on the plane, so
       much so that I asked the stewardess for a mask.”  
@@ -45,6 +47,7 @@ cards:
       Now](https://www.youtube.com/embed/ba1ihuT9uOU?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-00aca9db-0690-429b-9321-8fadf3138952
   - order: 2
+    useCheckmark: false
     body: >-
       > "The truck went up in complete flames in a matter of minutes and is a
       complete loss."  
@@ -56,6 +59,7 @@ cards:
       million of their popular truck to fix this apparent defect.
     _key: card-3-19bd1b9e-4904-4604-88d0-4be077762f86
   - order: 3
+    useCheckmark: false
     body: >-
       "The Tehran summit can produce peace and reconciliation in Syria or it can
       deepen the mess created by endless bouts of violence mainly instigated by
@@ -69,6 +73,7 @@ cards:
       can claim military victory in the civil war.
     _key: card-4-79a48687-5be0-4961-b967-2ee1dd0df7d8
   - order: 4
+    useCheckmark: false
     body: >-
       > “There are so many stories to be told and so many imaginations to be
       captured by these iconic brands.”  
@@ -79,6 +84,7 @@ cards:
       reach children in a digital age through film & web episodes.
     _key: card-5-2933f1ce-3524-48da-b2b1-585846daa39c
   - order: 5
+    useCheckmark: false
     body: >-
       > "I wasn’t expecting that kind of knee-jerk reaction… these are the same
       people who have also criticized the Academy for being quote unquote
@@ -91,6 +97,7 @@ cards:
       film award category announced just a few weeks ago.
     _key: card-6-0943ac6d-42da-4f97-849b-51ce60a491f9
   - order: 6
+    useCheckmark: true
     body: |-
       HAVE A GREAT WEEKEND!
 

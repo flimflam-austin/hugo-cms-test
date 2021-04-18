@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # SEARS-IOUSLY?
 
@@ -28,13 +29,14 @@ cards:
 
 
       > 16 Sears locations – all of which are profitable, according to WSJ – are
-      up for grabs in an _online_ auction set for next month.
+      up for grabs in an_online_ auction set for next month.
 
 
       wanna be a landlord?
     citation: wanna be a landlord?
     _key: card-1-d27ea188-ae81-49b2-8289-1c45f7a6b046
   - order: 1
+    useCheckmark: false
     body: >-
       ## Bid to be a Sears Landlord
 
@@ -54,22 +56,23 @@ cards:
     citation: Click To Make Bid
     _key: card-2-25a4c155-881c-48d7-9801-490658a29567
   - order: 2
+    useCheckmark: false
     body: >-
       # Sears’ Struggle
 
 
-      Sears unloading assets to get some **badly needed cash**.
+      Sears unloading assets to get some**badly needed cash**.
 
 
-      Latest earnings: Sears’ **revenue fell nearly 28%** & **sales dropped
-      15%**A – **its** **25th straight quarter of declines (more than 6
-      years)**.
+      Latest earnings: Sears’**revenue fell nearly 28%** &**sales dropped 15%**A
+      –**its****25th straight quarter of declines (more than 6 years)**.
 
 
-      Sears, which also owns Kmart, has **closed hundreds of stores** since the
+      Sears, which also owns Kmart, has**closed hundreds of stores** since the
       start of 2017.
     _key: card-3-c7041f6b-7f15-426b-8dd0-ca4551943462
   - order: 3
+    useCheckmark: true
     body: >-
       And then there were none... Later this year, Sears will close its last
       department store in Chicago, where the company was based for more than 100

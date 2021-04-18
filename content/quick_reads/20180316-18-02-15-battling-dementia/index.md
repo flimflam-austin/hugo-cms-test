@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Dementia Antidote?
 
@@ -35,6 +36,7 @@ cards:
     citation: Flip For Why It Matters
     _key: card-1-ed016cf0-b3d3-4182-b516-5e4b8ad59278
   - order: 1
+    useCheckmark: false
     body: >-
       # Dementia: No Cure
 
@@ -50,6 +52,7 @@ cards:
       * Dementia can also be easily undiagnosed.
     _key: card-2-17000cec-e57a-4dcd-8753-5ec78f8c47bf
   - order: 2
+    useCheckmark: false
     body: >-
       # “Memory Suitcases”
 
@@ -70,6 +73,7 @@ cards:
     citation: 'Check Them Out:'
     _key: card-3-18f9483d-f24d-42c6-93f6-510b6b35704f
   - order: 3
+    useCheckmark: false
     body: >-
       Not Just Suitcases:  
 
@@ -88,9 +92,11 @@ cards:
     citation: Watch Now
     _key: card-4-41ddf90a-7b44-4f1a-a7fa-c2f63dc2c9d5
   - order: 4
+    useCheckmark: false
     body: "## How It Works:\n\n> “Photographs, memorabilia and objects a\x14 be they the actual items or images of them on apps a\x14 help rekindle memories in people with dementia and lead them to start conversations.”  \n  \n  \n  \nMuseums Fight the Isolation and Pain of Dementia, NYT, Mar. 11, 2018"
     _key: card-5-1a902542-977c-412d-bf10-9f6eeea36d00
   - order: 5
+    useCheckmark: true
     body: >-
       It's coming to America: The Minnesota Historical Society plans to offer an
       app this fall (NYT)

@@ -20,12 +20,13 @@ card_series: Now You Know
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # 7,000
 
 
       * **Tuesday:**A Avaaz, an advocacy group, placed 7,000 pairs of shoes on
-      U.S. Capitol lawn to symbolize the **7,000 children killed by gun
+      U.S. Capitol lawn to symbolize the**7,000 children killed by gun
       violence** since the 2012 Newtown school shooting.
 
       * **Wednesday:** StudentsA nationwide staged a protest to mark 1 month
@@ -37,6 +38,7 @@ cards:
       Flip card for a closer look at “gun violence” & the 7,000 stat
     _key: card-1-cb066192-d09d-4ee3-aa32-978e30736175
   - order: 1
+    useCheckmark: false
     body: >-
       # “Gun Violence”
 
@@ -48,10 +50,11 @@ cards:
 
       * Not a recognized term in the dictionary or used in the judicial system.
 
-      * Defined by advocacy groups as: “a crime committed with a firearm” **not
+      * Defined by advocacy groups as: “a crime committed with a firearm”**not
       limited to murder or suicide**.
     _key: card-2-b43b8615-b8f5-458e-9a17-4ea55eac8898
   - order: 2
+    useCheckmark: false
     body: >-
       Deaths By Firearms  
 
@@ -71,6 +74,7 @@ cards:
       study:](http://pediatrics.aappublications.org/content/pediatrics/early/2017/06/15/peds.2016-3486.full.pdf)
     _key: card-3-3869964c-2315-4477-9788-cac86c6da34f
   - order: 3
+    useCheckmark: false
     body: >-
       Doing the Math:  
 
@@ -81,42 +85,45 @@ cards:
 
       * 1,300 deaths x 5.3 = roughly 6,800 children deaths.
 
-      * By the end of 2018, the number will rise to **approx. 7,800**.
+      * By the end of 2018, the number will rise to**approx. 7,800**.
 
-      * REMINDER: This includes **ALL deaths related to firearms – NOT just
+      * REMINDER: This includes**ALL deaths related to firearms – NOT just
       school shootings**.
     _key: card-4-d3cc6086-524a-491b-8419-8e7fd5aa443a
   - order: 4
+    useCheckmark: false
     body: >-
       Children & Firearm Deaths  
 
       Age Matters
 
 
-      * **18%** younger children (0 – 12): Deaths often due to **domestic
-      violence** or **accidental**
+      * **18%** younger children (0 – 12): Deaths often due to**domestic
+      violence** or**accidental**
 
       * **82%** older children (13 – 17): Deaths likely to be “**precipitated by
-      another crime**” (gang related, drugs) and/or also involve **weapon use by
+      another crime**” (gang related, drugs) and/or also involve**weapon use by
       victim**
 
 
       Flip For Bottom Line
     _key: card-5-fa9bcc99-c0db-427b-a5ad-d3ff8bd5631a
   - order: 5
+    useCheckmark: false
     body: >-
       Bottom Line  
 
       What You Should Know
 
 
-      * The 7,000 figure is a real number based on a **statistical average**
-      compiled by **reliable sources**.
+      * The 7,000 figure is a real number based on a**statistical average**
+      compiled by**reliable sources**.
 
-      * The 7,000 figure is **not limited to school shootings or even murders**.
+      * The 7,000 figure is**not limited to school shootings or even murders**.
       It includes a variety of other crimes, including accidents & suicides.
     _key: card-6-7468ad3b-cfcd-4fe0-91ac-3fdf569152b7
   - order: 6
+    useCheckmark: true
     body: >-
       On March 24, protestors will march on Washington for the March For Our
       Lives rally, organized by survivors of the Florida high school shooting.

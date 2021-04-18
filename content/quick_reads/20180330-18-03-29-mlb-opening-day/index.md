@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       Want to try the best food at every ballpark -- without all the travel?
       Find out how here.

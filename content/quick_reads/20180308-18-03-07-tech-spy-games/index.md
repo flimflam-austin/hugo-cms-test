@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Tech Spy Games?
 
@@ -35,6 +36,7 @@ cards:
       entire telecommunications system.
     _key: card-1-209029e4-0fc5-4397-943a-da9531e8e258
   - order: 1
+    useCheckmark: false
     body: >-
       Why Such Drama?
 
@@ -48,6 +50,7 @@ cards:
       to our electronics.
     _key: card-2-c95ef923-daad-409e-93bb-c2c01282d1e1
   - order: 2
+    useCheckmark: false
     body: >-
       ## “National Security Threat”
 
@@ -66,6 +69,7 @@ cards:
       WHY IT MATTERS
     _key: card-3-d38f9885-98ec-4ebd-8a87-97e672e54dd3
   - order: 3
+    useCheckmark: false
     body: >-
       ## The U.S. Govt Fears…
 
@@ -77,6 +81,7 @@ cards:
       ground.
     _key: card-4-e9c0e9d5-b7ad-4f86-86bb-9958249f0ba5
   - order: 4
+    useCheckmark: false
     body: |-
       ## Why Broadcom Says Critics Are Wrong
 
@@ -86,6 +91,7 @@ cards:
       * Creating a $1.5B investment fund to train American engineers
     _key: card-5-f917fc87-ea67-4dc7-942c-4ae462073c89
   - order: 5
+    useCheckmark: true
     body: >-
       A new $229 smartphone -- but the CIA, FBI & NSA warn Americans don't buy
       it! Click for more on the China vs. US tech war.

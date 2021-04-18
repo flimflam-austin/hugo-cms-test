@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “I truly want to dedicate this to the men … who served with me out
       there. Without them, this medal wouldn’t have been possible, it’s truly a
@@ -31,6 +32,7 @@ cards:
       suffers from lung cancer; he has 2 young children.
     _key: card-1-229d03ed-0fe2-47ab-b6ee-c7ff65d4196d
   - order: 1
+    useCheckmark: false
     body: >-
       > "Many people are still strongly against the idea of retailers opening
       their doors on Thanksgiving. Since Thanksgiving is all about family, a
@@ -42,6 +44,7 @@ cards:
       Thanksgiving, incl. Costco & Nordstrom.
     _key: card-2-4800d5ff-7ef8-4651-a4db-5a6745764f4b
   - order: 2
+    useCheckmark: false
     body: >-
       > “The time for endless delay and obstruction has come to a close. Judge
       Kavanaugh’s nomination is out of committee. We’re considering it here on
@@ -53,6 +56,7 @@ cards:
       expected to conclude by Friday, but also lacks a firm timeline.
     _key: card-3-a4a0a3cf-24a4-4782-808f-20d62b8f65b2
   - order: 3
+    useCheckmark: false
     body: >-
       "We just ran. There were no sirens, no warning. Just the shaking and the
       panic."  
@@ -65,6 +69,7 @@ cards:
       almost an immediate tidal surge.
     _key: card-4-f363fa8c-2981-4bda-b6d9-09c43e933517
   - order: 4
+    useCheckmark: false
     body: >-
       “We listened to our critics, thought hard about what we wanted to do, and
       decided we want to lead.”  
@@ -76,6 +81,7 @@ cards:
       advocating for higher pay; Amazon has been pressured to do the same.
     _key: card-5-d4c31dcf-05a2-488a-9361-79ce9f682549
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great day!
 

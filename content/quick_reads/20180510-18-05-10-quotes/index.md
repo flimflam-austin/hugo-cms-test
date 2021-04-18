@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # QUICK QUOTES
 
@@ -32,6 +33,7 @@ cards:
       during the Vietnam War & is an outspoken critic of CIA's use of torture.
     _key: card-1-67be2182-df88-4236-8000-7b72334d4efa
   - order: 1
+    useCheckmark: false
     body: >-
       > **‘Corporations want to pay for insight, advocacy & expertise on a White
       House. Michael offered that. He didn’t do anything wrong.”**  
@@ -42,6 +44,7 @@ cards:
       over payment to porn star Stormy Daniels.
     _key: card-2-dc8f3d1a-564b-4783-b89c-1ffe54a6e504
   - order: 2
+    useCheckmark: false
     body: >-
       > **“Someone, please change our fate, whoever, even Trump. I used to be a
       driver, now I clean. What’s next? I cannot become a beggar.”**  
@@ -51,6 +54,7 @@ cards:
       on Iran's economy & and the hardship caused by sanctions to NYT.
     _key: card-3-e7db1156-e524-401b-8c71-3ac9cb8ca760
   - order: 3
+    useCheckmark: false
     body: >-
       > **"This is huge. It’s a cost-effective measure that is going to reduce
       greenhouse gas emissions and support growth in renewable clean
@@ -63,6 +67,7 @@ cards:
       known for expensive housing.
     _key: card-4-f71d8511-ecc2-437b-875a-2f5828ba8a96
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-05-10-quotes/)'
     _key: card-10-dc82a010-7473-41b1-8c91-a7d25d087def
 

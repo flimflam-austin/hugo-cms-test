@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## _“Don’t be afraid to let people know what it is you want to do with
       your life. Don’t be hesitant. Be confident.”_
     citation: REGIS PHILBIN
     _key: 339074632cd8
   - order: 1
+    useCheckmark: true
     body: >-
       A son of a Marine, Regis Philbin served in the Marines during the Korean
       War - he credits another Marine for giving him the push he needed to

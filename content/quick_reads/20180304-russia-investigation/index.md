@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # ICYMI
 
@@ -31,11 +32,12 @@ cards:
       How Did We Get Here?
     _key: card-1-69bafa00-4637-47ad-a691-67e7be25a403
   - order: 1
+    useCheckmark: false
     body: >-
       **MAY 2017:**
 
 
-      Former FBI Director **Robert Mueller** is appointed by the Deputy Attorney
+      Former FBI Director**Robert Mueller** is appointed by the Deputy Attorney
       General Rod Rosenstein to lead an investigation into the Russian
       government’s efforts to interfere with America’s 2016 Presidential
       election
@@ -45,47 +47,51 @@ cards:
       inquiry
     _key: card-2-90ab275f-aff8-4be1-b32f-a22bb819858d
   - order: 2
+    useCheckmark: false
     body: >-
       **OCTOBER 2017:**
 
 
-      Former WH advisor **George Papadopolous** pleads **guilty** to lying to
-      the FBI about his contacts with Russians during election
+      Former WH advisor**George Papadopolous** pleads**guilty** to lying to the
+      FBI about his contacts with Russians during election
 
 
-      **Paul Manafort** (Trump’s former campaign manager) and **Rick Gates**
+      **Paul Manafort** (Trump’s former campaign manager) and**Rick Gates**
       (Manafort’s associate) are indicted by a D.C federal grand jury on
-      12-counts and plead **not guilty**
+      12-counts and plead**not guilty**
     _key: card-3-2ed58e67-592d-47d4-b16a-b39db0cf6ed7
   - order: 3
+    useCheckmark: false
     body: >-
       **DECEMBER 2017:**
 
 
-      **Michael Flynn**, Trump’s former national security adviser, **pleads
+      **Michael Flynn**, Trump’s former national security adviser,**pleads
       guilty** to lying to the FBI about conversations with Russia’s ambassador
     _key: card-4-9b69381d-a798-40c1-9f4c-b9afc35a8712
   - order: 4
+    useCheckmark: false
     body: >-
       **FEBRUARY 2018:**
 
 
-      A CA man unconnected to Trump **pleads guilty** to identity fraud
+      A CA man unconnected to Trump**pleads guilty** to identity fraud
 
 
       **13 Russian nationals & 3 Russian entities** are charged with conducting
       “information warfare” against U.S.
 
 
-      A A Dutch lawyer living in U.S. **pleads guilty** to lying to FBI about
+      A A Dutch lawyer living in U.S.**pleads guilty** to lying to FBI about
       interactions with Rick Gates
     _key: card-5-c2b43335-9cef-4b96-88e4-289a6238b78f
   - order: 5
+    useCheckmark: false
     body: >-
       **FEBRUARY 2018:**
 
 
-      **Paul Manafort** (Trump’s former campaign manager) & **Rick Gates**
+      **Paul Manafort** (Trump’s former campaign manager) &**Rick Gates**
       (Manafort’s associate) are indicted by a VA federal grand jury on
       32-counts
 
@@ -94,6 +100,7 @@ cards:
       DC & feds agree to drop VA charges against him
     _key: card-6-f8714515-0207-4880-9c40-44368b0f917f
   - order: 6
+    useCheckmark: false
     body: >-
       > “It’s very clear that Russia meddled in the election. It’s also very
       clear that it didn’t have an impact on the election. And it’s also very
@@ -105,6 +112,7 @@ cards:
       Press Secretary Sarah Sanders, Feb 20. 2018
     _key: card-7-820c70e4-801f-4c2a-86a8-eb26d0a816cc
   - order: 7
+    useCheckmark: false
     body: >-
       ## For Your Consideration
 
@@ -115,6 +123,7 @@ cards:
       their work for Trump, some took place around US election.
     _key: card-8-8ef33403-2de9-427e-87c7-cdf6f4e6e1a8
   - order: 8
+    useCheckmark: false
     body: >-
       # BOTTOM LINE
 
@@ -130,6 +139,7 @@ cards:
       the pace of indictments indicates progress.
     _key: card-9-949e6f12-49b6-43ca-be18-25d591f53c40
   - order: 9
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/russia-investigation/)'
     _key: card-10-c0ab0230-b112-429b-90d4-64371c676044
 

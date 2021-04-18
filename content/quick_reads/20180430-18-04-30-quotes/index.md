@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       Want to dig deeper into the weekend's biggest stories? Click "View
       Sources" for more!

@@ -20,6 +20,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > **"The ripple effect of our actions, or inactions, can be enormous,
       spanning generations. Perhaps the greatest tragedy of this nightmare is
@@ -34,6 +35,7 @@ cards:
       Now](https://www.youtube.com/embed/W9hu5HLoSzM?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-ffb1880e-7f3c-40a8-9a2b-d8bacc202984
   - order: 1
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-07-19-nassar-victims-at-espys/)'
     _key: card-10-c57659bf-eaad-48fe-ad42-d57582c7dbcd
 

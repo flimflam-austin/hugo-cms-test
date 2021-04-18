@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Florida High School Shooting
 
@@ -30,6 +31,7 @@ cards:
       One of the Deadliest School Shootings in American History
     _key: card-1-1c18938a-6e11-475a-85cc-08eb4e938f3f
   - order: 1
+    useCheckmark: false
     body: >-
       # Marjory Stoneman Douglas High School
 
@@ -45,6 +47,7 @@ cards:
       * Home to State Championship Marching Band.
     _key: card-2-1303e964-5e6a-4957-a08c-c7684864863b
   - order: 2
+    useCheckmark: false
     body: >-
       ## Former Student In Custody
 
@@ -58,6 +61,7 @@ cards:
       Jim Gard, Math Teacher, Interview With The Miami Herald (Feb 14, 2018)
     _key: card-3-c8fcdc91-83ae-4ebf-8a09-33092047d857
   - order: 3
+    useCheckmark: false
     body: >-
       ## Things To Know
 
@@ -71,14 +75,15 @@ cards:
       kicked out of school for unspecific “disciplinary reasons.”
     _key: card-4-5e922f4c-6104-467c-989e-341b4b5280db
   - order: 4
+    useCheckmark: false
     body: >-
       Your Family & The News
 
 
       _“Parents should also monitor how much exposure a child has to news
       reports of traumatic events, including these recent school shootings.
-      Research has shown that some young children believe that the events are
-      **reoccurring** each time they see a television replay of the news
+      Research has shown that some young children believe that the events
+      are**reoccurring** each time they see a television replay of the news
       footage.”_
 
 
@@ -86,6 +91,7 @@ cards:
       More](http://www.apa.org/topics/violence/school-shooting.aspx)
     _key: card-5-d541286b-4249-42a1-82d9-042b59cd50c6
   - order: 5
+    useCheckmark: false
     body: >-
       We Know This Isn’t Typical,  
 
@@ -99,6 +105,7 @@ cards:
       our hearts, our thoughts & our prayers.
     _key: card-6-3619d2b3-8839-4527-9d3c-a569ae7a66cc
   - order: 6
+    useCheckmark: true
     body: >-
       Local news has provided some incredible photos & reporting - Read More
       Here:

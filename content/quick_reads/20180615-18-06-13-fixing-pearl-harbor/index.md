@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Problem At Pearl Harbor
 
@@ -32,6 +33,7 @@ cards:
       Why?
     _key: card-1-4e7a5123-f486-47c5-9e96-422935f942ae
   - order: 1
+    useCheckmark: false
     body: >-
       ## USS Arizona
 
@@ -48,6 +50,7 @@ cards:
       * More than 4,000 people visit the memorial every single day.
     _key: card-2-e098ed4c-9986-4cb3-a353-0930f67dda89
   - order: 2
+    useCheckmark: false
     body: >-
       What You Should Know:
 
@@ -67,6 +70,7 @@ cards:
       Why This Matters
     _key: card-3-ebc3c26b-0208-4f2c-8d4a-55eac8f4378b
   - order: 3
+    useCheckmark: false
     body: >-
       > “It’s not like you dig a big anchor into the ground. You’ve got an
       archaeological site right next to it that’s got the remains of over 900
@@ -78,6 +82,7 @@ cards:
       Valor in the Pacific National Monument, Pearl Harbor.
     _key: card-4-8700b72b-6176-4e0e-9e4a-da4a3b4bc52f
   - order: 4
+    useCheckmark: true
     body: >-
       We don't know how long the repairs will take or what they will cost.
       Guests will take a 15-min boat ride around the memorial to pay their

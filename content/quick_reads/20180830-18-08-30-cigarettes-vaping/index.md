@@ -20,19 +20,21 @@ card_series: Health
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       To Vape Or  
 
       Not To Vape?
 
 
-      Approx. 1 out of 8 U.S. adults smoke cigarettes. A new study says
-      **e-cigarette use is on the rise**, especially among young people.
+      Approx. 1 out of 8 U.S. adults smoke cigarettes. A new study
+      says**e-cigarette use is on the rise**, especially among young people.
 
 
       What's "Safe"?
     _key: card-1-94967a9f-2302-44ff-9886-419dfb208f5e
   - order: 1
+    useCheckmark: false
     body: >-
       > According to new U.S. study of self-reported e-cigarette smokers 18+:  
         
@@ -53,6 +55,7 @@ cards:
       * More than 50% are below 35
     _key: card-2-ca008fe0-c5ac-4d10-ac83-efd825f83f7c
   - order: 2
+    useCheckmark: false
     body: >-
       BOTTOM LINE:
 
@@ -66,11 +69,12 @@ cards:
       nicotine, which is highly addictive and derived from tobacco.
     _key: card-3-489a90a6-644c-4236-a01b-1f32d9b0d8fd
   - order: 3
+    useCheckmark: false
     body: >-
       > “E-cigarette aerosol generally contains fewer toxic chemicals than the
-      deadly mix of 7,000 chemicals in smoke from regular cigarettes. However,
-      **e-cigarette aerosol is not harmless**. It can contain harmful and
-      potentially harmful substances, including nicotine, heavy metals like
+      deadly mix of 7,000 chemicals in smoke from regular cigarettes.
+      However,**e-cigarette aerosol is not harmless**. It can contain harmful
+      and potentially harmful substances, including nicotine, heavy metals like
       lead, volatile organic compounds, and cancer-causing agents.”  
         
         
@@ -78,6 +82,7 @@ cards:
       CDC
     _key: card-4-88a9dbbf-67e9-4495-ab4c-6d965895d79f
   - order: 4
+    useCheckmark: true
     body: >-
       E-cigarettes are the most commonly used tobacco product among U.S.
       adolescents. According to a 2018 National Academy of Medicine report,

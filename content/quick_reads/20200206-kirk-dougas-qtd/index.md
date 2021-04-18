@@ -20,10 +20,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: '> _“In order to achieve anything, you must be brave enough to fail.”_'
     citation: KIRK DOUGLAS
     _key: 73179b427962
   - order: 1
+    useCheckmark: true
     body: >-
       The legendary actor passed away Wednesday at the age of 103. Douglas, a
       Navy veteran, grew up poor and made a name for himself after World War II.

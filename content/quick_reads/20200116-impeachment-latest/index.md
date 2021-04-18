@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > What to expect in America’s first 21st century impeachment trial against
       a U.S. president.
@@ -28,12 +29,13 @@ cards:
       >
     _key: a0bdccf6fbf2
   - order: 1
+    useCheckmark: false
     body: >-
       ## Quick Reminder
 
 
       * **The House** impeached Pres. Trump on two “charges” (**abuse of power**
-      & **obstruction of congress)** related to Pres. Trump requesting Ukraine’s
+      &**obstruction of congress)** related to Pres. Trump requesting Ukraine’s
       help investigating the Biden family.
 
       * **The Senate** will decide the punishment: whether or not the President
@@ -43,6 +45,7 @@ cards:
       none have been removed from office.
     _key: d5da29b614ff
   - order: 2
+    useCheckmark: false
     body: >-
       ## Impeachment Managers
 
@@ -58,6 +61,7 @@ cards:
       republicans selected 13 impeachment managers.
     _key: 43a4cc00ec95
   - order: 3
+    useCheckmark: false
     body: >-
       ## Witnesses
 
@@ -74,9 +78,11 @@ cards:
       doors.
     _key: d42abbaaf37d
   - order: 4
-    body: "## Presiding Officer\n\n* Supreme Court Chief Justice John Roberts will preside over the trial, but his role is ***limited* and largely ceremonial**\_as the Senate can overrule his decisions by a majority vote.\n* The Senate decides BOTH the procedures governing the trial and its outcome — whether to oust the Pres.\n* Before the trial begins, the presiding officer and every senator must take an oath to “_do impartial justice_.”"
+    useCheckmark: false
+    body: "## Presiding Officer\n\n* Supreme Court Chief Justice John Roberts will preside over the trial, but his role is***limited* and largely ceremonial**\_as the Senate can overrule his decisions by a majority vote.\n* The Senate decides BOTH the procedures governing the trial and its outcome — whether to oust the Pres.\n* Before the trial begins, the presiding officer and every senator must take an oath to “_do impartial justice_.”"
     _key: b443ecbfa5be
   - order: 5
+    useCheckmark: false
     body: >-
       ## BIG PICTURE
 
@@ -86,11 +92,12 @@ cards:
       needed to convict.
 
       * **Number To Know: 51**. The Senate is made up 47 Democrats (including 2
-      Independents) and 53 Republicans. **51 votes** are needed to pass (or
-      defeat) any motion. **The Democrats drove the impeachment in the House;
+      Independents) and 53 Republicans.**51 votes** are needed to pass (or
+      defeat) any motion.**The Democrats drove the impeachment in the House;
       Republicans take the wheel now.**
     _key: 3e8c58a7c202
   - order: 6
+    useCheckmark: true
     body: >-
       What's next? The House managers will *formally* deliver the articles of
       impeachment to the Senate on Thursday, Chief Justice Roberts will take be

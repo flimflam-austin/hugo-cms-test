@@ -20,10 +20,12 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: "# FACEBOOK SCANDAL\n\n## At Fault Or A Victim?\n\n> ‘This was a scam a\x14 and a fraud.’  \n  \n  \n  \nPaul Grewal, Facebook VP & lawyer, statement to NYT, March 17, 2018\n\nFlip For More"
     citation: Flip For More
     _key: card-1-bdfe69c5-3687-4e47-ae0b-ca0019abfe57
   - order: 1
+    useCheckmark: false
     body: >-
       ## Let’s Set The Stage
 
@@ -37,6 +39,7 @@ cards:
       Zuckerberg asked to appear before Congress about company’s standards.
     _key: card-2-97fd4207-3cf8-46e2-a9ce-3a8bf6971ebb
   - order: 2
+    useCheckmark: false
     body: |-
       # Center of Controversy
 
@@ -50,6 +53,7 @@ cards:
       * Wealthy Republican Businessman & his associates.
     _key: card-3-fe81b27f-30a7-48a8-9055-51b78af6101e
   - order: 3
+    useCheckmark: false
     body: >-
       # Psychographic
 
@@ -63,18 +67,19 @@ cards:
       Different than demographics that reflect race, age or gender.
 
 
-      Facebook and online data can be used to create _psychographics_ – to
-      target you as **a voter or consumer**.
+      Facebook and online data can be used to create_psychographics_ – to target
+      you as**a voter or consumer**.
     _key: card-4-0d11b1d6-4431-4b9d-8edb-cbea51476eee
   - order: 4
+    useCheckmark: false
     body: >-
       The Professor  
 
       Aleksandr KoganA
 
 
-      * Gathered information from FB app for anA ‘academic project”:A
-      _thisisyourdigitallife_
+      * Gathered information from FB app for anA ‘academic
+      project”:A_thisisyourdigitallife_
 
       * FB says Kogan violated its policies when he shared data with a private
       firm: Cambridge Analytica.
@@ -83,6 +88,7 @@ cards:
       some 50M FB users -A NYT.
     _key: card-5-4b93e245-cbdd-4d63-b9ac-7fbc7093ca72
   - order: 5
+    useCheckmark: false
     body: >-
       > “About 270,000 people downloaded the app, giving Mr. Kogan access to
       information such as the cities they lived in, the content they had liked,
@@ -93,6 +99,7 @@ cards:
       WSJ, March 20, 2018
     _key: card-6-6605f4aa-709d-49b3-8965-b1a0afd63399
   - order: 6
+    useCheckmark: false
     body: >-
       The Firm  
 
@@ -110,12 +117,13 @@ cards:
       * Tuesday: CEO suspended
     _key: card-7-bb8c15c3-d126-4849-994b-3d6d55c63213
   - order: 7
+    useCheckmark: false
     body: >-
       ## What’s The Big Deal?
 
 
-      * Cambridge Analytica reportedly gave **U.S. political strategy work** to
-      a British partner firm, owned by a Brit & run by Europeans. **It’s illegal
+      * Cambridge Analytica reportedly gave**U.S. political strategy work** to a
+      British partner firm, owned by a Brit & run by Europeans.**It’s illegal
       for foreigners to interfere in U.S. elections.**
 
       * Some FB users willingly gave data to the professor app that then gave to
@@ -123,6 +131,7 @@ cards:
       unethical.
     _key: card-8-27946bcd-234f-411b-ab5c-f5c5857d9824
   - order: 8
+    useCheckmark: false
     body: >-
       Facebook Says:  
 
@@ -137,6 +146,7 @@ cards:
       Paul Grewal, VP & Facebook deputy general counsel, NYT, March 17, 2018
     _key: card-9-3676944a-ff5c-48c9-8df2-47497cb8fa8a
   - order: 9
+    useCheckmark: true
     body: |-
       Mark Zuckerberg has sold nearly $1B worth of FB shares this year. Why?
 

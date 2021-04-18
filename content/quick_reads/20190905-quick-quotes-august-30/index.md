@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "I never got to meet her, I never got to tell her that I love her. But
       I’ll be damned if I ain’t gonna say goodbye to her. She saved my life."  
@@ -31,6 +32,7 @@ cards:
       Grande & Faith Hill will perform.
     _key: card-1-9571cc8f-fb40-4584-a269-1200e508c8a5
   - order: 1
+    useCheckmark: false
     body: >-
       > “…out of an abundance of caution and concern for the safety of our
       students and employees, I am turning off all drinking water in our
@@ -43,6 +45,7 @@ cards:
       water will be provided.
     _key: card-2-610be104-3fe3-46a6-8039-519a09b28b37
   - order: 2
+    useCheckmark: false
     body: >-
       > “I think Canada very much wants to make the deal. It probably won’t be
       good at all if they don’t.”  
@@ -57,6 +60,7 @@ cards:
       [SMARTHER REFRESHER](https://smarthernews.com/a-new-nafta/)
     _key: card-3-19b717f0-bd1e-4db2-9455-d801a6550a60
   - order: 3
+    useCheckmark: false
     body: >-
       > “The sickest folks that were exposed to this substance came in
       unconscious and not breathing, they could not control their airway.”  
@@ -68,6 +72,7 @@ cards:
       fan.
     _key: card-4-dbf0bbee-58cc-4191-8b01-a69068b123fd
   - order: 4
+    useCheckmark: false
     body: >-
       > "Of course, I was surprised when I just changed (the) T-shirt really
       quick, and he gave me the code violation. I didn’t expect it, and I told
@@ -79,6 +84,7 @@ cards:
       Open said it regrets the code violation and has since clarified its rules.
     _key: card-5-5f73b98b-508e-4162-a3d2-096e66d32271
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great day!
 

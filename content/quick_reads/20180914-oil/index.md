@@ -20,11 +20,12 @@ card_series: Current Events
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # PETROL PRIDE
 
 
-      Move over Russia & Saudi Arabia,A the **U.S. is now the largest global oil
+      Move over Russia & Saudi Arabia,A the**U.S. is now the largest global oil
       producer.**
 
 
@@ -34,20 +35,22 @@ cards:
       "Texas Tea" Party.
     _key: card-1-6e0b94db-0384-487c-a5e1-2018f2670cd7
   - order: 1
+    useCheckmark: false
     body: >-
       # Don’t Mess with Texas
 
 
       * U.S. produces 11M barrels oil per day – more than any country in the
-      world for **1stA time since 1973**.
+      world for**1stA time since 1973**.
 
-      * Texas is responsible for **one-fifth of U.S. production**A due to shale
+      * Texas is responsible for**one-fifth of U.S. production**A due to shale
       drilling boom.
 
       * **Texas is now on track to produce more oil than Iraq & Iran;**A Mideast
       instability has impacted that region’s oil markets.
     _key: card-2-4feed401-461a-41a0-8a36-6ab6cdd74e82
   - order: 2
+    useCheckmark: false
     body: >-
       > “It’s a historic milestone and a reminder: Never bet against the US oil
       industry.”  
@@ -57,6 +60,7 @@ cards:
       Bob McNally, president of Radian Energy Group, a consulting firm.
     _key: card-3-8a96a009-9893-4afb-ba45-fdf88537e0b8
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -64,12 +68,13 @@ cards:
       * More production at home makes the U.S. less reliant on volatile Middle
       East, creating more jobs for production & distribution.
 
-      * Also important to remember: **Oil is a global market.** If Saudi Arabia
+      * Also important to remember:**Oil is a global market.** If Saudi Arabia
       or Russia ramped up production dramatically, it could drive prices lower –
       potentially to a point that would make extracting oil from shale not worth
       it financially.
     _key: card-4-e8771824-eaf7-4621-af82-77f518739710
   - order: 4
+    useCheckmark: true
     body: >-
       The Department of Energy expects US oil production next year to continue
       at this pace or slightly higher, allowing it to remain the world's #1 oil

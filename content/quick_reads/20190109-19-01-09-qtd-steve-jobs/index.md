@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--bronze'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “_Your work is going to fill a large part of your life, and the only way
       to be truly satisfied is to do what you believe is great work. And the
@@ -29,6 +30,7 @@ cards:
     citation: Steve Jobs
     _key: card-1-356559ff-fe0b-4201-b967-d794614640e9
   - order: 1
+    useCheckmark: true
     body: >-
       Jobs, one of the most successful college dropouts ever, co-founded Apple
       in 1976. Nearly thirty years later on January 9, 2007, Apple unveiled the

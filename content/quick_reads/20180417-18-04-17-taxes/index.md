@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # TAX DAY EXTENDED
 
@@ -32,13 +33,14 @@ cards:
         
         
         
-      Meanwhile, nearly half of U.S.A **won’t pay any federal taxes** this year.
+      Meanwhile, nearly half of U.S.A**won’t pay any federal taxes** this year.
 
 
       FLIP FOR WHY
     citation: FLIP FOR WHY
     _key: card-1-b625c64d-d87a-48b3-a99d-42616f45ee42
   - order: 1
+    useCheckmark: false
     body: >-
       46% of Americans Pay  
 
@@ -57,6 +59,7 @@ cards:
     citation: Are taxes too high?
     _key: card-2-85a11e7b-2dbb-4a0d-912a-13d4e0bef1df
   - order: 2
+    useCheckmark: false
     body: >-
       GOLDILOCKS & THE IRS  
 
@@ -66,7 +69,7 @@ cards:
       According to a new Gallup Poll:
 
 
-      * **48%** say taxes are **“about right”A**
+      * **48%** say taxes are**“about right”A**
 
       * **45%** say taxes**A** are**A “too high” A** (smallest percentage since
       2012)
@@ -76,14 +79,15 @@ cards:
       high vs. 62% year ago & 72% in ’16.
     _key: card-3-81421f2a-eaa4-47ca-b9b2-ea9e7171dd4e
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Case for More Taxes
 
 
-      > “In your average social democratic European country, you **pay more
-      taxes**, but you also **get a lot in return: universal health coverage,
+      > “In your average social democratic European country, you**pay more
+      taxes**, but you also**get a lot in return: universal health coverage,
       free child care, generous paid family leave, & free college**, for example
-      … there are things you just don’t have to worry about, **things that keep
+      … there are things you just don’t have to worry about,**things that keep
       us Americans up nights**.”  
         
         
@@ -91,6 +95,7 @@ cards:
       Paul Waldman, The American Prospect
     _key: card-4-ac035305-07b4-42e6-9e0a-253346291f5c
   - order: 4
+    useCheckmark: false
     body: >-
       Who Pays the Most Taxes?  
 
@@ -100,9 +105,9 @@ cards:
       Adding up state & federal income taxes, property, sales & gas taxes…
 
 
-      * **New Jersey** residents pay the **highest on avg at $20K/year**
+      * **New Jersey** residents pay the**highest on avg at $20K/year**
 
-      * **West Virginia**A residents pay the **lowest on avg under $7K/year**
+      * **West Virginia**A residents pay the**lowest on avg under $7K/year**
 
 
       [Click to see: How Your State Stacks
@@ -110,6 +115,7 @@ cards:
     citation: 'Click to see: How Your State Stacks Up'
     _key: card-5-3d2f4356-a8e8-401e-8c93-021e1bedad0f
   - order: 5
+    useCheckmark: true
     body: >-
       In an USA Today Op-Ed , President Trump says America's economy is back and
       roaring and its people are winning. Click to read & tell us what you

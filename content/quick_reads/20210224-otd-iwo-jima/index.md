@@ -19,6 +19,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # February 23, 1945
 
@@ -31,11 +32,12 @@ cards:
       why it was actually the second flag to be raised that day).
     _key: ff8df5cd6325
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Battle of Iwo Jima:
 
 
-      * A **critical battle** in WWII on the island of Iwo Jima: Feb. 19 – March
+      * A**critical battle** in WWII on the island of Iwo Jima: Feb. 19 – March
       26, 1945.
 
       * The photo was taken on Mount Suribachi; the volcano’s summit overlooks
@@ -48,6 +50,7 @@ cards:
       victory.
     _key: 34a6b1628b72
   - order: 2
+    useCheckmark: false
     body: >-
       > “The United States Marines by their individual and collective courage
       have conquered a base which is as necessary to us in our continuing
@@ -59,6 +62,7 @@ cards:
       Fleet Admiral Chester Nimitz
     _key: 2b333616eb8d
   - order: 3
+    useCheckmark: false
     body: >-
       > “Everybody cheered and it was really something because the flag from the
       [USS] Missoula was the very first to be raised on Japanese territory… We
@@ -71,6 +75,7 @@ cards:
       dodging a grenade - he (and his film) survived.
     _key: 49556a5f02aa
   - order: 4
+    useCheckmark: false
     body: >-
       > “… speaking for myself—and yet I am sure there are many others aboard
       who feel the same—the part we played in the invasion of Iwo Jima was
@@ -83,9 +88,11 @@ cards:
       larger Stars and Stripes.
     _key: 3a25e23d5ce4
   - order: 5
-    body: "## Interesting To Note:\n\n* Marines took the summit early on Feb. 23, but **the Pulitzer prize-winning photograph was taken with a second flag later in the day** by AP photographer Joe Rosenthal.\n* Why? **The original flag was too small for everyone to see from**\_**below –** so a second patrol climbed to the summit to raise the larger flag.\n* 27 Medals of Honor awarded – more than any other battle in U.S. history."
+    useCheckmark: false
+    body: "## Interesting To Note:\n\n* Marines took the summit early on Feb. 23, but**the Pulitzer prize-winning photograph was taken with a second flag later in the day** by AP photographer Joe Rosenthal.\n* Why?**The original flag was too small for everyone to see from**\_**below –** so a second patrol climbed to the summit to raise the larger flag.\n* 27 Medals of Honor awarded – more than any other battle in U.S. history."
     _key: 7159a83ef446
   - order: 6
+    useCheckmark: true
     body: >-
       The iconic flag was raised days into the battle for Iwo Jima, but the
       island wasn't secure for another month. Nearly 7,000 Americans died in the

@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## SUPREME COURT JUSTICE RUTH BADER GINSBURG
 
@@ -39,6 +40,7 @@ cards:
       HEF LIFE & LEGACY IN HER OWN WORDS
     _key: 1284654a77b5
   - order: 1
+    useCheckmark: false
     body: >-
       > “One lives not just for oneself, but for one’s community.”
 
@@ -51,6 +53,7 @@ cards:
       was nominated by Pres. Clinton.
     _key: 16550919fdad
   - order: 2
+    useCheckmark: false
     body: >-
       > “The attitude is ‘I’m going to surmount this – whatever it is.’”
 
@@ -64,6 +67,7 @@ cards:
       federal law overturned the decision.
     _key: e4f9a49ffa9c
   - order: 3
+    useCheckmark: false
     body: >-
       > “I had a life partner who thought my work was as important as his, and I
       think that made all the difference for me.”
@@ -77,6 +81,7 @@ cards:
       little deaf.”
     _key: ba0829127d6f
   - order: 4
+    useCheckmark: false
     body: >-
       > “The judiciary – unlike the legislature, unlike the president – is a
       reactive institution. We have no agenda. We respond to the cases that are
@@ -90,6 +95,7 @@ cards:
       underway.
     _key: be2f305b0032
   - order: 5
+    useCheckmark: false
     body: >-
       > “I think the notion that we have all the democracy that money can buy
       strays so far from what our democracy is supposed to be.”
@@ -102,6 +108,7 @@ cards:
       ad spending.
     _key: 3ccff96e1f61
   - order: 6
+    useCheckmark: false
     body: >-
       “Someone who used whatever talent she had to do her work to the very best
       of her ability. And to help repair tears in her society, to make things a
@@ -112,6 +119,7 @@ cards:
       could to the best of her ability to do the job right.”
     _key: 28fbbe3f4aa3
   - order: 7
+    useCheckmark: true
     body: >-
       Justice Ginsburg will lie in repose at the Supreme Court Wednesday and
       Thursday. On Friday, she will lie in state at the U.S. Capitol before her

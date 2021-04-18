@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “They’re more than just a pair of shoes, the slippers. They’re an
       enduring symbol of the power of belief.”  
@@ -32,6 +33,7 @@ cards:
       pairs and were insured for $1M.
     _key: card-1-91ef90f9-4f51-4996-9df5-6369b99df9a3
   - order: 1
+    useCheckmark: false
     body: >-
       “Twitter does not use political ideology to make any decisions…. In fact,
       from a simple business perspective and to serve the public conversation,
@@ -43,6 +45,7 @@ cards:
       attempts to influence U.S. political campaigns.
     _key: card-2-36a22304-1c15-4f61-9fdf-2c5b520a9c7d
   - order: 2
+    useCheckmark: false
     body: >-
       "You hire us to get things done and pass the torch when we’ve done our
       best to do what you hired us to do."  
@@ -55,6 +58,7 @@ cards:
       officer's murder trial starts Wednesday.
     _key: card-3-498b6ed3-8be3-42f8-8b51-6aea885eba1a
   - order: 3
+    useCheckmark: false
     body: >-
       > “I’m here to take that stand and say we are ready for the storm.”  
         
@@ -65,6 +69,7 @@ cards:
       make landfall this year.
     _key: card-4-b9aee35e-a548-4183-bc6e-56dcb47eb430
   - order: 4
+    useCheckmark: true
     body: >-
       "No place like home." Go deeper on the mysterious disappearance of those
       ruby slippers here.

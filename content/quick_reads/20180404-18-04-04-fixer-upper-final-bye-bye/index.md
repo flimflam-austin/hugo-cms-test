@@ -20,6 +20,7 @@ card_series: Entertainment
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Fixer Upper: Final Farewell
 
@@ -37,6 +38,7 @@ cards:
     citation: How Fixer Upper Changed TV
     _key: card-1-b29b266c-1b56-4d2f-8103-a1e6784a537a
   - order: 1
+    useCheckmark: false
     body: |-
       ## Background:
 
@@ -50,6 +52,7 @@ cards:
       Irony? Chip & Joanna Gaines don’t own a TV.
     _key: card-2-642c1652-bca2-4066-afda-a4d38b84dcf5
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Is Fixer Upper SUCH A Big Deal…in TV?
 
@@ -62,9 +65,10 @@ cards:
       * Super Bowl lowest viewers since 2009.
 
       * Important network morning shows all losing viewers year-over-year. In
-      fact, **Fixer Upper often beat the TV giants in viewership**.
+      fact,**Fixer Upper often beat the TV giants in viewership**.
     _key: card-3-adf59bc4-2a0b-48cf-a205-c3e122eb10da
   - order: 3
+    useCheckmark: false
     body: >-
       # ‘Fixer Upper’ Success
 
@@ -81,6 +85,7 @@ cards:
       * Overall, healthy real estate market.
     _key: card-4-b4d5835f-6650-40bc-9c6a-649ef6380fe1
   - order: 4
+    useCheckmark: true
     body: >-
       Chip & Joanna Gaines have big plans - including a new baby in July (child
       #5) - Read more on what's next (including a 'Magnolia Kids' line)

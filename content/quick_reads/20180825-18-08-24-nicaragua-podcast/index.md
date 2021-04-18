@@ -20,6 +20,7 @@ card_series: Podcast
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “I am worried we will become yesterday’s news. That’s why I am risking
       my life.”  
@@ -33,6 +34,7 @@ cards:
       [Listen:](http://smarthernews.libsyn.com/smarther-news-podcast-ep11-crisis-in-nicaragua)
     _key: card-1-ede63138-5185-41e2-a32a-01014aaa9d00
   - order: 1
+    useCheckmark: true
     body: >-
       The recent turmoil in Nicaragua has gone mostly overlooked. Our guest this
       week explains why it matters as he aptly points out: "We don't really know

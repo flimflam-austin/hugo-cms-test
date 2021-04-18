@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “Shame & Sorrow”
 
@@ -35,21 +36,23 @@ cards:
       18,565 U.S. Victims
     _key: card-1-e6223dc0-29fb-433d-b4f7-db7e9f847811
   - order: 1
+    useCheckmark: false
     body: >-
       ## A Number You’ve Probably Heard: $3B
 
 
-      Often quoted the **Catholic Church has paid out $3B to U.S. victims.**
+      Often quoted the**Catholic Church has paid out $3B to U.S. victims.**
 
 
-      **BUT** that data **hasn’t been updated since 2011 & doesn’t include
+      **BUT** that data**hasn’t been updated since 2011 & doesn’t include
       smaller settlements since 2002.**
 
 
-      Bishop Accountability, which compiles the data, says **$3B is an
+      Bishop Accountability, which compiles the data, says**$3B is an
       “underestimate.”**
     _key: card-2-dfeea6b7-ec20-415c-b9e7-98de816c5b9a
   - order: 2
+    useCheckmark: false
     body: >-
       > "I really worry about a loss to credibility, a loss of trust. There’s no
       use denying it. We can’t sugarcoat it, this is disastrous."  
@@ -61,20 +64,22 @@ cards:
       by 300 priests over 70 years.
     _key: card-3-cff49132-fb48-43cd-83d3-aaa29b69b5a6
   - order: 3
+    useCheckmark: false
     body: >-
       ## Where the Collection Goes
 
 
       * Approx. 17M Catholic U.S. households donate an average of $10 each week
-      = **$8.8B each year.**
+      =**$8.8B each year.**
 
-      * Donations are typically used to **fund church operations or social
+      * Donations are typically used to**fund church operations or social
       services**.
 
-      * In some cases, donations have been used **in connection with settlements
+      * In some cases, donations have been used**in connection with settlements
       paid to victims.**
     _key: card-4-f483d6ef-f285-4fa5-8634-39b64f1d728f
   - order: 4
+    useCheckmark: false
     body: >-
       > "For the billions it has cost the Catholic Church, it does not compare
       to the cost of (traumatic) lives that many have suffered over the
@@ -87,19 +92,21 @@ cards:
       2005 with 2 dozen other victims.
     _key: card-5-b65f86e2-4091-4b19-8b80-51ff9f9d431a
   - order: 5
+    useCheckmark: false
     body: >-
       ## Bigger Picture
 
 
-      * Percentage of **Catholics worldwideA is steady at 18%**.
+      * Percentage of**Catholics worldwideA is steady at 18%**.
 
-      * Number of U.S. Catholics **declined from 2015** (81M) **to 2017** (74M),
-      but had been **steadily increasing since 1970**.
+      * Number of U.S. Catholics**declined from 2015** (81M)**to 2017** (74M),
+      but had been**steadily increasing since 1970**.
 
       * According to a 2010 Pew survey: About 27% of those who had left the
-      church **blamed the clergy sexual abuse scandals**.
+      church**blamed the clergy sexual abuse scandals**.
     _key: card-6-b2615612-b2f7-4e79-a642-f7f575756137
   - order: 6
+    useCheckmark: true
     body: >-
       Missouri's AG Josh Hawley, a Republican running for Senate, has launched
       an investigation into Catholic Church sexual abuse making it the 1st state

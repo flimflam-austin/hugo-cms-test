@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Billion Dollar Bubbles
 
@@ -31,6 +32,7 @@ cards:
       What's old is new
     _key: card-1-4e9fd180-0770-4bfe-9922-d2c65c02eba0
   - order: 1
+    useCheckmark: false
     body: >-
       ## Pepsi Buys SodaStream
 
@@ -42,6 +44,7 @@ cards:
       bought TopoChico, a sparkling water brand, for more than $200M.
     _key: card-2-f207c5a1-1e77-481f-8288-cb125cdf98e1
   - order: 2
+    useCheckmark: false
     body: >-
       > “Sparkling water has grown far more strongly than the overall bottled
       water category in the U.S.”  
@@ -52,6 +55,7 @@ cards:
       in recent years. In the meantime, Americans are drinking less soda.
     _key: card-3-9679563c-64b2-4b98-9de5-ca1da05468fc
   - order: 3
+    useCheckmark: false
     body: |-
       ## Are Bubbles Actually Healthier?
 
@@ -62,6 +66,7 @@ cards:
       * May (mildly) impact your teeth enamel.
     _key: card-4-b33a4663-44e3-447c-9311-ea33ff374059
   - order: 4
+    useCheckmark: true
     body: >-
       The man who invented sparkling water also discovered oxygen (as we know
       it) ... and the rubber eraser! The Englishman believed in the American

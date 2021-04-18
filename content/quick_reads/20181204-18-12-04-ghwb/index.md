@@ -20,12 +20,14 @@ card_series: smarther news
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # GEORGE HERBERT WALKER BUSH
 
       The life of America’s longest-living president.
     _key: card-1-7270e030-b5a0-4e2d-b8a7-211fdd3480d2
   - order: 1
+    useCheckmark: false
     body: >-
       # The Navy Pilot
 
@@ -39,6 +41,7 @@ cards:
       and was eventually rescued.
     _key: card-2-2588f9c0-f23e-46bd-bdd3-774800c2db08
   - order: 2
+    useCheckmark: false
     body: >-
       # The Family Man
 
@@ -52,6 +55,7 @@ cards:
       Barbara Bush passed away in April 2018.
     _key: card-3-cebf73b2-7b9c-425c-9412-66305166cb65
   - order: 3
+    useCheckmark: false
     body: >-
       # The Business Man
 
@@ -64,6 +68,7 @@ cards:
       businesses.
     _key: card-4-81e75a30-9515-490e-bf4e-9f0d0d9f7e59
   - order: 4
+    useCheckmark: false
     body: >-
       # The Statesman
 
@@ -76,6 +81,7 @@ cards:
       Reagan's Vice President from 1980 - 1988.
     _key: card-5-f4c86d8f-f317-4b0b-b348-6df445a02396
   - order: 5
+    useCheckmark: false
     body: >-
       # The President
 
@@ -89,6 +95,7 @@ cards:
       law.
     _key: card-6-5470ccfc-98f7-4d17-bbec-91c761da17a8
   - order: 6
+    useCheckmark: false
     body: >-
       # The Skydiver
 
@@ -102,6 +109,7 @@ cards:
       always with Barbara waiting for him on the ground.
     _key: card-7-53f09bdb-e189-41e7-afb6-186d3e8f78f1
   - order: 7
+    useCheckmark: true
     body: >-
       Known by many as "41", President Bush was known to his family and loved
       ones as "Poppy" or "Pop." To his grandchildren and great-grandchildren he

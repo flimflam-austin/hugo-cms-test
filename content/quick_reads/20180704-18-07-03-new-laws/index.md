@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # New Month, New Laws
 
@@ -32,6 +33,7 @@ cards:
       Practical to bizarre...
     _key: card-1-cd277158-79e3-4375-aa43-0b3ba6972f84
   - order: 1
+    useCheckmark: false
     body: >-
       # No Plastic Straws & Utensils in Seattle
 
@@ -47,6 +49,7 @@ cards:
       * 1st major city to do so; NYC introduced similar legislation in May.
     _key: card-2-fba86467-698f-4172-bab9-df9125ccaf12
   - order: 2
+    useCheckmark: false
     body: >-
       ## Must Be 18 Years or Older to Marry in Florida
 
@@ -61,6 +64,7 @@ cards:
       * Law stems from forced, minor marriages.
     _key: card-3-0226aa5a-41b9-4803-bad3-60f4597dc960
   - order: 3
+    useCheckmark: false
     body: >-
       ## More Recess in Virginia
 
@@ -75,6 +79,7 @@ cards:
       of total instructional time or teaching hours.
     _key: card-4-f5cd0b73-033f-4d41-ba49-6de95f30adcc
   - order: 4
+    useCheckmark: false
     body: >-
       ## Don’t Dial & Drive
 
@@ -91,6 +96,7 @@ cards:
       * ALSO, new law in Arizona bans teen drivers from using phones.
     _key: card-5-b7ed98d3-2c11-4f5c-b326-dd6039f0be83
   - order: 5
+    useCheckmark: false
     body: >-
       ## No Eyeball Tattooing in Indiana
 
@@ -105,6 +111,7 @@ cards:
       * Oklahoma is the only other state with a similar law.
     _key: card-6-985bd7c6-b3cb-4970-ae4d-31ec6789b3bb
   - order: 6
+    useCheckmark: false
     body: >-
       ## No Slow Pokes in the Left Lane in Idaho
 
@@ -118,6 +125,7 @@ cards:
       * Citations would be handled like a speeding ticket & could cost you $90.
     _key: card-7-cfe3944f-14ae-4363-b419-ed9f696a5e3e
   - order: 7
+    useCheckmark: true
     body: >-
       Hundreds of new laws went into effect on July 1 for many state & local
       governments as a by-product of their 2018 legislative session. We want to

@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## 65 Years Ago Today
 
@@ -32,6 +33,7 @@ cards:
       “first lady of civil rights.”
     _key: 9b6e0610f6fd
   - order: 1
+    useCheckmark: false
     body: >-
       > “… At that time, there was legally enforced segregation. There were
       places black people couldn’t go, and rights we did not have. This was not
@@ -43,6 +45,7 @@ cards:
       bus to get arrested; I got on the bus to go home."
     _key: 30d7e6d4e2e8
   - order: 2
+    useCheckmark: false
     body: >-
       ## What Happened:
 
@@ -58,6 +61,7 @@ cards:
       * She refused & was arrested for disobeying the bus driver’s orders.
     _key: 429c2f3b0a68
   - order: 3
+    useCheckmark: false
     body: >-
       ## BACKSTORY
 
@@ -71,6 +75,7 @@ cards:
       under arrest_.”
     _key: 3855cf5c37d1
   - order: 4
+    useCheckmark: false
     body: >-
       > “To me it was a regular, routine arrest, therefore I didn’t think
       anything else about it until the next morning after I went to work.”
@@ -84,6 +89,7 @@ cards:
       Dec. 5th.
     _key: e90bfbafb7e6
   - order: 5
+    useCheckmark: false
     body: >-
       ## AFTERMATH
 
@@ -99,6 +105,7 @@ cards:
       decision deeming segregation on public buses unconstitutional.
     _key: f7db8fa7fe41
   - order: 6
+    useCheckmark: true
     body: >-
       Rosa Parks' impact lasted long after the civil rights movement. She was
       awarded the Presidential Medal of Freedom in 1996, the highest civilian

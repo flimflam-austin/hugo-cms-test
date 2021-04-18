@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## _“We fall down and we get back up. That’s the sign of champions_.”
 
@@ -27,6 +28,7 @@ cards:
     citation: KANYE WEST
     _key: b78bf2041531
   - order: 1
+    useCheckmark: true
     body: >-
       West on perseverance to Wall Street Journal Magazine. West donated what's
       described as a "generous" amount of money to organizations in L.A. &

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Celebrity Politics
 
@@ -42,6 +43,7 @@ cards:
     citation: Watch Now
     _key: card-1-cfd793cd-6a23-4199-a1f7-28cbb434354f
   - order: 1
+    useCheckmark: false
     body: |-
       Cynthia Nixon  
       Background & Platform
@@ -54,6 +56,7 @@ cards:
       * Has never run for elected office.
     _key: card-2-da01ca39-1898-4471-a61f-46b2f0bedca5
   - order: 2
+    useCheckmark: false
     body: >-
       Why You Should Care:
 
@@ -70,22 +73,24 @@ cards:
       * Cuomo considered a ‘centrist’ & Nixon, progressive. Nixon attacks
       Cuomo’s “Democrat” credentials.
 
-      * Watching who wins $$ & support **may provide insight into direction of
+      * Watching who wins $$ & support**may provide insight into direction of
       Democratic Party.A**
     _key: card-3-9e759a3e-205a-42df-ad1b-f7ff69373ce1
   - order: 3
+    useCheckmark: false
     body: >-
       ## Another Reason To Care
 
 
-      Governor of New York State oversees **theA largest transportation system
-      in America**…and in North America overall.
+      Governor of New York State oversees**theA largest transportation system in
+      America**…and in North America overall.
 
 
       The MTA – Metropolitan Transit Authority – includes all New York City
       subways and state trains into-and-out of NYC.
     _key: card-4-fe17a3e9-a841-4582-a699-fcfb76ba1f1b
   - order: 4
+    useCheckmark: true
     body: >-
       Actress who played Charlotte in Sex In The City was the first to support
       ‘Miranda’ - Kristin Davis showed her support on social media fo Nixon. If

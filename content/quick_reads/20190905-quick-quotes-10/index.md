@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       “…we can confirm that we are working jointly with our law enforcement
       partners to fully investigate this matter.”  
@@ -32,6 +33,7 @@ cards:
       White House or Pentagon.
     _key: card-1-4cd29702-1073-4769-8142-e3b55b72b71b
   - order: 1
+    useCheckmark: false
     body: >-
       > “After 11 years of trying to outrun depression & PTSD symptoms, I have
       finally concluded it’s faster than me. That I have to stop running, turn
@@ -43,6 +45,7 @@ cards:
       a given year with 11-20% of veterans suffering.
     _key: card-2-d1e28b71-f229-4349-bf6b-ece19a9e4671
   - order: 2
+    useCheckmark: false
     body: >-
       > "Of course, we have quite a ways to go but we look forward to the next
       steps in this conversation."  
@@ -54,6 +57,7 @@ cards:
       help plan a second meeting between Kim & President Trump.
     _key: card-3-e3ac40f8-a18b-4b1a-8495-83eb5d5f96ec
   - order: 3
+    useCheckmark: false
     body: >-
       > “I’d like to see more people get vaccinated.A We lost 80,000 people last
       year to the flu.”  
@@ -65,6 +69,7 @@ cards:
       October.
     _key: card-4-0b924954-e574-4d76-a872-81d4290f8610
   - order: 4
+    useCheckmark: false
     body: >-
       > “I guess I just felt like putting our energy and our grief into
       something positive was a better thing than just twisting in the wind for a
@@ -76,6 +81,7 @@ cards:
       overdose one year ago.
     _key: card-5-540c8fa6-8048-4662-a8a3-b1e3f3e50537
   - order: 5
+    useCheckmark: false
     body: >-
       > “For me, I’ve got the right to wear what I want. That’s what’s so dope
       about this country – it’s a free country. I got the right to think what I
@@ -87,6 +93,7 @@ cards:
       support our president, bottom line, no matter who they are."
     _key: card-6-9802caf1-6161-4b0b-a9a0-f06cd398a95f
   - order: 6
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/quick-quotes-10/)'
     _key: card-10-305a8dad-32ca-4fac-90e0-bc90c5724cd3
 

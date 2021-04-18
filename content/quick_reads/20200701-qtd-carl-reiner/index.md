@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## _“Enjoy the good times, and walk away from the bumps. That’s it. Even
       failures can turn into something positive if you just keep going.”_
     citation: CARL REINER
     _key: 6f78eade8b39
   - order: 1
+    useCheckmark: true
     body: >-
       The Hollywood pioneer who said laughter was his "first priority" died at
       98. The legendary writer, director, producer, & actor was known for his

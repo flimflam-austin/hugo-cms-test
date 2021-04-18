@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # READY FOR ROMAINE
 
@@ -28,7 +29,7 @@ cards:
 
 
       Federal health officials: the tainted lettuce that sickened 172 people
-      across 32 states, & killed 1, is **no longer available for sale.**
+      across 32 states, & killed 1, is**no longer available for sale.**
 
 
       But are we any closer to answers?
@@ -37,6 +38,7 @@ cards:
       FLIP: WHAT THE FDA SAYS
     _key: card-1-18dfbb6b-5640-473f-9cad-6d4c4cf50aaf
   - order: 1
+    useCheckmark: false
     body: >-
       ## Safe, But Still Questions…
 
@@ -50,12 +52,13 @@ cards:
       * Harvest season for romaine lettuce, linked to the multi-state E. coli
       outbreak, is over.
 
-      * FDA says it’s unlikely contaminated lettuce still for sale due to 21-day
+      * FDA says it’sunlikely contaminated lettuce still for sale due to 21-day
       shelf life.
 
       * Source of E. Coli still unknown.
     _key: card-2-29bca89c-4f16-4108-a47d-227186da7632
   - order: 2
+    useCheckmark: true
     body: >-
       Maybe hold off on the caesar salads for now... romaine may be safe, but
       have you heard about the salmonella outbreak traced to eggs? Click to

@@ -20,6 +20,7 @@ card_series: Beauty
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Works For Wrinkles..
 
@@ -34,8 +35,9 @@ cards:
       What To Know
     _key: card-1-c2b01eef-66f7-448f-af91-e0dc370d8e61
   - order: 1
+    useCheckmark: false
     body: >-
-      > "The most promising aspect of our new approach is that **we can prolong
+      > "The most promising aspect of our new approach is that**we can prolong
       the opioid pain relief effect for many months with a single injection** of
       our new bio-pharmaceuticals. This could benefit chronic pain sufferers in
       many ways and also avoid the terrible consequences of continuous use of
@@ -45,6 +47,7 @@ cards:
       department, University of Sheffield
     _key: card-2-65b539cd-54a2-48bf-9e82-51647b7588d0
   - order: 2
+    useCheckmark: false
     body: >-
       ## About The Study:
 
@@ -60,6 +63,7 @@ cards:
       * End result is a less toxic & less addictive injectable than opioids.
     _key: card-3-63c33e9e-e165-4311-ae3b-2ff1a312cab6
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -74,6 +78,7 @@ cards:
       health emergency.
     _key: card-4-6d3099b9-8cd7-42a1-9841-db31f4d0ee21
   - order: 4
+    useCheckmark: true
     body: >-
       Many people don’t realize that there are numerous medical indications for
       Botox. We routinely use it in my office to treat migraines. Dr. Aisha

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # What We’ve Learned
 
@@ -31,6 +32,7 @@ cards:
       Here’s what you should know.
     _key: c9619a50681d
   - order: 1
+    useCheckmark: false
     body: >-
       ## BIG PICTURE
 
@@ -48,6 +50,7 @@ cards:
       *The CDC has *some* demographic information on an est. 1.3M cases.
     _key: 708c28713d4b
   - order: 2
+    useCheckmark: false
     body: >-
       ## BASICS
 
@@ -55,7 +58,7 @@ cards:
       > “…pandemic continues to be severe.”
 
 
-      * While **your risk of exposure differs on your specific community**,
+      * While**your risk of exposure differs on your specific community**,
       nationwide incidents of COVID-19 is 403 cases per 100,000 people.
 
       * Women and men have roughly equal incidents of COVID-19.
@@ -64,19 +67,21 @@ cards:
       rates of hospitalizations and death.
     _key: a19bd5d2e219
   - order: 3
+    useCheckmark: false
     body: >-
       ## YOUR BODY
 
 
-      Those with pre-existing conditions were **6x more likely to require
-      hospitalizations** and **12x more likely to die** than those without
+      Those with pre-existing conditions were**6x more likely to require
+      hospitalizations** and**12x more likely to die** than those without
       pre-existing conditions.
 
 
-      The most common pre-existing conditions: **heart disease**, **diabetes**
-      and **chronic lung disease**.
+      The most common pre-existing conditions:**heart disease**,**diabetes**
+      and**chronic lung disease**.
     _key: 4eb1acda8fb5
   - order: 4
+    useCheckmark: false
     body: >-
       ## AGE
 
@@ -92,6 +97,7 @@ cards:
       children younger than 9.
     _key: c0cf3f7b79ba
   - order: 5
+    useCheckmark: false
     body: >-
       ## Symptoms / No Symptoms
 
@@ -106,6 +112,7 @@ cards:
       “undiagnosed milder or asymptomatic illnesses.”
     _key: 8fc23b1f7ff6
   - order: 6
+    useCheckmark: true
     body: >-
       Pre-existing conditions remain a major factor for serious cases of
       COVID-19. Data continues to show Hispanic and Black Americans are

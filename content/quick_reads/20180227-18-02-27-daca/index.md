@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # DACA Drama
 
@@ -29,14 +30,15 @@ cards:
       * Trump administration requested The Supremes look at case when lower
       courts halted President Trump’s unwinding of the program.
 
-      * DACA kicked back to lower courts. **Fate & timeline unknown.**
+      * DACA kicked back to lower courts.**Fate & timeline unknown.**
 
 
       Flip Here
     _key: card-1-b0262f77-6170-4d60-ad93-8b2831dd5951
   - order: 1
+    useCheckmark: false
     body: >-
-      **D**eferred **A**ction for **C**hildhood **A**rrivals:
+      **D**eferred**A**ction for**C**hildhood**A**rrivals:
 
 
       The 2012 Obama-era policy granted provisional work permits and temporary
@@ -44,6 +46,7 @@ cards:
       U.S. illegally as kids, but NO pathway to citizenship.
     _key: card-2-92e44f7f-790d-4edc-b769-e31bf9b371ec
   - order: 2
+    useCheckmark: false
     body: >-
       ## How We Got Here:
 
@@ -57,6 +60,7 @@ cards:
       renewal applications.
     _key: card-3-9207f3d4-ba9f-4348-a951-516fd9d4ac57
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -71,6 +75,7 @@ cards:
       ongoing court challenges.
     _key: card-4-e490158b-5f36-453a-acdc-e9232bc1b688
   - order: 4
+    useCheckmark: true
     body: |-
       Next stop for DACA? 9th Circuit Court of Appeals. More Here:
 

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## “Bigger Than Bin Laden”
 
@@ -32,12 +33,13 @@ cards:
       Here’s what’s going on between America & Iran.
     _key: c7169bc75136
   - order: 1
+    useCheckmark: false
     body: >-
       ## IMPORTANT CONTEXT:
 
 
-      * **Iran**: Designated as a state sponsor of terrorism by U.S. State Dept.
-      **since 1984.**
+      * **Iran**: Designated as a state sponsor of terrorism by U.S. State
+      Dept.**since 1984.**
 
       * **State Sponsor of Terrorism** =_“repeatedly provided support for acts
       of international terrorism.”_
@@ -48,6 +50,7 @@ cards:
       this designation.
     _key: 47fbd8a3c54e
   - order: 2
+    useCheckmark: false
     body: >-
       ## ALSO IMPORTANT…
 
@@ -60,6 +63,7 @@ cards:
       @RepJimBanks (R-IN), veteran
     _key: f3fa32a379b7
   - order: 3
+    useCheckmark: false
     body: >-
       ## DURING THE LAST WEEK…
 
@@ -75,6 +79,7 @@ cards:
       bases with Americans increased "in tempo" since October, blaming Iran.
     _key: 1468baf11131
   - order: 4
+    useCheckmark: false
     body: >-
       ## THEN THIS HAPPENED…
 
@@ -90,6 +95,7 @@ cards:
       Quds force (General Soleimani).
     _key: 0e23aa7fac99
   - order: 5
+    useCheckmark: false
     body: >-
       _“General Soleimani was actively developing plans to attack American
       diplomats and service members in Iraq and throughout the region…This
@@ -101,6 +107,7 @@ cards:
       U.S. Dept. of Defense
     _key: 3b88713e50d4
   - order: 6
+    useCheckmark: false
     body: >-
       > “…this is bigger than bin-Laden…Bigger than Baghdadi. For two decades,
       Suleimani has been the most powerful, savvy & effective terrorist on the
@@ -112,6 +119,7 @@ cards:
       Force is a specialized division within the IRGC.
     _key: 0186bb059a9f
   - order: 7
+    useCheckmark: false
     body: >-
       > “The US’ act of international terrorism, targeting & assassinating
       General Soleimani—is extremely dangerous & a foolish escalation. The US
@@ -123,6 +131,7 @@ cards:
       retaliation."
     _key: 582019aabdc0
   - order: 8
+    useCheckmark: false
     body: >-
       ## Why This Matters
 
@@ -136,6 +145,7 @@ cards:
       Iraq war, and driving nefarious, terrorist activity worldwide.
     _key: b1ae310be051
   - order: 9
+    useCheckmark: true
     body: >-
       America has an estimated 60,000+ U.S forces in the Middle East including
       roughly 5,000 in Iraq.

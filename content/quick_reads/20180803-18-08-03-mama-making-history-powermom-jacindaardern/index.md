@@ -20,6 +20,7 @@ card_series: Powermom
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Mama Making History
 
@@ -29,22 +30,24 @@ cards:
     citation: Jacinda Ardern
     _key: card-1-d2c9da23-bb94-4b96-b4a9-6a23c4ef49b6
   - order: 1
+    useCheckmark: false
     body: >-
       ## Timing Is Everything
 
 
       New Zealand’s Prime Minister Jacinda Ardern gave birth to a girl named
-      “Neve” on **June 21**.
+      “Neve” on**June 21**.
 
 
       **June 21** would have been Pakistan’s late two-time Prime Minister
       Benazir Bhutto’s 65th birthday.
 
 
-      In 1990, Bhutto became the **FIRST** world leader to give birth in office
+      In 1990, Bhutto became the**FIRST** world leader to give birth in office
       (She was assassinated in 2007).
     _key: card-2-a2929cad-d237-4065-acb7-c568a062f742
   - order: 2
+    useCheckmark: false
     body: >-
       > “I am not the first woman to give birth.”  
         
@@ -59,6 +62,7 @@ cards:
       Post](https://www.facebook.com/jacindaardern/videos/10155405508197441/)
     _key: card-3-ffa4dbaf-3e73-48d9-b06c-4a74eb33120f
   - order: 3
+    useCheckmark: false
     body: >-
       # Paid Parental Leave Policies Abroad
 
@@ -72,6 +76,7 @@ cards:
       parental leave.
     _key: card-4-06a98eb6-3958-48b9-81ba-7afe993a730a
   - order: 4
+    useCheckmark: true
     body: >-
       In America, 10 women have given birth while in Congress. One of them, Sen.
       Tammy Duckworth (D-IL), gave birth while serving in the House of

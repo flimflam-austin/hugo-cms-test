@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## _“How wonderful it is that nobody need wait a single moment before
       starting to improve the world.”_
     citation: ANNE FRANK
     _key: e86a62170451
   - order: 1
+    useCheckmark: true
     body: >-
       June 12, 1929, Anne Frank is born. 13 years later, in 1942, during the
       rise of Nazi Germany, she receives her famous diary. A month later, her

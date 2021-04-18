@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # 96 BILLION
 
@@ -32,6 +33,7 @@ cards:
       Flip For Why
     _key: card-1-63efa9dd-1fad-47a9-a506-c8c6ebd16cdc
   - order: 1
+    useCheckmark: false
     body: |-
       # Pres Trump:
 
@@ -44,6 +46,7 @@ cards:
       * Formal order expected next week
     _key: card-2-9072abf1-a81a-4dc1-bb96-a0d2ebb157d8
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Tariffs Now?
 
@@ -56,6 +59,7 @@ cards:
       bedrock American industry (important in key states like Pennsylvania).
     _key: card-3-52343c74-d39d-451d-b532-aae75087f90e
   - order: 3
+    useCheckmark: false
     body: >-
       # Why Tariffs Matter:
 
@@ -73,6 +77,7 @@ cards:
       * Stock market reacted by falling sharply (down 586 pts at low).
     _key: card-4-465573b7-ef7a-4ad3-8e99-971c189a8431
   - order: 4
+    useCheckmark: false
     body: >-
       ## From Those Who Would Benefit From Tariffs:
 
@@ -86,6 +91,7 @@ cards:
       like his.
     _key: card-5-ecf8d58b-91f8-4f17-916f-3f96cf54969f
   - order: 5
+    useCheckmark: false
     body: >-
       > ‘The President is proposing a massive tax increase on American families.
       Protectionism is weak, not strong.”  
@@ -97,11 +103,12 @@ cards:
       equipment made from material like steel.
     _key: card-6-7291329a-def0-4b4c-99f8-79c1a7c4f069
   - order: 6
+    useCheckmark: false
     body: >-
       # Tariff Deja Vu?
 
 
-      * In 2002, Pres. Bush imposed aA **30% tariff** on steel imports.
+      * In 2002, Pres. Bush imposed aA**30% tariff** on steel imports.
 
       * **Lasted only 20 months** after Europe responded with its own tariffs.
 
@@ -112,6 +119,7 @@ cards:
       that WTO typically doesn’t probe.
     _key: card-7-0f2cbe31-92c3-4b28-819b-16cc9f72352e
   - order: 7
+    useCheckmark: true
     body: >-
       Don't forget timing. Trump announced his campaign manager for 2020 this
       week (Pennsylvania crucial to his 2016 win) AND sanctions on North Korea,

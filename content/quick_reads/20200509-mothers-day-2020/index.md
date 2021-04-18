@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Mother’s Day
 
@@ -28,17 +29,19 @@ cards:
       flags, not flowers.
     _key: d885c8e8799d
   - order: 1
+    useCheckmark: false
     body: >-
-      > “I…direct government officials to display **the American flag** on all
-      government buildings, & do invite people of the United States to **display
+      > “I…direct government officials to display**the American flag** on all
+      government buildings, & do invite people of the United States to**display
       the flag at their home** or other suitable spaces on the second Sunday of
-      May **as a public expression of our love & reverence for mothers of our
+      May**as a public expression of our love & reverence for mothers of our
       country.”**  
         
       Pres. Woodrow Wilson declared "Mother's Day" a holiday in 1914, but the
       campaign for it started years earlier.
     _key: 79ce3f82d270
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Daughter Behind Mother’s Day
 
@@ -52,6 +55,7 @@ cards:
       reconciliation after the Civil War ended.
     _key: f859fe304548
   - order: 3
+    useCheckmark: false
     body: >-
       ## Mother’s Day Campaign
 
@@ -68,6 +72,7 @@ cards:
       cards, & other gifts to celebrate Mother’s Day.
     _key: 7b6339b2e116
   - order: 4
+    useCheckmark: true
     body: >-
       Jarvis, who intended Mother's Day to honor the role mothers play in the
       family, church, and community, spent the rest of her life fighting against

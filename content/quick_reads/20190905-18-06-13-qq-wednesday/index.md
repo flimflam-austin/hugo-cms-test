@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “Some say 15 years, if you go rapidly.”  
         
@@ -30,6 +31,7 @@ cards:
       another* agreement on denuclearization.
     _key: card-1-cea50d86-de22-4dd7-8c8b-a607a8858790
   - order: 1
+    useCheckmark: false
     body: >-
       > “…little did we know he could run across the side of the building.”  
         
@@ -44,6 +46,7 @@ cards:
       Now](https://www.youtube.com/embed/Fh3WsBEWOA0?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-6627a5bb-a31b-4f69-a2a3-a088fcfe7210
   - order: 2
+    useCheckmark: false
     body: >-
       "If there ever were an antitrust case where the parties had a dramatically
       different assessment of the current state of the relevant market & a
@@ -56,9 +59,11 @@ cards:
       sued to block the merger over concerns of higher costs for consumers.
     _key: card-3-f796c8ec-00c4-4424-a18c-e36197e870ae
   - order: 3
+    useCheckmark: false
     body: "> “The asylum system is being abused …. Asylum was never meant to alleviate all problems a\x14 even all serious problems a\x14 that people face every day all over the world.”  \n  \nAttorney General Jeff Sessions announcing a new policy making it more difficult for victims of gang & domestic violence to obtain asylum in the U.S."
     _key: card-4-a1b5e19b-f8fd-4f0c-a335-0ac59539e968
   - order: 4
+    useCheckmark: false
     body: >-
       > “…a matter of time before a cybersecurity breach on an airline
       occurs.”  
@@ -70,6 +75,7 @@ cards:
       Delta & United. Boeing maintains its planes are safe.
     _key: card-5-ef327ecb-2a7b-412c-bcf1-f5c1f48a47ab
   - order: 5
+    useCheckmark: true
     body: |-
       Get even SmartHer by clicking here to read more.
 

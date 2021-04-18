@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## QUICK QUOTES
 
@@ -36,6 +37,7 @@ cards:
       staffer.
     _key: card-1-fb018783-f81a-497c-905c-a1376967d509
   - order: 1
+    useCheckmark: false
     body: >-
       > “Just as women have been undervalued in Hollywood, we aren’t adequately
       represented in the lab, or in research, when it comes to heart health.
@@ -49,6 +51,7 @@ cards:
       for women's heart health.
     _key: card-2-ba024dc2-73d4-4a8b-9325-3f2b22f3873b
   - order: 2
+    useCheckmark: false
     body: >-
       > “… the indictment falls squarely within that portion of the authority
       granted to the Special  
@@ -63,6 +66,7 @@ cards:
       manager, Paul Manafort's attempt to dismiss a criminal case against him.
     _key: card-3-19a1b0f8-ecb1-451d-837b-89d475201293
   - order: 3
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-05-16-quick-quotes/)'
     _key: card-10-24db2871-dc9a-4b9e-9d49-85ea5e3ef4ac
 

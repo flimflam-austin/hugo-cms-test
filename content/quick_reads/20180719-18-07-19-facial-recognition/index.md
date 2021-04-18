@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # FACE OFF
 
@@ -35,6 +36,7 @@ cards:
       FLIP: WHO'S WATCHING?
     _key: card-1-952133f2-2a5e-46a3-942c-16b6ff527fc5
   - order: 1
+    useCheckmark: false
     body: >-
       Surveillance in Society:  
 
@@ -44,13 +46,14 @@ cards:
       * **1 in 2 American adults** are in a law enforcement face recognition
       network.
 
-      * **No federal laws**A regulate facial recognition technology, butA **IL &
+      * **No federal laws**A regulate facial recognition technology, butA**IL &
       TX require permission** before collecting “faceprint.”
 
-      * In 2012, FTC suggested people should have option to opt-out, but
-      **Congress never made it law.**
+      * In 2012, FTC suggested people should have option to opt-out,
+      but**Congress never made it law.**
     _key: card-2-bb250fd7-06ba-4f62-b2dc-36cac8309047
   - order: 2
+    useCheckmark: false
     body: >-
       ## MICROSOFT’S WARNING
 
@@ -68,6 +71,7 @@ cards:
       Brad Smith, Microsoft President
     _key: card-3-bf9e7c21-8292-4935-8835-d7865ba1f171
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why It Matters: Extremes
 
@@ -75,14 +79,15 @@ cards:
       * Facial recognition can be used to catch criminals like the**A Capital
       Gazette shooter.**
 
-      * In 2016, ACLU criticized Maryland police for using it to **identify
+      * In 2016, ACLU criticized Maryland police for using it to**identify
       protesters & arrest them.**
 
       * China is using it to give all 1.4B of its citizens a “trustworthy”
-      score. Citizens with low scoresA **may not be allowed to travel or
-      purchase**A **property.**
+      score. Citizens with low scoresA**may not be allowed to travel or
+      purchase**A**property.**
     _key: card-4-8255cfbe-09a8-4be9-bfe4-0e6bbb4997a8
   - order: 4
+    useCheckmark: true
     body: >-
       Sure - Apple, Amazon, Facebook, Google & Microsoft are working on facial
       recognition tech, but it's not just Big Tech. USA Today shares how 100

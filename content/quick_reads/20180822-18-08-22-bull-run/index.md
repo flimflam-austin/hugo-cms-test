@@ -20,51 +20,55 @@ card_series: Money
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       RECORD WIN STREAK  
 
-      ON WALL STREET 
+      ON WALL STREET
 
 
       ## 9 Yrs, 5 Months & 13 Days
 
 
-      Stocks on track to hit the **longest-running rally in stock market
+      Stocks on track to hit the**longest-running rally in stock market
       history**.
 
 
       Why the timing matters.
     _key: card-1-81df98a8-3b38-4e8d-ba16-2afce35c3599
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
 
       * **Stocks’ “bull market”** (sustained period when stocks are rising &
-      expected to continue to rise) on track to be **longest in history**.
+      expected to continue to rise) on track to be**longest in history**.
 
-      * Surprising after **stocks plunged 50% during the financial crisis**
+      * Surprising after**stocks plunged 50% during the financial crisis**
       ending March 9, 2009.
 
-      * Gains have **added trillions of dollars** to household wealth, boosting
+      * Gains have**added trillions of dollars** to household wealth, boosting
       the economy and retirement savings.
     _key: card-2-d67d61bd-26e8-4353-aa24-dc7a5215d040
   - order: 2
+    useCheckmark: false
     body: >-
       ## Important Context
 
 
-      * Last time stocks rose for this long was theA **dot-com boom** (October
+      * Last time stocks rose for this long was theA**dot-com boom** (October
       1990 – March 2000).
 
-      * However, during the 1990s run, stocks rose 417%. That’sA **nearly 25%
-      *MORE* than this current bull market** **run,**A according to LPL
+      * However, during the 1990s run, stocks rose 417%. That’sA**nearly 25%
+      *MORE* than this current bull market****run,**A according to LPL
       Financial.
 
-      * Bottom line: **it’s the longest bull market, but not necessarily the
+      * Bottom line:**it’s the longest bull market, but not necessarily the
       greatest.**
     _key: card-3-2f298f59-bbff-4492-8ff0-017ddcc576a8
   - order: 3
+    useCheckmark: false
     body: >-
       > “This bull market has been breathtaking…valuations in general have
       become stretched; however, corporate earnings have been strong, and I
@@ -77,6 +81,7 @@ cards:
       rose to a new all-time high Tuesday.
     _key: card-4-e4734156-ad9d-4503-b236-58d2b785507b
   - order: 4
+    useCheckmark: true
     body: >-
       Strong earnings growth continues to power the stock market, but experts
       warn investors to continue to watch trade disputes and possible higher

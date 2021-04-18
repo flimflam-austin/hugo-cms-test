@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## MAMA MAKING HISTORY
 
@@ -37,6 +38,7 @@ cards:
     citation: FLIP For More Firsts
     _key: card-1-8fd76332-6a54-4717-b7c8-f531fdb8c5b5
   - order: 1
+    useCheckmark: false
     body: >-
       ## Tammy’s Firsts
 
@@ -45,26 +47,28 @@ cards:
       (and 1 of only 10 women in Congress to do so), Duckworth was also the
 
 
-      * 1st **disabled woman** elected to the U.S. House of Representatives
+      * 1st**disabled woman** elected to the U.S. House of Representatives
 
-      * 1st disabled woman **combat veteran** elected to Congress
+      * 1st disabled woman**combat veteran** elected to Congress
 
       * 1st member of Congress born in Thailand
     _key: card-2-5905544e-169b-4ed6-b354-258f3589eb55
   - order: 2
+    useCheckmark: false
     body: >-
       # Senator Duckworth
 
 
-      * Duckworth (50) is an **Iraq War veteran** and **ex-army helicopter pilot
-      – part of first wave of women to fly combat mission in Iraq**
+      * Duckworth (50) is an**Iraq War veteran** and**ex-army helicopter pilot –
+      part of first wave of women to fly combat mission in Iraq**
 
       * In 2004, the Black Hawk helicopter she was piloting in Iraq was struck
-      by a rocket-propelled grenade; **She lost both of her legs**.
+      by a rocket-propelled grenade;**She lost both of her legs**.
 
       * Purple Heart recipient.
     _key: card-3-0aea8f81-ebec-4265-9ed7-29b95ce921ff
   - order: 3
+    useCheckmark: false
     body: >-
       Being “First”…  
 
@@ -80,6 +84,7 @@ cards:
       Senator Duckworth, Women Rule Podcast, Politico, Feb. 14, 2018
     _key: card-4-1f77d7d1-46cc-4cd1-af5b-28573f8ddd01
   - order: 4
+    useCheckmark: true
     body: >-
       Since Senator Duckworth is the first Senator who gave birth while in
       office, she'll encounter some new frontiers. She's curious how'll she'll

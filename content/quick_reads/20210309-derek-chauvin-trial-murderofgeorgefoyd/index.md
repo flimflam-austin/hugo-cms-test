@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # The Case In Court
 
@@ -30,6 +31,7 @@ cards:
       What To Know
     _key: 48571b79f344
   - order: 1
+    useCheckmark: false
     body: >-
       ## May 25, 2020
 
@@ -44,6 +46,7 @@ cards:
       officer Derek Chauvin holding his knee on Floyd’s neck.
     _key: 4f65faa5eeac
   - order: 2
+    useCheckmark: false
     body: >-
       > “Please, please, please, I can’t breathe. Please, man.”
 
@@ -57,6 +60,7 @@ cards:
       at a local hospital.
     _key: 5ce1941c5d01
   - order: 3
+    useCheckmark: false
     body: >-
       ## IMPORTANT CONTEXT
 
@@ -73,9 +77,11 @@ cards:
       course of the upcoming trials.
     _key: eafb204a495d
   - order: 4
+    useCheckmark: false
     body: "## AUTOPSIES\n\n* Medical examiner ruled Floyd’s death a homicide due to “_cardiopulmonary_\__arrest while being restrained by law enforcement officer(s)._” Report lists “significant conditions” as hypertension and recent drug use but does *not* list these conditions as cause of death.\n* An autopsy ordered by Floyd’s family found his death was “_homicide caused by asphyxia due to neck and back compression that led to a lack of blood flow to the brain.”_"
     _key: 08787aa1105c
   - order: 5
+    useCheckmark: false
     body: >-
       ## LEGAL
 
@@ -93,6 +99,7 @@ cards:
       delays.
     _key: d04c39884e05
   - order: 6
+    useCheckmark: false
     body: >-
       ## BIG PICTURE
 
@@ -101,13 +108,14 @@ cards:
       opinion vs. the legal requirements in the court of law.
 
       * **Both sides** will likely focus on whether Chauvin acted reasonably,
-      used **excessive force**, and the exact cause and timing of Floyd’s death.
+      used**excessive force**, and the exact cause and timing of Floyd’s death.
 
-      * **Beyond The Trial**: Case described as a _“defining moment in the
-      history of a nation that is grappling with a racial reckoning._”
-      _(Washington Post)_
+      * **Beyond The Trial**: Case described as a_“defining moment in the
+      history of a nation that is grappling with a racial
+      reckoning._”_(Washington Post)_
     _key: 5b98ab37118d
   - order: 7
+    useCheckmark: true
     body: >-
       The trial will begin with jury selection, which is expected to go on for
       about three weeks. Next, the prosecution is slated to begin their

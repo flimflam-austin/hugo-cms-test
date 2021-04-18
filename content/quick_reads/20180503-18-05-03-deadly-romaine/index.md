@@ -20,20 +20,22 @@ card_series: Health
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## CDC: 1 Dead Due to E. Coli Linked to Romaine Lettuce
 
 
-      The **death in California** is the firstA in an outbreak now affecting
-      **HALF the U.S.**
+      The**death in California** is the firstA in an outbreak now
+      affecting**HALF the U.S.**
 
 
-      CDC tells SmartHER News **63%A ofA those ill are female**.
+      CDC tells SmartHER News**63%A ofA those ill are female**.
 
 
       FLIP: WHY IS THIS STILL HAPPENING?
     _key: card-1-a944d170-b524-43d5-b3b7-efa797141c10
   - order: 1
+    useCheckmark: false
     body: >-
       E. Coli Outbreak Spreads
 
@@ -52,6 +54,7 @@ cards:
       BUT Still on the menu?
     _key: card-2-8f20b5ee-671f-49e8-a784-de6b206a7fc4
   - order: 2
+    useCheckmark: false
     body: >-
       But I Still See It In Stores  
 
@@ -68,6 +71,7 @@ cards:
       APRIL](https://smarthernews.com/18-04-24-e-coli-women/)
     _key: card-3-51b4aefc-257a-4453-94a6-38d76a05737b
   - order: 3
+    useCheckmark: true
     body: >-
       The romaine outbreak started March 13th and now 121 people have become
       sick. Did you know? This current outbreak is the largest in the U.S. since

@@ -20,9 +20,10 @@ card_series: Current Events
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       TEXAS TYRANT  
-      OFF-THE-STREETS 
+      OFF-THE-STREETS
 
       Bomber Tracked & Killed.
 
@@ -35,9 +36,10 @@ cards:
       Here's What We Know:
     _key: card-1-77201d07-b350-4fac-b486-1d68a5edd481
   - order: 1
+    useCheckmark: false
     body: >-
       > "We literally had Austin police officers running towards a vehicle that
-      had an explosive device in it. That detonated. **That is unbelievable
+      had an explosive device in it. That detonated.**That is unbelievable
       courage. Those are heroes**."
 
 
@@ -45,6 +47,7 @@ cards:
       Division, Mach 21, 2018
     _key: card-2-673b3863-dc86-4b23-ac7c-916beb5cd574
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Bomber: The Knowns
 
@@ -57,6 +60,7 @@ cards:
       * Family cooperating with investigation. Search of his property ongoing.
     _key: card-3-e22dbc7d-8b33-408b-971e-05c9d16a021d
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Bomber: Unknowns
 
@@ -71,9 +75,11 @@ cards:
       political beliefs or if that motivated him.
     _key: card-4-34c3de53-2038-4b49-8bc0-2efcf73b7895
   - order: 4
+    useCheckmark: false
     body: "> “The fatal mistake that led law enforcement to him a\x14 because he was pretty good at evading surveillance cameras a\x14 was when he walked into Home Depot.”  \n  \n  \n  \nU.S. Rep. Mike McCaul (R - Tx) House Homeland Security Committee speaks about where bomber bought supplies."
     _key: card-5-0b24d586-d984-407f-9773-7c8b1836c115
   - order: 5
+    useCheckmark: false
     body: >-
       CRUCIAL RECORDING
 
@@ -90,6 +96,7 @@ cards:
       Crimes](https://smarthernews.com/18-02-19-mystery-bombing-texas/)
     _key: card-6-33d3cb15-83e4-4cc4-9211-eb74e270a633
   - order: 6
+    useCheckmark: false
     body: >-
       > ‘He does not at all mention anything about terrorism nor does he mention
       anything about hate. But instead, it is the outcry of a very challenged
@@ -101,6 +108,7 @@ cards:
       Police Chief Brian Manley, Austin PD, March 21, 2018
     _key: card-7-e38f2b54-7e9f-4d57-bb8c-31966e38c746
   - order: 7
+    useCheckmark: true
     body: >-
       2 men died - 4 other people injured in the pkg bomb attacks. More on how
       you can help their families.

@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## _“Everybody can look up and say, ‘Look, the future is so much brighter
       than the present.'”_
@@ -29,6 +30,7 @@ cards:
     citation: JIM BRIDENSTINE
     _key: d2b96ca4b068
   - order: 1
+    useCheckmark: true
     body: >-
       NASA Administrator Jim Bridenstine on the all-American launch of the
       SpaceX Dragon spacecraft - the first time in American history NASA

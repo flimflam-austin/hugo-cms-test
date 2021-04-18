@@ -20,27 +20,22 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
-    body: >-
+    useCheckmark: false
+    body: |-
       # Historic Stock Market Drop
 
-
       Dow Down  
-
       1,175 pts or 4.6%  
-
       Mon Feb 5, 2018
 
-
-      **Biggest point drop** ever…but **not biggest percentage drop** in
-      history.
-
+      **Biggest point drop** ever…but**not biggest percentage drop** in history.
 
       Percentage Points Matter.
-
 
       Flip For Why
     _key: card-1-73e658d7-82f1-4d03-928c-c50ec8cae727
   - order: 1
+    useCheckmark: true
     body: >-
       A 10% drop in stocks may signal a correction in a hot market. It also may
       signal something else. Check sources for more.

@@ -19,6 +19,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > “For there is always light,  
       if only we’re brave enough to see it  
@@ -26,6 +27,7 @@ cards:
     citation: AMANDA GORMAN
     _key: 447f2673f8bc
   - order: 1
+    useCheckmark: true
     body: >-
       The first-ever National Youth Poet Laureate continued a tradition of a
       featured inaugural poet (past poets incl. Maya Angelou & Robert Frost) –

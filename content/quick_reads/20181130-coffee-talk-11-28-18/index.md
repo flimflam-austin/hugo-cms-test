@@ -20,6 +20,7 @@ card_series: Coffee Talk
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       November 28, 2018
 
@@ -28,6 +29,7 @@ cards:
       Now](https://www.youtube.com/embed/3El6tb9rRSY?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-a8411894-eb72-43b4-a045-04cf1a63b208
   - order: 1
+    useCheckmark: true
     body: |-
       Have A Great Day!
 

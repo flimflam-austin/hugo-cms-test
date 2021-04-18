@@ -20,6 +20,7 @@ card_series: Politics
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # ELECTION 2020
 
@@ -31,6 +32,7 @@ cards:
       WHAT HAPPENS NEXT?
     _key: bd09cd5cc99e
   - order: 1
+    useCheckmark: false
     body: >-
       ## DECEMBER
 
@@ -47,6 +49,7 @@ cards:
       certifications.
     _key: 5ae8332af57d
   - order: 2
+    useCheckmark: false
     body: >-
       ## JANUARY
 
@@ -63,6 +66,7 @@ cards:
       * **Jan. 20:** Inauguration Day
     _key: ea2948b76064
   - order: 3
+    useCheckmark: true
     body: >-
       WHAT ABOUT THE TRUMP CAMPAIGN'S LAWSUITS CHALLENGING RESULTS? Given the
       upcoming federal deadlines, the courts will likely expedite the remaining

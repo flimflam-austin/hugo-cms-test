@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # WHERE IT STANDS:
 
@@ -32,6 +33,7 @@ cards:
       & what’s next.
     _key: card-1-2b686c6f-ad5d-450d-8f0e-ee9ffd97b7e4
   - order: 1
+    useCheckmark: false
     body: >-
       # THE BORDER WALL
 
@@ -39,43 +41,46 @@ cards:
       * Before legislation in 2006, less than 20 southern border miles had a
       physical barrier.
 
-      * Today, est.A **1/3 (654 miles) of the southern border**A (CA, AZ, NM &
+      * Today, est.A**1/3 (654 miles) of the southern border**A (CA, AZ, NM &
       TX) is equipped with *some* pedestrian (354 miles) & vehicle (300 miles)
-      barriers. **Est.**A **1,300 miles has no barrier**.
+      barriers.**Est.**A**1,300 miles has no barrier**.
 
       * No significant additions since 2011.
     _key: card-2-57d9fd8e-71e5-4c35-9412-e21480fb9b7a
   - order: 2
+    useCheckmark: false
     body: >-
       ## COST$
 
 
-      * Gov’t spent **$2.3B** on fencing from 2007 to 2015.
+      * Gov’t spent**$2.3B** on fencing from 2007 to 2015.
 
       * A 2018 bipartisan bill earmarked $**1.6B** for repairsA & replacements.
 
-      * Pres. Trump seeks **$5.7B** (enough to build less than 200 miles of new
+      * Pres. Trump seeks**$5.7B** (enough to build less than 200 miles of new
       barrier) &A threatened a**A gov’t shutdown** if the deal does not include
       border wall funding.
 
-      * Border Patrol says it’ll cost **$18B** to build barrier in 17 priority
+      * Border Patrol says it’ll cost**$18B** to build barrier in 17 priority
       spots.
     _key: card-3-33049bb6-5e95-4fb4-9048-e09eb3c93e38
   - order: 3
+    useCheckmark: false
     body: >-
       ## Current Construction Plan
 
 
-      * Debate continues about **new funding**A for **new construction** at the
+      * Debate continues about**new funding**A for**new construction** at the
       U.S. southern border
 
-      * Several “replacement projects” **currently underway** in Texas &
-      California to update and improve **pre-existing border barriers**.
+      * Several “replacement projects”**currently underway** in Texas &
+      California to update and improve**pre-existing border barriers**.
 
       * New construction w/already approved funds expected this year on 61
       additional miles.
     _key: card-4-895b7765-b5e7-4335-9b88-326f61e5c98e
   - order: 4
+    useCheckmark: true
     body: >-
       Customs & Border Patrol just released data for January 2019 and reported
       the number of "family units" (large groups) with "unaccompanied children"

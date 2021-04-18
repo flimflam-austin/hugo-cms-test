@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       “It is a very great irony that the words of Thomas Jefferson should now be
       censored in America.”  
@@ -32,6 +33,7 @@ cards:
       Facebook blocked a post citing hate speech, and later restored it.
     _key: card-1-6e6eb4b1-1584-4841-aaa1-535fd62f6c77
   - order: 1
+    useCheckmark: false
     body: >-
       > ‘The chicken specialist dominates the rankings with the highest score
       across both restaurant categories, and its food quality continues to rate
@@ -43,6 +45,7 @@ cards:
       restaurants in America. Chick-fil-A took the top spot.
     _key: card-2-43a0bb23-2449-4d30-8210-b678495cd9cf
   - order: 2
+    useCheckmark: false
     body: >-
       > “It looks like the first shots to the trade war are about to be
       fired.”  
@@ -54,6 +57,7 @@ cards:
       America; China also has a list of retaliatory tariffs on American imports.
     _key: card-3-7408a4fd-c0e3-4e11-a911-174eeca82baa
   - order: 3
+    useCheckmark: false
     body: >-
       > “On this trip I’m seeking to fill in some details on these commitments
       and continue the momentum towards implementation of what the two leaders
@@ -65,6 +69,7 @@ cards:
       since the Singapore Summit.
     _key: card-4-4de60d77-db58-48b6-973b-4bdcc973bf93
   - order: 4
+    useCheckmark: false
     body: >-
       “It is extremely difficult for me to cease serving you in this role first
       because I count it a blessing to be serving you in any capacity…However,
@@ -77,6 +82,7 @@ cards:
       series of ethic violations.
     _key: card-5-78ee91c2-11ef-44df-ac64-fbeb7ca1cb67
   - order: 5
+    useCheckmark: false
     body: >-
       > "Good."  
         
@@ -87,6 +93,7 @@ cards:
       Pruitt's resignation.
     _key: card-6-031dd270-5cb6-4a81-9ff3-d4a2b0edd06f
   - order: 6
+    useCheckmark: true
     body: |-
       Have a wonderful weekend!
 

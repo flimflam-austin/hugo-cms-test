@@ -20,6 +20,7 @@ card_series: One Minute With
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## 2 Americans Who Want To Change The World…
 
@@ -31,6 +32,7 @@ cards:
       Now](https://www.youtube.com/embed/od7KTuFACd0?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-b3d408c5-5c81-48f0-a653-d241653e3b3a
   - order: 1
+    useCheckmark: true
     body: >-
       We loved talking to Greg Amaral and Wendell Walker about their passion to
       make a difference in this world! Special thanks to photographer Craig

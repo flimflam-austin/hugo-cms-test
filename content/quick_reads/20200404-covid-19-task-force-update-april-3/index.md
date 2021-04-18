@@ -20,6 +20,7 @@ card_series: what to know
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # White House  
       Covid-19 Task Force
@@ -29,6 +30,7 @@ cards:
       **New Guidance: Face Masks**
     _key: 404bab1becbe
   - order: 1
+    useCheckmark: false
     body: >-
       “You can do it – you don’t have to do it. I’m choosing not to do it.”
 
@@ -42,6 +44,7 @@ cards:
       and pharmacies)."
     _key: 32d933107159
   - order: 2
+    useCheckmark: false
     body: >-
       > “This virus has a great weakness. It can’t jump from one person to
       another if it has to swim more than 6 feet.”
@@ -53,6 +56,7 @@ cards:
       a power tool - a powerful weapon, that is social distancing."
     _key: cb0fa89f4f62
   - order: 3
+    useCheckmark: false
     body: >-
       > “When we get through this we can go back and look at what happened,
       where… When you’re in the middle of it, you have to concentrate on serving
@@ -65,6 +69,7 @@ cards:
       collectively to fight COVID-19 and it's "devastating" for all.
     _key: 003e1bf56f0e
   - order: 4
+    useCheckmark: false
     body: >-
       > “Now we’ll make sure that any American, even those that have no
       insurance, will be able to receive treatment in a hospital and never have
@@ -78,6 +83,7 @@ cards:
       insurance via ACA health exchanges.
     _key: 9df53b2acedf
   - order: 5
+    useCheckmark: true
     body: View the new recommendations by the CDC on our source page.
     citation: VIEW SOURCES
     _key: d9c0e8ef304c

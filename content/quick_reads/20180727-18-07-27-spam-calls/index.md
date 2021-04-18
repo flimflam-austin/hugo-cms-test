@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # INVASION OF THE SPAM CALLS
 
@@ -28,36 +29,38 @@ cards:
       what can you do about it?
     _key: card-1-c3c0f730-08c2-4ff3-950c-421427e33dd1
   - order: 1
+    useCheckmark: false
     body: >-
       # It’s Not Just You
 
 
-      It’s estimated that at least **20 billion robocalls**A were made so far in
+      It’s estimated that at least**20 billion robocalls**A were made so far in
       2018.
 
 
-      Robocalls were the **#1 FTC complaint** (4.5M) in 2017 – that figure
+      Robocalls were the**#1 FTC complaint** (4.5M) in 2017 – that figure
       doesn’t include the 2.5M live caller complaints.
     _key: card-2-d4a24bfb-6e4e-4210-9c60-02c69aca10c8
   - order: 2
+    useCheckmark: false
     body: >-
       ## 4 WAYS (TO TRY) TO MAKE THEM STOP
 
 
-      1. **Don’t answer**A unknown #s.
+      1.**Don’t answer**A unknown #s.
 
 
-      2. If you pick up, **don’t engage**.
+      2. If you pick up,**don’t engage**.
 
 
-      3. Utilize built-in alert features orA third-party app to enable **spam
+      3. Utilize built-in alert features orA third-party app to enable**spam
       notifications &/or call blocking**.
 
 
-      4. Report unwanted calls & register your #s w/A **FTC’s Do Not Call
-      List**.
+      4. Report unwanted calls & register your #s w/A**FTC’s Do Not Call List**.
     _key: card-3-9f10173e-76e3-424f-a986-a92d5f1ff39c
   - order: 3
+    useCheckmark: false
     body: >-
       ## And Why Are Some Calls in Chinese Anyway?A
 
@@ -74,6 +77,7 @@ cards:
       * NYPD estimates $3M has been stolen from this roboscam.
     _key: card-4-a78784eb-a904-442b-b476-09e7be03c118
   - order: 4
+    useCheckmark: true
     body: >-
       The law can't catch up with tech, but prosecutions are up. In May, the FCC
       slapped a $120M fine on a man who made nearly 100M robocalls from 2015 -

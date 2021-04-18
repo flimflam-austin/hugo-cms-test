@@ -20,16 +20,18 @@ card_series: On This Day
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # March 4, 1933  
 
 
 
       > The 40-hour work week, child labor laws, and social security, all
-      policies **she** helped create after becoming the first woman named in a
+      policies**she** helped create after becoming the first woman named in a
       presidential cabinet on this day in 1933.
     _key: 3d2195e97fcf
   - order: 1
+    useCheckmark: false
     body: >-
       “The people are what matter to government, and a government should aim to
       give all the people under its jurisdiction the best possible life.”
@@ -42,6 +44,7 @@ cards:
       Franklin D. Roosevelt and his predecessor.
     _key: ac073a6f6b26
   - order: 2
+    useCheckmark: false
     body: >-
       “I came to Washington to work for God, FDR, and the millions of forgotten,
       plain common workingmen.”
@@ -54,6 +57,7 @@ cards:
       department, she also oversaw the Immigration and Naturalization Service.
     _key: 5854ba397ccf
   - order: 3
+    useCheckmark: false
     body: >-
       ## Perkins’ Lasting Legacy
 
@@ -62,16 +66,16 @@ cards:
       which are still in effect today, including:
 
 
-      * establishing the **Social Security** program (1935)
+      * establishing the**Social Security** program (1935)
 
-      * creating **union** & collective bargaining laws (1935)
+      * creating**union** & collective bargaining laws (1935)
 
-      * enacting **child labor** laws (1936)
+      * enacting**child labor** laws (1936)
 
-      * setting up federal **minimum wage** laws & the **40-hour workweek**
-      (1938)
+      * setting up federal**minimum wage** laws & the**40-hour workweek** (1938)
     _key: 1217f82c1e22
   - order: 4
+    useCheckmark: true
     body: >-
       In 2008, the Frances Perkins Center was established in Maine to honor
       Perkins' legacy and continue her work. The nonprofit and nonpartisan

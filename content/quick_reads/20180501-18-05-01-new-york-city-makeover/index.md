@@ -20,6 +20,7 @@ card_series: Style
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # ‘CITY OF DREAMS’…
 
@@ -39,6 +40,7 @@ cards:
       Flip: What's Going On
     _key: card-1-16e2eefe-2ae5-43f1-bf27-9ae72f1c8e7c
   - order: 1
+    useCheckmark: false
     body: >-
       Historic Jeweler Promoting *New Collection*
 
@@ -52,6 +54,7 @@ cards:
       Reed Krakoff , Tiffany & Co. Chief Artistic Officer, to Vogue
     _key: card-2-d0b58e43-28e2-45b6-a035-14e809a95af9
   - order: 2
+    useCheckmark: false
     body: >-
       ## Not Just Taxi Cabs…
 
@@ -66,6 +69,7 @@ cards:
       * Color set to disappear from NYC streets May 4th.
     _key: card-3-64fedab1-a655-4cd8-b72a-992f1ab9e87f
   - order: 3
+    useCheckmark: true
     body: >-
       To bring people "in" to the project and help spread the brand (knowingly
       or not), Tiffany created an interactive map so folks can find their new

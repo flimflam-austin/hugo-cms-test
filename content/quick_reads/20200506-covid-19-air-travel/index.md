@@ -20,18 +20,20 @@ card_series: Travel
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Travel Plans?
 
       Air Travel In The COVID-19 Era
     _key: 040691a52a00
   - order: 1
+    useCheckmark: false
     body: >-
       ## BIG PICTURE
 
 
-      **Numbers:** As of May 4, the number of U.S. passengers **dropped 93% vs.
-      last year. **
+      **Numbers:** As of May 4, the number of U.S. passengers**dropped 93% vs.
+      last year.**
 
 
       **Perspective:** Last April, on average, 2M+ traveled by plane every day
@@ -42,6 +44,7 @@ cards:
       wear face masks.
     _key: b4a8c0da1487
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -52,13 +55,15 @@ cards:
 
 
       One industry group says the economic impact of COVID-19 (in dollars) on
-      the travel industry overall will be **9 times worse than the aftermath of
+      the travel industry overall will be**9 times worse than the aftermath of
       September 11th.**
     _key: 2edc05770e47
   - order: 3
-    body: "## What The CDC Says\n\nAvoid all non-essential travel.\n\nCDC: _“Because of how air circulates & is filtered on airplanes, most viruses and other germs do not spread easily on flights.”\__\n\nHowever, the CDC emphasizes crowded flights with infected travelers may heighten your risk of contracting and spreading the new coronavirus."
+    useCheckmark: false
+    body: "## What The CDC Says\n\nAvoid all non-essential travel.\n\nCDC:_“Because of how air circulates & is filtered on airplanes, most viruses and other germs do not spread easily on flights.”\__\n\nHowever, the CDC emphasizes crowded flights with infected travelers may heighten your risk of contracting and spreading the new coronavirus."
     _key: 032d8b99542b
   - order: 4
+    useCheckmark: false
     body: >-
       > “There’s no magic formula.”
 
@@ -72,6 +77,7 @@ cards:
       COVID-19 antibody testing.
     _key: 6bd6d0959200
   - order: 5
+    useCheckmark: false
     body: >-
       > “Too hard to tell at this point… I hope down the road it is, but our
       priority is opening up the domestic economy. Obviously, for business
@@ -83,6 +89,7 @@ cards:
       international flights.
     _key: 5aabc6e99659
   - order: 6
+    useCheckmark: false
     body: >-
       ## INNOVATIONS?
 
@@ -97,6 +104,7 @@ cards:
       health screening at security checkpoints, but the TSA says it’s TBD.
     _key: 42901c704060
   - order: 7
+    useCheckmark: true
     body: >-
       The U.S. has issued a level 3 travel notice, warning of widespread ongoing
       COVID-19 transmission, and potential refusal of entry or quarantine upon

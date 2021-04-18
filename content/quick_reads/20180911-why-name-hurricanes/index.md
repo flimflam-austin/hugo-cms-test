@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # What’s In A Name?
 
@@ -36,11 +37,12 @@ cards:
       Never A "Katrina" Again
     _key: card-1-d0f2fe86-a3c3-4537-bd62-30a3faeac022
   - order: 1
+    useCheckmark: false
     body: >-
       ## Who Names The Storms?
 
 
-      * Naming handled by **World Meteorological Organization**.
+      * Naming handled by**World Meteorological Organization**.
 
       * List of names set every 6 years.
 
@@ -51,6 +53,7 @@ cards:
       infamous deadly and destructive storms are retired**.
     _key: card-2-39346c03-e94d-434c-8491-661a89d1eee8
   - order: 2
+    useCheckmark: false
     body: |-
       ## History of Naming
 
@@ -63,6 +66,7 @@ cards:
       Beginning in 1979, both male & female names officially used.
     _key: card-3-2f7370d8-70a9-4764-84ef-a39066d18d4b
   - order: 3
+    useCheckmark: true
     body: >-
       2018 hurricane season peaked on Sept 10. It started roughly in beginning
       of June and will end in early November. Watch for Florence heading for the

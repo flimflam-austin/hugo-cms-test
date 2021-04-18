@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # 20 Years Ago Today: ‘Saving Private Ryan’ opened #1 at the box office
 
@@ -33,6 +34,7 @@ cards:
       Now](https://www.youtube.com/embed/RYExstiQlLc?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-48e501c4-db22-494f-a760-9bf716f0eebe
   - order: 1
+    useCheckmark: false
     body: >-
       # Saving Private Ryan
 
@@ -48,6 +50,7 @@ cards:
       Spielberg from letting his 13-year-old son see his film.
     _key: card-2-df6bdffc-58c3-481a-be55-2e631548c7d1
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Niland Brothers
 
@@ -61,6 +64,7 @@ cards:
       Two Niland brothers survived WWII.
     _key: card-3-4787c6de-7615-4aae-ba73-5e0f09e7c243
   - order: 3
+    useCheckmark: false
     body: >-
       > “The minute we finished the D-Day/Omaha Beach sequence, I knew we had
       something really special to show audiences around the world.A I think all
@@ -72,6 +76,7 @@ cards:
       SmartHER News
     _key: card-4-51e4b063-d8f2-43d0-a86e-d2c6464ba291
   - order: 4
+    useCheckmark: true
     body: >-
       SPR is Spielberg's 10th highest grossing film ($329M in 2018 dollars). His
       #1? A Shark Week favorite, 'JAWS' earned $1.2B in 2018 dollars.

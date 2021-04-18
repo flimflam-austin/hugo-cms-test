@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # FACE-TO-FACE
 
@@ -34,6 +35,7 @@ cards:
       FLIP: THE FRONT RUNNER
     _key: card-1-7dc18752-6617-4bc3-b795-ab4d2c01eebc
   - order: 1
+    useCheckmark: false
     body: >-
       # FRONT RUNNER: DMZ
 
@@ -50,6 +52,7 @@ cards:
       for 1st ever meeting btwn aA sitting U.S. President & N. Korean leader.
     _key: card-2-5fb502b1-d987-4dc7-b4dd-ff31ba9a7de0
   - order: 2
+    useCheckmark: false
     body: >-
       > ‘There’s something I like about it because you’re there, you’re actually
       there. …if things work out, there’s a great celebration to be had, on the
@@ -63,6 +66,7 @@ cards:
       FLIP FOR SUPRISE PICKS
     _key: card-3-141bb5b0-6c6c-4da9-bc6c-0a558c7d9062
   - order: 3
+    useCheckmark: false
     body: >-
       ## OTHER CONTENDERS
 
@@ -74,9 +78,10 @@ cards:
       train (which he prefers due to security concerns), although trip could
       take several days.
 
-      * **Longer shots:** Neutral European cities like **Geneva** orA **Oslo.**
+      * **Longer shots:** Neutral European cities like**Geneva** orA**Oslo.**
     _key: card-4-9abb82ea-7d78-4cc1-b9c8-f7dad569e579
   - order: 4
+    useCheckmark: true
     body: >-
       Millions watched Kim & S. Korea's President meet on Friday (1st meeting in
       more than a decade) at the DMZ. That has us wondering, why would N. Korea

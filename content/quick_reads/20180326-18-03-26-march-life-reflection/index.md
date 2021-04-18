@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # PERSPECTIVE
 
@@ -29,14 +30,15 @@ cards:
 
       WhileA hundreds of thousands of young peopleA gathered nationwide Saturday
       advocating for school safety & stricter gun control laws,A a new poll
-      shows **less than half of high schoolers believe more gun laws will lead
-      to less shootings**.
+      shows**less than half of high schoolers believe more gun laws will lead to
+      less shootings**.
 
 
       Flip For More
     citation: Flip For More
     _key: card-1-d2a2173d-edb6-4270-81f2-d3effd9b3319
   - order: 1
+    useCheckmark: false
     body: >-
       # USA TODAY/IPOS Poll
 
@@ -45,14 +47,15 @@ cards:
 
 
       * All surveyed say they worry about shootings (more than terrorism & $$
-      for college); **fear higher** for 13-17 year-olds.
+      for college);**fear higher** for 13-17 year-olds.
 
       * **1 out of 5** say they don’t feel safe at school.
 
-      * **70%** say they want an armed officer at their school; **47%** did NOT
+      * **70%** say they want an armed officer at their school;**47%** did NOT
       want to arm teachers.
     _key: card-2-0bd6a7ff-c830-43a6-bea4-eb6e9d4d6af2
   - order: 2
+    useCheckmark: false
     body: >-
       Something To Consider:
 
@@ -66,6 +69,7 @@ cards:
       taking those steps would work.”
     _key: card-3-718e52e3-879c-4060-8bbe-22abdb4625dd
   - order: 3
+    useCheckmark: false
     body: >-
       ICYMI: Friday  
 
@@ -82,6 +86,7 @@ cards:
       * Public has 90 days to comment.
     _key: card-4-401c054e-fbd0-4f51-98c6-8f3cffd2524d
   - order: 4
+    useCheckmark: false
     body: >-
       “After the senseless attack in Las Vegas, this proposed rule is a critical
       step in our effort to reduce the threat of gun violence that is in keeping
@@ -96,6 +101,7 @@ cards:
     citation: 'Click: Quick Review on Bump Stocks'
     _key: card-5-6f55287c-566a-48a6-95eb-4c4a343268bb
   - order: 5
+    useCheckmark: false
     body: >-
       # ICYMI: Friday
 
@@ -112,6 +118,7 @@ cards:
       violence.”
     _key: card-6-91e4ce2d-22b7-466d-8a80-a5f98b4465b1
   - order: 6
+    useCheckmark: false
     body: >-
       How Much Money?  
 
@@ -127,6 +134,7 @@ cards:
       will *actually* be devoted to gun-related research despite clarification.
     _key: card-7-675bea0d-9164-49a2-8239-21b73d886321
   - order: 7
+    useCheckmark: true
     body: >-
       Have a strong opinion on gun control laws and school safety? Here are 2
       interesting reads. 1 says new laws wont make us safer. The other says the

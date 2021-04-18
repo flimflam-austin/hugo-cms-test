@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # “Lying In State”
 
@@ -27,6 +28,7 @@ cards:
       Here’s a look at this unique honor.
     _key: e02fc059d839
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -39,12 +41,15 @@ cards:
       Hoover, Kennedy, Taft, Harding, McKinley, Garfield, & Lincoln.
     _key: fdd8ac86bd88
   - order: 2
+    useCheckmark: false
     body: "## Shared Support\n\n* Catafalque:\_a frame that supports a coffin (cat-e-falk).\n* Pres. Lincoln’s catafalque from 1865 has held most of the coffins that have lain in state.\n* The catafalque has had minor restorations since 1865 (retrofitted to hold larger coffins, drapery replaced), but for the most part, it remains like the original."
     _key: e5d3e02d9748
   - order: 3
+    useCheckmark: false
     body: "## “In State” vs. “In Honor”\n\nAverage citizens cannot “lie in state” as that honor is reserved for\_gov’t & military officials.\n\nHowever, eminent private citizens may “lie in honor.”\n\nTo date, only four have received the honor — including two police officers killed during an attack on the U.S. Capitol & Rev. Billy Graham."
     _key: 51e6c477766b
   - order: 4
+    useCheckmark: true
     body: >-
       In 2005, civil rights activist Rosa Parks became the first (and only)
       woman to "lie in honor" in the U.S. Capitol. Congressman Lewis, who passed

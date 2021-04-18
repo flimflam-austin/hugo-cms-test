@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Western Renovation?
 
@@ -32,6 +33,7 @@ cards:
       Flip: Nato refresher
     _key: card-1-ea941338-3f57-4b32-96a6-fc82b13864ac
   - order: 1
+    useCheckmark: false
     body: >-
       # NATO:
 
@@ -54,6 +56,7 @@ cards:
       [Click Here: Read More](https://www.nato.int/cps/su/natohq/126169.htm)
     _key: card-2-cc342155-9573-4a35-90e5-a99a14e89faa
   - order: 2
+    useCheckmark: false
     body: >-
       ## What’s The Drama?
 
@@ -66,10 +69,11 @@ cards:
       protection (aka $$$);A described situation as unfair to American taxpayer
     _key: card-3-631df8ab-8be7-4af8-9b92-2063525e8135
   - order: 3
+    useCheckmark: false
     body: >-
       > “…Germany is just paying a little bit over 1 percent, whereas the United
       States, in actual numbers, is paying 4.2 percent of a much larger GDP.A So
-      I think that’s **inappropriate** also. You know, we’re protecting Germany,
+      I think that’s**inappropriate** also. You know, we’re protecting Germany,
       we’re protecting France. We’re protecting everybody. And yet we’re paying
       a lot of money to protect.”  
         
@@ -80,6 +84,7 @@ cards:
       Transcript](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-nato-secretary-general-jens-stoltenberg-bilateral-breakfast/)
     _key: card-4-1915fec2-6cb6-4619-9ed3-360b906b9c2f
   - order: 4
+    useCheckmark: false
     body: >-
       > “I agree with you that we have to do make sure that our allies are
       investing more. The good news is that allies have started to invest more
@@ -92,6 +97,7 @@ cards:
       NATO Sec. Stoltenberg, July 11, 2018
     _key: card-5-cce6e8cc-d83c-4b82-b733-14e9ed6be87f
   - order: 5
+    useCheckmark: false
     body: >-
       ## Why Timing Matters?
 
@@ -105,6 +111,7 @@ cards:
       w/Russian Pres. Putin next week in Helsinki.
     _key: card-6-9dad4e7b-68ee-4a21-a369-373d44688270
   - order: 6
+    useCheckmark: true
     body: >-
       Is NATO worth the investment? One commentator says: "The issue is not
       whether NATO is still useful, but whether the alliance can reform itself

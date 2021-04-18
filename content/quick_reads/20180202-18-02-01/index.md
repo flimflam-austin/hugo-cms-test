@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Immigration Reform
 
@@ -33,6 +34,7 @@ cards:
       immigration reform.
     _key: card-1-b165b180-3c1f-4bd1-9031-741c30ea3935
   - order: 1
+    useCheckmark: false
     body: >-
       # “Four Pillars”: Potus Proposed Immigration Reform
 
@@ -47,6 +49,7 @@ cards:
       priority treatment).
     _key: card-2-69619e5d-86fb-4564-a760-7ec67ed8bf2f
   - order: 2
+    useCheckmark: false
     body: >-
       # Words Matter
 
@@ -61,9 +64,11 @@ cards:
       All these words can refer to same group of people.
     _key: card-3-685be4ce-eb56-40ae-ab54-e4b792c55157
   - order: 3
+    useCheckmark: false
     body: "# Debate Heats Up\n\n> “President Trump is proposing a very large-scale amnestya\x14a path to citizenship for 1.8 million illegal aliensa\x14that his base will perceive as a betrayal.”  \n  \n  \n  \nHeather MacDonald, Americans First City Journal"
     _key: card-4-85b14400-4c8d-44ba-ab43-ff68dbb37ae8
   - order: 4
+    useCheckmark: false
     body: >-
       # More Heated Rhetoric
 
@@ -76,6 +81,7 @@ cards:
       Sadhana Singh, We Are Not Bargaining Chips Prospect.Org
     _key: card-5-fe8ff6bf-16fc-451a-8a4d-2b4be5369783
   - order: 5
+    useCheckmark: true
     body: |-
       What's Next? TBD: Immigration Issue In The Hands of Congress
 

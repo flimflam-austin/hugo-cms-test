@@ -20,6 +20,7 @@ card_series: what to know
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # White House COVID-19 Task Force  
 
@@ -27,6 +28,7 @@ cards:
       WHAT WE LEARNED TODAY
     _key: 95135cf509f1
   - order: 1
+    useCheckmark: false
     body: >-
       > “Our new cases will continue to surge because we’re still working on our
       backlog.”
@@ -37,6 +39,7 @@ cards:
       part because of increased testing availability.
     _key: 73ed08b686ef
   - order: 2
+    useCheckmark: false
     body: >-
       > “We’re asking that anyone who has traveled out of the New York City
       metropolitan area to anywhere else in the country to self-isolate for 14
@@ -47,6 +50,7 @@ cards:
       area as "high-risk."
     _key: 38fbc4767b5f
   - order: 3
+    useCheckmark: false
     body: >-
       > “This package will be the single-largest Main Street assistance program
       in the history of the United States.”
@@ -59,6 +63,7 @@ cards:
       TBD.
     _key: b5a0f3f34be1
   - order: 4
+    useCheckmark: false
     body: >-
       > “What we don’t have right now that we really do need is we need to know
       what’s going on in those areas of the country where there isn’t an obvious
@@ -71,6 +76,7 @@ cards:
       and reiterated these guidelines may look different region to region.
     _key: 5162fec159f0
   - order: 5
+    useCheckmark: false
     body: >-
       > “I’m also hopeful to have Americans working again by that Easter…But
       rest assured, every decision we make is grounded solely on the health,
@@ -83,6 +89,7 @@ cards:
       challenge of anticipating a timeline and the need to be flexible.
     _key: 0e18d0b7ef82
   - order: 6
+    useCheckmark: true
     body: >-
       Easter Sunday was mentioned several times in the briefing as a potential
       goal for relaxing guidelines. Just a reminder, the government's 15-day

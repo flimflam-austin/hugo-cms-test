@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # American “Spirits”
 
@@ -28,6 +29,7 @@ cards:
       How Much We Drink
     _key: card-1-16d19c2a-8207-4323-aaf6-38ee029a0ca1
   - order: 1
+    useCheckmark: false
     body: >-
       # GULP
 
@@ -44,6 +46,7 @@ cards:
       standard drinks (about 1 drink per day or 8.5 a week).
     _key: card-2-5be6ccea-53a8-4710-a4df-dc81f6864830
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Less Beer?
 
@@ -58,6 +61,7 @@ cards:
       what’s perceived as healthier.
     _key: card-3-fef9c1cc-a949-4fad-8d4a-a9217ee0d951
   - order: 3
+    useCheckmark: false
     body: >-
       # BIGGER PICTURE
 
@@ -74,6 +78,7 @@ cards:
       mix are all feeling the pinch”_ (WSJ)
     _key: card-4-4432b582-48b9-49c6-bade-9eafcff8a057
   - order: 4
+    useCheckmark: true
     body: >-
       The state that drinks the MOST alcohol per person? New Hampshire. Click
       through the list of top ten on our source page SmartHERNews.com

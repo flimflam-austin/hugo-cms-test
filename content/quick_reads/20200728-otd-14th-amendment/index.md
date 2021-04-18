@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # July 28, 1868  
 
@@ -34,6 +35,7 @@ cards:
       Here’s how it continues to shape American civil liberties
     _key: b41fed2b9a28
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKGROUND
 
@@ -48,12 +50,15 @@ cards:
       * **1870:** 15th Amendment gave Black men the right to vote.
     _key: 056417b8648f
   - order: 2
+    useCheckmark: false
     body: "> _“All persons born or naturalized in the United States and subject to the jurisdiction thereof are_\_**_citizens_**\_**_of the_**\_**_United States_**\__…No State shall make or enforce any law which shall abridge the privileges or immunities of citizens … nor shall any State deprive any person of life, liberty, or property, without_\_**_due process_**\__of law; nor deny to any person within its jurisdiction the_\_**_equal protection_**\__of the laws.”_"
     _key: '012831402114'
   - order: 3
+    useCheckmark: false
     body: "## WHAT IT MEANS\n\n**Citizenship:\_**All persons born in the U.S. are U.S. citizens.\n\n**Equal Protection:** State gov’t must apply laws fairly and equally to all people.\n\n**Due Process:** State gov’t must follow certain procedures before it deprives an individual of a right."
     _key: 9d4b92acc9c0
   - order: 4
+    useCheckmark: false
     body: >-
       ## Equal Protection Clause: Big Supreme Court Cases
 
@@ -61,17 +66,19 @@ cards:
       * 1896: The court allowed segregation, ruling separate facilities for
       Black people can be “_equal._“
 
-      * 1954: The court **overruled that decision**, finding that “_separate
+      * 1954: The court**overruled that decision**, finding that “_separate
       educational facilities are inherently unequal_” & ending segregation in
       public schools.
 
-      * 1967 & 2015: The court prohibited states from passing laws outlawing
-      **interracial** & **same-sex marriages.**
+      * 1967 & 2015: The court prohibited states from passing laws
+      outlawing**interracial** &**same-sex marriages.**
     _key: c93245141506
   - order: 5
-    body: "## The Due Process Clause:  \nBig Supreme Court Cases\n\n* Major legal cases related to the 14th Amendment aren’t limited to race.\n* 1936: The court ruled **confessions**\_**obtained by torture** are not voluntary and, therefore, inadmissible at trial.\n* 1973: The court ruled states cannot deny a woman her **fundamental “right to privacy”** to obtain an abortion without certain procedural safeguards."
+    useCheckmark: false
+    body: "## The Due Process Clause:  \nBig Supreme Court Cases\n\n* Major legal cases related to the 14th Amendment aren’t limited to race.\n* 1936: The court ruled**confessions**\_**obtained by torture** are not voluntary and, therefore, inadmissible at trial.\n* 1973: The court ruled states cannot deny a woman her**fundamental “right to privacy”** to obtain an abortion without certain procedural safeguards."
     _key: ce9164a43d01
   - order: 6
+    useCheckmark: true
     body: >-
       Former U.S. Solicitor General Ted Olson said the 14th Amendment provides
       "the courts with the opportunity to override the will of the people when

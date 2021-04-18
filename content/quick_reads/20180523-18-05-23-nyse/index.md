@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “Fearless” on Wall St.
 
@@ -30,6 +31,7 @@ cards:
       business prowess, is moved to a new home at the Exchange.
     _key: card-1-ad53137b-b1be-4a77-afee-73e69b762c52
   - order: 1
+    useCheckmark: false
     body: >-
       NYSE’S GLASS CEILING  
 
@@ -39,7 +41,7 @@ cards:
       * **1940s:** About 50A “Stock Market Girls” fill in for male clerks in
       WWII.
 
-      * **1967:** 1st female (Muriel Siebert) buys a NYSE seat – there was **no
+      * **1967:** 1st female (Muriel Siebert) buys a NYSE seat – there was**no
       female bathroom** in lunch club.
 
       * **1995:** 1st person (Maria Bartiromo) reports from trading floor.
@@ -48,6 +50,7 @@ cards:
       President.
     _key: card-2-d87a700f-f813-4e73-9adf-d0436800d327
   - order: 2
+    useCheckmark: false
     body: >-
       # Can’t Stand the Heat…
 
@@ -61,6 +64,7 @@ cards:
       to whip up grilled peach and burrata snacks in the NYSE’s on-site kitchen.
     _key: card-3-cf6910d6-422a-4f6a-bccf-3bf679cdb1d1
   - order: 3
+    useCheckmark: true
     body: >-
       NYSE’s rival stock exchange, NASDAQ, also has a woman CEO, Adena Friedman.
       However, the latest Fortune 500 rankings out on Monday show that there

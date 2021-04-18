@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “Look, I am very supportive of women. Everyone goes through their own
       experiences in their own ways…. I’m going to really hate myself for saying
@@ -31,6 +32,7 @@ cards:
       Lindsay Lohan on the #MeToo movement to The Times (UK)
     _key: card-1-4c3f03ca-3262-4a8d-9cff-333a96fdc749
   - order: 1
+    useCheckmark: false
     body: >-
       > “The film business passed away today with the announcement of the
       ‘popular’ film Oscar. It had been in poor health for a number of years. It
@@ -41,6 +43,7 @@ cards:
       announced. Last year was the lowest rated Oscars telecast on record.
     _key: card-2-74d19098-cf2c-4375-93c7-de87a686391b
   - order: 2
+    useCheckmark: false
     body: >-
       > “We believe privacy is a fundamental human right and purposely design
       our products and services to minimize our collection of personal data.”  
@@ -51,6 +54,7 @@ cards:
       Google following the Facebook data breach.
     _key: card-3-cb054981-e32a-48e1-ac12-70854f663543
   - order: 3
+    useCheckmark: false
     body: >-
       "inflicting a punishment in the absence of a crime in the tradition of
       lynch law.”  
@@ -63,6 +67,7 @@ cards:
       used lethal chemical or biological weapons against its own nationals.
     _key: card-4-db24ae64-7148-4b7c-a8ed-c3e821f8d556
   - order: 4
+    useCheckmark: true
     body: |-
       Happy Friday's Eve...!
 

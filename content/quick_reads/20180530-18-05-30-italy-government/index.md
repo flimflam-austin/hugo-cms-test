@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Europe Without Italy?
 
@@ -27,17 +28,18 @@ cards:
       ## Political Power Struggle
 
 
-      Italy’s government in disarray; new elections possible; **stocks tumble
+      Italy’s government in disarray; new elections possible;**stocks tumble
       worldwide on news.**
 
 
-      Some say Italy’s fate could be **bigger than “Brexit”** and pull apart the
+      Some say Italy’s fate could be**bigger than “Brexit”** and pull apart the
       European Union.
 
 
       in inglese, per favore
     _key: card-1-15be3b53-78f2-460d-b32c-d1402eb8f008
   - order: 1
+    useCheckmark: false
     body: >-
       ## Political Crisis Explained
 
@@ -46,14 +48,15 @@ cards:
       compromised on a plan to govern.
 
 
-      But this weekend, Italy’s **pro-EU** Pres. blocked the plan, vetoing the
-      coalition’s pick for finance minister because he’s **anti-EU**.
+      But this weekend, Italy’s**pro-EU** Pres. blocked the plan, vetoing the
+      coalition’s pick for finance minister because he’s**anti-EU**.
 
 
       Now it’s a political standoff that will likely lead to new elections as
       soon as June.
     _key: card-2-f04e05cb-8a75-4169-80ec-c86c31931d50
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -69,6 +72,7 @@ cards:
       Now What?
     _key: card-3-d2db379a-7144-4faf-a711-a1e508d4988d
   - order: 3
+    useCheckmark: true
     body: >-
       Another round of elections may serve as a proxy vote on Italy leaving EU.
       Global markets sold off on that prospect with Eurozone Bank Index (Big

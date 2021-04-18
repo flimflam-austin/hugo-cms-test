@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Nunes & Schiff should step down from House Intell Cmte
 
@@ -32,6 +33,7 @@ cards:
       Tom Rogan, Washington Examiner
     _key: card-1-8f7c2e67-20ce-4798-8004-f5aec0dbb478
   - order: 1
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-02-01-2/)'
     _key: card-10-1fe140c3-efb0-4cff-801a-ea8dbb6f19df
 

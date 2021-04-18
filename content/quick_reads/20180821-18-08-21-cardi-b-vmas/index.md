@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“A couple of months ago, a lot of people were saying, you are gambling
       your career, you’re about to have a baby, what are you doing? You know I
@@ -29,6 +30,7 @@ cards:
       CARDI B
     _key: card-1-d294be2a-9788-4380-8899-994d7b1c2d72
   - order: 1
+    useCheckmark: true
     body: >-
       New mom and rapper Cardi B (25) took home 3 awards at the MTV Video Music
       Awards, including Best New Artist. Cardi B was the top contender with 10

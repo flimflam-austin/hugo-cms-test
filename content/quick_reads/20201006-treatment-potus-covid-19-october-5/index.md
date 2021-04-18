@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## The Presidential Treatment
 
@@ -28,6 +29,7 @@ cards:
       COVID-19.
     _key: c913fcef4f63
   - order: 1
+    useCheckmark: false
     body: >-
       ## WHAT WE KNOW:
 
@@ -44,6 +46,7 @@ cards:
       House named some of his treatments.
     _key: b973537a382b
   - order: 2
+    useCheckmark: false
     body: >-
       ## THE ANTI-VIRAL
 
@@ -51,7 +54,7 @@ cards:
       * Remdesivir: Rem-des-i-vir.
 
       * An antiviral *previously studied* for other viruses like Ebola and SARS,
-      but **never approved for use**.
+      but**never approved for use**.
 
       * How it works: Makes it harder for the virus to effectively replicate,
       slowing the infection.
@@ -60,6 +63,7 @@ cards:
       FDA approved for emergency use authorization in May.
     _key: fb5cd0ec8787
   - order: 3
+    useCheckmark: false
     body: >-
       > “…uncertain clinical importance.”
 
@@ -72,6 +76,7 @@ cards:
       benefits are not statistically significant.
     _key: a48ecb655520
   - order: 4
+    useCheckmark: false
     body: >-
       ## THE STEROID
 
@@ -87,6 +92,7 @@ cards:
       leading to complications that can be challenging to treat.
     _key: 006a6feb62c2
   - order: 5
+    useCheckmark: false
     body: >-
       “…there was no clear effect of dexamethasone among patients who were not
       receiving any respiratory support…”  
@@ -98,6 +104,7 @@ cards:
       response.
     _key: 3921a89385ea
   - order: 6
+    useCheckmark: false
     body: >-
       ## “ANTIBODY COCKTAIL”
 
@@ -112,6 +119,7 @@ cards:
       for those seriously ill.
     _key: 8e09cd8fe714
   - order: 7
+    useCheckmark: false
     body: >-
       > “We’re just trying to imitate and help an individual, help their immune
       system win this battle, win this race against the virus.”
@@ -123,6 +131,7 @@ cards:
       advanced clinical trials for FDA emergency use authorization.
     _key: 69caed9d60ae
   - order: 8
+    useCheckmark: true
     body: >-
       From preliminary information, the President received an antibody cocktail
       early in his infection, a steroid treatment, and was put on 5 doses of

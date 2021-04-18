@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # National Prayer Breakfast
 
@@ -35,6 +36,7 @@ cards:
       Flip For Honoree
     _key: card-1-64602177-f058-4dcf-8e02-f36d805456cb
   - order: 1
+    useCheckmark: false
     body: >-
       Ret. Army Major  
 
@@ -46,10 +48,11 @@ cards:
       * After injury, became Army’s first active-duty blind officer; Ironman
       athlete.
 
-      * Says faith propelled him forward, specifically favorite Bible verse:A
-      _“I can do all things through Christ who strengthens me.”_ Phil 4:13
+      * Says faith propelled him forward, specifically favorite Bible verse:A_“I
+      can do all things through Christ who strengthens me.”_ Phil 4:13
     _key: card-2-b8759b4b-939e-4cb7-89eb-290b479e298f
   - order: 2
+    useCheckmark: false
     body: >-
       > “America is a nation of believers, and together we are strengthened by
       the power of prayer.”  
@@ -63,6 +66,7 @@ cards:
     citation: 'Flip Card For Who The President Called Out:'
     _key: card-3-2b3291cf-0c52-4054-9318-28e7d701c8a9
   - order: 3
+    useCheckmark: false
     body: >-
       # President Addressed:
 
@@ -75,6 +79,7 @@ cards:
       and other countries suffer under repressive and brutal regimes.”
     _key: card-4-6c2ce4a0-8878-4784-9411-8c1efe083bdf
   - order: 4
+    useCheckmark: true
     body: >-
       Watch Entire Prayer Breakfast Program
 

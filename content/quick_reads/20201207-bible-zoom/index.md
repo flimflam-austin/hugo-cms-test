@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“God does not say that bad things aren’t going to happen, but He does
       tell us, when they do, we’re not alone.”_
     citation: MAYOR MATTHEW STARR
     _key: e107223b7b1a
   - order: 1
+    useCheckmark: true
     body: >-
       Starr, Mayor of Mount Vernon, Ohio offering one perspective about a live
       Zoom performance featuring famous actors, such as Bill Murray, reading the

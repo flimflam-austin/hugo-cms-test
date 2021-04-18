@@ -20,6 +20,7 @@ card_series: Veterans Day
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “I wish everyone could have the perspective of an individual in a
       war-torn country, or one who has served in a war zone…(We need to) embrace
@@ -31,6 +32,7 @@ cards:
       SSG Kathryn Kelly
     _key: fce346e1e645
   - order: 1
+    useCheckmark: true
     body: >-
       SSG Kathryn Kelly joined the Army at 17, served in Iraq and now is a
       mother of 3, and working on the front lines to combat COVID. Read her

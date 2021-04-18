@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # September 25, 1981
 
@@ -32,6 +33,7 @@ cards:
     citation: Lady Justice
     _key: card-1-7fba51e1-48e1-40ca-a751-b2049d130436
   - order: 1
+    useCheckmark: false
     body: >-
       > “It’s wonderful to be the first to do something, but I didn’t want to be
       the last, and if I did not do the job well enough there might be no second
@@ -42,34 +44,37 @@ cards:
       O'Connor in 2012
     _key: card-2-0ac1ef7d-b762-4258-9e96-233b1898dddf
   - order: 2
+    useCheckmark: false
     body: >-
       # About the Woman:
 
 
       * Despite her exceptional academic credentials (#2 in her class at
-      Stanford Law), she couldn’t find a law firm that would hire a woman. **Her
+      Stanford Law), she couldn’t find a law firm that would hire a woman.**Her
       first law job was unpaid.**
 
-      * From 1960-65, she was a **stay-at-home mom** to her three sons.
+      * From 1960-65, she was a**stay-at-home mom** to her three sons.
 
       * In 1965, she became the Arizona Assistant Attorney General, and later
-      she became the **first female Senate Majority Leader** (R) in AZ.
+      she became the**first female Senate Majority Leader** (R) in AZ.
     _key: card-3-88bb5417-1d91-46f2-abac-56bb07dd4497
   - order: 3
+    useCheckmark: false
     body: >-
       # Her Lasting Legacy:
 
 
-      In 1992, she cast the deciding vote in _Planned Parenthood v. Casey_, A
-      upholding the court’s 1973 decision in _Roe v. Wade_ and striking down a
-      PA law requiring women to obtain **spousal consent for abortion**.
+      In 1992, she cast the deciding vote in_Planned Parenthood v. Casey_, A
+      upholding the court’s 1973 decision in_Roe v. Wade_ and striking down a PA
+      law requiring women to obtain**spousal consent for abortion**.
 
 
-      In 2000, she cast the deciding vote inA _Bush v. Gore,_ settling the
-      dispute in the **2000 election** and awarding the presidency to George W.
+      In 2000, she cast the deciding vote inA_Bush v. Gore,_ settling the
+      dispute in the**2000 election** and awarding the presidency to George W.
       Bush.
     _key: card-4-2fcd6ddf-1e72-4582-8be5-356c7813640d
   - order: 4
+    useCheckmark: false
     body: >-
       > “Treat people well. Don’t mislead them. Don’t be prickly. Don’t say
       things that are aggravating. Try to be as agreeable as you can be. Try to
@@ -82,6 +87,7 @@ cards:
       Court justices have lifetime tenure.
     _key: card-5-238892b1-63ec-4654-ad92-4b7b818044cf
   - order: 5
+    useCheckmark: false
     body: >-
       **There have been 113 Supreme Court justices.A In addition to O’Connor,
       only three other women have served on our high court:**
@@ -97,6 +103,7 @@ cards:
       **All (except O’Connor) were appointed by Democrats.**
     _key: card-6-7233c673-3c8c-4ac6-94c1-55de8bb42dea
   - order: 6
+    useCheckmark: true
     body: >-
       Last week, Arizona Governor Doug Ducey (R) issued a proclamation
       establishing September 25, 2018, as Sandra Day O'Connor Day. No word on

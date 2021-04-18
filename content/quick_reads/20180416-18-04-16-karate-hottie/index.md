@@ -20,6 +20,7 @@ card_series: Powermom
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “When I stay mentally strong, I can get through anything. Or anyone.”  
         
@@ -30,6 +31,7 @@ cards:
       child.
     _key: card-1-2d3d00e8-306f-42ec-af43-031607fbb4f8
   - order: 1
+    useCheckmark: false
     body: >-
       # Michelle Waterson
 
@@ -44,6 +46,7 @@ cards:
       * Daughter,A Araya (8) has come to all her fights.
     _key: card-2-3e3ac745-bad6-49e8-9219-f5893c4cfe51
   - order: 2
+    useCheckmark: false
     body: >-
       > “For a long time, I was embarrassed about my stretch marks.A Now I
       embrace them, because for me it was like this nest that I created to grow
@@ -59,6 +62,7 @@ cards:
     citation: 'Click Here: Waterson''s Daughter &amp; Husband'
     _key: card-3-7c8f8f85-b900-4d5b-a814-9b2bd2421135
   - order: 3
+    useCheckmark: true
     body: >-
       Michelle was working at "Hooters" in college when she decided that she
       wanted to try MMA fighting after being a "ring girl" for extra $$.

@@ -20,6 +20,7 @@ card_series: Politics
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## America’s Leaders on America’s Maverick
 
@@ -37,6 +38,7 @@ cards:
       Sen. Lindsey Graham (R-SC), March 2017
     _key: card-1-ae1226fe-857e-463a-8852-21b832f535ee
   - order: 1
+    useCheckmark: false
     body: >-
       > “John McCain is an American hero & one of the bravest fighters I’ve ever
       known.”  
@@ -50,6 +52,7 @@ cards:
       Now](https://www.youtube.com/embed/ggmk9uwAXvE?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-4dc77044-d2fc-45c3-a457-a7c96b9db18e
   - order: 2
+    useCheckmark: false
     body: >-
       > “John McCain’s life is a story of service above self…. John is an
       independent man who thinks for himself. He’s not afraid to tell you when
@@ -61,6 +64,7 @@ cards:
       Former President George W. Bush, September 2008
     _key: card-3-9e1fc4a9-1ffa-4865-bdbd-f9ef65bee067
   - order: 3
+    useCheckmark: false
     body: >-
       > “I know if I picked up the phone tonight and called John McCain and
       said, ‘John, I’m at 2nd and Vine in Oshkosh and I need your help. Come,’
@@ -75,6 +79,7 @@ cards:
       Now](https://www.youtube.com/embed/3Sa8G-VR13Q?enablejsapi=1&autoplay=1&rel=0)
     _key: card-4-b9cc9c3c-5c79-411b-afb6-87cb6fad60b4
   - order: 4
+    useCheckmark: false
     body: >-
       > "In my lifetime, he’s one of the most remarkable patriots our country’s
       ever produced. I love the guy."  
@@ -84,6 +89,7 @@ cards:
       Former President Bill Clinton, May 2018
     _key: card-5-a3e5274f-b934-48fe-9259-fb4b0596e1b4
   - order: 5
+    useCheckmark: false
     body: >-
       > “I know this: As soon as my boys are of age, I’ll tell them stories
       about the quality of the man I’ve gotten to know. I’ll tell them: Senator
@@ -99,6 +105,7 @@ cards:
       READ](https://www.si.com/nfl/2017/12/23/larry-fitzgerald-senator-john-mccain-arizona-vietnam-war-pow)
     _key: card-6-fc762c05-1274-4ff1-a2d7-5f123d0e2b7c
   - order: 6
+    useCheckmark: true
     body: >-
       [view
       sources](https://smarthernews.com/americas-leaders-on-americas-maverick/)

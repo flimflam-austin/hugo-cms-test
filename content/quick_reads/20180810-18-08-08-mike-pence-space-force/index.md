@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # SPACE FORCE
 
@@ -31,17 +32,18 @@ cards:
       Wait...new battlefield?
     _key: card-1-a766e45a-7326-4370-9393-0ca40c12329e
   - order: 1
+    useCheckmark: false
     body: >-
       ## What is the Space Force?
 
 
-      * Proposal would create **6th branch of the military**, in addition to Air
+      * Proposal would create**6th branch of the military**, in addition to Air
       Force, Army,A Coast Guard, Marine Corps, & Navy.
 
-      * Vice President Mike Pence says the new military branch **will not add
+      * Vice President Mike Pence says the new military branch**will not add
       more personnel,** but use existing staff.
 
-      * Goal to isA **establish by 2020.**
+      * Goal to isA**establish by 2020.**
 
 
 
@@ -49,6 +51,7 @@ cards:
       Why?
     _key: card-2-da87846e-8f0a-40cf-94c4-aa624f291f52
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Do We Need It?
 
@@ -61,6 +64,7 @@ cards:
       swiping your credit card) are all linked to space.
     _key: card-3-6c710b97-bdcc-4e08-90ef-05d0e52d2c8e
   - order: 3
+    useCheckmark: false
     body: >-
       “There is a threat out there, but it is being handled by the U.S. Air
       Force today. It doesn’t make sense to build a whole other level of
@@ -72,6 +76,7 @@ cards:
       Peterson Air Force base in Colorado.
     _key: card-4-4432c6de-940c-4720-b0ea-70e4aa707df8
   - order: 4
+    useCheckmark: false
     body: >-
       ## Something to Consider
 
@@ -87,6 +92,7 @@ cards:
       **Remember:** Congress controls purse strings & allocating taxpayer money.
     _key: card-5-d3a06368-82ba-45e2-b0d3-c8ff2d7a7c02
   - order: 5
+    useCheckmark: true
     body: >-
       VP Pence announced the Space Force because he's chairman of the National
       Space Council - a concept created under Pres. Eisenhower that was

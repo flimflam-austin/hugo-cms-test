@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “We pay far too much and they pay far too little, but we’ll work it
       out.”  
@@ -32,6 +33,7 @@ cards:
       defense - the NATO standard.
     _key: card-1-cb77589d-dbe7-4ce8-a393-b37b843852f7
   - order: 1
+    useCheckmark: false
     body: >-
       > “Dear America, appreciate your allies, after all you don’t have that
       many. And dear Europe, spend more on your defense.”  
@@ -42,6 +44,7 @@ cards:
       claims the US is being "taken advantage of" by other NATO members.
     _key: card-2-854b431a-7391-4de0-bf65-40faec2d6b3b
   - order: 2
+    useCheckmark: false
     body: >-
       > ‘He is recovering at his home and will be fine.”  
         
@@ -53,6 +56,7 @@ cards:
       The 57-year-old was heading to a film set when the accident happened.
     _key: card-3-56e99597-79d1-4b01-ad2f-c9f21830f0d3
   - order: 3
+    useCheckmark: false
     body: >-
       > “We’ve made the difficult decision to discontinue serving peanuts on all
       flights…”  
@@ -65,6 +69,7 @@ cards:
       hospitalizations, according to the FDA.
     _key: card-4-6da31b85-69f7-4357-9fa0-285d00dbc85d
   - order: 4
+    useCheckmark: true
     body: |-
       Have a great day!
 

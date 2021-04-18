@@ -20,6 +20,7 @@ card_series: From the President's Desk
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # A RIGHT TO TRY
 
@@ -33,6 +34,7 @@ cards:
       pending final FDA approval.
     _key: card-1-2e7ff7a9-da95-4876-9869-79371a490e9b
   - order: 1
+    useCheckmark: false
     body: >-
       ## The ‘Right To Try’ Law
 
@@ -48,6 +50,7 @@ cards:
       * Eliminates existing FDA application requirements.
     _key: card-2-f16fb53f-e41a-4fe3-876b-92b7e80a9719
   - order: 2
+    useCheckmark: false
     body: >-
       # Why Does This Matter?
 
@@ -57,13 +60,14 @@ cards:
 
       * **Extremely co$tly**.
 
-      * Multi-stage process lastsA **3-7 years**A on average, but some take even
+      * Multi-stage process lastsA**3-7 years**A on average, but some take even
       longer.
 
-      * On average, a new cancer drug spends **14 years** being studied and
+      * On average, a new cancer drug spends**14 years** being studied and
       undergoing clinical trials BEFORE it gets approved.
     _key: card-3-74fd2189-264b-4a7b-b683-79a0fea82cd4
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
@@ -78,6 +82,7 @@ cards:
       availability.
     _key: card-4-6cd307d3-2a98-4df2-94c8-f95f13c99ab4
   - order: 4
+    useCheckmark: true
     body: >-
       Under its Expanded Access (Compassionate Use) program, the FDA already
       authorizes over 99% of expanded access requests it receives. But for some,

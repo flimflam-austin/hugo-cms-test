@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       "Tax refunds will go out."  
         
@@ -32,6 +33,7 @@ cards:
       taxes.
     _key: card-1-a27924ac-b4f8-477e-a6b9-8118d446917a
   - order: 1
+    useCheckmark: false
     body: >-
       > "It’s not okay with me for my job to be used as a bargaining chip when
       people on either side don’t get what they want and they can’t come to an
@@ -43,6 +45,7 @@ cards:
       supplement her family's loss of income.
     _key: card-2-91032089-eb73-49ab-a7cb-325a2211721a
   - order: 2
+    useCheckmark: false
     body: >-
       > “I am pleased to inform you that I will Address the Nation on the
       Humanitarian and National Security crisis on our Southern Border. Tuesday
@@ -53,6 +56,7 @@ cards:
       Thursday. The partial gov't shutdown enters into its 18th day on Tuesday.
     _key: card-3-f63eb504-9118-4e0b-ad76-42b35d8a62c9
   - order: 3
+    useCheckmark: false
     body: >-
       > "It’s more than a wall. A lot more."  
         
@@ -64,6 +68,7 @@ cards:
       for thousands of detention beds.
     _key: card-4-e0d882e4-3d09-4e9f-951f-f2f0d9a77bc1
   - order: 4
+    useCheckmark: false
     body: >-
       "Justice Ginsburg is unable to be present today, but will participate in
       the consideration and decision of the cases on the basis of the briefs and
@@ -76,6 +81,7 @@ cards:
       lung cancer surgery.
     _key: card-5-e8f3954c-69c3-4691-8a92-938a7e4f4679
   - order: 5
+    useCheckmark: false
     body: >-
       > "China has actually been a good partner in our efforts to reduce the
       risk to the world from North Korea’s nuclear capability. I expect they
@@ -87,6 +93,7 @@ cards:
       looking for a location for a second summit with North Korea.
     _key: card-6-19afa3a0-633c-484a-9b56-07ea7d3f0e33
   - order: 6
+    useCheckmark: false
     body: >-
       > “There was a lot of talk about ‘best ever’ all year long. We were never
       in that conversation. But tonight, there’s no doubt."  
@@ -98,6 +105,7 @@ cards:
       since 1897.
     _key: card-7-dd94fad8-170c-4242-b8b0-1556c01f97a2
   - order: 7
+    useCheckmark: true
     body: |-
       Have a great day!
 

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Is This In Your Fridge?
 
@@ -33,6 +34,7 @@ cards:
     citation: FLIP FOR WHY
     _key: card-1-097672da-0d6a-4766-b3b9-c6818e42f729
   - order: 1
+    useCheckmark: false
     body: >-
       # Why Women?
 
@@ -49,6 +51,7 @@ cards:
     citation: Skip the salad
     _key: card-2-fe31bf03-6e9e-464c-988f-6c42e1245478
   - order: 2
+    useCheckmark: false
     body: >-
       ## THROW IT ALL AWAY
 
@@ -70,10 +73,11 @@ cards:
       Ian Williams, CDC's Outbreak Response and Prevention Branch Chief to CNN
     _key: card-3-7be712b4-ba44-454d-aad7-606ba0a71796
   - order: 3
+    useCheckmark: false
     body: |-
       ## What You Need to Know
 
-      Mayo Clinic: E. coli O157:H7 is **one of the nastiest strains**.
+      Mayo Clinic: E. coli O157:H7 is**one of the nastiest strains**.
 
       Kidney failure can develop A – even afterA you feel better.
 
@@ -83,19 +87,21 @@ cards:
       * No deaths reported.
     _key: card-4-496a6cb2-1fac-423a-b9e2-5ff7a34a41be
   - order: 4
+    useCheckmark: false
     body: >-
       ## Where E. Coli Comes From
 
 
-      Mayo Clinic: Lettuce can be contaminated by E. coli when **run off from
+      Mayo Clinic: Lettuce can be contaminated by E. coli when**run off from
       cattle farms that have infected cows mixes with vegetable crops**.A While
       most cattle don’t develop symptoms, they expel the bacteria in their
       feces, which then contaminates soil & crops.
 
 
-      Common inA **ground beef, unpasteurized milk & produce**.
+      Common inA**ground beef, unpasteurized milk & produce**.
     _key: card-5-5ddeb579-40f6-41be-96f2-8a8edd40fbd7
   - order: 5
+    useCheckmark: true
     body: >-
       Bigger Picture? "The CDC is doing their best to protect us. ...Identifying
       the exact source of the outbreak is proving to be difficult and this may

@@ -2,11 +2,11 @@
 title: Johnson And Johnson Pause
 slug: 20210414-Johnson-And-Johnson-Pause
 _id: 67c6ca66-4573-4f7e-9947-072746f17bd9
-_rev: oBhmhuXT2DnVo2ZNcGtWh3
+_rev: BjmrbMzn9HNsCfIXdTJcNI
 type: quick_reads
 draft: false
 _createdAt: '2021-04-14T17:01:57Z'
-_updatedAt: '2021-04-14T17:43:25Z'
+_updatedAt: '2021-04-18T20:35:06Z'
 date: '2021-04-14T17:42:00.000Z'
 lastmod: '2021-04-14T17:42:00.000Z'
 weight: 50
@@ -19,51 +19,55 @@ card_series: Health
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
-      # PAUSE 
+      # PAUSE
 
 
       ### The U.S. has recommended a pause on use of the Johnson & Johnson
-      vaccine. 
+      vaccine.
 
 
       ### Here’s Why:
     _key: 59a801b1cac1
   - order: 1
+    useCheckmark: false
     body: >-
       ### **The Basics**
 
 
       * FDA & CDC report 6 cases of “rare and severe” blood clots in women ages
-      18-48, causing “severe stroke-like illness.” 
+      18-48, causing “severe stroke-like illness.”
 
-      * Symptoms: 6-13 days after dose. 
+      * Symptoms: 6-13 days after dose.
 
-      * 1 case was fatal; 1 patient is in critical condition. 
+      * 1 case was fatal; 1 patient is in critical condition.
 
-      * Condition “very similar” to “another vaccine in Europe.” 
+      * Condition “very similar” to “another vaccine in Europe.”
 
       * Officials did not name AstraZeneca, but concerns *have* surfaced about
       blood clotting and the AstraZeneca vaccine in Europe.
     _key: 9655b79cee22
   - order: 2
+    useCheckmark: false
     body: >-
-      ### **Why Is It Happening? **
+      ### **Why Is It Happening?**
 
 
-      The FDA isn’t certain, but offered this: 
+      The FDA isn’t certain, but offered this:
 
 
       * A focus is the adenoviral vector vaccines. The J&J vaccine uses a shell
       of an adenovirus (called adenoviral vectors) as a “delivery vehicle” for
-      the vaccine into your body. AstraZeneca uses a similar technology. 
+      the vaccine into your body. AstraZeneca uses a similar technology.
 
       * Doctors say that in some cases the body’s immune response to the
       adenovirus may lead to this very rare condition.
     _key: 0ca49324770f
   - order: 3
+    useCheckmark: false
     body: >-
-      ### **The Risk **
+      ### **The Risk**
 
 
       * This condition occurred in 6 cases out of the more than 6.8 million J&J
@@ -73,17 +77,18 @@ cards:
       of developing this condition is very low.
 
       * If you received it recently (last 3 weeks), be mindful of symptoms -
-      such as **severe** headache, abdominal pain, leg pain, & shortness of
+      such as**severe** headache, abdominal pain, leg pain, & shortness of
       breath.
     _key: 6174d4ed8a0c
   - order: 4
+    useCheckmark: false
     body: >-
-      ### **A Little Bit More **
+      ### **A Little Bit More**
 
 
       ###### Right now, the condition doesn’t appear to be related to birth
       control (birth control pills can raise risk of blood clotting) but women
-      under 50 remain the focus. 
+      under 50 remain the focus.
 
 
       ###### It’s not *just* blood clotting – it’s blood clotting WITH a
@@ -91,13 +96,14 @@ cards:
       severe internal bleeding).
     _key: 502f230ec07a
   - order: 5
+    useCheckmark: false
     body: >-
-      ### **Big Picture **
+      ### **Big Picture**
 
 
       > “We are totally aware that this is a very rare event. We want to get
       this worked out as quickly as we possibly can. And that’s why you see the
-      word ‘pause.'" 
+      word ‘pause.'"
 
 
       White House chief medical advisor Dr. Anthony Fauci on why the FDA & CDC

@@ -20,41 +20,43 @@ card_series: From the President's Desk
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Executive Order  
 
       “Keep Families Together”
 
 
-      The **President takes action on immigration** as lawmakers struggle to
-      find compromise. But even as Pres. Trump signed the order, he predicted a
-      legal battle ahead – **a** **similarA battle confronted by the Obama
-      Admin**.
+      The**President takes action on immigration** as lawmakers struggle to find
+      compromise. But even as Pres. Trump signed the order, he predicted a legal
+      battle ahead –**a****similarA battle confronted by the Obama Admin**.
 
 
       FLIP FOR DETAILS
     _key: card-1-b6a9ca22-65be-42dc-9f17-5e301a0ec2c9
   - order: 1
+    useCheckmark: false
     body: >-
       ## What We Know:
 
 
-      * Trump’s exec order will notA **change ‘zero tolerance’** **policy** –
-      govt will charge all who cross the border illegally.
+      * Trump’s exec order will notA**change ‘zero tolerance’****policy** – govt
+      will charge all who cross the border illegally.
 
-      * However, itA **ends separations** byA keeping families together in
-      detention centers, run with the help of **Dept of Defense**.
+      * However, itA**ends separations** byA keeping families together in
+      detention centers, run with the help of**Dept of Defense**.
 
       * It does leave roomA to separate children from family, but only if it’s
       in the child’s best interests.
     _key: card-2-88f2ec44-de66-48e7-9568-5d29bd86461d
   - order: 2
+    useCheckmark: false
     body: >-
       ## Legal Trouble Ahead?
 
 
-      * A A 1997 court order & related decisions said **immigrantsA** **under
-      18**A **cannot be detained for longer than 20 days**.
+      * A A 1997 court order & related decisions said**immigrantsA****under
+      18**A**cannot be detained for longer than 20 days**.
 
       * Trump’s executive order isA written ordering AG Sessions to go before a
       federal judge to “modify” this agreement to allow more time for “criminal
@@ -63,6 +65,7 @@ cards:
       * TBD what L.A.-based Federal Judge Dolly Gee will rule.
     _key: card-3-245b340f-b557-4573-9074-17f875d8f989
   - order: 3
+    useCheckmark: false
     body: >-
       ## Past As Precedent?
 
@@ -78,6 +81,7 @@ cards:
       family..
     _key: card-4-f7027a83-51f4-4ecc-b95d-4c5b10d1c5b7
   - order: 4
+    useCheckmark: true
     body: >-
       The President's Executive Order doesn’t change the status of children
       already separated. That’s TBD.

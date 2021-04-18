@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: true
     body: |-
       Have a great day! See a quote you love? Email us: info@SmartHERNews.com
 

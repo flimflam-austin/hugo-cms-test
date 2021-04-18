@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Florida Shooting
 
@@ -32,6 +33,7 @@ cards:
       year.
     _key: card-1-e7609175-696d-4517-8e3f-21542d49d5aa
   - order: 1
+    useCheckmark: false
     body: >-
       ## “This is the 18th school shooting in the U.S. in 2018.”
 
@@ -48,6 +50,7 @@ cards:
       [Click For Tweet](https://twitter.com/Everytown/status/963886128829992961)
     _key: card-2-31ae53ad-bae0-47f5-affb-b4fe235fdf07
   - order: 2
+    useCheckmark: false
     body: >-
       ## Two Sides
 
@@ -61,6 +64,7 @@ cards:
       inflated.
     _key: card-3-d2dd42c9-2b35-4e78-8ce6-f071c38682f8
   - order: 3
+    useCheckmark: false
     body: >-
       ## Washington Post Argues:
 
@@ -76,6 +80,7 @@ cards:
       ARTICLE](https://www.washingtonpost.com/local/no-there-havent-been-18-school-shooting-in-2018-that-number-is-flat-wrong/2018/02/15/65b6cf72-1264-11e8-8ea1-c1d91fcec3fe_story.html?hpid=hp_hp-top-table-main_fla-debunk-525pm%3Ahomepage%2Fstory&utm_term=.c5b90cd9b13f)
     _key: card-4-776af5b0-d79a-4b21-b92d-c56ae83cf411
   - order: 4
+    useCheckmark: false
     body: >-
       ## Others Agree
 
@@ -84,9 +89,10 @@ cards:
       takes the spotlight off of what is really worrisome. In this case, the
       shooter was well known to the school, known to the FBI, and known to many
       others as a deranged person with a serious violent streak.So why isn’t the
-      focus of the public debate on what went wrong?” _Investors Business Daily_
+      focus of the public debate on what went wrong?”_Investors Business Daily_
     _key: card-5-d307571f-4484-46cd-bb46-d24d6d509804
   - order: 5
+    useCheckmark: true
     body: >-
       ### SmartHER says...read both sides. Numbers only do so much to tell a
       story... Botton line: Parkland, Florida shooting is one of the deadliest

@@ -20,6 +20,7 @@ card_series: Politics
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       It’s The Economy, Stupid.
 
@@ -34,6 +35,7 @@ cards:
       What To Know
     _key: card-1-599a853d-ee5c-4c2a-a70b-9147222bf211
   - order: 1
+    useCheckmark: false
     body: >-
       ## The BIG Picture
 
@@ -46,9 +48,11 @@ cards:
       priority for voters during this particular midterm election.
     _key: card-2-91cefef8-a026-42af-8a1c-c667e789b6b3
   - order: 2
+    useCheckmark: false
     body: "> “Trump is a bigger factor in midterm voting preferences a\x13 positive or negative a\x13 than any president in more than three decades. “  \n  \n  \n  \nPew Research, June 20th 2018. Polling also showed voters want to hear most from candidates about immigration, followed by health care, education, & gun laws."
     _key: card-3-73258e5f-da1e-45c9-8bcf-b8ad491c3786
   - order: 3
+    useCheckmark: false
     body: >-
       ## What To Watch: Aug 7
 
@@ -56,16 +60,18 @@ cards:
       * **Ohio:** Important swing state. President Trump held rally in Ohio on
       Saturday.
 
-      * In Focus: **A special election for Congress.** Polls show a
-      traditionally Republican district with a very tight race.
+      * In Focus:**A special election for Congress.** Polls show a traditionally
+      Republican district with a very tight race.
 
       * **Democrats need to flip 24 seats from R to D.** Will this be one for
       them?
     _key: card-4-a1045314-44be-40f7-b0dc-6e193892fbdb
   - order: 4
-    body: "## A Bipartisan Challenge\n\n> “_Winning control of the House and Senate means **Democrats have to fight on Republican turf,** and that means talking to Romney-Clinton and Obama-Trump voters. How well they can talk to both at the same time a\x14 and **how well Republicans do among the same groups** a\x14 will determine whether we see a blue wave or another case of Democratic despair.”_ (NYT)"
+    useCheckmark: false
+    body: "## A Bipartisan Challenge\n\n> “_Winning control of the House and Senate means**Democrats have to fight on Republican turf,** and that means talking to Romney-Clinton and Obama-Trump voters. How well they can talk to both at the same time a\x14 and**how well Republicans do among the same groups** a\x14 will determine whether we see a blue wave or another case of Democratic despair.”_ (NYT)"
     _key: card-5-d6b242e4-59d3-4f6f-99e0-30cf1ed3ea99
   - order: 5
+    useCheckmark: true
     body: >-
       AP Analysis re: midterm elections: "The proportion of people who said the
       economy was their top priority fell to its lowest level in more than eight

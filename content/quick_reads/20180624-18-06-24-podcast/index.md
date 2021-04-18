@@ -20,8 +20,9 @@ card_series: Podcast
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
-      What’s **really** going on with immigration & our nation – Plus, we take
+      What’s**really** going on with immigration & our nation – Plus, we take
       SmartHER News to Ellis Island.
 
 
@@ -29,6 +30,7 @@ cards:
       Listen](http://smarthernews.libsyn.com/smarther-news-ep4-where-we-started-vs-where-we-end-up)
     _key: card-1-ecb210c2-cbcc-4a61-b845-a1e9891ff981
   - order: 1
+    useCheckmark: true
     body: >-
       Historical context matters - What remaining questions do you have about
       our past immigration policy? Email us: Info@SmartHERNews.com

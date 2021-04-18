@@ -20,27 +20,30 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # COINS & COVID
 
       ## Has the pandemic left us short-changed?
     _key: dc0437fc3344
   - order: 1
+    useCheckmark: false
     body: >-
       ## Cash, Coins & COVID-19
 
 
-      * Under the **Treasury Dept,** the Bureau of Engraving & Printing makes
-      paper currency; the **U.S. Mint** makes coins.
+      * Under the**Treasury Dept,** the Bureau of Engraving & Printing makes
+      paper currency; the**U.S. Mint** makes coins.
 
-      * The Mint delivers coins to the **12 Federal Reserve Banks** that
+      * The Mint delivers coins to the**12 Federal Reserve Banks** that
       distribute coins to (& receive coins from) our financial institutions,
       like banks & credit unions.
 
       * Before COVID-19, 70%+ of U.S. transactions were conducted in person (as
-      opposed to online) & **35%** of those were paid using cash.
+      opposed to online) &**35%** of those were paid using cash.
     _key: 57011a41b7bd
   - order: 2
+    useCheckmark: false
     body: >-
       ## Short-Changed By COVID?
 
@@ -49,13 +52,14 @@ cards:
       major disruptions to both the supply and typical circulation pattern of
       coins.
 
-      * Result: **SLOWER movement of coins – NOT fewer coins overall, but a
+      * Result:**SLOWER movement of coins – NOT fewer coins overall, but a
       smaller inventory of coins in some areas.**
 
       * Solution: The Federal Reserve says coin inventory issues will resolve as
       the economy opens and more people resume in-person banking & shopping.
     _key: f4a952d1d204
   - order: 3
+    useCheckmark: false
     body: >-
       > “While there is adequate coin in the economy, the slowed pace of
       circulation has meant that sufficient quantities of coin are not readily
@@ -68,6 +72,7 @@ cards:
       The Federal Reserve on June 30.
     _key: 7f566c491782
   - order: 4
+    useCheckmark: false
     body: >-
       ## In The Meantime …
 
@@ -83,6 +88,7 @@ cards:
       charity.
     _key: 5eb97ffc35d8
   - order: 5
+    useCheckmark: true
     body: >-
       DID YOU KNOW? It costs about $0.019 to produce and distribute a penny -
       that's nearly double its value.

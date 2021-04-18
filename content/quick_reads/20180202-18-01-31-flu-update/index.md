@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Michigan School Shut Down Due To Flu
 
@@ -37,6 +38,7 @@ cards:
       Story](http://www.wndu.com/content/news/Michigan-school-closed-for-two-days-after-widespread-flu-472260673.html)
     _key: card-1-f9c24502-c437-4718-b545-0f5f42a1942e
   - order: 1
+    useCheckmark: false
     body: >-
       > “It has been a tough flu season so far this year. And while flu activity
       is beginning to go down in parts of the country, it remains high for most
@@ -46,6 +48,7 @@ cards:
       Dr. Dan Jergian, CDC Conference Call, January 26, 2018
     _key: card-2-72c5484b-77b2-4d4a-8a9b-3182858bb70e
   - order: 2
+    useCheckmark: false
     body: >-
       # Why “Flu Season”?
 
@@ -66,6 +69,7 @@ cards:
       Flip For More
     _key: card-3-8567b3d5-2a61-4b0a-a7f2-c86abe38ca6c
   - order: 3
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-01-31-flu-update/)'
     _key: card-10-81a09286-337a-4f74-9af9-2d8e5d8abb72
 

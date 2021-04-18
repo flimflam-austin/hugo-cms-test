@@ -20,6 +20,7 @@ card_series: Sports
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # WORLD CUP FINAL
 
@@ -34,6 +35,7 @@ cards:
       Moscow: 11AM est
     _key: card-1-50dbf2a0-db95-4a04-8663-c2529bebdad1
   - order: 1
+    useCheckmark: false
     body: >-
       ## CROATIA
 
@@ -49,6 +51,7 @@ cards:
       the first time in a month (because they clashed with opponents).
     _key: card-2-10cbe1af-5f0a-469f-82c7-06e9284130f3
   - order: 2
+    useCheckmark: false
     body: >-
       ## FRANCE
 
@@ -62,6 +65,7 @@ cards:
       experience, speed & strength.”
     _key: card-3-e42c585e-d30f-4464-929c-9bf4e4d2f644
   - order: 3
+    useCheckmark: true
     body: >-
       The US men's team failed to qualify for this year's tournament for the
       first time since 1986 which has been trouble for TV ratings; Fox is

@@ -20,6 +20,7 @@ card_series: Politics
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Runoffs & Recounts
 
@@ -30,6 +31,7 @@ cards:
       Why they matter
     _key: 8cee12c6a164
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKGROUND
 
@@ -45,6 +47,7 @@ cards:
       happen either automatically or by request.
     _key: 9c5cee57363f
   - order: 2
+    useCheckmark: false
     body: >-
       ## Ex: GA Runoff Law
 
@@ -60,6 +63,7 @@ cards:
       (House & Senate) is sworn in on January 3rd.
     _key: c000d61d9bee
   - order: 3
+    useCheckmark: false
     body: >-
       ## Ex: GA Recount Law
 
@@ -75,6 +79,7 @@ cards:
       * Recount results are expected by the end of November.
     _key: aa39824efb33
   - order: 4
+    useCheckmark: false
     body: >-
       ## WHY THEY MATTER
 
@@ -89,6 +94,7 @@ cards:
       winner (at last count, by approx. 10,000 votes).
     _key: 0e87ba9785a4
   - order: 5
+    useCheckmark: true
     body: >-
       FYI: Under federal law, different deadlines exist for receipt of ballots
       from citizens serving in the U.S. military or living overseas; many of

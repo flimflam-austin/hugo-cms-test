@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > ‘I’m a normal, nice person. A good person. I don’t have any bad
       intentions. And my past has to stay in the past.’  
@@ -30,6 +31,7 @@ cards:
       Greece. The profile is worth a read on our source page.
     _key: card-1-c45ff049-f853-4401-a4e3-f7bd3bacf8a7
   - order: 1
+    useCheckmark: false
     body: >-
       > ‘This approval serves as a reminder that sound development programs that
       properly evaluate active ingredients contained in marijuana can lead to
@@ -44,12 +46,14 @@ cards:
       REFRESHER](https://smarthernews.com/18-04-19-marijuana-miracle/)
     _key: card-2-34a5ad72-1c41-447f-b547-d26609edcd06
   - order: 2
+    useCheckmark: false
     body: >-
       > No quote attached to this photo from Senator Mitch McConnell's twitter
       feed of him shaking hands with Justice Gorsuch as 2 Supreme Court rulings
       decided by a split-decision.
     _key: card-3-a3f42999-ecef-49fd-a16f-2b68a2f5ca6a
   - order: 3
+    useCheckmark: false
     body: >-
       > “These result is a grim reminder that the Court’s newest justice holds
       that title only because Mitch McConnell shredded whatever scraps of
@@ -62,9 +66,11 @@ cards:
       Majority Leader would've done the same.
     _key: card-4-788c2a09-a2a3-4713-8d65-39b23c85fb46
   - order: 4
+    useCheckmark: false
     body: "> “This region has a complicated and tragic history a\x13 in the past century the people of the Middle East have suffered great sadness and loss. Never has hope and reconciliation been more needed. I know I share a desire with all of you, and with your neighbors, for a just and lasting peace.”  \n  \n  \nPrince William speaking in Israel as the first member of the British Royal Family to visit the country in an official capacity."
     _key: card-5-ca63d3b0-2848-42ce-8041-08aa48f71a32
   - order: 5
+    useCheckmark: true
     body: >-
       "Congratulations Sir Barry Gibb!" - The Royal Family's instagram account
       with a photo of the co-founder of the Bee Gees receiving knighthood from

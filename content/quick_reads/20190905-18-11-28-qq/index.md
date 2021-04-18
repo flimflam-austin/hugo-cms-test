@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "Despite the headwinds facing the housing market going into 2019, we
       expect U.S. house prices to generally achieve a soft landing."  
@@ -31,6 +32,7 @@ cards:
       Great Recession are over.
     _key: card-1-8a9f1a30-819d-4ee1-a59d-9b5becc3f048
   - order: 1
+    useCheckmark: false
     body: >-
       “So far, I’m not even a little bit happy with my selection of Jay. Not
       even a little bit.”  
@@ -42,6 +44,7 @@ cards:
       Trump has repeatedly warned rising interest rates will hurt the economy.
     _key: card-2-fb814661-4913-4fe0-bc53-d11f872d8e65
   - order: 2
+    useCheckmark: false
     body: >-
       > “…appear to have used cellular telephones… to facilitate unauthorized…
       andA impermissible contact.”  
@@ -53,6 +56,7 @@ cards:
       Defense team says the claim is "pure speculation."
     _key: card-3-92ac9577-2250-4d1d-8339-18b2641244ac
   - order: 3
+    useCheckmark: false
     body: >-
       > “The reason we won is because Mississippians know me and they know my
       heart, and thank you for stepping up Mississippi.”  
@@ -64,6 +68,7 @@ cards:
       serve in the U.S. Senate.
     _key: card-4-f3423023-f0dd-4215-b92a-efdbd88a5952
   - order: 4
+    useCheckmark: false
     body: >-
       > "Sir, I can’t thank you enough. What you’ve done for me is virtually
       unheard of. Never in my life have I or my family witnessed such
@@ -75,6 +80,7 @@ cards:
       $100, encouraging him to celebrate getting your wallet back.
     _key: card-5-b0a98659-4b6a-464a-a840-1e6dc2e0852f
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-11-28-qq/)'
     _key: card-10-4197aed5-6341-42ae-ab2d-c3b43bf28a36
 

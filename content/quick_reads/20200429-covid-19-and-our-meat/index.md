@@ -20,27 +20,30 @@ card_series: Health
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## How COVID-19 impacts what you and your family are able to buy, cook &
       eat.
     _key: 74516a41beea
   - order: 1
+    useCheckmark: false
     body: >-
       ## THE STAKES (& STEAKS)
 
 
-      * The U.S. is the world’s largest **food** exporter.
+      * The U.S. is the world’s largest**food** exporter.
 
-      * The U.S. is the world’s largest **beef** producer & consumer in the
+      * The U.S. is the world’s largest**beef** producer & consumer in the
       world.
 
-      * The U.S. is the world’s largest **poultry** producer. It’s also a major
+      * The U.S. is the world’s largest**poultry** producer. It’s also a major
       egg producer & the second largest poultry exporter.
 
-      * Meat **byproducts** (ex: gelatin, wool, lanolin) also contribute to many
+      * Meat**byproducts** (ex: gelatin, wool, lanolin) also contribute to many
       commonly used household products.
     _key: a770a982de89
   - order: 2
+    useCheckmark: false
     body: >-
       ## What’s the Problem?
 
@@ -59,6 +62,7 @@ cards:
       send it.
     _key: a2cbc9cbb82f
   - order: 3
+    useCheckmark: false
     body: >-
       ## THE LATEST
 
@@ -71,10 +75,11 @@ cards:
       * Outbreaks have halted production. U.S. meat industry workers have
       reportedly died from COVID-19.
 
-      * This has led to the closure of **major** U.S. meat processing plants,
+      * This has led to the closure of**major** U.S. meat processing plants,
       potentially impacting meat supply nationwide (and beyond).
     _key: 4efa93063ea4
   - order: 4
+    useCheckmark: false
     body: >-
       “As pork, beef and chicken plants are being forced to close, even for
       short periods of time, millions of pounds of meat will disappear from the
@@ -87,6 +92,7 @@ cards:
       newspapers over the weekend.
     _key: 2391d66434f1
   - order: 5
+    useCheckmark: false
     body: >-
       > “They say, ‘How dare you throw away food when so many people are
       hungry?.’ They don’t know how farming works. This makes me sick, too.”
@@ -97,6 +103,7 @@ cards:
       because they have nowhere to keep or sell the animals.
     _key: 5d19206454c3
   - order: 6
+    useCheckmark: false
     body: >-
       ## What This Means For You
 
@@ -111,6 +118,7 @@ cards:
       weeks and months ahead.
     _key: b3856eec7137
   - order: 7
+    useCheckmark: true
     body: >-
       Currently, meat produced for food-service (like restaurants) cannot be
       repackaged and sold in grocery stores, or donated easily. The USDA has set

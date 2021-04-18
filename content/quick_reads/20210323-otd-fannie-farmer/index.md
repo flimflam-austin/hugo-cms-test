@@ -19,6 +19,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       #   
 
@@ -33,6 +34,7 @@ cards:
       Before Julia Child … there was Fannie Merritt Farmer.
     _key: 52bffa53d443
   - order: 1
+    useCheckmark: false
     body: >-
       ##   
 
@@ -47,11 +49,12 @@ cards:
       * Enrolled in the Boston Cooking School in her early 30s; hired as the
       school’s asst. director after her 1889 graduation.
 
-      * 1896: Published **_The Boston Cooking-School Cook Book._** It quickly
+      * 1896: Published**_The Boston Cooking-School Cook Book._** It quickly
       became a bestseller due to its reliable results & use of precise
       measurements.
     _key: 864c7984e435
   - order: 2
+    useCheckmark: false
     body: >-
       “Correct measurements are absolutely necessary to ensure the best results.
       Good judgment, with experience, has taught some to measure by sight; but
@@ -64,6 +67,7 @@ cards:
       cook, believed precision was the key to success in the kitchen.
     _key: 48b8b1920d7b
   - order: 3
+    useCheckmark: false
     body: >-
       ##   
 
@@ -81,6 +85,7 @@ cards:
       trained chefs for about 40 years.
     _key: 5cb2cf997f7a
   - order: 4
+    useCheckmark: false
     body: >-
       ##   
 
@@ -88,16 +93,17 @@ cards:
 
 
       * Her cookbook is in its 13th edition & can still be found in stores today
-      under its updated title, _“The Fannie Farmer Cookbook”._
+      under its updated title,_“The Fannie Farmer Cookbook”._
 
-      * She is accredited with publishing one of the **first chocolate brownie
+      * She is accredited with publishing one of the**first chocolate brownie
       recipes.**
 
-      * Julia Child, another widely-known American cook, regularly referred to
-      _“The Fannie Farmer Cookbook”_ while growing up and followed it for
+      * Julia Child, another widely-known American cook, regularly referred
+      to_“The Fannie Farmer Cookbook”_ while growing up and followed it for
       recipes such as fudge & pancakes.
     _key: 7b279cb0c7b4
   - order: 5
+    useCheckmark: true
     body: >-
       21.5 million printed cookbooks were sold in 2020 as people opted for more
       meals at home amidst the pandemic - a 17% increase compared to 2019. But

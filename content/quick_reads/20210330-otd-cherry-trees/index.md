@@ -19,6 +19,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       #          March 27, 1912
 
@@ -34,6 +35,7 @@ cards:
       Plus: The women who made it happen.
     _key: fdeb35e99a86
   - order: 1
+    useCheckmark: false
     body: >-
       **Why Cherry Trees?**
 
@@ -50,6 +52,7 @@ cards:
       Taft heard her idea.
     _key: 919f23bfbb97
   - order: 2
+    useCheckmark: false
     body: >-
       ## How It Happened
 
@@ -57,14 +60,15 @@ cards:
       * 1909: First Lady Taft introduced her plan to develop & improve Potomac
       Park.
 
-      * Scidmore heard of the plans & reached out, explaining the cherry trees
-      _“would be a great showing … a rosy tunnel of interlaced branches.”_
+      * Scidmore heard of the plans & reached out, explaining the cherry
+      trees_“would be a great showing … a rosy tunnel of interlaced branches.”_
 
       * First Lady Taft immediately agreed. Two notable Japanese men working in
       D.C. – a celebrated chemist and the consul general – heard of her proposal
       & helped arrange a donation from Tokyo.
     _key: 05c8348486d2
   - order: 3
+    useCheckmark: false
     body: >-
       ## The First Trees Planted
 
@@ -81,6 +85,7 @@ cards:
       than 100 are original trees planted in 1912.
     _key: 08bfb626e575
   - order: 4
+    useCheckmark: false
     body: >-
       “Since they had to plant something in that great stretch of raw, reclaimed
       ground by the river bank … they might as well plant the most beautiful
@@ -93,6 +98,7 @@ cards:
       Memorial and the MLK Jr. Memorial.
     _key: c8b1dd8b536e
   - order: 5
+    useCheckmark: true
     body: >-
       Japan's initial donation of 2,000 cherry trees came two years earlier
       (1910). However, the trees arrived infected with insects and diseases and

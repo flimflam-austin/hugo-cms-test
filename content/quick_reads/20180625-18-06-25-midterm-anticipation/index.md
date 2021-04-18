@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Midterms Anticipation
 
@@ -31,9 +32,11 @@ cards:
       FLIP: Why Now?
     _key: card-1-7273db16-f9ae-4be7-842f-aa6ab8123ffe
   - order: 1
+    useCheckmark: false
     body: "Voter Interest in Midterms  \nOff the Charts\n\n* Record share of voters (68%) say control of Congress factor in their vote, according to a new Pew poll.\n* More voters also say their view of the Pres. a\x13 positive or negative a\x13 will influence vote for Congress.\n* Democrats’ advantage on enthusiasm is weaker than it was in previous election cycles when their party scored big."
     _key: card-2-ed7e5cce-27c8-4fbb-a66c-1fd690c94cc1
   - order: 2
+    useCheckmark: false
     body: >-
       # MIDTERM$
 
@@ -41,14 +44,15 @@ cards:
       ## RNC doubles DNC’s monthly fundraising haul.
 
 
-      * In May, **RNC received $14M vs. DNC’s $5.6M.**
+      * In May,**RNC received $14M vs. DNC’s $5.6M.**
 
       * Bringing the totals for the cycle to $188M for RNC vs. $98M for DNC.
 
-      * **BUT..**.A Fmr NYC MayorA **Michael Bloomberg has pledged $80M** in an
+      * **BUT..**.A Fmr NYC MayorA**Michael Bloomberg has pledged $80M** in an
       effort to flip the House for Democrats.
     _key: card-3-c27d8dc2-8c93-4145-952c-d1acff6e8f7b
   - order: 3
+    useCheckmark: true
     body: >-
       Pres. Trump will ramp up travel ahead of the midterms to support what he
       calls a "red wave" coming in November. His latest approval rating with

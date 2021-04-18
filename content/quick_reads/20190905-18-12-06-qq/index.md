@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “To us, his was the brightest of the thousand points of light.”  
         
@@ -31,6 +32,7 @@ cards:
       in Texas.
     _key: card-1-e9796d3c-40e5-47d4-8e4b-435ab7a70f49
   - order: 1
+    useCheckmark: false
     body: >-
       "I believe that the operational military situation is largely
       stalemated."  
@@ -43,6 +45,7 @@ cards:
       responsibility for killing 4 U.S. soldiers.
     _key: card-2-73d138cb-94a1-406f-a225-fed1c78a3778
   - order: 2
+    useCheckmark: false
     body: >-
       "Our American partners apparently believe that the situation has changed
       to such an extent that the U.S. should have such weapons. What answer will
@@ -55,9 +58,11 @@ cards:
       violating the deal.
     _key: card-3-bbfbc884-02ce-4d07-b4c9-43201bf9e988
   - order: 3
+    useCheckmark: false
     body: "> \"She came out on the good, on this end, and the other guy a\x14 the bad guy a\x14 didn’t… I think she’ll be inspiration to a lot of other ladies.\"  \n  \nSouth Carolina Pickens County Sheriff Rick Clark speaking about a local woman who shot and killed an escaped prison inmate who broke down her door in the middle of the night and approached her bedroom. The woman, a legal gun owner, shot the intruder once in the head and killed him."
     _key: card-4-c016b629-6a9e-4d97-b094-1a8ffba53b06
   - order: 4
+    useCheckmark: false
     body: >-
       > “It was a day and night difference. She got up on the bed and did a back
       flip. That is the first time we saw her acting like she was before.”  
@@ -69,6 +74,7 @@ cards:
       weeks to rejuvenate, is taking days.
     _key: card-5-abb2bf51-abea-48a6-a725-2e9732a11a5d
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great day!
 

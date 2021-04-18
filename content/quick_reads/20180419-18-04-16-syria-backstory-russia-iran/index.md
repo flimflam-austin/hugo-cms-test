@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # THE BACKSTORY
 
@@ -35,6 +36,7 @@ cards:
     citation: Flip Here
     _key: card-1-fcac6079-522b-4165-9495-25eed2d5c0fc
   - order: 1
+    useCheckmark: false
     body: >-
       ## Back in 2017…
 
@@ -48,6 +50,7 @@ cards:
       Payam Mohseni and Hussein Kalout, Foreign Policy, Jan 24, 2017
     _key: card-2-5890f70d-9bdd-4a99-bcc7-ae15d924d117
   - order: 2
+    useCheckmark: false
     body: >-
       # IRAN & SYRIA
 
@@ -63,12 +66,13 @@ cards:
       Mediterranean Sea.
     _key: card-3-1c43436e-9866-4af0-a33d-c9a7178f64cb
   - order: 3
+    useCheckmark: false
     body: >-
       ## SYRIA & RUSSIA
 
 
       * **Russia’s ONE naval base in Middle East is in Syria** – in the port of
-      Tartus. **Gives Kremlin a crucial resupply station & presence in Middle
+      Tartus.**Gives Kremlin a crucial resupply station & presence in Middle
       East.A**
 
       * Syria = customer of Russian arms.
@@ -77,6 +81,7 @@ cards:
       status quo & Islamic terrorism (Russia confronts both domestically).
     _key: card-4-20036320-102f-480d-b6a4-73d623cf0cc7
   - order: 4
+    useCheckmark: true
     body: >-
       President Assad’s father learned how to fly fighter jets in Soviet Union.
 

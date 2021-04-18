@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # COVID-19 &  
 
@@ -30,11 +31,12 @@ cards:
       whether to reopen gyms.
     _key: 6d3c4b130204
   - order: 1
+    useCheckmark: false
     body: >-
       ## KEEP IN MIND
 
 
-      * CDC: COVID-19 spreads “mainly” **person-to-person** via respiratory
+      * CDC: COVID-19 spreads “mainly”**person-to-person** via respiratory
       droplets released when someone talks, sneezes, or coughs.
 
       * CDC: Questions remain about how effectively the virus spreads on
@@ -43,23 +45,25 @@ cards:
       exercise bike and then wiping sweat from your eyes).
     _key: 2c3d4b792767
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Latest Science
 
 
-      * New study on COVID-19 spread among fitness class attendees in **South
+      * New study on COVID-19 spread among fitness class attendees in**South
       Korea.**
 
       * 27 instructors attended a February 15 workshop before returning to 12
       different gyms; unknowingly 8 instructors were infected w/ COVID-19.
 
-      * In the following weeks, **57 of the 217** class attendees developed
+      * In the following weeks,**57 of the 217** class attendees developed
       COVID-19.
 
-      * Additionally, 38 **family members** and 17 **co-workers / friends**
-      developed COVID-19. **Total infections: 112.**
+      * Additionally, 38**family members** and 17**co-workers / friends**
+      developed COVID-19.**Total infections: 112.**
     _key: 8d09d8fee338
   - order: 3
+    useCheckmark: false
     body: >-
       > “Because of the increased possibility of infection through droplets,
       vigorous exercise in closely confined spaces should be avoided during the
@@ -72,6 +76,7 @@ cards:
       have spread the virus in yoga or pilates classes.
     _key: f683c85099bb
   - order: 4
+    useCheckmark: false
     body: >-
       ## THE LATEST: USA
 
@@ -87,6 +92,7 @@ cards:
       Korea highlighted by CDC.
     _key: 8e46c61b11dc
   - order: 5
+    useCheckmark: true
     body: >-
       Unlike other industries (ex: schools, restaurants, places of worship), the
       CDC has not issued specific reopening guidance for gyms. Check out the

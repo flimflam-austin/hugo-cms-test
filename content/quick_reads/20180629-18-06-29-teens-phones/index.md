@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       He's one of the greatest technological innovators of our time, so what
       does Microsoft founder Bill Gates say is right age for a child to get a

@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "Our democracy itself is in the cross hairs.”  
         
@@ -31,6 +32,7 @@ cards:
       election rolls or voting infrastructure.
     _key: card-1-dfc53d0a-252f-45c6-b3b6-5ad01c85479e
   - order: 1
+    useCheckmark: false
     body: >-
       > "I am the daughter of an immigrant.”  
         
@@ -43,9 +45,11 @@ cards:
       incredibly dangerous journey alone.
     _key: card-2-dc5676cc-c14d-4ce3-bc68-d4a4a6149431
   - order: 2
+    useCheckmark: false
     body: "> “If it doesn’t say a\x18Men’s Wearhouse,’ I don’t know it.\"  \n  \n  \n  \nJudge T.S. Ellis III, asking about the brand names of defendantA Paul Manafort’s lavish wardrobe paid for with wire transfers from offshore accounts, including a $15,000A ostrich-skin jacket."
     _key: card-3-136a846a-cc44-4820-b63f-ed7ade203612
   - order: 3
+    useCheckmark: false
     body: >-
       > “50/50 and a little less.”  
         
@@ -56,6 +60,7 @@ cards:
       syndicated debut in 1984.
     _key: card-4-8cf6d894-aeda-49d8-9ab4-7dd1e32a114f
   - order: 4
+    useCheckmark: true
     body: |-
       TGIF!
 

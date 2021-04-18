@@ -20,9 +20,11 @@ card_series: Now You Know
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: "# QUICK QUOTES\n\n> **“May the 4th be with you.”**  \n  \nFans celebrate Star Wars day with a clever play on the iconic: May the Force be with you. ...Or if you're from the Dark Side you may chose to celebrate tomorrow, Revenge of the Fifth in honor of Star Wars: Episode III a\x13 Revenge of the Sith & all the evil Sith Lords."
     _key: card-1-a0252b8c-91ec-4e79-923f-8b22f961ee83
   - order: 1
+    useCheckmark: false
     body: >-
       > **“…the Board continues to encourage ethical standards that require
       members to uphold the Academy’s values of respect for human dignity”**  
@@ -31,6 +33,7 @@ cards:
       expelling Bill Cosby & Roman Polanski from its membership.
     _key: card-2-89246b2a-1e1f-4feb-adf1-9e93ab9505a0
   - order: 2
+    useCheckmark: false
     body: >-
       > **A “It’d be like the house would shake. It’d be like somebody that
       weighs 300 pounds came in my living room, and jumped up and down.”**  
@@ -41,6 +44,7 @@ cards:
       from the Kilauea Volcano.
     _key: card-3-50f907b1-2449-44f0-bef1-4a082b388c58
   - order: 3
+    useCheckmark: false
     body: >-
       > **“We recently discovered a bug where account passwords were being
       written to an internal log before completing a masking/hashing process.
@@ -53,6 +57,7 @@ cards:
       change their passwords immediately.
     _key: card-4-44741842-da91-4511-9cd1-677ee78d7382
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-04-04-quick-quotes/)'
     _key: card-10-b87c3cfb-c6c4-405f-91d4-02cf84af704d
 

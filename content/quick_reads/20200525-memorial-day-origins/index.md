@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## MEMORIAL DAY
 
@@ -29,6 +30,7 @@ cards:
       exact same way, at the exact same time.
     _key: eb9a9aeda007
   - order: 1
+    useCheckmark: false
     body: >-
       ## Did You Know?
 
@@ -44,6 +46,7 @@ cards:
       flowers bloom nationwide.
     _key: 2b7c64244d22
   - order: 2
+    useCheckmark: false
     body: >-
       ## Here’s The Backstory
 
@@ -56,6 +59,7 @@ cards:
       ALL the graves despite the war ending just a year earlier.
     _key: ca18b91e36a6
   - order: 3
+    useCheckmark: false
     body: >-
       > “They start to see these Union graves that are just laying there, kind
       of barren….Their hearts start to feel bad for the mothers who have lost
@@ -68,6 +72,7 @@ cards:
       by a women's association in Georgia weeks earlier.
     _key: 5995090b0f5a
   - order: 4
+    useCheckmark: false
     body: >-
       ## The Official Beginning
 
@@ -78,25 +83,27 @@ cards:
       * Fmr. Union General & soon-to-be-elected President Ulysess S. Grant
       attended.
 
-      * About 5,000 people gathered & put small American flags on graves;
-      **about the same # of people attend in modern times and do exactly the
-      same thing.**
+      * About 5,000 people gathered & put small American flags on graves;**about
+      the same # of people attend in modern times and do exactly the same
+      thing.**
     _key: 1f06d1211143
   - order: 5
+    useCheckmark: false
     body: >-
       ## Federal Holiday
 
 
       * Memorial Day designated a federal holiday in 1971 ~ last Monday of May.
 
-      * MEMORIAL DAY: “a day for remembering and honoring military personnel
-      **who died in the service of their country**, **particularly those who
-      died in battle or as a result of wounds sustained in battle**.”
+      * MEMORIAL DAY: “a day for remembering and honoring military
+      personnel**who died in the service of their country**,**particularly those
+      who died in battle or as a result of wounds sustained in battle**.”
 
       * VETERANS DAY (Nov 11): “largely intended to thank LIVING veterans for
       their service…”
     _key: 9395469be1fd
   - order: 6
+    useCheckmark: true
     body: >-
       "We should guard their graves with sacred vigilance...Let no vandalism of
       avarice of neglect, no ravages of time, testify to the present or to the

@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--bronze'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       "I think Vermonters should take me seriously because I have practical
       progressive ideas, and I happen to be 14, not the other way around. I
@@ -31,6 +32,7 @@ cards:
       transgender candidate nominated for governor on a major party's ticket.
     _key: card-1-d53702bc-88ad-4d79-a6ea-0b4a49170cd6
   - order: 1
+    useCheckmark: false
     body: >-
       > “I can’t guarantee anything, but I can tell you that the president
       addressed this question directly. I can tell you that I’ve never heard
@@ -46,6 +48,7 @@ cards:
       Now](https://www.youtube.com/embed/28xYqEadKpI?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-4c974db7-6f0f-4d01-bbe0-a3870f9b6a12
   - order: 2
+    useCheckmark: false
     body: >-
       “Priests were raping little boys and girls, and the men of God who were
       responsible for them not only did nothing; they hid it all. For decades….A
@@ -58,6 +61,7 @@ cards:
       more than 1,000 children over six decades.
     _key: card-3-3fb1205a-cd73-4ead-9bc5-15c4e28e502c
   - order: 3
+    useCheckmark: false
     body: >-
       “Today a grateful nation salutes the Navajo Code Talkers whose bravery &
       skill saved the lives of countless Americans during WWII. History will
@@ -70,6 +74,7 @@ cards:
       code never broken.
     _key: card-4-452a5cc7-2b1f-4558-8fdd-e3fba5eec16b
   - order: 4
+    useCheckmark: true
     body: |-
       Have a great day!
 

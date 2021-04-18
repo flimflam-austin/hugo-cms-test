@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Harvard Business Review: Study Exposes Hiring Bias Against Stay-At-Home
       Parents
@@ -33,6 +34,7 @@ cards:
       Flip For More
     _key: card-1-cc078caf-c5af-4658-a3d3-2f8260155b19
   - order: 1
+    useCheckmark: false
     body: >-
       # About the Study:
 
@@ -47,8 +49,9 @@ cards:
       collected responses.
     _key: card-2-a43f4089-613e-4a1f-a93a-baa812399675
   - order: 2
+    useCheckmark: false
     body: >-
-      > “Put simply, stay-at-home parents were about **half** as likely to get a
+      > “Put simply, stay-at-home parents were about**half** as likely to get a
       callback as unemployed parents and only**A one-third** as likely as
       employed parents.”  
         
@@ -61,6 +64,7 @@ cards:
       Not Just Moms...Flip
     _key: card-3-2c657d9d-260d-44ce-9f6c-7b54f5f316a2
   - order: 3
+    useCheckmark: false
     body: >-
       > “My research shows that, after being pushed out, (mothers) are kept out
       & have reduced job opportunities when attempting to regain employment.A
@@ -72,6 +76,7 @@ cards:
       Prof. Kate Weisshaar, Lead Researcher
     _key: card-4-f68d80a2-75a7-4d3b-8df6-400dc62d15a4
   - order: 4
+    useCheckmark: false
     body: >-
       ## Study Shows Vicious Cycle
 
@@ -84,6 +89,7 @@ cards:
       workforce.
     _key: card-5-c39a659e-2930-4b1d-8771-2377ca954058
   - order: 5
+    useCheckmark: false
     body: >-
       # Food For Thought
 
@@ -100,6 +106,7 @@ cards:
       Pay](https://swz.salary.com/MomSalaryWizard/LayoutScripts/Mswl_NewSearch.aspx)
     _key: card-6-66667d7e-d898-48a6-b9a5-d60ca740f690
   - order: 6
+    useCheckmark: true
     body: >-
       Why Does This Matter? Raises broader question about how parenting is
       valued in Corporate America and beyond. SmartHer News wants to know: If

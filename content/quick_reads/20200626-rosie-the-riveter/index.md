@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # June 25, 1924
 
@@ -31,6 +32,7 @@ cards:
       beyond).
     _key: a8980e10e21a
   - order: 1
+    useCheckmark: false
     body: >-
       ## Rosalind “Roz” Walter
 
@@ -46,6 +48,7 @@ cards:
       highlighting her work was published.
     _key: 5c47c3b70a41
   - order: 2
+    useCheckmark: false
     body: |-
       > “_All the day long,_  
       _Whether rain or shine,_  
@@ -60,6 +63,7 @@ cards:
       From the 1942 song "Rosie the Riveter.”
     _key: c2dcb953eca8
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -73,6 +77,7 @@ cards:
       the war effort by working in factory.
     _key: 8f2cd0fb1038
   - order: 4
+    useCheckmark: true
     body: >-
       The wartime image of Rosie The Riveter was only used for several weeks by
       a private company in 1942 but gained popularity in the 1980s. A lifelong

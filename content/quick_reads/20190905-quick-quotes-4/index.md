@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “Let me tell you, this one really scares me.”  
         
@@ -30,6 +31,7 @@ cards:
       wind and catastrophic life-threatening storm surge.
     _key: card-1-129635b1-a011-469c-b8f0-38b745000c8e
   - order: 1
+    useCheckmark: false
     body: >-
       “The American people expect us to get our work done…. we can successfully
       fund nearly 90% of the federal government on time … something Congress has
@@ -41,6 +43,7 @@ cards:
       Mexico border until after the Nov. 6 elections.
     _key: card-2-61b9627b-eaa8-4daf-a19e-b2bbe8175533
   - order: 2
+    useCheckmark: false
     body: >-
       > “…we are open to and already in the process of coordinating.”  
         
@@ -52,6 +55,7 @@ cards:
       meeting in Singapore cost $12M.
     _key: card-3-5bf4e429-faaa-47d4-b350-da32cc41c672
   - order: 3
+    useCheckmark: false
     body: >-
       > “What the prices are for those 3 new products … that’s going to be the
       key.”  
@@ -65,6 +69,7 @@ cards:
       company at more than $1T.
     _key: card-4-e5003daf-4d94-4b3f-8393-da7745c747d2
   - order: 4
+    useCheckmark: false
     body: >-
       "It is 50 times more powerful than heroin. It is very inexpensive. It is
       coming primarily from China and coming primarily through our U.S. Postal
@@ -79,6 +84,7 @@ cards:
       to do so.
     _key: card-5-47f55155-5bbd-4086-b0ca-9df07c7cd49a
   - order: 5
+    useCheckmark: false
     body: >-
       > “She was very cooperative.”  
         
@@ -90,6 +96,7 @@ cards:
       occasionally ate salami.
     _key: card-6-f09a654b-1ae8-435e-848b-ed3f5d06141e
   - order: 6
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/quick-quotes-4/)'
     _key: card-10-8a0c9f45-8fb7-4817-8f84-8f2ca5ce0474
 

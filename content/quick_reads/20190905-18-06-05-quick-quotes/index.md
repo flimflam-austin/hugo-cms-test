@@ -20,9 +20,10 @@ card_series: Quotes
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “The May 2018 Southwest Border Migration numbers show that for the third
-      month in a row **more than 50,000 illegal border crossers were
+      month in a row**more than 50,000 illegal border crossers were
       apprehended**.”  
         
       DHS Press Secretary Tyler Q. Houlton. This is an increase of 160% from May
@@ -30,6 +31,7 @@ cards:
       apprehensions of unaccompanied minors went up by more than 300%.
     _key: card-1-2bcdedbc-98bb-4721-a524-051e714f308a
   - order: 1
+    useCheckmark: false
     body: >-
       > “I hope to continue this important work by working together with
       organizations who have been fighting this fight for much longer than I
@@ -41,6 +43,7 @@ cards:
       advocate for Johnson and prison reform.
     _key: card-2-50af4b2d-c1e2-4115-af08-3ee6cf81b155
   - order: 2
+    useCheckmark: false
     body: >-
       > ‘It looks like the lobster was cooked.”  
         
@@ -51,6 +54,7 @@ cards:
       boiling water and butter.
     _key: card-3-9efd600d-df55-49c2-ac58-5eb9c255614d
   - order: 3
+    useCheckmark: false
     body: >-
       > "As a result of the screening process so far, the department has sent a
       number of individuals for further evaluation and a comprehensive
@@ -62,6 +66,7 @@ cards:
       staff in Cuba.
     _key: card-4-bb0674ff-c7cc-479d-8c85-99d266664eaa
   - order: 4
+    useCheckmark: true
     body: |-
       Have a great day!
 

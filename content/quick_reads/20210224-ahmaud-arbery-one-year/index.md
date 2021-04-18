@@ -19,10 +19,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: '> _“We’re all better together.”_'
     citation: WANDA COOPER-JONES
     _key: c91c6a40ea87
   - order: 1
+    useCheckmark: true
     body: >-
       Ahmaud Arbery's mother on the one-year anniversary of her son's death,
       responding to a question about whether she has hope America can unite.

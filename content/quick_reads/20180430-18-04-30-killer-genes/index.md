@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # GENETIC DATA USED AGAINST YOU?
 
@@ -27,28 +28,30 @@ cards:
       ## 1 in 25 Americans Have Done DNA Testing
 
 
-      Now investigators reveal aA **DNA website**A helped them track the
-      allegedA **“Golden State Killer”**A who eluded them for decades.
+      Now investigators reveal aA**DNA website**A helped them track the
+      allegedA**“Golden State Killer”**A who eluded them for decades.
 
 
       Clever detective work *or* Privacy violation?
     _key: card-1-9bf87cc1-9a79-48dd-aca8-9201d97a5439
   - order: 1
+    useCheckmark: false
     body: >-
       # Killer “left his DNA all over the place.”A
 
 
-      FBI has DNA database, as does local police, butA **no match.**
+      FBI has DNA database, as does local police, butA**no match.**
 
 
-      Authorities submitted DNA sample from crime scene to genealogy site
-      **GEDmatch under a fake name.**
+      Authorities submitted DNA sample from crime scene to genealogy
+      site**GEDmatch under a fake name.**
 
 
       **DNA hits came from 3rd & 4th cousins**, *NOT* from suspect Joseph James
       DeAngelo.
     _key: card-2-efe195f2-2437-4371-9cc0-81a63741cdd0
   - order: 2
+    useCheckmark: false
     body: >-
       > Investigators said GEDmatch narrowed their search & no court order was
       needed to access site’s database.  
@@ -60,6 +63,7 @@ cards:
       Curtis Rogers, GEDmatch Spokesman
     _key: card-3-b412a5d7-dab2-41fd-84e7-401e5122b127
   - order: 3
+    useCheckmark: false
     body: >-
       # SLIPPERY SLOPE
 
@@ -74,6 +78,7 @@ cards:
       Andrea Roth, UC Berkeley Boalt School of Law Assistant Professor
     _key: card-4-bc4980e9-8723-49dc-a34b-a014fe8eb33e
   - order: 4
+    useCheckmark: true
     body: >-
       Ancestry & 23andMe say they were not involved in the "Golden State Killer"
       case. 72-year-old DeAngelo made his 1st court appearance Friday in

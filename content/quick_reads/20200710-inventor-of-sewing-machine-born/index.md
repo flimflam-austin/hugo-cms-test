@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       #   
 
@@ -36,6 +37,7 @@ cards:
       ##
     _key: c28efe2207f9
   - order: 1
+    useCheckmark: false
     body: >-
       ## Elias Howe
 
@@ -43,7 +45,7 @@ cards:
       * Born in Massachusetts.
 
       * He created the concept while working in a machinist shop; demonstrated &
-      patented the sewing machine in 1846 but **he couldn’t gain momentum**.
+      patented the sewing machine in 1846 but**he couldn’t gain momentum**.
 
       * Howe traveled to England to promote his invention to no avail.
 
@@ -52,6 +54,7 @@ cards:
       * Howe, near broke, sued for illegal use of his patent and won.
     _key: a564e0f59ec9
   - order: 2
+    useCheckmark: false
     body: >-
       _“The mechanical sewing machine was one in a series of technological
       innovations that transformed the nature of work over the course of the
@@ -63,6 +66,7 @@ cards:
       workforce.
     _key: b824aa891a2f
   - order: 3
+    useCheckmark: true
     body: >-
       One of America's largest retailers Wal-Mart, said demand for sewing
       machines and do-it-yourself projects have increased during the pandemic.

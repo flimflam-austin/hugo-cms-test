@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## _“…keep the faith, don’t be too scared, it’s gonna be alright, God
       loves us.”_
@@ -29,6 +30,7 @@ cards:
     citation: DOLLY PARTON
     _key: 4c91b4345db2
   - order: 1
+    useCheckmark: true
     body: >-
       The 74-year-old icon offered this advice amid the coronavirus outbreak.
       'Goodnight With Dolly', a new video series where she'll read bedtime

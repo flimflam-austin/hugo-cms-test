@@ -20,12 +20,14 @@ card_series: smarther news
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Marking 9 Months Of COVID-19 in America
 
       > **VIDEO**: The impact of the pandemic on women.
     _key: 716c2717a67f
   - order: 1
+    useCheckmark: true
     body: >-
       A closer look at the ripple effects of the pandemic for women - news on
       the economy, psychology and physical impact of the pandemic....and what we

@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “You can have a job, or you can have a career, or you can have a
       calling.A And if you can somehow figure out how to have a calling, you
@@ -27,6 +28,7 @@ cards:
     citation: Jeff Bezos
     _key: card-1-3d46244d-c613-4b91-9243-b23c693816cd
   - order: 1
+    useCheckmark: true
     body: >-
       The founder and CEO of Amazon, Jeff Bezos, was just named the richest
       person in modern history, with a net worth of $150 billion, according to

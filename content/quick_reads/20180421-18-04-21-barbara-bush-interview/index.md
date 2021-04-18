@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “**Lighten Up!** That would be her advice for all of us…”  
         
@@ -31,6 +32,7 @@ cards:
     citation: Watch Now
     _key: card-1-27bb7f01-52e4-4222-8dbb-68892dc03d2c
   - order: 1
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-04-21-barbara-bush-interview/)'
     _key: card-10-2db2ae56-35ae-4e22-903b-41c0f3f43ead
 

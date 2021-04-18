@@ -20,6 +20,7 @@ card_series: Politics
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # A Third Choice?
 
@@ -31,6 +32,7 @@ cards:
       Why they matter.
     _key: 5394fa2fbbbf
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why Only Two?
 
@@ -46,6 +48,7 @@ cards:
       local power).
     _key: 756eeb2420e3
   - order: 2
+    useCheckmark: false
     body: >-
       > “… potent engines, by which cunning, ambitious, and unprincipled men
       will be enabled to subvert the power of the people and to usurp for
@@ -57,6 +60,7 @@ cards:
       political parties he described as "potent engines."
     _key: 347855f3240a
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why Only Two Now?
 
@@ -73,6 +77,7 @@ cards:
       *likely* winner, and the two parties stay in power.
     _key: 3487369561c0
   - order: 4
+    useCheckmark: false
     body: >-
       ## NAMES TO KNOW
 
@@ -90,9 +95,11 @@ cards:
       Kanye West (Birthday Party)
     _key: 88a9ca53b267
   - order: 5
+    useCheckmark: false
     body: "## WHY THEY MATTER\n\nThey may not make it onto the ballot; candidates need to meet state-imposed signature thresholds.\n\nThey may not make it onto the debate stage; they need to meet a polling threshold (for presidential debate, they need 15%+ support on major polls).\n\nRegardless, they absolutely can\_**influence the ultimate outcome of the election.**"
     _key: 4846f84407ee
   - order: 6
+    useCheckmark: false
     body: >-
       ## Example: 2016 Election
 
@@ -110,6 +117,7 @@ cards:
       tightest race being in Michigan, which he won by just .3%).
     _key: d38b7b56ba72
   - order: 7
+    useCheckmark: false
     body: >-
       ## BIG PICTURE
 
@@ -123,6 +131,7 @@ cards:
       candidates is NOT automatically a vote siphoned from Democrat candidates.
     _key: 1eafc281a2d0
   - order: 8
+    useCheckmark: true
     body: >-
       Has a third-party candidate ever won the presidency in modern times? No.
       But former President Theodore Roosevelt ran as a third-party candidate and

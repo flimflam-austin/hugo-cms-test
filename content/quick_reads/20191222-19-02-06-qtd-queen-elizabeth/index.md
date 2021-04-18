@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Queen Elizabeth II Ascended To The British Throne
 
@@ -30,19 +31,21 @@ cards:
       age 25.
     _key: card-1-00fc9f2d-815b-47c9-b35e-28af785fc6b4
   - order: 1
+    useCheckmark: false
     body: >-
       ## Record-Breaking Queen
 
 
-      In 2007, at 81, she became the **oldest British monarch**, beating a
-      record set by Queen Victoria (her paternal great-great-grandmother).
+      In 2007, at 81, she became the**oldest British monarch**, beating a record
+      set by Queen Victoria (her paternal great-great-grandmother).
 
 
-      In 2015, at 88, she became the **world’s oldest monarch.**_Months later,
-      she passed Queen Victoria again, & became **Britain’s longest-reigning
+      In 2015, at 88, she became the**world’s oldest monarch.**_Months later,
+      she passed Queen Victoria again, & became**Britain’s longest-reigning
       monarch.**
     _key: card-2-d2ede607-7e58-4404-9482-38c06730b9bf
   - order: 2
+    useCheckmark: false
     body: >-
       ## Bag Lady?
 
@@ -57,6 +60,7 @@ cards:
       A passport; she doesn’t need one! (because they are issued in her name).
     _key: card-3-3f85cdee-662c-41cd-8628-ee081093558b
   - order: 3
+    useCheckmark: false
     body: >-
       > “Each day is a new beginning, I know that the only way to live my life
       is to try to do what is right, to take the long view, to give of my best
@@ -67,6 +71,7 @@ cards:
       Queen Elizabeth II
     _key: card-4-ab84fc86-0012-4a90-854d-2189f135f736
   - order: 4
+    useCheckmark: true
     body: >-
       Although she is the world's longest (living) monarch, she is not *yet* the
       longest reigning monarch - that title goes to the former King of

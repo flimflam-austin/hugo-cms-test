@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“I don’t mistrust the future; I don’t fear what is ahead. For our
       problems are large, but our hearts are larger.”_
@@ -29,6 +30,7 @@ cards:
     citation: Pres. George H.W. Bush
     _key: card-1-1330c330-12e5-4804-b08e-03da129b47b8
   - order: 1
+    useCheckmark: true
     body: >-
       The 41st U.S. President died at age 94. His life was one of service as a
       congressman, UN Ambassador, RNC Chairman, CIA Director, Vice President &

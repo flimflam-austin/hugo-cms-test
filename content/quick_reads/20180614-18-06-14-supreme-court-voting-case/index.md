@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # The Power to Vote: Use it or Lose It?
 
@@ -31,20 +32,22 @@ cards:
       Check Your Mailbox
     _key: card-1-47d440e1-d514-437e-9295-56904810c6df
   - order: 1
+    useCheckmark: false
     body: >-
       ## Background
 
 
-      * Ohio procedure allows the state to remove voters **from the registry**
-      who **haven’t voted for 2 years** & **fail to respond to mailed notices**
-      confirming they are still eligible to vote **w/in four years**.
+      * Ohio procedure allows the state to remove voters**from the registry**
+      who**haven’t voted for 2 years** &**fail to respond to mailed notices**
+      confirming they are still eligible to vote**w/in four years**.
 
       * SCOTUS ruled against a challenge to this policy.
 
-      * Ruling directly impacts **6 other states w/similar policies**A (GA, MT
+      * Ruling directly impacts**6 other states w/similar policies**A (GA, MT
       OK, OR, PA & WV).
     _key: card-2-bd5c5d3d-737d-44fe-b064-5fedfa58d04c
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -54,10 +57,11 @@ cards:
 
 
       The Supreme Court said Ohio’s procedure does NOT violate the law because
-      “it removes registrants only when they have failed to vote **and have
+      “it removes registrants only when they have failed to vote**and have
       failed to respond to a change-of-residence notice**.”
     _key: card-3-c12b6b4a-37e0-434a-8790-b29d6642302c
   - order: 3
+    useCheckmark: false
     body: >-
       ## HE Said / HE Said
 
@@ -72,6 +76,7 @@ cards:
       November.
     _key: card-4-68818670-8fea-489a-96ba-9a9e885459c1
   - order: 4
+    useCheckmark: true
     body: >-
       Remember: Ohio is a swing state; it can swing republican or democrat in
       state/national elections. That's part of the reason why this case has

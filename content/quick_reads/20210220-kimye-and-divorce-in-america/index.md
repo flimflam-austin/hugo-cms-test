@@ -19,6 +19,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # State of Marriage
 
@@ -30,6 +31,7 @@ cards:
       What To Know & Why It Matters
     _key: 95685ca949a1
   - order: 1
+    useCheckmark: false
     body: >-
       ## What The Data Says
 
@@ -43,10 +45,11 @@ cards:
 
       * **One data point that increased?** The age of Americans at their first
       marriage. Some believe being “older and wiser” (and more financially
-      stable) is a factor impacting lower rates for **both** marriage **and**
+      stable) is a factor impacting lower rates for**both** marriage**and**
       divorce.
     _key: 3ed42ee83495
   - order: 2
+    useCheckmark: false
     body: >-
       > “Where there was a crack, there is now a rupture.”
 
@@ -59,6 +62,7 @@ cards:
       statistical conclusions.
     _key: a8827eda7eea
   - order: 3
+    useCheckmark: false
     body: >-
       “The U.S. is progressing toward a system in which marriage is rarer, and
       more stable, than it was in the past.”  
@@ -71,6 +75,7 @@ cards:
       on our source page.
     _key: 180549c29979
   - order: 4
+    useCheckmark: true
     body: >-
       Kim Kardashian and Kanye West filed for divorce after more than 6 years of
       marriage. Is there anything statistically true about the "7-year-itch"?

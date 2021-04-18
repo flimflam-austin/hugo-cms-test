@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## QUICK QUOTES
 
@@ -35,9 +36,11 @@ cards:
       [CLICK FOR A REFRESHER](https://smarthernews.com/18-05-02-meeting-spot/)
     _key: card-1-1d42d497-7eda-487f-99b2-49aab0983e6a
   - order: 1
-    body: "> **‘There was a part of me that was terribly naive\x14clearly, _so_ naive. I have moments of rage, I have moments of confusion, I have moments of disbelief! And I have moments when I just cry for my children. What are their lives going to be?’**  \n  \nGeorgina Chapman in her first public comments on soon-to-be ex-husband Harvey Weinstein after he was accused of sexual violence & sexual harassment by 100+ women."
+    useCheckmark: false
+    body: "> **‘There was a part of me that was terribly naive\x14clearly,_so_ naive. I have moments of rage, I have moments of confusion, I have moments of disbelief! And I have moments when I just cry for my children. What are their lives going to be?’**  \n  \nGeorgina Chapman in her first public comments on soon-to-be ex-husband Harvey Weinstein after he was accused of sexual violence & sexual harassment by 100+ women."
     _key: card-2-5f25853c-9334-4a9a-82e0-1f894e1654d4
   - order: 2
+    useCheckmark: false
     body: >-
       > **“It could be large rocks, it could be boulders the size of cows.”**  
         
@@ -49,9 +52,11 @@ cards:
       [CLICK FOR REFRESHER](https://smarthernews.com/18-05-10-hawaii-volcano/)
     _key: card-3-7f99510e-7765-472c-b1bd-60a1e9d43a7e
   - order: 3
+    useCheckmark: false
     body: "> **“I’m almost speechless about it. It’s not like, a\x18Oh, we’re short on a medicine for a headache.’ This is a life-threatening issue.”**  \n  \nAimee Weiss on an EpiPen shortage affecting her 12-year-old daughter who is allergic to tree nuts. The FDA added the emergency allergy medication to its list of medicines in short supply, but the shortage is not expected to last long, according to its maker Mylan."
     _key: card-4-0831c9a1-ddbc-40f3-9c16-a07ecbedbbd8
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-05-11-quotes/)'
     _key: card-10-d2cd3459-5a8f-4395-b7e4-d95336c26bbb
 

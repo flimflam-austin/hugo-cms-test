@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # SUPREME COURT SHAKE UP
 
@@ -34,6 +35,7 @@ cards:
       Why This Matters
     _key: card-1-82165690-d8d4-4704-bce6-429879e6860b
   - order: 1
+    useCheckmark: false
     body: >-
       # LAW OF THE LAND
 
@@ -52,6 +54,7 @@ cards:
       weigh-in on casesA that impact everyday lives of all Americans.
     _key: card-2-8481dbcf-026c-45a8-89f4-fbef60a58a2b
   - order: 2
+    useCheckmark: false
     body: >-
       ## Who is Justice Kennedy?
 
@@ -68,6 +71,7 @@ cards:
       * Best known for 2015 ruling on constitutional right to same-sex marriage.
     _key: card-3-b0a0bb13-88da-457b-b6cd-656a49d1fb62
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why Kennedy’s Vacancy Matters
 
@@ -80,6 +84,7 @@ cards:
       union’s ‘fair share’ fees. Both decisions were 5-4.
     _key: card-4-63c6b293-0e1b-43d0-97d5-23954a19b8d1
   - order: 4
+    useCheckmark: false
     body: >-
       ## Next Steps
 
@@ -93,6 +98,7 @@ cards:
       60-vote procedural filibuster threshold.
     _key: card-5-cb7f9ca8-053b-4cf2-b4f1-65051a9e8359
   - order: 5
+    useCheckmark: true
     body: >-
       The President published a previous list of potential Supreme Court
       nominees. Interesting to note. Kennedy retires at the age of 81. Ruth

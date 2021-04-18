@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Immigration Debate Hits Dead End…For Now
 
@@ -33,6 +34,7 @@ cards:
       votes to move forward in Senate.
     _key: card-1-a81d0ee3-832e-45ec-b15d-c7530ea78c8d
   - order: 1
+    useCheckmark: false
     body: >-
       ## Recap: Rare Week In Senate
 
@@ -45,6 +47,7 @@ cards:
       pass to further debate.
     _key: card-2-77391936-2886-47b7-ae9b-7eccefcf6428
   - order: 2
+    useCheckmark: false
     body: >-
       Why It Matters:  
 
@@ -59,6 +62,7 @@ cards:
       citizenship in exchange for broader reform (ex: border wall $$$).
     _key: card-3-b1cd30d3-62a0-4b36-95d7-d43c7644bbf4
   - order: 3
+    useCheckmark: false
     body: >-
       # Important To Note
 
@@ -72,6 +76,7 @@ cards:
       cases might be irrelevant.
     _key: card-4-0480f15a-2a31-43ec-a33b-6b377300c06d
   - order: 4
+    useCheckmark: false
     body: >-
       ## Meanwhile…At The White House
 
@@ -87,6 +92,7 @@ cards:
       Here](https://twitter.com/SRE_mx/status/963944565768990720)
     _key: card-5-92ca55c3-aba5-4dd6-867a-9d683686f578
   - order: 5
+    useCheckmark: false
     body: >-
       ## Official Word From WH On Meeting:
 
@@ -94,10 +100,11 @@ cards:
       “The meeting furthered the work of both governments over the past year to
       establish comprehensive agreements on several issues, including economic
       cooperation and trade, security and law enforcement, energy, regional
-      initiatives, and **immigration**.”
+      initiatives, and**immigration**.”
     citation: WH Press Office
     _key: card-6-25c6e737-ff79-4633-bdcf-e4c5a0eb2a7e
   - order: 6
+    useCheckmark: true
     body: >-
       Check out the list of attendees at the WH meeting...and more...
 

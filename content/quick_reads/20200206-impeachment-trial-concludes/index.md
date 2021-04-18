@@ -20,12 +20,14 @@ card_series: Current Events
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## How Pres. Trump’s Impeachment Made History
 
       The 45th President finds himself (and the nation) in uncharted territory.
     _key: 3d7958cbb347
   - order: 1
+    useCheckmark: false
     body: >-
       ## ONLY PRES. TRUMP…
 
@@ -34,13 +36,15 @@ cards:
       Pres. Andrew Johnson in 1868 and Pres. Bill Clinton in 1998.
 
 
-      But President Trump is the **only** U.S. President in history to be
+      But President Trump is the**only** U.S. President in history to be
       impeached and facing removal from office WHILE running for reelection.
     _key: 9a41c05c8084
   - order: 2
-    body: "## How The Trial Compared\n\n* **WITNESSES:**\_**Unlike his predecessors**, the Senate voted not to hear from witnesses during Pres. Trump’s trial.\n* **OUTCOME:** Like his predecessors, Pres. Trump was acquitted. But, unlike his predecessors, **a member of his own party voted to convict him: Sen. Mitt Romney (R-UT).**\n* **ALSO:** First time **no one from** the opposing party voted with the President."
+    useCheckmark: false
+    body: "## How The Trial Compared\n\n* **WITNESSES:**\_**Unlike his predecessors**, the Senate voted not to hear from witnesses during Pres. Trump’s trial.\n* **OUTCOME:** Like his predecessors, Pres. Trump was acquitted. But, unlike his predecessors,**a member of his own party voted to convict him: Sen. Mitt Romney (R-UT).**\n* **ALSO:** First time**no one from** the opposing party voted with the President."
     _key: cf43b1d21e11
   - order: 3
+    useCheckmark: false
     body: >-
       _“Perhaps impeachment’s bitterness will fade, starting with members of the
       Senate pulling together…Or, perhaps it will help cement the capital’s
@@ -53,6 +57,7 @@ cards:
       divide becomes more entrenched.
     _key: 9d28075c8b42
   - order: 4
+    useCheckmark: true
     body: >-
       NYT columnist David Brooks wrote this after Pres. Trump's acquittal:
       "Instead of spending the past 3 years on Mueller and impeachment suppose

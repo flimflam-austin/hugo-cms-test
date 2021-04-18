@@ -20,11 +20,12 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## WHO WILL LEAD IRAQ?
 
 
-      > Iraq votes in **first major election** since the fall of ISIS. Results
+      > Iraq votes in**first major election** since the fall of ISIS. Results
       will determine  
 
       *new* Prime Minister.  
@@ -35,6 +36,7 @@ cards:
       Here's Why It Matters
     _key: card-1-7810ba48-b9bc-4de3-bf50-a00f7c49635a
   - order: 1
+    useCheckmark: false
     body: >-
       ## What’s At Stake
 
@@ -45,21 +47,23 @@ cards:
 
       * Who wins will determine future relationship of U.S. & Iraq.
 
-      * ISIS led to massive displacement of **diverse Iraqi population**. Next
+      * ISIS led to massive displacement of**diverse Iraqi population**. Next
       leader will have a major role in Iraq’s demographics & geography.
     _key: card-2-6baa7ed3-f797-461b-9eb5-1fca95c873e0
   - order: 2
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
 
-      * **RECORD LOW turnout at 44%**. Turnout usually approx. 60% _(that
-      roughly matches voter turnout in America’s 2016 presidential election_).
+      * **RECORD LOW turnout at 44%**. Turnout usually approx. 60%_(that roughly
+      matches voter turnout in America’s 2016 presidential election_).
 
-      * First election since the start of the Iraq war (2003) whereA **no
+      * First election since the start of the Iraq war (2003) whereA**no
       bombings were reported at ANY polling site**.
     _key: card-3-519ebcb8-b3f0-4c48-8dbb-f70a93a0d1f8
   - order: 3
+    useCheckmark: true
     body: >-
       No clear winner...yet. Once parliament is elected in Iraq (nearly 400
       seats), members have 3 months to form a government. A coalition of

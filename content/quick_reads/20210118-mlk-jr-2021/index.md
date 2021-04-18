@@ -19,6 +19,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“Let us rise up tonight with a greater readiness. Let us stand with a
       greater determination. And let us move on in these powerful days, these
@@ -27,6 +28,7 @@ cards:
     citation: MARTIN LUTHER KING JR.
     _key: 9d41c6f4fa52
   - order: 1
+    useCheckmark: true
     body: >-
       On the stormy night before he was killed, Martin Luther King Jr. addressed
       a church in Memphis, Tenn. in a speech “I’ve Been to the Mountaintop."

@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “By so many important measures, our world keeps getting better, and its
       one of the fantastic aspects of human nature that we humans never stop
@@ -32,6 +33,7 @@ cards:
       preschools in low income communities. Bezos is worth an est. $164B.
     _key: card-1-1ed0fbe4-d8b3-42b9-b3ed-a3ca336f6ff0
   - order: 1
+    useCheckmark: false
     body: >-
       > “Are we ready for the next crisis? In some respects, yes.”  
         
@@ -44,6 +46,7 @@ cards:
       worry our "defenses will erode over time."
     _key: card-2-5da69e4d-2931-420e-9084-efa397c144ed
   - order: 2
+    useCheckmark: false
     body: >-
       > “Do I believe she is dangerous? Yes, but not just to me. I believe that
       she is a danger and a threat to any vulnerable person in the community,
@@ -57,6 +60,7 @@ cards:
       so she'll be released next week.
     _key: card-3-475836b2-158b-4f7f-8935-347648e20bb4
   - order: 3
+    useCheckmark: false
     body: >-
       > “Water kills. 1 out of 4 deaths are associated with inland extreme
       rainfall with these systems. So if you’re inland from the coast and
@@ -73,6 +77,7 @@ cards:
     citation: Watch Now
     _key: card-4-1beb1e67-86aa-4b64-b56b-753ae091bee7
   - order: 4
+    useCheckmark: false
     body: >-
       > ‘We think of immigrants as being low-skilled workers from Latin America,
       but for recent arrivals that’s much less the case. People from Asia have
@@ -86,6 +91,7 @@ cards:
       highest level since 1910.
     _key: card-5-8a4e8372-8dae-495e-8bda-13e1981f9df7
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great weekend!
 

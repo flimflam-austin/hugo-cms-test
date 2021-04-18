@@ -20,18 +20,20 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## America’s high court weighs in on one of the most significant abortion
       law challenges in recent years.
     _key: a3ea98fa6025
   - order: 1
+    useCheckmark: false
     body: >-
       ## What To Know
 
 
       * U.S. Abortion Laws Vary By State
 
-      * 1973: Supreme Court legalized abortion **with limits**; a woman’s right
+      * 1973: Supreme Court legalized abortion**with limits**; a woman’s right
       to an abortion is *not* absolute. Abortion is legal in first trimester,
       but states can regulate and even outlaw at certain points in pregnancy,
       *unless* there is a threat to the health/life of mother.
@@ -40,38 +42,41 @@ cards:
       right of a woman to obtain an abortion.
     _key: 654d9e0ba519
   - order: 2
+    useCheckmark: false
     body: >-
       ## The 2020 Abortion Case
 
 
-      * A 2014 Louisiana law requires abortion providers to have **admitting
+      * A 2014 Louisiana law requires abortion providers to have**admitting
       privileges** at a hospital w/in 30 miles of abortion site. It never took
       effect b/c of lawsuits.
 
       * The Supreme Court struck down a nearly identical Texas law in 2016,
-      finding it imposed an **“undue burden.”**
+      finding it imposed an**“undue burden.”**
 
-      * Supporters of the law said it was meant to **protect** women.
+      * Supporters of the law said it was meant to**protect** women.
 
-      * Opponents of the law said it was meant to **limit access** to abortion.
+      * Opponents of the law said it was meant to**limit access** to abortion.
     _key: d14a834b0d55
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why The Case Matters
 
 
       * Although the facts of the case were similar to the 2016 Texas case, this
-      was the first abortion case for the Court with **Trump appointees** on the
+      was the first abortion case for the Court with**Trump appointees** on the
       bench.
 
       * The ruling comes just months before Americans passionate about the issue
-      will vote for **President** (the person who appoints Supreme Court
+      will vote for**President** (the person who appoints Supreme Court
       justices).
 
       * States like Arkansas, Alabama & Indiana were waiting on the ruling
-      before acting on **further laws** restricting abortion.
+      before acting on**further laws** restricting abortion.
     _key: 19de68541aea
   - order: 4
+    useCheckmark: false
     body: >-
       > “The Louisiana law imposes a burden on access to abortion just as severe
       as that imposed by the Texas law, for the same reasons. Therefore
@@ -85,6 +90,7 @@ cards:
       special circumstances.
     _key: 39900a3d3720
   - order: 5
+    useCheckmark: true
     body: >-
       We're watching several existing challenges to state abortion laws, like
       Alabama, but none have yet reached the Supreme Court for the next term

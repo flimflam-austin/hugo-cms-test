@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ROYAL WEDDING:  
 
@@ -35,18 +36,20 @@ cards:
     citation: Flip For More
     _key: card-1-5da2e567-c74e-4214-90d8-9ae11dad4f52
   - order: 1
+    useCheckmark: false
     body: >-
       The groom handpicked flowers from the private garden at Kensington Palace
       to add to his bride’s bouquet, which included:
 
 
-      * Forget-Me-Nots: **Princess Diana’s favorite flower**
+      * Forget-Me-Nots:**Princess Diana’s favorite flower**
 
       * Myrtle sprigs from stems plantedA by Queen Victoria in 1845 and a plant
       grown from the myrtle, which was also used in The Queen’s wedding bouquet
       in 1947
     _key: card-2-dbe1a855-c837-4b12-aa1e-bc546ba0bca6
   - order: 2
+    useCheckmark: false
     body: >-
       Princess Diana’s sister Lady Jane FellowesA gave the only ceremony reading
       – from the Song of Solomon.
@@ -59,6 +62,7 @@ cards:
       Kensington Palace statement (5/4/18)
     _key: card-3-f5e71580-2e0b-43e1-b9c5-47f82e1fd415
   - order: 3
+    useCheckmark: false
     body: >-
       The hymnA ‘**Guide Me, O Thy Great Redeemer**’, which was sung at the
       wedding, was also sung during Princess Diana’s 1997 funeral.
@@ -70,6 +74,7 @@ cards:
       wedding.
     _key: card-4-cff321a5-a53b-4cff-b6d3-6a73f8b17a22
   - order: 4
+    useCheckmark: true
     body: >-
       Many onlookers compared the Duchess’ monarch-length veil to Princess
       Diana’s veil from her 1981 wedding to Prince Charles. Unlike Diana's, hers

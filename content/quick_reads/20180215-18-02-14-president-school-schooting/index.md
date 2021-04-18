@@ -20,6 +20,7 @@ card_series: From the President's Desk
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Presidential Proclamation  
 
@@ -35,6 +36,7 @@ cards:
       Proclamation](https://www.whitehouse.gov/presidential-actions/presidential-proclamation-honoring-victims-tragedy-parkland-florida/)
     _key: card-1-d5573877-6772-4809-a9c3-95762b96a203
   - order: 1
+    useCheckmark: false
     body: >-
       ## Nationwide Address
 
@@ -56,6 +58,7 @@ cards:
       REMARKS](https://twitter.com/realDonaldTrump/status/964190995687591936)
     _key: card-2-2886917d-1844-4aca-98b5-eaad248fc27d
   - order: 2
+    useCheckmark: false
     body: >-
       > “My prayers and condolences to the families of the victims of the
       terrible Florida shooting. No child, teacher or anyone else should ever
@@ -69,8 +72,9 @@ cards:
       Flip Here
     _key: card-3-823445f1-6b04-47f0-a299-fe73e09cf132
   - order: 3
+    useCheckmark: false
     body: >-
-      _“On just Monday, Parkland, Florida,A was listedA as one of the **safest
+      _“On just Monday, Parkland, Florida,A was listedA as one of the**safest
       cities in the country**._
 
 
@@ -83,6 +87,7 @@ cards:
       Miami Herald
     _key: card-4-cd2bd64f-adc6-462e-8077-e7227fdbc931
   - order: 4
+    useCheckmark: false
     body: >-
       # Snapshot of America
 
@@ -104,6 +109,7 @@ cards:
       Data](https://www.neighborhoodscout.com/fl/parkland/demographics)
     _key: card-5-bd73265f-2cd9-4821-9257-7a0ef639ac46
   - order: 5
+    useCheckmark: true
     body: >-
       Find List For Other "Safest Cities" in America & More
 

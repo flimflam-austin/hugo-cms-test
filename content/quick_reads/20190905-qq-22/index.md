@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "If left to their own devices, if they have a bipartisan agreement, I
       will support it."  
@@ -32,6 +33,7 @@ cards:
       measures.
     _key: card-1-9e4e8a70-45c3-4a9d-b281-4adcd6122959
   - order: 1
+    useCheckmark: false
     body: >-
       > "You know what keeps me up at night? Measles is exquisitely contagious.
       If you have an under-vaccinated population, and you introduce a measles
@@ -44,6 +46,7 @@ cards:
       than 2 decades.
     _key: card-2-8716714f-0959-4947-b69a-554e493cc938
   - order: 2
+    useCheckmark: false
     body: >-
       > “For a long time people have tried to pose this or prop this up as a
       Republican issue, and we’re finding out today it’s a human issue.”
@@ -57,6 +60,7 @@ cards:
       charge he denies.
     _key: card-3-637c0371-f577-42e2-a5d9-37596c97dec0
   - order: 3
+    useCheckmark: false
     body: >-
       > "I was not consulted."
 
@@ -69,6 +73,7 @@ cards:
       isn't under pressure to leave by a certain date.
     _key: card-4-da4602e8-f3d0-4c65-99b4-5d1871b4f061
   - order: 4
+    useCheckmark: false
     body: >-
       > “I’ve been wondering what that special place in hell looks like, for
       those who promoted #Brexit, without even a sketch of a plan how to carry
@@ -82,6 +87,7 @@ cards:
       officials, including Tusk.
     _key: card-5-7224ef11-b43b-4a7f-8d6d-9441a08eae0b
   - order: 5
+    useCheckmark: false
     body: >-
       > “the lack of clarity… has kept the Oscars really in the conversation and
       the mystery has been really compelling. People really care."
@@ -93,6 +99,7 @@ cards:
       he withdrew amid a controversy over his old, homophobic tweets.
     _key: card-6-274283f8-cb5b-4e2a-8bff-648804dfae81
   - order: 6
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/qq-22/)'
     _key: card-10-0a4dc92d-c0bf-444c-854f-414c7ba455a5
 

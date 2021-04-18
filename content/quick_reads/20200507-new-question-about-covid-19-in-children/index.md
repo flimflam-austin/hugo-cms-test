@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ##   
         
@@ -30,6 +31,7 @@ cards:
       ##
     _key: 246eee0b5b10
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Backstory
 
@@ -46,6 +48,7 @@ cards:
       that causes inflammation), persistent fever.
     _key: 5c591a5021dc
   - order: 2
+    useCheckmark: false
     body: >-
       > “We want to reassure parents – this appears to be uncommon.”  
         
@@ -57,6 +60,7 @@ cards:
       may not test positive for COVID-19."
     _key: 1b1b091dc5c4
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -71,6 +75,7 @@ cards:
       otherwise healthy children.
     _key: 10373341ea61
   - order: 4
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
@@ -83,6 +88,7 @@ cards:
       tested positive for COVID-19, a small percentage of the 1M+ cases.
     _key: e6d568c86ecc
   - order: 5
+    useCheckmark: true
     body: >-
       For context - the 2019-2020 flu season was particularly deadly for
       children under the age of 4 (CDC reported 170 deaths), and had

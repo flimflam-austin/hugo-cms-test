@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“I was given an opportunity and sometimes that’s all you need to prove
       yourself.”_
     citation: SGT. MAJ. THOMAS PAYNE
     _key: d2172bc160ab
   - order: 1
+    useCheckmark: true
     body: >-
       Sgt. Maj. Thomas “Patrick” Payne received the nation's highest military
       honor for helping to rescue approx. 70 hostages from ISIS terrorists. He

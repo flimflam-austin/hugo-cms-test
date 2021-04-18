@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Impeachment Trial
 
@@ -28,6 +29,7 @@ cards:
       Who To Watch
     _key: 548526527ade
   - order: 1
+    useCheckmark: false
     body: >-
       ## *Keep In Mind*
 
@@ -43,19 +45,21 @@ cards:
       * **Two-thirds or 67 votes** are needed to remove (convict).
     _key: b8bb77866a81
   - order: 2
+    useCheckmark: false
     body: >-
       ## PRES. TRUMP’S TEAM
 
 
-      * Lawyers incl. **Ken Starr** (oversaw the investigation that led to Pres.
-      Clinton’s impeachment), **Alan Dershowitz** (famed defense atty), Pres.
+      * Lawyers incl.**Ken Starr** (oversaw the investigation that led to Pres.
+      Clinton’s impeachment),**Alan Dershowitz** (famed defense atty), Pres.
       Trump’s personal atty Jay Sekulow & White House counsel Pat Cipollone,
       among others.
 
       * Lawmakers include those active in the impeachment proceedings, such as
-      Reps. **Jim Jordan** (OH) and **Doug Collins** (GA).
+      Reps.**Jim Jordan** (OH) and**Doug Collins** (GA).
     _key: 2d955a42de0b
   - order: 3
+    useCheckmark: false
     body: >-
       ## THE HOUSE MANAGERS  
 
@@ -64,11 +68,11 @@ cards:
       **Democrats arguing for impeachment.**
 
 
-      * Intelligence Chair **Adam Schiff** (CA)
+      * Intelligence Chair**Adam Schiff** (CA)
 
       * Judiciary Chair Jerry Nadler (NY)
 
-      * Dem Caucus Chair **Hakeem Jeffries** (NY)
+      * Dem Caucus Chair**Hakeem Jeffries** (NY)
 
       * Sylvia Garcia (TX), a fmr. judge
 
@@ -80,6 +84,7 @@ cards:
       Presidents Richard Nixon & Bill Clinton
     _key: 87966c36f5a9
   - order: 4
+    useCheckmark: false
     body: >-
       ## Who To Watch:  
 
@@ -100,6 +105,7 @@ cards:
       * **Lisa Murkowski** (AK)
     _key: 79515d19d581
   - order: 5
+    useCheckmark: false
     body: >-
       ## Who To Watch:  
 
@@ -122,6 +128,7 @@ cards:
       lines:** Doug Jones (AL) & Joe Manchin (WV)
     _key: e7ccfde64921
   - order: 6
+    useCheckmark: true
     body: >-
       WHO YOU WON'T SEE IN THE COMING DAYS: Witnesses - at least not yet. On the
       first day of the trial, the Senate Republicans blocked attempts by Senate

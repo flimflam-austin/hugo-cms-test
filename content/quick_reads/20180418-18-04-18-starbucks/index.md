@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Starbucks Shutdown
 
@@ -27,7 +28,7 @@ cards:
       **Racial-bias Training After Arrests Spark Outrage.**
 
 
-      All Starbucks stores will close the Tuesday after Memorial Day wkd **for
+      All Starbucks stores will close the Tuesday after Memorial Day wkd**for
       several hours** after protests in Philly get national attention.
 
 
@@ -38,6 +39,7 @@ cards:
     citation: Flip For Why
     _key: card-1-1d3f6ed2-66c7-4f1e-94e9-1874fd7b9e8a
   - order: 1
+    useCheckmark: false
     body: >-
       # Patron or Tresspasser?
 
@@ -55,6 +57,7 @@ cards:
     citation: 'Click: Video'
     _key: card-2-832426f2-b099-47e6-820e-a2d5c5963ac8
   - order: 2
+    useCheckmark: false
     body: >-
       ## Event Timeline
 
@@ -76,6 +79,7 @@ cards:
     citation: Watch Now
     _key: card-3-dfafda71-d1d5-4619-957e-80878fe7bfda
   - order: 3
+    useCheckmark: false
     body: |-
       TUESDAY MAY 29TH
 
@@ -83,13 +87,14 @@ cards:
 
       ## STARBUCKS SHUTDOWN
 
-      Stores will close for a few hours **NOT the entire day** for training.
+      Stores will close for a few hours**NOT the entire day** for training.
 
       Est. say this will cost Starbucks approx. $12M
 
       Did you know that Starbucks makes about $61M a day?
     _key: card-4-03770710-3c34-45c7-bed5-57d0846be9d8
   - order: 4
+    useCheckmark: true
     body: >-
       Back in 2008, Starbucks shut 7,100 of its US locations for 3 hours. But
       that training "focused more on making the perfect latte as the company

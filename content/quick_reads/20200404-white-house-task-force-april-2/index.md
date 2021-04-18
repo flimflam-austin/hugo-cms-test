@@ -20,6 +20,7 @@ card_series: what to know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # White House  
       COVID-19 Task Force
@@ -27,6 +28,7 @@ cards:
       WHAT WE LEARNED TODAY
     _key: 2c4b18c4ec54
   - order: 1
+    useCheckmark: false
     body: >-
       > “The number of positive tests is tracking very closely with the numbers
       of cases diagnosed.”
@@ -38,6 +40,7 @@ cards:
       says she is still missing 50% of data reporting from test results.
     _key: 8ec44445c582
   - order: 2
+    useCheckmark: false
     body: >-
       “I have family in New York. My sister is a nurse practioner in a
       Westchester hospital. And my niece is a nurse on a Long Island hospital…I
@@ -49,6 +52,7 @@ cards:
       to NY.
     _key: 3267730a3600
   - order: 3
+    useCheckmark: false
     body: >-
       > “I’m assuring American public now…if we have your information, you’ll
       get it within two weeks.”
@@ -61,6 +65,7 @@ cards:
       announced web portal will help citizens update their information.
     _key: 8a2ca996a195
   - order: 4
+    useCheckmark: true
     body: >-
       "We're asking everyone to apply what works" - Dr. Birx on social
       distancing.

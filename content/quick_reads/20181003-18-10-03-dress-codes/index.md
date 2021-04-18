@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Trend To Watch:
 
@@ -34,30 +35,33 @@ cards:
       Helpful or hurtful?
     _key: card-1-3e9fdfc4-2742-405a-a015-5c2b6a2c6fa3
   - order: 1
+    useCheckmark: false
     body: >-
       ## Dressed To Suppress?
 
 
-      * In the last 20 years public schoolsA requiring **uniforms jumped from
-      12% to 21%;**A about half of publicA schools enforce a strict dress code.
+      * In the last 20 years public schoolsA requiring**uniforms jumped from 12%
+      to 21%;**A about half of publicA schools enforce a strict dress code.
 
-      * More recently, schools in **CA, OR, and IL**A adopted more “**femaleA
+      * More recently, schools in**CA, OR, and IL**A adopted more “**femaleA
       friendly**” dress codes, inspired by theA National Organization for Women
       (NOW).
     _key: card-2-2742d96b-f3b5-4663-a038-8e598aaf6d7f
   - order: 2
+    useCheckmark: false
     body: >-
       ## WHY?
 
 
       * School districts following NOW’s guidance say they want to avoid
       inequitable & unnecessary disciplinary measures affecting girls
-      disproportionately; **more girls got in trouble than boys.**
+      disproportionately;**more girls got in trouble than boys.**
 
       * CA’s Alameda school district is the latest to adopt a dress code that
       allows items once deemed “too distracting” (ex: short shorts, & midriffs).
     _key: card-3-3d5ada0d-d034-4dd0-ba9f-b897ed188867
   - order: 3
+    useCheckmark: false
     body: >-
       > “because more of the policy was focused on girls’ clothing than boys,
       girls were being sent out of the classroom for infractions more often than
@@ -69,6 +73,7 @@ cards:
       depending on a student's particular body type (body shaming).
     _key: card-4-5dd44b29-85e1-4fca-8a06-e591e6ee9a3e
   - order: 4
+    useCheckmark: false
     body: >-
       > “It’s good not to punish girls for being distractions. I fully, fully
       get that. …. But I think it’s extraordinarily misled.”  
@@ -80,6 +85,7 @@ cards:
       inappropriately with no accountability.
     _key: card-5-ef7a07b7-d345-4d46-b3a4-3d854c5d14a1
   - order: 5
+    useCheckmark: true
     body: >-
       Businesses nationwide are also revamping their dress codes to embrace a
       more "gender neutral" approach to avoid gender-based dress codes,

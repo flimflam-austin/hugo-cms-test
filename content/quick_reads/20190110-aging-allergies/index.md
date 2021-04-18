@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## ALLERGIES & AGING
 
@@ -36,21 +37,23 @@ cards:
       What Are The Facts?
     _key: card-1-a1fee57d-6452-4e1b-bae2-b94e74913534
   - order: 1
+    useCheckmark: false
     body: >-
       # FOOD ALLERGY 101
 
 
       * More than 160 foods cause allergic reactions.
 
-      * Food allergies are anA **immune system** response. They can be managed
-      by avoiding the allergen, but **NEVER cured**.
+      * Food allergies are anA**immune system** response. They can be managed by
+      avoiding the allergen, but**NEVER cured**.
 
       * Symptoms range from mild (hives) to life-threatening (anaphylaxis).
 
-      * Approx. **5% of U.S. children** have a food allergy vs. approx.A **10%
-      of adults (26M).**
+      * Approx.**5% of U.S. children** have a food allergy vs. approx.A**10% of
+      adults (26M).**
     _key: card-2-fd262b7d-d4a3-45b2-b934-aa7897c93e59
   - order: 2
+    useCheckmark: false
     body: >-
       # About The Study
 
@@ -59,15 +62,16 @@ cards:
       2-year period. The findings:
 
 
-      * Approx. 50% of adults with a food allergy developed it **later in
+      * Approx. 50% of adults with a food allergy developed it**later in
       life.A**
 
-      * Adult-onset food allergies were **equally common** in those with &
+      * Adult-onset food allergies were**equally common** in those with &
       without a childhood food allergy.
 
-      * Only half of adults with a “food allergy” had an **official diagnosis**.
+      * Only half of adults with a “food allergy” had an**official diagnosis**.
     _key: card-3-2e1ba9e4-5507-4139-8b13-de29f022c8c5
   - order: 3
+    useCheckmark: false
     body: >-
       # Allergy v. Intolerance
 
@@ -80,6 +84,7 @@ cards:
       Why do allergies start in adulthood? No one knows.
     _key: card-4-4e50595e-fd14-465f-b762-017f61beb18b
   - order: 4
+    useCheckmark: false
     body: |-
       ## Most Common Food Allergies in America
 
@@ -94,6 +99,7 @@ cards:
       * Sesame
     _key: card-5-522d3921-92d8-40a0-8256-001e6ffe8049
   - order: 5
+    useCheckmark: true
     body: >-
       Of the 26 million U.S. adult with a food allergy, 12 million developed the
       allergy as adults. The most common adult-onset food allergies are

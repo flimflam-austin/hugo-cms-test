@@ -16,6 +16,7 @@ card_series: Money
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Apple’s Trillion Dollar Day
 
@@ -33,6 +34,7 @@ cards:
       Why $1T?
     _key: card-1-3439a9e2-f122-4394-baa2-8c1f384dce5f
   - order: 1
+    useCheckmark: false
     body: >-
       ## iPhone Center Stage
 
@@ -48,6 +50,7 @@ cards:
       of concerns re: iPhone sales.
     _key: card-2-f14402ee-2c29-444f-868b-391c484253cf
   - order: 2
+    useCheckmark: false
     body: >-
       # What’s Next?
 
@@ -61,6 +64,7 @@ cards:
       higher, which would lift its market cap OVER $1T.
     _key: card-3-3168f5ff-d55d-42b1-8567-bdcdcfc5f078
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why $1T Ain’t Everything
 
@@ -73,6 +77,7 @@ cards:
       iPhone sales slow now, its CURRENT customer base has great value.
     _key: card-4-6dc4434f-a4b0-4cad-87bf-74c6a37b7acc
   - order: 4
+    useCheckmark: true
     body: >-
       Food for thought: Apple makes many of its products in China, where trade
       tensions run high w/U.S. re: tariffs. One commentator says companies with

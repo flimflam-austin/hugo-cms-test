@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--default'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # March 30, 1981
 
@@ -37,6 +38,7 @@ cards:
     citation: Watch Now
     _key: card-1-4cc4c1d2-4982-4ed2-99d3-84265ff6d42b
   - order: 1
+    useCheckmark: false
     body: >-
       ## 6 Shots Fired; 4 Men Shot
 
@@ -53,6 +55,7 @@ cards:
       head, leaving him partially paralyzed & in a wheelchair.
     _key: card-2-fd45345b-f8ad-44a6-8e6b-e4930f8a5685
   - order: 2
+    useCheckmark: false
     body: >-
       ## “The verdict of not guilty by reason of insanity was a bad verdict.”
 
@@ -65,6 +68,7 @@ cards:
       hospital where he lived for decades said he was no longer a threat.
     _key: card-3-d042f5db-78d5-4ec3-b95a-1cabbce88d3f
   - order: 3
+    useCheckmark: false
     body: >-
       ## Jim Brady’s Lasting Legacy
 
@@ -79,6 +83,7 @@ cards:
       potential gun buyers.
     _key: card-4-d5ce7557-c6ac-4119-93b2-de0d61148f6a
   - order: 4
+    useCheckmark: true
     body: >-
       In 2014, when James Brady died his death was ruled a homicide because he
       died as a result of the injuries he sustained 33 years earlier when he was

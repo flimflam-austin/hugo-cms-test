@@ -20,6 +20,7 @@ card_series: Podcast
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       The True Story Behind  
 
@@ -30,6 +31,7 @@ cards:
       Listen](http://smarthernews.libsyn.com/smarther-news-ep13-the-true-story-behind-the-miracle-on-market)
     _key: card-1-0dcaeee5-5e4c-4470-a761-30df9e9ac05c
   - order: 1
+    useCheckmark: true
     body: >-
       3 years ago, Gianna Masciantonio, suffering from a terrible brain tumor,
       was kissed by Pope Francis on Market Street in Philadelphia. Weeks later,

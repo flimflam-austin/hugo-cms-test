@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## The Great Straw Debate
 
@@ -30,6 +31,7 @@ cards:
       Why Now?
     _key: card-1-d48fcc8d-4f9b-41d7-aa39-19e9cb1916be
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why Hate On Straws?
 
@@ -46,11 +48,12 @@ cards:
       Flip: What Impact?
     _key: card-2-36f439e8-242a-40dd-b3b8-b8cde914e3fb
   - order: 2
+    useCheckmark: false
     body: >-
       ## Impact? Data Debate
 
 
-      * You’ll see this number A LOT: **Americans use an est. 500,000,000 straws
+      * You’ll see this number A LOT:**Americans use an est. 500,000,000 straws
       a day** (that would mean every single American uses more than 1 straw a
       day).
 
@@ -60,6 +63,7 @@ cards:
       #1 for pollution.
     _key: card-3-9381a4c2-0843-4e4d-9d7f-d87fbc45c429
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Last Straw?
 
@@ -67,13 +71,14 @@ cards:
       * Straw ban part of renewed focus on reducing plastic in the ocean. 60-80%
       of all marine debris is composed of plastic: WCS.
 
-      * Study looking at efficacy of general plastic bans says **initial results
-      encouraging,** but **more research needed**.
+      * Study looking at efficacy of general plastic bans says**initial results
+      encouraging,** but**more research needed**.
 
       * Other study: fishing gear, balloons & plastic bags = biggest threat to
       ocean life, doesn’t name straws.
     _key: card-4-e3fa7307-5061-47cc-93af-abd302d44b71
   - order: 4
+    useCheckmark: true
     body: >-
       The patent for the first straw was approved in 1888, but a patent for
       "drinking tubes" for disabled Americans came before that - another

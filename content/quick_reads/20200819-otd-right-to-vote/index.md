@@ -18,6 +18,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # 100 Years Ago Today
 
@@ -28,6 +29,7 @@ cards:
       A look back in U.S. history at WHO got the right & WHEN
     _key: 8c06ae420054
   - order: 1
+    useCheckmark: false
     body: >-
       ## 1776: America’s Beginnings
 
@@ -43,6 +45,7 @@ cards:
       legislation in 1957.
     _key: 4b7ada53e621
   - order: 2
+    useCheckmark: false
     body: >-
       ## 1870: Post Civil War
 
@@ -58,6 +61,7 @@ cards:
       taxes).
     _key: f7af27684ac8
   - order: 3
+    useCheckmark: false
     body: >-
       ## 1920: Women
 
@@ -72,6 +76,7 @@ cards:
       all women the right to vote in 1893.
     _key: 23c91aea2c22
   - order: 4
+    useCheckmark: false
     body: >-
       ## 1924: Native Americans
 
@@ -86,6 +91,7 @@ cards:
       voting rights.
     _key: a07aba52e1b1
   - order: 5
+    useCheckmark: false
     body: >-
       ## 1950s and 1960s:  
 
@@ -103,6 +109,7 @@ cards:
       time.
     _key: 9bf823f60282
   - order: 6
+    useCheckmark: true
     body: >-
       DID YOU KNOW? It wasn't until the passage of the 23rd Amendment in 1961
       that DC residents were allowed to vote in presidential elections. Ten

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # The State of Our Union
 
@@ -34,11 +35,12 @@ cards:
       Highlights
     _key: card-1-30e6aca6-2db9-4868-a81f-4942c03777e0
   - order: 1
+    useCheckmark: false
     body: >-
       ## “American Greatness”
 
 
-      Speech began & ended with theme ofA **American greatness** in different
+      Speech began & ended with theme ofA**American greatness** in different
       forms, from WWII heroes to astronauts landing on the moon (featuring
       Americans who did both in the audience).
 
@@ -47,6 +49,7 @@ cards:
       Republicans to cheer, about the nation & economy.
     _key: card-2-4f4e889f-4694-49e9-8d5f-f9265f08f1cc
   - order: 2
+    useCheckmark: false
     body: >-
       “We can bridge all divisions, heal old wounds, build new coalitions, forge
       new solutions, and unlock the extraordinary promise of America’s future.
@@ -59,6 +62,7 @@ cards:
       Pres. Trump delivered speech one week delayed due to gov't shutdown.
     _key: card-3-c8cde9d4-a5f5-4309-8f8e-cf729d296e72
   - order: 3
+    useCheckmark: false
     body: >-
       ## DOMESTIC ISSUES:
 
@@ -74,6 +78,7 @@ cards:
       drugs to lower prices
     _key: card-4-c41a79dd-8f83-46af-890f-d547ad98c26c
   - order: 4
+    useCheckmark: false
     body: >-
       ## FOREIGN AFFAIRS:
 
@@ -83,11 +88,12 @@ cards:
       * **Russia:** Will either renegotiate or breakA U.S. Cold War-era nuclear
       arms treaty with Russia OR importantly, add China.
 
-      * **Syria & Afghanistan**: _“Great nations do not fight endless wars.”A_
-      President says U.S. negotiating with _“a number of Afghan groups, incl.
-      the Taliban.”_
+      * **Syria & Afghanistan**:_“Great nations do not fight endless wars.”A_
+      President says U.S. negotiating with_“a number of Afghan groups, incl. the
+      Taliban.”_
     _key: card-5-66b6d91e-69cb-4a7f-a0af-915f11595408
   - order: 5
+    useCheckmark: false
     body: >-
       ## Lighter Moments of Note:
 
@@ -101,6 +107,7 @@ cards:
       employment & representation in gov’t.
     _key: card-6-9ea09c18-a3f4-4a67-87c6-f1e35d13022e
   - order: 6
+    useCheckmark: false
     body: >-
       ## Democrat Response
 
@@ -114,21 +121,23 @@ cards:
       African-American woman to deliver the State of the Union response.
     _key: card-7-3c309e23-9a46-4e10-9a57-4bd834b13def
   - order: 7
+    useCheckmark: false
     body: >-
       ## Where Both Sides Agree:
 
 
-      President Trump: _“America is winning each and every day…**the state of
-      our union is strong**.”_
+      President Trump:_“America is winning each and every day…**the state of our
+      union is strong**.”_
 
 
-      Stacey Abrams: _“America wins by fighting for our shared values…**the
-      State of our Union will always be strong**.”_
+      Stacey Abrams:_“America wins by fighting for our shared values…**the State
+      of our Union will always be strong**.”_
 
 
       _Both ended with a version of “Thank You” & “God Bless America.”_
     _key: card-8-44581f02-3356-4469-8b0a-2240337eda56
   - order: 8
+    useCheckmark: true
     body: >-
       Last year around 46M Americans watched the State of the Union. For
       Context: Approx. 100M Americans watched the Super Bowl. Republicans

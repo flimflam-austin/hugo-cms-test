@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Catch-Up: North Korea
 
@@ -35,6 +36,7 @@ cards:
     citation: Flip For how we got here
     _key: card-1-fe2764a0-3d15-4bbe-95a3-fbf343234c61
   - order: 1
+    useCheckmark: false
     body: >-
       ## North Korea & Sanctions
 
@@ -49,6 +51,7 @@ cards:
       debate this description.
     _key: card-2-72ab7447-022d-4042-aeac-2b9aab9f33a4
   - order: 2
+    useCheckmark: false
     body: >-
       # Timing Matters
 
@@ -65,6 +68,7 @@ cards:
       * USA demands total denuclearization of North Korea.
     _key: card-3-dc39b172-3897-432b-a940-e8c7b6c8b174
   - order: 3
+    useCheckmark: false
     body: >-
       Sanctions Target?  
 
@@ -79,6 +83,7 @@ cards:
       Treasury Secretary Steven Mnuchin, Feb 23, 2018
     _key: card-4-f411feac-0a1a-45f1-bda9-5c32666813a3
   - order: 4
+    useCheckmark: true
     body: >-
       Will sanctions work this time? If past is precedent, North Korea will
       continue to grow its weapons program despite international pressure.

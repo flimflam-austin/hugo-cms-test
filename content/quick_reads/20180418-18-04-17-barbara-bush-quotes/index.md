@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # “Find The Joy In Life”
 
       > Quotes to Learn From & Live By: Barbara Bush
     _key: card-1-ded9e5e1-3690-4c31-b848-21ae3584403e
   - order: 1
+    useCheckmark: false
     body: >-
       > “At the end of your life, you will never regret not having passed one
       more test, not winning one more verdict or not closing one more deal. You
@@ -42,6 +44,7 @@ cards:
     citation: Watch Now
     _key: card-2-e8c9a7c7-cd06-4a8d-bdf9-c9cba8d9f09d
   - order: 2
+    useCheckmark: false
     body: >-
       > ‘I was combing her hair and holding her hand. I saw that little body, I
       saw her spirit go…Robin to me is a joy. She’s like an angel to me; she’s
@@ -54,6 +57,7 @@ cards:
       years later.
     _key: card-3-85083782-24e4-48d3-b1c9-757bddf18dd7
   - order: 3
+    useCheckmark: false
     body: >-
       > “I married the first man I ever kissed. When I tell this to my children,
       they just about throw up.”  
@@ -65,6 +69,7 @@ cards:
       couple in presidential history.
     _key: card-4-2bed6989-cef7-418b-8033-74a1a3b53fea
   - order: 4
+    useCheckmark: false
     body: >-
       > “I think a lot of our problems are because people don’t listen to our
       children. And it’s not always easy – they’re not always so brilliant that
@@ -77,6 +82,7 @@ cards:
       to children.
     _key: card-5-0902d1b3-010e-477c-a58d-9f3d13c08ded
   - order: 5
+    useCheckmark: false
     body: >-
       > “Your success as a family, our success as a society, depends not on what
       happens in the White House, but on what happens inside your house.”  
@@ -86,6 +92,7 @@ cards:
       Barbara Bush, 1990, Commencement Address, Wellesley College
     _key: card-6-941fd732-3b02-4972-9b64-310bdbccee66
   - order: 6
+    useCheckmark: true
     body: >-
       "I know there is a great God, and I'm not worried." Barbara Bush to C-SPAN
       2013

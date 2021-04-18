@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Lady Liberty Arrives
 
@@ -32,11 +33,12 @@ cards:
       Ellis Island opened.
     _key: card-1-2ce9fe70-b3ec-4056-b73f-e3872df6d071
   - order: 1
+    useCheckmark: false
     body: >-
       ## How Did Liberty Arrive?
 
 
-      * **350** separate pieces; **214** crates.
+      * **350** separate pieces;**214** crates.
 
       * **A decade late**. France wanted to gift “Liberty Enlightening the
       World” for the centennial of the Declaration of Independence (1776). Lack
@@ -51,20 +53,22 @@ cards:
       [Click Here: Newspaper](https://www.loc.gov/resource/cph.3b08482/)
     _key: card-2-b3f5dfb6-7a9e-4254-b660-734e7c8bafc4
   - order: 2
+    useCheckmark: false
     body: >-
       ## Liberty & Immigration
 
 
-      * Statue of Liberty fully constructed in **1886**; immigration wasn’t sole
+      * Statue of Liberty fully constructed in**1886**; immigration wasn’t sole
       focus of statue, but celebration of American democracy overall.
 
-      * Ellis Island Immigration Station opened in **1892**.
+      * Ellis Island Immigration Station opened in**1892**.
 
-      * Famous Lazarus poem “_Give me your tired, your poor_” written in
-      **1883** to raise funds for the statue**;** engraved on base 20 years
-      later in **1903**.
+      * Famous Lazarus poem “_Give me your tired, your poor_” written in**1883**
+      to raise funds for the statue**;** engraved on base 20 years later
+      in**1903**.
     _key: card-3-c56bfe42-c147-4d42-9eb6-e6340231f109
   - order: 3
+    useCheckmark: true
     body: >-
       "Here at our sea-washed, sunset gates shall stand/ A mighty woman with a
       torch, whose flame/ Is the imprisoned lightning, and her name/ Mother of

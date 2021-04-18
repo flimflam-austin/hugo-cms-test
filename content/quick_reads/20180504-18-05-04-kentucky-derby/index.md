@@ -20,6 +20,7 @@ card_series: Sports
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # RUN FOR THE ROSES
 
@@ -28,13 +29,14 @@ cards:
 
 
       It’s “**the most exciting two minutes in sports**” and even if you’re just
-      in it forA **hats & mint juleps** here’s the scoop on the **oldest
-      sporting event in American history**.
+      in it forA**hats & mint juleps** here’s the scoop on the**oldest sporting
+      event in American history**.
 
 
       FLIP: GIDDY UP!
     _key: card-1-6c402cb0-66ee-42f9-9161-c6218920d34b
   - order: 1
+    useCheckmark: false
     body: >-
       ## THE TRADITIONS
 
@@ -52,6 +54,7 @@ cards:
       **Rain or shine:** No Derby has ever been postponed.
     _key: card-2-5b0e1c5d-d397-45b8-97b9-4b3040d8af9f
   - order: 2
+    useCheckmark: false
     body: >-
       # 20 Thoroughbreds Race 1.25 Miles
 
@@ -66,9 +69,10 @@ cards:
       * **Magnum Moon:**A Undefeated in 4 starts this year.
 
       * **Fun fact:** 19 Derby winners’ names began with “S” – only one this
-      year is long-shot **Solomoni.A**
+      year is long-shot**Solomoni.A**
     _key: card-3-ae1cf380-030d-439a-a11a-133fcbe92e04
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why the Crazy Names?
 
@@ -80,13 +84,14 @@ cards:
       person w/o permission.
 
 
-      Each year, **one-third of 60K names submitted are rejected**.
+      Each year,**one-third of 60K names submitted are rejected**.
 
 
       [Got a name? Check if it's been used
       here.](https://www.registry.jockeyclub.com/registry.cfm?page=namesrch&search=)
     _key: card-4-63be0756-56ba-4835-abe6-2544e9301c34
   - order: 4
+    useCheckmark: false
     body: >-
       ## DERBY DETAILS
 
@@ -102,6 +107,7 @@ cards:
     citation: 'CLICK: GET DERBY READY'
     _key: card-5-359f0cb5-ece3-487c-9f9c-90f322c3ea5d
   - order: 5
+    useCheckmark: true
     body: >-
       Each year at the Kentucky Derby, almost 120,000 Mint Juleps are served.
       Get inspired & make them at home with the Derby's official recipe here:

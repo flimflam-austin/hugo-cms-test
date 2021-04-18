@@ -20,10 +20,11 @@ card_series: Entertainment
 colorpaletteclassname: '--black'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       James Dean  
 
-      Jacket Up For Auction 
+      Jacket Up For Auction
 
 
       ## Expected To Fetch Up To $600,000
@@ -36,6 +37,7 @@ cards:
       Learn More
     _key: card-1-ab323cef-bc5a-42ca-a4a9-cccce274a660
   - order: 1
+    useCheckmark: false
     body: >-
       # Expensive Taste
 
@@ -51,6 +53,7 @@ cards:
       More About James Dean
     _key: card-2-b8d49919-1272-46c8-b13c-76d4ad82036b
   - order: 2
+    useCheckmark: false
     body: >-
       # Rebel Without A Cause
 
@@ -62,7 +65,7 @@ cards:
 
       * Only film Dean received top billing (He starred in just 3 films).
 
-      * In 1990, _Rebel Without a Cause_ was added to the Library of Congress’s
+      * In 1990,_Rebel Without a Cause_ was added to the Library of Congress’s
       National Film Registry.
 
 
@@ -70,6 +73,7 @@ cards:
       Now](https://www.youtube.com/embed/wXRgAXU1-T4?enablejsapi=1&autoplay=1&rel=0)
     _key: card-3-95a0a845-1d07-4dc4-a681-2fabd9a271d9
   - order: 3
+    useCheckmark: false
     body: |-
       # James Dean
 
@@ -82,6 +86,7 @@ cards:
       [Click For Festival Info](http://www.jamesdeangallery.com/events)
     _key: card-4-fed56a5c-1817-4199-92cc-4d0b172c8a41
   - order: 4
+    useCheckmark: true
     body: |-
       How Much Would You Pay?
 

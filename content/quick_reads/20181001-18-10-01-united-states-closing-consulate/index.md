@@ -20,24 +20,26 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “Ordered Departure”
 
 
-      America evacuated a consulate in **Iraq**…. And it has everything to do
-      with **Iran**.
+      America evacuated a consulate in**Iraq**…. And it has everything to do
+      with**Iran**.
 
 
       Why It Matters
     _key: card-1-3c8ee725-428b-4d65-970c-288c7142aa88
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Basics
 
 
-      A “_While the United States has only **one embassy** and **one
-      ambassador** in the capital of any foreign country, in large countries it
-      may have several consulates.”_ (U.S. State Dept)
+      A “_While the United States has only**one embassy** and**one ambassador**
+      in the capital of any foreign country, in large countries it may have
+      several consulates.”_ (U.S. State Dept)
 
 
       America maintains its embassy in Baghdad while the consulate in Basra
@@ -47,21 +49,23 @@ cards:
       WHY NOW?
     _key: card-2-acb90610-d332-4036-98d6-1b7b11e92f22
   - order: 2
+    useCheckmark: false
     body: >-
       ## Protests & Threats
 
 
       * Public protests vs. Iraqi gov’t have raged in Basra -A an oil rich
-      region where Iraqi citizens don’t often have electricity or clean water.
-      **BasraA** **shares border with Iran**.
+      region where Iraqi citizens don’t often have electricity or clean
+      water.**BasraA****shares border with Iran**.
 
       * Protesters set fire to the Iranian consulate; Iran has close
       relationship with Iraqi gov’t.
 
       * Iran blamed U.S. for protests & fired rockets at consulate (no one was
-      injured) as recently as **Friday**.
+      injured) as recently as**Friday**.
     _key: card-3-5b7dd940-48c1-4a7b-8a23-bf245631b9d6
   - order: 3
+    useCheckmark: false
     body: >-
       > “I have made clear that Iran should understand that the United States
       will respond promptly and appropriately to any such attacks.”  
@@ -72,6 +76,7 @@ cards:
       last several weeks in Basra and Baghdad.
     _key: card-4-524c0450-a771-4087-8f47-918a8ed7100e
   - order: 4
+    useCheckmark: false
     body: >-
       ## Big Picture: Tensions High
 
@@ -86,6 +91,7 @@ cards:
       * Both countries threatening each other.
     _key: card-5-ba729dbe-c000-41df-ad8e-bb6c8ebd5948
   - order: 5
+    useCheckmark: true
     body: >-
       Iran's close relationship with the Iraqi gov't raises questions about
       future U.S. diplomatic missions inside Iraq, where 4,400+ U.S. soldiers

@@ -20,18 +20,20 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Dangerous Duo:
 
         
-      North Korea & Syria **North Korea** shipping chemical weapon supplies to
-      **Syrian** government, according to a United Nations report reviewed
+      North Korea & Syria**North Korea** shipping chemical weapon supplies
+      to**Syrian** government, according to a United Nations report reviewed
       exclusively by the New York Times.
 
 
       Flip For More From NYT
     _key: card-1-71d760fb-b2fa-409c-93a9-4acd26a9d106
   - order: 1
+    useCheckmark: false
     body: >-
       ## What NYT Reports
 
@@ -46,6 +48,7 @@ cards:
       * Dozens of black market shipments: 2012-2017
     _key: card-2-aae89303-457e-47cd-b911-7c45ab87bfda
   - order: 2
+    useCheckmark: false
     body: >-
       ## What You Should Know:
 
@@ -66,6 +69,7 @@ cards:
       Flip For History
     _key: card-3-b479bf0b-78d0-4120-ba1b-f32a8852b9f3
   - order: 3
+    useCheckmark: false
     body: >-
       Context:  
 
@@ -80,6 +84,7 @@ cards:
       stockpile dating back to the 1990s.
     _key: card-4-e67b7169-cfd5-4fbe-ba84-d34d2b2ea6de
   - order: 4
+    useCheckmark: false
     body: >-
       ## Public Reaction To Report
 
@@ -92,6 +97,7 @@ cards:
       briefing.
     _key: card-5-fc16d6bf-9a9f-4f0d-866d-d518b86bc87a
   - order: 5
+    useCheckmark: true
     body: >-
       Timing: America levied serious sanctions against North Korea shipping
       companies last Friday. Also reminder: President Assad agreed to ‘destroy’

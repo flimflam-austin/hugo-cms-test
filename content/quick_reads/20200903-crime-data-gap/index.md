@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # How Often Do Police & Citizens Clash?
 
@@ -28,6 +29,7 @@ cards:
       Here’s why.
     _key: 3186af76efdd
   - order: 1
+    useCheckmark: false
     body: >-
       ## DID YOU KNOW?  
         
@@ -40,23 +42,25 @@ cards:
       ***voluntarily*** report data to the federal government.
 
       * This includes incidents when U.S. residents attack law enforcement, as
-      well as **“use-of-force”** incidents by law enforcement officers against
+      well as**“use-of-force”** incidents by law enforcement officers against
       residents.
     _key: 90e0ddd28752
   - order: 2
+    useCheckmark: false
     body: >-
       ## What Is “Use Of Force”?
 
 
       * FBI defines a “**use-of-force**” incident as one that occurs when an
-      officer **discharges** their firearm or takes another action that results
-      in someone’s **death** or “serious bodily injury.”
+      officer**discharges** their firearm or takes another action that results
+      in someone’s**death** or “serious bodily injury.”
 
       * **Serious bodily injury** = “substantial risk of death, unconsciousness,
       protracted and obvious disfigurement, or protracted loss or impairment of
       the function of a bodily member, organ, or mental faculty.”
     _key: 0ed340bd730d
   - order: 3
+    useCheckmark: false
     body: >-
       ## BETTER DATA TO COME?
 
@@ -77,11 +81,12 @@ cards:
       * Whether officer was injured
     _key: d647b00fb9e5
   - order: 4
+    useCheckmark: false
     body: >-
       ## What Data Do We Have?
 
 
-      Federal, state, local & tribal law enforcement agencies representing **41%
+      Federal, state, local & tribal law enforcement agencies representing**41%
       of America’s sworn officers provided “use-of-force” data to the FBI in
       2019.**
 
@@ -91,12 +96,13 @@ cards:
       nonprofits & others, some with political bias/funding.
     _key: 6e396c53cc59
   - order: 5
+    useCheckmark: false
     body: >-
       ## What Did The Data Say?
 
 
       * In 2019, more than 5,000 of the more than 18,500 federal, state, local,
-      and tribal law enforcement agencies nationwide reported **790 use-of-force
+      and tribal law enforcement agencies nationwide reported**790 use-of-force
       instances.**
 
       * We won’t publicly know more details about the incidents (like race or
@@ -105,6 +111,7 @@ cards:
       way.
     _key: a6f8333cb7aa
   - order: 6
+    useCheckmark: true
     body: "In light of the recent police shooting of Kenosha, Wisconsin, many may ask about clashes between police & citizens and vice-versa. The FBI collects annual data on incidents in which law enforcement officers are killed or assaulted in the line of duty.\_33 officers have been fatally wounded in 2020 as of Sept. 1."
     citation: VIEW SOURCES
     _key: 20340ad174aa

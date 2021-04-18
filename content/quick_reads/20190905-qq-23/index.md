@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "It gives us hope that this history will be sustained and improved upon
       and captured and passed on from generation to generation."
@@ -33,6 +34,7 @@ cards:
       heritage.
     _key: card-1-f19fb898-82d7-42b6-a3fa-65e8dc07a208
   - order: 1
+    useCheckmark: false
     body: >-
       > "We’re showing the district we are going to stand up for what we
       need.”  
@@ -44,6 +46,7 @@ cards:
       ultimately accepted the 6% pay increase the district originally offered.
     _key: card-2-f01598c9-dadd-4347-a94e-93fb03785da8
   - order: 2
+    useCheckmark: false
     body: >-
       > “I was made an offer I couldn’t refuse. Or at least that’s what the top
       people at the National Enquirer thought.”  
@@ -55,6 +58,7 @@ cards:
       The publisher has not responded.
     _key: card-3-ca314fc6-3627-43cf-b2e6-2a3762ef8742
   - order: 3
+    useCheckmark: false
     body: >-
       > “It is apparent that the Committee’s true intention is not to discuss
       the great work of the Dept of Justice, but to create a public spectacle.”
@@ -67,6 +71,7 @@ cards:
       questions on Robert Mueller's special counsel investigation.
     _key: card-4-bed42f4d-7ebd-4b92-a91a-002715fece82
   - order: 4
+    useCheckmark: false
     body: >-
       > "The green dream or whatever they call it, nobody knows what it is, but
       they’re for it right?"  
@@ -78,6 +83,7 @@ cards:
       economic security to those unwilling to work.
     _key: card-5-06edb4c4-6a32-4682-a1d0-634025bd8ce3
   - order: 5
+    useCheckmark: false
     body: >-
       > “..a trailblazer in every sense, whose impact spanned generations.”  
         
@@ -87,6 +93,7 @@ cards:
       National leagues.
     _key: card-6-90fc1d18-4af4-4e89-a974-52c52996a761
   - order: 6
+    useCheckmark: true
     body: |-
       Have a great weekend!
 

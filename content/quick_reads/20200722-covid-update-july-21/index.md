@@ -20,12 +20,14 @@ card_series: Current Events
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       The President updated the nation on the COVID-19 pandemic.
 
       Here’s Three Highlights
     _key: df5845522684
   - order: 1
+    useCheckmark: false
     body: >-
       > “Ultimately, our goal is not merely to manage the pandemic but to end
       it.”
@@ -38,6 +40,7 @@ cards:
       or nursing homes, and fewer than 1% are children.
     _key: d3f751eadbf8
   - order: 2
+    useCheckmark: false
     body: >-
       > “It will probably, unfortunately, get worse before it gets better.”
 
@@ -50,6 +53,7 @@ cards:
       hospital capacity: Texas, California, Florida, and Arizona
     _key: 7f363fae09af
   - order: 3
+    useCheckmark: false
     body: >-
       > “I’m getting used to the mask, and the reason is — think about
       patriotism.”
@@ -62,6 +66,7 @@ cards:
       health officials: "If they change their mind, that’s good enough for me."
     _key: 537d3f09f4d1
   - order: 4
+    useCheckmark: true
     body: >-
       On Tuesday, Pres.Trump held the first White House COVID-19 news conference
       since April. Unlike the earlier briefings with the COVID-19 task force,

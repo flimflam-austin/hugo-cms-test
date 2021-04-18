@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       The Winner Wore Pink…  
 
@@ -39,6 +40,7 @@ cards:
     citation: Why Pink?
     _key: card-1-9e722cfe-28c3-44fd-896a-4d0b5d679e40
   - order: 1
+    useCheckmark: false
     body: >-
       # “Hyper Magenta”
 
@@ -50,10 +52,11 @@ cards:
       during The Masters.
 
       * That meant bitter rivals sported the same color shirt (or “hyper
-      magenta” -A _Golf Week_) on the same day while battling for the
+      magenta” -A_Golf Week_) on the same day while battling for the
       championship.
     _key: card-2-bf76269b-9436-401f-b25d-b887ced56a9f
   - order: 2
+    useCheckmark: false
     body: >-
       # “Captain America”
 
@@ -70,6 +73,7 @@ cards:
       (why many took note of Reed’s deviated hot pink shirt).
     _key: card-3-73e3dc61-2ac7-45eb-86d1-d936869d4279
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why A Green Jacket?
 
@@ -89,6 +93,7 @@ cards:
     citation: 'Click: Tailor''s Story'
     _key: card-4-a99268de-59f3-416b-8630-48dab443c9f7
   - order: 4
+    useCheckmark: true
     body: >-
       Last year, Tiger Woods could barely walk. This year, he competed at The
       Masters - a tournament he won 4 times. Some say this is an incredible

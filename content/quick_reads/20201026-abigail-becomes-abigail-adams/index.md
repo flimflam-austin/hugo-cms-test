@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“A people fired … with love of their country and of liberty, a zeal for
       the public good, and a noble emulation of glory, will not be disheartened
@@ -28,6 +29,7 @@ cards:
     citation: ABIGAIL ADAMS
     _key: 6b48a2b6bb78
   - order: 1
+    useCheckmark: true
     body: >-
       On October 25, 1764, Abigail Smith marries John Adams, a union that spans
       the American Revolution & independence, presidencies, and continents.

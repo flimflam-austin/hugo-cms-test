@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--bronze'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “It’s rough to be outside right now."  
         
@@ -30,6 +31,7 @@ cards:
       currently reporting large fires.
     _key: card-1-f28877bf-0db4-4a06-99f2-491904f2041c
   - order: 1
+    useCheckmark: false
     body: >-
       > “There is a possibility of irreparable harm because of the way these
       guns can be made.”  
@@ -44,6 +46,7 @@ cards:
       [ABOUT 3D PLASTIC GUNS](https://smarthernews.com/18-07-30-3d-guns/)
     _key: card-2-3a2a27f2-455e-4dc9-8b32-4c67a6b5c6b5
   - order: 2
+    useCheckmark: false
     body: >-
       > “With regard to the FRCs, I think the best way to describe them is to be
       more like a summer camp. These individuals have access to 24/7 food and
@@ -59,6 +62,7 @@ cards:
       Now](https://www.youtube.com/embed/l1v9NEfz9Bw?enablejsapi=1&autoplay=1&rel=0)
     _key: card-3-88c31a85-9e62-4dfe-b07b-e08f1e909c93
   - order: 3
+    useCheckmark: false
     body: >-
       > “Please help make this stop. Please help make hazing recognized for what
       it is – abuse, cruelty and torture.”  
@@ -69,6 +73,7 @@ cards:
       of her 19-year-old son Timothy Piazza at Penn State University.
     _key: card-4-b8138463-018f-404e-bac7-cdf0494d8621
   - order: 4
+    useCheckmark: true
     body: |-
       Check out SmartHERNews.com for more of the day's news.
 

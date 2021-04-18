@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## April 17, 1964
 
@@ -32,6 +33,7 @@ cards:
       flight around the world.
     _key: 556e72423dbb
   - order: 1
+    useCheckmark: false
     body: >-
       ## Geraldine “Jerrie” Mock
 
@@ -48,6 +50,7 @@ cards:
       she talked about being bored at home. So she did.
     _key: 38f637a6f714
   - order: 2
+    useCheckmark: false
     body: >-
       > “I didn’t think it was such a great thing; it was just lots of fun.”
 
@@ -60,6 +63,7 @@ cards:
       outside of the plane.
     _key: 7791713fb1bc
   - order: 3
+    useCheckmark: true
     body: >-
       Mesmerized by flight as a little girl, Mock was 11-years-old when Amelia
       Earhart disappeared attempting her around-the-world flight. Like Earhart,

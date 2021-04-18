@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "Today, California reforms its bail system so that rich and poor alike
       are treated fairly.”  
@@ -32,6 +33,7 @@ cards:
       likelihood to return to court.
     _key: card-1-36a84f64-d245-4a8a-837a-608ce472e192
   - order: 1
+    useCheckmark: false
     body: >-
       > "I think the lesson is to anticipate the worst."  
         
@@ -41,6 +43,7 @@ cards:
       on Hurricane Maria's devastation, raising the death toll from 64 to 2,975.
     _key: card-2-b5c54197-4990-4fc5-935a-bbc18fa80c4a
   - order: 2
+    useCheckmark: false
     body: >-
       > “Nobody can remove him from his place as pope unless he himself decides
       to go. That’s the Church law.”  
@@ -57,6 +60,7 @@ cards:
     citation: SMARTHER REFRESHER
     _key: card-3-3dbc66e5-7e28-4511-8d87-ac862de75d3f
   - order: 3
+    useCheckmark: false
     body: >-
       > “All guys who went through the military, you almost become a semi-expert
       in beauty.”  
@@ -71,6 +75,7 @@ cards:
       [Click: Asian Beauty Secret](https://smarthernews.com/18-08-29-essence/)
     _key: card-4-9e6ec678-a38b-4b46-a5ec-2ab41e9ebe63
   - order: 4
+    useCheckmark: true
     body: |-
       Have a great day!
 

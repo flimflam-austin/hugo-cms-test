@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## WHEN SHE MAKE$ MORE
 
@@ -34,19 +35,21 @@ cards:
       Huh? Makes No CENTS.
     _key: card-1-e2b17c73-1617-437c-9ad7-e7d7473c855e
   - order: 1
+    useCheckmark: false
     body: >-
       ## "Manning Up & Womaning Down”
 
 
-      * Census found inconsistencies inA **incomes reported vs. IRS tax forms**
+      * Census found inconsistencies inA**incomes reported vs. IRS tax forms**
       and investigated.
 
-      * When a wife earns more, **both husbands & wives exaggerate man’s
-      earnings on avg of 2.9%**, **diminish woman’s by 1.5%.**
+      * When a wife earns more,**both husbands & wives exaggerate man’s earnings
+      on avg of 2.9%**,**diminish woman’s by 1.5%.**
 
-      * Says couples **“minimize the violation”** **of social norms** by lying.
+      * Says couples**“minimize the violation”****of social norms** by lying.
     _key: card-2-c2c37066-ae6e-47d3-b44c-d77847a063a4
   - order: 2
+    useCheckmark: false
     body: >-
       > "It’s kind of like if he’s shorter than she is, she doesn’t wear heels.
       It’s in the cultural DNA that if anyone should be bigger, richer, more
@@ -58,18 +61,20 @@ cards:
       professionally.
     _key: card-3-66724a3d-1b0b-4444-9882-a22c79c54d65
   - order: 3
+    useCheckmark: false
     body: >-
       # Bigger Picture
 
 
-      2013 Study:A Marriages in which the woman earns more are **less likely to
-      form** and when they do, **more likely to end in divorce**.
+      2013 Study:A Marriages in which the woman earns more are**less likely to
+      form** and when they do,**more likely to end in divorce**.
 
 
       Pew survey: 71% say very important for man to support a family financially
-      to be a good husband or partner,A **32% for women**.
+      to be a good husband or partner,A**32% for women**.
     _key: card-4-a95ae8d3-bb7b-4762-aeb4-44a64054df72
   - order: 4
+    useCheckmark: true
     body: >-
       Social norms impact self-reported data, and the Census Bureau warns that
       makes it less reliable.

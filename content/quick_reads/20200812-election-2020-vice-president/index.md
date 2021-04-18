@@ -20,12 +20,14 @@ card_series: Politics
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
-      # Putting aside **WHO** …
+      # Putting aside**WHO** …
 
       # **WHAT** does the Vice President actually do?
     _key: 695e5623fc15
   - order: 1
+    useCheckmark: false
     body: >-
       > **“I am Vice President. In this I am nothing, but I may be
       everything.”**
@@ -38,6 +40,7 @@ cards:
       the runner-up got VP; Pres. Adams' VP was from an opposing party.
     _key: 5b6a1950f9c6
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Original Constitution Didn’t Say Much About VP
 
@@ -52,34 +55,37 @@ cards:
       the vice presidency almost as an afterthought_.”
     _key: 024ecbd8149e
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Amendments That Shaped The VP
 
 
       * **1804:** Eight years after Pres. Adams was left with a VP from the
-      opposing party, the **12th** Amendment made the VP a **separately elected
+      opposing party, the**12th** Amendment made the VP a**separately elected
       office** from the Pres.
 
       * **1967:** Four years after the assassination of Pres. Kennedy & seven
-      years before Pres. Nixon’s resignation, the **25th** Amendment made it
-      “official” that the **VP serves out the remainder of term if a pres. dies
+      years before Pres. Nixon’s resignation, the**25th** Amendment made it
+      “official” that the**VP serves out the remainder of term if a pres. dies
       or resigns.**
     _key: 215df3002ca4
   - order: 4
+    useCheckmark: false
     body: >-
       ## Four VP Fun Facts
 
 
-      * 3 **women** nominated for VP by a major party: Geraldine Ferraro, Sarah
+      * 3**women** nominated for VP by a major party: Geraldine Ferraro, Sarah
       Palin & Kamala Harris.
 
-      * 14 VPs **became Pres** – most due to death of incumbents. 4 were elected
+      * 14 VPs**became Pres** – most due to death of incumbents. 4 were elected
       – most recently Pres. George H.W. Bush.
 
       * Unlike the two-term limit imposed on a President, the Constitution
-      imposes **no such term limit** on the VP.
+      imposes**no such term limit** on the VP.
     _key: 0d38c8b32549
   - order: 5
+    useCheckmark: true
     body: >-
       WHERE DOES THE VP LIVE? Since 1977, every Vice President has lived with
       his family on the grounds of the U.S. Naval Observatory in Washington

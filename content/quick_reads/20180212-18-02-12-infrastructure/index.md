@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “This will be a big week for Infrastructure. After so stupidly spending
       $7 trillion in the Middle East, it is now time to start investing in OUR
@@ -32,6 +33,7 @@ cards:
       Click Here To Flip
     _key: card-1-12ac7f33-9e4b-400e-bfaa-bd88d55ae6e5
   - order: 1
+    useCheckmark: false
     body: >-
       Infrastructure Plan: WH
 
@@ -48,9 +50,11 @@ cards:
       like/dislike).
     _key: card-2-092277ed-0283-440e-bede-72865d1430f1
   - order: 2
+    useCheckmark: false
     body: "> “This is not a real infrastructure plan a\x14 it’s simply another scam, an attempt by this administration to privatize critical government functions, and create windfalls for their buddies on Wall Street.”  \n  \n  \n  \nRep. Peter DeFazio (D-O) House Transportation Committee"
     _key: card-3-3b9f5674-9427-475f-aa74-5c4d63f6bebc
   - order: 3
+    useCheckmark: false
     body: >-
       # Why It Matters:
 
@@ -58,7 +62,7 @@ cards:
       ## America’s Infrastructure Grade: D+
 
 
-      * Est. cost to fix: **$4.59 Trillion**
+      * Est. cost to fix:**$4.59 Trillion**
 
       * Dams, Drinking Water, Transit? Receive “D” grades.
 
@@ -70,6 +74,7 @@ cards:
       Report](https://www.infrastructurereportcard.org/making-the-grade/report-card-history/)
     _key: card-4-9adff521-67dd-42a2-b27e-61e9e96d07e3
   - order: 4
+    useCheckmark: true
     body: |-
       More reaction & updates to come:
 

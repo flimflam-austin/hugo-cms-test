@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “We’re the piggy bank that everybody’s robbing, and that ends.”  
         
@@ -30,6 +31,7 @@ cards:
       despite just imposing tariffs on Europe, Canada & Mexico.
     _key: card-1-95465855-1274-4c4c-8af6-070bce634b64
   - order: 1
+    useCheckmark: false
     body: >-
       > “Nobody started talking about a meeting between Kim Jong Un and
       President Trump until we suggested it at the Olympics.”  
@@ -43,6 +45,7 @@ cards:
       See](http://www.foxnews.com/travel/2018/06/08/singapore-airport-detains-kim-jong-un-impersonator-on-arrival.html)
     _key: card-2-700835c2-a33c-4c5d-a8bb-b07f251d97f0
   - order: 2
+    useCheckmark: false
     body: >-
       > “To me, he was a warm person, and you liked to spend time with him
       because he was interested. He wanted to talk about me and my home … he
@@ -54,6 +57,7 @@ cards:
       Garden became a viral sensation.
     _key: card-3-36a4d701-ddfc-41ba-9f8e-c5b22cff469c
   - order: 3
+    useCheckmark: false
     body: >-
       > "Good deeds come back to help you, and bad deeds come back to haunt
       you….It felt good to give it to them…They said it restored their faith in
@@ -65,6 +69,7 @@ cards:
       customers who bought a $1M ticket.
     _key: card-4-bc8b3c36-d99d-4614-8dc6-9822c595b467
   - order: 4
+    useCheckmark: true
     body: |-
       Have a great start to your week!
 

@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > ‘We’ve got a fraught bilateral relationship. The collective blood
       pressure between the U.S. & Russia is off-the-charts high so it’s a good
@@ -32,6 +33,7 @@ cards:
       presidential summit since 2010.
     _key: card-1-ca86c120-76ee-42cc-b2c3-32603ba4375d
   - order: 1
+    useCheckmark: false
     body: >-
       > “I was really happy to get this far. For all the moms out there, I was
       playing for you today.”  
@@ -44,6 +46,7 @@ cards:
       in September.
     _key: card-2-3c8d745b-0e6f-446f-b54c-cbf99308ff99
   - order: 2
+    useCheckmark: false
     body: >-
       > “Today the digital infrastructure that serves this country is literally
       under attack.”  
@@ -56,6 +59,7 @@ cards:
       foreign actor."
     _key: card-3-85fca955-2edd-4ee0-b98a-7b3531ca7249
   - order: 3
+    useCheckmark: false
     body: >-
       > “People wondered why our marriage came to an end. I think it’s because
       some jealousy started to creep in. … Bruce never got over the fact that I
@@ -68,6 +72,7 @@ cards:
       29th.
     _key: card-4-10ce0a8a-94d3-4549-ac22-b40c08a1944e
   - order: 4
+    useCheckmark: false
     body: >-
       > ‘I don’t really realize yet what it is. The World Cup, it’s a lot. I’m
       very proud of this team.’  
@@ -79,6 +84,7 @@ cards:
       years ago.
     _key: card-5-74c13584-57cc-44b6-a8c1-0fca33f2b62a
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great week!
 

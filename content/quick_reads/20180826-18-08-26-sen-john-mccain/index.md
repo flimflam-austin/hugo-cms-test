@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       In his newly released memoir, The Restless Wave, he wrote: It’s been quite
       a ride. I’ve known great passions, seen amazing wonders, fought in a war,

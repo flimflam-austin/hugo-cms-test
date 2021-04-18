@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## QUICK QUOTES
 
@@ -33,6 +34,7 @@ cards:
       with China Saturday.
     _key: card-1-2ad08653-a6c7-4a29-9f44-28c9a0f350cc
   - order: 1
+    useCheckmark: false
     body: >-
       > **"Conflicting messages coming from the admin. is causing whiplash for
       American cos that are focused on growing the economy & creating jobs here
@@ -43,6 +45,7 @@ cards:
       American families with expected higher prices.
     _key: card-2-8f0166ae-2017-4843-a95f-61881f0a2508
   - order: 2
+    useCheckmark: false
     body: >-
       > **“But the estimate isn’t as precise as the figure implies. The
       researchers calculate there is a 95% likelihood the death toll was
@@ -55,9 +58,11 @@ cards:
       2005.
     _key: card-3-df4442b7-6e9e-4ee5-9eb7-6f81506fb1f9
   - order: 3
+    useCheckmark: false
     body: "> “This is incredibly sad and difficult for all of us, as we’ve created a show that we believe in, are proud of, and that audiences lovea\x14 one that is separate and apart from the opinions and words of one cast member.”  \n  \nSara Gilbert, actress, from Roseanne tweeting about the show's cancellation after a a racist tweet from star, Roseanne Barr."
     _key: card-4-72f6cacc-2fb1-4d72-8234-1f29d502df54
   - order: 4
+    useCheckmark: false
     body: >-
       > “Didn’t meet projections but amounts to a new personal best.”  
         
@@ -68,6 +73,7 @@ cards:
       weekend best for Howard).
     _key: card-5-c0dfc451-b219-4b80-89ca-659fbd692819
   - order: 5
+    useCheckmark: false
     body: >-
       **“People might think: ‘Why are these people still harping on about this,
       it’s been four years’. It’s important for people to remember that MH370 is
@@ -79,6 +85,7 @@ cards:
       American, when it vanished 40 mins into a trip from Malaysia to China.
     _key: card-6-bd8a683a-0b51-475a-b87b-fc152e87af7c
   - order: 6
+    useCheckmark: true
     body: |-
       Have a great day!
 

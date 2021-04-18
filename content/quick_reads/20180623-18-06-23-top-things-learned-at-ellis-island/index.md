@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## What Does The Past Teach Us About The Current Immigration Debate?
 
@@ -31,6 +32,7 @@ cards:
       Flip For More
     _key: card-1-43edf82d-0007-4df1-a3be-8136bc11e618
   - order: 1
+    useCheckmark: false
     body: >-
       ## “Illegal Immigration’ hasn’t ALWAYS existed.
 
@@ -45,6 +47,7 @@ cards:
       set the stage for more centralized immigration reform.
     _key: card-2-d65affad-9d35-4ee0-b21a-e00b39b5dc80
   - order: 2
+    useCheckmark: false
     body: >-
       ## Immigration: A State Issue
 
@@ -56,11 +59,12 @@ cards:
       * Symbolizes the first major move by federal govt to regulate (and profit
       from) immigration.
 
-      * Immigration previously managed by individualA **states and cities**. In
-      fact the nation’s **first immigration center**A **ever** was in NYC –
+      * Immigration previously managed by individualA**states and cities**. In
+      fact the nation’s**first immigration center**A**ever** was in NYC –
       “Castle Gardens.”
     _key: card-3-14e4be56-a787-42a1-840c-b20f3e321ae3
   - order: 3
+    useCheckmark: false
     body: >-
       ## Children: Immigration
 
@@ -76,6 +80,7 @@ cards:
       – as long as they were under 16-yrs-old – in the women’s ward.
     _key: card-4-47038bf8-ecb5-4050-b01e-132a0d188945
   - order: 4
+    useCheckmark: true
     body: >-
       We asked Mr. Moreno what historical context he feels is often missing from
       current conversations on immigration - His answer may surprise you! Read

@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # OUR MISSION
 
@@ -41,6 +42,7 @@ cards:
       Now](https://www.youtube.com/embed/tGquvWuk0kk?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-76e45289-f8e7-40ef-a052-2f777f044165
   - order: 1
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-01-31/)'
     _key: card-10-c9543d37-3cd4-4b90-a14c-5d4dd604e33f
 

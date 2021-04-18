@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       And what would AMLO's plan be for Mexico's rampant drug trafficking?
       Listen to what he said - in the heart of the main Sinaloa cartel's

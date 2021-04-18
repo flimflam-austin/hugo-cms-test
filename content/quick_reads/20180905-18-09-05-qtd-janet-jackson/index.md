@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “_Individuality is beautiful. God made you as you are, and that’s
       beautiful. You are unique, special. You don’t want to look like someone
@@ -27,6 +28,7 @@ cards:
     citation: JANET JACKSON
     _key: card-1-543f44b3-2e40-41cd-95a1-684842a6ca0a
   - order: 1
+    useCheckmark: true
     body: >-
       Janet Jackson will grace the cover of InStyle's October beauty issue. In
       the interview, she discusses beauty and confidence, both before and after

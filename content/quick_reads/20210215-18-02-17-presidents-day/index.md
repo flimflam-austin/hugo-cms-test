@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > Whether you celebrate President’s Day, Presidents’ Day, or Presidents
       Day … none are official federal holidays.  
@@ -29,6 +30,7 @@ cards:
       So what is?
     _key: card-1-d21104ef-0c2b-4e01-a915-20a7f5d3a248
   - order: 1
+    useCheckmark: false
     body: >-
       ## Washington’s Birthday
 
@@ -39,10 +41,11 @@ cards:
       give federal workers a 3-day weekend & boost the economy (sales/travel).
 
       * Some tried to change holiday officially to “Presidents Day” but the
-      legislation never passed, so it remains **Washington’s Birthday**
+      legislation never passed, so it remains**Washington’s Birthday**
       (ironically, Pres. Washington was quite a shopper).
     _key: card-2-d45ee5a5-4a22-4e20-9575-202dbb6f4f8f
   - order: 2
+    useCheckmark: false
     body: >-
       > “Mrs. Washington’s slippers and clogs have come safe to hand, the
       latter, however, are not as she wished to have … and will, by the first
@@ -57,6 +60,7 @@ cards:
       Shoes](http://www.mountvernon.org/george-washington/colonial-life-today/shoe-shopping-with-martha-washington/)
     _key: card-3-31e28208-a70b-4381-9c4e-ae7c55377159
   - order: 3
+    useCheckmark: false
     body: >-
       ## Pres. George Washington
 
@@ -71,11 +75,12 @@ cards:
       years; it became a federal holiday 80 years after his death.
     _key: card-4-6e4840d1-cd94-4e3a-b8df-21e4764f1576
   - order: 4
+    useCheckmark: false
     body: >-
       ## What About Pres. Lincoln?
 
 
-      President Lincoln was born on **February 12, 1809. (BTW – some states
+      President Lincoln was born on**February 12, 1809. (BTW – some states
       recognize Presidents Day, rather than Washington’s Birthday, to include
       other leaders).**
 
@@ -84,9 +89,10 @@ cards:
 
 
       President Washington & MLK Jr. are the ONLY two Americans whose birthdays
-      are *official* **federal holidays**.
+      are *official***federal holidays**.
     _key: card-5-0a5dd0e3-2dcf-4155-8ae5-7b8b801f5e6c
   - order: 5
+    useCheckmark: true
     body: >-
       Since the late 1890s, the Senate follows a tradition of reading Pres.
       Washington's Farewell Address - words he penned after he decided not to

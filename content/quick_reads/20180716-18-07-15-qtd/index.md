@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _"If you know in your heart that you’re doing the right thing and you’re
       just afraid of the consequences, you just have to do it. You have to do
@@ -27,6 +28,7 @@ cards:
     citation: Sarah Cummins
     _key: card-1-5267d5c3-ab57-4a7d-951d-e5872404b97e
   - order: 1
+    useCheckmark: true
     body: >-
       Last year, 26-year-old Sarah Cummins cancelled her wedding and invited the
       homeless to her reception instead. She says her one regret is not using

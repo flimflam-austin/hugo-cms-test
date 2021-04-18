@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Rising Tensions, Tough Questions
 
@@ -31,6 +32,7 @@ cards:
       Why It Matters
     _key: 99cfad3ad034
   - order: 1
+    useCheckmark: false
     body: >-
       ## BIG PICTURE
 
@@ -45,19 +47,21 @@ cards:
       terror.
     _key: 3b239ffccf3a
   - order: 2
+    useCheckmark: false
     body: >-
       ## What’s Happening
 
 
-      * Iran announced a clear move towards developing nuclear weapons **last
+      * Iran announced a clear move towards developing nuclear weapons**last
       week** despite a 2015 multinational “nuclear deal” that limited their
       program. European nations remain in the deal; the U.S. withdrew in 2018.
 
-      * Iran seized a South Korean oil tanker **last week**, holding approx. 20
+      * Iran seized a South Korean oil tanker**last week**, holding approx. 20
       sailors. Iran accuses South Korea of holding its funds “hostage;” South
       Korea froze Iran’s assets as part of U.S. sanctions.
     _key: 3b86bfd9cb9d
   - order: 3
+    useCheckmark: false
     body: >-
       ## Timing Matters
 
@@ -65,12 +69,13 @@ cards:
       * Iran’s nuclear announcement comes a year after America targeted and
       killed a high-profile Iranian general.
 
-      * Dec. 20: Iranian-backed militia attacked the U.S. embassy in Baghdad:
-      _“While this 21 rocket attack caused no U.S. injuries or casualties, the
-      attack did damage buildings in the U.S. Embassy compound, and was clearly
-      NOT intended to avoid casualties.” U.S. CentCom_
+      * Dec. 20: Iranian-backed militia attacked the U.S. embassy in
+      Baghdad:_“While this 21 rocket attack caused no U.S. injuries or
+      casualties, the attack did damage buildings in the U.S. Embassy compound,
+      and was clearly NOT intended to avoid casualties.” U.S. CentCom_
     _key: b26b237d07b9
   - order: 4
+    useCheckmark: false
     body: >-
       > “No one should doubt the resolve of the United States of America.”
 
@@ -83,6 +88,7 @@ cards:
       the Iranian regime against potential attacks.
     _key: e8e9417e2cfc
   - order: 5
+    useCheckmark: false
     body: >-
       > “A rogue president who sought vengeance against his OWN people has been
       doing much worse to our people—and others—in the past 4 years. What’s
@@ -94,6 +100,7 @@ cards:
       Trump, on January 7, 2021.
     _key: 1ebbc5a294c8
   - order: 6
+    useCheckmark: true
     body: >-
       What's the way forward? 97-year-old fmr. Sec. of State Henry Kissinger,
       experienced as a consultant for both Republicans and Democrats, advises

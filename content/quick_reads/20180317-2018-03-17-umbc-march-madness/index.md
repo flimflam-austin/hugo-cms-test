@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # CINDERELLA STORY
 
@@ -39,15 +40,16 @@ cards:
     citation: WHY THIS IS HISTORIC
     _key: card-1-38c2cf91-2fd9-41cd-bb34-8b18f2160cb1
   - order: 1
+    useCheckmark: false
     body: >-
       # The Greatest Upset in College Basketball?
 
 
-      # 16 seeds were **0-135** all-time against #1 seeds until Friday.
+      # 16 seeds were**0-135** all-time against #1 seeds until Friday.
 
 
       Translation: In the history of the NCAA Men’s college basketball
-      tournament (79 yrs), **no team has ever beat a #1 team in the first
+      tournament (79 yrs),**no team has ever beat a #1 team in the first
       round.**
 
 
@@ -56,6 +58,7 @@ cards:
     citation: Watch Now
     _key: card-2-0ba4fe7a-fe15-4949-b865-aa657802171d
   - order: 2
+    useCheckmark: false
     body: |-
       ## Cinderella’s Stats
 
@@ -64,9 +67,10 @@ cards:
       * Mascot: The Retrievers
       * Colors: Black & Gold
       * Only previous appearances in the NCAA tournament were 1979, 1980 & 2008
-      * CBS Sports jokes UMBC stands for “**U** **M**ust **B**e **C**inderella”
+      * CBS Sports jokes UMBC stands for “**U****M**ust**B**e**C**inderella”
     _key: card-3-0aa366b8-35e1-4d06-81ab-ac9e82f985af
   - order: 3
+    useCheckmark: false
     body: >-
       ## Impressive Performance
 
@@ -84,6 +88,7 @@ cards:
       @UMBCAthletics gained 13K Twitter followers in last 2 mins of game.
     _key: card-4-f1e49f36-b682-4070-ad21-5837bbf770c0
   - order: 4
+    useCheckmark: true
     body: >-
       This may be the first for the men, but a women's college team did this 20
       years ago. Find out who here.

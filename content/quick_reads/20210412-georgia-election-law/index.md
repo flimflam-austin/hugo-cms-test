@@ -18,6 +18,7 @@ card_series: Politics
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # THE VOTE
 
@@ -31,6 +32,7 @@ cards:
       Why It Matters.
     _key: 2badeaec3ce3
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -44,6 +46,7 @@ cards:
       presidential election by a democrat in GA in 3 decades).
     _key: 4e307d126485
   - order: 2
+    useCheckmark: false
     body: >-
       ## What Happened:
 
@@ -59,6 +62,7 @@ cards:
       several.
     _key: 943d697d80dd
   - order: 3
+    useCheckmark: false
     body: >-
       ## ABSENTEE VOTING
 
@@ -74,6 +78,7 @@ cards:
       the number, location & hours of operation.
     _key: 2728332718f3
   - order: 4
+    useCheckmark: false
     body: >-
       ## EARLY VOTING
 
@@ -89,6 +94,7 @@ cards:
       Previously, it took place for 3 weeks.
     _key: 288fec9d3f9e
   - order: 5
+    useCheckmark: false
     body: >-
       ## OTHER PROVISIONS
 
@@ -104,6 +110,7 @@ cards:
       station and within 25 ft of a person in line to vote.
     _key: 73d7d81a810b
   - order: 6
+    useCheckmark: false
     body: >-
       “I told him exactly how I felt: that these bills were not only voter
       suppression, but they were in fact racist, and they are an attempt to turn
@@ -117,6 +124,7 @@ cards:
       prevent black voters.
     _key: 3787b9cfc251
   - order: 7
+    useCheckmark: false
     body: >-
       _"There’s a real — and bipartisan — misunderstanding about whether making
       it easier or harder to vote, especially by mail, has a significant effect

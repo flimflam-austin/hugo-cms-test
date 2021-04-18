@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## FIRST LOOK: Trump’s Wall
 
@@ -27,6 +28,7 @@ cards:
     citation: FLIP FOR MORE
     _key: card-1-53077071-869b-4a04-b4e1-832ceb2c6c14
   - order: 1
+    useCheckmark: false
     body: >-
       ## Construction Begins at the U.S.-Mexico Border
 
@@ -44,12 +46,13 @@ cards:
       funding.
     _key: card-2-ed77fba3-fbe6-4491-933f-f7e6e2d30261
   - order: 2
+    useCheckmark: false
     body: >-
       ## Securing the Border
 
 
-      > Goal is to stop the **25K people,**A **34K lbs of marijuana** & **140
-      lbs of cocaine** that came thru El Paso sector (a 260-mile stretch) last
+      > Goal is to stop the**25K people,**A**34K lbs of marijuana** &**140 lbs
+      of cocaine** that came thru El Paso sector (a 260-mile stretch) last
       year.  
         
         
@@ -63,6 +66,7 @@ cards:
       Chief Patrol Agent Aaron Hull
     _key: card-3-b0521b58-a454-41b2-b65b-e62bce2c83fd
   - order: 3
+    useCheckmark: false
     body: >-
       ## IS IT A FENCE OR A WALL?
 
@@ -72,15 +76,16 @@ cards:
         
         
         
-      Currently, 1/3 of the border has a barrier that **up until Monday was
+      Currently, 1/3 of the border has a barrier that**up until Monday was
       called a “fence”** by Border Patrol.  
         
         
         
-      This new 20-mile stretch is being **called a “wall”** **by Border
-      Patrol**A despite it being **the exact same structure used previously**.
+      This new 20-mile stretch is being**called a “wall”****by Border Patrol**A
+      despite it being**the exact same structure used previously**.
     _key: card-4-5a0ff095-a23b-4e77-af64-2270fe057521
   - order: 4
+    useCheckmark: true
     body: >-
       New Mexico Gov. Susana Martinez announced 80+ National Guard soldiers will
       report to the area this week to support Border Patrol agents - the first

@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "I am very sure that we have very, very good grounds to be making these
       warnings.”  
@@ -32,6 +33,7 @@ cards:
       to Syrian President Bashar al-Assad.
     _key: card-1-3a358477-8c80-4e76-829b-3fec02d9f2de
   - order: 1
+    useCheckmark: false
     body: >-
       > “30 minutes of your time. Is democracy worth that?”  
         
@@ -42,6 +44,7 @@ cards:
       politics with several planned speeches ahead of the midterms in November.
     _key: card-2-301c3d1f-9ce6-4877-af5f-7a1a77f00bc4
   - order: 2
+    useCheckmark: false
     body: >-
       “It’s legal right?”  
         
@@ -57,6 +60,7 @@ cards:
       Now](https://www.youtube.com/embed/ycPr5-27vSI?enablejsapi=1&autoplay=1&rel=0)
     _key: card-3-edaebe13-bcb1-4a5d-80e8-3461a20661c1
   - order: 3
+    useCheckmark: false
     body: >-
       > "It is important that we can make a toy that doesn’t jeopardize
       (children’s future).”  
@@ -69,6 +73,7 @@ cards:
       struggling sales recently.
     _key: card-4-9426a834-7bc6-4a8c-b016-a271fb28f7fd
   - order: 4
+    useCheckmark: false
     body: >-
       > “We leave it up to the imagination to figure it out, so we like to give
       everybody a challenge.”  
@@ -80,6 +85,7 @@ cards:
       class of about 250 students.
     _key: card-5-a5918d07-73c6-47b1-98a6-876cd66c7f15
   - order: 5
+    useCheckmark: true
     body: |-
       Enjoy the weekend!
 

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Mark Your Calendars
 
@@ -31,19 +32,21 @@ cards:
       (no, you cant text back)
     _key: card-1-a4214308-0239-47ec-a1b2-6c7bc5510aeb
   - order: 1
+    useCheckmark: false
     body: >-
       ## What’s Going On?
 
 
       FEMA testing a “Presidential Alert” – an announcement from the President
-      for use only in the event of **national emergencies**.
+      for use only in the event of**national emergencies**.
 
 
       The “text test” was scheduled for THIS Thursday Sept. 20 at 2:18 p.m. EST,
-      but **will instead go out on October 3rd** because FEMA says it’s focusing
+      but**will instead go out on October 3rd** because FEMA says it’s focusing
       on Hurricane Florence recovery.
     _key: card-2-8449ef1e-40d4-4cb9-9381-f586dc2d0ed2
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Now?
 
@@ -58,6 +61,7 @@ cards:
       alert.
     _key: card-3-6adb8488-9ed2-4212-bfce-dd4b7f21dfe6
   - order: 3
+    useCheckmark: true
     body: >-
       Some argue this is a great tool for communicating with the public during
       dire times; others say it presents a risk for hacking or abuse. Either

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “A Critical Phase”
 
@@ -28,9 +29,11 @@ cards:
       headlines from the latest CDC media briefing.
     _key: 685f6d77ed23
   - order: 1
-    body: "## “Distressing Trend”\n\nThe CDC provided an overview of COVID-19 in America:\n\n* Higher levels of infections & deaths – cases increasing in **nearly\_75% of U.S**.\n* Concern isn’t limited to specific region – but Midwest is a current focus.\n* Rise in infections potentially due to **activities moving indoors** due to colder weather, as well as an **increase in small gatherings** of family & friends."
+    useCheckmark: false
+    body: "## “Distressing Trend”\n\nThe CDC provided an overview of COVID-19 in America:\n\n* Higher levels of infections & deaths – cases increasing in**nearly\_75% of U.S**.\n* Concern isn’t limited to specific region – but Midwest is a current focus.\n* Rise in infections potentially due to**activities moving indoors** due to colder weather, as well as an**increase in small gatherings** of family & friends."
     _key: 55aebb56befb
   - order: 2
+    useCheckmark: false
     body: >-
       ## “We all want to live as safely as we can.”
 
@@ -48,6 +51,7 @@ cards:
       * Interaction w/ larger number of people
     _key: 6f84472e0bee
   - order: 3
+    useCheckmark: false
     body: >-
       “…as we get more data and understand the science of COVID, we are going to
       continue to incorporate that in our recommendations.”  
@@ -59,6 +63,7 @@ cards:
       15 minutes.
     _key: 5dd088fe39f5
   - order: 4
+    useCheckmark: false
     body: >-
       “…(We are) concurrently manufacturing commercial scale production of all
       six of the vaccines that we have investments or contracts with.”
@@ -71,6 +76,7 @@ cards:
       distributing the vaccine if and when it gets the green light from the FDA.
     _key: 1fecba20eca5
   - order: 5
+    useCheckmark: false
     body: >-
       ## VACCINE: WHO & WHEN
 
@@ -87,6 +93,7 @@ cards:
       who wants one.
     _key: 0a1b5f299bcd
   - order: 6
+    useCheckmark: true
     body: >-
       "We get tired of wearing masks, but it continues to be as important as
       it’s ever been and I’d say it’s more important than ever as we move into

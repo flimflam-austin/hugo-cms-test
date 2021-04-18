@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“We’re really at a point of reckoning in so many ways. We’re asking
       really big question about our health, and our safety. We’re asking big
@@ -30,6 +31,7 @@ cards:
     citation: JENNA LEE
     _key: 3d1667640c8e
   - order: 1
+    useCheckmark: true
     body: >-
       Check out the full video by the founder of SmartHER News on how to
       navigate headlines during this unprecedented period on our source page.

@@ -20,12 +20,13 @@ card_series: Health
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       The Power  
 
       (Not Paralysis)  
 
-      of Anxiety 
+      of Anxiety
 
 
       New neuroscience study out of Canada finds a certain level of anxiety
@@ -35,6 +36,7 @@ cards:
       Flip For More
     _key: card-1-323940e1-bb8c-45d5-81f9-171d55edbc4a
   - order: 1
+    useCheckmark: false
     body: >-
       ## About the Study:
 
@@ -50,9 +52,11 @@ cards:
       negative images.
     _key: card-2-2e0c2e41-9ab2-4e12-a168-f80d57dad5c7
   - order: 2
+    useCheckmark: false
     body: "## What Might This Mean?\n\nPeople with some anxiety may remember an event or moment more vividly, but with a tainted negative light that may be unwarranted.\n\nReaffirmed anxiety ‘**sweet spot**’: some anxiety helps us rememberA a\x14 too much might make our memory recall less accurate."
     _key: card-3-f4120cbb-5bd9-4919-b26a-211cfbacfb9f
   - order: 3
+    useCheckmark: false
     body: >-
       > “Having butterflies in your stomach might actually make that information
       more memorable to you later on.”  
@@ -63,6 +67,7 @@ cards:
       Psychology, and co-author of the study
     _key: card-4-12f35080-fb8a-44f4-89d1-27e28a16dafd
   - order: 4
+    useCheckmark: false
     body: >-
       > ‘I think a practical takeaway from this study is to be aware of the
       biases you’re bringing to the table and know that they might affect how
@@ -74,6 +79,7 @@ cards:
       Psychology, and co-author of the study
     _key: card-5-31fb6492-4316-4158-8aae-d02e40f20a6c
   - order: 5
+    useCheckmark: true
     body: >-
       Researchers gave a terrific example of how negative memory recall works -
       Check it out!

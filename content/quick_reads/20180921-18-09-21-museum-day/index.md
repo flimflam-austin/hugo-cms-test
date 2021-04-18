@@ -20,17 +20,19 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # PRICELESS CULTURE
 
       What do Van Gogh, a Tyrannosaurus Rex, &  
       a WWII aircraft carrier have in common?A
 
-      > Well, typically, not very much… but **this Saturday** is the exception.
+      > Well, typically, not very much… but**this Saturday** is the exception.
 
       SEE IT FOR FREE
     _key: card-1-494a89d1-5c04-4ab8-ba0b-9003805c24da
   - order: 1
+    useCheckmark: false
     body: >-
       # MUSEUM DAY
 
@@ -38,29 +40,31 @@ cards:
       ## Saturday, September 22nd
 
 
-      * **1,500 museums & zoos** in all 50 states will offer **FREE admission**.
+      * **1,500 museums & zoos** in all 50 states will offer**FREE admission**.
 
       * Sponsored by Smithsonian magazine to encourage free entry as its
       DC-based museums do.
 
-      * Visitors must download one ticket per email address that’s worth free
-      **admission for two people**.
+      * Visitors must download one ticket per email address that’s worth
+      free**admission for two people**.
     _key: card-2-2db88854-fcc6-4872-a395-1f5d88d28b57
   - order: 2
+    useCheckmark: false
     body: >-
       ## How Much Should It Cost?
 
 
-      * About **one-third** of America’s **35,000+ museums** are free.
+      * About**one-third** of America’s**35,000+ museums** are free.
 
       * But with funding under pressure, museums struggle with how much to
       charge.
 
       * **Ticket prices are crucial: Admissions represent 7%** of museum’s
-      financial support, behind **endowments (22%) & museum store purchases
+      financial support, behind**endowments (22%) & museum store purchases
       (8%).**
     _key: card-3-e00bd4b6-a58c-4892-881f-816359144637
   - order: 3
+    useCheckmark: true
     body: >-
       This year's Museum Day theme is ‘Women Making History recognizing female
       trailblazers in arts, sciences, innovation, and culture. Click to find

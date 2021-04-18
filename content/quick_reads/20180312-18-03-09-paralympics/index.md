@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## INSPIRATION
 
@@ -35,10 +36,11 @@ cards:
       Yes. That's a real bio.
     _key: card-1-0dad938e-46f0-4195-b433-4414c5cfed27
   - order: 1
+    useCheckmark: false
     body: |-
       # Winter Olympics Round II
 
-      The 2018 PyeongChang Paralympic Winter Games: **March 9-18**.
+      The 2018 PyeongChang Paralympic Winter Games:**March 9-18**.
 
       670 athletes from 46 countries
 
@@ -47,6 +49,7 @@ cards:
       FLIP HERE FOR MORE
     _key: card-2-3f322c4b-eca5-418a-bba0-41cacb9881c2
   - order: 2
+    useCheckmark: false
     body: |-
       ## Team USA’s 74-Member Team Includes:
 
@@ -57,6 +60,7 @@ cards:
       * 1 married couple (alpine skiers Danelle & Rob Umstead)
     _key: card-3-6679d942-3ca2-49f3-877b-badd4657e893
   - order: 3
+    useCheckmark: false
     body: >-
       Name to Know:  
 
@@ -65,16 +69,17 @@ cards:
 
       * 37 year-old from Topeka, Kansas
 
-      * Retired **Navy SEAL**; injured by IED in Afghanistan 2009, sustained
+      * Retired**Navy SEAL**; injured by IED in Afghanistan 2009, sustained
       severe injuries & lost both legs above the knee.
 
-      * **Purple Heart**. **Bronze Star** for Valor.
+      * **Purple Heart**.**Bronze Star** for Valor.
 
       * **Gold Medal**: Biathlon (cross-country skiing & rifle shooting)
 
       * **Silver Medal**: Cross-country
     _key: card-4-58ed3470-4336-4860-8843-603844fa6bd7
   - order: 4
+    useCheckmark: false
     body: >-
       Name to Know:  
 
@@ -92,6 +97,7 @@ cards:
       disabled athletes engage in action sports.
     _key: card-5-ec39b968-958f-4ad9-8c89-6fc4226bb238
   - order: 5
+    useCheckmark: false
     body: |-
       Paralympic Winter Games:  
       10 Days ~ 6 Sports
@@ -104,6 +110,7 @@ cards:
       * wheelchair curling
     _key: card-6-94b02d4a-c35d-4d3e-a275-80dec9b6ccf5
   - order: 6
+    useCheckmark: true
     body: >-
       Want to learn more about pro-snowboarder, entrepreneur & author Amy Purdy,
       check out her TED Talk:

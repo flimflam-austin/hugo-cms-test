@@ -20,9 +20,11 @@ card_series: Quotes
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: "> “.@khamenei\_ir fancies himself the leader of the Islamic world, but his regime has been totally silent as Chinaa\x14the top buyer of #Iran’s oila\x14has persecuted and detained hundreds of thousands of its Muslim citizens.”  \n  \nSec. of State Mike Pompeo addressing the leader of Iran in a tweet as the UN reports China holds at least 1 million Uighur Muslims in detention camps to reportedly get them to renounce Islam. China denies this practice."
     _key: card-1-679cfb4f-b044-48ac-aa71-21de19dc842b
   - order: 1
+    useCheckmark: false
     body: >-
       > “Our friends had been suggesting for a long time that we visit this
       wonderful town.”  
@@ -34,6 +36,7 @@ cards:
       Skripal & his daughter Yulia with a rare nerve agent in the UK.
     _key: card-2-28d8f48f-5c98-4312-b8df-54a95e7f92bf
   - order: 2
+    useCheckmark: false
     body: >-
       > "He is a completely expressive character with an incredibly wide range
       of emotions, and I’ve had to step up my game to compete.”  
@@ -44,6 +47,7 @@ cards:
       14 performers to operate the massive King Kong puppet.
     _key: card-3-286bc7fa-d1cf-431b-8fdb-cdeb0bc8ec55
   - order: 3
+    useCheckmark: false
     body: >-
       > “There are no immediate plans to replace it… I would also say, ‘Never
       say never.'”  
@@ -55,6 +59,7 @@ cards:
       America it soared in popularity during the 1960s.
     _key: card-4-41d94335-72b4-44bc-a902-c0cf5c6c01a3
   - order: 4
+    useCheckmark: true
     body: |-
       Enjoy your weekend!
 

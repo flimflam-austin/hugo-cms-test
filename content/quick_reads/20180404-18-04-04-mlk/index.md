@@ -20,16 +20,19 @@ card_series: On This Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       Honoring a light extinguished too soon:
 
       Martin Luther King Jr.
     _key: card-1-cfa5efd5-3563-46f9-a1bf-d06f416d28d3
   - order: 1
+    useCheckmark: false
     body: "## The Day Before MLK Died:\n\n“We’ve got some difficult days ahead. …. Like anybody, I would like to live a long life a\x14 longevity has its place. But I’m not concerned about that now. I just want to do God’s will…. I may not get there with you. But I want you to know tonight, that we, as a people, will get to the promised land.”\n\n[MLK, April 3, 1968](https://www.smithsonianmag.com/videos/category/history/mlks-last-speech/)"
     citation: MLK, April 3, 1968
     _key: card-2-a15a0fb1-e29d-4b91-b448-7068868bd22d
   - order: 2
+    useCheckmark: false
     body: >-
       ## Assassination & Aftermath
 
@@ -49,6 +52,7 @@ cards:
     citation: 'Click: Who Did It?'
     _key: card-3-c9f80dea-056b-49a4-9677-868e81fa1bc5
   - order: 3
+    useCheckmark: false
     body: >-
       ## MLK’s Lasting Legacy
 
@@ -67,6 +71,7 @@ cards:
     citation: Watch Now
     _key: card-4-a74e35f7-ffed-46ce-9298-d6375b8bb948
   - order: 4
+    useCheckmark: true
     body: >-
       MLK is one of only two people with a federal holiday honoring their birth
       (the other one is George Washington). How it became a holiday (and how it

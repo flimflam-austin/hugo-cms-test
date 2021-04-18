@@ -19,11 +19,13 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## What to know as an unprecedented second impeachment trial starts
       against a former U.S. president.
     _key: 1eeb142c0bfa
   - order: 1
+    useCheckmark: false
     body: >-
       ## TIMELINE
 
@@ -39,6 +41,7 @@ cards:
       * **Feb 9:** Impeachment trial set to start.
     _key: 8116ebbcc9c3
   - order: 2
+    useCheckmark: false
     body: >-
       > “President Trump gravely endangered the security of the United States
       and its institutions of government. He threatened the integrity of the
@@ -50,6 +53,7 @@ cards:
       Trump's words & conduct in the days & moments leading up to the riot.
     _key: acf9fed3f6d3
   - order: 3
+    useCheckmark: false
     body: >-
       ## TRIAL BASICS
 
@@ -65,6 +69,7 @@ cards:
       witnesses), impeachment, and *perhaps ultimately* disqualification.
     _key: 415c8b64e3bf
   - order: 4
+    useCheckmark: false
     body: >-
       ## ARGUMENTS
 
@@ -78,6 +83,7 @@ cards:
       unconstitutional since Pres. Trump is not in office.
     _key: cf37fb74482f
   - order: 5
+    useCheckmark: false
     body: >-
       ## WHAT TO EXPECT
 
@@ -92,6 +98,7 @@ cards:
       begins deliberations.
     _key: afb3701eaa5e
   - order: 6
+    useCheckmark: false
     body: >-
       ## UNKNOWNS
 
@@ -108,6 +115,7 @@ cards:
       Senate votes to convict.
     _key: 4339a9953b6d
   - order: 7
+    useCheckmark: false
     body: >-
       ## BIG PICTURE
 
@@ -124,6 +132,7 @@ cards:
       to join them.
     _key: 83d86935e8eb
   - order: 8
+    useCheckmark: true
     body: >-
       Pres. Trump is only the third president ever impeached but the fourth to
       face impeachment proceedings. Impeachment proceedings began against Pres.

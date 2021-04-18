@@ -20,6 +20,7 @@ card_series: Style
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # SHOPPING SPREE
 
@@ -34,34 +35,37 @@ cards:
       Ciao Bella.
     _key: card-1-d1668afe-1a49-4970-b3f1-27a9aabe06c1
   - order: 1
+    useCheckmark: false
     body: >-
       ## A Fashion Statement
 
 
-      * Kors, known for its **affordable-luxury**, will buy **high-end** Versace
+      * Kors, known for its**affordable-luxury**, will buy**high-end** Versace
       with its $1,500 handbags & $2,500 dresses.
 
-      * Plans to **open 100 stores** globally, expand **online sales** &A focus
-      on **accessories & shoes.**
+      * Plans to**open 100 stores** globally, expand**online sales** &A focus
+      on**accessories & shoes.**
 
-      * Kors will rename co.A **“Capri Holdings,”**A for the fashionable Italian
+      * Kors will rename co.A**“Capri Holdings,”**A for the fashionable Italian
       vacation spot, to better reflect its diverse brands.
     _key: card-2-b398a497-c457-41fe-93b9-9d32463dc8f2
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why it Matters
 
 
-      Deal creates America’s first true **luxury fashion** **conglomerate**.
+      Deal creates America’s first true**luxury fashion****conglomerate**.
       (Tapestry, which owns Coach, Kate Spade & Stuart Weitzman, is more
       mid-to-high-range.)
 
 
-      America has the **largest apparel market in the world**, but has yet to
+      America has the**largest apparel market in the world**, but has yet to
       produce a global, multi-brand company like European names Gucci or
       Christian Dior.
     _key: card-3-5b011503-1729-4155-a985-7002a4848365
   - order: 3
+    useCheckmark: false
     body: >-
       Some Things to Consider:  
 
@@ -79,6 +83,7 @@ cards:
       writer Danielle Ayoka.
     _key: card-4-0ac74100-9129-47ba-b84a-876b08148d1e
   - order: 4
+    useCheckmark: true
     body: >-
       Donatella Versace has served as the fashion house's creative director
       since her brother Gianni, who founded it 1987, was famously murdered in

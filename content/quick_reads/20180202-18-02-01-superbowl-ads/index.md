@@ -16,12 +16,14 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Super Bowl Ads Hit New High
 
       > $5 million Buys 30 seconds
     _key: card-1-0b4b8a2b-f1ad-4317-9c1f-224502bd0ed5
   - order: 1
+    useCheckmark: false
     body: >-
       # Why is it so expensive?
 
@@ -38,6 +40,7 @@ cards:
       most-viewed events in 2017.
     _key: card-2-bf4b4d2b-c95e-445e-9413-35f0325437a9
   - order: 2
+    useCheckmark: false
     body: >-
       # MeToo?
 
@@ -53,6 +56,7 @@ cards:
     citation: Ad Age
     _key: card-3-e57e406d-a4d6-413e-b8ac-2c3703294344
   - order: 3
+    useCheckmark: false
     body: |-
       # “#BoringBowl”
 
@@ -61,6 +65,7 @@ cards:
       Multiple articles suggest companies playing “safe”.
     _key: card-4-9fa1f1d2-93d9-4c50-8b3a-78f1bfcec5ab
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-02-01-superbowl-ads/)'
     _key: card-10-e7ee6ac9-b8e0-45f5-a1c1-10503ff47e3e
 

@@ -19,6 +19,7 @@ card_series: Politics
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Wild West Showdown
 
@@ -29,12 +30,13 @@ cards:
       unique past) as California’s governor confronts a recall effort.
     _key: c88eb7bc9075
   - order: 1
+    useCheckmark: false
     body: >-
       ## RECALL 101
 
 
-      * 19 states and D.C. allow voters to recall an elected state official.
-      **Most states, incl. CA, don’t require a specific reason.**
+      * 19 states and D.C. allow voters to recall an elected state
+      official.**Most states, incl. CA, don’t require a specific reason.**
 
       * Organizers first apply with the state for a recall petition. Next, they
       circulate the petition to gather the required number of signatures (varies
@@ -45,12 +47,13 @@ cards:
       replacement.
     _key: c3fce14aaa1b
   - order: 2
+    useCheckmark: false
     body: >-
       ## What’s Happening Now
 
 
       > This recall effort against Gov. Newsom beginning last year – some report
-      February; others say June – is the **sixth recall attempt** since his 2018
+      February; others say June – is the**sixth recall attempt** since his 2018
       election.
 
 
@@ -60,6 +63,7 @@ cards:
       attention.
     _key: 4f3238f26544
   - order: 3
+    useCheckmark: false
     body: >-
       ## HISTORICAL CONTEXT:
 
@@ -67,8 +71,8 @@ cards:
       * **Recall efforts are rare nationwide,** but they’re not so unusual in
       California.
 
-      * **History**: Since 1913, there have been 179 attempted recalls in CA.
-      **10 made it to the ballot**, resulting in the recall of 6 elected
+      * **History**: Since 1913, there have been 179 attempted recalls in
+      CA.**10 made it to the ballot**, resulting in the recall of 6 elected
       officials – incl. 1 governor. The only other state to successfully recall
       a governor was North Dakota in 1912.
 
@@ -76,6 +80,7 @@ cards:
       and elected Gov. Schwarzenegger (R).
     _key: 9f6111c8f6c8
   - order: 4
+    useCheckmark: false
     body: >-
       > “Unaffordable housing. Record homelessness. Rising crime. Failing
       schools. Independent contractors thrown out of work. Exploding pension
@@ -87,6 +92,7 @@ cards:
       the people of California. It encompasses the entire political spectrum."
     _key: d0deddace57f
   - order: 5
+    useCheckmark: false
     body: >-
       > “It’s about immigration. It’s about our health care policies. It’s about
       our criminal justice reform. It’s about the diversity of the state. It’s
@@ -99,6 +105,7 @@ cards:
       I will fight it."
     _key: 34ee8661f00d
   - order: 6
+    useCheckmark: true
     body: >-
       Why It Matters: California, the most populated state in the nation, has
       one of the largest economies in the world. Gov. Newsom has been a rising

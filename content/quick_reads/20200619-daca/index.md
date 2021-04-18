@@ -19,16 +19,18 @@ featured_image:
 card_series: Current Events
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## The Supreme Court blocks an attempt to end one of the most significant
       immigration policies in recent years.
     _key: '513976802364'
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Is DACA?
 
 
-      **D**eferred **A**ction for **C**hildhood **A**rrivals
+      **D**eferred**A**ction for**C**hildhood**A**rrivals
 
 
       The program put in place under the Obama administration, allows *some* who
@@ -37,6 +39,7 @@ cards:
       from high school, no felony convictions).
     _key: f5ff5202e3ad
   - order: 2
+    useCheckmark: false
     body: >-
       ## DACA TIMELINE
 
@@ -51,11 +54,12 @@ cards:
       renewal applications during legal challenge.
     _key: 62728730f3ac
   - order: 3
+    useCheckmark: false
     body: >-
       ## ABOUT THE CASE
 
 
-      * The Court was **not tasked** with deciding whether DACA or the decision
+      * The Court was**not tasked** with deciding whether DACA or the decision
       to unwind it were sound policies.
 
       * The Court examined whether the Trump administration followed a
@@ -67,6 +71,7 @@ cards:
       Act.
     _key: 136d3a4474d3
   - order: 4
+    useCheckmark: false
     body: >-
       > “The basic rule here is clear: An agency must defend its actions based
       on the reasons it gave when it acted.”
@@ -79,6 +84,7 @@ cards:
       important factors, such as hardships to DACA recipients.
     _key: 699660890cfc
   - order: 5
+    useCheckmark: false
     body: >-
       > “Today’s decision must be recognized for what it is: an effort to avoid
       a politically controversial but legally correct decision.”
@@ -89,6 +95,7 @@ cards:
       the bench."
     _key: 51bf201d8ffd
   - order: 6
+    useCheckmark: false
     body: >-
       ## BIG PICTURE
 
@@ -104,6 +111,7 @@ cards:
       act of Congress.
     _key: b1aec139b144
   - order: 7
+    useCheckmark: true
     body: >-
       NOW WHAT? The DACA program remains - at least for now. Current DACA
       recipients have been able to apply for renewals as the case worked its way

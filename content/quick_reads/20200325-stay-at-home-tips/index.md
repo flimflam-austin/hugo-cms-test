@@ -20,12 +20,14 @@ card_series: Current Events
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # STAYING HOME?
 
       You shared your favorite stay-at-home books, movies, recipes and games!
     _key: 3c2e63a75716
   - order: 1
+    useCheckmark: true
     citation: VIEW SOURCES
     _key: a1d0b76bbae8
 

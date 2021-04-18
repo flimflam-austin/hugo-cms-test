@@ -20,6 +20,7 @@ card_series: what to know
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # What Happens If…
 
@@ -31,6 +32,7 @@ cards:
       Here’s what to know.
     _key: e7c4ea54d3f4
   - order: 1
+    useCheckmark: false
     body: >-
       > “The President and First Lady are both well at this time, and they plan
       to remain at home within the White House during their convalescence.”
@@ -42,6 +44,7 @@ cards:
       symptoms typically develop anytime from 2-14 days after first exposure.
     _key: 1e31c18cf18c
   - order: 2
+    useCheckmark: false
     body: >-
       ## Context:
 
@@ -59,6 +62,7 @@ cards:
       COVID-19.
     _key: 5363cacc9e65
   - order: 3
+    useCheckmark: false
     body: >-
       ## Statistically Speaking
 
@@ -75,6 +79,7 @@ cards:
       * **90x more likely to die** than a person under 29
     _key: 5a9007d36418
   - order: 4
+    useCheckmark: false
     body: >-
       ## When A President Falls Ill…
 
@@ -90,12 +95,13 @@ cards:
       when undergoing procedures that require anesthesia, like a colonoscopy.
     _key: a188d85f62d8
   - order: 5
+    useCheckmark: false
     body: >-
       ## If A President Can No Longer Serve…
 
 
       A President can transfer power, or it can be “taken” if they’re unable /
-      unwilling to “pass it.” Here’s the **order of succession**:
+      unwilling to “pass it.” Here’s the**order of succession**:
 
 
       * Vice President (VP Mike Pence)
@@ -107,6 +113,7 @@ cards:
       R-IA)
     _key: c95eec15eb47
   - order: 6
+    useCheckmark: true
     body: >-
       Pres. Trump isn't the first president to fall ill during a pandemic.
       During the last major global pandemic, Pres. Woodrow Wilson contracted

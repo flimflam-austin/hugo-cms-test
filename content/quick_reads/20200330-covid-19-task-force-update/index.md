@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # White House  
       Covid-19 Task Force
@@ -27,6 +28,7 @@ cards:
       WHAT WE LEARNED TODAY
     _key: 85fd8c34e803
   - order: 1
+    useCheckmark: false
     body: >-
       > “Nothing would be worse than declaring victory before victory was won.”
 
@@ -37,6 +39,7 @@ cards:
       will be "well on its way to recovery" by June 1st.
     _key: 311101f3d429
   - order: 2
+    useCheckmark: false
     body: >-
       > “We really built this on scientific evidence and the ability to save
       hundreds of thousands of lives.”
@@ -50,6 +53,7 @@ cards:
       so far this year is 24,000.
     _key: 27df0ef7d6a5
   - order: 3
+    useCheckmark: false
     body: >-
       > “A model is as good as the assumptions you put into the model.”
 
@@ -61,6 +65,7 @@ cards:
       than the predictions.
     _key: a50b2535dfea
   - order: 4
+    useCheckmark: true
     body: View one of the models used by the White House on our source page.
     citation: VIEW SOURCES
     _key: d5d2bb533081

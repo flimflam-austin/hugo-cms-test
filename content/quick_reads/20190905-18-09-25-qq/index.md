@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "This country has given me everything. It’s a dream come true."  
         
@@ -30,6 +31,7 @@ cards:
       U.S. because of the internal strife in his home country.
     _key: card-1-3a7da270-45c3-4757-b236-b87b777e588e
   - order: 1
+    useCheckmark: false
     body: >-
       > “We’re not in a court of law; we’re actually in a court of credibility
       at this point.”  
@@ -41,6 +43,7 @@ cards:
       days.
     _key: card-2-b4f2a870-746d-48f6-a477-d681451e1db7
   - order: 2
+    useCheckmark: false
     body: >-
       > “I think all of us have probably done things we look back on in high
       school and regret or cringe a bit. But that’s not what we’re talking
@@ -52,6 +55,7 @@ cards:
       of any kind as a younger man.
     _key: card-3-a72a052c-8ef2-4e71-ac22-496ea8da708c
   - order: 3
+    useCheckmark: false
     body: >-
       > “You are responsible for these actions; you will face the repercussions.
       We warn all of those behind the story, we will take revenge.”  
@@ -63,6 +67,7 @@ cards:
       States and its allies for the attack.
     _key: card-4-65de6758-c2c9-48f2-8c7e-685c5e88ed3d
   - order: 4
+    useCheckmark: false
     body: >-
       > "We stand with the Iranian people against the scourge of radical Islamic
       terrorism and express our sympathy to them at this terrible time."  
@@ -73,6 +78,7 @@ cards:
       Iranian group has also claimed responsibility.
     _key: card-5-0b62cec9-00ca-4691-ae09-7de300dd51fe
   - order: 5
+    useCheckmark: false
     body: >-
       > “Building new things requires that we step back, understand what
       inspires us and match that with what the world needs; that’s what we plan
@@ -84,6 +90,7 @@ cards:
       created in the next few weeks.
     _key: card-6-245b706a-3346-4ab5-a08c-198d846addb4
   - order: 6
+    useCheckmark: false
     body: >-
       “Such a famous actress and no one knows her whereabouts. And no
       authorities have made any clarifications. This is the real suspense.”  
@@ -95,6 +102,7 @@ cards:
       happened.
     _key: card-7-adf2fb90-05ea-44f3-81d3-1457705ad55b
   - order: 7
+    useCheckmark: false
     body: >-
       > "Versace has struggled with its accessories business, and Michael Kors
       could help them with that.”  
@@ -107,6 +115,7 @@ cards:
       would take the reins at an elite European brand.
     _key: card-8-08d65572-64c1-4200-940c-dcbc975fa9d9
   - order: 8
+    useCheckmark: true
     body: |-
       Have a great day!
 

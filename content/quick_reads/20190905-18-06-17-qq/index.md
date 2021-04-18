@@ -16,6 +16,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-06-17-qq/)'
     _key: card-10-1a1bcdce-2958-4c7f-8211-458254561f7c
 

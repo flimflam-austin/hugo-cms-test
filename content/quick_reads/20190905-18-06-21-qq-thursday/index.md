@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “Trump is playing chicken with China. It will be important and telling
       to see how this plays out.”  
@@ -31,6 +32,7 @@ cards:
       Dalio has said a trade war with China would be a "tragedy."
     _key: card-1-64141ae5-5269-47e9-b73f-113c4de3eef1
   - order: 1
+    useCheckmark: false
     body: >-
       “To watch those families broken apart in real time puts to us a very
       simple question: are we a nation that accepts the cruelty of ripping
@@ -43,6 +45,7 @@ cards:
       children WITHOUT adults - no separation required.
     _key: card-2-64fd516a-521d-4d18-9217-f0cea4794376
   - order: 2
+    useCheckmark: false
     body: >-
       > “In obedience I accept the decision of The Holy See, that I no longer
       exercise any public ministry.”  
@@ -54,6 +57,7 @@ cards:
       from 2001 to 2006.
     _key: card-3-9d8ff37c-d96f-411f-a575-ff224b2badf8
   - order: 3
+    useCheckmark: false
     body: >-
       > “…my parents are abusive. They abuse us, and my two little sisters right
       now are chained up."  
@@ -66,6 +70,7 @@ cards:
       on $12M bail each.
     _key: card-4-d2b624cf-1563-4041-8990-d66ebe461712
   - order: 4
+    useCheckmark: false
     body: >-
       > “It’s mobile first. It’s simple and it’s quality. That’s IGTV.”  
         
@@ -76,6 +81,7 @@ cards:
       is available now on iPhone & Android devices.
     _key: card-5-2267dae1-a8fb-4697-8111-830b22b74fad
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-06-21-qq-thursday/)'
     _key: card-10-d412fabc-c53c-4131-b18b-04cdbdb815a3
 

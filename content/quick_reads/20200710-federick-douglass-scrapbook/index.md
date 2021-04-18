@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       One of the most famous men in American history had private family
       scrapbooks you will soon see for yourself.
@@ -28,6 +29,7 @@ cards:
       The amazing story of the Frederick Douglass collection.
     _key: c5da7a3dae6e
   - order: 1
+    useCheckmark: false
     body: >-
       ## Frederick Douglass
 
@@ -44,19 +46,21 @@ cards:
       * The most-photographed American of any race in the 19th century.
     _key: 7ea16de1c21c
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Scrapbooks
 
 
       * 9 private family scrapbooks of articles, photographs, personal letters
       arranged by Douglass’ three sons in the years after the Civil War,
-      referred to as **_“the most extraordinary private collection of Douglass
+      referred to as**_“the most extraordinary private collection of Douglass
       manuscript material in the world.”_**
 
       * Yale University recently acquired the collection, says will put the
       contents online for all to see (and read) first-hand.
     _key: 8218f6957c4c
   - order: 3
+    useCheckmark: false
     body: >-
       > “Scholars, researchers, students and the world should have access to
       it.”
@@ -70,6 +74,7 @@ cards:
       became a leading activist before, during & after the Civil War.
     _key: 5c1436987898
   - order: 4
+    useCheckmark: true
     body: >-
       A historian describes Douglass' famous July 5, 1852 speech on American
       independence: “He rips the throats out of his audience, before lifting

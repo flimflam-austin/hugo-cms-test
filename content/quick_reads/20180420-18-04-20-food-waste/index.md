@@ -20,13 +20,14 @@ card_series: Now You Know
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # FOOD FOR THOUGHT
 
       One pound – the size of a grapefruit – is what each American wastes  
       EVERY DAY.
 
-      That’sA **150,000 tons of food** aA day.
+      That’sA**150,000 tons of food** aA day.
 
       With that waste comes more waste… think: land, water, & fertilizer.
 
@@ -34,6 +35,7 @@ cards:
     citation: 'FLIP: are you guilty?'
     _key: card-1-30ce8af4-747c-42b1-844c-3ac320136398
   - order: 1
+    useCheckmark: false
     body: >-
       WHAT DO WE TRASH?  
 
@@ -53,15 +55,16 @@ cards:
       plate waste.
     _key: card-2-e0da35db-ef97-43d1-a2c2-031de583cdce
   - order: 2
+    useCheckmark: false
     body: >-
       ## WHY?
 
 
-      Studies show **90% of Americans misinterpret expiration labels**, and
-      throw away food too early.
+      Studies show**90% of Americans misinterpret expiration labels**, and throw
+      away food too early.
 
 
-      Confusion: **10 different expiration phrases**. Food industry urging (but
+      Confusion:**10 different expiration phrases**. Food industry urging (but
       not requiring) use of only**A “Use By” & “Best if Used By”** by summer 18.
 
 
@@ -69,6 +72,7 @@ cards:
       formula.
     _key: card-3-9a1f625b-024e-47ec-89e9-887dbe6af5ef
   - order: 3
+    useCheckmark: false
     body: >-
       ## DECIPHERING THE LINGO
 
@@ -87,6 +91,7 @@ cards:
       **“Expiration Date”:**A last day to eat. Proceed at your own risk.
     _key: card-4-c1725dda-95f7-41c9-9b2d-ab255a81aa1f
   - order: 4
+    useCheckmark: false
     body: >-
       ## Honey, Will You Sniff This?
 
@@ -103,6 +108,7 @@ cards:
       Low-acid foods like veggies may last 5 years.
     _key: card-5-a4a732f4-2397-42d3-a29f-83dee26bd0a1
   - order: 5
+    useCheckmark: true
     body: >-
       In a recent poll, 76% respondents think they waste less edible food than
       the average American. They might want to think again. Click for 6 tips to

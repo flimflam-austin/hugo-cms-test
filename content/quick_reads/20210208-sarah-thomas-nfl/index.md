@@ -19,10 +19,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: '# _“Silence can never be misquoted.”_'
     citation: SARAH THOMAS
     _key: 0ae6bda4ca36
   - order: 1
+    useCheckmark: true
     body: "The first woman (and mother!)\_to officiate a Super Bowl, Sarah Thomas became a \"permanent\" NFL official in 2015. This is her response to how to deal w/angry coaches or players - Stay professional and ignore when required. Thomas said if she ever had the opportunity to officiate a Super Bowl she'd want to earn it as a reflection of being top of the game."
     citation: VIEW SOURCES
     _key: d34200fdb1ce

@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # OTD in 1965:
 
@@ -36,6 +37,7 @@ cards:
       TAP HERE FOR MORE
     _key: card-1-935304ca-47b8-4356-9658-90cb885f29ec
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why Did This Happen?
 
@@ -48,6 +50,7 @@ cards:
       15th Amendment, like poll taxes, literacy exams, fraud, & intimidation.
     _key: card-2-964608cb-014c-40eb-a7f4-6ac4653be826
   - order: 2
+    useCheckmark: false
     body: >-
       ## “Bloody Sunday”
 
@@ -63,6 +66,7 @@ cards:
       * Three weeks later, 3,000+ set out for Montgomery;A 25,000 arrived.
     _key: card-3-036c5019-d23d-43a9-9b8b-c65c1bcbab6a
   - order: 3
+    useCheckmark: false
     body: >-
       ## Rep. John Lewis (D-Ga.) shared his “Bloody Sunday” memories with TIME
       Magazine in 2017:
@@ -76,6 +80,7 @@ cards:
       FLIP TO CONTINUE
     _key: card-4-ff7c3e1c-2059-4821-86b5-20f7e289be59
   - order: 4
+    useCheckmark: false
     body: >-
       ## Rep. John Lewis (D-Ga.) shared his “Bloody Sunday” memories with TIME
       Magazine in 2017:
@@ -90,6 +95,7 @@ cards:
       Now](https://www.youtube.com/embed/DRwnXUbJdfg?enablejsapi=1&autoplay=1&rel=0)
     _key: card-5-2b202023-d25d-45e8-a279-c24ae5b60b19
   - order: 5
+    useCheckmark: false
     body: >-
       ## A week later, Pres. Lyndon Johnson told Congress:
 
@@ -104,6 +110,7 @@ cards:
       Now](https://www.youtube.com/embed/5NvPhiuGZ6I?enablejsapi=1&autoplay=1&rel=0)
     _key: card-6-17dee8ed-cd05-46cd-a621-c88bbca77e9e
   - order: 6
+    useCheckmark: false
     body: >-
       ## Five months later, Congress passed the Voting Rights Act
 
@@ -117,6 +124,7 @@ cards:
       nearly tripled.
     _key: card-7-a6af8699-148a-4a05-88ab-f66ebcfa5a48
   - order: 7
+    useCheckmark: true
     body: >-
       To commemorate the 50th Anniversary of Bloody Sunday in 2015, Pres. Barack
       Obama & former Pres. George W. Bush, joined former marchers, including

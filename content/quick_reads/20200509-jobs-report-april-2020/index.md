@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # America’s New Unemployment Rate
 
@@ -31,12 +32,13 @@ cards:
       of the job market.”
     _key: f258c3631be2
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Basics
 
 
       Highest unemployment rate in the history of the survey dating back to
-      1948; also **highest month-to-month increase ever**.
+      1948; also**highest month-to-month increase ever**.
 
 
       **20.5M jobs lost.** Job losses seen in every category; gains in none.
@@ -46,12 +48,13 @@ cards:
       nearly half the entire workforce in that category.
     _key: 9ecee0774e1c
   - order: 2
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
 
       In order to be counted as “unemployed” in a jobs report, an American has
-      to be able to work, want to work and **actively looking for work**.
+      to be able to work, want to work and**actively looking for work**.
 
 
       An estimated 9M+ Americans were laid-off but NOT actively looking for work
@@ -59,6 +62,7 @@ cards:
       they were counted, the unemployment rate would be closer to 20%.
     _key: 7997947e6b89
   - order: 3
+    useCheckmark: false
     body: >-
       > “The sharp increases in these measures reflect the effects of the
       coronavirus pandemic and efforts to contain it.”
@@ -71,6 +75,7 @@ cards:
       education and health services.
     _key: 0fb07b304e70
   - order: 4
+    useCheckmark: false
     body: >-
       > “This has got to be the most heartbreaking day in the history of the job
       market.”
@@ -84,6 +89,7 @@ cards:
       improve soon.
     _key: a2bd90e7a903
   - order: 5
+    useCheckmark: false
     body: >-
       > “We’re going to rebuild it back as fast as we can.”
 
@@ -97,6 +103,7 @@ cards:
       gov't debt.
     _key: bb8287268fc4
   - order: 6
+    useCheckmark: true
     body: >-
       Early estimates for this month's unemployment rate topped 16%, so this
       report was actually viewed by some as better than expected. For context:

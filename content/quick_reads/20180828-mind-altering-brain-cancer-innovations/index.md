@@ -20,18 +20,20 @@ card_series: Health
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # BRAIN POWER
 
 
       As America continues to honor Sen. John McCain,A brain cancer research
-      delivers quiteA literallyA **mind-altering innovations.**
+      delivers quiteA literallyA**mind-altering innovations.**
 
 
       Reason to Hope?
     citation: Reason to Hope?
     _key: card-1-b2484f77-ee76-41e4-8c57-20a88f531d2c
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why Do We Call It Cancer?
 
@@ -48,6 +50,7 @@ cards:
       Leukemia).
     _key: card-2-3653e2d5-876b-428e-b272-5e90cd80fd16
   - order: 2
+    useCheckmark: false
     body: >-
       ## Brain Cancer Boost?
 
@@ -63,6 +66,7 @@ cards:
       cancer Sen. McCain had).
     _key: card-3-9ef479bb-cd90-402c-a18f-e043c0c03401
   - order: 3
+    useCheckmark: false
     body: >-
       > ‘Just to use this ad that used to be out, ‘This is not your father’s
       Oldsmobile.’ Well, this is not your father’s brain tumor either. I want
@@ -80,6 +84,7 @@ cards:
     citation: CLICK TO Watch
     _key: card-4-f964db64-3571-4eb4-b5ec-0aa93ef8113f
   - order: 4
+    useCheckmark: true
     body: >-
       Novocure, the company using Tumor Treatment Fields, received FDA approval
       for treating Glioblastoma using its device (with chemotherapy). It's also

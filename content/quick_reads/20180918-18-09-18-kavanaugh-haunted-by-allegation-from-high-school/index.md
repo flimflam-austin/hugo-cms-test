@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## High Court: High Stakes
 
@@ -34,13 +35,14 @@ cards:
       Why It Matters
     _key: card-1-6cabe479-f5ac-463e-99b5-bb8d36b12ca3
   - order: 1
+    useCheckmark: false
     body: >-
       ## What’s At Stake?
 
 
-      * Supreme Court Justice **serves for lifetime.**
+      * Supreme Court Justice**serves for lifetime.**
 
-      * Pres nominates Judge; **Senate must confirm.**
+      * Pres nominates Judge;**Senate must confirm.**
 
       * Court functions even if all 9 seats aren’t filled; currently 4 “left
       leaning” & 4 “conservative” justices.
@@ -49,17 +51,19 @@ cards:
       to the “right.”
     _key: card-2-1704b264-5238-4cb8-b499-1f2ac361e53d
   - order: 2
+    useCheckmark: false
     body: >-
       * **July**: Accuser calls newspaper tip line when Judge Kavanaugh
       reportedly on short list of Supreme Court nominees; declines going “on
-      record.”A **July 9th**: Kavanaugh nominated.
+      record.”A**July 9th**: Kavanaugh nominated.
 
       * Accuser sends confidential letter to Sen. Dianne Feinstein (D-CA),
       declines coming forward. Feinstein refers letter to feds.
 
-      * Story leaks **after** Senate Judiciary Hearing ends.
+      * Story leaks**after** Senate Judiciary Hearing ends.
     _key: card-3-51aabca6-4a33-431a-beb7-18849dc7b723
   - order: 3
+    useCheckmark: false
     body: >-
       "I thought he might inadvertently kill me. He was trying to attack me and
       remove my clothing."  
@@ -72,9 +76,11 @@ cards:
       top of them, causing them all to fall, and she freed herself.
     _key: card-4-976498e6-7792-4481-904c-fa2ec227faf4
   - order: 4
+    useCheckmark: false
     body: "> \"I have never done anything like what the accuser describes a\x14 to her or to anyone. Because this never happened, I had no idea who was making this accusation until she identified herself…\"  \n  \n  \n  \nJudge Brett Kavanaugh"
     _key: card-5-4e1dbd8b-7fe3-4f3b-a94a-0b27d1c37592
   - order: 5
+    useCheckmark: false
     body: >-
       > "It’s just absolutely nuts. I never saw Brett act that way.”  
         
@@ -86,12 +92,13 @@ cards:
       donated to democratic campaigns.
     _key: card-6-fa873806-ba99-4ef7-b630-590b88feee45
   - order: 6
+    useCheckmark: false
     body: >-
       ## Timing Matters
 
 
       * Senate Judiciary Cmte was scheduled to vote THIS Thursday for/against
-      Judge Kavanaugh. **This isn’t happening.**
+      Judge Kavanaugh.**This isn’t happening.**
 
       * **RepublicansA** want Kavanaugh confirmed before midterms (Nov) & next
       SCOTUS term (Oct).
@@ -100,6 +107,7 @@ cards:
       midterms they can block Kavanaugh’s confirmation.
     _key: card-7-d6e5e663-370b-441f-8f5f-c2a08f91630f
   - order: 7
+    useCheckmark: false
     body: >-
       ## Some Things To Consider:
 
@@ -113,6 +121,7 @@ cards:
       * No other accusers have come forward at this time.
     _key: card-8-d43e8dca-30d1-49c4-8c8a-111f7f1be94b
   - order: 8
+    useCheckmark: true
     body: >-
       On Monday, Sept 24th, the Senate Judiciary Committee will hold a public
       hearing, during which Judge Kavanaugh and his accuser, Christine Blasey

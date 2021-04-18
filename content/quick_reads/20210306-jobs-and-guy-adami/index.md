@@ -19,11 +19,13 @@ card_series: smarther news
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       #   
       **Jobs, your money & our guest, stock market analyst & host, Guy Adami**
     _key: 7e6eeb4c4213
   - order: 1
+    useCheckmark: true
     body: >-
       A better than expected jobs report intersects with a HUGE economic
       stimulus bill. What to know and why it matters.

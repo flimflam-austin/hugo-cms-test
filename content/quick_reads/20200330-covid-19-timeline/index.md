@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # CORONAVIRUS  
       PANDEMIC
@@ -29,6 +30,7 @@ cards:
       As we look ahead to what’s next, here’s how we got here.
     _key: 230ecc51031c
   - order: 1
+    useCheckmark: false
     body: >-
       ## DECEMBER
 
@@ -43,6 +45,7 @@ cards:
       w/animals known to carry coronaviruses (ex: bats).
     _key: 3e76a81cfe7b
   - order: 2
+    useCheckmark: false
     body: >-
       ## JANUARY
 
@@ -61,6 +64,7 @@ cards:
       who traveled to China within the past 14 days
     _key: 4be926121f82
   - order: 3
+    useCheckmark: false
     body: >-
       > “We understand that this may be concerning, but based on what we know
       now, we still believe the immediate risk to the American public is low.”
@@ -72,6 +76,7 @@ cards:
       spread the virus to her husband, who had not traveled.
     _key: e0a75211a021
   - order: 4
+    useCheckmark: false
     body: >-
       ## FEBRUARY
 
@@ -91,6 +96,7 @@ cards:
       (Washington)
     _key: 750c611432c5
   - order: 5
+    useCheckmark: false
     body: >-
       > “I understand this whole situation may seem overwhelming and that
       disruption to everyday life may be severe. But these are things that
@@ -103,6 +109,7 @@ cards:
       "preparing for significant disruption of our lives" due to COVID-19.
     _key: afdc7c00e2aa
   - order: 6
+    useCheckmark: false
     body: >-
       ## MARCH
 
@@ -121,6 +128,7 @@ cards:
       85,000+
     _key: be9a9363b21e
   - order: 7
+    useCheckmark: true
     body: >-
       On March 29, a day before the "15 Days to Slow The Spread" campaign was
       set to come to an end, Pres. Trump extended the social distancing

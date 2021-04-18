@@ -19,6 +19,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## January 25, 1890
 
@@ -31,6 +32,7 @@ cards:
     citation: THE STORY OF NELLIE BLY
     _key: 1dcf8085d717
   - order: 1
+    useCheckmark: false
     body: >-
       > _“The American Girl will no longer be misunderstood. She will be
       recognized as pushing, determined, independent, able to take care of
@@ -42,6 +44,7 @@ cards:
       80 days; she did it in 72.
     _key: a72283155777
   - order: 2
+    useCheckmark: false
     body: >-
       ## Who Is Nellie Bly?
 
@@ -58,6 +61,7 @@ cards:
       institution & exposed abusive conditions.
     _key: 5cc1f22414da
   - order: 3
+    useCheckmark: false
     body: >-
       ## January 25, 1890
 
@@ -69,12 +73,14 @@ cards:
       every form of transport available: ship, train, rickshaw, horse, etc.
 
       * Her circumnavigation of the globe started Nov. 14 and ended January 25 –
-      in **72 days, 6 hours.**
+      in**72 days, 6 hours.**
     _key: f04152fea780
   - order: 4
+    useCheckmark: false
     body: "> _“The influenza is coming around the world in a good deal faster time than Nellie Bly…”_\n\nA Nevada newspaper reflecting on Bly's trip during an unexpected pandemic of 1889.\_The pandemic, caused by the \"Russian\" or \"Asiatic\" flu, impacted travel for many and caused symptoms including fever, cough, headache, and fatigue; more serious cases resulted in pneumonia or heart failure."
     _key: 5718270c1ebb
   - order: 5
+    useCheckmark: true
     body: >-
       Nellie completed this adventure shortly before her 26th birthday. Click on
       our source page for a complete list of what she brought with her on her

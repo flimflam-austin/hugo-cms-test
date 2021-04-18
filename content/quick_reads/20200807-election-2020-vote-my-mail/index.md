@@ -18,6 +18,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Mailing It In?
 
@@ -31,30 +32,32 @@ cards:
       Why It Matters
     _key: 9c8c1d6fc058
   - order: 1
+    useCheckmark: false
     body: >-
       ## Origins & Evolution
 
 
       * The concept of voting “**_in absentia_**” dates back to the Civil War –
-      as a way for **military** members to cast ballots.
+      as a way for**military** members to cast ballots.
 
-      * By the late **1800s**, states began allowing non-military voters to use
+      * By the late**1800s**, states began allowing non-military voters to use
       absentee mail-in ballots with a valid excuse (ex: sick). States started
-      allowing absentee voting without an excuse in the **1980s**.
+      allowing absentee voting without an excuse in the**1980s**.
 
-      * Today **“voting by mail**” refers to both absentee voting and “universal
+      * Today**“voting by mail**” refers to both absentee voting and “universal
       vote-by-mail.”
     _key: 01b59b68d59c
   - order: 2
+    useCheckmark: false
     body: >-
       ## Mail-In Voting
 
 
-      * Every state allows registered voters to apply for **absentee mail-in
+      * Every state allows registered voters to apply for**absentee mail-in
       ballots**; 16 require a specific excuse (ex: caregiver, vacation
       scheduled).
 
-      * 34 states & DC allow any voter to apply for **“no-excuse absentee”**
+      * 34 states & DC allow any voter to apply for**“no-excuse absentee”**
       mail-in ballot.
 
       * 5 states (Colorado, Hawaii, Oregon, Utah and Washington) have
@@ -62,6 +65,7 @@ cards:
       and automatically send everyone a mail-in ballot.
     _key: 462bbb02b8e5
   - order: 3
+    useCheckmark: false
     body: >-
       ## “No-Excuse Absentee”
 
@@ -79,6 +83,7 @@ cards:
       Others require mail-in ballots to be notarized.
     _key: 54d405ff5f49
   - order: 4
+    useCheckmark: false
     body: >-
       ## What’s Changed
 
@@ -92,6 +97,7 @@ cards:
       secure, reliable voting.
     _key: eae0e5d04f61
   - order: 5
+    useCheckmark: false
     body: >-
       ## “Non-Traditional” Voting
 
@@ -106,6 +112,7 @@ cards:
       presidential elections grew by about 4%.
     _key: bca6507aa862
   - order: 6
+    useCheckmark: true
     body: >-
       And then there's early voting... 39 states & DC allow voters to vote in
       person on designated days anywhere from 4 to 45 days before Election Day.

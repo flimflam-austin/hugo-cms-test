@@ -20,19 +20,21 @@ card_series: Politics
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Today, the Supreme Court hears one of the most significant challenges
       to current abortion law in America in recent years.
     citation: WHY IT MATTERS
     _key: 4e213b395fbd
   - order: 1
+    useCheckmark: false
     body: >-
       ## About U.S. Abortion Laws
 
 
       * _Roe v. Wade_: A case heard before the Supreme Court in 1973 that
-      legalized abortion **with limits**; a woman’s right to an abortion is
-      *not* absolute.
+      legalized abortion**with limits**; a woman’s right to an abortion is *not*
+      absolute.
 
       * Abortion is legal in the 1st trimester but states can regulate and, in
       some cases, outlaw abortion at certain points in the pregnancy, *unless*
@@ -41,6 +43,7 @@ cards:
       * **BIG PICTURE:** This is why states have different laws.
     _key: 66761d077968
   - order: 2
+    useCheckmark: false
     body: >-
       ## BACKSTORY  
 
@@ -58,12 +61,13 @@ cards:
       decision.
     _key: 1cbf47569ebc
   - order: 3
+    useCheckmark: false
     body: >-
       ## Important Context
 
 
-      * Under current legal precedent, states cannot pass laws that impose an
-      **“undue burden**” on the right to access abortion.
+      * Under current legal precedent, states cannot pass laws that impose
+      an**“undue burden**” on the right to access abortion.
 
       * In 2016, the Court struck down a nearly identical law to Louisiana’s out
       of Texas, finding it imposed an “undue burden” on those seeking abortions.
@@ -72,6 +76,7 @@ cards:
       Justices Gorsuch and Kavanaugh.
     _key: c118069eac3c
   - order: 4
+    useCheckmark: false
     body: >-
       > “The true, and often overt, intent of legislators behind pretextual laws
       like Act 620, which have no demonstrable medical benefit, is to severely
@@ -84,6 +89,7 @@ cards:
       22 state attorneys general filed similar briefs.
     _key: df70edb23c81
   - order: 5
+    useCheckmark: false
     body: >-
       > “The burdens of Act 620 are minimal—principally, a modest increase in
       the waiting time (less than an hour) to obtain an abortion. The benefits
@@ -96,6 +102,7 @@ cards:
       Congress.
     _key: 1501fe797404
   - order: 6
+    useCheckmark: false
     body: >-
       ## Louisiana Abortion Law
 
@@ -110,6 +117,7 @@ cards:
       it’s spearheading efforts to outlaw abortion.
     _key: 4a42fbb30521
   - order: 7
+    useCheckmark: true
     body: >-
       The Supreme Court likely will issue a decision before July. States like
       New York and Illinois have tried to expand access to abortion. States like

@@ -16,6 +16,7 @@ card_series: Current Events
 colorpaletteclassname: '--black'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # OUR TOP SPY?
 
@@ -32,6 +33,7 @@ cards:
       Flip For More
     _key: card-1-0460a68c-a35b-4392-a9a6-c7566176c5c3
   - order: 1
+    useCheckmark: false
     body: >-
       ## Background
 
@@ -48,6 +50,7 @@ cards:
       Flip: Who is haspel?
     _key: card-2-009dcd92-0f3f-41f4-9654-4dc8b4d19b27
   - order: 2
+    useCheckmark: false
     body: >-
       ## Gina Haspel: CIA
 
@@ -68,6 +71,7 @@ cards:
       * Fan of Johnny Cash.
     _key: card-3-6c02b989-90f9-4e69-96b6-918ef852ae90
   - order: 3
+    useCheckmark: false
     body: >-
       ## Critics Say:
 
@@ -83,6 +87,7 @@ cards:
       Brian Tashman, ACLU (4/27/18)
     _key: card-4-0206f146-9d24-4730-aab0-84682e05c0f2
   - order: 4
+    useCheckmark: false
     body: >-
       ## DO NOT MISS THIS:
 
@@ -96,6 +101,7 @@ cards:
       * Questions remain as to Haspel’s role destroying CIA torture tapes.
     _key: card-5-8c64ee97-f883-418e-bf47-872c4afb2696
   - order: 5
+    useCheckmark: true
     body: >-
       "If confirmed, Ms. Haspel, 61 years old, would be the second person to
       become director after spending an entire career in clandestine

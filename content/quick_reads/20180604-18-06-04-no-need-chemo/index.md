@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## QUITTING CHEMO?
 
@@ -31,9 +32,10 @@ cards:
       Flip For Why It Matters
     _key: card-1-8a064671-a05a-4c16-b7b0-c54aa48ec3d8
   - order: 1
+    useCheckmark: false
     body: >-
       > ‘We can spare thousands and thousands of women from getting toxic
-      treatment that really wouldn’t benefit them. **This is very powerful. It
+      treatment that really wouldn’t benefit them.**This is very powerful. It
       really changes the standard of care**.’  
         
         
@@ -42,6 +44,7 @@ cards:
       the study that started in 2006 and included more than 10,000 women.
     _key: card-2-b0b2be61-03fb-410f-aa8f-0621883185b1
   - order: 2
+    useCheckmark: false
     body: >-
       ## Basics of Study
 
@@ -57,6 +60,7 @@ cards:
       * **70%: NO benefit from chemo.**
     _key: card-3-53636b99-2b20-467f-8da3-67b4a953aab3
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -66,9 +70,10 @@ cards:
       testing on tumor also used to determine treatment.
 
       * **One caveat:**A Women under 50 with breast cancer *may* benefit from
-      chemo, but **docs don’t know why.**
+      chemo, but**docs don’t know why.**
     _key: card-4-59fffbd0-1d2e-4134-84f8-0ca64a6a9fb1
   - order: 4
+    useCheckmark: true
     body: >-
       Some suggest this isn't a move away from simply chemo; but a move toward
       more personalized medicine. The WSJ points out this is part of a trend in

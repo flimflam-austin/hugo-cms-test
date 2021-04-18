@@ -20,11 +20,12 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # PHONE OR REMOTE?
 
 
-      In a first — next year, people around the world will spend **more time
+      In a first — next year, people around the world will spend**more time
       online than watching TV.A**
 
 
@@ -34,29 +35,30 @@ cards:
       Why & Why It Matters
     _key: card-1-94f0c45f-d924-4029-b7bf-176abbb0b064
   - order: 1
+    useCheckmark: false
     body: >-
       ## THE FINDINGS
 
 
-      * In 2019, people around the world, will spend **170.6 mins/day online**
-      vs.A **170.3 mins/day watching TV.**
+      * In 2019, people around the world, will spend**170.6 mins/day online**
+      vs.A**170.3 mins/day watching TV.**
 
       * **Change happening faster than expected:** just last year, data co.
       Zenith predicted TV would still be #1 in 2019.
 
-      * However, **_in America,_ internet usage isn’t expected to top TV until
+      * However,**_in America,_ internet usage isn’t expected to top TV until
       2020**. TVs prolific in 96.5% of American households.
     _key: card-2-1962251c-81a0-4b88-b110-05044c8a2aee
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why it Matters
 
 
-      * Zenith’s findings cement the fact that **globally more people are using
-      phones** than ever before with **major economic & business
-      ramifications**.
+      * Zenith’s findings cement the fact that**globally more people are using
+      phones** than ever before with**major economic & business ramifications**.
 
-      * In fact, **online advertisers are expected to outspend TV advertisers**
+      * In fact,**online advertisers are expected to outspend TV advertisers**
       by $40B this year & $60B next year.
 
 
@@ -65,6 +67,7 @@ cards:
       Can't live without?
     _key: card-3-eccee58c-95b6-4652-8f6b-915b4b9980ed
   - order: 3
+    useCheckmark: true
     body: >-
       Earlier this year, Pew Research found about a quarter of Americans are
       online "almost constantly." Which would be harder for you to give up: your

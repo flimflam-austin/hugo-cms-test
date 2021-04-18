@@ -20,12 +20,14 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
-      ## A closer look at the **“emergency powers”** invoked by state and local
-      governments in response to COVID-19 as New York enacts a first-of-its-kind
-      **“containment zone.”**
+      ## A closer look at the**“emergency powers”** invoked by state and local
+      governments in response to COVID-19 as New York enacts a
+      first-of-its-kind**“containment zone.”**
     _key: 2ef97a52dd23
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why Declare A State Of Emergency?
 
@@ -39,6 +41,7 @@ cards:
       the coronavirus.
     _key: a9ccd9f4be7a
   - order: 2
+    useCheckmark: false
     body: >-
       ## PREPAREDNESS
 
@@ -47,16 +50,17 @@ cards:
       efforts**
 
 
-      * Deploying the **National Guard troops** to provide assistance to local
+      * Deploying the**National Guard troops** to provide assistance to local
       authorities.
 
-      * Gaining access to federal & state **funds** to assist affected
+      * Gaining access to federal & state**funds** to assist affected
       communities (ex: emergency & medical supplies).
 
-      * Fast-tracking **coordination** btwn local, state, & federal agencies to
-      **speed up** delivery of goods and services.
+      * Fast-tracking**coordination** btwn local, state, & federal agencies
+      to**speed up** delivery of goods and services.
     _key: 5093fcb223fc
   - order: 3
+    useCheckmark: false
     body: >-
       ## PREVENTION
 
@@ -65,16 +69,17 @@ cards:
       measures**
 
 
-      * Setting up satellite **healthcare** facilities and waiving copays and
+      * Setting up satellite**healthcare** facilities and waiving copays and
       deductibles for coronavirus testing.
 
-      * Enacting laws to prohibit **price gouging** of key items (ex: hand
+      * Enacting laws to prohibit**price gouging** of key items (ex: hand
       sanitizer).
 
-      * Prevent community spread by **closing** schools or houses of worship and
-      **canceling** large events (ex: SXSW).
+      * Prevent community spread by**closing** schools or houses of worship
+      and**canceling** large events (ex: SXSW).
     _key: a7fb39f79d5d
   - order: 4
+    useCheckmark: true
     body: >-
       NY Gov Cuomo said this about his use of new emergency measures, calling in
       the National Guard to help with cleaning, food delivery and containment in

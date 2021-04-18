@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       85 ==
 
@@ -35,17 +36,18 @@ cards:
     citation: Flip For The Future
     _key: card-1-30e6cd33-9d6f-4c7b-b050-3e164e79980c
   - order: 1
+    useCheckmark: false
     body: >-
       Analysts: Apple Working  
 
       on a “FOLDABLE” iPhone
 
 
-      * “Foldable” iPhone design **expected by 2020**, according to Merrill
-      Lynch analyst.
+      * “Foldable” iPhone design**expected by 2020**, according to Merrill Lynch
+      analyst.
 
       * Possible ability to unfold it, doubling screen size, & allowing it to
-      serve **double duty as a tablet**.
+      serve**double duty as a tablet**.
 
 
       [WATCH: WHAT A FLEXIBLE PHONE MIGHT LOOK
@@ -53,6 +55,7 @@ cards:
     citation: 'WATCH: WHAT A FLEXIBLE PHONE MIGHT LOOK LIKE'
     _key: card-2-1f1770a2-b05b-4d1e-8d80-a2568bac7720
   - order: 2
+    useCheckmark: false
     body: >-
       ## Don’t Get Too Excited Yet…
 
@@ -66,19 +69,21 @@ cards:
       internal components as well. (Think: circuit boards, batteries, etc.)
     _key: card-3-98edb441-79f8-44da-9da0-c74a2988241a
   - order: 3
+    useCheckmark: false
     body: >-
       Samsung Trying to One-Up  
 
       Apple With New Feature
 
 
-      * Report: Samsung’s upcoming Note 9 will feature aA **fingerprint sensor**
+      * Report: Samsung’s upcoming Note 9 will feature aA**fingerprint sensor**
       built right into the display.
 
-      * Fingerprint scanner would liveA **_underneath_A your phone’s screen**,
+      * Fingerprint scanner would liveA**_underneath_A your phone’s screen**,
       leaving more room for content.
     _key: card-4-0ce97bdb-201b-4969-89b4-31c8a980e9c8
   - order: 4
+    useCheckmark: false
     body: >-
       Touch or Look:  
 
@@ -90,10 +95,10 @@ cards:
 
       * Will it work with a screen protector?
 
-      * Apple ditched its _on-screen_ fingerprint sensor for 3D face
-      recognition.
+      * Apple ditched its_on-screen_ fingerprint sensor for 3D face recognition.
     _key: card-5-7851d81c-4c2a-4553-8612-5fa75d8e18df
   - order: 5
+    useCheckmark: false
     body: >-
       Taking Photos in the Dark  
 
@@ -109,6 +114,7 @@ cards:
       interchangeable lenses.
     _key: card-6-c42494eb-522b-4563-9dfc-3a861981ab88
   - order: 6
+    useCheckmark: false
     body: >-
       # Seeing the Light?
 
@@ -121,6 +127,7 @@ cards:
       smartphones.
     _key: card-7-2984c852-3289-4130-b994-533290f3ca12
   - order: 7
+    useCheckmark: true
     body: >-
       How important is your cellphone to you? Click to find out how what
       percentage of Americans say they couldn't survive without it.

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       10 IMPORTANT VOICES…  
 
@@ -36,6 +37,7 @@ cards:
       Flip For More
     _key: card-1-da9ffdaf-a7e1-40c3-a92b-f4d4519098ae
   - order: 1
+    useCheckmark: false
     body: >-
       > “Look, this deal was fundamentally flawed, as the President said.A It
       does not do what it purports to do. It does not prevent Iran from
@@ -48,6 +50,7 @@ cards:
       briefing](https://www.whitehouse.gov/briefings-statements/press-briefing-national-security-advisor-john-bolton-iran/)
     _key: card-2-5f1aad41-b8f5-4f00-98cf-5f1635ba6be1
   - order: 2
+    useCheckmark: false
     body: >-
       > "We have reached a dead-end. The problem is that if the Islamic Republic
       reforms itself, nothing would remain of it. And if it refuses to reform
@@ -59,6 +62,7 @@ cards:
       begun?
     _key: card-3-29851b76-1d1c-40b0-92d1-f9ac37bad8a3
   - order: 3
+    useCheckmark: false
     body: >-
       > “If we achieve the deal’s goals in cooperation with other members of the
       deal, it will remain in place. … By exiting the deal, America has
@@ -70,6 +74,7 @@ cards:
       Flip: "Not A Treaty"
     _key: card-4-59eff964-9ed3-4a81-8a0c-43cd5c5c3b32
   - order: 4
+    useCheckmark: false
     body: >-
       > “(Iran) can opt to have a functioning economy, free of sanctions and
       open to investment, at the price of permanently, verifiably and
@@ -82,6 +87,7 @@ cards:
       Bret Stephens, NY Times Columnist
     _key: card-5-5ae13f60-4462-489d-b3aa-7493dd3ce397
   - order: 5
+    useCheckmark: false
     body: >-
       > “Blatant falsehoods in Trumps’s case against #Iran deal will only
       alienate Iranians and vindicate the most anti-American among their
@@ -96,6 +102,7 @@ cards:
       [Click: Tweet](https://twitter.com/vali_nasr/status/993954934851764225)
     _key: card-6-1bba0054-a144-42ef-83ad-26e6b9cb884e
   - order: 6
+    useCheckmark: false
     body: >-
       > “The IDF has detected irregular Iranian activity in Syria and is
       preparing the civilian population on the Golan Heights accordingly, as
@@ -110,6 +117,7 @@ cards:
       [Click: Tweet](https://twitter.com/LTCJonathan/status/993916646011088896)
     _key: card-7-e2139d35-1f47-42d5-b08e-7c002fa6b8fd
   - order: 7
+    useCheckmark: false
     body: >-
       > “In a dangerous world, America must be able to rely in part on strong,
       principled diplomacy to secure our country. We have been safer in the
@@ -124,6 +132,7 @@ cards:
       Statement](https://www.facebook.com/barackobama/posts/10155854913976749)
     _key: card-8-eb98bbae-36f4-435c-b9e2-a46533f15e6a
   - order: 8
+    useCheckmark: false
     body: >-
       > “The President absolutely made the right decision to pull out of the
       Iran nuclear deal. This was a terrible deal that only allowed Iran’s bad
@@ -137,6 +146,7 @@ cards:
       [Click: Statement](https://usun.state.gov/remarks/8419)
     _key: card-9-2d5467b0-9e4d-4801-89af-55e44c8bb8c0
   - order: 9
+    useCheckmark: true
     body: >-
       Some sources are found in links inside card itself; others are listed
       here. Happy Reading!

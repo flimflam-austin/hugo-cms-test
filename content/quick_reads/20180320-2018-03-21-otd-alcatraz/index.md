@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # OTD in 1963
 
@@ -38,6 +39,7 @@ cards:
       tap here for more
     _key: card-1-07c1eadc-910e-4020-b601-231c1737f445
   - order: 1
+    useCheckmark: false
     body: >-
       ## Behind the Prison Walls
 
@@ -55,13 +57,14 @@ cards:
       WHY DID IT CLOSE?
     _key: card-2-6c297c56-70ea-468a-8a24-15e7a6d19263
   - order: 2
+    useCheckmark: false
     body: >-
       ## Turns out a prison on an island = EXPEN$IVE
 
 
       * All food & supplies shipped in.
 
-      * No fresh water. _(1M gallons of water barged in weekly.)_
+      * No fresh water._(1M gallons of water barged in weekly.)_
 
       * **$3-5M** needed just for repairs.
 
@@ -71,6 +74,7 @@ cards:
       * U.S. Gov’t: more cost effective to close Alcatraz & build new.
     _key: card-3-64b68f0a-ec8d-4c68-b854-e3c1909e5e6a
   - order: 3
+    useCheckmark: false
     body: >-
       # DOIN’ TIME
 
@@ -88,6 +92,7 @@ cards:
       * Alvin Karpis (**first “Public Enemy #1”**)
     _key: card-4-e0435855-0513-4562-9abe-c63a0b8f43be
   - order: 4
+    useCheckmark: false
     body: |-
       # No Escaping the Rock
 
@@ -100,11 +105,12 @@ cards:
       BUT... there were these 3 guys...
     _key: card-5-3c3739b9-489f-41df-8752-e597f881261d
   - order: 5
+    useCheckmark: false
     body: >-
       ## Alcatraz’s Great Mystery
 
 
-      What happened to brothers **John & Clarence Anglin** and **Frank Morris**?
+      What happened to brothers**John & Clarence Anglin** and**Frank Morris**?
 
 
       In 1962, the 3 bank robbers dug holes in their cells with sharpened spoons
@@ -118,6 +124,7 @@ cards:
       Survive](https://www.cbsnews.com/news/alcatraz-inmates-survived-infamous-1962-escape-letter-suggests/)
     _key: card-6-65553548-9223-4c00-b123-337ca2a02981
   - order: 6
+    useCheckmark: false
     body: >-
       Prison to Tourist Hot Spot
 
@@ -135,6 +142,7 @@ cards:
       Now 1M tourists visit each year.
     _key: card-7-136e5307-29b6-497f-863b-20620784c95d
   - order: 7
+    useCheckmark: true
     body: >-
       Did you know "The Rock" almost became a shopping mall after it closed?
       It's true. Click here to read more.

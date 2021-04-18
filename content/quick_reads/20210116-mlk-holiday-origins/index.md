@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Birthday Backstory
 
@@ -27,6 +28,7 @@ cards:
       How Dr. Martin Luther King Jr.’s birthday became a national celebration.
     _key: f3a059b9d458
   - order: 1
+    useCheckmark: false
     body: >-
       ## Timeline
 
@@ -42,6 +44,7 @@ cards:
       established in 1983.
     _key: c27ca0672dd6
   - order: 2
+    useCheckmark: false
     body: >-
       ## How Did It Gain Support?
 
@@ -55,6 +58,7 @@ cards:
       dream…” speech). Congress passed the holiday into law.
     _key: 1b4c2060e7e5
   - order: 3
+    useCheckmark: false
     body: >-
       > “Dr. King’s was truly a prophetic voice that reached out over the chasms
       of hostility, prejudice, ignorance, and fear to touch the conscience of
@@ -66,6 +70,7 @@ cards:
       holiday - three years after Congress approved the holiday bill.
     _key: b67d9dd7c9ee
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -79,6 +84,7 @@ cards:
       Hampshire was the last state to pass legislation to recognize the day.
     _key: 6933f48416b6
   - order: 5
+    useCheckmark: true
     body: >-
       Stevie Wonder wrote his famous song “Happy Birthday” in 1980 and released
       it as a rallying cry for the promotion of the holiday. Though MLK Jr. was

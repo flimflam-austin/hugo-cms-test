@@ -20,12 +20,14 @@ card_series: SmartHER News
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       More than fifty years before the U.S. Constitution was amended to
       guarantee women equal voting rights, Wyoming granted women the right to
       vote on this day in 1869.
     _key: 301d6d366381
   - order: 1
+    useCheckmark: false
     body: >-
       ## Women’s Suffrage In WY
 
@@ -41,6 +43,7 @@ cards:
       for women.
     _key: 4d3160afa8cf
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why?
 
@@ -56,6 +59,7 @@ cards:
       female justice of the peace.
     _key: 4491ed38ac21
   - order: 3
+    useCheckmark: false
     body: >-
       ## Name To Know:  
 
@@ -72,6 +76,7 @@ cards:
       as “Louisa Swain Day.”
     _key: 8042cbf82de6
   - order: 4
+    useCheckmark: false
     body: >-
       ## Big Picture
 
@@ -88,6 +93,7 @@ cards:
       Amendment.
     _key: f0565a13d7a8
   - order: 5
+    useCheckmark: true
     body: >-
       December 10 is "Wyoming Day" to honor the first of many achievements
       toward women's equality in the Equality State. Wyoming, which is also home

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Hope Vs. Caution
 
@@ -31,12 +32,13 @@ cards:
       COVID-19 in America.
     _key: cd2828f9d57b
   - order: 1
+    useCheckmark: false
     body: >-
       ## “Positive but Preliminary”
 
 
       * Pfizer (U.S. drugmaker) & BioNTech (German drugmaker) partnered to
-      develop a **COVID-19 vaccine**.
+      develop a**COVID-19 vaccine**.
 
       * Results from 94 participants of a large, late-stage trial show 90%
       efficacy of protecting against the virus that causes COVID-19.
@@ -45,6 +47,7 @@ cards:
       of experts (outside Pfizer) analyzed results.
     _key: 7de4a208eabf
   - order: 2
+    useCheckmark: false
     body: >-
       > “It seems to be a proof of principle that we can make a vaccine, that it
       can make an immune response, that it does look safe in individuals that
@@ -57,6 +60,7 @@ cards:
       when it has reached the 2-month mark for safety data required by the FDA.
     _key: a0765dcb2591
   - order: 3
+    useCheckmark: false
     body: >-
       ## “Another Potential Tool”
 
@@ -71,6 +75,7 @@ cards:
       more harm than good in severe cases.
     _key: c61dbd598d72
   - order: 4
+    useCheckmark: false
     body: >-
       ## Meanwhile…
 
@@ -79,13 +84,14 @@ cards:
       100,000 new cases per day; hospitalizations, deaths, & lagging effects of
       infection also have increased.
 
-      * Despite efforts to protect the most vulnerable, **nursing home cases
-      have quadrupled between May and October**.
+      * Despite efforts to protect the most vulnerable,**nursing home cases have
+      quadrupled between May and October**.
 
       * New study: About 1 in 10 of hospitalized COVID patients readmitted in
       days following first admission/release.
     _key: c67f026ca0cc
   - order: 5
+    useCheckmark: false
     body: >-
       > “Trying to protect nursing home residents without controlling community
       spread is a losing battle.”
@@ -97,6 +103,7 @@ cards:
       elderly despite increased testing and best efforts.
     _key: 914dbacc877b
   - order: 6
+    useCheckmark: true
     body: >-
       What is like to be part of a COVID-19 trial? We have a first hand account!
       A series of other companies have developed a vaccine in a similar way to

@@ -20,10 +20,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: '## “_Love wins – always, and it will win again through this virus._“'
     citation: NY GOV. ANDREW CUOMO
     _key: 44044633fa97
   - order: 1
+    useCheckmark: true
     body: >-
       The two-term governor promised to work to protect the most vulnerable in
       his state, the current national hot spot for a COVID-19 outbreak. As of

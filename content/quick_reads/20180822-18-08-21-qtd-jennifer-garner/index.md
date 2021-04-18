@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“When you walk over this star, I want you to remember first of all that
       I love you. And this is about hard work. And good luck. And not a whole
@@ -27,6 +28,7 @@ cards:
     citation: Jennifer Garner
     _key: card-1-1878403d-75b0-4ebc-9c30-928a6aeaa827
   - order: 1
+    useCheckmark: true
     body: >-
       Garner received her star on The Hollywood Walk of Fame on Tuesday,
       accompanied by her children who apparently missed school, which she

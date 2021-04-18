@@ -20,6 +20,7 @@ card_series: Entertainment
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## Homeless To Hollywood?
 
@@ -27,6 +28,7 @@ cards:
       be a Pratt”
     _key: card-1-3b5772ee-2ad2-4afd-bfed-89e3689d086a
   - order: 1
+    useCheckmark: false
     body: >-
       ## ICYMI:
 
@@ -44,6 +46,7 @@ cards:
       Now](https://www.youtube.com/embed/EihqXHqxri0?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-a719c946-4235-4dab-ad30-bff66122c25d
   - order: 2
+    useCheckmark: false
     body: >-
       ## His Roots:
 
@@ -62,23 +65,26 @@ cards:
       * “Discovered” working as a waiter for Bubba Gump Shrimp Co. restaurant.
     _key: card-3-0ac7c7d8-e493-47e7-8e29-1fd6e1f050a3
   - order: 3
+    useCheckmark: false
     body: "> \"He asked what I was doing that night, and I was honest. I said, a\x18My friend’s inside buying me alcohol… He said, a\x18Jesus told me to talk to you…’ At that moment I was like, I think I have to go with this guy. He took me to church. Over the next few days I surprised my friends by declaring that I was going to change my life.\"  \n  \nChris Pratt, Vanity Fair, about the moment his life changed randomly meeting a man named Henry in Maui."
     _key: card-4-f01c40f2-efe2-495d-8304-1ad84cdf6c65
   - order: 4
+    useCheckmark: false
     body: >-
       ## Pratt’s Path
 
 
       * Recent movie: Jurassic Park: Fallen Kingdom – part of Jurassic World
-      series – **earned** **one of top opening wkds of the year.**
+      series –**earned****one of top opening wkds of the year.**
 
-      * Pratt gained 40lbs working on sitcom, _Park & Rec,_ and was passed over
-      for roles because of his weight. Now he’s **one of America’s biggest
-      action stars.**
+      * Pratt gained 40lbs working on sitcom,_Park & Rec,_ and was passed over
+      for roles because of his weight. Now he’s**one of America’s biggest action
+      stars.**
 
       * Pratt has a 5-year-old son Jack & divorced from actress Anna Farris.
     _key: card-5-99753a69-7178-4dec-a916-f661d7351dd8
   - order: 5
+    useCheckmark: true
     body: >-
       Pratt has talked faith before - including at the Teen Choice Awards in
       2017: ‘I would not be here with the ease and grace I have in my heart

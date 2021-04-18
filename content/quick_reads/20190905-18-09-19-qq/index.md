@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “The era of no war has started…. Today the North and South decided to
       remove all threats that can cause war from the entire Korean peninsula.”  
@@ -30,9 +31,11 @@ cards:
       the U.S. takes unspecified reciprocal measures.
     _key: card-1-6d858300-3288-4020-8931-47413775e493
   - order: 1
+    useCheckmark: false
     body: "> \"The concept of saying a\x18downgraded’ or ’weakened’ should be forever banished.\"  \n  \n  \nUniversity of Georgia meteorology professor Marshall Shepherd speaking about the limits of the current rating system for Cat 1-5 hurricanes. He believed Florence was more dangerous as a Cat 2 storm, but the current scale measures wind strength, not flooding threat, giving some residents reason to not evacuate."
     _key: card-2-12f84337-faec-431a-8013-804d0205a4c5
   - order: 2
+    useCheckmark: false
     body: >-
       “The FBI investigation of Judge Kavanaugh is closed…. The FBI is not doing
       any further investigation.”  
@@ -45,6 +48,7 @@ cards:
       forward.
     _key: card-3-c0935285-620e-4f0c-96cc-9e2abb769bb2
   - order: 3
+    useCheckmark: false
     body: >-
       > “The job of the Senate Judiciary Committee is to serve as fact-finders,
       to better serve the American public, and the weight of the government
@@ -57,6 +61,7 @@ cards:
       harassment.
     _key: card-4-4d1f2a4f-089c-4ccd-8385-3b3af24f1c2d
   - order: 4
+    useCheckmark: false
     body: >-
       > “As we have always said, Bert and Ernie are best friends. They were
       created to teach preschoolers that people can be good friends with those
@@ -68,6 +73,7 @@ cards:
       when he wrote for Bert & Ernie he always saw them as a "loving couple."
     _key: card-5-bafd1064-ba55-497a-8ef6-7df1347091ab
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-09-19-qq/)'
     _key: card-10-f1219f48-828b-4225-bede-02409df4028d
 

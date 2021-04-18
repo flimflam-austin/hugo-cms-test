@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## “_Keep passing the kindness and take care of yourselves_.”
 
@@ -27,6 +28,7 @@ cards:
     citation: BROOKE THOMAS
     _key: c9974448c1e2
   - order: 1
+    useCheckmark: true
     body: >-
       The Vermont parent raised over $7,000 for her school district’s janitors
       after they worked for two days to sanitize local schools amid a COVID-19

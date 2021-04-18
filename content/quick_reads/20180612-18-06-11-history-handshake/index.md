@@ -20,12 +20,14 @@ card_series: Now You Know
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > Why Do We Shake Hands?
 
       Symbolism: Poignant
     _key: card-1-da2cf895-224d-4906-ab78-24a7363ec4b0
   - order: 1
+    useCheckmark: false
     body: >-
       Exact Origin?  
 
@@ -41,13 +43,14 @@ cards:
       Farmers' Almanac
     _key: card-2-ebc9eb78-acac-483c-816d-0d7e52fbe2a1
   - order: 2
+    useCheckmark: false
     body: >-
       Do We Shake Hands…  
 
       To Smell Each Other?
 
 
-      Say…A **_What?_**
+      Say…A**_What?_**
 
 
       One study suggests we touch our face more often after shaking hands,
@@ -59,6 +62,7 @@ cards:
       Study](https://www.smithsonianmag.com/smart-news/might-be-why-handshaking-evolved-180954472/)
     _key: card-3-46cd857a-1577-4119-9f24-8b22ee7e1086
   - order: 3
+    useCheckmark: false
     body: >-
       ## What makes a good handshake?
 
@@ -72,6 +76,7 @@ cards:
       Emily Post
     _key: card-4-f4f57fe9-bef5-4160-863b-f0e561e82c7c
   - order: 4
+    useCheckmark: true
     body: >-
       Good guide to handshakes... when to... when not to... and what about
       shaking hands with women overseas?

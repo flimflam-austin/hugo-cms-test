@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # NORTH KOREA
 
@@ -34,6 +35,7 @@ cards:
       Hold Up. Wait A Minute.
     _key: card-1-c9f38a83-e883-46a4-ba3b-65b4d1abce47
   - order: 1
+    useCheckmark: false
     body: >-
       ## Reports: What’s Going On
 
@@ -51,6 +53,7 @@ cards:
       Hotel](https://www.fullertonhotels.com/the-fullerton-hotel)
     _key: card-2-8b2b9410-6dd8-417e-bc9a-b8e0a44d2dfa
   - order: 2
+    useCheckmark: false
     body: >-
       ## How Much Will The Summit Cost?
 
@@ -66,6 +69,7 @@ cards:
       small part in this historic meeting.”
     _key: card-3-f9946014-30a7-4997-8aa3-6d9f1d6e0d74
   - order: 3
+    useCheckmark: false
     body: |-
       ## Nobel Peace Prize Winner Steps Forward
 
@@ -78,6 +82,7 @@ cards:
       Flip: Not Just Hotel
     _key: card-4-2f41d9c7-ea63-4d94-841d-991ca95e37ca
   - order: 4
+    useCheckmark: true
     body: >-
       U.S. can't pay for NoKo's bills (without waivers from the Treasury)
       because of sanctions. North Korea isn't used to paying its own bills - In

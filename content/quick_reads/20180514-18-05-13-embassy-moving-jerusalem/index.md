@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # HISTORIC DAY
 
@@ -34,6 +35,7 @@ cards:
       Flip: Why It Matters
     _key: card-1-14893979-b7bb-47fc-aaae-3ac1d54fe52a
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Basics
 
@@ -48,20 +50,22 @@ cards:
       Jerusalem at center.
     _key: card-2-963ea4cf-0406-4a8d-abba-e190f5226e42
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Now?
 
 
       * America’s move makes a clear statement about Israeli’s national
-      sovereignty. **Israel considers Jerusalem its capital; Now America does as
+      sovereignty.**Israel considers Jerusalem its capital; Now America does as
       well.**
 
       * President Trump delivering on campaign promise.
 
-      * Timing coincides w/U.S. withdrawing from Iran Deal, reaffirmsA
-      **Israel-America alliance; Israel is a U.S. ally.**
+      * Timing coincides w/U.S. withdrawing from Iran Deal,
+      reaffirmsA**Israel-America alliance; Israel is a U.S. ally.**
     _key: card-3-688c483f-0172-4dcd-a365-b3b3cd5183ad
   - order: 3
+    useCheckmark: false
     body: >-
       > _‘We are not taking a position on final status issues, including the
       specific boundaries of Israeli sovereignty in Jerusalem, nor on the
@@ -74,6 +78,7 @@ cards:
       territorial agreement between Israel & the West Bank.
     _key: card-4-389778b5-0bd8-4d76-93dd-f6aa8955ea5e
   - order: 4
+    useCheckmark: true
     body: >-
       The embassy move is symbolic in many ways. The U.S. ambassador and a small
       team will set up in a temporary location in Jerusalem. 850 members of the

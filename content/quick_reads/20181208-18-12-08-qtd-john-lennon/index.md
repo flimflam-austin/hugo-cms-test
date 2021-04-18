@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “_If someone thinks that love and peace is a cliche that must have been
       left behind in the Sixties, that’s his problem. Love and peace are
@@ -27,6 +28,7 @@ cards:
     citation: John Lennon
     _key: card-1-579335ff-1efc-465c-ba75-a7015df1dd56
   - order: 1
+    useCheckmark: true
     body: >-
       On Dec 8, 1980,A LennonA was shotA & killed in New York City where he
       lived with his wife, Yoko Ono, who spread his ashes in Central Park in an

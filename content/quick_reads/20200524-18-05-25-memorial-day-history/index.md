@@ -20,9 +20,11 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: '> The history of Memorial Day is a story few ever know.'
     _key: card-1-70aecf62-bc76-44ac-9d59-ee55c0e47fb7
   - order: 1
+    useCheckmark: false
     body: >-
       It Wasn’t Always  
 
@@ -31,13 +33,14 @@ cards:
 
       * Tradition dates back to Civil War.
 
-      * Leader of veterans group proclaimed May 30th – **Decoration Day** – a
-      day to honor those who made the ultimate sacrifice by decorating soldiers’
-      graves **with flowers**.
+      * Leader of veterans group proclaimed May 30th –**Decoration Day** – a day
+      to honor those who made the ultimate sacrifice by decorating soldiers’
+      graves**with flowers**.
 
       * May 30th chosen reportedly because flowers bloomed nationwide.
     _key: card-2-b573dd21-10a0-45f1-9b56-3be541aadb98
   - order: 2
+    useCheckmark: false
     body: >-
       ## About 25 Cities Claim Ties To First Memorial Day…
 
@@ -51,6 +54,7 @@ cards:
       earlier.
     _key: card-3-fbdbdad8-6078-4f97-a13d-2a81284c9b8a
   - order: 3
+    useCheckmark: false
     body: >-
       * The first “Memorial Day” at Arlington spearheaded by Gen. Logan (Civil
       War vet who led a veterans group).
@@ -62,6 +66,7 @@ cards:
       the same # of people attend in modern times and do exactly the same thing.
     _key: card-4-c55197e6-d9c6-415a-a8a8-bf1b20998052
   - order: 4
+    useCheckmark: false
     body: >-
       Federal Holiday: 1971  
 
@@ -69,7 +74,7 @@ cards:
 
 
       **MEMORIAL DAY**: “a day for remembering and honoring military personnel
-      who **died in the service of their country, particularly those who died in
+      who**died in the service of their country, particularly those who died in
       battle or as a result of wounds sustained in battle.**”
 
 
@@ -77,6 +82,7 @@ cards:
       veterans** for their service…”
     _key: card-5-316e3e79-7dc9-44fa-9715-a16df78bdb3f
   - order: 5
+    useCheckmark: true
     body: >-
       ‘We should guard their graves with sacred vigilance...Let no neglect, no
       ravages of time, testify to the present or to the coming generations that

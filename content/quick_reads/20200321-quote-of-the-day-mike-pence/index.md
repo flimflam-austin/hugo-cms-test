@@ -20,10 +20,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: '## _“Do not be afraid, be vigilant.”_'
     citation: VP MIKE PENCE
     _key: b604fa3f4876
   - order: 1
+    useCheckmark: true
     body: >-
       Vice Pres. Pence said today that although COVID-19 is 3X more contagious
       than the flu, about 90% of people tested so far have tested negative. The

@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “We want a country with heart, but when people come up they have to know
       they can’t get in. Otherwise, it’s never going to stop.”  
@@ -31,6 +32,7 @@ cards:
       to pause separation of families "...while Congress works out a solution."
     _key: card-1-5549bd14-a05a-4bf5-9825-9f628ade7e0a
   - order: 1
+    useCheckmark: false
     body: >-
       > “Markets are responding to all of the rhetoric with the trade war. A lot
       of what we’re seeing may be negotiating tactics, but it’s just going to be
@@ -43,6 +45,7 @@ cards:
       and China.
     _key: card-2-c591453c-3beb-4ba7-9ab6-d6b07b7460c8
   - order: 2
+    useCheckmark: false
     body: >-
       > ‘a protector of human rights abusers, and a cesspool of political
       bias.’  
@@ -55,6 +58,7 @@ cards:
       includes accused human rights abusers like China, Cuba, Venezuela & Congo.
     _key: card-3-c450bfaf-3364-48a6-92c5-e2d44c623ef8
   - order: 3
+    useCheckmark: false
     body: >-
       > “I couldn’t think of a more fitting change.”  
         
@@ -65,6 +69,7 @@ cards:
       90% black, was originally named for Confederate general J.E.B. Stuart.
     _key: card-4-caf3b2b4-3c33-4b40-af5e-2fee433431ca
   - order: 4
+    useCheckmark: false
     body: >-
       > “extensive and damaging sabotage to our operations.’  
         
@@ -76,6 +81,7 @@ cards:
       for a promotion.
     _key: card-5-efbbdab7-69fe-4160-ab6f-6cae7f79c6a3
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great day!
 

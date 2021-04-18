@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Stop Counting Calories?
 
@@ -36,6 +37,7 @@ cards:
     citation: Yum. Flip Here.
     _key: card-1-9811e3f8-74a0-4f98-9bc5-5823d41b1173
   - order: 1
+    useCheckmark: false
     body: >-
       > ‘This is the road map to reducing the obesity epidemic in the United
       States. It’s time for U.S. and other national policies to stop focusing on
@@ -47,6 +49,7 @@ cards:
       Policy at Tufts University
     _key: card-2-226ad6bb-f61c-49f5-8897-3cf48878bb92
   - order: 2
+    useCheckmark: false
     body: >-
       ## Study by Journal of the American Medical Association
 
@@ -54,24 +57,26 @@ cards:
       * Goal: To test whether genetics determines what diets work for certain
       people and not others.
 
-      * Findings: **Quality over quantity mattered.** Type of food, not
-      calories, led to weight loss.
+      * Findings:**Quality over quantity mattered.** Type of food, not calories,
+      led to weight loss.
 
       * BTW: Genetics alone doesn’t determine ability to lose weight.
     _key: card-3-bc22f703-c517-4095-8cd5-a4deb365de3c
   - order: 3
+    useCheckmark: false
     body: >-
       ## Meanwhile…In A Restaurant Near You…
 
 
       * “Menu labeling” aka “calorie counting” expected to be required of all
-      restaurants with more than 20 locations in the U.S by **May 7, 2018**.
+      restaurants with more than 20 locations in the U.S by**May 7, 2018**.
 
       * Obama-era policy related to health care law.
 
       * Current FDA Director supports implementation.
     _key: card-4-495253fd-c3a6-4dea-a4fc-e039b012cfbb
   - order: 4
+    useCheckmark: true
     body: >-
       ‘I think one place we go wrong is telling people to figure out how many
       calories they eat and then telling them to cut back on 500 calories, which

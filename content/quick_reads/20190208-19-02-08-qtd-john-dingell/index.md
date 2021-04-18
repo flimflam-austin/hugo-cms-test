@@ -20,13 +20,15 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
-      > “…A _we work for a just and a humane and a decent society, where
+      > “…A_we work for a just and a humane and a decent society, where
       everybody has a chance to amount to something. And where we don’t give
       handouts, but we give hands-up, so that people can grow._“
     citation: John Dingell
     _key: card-1-28a79609-e882-49b3-a9a0-5959c3b963dd
   - order: 1
+    useCheckmark: true
     body: >-
       On Thursday, former U.S. Representative John Dingell, the longest-serving
       member of Congress in America's history, passed away at 92. The Michigan

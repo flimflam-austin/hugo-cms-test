@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “She’s Done It, Baby!”
 
@@ -32,11 +33,12 @@ cards:
     citation: Watch Now
     _key: card-1-72c32fc3-77fc-4c33-b9ed-5eed86c70714
   - order: 1
+    useCheckmark: false
     body: >-
       ## Desiree (Desi) Linden
 
 
-      * Won inA **2 hrs 39 mins 54 secs** through freezing temps & rain.
+      * Won inA**2 hrs 39 mins 54 secs** through freezing temps & rain.
 
       * **6th attempt** at Boston Marathon.
 
@@ -52,6 +54,7 @@ cards:
     citation: 'FLIP: Why she almost dropped out mid-race'
     _key: card-2-aea19e13-49ed-4ed1-a050-d94776cb784c
   - order: 2
+    useCheckmark: false
     body: >-
       ## Sportswomanship Pays Off
 
@@ -72,12 +75,13 @@ cards:
     citation: FLIP FOR MORE
     _key: card-3-47120839-6cd2-477e-8e3a-0dbff643aef2
   - order: 3
+    useCheckmark: false
     body: >-
       ## Marathon Moments
 
 
-      Japan’s **Yuki Kawauchi** won the men’s marathonA in 2:15:58, the
-      country’s 1st race winner since 1987.
+      Japan’s**Yuki Kawauchi** won the men’s marathonA in 2:15:58, the country’s
+      1st race winner since 1987.
 
 
       **Loren Zitomersky (aka Backwards Guy**) didn’t break the world record,
@@ -88,6 +92,7 @@ cards:
       detonating bombs along race route.
     _key: card-4-75132f11-e00f-4c5d-bb6f-56d3257f04fc
   - order: 4
+    useCheckmark: true
     body: >-
       The last American woman to win the Boston Marathon was Lisa Rainsberger in
       1985. See what she had to say about Desi's win - click here.

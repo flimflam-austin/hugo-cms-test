@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## QUICK QUOTES
 
@@ -32,6 +33,7 @@ cards:
       good chance to change the political landscape in states like PA & ID.
     _key: card-1-2425efd9-a603-4c51-816f-03ad6af136c5
   - order: 1
+    useCheckmark: false
     body: >-
       > “We want people to come into our country based on merit. We’re not
       looking to keep them out. We’re looking to bring them in. We need them.”  
@@ -41,6 +43,7 @@ cards:
       discussion, on why he favors a merit-based immigration system.
     _key: card-2-3a610403-27f9-4e96-a04d-4bba3096db0c
   - order: 2
+    useCheckmark: false
     body: >-
       “… in 2016 expenses were incurred by one of Donald J. Trump’s attorneys,
       Michael Cohen. Mr. Cohen sought reimbursement of those expenses and Mr.
@@ -52,6 +55,7 @@ cards:
       when and what he knew of the payment.
     _key: card-3-09c83560-4274-4168-9f01-eb353df59a1a
   - order: 3
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-05-17-quick-quotes/)'
     _key: card-10-a35e2776-69b7-4fde-9297-95d815bcc067
 

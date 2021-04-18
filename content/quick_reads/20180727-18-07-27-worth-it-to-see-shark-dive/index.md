@@ -20,6 +20,7 @@ card_series: Travel
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Diving With Great Whites
 
@@ -32,6 +33,7 @@ cards:
       Now](https://www.youtube.com/embed/SdNoAI25uLk?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-0620ef78-3d6b-489e-86a2-a8c19d4b63a4
   - order: 1
+    useCheckmark: false
     body: >-
       > “The world’s largest predatory fish doesn’t show up on cue. If I have
       one piece of advice? Pack some patience and TAKE MOTION SICKNESS
@@ -43,6 +45,7 @@ cards:
       of time!
     _key: card-2-c4f6a336-fd44-4b37-a051-792716806a2b
   - order: 2
+    useCheckmark: false
     body: >-
       > “Experience and passion over the fancy boats makes all the
       difference.”  
@@ -54,6 +57,7 @@ cards:
       experience all around.
     _key: card-3-f1746a63-ff63-4a93-bd5f-a2dc8d2603cb
   - order: 3
+    useCheckmark: false
     body: >-
       > “I still don’t love swimming in open water (and I am not sure I ever
       will), but this adventure instilled in me a truly unique respect for the
@@ -65,6 +69,7 @@ cards:
       one presented by Hollywood.
     _key: card-4-d54e71f6-9cc7-4052-a7fa-879d8ad92aa7
   - order: 4
+    useCheckmark: true
     body: >-
       Read more about Jenna's adventure cage-diving with Great Whites in South
       Africa.

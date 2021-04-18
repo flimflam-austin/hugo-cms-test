@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # No Signature Needed
 
@@ -28,7 +29,7 @@ cards:
 
 
       > Nearly a century after the credit card was first introduced, the way you
-      pay with it is about to change A **starting this weekend.**  
+      pay with it is about to change A**starting this weekend.**  
         
         
         
@@ -40,12 +41,13 @@ cards:
     citation: 'FLIP: CHECKOUT CHANGE'
     _key: card-1-5da356ff-0ebd-4a70-a2a8-5bf8e8d60dbf
   - order: 1
+    useCheckmark: false
     body: >-
       Change At The Checkout
 
 
-      Starting Saturday, American Express, Discover, MastercardA & Visa will
-      **stop requiring signatures**.
+      Starting Saturday, American Express, Discover, MastercardA & Visa
+      will**stop requiring signatures**.
 
 
       * Signatures used to help verify your identity. NowA “no longer reliable.”
@@ -55,6 +57,7 @@ cards:
       * Most businesses don’t even bother to check.
     _key: card-2-d0fcd478-23a2-44c5-8dca-0377c8fe1114
   - order: 2
+    useCheckmark: false
     body: >-
       ## So I’ll Never Sign Again?
 
@@ -73,11 +76,12 @@ cards:
     citation: no auTOGRAPHS, PLEASE.
     _key: card-3-71e50835-9fa2-41a3-9337-cac531344cc4
   - order: 3
+    useCheckmark: false
     body: >-
       ## Is Your Safety in Jeopardy?
 
 
-      _‘Our fraud capabilities have advanced so that **signatures are no longer
+      _‘Our fraud capabilities have advanced so that**signatures are no longer
       necessary to fight fraud**.’_  
 
       Jaromir Divilek, American Express
@@ -90,6 +94,7 @@ cards:
       irrelevant.”
     _key: card-4-83bbfc21-24a8-42ed-8e40-a8cd27db07a8
   - order: 4
+    useCheckmark: true
     body: >-
       But seriously, when was the last time you signed your name? Mastercard
       says consumers don't want to sign anymore. See the 4 reasons why by

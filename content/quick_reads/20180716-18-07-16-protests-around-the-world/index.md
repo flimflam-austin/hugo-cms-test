@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # UNREST
 
@@ -35,11 +36,12 @@ cards:
       matter.
     _key: card-1-cfa8728f-125c-4ef8-aad2-275b2ff8597b
   - order: 1
+    useCheckmark: false
     body: >-
       # Nicaragua
 
 
-      * At least **10 people died this weekend, raising the death tollA to more
+      * At least**10 people died this weekend, raising the death tollA to more
       than 300** since protests began in April.
 
       * Opposition groups protest gov’t run by President Daniel Ortega.
@@ -48,6 +50,7 @@ cards:
       grab; supporters say protesters are “criminals” or “terrorists.”
     _key: card-2-ecb5edad-ac6f-4999-a2c8-8237ea504675
   - order: 2
+    useCheckmark: false
     body: >-
       > “Nicaragua’s descent into chaos makes the population vulnerable to
       lawlessness, particularly gang activity and drug trafficking, and
@@ -60,6 +63,7 @@ cards:
       states, with larger migration flows to America.
     _key: card-3-a0f597ba-b82f-4b96-a160-b3edfe438141
   - order: 3
+    useCheckmark: false
     body: >-
       # Iraq
 
@@ -68,11 +72,12 @@ cards:
 
       * Protestors say basic services (like water and electricity) not provided.
 
-      * Bigger Picture: Iraq doesn’t have a *new* gov’t since May election;A
-      **chaos not good for security as politicians try building coalition
-      gov’t.**
+      * Bigger Picture: Iraq doesn’t have a *new* gov’t since May
+      election;A**chaos not good for security as politicians try building
+      coalition gov’t.**
     _key: card-4-8e7eb6e9-7c7b-4794-b3d4-17978b4263be
   - order: 4
+    useCheckmark: true
     body: >-
       Iran worked to create a stable neighbor after invasion of ISIS, filling a
       vacuum with withdrawal of U.S. Iran also facing domestic protests over

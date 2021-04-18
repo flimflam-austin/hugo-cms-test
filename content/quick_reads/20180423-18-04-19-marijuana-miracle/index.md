@@ -20,12 +20,13 @@ card_series: Health
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # MARIJUANA HITS MAINSTREAM?
 
       ## First-Of-Its-Kind Drug
 
-      Derivative of marijuana may treatA **EPILEPSY**….  
+      Derivative of marijuana may treatA**EPILEPSY**….  
       AND  
       **ATHLETES**?
 
@@ -33,21 +34,23 @@ cards:
     citation: Say What? Flip!
     _key: card-1-479b32f7-27f8-4e14-9072-2e0f8a255717
   - order: 1
+    useCheckmark: false
     body: >-
       ## CBD = cannabidiol
 
 
       * Marijuana has 100 chemicals, including a component “**CBD**“
 
-      * CBD **WON’T** make you high.
+      * CBD**WON’T** make you high.
 
-      * CBD = oil used topically or ingested that acts an **anti-inflammatory**
+      * CBD = oil used topically or ingested that acts an**anti-inflammatory**
       (like a muscle smoother).
 
-      * Experimental British CBD-based drug shows itA **reduces severe
-      epilepsy** for children, though no one knows exactly WHY it works.
+      * Experimental British CBD-based drug shows itA**reduces severe epilepsy**
+      for children, though no one knows exactly WHY it works.
     _key: card-2-2b190218-0693-42ff-b5fb-0d55a6c76cf6
   - order: 2
+    useCheckmark: false
     body: >-
       ## Life-Changer?
 
@@ -62,18 +65,20 @@ cards:
       study. He had 100 seizures a day before taking the CPD-based drug.
     _key: card-3-69b8bbc8-7c44-48cd-a2e2-0577bbd4b70e
   - order: 3
+    useCheckmark: false
     body: >-
       ## FDA Controls Fate
 
 
       * If FDA follows recommendation of FDA advisory panel, experimental CBD
-      drug ***could* be the first mainstream “marijuana” drug with federal
+      drug***could* be the first mainstream “marijuana” drug with federal
       approval** come June – when final decision to approve or deny is expected.
 
       * Right now, CBD oil used by those with epilepsy AND those with muscle
       pain in states that allows its sale.
     _key: card-4-7845eb3a-b695-4d4a-a3b9-4838aa62678c
   - order: 4
+    useCheckmark: true
     body: >-
       Today, medical marijuana is legal in 29 states & DC. Did you know
       marijuana use by athletes is NOT illegal by World Doping Agency? Some

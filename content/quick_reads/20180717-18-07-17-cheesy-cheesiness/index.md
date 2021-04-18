@@ -20,19 +20,21 @@ card_series: Eats
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       It Ain’t Easy…  
 
       Being Cheesy
 
 
-      Whether its mac & cheese or mozzarella, cheese prices fall as **America’s
+      Whether its mac & cheese or mozzarella, cheese prices fall as**America’s
       stock of the dairy delight hits a 100-year record-high**.
 
 
       Why?
     _key: card-1-ac618e3c-1935-4dc2-8ff6-3522cdb62006
   - order: 1
+    useCheckmark: false
     body: >-
       ## Wait…Cheese Stockpiles?
 
@@ -47,6 +49,7 @@ cards:
       summer months = less lunches packed. And tariffs.
     _key: card-2-190bc0de-700c-406c-aec0-067d4d534a19
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -60,6 +63,7 @@ cards:
       cheese (margins tight).
     _key: card-3-91fff6ce-0e2b-441a-abcc-7e9f181fc55f
   - order: 3
+    useCheckmark: false
     body: >-
       ## Bigger Picture
 
@@ -74,6 +78,7 @@ cards:
       (pouches, squeeze packs), milk producers haven’t.
     _key: card-4-93ca78df-e04c-4bb6-b01e-b8daed9168a3
   - order: 4
+    useCheckmark: true
     body: >-
       The price of cheese impacts the price farmers receive for milk, so it
       impacts the entire dairy industry. Despite current pressures, one analyst

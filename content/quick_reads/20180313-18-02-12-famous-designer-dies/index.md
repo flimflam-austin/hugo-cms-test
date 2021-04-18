@@ -20,6 +20,7 @@ card_series: Style
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # ICON
 
@@ -36,6 +37,7 @@ cards:
       Hubert de Givenchy passes away at age 91.
     _key: card-1-a25ebe18-ce5e-40c4-b275-d32e3440d267
   - order: 1
+    useCheckmark: false
     body: >-
       # Givenchy & Hepburn
 
@@ -54,18 +56,20 @@ cards:
       Looks](https://www.harpersbazaar.com/fashion/designers/g19405875/audrey-hepburn-hubert-de-givenchy/?slide=2)
     _key: card-2-b6dda8a6-2ca4-428d-bf4b-2743f7554bec
   - order: 2
+    useCheckmark: false
     body: >-
       ## Advice From Givenchy
 
 
-      > ‘The **little black dress** is the hardest thing to realize because
-      **you must keep it simple**.’  
+      > ‘The**little black dress** is the hardest thing to realize because**you
+      must keep it simple**.’  
         
         
         
       Hubert de Givenchy
     _key: card-3-143355f3-5413-4820-954d-36860baf0561
   - order: 3
+    useCheckmark: false
     body: >-
       # FUN FACT
 
@@ -80,6 +84,7 @@ cards:
       2006](https://www.christies.com/lotfinder/Lot/audrey-hepburn-breakfast-at-tiffanys-1961-4832498-details.aspx)
     _key: card-4-fb68cb7a-5e16-4efe-b43a-eb41ca07becc
   - order: 4
+    useCheckmark: false
     body: >-
       ## Givenchy: Backstory
 
@@ -95,6 +100,7 @@ cards:
       couldn’t afford “live” models.
     _key: card-5-d994c3b1-fb6b-405e-b25e-8ecb6a361731
   - order: 5
+    useCheckmark: false
     body: >-
       ## Givenchy Today
 
@@ -111,6 +117,7 @@ cards:
       Show](https://www.nytimes.com/2018/01/24/fashion/couture-margiela-galliano-givenchy.html)
     _key: card-6-598c3f32-9d26-429b-9412-9cb77a94796e
   - order: 6
+    useCheckmark: true
     body: >-
       The perfect dress can make many things happen in a woman’s life. It can
       bring happiness. It is so nice to give happiness to your friends.’

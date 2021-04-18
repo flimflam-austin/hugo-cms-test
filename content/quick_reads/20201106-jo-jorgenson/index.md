@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“If the federal government weren’t so huge…such a behemoth of
       unimaginable size and power…we wouldn’t be so polarized and fighting over
@@ -28,6 +29,7 @@ cards:
     citation: JO JORGENSEN
     _key: a86b5649d9be
   - order: 1
+    useCheckmark: true
     body: >-
       As the first woman to represent the Libertarian ticket, Jorgenson says her
       role in 2020 mattered. Campaigning between teaching psych classes at

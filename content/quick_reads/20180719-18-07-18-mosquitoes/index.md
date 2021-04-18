@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # GAME CHANGER
 
@@ -34,6 +35,7 @@ cards:
       DEETS ON NO MORE DEET
     _key: card-1-5b6472ec-2d4f-446e-bce8-ecffdf48eac2
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Experiment
 
@@ -50,19 +52,21 @@ cards:
       * **Why:** The mosquitoes spread diseases like dengue fever & zika.
     _key: card-2-49092bdd-8c67-4186-b1bc-be15a48b1904
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why it Matters
 
 
       * Majority of mosquitoes don’t spread diseases, BUT 3 most deadly (found
-      globally) are responsible for **17% of infectious disease transmissions**.
+      globally) are responsible for**17% of infectious disease transmissions**.
 
-      * Researchers say this experiment **offers a potential new solution**.
+      * Researchers say this experiment**offers a potential new solution**.
 
-      * In May, the CDC warned the US is **“not fully prepared”** for these
-      **widespread & difficult to control diseases.**
+      * In May, the CDC warned the US is**“not fully prepared”** for
+      these**widespread & difficult to control diseases.**
     _key: card-3-f7ad1fbc-4898-4ac7-a33c-3855e5b09a32
   - order: 3
+    useCheckmark: true
     body: >-
       Why do we need mosquitoes anyway? And what's the downside to wiping out a
       population? Read on here.

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## PRESIDENTIAL PERK?
 
@@ -36,9 +37,11 @@ cards:
       Why It Matters
     _key: 5d825f6a3a16
   - order: 1
-    body: "## THE BASICS\n\nExecutive clemency is the “_power to grant reprieves and pardons for offenses against the U.S, except in cases of impeachment_” **granted to the President in the Constitution**. Two main types:\n\n* **Commutation:** Conviction stays on record, but sentence is shortened.\n* **Pardon:**\_Conviction stays on record, but civil rights lost due to conviction (ex: voting, guns) are restored."
+    useCheckmark: false
+    body: "## THE BASICS\n\nExecutive clemency is the “_power to grant reprieves and pardons for offenses against the U.S, except in cases of impeachment_”**granted to the President in the Constitution**. Two main types:\n\n* **Commutation:** Conviction stays on record, but sentence is shortened.\n* **Pardon:**\_Conviction stays on record, but civil rights lost due to conviction (ex: voting, guns) are restored."
     _key: 5a568ca538bc
   - order: 2
+    useCheckmark: false
     body: >-
       ## THE LIMITS
 
@@ -55,6 +58,7 @@ cards:
       governors.
     _key: f7a20f9a0660
   - order: 3
+    useCheckmark: false
     body: >-
       > “That was a tremendously powerful, ridiculous sentence, in my opinion.”
 
@@ -67,6 +71,7 @@ cards:
       (full list on our source page).
     _key: 3c1f2c192a7c
   - order: 4
+    useCheckmark: false
     body: >-
       > “Blagojevich is the face of public corruption in Illinois, and not once
       has he shown any remorse for his clear and documented record of egregious
@@ -78,6 +83,7 @@ cards:
       Celebrity Apprentice' star Blagojevich's sentence
     _key: a08b6133d412
   - order: 5
+    useCheckmark: false
     body: |-
       ## HISTORICAL CONTEXT
 
@@ -89,6 +95,7 @@ cards:
       * As of Feb. 19, 2020 Pres. Trump granted 25 pardons and 10 commutations.
     _key: 64ff62e47c05
   - order: 6
+    useCheckmark: true
     body: >-
       Tues. morning Pres. Trump held a meeting with former NFL players who had
       requested a pardon for a former team owner - they received it, and

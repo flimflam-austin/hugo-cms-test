@@ -20,6 +20,7 @@ card_series: Sports
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## “The Wildest Week”
 
@@ -34,14 +35,15 @@ cards:
       Then & Now
     _key: 36da51e3dd1e
   - order: 1
+    useCheckmark: false
     body: >-
       ## Current News
 
 
       * The future of all football (college, NFL) in 2020 is uncertain.
 
-      * **July**: Rose Parade canceled for the first time since World War II –
-      **national college championship games TBD**.
+      * **July**: Rose Parade canceled for the first time since World War II
+      –**national college championship games TBD**.
 
       * **1st wk of August**: Univ. of Connecticut is first Div I school to
       cancel its season, citing “unacceptable level of risk.”
@@ -50,6 +52,7 @@ cards:
       play in the spring.
     _key: 0554cf9d8988
   - order: 2
+    useCheckmark: false
     body: >-
       ## What To Know
 
@@ -65,6 +68,7 @@ cards:
       conference heads make the decision.
     _key: 6595bb8d7b91
   - order: 3
+    useCheckmark: false
     body: >-
       > “I do believe you can sufficiently mitigate the risk of bringing COVID
       onto the football field or into the training room at a level that’s no
@@ -76,6 +80,7 @@ cards:
       University) are choosing not to practice due to COVID.
     _key: c9cd594b2915
   - order: 4
+    useCheckmark: false
     body: >-
       > “You look at the overall numbers during this global pandemic, as far as
       caseloads, they have not decreased; they have gone up. Trends have not
@@ -87,11 +92,12 @@ cards:
       Commissioner Kevin Warren, Big 10; the conference postponed its season.
     _key: 1ece60648a16
   - order: 5
+    useCheckmark: false
     body: >-
       ## HISTORICAL CONTEXT
 
 
-      World War I **AND** the flu pandemic disproportionately affected healthy
+      World War I**AND** the flu pandemic disproportionately affected healthy
       young people, and delayed & shortened the college football schedule.
 
 
@@ -102,6 +108,7 @@ cards:
       which also competed against colleges.
     _key: ce578a7c3aeb
   - order: 6
+    useCheckmark: false
     body: >-
       > “It would be difficult to overestimate the value of football experience
       as a part of the soldier’s training….developing the aggressiveness,
@@ -113,6 +120,7 @@ cards:
       President Woodrow Wilson (1919)
     _key: ca858f3eac2f
   - order: 7
+    useCheckmark: false
     body: >-
       ## Gridiron During Crisis
 
@@ -128,6 +136,7 @@ cards:
       All college football games were canceled on the weekend after 9/11.
     _key: 343419b3dca1
   - order: 8
+    useCheckmark: true
     body: >-
       Colleges with football programs are grappling with losing much-needed
       revenue that supports athletic departments for ALL sports. One mother's

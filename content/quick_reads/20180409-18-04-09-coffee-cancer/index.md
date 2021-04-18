@@ -20,11 +20,12 @@ card_series: Health
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Cancer Warning For Cafe?
 
 
-      California judge ruled coffee sold in CA must come with **a cancer warning
+      California judge ruled coffee sold in CA must come with**a cancer warning
       label**…
 
 
@@ -38,21 +39,23 @@ cards:
     citation: Why? Flip Here
     _key: card-1-3b19337f-6429-4973-bcd4-880c5703ba32
   - order: 1
+    useCheckmark: false
     body: >-
       ## All About Acrylamide:
 
 
       * Studies on mice show acrylamide exposure increases risk for some types
-      of cancer; **findings from human studies are inconsistent.**
+      of cancer;**findings from human studies are inconsistent.**
 
       * EPA watches & regulates this chemical in drinking water.
 
-      * Found in **plastics**, grouts, **cosmetics**, & cigarette smoke.
+      * Found in**plastics**, grouts,**cosmetics**, & cigarette smoke.
 
-      * Found in foods like **fries**, potato chips, crackers, cookies, cereals,
-      canned black olives, & **coffee**.
+      * Found in foods like**fries**, potato chips, crackers, cookies, cereals,
+      canned black olives, &**coffee**.
     _key: card-2-663e6c97-4d8b-4701-9ea2-66d92896b17a
   - order: 2
+    useCheckmark: false
     body: >-
       ## Does Coffee Cause Cancer?
 
@@ -65,6 +68,7 @@ cards:
       list, but says evidence is insufficient to rule out any possible role.
     _key: card-3-8fc5cc18-2071-457e-b9dc-093cc7033cb3
   - order: 3
+    useCheckmark: false
     body: >-
       # Why Is CA Different?
 
@@ -82,6 +86,7 @@ cards:
       Prop 65.
     _key: card-4-1da6e2df-be10-4667-b7cb-e8d4382548ec
   - order: 4
+    useCheckmark: true
     body: >-
       Starbucks and other coffee purveyors says the level of the acrylamide
       (which has been on California's Prop 65 list of chemicals since 1990) in

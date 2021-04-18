@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## How Many Deaths Has COVID-19 *Really* Caused?
 
@@ -30,6 +31,7 @@ cards:
       What To Know & Why It Matters
     _key: a87d659e73e0
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Happened:
 
@@ -37,7 +39,7 @@ cards:
       The CDC regularly updates information on COVID-19 deaths in America.
 
 
-      The CDC: _“For 6% of the deaths, COVID-19 was the only cause mentioned.”_
+      The CDC:_“For 6% of the deaths, COVID-19 was the only cause mentioned.”_
 
 
       This caused obvious confusion, leading some to believe it meant COVID
@@ -45,6 +47,7 @@ cards:
       remaining 94% died WITH COVID-19, not because of it.
     _key: 7bece9e1e93a
   - order: 2
+    useCheckmark: false
     body: >-
       ## Important Context:
 
@@ -53,13 +56,14 @@ cards:
       to their death is often recorded.
 
       * COVID-19 deaths may include several contributing factors. For example,
-      when **COVID-19** leads to **pneumonia** & **respiratory failure**, all
-      may be listed on a death certificate.
+      when**COVID-19** leads to**pneumonia** &**respiratory failure**, all may
+      be listed on a death certificate.
 
       * In a rare number of COVID deaths (6%), COVID-19 was listed as the
       ***only*** cause/condition of death.
     _key: 3413691e5a57
   - order: 3
+    useCheckmark: false
     body: >-
       ## More Context
 
@@ -75,6 +79,7 @@ cards:
       cause of death is cancer, but COVID is listed as a contributing factor.
     _key: 4300165d2381
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -88,6 +93,7 @@ cards:
       COVID-19 was the primary driver.
     _key: 422d8757577a
   - order: 5
+    useCheckmark: true
     body: >-
       Approximately 80% of COVID-19 deaths in America to date occurred in those
       65 and older. The CDC has emphasized that it's not age alone but

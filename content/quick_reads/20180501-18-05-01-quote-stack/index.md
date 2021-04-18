@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # QUICK QUOTES
 
@@ -32,6 +33,7 @@ cards:
       per gallon - up from $2.38 per gallon last year.
     _key: card-1-cab3b404-6bc1-4059-88a8-a33428150005
   - order: 1
+    useCheckmark: false
     body: >-
       > **“Only in Texas will you get a Gator and Whataburger in the same
       picture.”**  
@@ -45,6 +47,7 @@ cards:
       Video](https://www.facebook.com/100001386861557/videos/pcb.1783916161664595/1783877835001761/?type=3&theater)
     _key: card-2-c234b72c-93fe-483d-9314-e96c383594d5
   - order: 2
+    useCheckmark: false
     body: >-
       > “Before I leave I’d like to see our politics begin to return to the
       purposes and practices that distinguish our history from the history of
@@ -57,6 +60,7 @@ cards:
       brain cancer.
     _key: card-3-d88d6800-0655-4b5c-b694-eb0d2b247633
   - order: 3
+    useCheckmark: false
     body: >-
       **“It’s not about our salaries. Most teachers I know, they try to get by,
       they live paycheck to paycheck. … we work ourselves to the bone trying to
@@ -69,6 +73,7 @@ cards:
       wages.
     _key: card-4-2906a132-3046-47d8-849d-68a955918331
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-05-01-quote-stack/)'
     _key: card-10-20e164dd-9154-4d0e-a91c-f2d725a7c5e9
 

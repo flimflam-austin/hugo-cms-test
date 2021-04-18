@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # New Jobs Report
 
@@ -28,6 +29,7 @@ cards:
       Out of double digits, but not out of the woods.
     _key: 4db0a02c3eac
   - order: 1
+    useCheckmark: false
     body: >-
       ## 3 Quick Facts: Jobs Report
 
@@ -43,6 +45,7 @@ cards:
       when it added 1.7M.
     _key: 663ad5712fa3
   - order: 2
+    useCheckmark: false
     body: >-
       > “We’re in a very deep hole, and we’re working our way out of it. We
       continue to see very good improvement in the labor market, but I think the
@@ -54,6 +57,7 @@ cards:
       suggesting the driver is rehiring rather than new job creation.
     _key: 6de8428e9cec
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
@@ -68,6 +72,7 @@ cards:
       rather than temporary, adjustment.
     _key: c989d77ec048
   - order: 4
+    useCheckmark: true
     body: >-
       The unemployment rate in January 2020 was 3.6% - the lowest in more than
       50 years. The economy has shed more than 22M jobs during the COVID-19

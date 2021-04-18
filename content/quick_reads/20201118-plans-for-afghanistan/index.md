@@ -20,14 +20,16 @@ card_series: Current Events
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
-      News of a U.S. troop drawdown **overseas** comes under controversy here at
-      **home**.
+      News of a U.S. troop drawdown**overseas** comes under controversy here
+      at**home**.
 
 
       Here’s what to know
     _key: a5ec399d5dd6
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Latest
 
@@ -36,12 +38,13 @@ cards:
       and Iraq – leaving roughly 2500 troops in each country.
 
 
-      U.S. troops will continue to _“defend”_ embassies and _“the other agencies
+      U.S. troops will continue to_“defend”_ embassies and_“the other agencies
       of the U.S. gov’t doing important work…They’ll defend our diplomats and
       they’ll deter our foes.”_ White House National Security Advisor Robert
       O’Brien
     _key: 84ab5f7bcad2
   - order: 2
+    useCheckmark: false
     body: >-
       > “I believe these additional reductions of American troops from terrorist
       areas are a mistake… (The Taliban have) done nothing — met no condition —
@@ -54,6 +57,7 @@ cards:
       U.S. has held "peace talks" w/the Taliban & Afghan gov't.
     _key: 026d16ee10b3
   - order: 3
+    useCheckmark: false
     body: >-
       ## Context To Consider:  
 
@@ -71,6 +75,7 @@ cards:
       Taliban).
     _key: c482eaba316f
   - order: 4
+    useCheckmark: false
     body: >-
       ## Context to Consider: Iraq
 
@@ -84,6 +89,7 @@ cards:
       Iraq was a "little ways away from that" but improved from past years.
     _key: bdc012dec2ee
   - order: 5
+    useCheckmark: false
     body: >-
       ## The Timeline
 
@@ -99,6 +105,7 @@ cards:
       different strategy.
     _key: 7c90c8ee887c
   - order: 6
+    useCheckmark: false
     body: >-
       ## Why This Matters:
 
@@ -114,6 +121,7 @@ cards:
       use of U.S. forces?
     _key: 07196e13c4ed
   - order: 7
+    useCheckmark: true
     body: >-
       Early reports from Iraq: two rockets were fired at the U.S. embassy in
       Baghdad after news of the drawdown was announced. Read more about why on

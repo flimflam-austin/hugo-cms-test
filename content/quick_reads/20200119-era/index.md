@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Should We Amend The Constitution?
 
@@ -31,9 +32,10 @@ cards:
       Will it become the 28th Amendment to the U.S. Constitution?
     _key: card-1-b300dac5-f8ee-42e6-a872-3aad785521de
   - order: 1
+    useCheckmark: false
     body: >-
       > _“Women shall have equal rights in the United States and every place
-      subject to its jurisdiction._ _Equality of rights under the law shall not
+      subject to its jurisdiction.__Equality of rights under the law shall not
       be denied or abridged by the United States or by any State on account of
       sex_.”  
 
@@ -44,6 +46,7 @@ cards:
       to the U.S. Constitution because not enough states ratified (approved) it.
     _key: card-2-beaf9dce-5955-48be-8d55-bbd27cb384a4
   - order: 2
+    useCheckmark: false
     body: >-
       ## Equal Rights Amendment
 
@@ -59,6 +62,7 @@ cards:
       rescinded their ratification.
     _key: card-3-2183ec48-2caf-4167-815a-b941ab618c62
   - order: 3
+    useCheckmark: false
     body: >-
       ## Do We Need It?
 
@@ -74,6 +78,7 @@ cards:
       constitutional amendments.
     _key: card-4-b3673ddc-d211-48b8-ac58-b0b53c2e49f4
   - order: 4
+    useCheckmark: false
     body: >-
       > “Every constitution written since the end of World War II includes a
       provision that men and women are citizens of equal stature. Ours does not…
@@ -84,6 +89,7 @@ cards:
       U.S. Supreme Court Justice Ruth Bader Ginsburg in 2005.
     _key: card-5-cd5db25a-1b11-43a8-9cf3-5398b4edd978
   - order: 5
+    useCheckmark: false
     body: >-
       > “Certainly the Constitution does not require discrimination on the basis
       of sex. The only issue is whether it prohibits it. It doesn’t.”  
@@ -93,6 +99,7 @@ cards:
       discrimination.
     _key: card-6-397d7761-1a47-4ebe-a0f8-0668168f4969
   - order: 6
+    useCheckmark: true
     body: >-
       Illinois became the 37th state to ratify the Equal Rights Amendment in
       2018. 13 states (AL, AZ, AR, FL, GA, LA, MS, MO, NC, OK, SC, UT, VA) have

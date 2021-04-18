@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## BLOCKED!
 
@@ -27,13 +28,14 @@ cards:
       counts as “censorship” on our online platforms?
     _key: e4fe89286cda
   - order: 1
+    useCheckmark: false
     body: >-
       ## Communications Decency Act of 1996, Section 230
 
 
-      * The federal law protects – in ***most*** circumstances – online
-      platforms (***regardless*** of their size) from legal liability for
-      user-posted content ***and*** allows them to regulate that content.
+      * The federal law protects – in***most*** circumstances – online platforms
+      (***regardless*** of their size) from legal liability for user-posted
+      content***and*** allows them to regulate that content.
 
       * It predates the social media sites that are now a part of our everyday
       lives.
@@ -42,6 +44,7 @@ cards:
       agreement on how to do that.
     _key: 99bd81ac409a
   - order: 2
+    useCheckmark: false
     body: >-
       ## BACKGROUND
 
@@ -57,6 +60,7 @@ cards:
       offensive material for their customers.”
     _key: e57eab32e921
   - order: 3
+    useCheckmark: false
     body: >-
       ## THE SHIELD
 
@@ -73,9 +77,11 @@ cards:
       CNN, you could also sue CNN.
     _key: 3cb115dc4eb3
   - order: 4
+    useCheckmark: false
     body: "## THE SWORD\n\n* Under 230, online platforms moderate user content mostly as they see fit.\n* It allows them to take “**_good faith_**” actions to restrict access to content they deem obscene, excessively violent, or “_otherwise objectionable,_\_**_whether or not such material is constitutionally protected_.**“\n* REMEMBER: The First Amendment protects us from censorship by the government – not private companies."
     _key: 73c3ddae97a3
   - order: 5
+    useCheckmark: false
     body: >-
       ## What It Looks Like
 
@@ -92,6 +98,7 @@ cards:
       Twitter’s rules.
     _key: 61f679ca2420
   - order: 6
+    useCheckmark: true
     body: >-
       Former Pres. Trump called on Congress to repeal Section 230 and even
       signed an executive order aimed at minimizing its reach. Speaking last

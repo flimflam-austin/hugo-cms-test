@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“Do not get lost in a sea of despair. Be hopeful, be optimistic…Never,
       ever be afraid to make some noise and get in good trouble, necessary
@@ -27,6 +28,7 @@ cards:
     citation: JOHN LEWIS
     _key: 2df0b1066f51
   - order: 1
+    useCheckmark: true
     body: >-
       The civil rights leader and congressman passed away at the age of 80. Read
       more about his life and what he meant by "good trouble."

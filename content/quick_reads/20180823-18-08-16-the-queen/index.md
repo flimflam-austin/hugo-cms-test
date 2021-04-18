@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## THE QUEEN OF SOUL
 
@@ -27,6 +28,7 @@ cards:
       Aretha Franklin in her own words.
     _key: card-1-45999faf-9a68-4e64-b0ce-3e965c320128
   - order: 1
+    useCheckmark: false
     body: >-
       > “I was concerned. I wasn’t afraid. My faith in God is too great for
       that.”  
@@ -37,6 +39,7 @@ cards:
       undisclosed surgery in 2010 in which she asked fans for prayers.
     _key: card-2-4b8fbc7d-b12c-43a6-b12f-2b7543a0f2a2
   - order: 2
+    useCheckmark: false
     body: >-
       “You weren’t an overnight sensation. You had to work at it and learn your
       craft: how to take care of your voice, how to pace your concerts, all that
@@ -49,6 +52,7 @@ cards:
       with Columbia Records.
     _key: card-3-c2b64393-7e79-4575-92ca-af82d2ce1061
   - order: 3
+    useCheckmark: false
     body: >-
       > “Everybody wants respect. In their own way, three-year-olds would like
       respect, and acknowledgment, in their terms.”  
@@ -64,6 +68,7 @@ cards:
       Now](https://www.youtube.com/embed/0L4Bonnw484?enablejsapi=1&autoplay=1&rel=0)
     _key: card-4-f62b6cd2-3c3d-4c61-bbe0-ea008a2dad01
   - order: 4
+    useCheckmark: false
     body: >-
       > “I do appreciate it, absolutely. But some very fine and dynamite people
       paved the way for me… Sarah (Vaughn), Ella (Fitzgerald), and so on.”  
@@ -75,6 +80,7 @@ cards:
       1987.
     _key: card-5-256856c6-4e17-4bb3-a429-fc8f32522813
   - order: 5
+    useCheckmark: false
     body: >-
       > "Falling out of love is like losing weight. It’s a lot easier putting it
       on than taking it off."  
@@ -84,6 +90,7 @@ cards:
       Aretha Franklin was married twice. She is survived by her 4 sons.
     _key: card-6-02cb7689-bae1-4439-a092-97b27ddd05fa
   - order: 6
+    useCheckmark: false
     body: >-
       > "I love Wal-Mart and not just because my record is there. You can get
       some things there that you cannot find at Saks or Bergdorf’s or other
@@ -96,6 +103,7 @@ cards:
       store happens to be crowded that day, I go to other aisles.
     _key: card-7-3268742f-d4c3-48f1-842f-5d30b1de6444
   - order: 7
+    useCheckmark: true
     body: |-
       Aretha Franklin passed away Aug. 16, 2018 at the age of 76.
 

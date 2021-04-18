@@ -1,0 +1,15 @@
+> add delete
+> add caching
+> add error logging
+> remove if is asset fails to download
+
+> resize quickreads assets
+
+> verify aliases are functioning
+
+> remove comments
+
+> about
+> products
+> authors
+> site settings

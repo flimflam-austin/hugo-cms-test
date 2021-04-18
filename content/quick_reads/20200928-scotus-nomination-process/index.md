@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # We Have A Name…  
 
@@ -30,6 +31,7 @@ cards:
       Justice.
     _key: ac30244c60c7
   - order: 1
+    useCheckmark: false
     body: >-
       The Constitution says the President “_shall nominate, and by and with the
       Advice and Consent of the Senate, shall appoint … Judges of the Supreme
@@ -42,6 +44,7 @@ cards:
       qualities of a nominee - they don't even have to have a legal degree.
     _key: cad6ee950c07
   - order: 2
+    useCheckmark: false
     body: >-
       ## STEP-BY-STEP PROCESS
 
@@ -61,6 +64,7 @@ cards:
       * 51 votes required to confirm the nominee.
     _key: 9dc6aab22f79
   - order: 3
+    useCheckmark: false
     body: >-
       ## THE MATH
 
@@ -69,29 +73,31 @@ cards:
       court.
 
 
-      The Republicans control the Senate by a **53-47** margin.
+      The Republicans control the Senate by a**53-47** margin.
 
 
-      Republicans can **lose up to 3 votes** and the nominee could still be
+      Republicans can**lose up to 3 votes** and the nominee could still be
       confirmed because Vice President Mike Pence gets the tie-breaking vote in
       a 50-50 scenario.
     _key: e73ea2b882a0
   - order: 4
+    useCheckmark: false
     body: >-
       ## BIG PICTURE
 
 
-      * Historically, **most nominees (77%) are confirmed** regardless of the
+      * Historically,**most nominees (77%) are confirmed** regardless of the
       party of the President or majority in the Senate (not all are confirmed by
       a large majority).
 
-      * In recent years, the nomination process has taken **approx. 70 days**.
+      * In recent years, the nomination process has taken**approx. 70 days**.
 
-      * If we look at the confirmation process for sitting Justices, we see a
-      **range in timelines**: Chief Justice Roberts was confirmed in 23 days.
+      * If we look at the confirmation process for sitting Justices, we see
+      a**range in timelines**: Chief Justice Roberts was confirmed in 23 days.
       Justice Clarence Thomas was confirmed in 99 days.
     _key: 83a9ce36fed1
   - order: 5
+    useCheckmark: true
     body: >-
       While many look to Election Day as a deadline for the nominee's approval,
       the current Senate can vote anytime before the next Congress takes office

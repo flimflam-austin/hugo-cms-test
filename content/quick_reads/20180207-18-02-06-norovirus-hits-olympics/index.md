@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Norovirus Strikes Olympics
 
@@ -30,6 +31,7 @@ cards:
       * Food prep areas, food & water sources = tested
     _key: card-1-177e470a-a6a6-478f-a318-e51ab90e1fbd
   - order: 1
+    useCheckmark: true
     body: |-
       Opening Ceremony: Thursday Feb 8 What is norovirus exactly?
 

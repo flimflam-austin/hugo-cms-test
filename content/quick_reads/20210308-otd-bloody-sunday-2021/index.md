@@ -19,6 +19,7 @@ card_series: On This Day
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # March 7, 1965
 
@@ -27,12 +28,13 @@ cards:
       > A pivotal turning point in America’s civil rights movement.
     _key: bcf6cdeb4b62
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Background
 
 
       * Congress passed the 15th Amendment in 1870 to guarantee that the right
-      to vote _“shall not be denied or abridged by the United States or by any
+      to vote_“shall not be denied or abridged by the United States or by any
       state on account of race, color, or previous condition of servitude.”_
 
       * However, many states passed laws or employed practices that still
@@ -40,6 +42,7 @@ cards:
       and intimidation.
     _key: 085ea617f7d4
   - order: 2
+    useCheckmark: false
     body: >-
       ## “Bloody Sunday”
 
@@ -55,9 +58,11 @@ cards:
       * Photographers captured the violent scene, broadcast around the world.
     _key: 9f917bd1d73a
   - order: 3
+    useCheckmark: false
     body: "> _“Mr. Williams said, ‘Can I have a word?’\_He said, ‘There will be no word.’ And about a minute or more Major Cloud ordered the Troopers to advance … they moved forward with their clubs up over their—near their shoulder, the top part of the body; they came rushing in, knocking us down and pushing us.”_\n\nCongressman John Lewis - a young civil rights leader at the time - led the march with Hosea Williams, a fellow activist."
     _key: 3339b7e8ad9f
   - order: 4
+    useCheckmark: false
     body: >-
       ## Aftermath
 
@@ -75,6 +80,7 @@ cards:
       25,000 marchers arrived.
     _key: 4b36fdafa31f
   - order: 5
+    useCheckmark: false
     body: >-
       > “What happened in Selma is part of a far larger movement which reaches
       into every section and State of America … And we shall overcome.”
@@ -87,6 +93,7 @@ cards:
       that could lead to limiting voting rights.
     _key: 38289add77b7
   - order: 6
+    useCheckmark: false
     body: >-
       > “There are more bridges to cross, but we will make it … ​I just believe
       deeply within it’s just a matter of time, that fate and history will come
@@ -100,6 +107,7 @@ cards:
       mark the day in person.
     _key: 98b5fe254638
   - order: 7
+    useCheckmark: true
     body: >-
       In 2013 the Edmund Pettus Bridge, named after a Confederate general, was
       designated as a U.S. National Historic Landmark to honor the events of

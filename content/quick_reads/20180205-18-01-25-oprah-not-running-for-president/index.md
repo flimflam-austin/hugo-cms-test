@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > “It’s not something that interests me.”  
         
@@ -28,6 +29,7 @@ cards:
       Oprah Winfrey on running for President InStyle Magazine, March Issue 2018
     _key: card-1-7edefcc8-4f2e-4df8-ae6d-4e2664ad395f
   - order: 1
+    useCheckmark: false
     body: >-
       # Oprah: On Aging
 
@@ -36,6 +38,7 @@ cards:
       no shit, but you still do. In your 60s you take none.”
     _key: card-2-5e03b7c6-4312-4c51-ba06-a18b3986def0
   - order: 2
+    useCheckmark: true
     body: >-
       Read Full Article Here
 

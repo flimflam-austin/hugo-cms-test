@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > _“I think I’m older, wiser, and I’m finally starting to get it.”_
 
@@ -27,6 +28,7 @@ cards:
     citation: Simone Biles
     _key: card-1-fe1d0616-5cbe-42a6-9688-54c5b4905a3d
   - order: 1
+    useCheckmark: true
     body: >-
       After a break from competition, Simone Biles won her 5th national
       championship - the 1st woman to do so since U.S. Gymnastics began the

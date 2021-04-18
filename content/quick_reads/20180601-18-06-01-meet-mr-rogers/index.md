@@ -20,6 +20,7 @@ card_series: Entertainment
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## THE REAL MR. ROGERS
 
@@ -35,6 +36,7 @@ cards:
       Flip: the true story
     _key: card-1-fcbd9d0e-ef7f-48bf-b450-d595141bb3b3
   - order: 1
+    useCheckmark: false
     body: >-
       ## Yes, He Was THAT Nice.
 
@@ -52,6 +54,7 @@ cards:
       * Rogers responded to every fan letter – over 1 million of them.
     _key: card-2-c6b095fc-8aea-4c73-a522-96c71838afb4
   - order: 2
+    useCheckmark: false
     body: >-
       ## He Worked Tirelessly.
 
@@ -69,6 +72,7 @@ cards:
       which were some facet of his personality.
     _key: card-3-dbedbaf5-dc74-409f-a5e1-5e9cca1df3aa
   - order: 3
+    useCheckmark: false
     body: >-
       ## He Was Really Very Funny.
 
@@ -84,6 +88,7 @@ cards:
       * Monty Python fan.
     _key: card-4-47fa3e49-bf36-40e2-8d22-009b9ac34153
   - order: 4
+    useCheckmark: false
     body: >-
       ## The Cardigan Was Special
 
@@ -104,6 +109,7 @@ cards:
       [Watch him tell you.](https://vimeo.com/88089113)
     _key: card-5-0988c8ae-aacf-4d07-acb2-56981147343e
   - order: 5
+    useCheckmark: true
     body: >-
       The documentary "Won't You Be My Neighbor?" isn't the only upcoming movie
       about Fred Rogers. Click to learn which Oscar winner will play Mr. Rogers

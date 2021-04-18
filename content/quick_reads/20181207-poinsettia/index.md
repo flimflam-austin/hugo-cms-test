@@ -20,11 +20,12 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # The Christmas Flower
 
 
-      For **100 years**, the Poinsettia reigns as **America’s**  
+      For**100 years**, the Poinsettia reigns as**America’s**  
 
       **holiday flower**.
 
@@ -36,19 +37,21 @@ cards:
       Feliz NAVIDAD!
     _key: card-1-8d954d72-498a-4c82-b127-aeec70598790
   - order: 1
+    useCheckmark: false
     body: >-
       # HISTORY
 
 
-      Native to Central America, itA **grows as a tree**. In the 14th century,
-      Aztecs **used it as**A **dye** & the white sap to **treat fevers**.
+      Native to Central America, itA**grows as a tree**. In the 14th century,
+      Aztecs**used it as**A**dye** & the white sap to**treat fevers**.
 
 
-      Introduced to America in the 1820s by – and named for – the **first U.S.
-      Ambassador to Mexico** & botanistA **Joel Roberts Poinsett**. He also
+      Introduced to America in the 1820s by – and named for – the**first U.S.
+      Ambassador to Mexico** & botanistA**Joel Roberts Poinsett**. He also
       cultivated it into the smaller plant we know now.
     _key: card-2-796acb6e-6eae-44fe-b870-1f2c998c53ca
   - order: 2
+    useCheckmark: false
     body: >-
       # POISONOUS LEAVES?
 
@@ -56,13 +59,14 @@ cards:
       * **Not true**. Poison Control has debunked the often-quoted myth that
       Poinsettias’ sap can be dangerous to small kids & dogs**.**
 
-      * While irritating, a study found a 50-pound child would have to **eat 500
+      * While irritating, a study found a 50-pound child would have to**eat 500
       leaves** for a harmful effect.
 
-      * Researchers say the taste would be awful, but advise **keeping it away
+      * Researchers say the taste would be awful, but advise**keeping it away
       from pets** because it may cause vomiting & diarrhea.
     _key: card-3-1f5c1e26-0008-4e4a-bf7f-e51ad9c69f16
   - order: 3
+    useCheckmark: false
     body: >-
       # HOW DO YOU SAY IT?
 
@@ -76,10 +80,11 @@ cards:
 
 
       But since it was named after a person, Poinsett, English scholars believe
-      the added **“ia” should be pronounced** (Poin-set-ee-ah) & it should
-      always be **capitalized**.
+      the added**“ia” should be pronounced** (Poin-set-ee-ah) & it should always
+      be**capitalized**.
     _key: card-4-a4ea37f9-53f7-4a5d-9ed1-4ef6e5190020
   - order: 4
+    useCheckmark: true
     body: >-
       Blooming only once around Christmas, the Poinsettia is America's 2nd most
       popular potted flowering plant, behind orchids. The $200M market includes

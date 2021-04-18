@@ -20,15 +20,17 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # UPDATE: West Virginia Teacher Strike
 
-      * WV lawmakers reach deal to give teachers a **5% pay raise**.
-      * To pay for it, lawmakers will seek to **cut state spending by $20M**.
-      * Teachers’ strike canceled schoolsA statewide for **9-straight days**.
+      * WV lawmakers reach deal to give teachers a**5% pay raise**.
+      * To pay for it, lawmakers will seek to**cut state spending by $20M**.
+      * Teachers’ strike canceled schoolsA statewide for**9-straight days**.
       * Governor promises task force to address health care costs.
     _key: card-1-c634352e-9606-476d-8c93-b0a722bf7ec2
   - order: 1
+    useCheckmark: false
     body: >-
       > “This is very positive. We are surprised, but we aren’t putting all of
       our eggs from the chickens in one basket. We want it signed, sealed and
@@ -40,6 +42,7 @@ cards:
       Tina Workman, Midland Trail Elementary teacher to CBS News
     _key: card-2-14654e1d-754f-4531-a1d2-855a1c75255e
   - order: 2
+    useCheckmark: false
     body: >-
       ## Contentious Negotiations
 
@@ -56,6 +59,7 @@ cards:
       attempt to end strike
     _key: card-3-ee818b03-a48f-40e2-8fa0-bfb3b51b957f
   - order: 3
+    useCheckmark: false
     body: >-
       # Where will the Money Come From?
 
@@ -69,17 +73,19 @@ cards:
       West Virginia Republican Senate President Michael Carmichael (2/28/18)
     _key: card-4-c259cf5c-eccb-4422-8f6d-8520c7286278
   - order: 4
+    useCheckmark: false
     body: |-
       # Protesting Over Pay
 
       ## How Teacher Salaries Stack Up
 
-      * **$45,622** = Average teacher salary in **West Virginia** (in 2016).
+      * **$45,622** = Average teacher salary in**West Virginia** (in 2016).
       * **Ranked 48th** in the country, above only Oklahoma & Mississippi.
-      * **$58,353** = **National average** public teacher salary.
+      * **$58,353** =**National average** public teacher salary.
       * New York ranked #1 at $79,152.
     _key: card-5-84a98443-5ca5-45a0-8eb7-82c17411cdc3
   - order: 5
+    useCheckmark: true
     body: >-
       And it's not just in West Virginia, now teachers in Oklahoma say they may
       strike...

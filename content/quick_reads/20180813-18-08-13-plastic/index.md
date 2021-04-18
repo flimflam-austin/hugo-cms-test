@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## TRASH NOBODY WANTS
 
@@ -34,6 +35,7 @@ cards:
       Why It matters
     _key: card-1-4b74ccc6-3212-40d5-a6f4-96d78f882b55
   - order: 1
+    useCheckmark: false
     body: >-
       ## For 27 years, China has bought 45% of the world’s plastic trash, but
       now it says no more.
@@ -49,6 +51,7 @@ cards:
       Where Will It Go?
     _key: card-2-4f54cce8-4c79-4685-8bb2-34760e4bfc62
   - order: 2
+    useCheckmark: false
     body: >-
       ## Now What?
 
@@ -65,6 +68,7 @@ cards:
       economical.
     _key: card-3-61a7c47d-5cfa-43ec-a07b-3a3e3e3e596a
   - order: 3
+    useCheckmark: true
     body: >-
       Scientists are working to create a durable plastic material that
       self-destructs on command. While it still doesn't make economic sense to

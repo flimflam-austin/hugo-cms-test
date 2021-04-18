@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _"It’s incredible to stay in a career this long and still have people
       put up with you. I wish they did that at home."_
     citation: Betty White
     _key: card-1-b3713458-41f0-4e8f-a5d5-76a60003b498
   - order: 1
+    useCheckmark: true
     body: >-
       96-year-old Betty White still making people laugh as she was honored at
       the 2018 Emmy Awards. The comedian was nominated 24 times and won 8 Emmys

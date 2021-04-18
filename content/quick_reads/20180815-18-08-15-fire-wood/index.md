@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Fanning the Flames
 
@@ -31,12 +32,13 @@ cards:
 
       California’s Governor calls it “**the new normal**,” but as fires rage
       from Washington to New Mexico, with the Golden State the hardest hit, why
-      there’s hope in a **wood that CAN’T catch fire.**
+      there’s hope in a**wood that CAN’T catch fire.**
 
 
       FLIP: The Anti-Firewood
     _key: card-1-e2c74f86-1500-4bf9-86d0-c811c951f04d
   - order: 1
+    useCheckmark: false
     body: >-
       # Will This Prevent Fires?
 
@@ -45,7 +47,7 @@ cards:
 
 
       * **Scientists created** *new* synthetic wood similar to plastic-wood
-      composites used for decks, but synthetic wood **won’t burn.**
+      composites used for decks, but synthetic wood**won’t burn.**
 
       * **Lightweight & high-strength** like real wood.
 
@@ -54,6 +56,7 @@ cards:
       * **Price TBD**.
     _key: card-2-36864bb1-630e-43cd-944e-c01cea64d3a1
   - order: 2
+    useCheckmark: false
     body: >-
       ## Wildfire Destruction
 
@@ -68,6 +71,7 @@ cards:
       fires to slow in September before ramping up again in Oct.
     _key: card-3-672da01e-5d55-4302-855d-fcb58f75f4ad
   - order: 3
+    useCheckmark: false
     body: >-
       ## Is It Worse This Year?
 
@@ -81,9 +85,10 @@ cards:
         
         
       Twenty large fires are now burning in CA, including the Ranch Fire (one of
-      the Mendocino Complex Fire) the **largest wildfire in CA history**.
+      the Mendocino Complex Fire) the**largest wildfire in CA history**.
     _key: card-4-2af38813-e17d-4830-93e6-0e504733be18
   - order: 4
+    useCheckmark: true
     body: >-
       In California, 6 firefighters died and more than 2,200 buildings are
       damaged or destroyed with still months left in wildfire season. For a

@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # April 3, 1968
 
@@ -30,6 +31,7 @@ cards:
       The final speech
     _key: b55278812f4a
   - order: 1
+    useCheckmark: false
     body: >-
       > “We’ve got some difficult days ahead. … Like anybody, I would like to
       live a long life. Longevity has its place. But I’m not concerned about
@@ -41,6 +43,7 @@ cards:
       MLK, April 3, 1968, in his last speech before he was assassinated.
     _key: cbe676ab0db9
   - order: 2
+    useCheckmark: false
     body: >-
       ## 24 Hours Later:
 
@@ -55,6 +58,7 @@ cards:
       worked alone.
     _key: 4de53dd8d8c6
   - order: 3
+    useCheckmark: false
     body: >-
       # Lasting Legacy
 
@@ -68,6 +72,7 @@ cards:
       MLK Jr. delivered his famous “I have a dream speech” in 1963.
     _key: 3fb05511505f
   - order: 4
+    useCheckmark: true
     body: >-
       MLK is one of only two people with a U.S. federal holiday honoring their
       birth (the other one is George Washington). How it became a holiday (and

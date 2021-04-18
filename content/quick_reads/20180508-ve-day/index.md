@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Victory In Europe Day
 
@@ -40,6 +41,7 @@ cards:
       Fulfilled"](https://www.archives.gov/publications/prologue/2015/summer/war-message.html)
     _key: card-1-161e072e-556d-4a78-8e7b-f928aec8221e
   - order: 1
+    useCheckmark: false
     body: >-
       ## V-E Day Ended WWII in Europe But Not In Asia
 
@@ -51,6 +53,7 @@ cards:
       unofficial surrender happened in August 1945.
     _key: card-2-c8a59615-7671-48d6-be95-4b88cb717c1a
   - order: 2
+    useCheckmark: true
     body: >-
       Estimates place total deaths in WWII as over 50M...But some suggest it's
       even higher.

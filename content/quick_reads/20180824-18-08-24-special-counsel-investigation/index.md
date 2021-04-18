@@ -20,6 +20,7 @@ card_series: From the President's Desk
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > “NO COLLUSION – RIGGED WITCH HUNT!”  
         
@@ -29,6 +30,7 @@ cards:
       What *exactly* can the special counsel investigate?
     _key: card-1-78f382f8-5516-470d-af62-07a2d58795a4
   - order: 1
+    useCheckmark: false
     body: >-
       **WHAT IS A SPECIAL COUNSEL?**
 
@@ -37,6 +39,7 @@ cards:
       an investigation separate from the usual chain of command.
     _key: card-2-037de376-0605-4f52-8a9b-d5b1a357d5e7
   - order: 2
+    useCheckmark: false
     body: >-
       # BACKSTORY:
 
@@ -50,19 +53,21 @@ cards:
       Trump-Russia investigation.
     _key: card-3-3ac841ba-c277-4c1b-b9fc-206f51d5a117
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Order Appointing Mueller As Special Counsel Allows Investigation
       Into Any:
 
 
-      * **links / coordination** between the **Russian gov’t and 2016 Trump
+      * **links / coordination** between the**Russian gov’t and 2016 Trump
       campaign** associates;
 
-      * **matters** that **arise directly from** the investigation; &
+      * **matters** that**arise directly from** the investigation; &
 
-      * **crimes** intended to **interfere** with the investigation.
+      * **crimes** intended to**interfere** with the investigation.
     _key: card-4-9e477e00-17fc-4610-8582-a05e285d1141
   - order: 4
+    useCheckmark: false
     body: >-
       “I did not want Paul Manafort to be guilty, but he was …. the charges were
       legitimate, but the prosecution tried to make the case about the Russian
@@ -76,6 +81,7 @@ cards:
       holdout juror.
     _key: card-5-5b60fa87-2af6-4b7a-9b42-a55ba5185b47
   - order: 5
+    useCheckmark: true
     body: >-
       Since the Special Counsel's investigation began in May 2017, 26 Russian
       nationals, 4 former Trump aides, 1 California man and 1 Dutch lawyer have

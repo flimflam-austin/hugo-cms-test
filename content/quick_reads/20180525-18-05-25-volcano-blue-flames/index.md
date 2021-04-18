@@ -20,6 +20,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # BLUE FLAMES AS HAWAII BURNS
 
@@ -31,6 +32,7 @@ cards:
       Now](https://www.youtube.com/embed/7uGjDsN8JGM?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-cfbfbc9e-3b04-4789-af2c-8e47f7f48eb5
   - order: 1
+    useCheckmark: false
     body: >-
       ## Wait… BLUE Flames?
 
@@ -46,6 +48,7 @@ cards:
       Scientists are now concerned the methane may cause explosions.
     _key: card-2-3ec0717e-5163-4c80-be8e-acad12070186
   - order: 2
+    useCheckmark: true
     body: >-
       Mother Nature has put on quite a show... Kilauea’s eruption has also
       generated earthquakes, gushing molten rock, giant ash plumes & sulfur

@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Every 40 Secs in America…
 
@@ -28,17 +29,19 @@ cards:
       one as the President met with North Korea in Singapore.
     _key: card-1-d8bf7409-44ff-4cdf-b2b5-3002f474a63f
   - order: 1
+    useCheckmark: false
     body: >-
       > “National Economic Council Director and Assistant to the President Larry
-      Kudlow is expected to **remain at Walter Reed National Military Medical
+      Kudlow is expected to**remain at Walter Reed National Military Medical
       Center** as a standard precaution after experiencingA what his doctors say
-      was a **very mild heart attack yesterday**.A His doctors expect Larry will
-      make a **full and speedy recovery**. We look forward to seeing him back at
+      was a**very mild heart attack yesterday**.A His doctors expect Larry will
+      make a**full and speedy recovery**. We look forward to seeing him back at
       work soon.”  
         
       WHITE HOUSE
     _key: card-2-bc46686a-431a-42be-ba88-5241c89c822e
   - order: 2
+    useCheckmark: false
     body: >-
       ## U.S. Economy & Kudlow
 
@@ -53,9 +56,11 @@ cards:
       trying to fix it.”
     _key: card-3-320fb08e-0215-465f-a63c-5805b6cc2245
   - order: 3
+    useCheckmark: false
     body: "How do you know you’re having a heart attack?\n\n> “While heart disease can present in a very typical waya\x14chest pain, shortness of breatha\x14the symptoms can also be quite insidious–Particularly in women.”  \n  \n  \nCardiologist Kevin Campbell to SmartHER News says atypical symptoms include nausea, feelings of dread, flu-like illness, pain in the neck, arm or back."
     _key: card-4-04da1719-1bbb-44d2-8e6e-cc4b9ee9c475
   - order: 4
+    useCheckmark: true
     body: >-
       1 of 5 heart attacks are "silent," according to the CDC. The person never
       knows they had one. Dr. Kevin Campbell provides invaluable guidance to

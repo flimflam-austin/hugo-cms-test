@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## WORLD PEACE AT STAKE
 
@@ -27,8 +28,8 @@ cards:
       **WILL YOUR FAMILY BE SAFER?**
 
 
-      Leaders of South & North Korea have **historic meeting**…on the same day
-      U.S. welcomes Germany with **focus on Iran**.
+      Leaders of South & North Korea have**historic meeting**…on the same day
+      U.S. welcomes Germany with**focus on Iran**.
 
 
       **Nuclear weapons center stage**.
@@ -38,27 +39,29 @@ cards:
     citation: Why Now?
     _key: card-1-17829ce8-3c64-45fc-a2ea-a96d110011dd
   - order: 1
+    useCheckmark: false
     body: >-
       ## NUCLEAR WAR
 
 
       * **North Korea has nuclear weapons**. South & North Korea agreed to work
       towards “denuclearization” (ridding NoKo of nukes) & ending Korean War by
-      end of year. **Details TBD.**
+      end of year.**Details TBD.**
 
-      * Iran doesn’t have nukes (yet) & **Germany believes the “Iran Nuclear
-      Deal” maintains peace**; **Pres. Trump doesn’t** and may withdraw U.S.
-      from deal.
+      * Iran doesn’t have nukes (yet) &**Germany believes the “Iran Nuclear
+      Deal” maintains peace**;**Pres. Trump doesn’t** and may withdraw U.S. from
+      deal.
     _key: card-2-c174372e-5064-4dbf-ad6a-92145d320f12
   - order: 2
+    useCheckmark: false
     body: >-
       ## North & South Korea
 
 
-      * North Korean leader **crossed border** into South Korea for **first time
+      * North Korean leader**crossed border** into South Korea for**first time
       ever**.
 
-      * NoKo nuclear technology includes capability of **targeting U.S
+      * NoKo nuclear technology includes capability of**targeting U.S
       mainland**.
 
       * U.S. levies sanctions on NoKo to stop nuclear program; effect of
@@ -66,11 +69,12 @@ cards:
       determine.
     _key: card-3-64132eec-5135-4ca6-a553-be9cf3cb64be
   - order: 3
+    useCheckmark: false
     body: >-
       ## U.S. & Germany.: Agenda
 
 
-      * **Economy** and **Iran** top priorities following in footsteps of major
+      * **Economy** and**Iran** top priorities following in footsteps of major
       state visit from French president.
 
       * **Germany part of Iran Nuke Deal** (China, Russia, France, Britain,
@@ -80,6 +84,7 @@ cards:
       hurt China/North Korea), also hurt some European industry, incl. Germany.
     _key: card-4-74f2513a-b30a-4422-9b91-2c7547c0cb4b
   - order: 4
+    useCheckmark: true
     body: >-
       President Trump & German Chancellor Merkel will have a working lunch.
       North & South Korea did not share lunch, but will share dinner. See what's

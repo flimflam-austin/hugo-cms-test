@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # One-Shot Deal
 
@@ -28,6 +29,7 @@ cards:
       impact).
     _key: 0c10cd77528b
   - order: 1
+    useCheckmark: false
     body: >-
       ## Latest COVID-19 Vaccine
 
@@ -42,6 +44,7 @@ cards:
       up, with more than half completing at least eight weeks of follow-up.
     _key: 6122271dd42d
   - order: 2
+    useCheckmark: false
     body: >-
       > “There were no COVID-19-related deaths and no COVID-19 cases requiring
       medical intervention occurring 28 days or more post-vaccination among
@@ -54,6 +57,7 @@ cards:
       place during higher infection rates worldwide than others.
     _key: b47b469d7e8d
   - order: 3
+    useCheckmark: false
     body: >-
       ## Similar Vs. Different
 
@@ -67,6 +71,7 @@ cards:
       will be a game-changer enabling “mobile” vaccination units.
     _key: 038c21e2d743
   - order: 4
+    useCheckmark: false
     body: >-
       ## BIG PICTURE
 
@@ -80,6 +85,7 @@ cards:
       hospitalization (better for you & health systems overall).
     _key: d1c274d0ab53
   - order: 5
+    useCheckmark: true
     body: >-
       Other vaccines J&J is exploring with this "Trojan horse" adenovirus
       technology? Zika, HIV and RSV (respiratory syncytial virus common in

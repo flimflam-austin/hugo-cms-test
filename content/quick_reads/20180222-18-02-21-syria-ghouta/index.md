@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Syria: Deadly Days
 
@@ -35,6 +36,7 @@ cards:
       eastern suburb of Damascus.
     _key: card-1-fe349a1e-d161-4e64-92ea-49f220ffe171
   - order: 1
+    useCheckmark: false
     body: >-
       # Ghouta = “GOO-Ta”
 
@@ -47,6 +49,7 @@ cards:
       & center of gov’t led by President Assad.
     _key: card-2-4eaa7bf1-ea41-4cf9-af85-b266c1c13122
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why is Ghouta the target?
 
@@ -59,6 +62,7 @@ cards:
       * Syrian gov’t allegedly attacked same area with chemical weapons in 2013.
     _key: card-3-61ab3090-b35a-4874-8cec-0144166b7ecc
   - order: 3
+    useCheckmark: false
     body: >-
       # War Crimes on an “Epic Scale”
 
@@ -71,6 +75,7 @@ cards:
       Amnesty International
     _key: card-4-be59f194-5a9d-42d3-8772-7003d7c3a978
   - order: 4
+    useCheckmark: false
     body: >-
       # Russia’s Role
 
@@ -86,10 +91,11 @@ cards:
       [Click HERE For More](http://www.bbc.com/news/world-europe-43125506)
     _key: card-5-ab5e9332-2a0c-4afd-abb6-ba03a83bbff2
   - order: 5
+    useCheckmark: false
     body: >-
       Chilling Warning:  
 
-      Ground Campaign to Follow? 
+      Ground Campaign to Follow?
 
 
       > “The offensive has not started yet. This is preliminary bombing.”  
@@ -98,6 +104,7 @@ cards:
       not civilians.
     _key: card-6-a20b2ff6-3d20-4a5b-9f52-68af017cc15d
   - order: 6
+    useCheckmark: false
     body: >-
       ## White House Supports UN Action
 
@@ -112,6 +119,7 @@ cards:
       2018
     _key: card-7-1cd8ccec-1ec8-4d89-9256-9cd1c257ad80
   - order: 7
+    useCheckmark: false
     body: >-
       # America & Syria
 
@@ -126,6 +134,7 @@ cards:
       Democratic Forces” headquarters on Feb. 7, 2018. Fierce fighting followed.
     _key: card-8-cacdb2af-724b-4fe1-949c-6a6463a13998
   - order: 8
+    useCheckmark: false
     body: |-
       What Can Be Done?  
       Focus Turns To UN
@@ -136,6 +145,7 @@ cards:
       * Remains to be seen if UN resolution would be honored or effective.
     _key: card-9-111bfab2-9dff-4f69-a596-b3760c46f8d8
   - order: 9
+    useCheckmark: true
     body: |-
       Complicated & Deadly: Conflict In Syria important to watch
 

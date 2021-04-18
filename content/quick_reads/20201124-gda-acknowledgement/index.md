@@ -20,12 +20,14 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
-      How **one small action** by a government official you may not be familiar
-      with just led to a **noteworthy development** in the 2020 presidential
+      How**one small action** by a government official you may not be familiar
+      with just led to a**noteworthy development** in the 2020 presidential
       race.
     _key: 1b7d72ae7d03
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Is USGSA?
 
@@ -42,6 +44,7 @@ cards:
       administration will be and facilitate the transition to a new team.
     _key: 342269cd3b8b
   - order: 2
+    useCheckmark: false
     body: >-
       ## Backstory:
 
@@ -57,6 +60,7 @@ cards:
       Biden is the “apparent winner.”
     _key: 700926c7536d
   - order: 3
+    useCheckmark: false
     body: >-
       > “…in the best interest of our Country, I am recommending that Emily and
       her team do what needs to be done with regard to initial protocols, and
@@ -70,6 +74,7 @@ cards:
       on Dec. 14th.
     _key: 8e02d30ec666
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why This Matters:
 
@@ -83,6 +88,7 @@ cards:
       that VP Joe Biden is the projected winner of the 2020 election.
     _key: d67d50204f93
   - order: 5
+    useCheckmark: true
     body: >-
       On this day, Michigan certified its election results, declaring VP Joe
       Biden the winner. VP Biden has begun announcing team members he intends to

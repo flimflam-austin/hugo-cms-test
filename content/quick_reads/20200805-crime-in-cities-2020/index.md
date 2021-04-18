@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # How Safe Are You?
 
@@ -32,11 +33,12 @@ cards:
       2020.
     _key: dafc04d12460
   - order: 1
+    useCheckmark: false
     body: >-
       ## Backstory: The Data Gap
 
 
-      * Crime statistics are **voluntarily** reported by localities to the
+      * Crime statistics are**voluntarily** reported by localities to the
       federal government.
 
       * Cities may report crimes differently (or not at all) and at different
@@ -47,6 +49,7 @@ cards:
       death in police custody. Legislation has stalled.
     _key: 0e87df73a8f9
   - order: 2
+    useCheckmark: false
     body: >-
       ## What To Know
 
@@ -56,11 +59,12 @@ cards:
       local police. Some mayors don’t want the help.
 
 
-      In light of the difference in opinions and varying data, _The Wall Street
+      In light of the difference in opinions and varying data,_The Wall Street
       Journal_ did an independent analysis of violent crime statistics in the
       largest 50 U.S. cities.
     _key: 2c2410306f57
   - order: 3
+    useCheckmark: false
     body: >-
       ## What The Data Says:
 
@@ -77,6 +81,7 @@ cards:
       historic levels. In other words: it’s not good, but it’s been worse.
     _key: 4b6fc712f05b
   - order: 4
+    useCheckmark: false
     body: >-
       “Everything that society does that might shape public safety was turned
       upside-down during the pandemic.”  
@@ -91,6 +96,7 @@ cards:
       >
     _key: 0b328e375738
   - order: 5
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -108,6 +114,7 @@ cards:
       election year?
     _key: 5a3dab5a31b3
   - order: 6
+    useCheckmark: true
     body: >-
       "Operation Legend" was named after a 4-year-old boy, LeGend, killed during
       a shooting in Kansas City, MO. It expanded last week from Kansas City,

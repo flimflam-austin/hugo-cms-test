@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## “PANDEMIC POTENTIAL”
 
@@ -32,29 +33,31 @@ cards:
       for one.
     _key: 279d73d71055
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
 
-      * The new coronavirus (named **COVID-19**) was first detected in Wuhan,
+      * The new coronavirus (named**COVID-19**) was first detected in Wuhan,
       China in December 2019.
 
       * By January, the World Health Org. (WHO) declared it an int’l emergency.
 
-      * COVID-19 has infected **82,000+** and killed **2,800+** in 4**0+**
+      * COVID-19 has infected**82,000+** and killed**2,800+** in 4**0+**
       countries to date.
 
-      * There are now more ***new*** cases being reported from outside of China
-      than from China, leading the WHO to discuss its **“pandemic potential.”**
+      * There are now more***new*** cases being reported from outside of China
+      than from China, leading the WHO to discuss its**“pandemic potential.”**
     _key: 008a59ed64ca
   - order: 2
+    useCheckmark: false
     body: >-
       ## What’s A Pandemic?
 
 
       * WHO defines it as “**the worldwide spread of a new disease**.”
 
-      * The definition is based on the global spread of a disease – **NOT its
+      * The definition is based on the global spread of a disease –**NOT its
       severity**.
 
       * WHO’s Director General determines whether or not to declare a pandemic
@@ -65,6 +68,7 @@ cards:
       * Recent example: 2009 H1N1 (swine flu).
     _key: decc65ce5c23
   - order: 3
+    useCheckmark: false
     body: >-
       > “We should not be too eager to declare a pandemic without a careful and
       clear-minded analysis of the facts.”
@@ -78,6 +82,7 @@ cards:
       virus, which is not true."
     _key: 86b482a994cf
   - order: 4
+    useCheckmark: false
     body: >-
       ## Are We Prepared?
 
@@ -89,11 +94,12 @@ cards:
 
       * No country (not even the U.S) is ***fully*** prepared for a pandemic.
 
-      * U.S. scored far higher than the avg. overall score, ***but*** our
-      ability to prevent the spread of an outbreak also depends on other
-      countries’ abilities.
+      * U.S. scored far higher than the avg. overall score,***but*** our ability
+      to prevent the spread of an outbreak also depends on other countries’
+      abilities.
     _key: 0e20abba74af
   - order: 5
+    useCheckmark: false
     body: >-
       “All countries—at all income levels—have major gaps in their capabilities,
       and they aren’t sufficiently investing in biological preparedness…. The
@@ -106,6 +112,7 @@ cards:
       of the 2019 Global Health Security Index.
     _key: bcabc80f1494
   - order: 6
+    useCheckmark: true
     body: >-
       BIG PICTURE: While approximately 60 Americans are confirmed to have
       COVID-19, none have died. More than 16,000 have died from the flu since

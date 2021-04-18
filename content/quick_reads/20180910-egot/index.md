@@ -20,12 +20,13 @@ card_series: Entertainment
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # EXCLUSIVE “EGOT”
 
 
-      It’s show business’s ultimate accomplishment: winning an **E**mmy**,
-      G**rammy, **O**scar & **T**ony.
+      It’s show business’s ultimate accomplishment: winning an**E**mmy**,
+      G**rammy,**O**scar &**T**ony.
 
 
       Only 15 people in history have done it…  
@@ -33,21 +34,23 @@ cards:
       **3 of them did so last night.**
     _key: card-1-9a639b99-8829-4b7f-bba5-39ce1c6132ca
   - order: 1
+    useCheckmark: false
     body: >-
       ## Entertainment History
 
 
       **John Legend, Andrew Lloyd Webber & Tim Rice** achieved “EGOT” status
-      each winning an Emmy forA _Jesus Christ Superstar Live._
+      each winning an Emmy forA_Jesus Christ Superstar Live._
 
 
-      Webber & Rice won an Oscar for _Evita,_A multiple Grammys & Tonys.
+      Webber & Rice won an Oscar for_Evita,_A multiple Grammys & Tonys.
 
 
-      Legend has won 10 Grammys, an Oscar for his song in _Selma &A aA_ Tony for
-      co-producing _Jitney_.
+      Legend has won 10 Grammys, an Oscar for his song in_Selma &A aA_ Tony for
+      co-producing_Jitney_.
     _key: card-2-7e2646da-cf4a-4db1-9099-d5b69f6871a0
   - order: 2
+    useCheckmark: false
     body: >-
       ## A “Miami Vice” Connection
 
@@ -63,11 +66,12 @@ cards:
       nominated.
     _key: card-3-09dc4bc2-671f-46b3-82a0-463b4b5ff9a2
   - order: 3
+    useCheckmark: false
     body: >-
       ## Who’s Got an EGOT?
 
 
-      * **Robert Lopez:A** _The Book of Mormon_ & _Frozen_ songwriter has double
+      * **Robert Lopez:A**_The Book of Mormon_ &_Frozen_ songwriter has double
       EGOT status with 2 of each. Lopez & Legend are the youngest to achieve
       EGOT status.
 
@@ -78,6 +82,7 @@ cards:
       * **Whoopi Goldberg:A** 1st Black EGOT.
     _key: card-4-ff235bf3-1d18-4b11-9083-9f99f2be2c2b
   - order: 4
+    useCheckmark: true
     body: >-
       There are 5 others with "unofficial" EGOT status: those who won thanks to
       an honorary award vs. in competition with others. For more on who has

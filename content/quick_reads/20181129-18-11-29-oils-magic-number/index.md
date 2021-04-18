@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       OIL’S MAGIC NUMBER
 
@@ -27,7 +28,7 @@ cards:
       Not too high… not too low… what is the best price for oil?
 
 
-      As crude plummets **30% in 2 months**, consumers cheer, but the industry
+      As crude plummets**30% in 2 months**, consumers cheer, but the industry
       worries.
 
 
@@ -37,19 +38,21 @@ cards:
       G-OIL-DILOCKS
     _key: card-1-ec976aa1-f053-4511-9ba3-a1ac3b0cf28d
   - order: 1
+    useCheckmark: false
     body: >-
       ## Oil’s Slippery Slope
 
 
-      * **What?** Oil traded at 4-year high in October at **$76/barrel** and the
-      talk at that time was that $100/barrel was next. Today, it’s trading below
-      **$50/barrel**.
+      * **What?** Oil traded at 4-year high in October at**$76/barrel** and the
+      talk at that time was that $100/barrel was next. Today, it’s trading
+      below**$50/barrel**.
 
-      * **Why?** There’s **too much oil**. U.S. crude inventories have **climbed
+      * **Why?** There’s**too much oil**. U.S. crude inventories have**climbed
       10-straight weeks** to the highest level in a year, just as concerns grow
-      over a **global economic slowdown** with less oil demand.
+      over a**global economic slowdown** with less oil demand.
     _key: card-2-50a23e1c-4211-4b27-bc41-2ac1f8452dde
   - order: 2
+    useCheckmark: false
     body: >-
       > “Oil prices getting lower. Great! Like a big Tax Cut for America and the
       World. Enjoy! …Thank you to Saudi Arabia, but let’s go lower!"  
@@ -59,6 +62,7 @@ cards:
       President Trump tweet on Nov. 21st
     _key: card-3-39d4369a-8189-4c38-a0db-b1227f2618c3
   - order: 3
+    useCheckmark: false
     body: >-
       ## What is the Perfect Price?
 
@@ -74,11 +78,12 @@ cards:
       Jeff Currie, Goldman SachsA head of commodities research
     _key: card-4-fff35a1b-85d0-4d0e-928a-d5107a21152e
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
 
-      As of August, **U.S. is now the world’s largest oil producer**. Falling
+      As of August,**U.S. is now the world’s largest oil producer**. Falling
       prices may weigh heavily on an industry that now represents a larger share
       of the U.S. economy.
 
@@ -88,6 +93,7 @@ cards:
       spiking higher.
     _key: card-5-5704861a-c9f5-4bc7-af07-94bd03d4a197
   - order: 5
+    useCheckmark: true
     body: >-
       Organization of Petroleum Exporting Countries (OPEC) meets Dec. 6th. Its
       de facto leader Saudi Arabia is arguing for a cut in supplies to prevent a

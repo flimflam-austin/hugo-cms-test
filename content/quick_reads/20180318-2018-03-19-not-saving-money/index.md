@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       NEW $URVEY:
 
@@ -41,21 +42,23 @@ cards:
     citation: WHY THIS IS WORRISOME
     _key: card-1-182d5de2-2398-40f4-9312-d49c65c6d8a9
   - order: 1
+    useCheckmark: false
     body: >-
       ## Encouraging Economy = NOT Encouraging Savings
 
 
-      * Unemployment Rate is at a post-Recession low = **more employed**
+      * Unemployment Rate is at a post-Recession low =**more employed**
 
-      * Best wage growth since 2009 = **making more money**
+      * Best wage growth since 2009 =**making more money**
 
-      * Consumer sentiment at 14-year high = **growingA confidence in the
+      * Consumer sentiment at 14-year high =**growingA confidence in the
       economy**
 
       * S&P 500 (a gauge of stock market performance) is up 3% in 2018, after
       21% rise last year.
     _key: card-2-1e7a6bd6-e818-431f-97c3-9f49b00f0d7f
   - order: 2
+    useCheckmark: false
     body: >-
       ## WHY AREN’T WE SAVING?
 
@@ -74,6 +77,7 @@ cards:
     citation: READ THE BANKRATE SURVEY HERE
     _key: card-3-c5ad7ed2-bf28-448d-b7c3-b11496bddcee
   - order: 3
+    useCheckmark: false
     body: >-
       # FINANCIAL FAIL
 
@@ -87,10 +91,11 @@ cards:
       Mark Hamrick, Bankrate Analyst
     _key: card-4-bb74ea62-eb57-4fb2-8a6d-0be73ac2a7e8
   - order: 4
+    useCheckmark: false
     body: |-
       ## So How Much Do I Need To Retire?
 
-      Experts recommend saving **at least 10% of your income** each year.
+      Experts recommend saving**at least 10% of your income** each year.
 
       **Aim to save at least:**  
       1x your income at age 30  
@@ -99,6 +104,7 @@ cards:
       10x at age 67
     _key: card-5-4abf60f7-7fa3-4304-a5a7-48957d4909f8
   - order: 5
+    useCheckmark: true
     body: |-
       Ready to Retire? See how your savings stack up here:
 

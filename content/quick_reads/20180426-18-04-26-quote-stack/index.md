@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # QUICK QUOTES
 
@@ -32,6 +33,7 @@ cards:
       we talk about impeachment, the better off we are.’
     _key: card-1-1c328eeb-ce12-4109-a48b-f2753e7dc1d3
   - order: 1
+    useCheckmark: false
     body: >-
       > **“It is the most prolific unsolved serial-killing case probably in
       modern history.”**  
@@ -45,6 +47,7 @@ cards:
       more](https://smarthernews.com/18-04-25-golden-state-murderer/)
     _key: card-2-27048e37-ce24-49da-ac5f-7b66c6cccfdd
   - order: 2
+    useCheckmark: false
     body: >-
       > **“If you look at what was done, it does not look at allA like a Muslim
       ban.”**  
@@ -59,11 +62,12 @@ cards:
       Overheard during Supreme Court showdown over travel ban #3.
     _key: card-3-237f4506-a449-4013-8634-69b2fc16e16d
   - order: 3
+    useCheckmark: false
     body: >-
       > “You don’t have to agree with trump but the mob can’t make me not love
-      him. **We are both dragon energy.** **He is my brother**. I love everyone.
-      I don’t agree with everything anyone does. That’s what makes us
-      individuals. And **we have the right to independent thought**.”  
+      him.**We are both dragon energy.****He is my brother**. I love everyone. I
+      don’t agree with everything anyone does. That’s what makes us individuals.
+      And**we have the right to independent thought**.”  
 
 
 
@@ -72,6 +76,7 @@ cards:
       his future political amibtions.
     _key: card-4-864891ea-fb21-4dae-a61f-5676ddade74d
   - order: 4
+    useCheckmark: false
     body: >-
       ## 2 Hours Later…
 
@@ -88,6 +93,7 @@ cards:
       Tweet](https://twitter.com/KimKardashian/status/989221660661137408)
     _key: card-5-93487d6d-4cb7-460d-9856-454214a9dc25
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-04-26-quote-stack/)'
     _key: card-10-09a8f21e-4de5-40be-af7f-b1d122e81ca9
 

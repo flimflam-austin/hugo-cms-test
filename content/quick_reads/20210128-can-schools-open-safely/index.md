@@ -19,9 +19,11 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
-    body: "## SAFE FOR SCHOOL?\n\n> A new CDC study makes the argument for keeping children **in school for in-person learning during the COVID-19 pandemic**\_(with certain caveats).  \n  \nHere’s what it says:"
+    useCheckmark: false
+    body: "## SAFE FOR SCHOOL?\n\n> A new CDC study makes the argument for keeping children**in school for in-person learning during the COVID-19 pandemic**\_(with certain caveats).  \n  \nHere’s what it says:"
     _key: 856b2bf7f98b
   - order: 1
+    useCheckmark: false
     body: >-
       ## New Study: The Basics
 
@@ -39,6 +41,7 @@ cards:
       * Public and private school districts, including 1 independent school.
     _key: ce730799f1d3
   - order: 2
+    useCheckmark: false
     body: >-
       ## Parameters for Participants
 
@@ -55,6 +58,7 @@ cards:
       * **All classes and lunch held indoors.**
     _key: 9cacbee2565d
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Rules
 
@@ -67,6 +71,7 @@ cards:
       within 6 feet for 15 minutes or more) automatically quarantined.
     _key: 962a86288143
   - order: 4
+    useCheckmark: false
     body: >-
       ## What Happened?
 
@@ -78,11 +83,12 @@ cards:
 
       * No known child-to-staff member transmission.
 
-      * **Context**: Researchers say despite _“widespread community
+      * **Context**: Researchers say despite_“widespread community
       transmission”_ in the county overall, these schools had a 37% lower
       infection rate than the surrounding community.
     _key: e5faa60c3d10
   - order: 5
+    useCheckmark: false
     body: >-
       ## Bottom Line
 
@@ -96,6 +102,7 @@ cards:
       limitations.
     _key: c2790abe1bde
   - order: 6
+    useCheckmark: false
     body: >-
       ## Something to Consider
 
@@ -108,10 +115,11 @@ cards:
       surveys (on mask compliance, class attendance), which limits some of the
       data.
 
-      * Researchers did **not** proactively test students and staff for COVID-19
+      * Researchers did**not** proactively test students and staff for COVID-19
       to identify any asymptomatic cases.
     _key: 12146092a6f9
   - order: 7
+    useCheckmark: true
     body: >-
       Are kids safer in school? The study stops short of saying definitely,
       using the word "might" 14 times. Additional limitations to the study:

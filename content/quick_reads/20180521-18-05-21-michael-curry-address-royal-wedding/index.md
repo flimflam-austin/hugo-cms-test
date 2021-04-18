@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > **_“There’s power in love._**  
         
@@ -33,6 +34,7 @@ cards:
       Church, in his address at the royal wedding.
     _key: card-1-d62c8498-927c-4cf9-8a5d-60a567a0eb24
   - order: 1
+    useCheckmark: true
     body: >-
       If Pippa was the unexpected star of Kate’s wedding, Michael Curry is the
       star of this one. Wonderful, wonderful sermon. @FraserNelson Editor of The

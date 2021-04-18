@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # MIDTERM ANOMALY?
 
@@ -30,6 +31,7 @@ cards:
       Why 2018 *may* be different.
     _key: card-1-4e0c4e81-55f3-44f2-9bf7-ef34807a9484
   - order: 1
+    useCheckmark: false
     body: >-
       ## IMPORTANT CONTEXT:
 
@@ -38,17 +40,18 @@ cards:
       declined.
 
 
-      * 2014: **41.9%**
+      * 2014:**41.9%**
 
-      * 2006: **47.8%**
+      * 2006:**47.8%**
 
-      * 1998: **45.3%**
+      * 1998:**45.3%**
 
-      * 1990: **49.3%**
+      * 1990:**49.3%**
 
-      * 1982: **51.9%**
+      * 1982:**51.9%**
     _key: card-2-99b94717-fa41-49ac-9cbe-493d089d2df2
   - order: 2
+    useCheckmark: false
     body: >-
       ## Analysts expect a big jump in turnout for 3 reasons:
 
@@ -62,6 +65,7 @@ cards:
       771,321 in 2016).
     _key: card-3-b451555d-6544-415d-8522-1b13cfe261e9
   - order: 3
+    useCheckmark: true
     body: >-
       With Election Day one week away, the number of voters participating in
       early voting has already broken records in Delaware, Florida, Georgia,

@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # New Human Organ?
 
@@ -27,20 +28,21 @@ cards:
       ## “Interstitium”
 
 
-      Study says its discovered the body’s biggest organ AND it may hold the
-      **key to understanding how cancer spreads.**
+      Study says its discovered the body’s biggest organ AND it may hold
+      the**key to understanding how cancer spreads.**
 
 
-      But is it really as “new” as reported? **Some say no…they’ve known about
-      it for DECADES.**
+      But is it really as “new” as reported?**Some say no…they’ve known about it
+      for DECADES.**
 
 
       Flip: Exclusive Info
     citation: 'Flip: Exclusive Info'
     _key: card-1-698addad-9b62-4f8e-9b3b-550f7ddcc02b
   - order: 1
+    useCheckmark: false
     body: >-
-      > “This finding has **potential to drive dramatic advances in medicine**,
+      > “This finding has**potential to drive dramatic advances in medicine**,
       including the possibility that the direct sampling of interstitial fluid
       may become a powerful diagnostic tool.”  
         
@@ -50,6 +52,7 @@ cards:
       of Pathology at NYU Langone Health
     _key: card-2-5fd05274-e4c5-4663-a0cd-649de743c11a
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -63,6 +66,7 @@ cards:
       spread.” Study Authors_
     _key: card-3-e5246bfb-c313-4a6c-a26a-78ff048ac3d3
   - order: 3
+    useCheckmark: false
     body: >-
       ## NOT “News” To Some…
 
@@ -72,7 +76,7 @@ cards:
       * Form of body work that targets connective tissue to loosen or “release”
       the fascia for health benefits.
 
-      * Instead of “interstitium”, therapists call the **entire** network
+      * Instead of “interstitium”, therapists call the**entire** network
       “fascia”.
 
 
@@ -81,11 +85,12 @@ cards:
     citation: Click Link For Group
     _key: card-4-e80e5904-0efe-4b37-a34e-2b8962117542
   - order: 4
+    useCheckmark: false
     body: >-
       > “It is refreshing to see science is finally catching up to what I’ve
-      been teaching in my Myofascial Release seminars for the last 40 years. The
-      **fascial system is one of the most important structures of our body** and
-      is significantly tightened from physical or emotional trauma which
+      been teaching in my Myofascial Release seminars for the last 40 years.
+      The**fascial system is one of the most important structures of our body**
+      and is significantly tightened from physical or emotional trauma which
       produces crushing pressure on pain sensitive structures.”  
         
         
@@ -93,6 +98,7 @@ cards:
       John F. Barnes, PT, to SmartHer News.
     _key: card-5-23d8dc08-7a56-418f-9438-7de4acf2eb72
   - order: 5
+    useCheckmark: true
     body: >-
       Now that science & alternative healing seem to be on the same page - read
       more on how this may help us diagnose and treat diseases like cancer and

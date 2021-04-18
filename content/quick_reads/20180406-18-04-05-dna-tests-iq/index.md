@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Brain Power Predictor?
 
@@ -36,10 +37,12 @@ cards:
     citation: 'Flip: How It Works'
     _key: card-1-926e04cf-3920-4dfb-8a2d-d0f3ddaf74f7
   - order: 1
-    body: "DNA Tests for IQ\n\n* In a study of 240,000 people, researchers found **500+ genes linked to intelligence**.\n* Previous research: **50-75% of smarts inherited**, rest is a\x18nurture.’\n* Science isn’t perfect, but discoveries mean a young child’s DNA could **give a sense of how intelligent he/she will be.**\n\nis this a good thing?"
+    useCheckmark: false
+    body: "DNA Tests for IQ\n\n* In a study of 240,000 people, researchers found**500+ genes linked to intelligence**.\n* Previous research:**50-75% of smarts inherited**, rest is a\x18nurture.’\n* Science isn’t perfect, but discoveries mean a young child’s DNA could**give a sense of how intelligent he/she will be.**\n\nis this a good thing?"
     citation: is this a good thing?
     _key: card-2-5f7c3573-9594-4160-981f-328c882af260
   - order: 2
+    useCheckmark: false
     body: >-
       ## Online Services Offer to Quantify Your Genetic IQ
 
@@ -57,6 +60,7 @@ cards:
       Alain Coletta, GenePlaza Founder
     _key: card-3-a84ce743-c118-42f4-aa9a-852de84fbc1c
   - order: 3
+    useCheckmark: true
     body: >-
       What if you were able toA pick the smartest embryo from an IVF dish,
       choose the best sperm donor, or discover fetuses at high risk for autism?

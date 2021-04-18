@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # September 17, 1787
 
@@ -27,10 +28,11 @@ cards:
       ## U.S. Constitution Signed
 
 
-      > Today honors America’s founding document – the **world’s longest
+      > Today honors America’s founding document – the**world’s longest
       surviving** written government charter.
     _key: 258f6eb96535
   - order: 1
+    useCheckmark: false
     body: >-
       > “It is at all times difficult to draw with precision the line between
       those rights which must be surrendered, and those which may be preserved;”
@@ -43,13 +45,14 @@ cards:
       friendship for the final product.
     _key: 9e0ff59492f9
   - order: 2
+    useCheckmark: false
     body: >-
       ## Constitutional Convention
 
 
       * **Who:** 55 delegates attended the Convention, but only 39 signed.
 
-      * **When:** Written during four-month Convention (May 25 – **Sept 17,
+      * **When:** Written during four-month Convention (May 25 –**Sept 17,
       1787**).
 
       * **Where:** Philadelphia, Pennsylvania.
@@ -59,12 +62,13 @@ cards:
       branches.
     _key: a342cab06ebd
   - order: 3
+    useCheckmark: false
     body: >-
       ## WHAT IS CELEBRATED
 
 
       * **1940:** Congress designated “**I Am An American Day**” as the 3rd
-      Sunday in May to **honor new citizens**.
+      Sunday in May to**honor new citizens**.
 
       * **1952:** Congress moved date to Sept. 17th, naming it “**Citizenship
       Day**.”
@@ -75,13 +79,14 @@ cards:
       citizens.”
     _key: 2624b3103038
   - order: 4
+    useCheckmark: false
     body: >-
       ## DID YOU KNOW?
 
 
-      * The first ten amendments are known as the the **Bill of Rights**.
+      * The first ten amendments are known as the the**Bill of Rights**.
 
-      * The Constitution has been **amended 27 times**, most recently in 1992,
+      * The Constitution has been**amended 27 times**, most recently in 1992,
       adding one of the original amendments that didn’t make the cut in 1791,
       regarding federal lawmaker pay.
 
@@ -89,6 +94,7 @@ cards:
       repealed the 18th Amendment, and put an end to Prohibition.
     _key: 249d510b2e4b
   - order: 5
+    useCheckmark: true
     body: >-
       THE NEXT AMENDMENT? In 2019 Congress held the first hearing on the Equal
       Rights Amendment in 36 years. The amendment, passed by Congress in 1972

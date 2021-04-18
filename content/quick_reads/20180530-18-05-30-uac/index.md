@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # IMMIGRATION MISINFORMATION
 
@@ -31,15 +32,17 @@ cards:
       FLIP HERE FOR THE FACTS
     _key: card-1-889ec81d-aa49-468e-a9c4-232fd708e22a
   - order: 1
+    useCheckmark: false
     body: >-
       ## The 1,475 “immigrant children” are Unaccompanied Alien Children (UAC)
       who arrived in the U.S. \*ALONE\*
 
 
-      UAC (by definition) do NOT arrive with a parent or legal guardian.A
-      **Since 2012, more than 200,000 UAC have arrived in the U.S.**
+      UAC (by definition) do NOT arrive with a parent or legal guardian.A**Since
+      2012, more than 200,000 UAC have arrived in the U.S.**
     _key: card-2-d321e086-b3e9-429b-9d4d-3da03fb61f82
   - order: 2
+    useCheckmark: false
     body: >-
       ## UAC 101
 
@@ -55,9 +58,10 @@ cards:
       * ORR periodically checks in to monitor their safety & well-being.
     _key: card-3-9064da59-08ce-4bc4-b59f-7bd72520c8e3
   - order: 3
+    useCheckmark: false
     body: >-
       In April, aA Dept. of Health & Human Services (HHS) official testified to
-      Congress about the **40,810 UAC** transferred to ORR’s custody in 2017
+      Congress about the**40,810 UAC** transferred to ORR’s custody in 2017
 
 
       * In the fall, ORR reached out to a fraction (**7,635**) of those UAC &
@@ -67,9 +71,11 @@ cards:
       determine with certainty the whereabouts of 1,475 UAC**.”
     _key: card-4-027ef98f-7d08-4538-b93c-7b5e1013316b
   - order: 4
+    useCheckmark: false
     body: "> “**The assertion that unaccompanied alien children (UAC) are a\x18lost’ is completely false**. … These children are not a\x18lost’; their sponsors a\x14 who … in all cases have been vetted for criminality and ability to provide for thema\x14 simply did not respond or could not be reached when this voluntary call was made.”  \n  \n  \n  \nHHS Deputy Secretary Eric Hargan, May 28 statement"
     _key: card-5-4a6bafe4-ef82-43f8-adbc-8b5968035cfa
   - order: 5
+    useCheckmark: true
     body: >-
       UAC are NOT separated from their parents at the border, but many other
       immigrant child ARE. Read more here:

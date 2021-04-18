@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # THE BACKSTORY
 
@@ -35,11 +36,12 @@ cards:
     citation: Flip For More
     _key: card-1-60346ac1-fd38-4fbf-b24e-133609998083
   - order: 1
+    useCheckmark: false
     body: >-
       ## Syria: Did You Know?
 
 
-      * History of **secular rule** & tradition of religions living together
+      * History of**secular rule** & tradition of religions living together
       including Christians & variety of Muslim denominations.
 
       * **Educated public but struggling economy** – only about 1/4 land
@@ -49,6 +51,7 @@ cards:
       refugees dispersed).
     _key: card-2-81ab12ce-9350-4c84-a0d6-90195f5e286b
   - order: 2
+    useCheckmark: false
     body: >-
       ## Tension Builds
 
@@ -61,6 +64,7 @@ cards:
       Iraq to kill American soldiers.
     _key: card-3-5843f826-fc68-4fc4-b3ff-2da25c22d96f
   - order: 3
+    useCheckmark: false
     body: >-
       ## U.S. & Syria
 
@@ -68,7 +72,7 @@ cards:
       * Diplomatic relations began in 1944, but have gone “off-and-on” over the
       years for many reasons.
 
-      * U.S. listed Syria as State Sponsor of Terror since 1979. **America’s
+      * U.S. listed Syria as State Sponsor of Terror since 1979.**America’s
       interest in Syria arguably lies in containing terrorism a long with
       Syria’s ally, Iran.**
 
@@ -76,6 +80,7 @@ cards:
       in DC in 2014.
     _key: card-4-159a1695-34eb-4a4d-9614-c879f548d6fb
   - order: 4
+    useCheckmark: true
     body: >-
       Location Matters. Part of Syria's importance to America has less to do
       with Syria and more to do with the Middle East overall. We couldn't fit it

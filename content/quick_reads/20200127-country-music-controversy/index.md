@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Country Music Controversy?
 
@@ -28,9 +29,11 @@ cards:
       music genre
     _key: d7a134c2fa86
   - order: 1
+    useCheckmark: false
     body: "> “I turned on the 105.1 country station in L.A. just now, and they were playing the new song by Gabby Barrett, and then, without any pause or interruption at all, they went into a\_Kelsea Ballerini\_song. Can’t they get fined for that?”\n\nChris Willman, a music writer for Variety, who tweeted this as a joke about what he says is \"the unspoken country radio rule about not letting one female singer’s voice succeed another.\""
     _key: 154392c0900e
   - order: 2
+    useCheckmark: false
     body: >-
       > “We cannot play two females back to back. Not even Lady Antebellum or
       Little Big Town against another female. I applaud their courage.”
@@ -41,12 +44,13 @@ cards:
       denial that such a rule existed.
     _key: 527f1ea06a43
   - order: 3
+    useCheckmark: false
     body: >-
       ## What Happened?
 
 
       * **Last Week:** The twitter storm over the decades-old industry “policy”
-      prompted country stars like **Kacey Musgrave & Kelsea Ballerini** to
+      prompted country stars like**Kacey Musgrave & Kelsea Ballerini** to
       highlight the challenges of female artists breaking into country radio, or
       even being played at all.
 
@@ -55,19 +59,21 @@ cards:
       play.”
     _key: d93d17f3fdad
   - order: 4
+    useCheckmark: false
     body: >-
       ## What We Know:
 
 
       * **Then:** The “policy” employed by country music stations of not playing
-      songs by female artists consecutively dates back to the 1960s. **Why?**
-      One reason given: to spread them out because there were so few.
+      songs by female artists consecutively dates back to the 1960s.**Why?** One
+      reason given: to spread them out because there were so few.
 
-      * **Now:** Songs by male country artists outnumber women by **9.7 to 1**.
-      **16% of the top 500 country songs** from 2014-2018 were by females,
+      * **Now:** Songs by male country artists outnumber women by**9.7 to
+      1**.**16% of the top 500 country songs** from 2014-2018 were by females,
       according to another 2019 study.
     _key: be86f7028f06
   - order: 5
+    useCheckmark: false
     body: >-
       > “Based on radio airplay, audiences would presume that there are only a
       handful of women participating in the genre… But just like radio, where
@@ -80,6 +86,7 @@ cards:
       representation in country music.
     _key: 5c4b5a5fb15f
   - order: 6
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -87,16 +94,17 @@ cards:
       **_It ain’t just country_**
 
 
-      * Forbes top 5 earning musicians for 2019: **all men except** #1 (Taylor
+      * Forbes top 5 earning musicians for 2019:**all men except** #1 (Taylor
       Swift).
 
-      * Billboard top 5 artists for 2019: **all men except** #2 (Ariana Grande).
+      * Billboard top 5 artists for 2019:**all men except** #2 (Ariana Grande).
 
-      * According to research from USC, **less than a quarter** of the 600 most
-      popular songs from 2012 to 2017 were by females, and women made up just
-      **12% of songwriters** and **2% of producers**.
+      * According to research from USC,**less than a quarter** of the 600 most
+      popular songs from 2012 to 2017 were by females, and women made up
+      just**12% of songwriters** and**2% of producers**.
     _key: e846e6163c22
   - order: 7
+    useCheckmark: false
     body: >-
       ## Do Audiences Simply Like Male Singers More?
 
@@ -108,6 +116,7 @@ cards:
       Chris Willman
     _key: 5445d9a2edf9
   - order: 8
+    useCheckmark: true
     body: >-
       BIG PICTURE: Numbers are one thing, but nominations are another. 3 of the
       5 nominees for Best Country Album for Sunday's Grammy Awards are women

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## LOOKING TO THE STARS
 
@@ -34,6 +35,7 @@ cards:
       Who's in & Who's Out?
     _key: card-1-cc6735eb-a223-48ba-b611-ca680c4068b5
   - order: 1
+    useCheckmark: false
     body: >-
       ## Possible “Contender”?
 
@@ -50,6 +52,7 @@ cards:
       Now](https://www.youtube.com/embed/4ZLGy8VkWM4?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-8f8807f0-33bd-4442-ad21-27078123098a
   - order: 2
+    useCheckmark: false
     body: >-
       ## Not Running – Yet.
 
@@ -65,6 +68,7 @@ cards:
       * **Kanye?:**A Recently used #2024.
     _key: card-3-47c67d73-16e5-4c3e-a1d4-2480017f0655
   - order: 3
+    useCheckmark: true
     body: >-
       Of course not everyone vying to beat Trump in 2020 is a celebrity ... Fmr.
       VP Joe Biden, Fmr. AG Eric Holder, Senators Elizabeth Warren (D-MA), Cory

@@ -19,12 +19,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“I have such an emotional connection to Christmas. And it wasn’t about
       the gifts. It was just about the hopefulness of the holiday season…”_
     citation: MARIAH CAREY
     _key: 75b2491d5b4c
   - order: 1
+    useCheckmark: true
     body: >-
       Carey's "All I Want For Christmas Is You" is back at #1 on Billboard's Hot
       100 more than 25 years since its release. Carey now has more time at #1

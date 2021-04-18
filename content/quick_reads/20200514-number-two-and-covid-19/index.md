@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Flush It Out
 
@@ -27,6 +28,7 @@ cards:
     citation: COVID19
     _key: 2aeae921767f
   - order: 1
+    useCheckmark: false
     body: >-
       > “Wastewater from an entire dorm, or an entire segment of a campus, could
       be tested to determine whether there is coronavirus in that sewage.”  
@@ -37,11 +39,12 @@ cards:
       about how children & young adults can safely return to school.
     _key: 3dacc7d62eea
   - order: 2
+    useCheckmark: false
     body: >-
       ## Wait. What?
 
 
-      * Scientists track _viral shedding_: how & when a sick person spreads the
+      * Scientists track_viral shedding_: how & when a sick person spreads the
       virus & level of contagion in different scenarios.
 
       * Genetic evidence of SARS-CoV-2 (virus that causes COVID-19) is present
@@ -51,6 +54,7 @@ cards:
       COVID-19 cases in communities (without relying on individual tests).
     _key: 8f250095cdc3
   - order: 3
+    useCheckmark: false
     body: >-
       ## What To Know:
 
@@ -64,10 +68,11 @@ cards:
       * **Bend, Oregon**: one of 300+ cities participating in a study with a bio
       startup aligned w/ Harvard, MIT.
 
-      * CDC to _Politico_: Gov’t itself considering monitoring sewage but hasn’t
+      * CDC to_Politico_: Gov’t itself considering monitoring sewage but hasn’t
       yet.
     _key: 051d97f608ab
   - order: 4
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -80,6 +85,7 @@ cards:
       CDC Deputy Dir. for Infectious Diseases, Dr. Jay Butler.
     _key: 05ccf798d368
   - order: 5
+    useCheckmark: true
     body: >-
       A lead researcher in wastewater surveillance refers to our sewage systems
       as “the information superhighway under your feet.” Just how much sewage

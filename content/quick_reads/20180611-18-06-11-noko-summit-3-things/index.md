@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # NORTH KOREA SUMMIT
 
@@ -31,41 +32,44 @@ cards:
       FLIP: Get the popcorn.
     _key: card-1-d2b83f96-c622-4d1b-a611-9b60a71f2d44
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Does the U.S. Want?
 
 
-      * N. Korea to **abandon its arsenal of nuclear weapons & ballistic
+      * N. Korea to**abandon its arsenal of nuclear weapons & ballistic
       missiles**, allowing in inspectors to confirm it is truly disarming.
 
-      * U.S. defense & intelligence say **N. Korea is close to being able to
+      * U.S. defense & intelligence say**N. Korea is close to being able to
       strike anywhere in the continental U.S.** with a nuclear-tipped missile,
-      which Pres. Trump & other U.S. officials say they **wouldn’t tolerate.**
+      which Pres. Trump & other U.S. officials say they**wouldn’t tolerate.**
     _key: card-2-1d8228a8-2354-4df8-8d0d-38d978339de3
   - order: 2
+    useCheckmark: false
     body: >-
       ## What Does N. Korea Want?
 
 
-      * Summit already seen as a win by N. Korea – **no sitting U.S. President
+      * Summit already seen as a win by N. Korea –**no sitting U.S. President
       has ever met with a N. Korean leader** (Presidents Carter & Clinton only
       visited after office).
 
-      * NoKo will likely demand **security assurances regime will not be
+      * NoKo will likely demand**security assurances regime will not be
       overthrown or removed** if nukes are removed.
 
       * Dropping of sanctions to allow more $$ in NoKo economy.
     _key: card-3-0ba6e013-f60b-42c5-a0ec-3cda5ade6b99
   - order: 3
+    useCheckmark: false
     body: >-
       ## What is Success?
 
 
-      * U.S. admin has had some successes already; Sec. of State Pompeo
-      **secured release of 3 Americans** after meeting Kim Jong Un in May.
+      * U.S. admin has had some successes already; Sec. of State Pompeo**secured
+      release of 3 Americans** after meeting Kim Jong Un in May.
 
       * Unclear if Pres Trump will declare anything less than complete
-      denuclearization a success; he’s called it a **“mission of peace.”**
+      denuclearization a success; he’s called it a**“mission of peace.”**
 
 
 
@@ -73,6 +77,7 @@ cards:
       [Refresher: hostages](https://smarthernews.com/18-05-09-korean-hostages/)
     _key: card-4-f93aabfa-309d-4244-9ccb-0a00f337e17e
   - order: 4
+    useCheckmark: true
     body: >-
       It may be a sitting President's first time negotiating with North Korea,
       but not America's. Read the personal stories from those who've sat across

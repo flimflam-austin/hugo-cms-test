@@ -20,9 +20,11 @@ card_series: On This Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
-    body: "## President Abraham Lincoln Is Born\n\n> ‘I was born **Feb. 12, 1809**, in Hardin County, Kentucky. My parents were both born in Virginia, of undistinguished familiesa\x13second families, perhaps I should say.”  \n  \n  \n  \nPres. Lincoln, Dec 20, 1859 before he secured Republican nomination"
+    useCheckmark: false
+    body: "## President Abraham Lincoln Is Born\n\n> ‘I was born**Feb. 12, 1809**, in Hardin County, Kentucky. My parents were both born in Virginia, of undistinguished familiesa\x13second families, perhaps I should say.”  \n  \n  \n  \nPres. Lincoln, Dec 20, 1859 before he secured Republican nomination"
     _key: card-1-df972b56-159e-451e-97c8-1b97a77fe600
   - order: 1
+    useCheckmark: false
     body: >-
       # Lincoln: Facts
 
@@ -38,6 +40,7 @@ cards:
       * Little formal education; avid reader. One-time store clerk.
     _key: card-2-eaa71deb-4035-4578-8625-f54eed5676db
   - order: 2
+    useCheckmark: false
     body: >-
       ## Lincoln’s Famous Speech: Gettysburg Address
 
@@ -51,6 +54,7 @@ cards:
       speech.
     _key: card-3-85a04bb2-3a6b-44d7-b202-06a74226ce21
   - order: 3
+    useCheckmark: false
     body: >-
       Lincoln’s Famous Order  
 
@@ -66,6 +70,7 @@ cards:
       * Only impacted 10 southern states but set stage for abolition of slavery.
     _key: card-4-fe1f985c-c196-4532-b298-988c752844da
   - order: 4
+    useCheckmark: true
     body: |-
       See President Abraham Lincoln's Handwritten Gettysburg Address & More:
 

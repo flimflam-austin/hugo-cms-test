@@ -20,6 +20,7 @@ card_series: From the President's Desk
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Hitting Close To Home
 
@@ -38,6 +39,7 @@ cards:
     citation: 'Flip: What''s Going On?'
     _key: card-1-78331ea3-ba3b-43eb-8ee7-1de5070e6ba8
   - order: 1
+    useCheckmark: false
     body: >-
       > “Only fools, or worse, are saying that our money losing Post Office
       makes money with Amazon. THEY LOSE A FORTUNE, and this will be changed.
@@ -49,11 +51,12 @@ cards:
       President Trump via Twitter, April 2, 2018
     _key: card-2-ca058bfc-de8d-4102-8439-842282754810
   - order: 2
+    useCheckmark: false
     body: >-
       ## Post Office Problem$
 
 
-      * U.S. Postal Service (USPS) is bleeding money (lost $2.7B last yr, **$63B
+      * U.S. Postal Service (USPS) is bleeding money (lost $2.7B last yr,**$63B
       since 2007**), mostly due to pension & health care costs.
 
       * Pkg delivery a source of revenue, but not enough to cover losses.
@@ -63,6 +66,7 @@ cards:
       oversight).
     _key: card-3-aefcf81b-b2d3-4a28-8d98-9673434101ae
   - order: 3
+    useCheckmark: false
     body: >-
       > “I have stated my concerns with Amazon long before the Election. Unlike
       others, they pay little or no taxes to state & local governments, use our
@@ -74,6 +78,7 @@ cards:
       President Trump via Twitter, March 29, 2018
     _key: card-4-d0cf2b9e-f099-4175-8620-9ae4a79af14c
   - order: 4
+    useCheckmark: false
     body: >-
       Fact Check:  
 
@@ -91,6 +96,7 @@ cards:
       * Amazon uses USPS to deliver pkgs because it’s cheaper. Period.
     _key: card-5-454c8952-3afc-4726-a4e9-5cc948c93255
   - order: 5
+    useCheckmark: true
     body: >-
       Fox Business Anchor & Harvard Business School Grad, Melissa Francis, says
       the tweets on Amazon are all part of the President's plan to negotiate

@@ -20,10 +20,11 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Winter Olympics:  
 
-      Coldest On Record? 
+      Coldest On Record?
 
 
       * Below-freezing conditions reportedly forced some athletes to walk out of
@@ -38,6 +39,7 @@ cards:
     citation: Flip Card For More
     _key: card-1-dd6d1ee0-60ba-4468-ba1f-4326fe24e945
   - order: 1
+    useCheckmark: false
     body: >-
       # “Electronic-Printed” Ink Heats Olympians
 
@@ -53,6 +55,7 @@ cards:
       * 3 heat-levels controlled remotely by Olympian’s mobile phone.
     _key: card-2-098a998c-993a-408a-8732-de39749417e1
   - order: 2
+    useCheckmark: false
     body: >-
       > “It’s the most technologically advanced jacket ever produced.”  
         
@@ -65,6 +68,7 @@ cards:
       Interview](https://www.usatoday.com/story/life/2018/01/22/exclusive-ralph-laurens-olympic-opening-ceremony-uniforms-wearable-mini-heaters/1045189001/)
     _key: card-3-3a598555-bdb8-4497-a4fa-56e38ad5f0f3
   - order: 3
+    useCheckmark: false
     body: >-
       # Why Is It SO Cold?
 
@@ -80,6 +84,7 @@ cards:
       * Olympics located half-mile above sea level.
     _key: card-4-f5ff8229-c633-4d40-8e02-f8ea0e6269ac
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-02-05-freezing-olympics/)'
     _key: card-10-26e53aa5-cc2a-4580-b0d2-75904f71cbb5
 

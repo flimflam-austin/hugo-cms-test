@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## What do you want to know about today’s hearing of Supreme Court nominee
       Brett Kavanaugh & Dr. Christine Ford?
@@ -33,6 +34,7 @@ cards:
       But first, A recap
     _key: card-1-70823fd1-6991-411e-9735-67a9d7982813
   - order: 1
+    useCheckmark: false
     body: >-
       ## RECAP
 
@@ -50,8 +52,9 @@ cards:
       letter)
     _key: card-2-bcc8d626-8305-4e36-a32b-f5a582f92a0b
   - order: 2
+    useCheckmark: false
     body: >-
-      > **Q:** Have _they been in the same room since the alleged incident?_  
+      > **Q:** Have_they been in the same room since the alleged incident?_  
         
       **A:** Unclear.  
         
@@ -63,12 +66,13 @@ cards:
       Ford was present.
     _key: card-3-b9e28ace-693e-4229-8ab4-f5569f782fbd
   - order: 3
+    useCheckmark: false
     body: >-
-      > **Q:** _Why is it an open hearing?_  
+      > **Q:**_Why is it an open hearing?_  
         
-      **A: **A The Senate Judiciary Committee offered Ford the option of a
-      public hearing, a private hearing, a public staff interview, or a private
-      staff interview. She choose a public hearing.  
+      **A:**A The Senate Judiciary Committee offered Ford the option of a public
+      hearing, a private hearing, a public staff interview, or a private staff
+      interview. She choose a public hearing.  
         
       **WHY IT MATTERS:  
 
@@ -78,8 +82,9 @@ cards:
       would be confidential.
     _key: card-4-68949c16-2e23-4231-8e0a-c775a4b3b942
   - order: 4
+    useCheckmark: false
     body: >-
-      > **Q: **_Is there any penalty for lying under oath during a Senate
+      > **Q:**_Is there any penalty for lying under oath during a Senate
       hearing?_  
         
       **A:** Yes.  
@@ -90,8 +95,9 @@ cards:
       5 year in prison.
     _key: card-5-9442a096-6634-4b81-a44f-831f411cd2ef
   - order: 5
+    useCheckmark: false
     body: >-
-      > **Q:** _When will the Senate vote on Kavanaugh’s nomination?_  
+      > **Q:**_When will the Senate vote on Kavanaugh’s nomination?_  
         
       **A:** The Senate Judiciary Committee is scheduled to vote Friday AM on
       the referral to the full Senate, which will vote early next week.  
@@ -102,6 +108,7 @@ cards:
       majority (51 of 100) instead of 60 votes.
     _key: card-6-7bcacec4-ac3f-4c8b-b2ef-2a8f0ec83568
   - order: 6
+    useCheckmark: false
     body: >-
       > “These unwitting combatants in an undeclared war. These people are not
       props for us to make our political points.”  
@@ -112,6 +119,7 @@ cards:
       ahead of today's hearing.
     _key: card-7-9b9302e9-e32a-4982-acca-99a5dc1bb65b
   - order: 7
+    useCheckmark: true
     body: >-
       The two other woman accusing Kavanaugh of sexual assault and misconduct in
       1982 and 1983/1984 will not testify. To date, the White House has not

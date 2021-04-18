@@ -20,6 +20,7 @@ card_series: Beauty
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       The Final Catwalk
 
@@ -44,6 +45,7 @@ cards:
       Flip For More
     _key: card-1-35b6f558-58c0-478d-9033-1bc06be17682
   - order: 1
+    useCheckmark: false
     body: >-
       What You Should Know:  
 
@@ -65,6 +67,7 @@ cards:
       Here](https://www.vogue.com/fashion-shows/fall-2018-ready-to-wear/saint-laurent)
     _key: card-2-d2b407bb-416d-4b22-b62b-ded6f81d8ac4
   - order: 2
+    useCheckmark: false
     body: >-
       ## Models Need Not Apply
 
@@ -82,6 +85,7 @@ cards:
       Girl](https://www.instagram.com/lilmiquela/?utm_source=ig_embed&utm_campaign=embed_ufi_test&action=profilevisit)
     _key: card-3-0034a177-5a3f-4f63-b8b4-33c1174c30cd
   - order: 3
+    useCheckmark: true
     body: >-
       Can you imagine someone printing a 3-D image of your body and tailoring
       clothes to you? That's what one fashion designer did - and we thought it

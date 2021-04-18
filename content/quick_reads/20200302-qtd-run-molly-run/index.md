@@ -20,10 +20,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: "## _“It’s OK to hurt, it’s not OK\_to stop.”_"
     citation: MOLLY SEIDEL
     _key: cb83099525da
   - order: 1
+    useCheckmark: false
     body: >-
       ## MOLLY SEIDEL
 
@@ -38,6 +40,7 @@ cards:
       career.
     _key: b06633638177
   - order: 2
+    useCheckmark: true
     body: >-
       Seidel qualified to represent the U.S. in the 2020 Summer Olympics by
       running the 26.2 mile course in about 2 hours and 27 minutes - or an

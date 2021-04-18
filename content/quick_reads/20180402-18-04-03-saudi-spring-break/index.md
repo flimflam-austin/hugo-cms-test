@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Saudi Spring Break
 
@@ -36,6 +37,7 @@ cards:
     citation: 'Flip: Why now?'
     _key: card-1-ec469e69-6603-4c4e-888b-b69565a762d7
   - order: 1
+    useCheckmark: false
     body: >-
       ## Who Is This Prince?
 
@@ -51,6 +53,7 @@ cards:
       Vision 2030” – to diversify the economy.
     _key: card-2-d4f9f6cf-cdd4-4a85-a986-9766df7d1bc7
   - order: 2
+    useCheckmark: false
     body: >-
       ## Saudi Arabia & USA
 
@@ -65,6 +68,7 @@ cards:
       fluctuations in the oil market.
     _key: card-3-ad3eae4c-34f8-4cfb-bfb6-51526248e193
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why Now?
 
@@ -79,6 +83,7 @@ cards:
       Saudis need firepower – literally & symbolically – from U.S.
     _key: card-4-2d448169-d502-4e63-9d47-b7a7e7d39150
   - order: 4
+    useCheckmark: true
     body: >-
       Reminder: 15 of the 19 hijackers on 9/11 were from Saudi Arabia. The Saudi
       & American relationship is nuanced:

@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "You are a true Wonder Woman. The kids loved ita|and so did the
       staff.”  
@@ -34,6 +35,7 @@ cards:
       Photos](https://twitter.com/WonderWomanHQ/status/1016066329692995585)
     _key: card-1-8d6bd8d3-5689-4707-87f7-b9ee17601290
   - order: 1
+    useCheckmark: false
     body: >-
       > “We must hope that sanity, and a little courage, someday, somehow
       prevail in Washington.”  
@@ -45,6 +47,7 @@ cards:
       leadership." It's an interesting read - check it out on our source page.
     _key: card-2-53fa01e7-9b9a-4a47-92a0-52332fe5784b
   - order: 2
+    useCheckmark: false
     body: >-
       > "If those requests were gangster-like, the world is a gangster"  
         
@@ -55,6 +58,7 @@ cards:
       yet again the addage: The devil is in the details.
     _key: card-3-25dfb4a3-bcf2-4eee-9a71-89063f54d6d2
   - order: 3
+    useCheckmark: false
     body: >-
       > "The question is no longer whether or not there will be a trade war, the
       war has already started"  
@@ -66,6 +70,7 @@ cards:
       Apple who do business in favorable tax havens in Europe.
     _key: card-4-e50894d0-a045-4d75-aae9-dfb31f8e8dd7
   - order: 4
+    useCheckmark: true
     body: |-
       Have a great week!
 

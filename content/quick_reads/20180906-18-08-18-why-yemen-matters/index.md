@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## “Worst Humanitarian Crisis In The World”
 
@@ -32,6 +33,7 @@ cards:
       Why Yemen Matters
     _key: card-1-c8e884f5-3f70-4d97-9013-f30dfe140833
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why Yemen Matters
 
@@ -45,6 +47,7 @@ cards:
       bomb maker who helped launch the so-called underwear bomber.
     _key: card-2-a8a3125e-9792-4daa-9996-96ca2e554545
   - order: 2
+    useCheckmark: false
     body: >-
       ## What’s Happening
 
@@ -62,6 +65,7 @@ cards:
       worse?
     _key: card-3-d570d590-34d8-48d9-838b-85b68915a3c6
   - order: 3
+    useCheckmark: true
     body: >-
       The U.N. described the conditions in Yemen as an "apocalypse." Millions
       don't have basic needs. U.S. Defense Secretary recently said America's

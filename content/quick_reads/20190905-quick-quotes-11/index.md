@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “When you move at this pace in a short amount of time, it’s natural for
       the market to take a breather.”  
@@ -31,6 +32,7 @@ cards:
       employment changes or a worrisome jump in avg. hourly earnings.
     _key: card-1-b066c12d-4e76-4fc2-8d3c-0838b55fa121
   - order: 1
+    useCheckmark: false
     body: >-
       “The ninety-nine percent are just a bunch of Zero’$.”  
         
@@ -42,6 +44,7 @@ cards:
       held on a $25K cash bond.
     _key: card-2-81c937ec-a6e0-4c98-bb1a-25dd34a0fc6e
   - order: 2
+    useCheckmark: false
     body: >-
       > "There’s no one silver bullet when it comes to the epidemic of opioids,
       but one thing is for certain, I and we will keep fighting.”  
@@ -52,6 +55,7 @@ cards:
       addictive drugs. President Trump is expected to sign the bill.
     _key: card-3-69c38df8-f1f2-4368-badc-a38d0c49acc2
   - order: 3
+    useCheckmark: false
     body: >-
       > “Keen as I may be to clear my name, I refuse to feed the media spectacle
       created by people seeking to promote themselves at my expense.”  
@@ -62,6 +66,7 @@ cards:
       sponsor Nike says it is "deeply concerned" by the allegations.
     _key: card-4-066747ed-f59b-4ecc-9adc-a18bb52e3892
   - order: 4
+    useCheckmark: false
     body: >-
       > “It’s the Rolls Royce of malts. … it’s an object of beauty in its own
       right – almost a museum piece.”  
@@ -73,6 +78,7 @@ cards:
       first sold in 1986, the bottle cost $27,000.
     _key: card-5-6f621e2c-4e6e-442e-bcbb-1796ab42cb5d
   - order: 5
+    useCheckmark: true
     body: |-
       Cheers to the weekend!
 

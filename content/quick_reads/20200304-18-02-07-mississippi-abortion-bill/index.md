@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Abortion Debate of 2018
 
@@ -37,6 +38,7 @@ cards:
       Flip For More
     _key: card-1-ccba95f9-3b10-479e-a391-ba6cea6a89c2
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Does MS Bill Say?
 
@@ -55,6 +57,7 @@ cards:
       Flip For Context
     _key: card-2-77779b92-c27d-4005-bc59-92a242efa887
   - order: 2
+    useCheckmark: false
     body: >-
       Why Is This Significant
 
@@ -64,12 +67,13 @@ cards:
 
 
       * Roe V. Wade legalized abortion, but held a woman’s right to an abortion
-      is **not absolute**.
+      is**not absolute**.
 
       * States may restrict or ban abortions when a baby can survive outside
       womb (aka legally as “fetal viability”).
     _key: card-3-4477163e-505f-47c5-a1c1-c9339aa152e1
   - order: 3
+    useCheckmark: true
     body: >-
       The 15 week mark in Mississippi is why this law is controversial and
       challenges "norms" on when a child can survive outside womb. That medical

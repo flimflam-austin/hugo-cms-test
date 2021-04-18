@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # HOMESCHOOLING 101
 
@@ -28,6 +29,7 @@ cards:
       teachers due to COVID-19
     _key: 9052b3874931
   - order: 1
+    useCheckmark: false
     body: >-
       > “I’ve never been to school. I grew up homeschooled, stayed homeschooled,
       never was not homeschooled.”
@@ -40,36 +42,39 @@ cards:
       of brothers, didn't attend traditional school.
     _key: 23f4af1195f7
   - order: 2
+    useCheckmark: false
     body: >-
       ## Homeschool History
 
 
-      * Mandatory school attendance laws weren’t enacted nationwide until
-      **1918**.
+      * Mandatory school attendance laws weren’t enacted nationwide
+      until**1918**.
 
       * **1972**: the Supreme Court ruled religious freedom gave parents the
       right to educate at home. Homeschooling did not become legal in every
-      state until **1993**.
+      state until**1993**.
 
-      * From **1999 to 2016**, the number of homeschooled students nearly
-      doubled to 1.6 million.
+      * From**1999 to 2016**, the number of homeschooled students nearly doubled
+      to 1.6 million.
     _key: b87fd197dcf0
   - order: 3
+    useCheckmark: false
     body: >-
       ## Top Three Reasons Parents Homeschool
 
 
-      * Misgivings about **school environment** (ex: safety, drugs, negative
-      peer pressure).
+      * Misgivings about**school environment** (ex: safety, drugs, negative peer
+      pressure).
 
-      * Disapproval of **academics / teaching** at available schools.
+      * Disapproval of**academics / teaching** at available schools.
 
-      * Need to provide **religious instruction.**
+      * Need to provide**religious instruction.**
 
 
       _National Center For Education Statistics_
     _key: fbf1d8400905
   - order: 4
+    useCheckmark: false
     body: >-
       “Real life isn’t broken up into subjects or class periods; it comes to you
       as a whole. I want to foster a real love for learning in my kids; I want
@@ -82,6 +87,7 @@ cards:
       (!) children ages 6-16
     _key: 8336f880ff65
   - order: 5
+    useCheckmark: false
     body: >-
       ## Homeschooling: U.S.A.
 
@@ -95,6 +101,7 @@ cards:
       models), and social networks for kids.
     _key: d7f1baac4e97
   - order: 6
+    useCheckmark: true
     body: >-
       One great resource for all parents now and in general? The Library of
       Congress. HOW'S HOMESCHOOLING GOING FOR YOU? Any tips to share?

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # POWER OF PRAYER
 
@@ -29,9 +30,10 @@ cards:
     citation: What To Consider
     _key: card-1-ef20012d-3ea9-45be-a0c9-56044b49fc3a
   - order: 1
+    useCheckmark: false
     body: >-
       > "Once again, our Nation grieves another mass murder. Heidi and I are
-      keeping the students and faculty of Santa Fe High School in **our fervent
+      keeping the students and faculty of Santa Fe High School in**our fervent
       prayers**.”  
         
         
@@ -42,6 +44,7 @@ cards:
       [Full Statement](https://www.cruz.senate.gov/?p=press_release&id=3833)
     _key: card-2-0b443e81-9e66-49ec-b4c7-3ed48599503e
   - order: 2
+    useCheckmark: false
     body: >-
       > “Spare us your thoughts and prayers and do your job.”  
         
@@ -56,9 +59,10 @@ cards:
       Statement](https://twitter.com/Mike_Rawlings/status/997520858213175297)
     _key: card-3-72fd3984-c783-4994-a1a5-ef950cd42fb0
   - order: 3
+    useCheckmark: false
     body: >-
       > “…so heartbroken. Texas, I’m thinking of you and sending all the victims
-      and their families my **love and prayers**.”  
+      and their families my**love and prayers**.”  
         
         
         
@@ -68,11 +72,12 @@ cards:
       [Click: Tweet](https://twitter.com/KylieJenner/status/997569941439049728)
     _key: card-4-1668a4c9-e3c5-4c44-90e5-898300c46d9f
   - order: 4
+    useCheckmark: false
     body: >-
       > “Santa Fe High, you didn’t deserve this. You deserve peace all your
-      lives, not just after a tombstone saying that is put over you. You deserve
-      **more than Thoughts and Prayers**, and after supporting us by walking out
-      we will be there to support you by raising up your voices.”  
+      lives, not just after a tombstone saying that is put over you. You
+      deserve**more than Thoughts and Prayers**, and after supporting us by
+      walking out we will be there to support you by raising up your voices.”  
         
         
       Emma GonzA!lez, Student, Parkland High where a student killed 17 peers.
@@ -81,6 +86,7 @@ cards:
       [Click: Tweet](https://twitter.com/Emma4Change/status/997505205771079680)
     _key: card-5-48383664-38c3-4264-a398-8a94b400684b
   - order: 5
+    useCheckmark: false
     body: >-
       ## Agree or Disagree?
 
@@ -96,6 +102,7 @@ cards:
       Billy Hallowell, Author
     _key: card-6-81c7271b-8162-4013-814c-625ca9c11f9c
   - order: 6
+    useCheckmark: true
     body: >-
       Is prayer, the usefulness or lack-of, a priority of debate in the hours
       after a mass shooting? What do you think?

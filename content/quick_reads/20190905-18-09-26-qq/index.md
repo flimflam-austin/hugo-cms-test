@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “It’s not about me. It’s about the Marines who didn’t the appropriate
       recognition when we got home.”  
@@ -30,6 +31,7 @@ cards:
       Marines.
     _key: card-1-e1e68660-b654-4a4d-a367-e26529c125e1
   - order: 1
+    useCheckmark: false
     body: >-
       “We may never know the full extent of his double life as a sexual predator
       but his decades-long reign of terror as a serial rapist is over…. Bill
@@ -41,6 +43,7 @@ cards:
       immediately to prison.
     _key: card-2-dd6753da-257a-4a9b-ae62-a3940118838f
   - order: 2
+    useCheckmark: false
     body: >-
       > “Americans under the age of 45 have found a novel way to rebel against
       their elders: They’re staying married.”  
@@ -52,6 +55,7 @@ cards:
       older, and those who make the decision to marry, want to stay...married.
     _key: card-3-a98b09f0-581b-4b2b-a8e8-8a202914a8a1
   - order: 3
+    useCheckmark: false
     body: >-
       > "It’s a feasible, viable and a safe option."  
         
@@ -64,6 +68,7 @@ cards:
       others still needed the surgery.
     _key: card-4-e9f8c67f-8075-4026-9312-7038213e7eb3
   - order: 4
+    useCheckmark: true
     body: |-
       Have a great day!
 

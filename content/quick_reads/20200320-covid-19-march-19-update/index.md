@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # White House COVID-19 Task Force  
 
@@ -27,6 +28,7 @@ cards:
       WHAT WE LEARNED TODAY
     _key: 8f622b720e39
   - order: 1
+    useCheckmark: false
     body: >-
       “The number of test positives is increasing. That is a dramatically
       important signature that everybody is doing their job.”
@@ -38,6 +40,7 @@ cards:
       U.S. cases are in three states and 10 counties.
     _key: 55e8c2575cb0
   - order: 2
+    useCheckmark: false
     body: >-
       > “The supply has greatly expanded.”
 
@@ -49,6 +52,7 @@ cards:
       local governments to provide them with what they need.
     _key: 82663cd7a6d9
   - order: 3
+    useCheckmark: false
     body: >-
       > “Yes, there are drugs in the pipeline.”
 
@@ -61,6 +65,7 @@ cards:
       hope for how we're going to come out of this situation."
     _key: a3d5287737ed
   - order: 4
+    useCheckmark: false
     body: >-
       > “We’ll see what happens.”
 
@@ -73,6 +78,7 @@ cards:
       level in the two years since Hurricane Harvey.
     _key: '3647326e1872'
   - order: 5
+    useCheckmark: true
     body: >-
       "...if even 10 or 15 percent of the population decides that what they’re
       doing today is more important than the health and welfare of the rest of

@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## _“Knowledge is like a suitcase that I carry with me, it is a
       treasure_._“_
     citation: GIUSEPPE PATERNO
     _key: 3a360de93a38
   - order: 1
+    useCheckmark: true
     body: >-
       96-yr-old Giuseppe Paterno recently became Italy's oldest college
       graduate. Paterno grew up in Sicily, served in the navy during WWII, and

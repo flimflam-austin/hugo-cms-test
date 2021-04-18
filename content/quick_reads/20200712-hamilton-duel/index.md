@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # July 11, 1804
 
@@ -33,6 +34,7 @@ cards:
       Who Tells The Story.
     _key: 926ae70a25a4
   - order: 1
+    useCheckmark: false
     body: >-
       ## Who & What
 
@@ -47,6 +49,7 @@ cards:
       had a reputation for more leniency.
     _key: b7bd69d859ab
   - order: 2
+    useCheckmark: false
     body: >-
       ## Where & When
 
@@ -59,11 +62,12 @@ cards:
       men rowed them across the Hudson River.
     _key: 18056944fda2
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why?
 
 
-      * No one knows why **specifically**.
+      * No one knows why**specifically**.
 
       * Over the years, their political differences put them on a collision
       course. Hamilton supported Jefferson who defeated Burr for the presidency.
@@ -73,6 +77,7 @@ cards:
       dinner sparked the face-off, but the exact comment remains a mystery.
     _key: f8fc511614ac
   - order: 4
+    useCheckmark: false
     body: >-
       ## The Night Before
 
@@ -86,6 +91,7 @@ cards:
       on purpose.
     _key: 962b1319fe1b
   - order: 5
+    useCheckmark: false
     body: >-
       ## The Day After
 
@@ -96,10 +102,11 @@ cards:
       before his death.
 
       * Moore wrote an account that evening, relaying Hamilton said before he
-      died: _“I have no ill will against Col. Burr. I met him with a fixed
+      died:_“I have no ill will against Col. Burr. I met him with a fixed
       resolution to do him no harm. I forgive all that happened.”_
     _key: 03d83220bb94
   - order: 6
+    useCheckmark: false
     body: >-
       > “Let those who are disposed to justify the practice of duelling, be
       induced, by this simple narrative, to view with abhorrence that custom
@@ -112,6 +119,7 @@ cards:
       Benjamin Moore
     _key: 74f85b391608
   - order: 7
+    useCheckmark: true
     body: >-
       Burr continued to serve as VP until 1805 and was never convicted for the
       crime. 200 years later, a Broadway musical "Hamilton" put the two men back

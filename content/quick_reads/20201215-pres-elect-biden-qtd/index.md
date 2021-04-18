@@ -19,6 +19,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“We are a great nation. We are a good people. We may come from
       different places, hold different beliefs, but we share in common a love
@@ -26,6 +27,7 @@ cards:
     citation: PRES-ELECT JOE BIDEN
     _key: 53b3f69229db
   - order: 1
+    useCheckmark: true
     body: >-
       Pres-Elect Biden after the Electoral College formally elected him the 46th
       U.S. president. In his speech, Pres-Elect Biden detailed his victory,

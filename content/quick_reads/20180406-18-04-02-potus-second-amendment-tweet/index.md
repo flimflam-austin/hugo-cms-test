@@ -20,6 +20,7 @@ card_series: From the President's Desk
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## “THE SECOND AMENDMENT WILL NEVER BE REPEALED!”
 
@@ -31,6 +32,7 @@ cards:
     citation: Flip For More
     _key: card-1-81b2431e-ba43-47b4-a45f-a63305af5816
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why Now?
 
@@ -48,6 +50,7 @@ cards:
     citation: Here's the Op-Ed
     _key: card-2-1aa97cdc-e460-494e-8c0f-d48727a2060b
   - order: 2
+    useCheckmark: false
     body: >-
       ## 2nd Amendment
 
@@ -62,6 +65,7 @@ cards:
       infringed.’_**
     _key: card-3-fb70280b-102a-4532-9936-2e03cb2cbc2a
   - order: 3
+    useCheckmark: false
     body: >-
       Amendment Repeal 101  
 
@@ -77,6 +81,7 @@ cards:
       three-fourths of the 50 states.
     _key: card-4-cb45e89c-9300-417a-8976-6bfd29c5eb20
   - order: 4
+    useCheckmark: true
     body: >-
       In our nation's history, only ONE amendment has ever been repealed. In
       1933, the 21st Amendment repealed the 18th Amendment, which prohibited the

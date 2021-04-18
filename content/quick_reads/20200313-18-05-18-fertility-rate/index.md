@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # OH, BABY.
 
@@ -27,26 +28,28 @@ cards:
       ## American women are having children at the LOWEST rate on record.
 
 
-      The number of babies born last year hit a **30-year low** despite a strong
+      The number of babies born last year hit a**30-year low** despite a strong
       economy & a larger female population of child-bearing age –_**dumbfounding
       researchers**.
     _key: card-1-d78b4d11-3912-4694-aaff-91d2517d105e
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why It’s Surprising
 
 
-      Last year, the birthrate even **declined for women in their 30s**, a
+      Last year, the birthrate even**declined for women in their 30s**, a
       shocker after rates had been rising as more women delayed pregnancy.
 
 
-      The only group to see a **higher birthrate was women in their 40s**.
+      The only group to see a**higher birthrate was women in their 40s**.
 
 
-      Baby booms typically follow economic booms, but **the fertility rate
-      hasn’t recovered since 2010.**
+      Baby booms typically follow economic booms, but**the fertility rate hasn’t
+      recovered since 2010.**
     _key: card-2-140936e5-9f57-4fb0-aad1-e11e70f7307e
   - order: 2
+    useCheckmark: false
     body: >-
       > “Every year I look at data & expect it will be the year that birthrates
       start to tick up, and every year we hit another all-time low. It’s one of
@@ -57,15 +60,16 @@ cards:
       Kenneth Johnson, University of New Hampshire Demographer
     _key: card-3-dde41f56-2da5-4c3a-8b2c-117a230e657d
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
 
-      Fewer babies means **less young workers to pay into Social Security &
+      Fewer babies means**less young workers to pay into Social Security &
       Medicare** for an aging population.
 
 
-      It may also affect the workplace with **too few workers for jobs** that
+      It may also affect the workplace with**too few workers for jobs** that
       need to be filled.
 
 
@@ -73,6 +77,7 @@ cards:
       due to immigration.
     _key: card-4-73e782f6-32b5-4720-990e-885dea212d98
   - order: 4
+    useCheckmark: true
     body: >-
       More than 3.8M babies were born in the U.S. last year, but last year's
       drop in the nation's birth rate (about 2%) is the largest drop since 2010.

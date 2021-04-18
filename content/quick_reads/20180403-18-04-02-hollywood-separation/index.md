@@ -20,6 +20,7 @@ card_series: Entertainment
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Hollywood Heartbreak
 
@@ -38,6 +39,7 @@ cards:
     citation: Data Behind Divorce
     _key: card-1-0dc7f6a2-b71e-42a0-96f2-b692bf6b1713
   - order: 1
+    useCheckmark: false
     body: >-
       ## Exception: Not The Rule
 
@@ -53,6 +55,7 @@ cards:
       50%.
     _key: card-2-4e2d898a-af26-440f-95d6-236374a198c3
   - order: 2
+    useCheckmark: false
     body: >-
       # Hollywood vs. Reality
 
@@ -68,10 +71,12 @@ cards:
       * Divorce rate: Just over 3 per 1,000 Americans (CDC).
     _key: card-3-b7f76391-a1fa-40ef-bdc8-3409130ce64c
   - order: 3
+    useCheckmark: false
     body: "## Something To Consider:\n\n> “…women who cohabited with their first husbanda\x14regardless of whether they were engaged when they began living togethera\x14had lower probabilities of marriage survival at 20 years than women who did not cohabit before marriage with their first husband.”  \n  \n  \n  \nNational Health Statistics Report, 2012\n\n[Report](https://www.cdc.gov/nchs/data/nhsr/nhsr049.pdf)"
     citation: Report
     _key: card-4-83023394-4282-4178-8a89-f7f4310ecd3f
   - order: 4
+    useCheckmark: true
     body: >-
       Despite the announcement of a divorce, Channing Tatum *just* wrote this
       about his wife:

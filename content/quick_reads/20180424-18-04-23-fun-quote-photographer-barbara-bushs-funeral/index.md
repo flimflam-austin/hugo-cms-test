@@ -20,6 +20,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > Photographer behind this viral sensation shares backstory and the
       message he sees in this image.
@@ -29,6 +30,7 @@ cards:
     citation: 'Flip: Backstory'
     _key: card-1-28d560b7-5fce-4fff-ad82-616fd6ed2575
   - order: 1
+    useCheckmark: false
     body: >-
       > ‘They are real people a| I think it really says a lot about the kinship
       that this very select group of people has for each other. They’ve all
@@ -42,6 +44,7 @@ cards:
       and beyond.
     _key: card-2-8fc55aa5-c1dc-489b-bc27-ac6c3aef156f
   - order: 2
+    useCheckmark: true
     body: >-
       Morse estimates he had 4 shots to capture this image of multi-generations
       of American leaders. Read his description of the experience:

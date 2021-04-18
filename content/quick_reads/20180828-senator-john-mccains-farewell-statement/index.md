@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“Do not despair of our present difficulties butA believe always in the
       promise and greatness of America, because nothing is inevitable here.
@@ -28,6 +29,7 @@ cards:
     citation: Sen. John McCain
     _key: card-1-e3c46b59-c9c8-48e1-9e04-9f4561753fa0
   - order: 1
+    useCheckmark: true
     body: >-
       Two days after his death, the McCain family issued a Farewell Statement
       from Senator John McCain. Read it on our source page.

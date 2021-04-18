@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“We should take comfort that while we may have more still to endure,
       better days will return: we will be with our friends again; we will be
@@ -27,6 +28,7 @@ cards:
     citation: QUEEN ELIZABETH II
     _key: 089eae9006f5
   - order: 1
+    useCheckmark: true
     body: >-
       The Queen during a special address on COVID-19, only her fourth address as
       Queen during a time of crisis. She addressed the nation similarly after

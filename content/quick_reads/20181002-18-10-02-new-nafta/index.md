@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # The \*New\* NAFTA?
 
@@ -34,6 +35,7 @@ cards:
       Why It Matters
     _key: card-1-7f5802a6-b936-4208-bbf8-5cfe73a4a924
   - order: 1
+    useCheckmark: false
     body: >-
       > “It’s not NAFTA redone. It’s a brand new deal.”  
         
@@ -44,6 +46,7 @@ cards:
       little.
     _key: card-2-fe82cd03-11e4-45ba-8b94-7902cde8ae34
   - order: 2
+    useCheckmark: false
     body: >-
       ## Behind The Scenes
 
@@ -57,6 +60,7 @@ cards:
       it.
     _key: card-3-f637d3ba-5067-4d06-8262-57094e0cc94b
   - order: 3
+    useCheckmark: false
     body: >-
       ## How It Impacts You:
 
@@ -70,6 +74,7 @@ cards:
       trade tensions with China.
     _key: card-4-6df48d58-db28-4fee-ae3c-7264b6af92e4
   - order: 4
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
@@ -83,6 +88,7 @@ cards:
       Jim O'Sullivan, economist at High Frequency Economics to CNBC.
     _key: card-5-fc8290bd-e5fb-4a75-a7d2-1441f937a183
   - order: 5
+    useCheckmark: true
     body: >-
       Important Reminder: Congress MUST approve all trade deals, so while the
       White House celebrates this achievement, it's not a "done deal" quite yet.

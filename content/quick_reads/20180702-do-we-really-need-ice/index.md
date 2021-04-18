@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Immigration Backlash
 
@@ -35,6 +36,7 @@ cards:
       So... should it be?
     _key: card-1-3a08c7ad-cf17-4131-95c6-4555194e9eed
   - order: 1
+    useCheckmark: false
     body: >-
       ## What is ICE Anyway?
 
@@ -43,8 +45,8 @@ cards:
 
       * Created in 2003 after 9/11 attacks.
 
-      * 2 main divisions:A **Homeland Security InvestigationsA** and
-      **Enforcement & Removal Ops.**
+      * 2 main divisions:A**Homeland Security InvestigationsA** and**Enforcement
+      & Removal Ops.**
 
       * **HSI** investigates money laundering, human smuggling, drug
       trafficking, cybercrime, etc.
@@ -52,6 +54,7 @@ cards:
       * **EROA** arrests, detains, & deports undocumented immigrants.
     _key: card-2-5e11adee-a76c-4421-b5b7-43d1bfdf2c2a
   - order: 2
+    useCheckmark: false
     body: >-
       ## Do We Really Need ICE?
 
@@ -64,6 +67,7 @@ cards:
       manages illegal immigrants. If you get rid of it, then what?
     _key: card-3-89f89946-16f0-49ec-9abf-5fb426a27753
   - order: 3
+    useCheckmark: false
     body: >-
       ## Who Did ICE’s Job Before 2003?
 
@@ -79,9 +83,11 @@ cards:
       [CLICK FULL LIST](https://www.dhs.gov/who-joined-dhs)
     _key: card-4-1d26e5ef-d04c-4bba-aead-ecfdb71f444b
   - order: 4
+    useCheckmark: false
     body: "## Something To Consider\n\n> “The child of a forced marriage between two defunct federal agencies a\x14 The United States Customs Service and the Immigration and Naturalization Service a\x14 ICE has long struggled to balance its dual roles of transnational criminal investigations and deportations.”  \n  \n  \n  \nNew York Times"
     _key: card-5-ae0150bf-a1eb-4171-95e9-7dbf460bce92
   - order: 5
+    useCheckmark: false
     body: >-
       ## How Did We Get Here?
 
@@ -96,6 +102,7 @@ cards:
       do their job.
     _key: card-6-acf28fb0-a1a5-4e7a-928e-d2aa0fc9b3e1
   - order: 6
+    useCheckmark: false
     body: >-
       > “…you get rid of ICE you’re going to have a country that you’re going to
       be afraid to walk out of your house.”  
@@ -107,6 +114,7 @@ cards:
       reiterated there was ‘zero chance’ of ICE being abolished.
     _key: card-7-30ffdd88-4fff-48e5-8863-6809cb7dfb14
   - order: 7
+    useCheckmark: true
     body: >-
       Bigger picture: Is ICE & the entire Dept of Homeland Security efficient &
       effective? Will ICE become a political red line for the midterm elections?

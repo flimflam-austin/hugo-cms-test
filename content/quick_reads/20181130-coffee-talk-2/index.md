@@ -20,6 +20,7 @@ card_series: Coffee Talk
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       November 30, 2018
 
@@ -28,6 +29,7 @@ cards:
       Now](https://www.youtube.com/embed/8AEL1J1WMoI?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-0b7d48f0-50ec-4681-a65a-5127a2a6d160
   - order: 1
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/coffee-talk-2/)'
     _key: card-10-4a52212c-a19f-4390-b833-972665286a2a
 

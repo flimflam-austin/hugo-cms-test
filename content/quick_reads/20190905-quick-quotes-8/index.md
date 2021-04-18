@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "They’ve changed the science… I don’t think any two people come close to
       the impact they have had."  
@@ -31,6 +32,7 @@ cards:
       it impacts an est. 1 in 5 people.
     _key: card-1-0e7bddfb-5476-488f-b879-53674709222f
   - order: 1
+    useCheckmark: false
     body: >-
       "I am writing to request an immediate postponement of any further
       proceedings related to the nomination of Brett Kavanaugh."  
@@ -42,6 +44,7 @@ cards:
       expected to testify on Thursday.
     _key: card-2-e52b1c52-19ad-417c-acbe-a8e166ba262d
   - order: 2
+    useCheckmark: false
     body: >-
       > “The Europeans have a decision to make….A So yes we will have decisions
       to make in terms of whether they get exemptions or not but I’ll tell you
@@ -53,6 +56,7 @@ cards:
       sanctions targeting Iran is set for November.
     _key: card-3-af2a9944-f231-4091-bbe5-6dcac08a3c0d
   - order: 3
+    useCheckmark: false
     body: >-
       > “We will overcome this situation and America will regret choosing the
       wrong path.”  
@@ -64,6 +68,7 @@ cards:
       attack.
     _key: card-4-e5465fca-b076-43ae-bbd5-cedae68e1145
   - order: 4
+    useCheckmark: false
     body: >-
       > “Everyone will want to know if Cosby is given a pass after all this. If
       the answer is no, that’s a message that will reverberate.”  
@@ -75,6 +80,7 @@ cards:
       expected to appeal.
     _key: card-5-d1fd4130-2d2f-4db5-b4f0-9bfa08166c5a
   - order: 5
+    useCheckmark: false
     body: >-
       > "I sort of feel like Amazon is playing chess when everyone else is
       playing checkers…"  
@@ -86,6 +92,7 @@ cards:
       insignificant, but upend how people interact with their devices.
     _key: card-6-be48a451-4110-4663-a7a8-10fdb5cc6eab
   - order: 6
+    useCheckmark: false
     body: >-
       > “I had a hard time not crying coming up the last hole.’  
         
@@ -97,6 +104,7 @@ cards:
       arrest for DUI.
     _key: card-7-8ed3ef16-af44-4126-b31d-79b89fdd66cc
   - order: 7
+    useCheckmark: false
     body: >-
       > “We are trying to make the world a better place by taking as much pain
       out of it as we can.”  
@@ -108,6 +116,7 @@ cards:
       sold without violating state laws or codes.
     _key: card-8-edd4e220-ebbf-4f73-a752-5f070020e96e
   - order: 8
+    useCheckmark: true
     body: |-
       Have a great week!
 

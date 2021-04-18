@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “You can take the superhero out of her costume, but you can never take
       away her superpowers.”  
@@ -34,6 +35,7 @@ cards:
       [SmartHer #PowerMom](https://smarthernews.com/18-05-03-serena-williams/)
     _key: card-1-35c88f92-079b-403f-aa64-b3a204e57d4e
   - order: 1
+    useCheckmark: false
     body: >-
       > “We cannot but take a serious note of the double-dealing attitudes of
       the U.S. as it is busy staging secret drills involving man-killing special
@@ -46,6 +48,7 @@ cards:
       Pompeo's 4th trip to N. Korea.
     _key: card-2-af792042-8715-48af-b02a-65738961decd
   - order: 2
+    useCheckmark: false
     body: >-
       > “This is a horrible situation, and our deepest sympathies go out to all
       involved.”  
@@ -58,6 +61,7 @@ cards:
       more before taking his own life.
     _key: card-3-ff5efd85-ce39-4bbf-92ff-49c3d6d78b86
   - order: 3
+    useCheckmark: false
     body: >-
       > "It was my great good fortune that my very first Broadway play was
       written by Neil Simon. He also wrote my first film. I owe him a career.”  
@@ -68,6 +72,7 @@ cards:
       American Comedy Lifetime Achievement Award (1989).
     _key: card-4-0326666f-b3c7-49ec-a4bb-828579fe45d2
   - order: 4
+    useCheckmark: false
     body: >-
       > “The Senate, the United States, and the world are lesser places without
       John McCain. Nothing will overcome the loss of Senator McCain, but so that
@@ -80,6 +85,7 @@ cards:
       Senate Office Building after Sen. John McCain.
     _key: card-5-9d610a11-84f1-48e0-995a-8b19166bd191
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-08-27-qq/)'
     _key: card-10-32983403-ef9e-4f67-958e-3ad1650ce2a1
 

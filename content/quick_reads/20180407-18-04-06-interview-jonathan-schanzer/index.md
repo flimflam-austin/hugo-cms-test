@@ -20,15 +20,15 @@ card_series: smarther news
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Story Of The Week
 
 
-      Important for **every American family** and the **future of the U.S.A**.
+      Important for**every American family** and the**future of the U.S.A**.
 
 
-      Jenna tackles this topic in the **first video interview** of SmartHer
-      News.
+      Jenna tackles this topic in the**first video interview** of SmartHer News.
 
 
       [Watch
@@ -36,6 +36,7 @@ cards:
     citation: Watch Now
     _key: card-1-fa4dee7d-054c-4e2e-9235-72c180cfac58
   - order: 1
+    useCheckmark: true
     body: >-
       Who should we interview next? Write us: Info@SmartHernews.com
 

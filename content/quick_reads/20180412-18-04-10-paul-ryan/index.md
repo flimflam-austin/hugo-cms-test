@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # GRAB THE GLOVES!
 
@@ -27,12 +28,13 @@ cards:
 
       Speaker of the House, Paul Ryan (R-WI), will not seek re-election.
 
-      Who succeeds him matters politically & **nationally**.
+      Who succeeds him matters politically &**nationally**.
 
       flip: It Could Be You
     citation: 'flip: It Could Be You'
     _key: card-1-e01ca2a6-d16a-4fcf-aac3-7ede9048253e
   - order: 1
+    useCheckmark: false
     body: >-
       # Speaker of the House
 
@@ -46,6 +48,7 @@ cards:
       President.
     _key: card-2-f697dd6b-88c8-4b2a-b77d-0d9a79873818
   - order: 2
+    useCheckmark: false
     body: >-
       ## History
 
@@ -59,11 +62,12 @@ cards:
       before the monarchy.
     _key: card-3-a660bc7b-1e72-4a3d-b43c-5f13398668b6
   - order: 3
+    useCheckmark: false
     body: >-
       ## Will Republicans Lose Majority In The House?
 
 
-      * Speaker Ryan joins **40 other Republicans not seeking re-election** Nov
+      * Speaker Ryan joins**40 other Republicans not seeking re-election** Nov
       2018; Dems need to win 23 seats for the majority.
 
       * Speaker Ryan could’ve run for re-election, win & then retire – securing
@@ -71,23 +75,25 @@ cards:
       about his intent.
     _key: card-4-9b8d7837-9d58-4ca8-b794-db6698b943f7
   - order: 4
+    useCheckmark: false
     body: >-
       U.S. House Speaker:  
 
       Facts We Love
 
 
-      * Only **54 lawmakers** have served as “Speaker of the House” in America’s
+      * Only**54 lawmakers** have served as “Speaker of the House” in America’s
       242 year history.
 
-      * The state with most Speakers? **Massachusetts**
+      * The state with most Speakers?**Massachusetts**
 
-      * Pres. James Polk is the **only Speaker elected to President**.
+      * Pres. James Polk is the**only Speaker elected to President**.
 
       * **First Woman Speaker:** Nancy Pelosi (2007 ) 218 years after the First
       Speaker was elected.
     _key: card-5-8cdf07e8-fa8e-4162-a246-df811db2a1aa
   - order: 5
+    useCheckmark: true
     body: >-
       So who will be the next Speaker of the House? You could be! Why? Because
       the Speaker doesn't have to be an elected official, even though he/she's

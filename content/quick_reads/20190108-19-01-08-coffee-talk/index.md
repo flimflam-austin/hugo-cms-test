@@ -20,6 +20,7 @@ card_series: Coffee Talk
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Tuesday  
 
@@ -30,6 +31,7 @@ cards:
       Now](https://www.youtube.com/embed/oYVoT9Q6yqo?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-6d3a0bc9-37b4-439f-8a64-a13c3e233de2
   - order: 1
+    useCheckmark: true
     body: |-
       Have a great day!
 

@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## August 28, 1963
 
@@ -33,9 +34,11 @@ cards:
       One of the most well-known lines wasn’t in his written remarks.
     _key: 33905b8f5aa8
   - order: 1
-    body: "## Backstory\n\n* **March on Washington for Jobs and Freedom**: Full name reflects the initial goal of promoting economic equality along with racial equality.\n* Goal: Place pressure on the Kennedy admin. to develop legislation later known as the **1964 Civil Rights Act.\_**\n* Much debate occurred about who would talk, when, and for how long. **Dr. Martin Luther King Jr. spoke last.**"
+    useCheckmark: false
+    body: "## Backstory\n\n* **March on Washington for Jobs and Freedom**: Full name reflects the initial goal of promoting economic equality along with racial equality.\n* Goal: Place pressure on the Kennedy admin. to develop legislation later known as the**1964 Civil Rights Act.\_**\n* Much debate occurred about who would talk, when, and for how long.**Dr. Martin Luther King Jr. spoke last.**"
     _key: c9bdaf6ed1c8
   - order: 2
+    useCheckmark: false
     body: >-
       > “I still have a dream. It is a dream deeply rooted in the American
       dream. I have a dream that one day this nation will rise up and live out
@@ -48,6 +51,7 @@ cards:
       years since the Emancipation Proclamation.
     _key: '808e78308013'
   - order: 3
+    useCheckmark: false
     body: >-
       > “I turned to somebody standing next to me and I said, ‘These people
       don’t know it, but they’re about to go to church.'”
@@ -60,6 +64,7 @@ cards:
       to improvise the rest of the speech.
     _key: 88ac39e9ca13
   - order: 4
+    useCheckmark: true
     body: >-
       The crowd and speakers reflected Americans of different races and
       backgrounds. Paralleling the news cycle of this past week, MLK Jr. spoke

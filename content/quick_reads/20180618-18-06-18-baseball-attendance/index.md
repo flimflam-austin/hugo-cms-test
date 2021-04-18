@@ -20,6 +20,7 @@ card_series: Sports
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Take Me Out to the Ballgame.
 
@@ -27,7 +28,7 @@ cards:
       ## (…Actually, Nevermind.)
 
 
-      MLB worries as **fan**A **attendance shrinks 10%, the lowest level in 15
+      MLB worries as**fan**A**attendance shrinks 10%, the lowest level in 15
       years** – and it’s not just the unseasonably cold weather at the start of
       the season.
 
@@ -35,6 +36,7 @@ cards:
       FLIP: WHIFF & A MISS
     _key: card-1-212184cc-c02d-49da-9a55-5162e7842327
   - order: 1
+    useCheckmark: false
     body: >-
       WHAT’S TO BLAME?  
 
@@ -50,6 +52,7 @@ cards:
       * **No incentive?** Fans can watch anywhere – phone, tablet, TV.
     _key: card-2-a6cd6c2a-257d-47e8-9ae7-d3b080b8d1ec
   - order: 2
+    useCheckmark: false
     body: >-
       ## WHY THIS MATTERS
 
@@ -57,13 +60,14 @@ cards:
       * **MLB attendance is pretty consistent**, swinging no more than 2% in
       either direction.
 
-      * Baseball hasn’t seen a **drop like this since 1995** following a player
+      * Baseball hasn’t seen a**drop like this since 1995** following a player
       strike which canceled the World Series.
 
-      * Empty stadiums may give you a better shot at catching a foul ball, but
-      **not an ideal setting to watch a game.**
+      * Empty stadiums may give you a better shot at catching a foul ball,
+      but**not an ideal setting to watch a game.**
     _key: card-3-144393da-f5cc-478f-ba0a-f5ec785ac81f
   - order: 3
+    useCheckmark: false
     body: >-
       ## MLB WANTS TO FIX IT
 
@@ -77,6 +81,7 @@ cards:
       Rob Manfred, MLB Commissioner
     _key: card-4-a53cdbbe-dcb1-4f4f-ade0-c6ca74673fc1
   - order: 4
+    useCheckmark: true
     body: >-
       So which teams are seeing the biggest drops in attendance? And which 4
       teams are still filling the stands? Click to find out.

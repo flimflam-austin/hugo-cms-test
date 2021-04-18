@@ -20,11 +20,13 @@ card_series: Money
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## The ripple effect of COVID-19 on how we shop, work and shape our
       economy.
     _key: 1d57bcf2d204
   - order: 1
+    useCheckmark: false
     body: >-
       ## What To Know
 
@@ -41,11 +43,12 @@ cards:
       distancing went into effect for only part of that period, in March.
     _key: 7b84cf55e4ed
   - order: 2
+    useCheckmark: false
     body: >-
       ## What You Spend
 
 
-      A measure on consumer spending showed a significant drop in March – **The
+      A measure on consumer spending showed a significant drop in March –**The
       biggest month-to-month drop on record.**
 
 
@@ -54,6 +57,7 @@ cards:
       economic activity.
     _key: c50fd910254f
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Economy
 
@@ -67,6 +71,7 @@ cards:
       the longest period of economic expansion in history.
     _key: a98b1fcfe303
   - order: 4
+    useCheckmark: false
     body: >-
       ## The Job Market
 
@@ -81,6 +86,7 @@ cards:
       numbers.
     _key: 33bf08b17250
   - order: 5
+    useCheckmark: false
     body: |-
       ## Something To Consider
 
@@ -91,6 +97,7 @@ cards:
       Likewise, a recovery won’t be noted until after it’s already underway.
     _key: 171b718c8a87
   - order: 6
+    useCheckmark: true
     body: >-
       April is the first full month the U.S. was under federal social distancing
       guidelines. A new jobs report will reveal the updated unemployment rate,

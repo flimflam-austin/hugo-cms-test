@@ -19,6 +19,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # February 6, 1952
 
@@ -30,12 +31,15 @@ cards:
       at age 25.
     _key: a35bc705018c
   - order: 1
-    body: "## Record-Breaking Queen\n\nIn 2007, at 81, she became the **oldest British monarch**, beating a record set by Queen Victoria (her paternal great-great-grandmother).\n\nIn 2015, at 88, she became the **world’s oldest reigning monarch**.\_Months later, she passed Queen Victoria again, and became Britain’s **longest-reigning monarch**."
+    useCheckmark: false
+    body: "## Record-Breaking Queen\n\nIn 2007, at 81, she became the**oldest British monarch**, beating a record set by Queen Victoria (her paternal great-great-grandmother).\n\nIn 2015, at 88, she became the**world’s oldest reigning monarch**.\_Months later, she passed Queen Victoria again, and became Britain’s**longest-reigning monarch**."
     _key: a5af50d96bc3
   - order: 2
+    useCheckmark: false
     body: "## The Queen & Her Jewels\n\n* Among her many royal crowns & tiaras, one of the Queen’s most-worn pieces is the**\_Vladimir Tiara.**\n* The tiara was originally crafted for a Russian Duchess, and smuggled out of Russia between 1917-1920.\n* Queen Mary, the Queen’s grandmother, bought the tiara in 1921 & added the ability to switch out the jewels; besides its diamonds, the Queen may also add emeralds or pearls."
     _key: 728b5a5ecda5
   - order: 3
+    useCheckmark: false
     body: >-
       > “Each day is a new beginning, I know that the only way to live my life
       is to try to do what is right, to take the long view, to give of my best
@@ -46,6 +50,7 @@ cards:
       reflecting on 50 years of her reign.
     _key: fd992584507c
   - order: 4
+    useCheckmark: true
     body: >-
       Queen Elizabeth will turn 95 years old this spring. She and her husband,
       Prince Philip, the 99-year-old Duke of Edinburgh, both received COVID-19

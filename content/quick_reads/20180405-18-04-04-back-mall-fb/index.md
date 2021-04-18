@@ -20,14 +20,16 @@ card_series: Money
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Facebook’s Security Fix Impacts Instagram & Others
 
 
       FB’s attempt to increase user security after a major loophole may change
-      the way you shop & connect with friends. **But are you safer**?
+      the way you shop & connect with friends.**But are you safer**?
     _key: card-1-44bea989-14a4-4ecc-be18-1eb8f6a8f62a
   - order: 1
+    useCheckmark: false
     body: >-
       ## New From Facebook
 
@@ -41,12 +43,13 @@ cards:
       disabled that feature.
     _key: card-2-74110ec5-b163-42f5-9ef9-1e8b3be14839
   - order: 2
+    useCheckmark: false
     body: >-
       ## Facebook Drama
 
 
-      * Remember **FB** owns **Instagram** (and other HUGE social network
-      companies like **WhatsApp**). This is why the security “fumble” is so
+      * Remember**FB** owns**Instagram** (and other HUGE social network
+      companies like**WhatsApp**). This is why the security “fumble” is so
       significant.
 
       * **Your user experience on FB or Insta may change.**A For example,
@@ -54,6 +57,7 @@ cards:
       been altered until a full security assessment is completed.
     _key: card-3-1c71d004-9a32-4bb4-89b7-f591031839f7
   - order: 3
+    useCheckmark: false
     body: >-
       ## Breaking-Up With FB?
 
@@ -72,6 +76,7 @@ cards:
     citation: 'click: READ STUDY'
     _key: card-4-253c5ddb-489c-4467-b69d-a2479c91abe9
   - order: 4
+    useCheckmark: true
     body: >-
       Is this the beginning of the end for FB? Do you even use the site? Tell us
       your favorite social media platform: Info@SmartHerNews.com. Here's one

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       SHOOTING SUSPECT  
 
@@ -29,21 +30,22 @@ cards:
       **4 people died**A in a shooting Sunday at a Waffle House in Tennessee.
 
 
-      The shooting is the **SECOND** mass public shooting of 2018 committed by
-      **an individual KNOWN to law enforcemen**t.
+      The shooting is the**SECOND** mass public shooting of 2018 committed
+      by**an individual KNOWN to law enforcemen**t.
 
 
       Flip Here For More
     citation: Flip Here For More
     _key: card-1-b98b8a5f-1e0f-41be-bd0a-69163fef5789
   - order: 1
+    useCheckmark: false
     body: >-
       ## A “Mass Public Shooting” is defined as
 
 
-      > “a multiple homicide incident in which **four or more victims are
-      murdered with firearms,** within **one event**, in at least one or more
-      **public locations** …. “  
+      > “a multiple homicide incident in which**four or more victims are
+      murdered with firearms,** within**one event**, in at least one or
+      more**public locations** …. “  
         
         
         
@@ -54,6 +56,7 @@ cards:
     citation: 'Click Here: Report'
     _key: card-2-64c9d07a-06bf-42a0-8637-c258a1b345df
   - order: 2
+    useCheckmark: false
     body: >-
       ## Shooter’s Past & Lingering Legal Questions
 
@@ -66,6 +69,7 @@ cards:
       hack his phone.A In 2016, he told police Taylor Swift was stalking him.
     _key: card-3-4d5930fb-6540-4761-a0ea-d386bc0f4dfd
   - order: 3
+    useCheckmark: true
     body: >-
       James Shaw Jr., the 29-year-old man who wrestled the gun away from the
       shooter, might not consider himself a hero, but the state of Tennessee

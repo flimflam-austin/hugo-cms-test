@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # PUPPY PRIDE
 
@@ -37,6 +38,7 @@ cards:
     citation: And the Top Dog is...
     _key: card-1-4d543244-1d3d-4cfa-b185-8e2f9740149b
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Labrador Retriever
 
@@ -49,6 +51,7 @@ cards:
       26-straight years.
     _key: card-2-0cf66f57-144a-42f4-ae04-2744d0397099
   - order: 2
+    useCheckmark: false
     body: >-
       # PETA isn’t Happy
 
@@ -62,6 +65,7 @@ cards:
       Ingrid Newkirk, PETA president
     _key: card-3-3e1f1d8d-e8c0-4e48-a9d0-129d53ea66c3
   - order: 3
+    useCheckmark: false
     body: >-
       # Ohio’s “Lab” Test
 
@@ -77,18 +81,20 @@ cards:
       do you have a state dog?
     _key: card-4-ca9a00a0-9f56-45db-9c68-46de86d3599f
   - order: 4
+    useCheckmark: false
     body: >-
       ## 12 Recognized State Dogs
 
 
-      **Alaska** (Alaskan Malamute), **Georgia** (“Adoptable dog”),
-      **Louisiana** (Catahoula leopard dog), **Maryland** (Chesapeake Bay
-      retrievers), **Mass.**A (Boston terrier), **New Hampshire** (Chinook),
-      **N. Carolina** (Plott hound), **Pennsylvania** (Great Dane), **S.
-      Carolina** (Boykin spaniel), **Texas** (Blue Lacy), **Virginia** (American
-      foxhound) & **Wisconsin** (American water spaniel).
+      **Alaska** (Alaskan Malamute),**Georgia** (“Adoptable dog”),**Louisiana**
+      (Catahoula leopard dog),**Maryland** (Chesapeake Bay
+      retrievers),**Mass.**A (Boston terrier),**New Hampshire** (Chinook),**N.
+      Carolina** (Plott hound),**Pennsylvania** (Great Dane),**S. Carolina**
+      (Boykin spaniel),**Texas** (Blue Lacy),**Virginia** (American foxhound)
+      &**Wisconsin** (American water spaniel).
     _key: card-5-652d501d-3c0c-42c2-a400-4cac520a3ecf
   - order: 5
+    useCheckmark: true
     body: >-
       Ohio may not have a state dog, but did you know it has a state amphibian?
       Go figure.

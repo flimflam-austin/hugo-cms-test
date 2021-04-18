@@ -20,6 +20,7 @@ card_series: Podcast
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       **SmartHER Podcast!**  
 
@@ -31,6 +32,7 @@ cards:
       Listen](http://smarthernews.libsyn.com/smarther-news-podcast-ep-3)
     _key: card-1-a763b7ec-c5e1-4e57-91cc-ef3e28f1cf4e
   - order: 1
+    useCheckmark: true
     body: |-
       Don't forget to subscribe on Itunes! Links on our source page!
 

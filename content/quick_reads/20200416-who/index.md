@@ -20,17 +20,19 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # WHO
 
       ## What To Know About The World Health Organization
     _key: 48bee07eb0c8
   - order: 1
+    useCheckmark: false
     body: >-
       ## ORIGINS
 
 
-      **WHO**: **W**orld **H**ealth **O**rganization
+      **WHO**:**W**orld**H**ealth**O**rganization
 
 
       **Founded:** 1948 – as a specialized agency of the United Nations (founded
@@ -46,6 +48,7 @@ cards:
       **Mission**: Provide healthcare and respond to public health emergencies.
     _key: 6bcbf4d8437b
   - order: 2
+    useCheckmark: false
     body: >-
       ## Who pays for the WHO?
 
@@ -61,6 +64,7 @@ cards:
       * America contributes approx. $110M in dues and $400M in voluntary funds.
     _key: c7e0c072b038
   - order: 3
+    useCheckmark: false
     body: |-
       ## Top Five Areas of U.S.’s WHO Funding 2018 – 2019
 
@@ -71,6 +75,7 @@ cards:
       * Infectious Hazard Management (prevent & control disease outbreaks)
     _key: 1c81b45d6cc4
   - order: 4
+    useCheckmark: false
     body: >-
       ## THE LATEST
 
@@ -86,6 +91,7 @@ cards:
       funding.
     _key: beae5b760c53
   - order: 5
+    useCheckmark: false
     body: >-
       > “One of the most dangerous and costly decisions from the WHO was its
       disastrous decision to oppose travel restrictions from China and other
@@ -99,6 +105,7 @@ cards:
       needed health resources.
     _key: 52c04930e43e
   - order: 6
+    useCheckmark: false
     body: >-
       “WHO’s role is to provide rational & science-based recommendations to
       countries. But at the end of the day, a sovereign country has the autonomy
@@ -111,6 +118,7 @@ cards:
       release from Wuhan's health agency.
     _key: dab084502788
   - order: 7
+    useCheckmark: false
     body: >-
       “The World Health Organization leads and coordinates the fight against
       pandemics. It’s what they do. You don’t stop firefighters from doing their
@@ -121,6 +129,7 @@ cards:
       withdraw funds "dangerous" for Americans.
     _key: 2c1744cd7975
   - order: 8
+    useCheckmark: false
     body: >-
       > “There are certainly flaws with the way WHO handled this pandemic… If we
       step away and cease funding because we’re worried about WHO being unduly
@@ -131,6 +140,7 @@ cards:
       2007.
     _key: 9c96f782794a
   - order: 9
+    useCheckmark: true
     body: >-
       A new report from the Associated Press suggests China withheld critical
       information about the severity of COVID-19 as it gained speed. China's

@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “This is not going to be a glancing blow. This is going to be a Mike
       Tyson punch to the Carolina coast.”  
@@ -31,6 +32,7 @@ cards:
       on Washington, D.C. and points northward.
     _key: card-1-df79dec3-b65f-4bd5-a0a3-52b8edd96617
   - order: 1
+    useCheckmark: false
     body: >-
       > “The State Department has come to the determination that they were
       attacks.”  
@@ -43,6 +45,7 @@ cards:
       has yet to formally assign any blame.
     _key: card-2-2f2e7fa3-11f5-4f41-8b1e-30889de09d77
   - order: 2
+    useCheckmark: false
     body: >-
       > “The disturbing and accelerating trajectory of use we’re seeing in
       youth, and the resulting path to addiction, must end. The FDA cannot
@@ -57,6 +60,7 @@ cards:
       [Read more Here](https://smarthernews.com/18-08-30-cigarettes-vaping/)
     _key: card-3-a65bb078-3167-4f0a-9973-57e06c41379c
   - order: 3
+    useCheckmark: false
     body: >-
       > “I think I could beat Trump because I’m as tough as he is, I’m smarter
       than he is.”  
@@ -68,6 +72,7 @@ cards:
       a rich banker would win over the liberal Democrats.
     _key: card-4-483157f9-d372-448e-bc4d-a18ee0676931
   - order: 4
+    useCheckmark: false
     body: >-
       > "We have branding opportunities right there.”  
         
@@ -79,6 +84,7 @@ cards:
       NASA's own rules.
     _key: card-5-0178c80f-0d26-47c0-ad65-975cf47f1b43
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/quick-quotes-5/)'
     _key: card-10-2eab9dda-92d2-40ba-bf96-c415d4bc144e
 

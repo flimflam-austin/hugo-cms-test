@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Holocaust Remembrance Week
 
@@ -32,11 +33,12 @@ cards:
       Irena Sendlerowa
     _key: card-1-c1ee33d5-dbd9-4d7c-9861-522bba95890f
   - order: 1
+    useCheckmark: false
     body: >-
       ## Sendlerowa the Savior
 
 
-      Sendlerowa & team smuggled **2500 children**, via ambulances, sewer pipes,
+      Sendlerowa & team smuggled**2500 children**, via ambulances, sewer pipes,
       suitcases, and underground passageways in order to bring them to
       orphanages into Warsaw’s non-Jewish areas.
 
@@ -45,6 +47,7 @@ cards:
       bottles were dug up after WWII & used to reunite families.
     _key: card-2-9eca0bf7-aecc-48b2-98cb-2b46218b363b
   - order: 2
+    useCheckmark: false
     body: >-
       **1943:** Sendlerowa was arrested, sentenced to death, but escaped.
 
@@ -60,6 +63,7 @@ cards:
       not win) the Nobel Peace Prize.
     _key: card-3-446c345e-3b8d-4f2c-a512-917fbf31a508
   - order: 3
+    useCheckmark: false
     body: >-
       # NEVER FORGET
 
@@ -78,6 +82,7 @@ cards:
       Against Germany
     _key: card-4-2fa8e577-bf3d-4d1a-9ea6-3ead5f63491a
   - order: 4
+    useCheckmark: true
     body: >-
       "There remain troubling gaps in Holocaust awareness while survivors are
       still with us; imagine when there are no longer survivors here to tell

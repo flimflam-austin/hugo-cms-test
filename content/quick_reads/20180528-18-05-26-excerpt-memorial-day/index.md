@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Memorial Day Reflection
 
@@ -34,6 +35,7 @@ cards:
       Jenna Lee Babin, Founder, SmartHER News in a personal Memorial Day essay
     _key: card-1-5eedf3c3-1fb6-47b1-93b0-93e332a22a59
   - order: 1
+    useCheckmark: true
     body: |-
       Read the essay
 

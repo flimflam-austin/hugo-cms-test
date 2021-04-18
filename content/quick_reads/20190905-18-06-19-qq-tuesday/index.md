@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “Illegal actions have and must have consequences. No more free passes,
       no more get out of jail free cards.”  
@@ -33,6 +34,7 @@ cards:
       Facts](https://smarthernews.com/18-06-17-immigration-and-children-at-border/)
     _key: card-1-63db98ea-f645-4e54-b74c-b2b46d7eff42
   - order: 1
+    useCheckmark: false
     body: >-
       > “Sometimes truth transcends party.”  
         
@@ -44,6 +46,7 @@ cards:
       the adults they arrive with).
     _key: card-2-ed70a6a1-f306-4ebe-9e9c-ff2c00eb2780
   - order: 2
+    useCheckmark: false
     body: >-
       > “In defending America, it is not enough to merely have an American
       presence in space, we must have American dominance in space…. We are going
@@ -55,6 +58,7 @@ cards:
       sixth branch of the Armed Forces.
     _key: card-3-86be2a45-ceb5-45a8-acd4-6ec5f7527d46
   - order: 3
+    useCheckmark: false
     body: >-
       > “Researchers estimate that birds & mammals harbor anywhere from 631K to
       827K unknown viruses that could potentially leap into humans.”  
@@ -69,6 +73,7 @@ cards:
       STORY](https://smarthernews.com/18-06-19-return-of-the-plague/)
     _key: card-4-7c4dbace-8d8b-4afb-8e58-22f864145e0f
   - order: 4
+    useCheckmark: false
     body: >-
       > “I thought it would be a nice way of improving my look well, obviously
       that all went to hell. I feel bad about it. I apologized for it…. That was
@@ -81,6 +86,7 @@ cards:
       change his image.
     _key: card-5-399ec557-453f-406b-b193-bbdd3f66b3f3
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-06-19-qq-tuesday/)'
     _key: card-10-13057c83-d61b-448f-bf98-5177d4c12423
 

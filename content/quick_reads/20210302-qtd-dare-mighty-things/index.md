@@ -19,6 +19,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“Far better it is to dare mighty things, to win glorious triumphs, even
       though checkered by failure, than to take rank with those poor spirits who
@@ -27,6 +28,7 @@ cards:
     citation: PRES. T. ROOSEVELT
     _key: 433dffe28305
   - order: 1
+    useCheckmark: true
     body: >-
       The three hidden words on NASA's Perseverance rover's parachute reading
       "dare mighty things" are from an 1899 speech by Pres. T. Roosevelt (then

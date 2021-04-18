@@ -20,6 +20,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## “…in the blink of an eye…”
 
@@ -35,6 +36,7 @@ cards:
       the dangers of drowning.
     _key: card-1-d28e911b-e94e-49f8-8b5f-ca2362e5fcf5
   - order: 1
+    useCheckmark: false
     body: >-
       > Every single day in America…  
         
@@ -48,6 +50,7 @@ cards:
       except birth defects."
     _key: card-2-9345a0d6-a76f-4f1a-8faf-c97ab5c5eed9
   - order: 2
+    useCheckmark: false
     body: >-
       ## What You Should Know:
 
@@ -57,12 +60,13 @@ cards:
 
       * **Men & boys are more likely to drown**; 80% of deaths are male.
 
-      * For adolescents and adults, **alcohol**A **involved** **in up to 70% of
+      * For adolescents and adults,**alcohol**A**involved****in up to 70% of
       drowning deaths**.
 
       * July/August = deadliest months.
     _key: card-3-f0bed949-764a-4bb3-a573-0a8674603881
   - order: 3
+    useCheckmark: true
     body: >-
       ‘A child under 30 pounds can drown in 30 seconds....And I just keep
       counting to 30 in my head. That was all I needed.’ Morgan Beck Miller

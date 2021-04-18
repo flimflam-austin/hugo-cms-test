@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Worth A Shot?
 
@@ -31,19 +32,21 @@ cards:
       to choose).
     _key: 0f6a1aedaba6
   - order: 1
+    useCheckmark: false
     body: >-
       ## What To Know:
 
 
-      Many students are heading back to school as America prepares to confront
-      **COVID-19 & flu simultaneously for the first time ever.**
+      Many students are heading back to school as America prepares to
+      confront**COVID-19 & flu simultaneously for the first time ever.**
 
 
-      In August, **Massachusetts** instituted a flu vaccine mandate for
-      childcare attendees 6 months and up, K-12 students, and most college &
-      graduate students under 30 by December 31st.
+      In August,**Massachusetts** instituted a flu vaccine mandate for childcare
+      attendees 6 months and up, K-12 students, and most college & graduate
+      students under 30 by December 31st.
     _key: 0b03ed674436
   - order: 2
+    useCheckmark: false
     body: >-
       “During the COVID-19 pandemic, influenza vaccine will be especially
       critical to reduce the overall impact of respiratory illness on the
@@ -55,6 +58,7 @@ cards:
       allowed.
     _key: '2e3977248969'
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Laws Of The Land
 
@@ -63,16 +67,18 @@ cards:
       vary, but generally speaking:
 
 
-      * Every state allows for **medical**-related exemptions
+      * Every state allows for**medical**-related exemptions
 
-      * 16 states allow for **philosophical** exemptions for personal beliefs
+      * 16 states allow for**philosophical** exemptions for personal beliefs
 
-      * 45 states & DC allow for **religious** exemptions
+      * 45 states & DC allow for**religious** exemptions
     _key: 198dac09084f
   - order: 4
-    body: "## Who Decides?  \n\n\n* **Federal gov’t** makes recommendations – not laws or policies – regarding vaccinations and immunizations.\n* Your **state gov’**t sets vaccination requirements for attending school.\n* **Why?**\_Simply – the federal gov’t is responsible for your national security, and your state for your personal safety.\n* Ultimately, **parents**\_**decide** – with some opting for homeschooling."
+    useCheckmark: false
+    body: "## Who Decides?  \n\n\n* **Federal gov’t** makes recommendations – not laws or policies – regarding vaccinations and immunizations.\n* Your**state gov’**t sets vaccination requirements for attending school.\n* **Why?**\_Simply – the federal gov’t is responsible for your national security, and your state for your personal safety.\n* Ultimately,**parents**\_**decide** – with some opting for homeschooling."
     _key: 79f32f9d7526
   - order: 5
+    useCheckmark: true
     body: >-
       BIG PICTURE: It's not just Massachusetts. The New Jersey legislature is
       considering a bill which would mandate flu vaccines for K-12 students. In

@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # 101 Years Ago Today
 
@@ -28,6 +29,7 @@ cards:
       Today, more women than men vote in U.S. elections.
     _key: 11678f1472db
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Fight To Vote
 
@@ -43,6 +45,7 @@ cards:
       * Wyoming was first to ratify, Tennessee was the last.
     _key: 9e98c52c6dfd
   - order: 2
+    useCheckmark: false
     body: >-
       > “When we shall have our amendment [for woman suffrage] . . . everybody
       will think it was always so . . . They have no idea of how every single
@@ -53,21 +56,23 @@ cards:
       American activist and women's suffrage pioneer Susan B. Anthony in 1894.
     _key: 1fee69a4d5c8
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Female Vote
 
 
-      * Women have voted at **higher rates** than men in every presidential
+      * Women have voted at**higher rates** than men in every presidential
       election since 1980 & every midterm election since 1998.
 
-      * 56% of women (vs. 44% of men) identify with, or lean toward, the
-      **Democratic Party**.
+      * 56% of women (vs. 44% of men) identify with, or lean toward,
+      the**Democratic Party**.
 
-      * 2016: Hillary Clinton won more female voters, but Pres. Trump won the
-      **white female vote – the largest female voting block,** helping to secure
-      his victory.
+      * 2016: Hillary Clinton won more female voters, but Pres. Trump won
+      the**white female vote – the largest female voting block,** helping to
+      secure his victory.
     _key: f9f767ad4b03
   - order: 4
+    useCheckmark: true
     body: >-
       While the 19th amendment granted women the right to vote in 1920, The
       Voters Rights act, ending discriminatory practices (ex: literacy tests)

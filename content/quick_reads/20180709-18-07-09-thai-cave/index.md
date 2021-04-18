@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # RACE AGAINST TIME
 
@@ -27,13 +28,14 @@ cards:
       **World Watches Remarkable Rescue Attempt in Thailand**
 
 
-      A nearly **3**–**mile**, **6 hour**A treacherous underwater escape for
+      A nearly**3**–**mile**,**6 hour**A treacherous underwater escape for
       children – many of whom don’t know how to swim.
 
 
       FLIP: what happened
     _key: card-1-759f2627-cf32-4ee0-8076-8aa20059e716
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Basics:
 
@@ -50,6 +52,7 @@ cards:
       doing key, rescue swim.
     _key: card-2-53214893-537b-4b4d-b8c7-aa963e76c482
   - order: 2
+    useCheckmark: false
     body: >-
       ## How To Get Them Out?
 
@@ -69,6 +72,7 @@ cards:
       flip: The dangers
     _key: card-3-7d4e63e3-2fe2-4b18-ad36-6cebb1c06e2b
   - order: 3
+    useCheckmark: false
     body: >-
       ## So Many Dangers
 
@@ -86,6 +90,7 @@ cards:
       * **Time:** Rescue ops. may take days.
     _key: card-4-4f8a0c7f-5676-48cb-9aa0-c6bfe33c6e70
   - order: 4
+    useCheckmark: true
     body: >-
       Thai Navy SEALs carried a batch of letters from the group to family
       outside, filled with assurances and requests for a dinner out for chicken

@@ -20,20 +20,22 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # PATIENT ZERO
 
       What exactly happened to the first case of COVID-19 in America?
     _key: 80c409715064
   - order: 1
+    useCheckmark: false
     body: >-
       ## What We Know
 
 
-      * January 19, 2020: A **35-year-old man** arrived at a clinic in Snohomish
+      * January 19, 2020: A**35-year-old man** arrived at a clinic in Snohomish
       County, north of Seattle, Washington.
 
-      * He had recently returned from **Wuhan, China** where he visited family;
+      * He had recently returned from**Wuhan, China** where he visited family;
       he did not knowingly make contact with anyone ill OR visit the open market
       in question as the source of a mysterious outbreak.
 
@@ -41,6 +43,7 @@ cards:
       days.
     _key: 96c1508cc3da
   - order: 2
+    useCheckmark: false
     body: >-
       ## Timeline of Illness
 
@@ -61,6 +64,7 @@ cards:
       through Jan. 30th + home isolation.
     _key: 6cdc71641e58
   - order: 3
+    useCheckmark: false
     body: >-
       > “Our report of the first confirmed case of 2019-nCoV in the United
       States illustrates several aspects of this emerging outbreak that are not
@@ -74,6 +78,7 @@ cards:
       evolution from no signs of pneumonia to a diagnosis in 5 days.
     _key: 53134d70a2ca
   - order: 4
+    useCheckmark: false
     body: >-
       > “Everyone should know these red-flag symptoms. COVID can turn serious in
       any age adult. If you’re a healthy adult under 60, the signs and symptoms
@@ -85,6 +90,7 @@ cards:
       Dr. Darria Long Gillespie, ER physician and author of “Mom Hacks.”
     _key: f6ff07b4cb4e
   - order: 5
+    useCheckmark: false
     body: >-
       > “We’re at a critical junction right now, but we can still mitigate this
       substantially.”
@@ -97,6 +103,7 @@ cards:
       hypothesis," but says others may have contributed to the spread.
     _key: 7eb47b63da21
   - order: 6
+    useCheckmark: true
     body: >-
       It reportedly took Patient Zero nearly a month to be deemed "fully
       recovered" and no one in close contact with him is known to have tested

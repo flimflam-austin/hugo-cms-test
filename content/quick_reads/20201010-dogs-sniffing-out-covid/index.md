@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # The Sniff Test
 
@@ -30,6 +31,7 @@ cards:
       Can Dogs Save The World?
     _key: 19e56c677fcf
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKSTORY
 
@@ -44,6 +46,7 @@ cards:
       *before* symptoms emerge.
     _key: 9a36347b572f
   - order: 2
+    useCheckmark: false
     body: >-
       > “As far as we know, no other airport has attempted to use canine scent
       detection on such a large scale against COVID-19.”
@@ -57,6 +60,7 @@ cards:
       accuracy.
     _key: fd4c835c1fc9
   - order: 3
+    useCheckmark: false
     body: >-
       “With covid detection, you are not recognizing the virus. You are
       recognizing the volatile byproducts of cells dying because they have been
@@ -69,6 +73,7 @@ cards:
       omitted in our sweat, saliva, and breath.
     _key: e5c15a50d0da
   - order: 4
+    useCheckmark: false
     body: >-
       > “Their noses work very differently than ours. We breathe in and out
       through the same passages. But dogs breathe in one passage and out another
@@ -81,6 +86,7 @@ cards:
       saliva test.
     _key: ece2dc305c8b
   - order: 5
+    useCheckmark: true
     body: >-
       Those optimistic think dogs may be more accurate than current testing,
       offering a powerful surveillance tool for returning communities back to

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       KICKSTART YOUR WEEK  
 
@@ -35,6 +36,7 @@ cards:
       daughter, died at 3 years from Leukemia.
     _key: card-1-97cfc73f-f362-4293-9c6c-f5b49fe4cce6
   - order: 1
+    useCheckmark: false
     body: >-
       > “‘He has a good life and he has everything. Donald is going to be 74, 73
       for the next [election] and maybe he should just go and play golf and
@@ -51,6 +53,7 @@ cards:
     citation: click for full article
     _key: card-2-337ec989-ad5d-4924-8ebb-42c8188e5336
   - order: 2
+    useCheckmark: false
     body: >-
       > “I would like to apologise to anybody I have offended in a recent
       interview with the Guardian relating to the American President.”  
@@ -71,6 +74,7 @@ cards:
     citation: 'Click: Backstory'
     _key: card-3-fd11115e-2bb5-41a5-ae21-ddbcadef125c
   - order: 3
+    useCheckmark: false
     body: >-
       > “Thank you to all the delegates who hung in there with us all day at the
       Convention. I appreciate the support I received and look forward to the
@@ -83,6 +87,7 @@ cards:
       now faces a primary challenge.
     _key: card-4-516de70c-0efa-4346-8288-ab7c8a304c03
   - order: 4
+    useCheckmark: false
     body: >-
       ## ICYMI:
 
@@ -97,6 +102,7 @@ cards:
       watch for this week: Any further U.S. action vs. Russia regarding Syria.
     _key: card-5-c885c7e5-1b26-4170-ad30-855154904ebf
   - order: 5
+    useCheckmark: true
     body: |-
       See any quotes you love this week? Send them to us: Info@SmartHernews.com
 

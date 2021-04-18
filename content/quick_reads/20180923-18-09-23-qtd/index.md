@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“It taught me about the importance of prayer. It taught me the
       importance of surrendering to God, surrendering your fears to Him, and
@@ -28,6 +29,7 @@ cards:
     citation: Kristen Masciantonio
     _key: card-1-8623f7fe-6923-47be-bd9a-9fe109f21c13
   - order: 1
+    useCheckmark: true
     body: >-
       Kristen's daughter, Gianna was born with a deadly brain stem tumor. Given
       nearly no chance at survival, Gianna defied all odds. As Kristen describes

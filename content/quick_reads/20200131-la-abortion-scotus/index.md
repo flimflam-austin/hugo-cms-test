@@ -20,11 +20,13 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       As both sides of the debate square off in the streets, the U.S. Supreme
       Court gets ready to weigh in on the first major abortion case in years.
     _key: 4b967cc2cfc7
   - order: 1
+    useCheckmark: false
     body: >-
       ## Law At Issue: Act 260
 
@@ -41,6 +43,7 @@ cards:
       decision.
     _key: f42c3913b8b6
   - order: 2
+    useCheckmark: false
     body: >-
       ## IMPORTANT CONTEXT:
 
@@ -55,6 +58,7 @@ cards:
       burden” on the right to access abortion.
     _key: e105bc26c75c
   - order: 3
+    useCheckmark: false
     body: >-
       “The true, and often overt, intent of legislators behind pretextual laws
       like Act 620, which have no demonstrable medical benefit, is to severely
@@ -66,6 +70,7 @@ cards:
       22 state attorneys general also filed similar briefs.
     _key: abb0bf304ae1
   - order: 4
+    useCheckmark: false
     body: >-
       > “The burdens of Act 620 are minimal—principally, a modest increase in
       the waiting time (less than an hour) to obtain an abortion. The benefits
@@ -77,21 +82,23 @@ cards:
       more than 200 Republican (and two Democrats) members of Congress.
     _key: f90c081b7420
   - order: 5
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
 
       * The case is the first time the Supreme Court will rule on abortion
-      rights since Pres. Trump appointed two justices giving the court a
-      **conservative** majority.
+      rights since Pres. Trump appointed two justices giving the court
+      a**conservative** majority.
 
-      * This case is being closely watched by **other states** that have or hope
+      * This case is being closely watched by**other states** that have or hope
       to pass more expansive abortion restrictions, and face legal challenges.
 
       * Louisiana has only 3 abortion providers in the state. If allowed to go
       into effect, this law will further impact access.
     _key: 6ce626849c81
   - order: 6
+    useCheckmark: true
     body: >-
       BIG PICTURE: Louisiana is just one of many states that have tried to
       restrict access to abortion, while other states like New York and Illinois

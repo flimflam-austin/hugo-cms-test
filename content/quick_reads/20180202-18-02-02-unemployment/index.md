@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # New Unemployment Rate = 4.1%
 
@@ -30,6 +31,7 @@ cards:
       * 4.1% rate = same forA the last 4 months.
     _key: card-1-69e10ab2-22a7-4811-bd19-2c1720ffe2c6
   - order: 1
+    useCheckmark: false
     body: >-
       > “Employment continued to trend up in construction, food services and
       drinking places, health care, and manufacturing. “  
@@ -41,6 +43,7 @@ cards:
       [Click For Full Report](https://www.bls.gov/news.release/pdf/empsit.pdf)
     _key: card-2-2d41b51e-3049-4bc1-be4d-a5725c7e8e7d
   - order: 2
+    useCheckmark: false
     body: >-
       # Important To Note: Hourly Earnings
 
@@ -53,6 +56,7 @@ cards:
       more confidence in economy.
     _key: card-3-0a3b1c8f-9976-4869-8b31-36507074a186
   - order: 3
+    useCheckmark: false
     body: >-
       # Consider This:
 
@@ -64,6 +68,7 @@ cards:
       “overheating”.
     _key: card-4-ef0f2676-93c1-422d-ad76-db6a2aa0097d
   - order: 4
+    useCheckmark: true
     body: >-
       A Dog Receives Unemployment Benefits In Michigan - For Real. Flip For the
       Story.

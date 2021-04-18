@@ -19,11 +19,12 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## “The Start Of The Story”
 
 
-      > A team of investigators from the **W**orld **H**ealth **O**rganization
+      > A team of investigators from the**W**orld**H**ealth**O**rganization
       spent weeks inside China exploring the unknown: the origins of the virus
       that causes COVID-19.  
         
@@ -32,11 +33,12 @@ cards:
       (And What They Didn’t)
     _key: c59eb3491ac0
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKSTORY
 
 
-      * The virus that causes **COVID-19** was first recognized in Wuhan, China.
+      * The virus that causes**COVID-19** was first recognized in Wuhan, China.
 
       * The virus (**SARS-CoV-2**) is genetically similar to SARS-CoV – a deadly
       virus that also emerged in China.
@@ -47,6 +49,7 @@ cards:
       pandemic.
     _key: b80ea835259e
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Mission
 
@@ -64,6 +67,7 @@ cards:
       * Lab incidents
     _key: cda1aa5d96ca
   - order: 3
+    useCheckmark: false
     body: >-
       > “…since Wuhan is not a city or an environment close to bat environments,
       a direct jump from bats to the city of Wuhan is not very likely.”
@@ -76,6 +80,7 @@ cards:
       animals - and called this theory a "work in progress."
     _key: 6ee413cc4343
   - order: 4
+    useCheckmark: false
     body: >-
       ## CONCLUSIONS
 
@@ -91,6 +96,7 @@ cards:
       * **Bottom Line: We still don’t know the origins of SARS-CoV-2.**
     _key: f9eb18566dae
   - order: 5
+    useCheckmark: false
     body: >-
       ## Why Rule Out The Lab?
 
@@ -99,12 +105,13 @@ cards:
       “**extremely rare**,” and that reported lab security made it “very
       unlikely anything could escape from such a place.”
 
-      * Questions remain. _The Wall Street Journal_ asked if the Wuhan Institute
+      * Questions remain._The Wall Street Journal_ asked if the Wuhan Institute
       of Virology lab was “genetically altering” existing coronaviruses. WHO
       didn’t directly answer, but said they hope to better clarify claims around
       any studies.
     _key: 86c58504affc
   - order: 6
+    useCheckmark: true
     body: >-
       First blocking investigators & later calling it a misunderstanding, the
       Chinese gov't says the new coronavirus potentially started outside China

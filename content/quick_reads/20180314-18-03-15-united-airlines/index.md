@@ -16,6 +16,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       The NOT so  
 
@@ -36,6 +37,7 @@ cards:
     citation: FLIP HERE FOR MORE
     _key: card-1-ce00b027-0013-41a3-be16-114a9662ab15
   - order: 1
+    useCheckmark: false
     body: >-
       ## Monday: KOKITO
 
@@ -49,6 +51,7 @@ cards:
       plane landed, Kokito was dead.
     _key: card-2-b7b5859f-c3a4-40e0-a6d1-e321b4dade0f
   - order: 2
+    useCheckmark: false
     body: >-
       ## United’s Response:
 
@@ -60,15 +63,17 @@ cards:
       this tragic accident.”
     _key: card-3-eef61ee1-f05a-4ac3-a86d-94df44b262f5
   - order: 3
+    useCheckmark: false
     body: >-
       ## This was NOT the first time a pet died on a United Airlines flight
 
 
       According to the Department of Transportation, 24 animals died on U.S.
-      carriers in 2017 – **75% of those deaths took place on a United Airlines
+      carriers in 2017 –**75% of those deaths took place on a United Airlines
       flight**.
     _key: card-4-102baba9-e8f6-4526-9215-7b25f6d00366
   - order: 4
+    useCheckmark: false
     body: >-
       ## Tuesday: IRGO
 
@@ -82,6 +87,7 @@ cards:
       Irgo home first class with a human escort in the main cabin.
     _key: card-5-3a871551-71be-4458-8d40-66010e6c7725
   - order: 5
+    useCheckmark: true
     body: >-
       United announced it will implement a new policy: "To prevent this from
       happening again, by April we will issue bright colored bag tags to

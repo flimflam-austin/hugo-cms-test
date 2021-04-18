@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Russia Vows Retaliation
 
@@ -39,6 +40,7 @@ cards:
     citation: What Happened?
     _key: card-1-1b83f67f-1456-4e26-b6ae-88039b429c15
   - order: 1
+    useCheckmark: false
     body: >-
       # Dasvidaniya!
 
@@ -46,18 +48,19 @@ cards:
       ## U.S. Expels 60 Russians
 
 
-      America joins **nearly two dozen other nations** in kicking out Russian
+      America joins**nearly two dozen other nations** in kicking out Russian
       diplomats.
 
 
       ‘…**largest collective expulsion of Russian intelligence officers in
-      history”** _UK Prime Minister_
+      history”**_UK Prime Minister_
 
 
       Flip For Why
     citation: Flip For Why
     _key: card-2-db65bea6-f67b-4b44-b0be-42e688438cb7
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Now?
 
@@ -73,9 +76,11 @@ cards:
       * Add into the mix: Russia’s aggression in Ukraine & Syria.
     _key: card-3-d2a6a133-9d6f-4221-9704-7f0c04c372d2
   - order: 3
-    body: "## The New Cold War?\n\n“Look, we want to work with Russia, but **this type of an action cannot be tolerated**. The United States is responding to Russia’s action a\x14 as I called it, brazen and reckless…You know, the ball is in their court with respect to how they want to respond.”\n\nWhite House Principal Deputy Press Secretary Raj Shah, March 26, 2018"
+    useCheckmark: false
+    body: "## The New Cold War?\n\n“Look, we want to work with Russia, but**this type of an action cannot be tolerated**. The United States is responding to Russia’s action a\x14 as I called it, brazen and reckless…You know, the ball is in their court with respect to how they want to respond.”\n\nWhite House Principal Deputy Press Secretary Raj Shah, March 26, 2018"
     _key: card-4-cc1dbb00-6689-49c2-9c2d-5cb5e0818cee
   - order: 4
+    useCheckmark: true
     body: >-
       While important, this tit-for-tat expulsion of diplomats isn't new - It
       dates back to the *first* Cold War. Read More:

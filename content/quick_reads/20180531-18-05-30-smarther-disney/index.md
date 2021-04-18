@@ -20,6 +20,7 @@ card_series: Travel
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       SmartHER Adventure:  
 
@@ -34,6 +35,7 @@ cards:
     citation: Flip For Tips
     _key: card-1-288eae0c-ac28-403f-b0d0-a10cbf42e443
   - order: 1
+    useCheckmark: false
     body: >-
       > “I am firmly convinced that Disney World pumps Oxytocin into the air.
       While you’re there, there are moments you swear ‘We ARE NEVER DOING THIS
@@ -44,6 +46,7 @@ cards:
       a natural hormone that causes you to forget the pain of childbirth.)
     _key: card-2-618155db-529a-4460-91f7-ca952af6cec9
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Key To Happiness
 
@@ -56,6 +59,7 @@ cards:
       every 20-30 mins for kiddos & parents.
     _key: card-3-32891481-8601-4d2a-8857-1539d45e1e5b
   - order: 3
+    useCheckmark: false
     body: >-
       > “…sometimes getting in lines for a Disney ride will feel only marginally
       less pleasant than standing in line for TSA and probably closer to the
@@ -70,6 +74,7 @@ cards:
       Info](https://disneyworld.disney.go.com/faq/fast-pass-plus/product-description/)
     _key: card-4-3d26a06c-4400-4c91-9088-140aec23abfc
   - order: 4
+    useCheckmark: false
     body: >-
       > “…the only people who say ‘My family is going to eat healthy at Disney’
       have clearly never been to Disney.”  
@@ -84,6 +89,7 @@ cards:
       Flip For A Tasty Tip
     _key: card-5-04f46b40-97ff-460e-9f36-c3e4ce67da7b
   - order: 5
+    useCheckmark: false
     body: >-
       ## “Donuts are absolutely required. Doctor’s orders.”
 
@@ -96,6 +102,7 @@ cards:
       Dr. Darria shares more of her tips on our source page. It's a must-read!
     _key: card-6-f1bf9544-4e57-497d-9a63-44f91efe1167
   - order: 6
+    useCheckmark: true
     body: >-
       Take a trip recently? Have tips to share? We'd love to hear them and
       feature you on SmartHERNews.com & across our social media platforms. Email

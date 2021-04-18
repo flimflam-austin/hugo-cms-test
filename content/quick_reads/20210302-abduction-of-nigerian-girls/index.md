@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## KIDNAPPED
 
@@ -33,9 +34,11 @@ cards:
       What Happened. Why It Matters.
     _key: 97d463aaf954
   - order: 1
-    body: "## What Happened:\n\n* Feb 26: **317 girls kidnapped in the middle of the night** from a boarding school in northern Nigeria. **Kidnappers unknown**\_at this time.\n* Education in Nigeria is a challenge, particularly in the north where Islamic terrorist groups have gained strength.\n* UNICEF cites geography, poverty, “insurgency” and property damage as reasons _“one in every five of the world’s out-of-school children is in Nigeria.”_"
+    useCheckmark: false
+    body: "## What Happened:\n\n* Feb 26:**317 girls kidnapped in the middle of the night** from a boarding school in northern Nigeria.**Kidnappers unknown**\_at this time.\n* Education in Nigeria is a challenge, particularly in the north where Islamic terrorist groups have gained strength.\n* UNICEF cites geography, poverty, “insurgency” and property damage as reasons_“one in every five of the world’s out-of-school children is in Nigeria.”_"
     _key: 379f1aa4651e
   - order: 2
+    useCheckmark: false
     body: >-
       > “I couldn’t get to there to save her because the kidnappers were
       shooting everywhere.”
@@ -47,6 +50,7 @@ cards:
       reached the Government Girls Secondary School.
     _key: b0861fe3fd00
   - order: 3
+    useCheckmark: false
     body: >-
       > “Kidnapping for ransom is now the most thriving industry in Nigeria.”
 
@@ -59,19 +63,21 @@ cards:
       boomerang disastrously," encouraging more crime.
     _key: a5944ce4c955
   - order: 4
+    useCheckmark: false
     body: >-
       ## Context
 
 
       * **“Bring Back Our Girls”**: In 2014, Islamic terrorist group Boko Haram
       kidnapped 276 school girls in Nigeria, igniting international outrage.
-      While some girls escaped, **100+ remain missing**.
+      While some girls escaped,**100+ remain missing**.
 
       * **Not Just Girls:** 300+ boys were kidnapped in December. Dozens of boys
       were kidnapped days before this recent kidnapping of girls; some have
       already been released.
     _key: bda008fa4413
   - order: 5
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -85,6 +91,7 @@ cards:
       The Wall Street Journal
     _key: e64c33a38bdc
   - order: 6
+    useCheckmark: true
     body: >-
       While the Nigerian gov't (federal & local) denies paying ransom, it's
       common belief that they do. Kidnapping school children is not unique to

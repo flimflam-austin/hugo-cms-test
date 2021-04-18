@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       FEAR VS. FACT:  
 
@@ -33,6 +34,7 @@ cards:
       Duh-Nuh, duh-nuh...
     _key: card-1-c3019947-7bcf-4d4f-8715-fdb658ef77dc
   - order: 1
+    useCheckmark: false
     body: >-
       1 in 3,748,067:  
 
@@ -52,6 +54,7 @@ cards:
       Odds](https://www.floridamuseum.ufl.edu/shark-attacks/odds/compare-risk/death/)
     _key: card-2-09e72514-5425-436c-b2fa-0ea9a3350c85
   - order: 2
+    useCheckmark: false
     body: >-
       ## JULY SHARK INCIDENTS:
 
@@ -64,12 +67,13 @@ cards:
       * **San Clemente, CA:** Great white spotted feeding on dead whale.
     _key: card-3-ca6c0d60-9ac1-4ac2-b6ae-2a51211cac8f
   - order: 3
+    useCheckmark: false
     body: >-
       ## OK, Deep Breath…
 
 
-      * Last year in the US, there were **53 unprovoked, shark attacks**, in
-      line with the 5-year average.
+      * Last year in the US, there were**53 unprovoked, shark attacks**, in line
+      with the 5-year average.
 
       * **NONE of the attacks were fatal**.
 
@@ -78,6 +82,7 @@ cards:
       killed each year by fisheries.
     _key: card-4-0a698a3b-e62c-424b-9afc-912a3607a7e0
   - order: 4
+    useCheckmark: true
     body: >-
       If the long odds of a shark attack don't comfort you, there are a few tips
       to survive an attack - why "acting big" not "playing dead" is key. Read

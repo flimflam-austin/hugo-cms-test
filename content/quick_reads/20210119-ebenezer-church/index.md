@@ -19,6 +19,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # America’s Freedom Church
 
@@ -27,6 +28,7 @@ cards:
       of the Senate’s newest members.
     _key: e052d9f38c6c
   - order: 1
+    useCheckmark: false
     body: >-
       ## Ebenezer Baptist Church:
 
@@ -43,6 +45,7 @@ cards:
       1960.
     _key: 81fbee1eca4d
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Church Building
 
@@ -55,10 +58,11 @@ cards:
       * Several renovations & expansion projects have occurred since, but the
       location has not changed.
 
-      * The church is now part of the **MLK Jr. National Historic Site**, which
+      * The church is now part of the**MLK Jr. National Historic Site**, which
       includes the King family home and MLK’s gravesite.
     _key: 05b3a8b04547
   - order: 3
+    useCheckmark: false
     body: >-
       ## Then & Now
 
@@ -75,6 +79,7 @@ cards:
       first Black senator from the state.
     _key: 4201605aa3cb
   - order: 4
+    useCheckmark: false
     body: >-
       ## Ebenezer Baptist Church: America’s Freedom Church
 
@@ -88,6 +93,7 @@ cards:
       Rev. Dr. Raphael Warnock.
     _key: 0ae70c1281b5
   - order: 5
+    useCheckmark: true
     body: >-
       The very first federally-recognized Martin Luther King Jr. Day was
       celebrated at Ebenezer Baptist Church with a ceremony between King's wife,

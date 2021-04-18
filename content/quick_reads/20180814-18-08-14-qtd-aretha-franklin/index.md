@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > _ "What’s your beauty regime "_  
         
@@ -30,6 +31,7 @@ cards:
     citation: Aretha Franklin
     _key: card-1-9059685b-d418-4b3f-81cf-201345c9cb96
   - order: 1
+    useCheckmark: true
     body: >-
       Queen of Soul Aretha Franklin became the first woman inducted into the
       Rock & Roll Hall of Fame. Famous for songs like Respect, Franklin said she

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## QUICK QUOTES
 
@@ -33,6 +34,7 @@ cards:
       for her confirmation.
     _key: card-1-8b5cd393-8651-4786-b6cd-ed8be2d7460d
   - order: 1
+    useCheckmark: false
     body: >-
       > “There’s something I’d like to say about the tragedy Friday at Santa Fe
       High School…. I’m so sick of moments of silence! It’s not working! …. So
@@ -47,6 +49,7 @@ cards:
       Now](https://www.youtube.com/embed/B41XUP-ivL8?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-51b10285-51e1-4729-ada3-064dc3f1c187
   - order: 2
+    useCheckmark: false
     body: >-
       > "‘Recently, I’ve changed my mind about the biggest challenge that the
       world faces. I think now it’s a human rights problem and it is the
@@ -57,6 +60,7 @@ cards:
       opposed to what he said in 1999 (wealth disparity).
     _key: card-3-9ee63d80-9c5e-48dd-b164-f3df31034e31
   - order: 3
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-05-22-quick-quotes/)'
     _key: card-10-7bfbf031-5d34-4e3f-b865-02208318f313
 

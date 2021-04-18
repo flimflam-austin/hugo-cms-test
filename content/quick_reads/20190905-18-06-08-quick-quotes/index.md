@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "I don’t think I have to prepare very much. It’s about attitude. It’s
       about willingness to get things done."  
@@ -31,6 +32,7 @@ cards:
       U.S. relations, economic investment & even a White House visit.
     _key: card-1-36c02e95-f967-4b74-b9bb-6931cb01b5ff
   - order: 1
+    useCheckmark: false
     body: >-
       > “We won the Stanley Cup. That’s all that matters. We won it. It doesn’t
       matter how we played or what happened before.”  
@@ -42,6 +44,7 @@ cards:
       city of Washington's first major sports championship since 1992.
     _key: card-2-5d46cd7b-7971-4824-b059-210e577f0d51
   - order: 2
+    useCheckmark: false
     body: >-
       > "I don’t believe Mrs. Trump has ever discussed her thoughts on anything
       with Mr. Giuliani."  
@@ -53,6 +56,7 @@ cards:
       regarding his alleged affair with Stormy Daniels.
     _key: card-3-b1c29111-b0d3-4bc0-9b8f-0aba8299023e
   - order: 3
+    useCheckmark: false
     body: >-
       > “This should serve as a very good deterrent not only for them but for
       other potential bad actors.”  
@@ -64,6 +68,7 @@ cards:
       then misled U.S. regulators about it.
     _key: card-4-743741d0-fff0-401b-85e7-0437550c5752
   - order: 4
+    useCheckmark: false
     body: >-
       > “I never gave up hope. Now I can’t tell you that everyday was a good
       day, but there was not a day that I could tell you that I was hopeless.”  
@@ -74,6 +79,7 @@ cards:
       years of her sentence before she was released from prison on Wednesday.
     _key: card-5-91f88f54-4c43-45a5-bb1e-0dcc60912bd3
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-06-08-quick-quotes/)'
     _key: card-10-a575f73a-63bb-4dae-95f9-eccac8215e56
 

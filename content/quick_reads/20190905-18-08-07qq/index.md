@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “They obviously liked the metal festival.”  
         
@@ -33,6 +34,7 @@ cards:
       Rock On
     _key: card-1-ee269cb9-92fe-487f-9269-70a19f2cf49a
   - order: 1
+    useCheckmark: false
     body: >-
       > "That’s not realistic. I can’t do that."  
         
@@ -43,6 +45,7 @@ cards:
       piece addressing: ‘Snapchat dysmorphia.
     _key: card-2-8cac5419-c685-4f9e-ad36-c44747afc957
   - order: 2
+    useCheckmark: false
     body: >-
       > “Look, we have a heavy heart. Our souls are burdened. We are a better
       city."  
@@ -53,6 +56,7 @@ cards:
       non-fatal shootings in America's third-largest city.
     _key: card-3-cc26ad51-32fe-42f9-b221-b2120b7f3097
   - order: 3
+    useCheckmark: false
     body: >-
       > “Yes.”  
         
@@ -66,6 +70,7 @@ cards:
       [SHN Refresher](https://smarthernews.com/18-07-31-manafort/)
     _key: card-4-5f4fce20-2763-4804-b83a-81c11f56509a
   - order: 4
+    useCheckmark: true
     body: |-
       Have a great day!
 

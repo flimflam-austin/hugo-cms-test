@@ -20,13 +20,14 @@ card_series: Entertainment
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       TOP FIGHTER…  
 
       FACING CHARGES
 
 
-      29-year-old Irish Fighter Conor McGregor **under arrest** in NYC.
+      29-year-old Irish Fighter Conor McGregor**under arrest** in NYC.
 
 
       One of the biggest names in international sports…the first UFC fighter to
@@ -39,6 +40,7 @@ cards:
     citation: 'Watch Attack Here:'
     _key: card-1-1e210730-fcfa-4d75-a75d-92a3752b14dd
   - order: 1
+    useCheckmark: false
     body: >-
       ## UFC President Dana White called it “the most disgusting thing that has
       ever happened in history of the company.”
@@ -54,6 +56,7 @@ cards:
     citation: Watch Now
     _key: card-2-b5763dba-95f6-414a-9659-b7988a8a9b1d
   - order: 2
+    useCheckmark: false
     body: >-
       Will Face Charges…  
 
@@ -69,6 +72,7 @@ cards:
       McGregor to the Los Angeles Times, August 2017
     _key: card-3-4a016b4c-1db6-420b-8372-49591204a7db
   - order: 3
+    useCheckmark: true
     body: >-
       Although McGregor (21-3) hasn't fought in the UFC since he won the
       lightweight belt in November 2016, he reportedly made $140M from his

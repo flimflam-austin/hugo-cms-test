@@ -20,31 +20,34 @@ card_series: Sports
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## NFL: Players Must Stand
 
 
       Days ahead of Memorial Day, NFL announces new policy on national anthem.
-      Turns out the ***new*** policy isn’t really ***new* **at all.
+      Turns out the ***new*** policy isn’t really ***new***at all.
 
 
       Why Now?
     _key: card-1-6ca4bb83-1804-4a52-a1b6-d3d9df864d90
   - order: 1
+    useCheckmark: false
     body: >-
       ## Important Context:
 
 
-      * NFL players didn’t always come on the field for the national anthem –
-      **only since 2009.**
+      * NFL players didn’t always come on the field for the national anthem
+      –**only since 2009.**
 
       * “New policy” allows players to choose to yet again NOT go on the field
       for the national anthem.
 
-      * *If* on the field, players must **“stand and show respect”** during the
-      anthem or **face a league fine & possibly a fine from the team.**
+      * *If* on the field, players must**“stand and show respect”** during the
+      anthem or**face a league fine & possibly a fine from the team.**
     _key: card-2-fb025e2d-5470-4598-8763-ea314a11c827
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Now?
 
@@ -58,6 +61,7 @@ cards:
       boycotted the NFL because of the players on-field protests.
     _key: card-3-f45c36ea-2839-4915-bfca-2b3908eca95e
   - order: 3
+    useCheckmark: false
     body: >-
       > “This is fear of a diminished bottom line. It’s also fear of a president
       turning his base against a corporation. This is not patriotism. Don’t get
@@ -70,6 +74,7 @@ cards:
       outspoken critic of President Trump.
     _key: card-4-2737f074-bd9b-4580-8d1d-ee12b5ff4503
   - order: 4
+    useCheckmark: true
     body: >-
       Different sports have different policies for player etiquette during the
       national anthem. The NBA has a strict one - and Nascar - none at all.

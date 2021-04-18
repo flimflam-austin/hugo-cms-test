@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “_I hope to be a person of service, empathy, kindness because I think
       those are some ofA the fundamental things people need in this world right
@@ -28,6 +29,7 @@ cards:
     citation: Sarah Zorn
     _key: card-1-44568817-974f-4149-b17f-adbf5a198b02
   - order: 1
+    useCheckmark: true
     body: >-
       In May 2018, Zorn (21) became the 1st female 'commander of cadets'
       (highest ranking cadet officer) in the military college's 175-year

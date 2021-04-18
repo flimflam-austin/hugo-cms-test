@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       "They didn’t win. The entirety of the World Trade Center is more beautiful
       than it used to be."  
@@ -32,6 +33,7 @@ cards:
       the UN Universal Declaration of Human Rights.
     _key: card-1-4c214329-e5d6-4242-9ff3-48aa5a9e07d6
   - order: 1
+    useCheckmark: false
     body: >-
       > “To the incredible citizens of North Carolina, South Carolina and the
       entire East Coast – the storm looks very bad! Please take all necessary
@@ -43,6 +45,7 @@ cards:
       Hawaii.
     _key: card-2-fa585af2-3796-4cad-8dc0-bc7c27f357ab
   - order: 2
+    useCheckmark: false
     body: >-
       > "It is absurd to imagine my husband engaging in espionage by researching
       archival documents more than 100 years old for a history dissertation. He
@@ -54,6 +57,7 @@ cards:
       Rights Group just appealed for his release.
     _key: card-3-56bfddd6-35ad-437e-9cba-05c131346af8
   - order: 3
+    useCheckmark: false
     body: >-
       > “Who wants to take it? C’mon hurry! You gotta go fast!”  
         
@@ -68,6 +72,7 @@ cards:
       Now](https://www.youtube.com/embed/qhejwuDLr24?enablejsapi=1&autoplay=1&rel=0)
     _key: card-4-e909b2b1-3c1c-458e-a39a-aecb0a87b680
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-09-11-qq/)'
     _key: card-10-cc0daf57-496b-4c6d-ae54-063fd56bd684
 

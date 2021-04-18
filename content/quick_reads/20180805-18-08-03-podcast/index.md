@@ -20,13 +20,14 @@ card_series: Podcast
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## CATCH-UP WITH JENNA
 
 
       > 3 SmartHER stories:  
 
-      **Wages**, **Rages** & **Russians.A** Plus, a profile on a lifesaving
+      **Wages**,**Rages** &**Russians.A** Plus, a profile on a lifesaving
       company you won’t hear anywhere else.
 
 
@@ -34,6 +35,7 @@ cards:
       Listen:](http://smarthernews.libsyn.com/smarther-podcast-ep-8-a-remarkable-invention-news-to-know)
     _key: card-1-1faf5d56-328e-4165-b922-fbfd116cacaf
   - order: 1
+    useCheckmark: true
     body: >-
       We want to hear from you - call us, email us, send a telegram:
       Info@SmartHERNews.com. Also sign up for our newsletter and get everything,

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       What's next? Many reunited families will be deported, while others may
       seek asylum, but remember, in June Attorney General Sessions said gang &

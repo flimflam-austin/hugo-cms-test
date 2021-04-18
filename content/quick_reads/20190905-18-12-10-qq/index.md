@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “A winter storm’s not a Christmas carol snow. It’s serious.”  
         
@@ -29,6 +30,7 @@ cards:
       without power.
     _key: card-1-48b81594-a3de-49c6-9807-537a99ff15c9
   - order: 1
+    useCheckmark: false
     body: >-
       > “People don’t want to stop because we want the President to go.”  
         
@@ -38,6 +40,7 @@ cards:
       nation Monday.
     _key: card-2-6aba77e7-8ce9-422f-92cc-47c82817e41a
   - order: 2
+    useCheckmark: false
     body: >-
       > "When I say if this deal does not pass we would truly be in uncharted
       waters, I hope people understand this is what I genuinely believe and fear
@@ -49,6 +52,7 @@ cards:
       March 29.
     _key: card-3-962de07b-7636-4348-acdf-1f0f20e11da1
   - order: 3
+    useCheckmark: false
     body: >-
       > “It’s possible that we would be interested. If they were going to sell a
       plant or not use it that we would take it over.”  
@@ -60,6 +64,7 @@ cards:
       matter of great debate.
     _key: card-4-02240417-2464-49ec-939a-670cbb6d1cc6
   - order: 4
+    useCheckmark: false
     body: >-
       > “Imagine the loyalty of hanging in in the worst of circumstances and
       being here waiting.”  
@@ -71,6 +76,7 @@ cards:
       Anatolian shepherd mix was given water and food regularly.
     _key: card-5-0c70433c-7edf-4cfd-a553-39333de8c581
   - order: 5
+    useCheckmark: true
     body: |-
       Have a good week!
 

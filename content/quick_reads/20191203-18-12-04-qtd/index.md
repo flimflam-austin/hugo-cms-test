@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“The light of the menorah reminds us that when the forces of light and
       good encounter darkness and hate, without fail, light will always
@@ -27,6 +28,7 @@ cards:
     citation: Rabbi Aaron Konikov
     _key: card-1-ce53c537-8b18-4184-931f-1431fb77f69b
   - order: 1
+    useCheckmark: true
     body: >-
       On the first night of Hanukkah, the 11 officers who responded to the
       shooting at the Tree of Life Synagogue in Pittsburgh - the worst attack

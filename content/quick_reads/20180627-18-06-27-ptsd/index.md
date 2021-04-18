@@ -20,18 +20,20 @@ card_series: Health
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## PTSD Awareness Day
 
 
-      Half of Americans will experience a traumatic event in their lives, yet
-      **women are MORE than 2X** as likely as men to develop Post-Traumatic
+      Half of Americans will experience a traumatic event in their lives,
+      yet**women are MORE than 2X** as likely as men to develop Post-Traumatic
       Stress Disorder.
 
 
       Can magnets help?
     _key: card-1-0669e4b1-2847-400e-9dfc-4a4afed1b22d
   - order: 1
+    useCheckmark: false
     body: >-
       ## PTSD
 
@@ -41,11 +43,12 @@ cards:
       disasters
 
 
-      **What makes PTSD – PTSD?**: Direct relation to a **specific** traumatic
+      **What makes PTSD – PTSD?**: Direct relation to a**specific** traumatic
       event. Disorder tracked back to a moment in time – trauma reoccurs in the
       person who suffers.
     _key: card-2-3a2b6955-841c-4813-b03f-77ccb7863408
   - order: 2
+    useCheckmark: false
     body: >-
       # Why Is PTSD More Prevalent in Women?
 
@@ -60,6 +63,7 @@ cards:
       Treatment: Flip
     _key: card-3-532ac684-b13d-4a8b-8208-dfd195cd82ea
   - order: 3
+    useCheckmark: true
     body: >-
       What's the latest innovation to treat PTSD? Magnets used for depression -
       "An electromagnet, essentially a wire wrapped around a solid coil, is

@@ -20,6 +20,7 @@ card_series: Finding America
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # National Park Week
 
@@ -34,6 +35,7 @@ cards:
       Today in 2008
     _key: card-1-708beeef-e556-4892-a37d-77b23aeb6f42
   - order: 1
+    useCheckmark: false
     body: >-
       ## The History
 
@@ -50,6 +52,7 @@ cards:
       Service (NPS).
     _key: card-2-3809006a-d30d-47a7-8fa9-a93a7636e57d
   - order: 2
+    useCheckmark: false
     body: >-
       ## NPS By the Numbers:
 
@@ -67,6 +70,7 @@ cards:
       **417:** NPS sites, including 59 national parks & 87 national monuments
     _key: card-3-19c1a4a9-fff2-4b49-97fe-307016937d18
   - order: 3
+    useCheckmark: false
     body: >-
       > ‘We were the first nation in the history of mankind to say that the most
       special places should be set aside not for royalty, not for the rich, not
@@ -78,6 +82,7 @@ cards:
       Best Idea’, to USA Today in 2008
     _key: card-4-79390ddf-f65b-465f-86a3-693a5a6be204
   - order: 4
+    useCheckmark: true
     body: >-
       National Park Week begins this Saturday, April 21 and runs through April
       29. On Saturday, all 417 national parks sites will offer free admission.

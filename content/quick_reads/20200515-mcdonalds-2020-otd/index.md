@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## May 15, 1940
 
@@ -31,6 +32,7 @@ cards:
       no “Ronald.”
     _key: cedf34780716
   - order: 1
+    useCheckmark: false
     body: >-
       “At first it was a struggle and we didn’t know where our next cent was
       coming from. But we believed in our enterprise.”  
@@ -42,6 +44,7 @@ cards:
       dog stand, & later opened a restaurant in San Bernadino.
     _key: 2344eb6b8e77
   - order: 2
+    useCheckmark: false
     body: >-
       ## Did You Know….
 
@@ -56,6 +59,7 @@ cards:
       franchise operator & buys the business in 1961.
     _key: 27c8952b87cb
   - order: 3
+    useCheckmark: false
     body: >-
       > “I was an overnight success alright, but 30 years is a long, long
       night.”
@@ -68,6 +72,7 @@ cards:
       program continues today.
     _key: 4eecb50f94ff
   - order: 4
+    useCheckmark: true
     body: >-
       The world's largest fast food restaurant (by sales) just released guidance
       to its franchise owners in light of COVID-19. Some suggestions? Touchless

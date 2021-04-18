@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--bronze'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Lady Doritos?
 
@@ -35,9 +36,11 @@ cards:
       [Listen to the Podcast](http://freakonomics.com/podcast/indra-nooyi/%20)
     _key: card-1-b7345717-81f2-4434-8600-cf5369fb0802
   - order: 1
+    useCheckmark: false
     body: "# Reaction Wasn’t Good\n\n> The controversy ended when Doritos recanted on Monday:  \n  \n  \n“**_We already have Doritos for women a\x14 they’re called Doritos, and they’re loved by millions_**.”\n\n[@Doritos Tweet](https://twitter.com/Doritos/status/960668947812093952)"
     _key: card-2-313b95fe-3927-4e63-a4b9-eef40815846d
   - order: 2
+    useCheckmark: false
     body: >-
       # Why Target Female Consumers?
 
@@ -53,6 +56,7 @@ cards:
       Dhanusha Sivajee, XO Group Inc.
     _key: card-3-25f22fbe-5b01-434f-88aa-038594e43363
   - order: 3
+    useCheckmark: false
     body: >-
       # No “Girl Chip”…But…
 
@@ -67,6 +71,7 @@ cards:
       Pen](https://www.amazon.com/BIC-Fashion-Retractable-Assorted-Fashion-FHAP21-ASST/dp/B005YGLA5Y)
     _key: card-4-1a3525da-8725-4053-b261-8caf15fcc7f0
   - order: 4
+    useCheckmark: false
     body: >-
       # FEMALE-FOCUSED PRODUCTS STILL ON THE MARKET:
 
@@ -78,6 +83,7 @@ cards:
       Women](https://www.google.com/shopping/product/4524234291918787101?%20)
     _key: card-5-8cfad2c0-16f4-47ca-8da3-aab66da3339a
   - order: 5
+    useCheckmark: false
     body: >-
       # FEMALE-FOCUSED PRODUCTS STILL ON THE MARKET:
 
@@ -89,6 +95,7 @@ cards:
       Kit](https://www.homedepot.com/p/KING-Complete-Household-Pink-Tool-Kit-with-Bag-24-Piece-3111-0/303967535)
     _key: card-6-7d30bb65-b479-4db5-8d28-4417b88ec134
   - order: 6
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-02-07-lady-doritos/)'
     _key: card-10-6d5a20cc-31e1-4714-a1ae-7e9bfef67bf5
 

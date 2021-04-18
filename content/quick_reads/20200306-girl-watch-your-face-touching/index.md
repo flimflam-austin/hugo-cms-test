@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## Girl…Watch Your Face!
 
@@ -29,6 +30,7 @@ cards:
     citation: MORE THAN YOU THINK
     _key: bc75f04d8d84
   - order: 1
+    useCheckmark: false
     body: >-
       ## “I haven’t touched my face in weeks…in weeks! I miss it!”
 
@@ -38,6 +40,7 @@ cards:
       coronavirus and other illnesses.
     _key: 3b95eb034bea
   - order: 2
+    useCheckmark: false
     body: >-
       ## SCHOOL
 
@@ -53,6 +56,7 @@ cards:
       (nose, mouth, eyes).
     _key: 0295d2931761
   - order: 3
+    useCheckmark: false
     body: >-
       ## WORK
 
@@ -66,6 +70,7 @@ cards:
       hour or 125.6 times during an 8-hour period.
     _key: c169d0bdad26
   - order: 4
+    useCheckmark: false
     body: >-
       ## OUT AND ABOUT
 
@@ -81,18 +86,20 @@ cards:
       available.
     _key: 8cd126810537
   - order: 5
+    useCheckmark: false
     body: >-
-      “We therefore suggest a **shift** in the focus of the recommendations
+      “We therefore suggest a**shift** in the focus of the recommendations
       issued during outbreaks toward ensuring that individuals understand how
-      self-inoculation occurs and **thus avoid touching their faces**… Although
-      built on the influenza pandemic experience, this suggestion should be
-      **equally relevant for other respiratory pathogens that can be the source
-      of severe outbreaks**.”
+      self-inoculation occurs and**thus avoid touching their faces**… Although
+      built on the influenza pandemic experience, this suggestion should
+      be**equally relevant for other respiratory pathogens that can be the
+      source of severe outbreaks**.”
 
 
       Dr. Wladimir Alonso, NIH
     _key: 2a32a903f940
   - order: 6
+    useCheckmark: true
     body: >-
       Researchers suggest reminding people to wash their hands to prevent
       illness is good, but telling them to stop touching their faces may

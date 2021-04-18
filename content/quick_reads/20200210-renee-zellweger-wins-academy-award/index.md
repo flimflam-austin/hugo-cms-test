@@ -20,10 +20,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: '> _“…great things come out of adversity.”_'
     citation: RENÉE ZELLWEGER
     _key: 941ccc032171
   - order: 1
+    useCheckmark: true
     body: >-
       Zellweger won the Academy Award for Best Actress. In her acceptance speech
       Sunday night, the Texas native thanked her immigrant parents, from Norway

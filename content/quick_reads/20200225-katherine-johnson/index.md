@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## _“Follow your passion. Whatever you’re doing, do your best at all times
       and make it as correct as possible_.”
     citation: KATHERINE JOHNSON
     _key: 99e21fcbb5b1
   - order: 1
+    useCheckmark: false
     body: >-
       At 101, Katherine Johnson, the former NASA mathematician and “human
       computer” who helped develop human spaceflight in America, died Monday.
@@ -38,6 +40,7 @@ cards:
       mathematicians impacted the Space Race in the 1960s.
     _key: d523e51b2e2b
   - order: 2
+    useCheckmark: false
     body: >-
       “She was an American hero and her pioneering legacy will never be
       forgotten.”
@@ -51,6 +54,7 @@ cards:
       more than 30 years.
     _key: 605da63eb5a9
   - order: 3
+    useCheckmark: false
     body: >-
       “Get the girl. If she says they’re good, then I’m ready to go.”
 
@@ -60,6 +64,7 @@ cards:
       his flight as the first American to orbit the earth.
     _key: 3343eb49b668
   - order: 4
+    useCheckmark: true
     body: >-
       Earlier this month, NASA marked the return of astronaut Christina Koch,
       who set the record for the longest spaceflight by a woman after spending

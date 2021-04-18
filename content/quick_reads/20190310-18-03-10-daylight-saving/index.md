@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Spring Forward!
 
@@ -32,6 +33,7 @@ cards:
       WHY DO WE DO THIS?
     _key: card-1-de97249b-afa4-4184-96c2-d7af35a45d3d
   - order: 1
+    useCheckmark: false
     body: |-
       # The Backstory
 
@@ -43,6 +45,7 @@ cards:
       * 2007: expanded to encompass 65% of the year (about 8 months).
     _key: card-2-450a0809-20b2-4fad-866c-afdd992085d0
   - order: 2
+    useCheckmark: false
     body: >-
       ## More Sunshine All Year?
 
@@ -52,10 +55,11 @@ cards:
       Congress to make Daylight Savings year round.
 
       * FL state lawmakers passed a bill last year for year-round Daylight
-      Savings Time in their state However, it **will take an act of Congress**
-      to make the change.
+      Savings Time in their state However, it**will take an act of Congress** to
+      make the change.
     _key: card-3-95c9c986-08ac-4ed4-9a48-507c55d6df9d
   - order: 3
+    useCheckmark: false
     body: >-
       > ‘Studies have shown many benefits of a year-round Daylight Saving Time,
       which is why Florida’s legislature overwhelmingly voted to make it
@@ -67,6 +71,7 @@ cards:
       light.
     _key: card-4-9799fe9c-76d8-446b-861b-0ba22698de97
   - order: 4
+    useCheckmark: false
     body: |-
       ## Could The Clock Change Be Bad for Your Health?
 
@@ -82,6 +87,7 @@ cards:
       Details: Source Page
     _key: card-5-fe89aa90-28c5-41bc-84e5-7ccb3bf4de7a
   - order: 5
+    useCheckmark: true
     body: >-
       Arizona, Hawaii & US Territories like Puerto Rico:A don't follow DST. By
       the way, there's a lot of confusion between "Daylight Savings Time" &

@@ -1,9 +1,10 @@
 {
   "main": {
-    "css": "main.css",
-    "js": "main.js"
+    "css": "main.77f8a.css",
+    "js": "main.77f8a.js"
   },
   "": {
-    "keep": "fonts/.keep"
+    "keep": "fonts/.keep",
+    "txt": "main.77f8a.js.LICENSE.txt"
   }
 }

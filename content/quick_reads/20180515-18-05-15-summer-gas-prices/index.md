@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # NEXT STOP: $3
 
@@ -34,6 +35,7 @@ cards:
       I feel like this happens EVERY Summer... Why?
     _key: card-1-4b7e7131-b5d4-4369-aed0-17dfaf4740c7
   - order: 1
+    useCheckmark: false
     body: >-
       U.S. economic growth has boosted demand for oil which means most consumers
       should be able to afford to pay more at the pump, BUT wildcards in
@@ -46,36 +48,39 @@ cards:
       Patrick DeHaan, GasBuddy analyst
     _key: card-2-8485764f-d066-410f-9aad-7ae816dc6e04
   - order: 2
+    useCheckmark: false
     body: >-
       ## WHAT’S TO BLAME?
 
 
-      * **Seasonality:** Federal & state laws **require cleaner, costlier gas.**
+      * **Seasonality:** Federal & state laws**require cleaner, costlier gas.**
 
-      * **Iran:** Reimposing **sanctions may constrict supply** & while we don’t
+      * **Iran:** Reimposing**sanctions may constrict supply** & while we don’t
       get our oil from Iran, Econ 101 says less global supply = higher prices.
 
       * **Saudi Arabia:** World’s largest oil producer signaled it wants oil
-      prices $80-$100/barrel. Oil just toppedA **$70/bbl, a level notA seen
-      since 2014** & upA 50% vs. last year.
+      prices $80-$100/barrel. Oil just toppedA**$70/bbl, a level notA seen since
+      2014** & upA 50% vs. last year.
     _key: card-3-218033f9-f825-4c8d-8296-3973bae19f83
   - order: 3
+    useCheckmark: false
     body: >-
       ## Feeling Tapped Out?
 
 
-      Higher gas prices are on track to **cost Americans an extra $38B** this
-      year, **erasing about one-third of the direct benefit from Pres. Trump’s
+      Higher gas prices are on track to**cost Americans an extra $38B** this
+      year,**erasing about one-third of the direct benefit from Pres. Trump’s
       tax cuts**, Morgan Stanley estimates.
 
 
-      If gas stays at these levels for the year, it’ll **cost the average
+      If gas stays at these levels for the year, it’ll**cost the average
       American household $450 extra**.
 
 
       CLICK: FOR TIPS TO $AVE
     _key: card-4-1c81fdd9-1889-487a-b944-fcb16029bb9a
   - order: 4
+    useCheckmark: true
     body: >-
       It's expected to be the most expensive summer driving season in years --A
       so what can you do to lessen the pain at the pump? Click to learn the best

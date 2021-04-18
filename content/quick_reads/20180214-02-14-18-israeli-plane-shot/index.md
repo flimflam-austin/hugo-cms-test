@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Important Incident
 
@@ -42,6 +43,7 @@ cards:
       Flip For Why It Matters
     _key: card-1-061551c9-1afd-4bd5-92c1-041a591073d3
   - order: 1
+    useCheckmark: false
     body: >-
       # Why It Matters:
 
@@ -57,6 +59,7 @@ cards:
       fire since 1982.
     _key: card-2-f6da81e6-be67-4e1c-a06c-af7c338399be
   - order: 2
+    useCheckmark: false
     body: >-
       IMPORTANT:  
 
@@ -71,6 +74,7 @@ cards:
       * U.S. responded with major bombing campaign.
     _key: card-3-080a425e-799c-4550-a47d-4fbb27849f12
   - order: 3
+    useCheckmark: false
     body: >-
       > ‘The risks are high. There is a new Cold War prevailing in Syria and any
       escalation could pave the way for a regional or international war given
@@ -82,6 +86,7 @@ cards:
       (2/12/18)
     _key: card-4-9999c426-85d8-4f3e-95b1-c4bb5d1773ab
   - order: 4
+    useCheckmark: true
     body: >-
       Bottom Line: Watch Syria. Conflict Continues. Tensions High. Sec of State
       Rex Tillerson in region on unrelated trip.

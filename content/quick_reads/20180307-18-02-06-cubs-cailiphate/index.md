@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## ‘Cubs of The Caliphate’
 
@@ -37,6 +38,7 @@ cards:
       Flip For More
     _key: card-1-bf818772-5604-4750-a42a-727d09be911e
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Happened:
 
@@ -50,6 +52,7 @@ cards:
       killing police officers during training sessions.
     _key: card-2-c86a6b3b-2a06-4a89-b661-6604c90dabe0
   - order: 2
+    useCheckmark: false
     body: >-
       ## Important Facts:
 
@@ -66,23 +69,25 @@ cards:
       Flip For More
     _key: card-3-9428325d-f6ad-4bbb-9d63-321769cdc342
   - order: 3
+    useCheckmark: false
     body: >-
       > “The children were paralyzed by fear of (the ringleader), who they
       understood to have connections to terrorists and who essentially told them
       that a violent fate would befall them if they told anyone what he was
-      doing. **They were too afraid to confide in anyone**.”  
+      doing.**They were too afraid to confide in anyone**.”  
         
         
         
       Commander Dean Haydon, head of the Met Police Counter Terrorism Command
     _key: card-4-a0da7590-3b2a-41ad-964f-175ba86df890
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
 
       Despite the much-discussed territorial defeat of ISIS in places like
-      Syria, their ideology has **no border.**
+      Syria, their ideology has**no border.**
 
 
       The focus on training young children shows ISIS has a “long game”
@@ -92,16 +97,18 @@ cards:
       **The SmartHER question:** Does America have a game plan to counter it?
     _key: card-5-4f96b8d3-e106-4461-81aa-bbbc7ebbdb10
   - order: 5
+    useCheckmark: false
     body: >-
-      > “The poisonous ideas ISIS promotes are being adopted by sympathizers
-      **far away from the battlefields**. This includes the notion that
-      brainwashing children is acceptable.”  
+      > “The poisonous ideas ISIS promotes are being adopted by
+      sympathizers**far away from the battlefields**. This includes the notion
+      that brainwashing children is acceptable.”  
         
         
         
       Thomas Joscelyn, Senior Editor, "The Long War Journal", to SmartHER News
     _key: card-6-c30c5570-3817-4e1e-8a41-6ab3c950b317
   - order: 6
+    useCheckmark: true
     body: |-
       What happens to the 55 children now? Read More Here:
 

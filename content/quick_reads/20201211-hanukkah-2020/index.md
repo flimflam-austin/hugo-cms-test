@@ -19,12 +19,14 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## HANUKKAH
 
       What to know about America’s most popular Jewish holiday
     _key: 6884c2572622
   - order: 1
+    useCheckmark: false
     body: >-
       ## Hanukkah means “dedication” in Hebrew
 
@@ -32,12 +34,13 @@ cards:
       * The story of Hanukkah does not appear in the Torah (24 books of the
       Bible) because the events took place after it was written.
 
-      * The holiday celebrates the rededication of the **Holy Temple** in
+      * The holiday celebrates the rededication of the**Holy Temple** in
       Jerusalem in 2nd century BCE when, after years of suffering oppression and
       religious persecution by the Syrian-Greeks, the Jews took back their
       Temple.
     _key: c7ed93691a7a
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Miracle of Hanukkah  
 
@@ -49,8 +52,8 @@ cards:
 
       * Hanukkah lasts eight nights.
 
-      * The holiday is celebrated by lighting candles on a nine-branched
-      **menorah**.
+      * The holiday is celebrated by lighting candles on a
+      nine-branched**menorah**.
 
       * One more candle is lit each night until all eight are lit on the final
       night.
@@ -58,6 +61,7 @@ cards:
       * The middle (“helper”) candle is used to light the other candles.
     _key: 9444f0e1e604
   - order: 3
+    useCheckmark: false
     body: >-
       ## Hanukkah Today
 
@@ -67,10 +71,11 @@ cards:
       is widely celebrated.
 
       * Besides lighting the menorah nightly, Jewish people eat foods cooked in
-      oil such as **sufganiyot** (jelly doughnuts) & **latkes** (potato
-      pancakes), & children play a **dreidel** (a 4-sided spinning top) game.
+      oil such as**sufganiyot** (jelly doughnuts) &**latkes** (potato pancakes),
+      & children play a**dreidel** (a 4-sided spinning top) game.
     _key: e9befff4775d
   - order: 4
+    useCheckmark: true
     body: >-
       ONE MORE THING: How do you spell it? Depends on whom you ask. According to
       the Oxford English Dictionary, there are 24 English spellings of the

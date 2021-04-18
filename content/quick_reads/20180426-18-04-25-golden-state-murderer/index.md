@@ -20,21 +20,23 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # KILLER CAUGHT?
 
 
-      Alleged **“Golden State Killer”** **arrested** almost 2 months to the day
-      of a much-anticipated book published about his crimes.
+      Alleged**“Golden State Killer”****arrested** almost 2 months to the day of
+      a much-anticipated book published about his crimes.
 
 
       DNA led to arrest onA ‘**National DNAA Day**” – *also* 15-yr anniversary
-      of theA **‘Human Genome Project’** (cutting edge research on genetics).
+      of theA**‘Human Genome Project’** (cutting edge research on genetics).
 
 
       Say What? Flip!
     _key: card-1-70b18547-dd08-4026-b5aa-0282febc17f0
   - order: 1
+    useCheckmark: false
     body: >-
       ## “Golden State Killer”
 
@@ -58,6 +60,7 @@ cards:
       Flip: Who Coined Name
     _key: card-2-d87053c9-d7f6-4a25-ab0e-734b381dfa55
   - order: 2
+    useCheckmark: false
     body: >-
       Michelle NcNamara  
 
@@ -68,7 +71,7 @@ cards:
 
       * **Died in her sleep in 2016** before she could finish book.
 
-      * Death attributed to **prescription drugs she took to help her rest**
+      * Death attributed to**prescription drugs she took to help her rest**
       after working tirelessly on investigation.
 
 
@@ -76,6 +79,7 @@ cards:
       Book](https://www.amazon.com/Ill-Be-Gone-Dark-Obsessive/dp/0062319787/ref=sr_1_1?ie=UTF8&qid=1524707227&sr=8-1&keywords=michelle+mcnamara)
     _key: card-3-13b4208a-6ad8-4801-a6df-5d138d1c0c65
   - order: 3
+    useCheckmark: false
     body: >-
       ## ROLE OF DNA:
 
@@ -86,9 +90,10 @@ cards:
       we don’t know specifics or how they got a “break” in the cold case.  
         
       “The probability of the DNA profiles of two unrelated individuals matching
-      is onA average less than 1 in 1 billion.”A _National Geographic_
+      is onA average less than 1 in 1 billion.”A_National Geographic_
     _key: card-4-c96db3a1-6abb-453a-8536-68bac6592a3c
   - order: 4
+    useCheckmark: true
     body: >-
       A ski mask won’t help you now.- line from Michelle NcNamara's book. Her
       then-husband, a well-known comedian, said shortly after her death: She was

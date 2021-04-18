@@ -20,6 +20,7 @@ card_series: From the President's Desk
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       President Trump Requests  
 
@@ -39,6 +40,7 @@ cards:
       Flip For More
     _key: card-1-50317355-5fb9-411e-accc-bcfad9beceee
   - order: 1
+    useCheckmark: false
     body: >-
       > “Just a few moments ago I signed a memorandum directing the AG to
       propose regulations to ban all devices that turn legal weapons into
@@ -50,13 +52,14 @@ cards:
       President Trump, Remarks, White House, Feb 20, 2018
     _key: card-2-68ef650b-e25a-4533-9996-fe0354f2c022
   - order: 2
+    useCheckmark: false
     body: >-
       ## Presidential Memorandum
 
 
-      Today, **I am directing the Department of Justice** to dedicate all
+      Today,**I am directing the Department of Justice** to dedicate all
       available resources to complete the review of the comments received, and,
-      as expeditiously as possible, **to propose for notice and comment a rule
+      as expeditiously as possible,**to propose for notice and comment a rule
       banning all devices that turn legal weapons into machine guns.**
 
 
@@ -64,6 +67,7 @@ cards:
       Memo](https://www.whitehouse.gov/presidential-actions/presidential-memorandum-application-definition-machinegun-bump-fire-stocks-similar-devices/)
     _key: card-3-e72a42a4-723f-4977-8391-b55d27f0b6f2
   - order: 3
+    useCheckmark: false
     body: >-
       What To Know:  
 
@@ -79,6 +83,7 @@ cards:
       * Reports: not used in recent high school shooting in Florida.
     _key: card-4-26860021-81ed-463f-8e7b-bfecb49d2ee0
   - order: 4
+    useCheckmark: false
     body: >-
       Bump Stocks:  
 
@@ -87,18 +92,19 @@ cards:
 
       * Bipartisan support for regulation of bump stocks.
 
-      * NRA after Las Vegas Shooting: _“The NRA believes that devices designed
-      to allow semi-automatic rifles to function like fully automatic rifles
-      should be subject to additional regulations.”A_
+      * NRA after Las Vegas Shooting:_“The NRA believes that devices designed to
+      allow semi-automatic rifles to function like fully automatic rifles should
+      be subject to additional regulations.”A_
     _key: card-5-ce6b1755-c3ac-4d9e-a7a9-a266153dd70b
   - order: 5
+    useCheckmark: false
     body: >-
       ## To Consider
 
 
-      > ‘…it **may be easier to ban modifications that are not very popular
-      among gun owners**…these **bump-stocks are not popular at all**, because
-      they make guns **highly inaccurate**…’  
+      > ‘…it**may be easier to ban modifications that are not very popular among
+      gun owners**…these**bump-stocks are not popular at all**, because they
+      make guns**highly inaccurate**…’  
         
         
         
@@ -106,6 +112,7 @@ cards:
       2017
     _key: card-6-759d3b1a-ac62-4644-978f-4362df3feb34
   - order: 6
+    useCheckmark: false
     body: >-
       ## Next Issue? Stay Tuned.
 
@@ -118,6 +125,7 @@ cards:
       President Trump, Twitter, Feb 20, 2018, 8:18 pm
     _key: card-7-637cde5d-6523-4a72-8f20-f3ce14312ee8
   - order: 7
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-02-20-bump-stocks/)'
     _key: card-10-4d7478e6-7ff9-419b-a117-1155fd32ca8d
 

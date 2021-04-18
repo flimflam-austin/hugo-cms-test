@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Take Me To Church
 
@@ -30,6 +31,7 @@ cards:
       church and state.
     _key: 8652d6589b82
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Backstory
 
@@ -45,6 +47,7 @@ cards:
       & appealed to the U.S. Supreme Court.
     _key: beb6a3d0ff61
   - order: 2
+    useCheckmark: false
     body: >-
       > “…if Hollywood may host a studio audience or film a singing competition
       while not a single soul may enter California’s churches, synagogues, and
@@ -57,6 +60,7 @@ cards:
       indoors w/ limited capacities.
     _key: '173e04072826'
   - order: 3
+    useCheckmark: false
     body: >-
       > “Justices of this court are not scientists. Nor do we know much about
       public health policy. Yet today the court displaces the judgments of
@@ -70,9 +74,11 @@ cards:
       capacity at 25%.
     _key: 45c0b1b75414
   - order: 4
+    useCheckmark: false
     body: "## Why It Matters\n\n* **Does this ruling reflect a greater legal or social trend? Two points to consider:**\n* _“…the orders marked a_\_**_new display of the eagerness of the court’s conservative wing_**\__to protect religious rights even when officials say public health is at stake.”_ Bloomberg Law\n* _“**Politicians are increasingly trying to restrict core American liberties**, and the courts are a last line of defense.”_ The Wall Street Journal (op-ed)"
     _key: a94a8e604dad
   - order: 5
+    useCheckmark: true
     body: >-
       Almost all CA is in "Tier 1," meaning most Californians haven't been able
       to attend indoor services. The SCOTUS ruling includes new justice Amy

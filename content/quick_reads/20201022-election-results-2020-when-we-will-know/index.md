@@ -20,6 +20,7 @@ card_series: Politics
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # When Will I Know?
 
@@ -31,20 +32,22 @@ cards:
       we *might* not know the results of the 2020 election on Election Day.
     _key: 6d4a53a3661e
   - order: 1
+    useCheckmark: false
     body: >-
       * BIG PICTURE
 
-      * Mail-in, absentee & early voting **laws vary** by state. Many states
+      * Mail-in, absentee & early voting**laws vary** by state. Many states
       expanded these options due to COVID-19.
 
-      * With less than two weeks to go, we’ve already seen an **unprecedented**
+      * With less than two weeks to go, we’ve already seen an**unprecedented**
       number of people casting their votes early or using mail-in & absentee
       ballots, rather than waiting to vote on Election Day.
 
-      * State rules differ on **poll closing times** and when election officials
-      can **begin counting votes** (incl. mail-in ballots).
+      * State rules differ on**poll closing times** and when election officials
+      can**begin counting votes** (incl. mail-in ballots).
     _key: ae56adbf85cd
   - order: 2
+    useCheckmark: false
     body: >-
       ## CAN’T TOUCH THIS
 
@@ -52,18 +55,20 @@ cards:
       * Many swing states have policies that all but ensure delays in results.
 
       * Mail-in ballots can’t be counted until Election Day (Nov. 3) in some
-      states, like **Georgia, Michigan & Wisconsin.**
+      states, like**Georgia, Michigan & Wisconsin.**
 
-      * In **Nevada**, ballots that arrive as late as Nov. 10 may be counted –
-      so long as they are postmarked by Nov. 3.
+      * In**Nevada**, ballots that arrive as late as Nov. 10 may be counted – so
+      long as they are postmarked by Nov. 3.
 
-      * In **Pennsylvania**, absentee ballots received up to Nov. 6 may be
+      * In**Pennsylvania**, absentee ballots received up to Nov. 6 may be
       counted – even if Nov. 3. postmark is unclear.
     _key: 7249e87f9576
   - order: 3
+    useCheckmark: false
     body: "> “The longer it takes for the election results to be known, the greater the risk that they’re going to be questioned and second-guessed, and that we’re going to be that national news story that we really don’t want to be.”\n\nLisa Schaefer, Executive Dir. at County Commissioners Assoc. of Pennsylvania, ahead of this week's U.S. Supreme Court's 4-4 ruling rejecting GOP efforts\_to require absentee ballots be received by Election Day in order to be counted."
     _key: 0f57d5097a2b
   - order: 4
+    useCheckmark: false
     body: >-
       > “A lot of people are worried that if it takes a long time to count,
       people are going to use that to say we can’t trust the results, when in
@@ -75,6 +80,7 @@ cards:
       New York University, on why he believes time preserves election integrity.
     _key: a12fcf91ebdf
   - order: 5
+    useCheckmark: true
     body: >-
       Proceed cautiously with reports of early, absentee, and mail-in voting
       numbers - early reports indicate more Democrats are voting early or by

@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # How Hot is TOO Hot?
 
@@ -30,6 +31,7 @@ cards:
       HOW IT IMPACTS YOU.
     _key: card-1-9286a013-8cfa-4c85-892a-a93a1f81ebd2
   - order: 1
+    useCheckmark: false
     body: >-
       ## “Main takeaway is the economy is doing very well.”A
 
@@ -45,6 +47,7 @@ cards:
       cards, mortgages, auto loans, etc. But savers to benefit.
     _key: card-2-daf8bc47-7bef-40e0-afe5-58b2a8f6f08c
   - order: 2
+    useCheckmark: false
     body: >-
       ## What’s to Blame
 
@@ -60,6 +63,7 @@ cards:
       target.
     _key: card-3-99ef493c-2820-4dd8-b397-9ce8f2254a17
   - order: 3
+    useCheckmark: true
     body: >-
       The Fed began raising rates from 0 at the end of 2015 with the goal to
       bring it to 3% in next few years. We're halfway there with 2 more

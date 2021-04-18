@@ -20,6 +20,7 @@ card_series: Politics
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## DEBATE DAY: 2020
 
@@ -29,6 +30,7 @@ cards:
     citation: LIGHTS, CAMERA, ACTION!
     _key: 4ad16392ac46
   - order: 1
+    useCheckmark: false
     body: >-
       ## The First Televised Debate
 
@@ -36,13 +38,14 @@ cards:
       * **1956 presidential race:** Democrat Adlai Stevenson vs. incumbent
       Republican President Dwight Eisenhower
 
-      * **The candidates didn’t face off against each other.** Instead, **two
+      * **The candidates didn’t face off against each other.** Instead,**two
       surrogates** for their parties debated in a broadcast televised on CBS’s
       “Face the Nation” *only* 2 days before the election.
 
-      * The **surrogates, neither on the ticket, were women.**
+      * The**surrogates, neither on the ticket, were women.**
     _key: 40bc19c42dae
   - order: 2
+    useCheckmark: false
     body: >-
       ## Ladies’ Night
 
@@ -58,6 +61,7 @@ cards:
       * Opinions on who won? Mixed!
     _key: 89894190a80c
   - order: 3
+    useCheckmark: false
     body: >-
       ## Candidates Take The Stage
 
@@ -73,6 +77,7 @@ cards:
       “matinee idol.” He went on to win the election.
     _key: 26d5239cfcf7
   - order: 4
+    useCheckmark: false
     body: >-
       > “Should a presidential election turn on makeup? No, but this one did.”
 
@@ -83,6 +88,7 @@ cards:
       candidate, making him appear less vibrant than his competitor.
     _key: 3769af1e4472
   - order: 5
+    useCheckmark: true
     body: >-
       Tonight's first presidential debate will take place at the Cleveland
       Clinic in front of a limited audience of about 75 people. The second

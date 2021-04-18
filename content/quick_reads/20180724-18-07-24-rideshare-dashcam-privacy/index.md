@@ -20,32 +20,35 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Hidden Cost of Rideshare Apps:  
 
-      Your Privacy? 
+      Your Privacy?
 
 
-      A St. Louis Uber & Lyft driver was fired after he **filmed & secretly
-      live-streamed** hundreds of passengers, but he **won’t face any charges**.
+      A St. Louis Uber & Lyft driver was fired after he**filmed & secretly
+      live-streamed** hundreds of passengers, but he**won’t face any charges**.
 
 
       are you at risk?
     _key: card-1-aa17ce9e-0b16-4530-b3a3-94bdbdae382d
   - order: 1
+    useCheckmark: false
     body: >-
       # What Happened?
 
 
-      * St. Louis driver broadcast videos of passengers **without their
-      knowledge or permission** to his thousands of online subscribers.
+      * St. Louis driver broadcast videos of passengers**without their knowledge
+      or permission** to his thousands of online subscribers.
 
-      * Footage includes **kids, vomiting, smooching & personal chats**.
+      * Footage includes**kids, vomiting, smooching & personal chats**.
 
-      * When passengers complained to Uber, they got a **$5 credit & a promise**
+      * When passengers complained to Uber, they got a**$5 credit & a promise**
       they would be paired with other drivers going forward.
     _key: card-2-bbca28b5-830d-421e-a4fa-ec99e162a7f0
   - order: 2
+    useCheckmark: false
     body: >-
       # Your Rideshare Rights
 
@@ -60,6 +63,7 @@ cards:
       is only required from one party (ie: the recorder).
     _key: card-3-94c2c213-d2df-467a-bdde-e4eb7b2aab25
   - order: 3
+    useCheckmark: false
     body: >-
       > "This is one of those things that’s certainly a breach of our norms, but
       the law might not be a great way to take care of that yet…. That could
@@ -73,6 +77,7 @@ cards:
       right to record.
     _key: card-4-0f3b18dd-d30a-4d4c-a500-5a8d4b04ea3a
   - order: 4
+    useCheckmark: true
     body: >-
       Most rideshare drivers employ dash cams for security purposes and to
       protect against false reviews, but others are ca$hing in by selling their

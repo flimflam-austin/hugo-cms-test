@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “We will never stop looking for you.”
 
@@ -28,6 +29,7 @@ cards:
       us about child trafficking in America.
     _key: 1922059b5412
   - order: 1
+    useCheckmark: false
     body: >-
       ## Operation Not Forgotten
 
@@ -44,11 +46,12 @@ cards:
       * 9 arrests made.
     _key: d8243b63b4aa
   - order: 2
+    useCheckmark: false
     body: >-
       ## Historical Context
 
 
-      * U.S. Marshals: **First *federal* law enforcement agency in U.S.
+      * U.S. Marshals:**First *federal* law enforcement agency in U.S.
       history**.
 
       * 1789: President George Washington appointed 13 Marshals.
@@ -60,6 +63,7 @@ cards:
       to help with missing children cases with local law enforcement.
     _key: e52140cda069
   - order: 3
+    useCheckmark: false
     body: >-
       > “We will never stop looking for you. That’s [the] message. There is no
       more meaningful work that law enforcement does than rescuing children. Our
@@ -72,6 +76,7 @@ cards:
       50 states.
     _key: e0c1da4c2be2
   - order: 4
+    useCheckmark: true
     body: >-
       The U.S. Marshals arrest 361 people on average each day. Famous U.S.
       Marshals include Frederick Douglas, appointed in Washington D.C. in 1877

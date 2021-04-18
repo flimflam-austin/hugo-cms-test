@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # MEMORIAL DAY  
 
@@ -27,10 +28,11 @@ cards:
         
 
 
-      Today we honor the more than **650,000+ Americans** who died in service to
-      our nation, including **9 killed in action** so far this year.
+      Today we honor the more than**650,000+ Americans** who died in service to
+      our nation, including**9 killed in action** so far this year.
     _key: 225d047e64fd
   - order: 1
+    useCheckmark: false
     body: >-
       ## Global War on Terror:  
 
@@ -46,6 +48,7 @@ cards:
       2019 was the deadliest year for U.S. troops in Afghanistan since 2014.
     _key: d619171494ac
   - order: 2
+    useCheckmark: false
     body: >-
       “The international military Coalition is capable and credible because of
       warriors like Juan, Brodie, and Marshal…Our fallen comrades have a legacy
@@ -58,6 +61,7 @@ cards:
       in Iraq in March.
     _key: 8c3695e7a4b0
   - order: 3
+    useCheckmark: false
     body: >-
       ## Wartime Battle Deaths  
 
@@ -75,6 +79,7 @@ cards:
       battle
     _key: 1a1686112320
   - order: 4
+    useCheckmark: true
     body: >-
       DID YOU KNOW? Under the Federal Flag Code, on Memorial Day the U.S. flag
       is flown at half-staff from sunrise until noon and then raised to the top

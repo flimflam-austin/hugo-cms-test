@@ -20,12 +20,14 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## World Autism Awareness Day
 
       Meet Brian, part of the SmartHer News family.
     _key: card-1-195ba9e9-c675-401e-bace-b4d7cb7a884f
   - order: 1
+    useCheckmark: false
     body: >-
       ## Brian Duff
 
@@ -40,6 +42,7 @@ cards:
       more than a few words”, according to a new Boston University study.
     _key: card-2-37593836-49dd-4273-ba6f-e33d468693d4
   - order: 2
+    useCheckmark: false
     body: >-
       > “Even though Brian’s non-verbal, he has a lot to say! People should know
       autism isn’t just people who are good at math, like you see in the movies.
@@ -51,6 +54,7 @@ cards:
       a part of our meetings from the beginning!
     _key: card-3-88e6b82d-9121-4b3d-9c37-6232bb7d2c55
   - order: 3
+    useCheckmark: false
     body: >-
       ## What Is Autism?
 
@@ -65,6 +69,7 @@ cards:
     citation: 'Click Here: Who Started World Autism Awareness Day?'
     _key: card-4-36db770f-21d7-41dc-98cf-76a441dfdf4d
   - order: 4
+    useCheckmark: false
     body: >-
       ## Autism: What We Know
 
@@ -77,6 +82,7 @@ cards:
       autism spectrum disorder (ASD).
     _key: card-5-6fc25217-9259-41d8-9ea4-a96f0ed11dc6
   - order: 5
+    useCheckmark: false
     body: >-
       Autism  
 
@@ -90,6 +96,7 @@ cards:
       delays.
     _key: card-6-3dea2f2b-b2c4-411d-9550-72c7ad6cb8a4
   - order: 6
+    useCheckmark: true
     body: >-
       [view
       sources](https://smarthernews.com/14-04-02-world-autism-awareness-day/)

@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Hooah!
 
@@ -33,7 +34,7 @@ cards:
       ## America’s First Military School Founded
 
 
-      TheA **U.S. Military Academy at West PointA** is America’s oldest
+      TheA**U.S. Military Academy at West PointA** is America’s oldest
       continually occupied military post.
 
 
@@ -41,11 +42,12 @@ cards:
     citation: FLIP HERE FOR MORE
     _key: card-1-2279659d-73d0-4772-8e98-8183f8a231ec
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why “West Point”?
 
 
-      * Dates back to **Revolutionary War**.
+      * Dates back to**Revolutionary War**.
 
       * “West Point” is what George Washington, considered “**the most important
       post in America**“: a plateau on the west bank of the Hudson River.
@@ -58,6 +60,7 @@ cards:
     citation: 'Click This Link: History'
     _key: card-2-fc91dc86-78e5-4fc1-9ad7-91289e042ef6
   - order: 2
+    useCheckmark: false
     body: |-
       ## A Brief History:
 
@@ -70,6 +73,7 @@ cards:
       1976: Enrollment opened to women
     _key: card-3-f32b5473-8a16-4999-9440-53ff1836e01f
   - order: 3
+    useCheckmark: false
     body: |-
       West Point Admissions
 
@@ -82,19 +86,21 @@ cards:
       * Nominated by an approved source (ex: member of Congress)
     _key: card-4-2f32af0f-93c9-448f-acf7-fc649fc8b97a
   - order: 4
+    useCheckmark: false
     body: >-
       ## Life After West Point
 
 
       * Upon graduation, cadets receive a Bachelor of Science degree,
-      commissions in the U.S. Army, and **must serve on active duty for at least
+      commissions in the U.S. Army, and**must serve on active duty for at least
       five years**.
 
       * West Point has forged countlessA leaders, including 2 U.S. Presidents
-      (Grant & Eisenhower), governors, lawmakers, ambassadors, & **18
+      (Grant & Eisenhower), governors, lawmakers, ambassadors, &**18
       astronauts**.
     _key: card-5-d5a0fb85-1a3c-43d1-b033-3e9689f0b1fb
   - order: 5
+    useCheckmark: true
     body: >-
       In 1826, when the West Point superintendent instituted a no-booze policy,
       about 70 cadets decided to bring their own eggnog to the annual X-mas

@@ -20,6 +20,7 @@ card_series: From the President's Desk
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## WHO KEEPS OUR NATION’S TOP SECRETS?
 
@@ -35,6 +36,7 @@ cards:
       BIGGER PICTURE
     _key: card-1-2551ddd8-85b8-4718-9eb0-5b134fb85448
   - order: 1
+    useCheckmark: false
     body: >-
       ## Who Keeps Clearance?
 
@@ -50,6 +52,7 @@ cards:
       certain parts of the world, etc.
     _key: card-2-782eabda-1207-41a4-b2f6-ff268d13ed4b
   - order: 2
+    useCheckmark: false
     body: >-
       ## Bigger Picture:
 
@@ -64,9 +67,11 @@ cards:
       clearance, according to most recent estimates.
     _key: card-3-8dfd31d3-5636-4f26-a97f-e4521339117e
   - order: 3
+    useCheckmark: false
     body: "## Why Revoke Brennan?\n\n> “Mr. Brennan has recently leveraged his status as a former high-ranking official with access to highly sensitive information to make a series of unfounded and outrageous allegations a\x14 wild outbursts on the Internet and television a\x14 about this administration.\"  \n  \n  \n  \nPresident Trump"
     _key: card-4-7bec2b90-b800-4097-aef2-38e74f73239d
   - order: 4
+    useCheckmark: false
     body: >-
       ## John Brennan’s Response:
 
@@ -82,6 +87,7 @@ cards:
       Criticism](https://twitter.com/JohnBrennan/status/1018885971104985093)
     _key: card-5-c2d18b53-31c7-48dd-89a7-3d87e1008da5
   - order: 5
+    useCheckmark: true
     body: >-
       The topic of revoking security clearances came up several weeks ago when
       some, like Brennan criticized the President's meeting with Vladimir Putin.

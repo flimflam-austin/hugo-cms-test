@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # BORDER DISPUTE
 
@@ -32,6 +33,7 @@ cards:
       FLIP FOR LATEST
     _key: card-1-ce2bf9c2-100a-48e9-9d98-f389fc363840
   - order: 1
+    useCheckmark: false
     body: >-
       ## Tuesday Deadline to Reunite Children Under 5
 
@@ -39,24 +41,25 @@ cards:
       * **DOJ: Half will be reunitedA** by court-imposed deadline.
 
       * Last Friday, DOJ asked for more time – only able to identify, locate &
-      vet **54 parents of 102 kids**.
+      vet**54 parents of 102 kids**.
 
       * **Past deadline, now what?A** Judge can impose fines, but admits more
       time needed. ACLU, which brought the lawsuit, says it just wants families
       reunited fast.
     _key: card-2-fc08df97-7de3-4be0-ac18-ab9de661d99c
   - order: 2
+    useCheckmark: false
     body: >-
       ## Judge Rejects Request to Hold Children Longer
 
 
-      * Decree states children in immigration detention **not be held more than
+      * Decree states children in immigration detention**not be held more than
       20 days**.
 
-      * Admin now may have 2 options: **release the family or split them up** -A
+      * Admin now may have 2 options:**release the family or split them up** -A
       which Trump’s June 20 directive pledged to stop.
 
-      * **Older kids** to be reunited by **July 26**.
+      * **Older kids** to be reunited by**July 26**.
 
 
 
@@ -64,22 +67,24 @@ cards:
       elsewhere on border...
     _key: card-3-e4cc0627-223d-4fc7-acca-ed0c1e900264
   - order: 3
+    useCheckmark: false
     body: >-
       ## Border Wall Land Surveys
 
 
-      * More property owners along S. Texas border are **getting notices for a
+      * More property owners along S. Texas border are**getting notices for a
       possible border wall**.
 
-      * Border Patrol: the area, **Starr Co., most “volatile” stretch,**
+      * Border Patrol: the area,**Starr Co., most “volatile” stretch,**
       currently lacks border wall.
 
-      * In March, Congress **approved $1.6B inA fedlA funding**A for 33 miles of
+      * In March, Congress**approved $1.6B inA fedlA funding**A for 33 miles of
       fencing in Rio Grande valley – half of what Border Patrol wanted.
 
-      * Pres. Trump has **requested $25B.**
+      * Pres. Trump has**requested $25B.**
     _key: card-4-d4161135-6430-43b6-995b-e51a2009e868
   - order: 4
+    useCheckmark: true
     body: >-
       In Arizona, New Mexico & California, Federal Govt controls 60-foot wide
       strip of land along the border. Not true in Texas, where almost all

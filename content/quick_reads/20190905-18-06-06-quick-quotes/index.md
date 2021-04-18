@@ -16,6 +16,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > ‘No matter what you might think about his presence. One thing’s for sure
       the ratings will be huge.’  
@@ -27,6 +28,7 @@ cards:
       show twice.
     _key: card-1-2f895b3f-a4db-480d-861f-c638a110af6f
   - order: 1
+    useCheckmark: false
     body: >-
       “Due to the historic obstruction by Senate Democrats of the President’s
       nominees, and the goal of passing appropriations bills prior to the end of
@@ -39,6 +41,7 @@ cards:
       yr.
     _key: card-2-04602b77-b5c4-4b88-91b4-c0c1a2ca61fc
   - order: 2
+    useCheckmark: false
     body: >-
       > ‘It’s important that consumers and contractors understand that improper
       home renovation can expose residents and workers to hazardous lead
@@ -50,6 +53,7 @@ cards:
       cost of lead abatement & release a video about lead-based paint dangers.
     _key: card-3-54c4c634-a3bd-47d8-be1b-0b485b718d5d
   - order: 3
+    useCheckmark: true
     body: |-
       Have a great day!
 

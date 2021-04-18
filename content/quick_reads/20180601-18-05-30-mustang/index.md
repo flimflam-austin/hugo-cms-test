@@ -20,30 +20,33 @@ card_series: Money
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # ONE-TRICK PONY?
 
 
       Ford will stop making passenger cars to focus only on top-performing SUVs
-      & trucks — with **one exception: The Mustang.**
+      & trucks — with**one exception: The Mustang.**
 
 
       Flip: Why
     _key: card-1-b7be0ff0-0964-45ff-bb5b-4198ba41b269
   - order: 1
+    useCheckmark: false
     body: >-
-      Ford kept the “modestly profitable” Mustang largely due to **drivers’
+      Ford kept the “modestly profitable” Mustang largely due to**drivers’
       emotional connection** – which the automaker describes as “**freedom**.”
 
 
-      * Introduced in 1964, the Mustang is world’sA **#1 selling sports car.**
+      * Introduced in 1964, the Mustang is world’sA**#1 selling sports car.**
 
-      * While sports cars skew male,A **27% of Mustang buyers are female.**
+      * While sports cars skew male,A**27% of Mustang buyers are female.**
 
       * **Fun fact:** Mustang’s 1st movie appearance was James Bond’s
       “Goldfinger.”
     _key: card-2-a3a3c491-72f8-4d5d-b7d4-f160d9ac95f0
   - order: 2
+    useCheckmark: false
     body: >-
       > ‘The Mustang is like Rocky: It survived the 1970s fuel crisis, the glam
       1980s, the move to S.U.V.s. It’s made it through every round of cuts.’  
@@ -56,6 +59,7 @@ cards:
       FLIP: End of the road for sedans?
     _key: card-3-188700c3-0981-49e4-9305-ebd81caa4e6b
   - order: 3
+    useCheckmark: true
     body: >-
       Say goodbye to Ford's full-size Taurus, midsize Fusion, and subcompact
       Fiesta... but is the passenger car dead? And what happens when/if gas

@@ -20,6 +20,7 @@ card_series: Politics
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Mirror Mirror On The Wall…
 
@@ -31,6 +32,7 @@ cards:
       To Your Corners!
     _key: card-1-1bfcd2ea-a863-44c7-8aaf-0085ba5b2e7c
   - order: 1
+    useCheckmark: false
     body: >-
       # Who’s The Most Progressive?
 
@@ -40,10 +42,11 @@ cards:
 
       * More progressive candidate unseats 10-term Congressman in blue district.
 
-      * Likely *new* congresswoman Alexandria Ocasio-Cortez: 28-year-old
-      **socialist**, with little funding or name recognition.
+      * Likely *new* congresswoman Alexandria Ocasio-Cortez:
+      28-year-old**socialist**, with little funding or name recognition.
     _key: card-2-14f88722-7b37-4249-a39e-ee5194754afe
   - order: 2
+    useCheckmark: false
     body: >-
       ## Who’s The \*Best\* Conservative?
 
@@ -58,6 +61,7 @@ cards:
       small gov’t GOP group.
     _key: card-3-23bbd587-9ebb-41ae-952f-291bb11ff8bb
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Trump Effect
 
@@ -72,6 +76,7 @@ cards:
       well-known, though controversial, challenger.
     _key: card-4-bbc6fecd-dd82-43c5-bec9-f433b14773f1
   - order: 4
+    useCheckmark: true
     body: >-
       Despite sparring with Pres. Trump, former Gov. & presidential candidate
       Mitt Romney won his election in Utah making it a likely scenario that he

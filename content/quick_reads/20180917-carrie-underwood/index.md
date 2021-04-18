@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“I’ve had a good life, and you can’t win all the time. You gotta have
       some downs to realize when you’re up.”_
     citation: CARRIE UNDERWOOD
     _key: card-1-79ba481d-cdaa-4dba-bbd7-5d682b899d70
   - order: 1
+    useCheckmark: true
     body: >-
       The "Cry Pretty" singer revealing her pain suffering 3 miscarriages over
       the last 2 years. Underwood (35) shares a son Isaiah (3) with husband Mike

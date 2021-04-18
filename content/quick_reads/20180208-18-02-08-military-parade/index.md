@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--default'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “Confidence is silent. Insecurities are loud. When you’re the most
       powerful country in all of human history, youA don’t have to show it
@@ -34,6 +35,7 @@ cards:
       What parade? Flip Here
     _key: card-1-9de7c825-05c8-40af-82cc-5c3b5ca02b24
   - order: 1
+    useCheckmark: false
     body: >-
       # The Backstory
 
@@ -47,6 +49,7 @@ cards:
       * Initial reports suggest this could happen around Veterans Day.
     _key: card-2-e0326f68-7304-4baf-93d8-222e14c2272f
   - order: 2
+    useCheckmark: false
     body: >-
       > “Nothing has been decided or locked in stone.A This is in the early
       discussion phases, & it’s something the President is looking at — not just
@@ -58,6 +61,7 @@ cards:
       Press Sec. Sarah Huckabee Sanders, Feb 7, 2018 WH Press Briefing
     _key: card-3-db0e7468-6889-41b5-abbc-5c9f8bb998c0
   - order: 3
+    useCheckmark: false
     body: >-
       > “I think we’re all aware, in this country, of the President’s affection
       and respect for the military.A We’ve been putting together some options.A
@@ -68,6 +72,7 @@ cards:
       Sec of Defense James Mattis, Feb 7, 2018 White House Press Briefing
     _key: card-4-f84d7c1e-317d-4c6a-a222-137a5c012264
   - order: 4
+    useCheckmark: false
     body: >-
       # In Case You Missed It:
 
@@ -83,6 +88,7 @@ cards:
       in Syria; reportedly killed 100+ bad guys.
     _key: card-5-3857197a-2182-4d53-afdf-beea11523715
   - order: 5
+    useCheckmark: true
     body: |-
       Do you think we should have a national military parade? Read More
 

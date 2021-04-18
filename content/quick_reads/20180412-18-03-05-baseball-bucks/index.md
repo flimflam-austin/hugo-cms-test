@@ -20,6 +20,7 @@ card_series: Sports
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## BUZZKILL
 
@@ -32,15 +33,16 @@ cards:
     citation: Flip Here
     _key: card-1-8199dcce-950d-48a6-9539-5f1b52109b2d
   - order: 1
+    useCheckmark: false
     body: >-
       ## Cool Tech We WON’T See
 
 
-      The New York Yankees wanted to sell **beer with players’ faces printed on
+      The New York Yankees wanted to sell**beer with players’ faces printed on
       top of the foam**.
 
 
-      But the MLB shut it down right away, saying: active **players cannot be
+      But the MLB shut it down right away, saying: active**players cannot be
       involved in the advertising or promotion of beer or other alcohol.**
 
 
@@ -48,6 +50,7 @@ cards:
     citation: Flip For More
     _key: card-2-f16609d7-624b-4ab9-be18-c6c9d6520121
   - order: 2
+    useCheckmark: false
     body: >-
       ## You WILL See This:
 
@@ -61,19 +64,21 @@ cards:
       centers to decide whether or not to challenge a call.
     _key: card-3-c7a6c164-f4de-461d-8bcf-243bc3850da2
   - order: 3
+    useCheckmark: false
     body: >-
       ## Take Me Out to the Ballgame – Or Not.
 
 
       * Twitter will again live stream weekly MLB games.
 
-      * Facebook will **exclusively** stream 25 regular season games (big deal,
+      * Facebook will**exclusively** stream 25 regular season games (big deal,
       but small considering there’s 2,430 games this season)
 
       * MLB is also tapping the Chinese market, partnering with Tencent to
       stream 125 games to its 1B active users.
     _key: card-4-d082bf6e-2990-4cfa-8486-f58778e7102c
   - order: 4
+    useCheckmark: true
     body: >-
       What teams are demanding the highest prices? The World Series Champs
       aren't even in the top 3! But there's a catch...

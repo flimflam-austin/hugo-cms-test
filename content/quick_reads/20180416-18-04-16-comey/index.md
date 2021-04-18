@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # REVENGE or MORE?
 
@@ -35,6 +36,7 @@ cards:
     citation: 'Flip: Does It Matter?'
     _key: card-1-b789e10d-bd67-4e89-a058-fc349cb39f81
   - order: 1
+    useCheckmark: false
     body: >-
       ## Comey on Pres. Trump:
 
@@ -48,6 +50,7 @@ cards:
       ethical leadership, may fall short of being illegal.’
     _key: card-2-7bb0acb8-3b94-4926-b6cf-de2d997bac30
   - order: 2
+    useCheckmark: false
     body: >-
       ## Pres. Trump on Comey:
 
@@ -67,6 +70,7 @@ cards:
     citation: CLICK FOR TWEETS
     _key: card-3-9b249cb7-d0a2-4a35-8d7a-bb9f332d8997
   - order: 3
+    useCheckmark: false
     body: >-
       ## Is Comey’s Book A Game Changer?
 
@@ -82,6 +86,7 @@ cards:
       current investigations.
     _key: card-4-874f7665-bec8-4a18-9ac3-7eff677492c8
   - order: 4
+    useCheckmark: true
     body: >-
       Comey's tell-all book has yet to hit stores, but expect to see it (and
       him) all over the headlines this week. Here's a recap of how we got here:

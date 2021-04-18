@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Foreign Policy “Test”
 
@@ -29,6 +30,7 @@ cards:
       Why some call this a “test” of America’s new administration.
     _key: da3196c9b81f
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Happened:
 
@@ -45,9 +47,11 @@ cards:
       specifics on injuries at the time of this reporting.
     _key: bea650091fa4
   - order: 2
+    useCheckmark: false
     body: "## Context:\n\n**Who Did This?**\_**We don’t know.** A little-known militia reportedly took responsibility; the same group claimed to have targeted a U.S. convoy carrying military equipment last summer.\n\n**Previous Rocket Attacks:** Often blamed on Iran-backed militias by U.S. & Iraq gov’t. An attack targeted the U.S. embassy in Baghdad in Dec 2020; another killed two U.S. soldiers in March."
     _key: 1ccb10e799ec
   - order: 3
+    useCheckmark: false
     body: >-
       > “This is a test of the new Biden administration to see what they can get
       away with.”
@@ -60,6 +64,7 @@ cards:
       contractors or service members, or their Kurdish allies."
     _key: 893f8e3780a3
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why This Matters:
 
@@ -72,10 +77,11 @@ cards:
       * Meanwhile, Iran is pressuring the new U.S. administration to drop
       Trump-era sanctions and rejoin the nuclear deal.
 
-      * Pres. Biden ran point on Iraq as VP during the Obama admin. **What will
+      * Pres. Biden ran point on Iraq as VP during the Obama admin.**What will
       define the U.S. Middle East policy in 2021 (and beyond) ?**
     _key: 834352333ee6
   - order: 5
+    useCheckmark: true
     body: >-
       U.S. Secretary of State Tony Blinken said the U.S. was "outraged" by the
       attack. The Iraqi President called the attack "a dangerous escalation" and

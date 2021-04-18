@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Class During COVID?
 
@@ -31,6 +32,7 @@ cards:
       Here are the highlights for kids going back to school.
     _key: 581e71a36c04
   - order: 1
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
@@ -43,11 +45,12 @@ cards:
       local laws and guidance.
 
 
-      CDC suggestions include disclaimers such as **“when practical” and “if
+      CDC suggestions include disclaimers such as**“when practical” and “if
       feasible”** – we didn’t include these everywhere (redundancy!) but they’re
       used often.
     _key: 29cf47b5c04e
   - order: 2
+    useCheckmark: false
     body: >-
       ## Big Picture
 
@@ -59,6 +62,7 @@ cards:
       guiding principle for all the recommendations issued.
     _key: 4b0d52b704b2
   - order: 3
+    useCheckmark: false
     body: >-
       ## Basic Recommendations
 
@@ -76,6 +80,7 @@ cards:
       TBD.
     _key: edd1137e3e56
   - order: 4
+    useCheckmark: false
     body: >-
       ## Logistics
 
@@ -90,6 +95,7 @@ cards:
       between bathroom sinks and in high-traffic areas.
     _key: 9147b4802efb
   - order: 5
+    useCheckmark: false
     body: >-
       ## Learning
 
@@ -104,6 +110,7 @@ cards:
       therefore preventing or slowing transmission of disease).
     _key: fc5e509f1871
   - order: 6
+    useCheckmark: false
     body: >-
       ## Playing & Eating
 
@@ -120,6 +127,7 @@ cards:
       different sports. More info. on our source page.
     _key: 5b3f445bb14b
   - order: 7
+    useCheckmark: false
     body: >-
       ## Key Word: Staggered
 
@@ -137,6 +145,7 @@ cards:
       Staggered use of shared spaces, like playgrounds.
     _key: c379082adbb5
   - order: 8
+    useCheckmark: true
     body: >-
       During the second week of May, lawmakers during a Senate hearing asked
       health officials, including CDC Director, for more guidance on getting

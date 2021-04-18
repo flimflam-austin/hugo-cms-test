@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # SUPREME COURT SHOWDOWN
 
@@ -31,6 +32,7 @@ cards:
       Let the games begin!
     _key: card-1-0b0f9db9-44ab-4384-9c64-e305aa4609e6
   - order: 1
+    useCheckmark: false
     body: >-
       ## ROUND I: Senate Judiciary Committee Hearings
 
@@ -44,6 +46,7 @@ cards:
       nominee to the full Senate.
     _key: card-2-bf07e6cb-6b11-4c24-b3fd-1ea984b12340
   - order: 2
+    useCheckmark: false
     body: >-
       ROUND II:  
 
@@ -60,6 +63,7 @@ cards:
       – a simple majority is required to confirm the nominee.
     _key: card-3-5b015f5f-3796-4fb5-81bf-3d39bacae065
   - order: 3
+    useCheckmark: false
     body: >-
       **What if there’s a tie?**  
 
@@ -73,6 +77,7 @@ cards:
       from 19 to 87 days.
     _key: card-4-14f44df2-4c7b-48eb-a8ba-f04376266cef
   - order: 4
+    useCheckmark: true
     body: >-
       ALL ABOUT JUDGE BRETT KAVANAUGH:
       https://smarthernews.com/kavanaugh-on-the-issues/

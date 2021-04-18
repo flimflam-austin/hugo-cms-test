@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “I don’t want anyone to experience cancer or anything bad, but I would
       love all people to experience that kind of love thrown on you at once.”  
@@ -32,6 +33,7 @@ cards:
       keep his job.
     _key: card-1-8ef3c7cc-1d40-474c-aff3-87c179bb4732
   - order: 1
+    useCheckmark: false
     body: >-
       > "If the Iranian regime demonstrates a commitment to make fundamental
       changes in its behavior, then the president is prepared to engage in
@@ -44,6 +46,7 @@ cards:
       Iran-U.S. relations.
     _key: card-2-91112f8f-720f-4bd0-b9a8-e23b5aa3302c
   - order: 2
+    useCheckmark: false
     body: >-
       > “Mr. Trump’s claims of no collusion are, in a word, hogwash.”  
         
@@ -59,18 +62,20 @@ cards:
       REFRESHER](https://smarthernews.com/18-08-16-who-keeps-our-secrets/)
     _key: card-3-b0968faf-7c8a-4bca-ba5f-f355da979e7c
   - order: 3
+    useCheckmark: false
     body: >-
       > "Director Brennan’s recent statements purport to know as fact that the
       Trump campaign colluded with a foreign power…. If his statement is based
       on intelligence he has seen since leaving office, it constitutes an
       intelligence breach. If he has some other personal knowledge of or
-      evidence of collusion, it should be disclosed to the Special Counsel, notA
-      _TheA New York Times._“  
+      evidence of collusion, it should be disclosed to the Special Counsel,
+      notA_TheA New York Times._“  
         
         
       Sen. Richard Burr (R-NC)
     _key: card-4-3919654e-7b00-4cfd-9e79-e6dd74a7ddbe
   - order: 4
+    useCheckmark: false
     body: >-
       > “My plan is to make him flat, make him tired and make him give up.”  
         
@@ -83,6 +88,7 @@ cards:
       [Click: McGregor's Response](https://www.instagram.com/thenotoriousmma/)
     _key: card-5-dd4c206e-087e-4432-a32d-ae5f3a2d1458
   - order: 5
+    useCheckmark: true
     body: |-
       TGIF!
 

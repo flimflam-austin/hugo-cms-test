@@ -16,6 +16,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## HONORING A HERO
 
@@ -26,6 +27,7 @@ cards:
       What To Know
     _key: card-1-5666c1f4-2667-4c61-9745-b29b239de6bf
   - order: 1
+    useCheckmark: false
     body: >-
       ## Staff Sgt. Alex Conrad
 
@@ -48,6 +50,7 @@ cards:
       Why Somalia?
     _key: card-2-034ce731-9916-4b86-8340-bf0986ab1a0f
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Is U.S. In Somalia?
 
@@ -55,11 +58,13 @@ cards:
       * **al-Shabab**:A al Qaeda-affiliated group continues to grow in power in
       East Africa.
 
-      * U.S. soldiers working with local forces when attacked. Their mission:
-      _“to clear al-Shabab terrorists from contested areas, liberate villages
-      from al-Shabab control, and establish a permanent combat outpost”_ (DOD).
+      * U.S. soldiers working with local forces when attacked. Their
+      mission:_“to clear al-Shabab terrorists from contested areas, liberate
+      villages from al-Shabab control, and establish a permanent combat
+      outpost”_ (DOD).
     _key: card-3-26185378-4692-431a-af84-43c61bd3a565
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why al-Shabab Matters:
 
@@ -75,6 +80,7 @@ cards:
       Americans, either overseas or in U.S.
     _key: card-4-caa4f73a-2487-4ea1-a7b0-9947fcd620d2
   - order: 4
+    useCheckmark: true
     body: >-
       "US Special Operations Forces often work in the shadows in Africa. The
       public is largely unaware of Special Operations on the continent until

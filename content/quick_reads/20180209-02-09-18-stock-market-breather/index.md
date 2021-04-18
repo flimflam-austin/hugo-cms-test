@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Stock Market: Bottom Line
 
@@ -35,6 +36,7 @@ cards:
     citation: Flip Here
     _key: card-1-7da14967-f5c6-40e7-a026-ccad0b2b2844
   - order: 1
+    useCheckmark: false
     body: >-
       ## Many Theories As To Why Stocks Fell:
 
@@ -54,6 +56,7 @@ cards:
       Explain](https://www.cnbc.com/video/2018/02/08/cramer-blames-this-weeks-crazy-market-on-a-group-of-complete-morons.html)
     _key: card-2-54816884-1490-49f4-be90-8f294d2cdc18
   - order: 2
+    useCheckmark: true
     body: >-
       Some say stock market looks like 1996-1997 - Find that article on our
       source page and more!

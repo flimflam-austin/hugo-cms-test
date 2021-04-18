@@ -20,20 +20,22 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # RUSSIA RECAP
 
-      An **ongoing conflict** with Ukraine.
+      An**ongoing conflict** with Ukraine.
 
-      A **guilty plea** by President Trump’s former lawyer.
+      A**guilty plea** by President Trump’s former lawyer.
 
-      A **cancelled meeting** at the G20.
+      A**cancelled meeting** at the G20.
 
       Russia finds itself at the center of several controversial stories.
 
       Why It Matters
     _key: card-1-54ee060f-1c30-41ff-ac7d-55bae30bf104
   - order: 1
+    useCheckmark: false
     body: >-
       # Ukraine Conflict
 
@@ -50,32 +52,35 @@ cards:
       * Russia says Ukraine’s Pres. is posturing before his elections.
     _key: card-2-a2688811-8a46-4dc7-a439-835ff5488f99
   - order: 2
+    useCheckmark: false
     body: >-
       # Michael Cohen
 
 
       * Thursday: In connection with Special Counsel’s Russia probe, Pres.
-      Trump’s former lawyer pleaded guilty to **lying to Congress** about
+      Trump’s former lawyer pleaded guilty to**lying to Congress** about
       pursuing a Moscow real estate project on behalf of Trump in 2016.
 
       * August: Pleaded guilty to 8 counts unrelated to Trump or Russia.
 
-      * Pres. Trump says Cohen is **lying to get a reduced sentence.**
+      * Pres. Trump says Cohen is**lying to get a reduced sentence.**
     _key: card-3-df62a84a-0673-4e99-8d23-3b20b7be9f72
   - order: 3
+    useCheckmark: false
     body: >-
       # Pres. Vladimir Putin
 
 
       * Saturday: Pres. Trump was scheduled to meet with the Russian Pres. on
-      sidelines of the **G20** in what would have been their first meeting since
+      sidelines of the**G20** in what would have been their first meeting since
       this summer’s Helsinki Summit.
 
       * Topics expected to be discussed were the uncertainty over future of a
-      Cold War-era **arms treaty**, as well as security issues in **Ukraine**,
-      **Syria**, **Iran** and **North Korea**.
+      Cold War-era**arms treaty**, as well as security issues
+      in**Ukraine**,**Syria**,**Iran** and**North Korea**.
     _key: card-4-9d8db549-d6ec-4fa2-8675-3702ba2626ef
   - order: 4
+    useCheckmark: true
     body: >-
       The Kremlin expressed regret over the cancelled meeting, but a foreign
       ministry spokeswoman quoted by Russian news agencies questioned the

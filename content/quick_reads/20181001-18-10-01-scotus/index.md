@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # COURT IN SESSION
 
@@ -35,19 +36,20 @@ cards:
       Why 9?
     _key: card-1-750b0748-05f8-402b-b568-f69b0ff15c0f
   - order: 1
+    useCheckmark: false
     body: >-
       # WHY NINE?
 
 
-      In 1790, the Supreme Court assembled for the **first time in NYC** (then
+      In 1790, the Supreme Court assembled for the**first time in NYC** (then
       our Nation’s Capital) with** 6 justices**.
 
 
       From 1790 to 1869, Congress has changed the number of justices 6 times
-      (requiring as many as 10 and as few as 5) until settling at **9
-      justices**.
+      (requiring as many as 10 and as few as 5) until settling at**9 justices**.
     _key: card-2-ca0dffab-43aa-4e43-be6a-f7ca109b2333
   - order: 2
+    useCheckmark: false
     body: >-
       # WHY “9” MATTERS:
 
@@ -61,6 +63,7 @@ cards:
       of crimes.
     _key: card-3-f8391d0e-a3d9-4de3-947e-ecbbfebf3017
   - order: 3
+    useCheckmark: false
     body: >-
       Although this term does not yet include any notable cases, *IF* Judge
       Brett Kavanaugh is confirmed, his lifetime appointment means he’ll start
@@ -73,6 +76,7 @@ cards:
       Elizabeth Wydra, President of the Constitutional Accountability Center
     _key: card-4-9250a91b-48e5-45ee-a106-0dbf58975476
   - order: 4
+    useCheckmark: true
     body: >-
       The first time in history the Supreme Court opened a new term with eight
       justices was in October 2016. After Justice Antonin Scalia's death earlier

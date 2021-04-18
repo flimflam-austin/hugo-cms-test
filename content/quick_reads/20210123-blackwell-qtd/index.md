@@ -19,6 +19,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Jan. 23, 1849
 
@@ -33,6 +34,7 @@ cards:
       Dr. Elizabeth Blackwell
     _key: f42376968e07
   - order: 1
+    useCheckmark: false
     body: >-
       ## Elizabeth Blackwell
 
@@ -47,6 +49,7 @@ cards:
       graduated at the top of her class.
     _key: cd8cc36f1de3
   - order: 2
+    useCheckmark: false
     body: >-
       ## Notable Accomplishments
 
@@ -62,6 +65,7 @@ cards:
       * **1867**: Opened a medical college for women in NYC.
     _key: 4d747c464da5
   - order: 3
+    useCheckmark: true
     body: >-
       While men continue to outnumber women nearly 2:1 in the U.S. medical
       field, in 2019 more women than men enrolled in medical school for the very

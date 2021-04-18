@@ -20,6 +20,7 @@ card_series: From the President's Desk
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Video Games & Violence
 
@@ -37,6 +38,7 @@ cards:
       Flip Here
     _key: card-1-562708df-2039-4b38-8e4d-e0a6ceb88b1a
   - order: 1
+    useCheckmark: false
     body: >-
       > ‘It was kill, kill, kill, blow up something, and kill some more, all
       day.”  
@@ -51,6 +53,7 @@ cards:
       Article](http://www.miamiherald.com/news/local/community/broward/article200754714.html)
     _key: card-2-3b1211f3-6613-4300-9f70-84d9a1c0eb7a
   - order: 2
+    useCheckmark: false
     body: >-
       What Does The Data Say?  
 
@@ -68,6 +71,7 @@ cards:
       violence (example: Japan).
     _key: card-3-4a0e5d1c-159c-47d1-b32f-1bd4e65ebc0a
   - order: 3
+    useCheckmark: false
     body: >-
       New Study:
 
@@ -81,6 +85,7 @@ cards:
       Dr. David Zendle, University of York, Department of Computer Science
     _key: card-4-ac887b4b-ebc4-4f7d-a6a0-b9bae44f94d3
   - order: 4
+    useCheckmark: true
     body: >-
       However, recent study by University of York DID NOT test on children; only
       adults. Researcher said more studies need to be done...

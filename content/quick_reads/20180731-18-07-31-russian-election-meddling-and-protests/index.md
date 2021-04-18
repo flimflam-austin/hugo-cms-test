@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > Do Russian spiesA want to meddle more with our electric grid than our
       elections?  
@@ -32,20 +33,22 @@ cards:
       What To Know
     _key: card-1-27822e32-f459-4941-9c9e-0dcd1aeab37b
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Happened?
 
 
-      * American utility companies infiltrated by Russian hackers **over the
-      last 2 years**.
+      * American utility companies infiltrated by Russian hackers**over the last
+      2 years**.
 
-      * Russians used **phishing scams** (where a fake email prompts the user to
+      * Russians used**phishing scams** (where a fake email prompts the user to
       change their password & hacker gets the info) to infiltrate systems and
       steal data.
 
       * Number and extent of attacks is reportedly unknown.
     _key: card-2-5457e396-05c8-4a76-8eed-9d9133dfed42
   - order: 2
+    useCheckmark: false
     body: >-
       > ‘They got to the point where they could have thrown switches…’  
         
@@ -55,6 +58,7 @@ cards:
       Homeland Security references the extent of one Russian-led attack.
     _key: card-3-30811052-0b8a-4aa4-94bc-ef255067626c
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -70,6 +74,7 @@ cards:
       control (and they’ve done it before in Ukraine).
     _key: card-4-15a32577-8352-4bd2-baad-13ec7be8e3d3
   - order: 4
+    useCheckmark: true
     body: >-
       Russian election meddling still happening according to several accounts,
       where hackers targeted lawmakers running for re-election. The bigger

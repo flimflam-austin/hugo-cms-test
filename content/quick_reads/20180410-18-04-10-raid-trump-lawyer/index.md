@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # FBI RAID
 
@@ -35,11 +36,12 @@ cards:
     citation: why? Flip Card
     _key: card-1-49c29109-ee62-4360-aa8b-731e3d0ebcbf
   - order: 1
+    useCheckmark: false
     body: >-
       # Why The Raid?
 
 
-      Bottom Line: **We don’t know.**
+      Bottom Line:**We don’t know.**
 
 
       * Reports: warrants focus on bank fraud, wire fraud, & campaign finance
@@ -53,6 +55,7 @@ cards:
     citation: 'Flip: Crucial Context'
     _key: card-2-3717ea1c-e221-4bea-9d55-2e1d3e76955b
   - order: 2
+    useCheckmark: false
     body: |-
       ## Who Is Michael Cohen?
 
@@ -65,6 +68,7 @@ cards:
       * NEVER officially part of campaign or White House
     _key: card-3-58c4c7d7-8658-489c-bace-9196a2ffd3ad
   - order: 3
+    useCheckmark: false
     body: >-
       What Is This All About?  
 
@@ -76,9 +80,10 @@ cards:
 
       * We know Cohen made a payment to “Stormy Daniels” in exchange for her not
       going public with claims she had an affair with the President in 2006.
-      Debates about this payment have emerged: **Is it legal or ethical?**
+      Debates about this payment have emerged:**Is it legal or ethical?**
     _key: card-4-fb715bb3-8cf9-4671-97a1-bcd3ff53c0e2
   - order: 4
+    useCheckmark: true
     body: >-
       ‘A search warrant for a law office is extremely rare. Lawyers are given
       the courtesy of producing documents in response to a subpoena ... unless

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > "Sexy is important, but comfort is essential.”  
         
@@ -29,6 +30,7 @@ cards:
       Jenn is like so many Americans - Flip Here For Why
     _key: card-1-9b1e3614-e023-4348-abff-908e0c12036e
   - order: 1
+    useCheckmark: false
     body: >-
       # Jen Is Just Like Us
 
@@ -38,12 +40,13 @@ cards:
       * Sales of Existing Homes (homes already built, like Jen’s) hit 11-year
       high last year.
 
-      * Lower inventory of affordable _new_ homes led to _existing_ home sales
+      * Lower inventory of affordable_new_ homes led to_existing_ home sales
       jump.
 
       * Home improvement spending estimates topped $300 billion in 2017.
     _key: card-2-7249661e-a1d0-4fa0-812a-6172ed0819bc
   - order: 2
+    useCheckmark: false
     body: >-
       # Jen Is NOT like Us
 
@@ -58,6 +61,7 @@ cards:
       Here](https://www.architecturaldigest.com/story/jennifer-aniston-los-angeles-home)
     _key: card-3-72b901c5-8423-4202-b7e0-c3e28cb5abb8
   - order: 3
+    useCheckmark: true
     body: >-
       [view
       sources](https://smarthernews.com/18-02-07-jennifer-aniston-new-home/)

@@ -20,6 +20,7 @@ card_series: Sports
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # THE NBA FINALS
 
@@ -27,17 +28,18 @@ cards:
       ## LeBron vs. The Warriors
 
 
-      The **Cleveland Cavaliers**‘ one-man army will face the defending champs
-      theA **Golden StateA Warriors** – for the 4th straight year.
+      The**Cleveland Cavaliers**‘ one-man army will face the defending champs
+      theA**Golden StateA Warriors** – for the 4th straight year.
 
 
-      LeBron James – possibly the **greatest basketball player of all time** –
-      is actually anA **_UNDERDOG._**
+      LeBron James – possibly the**greatest basketball player of all time** – is
+      actually anA**_UNDERDOG._**
 
 
       FLIP FOR WHY
     _key: card-1-94b34136-678f-4616-a7e5-0fbcf8c9d979
   - order: 1
+    useCheckmark: false
     body: >-
       ## Golden State Warriors
 
@@ -60,6 +62,7 @@ cards:
       * Deep bench with sharp-shooters.
     _key: card-2-172dc4cf-be82-475a-a734-3bf8194d0621
   - order: 2
+    useCheckmark: false
     body: >-
       ## Cleveland Cavaliers
 
@@ -72,13 +75,14 @@ cards:
       Celtics coach Brad Stevens on LeBron.
 
 
-      * LeBron James has gone to the **Finals every season since 2010** –
-      longest streak since 1960s.
+      * LeBron James has gone to the**Finals every season since 2010** – longest
+      streak since 1960s.
 
-      * With a weak roster, **he played all 48 mins** of Game 7 vs. Boston
+      * With a weak roster,**he played all 48 mins** of Game 7 vs. Boston
       Celtics getting them to the Finals.
     _key: card-3-866dbf16-56d8-41d7-a8b9-5c1127fe73af
   - order: 3
+    useCheckmark: true
     body: >-
       The twist in all this? LeBron is free to join a different team next season
       and there's been speculation that the Golden State Warriors are one of

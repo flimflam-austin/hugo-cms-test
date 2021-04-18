@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _‘If you rise on the wings of the dawn, if you settle on the far side of
       the sea, even if you go up to the heavens, even there His hand will guide
@@ -31,6 +32,7 @@ cards:
     citation: VP Mike Pence
     _key: card-1-ce6d7659-e6be-4794-9c87-8a37e59ecdae
   - order: 1
+    useCheckmark: true
     body: >-
       VP Pence uses Psalm 139 in closing remarks of his speech at the Pentagon
       announcing the process of creating the U.S. Space Force - the Space Force

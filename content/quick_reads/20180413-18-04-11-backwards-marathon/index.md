@@ -20,8 +20,9 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
-      > Meet the man running Monday’s Boston Marathon – **BACKWARDS.**
+      > Meet the man running Monday’s Boston Marathon –**BACKWARDS.**
 
 
       [Watch
@@ -29,6 +30,7 @@ cards:
     citation: Watch Now
     _key: card-1-3175f0f5-2ad0-4501-99ed-b66ab990dc55
   - order: 1
+    useCheckmark: false
     body: >-
       > “Having epilepsy is like going through life backwards. You can’t see
       what’s ahead of you, seizures can come out of nowhere at anytime… Though
@@ -40,10 +42,12 @@ cards:
       record...backwards.
     _key: card-2-199c0e4a-cdd9-4c35-aa4f-483f9d124703
   - order: 2
-    body: "## Wait…BACKWARDS? Why?\n\nHis goal is to raise **$100,000 for the Epilepsy Foundation** a\x14 and break the **world record for the fastest marathon (26.2 miles) ever run backwardsA** in less than 3 hours, 43 mins & 39 seconds**.**\n\n(For those keeping tabs, that’d be about anA **8:30 min/mile** avg pace!)\n\nflip: head on a swivel"
+    useCheckmark: false
+    body: "## Wait…BACKWARDS? Why?\n\nHis goal is to raise**$100,000 for the Epilepsy Foundation** a\x14 and break the**world record for the fastest marathon (26.2 miles) ever run backwardsA** in less than 3 hours, 43 mins & 39 seconds**.**\n\n(For those keeping tabs, that’d be about anA**8:30 min/mile** avg pace!)\n\nflip: head on a swivel"
     citation: 'flip: head on a swivel'
     _key: card-3-c250ec37-b1bf-4aca-bbe9-bf4a1abc39bf
   - order: 3
+    useCheckmark: false
     body: >-
       ## Backwards Training 101
 
@@ -51,7 +55,7 @@ cards:
       * Started running 0.5 mile backwards last summer, slowly increasing run
       lengths.
 
-      * Ran 7 marathons _forwards_, qualifying him for Boston.
+      * Ran 7 marathons_forwards_, qualifying him for Boston.
 
       * Trains on treadmills (which he says can be pretty boring) & in parks
       (looking out for obstacles).
@@ -60,6 +64,7 @@ cards:
       running into other people.
     _key: card-4-11d175c8-8b9b-4637-84dd-615e1cd67031
   - order: 4
+    useCheckmark: false
     body: >-
       ## How Hard Is Running Backwards Anyway?
 
@@ -75,6 +80,7 @@ cards:
       production lawyer at Disney in L.A.
     _key: card-5-569ed9b6-1b39-4415-91e1-b84c578ab62a
   - order: 5
+    useCheckmark: false
     body: >-
       ## Charity Close to His Heart
 
@@ -89,6 +95,7 @@ cards:
       Foundation for research & local programs.
     _key: card-6-434dbdfb-5e31-47f6-b50e-dc7b0e672876
   - order: 6
+    useCheckmark: true
     body: >-
       Loren says he's worried about taking a spill & bad weather, but he
       promises to he'll be "giving it my all come April 16th!" Even though he

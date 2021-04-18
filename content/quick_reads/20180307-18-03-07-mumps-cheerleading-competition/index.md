@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # M-U-M-P-S!
 
@@ -37,6 +38,7 @@ cards:
       Flip For More
     _key: card-1-d336841f-21a6-4784-a209-01815afafc3c
   - order: 1
+    useCheckmark: false
     body: >-
       Why The Warning?  
 
@@ -46,10 +48,9 @@ cards:
       * **National Cheerleaders Association** All-Star National ChampionshipA in
       Dallas, Texas.
 
-      * **More than 23,600** athletes, plus **thousands** of coaches &
-      attendees.
+      * **More than 23,600** athletes, plus**thousands** of coaches & attendees.
 
-      * **39 states,**A **9 countries**.
+      * **39 states,**A**9 countries**.
 
       * 2-day competition, Feb. 23-25
 
@@ -59,6 +60,7 @@ cards:
       [Click For Video:](https://vimeo.com/257404702)
     _key: card-2-5469be44-8fe0-4bc6-affb-810824a4df3b
   - order: 2
+    useCheckmark: false
     body: >-
       # What are ‘Mumps’?
 
@@ -73,6 +75,7 @@ cards:
       infants. It’s 88% effective, not 100%, so cases can occasionally surface.
     _key: card-3-14732b85-f8a1-497a-8c3e-3d59df0e07a2
   - order: 3
+    useCheckmark: false
     body: >-
       ## SmartHER News spoke to Texas Dept of Health
 
@@ -90,16 +93,18 @@ cards:
       Click Here For Letter
     _key: card-4-ecddd987-2ece-4796-b837-8a489a98b70e
   - order: 4
+    useCheckmark: false
     body: >-
-      > “Mumps outbreaks can occur **any time of year**. A major factor
+      > “Mumps outbreaks can occur**any time of year**. A major factor
       contributing to outbreaks is being in a crowded environment, such as
-      attending the same class, **playing on the same sports team**, or living
-      in a dormitory with a person who has mumps.”
+      attending the same class,**playing on the same sports team**, or living in
+      a dormitory with a person who has mumps.”
 
 
       [CDC - Click For More](https://www.cdc.gov/mumps/outbreaks.html)
     _key: card-5-7f7ff136-0b21-4fe3-a6f5-e1204723cd30
   - order: 5
+    useCheckmark: true
     body: >-
       BTW - March is National Cheerleading month.
 

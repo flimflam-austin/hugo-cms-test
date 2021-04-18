@@ -20,12 +20,13 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # COVID & DAYCARES
 
 
-      The CDC shared **new data** on COVID cases in childcare facilities in
-      Rhode Island.
+      The CDC shared**new data** on COVID cases in childcare facilities in Rhode
+      Island.
 
 
       The Major Takeaways  
@@ -33,6 +34,7 @@ cards:
       Why It Matters
     _key: be6c12bcdf74
   - order: 1
+    useCheckmark: false
     body: >-
       ## Backstory
 
@@ -48,6 +50,7 @@ cards:
       briefing as well.
     _key: ab5968a54100
   - order: 2
+    useCheckmark: false
     body: >-
       ## Here’s The Data
 
@@ -63,6 +66,7 @@ cards:
       * **Bottom Line**: Cases emerged but spread was contained.
     _key: 2d4ca5df879e
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
@@ -78,6 +82,7 @@ cards:
       number of cases appropriate context.
     _key: 31f7afcc184a
   - order: 4
+    useCheckmark: false
     body: >-
       ## One Case Featured
 
@@ -93,6 +98,7 @@ cards:
       No additional students tested positive for the virus.
     _key: b91c88092b93
   - order: 5
+    useCheckmark: false
     body: >-
       > “…what we’re asking the American public to do is to bring this virus to
       its knees…It’s in our grasp. But it is going to require all of us to
@@ -104,6 +110,7 @@ cards:
       class size made a difference in limiting spread in Rhode Island daycares.
     _key: d6378fb429a3
   - order: 6
+    useCheckmark: true
     body: >-
       The study states the prevalence of cases in Rhode Island at the time was
       "low ... relative to other U.S. states." However, we don't know what "low"

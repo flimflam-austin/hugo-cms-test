@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       25 years ago  
 
@@ -33,9 +34,11 @@ cards:
       garage & detonated the bomb before fleeing the scene.
     _key: card-1-72ec687c-1e37-4bcc-896a-396d9e150175
   - order: 1
+    useCheckmark: false
     body: "February 26, 1993  \nFriday 12:17 pm\n\n> “…Middle Eastern terrorism had arrived on American soila\x14with a bang”  \n  \n  \n  \nFBI, First Strike: Global Terror in America"
     _key: card-2-b86d0fc3-6a29-4547-9dd0-7e793291dc78
   - order: 2
+    useCheckmark: false
     body: >-
       # 1993 WTC Bombing
 
@@ -51,6 +54,7 @@ cards:
       is currently detained at Guantanamo Bay.
     _key: card-3-7adee5d3-480c-4cbb-ae8b-26ce0051b1e0
   - order: 3
+    useCheckmark: false
     body: |-
       # al-Qaeda Inspired Attacks On US Soil
 
@@ -61,6 +65,7 @@ cards:
       * 2013: Boston Marathon bombing
     _key: card-4-9152c11f-7d7c-471b-b1b6-9d461ecab9fa
   - order: 4
+    useCheckmark: false
     body: >-
       ICYMI:  
 
@@ -76,6 +81,7 @@ cards:
       Article](http://www.bostonherald.com/news/local_coverage/2018/02/dzhokhar_tsarnaev_s_college_pal_robel_phillipos_slated_for_release_today)
     _key: card-5-ce99ab8b-a863-4ff7-870e-f320d7802da8
   - order: 5
+    useCheckmark: true
     body: >-
       One terrorist from 1993 WTC bombing remains at large. Click to see FBI
       Most Wanted poster

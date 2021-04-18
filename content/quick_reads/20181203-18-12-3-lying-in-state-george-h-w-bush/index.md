@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # HONORING 41
 
@@ -27,13 +28,14 @@ cards:
       **_“..one of America’s greatest points of light”_**
 
 
-      President George H.W. Bush, the **41st American president**, will be the
-      **12th president** to lie in state at the U.S. Capitol.
+      President George H.W. Bush, the**41st American president**, will be
+      the**12th president** to lie in state at the U.S. Capitol.
 
 
       Why It Matters
     _key: card-1-e563298a-267d-4dcd-a48e-935b168fd514
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why We Do It:
 
@@ -46,6 +48,7 @@ cards:
       Garfield, & Lincoln
     _key: card-2-d7a7e8be-1127-4a82-9226-b88b4d35ead2
   - order: 2
+    useCheckmark: false
     body: >-
       ## Pres. Lincoln’s “Support”
 
@@ -60,6 +63,7 @@ cards:
       like the original.
     _key: card-3-1d8700d8-546a-4b4e-9d00-4c896e0d9f81
   - order: 3
+    useCheckmark: false
     body: >-
       ## Lie in \*State\* vs \*Honor\*
 
@@ -74,6 +78,7 @@ cards:
       Capitol & Rosa Parks (only woman to lie in state or honor).
     _key: card-4-af82fde1-8b66-4e69-8c29-1e8f9d2a3697
   - order: 4
+    useCheckmark: false
     body: >-
       > “It is with great sadness that we mark the passing of one of America’s
       greatest points of light, the death of President George H.W. Bush.”  
@@ -85,6 +90,7 @@ cards:
       half-staff for 30 days from his day of passing.
     _key: card-5-a1f617b4-9a0e-481e-8af2-09e251d30ef8
   - order: 5
+    useCheckmark: true
     body: >-
       President H.W. Bush will lie in state from Monday night until his
       Washington D.C. funeral on Wednesday. On Thursday, Pres. Bush will be laid

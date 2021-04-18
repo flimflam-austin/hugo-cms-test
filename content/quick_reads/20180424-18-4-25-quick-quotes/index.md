@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # QUICK QUOTES
 
@@ -34,6 +35,7 @@ cards:
       allegations of misconduct, such as drinking on the job.
     _key: card-1-6e535009-73b7-4c49-a711-4926409e1611
   - order: 1
+    useCheckmark: false
     body: >-
       > “I am telling those in the White House that if they do not live up to
       their commitments, the Iranian government will react firmly. If anyone
@@ -48,6 +50,7 @@ cards:
       calls "insane."
     _key: card-2-dc736060-7fb8-4333-9a26-281c9fa4284e
   - order: 2
+    useCheckmark: false
     body: >-
       > “I have no idea how I can do this without her, but because of her I know
       I can. It’s a love affair that will never end.”  
@@ -59,6 +62,7 @@ cards:
       12-year-old Averie & 10-year-old Josh.
     _key: card-3-5f5ccbae-1a86-4e5b-a17d-b0dc89fd0dfb
   - order: 3
+    useCheckmark: false
     body: >-
       > “I’m sure many consumers would prefer to have their car trunk opened
       remotely by a third party than their front door.”  
@@ -70,9 +74,11 @@ cards:
       service (i.e. OnStar).
     _key: card-4-23eacdab-051b-48d1-aa58-5f1488395b51
   - order: 4
+    useCheckmark: false
     body: "> “People say, a\x18You don’t have a wife and children at home to care for; why are you working so hard? I laugh on the outside but the pain that I have in my heart only I know.”  \n  \n  \n  \nSuresh Kumar, a 35-year old man living in India, on the loneliness he feels not having a spouse. Men now outnumber women by 70 million in China and India."
     _key: card-5-a59432e7-0fc0-4a47-bd8f-3f6c00af0567
   - order: 5
+    useCheckmark: true
     body: |-
       Want to learn more? Dig deeper by clicking "view sources."
 

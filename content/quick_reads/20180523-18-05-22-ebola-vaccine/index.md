@@ -20,15 +20,17 @@ card_series: Health
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # RACE AGAINST TIME
 
 
-      Health officials call an **unregulated…A** **unlicensed… unnamed** vaccine
-      a **“milestone”** in strategy to prevent Ebola outbreak in Africa &
-      **you’re helping pay for it**.
+      Health officials call an**unregulated…A****unlicensed… unnamed** vaccine
+      a**“milestone”** in strategy to prevent Ebola outbreak in Africa &**you’re
+      helping pay for it**.
     _key: card-1-1deec316-780f-4c18-ad2e-63f46146c3a1
   - order: 1
+    useCheckmark: false
     body: >-
       ‘rVSV-ZEBOV’
 
@@ -50,6 +52,7 @@ cards:
       Flip: Challenges
     _key: card-2-acfa990f-6a76-4881-a69a-b191d4efb57e
   - order: 2
+    useCheckmark: false
     body: >-
       ## Challenges of The Congo
 
@@ -67,11 +70,12 @@ cards:
       Flip: Why This Matters
     _key: card-3-c9d786f7-a192-4b58-b922-f188627a551e
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why Ebola Is Dangerous
 
 
-      * **Quick Killer:** **Very infectious – Not very contagious**. A small
+      * **Quick Killer:****Very infectious – Not very contagious**. A small
       amount can make you fatally sick. But it’s actually difficult to spread.
       It’s not airborne, but it is spread through direct contact with bodily
       fluids, exposure to contaminated objects from an infected person, and by
@@ -80,6 +84,7 @@ cards:
       * Ebola killed** 11,000+ inA Africa in 2014-2016**; 11 cases in U.S.
     _key: card-4-7c0c94f6-00da-40be-a197-69c14f8f32f0
   - order: 4
+    useCheckmark: true
     body: >-
       The Health and Human Services Secretary announced this Tuesday that the
       U.S. has contributed $8M to the efforts to contain the spread of Ebola in

@@ -16,6 +16,7 @@ card_series: Entertainment
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       LOOK OUT, HOLLYWOOD.
 
@@ -33,21 +34,23 @@ cards:
       Why it matters
     _key: card-1-f5e01483-debb-42cb-b8af-533193e5013b
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Is Bird Box?
 
 
       * Book-turned-horror movie about mother protecting her children from
-      unseen threat **stars Sandra Bullock**, cost est. $30M to make.
+      unseen threat**stars Sandra Bullock**, cost est. $30M to make.
 
       * Premiered Dec. 21st, with one week limited theater release.
 
-      * Netflix said **recordA 45M accounts** (30% of all users) watched 1st wk.
+      * Netflix said**recordA 45M accounts** (30% of all users) watched 1st wk.
 
       * **Bottom line:**A ratings matter; most imp’t for Netflix is
       subscriptions (boost from Bird Box unknown).
     _key: card-2-5292c73e-fab5-4663-8274-af8fa4e17d37
   - order: 2
+    useCheckmark: false
     body: >-
       > "Classical measurement has either been box office or awards. This defies
       all of it. But creating a phenomenon is bound to translate into
@@ -58,6 +61,7 @@ cards:
       wear blindfolds as the film's characters do. Netflix warns against it.
     _key: card-3-bd201ea0-f2dd-4ad2-bb60-67b519ea9b49
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -69,10 +73,11 @@ cards:
 
       * Earned “R-rating” in theater, but no constraints in viewers’ homes.
 
-      * Many artists rebuff Netflix, wanting a widespread theater release. **Is
+      * Many artists rebuff Netflix, wanting a widespread theater release.**Is
       this a game changer?**
     _key: card-4-692033c3-5b1e-4f18-b1e8-f210c24d3969
   - order: 4
+    useCheckmark: true
     body: >-
       Netflix is eyeing the music industry, recently adding "Springsteen on
       Broadway" & Taylor Swift's "Reputation" concert to its offerings. Resale

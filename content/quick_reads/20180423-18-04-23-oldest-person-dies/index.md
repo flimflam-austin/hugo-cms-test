@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # World’s Oldest Person Dies
 
@@ -35,6 +36,7 @@ cards:
     citation: Flip For More
     _key: card-1-e0f01c4d-17e7-472e-9403-68f2c48ee204
   - order: 1
+    useCheckmark: false
     body: >-
       Tajima became the world’s oldest known person in September.
 
@@ -47,6 +49,7 @@ cards:
       Chiyo Miyako (116) & Masazo Nonaka (112).
     _key: card-2-5e85d08c-ba4e-4011-957c-0bc15cc56a9c
   - order: 2
+    useCheckmark: false
     body: |-
       ## Today, 36 people are 110-yrs-old or more worldwide
 
@@ -58,6 +61,7 @@ cards:
     citation: 'Click Here: Research'
     _key: card-3-39bd9c38-daec-4a44-b3dc-2af34fa2a950
   - order: 3
+    useCheckmark: false
     body: |-
       **WHO Ranking of Countries with Highest-Life Expectancy At Birth**  
 
@@ -74,6 +78,7 @@ cards:
     citation: Secret to long life?
     _key: card-4-a1c7b61f-e500-4ad9-bc9a-e4fb02460798
   - order: 4
+    useCheckmark: true
     body: >-
       What's the secret to long life? According to Nonaka (who's still living at
       112), it's hot springs & sumo wrestling. Scientist say the key to Japanese

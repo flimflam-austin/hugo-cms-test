@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       Pres. Trump has said he is willing to extend his previous deadline for a
       $5B border wall deal in the wake of President George H.W. Bush's passing.

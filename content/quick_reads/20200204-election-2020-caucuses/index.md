@@ -20,17 +20,19 @@ card_series: Politics
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # IOWA CAUCUSES
 
       What to know about the first votes of the 2020 presidential election.
     _key: 5c4a669b042f
   - order: 1
+    useCheckmark: false
     body: >-
       ## What’s A Caucus?
 
 
-      * Oxford Definition: _A private meeting of the leaders or representatives
+      * Oxford Definition:_A private meeting of the leaders or representatives
       of a political party, previous to an election or to a general meeting of
       the party, to select candidates for office …_
 
@@ -41,6 +43,7 @@ cards:
       America since at least the 1800s.
     _key: 4e4cf1492cf9
   - order: 2
+    useCheckmark: false
     body: >-
       ## Caucus 101:
 
@@ -54,6 +57,7 @@ cards:
       caucuses this year.
     _key: 509cb2e107f8
   - order: 3
+    useCheckmark: false
     body: >-
       ## About The Iowa Caucuses:
 
@@ -68,22 +72,24 @@ cards:
       they votes via paper. Whoever gets the most votes is the winner.
     _key: 8cf243560524
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why Does Iowa Matter?
 
 
-      * It’s **first** so it provides the first look at how real voters (albeit
+      * It’s**first** so it provides the first look at how real voters (albeit
       the most politically active ones) will *actually* vote (not polls about
       their opinions).
 
-      * For **Democrats** in particular, whoever wins in Iowa tends to go on to
+      * For**Democrats** in particular, whoever wins in Iowa tends to go on to
       secure the Dem pres. nomination. Ex: 6 of the party’s last 10 nominees won
       in Iowa.
 
-      * Winning Iowa can be **game-changer** for lesser known candidates (Jimmy
+      * Winning Iowa can be**game-changer** for lesser known candidates (Jimmy
       Carter in 1976; Barack Obama in 2008).
     _key: 407b519f58d7
   - order: 5
+    useCheckmark: true
     body: >-
       BIG PICTURE: Iowa is not necessarily a predictor for November's winner (or
       loser). Since Iowa held the first caucuses in 1972, only three winners (2

@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       “We cannot take the risk when we know the threat.”  
         
@@ -32,6 +33,7 @@ cards:
       favors the rich.
     _key: card-1-30f76d99-37f8-41eb-86ee-4064f626a3d7
   - order: 1
+    useCheckmark: false
     body: >-
       > “What this week and a half shows is an extraordinary sensitivity to
       headlines, more so than usual.”  
@@ -43,6 +45,7 @@ cards:
       planned. The Nov. Jobs report will be key Friday.
     _key: card-2-798a91ac-426a-457b-bcba-642cfe8f106b
   - order: 2
+    useCheckmark: false
     body: >-
       > "We still want Russia to cut as much as possible…A I’m not confident,
       but I hope to reach a deal.”  
@@ -55,6 +58,7 @@ cards:
       will meet again Friday.
     _key: card-3-5d46167b-0ac3-423e-b205-49e1ca22d0d3
   - order: 3
+    useCheckmark: false
     body: >-
       > “All of a sudden we started skidding, and then he started braking even
       more aggressively and then he was like, ‘brake!'”  
@@ -66,6 +70,7 @@ cards:
       injured.
     _key: card-4-8be19d25-a34e-4b65-aef9-d89b9215a059
   - order: 4
+    useCheckmark: false
     body: >-
       > “I just about fainted. I’ve never touched that much money and I don’t
       think I ever will again.”  
@@ -77,6 +82,7 @@ cards:
       Booth to thank him for his honesty.
     _key: card-5-65439b1d-2cb9-4344-aa7c-7e48c59976d7
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great weekend!
 

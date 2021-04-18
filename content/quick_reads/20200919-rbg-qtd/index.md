@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“My mother told me to be a lady, and for her that meant be your own
       person, be independent.”_
     citation: RUTH BADER GINSBERG
     _key: e3d6cdb42935
   - order: 1
+    useCheckmark: true
     body: >-
       Called the court's "feminist icon," Justice Ginsberg began her law career
       fighting for gender equality, and in 1993 became the 2nd woman on the

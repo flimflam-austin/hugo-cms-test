@@ -20,17 +20,19 @@ card_series: Health
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## How Can We Help Each Other?
 
 
-      New data shows suicide rates rising dramatically in U.S. **More than half
-      of those who died had** **no known mental illness**.
+      New data shows suicide rates rising dramatically in U.S.**More than half
+      of those who died had****no known mental illness**.
 
 
       What To Know
     _key: card-1-536b70bf-f0e2-49b9-b339-77f6b4e2fff2
   - order: 1
+    useCheckmark: false
     body: >-
       ## CDC: Vital Signs Report
 
@@ -48,6 +50,7 @@ cards:
       Why?
     _key: card-2-ac8cba26-798b-4cd8-b6dc-b2858f52967b
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why A Dramatic Increase?
 
@@ -64,6 +67,7 @@ cards:
       * 22% – physical health problem.
     _key: card-3-5139eac3-11a6-4fd1-81f7-f8a8fbe42f64
   - order: 3
+    useCheckmark: false
     body: >-
       > ‘Suicide is a public health crisis when you look at the numbers, and
       they keep going up. It’s up everywhere. And we know that the rates are
@@ -76,6 +80,7 @@ cards:
       Washington Post
     _key: card-4-e3da633b-ed2c-47e3-a0a9-933164c9adc1
   - order: 4
+    useCheckmark: true
     body: >-
       Suicide rates increased in nearly all 50 states. The one state where
       suicides did not increase between 1999-2016? Nevada. How can you help?

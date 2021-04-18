@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“It’s not that we have to agree. It’s not that we have to believe the
       same things. But we have to be in a relationship that allows society to
@@ -30,6 +31,7 @@ cards:
     citation: Rev. Dr. Herbert Sprouse
     _key: card-1-7d733d68-f6ea-4a18-a8b8-d21ee9be11d4
   - order: 1
+    useCheckmark: true
     body: >-
       Rev. Dr. Sprouse is one member of a bipartisan civilian group called
       "Politics, Facts and Civility" where Democrats and Republicans meet

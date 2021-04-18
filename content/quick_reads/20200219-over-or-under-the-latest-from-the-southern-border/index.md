@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## FROM THE BORDER
 
@@ -29,6 +30,7 @@ cards:
       burrowed under it.
     _key: e80c69bc2cd7
   - order: 1
+    useCheckmark: false
     body: >-
       ## Jan. 2020: What To Know
 
@@ -37,28 +39,30 @@ cards:
       January.
 
 
-      That’s **3,600+** fewer than December.
+      That’s**3,600+** fewer than December.
 
 
-      And nearly **19,000** less than last January.
+      And nearly**19,000** less than last January.
 
 
       The decrease is due, in part, to fewer family units apprehended.
     _key: 41faa4267a6c
   - order: 2
+    useCheckmark: false
     body: >-
       ## IMPORTANT CONTEXT
 
 
-      Last year, at the peak, nearly **133,000** people were apprehended at the
+      Last year, at the peak, nearly**133,000** people were apprehended at the
       southwest border in one month; more than 70% were family units (84,000+) &
       unaccompanied minors (11,000+).
 
 
-      Last month, **29,200** people were apprehended; 26% were family units
+      Last month,**29,200** people were apprehended; 26% were family units
       (5,000+) or unaccompanied minors (2600+).
     _key: b86b6252ade2
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
@@ -68,11 +72,12 @@ cards:
       numbers from prior recent years.
 
 
-      In fact, on average, roughly **30,000** people were apprehended or deemed
+      In fact, on average, roughly**30,000** people were apprehended or deemed
       inadmissable on the southwest border each month between 2015-2018. In
       2019, the monthly average more than doubled.
     _key: a6c2d266dc77
   - order: 4
+    useCheckmark: false
     body: >-
       “We’ve seen eight straight months of decline, but as we see from the
       seizure of the longest-ever tunnel between the U.S. and Mexico and
@@ -85,6 +90,7 @@ cards:
       elevator. No arrests or seizures came from the discovery.
     _key: 09aa959d705d
   - order: 5
+    useCheckmark: false
     body: >-
       > “As efforts to strengthen security on our Southern Border increase,
       Mexican drug cartels are forced underground to smuggle their deadly drugs
@@ -95,6 +101,7 @@ cards:
       DEA Special Agent in Charge John Callery.
     _key: 4d8a6febdebb
   - order: 6
+    useCheckmark: true
     body: >-
       Pres. Trump wants to reallocate billions of dollars for border wall
       construction. Today, about 1/3 (654 miles) of the southern border is

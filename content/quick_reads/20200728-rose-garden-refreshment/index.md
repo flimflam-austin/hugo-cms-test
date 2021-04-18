@@ -20,6 +20,7 @@ card_series: what to know
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       The rose remains a common presence for nearly every U.S. President at The
       White House, and the “most famous occupant” of a garden only steps from
@@ -29,6 +30,7 @@ cards:
       The Rose Garden prepares for a “refreshment.”
     _key: 4fbe4c92a529
   - order: 1
+    useCheckmark: false
     body: >-
       > “The very act of planting a garden involves hard work and hope in the
       possibility of a bright future.”
@@ -41,6 +43,7 @@ cards:
       those with disabilities and support for broadcasts.
     _key: bcb7cdb6d56d
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Rose Garden
 
@@ -56,6 +59,7 @@ cards:
       happened).
     _key: 834e10d6590b
   - order: 3
+    useCheckmark: true
     body: >-
       The current Rose Garden hosted a vegetable garden or greenhouses (even one
       for roses) dating back to the mid-1850s. While the roses remain

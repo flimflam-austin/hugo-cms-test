@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Oct 4, 1927
 
@@ -31,6 +32,7 @@ cards:
       Gutzon Borglum, sculptor
     _key: card-1-a4dc30d2-dbf3-46e0-a1b6-fad9321bcb45
   - order: 1
+    useCheckmark: false
     body: >-
       > “More and more we sensed we were creating a truly great thing, and after
       a while all of us old hands became truly dedicated to it.”  
@@ -41,6 +43,7 @@ cards:
       Hills; now 2.3M visitors come every year.
     _key: card-2-49e2bb00-beb4-4c7a-9408-13117c0bb459
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why \*These\* Presidents?
 
@@ -48,17 +51,18 @@ cards:
       Each one represents an important chapter in America’s story
 
 
-      * George Washington: **“birth”** of nation.
+      * George Washington:**“birth”** of nation.
 
-      * Thomas Jefferson: **“growth”** of ideas (ex: Declaration of
-      Independence) & westward expansion.
+      * Thomas Jefferson:**“growth”** of ideas (ex: Declaration of Independence)
+      & westward expansion.
 
-      * Theodore Roosevelt: **“development”** of economic growth & exploration.
+      * Theodore Roosevelt:**“development”** of economic growth & exploration.
 
-      * Abraham Lincoln: **“preservation”** of country during the during Civil
+      * Abraham Lincoln:**“preservation”** of country during the during Civil
       War.
     _key: card-3-6ca3b4f8-7fd7-4395-8dff-bfe36431650c
   - order: 3
+    useCheckmark: false
     body: >-
       ## Did You Know?
 
@@ -73,6 +77,7 @@ cards:
       ground to carve with chisels & jackhammers.
     _key: card-4-ed427486-f6d0-49a9-be38-30f184347fe4
   - order: 4
+    useCheckmark: false
     body: >-
       ”The idea is so that people a million years from now will realize their
       significance. So many things are lost in history. The Sphinx, the
@@ -85,6 +90,7 @@ cards:
       Records opened officially in 1998.
     _key: card-5-767a5955-b62d-42b9-a4f3-b1eb6212d204
   - order: 5
+    useCheckmark: true
     body: >-
       90% of Mt. Rushmore was carved by dynamite. In fact, some dynamite was
       used to blast away the first face of President Jefferson. Pres. Jefferson

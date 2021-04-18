@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Call Your First Witness!  
 
@@ -30,6 +31,7 @@ cards:
       next.
     _key: 69a7f0769923
   - order: 1
+    useCheckmark: false
     body: >-
       ## WHERE WE ARE
 
@@ -44,6 +46,7 @@ cards:
       * Now senators get to submit written questions to both sides.
     _key: d0136f22c05b
   - order: 2
+    useCheckmark: false
     body: >-
       ## LINGERING QUESTION
 
@@ -61,6 +64,7 @@ cards:
       and new information has come to light. Some Republicans agree.
     _key: fafad8666ad5
   - order: 3
+    useCheckmark: false
     body: >-
       ## WHAT’S NEW
 
@@ -72,10 +76,11 @@ cards:
       * He – reportedly – details this information in his new book.
 
       * We hesitate to characterize this information compared to other media
-      outlets because…**no one has read the book** OR **has direct quotes from
+      outlets because…**no one has read the book** OR**has direct quotes from
       it**.
     _key: 9938d32cb2b2
   - order: 4
+    useCheckmark: false
     body: >-
       > “I have concluded that, if the Senate issues a subpoena for my
       testimony, I am prepared to testify.”
@@ -87,6 +92,7 @@ cards:
       on Bolton varies from a respected expert to disgruntled employee.
     _key: 38e8902fd51e
   - order: 5
+    useCheckmark: false
     body: >-
       > “While we are creating jobs and killing terrorists, the congressional
       Democrats are obsessed with demented hoaxes, crazy witch hunts and
@@ -99,6 +105,7 @@ cards:
       campaign trail.
     _key: 3e710a2fa3a3
   - order: 6
+    useCheckmark: true
     body: >-
       Whether or not the Senate allows witnesses depends entirely on a majority
       vote in the Senate where Republicans hold the majority. One solution? Sen.

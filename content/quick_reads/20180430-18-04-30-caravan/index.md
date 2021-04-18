@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       Caravan Arrives:  
       Asylum-Seekers At Border
@@ -30,6 +31,7 @@ cards:
     citation: FLIP FOR MORE
     _key: card-1-1ad5e760-6908-4e6b-a232-7e1cacf36eda
   - order: 1
+    useCheckmark: false
     body: >-
       ## Caravan 101
 
@@ -47,12 +49,13 @@ cards:
       **Why:** To obtain *legal* asylum in U.S.
     _key: card-2-c5ba4e6d-a96c-4ac8-b8b3-6a914e426edd
   - order: 2
+    useCheckmark: false
     body: >-
       ## What is legal asylum?
 
 
       An asylum-seeker is a non-citizen present in U.S. or seeking admission at
-      a port of entry who claims a **well-founded fear of persecution** based on
+      a port of entry who claims a**well-founded fear of persecution** based on
       1 of 5A ‘protected grounds’:  
 
       1. Religion  
@@ -66,6 +69,7 @@ cards:
       5. Race
     _key: card-3-8c912641-139b-446f-950f-5a457061d176
   - order: 3
+    useCheckmark: false
     body: >-
       ## Approx 11% of all asylum applications were granted in 2016
 
@@ -78,9 +82,11 @@ cards:
       officials there processed 50 asylum cases a day from Oct – Feb.
     _key: card-4-b57940a2-bb2e-4d16-a284-1d9dbc40cbbf
   - order: 4
+    useCheckmark: false
     body: "## Opposing Views: Caravan\n\n**“a deliberate attempt to undermine our laws and overwhelm our system”**  \nAG Jeff Sessions\n\n**‘For us, this is all about who we are as a country…I want it to be true that when we say, a\x18Liberty & justice for all,’ we mean it.”**  \nHeather Cronk, Showing Up for Racial Justice to NYT"
     _key: card-5-ac10355a-499d-499c-918b-cd568486e4f0
   - order: 5
+    useCheckmark: true
     body: >-
       NOW WHAT? Unclear. Generally, asylum-seekers are held for up to three days
       at the border before they are turned over to immigration authorities for

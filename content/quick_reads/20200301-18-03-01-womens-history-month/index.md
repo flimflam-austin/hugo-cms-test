@@ -16,6 +16,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## Women’s History Month
 
@@ -25,6 +26,7 @@ cards:
     citation: 'Dates back to Reagan: Flip Here'
     _key: card-1-b1b96d7c-d70e-48b2-87d6-ba76333b8312
   - order: 1
+    useCheckmark: false
     body: >-
       ## Women’s History Month Timeline
 
@@ -39,6 +41,7 @@ cards:
       March Women’s History Month
     _key: card-2-8959df48-ad02-4259-910d-150a3d37e140
   - order: 2
+    useCheckmark: false
     body: >-
       “American women of every race, creed and ethnic background helped found
       and build our Nation in countless recorded and unrecorded ways. As
@@ -51,6 +54,7 @@ cards:
       Proclamation](http://www.presidency.ucsb.edu/ws/index.php?pid=42216)
     _key: card-3-9a69d1a3-8e60-4851-97f9-4764a6fb4f3b
   - order: 3
+    useCheckmark: false
     body: >-
       ## Did You Know?: March is also Irish-American Heritage Month
 
@@ -64,6 +68,7 @@ cards:
       * World’s 1st St. Patrick’s Day parade took place in 1762 in NYC
     _key: card-4-a56e91f9-e993-4fe2-9e76-36e70671b2e7
   - order: 4
+    useCheckmark: true
     body: >-
       P.S. President Trump also declared March "American Red Cross Month" - It's
       a busy Spring.

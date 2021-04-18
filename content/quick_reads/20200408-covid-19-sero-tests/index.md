@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # COVID-19: Sero Tests
 
@@ -28,6 +29,7 @@ cards:
       outbreak and opening America back up again.
     _key: 1d576c766ad2
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKSTORY
 
@@ -46,6 +48,7 @@ cards:
       **Bottom Line: We have an incomplete picture of COVID-19 in America.**
     _key: 739888b53ebc
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Sero Tests Matter
 
@@ -58,6 +61,7 @@ cards:
       of Health and Human Services (HHS) during a COVID-19 Task Force briefing.
     _key: 55c418e88c75
   - order: 3
+    useCheckmark: false
     body: >-
       ## Sero Tests 101
 
@@ -71,9 +75,11 @@ cards:
       (**whether or not they ever showed symptoms**) – and *may* have immunity.
     _key: 555ed7e3e637
   - order: 4
-    body: "## Why It Matters\n\n* Current knowledge of COVID-19 is *largely* based on people who test positive – **they tend to be the most sick**.\n* If more people than previously thought had prior exposure to COVID-19, it may help relax public health measures, e.g. social distancing.\n* If\_fewer\_people\_had\_exposure to COVID-19, it may increase the need for public health measures until there’s a clinically tested treatment or vaccine."
+    useCheckmark: false
+    body: "## Why It Matters\n\n* Current knowledge of COVID-19 is *largely* based on people who test positive –**they tend to be the most sick**.\n* If more people than previously thought had prior exposure to COVID-19, it may help relax public health measures, e.g. social distancing.\n* If\_fewer\_people\_had\_exposure to COVID-19, it may increase the need for public health measures until there’s a clinically tested treatment or vaccine."
     _key: 6687423412d5
   - order: 5
+    useCheckmark: false
     body: >-
       > “…someone who’s recovered from the virus and doesn’t have the virus in
       their system at all, you can take plasma…that plasma contains the proteins
@@ -86,6 +92,7 @@ cards:
       another reason why sero tests matter.
     _key: 64d056fb8c0c
   - order: 6
+    useCheckmark: false
     body: >-
       ## A Warning
 
@@ -101,6 +108,7 @@ cards:
       that may not work.
     _key: f6983c4102fa
   - order: 7
+    useCheckmark: true
     body: >-
       The FDA granted emergency use authorization to one serological test.
       Results are available within 15 to 20 min. On Monday, Adm. Giroir M.D.

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Russian Retaliation
 
@@ -38,6 +39,7 @@ cards:
     citation: Flip For More
     _key: card-1-3d275d6d-7bdd-444b-a887-e9882a8c3166
   - order: 1
+    useCheckmark: false
     body: >-
       ## Kremlin Twitter-plomacy
 
@@ -55,6 +57,7 @@ cards:
     citation: See the Poll
     _key: card-2-84075e26-5a80-4cea-b465-6af280fe6c16
   - order: 2
+    useCheckmark: false
     body: >-
       Important Context: 2017
 
@@ -69,6 +72,7 @@ cards:
       1 in WashingtonA & 1 in NY.
     _key: card-3-c2195394-b451-4e9c-8452-2aa8ac84605c
   - order: 3
+    useCheckmark: true
     body: >-
       An American journalist banished from Russia weighs in on what the U.S.
       SHOULD be doing to promote a real change in behavior in Russia. Read more:

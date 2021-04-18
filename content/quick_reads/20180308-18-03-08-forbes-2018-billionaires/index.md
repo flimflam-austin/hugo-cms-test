@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Record Breaking
 
@@ -27,11 +28,12 @@ cards:
       ## Billionaire Breakthrough
 
 
-      _Forbes_ newly released 2018 World’s Billionaire rankings shows **women
+      _Forbes_ newly released 2018 World’s Billionaire rankings shows**women
       make up nearly 12% of the world’s billionaires** – that’s an all-time
       high.
     _key: card-1-2e50a7ac-00a8-48e2-b68e-2ca6d53867fd
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Billion Dollar Ladie$
 
@@ -48,6 +50,7 @@ cards:
       less than 30% self-made.
     _key: card-2-5df04d77-c1f6-469a-a963-f69a1d007a23
   - order: 2
+    useCheckmark: false
     body: |-
       # For Comparison Sake:
 
@@ -58,6 +61,7 @@ cards:
       A according to 2015 U.S. Census
     _key: card-3-f3a95b9f-4565-4676-af22-9c7fe76535ee
   - order: 3
+    useCheckmark: false
     body: |-
       # Median Annual Income for American Women:
 
@@ -70,6 +74,7 @@ cards:
       age 65 & up: $41,600
     _key: card-4-a5d22723-2a36-4058-bcbe-b415640b5add
   - order: 4
+    useCheckmark: true
     body: >-
       So who is the richest BILLIONAIRE of them all? Jeff Bezos, CEO Amazon.
       More on who made the list:

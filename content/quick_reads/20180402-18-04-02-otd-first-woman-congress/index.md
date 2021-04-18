@@ -20,9 +20,11 @@ card_series: On This Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: First Woman Sworn Into Congress
     _key: card-1-b2e018d7-c23c-4cef-a305-9a83db0b283d
   - order: 1
+    useCheckmark: false
     body: >-
       > **‘I may be the first woman member of Congress, but I won’t be the
       last.”**  
@@ -33,6 +35,7 @@ cards:
       history
     _key: card-2-47192489-bd54-409c-8fb4-f7e393e75e1d
   - order: 2
+    useCheckmark: false
     body: >-
       ## About Jeanette Rankin:
 
@@ -46,6 +49,7 @@ cards:
       million in scholarships to 1,000 women.
     _key: card-3-6276fe22-8dc2-4242-b5dc-b13a952a9a9c
   - order: 3
+    useCheckmark: false
     body: >-
       # Rankin Was Right!
 
@@ -60,6 +64,7 @@ cards:
       Delegates, or Senators.
     _key: card-4-fc8511cf-087a-43cb-8228-2d2ce5961f74
   - order: 4
+    useCheckmark: true
     body: >-
       [view
       sources](https://smarthernews.com/18-04-02-otd-first-woman-congress/)

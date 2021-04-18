@@ -19,6 +19,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # New Year’s Resolutions
 
@@ -27,9 +28,11 @@ cards:
       Research suggests real benefit even if you break ’em…
     _key: 14f907e85e79
   - order: 1
+    useCheckmark: false
     body: "> “Resolutions deserve a little more respect.”\n\nUniversity of Scranton researcher\_John Norcross who's conducted studies\_of New Year's resolution-makers and those who set personal goals *without* formal New Year's resolutions. 60% of resolution-makers fail by six months, *BUT* resolution-makers are ten times more likely to make life changes than non-resolution-makers."
     _key: 33b5d4b9c060
   - order: 2
+    useCheckmark: false
     body: >-
       > “Now is the accepted time to make your regular annual good resolutions.
       Next week you can begin paving hell with them as usual.”  
@@ -39,6 +42,7 @@ cards:
       newspaper and New Year's resolutions were commonplace by the mid 1800s.
     _key: 4006a5001251
   - order: 3
+    useCheckmark: false
     body: >-
       ## RESOLUTION ORIGINS
 
@@ -53,6 +57,7 @@ cards:
       * 1671 diary entry by a Scottish writer references “resolutions.”
     _key: 9e47cce4c872
   - order: 4
+    useCheckmark: true
     body: >-
       OUT WITH THE OLD, IN WITH THE NEW Have you been successful with New Year's
       resolutions in the past? Why or why not? Will you make one this year?

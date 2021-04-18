@@ -20,12 +20,14 @@ card_series: On This Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       April 24, 1982
 
       The Day the Workout World Changed Forever
     _key: card-1-5cddf0aa-a48d-47ef-be9e-1ae675fc4411
   - order: 1
+    useCheckmark: false
     body: >-
       ## “Jane Fonda’s Workout”
 
@@ -33,13 +35,13 @@ cards:
       **Best-Selling VHS – EVER.A**
 
 
-      $50K budget: Shot with **1A camera & DIY hair and makeup**.
+      $50K budget: Shot with**1A camera & DIY hair and makeup**.
 
 
-      By 1989, Fonda’s workout tapes & books were **worth an estimated $35M**.
+      By 1989, Fonda’s workout tapes & books were**worth an estimated $35M**.
 
 
-      At first, she had **“real misgivings”**…
+      At first, she had**“real misgivings”**…
 
 
       [Watch
@@ -47,17 +49,19 @@ cards:
     citation: Watch Now
     _key: card-2-b0a7f48a-d3f2-4d97-ab47-c4236e15ae48
   - order: 2
+    useCheckmark: false
     body: >-
-      At **44-years-old**, she was a **2-timeA Oscar-winning actress**. She had
-      a successful L.A. workout studio & book (#1 NYT’s Best Seller for 2 yrs!).
-      But a workout video? **It had never been done.** Besides, **no one she
-      knew owned a VHS player.**
+      At**44-years-old**, she was a**2-timeA Oscar-winning actress**. She had a
+      successful L.A. workout studio & book (#1 NYT’s Best Seller for 2 yrs!).
+      But a workout video?**It had never been done.** Besides,**no one she knew
+      owned a VHS player.**
 
 
-      She finally agreed, with **all proceeds going to Campaign for Economic
+      She finally agreed, with**all proceeds going to Campaign for Economic
       Democracy**,**A** aA progressive group run by then-husbandA Tom Hayden.
     _key: card-3-dd2091f0-a0ff-4d0f-ae52-61462f57db90
   - order: 3
+    useCheckmark: false
     body: >-
       ## It Changed Everything.
 
@@ -73,6 +77,7 @@ cards:
       VCR. By 1985, 30% had one.
     _key: card-4-afef07d6-d1d3-49d1-87cc-a71d6c85364c
   - order: 4
+    useCheckmark: false
     body: |-
       ## Feel the Burn: By the #s
 
@@ -85,6 +90,7 @@ cards:
       **17M:**A Fonda workout videos sold.
     _key: card-5-9d66207c-4060-493b-8c15-6ffb82874988
   - order: 5
+    useCheckmark: false
     body: >-
       # Copycat Moves
 
@@ -94,10 +100,10 @@ cards:
 
 
       **Nothing topped Fonda’s innovation**: In 1985, three of her tapes topped
-      Billboard’s VHS sales chart. **The original had been there for 145
-      weeks.**
+      Billboard’s VHS sales chart.**The original had been there for 145 weeks.**
     _key: card-6-e81f733c-9e61-4ee6-8a04-a363bce97f7c
   - order: 6
+    useCheckmark: false
     body: >-
       Advice For Her  
 
@@ -114,6 +120,7 @@ cards:
       Jane Fonda to Shape Magazine in 2014
     _key: card-7-26104908-dbc8-4521-a991-fc6e079520a8
   - order: 7
+    useCheckmark: true
     body: >-
       What about those leg warmers? For why she wore them & what the now
       80-year-old thinks of "athleisure wear" like Lululemon, click here.

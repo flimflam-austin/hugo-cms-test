@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Are 3 Californias Better than 1?
 
@@ -28,12 +29,13 @@ cards:
       November.
 
 
-      Meet what could potentially be **“the 3 Cals.”**
+      Meet what could potentially be**“the 3 Cals.”**
 
 
       Is this, Like, You know, Like, for real?
     _key: card-1-725b9bfb-62d8-4b2c-be00-7cc085dfb444
   - order: 1
+    useCheckmark: false
     body: >-
       ## Proposal Calls for 3 States:
 
@@ -53,6 +55,7 @@ cards:
       [Click to See & Compare](https://cal3.com/compare-the-cas/)
     _key: card-2-e352dc78-b056-49ee-a62b-d0bcacf58b15
   - order: 2
+    useCheckmark: false
     body: >-
       ## Cali-THREE-nia? Why?
 
@@ -69,6 +72,7 @@ cards:
       up California into 6 different states.
     _key: card-3-c1283f7d-ddfb-457a-a21a-989816d73478
   - order: 3
+    useCheckmark: false
     body: >-
       ## Could it Happen? Maybe.
 
@@ -82,13 +86,14 @@ cards:
         
         
         
-      **BUT…**A _‘In this day and age, anything can happen politically.’_  
+      **BUT…**A_‘In this day and age, anything can happen politically.’_  
         
         
         
       Steven Maviglio, CA Democratic adviser
     _key: card-4-a4837190-0f2d-446c-a780-2cab2ca02ba5
   - order: 4
+    useCheckmark: true
     body: >-
       Making it happen would require not only approval by California voters but
       Congress. Click to learn just how long it has been since the U.S. added a

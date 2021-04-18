@@ -20,10 +20,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: '## _“We lead with heart.”_'
     citation: CHIEF JERI WILLIAMS
     _key: fe1b52fe208c
   - order: 1
+    useCheckmark: true
     body: >-
       Phoenix Police Chief Jeri Williams, a 28+ year law enforcement veteran,
       mother and one of the few black female police chiefs in America. Police

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # NEW STARGAZER
 
@@ -40,32 +41,34 @@ cards:
     citation: Watch Now
     _key: card-1-147fac71-95d6-4d71-8fbd-9f6f83fd04db
   - order: 1
+    useCheckmark: false
     body: >-
       ## MEET ‘TESS’
 
 
-      **T**ransiting **E**xoplanet **S**urvey **S**atellite
+      **T**ransiting**E**xoplanet**S**urvey**S**atellite
 
 
       (Lost you at “Exo”? Us too)
 
 
-      TESS is a NASA spacecraft, roughly the size of a flying refrigerator,
-      **expected to launch this week** on a crucial 2 year mission to quite
-      literally scan the universe for stars.
+      TESS is a NASA spacecraft, roughly the size of a flying
+      refrigerator,**expected to launch this week** on a crucial 2 year mission
+      to quite literally scan the universe for stars.
 
 
       flip: why this matters
     citation: 'flip: why this matters'
     _key: card-2-d1f418ec-51a9-4844-8e59-02266b39462a
   - order: 2
+    useCheckmark: false
     body: >-
       ## STAR SCANNER
 
 
-      * TESS will fly a **2 yr mission**
+      * TESS will fly a**2 yr mission**
 
-      * Goal: Scan 500,000 stars, incl **500 “earth-like” planets**.
+      * Goal: Scan 500,000 stars, incl**500 “earth-like” planets**.
 
       * Think of it like taking a “census” of the universe.
 
@@ -74,6 +77,7 @@ cards:
       decide where to prioritize further focus & exploration.
     _key: card-3-a50806a0-ad52-4bb6-b10c-e69801254d6d
   - order: 3
+    useCheckmark: false
     body: >-
       > ‘By looking at such a large section of the sky, this kind of stellar
       real estate, we open up the ability to cherry-pick the best stars for
@@ -86,6 +90,7 @@ cards:
       rocket it was hitching a ride on - will try again April 18th, 2018
     _key: card-4-33af3851-b545-49d0-b8f4-1b459079a1c2
   - order: 4
+    useCheckmark: true
     body: >-
       When it comes to "ET", do we even know what to look for? A new study says
       "No" - Check it out:

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # America On The Attack
 
@@ -29,12 +30,13 @@ cards:
       While We Sleep...
     _key: card-1-67905a01-7f78-4577-a1aa-b2fc728b1593
   - order: 1
+    useCheckmark: false
     body: >-
       ## What You Should Know:
 
 
       * U.S. has a consistent bombing campaign vs. al-Shabaab (al-Qaeda’s arm in
-      Somalia); **airstrike killed 3 terrorists this week.**
+      Somalia);**airstrike killed 3 terrorists this week.**
 
       * U.S. dropped 31 bombs in Somalia in 2017; this year’s # of airstrikes
       likely the**A same or more.**
@@ -43,19 +45,21 @@ cards:
       Americans;**A U.S. soldier killed in June.
     _key: card-2-efeb9296-e3f3-4472-92bb-dd197da62dd6
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why al-Shabaab Matters:
 
 
-      > "They’ve been able to **kill very high numbers** and you didn’t see that
-      five years ago. They’ve been able to actually **overrun bases at times**.
-      The danger is as African Union forces draw down, they may **retake major
+      > "They’ve been able to**kill very high numbers** and you didn’t see that
+      five years ago. They’ve been able to actually**overrun bases at times**.
+      The danger is as African Union forces draw down, they may**retake major
       urban areas**. I think there’s a good chance of that."  
         
       Daveed Gartenstein-Ross, Senior Analyst, Foundation for Defense of
       Democracies
     _key: card-3-2385ed66-8251-4716-b7f2-b9b4d7011ba1
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -69,6 +73,7 @@ cards:
       Why This Matters?
     _key: card-4-749f5198-66eb-4b9e-a58c-00ac5272590c
   - order: 4
+    useCheckmark: false
     body: >-
       ## Al-Qaeda (AQ) Adjusts
 
@@ -85,6 +90,7 @@ cards:
       AQ, Taliban and ISIS.
     _key: card-5-5159bf02-32b2-4eea-9393-82f06b6f015c
   - order: 5
+    useCheckmark: true
     body: >-
       The U.S military reportedly dropped thousands more bombs inside
       Afghanistan in 2017 than in 2016, as U.S. military defends against the

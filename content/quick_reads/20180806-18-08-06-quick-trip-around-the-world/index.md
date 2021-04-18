@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ~ 3 HOT SPOTS ~  
       3 HEADLINES TO KNOW
@@ -33,6 +34,7 @@ cards:
       **Why It Matters**
     _key: card-1-126f2293-000b-45df-8809-0979ce0bf6c7
   - order: 1
+    useCheckmark: false
     body: >-
       ## VENEZUELA: Tinder Box
 
@@ -51,6 +53,7 @@ cards:
       Explosion](https://twitter.com/NTN24ve/status/1026201174024900608)
     _key: card-2-717a30c0-402f-4ecc-b47d-bcb8ea4f5c7d
   - order: 2
+    useCheckmark: false
     body: >-
       ## IRAN: Economy Matters
 
@@ -65,6 +68,7 @@ cards:
       w/ gov’t. Often overlooked: major drought adding pressure.
     _key: card-3-d3a44992-5f32-45de-9a66-b47681e0df91
   - order: 3
+    useCheckmark: false
     body: |-
       ## AFGHANISTAN: Attacks
 
@@ -75,6 +79,7 @@ cards:
       * **Bottom Line**: Easy to forget, but U.S. still very much at war.
     _key: card-4-e0f1459f-3308-4275-9c9b-09f8cd0dd4c5
   - order: 4
+    useCheckmark: true
     body: >-
       The instability (and unpredictability) in Iran & Venezuela, 2 large oil
       producers, has led some to wonder about the impact on the global oil

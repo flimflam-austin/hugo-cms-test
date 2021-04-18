@@ -20,6 +20,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # AMAZING DISCOVERY!
 
@@ -36,6 +37,7 @@ cards:
       Now](https://www.youtube.com/embed/-K-V_ah6IIs?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-584a9812-4d6d-4599-a8ac-a41f1ddc803d
   - order: 1
+    useCheckmark: false
     body: >-
       ## Backstory:
 
@@ -50,6 +52,7 @@ cards:
       * 2,770 men rescued at sea, but 200+ went down with the ship.
     _key: card-2-f44aa6e0-9c01-4fab-9084-cb3676b3bba8
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -65,6 +68,7 @@ cards:
       America’s favor.
     _key: card-3-ad94d97e-291f-47ca-bc7f-9ab9196e5ecd
   - order: 3
+    useCheckmark: false
     body: >-
       > ‘To pay tribute to theA USSA LexingtonA and the brave men that served on
       her is an honor. As Americans, all of usA owe a debt of gratitude to
@@ -76,6 +80,7 @@ cards:
       Paul Allen, Microsoft Co-Founder & Explorer of Historic Battleships
     _key: card-4-98b0f8fa-d7e0-4a0e-805c-b7b3852bf110
   - order: 4
+    useCheckmark: true
     body: >-
       BTW Paul Allen is building the world's largest airplane. Expect to hear
       more about that soon! Preview In Sources:

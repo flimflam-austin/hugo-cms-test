@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # “Surprising Burst of Strength”
 
@@ -28,22 +29,24 @@ cards:
       What we learned from the October jobs report.
     _key: 572b13a7ad23
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Basics:
 
 
-      Last month the U.S. gained **638,000 jobs.**
+      Last month the U.S. gained**638,000 jobs.**
 
 
       This is better than expected (especially since more than 150,000 census
       workers lost their temporary jobs).
 
 
-      The new unemployment rate is **6.9% – a full percentage point lower than
-      September**, but the nation still has **10M fewer jobs than before the
+      The new unemployment rate is**6.9% – a full percentage point lower than
+      September**, but the nation still has**10M fewer jobs than before the
       pandemic.**
     _key: 4a0984c4f15e
   - order: 2
+    useCheckmark: false
     body: >-
       > “It was a pleasant surprise to see that the pace of the recovery hasn’t
       slowed down. But we all need to keep in mind the huge hole that we’re in,
@@ -56,6 +59,7 @@ cards:
       hiring.
     _key: 0c9cab2c68ff
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something to Consider
 
@@ -65,11 +69,12 @@ cards:
       making the same amount in tips vs. pre-COVID?
 
       * **Need vs. Want:** What is the impact of the record number of women
-      leaving the labor force during the COVID-19 pandemic? She may **want** to
-      work, but is no longer counted as part of the labor force if she **needs**
+      leaving the labor force during the COVID-19 pandemic? She may**want** to
+      work, but is no longer counted as part of the labor force if she**needs**
       to stay home.
     _key: 1fb3b28ecf39
   - order: 4
+    useCheckmark: true
     body: >-
       Whoever wins the presidency will confront an economy hurt by the global
       pandemic. Different opinions exist about the role of government to

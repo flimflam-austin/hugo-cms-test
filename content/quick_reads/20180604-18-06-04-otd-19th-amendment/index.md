@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       99 Years Ago Today:  
 
@@ -34,14 +35,15 @@ cards:
       Flip For Why It Matters
     _key: card-1-e7d9807a-136d-4ba4-a1e6-bd97378da3da
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Women’s Vote
 
 
-      In 2016, Hillary Clinton received **54%** of female votes.
+      In 2016, Hillary Clinton received**54%** of female votes.
 
 
-      Pres.A Trump receivedA **52%** of the white female vote – the largest
+      Pres.A Trump receivedA**52%** of the white female vote – the largest
       female voting bloc. This helped secure his victory.
 
 
@@ -49,6 +51,7 @@ cards:
       toward, the Democratic Party.**
     _key: card-2-9756d4c2-6b7f-4277-8dca-3a11142e11b3
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why did it take so long?
 
@@ -66,6 +69,7 @@ cards:
       On Aug 18, 1920, Tennessee became the 36th and final state to ratify.
     _key: card-3-52dda060-218d-4b50-a64c-3635c842846b
   - order: 3
+    useCheckmark: true
     body: >-
       Did you know that during the last census the United States was almost
       50/50 women:men? So when there are more women than men voting...there are

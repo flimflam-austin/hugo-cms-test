@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # T-MOBILE & SPRINT TO MERGE?
 
@@ -27,13 +28,14 @@ cards:
       ## 1 in 3 Americans Impacted
 
 
-      Promising more jobs & faster internet, but $26B deal **still needs
+      Promising more jobs & faster internet, but $26B deal**still needs
       regulators’ blessing** – which hasn’t gone well in the past…
 
 
       THIRD TIME THE CHARM?
     _key: card-1-88c2ecc1-9297-449b-885b-4b302e194a40
   - order: 1
+    useCheckmark: false
     body: >-
       **What’s different this time?**  
 
@@ -52,6 +54,7 @@ cards:
       _Tom Wheeler, Former FCC Chair_
     _key: card-2-10dd8e5f-c8ef-4057-9e90-1773fe9159f6
   - order: 2
+    useCheckmark: false
     body: >-
       ## How Will Deal Affect You?
 
@@ -75,6 +78,7 @@ cards:
       FLIP: opposing takes
     _key: card-3-85b32e4d-6f00-4c7d-bc39-11490a6bd266
   - order: 3
+    useCheckmark: false
     body: >-
       _"Combination will not only result in less choice for consumers, it will
       provide greater incentive for the 3 remaining companies to act in
@@ -89,6 +93,7 @@ cards:
       **Jonathan Chaplin, New Street Research**
     _key: card-4-c2e1a191-3708-47dc-9cb4-28bab44fd005
   - order: 4
+    useCheckmark: true
     body: >-
       SmartHER Take: The biggest question for regulators will be what's more
       important for you the consumer: lower monthly wireless prices or cutting

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # The Art Of The Deal:
 
@@ -34,6 +35,7 @@ cards:
       FLIP: LEARN MORE
     _key: card-1-4cf44f31-8239-4646-a658-d5f5d34605b3
   - order: 1
+    useCheckmark: false
     body: >-
       “I was very much looking forward to being there with you. Sadly, I feel it
       is inappropriate, at this time, to have this long-planned meeting….The
@@ -47,6 +49,7 @@ cards:
       meeting.
     _key: card-2-a097a623-65e8-45fd-9d95-1c43d153e2a8
   - order: 2
+    useCheckmark: false
     body: >-
       ## “Art Of The Deal”
 
@@ -61,6 +64,7 @@ cards:
       worth your attention.
     _key: card-3-69502830-89e0-4fb0-ae10-1072b6f609e3
   - order: 3
+    useCheckmark: false
     body: >-
       ## Less Than 24 Hours After President Trump Sent His Letter…
 
@@ -72,6 +76,7 @@ cards:
       time and opportunity to the U.S.”
     _key: card-4-0bb346f1-5309-4ade-b3e4-23ff334e6569
   - order: 4
+    useCheckmark: true
     body: >-
       Are the tactics working? Hours before Trump officially called off the
       meeting, N. Korea *claimed* it dismantled its only known nuclear test

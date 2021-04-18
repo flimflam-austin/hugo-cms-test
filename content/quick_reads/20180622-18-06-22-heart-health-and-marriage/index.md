@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Want To Stay Healthy?
 
@@ -32,6 +33,7 @@ cards:
       If you like it...flip!
     _key: card-1-91d0215c-4536-4d5a-8b22-b6f9ea0ddab1
   - order: 1
+    useCheckmark: false
     body: >-
       ## What To Know
 
@@ -48,6 +50,7 @@ cards:
       * **Data: married people have less heart disease than others.**
     _key: card-2-a3b4da7e-f8f7-4d83-97a9-919c11f03f8b
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Marriage?
 
@@ -62,6 +65,7 @@ cards:
       healthcare.
     _key: card-3-6e79478d-ad66-4182-b504-c0c417d80da5
   - order: 3
+    useCheckmark: true
     body: >-
       Researchers say this topic needs more research. They admit they did not
       focus on the quality of marriage or long term relationships either. BTW -

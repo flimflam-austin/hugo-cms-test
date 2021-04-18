@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “I found a vicious rhythm.”  
         
@@ -30,6 +31,7 @@ cards:
       4th.
     _key: card-1-a6e92b88-86f2-4e91-a0fc-710b3d583289
   - order: 1
+    useCheckmark: false
     body: >-
       > “We need to make sure we keep our eyes and ears open.”  
         
@@ -40,6 +42,7 @@ cards:
       in Cleveland, Ohio.
     _key: card-2-6af04060-de37-4a40-b04a-ebd35f1a2c60
   - order: 2
+    useCheckmark: false
     body: >-
       “Normal countries don’t terrorize other nations, proliferate missiles, and
       impoverish their own people.”  
@@ -52,6 +55,7 @@ cards:
       thwarted; the target was those who challenge the current regime.
     _key: card-3-ebb0d78c-6192-4c0b-b2f0-6e8f37680593
   - order: 3
+    useCheckmark: false
     body: >-
       "Divers are in dark areas that are not flat and there’s mud and rocks
       everywhere. Therefore, for the SEAL team that’s there, when they dive,
@@ -64,6 +68,7 @@ cards:
       why this is such a challenging rescue - view on our source page.
     _key: card-4-581b7552-54d2-456c-b414-97ebccbc5056
   - order: 4
+    useCheckmark: true
     body: >-
       "The 2nd Day of July 1776. will be the most memorable Epocha, in the
       History of America. - I am apt to believe that it will be celebrated, by

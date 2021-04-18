@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Oscars In 3 Quotes
 
@@ -32,6 +33,7 @@ cards:
       Flip For More
     _key: card-1-8fae4f2a-78a5-439b-ae74-85060b569ec2
   - order: 1
+    useCheckmark: false
     body: |-
       # Hollywood Legend
 
@@ -44,10 +46,11 @@ cards:
       Gave birth to her first child, a son, days after she won Academy Award
     _key: card-2-bfa7f6c0-2d2e-4f2a-b304-840073971429
   - order: 2
+    useCheckmark: false
     body: >-
       > “At age 17, I enlisted in the National Guard. A few years later, I
       volunteered to go to Vietnam. Now I am proud to have served there for 12
-      months with Alpha Company of the 39th Infantry. (Applause). **Anyone
+      months with Alpha Company of the 39th Infantry. (Applause).**Anyone
       else**?”  
         
         
@@ -56,6 +59,7 @@ cards:
       around the world" 90th Academy Awards
     _key: card-3-a07f0e57-2d40-471c-b936-31bed41f6f1d
   - order: 3
+    useCheckmark: false
     body: >-
       Amazing American:  
 
@@ -72,6 +76,7 @@ cards:
       Only spoke Cherokee language until age 5
     _key: card-4-aed10ef3-9e06-4b9b-b633-a59fe387f4c9
   - order: 4
+    useCheckmark: false
     body: >-
       > ‘I have two words for you: ‘**Inclusion Rider**‘.”  
         
@@ -84,6 +89,7 @@ cards:
       Flip For What It Means
     _key: card-5-6265fbe3-e9e3-4cdc-b857-9e7ef0e8251f
   - order: 5
+    useCheckmark: false
     body: >-
       ## AKA: “Equity Rider”
 
@@ -93,13 +99,14 @@ cards:
 
       “An inclusion rider is a reference to the belief by some that there should
       be requirements in contracts that provide for gender and racial
-      diversity.” _Hollywood Reporter, March 4, 2018_
+      diversity.”_Hollywood Reporter, March 4, 2018_
 
 
       [Click Here For
       Article](https://www.hollywoodreporter.com/news/what-is-an-inclusion-rider-frances-mcdormands-oscars-speech-explained-1091532)
     _key: card-6-2f58c206-32f8-4ab5-ad6c-b7a1818f7fda
   - order: 6
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-02-04-oscars-missed/)'
     _key: card-10-eac9140e-4164-4149-9adc-b537da03b19c
 

@@ -19,10 +19,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: '> _“Perseverance will get you anywhere.”_'
     citation: NASA
     _key: 41041a7ac8b3
   - order: 1
+    useCheckmark: true
     body: >-
       "I’m safe on Mars," NASA's Mars rover "Perseverance" from its Twitter
       account. The successful landing of "Percy" (the spacecraft's nickname)

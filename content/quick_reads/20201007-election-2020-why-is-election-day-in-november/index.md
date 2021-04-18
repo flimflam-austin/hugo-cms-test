@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # ELECTION DAY
 
@@ -28,6 +29,7 @@ cards:
       WHY we vote WHEN we vote
     _key: 398b4565f620
   - order: 1
+    useCheckmark: false
     body: >-
       ## HISTORY
 
@@ -43,20 +45,22 @@ cards:
       as the day for presidential electors to vote.
     _key: 3fba8e3f9955
   - order: 2
+    useCheckmark: false
     body: >-
       ## WHY NOVEMBER?
 
 
       * At the time, America was largely an agrarian society, with most people
-      depending on **farming** to make money and support their families.
+      depending on**farming** to make money and support their families.
 
-      * November marks the end of the **fall harvest** (meaning most of the
+      * November marks the end of the**fall harvest** (meaning most of the
       agricultural work was already done).
 
-      * Early November is also the time of year when it’s still usually **warm
+      * Early November is also the time of year when it’s still usually**warm
       enough** to travel before winter begins.
     _key: 3f8b727521c1
   - order: 3
+    useCheckmark: false
     body: >-
       ## WHY TUESDAY?
 
@@ -65,12 +69,13 @@ cards:
       order to get to a polling station.
 
       * Tuesday was chosen because holding elections on Mondays could interfere
-      with Sunday **church** attendance.
+      with Sunday**church** attendance.
 
       * Congress added “_after the first Monday_” to ensure Election Day
       wouldn’t fall on Nov. 1, which is All Saints Day (a Catholic holiday).
     _key: dd07be044460
   - order: 4
+    useCheckmark: false
     body: >-
       ## DID YOU KNOW?
 
@@ -79,7 +84,7 @@ cards:
       inauguration date.
 
       * Most presidential inaugurations were held on March 4th until 1933, when
-      Congress passed the **20th Amendment** to shorten the time period outgoing
+      Congress passed the**20th Amendment** to shorten the time period outgoing
       administrations remained in office
 
       * It states “_the terms of the President and the Vice President shall end
@@ -87,6 +92,7 @@ cards:
       shall then begin._“
     _key: afc74e226e23
   - order: 5
+    useCheckmark: true
     body: >-
       Now, more than ever, people are questioning the rules governing WHEN we
       vote, especially due to COVID-19. Some say Election Day should be a

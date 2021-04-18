@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## “HIGHLY POWERED”
 
@@ -28,6 +29,7 @@ cards:
       COVID-19.
     _key: 99d333a04e54
   - order: 1
+    useCheckmark: false
     body: >-
       ## What To Know:
 
@@ -46,6 +48,7 @@ cards:
       30%**
     _key: d86a7e92a1db
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -62,6 +65,7 @@ cards:
       remdesivir and other therapeutics.
     _key: a7bb44275c72
   - order: 3
+    useCheckmark: false
     body: >-
       ## How It Works:
 
@@ -79,6 +83,7 @@ cards:
       world.
     _key: b06344fe33a8
   - order: 4
+    useCheckmark: false
     body: >-
       > “It’s active against every coronavirus that we’ve ever tested. It was
       very hard for the virus to develop resistance to remdesivir. That means
@@ -91,6 +96,7 @@ cards:
       & effective treating less severe cases of COVID-19.
     _key: 3c93e25b85d6
   - order: 5
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
@@ -105,6 +111,7 @@ cards:
       decreasing number of COVID cases.
     _key: 9413370303ce
   - order: 6
+    useCheckmark: true
     body: >-
       Dr. Fauci says the drug's impact on COVID-19 mortality is TBD. Initial
       data reflects a trend that those treated with remdesivir have lower

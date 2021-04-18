@@ -20,11 +20,12 @@ card_series: Now You Know
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## To A Certain Degree
 
 
-      AboutA **33% of adults over 25** have a Bachelor’s degree.
+      AboutA**33% of adults over 25** have a Bachelor’s degree.
 
 
       Why the future of college education may be ditching the traditional
@@ -34,11 +35,12 @@ cards:
       Ivy League ...Online?
     _key: card-1-26f5970a-d9ed-4274-b8b9-bf23ecda4f8f
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Future of Learning?
 
 
-      * Univ. of Pennsylvania (Penn) will offer an **online bachelor’s degree**
+      * Univ. of Pennsylvania (Penn) will offer an**online bachelor’s degree**
       next year through its College of Prof. & Liberal Arts Studies.
 
       * **First Ivy League college** to offer online bachelor’s degree.
@@ -51,6 +53,7 @@ cards:
       * Visit campus twice before degree.
     _key: card-2-8d3a8427-a8c5-4b6f-ac48-f6fbba523c57
   - order: 2
+    useCheckmark: false
     body: >-
       > "When you’re working and raising a family or you’re part of the sandwich
       generation, it really makes it very difficult to get through the 30 to 36
@@ -63,20 +66,22 @@ cards:
       University of Pennsylvania
     _key: card-3-7627ae68-0006-46a0-8443-2af965d77247
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
 
-      * Higher educationA **without the higher cost**.
+      * Higher educationA**without the higher cost**.
 
       * **Increasing demand** for less expensive degrees from top-tier schools
 
       * Penn sees more colleges offering online bachelor’s.
 
-      * National unemployment rate for those with **college degree (2.1%)**
-      about 1/2 what it is for those with only a **high school degree (4.3%)**.
+      * National unemployment rate for those with**college degree (2.1%)** about
+      1/2 what it is for those with only a**high school degree (4.3%)**.
     _key: card-4-87884541-efde-4794-b116-2cda64bb6443
   - order: 4
+    useCheckmark: true
     body: >-
       Several Ivy League universities offer online degrees at the graduate
       degree level, including Penn, but its undergraduate offer is a first.

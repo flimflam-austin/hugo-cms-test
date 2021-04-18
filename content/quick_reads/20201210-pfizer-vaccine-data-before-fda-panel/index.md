@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       New analysis on the first COVID-19 vaccine considered for Emergency Use
       Authorization by the FDA.
@@ -28,6 +29,7 @@ cards:
       Here’s what we know.
     _key: 2e3fca42a824
   - order: 1
+    useCheckmark: false
     body: >-
       ## What It Is:
 
@@ -43,9 +45,11 @@ cards:
       COVID-19 would spread worldwide.
     _key: dcd85c7c1614
   - order: 2
-    body: "## Does It Work?\n\nBased on analysis released by the FDA:\n\n* Early data\_suggests benefits after first dose and 95% efficacy of preventing COVID-19 after two doses.\n* “…suggested benefit of the vaccine in **preventing severe COVID-19**, in **preventing COVID-19 following the first dose**, and in **preventing COVID-19 in individuals with prior SARS-CoV-2 infection**…”"
+    useCheckmark: false
+    body: "## Does It Work?\n\nBased on analysis released by the FDA:\n\n* Early data\_suggests benefits after first dose and 95% efficacy of preventing COVID-19 after two doses.\n* “…suggested benefit of the vaccine in**preventing severe COVID-19**, in**preventing COVID-19 following the first dose**, and in**preventing COVID-19 in individuals with prior SARS-CoV-2 infection**…”"
     _key: f3b88a5a028b
   - order: 3
+    useCheckmark: false
     body: >-
       ## Who Was Tested:
 
@@ -54,7 +58,7 @@ cards:
 
       * Ages range from 12 to 75 yrs old & up.
 
-      * Participants during Stage 1 _“excluded participants at high risk of
+      * Participants during Stage 1_“excluded participants at high risk of
       SARS-CoV-2 infections.”_
 
       * Phase 2/3 expanded to those higher risk, with preexisting conditions
@@ -64,6 +68,7 @@ cards:
       were white. Median age: 51.
     _key: e0e5bca70b92
   - order: 4
+    useCheckmark: false
     body: >-
       ## Safety
 
@@ -75,6 +80,7 @@ cards:
       median follow-up duration of two months after their second dose.
     _key: 48c3410f3470
   - order: 5
+    useCheckmark: false
     body: >-
       ## What Reactions Did People Commonly Have?
 
@@ -98,6 +104,7 @@ cards:
       older.*
     _key: 903b5067168a
   - order: 6
+    useCheckmark: false
     body: >-
       ## PREGNANCY
 
@@ -113,6 +120,7 @@ cards:
       of these pregnancies.
     _key: 7b481ead1f5c
   - order: 7
+    useCheckmark: true
     body: >-
       The mRNA technology used to create this vaccine has never been approved
       for use against infectious diseases or licensed in the United States --

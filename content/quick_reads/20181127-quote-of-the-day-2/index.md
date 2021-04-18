@@ -20,10 +20,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: '> _“When you sit back and you just do what you love, things happen."_'
     citation: Idina Menzel
     _key: card-1-6773c103-d72e-4415-a12d-d145b7a47cb2
   - order: 1
+    useCheckmark: true
     body: >-
       Idina Menzel, speaking about lessons learned during her career. Menzel
       provides the voice for Elsa in Walt Disney's ‘Frozen’, released 5 years

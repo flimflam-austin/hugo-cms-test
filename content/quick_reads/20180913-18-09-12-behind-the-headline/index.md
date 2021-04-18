@@ -20,6 +20,7 @@ card_series: Money
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## BEHIND THE HEADLINE
 
@@ -34,32 +35,35 @@ cards:
       Dollars & Sense
     _key: card-1-1cbdf61b-da8c-4c92-b70f-d0af3c0f358a
   - order: 1
+    useCheckmark: false
     body: |-
       ## BIG PICTURE: U.S.A.
 
-      Americans are **earning more**.
+      Americans are**earning more**.
 
       **Fewer people in poverty** (lowest number since 2006).
 
-      It’s a trend. Income increased last year for the **third year in a row.**
+      It’s a trend. Income increased last year for the**third year in a row.**
 
       $61,371 = median household income.
 
       But...
     _key: card-2-e8d4c534-a6b8-4393-bf67-bb629feb6ab2
   - order: 2
+    useCheckmark: false
     body: >-
       ## THE WAGE DEBATE
 
 
-      The American economy has grown, added jobs & workers… but data shows our
-      **income is NOT rising as quickly, as expected, as previous years, or
+      The American economy has grown, added jobs & workers… but data shows
+      our**income is NOT rising as quickly, as expected, as previous years, or
       compared to what things cost (inflation)**.
 
 
       Do we look like we make more on paper, but have less $pending power?
     _key: card-3-5e77dbc6-60ee-4561-b39e-6dda1d5ae8bc
   - order: 3
+    useCheckmark: false
     body: >-
       ## What’s Going on?
 
@@ -75,6 +79,7 @@ cards:
       part-time jobs, or have fewer qualifications, so they make less $$.
     _key: card-4-26f41d74-73b0-437b-92c3-d3f65bf88cf3
   - order: 4
+    useCheckmark: true
     body: >-
       Something To Consider: The way the census measures median income has
       changed. Some say that makes the data difficult to compare to previous

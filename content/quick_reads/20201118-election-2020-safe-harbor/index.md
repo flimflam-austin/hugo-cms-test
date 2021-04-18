@@ -20,17 +20,19 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Safe Harbor
 
 
-      > **AFTER** you cast a ballot, and **BEFORE** the Electoral College votes,
+      > **AFTER** you cast a ballot, and**BEFORE** the Electoral College votes,
       there’s another critical part of the electoral process in a presidential
       election.  
         
       How states reach “safe harbor.”
     _key: 045f40805168
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKGROUND
 
@@ -49,6 +51,7 @@ cards:
       wins.
     _key: d16c36ac8370
   - order: 2
+    useCheckmark: false
     body: >-
       ## The “Safe Harbor” Deadline
 
@@ -65,6 +68,7 @@ cards:
       results to be deemed “conclusive.”
     _key: b431165e2cb2
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -78,6 +82,7 @@ cards:
       federal "safe harbor" law dates back to 1887.
     _key: 80139751c6be
   - order: 4
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -93,9 +98,11 @@ cards:
       history.
     _key: e739e71b8de1
   - order: 5
+    useCheckmark: false
     body: "## BIG PICTURE: 2020\n\n* The Constitution allows citizens, states, and campaigns to challenge federal election results over a period of time before the Electoral College votes.\n* The Trump campaign can levy legal challenges, request recounts.\n* States\_can proactively audit results in order to meet their safe harbor deadlines and “protect” their electoral votes from federal intervention."
     _key: 87f6a56e22eb
   - order: 6
+    useCheckmark: true
     body: >-
       Congress played a role in deciding a presidential election in 1876 - which
       led to the creation of the "safe harbor" law for states. Legal scholars

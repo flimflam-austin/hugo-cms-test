@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > _“‘Opinion’ journalism is an excuse for a lack of discipline.”_
 
@@ -27,6 +28,7 @@ cards:
     citation: Jenna Lee Babin
     _key: card-1-10fe5b91-ef6c-4d37-a574-093d65d117b4
   - order: 1
+    useCheckmark: true
     body: >-
       Our founder of SmartHER News, Jenna Lee Babin speaking on a SmartHER News
       live. This quote resonated with many of you and it's something we think

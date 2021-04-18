@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       So Long Sororities?
 
@@ -28,6 +29,7 @@ cards:
       Harvard University’s last all-female Greek sisterhood goes co-ed.
     _key: card-1-11428c0c-7922-4e0f-9677-000e3dcb81c9
   - order: 1
+    useCheckmark: false
     body: >-
       WHY?  
 
@@ -43,9 +45,11 @@ cards:
       become the co-ed group, "**The Ivy**.”
     _key: card-2-22553648-fb86-4d78-8950-e2b7901e1b92
   - order: 2
+    useCheckmark: false
     body: "> “It is with deep sadness that we accept Iota Tau’s decision to cease activities. New sanctions put in place by Harvard University placed our members in an untenable conflict a\x13 to choose between their supportive, empowering women-only space and external scholastic and leadership opportunities.”  \n  \n  \nRenee Zainer, Alpha Phi International President and Chairman of the International Executive Board"
     _key: card-3-a45d0760-8c66-4318-a9a2-e54eac929540
   - order: 3
+    useCheckmark: false
     body: >-
       # What About The Guys?
 
@@ -59,6 +63,7 @@ cards:
       resisting the sanctions, according to the Harvard Crimson.
     _key: card-4-0851ae9a-33a9-40c7-8c69-5850cbd39466
   - order: 4
+    useCheckmark: false
     body: >-
       # BIGGER PICTURE
 
@@ -66,13 +71,14 @@ cards:
       ## Participation in ‘Greek Life’ declining overall.
 
 
-      * **Alcohol-related** and/or **hazing-related violence** may deter
+      * **Alcohol-related** and/or**hazing-related violence** may deter
       membership; certain universities have simply suspended their “Greek Life”
       programs.
 
-      * Others say a push toward **gender inclusivity** is the cause.
+      * Others say a push toward**gender inclusivity** is the cause.
     _key: card-5-bf198c9f-7e49-41b4-831f-47e4a55605a9
   - order: 5
+    useCheckmark: true
     body: >-
       Harvard isn't alone. Recently, Wesleyan University and Trinity College
       mandated their fraternities & sororities be co-ed. Trinity's mandate

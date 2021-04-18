@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       FBI Admits Failure
 
@@ -28,13 +29,14 @@ cards:
 
 
       FBI: More than a month ago someone called the FBI tip line, raising
-      concerns about the 19-year-old would-be shooter suspect. **But FBI
-      protocol failed.**
+      concerns about the 19-year-old would-be shooter suspect.**But FBI protocol
+      failed.**
 
 
       Flip To See What Caller Said
     _key: card-1-2992f32d-db34-472f-b9fe-b899ad447b11
   - order: 1
+    useCheckmark: false
     body: >-
       # FBI
 
@@ -47,17 +49,19 @@ cards:
       Flip For What Happened Next
     _key: card-2-ca7e4530-0989-41ec-9979-2b4be4d18d05
   - order: 2
+    useCheckmark: false
     body: >-
       ## FBI
 
 
       “The information then should have been forwarded to the FBI Miami Field
-      Office, where appropriate investigative steps would have been taken. **We
+      Office, where appropriate investigative steps would have been taken.**We
       have determined that these protocols were not followed..**.The information
-      was **not provided** to the Miami Field Office, and **no further
+      was**not provided** to the Miami Field Office, and**no further
       investigation was conducted** at that time.”
     _key: card-3-44e07652-44d3-43d1-a61b-bad1677c4741
   - order: 3
+    useCheckmark: false
     body: |-
       # Why This Matters
 
@@ -71,6 +75,7 @@ cards:
     citation: Flip - FBI Dir Statement
     _key: card-4-9ec3e412-5b54-416f-91bc-da8e42ee35ec
   - order: 4
+    useCheckmark: false
     body: >-
       FBI Director:  
 
@@ -84,6 +89,7 @@ cards:
       and how we do it.’
     _key: card-5-98f3dcee-feb9-481a-bd45-6b8798e75c8f
   - order: 5
+    useCheckmark: true
     body: |-
       Watch FBI Video on Tip Line: BTW FBI Number? 1-800-CALL-FBI
 

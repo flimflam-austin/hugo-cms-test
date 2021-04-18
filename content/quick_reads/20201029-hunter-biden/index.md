@@ -18,6 +18,7 @@ card_series: Politics
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## What About Hunter Biden?
 
@@ -30,6 +31,7 @@ cards:
       **What To Know**
     _key: 3301caafdb3a
   - order: 1
+    useCheckmark: false
     body: >-
       ## Disclaimer:
 
@@ -45,6 +47,7 @@ cards:
       double-source.
     _key: 266b97f2fca2
   - order: 2
+    useCheckmark: false
     body: >-
       ## The NY Post Reports:
 
@@ -60,6 +63,7 @@ cards:
       later gave it to the NY Post.
     _key: 5dcf12a77768
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why Does It Matter?
 
@@ -75,6 +79,7 @@ cards:
       in political office and/or shortly after.
     _key: 2cdaa549c44c
   - order: 4
+    useCheckmark: false
     body: >-
       ## Two Sides
 
@@ -89,6 +94,7 @@ cards:
       campaign to skew the presidential election.
     _key: 16563538ffe4
   - order: 5
+    useCheckmark: false
     body: >-
       > “Hunter Biden’s laptop is not part of some Russian disinformation
       campaign.”  
@@ -101,6 +107,7 @@ cards:
       in investigating election interference, both foreign and domestic.
     _key: 84db208e6448
   - order: 6
+    useCheckmark: false
     body: >-
       “…the FBI can neither confirm nor deny the existence of any ongoing
       investigation or persons or entities under investigation…”
@@ -113,6 +120,7 @@ cards:
       earlier statement about election interference.
     _key: 110813c1de3c
   - order: 7
+    useCheckmark: false
     body: >-
       > “The New York Post never asked the Biden campaign about the critical
       elements of this story … we have reviewed Joe Biden’s official schedules
@@ -126,6 +134,7 @@ cards:
       was also investigating that same company).
     _key: 961fe5cc139e
   - order: 8
+    useCheckmark: false
     body: >-
       > “I have heard Joe Biden say he has never discussed his dealings with
       Hunter. That is false.”
@@ -139,6 +148,7 @@ cards:
       come forward after the NY Post report - and to clear his name.
     _key: 755428d1bc3f
   - order: 9
+    useCheckmark: true
     body: >-
       BIG PICTURE: We can't confirm the NY Post reports OR the existence of the
       alleged FBI investigation into Hunter Biden. The story could be false, in

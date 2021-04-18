@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # OUR FOUNDER
 
@@ -33,6 +34,7 @@ cards:
       [Read More From Jenna](https://smarthernews.com/about/)
     _key: card-1-e206edd8-2e65-466e-b22d-d79790037605
   - order: 1
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-01-31-founder/)'
     _key: card-10-6968c00b-6af1-4ffa-8bbd-a5f57f4e5e12
 

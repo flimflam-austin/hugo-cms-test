@@ -16,6 +16,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Venezuela’s Despair
 
@@ -26,38 +27,41 @@ cards:
 
 
       Pres. Maduro’s socialist policies have made life intolerable for most ofA
-      Venezuela’s 34M citizens who struggle for the most basic of needs –
-      **despite sitting on top of the world’s largest oil reserves.**
+      Venezuela’s 34M citizens who struggle for the most basic of needs
+      –**despite sitting on top of the world’s largest oil reserves.**
 
 
       FLIP: Legit Election?
     _key: card-1-188177c2-462b-497f-a529-92d74556caa7
   - order: 1
+    useCheckmark: false
     body: >-
       ## Background
 
 
       * President NicolA!s Maduro won re-election over Henri FalcA3n.
 
-      * Opposition boycotted election, **2 popular candidates banned**.
+      * Opposition boycotted election,**2 popular candidates banned**.
 
-      * Socialists have led Venezuela for **19 years**, beginning withA Hugo
+      * Socialists have led Venezuela for**19 years**, beginning withA Hugo
       Chavez.
 
       * Maduro says Venezuela is a victim of “economic warfare” from the U.S.
     _key: card-2-c3363912-3895-4e0b-a1b1-792c3c0421c3
   - order: 2
+    useCheckmark: false
     body: |-
       Venezuela Election:  
       Why It Matters
 
-      * Avg. _monthly_ salary = **$3 USD**.
+      * Avg._monthly_ salary =**$3 USD**.
       * **90% of citizens say they don’t have enough money to eat.**
       * Economy cut in half since Maduro took over in 2013.
-      * Desperation hasA sparked a **wave of deadly crime**.
-      * At least **1 million people have left the country in the past 4 years**.
+      * Desperation hasA sparked a**wave of deadly crime**.
+      * At least**1 million people have left the country in the past 4 years**.
     _key: card-3-a2c20ecf-f722-4c09-8f79-a89000e0e773
   - order: 3
+    useCheckmark: false
     body: >-
       > ‘I don’t know what everybody else does to survive. If I don’t get out of
       this, I’ll starve to death.’  
@@ -71,6 +75,7 @@ cards:
       FLIP: Cursed riches
     _key: card-4-cc302f0e-20ca-4717-8823-71d1c6fe1248
   - order: 4
+    useCheckmark: false
     body: >-
       ## More Oil Than Saudis, Why Are People Starving?
 
@@ -85,6 +90,7 @@ cards:
       expensive.
     _key: card-5-19f23f9e-1d84-433d-a220-f45c0c41b7ff
   - order: 5
+    useCheckmark: true
     body: >-
       To protest election abuses, Trump officials have warned Venezuela may face
       tighter financial sanctions, including measures making it harder to export

@@ -20,6 +20,7 @@ card_series: From the President's Desk
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Border Emergency?
 
@@ -28,16 +29,17 @@ cards:
       very quickly_.”**
 
 
-      A president can declare a national emergency – **EVERY president since
-      1976 has done so –**A *BUT* may President Trump do so in order to fund a
-      border wall?
+      A president can declare a national emergency –**EVERY president since 1976
+      has done so –**A *BUT* may President Trump do so in order to fund a border
+      wall?
 
 
       What To Know
     _key: card-1-4fda87b7-8726-4eb5-987b-cd173a65c06c
   - order: 1
+    useCheckmark: false
     body: >-
-      The **1976 National Emergencies Act** allows a president to declare an
+      The**1976 National Emergencies Act** allows a president to declare an
       emergency in order to, among other things:
 
 
@@ -52,20 +54,22 @@ cards:
       existing laws to do so.
     _key: card-2-7d3615d7-0a9e-4853-8329-c0bbc31c99b3
   - order: 2
+    useCheckmark: false
     body: >-
       ## Presidential Power Limits
 
 
-      * The president must identify an **existing law** to invoke the emergency
+      * The president must identify an**existing law** to invoke the emergency
       power (example: use the legal definition of an “immigration emergency” to
       make his case).
 
-      * Emergencies **expire** after one year UNLESS renewed.
+      * Emergencies**expire** after one year UNLESS renewed.
 
-      * Emergency can be rescinded any time via a **joint resolution** passed by
+      * Emergency can be rescinded any time via a**joint resolution** passed by
       both houses of Congress.
     _key: card-3-4c2ecdf5-772b-4009-9670-96cf2a837012
   - order: 3
+    useCheckmark: true
     body: >-
       BOTTOM LINE: Yes, it is within President Trump's legal authority to
       declare a national emergency without Congressional approval, *HOWEVER* if

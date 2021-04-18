@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       March 4, 1933
 
@@ -27,10 +28,11 @@ cards:
 
 
       > The 40-hour work week, child labor laws, and social security, all
-      policies **she** helped create after becoming the first woman named in a
+      policies**she** helped create after becoming the first woman named in a
       presidential cabinet on this day in 1933.
     _key: card-1-24afca03-1706-45f4-ab5a-7d4e972605e0
   - order: 1
+    useCheckmark: false
     body: >-
       > “The people are what matter to government, and a government should aim
       to give all the people under its jurisdiction the best possible life.”
@@ -43,6 +45,7 @@ cards:
       Franklin D. Roosevelt and his predecessor.
     _key: card-2-6e44d61c-69d0-4023-8af4-589eadfac174
   - order: 2
+    useCheckmark: false
     body: >-
       > “I came to Washington to work for God, FDR, and the millions of
       forgotten, plain common workingmen.”  
@@ -54,6 +57,7 @@ cards:
       department, she also oversaw the Immigration and Naturalization Service.
     _key: card-3-77813ef9-6268-4e70-8ef2-7528c83cbadc
   - order: 3
+    useCheckmark: false
     body: >-
       ## Perkins’ Lasting Legacy
 
@@ -62,16 +66,16 @@ cards:
       which are still in effect today, including:
 
 
-      * establishing the **Social Security** program (1935)
+      * establishing the**Social Security** program (1935)
 
-      * creating **union** & collective bargaining laws (1935)
+      * creating**union** & collective bargaining laws (1935)
 
-      * enacting **child labor** laws (1936)
+      * enacting**child labor** laws (1936)
 
-      * setting up federal **minimum wage** laws & the **40-hour workweek**
-      (1938)
+      * setting up federal**minimum wage** laws & the**40-hour workweek** (1938)
     _key: card-4-361c5832-035d-4303-bc9a-a7c56aaf57e9
   - order: 4
+    useCheckmark: true
     body: >-
       In 2008, the Frances Perkins Center was established in Maine to honor
       Perkins' legacy and continue her work. The nonprofit and nonpartisan

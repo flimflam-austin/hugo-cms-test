@@ -20,6 +20,7 @@ card_series: Travel
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > SmartHER Positano
 
@@ -27,6 +28,7 @@ cards:
     citation: 'Flip: Ciao Bella'
     _key: card-1-131c6dd4-3c34-4f3f-8852-bdb350dc17f5
   - order: 1
+    useCheckmark: false
     body: >-
       > “I thought no exotic destination could ever match our Honeymoon in Bora
       Boraa|. until we arrived on the Amalfi Coast, and Positano literally took
@@ -38,6 +40,7 @@ cards:
       Positano on Italy's Amalfi Coast.
     _key: card-2-38b41195-2d25-4e55-bc60-82acbf345700
   - order: 2
+    useCheckmark: false
     body: >-
       ## Getting There
 
@@ -53,6 +56,7 @@ cards:
       when the weather is good, crowds lighter and prices less expensive.
     _key: card-3-aef0a3bc-ba6b-4090-b001-444a4e005e5b
   - order: 3
+    useCheckmark: false
     body: >-
       > “After climbing up and down steps all day, there is no guilt in the
       evening as you enjoy the best homemade pasta and fresh fish you have ever
@@ -68,6 +72,7 @@ cards:
       Flip: Where To Go
     _key: card-4-a1ecdb2d-a967-4a20-b57f-a9a968f1911d
   - order: 4
+    useCheckmark: false
     body: >-
       ## In Nearby Capri
 
@@ -83,6 +88,7 @@ cards:
       of Capri is a must.
     _key: card-5-520a67a1-6776-4a16-a5b6-799bfaa8f99d
   - order: 5
+    useCheckmark: true
     body: >-
       We asked Kit how she looked so glamorous while traveling - Her response?
       "When in Italy all you need is to wear white and sunglasses and a man in a

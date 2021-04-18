@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > For weeks, you’ve heard a comparison between the new coronavirus and the
       flu.  
@@ -28,6 +29,7 @@ cards:
     citation: HERE'S WHY
     _key: 574bada2ee5f
   - order: 1
+    useCheckmark: false
     body: >-
       “This virus is not SARS. It is not MERS. And it’s not influenza. It is a
       unique virus with unique characteristics.”
@@ -37,6 +39,7 @@ cards:
       who listed four ways COVID-19 is different than the seasonal flu.
     _key: 104d1bda2533
   - order: 2
+    useCheckmark: false
     body: >-
       ## TRANSMISSION
 
@@ -51,9 +54,11 @@ cards:
       people will either prove or disprove this theory.
     _key: ea96189681ac
   - order: 3
-    body: "## HIGHER FATALITY\n\nThe World Health Organization raised its fatality rate for COVID-19 to **3.4%.**\n\n* Seasonal flu: fatality rate **below**\_**1%.**\n* **However**, COVID data *right now* is based *mostly* on those who are the most sick, and does not include many who may have the illness but have no major symptoms."
+    useCheckmark: false
+    body: "## HIGHER FATALITY\n\nThe World Health Organization raised its fatality rate for COVID-19 to**3.4%.**\n\n* Seasonal flu: fatality rate**below**\_**1%.**\n* **However**, COVID data *right now* is based *mostly* on those who are the most sick, and does not include many who may have the illness but have no major symptoms."
     _key: f389f6b16eb5
   - order: 4
+    useCheckmark: false
     body: >-
       ## VACCINES & TREATMENT
 
@@ -70,6 +75,7 @@ cards:
       * WHO: 20 COVID-19 vaccines in development.
     _key: 619e0bb2bafc
   - order: 5
+    useCheckmark: false
     body: >-
       ## CONTAINMENT
 
@@ -80,6 +86,7 @@ cards:
       Dr. Tedros, Director-General of the World Health Organization.
     _key: ae8eef92751f
   - order: 6
+    useCheckmark: false
     body: >-
       ## This Year’s Flu in America
 
@@ -95,6 +102,7 @@ cards:
       for children in the same period since the CDC began reporting 2004-2005.
     _key: 5094eb98d668
   - order: 7
+    useCheckmark: true
     body: >-
       While the WHO says comparisons between flu and COVID-19 don't work well,
       systems set up to track the flu may be helpful to collect necessary

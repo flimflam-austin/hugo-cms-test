@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # **PROSECUTION RESTS**
 
@@ -28,6 +29,7 @@ cards:
       murder.
     _key: 36a583238012
   - order: 1
+    useCheckmark: false
     body: >-
       > "George Floyd did not die from a primary cardiac event and he did not
       die from drug overdose."
@@ -40,10 +42,11 @@ cards:
       use or pre-existing conditions.
     _key: 45ff8c3a50e9
   - order: 2
+    useCheckmark: false
     body: >-
       > "Both the knee across Mr. Floyd's neck and the prone restraint were
       unreasonable, excessive and contrary to generally accepted police
-      practices." 
+      practices."
 
 
       Law professor, fmr. police officer, & use of force expert Seth Stoughton
@@ -53,6 +56,7 @@ cards:
       harm."
     _key: 34a34aa7aa5a
   - order: 3
+    useCheckmark: false
     body: >-
       > “Once there was no longer any resistance, and clearly when Mr. Floyd was
       no longer responsive ... to continue to apply that level of force to a

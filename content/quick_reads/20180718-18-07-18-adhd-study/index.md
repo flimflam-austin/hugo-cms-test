@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # THE TECH EFFECT
 
@@ -34,27 +35,29 @@ cards:
       Headline vs Reality
     _key: card-1-00fe2b9b-64e4-437b-a030-7a6e0342b41e
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
 
       * American Medical Association: teens watching videos, texting, posting,
-      etc. more than 14x a day, showed **higher rates of ADHD** symptoms over
+      etc. more than 14x a day, showed**higher rates of ADHD** symptoms over
       two-year period.
 
-      * However, researchers **fell short** of PROVING cause and effect.
+      * However, researchers**fell short** of PROVING cause and effect.
 
-      * Lingering Question: Can tech use **cause** ADHD, or do ADHD sufferers
+      * Lingering Question: Can tech use**cause** ADHD, or do ADHD sufferers
       enjoy the stimulation of tech more than others?
     _key: card-2-9200a5a6-5f4b-4639-9767-d704c4355fb0
   - order: 2
+    useCheckmark: false
     body: >-
       # ADHD: Defined
 
 
-      > “Symptoms of ADHD include **inattention** (not being able to keep
-      focus), **hyperactivity** (excess movement that is not fitting to the
-      setting) and **impulsivity** (hasty acts that occur in the moment without
+      > “Symptoms of ADHD include**inattention** (not being able to keep
+      focus),**hyperactivity** (excess movement that is not fitting to the
+      setting) and**impulsivity** (hasty acts that occur in the moment without
       thought).”  
         
         
@@ -62,6 +65,7 @@ cards:
       American Psychiatric Association
     _key: card-3-b7ae8b63-2158-4d61-ba16-a5f75a84b7f6
   - order: 3
+    useCheckmark: false
     body: >-
       ## Bigger Picture
 
@@ -78,6 +82,7 @@ cards:
       * Treatment = therapy & medication.
     _key: card-4-94b6c7a6-8ac6-43bf-a9ab-2b522a390d1c
   - order: 4
+    useCheckmark: true
     body: >-
       We put children into the Wild West, and I think that’s where the problems
       start, Dimitri A. Christakis, director of the Center for Child Health,

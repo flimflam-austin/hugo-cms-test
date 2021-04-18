@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       A federal court *just* ordered the U.S. government to restore a program
       granting protection to some who arrived in America illegally as children.
@@ -28,11 +29,12 @@ cards:
       Here’s what to know:
     _key: e5652415482e
   - order: 1
+    useCheckmark: false
     body: >-
       ## DACA
 
 
-      * **D**eferred **A**ction for **C**hildhood **A**rrivals.
+      * **D**eferred**A**ction for**C**hildhood**A**rrivals.
 
       * The 2012 Obama-era program allows *some* who came to U.S. illegally
       before age 16 to temporarily “defer” their illegal status and also obtain
@@ -40,9 +42,10 @@ cards:
       (i.e. graduated from high school, no felony convictions, U.S. residence
       since 2007).
 
-      * DACA **does *not*** provide for a pathway to citizenship.
+      * DACA**does *not*** provide for a pathway to citizenship.
     _key: 38d842de0b6b
   - order: 2
+    useCheckmark: false
     body: >-
       ## LEGAL LOOK BACK
 
@@ -58,9 +61,11 @@ cards:
       capriciou_s” under federal law.
     _key: 6025c3fafd3c
   - order: 3
+    useCheckmark: false
     body: "## LEGAL LATEST\n\n* **November 2020:\_**A federal judge ruled the acting DHS secretary’s July memo rejecting new applications was invalid b/c his appointment was improper.\n* **December 2020:** The same federal judge ruled the 600K+ current DACA recipients can continue to apply for renewals AND ordered DHS to accept new DACA applications.\n* **This marks the first time new applicants may apply for DACA since 2017.**"
     _key: 2eb64494cb18
   - order: 4
+    useCheckmark: false
     body: >-
       > “DHS wholly disagrees with this decision by yet another activist judge
       acting from his own policy preferences. Judge Garaufis’s latest decision,
@@ -72,6 +77,7 @@ cards:
       DHS spokesman Chase Jennings.
     _key: 632eb06e9ad8
   - order: 5
+    useCheckmark: false
     body: >-
       > “Today’s ruling opens the door for more than one million immigrant youth
       who have been unfairly denied their chance to apply for DACA and secure
@@ -83,6 +89,7 @@ cards:
       Karen Tumlin, a lawyer representing DACA applicants and recipients.
     _key: 3bfd188a82af
   - order: 6
+    useCheckmark: true
     body: >-
       NOW WHAT? Unclear. The Trump admin. is expected to appeal the ruling. A
       separate lawsuit led by Texas aiming to undo DACA is making its way

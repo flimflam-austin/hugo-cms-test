@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       QUICK QUOTES  
 
@@ -35,6 +36,7 @@ cards:
       times on record.
     _key: card-1-4a23b9b8-68ee-47b0-92ff-6d7b103da29f
   - order: 1
+    useCheckmark: false
     body: >-
       > “There are no words to describe the devastation.”  
         
@@ -45,6 +47,7 @@ cards:
       Meteorologists dismissed the 2016 disaster as a 1-in-1,000-year event.
     _key: card-2-91e57a64-912f-47ec-8028-7f9192c3d7cb
   - order: 2
+    useCheckmark: false
     body: >-
       > “I think it’s safe to say authorities have been concerned about the flow
       of lava onto the plant property since the eruption started.”  
@@ -55,6 +58,7 @@ cards:
       to fast-moving flows.
     _key: card-3-8ece3dc7-fb3b-46c7-97ec-a068ecdc48a4
   - order: 3
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-05-29-quick-quotes/)'
     _key: card-10-1c3c2fba-bfc0-4317-b485-13117f0709ff
 

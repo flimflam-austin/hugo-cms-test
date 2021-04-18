@@ -20,18 +20,20 @@ card_series: Now You Know
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # QUICK QUOTES
 
 
-      > “With the first pick in the 2018 NFL Draft, the Cleveland Browns pick,
-      **Baker Mayfield**.”  
+      > “With the first pick in the 2018 NFL Draft, the Cleveland Browns
+      pick,**Baker Mayfield**.”  
         
       Roger Goodell, NFL Commissioner, April 26, 2018. Oklahoma QB Baker
       Mayfield went from playing on a college team without a scholarship to
       winning the Heisman Trophy.
     _key: card-1-a7330f06-a3c6-4fb1-b602-22fbf34a3dc2
   - order: 1
+    useCheckmark: false
     body: >-
       > “I got her a beautiful card. You know, I am very busy to be running
       around looking for presents.”  
@@ -45,6 +47,7 @@ cards:
       Now](https://www.youtube.com/embed/_lu_Hgw60Ns?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-d753a8e5-a4e3-49d7-8e3e-89bcbd7970c7
   - order: 2
+    useCheckmark: false
     body: >-
       > “Great to have Secretary Pompeo confirmed. He will do an excellent job
       helping @POTUS lead our efforts to denuclearize the Korean Peninsula.”  
@@ -59,6 +62,7 @@ cards:
       Photos](https://twitter.com/PressSec/status/989593842944036864)
     _key: card-3-fb651c29-6710-4c53-bfcd-9cf4c5c0fb4d
   - order: 3
+    useCheckmark: false
     body: >-
       > “It is not just a victory for Andrea Constand …. It is not just a
       victory for the 62 of us publicly known Cosby survivors …. It also a
@@ -70,6 +74,7 @@ cards:
       prison in connection with the 2004 sexual assault.
     _key: card-4-8c1ef5ee-bd25-4628-9259-fe308892c33f
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-04-26-quote-stacks/)'
     _key: card-10-8dca9e7b-c910-4782-bec4-0ccc08da5a76
 

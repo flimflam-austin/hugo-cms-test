@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > ‘Everybody has gifts from God. I was gifted with knowledge.”
 
@@ -27,6 +28,7 @@ cards:
     citation: 11-year-old William Maillis
     _key: card-1-26625fbf-d33a-435e-a674-00e2ea095c6f
   - order: 1
+    useCheckmark: true
     body: >-
       Maillis, who completed high school at age 9, graduated from St. Petersburg
       College with an associates degree. He plans to continue his studies at the

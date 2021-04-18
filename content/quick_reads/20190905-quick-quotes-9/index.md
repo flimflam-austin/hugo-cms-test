@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “I want a country without creepy old men, but with due process.”  
         
@@ -31,6 +32,7 @@ cards:
       believes Kavanaugh but wants to hear from Prof. Ford.
     _key: card-1-d8772ad4-aaa1-44d0-bb2c-0ac1997864c1
   - order: 1
+    useCheckmark: false
     body: >-
       > “I’m going to be watching, believe it or not… I’m going to see what’s
       said. It’s possible they will be convincing.”  
@@ -42,6 +44,7 @@ cards:
       thought he was guilty of something like this, sure."
     _key: card-2-930ca265-4bea-4a02-bf18-d60f36896ba6
   - order: 2
+    useCheckmark: false
     body: >-
       > "(The U.S.) wants to continue just giving orders to the world as though
       the world were its own property. Venezuela will never give in.”  
@@ -53,6 +56,7 @@ cards:
       corruption.
     _key: card-3-db2b69e2-1d84-4e55-9446-ea0203212207
   - order: 3
+    useCheckmark: false
     body: >-
       “We’ve been able to raise rates and then wait and see how the economy
       absorbs these rate increases and so far the economy has performed very
@@ -65,6 +69,7 @@ cards:
       expects one more this year & 3 hikes in 2019.
     _key: card-4-a62767eb-8531-4770-bfc9-0ca528d98178
   - order: 4
+    useCheckmark: false
     body: >-
       > “We will be bringing a different voice and viewpoint to covering the
       game of football.”  
@@ -76,6 +81,7 @@ cards:
       & Spanish-language broadcast.
     _key: card-5-79e61059-27d5-4fdb-815f-a49516ae5c85
   - order: 5
+    useCheckmark: false
     body: >-
       > “Whether it is education, drug addiction, hunger, online safety or
       bullying, poverty or disease, it is too often children who are hit first,
@@ -87,6 +93,7 @@ cards:
       focusing on children's well-being.
     _key: card-6-1ea965af-1651-4280-b16f-b8d6115ad805
   - order: 6
+    useCheckmark: false
     body: >-
       > “Six people will be chosen to attempt to spend 30 hours in ‘deluxe,’
       ‘slightly used’ 2-by-7-foot coffins.”  
@@ -97,6 +104,7 @@ cards:
       prize? $300.
     _key: card-7-c70c7d21-b681-4b9c-9d40-7c254b82e954
   - order: 7
+    useCheckmark: true
     body: |-
       Happy Friday Eve! Have a great day!
 

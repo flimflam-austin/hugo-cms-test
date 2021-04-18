@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # The Latest From the CDC on COVID-19
 
@@ -28,20 +29,22 @@ cards:
       preexisting conditions to pregnancy.
     _key: c3833526e194
   - order: 1
+    useCheckmark: false
     body: >-
       ## Preexisting Conditions
 
 
       * The CDC expanded the list of preexisting conditions that make you more
-      vulnerable to COVID-19, emphasizing that THESE, not _necessarily_ age
+      vulnerable to COVID-19, emphasizing that THESE, not_necessarily_ age
       (though the elderly are more prone to preexisting conditions) are crucial
       factors in severe cases.
 
-      * 60% of Americans have **at least one** preexisting condition.
+      * 60% of Americans have**at least one** preexisting condition.
 
       * Obesity is among the most prevalent – 40% of Americans are obese.
     _key: 23d02fde6ae8
   - order: 2
+    useCheckmark: false
     body: >-
       ## Pregnancy
 
@@ -57,22 +60,24 @@ cards:
       information on full-term pregnancies.
     _key: dc3275b43d47
   - order: 3
+    useCheckmark: false
     body: >-
       ## Prevalence
 
 
-      The CDC says research shows an estimated **10 additional cases for each
+      The CDC says research shows an estimated**10 additional cases for each
       *known* case** of COVID-19 in America,
 
 
-      Consequently, the CDC estimates a small portion of the entire nation –
-      **under 8%** – have been exposed to COVID-19.
+      Consequently, the CDC estimates a small portion of the entire nation
+      –**under 8%** – have been exposed to COVID-19.
 
 
-      CDC Dir. Dr. Redfield says estimates for **asymptomatic spread** are btwn
+      CDC Dir. Dr. Redfield says estimates for**asymptomatic spread** are btwn
       20-80%.
     _key: 606a7b375664
   - order: 4
+    useCheckmark: true
     body: >-
       Dr. Redfield says in March, about 27% or 1 in 4 deaths in America were
       attributed to a pneumonia, flu or COVID-19; now the percentage is more

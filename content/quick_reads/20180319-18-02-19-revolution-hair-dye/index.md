@@ -20,6 +20,7 @@ card_series: Beauty
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Beauty Break Through!
 
@@ -30,18 +31,19 @@ cards:
       ## Hair-Dye Innovation?
 
 
-      Scientists say they’ve found a **safer, more effective way to color your
+      Scientists say they’ve found a**safer, more effective way to color your
       hair**a| that may leave your strands with less static, more UV protection,
       cleaner and even better smelling.
 
 
-      How? **Graphene**.
+      How?**Graphene**.
 
 
       Say What? Flip!
     citation: Say What? Flip!
     _key: card-1-737f71cd-25fb-4929-91b2-e2977cc96e22
   - order: 1
+    useCheckmark: false
     body: |-
       # What Is Graphene?
 
@@ -55,6 +57,7 @@ cards:
     citation: Flip For More
     _key: card-2-cef6399a-14cf-4ac1-b188-a070553ec4df
   - order: 2
+    useCheckmark: false
     body: >-
       ## How Did They Do It?
 
@@ -71,6 +74,7 @@ cards:
       * Lasted more than 30 washes = current industry dye standards.
     _key: card-3-94b4b8cc-9f39-465d-88d1-96cf3f1b208f
   - order: 3
+    useCheckmark: false
     body: >-
       Why Dye Is Healthier:  
 
@@ -86,6 +90,7 @@ cards:
       March 16, 2018
     _key: card-4-d368ea82-fcc4-4f96-a477-9fd16c2e5112
   - order: 4
+    useCheckmark: false
     body: >-
       ## A Note From The Study:
 
@@ -98,6 +103,7 @@ cards:
       of electronics interfacing with the body._
     _key: card-5-d8f50f99-8022-45ce-80c8-876b39a13a49
   - order: 5
+    useCheckmark: true
     body: >-
       Graphene is naturally black in color so for now, the dye is only black as
       well. TBD until it could reach market.

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Police Shooting: Sacramento
 
@@ -39,6 +40,7 @@ cards:
     citation: Watch Now
     _key: card-1-8f3e2759-29ab-429d-8903-ab0404301461
   - order: 1
+    useCheckmark: false
     body: >-
       ## Timeline:
 
@@ -55,10 +57,11 @@ cards:
       * A phone, but no gun, was found.
     _key: card-2-d85aef7e-9f17-4557-8169-a5e9aa25cd81
   - order: 2
+    useCheckmark: false
     body: >-
       > “Prior to theA shooting,A the involved officers saw the suspect facing
       them, advance forward with his arms extended, and holding an object in his
-      hands.A A **At the time of the shooting, the officersA believedA theA
+      hands.A A**At the time of the shooting, the officersA believedA theA
       suspect was pointing a firearm at them**. After an exhaustive search,
       scene investigators did not locate any firearms.”  
         
@@ -67,6 +70,7 @@ cards:
       Sacramento Police Press Release, March 19, 2018
     _key: card-3-ea025478-f989-4ff7-95b8-fdea1d3e923e
   - order: 3
+    useCheckmark: false
     body: >-
       Investigations Ongoing:  
 
@@ -74,7 +78,7 @@ cards:
 
 
       > “If an officer shot somebody for breaking into cars, that would
-      definitely not be a justified shooting. **They have to have reason, at the
+      definitely not be a justified shooting.**They have to have reason, at the
       moment, that they felt that their life, or somebody else’s life, was in
       danger to do that**.”  
         
@@ -83,6 +87,7 @@ cards:
       Chief Daniel Hahn, Sacramento Police
     _key: card-4-73a5a132-b295-4e6b-a47c-75af105d34d6
   - order: 4
+    useCheckmark: false
     body: >-
       ## “Local Matter”
 
@@ -97,6 +102,7 @@ cards:
       Sec. responding to question on shooting by saying it's a local matter.
     _key: card-5-1be40f17-fff9-403f-8f84-726eff24793c
   - order: 5
+    useCheckmark: true
     body: >-
       While the race of Stephon Clark is known (he's black) - the race of the
       cops is not. What are the statistics on police involved shootings? Its

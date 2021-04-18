@@ -20,6 +20,7 @@ card_series: One Minute With
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > A Former Cop Combines Craftmanship & Patriotism Into A “Cutting Edge”
       Business
@@ -29,6 +30,7 @@ cards:
       Now](https://www.youtube.com/embed/jGNTWx8CHP4?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-e9ceb909-746e-49c8-b9c9-1de43fc777f9
   - order: 1
+    useCheckmark: false
     body: >-
       # MAC Cutting Boards
 
@@ -44,6 +46,7 @@ cards:
       Flip For More
     _key: card-2-ad7302a3-62ca-4af3-af7b-4502b06b98ee
   - order: 2
+    useCheckmark: true
     body: >-
       More from Bart & Josie, MAC Cutting Boards. Where did "MAC" come from?
       It's a beautiful tribute! Plus, tips on living SmartHER...

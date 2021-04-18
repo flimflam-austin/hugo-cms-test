@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > “I want to be a pastor in a high school.”  
         
@@ -28,6 +29,7 @@ cards:
       Nick Foles, Phil Eagles QB & Super Bowl MVP on post-football career plans.
     _key: card-1-e6da0055-0c51-48b9-87f9-ea9b91c1e9d3
   - order: 1
+    useCheckmark: false
     body: >-
       # Philadelphia Eagles Win Super Bowl
 
@@ -42,6 +44,7 @@ cards:
       quote (flip to see).
     _key: card-2-596a71b4-ee75-4f9a-a7bf-e6ffeced2ca6
   - order: 2
+    useCheckmark: false
     body: >-
       ‘Nothing in this world can take the place of persistence. Talent will not;
       nothing is more common than unsuccessful men with talent. Genius will not;
@@ -50,6 +53,7 @@ cards:
       omnipotent.’
     _key: card-3-238d5f8e-f24a-4221-af28-fd64b8bf1809
   - order: 3
+    useCheckmark: true
     body: >-
       Watch Eagles' emotional reaction to win & more:
 

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “Lying In State”
 
@@ -32,6 +33,7 @@ cards:
     citation: How &amp; Why We Do It
     _key: card-1-8b95d6de-d73d-43c3-ac4c-97360e8d6b0b
   - order: 1
+    useCheckmark: false
     body: >-
       ## Pres. Lincoln’s “Support”
 
@@ -46,6 +48,7 @@ cards:
       like the original.
     _key: card-2-147212c7-f32c-4506-9cf4-c62c0fa84811
   - order: 2
+    useCheckmark: false
     body: >-
       What It Means &  
 
@@ -59,21 +62,23 @@ cards:
       Hoover, Kennedy, Taft, Harding, McKinley, Garfield, & Lincoln.
     _key: card-3-2a854139-6746-4a8d-9b59-93c7b70b6d73
   - order: 3
+    useCheckmark: false
     body: >-
       ## “In State” vs. “In Honor”
 
 
-      Average citizens cannot **“lay in state”** as that honor is reserved
+      Average citizens cannot**“lay in state”** as that honor is reserved
       for_**gov’t & military** officials.
 
 
-      However, **eminent private citizens** may **“lay in honor.”**
+      However,**eminent private citizens** may**“lay in honor.”**
 
 
       To date, only four have received the honor, including Rev. Billy Graham &
       two police officers killed during an attack on the U.S. Capitol.
     _key: card-4-df99ef55-0857-4d6d-ae2a-7a6d460751ab
   - order: 4
+    useCheckmark: true
     body: >-
       In 2005, civil rights activist Rosa Parks became the first (and only)
       woman to "lay in honor" in the U.S. Capitol.

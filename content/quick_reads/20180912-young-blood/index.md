@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # FOUNTAIN OF YOUTH
 
@@ -31,6 +32,7 @@ cards:
     citation: Fad or Solid Science?
     _key: card-1-ab2c32ef-23c0-493e-a995-4e88ab151d54
   - order: 1
+    useCheckmark: false
     body: >-
       ## Tech’s “Death Disruption”
 
@@ -45,6 +47,7 @@ cards:
       * Most promising research done on mice, not conclusive for humans.
     _key: card-2-b3f30c43-8b5a-4b31-a0ff-34be09912062
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why It Matters: Panacea?
 
@@ -60,6 +63,7 @@ cards:
       treat Alzheimer’s & heart disease.
     _key: card-3-56504285-d17f-445d-be19-8f7243d7f81d
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -68,12 +72,13 @@ cards:
       uncontrollably (how cancer starts).
 
 
-      **Unknowns**: **Cost, dosage, frequency** and **quality control**. One
-      U.S. clinical trial offered teenage blood to elderly at $8K/treatment, but
-      with no peer review or control study, some questioned company’s proclaimed
+      **Unknowns**:**Cost, dosage, frequency** and**quality control**. One U.S.
+      clinical trial offered teenage blood to elderly at $8K/treatment, but with
+      no peer review or control study, some questioned company’s proclaimed
       positive results.
     _key: card-4-74b090c0-ba91-427f-be3a-5ef8a2c11d5a
   - order: 4
+    useCheckmark: true
     body: >-
       Young blood research focuses on the internal - it won't erase wrinkles.
       But "vampire facials" use the same blood therapy often used by athletes to

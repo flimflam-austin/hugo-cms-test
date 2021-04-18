@@ -20,10 +20,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: '> _“Happiness is to look at what we have and feel grateful.”_'
     citation: Isabella Rossellini
     _key: card-1-6e2c733d-b629-4f5e-906e-bc4c4f8ae9fa
   - order: 1
+    useCheckmark: true
     body: >-
       Isabella Rossellini, 66, walked the runway with her daughter, son, and
       grandchild in the Dolce & Gabbana fashion show in Milan this weekend that

@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “It’s been almost 100 years since anybody has reorganized the government
       on this scale.”  
@@ -32,6 +33,7 @@ cards:
       congressional approval.
     _key: card-1-b6f35d49-8342-4d6f-9878-deac7cda2a9a
   - order: 1
+    useCheckmark: false
     body: >-
       > "I’m directing HHS, DHS, DOJ to work together to keep illegal immigrant
       families together during the immigration process and reunite these
@@ -44,6 +46,7 @@ cards:
       5 - June 9.
     _key: card-2-836e5b1f-6d41-45c7-b3ca-ddce85efc976
   - order: 2
+    useCheckmark: false
     body: >-
       > “…a game changer for the experience. You can literally go from curb to
       plane without having to interact with a human being if you so desire.”  
@@ -55,6 +58,7 @@ cards:
       international flights.
     _key: card-3-3a7ac4d3-b0f5-4737-952e-3e04909e4e11
   - order: 3
+    useCheckmark: false
     body: >-
       > “He has to see the head of state. Putting his foot on the ground of
       British soil, it’s job one.”  
@@ -66,6 +70,7 @@ cards:
       next month after his trip to the UK.
     _key: card-4-295869d5-8501-4cc1-bbb1-23ca5ea12138
   - order: 4
+    useCheckmark: false
     body: >-
       > “Legit bawling like a baby right now. This news just breaks my heart.”  
         
@@ -82,6 +87,7 @@ cards:
     citation: Watch Now
     _key: card-5-bfa50a4d-f338-40f6-91ea-ee69c404131b
   - order: 5
+    useCheckmark: true
     body: |-
       TGIF... amirite people?!
 

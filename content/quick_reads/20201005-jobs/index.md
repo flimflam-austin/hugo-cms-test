@@ -20,22 +20,24 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## New Job Numbers
 
 
-      > A fresh picture of the job market in America shows a
-      **better-than-expected unemployment rate** but for the **wrong reason**.  
+      > A fresh picture of the job market in America shows
+      a**better-than-expected unemployment rate** but for the**wrong reason**.  
         
       What To Know
     _key: e29334bf66b9
   - order: 1
+    useCheckmark: false
     body: >-
       ## September: The Basics
 
 
-      * U.S. unemployment rate = 7.9% (down from 8.4% in August and **better
-      than expected**).
+      * U.S. unemployment rate = 7.9% (down from 8.4% in August and**better than
+      expected**).
 
       * 661,000 jobs added (**fewer than expected**) – job gains in leisure &
       hospitality, retail & healthcare. Job losses in government sector
@@ -45,6 +47,7 @@ cards:
       shed since the pandemic began.**
     _key: 49604fc6b861
   - order: 2
+    useCheckmark: false
     body: >-
       > “The jobs number is positive, but it’s flashing warning signs. It’s
       decelerating fast, and that worries me. If jobs growth is slowing, it’s
@@ -58,6 +61,7 @@ cards:
       data.
     _key: 265da2560c12
   - order: 3
+    useCheckmark: false
     body: >-
       > “Women continue to bear the brunt of this recession.”
 
@@ -70,14 +74,15 @@ cards:
       on women workers in the U.S. job market.
     _key: 35941f240624
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why The Drop?
 
 
-      * The drop in unemployment rate came not *just* from job gains, but
-      **folks leaving the workforce.**
+      * The drop in unemployment rate came not *just* from job gains, but**folks
+      leaving the workforce.**
 
-      * To be counted as part of the labor force, you need to be **actively
+      * To be counted as part of the labor force, you need to be**actively
       looking for work**; a mother who leaves her career to homeschool her kids
       is not counted as part of the labor force.
 
@@ -85,6 +90,7 @@ cards:
       pulling the unemployment rate lower.
     _key: f3dc4a045e61
   - order: 5
+    useCheckmark: true
     body: >-
       This is the final jobs report before election day. Economist Mark Zandi on
       September's job numbers: “It’s going to be a slog. The economy risks

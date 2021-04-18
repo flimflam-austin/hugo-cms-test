@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # October 15, 1860  
 
@@ -32,6 +33,7 @@ cards:
       future (& face) of America.
     _key: 76f93f595ed5
   - order: 1
+    useCheckmark: false
     body: >-
       “If you let your whiskers grow, I will try and get the rest of them to
       vote for you. You would look a great deal better for your face is so thin.
@@ -47,6 +49,7 @@ cards:
       >
     _key: 3359584d6ca5
   - order: 2
+    useCheckmark: false
     body: >-
       > “Some three months ago, I received a letter from a young lady here; it
       was a very pretty letter, and she advised me to let my whiskers grow, as
@@ -59,6 +62,7 @@ cards:
       his inauguration celebration in 1861.
     _key: 586a2b091992
   - order: 3
+    useCheckmark: false
     body: >-
       ## Guided By Grace?
 
@@ -74,6 +78,7 @@ cards:
       appearance as the 16th President and his legacy.
     _key: 6a3fc87d1829
   - order: 4
+    useCheckmark: true
     body: >-
       Pres. Trump and former Vice President Joe Biden have one thing going for
       both of them this Election Day — NO facial hair. Researchers say beards

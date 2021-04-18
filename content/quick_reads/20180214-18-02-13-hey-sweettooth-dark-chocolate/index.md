@@ -20,25 +20,27 @@ card_series: Now You Know
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Number To Know:  
 
-      22 
+      22
 
 
       **22 lbs** = Amount of candy Americans consume on average every year,
       according to US Census.
 
 
-      Top Culprit = **Chocolate**
+      Top Culprit =**Chocolate**
 
 
-      If you’re gonna eat it…Is **dark chocolate** REALLY the best choice?
+      If you’re gonna eat it…Is**dark chocolate** REALLY the best choice?
 
 
       Flip To Find Out
     _key: card-1-195882d1-2475-49e0-ab83-b3b917a4148d
   - order: 1
+    useCheckmark: false
     body: >-
       > “While nutrition advice can often be complicated, choosing dark
       chocolate for your heart health is simple…  
@@ -51,6 +53,7 @@ cards:
       "SmartHER News"
     _key: card-2-bc943951-ce46-49a6-a5e5-146d007e7c06
   - order: 2
+    useCheckmark: false
     body: |-
       # Dark Chocolate: What’s The Magic?
 
@@ -62,6 +65,7 @@ cards:
       * Flavanols have antioxidant and anti-inflammatory properties.
     _key: card-3-92bbfab4-2800-4bd7-a5e7-5ef2db8dcdae
   - order: 3
+    useCheckmark: false
     body: >-
       > “Flavanols in cocoa have been studied for many years. They have been
       shown to help lower blood pressure, improve blood flow to the brain and
@@ -72,6 +76,7 @@ cards:
       Heidi Godman, Executive Editor, "Harvard Health Letter"
     _key: card-4-b31fc421-d3df-44b8-b14a-31bb24f8f5b5
   - order: 4
+    useCheckmark: false
     body: |-
       # Dark Chocolate Is Not The Only Option
 
@@ -83,6 +88,7 @@ cards:
       * Red Wine!
     _key: card-5-3d09f957-79b6-4302-90c6-0f6da312ceed
   - order: 5
+    useCheckmark: true
     body: >-
       BTW: Sweet companies employ more than 60,000 Americans. Grab some
       chocolate chips and read on!

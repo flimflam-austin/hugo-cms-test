@@ -20,12 +20,14 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # The Gift of Gratitude
 
       The science (and health benefits) of giving thanks
     _key: 2566327f9c38
   - order: 1
+    useCheckmark: false
     body: >-
       > “If we have learned one thing from the science of gratitude … [it] is
       that there is no resilience without gratitude. It’s impossible. Gratitude
@@ -38,6 +40,7 @@ cards:
       immune system.
     _key: 02af369a4744
   - order: 2
+    useCheckmark: false
     body: >-
       ## Studying Gratitude
 
@@ -52,14 +55,15 @@ cards:
       dedicated specifically to gratitude research.
     _key: db6d2096f339
   - order: 3
+    useCheckmark: false
     body: >-
       ## What Studies Say:
 
 
-      * Those who wrote **gratitude lists** for 2 weeks (5 items daily) reported
+      * Those who wrote**gratitude lists** for 2 weeks (5 items daily) reported
       increases in “happiness and life satisfaction” & decreases in depression.
 
-      * Those in therapy who wrote **letters “expressing gratitude to others”**
+      * Those in therapy who wrote**letters “expressing gratitude to others”**
       reported improved mental health vs. those journaling about stressful
       events.
 
@@ -67,6 +71,7 @@ cards:
       linked to “social bonding & stress relief.”
     _key: ee49fc173c14
   - order: 4
+    useCheckmark: false
     body: >-
       > “We found that more gratitude in these patients was associated with
       better mood, better sleep, less fatigue and lower levels of inflammatory
@@ -79,6 +84,7 @@ cards:
       grateful heart is indeed a more healthy heart."
     _key: 10687315732a
   - order: 5
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
@@ -87,12 +93,13 @@ cards:
       about expressing “thanks” to how the receiver felt receiving it.
 
       * “Thank you” card writers “**overestimated** how awkward recipients would
-      feel and **underestimated** how positive recipients would feel.”
+      feel and**underestimated** how positive recipients would feel.”
 
       * Conclusion: Our biases may keep us from the benefits of sharing
       gratitude.
     _key: 2021e56206c9
   - order: 6
+    useCheckmark: true
     body: >-
       We highlighted several points of research and linked to them on our source
       page. In many cases, scientists point out the challenges to studying and

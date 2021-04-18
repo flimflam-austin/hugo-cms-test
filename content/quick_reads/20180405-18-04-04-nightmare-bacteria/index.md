@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ‘Nightmare Bacteria”
 
@@ -38,6 +39,7 @@ cards:
     citation: Wash Hands. Flip Card.
     _key: card-1-0c673170-6f7b-4048-8183-7dad9aed4077
   - order: 1
+    useCheckmark: false
     body: >-
       ## What’s the “Nightmare”?
 
@@ -49,12 +51,13 @@ cards:
 
       * **221 cases** nationwide in 2017.
 
-      * Discovered in **27 states.**
+      * Discovered in**27 states.**
 
       * More challenging “version” of antibiotic-resistant bacteria found in
       every state.
     _key: card-2-79e4c26d-b554-4683-b07f-1584d46c85f7
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Does This Matter?
 
@@ -68,6 +71,7 @@ cards:
       contain the germs.
     _key: card-3-a888bb17-320c-4c89-8388-4820b6f44658
   - order: 3
+    useCheckmark: false
     body: >-
       ## Whats YOUR real risk?
 
@@ -81,6 +85,7 @@ cards:
       country).
     _key: card-4-fead5bfd-f71a-41be-889b-9aadd354797d
   - order: 4
+    useCheckmark: true
     body: >-
       This is the first time the CDC tracked "nightmare bacteria." CDC Dir. on
       the 200+ cases: "I was surprised by the numbers that we found. This was

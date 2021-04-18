@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # High Court Hearings
 
@@ -36,6 +37,7 @@ cards:
     citation: What To Expect
     _key: card-1-04e31cb0-737f-4bed-bdc1-fc02dd5e88e1
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why Have Hearings?
 
@@ -53,6 +55,7 @@ cards:
     citation: 'click: THE ISSUES'
     _key: card-2-9f59013f-f98e-46af-9524-6a3e0b9b021d
   - order: 2
+    useCheckmark: false
     body: >-
       ## HISTORICAL SIGNIFICANCE
 
@@ -66,6 +69,7 @@ cards:
       all nominees became justices incl. Merrick Garland in 2016.
     _key: card-3-3a759e06-3817-4f9c-8f6a-6ca159ab5677
   - order: 3
+    useCheckmark: false
     body: >-
       ## KAVANAUGH’S CHANCES?
 
@@ -82,6 +86,7 @@ cards:
     citation: 'Click: What''s Next?'
     _key: card-4-8b9829c8-43c1-4c76-9d40-03b32d7af6f1
   - order: 4
+    useCheckmark: true
     body: >-
       How long will Kavanaugh's hearing last? Last year, hearings for Neil
       Gorsuch lasted four days. Since 1946, hearing last on average 4 or more

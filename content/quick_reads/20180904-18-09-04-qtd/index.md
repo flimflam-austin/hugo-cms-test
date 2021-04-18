@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “_There is no job that’s better than another job. It might pay better,
       it might have better benefits, it might look better on a resume and on
@@ -28,6 +29,7 @@ cards:
     citation: Geoffrey Owens
     _key: card-1-0f162e9e-254e-46b0-829e-ee07f73de61d
   - order: 1
+    useCheckmark: true
     body: >-
       Actor Geoffrey Owens spoke to 'Good Morning America' on being "job shamed"
       for working at Trader Joe's. Owens starred on "The Cosby Show" from 1985 -

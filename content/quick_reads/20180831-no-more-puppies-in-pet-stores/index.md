@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## No More Doggy In The Window?
 
@@ -32,6 +33,7 @@ cards:
     citation: No More Pet Stores?
     _key: card-1-af6304d7-8798-4fc8-ab18-2f210e067c11
   - order: 1
+    useCheckmark: false
     body: >-
       ## England’s Proposed Ban
 
@@ -46,6 +48,7 @@ cards:
       upwards of 80,000.
     _key: card-2-0a0ff4b3-1e88-472a-9f1e-066cca75f91f
   - order: 2
+    useCheckmark: false
     body: >-
       ## Puppy Probs: Stateside
 
@@ -62,6 +65,7 @@ cards:
       occur.
     _key: card-3-6c60a31e-5fc3-4512-ab64-1f2b641ed12c
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Benefit Of A Ban
 
@@ -77,6 +81,7 @@ cards:
       Humane Society
     _key: card-4-d5eafcb7-c154-440a-b857-5fafcd36efcf
   - order: 4
+    useCheckmark: true
     body: >-
       The proposed ban of puppy and kitten sales in English pet stores opened
       for public commentary in late August and will close in mid-September

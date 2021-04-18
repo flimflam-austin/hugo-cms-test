@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## WHAT THE ZUCK?
 
@@ -40,6 +41,7 @@ cards:
     citation: flip for what he said
     _key: card-1-83fafb34-7c67-4ce9-bad0-c605776b324e
   - order: 1
+    useCheckmark: false
     body: >-
       ## GROWING PAINS
 
@@ -56,6 +58,7 @@ cards:
       suit, but repeatedly reminded senators of Facebook’s early days.
     _key: card-2-a0e455c2-b0d7-46c1-a305-065ce4ba65ec
   - order: 2
+    useCheckmark: false
     body: >-
       CAMBRIDGE ANALYTICA
 
@@ -75,6 +78,7 @@ cards:
     citation: Click for Refresher
     _key: card-3-58d664e0-d2e1-44b4-bd62-6e820ec7868b
   - order: 3
+    useCheckmark: false
     body: >-
       FAKE NEWS &  
 
@@ -92,6 +96,7 @@ cards:
       platform. This new admission could spell major changes for tech.
     _key: card-4-f506723f-ecf9-4987-9ec3-2ee59f3fbbc1
   - order: 4
+    useCheckmark: false
     body: >-
       ## RUSSIA INVESTIGATION
 
@@ -108,6 +113,7 @@ cards:
       social media propaganda – some of which was on Facebook.
     _key: card-5-76d9c15f-2d41-46f8-b45a-4a652c04febe
   - order: 5
+    useCheckmark: false
     body: >-
       ## NEW LAWS COMING?
 
@@ -125,6 +131,7 @@ cards:
       is to impose game-changing rules.
     _key: card-6-3c4c0d64-987a-4696-b7d0-660ae1773f2a
   - order: 6
+    useCheckmark: true
     body: >-
       Overall, Zuckerberg came out largely unscathed in the nearly 5 hours of
       testimony. Facebook stock rose 4.5% on what investors deemed a positive

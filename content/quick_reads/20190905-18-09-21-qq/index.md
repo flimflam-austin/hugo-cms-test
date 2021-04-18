@@ -20,12 +20,15 @@ card_series: Quotes
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: "> \"Whether overseas or right here at home in D.C., we didn’t think a\x14 we just knew we needed to act. That’s the Marine in all of us.\"  \n  \nMarine Capt. Trey Gregory, who rushed into a senior public housing complex in DC alongside fellow Marines and firefighters to rescue residents. 10 people had minor injuries but everyone survived. The DC Fire Chief said that might not have been the case without the Marines."
     _key: card-1-409b2b3f-72f8-4af1-b34d-0c7023cbc31b
   - order: 1
+    useCheckmark: false
     body: "> \"This shy lady walks in and sings a\x18I Can’t Make You Love Me’ and the show turned into full color.”  \n  \n  \n  \nSimon Cowell, speaking about Carrie Underwood's audition at American Idol 14 years ago as he honored the Country Music Star receiving her star on the Hollywood Walk of Fame."
     _key: card-2-a70a23e7-4a81-40a4-9bf5-b1d1afbbade2
   - order: 2
+    useCheckmark: false
     body: >-
       > "… the world would start to rot."  
         
@@ -38,6 +41,7 @@ cards:
       and tic populations appear just fine.
     _key: card-3-95b41572-defb-4d83-8576-824450099d4f
   - order: 3
+    useCheckmark: false
     body: >-
       “She wishes to testify, provided that we can agree on terms that are fair
       and which ensure her safety. A hearing on Monday is not possible and the
@@ -51,6 +55,7 @@ cards:
       decision has been made.
     _key: card-4-8d66587f-289a-41aa-b28d-1e1796147f86
   - order: 4
+    useCheckmark: false
     body: >-
       > “What’s going to happen after fentanyl?"  
         
@@ -63,9 +68,11 @@ cards:
       1979 - 2016.
     _key: card-5-c4a144e6-ff77-45c7-84a8-f15c9c3c21f5
   - order: 5
+    useCheckmark: false
     body: "“The power of food is more than just the meal itself-\x14 it is the story behind it. And when you get to know the story of the recipe, you get to know the person behind it.”  \n  \n  \nHRH Meghan Markle, The Duchess of Sussex, at the launch lunch of a\x18Together: Our Community Cookbook’ celebrating the Hubb community kitchen, which was created by a diverse group of London women displaced after a horrific high rise apartment fire in 2017.\n\n[Watch Now](https://www.youtube.com/embed/2gXwBYs2Ulw?enablejsapi=1&autoplay=1&rel=0)"
     _key: card-6-ea33e578-1b35-4588-84e8-c1cc82fef6b4
   - order: 6
+    useCheckmark: true
     body: |-
       Have a great weekend!
 

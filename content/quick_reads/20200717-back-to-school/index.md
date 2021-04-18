@@ -20,6 +20,7 @@ card_series: what to know
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Who’s Head Of The Class?
 
@@ -28,24 +29,27 @@ cards:
       back to school as communities confront COVID-19.
     _key: 5ba680cd5043
   - order: 1
+    useCheckmark: false
     body: >-
       ## Background:
 
 
-      * In America, most decisions about education policy are made at the
-      **state & local level** – not by the federal gov’t.
+      * In America, most decisions about education policy are made at the**state
+      & local level** – not by the federal gov’t.
 
       * Generally speaking, states set standards for curriculum and provide
       about half of funding for local school districts.
 
       * When local districts decide how to operate this fall, they will have to
-      do so based on **school reopening guidelines** drafted by state education
-      & health officials.
+      do so based on**school reopening guidelines** drafted by state education &
+      health officials.
     _key: e04605ef7a77
   - order: 2
-    body: "## What To Know:\n\n* Just about every state has said it “plans” to open schools, but the **definition of “open”**\_**varies greatly** (ex: only 4 states have official August start dates).\n* The **CDC** issued recommendations, and most **states**\_released guidelines with learning format options as well as cleaning & distancing requirements.\n* **School districts**\_will decide how to adapt to state guidelines, leaving **parents** to make a big decision."
+    useCheckmark: false
+    body: "## What To Know:\n\n* Just about every state has said it “plans” to open schools, but the**definition of “open”**\_**varies greatly** (ex: only 4 states have official August start dates).\n* The**CDC** issued recommendations, and most**states**\_released guidelines with learning format options as well as cleaning & distancing requirements.\n* **School districts**\_will decide how to adapt to state guidelines, leaving**parents** to make a big decision."
     _key: 696345c4899e
   - order: 3
+    useCheckmark: false
     body: >-
       > “We should try as the default to get the kids to stay in school.
       However, that’s going to vary from where you are in the country and what
@@ -59,6 +63,7 @@ cards:
     citation: WATCH NOW
     _key: 883d9a33ffe9
   - order: 4
+    useCheckmark: false
     body: >-
       ## The Big Question: Format
 
@@ -78,6 +83,7 @@ cards:
       size.
     _key: aebb2ba8167d
   - order: 5
+    useCheckmark: true
     body: "This past week, NBC interviewed five pediatricians from across the U.S. about schools reopening. All agreed the benefits of sending kids back outweigh the harms and\_said they WILL send their kids back to school in the fall (assuming the schools are, in fact, open). You can watch their discussion on our source page."
     citation: VIEW SOURCES
     _key: 28e2742688d6

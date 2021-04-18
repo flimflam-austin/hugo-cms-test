@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “This was a spectacular escape.”  
         
@@ -31,6 +32,7 @@ cards:
       murder of a young policewoman.
     _key: card-1-6250fc15-f0fb-4b6b-96f6-a1cedb7afb6d
   - order: 1
+    useCheckmark: false
     body: >-
       > "…today the people will decide between more of the same or a real
       change."  
@@ -46,6 +48,7 @@ cards:
       [SMARTHER REFRESHER](https://smarthernews.com/18-06-29-mexico-elections/)
     _key: card-2-c0902104-96f2-46fd-9dc4-81e8c8577d1d
   - order: 2
+    useCheckmark: false
     body: >-
       > “This was always going to be the place. It was always a two-horse race
       between Cleveland & Los Angeles.”  
@@ -57,18 +60,20 @@ cards:
       in 8 years James will have changed teams.
     _key: card-3-2799de82-69d4-40c3-82fa-0f1968e7cb5a
   - order: 3
+    useCheckmark: false
     body: >-
       “I’m pro-life and the job of a judge is to decide cases before the court,
-      but one of the concepts that really means a lot in America is **stare
+      but one of the concepts that really means a lot in America is**stare
       decisis** – that means you don’t overturn precedent unless there is a good
       reason.A I would tell my pro-life friends: you can be pro-life and
-      conservative, but you can also believe in **stare decisis**.”  
+      conservative, but you can also believe in**stare decisis**.”  
         
         
         
       Sen. Lindsey Graham (R-SC) Meet the Press.
     _key: card-4-17f9947c-5e74-47c9-8a60-cab0df7cdbf0
   - order: 4
+    useCheckmark: false
     body: >-
       > “Writing daily obits only reinforced what I had long suspected: It is
       the best beat in journalism.”  
@@ -79,6 +84,7 @@ cards:
       is charming and worth a read.
     _key: card-5-41606226-a2c5-4002-be66-c2ece147ddf3
   - order: 5
+    useCheckmark: false
     body: >-
       > “I’m convinced you can be old at 30 or young at 90, and it’s all up to
       you.”  
@@ -89,6 +95,7 @@ cards:
       confronted.
     _key: card-6-2f8eb133-f64e-4121-b5fe-f5a7b821df27
   - order: 6
+    useCheckmark: true
     body: |-
       Happy 4th of July Week!
 

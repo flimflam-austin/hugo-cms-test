@@ -20,19 +20,21 @@ card_series: smarther news
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > **ONLINE MATING…**  
       the next “online dating”?
     citation: SAY WHAT?
     _key: 81a160d304f0
   - order: 1
+    useCheckmark: false
     body: >-
       ## Online Mating?
 
 
       * Websites like PollenTree & Modafamily offer a way for people eager to
-      have a child to “hook up” with someone to have a baby and co-parent with
-      ***minus* the dating relationship**.
+      have a child to “hook up” with someone to have a baby and co-parent
+      with***minus* the dating relationship**.
 
       * The decision on how to make the baby (surrogate, artificial
       insemination, actual intercourse) is left up to the individuals.
@@ -41,6 +43,7 @@ cards:
       sperm and eggs to find matches with parents.
     _key: e58aae8bedc6
   - order: 2
+    useCheckmark: false
     body: >-
       > “They were starting to feel the pressure of the biological clock, still
       single, and looking for a partner they can have a child with, whether they
@@ -52,9 +55,11 @@ cards:
       careers.
     _key: a07854e706ac
   - order: 3
-    body: "## BIG PICTURE\n\n* **Fewer Marriages:** In 1978, nearly 60% of 18-to-34-year-olds were married. In 2018, just about 30% were married.\n* **Fewer Babies:** In 2018, the U.S. birthrate fell to a 32-year low, ***BUT*** birth rates rose for women in late 30s / early 40s.\n* **$$$:** According to latest gov’t data, it costs approx. $234,000 to raise a child.\n* **FYI:** America\_is the only developed country without a mandated paid leave policy for new moms."
+    useCheckmark: false
+    body: "## BIG PICTURE\n\n* **Fewer Marriages:** In 1978, nearly 60% of 18-to-34-year-olds were married. In 2018, just about 30% were married.\n* **Fewer Babies:** In 2018, the U.S. birthrate fell to a 32-year low,***BUT*** birth rates rose for women in late 30s / early 40s.\n* **$$$:** According to latest gov’t data, it costs approx. $234,000 to raise a child.\n* **FYI:** America\_is the only developed country without a mandated paid leave policy for new moms."
     _key: 92e5135c2a19
   - order: 4
+    useCheckmark: false
     body: >-
       > “It’s a controversial approach to creating a family and there are people
       who balk at it, but the idealized version of a man and woman falling in
@@ -68,6 +73,7 @@ cards:
       result).
     _key: eef136aa7237
   - order: 5
+    useCheckmark: true
     body: >-
       LOVE American Style? Online mating may be new, but online dating is
       definitely not. 30% of adults have tried it and 12% have been in a

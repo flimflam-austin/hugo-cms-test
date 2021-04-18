@@ -20,10 +20,11 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       What’s Happening At  
 
-      The White House? 
+      The White House?
 
 
       President Trump announces a staffing change as questions swirl about
@@ -33,16 +34,18 @@ cards:
       Why It matters
     _key: card-1-320ed9fe-1a91-438a-b936-c04114fc5696
   - order: 1
+    useCheckmark: false
     body: "\"John Kelly will be leaving I don’t know if I can say\x18retiring.’ But, he’s a great guy.”  \n  \n  \nPres. Trump speaking to the press about Chief of Staff John Kelly's departure. The fmr. Marine 4-star general, started w/the administration as Sec. of Homeland Security & became Chief of Staff in July 2017. Kelly’s son was killed in Afghanistan. During a notable moment of his tenure, he described what happens when a solider dies at war.\n\n[Watch Now](https://www.youtube.com/embed/At1hOCEIwE8?enablejsapi=1&autoplay=1&rel=0)"
     _key: card-2-30aeb2f4-500e-4fc8-994a-1507a0198533
   - order: 2
+    useCheckmark: false
     body: >-
       ## WH Chief of Staff:
 
 
-      * Oversees **E**xecutive **O**ffice of the **P**resident. The EOP dates
-      back to 1939 (Pres. FDR) & encompasses 6 main offices including the
-      National Security Council & Council of Economic Advisors.
+      * Oversees**E**xecutive**O**ffice of the**P**resident. The EOP dates back
+      to 1939 (Pres. FDR) & encompasses 6 main offices including the National
+      Security Council & Council of Economic Advisors.
 
       * **Salary:A $179,700** (along with 21 other WH positions).
 
@@ -50,6 +53,7 @@ cards:
       as a close advisor to the President.
     _key: card-3-5f6c82f5-8799-47cd-874f-04087223fa36
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -66,6 +70,7 @@ cards:
       * Potential campaign finance law violations by Pres. Trump.
     _key: card-4-b9c14ebd-33ca-49e0-803b-77b2f8e7e25d
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why Timing Matters:
 
@@ -77,6 +82,7 @@ cards:
     citation: Associated Press
     _key: card-5-e944f996-7de3-4aad-9614-4742cb808dd6
   - order: 5
+    useCheckmark: true
     body: >-
       Despite rampant rumors, no official reason was given for Kelly's upcoming
       departure. Widespread speculation aside, the Special Counsel has not

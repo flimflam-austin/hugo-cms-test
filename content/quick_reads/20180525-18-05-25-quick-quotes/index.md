@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## QUICK QUOTES
 
@@ -35,6 +36,7 @@ cards:
       straws.
     _key: card-1-550b583c-28bb-411e-9cfe-68dcfec0afc6
   - order: 1
+    useCheckmark: false
     body: >-
       > “Atlantic Hurricane Season Outlook 2018 — 70% likelihood of 10-16 named
       storms of which 5-9 could become hurricanes, including 1-4 major.”  
@@ -45,6 +47,7 @@ cards:
       1 to November 30.
     _key: card-2-184f7d7e-fd84-415b-89c3-027ca8765be6
   - order: 2
+    useCheckmark: false
     body: >-
       > "It wasn’t like a movie opening… it was like an earthquake."  
         
@@ -60,6 +63,7 @@ cards:
       Now](https://www.youtube.com/embed/nH-jLrirmM8?enablejsapi=1&autoplay=1&rel=0)
     _key: card-3-7c2335bd-7c53-45e6-8262-0d0caaa2d984
   - order: 3
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-05-25-quick-quotes/)'
     _key: card-10-2dbf57b6-0f3f-4f80-b6e2-6cc35009602a
 

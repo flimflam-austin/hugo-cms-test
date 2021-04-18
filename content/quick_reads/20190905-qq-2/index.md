@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “This is probably the best case scenario that markets were hoping
       for…”  
@@ -31,6 +32,7 @@ cards:
       warns it will raise tariffs from 10% to 25%.
     _key: card-1-d08eb911-29b6-4f3d-bb4b-f0e1d96f6c00
   - order: 1
+    useCheckmark: false
     body: >-
       > “Nothing felt safe. Nowhere felt safe."  
         
@@ -42,6 +44,7 @@ cards:
       populated area.
     _key: card-2-5887d9a8-e056-4bc7-af63-0f1fa218b436
   - order: 2
+    useCheckmark: false
     body: >-
       > “People work and pay a lot of taxes and we are fed up.”  
         
@@ -52,6 +55,7 @@ cards:
       cost of living stretch into a third week.
     _key: card-3-3b36c109-88c0-4e3d-9910-a6cd59c13d9c
   - order: 3
+    useCheckmark: false
     body: >-
       “That’s a lie. And it’s not always enough to lean in, because that s***
       doesn’t work all the time.”  
@@ -63,6 +67,7 @@ cards:
       doesn't always work. Becoming is the best-selling book of 2018.
     _key: card-4-9c04080d-e411-43ac-ac71-880c72e9a3ed
   - order: 4
+    useCheckmark: false
     body: >-
       “We just presumed it was gone. In the end, we had no choice but to walk
       away…”  
@@ -75,6 +80,7 @@ cards:
       ring.
     _key: card-5-e52641ae-e96c-4054-9381-abae320d23e4
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great week!
 

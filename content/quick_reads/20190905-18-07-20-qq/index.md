@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “Say that again…. OK. That’s going to be special.”  
         
@@ -35,6 +36,7 @@ cards:
       Now](https://www.youtube.com/embed/5Q-IsLzHH4M?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-176787c7-c3ce-4e88-b4fe-298b88dfa9e5
   - order: 1
+    useCheckmark: false
     body: >-
       > "It’s a combination of relief and celebration.”  
         
@@ -46,6 +48,7 @@ cards:
       rock blocking the scenic California coastal drive.
     _key: card-2-8ad58134-07fd-4f82-81f3-aafed945236f
   - order: 2
+    useCheckmark: false
     body: >-
       > “I am not happy about it. But at the same time I’m letting them do what
       they feel is best."  
@@ -57,6 +60,7 @@ cards:
       due to its independence.
     _key: card-3-f1cc0106-507e-47e8-902c-b7a01cc34e00
   - order: 3
+    useCheckmark: true
     body: |-
       Have a great weekend!
 

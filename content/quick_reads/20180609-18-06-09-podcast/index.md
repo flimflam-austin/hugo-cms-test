@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # SmartHER Podcast
 
@@ -31,6 +32,7 @@ cards:
       listen](http://smarthernews.libsyn.com/smarther-news-episode-2)
     _key: card-1-7ca35099-72d6-4834-a0d1-5a5c608b8210
   - order: 1
+    useCheckmark: true
     body: |-
       What would you like to hear on the podcast?
 

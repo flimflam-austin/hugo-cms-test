@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # “Black Death” Returns?
 
@@ -28,6 +29,7 @@ cards:
       What To Know
     _key: card-1-2065426e-927c-49cc-8a19-e7536db6f487
   - order: 1
+    useCheckmark: false
     body: >-
       # Infected Idaho Child
 
@@ -44,6 +46,7 @@ cards:
       * First case in Idaho since 1992.
     _key: card-2-bcd2ec49-6a97-467d-bb63-f14e1496ffc1
   - order: 2
+    useCheckmark: false
     body: |-
       ## What Is Plague?
 
@@ -55,6 +58,7 @@ cards:
       * Brought to U.S. through infected rodents on steamships in 1900s.
     _key: card-3-bb888d7f-ed5c-47b4-96f9-a1b0fb3a28a6
   - order: 3
+    useCheckmark: false
     body: >-
       ## Symptoms, Cure, History
 
@@ -75,6 +79,7 @@ cards:
       [Click: View Map](https://www.cdc.gov/plague/maps/index.html)
     _key: card-4-582d0e1e-15ad-45ac-b9a1-530784445d0d
   - order: 4
+    useCheckmark: true
     body: >-
       Did you know health officials have often worried about plague used as a
       weapon by terrorists?

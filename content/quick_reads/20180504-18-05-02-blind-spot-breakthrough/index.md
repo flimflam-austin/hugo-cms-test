@@ -20,10 +20,11 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Blind Spot Breakthrough?  
 
-      Backup Cameras 
+      Backup Cameras
 
 
       New federal rule will require all newly manufactured cars to come equipped
@@ -34,6 +35,7 @@ cards:
       are kids under 5 & adults over 70.
     _key: card-1-f2366f86-ab55-4565-9e0c-15e6d4082d3b
   - order: 1
+    useCheckmark: false
     body: >-
       > **"It’s a bittersweet day because this rule should have been in place
       many years ago. Though his own life was short, my son Cameron inspired a
@@ -45,19 +47,21 @@ cards:
       eventually led to this new rule.
     _key: card-2-570e3912-8deb-4d8b-8ceb-adac74ff6246
   - order: 2
+    useCheckmark: false
     body: >-
       ## Will It Work? Is it Enough?
 
 
-      According to a 2017 Insurance Institute for Highway Safety (IIHS) study,
-      **backup cameras reduced backup related crashes by 17%.**
+      According to a 2017 Insurance Institute for Highway Safety (IIHS)
+      study,**backup cameras reduced backup related crashes by 17%.**
 
 
-      HOWEVER, a 2018 IIHS study found that cars equipped with backup cameras
-      **AND rear breaking systems with parking sensors** can reduce backup
-      related crash rates by **75%.**
+      HOWEVER, a 2018 IIHS study found that cars equipped with backup
+      cameras**AND rear breaking systems with parking sensors** can reduce
+      backup related crash rates by**75%.**
     _key: card-3-6a10ce90-1787-41fc-92df-d2e40c07cae0
   - order: 3
+    useCheckmark: true
     body: >-
       Backup crashes account for about 2% of all passenger vehicle accidents,
       according to data from the National Highway Traffic Safety Administration.

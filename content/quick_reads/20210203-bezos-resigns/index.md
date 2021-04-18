@@ -19,12 +19,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## _“Keep inventing, and don’t despair when at first the idea looks crazy.
       Remember to wander. Let curiosity be your compass.”_
     citation: JEFF BEZOS
     _key: 286e43d578d7
   - order: 1
+    useCheckmark: true
     body: >-
       Amazon's Jeff Bezos announcing he'll step down as CEO of the company he
       founded in his garage in 1994. Amazon is now $1 trillion+ global company.

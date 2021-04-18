@@ -20,6 +20,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Where Diesel Cars Go To Die
 
@@ -38,6 +39,7 @@ cards:
     citation: Flip For Backstory
     _key: card-1-1008a5c3-b46e-4cf4-97eb-5ca780661f9f
   - order: 1
+    useCheckmark: false
     body: >-
       ## Backstory
 
@@ -56,6 +58,7 @@ cards:
     citation: 'Sky News: The Scoop'
     _key: card-2-9684ecaf-1f64-4dac-bfcc-4a2f801409ac
   - order: 2
+    useCheckmark: true
     body: >-
       One "parking lot" is a suburban football stadium. This is
       Worth-It-To-See...especially since you could potentially buy one of these

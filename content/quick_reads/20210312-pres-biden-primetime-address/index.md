@@ -19,12 +19,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > _  
       “Finding light in the darkness is a very American thing to do.”_
     citation: PRES BIDEN
     _key: c8837b0feaa8
   - order: 1
+    useCheckmark: true
     body: >-
       > In his first national primetime address the President announced the
       following: every American adult will be eligible for a COVID-19 vaccine by

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## The Show Must Go On!
 
@@ -28,6 +29,7 @@ cards:
       Day Parade will march into the history books during the COVID-19 pandemic.
     _key: c32b15ea6df6
   - order: 1
+    useCheckmark: false
     body: >-
       ## The First Parade
 
@@ -43,6 +45,7 @@ cards:
       Santa Claus made a special appearance.
     _key: 64e5d9ca990e
   - order: 2
+    useCheckmark: false
     body: >-
       ## History of the Parade
 
@@ -58,6 +61,7 @@ cards:
       * First broadcast via radio; televised nationally after WWII.
     _key: 05210d797fc6
   - order: 3
+    useCheckmark: false
     body: >-
       ## The 2020 Parade
 
@@ -72,6 +76,7 @@ cards:
       televised parade.
     _key: 9a1ebb5b6fa8
   - order: 4
+    useCheckmark: false
     body: >-
       > “Under the unique challenges of these unparalleled times, we felt it was
       important to continue this cherished American tradition that has been the
@@ -84,6 +89,7 @@ cards:
       personal protective equipment.
     _key: fbbf90c70740
   - order: 5
+    useCheckmark: true
     body: >-
       New balloons being featured this year are Red Titan and Boss Baby, pulled
       by special vehicles rather than held by volunteers. 1 in 6 Americans are

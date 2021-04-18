@@ -20,6 +20,7 @@ card_series: Beauty
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “MIRACLE WATER”
 
@@ -27,41 +28,44 @@ cards:
       120-year-old Asian beauty secret revealed in the U.S.
 
 
-      But what is “essence” – and why do some think it’s even **more important
+      But what is “essence” – and why do some think it’s even**more important
       than moisturizer**?
 
 
       100 bucks?! Worth it?
     _key: card-1-686cc83f-9ceb-492e-9724-b9cef1af1495
   - order: 1
+    useCheckmark: false
     body: >-
       ## What is Essence?
 
 
-      * A **watery fluid** that’s a hybrid of toner & serum, serves as a
-      **hydrating layer.**
+      * A**watery fluid** that’s a hybrid of toner & serum, serves as
+      a**hydrating layer.**
 
-      * Applied to a **clean face**.
+      * Applied to a**clean face**.
 
       * **Believers say it primes your skin** for moisturizer and better absorbs
       serums and creams.
 
-      * Used **both in morning & evening** skin care routines.
+      * Used**both in morning & evening** skin care routines.
     _key: card-2-e25ea5d5-6f04-46df-9465-cba6d067d35f
   - order: 2
+    useCheckmark: false
     body: >-
       ## Well, Why Am I Just Hearing About It?
 
 
-      Essence is an essential skin care product in Japan & South Korea. ItA
-      **came to America 7 years ago, but only recently caught on.**
+      Essence is an essential skin care product in Japan & South Korea.
+      ItA**came to America 7 years ago, but only recently caught on.**
 
 
-      Beauty experts say it’s taken time to **change mindsets**.A Americans tend
-      to strip their skin (i.e. feel the burn to make sure it’s working), **a**
-      **watery solution may feel like a waste**.
+      Beauty experts say it’s taken time to**change mindsets**.A Americans tend
+      to strip their skin (i.e. feel the burn to make sure it’s
+      working),**a****watery solution may feel like a waste**.
     _key: card-3-eb306458-d744-4cb7-99b6-13e6946ddd2e
   - order: 3
+    useCheckmark: false
     body: >-
       # BIGGER PICTURE
 
@@ -69,13 +73,14 @@ cards:
       ## Skincare industry = BIG $$
 
 
-      An American woman will **spend an est. $300,000 on skincare** during her
+      An American woman will**spend an est. $300,000 on skincare** during her
       lifetime (creams, makeup etc.), according to one recent poll.
 
 
-      That comes to roughly **$8 A DAY.**
+      That comes to roughly**$8 A DAY.**
     _key: card-4-27f20dfc-9588-4a37-827f-576dcb2b10e4
   - order: 4
+    useCheckmark: true
     body: >-
       Look for low alcohol content and focus on active ingredients to get the
       most bang for your buck. Check out the 10-step beauty routine used in Asia

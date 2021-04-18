@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Children Crossing  
 
@@ -29,7 +30,7 @@ cards:
       ## What Are The Facts?
 
 
-      The number of illegal border crossers last monthA **grew 160% over last
+      The number of illegal border crossers last monthA**grew 160% over last
       year.**
 
 
@@ -39,6 +40,7 @@ cards:
       What's Going On
     _key: card-1-0913d7ce-1d21-4100-852d-2ab3c629b872
   - order: 1
+    useCheckmark: false
     body: >-
       ## Context Matters
 
@@ -56,21 +58,23 @@ cards:
       Numbers](https://www.dhs.gov/news/2018/06/06/statement-dhs-press-secretary-may-border-numbers)
     _key: card-2-b5c70dd9-5af3-4e9c-8460-9a4305279d20
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Separate Children?
 
 
-      **Side effect** of Pres. Trump admin’s *new* “zero tolerance” policy – a
-      **direct response to trying to deter surge of border crossings.**
+      **Side effect** of Pres. Trump admin’s *new* “zero tolerance” policy –
+      a**direct response to trying to deter surge of border crossings.**
 
 
-      ANY adults crossing border illegally **will be arrested**– Previously, an
+      ANY adults crossing border illegally**will be arrested**– Previously, an
       adult crossing illegally with child(ren) may not face prosecution.
 
 
       What Happens Now?
     _key: card-3-4b775d6b-d020-41cd-a5f7-8345980f41fa
   - order: 3
+    useCheckmark: false
     body: >-
       ## Children: What Happens?
 
@@ -78,13 +82,14 @@ cards:
       * Children become custody of Dep’t of Health & Human Services’ Office of
       Refugee Resettlement.
 
-      * Children stay in care of HHS **on average** 50 days before a sponsor
+      * Children stay in care of HHS**on average** 50 days before a sponsor
       family found.
 
       * DHS: Last year, 90% of children released to sponsor who was either a
       parent or close relative.
     _key: card-4-a269ebda-6244-4719-bc7a-27111763b117
   - order: 4
+    useCheckmark: false
     body: >-
       > “It is inconsistent with our American values to separate these children
       from their parents unless there is evidence of abuse or another very good
@@ -96,9 +101,11 @@ cards:
       Senator Susan Collins (R, ME), Twitter, June 17, 2018
     _key: card-5-1ef5d294-05af-4bea-952b-99d439d2aa25
   - order: 5
+    useCheckmark: false
     body: "> “.@SenatorCollins There is no policy to separate those seeking asylum at a port of entry. @DHSgov still has a responsibility, however, to ensure the minor is not in danger or being trafficked. We will not look the other way.”  \n  \n  \n  \nTyler Houltona\x0F, Dep't of Homeland Security spokesman, Twitter, June 17, 2018"
     _key: card-6-e5092f8e-d3c0-4b60-9b1e-a2c1ae36fa23
   - order: 6
+    useCheckmark: true
     body: >-
       Watch For: Terms "parents" & "families" used in this debate. DHS says part
       of challenge of illegal immigration is "ascertaining parental

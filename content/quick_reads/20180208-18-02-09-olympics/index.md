@@ -20,12 +20,13 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # TEAM USA
 
 
-      244-member team is the **largest** winter Olympic team **in history**
-      (from any nation) and includes:
+      244-member team is the**largest** winter Olympic team**in history** (from
+      any nation) and includes:
 
 
       * 109 women & 135 men
@@ -39,17 +40,19 @@ cards:
       * 1 married couple
     _key: card-1-4799ca51-69b4-43b6-b46d-3bfb58110716
   - order: 1
+    useCheckmark: false
     body: |-
       Name To Know:  
-      Kikkan Randall 
+      Kikkan Randall
 
       ## Cross Country Skiing
 
-      * She’s the **only** mother on Team USA; Infant son.
+      * She’s the**only** mother on Team USA; Infant son.
       * Lives & trains in Anchorage, Alaska.
       * 4x Olympian; Never earned an Olympic Medal.
     _key: card-2-9685ea66-1f11-4269-a713-a50dc2da3581
   - order: 2
+    useCheckmark: false
     body: >-
       ## WOMEN OLYMPIC FIRSTS:
 
@@ -61,6 +64,7 @@ cards:
       & the first time women participated in every Olympic game.
     _key: card-3-9fba4f89-3dd9-4892-a1d5-b86df951e01c
   - order: 3
+    useCheckmark: false
     body: >-
       ## TEAM USA WOMEN “FIRSTS”:
 
@@ -73,6 +77,7 @@ cards:
       than half of the team’s medals (58 of 103).
     _key: card-4-ce04d255-fe42-46e3-aa6d-dd9d70e162a8
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-02-09-olympics/)'
     _key: card-10-5f21c6f5-13c4-42e0-ac9e-e66a081fdc1a
 

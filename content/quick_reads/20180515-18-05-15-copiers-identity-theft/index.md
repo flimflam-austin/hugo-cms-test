@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # COPY THAT.
 
@@ -36,6 +37,7 @@ cards:
       FLIP FOR WHY
     _key: card-1-3c1dec90-8d2d-4e9c-b71f-286716f95fe5
   - order: 1
+    useCheckmark: false
     body: >-
       ## Copy Machines Have Hard Drives, Too.
 
@@ -45,25 +47,26 @@ cards:
 
 
       In 2010, CBS investigation found copiers for sale for $300, which it
-      called a **“pot of gold” for identity thieves.**
+      called a**“pot of gold” for identity thieves.**
 
 
       [Watch
       Now](https://www.youtube.com/embed/iC38D5am7go?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-1cd7f265-2484-4fc9-b9cb-fb0a26331f31
   - order: 2
+    useCheckmark: false
     body: >-
       * Since CBS’s report in 2010, the industry stepped up security with hard
       drive encryption & automatic file scrubbing.
 
-      * However, aA 2015 Ponemon survey showed **only** **38% of respondents
-      were confident printer data was wiped before disposal or
-      refurbishment.**  
+      * However, aA 2015 Ponemon survey showed**only****38% of respondents were
+      confident printer data was wiped before disposal or refurbishment.**  
 
 
       * This *despite* federal & some state laws requiring it.
     _key: card-3-b43df151-f46c-4b38-b4b0-5cf74863d7af
   - order: 3
+    useCheckmark: true
     body: >-
       Just last year, HP hired Christian Slater for a short series called ‘The
       Wolf’ to illustrate how insecure office copiers/printers can be. Watch

@@ -20,6 +20,7 @@ card_series: Powermom
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       **HAPPY MOTHER’S DAY**
 
@@ -27,6 +28,7 @@ cards:
     citation: LOVE, SMARTHER NEWS
     _key: card-1-e5a612e9-918a-4a5c-9a68-09eff74844ed
   - order: 1
+    useCheckmark: false
     body: |-
       # 85 MILLION
 
@@ -39,6 +41,7 @@ cards:
       Love, SmartHER News
     _key: card-2-2570a70c-409b-4bdc-a9dc-571496b20af2
   - order: 2
+    useCheckmark: true
     body: |-
       Click for some fun Mothers Day quotes!
 

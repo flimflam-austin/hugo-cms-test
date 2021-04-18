@@ -16,6 +16,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “The sacrifice of our service member, who volunteered for a mission to
       Afghanistan to protect his country, is a tragic loss for all who knew, and
@@ -28,6 +29,7 @@ cards:
       attack."
     _key: card-1-8c0610c3-2ee0-4f6d-ac94-3d694a6522c5
   - order: 1
+    useCheckmark: false
     body: >-
       > "If I decide to do it, it will be done. I’m not gonna ‘try’.’  
         
@@ -41,6 +43,7 @@ cards:
       Now](https://www.youtube.com/embed/xfA4Mt2WDK0?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-6543472e-93fa-451e-b637-ac82c260dee1
   - order: 2
+    useCheckmark: false
     body: >-
       > "Do not appropriate Mollie’s soul in advancing views she believed were
       profoundly racist.”  
@@ -53,6 +56,7 @@ cards:
       Democrats' reaction to her death.
     _key: card-3-3892bb3d-aef8-4f25-aed2-b978f54dbbc5
   - order: 3
+    useCheckmark: false
     body: >-
       > “Despite what some Democrats may wish in the depths of their hearts,
       Mollie was murdered by an illegal alien and her murder would never have
@@ -64,6 +68,7 @@ cards:
       in a guest column for the Des Moines Register.
     _key: card-4-4c84c797-6ac6-46e7-be05-43e4561f6153
   - order: 4
+    useCheckmark: false
     body: >-
       > "It’s best to keep your child rear-facing as long as possible. This is
       still the safest way for children to ride."  
@@ -76,6 +81,7 @@ cards:
       typically 40 pounds.
     _key: card-5-622d3138-7880-4e28-bc33-9984dd57130f
   - order: 5
+    useCheckmark: false
     body: >-
       > “Countless sensitive crustaceans experienced an agonizing death…”  
         
@@ -87,6 +93,7 @@ cards:
       people to keep animals off your plate.
     _key: card-6-2db89584-3445-4802-9347-dc66cd2b6e84
   - order: 6
+    useCheckmark: true
     body: |-
       Have a great week!
 

@@ -20,10 +20,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: '## _“Live your life.”_'
     citation: NICK CORDERO
     _key: f277987af773
   - order: 1
+    useCheckmark: true
     body: >-
       After 3 mos. battling COVID-19 Broadway performer Nick Cordero, 41, passed
       away. His wife, Amanda, updated & inspired many with her positive,

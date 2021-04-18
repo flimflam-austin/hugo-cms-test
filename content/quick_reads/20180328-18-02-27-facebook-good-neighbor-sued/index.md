@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--bronze'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Not A Good Neighbor?
 
@@ -39,6 +40,7 @@ cards:
     citation: Flip For Why
     _key: card-1-c8aae3ea-eb13-4862-a654-affeeddfb3d9
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why is FB Being Sued?
 
@@ -53,6 +55,7 @@ cards:
       * **Bottom Line: FB is accused of enabling housing discrimination.**
     _key: card-2-9ec1f437-c9e4-48b5-8457-e3cfe0e53b6a
   - order: 2
+    useCheckmark: false
     body: >-
       ## A Tough Few Weeks for FB
 
@@ -66,6 +69,7 @@ cards:
       * FB denies lawsuit allegations.
     _key: card-3-79e69322-88d4-4248-bd47-7084e37e970e
   - order: 3
+    useCheckmark: false
     body: >-
       # Speaking of Housing…
 
@@ -82,6 +86,7 @@ cards:
       towards FB employees (who receive a bonus for living near work).
     _key: card-4-8e2a06df-0f12-4136-9425-186b94329149
   - order: 4
+    useCheckmark: true
     body: >-
       Like Facebook, Google plans to build a community too. So have many other
       great American companies in the past. Does the social media component of

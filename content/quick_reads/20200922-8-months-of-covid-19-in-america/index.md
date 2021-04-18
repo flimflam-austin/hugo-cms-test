@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Eight Months of COVID-19
 
@@ -31,20 +32,22 @@ cards:
       pandemic.
     _key: fba4a522003e
   - order: 1
+    useCheckmark: false
     body: >-
       ## Patient Zero
 
 
       * **First Case:** 35-year-old man who returned to U.S. from Wuhan, China.
 
-      * **What To Know:** It wasn’t discussed in detail at the time, but he was
-      **really sick**, admitted to the hospital & given supplemental oxygen.
+      * **What To Know:** It wasn’t discussed in detail at the time, but he
+      was**really sick**, admitted to the hospital & given supplemental oxygen.
 
       * Initially referred to as the “Wuhan Coronavirus,” the World Health Org.
-      renamed the disease caused by SARS-COV-2 as COVID-19: **Co**rona**vi**rus
-      **D**isease 20**19**.
+      renamed the disease caused by SARS-COV-2 as
+      COVID-19:**Co**rona**vi**rus**D**isease 20**19**.
     _key: 4ff732a42167
   - order: 2
+    useCheckmark: false
     body: >-
       ## Recent Studies
 
@@ -59,6 +62,7 @@ cards:
       and diabetes, tend to experience the most severe cases.
     _key: 7db7ca1cc8c7
   - order: 3
+    useCheckmark: false
     body: >-
       ## USA By The Numbers
 
@@ -75,6 +79,7 @@ cards:
       available.
     _key: 414a971f48fd
   - order: 4
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
@@ -88,6 +93,7 @@ cards:
       a COVID-19 immune response in T-cells.
     _key: 55f93cdf9dcc
   - order: 5
+    useCheckmark: true
     body: >-
       In 9 months, we went from never wearing a face mask to likely owning
       several. Two doctors write in the New England Journal of Medicine that

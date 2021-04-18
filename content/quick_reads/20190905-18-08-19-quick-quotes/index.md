@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "It’s been quite a ride."  
         
@@ -31,6 +32,7 @@ cards:
       #1 and #2 spots over the years.
     _key: card-1-4b6e3e8d-6e24-4ea7-9dc4-ce331fead6f4
   - order: 1
+    useCheckmark: false
     body: >-
       > “In my time covering races professionally, I’ve never observed this
       little overlap between the battlegrounds of high-stakes Senate and House
@@ -42,6 +44,7 @@ cards:
       midterms? This piece on our source page is worth a read.
     _key: card-2-4c295259-a940-482a-b86a-758fd56a07be
   - order: 2
+    useCheckmark: false
     body: >-
       > "We showed no care for the little ones; we abandoned them."  
         
@@ -52,6 +55,7 @@ cards:
       for hundreds of victims and priests.
     _key: card-3-2594c41f-9558-4959-8ec0-e7231ba4b91a
   - order: 3
+    useCheckmark: false
     body: >-
       > "…we know it was made mostly from sheep’s and goat’s milk, but for me,
       it’s really hard to imagine a specific flavor."  
@@ -63,6 +67,7 @@ cards:
       an Egyptian tomb from approx. 3,200 yrs ago.
     _key: card-4-9c5a438a-fd26-4539-97fa-0ab15f9ed18e
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-08-19-quick-quotes/)'
     _key: card-10-de754dde-54cb-44c2-914e-2afffdb5e3f7
 

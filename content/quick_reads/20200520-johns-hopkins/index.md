@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # May 19, 1795
 
@@ -30,6 +31,7 @@ cards:
       a grocery store.
     _key: cb3be342ca54
   - order: 1
+    useCheckmark: false
     body: >-
       ## Don’t Forget The “S”
 
@@ -45,6 +47,7 @@ cards:
       banker, investor, and leading business man in Baltimore.
     _key: d6367c7f15ab
   - order: 2
+    useCheckmark: false
     body: >-
       > “It is my wish that the plan…shall provide for a hospital, which shall,
       in construction and arrangement, compare favorably with any institution of
@@ -58,6 +61,7 @@ cards:
       at the time.
     _key: e11fc704707e
   - order: 3
+    useCheckmark: false
     body: >-
       ## Claims To Fame
 
@@ -74,6 +78,7 @@ cards:
       purposefully also funded a school of nursing.
     _key: 76ce7a999fbf
   - order: 4
+    useCheckmark: true
     body: >-
       Johns Hopkins never married, reportedly pledging never to do so after
       falling in love with a cousin as a teenager (his uncle disapproved).

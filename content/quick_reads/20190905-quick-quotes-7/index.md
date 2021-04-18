@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “United States is prepared to engage immediately in negotiations to
       transform U.S.-DPRK relations.”  
@@ -32,6 +33,7 @@ cards:
       international inspectors.
     _key: card-1-d5295b02-be80-43d1-b734-4ad465f5bcb0
   - order: 1
+    useCheckmark: false
     body: >-
       > "When you have two 500-year floods within two years of each other, it’s
       pretty clear it’s not a 500-year flood.”  
@@ -43,6 +45,7 @@ cards:
       that number is expected to rise.
     _key: card-2-0273afb6-1476-4523-b186-ddf33328ef76
   - order: 2
+    useCheckmark: false
     body: >-
       > “I’ll be doing things over the next two weeks having to do with
       immigration, which I think you’ll be very impressed at.”  
@@ -55,6 +58,7 @@ cards:
       miles.
     _key: card-3-d60c0dce-bdc0-44fb-a0e1-d8388b8d352e
   - order: 3
+    useCheckmark: false
     body: >-
       > “I can give you lots of reasons but they don’t matter. What matters is
       it was my responsibility it didn’t happen and I have to be held
@@ -70,6 +74,7 @@ cards:
       Now](https://www.youtube.com/embed/JWXtCcDpfNU?enablejsapi=1&autoplay=1&rel=0)
     _key: card-4-02df27ef-a832-44a0-8505-d1ec704f60c4
   - order: 4
+    useCheckmark: false
     body: >-
       > “When Dr. Ford came forward, I said that her voice should be heard and
       asked the Judiciary Committee to delay its vote on Judge Kavanaugh. It did
@@ -80,6 +85,7 @@ cards:
       accusations facing Supreme Court nominee Judge Brett Kavanaugh.
     _key: card-5-bb30a807-ca8e-477b-8c6a-dbe182ba8475
   - order: 5
+    useCheckmark: false
     body: >-
       > “Here’s why we chose her: She’s not crazy.”  
         
@@ -91,6 +97,7 @@ cards:
       ability to be an effective public servant.
     _key: card-6-ee7c180f-a3d0-41fc-830d-ff8d46250c44
   - order: 6
+    useCheckmark: true
     body: |-
       Have a great day!
 

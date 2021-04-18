@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "My understanding is that they did it low-key and weren’t looking for
       publicity. There were enough to send every police officer, firefighter and
@@ -31,6 +32,7 @@ cards:
       did not respond to a request for comment.
     _key: card-1-84c9733a-54ae-4a4f-b07f-3e8790b69ddd
   - order: 1
+    useCheckmark: false
     body: >-
       > "We see them going to work, just as before…"  
         
@@ -42,6 +44,7 @@ cards:
       carrying a nuclear warhead to the U.S.
     _key: card-2-fa357510-42e9-4e90-9e65-7d73833ffc4c
   - order: 2
+    useCheckmark: false
     body: >-
       “I’ll always leave room for negotiation.”  
         
@@ -54,6 +57,7 @@ cards:
       security.
     _key: card-3-9b648423-6077-43ec-a363-4317dd80e6cd
   - order: 3
+    useCheckmark: false
     body: >-
       > "Putin is a thief."  
         
@@ -65,6 +69,7 @@ cards:
       said.
     _key: card-4-d86f08b3-b53c-4f6d-b45b-9320517ff322
   - order: 4
+    useCheckmark: false
     body: >-
       > “He has no information incriminating of the president, I know that for a
       fact. They can squeeze him, Paul Manafort, does not know anything …. he
@@ -79,6 +84,7 @@ cards:
       [More Info Here](https://smarthernews.com/18-07-31-manafort/%20a)
     _key: card-5-41e70006-df46-4029-b67a-93d584503057
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great day!
 

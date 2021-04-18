@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # September 20, 1973
 
@@ -28,12 +29,13 @@ cards:
 
 
       90M across the globe watched Billie Jean King beat Bobby Riggs in what is
-      still **one ofA the most-watched tennis matches of all time**.
+      still**one ofA the most-watched tennis matches of all time**.
 
 
       Why King Is Still Queen
     _key: card-1-5fd97c46-65bd-4f3e-9d6d-1b84917e1603
   - order: 1
+    useCheckmark: false
     body: >-
       # Battle of the Sexes
 
@@ -51,6 +53,7 @@ cards:
       Now](https://www.youtube.com/embed/CFa6fhW26A4?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-685c57b5-5620-4d3b-8307-bb8991921225
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why King Matters
 
@@ -66,6 +69,7 @@ cards:
       back 50 years if I didn’t win that match**.”
     _key: card-3-720db822-e8b5-4511-88bd-cad627eed9c9
   - order: 3
+    useCheckmark: false
     body: |-
       # King’s Lasting Legacy
 
@@ -77,6 +81,7 @@ cards:
       **Her advocacy for gender equality on and off the court continues.**
     _key: card-4-97c0dd70-956b-495a-9f3d-5453ab2909b9
   - order: 4
+    useCheckmark: false
     body: >-
       > "We always put our hands up for Billie. We love her. She has a
       tremendous history, not just in women’s tennis, but in leading rights for
@@ -88,6 +93,7 @@ cards:
       eliminating workplace inequalities & promoting diversity.
     _key: card-5-e58e271e-c887-4c12-8521-436027ab956c
   - order: 5
+    useCheckmark: true
     body: >-
       King recently sat down for her first television interview since Serena
       Williams alleged sexism at the US Open. King said sexism still exists in

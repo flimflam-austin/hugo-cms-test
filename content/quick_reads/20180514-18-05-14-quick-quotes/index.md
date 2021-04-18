@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # QUICK QUOTES
 
@@ -33,6 +34,7 @@ cards:
       sequel to Deadpool debuts Friday, May 18th.
     _key: card-1-250800fa-f76b-4985-b2c3-6bff50d257a2
   - order: 1
+    useCheckmark: false
     body: >-
       > **“The average millennial doesn’t have time to make a full meal with
       fresh meat and produce. More and more they’re seeing these products as
@@ -47,6 +49,7 @@ cards:
       to form families.
     _key: card-2-78e7ad2e-e106-4f16-9307-2bb534cb4848
   - order: 2
+    useCheckmark: false
     body: >-
       > **‘That’s the prelude to getting them into a higher rate production
       which we hope to start about the middle of next year.’**  
@@ -61,6 +64,7 @@ cards:
       Now](https://www.youtube.com/embed/Ve9kWX_KXus?enablejsapi=1&autoplay=1&rel=0)
     _key: card-3-dd47ac63-a7ee-42d7-b040-c0d46132c52f
   - order: 3
+    useCheckmark: false
     body: >-
       > **“This was not something that was really my doing or my choice.”**  
         
@@ -71,6 +75,7 @@ cards:
       which kicks off in October.
     _key: card-4-99849ea2-f600-47bd-93a0-f8715117b899
   - order: 4
+    useCheckmark: false
     body: >-
       > "It’s like a burned Cheez-It with syrup. But I don’t hate it like I
       thought I would."  
@@ -81,6 +86,7 @@ cards:
       Red Lobster's new menu item last month was lobster with waffles.
     _key: card-5-0ee417a9-ea78-42c6-9bf8-c6152d4cf5fe
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-05-14-quick-quotes/)'
     _key: card-10-a8c52de6-1e4c-41a0-86f8-bc4572f0efff
 

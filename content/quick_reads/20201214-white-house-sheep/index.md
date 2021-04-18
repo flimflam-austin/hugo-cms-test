@@ -19,9 +19,11 @@ card_series: Now You Know
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: "An unlikely resident at the White House rallied the nation during war and pandemic…and\_had nothing to do with donkeys (Democrats) or elephants (Republicans)."
     _key: 3df702abf860
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Backstory
 
@@ -35,6 +37,7 @@ cards:
       lawns.
     _key: 346542f78d2d
   - order: 2
+    useCheckmark: false
     body: >-
       > “The sight of sheep grazing on the South Lawn of the White House may
       seem unusual, but during World War I, it was a highly visible symbol of
@@ -44,6 +47,7 @@ cards:
       White House Historical Association
     _key: e6c8d4946b45
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why Sheep?
 
@@ -59,6 +63,7 @@ cards:
       now be seen at Woodrow Wilson’s Presidential Library & Museum.
     _key: 144cd1de7974
   - order: 4
+    useCheckmark: true
     body: >-
       According to reports in the Washington Post, the sheep had eaten down the
       White House grass, fell ill during the flu pandemic and developed a fear

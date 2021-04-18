@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # June 14, 1777
 
@@ -28,6 +29,7 @@ cards:
       ## The maker remains a mystery.
     _key: 3c8b0a74af77
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Final Resolution:
 
@@ -43,6 +45,7 @@ cards:
       **Blue**: perseverance
     _key: aae762b6d0d4
   - order: 2
+    useCheckmark: false
     body: >-
       ## Who Made The First Flag?
 
@@ -58,6 +61,7 @@ cards:
       flags in her family’s shop.
     _key: 6c061b6dd578
   - order: 3
+    useCheckmark: true
     body: >-
       Pres. Woodrow Wilson proclaimed June 14th "Flag Day" in 1916, but it
       didn't become an official day until 1949 when Pres. Harry Truman signed it

@@ -19,6 +19,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       _“Know that you will not be defeated if you really think positive, about
       yourself and the life you’ve chosen to live.”_
@@ -28,6 +29,7 @@ cards:
     citation: CICELY TYSON
     _key: 5b9302f336d3
   - order: 1
+    useCheckmark: true
     body: >-
       Actress Cicely Tyson won Emmys, a Tony and an honorary Oscar for her
       acting work over the course of 7 decades, becoming one of the leading,

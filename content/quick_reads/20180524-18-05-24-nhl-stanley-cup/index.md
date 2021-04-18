@@ -20,6 +20,7 @@ card_series: Sports
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # NHL’S STANLEY CUP CHAMPIONSHIP
 
@@ -27,17 +28,19 @@ cards:
       ## Underdog vs. Underdog
 
 
-      > TheA **Las Vegas Knights**,A a team that didn’t even exist last year,
-      faces off against the **Washington Capitals**, a team tortured by playoff
+      > TheA**Las Vegas Knights**,A a team that didn’t even exist last year,
+      faces off against the**Washington Capitals**, a team tortured by playoff
       losses.
 
 
       flip: What You should Know
     _key: card-1-ff0cd634-0df4-499b-8536-a1a0772a63f3
   - order: 1
+    useCheckmark: false
     body: "## Vegas Golden Knights\n\n**_\"Everybody on this team has something to prove. We call ourselves a\x18The Golden Misfits’ for a reason. We’re doing a good job of proving everybody wrong.\"_**  \n  \nRyan Reaves, Golden Knights, helped score winning goal that sent team to the Final.\n\n* **New franchise:** At one point, 500-1 odds to win championship."
     _key: card-2-78332d8a-0776-4e5b-bd0f-9c69ccf7ef54
   - order: 2
+    useCheckmark: false
     body: >-
       ## Washington Capitals
 
@@ -52,6 +55,7 @@ cards:
       * **Tortured Past:A** First Stanley Cup appearance in 20 yrs, never won.
     _key: card-3-bab47c70-103e-4960-9eaf-945228adbfc2
   - order: 3
+    useCheckmark: true
     body: >-
       The best of 7 series starts Monday. Who ya got? Click for the full
       schedule for when to watch.

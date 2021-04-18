@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## You’re hearing one thing from the President on COVID-19 about social
       distancing; another from your governor. Maybe something else from your
@@ -29,6 +30,7 @@ cards:
       ## Who takes the lead?
     _key: 69bb3f2f260e
   - order: 1
+    useCheckmark: false
     body: >-
       ## FEDERAL GOV’T
 
@@ -44,6 +46,7 @@ cards:
       * The last widespread federal quarantine: the 1918 flu epidemic.
     _key: 7e67dbc2a564
   - order: 2
+    useCheckmark: false
     body: >-
       ## STATE & LOCAL GOV’T
 
@@ -59,6 +62,7 @@ cards:
       orders.
     _key: 48a73a2e77b8
   - order: 3
+    useCheckmark: false
     body: >-
       ## Stay-At-Home Orders
 
@@ -73,11 +77,12 @@ cards:
       * Stay-at-home violations are usually misdemeanors.
     _key: 9a1abf644576
   - order: 4
+    useCheckmark: false
     body: >-
       ## BIG PICTURE
 
 
-      The **federal gov’t takes the lead** in the case of **widespread
+      The**federal gov’t takes the lead** in the case of**widespread
       communicable diseases** but needs teamwork from the states.
 
 
@@ -87,6 +92,7 @@ cards:
       directing them.
     _key: e1c891cf8d31
   - order: 5
+    useCheckmark: true
     body: >-
       The President is deploying the National Guard to California, New York &
       Illinois. These states have stay-at-home orders or similar measures in

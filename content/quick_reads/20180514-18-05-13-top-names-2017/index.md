@@ -20,11 +20,12 @@ card_series: Now You Know
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # America’s Top Baby Names
 
 
-      Social Security Administration **releases top 1,000 baby names**A every
+      Social Security Administration**releases top 1,000 baby names**A every
       year.
 
 
@@ -34,6 +35,7 @@ cards:
       Flip For Top Names
     _key: card-1-74e9dc29-a649-4f41-a5be-c80c9ad99fd0
   - order: 1
+    useCheckmark: false
     body: >-
       TOP NAMES:  
 
@@ -52,19 +54,21 @@ cards:
       What Names Moved Up/Down?
     _key: card-2-817f1f3c-5945-48fe-9da5-8fc341b89130
   - order: 2
+    useCheckmark: false
     body: >-
       ## Name “Changes”
 
 
-      * **“Amazon Effect”?** **Alexa** moved **DOWN** on list to #65 (from #32
-      in 2015). Some suggest this is due to Amazon’s voice-activated device by
-      the same name.
+      * **“Amazon Effect”?****Alexa** moved**DOWN** on list to #65 (from #32 in
+      2015). Some suggest this is due to Amazon’s voice-activated device by the
+      same name.
 
       * **“First Couple” Impact? MelaniaA** appears**A** in spot #930 (‘Melania’
       didn’t appear on list in 2016 & 2015). “**Donald**” held steady at #488
       from 2016, but down from #442 in 2015.
     _key: card-3-cfd9e231-c894-472c-a822-61480c91eeb1
   - order: 3
+    useCheckmark: true
     body: >-
       3.8M babies were born last year in U.S. - the LOWEST number in 3 decades.
       What names held the "1,000th" spot of the top 1,000? "Jaxx" & "Alora".

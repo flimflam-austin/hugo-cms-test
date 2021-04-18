@@ -20,12 +20,13 @@ card_series: Now You Know
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## LIVIN’ ON A PRAYER
 
 
-      > On Easter Weekend, a **nun’s** favorite underdog team attempts a
-      **miracle** win in the NCAA Final Four.  
+      > On Easter Weekend, a**nun’s** favorite underdog team attempts
+      a**miracle** win in the NCAA Final Four.  
         
         
         
@@ -40,6 +41,7 @@ cards:
     citation: Meet 'Sister Jean'
     _key: card-1-ed8efbd4-92dc-479e-940f-f038c78601fa
   - order: 1
+    useCheckmark: false
     body: >-
       ## All About Sister Jean
 
@@ -61,6 +63,7 @@ cards:
     citation: Watch Now
     _key: card-2-4bf18403-a3c2-4849-ac0c-58faf19385fa
   - order: 2
+    useCheckmark: false
     body: >-
       NCAA Tournament’s M.V.P.  
 
@@ -69,8 +72,8 @@ cards:
 
       * She gave Loyola “her blessing” to license her name & image.
 
-      * She’s now on **t-shirts, socks & even a bobblehead**A — it’s the
-      **best-selling bobblehead in history.** (5K sold in 48 hours)
+      * She’s now on**t-shirts, socks & even a bobblehead**A — it’s
+      the**best-selling bobblehead in history.** (5K sold in 48 hours)
 
       * She won’t receive any money.
 
@@ -78,6 +81,7 @@ cards:
       Charity of the Blessed Virgin Mary.
     _key: card-3-ee51ae11-243d-4906-8206-3fe1ca44c5f6
   - order: 3
+    useCheckmark: false
     body: |-
       ## Keeping the Faith
 
@@ -92,6 +96,7 @@ cards:
       Monday night.
     _key: card-4-bfc88c5b-d554-4e7a-863d-de1e95e9db3d
   - order: 4
+    useCheckmark: true
     body: >-
       Poking fun at a nun? Check out these new billboards in Michigan ahead of
       the Final Four.

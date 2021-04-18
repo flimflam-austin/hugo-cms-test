@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“It’s all about kindness. With everything that’s going on in the world,
       we just need a little bit more kindness out there.”_
     citation: KARINA HARDEE
     _key: 8d4d7266b098
   - order: 1
+    useCheckmark: true
     body: >-
       When Hardee's 5-year-old daughter Katelynn learned some children had
       trouble paying off their school lunch debt, she started a fundraiser to

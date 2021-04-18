@@ -20,6 +20,7 @@ card_series: Beauty
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Studying The Selfie
 
@@ -28,6 +29,7 @@ cards:
       Flip: Bottom Line
     _key: card-1-4941aa73-d49f-48b7-805f-fe38e5fd0286
   - order: 1
+    useCheckmark: false
     body: >-
       ## Selfie Study
 
@@ -40,10 +42,11 @@ cards:
       * **Why?** Researchers say areas with greater upward mobility often have
       higher income inequality.
 
-      * Analysis:A **Sexy selfies “sell”**; reflect desire to climb in social
+      * Analysis:A**Sexy selfies “sell”**; reflect desire to climb in social
       status.
     _key: card-2-9ba42a46-cf2b-4415-88a5-90a504faa1fc
   - order: 2
+    useCheckmark: false
     body: >-
       > "So, when a young woman adjusts her bikini provocatively with her phone
       at the ready, don’t think of her as vacuous or as a victim. Think of her
@@ -55,6 +58,7 @@ cards:
       and Environmental Sciences
     _key: card-3-91419db9-ec01-4ba5-a675-31ca9227fd56
   - order: 3
+    useCheckmark: false
     body: >-
       What Do Men  
 
@@ -64,14 +68,15 @@ cards:
       **Not as much as you might think.**
 
 
-      Study: Women post more sexy selfies in countries with **less gender
+      Study: Women post more sexy selfies in countries with**less gender
       discrimination**.
 
 
-      Researchers: sexy selfies play to primitive instincts of **women to
-      compete with other women**,A for higher status, and finding a mate.
+      Researchers: sexy selfies play to primitive instincts of**women to compete
+      with other women**,A for higher status, and finding a mate.
     _key: card-4-e8fa4362-451a-44a9-b23e-a379c52f18e0
   - order: 4
+    useCheckmark: true
     body: >-
       "In evolutionary terms, these kinds of behaviors are completely rational,
       even adaptive. The basic idea is that the way people compete for mates,

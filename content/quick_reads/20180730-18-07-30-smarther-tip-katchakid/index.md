@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # SmartHER SAFETY
 
@@ -31,6 +32,7 @@ cards:
       Now](https://www.youtube.com/embed/lNmDwOS9bDU?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-5c406b9e-9464-4e2e-97fa-5b8b325956da
   - order: 1
+    useCheckmark: true
     body: >-
       KatchaKid is based in Texas but services a wide swath of the entire United
       States. Read more on our source page about what inspired the company's

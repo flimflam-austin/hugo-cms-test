@@ -20,12 +20,13 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Common Thread
 
 
-      What’s the one thing found in **every** allegation against Supreme Court
-      nominee Brett Kavanaugh that **everyone** agrees upon?
+      What’s the one thing found in**every** allegation against Supreme Court
+      nominee Brett Kavanaugh that**everyone** agrees upon?
 
 
       **Underage Drinking**
@@ -34,6 +35,7 @@ cards:
       WHAT TO KNOW
     _key: card-1-f7adf8cb-0520-40a7-935f-50f07321c860
   - order: 1
+    useCheckmark: false
     body: >-
       ## 3 ALLEGATIONS
 
@@ -48,6 +50,7 @@ cards:
       physically aggressive behavior toward girls.”
     _key: card-2-e65911f9-56dd-4f61-b9df-e8f182413a67
   - order: 2
+    useCheckmark: false
     body: >-
       > “I drank beer with my friends. Almost everyone did. Sometimes I had too
       many beers. Sometimes others did. I liked beer. I still like beer. But I
@@ -60,6 +63,7 @@ cards:
       than 21.
     _key: card-3-b3a134e5-d0fd-4ca9-99f7-693e77591cb5
   - order: 3
+    useCheckmark: false
     body: >-
       ## Underage Drinking: U.S.A.
 
@@ -73,6 +77,7 @@ cards:
       States.**” (CDC)
     _key: card-4-28276cfb-5e74-4cf6-845c-e123edda64ec
   - order: 4
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
@@ -86,6 +91,7 @@ cards:
       include drinking & driving accidents, suicides and drowning.
     _key: card-5-9c2e332b-8b70-410e-a8c5-6080066eaa61
   - order: 5
+    useCheckmark: true
     body: >-
       The most recent data available showed a slight decline in underage
       drinking; that research is 3 years old. In the meantime, drinking among

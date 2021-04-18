@@ -17,6 +17,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## CHRISTMAS MIRACLE
 
@@ -25,6 +26,7 @@ cards:
       1776, arguably changed the course of America history forever.
     _key: 4c1b5fe6c1d5
   - order: 1
+    useCheckmark: false
     body: >-
       > “_These are the times that try men’ souls. The summer soldier and the
       sunshine patriot will, in this crisis, shrink from the service of their
@@ -38,6 +40,7 @@ cards:
       night.
     _key: a12e213dbc2a
   - order: 2
+    useCheckmark: false
     body: >-
       ## What Happened:
 
@@ -52,20 +55,22 @@ cards:
       British forces the day after Christmas.
     _key: a862f7d1845a
   - order: 3
+    useCheckmark: false
     body: >-
       ## Dec. 25-26 1776
 
 
-      * On **Christmas night**, the Continental Army took 10 hours to cross the
-      Delaware River in a **freezing cold snowstorm**.
+      * On**Christmas night**, the Continental Army took 10 hours to cross the
+      Delaware River in a**freezing cold snowstorm**.
 
       * Once across, many didn’t have proper shoes to march hours to Trenton for
-      the battle leaving **bloody footprints in the snow**.
+      the battle leaving**bloody footprints in the snow**.
 
-      * Gen. Washington **surprised the British side** day after Christmas,
+      * Gen. Washington**surprised the British side** day after Christmas,
       winning Battle of Trenton quickly.
     _key: f6af61e0cdf8
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -78,6 +83,7 @@ cards:
       the American Revolution & arguably, America's fate.
     _key: 9cfbc04d9d2c
   - order: 5
+    useCheckmark: true
     body: >-
       Even the British felt a shift after this battle. Some, like Historian Clay
       Craighead, point to it as a real turning point in momentum. Listen to Clay

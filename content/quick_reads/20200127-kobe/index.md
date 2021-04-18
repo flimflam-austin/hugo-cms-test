@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > _“You asked for my hustle._  
       _I gave you my heart.”_
     citation: KOBE BRYANT
     _key: 1ac8175c6232
   - order: 1
+    useCheckmark: false
     body: >-
       ## KOBE: THE MAN
 
@@ -45,6 +47,7 @@ cards:
       his 2015 poem announcing his NBA retirement.
     _key: 45b317ce9121
   - order: 2
+    useCheckmark: false
     body: >-
       ## KOBE: THE ATHLETE
 
@@ -66,6 +69,7 @@ cards:
       athletes; coached his daughter’s basketball team.
     _key: b161d11ed3db
   - order: 3
+    useCheckmark: false
     body: >-
       “Being a father is the thing I am most proud of in this world; it’s my
       greatest accomplishment. I’ve learned so much, but perhaps the most
@@ -77,6 +81,7 @@ cards:
       Kobe Bryant, 2019
     _key: 6fd7d547fd8d
   - order: 4
+    useCheckmark: true
     body: >-
       The 41-yr-old & his 13-yr-old daughter Gianna were among 9 killed Sunday
       in a helicopter crash in CA. In his retirement, Bryant created a media

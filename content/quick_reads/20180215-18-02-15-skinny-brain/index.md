@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Mind Games
 
@@ -36,6 +37,7 @@ cards:
       Flip For More
     _key: card-1-f5d12350-f34f-47f2-959d-78bfd9cde954
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -51,6 +53,7 @@ cards:
       * Could help with yo-yo dieting and obesity therapies.
     _key: card-2-6f38c83c-238c-4e4b-99f3-fbb9c12f93d2
   - order: 2
+    useCheckmark: false
     body: >-
       Protein: Potential Link  
 
@@ -66,6 +69,7 @@ cards:
       Associate Professor Zane Andrews, Monash Biomedicine Discovery Institute
     _key: card-3-25be65fe-14a3-43b1-b4e2-beca540edccb
   - order: 3
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-02-15-skinny-brain/)'
     _key: card-10-ee5bcd8f-02a7-4eca-8bd7-2f364c27bd60
 

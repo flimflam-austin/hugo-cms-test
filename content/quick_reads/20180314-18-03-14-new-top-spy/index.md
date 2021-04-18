@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--black'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Nation’s New Top Spy?
 
@@ -38,6 +39,7 @@ cards:
       Flip To Learn More
     _key: card-1-1e138464-5183-4a44-b03a-99c17374e5ff
   - order: 1
+    useCheckmark: false
     body: >-
       Why Now?  
 
@@ -54,6 +56,7 @@ cards:
       * **Fun Fact:** Pompeo *also* served in the CIA.
     _key: card-2-4ad4e672-e8de-4b15-967e-6e5b25acbd32
   - order: 2
+    useCheckmark: false
     body: >-
       Gina Haspel:  
 
@@ -64,14 +67,15 @@ cards:
 
       * Personal info = very scant
 
-      * Unlike others in leadership roles, **Haspel served as a spy herself**.
+      * Unlike others in leadership roles,**Haspel served as a spy herself**.
 
-      * Since Feb 2017, Haspel served as CIA Deputy Director under Dir. Pompeo —
-      **the first female career CIA officer to do so.**
+      * Since Feb 2017, Haspel served as CIA Deputy Director under Dir. Pompeo
+      —**the first female career CIA officer to do so.**
 
-      * OversawA _National Clandestine Services_ aka “covert” operations.
+      * OversawA_National Clandestine Services_ aka “covert” operations.
     _key: card-3-26cc534e-a004-4984-a163-93b7cc874eb7
   - order: 3
+    useCheckmark: false
     body: |-
       ## Is She A Good Choice?
 
@@ -84,6 +88,7 @@ cards:
       Flip For Why:
     _key: card-4-999dfda0-2a9b-424e-8630-ae6154ac8e77
   - order: 4
+    useCheckmark: false
     body: >-
       ## Backstory: Haspel
 
@@ -97,6 +102,7 @@ cards:
       deputy at the time.
     _key: card-5-67d2a9b4-1008-4a5c-852a-39ed17f80ce1
   - order: 5
+    useCheckmark: false
     body: >-
       ## Backstory: Cat’s Eye
 
@@ -110,6 +116,7 @@ cards:
       attack that killed 17 American sailors.
     _key: card-6-ae46e090-d928-43f5-8add-a2dc93710d69
   - order: 6
+    useCheckmark: false
     body: >-
       _“The torture of detainees in U.S. custody during the last decade was one
       of the darkest chapters in American history. Ms. Haspel needs to explain
@@ -121,6 +128,7 @@ cards:
       March 13, 2018
     _key: card-7-437294cd-640a-4aed-89f2-a075e389e051
   - order: 7
+    useCheckmark: false
     body: >-
       ## Random Fact
 
@@ -136,6 +144,7 @@ cards:
       [Click HERE to apply:](https://www.cia.gov/careers/application-process)
     _key: card-8-da1c8dee-2b7e-4596-ad42-87f7323e556b
   - order: 8
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-03-14-new-top-spy/)'
     _key: card-10-26c6b4f9-5493-4409-9f87-6d30f6fd8abf
 

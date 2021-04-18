@@ -20,12 +20,14 @@ card_series: Now You Know
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       SmartHER News Week Ahead
 
       Dec 2 - 9
     _key: card-1-bd9a3c97-8235-44ce-a65a-3e57cb65d535
   - order: 1
+    useCheckmark: true
     body: |-
       Check out our source page for the full rundown!
 

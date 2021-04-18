@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # The Truth Of This Term
 
@@ -34,8 +35,9 @@ cards:
       Why It Matters
     _key: card-1-138b4cb9-d083-48d4-8f20-18104c8c243e
   - order: 1
+    useCheckmark: false
     body: >-
-      > “The term ‘sexual assault’ means **any nonconsensual sexual act**
+      > “The term ‘sexual assault’ means**any nonconsensual sexual act**
       proscribed by Federal, tribal, or State law, including when the victim
       lacks capacity to consent.”  
         
@@ -45,20 +47,22 @@ cards:
       state.
     _key: card-2-29e5abf8-25fc-40e0-8df0-cbefc4d80c28
   - order: 2
+    useCheckmark: false
     body: >-
       ## Let’s Clear This Up:
 
 
       * Prof. Christine Ford has accused Supreme Court Brett Kavanaugh nominee
-      of **sexual assault**.
+      of**sexual assault**.
 
-      * Despite her allegations, she has **not** filed a criminal complaint.
+      * Despite her allegations, she has**not** filed a criminal complaint.
 
-      * The Senate Judiciary cmte is **NOT** a court of law & they will not
+      * The Senate Judiciary cmte is**NOT** a court of law & they will not
       decide if a sexual assault happened. Instead, they vote on whether
       Kavanaugh should be considered for SCOTUS.
     _key: card-3-6676fb0d-6dda-4a80-923f-061b77d49982
   - order: 3
+    useCheckmark: true
     body: >-
       Some in the media have chosen to use the umbrella term "sexual misconduct"
       to refer to the accusations against Kavanaugh; misconduct includes, but is

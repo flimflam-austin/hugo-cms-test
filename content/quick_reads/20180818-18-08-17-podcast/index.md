@@ -20,6 +20,7 @@ card_series: Podcast
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Our top 3 stories of the week…and an American adventurer who just set a
       world record tells us his inspiring story.
@@ -30,6 +31,7 @@ cards:
     citation: 'CLICK: LISTEN'
     _key: card-1-65cda704-384e-43b6-b11b-66e0299acaeb
   - order: 1
+    useCheckmark: true
     body: |-
       Watch & listen to our podcast on the source page!
 

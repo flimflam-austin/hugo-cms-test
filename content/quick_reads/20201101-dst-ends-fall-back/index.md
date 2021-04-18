@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # TIME TO FALL BACK
 
@@ -31,6 +32,7 @@ cards:
       One less hour of evening sunlight
     _key: bbad5e14fe33
   - order: 1
+    useCheckmark: false
     body: >-
       ## WHAT TO KNOW:
 
@@ -48,6 +50,7 @@ cards:
       to take effect.
     _key: 2569ed98c87e
   - order: 2
+    useCheckmark: false
     body: >-
       ## ALSO WORTH NOTING:
 
@@ -68,6 +71,7 @@ cards:
       Most are due to *temporary* sleep deprivation & circadian rhythm changes.
     _key: 144264ac2737
   - order: 3
+    useCheckmark: true
     body: >-
       Approx. 8 months of the year are in daylight saving time & 4 months are in
       standard time. For those who miss the evening sunlight... we go back to

@@ -20,28 +20,31 @@ card_series: Current Events
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > THE ROYAL WEDDING  
       **All the Details**
     _key: card-1-b60386c5-a812-4990-8960-b923f302a75e
   - order: 1
+    useCheckmark: false
     body: >-
       ## THE BASICS
 
 
-      * This **Saturday, May 19th.**
+      * This**Saturday, May 19th.**
 
-      * At 11:20am London time, the royal family & **600 guests** will begin to
-      arrive at **St. George’s Chapel** (where Harry was christened).
+      * At 11:20am London time, the royal family &**600 guests** will begin to
+      arrive at**St. George’s Chapel** (where Harry was christened).
 
       * **Ceremony begins at 12 pm (7 am ET)**, followed by a 25 min carriage
       procession thru Windsor.
 
-      * Lunch reception at **St. George’s**.
+      * Lunch reception at**St. George’s**.
 
       * **Private evening reception** at Frogmore House at 7pm.
     _key: card-2-e70c7ec0-0615-4ed9-8e98-cba5551b41ca
   - order: 2
+    useCheckmark: false
     body: >-
       ## THE CAKE
 
@@ -60,14 +63,15 @@ cards:
     citation: 'Insta look: Cake'
     _key: card-3-80dbb3ec-d57a-4a54-848c-8ce64cefd05b
   - order: 3
+    useCheckmark: false
     body: >-
       ## THE FLOWERS
 
 
-      * London-based &A self-taught **PhilippaA Craddock**A will design all of
+      * London-based &A self-taught**PhilippaA Craddock**A will design all of
       the church flowers.
 
-      * Likely flowers include white garden roses, foxgloves, & **Markle’s
+      * Likely flowers include white garden roses, foxgloves, &**Markle’s
       favorite – peonies**.
 
       * **Did you know?**A Dating back to 1840, royal wedding bouquets include
@@ -79,6 +83,7 @@ cards:
     citation: 'Insta look: Flowers'
     _key: card-4-f67cefc7-df0c-4b2a-8bba-7c55b79d3cd9
   - order: 4
+    useCheckmark: false
     body: >-
       ## THE DRESS
 
@@ -89,12 +94,13 @@ cards:
       Markle’s black engagement gown.
 
       * **Did you know?** The husband & wife Australian designers are known for
-      their extravagant couture designs. ButA it’s **custom for the Queen to
+      their extravagant couture designs. ButA it’s**custom for the Queen to
       approve**.
 
       * Other possible designers? Stella McCartney, Alexander McQueen.
     _key: card-5-586bd9fe-a8ed-447e-ae84-803e19258bcb
   - order: 5
+    useCheckmark: false
     body: >-
       ## WILL HE OR WON’T HE?
 
@@ -108,6 +114,7 @@ cards:
       Markle down the aisle.
     _key: card-6-8afcf9d0-b8ef-47c4-95ea-ff8917609923
   - order: 6
+    useCheckmark: true
     body: >-
       The Royal Family will take care of Meghan and Harry’s wedding bill. For
       comparison, Kate Middleton and Prince William’s 2011 wedding cost an

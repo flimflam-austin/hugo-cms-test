@@ -20,6 +20,7 @@ card_series: what to know
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # White House  
       COVID-19 Task Force
@@ -27,6 +28,7 @@ cards:
       WHAT WE LEARNED TODAY
     _key: 248f5837ee96
   - order: 1
+    useCheckmark: false
     body: >-
       > “…devices that anesthesiologists use for outpatient surgery can be
       converted with a change of a single vent to a very useful ventilator.”
@@ -38,6 +40,7 @@ cards:
       know how to use them) may be reallocated to help areas in need.
     _key: 0bda9b69b9f4
   - order: 2
+    useCheckmark: false
     body: >-
       > “The numbers that have been put out there are actually very frightening
       to people.”
@@ -50,6 +53,7 @@ cards:
       every American is doing something."
     _key: c1277fa39b0a
   - order: 3
+    useCheckmark: false
     body: >-
       > “How many deaths are acceptable to me? None.”
 
@@ -63,6 +67,7 @@ cards:
       area.
     _key: 1993796f416e
   - order: 4
+    useCheckmark: false
     body: >-
       > “Our Chinese colleagues are very concerned… what they’re starting to
       see, as they’re relaxing the constraints on travel, that they’re getting
@@ -75,6 +80,7 @@ cards:
       days to Slow the Spread" - ends Monday. Next steps remain TBD.
     _key: 26cb216ee501
   - order: 5
+    useCheckmark: true
     body: >-
       Dr. Birx says the number of new cases per day in the New York City has
       been "relatively constant" over the last 3 days, showing the importance of

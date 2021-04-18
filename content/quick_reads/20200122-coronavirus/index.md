@@ -20,12 +20,14 @@ card_series: Health
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## The “New” Pneumonia?
 
       A first-of-its-kind case of a deadly virus in America.
     _key: 5c24363d450b
   - order: 1
+    useCheckmark: false
     body: >-
       > “It’s unclear how easily this virus is spreading between people.”
 
@@ -37,6 +39,7 @@ cards:
       and hundreds sick across Asia.
     _key: 8fbf761d5e15
   - order: 2
+    useCheckmark: false
     body: >-
       ## “Coronavirus”
 
@@ -53,6 +56,7 @@ cards:
       calls the man hospitalized in Washington state “very healthy.”
     _key: 23cfc4ffaac3
   - order: 3
+    useCheckmark: false
     body: >-
       > “The enemies are in the dark, and we don’t know them.”
 
@@ -64,6 +68,7 @@ cards:
       travel.
     _key: f0a1b3203cc2
   - order: 4
+    useCheckmark: true
     body: >-
       The CDC is now screening for the illness in some major U.S. international
       airports: San Francisco (SFO), Los Angeles (LAX), NY (JFK) and now

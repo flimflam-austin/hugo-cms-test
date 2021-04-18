@@ -20,6 +20,7 @@ card_series: Podcast
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > **“A lot of the conversations happening today happened 100 years
       ago.”**  
@@ -34,6 +35,7 @@ cards:
       Podcast](http://smarthernews.libsyn.com/smarther-news-ep5-historian-barry-moreno)
     _key: card-1-bab7f14c-9f91-4d3b-8255-9f50ad4e2d52
   - order: 1
+    useCheckmark: false
     body: >-
       > “Ellis Island was very unpopular much in the media. When it was opened
       it was very controversial, and as the years went on become more
@@ -43,6 +45,7 @@ cards:
       terrorism, and all those things were leveled then in 1890.”
     _key: card-2-f542e2e3-2450-488e-a38f-d39afb2235db
   - order: 2
+    useCheckmark: true
     body: |-
       Listen to the podcast...
 

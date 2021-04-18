@@ -20,6 +20,7 @@ card_series: From the President's Desk
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Small Words: Big Meaning
 
@@ -34,11 +35,12 @@ cards:
       When he used it and why it matters.
     _key: card-1-6e605a64-b285-436a-8abc-7b791b3b9340
   - order: 1
+    useCheckmark: false
     body: >-
       > “The Iranian people are rightly outraged that their leaders have
       embezzled billions of dollars from Iran’s treasury, seized valuable
       portions of the economy, and looted the people’s religious endowments, all
-      to line their own pockets and send their proxies to wage war. **Not
+      to line their own pockets and send their proxies to wage war.**Not
       good**.”  
         
         
@@ -46,6 +48,7 @@ cards:
       Pres. Trump, United Nations General Assembly, Sept 25, 2018
     _key: card-2-7fa1ce85-14d4-46fa-bdaa-f58e2469e591
   - order: 2
+    useCheckmark: false
     body: |-
       ## What To Know:
 
@@ -56,11 +59,12 @@ cards:
       * More U.S. sanctions to come = more potential internal strife in Iran.
     _key: card-3-651456a5-1943-4882-b976-f17b806da70b
   - order: 3
+    useCheckmark: false
     body: >-
       > “OPEC and OPEC nations, are, as usual, ripping off the rest of the
       world, and I don’t like it. Nobody should like it. We defend many of these
       nations for nothing, and then they take advantage of us by giving us high
-      oil prices. **Not good.**“  
+      oil prices.**Not good.**“  
         
         
       Pres. Trump referred to America as the largest energy producer anywhere on
@@ -68,6 +72,7 @@ cards:
       other nations.
     _key: card-4-6ab938f8-3b83-4379-9ae7-9106f0fff0bd
   - order: 4
+    useCheckmark: false
     body: >-
       ## What To Know:
 
@@ -80,10 +85,11 @@ cards:
       * OPEC “stabilizes” oil markets by agreeing to certain production output;
       that supply impacts price.
 
-      * Pres. Trump wants OPEC to keep oil supply up, so prices stay down.
-      **OPEC may not agree**.
+      * Pres. Trump wants OPEC to keep oil supply up, so prices stay down.**OPEC
+      may not agree**.
     _key: card-5-1ff62be0-f22b-4415-88da-39c5b745a21b
   - order: 5
+    useCheckmark: false
     body: >-
       ## Connecting The Dots
 
@@ -100,6 +106,7 @@ cards:
       oil.
     _key: card-6-9191a624-94d1-41eb-8914-9baafb87a139
   - order: 6
+    useCheckmark: true
     body: >-
       The President began his UN speech speaking about the American economy,
       stating "America is governed by Americans. We reject the ideology of

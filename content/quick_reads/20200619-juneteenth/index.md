@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # June 19, 1865  
 
@@ -32,6 +33,7 @@ cards:
       Emancipation Proclamation.
     _key: f26086a00b72
   - order: 1
+    useCheckmark: false
     body: >-
       ## Historical Context
 
@@ -48,6 +50,7 @@ cards:
       * In 1861, the Civil War began.
     _key: 352de1c5d296
   - order: 2
+    useCheckmark: false
     body: >-
       ## Emancipation Proclamation
 
@@ -63,6 +66,7 @@ cards:
       * The 10 states weren’t under Union control, so it couldn’t be enforced.
     _key: 7a354ec7ccd5
   - order: 3
+    useCheckmark: false
     body: >-
       ## 13th Amendment
 
@@ -80,6 +84,7 @@ cards:
       13th Amendment until 2013.
     _key: 0b2b70645125
   - order: 4
+    useCheckmark: false
     body: >-
       ## June 19, 1865
 
@@ -95,6 +100,7 @@ cards:
       official end, also known as “Emancipation Day.”
     _key: 2a636aae8d3f
   - order: 5
+    useCheckmark: false
     body: >-
       > “The people of Texas are informed that, in accordance with a
       proclamation from the Executive of the United States, all slaves are free.
@@ -105,6 +111,7 @@ cards:
       Maj. Gen. Gordon Granger (June 19, 1865)
     _key: 319c2e9f1ad4
   - order: 6
+    useCheckmark: false
     body: >-
       ## From Texas & Beyond
 
@@ -122,6 +129,7 @@ cards:
       early.
     _key: 67bac7dc5f87
   - order: 7
+    useCheckmark: true
     body: >-
       Juneteenth has risen in national prominence this year amid a reignited
       conversation about race in America that has sparked both fervent civil

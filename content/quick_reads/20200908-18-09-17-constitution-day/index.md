@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       September 17, 1787:  
 
@@ -29,10 +30,11 @@ cards:
       **“WE THE PEOPLE”**
 
 
-      Our nation’s founding document is the **world’s longest surviving**
-      written charter of government.
+      Our nation’s founding document is the**world’s longest surviving** written
+      charter of government.
     _key: card-1-75e2f070-11e0-4b38-9b26-3555a3557ea4
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Constitutional Convention
 
@@ -47,20 +49,22 @@ cards:
       and divide power between the federal gov’t & states.
     _key: card-2-546647a6-b783-41e4-9818-43352fccbb18
   - order: 2
+    useCheckmark: false
     body: >-
       # DID YOU KNOW?
 
 
       * In 1933, the 21st Amendment repealed the 18th Amendment, and put an end
-      to Prohibition – **the ONLY amendment ever repealed in our nation’s
+      to Prohibition –**the ONLY amendment ever repealed in our nation’s
       history**.
 
-      * The Constitution’s first ten amendments are the **Bill of Rights**.
+      * The Constitution’s first ten amendments are the**Bill of Rights**.
 
-      * The Constitution has been **amended 27 times**, most recently in 1992
+      * The Constitution has been**amended 27 times**, most recently in 1992
       (re: lawmaker pay).
     _key: card-3-f49c1316-9b6a-4451-a69e-cbd67f6e9c84
   - order: 3
+    useCheckmark: false
     body: >-
       > “We the People of the United States, in Order to form a more perfect
       Union, establish Justice, insure domestic Tranquility, provide for the
@@ -73,6 +77,7 @@ cards:
       Preamble to the U.S. Constitution
     _key: card-4-6f3e59a6-2e3b-4ec0-9285-f8ae8fa91f27
   - order: 4
+    useCheckmark: true
     body: >-
       In June 1788, New Hampshire became the 9th of 13 states to ratify the
       Constitution. Our new Federal government came into existence in 1789.

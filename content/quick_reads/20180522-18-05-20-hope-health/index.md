@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # HOPE & HEALTH
 
@@ -28,6 +29,7 @@ cards:
       IS IT TRUE? FLIP
     _key: card-1-59d4f117-6d92-4e81-b8c1-dba154a1857d
   - order: 1
+    useCheckmark: false
     body: >-
       > “We find, indeed, that to be the case.’  
         
@@ -39,6 +41,7 @@ cards:
       FLIP: THE DETAILS
     _key: card-2-25e9f756-b5dd-489e-bef1-048ce925801f
   - order: 2
+    useCheckmark: false
     body: >-
       ## Study: Highlights
 
@@ -48,11 +51,12 @@ cards:
       from 1968-75).
 
 
-      Those with **less than a high school education** (especially white
-      Americans) suffered from **greater declines in optimism** over the years
+      Those with**less than a high school education** (especially white
+      Americans) suffered from**greater declines in optimism** over the years
       (and higher mortality rates).
     _key: card-3-8f2be8a7-d685-4f07-905f-bc73da4b3905
   - order: 3
+    useCheckmark: false
     body: >-
       Why?
 
@@ -67,6 +71,7 @@ cards:
       are more hopeful.
     _key: card-4-d0bdf5cb-24eb-459a-ad8a-51aa79851d0f
   - order: 4
+    useCheckmark: true
     body: >-
       Education may not *just* impact optimism, but also employment. The U.S.
       unemployment rate for those without a high school diploma is nearly 6%.

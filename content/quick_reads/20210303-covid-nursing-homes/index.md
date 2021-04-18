@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Protecting The Vulnerable
 
@@ -29,6 +30,7 @@ cards:
       What to Know & Why It Matters
     _key: bea1254c1e5b
   - order: 1
+    useCheckmark: false
     body: >-
       ## BIG PICTURE:
 
@@ -39,10 +41,11 @@ cards:
 
       * At least 20% of deaths have taken place in nursing homes & long-term
       care facilities. This doesn’t include people who lived/worked at the
-      facilities and died in hospitals. Overall: **An estimated 34% of U.S.
+      facilities and died in hospitals. Overall:**An estimated 34% of U.S.
       deaths are linked to these facilities.**
     _key: 0299a9e22439
   - order: 2
+    useCheckmark: false
     body: >-
       ## Feb 2020: First Nursing Home Outbreak
 
@@ -61,12 +64,13 @@ cards:
       in 2020.
     _key: d6788da45c7d
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
 
       * Older adults are not more susceptible to COVID, but they are more prone
-      to severe cases which may result in hospitalization or death. **At least
+      to severe cases which may result in hospitalization or death.**At least
       80% of U.S. COVID-19 deaths occurred in people age 65 or older.**
 
       * COVID is more likely to spread in congregate settings like nursing
@@ -74,6 +78,7 @@ cards:
       is more challenging.
     _key: 0de1126fcc9d
   - order: 4
+    useCheckmark: false
     body: >-
       ## CONTEXT
 
@@ -88,6 +93,7 @@ cards:
       further infections and deaths.
     _key: d72dae513b76
   - order: 5
+    useCheckmark: false
     body: >-
       ## Feb 2021: Latest Data
 
@@ -104,6 +110,7 @@ cards:
       since distribution began in December.
     _key: 901029fedbd0
   - order: 6
+    useCheckmark: true
     body: >-
       "The question is, are they going down because of the vaccine, or are they
       going down because we’re on the backside of the outbreak. … It’s a

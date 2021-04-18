@@ -20,9 +20,11 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: "Meghan Markle:  \nIn Her Own Words\n\n> **“It means that a wife is equal to her husband, a sister to her brother. Not better, not worsea\x14they are equal.”**  \n  \nMarkle, on what it meant to her when, at 11, her letter to Proctor & Gamble led them to change their ad from women all over America are fighting greasy pots and pans to people all over America are fighting greasy pots and pans."
     _key: card-1-b804524a-2809-4102-bd45-a2161802422f
   - order: 1
+    useCheckmark: false
     body: >-
       > **“To be a feminist, to be a lady, to be a president, to be a woman does
       not mean fighting against the stereotype of gender roles, but embracing
@@ -33,6 +35,7 @@ cards:
       not mutially exclusive.
     _key: card-2-585a4270-06d9-4be4-9cc1-43108370b7c3
   - order: 2
+    useCheckmark: false
     body: >-
       > **“While my mixed heritage may have created a grey area surrounding my
       self-identification, keeping me with a foot on both sides of the fence, I
@@ -43,6 +46,7 @@ cards:
       Markle, to Elle Magazine in 2015, on her biracial identity.
     _key: card-3-32fa49a7-7a0b-4485-ae28-3189589f2b85
   - order: 3
+    useCheckmark: false
     body: >-
       > **“If we just talk to ourselves the way we talk to our best friends….
       It’s like having the best cheerleader ever with you, which helps you get
@@ -56,6 +60,7 @@ cards:
       [Watch It Here](https://vimeo.com/189216026)
     _key: card-4-d686de23-03bf-43e8-9782-3db581c7fb5a
   - order: 4
+    useCheckmark: true
     body: >-
       Megan Markle's new title will reportedly be: Her Royal Highness the
       Duchess of Sussex. We'll await official confirmation and new words of

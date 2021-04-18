@@ -20,13 +20,14 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       TRAVEL BAN #3  
 
       Supreme Court Showdown
 
 
-      Today’s case marks **the FIRST time** the justices will rule on a **policy
+      Today’s case marks**the FIRST time** the justices will rule on a**policy
       issued by Pres. Trump**.
 
 
@@ -34,6 +35,7 @@ cards:
     citation: 'Flip: What''s At Stake'
     _key: card-1-ac0327b9-4d5b-4ef6-8791-04f93648aaa3
   - order: 1
+    useCheckmark: false
     body: >-
       # “The Ban”
 
@@ -42,18 +44,19 @@ cards:
       issued via Presidential Proclamation in September.
 
 
-      Proclamation **restricts travel into the U.S.** **by non-citizens from**
-      **6 predominantly Muslim countries** (Chad, Iran, Libya, Somalia, Syria,
-      Yemen) and **2 other countries** (North Korea & Venezuela).
+      Proclamation**restricts travel into the U.S.****by non-citizens from****6
+      predominantly Muslim countries** (Chad, Iran, Libya, Somalia, Syria,
+      Yemen) and**2 other countries** (North Korea & Venezuela).
     _key: card-2-ce5149f9-eb28-49c7-a94d-f78c03dc0c63
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why This Matters:
 
 
       **Big issue for the court is whether the banA is constitutional**A (as
       applied to the 6 predominately Muslim countries – not North Korea &
-      Venezuela) **specifically**:
+      Venezuela)**specifically**:
 
 
       * **Did the President exceed his authority over immigration by issuing the
@@ -62,6 +65,7 @@ cards:
       * **Is this discrimination?**
     _key: card-3-3ddab606-e19e-49e0-8150-c67116c59b62
   - order: 3
+    useCheckmark: false
     body: >-
       **Lawyers SUPPORTING the ban argue:**
 
@@ -76,6 +80,7 @@ cards:
     citation: 'Click here: Read Brief'
     _key: card-4-eee92413-0e30-408c-9b4e-df9934ef2b91
   - order: 4
+    useCheckmark: false
     body: >-
       **Lawyers OPPOSING the ban argue:A A**
 
@@ -91,6 +96,7 @@ cards:
     citation: 'Click here: Read Brief'
     _key: card-5-a0104606-e941-4518-9193-85e2851e19c8
   - order: 5
+    useCheckmark: true
     body: >-
       Although the Supreme Court won't issue its decision until late June, keep
       an ear out for the questions asked by the justices for an idea of how they

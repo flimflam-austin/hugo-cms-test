@@ -20,9 +20,11 @@ card_series: Now You Know
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: "## QUICK QUOTES\n\n“It is not my way to trumpet the fact that I am a woman up for the top job, but I would be remiss in not remarking on it a\x13 not least because of the outpouring of support from young women at CIA who consider it a good sign for their own prospects.”\n\n  \nGina Haspel last week before her confirmation THIS week as the first woman CIA Director in American history."
     _key: card-1-5b62c6f4-7807-42a1-8dbd-03933a073f72
   - order: 1
+    useCheckmark: false
     body: >-
       > **‘When we as people, a free people, go wobbly on the truth even on what
       may seem the most trivial matters, we go wobbly on America.’**  
@@ -36,6 +38,7 @@ cards:
       Speech](http://www.wbur.org/onpoint/2018/05/17/tillerson-vmi-commencement-speech)
     _key: card-2-2099df39-6735-455e-a4f8-df095eb6728c
   - order: 2
+    useCheckmark: false
     body: >-
       > **“YouTube in general is where most music is consumed. If there was ever
       a company that could build a successful subscription business, it would be
@@ -48,6 +51,7 @@ cards:
       version will cost $9.99 a month
     _key: card-3-c6f8dc5a-5eb4-40bd-9159-82af28901c63
   - order: 3
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-5-18-quick-quotes/)'
     _key: card-10-80410e74-ca1f-4d71-ad69-203a2e42ac7b
 

@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## June 23, 1904
 
@@ -31,6 +32,7 @@ cards:
       The ice cream cone.
     _key: 62325fea3bde
   - order: 1
+    useCheckmark: false
     body: >-
       ## Full Disclaimer
 
@@ -46,6 +48,7 @@ cards:
       appeared at the 1904 St. Louis Fair.
     _key: 240023f121cc
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Story Goes…
 
@@ -62,6 +65,7 @@ cards:
       Library of Congress
     _key: a3fe8a942cc3
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -72,6 +76,7 @@ cards:
       The International Dairy Foods Association
     _key: 137a01632525
   - order: 4
+    useCheckmark: true
     body: >-
       An Italian patented an ice cream cone concept in 1903 but it described
       "edible cups with handles." Charles and Frank Menches also claimed to have

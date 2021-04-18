@@ -19,6 +19,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “_In playing ball, and in life, a person occasionally gets the
       opportunity to do something great. When that time comes, only two things
@@ -27,6 +28,7 @@ cards:
     citation: HENRY 'HANK' AARON
     _key: 5493ea6798ae
   - order: 1
+    useCheckmark: true
     body: >-
       Known as one of the best baseball players ever to play the game, Aaron
       broke records and racial barriers in his 23-year career. Admired for his

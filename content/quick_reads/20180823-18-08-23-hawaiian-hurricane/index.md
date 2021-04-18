@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # COLLISION COURSE
 
@@ -33,6 +34,7 @@ cards:
       2018 hurricane season.
     _key: card-1-37145433-bed4-4555-b304-b835706a9bc5
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why So Rare?
 
@@ -46,11 +48,12 @@ cards:
       patterns tend to keep storms away.
     _key: card-2-c90dddde-6f10-47a5-af2e-40caaaf6d07e
   - order: 2
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
 
-      * Hawaii marked its anniversary as America’s 50th state **this week** on
+      * Hawaii marked its anniversary as America’s 50th state**this week** on
       Aug 21 (1959) – only state that’s all islands.
 
       * Since hurricanes rarely hit Hawaii, higher risk of significant damage:
@@ -61,6 +64,7 @@ cards:
       * Officials want citizens to have essential supplies for 14 days.
     _key: card-3-1376c723-af86-42e5-8e61-03c89123562a
   - order: 3
+    useCheckmark: false
     body: >-
       ## 2018 Hurricane Season
 
@@ -81,6 +85,7 @@ cards:
     citation: Hurricane vs. Cyclone
     _key: card-4-3cdf4766-ea4d-476a-aa9c-b2dc5b2cce76
   - order: 4
+    useCheckmark: false
     body: |-
       # What’s The Difference?
 
@@ -95,6 +100,7 @@ cards:
       [Read More: Click Here](https://oceanservice.noaa.gov/facts/cyclone.html)
     _key: card-5-08652322-90a4-4a61-bdee-3c5a6ae798ab
   - order: 5
+    useCheckmark: true
     body: >-
       NOAA forecasts suggest a "normal" hurricane season for the Atlantic (0-2
       major hurricanes). Want to see how rare it is for Hawaii to have a

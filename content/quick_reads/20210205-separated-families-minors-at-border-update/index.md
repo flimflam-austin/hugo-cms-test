@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       A development on one of the most hotly-debated policies of the recent
       past: family separation at the U.S. southern border.
@@ -32,12 +33,13 @@ cards:
       (and what it doesn’t).
     _key: 0a0f3177d6de
   - order: 1
+    useCheckmark: false
     body: >-
       ## Policy Background
 
 
-      * During parts of 2017 and 2018, the Trump admin. implemented a
-      **zero-tolerance policy**, requiring the arrest of every adult illegally
+      * During parts of 2017 and 2018, the Trump admin. implemented
+      a**zero-tolerance policy**, requiring the arrest of every adult illegally
       entering the U.S.
 
       * When an adult is arrested, they cannot have a minor detained alongside
@@ -48,6 +50,7 @@ cards:
       in the U.S. while awaiting legal proceedings.
     _key: 4414c5ad128f
   - order: 2
+    useCheckmark: false
     body: >-
       > “We’re going to work to undo the moral and national shame of the
       previous administration that literally, not figuratively, ripped children
@@ -59,6 +62,7 @@ cards:
       President Biden on creating a task force to reunite separated families.
     _key: 614cc8fb9388
   - order: 3
+    useCheckmark: false
     body: >-
       ## What To Know
 
@@ -74,6 +78,7 @@ cards:
       5,500) have yet to be reunited.
     _key: 30b3e3b51d35
   - order: 4
+    useCheckmark: false
     body: >-
       ## COVID Impact
 
@@ -87,6 +92,7 @@ cards:
       doesn’t necessarily mean they ***will*** continue).
     _key: 3bfab99ee497
   - order: 5
+    useCheckmark: false
     body: >-
       ## Big Picture
 
@@ -101,6 +107,7 @@ cards:
       consensus.
     _key: 65e04eddf380
   - order: 6
+    useCheckmark: true
     body: >-
       The new interagency task force focused on reuniting families is one of the
       many immigration policy overhauls expected from the Biden admin. The

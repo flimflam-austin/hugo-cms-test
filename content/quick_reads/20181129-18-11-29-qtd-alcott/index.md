@@ -20,10 +20,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: '> _“I am not afraid of storms for I am learning how to sail my ship.”_'
     citation: LOUISA MAY ALCOTT
     _key: card-1-a1d9d6b9-58ad-4ebe-8e8b-938a26fe45b7
   - order: 1
+    useCheckmark: true
     body: >-
       # OTD in 1832 the author of "Little Women" was born. The novel about four
       sisters during the 1860s, which she wrote at age 36, was an instant best

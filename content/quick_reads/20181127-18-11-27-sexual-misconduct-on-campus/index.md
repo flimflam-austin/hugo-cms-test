@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # NEW RULES ON CAMPUS?
 
@@ -34,6 +35,7 @@ cards:
       Why It Matters
     _key: card-1-6cf779f1-b41f-4d75-9565-2a8a45acb97b
   - order: 1
+    useCheckmark: false
     body: >-
       # BIG PICTURE
 
@@ -46,6 +48,7 @@ cards:
       rules would apply for K-12 & higher education.
     _key: card-2-d79fa226-4944-47fe-9b1d-f72088b2892b
   - order: 2
+    useCheckmark: false
     body: >-
       ## Proposed New Rules
 
@@ -55,15 +58,16 @@ cards:
       proposed rules, which:
 
 
-      * Require a higher **standard of proof** for evaluating accusations.
+      * Require a higher**standard of proof** for evaluating accusations.
 
-      * Allow accused students to **cross-examine** their accusers (using a
+      * Allow accused students to**cross-examine** their accusers (using a
       representative).
     _key: card-3-3676dc4d-549c-4414-8a20-9a12678d5d10
   - order: 3
+    useCheckmark: false
     body: >-
-      **More specific** (or **more narrow**, depending on your point of view)
-      **definition of sexual harassment**.
+      **More specific** (or**more narrow**, depending on your point of
+      view)**definition of sexual harassment**.
 
 
       * **OLD DEFINITION**: ‘unwelcome conduct of a sexual nature”
@@ -73,30 +77,32 @@ cards:
       to the school’s education program or activity.’
     _key: card-4-614219e6-f810-4a4d-afd3-9c19f00ab89e
   - order: 4
+    useCheckmark: false
     body: >-
       > “… my focus was, is, and always will be on ensuring that every student
-      can learn in a safe and nurturing environment. That starts with having
-      **clear policies and fair processes that every student can rely on.**
-      Every survivor of sexual violence must be taken seriously, and every
+      can learn in a safe and nurturing environment. That starts with
+      having**clear policies and fair processes that every student can rely
+      on.** Every survivor of sexual violence must be taken seriously, and every
       student accused of sexual misconduct must know that guilt is not
       predetermined.”  
         
       Sec. of Education Betsy DeVos
     _key: card-5-40547023-5e23-4718-8798-1223bf51653b
   - order: 5
+    useCheckmark: false
     body: >-
-      > "… something like **one in five women will be victims of sexual assault
+      > "… something like**one in five women will be victims of sexual assault
       on campuses,** and cases of false accusations are exceedingly rare. But
       when you hear folks in the current administration talk about issues of
-      sexual harassment or assault, what one hears from them is **the
-      implication that false accusations are a rampant problem and that is
-      false."**  
+      sexual harassment or assault, what one hears from them is**the implication
+      that false accusations are a rampant problem and that is false."**  
         
         
         
       Fmr. Sec. of Education John King. Jr
     _key: card-6-b9ab0eb2-342c-474d-913c-43bedfbca386
   - order: 6
+    useCheckmark: true
     body: >-
       Some ask whether or not sexual crimes in college should be handled by
       universities at all or instead, immediately turned over to law

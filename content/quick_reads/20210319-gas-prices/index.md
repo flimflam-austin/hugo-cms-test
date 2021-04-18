@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ##   
       PRICES AT THE PUMP
@@ -29,6 +30,7 @@ cards:
       & Why It Matters
     _key: 16fa27ee323f
   - order: 1
+    useCheckmark: false
     body: >-
       ## What To Know:
 
@@ -37,7 +39,7 @@ cards:
       cents.
 
       * As of the date of this publishing (March 18th) the national average is
-      up **78 cents since Thanksgiving**, according to AAA.
+      up**78 cents since Thanksgiving**, according to AAA.
 
       * Gas prices have increased since Thanksgiving but have consistently risen
       for the last 10 weeks.
@@ -46,6 +48,7 @@ cards:
       different states tax gasoline sales.
     _key: 126c123d9599
   - order: 2
+    useCheckmark: false
     body: >-
       > “As Americans turn optimistic on COVID-19 recovery, we’ve been seeing
       insatiable demand for gasoline, which continues to recover far faster than
@@ -58,6 +61,7 @@ cards:
       Lower supply + higher demand = higher prices.
     _key: b8504f768875
   - order: 3
+    useCheckmark: false
     body: >-
       ## Something to Consider:
 
@@ -75,6 +79,7 @@ cards:
       volatile, higher-priced fuel in spring/summer due to EPA regs.
     _key: b894c5b8a6e2
   - order: 4
+    useCheckmark: false
     body: >-
       ## One More Thing:
 
@@ -88,6 +93,7 @@ cards:
       other petroleum byproducts.
     _key: 8b8f2c93ebe6
   - order: 5
+    useCheckmark: true
     body: >-
       Bottom Line: If you're paying more for gas, that means less money for
       other items. Higher gas prices, creeping up right as Americans are

@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # National Vietnam Veterans Day
 
@@ -27,15 +28,15 @@ cards:
       **Today marks 45 since the last American troops left Vietnam.**
 
 
-      Est. **7M Vietnam-era veterans** live in America today, as Veterans
-      Affairs Dept. shake-up happens 24 hours before ceremony at Vietnam War
-      Memorial.
+      Est.**7M Vietnam-era veterans** live in America today, as Veterans Affairs
+      Dept. shake-up happens 24 hours before ceremony at Vietnam War Memorial.
 
 
       Flip For Context
     citation: Flip For Context
     _key: card-1-67dcfa25-e1e2-4cee-acf8-85e8a28e5eb9
   - order: 1
+    useCheckmark: false
     body: >-
       > ‘We are not about to send American boys nine or ten thousand miles away
       from home to do what Asian boys ought to be doing for themselves.’  
@@ -47,6 +48,7 @@ cards:
       American troops into combat.
     _key: card-2-57985cdb-2ac7-470d-ab4e-f35d23f23a2a
   - order: 2
+    useCheckmark: false
     body: |-
       ## Vietnam: By The Numbers
 
@@ -61,6 +63,7 @@ cards:
       *****Despite draft, 70% of those who served volunteered*****
     _key: card-3-0153d039-b913-431f-a0f7-f25a207beac3
   - order: 3
+    useCheckmark: false
     body: >-
       ## Veterans Affairs Shake-Up
 
@@ -76,6 +79,7 @@ cards:
     citation: Flip For Replacement
     _key: card-4-3671414f-de36-4821-8482-c777696b01fa
   - order: 4
+    useCheckmark: true
     body: >-
       White House physician, Navy Rear Adm. Ronny L. Jackson, is expected
       replacement as VA Secretary. He gave President Trump his most recent

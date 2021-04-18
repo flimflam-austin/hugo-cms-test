@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Predicting Your Perfect Cup Of Coffee
 
@@ -31,6 +32,7 @@ cards:
       Flip - How?
     _key: card-1-7e7f2e9e-b1e8-4a6e-8b75-d0a5315e0a5f
   - order: 1
+    useCheckmark: false
     body: >-
       # Why Study This?
 
@@ -51,6 +53,7 @@ cards:
       How It Works
     _key: card-2-07c8daca-e7e4-448a-a5d8-cc37ba96397c
   - order: 2
+    useCheckmark: false
     body: >-
       ## How Does It Work?
 
@@ -64,6 +67,7 @@ cards:
       ironically reduced their caffeine consumption by more than 60%.
     _key: card-3-42698632-a78b-4766-a6f7-8c4a33f035ba
   - order: 3
+    useCheckmark: false
     body: >-
       ## Cappucino?
 
@@ -73,12 +77,13 @@ cards:
 
       * Coffee drinkers consume nearly 3 cups on avg. every day.
 
-      * Women drink _slightly_ more coffee than men.
+      * Women drink_slightly_ more coffee than men.
 
       * Previous Research: 500 mg of caffeine (2 cups of coffee) or lower = best
       health benefits.
     _key: card-4-bea8fc6b-d1c6-45a1-b68d-ecd4779fbc9b
   - order: 4
+    useCheckmark: true
     body: >-
       This study mentions sleep loss as a problem for performance for both
       civilians and the military. One of the head researchers works for the

@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “_With the campaign over, it’s time to put the anger and the harsh
       rhetoric behind us and come together as a nation. It’s time for America to
@@ -28,6 +29,7 @@ cards:
     citation: JOSEPH R. BIDEN
     _key: ff31674c94c1
   - order: 1
+    useCheckmark: true
     body: >-
       In response to reports by news outlets that Pres. Trump lost the election,
       the President said "The simple fact is this election is far from over.

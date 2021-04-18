@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Fight For Freedom
 
@@ -31,6 +32,7 @@ cards:
       Why It Matters
     _key: 0afb64d09272
   - order: 1
+    useCheckmark: false
     body: >-
       ## Background: The Basics
 
@@ -40,7 +42,7 @@ cards:
       * After gaining independence from Britain in 1948, military rule has
       continued in varying degrees.
 
-      * Site of the **world’s longest civil war** as military has battled ethnic
+      * Site of the**world’s longest civil war** as military has battled ethnic
       minorities.
 
       * A move toward democracy with open elections was fleeting. After the
@@ -48,6 +50,7 @@ cards:
       seized power, claiming election fraud.
     _key: a18c508c2128
   - order: 2
+    useCheckmark: false
     body: >-
       > “The world is upside down in Myanmar. We must fight until we win. The
       regime must step down. There is no place for any dictator here in
@@ -61,6 +64,7 @@ cards:
       weekend – reportedly the deadliest exchange to date.
     _key: e3e1f762869b
   - order: 3
+    useCheckmark: false
     body: >-
       > “We have continued to consistently inquire about her health and safety,
       as well as the health and safety of all detained leaders and civil society
@@ -74,12 +78,13 @@ cards:
       condition and whereabouts are unknown.
     _key: 36ccbb0d11c0
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why This Matters
 
 
       Myanmar’s move toward democracy (even with a military role in govt.) was
-      seen as a move toward the West and a free, open society – a _“strategic
+      seen as a move toward the West and a free, open society – a_“strategic
       victory for Washington in China’s backyard.”_ (The Wall Street Journal)
 
 
@@ -87,6 +92,7 @@ cards:
       and violence, *and* further alignment with China.
     _key: bd8b67209f48
   - order: 5
+    useCheckmark: true
     body: >-
       The U.S. has issued sanctions on the regime, as well as an emergency order
       allowing Myanmar citizens to stay in the U.S. for up to 18 months instead

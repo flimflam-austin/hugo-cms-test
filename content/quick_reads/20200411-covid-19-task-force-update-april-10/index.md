@@ -20,6 +20,7 @@ card_series: what to know
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # White House  
       COVID-19 Task Force
@@ -27,6 +28,7 @@ cards:
       WHAT WE LEARNED TODAY
     _key: c183f0fb086c
   - order: 1
+    useCheckmark: false
     body: >-
       > “It’s really about the encouraging signs that we see, but as encouraging
       as they are, we have not reached the peak.”
@@ -40,6 +42,7 @@ cards:
       to be pulling back at all," said Dr. Fauci.
     _key: 860a3f5ba535
   - order: 2
+    useCheckmark: false
     body: >-
       > “We do not think people of color are biologically or genetically
       predisposed to get COVID-19… but they are socially predisposed…”
@@ -52,6 +55,7 @@ cards:
       conditions (ex: asthma) that make them more susceptible to severe cases.
     _key: 0056fb1d1935
   - order: 3
+    useCheckmark: false
     body: >-
       > “I’m going to have to make a decision and I only hope to God that it’s
       the right decision… without question it’s the biggest decision I’ve ever
@@ -64,6 +68,7 @@ cards:
       said it could, but that "staying at home leads to death also."
     _key: 90ccdfe8390b
   - order: 4
+    useCheckmark: true
     body: >-
       Dr. Birx said that we're in unprecedented territory because we've never
       taken a countrywide approach to mitigation, but that there's several

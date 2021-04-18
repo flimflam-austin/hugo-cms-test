@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“I refuse to accept the view that mankind is so tragically bound to the
       starless midnight of racism and war that the bright daybreak of peace and
@@ -27,6 +28,7 @@ cards:
     citation: MARTIN LUTHER KING JR.
     _key: c7588748ccb2
   - order: 1
+    useCheckmark: true
     body: >-
       91 years ago today, in 1929, Martin Luther King Jr. was born. King
       surfaced as a civil rights leader during the 1955 Montgomery Bus Boycott

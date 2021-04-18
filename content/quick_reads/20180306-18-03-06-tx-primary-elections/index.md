@@ -16,6 +16,7 @@ card_series: Current Events
 colorpaletteclassname: '--bronze'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # First Primary Contests of 2018
 
@@ -24,6 +25,7 @@ cards:
       TAP HERE FOR MORE
     _key: card-1-2d9eaf28-13b8-46c8-b3ef-657a9431f94c
   - order: 1
+    useCheckmark: false
     body: >-
       ## TX Early Voters Broke Records This Year
 
@@ -37,6 +39,7 @@ cards:
       midterm primary elections.
     _key: card-2-91074691-6bd2-430d-9963-d506174947a6
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Texas Matters:
 
@@ -48,10 +51,11 @@ cards:
       In 2017, Texas gained just about 400,000 residents.
 
 
-      **More Texans *MEANS*** **More Electoral Votes**
+      **More Texans *MEANS*****More Electoral Votes**
     citation: Why This Matters
     _key: card-3-edfb0824-d633-4d42-82e8-9a8e6535924f
   - order: 3
+    useCheckmark: false
     body: >-
       ## As the population of Texas grows, so does its sway over presidential
       elections
@@ -65,6 +69,7 @@ cards:
       (20) New York (29) Ohio (18)
     _key: card-4-22ffdde7-ff71-45e8-bdcd-67d1f7311678
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-03-06-tx-primary-elections/)'
     _key: card-10-b05a6198-91cc-47dc-b8e9-c3ca044de1fe
 

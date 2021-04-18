@@ -20,10 +20,12 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: "## Russia Probe Recap\n\nAccording to reports, Robert Mueller’sA Special Counsel team considers President Trump to be a subject a\x14 not a criminal targeta\x14 in the Russian election interference investigation.\n\nHere's what it means & what it doesn't"
     citation: Here's what it means &amp; what it doesn't
     _key: card-1-be6deb5f-80b8-4081-b742-c8e9c4b1bd7a
   - order: 1
+    useCheckmark: false
     body: >-
       ## By the Numbers Update
 
@@ -39,6 +41,7 @@ cards:
       sentence)
     _key: card-2-6df3bb27-4ea4-4e44-943c-acb039fa5e6c
   - order: 2
+    useCheckmark: false
     body: >-
       ## BOTTOM LINE:
 
@@ -51,9 +54,10 @@ cards:
 
       * Mueller wants to interview Trump.
 
-      * The investigation is **ongoing** and changes day to day.
+      * The investigation is**ongoing** and changes day to day.
     _key: card-3-8f38a1e2-2146-4209-9470-c790161b56be
   - order: 3
+    useCheckmark: true
     body: >-
       After the latest sanctions against Russia were announced on Friday, White
       House Press Sec. Sarah Sanders told reporters: as the President has said,

@@ -20,12 +20,14 @@ card_series: Now You Know
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # How Hurricane Laura Got Her Name
 
       … And why she may be the last “Hurricane Laura” in our history.
     _key: 774487c53194
   - order: 1
+    useCheckmark: false
     body: >-
       ## HURRICANES 101
 
@@ -38,25 +40,27 @@ cards:
       the center of it blows water to the surface.
 
       * Although a hurricane’s strength (category) is measured by its wind
-      speed, it’s rising water levels that lead to dangerous **storm surges** &
+      speed, it’s rising water levels that lead to dangerous**storm surges** &
       flooding.
     _key: b162959d434b
   - order: 2
+    useCheckmark: false
     body: >-
       ## BACKGROUND
 
 
       * Scientists began giving hurricanes names (vs. scientific terms or
-      numbers) to make it easier for people to **recall, pronounce,** and
-      **communicate** with others about it without confusion.
+      numbers) to make it easier for people to**recall, pronounce,**
+      and**communicate** with others about it without confusion.
 
-      * Traditionally, hurricanes were named after **saints**.
+      * Traditionally, hurricanes were named after**saints**.
 
-      * In the 1900s hurricanes were mostly **female-sounding** names – a
-      tradition without an origin. The U.S. began using both **male & female**
+      * In the 1900s hurricanes were mostly**female-sounding** names – a
+      tradition without an origin. The U.S. began using both**male & female**
       names in 1979.
     _key: bd7f5b85cb15
   - order: 3
+    useCheckmark: false
     body: >-
       ## TODAY
 
@@ -64,16 +68,16 @@ cards:
       * Hurricanes are named by the World Meteorological Organization.
 
       * There are six lists of 21 names for Atlantic hurricanes that are reused
-      on a **six-year rotation**, i.e., the 2020 list will be used again in
-      2026.
+      on a**six-year rotation**, i.e., the 2020 list will be used again in 2026.
 
       * The lists alternate between traditional male & female names starting
-      with “A” incl. every letter **except** Q, U, X, Y & Z.
+      with “A” incl. every letter**except** Q, U, X, Y & Z.
 
       * **Greek alphabet** (ex: Alpha, Beta) is used if more than 21 hurricanes
       in a year.
     _key: 31105a4cc9cf
   - order: 4
+    useCheckmark: false
     body: >-
       ## DID YOU KNOW?
 
@@ -89,6 +93,7 @@ cards:
       damages” incl. widespread power outages and destruction of homes.
     _key: 6220a74fd625
   - order: 5
+    useCheckmark: true
     body: >-
       Hurricane Laura made landfall early Thursday AM in southwestern Louisiana
       as a Cat 4. It is now a Cat 2 as it moves through the state. It is

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # TERROR ON THE SEA
 
@@ -33,6 +34,7 @@ cards:
       **PIRATES**.
     _key: card-1-8c7ed393-8f55-4305-b55a-69d7076fa2e8
   - order: 1
+    useCheckmark: false
     body: >-
       ## What We Know:
 
@@ -47,6 +49,7 @@ cards:
       * **How Much:A** $1M in stolen belongings in 2017.
     _key: card-2-457d6688-0f07-47ba-acec-51fd4b96f352
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Backstory:
 
@@ -62,6 +65,7 @@ cards:
       WaPo reports: pirates are often directly involved w/corrupt officials.
     _key: card-3-25ba6ed6-2b38-4e9f-8ff3-c385b5af965f
   - order: 3
+    useCheckmark: false
     body: >-
       > ‘This reminds me of how the problems started off the coast of eastern
       Africa.”  
@@ -74,21 +78,23 @@ cards:
       1990s.
     _key: card-4-8526d1e5-07cf-4fb5-a0f9-20ace5f3c5d1
   - order: 4
+    useCheckmark: false
     body: >-
       Perspective:  
 
       “I’m The Captain Now”
 
 
-      While **piracy in East Africa **bags a larger booty ($1.4B in 2017) vs.
-      Caribbean, **attacks there are on the decline** – both in incidents
+      While**piracy in East Africa**bags a larger booty ($1.4B in 2017) vs.
+      Caribbean,**attacks there are on the decline** – both in incidents
       reported & amount stolen.
 
 
-      In 2017, there wereA **54 attacks in E. Africa** while attacks in theA
-      **Caribbean jumped to 71.**
+      In 2017, there wereA**54 attacks in E. Africa** while attacks in
+      theA**Caribbean jumped to 71.**
     _key: card-5-bf474508-25cb-478c-a52d-138fc6a036c9
   - order: 5
+    useCheckmark: true
     body: >-
       Pirates are a new fear for those who make their living in the Caribbean.
       Locals are waiting until dark or fishing closer to shore to avoid attacks.

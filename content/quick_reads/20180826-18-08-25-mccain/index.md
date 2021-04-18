@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _"I was finding that prayer helped…When the pressure was on, you seemed
       to go one way or the other. Either it was easier for them to break you the
@@ -28,6 +29,7 @@ cards:
     citation: John McCain
     _key: card-1-de51d879-4e89-4f1b-84f2-356d1008dbb2
   - order: 1
+    useCheckmark: true
     body: >-
       The former P.O.W. & 6-term AZ Senator (R) has stopped treatment for an
       aggressive brain cancer. In his 30+ years in Congress, he earned a

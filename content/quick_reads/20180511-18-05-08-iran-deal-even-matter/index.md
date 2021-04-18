@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “IRAN DEAL”
 
@@ -28,7 +29,7 @@ cards:
 
 
       The debate on the so-called “Iran Deal” often divides into two camps:
-      those who believe it will add to **world peace** and those who don’t.
+      those who believe it will add to**world peace** and those who don’t.
 
 
       Here’s what you should consider…
@@ -37,29 +38,31 @@ cards:
       Flip For More
     _key: card-1-2908e42b-6f2e-41f1-84bb-e1466a3d94b5
   - order: 1
+    useCheckmark: false
     body: >-
       ## Basics Of “The Deal”:
 
 
       **Who**: Iran & U.S., Russia, France, U.K., China & Germany.  
 
-      **What**:A _“IranA reaffirms that under no circumstances will Iran ever
+      **What**:A_“IranA reaffirms that under no circumstances will Iran ever
       seek, develop or acquire anyA nuclear weapons.” Preface,A JCPOA._  
 
       **When**: 2015. 2 yr-long negotiation.  
 
-      **How**: International Atomic Energy Agency (U.N. watchdog) says Iran
-      **complying** w/deal; Israel says found evidence Iran already
-      **cheating**.
+      **How**: International Atomic Energy Agency (U.N. watchdog) says
+      Iran**complying** w/deal; Israel says found evidence Iran
+      already**cheating**.
     _key: card-2-5539229e-6f30-4dba-a0c6-8c26f82e9acd
   - order: 2
+    useCheckmark: false
     body: >-
       ## What About Terrorism?
 
 
-      * Iran = labeled by U.S. as a **state sponsor of terror since 1984**.
+      * Iran = labeled by U.S. as a**state sponsor of terror since 1984**.
 
-      * Pres. Trump led remarks: “_The Iranian regime is the **leading state
+      * Pres. Trump led remarks: “_The Iranian regime is the**leading state
       sponsor of terror**._“
 
       * Obama admin negotiated deal SOLELY on nuclear issue, relying on
@@ -67,6 +70,7 @@ cards:
       admin thinks this was a mistake.
     _key: card-3-ea1d2ad4-c052-4913-9c32-01a7b0f5a652
   - order: 3
+    useCheckmark: false
     body: >-
       ## Meanwhile, Inside Iran…
 
@@ -82,6 +86,7 @@ cards:
       New York Times
     _key: card-4-9a94e5e7-59ba-48cb-8235-eeab1b6cdd89
   - order: 4
+    useCheckmark: false
     body: >-
       ## What Now?
 
@@ -89,13 +94,14 @@ cards:
       * **Sanctions snap back on Iran NOW**; established contracts can unwind
       over several months.
 
-      * Iran says open to negotiating with “E3” – U.K. France & Ger. **Watch oil
+      * Iran says open to negotiating with “E3” – U.K. France & Ger.**Watch oil
       prices if this falls apart.**
 
-      * Nat. Security Advisor John Bolton says Prez’ decision **will impact
+      * Nat. Security Advisor John Bolton says Prez’ decision**will impact
       upcoming negotiations w/ North Korea** & getting a “real deal”.
     _key: card-5-d5abb65d-1c71-4ba7-876a-d5ee2c8f4575
   - order: 5
+    useCheckmark: true
     body: >-
       Here's the opinion of an American man formerly held prisoner by the
       Islamic Republic of Iran, where 5 Americans remain behind bars:

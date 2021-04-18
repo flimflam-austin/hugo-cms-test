@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _‘Find the best things about you and the best things about life and
       celebrate them.’_
     citation: Michael J. Fox
     _key: card-1-780b722b-694a-40d6-9851-51e9c699ee82
   - order: 1
+    useCheckmark: true
     body: >-
       Fox and his wife, Tracy Pollan, sat down with PEOPLE to discuss their
       30-year marriage. On the secret to their success, Pollan said ‘Just give

@@ -20,9 +20,11 @@ card_series: Quotes
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: "> “I feel like I had a lot of luck along the way, and a lot of help. Help from my friends, my family, the community a\x14 from some higher power, I don’t know.’  \n  \n  \n  \nBryce Carlson (37) on his 38-day, 6-hour & 49 minute solo row across the Atlantic Ocean. The high school science teacher is the first American to complete the 2,000-mile feat, according to the Ocean Rowing Society."
     _key: card-1-cddc419c-d9e3-44d9-9385-1d789d855b13
   - order: 1
+    useCheckmark: false
     body: >-
       > “Fire season is really just beginning.”  
         
@@ -35,6 +37,7 @@ cards:
       the same time period.
     _key: card-2-c688444b-93af-4e1b-8af9-c363275c1d2e
   - order: 2
+    useCheckmark: false
     body: >-
       > ‘It just felt like my mouth was burning.”  
         
@@ -47,9 +50,11 @@ cards:
       it has happened.
     _key: card-3-27c6ea81-37c7-432f-b896-75d807b17fb2
   - order: 3
+    useCheckmark: false
     body: "> ‘Even when we were little girls I can remember being in kindergarten, knowing that that is what we saw for ourselves.’  \n  \n  \n  \nBriana Dean to PEOPLE. Briana and her identical twin sister, Brittany (32), married identical twin brothers, Josh & Jeremy Salyers (34), in a joint ceremony at the 2018 Twins Days Festival in Twinsburg, OHa\x14 where they met in 2017. The two newlywed couples plan on raising their families together."
     _key: card-4-0154d2be-160e-4156-ac76-60c6afcab6ad
   - order: 4
+    useCheckmark: false
     body: >-
       > “I want to thank God for keeping me alive and well…. The love you have
       all shown me will never be forgotten and I look forward to the day where I
@@ -61,6 +66,7 @@ cards:
       overdose.
     _key: card-5-35c6c501-d550-44a4-9727-1409c4524467
   - order: 5
+    useCheckmark: true
     body: |-
       Have a fabulous week!
 

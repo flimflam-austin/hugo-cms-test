@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## MYSTERY SOLVED?
 
@@ -29,6 +30,7 @@ cards:
       (and why this revelation may help others take flight)
     _key: fa668170a594
   - order: 1
+    useCheckmark: false
     body: >-
       ## Background
 
@@ -44,6 +46,7 @@ cards:
       creating a “pocket shape” (try it with your hands).
     _key: b98b472d3072
   - order: 2
+    useCheckmark: false
     body: >-
       > “It is an elegant mechanism that is far more advanced than we imagined,
       and it is fascinating … The shape and flexibility of butterfly wings could
@@ -55,6 +58,7 @@ cards:
       pocket they use to quickly and efficiently lift off and fly away.
     _key: a203aca78553
   - order: 3
+    useCheckmark: true
     body: >-
       Researchers also built mechanical wings and discovered that flexible wings
       (like the ones butterflies have) are more efficient than rigid ones. The

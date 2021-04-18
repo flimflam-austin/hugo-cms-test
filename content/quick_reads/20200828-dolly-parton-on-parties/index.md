@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## _  
       “They need to think more about the people instead of about the party.”_
@@ -28,6 +29,7 @@ cards:
     citation: DOLLY PARTON
     _key: 0a54b44de882
   - order: 1
+    useCheckmark: true
     body: >-
       Parton in a wide-ranging interview on faith, politics and resilience, plus
       what her daddy paid the doctor who delivered her (hint: not money). If you

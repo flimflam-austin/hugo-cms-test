@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“I think the question of faith here is what is God going to use out of
       this pandemic, out of this virus, out of these uncertain times, to allow
@@ -28,6 +29,7 @@ cards:
     citation: PATRICK THOMPSON
     _key: 6322d73f6b23
   - order: 1
+    useCheckmark: true
     body: >-
       Pastor Patrick Thompson recovered recently from COVID-19 and during his
       illness help create a relief effort in Queens, the hardest hit area of New

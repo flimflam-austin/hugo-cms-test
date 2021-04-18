@@ -20,6 +20,7 @@ card_series: Politics
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## THE ELECTORAL COLLEGE
 
@@ -29,6 +30,7 @@ cards:
       a president.
     _key: d7c744a68b14
   - order: 1
+    useCheckmark: false
     body: >-
       ## How It Works:
 
@@ -39,14 +41,16 @@ cards:
       * Electoral College members pledge to vote for the candidates that win the
       popular vote in your state.
 
-      * The Electoral College has 538 electors. It takes **270 to win the
+      * The Electoral College has 538 electors. It takes**270 to win the
       presidency**. If there’s a tie, the House of Representatives decides
       winner.
     _key: 29c9485aa81b
   - order: 2
-    body: "## Origins & Evolution\n\n* Deciding how America would vote for pres. & vice pres. was tough for the U.S. founders who considered many options – some wanted Congress to decide, some wanted a popular vote. The **compromise**:\_the Electoral College at the 1787 Constitutional Convention.\n* The **only** constitutional requirement – electors can’t serve in federal gov’t.\n* **Did You Know?** Until 1804, electors only voted for pres. and runner-up got VP."
+    useCheckmark: false
+    body: "## Origins & Evolution\n\n* Deciding how America would vote for pres. & vice pres. was tough for the U.S. founders who considered many options – some wanted Congress to decide, some wanted a popular vote. The**compromise**:\_the Electoral College at the 1787 Constitutional Convention.\n* The**only** constitutional requirement – electors can’t serve in federal gov’t.\n* **Did You Know?** Until 1804, electors only voted for pres. and runner-up got VP."
     _key: 31809afa55d9
   - order: 3
+    useCheckmark: false
     body: >-
       ## Electoral College Today
 
@@ -58,10 +62,11 @@ cards:
       * State laws govern who can serve and state political parties nominate
       electors.
 
-      * In most states, electors make a **pledge** that they’ll vote for the
+      * In most states, electors make a**pledge** that they’ll vote for the
       presidential candidate who wins the popular vote in their state.
     _key: b551d9dce0af
   - order: 4
+    useCheckmark: false
     body: >-
       ## This Week’s Case
 
@@ -77,6 +82,7 @@ cards:
       popular vote of their state during the 2016 election.
     _key: 5fc2bd971bbb
   - order: 5
+    useCheckmark: false
     body: >-
       > “The Constitution’s text and the Nation’s history both support allowing
       a State to enforce an elector’s pledge to support his party’s nominee—and
@@ -90,6 +96,7 @@ cards:
       election.
     _key: fd77c0ee7f00
   - order: 6
+    useCheckmark: true
     body: >-
       Alexander Hamilton wrote that the Electoral College was not perfect, but
       "excellent." Many disagreed then & many still do. A Supreme Court ruling

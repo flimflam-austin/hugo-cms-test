@@ -20,6 +20,7 @@ card_series: Politics
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # State of the  
       Union Address
@@ -27,6 +28,7 @@ cards:
       3 Quick Facts About Today’s Annual Speech By The President
     _key: 9743360820b6
   - order: 1
+    useCheckmark: false
     body: >-
       ## WHY IT HAPPENS:
 
@@ -40,6 +42,7 @@ cards:
       how or when or where "He" must do so.
     _key: 0a1a76f77d92
   - order: 2
+    useCheckmark: false
     body: >-
       ## EVOLUTION:
 
@@ -55,6 +58,7 @@ cards:
       State of the Union ever since.
     _key: ba5b8085896e
   - order: 3
+    useCheckmark: false
     body: >-
       ## WHO ATTENDS:
 
@@ -70,6 +74,7 @@ cards:
       location during the address in case a disaster strikes).
     _key: e78893049d47
   - order: 4
+    useCheckmark: true
     body: >-
       THE NEXT DAY ... Less than 24 hours after Pres. Trump will deliver his
       third State of the Union address on the House floor, Congress' other

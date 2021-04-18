@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       “Self-made means having succeeded in life unaided.  
         
@@ -33,6 +34,7 @@ cards:
       up 18,628 percent Wednesday when cover story broke.
     _key: card-1-54f02c4f-72d2-46e1-8f30-d6c9efa3e410
   - order: 1
+    useCheckmark: false
     body: >-
       > “I wouldn’t call it a mystery, but I would say that it’s a bit of a
       puzzle…”  
@@ -44,6 +46,7 @@ cards:
       up faster, considering workers are more in demand.
     _key: card-2-458420ee-142b-4a5b-8885-e5ca48ba0217
   - order: 2
+    useCheckmark: false
     body: >-
       "Let me be clear, unequivocally and under oath: not once in my 26 years of
       defending my nation did my personal opinions impact any official action I
@@ -57,6 +60,7 @@ cards:
       would stop from assuming office.
     _key: card-3-20fae5af-5138-4b25-8da7-fb9daad7fb8c
   - order: 3
+    useCheckmark: false
     body: >-
       "He was sort of the guy that would argue both sides. I don’t think he sees
       himself as an ideologue in any way. I think he sees himself as someone who
@@ -68,6 +72,7 @@ cards:
       Kavanaugh was a bland eater & has limited dance moves.
     _key: card-4-aa6dd269-0143-4166-86f8-6655e26a3a24
   - order: 4
+    useCheckmark: true
     body: |-
       Cheers! TGIF
 

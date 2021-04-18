@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # GET UP & GO!
 
@@ -37,6 +38,7 @@ cards:
       CA music festival, her widely acclaimed performance, inspired #Beychella
     _key: card-1-e78bafa3-d1eb-499a-b355-9a51cb945d65
   - order: 1
+    useCheckmark: false
     body: >-
       > “I wanted a woman president really badly. And I had supported Hillary
       Clinton and a lot of my friends worked for her. I was devastated when she
@@ -49,6 +51,7 @@ cards:
       with his thoughts on President Trump, is released Tuesday, April 17th.
     _key: card-2-308e0cb7-b48f-4227-bcc2-60fb9960d788
   - order: 2
+    useCheckmark: false
     body: >-
       > “…the notion that ‘I’ve got to fly first class because I don’t want
       people to be mean to me’…you need to go into another line of work if you
@@ -61,6 +64,7 @@ cards:
       EPA Dir. Scott Pruitt overspent taxpayer funds.
     _key: card-3-e7ecf829-d5fb-4546-ad6b-0c061cd2a5a8
   - order: 3
+    useCheckmark: true
     body: >-
       See background to these quotes on our source page. Hear or read any quotes
       other SmartHER readers might like? Hit us up! Info@SmartHerNews.com.

@@ -20,17 +20,19 @@ card_series: On This Day
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # The Guinness Book of World Records Debuts
 
 
-      Believe it or not, the **famous “Book of World Records”** actually has a
-      connection to the **world famous Guinness beer.**
+      Believe it or not, the**famous “Book of World Records”** actually has a
+      connection to the**world famous Guinness beer.**
 
 
       How So?
     _key: card-1-f013844a-a8be-41f6-b353-e71d4c7cce1e
   - order: 1
+    useCheckmark: false
     body: >-
       ## Hunting History
 
@@ -48,6 +50,7 @@ cards:
       Then what?
     _key: card-2-68452cec-ef9f-4ad9-83fb-a3031ea1d159
   - order: 2
+    useCheckmark: false
     body: >-
       ## BELLY UP
 
@@ -57,11 +60,12 @@ cards:
       * Enlisted the help of twin brothers (the McWhirters) who ran a
       fact-finding agency in England in 1954.
 
-      * In 1955, they distributed the first Guinness Book of Records **for free
-      — in pubs**A as a form of publicity to settle friendly debates over a few
-      brewskies. **It was an instant success.**
+      * In 1955, they distributed the first Guinness Book of Records**for free —
+      in pubs**A as a form of publicity to settle friendly debates over a few
+      brewskies.**It was an instant success.**
     _key: card-3-588d14d4-d1a2-4106-9e37-794e43fd354d
   - order: 3
+    useCheckmark: false
     body: >-
       ## Most Recent Records:
 
@@ -76,6 +80,7 @@ cards:
       of our rules have been followed.”_
     _key: card-4-2363f536-b080-4260-9fe1-c0dbfd5b3c55
   - order: 4
+    useCheckmark: true
     body: >-
       The twin brothers who help found the Guinness Record Book set a standard -
       often traveling independently to verify records. They both served in WWII

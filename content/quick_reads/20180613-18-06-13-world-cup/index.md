@@ -20,6 +20,7 @@ card_series: Sports
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # WORLD CUP 2018
 
@@ -34,11 +35,12 @@ cards:
       FLIP: Gooooooooal!
     _key: card-1-2a9983a4-88e5-4a58-bb5d-a093632398ed
   - order: 1
+    useCheckmark: false
     body: >-
       ## WHAT TO KNOW:
 
 
-      * With 64 matches to play, **World Cup lasts a month**A until July 15th.
+      * With 64 matches to play,**World Cup lasts a month**A until July 15th.
 
       * **First time ever held in Russia.**
 
@@ -46,17 +48,18 @@ cards:
 
       * Underdogs Egypt, Peru & Senegal made cut for the 1st time in years.
 
-      * Soccer superstars Argentina’s **Lionel Messi** & Portugal’s **Cristiano
+      * Soccer superstars Argentina’s**Lionel Messi** & Portugal’s**Cristiano
       Ronaldo have never won a World Cup.**
     _key: card-2-70383333-4c20-4179-ba22-eecfa031af73
   - order: 2
+    useCheckmark: false
     body: >-
       HOW TO CHEER:  
 
       “Spoons of Victory”
 
 
-      Yes, that’s right. **_Spoons_ are the World Cup’s official instrument**.
+      Yes, that’s right.**_Spoons_ are the World Cup’s official instrument**.
 
 
       Russian Lozhka (losh-KA) = 2 wooden spoons fans click together to make
@@ -70,6 +73,7 @@ cards:
       Now](https://www.youtube.com/embed/Bl6VC4zA7ns?enablejsapi=1&autoplay=1&rel=0)
     _key: card-3-b6a18de2-be55-4d92-ad07-d1adcc4183bd
   - order: 3
+    useCheckmark: false
     body: >-
       WHAT TO SAY:  
 
@@ -84,9 +88,10 @@ cards:
 
 
       **So why do we call it soccer?** First version played in the U.S. was
-      called “association football” – **“soc” was derived from “association.”**
+      called “association football” –**“soc” was derived from “association.”**
     _key: card-4-826ba266-5738-4a4b-88f9-0d2417808e41
   - order: 4
+    useCheckmark: true
     body: >-
       Before the matches even begin, Iran's team is struggling to find its
       footing. Why Nike says it will no longer provide the team's "boots"

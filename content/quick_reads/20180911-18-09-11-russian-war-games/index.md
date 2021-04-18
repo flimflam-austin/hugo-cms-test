@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # WAR GAMES
 
@@ -34,6 +35,7 @@ cards:
       Why Now?
     _key: card-1-1e1f37cd-3904-461b-9942-b9a6c4c5cda3
   - order: 1
+    useCheckmark: false
     body: >-
       > “The giant drill is clearly meant as a show of strength by Vladimir
       Putin and his military, a demonstration that – despite Western sanctions,
@@ -44,6 +46,7 @@ cards:
       threat as well.
     _key: card-2-244a5e4e-9872-460f-b705-8f05a7c2da0b
   - order: 2
+    useCheckmark: false
     body: >-
       ## What You Should Know:
 
@@ -59,11 +62,12 @@ cards:
       Pres. Putin’s agenda.
     _key: card-3-47c36a5b-0d6d-4e71-8b97-cfc8e53662dc
   - order: 3
+    useCheckmark: false
     body: >-
       ## “UNPRECEDENTED”
 
 
-      * It’s not just the size of the military drill, but the fact **China added
+      * It’s not just the size of the military drill, but the fact**China added
       more than 3,000 troops to Russia’s annual exercise.**
 
       * Russian & Chinese leaders reportedly meeting during drills.
@@ -73,6 +77,7 @@ cards:
       world”).
     _key: card-4-256ccd4d-abe0-4c2a-b6b4-d99aabdc3f50
   - order: 4
+    useCheckmark: true
     body: >-
       The U.S. participates in smaller "war games" with NATO & with South Korea.
       By preparing to work with allies, we rehearse what would happen in a

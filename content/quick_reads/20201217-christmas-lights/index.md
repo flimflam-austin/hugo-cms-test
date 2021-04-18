@@ -19,6 +19,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Let There Be (Christmas) Lights!
 
@@ -29,6 +30,7 @@ cards:
       **Christmas tree lights.**
     _key: cbb45db5293a
   - order: 1
+    useCheckmark: false
     body: >-
       ## ‘Tis The Season For Lights
 
@@ -43,9 +45,11 @@ cards:
       trend to spread.
     _key: 54bcbf4f0b11
   - order: 2
+    useCheckmark: false
     body: "## Lighting The Way Forward\n\n* **1882:** Edward Johnson, Edison’s partner, decorated his Christmas tree with a strand of 80 red, white and blue electric lights.\n* **1895:**\_The White House tree used electric lights for the first time.\n* **1903:**\_Ready-to-use Christmas light sets first went on sale (est. cost $350 in today’s dollars).\n* **1930s:**\_X-mas light sets became widely available."
     _key: a87df62260d3
   - order: 3
+    useCheckmark: true
     body: >-
       Today, it's estimated that over 150 million sets of lights are sold each
       year as part of the $230+ average spent by each American on decorations

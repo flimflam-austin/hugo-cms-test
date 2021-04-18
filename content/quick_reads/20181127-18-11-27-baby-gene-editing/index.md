@@ -20,18 +20,20 @@ card_series: Now You Know
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## DESIGNER BABIES?
 
 
-      A Chinese researcher claims he’s **the first** to create
-      genetically-edited babies – the **secretive process** and **timing**
-      raising questions all over the world.
+      A Chinese researcher claims he’s**the first** to create genetically-edited
+      babies – the**secretive process** and**timing** raising questions all over
+      the world.
 
 
       Science Bombshell?
     _key: card-1-7e6023c9-ab35-4e6f-a39e-9b78e663e2a9
   - order: 1
+    useCheckmark: false
     body: >-
       ## Background
 
@@ -45,20 +47,22 @@ cards:
       cannot implant these embryos to produce actual pregnancies.
     _key: card-2-e1f99db7-1277-455d-8aed-54f9518d724a
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Basics: Reports
 
 
       * Chinese researcher, He Jiankui, says he modified genes during IVF, to
-      make babies **resistant to HIV.**
+      make babies**resistant to HIV.**
 
       * Couples (all fathers HIV positive) recruited to participate.
 
-      * Results, **which have yet to be vetted,** focus on twin girls: only one
-      twin had both copies of the genes altered, meaning the **other is still at
+      * Results,**which have yet to be vetted,** focus on twin girls: only one
+      twin had both copies of the genes altered, meaning the**other is still at
       risk.**
     _key: card-3-fec9b5fe-2db4-4ab3-bf4b-81655f70aa08
   - order: 3
+    useCheckmark: false
     body: >-
       > “If true, this experiment is monstrous. The embryos were healthy. No
       known diseases.”  
@@ -69,6 +73,7 @@ cards:
       HIV if one does get it.
     _key: card-4-783eef01-2cf5-45df-a472-d3f777911bac
   - order: 4
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -76,13 +81,14 @@ cards:
       * Experiments are vetted (peer scientists examine data & results); this
       one has not…yet.
 
-      * Experts question whether study was **necessary**, **safe**, or
-      **ethical**. Unintended genetic edits may do more harm than good.
+      * Experts question whether study was**necessary**,**safe**, or**ethical**.
+      Unintended genetic edits may do more harm than good.
 
       * A pioneer of gene editing, reacting to the news of the study, called for
       a “moratorium on implantation of edited embryos.”
     _key: card-5-ec3c256b-bcc8-4faa-a36f-4afe819d62bf
   - order: 5
+    useCheckmark: true
     body: >-
       Today in Hong Kong a huge conference on humane genome editing is taking
       place. The researcher will present his findings, though the organizers say

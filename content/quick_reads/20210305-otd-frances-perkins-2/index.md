@@ -19,6 +19,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # March 4, 1933
 
@@ -28,6 +29,7 @@ cards:
       first woman named to a presidential cabinet on this day in 1933.
     _key: 38214494c964
   - order: 1
+    useCheckmark: false
     body: >-
       > “The people are what matter to government, and a government should aim
       to give all the people under its jurisdiction the best possible life.”
@@ -40,6 +42,7 @@ cards:
       Franklin D. Roosevelt and his predecessor.
     _key: 55e514d178ea
   - order: 2
+    useCheckmark: false
     body: >-
       > “I came to Washington to work for God, FDR, and the millions of
       forgotten, plain common workingmen.”
@@ -52,9 +55,11 @@ cards:
       Labor, she also oversaw the Immigration and Naturalization Service.
     _key: 2f3882b02066
   - order: 3
+    useCheckmark: false
     body: "## Perkins’ Lasting Legacy\n\nShe played a key role in several parts of FDR’s New Deal – including the passing of the Fair Labor Standards Act (1938).\n\n* The act\_established a federal minimum wage ($0.25/hour with a gradual increase over the course of 7 years).\n* It also lowered the standard work week to 44 hours/week (which would decrease to 40 hours/week by 1940)."
     _key: 3ba491d136be
   - order: 4
+    useCheckmark: false
     body: >-
       ## What’s Happening Now:
 
@@ -69,6 +74,7 @@ cards:
       support.
     _key: 2e699da7c2e2
   - order: 5
+    useCheckmark: true
     body: >-
       The future of legislation for a new federal minimum wage remains TBD.
       Since we're speaking of work life, based on 2018 analytics, duties

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       While The World Focuses on North Korea…
 
@@ -35,6 +36,7 @@ cards:
       What To Know
     _key: card-1-80b2fecd-9de6-4fb9-8e1d-e07a9e7ebded
   - order: 1
+    useCheckmark: false
     body: >-
       ## SOUTH CHINA SEA
 
@@ -46,10 +48,11 @@ cards:
       addressed weapons in a recent speech; American B-52s did a fly-by of the
       islands as well.
 
-      * U.S. ships have sailed close to islands to assert freedom of waterway;
-      **tensions very high.**
+      * U.S. ships have sailed close to islands to assert freedom of
+      waterway;**tensions very high.**
     _key: card-2-a18c9956-1a0a-4988-acb2-5b3023ba6cd4
   - order: 2
+    useCheckmark: false
     body: >-
       > _‘Despite China’s claims to the contrary, the placement of these weapons
       systems is tied directly to military use for the purposes of intimidation
@@ -62,12 +65,13 @@ cards:
       Vietnam contest China's claims of the land.
     _key: card-3-f3a47495-f74c-4e42-9b93-6ce0dbab73f6
   - order: 3
+    useCheckmark: false
     body: >-
       # CHINA & IRAN?
 
 
       * While G7 met in Canada, China & Russia hosted a summit of its own: The
-      SCO orA **Shanghai CooperationA Organization.**
+      SCO orA**Shanghai CooperationA Organization.**
 
       * Iran, Pakistan, & India attended.
 
@@ -77,21 +81,23 @@ cards:
       despite sanctions; U.S. is not.
     _key: card-4-323f5f3d-90eb-4a91-a766-fd8e47be7697
   - order: 4
+    useCheckmark: false
     body: >-
       ## CYBER ATTACK
 
 
-      * WaPo Scoop: **Chinese gov’tA hacked computer system of a Navy
+      * WaPo Scoop:**Chinese gov’tA hacked computer system of a Navy
       contractor** earlier this year.
 
-      * Data hadA **plans for supersonic** **anti-ship missile** plannedA for
-      U.S. submarines by 2020.
+      * Data hadA**plans for supersonic****anti-ship missile** plannedA for U.S.
+      submarines by 2020.
 
-      * Data was **unclassified, but submarine program = top secret.**
+      * Data was**unclassified, but submarine program = top secret.**
 
       * China denies any involvement.
     _key: card-5-7970a591-1c93-4c30-bf07-94617a6dae93
   - order: 5
+    useCheckmark: true
     body: >-
       Some believe China may come out the "winner" in the historic Singapore
       summit. Why?

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Pandemic vs. Peace
 
@@ -28,6 +29,7 @@ cards:
       latest on the pandemic’s impact on America’s longest war.
     _key: ec2d5431e2b5
   - order: 1
+    useCheckmark: false
     body: >-
       ## Backstory
 
@@ -42,6 +44,7 @@ cards:
       current Afghan government, and “reduce violence.”
     _key: 7464a77c49ce
   - order: 2
+    useCheckmark: false
     body: >-
       “Both sides should accelerate efforts to meet targets specified in the
       US-Taliban agreement as soon as possible. The potential for COVID-19
@@ -55,6 +58,7 @@ cards:
       Taliban is set to release 1,000 Afghan prisoners.
     _key: c2ce808a430b
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why This Matters
 
@@ -65,10 +69,11 @@ cards:
       agreement between the Taliban & Afghan gov’t.
 
       * Initial withdrawal of 5,000 U.S. soldiers (out of approx. 13,000) is set
-      in next few months if certain goals are met; **the challenges of meeting
+      in next few months if certain goals are met;**the challenges of meeting
       these goals cannot be understated.**
     _key: 09ce7cf02560
   - order: 4
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -83,6 +88,7 @@ cards:
       continued.
     _key: bc3ffb5f6dc3
   - order: 5
+    useCheckmark: true
     body: >-
       The first American soldiers landed in Afghanistan in October 2001.
       Reportedly, Taliban members are being recruited by al-Qaeda, the terrorist

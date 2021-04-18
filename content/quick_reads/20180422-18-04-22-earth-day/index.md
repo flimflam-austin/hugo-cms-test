@@ -20,6 +20,7 @@ card_series: smarther news
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # EARTH DAY
 
@@ -38,6 +39,7 @@ cards:
     citation: Flip Here For Earth Day's Origins &amp; Impact
     _key: card-1-4b75b00c-008f-41a7-a5ca-6edc8a087e5e
   - order: 1
+    useCheckmark: false
     body: >-
       After the 1969 oil spill in Santa Barbara, CA, Wisconsin Sen. Gaylord
       NelsonA was inspired to create a grassroots movement in order to educate
@@ -49,6 +51,7 @@ cards:
       mobilized 200M across the globe.
     _key: card-2-fb59c860-17a8-4371-b31e-cce0103c8ba5
   - order: 2
+    useCheckmark: false
     body: >-
       ## Earth Day launched the modern environmental movement
 
@@ -64,6 +67,7 @@ cards:
       * Endangered Species Act (1973)
     _key: card-3-478774e6-b2e1-4c8a-84b4-4562ac4f3709
   - order: 3
+    useCheckmark: false
     body: >-
       ## California is home to the USA’s most polluted cities
 
@@ -78,6 +82,7 @@ cards:
     citation: Is Your City On the List?
     _key: card-4-95c7a643-b8ef-4d1f-a941-4e99d09582c0
   - order: 4
+    useCheckmark: true
     body: >-
       EP Administrator Scott Pruitt currently faces criticism re: allegations of
       overspending & other potential ethical lapses. Here's perspective from a

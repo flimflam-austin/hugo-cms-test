@@ -20,18 +20,20 @@ card_series: Podcast
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Here Comes The General
 
 
-      > A **crucial moment** in our fight for Independence when America was on
-      the ropes and **came back swinging**.
+      > A**crucial moment** in our fight for Independence when America was on
+      the ropes and**came back swinging**.
 
 
       [Click:
       Listen](http://smarthernews.libsyn.com/smarther-news-ep6-independence-day)
     _key: card-1-13c306a3-6260-4b1c-a7a7-0ba4b6b6d9f3
   - order: 1
+    useCheckmark: true
     body: >-
       SmartHER News sits down with Clay Craighead, historian at the Washington
       Crossing State Park, for a story that will send chills down your spine and

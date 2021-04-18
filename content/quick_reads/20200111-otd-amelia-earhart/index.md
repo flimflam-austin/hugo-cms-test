@@ -20,19 +20,22 @@ card_series: On This Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # January 11, 1935
 
 
       > “_All Ok_“  
         
-      Amelia Earhart departs from Hawaii & becomes the **first person to fly
+      Amelia Earhart departs from Hawaii & becomes the**first person to fly
       solo** from the Hawaiian islands to California.
     _key: ac3d0a8d269d
   - order: 1
-    body: "## Why This Mattered\n\nAlthough Amelia became the **first woman to fly solo across the Atlantic just year’s earlier,\_**becoming\_the **first person** to fly solo from Honolulu to Oakland, CA was arguably a far greater accomplishment.\n\nIt’s a longer trip, with more time over the water, and greater risk to the pilot."
+    useCheckmark: false
+    body: "## Why This Mattered\n\nAlthough Amelia became the**first woman to fly solo across the Atlantic just year’s earlier,\_**becoming\_the**first person** to fly solo from Honolulu to Oakland, CA was arguably a far greater accomplishment.\n\nIt’s a longer trip, with more time over the water, and greater risk to the pilot."
     _key: 78a3f18a7026
   - order: 2
+    useCheckmark: false
     body: >-
       > “The night I found over the Pacific was a night of stars. They seemed to
       rise from the sea and hang outside my cockpit window, near enough to
@@ -44,6 +47,7 @@ cards:
       chocolate at 8,000 feet above the Pacific Ocean.
     _key: b2d7b8034440
   - order: 3
+    useCheckmark: false
     body: >-
       ## Amelia’s Firsts
 
@@ -60,6 +64,7 @@ cards:
       around the world.
     _key: 029f2bfe8993
   - order: 4
+    useCheckmark: true
     body: >-
       Amelia didn't just fly. She also created a fashion line for "the woman who
       lives actively" that included flight suits for female aviators and

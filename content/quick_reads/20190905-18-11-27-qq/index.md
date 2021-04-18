@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "Flawless.”  
         
@@ -31,6 +32,7 @@ cards:
       down on Mars was 2012.
     _key: card-1-84766f4c-1c29-4829-8a42-c70254944bb6
   - order: 1
+    useCheckmark: false
     body: >-
       > “It is introduced with the sole purpose of boosting Ukraine’s defense in
       the light of a growing aggression from Russia."  
@@ -42,6 +44,7 @@ cards:
       27 regions. Russia says Ukraine entered its waters illegally.
     _key: card-2-b109ab98-9943-4e00-9a60-d71e1bbf521c
   - order: 2
+    useCheckmark: false
     body: >-
       > “Last year was bad; this year is horrible.”  
         
@@ -53,6 +56,7 @@ cards:
       artifical tree, but it could mean higher prices and less selection.
     _key: card-3-d9d0e73c-87dd-43ea-aa42-0536dcdec4e9
   - order: 3
+    useCheckmark: false
     body: >-
       > “When this started out a couple years ago we were pretty skeptical about
       it…”  
@@ -64,6 +68,7 @@ cards:
       average gift of $120.
     _key: card-4-3057eda8-bdff-4252-92be-19b03d17706a
   - order: 4
+    useCheckmark: false
     body: >-
       “There’s no guarantee that this it’s going to stay SUV, SUV, SUV, SUV. …it
       could be problematic for them.”  
@@ -75,6 +80,7 @@ cards:
       United Auto Workers union says it will fight the decision.
     _key: card-5-be4361fd-cb86-463c-87c6-75fe4f6ed1ca
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-11-27-qq/)'
     _key: card-10-48fbfb7a-492c-48a3-99f5-5b049b6a227f
 

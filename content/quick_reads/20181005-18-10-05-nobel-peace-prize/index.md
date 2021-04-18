@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       > NOBEL PEACE PRIZE  
         
@@ -28,25 +29,27 @@ cards:
       (is named after the inventor of dynamite...)
     _key: card-1-0d732ae8-8730-429c-9952-214f8eb3eef5
   - order: 1
+    useCheckmark: false
     body: >-
       ## Who’s Nobel?
 
 
-      Swedish inventor Alfred Nobel **created dynamite** to make life safer,
+      Swedish inventor Alfred Nobel**created dynamite** to make life safer,
       particularly for miners. Received U.S. patent in 1867, but reviled for
       creating a destructive weapon.
 
 
       When he died in 1895, he used his fortune to create a foundation honoring
-      excellence in **Literature, Medicine, Physics, Chemistry, and Peace.A
+      excellence in**Literature, Medicine, Physics, Chemistry, and Peace.A
       Economics** added in 1968.
     _key: card-2-e50a71da-3de2-481f-94a4-9181f7e45469
   - order: 2
+    useCheckmark: false
     body: >-
       # What’s the Prize?
 
 
-      On December 10, the Nobel Laureates will attend the **Nobel Peace Prize
+      On December 10, the Nobel Laureates will attend the**Nobel Peace Prize
       Award Ceremony** in Oslo, Norway, where they’ll receive:
 
 
@@ -57,6 +60,7 @@ cards:
       * 9 Million Swedish kronorA ($1.01A million) – divided equally
     _key: card-3-f6d974b0-581d-4de9-a7af-4af06673ae8a
   - order: 3
+    useCheckmark: false
     body: >-
       Who Else Was Nominated?  
 
@@ -67,24 +71,26 @@ cards:
       they are (**331 candidates in 2018**.)
 
 
-      Everything reported in media is mere speculation.A **Information on
+      Everything reported in media is mere speculation.A**Information on
       nominees isn’t made public until after 50 years.**
     _key: card-4-af32264f-dd4b-4cc6-94d1-378ff9a23030
   - order: 4
+    useCheckmark: false
     body: >-
       # A By The Numbers
 
 
-      * Awarded annually sinceA **1901.**
+      * Awarded annually sinceA**1901.**
 
-      * Winners include:A **131 Nobel Laureates** toA 104 people (includingA
-      **16 women**)A & 27 organizations and **FOUR U.S. Presidents**: Barack
-      Obama (2009), Jimmy Carter (2002), Woodrow Wilson (1919) & Theodore
-      Roosevelt (1906),
+      * Winners include:A**131 Nobel Laureates** toA 104 people (includingA**16
+      women**)A & 27 organizations and**FOUR U.S. Presidents**: Barack Obama
+      (2009), Jimmy Carter (2002), Woodrow Wilson (1919) & Theodore Roosevelt
+      (1906),
 
-      * Cmte made up of **5 appointees** of the Norwegian Parliament.
+      * Cmte made up of**5 appointees** of the Norwegian Parliament.
     _key: card-5-e44aa6dc-8947-422e-9bd4-95bd916fb32b
   - order: 5
+    useCheckmark: true
     body: >-
       Learn more about this year's Nobel Peace Prize laureates, Denis Mukwege &
       Nadia Murad, on our source page. Both worked against sexual violence in

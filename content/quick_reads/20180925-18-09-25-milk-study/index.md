@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # THE WHOLE ANSWER
 
@@ -30,6 +31,7 @@ cards:
       WHAT TO KNOW
     _key: card-1-15b0ee6e-8376-4501-a102-87197087e717
   - order: 1
+    useCheckmark: false
     body: >-
       ## Dairy, Disease & Death
 
@@ -44,6 +46,7 @@ cards:
       * The study is limited and doesn’t explain WHY this is the case.
     _key: card-2-2401c250-f2ea-46e5-9b42-8b566b72b3a3
   - order: 2
+    useCheckmark: false
     body: >-
       > “Parents have started to look at milk not as a good thing and they are
       wary of it. The message to them is not to be scared of milk, or to limit
@@ -55,6 +58,7 @@ cards:
       found obese children who drank *any* milk had better blood sugar control.
     _key: card-3-820c57c8-8bf5-4e92-9b9d-5dead4660a05
   - order: 3
+    useCheckmark: false
     body: >-
       > “Greater consumption of total dairy products may be of importance in the
       prevention of weight gain in middle-aged and elderly women who are
@@ -65,6 +69,7 @@ cards:
       higher intakes of fat from dairy had lower weight gain.
     _key: card-4-cb3a3035-6068-4e58-8c65-5d157f2070aa
   - order: 4
+    useCheckmark: false
     body: >-
       ## Whole Milk: Bad Rap?
 
@@ -79,6 +84,7 @@ cards:
       risk for diabetes, or weight gain.
     _key: card-5-a471dfdc-fd96-40ee-a3ab-28697c5bd26d
   - order: 5
+    useCheckmark: true
     body: >-
       Overall, Americans are drinking less milk & obesity rates are rising. Some
       say lack of dairy is a factor since we often replace milk with other

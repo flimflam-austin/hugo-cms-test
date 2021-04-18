@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # November 19, 1863
 
@@ -31,6 +32,7 @@ cards:
       name isn’t as well known.
     _key: 0a22effa0727
   - order: 1
+    useCheckmark: false
     body: >-
       > “It will be a source of great gratification to the many widows and
       orphans that have been made almost friendless by the Great Battle here, to
@@ -42,6 +44,7 @@ cards:
       the Soldiers National Cemetery on November 19.
     _key: a8b20ad600fb
   - order: 2
+    useCheckmark: false
     body: >-
       ## David Wills
 
@@ -56,6 +59,7 @@ cards:
       honor the fallen.
     _key: 1708c1f772a7
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Battle of Gettysburg
 
@@ -71,6 +75,7 @@ cards:
       surrendered.
     _key: 3570ed95fde2
   - order: 4
+    useCheckmark: true
     body: >-
       David Wills' home is still standing in Gettysburg, PA. You can visit the
       room where Pres. Lincoln slept the night before he delivered the

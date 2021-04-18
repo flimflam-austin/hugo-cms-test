@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “We can make chicken.A We can work hard. But if we don’t have peopleA
       who support us, we can’t survive.”  
@@ -31,6 +32,7 @@ cards:
       while we're closed."
     _key: card-1-c9ee9a4c-b12a-4b0f-b67f-ba78c421f2ce
   - order: 1
+    useCheckmark: false
     body: >-
       > “For all of you that have made a fortune in the markets, or seen your
       401Ks rise beyond your wildest expectations, more good news is coming!"  
@@ -41,6 +43,7 @@ cards:
       it may be a trade deal with Mexico, and possibly Canada.
     _key: card-2-89b1a5b0-8141-4051-8ee3-83b0bf96b80e
   - order: 2
+    useCheckmark: false
     body: >-
       > “We Christians are not selling a product. We are communicating a
       lifestyle.”  
@@ -51,6 +54,7 @@ cards:
       who knew what & when.
     _key: card-3-1ac69823-c860-4846-a54a-5e9726e72fc1
   - order: 3
+    useCheckmark: false
     body: >-
       > "This hotbed of terrorists (in Idlib) does really not bode anything good
       if such inaction continues."  
@@ -62,6 +66,7 @@ cards:
       sources say the President is determined to retake it.
     _key: card-4-2a528baa-0adb-4eff-8869-9ce95eaa3592
   - order: 4
+    useCheckmark: false
     body: >-
       > "How are you going to market a tasteless apple when the consumer has
       tasted so many good apples?"  
@@ -73,6 +78,7 @@ cards:
       Granny Smith will be the 3rd most grown apple.
     _key: card-5-a1f5d366-2c54-468c-b542-4c219e49eca7
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great, long weekend!
 

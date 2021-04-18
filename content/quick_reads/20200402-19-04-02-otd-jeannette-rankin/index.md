@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # April 2, 1917
 
@@ -32,6 +33,7 @@ cards:
       before women were granted the constitutional right to vote.
     _key: 2a08fe8e2890
   - order: 1
+    useCheckmark: false
     body: >-
       > “I may be the first woman member of Congress, but I won’t be the last.”
 
@@ -43,6 +45,7 @@ cards:
       hoped, “We’re (women) half the people; we should be half the Congress.”
     _key: 45b61534ea06
   - order: 2
+    useCheckmark: false
     body: >-
       > “As never before the Nation needs its women—needs the work of their
       hands and their hearts and their minds.”
@@ -55,6 +58,7 @@ cards:
       Constitution to grant women the right to vote.
     _key: 3ad106e929cc
   - order: 3
+    useCheckmark: false
     body: >-
       ## JEANNETTE RANKIN
 
@@ -71,6 +75,7 @@ cards:
       because of America’s involvement in Vietnam.
     _key: 9d7345bf12a2
   - order: 4
+    useCheckmark: true
     body: >-
       Rankin reportedly received applause as she was sworn into Congress. Later
       that evening, Pres. Wilson asked lawmakers to vote to declare war on

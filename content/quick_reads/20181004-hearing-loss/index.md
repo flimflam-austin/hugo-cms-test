@@ -20,12 +20,13 @@ card_series: Health
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Dangerous Decibels
 
 
       **1 in 10** American adults will suffer hearing loss in the next 2 yrs &
-      that numberA will jump to **1 in 4 by 2060**.
+      that numberA will jump to**1 in 4 by 2060**.
 
         
       Are headphones to blame?
@@ -34,6 +35,7 @@ cards:
       Listen Up.
     _key: card-1-fdc7502d-8c3c-493a-b8d1-6da8df7d9445
   - order: 1
+    useCheckmark: false
     body: >-
       ## How Do You Lose Your Hearing Anyway?
 
@@ -42,12 +44,13 @@ cards:
       transmit sound signals to your brain.
 
 
-      Once damaged, these **cells don’t grow back** and you have hearing loss.
+      Once damaged, these**cells don’t grow back** and you have hearing loss.
 
 
       **2 out of 3 people over age 70** have trouble hearing.
     _key: card-2-b1f3a8ac-f9d5-4d02-96ec-fc613206372b
   - order: 2
+    useCheckmark: false
     body: >-
       > "You can certainly hurt your hearing listening to loud music, whether
       through earbuds or something else. But earbuds and listening to music with
@@ -59,6 +62,7 @@ cards:
       found rates of hearing loss have actually fallen among adults aged 20-69.
     _key: card-3-9aa930b5-edd4-42fd-ade2-44defe9e2fa2
   - order: 3
+    useCheckmark: false
     body: >-
       ## Stopping It Before It Starts
 
@@ -67,12 +71,13 @@ cards:
       in, you tend to turn it up.
 
       * Current MP3 players can’t be turned as loud as those in the 80s & 90s,
-      but one audiologist warns newer ones might be worse because **more**A
-      **people listen for longer periods of time.**
+      but one audiologist warns newer ones might be worse
+      because**more**A**people listen for longer periods of time.**
 
       * **60/60 Rule:**A volume at less than 60% with breaks every 60 mins.
     _key: card-4-15f7ab5d-c968-410d-8001-fe9bc8bbdc90
   - order: 4
+    useCheckmark: false
     body: >-
       ## Not Your Grandpa’s Hearing Aid
 
@@ -88,6 +93,7 @@ cards:
       New law allows over-the-counter hearing aids by 2020 for just $80.
     _key: card-5-0da3ad65-a7c1-48e1-bff9-16c204c0f163
   - order: 5
+    useCheckmark: true
     body: >-
       Which headphones are safest? Experts recommend noise-canceling ones,
       especially in loud places. You're less apt to crank up music to drown out

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # HISTORIC MOVES?
 
@@ -35,19 +36,21 @@ cards:
     citation: 'Flip: Cuba &amp; NoKo'
     _key: card-1-f64b66b2-d82f-4a69-9efa-ea85092e56d2
   - order: 1
+    useCheckmark: false
     body: >-
       ## North Korea
 
 
-      South Korea says **North Korea ready to agree to complete
+      South Korea says**North Korea ready to agree to complete
       denuclearization** in preparation for historic talks between Pres. Trump &
       North Korean dictator Kim Jong Un (expected in next few weeks).
 
 
-      Pres. Trump acknowledged **secret trip** by CIA Dir Mike Pompeo (Sec of
+      Pres. Trump acknowledged**secret trip** by CIA Dir Mike Pompeo (Sec of
       State nominee) to meetA with North Korean leader.
     _key: card-2-ad8308fe-999c-49eb-ad54-3a0927695fce
   - order: 2
+    useCheckmark: false
     body: >-
       ## CUBA:
 
@@ -62,22 +65,24 @@ cards:
       mysterious sickness.
     _key: card-3-ba92fe5f-d4ac-423a-9984-c7cfa17eb354
   - order: 3
+    useCheckmark: false
     body: >-
       ## North Korea & Cuba
 
 
-      * Maintain **diplomatic relations**.
+      * Maintain**diplomatic relations**.
 
-      * Both show **disdain for USA.**
+      * Both show**disdain for USA.**
 
       * Closed & struggling economies.
 
       * Shared trade i.e. in 2013 – Cuban weapons on board aA North Korean ship.
 
-      * Soviets supported the birth of North Korean & Cuban dynasties. **Modern
-      day Russia** **“circles” both countries for influence**.
+      * Soviets supported the birth of North Korean & Cuban dynasties.**Modern
+      day Russia****“circles” both countries for influence**.
     _key: card-4-be7b7009-47a3-4e82-a64d-b589b04c1697
   - order: 4
+    useCheckmark: true
     body: >-
       Why does potential change in North Korea & Cuba matter? Both countries,
       while not economically powerful, have created partnerships with enemies of

@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## _“This is a true American dream and we are going to bring the show of a
       lifetime!”_
@@ -29,6 +30,7 @@ cards:
     citation: SHAKIRA
     _key: 7be2eab53733
   - order: 1
+    useCheckmark: true
     body: >-
       International superstars Shakira and Jennifer Lopez will headline the
       halftime show at Sunday's Super Bowl making history becoming both the

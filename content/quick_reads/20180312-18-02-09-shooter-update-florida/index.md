@@ -20,14 +20,15 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       NEW WEEK:  
 
       New Florida Gun Laws
 
 
-      New laws passedA **23 days** after one of the deadliest school shootings
-      in American history.
+      New laws passedA**23 days** after one of the deadliest school shootings in
+      American history.
 
 
       _‘It’s an example to the entire country that government can and has moved
@@ -37,18 +38,20 @@ cards:
       Flip: Break In Case?
     _key: card-1-c377d8e4-7722-43c5-a343-787b728a9380
   - order: 1
+    useCheckmark: false
     body: >-
       New Florida Laws
 
 
       * Rifles: raises purchase age (from 18 to 21) &A implements 3-day waiting
-      period. **NRA filed lawsuit hrs after bill signed**.
+      period.**NRA filed lawsuit hrs after bill signed**.
 
       * Creates “Guardian Program” allows teachers & staff to carry guns
       w/proper training. Program NOT mandatory; school districts can decide to
-      participate. **FL Teachers Union opposes – hopes gov’t strikes funding.**
+      participate.**FL Teachers Union opposes – hopes gov’t strikes funding.**
     _key: card-2-bd5ab282-5f03-48af-b3f4-401328ac3f7d
   - order: 2
+    useCheckmark: false
     body: >-
       ## “Break” In Unsolved Story
 
@@ -58,13 +61,14 @@ cards:
       have a police record?
 
 
-      _Real Clear_ _Investigations_ may have found the answer – and they aren’t
+      _Real Clear__Investigations_ may have found the answer – and they aren’t
       the only ones.
 
 
       Flip For More
     _key: card-3-a47669e8-8763-42d2-bfbc-5ef2187357fb
   - order: 3
+    useCheckmark: false
     body: >-
       ## Reports: Why FL Shooter Had No Criminal Record
 
@@ -78,6 +82,7 @@ cards:
       disproportionately impacts minority students.
     _key: card-4-08231404-382f-487f-8280-cd145af7714b
   - order: 4
+    useCheckmark: false
     body: >-
       > “Students charged with various misdemeanors, including assault, would
       now be disciplined throughA participationA in ‘healing circles,’ obstacle
@@ -92,6 +97,7 @@ cards:
       Article:](https://www.realclearinvestigations.com/articles/2018/02/28/obama_administration_school_discipline_policy_and_the_parkland_shooting.html)
     _key: card-5-f3254f58-0002-4513-bcf2-116dd512a679
   - order: 5
+    useCheckmark: true
     body: >-
       Several other sources have also reported similar explanation to Real Clear
       Investigations - We included a few on the sources page, but RCI is

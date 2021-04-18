@@ -20,6 +20,7 @@ card_series: From the President's Desk
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > **“… flying back are three, what they were calling ‘hostages.’ We call
       them ‘fine people.’ Three really fine people.”**  
@@ -32,6 +33,7 @@ cards:
       Flip: Who Are They?
     _key: card-1-3733a711-8b90-43e5-bdb1-b2f6c9a11b56
   - order: 1
+    useCheckmark: false
     body: >-
       ## Released Hostages
 
@@ -45,6 +47,7 @@ cards:
       Christian groups).
     _key: card-2-efe61c34-4727-486e-98d6-8323c0562f5b
   - order: 2
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -58,6 +61,7 @@ cards:
       taken if that gives North Korea bargaining power.
     _key: card-3-475a1420-85f1-4f32-850a-8898ddffd096
   - order: 3
+    useCheckmark: false
     body: >-
       > “**It represents something**. It represents something very important to
       this country. People never thought a thing like this could happen and it
@@ -68,6 +72,7 @@ cards:
     citation: President Trump
     _key: card-4-e32dafa2-875e-41ab-b140-8127b95b2a79
   - order: 4
+    useCheckmark: true
     body: >-
       Reminder: Otto Warmbier, an American student, the last American released
       from North Korea returned to the U.S. with severe brain damage and died

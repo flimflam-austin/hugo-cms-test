@@ -20,6 +20,7 @@ card_series: Politics
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # 2020 BALLOT BOX
 
@@ -31,6 +32,7 @@ cards:
       change American life.
     _key: 8bc9f543b6c7
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKGROUND
 
@@ -46,6 +48,7 @@ cards:
       * We selected a few of the key issues voters will weigh-in on nationwide.
     _key: 12c0697b5abd
   - order: 2
+    useCheckmark: false
     body: >-
       ## DRUGS
 
@@ -62,6 +65,7 @@ cards:
       police.
     _key: ab87060fbcde
   - order: 3
+    useCheckmark: false
     body: >-
       ## $$$
 
@@ -78,6 +82,7 @@ cards:
       (people who make more would pay more).
     _key: 22a859d875d2
   - order: 4
+    useCheckmark: false
     body: >-
       ## ABORTION
 
@@ -93,6 +98,7 @@ cards:
       rights.
     _key: 4c45bfa3ccb3
   - order: 5
+    useCheckmark: false
     body: >-
       ## “EDITING” THE PAST
 
@@ -109,6 +115,7 @@ cards:
       people.”
     _key: 20c8a30738c7
   - order: 6
+    useCheckmark: true
     body: >-
       California voters will weigh in on a ballot measure to decide whether
       rideshare and delivery drivers who work for app-based businesses (ex:

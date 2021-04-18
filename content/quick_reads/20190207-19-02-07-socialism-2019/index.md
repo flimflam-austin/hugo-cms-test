@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # HOT TOPIC
 
@@ -36,6 +37,7 @@ cards:
       Why & What Is It
     _key: card-1-524333ef-4746-4b4a-9101-2e3b270d9de3
   - order: 1
+    useCheckmark: false
     body: >-
       > “America was founded on liberty and independence - not government
       coercion, domination, and control. We are born free, and we will stay
@@ -49,6 +51,7 @@ cards:
       state of abject poverty and despair.
     _key: card-2-ff620825-11ae-45be-b7d2-02f5c068a68f
   - order: 2
+    useCheckmark: false
     body: >-
       ## Socialism Defined
 
@@ -61,6 +64,7 @@ cards:
       Encyclopedia Britannica
     _key: card-3-9d2234b4-05a6-4415-bae0-1429ca131bb2
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why Is It A Hot Topic Now?
 
@@ -70,10 +74,11 @@ cards:
       all & higher taxes on rich for the greater good.
 
       * Democrats who do not describe themselves as “socialist” share some
-      platforms such as **national healthcare.** Critics say party is moving too
+      platforms such as**national healthcare.** Critics say party is moving too
       far left or “socialist.”
     _key: card-4-b0ecbef6-f9b1-408c-bcc1-53e5044d2155
   - order: 4
+    useCheckmark: false
     body: >-
       ## Politics at Play
 
@@ -81,7 +86,7 @@ cards:
       **Preview 2020 President Race**
 
 
-      The President set the stage for further debate: **Republican-led economy
+      The President set the stage for further debate:**Republican-led economy
       vs. the Democrat’s so-called “socialist” agenda.**
 
 
@@ -89,6 +94,7 @@ cards:
       socialism than capitalism; Republicans = the opposite. (Gallup)
     _key: card-5-943f2759-4abd-47a5-a987-8ffa5323ac31
   - order: 5
+    useCheckmark: true
     body: >-
       According to recent polling, young Americans (18-29) view socialism more
       favorably than capitalism (this is typical of this age group although

@@ -20,12 +20,14 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“Let us not take ourselves too seriously. None of us has a monopoly of
       wisdom.”_
     citation: Queen Elizabeth II
     _key: card-1-cbfab59f-66cb-4931-acef-bcb8e67be3fe
   - order: 1
+    useCheckmark: true
     body: >-
       President Trump, joined by his wife, met Queen Elizabeth for tea Friday
       during his European trip. Queen Elizabeth has met with every U.S.

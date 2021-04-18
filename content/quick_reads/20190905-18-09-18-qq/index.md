@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “I’ve lived in North Carolina my entire life, and I’ve seen a lot of bad
       storms, a lot of bad hurricanes. But this is absolutely the worst.”  
@@ -30,6 +31,7 @@ cards:
       "pleased with restoration efforts.... but there's much more to do."
     _key: card-1-3186b05f-fb4e-4670-98cc-f4dc6cf6e26d
   - order: 1
+    useCheckmark: false
     body: >-
       > "I believe that with this agreement we prevented a humanitarian crisis
       in Idlib.”  
@@ -42,6 +44,7 @@ cards:
       President Bashar al-Assad supports Erdogan-Putin plan.
     _key: card-2-dc0f9cbe-da86-44e4-93a8-2f9f6ceaa141
   - order: 2
+    useCheckmark: false
     body: >-
       "It’s impossible to conceive that I could run as a Republican…. That’s not
       to say I’m with the Democratic Party on everything, but I don’t see how
@@ -54,6 +57,7 @@ cards:
       spending $80M to support Dems in 2018.
     _key: card-3-c94cbb07-4ab9-4b73-b383-c13cc22bfdf4
   - order: 3
+    useCheckmark: false
     body: >-
       "For months, we have urged China to change these unfair practices, and
       give fair and reciprocal treatment to American companies… But, so far,
@@ -65,6 +69,7 @@ cards:
       the world's two biggest economies.
     _key: card-4-363fdc8b-b21c-434d-a0ea-d483485eb830
   - order: 4
+    useCheckmark: false
     body: >-
       “Mom always believed in finding the sunshine in things & she adored my
       girlfriend Jan. Jan, you are the sunshine in myA life.A And mom was right,
@@ -76,6 +81,7 @@ cards:
       history for first ever proposal during the Primetime Emmys.
     _key: card-5-438320e7-b8eb-42c1-8bc4-e39d300c0494
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great day!
 

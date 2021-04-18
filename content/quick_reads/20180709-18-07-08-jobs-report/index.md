@@ -16,6 +16,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ICYMI:
 
@@ -30,20 +31,22 @@ cards:
       Flip: Why It Matters
     _key: card-1-27306dcb-d7d3-4db4-8bd4-9019ae41b9cb
   - order: 1
+    useCheckmark: false
     body: >-
       ## Jobs Report 101
 
 
-      * You are counted as part of the labor force if you are **able** to work,
-      **want** to work, and **actively** looking for work.
+      * You are counted as part of the labor force if you are**able** to
+      work,**want** to work, and**actively** looking for work.
 
-      * More Americans started looking for work last month – a **good sign that
+      * More Americans started looking for work last month – a**good sign that
       reflects optimism**.
 
-      * The **labor force grew by 601,000 people**, reflecting more people
+      * The**labor force grew by 601,000 people**, reflecting more people
       looking for a job and the unemployment went up slightly.
     _key: card-2-dc2c7512-e877-4628-85d6-74b07707cf38
   - order: 2
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -52,11 +55,12 @@ cards:
       looking for work.
 
       * **Wages continue to increase** – an important sign of healthy job
-      market. However, when adjusted for inflation, the **take-home pay is
+      market. However, when adjusted for inflation, the**take-home pay is
       essentially flat to last year**. Possible reason? More Americans fill
       lower paid jobs during summer months (AP).
     _key: card-3-ec09938e-caaf-4783-ad7d-3f865b4f26a5
   - order: 3
+    useCheckmark: false
     body: >-
       ## National vs. Local
 
@@ -75,6 +79,7 @@ cards:
       2016.”
     _key: card-4-0692fcee-85ba-49cd-af7b-d8e4c7552a21
   - order: 4
+    useCheckmark: true
     body: >-
       Don't forget the impact of potential aluminum & steel tariffs on
       Mexico/Canada/Europe for swing states like Michigan/Pennsylvania. A

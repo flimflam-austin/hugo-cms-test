@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "I’d like to hear someone say this is a bad idea."  
         
@@ -30,6 +31,7 @@ cards:
       Russian officials Wednesday to discuss the summit.
     _key: card-1-abc407c5-340f-4b8a-938a-aeb437e7ed0e
   - order: 1
+    useCheckmark: false
     body: >-
       > “This is something for us to reckon with. This is historic. I am sure
       this will create some public uproar in Germany.”  
@@ -41,6 +43,7 @@ cards:
       Korea came away with an underdog victory of 2-0.
     _key: card-2-f13d6526-eaa8-4453-bdf8-bd79653e549d
   - order: 2
+    useCheckmark: false
     body: >-
       > “Please permit me by this letter to express my profound gratitude for
       having had the privilege to seek in each case how best to know, interpret,
@@ -55,6 +58,7 @@ cards:
     citation: ']'
     _key: card-3-c7f4211f-c98c-405d-8845-0912fb5fffca
   - order: 3
+    useCheckmark: false
     body: >-
       > “I will always love you! You gave us strength, you made us one of the
       most famous families in the world. I am extremely appreciative of that, I
@@ -66,6 +70,7 @@ cards:
       criticized his father/manager.
     _key: card-4-afb31000-8412-4482-b74a-fe0b652080b0
   - order: 4
+    useCheckmark: true
     body: |-
       Have a great day!
 

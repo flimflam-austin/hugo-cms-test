@@ -19,6 +19,7 @@ card_series: On This Day
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## “Twas the Night Before..”
 
@@ -30,6 +31,7 @@ cards:
       But who REALLY wrote it?
     _key: 175c88f20844
   - order: 1
+    useCheckmark: false
     body: >-
       > “We know not who we are indebted for the following description of that
       unwearied patron of children – that homely but delightful personification
@@ -42,6 +44,7 @@ cards:
       mystery, and in some ways, still is.
     _key: 815863b25142
   - order: 2
+    useCheckmark: false
     body: >-
       ## Clement Moore
 
@@ -61,6 +64,7 @@ cards:
       published.
     _key: ed463e5c93b1
   - order: 3
+    useCheckmark: false
     body: >-
       ## Henry Livingston, Jr.
 
@@ -78,6 +82,7 @@ cards:
       published.
     _key: f1302da044dd
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -91,6 +96,7 @@ cards:
       last *nearly* 200 years.
     _key: d8e390660b2d
   - order: 5
+    useCheckmark: true
     body: >-
       How did the paper get the poem? Another mystery. The paper wrote on that
       day: "We hope our little patrons, both lads and lasses, will accept it as

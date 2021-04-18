@@ -16,6 +16,7 @@ card_series: Current Events
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       Despite travel ban, 809 waivers have been granted to those in banned
       countries. What does this mean for diplomatic talks with North Korea, a

@@ -20,11 +20,12 @@ card_series: Eats
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # DON’T EAT THAT
 
 
-      From salads to cereal to crackers…**foodA recalls** **have increased over
+      From salads to cereal to crackers…**foodA recalls****have increased over
       the last decade**. And theA gov’t warns of more to come.
 
 
@@ -34,6 +35,7 @@ cards:
       Not necessarily.
     _key: card-1-2e4e1ddd-c6d1-4450-b2b3-ce34e36ffe5f
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -44,12 +46,13 @@ cards:
       Jayden Hanson, Center for Food Safety
 
 
-      * Foodborne illnesses have **tripled from a decade ago** (CDC)**.**
+      * Foodborne illnesses have**tripled from a decade ago** (CDC)**.**
 
       * **1 in 6** develop a foodborne illness (i.e. E.Coli, salmonella,
       listeria) each year, killing 3K (CDC).
     _key: card-2-b58aae33-f208-4960-9b8e-6a4cd1044fed
   - order: 2
+    useCheckmark: false
     body: >-
       ## Things to Know:
 
@@ -59,11 +62,12 @@ cards:
       * Recalls are mostly recommended by gov’t & “voluntary” done by a company
       OR (very seldom) required.
 
-      * **Annual USDA recalls rose 83% from 2012-2017**,A **FDA recalls are up
+      * **Annual USDA recalls rose 83% from 2012-2017**,A**FDA recalls are up
       93%A** in same period, according to industry consultant, Stericycle. FDA
       disputes this data.
     _key: card-3-7573c8d7-2364-41d5-a164-978521c1c066
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why All the Recalls?
 
@@ -76,12 +80,13 @@ cards:
       chain, so an issue with one supplier can affect multiple products.
     _key: card-4-248f397a-f729-4453-996f-f2bfc8fdd099
   - order: 4
+    useCheckmark: false
     body: >-
       # Important to Note
 
 
-      It’s not just toxic bacteria that lead to recalls. **Food allergens** made
-      up nearly **half (47%) of FDA food recalls & 29% of USDA recalls** in the
+      It’s not just toxic bacteria that lead to recalls.**Food allergens** made
+      up nearly**half (47%) of FDA food recalls & 29% of USDA recalls** in the
       first quarter of this year.
 
 
@@ -89,6 +94,7 @@ cards:
       comes in contact with something not listed on packaging, it is recalled.
     _key: card-5-47575651-4afa-4116-9fe5-b5daed3d511f
   - order: 5
+    useCheckmark: true
     body: >-
       You might be surprised to learn how long it takes from the time of
       discovery of a problem to pulling an item off store shelves. An Inspector

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       SmartHER News  
       Week Ahead
@@ -29,6 +30,7 @@ cards:
       December 9 - 15
     _key: card-1-8eb3c498-0e27-4781-a223-dbca91a0ad59
   - order: 1
+    useCheckmark: true
     body: >-
       SHNWeekAhead Click "view sources" for the notable news events to kick off
       your week feeling #SmartHer. Watch our social media feeds or

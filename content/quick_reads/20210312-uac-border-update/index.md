@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## ALONE AT THE BORDER
 
@@ -27,6 +28,7 @@ cards:
       Southwest border (and what’s happening next).
     _key: 79084d0fdea7
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKGROUND
 
@@ -40,6 +42,7 @@ cards:
       guardian *available* to provide care and physical custody.
     _key: 357ae9d2a2b8
   - order: 2
+    useCheckmark: false
     body: >-
       ## WHAT TO KNOW
 
@@ -54,9 +57,11 @@ cards:
       they remain in ORR facilities.
     _key: 68c47a247354
   - order: 3
-    body: "## THE DATA FLUCTUATES\n\n* **2003 – 2011:** Gov’t took **less than 8,000 UAC**\_into custody every year.\n* **2012:** The number started rising steadily, peaking at **nearly 70,000 in 2019.**\n* **2020:** The number fell below 15,400 as borders mostly closed due to COVID.\n* **Jan 2021:** The numbers of UAC started to climb."
+    useCheckmark: false
+    body: "## THE DATA FLUCTUATES\n\n* **2003 – 2011:** Gov’t took**less than 8,000 UAC**\_into custody every year.\n* **2012:** The number started rising steadily, peaking at**nearly 70,000 in 2019.**\n* **2020:** The number fell below 15,400 as borders mostly closed due to COVID.\n* **Jan 2021:** The numbers of UAC started to climb."
     _key: f498d198cc36
   - order: 4
+    useCheckmark: false
     body: >-
       ## RECENT UAC SPIKE
 
@@ -72,6 +77,7 @@ cards:
       protocols such as required social distancing.
     _key: 6fa011d0de0b
   - order: 5
+    useCheckmark: false
     body: >-
       ## LATEST ACTION
 
@@ -85,6 +91,7 @@ cards:
       protocols. Some of Pres. Biden’s fellow Democrats criticized the move.
     _key: 9f249ce33bbd
   - order: 6
+    useCheckmark: false
     body: >-
       > “Our objective is to get these kids into safe homes with their families
       as quickly as possible. And we are absolutely not doing what the former
@@ -97,6 +104,7 @@ cards:
       administrations.
     _key: 586ba82d8192
   - order: 7
+    useCheckmark: false
     body: >-
       > “The Administration is flailing and failing on our southern border. The
       number of unaccompanied children has tripled in two weeks.”
@@ -107,6 +115,7 @@ cards:
       the Biden administration implementing more lenient immigration policies.
     _key: ef5537ab8192
   - order: 8
+    useCheckmark: false
     body: >-
       > “Due to COVID-19 restrictions, the border is not open, and the vast
       majority of people are being returned under Title 42. Do not believe
@@ -119,6 +128,7 @@ cards:
       authority (public health and welfare).
     _key: f5a80acef083
   - order: 9
+    useCheckmark: true
     body: >-
       Comparing Jan & Feb 2021 to 2020, UAC are up over 133%, but overall
       southwest border encounters for all (single adults, families, UAC and

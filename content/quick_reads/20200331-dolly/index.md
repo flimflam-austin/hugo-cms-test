@@ -20,18 +20,20 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Dolly Goes To Washington!
 
 
-      Country music icon Dolly Parton donated her **100 millionth book** this
+      Country music icon Dolly Parton donated her**100 millionth book** this
       week to the Library of Congress in D.C. through her children’s literacy &
-      book gifting program, the _Imagination Library_.
+      book gifting program, the_Imagination Library_.
 
 
       TAP HERE FOR MORE
     _key: card-1-99e0d7e2-fb43-4dd9-92fb-006913226fe5
   - order: 1
+    useCheckmark: false
     body: >-
       > “I never thought about being the book lady, but that just goes to show
       you, you can’t judge a book by its cover.”  
@@ -41,6 +43,7 @@ cards:
       Dolly Parton speaking at the Library of Congress, Feb 27, 2018
     _key: card-2-39fd7f6f-b74b-4985-9c10-ac59f4b4c89c
   - order: 2
+    useCheckmark: false
     body: >-
       ## Dolly’s Library:
 
@@ -48,13 +51,14 @@ cards:
       * Dolly’s dedication to children’s literacy was inspired by her dad, who
       never learned to read or write.
 
-      * In 1995, Dolly founded the _Imagination Library_ in Tennessee.
+      * In 1995, Dolly founded the_Imagination Library_ in Tennessee.
 
-      * To date, the _Imagination Library_ has mailed more than 100 million free
+      * To date, the_Imagination Library_ has mailed more than 100 million free
       books to children in participating communities in US, UK, Canada &
       Australia.
     _key: card-3-bcb8ea73-9b37-4564-b34b-dd036648755c
   - order: 3
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -68,6 +72,7 @@ cards:
       to be read aloud to than those from higher income families.
     _key: card-4-fc34adeb-413e-4b74-8b9f-29dfd9a42d19
   - order: 4
+    useCheckmark: true
     body: >-
       Can't get enough Dolly? Us either! We're in luck because she just
       announced a remake of the 1980 comedy classic "9-5"!

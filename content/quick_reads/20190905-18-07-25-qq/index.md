@@ -20,9 +20,11 @@ card_series: Quotes
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: "> “We’re preparing for an avalanche. Emails, telephone calls a\x14 we may see upwards of 500 calls a day.”  \n  \nReal Estate agent Ernie Carswell on listing the Brady Bunch house in Studio City, CA at $1.885M. The homeowners bought it in 1973 for $61K before the home's now iconic exterior was used on the show. The interiors were shot on an LA soundstage.\n\n[Click For Photos](https://www.elliman.com/listing-photos?l=d1a50e7a72cf956bea8e2a14fa1adcb1766560b71fc88087-3367d58f219ae1fb0e3243f58ea17f4559a4cb27)"
     _key: card-1-beb00eae-afed-4a11-a9ac-12086c53b0e7
   - order: 1
+    useCheckmark: false
     body: >-
       > “…other nations cannot bully our agricultural producers to force the
       United States to cave in."  
@@ -34,6 +36,7 @@ cards:
       require Congressional approval.
     _key: card-2-02d8bebd-bd3a-41f2-83ff-c891b76ef956
   - order: 2
+    useCheckmark: false
     body: >-
       “I do not know when or if I will ever return to the business, but I do
       know that my focus for the foreseeable future will be the work I am doing
@@ -46,6 +49,7 @@ cards:
       department stores nationwide.
     _key: card-3-b7497fbb-b280-4eec-9930-561e7d552a49
   - order: 3
+    useCheckmark: false
     body: >-
       > “This beast was clearly one of the biggest that ever walked in North
       America.”  
@@ -58,6 +62,7 @@ cards:
       animals on Earth.
     _key: card-4-e293e473-5f1c-483b-a116-6f3cb69de2dd
   - order: 4
+    useCheckmark: false
     body: >-
       > “I can’t wait for forever together. Yes a million times over.”  
         
@@ -71,6 +76,7 @@ cards:
       [See her Insta post](https://www.instagram.com/p/BlnwAWIH5Y6/)
     _key: card-5-aa71e426-5948-4730-9f6f-75c3bea6f085
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-07-25-qq/)'
     _key: card-10-630d5e2f-f625-4e33-8d82-a908471ed5e6
 

@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > "I’ve ordered the FBI to conduct a supplemental investigation to update
       Judge Kavanaugh’s file. As the Senate has requested, this update must be
@@ -31,6 +32,7 @@ cards:
       the full Senate.
     _key: card-1-b0d35c68-c481-4270-a9a3-c6623f6a54f5
   - order: 1
+    useCheckmark: false
     body: >-
       > “Secretary of State Michael R. Pompeo has made the determination to
       place Consulate Basrah on ordered departure.”  
@@ -42,6 +44,7 @@ cards:
       go unmet. Iran blames the U.S. for fomenting this dissent.
     _key: card-2-4909042c-e387-42b4-b4f9-1d0ae625f58f
   - order: 2
+    useCheckmark: false
     body: >-
       > "With Iran’s oil essentially out of reach, gas prices may not see the
       typical decline we had been expecting. That’s not going to be good news
@@ -54,6 +57,7 @@ cards:
       one factor.
     _key: card-3-526b2fb6-2be0-43ca-8f40-f4602ee955ff
   - order: 3
+    useCheckmark: false
     body: >-
       > “This is a really serious security issue. And we’re taking it really
       seriously."  
@@ -66,6 +70,7 @@ cards:
       doesn't know yet if any private information was accessed.
     _key: card-4-c545db7f-2d7a-4063-ab81-0ed23d79df45
   - order: 4
+    useCheckmark: false
     body: >-
       > "They are part of our family, and their care needs to be a consideration
       during divorce proceedings."  
@@ -77,6 +82,7 @@ cards:
       gets sole or shared custody.
     _key: card-5-309a47a9-7f39-43f9-bcfd-100c0f107475
   - order: 5
+    useCheckmark: true
     body: >-
       HAVE A GREAT WEEKEND!
 

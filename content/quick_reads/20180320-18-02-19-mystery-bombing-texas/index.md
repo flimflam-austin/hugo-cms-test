@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # TEXAS MYSTERY
 
@@ -27,8 +28,7 @@ cards:
       ## Gains National Attention
 
 
-      > “We are clearly dealing with what we expect to be a **serial
-      bomber.”**  
+      > “We are clearly dealing with what we expect to be a**serial bomber.”**  
         
         
         
@@ -36,6 +36,7 @@ cards:
       March 19, 2018
     _key: card-1-73a60170-4246-4cab-babb-0156bedc1f74
   - order: 1
+    useCheckmark: false
     body: |-
       ## Backstory: Bombs
 
@@ -49,6 +50,7 @@ cards:
     citation: Flip For Timeline
     _key: card-2-0e310bf3-e687-4e67-b4e9-7d849176cd75
   - order: 2
+    useCheckmark: false
     body: >-
       * **March 2**: pkg bomb killed 39-year-old man in Northeast Austin.
 
@@ -60,6 +62,7 @@ cards:
       while walking down the street in a residential area of Southwest Austin.
     _key: card-3-c16a8a5d-6f37-4bb2-89bd-6c136398ff56
   - order: 3
+    useCheckmark: false
     body: >-
       ## Latest Incident:
 
@@ -73,6 +76,7 @@ cards:
       metal shrapnel and nails when it exploded.”A_ Austin Statesman
     _key: card-4-79b05fa0-f2a9-4eb3-b05f-a640996f843f
   - order: 4
+    useCheckmark: false
     body: >-
       ## What You Should Know:
 
@@ -83,10 +87,11 @@ cards:
       * Cops consider the tripwire bomb a ‘**significant change**’ – because of
       technology & target (seemingly random people).
 
-      * Tripwire use also indicates a **level of sophistication**, according to
+      * Tripwire use also indicates a**level of sophistication**, according to
       law enforcement.
     _key: card-5-362f0e9e-cce1-498d-99bc-b358afb24f2b
   - order: 5
+    useCheckmark: false
     body: >-
       # What Now?
 
@@ -98,11 +103,12 @@ cards:
       Why This Is Hard:
 
 
-      Average American homeowner receives **27 pkgs** **a year** (younger
-      generation receives even more). **Nearly 45 million pkgs delivered
-      everyday in U.S.A** (_Package Guard_)
+      Average American homeowner receives**27 pkgs****a year** (younger
+      generation receives even more).**Nearly 45 million pkgs delivered everyday
+      in U.S.A** (_Package Guard_)
     _key: card-6-7dad27d6-231c-40dd-b616-8cfb733b2741
   - order: 6
+    useCheckmark: true
     body: >-
       Law enforcement offering $100,000 reward for information leading to arrest
       of suspect or suspects.

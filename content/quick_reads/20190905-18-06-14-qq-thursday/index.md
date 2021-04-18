@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “Does @CBSNews know something I don’t about my plans and my future? I
       was at my daughter’s year-end Kindergarten event and they ran a story
@@ -31,6 +32,7 @@ cards:
       imminent White House departure.
     _key: card-1-500c2295-6ad3-411a-a142-94783c901cca
   - order: 1
+    useCheckmark: false
     body: >-
       > “Plague was confirmed this week in an Elmore County child. The child is
       recovering after receiving antibiotic treatment…. It is not known whether
@@ -42,6 +44,7 @@ cards:
       case of plague in over two decades.
     _key: card-2-acbaaeaa-3a64-49e3-bda5-a11da02e4030
   - order: 2
+    useCheckmark: false
     body: >-
       > “…it seems likely that Louboutin will be allowed to develop a monopoly
       for red-soled high-heeled shoes.’  
@@ -52,6 +55,7 @@ cards:
       battle to protect its signature red soles from copycats.
     _key: card-3-1a339d57-4705-47c9-94b0-35497cb255be
   - order: 3
+    useCheckmark: false
     body: >-
       > “Hosting the 2026 FIFA World Cup is a rare and important moment to
       demonstrate that we are all truly united through sport.”  
@@ -63,6 +67,7 @@ cards:
       potential host city.
     _key: card-4-a8ab4a03-fb80-4986-9512-b181277d62dd
   - order: 4
+    useCheckmark: false
     body: >-
       > “Our baby girl, Emmy, passed away yesterday. Never in a million years
       did we think we would experience a pain like this. Her love, her light,
@@ -74,6 +79,7 @@ cards:
       the second leading cause of death in children aged 1 - 14.
     _key: card-5-1af9deb1-d7bc-4893-8914-e49161febed5
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-06-14-qq-thursday/)'
     _key: card-10-1c19702c-d3eb-4174-9694-8abf974371a6
 

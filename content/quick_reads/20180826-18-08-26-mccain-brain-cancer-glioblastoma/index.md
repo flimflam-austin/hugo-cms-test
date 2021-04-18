@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # GLIOBLASTOMA
 
@@ -31,23 +32,25 @@ cards:
       What is it?
     _key: card-1-c2e74a5e-35e2-4dea-b6e8-435aa4d95c60
   - order: 1
+    useCheckmark: false
     body: >-
       ## Glioblastoma (GBM) 101
 
 
       * **Exact cause is unknown**
 
-      * Found in the **brain or spinal cord**
+      * Found in the**brain or spinal cord**
 
-      * Represents about **15% of all primary brain tumors**
+      * Represents about**15% of all primary brain tumors**
 
-      * VERY aggressive type of brain tumor, but it usually **does not spread**
+      * VERY aggressive type of brain tumor, but it usually**does not spread**
       to other parts of the body
 
-      * Patients typically undergo **surgery** to remove as much of the tumor as
-      possible, followed by **radiation** and/or **chemotherapy**
+      * Patients typically undergo**surgery** to remove as much of the tumor as
+      possible, followed by**radiation** and/or**chemotherapy**
     _key: card-2-0b6d65f4-e273-487d-9735-4163026fee8a
   - order: 2
+    useCheckmark: false
     body: >-
       ## Sen. McCain is NOT the first public figure to suffer from glioblastoma
 
@@ -61,6 +64,7 @@ cards:
       patients survive longer than 5 years.
     _key: card-3-4804482f-2749-44f2-9a66-93946443248d
   - order: 3
+    useCheckmark: false
     body: >-
       “He was good company, excellent company. I think I’m going to miss him
       more than I can say. We disagreed on most issues, but I admitted — but I
@@ -72,6 +76,7 @@ cards:
       Sen. McCain at Sen. Kennedy's Memorial Service, August 2009
     _key: card-4-b8d3fc37-3b83-4403-a311-d5d7003abf29
   - order: 4
+    useCheckmark: true
     body: >-
       U.S. senators Ted Kennedy and John McCain died on August 25 (Kennedy in
       2009 and McCain in 2018) from glioblastoma.

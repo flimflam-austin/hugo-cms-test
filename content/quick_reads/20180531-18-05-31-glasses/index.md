@@ -20,33 +20,36 @@ card_series: Health
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # “Four Eyes” Gets the Last Laugh
 
       What wearing glasses or contacts says about you…
     _key: card-1-5af713c3-6259-4b17-8b1b-781ca8adc6c9
   - order: 1
+    useCheckmark: false
     body: >-
       ## You Really Are Smarter – Science Says So.
 
 
-      The **need to wear glasses** is associated with **higher levels of
+      The**need to wear glasses** is associated with**higher levels of
       intelligence**, according to a new genetic study.
 
 
-      Researchers found intelligent people are **30% more likely** to have genes
+      Researchers found intelligent people are**30% more likely** to have genes
       related to poor eyesight.
 
 
       But that's not all...
     _key: card-2-83541512-d7de-47f0-a442-ace394183171
   - order: 2
+    useCheckmark: false
     body: >-
       # Weak Eyes, But…
 
 
-      * Researchers also found **_negative_** correlations between intelligence
-      & health problems like angina, lung cancer, & depression.
+      * Researchers also found**_negative_** correlations between intelligence &
+      health problems like angina, lung cancer, & depression.
 
       * But only correlations – intelligence doesn’t definitely mean you have
       lower risk of heart disease, for example.
@@ -59,6 +62,7 @@ cards:
       Solved: Smarter Sex?
     _key: card-3-0ba0daa0-4177-4a51-9c00-eac6acdb904c
   - order: 3
+    useCheckmark: true
     body: >-
       Approximately 6% of the U.S. population are visually impaired, according
       to gov't stats. Fun fact: 64% of Americans who need glasses or contacts

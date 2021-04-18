@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # QUICK QUOTES
 
@@ -33,6 +34,7 @@ cards:
       killed 29 miners.
     _key: card-1-9475d4cb-cf30-4ac4-98d1-bdf6d11bdc76
   - order: 1
+    useCheckmark: false
     body: >-
       > **“Let us teach our children the difference between right and wrong, and
       encourage them to be best in their individual paths in life.”**  
@@ -45,6 +47,7 @@ cards:
       Now](https://www.youtube.com/embed/F2awD02xit8?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-09e7275b-1182-4bd1-9bfd-952960385035
   - order: 2
+    useCheckmark: false
     body: >-
       > **“We think that what you can do is be tougher on Iran, address the
       concerns of the president and not throw the baby out with the bath
@@ -57,6 +60,7 @@ cards:
       agreement.
     _key: card-3-b9dfbcc4-6c79-4c94-abd9-81fea30bd987
   - order: 3
+    useCheckmark: false
     body: >-
       > **“Russia should be modern and dynamic, it should be ready to accept the
       call of the times.”**  
@@ -68,6 +72,7 @@ cards:
       Stalin.
     _key: card-4-6377f8a2-8ca1-4801-966d-7910387342ab
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-05-08-quick-quotes-may-8/)'
     _key: card-10-5f9ac53b-6347-4928-85d0-98354cbcb02f
 

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       In January 2018, the National Guard started offering a $20,000 bonus for
       new recruits. The Guard retweeted it during the news of the Presidential

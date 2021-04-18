@@ -20,11 +20,13 @@ card_series: Current Events
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## The FDA approves the the first COVID-19  
       at-home test.
     _key: be3ef8e55be0
   - order: 1
+    useCheckmark: false
     body: >-
       ## Why It Matters:
 
@@ -36,10 +38,11 @@ cards:
       protective gear (even though the majority of people tested nationwide test
       negative for COVID-19).
 
-      * **Transmission**: If you **are** sick, this test keeps you away from
+      * **Transmission**: If you**are** sick, this test keeps you away from
       other people.
     _key: e5d296be58b3
   - order: 2
+    useCheckmark: false
     body: >-
       ## What To Know:
 
@@ -57,6 +60,7 @@ cards:
       will receive priority.
     _key: 46dfafd8182a
   - order: 3
+    useCheckmark: false
     body: >-
       ## How It Works:
 
@@ -74,6 +78,7 @@ cards:
       offices, etc.
     _key: 5e5d48b98c6c
   - order: 4
+    useCheckmark: true
     body: >-
       To date, the FDA has authorized more than 50 COVID-19 diagnostic tests and
       4 antibody (aka serological) tests. Pres. Trump is using the Defense

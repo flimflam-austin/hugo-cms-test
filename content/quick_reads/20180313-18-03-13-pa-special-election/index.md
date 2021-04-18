@@ -16,6 +16,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Why is Pennsylvania’s “Special Election”  
 
@@ -25,7 +26,7 @@ cards:
       Voters in Pennsylvania’s 18th Congressional District will head to the
       polls Tuesday to vote for a new member of Congress…  
 
-      EVEN THOUGH the district will **disappear** after November’s election.
+      EVEN THOUGH the district will**disappear** after November’s election.
 
 
 
@@ -33,6 +34,7 @@ cards:
       FLIP HERE FOR WHY
     _key: card-1-1905b985-edb7-4a06-966f-94c4ce985cc9
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Disappearing District
 
@@ -47,23 +49,25 @@ cards:
       Gerry-What?](https://www.cbsnews.com/news/drawing-the-lines-on-gerrymandering/)
     _key: card-2-a74f2e77-8284-430b-8fd6-88960322fa84
   - order: 2
+    useCheckmark: false
     body: >-
       All Eyes on PA-18  
 
       Why It Matters:
 
 
-      * Pennsylvania is a **swing state**.
+      * Pennsylvania is a**swing state**.
 
-      * In 2016, **Trump won** PA-18 by about 20 percentage points.
+      * In 2016,**Trump won** PA-18 by about 20 percentage points.
 
-      * Even though PA-18’s registered **Democrats outnumber Republicans**, only
+      * Even though PA-18’s registered**Democrats outnumber Republicans**, only
       two Dems have held the seat in 100+ years.
 
       * **$15.6+ million:** Amount spent by both sides in the surprisingly close
       race.
     _key: card-3-1c27d3ef-349f-4a7e-8cec-2d49e8444d21
   - order: 3
+    useCheckmark: true
     body: >-
       Would you donate money to a political cause in a district that's
       disappearing?

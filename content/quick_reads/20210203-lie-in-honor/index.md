@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## A Special Honor
 
@@ -30,6 +31,7 @@ cards:
       of government.
     _key: 6102e7ad19d8
   - order: 1
+    useCheckmark: false
     body: >-
       > _“Officer Sicknick was responding to the riots on Wednesday, January 6,
       2021, at the U.S. Capitol and was injured while physically engaging with
@@ -40,6 +42,7 @@ cards:
       The U.S. Capitol Police.
     _key: 0e8d1b8a4cf4
   - order: 2
+    useCheckmark: false
     body: >-
       > “There really aren’t enough kind words in any language to describe how
       sweet Brian was. He was truly a lovely, humble soul. We are missing him
@@ -52,6 +55,7 @@ cards:
       passionate about," never wanting to arrive late or call in sick.
     _key: 4a76a6e1bd80
   - order: 3
+    useCheckmark: false
     body: >-
       ## Lie in State Vs. Lie In Honor
 
@@ -68,6 +72,7 @@ cards:
       * However, eminent private citizens may “lie in honor.”
     _key: 17f7de488743
   - order: 4
+    useCheckmark: false
     body: >-
       ## Lie In Honor
 
@@ -83,9 +88,11 @@ cards:
       received the honor in 2018.
     _key: 8097f776602d
   - order: 5
+    useCheckmark: false
     body: "## A Special Support\n\n* Catafalque (cat-e-falk):\_a frame that supports a coffin.\n* Pres. Lincoln’s catafalque used after his assassination has held most of the coffins that have lain in state.\n* The catafalque has had minor restorations since 1865 (retrofitted to hold larger coffins, drapery replaced), but it remains like the original for the most part."
     _key: 7d51098543d0
   - order: 6
+    useCheckmark: true
     body: >-
       Officer Sicknick's service began before he joined the Capitol Police. He
       served in the New Jersey National Guard and deployed twice, once overseas

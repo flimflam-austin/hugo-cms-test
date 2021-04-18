@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Dinosaur Sells at Auction Unearthing Ethical Debate
 
@@ -31,6 +32,7 @@ cards:
       flip: for the scoop
     _key: card-1-412ddbcc-5fa8-4850-afa1-a707a0ccf4dc
   - order: 1
+    useCheckmark: false
     body: >-
       ## Wait, I Could’ve Bought A… DINOSAUR?!
 
@@ -39,7 +41,7 @@ cards:
 
       * **Sold Monday for $2.4M** at auction at Eiffel Tower in Paris.
 
-      * 30 ft long, skeleton is **unusually complete, almost 70% whole.**
+      * 30 ft long, skeleton is**unusually complete, almost 70% whole.**
 
       * **May be a new species:** major anatomical differences from all known
       dinosaurs.
@@ -50,6 +52,7 @@ cards:
       who's lucky winner?
     _key: card-2-dd09207d-d8f2-481b-8155-511bc58f0ead
   - order: 2
+    useCheckmark: false
     body: >-
       ## Going once… going twice…
 
@@ -65,6 +68,7 @@ cards:
       * Paleontologists worry science will be priced out of auctions.
     _key: card-3-ff12dbf5-0796-4373-8b08-2ae3a9211254
   - order: 3
+    useCheckmark: true
     body: >-
       Dinosaur sale was totally legal. U.S. laws say fossils found on private
       land belong to the landowner. But if it is a new species, who gets to name

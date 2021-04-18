@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Historical Context  
 
@@ -29,6 +30,7 @@ cards:
       the second time), a look at how past is precedent.
     _key: 3d63ba0fa5c3
   - order: 1
+    useCheckmark: false
     body: >-
       > _“The President, Vice President and all civil officers of the United
       States, shall be removed from office on impeachment for, and conviction
@@ -41,6 +43,7 @@ cards:
       representatives.
     _key: 0ee974a39907
   - order: 2
+    useCheckmark: false
     body: >-
       ## How It Works:
 
@@ -55,6 +58,7 @@ cards:
       from office) requires a 2/3 supermajority (67 of 100).
     _key: fb23fd4d8885
   - order: 3
+    useCheckmark: false
     body: >-
       ## Big Picture
 
@@ -69,6 +73,7 @@ cards:
       House.
     _key: 0599a63213f8
   - order: 4
+    useCheckmark: false
     body: >-
       ## Pres. Andrew Johnson
 
@@ -84,6 +89,7 @@ cards:
       impeachment attempt by Congress; it quickly failed.
     _key: b01699b71d60
   - order: 5
+    useCheckmark: false
     body: >-
       ## Pres. Bill Clinton
 
@@ -99,6 +105,7 @@ cards:
       partisan lines.
     _key: d94eddef87ab
   - order: 6
+    useCheckmark: false
     body: >-
       ## Pres. Richard Nixon
 
@@ -114,6 +121,7 @@ cards:
       resign.
     _key: 4ecc6004e424
   - order: 7
+    useCheckmark: true
     body: >-
       After the House votes, what happens next? After the House voted in 2019 to
       impeach Pres. Trump for abuse of power and obstruction of Congress, the

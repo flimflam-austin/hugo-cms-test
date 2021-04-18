@@ -16,6 +16,7 @@ card_series: Style
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       Not everyone liked "The Hat" but love it or hat it, the First Lady made
       news with her clothes and grace during the FIRST STATE VISIT from a major

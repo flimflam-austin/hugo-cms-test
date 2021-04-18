@@ -20,6 +20,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Some Things Are Just…  
 
@@ -35,6 +36,7 @@ cards:
       flip](https://instagram.com/p/BfAqRn_gbVu/)
     _key: card-1-f8793ddf-7a6d-43d2-97c5-9d77e0fb32de
   - order: 1
+    useCheckmark: false
     body: >-
       # Ted “Shred” Ligety
 
@@ -49,6 +51,7 @@ cards:
       * Last year at this time? He was recovering from back surgery.
     _key: card-2-b5b053a4-59f6-4997-b897-6854b6ebdb26
   - order: 2
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-02-13-ligety-video/)'
     _key: card-10-68b38d2e-b84c-4521-92d2-044b11512cf2
 

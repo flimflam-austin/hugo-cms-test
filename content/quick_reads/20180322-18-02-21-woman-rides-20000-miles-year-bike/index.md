@@ -16,11 +16,12 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## “Hun, you really got that windswept look.”
 
 
-      What a gas station clerk said to ultra-cyclist **Lael Wilcox** after she
+      What a gas station clerk said to ultra-cyclist**Lael Wilcox** after she
       removed her helmet and hadn’t showered for 17-days.
 
 
@@ -30,6 +31,7 @@ cards:
       Why?
     _key: card-1-c31a5c2c-bbb9-4042-b986-32bb1695f401
   - order: 1
+    useCheckmark: false
     body: >-
       # She Loves To Cycle
 
@@ -39,13 +41,14 @@ cards:
         
         
       Wilcox biked from Alaska to America’s southern border andA won
-      cross-country races – **beating men & women**.
+      cross-country races –**beating men & women**.
 
 
       [Click Here To See Her
       Ride:](https://thescene.com/watch/wired/how-this-woman-rides-20-000-miles-a-year-on-her-bike)
     _key: card-2-2d836213-74f9-4497-9452-67387ba9fcbf
   - order: 2
+    useCheckmark: true
     body: >-
       Wilcox keeps everything she needs on her bike - learn what she never
       leaves home without.

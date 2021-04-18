@@ -20,12 +20,14 @@ card_series: Current Events
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       ## U.S. Supreme Court Justice Amy Coney Barrett
 
       Three Historic Firsts For The 115th Justice
     _key: 39d6646b6304
   - order: 1
+    useCheckmark: false
     body: >-
       ## First Nominated & Confirmed Within 3 Months Before Election
 
@@ -33,30 +35,33 @@ cards:
       * Justice Barrett is the only nominee ever appointed & confirmed within
       three months prior to Election Day.
 
-      * **Sept 26:** Nomination; **Oct 12:** 1st Senate cmte hearing; **Oct
-      26:** Final Senate vote.
+      * **Sept 26:** Nomination;**Oct 12:** 1st Senate cmte hearing;**Oct 26:**
+      Final Senate vote.
 
-      * **43:** Average # of days from nomination to 1st Senate cmte hearing.
-      **70:** Average # of days from nomination to final Senate vote.
+      * **43:** Average # of days from nomination to 1st Senate cmte
+      hearing.**70:** Average # of days from nomination to final Senate vote.
     _key: 0cda13abd5e3
   - order: 2
-    body: "## First Mother:  \nSchool-Aged Children\n\n* Justice Barrett is the only mother of school-aged kids to serve on the Court.\n* Justice Barrett is the **fifth woman**\_and\_**third mother** to join the Court. Justices Sandra Day O’Connor and Ruth Bader Ginsburg had older children when sworn in.\n* Justice Barrett is a mother of seven – **six of whom are under age 18.\_**Her eldest is a college student."
+    useCheckmark: false
+    body: "## First Mother:  \nSchool-Aged Children\n\n* Justice Barrett is the only mother of school-aged kids to serve on the Court.\n* Justice Barrett is the**fifth woman**\_and\_**third mother** to join the Court. Justices Sandra Day O’Connor and Ruth Bader Ginsburg had older children when sworn in.\n* Justice Barrett is a mother of seven –**six of whom are under age 18.\_**Her eldest is a college student."
     _key: 3021b7a5e909
   - order: 3
+    useCheckmark: false
     body: >-
       * First From Notre Dame
 
       * Justice Barrett is the only sitting justice who didn’t graduate from
       either Harvard or Yale law schools.
 
-      * Justice Barrett is the only justice **ever** to graduate from **Notre
-      Dame Law School**.
+      * Justice Barrett is the only justice**ever** to graduate from**Notre Dame
+      Law School**.
 
       * Justice Barrett is the most recent justice to graduate from a non-Ivy
       league law school, the first since Justice John Paul Stevens, who retired
       in 2010.
     _key: a8c44c881489
   - order: 4
+    useCheckmark: true
     body: >-
       The Senate Historical Office says this is the first time in 150 years no
       one from the minority party voted for the majority's choice. Speaking of

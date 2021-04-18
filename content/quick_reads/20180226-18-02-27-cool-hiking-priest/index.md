@@ -20,6 +20,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       “Is This The World’s Toughest Commute?’  
 
@@ -37,6 +38,7 @@ cards:
       Now](https://www.youtube.com/embed/r1QXpmv-y2E?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-f2c84109-75db-435b-8dab-3c80b52b9ce2
   - order: 1
+    useCheckmark: true
     body: >-
       "The reason I became a priest is to teach the people what I have learned,
       so they could walk in my footsteps"

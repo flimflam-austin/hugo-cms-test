@@ -20,6 +20,7 @@ card_series: what to know
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Is It Safe?
 
@@ -28,29 +29,30 @@ cards:
       during the pandemic.
     _key: 3c6e5362c7e4
   - order: 1
+    useCheckmark: false
     body: >-
       ## How You Clean
 
 
-      * The CDC says calls to Poison Control related to the **use of cleaners
-      and disinfectants (specifically bleach and hand sanitizer)** have
-      increased.
+      * The CDC says calls to Poison Control related to the**use of cleaners and
+      disinfectants (specifically bleach and hand sanitizer)** have increased.
 
-      * Concerns increased across **all age groups** with the largest increase
-      related to **inhalation**.
+      * Concerns increased across**all age groups** with the largest increase
+      related to**inhalation**.
 
       * Examples of ER trips? Woman had difficulty breathing after mixing bleach
       with vinegar in her kitchen sink. Child ate hand sanitizer left on the
       counter.
     _key: ffb22b7fc7ed
   - order: 2
+    useCheckmark: false
     body: >-
       ## What You Eat
 
 
       New information from the FDA: Whether it’s the food you eat via take-out
       or food you buy in the store wrapped in its own packaging, the FDA says
-      there’s **no current evidence of either** being associated with
+      there’s**no current evidence of either** being associated with
       transmission of COVID-19.
 
 
@@ -58,6 +60,7 @@ cards:
       you can take “if you wish.”
     _key: 8fb03eb60155
   - order: 3
+    useCheckmark: false
     body: >-
       ## Drinking “Quarantinis”
 
@@ -71,6 +74,7 @@ cards:
       because of its negative impact on mental health and the immune system.
     _key: bfa00ebed3fd
   - order: 4
+    useCheckmark: true
     body: >-
       The World Health Organization's regional European office also "encourages
       governments to enforce measures which limit alcohol consumption" during

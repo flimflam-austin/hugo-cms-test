@@ -20,9 +20,11 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
-    body: '## What to know about a **first-of-its-kind quick test** for COVID-19.'
+    useCheckmark: false
+    body: '## What to know about a**first-of-its-kind quick test** for COVID-19.'
     _key: d737f83a6ca7
   - order: 1
+    useCheckmark: false
     body: |-
       ## What To Know
 
@@ -35,6 +37,7 @@ cards:
       Results in 15 minutes.
     _key: 60fd375e6288
   - order: 2
+    useCheckmark: false
     body: >-
       “…positive results from antigen tests are highly accurate, but there is a
       higher chance of false negatives, so negative results do not rule out
@@ -48,11 +51,12 @@ cards:
       negative results need subsequent testing.
     _key: 334da370b612
   - order: 3
+    useCheckmark: false
     body: >-
       ## Context & Concerns
 
 
-      * The World Health Organization advised against antigen tests in **early
+      * The World Health Organization advised against antigen tests in**early
       April**.
 
       * WHO: Significant chance for false negatives: “half or more of COVID-19
@@ -60,9 +64,10 @@ cards:
       patients tested.”
 
       * WHO: Antigen tests *could be* important “triage tests” to rapidly
-      identify patients **likely** to have COVID.
+      identify patients**likely** to have COVID.
     _key: eff8bbae914e
   - order: 4
+    useCheckmark: false
     body: >-
       ## Can You Get Tested?
 
@@ -78,6 +83,7 @@ cards:
       COVID-19 test (ex: full protective gear for each & every test).
     _key: 77d0e5770183
   - order: 5
+    useCheckmark: false
     body: >-
       ## COVID-19 Test: Cheat Sheet
 
@@ -95,6 +101,7 @@ cards:
       COVID-19 (AFTER exposure to COVID).
     _key: 3addc8b2cd64
   - order: 6
+    useCheckmark: true
     body: >-
       Fmr. FDA commissioner Scott Gottlieb told the Washington Post: “We need
       these kinds of tests...This is a nice complement to the overall testing

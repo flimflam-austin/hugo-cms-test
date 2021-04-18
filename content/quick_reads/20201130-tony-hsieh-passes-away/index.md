@@ -20,6 +20,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > _“The ultimate definition of success is you could lose everything that
       you have and truly be okay with it. Your happiness isn’t based on external
@@ -27,6 +28,7 @@ cards:
     citation: TONY HSIEH
     _key: 5eb8c816d087
   - order: 1
+    useCheckmark: true
     body: >-
       Hsieh, the 46-yr-old former CEO of Zappos, died Friday from injuries
       sustained during a house fire. Viewed as a revolutionary business leader,

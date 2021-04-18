@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > New name, new cases, and new concerns about a possibility of a global
       pandemic.  
@@ -28,6 +29,7 @@ cards:
     citation: CORONAVIRUS
     _key: 01ebe0574436
   - order: 1
+    useCheckmark: false
     body: >-
       # NEW NAME
 
@@ -43,6 +45,7 @@ cards:
       “Wuhan Coronavirus.”
     _key: f9bb6182b608
   - order: 2
+    useCheckmark: false
     body: >-
       ## NEW CASES
 
@@ -56,6 +59,7 @@ cards:
       people who get COVID-19 will have a mild case and recover.
     _key: 2d7b81698257
   - order: 3
+    useCheckmark: false
     body: >-
       ## New Economic Contagion
 
@@ -68,6 +72,7 @@ cards:
       further economic ripple effects in Asia, Europe and beyond.
     _key: ad58c271edea
   - order: 4
+    useCheckmark: false
     body: >-
       ## NEW QUARANTINES
 
@@ -84,6 +89,7 @@ cards:
       * Quarantine applies to those infected and healthy; lasts 14 days.
     _key: b9cd8772642e
   - order: 5
+    useCheckmark: false
     body: >-
       > “The potential is there…Whether we will get there or not, we don’t know.
       I’m holding my breath and crossing my fingers.”  
@@ -95,6 +101,7 @@ cards:
       very confusing, and we have to be skeptical."
     _key: a7af6438d936
   - order: 6
+    useCheckmark: true
     body: >-
       The mystery remains on how this virus is spreading. With most infections
       coming from China, can it travel on Chinese-made goods? With no single

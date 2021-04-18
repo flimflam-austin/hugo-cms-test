@@ -20,6 +20,7 @@ card_series: From the President's Desk
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Pres. Trump & Kim Jong Un Sign A Historic Blueprint for Peace
 
@@ -31,20 +32,22 @@ cards:
       peace.”
     _key: card-1-17d15192-0f24-486c-9f19-c113d59607bd
   - order: 1
+    useCheckmark: false
     body: >-
       ## What It Says:
 
 
-      > “Chairman Kim and I just signed a joint statement in which he
-      **reaffirmed his unwavering commitment to complete denuclearizaton of the
-      Korean Peninsula**. We also agreed to vigorous negotiations to implement
-      the agreement as soon as possible. And he wants to do that.”  
+      > “Chairman Kim and I just signed a joint statement in which
+      he**reaffirmed his unwavering commitment to complete denuclearizaton of
+      the Korean Peninsula**. We also agreed to vigorous negotiations to
+      implement the agreement as soon as possible. And he wants to do that.”  
         
         
         
       Pres. Trump said NK will begin destroying missile testing site soon.
     _key: card-2-66e78c32-b38d-46ba-8c1c-b91475c96216
   - order: 2
+    useCheckmark: false
     body: >-
       ## What It Doesn’t Say:
 
@@ -60,16 +63,18 @@ cards:
       * NK’s human rights violations discussed; NO promises made.
     _key: card-3-0a532483-4bb6-4a6c-9d81-d41d72a6399a
   - order: 3
+    useCheckmark: false
     body: >-
       > “Our unprecedented meeting, the first between an American president and
       a leader of North Korea, proves that real change is indeed possible. My
-      meeting with Chairman Kim was honest, direct and productive…. **We’re
+      meeting with Chairman Kim was honest, direct and productive….**We’re
       prepared to start a new history and we’re ready to write new chapter
       between our two nations**.”  
         
       Pres. Trump's remarks following Singapore Summit
     _key: card-4-038f0157-b874-4b89-ad18-f22f7915e1c2
   - order: 4
+    useCheckmark: false
     body: >-
       > **“I think without Otto, this would not have happened…. Otto did not die
       in vain. He had a lot to do with us being here today.”**  
@@ -81,6 +86,7 @@ cards:
       and died days later.
     _key: card-5-c5a5a95a-242e-48e3-bac2-f64dfcac6eef
   - order: 5
+    useCheckmark: true
     body: >-
       The joint statement signed by Pres. Trump & Kim Jong Un is short on
       details. Pres. Trump said there wasn't enough time, but that more will be

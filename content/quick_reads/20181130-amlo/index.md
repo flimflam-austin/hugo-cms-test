@@ -16,6 +16,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       U.S. Vice President Pence & Ivanka Trump will attend AMLO's inauguration,
       as will the Pres. of Venezuela, fellow leftist, NicolA!s Maduro. On

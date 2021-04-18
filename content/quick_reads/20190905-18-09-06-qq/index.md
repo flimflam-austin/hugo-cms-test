@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “Monumental day for the sport of surfing but really way beyond!!!”  
         
@@ -31,6 +32,7 @@ cards:
       equality." We don't know the current prize difference.
     _key: card-1-e13a198e-1008-40e4-a7b5-896e4fc9e2fb
   - order: 1
+    useCheckmark: false
     body: >-
       "No one is above the law in our constitutional system…. Under our system
       of government, the executive branch is subject to the law, subject to the
@@ -46,6 +48,7 @@ cards:
       Now](https://www.youtube.com/embed/KxqNyflN2xU?enablejsapi=1&autoplay=1&rel=0)
     _key: card-2-1d85a2f6-e6ef-4852-a3c2-06344b71ec17
   - order: 2
+    useCheckmark: false
     body: >-
       > “It’s impossible to evaluate how important it is without knowing how
       high up the author is. There are hundreds of people at the WH who think
@@ -57,6 +60,7 @@ cards:
       against him in the White House.
     _key: card-3-b8d4067b-6f52-4bd0-b303-92a2a2a758dd
   - order: 3
+    useCheckmark: false
     body: >-
       > "I don’t want to search until I’m 80. But if I have to, I will."  
         
@@ -67,6 +71,7 @@ cards:
       official federal database.
     _key: card-4-230fb365-5119-45d0-9caf-5b26df0765d2
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-09-06-qq/)'
     _key: card-10-9269b5c4-fdb4-4e44-82c3-deea27370ce0
 

@@ -20,6 +20,7 @@ card_series: Powermom
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # SERENA
 
@@ -36,6 +37,7 @@ cards:
       Now](https://www.youtube.com/embed/cNABSm-jUNk?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-c841fc91-963f-4eaa-8015-6c626dfe6806
   - order: 1
+    useCheckmark: false
     body: >-
       ## Did You Know?
 
@@ -49,6 +51,7 @@ cards:
       she’d never heard of Reddit & he’d never watched her play tennis.
     _key: card-2-4794735b-5ce3-4d32-91d4-9529679ca3ed
   - order: 2
+    useCheckmark: false
     body: >-
       Some of Serena’s  
 
@@ -58,13 +61,14 @@ cards:
       * **Countless wins include:** 4 Olympic gold medals, 72 career singles
       titles, 23 doubles titles & 2 mixed doubles titles.
 
-      * Earned **$84M+** in prize money -A **TWICE as much as any other female
+      * Earned**$84M+** in prize money -A**TWICE as much as any other female
       athlete.**
 
-      * After designing for Nike & HSN, she is launching her **own fashion
-      line** on May 20th.
+      * After designing for Nike & HSN, she is launching her**own fashion line**
+      on May 20th.
     _key: card-3-78d9d609-ccf5-43f7-ada1-7af6b1aa2e97
   - order: 3
+    useCheckmark: true
     body: >-
       What's next for this #PowerMOM besides scoring her 24th & 25th Grand Slam
       title? BTW she scored her 23rd while pregnant! Serena recently told VOGUE:

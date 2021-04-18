@@ -19,6 +19,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       #   
 
@@ -34,6 +35,7 @@ cards:
       (or a little bit of both)
     _key: a37185e3a21d
   - order: 1
+    useCheckmark: false
     body: >-
       >   
 
@@ -48,6 +50,7 @@ cards:
       put people at triple the risk of hospitalization.
     _key: 0579c6c833a1
   - order: 2
+    useCheckmark: false
     body: >-
       > “Generally, providing an incentive is a legal method for employers to
       encourage vaccination…”
@@ -60,6 +63,7 @@ cards:
       without a vaccination record.
     _key: 599a76f6871c
   - order: 3
+    useCheckmark: false
     body: >-
       ##   
 
@@ -76,6 +80,7 @@ cards:
       the vaccination site.
     _key: 59ba377ed17d
   - order: 4
+    useCheckmark: true
     body: >-
       >   
 

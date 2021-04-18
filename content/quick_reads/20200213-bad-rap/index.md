@@ -20,15 +20,17 @@ card_series: Health
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # BAD RAP?
 
 
-      We’re eating more tree nuts than ever…and they may have **FEWER** calories
+      We’re eating more tree nuts than ever…and they may have**FEWER** calories
       than we thought.
     citation: WHAT TO KNOW
     _key: c947de064415
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKSTORY
 
@@ -42,6 +44,7 @@ cards:
       therefore our bodies don’t absorb as much energy (calories).
     _key: ad2166f513b1
   - order: 2
+    useCheckmark: false
     body: >-
       ## About The Studies
 
@@ -56,6 +59,7 @@ cards:
       labels: almonds (-32%), walnuts (-21%) & pistachios (-5%).
     _key: 696d51bb1b6f
   - order: 3
+    useCheckmark: false
     body: >-
       ## WHY?
 
@@ -66,6 +70,7 @@ cards:
       Dr. David Baer, one of the USDA researchers involved in the studies.
     _key: d374f131bc24
   - order: 4
+    useCheckmark: false
     body: >-
       ## Also Worth Noting
 
@@ -79,6 +84,7 @@ cards:
       funding.
     _key: b682880e9fbc
   - order: 5
+    useCheckmark: false
     body: >-
       ## BIG PICTURE
 
@@ -93,6 +99,7 @@ cards:
       "one-size-fits-all."
     _key: 283049ddd1c1
   - order: 6
+    useCheckmark: true
     body: >-
       Kind Bars recently announced it's cutting the calorie counts of its nut
       bars by 10-30 calories per bar because of the new research. Are

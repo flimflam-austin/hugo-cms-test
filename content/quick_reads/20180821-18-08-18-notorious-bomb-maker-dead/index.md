@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # “MOST WANTED MAN IN THE WORLD”
 
@@ -29,6 +30,7 @@ cards:
     citation: Why It Matters
     _key: card-1-f47c0947-8f35-4737-9a81-f11695605a7b
   - order: 1
+    useCheckmark: false
     body: >-
       > “A good chunk of what you have to take out of your bag and what has to
       be screened is because of (him) and his capabilities of putting explosives
@@ -40,6 +42,7 @@ cards:
       al Asiri.
     _key: card-2-52b88063-c921-4bc2-810a-7648fb2df778
   - order: 2
+    useCheckmark: false
     body: >-
       ## TERRORIST TARGET
 
@@ -49,13 +52,14 @@ cards:
 
       * Master mind bomb-maker.
 
-      * **Notorious for teaching terrorists** **all over the world** **how to
-      make effective, innovative bombs**.
+      * **Notorious for teaching terrorists****all over the world****how to make
+      effective, innovative bombs**.
 
       * Responsible for underwear bomber technology in 2009 and disguising bombs
       as printers.
     _key: card-3-90787488-bf91-445b-92d9-ac2b195cc7fb
   - order: 3
+    useCheckmark: false
     body: |-
       ## What You Should Know:
 
@@ -68,6 +72,7 @@ cards:
       **Reportedly: working on laptop or tablet bombs.**
     _key: card-4-7ed4910d-710e-4b59-8719-00274412c3a0
   - order: 4
+    useCheckmark: false
     body: >-
       ## Important Context
 
@@ -82,6 +87,7 @@ cards:
       Editor of FDD's Long War Journal
     _key: card-5-987d9ce2-1897-4037-b4f0-42380dbd9723
   - order: 5
+    useCheckmark: true
     body: >-
       Timing matters: Monday Aug 20-21 is an important worldwide Muslim holiday
       calledA "Eid" - aka "Festival of The Sacrifice." At one time, the State

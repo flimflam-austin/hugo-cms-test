@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Dueling Headlines
 
@@ -33,6 +34,7 @@ cards:
     citation: Why This Matters
     _key: card-1-a0112c61-ef8e-49e3-b7db-7f8c5dd7e49b
   - order: 1
+    useCheckmark: false
     body: >-
       Kim Jong Un:  
 
@@ -49,6 +51,7 @@ cards:
       Korea, and it’s ally, the U.S.
     _key: card-2-d1c282ce-2b69-4a40-93ef-af7f2fed393e
   - order: 2
+    useCheckmark: false
     body: >-
       ## U.S. & SoKo Trade Deal
 
@@ -64,6 +67,7 @@ cards:
       on Easter Sunday, April 1st.
     _key: card-3-c5136d5f-818b-445f-be83-0bc20eba0e01
   - order: 3
+    useCheckmark: false
     body: >-
       ## What’s At Stake:
 
@@ -78,6 +82,7 @@ cards:
       May.
     _key: card-4-2cb4295f-8180-45cb-9653-d900157757d4
   - order: 4
+    useCheckmark: true
     body: >-
       Reminder: Approx 25,000 U.S. troops stationed in South Korea. Interesting
       Fact: This maybe Kim Jong Un’s first foreign trip after taking power in

@@ -16,6 +16,7 @@ card_series: Quote of the Day
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: true
     body: >-
       One of the highest-paid supermodels in the world reveals her rough start
       in the industry, and her struggle with panic attacks & suicidal thoughts

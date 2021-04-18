@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # The People’s Tree
 
@@ -32,6 +33,7 @@ cards:
       the 2020 Capitol Christmas Tree
     _key: 6abbfa313dc5
   - order: 1
+    useCheckmark: false
     body: >-
       ## Backstory
 
@@ -47,11 +49,12 @@ cards:
       color.” Viewed 360 degrees, it can have no bad sides!
     _key: 703b2c05f5ed
   - order: 2
+    useCheckmark: false
     body: >-
       ## Finding The Perfect Tree
 
 
-      * This year’s tree comes from **Colorado**.
+      * This year’s tree comes from**Colorado**.
 
       * Usually chosen in person, this year’s selection process was described as
       “online dating” – with photos and video sent back and forth to find the
@@ -63,6 +66,7 @@ cards:
       for decoration and celebration.
     _key: ab332830b4c4
   - order: 3
+    useCheckmark: false
     body: >-
       “I just thought about all the peace and love and potential for respect,
       communication, goodwill toward men, Americans and the whole world… And so
@@ -74,6 +78,7 @@ cards:
       of a truck, to Washington D.C. to become the Capitol Christmas Tree.
     _key: e9990e776b3c
   - order: 4
+    useCheckmark: true
     body: >-
       The National Park Service member who found this tree will plant a new one
       in its place; he's also responsible for planting 90,000 new trees in

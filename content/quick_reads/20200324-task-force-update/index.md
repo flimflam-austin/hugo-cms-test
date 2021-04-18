@@ -20,6 +20,7 @@ card_series: what to know
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # White House  
       COVID-19 Task Force
@@ -27,6 +28,7 @@ cards:
       WHAT WE LEARNED TODAY
     _key: 0c4002f20115
   - order: 1
+    useCheckmark: false
     body: >-
       > “We still see there is less severity in children, that should be
       reassuring to the moms and dad out there.”
@@ -38,6 +40,7 @@ cards:
       said every age group can experience a very severe illness.
     _key: c3f561680192
   - order: 2
+    useCheckmark: false
     body: >-
       > “If you are sitting on a warehouse with masks, surgical masks, you will
       be hearing a knock on your door.”
@@ -50,6 +53,7 @@ cards:
       have to worry about."
     _key: 0870c949b466
   - order: 3
+    useCheckmark: false
     body: >-
       “It’s going to be bad…We’re trying to make it much, much less bad.”  
         
@@ -60,6 +64,7 @@ cards:
       this Monday.
     _key: 609c2e2af3fb
   - order: 4
+    useCheckmark: false
     body: >-
       > “Each state, in each hotspot in the United States, is going to be its
       own curve because the seeds came in at different times.”
@@ -72,6 +77,7 @@ cards:
       tests are positive whereas it's less than 8% elsewhere in the U.S..
     _key: 973013fc22f8
   - order: 5
+    useCheckmark: true
     body: Full presser on our source page.
     citation: VIEW SOURCES
     _key: fadab50f4570

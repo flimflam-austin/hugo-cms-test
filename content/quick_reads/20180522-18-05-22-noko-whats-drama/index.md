@@ -20,12 +20,13 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # What’s The Drama?
 
 
       South Korean President heads to the White House to meet with President
-      Trump as North Korea threatens to cancel June summit… and _Libya_ is at
+      Trump as North Korea threatens to cancel June summit… and_Libya_ is at
       center of debate?
 
 
@@ -33,6 +34,7 @@ cards:
     citation: 'Flip: Whats Going On?'
     _key: card-1-14f96006-f96e-489a-a4fd-ef7841f0da3d
   - order: 1
+    useCheckmark: false
     body: >-
       ## “Denuclearization”
 
@@ -47,6 +49,7 @@ cards:
       denuclearization – this sparked trouble in NoKo.
     _key: card-2-87cce8fb-7e20-4fff-88be-6f7b51fcb21c
   - order: 2
+    useCheckmark: false
     body: >-
       ## Quick Catch-Up: Libya
 
@@ -61,6 +64,7 @@ cards:
       and to keep America from meddling in its affairs.
     _key: card-3-15ee3561-e97a-461d-99f0-ff64f2f41a62
   - order: 3
+    useCheckmark: false
     body: >-
       ## Debate: Denuclearization
 
@@ -68,12 +72,12 @@ cards:
       * NoKo views Bolton’s comments as “an awfully sinister move to impose on
       our dignified state the destiny of Libya…”
 
-      * Could “denuclearization” for North Korea mean no nukes on **ENTIRE
-      KOREAN PENINSULA**? The U.S. doesn’t have nukes in South Korea but a key
-      military base. Could that change?A **Is that a non-starter for the
-      summit?**
+      * Could “denuclearization” for North Korea mean no nukes on**ENTIRE KOREAN
+      PENINSULA**? The U.S. doesn’t have nukes in South Korea but a key military
+      base. Could that change?A**Is that a non-starter for the summit?**
     _key: card-4-4d169e64-61ff-4855-8ae4-a4ab1bc3e3b1
   - order: 4
+    useCheckmark: true
     body: >-
       SmartHER Tip: Watch what's going on with China (NoKo trade partner). The
       U.S. said it's putting "the trade war on China (tariffs) on hold" after

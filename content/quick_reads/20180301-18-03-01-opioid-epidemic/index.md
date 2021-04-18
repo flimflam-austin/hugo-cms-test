@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Killer On The Loose
 
@@ -30,6 +31,7 @@ cards:
       Flip Here For Answer
     _key: card-1-1ef8ec0a-6fbe-4ce7-83d4-5ddc2c635892
   - order: 1
+    useCheckmark: false
     body: >-
       # America’s Opioid Crisis
 
@@ -42,6 +44,7 @@ cards:
       and distributors for illegal practices.
     _key: card-2-875c2206-8cda-4724-bcb8-717113110044
   - order: 2
+    useCheckmark: false
     body: >-
       > ‘Opioid abuse is driving the deadliest drug crisis in American history
       …. It has strained our public health and law enforcement resources and
@@ -53,6 +56,7 @@ cards:
       Attorneys General, Feb 27, 2018
     _key: card-3-4d8a7e7d-6390-4b20-b659-93063e555c3e
   - order: 3
+    useCheckmark: false
     body: |-
       ## America’s Opioid Crisis By The Numbers
 
@@ -65,6 +69,7 @@ cards:
       **$1 trillion:** Cost of opioid crisis since 2001
     _key: card-4-bc1a7d17-8e27-4bd3-9206-49176231e627
   - order: 4
+    useCheckmark: false
     body: >-
       # What Are Opoids?
 
@@ -80,6 +85,7 @@ cards:
       * Heroin
     _key: card-5-9061595c-97be-4e52-9242-2d876ea26e31
   - order: 5
+    useCheckmark: true
     body: >-
       Over the last year, photographer James Nachtwey and TIME Magazine set out
       to document the opioid crisis in photos. The graphic images were published

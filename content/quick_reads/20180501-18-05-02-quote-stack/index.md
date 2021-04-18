@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # QUICK QUOTES
 
@@ -33,6 +34,7 @@ cards:
       (5/1/18)
     _key: card-1-a712d054-723e-479a-8df4-180f905d4cb9
   - order: 1
+    useCheckmark: false
     body: >-
       > **‘Don’t try to negotiate the details with Kim Jong Un. Leave that to
       people who understand all the nuances of this situation. … And finally,
@@ -42,6 +44,7 @@ cards:
       to deal with Kim Jong Un, Fox News (5/1/18)
     _key: card-2-3f476817-b2bd-49b9-8da8-64e64889747d
   - order: 2
+    useCheckmark: false
     body: >-
       > **“We are drugged out. We are following other people’s opinions. We are
       controlled by the media and today it all changes.”**  
@@ -50,6 +53,7 @@ cards:
       Kanye West, TMZ Live, May 1, 2018
     _key: card-3-332f4ec5-5f6e-4ca2-969c-afb2d0a76b78
   - order: 3
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-05-02-quote-stack/)'
     _key: card-10-329e80eb-38ae-4588-a32f-cb46a65ff2ac
 

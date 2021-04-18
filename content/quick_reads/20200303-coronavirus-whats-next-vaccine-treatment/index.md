@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Working On A Cure?
 
@@ -28,6 +29,7 @@ cards:
       coronavirus.
     _key: 11b9c48840ca
   - order: 1
+    useCheckmark: false
     body: >-
       > “The ultimate target of the coronavirus is the respiratory tract: your
       lung. The whole goal of the vaccine is that when this coronavirus comes
@@ -39,6 +41,7 @@ cards:
       scenario: it will take at least a year to develop a vaccine.
     _key: f88cb4837fe9
   - order: 2
+    useCheckmark: false
     body: >-
       ## Vaccines: What To Know
 
@@ -55,11 +58,12 @@ cards:
       pharma companies also working on coronavirus vaccines.
     _key: 7a8345a9c3cc
   - order: 3
+    useCheckmark: false
     body: >-
       ## Treatment: What To Know
 
 
-      * **First U.S. clinical trial** of an experimental treatment **happening
+      * **First U.S. clinical trial** of an experimental treatment**happening
       now** at the University of Nebraska Medical Center.
 
       * The gov’t-sponsored trial will test an antiviral treatment (Remdesivir)
@@ -69,6 +73,7 @@ cards:
       SARS, showing some optimistic results.**
     _key: 4af1b9277f2b
   - order: 4
+    useCheckmark: false
     body: >-
       > “We urgently need a safe and effective treatment for COVID-19. Although
       remdesivir has been administered to some patients with COVID-19, we do not
@@ -79,6 +84,7 @@ cards:
       NIAID Director and U.S. Coronavirus Task Force member Dr. Anthony Fauci.
     _key: 15f68fdc6bcd
   - order: 5
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
@@ -90,6 +96,7 @@ cards:
       The Economist magazine
     _key: a207e7e29de3
   - order: 6
+    useCheckmark: true
     body: >-
       Major drug companies are meeting at the White House today to strategize
       and speed up the development of vaccine or antiviral treatment for the new

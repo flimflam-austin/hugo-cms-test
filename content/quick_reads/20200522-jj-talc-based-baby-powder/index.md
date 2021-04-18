@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## One of America’s oldest companies will stop selling one of its most
       iconic products.
@@ -28,11 +29,12 @@ cards:
       ## WHY?
     _key: 9e9d861fcbd9
   - order: 1
+    useCheckmark: false
     body: >-
       ## WHAT TO KNOW
 
 
-      * Johnson & Johnson (J&J) will stop selling its **talc-based** baby powder
+      * Johnson & Johnson (J&J) will stop selling its**talc-based** baby powder
       in the US and Canada.
 
       * Thousands of lawsuits challenging its safety have led to mixed outcomes.
@@ -42,6 +44,7 @@ cards:
       been reduced, overturned or are working their way through the system.
     _key: 3a067ef1cd10
   - order: 2
+    useCheckmark: false
     body: >-
       ## Talc-Based Baby Powder
 
@@ -54,13 +57,14 @@ cards:
       * Crushed talc is in many personal care products, like makeup, deodorant,
       and one formula of Johnson’s Baby Powder.
 
-      * Concerns about talc & **asbestos** cross-contamination began in the
+      * Concerns about talc &**asbestos** cross-contamination began in the
       1930s.
 
       * Questions about links between talc and ovarian cancer date back to the
       1960s.
     _key: 9325bedddcb2
   - order: 3
+    useCheckmark: false
     body: >-
       ## Is Talc Dangerous?
 
@@ -75,6 +79,7 @@ cards:
       cancer.
     _key: 0cc1820a25a4
   - order: 4
+    useCheckmark: false
     body: >-
       > “Demand for talc-based Johnson’s Baby Powder in North America has been
       declining due in large part to changes in consumer habits and fueled by
@@ -87,6 +92,7 @@ cards:
       medical experts around the world."
     _key: d573bad7c9f3
   - order: 5
+    useCheckmark: false
     body: >-
       > “Today’s victory means that children and families no longer will be
       endangered by this baby powder.”
@@ -99,6 +105,7 @@ cards:
       method that never would have allowed it to be detected."
     _key: 0bb3dee5252b
   - order: 6
+    useCheckmark: true
     body: >-
       Not Just The Powder: Johnson & Johnson says it decided to cut 100
       products, including talc-based baby powder, after assessing its product

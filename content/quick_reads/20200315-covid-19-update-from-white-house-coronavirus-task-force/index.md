@@ -20,12 +20,14 @@ card_series: Current Events
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # White House COVID-19 Task Force
 
       WHAT WE LEARNED TODAY
     _key: a980e0d39b39
   - order: 1
+    useCheckmark: false
     body: >-
       > “We have not reached our peak… We will see more cases and we will see
       more suffering and death.”
@@ -39,6 +41,7 @@ cards:
       people will recover."
     _key: 22212052fc0a
   - order: 2
+    useCheckmark: false
     body: >-
       > “If you don’t have to travel, I wouldn’t do it.”  
         
@@ -49,6 +52,7 @@ cards:
       is *ALSO* considering domestic travel restrictions.
     _key: e6f7d5cc26a0
   - order: 3
+    useCheckmark: false
     body: >-
       > “We don’t want to say the risk is low when we don’t know how low the
       numbers are for people who are asymptotic.”  
@@ -60,6 +64,7 @@ cards:
       BIG unknown: Are people under 20 asymptomatic and spreading the virus?
     _key: 1fffb34c16ed
   - order: 4
+    useCheckmark: false
     body: >-
       > “If you are sick, stay home. You’re not going to miss a paycheck.”
 
@@ -71,6 +76,7 @@ cards:
       nutrition programs for students and low-income persons.
     _key: c6df79afce48
   - order: 5
+    useCheckmark: false
     body: >-
       > “We need your help. Social distancing and mitigation – they’re not to
       protect the 30-year-old or the 20-year-old from getting coronavirus.
@@ -83,6 +89,7 @@ cards:
       protect yourself at coronavirus.gov."
     _key: 9271e7f54c96
   - order: 6
+    useCheckmark: true
     body: >-
       What's Next? Treasury secretary Steve Munchkin suggested that other
       stimulus ideas are on the table, such as a payroll tax cut, refundable tax

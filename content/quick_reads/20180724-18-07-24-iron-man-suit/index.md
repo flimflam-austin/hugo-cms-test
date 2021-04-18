@@ -20,6 +20,7 @@ card_series: Worth-It-To-See-It
 colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Ever Dream of Flying?
 
@@ -34,6 +35,7 @@ cards:
       Now](https://www.youtube.com/embed/bxR_GyPxOgE?enablejsapi=1&autoplay=1&rel=0)
     _key: card-1-e15420ee-5881-41f0-950c-2c2f9fd459a2
   - order: 1
+    useCheckmark: false
     body: |-
       # Gravity Schmavity
 
@@ -48,17 +50,19 @@ cards:
       OK, how much?
     _key: card-2-bf70b318-9cc4-4546-8a96-62617a517856
   - order: 2
+    useCheckmark: false
     body: >-
       # Ready for Liftoff?
 
 
-      * It costs **$450K, and only 9 are available** for sale at Selfridges
+      * It costs**$450K, and only 9 are available** for sale at Selfridges
       Department Store in London.
 
-      * Gravity, the suit’s maker, has requests fromA _Mission Impossible_ &A
+      * Gravity, the suit’s maker, has requests fromA_Mission Impossible_ &A
       James Bond filmmakers.
     _key: card-3-ff73234f-42b9-4563-b160-080c14eeab6e
   - order: 3
+    useCheckmark: true
     body: >-
       The US Army is also testing & prototyping Iron Man-like suits in order to
       test how electricity production can be used to avoid dangerous resupply

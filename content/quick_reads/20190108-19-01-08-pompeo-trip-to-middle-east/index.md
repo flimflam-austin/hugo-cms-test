@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # AN EYE ON THE EAST
 
@@ -35,6 +36,7 @@ cards:
       SETTING THE TONE 2019
     _key: card-1-ba48628b-c19e-40bb-ab86-cbce8ea49304
   - order: 1
+    useCheckmark: false
     body: >-
       Why Is He Going?
 
@@ -42,14 +44,15 @@ cards:
       Sec. Pompeo’s 2 declared priorities:
 
 
-      * U.S. will continue to **battle ISIS,** **but change tactics** (withdraw
+      * U.S. will continue to**battle ISIS,****but change tactics** (withdraw
       troops from Syria, though he sets no timeline. Nat’l Sec. Advisor Bolton
       echoed this sentiment in Israel over the wknd).
 
-      * U.S. will continue to work to **thwart Iran** & its “dangerous”
+      * U.S. will continue to work to**thwart Iran** & its “dangerous”
       activities in the Middle East.
     _key: card-2-340c6c4b-c6ee-40a9-a027-9119e6b5e9da
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why Now?
 
@@ -64,6 +67,7 @@ cards:
       Mideast allies.
     _key: card-3-cdf46271-7eb4-43fa-8bbc-caf4236c6816
   - order: 3
+    useCheckmark: false
     body: >-
       "One day he (President Trump) is saying we are in Syria for the long term
       to fight Iran. The next day Trump says we’re leaving in 30 days and Iran
@@ -76,6 +80,7 @@ cards:
       delivered a speech on the same topic.
     _key: card-4-22bf4586-95d8-4379-a9d4-ac27b789b08b
   - order: 4
+    useCheckmark: false
     body: >-
       ## YOUR SAFETY AT STAKE
 
@@ -88,6 +93,7 @@ cards:
       influence in region and is suspected of pursuing nuclear weapons.
     _key: card-5-4a26d1bc-e23a-41de-8583-fab906ed1b3d
   - order: 5
+    useCheckmark: false
     body: >-
       ## Also on Agenda: Yemen
 
@@ -103,6 +109,7 @@ cards:
       * Ally support makes these drone strikes possible.
     _key: card-6-4c1d85cb-923b-4e78-9e9e-7b530463e0d4
   - order: 6
+    useCheckmark: true
     body: >-
       Sec. Pompeo's trip follows NS Advisor, John Bolton's trip to Israel &
       Turkey (2 countries Sec. Pompeo is not scheduled to visit). Though he

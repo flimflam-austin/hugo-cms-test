@@ -20,18 +20,20 @@ card_series: Health
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # WATER WISE & SUMMER SAFE
 
 
-      As if bathing suit shopping isn’t scary enough, **why July is the month to
-      be extra careful in** **and out of the water**.
+      As if bathing suit shopping isn’t scary enough,**why July is the month to
+      be extra careful in****and out of the water**.
 
 
       Flip: Deadliest Month
     citation: 'Flip: Deadliest Month'
     _key: card-1-714fba9e-8d03-4e08-b8e5-427a7e42d027
   - order: 1
+    useCheckmark: false
     body: >-
       DROWNING  
 
@@ -44,12 +46,13 @@ cards:
       * Drowning is #2 cause of accidental death in kids (0-14); #1 cause of
       death is car crashes.
 
-      * Men & boys are more likely to drown; **80% of deaths are male**.
+      * Men & boys are more likely to drown;**80% of deaths are male**.
 
-      * For adolescents and adults, **alcohol use is involved in up to 70% of
+      * For adolescents and adults,**alcohol use is involved in up to 70% of
       drowning deaths.**
     _key: card-2-eb762189-d461-4d2d-8f16-3348da79374a
   - order: 2
+    useCheckmark: false
     body: >-
       ## CAR CRASHES
 
@@ -59,7 +62,7 @@ cards:
         
         
       _“Each year on the Independence Day holiday in the U.S., an average of
-      118.4 lives are lost in crashes, making it the **most consistently deadly
+      118.4 lives are lost in crashes, making it the**most consistently deadly
       day of the year** across the five-year study period.”_  
         
         
@@ -68,6 +71,7 @@ cards:
       Insurance Institute For Highway Safety
     _key: card-3-05f0a497-7537-421a-86bc-7f6c780bffee
   - order: 3
+    useCheckmark: false
     body: >-
       ## Water-Associated Disease Outbreaks
 
@@ -83,6 +87,7 @@ cards:
       * Outbreaks caused 4,958 illnesses & 2 fatalities.
     _key: card-4-8adf91f3-db6c-4b50-b72a-1a43f72ead37
   - order: 4
+    useCheckmark: true
     body: >-
       Unfortunately when we look at accidental deaths, summer is not the
       carefree period we’d like it to be,’ Ken Kolosh, manager of statistics at

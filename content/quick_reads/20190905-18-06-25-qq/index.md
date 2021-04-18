@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “We cannot allow all of these people to invade our Country. When
       somebody comes in, we must immediately, with no Judges or Court Cases,
@@ -31,6 +32,7 @@ cards:
       which applies to citizens & non-citizens.
     _key: card-1-c6154e2f-3d00-44e5-91b1-e10bdbbc6efc
   - order: 1
+    useCheckmark: false
     body: >-
       > “Republicans should stop wasting their time on Immigration until after
       we elect more Senators and Congressmen/women in November. Dems are just
@@ -43,6 +45,7 @@ cards:
       House bill that'd been delayed to this week.
     _key: card-2-d08f356b-ac91-4391-9ef1-6a424c92f3b3
   - order: 2
+    useCheckmark: false
     body: >-
       > “I hope they understand that if they begin to ramp up their nuclear
       program, the wrath of the entire world will fall upon them.”  
@@ -53,6 +56,7 @@ cards:
       would never have to use military action against Iran.
     _key: card-3-46f70778-80cf-446f-8b2b-7e1aab985e6d
   - order: 3
+    useCheckmark: false
     body: >-
       > “He said, ‘But, son, there’s enough of these Americanisms around.
       Couldn’t you sing she loves you, yes, yes, yes?'”  
@@ -67,6 +71,7 @@ cards:
       Now](https://www.youtube.com/embed/QjvzCTqkBDQ?enablejsapi=1&autoplay=1&rel=0)
     _key: card-4-e761339d-e489-485b-80e7-78a2d8cb3212
   - order: 4
+    useCheckmark: false
     body: >-
       > “I really enjoyed it… Having the freedom in my own country.”  
         
@@ -76,6 +81,7 @@ cards:
       Arabia lifted the world's only remaining ban on women drivers.
     _key: card-5-d3500b99-cb37-4cae-924f-529b895f943f
   - order: 5
+    useCheckmark: true
     body: |-
       Have a great week!
 

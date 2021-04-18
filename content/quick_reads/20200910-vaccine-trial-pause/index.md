@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “Temporary Pause”
 
@@ -31,6 +32,7 @@ cards:
       What To Know
     _key: '753907162013'
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Basics
 
@@ -46,9 +48,11 @@ cards:
       concerns”, some flu-like side effects during first trials.
     _key: 2f29f9c65136
   - order: 2
-    body: "## What Happened\n\nWe don’t know exactly but one participant developed an “unexplained illness.”\n\nAstraZeneca: _“In large clinical trials, illnesses will happen by chance and must be independently reviewed.”_\n\n_New York Times_\_**report**: participant developed inflammation of the spinal cord, often brought on by viral infections."
+    useCheckmark: false
+    body: "## What Happened\n\nWe don’t know exactly but one participant developed an “unexplained illness.”\n\nAstraZeneca:_“In large clinical trials, illnesses will happen by chance and must be independently reviewed.”_\n\n_New York Times_\_**report**: participant developed inflammation of the spinal cord, often brought on by viral infections."
     _key: 846b9c33b27e
   - order: 3
+    useCheckmark: false
     body: >-
       ## How Vaccines Work
 
@@ -60,25 +64,27 @@ cards:
       produce an immune response.
 
       * Moderna & Pfizer vaccines use manufactured SARS-COV-2 genetic material
-      to spark an immune response (mRNA vaccine). **No mRNA vaccines have been
+      to spark an immune response (mRNA vaccine).**No mRNA vaccines have been
       approved for human use.**
     _key: 289de4d19980
   - order: 4
+    useCheckmark: false
     body: >-
       ## BIG PICTURE
 
 
       * Dozens of potential vaccines are in clinical trials *worldwide* ~ 100+
-      preclinical development. **In the U.S., three vaccines are in final stage
+      preclinical development.**In the U.S., three vaccines are in final stage
       trials.**
 
       * More than one vaccine *may* eventually combat COVID-19.
 
-      * We are witnessing a **historic race for vaccine development**, both for
+      * We are witnessing a**historic race for vaccine development**, both for
       the speed of trials and the type of vaccine itself (**an approved mRNA
       vaccine would be the first of its kind**).
     _key: 70725a01a218
   - order: 5
+    useCheckmark: true
     body: >-
       We have no way of knowing *if* the participant is reacting to the vaccine
       or separately ill. While we wait for more info, this once again puts focus

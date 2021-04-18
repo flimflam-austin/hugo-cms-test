@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       A newly-amended California sex offender law steps into the national
       spotlight.
@@ -32,6 +33,7 @@ cards:
     citation: '*EXPLICIT CONTENT*'
     _key: 38dfe2c4d6ae
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKGROUND
 
@@ -48,6 +50,7 @@ cards:
       is ***required*** to register as a sex offender.
     _key: 9c5326aa309d
   - order: 2
+    useCheckmark: false
     body: >-
       ## FORMER LAW
 
@@ -56,14 +59,15 @@ cards:
       than 10 years older than the victim:
 
 
-      * Judges had **discretionary** authority to decide whether an adult
-      convicted of having **vaginal sex** with a minor was required to register
+      * Judges had**discretionary** authority to decide whether an adult
+      convicted of having**vaginal sex** with a minor was required to register
       as a sex offender.
 
-      * Adults convicted of having **oral or anal sex** with a minor were
-      **automatically** required to **register** as a **sex offender**.
+      * Adults convicted of having**oral or anal sex** with a minor
+      were**automatically** required to**register** as a**sex offender**.
     _key: 649313987d5d
   - order: 3
+    useCheckmark: false
     body: >-
       ## NEW LAW
 
@@ -72,14 +76,15 @@ cards:
       10 years older than the victim:
 
 
-      * Judges have **discretion** to decide whether an adult convicted of
-      having **any sex** (vaginal, oral, anal) with a minor is **required** to
-      **register** as a **sex offender**.
+      * Judges have**discretion** to decide whether an adult convicted of
+      having**any sex** (vaginal, oral, anal) with a minor is**required**
+      to**register** as a**sex offender**.
 
 
       The new law does NOT apply to victims under 14 years of age.
     _key: '362885527391'
   - order: 4
+    useCheckmark: false
     body: >-
       > “I cannot in my mind as a mother understand how sex between a
       24-year-old and a 14-year-old could ever be consensual, how it could ever
@@ -92,6 +97,7 @@ cards:
       than the victim; critics say it's legalizing pedophilia.
     _key: a0cc4aaad893
   - order: 5
+    useCheckmark: false
     body: >-
       > “It’s appalling that in 2020, California continues to discriminate
       against LGBTQ people…”
@@ -104,6 +110,7 @@ cards:
       argues the amended law gives judges more discretion.
     _key: e9da411a37ee
   - order: 6
+    useCheckmark: true
     body: >-
       The nation's most populous state can serve as a bellwether for future
       state laws. CA was the first to legalize medical marijuana (1996), and

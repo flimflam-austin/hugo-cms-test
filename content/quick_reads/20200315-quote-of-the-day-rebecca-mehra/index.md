@@ -20,10 +20,12 @@ card_series: Quote of the Day
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: '## “_Offer to help anyone you can. Not everyone has people to turn to_.”'
     citation: REBECCA MEHRA
     _key: 46f72d9c1620
   - order: 1
+    useCheckmark: true
     body: >-
       The professional runner helped buy groceries for couple in their 80s
       afraid to enter the store due to coronavirus fears. The govt announced

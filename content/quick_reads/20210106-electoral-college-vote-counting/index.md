@@ -19,6 +19,7 @@ card_series: Politics
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       The final step in the 2020 U.S. presidential election prior to
       Inauguration Day happens in Congress.
@@ -29,6 +30,7 @@ cards:
       Why It Matters
     _key: 20a80fc3f3b3
   - order: 1
+    useCheckmark: false
     body: >-
       ## BACKGROUND
 
@@ -43,25 +45,26 @@ cards:
       after Election Day.
     _key: '445170e70679'
   - order: 2
+    useCheckmark: false
     body: >-
       ## January 6 at 1 p.m. EST
 
 
-      * Federal law mandates the House & Senate meet in **joint session** to
+      * Federal law mandates the House & Senate meet in**joint session** to
       count the certified Electoral College votes.
 
-      * The **vice president** (Senate president) presides in a mostly
-      ceremonial role.
+      * The**vice president** (Senate president) presides in a mostly ceremonial
+      role.
 
       * Two House members & two senators act as “**tellers**” who read & count
       the Electoral College votes from each state.
 
-      * Any senator or House member may **object** to counting an electoral
-      vote.
+      * Any senator or House member may**object** to counting an electoral vote.
 
       * The candidate w/ majority vote wins.
     _key: b685f2ea7600
   - order: 3
+    useCheckmark: false
     body: >-
       ## The Objection Process
 
@@ -79,6 +82,7 @@ cards:
       the vote is not counted. If not, the objection fails.
     _key: f86a31c4beef
   - order: 4
+    useCheckmark: false
     body: >-
       ## The Counting Process
 
@@ -97,6 +101,7 @@ cards:
       VP.
     _key: a1a59702a24c
   - order: 5
+    useCheckmark: false
     body: >-
       ## Historical Context
 
@@ -110,6 +115,7 @@ cards:
       could not get a senator to sign off on an objection.
     _key: de6a9a196d43
   - order: 6
+    useCheckmark: true
     body: >-
       A growing number of Republican lawmakers plan to object to electoral votes
       in several states. The objections are expected to fail, however, since

@@ -20,9 +20,11 @@ card_series: On This Day
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: '# Why (and how) Labor Day became a federal holiday.'
     _key: 212c2d4973c1
   - order: 1
+    useCheckmark: false
     body: >-
       > “Labor Day, the first Monday in September, is a creation of the labor
       movement and is dedicated to the social and economic achievements of
@@ -34,6 +36,7 @@ cards:
       The U.S. Department of Labor on the significance of Labor Day.
     _key: ddd113182f3f
   - order: 2
+    useCheckmark: false
     body: >-
       ## ORIGINS
 
@@ -50,6 +53,7 @@ cards:
       of rest and recreation_**.”
     _key: 99dfe279fab2
   - order: 3
+    useCheckmark: false
     body: >-
       > “Lager beer kegs … mounted in every conceivable place.”
 
@@ -60,6 +64,7 @@ cards:
       beverages.
     _key: a25fd72e74fa
   - order: 4
+    useCheckmark: false
     body: >-
       > “Of course you can wear white after Labor Day, and it makes perfect
       sense to do so in climates where September’s temperatures are hardly
@@ -72,6 +77,7 @@ cards:
       wealthy urban dwellers in the early 1900s.
     _key: eccf2862e58b
   - order: 5
+    useCheckmark: true
     body: >-
       This year is the 126th year Labor Day will be celebrated as a federal
       holiday. It's one of only ten and the last one of the 19th century.

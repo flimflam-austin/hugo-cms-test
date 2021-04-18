@@ -20,11 +20,12 @@ card_series: Style
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # High Heel Court Drama
 
 
-      French fashion designer and leading high-heel innovator **Christian
+      French fashion designer and leading high-heel innovator**Christian
       Louboutin**  
 
       is back in court fighting to protect the rights to his famous red-soled
@@ -34,6 +35,7 @@ cards:
       Click Here To Flip
     _key: card-1-7a131e19-96b4-4185-a4ac-4bb18427e798
   - order: 1
+    useCheckmark: false
     body: >-
       # Why This Matters?
 
@@ -48,6 +50,7 @@ cards:
       ruling is expected shortly.
     _key: card-2-ff20a19d-f3ce-480d-a4ec-830ec7e388fa
   - order: 2
+    useCheckmark: false
     body: >-
       # Red Sole Battle In U.S.
 
@@ -58,25 +61,29 @@ cards:
       Dorothy’s red slippers in The Wizard of Oz).
     _key: card-3-d7f5a5a9-88fc-404a-ad23-4157e1f7bf95
   - order: 3
+    useCheckmark: false
     body: >-
       # Did You Know?
 
 
       The American woman owns, on average,**A 19** pairs of shoes, but only
-      wears **4** on a regular basis (Consumer Reports).
+      wears**4** on a regular basis (Consumer Reports).
     _key: card-4-b26f637e-9d77-40cd-bfcf-ebc0eb91613e
   - order: 4
+    useCheckmark: false
     body: >-
       # Did You Know?
 
 
       In 1986, when the former First Lady of the Philippines Imelda Marcos fled
-      and went into exile, she left behind at least **1,200** pairs of shoes.
+      and went into exile, she left behind at least**1,200** pairs of shoes.
     _key: card-5-5017fb50-ab2e-4a2c-8650-9dc23555c741
   - order: 5
+    useCheckmark: false
     body: "> “I don’t wear my heels in the shower or when I sleep a\x13 and I wear my little tennis shoes when I do my treadmill a\x13 but when I go out, of course I will. That’s my look and that’s how I’m always gonna be.”  \n  \nDolly Parton on rumor she wears heels in the shower (Guardian, 2011)"
     _key: card-6-a3a1cbb4-c3d8-4ff7-9bf2-142db3148d56
   - order: 6
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-02-08-louboutin/)'
     _key: card-10-21153cf7-f78a-4c39-acf6-7f8bfc43da55
 

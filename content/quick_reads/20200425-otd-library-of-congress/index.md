@@ -20,6 +20,7 @@ card_series: On This Day
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # April 24, 1800
 
@@ -28,6 +29,7 @@ cards:
       220 years as the world largest library.
     _key: 4f175c80f420
   - order: 1
+    useCheckmark: false
     body: >-
       ## ORIGINS
 
@@ -43,6 +45,7 @@ cards:
       * “The Library” now occupies 3 buildings.
     _key: fd7e00bcff61
   - order: 2
+    useCheckmark: false
     body: >-
       ## CONTENTS
 
@@ -57,6 +60,7 @@ cards:
       they would stretch from Washington D.C. to Cape Canaveral, Florida.
     _key: a66677dd08cf
   - order: 3
+    useCheckmark: false
     body: >-
       ## NOTABLE ITEMS
 
@@ -73,6 +77,7 @@ cards:
       type in Western Europe).
     _key: 0048482e8ef7
   - order: 4
+    useCheckmark: true
     body: >-
       Fun Fact: A rule in 1812 exempted Congressional members from late fees!
       You don't have to visit in person to benefit from the the Library of

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## LESSONS FROM THE PAST
 
@@ -28,6 +29,7 @@ cards:
       pandemic while others were spared?
     _key: d8f4b2bbbb3b
   - order: 1
+    useCheckmark: false
     body: >-
       _“Schools, theaters, churches and dance halls in cities across the country
       were closed. Kansas City banned weddings and funerals if more than 20
@@ -40,6 +42,7 @@ cards:
       flu outbreak of 1918.
     _key: 7b519b9ade2f
   - order: 2
+    useCheckmark: false
     body: >-
       ## WHAT TO KNOW:
 
@@ -50,9 +53,10 @@ cards:
 
       **What They Found**: Government intervention (containment/restrictions)
       worked to help slow the spread of the flu, but the real life-saving
-      factor: **how quickly the measures were put in place**.
+      factor:**how quickly the measures were put in place**.
     _key: baa3fda5408c
   - order: 3
+    useCheckmark: false
     body: >-
       ## One Example
 
@@ -70,6 +74,7 @@ cards:
       “Peak mortality” rates in St. Louis were 1/8 that of Philadelphia.
     _key: eac2a98ab5fc
   - order: 4
+    useCheckmark: false
     body: >-
       ## WORTH NOTING
 
@@ -83,13 +88,14 @@ cards:
       too early allowing re-transmission to occur.
     _key: c7c23dcd82e9
   - order: 5
+    useCheckmark: false
     body: >-
       ## ONE LESSON?
 
 
       > “… in the event of a severe pandemic, cities will likely need to
-      maintain (non-pharmaceutical interventions) **for longer than the 2–8
-      weeks that was the norm in 1918**.”  
+      maintain (non-pharmaceutical interventions)**for longer than the 2–8 weeks
+      that was the norm in 1918**.”  
         
       Both studies note the challenges of comparing the past and present.
       However, both came to the conclusion that during a pandemic with no
@@ -97,6 +103,7 @@ cards:
       believed.
     _key: 48894bca3a57
   - order: 6
+    useCheckmark: false
     body: >-
       ## Something To Consider
 
@@ -110,6 +117,7 @@ cards:
       also a factor for concentrated mortality rates.
     _key: 4b8ad12f6a53
   - order: 7
+    useCheckmark: true
     body: >-
       "...nonpharmaceutical interventions may buy valuable time at the beginning
       of a pandemic while a targeted vaccine is being produced.” Dr. Anthony

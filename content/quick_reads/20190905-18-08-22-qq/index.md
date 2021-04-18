@@ -20,6 +20,7 @@ card_series: Quotes
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       >   
 
@@ -33,6 +34,7 @@ cards:
       its path for now.
     _key: card-1-b318b4f0-7009-4027-9bf2-7b57fda682fd
   - order: 1
+    useCheckmark: false
     body: >-
       > "We are angry that a broken immigration system allowed a predator like
       this to live in our community, and we will do all we can to bring justice
@@ -44,6 +46,7 @@ cards:
       from Mexico confessed to her kidnapping & murder.
     _key: card-2-429acd90-e355-4fb9-9694-0ea22fb6e00b
   - order: 2
+    useCheckmark: false
     body: >-
       > “…DUNCAN HUNTER told MARGARET HUNTER that he was planning to buy Hawaii
       shorts but had run out of money, she counseled him to buy the shorts at a
@@ -55,6 +58,7 @@ cards:
       Margaret. Hunter is a veteran & often championed veterans causes.
     _key: card-3-7eaa7786-aa00-44f2-84df-a366c33a1e6c
   - order: 3
+    useCheckmark: false
     body: >-
       > “Get ready for the best semester of your life.”  
         
@@ -66,6 +70,7 @@ cards:
       users.
     _key: card-4-575719a4-7fbc-477c-a8fc-b2e7a9ba662b
   - order: 4
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-08-22-qq/)'
     _key: card-10-594242bd-5cef-4ddb-9bfb-348f03881b11
 

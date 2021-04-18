@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # FIGHTING WORDS
 
@@ -30,6 +31,7 @@ cards:
       Why It Matters
     _key: card-1-e8177157-14a8-4667-98b0-a2bd27b00c71
   - order: 1
+    useCheckmark: false
     body: >-
       ## Important Context:
 
@@ -42,6 +44,7 @@ cards:
       desire to assert themselves as a superpower.
     _key: card-2-381db5da-c7dc-4786-bf5a-094a39e4b53c
   - order: 2
+    useCheckmark: false
     body: >-
       ## Why \*Extra Tense\* Now?
 
@@ -56,6 +59,7 @@ cards:
       diplomatically.
     _key: card-3-a4bb1621-bb4b-4d50-8f75-00c54c28a081
   - order: 3
+    useCheckmark: false
     body: >-
       > “As victims of terrorism in the past and today, we have always been and
       will always remain in the forefront of genuine confrontation with
@@ -68,6 +72,7 @@ cards:
       and highlighted Iran's relationship with groups like al Qaeda.
     _key: card-4-3aa58dbb-aab6-42f3-be09-b72d77afa1e4
   - order: 4
+    useCheckmark: false
     body: >-
       > “We are working with countries that import Iranian crude oil to cut
       their purchases substantially. We cannot allow the world’s leading sponsor
@@ -79,6 +84,7 @@ cards:
       in the nuclear deal, for now.
     _key: card-5-9e25de26-dbde-43f1-a5fd-9ce0ce41085a
   - order: 5
+    useCheckmark: true
     body: >-
       U.S. Defense Secretary Jim Matt responded to Iranian threats: "We've been
       clear; they shouldn't take us on like that". FYI: Iran fired rockets at

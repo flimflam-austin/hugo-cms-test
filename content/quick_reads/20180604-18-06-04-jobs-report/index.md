@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “FIRING ON ALL CYLINDERS”
 
@@ -34,19 +35,21 @@ cards:
       FLIP: FOR THE FACTS
     _key: card-1-d0a6442d-f16f-4d90-82b3-24200aa2ca38
   - order: 1
+    useCheckmark: false
     body: >-
       ## Unemployment Rate Hasn’t Been This Low in Nearly 50 Years
 
 
-      * **More people employed, fewer unemployed** = **unemployment rate drop
-      for good reasons.**
+      * **More people employed, fewer unemployed** =**unemployment rate drop for
+      good reasons.**
 
       * Women, high-school dropouts, blacks & Latinos benefit.
 
-      * American economy has **added jobs for more than 7 years** (92 straight
+      * American economy has**added jobs for more than 7 years** (92 straight
       months).
     _key: card-2-08922ea1-04cb-453d-ab2f-614642c0eb61
   - order: 2
+    useCheckmark: false
     body: >-
       ## Back from the Sidelines?
 
@@ -58,22 +61,24 @@ cards:
       * This challenges a belief the “new normal” in the U.S. economy didn’t
       include these sectors.
 
-      * That said, **retail**, **healthcare** and **construction** remain the
-      top job-gaining industries.
+      * That said,**retail**,**healthcare** and**construction** remain the top
+      job-gaining industries.
     _key: card-3-87ddc298-2cde-49d2-b6b0-ca443b088569
   - order: 3
+    useCheckmark: false
     body: >-
       ## Americans Making More $
 
 
-      * Ave.A **hourly earnings rose** by 8 cents. Many look at this as a sign
-      of the strength of the job market.
+      * Ave.A**hourly earnings rose** by 8 cents. Many look at this as a sign of
+      the strength of the job market.
 
       * **Important to watch:**A Wage growth ofA 2.7% over the last year is a
       nice improvement – a bigger bump may stoke fears of inflation (an economy
       overheating).
     _key: card-4-70cdf7e1-ee7c-4729-ac11-4cf9f1419146
   - order: 4
+    useCheckmark: false
     body: >-
       > “We remain in a virtuous circle: the labor market is strong, which
       supports consumption, which drives production, which keeps the labor
@@ -85,6 +90,7 @@ cards:
       Eric Winograd, AB U.S. economist
     _key: card-5-5d3b921c-2620-4732-ad22-92c0da8a1dcd
   - order: 5
+    useCheckmark: false
     body: >-
       ## Wow. Seems Pretty good. Any Negatives?
 
@@ -103,6 +109,7 @@ cards:
       jobs.
     _key: card-6-7dfce4d3-f6c0-48f1-b3cc-c1898382eae5
   - order: 6
+    useCheckmark: true
     body: >-
       The jobs numbers are confidential, but Pres. Trump tweeted an hour before
       released: "Looking forward to seeing the employment numbers at 8:30 this

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## WHY WE LEAP
 
@@ -28,6 +29,7 @@ cards:
       years
     _key: 306a76f8be9e
   - order: 1
+    useCheckmark: false
     body: >-
       “Adding an extra day every four years keeps our calendar aligned correctly
       with the astronomical seasons, since a year according to the Gregorian
@@ -40,6 +42,7 @@ cards:
       Old Farmer's Almanac
     _key: a93bcf0d5331
   - order: 2
+    useCheckmark: false
     body: >-
       ## The Origins
 
@@ -50,11 +53,12 @@ cards:
 
       * Over the next 1,600+ yrs, the calendar no longer matched the equinoxes.
 
-      * In 1582, the **“4 year rule**” was amended. Only years equally divisible
+      * In 1582, the**“4 year rule**” was amended. Only years equally divisible
       by 4 are leap years. Centuries (ex: 2000) must *also* be equally divisible
       by 400 to be leap years.
     _key: a63918d7fa7c
   - order: 3
+    useCheckmark: false
     body: >-
       ## Leap Day Babies
 
@@ -69,6 +73,7 @@ cards:
       generations born on 2/29.
     _key: 50ceac40aa1f
   - order: 4
+    useCheckmark: true
     body: >-
       LEAPING INTO LOVE? In some European countries, like Ireland, there is a
       tradition of women proposing to men on Leap Day. Some even consider it to

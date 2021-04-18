@@ -20,12 +20,14 @@ card_series: what to know
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # COVID-19
 
       ## Three Things We Learned Today
     _key: 68f2d5189cf0
   - order: 1
+    useCheckmark: false
     body: >-
       “We’re getting there America.”
 
@@ -38,6 +40,7 @@ cards:
       treatments" for those infected.
     _key: a8f77e75b265
   - order: 2
+    useCheckmark: false
     body: >-
       “This has been very reassuring for us. At the same time we know that
       mortality & the fatalities that we’re facing across the U.S. continue.”
@@ -50,6 +53,7 @@ cards:
       shape."
     _key: 75dcf2dbf3a1
   - order: 3
+    useCheckmark: false
     body: >-
       “We don’t absolutely know that for sure yet… The other thing we don’t know
       is the durability of protection.”
@@ -61,6 +65,7 @@ cards:
       one-size-fits-all" policy.
     _key: aec1d017f893
   - order: 4
+    useCheckmark: true
     body: >-
       The White House will unveil guidance to governors Thursday on how to
       reopen the U.S. Pres. Trump indicated the federal government will be

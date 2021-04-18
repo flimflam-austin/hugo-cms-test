@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # IS YOUR PET OBESE?
 
@@ -31,18 +32,20 @@ cards:
       Not Fat. Just Husky
     _key: card-1-bcf4fcab-b04b-4b8e-931c-3e1a3be2291a
   - order: 1
+    useCheckmark: false
     body: |-
       # US vs. THEM
 
-      More than **1 in 3** U.S. adults are **overweight** (BMI 25- 29.9).
+      More than**1 in 3** U.S. adults are**overweight** (BMI 25- 29.9).
 
-      Nearly **40%** of adult Americans are **obese**A (BMI 30+).
+      Nearly**40%** of adult Americans are**obese**A (BMI 30+).
 
       **56% of dogs & 60% of cats are overweight or obese.**
 
-      Only **17% of owners acknowledge** that their pets are overweight.
+      Only**17% of owners acknowledge** that their pets are overweight.
     _key: card-2-3caf234d-567b-43f9-a5b7-208ca759d466
   - order: 2
+    useCheckmark: false
     body: >-
       > “The number of pets with clinical obesity continues to increase… We’re
       continuing to see more pets diagnosed with obesity rather than overweight…
@@ -55,6 +58,7 @@ cards:
       veterinarian
     _key: card-3-2fe03808-a964-4d9a-804e-0e7f80678677
   - order: 3
+    useCheckmark: false
     body: >-
       ## WHY IT MATTERS:
 
@@ -69,11 +73,12 @@ cards:
       * diabetes &A some types of cancer
 
 
-      In 2018, the U.S. pet industry was valued at **$72B** (a 50% jump in 15
+      In 2018, the U.S. pet industry was valued at**$72B** (a 50% jump in 15
       years). Insiders say it’s due to increasing**A health care costs,** many
-      related to **overweight ailments.A**
+      related to**overweight ailments.A**
     _key: card-4-0763f98c-2d59-4a48-8fe1-672abfcf1308
   - order: 4
+    useCheckmark: true
     body: >-
       Found in more than 60% of U.S. households, dogs & cats are still the most
       popular American pets, but that pecking order could soon change. Poultry

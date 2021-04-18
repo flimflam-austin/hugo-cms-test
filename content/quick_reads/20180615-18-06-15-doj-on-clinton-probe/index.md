@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # ERRORS, NOT BIAS
 
@@ -35,23 +36,25 @@ cards:
       500+ pages condensed.
     _key: card-1-804965c1-6e36-4d80-8a35-29370f328600
   - order: 1
+    useCheckmark: false
     body: >-
       ## WATCHDOG’S FINDINGS:
 
 
-      * **Fmr.** **FBI Dir. James Comey was found ‘insubordinate”** in holding a
+      * **Fmr.****FBI Dir. James Comey was found ‘insubordinate”** in holding a
       2016 news conf. announcing FBI would not recommend criminal charges in
       Clinton investigation.
 
       * Criticized Comey’s decision to notify Congress FBI was reopening Clinton
       email probe 9 days before election.
 
-      * Comey’s actions **“negatively impacted the perception of FBI.”**
+      * Comey’s actions**“negatively impacted the perception of FBI.”**
     _key: card-2-144affda-2f06-4042-83ec-af7860d0d23a
   - order: 2
+    useCheckmark: false
     body: >-
-      > Watchdog’s report also found **several instances of FBI officials
-      criticizing Trump**,A but says **biases did not compromise FBI’s work**.  
+      > Watchdog’s report also found**several instances of FBI officials
+      criticizing Trump**,A but says**biases did not compromise FBI’s work**.  
         
       Example: texts between FBI agents Peter Strzok & Lisa Page:  
 
@@ -63,6 +66,7 @@ cards:
       * Strzok: “No. No he won’t. We’ll stop it.”
     _key: card-3-300d5ae7-e83a-4c40-b8f3-655470958124
   - order: 3
+    useCheckmark: false
     body: >-
       _“I do not agree with all of the inspector general’s conclusions, but I
       respect the work of his office and salute its professionalism.”_  
@@ -79,6 +83,7 @@ cards:
       Hillary Clinton tweet
     _key: card-4-a5e109e3-5bb6-448a-86f6-2561ca831ec8
   - order: 4
+    useCheckmark: false
     body: >-
       ## WHY IT MATTERS:
 
@@ -94,6 +99,7 @@ cards:
       **Bottom line:** Watchdog’s findings give neither side total vindication.
     _key: card-5-078823f1-3bb8-46c8-83a2-02895cbd75e5
   - order: 5
+    useCheckmark: true
     body: >-
       The Inspector General's report made no recommendation of leveling any
       charges against Comey, but it gave both Democrats and Republicans plenty

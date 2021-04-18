@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       > “It was a woman, and she was firing her gun. And I just said, ‘Shooter’,
       and everybody started running.”  
@@ -34,6 +35,7 @@ cards:
     citation: How rare is a woman shooter?
     _key: card-1-7a6eab64-b0a5-4c75-adbb-da45f57a210e
   - order: 1
+    useCheckmark: false
     body: >-
       ## What Happened
 
@@ -49,6 +51,7 @@ cards:
       had been warned about her.
     _key: card-2-6246d62d-ccc1-4433-9436-982892b18858
   - order: 2
+    useCheckmark: false
     body: >-
       “The night before (the shooter) opened fire in a courtyard at YouTube’s
       headquarters Tuesday afternoon, Mountain View police found the San Diego
@@ -59,12 +62,13 @@ cards:
       _The Mercury News_
     _key: card-3-c14dbacf-029c-458d-a3ea-7ab1a27753ed
   - order: 3
+    useCheckmark: false
     body: >-
       “Women commit only about 10% to 13% of homicides in the United States,
       said Adam Lankford, a criminal justice professor and author…When women do
       kill, they’re less likely than men to choose firearms to do it, Lankford
       told Live Science. Only 8 percent of perpetrators of firearm homicides are
-      female, he said.”A _Live Science_
+      female, he said.”A_Live Science_
 
 
       [Click: Full
@@ -72,6 +76,7 @@ cards:
     citation: 'Click: Full Article'
     _key: card-4-a921825d-ff55-4c4f-b114-874015e2b258
   - order: 4
+    useCheckmark: true
     body: >-
       1100 employees work at YouTube HQ...Why did the shooter target the
       company? What we know so far...

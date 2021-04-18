@@ -20,10 +20,11 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Senate Reaches  
 
-      Budget Deal 
+      Budget Deal
 
 
       ## A look at the deal ahead of final votes:
@@ -35,6 +36,7 @@ cards:
       & disaster relief.
     _key: card-1-1af69130-fe9f-4f43-ab90-2756b71dfee3
   - order: 1
+    useCheckmark: false
     body: >-
       # WHY IT MATTERS:
 
@@ -50,6 +52,7 @@ cards:
       getting a little $omething.
     _key: card-2-9594c368-e76b-4584-90ee-5a2de38ce1ee
   - order: 2
+    useCheckmark: false
     body: >-
       # Who Likes The Deal:
 
@@ -60,6 +63,7 @@ cards:
       * Includes: The White House, Pentagon, Repub/Dem lawmakers.
     _key: card-3-ddef84ec-0715-4dfc-a4a5-d67fe8048ea0
   - order: 3
+    useCheckmark: false
     body: >-
       > “I’m happy to announce that our bipartisan, bicameral negotiations on
       defense spending and other priorities have yielded a significant
@@ -71,6 +75,7 @@ cards:
       Republican in Senate
     _key: card-4-bd214d5f-7d56-45ec-b701-a4a825a29288
   - order: 4
+    useCheckmark: false
     body: >-
       # Who Doesn’t Like The Deal:
 
@@ -84,9 +89,11 @@ cards:
       * Anti-Debt advocates
     _key: card-5-b3826e72-b6d4-4c40-9a38-2269912ccb39
   - order: 5
+    useCheckmark: false
     body: "> “This budget deal shows just how broken the budget process is a\x13 that Congress thinks the only way to agree to a budget is to put hundreds of billions of dollars on the nation’s credit card. “\n\n>   \nMaya MacGuineas, President, Committee for a Responsible Federal Budget (non-partisan/non-profit)"
     _key: card-6-bdde4000-21a1-4954-a305-c1c109a20700
   - order: 6
+    useCheckmark: false
     body: |-
       # Why Government Spending/Budgets Matter:
 
@@ -97,6 +104,7 @@ cards:
       [See It For Yourself: Click Right Here](http://www.usdebtclock.org/)
     _key: card-7-2d5bb247-6fad-4e77-a949-0f5691942db7
   - order: 7
+    useCheckmark: true
     body: |-
       Budget Deal
 

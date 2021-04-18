@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       TURMOIL IN FRANCE
 
@@ -32,20 +33,22 @@ cards:
       What's Going On
     _key: card-1-1a05ccd9-d200-43aa-95eb-b589ea631f20
   - order: 1
+    useCheckmark: false
     body: >-
       ## Fuel Tax Sparked Protests
 
 
-      * France recently announced the next **fuel tax** increase on Jan. 1,
-      2019; the “green tax” seeks to discourage use of fossil fuels.
+      * France recently announced the next**fuel tax** increase on Jan. 1, 2019;
+      the “green tax” seeks to discourage use of fossil fuels.
 
-      * Fuel prices in France cost approx. **$6-8/gal**. Taxes **would have
-      added an extra 28Ac/gal to diesel** (the most popular fuel).
+      * Fuel prices in France cost approx.**$6-8/gal**. Taxes**would have added
+      an extra 28Ac/gal to diesel** (the most popular fuel).
 
       * **Huge anti-government protests**A & riots followed over the last 3
       weeks;A 4 people died.
     _key: card-2-b536eda3-79f7-4d63-a784-ec4be109d37a
   - order: 2
+    useCheckmark: false
     body: >-
       ## FUEL TAX CANCELLED
 
@@ -60,6 +63,7 @@ cards:
       policies favor the wealthy.
     _key: card-3-f71eb6b5-3feb-4a63-8cfd-0f80cc9daf72
   - order: 3
+    useCheckmark: false
     body: >-
       ## PROTESTS MAY NOT END
 
@@ -73,6 +77,7 @@ cards:
       state - paying high taxes but feeling few benefits.
     _key: card-4-01eba6a4-7bee-4904-88f8-3e3eb57b73be
   - order: 4
+    useCheckmark: false
     body: >-
       ## Why It Matters
 
@@ -87,6 +92,7 @@ cards:
       France last? What’s the impact?
     _key: card-5-440ae55a-7368-45eb-901b-e23541626696
   - order: 5
+    useCheckmark: true
     body: >-
       America has a fuel tax too. Federal & state fees typically add
       approximately 52Ac/gallon. These taxes have helped to pay for roads &

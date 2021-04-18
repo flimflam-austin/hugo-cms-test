@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # “BRAIN FOG”
 
@@ -28,6 +29,7 @@ cards:
       health officials & perplexes doctors, sufferers alike.
     _key: 0a364ef05cd9
   - order: 1
+    useCheckmark: false
     body: >-
       > If you talk to a significant number of people, they will tell you that,
       for anywhere from weeks to months and possibly longer, that they have
@@ -39,6 +41,7 @@ cards:
       his concerns over the long-term impact of the virus that causes COVID-19.
     _key: 372dd58a0437
   - order: 2
+    useCheckmark: false
     body: >-
       > “It’s all related. The fact that people are losing their sense of smell,
       the fact that people are losing their sense of taste, and the brain fog —
@@ -51,6 +54,7 @@ cards:
       clarity, confusion) since early in the pandemic.
     _key: bad6b9dcb4f0
   - order: 3
+    useCheckmark: false
     body: >-
       > “Everything in my brain was white static … I was sitting on the edge of
       the bed, crying and feeling ‘something’s wrong, I should be asking for
@@ -62,6 +66,7 @@ cards:
       debilitating she was forced to take a temporary leave from her job.
     _key: ea2cdeb9caa4
   - order: 4
+    useCheckmark: false
     body: >-
       ## What Do We Know:
 
@@ -77,6 +82,7 @@ cards:
       other viruses that can impact cognitive health.
     _key: 179b0b9f9060
   - order: 5
+    useCheckmark: false
     body: >-
       ## Why?
 
@@ -97,6 +103,7 @@ cards:
       * An exhausted immune system could play a role.
     _key: d8e0f4723d07
   - order: 6
+    useCheckmark: true
     body: >-
       One encouraging note: Doctors and those recovering from COVID-19 say this
       fog can "lift" - that it's not permanent. A reminder: This week marks 9

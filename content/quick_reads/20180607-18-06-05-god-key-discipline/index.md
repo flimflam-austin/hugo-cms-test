@@ -20,9 +20,10 @@ card_series: Current Events
 colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       Is The Key To Good Discipline In School…  
-      GOD? 
+      GOD?
 
       **First-of-its-kind study says…YES**.
 
@@ -30,14 +31,15 @@ cards:
     citation: 'Flip: The Findings'
     _key: card-1-0038d172-cc42-4392-8e8a-f5b8739abc46
   - order: 1
+    useCheckmark: false
     body: >-
       ## The Findings:
 
 
-      * Catholic school students are **less disruptive**, exhibited **more
-      self-control** and **respect** than public AND private school students.
+      * Catholic school students are**less disruptive**, exhibited**more
+      self-control** and**respect** than public AND private school students.
 
-      * One Disclaimer: _“Families who send their children to Catholic schools
+      * One Disclaimer:_“Families who send their children to Catholic schools
       make a conscious choice to do so, they likely differ from other families
       in unobservable ways.”_
 
@@ -47,11 +49,12 @@ cards:
       Why This Matters
     _key: card-2-b89fb342-d1f9-417c-b9a3-1206b7d1d776
   - order: 2
+    useCheckmark: false
     body: >-
       ## Big Picture
 
 
-      * Current Education Debate: **Should we approach school discipline
+      * Current Education Debate:**Should we approach school discipline
       differently?** Especially becauseA of “differential suspension rates for
       minority and non-minority students”?
 
@@ -60,16 +63,18 @@ cards:
       theories as to why.
     _key: card-3-da02bebb-ea5a-4d81-8acb-71a12124108a
   - order: 3
+    useCheckmark: false
     body: >-
       > “Perhaps students are more likely to internalize such values when they
-      know **they are loved not only by their teachers but by their Creator,**
-      or when they perceive that misbehavior may have **eternal consequences**.
+      know**they are loved not only by their teachers but by their Creator,** or
+      when they perceive that misbehavior may have**eternal consequences**.
       Maybe it’s something else entirely.”  
         
         
       Self-Discipline and Catholic Schools
     _key: card-4-515ab0bd-8e0c-47bd-9f56-7af83dae5697
   - order: 4
+    useCheckmark: true
     body: >-
       Regardless, one thing is certain: Religion can mold hearts and minds in
       ways that suspensions, restorative justice, and Positive Behavioral

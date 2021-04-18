@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--white'
 cards:
   - order: 0
+    useCheckmark: false
     body: |-
       # Putin Wins Landslide Victory
 
@@ -31,21 +32,23 @@ cards:
     citation: How Long Can He Stay in Power Anyway?
     _key: card-1-41affbf9-3ab4-489f-8616-da0412030826
   - order: 1
+    useCheckmark: false
     body: >-
       ## Putin in Power
 
 
-      Under current term limits, this would be his **LAST TERM**.
+      Under current term limits, this would be his**LAST TERM**.
 
 
       Putin has spent 14 years as President, spent 4 years & 2 stints as Prime
       Minister.
 
 
-      Another 6 year term extends his lock on power to **24 years**, longer than
+      Another 6 year term extends his lock on power to**24 years**, longer than
       any Russian leader since Soviet Joseph Stalin (12 years).
     _key: card-2-91c6c428-be1f-4c4e-8b0a-4a54bb59dc4d
   - order: 2
+    useCheckmark: false
     body: >-
       ## Election Notes
 
@@ -61,6 +64,7 @@ cards:
       seizure of Crimea.
     _key: card-3-49fde4bb-ea72-43be-8ebc-e42c8faff8e6
   - order: 3
+    useCheckmark: false
     body: >-
       ## Putin Fast Facts
 
@@ -81,6 +85,7 @@ cards:
       tiger & a polar bear
     _key: card-4-8b30cdc5-ca1c-4b6d-ad34-11db173bd7e8
   - order: 4
+    useCheckmark: false
     body: >-
       ## Putin: Alleged Poisoning
 
@@ -94,6 +99,7 @@ cards:
       but he’s ready to cooperate with investigation.
     _key: card-5-50423fdd-7b7f-407f-bba9-02824c9fd84f
   - order: 5
+    useCheckmark: true
     body: >-
       See what President Putin said when asked if he was planning any changes in
       the Constitution, particularly any that would allow him to remain in power

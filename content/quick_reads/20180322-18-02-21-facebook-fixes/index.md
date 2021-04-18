@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## FACING THE MUSIC
 
@@ -28,13 +29,14 @@ cards:
       world.
 
 
-      News FB might not protect its users’ data wiped away **$50B of market
+      News FB might not protect its users’ data wiped away**$50B of market
       value**.
 
 
       CEO Mark Zuckerburg finally talked.
     _key: card-1-1df246db-88da-4788-b5c9-33392944dec9
   - order: 1
+    useCheckmark: false
     body: >-
       > “I started Facebook,  
 
@@ -47,6 +49,7 @@ cards:
       Mark Zuckerberg, FB, March 21, 2018
     _key: card-2-b2ef1c21-f0a7-4f57-9d43-2c3ee5a426c4
   - order: 2
+    useCheckmark: false
     body: >-
       ## Good Catch-Up
 
@@ -60,6 +63,7 @@ cards:
       TechCrunch
     _key: card-3-cfca576a-2ad9-4caf-b211-c3044144bda8
   - order: 3
+    useCheckmark: false
     body: >-
       Why It Matters:  
 
@@ -78,6 +82,7 @@ cards:
       sinister to sway opinions?
     _key: card-4-083e69e3-f0f8-4c44-bdaf-27dd04d0e228
   - order: 4
+    useCheckmark: false
     body: >-
       ## Big Take Away?
 
@@ -94,6 +99,7 @@ cards:
       against their policies, was erased.
     _key: card-5-e3205420-8b2d-4633-95cd-353ad05beaa3
   - order: 5
+    useCheckmark: false
     body: >-
       ## Important To Note:
 
@@ -102,11 +108,12 @@ cards:
 
 
       **Before 2014:** when you signed up for an app using your FB Account, your
-      friend’s contact could be accessed without them having the app themselves.
-      **After**: If you sign up for an app, your contacts are protected unless
-      your friends sign up too.
+      friend’s contact could be accessed without them having the app
+      themselves.**After**: If you sign up for an app, your contacts are
+      protected unless your friends sign up too.
     _key: card-6-4ce9c342-b0a2-4296-9ea6-defc0ce434ee
   - order: 6
+    useCheckmark: false
     body: >-
       ## What FB is doing NOW:
 
@@ -121,6 +128,7 @@ cards:
       they have and restrict access.
     _key: card-7-c1ba6f85-ce20-4007-85e0-137f682d7dc9
   - order: 7
+    useCheckmark: true
     body: >-
       P.S. Birthdays, Addresses, of you and your friends through your FB
       accounts were easily shared in previous years. Where is all that info now?

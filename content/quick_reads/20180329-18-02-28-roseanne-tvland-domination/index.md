@@ -20,6 +20,7 @@ card_series: Entertainment
 colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # Total Domination
 
@@ -28,7 +29,7 @@ cards:
 
 
       **1 out of 5** American viewers tuned in for ABC’s return of ‘Roseanne’ –
-      approximately **18M**.
+      approximately**18M**.
 
 
       “Text from john goodman who is on a plane today: “HURRAY FOR THE
@@ -39,6 +40,7 @@ cards:
     citation: Flip For Why It Matters
     _key: card-1-9b87e764-8112-4da2-a310-1ea1a53b0046
   - order: 1
+    useCheckmark: false
     body: >-
       # Distinct Departure
 
@@ -52,6 +54,7 @@ cards:
       Hollywood Reporter, March 28, 2018
     _key: card-2-c42f124d-3894-4afd-b8f8-f07e6054969f
   - order: 2
+    useCheckmark: false
     body: |-
       # Flyover Power
 
@@ -65,6 +68,7 @@ cards:
       Kansas City, Missouri
     _key: card-3-d226e606-c3e6-4bb6-a64f-d2f6b92bf238
   - order: 3
+    useCheckmark: false
     body: >-
       ## Comparatively Speaking
 
@@ -72,13 +76,14 @@ cards:
       * The ‘Will & Grace’ reunion started when the main actors filmed a
       10-minute video to support presidential candidate Hillary Clinton in 2016.
 
-      * NBC launched an official revival of the series in 2017 – **10M viewers
+      * NBC launched an official revival of the series in 2017 –**10M viewers
       watched**.
 
-      * ‘Will & Grace’ was justA **re-upped** for a 3rd season; 4M viewers on
+      * ‘Will & Grace’ was justA**re-upped** for a 3rd season; 4M viewers on
       average per show.
     _key: card-4-cb10e9d5-e51c-416c-af94-08fb5fdba9ee
   - order: 4
+    useCheckmark: true
     body: >-
       "Roseanne"s popularity offers advertisers valuable real estate. How much
       will a 30-sec ad cost you? $175,000. Check out source page for more on

@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## Top Lawmakers React To Florida Shooting
 
@@ -30,13 +31,14 @@ cards:
       Simply put the debate focuses on “**Quality vs Quantity**.”
 
 
-      Does America not have _enough_ gun laws? Or is this a quality issue –
+      Does America not have_enough_ gun laws? Or is this a quality issue –
       existing laws are flawed or are not properly enforced?
 
 
       Flip Card Here
     _key: card-1-5f1b26f2-f207-4f33-942d-1acff961740b
   - order: 1
+    useCheckmark: false
     body: >-
       # Top House Republican
 
@@ -53,6 +55,7 @@ cards:
       [Click For Remarks](https://www.speaker.gov/live)
     _key: card-2-b5f5d376-e7f1-42e8-8584-4fdd9368a44f
   - order: 2
+    useCheckmark: false
     body: >-
       # Top House Democrat
 
@@ -66,6 +69,7 @@ cards:
       House Minority Leader Nancy Pelosi (D-CA) Twitter Feb 15, 2018
     _key: card-3-4f8887ae-8db2-4b30-93bf-481b391fc7ad
   - order: 3
+    useCheckmark: false
     body: >-
       # Top Senate Republican
 
@@ -78,6 +82,7 @@ cards:
       Senator Mitch McConnell, Twitter, Feb 14, 2018
     _key: card-4-4917d72b-3007-4297-882a-adc5f11d28e3
   - order: 4
+    useCheckmark: false
     body: >-
       # Top Senate Democrat
 
@@ -91,6 +96,7 @@ cards:
       Senator Chuck Schumer, (D-NY) Twitter, Feb 14, 2018
     _key: card-5-7154f96f-847d-4cd8-bbb7-557f799b70d5
   - order: 5
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-02-15-reaction-shooting/)'
     _key: card-10-b774be3f-3e74-400f-b3ee-1f8227dc6dc2
 

@@ -20,25 +20,28 @@ card_series: Current Events
 colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
+    useCheckmark: false
     body: "“Free Speech”  \nInfo War?\n\n> a\x18Infowars’A founder Alex Jones faces several defamation lawsuits, while social media platforms remove some of his content. When is opinion no longer FREE SPEECH?"
     _key: card-1-92bf8430-47a8-48cb-a4b5-119b04e100ec
   - order: 1
+    useCheckmark: false
     body: >-
       ## Defamation Suits
 
 
-      Two of the lawsuits were filed by parents of **Sandy Hook** victims who
-      say they suffered threats & emotional distress due to Jones’ conspiracy
-      theory about the **2012 school shooting being a hoax**.
+      Two of the lawsuits were filed by parents of**Sandy Hook** victims who say
+      they suffered threats & emotional distress due to Jones’ conspiracy theory
+      about the**2012 school shooting being a hoax**.
 
 
-      Jones since recanted, but says his words are protected because he is a
-      **commentator** offering his **opinion**.
+      Jones since recanted, but says his words are protected because he is
+      a**commentator** offering his**opinion**.
 
 
       A LOOK AT THE LAW
     _key: card-2-29fa032e-da6b-4a36-ba32-f301f2f25061
   - order: 2
+    useCheckmark: false
     body: >-
       FREE SPEECH…  
 
@@ -56,6 +59,7 @@ cards:
       * **Defamatory statements**
     _key: card-3-2dc1a3d2-97d8-4f6b-b3b8-ec817c1b095c
   - order: 3
+    useCheckmark: false
     body: >-
       # Defamation Law
 
@@ -73,6 +77,7 @@ cards:
       [**Jones’ defense**]
     _key: card-4-f6488f45-8ece-43de-b318-dfe3162679c2
   - order: 4
+    useCheckmark: false
     body: >-
       # Why This Matters Beyond Jones:
 
@@ -88,6 +93,7 @@ cards:
       question.
     _key: card-5-3ed2ff76-4c62-4406-bb78-6150b91c78a2
   - order: 5
+    useCheckmark: true
     body: >-
       Facebook, YouTube, Apple & Spotify recently removed some of Jones' content
       from their platforms for violating hate speech or bullying policies.

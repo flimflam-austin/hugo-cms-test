@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       ## President Trump’s Team
 
@@ -34,6 +35,7 @@ cards:
       & President’s son-in-law
     _key: card-1-d6d5d2a9-54ad-4b8a-bfd3-423f3f22d076
   - order: 1
+    useCheckmark: false
     body: >-
       ## Hope Hicks
 
@@ -49,9 +51,11 @@ cards:
       interviews.
     _key: card-2-e9867c97-0389-4524-bab0-cb03ea4d6265
   - order: 2
+    useCheckmark: false
     body: "“Today we start to build another entity to help with the midterms. We must reenergize the #ArmyOfTrump to help our country stay on @realDonaldTrump a\x18s path that is Making America Great Again. We have only just started, you haven’t seen anything yet. #MAGA”\n\nBrad Parscale, Campaign Manager for Pres. Trump 2020, Twitter  \nFeb 28, 2018"
     _key: card-3-ed18bccd-81fd-4d87-b6c6-5649c174b1ae
   - order: 3
+    useCheckmark: false
     body: >-
       ## Brad Parscale
 
@@ -62,11 +66,12 @@ cards:
 
       * Digital Director for Trump 2016 presidential campaign
 
-      * Told CBS 60 minutes in 2017:A _“I understood early that Facebook was how
+      * Told CBS 60 minutes in 2017:A_“I understood early that Facebook was how
       Donald Trump was going to win. Twitter is how he talked to the people.
       Facebook was going to be how he won.”_
     _key: card-4-b78303ec-4873-4a68-9616-eb768d39a868
   - order: 4
+    useCheckmark: false
     body: >-
       ## Jared Kushner
 
@@ -80,6 +85,7 @@ cards:
       experience.
     _key: card-5-b11da601-fc6d-4a3a-b4a8-a183373a0d1b
   - order: 5
+    useCheckmark: true
     body: >-
       Breaking story on Jared Kushner raises questions about his White House
       meetings and business dealings - Read More:

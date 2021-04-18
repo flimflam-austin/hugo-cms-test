@@ -20,6 +20,7 @@ card_series: Health
 colorpaletteclassname: '--light-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # LIFE-CHANGING?
 
@@ -27,13 +28,14 @@ cards:
       ## 1 in 7 people get migraines.
 
 
-      The FDA just approved a **NEW drug** many believe will help (not cure)
+      The FDA just approved a**NEW drug** many believe will help (not cure)
       those who suffer.
 
 
       Why It Matters
     _key: card-1-d215de60-7a18-40a9-8643-f2f8b3134cf7
   - order: 1
+    useCheckmark: false
     body: >-
       ## Who Suffers?
 
@@ -51,18 +53,20 @@ cards:
       What Is The Drug?
     _key: card-2-c05fd19a-292c-4a4b-88a6-ea9a0441fe0f
   - order: 2
+    useCheckmark: false
     body: |-
       ## What’s The Treatment?
 
       * Monthly ***preventative*** injection is called “Aimovig.”
       * Created by major drugmakers, Amgen and Novartis.
-      * Costs **$6,900** a year/ **$575** a month.
+      * Costs**$6,900** a year/**$575** a month.
       * No side effects detected; studies continuing.
       * Available starting next week.
 
       Why Is This A Big Deal?
     _key: card-3-a386b2c3-cb42-4f80-8cef-b4ca3208f1bf
   - order: 3
+    useCheckmark: false
     body: >-
       ## What’s The Breakthrough?
 
@@ -73,10 +77,11 @@ cards:
       * By blocking *some* of these proteins on a cellular level, migraines
       lessen.
 
-      * Other big drug companies are working on similar treatments – **Could
-      this change the course of migraine treatment forever?**
+      * Other big drug companies are working on similar treatments –**Could this
+      change the course of migraine treatment forever?**
     _key: card-4-440b9cc2-a6a8-4ea7-8dde-68ee8fa26575
   - order: 4
+    useCheckmark: true
     body: >-
       Did you know...migraines are often distinguished from headaches because
       they impact one side of the head more than another? Read More:

@@ -20,6 +20,7 @@ card_series: Now You Know
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       # HOMECOMING…
 
@@ -37,6 +38,7 @@ cards:
       BTW You Pay For It...
     _key: card-1-824d19a8-b371-4bd5-8a82-1b0367b7aa60
   - order: 1
+    useCheckmark: false
     body: >-
       “WE THE PEOPLES OF THE UNITED NATIONS DETERMINED  
 
@@ -51,6 +53,7 @@ cards:
       approved America's membership.
     _key: card-2-f9b8c2fe-885f-4266-a566-51832d102b34
   - order: 2
+    useCheckmark: false
     body: >-
       ## General Assembly: General Debate
 
@@ -65,6 +68,7 @@ cards:
       lasting impact.
     _key: card-3-62cd5435-156b-439b-91cf-5ae62855c742
   - order: 3
+    useCheckmark: false
     body: >-
       ## What To Watch For:
 
@@ -72,18 +76,19 @@ cards:
       * **Pres. Trump’s speech on Tues.** In the last year, the U.S. arranged a
       historic summit w/North Korea & withdrew from Iran Nuclear Deal.
 
-      * S. Korea will reportedly deliver a **secret msg**. to U.S. from NoKo: a
+      * S. Korea will reportedly deliver a**secret msg**. to U.S. from NoKo: a
       condition of nuclear disarmament.
 
       * Pres. Trump will chair UN Security Council meeting Wednesday. Topic of
       discussion? Non-proliferation of nuclear weapons.
     _key: card-4-edfd3e5f-1866-4f64-a0f0-a1d8dfe3865c
   - order: 4
+    useCheckmark: false
     body: >-
       ## Something To Consider:
 
 
-      * America pays for 20% of the UN’s total budget. Last year: **$1.2B**
+      * America pays for 20% of the UN’s total budget. Last year:**$1.2B**
 
       * We pay more because of a formula in the UN charter tied to country size
       and wealth.
@@ -93,6 +98,7 @@ cards:
       majority of Americans agree the UN is not helping solve problems.
     _key: card-5-9ab83ef6-c196-4fb1-b268-14722d5691fd
   - order: 5
+    useCheckmark: true
     body: >-
       On Tuesday, Pres. Trump and the First Lady will host a cocktail party for
       current & future members of the UN Security Council. *Permanent* member

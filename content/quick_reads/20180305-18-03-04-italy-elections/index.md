@@ -20,6 +20,7 @@ card_series: Current Events
 colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
+    useCheckmark: false
     body: >-
       Italy Elects New Gov’t  
 
@@ -32,9 +33,10 @@ cards:
       * First election in 5 years – will determine gov’t for next 5 years.
 
       * No clear winner, but Euroskeptic, anti-establishment parties gained most
-      votes, & ruling center-left party lost ground. **This marks a change.**
+      votes, & ruling center-left party lost ground.**This marks a change.**
     _key: card-1-5014a0ec-e27f-4371-badb-9ea758680a5d
   - order: 1
+    useCheckmark: false
     body: >-
       Word To Know:  
 
@@ -49,9 +51,10 @@ cards:
 
 
       _New York Times:_ “That anti-immigrant sentiment, as well as a strong dose
-      of **euroskepticism**, swept Italy this election season.”
+      of**euroskepticism**, swept Italy this election season.”
     _key: card-2-1c7cbacb-c007-453b-b821-a5883cb7ee0a
   - order: 2
+    useCheckmark: false
     body: >-
       # The Major Players
 
@@ -59,13 +62,14 @@ cards:
       * **5-Star Movement**:A Euroskeptic, anti-establishment & pro-worker’s
       rights.
 
-      * Ex-PM Berlusconi’s **Center Right Coalition:** Anti-immigrant &
+      * Ex-PM Berlusconi’s**Center Right Coalition:** Anti-immigrant &
       anti-austerity (Berlusconi can’t run due to tax fraud conviction)
 
       * **Center-Left Coalition**: Former ruling party led by Ex-PM Renzi,
       focusedA on proposals to revive the economy.
     _key: card-3-41c05a16-b53e-4633-8ac3-70d3ede8ad08
   - order: 3
+    useCheckmark: false
     body: >-
       ## Key Issues: Immigration & the Economy
 
@@ -77,10 +81,11 @@ cards:
       level in Euro area.
 
 
-      Unemployment at **10.8%** with more than 32% of Italians under 25
+      Unemployment at**10.8%** with more than 32% of Italians under 25
       unemployed.
     _key: card-4-6dfbcd0e-5402-427a-99df-5775942a0ac2
   - order: 4
+    useCheckmark: false
     body: >-
       # No Clear Winner?
 
@@ -88,7 +93,7 @@ cards:
       * **5-Star movement & Center Right Coalition** win most votes.
 
       * Any party or coalition needs more than 40% support to win enough seats
-      to govern. **None did.**
+      to govern.**None did.**
 
       * Meant to encourage coalition building, but may end in a “hung
       Parliament.”
@@ -97,6 +102,7 @@ cards:
       single party to win.
     _key: card-5-73ae7563-a9fb-4666-9721-980122e536df
   - order: 5
+    useCheckmark: false
     body: >-
       > ‘Bottom line: Italy is far from having sorted its longstanding problems,
       and now it will have new ones. Be prepared for long and complex
@@ -108,6 +114,7 @@ cards:
       4, 2018
     _key: card-6-195d2a98-1e06-4aea-997c-6c5b745f40a6
   - order: 6
+    useCheckmark: true
     body: '[view sources](https://smarthernews.com/18-03-04-italy-elections/)'
     _key: card-10-0678098d-976b-457d-9c49-f368082c6627
 
