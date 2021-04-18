@@ -16,19 +16,26 @@ const getEverythingAfterLastSlash = string => string.substr(string.lastIndexOf('
 
 const removeAll = (string, toRemove) => string.split(toRemove).join('')
 
+const removeCharsFromString = (string, chars) => chars.reduce((newString, currentChar) => (removeAll(newString, currentChar)), string)
+
 const reverseAtChar = (string, char) => string.split(char).reverse().join('')
 
-const removeEqualSigns = string => removeAll(string, '=')
+const removeExtraneousPunctuation = string => removeCharsFromString(string, ['-', ',', '=', '_', ''])
 
-const removeCommas = string => removeAll(string, ',')
+/* const removeEqualSigns = string => removeAll(string, '=')
+
+const removeLowDashes = string => removeAll(string, '_')
+
+const removeHyphens = string => removeAll(string, '-')
+
+const removeCommas = string => removeAll(string, ',') */
 
 const lowerCase = string => string.toLowerCase()
 
 const reverseStringAtQuestionMark = string => (string.includes('?') ? reverseAtChar(string, '?') : string)
 
 const moveImageSuffixToPrefix = imageUrl => ff.pipe(
-    removeCommas,
-    removeEqualSigns,
+    removeExtraneousPunctuation,
     reverseStringAtQuestionMark
 )(imageUrl)
 
@@ -159,7 +166,7 @@ const writeFile = dataObj => {
     const scrubbedShortcodes = scrubShortcodes(outputMarkdown);
 
     // TODO: better path resolution
-    const outputPath = `${__dirname}/../../site/content/${type}/${slug}`;
+    const outputPath = `${__dirname}/../../content/${type}/${slug}`;
 
     const indexPath = `${outputPath}/index.md`
 

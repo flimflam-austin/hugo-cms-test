@@ -30,16 +30,20 @@ const translateCardBody = card => (
 )
 
 const buildCardData = (card, index) => {
+    try {
+        const translatedBody = translateCardBody(card)
 
-    const translatedBody = translateCardBody(card)
+        return Object.freeze({
+            order: index,
+            useCheckmark: card.useCheckmark,
+            ...(translatedBody && { body: translatedBody }),
+            ...(card.citation && { citation: card.citation }),
+            ...(card._key && { _key: card._key })
+        })
+    } catch (err) {
+        throw err
+    }
 
-    return Object.freeze({
-        order: index,
-        useCheckmark: card.useCheckmark,
-        ...(translatedBody && { body: translatedBody }),
-        ...(card.citation && { citation: card.citation }),
-        ...(card._key && { _key: card._key })
-    })
 }
 
 const buildCards = cards => {

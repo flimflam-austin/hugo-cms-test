@@ -5,8 +5,8 @@
 	"repository": "",
 	"scripts": {
 		"lint": "eslint src",
-		"start": "hugo serve -d ../dist -s site -vw & webpack-dev-server --config webpack.dev.js --hot",
-		"start:hugo": "hugo serve -d ../dist -s site -vw",
+		"start": "hugo serve -d dist -vw & webpack-dev-server --config webpack.dev.js --hot",
+		"start:hugo": "hugo serve -d dist -vw",
 		"start:webpack": "webpack-dev-server --config webpack.dev.js --hot",
 		"preview": "run-p preview:**",
 		"preview:hugo": "npm run start:hugo -- -D -F",
@@ -14,11 +14,11 @@
 		"prebuild": "rimraf dist",
 		"build": "npm run build:webpack && npm run build:hugo",
 		"build:preview": "npm run build:webpack && npm run build:hugo:preview",
-		"build:hugo": "hugo -d dist -s site -v",
+		"build:hugo": "hugo -d dist -v --minify",
 		"build:hugo:preview": "npm run build:hugo -- -D -F",
 		"build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js",
 		"refresh-content": "node ./buildscripts/sanityToHugo/index.js",
-		"netlify-build": "webpack --config webpack.prod.js && node ./buildscripts/sanityToHugo/index.js && hugo -s site -d ../dist -v --minify"
+		"netlify-build": "webpack --config webpack.prod.js && node ./buildscripts/sanityToHugo/index.js && hugo -d dist -v --minify"
 	},
 	"author": "",
 	"license": "MIT",

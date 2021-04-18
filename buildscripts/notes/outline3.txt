@@ -1,0 +1,58 @@
+> read in last cache
+> handle failure cache
+> start new cache
+> $query-list: list of all queries by type
+> $query-list for each:
+    > getQueryResults
+    > map queryResults into conversion report
+        # Railroad
+        > check if should skip (if revision number is in cached json  )
+        > true
+            > return
+        > false
+            > validate
+            > mutate
+                > lookup type
+                > translate keys
+                > mutate values
+                > build images
+                > handle fallbacks
+                > prune
+                > catch
+            > write
+                > create directory
+                > fetch assets
+                > build assets
+                > save assets
+                > catch
+            > catch
+        > cache revision
+        > catch
+        > report
+    > catch
+    > generate conversion report of files written
+> determine if any files should be removed
+> print + log success
+> catch (print + log failure)
+
+            
+
+report:
+{
+    dateGenerated: date
+    successful: boolean
+    filesWritten: number
+    filesUpdated: number
+    filesFailed: number
+    deletedItems: [
+        name: string
+    ]
+    items: {
+        itemId: {
+            slug: string
+            revisionID: string
+            failures: [string]
+            warnings: [string]
+        }
+    }
+}

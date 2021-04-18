@@ -104,9 +104,14 @@ const portableTextToMarkdown = portableText => {
         return null;
     }
 
-    const translatedText = toMarkdown(portableText, { serializers });
+    try {
+        const translatedText = toMarkdown(portableText, serializers)
+        const validated = ff.isValue(translatedText) ? translatedText : ' ';
 
-    return ff.isValue(translatedText) ? translatedText : ' ';
+        return validated
+    } catch (err) {
+        return err
+    }
 };
 
 module.exports = portableTextToMarkdown;

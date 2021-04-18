@@ -5,7 +5,7 @@ NPM_VERSION = "7.3.0"
 
 [build]
 base = "/"
-publish = "/dist"
+publish = "/site/dist"
 #functions = "functions"
 command = "yarn run netlify-build"
 

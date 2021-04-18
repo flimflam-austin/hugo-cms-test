@@ -1,0 +1,28 @@
+{
+    title: {
+        validator: validate.title
+        parser: parser.title
+        rename: 'mainTitle'
+        required: true
+        place: 
+    },
+    body: {
+        validator: validate.blockContent
+        parser: parser.blockContent
+        rename: false
+        required: false
+        inBody: true
+    },
+    mainImage: {
+        validator: validate.mainImage
+        parser: parser.mainImage
+    }
+},
+[
+    {
+        body: {
+            validator: validate.blockContent,
+            parser: parser.blockContent
+        }
+    }
+]

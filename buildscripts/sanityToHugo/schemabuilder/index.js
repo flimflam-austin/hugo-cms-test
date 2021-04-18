@@ -83,6 +83,17 @@ const getJsonFromSanityData = data => {
     return builtPage
 }
 
-const buildSchemaFromResponse = responseData => responseData.map(getJsonFromSanityData)
+const tryGetJsonFromSanityData = data => {
+    try {
+        const convertedData = getJsonFromSanityData(data)
+
+        return convertedData
+    } catch (err) {
+        console.log(JSON.stringify(data, null, '\t'))
+        throw Error('Error for object above at getJsonFromSanityData in index.js of schemaBuilder:', err)
+    }
+}
+
+const buildSchemaFromResponse = responseData => responseData.map(tryGetJsonFromSanityData)
 
 module.exports = buildSchemaFromResponse
