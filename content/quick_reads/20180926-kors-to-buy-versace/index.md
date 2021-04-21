@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxmNfH
 type: quick_reads
 draft: false
 aliases:
-  - kors-to-buy-versace/
+  - /
 _createdAt: '2018-09-26T11:45:02Z'
 _updatedAt: '2021-03-27T22:36:46Z'
 date: '2018-09-26T11:45:02+00:00'

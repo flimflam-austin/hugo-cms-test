@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/dir-of-the-vaccine-education-center-dr-paul-offit-childrens-hospital-of-philadelphia-on-the-emerging-new-strains-of-covid-19/
+    /dir-of-the-vaccine-education-center-dr-paul-offit-childrens-hospital-of-philadelphia-on-the-emerging-new-strains-of-covid-19/
 _createdAt: '2021-01-25T22:13:35Z'
 _updatedAt: '2021-04-17T09:19:30Z'
 date: '2021-01-25T22:13:35+00:00'

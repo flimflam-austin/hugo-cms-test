@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-13-sears-landlord/
+  - /
 _createdAt: '2018-04-13T10:35:49Z'
 _updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-13T10:35:49+00:00'

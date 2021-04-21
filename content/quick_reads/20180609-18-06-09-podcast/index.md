@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJs9R4x
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-09-podcast/
+  - /
 _createdAt: '2018-06-09T13:04:43Z'
 _updatedAt: '2021-03-26T01:11:39Z'
 date: '2018-06-09T13:04:43+00:00'

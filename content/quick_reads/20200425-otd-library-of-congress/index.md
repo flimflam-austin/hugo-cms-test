@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDXXoM
 type: quick_reads
 draft: false
 aliases:
-  - otd-library-of-congress/
+  - /
 _createdAt: '2021-04-02T20:02:02Z'
 _updatedAt: '2021-04-02T20:02:02Z'
 date: '2020-04-25T04:16:00.000Z'

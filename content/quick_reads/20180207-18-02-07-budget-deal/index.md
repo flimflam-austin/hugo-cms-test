@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrXa54
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-07-budget-deal/
+  - /
 _createdAt: '2018-02-08T03:26:43Z'
 _updatedAt: '2021-03-25T20:51:47Z'
 date: '2018-02-08T03:26:43+00:00'

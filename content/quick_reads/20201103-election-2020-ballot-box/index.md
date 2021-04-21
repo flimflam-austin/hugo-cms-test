@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2WztR
 type: quick_reads
 draft: false
 aliases:
-  - election-2020-ballot-box/
+  - /
 _createdAt: '2021-04-01T17:51:45Z'
 _updatedAt: '2021-04-01T17:51:45Z'
 date: '2020-11-03T08:33:00.000Z'

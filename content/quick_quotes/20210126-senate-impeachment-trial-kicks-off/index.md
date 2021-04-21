@@ -10,7 +10,7 @@ _rev: gzsIxkhSGQWrSyyf7HdO2m
 type: quick_quotes
 draft: false
 aliases:
-  - article/senate-impeachment-trial-kicks-off/
+  - /senate-impeachment-trial-kicks-off/
 _createdAt: '2021-01-26T23:05:13Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2021-01-26T23:05:13+00:00'

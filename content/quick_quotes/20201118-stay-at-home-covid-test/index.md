@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633lo90
 type: quick_quotes
 draft: false
 aliases:
-  - article/stay-at-home-covid-test/
+  - /stay-at-home-covid-test/
 _createdAt: '2020-11-18T22:45:49Z'
 _updatedAt: '2021-04-17T09:16:08Z'
 date: '2020-11-18T22:45:49+00:00'

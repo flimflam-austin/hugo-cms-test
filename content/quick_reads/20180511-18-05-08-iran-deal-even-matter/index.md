@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrzeKz
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-08-iran-deal-even-matter/
+  - /
 _createdAt: '2018-05-09T10:44:43Z'
 _updatedAt: '2021-03-25T23:49:55Z'
 date: '2018-05-09T10:44:43+00:00'

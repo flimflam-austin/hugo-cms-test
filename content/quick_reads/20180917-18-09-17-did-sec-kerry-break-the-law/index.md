@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2D7GTC
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-17-did-sec-kerry-break-the-law/
+  - /
 _createdAt: '2018-09-17T01:17:40Z'
 _updatedAt: '2021-03-27T22:05:17Z'
 date: '2018-09-17T01:17:40+00:00'

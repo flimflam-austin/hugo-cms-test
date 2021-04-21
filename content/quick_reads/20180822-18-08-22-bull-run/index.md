@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xZGzt
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-22-bull-run/
+  - /
 _createdAt: '2018-08-22T11:59:49Z'
 _updatedAt: '2021-03-26T20:13:44Z'
 date: '2018-08-22T11:59:49+00:00'

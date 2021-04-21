@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3rDLJ
 type: quick_reads
 draft: false
 aliases:
-  - quote-of-the-day-mike-pence/
+  - /
 _createdAt: '2021-04-03T00:46:29Z'
 _updatedAt: '2021-04-03T00:46:29Z'
 date: '2020-03-21T05:42:00.000Z'

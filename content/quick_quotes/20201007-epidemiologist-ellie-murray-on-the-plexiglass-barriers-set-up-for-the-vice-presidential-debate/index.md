@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/epidemiologist-ellie-murray-on-the-plexiglass-barriers-set-up-for-the-vice-presidential-debate/
+    /epidemiologist-ellie-murray-on-the-plexiglass-barriers-set-up-for-the-vice-presidential-debate/
 _createdAt: '2020-10-07T23:44:04Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-10-07T23:44:04+00:00'

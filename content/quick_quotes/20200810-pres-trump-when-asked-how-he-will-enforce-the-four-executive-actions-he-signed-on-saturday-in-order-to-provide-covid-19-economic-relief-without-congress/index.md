@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/pres-trump-when-asked-how-he-will-enforce-the-four-executive-actions-he-signed-on-saturday-in-order-to-provide-covid-19-economic-relief-without-congress/
+    /pres-trump-when-asked-how-he-will-enforce-the-four-executive-actions-he-signed-on-saturday-in-order-to-provide-covid-19-economic-relief-without-congress/
 _createdAt: '2020-08-09T18:54:37Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-08-09T18:54:37+00:00'

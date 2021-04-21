@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDD6iHW
 type: quick_reads
 draft: false
 aliases:
-  - regis-philbin-passes-away/
+  - /
 _createdAt: '2021-04-02T04:45:14Z'
 _updatedAt: '2021-04-02T04:45:14Z'
 date: '2020-07-27T10:41:00.000Z'

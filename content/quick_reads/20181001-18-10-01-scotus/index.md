@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxvH1t
 type: quick_reads
 draft: false
 aliases:
-  - 18-10-01-scotus/
+  - /
 _createdAt: '2018-10-01T11:39:46Z'
 _updatedAt: '2021-03-28T00:11:00Z'
 date: '2018-10-01T11:39:46+00:00'

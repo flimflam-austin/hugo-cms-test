@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/sec-of-state-mike-pompeo-announcing-cuba-will-be-designated-a-state-sponsor-of-terror/
+    /sec-of-state-mike-pompeo-announcing-cuba-will-be-designated-a-state-sponsor-of-terror/
 _createdAt: '2021-01-12T05:26:48Z'
 _updatedAt: '2021-04-17T09:15:51Z'
 date: '2021-01-12T05:26:48+00:00'

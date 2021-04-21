@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/champagne-industry-representative-on-how-the-covid-crisis-has-slashed-sales-of-the-classic-celebratory-drink/
+    /champagne-industry-representative-on-how-the-covid-crisis-has-slashed-sales-of-the-classic-celebratory-drink/
 _createdAt: '2020-08-04T22:39:57Z'
 _updatedAt: '2021-04-17T09:21:42Z'
 date: '2020-08-04T22:39:57+00:00'

@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/pres-trump-in-an-executive-order-suspending-certain-temporary-work-visas-through-the-end-of-the-year/
+    /pres-trump-in-an-executive-order-suspending-certain-temporary-work-visas-through-the-end-of-the-year/
 _createdAt: '2020-06-25T04:19:16Z'
 _updatedAt: '2021-04-17T09:16:24Z'
 date: '2020-06-25T04:19:16+00:00'

@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDD7Wr0
 type: quick_reads
 draft: false
 aliases:
-  - covid-update-july-21/
+  - /
 _createdAt: '2021-04-02T05:37:03Z'
 _updatedAt: '2021-04-02T05:37:03Z'
 date: '2020-07-22T10:04:00.000Z'

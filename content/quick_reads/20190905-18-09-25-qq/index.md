@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452ydzgj
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-25-qq/
+  - /
 _createdAt: '2018-09-25T12:13:54Z'
 _updatedAt: '2021-03-27T22:35:37Z'
 date: '2018-09-25T12:13:54+00:00'

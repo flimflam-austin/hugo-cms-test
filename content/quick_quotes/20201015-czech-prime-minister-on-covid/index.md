@@ -8,7 +8,7 @@ _rev: Pxytp4DhfU5gNtP633lxXf
 type: quick_quotes
 draft: false
 aliases:
-  - article/czech-prime-minister-on-covid/
+  - /czech-prime-minister-on-covid/
 _createdAt: '2020-10-16T02:52:16Z'
 _updatedAt: '2021-04-17T09:19:36Z'
 date: '2020-10-16T02:52:16+00:00'

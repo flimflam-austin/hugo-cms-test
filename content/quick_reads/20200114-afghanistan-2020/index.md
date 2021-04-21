@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4xvxMN
 type: quick_reads
 draft: false
 aliases:
-  - afghanistan-2020/
+  - /
 _createdAt: '2021-04-04T07:44:27Z'
 _updatedAt: '2021-04-04T07:44:27Z'
 date: '2020-01-14T11:08:00.000Z'

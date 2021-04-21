@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rWqw
 type: video_posts
 draft: false
 aliases:
-  - article/the-later-you-get-this-virus-the-better-off-you-will-be/
+  - /the-later-you-get-this-virus-the-better-off-you-will-be/
 _createdAt: '2020-06-27T04:11:52Z'
 _updatedAt: '2021-04-17T09:24:58Z'
 date: '2020-06-27T04:11:52+00:00'

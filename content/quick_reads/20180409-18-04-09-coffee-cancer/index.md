@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-09-coffee-cancer/
+  - /
 _createdAt: '2018-04-09T10:30:14Z'
 _updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-09T10:30:14+00:00'

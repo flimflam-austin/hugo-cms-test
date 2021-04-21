@@ -8,7 +8,7 @@ _rev: Pxytp4DhfU5gNtP633ltLa
 type: quick_quotes
 draft: false
 aliases:
-  - article/boeing-ceo-says-he-knew-about-pilot-concerns-for-the-737-planes/
+  - /boeing-ceo-says-he-knew-about-pilot-concerns-for-the-737-planes/
 _createdAt: '2019-10-30T02:53:41Z'
 _updatedAt: '2021-04-17T09:17:54Z'
 date: '2019-10-30T02:53:41+00:00'

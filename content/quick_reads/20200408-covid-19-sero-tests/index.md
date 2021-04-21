@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDZ6TO
 type: quick_reads
 draft: false
 aliases:
-  - covid-19-sero-tests/
+  - /
 _createdAt: '2021-04-02T20:47:39Z'
 _updatedAt: '2021-04-02T20:50:01Z'
 date: '2020-04-08T10:05:00.000Z'

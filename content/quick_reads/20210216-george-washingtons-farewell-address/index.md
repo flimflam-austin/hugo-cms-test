@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK70u3o
 type: quick_reads
 draft: false
 aliases:
-  - george-washingtons-farewell-address/
+  - /
 _createdAt: '2021-03-31T00:11:49Z'
 _updatedAt: '2021-03-31T00:11:49Z'
 date: '2021-02-16T06:07:00.000Z'

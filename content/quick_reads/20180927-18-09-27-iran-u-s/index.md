@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2D9La7
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-27-iran-u-s/
+  - /
 _createdAt: '2018-09-27T12:31:50Z'
 _updatedAt: '2021-03-27T22:39:30Z'
 date: '2018-09-27T12:31:50+00:00'

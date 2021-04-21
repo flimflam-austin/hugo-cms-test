@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wODAL
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-04-oscars-missed/
+  - /
 _createdAt: '2018-03-05T12:01:07Z'
 _updatedAt: '2021-03-25T22:07:49Z'
 date: '2018-03-05T12:01:07+00:00'

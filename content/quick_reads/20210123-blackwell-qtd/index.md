@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2NoeUK
 type: quick_reads
 draft: false
 aliases:
-  - blackwell-qtd/
+  - /
 _createdAt: '2021-03-31T16:40:58Z'
 _updatedAt: '2021-03-31T16:40:58Z'
 date: '2021-01-23T11:15:00.000Z'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532sX9p
 type: quick_reads
 draft: false
 aliases:
-  - ahmaud-arbery-one-year/
+  - /
 _createdAt: '2021-03-30T23:35:37Z'
 _updatedAt: '2021-03-30T23:35:37Z'
 date: '2021-02-24T11:55:00.000Z'

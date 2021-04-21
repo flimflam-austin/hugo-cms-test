@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wcEVh
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-15-amazon-prime-day-drivers-duel/
+  - /
 _createdAt: '2018-07-16T11:10:13Z'
 _updatedAt: '2021-03-26T02:50:42Z'
 date: '2018-07-16T11:10:13+00:00'

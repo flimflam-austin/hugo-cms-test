@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/chief-fda-scientist-explaining-the-fdas-decision-to-revoke-its-emergency-use-approval-for-hydroxychloroquine/
+    /chief-fda-scientist-explaining-the-fdas-decision-to-revoke-its-emergency-use-approval-for-hydroxychloroquine/
 _createdAt: '2020-06-16T01:07:49Z'
 _updatedAt: '2021-04-17T09:19:09Z'
 date: '2020-06-16T01:07:49+00:00'

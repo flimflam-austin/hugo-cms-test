@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK77La8
 type: quick_reads
 draft: false
 aliases:
-  - separated-families-minors-at-border-update/
+  - /
 _createdAt: '2021-03-31T00:52:06Z'
 _updatedAt: '2021-03-31T00:52:06Z'
 date: '2021-02-05T03:50:00.000Z'

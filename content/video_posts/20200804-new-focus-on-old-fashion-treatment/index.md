@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgfKS
 type: video_posts
 draft: false
 aliases:
-  - article/new-focus-on-old-fashion-treatment/
+  - /new-focus-on-old-fashion-treatment/
 _createdAt: '2020-08-04T12:45:46Z'
 _updatedAt: '2021-04-17T09:24:45Z'
 date: '2020-08-04T12:45:46+00:00'

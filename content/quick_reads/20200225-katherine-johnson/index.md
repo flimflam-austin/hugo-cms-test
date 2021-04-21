@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEHcBa
 type: quick_reads
 draft: false
 aliases:
-  - katherine-johnson/
+  - /
 _createdAt: '2021-04-04T06:09:50Z'
 _updatedAt: '2021-04-04T06:09:50Z'
 date: '2020-02-25T09:06:00.000Z'

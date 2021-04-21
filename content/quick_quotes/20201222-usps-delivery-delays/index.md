@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTadsG
 type: quick_quotes
 draft: false
 aliases:
-  - article/usps-delivery-delays/
+  - /usps-delivery-delays/
 _createdAt: '2020-12-23T03:17:34Z'
 _updatedAt: '2021-04-17T09:17:36Z'
 date: '2020-12-23T03:17:34+00:00'

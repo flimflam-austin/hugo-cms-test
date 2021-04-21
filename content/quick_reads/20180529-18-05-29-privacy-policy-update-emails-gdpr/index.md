@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28Oilm
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-29-privacy-policy-update-emails-gdpr/
+  - /
 _createdAt: '2018-05-29T10:16:37Z'
 _updatedAt: '2021-03-26T00:45:51Z'
 date: '2018-05-29T10:16:37+00:00'

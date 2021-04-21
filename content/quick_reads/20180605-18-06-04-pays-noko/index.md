@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wXPzp
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-04-pays-noko/
+  - /
 _createdAt: '2018-06-05T10:59:18Z'
 _updatedAt: '2021-03-26T01:01:00Z'
 date: '2018-06-05T10:59:18+00:00'

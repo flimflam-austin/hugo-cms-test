@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnUvQ
 type: video_posts
 draft: false
 aliases:
-  - article/leaked-phone-call-did-the-president-break-the-law/
+  - /leaked-phone-call-did-the-president-break-the-law/
 _createdAt: '2021-01-05T03:58:16Z'
 _updatedAt: '2021-04-17T09:24:11Z'
 date: '2021-01-05T03:58:16+00:00'

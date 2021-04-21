@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq284FMJ
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-07-bloody-sunday/
+  - /
 _createdAt: '2018-03-07T12:20:58Z'
 _updatedAt: '2021-03-25T22:12:13Z'
 date: '2018-03-07T12:20:58+00:00'

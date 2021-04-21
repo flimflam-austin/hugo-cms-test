@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/president-biden-during-his-first-news-conference-on-why-its-important-for-a-president-to-prioritize/
+    /president-biden-during-his-first-news-conference-on-why-its-important-for-a-president-to-prioritize/
 _createdAt: '2021-04-01T01:24:33Z'
 _updatedAt: '2021-04-17T08:36:03Z'
 date: '2021-03-26T07:20:00.000Z'

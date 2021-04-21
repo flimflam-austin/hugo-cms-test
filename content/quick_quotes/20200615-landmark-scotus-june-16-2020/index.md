@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633lkL7
 type: quick_quotes
 draft: false
 aliases:
-  - article/landmark-scotus-june-16-2020/
+  - /landmark-scotus-june-16-2020/
 _createdAt: '2020-06-15T16:38:47Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2020-06-15T16:38:47+00:00'

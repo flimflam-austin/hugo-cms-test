@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnZ2O
 type: video_posts
 draft: false
 aliases:
-  - article/what-we-dont-know/
+  - /what-we-dont-know/
 _createdAt: '2021-02-09T12:18:25Z'
 _updatedAt: '2021-04-17T09:24:50Z'
 date: '2021-02-09T12:18:25+00:00'

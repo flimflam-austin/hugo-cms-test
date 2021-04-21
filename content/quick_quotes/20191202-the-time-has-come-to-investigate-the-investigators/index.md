@@ -8,7 +8,7 @@ _rev: Pxytp4DhfU5gNtP633m5jj
 type: quick_quotes
 draft: false
 aliases:
-  - article/the-time-has-come-to-investigate-the-investigators/
+  - /the-time-has-come-to-investigate-the-investigators/
 _createdAt: '2019-11-25T02:32:38Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2019-11-25T02:32:38+00:00'

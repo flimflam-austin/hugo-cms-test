@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2VtqT
 type: quick_reads
 draft: false
 aliases:
-  - october-jobs-report/
+  - /
 _createdAt: '2021-04-01T17:38:58Z'
 _updatedAt: '2021-04-01T17:38:58Z'
 date: '2020-11-07T12:00:00.000Z'

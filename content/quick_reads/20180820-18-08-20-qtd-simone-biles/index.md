@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-20-qtd-simone-biles/
+  - /
 _createdAt: '2018-08-20T13:16:26Z'
 _updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-20T13:16:26+00:00'

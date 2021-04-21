@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/chief-of-police-robert-j-contee-for-the-metropolitan-police-department-in-washington-d-c-on-declaring-a-riot-at-the-u-s-capitol/
+    /chief-of-police-robert-j-contee-for-the-metropolitan-police-department-in-washington-d-c-on-declaring-a-riot-at-the-u-s-capitol/
 _createdAt: '2021-01-07T21:48:17Z'
 _updatedAt: '2021-04-17T09:20:02Z'
 date: '2021-01-07T21:48:17+00:00'

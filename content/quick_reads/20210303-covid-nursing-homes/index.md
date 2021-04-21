@@ -6,7 +6,7 @@ _rev: fCS2I5H6QAoInTnBxCES57
 type: quick_reads
 draft: false
 aliases:
-  - covid-nursing-homes/
+  - /
 _createdAt: '2021-03-30T23:18:38Z'
 _updatedAt: '2021-03-30T23:18:38Z'
 date: '2021-03-03T06:40:00.000Z'

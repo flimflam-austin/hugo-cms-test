@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDXjkU
 type: quick_reads
 draft: false
 aliases:
-  - covid-at-home/
+  - /
 _createdAt: '2021-04-02T20:08:47Z'
 _updatedAt: '2021-04-02T20:08:47Z'
 date: '2020-04-22T04:39:00.000Z'

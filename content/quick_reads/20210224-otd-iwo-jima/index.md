@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532thvp
 type: quick_reads
 draft: false
 aliases:
-  - otd-iwo-jima/
+  - /
 _createdAt: '2021-03-30T23:39:05Z'
 _updatedAt: '2021-03-30T23:40:20Z'
 date: '2021-02-24T02:44:00.000Z'

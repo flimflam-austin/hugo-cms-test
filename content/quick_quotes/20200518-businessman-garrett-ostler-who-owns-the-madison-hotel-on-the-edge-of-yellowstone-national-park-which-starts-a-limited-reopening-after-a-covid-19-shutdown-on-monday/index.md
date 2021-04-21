@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/businessman-garrett-ostler-who-owns-the-madison-hotel-on-the-edge-of-yellowstone-national-park-which-starts-a-limited-reopening-after-a-covid-19-shutdown-on-monday/
+    /businessman-garrett-ostler-who-owns-the-madison-hotel-on-the-edge-of-yellowstone-national-park-which-starts-a-limited-reopening-after-a-covid-19-shutdown-on-monday/
 _createdAt: '2020-05-18T05:59:52Z'
 _updatedAt: '2021-04-17T09:20:33Z'
 date: '2020-05-18T05:59:52+00:00'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wXSOT
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-06-quick-quotes/
+  - /
 _createdAt: '2018-06-06T10:32:01Z'
 _updatedAt: '2021-03-26T01:02:04Z'
 date: '2018-06-06T10:32:01+00:00'

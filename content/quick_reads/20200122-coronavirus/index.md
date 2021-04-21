@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEJN0g
 type: quick_reads
 draft: false
 aliases:
-  - coronavirus/
+  - /
 _createdAt: '2021-04-04T07:37:41Z'
 _updatedAt: '2021-04-04T07:37:41Z'
 date: '2020-01-22T10:51:00.000Z'

@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDD7M46
 type: quick_reads
 draft: false
 aliases:
-  - ice-cream-cone/
+  - /
 _createdAt: '2021-04-02T04:49:17Z'
 _updatedAt: '2021-04-02T05:26:06Z'
 date: '2020-07-24T00:10:00.000Z'

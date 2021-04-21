@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTaeLI
 type: quick_quotes
 draft: false
 aliases:
-  - article/economist-eric-winograd-alliancebernstein-on-the-may-jobs-report/
+  - /economist-eric-winograd-alliancebernstein-on-the-may-jobs-report/
 _createdAt: '2020-06-05T16:01:49Z'
 _updatedAt: '2021-04-17T09:17:45Z'
 date: '2020-06-05T16:01:49+00:00'

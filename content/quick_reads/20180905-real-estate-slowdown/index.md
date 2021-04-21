@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2D423Y
 type: quick_reads
 draft: false
 aliases:
-  - real-estate-slowdown/
+  - /
 _createdAt: '2018-09-05T11:55:14Z'
 _updatedAt: '2021-03-27T21:30:22Z'
 date: '2018-09-05T11:55:14+00:00'

@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd6p6
 type: quick_quotes
 draft: false
 aliases:
-  - article/witness-marwan-ramadan-to-a-deadly-explosion-in-beirut-lebanon/
+  - /witness-marwan-ramadan-to-a-deadly-explosion-in-beirut-lebanon/
 _createdAt: '2020-08-05T11:23:34Z'
 _updatedAt: '2021-04-17T09:19:22Z'
 date: '2020-08-05T11:23:34+00:00'

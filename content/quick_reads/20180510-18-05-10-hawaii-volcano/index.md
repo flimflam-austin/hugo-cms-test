@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-10-hawaii-volcano/
+  - /
 _createdAt: '2018-05-10T10:04:16Z'
 _updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-10T10:04:16+00:00'

@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/kim-yo-jong-sister-of-kim-jong-un-issuing-a-warning-to-the-united-states-as-the-secdef-secstate-visit-south-korea/
+    /kim-yo-jong-sister-of-kim-jong-un-issuing-a-warning-to-the-united-states-as-the-secdef-secstate-visit-south-korea/
 _createdAt: '2021-04-01T01:29:01Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-17T22:29:00.000Z'

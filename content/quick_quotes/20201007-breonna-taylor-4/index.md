@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7HctOT
 type: quick_quotes
 draft: false
 aliases:
-  - article/breonna-taylor-4/
+  - /breonna-taylor-4/
 _createdAt: '2020-10-07T15:36:07Z'
 _updatedAt: '2021-04-17T09:16:55Z'
 date: '2020-10-07T15:36:07+00:00'

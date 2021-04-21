@@ -6,7 +6,7 @@ _rev: m8O8PDvTRICveNMxPwjuCh
 type: quick_reads
 draft: false
 aliases:
-  - 02-09-18-stock-market-breather/
+  - /
 _createdAt: '2018-02-09T19:33:12Z'
 _updatedAt: '2021-03-25T20:57:57Z'
 date: '2018-02-09T19:33:12+00:00'

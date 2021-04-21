@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnQEb
 type: video_posts
 draft: false
 aliases:
-  - article/the-power-of-gratitude/
+  - /the-power-of-gratitude/
 _createdAt: '2020-11-26T04:52:56Z'
 _updatedAt: '2021-04-17T09:23:30Z'
 date: '2020-11-26T04:52:56+00:00'

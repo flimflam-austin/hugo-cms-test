@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJs3q1h
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-18-migraine-medication/
+  - /
 _createdAt: '2018-05-18T15:25:50Z'
 _updatedAt: '2021-03-26T00:24:14Z'
 date: '2018-05-18T15:25:50+00:00'

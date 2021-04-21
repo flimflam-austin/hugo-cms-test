@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/former-fda-commissioner-dr-scott-gottlieb-in-response-to-claims-a-covid-19-vaccine-could-be-ready-this-year-perhaps-by-election-day-as-nine-drug-companies-working-on-vaccines-pledge-to-put-safety-f/
+    /former-fda-commissioner-dr-scott-gottlieb-in-response-to-claims-a-covid-19-vaccine-could-be-ready-this-year-perhaps-by-election-day-as-nine-drug-companies-working-on-vaccines-pledge-to-put-safety-f/
 _createdAt: '2020-09-08T21:31:27Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-09-08T21:31:27+00:00'

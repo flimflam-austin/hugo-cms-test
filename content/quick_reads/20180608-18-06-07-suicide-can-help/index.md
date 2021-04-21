@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28QzVV
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-07-suicide-can-help/
+  - /
 _createdAt: '2018-06-08T10:41:20Z'
 _updatedAt: '2021-03-26T01:09:54Z'
 date: '2018-06-08T10:41:20+00:00'

@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTab44
 type: quick_quotes
 draft: false
 aliases:
-  - article/groundhogday2021/
+  - /groundhogday2021/
 _createdAt: '2021-02-02T19:28:09Z'
 _updatedAt: '2021-04-17T09:16:49Z'
 date: '2021-02-02T19:28:09+00:00'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28VMk7
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-21-trump-action-on-border/
+  - /
 _createdAt: '2018-06-21T10:33:12Z'
 _updatedAt: '2021-03-26T01:46:09Z'
 date: '2018-06-21T10:33:12+00:00'

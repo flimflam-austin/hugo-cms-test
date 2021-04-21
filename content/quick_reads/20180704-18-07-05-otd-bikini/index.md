@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsGB3j
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-05-otd-bikini/
+  - /
 _createdAt: '2018-07-05T02:45:25Z'
 _updatedAt: '2021-03-26T02:13:07Z'
 date: '2018-07-05T02:45:25+00:00'

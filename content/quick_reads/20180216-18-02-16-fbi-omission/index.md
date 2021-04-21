@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJriR4W
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-16-fbi-omission/
+  - /
 _createdAt: '2018-02-16T19:38:59Z'
 _updatedAt: '2021-03-25T21:47:18Z'
 date: '2018-02-16T19:38:59+00:00'

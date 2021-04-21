@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/homeland-security-secretary-alejandro-mayorkas-on-directing-federal-emergency-management-agency-fema-support-at-the-border-to-help-assist-with-the-surge-of-unaccompanied-minors/
+    /homeland-security-secretary-alejandro-mayorkas-on-directing-federal-emergency-management-agency-fema-support-at-the-border-to-help-assist-with-the-surge-of-unaccompanied-minors/
 _createdAt: '2021-04-01T01:36:39Z'
 _updatedAt: '2021-04-17T08:49:07Z'
 date: '2021-03-15T20:29:00.000Z'

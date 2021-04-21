@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wSApp
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-26-quote-stack/
+  - /
 _createdAt: '2018-04-26T10:43:20Z'
 _updatedAt: '2021-03-25T23:19:46Z'
 date: '2018-04-26T10:43:20+00:00'

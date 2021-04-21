@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/sheriff-alex-villanueva-on-golf-legend-tiger-woods-who-is-hospitalized-in-serious-but-stable-condition-after-a-rollover-crash-in-a-coastal-city-about-30-miles-south-of-los-angeles-tuesday-morning/
+    /sheriff-alex-villanueva-on-golf-legend-tiger-woods-who-is-hospitalized-in-serious-but-stable-condition-after-a-rollover-crash-in-a-coastal-city-about-30-miles-south-of-los-angeles-tuesday-morning/
 _createdAt: '2021-04-01T09:41:26Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-02-24T12:06:00.000Z'

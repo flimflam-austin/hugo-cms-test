@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDZC9e
 type: quick_reads
 draft: false
 aliases:
-  - covid-19-task-force-update-april-7/
+  - /
 _createdAt: '2021-04-02T20:52:23Z'
 _updatedAt: '2021-04-02T20:52:23Z'
 date: '2020-04-08T10:01:00.000Z'

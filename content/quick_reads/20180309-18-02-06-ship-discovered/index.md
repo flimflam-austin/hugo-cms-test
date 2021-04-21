@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrmOyo
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-06-ship-discovered/
+  - /
 _createdAt: '2018-03-07T12:16:30Z'
 _updatedAt: '2021-03-25T22:11:18Z'
 date: '2018-03-07T12:16:30+00:00'

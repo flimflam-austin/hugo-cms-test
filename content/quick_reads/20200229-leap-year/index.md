@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEHXuo
 type: quick_reads
 draft: false
 aliases:
-  - leap-year/
+  - /
 _createdAt: '2021-04-04T06:04:40Z'
 _updatedAt: '2021-04-04T06:04:40Z'
 date: '2020-02-29T09:53:00.000Z'

@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnOZ1
 type: video_posts
 draft: false
 aliases:
-  - article/smarther-starters-three-top-stories/
+  - /smarther-starters-three-top-stories/
 _createdAt: '2021-04-01T05:33:56Z'
 _updatedAt: '2021-04-17T09:23:13Z'
 date: '2021-03-22T21:27:00.000Z'

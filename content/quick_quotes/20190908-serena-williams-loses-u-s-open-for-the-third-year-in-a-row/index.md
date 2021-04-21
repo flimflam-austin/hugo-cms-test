@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd6VB
 type: quick_quotes
 draft: false
 aliases:
-  - article/serena-williams-loses-u-s-open-for-the-third-year-in-a-row/
+  - /serena-williams-loses-u-s-open-for-the-third-year-in-a-row/
 _createdAt: '2019-09-08T20:00:45Z'
 _updatedAt: '2021-04-17T09:19:20Z'
 date: '2019-09-08T20:00:45+00:00'

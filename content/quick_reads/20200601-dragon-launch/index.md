@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4tC4ep
 type: quick_reads
 draft: false
 aliases:
-  - dragon-launch/
+  - /
 _createdAt: '2021-04-02T18:42:35Z'
 _updatedAt: '2021-04-02T18:42:35Z'
 date: '2020-06-01T02:18:00.000Z'

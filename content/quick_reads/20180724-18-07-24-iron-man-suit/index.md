@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2AeoL1
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-24-iron-man-suit/
+  - /
 _createdAt: '2018-07-24T11:43:11Z'
 _updatedAt: '2021-03-26T17:39:08Z'
 date: '2018-07-24T11:43:11+00:00'

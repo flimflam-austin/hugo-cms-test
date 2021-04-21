@@ -8,7 +8,7 @@ type: video_posts
 draft: false
 aliases:
   - >-
-    article/diagnosed-with-cancer-at-23-this-author-now-helps-us-live-life-smarter-smarther-w-erin-zammett-ruddy/
+    /diagnosed-with-cancer-at-23-this-author-now-helps-us-live-life-smarter-smarther-w-erin-zammett-ruddy/
 _createdAt: '2020-12-19T14:22:10Z'
 _updatedAt: '2021-04-17T09:24:56Z'
 date: '2020-12-19T14:22:10+00:00'

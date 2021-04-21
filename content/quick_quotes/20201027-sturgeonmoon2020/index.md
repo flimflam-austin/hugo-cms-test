@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTaq6y
 type: quick_quotes
 draft: false
 aliases:
-  - article/sturgeonmoon2020/
+  - /sturgeonmoon2020/
 _createdAt: '2020-08-03T21:58:04Z'
 _updatedAt: '2021-04-17T09:20:52Z'
 date: '2020-08-03T21:58:04+00:00'

@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7HcvVw
 type: quick_quotes
 draft: false
 aliases:
-  - article/mighty-mice/
+  - /mighty-mice/
 _createdAt: '2020-09-08T12:04:43Z'
 _updatedAt: '2021-04-17T09:17:22Z'
 date: '2020-09-08T12:04:43+00:00'

@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633lzwr
 type: quick_quotes
 draft: false
 aliases:
-  - article/first-us-uk-covid-variant/
+  - /first-us-uk-covid-variant/
 _createdAt: '2020-12-20T20:59:35Z'
 _updatedAt: '2021-04-17T09:20:17Z'
 date: '2020-12-20T20:59:35+00:00'

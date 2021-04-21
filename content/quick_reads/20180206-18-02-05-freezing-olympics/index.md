@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wJP6L
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-05-freezing-olympics/
+  - /
 _createdAt: '2018-02-06T23:32:05Z'
 _updatedAt: '2021-03-25T20:47:54Z'
 date: '2018-02-06T23:32:05+00:00'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxgAw5
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-18-why-yemen-matters/
+  - /
 _createdAt: '2018-09-06T11:58:32Z'
 _updatedAt: '2021-03-27T21:32:24Z'
 date: '2018-09-06T11:58:32+00:00'

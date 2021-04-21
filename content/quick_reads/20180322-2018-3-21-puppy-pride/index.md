@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28675J
 type: quick_reads
 draft: false
 aliases:
-  - 2018-3-21-puppy-pride/
+  - /
 _createdAt: '2018-03-21T13:16:00Z'
 _updatedAt: '2021-03-25T22:28:18Z'
 date: '2018-03-21T13:16:00+00:00'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wYrP3
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-19-charity-giving/
+  - /
 _createdAt: '2018-06-19T10:45:36Z'
 _updatedAt: '2021-03-26T01:39:24Z'
 date: '2018-06-19T10:45:36+00:00'

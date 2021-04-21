@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd8gd
 type: quick_quotes
 draft: false
 aliases:
-  - article/charges-brooks-case/
+  - /charges-brooks-case/
 _createdAt: '2020-06-17T21:44:31Z'
 _updatedAt: '2021-04-17T09:19:45Z'
 date: '2020-06-17T21:44:31+00:00'

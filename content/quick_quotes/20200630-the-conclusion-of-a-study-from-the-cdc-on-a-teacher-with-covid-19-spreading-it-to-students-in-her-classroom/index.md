@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/the-conclusion-of-a-study-from-the-cdc-on-a-teacher-with-covid-19-spreading-it-to-students-in-her-classroom/
+    /the-conclusion-of-a-study-from-the-cdc-on-a-teacher-with-covid-19-spreading-it-to-students-in-her-classroom/
 _createdAt: '2020-06-30T15:25:11Z'
 _updatedAt: '2021-04-17T09:18:55Z'
 date: '2020-06-30T15:25:11+00:00'

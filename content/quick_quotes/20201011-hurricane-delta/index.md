@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTauwy
 type: quick_quotes
 draft: false
 aliases:
-  - article/hurricane-delta/
+  - /hurricane-delta/
 _createdAt: '2020-10-11T17:50:33Z'
 _updatedAt: '2021-04-17T09:22:19Z'
 date: '2020-10-11T17:50:33+00:00'

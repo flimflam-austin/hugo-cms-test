@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wNh4f
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-27-dash-women-elected-office/
+  - /
 _createdAt: '2018-02-27T13:00:58Z'
 _updatedAt: '2021-03-25T21:59:34Z'
 date: '2018-02-27T13:00:58+00:00'

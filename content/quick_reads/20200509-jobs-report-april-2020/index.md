@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDVlfC
 type: quick_reads
 draft: false
 aliases:
-  - jobs-report-april-2020/
+  - /
 _createdAt: '2021-04-02T19:16:24Z'
 _updatedAt: '2021-04-02T19:16:24Z'
 date: '2020-05-09T04:07:00.000Z'

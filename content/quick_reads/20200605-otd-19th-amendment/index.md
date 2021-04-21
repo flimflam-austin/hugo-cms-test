@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3aHMf
 type: quick_reads
 draft: false
 aliases:
-  - otd-19th-amendment/
+  - /
 _createdAt: '2021-04-02T18:37:47Z'
 _updatedAt: '2021-04-02T18:37:47Z'
 date: '2020-06-05T03:06:00.000Z'

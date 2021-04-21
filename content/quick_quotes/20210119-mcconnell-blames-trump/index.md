@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HdA2I
 type: quick_quotes
 draft: false
 aliases:
-  - article/mcconnell-blames-trump/
+  - /mcconnell-blames-trump/
 _createdAt: '2021-01-20T01:43:14Z'
 _updatedAt: '2021-04-17T09:19:56Z'
 date: '2021-01-20T01:43:14+00:00'

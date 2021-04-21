@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4tcymB
 type: quick_reads
 draft: false
 aliases:
-  - mary-katharine-ham/
+  - /
 _createdAt: '2021-04-02T20:47:30Z'
 _updatedAt: '2021-04-02T20:47:30Z'
 date: '2020-04-09T11:07:00.000Z'

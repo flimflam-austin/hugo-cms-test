@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452waeaT
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-06-iran/
+  - /
 _createdAt: '2018-07-06T04:00:20Z'
 _updatedAt: '2021-03-26T02:15:32Z'
 date: '2018-07-06T04:00:20+00:00'

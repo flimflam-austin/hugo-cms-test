@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/sen-mitt-romney-r-ut-on-the-results-of-u-s-senate-runoff-races-in-georgia-projecting-both-democrat-candidates-as-the-winners/
+    /sen-mitt-romney-r-ut-on-the-results-of-u-s-senate-runoff-races-in-georgia-projecting-both-democrat-candidates-as-the-winners/
 _createdAt: '2021-01-06T17:58:38Z'
 _updatedAt: '2021-04-17T09:16:06Z'
 date: '2021-01-06T17:58:38+00:00'

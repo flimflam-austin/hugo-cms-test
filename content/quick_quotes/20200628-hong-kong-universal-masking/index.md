@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd8ce
 type: quick_quotes
 draft: false
 aliases:
-  - article/hong-kong-universal-masking/
+  - /hong-kong-universal-masking/
 _createdAt: '2020-06-29T03:53:16Z'
 _updatedAt: '2021-04-17T09:19:43Z'
 date: '2020-06-29T03:53:16+00:00'

@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/the-world-health-organizations-director-for-europe-dr-hans-kluge-warning-of-increasing-covid-19-infections-among-young-people/
+    /the-world-health-organizations-director-for-europe-dr-hans-kluge-warning-of-increasing-covid-19-infections-among-young-people/
 _createdAt: '2020-08-28T02:19:05Z'
 _updatedAt: '2021-04-17T09:19:01Z'
 date: '2020-08-28T02:19:05+00:00'

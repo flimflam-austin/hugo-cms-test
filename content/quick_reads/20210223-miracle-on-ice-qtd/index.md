@@ -6,7 +6,7 @@ _rev: P1gK3jECOBAIFCNhoPnjbB
 type: quick_reads
 draft: false
 aliases:
-  - miracle-on-ice-qtd/
+  - /
 _createdAt: '2021-03-30T23:43:15Z'
 _updatedAt: '2021-03-30T23:43:15Z'
 date: '2021-02-23T03:18:00.000Z'

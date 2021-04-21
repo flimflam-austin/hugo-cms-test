@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/defense-secretary-lloyd-austin-on-the-u-s-bombing-a-target-in-syria-allegedly-used-by-iranian-back-militias-who-attacked-american-targets-last-week/
+    /defense-secretary-lloyd-austin-on-the-u-s-bombing-a-target-in-syria-allegedly-used-by-iranian-back-militias-who-attacked-american-targets-last-week/
 _createdAt: '2021-04-01T02:28:00Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-02-26T11:07:00.000Z'

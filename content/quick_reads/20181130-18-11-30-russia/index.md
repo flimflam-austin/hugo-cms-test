@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DIT2Q
 type: quick_reads
 draft: false
 aliases:
-  - 18-11-30-russia/
+  - /
 _createdAt: '2018-11-30T13:00:34Z'
 _updatedAt: '2021-03-28T00:41:53Z'
 date: '2018-11-30T13:00:34+00:00'

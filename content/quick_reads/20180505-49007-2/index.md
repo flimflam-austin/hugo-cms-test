@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
-  - 49007-2/
+  - /
 _createdAt: '2018-05-06T00:30:54Z'
 _updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-06T00:30:54+00:00'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq27ovEZ
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-02-unemployment/
+  - /
 _createdAt: '2018-02-02T13:39:39Z'
 _updatedAt: '2021-03-25T20:45:48Z'
 date: '2018-02-02T13:39:39+00:00'

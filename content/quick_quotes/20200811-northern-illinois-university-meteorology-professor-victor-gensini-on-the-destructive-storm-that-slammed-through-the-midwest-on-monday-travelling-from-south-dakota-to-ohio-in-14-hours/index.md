@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/northern-illinois-university-meteorology-professor-victor-gensini-on-the-destructive-storm-that-slammed-through-the-midwest-on-monday-travelling-from-south-dakota-to-ohio-in-14-hours/
+    /northern-illinois-university-meteorology-professor-victor-gensini-on-the-destructive-storm-that-slammed-through-the-midwest-on-monday-travelling-from-south-dakota-to-ohio-in-14-hours/
 _createdAt: '2020-08-11T17:24:34Z'
 _updatedAt: '2021-04-17T09:18:37Z'
 date: '2020-08-11T17:24:34+00:00'

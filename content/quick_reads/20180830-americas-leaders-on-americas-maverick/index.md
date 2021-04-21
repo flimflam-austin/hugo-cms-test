@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxdO2e
 type: quick_reads
 draft: false
 aliases:
-  - americas-leaders-on-americas-maverick/
+  - /
 _createdAt: '2018-08-30T11:14:15Z'
 _updatedAt: '2021-03-27T21:14:28Z'
 date: '2018-08-30T11:14:15+00:00'

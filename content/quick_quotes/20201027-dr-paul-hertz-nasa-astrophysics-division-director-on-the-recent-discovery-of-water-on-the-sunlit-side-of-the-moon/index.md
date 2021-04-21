@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/dr-paul-hertz-nasa-astrophysics-division-director-on-the-recent-discovery-of-water-on-the-sunlit-side-of-the-moon/
+    /dr-paul-hertz-nasa-astrophysics-division-director-on-the-recent-discovery-of-water-on-the-sunlit-side-of-the-moon/
 _createdAt: '2020-10-27T19:57:19Z'
 _updatedAt: '2021-04-17T09:20:32Z'
 date: '2020-10-27T19:57:19+00:00'

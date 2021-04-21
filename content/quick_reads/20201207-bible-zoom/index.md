@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2RXUP
 type: quick_reads
 draft: false
 aliases:
-  - bible-zoom/
+  - /
 _createdAt: '2021-04-01T16:27:07Z'
 _updatedAt: '2021-04-01T16:27:07Z'
 date: '2020-12-07T11:22:00.000Z'

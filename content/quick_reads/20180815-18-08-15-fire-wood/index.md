@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xYaPt
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-15-fire-wood/
+  - /
 _createdAt: '2018-08-15T11:54:35Z'
 _updatedAt: '2021-03-26T19:58:20Z'
 date: '2018-08-15T11:54:35+00:00'

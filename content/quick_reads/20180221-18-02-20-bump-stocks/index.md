@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wNIqj
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-20-bump-stocks/
+  - /
 _createdAt: '2018-02-21T14:00:29Z'
 _updatedAt: '2021-03-25T21:51:01Z'
 date: '2018-02-21T14:00:29+00:00'

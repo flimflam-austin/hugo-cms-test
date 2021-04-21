@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJs2dUm
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-13-mothers-day-background/
+  - /
 _createdAt: '2018-05-13T00:23:48Z'
 _updatedAt: '2021-03-26T00:12:09Z'
 date: '2018-05-13T00:23:48+00:00'

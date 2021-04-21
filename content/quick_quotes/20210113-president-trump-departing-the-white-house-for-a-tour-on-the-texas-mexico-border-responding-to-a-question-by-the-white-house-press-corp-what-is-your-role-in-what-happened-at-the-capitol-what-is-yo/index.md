@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/president-trump-departing-the-white-house-for-a-tour-on-the-texas-mexico-border-responding-to-a-question-by-the-white-house-press-corp-what-is-your-role-in-what-happened-at-the-capitol-what-is-yo/
+    /president-trump-departing-the-white-house-for-a-tour-on-the-texas-mexico-border-responding-to-a-question-by-the-white-house-press-corp-what-is-your-role-in-what-happened-at-the-capitol-what-is-yo/
 _createdAt: '2021-01-13T03:49:29Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-01-13T03:49:29+00:00'

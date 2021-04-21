@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rVQE
 type: video_posts
 draft: false
 aliases:
-  - article/recap-of-the-democratic-national-convention/
+  - /recap-of-the-democratic-national-convention/
 _createdAt: '2020-08-21T19:06:02Z'
 _updatedAt: '2021-04-17T09:24:33Z'
 date: '2020-08-21T19:06:02+00:00'

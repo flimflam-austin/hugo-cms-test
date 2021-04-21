@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsEwJd
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-28-kennedy-scotus/
+  - /
 _createdAt: '2018-06-28T11:00:27Z'
 _updatedAt: '2021-03-26T01:59:48Z'
 date: '2018-06-28T11:00:27+00:00'

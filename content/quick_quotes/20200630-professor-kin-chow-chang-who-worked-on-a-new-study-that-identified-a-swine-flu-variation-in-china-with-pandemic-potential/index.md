@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/professor-kin-chow-chang-who-worked-on-a-new-study-that-identified-a-swine-flu-variation-in-china-with-pandemic-potential/
+    /professor-kin-chow-chang-who-worked-on-a-new-study-that-identified-a-swine-flu-variation-in-china-with-pandemic-potential/
 _createdAt: '2020-06-30T11:39:43Z'
 _updatedAt: '2021-04-17T09:16:19Z'
 date: '2020-06-30T11:39:43+00:00'

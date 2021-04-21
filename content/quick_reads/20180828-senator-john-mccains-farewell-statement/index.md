@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2CyX7P
 type: quick_reads
 draft: false
 aliases:
-  - senator-john-mccains-farewell-statement/
+  - /
 _createdAt: '2018-08-28T12:02:13Z'
 _updatedAt: '2021-03-27T20:49:12Z'
 date: '2018-08-28T12:02:13+00:00'

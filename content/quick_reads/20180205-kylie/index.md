@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wJLkr
 type: quick_reads
 draft: false
 aliases:
-  - kylie/
+  - /
 _createdAt: '2018-02-05T14:15:18Z'
 _updatedAt: '2021-03-25T20:46:54Z'
 date: '2018-02-05T14:15:18+00:00'

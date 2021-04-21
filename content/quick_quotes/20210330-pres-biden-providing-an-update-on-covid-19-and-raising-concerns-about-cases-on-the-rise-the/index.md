@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/pres-biden-providing-an-update-on-covid-19-raising-concerns-about-cases-on-the-rise-the-president-says-hospitalizations-and-deaths-are-also-up-in-some-parts-of-the-country/
+    /pres-biden-providing-an-update-on-covid-19-raising-concerns-about-cases-on-the-rise-the-president-says-hospitalizations-and-deaths-are-also-up-in-some-parts-of-the-country/
 _createdAt: '2021-04-01T00:14:00Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-30T09:52:00.000Z'

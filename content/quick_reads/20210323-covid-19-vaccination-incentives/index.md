@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532i7EL
 type: quick_reads
 draft: false
 aliases:
-  - covid-19-vaccination-incentives/
+  - /
 _createdAt: '2021-03-30T21:05:25Z'
 _updatedAt: '2021-03-30T21:05:25Z'
 date: '2021-03-23T19:41:00.000Z'

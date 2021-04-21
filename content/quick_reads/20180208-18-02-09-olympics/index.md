@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wJzAD
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-09-olympics/
+  - /
 _createdAt: '2018-02-09T06:01:52Z'
 _updatedAt: '2021-03-25T20:57:07Z'
 date: '2018-02-09T06:01:52+00:00'

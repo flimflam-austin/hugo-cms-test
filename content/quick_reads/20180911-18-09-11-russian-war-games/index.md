@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2D4kqy
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-11-russian-war-games/
+  - /
 _createdAt: '2018-09-11T11:57:47Z'
 _updatedAt: '2021-03-27T21:40:26Z'
 date: '2018-09-11T11:57:47+00:00'

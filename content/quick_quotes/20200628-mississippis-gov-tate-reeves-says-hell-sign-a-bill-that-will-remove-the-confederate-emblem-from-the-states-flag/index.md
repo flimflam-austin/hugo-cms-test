@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/mississippis-gov-tate-reeves-says-hell-sign-a-bill-that-will-remove-the-confederate-emblem-from-the-states-flag/
+    /mississippis-gov-tate-reeves-says-hell-sign-a-bill-that-will-remove-the-confederate-emblem-from-the-states-flag/
 _createdAt: '2020-06-28T18:26:52Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-06-28T18:26:52+00:00'

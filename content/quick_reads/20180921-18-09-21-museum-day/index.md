@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2D8MFh
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-21-museum-day/
+  - /
 _createdAt: '2018-09-21T11:41:53Z'
 _updatedAt: '2021-03-27T22:22:37Z'
 date: '2018-09-21T11:41:53+00:00'

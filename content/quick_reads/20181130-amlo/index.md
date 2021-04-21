@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
-  - amlo/
+  - /
 _createdAt: '2018-12-01T04:41:22Z'
 _updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-12-01T04:41:22+00:00'

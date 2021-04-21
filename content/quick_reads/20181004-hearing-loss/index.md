@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DHBPt
 type: quick_reads
 draft: false
 aliases:
-  - hearing-loss/
+  - /
 _createdAt: '2018-10-04T11:33:44Z'
 _updatedAt: '2021-03-28T00:21:55Z'
 date: '2018-10-04T11:33:44+00:00'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsKTG8
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-17-bezos-qtd/
+  - /
 _createdAt: '2018-07-17T11:00:54Z'
 _updatedAt: '2021-03-26T02:51:54Z'
 date: '2018-07-17T11:00:54+00:00'

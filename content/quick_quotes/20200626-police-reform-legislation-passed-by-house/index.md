@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HcxdP
 type: quick_quotes
 draft: false
 aliases:
-  - article/police-reform-legislation-passed-by-house/
+  - /police-reform-legislation-passed-by-house/
 _createdAt: '2020-06-26T12:03:59Z'
 _updatedAt: '2021-04-17T09:17:50Z'
 date: '2020-06-26T12:03:59+00:00'

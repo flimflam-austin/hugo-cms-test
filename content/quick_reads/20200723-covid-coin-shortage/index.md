@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r31taj
 type: quick_reads
 draft: false
 aliases:
-  - covid-coin-shortage/
+  - /
 _createdAt: '2021-04-02T05:29:46Z'
 _updatedAt: '2021-04-02T05:29:46Z'
 date: '2020-07-23T22:45:00.000Z'

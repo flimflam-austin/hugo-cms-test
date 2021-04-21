@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4m02n
 type: quick_reads
 draft: false
 aliases:
-  - kirk-dougas-qtd/
+  - /
 _createdAt: '2021-04-04T07:09:34Z'
 _updatedAt: '2021-04-04T07:09:34Z'
 date: '2020-02-06T12:42:00.000Z'

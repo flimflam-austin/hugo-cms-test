@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4tgQcl
 type: quick_reads
 draft: false
 aliases:
-  - white-house-task-force-april-2/
+  - /
 _createdAt: '2021-04-02T21:08:28Z'
 _updatedAt: '2021-04-02T21:08:28Z'
 date: '2020-04-04T01:08:00.000Z'

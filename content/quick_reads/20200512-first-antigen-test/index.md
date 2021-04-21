@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3cIRl
 type: quick_reads
 draft: false
 aliases:
-  - first-antigen-test/
+  - /
 _createdAt: '2021-04-02T19:10:42Z'
 _updatedAt: '2021-04-02T19:10:42Z'
 date: '2020-05-12T04:14:00.000Z'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wXO1V
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-06-stockton/
+  - /
 _createdAt: '2018-06-05T10:58:04Z'
 _updatedAt: '2021-03-26T01:00:16Z'
 date: '2018-06-05T10:58:04+00:00'

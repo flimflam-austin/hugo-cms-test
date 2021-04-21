@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DIHjS
 type: quick_reads
 draft: false
 aliases:
-  - 18-11-29-oils-magic-number/
+  - /
 _createdAt: '2018-11-29T12:36:03Z'
 _updatedAt: '2021-03-28T00:39:08Z'
 date: '2018-11-29T12:36:03+00:00'

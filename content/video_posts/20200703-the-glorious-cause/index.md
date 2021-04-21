@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnTph
 type: video_posts
 draft: false
 aliases:
-  - article/the-glorious-cause/
+  - /the-glorious-cause/
 _createdAt: '2020-07-03T18:30:38Z'
 _updatedAt: '2021-04-17T09:24:02Z'
 date: '2020-07-03T18:30:38+00:00'

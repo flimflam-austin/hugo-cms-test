@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/washington-nationals-manager-dave-martinez-on-the-teams-current-outbreak-of-covid-19/
+    /washington-nationals-manager-dave-martinez-on-the-teams-current-outbreak-of-covid-19/
 _createdAt: '2020-07-28T11:05:54Z'
 _updatedAt: '2021-04-17T09:18:41Z'
 date: '2020-07-28T11:05:54+00:00'

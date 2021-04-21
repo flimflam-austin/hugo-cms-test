@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HcsUh
 type: quick_quotes
 draft: false
 aliases:
-  - article/texas-becomes-latest-state-to-ban-red-light-cameras/
+  - /texas-becomes-latest-state-to-ban-red-light-cameras/
 _createdAt: '2019-08-16T19:56:15Z'
 _updatedAt: '2021-04-17T09:16:45Z'
 date: '2019-08-16T19:56:15+00:00'

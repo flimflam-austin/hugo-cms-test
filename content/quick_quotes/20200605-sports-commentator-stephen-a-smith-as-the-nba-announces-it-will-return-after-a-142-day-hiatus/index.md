@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/sports-commentator-stephen-a-smith-as-the-nba-announces-it-will-return-after-a-142-day-hiatus/
+    /sports-commentator-stephen-a-smith-as-the-nba-announces-it-will-return-after-a-142-day-hiatus/
 _createdAt: '2020-06-05T15:15:14Z'
 _updatedAt: '2021-04-17T09:17:32Z'
 date: '2020-06-05T15:15:14+00:00'

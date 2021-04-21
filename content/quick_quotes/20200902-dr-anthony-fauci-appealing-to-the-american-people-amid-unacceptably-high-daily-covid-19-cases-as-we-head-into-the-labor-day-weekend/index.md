@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/dr-anthony-fauci-appealing-to-the-american-people-amid-unacceptably-high-daily-covid-19-cases-as-we-head-into-the-labor-day-weekend/
+    /dr-anthony-fauci-appealing-to-the-american-people-amid-unacceptably-high-daily-covid-19-cases-as-we-head-into-the-labor-day-weekend/
 _createdAt: '2020-09-02T20:44:19Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-09-02T20:44:19+00:00'

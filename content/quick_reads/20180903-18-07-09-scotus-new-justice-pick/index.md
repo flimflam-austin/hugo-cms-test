@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wafuX
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-09-scotus-new-justice-pick/
+  - /
 _createdAt: '2018-07-09T03:47:44Z'
 _updatedAt: '2021-03-26T02:16:18Z'
 date: '2018-07-09T03:47:44+00:00'

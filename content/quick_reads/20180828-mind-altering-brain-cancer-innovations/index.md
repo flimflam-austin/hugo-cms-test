@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
-  - mind-altering-brain-cancer-innovations/
+  - /
 _createdAt: '2018-08-28T12:01:48Z'
 _updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-28T12:01:48+00:00'

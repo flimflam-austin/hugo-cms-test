@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-28-roseanne-tvland-domination/
+  - /
 _createdAt: '2018-03-29T09:46:46Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-29T09:46:46+00:00'

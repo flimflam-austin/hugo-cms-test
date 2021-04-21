@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2TeMX
 type: quick_reads
 draft: false
 aliases:
-  - plans-for-afghanistan/
+  - /
 _createdAt: '2021-04-01T16:58:05Z'
 _updatedAt: '2021-04-01T16:58:05Z'
 date: '2020-11-18T12:47:00.000Z'

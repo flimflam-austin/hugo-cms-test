@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/the-cdc-updating-its-guidance-on-the-potential-spread-of-the-virus-that-causes-covid-19/
+    /the-cdc-updating-its-guidance-on-the-potential-spread-of-the-virus-that-causes-covid-19/
 _createdAt: '2020-10-05T19:05:43Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-10-05T19:05:43+00:00'

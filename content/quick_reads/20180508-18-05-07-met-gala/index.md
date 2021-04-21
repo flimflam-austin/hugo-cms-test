@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wTgiD
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-07-met-gala/
+  - /
 _createdAt: '2018-05-08T10:20:48Z'
 _updatedAt: '2021-03-25T23:45:48Z'
 date: '2018-05-08T10:20:48+00:00'

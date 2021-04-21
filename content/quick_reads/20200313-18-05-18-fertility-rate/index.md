@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-18-fertility-rate/
+  - /
 _createdAt: '2018-05-18T09:50:13Z'
 _updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-05-18T09:50:13+00:00'

@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/sen-lindsey-graham-r-s-c-on-the-potential-formation-of-a-congressional-bipartisan-inquiry-into-the-january-6th-capitol-hill-riot/
+    /sen-lindsey-graham-r-s-c-on-the-potential-formation-of-a-congressional-bipartisan-inquiry-into-the-january-6th-capitol-hill-riot/
 _createdAt: '2021-04-01T11:32:49Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-02-15T20:00:00.000Z'

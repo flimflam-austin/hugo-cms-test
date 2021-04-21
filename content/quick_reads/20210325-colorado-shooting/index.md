@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532hdMT
 type: quick_reads
 draft: false
 aliases:
-  - colorado-shooting/
+  - /
 _createdAt: '2021-03-30T20:15:50Z'
 _updatedAt: '2021-03-30T20:56:53Z'
 date: '2021-03-25T09:02:00.000Z'

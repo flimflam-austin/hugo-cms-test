@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxwLHN
 type: quick_reads
 draft: false
 aliases:
-  - 18-10-04-mount-rushmore/
+  - /
 _createdAt: '2018-10-04T15:06:45Z'
 _updatedAt: '2021-03-28T00:25:02Z'
 date: '2018-10-04T15:06:45+00:00'

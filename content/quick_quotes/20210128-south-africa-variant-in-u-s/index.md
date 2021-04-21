@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTatv6
 type: quick_quotes
 draft: false
 aliases:
-  - article/south-africa-variant-in-u-s/
+  - /south-africa-variant-in-u-s/
 _createdAt: '2021-01-28T21:50:29Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2021-01-28T21:50:29+00:00'

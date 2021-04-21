@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTghXs
 type: video_posts
 draft: false
 aliases:
-  - article/what-to-know-why-it-matters-armenia-and-azerbijan/
+  - /what-to-know-why-it-matters-armenia-and-azerbijan/
 _createdAt: '2020-10-12T16:22:54Z'
 _updatedAt: '2021-04-17T09:25:30Z'
 date: '2020-10-12T16:22:54+00:00'

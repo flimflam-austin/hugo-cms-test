@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/letter-to-the-editor-at-the-new-england-journal-of-medicine-after-an-initial-study-on-cats-covid-19/
+    /letter-to-the-editor-at-the-new-england-journal-of-medicine-after-an-initial-study-on-cats-covid-19/
 _createdAt: '2020-05-14T18:56:26Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-05-14T18:56:26+00:00'

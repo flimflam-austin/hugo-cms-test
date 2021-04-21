@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wamvd
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-09-scotus-pick/
+  - /
 _createdAt: '2018-07-10T11:49:54Z'
 _updatedAt: '2021-03-26T02:18:48Z'
 date: '2018-07-10T11:49:54+00:00'

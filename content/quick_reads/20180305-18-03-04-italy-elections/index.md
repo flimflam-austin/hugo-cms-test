@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-04-italy-elections/
+  - /
 _createdAt: '2018-03-05T12:01:29Z'
 _updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-05T12:01:29+00:00'

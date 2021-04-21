@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/national-retail-federations-jonathan-gold-who-focuses-on-supply-chains-as-multiple-retail-leaders-amazon-walmart-target-start-holiday-sales-early/
+    /national-retail-federations-jonathan-gold-who-focuses-on-supply-chains-as-multiple-retail-leaders-amazon-walmart-target-start-holiday-sales-early/
 _createdAt: '2020-10-13T03:36:35Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-10-13T03:36:35+00:00'

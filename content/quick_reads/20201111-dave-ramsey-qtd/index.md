@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCodt0
 type: quick_reads
 draft: false
 aliases:
-  - dave-ramsey-qtd/
+  - /
 _createdAt: '2021-04-01T17:23:35Z'
 _updatedAt: '2021-04-01T17:23:35Z'
 date: '2020-11-11T09:33:00.000Z'

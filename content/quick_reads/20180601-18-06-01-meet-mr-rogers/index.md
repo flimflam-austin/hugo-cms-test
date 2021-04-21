@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJs88z8
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-01-meet-mr-rogers/
+  - /
 _createdAt: '2018-06-01T10:45:13Z'
 _updatedAt: '2021-03-26T00:56:25Z'
 date: '2018-06-01T10:45:13+00:00'

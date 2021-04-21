@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4xidFL
 type: quick_reads
 draft: false
 aliases:
-  - alexander-graham-bell-tests-phone/
+  - /
 _createdAt: '2021-04-04T05:40:43Z'
 _updatedAt: '2021-04-04T05:43:20Z'
 date: '2020-03-11T02:54:00.000Z'

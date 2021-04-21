@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/dr-seuss-enterprises-to-the-associated-press-on-halting-the-publishing-of-6-of-dr-seuss-books-because-of-racist-racist-and-insensitive-imagery-according-to-the-ap/
+    /dr-seuss-enterprises-to-the-associated-press-on-halting-the-publishing-of-6-of-dr-seuss-books-because-of-racist-racist-and-insensitive-imagery-according-to-the-ap/
 _createdAt: '2021-04-01T02:20:57Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-02T20:42:00.000Z'

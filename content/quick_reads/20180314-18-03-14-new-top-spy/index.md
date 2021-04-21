@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wPGs9
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-14-new-top-spy/
+  - /
 _createdAt: '2018-03-14T10:29:34Z'
 _updatedAt: '2021-03-25T22:21:12Z'
 date: '2018-03-14T10:29:34+00:00'

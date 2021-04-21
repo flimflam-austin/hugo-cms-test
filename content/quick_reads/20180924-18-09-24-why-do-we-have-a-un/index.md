@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452ydk1t
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-24-why-do-we-have-a-un/
+  - /
 _createdAt: '2018-09-24T12:00:17Z'
 _updatedAt: '2021-03-27T22:28:46Z'
 date: '2018-09-24T12:00:17+00:00'

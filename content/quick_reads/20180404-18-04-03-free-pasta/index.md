@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-03-free-pasta/
+  - /
 _createdAt: '2018-04-04T10:51:40Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-04T10:51:40+00:00'

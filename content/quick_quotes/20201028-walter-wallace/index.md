@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633lmcF
 type: quick_quotes
 draft: false
 aliases:
-  - article/walter-wallace/
+  - /walter-wallace/
 _createdAt: '2020-10-28T03:52:33Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-10-28T03:52:33+00:00'

@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-05-monday-motivation-superbowl/
+  - /
 _createdAt: '2018-02-05T12:32:50Z'
 _updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-05T12:32:50+00:00'

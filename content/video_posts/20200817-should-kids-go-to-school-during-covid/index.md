@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnRqC
 type: video_posts
 draft: false
 aliases:
-  - article/should-kids-go-to-school-during-covid/
+  - /should-kids-go-to-school-during-covid/
 _createdAt: '2020-08-17T10:59:58Z'
 _updatedAt: '2021-04-17T09:23:46Z'
 date: '2020-08-17T10:59:58+00:00'

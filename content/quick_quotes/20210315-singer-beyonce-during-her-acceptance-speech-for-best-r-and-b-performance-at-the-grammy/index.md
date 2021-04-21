@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/singer-beyonce-during-her-acceptance-speech-for-best-rb-performance-at-the-grammy-awards-making-her-the-most-winning-singer-in-the-award-shows-63-year-history/
+    /singer-beyonce-during-her-acceptance-speech-for-best-rb-performance-at-the-grammy-awards-making-her-the-most-winning-singer-in-the-award-shows-63-year-history/
 _createdAt: '2021-04-01T01:35:12Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-03-15T20:41:00.000Z'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2nqnl
 type: quick_reads
 draft: false
 aliases:
-  - uncle-sam/
+  - /
 _createdAt: '2021-04-01T23:01:35Z'
 _updatedAt: '2021-04-01T23:01:35Z'
 date: '2020-09-07T23:05:00.000Z'

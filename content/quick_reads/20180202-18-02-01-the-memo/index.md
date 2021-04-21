@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-01-the-memo/
+  - /
 _createdAt: '2018-02-02T10:50:42Z'
 _updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-02T10:50:42+00:00'

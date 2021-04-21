@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2cS6H
 type: quick_reads
 draft: false
 aliases:
-  - election-2020-third-party-candidates/
+  - /
 _createdAt: '2021-04-01T19:29:05Z'
 _updatedAt: '2021-04-01T19:29:05Z'
 date: '2020-10-02T01:10:00.000Z'

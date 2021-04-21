@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7Hnbnh
 type: video_posts
 draft: false
 aliases:
-  - article/facts-humility-wednesday-wrap-up/
+  - /facts-humility-wednesday-wrap-up/
 _createdAt: '2020-06-24T18:09:12Z'
 _updatedAt: '2021-04-17T09:25:25Z'
 date: '2020-06-24T18:09:12+00:00'

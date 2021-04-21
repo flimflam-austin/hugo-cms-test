@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrkfCJ
 type: quick_reads
 draft: false
 aliases:
-  - dolly/
+  - /
 _createdAt: '2018-03-01T23:29:07Z'
 _updatedAt: '2021-03-25T22:05:36Z'
 date: '2018-03-01T23:29:07+00:00'

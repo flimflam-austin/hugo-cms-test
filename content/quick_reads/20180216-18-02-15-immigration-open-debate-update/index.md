@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wMu3B
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-15-immigration-open-debate-update/
+  - /
 _createdAt: '2018-02-16T12:51:11Z'
 _updatedAt: '2021-03-25T21:45:22Z'
 date: '2018-02-16T12:51:11+00:00'

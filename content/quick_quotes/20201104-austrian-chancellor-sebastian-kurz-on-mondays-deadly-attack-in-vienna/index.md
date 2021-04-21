@@ -8,8 +8,7 @@ _rev: Pxytp4DhfU5gNtP633m7Wc
 type: quick_quotes
 draft: false
 aliases:
-  - >-
-    article/austrian-chancellor-sebastian-kurz-on-mondays-deadly-attack-in-vienna/
+  - /austrian-chancellor-sebastian-kurz-on-mondays-deadly-attack-in-vienna/
 _createdAt: '2020-11-03T21:46:34Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-11-03T21:46:34+00:00'

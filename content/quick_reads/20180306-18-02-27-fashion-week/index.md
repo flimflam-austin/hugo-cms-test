@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq283rwm
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-27-fashion-week/
+  - /
 _createdAt: '2018-03-06T18:00:47Z'
 _updatedAt: '2021-03-25T22:10:10Z'
 date: '2018-03-06T18:00:47+00:00'

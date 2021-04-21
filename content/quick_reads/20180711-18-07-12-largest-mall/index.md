@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsGu4J
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-12-largest-mall/
+  - /
 _createdAt: '2018-07-12T10:00:24Z'
 _updatedAt: '2021-03-26T02:22:11Z'
 date: '2018-07-12T10:00:24+00:00'

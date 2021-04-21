@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/unc-faculty-chair-as-the-school-becomes-the-latest-higher-education-institution-to-backtrack-its-decision-to-hold-in-person-classes/
+    /unc-faculty-chair-as-the-school-becomes-the-latest-higher-education-institution-to-backtrack-its-decision-to-hold-in-person-classes/
 _createdAt: '2020-08-19T01:24:14Z'
 _updatedAt: '2021-04-17T09:16:41Z'
 date: '2020-08-19T01:24:14+00:00'

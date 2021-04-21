@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgcKe
 type: video_posts
 draft: false
 aliases:
-  - article/how-do-you-assess-your-risk-of-covid-19/
+  - /how-do-you-assess-your-risk-of-covid-19/
 _createdAt: '2020-08-13T12:08:30Z'
 _updatedAt: '2021-04-17T09:24:03Z'
 date: '2020-08-13T12:08:30+00:00'

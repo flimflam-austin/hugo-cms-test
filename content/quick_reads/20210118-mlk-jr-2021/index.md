@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4533w5Uz
 type: quick_reads
 draft: false
 aliases:
-  - mlk-jr-2021/
+  - /
 _createdAt: '2021-03-31T17:14:43Z'
 _updatedAt: '2021-03-31T17:14:43Z'
 date: '2021-01-18T13:37:00.000Z'

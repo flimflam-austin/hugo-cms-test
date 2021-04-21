@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnWiy
 type: video_posts
 draft: false
 aliases:
-  - article/a-roadmap-for-the-week-ahead/
+  - /a-roadmap-for-the-week-ahead/
 _createdAt: '2021-01-12T02:53:32Z'
 _updatedAt: '2021-04-17T09:24:32Z'
 date: '2021-01-12T02:53:32+00:00'

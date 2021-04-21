@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-04-back-mall-fb/
+  - /
 _createdAt: '2018-04-05T10:03:47Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-05T10:03:47+00:00'

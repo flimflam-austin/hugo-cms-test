@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28DXuM
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-30-killer-genes/
+  - /
 _createdAt: '2018-04-30T10:25:45Z'
 _updatedAt: '2021-03-25T23:25:17Z'
 date: '2018-04-30T10:25:45+00:00'

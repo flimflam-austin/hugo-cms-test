@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4t5hbn
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-18-otd-lady-liberty-arrives-in-nyc/
+  - /
 _createdAt: '2021-04-02T18:11:29Z'
 _updatedAt: '2021-04-02T18:11:29Z'
 date: '2020-06-19T17:47:00.000Z'

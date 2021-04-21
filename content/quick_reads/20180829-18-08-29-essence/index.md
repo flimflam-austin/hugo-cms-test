@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxaLPI
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-29-essence/
+  - /
 _createdAt: '2018-08-29T11:35:03Z'
 _updatedAt: '2021-03-27T20:51:02Z'
 date: '2018-08-29T11:35:03+00:00'

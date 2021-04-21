@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/national-weather-service-meteorologist-sam-shamburger-on-record-flooding-in-nashville/
+    /national-weather-service-meteorologist-sam-shamburger-on-record-flooding-in-nashville/
 _createdAt: '2021-04-01T01:22:52Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-29T19:53:00.000Z'

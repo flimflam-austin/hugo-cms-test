@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-30-sister-jean/
+  - /
 _createdAt: '2018-03-30T10:32:50Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-30T10:32:50+00:00'

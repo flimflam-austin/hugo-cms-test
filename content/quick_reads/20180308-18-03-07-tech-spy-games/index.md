@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wOs7h
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-07-tech-spy-games/
+  - /
 _createdAt: '2018-03-08T12:00:23Z'
 _updatedAt: '2021-03-25T22:12:47Z'
 date: '2018-03-08T12:00:23+00:00'

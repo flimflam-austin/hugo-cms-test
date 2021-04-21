@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq27xNcu
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-12-las-vegas-shooter/
+  - /
 _createdAt: '2018-02-13T12:00:29Z'
 _updatedAt: '2021-03-25T21:37:44Z'
 date: '2018-02-13T12:00:29+00:00'

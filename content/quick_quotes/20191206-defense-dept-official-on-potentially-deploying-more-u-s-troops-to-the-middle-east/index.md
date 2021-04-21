@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/defense-dept-official-on-potentially-deploying-more-u-s-troops-to-the-middle-east/
+    /defense-dept-official-on-potentially-deploying-more-u-s-troops-to-the-middle-east/
 _createdAt: '2019-12-06T15:34:03Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2019-12-06T15:34:03+00:00'

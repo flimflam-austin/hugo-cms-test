@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq281pBL
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-01-tariffs/
+  - /
 _createdAt: '2018-03-02T11:00:12Z'
 _updatedAt: '2021-03-25T22:06:07Z'
 date: '2018-03-02T11:00:12+00:00'

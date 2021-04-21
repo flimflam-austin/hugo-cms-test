@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/maricopa-county-board-of-supervisors-on-a-question-about-whether-or-not-sharpies-used-on-ballots-made-them-challenging-to-count-a-theory-put-forward-by-republicans/
+    /maricopa-county-board-of-supervisors-on-a-question-about-whether-or-not-sharpies-used-on-ballots-made-them-challenging-to-count-a-theory-put-forward-by-republicans/
 _createdAt: '2020-11-05T02:36:31Z'
 _updatedAt: '2021-04-17T09:21:05Z'
 date: '2020-11-05T02:36:31+00:00'

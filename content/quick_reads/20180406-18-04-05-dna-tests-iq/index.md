@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-05-dna-tests-iq/
+  - /
 _createdAt: '2018-04-06T09:29:11Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-06T09:29:11+00:00'

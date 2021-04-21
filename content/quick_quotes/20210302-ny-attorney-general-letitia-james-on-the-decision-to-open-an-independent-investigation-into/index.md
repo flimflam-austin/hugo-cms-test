@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/ny-attorney-general-letitia-james-on-the-decision-to-open-an-independent-investigation-into-the-sexual-harassment-allegations-against-ny-gov-andrew-cuomo/
+    /ny-attorney-general-letitia-james-on-the-decision-to-open-an-independent-investigation-into-the-sexual-harassment-allegations-against-ny-gov-andrew-cuomo/
 _createdAt: '2021-04-01T02:19:02Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-02T20:44:00.000Z'

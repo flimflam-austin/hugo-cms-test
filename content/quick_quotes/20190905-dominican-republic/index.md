@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd0id
 type: quick_quotes
 draft: false
 aliases:
-  - article/dominican-republic/
+  - /dominican-republic/
 _createdAt: '2019-08-16T19:57:51Z'
 _updatedAt: '2021-04-17T09:18:20Z'
 date: '2019-08-16T19:57:51+00:00'

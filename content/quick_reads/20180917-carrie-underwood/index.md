@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxjvl4
 type: quick_reads
 draft: false
 aliases:
-  - carrie-underwood/
+  - /
 _createdAt: '2018-09-17T11:25:01Z'
 _updatedAt: '2021-03-27T22:05:44Z'
 date: '2018-09-17T11:25:01+00:00'

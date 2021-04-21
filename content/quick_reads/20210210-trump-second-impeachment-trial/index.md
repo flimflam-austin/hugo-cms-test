@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532woNh
 type: quick_reads
 draft: false
 aliases:
-  - trump_second_impeachment_trial/
+  - /
 _createdAt: '2021-03-31T00:38:51Z'
 _updatedAt: '2021-03-31T00:38:51Z'
 date: '2021-02-10T03:03:00.000Z'

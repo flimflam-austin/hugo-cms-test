@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4xzLJz
 type: quick_reads
 draft: false
 aliases:
-  - iran-and-america-2020/
+  - /
 _createdAt: '2021-04-04T08:02:09Z'
 _updatedAt: '2021-04-04T08:02:09Z'
 date: '2020-01-04T04:09:00.000Z'

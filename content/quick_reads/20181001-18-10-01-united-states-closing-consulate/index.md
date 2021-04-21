@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452yiJ5J
 type: quick_reads
 draft: false
 aliases:
-  - 18-10-01-united-states-closing-consulate/
+  - /
 _createdAt: '2018-10-01T11:50:42Z'
 _updatedAt: '2021-03-28T00:13:45Z'
 date: '2018-10-01T11:50:42+00:00'

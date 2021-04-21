@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
-  - tammy-duckworth/
+  - /
 _createdAt: '2018-04-09T23:29:36Z'
 _updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-04-09T23:29:36+00:00'

@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7Hcx7X
 type: quick_quotes
 draft: false
 aliases:
-  - article/jnjvaccine/
+  - /jnjvaccine/
 _createdAt: '2021-01-30T04:16:22Z'
 _updatedAt: '2021-04-17T09:17:47Z'
 date: '2021-01-30T04:16:22+00:00'

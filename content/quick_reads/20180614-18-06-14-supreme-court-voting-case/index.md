@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsBPKz
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-14-supreme-court-voting-case/
+  - /
 _createdAt: '2018-06-14T10:31:37Z'
 _updatedAt: '2021-03-26T01:32:23Z'
 date: '2018-06-14T10:31:37+00:00'

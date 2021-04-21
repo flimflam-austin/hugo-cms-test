@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2D43RW
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-05-qtd-janet-jackson/
+  - /
 _createdAt: '2018-09-05T18:07:42Z'
 _updatedAt: '2021-03-27T21:30:44Z'
 date: '2018-09-05T18:07:42+00:00'

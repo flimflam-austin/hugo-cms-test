@@ -5,8 +5,7 @@ _id: eeaca015-7d1c-417a-b35c-6e0dfaf29a92
 _rev: TDo1Nq1xkiZakmRW4qZvNb
 type: quick_reads
 draft: false
-aliases:
-  - election-2020-lingo-math
+aliases: []
 _createdAt: '2021-04-02T03:50:52Z'
 _updatedAt: '2021-04-02T03:50:52Z'
 date: '2020-08-18T04:48:00.000Z'

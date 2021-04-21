@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3bdxF
 type: quick_reads
 draft: false
 aliases:
-  - jj-talc-based-baby-powder/
+  - /
 _createdAt: '2021-04-02T18:58:23Z'
 _updatedAt: '2021-04-02T18:58:23Z'
 date: '2020-05-22T23:22:00.000Z'

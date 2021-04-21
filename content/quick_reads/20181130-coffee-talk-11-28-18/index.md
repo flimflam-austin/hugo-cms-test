@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452yjCS5
 type: quick_reads
 draft: false
 aliases:
-  - coffee-talk-11-28-18/
+  - /
 _createdAt: '2018-11-28T16:15:50Z'
 _updatedAt: '2021-03-28T00:37:58Z'
 date: '2018-11-28T16:15:50+00:00'

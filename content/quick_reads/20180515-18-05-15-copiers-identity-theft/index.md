@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wV4lx
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-15-copiers-identity-theft/
+  - /
 _createdAt: '2018-05-15T11:00:50Z'
 _updatedAt: '2021-03-26T00:15:07Z'
 date: '2018-05-15T11:00:50+00:00'

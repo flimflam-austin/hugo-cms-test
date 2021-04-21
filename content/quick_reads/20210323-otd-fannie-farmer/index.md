@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532hj6b
 type: quick_reads
 draft: false
 aliases:
-  - otd-fannie-farmer/
+  - /
 _createdAt: '2021-03-30T20:58:46Z'
 _updatedAt: '2021-03-30T20:58:46Z'
 date: '2021-03-23T20:13:00.000Z'

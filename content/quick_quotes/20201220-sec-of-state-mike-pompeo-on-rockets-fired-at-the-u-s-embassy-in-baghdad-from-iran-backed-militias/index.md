@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/sec-of-state-mike-pompeo-on-rockets-fired-at-the-u-s-embassy-in-baghdad-from-iran-backed-militias/
+    /sec-of-state-mike-pompeo-on-rockets-fired-at-the-u-s-embassy-in-baghdad-from-iran-backed-militias/
 _createdAt: '2020-12-21T04:16:53Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-12-21T04:16:53+00:00'

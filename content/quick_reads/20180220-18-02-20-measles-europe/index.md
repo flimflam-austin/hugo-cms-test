@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wNGZp
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-20-measles-europe/
+  - /
 _createdAt: '2018-02-21T02:10:01Z'
 _updatedAt: '2021-03-25T21:50:23Z'
 date: '2018-02-21T02:10:01+00:00'

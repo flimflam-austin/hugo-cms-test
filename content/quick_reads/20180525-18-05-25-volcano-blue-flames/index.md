@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJs5sxl
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-25-volcano-blue-flames/
+  - /
 _createdAt: '2018-05-25T08:58:08Z'
 _updatedAt: '2021-03-26T00:43:24Z'
 date: '2018-05-25T08:58:08+00:00'

@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTaauO
 type: quick_quotes
 draft: false
 aliases:
-  - article/government-greenlights-first-ever-treatment-for-peanut-allergies/
+  - /government-greenlights-first-ever-treatment-for-peanut-allergies/
 _createdAt: '2019-09-18T16:12:36Z'
 _updatedAt: '2021-04-17T09:16:44Z'
 date: '2019-09-18T16:12:36+00:00'

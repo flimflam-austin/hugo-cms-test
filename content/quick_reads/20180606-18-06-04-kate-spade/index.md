@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28QbOz
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-04-kate-spade/
+  - /
 _createdAt: '2018-06-06T10:51:17Z'
 _updatedAt: '2021-03-26T01:05:59Z'
 date: '2018-06-06T10:51:17+00:00'

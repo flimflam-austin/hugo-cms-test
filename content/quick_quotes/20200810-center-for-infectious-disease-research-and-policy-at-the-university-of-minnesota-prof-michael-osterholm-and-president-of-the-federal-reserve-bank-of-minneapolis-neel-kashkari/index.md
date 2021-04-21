@@ -12,7 +12,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/center-for-infectious-disease-research-and-policy-at-the-university-of-minnesota-prof-michael-osterholm-and-president-of-the-federal-reserve-bank-of-minneapolis-neel-kashkari/
+    /center-for-infectious-disease-research-and-policy-at-the-university-of-minnesota-prof-michael-osterholm-and-president-of-the-federal-reserve-bank-of-minneapolis-neel-kashkari/
 _createdAt: '2020-08-10T12:31:02Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-08-10T12:31:02+00:00'

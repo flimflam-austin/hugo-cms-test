@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452ykgJ3
 type: quick_reads
 draft: false
 aliases:
-  - 19-01-08-pompeo-trip-to-middle-east/
+  - /
 _createdAt: '2019-01-08T13:19:22Z'
 _updatedAt: '2021-03-28T01:06:31Z'
 date: '2019-01-08T13:19:22+00:00'

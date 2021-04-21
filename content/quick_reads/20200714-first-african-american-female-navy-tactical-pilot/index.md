@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r333ll
 type: quick_reads
 draft: false
 aliases:
-  - first-african-american-female-navy-tactical-pilot/
+  - /
 _createdAt: '2021-04-02T05:56:52Z'
 _updatedAt: '2021-04-02T05:56:52Z'
 date: '2020-07-14T08:59:00.000Z'

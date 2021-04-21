@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wMKMX
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-13-hey-sweettooth-dark-chocolate/
+  - /
 _createdAt: '2018-02-14T12:00:26Z'
 _updatedAt: '2021-03-25T21:40:09Z'
 date: '2018-02-14T12:00:26+00:00'

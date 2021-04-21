@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28JxaZ
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-11-mothers-day/
+  - /
 _createdAt: '2018-05-12T11:45:40Z'
 _updatedAt: '2021-03-26T00:11:44Z'
 date: '2018-05-12T11:45:40+00:00'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DIB7S
 type: quick_reads
 draft: false
 aliases:
-  - 18-11-28-wh-christmas-tree-lighting/
+  - /
 _createdAt: '2018-11-28T13:35:49Z'
 _updatedAt: '2021-03-28T00:37:40Z'
 date: '2018-11-28T13:35:49+00:00'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2AucNg
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-03-apple-1t/
+  - /
 _createdAt: '2018-08-03T13:49:15Z'
 _updatedAt: '2021-03-26T19:25:01Z'
 date: '2018-08-03T13:49:15+00:00'

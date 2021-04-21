@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4pZESR
 type: quick_reads
 draft: false
 aliases:
-  - three-things-you-probably-dont-know-about-scotus/
+  - /
 _createdAt: '2021-04-01T22:22:05Z'
 _updatedAt: '2021-04-01T22:22:05Z'
 date: '2020-09-22T09:12:00.000Z'

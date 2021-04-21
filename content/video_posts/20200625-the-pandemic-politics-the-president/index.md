@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnQ6d
 type: video_posts
 draft: false
 aliases:
-  - article/the-pandemic-politics-the-president/
+  - /the-pandemic-politics-the-president/
 _createdAt: '2020-06-25T16:17:32Z'
 _updatedAt: '2021-04-17T09:23:28Z'
 date: '2020-06-25T16:17:32+00:00'

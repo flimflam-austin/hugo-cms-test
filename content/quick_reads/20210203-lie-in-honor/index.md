@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2LUNgQ
 type: quick_reads
 draft: false
 aliases:
-  - lie-in-honor/
+  - /
 _createdAt: '2021-03-31T00:57:46Z'
 _updatedAt: '2021-03-31T00:57:46Z'
 date: '2021-02-03T02:41:00.000Z'

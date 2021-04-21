@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4qd2Ex
 type: quick_reads
 draft: false
 aliases:
-  - john-lewis-editorial/
+  - /
 _createdAt: '2021-04-02T04:13:29Z'
 _updatedAt: '2021-04-02T04:13:29Z'
 date: '2020-07-31T04:19:00.000Z'

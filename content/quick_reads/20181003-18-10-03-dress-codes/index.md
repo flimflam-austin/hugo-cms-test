@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxvxlN
 type: quick_reads
 draft: false
 aliases:
-  - 18-10-03-dress-codes/
+  - /
 _createdAt: '2018-10-03T11:37:15Z'
 _updatedAt: '2021-03-28T00:19:38Z'
 date: '2018-10-03T11:37:15+00:00'

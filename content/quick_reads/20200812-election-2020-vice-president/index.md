@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2z2OL
 type: quick_reads
 draft: false
 aliases:
-  - election-2020-vice-president/
+  - /
 _createdAt: '2021-04-02T04:00:39Z'
 _updatedAt: '2021-04-02T04:00:39Z'
 date: '2020-08-12T03:56:00.000Z'

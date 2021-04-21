@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJy0Yfu
 type: quick_reads
 draft: false
 aliases:
-  - 19-02-06-qtd-queen-elizabeth/
+  - /
 _createdAt: '2019-02-06T14:21:01Z'
 _updatedAt: '2021-03-28T01:10:05Z'
 date: '2019-02-06T14:21:01+00:00'

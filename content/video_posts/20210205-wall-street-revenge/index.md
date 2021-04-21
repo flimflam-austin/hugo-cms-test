@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnQYW
 type: video_posts
 draft: false
 aliases:
-  - article/wall-street-revenge/
+  - /wall-street-revenge/
 _createdAt: '2021-02-05T21:23:57Z'
 _updatedAt: '2021-04-17T09:23:33Z'
 date: '2021-02-05T21:23:57+00:00'

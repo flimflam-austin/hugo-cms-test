@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-10-paul-ryan/
+  - /
 _createdAt: '2018-04-12T10:00:45Z'
 _updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-12T10:00:45+00:00'

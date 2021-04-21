@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3mrkf
 type: quick_reads
 draft: false
 aliases:
-  - covid-19-timeline/
+  - /
 _createdAt: '2021-04-02T22:44:07Z'
 _updatedAt: '2021-04-02T22:51:16Z'
 date: '2020-03-30T09:35:00.000Z'

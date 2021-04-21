@@ -11,7 +11,7 @@ _rev: Pxytp4DhfU5gNtP633ljSg
 type: quick_quotes
 draft: false
 aliases:
-  - article/chinese-data-and-who-team/
+  - /chinese-data-and-who-team/
 _createdAt: '2021-04-01T11:39:24Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-02-13T04:36:00.000Z'

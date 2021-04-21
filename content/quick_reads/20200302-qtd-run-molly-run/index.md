@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4kGb3
 type: quick_reads
 draft: false
 aliases:
-  - qtd-run-molly-run/
+  - /
 _createdAt: '2021-04-04T06:02:32Z'
 _updatedAt: '2021-04-04T06:02:32Z'
 date: '2020-03-02T23:28:00.000Z'

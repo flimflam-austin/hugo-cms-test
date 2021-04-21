@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-24-jane-fonda-workout/
+  - /
 _createdAt: '2018-04-24T11:26:09Z'
 _updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-24T11:26:09+00:00'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DKrIM
 type: quick_reads
 draft: false
 aliases:
-  - 19-01-08-coffee-talk/
+  - /
 _createdAt: '2019-01-08T17:36:09Z'
 _updatedAt: '2021-03-28T01:06:46Z'
 date: '2019-01-08T17:36:09+00:00'

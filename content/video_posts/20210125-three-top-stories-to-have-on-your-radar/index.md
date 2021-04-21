@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnRCM
 type: video_posts
 draft: false
 aliases:
-  - article/three-top-stories-to-have-on-your-radar/
+  - /three-top-stories-to-have-on-your-radar/
 _createdAt: '2021-01-25T22:01:41Z'
 _updatedAt: '2021-04-17T09:23:42Z'
 date: '2021-01-25T22:01:41+00:00'

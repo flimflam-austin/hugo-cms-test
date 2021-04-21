@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/michael-arone-chief-investment-strategist-for-the-u-s-spdr-business-at-state-street-global-advisors/
+    /michael-arone-chief-investment-strategist-for-the-u-s-spdr-business-at-state-street-global-advisors/
 _createdAt: '2020-08-07T16:08:05Z'
 _updatedAt: '2021-04-17T09:18:17Z'
 date: '2020-08-07T16:08:05+00:00'

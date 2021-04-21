@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnOJ5
 type: video_posts
 draft: false
 aliases:
-  - article/new-cdc-guidelines-social-distancing/
+  - /new-cdc-guidelines-social-distancing/
 _createdAt: '2021-04-01T11:53:09Z'
 _updatedAt: '2021-04-17T09:23:12Z'
 date: '2021-03-20T03:06:00.000Z'

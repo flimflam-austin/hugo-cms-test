@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7Hnb1t
 type: video_posts
 draft: false
 aliases:
-  - article/covid-sparks-showdown-personal-liberty-vs-big-government/
+  - /covid-sparks-showdown-personal-liberty-vs-big-government/
 _createdAt: '2020-07-01T16:36:54Z'
 _updatedAt: '2021-04-17T09:25:19Z'
 date: '2020-07-01T16:36:54+00:00'

@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/brigham-and-womens-hospital-deepak-bhatt-executive-director-of-interventional-cardiovascular-programs-on-new-research-on-covid-19-involving-drugs-often-used-for-heart-trouble/
+    /brigham-and-womens-hospital-deepak-bhatt-executive-director-of-interventional-cardiovascular-programs-on-new-research-on-covid-19-involving-drugs-often-used-for-heart-trouble/
 _createdAt: '2020-06-03T22:34:57Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-06-03T22:34:57+00:00'

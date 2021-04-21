@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/u-s-economist-pooja-sriram-barclays-on-the-u-s-economy-losing-140000-jobs-in-december-the-first-recorded-job-loss-in-8-months/
+    /u-s-economist-pooja-sriram-barclays-on-the-u-s-economy-losing-140000-jobs-in-december-the-first-recorded-job-loss-in-8-months/
 _createdAt: '2021-01-08T15:06:38Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-01-08T15:06:38+00:00'

@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTagYi
 type: quick_quotes
 draft: false
 aliases:
-  - article/generalbrownjr/
+  - /generalbrownjr/
 _createdAt: '2020-08-06T01:56:09Z'
 _updatedAt: '2021-04-17T09:18:25Z'
 date: '2020-08-06T01:56:09+00:00'

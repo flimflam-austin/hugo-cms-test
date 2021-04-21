@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532uekH
 type: quick_reads
 draft: false
 aliases:
-  - percy-made-it-to-mars/
+  - /
 _createdAt: '2021-03-30T23:51:32Z'
 _updatedAt: '2021-03-30T23:51:32Z'
 date: '2021-02-19T22:26:00.000Z'

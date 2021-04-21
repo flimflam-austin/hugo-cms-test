@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/pentagon-press-sec-john-kirby-on-a-rocket-attack-at-a-u-s-base-that-led-to-the-cardiac-arrest-and-death-of-a-u-s-contractor/
+    /pentagon-press-sec-john-kirby-on-a-rocket-attack-at-a-u-s-base-that-led-to-the-cardiac-arrest-and-death-of-a-u-s-contractor/
 _createdAt: '2021-04-01T02:14:35Z'
 _updatedAt: '2021-04-17T08:36:03Z'
 date: '2021-03-05T03:12:00.000Z'

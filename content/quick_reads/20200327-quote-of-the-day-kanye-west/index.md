@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDcv0A
 type: quick_reads
 draft: false
 aliases:
-  - quote-of-the-day-kanye-west/
+  - /
 _createdAt: '2021-04-02T23:01:19Z'
 _updatedAt: '2021-04-02T23:01:19Z'
 date: '2020-03-27T04:32:00.000Z'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xWWhR
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-01-superman-beats-olympian/
+  - /
 _createdAt: '2018-08-01T11:58:15Z'
 _updatedAt: '2021-03-26T19:21:16Z'
 date: '2018-08-01T11:58:15+00:00'

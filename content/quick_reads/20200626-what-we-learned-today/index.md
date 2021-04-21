@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDSUco
 type: quick_reads
 draft: false
 aliases:
-  - what-we-learned-today/
+  - /
 _createdAt: '2021-04-02T17:56:14Z'
 _updatedAt: '2021-04-02T17:56:14Z'
 date: '2020-06-26T09:13:00.000Z'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3Ynyj
 type: quick_reads
 draft: false
 aliases:
-  - juneteenth/
+  - /
 _createdAt: '2021-04-02T18:07:32Z'
 _updatedAt: '2021-04-02T18:07:32Z'
 date: '2020-06-19T21:09:00.000Z'

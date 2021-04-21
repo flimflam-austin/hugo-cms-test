@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xWcuz
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-03-qq-russian-threat-real/
+  - /
 _createdAt: '2018-08-03T11:19:23Z'
 _updatedAt: '2021-03-26T19:23:18Z'
 date: '2018-08-03T11:19:23+00:00'

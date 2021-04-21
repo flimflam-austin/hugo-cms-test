@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xZZyf
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-24-nicaragua-podcast/
+  - /
 _createdAt: '2018-08-25T12:40:26Z'
 _updatedAt: '2021-03-26T20:19:01Z'
 date: '2018-08-25T12:40:26+00:00'

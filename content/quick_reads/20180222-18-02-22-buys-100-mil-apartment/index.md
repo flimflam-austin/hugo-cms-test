@@ -6,7 +6,7 @@ _rev: IAvNP6RYLyXA7vmr3JpCuo
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-22-buys-100-mil-apartment/
+  - /
 _createdAt: '2018-02-22T18:30:36Z'
 _updatedAt: '2021-03-25T21:33:29Z'
 date: '2018-02-22T18:30:36+00:00'

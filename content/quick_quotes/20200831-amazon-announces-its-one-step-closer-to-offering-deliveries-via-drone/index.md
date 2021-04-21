@@ -6,8 +6,7 @@ _rev: Pxytp4DhfU5gNtP633lysK
 type: quick_quotes
 draft: false
 aliases:
-  - >-
-    article/amazon-announces-its-one-step-closer-to-offering-deliveries-via-drone/
+  - /amazon-announces-its-one-step-closer-to-offering-deliveries-via-drone/
 _createdAt: '2020-08-31T20:56:50Z'
 _updatedAt: '2021-04-17T09:19:58Z'
 date: '2020-08-31T20:56:50+00:00'

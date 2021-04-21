@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTaU0e
 type: quick_quotes
 draft: false
 aliases:
-  - article/sunshine-state-registration/
+  - /sunshine-state-registration/
 _createdAt: '2020-10-19T03:13:56Z'
 _updatedAt: '2021-04-17T09:14:42Z'
 date: '2020-10-19T03:13:56+00:00'

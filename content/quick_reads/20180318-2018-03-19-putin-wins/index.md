@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
-  - 2018-03-19-putin-wins/
+  - /
 _createdAt: '2018-03-19T12:15:47Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-19T12:15:47+00:00'

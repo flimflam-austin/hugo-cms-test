@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgbKi
 type: video_posts
 draft: false
 aliases:
-  - article/covid-19-kids-missing-context/
+  - /covid-19-kids-missing-context/
 _createdAt: '2020-05-18T22:38:35Z'
 _updatedAt: '2021-04-17T09:23:43Z'
 date: '2020-05-18T22:38:35+00:00'

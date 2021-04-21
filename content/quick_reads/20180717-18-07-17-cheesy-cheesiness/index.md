@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsKRg9
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-17-cheesy-cheesiness/
+  - /
 _createdAt: '2018-07-17T10:45:56Z'
 _updatedAt: '2021-03-26T02:51:35Z'
 date: '2018-07-17T10:45:56+00:00'

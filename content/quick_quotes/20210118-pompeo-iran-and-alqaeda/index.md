@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7HdKZe
 type: quick_quotes
 draft: false
 aliases:
-  - article/pompeo-iran-and-alqaeda/
+  - /pompeo-iran-and-alqaeda/
 _createdAt: '2021-01-18T04:34:34Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2021-01-18T04:34:34+00:00'

@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnWD6
 type: video_posts
 draft: false
 aliases:
-  - article/video-top-3-stories-in-under-5/
+  - /video-top-3-stories-in-under-5/
 _createdAt: '2020-11-18T06:27:02Z'
 _updatedAt: '2021-04-17T09:24:25Z'
 date: '2020-11-18T06:27:02+00:00'

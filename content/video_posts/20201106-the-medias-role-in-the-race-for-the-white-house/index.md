@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnUXW
 type: video_posts
 draft: false
 aliases:
-  - article/the-medias-role-in-the-race-for-the-white-house/
+  - /the-medias-role-in-the-race-for-the-white-house/
 _createdAt: '2020-11-04T19:16:17Z'
 _updatedAt: '2021-04-17T09:24:08Z'
 date: '2020-11-04T19:16:17+00:00'

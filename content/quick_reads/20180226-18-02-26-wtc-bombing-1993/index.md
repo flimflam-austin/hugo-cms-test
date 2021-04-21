@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wNeIn
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-26-wtc-bombing-1993/
+  - /
 _createdAt: '2018-02-27T00:35:17Z'
 _updatedAt: '2021-03-25T21:58:24Z'
 date: '2018-02-27T00:35:17+00:00'

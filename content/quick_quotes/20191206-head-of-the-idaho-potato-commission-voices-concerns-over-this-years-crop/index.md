@@ -7,8 +7,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd8Mi
 type: quick_quotes
 draft: false
 aliases:
-  - >-
-    article/head-of-the-idaho-potato-commission-voices-concerns-over-this-years-crop/
+  - /head-of-the-idaho-potato-commission-voices-concerns-over-this-years-crop/
 _createdAt: '2019-12-06T14:33:53Z'
 _updatedAt: '2021-04-17T09:19:41Z'
 date: '2019-12-06T14:33:53+00:00'

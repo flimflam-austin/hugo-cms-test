@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7HcX64
 type: quick_quotes
 draft: false
 aliases:
-  - article/cdc-guidance-fully-vaccinated/
+  - /cdc-guidance-fully-vaccinated/
 _createdAt: '2021-04-01T02:04:40Z'
 _updatedAt: '2021-04-17T08:36:03Z'
 date: '2021-03-09T23:27:00.000Z'

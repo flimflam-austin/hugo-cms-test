@@ -8,7 +8,7 @@ _rev: Pxytp4DhfU5gNtP633lmE3
 type: quick_quotes
 draft: false
 aliases:
-  - article/cal-fire-pio-daniel-berlant-august-30/
+  - /cal-fire-pio-daniel-berlant-august-30/
 _createdAt: '2020-08-31T03:38:01Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-08-31T03:38:01+00:00'

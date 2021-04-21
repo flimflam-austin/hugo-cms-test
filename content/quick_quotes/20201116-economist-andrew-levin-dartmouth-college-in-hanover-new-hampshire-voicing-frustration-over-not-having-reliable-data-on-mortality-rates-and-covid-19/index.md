@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/economist-andrew-levin-dartmouth-college-in-hanover-new-hampshire-voicing-frustration-over-not-having-reliable-data-on-mortality-rates-and-covid-19/
+    /economist-andrew-levin-dartmouth-college-in-hanover-new-hampshire-voicing-frustration-over-not-having-reliable-data-on-mortality-rates-and-covid-19/
 _createdAt: '2020-11-16T07:34:14Z'
 _updatedAt: '2021-04-17T09:20:12Z'
 date: '2020-11-16T07:34:14+00:00'

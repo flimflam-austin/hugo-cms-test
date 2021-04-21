@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd0Gk
 type: quick_quotes
 draft: false
 aliases:
-  - article/wisconsin-gov-tony-evers-covid/
+  - /wisconsin-gov-tony-evers-covid/
 _createdAt: '2020-11-02T05:39:45Z'
 _updatedAt: '2021-04-17T09:18:16Z'
 date: '2020-11-02T05:39:45+00:00'

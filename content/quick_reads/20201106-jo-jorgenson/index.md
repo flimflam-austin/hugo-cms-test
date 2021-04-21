@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2WgX3
 type: quick_reads
 draft: false
 aliases:
-  - jo-jorgenson/
+  - /
 _createdAt: '2021-04-01T17:42:04Z'
 _updatedAt: '2021-04-01T17:45:21Z'
 date: '2020-11-06T10:21:00.000Z'

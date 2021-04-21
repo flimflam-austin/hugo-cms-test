@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrUHhn
 type: quick_reads
 draft: false
 aliases:
-  - 18-01-31-flu-update/
+  - /
 _createdAt: '2018-02-01T09:10:58Z'
 _updatedAt: '2021-03-25T20:38:15Z'
 date: '2018-02-01T09:10:58+00:00'

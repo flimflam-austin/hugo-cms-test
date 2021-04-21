@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4o2iy7
 type: quick_reads
 draft: false
 aliases:
-  - otd-rosa-parks/
+  - /
 _createdAt: '2021-04-01T16:29:57Z'
 _updatedAt: '2021-04-01T16:33:58Z'
 date: '2020-12-02T06:31:00.000Z'

@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnZQI
 type: video_posts
 draft: false
 aliases:
-  - article/road-trip-around-the-world-in-7-minutes/
+  - /road-trip-around-the-world-in-7-minutes/
 _createdAt: '2020-06-30T15:53:17Z'
 _updatedAt: '2021-04-17T09:24:54Z'
 date: '2020-06-30T15:53:17+00:00'

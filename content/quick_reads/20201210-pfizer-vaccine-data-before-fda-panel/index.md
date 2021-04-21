@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r1qvMz
 type: quick_reads
 draft: false
 aliases:
-  - pfizer-vaccine-data-before-fda-panel/
+  - /
 _createdAt: '2021-03-31T18:54:31Z'
 _updatedAt: '2021-04-01T05:36:08Z'
 date: '2020-12-10T11:39:00.000Z'

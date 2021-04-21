@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rW8a
 type: video_posts
 draft: false
 aliases:
-  - article/video-the-vice-presidential-debate-a-smarther-take/
+  - /video-the-vice-presidential-debate-a-smarther-take/
 _createdAt: '2020-10-08T20:14:56Z'
 _updatedAt: '2021-04-17T09:24:47Z'
 date: '2020-10-08T20:14:56+00:00'

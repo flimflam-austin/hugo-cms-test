@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTafDU
 type: quick_quotes
 draft: false
 aliases:
-  - article/amazon-hires-100000/
+  - /amazon-hires-100000/
 _createdAt: '2020-09-14T11:47:14Z'
 _updatedAt: '2021-04-17T09:18:01Z'
 date: '2020-09-14T11:47:14+00:00'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28MNRh
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-21-venezuela-elections/
+  - /
 _createdAt: '2018-05-21T10:33:23Z'
 _updatedAt: '2021-03-26T00:34:17Z'
 date: '2018-05-21T10:33:23+00:00'

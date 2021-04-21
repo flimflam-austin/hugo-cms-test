@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3d8tN
 type: quick_reads
 draft: false
 aliases:
-  - new-question-about-covid-19-in-children/
+  - /
 _createdAt: '2021-04-02T19:19:58Z'
 _updatedAt: '2021-04-02T19:23:23Z'
 date: '2020-05-07T19:56:00.000Z'

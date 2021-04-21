@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xZLJl
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-23-digital-connection-vs-human-connection/
+  - /
 _createdAt: '2018-08-23T11:11:59Z'
 _updatedAt: '2021-03-26T20:15:04Z'
 date: '2018-08-23T11:11:59+00:00'

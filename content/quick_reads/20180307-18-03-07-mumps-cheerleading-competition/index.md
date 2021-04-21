@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrmlbw
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-07-mumps-cheerleading-competition/
+  - /
 _createdAt: '2018-03-08T12:01:02Z'
 _updatedAt: '2021-03-25T22:13:45Z'
 date: '2018-03-08T12:01:02+00:00'

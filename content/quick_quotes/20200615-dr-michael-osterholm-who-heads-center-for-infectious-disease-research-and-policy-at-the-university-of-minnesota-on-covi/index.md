@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/dr-michael-osterholm-who-heads-center-for-infectious-disease-research-and-policy-at-the-university-of-minnesota-on-covi/
+    /dr-michael-osterholm-who-heads-center-for-infectious-disease-research-and-policy-at-the-university-of-minnesota-on-covi/
 _createdAt: '2020-06-15T11:25:46Z'
 _updatedAt: '2021-04-17T09:16:42Z'
 date: '2020-06-15T11:25:46+00:00'

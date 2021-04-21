@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28EH1c
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-01-new-york-city-makeover/
+  - /
 _createdAt: '2018-05-02T10:55:13Z'
 _updatedAt: '2021-03-25T23:32:28Z'
 date: '2018-05-02T10:55:13+00:00'

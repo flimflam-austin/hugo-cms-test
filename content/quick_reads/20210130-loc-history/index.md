@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK78DZG
 type: quick_reads
 draft: false
 aliases:
-  - loc-history/
+  - /
 _createdAt: '2021-03-31T01:00:52Z'
 _updatedAt: '2021-03-31T01:00:52Z'
 date: '2021-01-30T11:33:00.000Z'

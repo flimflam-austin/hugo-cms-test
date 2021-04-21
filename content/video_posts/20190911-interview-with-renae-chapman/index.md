@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rX74
 type: video_posts
 draft: false
 aliases:
-  - article/interview-with-renae-chapman/
+  - /interview-with-renae-chapman/
 _createdAt: '2019-08-29T19:36:45Z'
 _updatedAt: '2021-04-17T09:25:03Z'
 date: '2019-08-29T19:36:45+00:00'

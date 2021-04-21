@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnXIp
 type: video_posts
 draft: false
 aliases:
-  - article/what-happened-at-the-u-s-capitol-january-6-2021/
+  - /what-happened-at-the-u-s-capitol-january-6-2021/
 _createdAt: '2021-01-07T02:05:43Z'
 _updatedAt: '2021-04-17T09:24:36Z'
 date: '2021-01-07T02:05:43+00:00'

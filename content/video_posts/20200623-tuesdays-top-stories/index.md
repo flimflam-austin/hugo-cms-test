@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rVwU
 type: video_posts
 draft: false
 aliases:
-  - article/tuesdays-top-stories/
+  - /tuesdays-top-stories/
 _createdAt: '2020-06-23T15:28:21Z'
 _updatedAt: '2021-04-17T09:24:41Z'
 date: '2020-06-23T15:28:21+00:00'

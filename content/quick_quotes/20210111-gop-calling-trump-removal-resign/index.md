@@ -8,7 +8,7 @@ _rev: Pxytp4DhfU5gNtP633lygE
 type: quick_quotes
 draft: false
 aliases:
-  - article/gop-calling-trump-removal-resign/
+  - /gop-calling-trump-removal-resign/
 _createdAt: '2021-01-11T00:18:15Z'
 _updatedAt: '2021-04-17T09:19:52Z'
 date: '2021-01-11T00:18:15+00:00'

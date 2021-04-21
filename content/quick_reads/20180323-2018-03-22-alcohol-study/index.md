@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2873dn
 type: quick_reads
 draft: false
 aliases:
-  - 2018-03-22-alcohol-study/
+  - /
 _createdAt: '2018-03-23T11:30:56Z'
 _updatedAt: '2021-03-25T22:36:02Z'
 date: '2018-03-23T11:30:56+00:00'

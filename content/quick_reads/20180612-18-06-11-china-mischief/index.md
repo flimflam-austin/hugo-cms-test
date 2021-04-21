@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wYIjt
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-11-china-mischief/
+  - /
 _createdAt: '2018-06-12T10:58:46Z'
 _updatedAt: '2021-03-26T01:23:07Z'
 date: '2018-06-12T10:58:46+00:00'

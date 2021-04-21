@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HndXG
 type: video_posts
 draft: false
 aliases:
-  - article/masking-up/
+  - /masking-up/
 _createdAt: '2020-05-20T21:29:51Z'
 _updatedAt: '2021-04-17T09:25:39Z'
 date: '2020-05-20T21:29:51+00:00'

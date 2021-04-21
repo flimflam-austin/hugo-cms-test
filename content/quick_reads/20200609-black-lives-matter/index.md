@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3a5G5
 type: quick_reads
 draft: false
 aliases:
-  - black-lives-matter/
+  - /
 _createdAt: '2021-04-02T18:34:29Z'
 _updatedAt: '2021-04-02T18:34:29Z'
 date: '2020-06-09T09:57:00.000Z'

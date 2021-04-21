@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532vzYj
 type: quick_reads
 draft: false
 aliases:
-  - mystery-of-butterfly-flutter/
+  - /
 _createdAt: '2021-03-31T00:22:53Z'
 _updatedAt: '2021-03-31T00:22:53Z'
 date: '2021-02-11T23:29:00.000Z'

@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnZIK
 type: video_posts
 draft: false
 aliases:
-  - article/8-weeks-until-the-u-s-elections/
+  - /8-weeks-until-the-u-s-elections/
 _createdAt: '2020-09-08T14:49:28Z'
 _updatedAt: '2021-04-17T09:24:51Z'
 date: '2020-09-08T14:49:28+00:00'

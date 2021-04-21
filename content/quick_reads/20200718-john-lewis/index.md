@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4qtzgl
 type: quick_reads
 draft: false
 aliases:
-  - john-lewis/
+  - /
 _createdAt: '2021-04-02T05:41:56Z'
 _updatedAt: '2021-04-02T05:47:27Z'
 date: '2020-07-18T23:28:00.000Z'

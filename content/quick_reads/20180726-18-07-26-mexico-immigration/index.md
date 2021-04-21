@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-26-mexico-immigration/
+  - /
 _createdAt: '2018-07-26T11:59:51Z'
 _updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-26T11:59:51+00:00'

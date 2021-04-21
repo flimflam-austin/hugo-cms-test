@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-26-michael-cohen/
+  - /
 _createdAt: '2018-07-26T11:55:46Z'
 _updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-07-26T11:55:46+00:00'

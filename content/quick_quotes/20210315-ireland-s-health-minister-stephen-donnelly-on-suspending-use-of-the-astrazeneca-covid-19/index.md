@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/irelands-health-minister-stephen-donnelly-on-suspending-use-of-the-astrazeneca-covid-19-vaccine/
+    /irelands-health-minister-stephen-donnelly-on-suspending-use-of-the-astrazeneca-covid-19-vaccine/
 _createdAt: '2021-04-01T01:33:44Z'
 _updatedAt: '2021-04-17T08:36:03Z'
 date: '2021-03-15T20:52:00.000Z'

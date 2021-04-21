@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCyxKg
 type: quick_reads
 draft: false
 aliases:
-  - sb145/
+  - /
 _createdAt: '2021-04-01T22:50:20Z'
 _updatedAt: '2021-04-01T22:50:20Z'
 date: '2020-09-15T19:37:00.000Z'

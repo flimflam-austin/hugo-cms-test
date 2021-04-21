@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4oqJb1
 type: quick_reads
 draft: false
 aliases:
-  - american-alcohol-consumption-during-covid-19/
+  - /
 _createdAt: '2021-04-01T19:25:52Z'
 _updatedAt: '2021-04-01T19:25:52Z'
 date: '2020-10-02T04:05:00.000Z'

@@ -7,7 +7,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    https://www.smarthernews.com/article/cdc-director-dr-rochelle-walensky-announcing-cases-of-covid-19-found-in-those-who-have-received-vaccines-on-the-same-day-the-white-house-announces-vaccines-are-available-to-all-adult-americans/
+    /article/cdc-director-dr-rochelle-walensky-announcing-cases-of-covid-19-found-in-those-who-have-received-vaccines-on-the-same-day-the-white-house-announces-vaccines-are-available-to-all-adult-americans/
 _createdAt: '2021-04-21T15:25:42Z'
 _updatedAt: '2021-04-21T17:16:07Z'
 date: '2021-04-20T15:35:00.000Z'

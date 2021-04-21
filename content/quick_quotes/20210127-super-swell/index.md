@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HciDH
 type: quick_quotes
 draft: false
 aliases:
-  - article/super-swell/
+  - /super-swell/
 _createdAt: '2021-01-27T21:36:50Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-01-27T21:36:50+00:00'

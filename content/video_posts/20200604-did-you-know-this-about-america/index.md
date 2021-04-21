@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgdpY
 type: video_posts
 draft: false
 aliases:
-  - article/did-you-know-this-about-america/
+  - /did-you-know-this-about-america/
 _createdAt: '2020-06-04T15:47:38Z'
 _updatedAt: '2021-04-17T09:24:20Z'
 date: '2020-06-04T15:47:38+00:00'

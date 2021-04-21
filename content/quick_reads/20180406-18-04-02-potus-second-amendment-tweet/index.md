@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-02-potus-second-amendment-tweet/
+  - /
 _createdAt: '2018-04-06T09:26:03Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-04-06T09:26:03+00:00'

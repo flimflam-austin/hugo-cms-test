@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxxIG8
 type: quick_reads
 draft: false
 aliases:
-  - 18-11-29-qtd-alcott/
+  - /
 _createdAt: '2018-11-29T12:28:05Z'
 _updatedAt: '2021-03-28T00:38:18Z'
 date: '2018-11-29T12:28:05+00:00'

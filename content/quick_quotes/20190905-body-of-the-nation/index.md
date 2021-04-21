@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633lnQe
 type: quick_quotes
 draft: false
 aliases:
-  - article/body-of-the-nation/
+  - /body-of-the-nation/
 _createdAt: '2019-01-05T19:44:36Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2019-01-05T19:44:36+00:00'

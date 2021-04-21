@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452waFSn
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-28-barry-moreno/
+  - /
 _createdAt: '2018-06-30T14:02:16Z'
 _updatedAt: '2021-03-26T02:03:12Z'
 date: '2018-06-30T14:02:16+00:00'

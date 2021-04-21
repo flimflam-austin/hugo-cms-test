@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK6ZyTj
 type: quick_reads
 draft: false
 aliases:
-  - newsom-recall/
+  - /
 _createdAt: '2021-03-30T21:24:58Z'
 _updatedAt: '2021-03-30T21:24:58Z'
 date: '2021-03-17T22:46:00.000Z'

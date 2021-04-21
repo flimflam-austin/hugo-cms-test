@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEIsW6
 type: quick_reads
 draft: false
 aliases:
-  - impeachment-trial-concludes/
+  - /
 _createdAt: '2021-04-04T07:11:34Z'
 _updatedAt: '2021-04-04T07:11:34Z'
 date: '2020-02-06T12:00:00.000Z'

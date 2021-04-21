@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJuzOr8
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-20-pirates-of-the-caribbean/
+  - /
 _createdAt: '2018-08-20T11:59:45Z'
 _updatedAt: '2021-03-26T20:08:06Z'
 date: '2018-08-20T11:59:45+00:00'

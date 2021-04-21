@@ -6,7 +6,7 @@ _rev: m8O8PDvTRICveNMxPwjyTT
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-12-infrastructure/
+  - /
 _createdAt: '2018-02-12T14:02:19Z'
 _updatedAt: '2021-03-25T21:00:27Z'
 date: '2018-02-12T14:02:19+00:00'

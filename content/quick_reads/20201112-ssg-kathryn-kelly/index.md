@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2U9hN
 type: quick_reads
 draft: false
 aliases:
-  - ssg-kathryn-kelly/
+  - /
 _createdAt: '2021-04-01T17:06:20Z'
 _updatedAt: '2021-04-01T17:06:20Z'
 date: '2020-11-12T08:00:00.000Z'

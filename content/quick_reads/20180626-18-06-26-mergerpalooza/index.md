@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wZpgr
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-26-mergerpalooza/
+  - /
 _createdAt: '2018-06-26T10:45:53Z'
 _updatedAt: '2021-03-26T01:51:55Z'
 date: '2018-06-26T10:45:53+00:00'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28Mf68
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-22-kennebunkport/
+  - /
 _createdAt: '2018-05-22T11:28:55Z'
 _updatedAt: '2021-03-26T00:36:26Z'
 date: '2018-05-22T11:28:55+00:00'

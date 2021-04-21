@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HcnTx
 type: quick_quotes
 draft: false
 aliases:
-  - article/test/
+  - /test/
 _createdAt: '2019-08-16T19:20:06Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2019-08-16T19:20:06+00:00'

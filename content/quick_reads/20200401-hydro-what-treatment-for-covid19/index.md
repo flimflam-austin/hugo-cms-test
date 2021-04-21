@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3ilwD
 type: quick_reads
 draft: false
 aliases:
-  - hydro-what-treatment-for-covid19/
+  - /
 _createdAt: '2021-04-02T21:23:36Z'
 _updatedAt: '2021-04-02T21:23:36Z'
 date: '2020-04-01T03:29:00.000Z'

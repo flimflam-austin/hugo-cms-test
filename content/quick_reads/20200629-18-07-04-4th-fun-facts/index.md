@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-04-4th-fun-facts/
+  - /
 _createdAt: '2018-07-03T23:00:19Z'
 _updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-07-03T23:00:19+00:00'

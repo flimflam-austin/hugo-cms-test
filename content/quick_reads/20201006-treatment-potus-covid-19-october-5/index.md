@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCsOkw
 type: quick_reads
 draft: false
 aliases:
-  - treatment-potus-covid-19-october-5/
+  - /
 _createdAt: '2021-04-01T19:08:26Z'
 _updatedAt: '2021-04-01T19:12:47Z'
 date: '2020-10-06T23:52:00.000Z'

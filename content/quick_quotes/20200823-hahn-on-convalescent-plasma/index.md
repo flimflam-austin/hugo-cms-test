@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HchZR
 type: quick_quotes
 draft: false
 aliases:
-  - article/hahn-on-convalescent-plasma/
+  - /hahn-on-convalescent-plasma/
 _createdAt: '2020-08-24T01:56:52Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2020-08-24T01:56:52+00:00'

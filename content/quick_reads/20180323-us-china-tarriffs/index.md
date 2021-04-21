@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wPmDN
 type: quick_reads
 draft: false
 aliases:
-  - us-china-tarriffs/
+  - /
 _createdAt: '2018-03-23T11:00:47Z'
 _updatedAt: '2021-03-25T22:34:02Z'
 date: '2018-03-23T11:00:47+00:00'

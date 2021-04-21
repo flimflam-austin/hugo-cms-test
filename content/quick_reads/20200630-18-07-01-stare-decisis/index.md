@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-01-stare-decisis/
+  - /
 _createdAt: '2018-07-02T11:30:34Z'
 _updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-07-02T11:30:34+00:00'

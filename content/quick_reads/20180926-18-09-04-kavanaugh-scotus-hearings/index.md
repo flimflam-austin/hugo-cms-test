@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-04-kavanaugh-scotus-hearings/
+  - /
 _createdAt: '2018-09-04T12:00:26Z'
 _updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-04T12:00:26+00:00'

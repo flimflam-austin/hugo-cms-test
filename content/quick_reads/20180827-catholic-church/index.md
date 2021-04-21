@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2CwYPG
 type: quick_reads
 draft: false
 aliases:
-  - catholic-church/
+  - /
 _createdAt: '2018-08-27T11:54:11Z'
 _updatedAt: '2021-03-27T20:37:34Z'
 date: '2018-08-27T11:54:11+00:00'

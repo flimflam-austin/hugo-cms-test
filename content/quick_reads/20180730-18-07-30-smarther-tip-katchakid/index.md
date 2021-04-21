@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2AtmNt
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-30-smarther-tip-katchakid/
+  - /
 _createdAt: '2018-07-31T01:14:25Z'
 _updatedAt: '2021-03-26T19:17:20Z'
 date: '2018-07-31T01:14:25+00:00'

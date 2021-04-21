@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxinOp
 type: quick_reads
 draft: false
 aliases:
-  - oil/
+  - /
 _createdAt: '2018-09-14T12:17:50Z'
 _updatedAt: '2021-03-27T21:49:41Z'
 date: '2018-09-14T12:17:50+00:00'

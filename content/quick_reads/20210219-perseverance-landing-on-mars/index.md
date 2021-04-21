@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2LLXIB
 type: quick_reads
 draft: false
 aliases:
-  - perseverance-landing-on-mars/
+  - /
 _createdAt: '2021-03-30T23:54:52Z'
 _updatedAt: '2021-03-30T23:54:52Z'
 date: '2021-02-19T00:24:00.000Z'

@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633lvOb
 type: quick_quotes
 draft: false
 aliases:
-  - article/federal-marijuana-bill/
+  - /federal-marijuana-bill/
 _createdAt: '2020-09-04T19:53:08Z'
 _updatedAt: '2021-04-17T09:18:48Z'
 date: '2020-09-04T19:53:08+00:00'

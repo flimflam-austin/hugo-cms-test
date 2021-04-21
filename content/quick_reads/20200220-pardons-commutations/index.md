@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4xmkNX
 type: quick_reads
 draft: false
 aliases:
-  - pardons-commutations/
+  - /
 _createdAt: '2021-04-04T06:11:52Z'
 _updatedAt: '2021-04-04T06:11:52Z'
 date: '2020-02-20T00:13:00.000Z'

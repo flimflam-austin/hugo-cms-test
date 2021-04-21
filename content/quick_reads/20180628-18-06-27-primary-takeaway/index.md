@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wa7td
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-27-primary-takeaway/
+  - /
 _createdAt: '2018-06-28T11:01:47Z'
 _updatedAt: '2021-03-26T02:00:18Z'
 date: '2018-06-28T11:01:47+00:00'

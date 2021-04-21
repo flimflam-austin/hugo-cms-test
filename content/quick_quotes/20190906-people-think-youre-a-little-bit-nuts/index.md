@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633lrek
 type: quick_quotes
 draft: false
 aliases:
-  - article/people-think-youre-a-little-bit-nuts/
+  - /people-think-youre-a-little-bit-nuts/
 _createdAt: '2019-09-05T20:47:59Z'
 _updatedAt: '2021-04-17T09:17:19Z'
 date: '2019-09-05T20:47:59+00:00'

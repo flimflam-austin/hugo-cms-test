@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4533seTF
 type: quick_reads
 draft: false
 aliases:
-  - otd-nellie-bly/
+  - /
 _createdAt: '2021-03-31T16:37:49Z'
 _updatedAt: '2021-03-31T16:37:49Z'
 date: '2021-01-26T04:50:00.000Z'

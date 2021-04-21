@@ -8,7 +8,7 @@ type: video_posts
 draft: false
 aliases:
   - >-
-    article/before-she-trained-carrie-underwood-she-went-to-war-as-a-marine-smarther-with-erin-oprea/
+    /before-she-trained-carrie-underwood-she-went-to-war-as-a-marine-smarther-with-erin-oprea/
 _createdAt: '2020-12-11T05:33:41Z'
 _updatedAt: '2021-04-17T09:23:35Z'
 date: '2020-12-11T05:33:41+00:00'

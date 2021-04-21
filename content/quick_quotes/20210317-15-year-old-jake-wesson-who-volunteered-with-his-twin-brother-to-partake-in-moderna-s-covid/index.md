@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/15-year-old-jake-wesson-who-volunteered-with-his-twin-brother-to-partake-in-modernas-covid-19-vaccine-trial-the-drugmaker-just-announced-its-also-testing-its-vaccine-on-those-6-months/
+    /15-year-old-jake-wesson-who-volunteered-with-his-twin-brother-to-partake-in-modernas-covid-19-vaccine-trial-the-drugmaker-just-announced-its-also-testing-its-vaccine-on-those-6-months/
 _createdAt: '2021-04-01T01:30:20Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-17T22:29:00.000Z'

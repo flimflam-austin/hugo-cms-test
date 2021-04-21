@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wSE21
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-25-golden-state-murderer/
+  - /
 _createdAt: '2018-04-26T10:49:35Z'
 _updatedAt: '2021-03-25T23:21:03Z'
 date: '2018-04-26T10:49:35+00:00'

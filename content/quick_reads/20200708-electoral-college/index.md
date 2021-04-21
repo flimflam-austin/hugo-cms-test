@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4r4RnT
 type: quick_reads
 draft: false
 aliases:
-  - electoral-college/
+  - /
 _createdAt: '2021-04-02T06:51:00Z'
 _updatedAt: '2021-04-02T06:53:56Z'
 date: '2020-07-08T21:11:00.000Z'

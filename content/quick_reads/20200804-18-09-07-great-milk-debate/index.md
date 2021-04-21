@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452yb7FV
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-07-great-milk-debate/
+  - /
 _createdAt: '2018-09-07T11:57:23Z'
 _updatedAt: '2021-03-27T21:35:29Z'
 date: '2018-09-07T11:57:23+00:00'

@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/usda-provides-update-on-reports-of-households-across-america-randomly-receiving-unsolicited-packages-of-seeds-in-the-mail/
+    /usda-provides-update-on-reports-of-households-across-america-randomly-receiving-unsolicited-packages-of-seeds-in-the-mail/
 _createdAt: '2020-08-03T23:13:21Z'
 _updatedAt: '2021-04-17T09:22:45Z'
 date: '2020-08-03T23:13:21+00:00'

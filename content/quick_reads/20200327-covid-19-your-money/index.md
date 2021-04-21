@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDcruw
 type: quick_reads
 draft: false
 aliases:
-  - covid-19-your-money/
+  - /
 _createdAt: '2021-04-02T22:59:13Z'
 _updatedAt: '2021-04-02T22:59:13Z'
 date: '2020-03-27T07:31:00.000Z'

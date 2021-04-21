@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTaQES
 type: quick_quotes
 draft: false
 aliases:
-  - article/arkansas-abortion-law/
+  - /arkansas-abortion-law/
 _createdAt: '2021-04-01T01:57:23Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-03-10T10:26:00.000Z'

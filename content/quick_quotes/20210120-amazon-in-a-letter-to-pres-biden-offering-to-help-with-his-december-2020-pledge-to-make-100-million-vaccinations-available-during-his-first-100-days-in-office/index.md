@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/amazon-in-a-letter-to-pres-biden-offering-to-help-with-his-december-2020-pledge-to-make-100-million-vaccinations-available-during-his-first-100-days-in-office/
+    /amazon-in-a-letter-to-pres-biden-offering-to-help-with-his-december-2020-pledge-to-make-100-million-vaccinations-available-during-his-first-100-days-in-office/
 _createdAt: '2021-01-21T01:53:10Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-01-21T01:53:10+00:00'

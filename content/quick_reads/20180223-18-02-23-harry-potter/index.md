@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-23-harry-potter/
+  - /
 _createdAt: '2018-02-24T13:00:01Z'
 _updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-24T13:00:01+00:00'

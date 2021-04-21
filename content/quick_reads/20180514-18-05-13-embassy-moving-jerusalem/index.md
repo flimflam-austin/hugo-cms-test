@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJs2ivq
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-13-embassy-moving-jerusalem/
+  - /
 _createdAt: '2018-05-14T11:05:31Z'
 _updatedAt: '2021-03-26T00:13:01Z'
 date: '2018-05-14T11:05:31+00:00'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsEAu7
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-25-midterm-anticipation/
+  - /
 _createdAt: '2018-06-25T09:43:26Z'
 _updatedAt: '2021-03-26T01:50:54Z'
 date: '2018-06-25T09:43:26+00:00'

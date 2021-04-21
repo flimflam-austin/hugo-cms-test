@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrx8Rr
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-03-serena-williams/
+  - /
 _createdAt: '2018-05-03T10:52:21Z'
 _updatedAt: '2021-03-25T23:34:57Z'
 date: '2018-05-03T10:52:21+00:00'

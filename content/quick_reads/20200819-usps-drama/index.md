@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2sVCv
 type: quick_reads
 draft: false
 aliases:
-  - usps-drama/
+  - /
 _createdAt: '2021-04-02T00:53:17Z'
 _updatedAt: '2021-04-02T00:56:57Z'
 date: '2020-08-19T04:17:00.000Z'

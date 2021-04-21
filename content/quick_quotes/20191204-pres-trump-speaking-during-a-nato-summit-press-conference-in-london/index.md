@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTaU6S
 type: quick_quotes
 draft: false
 aliases:
-  - article/pres-trump-speaking-during-a-nato-summit-press-conference-in-london/
+  - /pres-trump-speaking-during-a-nato-summit-press-conference-in-london/
 _createdAt: '2019-12-04T03:47:17Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2019-12-04T03:47:17+00:00'

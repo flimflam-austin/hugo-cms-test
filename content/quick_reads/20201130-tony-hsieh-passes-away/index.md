@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCn12c
 type: quick_reads
 draft: false
 aliases:
-  - tony-hsieh-passes-away/
+  - /
 _createdAt: '2021-04-01T16:37:47Z'
 _updatedAt: '2021-04-01T16:37:47Z'
 date: '2020-11-30T22:17:00.000Z'

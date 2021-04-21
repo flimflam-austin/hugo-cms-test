@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq27zeG1
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-19-icymi-muellers-indictment-russia/
+  - /
 _createdAt: '2018-02-20T12:30:41Z'
 _updatedAt: '2021-03-25T21:49:03Z'
 date: '2018-02-20T12:30:41+00:00'

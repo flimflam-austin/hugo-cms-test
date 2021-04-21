@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wMOrF
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-15-skinny-brain/
+  - /
 _createdAt: '2018-02-15T01:00:14Z'
 _updatedAt: '2021-03-25T21:41:17Z'
 date: '2018-02-15T01:00:14+00:00'

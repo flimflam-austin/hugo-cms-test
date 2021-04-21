@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4uHUnf
 type: quick_reads
 draft: false
 aliases:
-  - homeschooling/
+  - /
 _createdAt: '2021-04-03T00:51:13Z'
 _updatedAt: '2021-04-03T00:51:13Z'
 date: '2020-03-20T09:44:00.000Z'

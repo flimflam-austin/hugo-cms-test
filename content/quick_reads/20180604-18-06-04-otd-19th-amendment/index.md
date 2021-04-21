@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28PrhM
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-04-otd-19th-amendment/
+  - /
 _createdAt: '2018-06-04T10:45:50Z'
 _updatedAt: '2021-03-26T00:57:56Z'
 date: '2018-06-04T10:45:50+00:00'

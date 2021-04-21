@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrmqrF
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-08-video-games-violence/
+  - /
 _createdAt: '2018-03-09T11:58:14Z'
 _updatedAt: '2021-03-25T22:14:26Z'
 date: '2018-03-09T11:58:14+00:00'

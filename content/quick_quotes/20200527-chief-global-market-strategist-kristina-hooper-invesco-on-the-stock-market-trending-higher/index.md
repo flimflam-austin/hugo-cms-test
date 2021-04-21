@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/chief-global-market-strategist-kristina-hooper-invesco-on-the-stock-market-trending-higher/
+    /chief-global-market-strategist-kristina-hooper-invesco-on-the-stock-market-trending-higher/
 _createdAt: '2020-05-28T01:52:29Z'
 _updatedAt: '2021-04-17T09:20:14Z'
 date: '2020-05-28T01:52:29+00:00'

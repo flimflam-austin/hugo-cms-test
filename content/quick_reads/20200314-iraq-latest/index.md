@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEGrKo
 type: quick_reads
 draft: false
 aliases:
-  - iraq-latest/
+  - /
 _createdAt: '2021-04-04T05:35:00Z'
 _updatedAt: '2021-04-04T05:35:00Z'
 date: '2020-03-14T01:43:00.000Z'

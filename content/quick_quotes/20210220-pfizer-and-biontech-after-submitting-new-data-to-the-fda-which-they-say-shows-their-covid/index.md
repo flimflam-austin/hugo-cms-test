@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633lemM
 type: quick_quotes
 draft: false
 aliases:
-  - article/pfizer-vaccine-temp/
+  - /pfizer-vaccine-temp/
 _createdAt: '2021-04-01T11:24:32Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-02-20T03:17:00.000Z'

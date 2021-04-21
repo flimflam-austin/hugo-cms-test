@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTaj3Y
 type: quick_quotes
 draft: false
 aliases:
-  - article/youtube-cannot-bury-its-head-in-the-sand/
+  - /youtube-cannot-bury-its-head-in-the-sand/
 _createdAt: '2019-09-05T20:43:50Z'
 _updatedAt: '2021-04-17T09:19:04Z'
 date: '2019-09-05T20:43:50+00:00'

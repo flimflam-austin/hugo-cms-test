@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-12-border-wall-begins/
+  - /
 _createdAt: '2018-04-12T10:05:30Z'
 _updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-12T10:05:30+00:00'

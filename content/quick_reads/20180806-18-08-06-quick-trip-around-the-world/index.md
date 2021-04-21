@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xWjO1
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-06-quick-trip-around-the-world/
+  - /
 _createdAt: '2018-08-06T12:34:03Z'
 _updatedAt: '2021-03-26T19:25:39Z'
 date: '2018-08-06T12:34:03+00:00'

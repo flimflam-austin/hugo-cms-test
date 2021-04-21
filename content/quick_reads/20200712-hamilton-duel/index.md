@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDD89ra
 type: quick_reads
 draft: false
 aliases:
-  - hamilton-duel/
+  - /
 _createdAt: '2021-04-02T05:59:15Z'
 _updatedAt: '2021-04-02T05:59:15Z'
 date: '2020-07-12T04:05:00.000Z'

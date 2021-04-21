@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rUNi
 type: video_posts
 draft: false
 aliases:
-  - article/how-deadly-really-is-covid-19/
+  - /how-deadly-really-is-covid-19/
 _createdAt: '2020-07-06T16:48:59Z'
 _updatedAt: '2021-04-17T09:24:15Z'
 date: '2020-07-06T16:48:59+00:00'

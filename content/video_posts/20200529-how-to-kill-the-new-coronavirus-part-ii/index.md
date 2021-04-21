@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnRaG
 type: video_posts
 draft: false
 aliases:
-  - article/how-to-kill-the-new-coronavirus-part-ii/
+  - /how-to-kill-the-new-coronavirus-part-ii/
 _createdAt: '2020-05-29T18:00:13Z'
 _updatedAt: '2021-04-17T09:23:44Z'
 date: '2020-05-29T18:00:13+00:00'

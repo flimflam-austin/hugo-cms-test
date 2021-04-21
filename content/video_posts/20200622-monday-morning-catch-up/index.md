@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rUJg
 type: video_posts
 draft: false
 aliases:
-  - article/monday-morning-catch-up/
+  - /monday-morning-catch-up/
 _createdAt: '2020-06-22T15:47:32Z'
 _updatedAt: '2021-04-17T09:24:13Z'
 date: '2020-06-22T15:47:32+00:00'

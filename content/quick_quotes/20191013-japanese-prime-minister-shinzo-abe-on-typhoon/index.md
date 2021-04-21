@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTaYXI
 type: quick_quotes
 draft: false
 aliases:
-  - article/japanese-prime-minister-shinzo-abe-on-typhoon/
+  - /japanese-prime-minister-shinzo-abe-on-typhoon/
 _createdAt: '2019-10-13T23:42:44Z'
 _updatedAt: '2021-04-17T09:16:10Z'
 date: '2019-10-13T23:42:44+00:00'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2D1ev3
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-31-america-fighting-al-qaeda-in-africa/
+  - /
 _createdAt: '2018-08-31T11:50:07Z'
 _updatedAt: '2021-03-27T21:15:26Z'
 date: '2018-08-31T11:50:07+00:00'

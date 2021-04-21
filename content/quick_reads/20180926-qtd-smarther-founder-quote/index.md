@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF2FC
 type: quick_reads
 draft: false
 aliases:
-  - qtd-smarther-founder-quote/
+  - /
 _createdAt: '2018-09-27T03:03:44Z'
 _updatedAt: '2021-03-22T13:11:13Z'
 date: '2018-09-27T03:03:44+00:00'

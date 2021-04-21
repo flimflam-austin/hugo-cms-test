@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28E7Jq
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-01-ticks-bites-oh/
+  - /
 _createdAt: '2018-05-02T10:50:36Z'
 _updatedAt: '2021-03-25T23:30:51Z'
 date: '2018-05-02T10:50:36+00:00'

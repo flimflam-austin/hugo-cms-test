@@ -7,7 +7,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    https://www.smarthernews.com/article/judge-peter-cahill-to-the-jury-before-deliberations-began-over-the-murder-case-against-derek-chauvin-the-former-police-officer-on-trial-accused-on-killing-george-floyd/
+    /article/judge-peter-cahill-to-the-jury-before-deliberations-began-over-the-murder-case-against-derek-chauvin-the-former-police-officer-on-trial-accused-on-killing-george-floyd/
 _createdAt: '2021-04-21T15:03:20Z'
 _updatedAt: '2021-04-21T17:15:35Z'
 date: '2021-04-19T15:04:00.000Z'

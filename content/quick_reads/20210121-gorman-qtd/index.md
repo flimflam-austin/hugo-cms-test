@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK9TbxQ
 type: quick_reads
 draft: false
 aliases:
-  - gorman-qtd/
+  - /
 _createdAt: '2021-03-31T16:51:37Z'
 _updatedAt: '2021-03-31T16:51:37Z'
 date: '2021-01-21T06:31:00.000Z'

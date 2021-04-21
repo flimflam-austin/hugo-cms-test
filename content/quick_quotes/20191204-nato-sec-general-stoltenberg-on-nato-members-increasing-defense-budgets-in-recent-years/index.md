@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/nato-sec-general-stoltenberg-on-nato-members-increasing-defense-budgets-in-recent-years/
+    /nato-sec-general-stoltenberg-on-nato-members-increasing-defense-budgets-in-recent-years/
 _createdAt: '2019-12-04T17:17:02Z'
 _updatedAt: '2021-04-17T09:22:38Z'
 date: '2019-12-04T17:17:02+00:00'

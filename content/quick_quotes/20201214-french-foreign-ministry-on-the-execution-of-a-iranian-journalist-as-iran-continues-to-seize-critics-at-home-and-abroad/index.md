@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/french-foreign-ministry-on-the-execution-of-a-iranian-journalist-as-iran-continues-to-seize-critics-at-home-and-abroad/
+    /french-foreign-ministry-on-the-execution-of-a-iranian-journalist-as-iran-continues-to-seize-critics-at-home-and-abroad/
 _createdAt: '2020-12-15T04:39:46Z'
 _updatedAt: '2021-04-17T09:20:28Z'
 date: '2020-12-15T04:39:46+00:00'

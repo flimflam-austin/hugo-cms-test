@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/pres-trumps-remarks-as-he-arrived-back-at-the-white-house-after-his-three-night-stay-at-walter-reed-national-military-medical-center/
+    /pres-trumps-remarks-as-he-arrived-back-at-the-white-house-after-his-three-night-stay-at-walter-reed-national-military-medical-center/
 _createdAt: '2020-10-05T23:41:02Z'
 _updatedAt: '2021-04-17T09:18:09Z'
 date: '2020-10-05T23:41:02+00:00'

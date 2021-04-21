@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4oImch
 type: quick_reads
 draft: false
 aliases:
-  - biden-qtd/
+  - /
 _createdAt: '2021-04-01T17:33:39Z'
 _updatedAt: '2021-04-01T17:33:39Z'
 date: '2020-11-08T14:15:00.000Z'

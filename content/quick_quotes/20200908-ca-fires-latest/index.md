@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd5jN
 type: quick_quotes
 draft: false
 aliases:
-  - article/ca-fires-latest/
+  - /ca-fires-latest/
 _createdAt: '2020-09-08T18:35:11Z'
 _updatedAt: '2021-04-17T09:19:15Z'
 date: '2020-09-08T18:35:11+00:00'

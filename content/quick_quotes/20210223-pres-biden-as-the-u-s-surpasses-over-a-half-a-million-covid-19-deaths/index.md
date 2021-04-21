@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTaNnU
 type: quick_quotes
 draft: false
 aliases:
-  - article/pres-biden-500k-covid-deaths/
+  - /pres-biden-500k-covid-deaths/
 _createdAt: '2021-04-01T09:44:43Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-02-23T09:51:00.000Z'

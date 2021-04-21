@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633lyS7
 type: quick_quotes
 draft: false
 aliases:
-  - article/2020wreaths-across-america/
+  - /2020wreaths-across-america/
 _createdAt: '2020-11-19T03:59:25Z'
 _updatedAt: '2021-04-17T09:19:48Z'
 date: '2020-11-19T03:59:25+00:00'

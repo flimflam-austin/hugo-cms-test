@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rReM
 type: video_posts
 draft: false
 aliases:
-  - article/what-defines-american-leadership-in-2021/
+  - /what-defines-american-leadership-in-2021/
 _createdAt: '2021-04-01T12:02:04Z'
 _updatedAt: '2021-04-17T09:23:17Z'
 date: '2021-03-15T11:57:00.000Z'

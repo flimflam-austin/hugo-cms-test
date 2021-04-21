@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-20-royal-wedding-ii/
+  - /
 _createdAt: '2018-05-21T10:33:20Z'
 _updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-21T10:33:20+00:00'

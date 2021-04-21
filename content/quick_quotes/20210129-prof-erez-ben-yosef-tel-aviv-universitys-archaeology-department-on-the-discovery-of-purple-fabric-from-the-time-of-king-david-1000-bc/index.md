@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/prof-erez-ben-yosef-tel-aviv-universitys-archaeology-department-on-the-discovery-of-purple-fabric-from-the-time-of-king-david-1000-bc/
+    /prof-erez-ben-yosef-tel-aviv-universitys-archaeology-department-on-the-discovery-of-purple-fabric-from-the-time-of-king-david-1000-bc/
 _createdAt: '2021-01-30T04:36:20Z'
 _updatedAt: '2021-04-17T09:21:03Z'
 date: '2021-01-30T04:36:20+00:00'

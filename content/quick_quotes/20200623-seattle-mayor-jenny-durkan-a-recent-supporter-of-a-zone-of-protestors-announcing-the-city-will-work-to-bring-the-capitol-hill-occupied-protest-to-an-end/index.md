@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/seattle-mayor-jenny-durkan-a-recent-supporter-of-a-zone-of-protestors-announcing-the-city-will-work-to-bring-the-capitol-hill-occupied-protest-to-an-end/
+    /seattle-mayor-jenny-durkan-a-recent-supporter-of-a-zone-of-protestors-announcing-the-city-will-work-to-bring-the-capitol-hill-occupied-protest-to-an-end/
 _createdAt: '2020-06-23T03:08:07Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-06-23T03:08:07+00:00'

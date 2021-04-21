@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wSL1Z
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-27-korean-war-pictures/
+  - /
 _createdAt: '2018-04-28T02:49:44Z'
 _updatedAt: '2021-03-25T23:23:44Z'
 date: '2018-04-28T02:49:44+00:00'

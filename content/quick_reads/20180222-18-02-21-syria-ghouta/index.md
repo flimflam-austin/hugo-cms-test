@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wNJTR
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-21-syria-ghouta/
+  - /
 _createdAt: '2018-02-22T04:48:06Z'
 _updatedAt: '2021-03-25T21:51:15Z'
 date: '2018-02-22T04:48:06+00:00'

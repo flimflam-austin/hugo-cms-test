@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wVLSH
 type: quick_reads
 draft: false
 aliases:
-  - 18-5-18-romaine-now-safe/
+  - /
 _createdAt: '2018-05-18T09:33:35Z'
 _updatedAt: '2021-03-26T00:21:00Z'
 date: '2018-05-18T09:33:35+00:00'

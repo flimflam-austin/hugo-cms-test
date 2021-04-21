@@ -10,7 +10,7 @@ _rev: Pxytp4DhfU5gNtP633m5JW
 type: quick_quotes
 draft: false
 aliases:
-  - article/puerto-rico-in-2020/
+  - /puerto-rico-in-2020/
 _createdAt: '2020-10-20T02:54:50Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-10-20T02:54:50+00:00'

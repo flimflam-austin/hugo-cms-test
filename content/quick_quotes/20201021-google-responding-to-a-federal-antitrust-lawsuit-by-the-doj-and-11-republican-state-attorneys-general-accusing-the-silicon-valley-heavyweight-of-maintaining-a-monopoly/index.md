@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/google-responding-to-a-federal-antitrust-lawsuit-by-the-doj-and-11-republican-state-attorneys-general-accusing-the-silicon-valley-heavyweight-of-maintaining-a-monopoly/
+    /google-responding-to-a-federal-antitrust-lawsuit-by-the-doj-and-11-republican-state-attorneys-general-accusing-the-silicon-valley-heavyweight-of-maintaining-a-monopoly/
 _createdAt: '2020-10-21T19:41:25Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-10-21T19:41:25+00:00'

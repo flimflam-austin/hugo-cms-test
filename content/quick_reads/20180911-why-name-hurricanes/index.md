@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452ybIpx
 type: quick_reads
 draft: false
 aliases:
-  - why-name-hurricanes/
+  - /
 _createdAt: '2018-09-11T11:57:07Z'
 _updatedAt: '2021-03-27T21:39:55Z'
 date: '2018-09-11T11:57:07+00:00'

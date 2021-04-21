@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCRnDC
 type: quick_reads
 draft: false
 aliases:
-  - wyoming-day/
+  - /
 _createdAt: '2021-03-31T18:55:04Z'
 _updatedAt: '2021-04-01T05:35:57Z'
 date: '2020-12-09T16:00:00.000Z'

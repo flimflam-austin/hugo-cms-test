@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7Hnbji
 type: video_posts
 draft: false
 aliases:
-  - article/what-to-know-this-week-october-19-23/
+  - /what-to-know-this-week-october-19-23/
 _createdAt: '2020-10-19T13:21:06Z'
 _updatedAt: '2021-04-17T09:25:23Z'
 date: '2020-10-19T13:21:06+00:00'

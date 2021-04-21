@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28Ms6u
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-22-ebola-vaccine/
+  - /
 _createdAt: '2018-05-23T10:51:57Z'
 _updatedAt: '2021-03-26T00:38:15Z'
 date: '2018-05-23T10:51:57+00:00'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2zQLF
 type: quick_reads
 draft: false
 aliases:
-  - streamlining-covid/
+  - /
 _createdAt: '2021-04-02T04:15:43Z'
 _updatedAt: '2021-04-02T04:15:43Z'
 date: '2020-07-29T21:42:00.000Z'

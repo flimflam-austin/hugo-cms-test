@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532vDML
 type: quick_reads
 draft: false
 aliases:
-  - first-foreign-policy-test/
+  - /
 _createdAt: '2021-03-31T00:05:43Z'
 _updatedAt: '2021-03-31T00:05:43Z'
 date: '2021-02-17T11:51:00.000Z'

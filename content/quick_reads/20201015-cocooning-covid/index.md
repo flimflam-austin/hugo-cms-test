@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4ofo27
 type: quick_reads
 draft: false
 aliases:
-  - cocooning-covid/
+  - /
 _createdAt: '2021-04-01T18:43:12Z'
 _updatedAt: '2021-04-01T18:43:12Z'
 date: '2020-10-15T02:57:00.000Z'

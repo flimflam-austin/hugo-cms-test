@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-25-memorial-day-history/
+  - /
 _createdAt: '2019-05-24T13:18:23Z'
 _updatedAt: '2021-03-22T13:11:17Z'
 date: '2019-05-24T13:18:23+00:00'

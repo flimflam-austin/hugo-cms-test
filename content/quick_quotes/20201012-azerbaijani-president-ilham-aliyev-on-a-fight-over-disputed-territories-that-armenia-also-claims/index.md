@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/azerbaijani-president-ilham-aliyev-on-a-fight-over-disputed-territories-that-armenia-also-claims/
+    /azerbaijani-president-ilham-aliyev-on-a-fight-over-disputed-territories-that-armenia-also-claims/
 _createdAt: '2020-10-12T15:51:30Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-10-12T15:51:30+00:00'

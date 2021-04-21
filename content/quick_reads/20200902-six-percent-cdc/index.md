@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4plBaJ
 type: quick_reads
 draft: false
 aliases:
-  - six-percent-cdc/
+  - /
 _createdAt: '2021-04-01T23:15:31Z'
 _updatedAt: '2021-04-01T23:15:31Z'
 date: '2020-09-02T19:55:00.000Z'

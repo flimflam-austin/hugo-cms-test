@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK7bQNB
 type: quick_reads
 draft: false
 aliases:
-  - jobs-and-guy-adami/
+  - /
 _createdAt: '2021-03-30T22:13:48Z'
 _updatedAt: '2021-03-31T04:33:08Z'
 date: '2021-03-06T12:29:00.000Z'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2CzYnJ
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-30-cigarettes-vaping/
+  - /
 _createdAt: '2018-08-30T11:11:52Z'
 _updatedAt: '2021-03-27T20:58:00Z'
 date: '2018-08-30T11:11:52+00:00'

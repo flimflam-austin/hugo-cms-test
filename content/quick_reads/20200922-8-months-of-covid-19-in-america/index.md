@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCxwly
 type: quick_reads
 draft: false
 aliases:
-  - 8-months-of-covid-19-in-america/
+  - /
 _createdAt: '2021-04-01T22:18:28Z'
 _updatedAt: '2021-04-01T22:18:28Z'
 date: '2020-09-22T20:57:00.000Z'

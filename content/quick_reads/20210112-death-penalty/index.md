@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2NxsLP
 type: quick_reads
 draft: false
 aliases:
-  - death-penalty/
+  - /
 _createdAt: '2021-03-31T17:40:04Z'
 _updatedAt: '2021-03-31T17:40:04Z'
 date: '2021-01-12T11:37:00.000Z'

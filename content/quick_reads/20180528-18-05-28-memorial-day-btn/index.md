@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJs7BV1
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-28-memorial-day-btn/
+  - /
 _createdAt: '2018-05-28T13:59:59Z'
 _updatedAt: '2021-03-26T00:45:32Z'
 date: '2018-05-28T13:59:59+00:00'

@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4oRlc3
 type: quick_reads
 draft: false
 aliases:
-  - trump-taxes/
+  - /
 _createdAt: '2021-04-01T18:03:51Z'
 _updatedAt: '2021-04-01T18:03:51Z'
 date: '2020-10-29T02:04:00.000Z'

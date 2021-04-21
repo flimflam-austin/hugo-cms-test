@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEJyZS
 type: quick_reads
 draft: false
 aliases:
-  - war-powers-commander-in-chief-congress/
+  - /
 _createdAt: '2021-04-04T07:56:47Z'
 _updatedAt: '2021-04-04T07:56:47Z'
 date: '2020-01-11T08:10:00.000Z'

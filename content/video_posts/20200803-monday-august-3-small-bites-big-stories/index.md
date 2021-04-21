@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgcWG
 type: video_posts
 draft: false
 aliases:
-  - article/monday-august-3-small-bites-big-stories/
+  - /monday-august-3-small-bites-big-stories/
 _createdAt: '2020-08-03T13:06:48Z'
 _updatedAt: '2021-04-17T09:24:04Z'
 date: '2020-08-03T13:06:48+00:00'

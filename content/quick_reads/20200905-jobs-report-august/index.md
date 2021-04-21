@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCzFde
 type: quick_reads
 draft: false
 aliases:
-  - jobs-report-august/
+  - /
 _createdAt: '2021-04-01T23:03:58Z'
 _updatedAt: '2021-04-01T23:03:58Z'
 date: '2020-09-05T06:13:00.000Z'

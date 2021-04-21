@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsEuAN
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-27-ptsd/
+  - /
 _createdAt: '2018-06-27T11:02:52Z'
 _updatedAt: '2021-03-26T01:59:22Z'
 date: '2018-06-27T11:02:52+00:00'

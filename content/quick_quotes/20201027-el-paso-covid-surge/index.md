@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTaqhk
 type: quick_quotes
 draft: false
 aliases:
-  - article/el-paso-covid-surge/
+  - /el-paso-covid-surge/
 _createdAt: '2020-10-28T03:45:22Z'
 _updatedAt: '2021-04-17T09:21:06Z'
 date: '2020-10-28T03:45:22+00:00'

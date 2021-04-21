@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCorss
 type: quick_reads
 draft: false
 aliases:
-  - runoff-vs-recount/
+  - /
 _createdAt: '2021-04-01T17:31:00Z'
 _updatedAt: '2021-04-01T17:31:00Z'
 date: '2020-11-09T09:50:00.000Z'

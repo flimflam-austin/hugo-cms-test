@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r34or7
 type: quick_reads
 draft: false
 aliases:
-  - inventor-of-sewing-machine-born/
+  - /
 _createdAt: '2021-04-02T06:50:48Z'
 _updatedAt: '2021-04-02T06:50:48Z'
 date: '2020-07-10T00:20:00.000Z'

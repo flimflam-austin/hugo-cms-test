@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/houston-director-of-medical-services-david-persse-on-the-rapid-rise-in-covid-19-infections-in-one-of-americas-largest-cities/
+    /houston-director-of-medical-services-david-persse-on-the-rapid-rise-in-covid-19-infections-in-one-of-americas-largest-cities/
 _createdAt: '2020-06-25T11:46:26Z'
 _updatedAt: '2021-04-17T09:16:53Z'
 date: '2020-06-25T11:46:26+00:00'

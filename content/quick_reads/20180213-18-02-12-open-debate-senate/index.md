@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq27xHE8
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-12-open-debate-senate/
+  - /
 _createdAt: '2018-02-13T03:44:12Z'
 _updatedAt: '2021-03-25T21:36:51Z'
 date: '2018-02-13T03:44:12+00:00'

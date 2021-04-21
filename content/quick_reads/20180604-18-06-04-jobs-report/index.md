@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28Ptfh
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-04-jobs-report/
+  - /
 _createdAt: '2018-06-04T10:46:50Z'
 _updatedAt: '2021-03-26T00:58:22Z'
 date: '2018-06-04T10:46:50+00:00'

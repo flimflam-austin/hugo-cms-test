@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633lotN
 type: quick_quotes
 draft: false
 aliases:
-  - article/osterholm-pandemic-fatigue/
+  - /osterholm-pandemic-fatigue/
 _createdAt: '2020-10-16T03:46:55Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-10-16T03:46:55+00:00'

@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTau2q
 type: quick_quotes
 draft: false
 aliases:
-  - article/the-debate-commission-rule-change/
+  - /the-debate-commission-rule-change/
 _createdAt: '2020-10-20T13:10:31Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-10-20T13:10:31+00:00'

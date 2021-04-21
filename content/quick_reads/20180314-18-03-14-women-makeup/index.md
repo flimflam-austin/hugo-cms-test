@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq285SiK
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-14-women-makeup/
+  - /
 _createdAt: '2018-03-14T13:00:34Z'
 _updatedAt: '2021-03-25T22:21:51Z'
 date: '2018-03-14T13:00:34+00:00'

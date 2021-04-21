@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452ykMnl
 type: quick_reads
 draft: false
 aliases:
-  - shnweekahead-3/
+  - /
 _createdAt: '2018-12-09T23:48:23Z'
 _updatedAt: '2021-03-28T00:57:01Z'
 date: '2018-12-09T23:48:23+00:00'

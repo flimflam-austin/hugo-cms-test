@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633lwL4
 type: quick_quotes
 draft: false
 aliases:
-  - article/peru-without-a-president/
+  - /peru-without-a-president/
 _createdAt: '2020-11-16T03:57:21Z'
 _updatedAt: '2021-04-17T09:19:11Z'
 date: '2020-11-16T03:57:21+00:00'

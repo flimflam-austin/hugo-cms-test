@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28SVQA
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-11-scene-setter-qq-tuesday/
+  - /
 _createdAt: '2018-06-12T11:00:51Z'
 _updatedAt: '2021-03-26T01:24:42Z'
 date: '2018-06-12T11:00:51+00:00'

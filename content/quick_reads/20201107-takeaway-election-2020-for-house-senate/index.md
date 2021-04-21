@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4oKcd5
 type: quick_reads
 draft: false
 aliases:
-  - takeaway-election-2020-for-house-senate/
+  - /
 _createdAt: '2021-04-01T17:41:53Z'
 _updatedAt: '2021-04-01T17:41:53Z'
 date: '2020-11-07T01:13:00.000Z'

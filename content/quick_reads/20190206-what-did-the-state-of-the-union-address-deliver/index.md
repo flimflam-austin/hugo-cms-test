@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DL05v
 type: quick_reads
 draft: false
 aliases:
-  - what-did-the-state-of-the-union-address-deliver/
+  - /
 _createdAt: '2019-02-06T14:04:36Z'
 _updatedAt: '2021-03-28T01:09:45Z'
 date: '2019-02-06T14:04:36+00:00'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxz22d
 type: quick_reads
 draft: false
 aliases:
-  - 18-12-3-qtd-oprah/
+  - /
 _createdAt: '2018-12-03T12:56:37Z'
 _updatedAt: '2021-03-28T00:46:21Z'
 date: '2018-12-03T12:56:37+00:00'

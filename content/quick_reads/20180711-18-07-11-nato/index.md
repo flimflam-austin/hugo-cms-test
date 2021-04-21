@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28aWip
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-11-nato/
+  - /
 _createdAt: '2018-07-12T10:10:52Z'
 _updatedAt: '2021-03-26T02:37:16Z'
 date: '2018-07-12T10:10:52+00:00'

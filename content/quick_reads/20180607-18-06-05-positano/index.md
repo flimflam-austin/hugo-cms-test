@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28Qjin
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-05-positano/
+  - /
 _createdAt: '2018-06-07T10:56:57Z'
 _updatedAt: '2021-03-26T01:07:15Z'
 date: '2018-06-07T10:56:57+00:00'

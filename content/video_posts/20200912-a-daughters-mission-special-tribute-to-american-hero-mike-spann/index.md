@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rZ00
 type: video_posts
 draft: false
 aliases:
-  - article/a-daughters-mission-special-tribute-to-american-hero-mike-spann/
+  - /a-daughters-mission-special-tribute-to-american-hero-mike-spann/
 _createdAt: '2020-09-11T13:54:24Z'
 _updatedAt: '2021-04-17T09:25:36Z'
 date: '2020-09-11T13:54:24+00:00'

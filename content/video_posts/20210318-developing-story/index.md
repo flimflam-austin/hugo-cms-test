@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnOwv
 type: video_posts
 draft: false
 aliases:
-  - article/developing-story/
+  - /developing-story/
 _createdAt: '2021-04-01T11:57:53Z'
 _updatedAt: '2021-04-17T09:23:18Z'
 date: '2021-03-18T10:08:00.000Z'

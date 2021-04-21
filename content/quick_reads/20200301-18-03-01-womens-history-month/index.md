@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wNwG5
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-01-womens-history-month/
+  - /
 _createdAt: '2018-03-01T10:00:42Z'
 _updatedAt: '2021-03-25T22:04:32Z'
 date: '2018-03-01T10:00:42+00:00'

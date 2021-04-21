@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rYnu
 type: video_posts
 draft: false
 aliases:
-  - article/simulating-covid-19-spread-is-this-what-a-covid-cough-looks-like/
+  - /simulating-covid-19-spread-is-this-what-a-covid-cough-looks-like/
 _createdAt: '2020-08-06T12:51:21Z'
 _updatedAt: '2021-04-17T09:25:33Z'
 date: '2020-08-06T12:51:21+00:00'

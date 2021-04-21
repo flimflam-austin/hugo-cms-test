@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28PlzZ
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-30-mustang/
+  - /
 _createdAt: '2018-06-01T10:45:19Z'
 _updatedAt: '2021-03-26T00:56:51Z'
 date: '2018-06-01T10:45:19+00:00'

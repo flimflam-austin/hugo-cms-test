@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DHltV
 type: quick_reads
 draft: false
 aliases:
-  - 18-11-27-sexual-misconduct-on-campus/
+  - /
 _createdAt: '2018-11-27T12:22:37Z'
 _updatedAt: '2021-03-28T00:31:08Z'
 date: '2018-11-27T12:22:37+00:00'

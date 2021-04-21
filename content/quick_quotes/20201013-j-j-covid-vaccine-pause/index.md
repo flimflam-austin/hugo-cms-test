@@ -8,7 +8,7 @@ _rev: Pxytp4DhfU5gNtP633m1nm
 type: quick_quotes
 draft: false
 aliases:
-  - article/j-j-covid-vaccine-pause/
+  - /j-j-covid-vaccine-pause/
 _createdAt: '2020-10-13T17:02:22Z'
 _updatedAt: '2021-04-17T09:20:54Z'
 date: '2020-10-13T17:02:22+00:00'

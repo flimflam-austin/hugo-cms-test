@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28DLhB
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-26-two-meetings/
+  - /
 _createdAt: '2018-04-27T11:00:05Z'
 _updatedAt: '2021-03-25T23:23:13Z'
 date: '2018-04-27T11:00:05+00:00'

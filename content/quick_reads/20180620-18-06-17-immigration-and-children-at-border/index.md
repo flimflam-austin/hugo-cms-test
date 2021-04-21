@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsBsfZ
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-17-immigration-and-children-at-border/
+  - /
 _createdAt: '2018-06-18T11:13:23Z'
 _updatedAt: '2021-03-26T01:38:11Z'
 date: '2018-06-18T11:13:23+00:00'

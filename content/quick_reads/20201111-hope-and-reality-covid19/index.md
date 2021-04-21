@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2VISL
 type: quick_reads
 draft: false
 aliases:
-  - hope-and-reality-covid19/
+  - /
 _createdAt: '2021-04-01T17:26:17Z'
 _updatedAt: '2021-04-01T17:26:17Z'
 date: '2020-11-11T01:38:00.000Z'

@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDcnUs
 type: quick_reads
 draft: false
 aliases:
-  - covid-19-march-26-update/
+  - /
 _createdAt: '2021-04-02T22:51:47Z'
 _updatedAt: '2021-04-02T22:55:32Z'
 date: '2020-03-27T10:51:00.000Z'

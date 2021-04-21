@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r35hQ9
 type: quick_reads
 draft: false
 aliases:
-  - yosemite/
+  - /
 _createdAt: '2021-04-02T07:24:13Z'
 _updatedAt: '2021-04-02T07:24:13Z'
 date: '2020-06-30T19:03:00.000Z'

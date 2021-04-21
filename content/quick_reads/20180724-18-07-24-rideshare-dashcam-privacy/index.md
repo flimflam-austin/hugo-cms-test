@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2AesHh
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-24-rideshare-dashcam-privacy/
+  - /
 _createdAt: '2018-07-24T11:50:48Z'
 _updatedAt: '2021-03-26T17:39:53Z'
 date: '2018-07-24T11:50:48+00:00'

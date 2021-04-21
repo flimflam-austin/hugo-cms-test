@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633lqgG
 type: quick_quotes
 draft: false
 aliases:
-  - article/sen-kamala-harris-quits-the-2020-presidential-race/
+  - /sen-kamala-harris-quits-the-2020-presidential-race/
 _createdAt: '2019-12-04T02:47:40Z'
 _updatedAt: '2021-04-17T09:17:02Z'
 date: '2019-12-04T02:47:40+00:00'

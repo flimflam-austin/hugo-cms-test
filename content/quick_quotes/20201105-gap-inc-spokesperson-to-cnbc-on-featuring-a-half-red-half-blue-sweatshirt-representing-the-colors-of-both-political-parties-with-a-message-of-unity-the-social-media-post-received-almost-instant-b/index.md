@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/gap-inc-spokesperson-to-cnbc-on-featuring-a-half-red-half-blue-sweatshirt-representing-the-colors-of-both-political-parties-with-a-message-of-unity-the-social-media-post-received-almost-instant-b/
+    /gap-inc-spokesperson-to-cnbc-on-featuring-a-half-red-half-blue-sweatshirt-representing-the-colors-of-both-political-parties-with-a-message-of-unity-the-social-media-post-received-almost-instant-b/
 _createdAt: '2020-11-05T20:09:57Z'
 _updatedAt: '2021-04-17T09:16:03Z'
 date: '2020-11-05T20:09:57+00:00'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq286lip
 type: quick_reads
 draft: false
 aliases:
-  - money-draft/
+  - /
 _createdAt: '2018-03-23T11:18:07Z'
 _updatedAt: '2021-03-25T22:34:52Z'
 date: '2018-03-23T11:18:07+00:00'

@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTatZo
 type: quick_quotes
 draft: false
 aliases:
-  - article/president-announces-4th-national-security-advisor/
+  - /president-announces-4th-national-security-advisor/
 _createdAt: '2019-09-18T16:25:03Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2019-09-18T16:25:03+00:00'

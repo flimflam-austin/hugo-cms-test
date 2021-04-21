@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4r7N5H
 type: quick_reads
 draft: false
 aliases:
-  - july-4-2020/
+  - /
 _createdAt: '2021-04-02T07:13:52Z'
 _updatedAt: '2021-04-02T07:13:52Z'
 date: '2020-07-03T21:40:00.000Z'

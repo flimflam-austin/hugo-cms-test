@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wPMBx
 type: quick_reads
 draft: false
 aliases:
-  - 2018-03-15-7000-killed/
+  - /
 _createdAt: '2018-03-15T12:00:57Z'
 _updatedAt: '2021-03-25T22:23:06Z'
 date: '2018-03-15T12:00:57+00:00'

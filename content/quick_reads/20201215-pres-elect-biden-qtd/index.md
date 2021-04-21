@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDC8Bkk
 type: quick_reads
 draft: false
 aliases:
-  - pres-elect-biden-qtd/
+  - /
 _createdAt: '2021-03-31T18:26:51Z'
 _updatedAt: '2021-03-31T18:26:51Z'
 date: '2020-12-15T11:14:00.000Z'

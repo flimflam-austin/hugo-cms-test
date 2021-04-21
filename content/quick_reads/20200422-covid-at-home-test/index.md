@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDXfJe
 type: quick_reads
 draft: false
 aliases:
-  - covid-at-home-test/
+  - /
 _createdAt: '2021-04-02T20:06:14Z'
 _updatedAt: '2021-04-02T20:06:14Z'
 date: '2020-04-22T09:15:00.000Z'

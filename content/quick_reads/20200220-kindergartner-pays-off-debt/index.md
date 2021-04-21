@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEHgAY
 type: quick_reads
 draft: false
 aliases:
-  - kindergartner-pays-off-debt/
+  - /
 _createdAt: '2021-04-04T06:13:48Z'
 _updatedAt: '2021-04-04T06:13:48Z'
 date: '2020-02-20T00:13:00.000Z'

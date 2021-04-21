@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJs63pt
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-25-noko-no-go/
+  - /
 _createdAt: '2018-05-25T09:06:57Z'
 _updatedAt: '2021-03-26T00:45:01Z'
 date: '2018-05-25T09:06:57+00:00'

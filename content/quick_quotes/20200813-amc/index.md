@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTad5s
 type: quick_quotes
 draft: false
 aliases:
-  - article/amc/
+  - /amc/
 _createdAt: '2020-08-13T16:53:50Z'
 _updatedAt: '2021-04-17T09:17:26Z'
 date: '2020-08-13T16:53:50+00:00'

@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/texas-harris-county-judge-lina-hidalgo-as-hurricane-laura-is-expected-to-slam-the-gulf-coast-in-texas-and-louisiana-as-a-category-3-storm-as-soon-as-wednesday/
+    /texas-harris-county-judge-lina-hidalgo-as-hurricane-laura-is-expected-to-slam-the-gulf-coast-in-texas-and-louisiana-as-a-category-3-storm-as-soon-as-wednesday/
 _createdAt: '2020-08-26T03:23:05Z'
 _updatedAt: '2021-04-17T09:19:16Z'
 date: '2020-08-26T03:23:05+00:00'

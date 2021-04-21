@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633m38R
 type: quick_quotes
 draft: false
 aliases:
-  - article/republican-congressman-mark-sanford-will-challenge-pres-trump/
+  - /republican-congressman-mark-sanford-will-challenge-pres-trump/
 _createdAt: '2019-09-08T19:45:48Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2019-09-08T19:45:48+00:00'

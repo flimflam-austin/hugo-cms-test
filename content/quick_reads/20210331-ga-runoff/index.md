@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r1GU5Z
 type: quick_reads
 draft: false
 aliases:
-  - ga-runoff/
+  - /
 _createdAt: '2021-03-31T17:51:27Z'
 _updatedAt: '2021-03-31T17:52:12Z'
 date: '2021-01-05T02:52:00.000Z'

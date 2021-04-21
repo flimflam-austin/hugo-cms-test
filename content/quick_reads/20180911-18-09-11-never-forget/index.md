@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF27C
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-11-never-forget/
+  - /
 _createdAt: '2018-09-11T11:59:16Z'
 _updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-09-11T11:59:16+00:00'

@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCrzJ8
 type: quick_reads
 draft: false
 aliases:
-  - qtd-vote-while-you-float/
+  - /
 _createdAt: '2021-04-01T18:54:34Z'
 _updatedAt: '2021-04-01T18:54:34Z'
 date: '2020-10-08T01:02:00.000Z'

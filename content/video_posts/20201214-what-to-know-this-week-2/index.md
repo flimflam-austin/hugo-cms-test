@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7Hnd5N
 type: video_posts
 draft: false
 aliases:
-  - article/what-to-know-this-week-2/
+  - /what-to-know-this-week-2/
 _createdAt: '2020-12-14T06:59:02Z'
 _updatedAt: '2021-04-17T09:25:35Z'
 date: '2020-12-14T06:59:02+00:00'

@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rXvT
 type: video_posts
 draft: false
 aliases:
-  - article/a-smarther-veterans-day/
+  - /a-smarther-veterans-day/
 _createdAt: '2019-11-25T02:46:22Z'
 _updatedAt: '2021-04-17T09:25:18Z'
 date: '2019-11-25T02:46:22+00:00'

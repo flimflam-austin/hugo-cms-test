@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
-  - 18-12-3-this-weekend-in-mexico/
+  - /
 _createdAt: '2018-12-03T12:50:23Z'
 _updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-12-03T12:50:23+00:00'

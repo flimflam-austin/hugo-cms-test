@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4xuGr1
 type: quick_reads
 draft: false
 aliases:
-  - 3-developments-in-case-of-wuhan-coronavirus/
+  - /
 _createdAt: '2021-04-04T07:19:07Z'
 _updatedAt: '2021-04-04T07:21:51Z'
 date: '2020-01-31T10:35:00.000Z'

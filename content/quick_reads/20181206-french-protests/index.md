@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DK6Mg
 type: quick_reads
 draft: false
 aliases:
-  - french-protests/
+  - /
 _createdAt: '2018-12-06T02:53:47Z'
 _updatedAt: '2021-03-28T00:52:21Z'
 date: '2018-12-06T02:53:47+00:00'

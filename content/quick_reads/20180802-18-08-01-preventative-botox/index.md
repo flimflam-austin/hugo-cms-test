@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xWaZR
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-01-preventative-botox/
+  - /
 _createdAt: '2018-08-02T11:55:11Z'
 _updatedAt: '2021-03-26T19:22:23Z'
 date: '2018-08-02T11:55:11+00:00'

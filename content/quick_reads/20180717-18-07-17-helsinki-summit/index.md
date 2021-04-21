@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28d6B7
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-17-helsinki-summit/
+  - /
 _createdAt: '2018-07-17T11:05:23Z'
 _updatedAt: '2021-03-26T02:53:24Z'
 date: '2018-07-17T11:05:23+00:00'

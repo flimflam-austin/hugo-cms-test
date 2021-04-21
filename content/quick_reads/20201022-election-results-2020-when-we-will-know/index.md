@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4oboKR
 type: quick_reads
 draft: false
 aliases:
-  - election-results-2020-when-we-will-know/
+  - /
 _createdAt: '2021-04-01T18:26:48Z'
 _updatedAt: '2021-04-01T18:26:48Z'
 date: '2020-10-22T04:15:00.000Z'

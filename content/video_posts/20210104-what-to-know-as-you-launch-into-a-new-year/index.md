@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rSqx
 type: video_posts
 draft: false
 aliases:
-  - article/what-to-know-as-you-launch-into-a-new-year/
+  - /what-to-know-as-you-launch-into-a-new-year/
 _createdAt: '2021-01-04T05:29:13Z'
 _updatedAt: '2021-04-17T09:23:47Z'
 date: '2021-01-04T05:29:13+00:00'

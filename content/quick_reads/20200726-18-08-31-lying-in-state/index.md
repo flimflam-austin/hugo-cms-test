@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-31-lying-in-state/
+  - /
 _createdAt: '2018-08-31T11:50:37Z'
 _updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-08-31T11:50:37+00:00'

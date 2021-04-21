@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633lnko
 type: quick_quotes
 draft: false
 aliases:
-  - article/moderna_vaccine/
+  - /moderna_vaccine/
 _createdAt: '2020-11-17T01:03:05Z'
 _updatedAt: '2021-04-17T09:16:02Z'
 date: '2020-11-17T01:03:05+00:00'

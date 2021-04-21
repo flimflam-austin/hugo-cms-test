@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4kDFl
 type: quick_reads
 draft: false
 aliases:
-  - coronavirus-whats-next-vaccine-treatment/
+  - /
 _createdAt: '2021-04-04T05:57:23Z'
 _updatedAt: '2021-04-04T05:59:58Z'
 date: '2020-03-03T03:58:00.000Z'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrgsz6
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-14-president-school-schooting/
+  - /
 _createdAt: '2018-02-15T11:00:52Z'
 _updatedAt: '2021-03-25T21:42:59Z'
 date: '2018-02-15T11:00:52+00:00'

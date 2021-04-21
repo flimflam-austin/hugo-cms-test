@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/national-security-adviser-jake-sullivan-on-whether-iran-will-agree-to-meet-with-the-united-states-the-countries-have-no-diplomatic-relationship-at-this-time/
+    /national-security-adviser-jake-sullivan-on-whether-iran-will-agree-to-meet-with-the-united-states-the-countries-have-no-diplomatic-relationship-at-this-time/
 _createdAt: '2021-04-01T11:23:20Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-02-22T13:30:00.000Z'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK6bde7
 type: quick_reads
 draft: false
 aliases:
-  - pres-biden-primetime-address/
+  - /
 _createdAt: '2021-03-30T21:38:49Z'
 _updatedAt: '2021-03-30T21:38:49Z'
 date: '2021-03-12T11:04:00.000Z'

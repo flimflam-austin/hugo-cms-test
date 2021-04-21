@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532k81d
 type: quick_reads
 draft: false
 aliases:
-  - haaland-approval/
+  - /
 _createdAt: '2021-03-30T21:28:57Z'
 _updatedAt: '2021-03-30T21:28:57Z'
 date: '2021-03-16T23:49:00.000Z'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq284yWs
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-09-shooter-update-florida/
+  - /
 _createdAt: '2018-03-12T12:04:44Z'
 _updatedAt: '2021-03-25T22:18:34Z'
 date: '2018-03-12T12:04:44+00:00'

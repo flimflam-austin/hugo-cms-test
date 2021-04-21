@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2Ae2Rp
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-20-otd-walk-on-the-moon/
+  - /
 _createdAt: '2018-07-20T11:50:39Z'
 _updatedAt: '2021-03-26T17:31:20Z'
 date: '2018-07-20T11:50:39+00:00'

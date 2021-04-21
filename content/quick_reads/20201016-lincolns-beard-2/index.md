@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCrNCI
 type: quick_reads
 draft: false
 aliases:
-  - lincolns-beard-2/
+  - /
 _createdAt: '2021-04-01T18:41:05Z'
 _updatedAt: '2021-04-01T18:41:05Z'
 date: '2020-10-16T00:53:00.000Z'

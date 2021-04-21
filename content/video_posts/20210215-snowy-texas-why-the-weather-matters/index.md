@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rQtz
 type: video_posts
 draft: false
 aliases:
-  - article/snowy-texas-why-the-weather-matters/
+  - /snowy-texas-why-the-weather-matters/
 _createdAt: '2021-04-01T12:15:37Z'
 _updatedAt: '2021-04-17T09:23:03Z'
 date: '2021-02-15T23:04:00.000Z'

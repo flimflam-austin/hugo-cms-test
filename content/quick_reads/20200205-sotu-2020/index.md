@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEIuju
 type: quick_reads
 draft: false
 aliases:
-  - sotu-2020/
+  - /
 _createdAt: '2021-04-04T07:13:53Z'
 _updatedAt: '2021-04-04T07:13:53Z'
 date: '2020-02-05T03:52:00.000Z'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4ki5R
 type: quick_reads
 draft: false
 aliases:
-  - renee-zellweger-wins-academy-award/
+  - /
 _createdAt: '2021-04-04T06:26:30Z'
 _updatedAt: '2021-04-04T06:26:30Z'
 date: '2020-02-10T13:52:00.000Z'

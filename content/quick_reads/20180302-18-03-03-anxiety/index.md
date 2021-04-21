@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq281vJa
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-03-anxiety/
+  - /
 _createdAt: '2018-03-02T20:50:06Z'
 _updatedAt: '2021-03-25T22:06:36Z'
 date: '2018-03-02T20:50:06+00:00'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJuXA6b
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-20-women-paid-more/
+  - /
 _createdAt: '2018-07-20T11:58:02Z'
 _updatedAt: '2021-03-26T17:32:57Z'
 date: '2018-07-20T11:58:02+00:00'

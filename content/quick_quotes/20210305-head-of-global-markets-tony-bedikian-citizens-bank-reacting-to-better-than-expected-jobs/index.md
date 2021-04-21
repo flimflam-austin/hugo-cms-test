@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/head-of-global-markets-tony-bedikian-citizens-bank-reacting-to-better-than-expected-jobs-numbers-for-february/
+    /head-of-global-markets-tony-bedikian-citizens-bank-reacting-to-better-than-expected-jobs-numbers-for-february/
 _createdAt: '2021-04-01T02:09:39Z'
 _updatedAt: '2021-04-17T08:36:03Z'
 date: '2021-03-05T22:36:00.000Z'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28Qv54
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-07-dino-auction/
+  - /
 _createdAt: '2018-06-07T11:03:43Z'
 _updatedAt: '2021-03-26T01:09:02Z'
 date: '2018-06-07T11:03:43+00:00'

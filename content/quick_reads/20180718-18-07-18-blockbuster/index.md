@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28dD6x
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-18-blockbuster/
+  - /
 _createdAt: '2018-07-18T11:01:03Z'
 _updatedAt: '2021-03-26T02:54:19Z'
 date: '2018-07-18T11:01:03+00:00'

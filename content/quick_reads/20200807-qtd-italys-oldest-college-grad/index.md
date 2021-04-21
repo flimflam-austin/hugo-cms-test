@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDD5rrS
 type: quick_reads
 draft: false
 aliases:
-  - qtd-italys-oldest-college-grad/
+  - /
 _createdAt: '2021-04-02T04:07:45Z'
 _updatedAt: '2021-04-02T04:07:45Z'
 date: '2020-08-07T10:23:00.000Z'

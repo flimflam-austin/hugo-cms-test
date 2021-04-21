@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCnx1y
 type: quick_reads
 draft: false
 aliases:
-  - election-2020-safe-harbor/
+  - /
 _createdAt: '2021-04-01T17:00:41Z'
 _updatedAt: '2021-04-01T17:00:41Z'
 date: '2020-11-18T10:34:00.000Z'

@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4oHWid
 type: quick_reads
 draft: false
 aliases:
-  - election-2020-what-happens-next/
+  - /
 _createdAt: '2021-04-01T17:28:23Z'
 _updatedAt: '2021-04-01T17:28:23Z'
 date: '2020-11-10T03:11:00.000Z'

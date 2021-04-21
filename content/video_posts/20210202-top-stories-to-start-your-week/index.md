@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rV22
 type: video_posts
 draft: false
 aliases:
-  - article/top-stories-to-start-your-week/
+  - /top-stories-to-start-your-week/
 _createdAt: '2021-02-02T18:53:11Z'
 _updatedAt: '2021-04-17T09:24:23Z'
 date: '2021-02-02T18:53:11+00:00'

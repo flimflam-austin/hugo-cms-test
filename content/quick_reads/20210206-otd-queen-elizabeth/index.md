@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532xlWH
 type: quick_reads
 draft: false
 aliases:
-  - otd-queen-elizabeth/
+  - /
 _createdAt: '2021-03-31T00:48:26Z'
 _updatedAt: '2021-03-31T00:48:26Z'
 date: '2021-02-06T11:23:00.000Z'

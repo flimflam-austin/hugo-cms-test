@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/los-angeles-county-coroners-office-spokesman-capt-stacy-spell-on-los-angeles-reaching-300-homicides-so-far-in-2020-this-hasnt-happened-in-more-than-a-decade/
+    /los-angeles-county-coroners-office-spokesman-capt-stacy-spell-on-los-angeles-reaching-300-homicides-so-far-in-2020-this-hasnt-happened-in-more-than-a-decade/
 _createdAt: '2020-11-23T03:22:23Z'
 _updatedAt: '2021-04-17T09:14:46Z'
 date: '2020-11-23T03:22:23+00:00'

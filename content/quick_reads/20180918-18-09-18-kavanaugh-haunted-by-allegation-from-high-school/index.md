@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452ycyyj
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-18-kavanaugh-haunted-by-allegation-from-high-school/
+  - /
 _createdAt: '2018-09-18T11:52:58Z'
 _updatedAt: '2021-03-27T22:09:19Z'
 date: '2018-09-18T11:52:58+00:00'

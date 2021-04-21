@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532yef7
 type: quick_reads
 draft: false
 aliases:
-  - online-free-speech/
+  - /
 _createdAt: '2021-03-31T01:09:16Z'
 _updatedAt: '2021-03-31T01:09:16Z'
 date: '2021-01-28T23:13:00.000Z'

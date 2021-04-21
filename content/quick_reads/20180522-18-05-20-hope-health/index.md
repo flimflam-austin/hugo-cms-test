@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28MngT
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-20-hope-health/
+  - /
 _createdAt: '2018-05-22T11:30:15Z'
 _updatedAt: '2021-03-26T00:37:29Z'
 date: '2018-05-22T11:30:15+00:00'

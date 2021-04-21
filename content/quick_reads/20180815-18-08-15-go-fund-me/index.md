@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJuy6lJ
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-15-go-fund-me/
+  - /
 _createdAt: '2018-08-15T12:06:24Z'
 _updatedAt: '2021-03-26T19:58:47Z'
 date: '2018-08-15T12:06:24+00:00'

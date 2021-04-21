@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28WKqU
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-25-great-straw-debate/
+  - /
 _createdAt: '2018-06-26T11:16:43Z'
 _updatedAt: '2021-03-26T01:54:48Z'
 date: '2018-06-26T11:16:43+00:00'

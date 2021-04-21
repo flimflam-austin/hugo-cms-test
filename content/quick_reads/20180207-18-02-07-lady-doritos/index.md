@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrXB30
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-07-lady-doritos/
+  - /
 _createdAt: '2018-02-07T14:05:56Z'
 _updatedAt: '2021-03-25T20:49:41Z'
 date: '2018-02-07T14:05:56+00:00'

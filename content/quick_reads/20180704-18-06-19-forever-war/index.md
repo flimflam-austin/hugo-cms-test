@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28YEHI
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-19-forever-war/
+  - /
 _createdAt: '2018-07-05T02:47:27Z'
 _updatedAt: '2021-03-26T02:13:55Z'
 date: '2018-07-05T02:47:27+00:00'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsDjPC
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-22-trade-war/
+  - /
 _createdAt: '2018-06-22T11:15:13Z'
 _updatedAt: '2021-03-26T01:47:15Z'
 date: '2018-06-22T11:15:13+00:00'

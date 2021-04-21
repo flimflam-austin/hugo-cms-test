@@ -12,7 +12,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/rep-chip-roy-r-tx-questioning-republican-lawmakers-who-object-to-electoral-college-votes-in-six-states-for-pres-elect-joe-biden-given-their-choice-not-to-object-to-the-election-of-congress-members/
+    /rep-chip-roy-r-tx-questioning-republican-lawmakers-who-object-to-electoral-college-votes-in-six-states-for-pres-elect-joe-biden-given-their-choice-not-to-object-to-the-election-of-congress-members/
 _createdAt: '2021-01-05T19:09:23Z'
 _updatedAt: '2021-04-17T09:20:04Z'
 date: '2021-01-05T19:09:23+00:00'

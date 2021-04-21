@@ -8,7 +8,7 @@ _rev: Pxytp4DhfU5gNtP633m3Ye
 type: quick_quotes
 draft: false
 aliases:
-  - article/hurricane-iota/
+  - /hurricane-iota/
 _createdAt: '2020-11-17T21:44:08Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-11-17T21:44:08+00:00'

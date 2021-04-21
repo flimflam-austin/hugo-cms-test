@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-09-qtd-mike-pence/
+  - /
 _createdAt: '2018-08-09T16:02:04Z'
 _updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-09T16:02:04+00:00'

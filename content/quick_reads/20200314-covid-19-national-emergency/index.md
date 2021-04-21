@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4xhdvP
 type: quick_reads
 draft: false
 aliases:
-  - covid-19-national-emergency/
+  - /
 _createdAt: '2021-04-04T05:29:24Z'
 _updatedAt: '2021-04-04T05:29:24Z'
 date: '2020-03-14T10:18:00.000Z'

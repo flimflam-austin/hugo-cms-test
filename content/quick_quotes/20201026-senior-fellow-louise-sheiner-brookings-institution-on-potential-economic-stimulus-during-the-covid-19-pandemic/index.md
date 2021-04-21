@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/senior-fellow-louise-sheiner-brookings-institution-on-potential-economic-stimulus-during-the-covid-19-pandemic/
+    /senior-fellow-louise-sheiner-brookings-institution-on-potential-economic-stimulus-during-the-covid-19-pandemic/
 _createdAt: '2020-10-26T05:35:36Z'
 _updatedAt: '2021-04-17T09:19:24Z'
 date: '2020-10-26T05:35:36+00:00'

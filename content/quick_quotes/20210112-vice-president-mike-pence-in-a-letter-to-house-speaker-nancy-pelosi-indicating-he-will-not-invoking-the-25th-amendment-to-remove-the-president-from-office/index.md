@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/vice-president-mike-pence-in-a-letter-to-house-speaker-nancy-pelosi-indicating-he-will-not-invoking-the-25th-amendment-to-remove-the-president-from-office/
+    /vice-president-mike-pence-in-a-letter-to-house-speaker-nancy-pelosi-indicating-he-will-not-invoking-the-25th-amendment-to-remove-the-president-from-office/
 _createdAt: '2021-01-13T01:48:24Z'
 _updatedAt: '2021-04-17T09:17:38Z'
 date: '2021-01-13T01:48:24+00:00'

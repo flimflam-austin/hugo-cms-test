@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/white-house-chief-of-staff-mark-meadows-on-lawmakers-trying-to-compromise-on-a-potential-additional-economic-stimulus-bill/
+    /white-house-chief-of-staff-mark-meadows-on-lawmakers-trying-to-compromise-on-a-potential-additional-economic-stimulus-bill/
 _createdAt: '2020-07-30T11:35:23Z'
 _updatedAt: '2021-04-17T09:18:33Z'
 date: '2020-07-30T11:35:23+00:00'

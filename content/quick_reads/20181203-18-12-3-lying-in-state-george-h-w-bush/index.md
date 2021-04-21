@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452yk03B
 type: quick_reads
 draft: false
 aliases:
-  - 18-12-3-lying-in-state-george-h-w-bush/
+  - /
 _createdAt: '2018-12-03T13:04:27Z'
 _updatedAt: '2021-03-28T00:46:49Z'
 date: '2018-12-03T13:04:27+00:00'

@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDD5vLS
 type: quick_reads
 draft: false
 aliases:
-  - crime-in-cities-2020/
+  - /
 _createdAt: '2021-04-02T04:10:34Z'
 _updatedAt: '2021-04-02T04:10:49Z'
 date: '2020-08-05T10:52:00.000Z'

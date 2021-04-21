@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/passenger-david-delucia-on-a-united-airlines-flight-that-had-an-engine-failure-after-takeoff-united-grounded-its-fleet-of-boeing-777-planes-after-the-incident/
+    /passenger-david-delucia-on-a-united-airlines-flight-that-had-an-engine-failure-after-takeoff-united-grounded-its-fleet-of-boeing-777-planes-after-the-incident/
 _createdAt: '2021-04-01T09:47:45Z'
 _updatedAt: '2021-04-17T08:36:03Z'
 date: '2021-02-22T13:34:00.000Z'

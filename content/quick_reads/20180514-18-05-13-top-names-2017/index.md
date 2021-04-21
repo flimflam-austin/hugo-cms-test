@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28K8CY
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-13-top-names-2017/
+  - /
 _createdAt: '2018-05-14T11:10:05Z'
 _updatedAt: '2021-03-26T00:13:29Z'
 date: '2018-05-14T11:10:05+00:00'

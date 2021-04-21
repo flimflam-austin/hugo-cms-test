@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq282qai
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-06-tx-primary-elections/
+  - /
 _createdAt: '2018-03-06T12:43:55Z'
 _updatedAt: '2021-03-25T22:08:28Z'
 date: '2018-03-06T12:43:55+00:00'

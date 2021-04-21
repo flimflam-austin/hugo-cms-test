@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28LPLK
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-18-markle-quotes-friday/
+  - /
 _createdAt: '2018-05-18T15:30:50Z'
 _updatedAt: '2021-03-26T00:25:50Z'
 date: '2018-05-18T15:30:50+00:00'

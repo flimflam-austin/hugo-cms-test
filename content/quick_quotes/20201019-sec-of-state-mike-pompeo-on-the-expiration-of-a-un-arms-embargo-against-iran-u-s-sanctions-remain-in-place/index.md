@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/sec-of-state-mike-pompeo-on-the-expiration-of-a-un-arms-embargo-against-iran-u-s-sanctions-remain-in-place/
+    /sec-of-state-mike-pompeo-on-the-expiration-of-a-un-arms-embargo-against-iran-u-s-sanctions-remain-in-place/
 _createdAt: '2020-10-19T05:22:09Z'
 _updatedAt: '2021-04-17T09:17:21Z'
 date: '2020-10-19T05:22:09+00:00'

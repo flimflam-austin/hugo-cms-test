@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/govt-watchdog-on-the-fbis-investigation-into-russian-interference-in-2016-election/
+    /govt-watchdog-on-the-fbis-investigation-into-russian-interference-in-2016-election/
 _createdAt: '2019-12-10T02:24:34Z'
 _updatedAt: '2021-04-17T09:17:12Z'
 date: '2019-12-10T02:24:34+00:00'

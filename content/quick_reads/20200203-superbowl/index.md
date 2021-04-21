@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEJ3vi
 type: quick_reads
 draft: false
 aliases:
-  - superbowl/
+  - /
 _createdAt: '2021-04-04T07:18:24Z'
 _updatedAt: '2021-04-04T07:18:24Z'
 date: '2020-02-03T01:35:00.000Z'

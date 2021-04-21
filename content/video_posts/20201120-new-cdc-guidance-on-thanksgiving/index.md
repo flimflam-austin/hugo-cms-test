@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnXgj
 type: video_posts
 draft: false
 aliases:
-  - article/new-cdc-guidance-on-thanksgiving/
+  - /new-cdc-guidance-on-thanksgiving/
 _createdAt: '2020-11-20T03:49:43Z'
 _updatedAt: '2021-04-17T09:24:39Z'
 date: '2020-11-20T03:49:43+00:00'

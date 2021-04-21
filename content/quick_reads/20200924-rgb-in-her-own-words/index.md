@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2dmwT
 type: quick_reads
 draft: false
 aliases:
-  - rbg-in-her-own-words/
+  - /
 _createdAt: '2021-04-01T19:50:05Z'
 _updatedAt: '2021-04-01T19:50:05Z'
 date: '2020-09-24T01:21:00.000Z'

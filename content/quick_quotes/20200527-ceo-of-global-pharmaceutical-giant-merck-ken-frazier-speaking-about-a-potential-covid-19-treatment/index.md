@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/ceo-of-global-pharmaceutical-giant-merck-ken-frazier-speaking-about-a-potential-covid-19-treatment/
+    /ceo-of-global-pharmaceutical-giant-merck-ken-frazier-speaking-about-a-potential-covid-19-treatment/
 _createdAt: '2020-05-28T01:58:20Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2020-05-28T01:58:20+00:00'

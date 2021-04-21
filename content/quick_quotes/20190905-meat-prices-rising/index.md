@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTasCe
 type: quick_quotes
 draft: false
 aliases:
-  - article/meat-prices-rising/
+  - /meat-prices-rising/
 _createdAt: '2019-08-16T19:57:14Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2019-08-16T19:57:14+00:00'

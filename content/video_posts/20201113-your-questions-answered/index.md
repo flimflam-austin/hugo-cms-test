@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTggZs
 type: video_posts
 draft: false
 aliases:
-  - article/your-questions-answered/
+  - /your-questions-answered/
 _createdAt: '2020-11-13T23:57:14Z'
 _updatedAt: '2021-04-17T09:25:09Z'
 date: '2020-11-13T23:57:14+00:00'

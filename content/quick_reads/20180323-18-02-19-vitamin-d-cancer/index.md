@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-19-vitamin-d-cancer/
+  - /
 _createdAt: '2018-03-20T13:00:25Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-20T13:00:25+00:00'

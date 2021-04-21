@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxlMK5
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-21-miracle-on-market/
+  - /
 _createdAt: '2018-09-21T13:29:25Z'
 _updatedAt: '2021-03-27T22:24:37Z'
 date: '2018-09-21T13:29:25+00:00'

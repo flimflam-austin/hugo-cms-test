@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4533sNgj
 type: quick_reads
 draft: false
 aliases:
-  - rent-turns-25/
+  - /
 _createdAt: '2021-03-31T16:33:34Z'
 _updatedAt: '2021-03-31T16:33:34Z'
 date: '2021-01-26T05:13:00.000Z'

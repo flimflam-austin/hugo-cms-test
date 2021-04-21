@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rTtT
 type: video_posts
 draft: false
 aliases:
-  - article/why-do-we-even-have-an-inauguration/
+  - /why-do-we-even-have-an-inauguration/
 _createdAt: '2021-01-20T05:48:19Z'
 _updatedAt: '2021-04-17T09:24:07Z'
 date: '2021-01-20T05:48:19+00:00'

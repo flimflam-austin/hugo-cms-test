@@ -11,7 +11,7 @@ _rev: Pxytp4DhfU5gNtP633ldjq
 type: quick_quotes
 draft: false
 aliases:
-  - article/sicknick-lie-in-honor-2021/
+  - /sicknick-lie-in-honor-2021/
 _createdAt: '2021-04-01T11:49:55Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-02-04T00:50:00.000Z'

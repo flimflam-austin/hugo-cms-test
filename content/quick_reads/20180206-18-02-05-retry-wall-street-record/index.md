@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq27pDG9
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-05-retry-wall-street-record/
+  - /
 _createdAt: '2018-02-06T03:44:43Z'
 _updatedAt: '2021-03-25T20:47:17Z'
 date: '2018-02-06T03:44:43+00:00'

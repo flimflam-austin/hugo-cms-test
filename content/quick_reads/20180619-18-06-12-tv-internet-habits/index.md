@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28U2Ox
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-12-tv-internet-habits/
+  - /
 _createdAt: '2018-06-20T09:00:29Z'
 _updatedAt: '2021-03-26T01:41:44Z'
 date: '2018-06-20T09:00:29+00:00'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wZeIn
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-23-top-things-learned-at-ellis-island/
+  - /
 _createdAt: '2018-06-23T02:58:03Z'
 _updatedAt: '2021-03-26T01:48:42Z'
 date: '2018-06-23T02:58:03+00:00'

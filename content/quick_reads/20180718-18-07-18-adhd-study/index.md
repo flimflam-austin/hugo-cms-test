@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJuWL1l
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-18-adhd-study/
+  - /
 _createdAt: '2018-07-18T12:02:39Z'
 _updatedAt: '2021-03-26T17:27:22Z'
 date: '2018-07-18T12:02:39+00:00'

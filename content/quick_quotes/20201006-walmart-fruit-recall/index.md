@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7Hcr14
 type: quick_quotes
 draft: false
 aliases:
-  - article/walmart-fruit-recall/
+  - /walmart-fruit-recall/
 _createdAt: '2020-10-07T03:27:11Z'
 _updatedAt: '2021-04-17T09:16:33Z'
 date: '2020-10-07T03:27:11+00:00'

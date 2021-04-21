@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEJPQ6
 type: quick_reads
 draft: false
 aliases:
-  - impeachment-latest/
+  - /
 _createdAt: '2021-04-04T07:37:53Z'
 _updatedAt: '2021-04-04T07:39:56Z'
 date: '2020-01-16T11:54:00.000Z'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK79Hwa
 type: quick_reads
 draft: false
 aliases:
-  - can-schools-open-safely/
+  - /
 _createdAt: '2021-03-31T01:12:13Z'
 _updatedAt: '2021-03-31T01:12:13Z'
 date: '2021-01-28T01:21:00.000Z'

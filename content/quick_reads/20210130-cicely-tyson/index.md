@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK78jcN
 type: quick_reads
 draft: false
 aliases:
-  - cicely-tyson/
+  - /
 _createdAt: '2021-03-31T01:06:19Z'
 _updatedAt: '2021-03-31T01:06:19Z'
 date: '2021-01-30T05:47:00.000Z'

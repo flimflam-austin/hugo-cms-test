@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCrHZ8
 type: quick_reads
 draft: false
 aliases:
-  - brain-fog/
+  - /
 _createdAt: '2021-04-01T18:37:36Z'
 _updatedAt: '2021-04-01T18:37:36Z'
 date: '2020-10-20T20:16:00.000Z'

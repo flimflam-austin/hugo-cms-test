@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4iTPid
 type: quick_reads
 draft: false
 aliases:
-  - new-years-resolutions/
+  - /
 _createdAt: '2021-03-31T17:56:13Z'
 _updatedAt: '2021-03-31T17:56:13Z'
 date: '2020-12-30T02:37:00.000Z'

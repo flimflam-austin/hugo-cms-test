@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4oO4p5
 type: quick_reads
 draft: false
 aliases:
-  - i-voted/
+  - /
 _createdAt: '2021-04-01T17:48:38Z'
 _updatedAt: '2021-04-01T17:48:38Z'
 date: '2020-11-04T02:13:00.000Z'

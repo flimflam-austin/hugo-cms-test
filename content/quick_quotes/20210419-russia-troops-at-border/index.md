@@ -7,7 +7,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    https://www.smarthernews.com/article/eu-foreign-policy-chief-josep-borrell-on-the-highest-military-deployment-of-russian-army-on-the-ukrianiain-borders-ever-estimating-150000-russian-troops-and-raising-concerns-a-spark-could-l/
+    /article/eu-foreign-policy-chief-josep-borrell-on-the-highest-military-deployment-of-russian-army-on-the-ukrianiain-borders-ever-estimating-150000-russian-troops-and-raising-concerns-a-spark-could-l/
 _createdAt: '2021-04-21T15:11:10Z'
 _updatedAt: '2021-04-21T17:15:08Z'
 date: '2021-04-19T15:30:00.000Z'

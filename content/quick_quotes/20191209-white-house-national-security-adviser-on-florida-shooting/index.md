@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd9mM
 type: quick_quotes
 draft: false
 aliases:
-  - article/white-house-national-security-adviser-on-florida-shooting/
+  - /white-house-national-security-adviser-on-florida-shooting/
 _createdAt: '2019-12-09T04:32:46Z'
 _updatedAt: '2021-04-17T09:19:54Z'
 date: '2019-12-09T04:32:46+00:00'

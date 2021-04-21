@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/navy-capt-mike-kafka-of-the-u-s-indo-pacific-command-on-the-two-ballistic-missiles-north-korea-fired-into-the-sea-of-japan-wednesday-evening/
+    /navy-capt-mike-kafka-of-the-u-s-indo-pacific-command-on-the-two-ballistic-missiles-north-korea-fired-into-the-sea-of-japan-wednesday-evening/
 _createdAt: '2021-04-01T01:26:17Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-26T01:06:00.000Z'

@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnVZG
 type: video_posts
 draft: false
 aliases:
-  - article/3-things-to-know-in-5-and-under/
+  - /3-things-to-know-in-5-and-under/
 _createdAt: '2019-10-13T23:59:03Z'
 _updatedAt: '2021-04-17T09:24:20Z'
 date: '2019-10-13T23:59:03+00:00'

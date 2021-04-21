@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJs3mUD
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-18-prince-harry/
+  - /
 _createdAt: '2018-05-18T10:00:18Z'
 _updatedAt: '2021-03-26T00:23:41Z'
 date: '2018-05-18T10:00:18+00:00'

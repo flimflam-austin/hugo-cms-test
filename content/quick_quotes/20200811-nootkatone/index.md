@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTaoYC
 type: quick_quotes
 draft: false
 aliases:
-  - article/nootkatone/
+  - /nootkatone/
 _createdAt: '2020-08-10T22:08:20Z'
 _updatedAt: '2021-04-17T09:20:25Z'
 date: '2020-08-10T22:08:20+00:00'

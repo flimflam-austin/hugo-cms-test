@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HdL5W
 type: quick_quotes
 draft: false
 aliases:
-  - article/cisa-election-secure/
+  - /cisa-election-secure/
 _createdAt: '2020-11-13T17:40:05Z'
 _updatedAt: '2021-04-17T09:21:54Z'
 date: '2020-11-13T17:40:05+00:00'

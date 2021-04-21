@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTggW0
 type: video_posts
 draft: false
 aliases:
-  - article/jobs/
+  - /jobs/
 _createdAt: '2020-06-05T16:20:05Z'
 _updatedAt: '2021-04-17T09:25:05Z'
 date: '2020-06-05T16:20:05+00:00'

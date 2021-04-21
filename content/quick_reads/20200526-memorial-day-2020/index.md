@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDUcBi
 type: quick_reads
 draft: false
 aliases:
-  - memorial-day-2020/
+  - /
 _createdAt: '2021-04-02T18:48:55Z'
 _updatedAt: '2021-04-02T18:48:55Z'
 date: '2020-05-26T00:22:00.000Z'

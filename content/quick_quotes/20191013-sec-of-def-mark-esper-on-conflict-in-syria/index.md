@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633m5Xd
 type: quick_quotes
 draft: false
 aliases:
-  - article/sec-of-def-mark-esper-on-conflict-in-syria/
+  - /sec-of-def-mark-esper-on-conflict-in-syria/
 _createdAt: '2019-10-13T23:32:03Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2019-10-13T23:32:03+00:00'

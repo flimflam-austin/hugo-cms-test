@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxYZr3
 type: quick_reads
 draft: false
 aliases:
-  - smarthernews-quick-quotes-for-tuesday-august-28/
+  - /
 _createdAt: '2018-08-28T12:01:12Z'
 _updatedAt: '2021-03-27T20:44:46Z'
 date: '2018-08-28T12:01:12+00:00'

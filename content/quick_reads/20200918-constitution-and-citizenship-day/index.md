@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCyFyg
 type: quick_reads
 draft: false
 aliases:
-  - constitution-and-citizenship-day/
+  - /
 _createdAt: '2021-04-01T22:32:58Z'
 _updatedAt: '2021-04-01T22:32:58Z'
 date: '2020-09-18T01:28:00.000Z'

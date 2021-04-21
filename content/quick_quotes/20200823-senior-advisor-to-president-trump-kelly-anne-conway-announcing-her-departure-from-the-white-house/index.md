@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/senior-advisor-to-president-trump-kelly-anne-conway-announcing-her-departure-from-the-white-house/
+    /senior-advisor-to-president-trump-kelly-anne-conway-announcing-her-departure-from-the-white-house/
 _createdAt: '2020-08-24T02:38:03Z'
 _updatedAt: '2021-04-17T09:20:49Z'
 date: '2020-08-24T02:38:03+00:00'

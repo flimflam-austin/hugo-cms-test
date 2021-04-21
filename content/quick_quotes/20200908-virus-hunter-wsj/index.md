@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633lldl
 type: quick_quotes
 draft: false
 aliases:
-  - article/virus-hunter-wsj/
+  - /virus-hunter-wsj/
 _createdAt: '2020-09-08T11:28:46Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-09-08T11:28:46+00:00'

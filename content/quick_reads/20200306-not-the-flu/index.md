@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4xlFMN
 type: quick_reads
 draft: false
 aliases:
-  - not-the-flu/
+  - /
 _createdAt: '2021-04-04T05:52:06Z'
 _updatedAt: '2021-04-04T05:52:06Z'
 date: '2020-03-06T03:28:00.000Z'

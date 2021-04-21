@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTaqnY
 type: quick_quotes
 draft: false
 aliases:
-  - article/dr-megan-ranney-brown-warning/
+  - /dr-megan-ranney-brown-warning/
 _createdAt: '2020-10-26T02:37:11Z'
 _updatedAt: '2021-04-17T09:21:08Z'
 date: '2020-10-26T02:37:11+00:00'

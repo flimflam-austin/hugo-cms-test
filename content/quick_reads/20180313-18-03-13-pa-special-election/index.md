@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq285KEb
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-13-pa-special-election/
+  - /
 _createdAt: '2018-03-13T11:05:08Z'
 _updatedAt: '2021-03-25T22:20:28Z'
 date: '2018-03-13T11:05:08+00:00'

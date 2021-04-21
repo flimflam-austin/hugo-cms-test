@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2D481s
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-06-qq/
+  - /
 _createdAt: '2018-09-06T11:57:02Z'
 _updatedAt: '2021-03-27T21:31:45Z'
 date: '2018-09-06T11:57:02+00:00'

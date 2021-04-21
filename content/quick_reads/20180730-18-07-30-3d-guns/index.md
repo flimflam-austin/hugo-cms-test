@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xRXLZ
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-30-3d-guns/
+  - /
 _createdAt: '2018-07-30T11:52:23Z'
 _updatedAt: '2021-03-26T17:48:12Z'
 date: '2018-07-30T11:52:23+00:00'

@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-26-excerpt-memorial-day/
+  - /
 _createdAt: '2018-05-26T14:46:54Z'
 _updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-26T14:46:54+00:00'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2rW1N
 type: quick_reads
 draft: false
 aliases:
-  - cdc-daycares-and-covid/
+  - /
 _createdAt: '2021-04-02T00:39:18Z'
 _updatedAt: '2021-04-02T00:39:18Z'
 date: '2020-08-25T00:30:00.000Z'

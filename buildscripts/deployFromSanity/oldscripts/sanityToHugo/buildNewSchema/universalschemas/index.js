@@ -73,8 +73,6 @@ const getSlug = slug => slug.replace('article', '')
 
 const getUniversalFields = data => {
     try {
-
-
         const universalFields = [
             sh.getFlatPair('title', data.title),
             sh.getFlatPair(
@@ -87,7 +85,7 @@ const getUniversalFields = data => {
             sh.getFlatPair('_rev', data._rev),
             sh.getFlatPair('type', data._type, null, translateTypeName),
             sh.getFlatPair('draft', data._id, null, isDraft),
-            sh.getArrayPair('aliases', data.aliases, null, removeRootFromAlias),
+            sh.getArrayPair('aliases', data.aliases, removeRootFromAlias),
             sh.getFlatPair('_createdAt', data._createdAt),
             sh.getFlatPair('_updatedAt', data._updatedAt),
             sh.getFlatPair('date', data.datePublished, data._createdAt),

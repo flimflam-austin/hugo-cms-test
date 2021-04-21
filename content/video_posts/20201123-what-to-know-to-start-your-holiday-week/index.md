@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgbEu
 type: video_posts
 draft: false
 aliases:
-  - article/what-to-know-to-start-your-holiday-week/
+  - /what-to-know-to-start-your-holiday-week/
 _createdAt: '2020-11-23T18:51:51Z'
 _updatedAt: '2021-04-17T09:23:40Z'
 date: '2020-11-23T18:51:51+00:00'

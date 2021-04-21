@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEHkha
 type: quick_reads
 draft: false
 aliases:
-  - the-new-new-coronavirus/
+  - /
 _createdAt: '2021-04-04T06:19:20Z'
 _updatedAt: '2021-04-04T06:19:20Z'
 date: '2020-02-19T00:04:00.000Z'

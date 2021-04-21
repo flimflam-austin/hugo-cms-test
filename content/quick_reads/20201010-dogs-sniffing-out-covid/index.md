@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4oiyAx
 type: quick_reads
 draft: false
 aliases:
-  - dogs-sniffing-out-covid/
+  - /
 _createdAt: '2021-04-01T18:49:08Z'
 _updatedAt: '2021-04-01T18:49:08Z'
 date: '2020-10-10T02:29:00.000Z'

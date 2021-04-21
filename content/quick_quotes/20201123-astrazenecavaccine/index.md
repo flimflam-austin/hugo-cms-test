@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTapKa
 type: quick_quotes
 draft: false
 aliases:
-  - article/astrazeneca_vaccine/
+  - /astrazeneca_vaccine/
 _createdAt: '2020-11-23T19:08:11Z'
 _updatedAt: '2021-04-17T09:20:38Z'
 date: '2020-11-23T19:08:11+00:00'

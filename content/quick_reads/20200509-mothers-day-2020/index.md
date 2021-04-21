@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4tK3Sh
 type: quick_reads
 draft: false
 aliases:
-  - mothers-day-2020/
+  - /
 _createdAt: '2021-04-02T19:13:15Z'
 _updatedAt: '2021-04-02T19:13:15Z'
 date: '2020-05-09T04:09:00.000Z'

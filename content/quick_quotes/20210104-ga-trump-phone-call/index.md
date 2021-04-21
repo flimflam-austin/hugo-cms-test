@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTavhQ
 type: quick_quotes
 draft: false
 aliases:
-  - article/ga-trump-phone-call/
+  - /ga-trump-phone-call/
 _createdAt: '2021-01-04T05:49:52Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2021-01-04T05:49:52+00:00'

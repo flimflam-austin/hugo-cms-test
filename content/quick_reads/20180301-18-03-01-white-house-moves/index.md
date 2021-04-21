@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-01-white-house-moves/
+  - /
 _createdAt: '2018-03-01T13:00:44Z'
 _updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-01T13:00:44+00:00'

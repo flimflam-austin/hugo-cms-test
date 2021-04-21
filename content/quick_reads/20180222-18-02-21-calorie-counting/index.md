@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-21-calorie-counting/
+  - /
 _createdAt: '2018-02-22T12:00:09Z'
 _updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-22T12:00:09+00:00'

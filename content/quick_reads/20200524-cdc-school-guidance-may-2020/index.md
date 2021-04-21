@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDUlxu
 type: quick_reads
 draft: false
 aliases:
-  - cdc-school-guidance-may-2020/
+  - /
 _createdAt: '2021-04-02T18:55:02Z'
 _updatedAt: '2021-04-02T18:55:02Z'
 date: '2020-05-24T02:50:00.000Z'

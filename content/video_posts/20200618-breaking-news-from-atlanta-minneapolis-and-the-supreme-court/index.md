@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgerQ
 type: video_posts
 draft: false
 aliases:
-  - article/breaking-news-from-atlanta-minneapolis-and-the-supreme-court/
+  - /breaking-news-from-atlanta-minneapolis-and-the-supreme-court/
 _createdAt: '2020-06-18T16:05:16Z'
 _updatedAt: '2021-04-17T09:24:38Z'
 date: '2020-06-18T16:05:16+00:00'

@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTaTM0
 type: quick_quotes
 draft: false
 aliases:
-  - article/ellume/
+  - /ellume/
 _createdAt: '2020-12-15T21:18:59Z'
 _updatedAt: '2021-04-17T09:14:35Z'
 date: '2020-12-15T21:18:59+00:00'

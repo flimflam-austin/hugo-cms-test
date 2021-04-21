@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxv9p5
 type: quick_reads
 draft: false
 aliases:
-  - quick-quotes-for-your-weekend-reading/
+  - /
 _createdAt: '2018-09-29T03:18:03Z'
 _updatedAt: '2021-03-28T00:09:22Z'
 date: '2018-09-29T03:18:03+00:00'

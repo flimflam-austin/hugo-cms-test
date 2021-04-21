@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrjaVO
 type: quick_reads
 draft: false
 aliases:
-  - dem-russia-memo/
+  - /
 _createdAt: '2018-02-26T12:59:44Z'
 _updatedAt: '2021-03-25T21:56:49Z'
 date: '2018-02-26T12:59:44+00:00'

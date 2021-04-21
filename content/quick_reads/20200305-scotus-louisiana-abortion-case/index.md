@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4xlPYF
 type: quick_reads
 draft: false
 aliases:
-  - scotus-louisiana-abortion-case/
+  - /
 _createdAt: '2021-04-04T05:54:37Z'
 _updatedAt: '2021-04-04T05:54:37Z'
 date: '2020-03-05T01:58:00.000Z'

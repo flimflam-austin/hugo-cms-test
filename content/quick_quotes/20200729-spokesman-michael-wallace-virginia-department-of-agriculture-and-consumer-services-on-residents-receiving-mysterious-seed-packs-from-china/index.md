@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/spokesman-michael-wallace-virginia-department-of-agriculture-and-consumer-services-on-residents-receiving-mysterious-seed-packs-from-china/
+    /spokesman-michael-wallace-virginia-department-of-agriculture-and-consumer-services-on-residents-receiving-mysterious-seed-packs-from-china/
 _createdAt: '2020-07-29T11:29:51Z'
 _updatedAt: '2021-04-17T09:16:39Z'
 date: '2020-07-29T11:29:51+00:00'

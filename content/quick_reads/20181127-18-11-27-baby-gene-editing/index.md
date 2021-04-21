@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452yj33t
 type: quick_reads
 draft: false
 aliases:
-  - 18-11-27-baby-gene-editing/
+  - /
 _createdAt: '2018-11-27T20:00:22Z'
 _updatedAt: '2021-03-28T00:34:07Z'
 date: '2018-11-27T20:00:22+00:00'

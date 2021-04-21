@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452waWJx
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-02-one-minute-with-maccutting-boards/
+  - /
 _createdAt: '2018-07-03T11:23:42Z'
 _updatedAt: '2021-03-26T02:11:17Z'
 date: '2018-07-03T11:23:42+00:00'

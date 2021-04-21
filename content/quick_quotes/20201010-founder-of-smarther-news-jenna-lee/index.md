@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633lqA0
 type: quick_quotes
 draft: false
 aliases:
-  - article/founder-of-smarther-news-jenna-lee/
+  - /founder-of-smarther-news-jenna-lee/
 _createdAt: '2020-10-04T02:25:04Z'
 _updatedAt: '2021-04-17T09:16:51Z'
 date: '2020-10-04T02:25:04+00:00'

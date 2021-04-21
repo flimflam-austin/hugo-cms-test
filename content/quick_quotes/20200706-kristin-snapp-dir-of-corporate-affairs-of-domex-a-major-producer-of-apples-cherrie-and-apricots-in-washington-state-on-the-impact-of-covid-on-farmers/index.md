@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/kristin-snapp-dir-of-corporate-affairs-of-domex-a-major-producer-of-apples-cherrie-and-apricots-in-washington-state-on-the-impact-of-covid-on-farmers/
+    /kristin-snapp-dir-of-corporate-affairs-of-domex-a-major-producer-of-apples-cherrie-and-apricots-in-washington-state-on-the-impact-of-covid-on-farmers/
 _createdAt: '2020-07-06T11:31:41Z'
 _updatedAt: '2021-04-17T09:20:10Z'
 date: '2020-07-06T11:31:41+00:00'

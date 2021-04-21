@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnThj
 type: video_posts
 draft: false
 aliases:
-  - article/one-fathers-fight-to-make-american-schools-safer/
+  - /one-fathers-fight-to-make-american-schools-safer/
 _createdAt: '2019-11-25T02:24:23Z'
 _updatedAt: '2021-04-17T09:24:01Z'
 date: '2019-11-25T02:24:23+00:00'

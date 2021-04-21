@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTag1o
 type: quick_quotes
 draft: false
 aliases:
-  - article/uk-covid-strain-five-states/
+  - /uk-covid-strain-five-states/
 _createdAt: '2021-01-06T05:29:34Z'
 _updatedAt: '2021-04-17T09:18:13Z'
 date: '2021-01-06T05:29:34+00:00'

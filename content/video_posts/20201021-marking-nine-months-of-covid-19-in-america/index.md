@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rYTk
 type: video_posts
 draft: false
 aliases:
-  - article/marking-nine-months-of-covid-19-in-america/
+  - /marking-nine-months-of-covid-19-in-america/
 _createdAt: '2020-10-21T10:43:08Z'
 _updatedAt: '2021-04-17T09:25:26Z'
 date: '2020-10-21T10:43:08+00:00'

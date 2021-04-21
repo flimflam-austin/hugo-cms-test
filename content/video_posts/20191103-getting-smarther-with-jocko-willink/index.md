@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTggCe
 type: video_posts
 draft: false
 aliases:
-  - article/getting-smarther-with-jocko-willink/
+  - /getting-smarther-with-jocko-willink/
 _createdAt: '2019-11-04T03:58:34Z'
 _updatedAt: '2021-04-17T09:25:00Z'
 date: '2019-11-04T03:58:34+00:00'

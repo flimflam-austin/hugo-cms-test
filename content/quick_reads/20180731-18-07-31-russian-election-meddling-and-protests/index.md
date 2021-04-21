@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2AtoW9
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-31-russian-election-meddling-and-protests/
+  - /
 _createdAt: '2018-07-31T11:28:40Z'
 _updatedAt: '2021-03-26T19:17:41Z'
 date: '2018-07-31T11:28:40+00:00'

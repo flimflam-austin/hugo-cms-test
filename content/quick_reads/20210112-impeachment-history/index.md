@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2NxVcr
 type: quick_reads
 draft: false
 aliases:
-  - impeachment-history/
+  - /
 _createdAt: '2021-03-31T16:44:55Z'
 _updatedAt: '2021-03-31T17:36:31Z'
 date: '2021-01-12T22:37:00.000Z'

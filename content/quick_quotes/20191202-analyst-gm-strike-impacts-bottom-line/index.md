@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HchBX
 type: quick_quotes
 draft: false
 aliases:
-  - article/analyst-gm-strike-impacts-bottom-line/
+  - /analyst-gm-strike-impacts-bottom-line/
 _createdAt: '2019-10-29T20:18:53Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2019-10-29T20:18:53+00:00'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4k0wz
 type: quick_reads
 draft: false
 aliases:
-  - girl-watch-your-face-touching/
+  - /
 _createdAt: '2021-04-04T05:48:41Z'
 _updatedAt: '2021-04-04T05:48:41Z'
 date: '2020-03-06T22:47:00.000Z'

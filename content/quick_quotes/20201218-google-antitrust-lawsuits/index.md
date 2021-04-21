@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7Hcscf
 type: quick_quotes
 draft: false
 aliases:
-  - article/google-antitrust-lawsuits/
+  - /google-antitrust-lawsuits/
 _createdAt: '2020-12-18T03:05:12Z'
 _updatedAt: '2021-04-17T09:16:47Z'
 date: '2020-12-18T03:05:12+00:00'

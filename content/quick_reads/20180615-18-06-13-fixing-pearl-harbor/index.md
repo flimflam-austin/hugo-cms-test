@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28TLZs
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-13-fixing-pearl-harbor/
+  - /
 _createdAt: '2018-06-15T10:27:21Z'
 _updatedAt: '2021-03-26T01:34:12Z'
 date: '2018-06-15T10:27:21+00:00'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452yZ08T
 type: quick_reads
 draft: false
 aliases:
-  - so-long-sororities/
+  - /
 _createdAt: '2018-08-29T11:43:43Z'
 _updatedAt: '2021-03-27T20:53:04Z'
 date: '2018-08-29T11:43:43+00:00'

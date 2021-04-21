@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7Hck0p
 type: quick_quotes
 draft: false
 aliases:
-  - article/kanye-west-announcing-hes-running-for-president/
+  - /kanye-west-announcing-hes-running-for-president/
 _createdAt: '2020-07-05T20:54:54Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-07-05T20:54:54+00:00'

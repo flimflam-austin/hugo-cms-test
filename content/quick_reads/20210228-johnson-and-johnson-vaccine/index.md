@@ -6,7 +6,7 @@ _rev: 0KehTab4xF35vphMXgziyP
 type: quick_reads
 draft: false
 aliases:
-  - johnson-and-johnson-vaccine/
+  - /
 _createdAt: '2021-03-30T23:29:48Z'
 _updatedAt: '2021-03-30T23:29:48Z'
 date: '2021-02-28T11:51:00.000Z'

@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/california-wildfires-highlight-how-unreliable-cellphones-are-during-emergencies/
+    /california-wildfires-highlight-how-unreliable-cellphones-are-during-emergencies/
 _createdAt: '2019-10-30T03:04:41Z'
 _updatedAt: '2021-04-17T09:22:36Z'
 date: '2019-10-30T03:04:41+00:00'

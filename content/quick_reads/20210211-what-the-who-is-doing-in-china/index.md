@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532w8NJ
 type: quick_reads
 draft: false
 aliases:
-  - what-the-who-is-doing-in-china/
+  - /
 _createdAt: '2021-03-31T00:26:27Z'
 _updatedAt: '2021-03-31T00:26:27Z'
 date: '2021-02-11T00:24:00.000Z'

@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7HceIG
 type: quick_quotes
 draft: false
 aliases:
-  - article/texas-reopens/
+  - /texas-reopens/
 _createdAt: '2021-04-01T02:16:46Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-03T06:54:00.000Z'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2LTBlg
 type: quick_reads
 draft: false
 aliases:
-  - sarah-thomas-nfl/
+  - /
 _createdAt: '2021-03-31T00:45:51Z'
 _updatedAt: '2021-03-31T00:45:51Z'
 date: '2021-02-08T05:29:00.000Z'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wIglx
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-01-superbowl-ads/
+  - /
 _createdAt: '2018-02-02T10:55:19Z'
 _updatedAt: '2021-03-25T20:43:36Z'
 date: '2018-02-02T10:55:19+00:00'

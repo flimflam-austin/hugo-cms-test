@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrU828
 type: quick_reads
 draft: false
 aliases:
-  - 18-01-31-founder/
+  - /
 _createdAt: '2018-01-31T15:10:41Z'
 _updatedAt: '2021-03-25T20:37:06Z'
 date: '2018-01-31T15:10:41+00:00'

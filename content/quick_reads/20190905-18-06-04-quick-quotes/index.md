@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-04-quick-quotes/
+  - /
 _createdAt: '2018-06-04T10:44:47Z'
 _updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-06-04T10:44:47+00:00'

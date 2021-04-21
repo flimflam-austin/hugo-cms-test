@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
-  - 19-02-11-border-wall/
+  - /
 _createdAt: '2019-02-11T13:42:29Z'
 _updatedAt: '2021-03-22T13:11:14Z'
 date: '2019-02-11T13:42:29+00:00'

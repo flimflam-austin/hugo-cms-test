@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq27i71O
 type: quick_reads
 draft: false
 aliases:
-  - 19-02-11-should-you-have-the-right-not-to-vaccinate/
+  - /
 _createdAt: '2019-02-11T15:11:22Z'
 _updatedAt: '2021-03-25T20:10:07Z'
 date: '2019-02-11T15:11:22+00:00'

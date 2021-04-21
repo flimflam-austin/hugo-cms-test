@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsBR6j
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-14-fed-moves/
+  - /
 _createdAt: '2018-06-14T10:32:15Z'
 _updatedAt: '2021-03-26T01:32:50Z'
 date: '2018-06-14T10:32:15+00:00'

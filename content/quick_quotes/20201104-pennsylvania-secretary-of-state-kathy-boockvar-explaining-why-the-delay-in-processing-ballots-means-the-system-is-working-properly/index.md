@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/pennsylvania-secretary-of-state-kathy-boockvar-explaining-why-the-delay-in-processing-ballots-means-the-system-is-working-properly/
+    /pennsylvania-secretary-of-state-kathy-boockvar-explaining-why-the-delay-in-processing-ballots-means-the-system-is-working-properly/
 _createdAt: '2020-11-04T17:26:51Z'
 _updatedAt: '2021-04-17T09:18:39Z'
 date: '2020-11-04T17:26:51+00:00'

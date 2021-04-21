@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4th655
 type: quick_reads
 draft: false
 aliases:
-  - bill-fisher-er-doctor/
+  - /
 _createdAt: '2021-04-02T21:13:40Z'
 _updatedAt: '2021-04-02T21:13:40Z'
 date: '2020-04-03T04:53:00.000Z'

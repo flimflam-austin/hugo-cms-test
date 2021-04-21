@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-16-protests-around-the-world/
+  - /
 _createdAt: '2018-07-16T04:27:11Z'
 _updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-16T04:27:11+00:00'

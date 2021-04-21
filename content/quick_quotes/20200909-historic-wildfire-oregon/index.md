@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HdOAk
 type: quick_quotes
 draft: false
 aliases:
-  - article/historic-wildfire-oregon/
+  - /historic-wildfire-oregon/
 _createdAt: '2020-09-09T21:59:53Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-09-09T21:59:53+00:00'

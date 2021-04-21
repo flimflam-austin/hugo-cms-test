@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r35nTR
 type: quick_reads
 draft: false
 aliases:
-  - scotus-la-abortion/
+  - /
 _createdAt: '2021-04-02T07:26:47Z'
 _updatedAt: '2021-04-02T07:26:47Z'
 date: '2020-06-30T09:33:00.000Z'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJuzrcR
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-21-all-about-the-bubbles-baby/
+  - /
 _createdAt: '2018-08-21T11:59:29Z'
 _updatedAt: '2021-03-26T20:11:15Z'
 date: '2018-08-21T11:59:29+00:00'

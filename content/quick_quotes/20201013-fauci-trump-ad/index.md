@@ -8,7 +8,7 @@ _rev: Pxytp4DhfU5gNtP633m19S
 type: quick_quotes
 draft: false
 aliases:
-  - article/fauci-trump-ad/
+  - /fauci-trump-ad/
 _createdAt: '2020-10-13T19:39:55Z'
 _updatedAt: '2021-04-17T09:20:40Z'
 date: '2020-10-13T19:39:55+00:00'

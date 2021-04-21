@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2D6O4c
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-14-how-good-is-hurricane-technology/
+  - /
 _createdAt: '2018-09-14T12:18:11Z'
 _updatedAt: '2021-03-27T21:50:12Z'
 date: '2018-09-14T12:18:11+00:00'

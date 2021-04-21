@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2NuNlu
 type: quick_reads
 draft: false
 aliases:
-  - ebenezer-church/
+  - /
 _createdAt: '2021-03-31T17:12:22Z'
 _updatedAt: '2021-03-31T17:12:22Z'
 date: '2021-01-19T00:42:00.000Z'

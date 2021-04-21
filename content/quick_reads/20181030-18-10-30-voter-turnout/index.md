@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
-  - 18-10-30-voter-turnout/
+  - /
 _createdAt: '2018-10-30T11:33:06Z'
 _updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-10-30T11:33:06+00:00'

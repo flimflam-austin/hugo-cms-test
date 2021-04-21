@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJutkpf
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-05-trucks/
+  - /
 _createdAt: '2018-08-06T12:37:55Z'
 _updatedAt: '2021-03-26T19:36:52Z'
 date: '2018-08-06T12:37:55+00:00'

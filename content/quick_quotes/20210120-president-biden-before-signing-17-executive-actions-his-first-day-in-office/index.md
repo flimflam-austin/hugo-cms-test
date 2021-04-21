@@ -8,7 +8,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/president-biden-before-signing-17-executive-actions-his-first-day-in-office/
+    /president-biden-before-signing-17-executive-actions-his-first-day-in-office/
 _createdAt: '2021-01-20T23:45:54Z'
 _updatedAt: '2021-04-17T09:17:59Z'
 date: '2021-01-20T23:45:54+00:00'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2L2tgg
 type: quick_reads
 draft: false
 aliases:
-  - otd-bloody-sunday-2021/
+  - /
 _createdAt: '2021-03-30T22:08:08Z'
 _updatedAt: '2021-03-30T22:08:08Z'
 date: '2021-03-08T07:20:00.000Z'

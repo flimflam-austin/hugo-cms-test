@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3ndmb
 type: quick_reads
 draft: false
 aliases:
-  - task-force-update/
+  - /
 _createdAt: '2021-04-02T23:14:54Z'
 _updatedAt: '2021-04-02T23:14:54Z'
 date: '2020-03-24T11:00:00.000Z'

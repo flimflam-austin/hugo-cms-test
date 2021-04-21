@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-16-russia-sanctions/
+  - /
 _createdAt: '2018-03-16T12:29:50Z'
 _updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-16T12:29:50+00:00'

@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCqTJm
 type: quick_reads
 draft: false
 aliases:
-  - abigail-becomes-abigail-adams/
+  - /
 _createdAt: '2021-04-01T18:20:40Z'
 _updatedAt: '2021-04-01T18:20:40Z'
 date: '2020-10-26T02:21:00.000Z'

@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCn6cg
 type: quick_reads
 draft: false
 aliases:
-  - macys-thanksgiving-day-parade-2020/
+  - /
 _createdAt: '2021-04-01T16:40:42Z'
 _updatedAt: '2021-04-01T16:40:42Z'
 date: '2020-11-26T07:09:00.000Z'

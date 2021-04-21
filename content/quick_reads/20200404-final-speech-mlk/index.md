@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4tgnVn
 type: quick_reads
 draft: false
 aliases:
-  - final-speech-mlk/
+  - /
 _createdAt: '2021-04-02T21:11:04Z'
 _updatedAt: '2021-04-02T21:11:04Z'
 date: '2020-04-04T01:08:00.000Z'

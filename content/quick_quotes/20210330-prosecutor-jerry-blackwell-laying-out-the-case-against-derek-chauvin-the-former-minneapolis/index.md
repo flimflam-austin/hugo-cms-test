@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/prosecutor-jerry-blackwell-laying-out-the-case-against-derek-chauvin-the-former-minneapolis-police-officer-accused-of-murdering-george-floyd/
+    /prosecutor-jerry-blackwell-laying-out-the-case-against-derek-chauvin-the-former-minneapolis-police-officer-accused-of-murdering-george-floyd/
 _createdAt: '2021-04-01T01:12:24Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-30T09:42:00.000Z'

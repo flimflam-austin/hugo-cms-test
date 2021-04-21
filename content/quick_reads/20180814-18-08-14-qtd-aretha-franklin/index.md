@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2AyQTL
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-14-qtd-aretha-franklin/
+  - /
 _createdAt: '2018-08-14T11:52:51Z'
 _updatedAt: '2021-03-26T19:54:39Z'
 date: '2018-08-14T11:52:51+00:00'

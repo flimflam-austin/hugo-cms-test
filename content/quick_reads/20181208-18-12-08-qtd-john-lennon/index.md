@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452ykLx7
 type: quick_reads
 draft: false
 aliases:
-  - 18-12-08-qtd-john-lennon/
+  - /
 _createdAt: '2018-12-08T13:56:17Z'
 _updatedAt: '2021-03-28T00:56:28Z'
 date: '2018-12-08T13:56:17+00:00'

@@ -10,7 +10,7 @@ type: video_posts
 draft: false
 aliases:
   - >-
-    article/congressman-says-he-will-object-to-electoral-college-votes-for-the-sake-of-his-grandkids/
+    /congressman-says-he-will-object-to-electoral-college-votes-for-the-sake-of-his-grandkids/
 _createdAt: '2021-01-06T05:53:57Z'
 _updatedAt: '2021-04-17T09:24:16Z'
 date: '2021-01-06T05:53:57+00:00'

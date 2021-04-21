@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq286buR
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-21-woman-rides-20000-miles-year-bike/
+  - /
 _createdAt: '2018-03-22T14:51:29Z'
 _updatedAt: '2021-03-25T22:33:21Z'
 date: '2018-03-22T14:51:29+00:00'

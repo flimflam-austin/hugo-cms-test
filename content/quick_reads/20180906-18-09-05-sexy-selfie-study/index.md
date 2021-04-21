@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxgEHo
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-05-sexy-selfie-study/
+  - /
 _createdAt: '2018-09-06T12:00:15Z'
 _updatedAt: '2021-03-27T21:32:58Z'
 date: '2018-09-06T12:00:15+00:00'

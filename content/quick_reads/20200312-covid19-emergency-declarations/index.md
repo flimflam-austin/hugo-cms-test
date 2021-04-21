@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEGvba
 type: quick_reads
 draft: false
 aliases:
-  - covid19-emergency-declarations/
+  - /
 _createdAt: '2021-04-04T05:37:59Z'
 _updatedAt: '2021-04-04T05:40:09Z'
 date: '2020-03-12T00:44:00.000Z'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r34xhp
 type: quick_reads
 draft: false
 aliases:
-  - south-china-sea-latest/
+  - /
 _createdAt: '2021-04-02T06:56:35Z'
 _updatedAt: '2021-04-02T06:56:35Z'
 date: '2020-07-07T18:44:00.000Z'

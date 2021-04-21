@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2yxUr
 type: quick_reads
 draft: false
 aliases:
-  - the-most-serious-covid-cases-for-kiddos/
+  - /
 _createdAt: '2021-04-02T03:57:39Z'
 _updatedAt: '2021-04-02T03:57:39Z'
 date: '2020-08-13T03:40:00.000Z'

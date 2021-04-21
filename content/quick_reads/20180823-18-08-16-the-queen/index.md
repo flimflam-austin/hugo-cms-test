@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJuyid0
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-16-the-queen/
+  - /
 _createdAt: '2018-08-16T14:36:28Z'
 _updatedAt: '2021-03-26T20:03:07Z'
 date: '2018-08-16T14:36:28+00:00'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28PoYH
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-04-no-need-chemo/
+  - /
 _createdAt: '2018-06-04T10:41:36Z'
 _updatedAt: '2021-03-26T00:57:20Z'
 date: '2018-06-04T10:41:36+00:00'

@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-19-revolution-hair-dye/
+  - /
 _createdAt: '2018-03-19T13:31:36Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-19T13:31:36+00:00'

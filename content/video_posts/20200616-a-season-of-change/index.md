@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnYiT
 type: video_posts
 draft: false
 aliases:
-  - article/a-season-of-change/
+  - /a-season-of-change/
 _createdAt: '2020-06-16T15:25:43Z'
 _updatedAt: '2021-04-17T09:24:49Z'
 date: '2020-06-16T15:25:43+00:00'

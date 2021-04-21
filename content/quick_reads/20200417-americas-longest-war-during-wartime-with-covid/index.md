@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDXrcE
 type: quick_reads
 draft: false
 aliases:
-  - mericas-longest-war-during-wartime-with-covid/
+  - /
 _createdAt: '2021-04-02T20:14:14Z'
 _updatedAt: '2021-04-02T20:14:14Z'
 date: '2020-04-17T03:36:00.000Z'

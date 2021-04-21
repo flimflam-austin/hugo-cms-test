@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28SgLz
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-12-kudlow-heart-attack/
+  - /
 _createdAt: '2018-06-13T08:51:24Z'
 _updatedAt: '2021-03-26T01:26:33Z'
 date: '2018-06-13T08:51:24+00:00'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrxCIw
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-03-deadly-romaine/
+  - /
 _createdAt: '2018-05-03T10:53:06Z'
 _updatedAt: '2021-03-25T23:35:33Z'
 date: '2018-05-03T10:53:06+00:00'

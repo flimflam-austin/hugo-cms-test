@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgfrM
 type: video_posts
 draft: false
 aliases:
-  - article/what-its-like-to-play-in-a-super-bowl/
+  - /what-its-like-to-play-in-a-super-bowl/
 _createdAt: '2021-02-07T23:14:27Z'
 _updatedAt: '2021-04-17T09:24:52Z'
 date: '2021-02-07T23:14:27+00:00'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r35JQX
 type: quick_reads
 draft: false
 aliases:
-  - nick-cordero/
+  - /
 _createdAt: '2021-04-02T06:57:24Z'
 _updatedAt: '2021-04-02T07:09:25Z'
 date: '2020-07-06T09:15:00.000Z'

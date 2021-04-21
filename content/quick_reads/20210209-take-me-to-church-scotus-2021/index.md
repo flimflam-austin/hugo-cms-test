@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK755cg
 type: quick_reads
 draft: false
 aliases:
-  - take-me-to-church-scotus2021/
+  - /
 _createdAt: '2021-03-31T00:42:50Z'
 _updatedAt: '2021-03-31T00:42:50Z'
 date: '2021-02-09T02:55:00.000Z'

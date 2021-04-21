@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633m6oG
 type: quick_quotes
 draft: false
 aliases:
-  - article/ga-governor-national-guard/
+  - /ga-governor-national-guard/
 _createdAt: '2020-07-06T20:49:16Z'
 _updatedAt: '2021-04-17T09:22:43Z'
 date: '2020-07-06T20:49:16+00:00'

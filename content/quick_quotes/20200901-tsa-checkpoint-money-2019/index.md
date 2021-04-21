@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HdJHy
 type: quick_quotes
 draft: false
 aliases:
-  - article/tsa-checkpoint-money-2019/
+  - /tsa-checkpoint-money-2019/
 _createdAt: '2020-09-01T12:26:30Z'
 _updatedAt: '2021-04-17T09:21:37Z'
 date: '2020-09-01T12:26:30+00:00'

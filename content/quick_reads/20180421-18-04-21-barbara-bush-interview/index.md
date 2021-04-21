@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wET93
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-21-barbara-bush-interview/
+  - /
 _createdAt: '2018-04-21T13:23:34Z'
 _updatedAt: '2021-03-25T19:41:30Z'
 date: '2018-04-21T13:23:34+00:00'

@@ -6,7 +6,7 @@ _rev: u5uW6zpa1zd6jbVW1LRWZW
 type: quick_reads
 draft: false
 aliases:
-  - electoral-college-vote-counting/
+  - /
 _createdAt: '2021-03-31T17:45:33Z'
 _updatedAt: '2021-03-31T17:45:33Z'
 date: '2021-01-06T11:54:00.000Z'

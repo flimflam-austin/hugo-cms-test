@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rWEd
 type: video_posts
 draft: false
 aliases:
-  - article/what-links-all-presidents-in-the-modern-white-house/
+  - /what-links-all-presidents-in-the-modern-white-house/
 _createdAt: '2020-07-28T12:43:44Z'
 _updatedAt: '2021-04-17T09:24:48Z'
 date: '2020-07-28T12:43:44+00:00'

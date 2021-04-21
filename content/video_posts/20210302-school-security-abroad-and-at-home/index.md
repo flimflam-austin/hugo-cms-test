@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnPqh
 type: video_posts
 draft: false
 aliases:
-  - article/school-security-abroad-at-home/
+  - /school-security-abroad-at-home/
 _createdAt: '2021-04-01T12:07:33Z'
 _updatedAt: '2021-04-17T09:23:26Z'
 date: '2021-03-02T07:54:00.000Z'

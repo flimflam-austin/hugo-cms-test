@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4xyFR5
 type: quick_reads
 draft: false
 aliases:
-  - royals-in-crisis/
+  - /
 _createdAt: '2021-04-04T07:44:37Z'
 _updatedAt: '2021-04-04T07:46:54Z'
 date: '2020-01-13T23:08:00.000Z'

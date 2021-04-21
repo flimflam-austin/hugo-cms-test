@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3hvIP
 type: quick_reads
 draft: false
 aliases:
-  - quote-of-the-day-queen-elizabeth/
+  - /
 _createdAt: '2021-04-02T20:59:14Z'
 _updatedAt: '2021-04-02T21:01:15Z'
 date: '2020-04-07T04:08:00.000Z'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2806JD
 type: quick_reads
 draft: false
 aliases:
-  - russia-investigation/
+  - /
 _createdAt: '2018-02-23T12:10:21Z'
 _updatedAt: '2021-03-25T21:52:19Z'
 date: '2018-02-23T12:10:21+00:00'

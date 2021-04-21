@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTavVo
 type: quick_quotes
 draft: false
 aliases:
-  - article/fauci-holiday-travel/
+  - /fauci-holiday-travel/
 _createdAt: '2020-11-30T15:44:11Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-11-30T15:44:11+00:00'

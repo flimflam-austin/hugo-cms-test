@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq283xKj
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-06-cubs-cailiphate/
+  - /
 _createdAt: '2018-03-07T12:14:34Z'
 _updatedAt: '2021-03-25T22:10:44Z'
 date: '2018-03-07T12:14:34+00:00'

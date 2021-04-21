@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HdKxY
 type: quick_quotes
 draft: false
 aliases:
-  - article/covid-vaccine-shipments-day1/
+  - /covid-vaccine-shipments-day1/
 _createdAt: '2020-12-14T23:30:56Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-12-14T23:30:56+00:00'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK6AFgF
 type: quick_reads
 draft: false
 aliases:
-  - diana-ross-qtd/
+  - /
 _createdAt: '2021-03-30T19:57:20Z'
 _updatedAt: '2021-03-30T19:57:20Z'
 date: '2021-03-26T19:52:00.000Z'

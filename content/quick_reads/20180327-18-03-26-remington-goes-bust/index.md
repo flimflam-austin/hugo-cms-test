@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-26-remington-goes-bust/
+  - /
 _createdAt: '2018-03-27T11:49:09Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-27T11:49:09+00:00'

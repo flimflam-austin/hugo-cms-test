@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HcuME
 type: quick_quotes
 draft: false
 aliases:
-  - article/tx-covid/
+  - /tx-covid/
 _createdAt: '2020-11-11T21:17:36Z'
 _updatedAt: '2021-04-17T09:17:07Z'
 date: '2020-11-11T21:17:36+00:00'

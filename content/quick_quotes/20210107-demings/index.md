@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HcwTh
 type: quick_quotes
 draft: false
 aliases:
-  - article/demings/
+  - /demings/
 _createdAt: '2021-01-07T07:44:50Z'
 _updatedAt: '2021-04-17T09:17:34Z'
 date: '2021-01-07T07:44:50+00:00'

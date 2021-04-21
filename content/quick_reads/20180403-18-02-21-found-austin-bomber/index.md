@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrop7H
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-21-found-austin-bomber/
+  - /
 _createdAt: '2018-03-22T10:52:51Z'
 _updatedAt: '2021-03-25T22:30:36Z'
 date: '2018-03-22T10:52:51+00:00'

@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDD6MCk
 type: quick_reads
 draft: false
 aliases:
-  - john-lewis-lie-in-state/
+  - /
 _createdAt: '2021-04-02T04:39:55Z'
 _updatedAt: '2021-04-02T04:40:10Z'
 date: '2020-07-28T08:27:00.000Z'

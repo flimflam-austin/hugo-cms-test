@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnaW1
 type: video_posts
 draft: false
 aliases:
-  - article/why-all-the-talk-about-hydroxychloroquine/
+  - /why-all-the-talk-about-hydroxychloroquine/
 _createdAt: '2020-07-29T14:12:04Z'
 _updatedAt: '2021-04-17T09:25:13Z'
 date: '2020-07-29T14:12:04+00:00'

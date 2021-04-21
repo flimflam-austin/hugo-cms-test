@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsGamu
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-09-thai-cave/
+  - /
 _createdAt: '2018-07-09T12:42:11Z'
 _updatedAt: '2021-03-26T02:18:12Z'
 date: '2018-07-09T12:42:11+00:00'

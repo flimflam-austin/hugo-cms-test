@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rVE8
 type: video_posts
 draft: false
 aliases:
-  - article/weekend-catch-up/
+  - /weekend-catch-up/
 _createdAt: '2020-08-24T18:46:39Z'
 _updatedAt: '2021-04-17T09:24:28Z'
 date: '2020-08-24T18:46:39+00:00'

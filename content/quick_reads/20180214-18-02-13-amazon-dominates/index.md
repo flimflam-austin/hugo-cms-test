@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wMEXl
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-13-amazon-dominates/
+  - /
 _createdAt: '2018-02-13T19:18:45Z'
 _updatedAt: '2021-03-25T21:38:29Z'
 date: '2018-02-13T19:18:45+00:00'

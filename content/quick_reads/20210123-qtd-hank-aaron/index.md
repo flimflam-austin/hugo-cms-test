@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK9Sc8I
 type: quick_reads
 draft: false
 aliases:
-  - qtd-hank-aaron/
+  - /
 _createdAt: '2021-03-31T16:44:37Z'
 _updatedAt: '2021-03-31T16:45:39Z'
 date: '2021-01-23T06:11:00.000Z'

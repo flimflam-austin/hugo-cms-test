@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rXtS
 type: video_posts
 draft: false
 aliases:
-  - article/two-things-on-three-topics/
+  - /two-things-on-three-topics/
 _createdAt: '2020-08-11T13:46:40Z'
 _updatedAt: '2021-04-17T09:25:17Z'
 date: '2020-08-11T13:46:40+00:00'

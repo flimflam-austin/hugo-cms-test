@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2lxnx
 type: quick_reads
 draft: false
 aliases:
-  - rbg-qtd/
+  - /
 _createdAt: '2021-04-01T22:24:57Z'
 _updatedAt: '2021-04-01T22:24:57Z'
 date: '2020-09-19T08:41:00.000Z'

@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/sister-ann-rose-nu-tawng-who-confronted-police-during-mondays-anti-coup-demonstration-in-myitkyina-myanmar-as-a-violent-clashes-between-protests-and-police-continue/
+    /sister-ann-rose-nu-tawng-who-confronted-police-during-mondays-anti-coup-demonstration-in-myitkyina-myanmar-as-a-violent-clashes-between-protests-and-police-continue/
 _createdAt: '2021-04-01T02:01:00Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-10T03:48:00.000Z'

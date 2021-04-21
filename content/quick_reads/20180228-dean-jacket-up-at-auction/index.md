@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq281Y0f
 type: quick_reads
 draft: false
 aliases:
-  - dean-jacket-up-at-auction/
+  - /
 _createdAt: '2018-02-28T22:58:15Z'
 _updatedAt: '2021-03-25T22:03:50Z'
 date: '2018-02-28T22:58:15+00:00'

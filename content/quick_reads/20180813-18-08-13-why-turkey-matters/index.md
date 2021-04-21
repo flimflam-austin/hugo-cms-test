@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJuxLv4
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-13-why-turkey-matters/
+  - /
 _createdAt: '2018-08-13T11:46:24Z'
 _updatedAt: '2021-03-26T19:53:40Z'
 date: '2018-08-13T11:46:24+00:00'

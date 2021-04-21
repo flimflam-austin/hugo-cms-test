@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2UFsn
 type: quick_reads
 draft: false
 aliases:
-  - scotus-aca/
+  - /
 _createdAt: '2021-04-01T17:08:29Z'
 _updatedAt: '2021-04-01T17:08:29Z'
 date: '2020-11-11T11:12:00.000Z'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wGZev
 type: quick_reads
 draft: false
 aliases:
-  - era/
+  - /
 _createdAt: '2019-04-30T12:02:03Z'
 _updatedAt: '2021-03-25T20:06:39Z'
 date: '2019-04-30T12:02:03+00:00'

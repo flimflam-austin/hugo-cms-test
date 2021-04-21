@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/academy-president-david-rubin-and-ceo-dawn-hudson-on-delay-of-the-academy-awards-for-2021/
+    /academy-president-david-rubin-and-ceo-dawn-hudson-on-delay-of-the-academy-awards-for-2021/
 _createdAt: '2020-06-16T14:48:31Z'
 _updatedAt: '2021-04-17T09:16:35Z'
 date: '2020-06-16T14:48:31+00:00'

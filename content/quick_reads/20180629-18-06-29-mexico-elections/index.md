@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbuB9I
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-29-mexico-elections/
+  - /
 _createdAt: '2018-06-29T09:34:22Z'
 _updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-06-29T09:34:22+00:00'

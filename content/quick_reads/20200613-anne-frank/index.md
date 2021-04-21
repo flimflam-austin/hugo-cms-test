@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3a7cP
 type: quick_reads
 draft: false
 aliases:
-  - anne-frank/
+  - /
 _createdAt: '2021-04-02T18:31:17Z'
 _updatedAt: '2021-04-02T18:34:59Z'
 date: '2020-06-13T02:25:00.000Z'

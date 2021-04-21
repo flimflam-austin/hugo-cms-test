@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-02-swimming-dangers/
+  - /
 _createdAt: '2018-07-06T05:01:01Z'
 _updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-07-06T05:01:01+00:00'

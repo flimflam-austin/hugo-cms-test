@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEHpRm
 type: quick_reads
 draft: false
 aliases:
-  - bad-rap/
+  - /
 _createdAt: '2021-04-04T06:24:28Z'
 _updatedAt: '2021-04-04T06:24:28Z'
 date: '2020-02-13T09:24:00.000Z'

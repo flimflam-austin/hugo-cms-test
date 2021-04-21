@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/pediatric-dr-paul-offit-childrens-hospital-of-pennsylvania-and-director-of-the-vaccine-education-center-on-severe-allergic-reactions-in-two-patients-on-the-first-day-the-pfizer-covid-19-vaccine-wa/
+    /pediatric-dr-paul-offit-childrens-hospital-of-pennsylvania-and-director-of-the-vaccine-education-center-on-severe-allergic-reactions-in-two-patients-on-the-first-day-the-pfizer-covid-19-vaccine-wa/
 _createdAt: '2020-12-10T23:44:19Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-12-10T23:44:19+00:00'

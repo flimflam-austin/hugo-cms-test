@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTaW8G
 type: quick_quotes
 draft: false
 aliases:
-  - article/nuclear-scientist-killed/
+  - /nuclear-scientist-killed/
 _createdAt: '2020-11-27T21:24:19Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-11-27T21:24:19+00:00'

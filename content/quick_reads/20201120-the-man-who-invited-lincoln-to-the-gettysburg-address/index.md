@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4o9A4p
 type: quick_reads
 draft: false
 aliases:
-  - the-man-who-invited-lincoln-to-the-gettysburg-address/
+  - /
 _createdAt: '2021-04-01T16:54:42Z'
 _updatedAt: '2021-04-01T16:54:42Z'
 date: '2020-11-20T06:39:00.000Z'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4k9p3
 type: quick_reads
 draft: false
 aliases:
-  - otd-frances-perkins/
+  - /
 _createdAt: '2021-04-04T05:54:47Z'
 _updatedAt: '2021-04-04T05:56:48Z'
 date: '2020-03-05T01:00:00.000Z'

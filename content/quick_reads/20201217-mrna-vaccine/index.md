@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4iZG7X
 type: quick_reads
 draft: false
 aliases:
-  - mrna-vaccine/
+  - /
 _createdAt: '2021-03-31T18:24:02Z'
 _updatedAt: '2021-03-31T18:24:02Z'
 date: '2020-12-17T06:04:00.000Z'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wM6Td
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-13-ligety-video/
+  - /
 _createdAt: '2018-02-13T00:32:17Z'
 _updatedAt: '2021-03-25T21:36:08Z'
 date: '2018-02-13T00:32:17+00:00'

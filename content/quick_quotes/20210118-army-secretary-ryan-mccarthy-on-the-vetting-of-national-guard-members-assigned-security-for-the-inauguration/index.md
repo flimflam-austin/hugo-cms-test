@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/army-secretary-ryan-mccarthy-on-the-vetting-of-national-guard-members-assigned-security-for-the-inauguration/
+    /army-secretary-ryan-mccarthy-on-the-vetting-of-national-guard-members-assigned-security-for-the-inauguration/
 _createdAt: '2021-01-18T04:45:48Z'
 _updatedAt: '2021-04-17T09:19:02Z'
 date: '2021-01-18T04:45:48+00:00'

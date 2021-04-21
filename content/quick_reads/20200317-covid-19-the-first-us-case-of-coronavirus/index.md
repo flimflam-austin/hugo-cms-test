@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4iXbl
 type: quick_reads
 draft: false
 aliases:
-  - covid-19-the-first-us-case-of-coronavirus/
+  - /
 _createdAt: '2021-04-04T04:53:15Z'
 _updatedAt: '2021-04-04T04:53:15Z'
 date: '2020-03-17T04:02:00.000Z'

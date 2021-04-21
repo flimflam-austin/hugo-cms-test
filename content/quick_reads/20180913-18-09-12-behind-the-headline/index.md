@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2D6FAR
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-12-behind-the-headline/
+  - /
 _createdAt: '2018-09-13T11:59:09Z'
 _updatedAt: '2021-03-27T21:47:59Z'
 date: '2018-09-13T11:59:09+00:00'

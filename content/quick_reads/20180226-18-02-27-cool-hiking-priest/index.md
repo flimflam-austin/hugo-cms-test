@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrjxKH
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-27-cool-hiking-priest/
+  - /
 _createdAt: '2018-02-27T15:00:54Z'
 _updatedAt: '2021-03-25T21:59:55Z'
 date: '2018-02-27T15:00:54+00:00'

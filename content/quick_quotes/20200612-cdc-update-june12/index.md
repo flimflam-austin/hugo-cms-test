@@ -8,7 +8,7 @@ _rev: Pxytp4DhfU5gNtP633m5hi
 type: quick_quotes
 draft: false
 aliases:
-  - article/cdc-update-june12/
+  - /cdc-update-june12/
 _createdAt: '2020-06-12T18:49:41Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-06-12T18:49:41+00:00'

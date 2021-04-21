@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgc3E
 type: video_posts
 draft: false
 aliases:
-  - article/3-things-to-know/
+  - /3-things-to-know/
 _createdAt: '2020-06-03T02:14:11Z'
 _updatedAt: '2021-04-17T09:23:58Z'
 date: '2020-06-03T02:14:11+00:00'

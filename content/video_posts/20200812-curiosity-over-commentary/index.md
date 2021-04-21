@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnTZl
 type: video_posts
 draft: false
 aliases:
-  - article/curiosity-over-commentary/
+  - /curiosity-over-commentary/
 _createdAt: '2020-08-12T13:52:04Z'
 _updatedAt: '2021-04-17T09:24:00Z'
 date: '2020-08-12T13:52:04+00:00'

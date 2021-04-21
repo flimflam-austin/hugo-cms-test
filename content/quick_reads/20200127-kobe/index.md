@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4mcmv
 type: quick_reads
 draft: false
 aliases:
-  - kobe/
+  - /
 _createdAt: '2021-04-04T07:27:36Z'
 _updatedAt: '2021-04-04T07:29:22Z'
 date: '2020-01-27T12:19:00.000Z'

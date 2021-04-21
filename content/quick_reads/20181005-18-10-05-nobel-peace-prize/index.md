@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
-  - 18-10-05-nobel-peace-prize/
+  - /
 _createdAt: '2018-10-05T11:36:26Z'
 _updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-10-05T11:36:26+00:00'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq27iLdM
 type: quick_reads
 draft: false
 aliases:
-  - 2019-measles-outbreak/
+  - /
 _createdAt: '2019-02-11T15:09:34Z'
 _updatedAt: '2021-03-25T20:11:19Z'
 date: '2019-02-11T15:09:34+00:00'

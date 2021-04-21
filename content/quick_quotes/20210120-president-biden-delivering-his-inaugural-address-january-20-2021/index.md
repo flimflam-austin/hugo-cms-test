@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTaaLY
 type: quick_quotes
 draft: false
 aliases:
-  - article/president-biden-delivering-his-inaugural-address-january-20-2021/
+  - /president-biden-delivering-his-inaugural-address-january-20-2021/
 _createdAt: '2021-01-20T18:39:09Z'
 _updatedAt: '2021-04-17T09:16:37Z'
 date: '2021-01-20T18:39:09+00:00'

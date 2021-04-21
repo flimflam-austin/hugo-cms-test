@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633lx7S
 type: quick_quotes
 draft: false
 aliases:
-  - article/wild-animal-covid/
+  - /wild-animal-covid/
 _createdAt: '2020-12-17T01:33:31Z'
 _updatedAt: '2021-04-17T09:19:27Z'
 date: '2020-12-17T01:33:31+00:00'

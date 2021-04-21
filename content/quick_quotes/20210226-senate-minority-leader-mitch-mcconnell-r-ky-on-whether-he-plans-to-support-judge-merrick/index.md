@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/senate-minority-leader-mitch-mcconnell-r-ky-on-whether-he-plans-to-support-judge-merrick-garland-pres-bidens-choice-for-attorney-general-signaling-bipartisan-support-for-garlands-nomination/
+    /senate-minority-leader-mitch-mcconnell-r-ky-on-whether-he-plans-to-support-judge-merrick-garland-pres-bidens-choice-for-attorney-general-signaling-bipartisan-support-for-garlands-nomination/
 _createdAt: '2021-04-01T02:35:15Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-02-26T06:25:00.000Z'

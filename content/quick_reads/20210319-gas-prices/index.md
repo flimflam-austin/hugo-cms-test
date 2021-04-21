@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK6Vwy2
 type: quick_reads
 draft: false
 aliases:
-  - gas-prices/
+  - /
 _createdAt: '2021-03-30T21:11:48Z'
 _updatedAt: '2021-03-30T21:11:48Z'
 date: '2021-03-19T06:13:00.000Z'

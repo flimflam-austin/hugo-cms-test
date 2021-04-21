@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2nklp
 type: quick_reads
 draft: false
 aliases:
-  - vaccine-trial-pause/
+  - /
 _createdAt: '2021-04-01T22:58:57Z'
 _updatedAt: '2021-04-01T22:58:57Z'
 date: '2020-09-10T08:32:00.000Z'

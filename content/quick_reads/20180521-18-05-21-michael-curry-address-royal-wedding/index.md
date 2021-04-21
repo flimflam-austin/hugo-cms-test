@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28MTnA
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-21-michael-curry-address-royal-wedding/
+  - /
 _createdAt: '2018-05-21T12:36:52Z'
 _updatedAt: '2021-03-26T00:35:04Z'
 date: '2018-05-21T12:36:52+00:00'

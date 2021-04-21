@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
-  - 2018-03-17-umbc-march-madness/
+  - /
 _createdAt: '2018-03-17T13:22:40Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-17T13:22:40+00:00'

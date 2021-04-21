@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDXo8E
 type: quick_reads
 draft: false
 aliases:
-  - covid-weekend-updates/
+  - /
 _createdAt: '2021-04-02T20:11:42Z'
 _updatedAt: '2021-04-02T20:11:42Z'
 date: '2020-04-20T20:42:00.000Z'

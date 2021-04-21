@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/senior-u-s-economist-michael-pearce-capital-economics-on-a-new-jobs-report-for-june-showing-the-return-of-nearly-5m-jobs/
+    /senior-u-s-economist-michael-pearce-capital-economics-on-a-new-jobs-report-for-june-showing-the-return-of-nearly-5m-jobs/
 _createdAt: '2020-07-02T21:07:47Z'
 _updatedAt: '2021-04-17T09:21:16Z'
 date: '2020-07-02T21:07:47+00:00'

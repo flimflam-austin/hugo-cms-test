@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2D9ANl
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-25-milk-study/
+  - /
 _createdAt: '2018-09-25T12:16:09Z'
 _updatedAt: '2021-03-27T22:36:27Z'
 date: '2018-09-25T12:16:09+00:00'

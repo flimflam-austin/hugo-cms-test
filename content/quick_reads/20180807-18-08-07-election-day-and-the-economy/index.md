@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2Aw2xh
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-07-election-day-and-the-economy/
+  - /
 _createdAt: '2018-08-07T11:45:19Z'
 _updatedAt: '2021-03-26T19:39:38Z'
 date: '2018-08-07T11:45:19+00:00'

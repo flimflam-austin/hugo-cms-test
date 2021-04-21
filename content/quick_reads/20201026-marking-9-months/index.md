@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2YE1h
 type: quick_reads
 draft: false
 aliases:
-  - marking-9-months/
+  - /
 _createdAt: '2021-04-01T18:18:52Z'
 _updatedAt: '2021-04-01T18:18:52Z'
 date: '2020-10-26T12:58:00.000Z'

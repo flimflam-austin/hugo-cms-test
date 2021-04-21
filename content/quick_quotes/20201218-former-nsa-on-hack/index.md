@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTaZNY
 type: quick_quotes
 draft: false
 aliases:
-  - article/former-nsa-on-hack/
+  - /former-nsa-on-hack/
 _createdAt: '2020-12-18T12:52:40Z'
 _updatedAt: '2021-04-17T09:16:22Z'
 date: '2020-12-18T12:52:40+00:00'

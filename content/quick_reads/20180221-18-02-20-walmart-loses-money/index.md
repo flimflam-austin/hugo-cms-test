@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbuACG
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-20-walmart-loses-money/
+  - /
 _createdAt: '2018-02-21T13:47:33Z'
 _updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-21T13:47:33+00:00'

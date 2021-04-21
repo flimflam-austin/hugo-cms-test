@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
-  - fathers-day/
+  - /
 _createdAt: '2020-06-21T10:47:54Z'
 _updatedAt: '2021-03-22T13:11:17Z'
 date: '2020-06-21T10:47:54+00:00'

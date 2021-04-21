@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28DiFo
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-01-tmobile-sprint/
+  - /
 _createdAt: '2018-05-01T09:51:10Z'
 _updatedAt: '2021-03-25T23:26:43Z'
 date: '2018-05-01T09:51:10+00:00'

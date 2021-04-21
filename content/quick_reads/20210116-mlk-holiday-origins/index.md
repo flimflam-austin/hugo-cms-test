@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2Nv5iQ
 type: quick_reads
 draft: false
 aliases:
-  - mlk-holiday-origins/
+  - /
 _createdAt: '2021-03-31T17:17:34Z'
 _updatedAt: '2021-03-31T17:17:34Z'
 date: '2021-01-16T00:52:00.000Z'

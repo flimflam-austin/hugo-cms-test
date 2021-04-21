@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd2q6
 type: quick_quotes
 draft: false
 aliases:
-  - article/boston-dynamics-robots/
+  - /boston-dynamics-robots/
 _createdAt: '2021-01-06T03:32:54Z'
 _updatedAt: '2021-04-17T09:18:49Z'
 date: '2021-01-06T03:32:54+00:00'

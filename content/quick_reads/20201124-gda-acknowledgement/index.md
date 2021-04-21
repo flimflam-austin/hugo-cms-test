@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4o80eN
 type: quick_reads
 draft: false
 aliases:
-  - gsa-acknowledgement/
+  - /
 _createdAt: '2021-04-01T16:48:55Z'
 _updatedAt: '2021-04-01T16:48:55Z'
 date: '2020-11-24T11:08:00.000Z'

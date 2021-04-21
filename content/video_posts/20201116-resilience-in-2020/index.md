@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rW0W
 type: video_posts
 draft: false
 aliases:
-  - article/resilience-in-2020/
+  - /resilience-in-2020/
 _createdAt: '2020-11-16T22:31:49Z'
 _updatedAt: '2021-04-17T09:24:42Z'
 date: '2020-11-16T22:31:49+00:00'

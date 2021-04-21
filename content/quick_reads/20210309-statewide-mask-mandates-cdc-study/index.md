@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532mz7F
 type: quick_reads
 draft: false
 aliases:
-  - statewide-mask-mandates-cdc-study/
+  - /
 _createdAt: '2021-03-30T22:01:52Z'
 _updatedAt: '2021-03-30T22:01:52Z'
 date: '2021-03-09T04:13:00.000Z'

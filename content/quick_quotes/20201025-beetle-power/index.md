@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633m3OZ
 type: quick_quotes
 draft: false
 aliases:
-  - article/beetle-power/
+  - /beetle-power/
 _createdAt: '2020-10-26T03:08:10Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-10-26T03:08:10+00:00'

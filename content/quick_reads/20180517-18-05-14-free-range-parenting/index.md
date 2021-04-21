@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wVHSX
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-14-free-range-parenting/
+  - /
 _createdAt: '2018-05-17T10:05:52Z'
 _updatedAt: '2021-03-26T00:19:35Z'
 date: '2018-05-17T10:05:52+00:00'

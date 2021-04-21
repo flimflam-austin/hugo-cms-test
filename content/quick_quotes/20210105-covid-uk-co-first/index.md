@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTaZsW
 type: quick_quotes
 draft: false
 aliases:
-  - article/covid-uk-co-first/
+  - /covid-uk-co-first/
 _createdAt: '2020-12-30T02:30:30Z'
 _updatedAt: '2021-04-17T09:16:29Z'
 date: '2020-12-30T02:30:30+00:00'

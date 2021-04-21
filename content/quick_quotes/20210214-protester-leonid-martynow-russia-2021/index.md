@@ -10,7 +10,7 @@ _rev: Pxytp4DhfU5gNtP633lmQ9
 type: quick_quotes
 draft: false
 aliases:
-  - article/protester-leonid-martynow-russia-2021/
+  - /protester-leonid-martynow-russia-2021/
 _createdAt: '2021-02-02T04:32:54Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-02-02T04:32:54+00:00'

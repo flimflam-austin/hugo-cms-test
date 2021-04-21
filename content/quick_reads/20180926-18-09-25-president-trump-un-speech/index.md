@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxmWS4
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-25-president-trump-un-speech/
+  - /
 _createdAt: '2018-09-26T11:45:27Z'
 _updatedAt: '2021-03-27T22:38:35Z'
 date: '2018-09-26T11:45:27+00:00'

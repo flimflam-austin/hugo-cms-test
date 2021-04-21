@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wUpjp
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-09-korean-hostages/
+  - /
 _createdAt: '2018-05-10T10:05:06Z'
 _updatedAt: '2021-03-26T00:08:56Z'
 date: '2018-05-10T10:05:06+00:00'

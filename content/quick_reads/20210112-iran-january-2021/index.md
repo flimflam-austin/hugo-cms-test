@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r1FyKz
 type: quick_reads
 draft: false
 aliases:
-  - iran-january-2021/
+  - /
 _createdAt: '2021-03-31T17:40:23Z'
 _updatedAt: '2021-03-31T17:42:54Z'
 date: '2021-01-12T10:47:00.000Z'

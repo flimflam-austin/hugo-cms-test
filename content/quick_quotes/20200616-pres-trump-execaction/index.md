@@ -8,7 +8,7 @@ _rev: Pxytp4DhfU5gNtP633ltvs
 type: quick_quotes
 draft: false
 aliases:
-  - article/pres-trump-execaction/
+  - /pres-trump-execaction/
 _createdAt: '2020-06-16T21:19:18Z'
 _updatedAt: '2021-04-17T09:18:11Z'
 date: '2020-06-16T21:19:18+00:00'

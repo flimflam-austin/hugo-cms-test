@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/senate-chaplain-barry-black-closes-joint-session-of-congress-when-lawmakers-officially-counted-the-electoral-college-votes-and-announced-president-elect-biden-vp-elect-harris-the-winners-of-the-2020/
+    /senate-chaplain-barry-black-closes-joint-session-of-congress-when-lawmakers-officially-counted-the-electoral-college-votes-and-announced-president-elect-biden-vp-elect-harris-the-winners-of-the-2020/
 _createdAt: '2021-01-07T21:46:25Z'
 _updatedAt: '2021-04-17T09:18:22Z'
 date: '2021-01-07T21:46:25+00:00'

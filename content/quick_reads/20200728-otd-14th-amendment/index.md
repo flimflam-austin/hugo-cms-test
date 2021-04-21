@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2zaKP
 type: quick_reads
 draft: false
 aliases:
-  - otd-14th-amendment/
+  - /
 _createdAt: '2021-04-02T04:21:55Z'
 _updatedAt: '2021-04-02T04:21:55Z'
 date: '2020-07-28T18:17:00.000Z'

@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/four-former-fda-commissioners-advocating-for-better-studies-on-convalescent-plasma-therapy/
+    /four-former-fda-commissioners-advocating-for-better-studies-on-convalescent-plasma-therapy/
 _createdAt: '2020-08-04T11:03:45Z'
 _updatedAt: '2021-04-17T09:17:28Z'
 date: '2020-08-04T11:03:45+00:00'

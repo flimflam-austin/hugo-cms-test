@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/fbi-miami-special-agent-in-charge-george-piro-on-the-killing-of-two-fbi-agents-in-southern-florida-on-tuesday/
+    /fbi-miami-special-agent-in-charge-george-piro-on-the-killing-of-two-fbi-agents-in-southern-florida-on-tuesday/
 _createdAt: '2021-04-01T11:48:33Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-02-04T09:05:00.000Z'

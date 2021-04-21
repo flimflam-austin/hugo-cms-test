@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrjpjx
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-27-daca/
+  - /
 _createdAt: '2018-02-27T12:55:43Z'
 _updatedAt: '2021-03-25T21:58:47Z'
 date: '2018-02-27T12:55:43+00:00'

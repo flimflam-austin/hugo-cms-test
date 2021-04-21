@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq27qTEB
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-07-jennifer-aniston-new-home/
+  - /
 _createdAt: '2018-02-08T18:00:46Z'
 _updatedAt: '2021-03-25T20:53:59Z'
 date: '2018-02-08T18:00:46+00:00'

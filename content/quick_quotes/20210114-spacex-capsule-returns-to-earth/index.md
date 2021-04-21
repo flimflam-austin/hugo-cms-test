@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTaWwa
 type: quick_quotes
 draft: false
 aliases:
-  - article/spacex-capsule-returns-to-earth/
+  - /spacex-capsule-returns-to-earth/
 _createdAt: '2021-01-14T13:20:02Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-01-14T13:20:02+00:00'

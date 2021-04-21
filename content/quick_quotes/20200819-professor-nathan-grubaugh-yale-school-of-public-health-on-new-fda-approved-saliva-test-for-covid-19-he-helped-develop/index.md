@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/professor-nathan-grubaugh-yale-school-of-public-health-on-new-fda-approved-saliva-test-for-covid-19-he-helped-develop/
+    /professor-nathan-grubaugh-yale-school-of-public-health-on-new-fda-approved-saliva-test-for-covid-19-he-helped-develop/
 _createdAt: '2020-08-19T11:06:30Z'
 _updatedAt: '2021-04-17T09:19:38Z'
 date: '2020-08-19T11:06:30+00:00'

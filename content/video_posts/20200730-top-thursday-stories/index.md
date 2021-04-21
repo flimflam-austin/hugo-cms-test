@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnbPn
 type: video_posts
 draft: false
 aliases:
-  - article/top-thursday-stories/
+  - /top-thursday-stories/
 _createdAt: '2020-07-30T15:22:56Z'
 _updatedAt: '2021-04-17T09:25:21Z'
 date: '2020-07-30T15:22:56+00:00'

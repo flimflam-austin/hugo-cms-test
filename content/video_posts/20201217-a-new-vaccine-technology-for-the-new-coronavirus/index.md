@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rXVG
 type: video_posts
 draft: false
 aliases:
-  - article/a-new-vaccine-technology-for-the-new-coronavirus/
+  - /a-new-vaccine-technology-for-the-new-coronavirus/
 _createdAt: '2020-12-18T01:44:12Z'
 _updatedAt: '2021-04-17T09:25:11Z'
 date: '2020-12-18T01:44:12+00:00'

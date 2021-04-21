@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnY8c
 type: video_posts
 draft: false
 aliases:
-  - article/a-smarther-thanksgiving/
+  - /a-smarther-thanksgiving/
 _createdAt: '2019-12-03T03:47:15Z'
 _updatedAt: '2021-04-17T09:24:44Z'
 date: '2019-12-03T03:47:15+00:00'

@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4xz4Z9
 type: quick_reads
 draft: false
 aliases:
-  - josh-jacobs/
+  - /
 _createdAt: '2021-04-04T07:58:33Z'
 _updatedAt: '2021-04-04T07:58:33Z'
 date: '2020-01-11T03:45:00.000Z'

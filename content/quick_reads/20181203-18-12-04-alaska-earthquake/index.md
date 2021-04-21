@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DJppg
 type: quick_reads
 draft: false
 aliases:
-  - 18-12-04-alaska-earthquake/
+  - /
 _createdAt: '2018-12-04T03:31:29Z'
 _updatedAt: '2021-03-28T00:47:20Z'
 date: '2018-12-04T03:31:29+00:00'

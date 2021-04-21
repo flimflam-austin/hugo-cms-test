@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DIRRE
 type: quick_reads
 draft: false
 aliases:
-  - 18-11-30-jackson-qtd/
+  - /
 _createdAt: '2018-11-30T12:33:48Z'
 _updatedAt: '2021-03-28T00:41:28Z'
 date: '2018-11-30T12:33:48+00:00'

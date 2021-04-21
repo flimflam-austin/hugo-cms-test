@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rRKC
 type: video_posts
 draft: false
 aliases:
-  - article/what-will-it-take-for-us-to-reach-the-tipping-point-with-covid-19/
+  - /what-will-it-take-for-us-to-reach-the-tipping-point-with-covid-19/
 _createdAt: '2021-04-01T12:06:02Z'
 _updatedAt: '2021-04-17T09:23:11Z'
 date: '2021-03-04T05:09:00.000Z'

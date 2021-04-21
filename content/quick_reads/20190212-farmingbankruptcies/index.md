@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq27i0wS
 type: quick_reads
 draft: false
 aliases:
-  - farmingbankruptcies/
+  - /
 _createdAt: '2019-02-12T13:01:46Z'
 _updatedAt: '2021-03-25T20:09:26Z'
 date: '2019-02-12T13:01:46+00:00'

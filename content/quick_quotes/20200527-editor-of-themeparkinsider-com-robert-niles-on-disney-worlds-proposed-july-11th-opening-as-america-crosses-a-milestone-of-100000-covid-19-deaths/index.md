@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/editor-of-themeparkinsider-com-robert-niles-on-disney-worlds-proposed-july-11th-opening-as-america-crosses-a-milestone-of-100000-covid-19-deaths/
+    /editor-of-themeparkinsider-com-robert-niles-on-disney-worlds-proposed-july-11th-opening-as-america-crosses-a-milestone-of-100000-covid-19-deaths/
 _createdAt: '2020-05-28T01:52:09Z'
 _updatedAt: '2021-04-17T09:20:56Z'
 date: '2020-05-28T01:52:09+00:00'

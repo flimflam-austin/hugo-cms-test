@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28Pfki
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-30-smarther-disney/
+  - /
 _createdAt: '2018-05-31T10:58:38Z'
 _updatedAt: '2021-03-26T00:55:48Z'
 date: '2018-05-31T10:58:38+00:00'

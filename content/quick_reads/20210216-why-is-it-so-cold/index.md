@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2LN54Z
 type: quick_reads
 draft: false
 aliases:
-  - why-is-it-so-cold/
+  - /
 _createdAt: '2021-03-31T00:08:47Z'
 _updatedAt: '2021-03-31T00:08:47Z'
 date: '2021-02-16T22:43:00.000Z'

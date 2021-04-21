@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnZsB
 type: video_posts
 draft: false
 aliases:
-  - article/promising-news-on-covid-19/
+  - /promising-news-on-covid-19/
 _createdAt: '2020-07-02T15:58:06Z'
 _updatedAt: '2021-04-17T09:25:03Z'
 date: '2020-07-02T15:58:06+00:00'

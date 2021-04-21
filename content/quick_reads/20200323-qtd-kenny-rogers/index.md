@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3nozd
 type: quick_reads
 draft: false
 aliases:
-  - qtd-kenny-rogers/
+  - /
 _createdAt: '2021-04-02T23:19:49Z'
 _updatedAt: '2021-04-02T23:19:49Z'
 date: '2020-03-23T21:03:00.000Z'

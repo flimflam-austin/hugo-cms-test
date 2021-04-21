@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgb3I
 type: video_posts
 draft: false
 aliases:
-  - article/another-spotlight-article-example/
+  - /another-spotlight-article-example/
 _createdAt: '2019-07-30T15:51:07Z'
 _updatedAt: '2021-04-17T09:23:37Z'
 date: '2019-07-30T15:51:07+00:00'

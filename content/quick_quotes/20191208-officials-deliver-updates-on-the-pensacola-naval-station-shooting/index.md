@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HcjQy
 type: quick_quotes
 draft: false
 aliases:
-  - article/officials-deliver-updates-on-the-pensacola-naval-station-shooting/
+  - /officials-deliver-updates-on-the-pensacola-naval-station-shooting/
 _createdAt: '2019-12-07T02:26:26Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2019-12-07T02:26:26+00:00'

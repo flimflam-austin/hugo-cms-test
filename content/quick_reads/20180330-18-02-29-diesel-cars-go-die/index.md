@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF03C
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-29-diesel-cars-go-die/
+  - /
 _createdAt: '2018-03-30T10:30:12Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-30T10:30:12+00:00'

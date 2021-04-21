@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wGv0n
 type: quick_reads
 draft: false
 aliases:
-  - 19-02-08-qtd-john-dingell/
+  - /
 _createdAt: '2019-02-08T14:18:35Z'
 _updatedAt: '2021-03-25T20:12:05Z'
 date: '2019-02-08T14:18:35+00:00'

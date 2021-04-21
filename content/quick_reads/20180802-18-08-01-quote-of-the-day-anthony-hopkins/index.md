@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-01-quote-of-the-day-anthony-hopkins/
+  - /
 _createdAt: '2018-08-02T11:50:14Z'
 _updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-08-02T11:50:14+00:00'

@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rTJB
 type: video_posts
 draft: false
 aliases:
-  - article/calm-facts-during-turbulent-times/
+  - /calm-facts-during-turbulent-times/
 _createdAt: '2020-08-27T02:34:58Z'
 _updatedAt: '2021-04-17T09:23:51Z'
 date: '2020-08-27T02:34:58+00:00'

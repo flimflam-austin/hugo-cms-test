@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDXEQo
 type: quick_reads
 draft: false
 aliases:
-  - covid-19-air-travel/
+  - /
 _createdAt: '2021-04-02T19:23:35Z'
 _updatedAt: '2021-04-02T19:50:54Z'
 date: '2020-05-06T05:18:00.000Z'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJs95aN
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-05-god-key-discipline/
+  - /
 _createdAt: '2018-06-07T11:02:47Z'
 _updatedAt: '2021-03-26T01:08:06Z'
 date: '2018-06-07T11:02:47+00:00'

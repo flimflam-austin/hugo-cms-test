@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wG5af
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-17-presidents-day/
+  - /
 _createdAt: '2021-02-15T07:00:52Z'
 _updatedAt: '2021-03-25T19:59:13Z'
 date: '2021-02-15T07:00:52+00:00'

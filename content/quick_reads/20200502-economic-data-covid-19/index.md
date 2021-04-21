@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3eupZ
 type: quick_reads
 draft: false
 aliases:
-  - economic-data-covid-19/
+  - /
 _createdAt: '2021-04-02T19:51:36Z'
 _updatedAt: '2021-04-02T19:54:02Z'
 date: '2020-05-02T07:06:00.000Z'

@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/41-paris-region-hospital-doctors-writing-in-le-journal-du-dimanche-to-french-political-leadership-on-a-shortage-of-supplies-in-light-of-a-recent-increase-in-covid-19-hospitalizations/
+    /41-paris-region-hospital-doctors-writing-in-le-journal-du-dimanche-to-french-political-leadership-on-a-shortage-of-supplies-in-light-of-a-recent-increase-in-covid-19-hospitalizations/
 _createdAt: '2021-04-01T01:19:39Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-29T19:56:00.000Z'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxzyS7
 type: quick_reads
 draft: false
 aliases:
-  - chief-of-staff-changes-investigations-what-to-know/
+  - /
 _createdAt: '2018-12-10T13:14:43Z'
 _updatedAt: '2021-03-28T01:00:57Z'
 date: '2018-12-10T13:14:43+00:00'

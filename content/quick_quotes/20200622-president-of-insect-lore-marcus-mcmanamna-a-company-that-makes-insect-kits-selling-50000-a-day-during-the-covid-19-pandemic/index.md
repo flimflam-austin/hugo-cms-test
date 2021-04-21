@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/president-of-insect-lore-marcus-mcmanamna-a-company-that-makes-insect-kits-selling-50000-a-day-during-the-covid-19-pandemic/
+    /president-of-insect-lore-marcus-mcmanamna-a-company-that-makes-insect-kits-selling-50000-a-day-during-the-covid-19-pandemic/
 _createdAt: '2020-06-23T04:01:04Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-06-23T04:01:04+00:00'

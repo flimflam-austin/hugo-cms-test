@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wJfG9
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-08-national-prayer-breakfast/
+  - /
 _createdAt: '2018-02-08T17:00:16Z'
 _updatedAt: '2021-03-25T20:52:24Z'
 date: '2018-02-08T17:00:16+00:00'

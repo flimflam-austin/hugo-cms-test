@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7Hnadz
 type: video_posts
 draft: false
 aliases:
-  - article/the-news-you-need-to-start-your-week/
+  - /the-news-you-need-to-start-your-week/
 _createdAt: '2021-01-18T17:45:12Z'
 _updatedAt: '2021-04-17T09:25:15Z'
 date: '2021-01-18T17:45:12+00:00'

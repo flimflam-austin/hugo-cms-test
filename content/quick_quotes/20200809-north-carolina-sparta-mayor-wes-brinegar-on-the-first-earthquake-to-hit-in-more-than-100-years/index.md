@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/north-carolina-sparta-mayor-wes-brinegar-on-the-first-earthquake-to-hit-in-more-than-100-years/
+    /north-carolina-sparta-mayor-wes-brinegar-on-the-first-earthquake-to-hit-in-more-than-100-years/
 _createdAt: '2020-08-09T13:46:52Z'
 _updatedAt: '2021-04-17T09:22:23Z'
 date: '2020-08-09T13:46:52+00:00'

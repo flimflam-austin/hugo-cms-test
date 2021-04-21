@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDchHK
 type: quick_reads
 draft: false
 aliases:
-  - white-house-task-force-march-25/
+  - /
 _createdAt: '2021-04-02T22:44:23Z'
 _updatedAt: '2021-04-02T22:51:06Z'
 date: '2020-03-26T09:49:00.000Z'

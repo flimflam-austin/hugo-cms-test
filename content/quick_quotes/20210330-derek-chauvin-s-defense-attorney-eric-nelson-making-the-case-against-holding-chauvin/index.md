@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/derek-chauvins-defense-attorney-eric-nelson-making-the-case-against-holding-chauvin-responsible-for-george-floyds-death/
+    /derek-chauvins-defense-attorney-eric-nelson-making-the-case-against-holding-chauvin-responsible-for-george-floyds-death/
 _createdAt: '2021-04-01T00:14:55Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-03-30T09:42:00.000Z'

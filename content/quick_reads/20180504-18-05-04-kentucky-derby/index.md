@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28FVV4
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-04-kentucky-derby/
+  - /
 _createdAt: '2018-05-04T10:55:21Z'
 _updatedAt: '2021-03-25T23:44:28Z'
 date: '2018-05-04T10:55:21+00:00'

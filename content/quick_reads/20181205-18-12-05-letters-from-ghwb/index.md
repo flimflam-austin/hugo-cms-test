@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF2ZC
 type: quick_reads
 draft: false
 aliases:
-  - 18-12-05-letters-from-ghwb/
+  - /
 _createdAt: '2018-12-05T12:24:08Z'
 _updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-12-05T12:24:08+00:00'

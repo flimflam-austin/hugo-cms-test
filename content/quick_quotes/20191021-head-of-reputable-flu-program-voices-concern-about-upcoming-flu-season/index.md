@@ -7,8 +7,7 @@ _rev: g1HhvQfTBY7k1oIqmTaV2W
 type: quick_quotes
 draft: false
 aliases:
-  - >-
-    article/head-of-reputable-flu-program-voices-concern-about-upcoming-flu-season/
+  - /head-of-reputable-flu-program-voices-concern-about-upcoming-flu-season/
 _createdAt: '2019-10-21T20:22:50Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2019-10-21T20:22:50+00:00'

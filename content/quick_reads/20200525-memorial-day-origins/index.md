@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDUhrC
 type: quick_reads
 draft: false
 aliases:
-  - memorial-day-origins/
+  - /
 _createdAt: '2021-04-02T18:52:09Z'
 _updatedAt: '2021-04-02T18:52:09Z'
 date: '2020-05-25T09:12:00.000Z'

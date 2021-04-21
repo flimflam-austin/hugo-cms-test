@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgd8y
 type: video_posts
 draft: false
 aliases:
-  - article/coffee-talk-thursday-jan-41st/
+  - /coffee-talk-thursday-jan-41st/
 _createdAt: '2019-10-01T22:02:11Z'
 _updatedAt: '2021-04-17T09:24:13Z'
 date: '2019-10-01T22:02:11+00:00'

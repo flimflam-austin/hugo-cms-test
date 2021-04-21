@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rWsx
 type: video_posts
 draft: false
 aliases:
-  - article/video-what-to-know-election-week/
+  - /video-what-to-know-election-week/
 _createdAt: '2020-11-02T08:13:19Z'
 _updatedAt: '2021-04-17T09:24:59Z'
 date: '2020-11-02T08:13:19+00:00'

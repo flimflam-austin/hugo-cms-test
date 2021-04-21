@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJuYM0K
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-24-saving-private-ryan-turns-20/
+  - /
 _createdAt: '2018-07-24T22:42:37Z'
 _updatedAt: '2021-03-26T17:41:11Z'
 date: '2018-07-24T22:42:37+00:00'

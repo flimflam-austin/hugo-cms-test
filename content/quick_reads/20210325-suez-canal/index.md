@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532bsMH
 type: quick_reads
 draft: false
 aliases:
-  - suez-canal/
+  - /
 _createdAt: '2021-03-30T20:15:04Z'
 _updatedAt: '2021-03-30T20:15:04Z'
 date: '2021-03-25T20:01:00.000Z'

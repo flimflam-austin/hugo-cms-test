@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2B0T8A
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-23-hawaiian-hurricane/
+  - /
 _createdAt: '2018-08-23T11:12:52Z'
 _updatedAt: '2021-03-26T20:16:23Z'
 date: '2018-08-23T11:12:52+00:00'

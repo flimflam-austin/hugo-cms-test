@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rXLB
 type: video_posts
 draft: false
 aliases:
-  - article/walden-excerpt-from-thoreau/
+  - /walden-excerpt-from-thoreau/
 _createdAt: '2019-05-30T16:05:14Z'
 _updatedAt: '2021-04-17T09:25:08Z'
 date: '2019-05-30T16:05:14+00:00'

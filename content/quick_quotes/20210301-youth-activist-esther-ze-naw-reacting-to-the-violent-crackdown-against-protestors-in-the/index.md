@@ -12,7 +12,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/youth-activist-esther-ze-naw-reacting-to-the-violent-crackdown-against-protestors-in-the-country-of-myanmar-where-the-military-coup-has-led-to-weeks-of-demonstrations-the-united-nations-called-sunday/
+    /youth-activist-esther-ze-naw-reacting-to-the-violent-crackdown-against-protestors-in-the-country-of-myanmar-where-the-military-coup-has-led-to-weeks-of-demonstrations-the-united-nations-called-sunday/
 _createdAt: '2021-04-01T02:24:55Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-01T05:44:00.000Z'

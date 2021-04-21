@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28EDIA
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-02-quote-stack/
+  - /
 _createdAt: '2018-05-02T10:52:54Z'
 _updatedAt: '2021-03-25T23:31:52Z'
 date: '2018-05-02T10:52:54+00:00'

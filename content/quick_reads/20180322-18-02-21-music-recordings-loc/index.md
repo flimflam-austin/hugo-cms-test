@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wPj8v
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-21-music-recordings-loc/
+  - /
 _createdAt: '2018-03-22T10:56:29Z'
 _updatedAt: '2021-03-25T22:32:43Z'
 date: '2018-03-22T10:56:29+00:00'

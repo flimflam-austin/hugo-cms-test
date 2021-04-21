@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4tf1zr
 type: quick_reads
 draft: false
 aliases:
-  - children-and-covid/
+  - /
 _createdAt: '2021-04-02T20:58:56Z'
 _updatedAt: '2021-04-02T20:58:56Z'
 date: '2020-04-07T08:05:00.000Z'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28RKgA
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-11-amanda-southworth/
+  - /
 _createdAt: '2018-06-11T10:46:57Z'
 _updatedAt: '2021-03-26T01:13:28Z'
 date: '2018-06-11T10:46:57+00:00'

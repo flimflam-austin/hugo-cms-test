@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/economist-pooja-sriram-barclays-on-a-slight-rise-in-consumer-spending-last-month-the-data-released-on-the-same-day-as-the-u-s-reported-an-increase-in-the-number-of-americans-filing-for-first-tim/
+    /economist-pooja-sriram-barclays-on-a-slight-rise-in-consumer-spending-last-month-the-data-released-on-the-same-day-as-the-u-s-reported-an-increase-in-the-number-of-americans-filing-for-first-tim/
 _createdAt: '2020-11-25T20:20:41Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-11-25T20:20:41+00:00'

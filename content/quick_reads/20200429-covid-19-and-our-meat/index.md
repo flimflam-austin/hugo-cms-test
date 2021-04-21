@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDXSd4
 type: quick_reads
 draft: false
 aliases:
-  - ovid-19-and-our-meat/
+  - /
 _createdAt: '2021-04-02T19:59:15Z'
 _updatedAt: '2021-04-02T19:59:15Z'
 date: '2020-04-29T07:44:00.000Z'

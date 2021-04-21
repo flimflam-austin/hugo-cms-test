@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTav4i
 type: quick_quotes
 draft: false
 aliases:
-  - article/san-antonio-and-covid/
+  - /san-antonio-and-covid/
 _createdAt: '2020-07-06T03:11:23Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-07-06T03:11:23+00:00'

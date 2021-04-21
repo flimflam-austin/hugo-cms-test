@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HcprM
 type: quick_quotes
 draft: false
 aliases:
-  - article/sen-tim-scott-rayshard-brooks/
+  - /sen-tim-scott-rayshard-brooks/
 _createdAt: '2020-06-14T22:56:02Z'
 _updatedAt: '2021-04-17T09:16:21Z'
 date: '2020-06-14T22:56:02+00:00'

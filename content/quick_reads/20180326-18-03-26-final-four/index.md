@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wPxLx
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-26-final-four/
+  - /
 _createdAt: '2018-03-26T08:00:59Z'
 _updatedAt: '2021-03-25T22:37:38Z'
 date: '2018-03-26T08:00:59+00:00'

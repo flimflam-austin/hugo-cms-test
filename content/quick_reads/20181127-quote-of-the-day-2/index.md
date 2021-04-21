@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DHj0x
 type: quick_reads
 draft: false
 aliases:
-  - quote-of-the-day-2/
+  - /
 _createdAt: '2018-11-27T12:22:16Z'
 _updatedAt: '2021-03-28T00:30:17Z'
 date: '2018-11-27T12:22:16+00:00'

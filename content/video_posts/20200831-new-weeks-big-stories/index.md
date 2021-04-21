@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rWgr
 type: video_posts
 draft: false
 aliases:
-  - article/new-weeks-big-stories/
+  - /new-weeks-big-stories/
 _createdAt: '2020-08-31T21:17:09Z'
 _updatedAt: '2021-04-17T09:24:58Z'
 date: '2020-08-31T21:17:09+00:00'

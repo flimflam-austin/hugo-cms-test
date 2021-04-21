@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7Hck4o
 type: quick_quotes
 draft: false
 aliases:
-  - article/amazingrescue/
+  - /amazingrescue/
 _createdAt: '2020-08-05T14:34:42Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-08-05T14:34:42+00:00'

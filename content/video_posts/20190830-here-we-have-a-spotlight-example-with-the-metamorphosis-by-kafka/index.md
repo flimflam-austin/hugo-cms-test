@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnSI5
 type: video_posts
 draft: false
 aliases:
-  - article/here-we-have-a-spotlight-example-with-the-metamorphosis-by-kafka/
+  - /here-we-have-a-spotlight-example-with-the-metamorphosis-by-kafka/
 _createdAt: '2019-06-30T16:04:14Z'
 _updatedAt: '2021-04-17T09:23:49Z'
 date: '2019-06-30T16:04:14+00:00'

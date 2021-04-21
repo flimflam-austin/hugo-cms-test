@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wVBZ7
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-15-summer-gas-prices/
+  - /
 _createdAt: '2018-05-16T10:34:51Z'
 _updatedAt: '2021-03-26T00:17:22Z'
 date: '2018-05-16T10:34:51+00:00'

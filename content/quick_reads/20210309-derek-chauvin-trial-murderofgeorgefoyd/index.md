@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532mlVN
 type: quick_reads
 draft: false
 aliases:
-  - derek-chauvin-trial-murder-of-george-floyd/
+  - /
 _createdAt: '2021-03-30T21:56:20Z'
 _updatedAt: '2021-03-30T21:56:20Z'
 date: '2021-03-09T11:50:00.000Z'

@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgdrU
 type: video_posts
 draft: false
 aliases:
-  - article/quick-bites-high-quality/
+  - /quick-bites-high-quality/
 _createdAt: '2020-06-17T16:22:15Z'
 _updatedAt: '2021-04-17T09:24:22Z'
 date: '2020-06-17T16:22:15+00:00'

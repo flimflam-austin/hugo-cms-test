@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTarSC
 type: quick_quotes
 draft: false
 aliases:
-  - article/minn-first-vote-on-disbanding-police/
+  - /minn-first-vote-on-disbanding-police/
 _createdAt: '2020-06-26T11:40:51Z'
 _updatedAt: '2021-04-17T09:21:17Z'
 date: '2020-06-26T11:40:51+00:00'

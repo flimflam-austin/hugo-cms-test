@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-06-norovirus-hits-olympics/
+  - /
 _createdAt: '2018-02-06T23:43:29Z'
 _updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-06T23:43:29+00:00'

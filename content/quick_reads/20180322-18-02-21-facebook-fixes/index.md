@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJroge5
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-21-facebook-fixes/
+  - /
 _createdAt: '2018-03-22T10:41:02Z'
 _updatedAt: '2021-03-25T22:29:27Z'
 date: '2018-03-22T10:41:02+00:00'

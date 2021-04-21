@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4t35fT
 type: quick_reads
 draft: false
 aliases:
-  - rosie-the-riveter/
+  - /
 _createdAt: '2021-04-02T17:59:25Z'
 _updatedAt: '2021-04-02T17:59:25Z'
 date: '2020-06-26T00:48:00.000Z'

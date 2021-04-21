@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wWvS9
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-29-nba-finals/
+  - /
 _createdAt: '2018-05-29T10:17:04Z'
 _updatedAt: '2021-03-26T00:47:10Z'
 date: '2018-05-29T10:17:04+00:00'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r35dlt
 type: quick_reads
 draft: false
 aliases:
-  - qtd-carl-reiner/
+  - /
 _createdAt: '2021-04-02T07:21:46Z'
 _updatedAt: '2021-04-02T07:21:46Z'
 date: '2020-07-01T04:40:00.000Z'

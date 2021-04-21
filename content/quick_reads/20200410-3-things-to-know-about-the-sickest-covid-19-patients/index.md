@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4tYnKF
 type: quick_reads
 draft: false
 aliases:
-  - 3-things-to-know-about-the-sickest-covid-19-patients/
+  - /
 _createdAt: '2021-04-02T20:31:58Z'
 _updatedAt: '2021-04-02T20:31:58Z'
 date: '2020-04-10T05:40:00.000Z'

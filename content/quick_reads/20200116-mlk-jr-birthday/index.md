@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4mseX
 type: quick_reads
 draft: false
 aliases:
-  - mlk-jr-birthday/
+  - /
 _createdAt: '2021-04-04T07:41:50Z'
 _updatedAt: '2021-04-04T07:41:50Z'
 date: '2020-01-16T05:18:00.000Z'

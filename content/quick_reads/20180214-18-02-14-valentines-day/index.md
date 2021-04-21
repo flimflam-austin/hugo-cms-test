@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wMIOD
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-14-valentines-day/
+  - /
 _createdAt: '2018-02-14T11:42:19Z'
 _updatedAt: '2021-03-25T21:39:45Z'
 date: '2018-02-14T11:42:19+00:00'

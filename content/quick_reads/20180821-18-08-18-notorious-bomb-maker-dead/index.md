@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-18-notorious-bomb-maker-dead/
+  - /
 _createdAt: '2018-08-21T11:58:58Z'
 _updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-08-21T11:58:58+00:00'

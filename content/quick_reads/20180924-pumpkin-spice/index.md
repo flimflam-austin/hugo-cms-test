@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2D8ura
 type: quick_reads
 draft: false
 aliases:
-  - pumpkin-spice/
+  - /
 _createdAt: '2018-09-24T13:14:49Z'
 _updatedAt: '2021-03-27T22:32:10Z'
 date: '2018-09-24T13:14:49+00:00'

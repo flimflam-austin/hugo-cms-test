@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28K2RS
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-12-iraqi-election/
+  - /
 _createdAt: '2018-05-14T11:00:04Z'
 _updatedAt: '2021-03-26T00:12:37Z'
 date: '2018-05-14T11:00:04+00:00'

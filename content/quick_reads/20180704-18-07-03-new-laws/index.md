@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452waUWT
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-03-new-laws/
+  - /
 _createdAt: '2018-07-03T11:00:23Z'
 _updatedAt: '2021-03-26T02:10:47Z'
 date: '2018-07-03T11:00:23+00:00'

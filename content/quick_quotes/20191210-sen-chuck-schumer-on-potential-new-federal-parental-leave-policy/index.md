@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTauv2
 type: quick_quotes
 draft: false
 aliases:
-  - article/sen-chuck-schumer-on-potential-new-federal-parental-leave-policy/
+  - /sen-chuck-schumer-on-potential-new-federal-parental-leave-policy/
 _createdAt: '2019-12-10T16:08:45Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2019-12-10T16:08:45+00:00'

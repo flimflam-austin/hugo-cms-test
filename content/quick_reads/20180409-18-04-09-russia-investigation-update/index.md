@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-09-russia-investigation-update/
+  - /
 _createdAt: '2018-04-09T10:31:41Z'
 _updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-09T10:31:41+00:00'

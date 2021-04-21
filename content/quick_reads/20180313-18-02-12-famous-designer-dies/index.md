@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wP9YT
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-12-famous-designer-dies/
+  - /
 _createdAt: '2018-03-13T10:08:50Z'
 _updatedAt: '2021-03-25T22:19:04Z'
 date: '2018-03-13T10:08:50+00:00'

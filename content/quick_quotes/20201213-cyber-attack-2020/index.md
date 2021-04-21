@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7HdJ22
 type: quick_quotes
 draft: false
 aliases:
-  - article/cyber-attack-2020/
+  - /cyber-attack-2020/
 _createdAt: '2020-12-14T04:53:39Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-12-14T04:53:39+00:00'

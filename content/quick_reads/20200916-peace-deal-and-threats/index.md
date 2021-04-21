@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCyJws
 type: quick_reads
 draft: false
 aliases:
-  - peace-deal-and-threats/
+  - /
 _createdAt: '2021-04-01T22:36:02Z'
 _updatedAt: '2021-04-01T22:36:02Z'
 date: '2020-09-16T10:31:00.000Z'

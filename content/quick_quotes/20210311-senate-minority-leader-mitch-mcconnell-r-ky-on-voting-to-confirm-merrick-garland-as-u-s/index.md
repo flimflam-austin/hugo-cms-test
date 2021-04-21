@@ -10,7 +10,7 @@ _rev: g1HhvQfTBY7k1oIqmTaOhc
 type: quick_quotes
 draft: false
 aliases:
-  - article/garland-confirmation-vote/
+  - /garland-confirmation-vote/
 _createdAt: '2021-04-01T01:53:11Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-11T07:00:00.000Z'

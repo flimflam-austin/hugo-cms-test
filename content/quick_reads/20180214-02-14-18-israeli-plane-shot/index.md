@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wMNHh
 type: quick_reads
 draft: false
 aliases:
-  - 02-14-18-israeli-plane-shot/
+  - /
 _createdAt: '2018-02-14T14:00:50Z'
 _updatedAt: '2021-03-25T21:40:48Z'
 date: '2018-02-14T14:00:50+00:00'

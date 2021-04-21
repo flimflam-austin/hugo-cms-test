@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/bike-industry-analyst-jay-townley-human-powered-solutions-on-the-spike-in-bicycle-sales-during-the-covid-19-pandemic/
+    /bike-industry-analyst-jay-townley-human-powered-solutions-on-the-spike-in-bicycle-sales-during-the-covid-19-pandemic/
 _createdAt: '2020-06-15T11:37:30Z'
 _updatedAt: '2021-04-17T09:17:01Z'
 date: '2020-06-15T11:37:30+00:00'

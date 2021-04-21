@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq27ico2
 type: quick_reads
 draft: false
 aliases:
-  - 19-02-08-fat-pets/
+  - /
 _createdAt: '2019-02-08T14:04:32Z'
 _updatedAt: '2021-03-25T20:12:45Z'
 date: '2019-02-08T14:04:32+00:00'

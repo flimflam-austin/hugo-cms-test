@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2AdyV9
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-18-mosquitoes/
+  - /
 _createdAt: '2018-07-19T14:28:17Z'
 _updatedAt: '2021-03-26T17:30:28Z'
 date: '2018-07-19T14:28:17+00:00'

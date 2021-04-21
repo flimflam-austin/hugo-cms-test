@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJv1GPi
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-25-mccain/
+  - /
 _createdAt: '2018-08-25T15:02:20Z'
 _updatedAt: '2021-03-26T20:19:40Z'
 date: '2018-08-25T15:02:20+00:00'

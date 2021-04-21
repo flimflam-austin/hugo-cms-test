@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7Hna87
 type: video_posts
 draft: false
 aliases:
-  - article/should-wearing-a-mask-be-like-wearing-a-seatbelt/
+  - /should-wearing-a-mask-be-like-wearing-a-seatbelt/
 _createdAt: '2020-06-29T15:45:20Z'
 _updatedAt: '2021-04-17T09:25:06Z'
 date: '2020-06-29T15:45:20+00:00'

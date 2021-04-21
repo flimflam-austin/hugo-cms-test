@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDD5fYs
 type: quick_reads
 draft: false
 aliases:
-  - 2020-football-season/
+  - /
 _createdAt: '2021-04-02T03:51:06Z'
 _updatedAt: '2021-04-02T03:54:04Z'
 date: '2020-08-15T01:20:00.000Z'

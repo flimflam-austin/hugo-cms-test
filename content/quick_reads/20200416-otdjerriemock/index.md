@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDXw4c
 type: quick_reads
 draft: false
 aliases:
-  - otdjerriemock/
+  - /
 _createdAt: '2021-04-02T20:17:16Z'
 _updatedAt: '2021-04-02T20:17:16Z'
 date: '2020-04-16T22:19:00.000Z'

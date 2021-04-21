@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-27-spam-calls/
+  - /
 _createdAt: '2018-07-27T11:56:53Z'
 _updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-27T11:56:53+00:00'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wUva9
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-11-father-benoka/
+  - /
 _createdAt: '2018-05-11T21:35:13Z'
 _updatedAt: '2021-03-26T00:11:02Z'
 date: '2018-05-11T21:35:13+00:00'

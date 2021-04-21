@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/cdc-advising-a-salmonella-outbreak-impacting-43-u-s-states-including-red-white-yellow-sweet-onions/
+    /cdc-advising-a-salmonella-outbreak-impacting-43-u-s-states-including-red-white-yellow-sweet-onions/
 _createdAt: '2020-08-10T10:50:11Z'
 _updatedAt: '2021-04-17T09:16:56Z'
 date: '2020-08-10T10:50:11+00:00'

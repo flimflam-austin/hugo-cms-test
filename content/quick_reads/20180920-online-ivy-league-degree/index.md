@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2D8D8I
 type: quick_reads
 draft: false
 aliases:
-  - online-ivy-league-degree/
+  - /
 _createdAt: '2018-09-20T11:59:28Z'
 _updatedAt: '2021-03-27T22:20:06Z'
 date: '2018-09-20T11:59:28+00:00'

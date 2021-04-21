@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28Ovzm
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-30-italy-government/
+  - /
 _createdAt: '2018-05-30T10:18:43Z'
 _updatedAt: '2021-03-26T00:47:42Z'
 date: '2018-05-30T10:18:43+00:00'

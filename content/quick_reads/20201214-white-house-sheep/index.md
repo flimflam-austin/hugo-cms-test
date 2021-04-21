@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4ifZSJ
 type: quick_reads
 draft: false
 aliases:
-  - white-house-sheep/
+  - /
 _createdAt: '2021-03-31T18:45:43Z'
 _updatedAt: '2021-03-31T18:45:43Z'
 date: '2020-12-14T11:06:00.000Z'

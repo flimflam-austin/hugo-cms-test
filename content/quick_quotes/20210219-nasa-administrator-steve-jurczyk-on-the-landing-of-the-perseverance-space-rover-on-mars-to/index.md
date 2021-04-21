@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/nasa-administrator-steve-jurczyk-on-the-landing-of-the-perseverance-space-rover-on-mars-to-mine-an-ancient-lakebed-for-signs-of-life-only-about-half-of-previous-expeditions-to-the-red-planet-have-bee/
+    /nasa-administrator-steve-jurczyk-on-the-landing-of-the-perseverance-space-rover-on-mars-to-mine-an-ancient-lakebed-for-signs-of-life-only-about-half-of-previous-expeditions-to-the-red-planet-have-bee/
 _createdAt: '2021-04-01T11:25:36Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-02-19T13:21:00.000Z'

@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgbe4
 type: video_posts
 draft: false
 aliases:
-  - article/should-america-lockdown-again/
+  - /should-america-lockdown-again/
 _createdAt: '2020-08-10T12:41:16Z'
 _updatedAt: '2021-04-17T09:23:48Z'
 date: '2020-08-10T12:41:16+00:00'

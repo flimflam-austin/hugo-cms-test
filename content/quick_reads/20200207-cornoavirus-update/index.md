@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4kkvZ
 type: quick_reads
 draft: false
 aliases:
-  - cornoavirus-update/
+  - /
 _createdAt: '2021-04-04T06:29:16Z'
 _updatedAt: '2021-04-04T06:29:16Z'
 date: '2020-02-07T22:06:00.000Z'

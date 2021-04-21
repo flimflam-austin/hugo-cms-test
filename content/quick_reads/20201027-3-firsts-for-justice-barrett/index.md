@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2Xygb
 type: quick_reads
 draft: false
 aliases:
-  - 3-firsts-for-justice-barrett/
+  - /
 _createdAt: '2021-04-01T18:13:11Z'
 _updatedAt: '2021-04-01T18:13:11Z'
 date: '2020-10-27T07:14:00.000Z'

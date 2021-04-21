@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDV8UY
 type: quick_reads
 draft: false
 aliases:
-  - number-two-and-covid-19/
+  - /
 _createdAt: '2021-04-02T19:07:10Z'
 _updatedAt: '2021-04-02T19:07:37Z'
 date: '2020-05-14T11:30:00.000Z'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsBm22
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-18-baseball-attendance/
+  - /
 _createdAt: '2018-06-18T11:03:01Z'
 _updatedAt: '2021-03-26T01:36:54Z'
 date: '2018-06-18T11:03:01+00:00'

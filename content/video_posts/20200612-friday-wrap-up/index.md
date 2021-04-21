@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rTD8
 type: video_posts
 draft: false
 aliases:
-  - article/friday-wrap-up/
+  - /friday-wrap-up/
 _createdAt: '2020-06-12T22:21:29Z'
 _updatedAt: '2021-04-17T09:23:50Z'
 date: '2020-06-12T22:21:29+00:00'

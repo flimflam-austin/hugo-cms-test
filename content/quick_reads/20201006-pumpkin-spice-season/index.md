@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCsStC
 type: quick_reads
 draft: false
 aliases:
-  - pumpkin-spice-season/
+  - /
 _createdAt: '2021-04-01T19:15:49Z'
 _updatedAt: '2021-04-01T19:15:49Z'
 date: '2020-10-06T04:04:00.000Z'

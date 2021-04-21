@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrnaoc
 type: quick_reads
 draft: false
 aliases:
-  - 2018-03-13-trump-blocks-broadcom/
+  - /
 _createdAt: '2018-03-13T10:18:02Z'
 _updatedAt: '2021-03-25T22:19:56Z'
 date: '2018-03-13T10:18:02+00:00'

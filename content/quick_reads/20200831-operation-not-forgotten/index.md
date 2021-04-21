@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCzVxW
 type: quick_reads
 draft: false
 aliases:
-  - operation-not-forgotten/
+  - /
 _createdAt: '2021-04-01T23:17:40Z'
 _updatedAt: '2021-04-01T23:17:40Z'
 date: '2020-08-31T09:54:00.000Z'

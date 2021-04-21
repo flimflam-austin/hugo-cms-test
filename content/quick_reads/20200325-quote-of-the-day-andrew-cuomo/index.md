@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4u2LCN
 type: quick_reads
 draft: false
 aliases:
-  - quote-of-the-day-andrew-cuomo/
+  - /
 _createdAt: '2021-04-02T23:12:36Z'
 _updatedAt: '2021-04-02T23:12:36Z'
 date: '2020-03-25T03:13:00.000Z'

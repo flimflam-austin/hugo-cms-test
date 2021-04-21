@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4j65h
 type: quick_reads
 draft: false
 aliases:
-  - comparing-the-flu-response/
+  - /
 _createdAt: '2021-04-04T05:26:35Z'
 _updatedAt: '2021-04-04T05:26:35Z'
 date: '2020-03-15T05:21:00.000Z'

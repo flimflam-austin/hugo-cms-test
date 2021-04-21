@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/13-year-old-caleb-chung-who-volunteered-to-be-part-of-the-pfizer-covid-19-vaccine-study-for-younger-adults-12-15-years-old-early-results-show-the-vaccine-to-be-100-effective/
+    /13-year-old-caleb-chung-who-volunteered-to-be-part-of-the-pfizer-covid-19-vaccine-study-for-younger-adults-12-15-years-old-early-results-show-the-vaccine-to-be-100-effective/
 _createdAt: '2021-03-31T23:01:11Z'
 _updatedAt: '2021-04-17T08:36:03Z'
 date: '2021-04-01T00:20:00.000Z'

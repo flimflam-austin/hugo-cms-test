@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3ieSr
 type: quick_reads
 draft: false
 aliases:
-  - quote-of-the-day-dolly-parton/
+  - /
 _createdAt: '2021-04-02T21:20:25Z'
 _updatedAt: '2021-04-02T21:20:25Z'
 date: '2020-04-01T03:33:00.000Z'

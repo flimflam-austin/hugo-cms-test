@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJv16QS
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-24-notre-dame/
+  - /
 _createdAt: '2018-08-25T04:39:00Z'
 _updatedAt: '2021-03-26T20:18:36Z'
 date: '2018-08-25T04:39:00+00:00'

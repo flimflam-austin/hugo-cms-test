@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK71oCC
 type: quick_reads
 draft: false
 aliases:
-  - navalny-supporter/
+  - /
 _createdAt: '2021-03-31T00:18:25Z'
 _updatedAt: '2021-03-31T00:18:25Z'
 date: '2021-02-14T23:18:00.000Z'

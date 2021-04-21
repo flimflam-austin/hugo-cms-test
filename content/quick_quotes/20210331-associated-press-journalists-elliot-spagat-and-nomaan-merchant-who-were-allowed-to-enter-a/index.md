@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/associated-press-journalists-elliot-spagat-and-nomaan-merchant-who-were-allowed-to-enter-a-federal-govt-facility-for-families-and-minors-coming-across-the-u-s-southern-border-one-of-only/
+    /associated-press-journalists-elliot-spagat-and-nomaan-merchant-who-were-allowed-to-enter-a-federal-govt-facility-for-families-and-minors-coming-across-the-u-s-southern-border-one-of-only/
 _createdAt: '2021-03-31T23:11:41Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-31T11:37:00.000Z'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xYHrR
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-09-americans-choose-spirits/
+  - /
 _createdAt: '2018-08-10T11:55:20Z'
 _updatedAt: '2021-03-26T19:51:11Z'
 date: '2018-08-10T11:55:20+00:00'

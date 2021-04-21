@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rR86
 type: video_posts
 draft: false
 aliases:
-  - article/video-your-smarther-starters/
+  - /video-your-smarther-starters/
 _createdAt: '2021-04-01T05:17:35Z'
 _updatedAt: '2021-04-17T09:23:08Z'
 date: '2021-03-29T18:28:00.000Z'

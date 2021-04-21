@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28TiSL
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-19-return-of-the-plague/
+  - /
 _createdAt: '2018-06-19T10:44:29Z'
 _updatedAt: '2021-03-26T01:38:41Z'
 date: '2018-06-19T10:44:29+00:00'

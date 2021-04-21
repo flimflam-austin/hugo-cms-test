@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJy090e
 type: quick_reads
 draft: false
 aliases:
-  - 19-01-08-border-national-emergency/
+  - /
 _createdAt: '2019-01-08T13:19:13Z'
 _updatedAt: '2021-03-28T01:03:45Z'
 date: '2019-01-08T13:19:13+00:00'

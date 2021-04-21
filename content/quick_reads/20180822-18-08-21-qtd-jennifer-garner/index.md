@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJv0KlG
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-21-qtd-jennifer-garner/
+  - /
 _createdAt: '2018-08-22T11:59:56Z'
 _updatedAt: '2021-03-26T20:14:28Z'
 date: '2018-08-22T11:59:56+00:00'

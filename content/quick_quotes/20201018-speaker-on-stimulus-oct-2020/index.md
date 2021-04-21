@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd1MT
 type: quick_quotes
 draft: false
 aliases:
-  - article/speaker-on-stimulus-oct-2020/
+  - /speaker-on-stimulus-oct-2020/
 _createdAt: '2020-10-19T03:37:13Z'
 _updatedAt: '2021-04-17T09:18:35Z'
 date: '2020-10-19T03:37:13+00:00'

@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633ljgn
 type: quick_quotes
 draft: false
 aliases:
-  - article/capt-tom/
+  - /capt-tom/
 _createdAt: '2021-02-04T19:11:44Z'
 _updatedAt: '2021-04-17T09:14:36Z'
 date: '2021-02-04T19:11:44+00:00'

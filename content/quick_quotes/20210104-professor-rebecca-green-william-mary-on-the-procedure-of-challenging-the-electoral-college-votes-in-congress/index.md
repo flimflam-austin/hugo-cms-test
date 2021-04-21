@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/professor-rebecca-green-william-mary-on-the-procedure-of-challenging-the-electoral-college-votes-in-congress/
+    /professor-rebecca-green-william-mary-on-the-procedure-of-challenging-the-electoral-college-votes-in-congress/
 _createdAt: '2021-01-04T05:02:22Z'
 _updatedAt: '2021-04-17T09:19:13Z'
 date: '2021-01-04T05:02:22+00:00'

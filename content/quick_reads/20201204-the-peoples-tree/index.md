@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCmddm
 type: quick_reads
 draft: false
 aliases:
-  - the-peoples-tree/
+  - /
 _createdAt: '2021-04-01T16:25:05Z'
 _updatedAt: '2021-04-01T16:25:05Z'
 date: '2020-12-04T10:08:00.000Z'

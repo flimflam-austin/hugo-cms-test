@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-10-jlo-world-domination-continues/
+  - /
 _createdAt: '2018-04-11T12:51:12Z'
 _updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-11T12:51:12+00:00'

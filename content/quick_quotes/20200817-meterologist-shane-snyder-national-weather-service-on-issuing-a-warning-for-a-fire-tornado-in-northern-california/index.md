@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/meterologist-shane-snyder-national-weather-service-on-issuing-a-warning-for-a-fire-tornado-in-northern-california/
+    /meterologist-shane-snyder-national-weather-service-on-issuing-a-warning-for-a-fire-tornado-in-northern-california/
 _createdAt: '2020-08-17T15:42:19Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-08-17T15:42:19+00:00'

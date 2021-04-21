@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnSzu
 type: video_posts
 draft: false
 aliases:
-  - article/the-final-presidential-debate/
+  - /the-final-presidential-debate/
 _createdAt: '2020-10-23T20:09:26Z'
 _updatedAt: '2021-04-17T09:23:54Z'
 date: '2020-10-23T20:09:26+00:00'

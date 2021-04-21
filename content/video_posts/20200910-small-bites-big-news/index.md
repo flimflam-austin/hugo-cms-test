@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rVC7
 type: video_posts
 draft: false
 aliases:
-  - article/small-bites-big-news/
+  - /small-bites-big-news/
 _createdAt: '2020-09-10T23:06:20Z'
 _updatedAt: '2021-04-17T09:24:26Z'
 date: '2020-09-10T23:06:20+00:00'

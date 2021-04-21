@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wMXWX
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-15-reaction-shooting/
+  - /
 _createdAt: '2018-02-15T21:04:59Z'
 _updatedAt: '2021-03-25T21:44:20Z'
 date: '2018-02-15T21:04:59+00:00'

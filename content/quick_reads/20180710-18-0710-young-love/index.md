@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452was9F
 type: quick_reads
 draft: false
 aliases:
-  - 18-0710-young-love/
+  - /
 _createdAt: '2018-07-11T03:15:38Z'
 _updatedAt: '2021-03-26T02:21:38Z'
 date: '2018-07-11T03:15:38+00:00'

@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTaoCu
 type: quick_quotes
 draft: false
 aliases:
-  - article/birx-on-asymptomatic-spread/
+  - /birx-on-asymptomatic-spread/
 _createdAt: '2020-11-23T03:34:41Z'
 _updatedAt: '2021-04-17T09:20:22Z'
 date: '2020-11-23T03:34:41+00:00'

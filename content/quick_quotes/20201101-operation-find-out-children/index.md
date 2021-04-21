@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTaXiy
 type: quick_quotes
 draft: false
 aliases:
-  - article/operation-find-out-children/
+  - /operation-find-out-children/
 _createdAt: '2020-11-02T02:43:15Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-11-02T02:43:15+00:00'

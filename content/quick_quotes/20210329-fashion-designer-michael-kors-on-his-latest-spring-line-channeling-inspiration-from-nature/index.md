@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/fashion-designer-michael-kors-on-his-latest-spring-line-channeling-inspiration-from-nature-a-common-thread-for-others-in-high-fashion-as-they-developed-the-2021-spring-collection/
+    /fashion-designer-michael-kors-on-his-latest-spring-line-channeling-inspiration-from-nature-a-common-thread-for-others-in-high-fashion-as-they-developed-the-2021-spring-collection/
 _createdAt: '2021-04-01T01:21:14Z'
 _updatedAt: '2021-04-17T08:36:03Z'
 date: '2021-03-29T19:55:00.000Z'

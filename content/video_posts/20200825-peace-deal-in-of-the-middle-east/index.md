@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgcc4
 type: video_posts
 draft: false
 aliases:
-  - article/peace-deal-in-of-the-middle-east/
+  - /peace-deal-in-of-the-middle-east/
 _createdAt: '2020-08-24T18:42:26Z'
 _updatedAt: '2021-04-17T09:24:06Z'
 date: '2020-08-24T18:42:26+00:00'

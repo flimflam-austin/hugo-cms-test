@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DC35g
 type: quick_reads
 draft: false
 aliases:
-  - underage-drinking/
+  - /
 _createdAt: '2018-09-28T11:41:14Z'
 _updatedAt: '2021-03-27T23:07:16Z'
 date: '2018-09-28T11:41:14+00:00'

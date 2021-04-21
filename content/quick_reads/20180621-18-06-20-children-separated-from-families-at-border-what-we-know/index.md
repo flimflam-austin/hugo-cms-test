@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28VJeL
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-20-children-separated-from-families-at-border-what-we-know/
+  - /
 _createdAt: '2018-06-21T09:10:20Z'
 _updatedAt: '2021-03-26T01:45:36Z'
 date: '2018-06-21T09:10:20+00:00'

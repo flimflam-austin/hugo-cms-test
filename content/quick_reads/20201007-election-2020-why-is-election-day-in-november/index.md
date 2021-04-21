@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCsHoU
 type: quick_reads
 draft: false
 aliases:
-  - election-2020-why-is-election-day-in-november/
+  - /
 _createdAt: '2021-04-01T19:07:46Z'
 _updatedAt: '2021-04-01T19:07:46Z'
 date: '2020-10-07T05:48:00.000Z'

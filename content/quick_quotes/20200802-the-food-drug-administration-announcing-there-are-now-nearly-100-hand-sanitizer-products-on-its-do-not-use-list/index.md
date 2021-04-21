@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/the-food-drug-administration-announcing-there-are-now-nearly-100-hand-sanitizer-products-on-its-do-not-use-list/
+    /the-food-drug-administration-announcing-there-are-now-nearly-100-hand-sanitizer-products-on-its-do-not-use-list/
 _createdAt: '2020-08-02T17:48:54Z'
 _updatedAt: '2021-04-17T09:19:50Z'
 date: '2020-08-02T17:48:54+00:00'

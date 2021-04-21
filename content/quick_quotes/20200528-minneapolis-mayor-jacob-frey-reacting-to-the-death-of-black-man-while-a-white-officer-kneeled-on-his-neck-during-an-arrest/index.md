@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/minneapolis-mayor-jacob-frey-reacting-to-the-death-of-black-man-while-a-white-officer-kneeled-on-his-neck-during-an-arrest/
+    /minneapolis-mayor-jacob-frey-reacting-to-the-death-of-black-man-while-a-white-officer-kneeled-on-his-neck-during-an-arrest/
 _createdAt: '2020-05-28T02:04:47Z'
 _updatedAt: '2021-04-17T09:18:05Z'
 date: '2020-05-28T02:04:47+00:00'

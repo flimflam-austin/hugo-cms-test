@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28NF5z
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-24-nhl-stanley-cup/
+  - /
 _createdAt: '2018-05-24T10:15:37Z'
 _updatedAt: '2021-03-26T00:40:30Z'
 date: '2018-05-24T10:15:37+00:00'

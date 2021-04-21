@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4oJKzv
 type: quick_reads
 draft: false
 aliases:
-  - pres-trump-on-election-not-over/
+  - /
 _createdAt: '2021-04-01T17:36:14Z'
 _updatedAt: '2021-04-01T17:36:14Z'
 date: '2020-11-08T13:57:00.000Z'

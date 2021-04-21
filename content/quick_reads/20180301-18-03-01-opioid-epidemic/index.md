@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wNxsj
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-01-opioid-epidemic/
+  - /
 _createdAt: '2018-03-01T12:00:50Z'
 _updatedAt: '2021-03-25T22:05:01Z'
 date: '2018-03-01T12:00:50+00:00'

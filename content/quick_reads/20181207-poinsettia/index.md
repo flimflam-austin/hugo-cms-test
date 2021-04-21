@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452ykKbV
 type: quick_reads
 draft: false
 aliases:
-  - poinsettia/
+  - /
 _createdAt: '2018-12-07T13:02:47Z'
 _updatedAt: '2021-03-28T00:55:55Z'
 date: '2018-12-07T13:02:47+00:00'

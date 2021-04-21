@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7HcyDG
 type: quick_quotes
 draft: false
 aliases:
-  - article/covid-thanksgiving/
+  - /covid-thanksgiving/
 _createdAt: '2020-11-19T19:56:41Z'
 _updatedAt: '2021-04-17T09:17:56Z'
 date: '2020-11-19T19:56:41+00:00'

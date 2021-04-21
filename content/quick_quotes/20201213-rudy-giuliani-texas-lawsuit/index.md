@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd0af
 type: quick_quotes
 draft: false
 aliases:
-  - article/rudy-giuliani-texas-lawsuit/
+  - /rudy-giuliani-texas-lawsuit/
 _createdAt: '2020-12-14T04:40:55Z'
 _updatedAt: '2021-04-17T09:18:19Z'
 date: '2020-12-14T04:40:55+00:00'

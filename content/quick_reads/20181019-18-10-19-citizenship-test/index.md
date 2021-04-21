@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DHfO7
 type: quick_reads
 draft: false
 aliases:
-  - 18-10-19-citizenship-test/
+  - /
 _createdAt: '2018-10-19T11:25:12Z'
 _updatedAt: '2021-03-28T00:29:30Z'
 date: '2018-10-19T11:25:12+00:00'

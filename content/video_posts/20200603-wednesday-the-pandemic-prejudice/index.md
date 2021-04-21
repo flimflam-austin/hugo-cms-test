@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgdQO
 type: video_posts
 draft: false
 aliases:
-  - article/wednesday-the-pandemic-prejudice/
+  - /wednesday-the-pandemic-prejudice/
 _createdAt: '2020-06-03T15:37:26Z'
 _updatedAt: '2021-04-17T09:24:17Z'
 date: '2020-06-03T15:37:26+00:00'

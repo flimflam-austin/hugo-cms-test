@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28NUVY
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-23-nfl-new-anthem-policy/
+  - /
 _createdAt: '2018-05-24T10:16:33Z'
 _updatedAt: '2021-03-26T00:42:58Z'
 date: '2018-05-24T10:16:33+00:00'

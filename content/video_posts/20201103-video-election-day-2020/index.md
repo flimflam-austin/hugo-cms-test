@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnWX1
 type: video_posts
 draft: false
 aliases:
-  - article/video-election-day-2020/
+  - /video-election-day-2020/
 _createdAt: '2020-11-03T13:02:41Z'
 _updatedAt: '2021-04-17T09:24:30Z'
 date: '2020-11-03T13:02:41+00:00'

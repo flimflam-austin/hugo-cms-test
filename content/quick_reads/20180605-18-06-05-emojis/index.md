@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28QCB2
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-05-emojis/
+  - /
 _createdAt: '2018-06-05T11:00:24Z'
 _updatedAt: '2021-03-26T01:01:27Z'
 date: '2018-06-05T11:00:24+00:00'

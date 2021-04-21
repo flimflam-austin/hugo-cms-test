@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCpxwE
 type: quick_reads
 draft: false
 aliases:
-  - jason-gay-moon-quote/
+  - /
 _createdAt: '2021-04-01T17:56:33Z'
 _updatedAt: '2021-04-01T18:00:21Z'
 date: '2020-10-30T23:53:00.000Z'

@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-21-fb-scandal/
+  - /
 _createdAt: '2018-03-21T12:30:49Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-21T12:30:49+00:00'

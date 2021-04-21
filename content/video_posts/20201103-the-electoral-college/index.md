@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnXQn
 type: video_posts
 draft: false
 aliases:
-  - article/the-electoral-college/
+  - /the-electoral-college/
 _createdAt: '2020-10-30T05:11:32Z'
 _updatedAt: '2021-04-17T09:24:37Z'
 date: '2020-10-30T05:11:32+00:00'

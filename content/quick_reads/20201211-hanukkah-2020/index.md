@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4igdhT
 type: quick_reads
 draft: false
 aliases:
-  - hanukkah-2020/
+  - /
 _createdAt: '2021-03-31T18:49:41Z'
 _updatedAt: '2021-03-31T18:49:41Z'
 date: '2020-12-11T06:54:00.000Z'

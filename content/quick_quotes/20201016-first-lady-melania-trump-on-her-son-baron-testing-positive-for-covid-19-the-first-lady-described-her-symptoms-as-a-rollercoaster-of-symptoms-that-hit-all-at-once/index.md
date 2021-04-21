@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/first-lady-melania-trump-on-her-son-baron-testing-positive-for-covid-19-the-first-lady-described-her-symptoms-as-a-rollercoaster-of-symptoms-that-hit-all-at-once/
+    /first-lady-melania-trump-on-her-son-baron-testing-positive-for-covid-19-the-first-lady-described-her-symptoms-as-a-rollercoaster-of-symptoms-that-hit-all-at-once/
 _createdAt: '2020-10-15T03:02:47Z'
 _updatedAt: '2021-04-17T09:19:25Z'
 date: '2020-10-15T03:02:47+00:00'

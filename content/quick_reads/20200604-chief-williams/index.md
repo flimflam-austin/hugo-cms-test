@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4tBclD
 type: quick_reads
 draft: false
 aliases:
-  - chief-williams/
+  - /
 _createdAt: '2021-04-02T18:40:07Z'
 _updatedAt: '2021-04-02T18:40:07Z'
 date: '2020-06-04T05:23:00.000Z'

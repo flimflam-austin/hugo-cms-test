@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/sister-of-michael-forest-reinoehl-on-her-48-year-old-brother-reportedly-under-investigation-by-portland-police-for-shooting-and-killing-a-pres-trump-supporter-saturday-night/
+    /sister-of-michael-forest-reinoehl-on-her-48-year-old-brother-reportedly-under-investigation-by-portland-police-for-shooting-and-killing-a-pres-trump-supporter-saturday-night/
 _createdAt: '2020-08-31T04:12:19Z'
 _updatedAt: '2021-04-17T09:19:18Z'
 date: '2020-08-31T04:12:19+00:00'

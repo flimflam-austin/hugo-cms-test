@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2T46r
 type: quick_reads
 draft: false
 aliases:
-  - the-science-of-giving-thanks/
+  - /
 _createdAt: '2021-04-01T16:43:36Z'
 _updatedAt: '2021-04-01T16:46:39Z'
 date: '2020-11-25T09:58:00.000Z'

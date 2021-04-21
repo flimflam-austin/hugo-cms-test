@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532krFl
 type: quick_reads
 draft: false
 aliases:
-  - uac-border-update/
+  - /
 _createdAt: '2021-03-30T21:45:00Z'
 _updatedAt: '2021-03-30T21:45:00Z'
 date: '2021-03-12T02:47:00.000Z'

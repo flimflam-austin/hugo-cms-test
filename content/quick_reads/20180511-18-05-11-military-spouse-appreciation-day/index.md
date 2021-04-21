@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbuAar
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-11-military-spouse-appreciation-day/
+  - /
 _createdAt: '2018-05-11T10:16:24Z'
 _updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-05-11T10:16:24+00:00'

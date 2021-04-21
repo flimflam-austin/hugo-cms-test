@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633lnAW
 type: quick_quotes
 draft: false
 aliases:
-  - article/roc-center-tree-2020/
+  - /roc-center-tree-2020/
 _createdAt: '2020-11-16T02:24:36Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-11-16T02:24:36+00:00'

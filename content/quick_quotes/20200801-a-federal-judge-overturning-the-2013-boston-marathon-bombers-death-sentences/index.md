@@ -8,7 +8,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/a-federal-judge-overturning-the-2013-boston-marathon-bombers-death-sentences/
+    /a-federal-judge-overturning-the-2013-boston-marathon-bombers-death-sentences/
 _createdAt: '2020-08-01T18:55:37Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-08-01T18:55:37+00:00'

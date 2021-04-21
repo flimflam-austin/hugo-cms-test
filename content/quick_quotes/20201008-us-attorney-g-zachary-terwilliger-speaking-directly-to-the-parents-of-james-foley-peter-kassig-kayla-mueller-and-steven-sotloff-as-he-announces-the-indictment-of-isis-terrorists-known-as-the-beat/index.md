@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/us-attorney-g-zachary-terwilliger-speaking-directly-to-the-parents-of-james-foley-peter-kassig-kayla-mueller-and-steven-sotloff-as-he-announces-the-indictment-of-isis-terrorists-known-as-the-beat/
+    /us-attorney-g-zachary-terwilliger-speaking-directly-to-the-parents-of-james-foley-peter-kassig-kayla-mueller-and-steven-sotloff-as-he-announces-the-indictment-of-isis-terrorists-known-as-the-beat/
 _createdAt: '2020-10-09T03:27:06Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-10-09T03:27:06+00:00'

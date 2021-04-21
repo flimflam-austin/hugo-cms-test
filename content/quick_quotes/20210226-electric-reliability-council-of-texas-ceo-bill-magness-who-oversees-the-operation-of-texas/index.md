@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/electric-reliability-council-of-texas-ceo-bill-magness-who-oversees-the-operation-of-texas-power-grid-reflecting-on-what-went-wrong-with-the-states-major-power-outages-during-a-winter-storm/
+    /electric-reliability-council-of-texas-ceo-bill-magness-who-oversees-the-operation-of-texas-power-grid-reflecting-on-what-went-wrong-with-the-states-major-power-outages-during-a-winter-storm/
 _createdAt: '2021-04-01T02:33:00Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-02-26T06:26:00.000Z'

@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/alaska-gov-mike-dunleavy-on-his-state-making-the-covid-19-vaccine-available-for-all-those-16-and-older/
+    /alaska-gov-mike-dunleavy-on-his-state-making-the-covid-19-vaccine-available-for-all-those-16-and-older/
 _createdAt: '2021-04-01T01:38:17Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-03-11T11:37:00.000Z'

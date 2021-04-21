@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3Znkr
 type: quick_reads
 draft: false
 aliases:
-  - flag-day/
+  - /
 _createdAt: '2021-04-02T18:29:09Z'
 _updatedAt: '2021-04-02T18:29:09Z'
 date: '2020-06-14T19:40:00.000Z'

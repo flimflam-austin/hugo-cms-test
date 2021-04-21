@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-18-otd-sally-ride/
+  - /
 _createdAt: '2018-06-18T10:57:10Z'
 _updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-06-18T10:57:10+00:00'

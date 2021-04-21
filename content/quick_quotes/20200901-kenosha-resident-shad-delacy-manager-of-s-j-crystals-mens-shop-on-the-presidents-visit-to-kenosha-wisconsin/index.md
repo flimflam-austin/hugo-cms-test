@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/kenosha-resident-shad-delacy-manager-of-s-j-crystals-mens-shop-on-the-presidents-visit-to-kenosha-wisconsin/
+    /kenosha-resident-shad-delacy-manager-of-s-j-crystals-mens-shop-on-the-presidents-visit-to-kenosha-wisconsin/
 _createdAt: '2020-09-01T11:36:48Z'
 _updatedAt: '2021-04-17T09:20:37Z'
 date: '2020-09-01T11:36:48+00:00'

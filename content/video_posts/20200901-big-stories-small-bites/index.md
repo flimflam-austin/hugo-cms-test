@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgctU
 type: video_posts
 draft: false
 aliases:
-  - article/big-stories-small-bites/
+  - /big-stories-small-bites/
 _createdAt: '2020-09-01T13:58:23Z'
 _updatedAt: '2021-04-17T09:24:10Z'
 date: '2020-09-01T13:58:23+00:00'

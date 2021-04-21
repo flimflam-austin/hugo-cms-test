@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2zz2j
 type: quick_reads
 draft: false
 aliases:
-  - rose-garden-refreshment/
+  - /
 _createdAt: '2021-04-02T04:36:41Z'
 _updatedAt: '2021-04-02T04:36:41Z'
 date: '2020-07-28T08:36:00.000Z'

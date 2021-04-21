@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2dUIn
 type: quick_reads
 draft: false
 aliases:
-  - scotus-nomination-process/
+  - /
 _createdAt: '2021-04-01T19:45:29Z'
 _updatedAt: '2021-04-01T19:45:29Z'
 date: '2020-09-28T22:49:00.000Z'

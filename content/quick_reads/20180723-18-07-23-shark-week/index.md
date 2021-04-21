@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJuXu3y
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-23-shark-week/
+  - /
 _createdAt: '2018-07-23T12:03:05Z'
 _updatedAt: '2021-03-26T17:38:00Z'
 date: '2018-07-23T12:03:05+00:00'

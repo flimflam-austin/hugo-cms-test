@@ -8,8 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HdFwo
 type: quick_quotes
 draft: false
 aliases:
-  - >-
-    article/green-beret-killed-in-action-in-afghanistan-the-17th-death-this-year/
+  - /green-beret-killed-in-action-in-afghanistan-the-17th-death-this-year/
 _createdAt: '2019-09-18T16:04:07Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2019-09-18T16:04:07+00:00'

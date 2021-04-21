@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF2NC
 type: quick_reads
 draft: false
 aliases:
-  - rainbows/
+  - /
 _createdAt: '2018-10-05T11:45:47Z'
 _updatedAt: '2021-03-22T13:11:14Z'
 date: '2018-10-05T11:45:47+00:00'

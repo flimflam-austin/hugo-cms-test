@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTau8e
 type: quick_quotes
 draft: false
 aliases:
-  - article/the-question-on-everyones-mind/
+  - /the-question-on-everyones-mind/
 _createdAt: '2020-09-13T23:40:39Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-09-13T23:40:39+00:00'

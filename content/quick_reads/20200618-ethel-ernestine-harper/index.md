@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDTKhC
 type: quick_reads
 draft: false
 aliases:
-  - ethel-ernestine-harper/
+  - /
 _createdAt: '2021-04-02T18:19:59Z'
 _updatedAt: '2021-04-02T18:19:59Z'
 date: '2020-06-18T07:31:00.000Z'

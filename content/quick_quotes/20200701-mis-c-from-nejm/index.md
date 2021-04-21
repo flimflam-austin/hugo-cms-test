@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTaiJ6
 type: quick_quotes
 draft: false
 aliases:
-  - article/mis-c-from-nejm/
+  - /mis-c-from-nejm/
 _createdAt: '2020-07-01T22:22:22Z'
 _updatedAt: '2021-04-17T09:18:53Z'
 date: '2020-07-01T22:22:22+00:00'

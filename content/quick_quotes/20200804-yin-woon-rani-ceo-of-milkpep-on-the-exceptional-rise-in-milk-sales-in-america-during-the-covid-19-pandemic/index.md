@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/yin-woon-rani-ceo-of-milkpep-on-the-exceptional-rise-in-milk-sales-in-america-during-the-covid-19-pandemic/
+    /yin-woon-rani-ceo-of-milkpep-on-the-exceptional-rise-in-milk-sales-in-america-during-the-covid-19-pandemic/
 _createdAt: '2020-08-04T12:08:21Z'
 _updatedAt: '2021-04-17T09:20:06Z'
 date: '2020-08-04T12:08:21+00:00'

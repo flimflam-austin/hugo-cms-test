@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633lxtq
 type: quick_quotes
 draft: false
 aliases:
-  - article/california-becomes-first-state-to-ban-sale-of-fur/
+  - /california-becomes-first-state-to-ban-sale-of-fur/
 _createdAt: '2019-10-13T23:57:52Z'
 _updatedAt: '2021-04-17T09:19:40Z'
 date: '2019-10-13T23:57:52+00:00'

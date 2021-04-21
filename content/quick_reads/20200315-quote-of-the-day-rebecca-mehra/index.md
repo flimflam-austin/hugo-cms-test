@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEGQkY
 type: quick_reads
 draft: false
 aliases:
-  - quote-of-the-day-rebecca-mehra/
+  - /
 _createdAt: '2021-04-04T04:59:42Z'
 _updatedAt: '2021-04-04T04:59:42Z'
 date: '2020-03-15T05:25:00.000Z'

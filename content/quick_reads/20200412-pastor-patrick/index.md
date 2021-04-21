@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDY6Hu
 type: quick_reads
 draft: false
 aliases:
-  - pastor-patrick/
+  - /
 _createdAt: '2021-04-02T20:25:14Z'
 _updatedAt: '2021-04-02T20:25:14Z'
 date: '2020-04-12T23:24:00.000Z'

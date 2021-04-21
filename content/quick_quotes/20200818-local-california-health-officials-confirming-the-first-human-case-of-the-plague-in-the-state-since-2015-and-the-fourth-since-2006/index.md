@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/local-california-health-officials-confirming-the-first-human-case-of-the-plague-in-the-state-since-2015-and-the-fourth-since-2006/
+    /local-california-health-officials-confirming-the-first-human-case-of-the-plague-in-the-state-since-2015-and-the-fourth-since-2006/
 _createdAt: '2020-08-18T16:12:29Z'
 _updatedAt: '2021-04-17T09:17:48Z'
 date: '2020-08-18T16:12:29+00:00'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wGICb
 type: quick_reads
 draft: false
 aliases:
-  - day-light-saving/
+  - /
 _createdAt: '2020-03-07T16:51:12Z'
 _updatedAt: '2021-03-25T20:02:13Z'
 date: '2020-03-07T16:51:12+00:00'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3iX2D
 type: quick_reads
 draft: false
 aliases:
-  - 19-04-02-otd-jeannette-rankin/
+  - /
 _createdAt: '2021-04-02T21:16:48Z'
 _updatedAt: '2021-04-02T21:16:48Z'
 date: '2020-04-02T19:00:00.000Z'

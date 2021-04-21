@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/dr-fauci-warning-that-the-number-of-new-covid-19-cases-in-america-could-increase-by-more-than-130-if-we-continue-going-in-the-wrong-direction/
+    /dr-fauci-warning-that-the-number-of-new-covid-19-cases-in-america-could-increase-by-more-than-130-if-we-continue-going-in-the-wrong-direction/
 _createdAt: '2020-06-30T20:06:09Z'
 _updatedAt: '2021-04-17T09:17:24Z'
 date: '2020-06-30T20:06:09+00:00'

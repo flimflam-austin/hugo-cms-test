@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452ydNg5
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-19-presidential-alert-delayed-october-3/
+  - /
 _createdAt: '2018-09-19T12:17:35Z'
 _updatedAt: '2021-03-27T22:19:36Z'
 date: '2018-09-19T12:17:35+00:00'

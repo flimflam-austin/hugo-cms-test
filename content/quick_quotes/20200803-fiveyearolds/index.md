@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HdKhc
 type: quick_quotes
 draft: false
 aliases:
-  - article/fiveyearolds/
+  - /fiveyearolds/
 _createdAt: '2020-08-03T16:46:47Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-08-03T16:46:47+00:00'

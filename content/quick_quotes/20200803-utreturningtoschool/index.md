@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7Hcwnc
 type: quick_quotes
 draft: false
 aliases:
-  - article/utreturningtoschool/
+  - /utreturningtoschool/
 _createdAt: '2020-08-03T13:36:10Z'
 _updatedAt: '2021-04-17T09:17:39Z'
 date: '2020-08-03T13:36:10+00:00'

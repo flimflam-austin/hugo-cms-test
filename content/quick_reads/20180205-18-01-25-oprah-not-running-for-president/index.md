@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbu9sa
 type: quick_reads
 draft: false
 aliases:
-  - 18-01-25-oprah-not-running-for-president/
+  - /
 _createdAt: '2018-02-01T09:04:05Z'
 _updatedAt: '2021-03-22T13:11:04Z'
 date: '2018-02-01T09:04:05+00:00'

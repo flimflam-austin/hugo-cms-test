@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJs5o9t
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-24-saudi-women/
+  - /
 _createdAt: '2018-05-24T10:16:24Z'
 _updatedAt: '2021-03-26T00:42:19Z'
 date: '2018-05-24T10:16:24+00:00'

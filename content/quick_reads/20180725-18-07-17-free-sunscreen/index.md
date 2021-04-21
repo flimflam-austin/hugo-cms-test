@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2AfCi4
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-17-free-sunscreen/
+  - /
 _createdAt: '2018-07-25T11:53:07Z'
 _updatedAt: '2021-03-26T17:43:31Z'
 date: '2018-07-25T11:53:07+00:00'

@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTarY0
 type: quick_quotes
 draft: false
 aliases:
-  - article/stimulus-update-oct-21/
+  - /stimulus-update-oct-21/
 _createdAt: '2020-10-21T21:35:48Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-10-21T21:35:48+00:00'

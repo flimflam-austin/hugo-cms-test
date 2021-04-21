@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2m3j7
 type: quick_reads
 draft: false
 aliases:
-  - medal-of-honor-recipient-payne/
+  - /
 _createdAt: '2021-04-01T22:27:21Z'
 _updatedAt: '2021-04-01T22:27:21Z'
 date: '2020-09-18T20:10:00.000Z'

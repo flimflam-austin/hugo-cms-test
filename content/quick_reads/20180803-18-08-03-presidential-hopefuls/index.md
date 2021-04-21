@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2AuYrS
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-03-presidential-hopefuls/
+  - /
 _createdAt: '2018-08-03T11:29:35Z'
 _updatedAt: '2021-03-26T19:24:18Z'
 date: '2018-08-03T11:29:35+00:00'

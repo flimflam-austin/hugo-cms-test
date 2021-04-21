@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCnBT4
 type: quick_reads
 draft: false
 aliases:
-  - happy-thanksgiving/
+  - /
 _createdAt: '2021-04-01T16:43:04Z'
 _updatedAt: '2021-04-01T16:43:04Z'
 date: '2020-11-25T15:00:00.000Z'

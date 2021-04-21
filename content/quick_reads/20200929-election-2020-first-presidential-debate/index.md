@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCsqmE
 type: quick_reads
 draft: false
 aliases:
-  - election-2020-first-presidential-debate/
+  - /
 _createdAt: '2021-04-01T19:32:16Z'
 _updatedAt: '2021-04-01T19:32:16Z'
 date: '2020-09-29T21:33:00.000Z'

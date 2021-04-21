@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq283RvE
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-06-stay-home-moms/
+  - /
 _createdAt: '2018-03-06T12:49:24Z'
 _updatedAt: '2021-03-25T22:09:18Z'
 date: '2018-03-06T12:49:24+00:00'

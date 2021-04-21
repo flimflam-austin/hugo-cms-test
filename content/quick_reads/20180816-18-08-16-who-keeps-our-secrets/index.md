@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xYiuL
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-16-who-keeps-our-secrets/
+  - /
 _createdAt: '2018-08-16T11:42:35Z'
 _updatedAt: '2021-03-26T20:01:22Z'
 date: '2018-08-16T11:42:35+00:00'

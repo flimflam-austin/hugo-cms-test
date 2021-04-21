@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2oHmz
 type: quick_reads
 draft: false
 aliases:
-  - crime-data-gap/
+  - /
 _createdAt: '2021-04-01T23:13:16Z'
 _updatedAt: '2021-04-01T23:13:16Z'
 date: '2020-09-03T01:18:00.000Z'

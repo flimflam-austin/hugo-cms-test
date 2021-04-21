@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2D9co6
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-27-kavanaugh-assault-hearing/
+  - /
 _createdAt: '2018-09-27T12:39:52Z'
 _updatedAt: '2021-03-27T22:43:34Z'
 date: '2018-09-27T12:39:52+00:00'

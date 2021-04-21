@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4xiCDH
 type: quick_reads
 draft: false
 aliases:
-  - stock-market-scaries/
+  - /
 _createdAt: '2021-04-04T05:37:29Z'
 _updatedAt: '2021-04-04T05:37:42Z'
 date: '2020-03-12T05:33:00.000Z'

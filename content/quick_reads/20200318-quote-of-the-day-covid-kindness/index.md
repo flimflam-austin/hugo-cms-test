@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3rQPV
 type: quick_reads
 draft: false
 aliases:
-  - quote-of-the-day-covid-kindness/
+  - /
 _createdAt: '2021-04-03T00:54:20Z'
 _updatedAt: '2021-04-03T00:54:20Z'
 date: '2020-03-18T22:53:00.000Z'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsDeTU
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-22-heart-health-and-marriage/
+  - /
 _createdAt: '2018-06-22T08:59:16Z'
 _updatedAt: '2021-03-26T01:46:32Z'
 date: '2018-06-22T08:59:16+00:00'

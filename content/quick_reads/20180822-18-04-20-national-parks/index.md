@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF1rC
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-20-national-parks/
+  - /
 _createdAt: '2018-04-20T10:44:04Z'
 _updatedAt: '2021-03-22T13:11:12Z'
 date: '2018-04-20T10:44:04+00:00'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrTmfO
 type: quick_reads
 draft: false
 aliases:
-  - 19-02-07-socialism-2019/
+  - /
 _createdAt: '2019-02-07T13:35:24Z'
 _updatedAt: '2021-03-25T20:34:38Z'
 date: '2019-02-07T13:35:24+00:00'

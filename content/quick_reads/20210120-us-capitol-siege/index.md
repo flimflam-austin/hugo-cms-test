@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK9U4HI
 type: quick_reads
 draft: false
 aliases:
-  - us-capitol-siege/
+  - /
 _createdAt: '2021-03-31T16:54:49Z'
 _updatedAt: '2021-03-31T16:54:49Z'
 date: '2021-01-20T10:18:00.000Z'

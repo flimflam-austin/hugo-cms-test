@@ -10,7 +10,7 @@ _rev: Pxytp4DhfU5gNtP633lhNe
 type: quick_quotes
 draft: false
 aliases:
-  - article/jan-jobs-report/
+  - /jan-jobs-report/
 _createdAt: '2021-04-01T11:45:30Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-02-05T23:50:00.000Z'

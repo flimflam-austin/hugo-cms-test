@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrk6zw
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-27-levi-jeans/
+  - /
 _createdAt: '2018-02-28T03:24:52Z'
 _updatedAt: '2021-03-25T22:01:18Z'
 date: '2018-02-28T03:24:52+00:00'

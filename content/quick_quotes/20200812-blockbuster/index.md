@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7Hcg9n
 type: quick_quotes
 draft: false
 aliases:
-  - article/blockbuster/
+  - /blockbuster/
 _createdAt: '2020-08-12T18:23:42Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2020-08-12T18:23:42+00:00'

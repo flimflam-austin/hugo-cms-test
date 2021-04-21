@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/president-joe-biden-on-his-proposed-sanctions-against-myanmars-military-that-carried-out-a-coup-putting-the-countrys-pro-democracy-elected-leader-behind-bars/
+    /president-joe-biden-on-his-proposed-sanctions-against-myanmars-military-that-carried-out-a-coup-putting-the-countrys-pro-democracy-elected-leader-behind-bars/
 _createdAt: '2021-04-01T11:41:27Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-02-11T12:09:00.000Z'

@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/uk-prime-minister-boris-johnson-on-a-nationwide-lockdown-starting-on-thursday-november-5th-for-four-weeks-until-the-first-week-of-december-dec-2/
+    /uk-prime-minister-boris-johnson-on-a-nationwide-lockdown-starting-on-thursday-november-5th-for-four-weeks-until-the-first-week-of-december-dec-2/
 _createdAt: '2020-11-02T05:19:16Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-11-02T05:19:16+00:00'

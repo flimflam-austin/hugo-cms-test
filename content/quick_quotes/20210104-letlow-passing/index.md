@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633lr8U
 type: quick_quotes
 draft: false
 aliases:
-  - article/letlow-passing/
+  - /letlow-passing/
 _createdAt: '2021-01-04T05:14:02Z'
 _updatedAt: '2021-04-17T09:17:09Z'
 date: '2021-01-04T05:14:02+00:00'

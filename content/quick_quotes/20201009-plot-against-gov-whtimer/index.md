@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7Hcgje
 type: quick_quotes
 draft: false
 aliases:
-  - article/plot-against-gov-whtimer/
+  - /plot-against-gov-whtimer/
 _createdAt: '2020-10-09T19:25:15Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-10-09T19:25:15+00:00'

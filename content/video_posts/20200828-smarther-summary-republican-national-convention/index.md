@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnbXl
 type: video_posts
 draft: false
 aliases:
-  - article/smarther-summary-republican-national-convention/
+  - /smarther-summary-republican-national-convention/
 _createdAt: '2020-08-28T20:11:51Z'
 _updatedAt: '2021-04-17T09:25:22Z'
 date: '2020-08-28T20:11:51+00:00'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsFVy9
 type: quick_reads
 draft: false
 aliases:
-  - do-we-really-need-ice/
+  - /
 _createdAt: '2018-07-02T10:45:19Z'
 _updatedAt: '2021-03-26T02:05:36Z'
 date: '2018-07-02T10:45:19+00:00'

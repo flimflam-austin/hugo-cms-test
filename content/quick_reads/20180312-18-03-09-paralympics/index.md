@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrnGWV
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-09-paralympics/
+  - /
 _createdAt: '2018-03-12T12:00:11Z'
 _updatedAt: '2021-03-25T22:17:59Z'
 date: '2018-03-12T12:00:11+00:00'

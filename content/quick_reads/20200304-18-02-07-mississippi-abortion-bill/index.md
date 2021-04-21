@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq284aJk
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-07-mississippi-abortion-bill/
+  - /
 _createdAt: '2018-03-09T11:59:58Z'
 _updatedAt: '2021-03-25T22:14:55Z'
 date: '2018-03-09T11:59:58+00:00'

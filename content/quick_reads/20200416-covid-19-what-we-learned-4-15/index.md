@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3ftgn
 type: quick_reads
 draft: false
 aliases:
-  - covid-19-what-we-learned-4-15/
+  - /
 _createdAt: '2021-04-02T20:19:48Z'
 _updatedAt: '2021-04-02T20:19:48Z'
 date: '2020-04-16T10:15:00.000Z'

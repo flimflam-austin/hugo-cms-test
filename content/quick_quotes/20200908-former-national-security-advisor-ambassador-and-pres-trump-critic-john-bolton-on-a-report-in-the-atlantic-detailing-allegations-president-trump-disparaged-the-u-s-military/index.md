@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/former-national-security-advisor-ambassador-and-pres-trump-critic-john-bolton-on-a-report-in-the-atlantic-detailing-allegations-president-trump-disparaged-the-u-s-military/
+    /former-national-security-advisor-ambassador-and-pres-trump-critic-john-bolton-on-a-report-in-the-atlantic-detailing-allegations-president-trump-disparaged-the-u-s-military/
 _createdAt: '2020-09-08T14:46:02Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-09-08T14:46:02+00:00'

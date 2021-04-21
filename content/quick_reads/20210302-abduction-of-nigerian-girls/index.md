@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532rart
 type: quick_reads
 draft: false
 aliases:
-  - abduction-of-nigerian-girls/
+  - /
 _createdAt: '2021-03-30T23:19:13Z'
 _updatedAt: '2021-03-30T23:22:55Z'
 date: '2021-03-02T03:53:00.000Z'

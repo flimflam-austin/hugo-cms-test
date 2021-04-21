@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/doj-announces-full-house-actress-lori-loughlin-and-her-husband-designer-mossimo-giannulli-will-go-to-prison-for-their-involvement-in-the-college-admissions-scandal-aka-operation-varsity-blues/
+    /doj-announces-full-house-actress-lori-loughlin-and-her-husband-designer-mossimo-giannulli-will-go-to-prison-for-their-involvement-in-the-college-admissions-scandal-aka-operation-varsity-blues/
 _createdAt: '2020-05-22T00:51:29Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-05-22T00:51:29+00:00'

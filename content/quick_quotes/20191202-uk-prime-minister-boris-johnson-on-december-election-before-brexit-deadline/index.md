@@ -8,7 +8,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/uk-prime-minister-boris-johnson-on-december-election-before-brexit-deadline/
+    /uk-prime-minister-boris-johnson-on-december-election-before-brexit-deadline/
 _createdAt: '2019-10-30T02:32:56Z'
 _updatedAt: '2021-04-17T09:20:45Z'
 date: '2019-10-30T02:32:56+00:00'

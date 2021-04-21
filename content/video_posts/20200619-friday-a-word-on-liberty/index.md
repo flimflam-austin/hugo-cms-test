@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rSSl
 type: video_posts
 draft: false
 aliases:
-  - article/friday-a-word-on-liberty/
+  - /friday-a-word-on-liberty/
 _createdAt: '2020-06-19T15:16:02Z'
 _updatedAt: '2021-04-17T09:23:39Z'
 date: '2020-06-19T15:16:02+00:00'

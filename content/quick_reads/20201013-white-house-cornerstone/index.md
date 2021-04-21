@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2aaAr
 type: quick_reads
 draft: false
 aliases:
-  - white-house-cornerstone/
+  - /
 _createdAt: '2021-04-01T18:45:53Z'
 _updatedAt: '2021-04-01T18:45:53Z'
 date: '2020-10-13T23:57:00.000Z'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452yYfyv
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-26-mccain-brain-cancer-glioblastoma/
+  - /
 _createdAt: '2018-08-26T18:26:13Z'
 _updatedAt: '2021-03-27T20:48:38Z'
 date: '2018-08-26T18:26:13+00:00'

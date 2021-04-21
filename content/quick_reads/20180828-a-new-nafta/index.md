@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452yYieb
 type: quick_reads
 draft: false
 aliases:
-  - a-new-nafta/
+  - /
 _createdAt: '2018-08-28T12:02:17Z'
 _updatedAt: '2021-03-27T20:49:40Z'
 date: '2018-08-28T12:02:17+00:00'

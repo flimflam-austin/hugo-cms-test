@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xQJV7
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-09-how-to-use-smarther-news/
+  - /
 _createdAt: '2018-07-20T16:22:26Z'
 _updatedAt: '2021-03-26T17:34:18Z'
 date: '2018-07-20T16:22:26+00:00'

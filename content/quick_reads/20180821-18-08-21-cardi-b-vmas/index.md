@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2AzzxX
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-21-cardi-b-vmas/
+  - /
 _createdAt: '2018-08-21T11:59:42Z'
 _updatedAt: '2021-03-26T20:11:34Z'
 date: '2018-08-21T11:59:42+00:00'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4kM57
 type: quick_reads
 draft: false
 aliases:
-  - pandemic-potential/
+  - /
 _createdAt: '2021-04-04T06:07:37Z'
 _updatedAt: '2021-04-04T06:07:37Z'
 date: '2020-02-28T00:20:00.000Z'

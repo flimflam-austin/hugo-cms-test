@@ -10,7 +10,7 @@ _rev: gzsIxkhSGQWrSyyf7HcdOU
 type: quick_quotes
 draft: false
 aliases:
-  - article/kristina-libby/
+  - /kristina-libby/
 _createdAt: '2021-04-01T02:11:39Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-03-05T13:05:00.000Z'

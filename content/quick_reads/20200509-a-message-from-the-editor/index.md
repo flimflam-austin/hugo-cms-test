@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4tLHdf
 type: quick_reads
 draft: false
 aliases:
-  - a-message-from-the-editor/
+  - /
 _createdAt: '2021-04-02T19:19:39Z'
 _updatedAt: '2021-04-02T19:19:39Z'
 date: '2020-05-09T01:27:00.000Z'

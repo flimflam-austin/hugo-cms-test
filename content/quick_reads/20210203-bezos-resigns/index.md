@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK77agr
 type: quick_reads
 draft: false
 aliases:
-  - bezos-resigns/
+  - /
 _createdAt: '2021-03-31T00:54:36Z'
 _updatedAt: '2021-03-31T00:54:36Z'
 date: '2021-02-03T12:03:00.000Z'

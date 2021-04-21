@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/sonoma-county-supervisor-james-gore-on-the-current-state-of-the-covid-19-pandemic-in-california/
+    /sonoma-county-supervisor-james-gore-on-the-current-state-of-the-covid-19-pandemic-in-california/
 _createdAt: '2020-06-23T02:57:20Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-06-23T02:57:20+00:00'

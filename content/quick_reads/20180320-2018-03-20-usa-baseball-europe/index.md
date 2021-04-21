@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
-  - 2018-03-20-usa-baseball-europe/
+  - /
 _createdAt: '2018-03-20T14:20:06Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-20T14:20:06+00:00'

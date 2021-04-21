@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2TJNt
 type: quick_reads
 draft: false
 aliases:
-  - covid-19-kids-nov/
+  - /
 _createdAt: '2021-04-01T16:51:15Z'
 _updatedAt: '2021-04-01T16:51:41Z'
 date: '2020-11-21T11:17:00.000Z'

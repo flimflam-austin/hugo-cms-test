@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xZCE9
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-21-manafort-cohen/
+  - /
 _createdAt: '2018-08-22T11:59:07Z'
 _updatedAt: '2021-03-26T20:12:08Z'
 date: '2018-08-22T11:59:07+00:00'

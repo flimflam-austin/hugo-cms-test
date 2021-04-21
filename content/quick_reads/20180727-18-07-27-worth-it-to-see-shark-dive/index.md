@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xRQIv
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-27-worth-it-to-see-shark-dive/
+  - /
 _createdAt: '2018-07-27T11:57:11Z'
 _updatedAt: '2021-03-26T17:46:40Z'
 date: '2018-07-27T11:57:11+00:00'

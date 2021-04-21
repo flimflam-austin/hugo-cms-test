@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7Hcold
 type: quick_quotes
 draft: false
 aliases:
-  - article/pres-trump-denying-mini-strokes/
+  - /pres-trump-denying-mini-strokes/
 _createdAt: '2020-09-02T00:53:16Z'
 _updatedAt: '2021-04-17T09:16:12Z'
 date: '2020-09-02T00:53:16+00:00'

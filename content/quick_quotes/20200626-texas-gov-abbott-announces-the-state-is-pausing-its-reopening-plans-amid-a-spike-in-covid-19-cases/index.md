@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/texas-gov-abbott-announces-the-state-is-pausing-its-reopening-plans-amid-a-spike-in-covid-19-cases/
+    /texas-gov-abbott-announces-the-state-is-pausing-its-reopening-plans-amid-a-spike-in-covid-19-cases/
 _createdAt: '2020-06-25T20:33:33Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-06-25T20:33:33+00:00'

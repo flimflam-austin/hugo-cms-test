@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2AuV4h
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-03-mama-making-history-powermom-jacindaardern/
+  - /
 _createdAt: '2018-08-03T11:24:36Z'
 _updatedAt: '2021-03-26T19:23:46Z'
 date: '2018-08-03T11:24:36+00:00'

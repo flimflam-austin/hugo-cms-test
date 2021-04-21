@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4mgg5
 type: quick_reads
 draft: false
 aliases:
-  - country-music-controversy/
+  - /
 _createdAt: '2021-04-04T07:32:16Z'
 _updatedAt: '2021-04-04T07:32:16Z'
 date: '2020-01-27T01:42:00.000Z'

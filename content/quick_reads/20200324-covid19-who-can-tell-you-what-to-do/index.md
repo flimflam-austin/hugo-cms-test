@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDdIXW
 type: quick_reads
 draft: false
 aliases:
-  - covid19-who-can-tell-you-what-to-do/
+  - /
 _createdAt: '2021-04-02T23:17:48Z'
 _updatedAt: '2021-04-02T23:17:48Z'
 date: '2020-03-24T09:52:00.000Z'

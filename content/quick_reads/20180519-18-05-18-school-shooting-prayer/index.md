@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28LY8t
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-18-school-shooting-prayer/
+  - /
 _createdAt: '2018-05-19T01:56:32Z'
 _updatedAt: '2021-03-26T00:27:29Z'
 date: '2018-05-19T01:56:32+00:00'

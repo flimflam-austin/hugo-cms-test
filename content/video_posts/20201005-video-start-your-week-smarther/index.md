@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rWwz
 type: video_posts
 draft: false
 aliases:
-  - article/video-start-your-week-smarther/
+  - /video-start-your-week-smarther/
 _createdAt: '2020-10-06T02:14:14Z'
 _updatedAt: '2021-04-17T09:25:01Z'
 date: '2020-10-06T02:14:14+00:00'

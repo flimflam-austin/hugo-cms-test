@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rVWH
 type: video_posts
 draft: false
 aliases:
-  - article/have-we-all-been-exposed-to-covid/
+  - /have-we-all-been-exposed-to-covid/
 _createdAt: '2020-06-26T14:20:48Z'
 _updatedAt: '2021-04-17T09:24:35Z'
 date: '2020-06-26T14:20:48+00:00'

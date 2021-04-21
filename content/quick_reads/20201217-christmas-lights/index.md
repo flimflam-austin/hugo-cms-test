@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4iYhpf
 type: quick_reads
 draft: false
 aliases:
-  - christmas-lights/
+  - /
 _createdAt: '2021-03-31T18:21:08Z'
 _updatedAt: '2021-03-31T18:21:08Z'
 date: '2020-12-17T21:29:00.000Z'

@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4pkEVb
 type: quick_reads
 draft: false
 aliases:
-  - ma-k-12-flu-vaccine/
+  - /
 _createdAt: '2021-04-01T23:10:08Z'
 _updatedAt: '2021-04-01T23:10:08Z'
 date: '2020-09-03T05:44:00.000Z'

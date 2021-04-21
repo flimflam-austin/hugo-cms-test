@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2qisL
 type: quick_reads
 draft: false
 aliases:
-  - hurricanelaura/
+  - /
 _createdAt: '2021-04-02T00:10:04Z'
 _updatedAt: '2021-04-02T00:10:04Z'
 date: '2020-08-28T00:24:00.000Z'

@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rUnv
 type: video_posts
 draft: false
 aliases:
-  - article/why-all-the-talk-about-the-usps/
+  - /why-all-the-talk-about-the-usps/
 _createdAt: '2020-08-18T13:43:08Z'
 _updatedAt: '2021-04-17T09:24:17Z'
 date: '2020-08-18T13:43:08+00:00'

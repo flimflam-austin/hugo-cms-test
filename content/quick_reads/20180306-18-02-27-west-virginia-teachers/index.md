@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-27-west-virginia-teachers/
+  - /
 _createdAt: '2018-02-28T23:15:01Z'
 _updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-02-28T23:15:01+00:00'

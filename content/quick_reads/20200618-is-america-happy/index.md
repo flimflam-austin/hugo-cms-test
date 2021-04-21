@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3ZWJh
 type: quick_reads
 draft: false
 aliases:
-  - is-america-happy/
+  - /
 _createdAt: '2021-04-02T18:23:28Z'
 _updatedAt: '2021-04-02T18:23:28Z'
 date: '2020-06-18T03:15:00.000Z'

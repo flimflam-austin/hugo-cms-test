@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452yduT7
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-25-what-is-sexual-assault/
+  - /
 _createdAt: '2018-09-25T12:00:04Z'
 _updatedAt: '2021-03-27T22:33:34Z'
 date: '2018-09-25T12:00:04+00:00'

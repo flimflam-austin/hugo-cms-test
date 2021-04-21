@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4paeNf
 type: quick_reads
 draft: false
 aliases:
-  - cuties/
+  - /
 _createdAt: '2021-04-01T22:30:03Z'
 _updatedAt: '2021-04-01T22:30:03Z'
 date: '2020-09-18T19:50:00.000Z'

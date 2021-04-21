@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd7Gz
 type: quick_quotes
 draft: false
 aliases:
-  - article/westdayever/
+  - /westdayever/
 _createdAt: '2020-06-26T20:18:18Z'
 _updatedAt: '2021-04-17T09:19:32Z'
 date: '2020-06-26T20:18:18+00:00'

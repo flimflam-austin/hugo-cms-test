@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJs47yn
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-19-santa-fe-shooting-student/
+  - /
 _createdAt: '2018-05-19T20:08:22Z'
 _updatedAt: '2021-03-26T00:27:54Z'
 date: '2018-05-19T20:08:22+00:00'

@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnWuv
 type: video_posts
 draft: false
 aliases:
-  - article/coffee-talk/
+  - /coffee-talk/
 _createdAt: '2019-11-04T03:55:45Z'
 _updatedAt: '2021-04-17T09:24:34Z'
 date: '2019-11-04T03:55:45+00:00'

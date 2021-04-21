@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xWR89
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-01-food-recalls/
+  - /
 _createdAt: '2018-08-01T11:50:09Z'
 _updatedAt: '2021-03-26T19:19:54Z'
 date: '2018-08-01T11:50:09+00:00'

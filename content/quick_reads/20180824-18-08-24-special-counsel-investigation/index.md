@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2B0fbs
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-24-special-counsel-investigation/
+  - /
 _createdAt: '2018-08-24T12:03:26Z'
 _updatedAt: '2021-03-26T20:17:58Z'
 date: '2018-08-24T12:03:26+00:00'

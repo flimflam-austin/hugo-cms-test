@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrzO1n
 type: quick_reads
 draft: false
 aliases:
-  - ve-day/
+  - /
 _createdAt: '2018-05-08T22:10:59Z'
 _updatedAt: '2021-03-25T23:47:19Z'
 date: '2018-05-08T22:10:59+00:00'

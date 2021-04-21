@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2LKnTw
 type: quick_reads
 draft: false
 aliases:
-  - kimye-and-divorce-in-america/
+  - /
 _createdAt: '2021-03-30T23:48:22Z'
 _updatedAt: '2021-03-30T23:48:22Z'
 date: '2021-02-20T11:33:00.000Z'

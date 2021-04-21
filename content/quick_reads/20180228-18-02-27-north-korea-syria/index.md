@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wNqc9
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-27-north-korea-syria/
+  - /
 _createdAt: '2018-02-28T13:05:13Z'
 _updatedAt: '2021-03-25T22:02:54Z'
 date: '2018-02-28T13:05:13+00:00'

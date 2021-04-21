@@ -9,7 +9,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd12Y
 type: quick_quotes
 draft: false
 aliases:
-  - article/ca-wildfires-2020-ucla-scientist/
+  - /ca-wildfires-2020-ucla-scientist/
 _createdAt: '2020-08-25T14:55:41Z'
 _updatedAt: '2021-04-17T09:18:26Z'
 date: '2020-08-25T14:55:41+00:00'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2U1qz
 type: quick_reads
 draft: false
 aliases:
-  - lcdr-jayne-faul/
+  - /
 _createdAt: '2021-04-01T17:01:11Z'
 _updatedAt: '2021-04-01T17:04:25Z'
 date: '2020-11-12T08:29:00.000Z'

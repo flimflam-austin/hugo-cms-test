@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r31zIL
 type: quick_reads
 draft: false
 aliases:
-  - day-2-president-presser-on-data/
+  - /
 _createdAt: '2021-04-02T05:33:30Z'
 _updatedAt: '2021-04-02T05:33:30Z'
 date: '2020-07-23T21:51:00.000Z'

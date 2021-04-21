@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTgc1I
 type: video_posts
 draft: false
 aliases:
-  - article/who-said-what-when/
+  - /who-said-what-when/
 _createdAt: '2021-01-14T04:16:29Z'
 _updatedAt: '2021-04-17T09:23:55Z'
 date: '2021-01-14T04:16:29+00:00'

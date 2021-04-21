@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28akA3
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-13-world-cup/
+  - /
 _createdAt: '2018-07-13T11:05:54Z'
 _updatedAt: '2021-03-26T02:39:44Z'
 date: '2018-07-13T11:05:54+00:00'

@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTaim8
 type: quick_quotes
 draft: false
 aliases:
-  - article/exclusive-of-russia-norway-and-sweden/
+  - /exclusive-of-russia-norway-and-sweden/
 _createdAt: '2019-01-05T19:44:13Z'
 _updatedAt: '2021-04-17T09:18:59Z'
 date: '2019-01-05T19:44:13+00:00'

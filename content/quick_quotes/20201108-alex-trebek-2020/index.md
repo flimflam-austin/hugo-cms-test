@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTarEe
 type: quick_quotes
 draft: false
 aliases:
-  - article/alex-trebek-2020/
+  - /alex-trebek-2020/
 _createdAt: '2020-11-09T03:40:17Z'
 _updatedAt: '2021-04-17T09:21:14Z'
 date: '2020-11-09T03:40:17+00:00'

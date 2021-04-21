@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTacBk
 type: quick_quotes
 draft: false
 aliases:
-  - article/santa-covid/
+  - /santa-covid/
 _createdAt: '2020-12-21T20:06:51Z'
 _updatedAt: '2021-04-17T09:17:04Z'
 date: '2020-12-21T20:06:51+00:00'

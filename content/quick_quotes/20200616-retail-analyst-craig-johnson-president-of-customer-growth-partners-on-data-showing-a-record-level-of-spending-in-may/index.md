@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/retail-analyst-craig-johnson-president-of-customer-growth-partners-on-data-showing-a-record-level-of-spending-in-may/
+    /retail-analyst-craig-johnson-president-of-customer-growth-partners-on-data-showing-a-record-level-of-spending-in-may/
 _createdAt: '2020-06-16T21:41:05Z'
 _updatedAt: '2021-04-17T09:17:30Z'
 date: '2020-06-16T21:41:05+00:00'

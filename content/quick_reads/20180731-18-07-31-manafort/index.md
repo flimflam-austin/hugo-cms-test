@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-31-manafort/
+  - /
 _createdAt: '2018-07-31T11:28:42Z'
 _updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-31T11:28:42+00:00'

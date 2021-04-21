@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/sec-of-defense-mark-esper-responding-to-a-question-about-whether-or-not-prisons-in-northern-syria-holding-isis-fighters-are-secure-as-he-traveled-to-afghanistan/
+    /sec-of-defense-mark-esper-responding-to-a-question-about-whether-or-not-prisons-in-northern-syria-holding-isis-fighters-are-secure-as-he-traveled-to-afghanistan/
 _createdAt: '2019-10-21T20:25:51Z'
 _updatedAt: '2021-04-17T09:18:57Z'
 date: '2019-10-21T20:25:51+00:00'

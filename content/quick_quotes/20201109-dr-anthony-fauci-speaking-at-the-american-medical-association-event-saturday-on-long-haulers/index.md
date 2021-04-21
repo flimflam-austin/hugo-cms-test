@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/dr-anthony-fauci-speaking-at-the-american-medical-association-event-saturday-on-long-haulers/
+    /dr-anthony-fauci-speaking-at-the-american-medical-association-event-saturday-on-long-haulers/
 _createdAt: '2020-11-09T05:50:10Z'
 _updatedAt: '2021-04-17T09:17:52Z'
 date: '2020-11-09T05:50:10+00:00'

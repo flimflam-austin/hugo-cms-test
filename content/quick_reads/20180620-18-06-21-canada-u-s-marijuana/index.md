@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF1TC
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-21-canada-u-s-marijuana/
+  - /
 _createdAt: '2018-06-21T09:05:27Z'
 _updatedAt: '2021-03-22T13:11:10Z'
 date: '2018-06-21T09:05:27+00:00'

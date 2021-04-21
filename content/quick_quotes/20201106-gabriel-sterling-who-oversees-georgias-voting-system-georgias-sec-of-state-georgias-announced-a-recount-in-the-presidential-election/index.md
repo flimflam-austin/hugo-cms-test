@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/gabriel-sterling-who-oversees-georgias-voting-system-georgias-sec-of-state-georgias-announced-a-recount-in-the-presidential-election/
+    /gabriel-sterling-who-oversees-georgias-voting-system-georgias-sec-of-state-georgias-announced-a-recount-in-the-presidential-election/
 _createdAt: '2020-11-06T17:07:58Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2020-11-06T17:07:58+00:00'

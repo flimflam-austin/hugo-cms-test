@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3nLsz
 type: quick_reads
 draft: false
 aliases:
-  - stay-at-home-tips/
+  - /
 _createdAt: '2021-04-02T23:02:12Z'
 _updatedAt: '2021-04-02T23:06:54Z'
 date: '2020-03-25T12:12:00.000Z'

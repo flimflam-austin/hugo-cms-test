@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4xnToB
 type: quick_reads
 draft: false
 aliases:
-  - online-mating/
+  - /
 _createdAt: '2021-04-04T06:21:59Z'
 _updatedAt: '2021-04-04T06:21:59Z'
 date: '2020-02-15T00:13:00.000Z'

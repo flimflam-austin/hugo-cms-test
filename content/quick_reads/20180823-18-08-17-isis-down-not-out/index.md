@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xYq3B
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-17-isis-down-not-out/
+  - /
 _createdAt: '2018-08-17T11:34:48Z'
 _updatedAt: '2021-03-26T20:03:56Z'
 date: '2018-08-17T11:34:48+00:00'

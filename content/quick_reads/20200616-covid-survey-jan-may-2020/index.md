@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDTZ3W
 type: quick_reads
 draft: false
 aliases:
-  - covid-survey-jan-may-2020/
+  - /
 _createdAt: '2021-04-02T18:26:30Z'
 _updatedAt: '2021-04-02T18:26:30Z'
 date: '2020-06-16T10:35:00.000Z'

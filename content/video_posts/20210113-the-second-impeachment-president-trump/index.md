@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rUrx
 type: video_posts
 draft: false
 aliases:
-  - article/the-second-impeachment-president-trump/
+  - /the-second-impeachment-president-trump/
 _createdAt: '2021-01-14T02:02:31Z'
 _updatedAt: '2021-04-17T09:24:19Z'
 date: '2021-01-14T02:02:31+00:00'

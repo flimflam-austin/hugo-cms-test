@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/l-a-schools-superintendent-austin-beutner-on-a-proposed-plan-to-reopen-one-of-the-largest-school-districts-in-america-eventually-during-the-covid-19-pandemic/
+    /l-a-schools-superintendent-austin-beutner-on-a-proposed-plan-to-reopen-one-of-the-largest-school-districts-in-america-eventually-during-the-covid-19-pandemic/
 _createdAt: '2020-08-19T16:43:48Z'
 _updatedAt: '2021-04-17T09:19:07Z'
 date: '2020-08-19T16:43:48+00:00'

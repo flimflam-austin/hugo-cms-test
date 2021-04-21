@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/dr-patrick-moore-of-the-university-of-pittsburgh-during-an-fda-advisory-panel-meeting-on-the-pfizer-covid-19-vaccine-asking-about-whether-it-will-lower-community-transmission-of-the-virus/
+    /dr-patrick-moore-of-the-university-of-pittsburgh-during-an-fda-advisory-panel-meeting-on-the-pfizer-covid-19-vaccine-asking-about-whether-it-will-lower-community-transmission-of-the-virus/
 _createdAt: '2020-12-11T00:11:09Z'
 _updatedAt: '2021-04-17T09:17:43Z'
 date: '2020-12-11T00:11:09+00:00'

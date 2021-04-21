@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wSWaT
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-30-netanyahu-lies-lies/
+  - /
 _createdAt: '2018-05-01T09:52:44Z'
 _updatedAt: '2021-03-25T23:28:43Z'
 date: '2018-05-01T09:52:44+00:00'

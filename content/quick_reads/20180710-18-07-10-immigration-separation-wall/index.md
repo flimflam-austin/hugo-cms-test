@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28Yoaz
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-10-immigration-separation-wall/
+  - /
 _createdAt: '2018-07-10T11:51:36Z'
 _updatedAt: '2021-03-26T02:19:23Z'
 date: '2018-07-10T11:51:36+00:00'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452yXoJR
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-27-guinness-world-records/
+  - /
 _createdAt: '2018-08-27T11:58:35Z'
 _updatedAt: '2021-03-27T20:39:36Z'
 date: '2018-08-27T11:58:35+00:00'

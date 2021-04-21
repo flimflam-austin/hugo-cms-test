@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/pres-trump-after-news-one-of-his-top-aides-hope-hicks-tested-positive-for-covid-19/
+    /pres-trump-after-news-one-of-his-top-aides-hope-hicks-tested-positive-for-covid-19/
 _createdAt: '2020-10-02T03:44:48Z'
 _updatedAt: '2021-04-17T09:18:30Z'
 date: '2020-10-02T03:44:48+00:00'

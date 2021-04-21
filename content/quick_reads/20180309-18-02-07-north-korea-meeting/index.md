@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wOzXZ
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-07-north-korea-meeting/
+  - /
 _createdAt: '2018-03-09T12:00:43Z'
 _updatedAt: '2021-03-25T22:15:18Z'
 date: '2018-03-09T12:00:43+00:00'

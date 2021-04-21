@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-10-animal-assad/
+  - /
 _createdAt: '2018-04-11T10:30:46Z'
 _updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-11T10:30:46+00:00'

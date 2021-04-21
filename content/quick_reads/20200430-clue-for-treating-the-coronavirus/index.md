@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4tTWqx
 type: quick_reads
 draft: false
 aliases:
-  - clue-for-treating-the-coronavirus/
+  - /
 _createdAt: '2021-04-02T19:56:39Z'
 _updatedAt: '2021-04-02T19:56:39Z'
 date: '2020-04-30T06:47:00.000Z'

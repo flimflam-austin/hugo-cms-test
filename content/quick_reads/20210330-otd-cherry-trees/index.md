@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2L2Mzp
 type: quick_reads
 draft: false
 aliases:
-  - otd-cherry-trees/
+  - /
 _createdAt: '2021-03-30T19:13:24Z'
 _updatedAt: '2021-03-30T22:03:39Z'
 date: '2021-03-27T09:47:00.000Z'

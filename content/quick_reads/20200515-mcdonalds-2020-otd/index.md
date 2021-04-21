@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3bsgP
 type: quick_reads
 draft: false
 aliases:
-  - mcdonalds-2020-otd/
+  - /
 _createdAt: '2021-04-02T19:04:25Z'
 _updatedAt: '2021-04-02T19:04:25Z'
 date: '2020-05-15T23:34:00.000Z'

@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/president-trump-in-a-record-national-address-january-7th-2021-with-his-most-specific-comment-to-date-about-the-end-of-his-term/
+    /president-trump-in-a-record-national-address-january-7th-2021-with-his-most-specific-comment-to-date-about-the-end-of-his-term/
 _createdAt: '2021-01-08T05:42:50Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-01-08T05:42:50+00:00'

@@ -8,7 +8,7 @@ _rev: Pxytp4DhfU5gNtP633m1Xe
 type: quick_quotes
 draft: false
 aliases:
-  - article/bob-woodward-book-rage/
+  - /bob-woodward-book-rage/
 _createdAt: '2020-09-10T11:40:04Z'
 _updatedAt: '2021-04-17T09:20:47Z'
 date: '2020-09-10T11:40:04+00:00'

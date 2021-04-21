@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEJKBi
 type: quick_reads
 draft: false
 aliases:
-  - impeachment-whos-who-who-to-watch/
+  - /
 _createdAt: '2021-04-04T07:34:54Z'
 _updatedAt: '2021-04-04T07:34:54Z'
 date: '2020-01-23T03:05:00.000Z'

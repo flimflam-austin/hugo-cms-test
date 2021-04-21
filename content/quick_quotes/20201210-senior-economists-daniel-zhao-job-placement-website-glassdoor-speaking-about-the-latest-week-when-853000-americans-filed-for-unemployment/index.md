@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/senior-economists-daniel-zhao-job-placement-website-glassdoor-speaking-about-the-latest-week-when-853000-americans-filed-for-unemployment/
+    /senior-economists-daniel-zhao-job-placement-website-glassdoor-speaking-about-the-latest-week-when-853000-americans-filed-for-unemployment/
 _createdAt: '2020-12-10T23:30:01Z'
 _updatedAt: '2021-04-17T09:18:43Z'
 date: '2020-12-10T23:30:01+00:00'

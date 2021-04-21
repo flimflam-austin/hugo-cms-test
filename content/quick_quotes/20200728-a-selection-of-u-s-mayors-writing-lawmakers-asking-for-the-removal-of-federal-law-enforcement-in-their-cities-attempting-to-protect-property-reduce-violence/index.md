@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/a-selection-of-u-s-mayors-writing-lawmakers-asking-for-the-removal-of-federal-law-enforcement-in-their-cities-attempting-to-protect-property-reduce-violence/
+    /a-selection-of-u-s-mayors-writing-lawmakers-asking-for-the-removal-of-federal-law-enforcement-in-their-cities-attempting-to-protect-property-reduce-violence/
 _createdAt: '2020-07-28T10:54:22Z'
 _updatedAt: '2021-04-17T09:18:44Z'
 date: '2020-07-28T10:54:22+00:00'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otK6uuXl
 type: quick_reads
 draft: false
 aliases:
-  - otd-grand-canyon/
+  - /
 _createdAt: '2021-03-30T23:32:35Z'
 _updatedAt: '2021-03-30T23:32:35Z'
 date: '2021-02-27T01:04:00.000Z'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r3ZBzh
 type: quick_reads
 draft: false
 aliases:
-  - otd-sally-ride/
+  - /
 _createdAt: '2021-04-02T18:17:28Z'
 _updatedAt: '2021-04-02T18:17:28Z'
 date: '2020-06-18T21:18:00.000Z'

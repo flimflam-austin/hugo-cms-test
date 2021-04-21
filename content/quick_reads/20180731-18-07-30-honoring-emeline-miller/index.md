@@ -6,7 +6,7 @@ _rev: ZEyhBiGfgCfwE8WOjbuBSy
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-30-honoring-emeline-miller/
+  - /
 _createdAt: '2018-07-30T17:35:09Z'
 _updatedAt: '2021-03-22T13:11:11Z'
 date: '2018-07-30T17:35:09+00:00'

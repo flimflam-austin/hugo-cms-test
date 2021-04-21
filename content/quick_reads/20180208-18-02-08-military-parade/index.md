@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wJidB
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-08-military-parade/
+  - /
 _createdAt: '2018-02-08T17:49:40Z'
 _updatedAt: '2021-03-25T20:53:03Z'
 date: '2018-02-08T17:49:40+00:00'

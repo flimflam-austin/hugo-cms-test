@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rYdp
 type: video_posts
 draft: false
 aliases:
-  - article/july2020-jobs-report/
+  - /july2020-jobs-report/
 _createdAt: '2020-08-07T16:26:30Z'
 _updatedAt: '2021-04-17T09:25:28Z'
 date: '2020-08-07T16:26:30+00:00'

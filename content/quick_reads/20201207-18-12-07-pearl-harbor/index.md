@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxzWxC
 type: quick_reads
 draft: false
 aliases:
-  - 18-12-07-pearl-harbor/
+  - /
 _createdAt: '2018-12-07T12:58:58Z'
 _updatedAt: '2021-03-28T00:54:14Z'
 date: '2018-12-07T12:58:58+00:00'

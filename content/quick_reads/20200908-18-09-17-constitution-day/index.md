@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-17-constitution-day/
+  - /
 _createdAt: '2018-09-17T11:53:56Z'
 _updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-09-17T11:53:56+00:00'

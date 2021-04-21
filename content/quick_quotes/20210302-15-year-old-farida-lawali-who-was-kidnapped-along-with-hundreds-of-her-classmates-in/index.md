@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/15-year-old-farida-lawali-who-was-kidnapped-along-with-hundreds-of-her-classmates-in-nigeria-all-279-were-later-freed-after-several-days-of-captivity/
+    /15-year-old-farida-lawali-who-was-kidnapped-along-with-hundreds-of-her-classmates-in-nigeria-all-279-were-later-freed-after-several-days-of-captivity/
 _createdAt: '2021-04-01T02:23:02Z'
 _updatedAt: '2021-04-17T08:36:03Z'
 date: '2021-03-02T20:13:00.000Z'

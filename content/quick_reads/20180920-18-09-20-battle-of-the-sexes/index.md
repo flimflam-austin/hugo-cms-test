@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJxl5lD
 type: quick_reads
 draft: false
 aliases:
-  - 18-09-20-battle-of-the-sexes/
+  - /
 _createdAt: '2018-09-20T12:00:20Z'
 _updatedAt: '2021-03-27T22:20:51Z'
 date: '2018-09-20T12:00:20+00:00'

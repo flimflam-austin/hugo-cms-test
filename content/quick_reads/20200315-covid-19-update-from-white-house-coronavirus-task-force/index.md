@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4ic8D
 type: quick_reads
 draft: false
 aliases:
-  - covid-19-update-from-white-house-coronavirus-task-force/
+  - /
 _createdAt: '2021-04-04T04:57:17Z'
 _updatedAt: '2021-04-04T04:57:17Z'
 date: '2020-03-15T06:13:00.000Z'

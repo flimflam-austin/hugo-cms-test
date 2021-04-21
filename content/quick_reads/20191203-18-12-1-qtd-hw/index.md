@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF31C
 type: quick_reads
 draft: false
 aliases:
-  - 18-12-1-qtd-hw/
+  - /
 _createdAt: '2018-12-01T05:39:18Z'
 _updatedAt: '2021-03-22T13:11:17Z'
 date: '2018-12-01T05:39:18+00:00'

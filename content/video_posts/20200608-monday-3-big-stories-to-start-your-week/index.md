@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rWWm
 type: video_posts
 draft: false
 aliases:
-  - article/monday-3-big-stories-to-start-your-week/
+  - /monday-3-big-stories-to-start-your-week/
 _createdAt: '2020-06-09T00:00:29Z'
 _updatedAt: '2021-04-17T09:24:53Z'
 date: '2020-06-09T00:00:29+00:00'

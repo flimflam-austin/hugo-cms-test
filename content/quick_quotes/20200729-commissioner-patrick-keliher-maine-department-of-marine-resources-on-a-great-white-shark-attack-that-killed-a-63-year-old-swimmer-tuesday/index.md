@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/commissioner-patrick-keliher-maine-department-of-marine-resources-on-a-great-white-shark-attack-that-killed-a-63-year-old-swimmer-tuesday/
+    /commissioner-patrick-keliher-maine-department-of-marine-resources-on-a-great-white-shark-attack-that-killed-a-63-year-old-swimmer-tuesday/
 _createdAt: '2020-07-29T17:21:24Z'
 _updatedAt: '2021-04-17T09:18:02Z'
 date: '2020-07-29T17:21:24+00:00'

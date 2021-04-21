@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsBis4
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-15-doj-on-clinton-probe/
+  - /
 _createdAt: '2018-06-15T10:36:52Z'
 _updatedAt: '2021-03-26T01:36:08Z'
 date: '2018-06-15T10:36:52+00:00'

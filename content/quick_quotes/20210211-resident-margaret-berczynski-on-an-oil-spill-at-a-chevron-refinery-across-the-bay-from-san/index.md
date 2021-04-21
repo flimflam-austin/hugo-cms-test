@@ -10,7 +10,7 @@ _rev: g1HhvQfTBY7k1oIqmTaQrA
 type: quick_quotes
 draft: false
 aliases:
-  - article/oil-spill-by-the-bay/
+  - /oil-spill-by-the-bay/
 _createdAt: '2021-04-01T11:43:06Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-02-11T05:53:00.000Z'

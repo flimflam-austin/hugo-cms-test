@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/chief-economist-diane-swonk-grant-thornton-on-economic-growth-showing-the-largest-gain-on-record-since-data-records-started-during-wwii/
+    /chief-economist-diane-swonk-grant-thornton-on-economic-growth-showing-the-largest-gain-on-record-since-data-records-started-during-wwii/
 _createdAt: '2020-11-02T05:08:19Z'
 _updatedAt: '2021-04-17T08:51:18Z'
 date: '2020-11-02T05:08:19+00:00'

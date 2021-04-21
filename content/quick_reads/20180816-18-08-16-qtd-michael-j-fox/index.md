@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xYkPF
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-16-qtd-michael-j-fox/
+  - /
 _createdAt: '2018-08-16T11:42:46Z'
 _updatedAt: '2021-03-26T20:01:52Z'
 date: '2018-08-16T11:42:46+00:00'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJuxklN
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-11-mini-books/
+  - /
 _createdAt: '2018-08-14T11:54:36Z'
 _updatedAt: '2021-03-26T19:55:46Z'
 date: '2018-08-14T11:54:36+00:00'

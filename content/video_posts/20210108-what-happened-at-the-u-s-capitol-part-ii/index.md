@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rSit
 type: video_posts
 draft: false
 aliases:
-  - article/what-happened-at-the-u-s-capitol-part-ii/
+  - /what-happened-at-the-u-s-capitol-part-ii/
 _createdAt: '2021-01-08T16:32:20Z'
 _updatedAt: '2021-04-17T09:23:45Z'
 date: '2021-01-08T16:32:20+00:00'

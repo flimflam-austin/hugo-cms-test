@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq27rXg1
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-08-louboutin/
+  - /
 _createdAt: '2018-02-09T21:52:33Z'
 _updatedAt: '2021-03-25T20:58:48Z'
 date: '2018-02-09T21:52:33+00:00'

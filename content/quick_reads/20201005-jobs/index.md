@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4oooER
 type: quick_reads
 draft: false
 aliases:
-  - jobs/
+  - /
 _createdAt: '2021-04-01T19:18:07Z'
 _updatedAt: '2021-04-01T19:18:07Z'
 date: '2020-10-05T21:10:00.000Z'

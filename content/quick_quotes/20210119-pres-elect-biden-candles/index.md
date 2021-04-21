@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HdCDk
 type: quick_quotes
 draft: false
 aliases:
-  - article/pres-elect-biden-candles/
+  - /pres-elect-biden-candles/
 _createdAt: '2021-01-20T02:58:14Z'
 _updatedAt: '2021-04-17T09:20:18Z'
 date: '2021-01-20T02:58:14+00:00'

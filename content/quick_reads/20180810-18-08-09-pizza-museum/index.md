@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xY7hF
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-09-pizza-museum/
+  - /
 _createdAt: '2018-08-10T11:43:10Z'
 _updatedAt: '2021-03-26T19:47:09Z'
 date: '2018-08-10T11:43:10+00:00'

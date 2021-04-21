@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJs9Tbj
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-11-soldier-dies-somalia/
+  - /
 _createdAt: '2018-06-11T10:41:44Z'
 _updatedAt: '2021-03-26T01:12:09Z'
 date: '2018-06-11T10:41:44+00:00'

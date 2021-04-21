@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/iranian-intelligence-minister-mahmoud-alavi-on-iran-potentially-development-nuclear-weapons/
+    /iranian-intelligence-minister-mahmoud-alavi-on-iran-potentially-development-nuclear-weapons/
 _createdAt: '2021-02-09T12:34:02Z'
 _updatedAt: '2021-04-17T09:20:21Z'
 date: '2021-02-09T12:34:02+00:00'

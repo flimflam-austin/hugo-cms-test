@@ -9,7 +9,7 @@ _rev: Pxytp4DhfU5gNtP633m3Wd
 type: quick_quotes
 draft: false
 aliases:
-  - article/opposition-leader-arrested/
+  - /opposition-leader-arrested/
 _createdAt: '2021-01-24T21:33:11Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2021-01-24T21:33:11+00:00'

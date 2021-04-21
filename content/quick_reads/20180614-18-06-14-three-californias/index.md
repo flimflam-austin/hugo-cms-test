@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28TEQo
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-14-three-californias/
+  - /
 _createdAt: '2018-06-14T10:33:19Z'
 _updatedAt: '2021-03-26T01:33:40Z'
 date: '2018-06-14T10:33:19+00:00'

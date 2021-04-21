@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/georgia-secretary-of-state-brad-raffensperger-announcing-the-state-will-perform-a-hand-recount-of-the-presidential-election-results/
+    /georgia-secretary-of-state-brad-raffensperger-announcing-the-state-will-perform-a-hand-recount-of-the-presidential-election-results/
 _createdAt: '2020-11-12T02:40:38Z'
 _updatedAt: '2021-04-17T09:19:47Z'
 date: '2020-11-12T02:40:38+00:00'

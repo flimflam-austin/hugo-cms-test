@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/white-house-covid-19-task-force-coordinator-dr-deborah-birx-on-why-were-now-in-a-new-phase/
+    /white-house-covid-19-task-force-coordinator-dr-deborah-birx-on-why-were-now-in-a-new-phase/
 _createdAt: '2020-08-03T22:25:04Z'
 _updatedAt: '2021-04-17T09:22:27Z'
 date: '2020-08-03T22:25:04+00:00'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2AyDZB
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-13-plastic/
+  - /
 _createdAt: '2018-08-13T11:46:06Z'
 _updatedAt: '2021-03-26T19:52:40Z'
 date: '2018-08-13T11:46:06+00:00'

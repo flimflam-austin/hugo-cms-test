@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/parler-chief-technology-officer-alexander-blair-on-the-social-media-platform-returning-to-operation-after-major-tech-companies-shut-it-down/
+    /parler-chief-technology-officer-alexander-blair-on-the-social-media-platform-returning-to-operation-after-major-tech-companies-shut-it-down/
 _createdAt: '2021-04-01T11:29:33Z'
 _updatedAt: '2021-04-17T08:51:18Z'
 date: '2021-02-16T19:59:00.000Z'

@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/vp-elect-kamala-harris-on-why-the-incoming-biden-administration-wants-to-continue-an-outside-inauguration-on-capitol-hill-considering-the-reported-security-threats/
+    /vp-elect-kamala-harris-on-why-the-incoming-biden-administration-wants-to-continue-an-outside-inauguration-on-capitol-hill-considering-the-reported-security-threats/
 _createdAt: '2021-01-18T05:13:11Z'
 _updatedAt: '2021-04-17T09:17:41Z'
 date: '2021-01-18T05:13:11+00:00'

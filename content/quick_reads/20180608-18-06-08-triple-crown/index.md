@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJs9Hey
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-08-triple-crown/
+  - /
 _createdAt: '2018-06-08T10:43:24Z'
 _updatedAt: '2021-03-26T01:10:14Z'
 date: '2018-06-08T10:43:24+00:00'

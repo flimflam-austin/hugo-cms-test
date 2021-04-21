@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsEnal
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-26-chris-pratt/
+  - /
 _createdAt: '2018-06-27T11:00:34Z'
 _updatedAt: '2021-03-26T01:58:19Z'
 date: '2018-06-27T11:00:34+00:00'

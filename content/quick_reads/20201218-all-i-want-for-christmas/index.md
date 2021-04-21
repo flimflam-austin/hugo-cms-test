@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4iX0yt
 type: quick_reads
 draft: false
 aliases:
-  - all-i-want-for-christmas/
+  - /
 _createdAt: '2021-03-31T18:13:09Z'
 _updatedAt: '2021-03-31T18:13:09Z'
 date: '2020-12-18T12:13:00.000Z'

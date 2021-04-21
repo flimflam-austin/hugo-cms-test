@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4r7wqB
 type: quick_reads
 draft: false
 aliases:
-  - russia-afghanistan-cash-rewards/
+  - /
 _createdAt: '2021-04-02T07:18:17Z'
 _updatedAt: '2021-04-02T07:18:17Z'
 date: '2020-07-02T21:09:00.000Z'

@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2Ay1Sc
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-08-mike-pence-space-force/
+  - /
 _createdAt: '2018-08-10T11:51:32Z'
 _updatedAt: '2021-03-26T19:50:19Z'
 date: '2018-08-10T11:51:32+00:00'

@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTaufY
 type: quick_quotes
 draft: false
 aliases:
-  - article/latest-armenia-and-azerbaijan/
+  - /latest-armenia-and-azerbaijan/
 _createdAt: '2020-11-16T04:09:09Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-11-16T04:09:09+00:00'

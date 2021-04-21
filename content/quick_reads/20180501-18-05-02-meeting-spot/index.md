@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28EJaK
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-02-meeting-spot/
+  - /
 _createdAt: '2018-05-02T10:57:41Z'
 _updatedAt: '2021-03-25T23:32:55Z'
 date: '2018-05-02T10:57:41+00:00'

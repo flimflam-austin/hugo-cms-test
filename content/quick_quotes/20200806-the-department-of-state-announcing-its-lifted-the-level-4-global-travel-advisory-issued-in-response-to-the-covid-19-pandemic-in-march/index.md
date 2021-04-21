@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/the-department-of-state-announcing-its-lifted-the-level-4-global-travel-advisory-issued-in-response-to-the-covid-19-pandemic-in-march/
+    /the-department-of-state-announcing-its-lifted-the-level-4-global-travel-advisory-issued-in-response-to-the-covid-19-pandemic-in-march/
 _createdAt: '2020-08-06T20:23:10Z'
 _updatedAt: '2021-04-17T09:18:51Z'
 date: '2020-08-06T20:23:10+00:00'

@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4pn7Sp
 type: quick_reads
 draft: false
 aliases:
-  - march-on-washington/
+  - /
 _createdAt: '2021-04-01T23:23:44Z'
 _updatedAt: '2021-04-01T23:27:44Z'
 date: '2020-08-29T03:14:00.000Z'

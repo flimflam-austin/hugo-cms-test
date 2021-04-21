@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633lnwu
 type: quick_quotes
 draft: false
 aliases:
-  - article/former-sec-of-navy-richard-spencer-accepts-termination/
+  - /former-sec-of-navy-richard-spencer-accepts-termination/
 _createdAt: '2019-11-25T04:15:35Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2019-11-25T04:15:35+00:00'

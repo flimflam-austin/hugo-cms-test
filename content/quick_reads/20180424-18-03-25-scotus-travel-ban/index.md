@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-25-scotus-travel-ban/
+  - /
 _createdAt: '2018-04-25T10:03:37Z'
 _updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-25T10:03:37+00:00'

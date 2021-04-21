@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4oSnBD
 type: quick_reads
 draft: false
 aliases:
-  - theodore-roosevelt/
+  - /
 _createdAt: '2021-04-01T18:08:51Z'
 _updatedAt: '2021-04-01T18:08:51Z'
 date: '2020-10-28T07:38:00.000Z'

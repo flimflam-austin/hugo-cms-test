@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/the-washington-state-department-of-agriculture-announcing-it-successfully-removed-the-first-ever-asian-giant-hornet-aka-murder-hornets-nest-located-in-the-united-states/
+    /the-washington-state-department-of-agriculture-announcing-it-successfully-removed-the-first-ever-asian-giant-hornet-aka-murder-hornets-nest-located-in-the-united-states/
 _createdAt: '2020-10-24T23:44:00Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-10-24T23:44:00+00:00'

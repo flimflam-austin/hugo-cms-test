@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/director-of-the-fdas-center-for-biologics-evaluation-and-research-dr-peter-marks-as-the-fda-granted-emergency-use-authorization-to-the-pfizer-covid-19-vaccine/
+    /director-of-the-fdas-center-for-biologics-evaluation-and-research-dr-peter-marks-as-the-fda-granted-emergency-use-authorization-to-the-pfizer-covid-19-vaccine/
 _createdAt: '2020-12-12T04:18:14Z'
 _updatedAt: '2021-04-17T09:20:08Z'
 date: '2020-12-12T04:18:14+00:00'

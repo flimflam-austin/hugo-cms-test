@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTaWdE
 type: quick_quotes
 draft: false
 aliases:
-  - article/brexit-leader-hails-election-victory/
+  - /brexit-leader-hails-election-victory/
 _createdAt: '2019-12-13T17:17:29Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2019-12-13T17:17:29+00:00'

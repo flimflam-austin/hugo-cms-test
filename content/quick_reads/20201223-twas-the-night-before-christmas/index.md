@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r1H07l
 type: quick_reads
 draft: false
 aliases:
-  - twas-the-night-before-christmas/
+  - /
 _createdAt: '2021-03-31T18:04:59Z'
 _updatedAt: '2021-03-31T18:04:59Z'
 date: '2020-12-23T20:01:00.000Z'

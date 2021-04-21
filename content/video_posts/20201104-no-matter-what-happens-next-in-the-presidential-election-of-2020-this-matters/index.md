@@ -10,7 +10,7 @@ type: video_posts
 draft: false
 aliases:
   - >-
-    article/no-matter-what-happens-next-in-the-presidential-election-of-2020-this-matters/
+    /no-matter-what-happens-next-in-the-presidential-election-of-2020-this-matters/
 _createdAt: '2020-11-04T20:58:23Z'
 _updatedAt: '2021-04-17T09:25:38Z'
 date: '2020-11-04T20:58:23+00:00'

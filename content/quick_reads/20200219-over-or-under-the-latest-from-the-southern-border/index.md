@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4kWzB
 type: quick_reads
 draft: false
 aliases:
-  - over-or-under-the-latest-from-the-southern-border/
+  - /
 _createdAt: '2021-04-04T06:16:50Z'
 _updatedAt: '2021-04-04T06:16:50Z'
 date: '2020-02-19T04:22:00.000Z'

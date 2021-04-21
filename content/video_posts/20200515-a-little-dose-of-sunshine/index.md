@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnSfz
 type: video_posts
 draft: false
 aliases:
-  - article/a-little-dose-of-sunshine/
+  - /a-little-dose-of-sunshine/
 _createdAt: '2020-05-15T23:26:43Z'
 _updatedAt: '2021-04-17T09:23:52Z'
 date: '2020-05-15T23:26:43+00:00'

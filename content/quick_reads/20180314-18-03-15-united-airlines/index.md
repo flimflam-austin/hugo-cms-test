@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVEzbC
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-15-united-airlines/
+  - /
 _createdAt: '2018-03-15T12:30:10Z'
 _updatedAt: '2021-03-22T13:11:05Z'
 date: '2018-03-15T12:30:10+00:00'

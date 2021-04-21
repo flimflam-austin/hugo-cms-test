@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJuue1G
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-09-alex-jones/
+  - /
 _createdAt: '2018-08-09T11:57:28Z'
 _updatedAt: '2021-03-26T19:42:54Z'
 date: '2018-08-09T11:57:28+00:00'

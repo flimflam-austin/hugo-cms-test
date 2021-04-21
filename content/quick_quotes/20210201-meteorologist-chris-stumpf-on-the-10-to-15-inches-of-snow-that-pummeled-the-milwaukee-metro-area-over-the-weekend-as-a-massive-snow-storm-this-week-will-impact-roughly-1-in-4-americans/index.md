@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/meteorologist-chris-stumpf-on-the-10-to-15-inches-of-snow-that-pummeled-the-milwaukee-metro-area-over-the-weekend-as-a-massive-snow-storm-this-week-will-impact-roughly-1-in-4-americans/
+    /meteorologist-chris-stumpf-on-the-10-to-15-inches-of-snow-that-pummeled-the-milwaukee-metro-area-over-the-weekend-as-a-massive-snow-storm-this-week-will-impact-roughly-1-in-4-americans/
 _createdAt: '2021-02-01T20:20:00Z'
 _updatedAt: '2021-04-17T09:18:46Z'
 date: '2021-02-01T20:20:00+00:00'

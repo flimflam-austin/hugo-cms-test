@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEJtMc
 type: quick_reads
 draft: false
 aliases:
-  - marianne-williamson/
+  - /
 _createdAt: '2021-04-04T07:47:07Z'
 _updatedAt: '2021-04-04T07:51:09Z'
 date: '2020-01-13T12:03:00.000Z'

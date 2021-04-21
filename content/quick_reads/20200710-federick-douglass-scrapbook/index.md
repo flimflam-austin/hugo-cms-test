@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r33ATh
 type: quick_reads
 draft: false
 aliases:
-  - frederick-douglass-scrapbook/
+  - /
 _createdAt: '2021-04-02T06:01:29Z'
 _updatedAt: '2021-04-02T06:01:29Z'
 date: '2020-07-10T18:22:00.000Z'

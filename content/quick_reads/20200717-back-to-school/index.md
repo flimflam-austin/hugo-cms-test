@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r32scn
 type: quick_reads
 draft: false
 aliases:
-  - back-to-school/
+  - /
 _createdAt: '2021-04-02T05:42:43Z'
 _updatedAt: '2021-04-02T05:48:52Z'
 date: '2020-07-17T09:51:00.000Z'

@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r2o3xN
 type: quick_reads
 draft: false
 aliases:
-  - labor-day-2020/
+  - /
 _createdAt: '2021-04-01T23:07:11Z'
 _updatedAt: '2021-04-01T23:07:11Z'
 date: '2020-09-05T05:10:00.000Z'

@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    rticle/assessment-from-insurance-company-allianz-on-the-risk-to-the-global-economy-due-to-a-ship-stuck-in-the-suez-canal/
+    /assessment-from-insurance-company-allianz-on-the-risk-to-the-global-economy-due-to-a-ship-stuck-in-the-suez-canal/
 _createdAt: '2021-04-01T01:16:53Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-29T20:04:00.000Z'

@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTaolk
 type: quick_quotes
 draft: false
 aliases:
-  - article/murkowski-on-barrett/
+  - /murkowski-on-barrett/
 _createdAt: '2020-10-26T01:29:11Z'
 _updatedAt: '2021-04-17T09:20:27Z'
 date: '2020-10-26T01:29:11+00:00'

@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HdH2X
 type: quick_quotes
 draft: false
 aliases:
-  - article/the-second-great-valley-of-the-world/
+  - /the-second-great-valley-of-the-world/
 _createdAt: '2019-01-05T19:46:23Z'
 _updatedAt: '2021-04-17T09:21:12Z'
 date: '2019-01-05T19:46:23+00:00'

@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVEzvC
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-25-stock-market-worries/
+  - /
 _createdAt: '2018-03-26T11:15:56Z'
 _updatedAt: '2021-03-22T13:11:06Z'
 date: '2018-03-26T11:15:56+00:00'

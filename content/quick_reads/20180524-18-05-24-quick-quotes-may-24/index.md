@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wWGAf
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-24-quick-quotes-may-24/
+  - /
 _createdAt: '2018-05-24T10:16:04Z'
 _updatedAt: '2021-03-26T00:41:50Z'
 date: '2018-05-24T10:16:04+00:00'

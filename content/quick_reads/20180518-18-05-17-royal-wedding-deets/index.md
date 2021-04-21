@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF0xC
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-17-royal-wedding-deets/
+  - /
 _createdAt: '2018-05-17T10:10:41Z'
 _updatedAt: '2021-03-22T13:11:09Z'
 date: '2018-05-17T10:10:41+00:00'

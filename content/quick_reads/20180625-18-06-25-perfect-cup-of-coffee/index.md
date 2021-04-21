@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28W0a2
 type: quick_reads
 draft: false
 aliases:
-  - 18-06-25-perfect-cup-of-coffee/
+  - /
 _createdAt: '2018-06-25T09:44:07Z'
 _updatedAt: '2021-03-26T01:51:22Z'
 date: '2018-06-25T09:44:07+00:00'

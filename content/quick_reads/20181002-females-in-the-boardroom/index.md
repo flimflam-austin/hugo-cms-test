@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452yiOP7
 type: quick_reads
 draft: false
 aliases:
-  - females-in-the-boardroom/
+  - /
 _createdAt: '2018-10-02T11:36:20Z'
 _updatedAt: '2021-03-28T00:15:52Z'
 date: '2018-10-02T11:36:20+00:00'

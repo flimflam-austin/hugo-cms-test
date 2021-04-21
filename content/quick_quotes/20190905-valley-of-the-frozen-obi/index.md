@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633ltpp
 type: quick_quotes
 draft: false
 aliases:
-  - article/valley-of-the-frozen-obi/
+  - /valley-of-the-frozen-obi/
 _createdAt: '2019-01-05T19:45:10Z'
 _updatedAt: '2021-04-17T09:18:06Z'
 date: '2019-01-05T19:45:10+00:00'

@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJy0OYo
 type: quick_reads
 draft: false
 aliases:
-  - aging-allergies/
+  - /
 _createdAt: '2019-01-10T13:31:22Z'
 _updatedAt: '2021-03-28T01:07:33Z'
 date: '2019-01-10T13:31:22+00:00'

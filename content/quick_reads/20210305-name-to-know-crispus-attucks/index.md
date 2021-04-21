@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532qmLV
 type: quick_reads
 draft: false
 aliases:
-  - name-to-know-crispus-attucks/
+  - /
 _createdAt: '2021-03-30T23:11:23Z'
 _updatedAt: '2021-03-30T23:11:23Z'
 date: '2021-03-05T21:47:00.000Z'

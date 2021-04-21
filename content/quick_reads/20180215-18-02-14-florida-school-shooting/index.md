@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrgliN
 type: quick_reads
 draft: false
 aliases:
-  - 18-02-14-florida-school-shooting/
+  - /
 _createdAt: '2018-02-15T03:00:16Z'
 _updatedAt: '2021-03-25T21:42:05Z'
 date: '2018-02-15T03:00:16+00:00'

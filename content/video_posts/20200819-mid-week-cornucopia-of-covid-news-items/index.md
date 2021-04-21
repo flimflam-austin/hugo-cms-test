@@ -6,7 +6,7 @@ _rev: Pxytp4DhfU5gNtP633rXlO
 type: video_posts
 draft: false
 aliases:
-  - article/mid-week-cornucopia-of-covid-news-items/
+  - /mid-week-cornucopia-of-covid-news-items/
 _createdAt: '2020-08-19T16:24:59Z'
 _updatedAt: '2021-04-17T09:25:16Z'
 date: '2020-08-19T16:24:59+00:00'

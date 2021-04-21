@@ -10,7 +10,7 @@ _rev: gzsIxkhSGQWrSyyf7HdAYA
 type: quick_quotes
 draft: false
 aliases:
-  - article/resilience-flight-dec-2020/
+  - /resilience-flight-dec-2020/
 _createdAt: '2020-11-16T03:47:29Z'
 _updatedAt: '2021-04-17T09:20:00Z'
 date: '2020-11-16T03:47:29+00:00'

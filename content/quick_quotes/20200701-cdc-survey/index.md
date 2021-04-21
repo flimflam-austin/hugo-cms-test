@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7HdOcd
 type: quick_quotes
 draft: false
 aliases:
-  - article/cdc-survey/
+  - /cdc-survey/
 _createdAt: '2020-07-01T20:26:45Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-07-01T20:26:45+00:00'

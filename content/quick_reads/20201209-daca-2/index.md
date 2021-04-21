@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCRn8Y
 type: quick_reads
 draft: false
 aliases:
-  - daca-2/
+  - /
 _createdAt: '2021-03-31T19:00:47Z'
 _updatedAt: '2021-04-01T05:35:49Z'
 date: '2020-12-09T05:59:00.000Z'

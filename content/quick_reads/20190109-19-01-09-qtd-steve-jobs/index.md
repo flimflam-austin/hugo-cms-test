@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DKsJB
 type: quick_reads
 draft: false
 aliases:
-  - 19-01-09-qtd-steve-jobs/
+  - /
 _createdAt: '2019-01-09T13:11:07Z'
 _updatedAt: '2021-03-28T01:07:06Z'
 date: '2019-01-09T13:11:07+00:00'

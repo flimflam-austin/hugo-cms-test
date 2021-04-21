@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/acting-sec-of-defense-chris-miller-on-the-reduction-of-u-s-troops-in-afghanistan-to-the-lowest-level-since-2001/
+    /acting-sec-of-defense-chris-miller-on-the-reduction-of-u-s-troops-in-afghanistan-to-the-lowest-level-since-2001/
 _createdAt: '2021-01-18T04:59:13Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-01-18T04:59:13+00:00'

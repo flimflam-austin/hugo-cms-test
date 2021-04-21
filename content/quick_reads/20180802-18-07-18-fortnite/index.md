@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wcbjh
 type: quick_reads
 draft: false
 aliases:
-  - 18-07-18-fortnite/
+  - /
 _createdAt: '2018-07-18T11:02:52Z'
 _updatedAt: '2021-03-26T03:01:31Z'
 date: '2018-07-18T11:02:52+00:00'

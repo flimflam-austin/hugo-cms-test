@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2Nu5di
 type: quick_reads
 draft: false
 aliases:
-  - inauguration-history/
+  - /
 _createdAt: '2021-03-31T17:09:36Z'
 _updatedAt: '2021-03-31T17:10:04Z'
 date: '2021-01-20T06:39:00.000Z'

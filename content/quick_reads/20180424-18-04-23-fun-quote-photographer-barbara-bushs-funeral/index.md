@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF0RC
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-23-fun-quote-photographer-barbara-bushs-funeral/
+  - /
 _createdAt: '2018-04-24T11:45:58Z'
 _updatedAt: '2021-03-22T13:11:08Z'
 date: '2018-04-24T11:45:58+00:00'

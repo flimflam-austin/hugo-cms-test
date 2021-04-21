@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDDUECU
 type: quick_reads
 draft: false
 aliases:
-  - covid-19-your-workout/
+  - /
 _createdAt: '2021-04-02T18:45:16Z'
 _updatedAt: '2021-04-02T18:45:16Z'
 date: '2020-05-28T02:50:00.000Z'

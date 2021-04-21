@@ -7,8 +7,7 @@ _rev: Pxytp4DhfU5gNtP633rTzW
 type: video_posts
 draft: false
 aliases:
-  - >-
-    article/video-why-this-week-will-make-history-start-to-finish-october-26-nov-1/
+  - /video-why-this-week-will-make-history-start-to-finish-october-26-nov-1/
 _createdAt: '2020-10-26T06:05:54Z'
 _updatedAt: '2021-04-17T09:24:09Z'
 date: '2020-10-26T06:05:54+00:00'

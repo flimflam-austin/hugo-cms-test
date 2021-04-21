@@ -8,7 +8,7 @@ _rev: Pxytp4DhfU5gNtP633m0nH
 type: quick_quotes
 draft: false
 aliases:
-  - article/dc-51/
+  - /dc-51/
 _createdAt: '2020-06-26T14:15:29Z'
 _updatedAt: '2021-04-17T09:20:35Z'
 date: '2020-06-26T14:15:29+00:00'

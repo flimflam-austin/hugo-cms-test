@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTauS0
 type: quick_quotes
 draft: false
 aliases:
-  - article/wolf-moon-2021/
+  - /wolf-moon-2021/
 _createdAt: '2021-02-01T05:36:50Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2021-02-01T05:36:50+00:00'

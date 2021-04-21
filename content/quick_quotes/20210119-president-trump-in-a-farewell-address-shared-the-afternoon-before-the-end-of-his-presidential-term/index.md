@@ -10,7 +10,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/president-trump-in-a-farewell-address-shared-the-afternoon-before-the-end-of-his-presidential-term/
+    /president-trump-in-a-farewell-address-shared-the-afternoon-before-the-end-of-his-presidential-term/
 _createdAt: '2021-01-20T00:50:12Z'
 _updatedAt: '2021-04-17T09:18:32Z'
 date: '2021-01-20T00:50:12+00:00'

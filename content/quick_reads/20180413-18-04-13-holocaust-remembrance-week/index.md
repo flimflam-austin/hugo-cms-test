@@ -6,7 +6,7 @@ _rev: O8E8pz1fLwnc3fN7JVF0FC
 type: quick_reads
 draft: false
 aliases:
-  - 18-04-13-holocaust-remembrance-week/
+  - /
 _createdAt: '2018-04-13T10:30:16Z'
 _updatedAt: '2021-03-22T13:11:07Z'
 date: '2018-04-13T10:30:16+00:00'

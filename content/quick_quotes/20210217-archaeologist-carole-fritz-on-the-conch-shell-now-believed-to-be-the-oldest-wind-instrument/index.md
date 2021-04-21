@@ -10,7 +10,7 @@ _rev: Pxytp4DhfU5gNtP633likK
 type: quick_quotes
 draft: false
 aliases:
-  - article/oldest-instrument-conch-shell/
+  - /oldest-instrument-conch-shell/
 _createdAt: '2021-04-01T11:28:06Z'
 _updatedAt: '2021-04-17T08:44:41Z'
 date: '2021-02-17T03:31:00.000Z'

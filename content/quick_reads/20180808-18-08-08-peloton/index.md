@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJuuVET
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-08-peloton/
+  - /
 _createdAt: '2018-08-08T11:59:57Z'
 _updatedAt: '2021-03-26T19:41:59Z'
 date: '2018-08-08T11:59:57+00:00'

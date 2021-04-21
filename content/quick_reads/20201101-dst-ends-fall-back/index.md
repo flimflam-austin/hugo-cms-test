@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCplgk
 type: quick_reads
 draft: false
 aliases:
-  - dst-ends-fall-back/
+  - /
 _createdAt: '2021-04-01T17:53:46Z'
 _updatedAt: '2021-04-01T17:53:46Z'
 date: '2020-11-01T04:52:00.000Z'

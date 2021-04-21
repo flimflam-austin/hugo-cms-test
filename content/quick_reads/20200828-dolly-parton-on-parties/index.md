@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCzla2
 type: quick_reads
 draft: false
 aliases:
-  - dolly-parton-on-parties/
+  - /
 _createdAt: '2021-04-01T23:30:41Z'
 _updatedAt: '2021-04-01T23:30:41Z'
 date: '2020-08-28T22:57:00.000Z'

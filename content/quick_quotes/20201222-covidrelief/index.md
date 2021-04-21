@@ -8,7 +8,7 @@ _rev: gzsIxkhSGQWrSyyf7Hd7is
 type: quick_quotes
 draft: false
 aliases:
-  - article/covid_relief/
+  - /covid_relief/
 _createdAt: '2020-12-22T17:43:15Z'
 _updatedAt: '2021-04-17T09:19:34Z'
 date: '2020-12-22T17:43:15+00:00'

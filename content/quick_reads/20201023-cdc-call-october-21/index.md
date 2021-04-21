@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDCqldW
 type: quick_reads
 draft: false
 aliases:
-  - cdc-call-october-21/
+  - /
 _createdAt: '2021-04-01T18:23:54Z'
 _updatedAt: '2021-04-01T18:23:54Z'
 date: '2020-10-23T07:25:00.000Z'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452ykbVl
 type: quick_reads
 draft: false
 aliases:
-  - netflix/
+  - /
 _createdAt: '2019-01-08T13:19:19Z'
 _updatedAt: '2021-03-28T01:04:28Z'
 date: '2019-01-08T13:19:19+00:00'

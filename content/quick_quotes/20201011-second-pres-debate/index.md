@@ -8,7 +8,7 @@ _rev: Pxytp4DhfU5gNtP633m1jk
 type: quick_quotes
 draft: false
 aliases:
-  - article/second-pres-debate/
+  - /second-pres-debate/
 _createdAt: '2020-10-08T13:19:37Z'
 _updatedAt: '2021-04-17T09:20:51Z'
 date: '2020-10-08T13:19:37+00:00'

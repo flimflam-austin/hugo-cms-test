@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJrPrLn
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-10-daylight-saving/
+  - /
 _createdAt: '2019-03-10T11:00:50Z'
 _updatedAt: '2021-03-25T20:08:33Z'
 date: '2019-03-10T11:00:50+00:00'

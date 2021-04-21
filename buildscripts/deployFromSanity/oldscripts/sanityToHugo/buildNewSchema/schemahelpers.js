@@ -25,7 +25,7 @@ const getFlatPair = (
     return ff.isValue(transformedValue) ? { [key]: transformedValue } : null;
 };
 
-const getArrayPair = (key, arrayValue) => {
+const getArrayPair = (key, arrayValue, valueTransformer = ff.identity) => {
     if (ff.isMissingValue(key)) {
         console.error(
             `Failed to get key for the pair '${key} : ${arrayValue}. Returning null.`
@@ -39,7 +39,9 @@ const getArrayPair = (key, arrayValue) => {
         return null;
     }
 
-    const validatedArrayValues = ff.getValidArrayValues(arrayValue);
+    const transformedArray = arrayValue.map(valueTransformer)
+
+    const validatedArrayValues = ff.getValidArrayValues(transformedArray);
 
     return ff.isValue(validatedArrayValues)
         ? { [key]: validatedArrayValues }

@@ -6,7 +6,7 @@ _rev: 0KehTab4xF35vphMXgzgY3
 type: quick_reads
 draft: false
 aliases:
-  - qtd-dare-mighty-things/
+  - /
 _createdAt: '2021-03-30T23:26:10Z'
 _updatedAt: '2021-03-30T23:26:10Z'
 date: '2021-03-02T01:00:00.000Z'

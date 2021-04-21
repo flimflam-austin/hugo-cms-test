@@ -8,7 +8,7 @@ _rev: g1HhvQfTBY7k1oIqmTaUXY
 type: quick_quotes
 draft: false
 aliases:
-  - article/barr-resignation/
+  - /barr-resignation/
 _createdAt: '2020-12-15T05:11:13Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2020-12-15T05:11:13+00:00'

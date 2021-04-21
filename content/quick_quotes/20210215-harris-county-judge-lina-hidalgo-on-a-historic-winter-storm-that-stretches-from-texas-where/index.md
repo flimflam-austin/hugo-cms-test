@@ -11,7 +11,7 @@ type: quick_quotes
 draft: false
 aliases:
   - >-
-    article/harris-county-judge-lina-hidalgo-on-a-historic-winter-storm-that-stretches-from-texas-where-the-judge-is-based-near-austin-to-the-northeast-impacting-1-in-2-americans/
+    /harris-county-judge-lina-hidalgo-on-a-historic-winter-storm-that-stretches-from-texas-where-the-judge-is-based-near-austin-to-the-northeast-impacting-1-in-2-americans/
 _createdAt: '2021-04-01T11:31:23Z'
 _updatedAt: '2021-04-17T08:36:03Z'
 date: '2021-02-15T20:23:00.000Z'

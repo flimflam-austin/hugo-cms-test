@@ -6,7 +6,7 @@ _rev: TDo1Nq1xkiZakmRW4quOjf
 type: quick_reads
 draft: false
 aliases:
-  - cdc-on-masks-in-salons/
+  - /
 _createdAt: '2021-04-02T05:51:18Z'
 _updatedAt: '2021-04-02T05:51:18Z'
 date: '2020-07-15T23:19:00.000Z'

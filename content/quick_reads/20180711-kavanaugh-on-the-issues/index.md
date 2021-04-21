@@ -6,7 +6,7 @@ _rev: 0aCMfzqL0erea7otJsHw6c
 type: quick_reads
 draft: false
 aliases:
-  - kavanaugh-on-the-issues/
+  - /
 _createdAt: '2018-07-12T10:01:12Z'
 _updatedAt: '2021-03-26T02:35:26Z'
 date: '2018-07-12T10:01:12+00:00'

@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wPXM5
 type: quick_reads
 draft: false
 aliases:
-  - 2018-03-21-otd-alcatraz/
+  - /
 _createdAt: '2018-03-21T12:45:48Z'
 _updatedAt: '2021-03-25T22:27:44Z'
 date: '2018-03-21T12:45:48+00:00'

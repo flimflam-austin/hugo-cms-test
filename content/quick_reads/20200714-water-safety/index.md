@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDD84Fy
 type: quick_reads
 draft: false
 aliases:
-  - water-safety/
+  - /
 _createdAt: '2021-04-02T05:53:26Z'
 _updatedAt: '2021-04-02T05:53:26Z'
 date: '2020-07-14T21:48:00.000Z'

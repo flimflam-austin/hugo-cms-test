@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452wO5WX
 type: quick_reads
 draft: false
 aliases:
-  - 18-03-04-oscars/
+  - /
 _createdAt: '2018-03-04T15:21:15Z'
 _updatedAt: '2021-03-25T22:07:13Z'
 date: '2018-03-04T15:21:15+00:00'

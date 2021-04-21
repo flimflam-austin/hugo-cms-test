@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E452xWiJR
 type: quick_reads
 draft: false
 aliases:
-  - 18-08-03-podcast/
+  - /
 _createdAt: '2018-08-06T02:17:22Z'
 _updatedAt: '2021-03-26T19:25:18Z'
 date: '2018-08-06T02:17:22+00:00'

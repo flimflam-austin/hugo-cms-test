@@ -10,7 +10,7 @@ _rev: g1HhvQfTBY7k1oIqmTaT0i
 type: quick_quotes
 draft: false
 aliases:
-  - article/eiffel-tower-otd-gold/
+  - /eiffel-tower-otd-gold/
 _createdAt: '2021-03-31T23:08:16Z'
 _updatedAt: '2021-04-17T08:36:02Z'
 date: '2021-03-31T22:35:00.000Z'

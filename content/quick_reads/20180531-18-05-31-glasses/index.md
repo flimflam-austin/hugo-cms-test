@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq28P8dP
 type: quick_reads
 draft: false
 aliases:
-  - 18-05-31-glasses/
+  - /
 _createdAt: '2018-05-31T10:56:07Z'
 _updatedAt: '2021-03-26T00:49:54Z'
 date: '2018-05-31T10:56:07+00:00'

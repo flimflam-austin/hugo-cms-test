@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2DKK18
 type: quick_reads
 draft: false
 aliases:
-  - qtd-mariah-carey/
+  - /
 _createdAt: '2018-12-07T13:03:09Z'
 _updatedAt: '2021-03-28T00:56:10Z'
 date: '2018-12-07T13:03:09+00:00'

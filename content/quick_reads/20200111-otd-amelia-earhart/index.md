@@ -6,7 +6,7 @@ _rev: p5oiLzuoOfR9bp21r4ncuj
 type: quick_reads
 draft: false
 aliases:
-  - otd-amelia-earhart/
+  - /
 _createdAt: '2021-04-04T07:53:51Z'
 _updatedAt: '2021-04-04T07:53:51Z'
 date: '2020-01-11T16:17:00.000Z'

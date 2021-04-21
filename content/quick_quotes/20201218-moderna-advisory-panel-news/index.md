@@ -9,7 +9,7 @@ _rev: g1HhvQfTBY7k1oIqmTaoxM
 type: quick_quotes
 draft: false
 aliases:
-  - article/moderna-advisory-panel-news/
+  - /moderna-advisory-panel-news/
 _createdAt: '2020-12-17T23:06:34Z'
 _updatedAt: '2021-04-17T08:49:08Z'
 date: '2020-12-17T23:06:34+00:00'

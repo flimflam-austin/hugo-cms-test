@@ -6,7 +6,7 @@ _rev: Jq8Xn76XXcuwmF7UDEJ0hy
 type: quick_reads
 draft: false
 aliases:
-  - election-2020-caucuses/
+  - /
 _createdAt: '2021-04-04T07:16:24Z'
 _updatedAt: '2021-04-04T07:16:24Z'
 date: '2020-02-04T04:04:00.000Z'

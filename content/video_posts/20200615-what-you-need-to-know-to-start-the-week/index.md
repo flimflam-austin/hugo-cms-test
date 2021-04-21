@@ -6,7 +6,7 @@ _rev: g1HhvQfTBY7k1oIqmTghlQ
 type: video_posts
 draft: false
 aliases:
-  - article/what-you-need-to-know-to-start-the-week/
+  - /what-you-need-to-know-to-start-the-week/
 _createdAt: '2020-06-15T15:15:43Z'
 _updatedAt: '2021-04-17T09:25:32Z'
 date: '2020-06-15T15:15:43+00:00'

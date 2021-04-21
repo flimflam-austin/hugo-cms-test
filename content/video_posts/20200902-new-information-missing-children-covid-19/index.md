@@ -6,7 +6,7 @@ _rev: gzsIxkhSGQWrSyyf7HnXoh
 type: video_posts
 draft: false
 aliases:
-  - article/new-information-missing-children-covid-19/
+  - /new-information-missing-children-covid-19/
 _createdAt: '2020-09-02T19:03:18Z'
 _updatedAt: '2021-04-17T09:24:40Z'
 date: '2020-09-02T19:03:18+00:00'

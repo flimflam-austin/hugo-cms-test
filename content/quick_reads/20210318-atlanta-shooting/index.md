@@ -6,7 +6,7 @@ _rev: 45Isps23253Yjlaq2KsJSn
 type: quick_reads
 draft: false
 aliases:
-  - atlanta-shooting/
+  - /
 _createdAt: '2021-03-30T17:14:40Z'
 _updatedAt: '2021-03-30T21:18:30Z'
 date: '2021-03-18T17:27:00.000Z'

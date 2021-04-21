@@ -6,7 +6,7 @@ _rev: LotyrYkaRjTl0E4532kOgP
 type: quick_reads
 draft: false
 aliases:
-  - myanmar/
+  - /
 _createdAt: '2021-03-30T21:34:27Z'
 _updatedAt: '2021-03-30T21:34:27Z'
 date: '2021-03-16T23:49:00.000Z'
