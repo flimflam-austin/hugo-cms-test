@@ -3,6 +3,7 @@ const arr = require('./arrays')
 const time = require('./time')
 const str = require('./str')
 const jsn = require('./json')
+const rgx = require('./regex')
 
 const thenify = value => Promise.resolve(value)
 
@@ -17,4 +18,16 @@ const tap = fn => x => {
     return x
 }
 
-module.exports = { thenify, asyncMap, asyncMapCurry, pipe, tap, inspect, arr, time, str, jsn }
+module.exports = {
+    thenify,
+    asyncMap,
+    asyncMapCurry,
+    pipe,
+    tap,
+    inspect,
+    arr,
+    time,
+    str,
+    jsn,
+    rgx
+}

@@ -6,14 +6,15 @@ const getVideoId = require('get-video-id');
 const imageUrlBuilder = require('@sanity/image-url');
 const client = require('./../clientMaker');
 const inspect = require('./../inspect')
+const validator = require('validator')
 
 const builder = imageUrlBuilder(client);
 
 // TODO: Implement instagram feed plugin with api key: https://github.com/stevenschobert/instafeed.js/wiki/Managing-Access-Tokens
 // /(?<=instagram\.com\/).*?(?=\/\?)/gi
-const instagramIdRegex = /(?<=instagram\.com\/.*\/).*?(?=\/\?)/gi;
+/* const instagramIdRegex = /(?<=instagram\.com\/.*\/).*?(?=\/\?)/gi;
 
-const getInstagramId = url => url.match(instagramIdRegex);
+const getInstagramId = url => url.match(instagramIdRegex); */
 
 const serializers = {
     types: {
@@ -36,6 +37,8 @@ const serializers = {
             return `{{< figure src="${imageUrl}" alt="${alt}" >}}`;
         },
         youtube: node => {
+
+            // NOTE: pretty confident it can just be node.node.url
             const url = node.url || node.node.url;
 
             if (!url) {
@@ -46,13 +49,16 @@ const serializers = {
 
             const { id, service } = getVideoId(url);
 
-            // return `{{< youtube id="${getYouTubeId(url)}" >}}`;
+            if (service === 'vimeo') {
+                return `{{< vimeo id="${id}" >}}`;
+            }
+
             return `{{< youtube id="${id}" >}}`;
         },
         vimeo: node => {
-            const { url } = node;
+            const url = node.url || node.node.url;
 
-            if (!url) {
+            if (!validator.isURL(url)) {
                 throw Error(`Could not get url from node: ${JSON.stringify(
                     node
                 )} at url: ${url}`);
@@ -73,23 +79,29 @@ const serializers = {
 
         },
         instagramPost: node => {
-            const { url } = node;
+            const url = node.node.url;
 
-            if (!url) {
+            console.log(url)
+
+            if (!validator.isURL(url)) {
                 throw Error(`Could not get url from node: ${JSON.stringify(
                     node
                 )} at url: ${url}`)
             }
 
-            const idArray = getInstagramId(url);
+            /* const idArray = getInstagramId(url);
 
-            if (!idArray || !idArray[0]) {
+
+            console.log(idArray) */
+            /* if (!(idArray?.[0])) {
                 throw Error(`Could not extract instagram post id from node: ${JSON.stringify(
                     node
                 )} at url: ${url}`)
             }
 
-            return `{{< instapost id="${idArray[0]}" >}}`;
+            return `{{< instapost id="${idArray[0]}" >}}`; */
+
+            return `{{< instapost url="${url}" >}}`
         }
     }
 };

@@ -1,10 +1,9 @@
 const sh = require('./../schemahelpers')
 const ff = require('./../../ffhelpers')
 const getImageUrl = require('./../handleimage')
+const { rgx } = require('./../../../../helpers')
 
-const regexRootDomain = /^(?:https?:\/\/)?(?:[^@\/\n]+@)?(?:www\.)?([^:\/?\n]+)/igm
-
-const removeRootFromAlias = alias => alias.replace(regexRootDomain, '')
+const removeRootFromAlias = alias => alias.replace(rgx.rootDomainPattern, '')
 
 const translateTypeName = type => {
     if (!type) {
