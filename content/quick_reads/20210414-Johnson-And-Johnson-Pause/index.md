@@ -2,15 +2,16 @@
 title: Johnson And Johnson Pause
 slug: 20210414-Johnson-And-Johnson-Pause
 _id: 67c6ca66-4573-4f7e-9947-072746f17bd9
-_rev: BjmrbMzn9HNsCfIXdTJcNI
+_rev: BjmrbMzn9HNsCfIXdj74su
 type: quick_reads
 draft: false
 _createdAt: '2021-04-14T17:01:57Z'
-_updatedAt: '2021-04-18T20:35:06Z'
+_updatedAt: '2021-04-20T22:42:01Z'
 date: '2021-04-14T17:42:00.000Z'
 lastmod: '2021-04-14T17:42:00.000Z'
 weight: 50
 featured_image:
+  alt: women
   caption: shadow women
   url: >-
     197dbe8db9c12674604a2658b390d2185e71d331397x400.jpg
@@ -33,7 +34,7 @@ cards:
   - order: 1
     useCheckmark: false
     body: >-
-      ### **The Basics**
+      ## **The Basics**
 
 
       * FDA & CDC report 6 cases of “rare and severe” blood clots in women ages
@@ -51,7 +52,7 @@ cards:
   - order: 2
     useCheckmark: false
     body: >-
-      ### **Why Is It Happening?**
+      ## **Why Is It Happening?**
 
 
       The FDA isn’t certain, but offered this:
@@ -67,7 +68,7 @@ cards:
   - order: 3
     useCheckmark: false
     body: >-
-      ### **The Risk**
+      ## **The Risk**
 
 
       * This condition occurred in 6 cases out of the more than 6.8 million J&J
@@ -83,7 +84,7 @@ cards:
   - order: 4
     useCheckmark: false
     body: >-
-      ### **A Little Bit More**
+      ## **A Little Bit More**
 
 
       ###### Right now, the condition doesn’t appear to be related to birth
@@ -91,14 +92,14 @@ cards:
       under 50 remain the focus.
 
 
-      ###### It’s not *just* blood clotting – it’s blood clotting WITH a
+      ###### It’s not***just*** blood clotting – it’s blood clotting WITH a
       condition of low platelets (thrombocytopenia – which can actually cause
       severe internal bleeding).
     _key: 502f230ec07a
   - order: 5
     useCheckmark: false
     body: >-
-      ### **Big Picture**
+      ## **Big Picture**
 
 
       > “We are totally aware that this is a very rare event. We want to get

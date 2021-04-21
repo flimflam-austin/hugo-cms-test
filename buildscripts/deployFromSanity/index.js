@@ -53,7 +53,7 @@ const run = async schemaList => {
                         })
                         .catch(err => {
                             counter.filesFailed += 1
-                            console.error(`\nFailed to process entry with {type: ${entry._type}, id: ${entry._id}, slug: ${entry.slug?.current}} at mainProgram Error: ${err.message}`)
+                            console.error(`\nFailed to process entry with {type: ${entry._type}, id: ${entry._id}, slug: ${entry.slug?.current}} at mainProgram. Error: ${err.message}`)
                             return false
                         })))
                 })
@@ -66,7 +66,7 @@ const run = async schemaList => {
             ))
         )
         .catch(err => {
-            console.error('top level error in main program', err)
+            console.error(`Aborting. Top level error in main program. Error: ${err.message}`)
         })
         .finally(() => {
             console.log('Final tally:')

@@ -2,11 +2,11 @@
 title: Notre Dame Rebuild
 slug: 20210415-notre-dame-rebuild
 _id: 2812c6d3-c5f8-4dfc-ab0c-493b3972241b
-_rev: BjmrbMzn9HNsCfIXdTQ66G
+_rev: bZ2htdZUUGCFbO58nXhWAR
 type: quick_quotes
 draft: false
 _createdAt: '2021-04-15T02:34:21Z'
-_updatedAt: '2021-04-18T20:55:49Z'
+_updatedAt: '2021-04-20T19:22:51Z'
 date: '2021-04-15T02:35:00.000Z'
 lastmod: '2021-04-15T02:35:00.000Z'
 weight: 50
@@ -17,7 +17,7 @@ featured_image:
   url: >-
     1c4d32d1fc9502833524819e83b4fe092c2b76f95184x3456.jpg
 authorReference: 736ce08a-35f5-4f02-92d5-65507845df97
-is_breaking: true
+is_breaking: false
 featured_quote:
   quote: We know it's the end of something, but it's also the beginning….
   citation: >-

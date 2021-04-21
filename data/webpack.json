@@ -1,10 +1,9 @@
 {
   "main": {
-    "css": "main.6c2fc.css",
-    "js": "main.6c2fc.js"
+    "css": "main.css",
+    "js": "main.js"
   },
   "": {
-    "keep": "fonts/.keep",
-    "txt": "main.6c2fc.js.LICENSE.txt"
+    "keep": "fonts/.keep"
   }
 }

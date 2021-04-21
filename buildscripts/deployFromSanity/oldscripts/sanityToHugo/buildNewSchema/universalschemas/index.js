@@ -2,6 +2,10 @@ const sh = require('./../schemahelpers')
 const ff = require('./../../ffhelpers')
 const getImageUrl = require('./../handleimage')
 
+const regexRootDomain = /^(?:https?:\/\/)?(?:[^@\/\n]+@)?(?:www\.)?([^:\/?\n]+)/igm
+
+const removeRootFromAlias = alias => alias.replace(regexRootDomain, '')
+
 const translateTypeName = type => {
     if (!type) {
         console.error(
@@ -83,7 +87,7 @@ const getUniversalFields = data => {
             sh.getFlatPair('_rev', data._rev),
             sh.getFlatPair('type', data._type, null, translateTypeName),
             sh.getFlatPair('draft', data._id, null, isDraft),
-            sh.getArrayPair('aliases', data.aliases),
+            sh.getArrayPair('aliases', data.aliases, null, removeRootFromAlias),
             sh.getFlatPair('_createdAt', data._createdAt),
             sh.getFlatPair('_updatedAt', data._updatedAt),
             sh.getFlatPair('date', data.datePublished, data._createdAt),
