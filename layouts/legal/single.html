@@ -2,12 +2,12 @@
 
 <main class="l-page__container">
     <article class="post">
-        <header class="post-header">
-            <h1>{{ .Title }}</h1>
-        </header>
-        <section>
-            {{ .Content }}
-        </section>
+        <div class="page-content">
+            <div class="page-content__body">
+                <h1 class="legal__title">{{ .Title }}</h1>
+                {{ .Content }}
+            </div>
+        </div>
     </article>
 </main>
 

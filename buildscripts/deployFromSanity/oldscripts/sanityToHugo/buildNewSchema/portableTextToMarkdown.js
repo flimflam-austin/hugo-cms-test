@@ -81,8 +81,6 @@ const serializers = {
         instagramPost: node => {
             const url = node.node.url;
 
-            console.log(url)
-
             if (!validator.isURL(url)) {
                 throw Error(`Could not get url from node: ${JSON.stringify(
                     node

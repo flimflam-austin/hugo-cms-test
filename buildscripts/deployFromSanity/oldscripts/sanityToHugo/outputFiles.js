@@ -1,10 +1,10 @@
-const fsextra = require('fs-extra');
-const ff = require('./ffhelpers');
-const fetch = require('node-fetch');
-const inspect = require('./inspect')
+const fsextra = require('fs-extra')
+const ff = require('./ffhelpers')
+const fetch = require('node-fetch')
 const ffregex = require('./ffregex')
+const { schemas } = require('./../../schemas')
 
-const { thenify, asyncMap } = require('./../../helpers')
+const { asyncMap } = require('./../../helpers')
 
 let imageCounter = 0
 
@@ -71,10 +71,6 @@ const getImageUrls = text => {
 const replaceImageUrls = bodyText => {
     const imageUrls = getImageUrls(bodyText)
 
-    /* if (!(imageUrls && imageUrls[0])) {
-        return null
-    } */
-
 
     // Keep only non-repeats
     const uniqueUrls = imageUrls ? imageUrls.filter(ff.filterUniqueValues) : null;
@@ -125,12 +121,6 @@ const scrubShortcodes = data => {
     return cleanedTitle;
 };
 
-/*
-Logging
-*/
-const logSuccessfulFileWrite = slug => {
-    inspect.bland(`New file written: ${slug}`);
-};
 
 /*
 Writing
@@ -138,19 +128,26 @@ Writing
 const fetchRetry = async (url, retries = 3, backoff = 300) => {
     const retryCodes = [408, 500, 502, 504, 522, 524]
 
+    const isStatusError = status => retryCodes.includes(status)
+
     return await fetch(url)
         .then(async res => {
             if (res.ok) {
                 return res
             }
 
-            if (retries > 0 && retryCodes.includes(res.status)) {
+            if (retries > 0 && isStatusError(res.status)) {
+                console.error(`Retrying fetch of "${url}"... ${retries - 1} retries remaining.`)
                 await setTimeout(() => fetchRetry(url, retries - 1, backoff * 2), backoff)
-            } else {
-                throw new Error(res)
+            }
+
+            if (retries === 0 && isStatusError(res.status)) {
+                throw new Error(`Error fetching "${url}" at fetchRetry in outputFiles.js. Error: no retries remaining. Last response: ${JSON.stringify(res)}`)
             }
         })
-        .catch(console.error)
+        .catch(err => {
+            throw new Error(`Error fetching asset with url: "${url}" on retry "${retries}". Error: ${err.message}`)
+        })
 }
 
 const writeFile = async dataObj => {
@@ -173,15 +170,31 @@ const writeFile = async dataObj => {
     const { outputMarkdown, imageUrls } = replaceImageUrls(markdown);
 
     if (!outputMarkdown) {
-        throw new Error(`No relinked markdown produced for ${slug} at writeFile in outputFiles.js`)
+        throw new Error(`No relinked markdown produced for ${slug} at writeFile in outputFiles.js.`)
     }
 
     const readyToWriteIndexData = scrubShortcodes(outputMarkdown);
 
+    // /////////////////
+
+    const currentSchema = schemas.find(schema => schema.name.hugo === type)
+
+
+    const isSingleton = currentSchema?.singleton || false
+
+
     // TODO: better path resolution
-    const outputPath = `${__dirname}/../../../../content/${type}/${slug}`;
+    const contentDirectory = `${__dirname}/../../../../content`
+
+    const outputPath = isSingleton ? `${contentDirectory}/${slug}` : `${contentDirectory}/${type}/${slug}`
+
+    /* const outputPath = isSingleton ? `${__dirname}/../../../content`: `${__dirname}/../../../../content/${type}/${slug}` */
 
     const indexPath = `${outputPath}/index.md`
+
+    if (type === 'about') {
+        console.log(outputPath)
+    }
 
     // //////////////////
 
@@ -227,13 +240,13 @@ const writeFile = async dataObj => {
 
 
 const outputFiles = async mdData => {
+
     try {
+        await writeFile(mdData)
 
-        await await writeFile(mdData)
-
-        return { dataWritten: mdData, imagesWritten: imageCounter }
+        return Object.freeze({ dataWritten: mdData, imagesWritten: imageCounter })
     } catch (err) {
-        throw new Error(`Error writing files at outputFiles in outputFiles.js:\nError: ${err.message}\n`)
+        throw new Error(`Error writing files at outputFiles in outputFiles.js.\nError: ${err.message}\n`)
     }
 }
 

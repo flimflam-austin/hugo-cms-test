@@ -1,7 +1,14 @@
-<ul class="post-header__tags btn-group">
+{{/*  <ul class="post-header__tags btn-group">
     {{ range (.GetTerms "tags") }}
         <li class="btn-group__btn">
             <a class="btn btn--green" href="{{ .Permalink }}">{{- .LinkTitle -}}</a>
+        </li>
+    {{ end }}
+</ul>  */}}
+<ul class="post-header__tags btn-group">
+    {{ range (.GetTerms "tags") }}
+        <li class="btn-group__btn">
+            <span class="btn btn--green btn--innert" href="{{ .Permalink }}">{{- .LinkTitle -}}</span>
         </li>
     {{ end }}
 </ul>

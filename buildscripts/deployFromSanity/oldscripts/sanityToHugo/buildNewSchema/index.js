@@ -1,8 +1,5 @@
 const sh = require('./schemahelpers')
-const ff = require('./../ffhelpers')
 const portableTextToMarkdown = require('./portableTextToMarkdown')
-
-const inspect = require('./../inspect')
 
 const sectionalSchemas = require('./sectionalschemas')
 const universalSchemas = require('./universalschemas')

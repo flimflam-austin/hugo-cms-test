@@ -1,5 +1,6 @@
 const videoposts = Object.freeze({
     type: 'document',
+    singleton: false,
     name: {
         sanity: 'videoposts',
         hugo: 'video_posts'

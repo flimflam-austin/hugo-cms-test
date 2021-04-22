@@ -63,6 +63,14 @@
 	&--margin-top {
 		margin-top: $post-section-spacing;
 	}
+
+	&--innert {
+		cursor: default;
+		&:hover {
+			background-color: inherit !important;
+			color: inherit !important;
+		}
+	}
 }
 
 .btn-close {

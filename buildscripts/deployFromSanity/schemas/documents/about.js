@@ -1,9 +1,9 @@
-const products = Object.freeze({
+const about = Object.freeze({
     type: 'document',
-    singleton: false,
+    singleton: true,
     name: {
-        sanity: 'products',
-        hugo: 'products'
+        sanity: 'about',
+        hugo: 'about'
     },
     fields: {
         _type: {
@@ -24,8 +24,20 @@ const products = Object.freeze({
         },
         slug: {
             required: true
+        },
+        title: {
+            required: true
+        },
+        tagline: {
+            required: false
+        },
+        mainimage: {
+            required: true
+        },
+        body: {
+            required: true
         }
     }
 })
 
-module.exports = products
+module.exports = about

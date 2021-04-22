@@ -1,5 +1,6 @@
 const quickquotes = Object.freeze({
     type: 'document',
+    singleton: false,
     name: {
         sanity: 'quickquotes',
         hugo: 'quick_quotes'

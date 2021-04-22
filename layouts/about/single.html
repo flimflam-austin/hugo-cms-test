@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+<main class="l-page__container">
+    <article class="post">
+        <header class="post-header">
+
+            {{ if .Params.featured_image.url }}
+                {{- $image := .Resources.GetMatch ( print .Params.featured_image.url ) -}}
+                {{- $image300 := $image.Resize "300x" -}}
+                {{- $image800 := $image.Resize "800x" -}}
+                {{- $image1400 := $image.Resize "1400x" -}}
+                {{- $image2000 := $image.Resize "2000x" -}}
+
+                <figure class="post-header__block aspectimg">
+                    <img
+                        class="aspectimg__image"
+                        sizes="(min-width: 1270px) 50vw, 100vw"
+                        srcset="{{ $image300.RelPermalink }} 300w, {{ $image800.RelPermalink }} 800w, {{ $image1400.RelPermalink }} 1400w,{{ $image2000.RelPermalink }} 2000w,"
+                        alt="{{ .Params.featured_image.alt }}"
+                    />
+                </figure>
+
+                
+            {{ end }}
+            <div class="post-header__block post-header__block--text">
+                <h1 class="post-header__summary">{{- .Title -}}</h1>
+                <h2 class="post-header__summary post-header__summary--secondary">{{- .Params.tagline -}}</h2>
+            </div>
+        </header>
+        <section class="page-content">
+            <div class="page-content__body">
+                {{ .Content }}
+            </div>
+        </section>
+    </article>
+</main>
+
+{{ end }}

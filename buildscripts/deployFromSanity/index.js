@@ -1,18 +1,9 @@
-const { inspect, thenify, asyncMap } = require('./helpers')
+const { thenify } = require('./helpers')
 const { buildQuery, querySanity, handleQueryResponse } = require('./queries')
 const { schemas, schemaHelpers: sh } = require('./schemas')
 const { validateSchema } = require('./validation')
-const { getLastLog } = require('./cache')
 const { buildNewSchema, convertEntryToMarkdown, outputFiles } = require('./oldscripts')
 
-
-const handleError = err => {
-    console.error(err)
-}
-
-const sayDone = _ => inspect.simple('Done.')
-
-const processEntries = async entries => asyncMap(entries, processEntry)
 
 const counter = {
     filesSuccessful: 0,
@@ -21,8 +12,9 @@ const counter = {
     imagesWritten: 0
 }
 
-const run = async schemaList => {
-    const lastLog = getLastLog()
+const run = async _ => {
+
+    // const lastLog = getLastLog()
     const documentSchemas = sh.filterDocumentSchemas(schemas)
 
     await thenify(documentSchemas)

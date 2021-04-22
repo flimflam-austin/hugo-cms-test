@@ -1,5 +1,4 @@
 const yaml = require('js-yaml');
-const inspect = require('./inspect')
 
 const convertToYaml = json => yaml.dump(yaml.load(JSON.stringify(json)));
 
@@ -9,23 +8,23 @@ const buildMd = jsonFrontmatter => {
 
         return convertedFrontmatter
     } catch (err) {
-        inspect.errorRed(Error(`Error in buildMd in filebuilder.js: ${err}`))
-        return null
+        throw new Error(`Error at buildMd in filebuilder.js. Error: ${err.message}`)
     }
 
 }
 
 const convertJsonToMd = jsonData => {
-    const jsonToWrite = Object.freeze({
+
+    /* const jsonToWrite = Object.freeze({
         ...jsonData,
         path: `${__dirname}`,
         fileName: 'index.md'
-    });
+    }); */
 
-    const builtMd = buildMd(jsonToWrite);
-
+    /* const builtMd = buildMd(jsonToWrite); */
 
     try {
+        const builtMd = buildMd(jsonData);
 
         const returnData = Object.freeze({
             markdown: builtMd,
@@ -35,11 +34,11 @@ const convertJsonToMd = jsonData => {
 
         return returnData;
     } catch (err) {
-        throw new Error(`Error in convertJsonToMd in filebuilder.js reading '${JSON.stringify(jsonToWrite.slug)}': ${err.message}`)
+        throw new Error(`Error in convertJsonToMd in filebuilder.js reading '${JSON.stringify(jsonData.slug)}': ${err.message}`)
     }
 };
 
-const filterMissingFalseyData = data => {
+/* const filterMissingFalseyData = data => {
     if (!data) {
         console.error(
             'Removing entry from write pipeling at "convertFilesToMd" because json data was falsy.'
@@ -47,7 +46,7 @@ const filterMissingFalseyData = data => {
         return false;
     }
     return true;
-};
+}; */
 
 const convertEntryToMarkdown = entry => convertJsonToMd(entry)
 

@@ -1,9 +1,19 @@
 .feednewsletter {
-    grid-column: 1/-1;
+    
     width: 100%;
+    overflow: hidden;
     border-top: 0;
+    
 
-    & #footer-sign-up {
-        border: none;
+    @include query-tablet-up {
+        grid-column: 1/-1;
+    }
+
+    & .sitefooter__section{
+        &--home {
+            border: none;
+            background-color: transparent;
+        }
     }
 }
+

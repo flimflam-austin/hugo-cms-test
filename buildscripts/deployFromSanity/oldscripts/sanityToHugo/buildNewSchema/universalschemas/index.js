@@ -18,7 +18,9 @@ const translateTypeName = type => {
         quickquotes: 'quick_quotes',
         videoposts: 'video_posts',
         products: 'products',
-        author: 'author'
+        author: 'author',
+        about: 'about',
+        legal: 'legal'
     })
 
     const translatedType = outputTypes[type]

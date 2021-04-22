@@ -41,6 +41,13 @@ weight = 60
 dest = "external"
 
 [[main]]
+name = "About"
+url = "/about/"
+weight = 65
+[main.params]
+dest = "internal"
+
+[[main]]
 name = "Search"
 url = "/search/"
 weight = 70

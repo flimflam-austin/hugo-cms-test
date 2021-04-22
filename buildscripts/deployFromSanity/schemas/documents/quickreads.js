@@ -1,5 +1,6 @@
 const quickreads = Object.freeze({
     type: 'document',
+    singleton: false,
     name: {
         sanity: 'cardstack',
         hugo: 'quick_reads'

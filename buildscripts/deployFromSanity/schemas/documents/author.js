@@ -1,5 +1,6 @@
 const author = Object.freeze({
     type: 'document',
+    singleton: true,
     name: {
         sanity: 'author',
         hugo: 'author'
