@@ -35,7 +35,7 @@ dest = "external"
 
 [[main]]
 name = "Shop"
-url = "https://smarthernews.com/shop/"
+url = "https://shop.smarthernews.com/"
 weight = 60
 [main.params]
 dest = "external"
