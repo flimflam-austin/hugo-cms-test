@@ -21,95 +21,62 @@ colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # Is This In Your Fridge?
-
-      ## Women MOST Effected By Romaine Lettuce Recall
-
-      53 people in 16 states infected with E. coli strain.
-
-      **70% of those sick are female.**
-
-      FLIP FOR WHY
+    body: >-
+      <div><h1>Is This In Your Fridge?</h1><h2>Women MOST Effected By Romaine
+      Lettuce Recall</h2><p>53 people in 16 states infected with E. coli
+      strain.</p><p><strong>70% of those sick are female.</strong></p><p>FLIP
+      FOR WHY</p></div>
     citation: FLIP FOR WHY
     _key: card-1-097672da-0d6a-4766-b3b9-c6818e42f729
   - order: 1
     useCheckmark: false
     body: >-
-      # Why Women?
-
-
-      **High Veggie Diet:**A Studies show women consume more fruits &
-      vegetables, less meat & fewer high-fat foods than men.
-
-
-      **“Health Socialization”:** High number of women effected may be a result
-      of them relaying more information to their doctors.
-
-
-      Skip the salad
+      <div><h1>Why Women?</h1><p><strong>High Veggie Diet:</strong>A Studies
+      show women consume more fruits &amp; vegetables, less meat &amp; fewer
+      high-fat foods than men.</p><p><strong>“Health Socialization”:</strong>
+      High number of women effected may be a result of them relaying more
+      information to their doctors.</p><p>Skip the salad</p></div>
     citation: Skip the salad
     _key: card-2-fe31bf03-6e9e-464c-988f-6c42e1245478
   - order: 2
     useCheckmark: false
     body: >-
-      ## THROW IT ALL AWAY
-
-
-      > CDC: Don’t eat romaine lettuce – unless certain it isn’t from Yuma,
-      AZ.  
-        
-        
-        
-      Recall expanded to include romaine heads, chopped & salad mix.  
-        
-        
-        
-      **_“This bacteria can actually get inside of the lettuce leaf. Washing it
-      doesn’t make it safe.”_**  
-        
-        
-        
-      Ian Williams, CDC's Outbreak Response and Prevention Branch Chief to CNN
+      <div><h2>THROW IT ALL AWAY</h2><blockquote>CDC: Don’t eat romaine lettuce
+      – unless certain it isn’t from Yuma, AZ.<br><br><br><br>Recall expanded to
+      include romaine heads, chopped &amp; salad
+      mix.<br><br><br><br><strong><em>“This bacteria can actually get inside of
+      the lettuce leaf. Washing it doesn’t make it
+      safe.”</em></strong><br><br><br><br>Ian Williams, CDC's Outbreak Response
+      and Prevention Branch Chief to CNN</blockquote></div>
     _key: card-3-7be712b4-ba44-454d-aad7-606ba0a71796
   - order: 3
     useCheckmark: false
-    body: |-
-      ## What You Need to Know
-
-      Mayo Clinic: E. coli O157:H7 is**one of the nastiest strains**.
-
-      Kidney failure can develop A – even afterA you feel better.
-
-      Outbreak started more than a month ago – March 13:
-
-      * 31 hospitalized, 5 w/kidney issues.
-      * No deaths reported.
+    body: >-
+      <div><h2>What You Need to Know</h2><p>Mayo Clinic: E. coli O157:H7 is
+      <strong>one of the nastiest strains</strong>.</p><p>Kidney failure can
+      develop A – even afterA you feel better.</p><p>Outbreak started more than
+      a month ago – March 13:</p><ul><li>31 hospitalized, 5 w/kidney
+      issues.</li><li>No deaths reported.</li></ul></div>
     _key: card-4-496a6cb2-1fac-423a-b9e2-5ff7a34a41be
   - order: 4
     useCheckmark: false
     body: >-
-      ## Where E. Coli Comes From
-
-
-      Mayo Clinic: Lettuce can be contaminated by E. coli when**run off from
-      cattle farms that have infected cows mixes with vegetable crops**.A While
-      most cattle don’t develop symptoms, they expel the bacteria in their
-      feces, which then contaminates soil & crops.
-
-
-      Common inA**ground beef, unpasteurized milk & produce**.
+      <div><h2>Where E. Coli Comes From</h2><p>Mayo Clinic: Lettuce can be
+      contaminated by E. coli when <strong>run off from cattle farms that have
+      infected cows mixes with vegetable crops</strong>.A While most cattle
+      don’t develop symptoms, they expel the bacteria in their feces, which then
+      contaminates soil &amp; crops.</p><p>Common inA <strong>ground beef,
+      unpasteurized milk &amp; produce</strong>.</p></div>
     _key: card-5-5ddeb579-40f6-41be-96f2-8a8edd40fbd7
   - order: 5
     useCheckmark: true
     body: >-
-      Bigger Picture? "The CDC is doing their best to protect us. ...Identifying
-      the exact source of the outbreak is proving to be difficult and this may
-      be due to the sheer size of the modern farming conglomerates. ...Visit a
-      Farmers Market this weekend." Read Op-Ed:
-
-
-      [view sources](https://smarthernews.com/18-04-24-e-coli-women/)
+      <div><p>Bigger Picture? "The CDC is doing their best to protect us.
+      ...Identifying the exact source of the outbreak is proving to be difficult
+      and this may be due to the sheer size of the modern farming conglomerates.
+      ...Visit a Farmers Market this weekend." Read Op-Ed:</p><p><a
+      href="https://smarthernews.com/18-04-24-e-coli-women/">view
+      sources</a></p></div>
     _key: card-10-02d27bd3-2d8b-45ad-a5ac-09a99101f1d9
 
 ---

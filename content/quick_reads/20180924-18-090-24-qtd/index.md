@@ -21,20 +21,20 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: '> _“Happiness is to look at what we have and feel grateful.”_'
+    body: >-
+      <div><blockquote><em>“Happiness is to look at what we have and feel
+      grateful.”</em></blockquote><p></p></div>
     citation: Isabella Rossellini
     _key: card-1-6e2c733d-b629-4f5e-906e-bc4c4f8ae9fa
   - order: 1
     useCheckmark: true
     body: >-
-      Isabella Rossellini, 66, walked the runway with her daughter, son, and
-      grandchild in the Dolce & Gabbana fashion show in Milan this weekend that
-      featured models of all ages and sizes. She says Happiness is a discipline
-      and says of her iconic red lipstick: It can’t save your life, it can be a
-      step toward feeling good.
-
-
-      [view sources](https://smarthernews.com/18-090-24-qtd/)
+      <div><p>Isabella Rossellini, 66, walked the runway with her daughter, son,
+      and grandchild in the Dolce &amp; Gabbana fashion show in Milan this
+      weekend that featured models of all ages and sizes. She says Happiness is
+      a discipline and says of her iconic red lipstick: It can’t save your life,
+      it can be a step toward feeling good.</p><p><a
+      href="https://smarthernews.com/18-090-24-qtd/">view sources</a></p></div>
     _key: card-10-f46732ad-f292-49ae-a571-c708079e3d42
 
 ---

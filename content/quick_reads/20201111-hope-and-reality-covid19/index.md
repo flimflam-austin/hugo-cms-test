@@ -22,94 +22,75 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Hope Vs. Caution
-
-
-      > In the same 24 hours, we heard of a “light at the end of the tunnel” and
-      a warning of a “dark winter.”  
-        
-      What to know about a vaccine, a therapeutic, and new revelations on
-      COVID-19 in America.
+      <div><h1>Hope Vs. Caution</h1><blockquote>In the same 24 hours, we heard
+      of a “light at the end of the tunnel” and a warning of a “dark
+      winter.”<br><br>What to know about a vaccine, a therapeutic, and new
+      revelations on COVID-19 in America.</blockquote></div>
     _key: cd2828f9d57b
   - order: 1
     useCheckmark: false
     body: >-
-      ## “Positive but Preliminary”
-
-
-      * Pfizer (U.S. drugmaker) & BioNTech (German drugmaker) partnered to
-      develop a**COVID-19 vaccine**.
-
-      * Results from 94 participants of a large, late-stage trial show 90%
-      efficacy of protecting against the virus that causes COVID-19.
-
-      * We can’t pick through the data – it’s not published. An independent team
-      of experts (outside Pfizer) analyzed results.
+      <div><h2>“Positive but Preliminary”</h2><ul><li>Pfizer (U.S. drugmaker)
+      &amp; BioNTech (German drugmaker) partnered to develop a <strong>COVID-19
+      vaccine</strong>.</li><li>Results from 94 participants of a large,
+      late-stage trial show 90% efficacy of protecting against the virus that
+      causes COVID-19.</li><li>We can’t pick through the data – it’s not
+      published. An independent team of experts (outside Pfizer) analyzed
+      results.</li></ul><p><br></p></div>
     _key: 7de4a208eabf
   - order: 2
     useCheckmark: false
     body: >-
-      > “It seems to be a proof of principle that we can make a vaccine, that it
-      can make an immune response, that it does look safe in individuals that
-      have been studied so far and that it actually works in the real world to
-      protect against Covid.”
-
-
-      Dr. Buddy Creech, Dir. of the Vanderbilt Vaccine Research Program. Pfizer
-      says it will appeal regulators for approval before the end of November,
-      when it has reached the 2-month mark for safety data required by the FDA.
+      <div><blockquote>“It seems to be a proof of principle that we can make a
+      vaccine, that it can make an immune response, that it does look safe in
+      individuals that have been studied so far and that it actually works in
+      the real world to protect against Covid.”</blockquote><p>Dr. Buddy Creech,
+      Dir. of the Vanderbilt Vaccine Research Program. Pfizer says it will
+      appeal regulators for approval before the end of November, when it has
+      reached the 2-month mark for safety data required by the FDA.</p></div>
     _key: a0765dcb2591
   - order: 3
     useCheckmark: false
     body: >-
-      ## “Another Potential Tool”
-
-
-      * An antibody treatment by drugmaker Eli Lilly received the FDA’s
-      emergency use authorization: “**Bamlanivimab**“
-
-      * Available for use only in specific situations: high-risk patients over
-      the age of 12 with a mild to moderate case of COVID-19.
-
-      * Not approved for hospitalized patients – in fact, the FDA says it may do
-      more harm than good in severe cases.
+      <div><h2>“Another Potential Tool”</h2><ul><li>An antibody treatment by
+      drugmaker Eli Lilly received the FDA’s emergency use authorization:
+      “<strong>Bamlanivimab</strong>“</li><li>Available for use only in specific
+      situations: high-risk patients over the age of 12 with a mild to moderate
+      case of COVID-19.</li><li>Not approved for hospitalized patients – in
+      fact, the FDA says it may do more harm than good in severe
+      cases.</li></ul><p><br></p></div>
     _key: c61dbd598d72
   - order: 4
     useCheckmark: false
     body: >-
-      ## Meanwhile…
-
-
-      * U.S. continues to set daily records for COVID-19 cases, with more than
-      100,000 new cases per day; hospitalizations, deaths, & lagging effects of
-      infection also have increased.
-
-      * Despite efforts to protect the most vulnerable,**nursing home cases have
-      quadrupled between May and October**.
-
-      * New study: About 1 in 10 of hospitalized COVID patients readmitted in
-      days following first admission/release.
+      <div><h2>Meanwhile…</h2><ul><li>U.S. continues to set daily records for
+      COVID-19 cases, with more than 100,000 new cases per day;
+      hospitalizations, deaths, &amp; lagging effects of infection also have
+      increased.</li><li>Despite efforts to protect the most vulnerable,
+      <strong>nursing home cases have quadrupled between May and
+      October</strong>.</li><li>New study: About 1 in 10 of hospitalized COVID
+      patients readmitted in days following first
+      admission/release.</li></ul></div>
     _key: c67f026ca0cc
   - order: 5
     useCheckmark: false
     body: >-
-      > “Trying to protect nursing home residents without controlling community
-      spread is a losing battle.”
-
-
-      Researcher Tamara Konetzka of the University of Chicago says protecting
-      the vulnerable ultimately relies on those living and working outside a
-      nursing home; when community spread increases, the threat rises to the
-      elderly despite increased testing and best efforts.
+      <div><blockquote>“Trying to protect nursing home residents without
+      controlling community spread is a losing
+      battle.”</blockquote><p>Researcher Tamara Konetzka of the University of
+      Chicago says protecting the vulnerable ultimately relies on those living
+      and working outside a nursing home; when community spread increases, the
+      threat rises to the elderly despite increased testing and best
+      efforts.</p></div>
     _key: 914dbacc877b
   - order: 6
     useCheckmark: true
     body: >-
-      What is like to be part of a COVID-19 trial? We have a first hand account!
-      A series of other companies have developed a vaccine in a similar way to
-      Pfizer with relatively new technology - It's called an MRNA vaccine. No
-      MRNA vaccine has been approved...ever. Read more on both on our source
-      page.
+      <div><p>What is like to be part of a COVID-19 trial? We have a first hand
+      account! A series of other companies have developed a vaccine in a similar
+      way to Pfizer with relatively new technology - It's called an MRNA
+      vaccine. No MRNA vaccine has been approved...ever. Read more on both on
+      our source page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 410864a7f4c8
 

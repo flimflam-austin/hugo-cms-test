@@ -22,67 +22,60 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “Trump is playing chicken with China. It will be important and telling
-      to see how this plays out.”  
-        
-        
-      Ray Dalio, founder of hedge fund Bridgewater Associates, on a possible
-      trade war with China. Pres. Trump is threatening $200B in tariffs on
-      Chinese goods, in addition to $50B in tariffs already imposed. Last month,
-      Dalio has said a trade war with China would be a "tragedy."
+      <blockquote>“Trump is playing chicken with China. It will be important and
+      telling to see how this plays out.”<br><br><br>Ray Dalio, founder of hedge
+      fund Bridgewater Associates, on a possible trade war with China. Pres.
+      Trump is threatening $200B in tariffs on Chinese goods, in addition to
+      $50B in tariffs already imposed. Last month, Dalio has said a trade war
+      with China would be a "tragedy."</blockquote>
     _key: card-1-64141ae5-5269-47e9-b73f-113c4de3eef1
   - order: 1
     useCheckmark: false
     body: >-
-      “To watch those families broken apart in real time puts to us a very
+      <p>“To watch those families broken apart in real time puts to us a very
       simple question: are we a nation that accepts the cruelty of ripping
       children from their parents’ arms, or are we a nation that values
-      families, and works to keep them together?”  
-        
-      Pres. Obama, Facebook, for the first time on U.S. immigration
-      zero-tolerance border policy. His administration cared for unaccompanied
-      children identical to "separated" children now. However, his challenge was
-      children WITHOUT adults - no separation required.
+      families, and works to keep them together?”<br><br>Pres. Obama, Facebook,
+      for the first time on U.S. immigration zero-tolerance border policy. His
+      administration cared for unaccompanied children identical to "separated"
+      children now. However, his challenge was children WITHOUT adults - no
+      separation required.</p>
     _key: card-2-64fd516a-521d-4d18-9217-f0cea4794376
   - order: 2
     useCheckmark: false
     body: >-
-      > “In obedience I accept the decision of The Holy See, that I no longer
-      exercise any public ministry.”  
-        
-        
-      Cardinal Theodore McCormick, former archbishop of Washington, on his
-      removal from ministry after a teenager's sex abuse allegation while he was
-      in New York almost 50 years ago. McCarrick served as D.C.’s archbishop
-      from 2001 to 2006.
+      <blockquote>“In obedience I accept the decision of The Holy See, that I no
+      longer exercise any public ministry.”<br><br><br>Cardinal Theodore
+      McCormick, former archbishop of Washington, on his removal from ministry
+      after a teenager's sex abuse allegation while he was in New York almost 50
+      years ago. McCarrick served as D.C.’s archbishop from 2001 to
+      2006.</blockquote>
     _key: card-3-9d8ff37c-d96f-411f-a575-ff224b2badf8
   - order: 3
     useCheckmark: false
     body: >-
-      > “…my parents are abusive. They abuse us, and my two little sisters right
-      now are chained up."  
-        
-        
-      17-year-old daughter of David & Louise Turpin to 911 dispatch. Her parents
-      are accused of holding their 13 children captive in a house of horrors.
-      Mr. & Mrs. Turpin have pleaded not guilty to more than 40 charges
-      including torture, child abuse & false imprisonment. They are being held
-      on $12M bail each.
+      <blockquote>“…my parents are abusive. They abuse us, and my two little
+      sisters right now are chained up."<br><br><br>17-year-old daughter of
+      David &amp; Louise Turpin to 911 dispatch. Her parents are accused of
+      holding their 13 children captive in a house of horrors. Mr. &amp; Mrs.
+      Turpin have pleaded not guilty to more than 40 charges including torture,
+      child abuse &amp; false imprisonment. They are being held on $12M bail
+      each.</blockquote>
     _key: card-4-d2b624cf-1563-4041-8990-d66ebe461712
   - order: 4
     useCheckmark: false
     body: >-
-      > “It’s mobile first. It’s simple and it’s quality. That’s IGTV.”  
-        
-        
-        
-      Instagram CEO Kevin System announcing its new video hub capable of hosting
-      vertical videos as long as one hour. IGTV, a direct challenge to YouTube,
-      is available now on iPhone & Android devices.
+      <blockquote>“It’s mobile first. It’s simple and it’s quality. That’s
+      IGTV.”<br><br><br><br>Instagram CEO Kevin System announcing its new video
+      hub capable of hosting vertical videos as long as one hour. IGTV, a direct
+      challenge to YouTube, is available now on iPhone &amp; Android
+      devices.</blockquote>
     _key: card-5-2267dae1-a8fb-4697-8111-830b22b74fad
   - order: 5
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-06-21-qq-thursday/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-06-21-qq-thursday/">view
+      sources</a></p>
     _key: card-10-d412fabc-c53c-4131-b18b-04cdbdb815a3
 
 ---

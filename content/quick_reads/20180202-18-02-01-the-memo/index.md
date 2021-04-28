@@ -22,113 +22,83 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # “The Memo” Hypnotizing DC
-
-
-      * Released & written by House Intelligence Committee by Republican
-      majority.
-
-      * Addresses findings related to investigation into Russia interference in
-      2016 elections.
-
-      * IncludesA controversial classified info about surveillance by the FBI.
+      <div><h1>“The Memo” Hypnotizing DC</h1><ul><li>Released &amp; written by
+      House Intelligence Committee by Republican majority.</li><li>Addresses
+      findings related to investigation into Russia interference in 2016
+      elections.</li><li>IncludesA controversial classified info about
+      surveillance by the FBI.</li></ul></div>
     _key: card-1-2dacc16f-ba5f-43ce-8e51-693a290d3e1a
   - order: 1
     useCheckmark: false
     body: >-
-      ## “The Memo”: Why It Matters
-
-
-      * Memo alleges the FBI used info from a person hired by the Democrat
-      National Committee & Clinton campaign to obtain a warrant to secretly
-      ‘spy’ on an Americans close to the Trump campaign (Carter Page).
-
-
-      Flip For More
+      <div><h2>“The Memo”: Why It Matters</h2><ul><li>Memo alleges the FBI used
+      info from a person hired by the Democrat National Committee &amp; Clinton
+      campaign to obtain a warrant to secretly ‘spy’ on an Americans close to
+      the Trump campaign (Carter Page).</li></ul><p>Flip For More</p></div>
     citation: Flip For More
     _key: card-2-3378244a-a8cc-4f3c-8306-dde732940c37
   - order: 2
     useCheckmark: false
     body: >-
-      ## “The Memo”: Why It Matters
-
-
-      * The FBI did not disclose the source of their info (Christopher Steele)
-      worked for the opposition research firm and was personally anti-Trump.
+      <div><h2>“The Memo”: Why It Matters</h2><ul><li>The FBI did not disclose
+      the source of their info (Christopher Steele) worked for the opposition
+      research firm and was personally anti-Trump.</li></ul></div>
     _key: card-3-1efc3192-0e7f-43e6-be89-df7ac557050f
   - order: 3
     useCheckmark: false
     body: >-
-      # Bottom Line Analysis
-
-
-      > “The memo is not a “dud,” but while it confirms anti-trump bias at top
-      of FBI/DOJ (which we already knew/suspected) not sure that makes it a
-      “smoking gun” either.”  
-        
-        
-        
-      Tom Bevan, Real Clear Politics, Co-Founder & Publisher
+      <div><h1>Bottom Line Analysis</h1><blockquote>“The memo is not a “dud,”
+      but while it confirms anti-trump bias at top of FBI/DOJ (which we already
+      knew/suspected) not sure that makes it a “smoking gun”
+      either.”<br><br><br><br>Tom Bevan, Real Clear Politics, Co-Founder &amp;
+      Publisher</blockquote></div>
     _key: card-4-e352678d-b21f-486d-abe4-c08ce42fcd48
   - order: 4
     useCheckmark: false
-    body: |-
-      # “The Memo”
-
-      ## Who Matters:
-
-      * Chair of Intelligence Cmte: Devin NunesA (R-CA) released memo.
-      * Ranking Member:A Adam Schiff (D-CA) says politics at play.
-      * POTUS: Approved release of memo.
+    body: >-
+      <div><h1>“The Memo”</h1><h2>Who Matters:</h2><ul><li>Chair of Intelligence
+      Cmte: Devin NunesA (R-CA) released memo.</li><li>Ranking Member:A Adam
+      Schiff (D-CA) says politics at play.</li><li>POTUS: Approved release of
+      memo.</li></ul></div>
     _key: card-5-938c45a9-a691-4e73-97dd-3c128e74ca07
   - order: 5
     useCheckmark: false
     body: >-
-      # The President Says
-
-
-      “The top Leadership and Investigators of the FBI and the Justice
-      Department have politicized the sacred investigative process in favor of
-      Democrats and against Republicans – something which would have been
-      unthinkable just a short time ago. Rank & File are great people!”
-
-
-      [@RealDonaldTrump](https://twitter.com/realDonaldTrump)
+      <div><h1>The President Says</h1><p>“The top Leadership and Investigators
+      of the FBI and the Justice Department have politicized the sacred
+      investigative process in favor of Democrats and against Republicans –
+      something which would have been unthinkable just a short time ago. Rank
+      &amp; File are great people!”</p><p><a
+      href="https://twitter.com/realDonaldTrump">@RealDonaldTrump</a></p></div>
     citation: '@RealDonaldTrump'
     _key: card-6-f8d50c11-97df-4aed-9c2d-637677be337d
   - order: 6
     useCheckmark: false
     body: >-
-      > “…it’s clear that top officials used unverified information in a court
-      document to fuel a counter-intelligence investigation during an American
-      political campaign  
-        
-        
-        
-      Devin Nunes (R-CA) Chair of House Intelligence Cmte, Jan 31, 2018
+      <blockquote>“…it’s clear that top officials used unverified information in
+      a court document to fuel a counter-intelligence investigation during an
+      American political campaign<br><br><br><br>Devin Nunes (R-CA) Chair of
+      House Intelligence Cmte, Jan 31, 2018</blockquote>
     _key: card-7-206ebd25-9e84-4a36-8ee3-8547d31b1a37
   - order: 7
     useCheckmark: false
     body: >-
-      > “The decision by Nunes to employ an obscure rule to release classified
-      information for partisan political purposes crossed a dangerous line, and
-      increases the risk of a constitutional crisis…”  
-        
-        
-        
-      Adam Schiff (D-CA) Ranking Democrat, House Intel Cmte, Jan 31, 2018 via
-      @RepAdamSchiff
+      <blockquote>“The decision by Nunes to employ an obscure rule to release
+      classified information for partisan political purposes crossed a dangerous
+      line, and increases the risk of a constitutional
+      crisis…”<br><br><br><br>Adam Schiff (D-CA) Ranking Democrat, House Intel
+      Cmte, Jan 31, 2018 via @RepAdamSchiff</blockquote>
     _key: card-8-8c95c9dc-613a-4a84-b948-f9a507a05684
   - order: 8
     useCheckmark: false
-    body: "# What You Should Know: FBI\n\n* FBI statement:A A “grave concerns” about memo’s accuracy\n* Surveillance of Americans by the FBI is approved throughA FISA courts a\x13 similar to getting a warrant in aA classifiedA setting.\n* However, if you’re “spied” on by FBI, you would not be told."
+    body: "<div><h1>What You Should Know: FBI</h1><ul><li>FBI statement:A A “grave concerns” about memo’s accuracy</li><li>Surveillance of Americans by the FBI is approved throughA FISA courts a\x13 similar to getting a warrant in aA classifiedA setting.</li><li>However, if you’re “spied” on by FBI, you would not be told.</li></ul></div>"
     _key: card-9-b9d1057e-8592-45af-b86a-e841751e0bfd
   - order: 9
     useCheckmark: true
-    body: |-
-      Here's The Memo & Other Links:
-
-      [view sources](https://smarthernews.com/18-02-01-the-memo/)
+    body: >-
+      <div><p>Here's The Memo &amp; Other Links:</p><p><a
+      href="https://smarthernews.com/18-02-01-the-memo/">view
+      sources</a></p></div>
     _key: card-10-717eef77-467f-437b-997d-7bb1ebe43fb0
 
 ---

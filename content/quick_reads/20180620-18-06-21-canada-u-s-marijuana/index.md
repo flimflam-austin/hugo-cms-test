@@ -22,84 +22,63 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # GOING TO POT?
-
-
-      ## Canada becomes the 2nd nation in the world to legalize marijuana – will
-      the U.S. follow suit?
-
-
-      New signs suggest the existing U.S.**federal ban_against_ marijuana could
-      become a ban_against_ the federal gov’t interfering** in states where it’s
-      legal.
+      <div><h1>GOING TO POT?</h1><h2>Canada becomes the 2nd nation in the world
+      to legalize marijuana – will the U.S. follow suit?</h2><p>New signs
+      suggest the existing U.S. <strong>federal ban <em>against</em> marijuana
+      could become a ban <em>against</em> the federal gov’t interfering</strong>
+      in states where it’s legal.</p></div>
     _key: card-1-9db15e75-c169-454c-9780-54f852802598
   - order: 1
     useCheckmark: false
     body: >-
-      ## The (many) marijuana laws of the land:
-
-
-      * In 1996, CA became 1st state to legalize**medical marijuana.**
-
-      * In 1998, medical marijuana was legal in 5 states. By 2008, that number
-      nearly tripled.**Today, it is legal in 29 states + DC.**
-
-      * In 2012, Colorado & Washington became 1st statesA to
-      legalize**recreational marijuana**.A**Today, it is legal in 9 states +
-      DC.**
+      <div><h2>The (many) marijuana laws of the land:</h2><ul><li>In 1996, CA
+      became 1st state to legalize <strong>medical
+      marijuana.</strong></li><li>In 1998, medical marijuana was legal in 5
+      states. By 2008, that number nearly tripled. <strong>Today, it is legal in
+      29 states + DC.</strong></li><li>In 2012, Colorado &amp; Washington became
+      1st statesA to legalize <strong>recreational marijuana</strong>.A
+      <strong>Today, it is legal in 9 states + DC.</strong></li></ul></div>
     _key: card-2-eae6ec8a-d885-42d0-a3f4-41a95215e274
   - order: 2
     useCheckmark: false
     body: >-
-      ## Marijuana: State vs. Feds
-
-
-      **Marijuana is illegal under federal law.** But, as more states began to
-      legalize it within their borders, the federal gov’t shifted its focus away
-      from prosecuting***most* marijuana-related crimes** in situations where
-      there is compliance with state laws.
-
-
-      Instead, opting to focus on “**serious drug traffickers while taking into
-      account state and local laws**.”
+      <div><h2>Marijuana: State vs. Feds</h2><p><strong>Marijuana is illegal
+      under federal law.</strong> But, as more states began to legalize it
+      within their borders, the federal gov’t shifted its focus away from
+      prosecuting <strong>*most* marijuana-related crimes</strong> in situations
+      where there is compliance with state laws.</p><p>Instead, opting to focus
+      on “<strong>serious drug traffickers while taking into account state and
+      local laws</strong>.”</p></div>
     _key: card-3-dea78409-bce8-41e1-845c-75a84044a023
   - order: 3
     useCheckmark: false
     body: >-
-      ## Policy Change?
-
-
-      * **January 2018:A** Atty General Jeff Sessions rescinded Obama-era
-      policies that eased enforcement of federal marijuana laws, instead opting
-      for a tougher stance.
-
-      * **June 2018:** Just last week, Pres. Trump indicated he is willing to
-      loosen the federal blanket ban on marijuana in states where it is legal.
+      <div><h2>Policy Change?</h2><ul><li><strong>January 2018:A</strong> Atty
+      General Jeff Sessions rescinded Obama-era policies that eased enforcement
+      of federal marijuana laws, instead opting for a tougher
+      stance.</li><li><strong>June 2018:</strong> Just last week, Pres. Trump
+      indicated he is willing to loosen the federal blanket ban on marijuana in
+      states where it is legal.</li></ul></div>
     _key: card-4-d299d686-599e-450e-a79d-ba25a38b2f5d
   - order: 4
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      * Pres. Trump**did NOT say** he will end the federal ban on marijuana.
-
-      * However, he DID say he is willing to support a federal bipartisan bill,
-      which would**ease enforcement of the federal ban on marijuana in states
-      where it’s legal.**
-
-      * The bill would**NOT legalize marijuana** on the federal level or force
-      states to take any action.
+      <div><h2>Something To Consider:</h2><ul><li>Pres. Trump <strong>did NOT
+      say</strong> he will end the federal ban on marijuana.</li><li>However, he
+      DID say he is willing to support a federal bipartisan bill, which would
+      <strong>ease enforcement of the federal ban on marijuana in states where
+      it’s legal.</strong></li><li>The bill would <strong>NOT legalize
+      marijuana</strong> on the federal level or force states to take any
+      action.</li></ul></div>
     _key: card-5-933b5f5b-1947-4ffb-9e48-8a64a5c11f9e
   - order: 5
     useCheckmark: true
     body: >-
-      Po$$ible motivation? Economic Benefits. According to one cannabis
-      analytics firm, sales from medical & recreational cannabis will reach
-      $11.7B in 2018 and $25B in 7 years.
-
-
-      [view sources](https://smarthernews.com/18-06-21-canada-u-s-marijuana/)
+      <div><p>Po$$ible motivation? Economic Benefits. According to one cannabis
+      analytics firm, sales from medical &amp; recreational cannabis will reach
+      $11.7B in 2018 and $25B in 7 years.</p><p><a
+      href="https://smarthernews.com/18-06-21-canada-u-s-marijuana/">view
+      sources</a></p></div>
     _key: card-10-fe4c89fe-affb-44e8-b5e9-bca9671e406a
 
 ---

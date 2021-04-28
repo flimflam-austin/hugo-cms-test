@@ -22,98 +22,65 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Children Crossing  
-
-      The Border ==============================
-
-
-      ## What Are The Facts?
-
-
-      The number of illegal border crossers last monthA**grew 160% over last
-      year.**
-
-
-      Here’s why that impacts what’s happening to the children.
-
-
-      What's Going On
+      <div><p>Children Crossing<br>The Border
+      ==============================</p><h2>What Are The Facts?</h2><p>The
+      number of illegal border crossers last monthA <strong>grew 160% over last
+      year.</strong></p><p>Here’s why that impacts what’s happening to the
+      children.</p><p>What's Going On</p></div>
     _key: card-1-0913d7ce-1d21-4100-852d-2ab3c629b872
   - order: 1
     useCheckmark: false
     body: >-
-      ## Context Matters
-
-
-      Number of people apprehended illegally crossing the U.S. southern border
-      skyrocketed over last 3 mos.
-
-
-      * **435%**: increase of “illegal family units” versus last May.
-
-      * **329%**: increase of “unaccompanied alien children” versus last May.
-
-
-      [Click: DHS
-      Numbers](https://www.dhs.gov/news/2018/06/06/statement-dhs-press-secretary-may-border-numbers)
+      <div><h2>Context Matters</h2><p>Number of people apprehended illegally
+      crossing the U.S. southern border skyrocketed over last 3
+      mos.</p><ul><li><strong>435%</strong>: increase of “illegal family units”
+      versus last May.</li><li><strong>329%</strong>: increase of “unaccompanied
+      alien children” versus last May.</li></ul><p><a
+      href="https://www.dhs.gov/news/2018/06/06/statement-dhs-press-secretary-may-border-numbers">Click:
+      DHS Numbers</a></p></div>
     _key: card-2-b5c70dd9-5af3-4e9c-8460-9a4305279d20
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why Separate Children?
-
-
-      **Side effect** of Pres. Trump admin’s *new* “zero tolerance” policy –
-      a**direct response to trying to deter surge of border crossings.**
-
-
-      ANY adults crossing border illegally**will be arrested**– Previously, an
-      adult crossing illegally with child(ren) may not face prosecution.
-
-
-      What Happens Now?
+      <div><h2>Why Separate Children?</h2><p><strong>Side effect</strong> of
+      Pres. Trump admin’s *new* “zero tolerance” policy – a <strong>direct
+      response to trying to deter surge of border crossings.</strong></p><p>ANY
+      adults crossing border illegally <strong>will be arrested</strong>–
+      Previously, an adult crossing illegally with child(ren) may not face
+      prosecution.</p><p>What Happens Now?</p></div>
     _key: card-3-4b775d6b-d020-41cd-a5f7-8345980f41fa
   - order: 3
     useCheckmark: false
     body: >-
-      ## Children: What Happens?
-
-
-      * Children become custody of Dep’t of Health & Human Services’ Office of
-      Refugee Resettlement.
-
-      * Children stay in care of HHS**on average** 50 days before a sponsor
-      family found.
-
-      * DHS: Last year, 90% of children released to sponsor who was either a
-      parent or close relative.
+      <div><h2>Children: What Happens?</h2><ul><li>Children become custody of
+      Dep’t of Health &amp; Human Services’ Office of Refugee
+      Resettlement.</li><li>Children stay in care of HHS <strong>on
+      average</strong> 50 days before a sponsor family found.</li><li>DHS: Last
+      year, 90% of children released to sponsor who was either a parent or close
+      relative.</li></ul></div>
     _key: card-4-a269ebda-6244-4719-bc7a-27111763b117
   - order: 4
     useCheckmark: false
     body: >-
-      > “It is inconsistent with our American values to separate these children
-      from their parents unless there is evidence of abuse or another very good
-      reason. We need to fix our immigration laws, but using children is not the
-      answer.”  
-        
-        
-        
-      Senator Susan Collins (R, ME), Twitter, June 17, 2018
+      <blockquote>“It is inconsistent with our American values to separate these
+      children from their parents unless there is evidence of abuse or another
+      very good reason. We need to fix our immigration laws, but using children
+      is not the answer.”<br><br><br><br>Senator Susan Collins (R, ME), Twitter,
+      June 17, 2018</blockquote>
     _key: card-5-1ef5d294-05af-4bea-952b-99d439d2aa25
   - order: 5
     useCheckmark: false
-    body: "> “.@SenatorCollins There is no policy to separate those seeking asylum at a port of entry. @DHSgov still has a responsibility, however, to ensure the minor is not in danger or being trafficked. We will not look the other way.”  \n  \n  \n  \nTyler Houltona\x0F, Dep't of Homeland Security spokesman, Twitter, June 17, 2018"
+    body: "<blockquote>“.@SenatorCollins There is no policy to separate those seeking asylum at a port of entry. @DHSgov still has a responsibility, however, to ensure the minor is not in danger or being trafficked. We will not look the other way.”<br><br><br><br>Tyler Houltona\x0F, Dep't of Homeland Security spokesman, Twitter, June 17, 2018</blockquote>"
     _key: card-6-e5092f8e-d3c0-4b60-9b1e-a2c1ae36fa23
   - order: 6
     useCheckmark: true
     body: >-
-      Watch For: Terms "parents" & "families" used in this debate. DHS says part
-      of challenge of illegal immigration is "ascertaining parental
-      relationship" for children. See inside a shelter for yourself:
-
-
-      [view
-      sources](https://smarthernews.com/18-06-17-immigration-and-children-at-border/)
+      <div><p>Watch For: Terms "parents" &amp; "families" used in this debate.
+      DHS says part of challenge of illegal immigration is "ascertaining
+      parental relationship" for children. See inside a shelter for
+      yourself:</p><p><a
+      href="https://smarthernews.com/18-06-17-immigration-and-children-at-border/">view
+      sources</a></p></div>
     _key: card-10-df647b84-79da-4e47-ad06-03840c59954d
 
 ---

@@ -22,67 +22,57 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “We can make chicken.A We can work hard. But if we don’t have peopleA
-      who support us, we can’t survive.”  
-        
-      Indiana Chick-fil-A owner Chris Spries on why he'll pay his staff to
-      volunteer in the Plainfield community next month while the restaurant is
-      closed for construction. Spries said that "everyone who counts on this job
-      as a way to provide for their family will be able to continue to do that
-      while we're closed."
+      <blockquote>“We can make chicken.A We can work hard. But if we don’t have
+      peopleA who support us, we can’t survive.”<br><br>Indiana Chick-fil-A
+      owner Chris Spries on why he'll pay his staff to volunteer in the
+      Plainfield community next month while the restaurant is closed for
+      construction. Spries said that "everyone who counts on this job as a way
+      to provide for their family will be able to continue to do that while
+      we're closed."</blockquote>
     _key: card-1-c9ee9a4c-b12a-4b0f-b67f-ba78c421f2ce
   - order: 1
     useCheckmark: false
     body: >-
-      > “For all of you that have made a fortune in the markets, or seen your
-      401Ks rise beyond your wildest expectations, more good news is coming!"  
-        
-        
-      President Trump on Twitter praising the recent rally in the stock market.
-      It is not immediately clear what the good news might be, but some suggest
-      it may be a trade deal with Mexico, and possibly Canada.
+      <blockquote>“For all of you that have made a fortune in the markets, or
+      seen your 401Ks rise beyond your wildest expectations, more good news is
+      coming!"<br><br><br>President Trump on Twitter praising the recent rally
+      in the stock market. It is not immediately clear what the good news might
+      be, but some suggest it may be a trade deal with Mexico, and possibly
+      Canada.</blockquote>
     _key: card-2-89b1a5b0-8141-4051-8ee3-83b0bf96b80e
   - order: 2
     useCheckmark: false
     body: >-
-      > “We Christians are not selling a product. We are communicating a
-      lifestyle.”  
-        
-        
-      Pope Francis via Twitter - a nonspecific tweet during a week the Catholic
-      Church continues to roil in debate over the latest sex abuse scandal and
-      who knew what & when.
+      <blockquote>“We Christians are not selling a product. We are communicating
+      a lifestyle.”<br><br><br>Pope Francis via Twitter - a nonspecific tweet
+      during a week the Catholic Church continues to roil in debate over the
+      latest sex abuse scandal and who knew what &amp; when.</blockquote>
     _key: card-3-1ac69823-c860-4846-a54a-5e9726e72fc1
   - order: 3
     useCheckmark: false
     body: >-
-      > "This hotbed of terrorists (in Idlib) does really not bode anything good
-      if such inaction continues."  
-        
-        
-      Dmitry Peskov, Kremlin spokesman, announcing Russia's Ministry of Defense
-      will hold a major naval exercise in the Mediterranean Sea September 1-8.
-      Idlib is the last major area held by rebels opposed to Syria's President &
-      sources say the President is determined to retake it.
+      <blockquote>"This hotbed of terrorists (in Idlib) does really not bode
+      anything good if such inaction continues."<br><br><br>Dmitry Peskov,
+      Kremlin spokesman, announcing Russia's Ministry of Defense will hold a
+      major naval exercise in the Mediterranean Sea September 1-8. Idlib is the
+      last major area held by rebels opposed to Syria's President &amp; sources
+      say the President is determined to retake it.</blockquote>
     _key: card-4-2a528baa-0adb-4eff-8869-9ce95eaa3592
   - order: 4
     useCheckmark: false
     body: >-
-      > "How are you going to market a tasteless apple when the consumer has
-      tasted so many good apples?"  
-        
-        
-      Tom Buford, an apple historian, as Gala cuts short Red Delicious's nearly
-      half-century reign as America's most grown apple. The decline of Red
-      Delicious is blamed on consumers wanting crispier, sweeter apples. The
-      Granny Smith will be the 3rd most grown apple.
+      <blockquote>"How are you going to market a tasteless apple when the
+      consumer has tasted so many good apples?"<br><br><br>Tom Buford, an apple
+      historian, as Gala cuts short Red Delicious's nearly half-century reign as
+      America's most grown apple. The decline of Red Delicious is blamed on
+      consumers wanting crispier, sweeter apples. The Granny Smith will be the
+      3rd most grown apple.</blockquote>
     _key: card-5-a1f5d366-2c54-468c-b542-4c219e49eca7
   - order: 5
     useCheckmark: true
-    body: |-
-      Have a great, long weekend!
-
-      [view sources](https://smarthernews.com/quick-quotes/)
+    body: >-
+      <div><p>Have a great, long weekend!</p><p><a
+      href="https://smarthernews.com/quick-quotes/">view sources</a></p></div>
     _key: card-10-a6dfa200-ff63-4fdb-9d48-890a916dcacd
 
 ---

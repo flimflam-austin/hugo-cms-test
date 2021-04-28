@@ -22,21 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “_If someone thinks that love and peace is a cliche that must have been
-      left behind in the Sixties, that’s his problem. Love and peace are
-      eternal_.”
+      <div><blockquote>“<em>If someone thinks that love and peace is a cliche
+      that must have been left behind in the Sixties, that’s his problem. Love
+      and peace are eternal</em>.”</blockquote><p></p></div>
     citation: John Lennon
     _key: card-1-579335ff-1efc-465c-ba75-a7015df1dd56
   - order: 1
     useCheckmark: true
     body: >-
-      On Dec 8, 1980,A LennonA was shotA & killed in New York City where he
-      lived with his wife, Yoko Ono, who spread his ashes in Central Park in an
-      area that later becameA the Strawberry Fields Memorial.A Each year fans
-      gather there to honorA his legacy.
-
-
-      [view sources](https://smarthernews.com/18-12-08-qtd-john-lennon/)
+      <div><p>On Dec 8, 1980,A LennonA was shotA &amp; killed in New York City
+      where he lived with his wife, Yoko Ono, who spread his ashes in Central
+      Park in an area that later becameA the Strawberry Fields Memorial.A Each
+      year fans gather there to honorA his legacy.</p><p><a
+      href="https://smarthernews.com/18-12-08-qtd-john-lennon/">view
+      sources</a></p></div>
     _key: card-10-3d4e1f60-5ee8-4aa8-9615-2549b1eeb7ec
 
 ---

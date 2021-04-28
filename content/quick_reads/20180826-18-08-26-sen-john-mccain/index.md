@@ -22,13 +22,12 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      In his newly released memoir, The Restless Wave, he wrote: It’s been quite
-      a ride. I’ve known great passions, seen amazing wonders, fought in a war,
-      and helped make a peace. I made a small place for myself in the story of
-      America and the history of my times.’
-
-
-      [view sources](https://smarthernews.com/18-08-26-sen-john-mccain/)
+      <div><p>In his newly released memoir, The Restless Wave, he wrote: It’s
+      been quite a ride. I’ve known great passions, seen amazing wonders, fought
+      in a war, and helped make a peace. I made a small place for myself in the
+      story of America and the history of my times.’</p><p><a
+      href="https://smarthernews.com/18-08-26-sen-john-mccain/">view
+      sources</a></p></div>
     _key: card-10-046bb67c-2217-4971-92c9-193b08490bcf
 
 ---

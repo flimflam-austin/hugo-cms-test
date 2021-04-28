@@ -22,19 +22,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“Things are changing swiftly and dramatically in this country, and I
-      have faith that something is awakening among us. A politics of conscience
-      is still yet possible. And yes….love will prevail.”_
+      <div><blockquote><em>“Things are changing swiftly and dramatically in this
+      country, and I have faith that something is awakening among us. A politics
+      of conscience is still yet possible. And yes….love will
+      prevail.”</em></blockquote><p></p></div>
     citation: MARIANNE WILLIAMSON
     _key: 8fc88e32234b
   - order: 1
     useCheckmark: true
     body: >-
-      Spiritual adviser & best-selling author Marianne Williamson suspended her
-      2020 presidential campaign. Her departure (and Sen. Cory Booker's on
-      Monday) leaves 12 Democratic candidates in the race ahead of next month's
-      first primary votes. The top candidates face-off Tuesday during the last
-      major debate ahead of the first contest in Iowa.
+      <div><p>Spiritual adviser &amp; best-selling author Marianne Williamson
+      suspended her 2020 presidential campaign. Her departure (and Sen. Cory
+      Booker's on Monday) leaves 12 Democratic candidates in the race ahead of
+      next month's first primary votes. The top candidates face-off Tuesday
+      during the last major debate ahead of the first contest in
+      Iowa.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 4e718c49949e
 

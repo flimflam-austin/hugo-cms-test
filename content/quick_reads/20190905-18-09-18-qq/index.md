@@ -22,70 +22,63 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “I’ve lived in North Carolina my entire life, and I’ve seen a lot of bad
-      storms, a lot of bad hurricanes. But this is absolutely the worst.”  
-        
-      David Fountain, Duke Energy's North Carolina operations president, and a
-      lifelong NC native on Hurricane Florence's wrath. 300,000 of Duke Energy's
-      1.4M impacted customers are still without power. Fountain says Duke is
-      "pleased with restoration efforts.... but there's much more to do."
+      <blockquote>“I’ve lived in North Carolina my entire life, and I’ve seen a
+      lot of bad storms, a lot of bad hurricanes. But this is absolutely the
+      worst.”<br><br>David Fountain, Duke Energy's North Carolina operations
+      president, and a lifelong NC native on Hurricane Florence's wrath. 300,000
+      of Duke Energy's 1.4M impacted customers are still without power. Fountain
+      says Duke is "pleased with restoration efforts.... but there's much more
+      to do."</blockquote>
     _key: card-1-3186b05f-fb4e-4670-98cc-f4dc6cf6e26d
   - order: 1
     useCheckmark: false
     body: >-
-      > "I believe that with this agreement we prevented a humanitarian crisis
-      in Idlib.”  
-        
-        
-      Turkey's President Erdogan after a 3-hr long meeting with Russia's
-      Vladimir Putin outlining a demilitarized zone for Syria. Idlib is the last
-      remaining holdout for Syria's anti-government rebels. U.S. says Syria has
-      been prepping a possible chemical attack. It's unclear if Syria's
-      President Bashar al-Assad supports Erdogan-Putin plan.
+      <blockquote>"I believe that with this agreement we prevented a
+      humanitarian crisis in Idlib.”<br><br><br>Turkey's President Erdogan after
+      a 3-hr long meeting with Russia's Vladimir Putin outlining a demilitarized
+      zone for Syria. Idlib is the last remaining holdout for Syria's
+      anti-government rebels. U.S. says Syria has been prepping a possible
+      chemical attack. It's unclear if Syria's President Bashar al-Assad
+      supports Erdogan-Putin plan.</blockquote>
     _key: card-2-dc0f9cbe-da86-44e4-93a8-2f9f6ceaa141
   - order: 2
     useCheckmark: false
     body: >-
-      "It’s impossible to conceive that I could run as a Republican…. That’s not
-      to say I’m with the Democratic Party on everything, but I don’t see how
-      you could possibly run as a Republican.”  
-        
-        
-      Michael Bloomberg, media executive (76), on running for President in 2020.
-      The 3-term NYC Mayor was elected as a Republican & switched to the
-      Independent party, but now says only a major party nominee can win. He's
-      spending $80M to support Dems in 2018.
+      <p>"It’s impossible to conceive that I could run as a Republican…. That’s
+      not to say I’m with the Democratic Party on everything, but I don’t see
+      how you could possibly run as a Republican.”<br><br><br>Michael Bloomberg,
+      media executive (76), on running for President in 2020. The 3-term NYC
+      Mayor was elected as a Republican &amp; switched to the Independent party,
+      but now says only a major party nominee can win. He's spending $80M to
+      support Dems in 2018.</p>
     _key: card-3-c94cbb07-4ab9-4b73-b383-c13cc22bfdf4
   - order: 3
     useCheckmark: false
     body: >-
-      "For months, we have urged China to change these unfair practices, and
+      <p>"For months, we have urged China to change these unfair practices, and
       give fair and reciprocal treatment to American companies… But, so far,
-      China has been unwilling to change its practices."  
-        
-      President Trump as the U.S. ups its tariffs on China by 10% on about $200B
-      of Chinese goods starting next week. He threatened more tariffs should
-      China retaliate, setting up what could be a prolonged trade war between
-      the world's two biggest economies.
+      China has been unwilling to change its practices."<br><br>President Trump
+      as the U.S. ups its tariffs on China by 10% on about $200B of Chinese
+      goods starting next week. He threatened more tariffs should China
+      retaliate, setting up what could be a prolonged trade war between the
+      world's two biggest economies.</p>
     _key: card-4-363fdc8b-b21c-434d-a0ea-d483485eb830
   - order: 4
     useCheckmark: false
     body: >-
-      “Mom always believed in finding the sunshine in things & she adored my
-      girlfriend Jan. Jan, you are the sunshine in myA life.A And mom was right,
-      don’t everA let go of your sunshine.A You wonder why I don’t like toA call
-      you my girlfriend?A Because I want to call you myA wife.”  
-        
-        
-      Glenn Weiss, Emmy Winner for Outstanding Dir For A Variety Special making
-      history for first ever proposal during the Primetime Emmys.
+      <p>“Mom always believed in finding the sunshine in things &amp; she adored
+      my girlfriend Jan. Jan, you are the sunshine in myA life.A And mom was
+      right, don’t everA let go of your sunshine.A You wonder why I don’t like
+      toA call you my girlfriend?A Because I want to call you myA
+      wife.”<br><br><br>Glenn Weiss, Emmy Winner for Outstanding Dir For A
+      Variety Special making history for first ever proposal during the
+      Primetime Emmys.</p>
     _key: card-5-438320e7-b8eb-42c1-8bc4-e39d300c0494
   - order: 5
     useCheckmark: true
-    body: |-
-      Have a great day!
-
-      [view sources](https://smarthernews.com/18-09-18-qq/)
+    body: >-
+      <div><p>Have a great day!</p><p><a
+      href="https://smarthernews.com/18-09-18-qq/">view sources</a></p></div>
     _key: card-10-545478c2-44dd-4e9b-93c6-c3e1f30589f5
 
 ---

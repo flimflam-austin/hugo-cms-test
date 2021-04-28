@@ -22,56 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “Look, I am very supportive of women. Everyone goes through their own
-      experiences in their own ways…. I’m going to really hate myself for saying
-      this, but I think by women speaking against all these things, it makes
-      them look weak when they are very strong women.”  
-        
-        
-        
-      Lindsay Lohan on the #MeToo movement to The Times (UK)
+      <blockquote>“Look, I am very supportive of women. Everyone goes through
+      their own experiences in their own ways…. I’m going to really hate myself
+      for saying this, but I think by women speaking against all these things,
+      it makes them look weak when they are very strong
+      women.”<br><br><br><br>Lindsay Lohan on the #MeToo movement to The Times
+      (UK)</blockquote>
     _key: card-1-4c3f03ca-3262-4a8d-9cff-333a96fdc749
   - order: 1
     useCheckmark: false
     body: >-
-      > “The film business passed away today with the announcement of the
-      ‘popular’ film Oscar. It had been in poor health for a number of years. It
-      is survived by sequels, tent-poles, and vertical integration.”  
-        
-      Actor Rob Lowe's Twitter response to the Academy Award's decision to add a
-      "popular film" category. Eligibility & other requirements have not been
-      announced. Last year was the lowest rated Oscars telecast on record.
+      <blockquote>“The film business passed away today with the announcement of
+      the ‘popular’ film Oscar. It had been in poor health for a number of
+      years. It is survived by sequels, tent-poles, and vertical
+      integration.”<br><br>Actor Rob Lowe's Twitter response to the Academy
+      Award's decision to add a "popular film" category. Eligibility &amp; other
+      requirements have not been announced. Last year was the lowest rated
+      Oscars telecast on record.</blockquote>
     _key: card-2-74d19098-cf2c-4375-93c7-de87a686391b
   - order: 2
     useCheckmark: false
     body: >-
-      > “We believe privacy is a fundamental human right and purposely design
-      our products and services to minimize our collection of personal data.”  
-        
-      Apple CEO Tim Cook in a letter responding to Congress on how it protects
-      users' data and privacy. Cook also says Apple doesn't use microphones on
-      iPhones to listen to customers. The House Cmte sent letters to Apple &
-      Google following the Facebook data breach.
+      <blockquote>“We believe privacy is a fundamental human right and purposely
+      design our products and services to minimize our collection of personal
+      data.”<br><br>Apple CEO Tim Cook in a letter responding to Congress on how
+      it protects users' data and privacy. Cook also says Apple doesn't use
+      microphones on iPhones to listen to customers. The House Cmte sent letters
+      to Apple &amp; Google following the Facebook data breach.</blockquote>
     _key: card-3-cb054981-e32a-48e1-ac12-70854f663543
   - order: 3
     useCheckmark: false
     body: >-
-      "inflicting a punishment in the absence of a crime in the tradition of
-      lynch law.”  
-        
-        
-      Senior Russian lawmaker on newly announced U.S. sanctions on Russia over
-      the March nerve agent poisoning in UK. On Wednesday, a U.S. State Dep't
-      spokeswoman said the Government of the Russian Federation has used
-      chemical or biological weapons in violation of international law or has
-      used lethal chemical or biological weapons against its own nationals.
+      <p>"inflicting a punishment in the absence of a crime in the tradition of
+      lynch law.”<br><br><br>Senior Russian lawmaker on newly announced U.S.
+      sanctions on Russia over the March nerve agent poisoning in UK. On
+      Wednesday, a U.S. State Dep't spokeswoman said the Government of the
+      Russian Federation has used chemical or biological weapons in violation of
+      international law or has used lethal chemical or biological weapons
+      against its own nationals.</p>
     _key: card-4-db24ae64-7148-4b7c-a8ed-c3e821f8d556
   - order: 4
     useCheckmark: true
-    body: |-
-      Happy Friday's Eve...!
-
-      [view sources](https://smarthernews.com/18-08-09-qq/)
+    body: >-
+      <div><p>Happy Friday's Eve...!</p><p><a
+      href="https://smarthernews.com/18-08-09-qq/">view sources</a></p></div>
     _key: card-10-e7121cc8-aab7-4449-8496-ebde3eb32916
 
 ---

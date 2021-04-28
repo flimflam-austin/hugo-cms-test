@@ -20,55 +20,43 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: "An unlikely resident at the White House rallied the nation during war and pandemic…and\_had nothing to do with donkeys (Democrats) or elephants (Republicans)."
+    body: "<p>An unlikely resident at the White House rallied the nation during war and pandemic…and\_had nothing to do with donkeys (Democrats) or elephants (Republicans).</p>"
     _key: 3df702abf860
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Backstory
-
-
-      * In 1918, President Wilson had sheep brought to the White House as a way
-      to exemplify a model American family in helping WWI efforts.
-
-      * The sheep saved money and manpower – “maintaining” the White House.
-
-      * At the flock’s peak, 48 sheep grazed throughout the back and front
-      lawns.
+      <div><h2>The Backstory</h2><ul><li>In 1918, President Wilson had sheep
+      brought to the White House as a way to exemplify a model American family
+      in helping WWI efforts.</li><li>The sheep saved money and manpower –
+      “maintaining” the White House.</li><li>At the flock’s peak, 48 sheep
+      grazed throughout the back and front lawns.</li></ul></div>
     _key: 346542f78d2d
   - order: 2
     useCheckmark: false
     body: >-
-      > “The sight of sheep grazing on the South Lawn of the White House may
-      seem unusual, but during World War I, it was a highly visible symbol of
-      home front support of the troops overseas.”
-
-
-      White House Historical Association
+      <div><blockquote>“The sight of sheep grazing on the South Lawn of the
+      White House may seem unusual, but during World War I, it was a highly
+      visible symbol of home front support of the troops
+      overseas.”</blockquote><p>White House Historical Association</p></div>
     _key: e6c8d4946b45
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why Sheep?
-
-
-      * In addition to their contributions as “landscapers,” the sheep’s wool
-      raised money for the Red Cross.
-
-      * Wool was auctioned off and raised over $50,000 for the organization’s
-      war aid.
-
-      * In 2018, a woman donated the wool her father had bought during the
-      auction. It had been kept in a safety deposit box for 100 years. It can
-      now be seen at Woodrow Wilson’s Presidential Library & Museum.
+      <div><h2>Why Sheep?</h2><ul><li>In addition to their contributions as
+      “landscapers,” the sheep’s wool raised money for the Red
+      Cross.</li><li>Wool was auctioned off and raised over $50,000 for the
+      organization’s war aid.</li><li>In 2018, a woman donated the wool her
+      father had bought during the auction. It had been kept in a safety deposit
+      box for 100 years. It can now be seen at Woodrow Wilson’s Presidential
+      Library &amp; Museum.</li></ul></div>
     _key: 144cd1de7974
   - order: 4
     useCheckmark: true
     body: >-
-      According to reports in the Washington Post, the sheep had eaten down the
-      White House grass, fell ill during the flu pandemic and developed a fear
-      of the growing number of cars passing by, which added to the challenges of
-      keeping them; they "retired" in 1920.
+      <p>According to reports in the Washington Post, the sheep had eaten down
+      the White House grass, fell ill during the flu pandemic and developed a
+      fear of the growing number of cars passing by, which added to the
+      challenges of keeping them; they "retired" in 1920.</p>
     citation: VIEW SOURCES
     _key: 1319c3354cc4
 

@@ -22,108 +22,81 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## How COVID-19 impacts what you and your family are able to buy, cook &
-      eat.
+      <h2>How COVID-19 impacts what you and your family are able to buy, cook
+      &amp; eat.</h2>
     _key: 74516a41beea
   - order: 1
     useCheckmark: false
     body: >-
-      ## THE STAKES (& STEAKS)
-
-
-      * The U.S. is the world’s largest**food** exporter.
-
-      * The U.S. is the world’s largest**beef** producer & consumer in the
-      world.
-
-      * The U.S. is the world’s largest**poultry** producer. It’s also a major
-      egg producer & the second largest poultry exporter.
-
-      * Meat**byproducts** (ex: gelatin, wool, lanolin) also contribute to many
-      commonly used household products.
+      <div><h2>THE STAKES (&amp; STEAKS)</h2><ul><li>The U.S. is the world’s
+      largest <strong>food</strong> exporter.</li><li>The U.S. is the world’s
+      largest <strong>beef</strong> producer &amp; consumer in the
+      world.</li><li>The U.S. is the world’s largest <strong>poultry</strong>
+      producer. It’s also a major egg producer &amp; the second largest poultry
+      exporter.</li><li>Meat <strong>byproducts</strong> (ex: gelatin, wool,
+      lanolin) also contribute to many commonly used household
+      products.</li></ul><p><br></p></div>
     _key: a770a982de89
   - order: 2
     useCheckmark: false
     body: >-
-      ## What’s the Problem?
-
-
-      The U.S. food supply chain is impacted by COVID-19 in these two ways:
-
-
-      * **Distribution:** Restaurants, cafeterias, closed, immediately halting
-      demand.
-
-      * **Human Power:** When plants shut down due to illness/sick leave, fewer
-      workers can process food.
-
-
-      **Why It Matters:** Livestock farmers have too much product & nowhere to
-      send it.
+      <div><h2>What’s the Problem?</h2><p>The U.S. food supply chain is impacted
+      by COVID-19 in these two ways:</p><ul><li><strong>Distribution:</strong>
+      Restaurants, cafeterias, closed, immediately halting
+      demand.</li><li><strong>Human Power:</strong> When plants shut down due to
+      illness/sick leave, fewer workers can process
+      food.</li></ul><p><strong>Why It Matters:</strong> Livestock farmers have
+      too much product &amp; nowhere to send it.</p></div>
     _key: a2cbc9cbb82f
   - order: 3
     useCheckmark: false
     body: >-
-      ## THE LATEST
-
-
-      * The U.S. gov’t considers livestock, agriculture workers “critical.”
-
-      * Large processing plants employ a lot of people working in close
-      quarters.
-
-      * Outbreaks have halted production. U.S. meat industry workers have
-      reportedly died from COVID-19.
-
-      * This has led to the closure of**major** U.S. meat processing plants,
-      potentially impacting meat supply nationwide (and beyond).
+      <div><h2>THE LATEST</h2><ul><li>The U.S. gov’t considers livestock,
+      agriculture workers “critical.”</li><li>Large processing plants employ a
+      lot of people working in close quarters.</li><li>Outbreaks have halted
+      production. U.S. meat industry workers have reportedly died from
+      COVID-19.</li><li>This has led to the closure of <strong>major</strong>
+      U.S. meat processing plants, potentially impacting meat supply nationwide
+      (and beyond).</li></ul></div>
     _key: 4efa93063ea4
   - order: 4
     useCheckmark: false
     body: >-
-      “As pork, beef and chicken plants are being forced to close, even for
-      short periods of time, millions of pounds of meat will disappear from the
-      supply chain… Farmers across the country will not have anywhere to sell
-      their livestock to be processed, when they could have fed the nation… The
-      food supply chain is breaking.”
-
-
-      Tyson Foods chairman John Tyson in a full-page ad published in various
-      newspapers over the weekend.
+      <div><p>“As pork, beef and chicken plants are being forced to close, even
+      for short periods of time, millions of pounds of meat will disappear from
+      the supply chain… Farmers across the country will not have anywhere to
+      sell their livestock to be processed, when they could have fed the nation…
+      The food supply chain is breaking.”</p><p>Tyson Foods chairman John Tyson
+      in a full-page ad published in various newspapers over the
+      weekend.</p></div>
     _key: 2391d66434f1
   - order: 5
     useCheckmark: false
     body: >-
-      > “They say, ‘How dare you throw away food when so many people are
-      hungry?.’ They don’t know how farming works. This makes me sick, too.”
-
-
-      A U.S. farmer, speaking on the condition of anonymity, about disposing of
-      their product. Some farmers have been forced to euthanize livestock
-      because they have nowhere to keep or sell the animals.
+      <div><blockquote>“They say, ‘How dare you throw away food when so many
+      people are hungry?.’ They don’t know how farming works. This makes me
+      sick, too.”</blockquote><p>A U.S. farmer, speaking on the condition of
+      anonymity, about disposing of their product. Some farmers have been forced
+      to euthanize livestock because they have nowhere to keep or sell the
+      animals.</p></div>
     _key: 5d19206454c3
   - order: 6
     useCheckmark: false
     body: >-
-      ## What This Means For You
-
-
-      Even if individual families buy more at the grocery store, we can’t make
-      up for the large, bulk purchasing power of restaurants, corporate
-      cafeterias, event catering and beyond.
-
-
-      Some economists believe the disruption in the supply chain (lower supply
-      due to closed processing plants) will lead to higher prices for all in the
-      weeks and months ahead.
+      <div><h2>What This Means For You</h2><p>Even if individual families buy
+      more at the grocery store, we can’t make up for the large, bulk purchasing
+      power of restaurants, corporate cafeterias, event catering and
+      beyond.</p><p>Some economists believe the disruption in the supply chain
+      (lower supply due to closed processing plants) will lead to higher prices
+      for all in the weeks and months ahead.</p></div>
     _key: b3856eec7137
   - order: 7
     useCheckmark: true
     body: >-
-      Currently, meat produced for food-service (like restaurants) cannot be
-      repackaged and sold in grocery stores, or donated easily. The USDA has set
-      up an emergency network to try to coordinate oversupply, funneling it to
-      places of need.
+      <div><p>Currently, meat produced for food-service (like restaurants)
+      cannot be repackaged and sold in grocery stores, or donated easily. The
+      USDA has set up an emergency network to try to coordinate oversupply,
+      funneling it to places of need.</p><p></p></div>
     citation: VIEW SOURCES
     _key: d1d8fc7dd7bd
 

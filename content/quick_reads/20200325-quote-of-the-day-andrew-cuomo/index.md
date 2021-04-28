@@ -21,16 +21,19 @@ colorpaletteclassname: '--white'
 cards:
   - order: 0
     useCheckmark: false
-    body: '## “_Love wins – always, and it will win again through this virus._“'
+    body: >-
+      <div><h2>“<em>Love wins – always, and it will win again through this
+      virus.</em>“</h2><p></p></div>
     citation: NY GOV. ANDREW CUOMO
     _key: 44044633fa97
   - order: 1
     useCheckmark: true
     body: >-
-      The two-term governor promised to work to protect the most vulnerable in
-      his state, the current national hot spot for a COVID-19 outbreak. As of
-      Tuesday, NY reported 25,000+ cases (including nearly 15k in NYC) - that's
-      about 50% of the current total U.S. cases.
+      <div><p>The two-term governor promised to work to protect the most
+      vulnerable in his state, the current national hot spot for a COVID-19
+      outbreak. As of Tuesday, NY reported 25,000+ cases (including nearly 15k
+      in NYC) - that's about 50% of the current total U.S.
+      cases.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 1950fc2b46d0
 

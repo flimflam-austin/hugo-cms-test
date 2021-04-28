@@ -20,17 +20,19 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: '> _“We’re all better together.”_'
+    body: >-
+      <div><blockquote><em>“We’re all better
+      together.”</em></blockquote><p></p></div>
     citation: WANDA COOPER-JONES
     _key: c91c6a40ea87
   - order: 1
     useCheckmark: true
     body: >-
-      Ahmaud Arbery's mother on the one-year anniversary of her son's death,
+      <p>Ahmaud Arbery's mother on the one-year anniversary of her son's death,
       responding to a question about whether she has hope America can unite.
       Arbery’s death was the first of several notable cases that ignited debate,
       protests and civil unrest about race in America. We have a full timeline
-      of the Ahmaud Arbery case linked in bio.
+      of the Ahmaud Arbery case linked in bio.</p>
     citation: VIEW SOURCES
     _key: 002fdcc3f0cd
 

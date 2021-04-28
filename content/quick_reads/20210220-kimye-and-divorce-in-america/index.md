@@ -21,67 +21,54 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # State of Marriage
-
-
-      > While headlines swirl about another high-profile celebrity breakup,
-      statistics show the divorce rate in America has hit its lowest point in a
-      decade.  
-        
-      What To Know & Why It Matters
+      <div><h1>State of Marriage</h1><blockquote>While headlines swirl about
+      another high-profile celebrity breakup, statistics show the divorce rate
+      in America has hit its lowest point in a decade.<br><br>What To Know &amp;
+      Why It Matters</blockquote></div>
     _key: 95685ca949a1
   - order: 1
     useCheckmark: false
     body: >-
-      ## What The Data Says
-
-
-      **Stats from the U.S. gov’t:**
-
-
-      * **Divorce rates have dropped**.
-
-      * **Marriage rates have also dropped.**
-
-      * **One data point that increased?** The age of Americans at their first
-      marriage. Some believe being “older and wiser” (and more financially
-      stable) is a factor impacting lower rates for**both** marriage**and**
-      divorce.
+      <div><h2>What The Data Says</h2><p><strong>Stats from the U.S.
+      gov’t:</strong></p><ul><li><strong>Divorce rates have
+      dropped</strong>.</li><li><strong>Marriage rates have also
+      dropped.</strong></li><li><strong>One data point that increased?</strong>
+      The age of Americans at their first marriage. Some believe being “older
+      and wiser” (and more financially stable) is a factor impacting lower rates
+      for <strong>both</strong> marriage <strong>and</strong>
+      divorce.</li></ul></div>
     _key: 3ed42ee83495
   - order: 2
     useCheckmark: false
     body: >-
-      > “Where there was a crack, there is now a rupture.”
-
-
-      Family therapist Dr. Kathryn Smerling on the impact of COVID-19 on
-      marriages. Initial data shows divorce filings and marriage licenses have
-      dropped even further during the pandemic, but it's unclear if that's
-      simply a filing issue (i.e. gov't resources shut down or delayed due to
-      COVID-19) and whether pent-up demand *for both* will lead to different
-      statistical conclusions.
+      <div><blockquote>“Where there was a crack, there is now a
+      rupture.”</blockquote><p>Family therapist Dr. Kathryn Smerling on the
+      impact of COVID-19 on marriages. Initial data shows divorce filings and
+      marriage licenses have dropped even further during the pandemic, but it's
+      unclear if that's simply a filing issue (i.e. gov't resources shut down or
+      delayed due to COVID-19) and whether pent-up demand *for both* will lead
+      to different statistical conclusions.</p></div>
     _key: a8827eda7eea
   - order: 3
     useCheckmark: false
     body: >-
-      “The U.S. is progressing toward a system in which marriage is rarer, and
-      more stable, than it was in the past.”  
-        
-      Dr. Philip Cohen authored a study called "The Coming Divorce Decline" and
-      writes divorce will continue to decline - in part because marriage is
-      becoming "increasingly selective." Divorce & marriage rates differ state
-      to state. The Census Bureau updated data in 2019; Wyoming had the highest
+      <div><p>“The U.S. is progressing toward a system in which marriage is
+      rarer, and more stable, than it was in the past.”<br><br>Dr. Philip Cohen
+      authored a study called "The Coming Divorce Decline" and writes divorce
+      will continue to decline - in part because marriage is becoming
+      "increasingly selective." Divorce &amp; marriage rates differ state to
+      state. The Census Bureau updated data in 2019; Wyoming had the highest
       marriage rate. The highest divorce rate? Arkansas. See the interactive map
-      on our source page.
+      on our source page.</p><p><br></p></div>
     _key: 180549c29979
   - order: 4
     useCheckmark: true
     body: >-
-      Kim Kardashian and Kanye West filed for divorce after more than 6 years of
-      marriage. Is there anything statistically true about the "7-year-itch"?
+      <p>Kim Kardashian and Kanye West filed for divorce after more than 6 years
+      of marriage. Is there anything statistically true about the "7-year-itch"?
       One psychologist says 4 years is, historically, a critical intersection in
       marriage. Read more about the "evolutionary" explanation on our source
-      page.
+      page.</p>
     citation: VIEW SOURCES
     _key: 1bdb0e1ec5d3
 

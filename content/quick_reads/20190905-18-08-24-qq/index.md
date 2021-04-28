@@ -22,63 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “We do not want to see what happened in Puerto Rico, and we do that by
-      making sure we’re prepared.”  
-        
-        
-      Kirk Caldwell, Honolulu Mayor, as Hurricane Lane pummels the Big Island of
-      Hawaii with 20+ inches of rain in 24 hours. President Trump has authorized
-      emergency aid. The last major storm to hit Hawaii was Iniki 26 years ago.
-
-
-      [SMARTHER
-      REFRESHER](https://smarthernews.com/18-08-23-hawaiian-hurricane/)
+      <div><blockquote>“We do not want to see what happened in Puerto Rico, and
+      we do that by making sure we’re prepared.”<br><br><br>Kirk Caldwell,
+      Honolulu Mayor, as Hurricane Lane pummels the Big Island of Hawaii with
+      20+ inches of rain in 24 hours. President Trump has authorized emergency
+      aid. The last major storm to hit Hawaii was Iniki 26 years
+      ago.</blockquote><p><a
+      href="https://smarthernews.com/18-08-23-hawaiian-hurricane/">SMARTHER
+      REFRESHER</a></p></div>
     _key: card-1-24b6830c-1d84-479a-91eb-4d57aa9dc685
   - order: 1
     useCheckmark: false
     body: >-
-      > “It’s a ridiculous amount of money. No matter how much money you have,
-      this amount will take both of us out of our comfort zone.”  
-        
-        
-        
-      Phil Mickelson on the $9M pot for a one-on-one golf game against Tiger
-      Woods planned for Thanksgiving weekend in Las Vegas. According to Forbes,
-      the two are the highest-paid golfers Woods ($43.3M) & Mickelson ($41.3M).
+      <blockquote>“It’s a ridiculous amount of money. No matter how much money
+      you have, this amount will take both of us out of our comfort
+      zone.”<br><br><br><br>Phil Mickelson on the $9M pot for a one-on-one golf
+      game against Tiger Woods planned for Thanksgiving weekend in Las Vegas.
+      According to Forbes, the two are the highest-paid golfers Woods ($43.3M)
+      &amp; Mickelson ($41.3M).</blockquote>
     _key: card-2-8bbe1824-b43f-4b0c-bc90-5aca1694da23
   - order: 2
     useCheckmark: false
     body: >-
-      > “It’s a bold move that will better protect our planet for future
-      generations.”  
-        
-        
-        
-      Rodney McMullen, Kroger Chairman & CEO, on the nation's largest
-      grocery-chain's plans to phase out single-use plastic bags by 2025. Kroger
-      orders 6B plastic bags per year, costing an estimated $120M - $300M.
-      Approximately 100B plastic, grocery bags are used each year in America.
+      <blockquote>“It’s a bold move that will better protect our planet for
+      future generations.”<br><br><br><br>Rodney McMullen, Kroger Chairman &amp;
+      CEO, on the nation's largest grocery-chain's plans to phase out single-use
+      plastic bags by 2025. Kroger orders 6B plastic bags per year, costing an
+      estimated $120M - $300M. Approximately 100B plastic, grocery bags are used
+      each year in America.</blockquote>
     _key: card-3-a898c9e5-9e8e-4aca-acf1-f7886f04094c
   - order: 3
     useCheckmark: false
     body: >-
-      > “Any time they don’t leave a trust or will, there always ends up being a
-      fight.”  
-        
-        
-        
-      Don Wilson, Aretha Franklin's attorney of 28 years, on a possible battle
-      over her estate. Under Michigan law, her 4 children would split her assets
-      equally, but that could be contested in court. Wilson compared it to Ike
-      Turner whose estate he says is still being litigated 11 years after his
-      death.
+      <blockquote>“Any time they don’t leave a trust or will, there always ends
+      up being a fight.”<br><br><br><br>Don Wilson, Aretha Franklin's attorney
+      of 28 years, on a possible battle over her estate. Under Michigan law, her
+      4 children would split her assets equally, but that could be contested in
+      court. Wilson compared it to Ike Turner whose estate he says is still
+      being litigated 11 years after his death.</blockquote>
     _key: card-4-4390a415-465a-4980-b415-064f75b76cf3
   - order: 4
     useCheckmark: true
-    body: |-
-      Have a great weekend!
-
-      [view sources](https://smarthernews.com/18-08-24-qq/)
+    body: >-
+      <div><p>Have a great weekend!</p><p><a
+      href="https://smarthernews.com/18-08-24-qq/">view sources</a></p></div>
     _key: card-10-32858b59-dc63-4eec-ab66-fd42149b18c5
 
 ---

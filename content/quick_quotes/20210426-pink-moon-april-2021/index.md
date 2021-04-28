@@ -2,11 +2,11 @@
 title: Pink Moon April 2021
 slug: 20210426-pink-moon-april-2021
 _id: eecda1ee-2f3d-4c8c-b421-f3d69d5320a2
-_rev: SjbiSe73JGGIJVDTPrT0un
+_rev: 6MVoxel8D9Shx3LWykBfAB
 type: quick_quotes
 draft: false
 _createdAt: '2021-04-26T09:14:24Z'
-_updatedAt: '2021-04-26T19:12:05Z'
+_updatedAt: '2021-04-28T15:17:14Z'
 date: '2021-04-26T16:15:00.000Z'
 lastmod: '2021-04-26T16:15:00.000Z'
 weight: 50
@@ -20,13 +20,8 @@ featured_image:
 authorReference: 736ce08a-35f5-4f02-92d5-65507845df97
 is_breaking: false
 featured_quote:
-  quote: >-
-    April’s full moon often corresponded with the early springtime blooms of a
-    certain pink wildflower native to eastern North America....
-  citation: >-
-    The Old Farmer's Almanac on the phenomenon known as the Pink Moon, which
-    will be most visible Monday night after 11:30 p.m. EST barring  clouds in
-    its way.  
+  quote: The full moon is the first of two supermoons for 2021.
+  citation: 'NASA''s Gordon Johnson on the first full moon of 2021: a pink "supermoon."'
 
 ---
 * It's not actually pink. It's named for the pink wildflower species, Phlox subulata, that blooms around this time of year. Old Farmer's Almanac: _"The moon will be its usual golden color near the horizon and fade to a bright white as it glides overhead." _

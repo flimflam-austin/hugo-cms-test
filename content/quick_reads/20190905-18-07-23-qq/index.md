@@ -22,82 +22,64 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “NEVER, EVER THREATEN THE UNITED STATES AGAIN OR YOU WILL SUFFER
-      CONSEQUENCES THE LIKES OF WHICH FEW THROUGHOUT HISTORY HAVE EVER SUFFERED
-      BEFORE. WE ARE NO LONGER A COUNTRY THAT WILL STAND FOR YOUR DEMENTED WORDS
-      OF VIOLENCE & DEATH. BE CAUTIOUS!”  
-        
-        
-        
-      Pres. Trump to Iranian Pres. Rouhani
-
-
-      flip here for more
+      <div><blockquote>“NEVER, EVER THREATEN THE UNITED STATES AGAIN OR YOU WILL
+      SUFFER CONSEQUENCES THE LIKES OF WHICH FEW THROUGHOUT HISTORY HAVE EVER
+      SUFFERED BEFORE. WE ARE NO LONGER A COUNTRY THAT WILL STAND FOR YOUR
+      DEMENTED WORDS OF VIOLENCE &amp; DEATH. BE CAUTIOUS!”<br><br><br><br>Pres.
+      Trump to Iranian Pres. Rouhani</blockquote><p>flip here for more</p></div>
     _key: card-1-5f4765d9-baf2-4171-a6ab-86f901f1ae12
   - order: 1
     useCheckmark: false
     body: >-
-      > “Do not play with the lion’s tail or else you will regret it.”  
-        
-        
-        
-      Iranian President Hassan Rouhani, warning President Trump the U.S. cannot
-      prevent Iran from exporting its oil & that further confrontation will
-      result in the "mother of all wars."
+      <blockquote>“Do not play with the lion’s tail or else you will regret
+      it.”<br><br><br><br>Iranian President Hassan Rouhani, warning President
+      Trump the U.S. cannot prevent Iran from exporting its oil &amp; that
+      further confrontation will result in the "mother of all
+      wars."</blockquote>
     _key: card-2-54308301-acdc-4904-92cb-d152dc031fb6
   - order: 2
     useCheckmark: false
     body: >-
-      > "If they don’t make it Lord, take me, too. I don’t need to be here.’’  
-        
-        
-        
-      Tia Coleman, lost 9 members of her family, including her husband and three
-      children - ages 9, 7 & 1 - after a duck boat capsized in a Missouri lake.
-      An additional 8 others died. Early investigations by the NTSB found the
-      duck boat faced near-hurricane force winds.
+      <blockquote>"If they don’t make it Lord, take me, too. I don’t need to be
+      here.’’<br><br><br><br>Tia Coleman, lost 9 members of her family,
+      including her husband and three children - ages 9, 7 &amp; 1 - after a
+      duck boat capsized in a Missouri lake. An additional 8 others died. Early
+      investigations by the NTSB found the duck boat faced near-hurricane force
+      winds.</blockquote>
     _key: card-3-a002f9f4-b5e7-4b05-9509-8a974378a694
   - order: 3
     useCheckmark: false
     body: >-
-      > "Everyone thought we were going to die.”  
-        
-        
-        
-      Best Buy CEO Hubert Joly on how the big box retailer fought back against
-      online competition from the likes of Amazon. The last national electronics
-      chain is using its stores as showrooms & in-home personal advisors to help
-      customers with questions and purchases.
+      <blockquote>"Everyone thought we were going to die.”<br><br><br><br>Best
+      Buy CEO Hubert Joly on how the big box retailer fought back against online
+      competition from the likes of Amazon. The last national electronics chain
+      is using its stores as showrooms &amp; in-home personal advisors to help
+      customers with questions and purchases.</blockquote>
     _key: card-4-2349ba85-1cce-40ac-9275-e63101424a4f
   - order: 4
     useCheckmark: false
     body: >-
-      > “Literally everybody on the planet now knows that we’re in the burger
-      business.”  
-        
-        
-        
-      Darren Rebelez, president of IHOP, on its month-long ad campaign replacing
-      the "P" in IHOP with a "B" for burger.
+      <blockquote>“Literally everybody on the planet now knows that we’re in the
+      burger business.”<br><br><br><br>Darren Rebelez, president of IHOP, on its
+      month-long ad campaign replacing the "P" in IHOP with a "B" for
+      burger.</blockquote>
     _key: card-5-f079e02a-c034-42d7-b8c3-ee235d5dd956
   - order: 5
     useCheckmark: false
     body: >-
-      > “I told them I tried and I said, ‘Hopefully you’re as proud of your pops
-      for trying as hard as I did.'”  
-        
-      Tiger Woods on what he told his children after his first close run at a
-      major title in over 10 years at the British Open this weekend. He put
-      himself in the lead in the front 9 holes, but had a bad hole at 11 and
-      never recovered. Woods, with 14 career titles, is chasing Jack Nicklaus
-      for the most major championships with 18.
+      <blockquote>“I told them I tried and I said, ‘Hopefully you’re as proud of
+      your pops for trying as hard as I did.'”<br><br>Tiger Woods on what he
+      told his children after his first close run at a major title in over 10
+      years at the British Open this weekend. He put himself in the lead in the
+      front 9 holes, but had a bad hole at 11 and never recovered. Woods, with
+      14 career titles, is chasing Jack Nicklaus for the most major
+      championships with 18.</blockquote>
     _key: card-6-4e5f779f-f09b-4e7a-80ea-655e6d70bbc9
   - order: 6
     useCheckmark: true
-    body: |-
-      Have a great week!
-
-      [view sources](https://smarthernews.com/18-07-23-qq/)
+    body: >-
+      <div><p>Have a great week!</p><p><a
+      href="https://smarthernews.com/18-07-23-qq/">view sources</a></p></div>
     _key: card-10-fdc293a3-1962-463a-9082-c009acb658e2
 
 ---

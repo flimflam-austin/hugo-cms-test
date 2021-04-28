@@ -21,15 +21,12 @@ colorpaletteclassname: '--white'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## “_I’m real life blessed_.”
-
-      ##
+    body: <div><h2>“<em>I’m real life blessed</em>.”</h2><h2></h2></div>
     citation: JOSH JACOBS
     _key: 5a2288411638
   - order: 1
     useCheckmark: true
-    body: "The 21-year-old Raiders rookie running back bought a home for his father, who raised him and\_his four siblings. The family struggled financially and were often forced to live in their car.\_Jacobs was the 24th overall pick in the NFL draft in 2019 when more than 106,000 minors experienced homelessness."
+    body: "<div><p>The 21-year-old Raiders rookie running back bought a home for his father, who raised him and\_his four siblings. The family struggled financially and were often forced to live in their car.\_Jacobs was the 24th overall pick in the NFL draft in 2019 when more than 106,000 minors experienced homelessness.</p><p></p></div>"
     citation: VIEW SOURCES
     _key: 07dcd6e647fc
 

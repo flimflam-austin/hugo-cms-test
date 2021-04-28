@@ -22,98 +22,71 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # “Shame & Sorrow”
-
-
-      > Fresh off a visit to Ireland, the Pope faces new allegations he knew
-      about the latest clergy abuse scandal for years while offering no concrete
-      measures to end or punish it.  
-        
-      **Total payouts for U.S. victims are just a fraction of money collected at
-      Sunday Mass each year.**
-
-
-      18,565 U.S. Victims
+      <div><h1>“Shame &amp; Sorrow”</h1><blockquote>Fresh off a visit to
+      Ireland, the Pope faces new allegations he knew about the latest clergy
+      abuse scandal for years while offering no concrete measures to end or
+      punish it.<br><br><strong>Total payouts for U.S. victims are just a
+      fraction of money collected at Sunday Mass each
+      year.</strong></blockquote><p>18,565 U.S. Victims</p></div>
     _key: card-1-e6223dc0-29fb-433d-b4f7-db7e9f847811
   - order: 1
     useCheckmark: false
     body: >-
-      ## A Number You’ve Probably Heard: $3B
-
-
-      Often quoted the**Catholic Church has paid out $3B to U.S. victims.**
-
-
-      **BUT** that data**hasn’t been updated since 2011 & doesn’t include
-      smaller settlements since 2002.**
-
-
-      Bishop Accountability, which compiles the data, says**$3B is an
-      “underestimate.”**
+      <div><h2>A Number You’ve Probably Heard: $3B</h2><p>Often quoted the
+      <strong>Catholic Church has paid out $3B to U.S.
+      victims.</strong></p><p><strong>BUT</strong> that data <strong>hasn’t been
+      updated since 2011 &amp; doesn’t include smaller settlements since
+      2002.</strong></p><p>Bishop Accountability, which compiles the data, says
+      <strong>$3B is an “underestimate.”</strong></p></div>
     _key: card-2-dfeea6b7-ec20-415c-b9e7-98de816c5b9a
   - order: 2
     useCheckmark: false
     body: >-
-      > "I really worry about a loss to credibility, a loss of trust. There’s no
-      use denying it. We can’t sugarcoat it, this is disastrous."  
-        
-        
-        
-      Cardinal Timothy Dolan, Archbishop of New York, after a Pennsylvania grand
-      jury report last week showed the church covered up the abuse of 1K+ minors
-      by 300 priests over 70 years.
+      <blockquote>"I really worry about a loss to credibility, a loss of trust.
+      There’s no use denying it. We can’t sugarcoat it, this is
+      disastrous."<br><br><br><br>Cardinal Timothy Dolan, Archbishop of New
+      York, after a Pennsylvania grand jury report last week showed the church
+      covered up the abuse of 1K+ minors by 300 priests over 70
+      years.</blockquote>
     _key: card-3-cff49132-fb48-43cd-83d3-aaa29b69b5a6
   - order: 3
     useCheckmark: false
     body: >-
-      ## Where the Collection Goes
-
-
-      * Approx. 17M Catholic U.S. households donate an average of $10 each week
-      =**$8.8B each year.**
-
-      * Donations are typically used to**fund church operations or social
-      services**.
-
-      * In some cases, donations have been used**in connection with settlements
-      paid to victims.**
+      <div><h2>Where the Collection Goes</h2><ul><li>Approx. 17M Catholic U.S.
+      households donate an average of $10 each week = <strong>$8.8B each
+      year.</strong></li><li>Donations are typically used to <strong>fund church
+      operations or social services</strong>.</li><li>In some cases, donations
+      have been used <strong>in connection with settlements paid to
+      victims.</strong></li></ul></div>
     _key: card-4-f483d6ef-f285-4fa5-8634-39b64f1d728f
   - order: 4
     useCheckmark: false
     body: >-
-      > "For the billions it has cost the Catholic Church, it does not compare
-      to the cost of (traumatic) lives that many have suffered over the
-      years,"  
-        
-        
-        
-      Johnny Vega, who was raped by a priest & deacon at his New Jersey church
-      where he served as an altar boy. He received part of a $5M settlement in
-      2005 with 2 dozen other victims.
+      <blockquote>"For the billions it has cost the Catholic Church, it does not
+      compare to the cost of (traumatic) lives that many have suffered over the
+      years,"<br><br><br><br>Johnny Vega, who was raped by a priest &amp; deacon
+      at his New Jersey church where he served as an altar boy. He received part
+      of a $5M settlement in 2005 with 2 dozen other victims.</blockquote>
     _key: card-5-b65f86e2-4091-4b19-8b80-51ff9f9d431a
   - order: 5
     useCheckmark: false
     body: >-
-      ## Bigger Picture
-
-
-      * Percentage of**Catholics worldwideA is steady at 18%**.
-
-      * Number of U.S. Catholics**declined from 2015** (81M)**to 2017** (74M),
-      but had been**steadily increasing since 1970**.
-
-      * According to a 2010 Pew survey: About 27% of those who had left the
-      church**blamed the clergy sexual abuse scandals**.
+      <div><h2>Bigger Picture</h2><ul><li>Percentage of <strong>Catholics
+      worldwideA is steady at 18%</strong>.</li><li>Number of U.S. Catholics
+      <strong>declined from 2015</strong> (81M) <strong>to 2017</strong> (74M),
+      but had been <strong>steadily increasing since
+      1970</strong>.</li><li>According to a 2010 Pew survey: About 27% of those
+      who had left the church <strong>blamed the clergy sexual abuse
+      scandals</strong>.</li></ul></div>
     _key: card-6-b2615612-b2f7-4e79-a642-f7f575756137
   - order: 6
     useCheckmark: true
     body: >-
-      Missouri's AG Josh Hawley, a Republican running for Senate, has launched
-      an investigation into Catholic Church sexual abuse making it the 1st state
-      to publicly do so. Archdiocese of St. Louis promises "unfettered access."
-
-
-      [view sources](https://smarthernews.com/catholic-church/)
+      <div><p>Missouri's AG Josh Hawley, a Republican running for Senate, has
+      launched an investigation into Catholic Church sexual abuse making it the
+      1st state to publicly do so. Archdiocese of St. Louis promises "unfettered
+      access."</p><p><a href="https://smarthernews.com/catholic-church/">view
+      sources</a></p></div>
     _key: card-10-1d99d805-4706-43d9-b370-d3498ed122ea
 
 ---

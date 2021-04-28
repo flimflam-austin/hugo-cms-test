@@ -22,70 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # OH, BABY.
-
-
-      ## American women are having children at the LOWEST rate on record.
-
-
-      The number of babies born last year hit a**30-year low** despite a strong
-      economy & a larger female population of child-bearing age –_**dumbfounding
-      researchers**.
+      <div><h1>OH, BABY.</h1><h2>American women are having children at the
+      LOWEST rate on record.</h2><p>The number of babies born last year hit a
+      <strong>30-year low</strong> despite a strong economy &amp; a larger
+      female population of child-bearing age –_<strong>dumbfounding
+      researchers</strong>.</p></div>
     _key: card-1-d78b4d11-3912-4694-aaff-91d2517d105e
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why It’s Surprising
-
-
-      Last year, the birthrate even**declined for women in their 30s**, a
-      shocker after rates had been rising as more women delayed pregnancy.
-
-
-      The only group to see a**higher birthrate was women in their 40s**.
-
-
-      Baby booms typically follow economic booms, but**the fertility rate hasn’t
-      recovered since 2010.**
+      <div><h2>Why It’s Surprising</h2><p>Last year, the birthrate even
+      <strong>declined for women in their 30s</strong>, a shocker after rates
+      had been rising as more women delayed pregnancy.</p><p>The only group to
+      see a <strong>higher birthrate was women in their 40s</strong>.</p><p>Baby
+      booms typically follow economic booms, but <strong>the fertility rate
+      hasn’t recovered since 2010.</strong></p></div>
     _key: card-2-140936e5-9f57-4fb0-aad1-e11e70f7307e
   - order: 2
     useCheckmark: false
     body: >-
-      > “Every year I look at data & expect it will be the year that birthrates
-      start to tick up, and every year we hit another all-time low. It’s one of
-      the big demographic mysteries of recent times.”  
-        
-        
-        
-      Kenneth Johnson, University of New Hampshire Demographer
+      <blockquote>“Every year I look at data &amp; expect it will be the year
+      that birthrates start to tick up, and every year we hit another all-time
+      low. It’s one of the big demographic mysteries of recent
+      times.”<br><br><br><br>Kenneth Johnson, University of New Hampshire
+      Demographer</blockquote>
     _key: card-3-dde41f56-2da5-4c3a-8b2c-117a230e657d
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      Fewer babies means**less young workers to pay into Social Security &
-      Medicare** for an aging population.
-
-
-      It may also affect the workplace with**too few workers for jobs** that
-      need to be filled.
-
-
-      In the U.S., declines in rates haven’t led to drops in population, mainly
-      due to immigration.
+      <div><h2>Why It Matters</h2><p>Fewer babies means <strong>less young
+      workers to pay into Social Security &amp; Medicare</strong> for an aging
+      population.</p><p>It may also affect the workplace with <strong>too few
+      workers for jobs</strong> that need to be filled.</p><p>In the U.S.,
+      declines in rates haven’t led to drops in population, mainly due to
+      immigration.</p></div>
     _key: card-4-73e782f6-32b5-4720-990e-885dea212d98
   - order: 4
     useCheckmark: true
     body: >-
-      More than 3.8M babies were born in the U.S. last year, but last year's
-      drop in the nation's birth rate (about 2%) is the largest drop since 2010.
-      And while there's no need to be alarmed yet, researchers point to Japan's
-      "demographic time bomb" on why this matters. Read more here.
-
-
-      [view sources](https://smarthernews.com/18-05-18-fertility-rate/)
+      <div><p>More than 3.8M babies were born in the U.S. last year, but last
+      year's drop in the nation's birth rate (about 2%) is the largest drop
+      since 2010. And while there's no need to be alarmed yet, researchers point
+      to Japan's "demographic time bomb" on why this matters. Read more
+      here.</p><p><a
+      href="https://smarthernews.com/18-05-18-fertility-rate/">view
+      sources</a></p></div>
     _key: card-10-7cb70f2f-2efd-4640-aed5-9d42b2069c27
 
 ---

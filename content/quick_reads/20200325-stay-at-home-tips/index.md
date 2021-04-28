@@ -21,10 +21,9 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # STAYING HOME?
-
-      You shared your favorite stay-at-home books, movies, recipes and games!
+    body: >-
+      <div><h1>STAYING HOME?</h1><p>You shared your favorite stay-at-home books,
+      movies, recipes and games!</p></div>
     _key: 3c2e63a75716
   - order: 1
     useCheckmark: true

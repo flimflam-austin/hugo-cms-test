@@ -21,18 +21,18 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“There are these ups and downs in your journey… That’s where all of the
-      lessons are.“_
+      <blockquote><em>“There are these ups and downs in your journey… That’s
+      where all of the lessons are.“</em></blockquote>
     citation: DIANA ROSS
     _key: a9568bb435f5
   - order: 1
     useCheckmark: true
     body: >-
-      > #OTD in 1944 the Queen of Motown was born. The legendary Ms. Ross rose
-      to fame in The Supremes and went on to have a decades-long solo career in
-      song and stage. Overall, she's sold more than 100 million records. The
-      mother of five has won a Golden Globe and a Grammy Lifetime Achievement
-      Award in 2012.
+      <blockquote>#OTD in 1944 the Queen of Motown was born. The legendary Ms.
+      Ross rose to fame in The Supremes and went on to have a decades-long solo
+      career in song and stage. Overall, she's sold more than 100 million
+      records. The mother of five has won a Golden Globe and a Grammy Lifetime
+      Achievement Award in 2012.</blockquote>
     citation: VIEW SOURCES
     _key: 36a451cf5bd2
 

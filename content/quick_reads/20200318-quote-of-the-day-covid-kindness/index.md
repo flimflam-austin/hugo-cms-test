@@ -21,21 +21,20 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## “_Keep passing the kindness and take care of yourselves_.”
-
-      ##
+    body: >-
+      <div><h2>“<em>Keep passing the kindness and take care of
+      yourselves</em>.”</h2><h2></h2></div>
     citation: BROOKE THOMAS
     _key: c9974448c1e2
   - order: 1
     useCheckmark: true
     body: >-
-      The Vermont parent raised over $7,000 for her school district’s janitors
-      after they worked for two days to sanitize local schools amid a COVID-19
-      scare. She said it was important to recognize the already
+      <div><p>The Vermont parent raised over $7,000 for her school district’s
+      janitors after they worked for two days to sanitize local schools amid a
+      COVID-19 scare. She said it was important to recognize the already
       under-appreciated workers who potentially contaminated themselves in order
       to help others. There are more than 2.4 million janitors and building
-      cleaners in America.
+      cleaners in America.</p><p></p></div>
     citation: VIEW SOURCES
     _key: adba8b97c492
 

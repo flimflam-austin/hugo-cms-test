@@ -22,20 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _‘Find the best things about you and the best things about life and
-      celebrate them.’_
+      <div><blockquote><em>‘Find the best things about you and the best things
+      about life and celebrate them.’</em></blockquote><p></p></div>
     citation: Michael J. Fox
     _key: card-1-780b722b-694a-40d6-9851-51e9c699ee82
   - order: 1
     useCheckmark: true
     body: >-
-      Fox and his wife, Tracy Pollan, sat down with PEOPLE to discuss their
-      30-year marriage. On the secret to their success, Pollan said ‘Just give
-      each other the benefit of the doubt. He assumes I’m doing the best I can.’
-      In 1991, Fox was diagnosed with Parkinson’s disease.
-
-
-      [view sources](https://smarthernews.com/18-08-16-qtd-michael-j-fox/)
+      <div><p>Fox and his wife, Tracy Pollan, sat down with PEOPLE to discuss
+      their 30-year marriage. On the secret to their success, Pollan said ‘Just
+      give each other the benefit of the doubt. He assumes I’m doing the best I
+      can.’ In 1991, Fox was diagnosed with Parkinson’s disease.</p><p><a
+      href="https://smarthernews.com/18-08-16-qtd-michael-j-fox/">view
+      sources</a></p></div>
     _key: card-10-232b92a3-e7ea-4afa-8f71-910d83b45592
 
 ---

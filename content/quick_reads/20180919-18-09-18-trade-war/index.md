@@ -22,68 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Trade Faceoff Heats Up
-
-
-      Handbags, fish sticks, blow torches and copper – just a few items on the
-      list of Chinese goods getting hit with a new tariff or tax.
-
-
-      The White House says**Americans won’t feel the pinch**; others
-      say**Christmas shopping just got more expensive**.
-
-
-      What To Know
+      <div><h2>Trade Faceoff Heats Up</h2><p>Handbags, fish sticks, blow torches
+      and copper – just a few items on the list of Chinese goods getting hit
+      with a new tariff or tax.</p><p>The White House says <strong>Americans
+      won’t feel the pinch</strong>; others say <strong>Christmas shopping just
+      got more expensive</strong>.</p><p>What To Know</p></div>
     _key: card-1-cfbd85b4-1044-41dc-a761-9d998ff8aac8
   - order: 1
     useCheckmark: false
     body: >-
-      > “Because it’s spread over thousands and thousands of products, nobody is
-      actually going to notice it at the end of the day.”  
-        
-        
-      Commerce Sec. Wilbur Ross responding to a question about how the new round
-      of 10% tariffs on $200B of Chinese imports this week will impact the
-      American consumer. If the White House doesn't see a change from China by
-      January the tariff jumps to 25%.
+      <blockquote>“Because it’s spread over thousands and thousands of products,
+      nobody is actually going to notice it at the end of the
+      day.”<br><br><br>Commerce Sec. Wilbur Ross responding to a question about
+      how the new round of 10% tariffs on $200B of Chinese imports this week
+      will impact the American consumer. If the White House doesn't see a change
+      from China by January the tariff jumps to 25%.</blockquote>
     _key: card-2-f59a0646-edbe-4d49-8405-b541c106cf44
   - order: 2
     useCheckmark: false
     body: >-
-      > "Every time this trade war escalates, the risk to U.S. consumers grows.
-      With these latest tariffs, many hardworking Americans will soon wonder why
-      their shopping bills are higher and their budgets feel stretched.”  
-        
-        
-      Matthew Shay, President and CEO of the National Retail Federation. Other
-      experts agree and say as Chinese imports cost more, these higher prices
-      will start hitting consumers around the holidays.
+      <blockquote>"Every time this trade war escalates, the risk to U.S.
+      consumers grows. With these latest tariffs, many hardworking Americans
+      will soon wonder why their shopping bills are higher and their budgets
+      feel stretched.”<br><br><br>Matthew Shay, President and CEO of the
+      National Retail Federation. Other experts agree and say as Chinese imports
+      cost more, these higher prices will start hitting consumers around the
+      holidays.</blockquote>
     _key: card-3-2cda719c-03c6-446b-a1ad-480063f0ad81
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why Now?
-
-
-      * **America is China’s #1 customer; China is a HUGE market for American
-      companies.**
-
-      * WH says China doesn’t trade fair: makes it difficult for U.S. biz to
-      enter their market, requires companies to share research, & uses cyber
-      espionage to steal our intellectual property.
-
-      * China is retaliating withA tariffs on U.S. goods worth $60 billion.
+      <div><h2>Why Now?</h2><ul><li><strong>America is China’s #1 customer;
+      China is a HUGE market for American companies.</strong></li><li>WH says
+      China doesn’t trade fair: makes it difficult for U.S. biz to enter their
+      market, requires companies to share research, &amp; uses cyber espionage
+      to steal our intellectual property.</li><li>China is retaliating withA
+      tariffs on U.S. goods worth $60 billion.</li></ul></div>
     _key: card-4-971cb359-2d5c-4034-836d-24122f50772c
   - order: 4
     useCheckmark: true
     body: >-
-      This is the second round of tariffs the White House has levied on China to
-      force a change in their trade policy. Currently, there are no talks
-      scheduled between the two countries. U.S. has the strength of low
-      unemployment & a record high stock market.
-
-
-      [view sources](https://smarthernews.com/18-09-18-trade-war/)
+      <div><p>This is the second round of tariffs the White House has levied on
+      China to force a change in their trade policy. Currently, there are no
+      talks scheduled between the two countries. U.S. has the strength of low
+      unemployment &amp; a record high stock market.</p><p><a
+      href="https://smarthernews.com/18-09-18-trade-war/">view
+      sources</a></p></div>
     _key: card-10-fa509954-bc39-4544-a892-320eb53e517f
 
 ---

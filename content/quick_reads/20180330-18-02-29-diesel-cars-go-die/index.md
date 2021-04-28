@@ -22,50 +22,33 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Where Diesel Cars Go To Die
-
-
-      Incredible images of hundreds of thousands of cars in America…awaiting
-      their fate & taking up space.
-
-
-      All fallout from the VW Diesel emissions scandal.
-
-
-      Sky News has the scoop.
-
-
-      Flip For Backstory
+      <div><h2>Where Diesel Cars Go To Die</h2><p>Incredible images of hundreds
+      of thousands of cars in America…awaiting their fate &amp; taking up
+      space.</p><p>All fallout from the VW Diesel emissions scandal.</p><p>Sky
+      News has the scoop.</p><p>Flip For Backstory</p></div>
     citation: Flip For Backstory
     _key: card-1-1008a5c3-b46e-4cf4-97eb-5ca780661f9f
   - order: 1
     useCheckmark: false
     body: >-
-      ## Backstory
-
-
-      * **2015:** Volkswagen admitted to cheating on U.S. emission tests.
-
-      * **Fallout:** VW had to pay about $15B in fees & has until June 2019 to
-      either buy back or fix 85% of its fleet, or face more fees.
-
-      * **37 “lots”** house vehicles to be destroyed or resold (if they meet
-      appropriate emissions standards).
-
-
-      [Sky News: The
-      Scoop](https://news.sky.com/story/vw-emissions-scandal-german-carmaker-storing-300000-diesels-in-graveyards-11308274)
+      <div><h2>Backstory</h2><ul><li><strong>2015:</strong> Volkswagen admitted
+      to cheating on U.S. emission tests.</li><li><strong>Fallout:</strong> VW
+      had to pay about $15B in fees &amp; has until June 2019 to either buy back
+      or fix 85% of its fleet, or face more fees.</li><li><strong>37
+      “lots”</strong> house vehicles to be destroyed or resold (if they meet
+      appropriate emissions standards).</li></ul><p><a
+      href="https://news.sky.com/story/vw-emissions-scandal-german-carmaker-storing-300000-diesels-in-graveyards-11308274">Sky
+      News: The Scoop</a></p></div>
     citation: 'Sky News: The Scoop'
     _key: card-2-9684ecaf-1f64-4dac-bfcc-4a2f801409ac
   - order: 2
     useCheckmark: true
     body: >-
-      One "parking lot" is a suburban football stadium. This is
+      <div><p>One "parking lot" is a suburban football stadium. This is
       Worth-It-To-See...especially since you could potentially buy one of these
-      cars someday!
-
-
-      [view sources](https://smarthernews.com/18-02-29-diesel-cars-go-die/)
+      cars someday!</p><p><a
+      href="https://smarthernews.com/18-02-29-diesel-cars-go-die/">view
+      sources</a></p></div>
     _key: card-10-ddd0f01f-c41b-4c13-a28f-87697e65c968
 
 ---

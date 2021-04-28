@@ -22,63 +22,47 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      SHOOTING SUSPECT  
-
-      CAPTURED ===========================
-
-
-      **4 people died**A in a shooting Sunday at a Waffle House in Tennessee.
-
-
-      The shooting is the**SECOND** mass public shooting of 2018 committed
-      by**an individual KNOWN to law enforcemen**t.
-
-
-      Flip Here For More
+      <div><p>SHOOTING SUSPECT<br>CAPTURED
+      ===========================</p><p><strong>4 people died</strong>A in a
+      shooting Sunday at a Waffle House in Tennessee.</p><p>The shooting is the
+      <strong>SECOND</strong> mass public shooting of 2018 committed by
+      <strong>an individual KNOWN to law enforcemen</strong>t.</p><p>Flip Here
+      For More</p></div>
     citation: Flip Here For More
     _key: card-1-b98b8a5f-1e0f-41be-bd0a-69163fef5789
   - order: 1
     useCheckmark: false
     body: >-
-      ## A “Mass Public Shooting” is defined as
-
-
-      > “a multiple homicide incident in which**four or more victims are
-      murdered with firearms,** within**one event**, in at least one or
-      more**public locations** …. “  
-        
-        
-        
-      Congressional Research Service's Report: "Mass Murder With A Firearm"
-
-
-      [Click Here: Report](https://fas.org/sgp/crs/misc/R44126.pdf)
+      <div><h2>A “Mass Public Shooting” is defined as</h2><blockquote>“a
+      multiple homicide incident in which <strong>four or more victims are
+      murdered with firearms,</strong> within <strong>one event</strong>, in at
+      least one or more <strong>public locations</strong> ….
+      “<br><br><br><br>Congressional Research Service's Report: "Mass Murder
+      With A Firearm"</blockquote><p><a
+      href="https://fas.org/sgp/crs/misc/R44126.pdf">Click Here:
+      Report</a></p></div>
     citation: 'Click Here: Report'
     _key: card-2-64c9d07a-06bf-42a0-8637-c258a1b345df
   - order: 2
     useCheckmark: false
     body: >-
-      ## Shooter’s Past & Lingering Legal Questions
-
-
-      **Will Shooter’s Dad Face Charges?** After the shooter’s 2017 attempt to
-      enter the White House, police revoked his firearms license, took his guns
-      and gave them to his dad; his dad gave guns back to his son.  
-
-      **Mental Illness?A** In 2017, shooter told police people were trying to
-      hack his phone.A In 2016, he told police Taylor Swift was stalking him.
+      <div><h2>Shooter’s Past &amp; Lingering Legal
+      Questions</h2><p><strong>Will Shooter’s Dad Face Charges?</strong> After
+      the shooter’s 2017 attempt to enter the White House, police revoked his
+      firearms license, took his guns and gave them to his dad; his dad gave
+      guns back to his son.<br><strong>Mental Illness?A</strong> In 2017,
+      shooter told police people were trying to hack his phone.A In 2016, he
+      told police Taylor Swift was stalking him.</p></div>
     _key: card-3-4d5930fb-6540-4761-a0ea-d386bc0f4dfd
   - order: 3
     useCheckmark: true
     body: >-
-      James Shaw Jr., the 29-year-old man who wrestled the gun away from the
-      shooter, might not consider himself a hero, but the state of Tennessee
+      <div><p>James Shaw Jr., the 29-year-old man who wrestled the gun away from
+      the shooter, might not consider himself a hero, but the state of Tennessee
       does! The state assembly officially recognized his heroism in a joint
-      resolution.
-
-
-      [view
-      sources](https://smarthernews.com/18-03-24-waffle-house-shooting-update/)
+      resolution.</p><p><a
+      href="https://smarthernews.com/18-03-24-waffle-house-shooting-update/">view
+      sources</a></p></div>
     _key: card-10-8dd247f7-26b6-4fcd-bb67-7194b9f8b814
 
 ---

@@ -18,84 +18,59 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      The NOT so  
-
-      Dog-Friendly skies ===============================
-
-
-      United Airlines had TWO major dog-related disasters this week.
-
-
-      One dog died & one dog got “lost”.
-
-
-      The incidents turned into a public relations nightmare for the airline &
-      produced policy changes.
-
-
-      FLIP HERE FOR MORE
+      <div><p>The NOT so<br>Dog-Friendly skies
+      ===============================</p><p>United Airlines had TWO major
+      dog-related disasters this week.</p><p>One dog died &amp; one dog got
+      “lost”.</p><p>The incidents turned into a public relations nightmare for
+      the airline &amp; produced policy changes.</p><p>FLIP HERE FOR
+      MORE</p></div>
     citation: FLIP HERE FOR MORE
     _key: card-1-ce00b027-0013-41a3-be16-114a9662ab15
   - order: 1
     useCheckmark: false
     body: >-
-      ## Monday: KOKITO
-
-
-      During a flight from Houston to New York, a flight attendant ordered the
-      owner of a french bulldog named Kokito to put the puppy in its carrier in
-      the overhead compartment.
-
-
-      The family said they heard Kokito barking for two hours, but when the
-      plane landed, Kokito was dead.
+      <div><h2>Monday: KOKITO</h2><p>During a flight from Houston to New York, a
+      flight attendant ordered the owner of a french bulldog named Kokito to put
+      the puppy in its carrier in the overhead compartment.</p><p>The family
+      said they heard Kokito barking for two hours, but when the plane landed,
+      Kokito was dead.</p></div>
     _key: card-2-b7b5859f-c3a4-40e0-a6d1-e321b4dade0f
   - order: 2
     useCheckmark: false
     body: >-
-      ## United’s Response:
-
-
-      “We have learned that the customer did tell the flight attendant that
-      there was a dog in the carrier. However, our flight attendant did not hear
-      or understand her, and did not knowingly place the dog in the overhead
-      bin. As we stated, we take full responsibility and are deeply sorry for
-      this tragic accident.”
+      <div><h2>United’s Response:</h2><p>“We have learned that the customer did
+      tell the flight attendant that there was a dog in the carrier. However,
+      our flight attendant did not hear or understand her, and did not knowingly
+      place the dog in the overhead bin. As we stated, we take full
+      responsibility and are deeply sorry for this tragic accident.”</p></div>
     _key: card-3-eef61ee1-f05a-4ac3-a86d-94df44b262f5
   - order: 3
     useCheckmark: false
     body: >-
-      ## This was NOT the first time a pet died on a United Airlines flight
-
-
-      According to the Department of Transportation, 24 animals died on U.S.
-      carriers in 2017 –**75% of those deaths took place on a United Airlines
-      flight**.
+      <div><h2>This was NOT the first time a pet died on a United Airlines
+      flight</h2><p>According to the Department of Transportation, 24 animals
+      died on U.S. carriers in 2017 – <strong>75% of those deaths took place on
+      a United Airlines flight</strong>.</p></div>
     _key: card-4-102baba9-e8f6-4526-9215-7b25f6d00366
   - order: 4
     useCheckmark: false
     body: >-
-      ## Tuesday: IRGO
-
-
-      * When a Missouri woman went to retrieve her 10-year old German Shepard
-      named Irgo she was told her “beautiful Great Dane” was waiting; Irgo was
-      sent to Japan.
-
-      * United apologized and explained that an error occurred during
-      connections sending two pets to the wrong destinations.A United is flying
-      Irgo home first class with a human escort in the main cabin.
+      <div><h2>Tuesday: IRGO</h2><ul><li>When a Missouri woman went to retrieve
+      her 10-year old German Shepard named Irgo she was told her “beautiful
+      Great Dane” was waiting; Irgo was sent to Japan.</li><li>United apologized
+      and explained that an error occurred during connections sending two pets
+      to the wrong destinations.A United is flying Irgo home first class with a
+      human escort in the main cabin.</li></ul></div>
     _key: card-5-3a871551-71be-4458-8d40-66010e6c7725
   - order: 5
     useCheckmark: true
     body: >-
-      United announced it will implement a new policy: "To prevent this from
-      happening again, by April we will issue bright colored bag tags to
+      <div><p>United announced it will implement a new policy: "To prevent this
+      from happening again, by April we will issue bright colored bag tags to
       customers traveling with in-cabin pets. This visual tag will further help
-      our flight attendants identify pets in-cabin."
-
-
-      [view sources](https://smarthernews.com/18-03-15-united-airlines/)
+      our flight attendants identify pets in-cabin."</p><p><a
+      href="https://smarthernews.com/18-03-15-united-airlines/">view
+      sources</a></p></div>
     _key: card-10-acd58638-d48c-45c1-ab40-a8c2e1335ba7
 
 ---

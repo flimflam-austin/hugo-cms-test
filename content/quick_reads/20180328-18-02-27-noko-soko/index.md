@@ -21,75 +21,49 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # Dueling Headlines
-
-      U.S. forges significant trade deal with South Korea.
-
-      North Korean leader makes milestone trip to China.
-
-      Timing Is Everything.
-
-      Why This Matters
+    body: >-
+      <div><h1>Dueling Headlines</h1><p>U.S. forges significant trade deal with
+      South Korea.</p><p>North Korean leader makes milestone trip to
+      China.</p><p>Timing Is Everything.</p><p>Why This Matters</p></div>
     citation: Why This Matters
     _key: card-1-a0112c61-ef8e-49e3-b7db-7f8c5dd7e49b
   - order: 1
     useCheckmark: false
     body: >-
-      Kim Jong Un:  
-
-      Why Travel To China Now?
-
-
-      * China remains North Korea’s ONE major ally. Arguably, without China,
-      North Koreans would starve and freeze.
-
-      * Kim has meetings planned with SoKo President Moon Jae-in & President
-      Trump in coming weeks.
-
-      * Show of unity as reports surface of a major trade pact between South
-      Korea, and it’s ally, the U.S.
+      <div><p>Kim Jong Un:<br>Why Travel To China Now?</p><ul><li>China remains
+      North Korea’s ONE major ally. Arguably, without China, North Koreans would
+      starve and freeze.</li><li>Kim has meetings planned with SoKo President
+      Moon Jae-in &amp; President Trump in coming weeks.</li><li>Show of unity
+      as reports surface of a major trade pact between South Korea, and it’s
+      ally, the U.S.</li></ul></div>
     _key: card-2-d1c282ce-2b69-4a40-93ef-af7f2fed393e
   - order: 2
     useCheckmark: false
     body: >-
-      ## U.S. & SoKo Trade Deal
-
-
-      * SoKo to allow 25,000 more U.S. car imports – a 50% increase.
-
-      * U.S. to exempt South Korea from certain proposed steel tariffs, but will
-      *still* restrict steel imports.
-
-      * **Bottom Line: Both countries walk away with a ‘win.’**
-
-      * P.S. Show of force not just economic. Joint annual military drills begin
-      on Easter Sunday, April 1st.
+      <div><h2>U.S. &amp; SoKo Trade Deal</h2><ul><li>SoKo to allow 25,000 more
+      U.S. car imports – a 50% increase.</li><li>U.S. to exempt South Korea from
+      certain proposed steel tariffs, but will *still* restrict steel
+      imports.</li><li><strong>Bottom Line: Both countries walk away with a
+      ‘win.’</strong></li><li>P.S. Show of force not just economic. Joint annual
+      military drills begin on Easter Sunday, April 1st.</li></ul></div>
     _key: card-3-c5136d5f-818b-445f-be83-0bc20eba0e01
   - order: 3
     useCheckmark: false
     body: >-
-      ## What’s At Stake:
-
-
-      * North Korea = Nuclear power that threatens U.S.
-
-      * U.S. uses sanctions to pressure NoKo to give up nuclear weapons program.
-
-      * NoKo signaled to SoKo it’s open to talks & denuclearization.
-
-      * SoKo announced meeting between President Trump & Kim Jong Un by end of
-      May.
+      <div><h2>What’s At Stake:</h2><ul><li>North Korea = Nuclear power that
+      threatens U.S.</li><li>U.S. uses sanctions to pressure NoKo to give up
+      nuclear weapons program.</li><li>NoKo signaled to SoKo it’s open to talks
+      &amp; denuclearization.</li><li>SoKo announced meeting between President
+      Trump &amp; Kim Jong Un by end of May.</li></ul></div>
     _key: card-4-2cb4295f-8180-45cb-9653-d900157757d4
   - order: 4
     useCheckmark: true
     body: >-
-      Reminder: Approx 25,000 U.S. troops stationed in South Korea. Interesting
-      Fact: This maybe Kim Jong Un’s first foreign trip after taking power in
-      2011, but he actually attended school in Switzerland.
-
-
-      [view sources](https://smarthernews.com/18-02-27-noko-soko/)
+      <div><p>Reminder: Approx 25,000 U.S. troops stationed in South Korea.
+      Interesting Fact: This maybe Kim Jong Un’s first foreign trip after taking
+      power in 2011, but he actually attended school in Switzerland.</p><p><a
+      href="https://smarthernews.com/18-02-27-noko-soko/">view
+      sources</a></p></div>
     _key: card-10-e6c0313d-2c88-4345-bdea-8311dbca814c
 
 ---

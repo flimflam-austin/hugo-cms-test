@@ -22,83 +22,60 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Common Thread
-
-
-      What’s the one thing found in**every** allegation against Supreme Court
-      nominee Brett Kavanaugh that**everyone** agrees upon?
-
-
-      **Underage Drinking**
-
-
-      WHAT TO KNOW
+      <div><h1>Common Thread</h1><p>What’s the one thing found in
+      <strong>every</strong> allegation against Supreme Court nominee Brett
+      Kavanaugh that <strong>everyone</strong> agrees
+      upon?</p><p><strong>Underage Drinking</strong></p><p>WHAT TO
+      KNOW</p></div>
     _key: card-1-f7adf8cb-0520-40a7-935f-50f07321c860
   - order: 1
     useCheckmark: false
     body: >-
-      ## 3 ALLEGATIONS
-
-
-      * Underage drinking at a high school gathering. Allegation = Sexual
-      Assault
-
-      * Underage drinking at a college dorm. Allegation = Judge Kavanaugh
-      “exposed himself” & forced touching.
-
-      * Underage drinking at parties. Allegations = overall “abusive and
-      physically aggressive behavior toward girls.”
+      <div><h2>3 ALLEGATIONS</h2><ul><li>Underage drinking at a high school
+      gathering. Allegation = Sexual Assault</li><li>Underage drinking at a
+      college dorm. Allegation = Judge Kavanaugh “exposed himself” &amp; forced
+      touching.</li><li>Underage drinking at parties. Allegations = overall
+      “abusive and physically aggressive behavior toward girls.”</li></ul></div>
     _key: card-2-e65911f9-56dd-4f61-b9df-e8f182413a67
   - order: 2
     useCheckmark: false
     body: >-
-      > “I drank beer with my friends. Almost everyone did. Sometimes I had too
-      many beers. Sometimes others did. I liked beer. I still like beer. But I
-      did not drink beer to the point of blacking out and I never sexually
-      assaulted anyone.”  
-        
-      Judge Brett Kavanaugh testifying before the Senate Judiciary Cmte. As he
-      points out in his testimony, the drinking age in Maryland during his youth
-      was 18; In current context "underage drinking" refers to anyone younger
-      than 21.
+      <blockquote>“I drank beer with my friends. Almost everyone did. Sometimes
+      I had too many beers. Sometimes others did. I liked beer. I still like
+      beer. But I did not drink beer to the point of blacking out and I never
+      sexually assaulted anyone.”<br><br>Judge Brett Kavanaugh testifying before
+      the Senate Judiciary Cmte. As he points out in his testimony, the drinking
+      age in Maryland during his youth was 18; In current context "underage
+      drinking" refers to anyone younger than 21.</blockquote>
     _key: card-3-b3a134e5-d0fd-4ca9-99f7-693e77591cb5
   - order: 3
     useCheckmark: false
     body: >-
-      ## Underage Drinking: U.S.A.
-
-
-      > 1 out of 3 high schoolers admits to drinking in the last 30 days.  
-        
-      By age 18, more than half of high schoolers have had one drink.  
-        
-      “**Although drinking by persons under the age of 21 is illegal, people
-      aged 12 to 20 years drink 11% of all alcohol consumed in the United
-      States.**” (CDC)
+      <div><h2>Underage Drinking: U.S.A.</h2><blockquote>1 out of 3 high
+      schoolers admits to drinking in the last 30 days.<br><br>By age 18, more
+      than half of high schoolers have had one drink.<br><br>“<strong>Although
+      drinking by persons under the age of 21 is illegal, people aged 12 to 20
+      years drink 11% of all alcohol consumed in the United States.</strong>”
+      (CDC)</blockquote></div>
     _key: card-4-28276cfb-5e74-4cf6-845c-e123edda64ec
   - order: 4
     useCheckmark: false
     body: >-
-      ## Something To Consider
-
-
-      > “Underage youth who drink are more likely to carry out or be the victim
-      of a physical or sexual assault after drinking than others their age who
-      do not drink.”  
-        
-        
-      National Institute on Alcohol Abuse and Alcoholism that states other risks
-      include drinking & driving accidents, suicides and drowning.
+      <div><h2>Something To Consider</h2><blockquote>“Underage youth who drink
+      are more likely to carry out or be the victim of a physical or sexual
+      assault after drinking than others their age who do not
+      drink.”<br><br><br>National Institute on Alcohol Abuse and Alcoholism that
+      states other risks include drinking &amp; driving accidents, suicides and
+      drowning.</blockquote></div>
     _key: card-5-9c2e332b-8b70-410e-a8c5-6080066eaa61
   - order: 5
     useCheckmark: true
     body: >-
-      The most recent data available showed a slight decline in underage
+      <div><p>The most recent data available showed a slight decline in underage
       drinking; that research is 3 years old. In the meantime, drinking among
-      adults, especially women, has increased.
-
-
-      [view sources](https://smarthernews.com/underage-drinking/)
+      adults, especially women, has increased.</p><p><a
+      href="https://smarthernews.com/underage-drinking/">view
+      sources</a></p></div>
     _key: card-10-6bffae9a-6e85-48b0-bc37-ef450973aabb
 
 ---

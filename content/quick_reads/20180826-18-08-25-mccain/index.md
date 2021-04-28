@@ -22,22 +22,22 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _"I was finding that prayer helped…When the pressure was on, you seemed
-      to go one way or the other. Either it was easier for them to break you the
-      next time, or it was harder. In other words, if you are going to make it,
-      you get tougher as time goes by."_
+      <div><blockquote><em>"I was finding that prayer helped…When the pressure
+      was on, you seemed to go one way or the other. Either it was easier for
+      them to break you the next time, or it was harder. In other words, if you
+      are going to make it, you get tougher as time goes
+      by."</em></blockquote><p></p></div>
     citation: John McCain
     _key: card-1-de51d879-4e89-4f1b-84f2-356d1008dbb2
   - order: 1
     useCheckmark: true
     body: >-
-      The former P.O.W. & 6-term AZ Senator (R) has stopped treatment for an
-      aggressive brain cancer. In his 30+ years in Congress, he earned a
-      reputation as a political maverick voting his beliefs over politics. The
-      former presidential nominee will turn 82 next week.
-
-
-      [view sources](https://smarthernews.com/18-08-25-mccain/)
+      <div><p>The former P.O.W. &amp; 6-term AZ Senator (R) has stopped
+      treatment for an aggressive brain cancer. In his 30+ years in Congress, he
+      earned a reputation as a political maverick voting his beliefs over
+      politics. The former presidential nominee will turn 82 next week.</p><p><a
+      href="https://smarthernews.com/18-08-25-mccain/">view
+      sources</a></p></div>
     _key: card-10-ab3f0192-6fbd-49c3-b3a9-a06ea66beaee
 
 ---

@@ -22,63 +22,42 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # TEAM USA
-
-
-      244-member team is the**largest** winter Olympic team**in history** (from
-      any nation) and includes:
-
-
-      * 109 women & 135 men
-
-      * athletes from 31 states
-
-      * 20 fathers & 1 mother
-
-      * 7 sets of siblings
-
-      * 1 married couple
+      <div><h1>TEAM USA</h1><p>244-member team is the <strong>largest</strong>
+      winter Olympic team <strong>in history</strong> (from any nation) and
+      includes:</p><ul><li>109 women &amp; 135 men</li><li>athletes from 31
+      states</li><li>20 fathers &amp; 1 mother</li><li>7 sets of
+      siblings</li><li>1 married couple</li></ul></div>
     _key: card-1-4799ca51-69b4-43b6-b46d-3bfb58110716
   - order: 1
     useCheckmark: false
-    body: |-
-      Name To Know:  
-      Kikkan Randall
-
-      ## Cross Country Skiing
-
-      * She’s the**only** mother on Team USA; Infant son.
-      * Lives & trains in Anchorage, Alaska.
-      * 4x Olympian; Never earned an Olympic Medal.
+    body: >-
+      <div><p>Name To Know:<br>Kikkan Randall </p><h2>Cross Country
+      Skiing</h2><ul><li>She’s the <strong>only</strong> mother on Team USA;
+      Infant son.</li><li>Lives &amp; trains in Anchorage, Alaska.</li><li>4x
+      Olympian; Never earned an Olympic Medal.</li></ul></div>
     _key: card-2-9685ea66-1f11-4269-a713-a50dc2da3581
   - order: 2
     useCheckmark: false
     body: >-
-      ## WOMEN OLYMPIC FIRSTS:
-
-
-      **1900:** First time women competed in Olympic games.
-
-
-      **2012:** First time every participating country included a women athlete
-      & the first time women participated in every Olympic game.
+      <div><h2>WOMEN OLYMPIC FIRSTS:</h2><p><strong>1900:</strong> First time
+      women competed in Olympic games.</p><p><strong>2012:</strong> First time
+      every participating country included a women athlete &amp; the first time
+      women participated in every Olympic game.</p></div>
     _key: card-3-9fba4f89-3dd9-4892-a1d5-b86df951e01c
   - order: 3
     useCheckmark: false
     body: >-
-      ## TEAM USA WOMEN “FIRSTS”:
-
-
-      **1900:** Golfer Margaret Abbott is first American woman to win a gold
-      medal.
-
-
-      **2014:**A For the first time, American women outpace the men earning more
-      than half of the team’s medals (58 of 103).
+      <div><h2>TEAM USA WOMEN “FIRSTS”:</h2><p><strong>1900:</strong> Golfer
+      Margaret Abbott is first American woman to win a gold
+      medal.</p><p><strong>2014:</strong>A For the first time, American women
+      outpace the men earning more than half of the team’s medals (58 of
+      103).</p></div>
     _key: card-4-ce04d255-fe42-46e3-aa6d-dd9d70e162a8
   - order: 4
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-02-09-olympics/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-02-09-olympics/">view
+      sources</a></p>
     _key: card-10-5f21c6f5-13c4-42e0-ac9e-e66a081fdc1a
 
 ---

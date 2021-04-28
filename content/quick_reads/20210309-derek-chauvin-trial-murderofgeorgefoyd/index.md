@@ -21,107 +21,76 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # The Case In Court
-
-
-      Less than a year since the death of George Floyd, the trial begins for a
-      former Minneapolis officer charged with his murder.
-
-
-      What To Know
+      <div><h1>The Case In Court</h1><p>Less than a year since the death of
+      George Floyd, the trial begins for a former Minneapolis officer charged
+      with his murder.</p><p>What To Know</p></div>
     _key: 48571b79f344
   - order: 1
     useCheckmark: false
     body: >-
-      ## May 25, 2020
-
-
-      * A Minneapolis convenience store worker calls police, accusing George
-      Floyd, a 46-year-old black man, of using a counterfeit $20.
-
-      * Police respond & arrest Floyd. Police say Floyd “physically resisted
-      officers.”
-
-      * Bystander video shows Floyd on the ground, face down & handcuffed, with
-      officer Derek Chauvin holding his knee on Floyd’s neck.
+      <div><h2>May 25, 2020</h2><ul><li>A Minneapolis convenience store worker
+      calls police, accusing George Floyd, a 46-year-old black man, of using a
+      counterfeit $20.</li><li>Police respond &amp; arrest Floyd. Police say
+      Floyd “physically resisted officers.”</li><li>Bystander video shows Floyd
+      on the ground, face down &amp; handcuffed, with officer Derek Chauvin
+      holding his knee on Floyd’s neck.</li></ul></div>
     _key: 4f65faa5eeac
   - order: 2
     useCheckmark: false
     body: >-
-      > “Please, please, please, I can’t breathe. Please, man.”
-
-
-      George Floyd. "8 minutes and 46 seconds" became a rallying cry for
-      protestors, referencing the time Chauvin held his knee on George Floyd's
-      neck. Notably, court documents have listed a range of times from 7 minutes
-      46 secs to *more* than 9 minutes for this interaction. The timing will be
-      relevant to both sides. Video appears to show Floyd fall unconscious.
-      Shortly afterwards, he is loaded into an ambulance and later declared dead
-      at a local hospital.
+      <div><blockquote>“Please, please, please, I can’t breathe. Please,
+      man.”</blockquote><p>George Floyd. "8 minutes and 46 seconds" became a
+      rallying cry for protestors, referencing the time Chauvin held his knee on
+      George Floyd's neck. Notably, court documents have listed a range of times
+      from 7 minutes 46 secs to *more* than 9 minutes for this interaction. The
+      timing will be relevant to both sides. Video appears to show Floyd fall
+      unconscious. Shortly afterwards, he is loaded into an ambulance and later
+      declared dead at a local hospital.</p></div>
     _key: 5ce1941c5d01
   - order: 3
     useCheckmark: false
     body: >-
-      ## IMPORTANT CONTEXT
-
-
-      Much of what we know about the events of May 25, 2020 comes from police
-      and bystander videos.
-
-
-      However, NONE of the videos released from various perspectives show the
-      entire length of the encounter.
-
-
-      We expect to learn a lot more about the details of the incident during the
-      course of the upcoming trials.
+      <div><h2>IMPORTANT CONTEXT</h2><p>Much of what we know about the events of
+      May 25, 2020 comes from police and bystander videos.</p><p>However, NONE
+      of the videos released from various perspectives show the entire length of
+      the encounter.</p><p>We expect to learn a lot more about the details of
+      the incident during the course of the upcoming trials.</p></div>
     _key: eafb204a495d
   - order: 4
     useCheckmark: false
-    body: "## AUTOPSIES\n\n* Medical examiner ruled Floyd’s death a homicide due to “_cardiopulmonary_\__arrest while being restrained by law enforcement officer(s)._” Report lists “significant conditions” as hypertension and recent drug use but does *not* list these conditions as cause of death.\n* An autopsy ordered by Floyd’s family found his death was “_homicide caused by asphyxia due to neck and back compression that led to a lack of blood flow to the brain.”_"
+    body: "<div><h2>AUTOPSIES</h2><ul><li>Medical examiner ruled Floyd’s death a homicide due to “<em>cardiopulmonary</em>\_<em>arrest while being restrained by law enforcement officer(s).</em>” Report lists “significant conditions” as hypertension and recent drug use but does *not* list these conditions as cause of death.</li><li>An autopsy ordered by Floyd’s family found his death was “<em>homicide caused by asphyxia due to neck and back compression that led to a lack of blood flow to the brain.”</em></li></ul></div>"
     _key: 08787aa1105c
   - order: 5
     useCheckmark: false
     body: >-
-      ## LEGAL
-
-
-      * Following Floyd’s death, Chauvin & three officers present at the scene
-      were fired. All four were criminally charged.
-
-      * Chauvin is charged with 2nd-degree murder and 2nd-degree manslaughter.
-
-      * The three other officers are charged with aiding and abetting those
-      crimes.
-
-      * Last week, an appeals court ordered the judge to consider reinstating a
-      3rd-degree murder charge against Chauvin; this is leading to some trial
-      delays.
+      <div><h2>LEGAL</h2><ul><li>Following Floyd’s death, Chauvin &amp; three
+      officers present at the scene were fired. All four were criminally
+      charged.</li><li>Chauvin is charged with 2nd-degree murder and 2nd-degree
+      manslaughter.</li><li>The three other officers are charged with aiding and
+      abetting those crimes.</li><li>Last week, an appeals court ordered the
+      judge to consider reinstating a 3rd-degree murder charge against Chauvin;
+      this is leading to some trial delays.</li></ul></div>
     _key: d04c39884e05
   - order: 6
     useCheckmark: false
     body: >-
-      ## BIG PICTURE
-
-
-      * **This chapter of the story** will contrast the court of public of
-      opinion vs. the legal requirements in the court of law.
-
-      * **Both sides** will likely focus on whether Chauvin acted reasonably,
-      used**excessive force**, and the exact cause and timing of Floyd’s death.
-
-      * **Beyond The Trial**: Case described as a_“defining moment in the
-      history of a nation that is grappling with a racial
-      reckoning._”_(Washington Post)_
+      <div><h2>BIG PICTURE</h2><ul><li><strong>This chapter of the
+      story</strong> will contrast the court of public of opinion vs. the legal
+      requirements in the court of law.</li><li><strong>Both sides</strong> will
+      likely focus on whether Chauvin acted reasonably, used <strong>excessive
+      force</strong>, and the exact cause and timing of Floyd’s
+      death.</li><li><strong>Beyond The Trial</strong>: Case described as a
+      <em>“defining moment in the history of a nation that is grappling with a
+      racial reckoning.</em>” <em>(Washington Post)</em></li></ul></div>
     _key: 5b98ab37118d
   - order: 7
     useCheckmark: true
     body: >-
-      The trial will begin with jury selection, which is expected to go on for
-      about three weeks. Next, the prosecution is slated to begin their
+      <p>The trial will begin with jury selection, which is expected to go on
+      for about three weeks. Next, the prosecution is slated to begin their
       arguments; the defense will respond by presenting their own arguments. The
       joint trial for the three other former MN officers charged is scheduled
-      for this summer.
+      for this summer.</p>
     citation: VIEW SOURCES
     _key: a5ab7a6f3eae
 

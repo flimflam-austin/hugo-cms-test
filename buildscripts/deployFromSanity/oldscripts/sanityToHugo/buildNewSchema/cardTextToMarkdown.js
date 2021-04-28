@@ -3,6 +3,16 @@ const inspect = require('./../inspect')
 
 const toMarkdown = require('@sanity/block-content-to-markdown');
 
+const blocksToHtml = require('@sanity/block-content-to-html')
+const client = require('./../clientMaker')
+
+const TurndownService = require('turndown')
+
+const turndownService = new TurndownService()
+
+
+
+
 const getLastChar = str => str[str.length - 1]
 
 const scrubTrailingSpaces = text => {
@@ -12,9 +22,9 @@ const scrubTrailingSpaces = text => {
 
     const lastChar = getLastChar(text)
 
-    if (lastChar === ' ') {
+    /* if (lastChar === ' ') {
         return scrubTrailingSpaces(text.slice(0, -1))
-    }
+    } */
 
     return text
 }
@@ -51,7 +61,11 @@ const cardTextToMarkdown = portableText => {
 
     try {
         const groomedPortableText = groomPortableText(portableText)
-        const result = toMarkdown(groomedPortableText);
+        //const result = toMarkdown(groomedPortableText);
+
+        const result = blocksToHtml({ blocks: portableText })
+
+        //const md = turndownService.turndown(result)
 
         return ff.isValue(result) ? result : ' ';
     } catch (err) {

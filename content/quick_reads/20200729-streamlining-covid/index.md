@@ -22,84 +22,58 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Do You Have COVID?
-
-
-      Researchers want to streamline categorizing your symptoms and try to
-      predict your outcome.
-
-
-      New study reveals their current findings.
+      <div><h2>Do You Have COVID?</h2><p>Researchers want to streamline
+      categorizing your symptoms and try to predict your outcome.</p><p>New
+      study reveals their current findings.</p></div>
     _key: 024793d801d3
   - order: 1
     useCheckmark: false
     body: >-
-      ## Backstory
-
-
-      * The list of symptoms for COVID-19 has evolved, including common
-      ailments.
-
-      * Researchers at King’s College used a database of 4M people from a
-      “symptom tracker app” to identify symptoms, and grouped symptoms found in
-      a subset of 1600 people.
-
-      * They identified 6 separate categories of COVID-19 symptoms, and then
-      attempted to associate these categories to potential severity of disease.
+      <div><h2>Backstory</h2><ul><li>The list of symptoms for COVID-19 has
+      evolved, including common ailments.</li><li>Researchers at King’s College
+      used a database of 4M people from a “symptom tracker app” to identify
+      symptoms, and grouped symptoms found in a subset of 1600
+      people.</li><li>They identified 6 separate categories of COVID-19
+      symptoms, and then attempted to associate these categories to potential
+      severity of disease.</li></ul></div>
     _key: d12d26b75fb8
   - order: 2
     useCheckmark: false
-    body: |-
-      ## The 6 Categories
-
-      1. Flu-like with no fever
-
-      2. Flu-like with fever
-
-      3. Gastrointestinal
-
-      4. Severe level 1, fatigue
-
-      5. Severe level 2, confusion
-
-      6. Severe level 3, abdominal and respiratory
+    body: >-
+      <div><h2>The 6 Categories</h2><p>1. Flu-like with no fever</p><p>2.
+      Flu-like with fever</p><p>3. Gastrointestinal</p><p>4. Severe level 1,
+      fatigue</p><p>5. Severe level 2, confusion</p><p>6. Severe level 3,
+      abdominal and respiratory</p></div>
     _key: 7a304f326ef7
   - order: 3
     useCheckmark: false
     body: >-
-      ## Potential “Early Warning”?
-
-
-      * First three categories had lower rates of severe cases, hospitalization.
-
-      * Researchers used symptoms experienced on Day 5 of infection &
-      factored-in other variables (e.g. age, weight) to assign patients a
-      category.
-
-      * Since hospitalization often occurs more than a week into a COVID-19
-      infection, researchers want to create a model to help predict a more
-      serious case and enable doctors to intervene early.
+      <div><h2>Potential “Early Warning”?</h2><ul><li>First three categories had
+      lower rates of severe cases, hospitalization.</li><li>Researchers used
+      symptoms experienced on Day 5 of infection &amp; factored-in other
+      variables (e.g. age, weight) to assign patients a category.</li><li>Since
+      hospitalization often occurs more than a week into a COVID-19 infection,
+      researchers want to create a model to help predict a more serious case and
+      enable doctors to intervene early.</li></ul></div>
     _key: 3a9f11f67605
   - order: 4
     useCheckmark: false
     body: >-
-      > “Certainly, we will have to see how this performs in the ‘real world.’
-      With widespread use, it should ‘learn’ and become progressively more
-      effective.”
-
-
-      UC Berkeley professor of infectious disease and vaccinology Dr. John
-      Swartzberg, who did not work on the study but says it could start helping
-      doctors with care plans.
+      <div><blockquote>“Certainly, we will have to see how this performs in the
+      ‘real world.’ With widespread use, it should ‘learn’ and become
+      progressively more effective.”</blockquote><p>UC Berkeley professor of
+      infectious disease and vaccinology Dr. John Swartzberg, who did not work
+      on the study but says it could start helping doctors with care
+      plans.</p></div>
     _key: b65eb5942017
   - order: 5
     useCheckmark: true
     body: >-
-      For a complete list of category symptoms, click on our source page. The
-      study is not "peer reviewed" - an important step that helps validate
-      medical research. In the midst of the pandemic, many studies released to
-      the public have not been peer reviewed as scientists have scrambled to
-      understand this new illness.
+      <div><p>For a complete list of category symptoms, click on our source
+      page. The study is not "peer reviewed" - an important step that helps
+      validate medical research. In the midst of the pandemic, many studies
+      released to the public have not been peer reviewed as scientists have
+      scrambled to understand this new illness.</p><p></p></div>
     citation: VIEW SOURCES
     _key: d92667b00e43
 

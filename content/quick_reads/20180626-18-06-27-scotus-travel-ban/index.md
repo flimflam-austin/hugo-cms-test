@@ -18,12 +18,11 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      Despite travel ban, 809 waivers have been granted to those in banned
-      countries. What does this mean for diplomatic talks with North Korea, a
-      banned nation? Read More.
-
-
-      [view sources](https://smarthernews.com/18-06-27-scotus-travel-ban/)
+      <div><p>Despite travel ban, 809 waivers have been granted to those in
+      banned countries. What does this mean for diplomatic talks with North
+      Korea, a banned nation? Read More.</p><p><a
+      href="https://smarthernews.com/18-06-27-scotus-travel-ban/">view
+      sources</a></p></div>
     _key: card-10-b530c418-7a76-46ef-9aa1-336b6a5e069a
 
 ---

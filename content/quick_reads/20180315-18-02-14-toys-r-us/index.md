@@ -21,92 +21,63 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      The End of An Era
-
-      ====================
-
-      ## Toys ‘R’ Us Is Closing
-
-      > ‘We’re putting a for sale sign on everything.’  
-        
-        
-        
-      David Brandon, CEO, quoted by Wall Street Journal, Mar 14, 2018
+    body: >-
+      <div><p>The End of An Era</p><p>====================</p><h2>Toys ‘R’ Us Is
+      Closing</h2><blockquote>‘We’re putting a for sale sign on
+      everything.’<br><br><br><br>David Brandon, CEO, quoted by Wall Street
+      Journal, Mar 14, 2018</blockquote></div>
     _key: card-1-6d9f71d2-b5ee-4f66-b080-076f6469c0c2
   - order: 1
     useCheckmark: false
     body: >-
-      ## What It Means:
-
-
-      * **33,000** U.S. workers to lose jobs.
-
-      * Potentially**700 stores closing** in America; including Babies ‘R’ Us.
-
-      * CNBC reports**200 U.S. stores may be spared** in a deal that would also
-      sell off its Canadian locations.
-
-      * During the holidays, Toys R Us employs over**100,000 workers**.
-
-
-      [Read CNBC's
-      report](https://www.cnbc.com/2018/03/14/toys-r-us-is-exploring-a-plan-that-could-keep-200-stores-open-even-after-liquidation.html)
+      <div><h2>What It Means:</h2><ul><li><strong>33,000</strong> U.S. workers
+      to lose jobs.</li><li>Potentially <strong>700 stores closing</strong> in
+      America; including Babies ‘R’ Us.</li><li>CNBC reports <strong>200 U.S.
+      stores may be spared</strong> in a deal that would also sell off its
+      Canadian locations.</li><li>During the holidays, Toys R Us employs over
+      <strong>100,000 workers</strong>.</li></ul><p><a
+      href="https://www.cnbc.com/2018/03/14/toys-r-us-is-exploring-a-plan-that-could-keep-200-stores-open-even-after-liquidation.html">Read
+      CNBC's report</a></p></div>
     citation: Read CNBC's report
     _key: card-2-5a1eee24-1fec-4f45-a5bb-7d4151b442a5
   - order: 2
     useCheckmark: false
     body: >-
-      ‘The last six months have been pure hell.”
-
-
-      * CEO as quoted by WSJ in a conf. call to employees Wednesday.
-
-      * Toys ‘R’ Us filed for bankruptcy protection in Sept. 2017. The goal was
-      to emerge with fewer stores & less debt so it could better fight rivals.
-
-      * Instead, THIS is how the CEO describes the company’s fight for survival.
+      <div><p>‘The last six months have been pure hell.”</p><ul><li>CEO as
+      quoted by WSJ in a conf. call to employees Wednesday.</li><li>Toys ‘R’ Us
+      filed for bankruptcy protection in Sept. 2017. The goal was to emerge with
+      fewer stores &amp; less debt so it could better fight
+      rivals.</li><li>Instead, THIS is how the CEO describes the company’s fight
+      for survival.</li></ul></div>
     _key: card-3-a11f0b75-acd8-457a-9975-93e0fb5c4099
   - order: 3
     useCheckmark: false
     body: >-
-      # Why This Matters
-
-
-      ## U.S. Toy Industry = $27B
-
-
-      * Toys ‘R’ Us =**2nd largest** U.S. toy retailer, represents**15% of
-      sales**.
-
-      * But, you guessed it,**Amazon is #1** as more shop online.
-
-      * Lesson in debt: Toys ‘R’ Us had billions in debt – couldn’t invest in
-      changes to help it modernize.
-
-      * Major fallout for Mattel, Hasbro & smaller toy makers.
+      <div><h1>Why This Matters</h1><h2>U.S. Toy Industry =
+      $27B</h2><ul><li>Toys ‘R’ Us = <strong>2nd largest</strong> U.S. toy
+      retailer, represents <strong>15% of sales</strong>.</li><li>But, you
+      guessed it, <strong>Amazon is #1</strong> as more shop
+      online.</li><li>Lesson in debt: Toys ‘R’ Us had billions in debt –
+      couldn’t invest in changes to help it modernize.</li><li>Major fallout for
+      Mattel, Hasbro &amp; smaller toy makers.</li></ul></div>
     _key: card-4-406162db-1ed8-4047-a45a-4b3bc587badf
   - order: 4
     useCheckmark: false
     body: >-
-      ## The American Dream:
-
-
-      * Toys ‘R’ Us founder Charles Lazarus dreamed of having a store of his own
-      when he went to visit his dad’s bike shop.
-
-      * **1948:** When Lazarus returned from fighting in WWII, he opened a
-      children’s furniture store in D.C., just as the Baby Boom began.
-
-      * **1950s:** Expanded to toys, built store to look like the cutting-edge
-      “self-service” supermarkets.
+      <div><h2>The American Dream:</h2><ul><li>Toys ‘R’ Us founder Charles
+      Lazarus dreamed of having a store of his own when he went to visit his
+      dad’s bike shop.</li><li><strong>1948:</strong> When Lazarus returned from
+      fighting in WWII, he opened a children’s furniture store in D.C., just as
+      the Baby Boom began.</li><li><strong>1950s:</strong> Expanded to toys,
+      built store to look like the cutting-edge “self-service”
+      supermarkets.</li></ul></div>
     _key: card-5-b960739e-4026-4e9c-9254-9cd2b1b621e2
   - order: 5
     useCheckmark: true
-    body: |-
-      Geoffrey The Giraffe first appeared in 1965 - See more history here:
-
-      [view sources](https://smarthernews.com/18-02-14-toys-r-us/)
+    body: >-
+      <div><p>Geoffrey The Giraffe first appeared in 1965 - See more history
+      here:</p><p><a href="https://smarthernews.com/18-02-14-toys-r-us/">view
+      sources</a></p></div>
     _key: card-10-d8107960-76f1-4e81-b5fe-531df2b60542
 
 ---

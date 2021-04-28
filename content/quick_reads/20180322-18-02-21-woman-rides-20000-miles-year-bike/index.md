@@ -18,44 +18,29 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## “Hun, you really got that windswept look.”
-
-
-      What a gas station clerk said to ultra-cyclist**Lael Wilcox** after she
-      removed her helmet and hadn’t showered for 17-days.
-
-
-      Wilcox cycles the equivalence of the circumference of globe every year.
-
-
-      Why?
+      <div><h2>“Hun, you really got that windswept look.”</h2><p>What a gas
+      station clerk said to ultra-cyclist <strong>Lael Wilcox</strong> after she
+      removed her helmet and hadn’t showered for 17-days.</p><p>Wilcox cycles
+      the equivalence of the circumference of globe every
+      year.</p><p>Why?</p></div>
     _key: card-1-c31a5c2c-bbb9-4042-b986-32bb1695f401
   - order: 1
     useCheckmark: false
     body: >-
-      # She Loves To Cycle
-
-
-      > **“I just wanna be out there.”**  
-        
-        
-        
-      Wilcox biked from Alaska to America’s southern border andA won
-      cross-country races –**beating men & women**.
-
-
-      [Click Here To See Her
-      Ride:](https://thescene.com/watch/wired/how-this-woman-rides-20-000-miles-a-year-on-her-bike)
+      <div><h1>She Loves To Cycle</h1><blockquote><strong>“I just wanna be out
+      there.”</strong><br><br><br><br>Wilcox biked from Alaska to America’s
+      southern border andA won cross-country races – <strong>beating men &amp;
+      women</strong>.</blockquote><p><a
+      href="https://thescene.com/watch/wired/how-this-woman-rides-20-000-miles-a-year-on-her-bike">Click
+      Here To See Her Ride:</a></p></div>
     _key: card-2-2d836213-74f9-4497-9452-67387ba9fcbf
   - order: 2
     useCheckmark: true
     body: >-
-      Wilcox keeps everything she needs on her bike - learn what she never
-      leaves home without.
-
-
-      [view
-      sources](https://smarthernews.com/18-02-21-woman-rides-20000-miles-year-bike/)
+      <div><p>Wilcox keeps everything she needs on her bike - learn what she
+      never leaves home without.</p><p><a
+      href="https://smarthernews.com/18-02-21-woman-rides-20000-miles-year-bike/">view
+      sources</a></p></div>
     _key: card-10-34c6dedc-4dea-4891-94fc-337475c61d71
 
 ---

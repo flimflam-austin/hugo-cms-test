@@ -21,70 +21,48 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # Predicting Hurricanes
-
-      Every minute, of every day, forecasters scan for hurricanes.
-
-      How new technology works to save American families.
-
-      How It Works
+    body: >-
+      <div><h1>Predicting Hurricanes</h1><p>Every minute, of every day,
+      forecasters scan for hurricanes.</p><p>How new technology works to save
+      American families.</p><p>How It Works</p></div>
     _key: card-1-56fe313e-5b7e-494d-bece-8217a4c236d5
   - order: 1
     useCheckmark: false
     body: >-
-      ## How We Forecast Hurricanes
-
-
-      * Satellites, aircraft use radar to constantly scan the oceans for areas
-      of high wind.
-
-      * Wind causes the sea level to rise, which can lead to a deadly effect of
-      a hurricane: storm surge.
-
-      * Bottom line: The worlds’ oceans are massive. We don’t have the
-      technology to cover the whole surface constantly.
+      <div><h2>How We Forecast Hurricanes</h2><ul><li>Satellites, aircraft use
+      radar to constantly scan the oceans for areas of high wind.</li><li>Wind
+      causes the sea level to rise, which can lead to a deadly effect of a
+      hurricane: storm surge.</li><li>Bottom line: The worlds’ oceans are
+      massive. We don’t have the technology to cover the whole surface
+      constantly.</li></ul></div>
     _key: card-2-6882522c-3545-454e-afb7-bbc407569696
   - order: 2
     useCheckmark: false
     body: >-
-      # What we CAN do…
-
-
-      New tools of the  
-
-      National Weather Service:
-
-
-      * Supercomputer: processes prediction models faster.
-
-      * GOES-16: new satellite helps us see storms develop in real time.
-
-      * GOES-17: new satellite enables us to see storms & lightning that can
-      spark forest fires.
+      <div><h1>What we CAN do…</h1><p>New tools of the<br>National Weather
+      Service:</p><ul><li>Supercomputer: processes prediction models
+      faster.</li><li>GOES-16: new satellite helps us see storms develop in real
+      time.</li><li>GOES-17: new satellite enables us to see storms &amp;
+      lightning that can spark forest fires.</li></ul></div>
     _key: card-3-76fdb68a-0d06-4660-9be2-f4c6fc583fec
   - order: 3
     useCheckmark: false
     body: >-
-      > “I can’t stress this enough. Models and observations are the base
-      infrastructure that allows human forecasters to do better forecasts.”  
-        
-        
-        
-      David Novak, Director of the National Weather Service's Prediction Center,
-      speaking in 2017 to CNBC. Technology helps forecasts, he says, but the
-      human analysis remains important.
+      <blockquote>“I can’t stress this enough. Models and observations are the
+      base infrastructure that allows human forecasters to do better
+      forecasts.”<br><br><br><br>David Novak, Director of the National Weather
+      Service's Prediction Center, speaking in 2017 to CNBC. Technology helps
+      forecasts, he says, but the human analysis remains important.</blockquote>
     _key: card-4-0c0fa3c9-baf1-41ed-8722-31c2cb76474f
   - order: 4
     useCheckmark: true
     body: >-
-      Once winds hit 74 mph a storm gets a new name: "Hurricane". Anything below
-      74 mph considered a "tropical storm." After Florence, the next "named"
-      storms in the Atlantic are: Issac, Joyce & Helene.
-
-
-      [view
-      sources](https://smarthernews.com/18-09-14-how-good-is-hurricane-technology/)
+      <div><p>Once winds hit 74 mph a storm gets a new name: "Hurricane".
+      Anything below 74 mph considered a "tropical storm." After Florence, the
+      next "named" storms in the Atlantic are: Issac, Joyce &amp;
+      Helene.</p><p><a
+      href="https://smarthernews.com/18-09-14-how-good-is-hurricane-technology/">view
+      sources</a></p></div>
     _key: card-10-44103256-df07-4957-96c5-a4246bf1744a
 
 ---

@@ -21,60 +21,49 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: "# “Attorneya\x13client privilege is dead!”\n\nPresident Trump via Twitter, April 10, 2018\n\n**Does the federal raid on Michael Cohen (Trump’s personal lawyer) signify the end of one of our nation’s most sacred legal principles?**\n\nFLIP HERE FOR MORE"
+    body: "<div><h1>“Attorneya\x13client privilege is dead!”</h1><p>President Trump via Twitter, April 10, 2018</p><p><strong>Does the federal raid on Michael Cohen (Trump’s personal lawyer) signify the end of one of our nation’s most sacred legal principles?</strong></p><p>FLIP HERE FOR MORE</p></div>"
     citation: FLIP HERE FOR MORE
     _key: card-1-87b18413-3e66-41fd-8378-40eda1b13808
   - order: 1
     useCheckmark: false
     body: >-
-      ## What is the Attorney-Client Privilege?
-
-
-      * Allows a client to avoid testifying about, or otherwise
-      disclosing,**confidential communications** with their lawyer relating to
-      legal advice (ex: not financial advice).
-
-      * Also means the attorney***usually*** cannot be required to disclose.
-
-      * Meant to encourage clients to communicate freely with their attorneys.
+      <div><h2>What is the Attorney-Client Privilege?</h2><ul><li>Allows a
+      client to avoid testifying about, or otherwise disclosing,
+      <strong>confidential communications</strong> with their lawyer relating to
+      legal advice (ex: not financial advice).</li><li>Also means the attorney
+      <strong>*usually*</strong> cannot be required to disclose.</li><li>Meant
+      to encourage clients to communicate freely with their
+      attorneys.</li></ul></div>
     _key: card-2-be5160fb-8c80-4bb7-8a6d-c0426c25ab32
   - order: 2
     useCheckmark: false
     body: >-
-      Is the Attorney-Client Privilege Dead? Nope.
-
-
-      **BOTTOM LINE:** The attorney-client privilege is alive and well, as are
-      its exceptions, including the**crime-fraud exception.**
-
-
-      The privilege does NOT apply to communications in**furtherance** of an
-      ongoing or (intended) future crime or fraud.
+      <div><p>Is the Attorney-Client Privilege Dead? Nope.</p><p><strong>BOTTOM
+      LINE:</strong> The attorney-client privilege is alive and well, as are its
+      exceptions, including the <strong>crime-fraud
+      exception.</strong></p><p>The privilege does NOT apply to communications
+      in <strong>furtherance</strong> of an ongoing or (intended) future crime
+      or fraud.</p></div>
     _key: card-3-b6ec1076-24a4-404f-95a6-891acf03d22d
   - order: 3
     useCheckmark: false
     body: >-
-      ## What does this mean for Cohen &/or Pres. Trump?
-
-
-      Cohen has not been charged with a crime & the raid is not proof of one.
-
-
-      The raid, which required multiple levels of authorization by high-level
-      federal officials, IS proof that law enforcement authorities convinced a
-      judge there was probable cause to believe the search would produce
-      evidence of a particular crime.
+      <div><h2>What does this mean for Cohen &amp;/or Pres. Trump?</h2><p>Cohen
+      has not been charged with a crime &amp; the raid is not proof of
+      one.</p><p>The raid, which required multiple levels of authorization by
+      high-level federal officials, IS proof that law enforcement authorities
+      convinced a judge there was probable cause to believe the search would
+      produce evidence of a particular crime.</p></div>
     _key: card-4-95487646-403d-4cf8-ba59-628e480e1a18
   - order: 4
     useCheckmark: true
     body: >-
-      NBC legal analyst Danny Cevallos says the fact the FBI opted to execute
-      the raid on Cohen without notice, as opposed to allowing him to produce
-      documents in response to a subpoena suggests something important. Read his
-      article:
-
-
-      [view sources](https://smarthernews.com/18-04-11-ac-privilege/)
+      <div><p>NBC legal analyst Danny Cevallos says the fact the FBI opted to
+      execute the raid on Cohen without notice, as opposed to allowing him to
+      produce documents in response to a subpoena suggests something important.
+      Read his article:</p><p><a
+      href="https://smarthernews.com/18-04-11-ac-privilege/">view
+      sources</a></p></div>
     _key: card-10-bb575d99-f204-40bd-9160-70d834ca3877
 
 ---

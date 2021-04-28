@@ -20,20 +20,20 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      > _  
-      “Finding light in the darkness is a very American thing to do.”_
+    body: >-
+      <blockquote><em><br>“Finding light in the darkness is a very American
+      thing to do.”</em></blockquote>
     citation: PRES BIDEN
     _key: c8837b0feaa8
   - order: 1
     useCheckmark: true
     body: >-
-      > In his first national primetime address the President announced the
-      following: every American adult will be eligible for a COVID-19 vaccine by
-      May 1, a new website to source vaccines, renewed efforts to open all
-      American schools and a goal for July 4th to "not only mark our
-      independence as a nation, but we begin to mark our independence from this
-      virus."
+      <blockquote>In his first national primetime address the President
+      announced the following: every American adult will be eligible for a
+      COVID-19 vaccine by May 1, a new website to source vaccines, renewed
+      efforts to open all American schools and a goal for July 4th to "not only
+      mark our independence as a nation, but we begin to mark our independence
+      from this virus."</blockquote>
     citation: VIEW SOURCES
     _key: a4de1b6f8f23
 

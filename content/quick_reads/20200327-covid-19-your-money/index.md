@@ -22,97 +22,75 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # COVID-19 AND YOUR MONEY
-
-
-      How the federal gov’t is trying to help lessen the impact to your wallet
-      as a record 3 million Americans file for unemployment.
+      <div><h1>COVID-19 AND YOUR MONEY</h1><p>How the federal gov’t is trying to
+      help lessen the impact to your wallet as a record 3 million Americans file
+      for unemployment.</p></div>
     _key: d18f11622c0c
   - order: 1
     useCheckmark: false
     body: >-
-      > “You may well see significant rises in unemployment and significant
-      declines in economic activity, but there can also be a good rebound on the
-      other side of that.”
-
-
-      Federal Reserve Chairman Jerome Powell explained that while we may be in a
-      recession, it's not a normal recession because there's nothing
-      fundamentally wrong with the U.S. economy. He added the first order of
-      business is to get COVID-19 under control and that will dictate the
-      timetable for the economic recovery ahead.
+      <div><blockquote>“You may well see significant rises in unemployment and
+      significant declines in economic activity, but there can also be a good
+      rebound on the other side of that.”</blockquote><p>Federal Reserve
+      Chairman Jerome Powell explained that while we may be in a recession, it's
+      not a normal recession because there's nothing fundamentally wrong with
+      the U.S. economy. He added the first order of business is to get COVID-19
+      under control and that will dictate the timetable for the economic
+      recovery ahead.</p></div>
     _key: 594ac3977fe4
   - order: 2
     useCheckmark: false
     body: >-
-      ## YOUR HOME
-
-
-      Evictions and foreclosures for renters & homeowners suspended in some
-      cases.
-
-
-      * **Mortgages:** 60-day moratorium on foreclosures and evictions for
-      single family homeowners with federally-insured mortgages. Gov’t directed
-      mortgage lenders to do the same – some have done so in states like CA.
-
-      * **FYI:** Many cities and counties have enacted temporary eviction bans.
+      <div><h2>YOUR HOME</h2><p>Evictions and foreclosures for renters &amp;
+      homeowners suspended in some cases.</p><ul><li><strong>Mortgages:</strong>
+      60-day moratorium on foreclosures and evictions for single family
+      homeowners with federally-insured mortgages. Gov’t directed mortgage
+      lenders to do the same – some have done so in states like
+      CA.</li><li><strong>FYI:</strong> Many cities and counties have enacted
+      temporary eviction bans.</li></ul></div>
     _key: de216f989011
   - order: 3
     useCheckmark: false
     body: >-
-      ## YOUR TAXES
-
-
-      * Federal taxes aren’t due until**July 15**.
-
-      * Treasury Dept. advises those able to do so to file their taxes by the
-      “normal” due date of**April 15** in order to speed up their refunds.
-
-      * **FYI:** State tax filing deadlines vary by state, but many states are
-      extending.
-
-
-      **_We provided a resource on our source page for you to check the latest
-      deadlines in your state._**
+      <div><h2>YOUR TAXES</h2><ul><li>Federal taxes aren’t due until
+      <strong>July 15</strong>.</li><li>Treasury Dept. advises those able to do
+      so to file their taxes by the “normal” due date of <strong>April
+      15</strong> in order to speed up their
+      refunds.</li><li><strong>FYI:</strong> State tax filing deadlines vary by
+      state, but many states are extending.</li></ul><p><strong><em>We provided
+      a resource on our source page for you to check the latest deadlines in
+      your state.</em></strong></p></div>
     _key: 48826b3d1644
   - order: 4
     useCheckmark: false
     body: >-
-      ## YOUR BUSINESS
-
-
-      * **Small Business Owners:** Businesses with 50 – 500 employees must
-      provide limited family & paid-leave to employees affected by COVID-19, but
-      they’ll get 100% back in tax credits, or payments.
-
-      * **Self-Employed:** Pres. Trump indicated Wednesday that independent
-      contractors and the self-employed will be eligible for unemployment
-      benefits. Details TBD.
+      <div><h2>YOUR BUSINESS</h2><ul><li><strong>Small Business Owners:</strong>
+      Businesses with 50 – 500 employees must provide limited family &amp;
+      paid-leave to employees affected by COVID-19, but they’ll get 100% back in
+      tax credits, or payments.</li><li><strong>Self-Employed:</strong> Pres.
+      Trump indicated Wednesday that independent contractors and the
+      self-employed will be eligible for unemployment benefits. Details
+      TBD.</li></ul></div>
     _key: 130df06f4a81
   - order: 5
     useCheckmark: false
     body: >-
-      ## YOUR LOANS
-
-
-      * **Federal student loans:** Interest waived for at least 60 days.
-      Borrowers may suspend payments for min. 2 months.
-
-      * **Small business loans:** Small business owners can apply for a
-      low-interest federal economic disaster loan.
-
-      * The Federal Reserve also has emergency lending powers and can step in to
-      temporarily replace lending powers in arenas where there’s no credit
-      flowing (ex: car loans) if needed.
+      <div><h2>YOUR LOANS</h2><ul><li><strong>Federal student loans:</strong>
+      Interest waived for at least 60 days. Borrowers may suspend payments for
+      min. 2 months.</li><li><strong>Small business loans:</strong> Small
+      business owners can apply for a low-interest federal economic disaster
+      loan.</li><li>The Federal Reserve also has emergency lending powers and
+      can step in to temporarily replace lending powers in arenas where there’s
+      no credit flowing (ex: car loans) if needed.</li></ul><p><br></p></div>
     _key: 60a858e097a6
   - order: 6
     useCheckmark: true
     body: >-
-      YOUR PAYCHECK? A third relief coronavirus response bill is being
+      <div><p>YOUR PAYCHECK? A third relief coronavirus response bill is being
       negotiated by congress. The exact details have yet to be approved by both
-      the Senate & House, but it will reportedly include a provision for sending
-      checks to Americans who earn below a certain income.
+      the Senate &amp; House, but it will reportedly include a provision for
+      sending checks to Americans who earn below a certain
+      income.</p><p></p></div>
     citation: VIEW SOURCES
     _key: aaea267d1598
 

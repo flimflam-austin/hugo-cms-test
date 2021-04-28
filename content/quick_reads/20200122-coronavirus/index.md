@@ -21,59 +21,48 @@ colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## The “New” Pneumonia?
-
-      A first-of-its-kind case of a deadly virus in America.
+    body: >-
+      <div><h2>The “New” Pneumonia?</h2><p>A first-of-its-kind case of a deadly
+      virus in America.</p></div>
     _key: 5c24363d450b
   - order: 1
     useCheckmark: false
     body: >-
-      > “It’s unclear how easily this virus is spreading between people.”
-
-
-      CDC announcing the first case of a new coronavirus infection in a man who
-      traveled back to Washington state last week from China. The virus first
-      surfaced in an animal market in Wuhan, a central Chinese city, in
-      December. The "Wuhan coronavirus" is blamed for at least 6 deaths in China
-      and hundreds sick across Asia.
+      <div><blockquote>“It’s unclear how easily this virus is spreading between
+      people.”</blockquote><p>CDC announcing the first case of a new coronavirus
+      infection in a man who traveled back to Washington state last week from
+      China. The virus first surfaced in an animal market in Wuhan, a central
+      Chinese city, in December. The "Wuhan coronavirus" is blamed for at least
+      6 deaths in China and hundreds sick across Asia.</p></div>
     _key: 8fbf761d5e15
   - order: 2
     useCheckmark: false
     body: >-
-      ## “Coronavirus”
-
-
-      * Virus causing respiratory illness.
-
-      * Coronavirus = an umbrella virus family causing a range of illnesses from
-      common cold symptoms to SARs.
-
-      * “Wuhan” coronavirus symptoms: fever, cough, difficulty breathing, can
-      lead to pneumonia.
-
-      * Victims with this new strain show varying degree of illness; the CDC
-      calls the man hospitalized in Washington state “very healthy.”
+      <div><h2>“Coronavirus”</h2><ul><li>Virus causing respiratory
+      illness.</li><li>Coronavirus = an umbrella virus family causing a range of
+      illnesses from common cold symptoms to SARs.</li><li>“Wuhan” coronavirus
+      symptoms: fever, cough, difficulty breathing, can lead to
+      pneumonia.</li><li>Victims with this new strain show varying degree of
+      illness; the CDC calls the man hospitalized in Washington state “very
+      healthy.”</li></ul></div>
     _key: 23cfc4ffaac3
   - order: 3
     useCheckmark: false
     body: >-
-      > “The enemies are in the dark, and we don’t know them.”
-
-
-      Linfa Wang, virologist at Duke-National University of Singapore, speaking
-      about the unknowns of this illness - specifically how it's spread, making
-      it difficult to strategize about containment. There's heightened concern
-      about the Lunar New Year this weekend, when many people across Asia will
-      travel.
+      <div><blockquote>“The enemies are in the dark, and we don’t know
+      them.”</blockquote><p>Linfa Wang, virologist at Duke-National University
+      of Singapore, speaking about the unknowns of this illness - specifically
+      how it's spread, making it difficult to strategize about containment.
+      There's heightened concern about the Lunar New Year this weekend, when
+      many people across Asia will travel.</p></div>
     _key: f0a1b3203cc2
   - order: 4
     useCheckmark: true
     body: >-
-      The CDC is now screening for the illness in some major U.S. international
-      airports: San Francisco (SFO), Los Angeles (LAX), NY (JFK) and now
-      additionally Atlanta (ATL) and Chicago (ORD). The last time such efforts
-      were made? 2014 over concerns for Ebola.
+      <div><p>The CDC is now screening for the illness in some major U.S.
+      international airports: San Francisco (SFO), Los Angeles (LAX), NY (JFK)
+      and now additionally Atlanta (ATL) and Chicago (ORD). The last time such
+      efforts were made? 2014 over concerns for Ebola.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 117ac6d4173a
 

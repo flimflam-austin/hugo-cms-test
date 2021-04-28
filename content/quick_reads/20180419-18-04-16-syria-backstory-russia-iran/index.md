@@ -21,73 +21,48 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # THE BACKSTORY
-
-      ## Syria: Iran & Russia
-
-      > 2 different nations with very similar interests.  
-        
-        
-        
-      What you need to know & why it matters.
-
-      Flip Here
+    body: >-
+      <div><h1>THE BACKSTORY</h1><h2>Syria: Iran &amp; Russia</h2><blockquote>2
+      different nations with very similar interests.<br><br><br><br>What you
+      need to know &amp; why it matters.</blockquote><p>Flip Here</p></div>
     citation: Flip Here
     _key: card-1-fcac6079-522b-4165-9495-25eed2d5c0fc
   - order: 1
     useCheckmark: false
     body: >-
-      ## Back in 2017…
-
-
-      > “The most important issue that the new U.S. administration will face in
-      the Middle East will be the rise of the Iranian-led axis…the question is
-      what to do about it.”  
-        
-        
-        
-      Payam Mohseni and Hussein Kalout, Foreign Policy, Jan 24, 2017
+      <div><h2>Back in 2017…</h2><blockquote>“The most important issue that the
+      new U.S. administration will face in the Middle East will be the rise of
+      the Iranian-led axis…the question is what to do about
+      it.”<br><br><br><br>Payam Mohseni and Hussein Kalout, Foreign Policy, Jan
+      24, 2017</blockquote></div>
     _key: card-2-5890f70d-9bdd-4a99-bcc7-ae15d924d117
   - order: 2
     useCheckmark: false
     body: >-
-      # IRAN & SYRIA
-
-
-      ## “AXIS OF RESISTANCE”
-
-
-      * Iran & Syria (along with Iran sponsored terror groups like Hezbollah)
-      want to create a united front in the Middle East against “western
-      aggression” by the U.S. & Israel.
-
-      * Syria provides Iran something it doesn’t have: strategic access to
-      Mediterranean Sea.
+      <div><h1>IRAN &amp; SYRIA</h1><h2>“AXIS OF RESISTANCE”</h2><ul><li>Iran
+      &amp; Syria (along with Iran sponsored terror groups like Hezbollah) want
+      to create a united front in the Middle East against “western aggression”
+      by the U.S. &amp; Israel.</li><li>Syria provides Iran something it doesn’t
+      have: strategic access to Mediterranean Sea.</li></ul></div>
     _key: card-3-1c43436e-9866-4af0-a33d-c9a7178f64cb
   - order: 3
     useCheckmark: false
     body: >-
-      ## SYRIA & RUSSIA
-
-
-      * **Russia’s ONE naval base in Middle East is in Syria** – in the port of
-      Tartus.**Gives Kremlin a crucial resupply station & presence in Middle
-      East.A**
-
-      * Syria = customer of Russian arms.
-
-      * Russia identifies with Syria repelling popular uprisings challenging
-      status quo & Islamic terrorism (Russia confronts both domestically).
+      <div><h2>SYRIA &amp; RUSSIA</h2><ul><li><strong>Russia’s ONE naval base in
+      Middle East is in Syria</strong> – in the port of Tartus. <strong>Gives
+      Kremlin a crucial resupply station &amp; presence in Middle
+      East.A</strong></li><li>Syria = customer of Russian arms.</li><li>Russia
+      identifies with Syria repelling popular uprisings challenging status quo
+      &amp; Islamic terrorism (Russia confronts both
+      domestically).</li></ul></div>
     _key: card-4-20036320-102f-480d-b6a4-73d623cf0cc7
   - order: 4
     useCheckmark: true
     body: >-
-      President Assad’s father learned how to fly fighter jets in Soviet Union.
-
-
-      [view
-      sources](https://smarthernews.com/18-04-16-syria-backstory-russia-iran/)
+      <div><p>President Assad’s father learned how to fly fighter jets in Soviet
+      Union.</p><p><a
+      href="https://smarthernews.com/18-04-16-syria-backstory-russia-iran/">view
+      sources</a></p></div>
     _key: card-10-dddc6b28-08e8-45ef-aa63-27aedb6c669e
 
 ---

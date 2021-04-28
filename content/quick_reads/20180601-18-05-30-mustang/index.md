@@ -22,51 +22,37 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # ONE-TRICK PONY?
-
-
-      Ford will stop making passenger cars to focus only on top-performing SUVs
-      & trucks — with**one exception: The Mustang.**
-
-
-      Flip: Why
+      <div><h1>ONE-TRICK PONY?</h1><p>Ford will stop making passenger cars to
+      focus only on top-performing SUVs &amp; trucks — with <strong>one
+      exception: The Mustang.</strong></p><p>Flip: Why</p></div>
     _key: card-1-b7be0ff0-0964-45ff-bb5b-4198ba41b269
   - order: 1
     useCheckmark: false
     body: >-
-      Ford kept the “modestly profitable” Mustang largely due to**drivers’
-      emotional connection** – which the automaker describes as “**freedom**.”
-
-
-      * Introduced in 1964, the Mustang is world’sA**#1 selling sports car.**
-
-      * While sports cars skew male,A**27% of Mustang buyers are female.**
-
-      * **Fun fact:** Mustang’s 1st movie appearance was James Bond’s
-      “Goldfinger.”
+      <div><p>Ford kept the “modestly profitable” Mustang largely due to
+      <strong>drivers’ emotional connection</strong> – which the automaker
+      describes as “<strong>freedom</strong>.”</p><ul><li>Introduced in 1964,
+      the Mustang is world’sA <strong>#1 selling sports
+      car.</strong></li><li>While sports cars skew male,A <strong>27% of Mustang
+      buyers are female.</strong></li><li><strong>Fun fact:</strong> Mustang’s
+      1st movie appearance was James Bond’s “Goldfinger.”</li></ul></div>
     _key: card-2-a3a3c491-72f8-4d5d-b7d4-f160d9ac95f0
   - order: 2
     useCheckmark: false
     body: >-
-      > ‘The Mustang is like Rocky: It survived the 1970s fuel crisis, the glam
-      1980s, the move to S.U.V.s. It’s made it through every round of cuts.’  
-        
-        
-        
-      James Farley Jr., Ford’s President of Global Markets
-
-
-      FLIP: End of the road for sedans?
+      <div><blockquote>‘The Mustang is like Rocky: It survived the 1970s fuel
+      crisis, the glam 1980s, the move to S.U.V.s. It’s made it through every
+      round of cuts.’<br><br><br><br>James Farley Jr., Ford’s President of
+      Global Markets</blockquote><p>FLIP: End of the road for sedans?</p></div>
     _key: card-3-188700c3-0981-49e4-9305-ebd81caa4e6b
   - order: 3
     useCheckmark: true
     body: >-
-      Say goodbye to Ford's full-size Taurus, midsize Fusion, and subcompact
-      Fiesta... but is the passenger car dead? And what happens when/if gas
-      prices climb towards $4/gallon... Read more here:
-
-
-      [view sources](https://smarthernews.com/18-05-30-mustang/)
+      <div><p>Say goodbye to Ford's full-size Taurus, midsize Fusion, and
+      subcompact Fiesta... but is the passenger car dead? And what happens
+      when/if gas prices climb towards $4/gallon... Read more here:</p><p><a
+      href="https://smarthernews.com/18-05-30-mustang/">view
+      sources</a></p></div>
     _key: card-10-a91c93b2-ac20-4d63-ac76-32e10ba919a2
 
 ---

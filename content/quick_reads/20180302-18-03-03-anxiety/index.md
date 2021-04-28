@@ -22,70 +22,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      The Power  
-
-      (Not Paralysis)  
-
-      of Anxiety
-
-
-      New neuroscience study out of Canada finds a certain level of anxiety
-      *may* help us remember.
-
-
-      Flip For More
+      <div><p>The Power<br>(Not Paralysis)<br>of Anxiety </p><p>New neuroscience
+      study out of Canada finds a certain level of anxiety *may* help us
+      remember.</p><p>Flip For More</p></div>
     _key: card-1-323940e1-bb8c-45d5-81f9-171d55edbc4a
   - order: 1
     useCheckmark: false
     body: >-
-      ## About the Study:
-
-
-      * 80 participants screened on their levels of anxiety & then asked to
-      study a set of words
-
-      * Next, the words were shown to them over various images – some neutral
-      pics & some negative.
-
-      * Only difference in their memory recall? Those with high levels of
-      anxiety remembered the words more accurately when they were shown over the
-      negative images.
+      <div><h2>About the Study:</h2><ul><li>80 participants screened on their
+      levels of anxiety &amp; then asked to study a set of words</li><li>Next,
+      the words were shown to them over various images – some neutral pics &amp;
+      some negative.</li><li>Only difference in their memory recall? Those with
+      high levels of anxiety remembered the words more accurately when they were
+      shown over the negative images.</li></ul></div>
     _key: card-2-2e0c2e41-9ab2-4e12-a168-f80d57dad5c7
   - order: 2
     useCheckmark: false
-    body: "## What Might This Mean?\n\nPeople with some anxiety may remember an event or moment more vividly, but with a tainted negative light that may be unwarranted.\n\nReaffirmed anxiety ‘**sweet spot**’: some anxiety helps us rememberA a\x14 too much might make our memory recall less accurate."
+    body: "<div><h2>What Might This Mean?</h2><p>People with some anxiety may remember an event or moment more vividly, but with a tainted negative light that may be unwarranted.</p><p>Reaffirmed anxiety ‘<strong>sweet spot</strong>’: some anxiety helps us rememberA a\x14 too much might make our memory recall less accurate.</p></div>"
     _key: card-3-f4120cbb-5bd9-4919-b26a-211cfbacfb9f
   - order: 3
     useCheckmark: false
     body: >-
-      > “Having butterflies in your stomach might actually make that information
-      more memorable to you later on.”  
-        
-        
-        
-      Myra Fernandes, Professor, University of Waterloo, Department of
-      Psychology, and co-author of the study
+      <blockquote>“Having butterflies in your stomach might actually make that
+      information more memorable to you later on.”<br><br><br><br>Myra
+      Fernandes, Professor, University of Waterloo, Department of Psychology,
+      and co-author of the study</blockquote>
     _key: card-4-12f35080-fb8a-44f4-89d1-27e28a16dafd
   - order: 4
     useCheckmark: false
     body: >-
-      > ‘I think a practical takeaway from this study is to be aware of the
-      biases you’re bringing to the table and know that they might affect how
-      you’re seeing everything and remembering it later.’  
-        
-        
-        
-      Christopher Lee, Professor, University of Waterloo, Department of
-      Psychology, and co-author of the study
+      <blockquote>‘I think a practical takeaway from this study is to be aware
+      of the biases you’re bringing to the table and know that they might affect
+      how you’re seeing everything and remembering it
+      later.’<br><br><br><br>Christopher Lee, Professor, University of Waterloo,
+      Department of Psychology, and co-author of the study</blockquote>
     _key: card-5-31fb6492-4316-4158-8aae-d02e40f20a6c
   - order: 5
     useCheckmark: true
     body: >-
-      Researchers gave a terrific example of how negative memory recall works -
-      Check it out!
-
-
-      [view sources](https://smarthernews.com/18-03-03-anxiety/)
+      <div><p>Researchers gave a terrific example of how negative memory recall
+      works - Check it out!</p><p><a
+      href="https://smarthernews.com/18-03-03-anxiety/">view
+      sources</a></p></div>
     _key: card-10-285d47c1-27ab-4445-80c1-91b6a491e855
 
 ---

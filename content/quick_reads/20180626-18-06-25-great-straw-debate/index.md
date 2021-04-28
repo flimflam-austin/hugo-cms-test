@@ -21,72 +21,51 @@ colorpaletteclassname: '--white'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## The Great Straw Debate
-
-      First, plastic bags.  
-      Now, plastic straws?  
-      Straw bans span coast to coast, but stir up questions.
-
-      Why Now?
+    body: >-
+      <div><h2>The Great Straw Debate</h2><p>First, plastic bags.<br>Now,
+      plastic straws?<br>Straw bans span coast to coast, but stir up
+      questions.</p><p>Why Now?</p></div>
     _key: card-1-d48fcc8d-4f9b-41d7-aa39-19e9cb1916be
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why Hate On Straws?
-
-
-      “Straws are a luxury, we do not need straws to have our drinks, and I
-      think it’s an easy step forward where we can have a great impact for our
-      environment.”  
-        
-      Brooklyn City Councilman Rafael Espinal who introduced a straw ban for
-      America's largest city in late May, following previous official bans in
-      Seattle, Oakland & Miami Beach.
-
-
-      Flip: What Impact?
+      <div><h2>Why Hate On Straws?</h2><p>“Straws are a luxury, we do not need
+      straws to have our drinks, and I think it’s an easy step forward where we
+      can have a great impact for our environment.”<br><br>Brooklyn City
+      Councilman Rafael Espinal who introduced a straw ban for America's largest
+      city in late May, following previous official bans in Seattle, Oakland
+      &amp; Miami Beach.</p><p>Flip: What Impact?</p></div>
     _key: card-2-36f439e8-242a-40dd-b3b8-b8cde914e3fb
   - order: 2
     useCheckmark: false
     body: >-
-      ## Impact? Data Debate
-
-
-      * You’ll see this number A LOT:**Americans use an est. 500,000,000 straws
-      a day** (that would mean every single American uses more than 1 straw a
-      day).
-
-      * **That estimate is based on a 9-year-old’s research project.**
-
-      * Whatever the number, debate continues on whether straws are public enemy
-      #1 for pollution.
+      <div><h2>Impact? Data Debate</h2><ul><li>You’ll see this number A LOT:
+      <strong>Americans use an est. 500,000,000 straws a day</strong> (that
+      would mean every single American uses more than 1 straw a
+      day).</li><li><strong>That estimate is based on a 9-year-old’s research
+      project.</strong></li><li>Whatever the number, debate continues on whether
+      straws are public enemy #1 for pollution.</li></ul></div>
     _key: card-3-9381a4c2-0843-4e4d-9d7f-d87fbc45c429
   - order: 3
     useCheckmark: false
     body: >-
-      ## The Last Straw?
-
-
-      * Straw ban part of renewed focus on reducing plastic in the ocean. 60-80%
-      of all marine debris is composed of plastic: WCS.
-
-      * Study looking at efficacy of general plastic bans says**initial results
-      encouraging,** but**more research needed**.
-
-      * Other study: fishing gear, balloons & plastic bags = biggest threat to
-      ocean life, doesn’t name straws.
+      <div><h2>The Last Straw?</h2><ul><li>Straw ban part of renewed focus on
+      reducing plastic in the ocean. 60-80% of all marine debris is composed of
+      plastic: WCS.</li><li>Study looking at efficacy of general plastic bans
+      says <strong>initial results encouraging,</strong> but <strong>more
+      research needed</strong>.</li><li>Other study: fishing gear, balloons
+      &amp; plastic bags = biggest threat to ocean life, doesn’t name
+      straws.</li></ul></div>
     _key: card-4-e3fa7307-5061-47cc-93af-abd302d44b71
   - order: 4
     useCheckmark: true
     body: >-
-      The patent for the first straw was approved in 1888, but a patent for
-      "drinking tubes" for disabled Americans came before that - another
+      <div><p>The patent for the first straw was approved in 1888, but a patent
+      for "drinking tubes" for disabled Americans came before that - another
       argument against the straw ban is it will hurt the disabled who depend on
-      straws to drink.
-
-
-      [view sources](https://smarthernews.com/18-06-25-great-straw-debate/)
+      straws to drink.</p><p><a
+      href="https://smarthernews.com/18-06-25-great-straw-debate/">view
+      sources</a></p></div>
     _key: card-10-fa93ea9f-fbe8-445a-8ed6-4f5f4c18ec4f
 
 ---

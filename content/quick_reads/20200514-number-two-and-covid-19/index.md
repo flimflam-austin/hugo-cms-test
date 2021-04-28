@@ -21,76 +21,63 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # Flush It Out
-
-      ## How monitoring your *Number 2* may help protect your Number 1.
+    body: >-
+      <div><h1>Flush It Out</h1><h2>How monitoring your *Number 2* may help
+      protect your Number 1.</h2></div>
     citation: COVID19
     _key: 2aeae921767f
   - order: 1
     useCheckmark: false
     body: >-
-      > “Wastewater from an entire dorm, or an entire segment of a campus, could
-      be tested to determine whether there is coronavirus in that sewage.”  
-        
-      Adm. Brett Giroir, a commissioned officer in the U.S. Public Health
-      Service, on "experimental approaches, that look interesting, if not
-      promising" for COVID-19 surveillance, answering a Senate hearing question
-      about how children & young adults can safely return to school.
+      <div><blockquote>“Wastewater from an entire dorm, or an entire segment of
+      a campus, could be tested to determine whether there is coronavirus in
+      that sewage.”<br><br>Adm. Brett Giroir, a commissioned officer in the U.S.
+      Public Health Service, on "experimental approaches, that look interesting,
+      if not promising" for COVID-19 surveillance, answering a Senate hearing
+      question about how children &amp; young adults can safely return to
+      school.</blockquote><p><br></p></div>
     _key: 3dacc7d62eea
   - order: 2
     useCheckmark: false
     body: >-
-      ## Wait. What?
-
-
-      * Scientists track_viral shedding_: how & when a sick person spreads the
-      virus & level of contagion in different scenarios.
-
-      * Genetic evidence of SARS-CoV-2 (virus that causes COVID-19) is present
-      in stool samples (**though we don’t know if it can spread that way**).
-
-      * **Why It Matters:** Monitoring wastewater *may* help early detection of
-      COVID-19 cases in communities (without relying on individual tests).
+      <div><h2>Wait. What?</h2><ul><li>Scientists track <em>viral shedding</em>:
+      how &amp; when a sick person spreads the virus &amp; level of contagion in
+      different scenarios.</li><li>Genetic evidence of SARS-CoV-2 (virus that
+      causes COVID-19) is present in stool samples (<strong>though we don’t know
+      if it can spread that way</strong>).</li><li><strong>Why It
+      Matters:</strong> Monitoring wastewater *may* help early detection of
+      COVID-19 cases in communities (without relying on individual
+      tests).</li></ul></div>
     _key: 8f250095cdc3
   - order: 3
     useCheckmark: false
     body: >-
-      ## What To Know:
-
-
-      * **Precedent:** Researchers have looked at city wastewater for presence
-      of opioids, hormones.
-
-      * **Vancouver, WA** sending daily sewage samples to Arizona State Univ, a
-      leading lab in this field.
-
-      * **Bend, Oregon**: one of 300+ cities participating in a study with a bio
-      startup aligned w/ Harvard, MIT.
-
-      * CDC to_Politico_: Gov’t itself considering monitoring sewage but hasn’t
-      yet.
+      <div><h2>What To Know:</h2><ul><li><strong>Precedent:</strong> Researchers
+      have looked at city wastewater for presence of opioids,
+      hormones.</li><li><strong>Vancouver, WA</strong> sending daily sewage
+      samples to Arizona State Univ, a leading lab in this
+      field.</li><li><strong>Bend, Oregon</strong>: one of 300+ cities
+      participating in a study with a bio startup aligned w/ Harvard,
+      MIT.</li><li>CDC to <em>Politico</em>: Gov’t itself considering monitoring
+      sewage but hasn’t yet.</li></ul></div>
     _key: 051d97f608ab
   - order: 4
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      > “There is not a lot of evidence of transmission through stools. I know
-      at least one tabloid in the UK got a lot of coverage by someone
-      speculating that COVID-19 could be spread by flatulence or, to quote the
-      headline, by farting. There really is not a lot of science behind that.”  
-        
-      CDC Deputy Dir. for Infectious Diseases, Dr. Jay Butler.
+      <div><h2>Something To Consider:</h2><blockquote>“There is not a lot of
+      evidence of transmission through stools. I know at least one tabloid in
+      the UK got a lot of coverage by someone speculating that COVID-19 could be
+      spread by flatulence or, to quote the headline, by farting. There really
+      is not a lot of science behind that.”<br><br>CDC Deputy Dir. for
+      Infectious Diseases, Dr. Jay Butler.</blockquote></div>
     _key: 05ccf798d368
   - order: 5
     useCheckmark: true
     body: >-
-      A lead researcher in wastewater surveillance refers to our sewage systems
-      as “the information superhighway under your feet.” Just how much sewage
-      would be needed to get an accurate read of COVID-19 community outbreaks is
-      TBD.
+      <div><p>A lead researcher in wastewater surveillance refers to our sewage
+      systems as “the information superhighway under your feet.” Just how much
+      sewage would be needed to get an accurate read of COVID-19 community
+      outbreaks is TBD.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 3d0b7084c279
 

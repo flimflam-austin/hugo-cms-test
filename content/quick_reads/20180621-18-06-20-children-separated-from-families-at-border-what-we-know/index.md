@@ -22,107 +22,69 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # BIG PICTURE
-
-
-      More than 2300 children have been separated from adults who illegally
-      crossed the border.
-
-
-      What do we know about these children? Who are they? And who has come
-      before?
-
-
-      What We Know
+      <div><h1>BIG PICTURE</h1><p>More than 2300 children have been separated
+      from adults who illegally crossed the border.</p><p>What do we know about
+      these children? Who are they? And who has come before?</p><p>What We
+      Know</p></div>
     _key: card-1-fc9afcb7-32d4-42f3-a364-e6cab0fa1328
   - order: 1
     useCheckmark: false
     body: >-
-      “As children are separated from their families, law enforcement agents
+      <p>“As children are separated from their families, law enforcement agents
       reclassify them from members of family units to ‘unaccompanied alien
-      children.’ Federal officials said Tuesday that**since May, they have
-      separated 2,342 children** from their families,**rendering them
-      unaccompanied minors** in the government’s care.”  
-        
-        
-        
-      Garance Burke and Martha Mendoza, Associated Press, June 19, 2018
+      children.’ Federal officials said Tuesday that <strong>since May, they
+      have separated 2,342 children</strong> from their families,
+      <strong>rendering them unaccompanied minors</strong> in the government’s
+      care.”<br><br><br><br>Garance Burke and Martha Mendoza, Associated Press,
+      June 19, 2018</p>
     _key: card-2-5e675fe8-ed3f-40dc-9501-b30be3669193
   - order: 2
     useCheckmark: false
     body: >-
-      Where Are They From?
-
-
-      * Most current data: Guatemala, Mexico, Honduras & El Salvador (in this
-      order).
-
-      * Majority of families apprehended crossing the border illegally this year
-      are from Guatemala & Honduras.
-
-      * Last year, the majority of unaccompanied children from: Guatemala, El
-      Salvador & Mexico.
+      <div><p>Where Are They From?</p><ul><li>Most current data: Guatemala,
+      Mexico, Honduras &amp; El Salvador (in this order).</li><li>Majority of
+      families apprehended crossing the border illegally this year are from
+      Guatemala &amp; Honduras.</li><li>Last year, the majority of unaccompanied
+      children from: Guatemala, El Salvador &amp; Mexico.</li></ul></div>
     _key: card-3-95e9e2ff-c4e2-4f4d-a808-8986360c79e0
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider
-
-
-      * Some of the data between U.S. Border Patrol & Office of Refugee
-      Resettlement differs.
-
-      * U.S. Border Patrol deals with apprehensions, Office of Refugee
-      Resettlement cares for children *when they stay in govt custody*.
-
-      * **Unaccompanied children = anyone younger than 18.**
+      <div><h2>Something To Consider</h2><ul><li>Some of the data between U.S.
+      Border Patrol &amp; Office of Refugee Resettlement differs.</li><li>U.S.
+      Border Patrol deals with apprehensions, Office of Refugee Resettlement
+      cares for children *when they stay in govt
+      custody*.</li><li><strong>Unaccompanied children = anyone younger than
+      18.</strong></li></ul></div>
     _key: card-4-eb8a103d-4d4b-456d-9f62-b16d8dc34880
   - order: 4
     useCheckmark: false
     body: >-
-      ## Age & Gender
-
-
-      * Most recent data from 2017 for children unaccompanied *or*
-      separated**who stayed in govt custody**.
-
-      * Majority**over the age of 15** (69%).
-
-      * **68% Male**_vs. 32% Female.
-
-      * This doesn’t reflect current data on “separated children” but these
-      trends hold for the past 5 years.
+      <div><h2>Age &amp; Gender</h2><ul><li>Most recent data from 2017 for
+      children unaccompanied *or* separated <strong>who stayed in govt
+      custody</strong>.</li><li>Majority <strong>over the age of 15</strong>
+      (69%).</li><li><strong>68% Male</strong>_vs. 32% Female.</li><li>This
+      doesn’t reflect current data on “separated children” but these trends hold
+      for the past 5 years.</li></ul></div>
     _key: card-5-a988ce26-739a-44c3-b390-771f49363e21
   - order: 5
     useCheckmark: false
     body: >-
-      ## How Many “Unaccompanied Alien Children” Have Come?
-
-
-      * More than 32,000 so far this year (Oct 2017 – May 2018).
-
-      * 2017: 40,631
-
-      * 2016: 58,819
-
-      * 2015: 39,399
-
-
-
-
-      [Click: Process for UAC
-      2014](https://www.dhs.gov/archive/unaccompanied-children)
+      <div><h2>How Many “Unaccompanied Alien Children” Have
+      Come?</h2><ul><li>More than 32,000 so far this year (Oct 2017 – May
+      2018).</li><li>2017: 40,631</li><li>2016: 58,819</li><li>2015:
+      39,399</li></ul><p></p><p><a
+      href="https://www.dhs.gov/archive/unaccompanied-children">Click: Process
+      for UAC 2014</a></p></div>
     _key: card-6-20de979e-93c5-4e6c-b514-aa3f523999bf
   - order: 6
     useCheckmark: true
     body: >-
-      Fingerpointing vs. Facts. We used the only available government data for
-      these cards. Read more for an interesting look at which states have the
-      most sponsor families for these children.
-
-
-      [view
-      sources](https://smarthernews.com/18-06-20-children-separated-from-families-at-border-what-we-know/)
+      <div><p>Fingerpointing vs. Facts. We used the only available government
+      data for these cards. Read more for an interesting look at which states
+      have the most sponsor families for these children.</p><p><a
+      href="https://smarthernews.com/18-06-20-children-separated-from-families-at-border-what-we-know/">view
+      sources</a></p></div>
     _key: card-10-e4317299-cb54-4f57-8dd8-6ea53fe69310
 
 ---

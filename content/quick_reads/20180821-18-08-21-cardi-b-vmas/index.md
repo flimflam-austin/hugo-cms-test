@@ -22,23 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“A couple of months ago, a lot of people were saying, you are gambling
-      your career, you’re about to have a baby, what are you doing? You know I
-      had a baby, I carried the baby and now I am still winning awards!”_
-
-
-      CARDI B
+      <div><blockquote><em>“A couple of months ago, a lot of people were saying,
+      you are gambling your career, you’re about to have a baby, what are you
+      doing? You know I had a baby, I carried the baby and now I am still
+      winning awards!”</em></blockquote><p>CARDI B</p></div>
     _key: card-1-d294be2a-9788-4380-8899-994d7b1c2d72
   - order: 1
     useCheckmark: true
     body: >-
-      New mom and rapper Cardi B (25) took home 3 awards at the MTV Video Music
-      Awards, including Best New Artist. Cardi B was the top contender with 10
-      nominations. Last month, she welcomed her first child, Kulture Kiari
-      Cephus, with her husband, rapper Offset.
-
-
-      [view sources](https://smarthernews.com/18-08-21-cardi-b-vmas/)
+      <div><p>New mom and rapper Cardi B (25) took home 3 awards at the MTV
+      Video Music Awards, including Best New Artist. Cardi B was the top
+      contender with 10 nominations. Last month, she welcomed her first child,
+      Kulture Kiari Cephus, with her husband, rapper Offset.</p><p><a
+      href="https://smarthernews.com/18-08-21-cardi-b-vmas/">view
+      sources</a></p></div>
     _key: card-10-e37196f7-4874-4448-90e6-c232a96cb4b3
 
 ---

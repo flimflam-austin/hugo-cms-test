@@ -22,18 +22,18 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## _“Knowledge is like a suitcase that I carry with me, it is a
-      treasure_._“_
+      <div><h2><em>“Knowledge is like a suitcase that I carry with me, it is a
+      treasure</em>.<em>“</em></h2><p></p></div>
     citation: GIUSEPPE PATERNO
     _key: 3a360de93a38
   - order: 1
     useCheckmark: true
     body: >-
-      96-yr-old Giuseppe Paterno recently became Italy's oldest college
+      <div><p>96-yr-old Giuseppe Paterno recently became Italy's oldest college
       graduate. Paterno grew up in Sicily, served in the navy during WWII, and
       became a railway worker before his love of reading led him to sign up for
       classes at the University of Palermo in his 90s, graduating top of class
-      (despite his age & a global pandemic).
+      (despite his age &amp; a global pandemic).</p><p></p></div>
     citation: VIEW SOURCES
     _key: a0e782d8e91a
 

@@ -22,54 +22,44 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # COVID “Cocooning”
-
-
-      As COVID case numbers trend higher, a *new* social mitigation strategy
-      presents another *potential* option to severe lockdowns.
-
-
-      What It Is & Why It Matters
+      <div><h1>COVID “Cocooning”</h1><p>As COVID case numbers trend higher, a
+      *new* social mitigation strategy presents another *potential* option to
+      severe lockdowns.</p><p>What It Is &amp; Why It Matters</p></div>
     _key: 309499cf6d6a
   - order: 1
     useCheckmark: false
     body: >-
-      ## What Is Cocooning?
-
-
-      * A term for prioritizing & shielding vulnerable populations most
-      susceptible to severe cases of COVID-19, such as nursing home residents.
-
-      * Instead of a one-size-fits-all approach to social mitigation, the
-      strategy suggests**doubling-down protection efforts for those most
-      vulnerable**.
-
-      * Those cocooning would follow strict social distancing measures,
-      essentially self-isolate, work from home, etc.
+      <div><h2>What Is Cocooning?</h2><ul><li>A term for prioritizing &amp;
+      shielding vulnerable populations most susceptible to severe cases of
+      COVID-19, such as nursing home residents.</li><li>Instead of a
+      one-size-fits-all approach to social mitigation, the strategy suggests
+      <strong>doubling-down protection efforts for those most
+      vulnerable</strong>.</li><li>Those cocooning would follow strict social
+      distancing measures, essentially self-isolate, work from home,
+      etc.</li></ul></div>
     _key: 1688851e734b
   - order: 2
     useCheckmark: false
-    body: "## The Recent Research\n\n* University of Texas, Austin.\n* Researchers analyzed transmission & case data of the “fastest-growing large city area” in the U.S. — Austin, Texas.\n* **One Take-Away:**\__“**postponing**_\__relaxation (of social mitigation efforts) will only delay future disease waves.”_\n* Researchers argue cocooning**prevents** higher hospitalizations and deaths,**preserving** resources & saving lives, while allowing others to “relax.”"
+    body: "<div><h2>The Recent Research</h2><ul><li>University of Texas, Austin.</li><li>Researchers analyzed transmission &amp; case data of the “fastest-growing large city area” in the U.S. — Austin, Texas.</li><li><strong>One Take-Away:</strong>\_<em>“<strong>postponing</strong></em>\_<em>relaxation (of social mitigation efforts) will only delay future disease waves.”</em></li><li>Researchers argue cocooning <strong>prevents</strong> higher hospitalizations and deaths, <strong>preserving</strong> resources &amp; saving lives, while allowing others to “relax.”</li></ul></div>"
     _key: 9d6bf391128c
   - order: 3
     useCheckmark: false
     body: >-
-      > “Leaky cocooning can substantially undermine containment.”
-
-
-      Research published by The University of Texas at Austin and Northwestern
-      University this summer presented a strategy that includes cocooning as
-      part of a way to "toggle" between enforcing and relaxing stay-at-home
-      orders, as long as strict adherence for those "cocooned" takes place.
+      <div><blockquote>“Leaky cocooning can substantially undermine
+      containment.”</blockquote><p>Research published by The University of Texas
+      at Austin and Northwestern University this summer presented a strategy
+      that includes cocooning as part of a way to "toggle" between enforcing and
+      relaxing stay-at-home orders, as long as strict adherence for those
+      "cocooned" takes place.</p></div>
     _key: 41d72f97c316
   - order: 4
     useCheckmark: true
     body: >-
-      While COVID cases climb in certain states, the national average of new
-      daily cases currently hovers at 50,000. In July, it topped 66,000.
+      <div><p>While COVID cases climb in certain states, the national average of
+      new daily cases currently hovers at 50,000. In July, it topped 66,000.
       Researchers on cocooning aren't saying we'd never have to lockdown again
       but argue cocooning could reduce the length and severity of other
-      mitigation measures during infection spikes.
+      mitigation measures during infection spikes.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 5a6f5b140e3a
 

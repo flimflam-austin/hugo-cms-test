@@ -22,25 +22,22 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _‘If you rise on the wings of the dawn, if you settle on the far side of
-      the sea, even if you go up to the heavens, even there His hand will guide
-      you. His right hand will hold you fast and He will hold fast this great
-      nation and the great beyond.’_
-
-
-      VP Mike Pence
+      <div><blockquote><em>‘If you rise on the wings of the dawn, if you settle
+      on the far side of the sea, even if you go up to the heavens, even there
+      His hand will guide you. His right hand will hold you fast and He will
+      hold fast this great nation and the great beyond.’</em></blockquote><p>VP
+      Mike Pence</p></div>
     citation: VP Mike Pence
     _key: card-1-ce6d7659-e6be-4794-9c87-8a37e59ecdae
   - order: 1
     useCheckmark: true
     body: >-
-      VP Pence uses Psalm 139 in closing remarks of his speech at the Pentagon
-      announcing the process of creating the U.S. Space Force - the Space Force
-      could be the 6th branch of the U.S. military (Air Force, Army, Coast
-      Guard, Marine Corps, & Navy)
-
-
-      [view sources](https://smarthernews.com/18-08-09-qtd-mike-pence/)
+      <div><p>VP Pence uses Psalm 139 in closing remarks of his speech at the
+      Pentagon announcing the process of creating the U.S. Space Force - the
+      Space Force could be the 6th branch of the U.S. military (Air Force, Army,
+      Coast Guard, Marine Corps, &amp; Navy)</p><p><a
+      href="https://smarthernews.com/18-08-09-qtd-mike-pence/">view
+      sources</a></p></div>
     _key: card-10-cf2ed50b-48ad-4121-8b0f-488dab79ed0e
 
 ---

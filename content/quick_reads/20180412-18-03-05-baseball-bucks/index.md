@@ -22,69 +22,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## BUZZKILL
-
-
-      The one thing you WON’T see at a baseball game this year…but you may want
-      at your next party!
-
-
-      Flip Here
+      <div><h2>BUZZKILL</h2><p>The one thing you WON’T see at a baseball game
+      this year…but you may want at your next party!</p><p>Flip Here</p></div>
     citation: Flip Here
     _key: card-1-8199dcce-950d-48a6-9539-5f1b52109b2d
   - order: 1
     useCheckmark: false
     body: >-
-      ## Cool Tech We WON’T See
-
-
-      The New York Yankees wanted to sell**beer with players’ faces printed on
-      top of the foam**.
-
-
-      But the MLB shut it down right away, saying: active**players cannot be
-      involved in the advertising or promotion of beer or other alcohol.**
-
-
-      Flip For More
+      <div><h2>Cool Tech We WON’T See</h2><p>The New York Yankees wanted to sell
+      <strong>beer with players’ faces printed on top of the
+      foam</strong>.</p><p>But the MLB shut it down right away, saying: active
+      <strong>players cannot be involved in the advertising or promotion of beer
+      or other alcohol.</strong></p><p>Flip For More</p></div>
     citation: Flip For More
     _key: card-2-f16609d7-624b-4ab9-be18-c6c9d6520121
   - order: 2
     useCheckmark: false
     body: >-
-      ## You WILL See This:
-
-
-      * **Biometric ID:**A Braves, Athletics & Mariners are the latest teams
-      allowing fans to use fingerprints and retinal scans to enter stadium or
-      buy concessions.
-
-      * **Real-time instant replay:** In an effort to speed up the game, teams
-      get immediate access to slo-mo cameras & phone lines to teams’ review
-      centers to decide whether or not to challenge a call.
+      <div><h2>You WILL See This:</h2><ul><li><strong>Biometric ID:</strong>A
+      Braves, Athletics &amp; Mariners are the latest teams allowing fans to use
+      fingerprints and retinal scans to enter stadium or buy
+      concessions.</li><li><strong>Real-time instant replay:</strong> In an
+      effort to speed up the game, teams get immediate access to slo-mo cameras
+      &amp; phone lines to teams’ review centers to decide whether or not to
+      challenge a call.</li></ul></div>
     _key: card-3-c7a6c164-f4de-461d-8bcf-243bc3850da2
   - order: 3
     useCheckmark: false
     body: >-
-      ## Take Me Out to the Ballgame – Or Not.
-
-
-      * Twitter will again live stream weekly MLB games.
-
-      * Facebook will**exclusively** stream 25 regular season games (big deal,
-      but small considering there’s 2,430 games this season)
-
-      * MLB is also tapping the Chinese market, partnering with Tencent to
-      stream 125 games to its 1B active users.
+      <div><h2>Take Me Out to the Ballgame – Or Not.</h2><ul><li>Twitter will
+      again live stream weekly MLB games.</li><li>Facebook will
+      <strong>exclusively</strong> stream 25 regular season games (big deal, but
+      small considering there’s 2,430 games this season)</li><li>MLB is also
+      tapping the Chinese market, partnering with Tencent to stream 125 games to
+      its 1B active users.</li></ul></div>
     _key: card-4-d082bf6e-2990-4cfa-8486-f58778e7102c
   - order: 4
     useCheckmark: true
     body: >-
-      What teams are demanding the highest prices? The World Series Champs
-      aren't even in the top 3! But there's a catch...
-
-
-      [view sources](https://smarthernews.com/18-03-05-baseball-bucks/)
+      <div><p>What teams are demanding the highest prices? The World Series
+      Champs aren't even in the top 3! But there's a catch...</p><p><a
+      href="https://smarthernews.com/18-03-05-baseball-bucks/">view
+      sources</a></p></div>
     _key: card-10-489f3134-dc64-4859-a56e-8730555b79e8
 
 ---

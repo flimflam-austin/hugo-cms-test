@@ -22,57 +22,42 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # ELECTION 2020
-
-
-      Putting aside the headlines, ongoing ballot counting, and lingering
-      lawsuits —
-
-
-      WHAT HAPPENS NEXT?
+      <div><h1>ELECTION 2020</h1><p>Putting aside the headlines, ongoing ballot
+      counting, and lingering lawsuits —</p><p>WHAT HAPPENS NEXT?</p></div>
     _key: bd09cd5cc99e
   - order: 1
     useCheckmark: false
     body: >-
-      ## DECEMBER
-
-
-      * **Dec. 8:** Federal deadline for contested elections to be resolved via
-      state laws.
-
-      * **Dec. 14:** Members of the Electoral College meet in their respective
-      states to vote via paper ballot, count, and certify their votes. Those
-      certifications are paired with governors’ certifications, and sent to
-      state & federal officials.
-
-      * **Dec. 23:** Federal deadline for state & federal officials to receive
-      certifications.
+      <div><h2>DECEMBER</h2><ul><li><strong>Dec. 8:</strong> Federal deadline
+      for contested elections to be resolved via state
+      laws.</li><li><strong>Dec. 14:</strong> Members of the Electoral College
+      meet in their respective states to vote via paper ballot, count, and
+      certify their votes. Those certifications are paired with governors’
+      certifications, and sent to state &amp; federal
+      officials.</li><li><strong>Dec. 23:</strong> Federal deadline for state
+      &amp; federal officials to receive
+      certifications.</li></ul><p><br></p></div>
     _key: 5ae8332af57d
   - order: 2
     useCheckmark: false
     body: >-
-      ## JANUARY
-
-
-      * **Jan. 3:** The 117th Congress (Senate & House of Representatives) is
-      sworn in.
-
-      * **Jan. 6:** Congress meets in joint session to count Electoral College
+      <div><h2>JANUARY</h2><ul><li><strong>Jan. 3:</strong> The 117th Congress
+      (Senate &amp; House of Representatives) is sworn in.</li><li><strong>Jan.
+      6:</strong> Congress meets in joint session to count Electoral College
       votes. Members may object to a state’s vote results. If there’s objection
-      by at least one person from both the House & Senate, Congress recesses
-      briefly for a debate. If the objection is approved by House & Senate, that
-      vote is excluded.
-
-      * **Jan. 20:** Inauguration Day
+      by at least one person from both the House &amp; Senate, Congress recesses
+      briefly for a debate. If the objection is approved by House &amp; Senate,
+      that vote is excluded.</li><li><strong>Jan. 20:</strong> Inauguration
+      Day</li></ul></div>
     _key: ea2948b76064
   - order: 3
     useCheckmark: true
     body: >-
-      WHAT ABOUT THE TRUMP CAMPAIGN'S LAWSUITS CHALLENGING RESULTS? Given the
-      upcoming federal deadlines, the courts will likely expedite the remaining
-      lawsuits (many others have already been dismissed). However, most legal
-      scholars agree the suits are unlikely to change the ultimate outcome of
-      the election.
+      <div><p>WHAT ABOUT THE TRUMP CAMPAIGN'S LAWSUITS CHALLENGING RESULTS?
+      Given the upcoming federal deadlines, the courts will likely expedite the
+      remaining lawsuits (many others have already been dismissed). However,
+      most legal scholars agree the suits are unlikely to change the ultimate
+      outcome of the election.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 7765622cf981
 

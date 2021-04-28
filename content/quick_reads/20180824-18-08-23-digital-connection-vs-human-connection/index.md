@@ -22,63 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Is The Cost of Constant Connection…Feeling Disconnected?
-
-
-      > New studies reveal whether our digital connections are draining our
-      connections to each other & the world around us.
+      <div><h1>Is The Cost of Constant Connection…Feeling
+      Disconnected?</h1><blockquote>New studies reveal whether our digital
+      connections are draining our connections to each other &amp; the world
+      around us.</blockquote></div>
     _key: card-1-aeff4e08-e39b-4499-bd02-bd49d2b6523e
   - order: 1
     useCheckmark: false
     body: >-
-      > **"Decades of research on happiness tell us that engaging positively
-      with others is critical for our well-being.** Modern technology may be
-      wonderful, but it can … take away from the special moments we have with
-      friends and family in person."  
-        
-        
-        
-      Ryan Dwyer of the University of British Columbia on his study of
-      smartphone distraction at the dinner table.
+      <blockquote><strong>"Decades of research on happiness tell us that
+      engaging positively with others is critical for our well-being.</strong>
+      Modern technology may be wonderful, but it can … take away from the
+      special moments we have with friends and family in
+      person."<br><br><br><br>Ryan Dwyer of the University of British Columbia
+      on his study of smartphone distraction at the dinner table.</blockquote>
     _key: card-2-8198915b-0f9c-428f-83e7-40da5ad5cb1d
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      * One recent study asked adult participants to either place their phone on
-      vibrate or separate from them completely while at their dinner tables.
-
-      * Participants who had their phones easily accessible had more trouble
-      staying present in the moment,A reported feeling more distracted, &
-      enjoyed the experience less.
+      <div><h2>Why It Matters</h2><ul><li>One recent study asked adult
+      participants to either place their phone on vibrate or separate from them
+      completely while at their dinner tables.</li><li>Participants who had
+      their phones easily accessible had more trouble staying present in the
+      moment,A reported feeling more distracted, &amp; enjoyed the experience
+      less.</li></ul></div>
     _key: card-3-3ed48c55-dc94-4735-9182-8b8199cfb588
   - order: 3
     useCheckmark: false
     body: >-
-      # The Next Generation
-
-
-      Another new study analyzed data from annual survey of 12th graders
-
-
-      * In 2016, the average**12th grader spent about 6 hours/day online,
-      texting, and on social media.**
-
-      * In 2016, nearly**a third of 12th graders hadn’t read a book** for
-      pleasure**in a year**.A In the 1970s, 60% of 12th graders read a book or
-      magazine almost every day.
+      <div><h1>The Next Generation</h1><p>Another new study analyzed data from
+      annual survey of 12th graders</p><ul><li>In 2016, the average <strong>12th
+      grader spent about 6 hours/day online, texting, and on social
+      media.</strong></li><li>In 2016, nearly <strong>a third of 12th graders
+      hadn’t read a book</strong> for pleasure <strong>in a year</strong>.A In
+      the 1970s, 60% of 12th graders read a book or magazine almost every
+      day.</li></ul></div>
     _key: card-4-8e1ea685-6027-4410-af46-31b0589cebfa
   - order: 4
     useCheckmark: true
     body: >-
-      In 2018, 45% of teens say they're "online almost constantly," according to
-      Pew Research Center - that's up nearly 50% from 2014-2015.
-
-
-      [view
-      sources](https://smarthernews.com/18-08-23-digital-connection-vs-human-connection/)
+      <div><p>In 2018, 45% of teens say they're "online almost constantly,"
+      according to Pew Research Center - that's up nearly 50% from
+      2014-2015.</p><p><a
+      href="https://smarthernews.com/18-08-23-digital-connection-vs-human-connection/">view
+      sources</a></p></div>
     _key: card-10-030962fc-3f4b-456c-ba40-fc43477dc192
 
 ---

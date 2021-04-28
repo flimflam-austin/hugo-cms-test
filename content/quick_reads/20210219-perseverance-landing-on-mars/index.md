@@ -21,76 +21,58 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Time For “Perseverance”
-
-
-      > Will NASA’s newest rover make it to Mars?  
-        
-      It’s traveled nearly 300 million miles since launching in July, but its
-      most challenging task lies ahead: surviving the “seven minutes of terror.”
+      <div><h2>Time For “Perseverance”</h2><blockquote>Will NASA’s newest rover
+      make it to Mars?<br><br>It’s traveled nearly 300 million miles since
+      launching in July, but its most challenging task lies ahead: surviving the
+      “seven minutes of terror.”</blockquote><p><br></p></div>
     _key: e3e3f3034d7a
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why “Perseverance”?
-
-
-      * Named after a 7th grader’s essay submission for the “Name the Rover”
-      competition; NASA said the name “captured the spirit of exploration.”
-
-      * The most advanced rover ever made – built with a navigation system,
-      detailed maps, 19 cameras, and a microphone (so we can hear what Mars
-      sounds like).
-
-      * About the size of a small car and weighs over 2,000 pounds.
+      <div><h2>Why “Perseverance”?</h2><ul><li>Named after a 7th grader’s essay
+      submission for the “Name the Rover” competition; NASA said the name
+      “captured the spirit of exploration.”</li><li>The most advanced rover ever
+      made – built with a navigation system, detailed maps, 19 cameras, and a
+      microphone (so we can hear what Mars sounds like).</li><li>About the size
+      of a small car and weighs over 2,000 pounds.</li></ul></div>
     _key: 09e74582c642
   - order: 2
     useCheckmark: false
     body: >-
-      ## “Seven Minutes Of Terror”
-
-
-      * In just 7 minutes, the rover will descend towards Mars & go from 12,000
-      mph to 2 mph in order to softly land…**completely autonomously.**
-
-      * Why the terror? The 11-minute communication delay from Mars to Earth
-      means that when NASA’s Mission Control Center is alerted of the rover’s
-      entry into Mars’ atmosphere, the descent & landing – or crash – will
-      already have happened.
+      <div><h2>“Seven Minutes Of Terror”</h2><ul><li>In just 7 minutes, the
+      rover will descend towards Mars &amp; go from 12,000 mph to 2 mph in order
+      to softly land… <strong>completely autonomously.</strong></li><li>Why the
+      terror? The 11-minute communication delay from Mars to Earth means that
+      when NASA’s Mission Control Center is alerted of the rover’s entry into
+      Mars’ atmosphere, the descent &amp; landing – or crash – will already have
+      happened.</li></ul></div>
     _key: 4e2c2fb46162
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      * Over at least two Earth years, Perseverance will explore an ancient
-      river delta, paving the way for human exploration & looking for signs of
-      past ancient life.
-
-      * It also begins a larger NASA mission to collect rocks & sediment on Mars
-      & return them to Earth for study.
-
-      * Since the 1960s, only about 50% of Mars surface missions have succeeded,
-      leaving much of it unexplored.
+      <div><h2>Why It Matters</h2><ul><li>Over at least two Earth years,
+      Perseverance will explore an ancient river delta, paving the way for human
+      exploration &amp; looking for signs of past ancient life.</li><li>It also
+      begins a larger NASA mission to collect rocks &amp; sediment on Mars &amp;
+      return them to Earth for study.</li><li>Since the 1960s, only about 50% of
+      Mars surface missions have succeeded, leaving much of it
+      unexplored.</li></ul></div>
     _key: dba590062a23
   - order: 4
     useCheckmark: false
     body: >-
-      > “It’s just a matter of executing… Now, we just have to trust in our team
-      and the hard work that we’ve put in until now, to see us through to the
-      finish line.”
-
-
-      Swati Mohan, who will serve as the mission commentator during the landing
-      event. She is one of thousands of staff members who have contributed to
-      this project over the last decade.
+      <div><blockquote>“It’s just a matter of executing… Now, we just have to
+      trust in our team and the hard work that we’ve put in until now, to see us
+      through to the finish line.”</blockquote><p>Swati Mohan, who will serve as
+      the mission commentator during the landing event. She is one of thousands
+      of staff members who have contributed to this project over the last
+      decade.</p></div>
     _key: e8e29459c217
   - order: 5
     useCheckmark: true
     body: >-
-      Perseverance is set to land around 3:55 est on Mars. We have a list of how
-      to watch the event on our source page.
+      <div><p>Perseverance is set to land around 3:55 est on Mars. We have a
+      list of how to watch the event on our source page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 78c8dd35bd2c
 

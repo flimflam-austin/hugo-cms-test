@@ -22,27 +22,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## CATCH-UP WITH JENNA
-
-
-      > 3 SmartHER stories:  
-
-      **Wages**,**Rages** &**Russians.A** Plus, a profile on a lifesaving
-      company you won’t hear anywhere else.
-
-
-      [Click Here To
-      Listen:](http://smarthernews.libsyn.com/smarther-podcast-ep-8-a-remarkable-invention-news-to-know)
+      <div><h2>CATCH-UP WITH JENNA</h2><blockquote>3 SmartHER
+      stories:<br><strong>Wages</strong>, <strong>Rages</strong> &amp;
+      <strong>Russians.A</strong> Plus, a profile on a lifesaving company you
+      won’t hear anywhere else.</blockquote><p><a
+      href="http://smarthernews.libsyn.com/smarther-podcast-ep-8-a-remarkable-invention-news-to-know">Click
+      Here To Listen:</a></p></div>
     _key: card-1-1faf5d56-328e-4165-b922-fbfd116cacaf
   - order: 1
     useCheckmark: true
     body: >-
-      We want to hear from you - call us, email us, send a telegram:
+      <div><p>We want to hear from you - call us, email us, send a telegram:
       Info@SmartHERNews.com. Also sign up for our newsletter and get everything,
-      once a week, in one place!
-
-
-      [view sources](https://smarthernews.com/18-08-03-podcast/)
+      once a week, in one place!</p><p><a
+      href="https://smarthernews.com/18-08-03-podcast/">view
+      sources</a></p></div>
     _key: card-10-c2411a34-2ff2-4f78-a6bf-6b55d8f24067
 
 ---

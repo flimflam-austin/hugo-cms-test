@@ -22,74 +22,55 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # “Temporary Pause”
-
-
-      One of the world’s largest vaccine trials aiming to combat COVID-19 halts
-      after “an unexplained illness.”
-
-
-      What To Know
+      <div><h1>“Temporary Pause”</h1><p>One of the world’s largest vaccine
+      trials aiming to combat COVID-19 halts after “an unexplained
+      illness.”</p><p>What To Know</p></div>
     _key: '753907162013'
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Basics
-
-
-      * Vaccine invented by Oxford University who partnered with a U.K.- based
-      drug company, AstraZeneca.
-
-      * Clinical trials ongoing worldwide: U.K., Brazil, South Africa & America.
-      U.S. Phase III trial (final stage) began on August 31st for 30,000
-      Americans.
-
-      * Vaccine initially showed promising immune response, “no safety
-      concerns”, some flu-like side effects during first trials.
+      <div><h2>The Basics</h2><ul><li>Vaccine invented by Oxford University who
+      partnered with a U.K.- based drug company, AstraZeneca.</li><li>Clinical
+      trials ongoing worldwide: U.K., Brazil, South Africa &amp; America. U.S.
+      Phase III trial (final stage) began on August 31st for 30,000
+      Americans.</li><li>Vaccine initially showed promising immune response, “no
+      safety concerns”, some flu-like side effects during first
+      trials.</li></ul></div>
     _key: 2f29f9c65136
   - order: 2
     useCheckmark: false
-    body: "## What Happened\n\nWe don’t know exactly but one participant developed an “unexplained illness.”\n\nAstraZeneca:_“In large clinical trials, illnesses will happen by chance and must be independently reviewed.”_\n\n_New York Times_\_**report**: participant developed inflammation of the spinal cord, often brought on by viral infections."
+    body: "<div><h2>What Happened</h2><p>We don’t know exactly but one participant developed an “unexplained illness.”</p><p>AstraZeneca: <em>“In large clinical trials, illnesses will happen by chance and must be independently reviewed.”</em></p><p><em>New York Times</em>\_<strong>report</strong>: participant developed inflammation of the spinal cord, often brought on by viral infections.</p><p><br></p></div>"
     _key: 846b9c33b27e
   - order: 3
     useCheckmark: false
     body: >-
-      ## How Vaccines Work
-
-
-      * Not all vaccines are the same.
-
-      * AstraZeneca vaccine uses a viral “carrier” (a common cold virus in
-      chimpanzees) to deliver a small amount of SARS-COV-2 genetic material, to
-      produce an immune response.
-
-      * Moderna & Pfizer vaccines use manufactured SARS-COV-2 genetic material
-      to spark an immune response (mRNA vaccine).**No mRNA vaccines have been
-      approved for human use.**
+      <div><h2>How Vaccines Work</h2><ul><li>Not all vaccines are the
+      same.</li><li>AstraZeneca vaccine uses a viral “carrier” (a common cold
+      virus in chimpanzees) to deliver a small amount of SARS-COV-2 genetic
+      material, to produce an immune response.</li><li>Moderna &amp; Pfizer
+      vaccines use manufactured SARS-COV-2 genetic material to spark an immune
+      response (mRNA vaccine). <strong>No mRNA vaccines have been approved for
+      human use.</strong></li></ul></div>
     _key: 289de4d19980
   - order: 4
     useCheckmark: false
     body: >-
-      ## BIG PICTURE
-
-
-      * Dozens of potential vaccines are in clinical trials *worldwide* ~ 100+
-      preclinical development.**In the U.S., three vaccines are in final stage
-      trials.**
-
-      * More than one vaccine *may* eventually combat COVID-19.
-
-      * We are witnessing a**historic race for vaccine development**, both for
-      the speed of trials and the type of vaccine itself (**an approved mRNA
-      vaccine would be the first of its kind**).
+      <div><h2>BIG PICTURE</h2><ul><li>Dozens of potential vaccines are in
+      clinical trials *worldwide* ~ 100+ preclinical development. <strong>In the
+      U.S., three vaccines are in final stage trials.</strong></li><li>More than
+      one vaccine *may* eventually combat COVID-19.</li><li>We are witnessing a
+      <strong>historic race for vaccine development</strong>, both for the speed
+      of trials and the type of vaccine itself (<strong>an approved mRNA vaccine
+      would be the first of its kind</strong>).</li></ul></div>
     _key: 70725a01a218
   - order: 5
     useCheckmark: true
     body: >-
-      We have no way of knowing *if* the participant is reacting to the vaccine
-      or separately ill. While we wait for more info, this once again puts focus
-      on safety/efficacy in the race to a vaccine. This vaccine was thought to
-      be a front-runner. TBD as to what happens next.
+      <div><p>We have no way of knowing *if* the participant is reacting to the
+      vaccine or separately ill. While we wait for more info, this once again
+      puts focus on safety/efficacy in the race to a vaccine. This vaccine was
+      thought to be a front-runner. TBD as to what happens
+      next.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 637d144615f6
 

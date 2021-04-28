@@ -22,65 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## NFL: Players Must Stand
-
-
-      Days ahead of Memorial Day, NFL announces new policy on national anthem.
-      Turns out the ***new*** policy isn’t really ***new***at all.
-
-
-      Why Now?
+      <div><h2>NFL: Players Must Stand</h2><p>Days ahead of Memorial Day, NFL
+      announces new policy on national anthem. Turns out the
+      *<strong>new</strong>* policy isn’t really *<strong>new* </strong>at
+      all.</p><p>Why Now?</p></div>
     _key: card-1-6ca4bb83-1804-4a52-a1b6-d3d9df864d90
   - order: 1
     useCheckmark: false
     body: >-
-      ## Important Context:
-
-
-      * NFL players didn’t always come on the field for the national anthem
-      –**only since 2009.**
-
-      * “New policy” allows players to choose to yet again NOT go on the field
-      for the national anthem.
-
-      * *If* on the field, players must**“stand and show respect”** during the
-      anthem or**face a league fine & possibly a fine from the team.**
+      <div><h2>Important Context:</h2><ul><li>NFL players didn’t always come on
+      the field for the national anthem – <strong>only since
+      2009.</strong></li><li>“New policy” allows players to choose to yet again
+      NOT go on the field for the national anthem.</li><li>*If* on the field,
+      players must <strong>“stand and show respect”</strong> during the anthem
+      or <strong>face a league fine &amp; possibly a fine from the
+      team.</strong></li></ul></div>
     _key: card-2-fb025e2d-5470-4598-8763-ea314a11c827
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why Now?
-
-
-      **NFL:**A “It was unfortunate that on-field protests created a false
-      perception among many that thousands of NFL players were unpatriotic. This
-      is not and was never the case.”  
-
-      **Something To Consider**: Americans are watching less TV overall & NFL
-      viewership has declined by millions since 2015. Some viewers say they
-      boycotted the NFL because of the players on-field protests.
+      <div><h2>Why Now?</h2><p><strong>NFL:</strong>A “It was unfortunate that
+      on-field protests created a false perception among many that thousands of
+      NFL players were unpatriotic. This is not and was never the
+      case.”<br><strong>Something To Consider</strong>: Americans are watching
+      less TV overall &amp; NFL viewership has declined by millions since 2015.
+      Some viewers say they boycotted the NFL because of the players on-field
+      protests.</p></div>
     _key: card-3-f45c36ea-2839-4915-bfca-2b3908eca95e
   - order: 3
     useCheckmark: false
     body: >-
-      > “This is fear of a diminished bottom line. It’s also fear of a president
-      turning his base against a corporation. This is not patriotism. Don’t get
-      it confused.”  
-        
-        
-        
-      Chris Long, Philadelphia Eagles defensive end, responding to the "new
-      policy" via Twitter. Long supports players on-field protests and is an
-      outspoken critic of President Trump.
+      <blockquote>“This is fear of a diminished bottom line. It’s also fear of a
+      president turning his base against a corporation. This is not patriotism.
+      Don’t get it confused.”<br><br><br><br>Chris Long, Philadelphia Eagles
+      defensive end, responding to the "new policy" via Twitter. Long supports
+      players on-field protests and is an outspoken critic of President
+      Trump.</blockquote>
     _key: card-4-2737f074-bd9b-4580-8d1d-ee12b5ff4503
   - order: 4
     useCheckmark: true
     body: >-
-      Different sports have different policies for player etiquette during the
-      national anthem. The NBA has a strict one - and Nascar - none at all.
-
-
-      [view sources](https://smarthernews.com/18-05-23-nfl-new-anthem-policy/)
+      <div><p>Different sports have different policies for player etiquette
+      during the national anthem. The NBA has a strict one - and Nascar - none
+      at all.</p><p><a
+      href="https://smarthernews.com/18-05-23-nfl-new-anthem-policy/">view
+      sources</a></p></div>
     _key: card-10-8654b435-8f75-4362-9296-d8fef2a353e4
 
 ---

@@ -21,65 +21,43 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: "# D-Day June 6, 1944\n\n## 74 YEARS AGO TODAY\n\n> **“Two kinds of people are staying on this beacha\x14the dead and those who are going to die.”**  \nCol. George A. Taylor, commanding the Sixteenth Infantry Regiment, First Infantry Division, on Omaha Beach.\n\nWhy D...Day? Flip"
+    body: "<div><h1>D-Day June 6, 1944</h1><h2>74 YEARS AGO TODAY</h2><blockquote><strong>“Two kinds of people are staying on this beacha\x14the dead and those who are going to die.”</strong><br>Col. George A. Taylor, commanding the Sixteenth Infantry Regiment, First Infantry Division, on Omaha Beach.</blockquote><p>Why D...Day? Flip</p></div>"
     _key: card-1-0daa590c-debc-4ce9-89c2-f14234e919e6
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      * **Largest naval, air & land operation in history.**
-
-      * D-Day allowed the allies (U.S., England, New Zealand, Poland, Australia,
-      etc.) to gain strategic position in Europe vs. Hitler’s Germany.
-
-      * Est. 6,603 Americans died June 6, 1944 (for context: this is more than
-      the total number of Americans killed in the entire Iraq War).
+      <div><h2>Why It Matters</h2><ul><li><strong>Largest naval, air &amp; land
+      operation in history.</strong></li><li>D-Day allowed the allies (U.S.,
+      England, New Zealand, Poland, Australia, etc.) to gain strategic position
+      in Europe vs. Hitler’s Germany.</li><li>Est. 6,603 Americans died June 6,
+      1944 (for context: this is more than the total number of Americans killed
+      in the entire Iraq War).</li></ul></div>
     _key: card-2-5667b0d6-2b23-4207-8ef8-963c93254cea
   - order: 2
     useCheckmark: false
     body: >-
-      # “Operation Overlord”
-
-
-      ## General Eisenhower commanded the invasion.
-
-
-      The invasion involved**5,000 ships,****1,200 planes** and**100,000 ground
-      troops** assaulting bunkered German forces across five beaches code
-      named:A Utah, Omaha, Gold, Juno, and Sword.
-
-
-      Flip: Hitler's Reaction
+      <div><h1>“Operation Overlord”</h1><h2>General Eisenhower commanded the
+      invasion.</h2><p>The invasion involved <strong>5,000 ships,</strong>
+      <strong>1,200 planes</strong> and <strong>100,000 ground troops</strong>
+      assaulting bunkered German forces across five beaches code named:A Utah,
+      Omaha, Gold, Juno, and Sword.</p><p>Flip: Hitler's Reaction</p></div>
     _key: card-3-d23990a9-d4e6-473a-9517-e530e8e3ad0b
   - order: 3
     useCheckmark: false
     body: >-
-      # “Well, is it or isn’t it the invasion?”
-
-
-      ## Adolf Hitler
-
-
-      On the day of the invasion, Hitler slept until noon. His staff was too
-      scared to tell him of the attack.
-
-
-      D-Day signifies the beginning of the end for Hitler.
-
-
-      What's D - in D-Day?
+      <div><h1>“Well, is it or isn’t it the invasion?”</h1><h2>Adolf
+      Hitler</h2><p>On the day of the invasion, Hitler slept until noon. His
+      staff was too scared to tell him of the attack.</p><p>D-Day signifies the
+      beginning of the end for Hitler.</p><p>What's D - in D-Day?</p></div>
     _key: card-4-6facd8b1-9740-4152-b6bc-a2a7ce344144
   - order: 4
     useCheckmark: true
     body: >-
-      From U.S. Army: "D in D-Day merely stands for Day. This coded designation
-      was used for the day of any important invasion or military operation."
-      President Eisenhower had a different take. Read More:
-
-
-      [view sources](https://smarthernews.com/6-6-18-dday-turns-74/)
+      <div><p>From U.S. Army: "D in D-Day merely stands for Day. This coded
+      designation was used for the day of any important invasion or military
+      operation." President Eisenhower had a different take. Read More:</p><p><a
+      href="https://smarthernews.com/6-6-18-dday-turns-74/">view
+      sources</a></p></div>
     _key: card-10-55cf1951-6c04-42c3-ace2-115e65380cac
 
 ---

@@ -22,18 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“God does not say that bad things aren’t going to happen, but He does
-      tell us, when they do, we’re not alone.”_
+      <div><blockquote><em>“God does not say that bad things aren’t going to
+      happen, but He does tell us, when they do, we’re not
+      alone.”</em></blockquote><p></p></div>
     citation: MAYOR MATTHEW STARR
     _key: e107223b7b1a
   - order: 1
     useCheckmark: true
     body: >-
-      Starr, Mayor of Mount Vernon, Ohio offering one perspective about a live
-      Zoom performance featuring famous actors, such as Bill Murray, reading the
-      Book of Job - a Bible story about faith & perseverance during struggle.
-      The event, featured a virtual town hall open to all, intended to spark
-      reflection during 2020.
+      <div><p>Starr, Mayor of Mount Vernon, Ohio offering one perspective about
+      a live Zoom performance featuring famous actors, such as Bill Murray,
+      reading the Book of Job - a Bible story about faith &amp; perseverance
+      during struggle. The event, featured a virtual town hall open to all,
+      intended to spark reflection during 2020.</p><p></p></div>
     citation: VIEW SOURCES
     _key: b50e8f2b61e7
 

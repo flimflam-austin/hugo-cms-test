@@ -22,74 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      FEAR VS. FACT:  
-
-      Shark Week Edition
-
-
-      4 attacks this month & a Great White sighting in California. How worried
-      should you be?
-
-
-      Duh-Nuh, duh-nuh...
+      <div><p>FEAR VS. FACT:<br>Shark Week Edition</p><p>4 attacks this month
+      &amp; a Great White sighting in California. How worried should you
+      be?</p><p>Duh-Nuh, duh-nuh...</p></div>
     _key: card-1-c3019947-7bcf-4d4f-8715-fdb658ef77dc
   - order: 1
     useCheckmark: false
     body: >-
-      1 in 3,748,067:  
-
-      Odds of Dying by Shark
-
-
-      > _"Mosquitos kill far more people than sharks. Family dogs kill far more
-      people than sharks. Maybe 10 people worldwide are killed by sharks (per
-      year)."_  
-        
-        
-        
-      Marie Levine, Shark Research Institute Founder
-
-
-      [CLICK: Odd Shark
-      Odds](https://www.floridamuseum.ufl.edu/shark-attacks/odds/compare-risk/death/)
+      <div><p>1 in 3,748,067:<br>Odds of Dying by
+      Shark</p><blockquote><em>"Mosquitos kill far more people than sharks.
+      Family dogs kill far more people than sharks. Maybe 10 people worldwide
+      are killed by sharks (per year)."</em><br><br><br><br>Marie Levine, Shark
+      Research Institute Founder</blockquote><p><a
+      href="https://www.floridamuseum.ufl.edu/shark-attacks/odds/compare-risk/death/">CLICK:
+      Odd Shark Odds</a></p></div>
     _key: card-2-09e72514-5425-436c-b2fa-0ea9a3350c85
   - order: 2
     useCheckmark: false
     body: >-
-      ## JULY SHARK INCIDENTS:
-
-
-      * **Long Island, NY:**A Two children bit in separate incidents, 4 miles
-      apart.
-
-      * **Fernandina Beach, FL:** Rare double shark attack minutes apart.
-
-      * **San Clemente, CA:** Great white spotted feeding on dead whale.
+      <div><h2>JULY SHARK INCIDENTS:</h2><ul><li><strong>Long Island,
+      NY:</strong>A Two children bit in separate incidents, 4 miles
+      apart.</li><li><strong>Fernandina Beach, FL:</strong> Rare double shark
+      attack minutes apart.</li><li><strong>San Clemente, CA:</strong> Great
+      white spotted feeding on dead whale.</li></ul></div>
     _key: card-3-ca6c0d60-9ac1-4ac2-b6ae-2a51211cac8f
   - order: 3
     useCheckmark: false
     body: >-
-      ## OK, Deep Breath…
-
-
-      * Last year in the US, there were**53 unprovoked, shark attacks**, in line
-      with the 5-year average.
-
-      * **NONE of the attacks were fatal**.
-
-      * Globally, there are** 6 deaths/year on average** due to unprovoked shark
-      attacks, but conservationists point out about 100M sharks & rays are
-      killed each year by fisheries.
+      <div><h2>OK, Deep Breath…</h2><ul><li>Last year in the US, there were
+      <strong>53 unprovoked, shark attacks</strong>, in line with the 5-year
+      average.</li><li><strong>NONE of the attacks were
+      fatal</strong>.</li><li>Globally, there are<strong> 6 deaths/year on
+      average</strong> due to unprovoked shark attacks, but conservationists
+      point out about 100M sharks &amp; rays are killed each year by
+      fisheries.</li></ul></div>
     _key: card-4-0a698a3b-e62c-424b-9afc-912a3607a7e0
   - order: 4
     useCheckmark: true
     body: >-
-      If the long odds of a shark attack don't comfort you, there are a few tips
-      to survive an attack - why "acting big" not "playing dead" is key. Read
-      more here.
-
-
-      [view sources](https://smarthernews.com/18-07-23-shark-week/)
+      <div><p>If the long odds of a shark attack don't comfort you, there are a
+      few tips to survive an attack - why "acting big" not "playing dead" is
+      key. Read more here.</p><p><a
+      href="https://smarthernews.com/18-07-23-shark-week/">view
+      sources</a></p></div>
     _key: card-10-84daddcf-4e11-4eed-bba4-ffdcd4c9157a
 
 ---

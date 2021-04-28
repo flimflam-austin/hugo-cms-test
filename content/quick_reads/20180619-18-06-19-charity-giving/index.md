@@ -22,60 +22,42 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # CHARITABLE RECORD
-
-
-      ## Big Benajamins, But Not From Average Joes.
-
-
-      For the first time, charitable giving topped $400B last year, but it may
-      not be as impressive as it $eems.
-
-
-      Feeling Generous?
+      <div><h1>CHARITABLE RECORD</h1><h2>Big Benajamins, But Not From Average
+      Joes.</h2><p>For the first time, charitable giving topped $400B last year,
+      but it may not be as impressive as it $eems.</p><p>Feeling
+      Generous?</p></div>
     _key: card-1-2fc24654-8e47-4ece-85b4-97d05911fb97
   - order: 1
     useCheckmark: false
     body: >-
-      ## STUDY RESULTS
-
-
-      * **Americans gave $410B to charities last year** vs.A $390B in 2016,
-      according to Giving USA.
-
-      * Credits “booming stock market & a strong economy.”
-
-      * BUT Americans’A**generosity no higher than decades ago** at 2% of
-      disposable income.
-
-      * **Foundation donations up 15%**, driven by mega giftsA Michael Dell
-      ($1B) & Mark Zuckerberg ($2B).
+      <div><h2>STUDY RESULTS</h2><ul><li><strong>Americans gave $410B to
+      charities last year</strong> vs.A $390B in 2016, according to Giving
+      USA.</li><li>Credits “booming stock market &amp; a strong
+      economy.”</li><li>BUT Americans’A <strong>generosity no higher than
+      decades ago</strong> at 2% of disposable
+      income.</li><li><strong>Foundation donations up 15%</strong>, driven by
+      mega giftsA Michael Dell ($1B) &amp; Mark Zuckerberg
+      ($2B).</li></ul></div>
     _key: card-2-0c529f74-452b-4a59-ab42-5f030b40b2ea
   - order: 2
     useCheckmark: false
     body: >-
-      ## WHY IT MATTERS
-
-
-      _"Some people feel they don’t need to give any more."_  
-        
-      Stacy Palmer, Chronicle of Philanthropy, alluding to a drop in giving for
-      lower-income & middle-class families.
-
-
-      * Last year,**$4.1B in mega gifts by individuals** vs. $1.49B in 2016.
-
-      * This as we learn millionaires & billionaires hold almost half of global
-      personal wealth.
+      <div><h2>WHY IT MATTERS</h2><p><em>"Some people feel they don’t need to
+      give any more."</em><br><br>Stacy Palmer, Chronicle of Philanthropy,
+      alluding to a drop in giving for lower-income &amp; middle-class
+      families.</p><ul><li>Last year, <strong>$4.1B in mega gifts by
+      individuals</strong> vs. $1.49B in 2016.</li><li>This as we learn
+      millionaires &amp; billionaires hold almost half of global personal
+      wealth.</li></ul></div>
     _key: card-3-182615ec-2cc6-41cc-ae29-b7b753079b0b
   - order: 3
     useCheckmark: true
     body: >-
-      Need another reason to give? A study last year shows being generous really
-      does make you happier - and may even make you healthier. Click for why.
-
-
-      [view sources](https://smarthernews.com/18-06-19-charity-giving/)
+      <div><p>Need another reason to give? A study last year shows being
+      generous really does make you happier - and may even make you healthier.
+      Click for why.</p><p><a
+      href="https://smarthernews.com/18-06-19-charity-giving/">view
+      sources</a></p></div>
     _key: card-10-67c51517-b84f-4329-94e1-104172dea28e
 
 ---

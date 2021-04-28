@@ -22,67 +22,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Move over Cricket, Baseball is coming to London
-
-
-      The**Boston Red Sox** &**New York Yankees**A *reportedly* close to a deal
-      that would bring the teams to**London** for a two-game series**in 2019**.
-
-
-      WHY THIS IS HISTORIC
+      <div><h1>Move over Cricket, Baseball is coming to London</h1><p>The
+      <strong>Boston Red Sox</strong> &amp; <strong>New York Yankees</strong>A
+      *reportedly* close to a deal that would bring the teams to
+      <strong>London</strong> for a two-game series <strong>in
+      2019</strong>.</p><p>WHY THIS IS HISTORIC</p></div>
     citation: WHY THIS IS HISTORIC
     _key: card-1-dcb70928-fd27-4916-8c8b-4322a4fb7b5c
   - order: 1
     useCheckmark: false
     body: >-
-      # The Yanks are Coming
-
-
-      * This would be the**first MLB game ever played in Europe**.
-
-      * Each player would receive a**$60K bonus** for participating.
-
-      * MLB has previously played in Japan, Australia & Mexico.
-
-      * Commissioner Rob Manfred has expressed a desire to play games in London,
-      this series would lay groundwork for an**annual return**.
+      <div><h1>The Yanks are Coming</h1><ul><li>This would be the <strong>first
+      MLB game ever played in Europe</strong>.</li><li>Each player would receive
+      a <strong>$60K bonus</strong> for participating.</li><li>MLB has
+      previously played in Japan, Australia &amp; Mexico.</li><li>Commissioner
+      Rob Manfred has expressed a desire to play games in London, this series
+      would lay groundwork for an <strong>annual
+      return</strong>.</li></ul></div>
     _key: card-2-23123796-0fc1-42b6-8ec5-1670a8029c8b
   - order: 2
     useCheckmark: false
-    body: |-
-      # Field Of Dreams
-
-      The series is expected to take place at London’s Olympic Park.
-
-      The MLB did host a Home Run Derby last year in London’s Hyde Park.
-
-      ROOT, ROOT, ROOT FOR THE HOME TEAM?
+    body: >-
+      <div><h1>Field Of Dreams</h1><p>The series is expected to take place at
+      London’s Olympic Park.</p><p>The MLB did host a Home Run Derby last year
+      in London’s Hyde Park.</p><p>ROOT, ROOT, ROOT FOR THE HOME TEAM?</p></div>
     citation: ROOT, ROOT, ROOT FOR THE "HOME" TEAM?
     _key: card-3-2af50b1e-5e30-4f6a-9b9d-07bed0327bc8
   - order: 3
     useCheckmark: false
     body: >-
-      # Who Will the Brits Cheer For?
-
-
-      ## Baseball’s Biggest Rivalry: A Tough Choice
-
-
-      The Yanks whose slang moniker may not sit well with those still sore over
-      the Revolutionary War.  
-
-      ***OR***  
-
-      Boston a city that still revels in the Tea Party that got the war started.
+      <div><h1>Who Will the Brits Cheer For?</h1><h2>Baseball’s Biggest Rivalry:
+      A Tough Choice</h2><p>The Yanks whose slang moniker may not sit well with
+      those still sore over the Revolutionary
+      War.<br><strong>*OR*</strong><br>Boston a city that still revels in the
+      Tea Party that got the war started.</p></div>
     _key: card-4-74b04173-969d-4a60-b531-4972812313e7
   - order: 4
     useCheckmark: true
     body: >-
-      Is baseball in London a good business decision? Despite losing money there
-      for the last decade, the NFL says "yes". Here's why:
-
-
-      [view sources](https://smarthernews.com/2018-03-20-usa-baseball-europe/)
+      <div><p>Is baseball in London a good business decision? Despite losing
+      money there for the last decade, the NFL says "yes". Here's why:</p><p><a
+      href="https://smarthernews.com/2018-03-20-usa-baseball-europe/">view
+      sources</a></p></div>
     _key: card-10-09f88cd4-4baf-4275-851a-7e5b391c7ab3
 
 ---

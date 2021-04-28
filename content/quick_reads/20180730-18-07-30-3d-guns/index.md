@@ -22,87 +22,65 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Digital DIY Gunmaking
-
-
-      > Starting**August 1st**, a blueprint for how to build the first fully
-      3D-printed gun (and others) can legally appear online.  
-        
-        
-        
-      Why some worry about a**new threat to pubic safety**, while others say
-      this is a**non-issue**.
-
-
-      What Every Family Should Know
+      <div><h1>Digital DIY Gunmaking</h1><blockquote>Starting <strong>August
+      1st</strong>, a blueprint for how to build the first fully 3D-printed gun
+      (and others) can legally appear online.<br><br><br><br>Why some worry
+      about a <strong>new threat to pubic safety</strong>, while others say this
+      is a <strong>non-issue</strong>.</blockquote><p>What Every Family Should
+      Know</p></div>
     _key: card-1-1357ab5a-8bee-4241-854a-725ef59787c7
   - order: 1
     useCheckmark: false
     body: >-
-      ## What’s the Backstory?
-
-
-      * In 2015, Cody WilsonA sued after gov’t ordered him to remove online
-      blueprints for “The Liberator,” the world’s first fully 3D-printable gun.
-
-      * Gov’t said blueprints violated export laws, a nat’l security threat.
-
-      * Wilson argued his 1st & 2nd amendment rights (free speech & bear arms)
-      were violated & won.
-
-      * Settlement reached in June.
+      <div><h2>What’s the Backstory?</h2><ul><li>In 2015, Cody WilsonA sued
+      after gov’t ordered him to remove online blueprints for “The Liberator,”
+      the world’s first fully 3D-printable gun.</li><li>Gov’t said blueprints
+      violated export laws, a nat’l security threat.</li><li>Wilson argued his
+      1st &amp; 2nd amendment rights (free speech &amp; bear arms) were violated
+      &amp; won.</li><li>Settlement reached in June.</li></ul></div>
     _key: card-2-12746df8-0621-40a3-b6b5-df2956a92d0e
   - order: 2
     useCheckmark: false
     body: >-
-      ## What This Means:
-
-
-      * Legal settlement allows Wilson to post his blueprints online; blueprints
-      instruct how to print parts to build the gun.
-
-      * Blueprints includeA**single-shot pistol**A toA**AR-15 semiautomatic.A**
-
-      * 3D-printed guns**A untraceable**A (no system in place to assign serial
-      numbers to 3D-printed firearms)A & therefore, owner**not subject to
-      background checks.**
+      <div><h2>What This Means:</h2><ul><li>Legal settlement allows Wilson to
+      post his blueprints online; blueprints instruct how to print parts to
+      build the gun.</li><li>Blueprints includeA <strong>single-shot
+      pistol</strong>A toA <strong>AR-15
+      semiautomatic.A</strong></li><li>3D-printed guns<strong>A
+      untraceable</strong>A (no system in place to assign serial numbers to
+      3D-printed firearms)A &amp; therefore, owner <strong>not subject to
+      background checks.</strong></li></ul></div>
     _key: card-3-1809be2d-147b-411d-b6f4-4e0cfdd5a62c
   - order: 3
     useCheckmark: false
     body: >-
-      **_"…would enable convicted felons & domestic abusers to download
-      schematics online & print their own illegal & untraceable guns.”_**  
-
-      Nick Suplina, Everytown for Gun Safety Managing Director  
-        
-      **_"I don’t see it likely at all that criminals will use this clunky and
-      expensive technology.”_**  
-
-      Lawrence Keane,A National Shooting Sports FoundationA general counsel
+      <p><strong><em>"…would enable convicted felons &amp; domestic abusers to
+      download schematics online &amp; print their own illegal &amp; untraceable
+      guns.”</em></strong><br>Nick Suplina, Everytown for Gun Safety Managing
+      Director<br><br><strong><em>"I don’t see it likely at all that criminals
+      will use this clunky and expensive technology.”</em></strong><br>Lawrence
+      Keane,A National Shooting Sports FoundationA general counsel</p>
     _key: card-4-d229b100-b3fe-4f1d-92bd-317fa8eabe2f
   - order: 4
     useCheckmark: false
     body: >-
-      ## What is the TRUE threat?
-
-
-      * **No known crimes committed by 3D-printed guns** & questionable
-      efficiency; some say 3D-printed guns will explode in user’s face after one
-      shot. Critics argue technology will get better & less expensive
-
-      * **COST:**A 3D Printers cost**$5K – $600K.** A standard gun costs**only a
-      few hundred of dollars**.
+      <div><h2>What is the TRUE threat?</h2><ul><li><strong>No known crimes
+      committed by 3D-printed guns</strong> &amp; questionable efficiency; some
+      say 3D-printed guns will explode in user’s face after one shot. Critics
+      argue technology will get better &amp; less
+      expensive</li><li><strong>COST:</strong>A 3D Printers cost <strong>$5K –
+      $600K.</strong> A standard gun costs <strong>only a few hundred of
+      dollars</strong>.</li></ul></div>
     _key: card-5-867bd179-8f8c-4357-ad98-786183ccbe54
   - order: 5
     useCheckmark: true
     body: >-
-      What's next? Philadelphia was the 1st city to ban 3D gun printing now
-      others are rushing to follow suit. Gun control advocates attempted to
+      <div><p>What's next? Philadelphia was the 1st city to ban 3D gun printing
+      now others are rushing to follow suit. Gun control advocates attempted to
       block the blueprints from being released, but did not succeed. Read more
-      on our source page: SmartHERNews.com.
-
-
-      [view sources](https://smarthernews.com/18-07-30-3d-guns/)
+      on our source page: SmartHERNews.com.</p><p><a
+      href="https://smarthernews.com/18-07-30-3d-guns/">view
+      sources</a></p></div>
     _key: card-10-16fa9e68-b01f-4351-b13f-1989a1982ac5
 
 ---

@@ -21,87 +21,55 @@ colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: "“Free Speech”  \nInfo War?\n\n> a\x18Infowars’A founder Alex Jones faces several defamation lawsuits, while social media platforms remove some of his content. When is opinion no longer FREE SPEECH?"
+    body: "<div><p>“Free Speech”<br>Info War?</p><blockquote>a\x18Infowars’A founder Alex Jones faces several defamation lawsuits, while social media platforms remove some of his content. When is opinion no longer FREE SPEECH?</blockquote></div>"
     _key: card-1-92bf8430-47a8-48cb-a4b5-119b04e100ec
   - order: 1
     useCheckmark: false
     body: >-
-      ## Defamation Suits
-
-
-      Two of the lawsuits were filed by parents of**Sandy Hook** victims who say
-      they suffered threats & emotional distress due to Jones’ conspiracy theory
-      about the**2012 school shooting being a hoax**.
-
-
-      Jones since recanted, but says his words are protected because he is
-      a**commentator** offering his**opinion**.
-
-
-      A LOOK AT THE LAW
+      <div><h2>Defamation Suits</h2><p>Two of the lawsuits were filed by parents
+      of <strong>Sandy Hook</strong> victims who say they suffered threats &amp;
+      emotional distress due to Jones’ conspiracy theory about the <strong>2012
+      school shooting being a hoax</strong>.</p><p>Jones since recanted, but
+      says his words are protected because he is a <strong>commentator</strong>
+      offering his <strong>opinion</strong>.</p><p>A LOOK AT THE LAW</p></div>
     _key: card-2-29fa032e-da6b-4a36-ba32-f301f2f25061
   - order: 2
     useCheckmark: false
     body: >-
-      FREE SPEECH…  
-
-      Is Not Without Exceptions
-
-
-      **Some types of speech have limited or no First Amendment protection,
-      including:**
-
-
-      * Obscene language
-
-      * Words likely to incite a breach of peace / violence
-
-      * **Defamatory statements**
+      <div><p>FREE SPEECH…<br>Is Not Without Exceptions</p><p><strong>Some types
+      of speech have limited or no First Amendment protection,
+      including:</strong></p><ul><li>Obscene language</li><li>Words likely to
+      incite a breach of peace / violence</li><li><strong>Defamatory
+      statements</strong></li></ul></div>
     _key: card-3-2dc1a3d2-97d8-4f6b-b3b8-ec817c1b095c
   - order: 3
     useCheckmark: false
     body: >-
-      # Defamation Law
-
-
-      Plaintiff argues their reputation was harmed by defendant’s false
-      statement about them.
-
-
-      * False statement & those made “with reckless disregard of the truth” =
-      defamatory
-
-      * True statement =A non-defamatory
-
-      * **Opinion statement** = non-defamatory IF it can be proven false
-      [**Jones’ defense**]
+      <div><h1>Defamation Law</h1><p>Plaintiff argues their reputation was
+      harmed by defendant’s false statement about them.</p><ul><li>False
+      statement &amp; those made “with reckless disregard of the truth” =
+      defamatory</li><li>True statement =A
+      non-defamatory</li><li><strong>Opinion statement</strong> = non-defamatory
+      IF it can be proven false [<strong>Jones’
+      defense</strong>]</li></ul></div>
     _key: card-4-f6488f45-8ece-43de-b318-dfe3162679c2
   - order: 4
     useCheckmark: false
     body: >-
-      # Why This Matters Beyond Jones:
-
-
-      New technology is like the Wild West.
-
-
-      Anyone can reach millions.
-
-
-      The law hasn’t caught up to new communities or new voices made possible by
-      this technology. How the law will evolve in this new era is still a
-      question.
+      <div><h1>Why This Matters Beyond Jones:</h1><p>New technology is like the
+      Wild West.</p><p>Anyone can reach millions.</p><p>The law hasn’t caught up
+      to new communities or new voices made possible by this technology. How the
+      law will evolve in this new era is still a question.</p></div>
     _key: card-5-3ed2ff76-4c62-4406-bb78-6150b91c78a2
   - order: 5
     useCheckmark: true
     body: >-
-      Facebook, YouTube, Apple & Spotify recently removed some of Jones' content
-      from their platforms for violating hate speech or bullying policies.
-      Twitter did not. Why all the platforms decided to take action now, when
-      Jones has posted for years, is unclear.
-
-
-      [view sources](https://smarthernews.com/18-08-09-alex-jones/)
+      <div><p>Facebook, YouTube, Apple &amp; Spotify recently removed some of
+      Jones' content from their platforms for violating hate speech or bullying
+      policies. Twitter did not. Why all the platforms decided to take action
+      now, when Jones has posted for years, is unclear.</p><p><a
+      href="https://smarthernews.com/18-08-09-alex-jones/">view
+      sources</a></p></div>
     _key: card-10-1070fbfb-fdda-4505-a24c-cff834daf9db
 
 ---

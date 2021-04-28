@@ -22,75 +22,47 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Unsolved Mystery
-
-
-
-
-      ## Deadliest Shooting In Modern America History
-
-
-      Autopsy for Las Vegas murderer released to Associated Press/Las Vegas
-      Review-Journal who filed lawsuit for access.
-
-
-      Flip Here
+      <div><p>Unsolved Mystery</p><p></p><h2>Deadliest Shooting In Modern
+      America History</h2><p>Autopsy for Las Vegas murderer released to
+      Associated Press/Las Vegas Review-Journal who filed lawsuit for
+      access.</p><p>Flip Here</p></div>
     _key: card-1-aec0374f-235b-4d35-8b8d-9b51308c35d0
   - order: 1
     useCheckmark: false
-    body: |-
-      # What We Learned From Autopsy
-
-      ## Las Vegas Murderer
-
-      * No major drugs in system.
-      * No clear physiological issues.
-      * No further clarity on motive.
+    body: >-
+      <div><h1>What We Learned From Autopsy</h1><h2>Las Vegas
+      Murderer</h2><ul><li>No major drugs in system.</li><li>No clear
+      physiological issues.</li><li>No further clarity on
+      motive.</li></ul></div>
     _key: card-2-8114660f-23e6-4dc3-9ee6-47628c0c3816
   - order: 2
     useCheckmark: false
     body: >-
-      # Searching For Answers
-
-
-      > "With a good deal of screening, I didn’t see anything."  
-        
-        
-      Dr. Hannes Vogel, Dir. of Neuropathology Stanford University to NYT about
-      examining shooter's brain.
+      <div><h1>Searching For Answers</h1><blockquote>"With a good deal of
+      screening, I didn’t see anything."<br><br><br>Dr. Hannes Vogel, Dir. of
+      Neuropathology Stanford University to NYT about examining shooter's
+      brain.</blockquote></div>
     _key: card-3-bba13363-d9a3-4460-be47-c7520f12fb20
   - order: 3
     useCheckmark: false
-    body: |-
-      # Why It Matters
-
-      Many crucial unanswered questions remain for this morbidly historic crime:
-
-      “Why did he do it?”
-
-      “How did he plan it?”
-
-      “Did he have help?”
+    body: >-
+      <div><h1>Why It Matters</h1><p>Many crucial unanswered questions remain
+      for this morbidly historic crime:</p><p>“Why did he do it?”</p><p>“How did
+      he plan it?”</p><p>“Did he have help?”</p></div>
     _key: card-4-48c50bcf-b52e-4fde-abc2-b2eb45e22be8
   - order: 4
     useCheckmark: false
     body: >-
-      # Las Vegas Shooting
-
-
-      ## Oct 1, 2017
-
-
-      * 58 people killed
-
-      * 800 +A injured
-
-      * Deadliest shooting in modern American history – “modern” refers to
-      recent data collection.
+      <div><h1>Las Vegas Shooting</h1><h2>Oct 1, 2017</h2><ul><li>58 people
+      killed</li><li>800 +A injured</li><li>Deadliest shooting in modern
+      American history – “modern” refers to recent data
+      collection.</li></ul></div>
     _key: card-5-0758bc8d-3fd9-4e91-9e63-5781955a8ef3
   - order: 5
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-02-12-las-vegas-shooter/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-02-12-las-vegas-shooter/">view
+      sources</a></p>
     _key: card-10-2ea969ca-085a-413e-b7ba-03be5208429f
 
 ---

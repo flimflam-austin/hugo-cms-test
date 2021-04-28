@@ -20,17 +20,20 @@ colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: '> _“Perseverance will get you anywhere.”_'
+    body: >-
+      <div><blockquote><em>“Perseverance will get you
+      anywhere.”</em></blockquote><p></p></div>
     citation: NASA
     _key: 41041a7ac8b3
   - order: 1
     useCheckmark: true
     body: >-
-      "I’m safe on Mars," NASA's Mars rover "Perseverance" from its Twitter
-      account. The successful landing of "Percy" (the spacecraft's nickname)
-      begins a two-year mission on the Red Planet, incl. a search for signs of
-      ancient former life in areas scientists believe water flowed billions of
-      years ago. The soonest we'll see Mars samples back here on Earth? 2031.
+      <div><p>"I’m safe on Mars," NASA's Mars rover "Perseverance" from its
+      Twitter account. The successful landing of "Percy" (the spacecraft's
+      nickname) begins a two-year mission on the Red Planet, incl. a search for
+      signs of ancient former life in areas scientists believe water flowed
+      billions of years ago. The soonest we'll see Mars samples back here on
+      Earth? 2031.</p><p></p></div>
     citation: VIEW SOURCES
     _key: b1636782996f
 

@@ -22,68 +22,46 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # SUPREME COURT SHOWDOWN
-
-
-      Pres. Trump announced his Judge Brett Kavanaugh as his nominee for the
-      high court – here’s a look at what happens next …
-
-
-      Let the games begin!
+      <div><h1>SUPREME COURT SHOWDOWN</h1><p>Pres. Trump announced his Judge
+      Brett Kavanaugh as his nominee for the high court – here’s a look at what
+      happens next …</p><p>Let the games begin!</p></div>
     _key: card-1-0b0f9db9-44ab-4384-9c64-e305aa4609e6
   - order: 1
     useCheckmark: false
     body: >-
-      ## ROUND I: Senate Judiciary Committee Hearings
-
-
-      * Nominee submits a questionnaire & other records to Senate.
-
-      * During open (public) hearings, the cmte asks the nominee about their
-      judicial philosophy to get an idea of how they *might* rule.
-
-      * Next, the cmte sends a recommendation on whether or not to confirm the
-      nominee to the full Senate.
+      <div><h2>ROUND I: Senate Judiciary Committee Hearings</h2><ul><li>Nominee
+      submits a questionnaire &amp; other records to Senate.</li><li>During open
+      (public) hearings, the cmte asks the nominee about their judicial
+      philosophy to get an idea of how they *might* rule.</li><li>Next, the cmte
+      sends a recommendation on whether or not to confirm the nominee to the
+      full Senate.</li></ul></div>
     _key: card-2-bf07e6cb-6b11-4c24-b3fd-1ea984b12340
   - order: 2
     useCheckmark: false
     body: >-
-      ROUND II:  
-
-      Senate Debate & Vote
-
-
-      * The Senate debates the nomination during closed proceedings; this is not
-      public.
-
-      * In order to end debate and move to the confirmation vote, 50 votes are
-      needed.
-
-      * Once debate is over, the Senate votes on whether to confirm the nominee
-      – a simple majority is required to confirm the nominee.
+      <div><p>ROUND II:<br>Senate Debate &amp; Vote</p><ul><li>The Senate
+      debates the nomination during closed proceedings; this is not
+      public.</li><li>In order to end debate and move to the confirmation vote,
+      50 votes are needed.</li><li>Once debate is over, the Senate votes on
+      whether to confirm the nominee – a simple majority is required to confirm
+      the nominee.</li></ul></div>
     _key: card-3-5b015f5f-3796-4fb5-81bf-3d39bacae065
   - order: 3
     useCheckmark: false
     body: >-
-      **What if there’s a tie?**  
-
-      As the head of the Senate, Vice President Mike Pence would cast the
-      deciding vote.
-
-
-      **How long will it take?**  
-
-      Since 1975, the process from nomination to final vote has taken anywhere
-      from 19 to 87 days.
+      <div><p><strong>What if there’s a tie?</strong><br>As the head of the
+      Senate, Vice President Mike Pence would cast the deciding
+      vote.</p><p><strong>How long will it take?</strong><br>Since 1975, the
+      process from nomination to final vote has taken anywhere from 19 to 87
+      days.</p></div>
     _key: card-4-14f44df2-4c7b-48eb-a8ba-f04376266cef
   - order: 4
     useCheckmark: true
     body: >-
-      ALL ABOUT JUDGE BRETT KAVANAUGH:
-      https://smarthernews.com/kavanaugh-on-the-issues/
-
-
-      [view sources](https://smarthernews.com/18-07-09-scotus-new-justice-pick/)
+      <div><p>ALL ABOUT JUDGE BRETT KAVANAUGH:
+      https://smarthernews.com/kavanaugh-on-the-issues/</p><p><a
+      href="https://smarthernews.com/18-07-09-scotus-new-justice-pick/">view
+      sources</a></p></div>
     _key: card-10-6f10d2c7-c984-497b-b0b6-844d1ed69bf6
 
 ---

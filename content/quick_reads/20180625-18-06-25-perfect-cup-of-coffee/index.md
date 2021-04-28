@@ -22,75 +22,46 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Predicting Your Perfect Cup Of Coffee
-
-
-      New study finds the EXACT moment coffee will benefit YOU the most (and
-      your best serving size).
-
-
-      Flip - How?
+      <div><h2>Predicting Your Perfect Cup Of Coffee</h2><p>New study finds the
+      EXACT moment coffee will benefit YOU the most (and your best serving
+      size).</p><p>Flip - How?</p></div>
     _key: card-1-7e7f2e9e-b1e8-4a6e-8b75-d0a5315e0a5f
   - order: 1
     useCheckmark: false
     body: >-
-      # Why Study This?
-
-
-      ## Researchers Say:
-
-
-      * 1/3 of Americans experience sleep loss.
-
-      * Sleep loss impacts our performance and quality of life.
-
-      * Caffiene can boost our performance when used correctly – so they
-      developed “an app for that.”
-
-
-
-
-      How It Works
+      <div><h1>Why Study This?</h1><h2>Researchers Say:</h2><ul><li>1/3 of
+      Americans experience sleep loss.</li><li>Sleep loss impacts our
+      performance and quality of life.</li><li>Caffiene can boost our
+      performance when used correctly – so they developed “an app for
+      that.”</li></ul><p></p><p>How It Works</p></div>
     _key: card-2-07c8daca-e7e4-448a-a5d8-cc37ba96397c
   - order: 2
     useCheckmark: false
     body: >-
-      ## How Does It Work?
-
-
-      The app uses an algorithim that considers your sleep cycle and how much
-      caffeine you plan to consume – and then spits out what you should drink
-      and when.
-
-
-      Researchers found users upgraded their performance by more than 60% &
-      ironically reduced their caffeine consumption by more than 60%.
+      <div><h2>How Does It Work?</h2><p>The app uses an algorithim that
+      considers your sleep cycle and how much caffeine you plan to consume – and
+      then spits out what you should drink and when.</p><p>Researchers found
+      users upgraded their performance by more than 60% &amp; ironically reduced
+      their caffeine consumption by more than 60%.</p></div>
     _key: card-3-42698632-a78b-4766-a6f7-8c4a33f035ba
   - order: 3
     useCheckmark: false
     body: >-
-      ## Cappucino?
-
-
-      * 6 out of 10 Americans drink coffee daily – this has held steady over the
-      last several years.
-
-      * Coffee drinkers consume nearly 3 cups on avg. every day.
-
-      * Women drink_slightly_ more coffee than men.
-
-      * Previous Research: 500 mg of caffeine (2 cups of coffee) or lower = best
-      health benefits.
+      <div><h2>Cappucino?</h2><ul><li>6 out of 10 Americans drink coffee daily –
+      this has held steady over the last several years.</li><li>Coffee drinkers
+      consume nearly 3 cups on avg. every day.</li><li>Women drink
+      <em>slightly</em> more coffee than men.</li><li>Previous Research: 500 mg
+      of caffeine (2 cups of coffee) or lower = best health
+      benefits.</li></ul></div>
     _key: card-4-bea8fc6b-d1c6-45a1-b68d-ecd4779fbc9b
   - order: 4
     useCheckmark: true
     body: >-
-      This study mentions sleep loss as a problem for performance for both
-      civilians and the military. One of the head researchers works for the
-      Dept. of Defense. Read more on the health benefits of coffee:
-
-
-      [view sources](https://smarthernews.com/18-06-25-perfect-cup-of-coffee/)
+      <div><p>This study mentions sleep loss as a problem for performance for
+      both civilians and the military. One of the head researchers works for the
+      Dept. of Defense. Read more on the health benefits of coffee:</p><p><a
+      href="https://smarthernews.com/18-06-25-perfect-cup-of-coffee/">view
+      sources</a></p></div>
     _key: card-10-376b635c-4017-4a97-b031-78d19d55bd50
 
 ---

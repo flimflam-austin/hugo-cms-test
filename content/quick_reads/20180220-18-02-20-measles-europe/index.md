@@ -21,105 +21,68 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      Measles Outbreak Europe
-
-      ## 400% Increase In Cases
-
-      > “…a tragedy we simply cannot accept.’  
-        
-      Dr. Zsuzsanna Jakab, WHO Regional Director for Europe, Feb 19, 2018
-
-      Flip Here
+    body: >-
+      <div><p>Measles Outbreak Europe</p><h2>400% Increase In
+      Cases</h2><blockquote>“…a tragedy we simply cannot accept.’<br><br>Dr.
+      Zsuzsanna Jakab, WHO Regional Director for Europe, Feb 19,
+      2018</blockquote><p>Flip Here</p></div>
     _key: card-1-3a19e19d-604e-42c7-b121-0f938401c9d7
   - order: 1
     useCheckmark: false
     body: >-
-      # Why This Matters
-
-
-      * Measles is a**highly contagious** and potentially deadly disease.
-
-      * Unlike some deadly diseases, an effective**vaccine is available**.
-
-      * Two doses of vaccine is about**97% effective**, according to CDC.
-
-      * Notable: 2017 spike in measles cases came after a record low year of
-      cases in 2016.
-
-
-
-
-      FLIP HERE FOR MORE
+      <div><h1>Why This Matters</h1><ul><li>Measles is a <strong>highly
+      contagious</strong> and potentially deadly disease.</li><li>Unlike some
+      deadly diseases, an effective <strong>vaccine is
+      available</strong>.</li><li>Two doses of vaccine is about <strong>97%
+      effective</strong>, according to CDC.</li><li>Notable: 2017 spike in
+      measles cases came after a record low year of cases in
+      2016.</li></ul><p></p><p>FLIP HERE FOR MORE</p></div>
     _key: card-2-64d387ce-61c5-4eff-a33d-04ef072574d5
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why Is This Happening?
-
-
-      > “The spread of measles across Europe is due to suboptimal vaccination
-      coverage in many EU/EEA countries.”  
-        
-        
-        
-      European Centre for Disease Prevention and Control, Jan 12, 2018
+      <div><h2>Why Is This Happening?</h2><blockquote>“The spread of measles
+      across Europe is due to suboptimal vaccination coverage in many EU/EEA
+      countries.”<br><br><br><br>European Centre for Disease Prevention and
+      Control, Jan 12, 2018</blockquote></div>
     _key: card-3-33980f4c-2a39-4ebe-bfc6-348f542d94a4
   - order: 3
     useCheckmark: false
     body: >-
-      ## 4 Reasons For Measles EU Outbreak
-
-
-      * Overall decline in immunizations
-
-      * Interruptions in vaccine supply
-
-      * Poor disease surveillance systems
-
-      * Low rates of vaccination among “marginalized groups” (WHO does not
-      specfically define this group)
+      <div><h2>4 Reasons For Measles EU Outbreak</h2><ul><li>Overall decline in
+      immunizations</li><li>Interruptions in vaccine supply</li><li>Poor disease
+      surveillance systems</li><li>Low rates of vaccination among “marginalized
+      groups” (WHO does not specfically define this
+      group)</li></ul><p></p></div>
     citation: World Health Organization
     _key: card-4-b185d231-d138-47e0-bfc2-7e35d5661e88
   - order: 4
     useCheckmark: false
-    body: |-
-      ## The Data: Measles in Europe
-
-      **2017: 21,315 cases & 35 deaths**
-
-      **2016:** 5,273 cases *record low*A & 13 deaths
-
-      1 in 4 European countries with large outbreaks (100+ cases)
-
-      Top Three Countries Impacted: Romania, Italy & Ukraine
+    body: >-
+      <div><h2>The Data: Measles in Europe</h2><p><strong>2017: 21,315 cases
+      &amp; 35 deaths</strong></p><p><strong>2016:</strong> 5,273 cases *record
+      low*A &amp; 13 deaths</p><p>1 in 4 European countries with large outbreaks
+      (100+ cases)</p><p>Top Three Countries Impacted: Romania, Italy &amp;
+      Ukraine</p></div>
     _key: card-5-268ec4c0-15b4-48dd-a431-4d47bdabd42b
   - order: 5
     useCheckmark: false
     body: >-
-      # U.S. Measles Cases
-
-
-      ## What You Should Know
-
-
-      * In January, there wereA**9 measles cases** inA 4 states: Arkansas,
-      Illinois, Indiana, & Texas.
-
-      * **118 cases** nationwide in 2017.
-
-      * In 2000, U.S. declared measles “**eliminated**” (no major transmissions
-      of disease for at least a year) due to a highly effective vaccination
-      program.
+      <div><h1>U.S. Measles Cases</h1><h2>What You Should Know</h2><ul><li>In
+      January, there wereA <strong>9 measles cases</strong> inA 4 states:
+      Arkansas, Illinois, Indiana, &amp; Texas.</li><li><strong>118
+      cases</strong> nationwide in 2017.</li><li>In 2000, U.S. declared measles
+      “<strong>eliminated</strong>” (no major transmissions of disease for at
+      least a year) due to a highly effective vaccination
+      program.</li></ul></div>
     _key: card-6-5364ca0d-400f-4052-b308-13c0309c438d
   - order: 6
     useCheckmark: true
     body: >-
-      Ease of travel, under vaccinated communities - all potential factors in
-      spread of measles. Read More:
-
-
-      [view sources](https://smarthernews.com/18-02-20-measles-europe/)
+      <div><p>Ease of travel, under vaccinated communities - all potential
+      factors in spread of measles. Read More:</p><p><a
+      href="https://smarthernews.com/18-02-20-measles-europe/">view
+      sources</a></p></div>
     _key: card-10-7979cfda-6b41-4d73-91a6-b1dbeac7776d
 
 ---

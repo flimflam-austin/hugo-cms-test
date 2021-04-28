@@ -20,77 +20,59 @@ colorpaletteclassname: '--bronze'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # PUMPKIN SPICE
-
-      America’s fall flavor just got some new additions.
-
-      Context for the craze.
+    body: >-
+      <div><h1>PUMPKIN SPICE</h1><p>America’s fall flavor just got some new
+      additions.</p><p>Context for the craze.</p></div>
     _key: 9f8ad23b81cc
   - order: 1
     useCheckmark: false
     body: >-
-      ## BACKSTORY
-
-
-      * First “pumpkin spice” reference dates back to 1796, but it wasn’t until
-      1934 that McCormick & Co. brought Pumpkin Spice to store shelves.
-
-      * McCormick uses cinnamon, ginger, nutmeg & allspice – but**no pumpkin**.
-
-      * Starbucks debuted the Pumpkin Spice Latte (“PSL”), which features
-      cinnamon, nutmeg, clove (and, recently, pumpkin) in 2003. It’s credited w/
-      the pumpkin spice craze we’re familiar with today.
+      <div><h2>BACKSTORY</h2><ul><li>First “pumpkin spice” reference dates back
+      to 1796, but it wasn’t until 1934 that McCormick &amp; Co. brought Pumpkin
+      Spice to store shelves.</li><li>McCormick uses cinnamon, ginger, nutmeg
+      &amp; allspice – but <strong>no pumpkin</strong>.</li><li>Starbucks
+      debuted the Pumpkin Spice Latte (“PSL”), which features cinnamon, nutmeg,
+      clove (and, recently, pumpkin) in 2003. It’s credited w/ the pumpkin spice
+      craze we’re familiar with today.</li></ul></div>
     _key: 4efe41602f8d
   - order: 2
     useCheckmark: false
     body: >-
-      ## ORIGINS
-
-
-      > “Nobody knew back then what it would grow to be… It’s taken on a life of
-      its own.”  
-        
-      Peter Dukes, the leader of the Starbucks team that created the Pumpkin
-      Spice Latte. As of Aug 2019, Starbucks had sold over 424 million Pumpkin
-      Spice Lattes. The signature drink had its earliest release date ever this
-      year, on August 25th.
+      <div><h2>ORIGINS</h2><blockquote>“Nobody knew back then what it would grow
+      to be… It’s taken on a life of its own.”<br><br>Peter Dukes, the leader of
+      the Starbucks team that created the Pumpkin Spice Latte. As of Aug 2019,
+      Starbucks had sold over 424 million Pumpkin Spice Lattes. The signature
+      drink had its earliest release date ever this year, on August
+      25th.</blockquote></div>
     _key: 7810c8e6eb8e
   - order: 3
     useCheckmark: false
     body: >-
-      ## PUMPKIN $PICE
-
-
-      * Americans spent over**$511M** on pumpkin-spice flavored grocery items
-      from 2018 to 2019, a new all-time high.
-
-      * In recent years the craze has expanded from pumpkin-spice
-      flavored**spam** &**dog food** to pumpkin-spice scented**deodorant**.
-
-      * This year’s latest pumpkin-spice food go-to? Kraft**macaroni and
-      cheese**.
+      <div><h2>PUMPKIN $PICE</h2><ul><li>Americans spent over
+      <strong>$511M</strong> on pumpkin-spice flavored grocery items from 2018
+      to 2019, a new all-time high.</li><li>In recent years the craze has
+      expanded from pumpkin-spice flavored <strong>spam</strong> &amp;
+      <strong>dog food</strong> to pumpkin-spice scented
+      <strong>deodorant</strong>.</li><li>This year’s latest pumpkin-spice food
+      go-to? Kraft <strong>macaroni and cheese</strong>.</li></ul></div>
     _key: 8c9a44946578
   - order: 4
     useCheckmark: false
     body: >-
-      ## WHY IT MATTERS
-
-
-      > “Pumpkin spice seems to have taken off to an unusual degree, perhaps
-      because it has such nostalgic connections to an element of American
-      culture that we are increasingly afraid of losing touch with.”  
-        
-      Professor Montana Miller, Bowling Green State University, on why the
-      pumpkin spice craze resonates with so many Americans.
+      <div><h2>WHY IT MATTERS</h2><blockquote>“Pumpkin spice seems to have taken
+      off to an unusual degree, perhaps because it has such nostalgic
+      connections to an element of American culture that we are increasingly
+      afraid of losing touch with.”<br><br>Professor Montana Miller, Bowling
+      Green State University, on why the pumpkin spice craze resonates with so
+      many Americans.</blockquote></div>
     _key: 419d2d99addd
   - order: 5
     useCheckmark: true
     body: >-
-      WANT TO MAKE YOUR OWN PUMPKIN SPICE LATTE? Check out the super simple (and
-      smarter) recipe above you can make at home to avoid the crowds amid COVID,
-      using the individual specialized ingredients (from cardamom to clove) or
-      pumpkin pie spice.
+      <div><p>WANT TO MAKE YOUR OWN PUMPKIN SPICE LATTE? Check out the super
+      simple (and smarter) recipe above you can make at home to avoid the crowds
+      amid COVID, using the individual specialized ingredients (from cardamom to
+      clove) or pumpkin pie spice.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 321651a407df
 

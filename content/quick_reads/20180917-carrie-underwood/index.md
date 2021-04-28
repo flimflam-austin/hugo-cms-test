@@ -22,20 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“I’ve had a good life, and you can’t win all the time. You gotta have
-      some downs to realize when you’re up.”_
+      <div><blockquote><em>“I’ve had a good life, and you can’t win all the
+      time. You gotta have some downs to realize when you’re
+      up.”</em></blockquote><p></p></div>
     citation: CARRIE UNDERWOOD
     _key: card-1-79ba481d-cdaa-4dba-bbd7-5d682b899d70
   - order: 1
     useCheckmark: true
     body: >-
-      The "Cry Pretty" singer revealing her pain suffering 3 miscarriages over
-      the last 2 years. Underwood (35) shares a son Isaiah (3) with husband Mike
-      Fisher and has a baby on the way. She's won 7 Grammys & gets a Hollywood
-      Star this Thursday.
-
-
-      [view sources](https://smarthernews.com/carrie-underwood/)
+      <div><p>The "Cry Pretty" singer revealing her pain suffering 3
+      miscarriages over the last 2 years. Underwood (35) shares a son Isaiah (3)
+      with husband Mike Fisher and has a baby on the way. She's won 7 Grammys
+      &amp; gets a Hollywood Star this Thursday.</p><p><a
+      href="https://smarthernews.com/carrie-underwood/">view
+      sources</a></p></div>
     _key: card-10-0445b1b9-b522-4125-b3d0-b79efdc08f30
 
 ---

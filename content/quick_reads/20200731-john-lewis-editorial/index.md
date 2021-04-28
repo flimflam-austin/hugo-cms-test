@@ -22,18 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“I urge you to answer the highest calling of your heart and stand up
-      for what you truly believe…Now it is your turn to let freedom ring.”_
+      <div><blockquote><em>“I urge you to answer the highest calling of your
+      heart and stand up for what you truly believe…Now it is your turn to let
+      freedom ring.”</em></blockquote><p></p></div>
     citation: JOHN LEWIS
     _key: 21bf63590249
   - order: 1
     useCheckmark: true
     body: >-
-      Congressman Lewis wrote an essay shortly before his death for The New York
-      Times to publish on the day of his funeral, which took place today in
-      Atlanta: "In my life I have done all I can to demonstrate that the way of
-      peace, the way of love and nonviolence is the more excellent way." Read
-      More:
+      <div><p>Congressman Lewis wrote an essay shortly before his death for The
+      New York Times to publish on the day of his funeral, which took place
+      today in Atlanta: "In my life I have done all I can to demonstrate that
+      the way of peace, the way of love and nonviolence is the more excellent
+      way." Read More:</p><p></p></div>
     citation: VIEW SOURCES
     _key: 520bf8332278
 

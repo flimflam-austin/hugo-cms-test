@@ -22,66 +22,58 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # What Are We Learning?
-
-
-      A closer look at the CDC’s newest report on the sickest COVID-19 patients
-      in the U.S.
+      <div><h1>What Are We Learning?</h1><p>A closer look at the CDC’s newest
+      report on the sickest COVID-19 patients in the U.S.</p><p><br></p></div>
     _key: f104bd5e7dc5
   - order: 1
     useCheckmark: false
     body: >-
-      **90% of adults hospitalized had one or more pre-existing condition**
-
-
-      The CDC looked at hospitalizations across 14 states in March. The most
-      common preexisting conditions among the sickest COVID-19 patients were
-      hypertension (high blood pressure), obesity, chronic lung disease,
-      diabetes, and cardiovascular disease. On Wednesday, the White House
-      COVID-19 coordinator Dr. Debroah Birx noted that asthma is also a
-      pre-existing condition.
+      <div><p><strong>90% of adults hospitalized had one or more pre-existing
+      condition</strong></p><p>The CDC looked at hospitalizations across 14
+      states in March. The most common preexisting conditions among the sickest
+      COVID-19 patients were hypertension (high blood pressure), obesity,
+      chronic lung disease, diabetes, and cardiovascular disease. On Wednesday,
+      the White House COVID-19 coordinator Dr. Debroah Birx noted that asthma is
+      also a pre-existing condition.</p></div>
     _key: 73abfbbdc092
   - order: 2
     useCheckmark: false
     body: >-
-      **African Americans may be disproportionately affected**
-
-
-      African Americans accounted for 33% of those hospitalized with COVID-19,
-      but just 18% of the population in the 14 states examined by the CDC.
-      Caucasians made up 45% of those hospitalized and accounted for 59% of the
-      population in the 14 states examined by the CDC.
+      <div><p><strong>African Americans may be disproportionately
+      affected</strong></p><p>African Americans accounted for 33% of those
+      hospitalized with COVID-19, but just 18% of the population in the 14
+      states examined by the CDC. Caucasians made up 45% of those hospitalized
+      and accounted for 59% of the population in the 14 states examined by the
+      CDC.</p></div>
     _key: d1ed8bac9661
   - order: 3
     useCheckmark: false
     body: >-
-      **More than half of adults hospitalized are male**
-
-
-      The overall COVI9-19 hospitalization rate for Americans in the 14 states
-      examined by the CDC was 4.6 per 100,000 people. The rate was 5.1 for males
-      compared to 4.1 for females. Hospitalization rates increased with age,
-      with the highest rates among those 65 and older.
+      <div><p><strong>More than half of adults hospitalized are
+      male</strong></p><p>The overall COVI9-19 hospitalization rate for
+      Americans in the 14 states examined by the CDC was 4.6 per 100,000 people.
+      The rate was 5.1 for males compared to 4.1 for females. Hospitalization
+      rates increased with age, with the highest rates among those 65 and
+      older.</p></div>
     _key: b011a55517d3
   - order: 4
     useCheckmark: false
     body: >-
-      > “… the potential impact of both sex and race on COVID-19-associated
-      hospitalization rates, need to be confirmed with additional data. “
-
-
-      The CDC says the latest data emphasizes "the importance of preventive
-      measures (e.g., social distancing, respiratory hygiene, and wearing face
-      coverings in public settings where social distancing measures are
-      difficult to maintain) to protect older adults and persons with underlying
-      medical conditions, as well as the general public."
+      <div><blockquote>“… the potential impact of both sex and race on
+      COVID-19-associated hospitalization rates, need to be confirmed with
+      additional data. “</blockquote><p>The CDC says the latest data emphasizes
+      "the importance of preventive measures (e.g., social distancing,
+      respiratory hygiene, and wearing face coverings in public settings where
+      social distancing measures are difficult to maintain) to protect older
+      adults and persons with underlying medical conditions, as well as the
+      general public."</p></div>
     _key: 6b88acef3255
   - order: 5
     useCheckmark: true
     body: >-
-      Why It Matters: We’re getting a more complete picture of serious cases in
-      America, but we still need more data to understand why certain people are
-      more like to be affected than others.
+      <div><p>Why It Matters: We’re getting a more complete picture of serious
+      cases in America, but we still need more data to understand why certain
+      people are more like to be affected than others.</p><p></p></div>
     citation: VIEW SOURCES
     _key: a99ae8221a69
 

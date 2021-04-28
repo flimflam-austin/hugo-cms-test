@@ -21,74 +21,53 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # The Matriarch
-
-      > Barbara Bush, a first lady who made history, dies at 92.
+    body: >-
+      <div><h1>The Matriarch</h1><blockquote>Barbara Bush, a first lady who made
+      history, dies at 92.</blockquote></div>
     _key: card-1-7f089122-80ee-4e2d-a2dd-f1c19b1bb7bc
   - order: 1
     useCheckmark: false
-    body: ">   \n  \n_‘It will not surprise those who know her that Barbara Bush has been a rock in the face of her failing health, worrying not for herself a\x14 thanks to her abiding faith a\x14 but for others.”_  \nJim McGrath, Bush Spokesman\n\n* The former first lady announced days before her death she planned to no longer seek medical treatment.\n* No specific illness disclosed, had thyroid condition for decades."
+    body: "<div><blockquote><br><br><em>‘It will not surprise those who know her that Barbara Bush has been a rock in the face of her failing health, worrying not for herself a\x14 thanks to her abiding faith a\x14 but for others.”</em><br>Jim McGrath, Bush Spokesman</blockquote><ul><li>The former first lady announced days before her death she planned to no longer seek medical treatment.</li><li>No specific illness disclosed, had thyroid condition for decades.</li></ul></div>"
     _key: card-2-89f84338-248c-4986-a9cd-5cd61ed19ec0
   - order: 2
     useCheckmark: false
     body: >-
-      ## The Bushes: A Love Story
-
-
-      > **_“I am still old and still in love with the man I married 72 years
-      ago.”_**  
-        
-
-
-      * George H.W. Bush & Barbara Pierce met at a school dance – he was 17 &
-      she was 16.
-
-      * Engaged a year & half later as he left for WWII as a Navy pilot.
-
-      * Married in 1945 – age 19 & 20.
-
-      * Longest presidential marriage.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/T2RVxQbiWIo?enablejsapi=1&autoplay=1&rel=0)
+      <div><h2>The Bushes: A Love Story</h2><blockquote><strong><em>“I am still
+      old and still in love with the man I married 72 years
+      ago.”</em></strong><br><br></blockquote><ul><li>George H.W. Bush &amp;
+      Barbara Pierce met at a school dance – he was 17 &amp; she was
+      16.</li><li>Engaged a year &amp; half later as he left for WWII as a Navy
+      pilot.</li><li>Married in 1945 – age 19 &amp; 20.</li><li>Longest
+      presidential marriage.</li></ul><p><a
+      href="https://www.youtube.com/embed/T2RVxQbiWIo?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     citation: Watch Now
     _key: card-3-1f36d3f0-3472-449f-82be-b550f1f0dadf
   - order: 3
     useCheckmark: false
     body: >-
-      ## Family Lynchpin
-
-
-      > She provided for their 6 children (losing daughterA Robin to leukemia at
-      age 3) & managing 29 moves for his demanding career (as Congressman, CIA
-      Director & VP).  
-        
-        
-        
-      As first lady from 1989-1993, she was a popular national figure known for
-      work on literacy and her blunt talk & self-deprecating wit.
-
-
-      Click: for her humor
+      <div><h2>Family Lynchpin</h2><blockquote>She provided for their 6 children
+      (losing daughterA Robin to leukemia at age 3) &amp; managing 29 moves for
+      his demanding career (as Congressman, CIA Director &amp;
+      VP).<br><br><br><br>As first lady from 1989-1993, she was a popular
+      national figure known for work on literacy and her blunt talk &amp;
+      self-deprecating wit.</blockquote><p>Click: for her humor</p></div>
     citation: 'Click: for her humor'
     _key: card-4-5f08c23a-a3ce-4ea1-bfc1-bd54705dae7b
   - order: 4
     useCheckmark: false
-    body: "## Her Secret to a Long Life?\n\n> “I have had great medical care and more operations than you would believe. I’m not sure God will recognize me; I have so many new body parts!”  \n  \n  \n  \n“Also, George Bush has given me the world. He is the best a\x14 thoughtful and loving.”\n\nClick: First Lady First"
+    body: "<div><h2>Her Secret to a Long Life?</h2><blockquote>“I have had great medical care and more operations than you would believe. I’m not sure God will recognize me; I have so many new body parts!”<br><br><br><br>“Also, George Bush has given me the world. He is the best a\x14 thoughtful and loving.”</blockquote><p>Click: First Lady First</p></div>"
     citation: 'Click: First Lady First'
     _key: card-5-f0f7f3d7-a572-4679-a81d-5a699bde3961
   - order: 5
     useCheckmark: true
     body: >-
-      Did you know: Barbara Bush is 1 of only 2 first ladies who was also the
-      mother of a president. The other was Abigail Adams, wife of John Adams &
-      mother of John Quincy Adams. However, Mrs. Bush is the only one to see her
-      son sworn in.
-
-
-      [view sources](https://smarthernews.com/18-04-16-barbara-bush/)
+      <div><p>Did you know: Barbara Bush is 1 of only 2 first ladies who was
+      also the mother of a president. The other was Abigail Adams, wife of John
+      Adams &amp; mother of John Quincy Adams. However, Mrs. Bush is the only
+      one to see her son sworn in.</p><p><a
+      href="https://smarthernews.com/18-04-16-barbara-bush/">view
+      sources</a></p></div>
     _key: card-10-58ea5bf3-31e6-4e61-b90e-fb410047b48c
 
 ---

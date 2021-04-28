@@ -22,105 +22,92 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "They’ve changed the science… I don’t think any two people come close to
-      the impact they have had."  
-        
-      David Boies, a high-profile attorney who suffers from dyslexia, reflecting
-      on Sally and Bennett Shaywitz who lead Yale Center for Dyslexia and
-      Creativity. Married and in their 70s, the Shaywitz have researched
-      dyslexia, the most common learning disorder, for 35 years and discovered
-      it impacts an est. 1 in 5 people.
+      <blockquote>"They’ve changed the science… I don’t think any two people
+      come close to the impact they have had."<br><br>David Boies, a
+      high-profile attorney who suffers from dyslexia, reflecting on Sally and
+      Bennett Shaywitz who lead Yale Center for Dyslexia and Creativity. Married
+      and in their 70s, the Shaywitz have researched dyslexia, the most common
+      learning disorder, for 35 years and discovered it impacts an est. 1 in 5
+      people.</blockquote>
     _key: card-1-0e7bddfb-5476-488f-b879-53674709222f
   - order: 1
     useCheckmark: false
     body: >-
-      "I am writing to request an immediate postponement of any further
-      proceedings related to the nomination of Brett Kavanaugh."  
-        
-      Sen. Dianne Feinstein, in a letter to Sen. Grassley, the head of the
-      Senate Judiciary Committee. On Sunday night another allegation surfaced
-      against Supreme Court nominee Bret Kavanaugh, claiming he exposed himself
-      to a woman at a college party. Kavanaugh and his first accuser are
-      expected to testify on Thursday.
+      <p>"I am writing to request an immediate postponement of any further
+      proceedings related to the nomination of Brett Kavanaugh."<br><br>Sen.
+      Dianne Feinstein, in a letter to Sen. Grassley, the head of the Senate
+      Judiciary Committee. On Sunday night another allegation surfaced against
+      Supreme Court nominee Bret Kavanaugh, claiming he exposed himself to a
+      woman at a college party. Kavanaugh and his first accuser are expected to
+      testify on Thursday.</p>
     _key: card-2-e52b1c52-19ad-417c-acbe-a8e166ba262d
   - order: 2
     useCheckmark: false
     body: >-
-      > “The Europeans have a decision to make….A So yes we will have decisions
-      to make in terms of whether they get exemptions or not but I’ll tell you
-      right now we’re gonna be really tough on Iran.”  
-        
-      UN Ambassador Nikki Haley on whether the other parties to the 2015 Iran
+      <blockquote>“The Europeans have a decision to make….A So yes we will have
+      decisions to make in terms of whether they get exemptions or not but I’ll
+      tell you right now we’re gonna be really tough on Iran.”<br><br>UN
+      Ambassador Nikki Haley on whether the other parties to the 2015 Iran
       nuclear deal will face penalties for doing business with Iran. Pres. Trump
       said the U.S. would withdraw from the deal in May. A second set of
-      sanctions targeting Iran is set for November.
+      sanctions targeting Iran is set for November.</blockquote>
     _key: card-3-af2a9944-f231-4091-bbe5-6dcac08a3c0d
   - order: 3
     useCheckmark: false
     body: >-
-      > “We will overcome this situation and America will regret choosing the
-      wrong path.”  
-        
-      Iranian Pres. Rouhani speaking about the U.S. exiting the nuclear
-      agreement & re-implementing sanctions that hurt Iran's economy. Rouhani
-      also spoke about an attack at a military parade this weekend that killed
-      25 people and wounded 70, blaming the U.S. & allies for backing the
-      attack.
+      <blockquote>“We will overcome this situation and America will regret
+      choosing the wrong path.”<br><br>Iranian Pres. Rouhani speaking about the
+      U.S. exiting the nuclear agreement &amp; re-implementing sanctions that
+      hurt Iran's economy. Rouhani also spoke about an attack at a military
+      parade this weekend that killed 25 people and wounded 70, blaming the U.S.
+      &amp; allies for backing the attack.</blockquote>
     _key: card-4-e5465fca-b076-43ae-bbd5-cedae68e1145
   - order: 4
     useCheckmark: false
     body: >-
-      > “Everyone will want to know if Cosby is given a pass after all this. If
-      the answer is no, that’s a message that will reverberate.”  
-        
-      Deborah Tuerkheimer, former sex crimes prosecutor & Northwestern
-      University law professor, as Bill Cosby (81) returns to the courtroom for
-      a 2-day sentencing Monday after a jury found he drugged and molested a
-      woman in 2004. Cosby faces and 30-year maximum term. His lawyers are
-      expected to appeal.
+      <blockquote>“Everyone will want to know if Cosby is given a pass after all
+      this. If the answer is no, that’s a message that will
+      reverberate.”<br><br>Deborah Tuerkheimer, former sex crimes prosecutor
+      &amp; Northwestern University law professor, as Bill Cosby (81) returns to
+      the courtroom for a 2-day sentencing Monday after a jury found he drugged
+      and molested a woman in 2004. Cosby faces and 30-year maximum term. His
+      lawyers are expected to appeal.</blockquote>
     _key: card-5-d1fd4130-2d2f-4db5-b4f0-9bfa08166c5a
   - order: 5
     useCheckmark: false
     body: >-
-      > "I sort of feel like Amazon is playing chess when everyone else is
-      playing checkers…"  
-        
-        
-      Andrew Lipsman, eMarketer principal analyst, as Amazon unveils a dozen,
-      voice-activated Alexa products, including a $60 microwave. Lipsman says
-      Amazon's efforts to get people talking to their microwave might seem
-      insignificant, but upend how people interact with their devices.
+      <blockquote>"I sort of feel like Amazon is playing chess when everyone
+      else is playing checkers…"<br><br><br>Andrew Lipsman, eMarketer principal
+      analyst, as Amazon unveils a dozen, voice-activated Alexa products,
+      including a $60 microwave. Lipsman says Amazon's efforts to get people
+      talking to their microwave might seem insignificant, but upend how people
+      interact with their devices.</blockquote>
     _key: card-6-be48a451-4110-4663-a7a8-10fdb5cc6eab
   - order: 6
     useCheckmark: false
     body: >-
-      > “I had a hard time not crying coming up the last hole.’  
-        
-        
-        
-      Tiger Woods to NBC News after winning the Tour Championship - his first
-      major win in 5 years. Once the top golfer in the world, Woods has come
-      back from 4 back surgeries, a divorce that revealed a sex scandal and an
-      arrest for DUI.
+      <blockquote>“I had a hard time not crying coming up the last
+      hole.’<br><br><br><br>Tiger Woods to NBC News after winning the Tour
+      Championship - his first major win in 5 years. Once the top golfer in the
+      world, Woods has come back from 4 back surgeries, a divorce that revealed
+      a sex scandal and an arrest for DUI.</blockquote>
     _key: card-7-8ed3ef16-af44-4126-b31d-79b89fdd66cc
   - order: 7
     useCheckmark: false
     body: >-
-      > “We are trying to make the world a better place by taking as much pain
-      out of it as we can.”  
-        
-      Charlotte Gill, owner of Charlotte’s Legendary Lobster Pound in Maine, who
-      is sedating lobsters with marijuana smoke in hopes of killing them more
-      humanely. State health inspectors say the practice is illegal, but Gill
-      says she's confident the lobster, which is not yet available sale, can be
-      sold without violating state laws or codes.
+      <blockquote>“We are trying to make the world a better place by taking as
+      much pain out of it as we can.”<br><br>Charlotte Gill, owner of
+      Charlotte’s Legendary Lobster Pound in Maine, who is sedating lobsters
+      with marijuana smoke in hopes of killing them more humanely. State health
+      inspectors say the practice is illegal, but Gill says she's confident the
+      lobster, which is not yet available sale, can be sold without violating
+      state laws or codes.</blockquote>
     _key: card-8-edd4e220-ebbf-4f73-a752-5f070020e96e
   - order: 8
     useCheckmark: true
-    body: |-
-      Have a great week!
-
-      [view sources](https://smarthernews.com/quick-quotes-8/)
+    body: >-
+      <div><p>Have a great week!</p><p><a
+      href="https://smarthernews.com/quick-quotes-8/">view sources</a></p></div>
     _key: card-10-1535491d-2b2b-4eb1-86b5-4f36c0dc3614
 
 ---

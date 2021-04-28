@@ -22,77 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Flu Virus Rages
-
-
-      Progress…Yet More Deaths
-
-
-      The flu continues to be a consistent killer – reaching epidemic levels.
-
-
-      Did you know Americans have a higher chance of dying from the flu than by
-      a shooting?
-
-
-      Flip For Update
+      <div><h1>Flu Virus Rages</h1><p>Progress…Yet More Deaths</p><p>The flu
+      continues to be a consistent killer – reaching epidemic levels.</p><p>Did
+      you know Americans have a higher chance of dying from the flu than by a
+      shooting?</p><p>Flip For Update</p></div>
     citation: Flip For Update
     _key: card-1-4c21bd6c-99c6-485d-97b4-3968cd353efd
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Latest: CDC
-
-
-      * Flu peaked in early February but “flu activity” expected for weeks to
-      come.
-
-      * 17 states =**“widespread” flu**.
-
-      * 6 states = high-rates of “influenza-like-illnesses” (flu diagnosis TBD).
-
-      * Flu-related pediatric deaths:**133**
-
-      * Hospitalization rates still comparably high to other tough flu seasons.
+      <div><h2>The Latest: CDC</h2><ul><li>Flu peaked in early February but “flu
+      activity” expected for weeks to come.</li><li>17 states =
+      <strong>“widespread” flu</strong>.</li><li>6 states = high-rates of
+      “influenza-like-illnesses” (flu diagnosis TBD).</li><li>Flu-related
+      pediatric deaths: <strong>133</strong></li><li>Hospitalization rates still
+      comparably high to other tough flu seasons.</li></ul></div>
     _key: card-2-68a68ce5-5137-46ec-8909-f2d3689b3251
   - order: 2
     useCheckmark: false
     body: >-
-      ## $pending Bill = $$ For Flu
-
-
-      * New spending bill allocated extra $$ to National Institutes of Health
-      for such items as research for a universal flu vaccine – one shot to
-      lessen your chance of getting any/all flu strains.
-
-      * Budget increase for flu vaccine research = additional $40M.
-
-      * $100M = new total budget for universal flu vaccine research.
+      <div><h2>$pending Bill = $$ For Flu</h2><ul><li>New spending bill
+      allocated extra $$ to National Institutes of Health for such items as
+      research for a universal flu vaccine – one shot to lessen your chance of
+      getting any/all flu strains.</li><li>Budget increase for flu vaccine
+      research = additional $40M.</li><li>$100M = new total budget for universal
+      flu vaccine research.</li></ul></div>
     _key: card-3-8e2f14ab-28b5-48a1-a82a-072e136f9cfc
   - order: 3
     useCheckmark: false
     body: >-
-      ## Not Only Gov’t Money…
-
-
-      > “The excitement in the field is making better vaccines for strains that
-      are killing people right now. Even modest improvements would save
-      thousands of lives.”  
-        
-        
-        
-      Dr. James Crowe, pediatric infectious diseases doctor at Vanderbilt U.
-      Medical Center & head of non-profit funded "Universal Influenza Vaccine
-      Initiative"
+      <div><h2>Not Only Gov’t Money…</h2><blockquote>“The excitement in the
+      field is making better vaccines for strains that are killing people right
+      now. Even modest improvements would save thousands of
+      lives.”<br><br><br><br>Dr. James Crowe, pediatric infectious diseases
+      doctor at Vanderbilt U. Medical Center &amp; head of non-profit funded
+      "Universal Influenza Vaccine Initiative"</blockquote></div>
     _key: card-4-8e1e1206-067b-49cf-8bbe-870c39f815f1
   - order: 4
     useCheckmark: true
     body: >-
-      What is the #1 killer of Americans? An interesting chart that provides
-      perspective on the threats we all face.
-
-
-      [view sources](https://smarthernews.com/18-02-26-flu-update/)
+      <div><p>What is the #1 killer of Americans? An interesting chart that
+      provides perspective on the threats we all face.</p><p><a
+      href="https://smarthernews.com/18-02-26-flu-update/">view
+      sources</a></p></div>
     _key: card-10-738a2099-40ed-4457-a806-b6748bf4dbe7
 
 ---

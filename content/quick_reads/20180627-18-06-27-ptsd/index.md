@@ -22,56 +22,37 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## PTSD Awareness Day
-
-
-      Half of Americans will experience a traumatic event in their lives,
-      yet**women are MORE than 2X** as likely as men to develop Post-Traumatic
-      Stress Disorder.
-
-
-      Can magnets help?
+      <div><h2>PTSD Awareness Day</h2><p>Half of Americans will experience a
+      traumatic event in their lives, yet <strong>women are MORE than
+      2X</strong> as likely as men to develop Post-Traumatic Stress
+      Disorder.</p><p>Can magnets help?</p></div>
     _key: card-1-0669e4b1-2847-400e-9dfc-4a4afed1b22d
   - order: 1
     useCheckmark: false
     body: >-
-      ## PTSD
-
-
-      **Causes:** Exposure to a traumatic event such as violent acts (including
-      personal assaults, accidents & combat-related) and natural or human-caused
-      disasters
-
-
-      **What makes PTSD – PTSD?**: Direct relation to a**specific** traumatic
-      event. Disorder tracked back to a moment in time – trauma reoccurs in the
-      person who suffers.
+      <div><h2>PTSD</h2><p><strong>Causes:</strong> Exposure to a traumatic
+      event such as violent acts (including personal assaults, accidents &amp;
+      combat-related) and natural or human-caused disasters</p><p><strong>What
+      makes PTSD – PTSD?</strong>: Direct relation to a
+      <strong>specific</strong> traumatic event. Disorder tracked back to a
+      moment in time – trauma reoccurs in the person who suffers.</p></div>
     _key: card-2-3a2b6955-841c-4813-b03f-77ccb7863408
   - order: 2
     useCheckmark: false
     body: >-
-      # Why Is PTSD More Prevalent in Women?
-
-
-      ## Sexual Assault
-
-
-      About 1 in 3 women & nearly 1 in 6 men experience sexual violence in their
-      lifetimes, according to the CDC.
-
-
-      Treatment: Flip
+      <div><h1>Why Is PTSD More Prevalent in Women?</h1><h2>Sexual
+      Assault</h2><p>About 1 in 3 women &amp; nearly 1 in 6 men experience
+      sexual violence in their lifetimes, according to the CDC.</p><p>Treatment:
+      Flip</p></div>
     _key: card-3-532ac684-b13d-4a8b-8208-dfd195cd82ea
   - order: 3
     useCheckmark: true
     body: >-
-      What's the latest innovation to treat PTSD? Magnets used for depression -
-      "An electromagnet, essentially a wire wrapped around a solid coil, is
-      charged with electricity and then placed over specific points on the
-      skull." Read More.
-
-
-      [view sources](https://smarthernews.com/18-06-27-ptsd/)
+      <div><p>What's the latest innovation to treat PTSD? Magnets used for
+      depression - "An electromagnet, essentially a wire wrapped around a solid
+      coil, is charged with electricity and then placed over specific points on
+      the skull." Read More.</p><p><a
+      href="https://smarthernews.com/18-06-27-ptsd/">view sources</a></p></div>
     _key: card-10-25a108ae-5caf-4859-af7e-328485cca5a4
 
 ---

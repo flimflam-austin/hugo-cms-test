@@ -22,12 +22,12 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      And what would AMLO's plan be for Mexico's rampant drug trafficking?
-      Listen to what he said - in the heart of the main Sinaloa cartel's
-      territory - when asked if he would legalize drugs. Read more here.
-
-
-      [view sources](https://smarthernews.com/18-06-29-mexico-elections/)
+      <div><p>And what would AMLO's plan be for Mexico's rampant drug
+      trafficking? Listen to what he said - in the heart of the main Sinaloa
+      cartel's territory - when asked if he would legalize drugs. Read more
+      here.</p><p><a
+      href="https://smarthernews.com/18-06-29-mexico-elections/">view
+      sources</a></p></div>
     _key: card-10-69f16563-9a56-4900-91fa-e86b2f34ac6b
 
 ---

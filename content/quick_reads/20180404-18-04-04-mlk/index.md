@@ -21,64 +21,47 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      Honoring a light extinguished too soon:
-
-      Martin Luther King Jr.
+    body: >-
+      <div><p>Honoring a light extinguished too soon:</p><p>Martin Luther King
+      Jr.</p></div>
     _key: card-1-cfa5efd5-3563-46f9-a1bf-d06f416d28d3
   - order: 1
     useCheckmark: false
-    body: "## The Day Before MLK Died:\n\n“We’ve got some difficult days ahead. …. Like anybody, I would like to live a long life a\x14 longevity has its place. But I’m not concerned about that now. I just want to do God’s will…. I may not get there with you. But I want you to know tonight, that we, as a people, will get to the promised land.”\n\n[MLK, April 3, 1968](https://www.smithsonianmag.com/videos/category/history/mlks-last-speech/)"
+    body: "<div><h2>The Day Before MLK Died:</h2><p>“We’ve got some difficult days ahead. …. Like anybody, I would like to live a long life a\x14 longevity has its place. But I’m not concerned about that now. I just want to do God’s will…. I may not get there with you. But I want you to know tonight, that we, as a people, will get to the promised land.”</p><p><a href=\"https://www.smithsonianmag.com/videos/category/history/mlks-last-speech/\">MLK, April 3, 1968</a></p></div>"
     citation: MLK, April 3, 1968
     _key: card-2-a15a0fb1-e29d-4b91-b448-7068868bd22d
   - order: 2
     useCheckmark: false
     body: >-
-      ## Assassination & Aftermath
-
-
-      * MLK was in Memphis on April 4, 1968 helping sanitation workers on strike
-      when he was killed.
-
-      * Despite MLK’s dedication to nonviolent protest, riots broke out across
-      the U.S. after his murder.
-
-      * Lone gunman convicted for MLK’s murder, but his family never believed he
-      worked alone.
-
-
-      [Click: Who Did
-      It?](https://www.washingtonpost.com/news/retropolis/wp/2018/03/30/who-killed-martin-luther-king-jr-his-family-believes-james-earl-ray-was-framed/?utm_term=.0e93ef27d6f0)
+      <div><h2>Assassination &amp; Aftermath</h2><ul><li>MLK was in Memphis on
+      April 4, 1968 helping sanitation workers on strike when he was
+      killed.</li><li>Despite MLK’s dedication to nonviolent protest, riots
+      broke out across the U.S. after his murder.</li><li>Lone gunman convicted
+      for MLK’s murder, but his family never believed he worked
+      alone.</li></ul><p><a
+      href="https://www.washingtonpost.com/news/retropolis/wp/2018/03/30/who-killed-martin-luther-king-jr-his-family-believes-james-earl-ray-was-framed/?utm_term=.0e93ef27d6f0">Click:
+      Who Did It?</a></p></div>
     citation: 'Click: Who Did It?'
     _key: card-3-c9f80dea-056b-49a4-9677-868e81fa1bc5
   - order: 3
     useCheckmark: false
     body: >-
-      ## MLK’s Lasting Legacy
-
-
-      His leadership changed America…  
-
-      leadingA to the end of segregation, the 1964 Civil Rights Act (ending
-      discrimination based on race, gender, creed) & the 1965 Voting Rights Act.
-
-
-      MLK delivered his famous “I have a dream speech” in 1963.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/I47Y6VHc3Ms?enablejsapi=1&autoplay=1&rel=0)
+      <div><h2>MLK’s Lasting Legacy</h2><p>His leadership changed
+      America…<br>leadingA to the end of segregation, the 1964 Civil Rights Act
+      (ending discrimination based on race, gender, creed) &amp; the 1965 Voting
+      Rights Act.</p><p>MLK delivered his famous “I have a dream speech” in
+      1963.</p><p><a
+      href="https://www.youtube.com/embed/I47Y6VHc3Ms?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     citation: Watch Now
     _key: card-4-a74e35f7-ffed-46ce-9298-d6375b8bb948
   - order: 4
     useCheckmark: true
     body: >-
-      MLK is one of only two people with a federal holiday honoring their birth
-      (the other one is George Washington). How it became a holiday (and how it
-      almost didn't):
-
-
-      [view sources](https://smarthernews.com/18-04-04-mlk/)
+      <div><p>MLK is one of only two people with a federal holiday honoring
+      their birth (the other one is George Washington). How it became a holiday
+      (and how it almost didn't):</p><p><a
+      href="https://smarthernews.com/18-04-04-mlk/">view sources</a></p></div>
     _key: card-10-fa8e36d3-b650-4f42-824e-7994e462cbe6
 
 ---

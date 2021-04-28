@@ -22,22 +22,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “_Talk to the person sitting alone. Hug a crying child. Say hello to a
-      stranger. Call a friend having a hard time. Take a moment to do something
-      for someone else. Love each other better. Kindness can cause a ripple
-      effect. And small gestures can create very big change. I’m living proof.”_
+      <div><blockquote>“<em>Talk to the person sitting alone. Hug a crying
+      child. Say hello to a stranger. Call a friend having a hard time. Take a
+      moment to do something for someone else. Love each other better. Kindness
+      can cause a ripple effect. And small gestures can create very big change.
+      I’m living proof.”</em></blockquote><p></p></div>
     citation: Ashley Hoff
     _key: card-1-d51e1f0f-5ce4-40a5-a696-85b24bbef691
   - order: 1
     useCheckmark: true
     body: >-
-      Hoff and her husband sat in the fourth row at the Route 91 Harvest Music
-      Festival in Las Vegas on October 1, 2017 when 58 people were murdered.
-      Neither were shot, but both were forever changed. Hoff wrote about their
-      ordeal for Refinery 29.
-
-
-      [view sources](https://smarthernews.com/18-10-02-qtd/)
+      <div><p>Hoff and her husband sat in the fourth row at the Route 91 Harvest
+      Music Festival in Las Vegas on October 1, 2017 when 58 people were
+      murdered. Neither were shot, but both were forever changed. Hoff wrote
+      about their ordeal for Refinery 29.</p><p><a
+      href="https://smarthernews.com/18-10-02-qtd/">view sources</a></p></div>
     _key: card-10-f9438502-fb37-4317-8c9b-ff7b8f1d8c1d
 
 ---

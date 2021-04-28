@@ -21,65 +21,51 @@ colorpaletteclassname: '--light-green'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # “Surprising Burst of Strength”
-
-      Better than expected, but not back to normal.
-
-      What we learned from the October jobs report.
+    body: >-
+      <div><h1>“Surprising Burst of Strength”</h1><p>Better than expected, but
+      not back to normal.</p><p>What we learned from the October jobs
+      report.</p></div>
     _key: 572b13a7ad23
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Basics:
-
-
-      Last month the U.S. gained**638,000 jobs.**
-
-
-      This is better than expected (especially since more than 150,000 census
-      workers lost their temporary jobs).
-
-
-      The new unemployment rate is**6.9% – a full percentage point lower than
-      September**, but the nation still has**10M fewer jobs than before the
-      pandemic.**
+      <div><h2>The Basics:</h2><p>Last month the U.S. gained <strong>638,000
+      jobs.</strong></p><p>This is better than expected (especially since more
+      than 150,000 census workers lost their temporary jobs).</p><p>The new
+      unemployment rate is <strong>6.9% – a full percentage point lower than
+      September</strong>, but the nation still has <strong>10M fewer jobs than
+      before the pandemic.</strong></p></div>
     _key: 4a0984c4f15e
   - order: 2
     useCheckmark: false
     body: >-
-      > “It was a pleasant surprise to see that the pace of the recovery hasn’t
-      slowed down. But we all need to keep in mind the huge hole that we’re in,
-      in terms of jobs and unemployment.”
-
-
-      Economist Nick Bunker at Indeed, the job search website. While the economy
-      added jobs, gains in October were lower than September and August.
-      Concerns remain about the pace of job recovery and strength of seasonal
-      hiring.
+      <div><blockquote>“It was a pleasant surprise to see that the pace of the
+      recovery hasn’t slowed down. But we all need to keep in mind the huge hole
+      that we’re in, in terms of jobs and
+      unemployment.”</blockquote><p>Economist Nick Bunker at Indeed, the job
+      search website. While the economy added jobs, gains in October were lower
+      than September and August. Concerns remain about the pace of job recovery
+      and strength of seasonal hiring.</p></div>
     _key: 0c9cab2c68ff
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something to Consider
-
-
-      * **Quantity vs. Quality:** While hiring appears strong, questions remain
-      about earning power. For example – if a waiter was rehired, are they
-      making the same amount in tips vs. pre-COVID?
-
-      * **Need vs. Want:** What is the impact of the record number of women
-      leaving the labor force during the COVID-19 pandemic? She may**want** to
-      work, but is no longer counted as part of the labor force if she**needs**
-      to stay home.
+      <div><h2>Something to Consider</h2><ul><li><strong>Quantity vs.
+      Quality:</strong> While hiring appears strong, questions remain about
+      earning power. For example – if a waiter was rehired, are they making the
+      same amount in tips vs. pre-COVID?</li><li><strong>Need vs. Want:</strong>
+      What is the impact of the record number of women leaving the labor force
+      during the COVID-19 pandemic? She may <strong>want</strong> to work, but
+      is no longer counted as part of the labor force if she
+      <strong>needs</strong> to stay home.</li></ul></div>
     _key: 1fb3b28ecf39
   - order: 4
     useCheckmark: true
     body: >-
-      Whoever wins the presidency will confront an economy hurt by the global
-      pandemic. Different opinions exist about the role of government to
+      <div><p>Whoever wins the presidency will confront an economy hurt by the
+      global pandemic. Different opinions exist about the role of government to
       stimulate an economy - with some proposing massive spending and others
-      wary of it.
+      wary of it.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 65b2c8b57f3b
 

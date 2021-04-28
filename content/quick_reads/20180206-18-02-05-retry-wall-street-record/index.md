@@ -21,28 +21,19 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # Historic Stock Market Drop
-
-      Dow Down  
-      1,175 pts or 4.6%  
-      Mon Feb 5, 2018
-
-      **Biggest point drop** ever…but**not biggest percentage drop** in history.
-
-      Percentage Points Matter.
-
-      Flip For Why
+    body: >-
+      <div><h1>Historic Stock Market Drop</h1><p>Dow Down<br>1,175 pts or
+      4.6%<br>Mon Feb 5, 2018</p><p><strong>Biggest point drop</strong> ever…but
+      <strong>not biggest percentage drop</strong> in history.</p><p>Percentage
+      Points Matter.</p><p>Flip For Why</p></div>
     _key: card-1-73e658d7-82f1-4d03-928c-c50ec8cae727
   - order: 1
     useCheckmark: true
     body: >-
-      A 10% drop in stocks may signal a correction in a hot market. It also may
-      signal something else. Check sources for more.
-
-
-      [view
-      sources](https://smarthernews.com/18-02-05-retry-wall-street-record/)
+      <div><p>A 10% drop in stocks may signal a correction in a hot market. It
+      also may signal something else. Check sources for more.</p><p><a
+      href="https://smarthernews.com/18-02-05-retry-wall-street-record/">view
+      sources</a></p></div>
     _key: card-10-c44dd655-a704-43a0-84f9-a02f4210148c
 
 ---

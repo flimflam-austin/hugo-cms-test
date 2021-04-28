@@ -22,72 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Take Me Out to the Ballgame.
-
-
-      ## (…Actually, Nevermind.)
-
-
-      MLB worries as**fan**A**attendance shrinks 10%, the lowest level in 15
-      years** – and it’s not just the unseasonably cold weather at the start of
-      the season.
-
-
-      FLIP: WHIFF & A MISS
+      <div><h1>Take Me Out to the Ballgame.</h1><h2>(…Actually,
+      Nevermind.)</h2><p>MLB worries as <strong>fan</strong>A <strong>attendance
+      shrinks 10%, the lowest level in 15 years</strong> – and it’s not just the
+      unseasonably cold weather at the start of the season.</p><p>FLIP: WHIFF
+      &amp; A MISS</p></div>
     _key: card-1-212184cc-c02d-49da-9a55-5162e7842327
   - order: 1
     useCheckmark: false
     body: >-
-      WHAT’S TO BLAME?  
-
-      MLB is Trying to Find Out
-
-
-      * **Cost?** Avg ticket price in MLB is $32, but on the re-sale market
-      (i.e. StubHub) it’s $76. Add food & drinks, that’s approx $100 for 1 fan.
-
-      * **Less Competition?A** Handful of really good teams & really bad teams
-      makes for less thrill. Strikeouts topped hits in April.
-
-      * **No incentive?** Fans can watch anywhere – phone, tablet, TV.
+      <div><p>WHAT’S TO BLAME?<br>MLB is Trying to Find
+      Out</p><ul><li><strong>Cost?</strong> Avg ticket price in MLB is $32, but
+      on the re-sale market (i.e. StubHub) it’s $76. Add food &amp; drinks,
+      that’s approx $100 for 1 fan.</li><li><strong>Less Competition?A</strong>
+      Handful of really good teams &amp; really bad teams makes for less thrill.
+      Strikeouts topped hits in April.</li><li><strong>No incentive?</strong>
+      Fans can watch anywhere – phone, tablet, TV.</li></ul></div>
     _key: card-2-a6cd6c2a-257d-47e8-9ae7-d3b080b8d1ec
   - order: 2
     useCheckmark: false
     body: >-
-      ## WHY THIS MATTERS
-
-
-      * **MLB attendance is pretty consistent**, swinging no more than 2% in
-      either direction.
-
-      * Baseball hasn’t seen a**drop like this since 1995** following a player
-      strike which canceled the World Series.
-
-      * Empty stadiums may give you a better shot at catching a foul ball,
-      but**not an ideal setting to watch a game.**
+      <div><h2>WHY THIS MATTERS</h2><ul><li><strong>MLB attendance is pretty
+      consistent</strong>, swinging no more than 2% in either
+      direction.</li><li>Baseball hasn’t seen a <strong>drop like this since
+      1995</strong> following a player strike which canceled the World
+      Series.</li><li>Empty stadiums may give you a better shot at catching a
+      foul ball, but <strong>not an ideal setting to watch a
+      game.</strong></li></ul></div>
     _key: card-3-144393da-f5cc-478f-ba0a-f5ec785ac81f
   - order: 3
     useCheckmark: false
     body: >-
-      ## MLB WANTS TO FIX IT
-
-
-      > ‘I think that a lot of us in the game are watching the way we’re playing
-      very, very closely, everything from fewer hits, more strikeouts, more
-      times between balls in play.”  
-        
-        
-        
-      Rob Manfred, MLB Commissioner
+      <div><h2>MLB WANTS TO FIX IT</h2><blockquote>‘I think that a lot of us in
+      the game are watching the way we’re playing very, very closely, everything
+      from fewer hits, more strikeouts, more times between balls in
+      play.”<br><br><br><br>Rob Manfred, MLB Commissioner</blockquote></div>
     _key: card-4-a53cdbbe-dcb1-4f4f-ade0-c6ca74673fc1
   - order: 4
     useCheckmark: true
     body: >-
-      So which teams are seeing the biggest drops in attendance? And which 4
-      teams are still filling the stands? Click to find out.
-
-
-      [view sources](https://smarthernews.com/18-06-18-baseball-attendance/)
+      <div><p>So which teams are seeing the biggest drops in attendance? And
+      which 4 teams are still filling the stands? Click to find out.</p><p><a
+      href="https://smarthernews.com/18-06-18-baseball-attendance/">view
+      sources</a></p></div>
     _key: card-10-fd35b38b-b58b-4a1f-9e96-9d93187ac2aa
 
 ---

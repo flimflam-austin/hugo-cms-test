@@ -20,12 +20,12 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: '# _“Silence can never be misquoted.”_'
+    body: <h1><em>“Silence can never be misquoted.”</em></h1>
     citation: SARAH THOMAS
     _key: 0ae6bda4ca36
   - order: 1
     useCheckmark: true
-    body: "The first woman (and mother!)\_to officiate a Super Bowl, Sarah Thomas became a \"permanent\" NFL official in 2015. This is her response to how to deal w/angry coaches or players - Stay professional and ignore when required. Thomas said if she ever had the opportunity to officiate a Super Bowl she'd want to earn it as a reflection of being top of the game."
+    body: "<div><p>The first woman (and mother!)\_to officiate a Super Bowl, Sarah Thomas became a \"permanent\" NFL official in 2015. This is her response to how to deal w/angry coaches or players - Stay professional and ignore when required. Thomas said if she ever had the opportunity to officiate a Super Bowl she'd want to earn it as a reflection of being top of the game.</p><p></p></div>"
     citation: VIEW SOURCES
     _key: d34200fdb1ce
 

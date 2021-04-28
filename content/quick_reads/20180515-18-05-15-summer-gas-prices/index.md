@@ -22,72 +22,53 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # NEXT STOP: $3
-
-
-      ## AAA: Gas prices are up 22% this year, national average now $2.87/gal.
-
-
-      The good news & bad news about what will likely be the most expensive
-      driving season in years.
-
-
-      I feel like this happens EVERY Summer... Why?
+      <div><h1>NEXT STOP: $3</h1><h2>AAA: Gas prices are up 22% this year,
+      national average now $2.87/gal.</h2><p>The good news &amp; bad news about
+      what will likely be the most expensive driving season in years.</p><p>I
+      feel like this happens EVERY Summer... Why?</p></div>
     _key: card-1-4b7e7131-b5d4-4369-aed0-17dfaf4740c7
   - order: 1
     useCheckmark: false
     body: >-
-      U.S. economic growth has boosted demand for oil which means most consumers
-      should be able to afford to pay more at the pump, BUT wildcards in
-      oil-producing areas may mean higher prices ahead.  
-        
-      **_"Three dollars is like a small fence. You can get through it, you can
-      get over it. But $4 is like the electric fence in Jurassic Park. There’s
-      no getting over that."_**  
-        
-      Patrick DeHaan, GasBuddy analyst
+      <p>U.S. economic growth has boosted demand for oil which means most
+      consumers should be able to afford to pay more at the pump, BUT wildcards
+      in oil-producing areas may mean higher prices
+      ahead.<br><br><strong><em>"Three dollars is like a small fence. You can
+      get through it, you can get over it. But $4 is like the electric fence in
+      Jurassic Park. There’s no getting over that."</em></strong><br><br>Patrick
+      DeHaan, GasBuddy analyst</p>
     _key: card-2-8485764f-d066-410f-9aad-7ae816dc6e04
   - order: 2
     useCheckmark: false
     body: >-
-      ## WHAT’S TO BLAME?
-
-
-      * **Seasonality:** Federal & state laws**require cleaner, costlier gas.**
-
-      * **Iran:** Reimposing**sanctions may constrict supply** & while we don’t
-      get our oil from Iran, Econ 101 says less global supply = higher prices.
-
-      * **Saudi Arabia:** World’s largest oil producer signaled it wants oil
-      prices $80-$100/barrel. Oil just toppedA**$70/bbl, a level notA seen since
-      2014** & upA 50% vs. last year.
+      <div><h2>WHAT’S TO BLAME?</h2><ul><li><strong>Seasonality:</strong>
+      Federal &amp; state laws <strong>require cleaner, costlier
+      gas.</strong></li><li><strong>Iran:</strong> Reimposing <strong>sanctions
+      may constrict supply</strong> &amp; while we don’t get our oil from Iran,
+      Econ 101 says less global supply = higher prices.</li><li><strong>Saudi
+      Arabia:</strong> World’s largest oil producer signaled it wants oil prices
+      $80-$100/barrel. Oil just toppedA <strong>$70/bbl, a level notA seen since
+      2014</strong> &amp; upA 50% vs. last year.</li></ul></div>
     _key: card-3-218033f9-f825-4c8d-8296-3973bae19f83
   - order: 3
     useCheckmark: false
     body: >-
-      ## Feeling Tapped Out?
-
-
-      Higher gas prices are on track to**cost Americans an extra $38B** this
-      year,**erasing about one-third of the direct benefit from Pres. Trump’s
-      tax cuts**, Morgan Stanley estimates.
-
-
-      If gas stays at these levels for the year, it’ll**cost the average
-      American household $450 extra**.
-
-
-      CLICK: FOR TIPS TO $AVE
+      <div><h2>Feeling Tapped Out?</h2><p>Higher gas prices are on track to
+      <strong>cost Americans an extra $38B</strong> this year, <strong>erasing
+      about one-third of the direct benefit from Pres. Trump’s tax
+      cuts</strong>, Morgan Stanley estimates.</p><p>If gas stays at these
+      levels for the year, it’ll <strong>cost the average American household
+      $450 extra</strong>.</p><p>CLICK: FOR TIPS TO $AVE</p></div>
     _key: card-4-1c81fdd9-1889-487a-b944-fcb16029bb9a
   - order: 4
     useCheckmark: true
     body: >-
-      It's expected to be the most expensive summer driving season in years --A
-      so what can you do to lessen the pain at the pump? Click to learn the best
-      days of week to buy gas, according to a new study from Gas Buddy.
-
-
-      [view sources](https://smarthernews.com/18-05-15-summer-gas-prices/)
+      <div><p>It's expected to be the most expensive summer driving season in
+      years --A so what can you do to lessen the pain at the pump? Click to
+      learn the best days of week to buy gas, according to a new study from Gas
+      Buddy.</p><p><a
+      href="https://smarthernews.com/18-05-15-summer-gas-prices/">view
+      sources</a></p></div>
     _key: card-10-e23c03e6-ebb3-489c-86a6-7aafc55f91ca
 
 ---

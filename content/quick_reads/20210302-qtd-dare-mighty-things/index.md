@@ -21,20 +21,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“Far better it is to dare mighty things, to win glorious triumphs, even
-      though checkered by failure, than to take rank with those poor spirits who
-      neither enjoy much nor suffer much, because they live in the gray twilight
-      that knows not victory nor defeat.”_
+      <div><blockquote><em>“Far better it is to dare mighty things, to win
+      glorious triumphs, even though checkered by failure, than to take rank
+      with those poor spirits who neither enjoy much nor suffer much, because
+      they live in the gray twilight that knows not victory nor
+      defeat.”</em></blockquote><p></p></div>
     citation: PRES. T. ROOSEVELT
     _key: 433dffe28305
   - order: 1
     useCheckmark: true
     body: >-
-      The three hidden words on NASA's Perseverance rover's parachute reading
+      <p>The three hidden words on NASA's Perseverance rover's parachute reading
       "dare mighty things" are from an 1899 speech by Pres. T. Roosevelt (then
       NY governor) in which he emphasizes the need to embrace challenges,
       advising "not to shirk difficulties, but to overcome them; not to seek
-      ease, but to know how to wrest triumph from toil and risk."
+      ease, but to know how to wrest triumph from toil and risk."</p>
     citation: VIEW SOURCES
     _key: 77953f985954
 

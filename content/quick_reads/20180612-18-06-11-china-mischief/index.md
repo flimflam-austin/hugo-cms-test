@@ -22,88 +22,59 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      While The World Focuses on North Korea…
-
-
-      ## CHINA MAKES MOVES
-
-
-      Hours before historic summit in Singapore, China puts dangerous missiles
-      back in disputed territory, strikes deal with Iran, as U.S. learns of yet
-      another Chinese cyber attack.
-
-
-      What To Know
+      <div><p>While The World Focuses on North Korea…</p><h2>CHINA MAKES
+      MOVES</h2><p>Hours before historic summit in Singapore, China puts
+      dangerous missiles back in disputed territory, strikes deal with Iran, as
+      U.S. learns of yet another Chinese cyber attack.</p><p>What To
+      Know</p></div>
     _key: card-1-80b2fecd-9de6-4fb9-8e1d-e07a9e7ebded
   - order: 1
     useCheckmark: false
     body: >-
-      ## SOUTH CHINA SEA
-
-
-      * Chinese surface-to-air missiles reappear on disputed islands in the
-      South China Sea.
-
-      * **China had reportedly removed these missiles.**A Defense Sec. Mattis
+      <div><h2>SOUTH CHINA SEA</h2><ul><li>Chinese surface-to-air missiles
+      reappear on disputed islands in the South China Sea.</li><li><strong>China
+      had reportedly removed these missiles.</strong>A Defense Sec. Mattis
       addressed weapons in a recent speech; American B-52s did a fly-by of the
-      islands as well.
-
-      * U.S. ships have sailed close to islands to assert freedom of
-      waterway;**tensions very high.**
+      islands as well.</li><li>U.S. ships have sailed close to islands to assert
+      freedom of waterway; <strong>tensions very high.</strong></li></ul></div>
     _key: card-2-a18c9956-1a0a-4988-acb2-5b3023ba6cd4
   - order: 2
     useCheckmark: false
     body: >-
-      > _‘Despite China’s claims to the contrary, the placement of these weapons
-      systems is tied directly to military use for the purposes of intimidation
-      and coercion.”_  
-        
-        
-        
-      Sec. of Defense Jim Mattis last week on China's militarization of islands
-      in the South China Sea. Brunei, Malaysia, the Philippines, Taiwan &
-      Vietnam contest China's claims of the land.
+      <blockquote><em>‘Despite China’s claims to the contrary, the placement of
+      these weapons systems is tied directly to military use for the purposes of
+      intimidation and coercion.”</em><br><br><br><br>Sec. of Defense Jim Mattis
+      last week on China's militarization of islands in the South China Sea.
+      Brunei, Malaysia, the Philippines, Taiwan &amp; Vietnam contest China's
+      claims of the land.</blockquote>
     _key: card-3-f3a47495-f74c-4e42-9b93-6ce0dbab73f6
   - order: 3
     useCheckmark: false
     body: >-
-      # CHINA & IRAN?
-
-
-      * While G7 met in Canada, China & Russia hosted a summit of its own: The
-      SCO orA**Shanghai CooperationA Organization.**
-
-      * Iran, Pakistan, & India attended.
-
-      * Russia & China promised to honor “Iran Nuclear Deal.”
-
-      * Chinese Pres. says he’s willing to work with Iran on nuke deal & trade
-      despite sanctions; U.S. is not.
+      <div><h1>CHINA &amp; IRAN?</h1><ul><li>While G7 met in Canada, China &amp;
+      Russia hosted a summit of its own: The SCO orA <strong>Shanghai
+      CooperationA Organization.</strong></li><li>Iran, Pakistan, &amp; India
+      attended.</li><li>Russia &amp; China promised to honor “Iran Nuclear
+      Deal.”</li><li>Chinese Pres. says he’s willing to work with Iran on nuke
+      deal &amp; trade despite sanctions; U.S. is not.</li></ul></div>
     _key: card-4-323f5f3d-90eb-4a91-a766-fd8e47be7697
   - order: 4
     useCheckmark: false
     body: >-
-      ## CYBER ATTACK
-
-
-      * WaPo Scoop:**Chinese gov’tA hacked computer system of a Navy
-      contractor** earlier this year.
-
-      * Data hadA**plans for supersonic****anti-ship missile** plannedA for U.S.
-      submarines by 2020.
-
-      * Data was**unclassified, but submarine program = top secret.**
-
-      * China denies any involvement.
+      <div><h2>CYBER ATTACK</h2><ul><li>WaPo Scoop: <strong>Chinese gov’tA
+      hacked computer system of a Navy contractor</strong> earlier this
+      year.</li><li>Data hadA <strong>plans for supersonic</strong>
+      <strong>anti-ship missile</strong> plannedA for U.S. submarines by
+      2020.</li><li>Data was <strong>unclassified, but submarine program = top
+      secret.</strong></li><li>China denies any involvement.</li></ul></div>
     _key: card-5-7970a591-1c93-4c30-bf07-94617a6dae93
   - order: 5
     useCheckmark: true
     body: >-
-      Some believe China may come out the "winner" in the historic Singapore
-      summit. Why?
-
-
-      [view sources](https://smarthernews.com/18-06-11-china-mischief/)
+      <div><p>Some believe China may come out the "winner" in the historic
+      Singapore summit. Why?</p><p><a
+      href="https://smarthernews.com/18-06-11-china-mischief/">view
+      sources</a></p></div>
     _key: card-10-d3519ef2-34f9-4468-be55-614fc8455e88
 
 ---

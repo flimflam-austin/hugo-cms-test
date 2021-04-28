@@ -22,11 +22,10 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      Want to dig deeper into the weekend's biggest stories? Click "View
-      Sources" for more!
-
-
-      [view sources](https://smarthernews.com/18-04-30-quotes/)
+      <div><p>Want to dig deeper into the weekend's biggest stories? Click "View
+      Sources" for more!</p><p><a
+      href="https://smarthernews.com/18-04-30-quotes/">view
+      sources</a></p></div>
     _key: card-10-ec800c8d-f58d-484d-8a6b-a6f8deb6abd5
 
 ---

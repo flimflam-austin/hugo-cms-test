@@ -21,20 +21,21 @@ colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: '> _“I am not afraid of storms for I am learning how to sail my ship.”_'
+    body: >-
+      <div><blockquote><em>“I am not afraid of storms for I am learning how to
+      sail my ship.”</em></blockquote><p></p></div>
     citation: LOUISA MAY ALCOTT
     _key: card-1-a1d9d6b9-58ad-4ebe-8e8b-938a26fe45b7
   - order: 1
     useCheckmark: true
     body: >-
-      # OTD in 1832 the author of "Little Women" was born. The novel about four
-      sisters during the 1860s, which she wrote at age 36, was an instant best
-      seller. Alcott grew up in poverty, but gained much fame & fortune from the
-      book and its spin-offs. In 2019, the second American big screen film
-      adaption of the book will be released.
-
-
-      [view sources](https://smarthernews.com/18-11-29-qtd-alcott/)
+      <div><h1>OTD in 1832 the author of "Little Women" was born. The novel
+      about four sisters during the 1860s, which she wrote at age 36, was an
+      instant best seller. Alcott grew up in poverty, but gained much fame &amp;
+      fortune from the book and its spin-offs. In 2019, the second American big
+      screen film adaption of the book will be released.</h1><p><a
+      href="https://smarthernews.com/18-11-29-qtd-alcott/">view
+      sources</a></p></div>
     _key: card-10-889771f9-9e41-439c-bf4b-894f07661307
 
 ---

@@ -21,50 +21,37 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      > "Sexy is important, but comfort is essential.”  
-        
-        
-      Jennifer Aniston, Actress, speaking to Architectural Digest
-
-      Jenn is like so many Americans - Flip Here For Why
+    body: >-
+      <div><blockquote>"Sexy is important, but comfort is
+      essential.”<br><br><br>Jennifer Aniston, Actress, speaking to
+      Architectural Digest</blockquote><p>Jenn is like so many Americans - Flip
+      Here For Why</p></div>
     _key: card-1-9b1e3614-e023-4348-abff-908e0c12036e
   - order: 1
     useCheckmark: false
     body: >-
-      # Jen Is Just Like Us
-
-
-      * Jennifer Aniston’s home was built in 1965; She renovated.
-
-      * Sales of Existing Homes (homes already built, like Jen’s) hit 11-year
-      high last year.
-
-      * Lower inventory of affordable_new_ homes led to_existing_ home sales
-      jump.
-
-      * Home improvement spending estimates topped $300 billion in 2017.
+      <div><h1>Jen Is Just Like Us</h1><ul><li>Jennifer Aniston’s home was built
+      in 1965; She renovated.</li><li>Sales of Existing Homes (homes already
+      built, like Jen’s) hit 11-year high last year.</li><li>Lower inventory of
+      affordable <em>new</em> homes led to <em>existing</em> home sales
+      jump.</li><li>Home improvement spending estimates topped $300 billion in
+      2017.</li></ul></div>
     _key: card-2-7249661e-a1d0-4fa0-812a-6172ed0819bc
   - order: 2
     useCheckmark: false
     body: >-
-      # Jen Is NOT like Us
-
-
-      ## Purchase Price of Home = $21 million
-
-
-      Sale Price of Existing Homes in America 2017 = $247,300
-
-
-      [Pics Of Aniston's Home: Click
-      Here](https://www.architecturaldigest.com/story/jennifer-aniston-los-angeles-home)
+      <div><h1>Jen Is NOT like Us</h1><h2>Purchase Price of Home = $21
+      million</h2><p>Sale Price of Existing Homes in America 2017 =
+      $247,300</p><p><a
+      href="https://www.architecturaldigest.com/story/jennifer-aniston-los-angeles-home">Pics
+      Of Aniston's Home: Click Here</a></p></div>
     _key: card-3-72b901c5-8423-4202-b7e0-c3e28cb5abb8
   - order: 3
     useCheckmark: true
     body: >-
-      [view
-      sources](https://smarthernews.com/18-02-07-jennifer-aniston-new-home/)
+      <p><a
+      href="https://smarthernews.com/18-02-07-jennifer-aniston-new-home/">view
+      sources</a></p>
     _key: card-10-01f7ba4c-b707-4dc6-8ab9-a257b00ebd2f
 
 ---

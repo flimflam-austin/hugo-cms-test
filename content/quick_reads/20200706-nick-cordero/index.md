@@ -21,17 +21,17 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     useCheckmark: false
-    body: '## _“Live your life.”_'
+    body: <div><h2><em>“Live your life.”</em></h2><p></p></div>
     citation: NICK CORDERO
     _key: f277987af773
   - order: 1
     useCheckmark: true
     body: >-
-      After 3 mos. battling COVID-19 Broadway performer Nick Cordero, 41, passed
-      away. His wife, Amanda, updated & inspired many with her positive,
-      faith-filled posts (w/their infant son Elvis) & #WakeUpNick movement of
-      supporters singing Nick's song "Live your life." CDC: The median age for
-      U.S. COVID-19 cases is 48.
+      <div><p>After 3 mos. battling COVID-19 Broadway performer Nick Cordero,
+      41, passed away. His wife, Amanda, updated &amp; inspired many with her
+      positive, faith-filled posts (w/their infant son Elvis) &amp; #WakeUpNick
+      movement of supporters singing Nick's song "Live your life." CDC: The
+      median age for U.S. COVID-19 cases is 48.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 30154cd2f559
 

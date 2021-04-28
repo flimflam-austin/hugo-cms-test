@@ -22,66 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # IMMIGRATION MISINFORMATION
-
-
-      Did the U.S. really separate 1,500 immigrant children from their parents &
-      then lose them? NO!
-
-
-      FLIP HERE FOR THE FACTS
+      <div><h1>IMMIGRATION MISINFORMATION</h1><p>Did the U.S. really separate
+      1,500 immigrant children from their parents &amp; then lose them?
+      NO!</p><p>FLIP HERE FOR THE FACTS</p></div>
     _key: card-1-889ec81d-aa49-468e-a9c4-232fd708e22a
   - order: 1
     useCheckmark: false
     body: >-
-      ## The 1,475 “immigrant children” are Unaccompanied Alien Children (UAC)
-      who arrived in the U.S. \*ALONE\*
-
-
-      UAC (by definition) do NOT arrive with a parent or legal guardian.A**Since
-      2012, more than 200,000 UAC have arrived in the U.S.**
+      <div><h2>The 1,475 “immigrant children” are Unaccompanied Alien Children
+      (UAC) who arrived in the U.S. \*ALONE\*</h2><p>UAC (by definition) do NOT
+      arrive with a parent or legal guardian.A <strong>Since 2012, more than
+      200,000 UAC have arrived in the U.S.</strong></p></div>
     _key: card-2-d321e086-b3e9-429b-9d4d-3da03fb61f82
   - order: 2
     useCheckmark: false
     body: >-
-      ## UAC 101
-
-
-      * When UAC arrive in U.S., they are transferred from the Dep’t of Homeland
-      Security to the Office of Refugee Resettlement (ORR).
-
-      * While their legal status is being sorted out, the ORR places most UAC
-      with “sponsors” in the U.S.
-
-      * The sponsors are usually their parents or close family members.
-
-      * ORR periodically checks in to monitor their safety & well-being.
+      <div><h2>UAC 101</h2><ul><li>When UAC arrive in U.S., they are transferred
+      from the Dep’t of Homeland Security to the Office of Refugee Resettlement
+      (ORR).</li><li>While their legal status is being sorted out, the ORR
+      places most UAC with “sponsors” in the U.S.</li><li>The sponsors are
+      usually their parents or close family members.</li><li>ORR periodically
+      checks in to monitor their safety &amp; well-being.</li></ul></div>
     _key: card-3-9064da59-08ce-4bc4-b59f-7bd72520c8e3
   - order: 3
     useCheckmark: false
     body: >-
-      In April, aA Dept. of Health & Human Services (HHS) official testified to
-      Congress about the**40,810 UAC** transferred to ORR’s custody in 2017
-
-
-      * In the fall, ORR reached out to a fraction (**7,635**) of those UAC &
-      their sponsors.
-
-      * 86% participated in safety & well-being calls, but “**ORR was unable to
-      determine with certainty the whereabouts of 1,475 UAC**.”
+      <div><p>In April, aA Dept. of Health &amp; Human Services (HHS) official
+      testified to Congress about the <strong>40,810 UAC</strong> transferred to
+      ORR’s custody in 2017</p><ul><li>In the fall, ORR reached out to a
+      fraction (<strong>7,635</strong>) of those UAC &amp; their
+      sponsors.</li><li>86% participated in safety &amp; well-being calls, but
+      “<strong>ORR was unable to determine with certainty the whereabouts of
+      1,475 UAC</strong>.”</li></ul></div>
     _key: card-4-027ef98f-7d08-4538-b93c-7b5e1013316b
   - order: 4
     useCheckmark: false
-    body: "> “**The assertion that unaccompanied alien children (UAC) are a\x18lost’ is completely false**. … These children are not a\x18lost’; their sponsors a\x14 who … in all cases have been vetted for criminality and ability to provide for thema\x14 simply did not respond or could not be reached when this voluntary call was made.”  \n  \n  \n  \nHHS Deputy Secretary Eric Hargan, May 28 statement"
+    body: "<blockquote>“<strong>The assertion that unaccompanied alien children (UAC) are a\x18lost’ is completely false</strong>. … These children are not a\x18lost’; their sponsors a\x14 who … in all cases have been vetted for criminality and ability to provide for thema\x14 simply did not respond or could not be reached when this voluntary call was made.”<br><br><br><br>HHS Deputy Secretary Eric Hargan, May 28 statement</blockquote>"
     _key: card-5-4a6bafe4-ef82-43f8-adbc-8b5968035cfa
   - order: 5
     useCheckmark: true
     body: >-
-      UAC are NOT separated from their parents at the border, but many other
-      immigrant child ARE. Read more here:
-
-
-      [view sources](https://smarthernews.com/18-05-30-uac/)
+      <div><p>UAC are NOT separated from their parents at the border, but many
+      other immigrant child ARE. Read more here:</p><p><a
+      href="https://smarthernews.com/18-05-30-uac/">view sources</a></p></div>
     _key: card-10-df077ecf-718d-4ba4-bd99-4d224ae1a534
 
 ---

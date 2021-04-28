@@ -22,13 +22,12 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      Pres. Trump has said he is willing to extend his previous deadline for a
-      $5B border wall deal in the wake of President George H.W. Bush's passing.
-      Previously, he threatened a gov't shutdown on December 7th if Congress did
-      not agree to his terms.
-
-
-      [view sources](https://smarthernews.com/18-12-3-this-weekend-in-mexico/)
+      <div><p>Pres. Trump has said he is willing to extend his previous deadline
+      for a $5B border wall deal in the wake of President George H.W. Bush's
+      passing. Previously, he threatened a gov't shutdown on December 7th if
+      Congress did not agree to his terms.</p><p><a
+      href="https://smarthernews.com/18-12-3-this-weekend-in-mexico/">view
+      sources</a></p></div>
     _key: card-10-afca88ca-3c49-43a5-b6c8-48f176b51b51
 
 ---

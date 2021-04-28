@@ -22,74 +22,58 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Hurt In The Heartland
-
-
-      From meat to milk and the vegetables in between, more American farmers
-      filed for bankruptcy last year than during the financial crisis a decade
-      ago.
-
-
-      Why Now?
+      <div><h1>Hurt In The Heartland</h1><p>From meat to milk and the vegetables
+      in between, more American farmers filed for bankruptcy last year than
+      during the financial crisis a decade ago.</p><p>Why Now?</p></div>
     _key: card-1-0343e64c-0e98-41f6-88c8-6f35bae120bc
   - order: 1
     useCheckmark: false
     body: >-
-      > ‘I’ve been through several dips in 40 years. This one here is gonna kick
-      my butt.’  
-        
-      Kirk Duensing, Nebraska Farmer, who says low prices for soy & corn crops
-      combined with high interest loans has left him more than $1M in debt. He
-      has sold land and equipment to try to stay afloat.
+      <blockquote>‘I’ve been through several dips in 40 years. This one here is
+      gonna kick my butt.’<br><br>Kirk Duensing, Nebraska Farmer, who says low
+      prices for soy &amp; corn crops combined with high interest loans has left
+      him more than $1M in debt. He has sold land and equipment to try to stay
+      afloat.</blockquote>
     _key: card-2-2d68aef0-34e5-4638-8be9-df757f566d9c
   - order: 2
     useCheckmark: false
     body: >-
-      # Why Now?
-
-
-      * **Oversupply** of crops (at home & overseas) fuels lower prices.
-
-      * **High Debt** – Farmers currently carrying the highest debt in 4 decades
-      (in part because of borrowing to cover several years of low crop prices).
-
-      * **Trade**: Tariffs (or taxes) on American grown crops exported to China
-      or Mexico hurts farmers on top of the depressed prices.
+      <div><h1>Why Now?</h1><ul><li><strong>Oversupply</strong> of crops (at
+      home &amp; overseas) fuels lower prices.</li><li><strong>High
+      Debt</strong> – Farmers currently carrying the highest debt in 4 decades
+      (in part because of borrowing to cover several years of low crop
+      prices).</li><li><strong>Trade</strong>: Tariffs (or taxes) on American
+      grown crops exported to China or Mexico hurts farmers on top of the
+      depressed prices.</li></ul></div>
     _key: card-3-41ce7c89-c94c-479d-a581-bceb0e50a174
   - order: 3
     useCheckmark: false
     body: >-
-      > ‘We thought 2019 would be the year things turned around. Then the trade
-      dispute happened and that really put a damper on things.’  
-        
-      Curt Hudnutt, Head of Rural Banking for Rabobank, one of the biggest U.S.
-      farm lenders, warning bankruptcies among U.S. farmers will increase. The
-      majority of farms lost money last year.
+      <blockquote>‘We thought 2019 would be the year things turned around. Then
+      the trade dispute happened and that really put a damper on
+      things.’<br><br>Curt Hudnutt, Head of Rural Banking for Rabobank, one of
+      the biggest U.S. farm lenders, warning bankruptcies among U.S. farmers
+      will increase. The majority of farms lost money last year.</blockquote>
     _key: card-4-9cddead1-bbd8-4e09-96aa-bee7b6c9f104
   - order: 4
     useCheckmark: false
     body: >-
-      ## Why It Matters:
-
-
-      **Your Kitchen Table**:_“…bankruptcies are climbing across swaths of the
-      Midwest that produce much of the nation’s grain and meat.”_ (WSJ)
-
-
-      **Your Tax Dollars**: Pres. Trump created a $12B fund to help subsidize
+      <div><h2>Why It Matters:</h2><p><strong>Your Kitchen Table</strong>:
+      <em>“…bankruptcies are climbing across swaths of the Midwest that produce
+      much of the nation’s grain and meat.”</em> (WSJ)</p><p><strong>Your Tax
+      Dollars</strong>: Pres. Trump created a $12B fund to help subsidize
       farmers impacted by trade disputes. Only a portion of the funds have been
-      accessed.
+      accessed.</p></div>
     _key: card-5-ecde89d2-1311-47f5-ba9e-2f42e4d4d6c2
   - order: 5
     useCheckmark: true
     body: >-
-      The downward trend in prices is predicted to continue for U.S. farmers.
-      U.S. Treasury Sec. Mnuchin is in China today, where he will continue trade
-      talks this week ahead of the March 2nd deal deadline for the two sides to
-      set new terms or continue the trade war.
-
-
-      [view sources](https://smarthernews.com/farmingbankruptcies/)
+      <div><p>The downward trend in prices is predicted to continue for U.S.
+      farmers. U.S. Treasury Sec. Mnuchin is in China today, where he will
+      continue trade talks this week ahead of the March 2nd deal deadline for
+      the two sides to set new terms or continue the trade war.</p><p><a
+      href="https://smarthernews.com/farmingbankruptcies/">view
+      sources</a></p></div>
     _key: card-10-679c86b0-8495-410b-8ae3-84d3f83eb3b7
 
 ---

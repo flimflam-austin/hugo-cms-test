@@ -22,79 +22,62 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Pres. Trump & Kim Jong Un Sign A Historic Blueprint for Peace
-
-
-      > “The past does not have to define the future. Yesterday’s conflict does
-      not have to be tomorrow’s war. And as history has proven over and over
-      again, adversaries can indeed become friends…. Peace is always worth the
-      effort…. Anyone can make war, but only the most courageous can make
-      peace.”
+      <div><h2>Pres. Trump &amp; Kim Jong Un Sign A Historic Blueprint for
+      Peace</h2><blockquote>“The past does not have to define the future.
+      Yesterday’s conflict does not have to be tomorrow’s war. And as history
+      has proven over and over again, adversaries can indeed become friends….
+      Peace is always worth the effort…. Anyone can make war, but only the most
+      courageous can make peace.”</blockquote></div>
     _key: card-1-17d15192-0f24-486c-9f19-c113d59607bd
   - order: 1
     useCheckmark: false
     body: >-
-      ## What It Says:
-
-
-      > “Chairman Kim and I just signed a joint statement in which
-      he**reaffirmed his unwavering commitment to complete denuclearizaton of
-      the Korean Peninsula**. We also agreed to vigorous negotiations to
-      implement the agreement as soon as possible. And he wants to do that.”  
-        
-        
-        
-      Pres. Trump said NK will begin destroying missile testing site soon.
+      <div><h2>What It Says:</h2><blockquote>“Chairman Kim and I just signed a
+      joint statement in which he <strong>reaffirmed his unwavering commitment
+      to complete denuclearizaton of the Korean Peninsula</strong>. We also
+      agreed to vigorous negotiations to implement the agreement as soon as
+      possible. And he wants to do that.”<br><br><br><br>Pres. Trump said NK
+      will begin destroying missile testing site soon.</blockquote></div>
     _key: card-2-66e78c32-b38d-46ba-8c1c-b91475c96216
   - order: 2
     useCheckmark: false
     body: >-
-      ## What It Doesn’t Say:
-
-
-      > “**We will be stopping the war games** … unless and until we see the
-      future negotiation is not going along like it should.”
-
-
-      * Pres. Trump did NOT agree to pull U.S. troops out of SK.
-
-      * Pres. Trump did NOT agree to lift sanctions.
-
-      * NK’s human rights violations discussed; NO promises made.
+      <div><h2>What It Doesn’t Say:</h2><blockquote>“<strong>We will be stopping
+      the war games</strong> … unless and until we see the future negotiation is
+      not going along like it should.”</blockquote><ul><li>Pres. Trump did NOT
+      agree to pull U.S. troops out of SK.</li><li>Pres. Trump did NOT agree to
+      lift sanctions.</li><li>NK’s human rights violations discussed; NO
+      promises made.</li></ul></div>
     _key: card-3-0a532483-4bb6-4a6c-9d81-d41d72a6399a
   - order: 3
     useCheckmark: false
     body: >-
-      > “Our unprecedented meeting, the first between an American president and
-      a leader of North Korea, proves that real change is indeed possible. My
-      meeting with Chairman Kim was honest, direct and productive….**We’re
-      prepared to start a new history and we’re ready to write new chapter
-      between our two nations**.”  
-        
-      Pres. Trump's remarks following Singapore Summit
+      <blockquote>“Our unprecedented meeting, the first between an American
+      president and a leader of North Korea, proves that real change is indeed
+      possible. My meeting with Chairman Kim was honest, direct and productive….
+      <strong>We’re prepared to start a new history and we’re ready to write new
+      chapter between our two nations</strong>.”<br><br>Pres. Trump's remarks
+      following Singapore Summit</blockquote>
     _key: card-4-038f0157-b874-4b89-ad18-f22f7915e1c2
   - order: 4
     useCheckmark: false
     body: >-
-      > **“I think without Otto, this would not have happened…. Otto did not die
-      in vain. He had a lot to do with us being here today.”**  
-        
-      In 2016, Otto Warmbier was a 21-year-old American student who was arrested
-      in North Korea after he was accused of stealing a political (propoganda)
-      poster and sentenced to 15 years of hard labor. When he was released by
-      North Korea after nearly a year and a half in captivity, he was in a coma
-      and died days later.
+      <blockquote><strong>“I think without Otto, this would not have happened….
+      Otto did not die in vain. He had a lot to do with us being here
+      today.”</strong><br><br>In 2016, Otto Warmbier was a 21-year-old American
+      student who was arrested in North Korea after he was accused of stealing a
+      political (propoganda) poster and sentenced to 15 years of hard labor.
+      When he was released by North Korea after nearly a year and a half in
+      captivity, he was in a coma and died days later.</blockquote>
     _key: card-5-c5a5a95a-242e-48e3-bac2-f64dfcac6eef
   - order: 5
     useCheckmark: true
     body: >-
-      The joint statement signed by Pres. Trump & Kim Jong Un is short on
-      details. Pres. Trump said there wasn't enough time, but that more will be
-      worked out in the future, and admitted that "if you don't get the ball
-      over the goal line, it doesn't mean enough." Read it here:
-
-
-      [view sources](https://smarthernews.com/18-06-12-nk/)
+      <div><p>The joint statement signed by Pres. Trump &amp; Kim Jong Un is
+      short on details. Pres. Trump said there wasn't enough time, but that more
+      will be worked out in the future, and admitted that "if you don't get the
+      ball over the goal line, it doesn't mean enough." Read it here:</p><p><a
+      href="https://smarthernews.com/18-06-12-nk/">view sources</a></p></div>
     _key: card-10-5e333c67-ccce-4528-b6f4-67a1d83dd663
 
 ---

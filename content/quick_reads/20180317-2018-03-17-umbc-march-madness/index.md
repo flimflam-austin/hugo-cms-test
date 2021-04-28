@@ -22,79 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # CINDERELLA STORY
-
-
-      ## March Madness
-
-
-      > **“Shock and awe in college basketball. UMBC makes history.”**  
-        
-        
-        
-      Jim Nantz, CBS Sports call at the end of the game: #16 UMBC upsets #1
-      Virginia (74-54).
-
-
-      WHY THIS IS HISTORIC
+      <div><h1>CINDERELLA STORY</h1><h2>March
+      Madness</h2><blockquote><strong>“Shock and awe in college basketball. UMBC
+      makes history.”</strong><br><br><br><br>Jim Nantz, CBS Sports call at the
+      end of the game: #16 UMBC upsets #1 Virginia (74-54).</blockquote><p>WHY
+      THIS IS HISTORIC</p></div>
     citation: WHY THIS IS HISTORIC
     _key: card-1-38c2cf91-2fd9-41cd-bb34-8b18f2160cb1
   - order: 1
     useCheckmark: false
     body: >-
-      # The Greatest Upset in College Basketball?
-
-
-      # 16 seeds were**0-135** all-time against #1 seeds until Friday.
-
-
-      Translation: In the history of the NCAA Men’s college basketball
-      tournament (79 yrs),**no team has ever beat a #1 team in the first
-      round.**
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/pIoVgJTOx5Y?enablejsapi=1&autoplay=1&rel=0)
+      <div><h1>The Greatest Upset in College Basketball?</h1><h1>16 seeds were
+      <strong>0-135</strong> all-time against #1 seeds until
+      Friday.</h1><p>Translation: In the history of the NCAA Men’s college
+      basketball tournament (79 yrs), <strong>no team has ever beat a #1 team in
+      the first round.</strong></p><p><a
+      href="https://www.youtube.com/embed/pIoVgJTOx5Y?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     citation: Watch Now
     _key: card-2-0ba4fe7a-fe15-4949-b865-aa657802171d
   - order: 2
     useCheckmark: false
-    body: |-
-      ## Cinderella’s Stats
-
-      * UMBC =**A University of Maryland Baltimore County**
-      * Enrollment: 13,662
-      * Mascot: The Retrievers
-      * Colors: Black & Gold
-      * Only previous appearances in the NCAA tournament were 1979, 1980 & 2008
-      * CBS Sports jokes UMBC stands for “**U****M**ust**B**e**C**inderella”
+    body: >-
+      <div><h2>Cinderella’s Stats</h2><ul><li>UMBC =<strong>A University of
+      Maryland Baltimore County</strong></li><li>Enrollment:
+      13,662</li><li>Mascot: The Retrievers</li><li>Colors: Black &amp;
+      Gold</li><li>Only previous appearances in the NCAA tournament were 1979,
+      1980 &amp; 2008</li><li>CBS Sports jokes UMBC stands for
+      “<strong>U</strong> <strong>M</strong>ust <strong>B</strong>e
+      <strong>C</strong>inderella”</li></ul></div>
     _key: card-3-0aa366b8-35e1-4d06-81ab-ac9e82f985af
   - order: 3
     useCheckmark: false
     body: >-
-      ## Impressive Performance
-
-
-      UMBC jumped out early & never trailed Virginia in the 2nd half.
-
-
-      Stunning not only that they won, but how certain the outcome was for the
-      last 15 mins of the game.
-
-
-      At 11:06ET UMBC’s website crashed.
-
-
-      @UMBCAthletics gained 13K Twitter followers in last 2 mins of game.
+      <div><h2>Impressive Performance</h2><p>UMBC jumped out early &amp; never
+      trailed Virginia in the 2nd half.</p><p>Stunning not only that they won,
+      but how certain the outcome was for the last 15 mins of the game.</p><p>At
+      11:06ET UMBC’s website crashed.</p><p>@UMBCAthletics gained 13K Twitter
+      followers in last 2 mins of game.</p></div>
     _key: card-4-f1e49f36-b682-4070-ad21-5837bbf770c0
   - order: 4
     useCheckmark: true
     body: >-
-      This may be the first for the men, but a women's college team did this 20
-      years ago. Find out who here.
-
-
-      [view sources](https://smarthernews.com/2018-03-17-umbc-march-madness/)
+      <div><p>This may be the first for the men, but a women's college team did
+      this 20 years ago. Find out who here.</p><p><a
+      href="https://smarthernews.com/2018-03-17-umbc-march-madness/">view
+      sources</a></p></div>
     _key: card-10-a2e21b62-0b4a-4a95-8bb7-8cb09f878c18
 
 ---

@@ -22,85 +22,54 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      The Winner Wore Pink…  
-
-      HOT PINK
-
-
-      > “I knew it was going to be a dogfight. It’s just a way of God basically
-      saying, ‘Let’s see if you have it.'”  
-        
-        
-        
-      Golfer Patrick Reed, who sported a fluorescent pink Nike shirt on his
-      quest for the iconic green jacket at The Masters Tournament.
-
-
-      Why Pink?
+      <div><p>The Winner Wore Pink…<br>HOT PINK</p><blockquote>“I knew it was
+      going to be a dogfight. It’s just a way of God basically saying, ‘Let’s
+      see if you have it.'”<br><br><br><br>Golfer Patrick Reed, who sported a
+      fluorescent pink Nike shirt on his quest for the iconic green jacket at
+      The Masters Tournament.</blockquote><p>Why Pink?</p></div>
     citation: Why Pink?
     _key: card-1-9e722cfe-28c3-44fd-896a-4d0b5d679e40
   - order: 1
     useCheckmark: false
     body: >-
-      # “Hyper Magenta”
-
-
-      ## New Marketing Strategy
-
-
-      * According to WSJ, Nike decided sponsored golfers would wear the same hue
-      during The Masters.
-
-      * That meant bitter rivals sported the same color shirt (or “hyper
-      magenta” -A_Golf Week_) on the same day while battling for the
-      championship.
+      <div><h1>“Hyper Magenta”</h1><h2>New Marketing
+      Strategy</h2><ul><li>According to WSJ, Nike decided sponsored golfers
+      would wear the same hue during The Masters.</li><li>That meant bitter
+      rivals sported the same color shirt (or “hyper magenta” -A <em>Golf
+      Week</em>) on the same day while battling for the
+      championship.</li></ul></div>
     _key: card-2-bf76269b-9436-401f-b25d-b887ced56a9f
   - order: 2
     useCheckmark: false
     body: >-
-      # “Captain America”
-
-
-      ## Patrick Reed
-
-
-      * 27-year-old married Texan.
-
-      * “Captain America” from his good performances at the Ryder Cup – a golf
-      tournament every 2 years between U.S. & Europe.
-
-      * Idolizes Tiger Woods & dresses like him in a red shirt and black pants
-      (why many took note of Reed’s deviated hot pink shirt).
+      <div><h1>“Captain America”</h1><h2>Patrick Reed</h2><ul><li>27-year-old
+      married Texan.</li><li>“Captain America” from his good performances at the
+      Ryder Cup – a golf tournament every 2 years between U.S. &amp;
+      Europe.</li><li>Idolizes Tiger Woods &amp; dresses like him in a red shirt
+      and black pants (why many took note of Reed’s deviated hot pink
+      shirt).</li></ul></div>
     _key: card-3-73e3dc61-2ac7-45eb-86d1-d936869d4279
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why A Green Jacket?
-
-
-      * Green Jacket = official members jacket at the exclusive “August National
-      Golf Club” since 1937.
-
-      * The Green Jacket awarded to tournament champion since 1949.
-
-      * Jackets ONLY for members or The Masters’ winner (for 1 yr only).
-
-      * The same Cincinnati tailor has made the famous jackets since 1967.
-
-
-      [Click: Tailor's
-      Story](https://www.cincinnati.com/story/sports/golf/2016/04/05/mystery-exclusivity-masters-green-jacket/82665982/)
+      <div><h2>Why A Green Jacket?</h2><ul><li>Green Jacket = official members
+      jacket at the exclusive “August National Golf Club” since
+      1937.</li><li>The Green Jacket awarded to tournament champion since
+      1949.</li><li>Jackets ONLY for members or The Masters’ winner (for 1 yr
+      only).</li><li>The same Cincinnati tailor has made the famous jackets
+      since 1967.</li></ul><p><a
+      href="https://www.cincinnati.com/story/sports/golf/2016/04/05/mystery-exclusivity-masters-green-jacket/82665982/">Click:
+      Tailor's Story</a></p></div>
     citation: 'Click: Tailor''s Story'
     _key: card-4-a99268de-59f3-416b-8630-48dab443c9f7
   - order: 4
     useCheckmark: true
     body: >-
-      Last year, Tiger Woods could barely walk. This year, he competed at The
-      Masters - a tournament he won 4 times. Some say this is an incredible
-      comeback post back surgery. Read More:
-
-
-      [view sources](https://smarthernews.com/18-04-10-winner-wore-pink/)
+      <div><p>Last year, Tiger Woods could barely walk. This year, he competed
+      at The Masters - a tournament he won 4 times. Some say this is an
+      incredible comeback post back surgery. Read More:</p><p><a
+      href="https://smarthernews.com/18-04-10-winner-wore-pink/">view
+      sources</a></p></div>
     _key: card-10-0fc6b67f-419f-4da6-a70e-937f4afd893f
 
 ---

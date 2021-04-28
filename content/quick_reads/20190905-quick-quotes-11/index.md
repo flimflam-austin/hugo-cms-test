@@ -22,67 +22,64 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “When you move at this pace in a short amount of time, it’s natural for
-      the market to take a breather.”  
-        
-      Steve Chiavarone, Federated Investors portfolio manager, as the Dow
-      suffered its worst one-day point drop in nearly 3 months on Thursday as
-      interest rates hit new multi-year highs. With stocks still holding near
-      record highs, investors will watch Friday's September jobs report for any
-      employment changes or a worrisome jump in avg. hourly earnings.
+      <blockquote>“When you move at this pace in a short amount of time, it’s
+      natural for the market to take a breather.”<br><br>Steve Chiavarone,
+      Federated Investors portfolio manager, as the Dow suffered its worst
+      one-day point drop in nearly 3 months on Thursday as interest rates hit
+      new multi-year highs. With stocks still holding near record highs,
+      investors will watch Friday's September jobs report for any employment
+      changes or a worrisome jump in avg. hourly earnings.</blockquote>
     _key: card-1-b066c12d-4e76-4fc2-8d3c-0838b55fa121
   - order: 1
     useCheckmark: false
     body: >-
-      “The ninety-nine percent are just a bunch of Zero’$.”  
-        
-      William Clyde Allen III, who confessed to sending ricin-laced envelopes to
+      <p>“The ninety-nine percent are just a bunch of Zero’$.”<br><br>William
+      Clyde Allen III, who confessed to sending ricin-laced envelopes to
       President Trump and three other members of the administration, in a recent
       Facebook post. The Navy veteran was arrested by the FBI at his Utah home
       on Wednesday where he admitted to purchasing castor beans, the raw
       material for the poison ricin, and mailed it. No one was hurt. He's being
-      held on a $25K cash bond.
+      held on a $25K cash bond.</p>
     _key: card-2-81c937ec-a6e0-4c98-bb1a-25dd34a0fc6e
   - order: 2
     useCheckmark: false
     body: >-
-      > "There’s no one silver bullet when it comes to the epidemic of opioids,
-      but one thing is for certain, I and we will keep fighting.”  
-        
-      Sen. Shelley Moore Capito (R-WV) on the sweeping bipartisan effort to pass
-      opioid legislation to fund programs to treat addiction, monitor
-      prescriptions and update information on alternative treatments to
-      addictive drugs. President Trump is expected to sign the bill.
+      <blockquote>"There’s no one silver bullet when it comes to the epidemic of
+      opioids, but one thing is for certain, I and we will keep
+      fighting.”<br><br>Sen. Shelley Moore Capito (R-WV) on the sweeping
+      bipartisan effort to pass opioid legislation to fund programs to treat
+      addiction, monitor prescriptions and update information on alternative
+      treatments to addictive drugs. President Trump is expected to sign the
+      bill.</blockquote>
     _key: card-3-69c38df8-f1f2-4368-badc-a38d0c49acc2
   - order: 3
     useCheckmark: false
     body: >-
-      > “Keen as I may be to clear my name, I refuse to feed the media spectacle
-      created by people seeking to promote themselves at my expense.”  
-        
-      Cristiano Ronaldo tweet denying charges he raped a woman in a Las Vegas
-      hotel room in 2009. The world's highest-paid soccer star ($108M) was
-      benched by his Portugal team for two games following the claims, and his
-      sponsor Nike says it is "deeply concerned" by the allegations.
+      <blockquote>“Keen as I may be to clear my name, I refuse to feed the media
+      spectacle created by people seeking to promote themselves at my
+      expense.”<br><br>Cristiano Ronaldo tweet denying charges he raped a woman
+      in a Las Vegas hotel room in 2009. The world's highest-paid soccer star
+      ($108M) was benched by his Portugal team for two games following the
+      claims, and his sponsor Nike says it is "deeply concerned" by the
+      allegations.</blockquote>
     _key: card-4-066747ed-f59b-4ecc-9adc-a18bb52e3892
   - order: 4
     useCheckmark: false
     body: >-
-      > “It’s the Rolls Royce of malts. … it’s an object of beauty in its own
-      right – almost a museum piece.”  
-        
-      Martin Green, Bonhams auction house specialist, on the 60-year-old bottle
-      of whiskey that just sold for $1.1 million dollars at auction. The
-      Macallan 26, which was purchased by a private collector from Asia, is now
-      the most expensive standard whisky bottle ever to be sold at auction. When
-      first sold in 1986, the bottle cost $27,000.
+      <blockquote>“It’s the Rolls Royce of malts. … it’s an object of beauty in
+      its own right – almost a museum piece.”<br><br>Martin Green, Bonhams
+      auction house specialist, on the 60-year-old bottle of whiskey that just
+      sold for $1.1 million dollars at auction. The Macallan 26, which was
+      purchased by a private collector from Asia, is now the most expensive
+      standard whisky bottle ever to be sold at auction. When first sold in
+      1986, the bottle cost $27,000.</blockquote>
     _key: card-5-6f621e2c-4e6e-442e-bcbb-1796ab42cb5d
   - order: 5
     useCheckmark: true
-    body: |-
-      Cheers to the weekend!
-
-      [view sources](https://smarthernews.com/quick-quotes-11/)
+    body: >-
+      <div><p>Cheers to the weekend!</p><p><a
+      href="https://smarthernews.com/quick-quotes-11/">view
+      sources</a></p></div>
     _key: card-10-0aa3ee26-42e2-4063-a2c1-2ea70b2b37e8
 
 ---

@@ -22,18 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“I was given an opportunity and sometimes that’s all you need to prove
-      yourself.”_
+      <div><blockquote><em>“I was given an opportunity and sometimes that’s all
+      you need to prove yourself.”</em></blockquote><p></p></div>
     citation: SGT. MAJ. THOMAS PAYNE
     _key: d2172bc160ab
   - order: 1
     useCheckmark: true
     body: >-
-      Sgt. Maj. Thomas “Patrick” Payne received the nation's highest military
-      honor for helping to rescue approx. 70 hostages from ISIS terrorists. He
-      is the second living service member to receive the Medal of Honor for
-      actions in Iraq. He named his son Josh after his teammate, Master Sgt.,
-      Joshua Wheeler, who was killed during the operation.
+      <div><p>Sgt. Maj. Thomas “Patrick” Payne received the nation's highest
+      military honor for helping to rescue approx. 70 hostages from ISIS
+      terrorists. He is the second living service member to receive the Medal of
+      Honor for actions in Iraq. He named his son Josh after his teammate,
+      Master Sgt., Joshua Wheeler, who was killed during the
+      operation.</p><p></p></div>
     citation: VIEW SOURCES
     _key: c9c794737c53
 

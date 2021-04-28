@@ -22,20 +22,18 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _ "The heart of America is with those who made the great sacrifice in
-      defense of our ideals."_
+      <div><blockquote><em> "The heart of America is with those who made the
+      great sacrifice in defense of our ideals."</em></blockquote><p></p></div>
     citation: President Coolidge
     _key: card-1-1a195c95-7f70-4928-855b-b012c372970a
   - order: 1
     useCheckmark: true
     body: >-
-      Pres. Coolidge said this during a special Christmas Eve message to the
-      nation’s veterans in 1923, before walking out to light the first National
-      Christmas Tree. On Christmas Day, Pres. Coolidge & his family spent 3 hrs
-      with veterans of WWI at Walter Reed Hospital.
-
-
-      [view sources](https://smarthernews.com/18-11-28-qtd/)
+      <div><p>Pres. Coolidge said this during a special Christmas Eve message to
+      the nation’s veterans in 1923, before walking out to light the first
+      National Christmas Tree. On Christmas Day, Pres. Coolidge &amp; his family
+      spent 3 hrs with veterans of WWI at Walter Reed Hospital.</p><p><a
+      href="https://smarthernews.com/18-11-28-qtd/">view sources</a></p></div>
     _key: card-10-146eed4f-9761-426d-8311-95e1f5083f9d
 
 ---

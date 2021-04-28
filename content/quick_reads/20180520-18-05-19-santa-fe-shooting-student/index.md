@@ -18,23 +18,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > **“It’s been happening everywhere. I’ve always kind of felt like
-      eventually it was going to happen here too…. I wasn’t surprised, I was
-      just scared.”**  
-        
-        
-        
-      Paige Curry, 17-year-old student survivor of the May 18th Santa Fe High
-      School shooting in Texas
-
-
-      [Watch Interview Here:](http://abc13.com/video/embed/?pid=3491939)
+      <div><blockquote><strong>“It’s been happening everywhere. I’ve always kind
+      of felt like eventually it was going to happen here too…. I wasn’t
+      surprised, I was just scared.”</strong><br><br><br><br>Paige Curry,
+      17-year-old student survivor of the May 18th Santa Fe High School shooting
+      in Texas</blockquote><p><a
+      href="http://abc13.com/video/embed/?pid=3491939">Watch Interview
+      Here:</a></p></div>
     _key: card-1-42a91fae-6d54-4c21-abe1-37ad247c42e4
   - order: 1
     useCheckmark: true
     body: >-
-      [view
-      sources](https://smarthernews.com/18-05-19-santa-fe-shooting-student/)
+      <p><a
+      href="https://smarthernews.com/18-05-19-santa-fe-shooting-student/">view
+      sources</a></p>
     _key: card-10-4ec06e6b-b723-4086-91a5-6f76e67433cf
 
 ---

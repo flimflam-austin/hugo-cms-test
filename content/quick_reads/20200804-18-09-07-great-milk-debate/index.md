@@ -21,66 +21,50 @@ colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## Think The Hottest Debate In America Is Political?
-
-      > **Think again.**  
-        
-        
-      The fascinating (& heated) fight over who can call what “milk.”
-
-      Why It Matters
+    body: >-
+      <div><h2>Think The Hottest Debate In America Is
+      Political?</h2><blockquote><strong>Think again.</strong><br><br><br>The
+      fascinating (&amp; heated) fight over who can call what
+      “milk.”</blockquote><p>Why It Matters</p></div>
     _key: card-1-13417175-3f76-4780-93b9-3cd0dca68ed7
   - order: 1
     useCheckmark: false
     body: >-
-      > “An almond doesn’t lactate.”  
-        
-        
-      Commissioner Scott Gottleib addressing food labels and the term "milk" -
-      which he says refers to a product from a lactating animal. The FDA is
-      reviewing the "public health consequences" of labeling different products
-      "milk" when originally the term referred to only cow's milk.
-
-
-      [Click:
-      Watch](https://www.politico.com/video/2018/07/17/fda-commissioner-on-milk-regulation-an-almond-doesnt-lactate-067140)
+      <div><blockquote>“An almond doesn’t lactate.”<br><br><br>Commissioner
+      Scott Gottleib addressing food labels and the term "milk" - which he says
+      refers to a product from a lactating animal. The FDA is reviewing the
+      "public health consequences" of labeling different products "milk" when
+      originally the term referred to only cow's milk.</blockquote><p><a
+      href="https://www.politico.com/video/2018/07/17/fda-commissioner-on-milk-regulation-an-almond-doesnt-lactate-067140">Click:
+      Watch</a></p></div>
     _key: card-2-37f823ce-9613-4ac2-a6c1-7aa99eb1ed7a
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why This Matters
-
-
-      * Big Picture: Americans drinking less dairy milk, while consumption of
-      “alternative” milks (almond, coconut, oat, etc.) on the rise.
-
-      * The dairy industry says use of the term “milk” for other products
-      misleads the public into believing alternatives provide the same
-      nutritional value as cow milk, when they don’t; they want a new law
-      “protecting” the milk label.
+      <div><h2>Why This Matters</h2><ul><li>Big Picture: Americans drinking less
+      dairy milk, while consumption of “alternative” milks (almond, coconut,
+      oat, etc.) on the rise.</li><li>The dairy industry says use of the term
+      “milk” for other products misleads the public into believing alternatives
+      provide the same nutritional value as cow milk, when they don’t; they want
+      a new law “protecting” the milk label.</li></ul></div>
     _key: card-3-d44cf1ca-bda6-4328-9dcf-623cdbdda817
   - order: 3
     useCheckmark: false
     body: >-
-      > “No one owns the English language, and we’re not backing down.”  
-        
-        
-        
-      Michele Simon, Exec. Dir, Plant Based Foods Association, who wants to
-      resolve this conflict in a "peaceful manner." The FDA has shown signs of
-      empathy for the dairy industry, but enforcing any change to the language
-      remains questionable.
+      <blockquote>“No one owns the English language, and we’re not backing
+      down.”<br><br><br><br>Michele Simon, Exec. Dir, Plant Based Foods
+      Association, who wants to resolve this conflict in a "peaceful manner."
+      The FDA has shown signs of empathy for the dairy industry, but enforcing
+      any change to the language remains questionable.</blockquote>
     _key: card-4-c0e59f3b-aa8e-4efd-a8ad-be4184854ded
   - order: 4
     useCheckmark: true
     body: >-
-      Laws DO exist to protect certain products, such as "bourbon" (whiskey
-      produced in the United States in a particular way). Will that extend to
-      cow's milk? Should it?
-
-
-      [view sources](https://smarthernews.com/18-09-07-great-milk-debate/)
+      <div><p>Laws DO exist to protect certain products, such as "bourbon"
+      (whiskey produced in the United States in a particular way). Will that
+      extend to cow's milk? Should it?</p><p><a
+      href="https://smarthernews.com/18-09-07-great-milk-debate/">view
+      sources</a></p></div>
     _key: card-10-648137ac-bd5d-4acc-ac9f-c3c208e4e9e9
 
 ---

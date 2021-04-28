@@ -21,104 +21,71 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # Western Renovation?
-
-      Will President Trump “reshape” the West?
-
-      What happened at the NATO summit & why the timing matters.
-
-
-
-      Flip: Nato refresher
+    body: >-
+      <div><h1>Western Renovation?</h1><p>Will President Trump “reshape” the
+      West?</p><p>What happened at the NATO summit &amp; why the timing
+      matters.</p><p></p><p>Flip: Nato refresher</p></div>
     _key: card-1-ea941338-3f57-4b32-96a6-fc82b13864ac
   - order: 1
     useCheckmark: false
     body: >-
-      # NATO:
-
-
-      ## What You Should Know
-
-
-      * North Atlantic Treaty Organization
-
-      * 29 countries (Europe & U.S./Canada)
-
-      * Alliance dates back to 1949
-
-      * **“Collective defense”**A (an attack against one Ally is considered as
-      an attack against all Allies)
-
-
-
-
-      [Click Here: Read More](https://www.nato.int/cps/su/natohq/126169.htm)
+      <div><h1>NATO:</h1><h2>What You Should Know</h2><ul><li>North Atlantic
+      Treaty Organization</li><li>29 countries (Europe &amp;
+      U.S./Canada)</li><li>Alliance dates back to
+      1949</li><li><strong>“Collective defense”</strong>A (an attack against one
+      Ally is considered as an attack against all Allies)</li></ul><p></p><p><a
+      href="https://www.nato.int/cps/su/natohq/126169.htm">Click Here: Read
+      More</a></p></div>
     _key: card-2-cc342155-9573-4a35-90e5-a99a14e89faa
   - order: 2
     useCheckmark: false
     body: >-
-      ## What’s The Drama?
-
-
-      * At NATO summit, Pres. Trump criticized member countries (again) for not
-      contributing more to common defense.
-
-      * Pres. used term “inappropriate” several times describing biz deals
-      Germany has with Russia while not contributing more to NATO & wanting U.S.
-      protection (aka $$$);A described situation as unfair to American taxpayer
+      <div><h2>What’s The Drama?</h2><ul><li>At NATO summit, Pres. Trump
+      criticized member countries (again) for not contributing more to common
+      defense.</li><li>Pres. used term “inappropriate” several times describing
+      biz deals Germany has with Russia while not contributing more to NATO
+      &amp; wanting U.S. protection (aka $$$);A described situation as unfair to
+      American taxpayer</li></ul></div>
     _key: card-3-631df8ab-8be7-4af8-9b92-2063525e8135
   - order: 3
     useCheckmark: false
     body: >-
-      > “…Germany is just paying a little bit over 1 percent, whereas the United
-      States, in actual numbers, is paying 4.2 percent of a much larger GDP.A So
-      I think that’s**inappropriate** also. You know, we’re protecting Germany,
-      we’re protecting France. We’re protecting everybody. And yet we’re paying
-      a lot of money to protect.”  
-        
-      President Trump, July 11, 2018
-
-
-      [Click:
-      Transcript](https://www.whitehouse.gov/briefings-statements/remarks-president-trump-nato-secretary-general-jens-stoltenberg-bilateral-breakfast/)
+      <div><blockquote>“…Germany is just paying a little bit over 1 percent,
+      whereas the United States, in actual numbers, is paying 4.2 percent of a
+      much larger GDP.A So I think that’s <strong>inappropriate</strong> also.
+      You know, we’re protecting Germany, we’re protecting France. We’re
+      protecting everybody. And yet we’re paying a lot of money to
+      protect.”<br><br>President Trump, July 11, 2018</blockquote><p><a
+      href="https://www.whitehouse.gov/briefings-statements/remarks-president-trump-nato-secretary-general-jens-stoltenberg-bilateral-breakfast/">Click:
+      Transcript</a></p></div>
     _key: card-4-1915fec2-6cb6-4619-9ed3-360b906b9c2f
   - order: 4
     useCheckmark: false
     body: >-
-      > “I agree with you that we have to do make sure that our allies are
-      investing more. The good news is that allies have started to invest more
-      in defense. After years of cutting defense budgets, they have started to
-      add billions to their defense budgets.A And last year was the biggest
+      <blockquote>“I agree with you that we have to do make sure that our allies
+      are investing more. The good news is that allies have started to invest
+      more in defense. After years of cutting defense budgets, they have started
+      to add billions to their defense budgets.A And last year was the biggest
       increase in defense spending across Europe and Canada in that
-      generation.”  
-        
-        
-      NATO Sec. Stoltenberg, July 11, 2018
+      generation.”<br><br><br>NATO Sec. Stoltenberg, July 11, 2018</blockquote>
     _key: card-5-cce6e8cc-d83c-4b82-b733-14e9ed6be87f
   - order: 5
     useCheckmark: false
     body: >-
-      ## Why Timing Matters?
-
-
-      * NATO troops deployed to areas like Poland as a way of countering an
-      emboldened Russia (Russia ignored international borders & “took” Crimea
-      from Ukraine).
-
-      * Pres. Trump criticized NATO members (who want protection from Russia)
-      AND pointed out their own relationships w/the Kremlin before his mtg
-      w/Russian Pres. Putin next week in Helsinki.
+      <div><h2>Why Timing Matters?</h2><ul><li>NATO troops deployed to areas
+      like Poland as a way of countering an emboldened Russia (Russia ignored
+      international borders &amp; “took” Crimea from Ukraine).</li><li>Pres.
+      Trump criticized NATO members (who want protection from Russia) AND
+      pointed out their own relationships w/the Kremlin before his mtg w/Russian
+      Pres. Putin next week in Helsinki.</li></ul></div>
     _key: card-6-9dad4e7b-68ee-4a21-a369-373d44688270
   - order: 6
     useCheckmark: true
     body: >-
-      Is NATO worth the investment? One commentator says: "The issue is not
-      whether NATO is still useful, but whether the alliance can reform itself
-      before it implodes."
-
-
-      [view sources](https://smarthernews.com/18-07-11-nato/)
+      <div><p>Is NATO worth the investment? One commentator says: "The issue is
+      not whether NATO is still useful, but whether the alliance can reform
+      itself before it implodes."</p><p><a
+      href="https://smarthernews.com/18-07-11-nato/">view sources</a></p></div>
     _key: card-10-43b9dc0d-5e85-4c1f-a55d-14d00dc51710
 
 ---

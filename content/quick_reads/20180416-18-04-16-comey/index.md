@@ -22,77 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # REVENGE or MORE?
-
-
-      “**He is morally unfit to be president.**“
-
-
-      Ahead of the release of his book, former FBI director James Comey sat down
-      with ABC News to make HIS case against the President.
-
-
-      Flip: Does It Matter?
+      <div><h1>REVENGE or MORE?</h1><p>“<strong>He is morally unfit to be
+      president.</strong>“</p><p>Ahead of the release of his book, former FBI
+      director James Comey sat down with ABC News to make HIS case against the
+      President.</p><p>Flip: Does It Matter?</p></div>
     citation: 'Flip: Does It Matter?'
     _key: card-1-b789e10d-bd67-4e89-a058-fc349cb39f81
   - order: 1
     useCheckmark: false
     body: >-
-      ## Comey on Pres. Trump:
-
-
-      **Likens him to a mob boss & offers few kind words:** “This president is
-      unethical, and untethered to truth and institutional values.”
-
-
-      **Stops short of calling him a criminal:** ‘I have one perspective on the
+      <div><h2>Comey on Pres. Trump:</h2><p><strong>Likens him to a mob boss
+      &amp; offers few kind words:</strong> “This president is unethical, and
+      untethered to truth and institutional values.”</p><p><strong>Stops short
+      of calling him a criminal:</strong> ‘I have one perspective on the
       behavior I saw, which while disturbing and violating basic norms of
-      ethical leadership, may fall short of being illegal.’
+      ethical leadership, may fall short of being illegal.’</p></div>
     _key: card-2-7bb0acb8-3b94-4926-b6cf-de2d997bac30
   - order: 2
     useCheckmark: false
     body: >-
-      ## Pres. Trump on Comey:
-
-
-      “James Comey is a proven LEAKER & LIAR.”
-
-
-      “He is a weak and untruthful slime ball who was, as time has proven, a
-      terrible Director of the FBI.”
-
-
-      “It was my great honor to fire James Comey!”
-
-
-      [CLICK FOR
-      TWEETS](https://twitter.com/realDonaldTrump/status/984763579210633216)
+      <div><h2>Pres. Trump on Comey:</h2><p>“James Comey is a proven LEAKER
+      &amp; LIAR.”</p><p>“He is a weak and untruthful slime ball who was, as
+      time has proven, a terrible Director of the FBI.”</p><p>“It was my great
+      honor to fire James Comey!”</p><p><a
+      href="https://twitter.com/realDonaldTrump/status/984763579210633216">CLICK
+      FOR TWEETS</a></p></div>
     citation: CLICK FOR TWEETS
     _key: card-3-9b249cb7-d0a2-4a35-8d7a-bb9f332d8997
   - order: 3
     useCheckmark: false
     body: >-
-      ## Is Comey’s Book A Game Changer?
-
-
-      Legal experts question whether Comey’s words could come back to hurt him
-      or the FBI’s Russia’s probe.
-
-
-      **What To Watch For:**  
-
-      If what Comey says in an interview or book is inconsistent with his
-      previous public statement, he may discredit himself and potentially impact
-      current investigations.
+      <div><h2>Is Comey’s Book A Game Changer?</h2><p>Legal experts question
+      whether Comey’s words could come back to hurt him or the FBI’s Russia’s
+      probe.</p><p><strong>What To Watch For:</strong><br>If what Comey says in
+      an interview or book is inconsistent with his previous public statement,
+      he may discredit himself and potentially impact current
+      investigations.</p></div>
     _key: card-4-874f7665-bec8-4a18-9ac3-7eff677492c8
   - order: 4
     useCheckmark: true
     body: >-
-      Comey's tell-all book has yet to hit stores, but expect to see it (and
-      him) all over the headlines this week. Here's a recap of how we got here:
-
-
-      [view sources](https://smarthernews.com/18-04-16-comey/)
+      <div><p>Comey's tell-all book has yet to hit stores, but expect to see it
+      (and him) all over the headlines this week. Here's a recap of how we got
+      here:</p><p><a href="https://smarthernews.com/18-04-16-comey/">view
+      sources</a></p></div>
     _key: card-10-27b41307-8ed3-48da-a086-b00393ee7a73
 
 ---

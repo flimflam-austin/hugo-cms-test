@@ -22,55 +22,47 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # QUICK QUOTES
-
-
-      > “What we don’t want in this country, we don’t want anyone with
-      unfettered power.”  
-        
-      Judge T.S. Elliot to prosecutors on Friday May 4, 2018, challenging them
-      on whether the charges against Pres. Trump's former campaign advisor, Paul
-      Manafort, fall within the scope of the investigation by Robert Mueller's
-      team.
+      <div><h1>QUICK QUOTES</h1><blockquote>“What we don’t want in this country,
+      we don’t want anyone with unfettered power.”<br><br>Judge T.S. Elliot to
+      prosecutors on Friday May 4, 2018, challenging them on whether the charges
+      against Pres. Trump's former campaign advisor, Paul Manafort, fall within
+      the scope of the investigation by Robert Mueller's
+      team.</blockquote></div>
     _key: card-1-60e407c9-7e5e-4029-bd9e-970598bff002
   - order: 1
     useCheckmark: false
     body: >-
-      > “I have the date. I have the location. It’s all agreed to.  
-        
-        
-      Pres. Trump Friday, May 4th, 2018 aboard Air Force One re: the potential
-      history-making meeting with North Korean Dictator, Kim Jong Un - the first
-      meeting ever between a sitting President and a North Korean leader.
+      <blockquote>“I have the date. I have the location. It’s all agreed
+      to.<br><br><br>Pres. Trump Friday, May 4th, 2018 aboard Air Force One re:
+      the potential history-making meeting with North Korean Dictator, Kim Jong
+      Un - the first meeting ever between a sitting President and a North Korean
+      leader.</blockquote>
     _key: card-2-4ae0c6d0-2b3a-4c8c-8efd-f2b39a749939
   - order: 2
     useCheckmark: false
     body: >-
-      > “I think for the Vatican to accept and be part of this is a really big
-      deal and a great thing.”  
-        
-        
-      Donatella Versace on "The Met's" latest exhibit "Heavenly Bodies: Fashion
-      and the Catholic Imagination" (The Met Ball shares the same theme). 150
-      fashions (including from Versace) will display along side religious
-      garments, some lent by the Vatican.
+      <blockquote>“I think for the Vatican to accept and be part of this is a
+      really big deal and a great thing.”<br><br><br>Donatella Versace on "The
+      Met's" latest exhibit "Heavenly Bodies: Fashion and the Catholic
+      Imagination" (The Met Ball shares the same theme). 150 fashions (including
+      from Versace) will display along side religious garments, some lent by the
+      Vatican.</blockquote>
     _key: card-3-af6697b9-e476-40cb-831f-bc87785d320a
   - order: 3
     useCheckmark: false
     body: >-
-      > “The economy has added jobs every month since Oct 2010, a**91-month
-      stretch** that ranks at the**longest period of job growth in record**.”  
-        
-        
-      Wall Street Journal article announcing new jobless rate at 3.9% - the
-      lowest level since December 2000.
+      <blockquote>“The economy has added jobs every month since Oct 2010, a
+      <strong>91-month stretch</strong> that ranks at the <strong>longest period
+      of job growth in record</strong>.”<br><br><br>Wall Street Journal article
+      announcing new jobless rate at 3.9% - the lowest level since December
+      2000.</blockquote>
     _key: card-4-116cfe34-c860-47b1-aad2-3646cca02316
   - order: 4
     useCheckmark: true
-    body: |-
-      Have a great day!
-
-      [view sources](https://smarthernews.com/18-05-07-quick-quotes-may-6/)
+    body: >-
+      <div><p>Have a great day!</p><p><a
+      href="https://smarthernews.com/18-05-07-quick-quotes-may-6/">view
+      sources</a></p></div>
     _key: card-10-e8d742cc-72e8-4bcb-8433-e1bcaf78645a
 
 ---

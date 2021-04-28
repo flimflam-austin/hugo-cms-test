@@ -22,20 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “_Individuality is beautiful. God made you as you are, and that’s
-      beautiful. You are unique, special. You don’t want to look like someone
-      else or be that other person_.”
+      <div><blockquote>“<em>Individuality is beautiful. God made you as you are,
+      and that’s beautiful. You are unique, special. You don’t want to look like
+      someone else or be that other person</em>.”</blockquote><p></p></div>
     citation: JANET JACKSON
     _key: card-1-543f44b3-2e40-41cd-95a1-684842a6ca0a
   - order: 1
     useCheckmark: true
     body: >-
-      Janet Jackson will grace the cover of InStyle's October beauty issue. In
-      the interview, she discusses beauty and confidence, both before and after
-      becoming a first-time mother at 50.
-
-
-      [view sources](https://smarthernews.com/18-09-05-qtd-janet-jackson/)
+      <div><p>Janet Jackson will grace the cover of InStyle's October beauty
+      issue. In the interview, she discusses beauty and confidence, both before
+      and after becoming a first-time mother at 50.</p><p><a
+      href="https://smarthernews.com/18-09-05-qtd-janet-jackson/">view
+      sources</a></p></div>
     _key: card-10-45a5400a-9867-4ddf-a4c3-de9faf0f160b
 
 ---

@@ -22,57 +22,42 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # GAME CHANGER
-
-
-      ## What If There Were No More Mosquitoes?
-
-
-      Experiment wipes out 80% of “one of the world’s most dangerous pests” in a
-      bid to save millions of lives from disease-carrying mosquitoes.
-
-
-      DEETS ON NO MORE DEET
+      <div><h1>GAME CHANGER</h1><h2>What If There Were No More
+      Mosquitoes?</h2><p>Experiment wipes out 80% of “one of the world’s most
+      dangerous pests” in a bid to save millions of lives from disease-carrying
+      mosquitoes.</p><p>DEETS ON NO MORE DEET</p></div>
     _key: card-1-5b6472ec-2d4f-446e-bce8-ecffdf48eac2
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Experiment
-
-
-      * **Who:** Researchers infected “Aedes aegypti” male mosquitoes with
-      bacteria making them sterile.
-
-      * **Where:** Released 3M in Australia.
-
-      * **What:** Sterile male mosquitoes didn’t bite or spread disease, and
-      when they mated with wild females, eggs didn’t hatch – effectively wiping
-      out population.
-
-      * **Why:** The mosquitoes spread diseases like dengue fever & zika.
+      <div><h2>The Experiment</h2><ul><li><strong>Who:</strong> Researchers
+      infected “Aedes aegypti” male mosquitoes with bacteria making them
+      sterile.</li><li><strong>Where:</strong> Released 3M in
+      Australia.</li><li><strong>What:</strong> Sterile male mosquitoes didn’t
+      bite or spread disease, and when they mated with wild females, eggs didn’t
+      hatch – effectively wiping out population.</li><li><strong>Why:</strong>
+      The mosquitoes spread diseases like dengue fever &amp;
+      zika.</li></ul></div>
     _key: card-2-49092bdd-8c67-4186-b1bc-be15a48b1904
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why it Matters
-
-
-      * Majority of mosquitoes don’t spread diseases, BUT 3 most deadly (found
-      globally) are responsible for**17% of infectious disease transmissions**.
-
-      * Researchers say this experiment**offers a potential new solution**.
-
-      * In May, the CDC warned the US is**“not fully prepared”** for
-      these**widespread & difficult to control diseases.**
+      <div><h2>Why it Matters</h2><ul><li>Majority of mosquitoes don’t spread
+      diseases, BUT 3 most deadly (found globally) are responsible for
+      <strong>17% of infectious disease
+      transmissions</strong>.</li><li>Researchers say this experiment
+      <strong>offers a potential new solution</strong>.</li><li>In May, the CDC
+      warned the US is <strong>“not fully prepared”</strong> for these
+      <strong>widespread &amp; difficult to control
+      diseases.</strong></li></ul></div>
     _key: card-3-f7ad1fbc-4898-4ac7-a33c-3855e5b09a32
   - order: 3
     useCheckmark: true
     body: >-
-      Why do we need mosquitoes anyway? And what's the downside to wiping out a
-      population? Read on here.
-
-
-      [view sources](https://smarthernews.com/18-07-18-mosquitoes/)
+      <div><p>Why do we need mosquitoes anyway? And what's the downside to
+      wiping out a population? Read on here.</p><p><a
+      href="https://smarthernews.com/18-07-18-mosquitoes/">view
+      sources</a></p></div>
     _key: card-10-7dfbad88-61d5-4408-a107-c59d10b8a9b6
 
 ---

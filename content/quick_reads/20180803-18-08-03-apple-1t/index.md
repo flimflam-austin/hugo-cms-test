@@ -18,74 +18,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Apple’s Trillion Dollar Day
-
-
-      From its humble start in a California garage to now the FIRST & MOST
-      valuable company ever at  
-
-      $1,000,000,000,000.
-
-
-      Why some say the focus on the $$$$ may miss the point of the company’s
-      true value.
-
-
-      Why $1T?
+      <div><h2>Apple’s Trillion Dollar Day</h2><p>From its humble start in a
+      California garage to now the FIRST &amp; MOST valuable company ever
+      at<br>$1,000,000,000,000.</p><p>Why some say the focus on the $$$$ may
+      miss the point of the company’s true value.</p><p>Why $1T?</p></div>
     _key: card-1-3439a9e2-f122-4394-baa2-8c1f384dce5f
   - order: 1
     useCheckmark: false
     body: >-
-      ## iPhone Center Stage
-
-
-      * **Apple now worth more than all but 26 countries in the world.A**
-
-      * **Why?** Better than expected iPhone sales in its latest earnings report
-      pushed the stock higher.
-
-      * Stock price impacts the worth of the company or “market cap.”
-
-      * Apple “beat” expectations, but some analysts lowered #’s wks ago because
-      of concerns re: iPhone sales.
+      <div><h2>iPhone Center Stage</h2><ul><li><strong>Apple now worth more than
+      all but 26 countries in the world.A</strong></li><li><strong>Why?</strong>
+      Better than expected iPhone sales in its latest earnings report pushed the
+      stock higher.</li><li>Stock price impacts the worth of the company or
+      “market cap.”</li><li>Apple “beat” expectations, but some analysts lowered
+      #’s wks ago because of concerns re: iPhone sales.</li></ul></div>
     _key: card-2-f14402ee-2c29-444f-868b-391c484253cf
   - order: 2
     useCheckmark: false
     body: >-
-      # What’s Next?
-
-
-      > New iPhone expected in Sept. Predictions of a larger & a cheaper
-      version.  
-        
-        
-        
-      Some Wall Street analysts think Apple’s stock has room to trade even
-      higher, which would lift its market cap OVER $1T.
+      <div><h1>What’s Next?</h1><blockquote>New iPhone expected in Sept.
+      Predictions of a larger &amp; a cheaper version.<br><br><br><br>Some Wall
+      Street analysts think Apple’s stock has room to trade even higher, which
+      would lift its market cap OVER $1T.</blockquote></div>
     _key: card-3-3168f5ff-d55d-42b1-8567-bdcdcfc5f078
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why $1T Ain’t Everything
-
-
-      > ‘The fact that you have a billion and a half people with Apple devices
-      around the world in a sense gives them a user base that if they can figure
-      out other ways to make money off that user base.”  
-        
-      NYU professorA Aswath Damodaran to CNBC, pointing out that even if Apple's
-      iPhone sales slow now, its CURRENT customer base has great value.
+      <div><h2>Why $1T Ain’t Everything</h2><blockquote>‘The fact that you have
+      a billion and a half people with Apple devices around the world in a sense
+      gives them a user base that if they can figure out other ways to make
+      money off that user base.”<br><br>NYU professorA Aswath Damodaran to CNBC,
+      pointing out that even if Apple's iPhone sales slow now, its CURRENT
+      customer base has great value.</blockquote></div>
     _key: card-4-6dc4434f-a4b0-4cad-87bf-74c6a37b7acc
   - order: 4
     useCheckmark: true
     body: >-
-      Food for thought: Apple makes many of its products in China, where trade
-      tensions run high w/U.S. re: tariffs. One commentator says companies with
-      the highest market cap often underperform in the years ahead. Read his
-      analysis on our source page.
-
-
-      [view sources](https://smarthernews.com/18-08-03-apple-1t/)
+      <div><p>Food for thought: Apple makes many of its products in China, where
+      trade tensions run high w/U.S. re: tariffs. One commentator says companies
+      with the highest market cap often underperform in the years ahead. Read
+      his analysis on our source page.</p><p><a
+      href="https://smarthernews.com/18-08-03-apple-1t/">view
+      sources</a></p></div>
     _key: card-10-31a49b9e-491c-42b9-acf6-8d0bbd612dd7
 
 ---

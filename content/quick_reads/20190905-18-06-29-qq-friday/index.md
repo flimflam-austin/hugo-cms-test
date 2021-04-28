@@ -22,81 +22,65 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “If you have evidence of wrongdoing by any member of the Trump campaign,
-      present it to the damn grand jury. If you have evidence that this
-      President acted inappropriately, present it to the American people…
+      <blockquote>“If you have evidence of wrongdoing by any member of the Trump
+      campaign, present it to the damn grand jury. If you have evidence that
+      this President acted inappropriately, present it to the American people…
       Whatever you got, finish it the hell up because this country is being torn
-      apart.”  
-        
-        
-        
-      House Oversight Committee Chairman Trey Gowdy (R-SC) to Acting Deputy
-      Attorney General Rod Rosenstein during a hearing on the Mueller probe.
+      apart.”<br><br><br><br>House Oversight Committee Chairman Trey Gowdy
+      (R-SC) to Acting Deputy Attorney General Rod Rosenstein during a hearing
+      on the Mueller probe.</blockquote>
     _key: card-1-9b90f9ac-a569-4913-9746-49eef49a48c7
   - order: 1
     useCheckmark: false
     body: >-
-      > “There is nothing more terrifying than hearing multiple people get shot
-      while you’re under your desk and then hear the gunman reload.”  
-        
-        
-        
-      Phil Davis, police reporter for the Capital Gazette in Annapolis,
-      Maryland, in a tweet about the mass shooting that took place at his
-      office, which left five people dead and dozens others gravely injured.
+      <blockquote>“There is nothing more terrifying than hearing multiple people
+      get shot while you’re under your desk and then hear the gunman
+      reload.”<br><br><br><br>Phil Davis, police reporter for the Capital
+      Gazette in Annapolis, Maryland, in a tweet about the mass shooting that
+      took place at his office, which left five people dead and dozens others
+      gravely injured.</blockquote>
     _key: card-2-24d61152-55ae-4d89-99ae-93af1b68a120
   - order: 2
     useCheckmark: false
     body: >-
-      > ‘Infrastructure improvements continue at Yongbyon.A Underscores reason
-      why an actual deal is necessary, not just a statement of lofty goals.”  
-        
-        
-        
-      Jenny Town, 38 North managing editor in a tweet. 38 North, a US-based
-      group monitoring N. Korea's nuclear operations, says the rapid upgrades to
-      a nuke site show its business as usual until Pyongyang issues orders
-      otherwise. Pres. Trump & Kim Jong Un agreed to denuclearization 2 weeks
-      ago.
+      <blockquote>‘Infrastructure improvements continue at Yongbyon.A
+      Underscores reason why an actual deal is necessary, not just a statement
+      of lofty goals.”<br><br><br><br>Jenny Town, 38 North managing editor in a
+      tweet. 38 North, a US-based group monitoring N. Korea's nuclear
+      operations, says the rapid upgrades to a nuke site show its business as
+      usual until Pyongyang issues orders otherwise. Pres. Trump &amp; Kim Jong
+      Un agreed to denuclearization 2 weeks ago.</blockquote>
     _key: card-3-b1a24a96-b1df-47a0-8e66-e4f3a31e09a0
   - order: 3
     useCheckmark: false
     body: >-
-      > ‘We cannot lose even one inch of the territory left behind by our
-      ancestors.”  
-        
-        
-        
-      President Xi Jinping of China on South China Sea in a meeting with Defense
-      Secretary Jim Mattis. Secy Mattis hoped to start a conversation, but China
-      was firm it will not yield in its expanding military occupation of the
-      disputed territory.
-
-
-      [SMARTHER Refresher](https://smarthernews.com/18-06-11-china-mischief/)
+      <div><blockquote>‘We cannot lose even one inch of the territory left
+      behind by our ancestors.”<br><br><br><br>President Xi Jinping of China on
+      South China Sea in a meeting with Defense Secretary Jim Mattis. Secy
+      Mattis hoped to start a conversation, but China was firm it will not yield
+      in its expanding military occupation of the disputed
+      territory.</blockquote><p><a
+      href="https://smarthernews.com/18-06-11-china-mischief/">SMARTHER
+      Refresher</a></p></div>
     citation: SMARTHER Refresher
     _key: card-4-8c9c49dd-d268-4983-bee1-1142cd919e18
   - order: 4
     useCheckmark: false
     body: >-
-      > ‘I’m proud to have been arrested with them to put myself in the camp of
-      people who believe that the United States of America is better and as a
-      member of Congress I refuse to let this President and this administration
-      do what they’re doing to children, to parents, to asylum seekers in my
-      name.’  
-        
-        
-        
-      Rep. Pramila Jayapal (D-WA), one of 500+ protesters arrested during a
-      #WomenDisobey rally in D.C. against President Trump's immigration
-      policies.
+      <blockquote>‘I’m proud to have been arrested with them to put myself in
+      the camp of people who believe that the United States of America is better
+      and as a member of Congress I refuse to let this President and this
+      administration do what they’re doing to children, to parents, to asylum
+      seekers in my name.’<br><br><br><br>Rep. Pramila Jayapal (D-WA), one of
+      500+ protesters arrested during a #WomenDisobey rally in D.C. against
+      President Trump's immigration policies.</blockquote>
     _key: card-5-35a93448-ed2a-4771-9347-32446fcf6717
   - order: 5
     useCheckmark: true
-    body: |-
-      Have a wonderful weekend!
-
-      [view sources](https://smarthernews.com/18-06-29-qq-friday/)
+    body: >-
+      <div><p>Have a wonderful weekend!</p><p><a
+      href="https://smarthernews.com/18-06-29-qq-friday/">view
+      sources</a></p></div>
     _key: card-10-36ddd749-530e-4322-82c4-35a9155886a0
 
 ---

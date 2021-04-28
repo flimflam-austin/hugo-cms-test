@@ -21,15 +21,17 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: '> _“The simple fact is this election is far from over.”_'
+    body: >-
+      <div><blockquote><em>“The simple fact is this election is far from
+      over.”</em></blockquote><p></p></div>
     citation: PRESIDENT TRUMP
     _key: 86e8c319c91a
   - order: 1
     useCheckmark: true
     body: >-
-      While the President did not speak publicly after the presidential race was
-      called for former Vice-President Biden, he did issue a statement. You can
-      read it in full on our source page.
+      <div><p>While the President did not speak publicly after the presidential
+      race was called for former Vice-President Biden, he did issue a statement.
+      You can read it in full on our source page.</p><p><br></p></div>
     citation: VIEW SOURCES
     _key: a274ff899cd9
 

@@ -21,17 +21,17 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # Marking 9 Months Of COVID-19 in America
-
-      > **VIDEO**: The impact of the pandemic on women.
+    body: >-
+      <div><h1>Marking 9 Months Of COVID-19 in
+      America</h1><blockquote><strong>VIDEO</strong>: The impact of the pandemic
+      on women.</blockquote></div>
     _key: 716c2717a67f
   - order: 1
     useCheckmark: true
     body: >-
-      A closer look at the ripple effects of the pandemic for women - news on
-      the economy, psychology and physical impact of the pandemic....and what we
-      now know. WATCH HERE on our source page.
+      <div><p>A closer look at the ripple effects of the pandemic for women -
+      news on the economy, psychology and physical impact of the pandemic....and
+      what we now know. WATCH HERE on our source page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 8957c1bf57ab
 

@@ -22,94 +22,73 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Middle East Peace?
-
-
-      The White House negotiates historic peace deals between key Middle Eastern
-      nations while the U.S. president puts one of the region’s major power
-      brokers on notice for an alleged assassination plot.
+      <div><h1>Middle East Peace?</h1><p>The White House negotiates historic
+      peace deals between key Middle Eastern nations while the U.S. president
+      puts one of the region’s major power brokers on notice for an alleged
+      assassination plot.</p></div>
     _key: 3453f137a4e6
   - order: 1
     useCheckmark: false
     body: >-
-      ## “Abraham Accords”
-
-
-      * White House facilitated “pacts” between Middle East countries that
-      previously had no formal diplomatic relations (officials don’t talk/meet).
-
-      * Nations involved: Israel & United Arab Emirates (UAE), Israel and
-      Bahrain.
-
-      * First significant peace deal in decades. Republicans and Democrats both
-      support the pacts that Pres. Trump says will lead to the “dawn of a new
-      Middle East.”
+      <div><h2>“Abraham Accords”</h2><ul><li>White House facilitated “pacts”
+      between Middle East countries that previously had no formal diplomatic
+      relations (officials don’t talk/meet).</li><li>Nations involved: Israel
+      &amp; United Arab Emirates (UAE), Israel and Bahrain.</li><li>First
+      significant peace deal in decades. Republicans and Democrats both support
+      the pacts that Pres. Trump says will lead to the “dawn of a new Middle
+      East.”</li></ul></div>
     _key: dddea2274cd0
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why It Matters:
-
-
-      * Traditionally of opposing politics, the Jewish state of Israel & Muslim
-      nations of UAE, Bahrain have only worked together “unofficially” or not at
-      all.
-
-      * Pacts open opportunity for potential cooperation – economically (trade),
-      politically and beyond.
-
-      * Other Arab nations may join, pulling together a new regional alliance
-      that would be a direct affront to Iran (Muslim nation vehemently
-      anti-Israel).
+      <div><h2>Why It Matters:</h2><ul><li>Traditionally of opposing politics,
+      the Jewish state of Israel &amp; Muslim nations of UAE, Bahrain have only
+      worked together “unofficially” or not at all.</li><li>Pacts open
+      opportunity for potential cooperation – economically (trade), politically
+      and beyond.</li><li>Other Arab nations may join, pulling together a new
+      regional alliance that would be a direct affront to Iran (Muslim nation
+      vehemently anti-Israel).</li></ul></div>
     _key: 967f931eecdc
   - order: 3
     useCheckmark: false
     body: >-
-      > “The UAE both betrayed the world of Islam, and [it] betrayed Arab
-      nations and regional countries, and [it] also betrayed Palestine.”
-
-
-      Iran's Supreme Leader Ayatollah Ali Khamenei. An Arab-Israeli alliance
-      brokered by the U.S. threatens Iran, creating a potential bloc that leaves
-      Iran - a country that relied on anti-Israel sentiment to unify with its
-      Arab neighbors - on the sidelines.
+      <div><blockquote>“The UAE both betrayed the world of Islam, and [it]
+      betrayed Arab nations and regional countries, and [it] also betrayed
+      Palestine.”</blockquote><p>Iran's Supreme Leader Ayatollah Ali Khamenei.
+      An Arab-Israeli alliance brokered by the U.S. threatens Iran, creating a
+      potential bloc that leaves Iran - a country that relied on anti-Israel
+      sentiment to unify with its Arab neighbors - on the sidelines.</p></div>
     _key: 44c078961e86
   - order: 4
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      * How the pacts evolve from this point on remains TBD.
-
-      * Foreign ministers – in contrast to heads of state PM Netanyahu and Pres.
-      Trump – of UAE and Bahrain signed the pacts at the White House.
-
-      * Rockets launched from Gaza (a Palestinian territory) into Israel on the
-      same day of the White House signing ceremony. No damage reported. Gaza
-      receives support from Iran and UAE.
+      <div><h2>Something To Consider:</h2><ul><li>How the pacts evolve from this
+      point on remains TBD.</li><li>Foreign ministers – in contrast to heads of
+      state PM Netanyahu and Pres. Trump – of UAE and Bahrain signed the pacts
+      at the White House.</li><li>Rockets launched from Gaza (a Palestinian
+      territory) into Israel on the same day of the White House signing
+      ceremony. No damage reported. Gaza receives support from Iran and
+      UAE.</li></ul></div>
     _key: a0a2e48afbe6
   - order: 5
     useCheckmark: false
     body: >-
-      > “Any attack by Iran, in any form, against the United States will be met
-      with an attack on Iran that will be 1,000 times greater in magnitude!”
-
-
-      Pres. Trump, on Twitter, on the eve of the historic peace deal ceremony
-      with UAE, Israel and Bahrain. In a previous tweet, the President cited
-      "press reports... Iran may be planning an assassination, or other attack,
-      against the United States in retaliation for the killing of terrorist
-      leader Soleimani."
+      <div><blockquote>“Any attack by Iran, in any form, against the United
+      States will be met with an attack on Iran that will be 1,000 times greater
+      in magnitude!”</blockquote><p>Pres. Trump, on Twitter, on the eve of the
+      historic peace deal ceremony with UAE, Israel and Bahrain. In a previous
+      tweet, the President cited "press reports... Iran may be planning an
+      assassination, or other attack, against the United States in retaliation
+      for the killing of terrorist leader Soleimani."</p></div>
     _key: d6115838336f
   - order: 6
     useCheckmark: true
     body: >-
-      The pacts are called the "Abraham Accords" for Abraham, a key figure in 3
-      of the world's major religions: Judaism, Islam, & Christianity. One of the
-      most obvious signs of change due to the deals: Plane flights between the
-      nations, and the possibility for embassies in each other's nations. Who to
-      watch for? Saudi Arabia.
+      <div><p>The pacts are called the "Abraham Accords" for Abraham, a key
+      figure in 3 of the world's major religions: Judaism, Islam, &amp;
+      Christianity. One of the most obvious signs of change due to the deals:
+      Plane flights between the nations, and the possibility for embassies in
+      each other's nations. Who to watch for? Saudi Arabia.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 4f4190dc4359
 

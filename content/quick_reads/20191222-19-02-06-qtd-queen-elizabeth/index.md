@@ -22,64 +22,47 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Queen Elizabeth II Ascended To The British Throne
-
-
-
-
-      67 years ago, following the death of her father, Elizabeth became Queen at
-      age 25.
+      <div><p>Queen Elizabeth II Ascended To The British Throne</p><p></p><p>67
+      years ago, following the death of her father, Elizabeth became Queen at
+      age 25.</p></div>
     _key: card-1-00fc9f2d-815b-47c9-b35e-28af785fc6b4
   - order: 1
     useCheckmark: false
     body: >-
-      ## Record-Breaking Queen
-
-
-      In 2007, at 81, she became the**oldest British monarch**, beating a record
-      set by Queen Victoria (her paternal great-great-grandmother).
-
-
-      In 2015, at 88, she became the**world’s oldest monarch.**_Months later,
-      she passed Queen Victoria again, & became**Britain’s longest-reigning
-      monarch.**
+      <div><h2>Record-Breaking Queen</h2><p>In 2007, at 81, she became the
+      <strong>oldest British monarch</strong>, beating a record set by Queen
+      Victoria (her paternal great-great-grandmother).</p><p>In 2015, at 88, she
+      became the <strong>world’s oldest monarch.</strong>_Months later, she
+      passed Queen Victoria again, &amp; became <strong>Britain’s
+      longest-reigning monarch.</strong></p></div>
     _key: card-2-d2ede607-7e58-4404-9482-38c06730b9bf
   - order: 2
     useCheckmark: false
     body: >-
-      ## Bag Lady?
-
-
-      The Queen is rarely seen without a handbag and it’s usually her signature
-      black Launer bag (a British designer), in which she’s been known to carry
-      her reading glasses, lipstick, and a handkerchief.
-
-
-      **One item not in her purse?**  
-
-      A passport; she doesn’t need one! (because they are issued in her name).
+      <div><h2>Bag Lady?</h2><p>The Queen is rarely seen without a handbag and
+      it’s usually her signature black Launer bag (a British designer), in which
+      she’s been known to carry her reading glasses, lipstick, and a
+      handkerchief.</p><p><strong>One item not in her purse?</strong><br>A
+      passport; she doesn’t need one! (because they are issued in her
+      name).</p></div>
     _key: card-3-3f85cdee-662c-41cd-8628-ee081093558b
   - order: 3
     useCheckmark: false
     body: >-
-      > “Each day is a new beginning, I know that the only way to live my life
-      is to try to do what is right, to take the long view, to give of my best
-      in all that the day brings, and to put my trust in God.”  
-        
-        
-        
-      Queen Elizabeth II
+      <blockquote>“Each day is a new beginning, I know that the only way to live
+      my life is to try to do what is right, to take the long view, to give of
+      my best in all that the day brings, and to put my trust in
+      God.”<br><br><br><br>Queen Elizabeth II</blockquote>
     _key: card-4-ab84fc86-0012-4a90-854d-2189f135f736
   - order: 4
     useCheckmark: true
     body: >-
-      Although she is the world's longest (living) monarch, she is not *yet* the
-      longest reigning monarch - that title goes to the former King of
+      <div><p>Although she is the world's longest (living) monarch, she is not
+      *yet* the longest reigning monarch - that title goes to the former King of
       Swaziland, who spent 82 years on the throne after ascending to the thrown
-      at age 1.
-
-
-      [view sources](https://smarthernews.com/19-02-06-qtd-queen-elizabeth/)
+      at age 1.</p><p><a
+      href="https://smarthernews.com/19-02-06-qtd-queen-elizabeth/">view
+      sources</a></p></div>
     _key: card-10-f7ef319b-f0b9-4386-af52-83804924e95b
 
 ---

@@ -22,76 +22,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Video Games & Violence
-
-
-      Pres. Trump discusses video game violence with industry execs and watchdog
-      groups at WH.
-
-
-      Conversation in reaction to school shooting in Florida.
-
-
-      Report: school shooter played violent video games.
-
-
-      Flip Here
+      <div><h2>Video Games &amp; Violence</h2><p>Pres. Trump discusses video
+      game violence with industry execs and watchdog groups at
+      WH.</p><p>Conversation in reaction to school shooting in
+      Florida.</p><p>Report: school shooter played violent video
+      games.</p><p>Flip Here</p></div>
     _key: card-1-562708df-2039-4b38-8e4d-e0a6ceb88b1a
   - order: 1
     useCheckmark: false
     body: >-
-      > ‘It was kill, kill, kill, blow up something, and kill some more, all
-      day.”  
-        
-        
-        
-      Paul Gold, neighbor to school shooter, who said shooter played violent
-      video games for up to 15 hours a day.
-
-
-      [Click HERE-Full
-      Article](http://www.miamiherald.com/news/local/community/broward/article200754714.html)
+      <div><blockquote>‘It was kill, kill, kill, blow up something, and kill
+      some more, all day.”<br><br><br><br>Paul Gold, neighbor to school shooter,
+      who said shooter played violent video games for up to 15 hours a
+      day.</blockquote><p><a
+      href="http://www.miamiherald.com/news/local/community/broward/article200754714.html">Click
+      HERE-Full Article</a></p></div>
     _key: card-2-3b1211f3-6613-4300-9f70-84d9a1c0eb7a
   - order: 2
     useCheckmark: false
     body: >-
-      What Does The Data Say?  
-
-      Summary:
-
-
-      Studies do NOT show direct link between ‘gaming’ and violence.
-
-
-      Some studies show an increase in emotion or aggression but NOT necessarily
-      acting on it.
-
-
-      Communities with large amount of ‘gamers”, also can have low levels of gun
-      violence (example: Japan).
+      <div><p>What Does The Data Say?<br>Summary:</p><p>Studies do NOT show
+      direct link between ‘gaming’ and violence.</p><p>Some studies show an
+      increase in emotion or aggression but NOT necessarily acting on
+      it.</p><p>Communities with large amount of ‘gamers”, also can have low
+      levels of gun violence (example: Japan).</p></div>
     _key: card-3-4a0e5d1c-159c-47d1-b32f-1bd4e65ebc0a
   - order: 3
     useCheckmark: false
     body: >-
-      New Study:
-
-
-      > “The findings suggest that there is no link between these kinds of
-      realism in games and the kind of effects that video games are commonly
-      thought to have on their players.”  
-        
-        
-        
-      Dr. David Zendle, University of York, Department of Computer Science
+      <div><p>New Study:</p><blockquote>“The findings suggest that there is no
+      link between these kinds of realism in games and the kind of effects that
+      video games are commonly thought to have on their
+      players.”<br><br><br><br>Dr. David Zendle, University of York, Department
+      of Computer Science</blockquote></div>
     _key: card-4-ac887b4b-ebc4-4f7d-a6a0-b9bae44f94d3
   - order: 4
     useCheckmark: true
     body: >-
-      However, recent study by University of York DID NOT test on children; only
-      adults. Researcher said more studies need to be done...
-
-
-      [view sources](https://smarthernews.com/18-03-08-video-games-violence/)
+      <div><p>However, recent study by University of York DID NOT test on
+      children; only adults. Researcher said more studies need to be
+      done...</p><p><a
+      href="https://smarthernews.com/18-03-08-video-games-violence/">view
+      sources</a></p></div>
     _key: card-10-616754dc-5e35-41d7-a24b-fff476e436e5
 
 ---

@@ -20,58 +20,39 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## March 5, 1770
-
-
-
-
-
-
-
-      > **THE BOSTON MASSACRE**  
-        
-      _“On that night the formation of American independence was laid.”_  
-      Pres. John Adams
+    body: >-
+      <div><h2>March 5, 1770</h2><p></p><p></p><p></p><blockquote><strong>THE
+      BOSTON MASSACRE</strong><br><br><em>“On that night the formation of
+      American independence was laid.”</em><br>Pres. John
+      Adams</blockquote></div>
     _key: e48defbaeefb
   - order: 1
     useCheckmark: false
     body: >-
-      ## Crispus Attucks
-
-
-      * African-American sailor believed to have escaped slavery 20 years prior.
-
-      * The first of five men to die as a result of the Boston Massacre;
-      reportedly killed instantly when outnumbered British soldiers fired
-      suddenly into a crowd of dozens of angry colonists (protesting British
-      taxes, restrictions, overall rule).
-
-      * Attucks was championed as the first martyr for the cause of American
-      liberty.
+      <div><h2>Crispus Attucks</h2><ul><li>African-American sailor believed to
+      have escaped slavery 20 years prior.</li><li>The first of five men to die
+      as a result of the Boston Massacre; reportedly killed instantly when
+      outnumbered British soldiers fired suddenly into a crowd of dozens of
+      angry colonists (protesting British taxes, restrictions, overall
+      rule).</li><li>Attucks was championed as the first martyr for the cause of
+      American liberty.</li></ul></div>
     _key: b4704d5eef78
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why It Matters:
-
-
-      6 years before the Declaration of Independence, the Boston Massacre
-      created greater momentum for colonists who desired freedom from Great
-      Britain.
-
-
-      Those killed on March 5, 1770 were promoted by the “Sons of Liberty” as
-      martyrs for the cause of freedom; Attucks’ name was the only one to become
-      widely-known.
+      <div><h2>Why It Matters:</h2><p>6 years before the Declaration of
+      Independence, the Boston Massacre created greater momentum for colonists
+      who desired freedom from Great Britain.</p><p>Those killed on March 5,
+      1770 were promoted by the “Sons of Liberty” as martyrs for the cause of
+      freedom; Attucks’ name was the only one to become widely-known.</p></div>
     _key: e9bdb303a07c
   - order: 3
     useCheckmark: true
     body: >-
-      Lawyer & future U.S. Pres. John Adams' defense of British soldiers led to
-      their acquittal in an American court... an irony since the "Boston
-      Massacre," by its name & story, unified colonists vs. the British & sowed
-      the seeds of the American Revolution.
+      <p><br>Lawyer &amp; future U.S. Pres. John Adams' defense of British
+      soldiers led to their acquittal in an American court... an irony since the
+      "Boston Massacre," by its name &amp; story, unified colonists vs. the
+      British &amp; sowed the seeds of the American Revolution.</p>
     citation: VIEW SOURCES
     _key: 7c34e260ace5
 

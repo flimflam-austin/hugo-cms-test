@@ -21,31 +21,25 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      **HAPPY MOTHER’S DAY**
-
-      LOVE, SMARTHER NEWS
+    body: >-
+      <div><p><strong>HAPPY MOTHER’S DAY</strong></p><p>LOVE, SMARTHER
+      NEWS</p></div>
     citation: LOVE, SMARTHER NEWS
     _key: card-1-e5a612e9-918a-4a5c-9a68-09eff74844ed
   - order: 1
     useCheckmark: false
-    body: |-
-      # 85 MILLION
-
-      ## Total number of American mothers as of last count.
-
-      > **"Being a mom has made me so tired. And so happy."**  
-        
-      Tina Fey
-
-      Love, SmartHER News
+    body: >-
+      <div><h1>85 MILLION</h1><h2>Total number of American mothers as of last
+      count.</h2><blockquote><strong>"Being a mom has made me so tired. And so
+      happy."</strong><br><br>Tina Fey</blockquote><p>Love, SmartHER
+      News</p></div>
     _key: card-2-2570a70c-409b-4bdc-a9dc-571496b20af2
   - order: 2
     useCheckmark: true
-    body: |-
-      Click for some fun Mothers Day quotes!
-
-      [view sources](https://smarthernews.com/18-05-11-mothers-day/)
+    body: >-
+      <div><p>Click for some fun Mothers Day quotes!</p><p><a
+      href="https://smarthernews.com/18-05-11-mothers-day/">view
+      sources</a></p></div>
     _key: card-10-abecad33-163a-4a4e-bb64-da2a6f01cee9
 
 ---

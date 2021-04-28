@@ -22,74 +22,62 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "I am very sure that we have very, very good grounds to be making these
-      warnings.”  
-        
-        
-        
-      Jim Jeffrey, Secretary of State Mike Pompeo’s special adviser on Syria, on
-      the lots of evidence that chemical weapon are being prepared for a
-      possible attack on Idlib - the last remaining stronghold of those opposed
-      to Syrian President Bashar al-Assad.
+      <blockquote>"I am very sure that we have very, very good grounds to be
+      making these warnings.”<br><br><br><br>Jim Jeffrey, Secretary of State
+      Mike Pompeo’s special adviser on Syria, on the lots of evidence that
+      chemical weapon are being prepared for a possible attack on Idlib - the
+      last remaining stronghold of those opposed to Syrian President Bashar
+      al-Assad.</blockquote>
     _key: card-1-3a358477-8c80-4e76-829b-3fec02d9f2de
   - order: 1
     useCheckmark: false
     body: >-
-      > “30 minutes of your time. Is democracy worth that?”  
-        
-      President Obama, in his first campaign speech at the University of
-      Illinois, encouraging students to vote. The wide-ranging speech called out
-      President Trump by name, criticizing him as "the symptom, not the cause"
-      of what's dividing the country and kickstarts President Obama's return to
-      politics with several planned speeches ahead of the midterms in November.
+      <blockquote>“30 minutes of your time. Is democracy worth
+      that?”<br><br>President Obama, in his first campaign speech at the
+      University of Illinois, encouraging students to vote. The wide-ranging
+      speech called out President Trump by name, criticizing him as "the
+      symptom, not the cause" of what's dividing the country and kickstarts
+      President Obama's return to politics with several planned speeches ahead
+      of the midterms in November.</blockquote>
     _key: card-2-301c3d1f-9ce6-4877-af5f-7a1a77f00bc4
   - order: 2
     useCheckmark: false
     body: >-
-      “It’s legal right?”  
-        
-      Elon Musk, Telsa's co-founder & CEO, before taking a puff of a
-      tobacco-and-marijuana joint (which is legal in California) while appearing
-      on a podcast. That news, along with word Tesla's Chief of Accounting is
-      departing after only a few weeks, sent shares lower Friday. The stock is
-      down 20% over the past month after Musk tweeted his plans to take the
-      company private, which he now is no longer doing.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/ycPr5-27vSI?enablejsapi=1&autoplay=1&rel=0)
+      <div><p>“It’s legal right?”<br><br>Elon Musk, Telsa's co-founder &amp;
+      CEO, before taking a puff of a tobacco-and-marijuana joint (which is legal
+      in California) while appearing on a podcast. That news, along with word
+      Tesla's Chief of Accounting is departing after only a few weeks, sent
+      shares lower Friday. The stock is down 20% over the past month after Musk
+      tweeted his plans to take the company private, which he now is no longer
+      doing.</p><p><a
+      href="https://www.youtube.com/embed/ycPr5-27vSI?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-3-edaebe13-bcb1-4a5d-80e8-3461a20661c1
   - order: 3
     useCheckmark: false
     body: >-
-      > "It is important that we can make a toy that doesn’t jeopardize
-      (children’s future).”  
-        
-        
-      Tim Brooks, Lego's VP for environmental responsibility, as the toymaker
-      looks to make its plastic brick toys entirely from plant-based or recycled
-      materials by 2030. Lego is spending the equivalent of $120M & hiring 100
-      people in search of a material that will work despite suffering from
-      struggling sales recently.
+      <blockquote>"It is important that we can make a toy that doesn’t
+      jeopardize (children’s future).”<br><br><br>Tim Brooks, Lego's VP for
+      environmental responsibility, as the toymaker looks to make its plastic
+      brick toys entirely from plant-based or recycled materials by 2030. Lego
+      is spending the equivalent of $120M &amp; hiring 100 people in search of a
+      material that will work despite suffering from struggling sales
+      recently.</blockquote>
     _key: card-4-9426a834-7bc6-4a8c-b016-a271fb28f7fd
   - order: 4
     useCheckmark: false
     body: >-
-      > “We leave it up to the imagination to figure it out, so we like to give
-      everybody a challenge.”  
-        
-        
-        
-      Connor Green, a freshman at Rockhurst High School in Kansas City, on how
-      the school is seeing quintuple. There are 5 sets of twins in the freshman
-      class of about 250 students.
+      <blockquote>“We leave it up to the imagination to figure it out, so we
+      like to give everybody a challenge.”<br><br><br><br>Connor Green, a
+      freshman at Rockhurst High School in Kansas City, on how the school is
+      seeing quintuple. There are 5 sets of twins in the freshman class of about
+      250 students.</blockquote>
     _key: card-5-a5918d07-73c6-47b1-98a6-876cd66c7f15
   - order: 5
     useCheckmark: true
-    body: |-
-      Enjoy the weekend!
-
-      [view sources](https://smarthernews.com/quick-quotes-2/)
+    body: >-
+      <div><p>Enjoy the weekend!</p><p><a
+      href="https://smarthernews.com/quick-quotes-2/">view sources</a></p></div>
     _key: card-10-fce128c7-f817-4f6e-b957-bd15f873d8d3
 
 ---

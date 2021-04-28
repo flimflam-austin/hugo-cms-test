@@ -22,87 +22,64 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # HOT TOPIC
-
-
-      ## “SOCIALISM”
-
-
-      > A word you hear often, but what does it really mean? And why did the
-      President mention it in the  
-
-      State of the Union?
-
-
-      Why & What Is It
+      <div><h1>HOT TOPIC</h1><h2>“SOCIALISM”</h2><blockquote>A word you hear
+      often, but what does it really mean? And why did the President mention it
+      in the<br>State of the Union?</blockquote><p>Why &amp; What Is
+      It</p></div>
     _key: card-1-524333ef-4746-4b4a-9101-2e3b270d9de3
   - order: 1
     useCheckmark: false
     body: >-
-      > “America was founded on liberty and independence - not government
-      coercion, domination, and control. We are born free, and we will stay
-      free. Tonight, we renew our resolve that America will never be a socialist
-      country.”
-
-
-      Pres. Trump during the 2019 State of the Union. After championing his
-      economic policies, he described the socialist policies in Venezuela as
-      turning that nation from being the wealthiest in South America into a
-      state of abject poverty and despair.
+      <div><blockquote>“America was founded on liberty and independence - not
+      government coercion, domination, and control. We are born free, and we
+      will stay free. Tonight, we renew our resolve that America will never be a
+      socialist country.”</blockquote><p>Pres. Trump during the 2019 State of
+      the Union. After championing his economic policies, he described the
+      socialist policies in Venezuela as turning that nation from being the
+      wealthiest in South America into a state of abject poverty and
+      despair.</p></div>
     _key: card-2-ff620825-11ae-45be-b7d2-02f5c068a68f
   - order: 2
     useCheckmark: false
     body: >-
-      ## Socialism Defined
-
-
-      > “social & economic doctrine that calls for public rather than private
-      ownership or control of property and natural resources….in opposition to
-      capitalism, which is based on private ownership of the means of production
-      & allows individual choices in a free market…”  
-        
-      Encyclopedia Britannica
+      <div><h2>Socialism Defined</h2><blockquote>“social &amp; economic doctrine
+      that calls for public rather than private ownership or control of property
+      and natural resources….in opposition to capitalism, which is based on
+      private ownership of the means of production &amp; allows individual
+      choices in a free market…”<br><br>Encyclopedia
+      Britannica</blockquote></div>
     _key: card-3-9d2234b4-05a6-4415-bae0-1429ca131bb2
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why Is It A Hot Topic Now?
-
-
-      * Leading Democrat politicians like Sen. Bernie Sanders & Rep. Alexandra
-      Ocasio-Cortez are “**Democrat Socialists**” advocating for medicare for
-      all & higher taxes on rich for the greater good.
-
-      * Democrats who do not describe themselves as “socialist” share some
-      platforms such as**national healthcare.** Critics say party is moving too
-      far left or “socialist.”
+      <div><h2>Why Is It A Hot Topic Now?</h2><ul><li>Leading Democrat
+      politicians like Sen. Bernie Sanders &amp; Rep. Alexandra Ocasio-Cortez
+      are “<strong>Democrat Socialists</strong>” advocating for medicare for all
+      &amp; higher taxes on rich for the greater good.</li><li>Democrats who do
+      not describe themselves as “socialist” share some platforms such as
+      <strong>national healthcare.</strong> Critics say party is moving too far
+      left or “socialist.”</li></ul></div>
     _key: card-4-b0ecbef6-f9b1-408c-bcc1-53e5044d2155
   - order: 4
     useCheckmark: false
     body: >-
-      ## Politics at Play
-
-
-      **Preview 2020 President Race**
-
-
-      The President set the stage for further debate:**Republican-led economy
-      vs. the Democrat’s so-called “socialist” agenda.**
-
-
-      **Two Parties Already At Odds:** More Democrats have a favorable view on
-      socialism than capitalism; Republicans = the opposite. (Gallup)
+      <div><h2>Politics at Play</h2><p><strong>Preview 2020 President
+      Race</strong></p><p>The President set the stage for further debate:
+      <strong>Republican-led economy vs. the Democrat’s so-called “socialist”
+      agenda.</strong></p><p><strong>Two Parties Already At Odds:</strong> More
+      Democrats have a favorable view on socialism than capitalism; Republicans
+      = the opposite. (Gallup)</p></div>
     _key: card-5-943f2759-4abd-47a5-a987-8ffa5323ac31
   - order: 5
     useCheckmark: true
     body: >-
-      According to recent polling, young Americans (18-29) view socialism more
-      favorably than capitalism (this is typical of this age group although
-      socialism has increased in favorability in recent years). Overall
-      Americans' positive view on socialism remains less than 40%.
-
-
-      [view sources](https://smarthernews.com/19-02-07-socialism-2019/)
+      <div><p>According to recent polling, young Americans (18-29) view
+      socialism more favorably than capitalism (this is typical of this age
+      group although socialism has increased in favorability in recent years).
+      Overall Americans' positive view on socialism remains less than
+      40%.</p><p><a
+      href="https://smarthernews.com/19-02-07-socialism-2019/">view
+      sources</a></p></div>
     _key: card-10-64dd0a94-9dc8-42ef-9be1-a2900309b5f7
 
 ---

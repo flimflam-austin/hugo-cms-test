@@ -22,28 +22,15 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # OUR MISSION
-
-
-      * Trustworthy
-
-      * Quick
-
-      * Convenient
-
-      * Clutter-Free
-
-      * Bullet-Points; No Bias
-
-
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/tGquvWuk0kk?enablejsapi=1&autoplay=1&rel=0)
+      <div><h1>OUR
+      MISSION</h1><ul><li>Trustworthy</li><li>Quick</li><li>Convenient</li><li>Clutter-Free</li><li>Bullet-Points;
+      No Bias</li></ul><p></p><p><a
+      href="https://www.youtube.com/embed/tGquvWuk0kk?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-1-76e45289-f8e7-40ef-a052-2f777f044165
   - order: 1
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-01-31/)'
+    body: <p><a href="https://smarthernews.com/18-01-31/">view sources</a></p>
     _key: card-10-c9543d37-3cd4-4b90-a14c-5d4dd604e33f
 
 ---

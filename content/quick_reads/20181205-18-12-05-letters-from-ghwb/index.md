@@ -21,7 +21,7 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     useCheckmark: true
-    body: "In a September 1998 letter to his children, he wrote Remember the old song a\x18I’ll Be There Ready When You Are'? Well, I’ll be there ready when you are where there is so much excitement ahead, so many grandkids to watch grow. If you need me, I’m here. Devotedly, Dad.’\n\n[view sources](https://smarthernews.com/18-12-05-letters-from-ghwb/)"
+    body: "<div><p>In a September 1998 letter to his children, he wrote Remember the old song a\x18I’ll Be There Ready When You Are'? Well, I’ll be there ready when you are where there is so much excitement ahead, so many grandkids to watch grow. If you need me, I’m here. Devotedly, Dad.’</p><p><a href=\"https://smarthernews.com/18-12-05-letters-from-ghwb/\">view sources</a></p></div>"
     _key: card-10-e4c9c246-c120-4720-a01d-9354164c7c40
 
 ---

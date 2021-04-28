@@ -22,84 +22,63 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Eight Months of COVID-19
-
-
-      8 months since the first confirmed case of COVID-19 in America.
-
-
-      A quick review of highlights to know & points to consider on the global
-      pandemic.
+      <div><h2>Eight Months of COVID-19</h2><p>8 months since the first
+      confirmed case of COVID-19 in America.</p><p>A quick review of highlights
+      to know &amp; points to consider on the global pandemic.</p></div>
     _key: fba4a522003e
   - order: 1
     useCheckmark: false
     body: >-
-      ## Patient Zero
-
-
-      * **First Case:** 35-year-old man who returned to U.S. from Wuhan, China.
-
-      * **What To Know:** It wasn’t discussed in detail at the time, but he
-      was**really sick**, admitted to the hospital & given supplemental oxygen.
-
-      * Initially referred to as the “Wuhan Coronavirus,” the World Health Org.
-      renamed the disease caused by SARS-COV-2 as
-      COVID-19:**Co**rona**vi**rus**D**isease 20**19**.
+      <div><h2>Patient Zero</h2><ul><li><strong>First Case:</strong> 35-year-old
+      man who returned to U.S. from Wuhan, China.</li><li><strong>What To
+      Know:</strong> It wasn’t discussed in detail at the time, but he was
+      <strong>really sick</strong>, admitted to the hospital &amp; given
+      supplemental oxygen.</li><li>Initially referred to as the “Wuhan
+      Coronavirus,” the World Health Org. renamed the disease caused by
+      SARS-COV-2 as COVID-19: <strong>Co</strong>rona<strong>vi</strong>rus
+      <strong>D</strong>isease 20<strong>19</strong>.</li></ul></div>
     _key: 4ff732a42167
   - order: 2
     useCheckmark: false
     body: >-
-      ## Recent Studies
-
-
-      * Pregnant women w/COVID may have a higher risk of serious complications.
-
-      * Research shows a racial disparity in the most serious cases of COVID-19
-      in young Americans, with Black & Hispanic people overrepresented in
-      COVID-related deaths.
-
-      * **Common Thread:** Those with preexisting conditions, such as obesity
-      and diabetes, tend to experience the most severe cases.
+      <div><h2>Recent Studies</h2><ul><li>Pregnant women w/COVID may have a
+      higher risk of serious complications.</li><li>Research shows a racial
+      disparity in the most serious cases of COVID-19 in young Americans, with
+      Black &amp; Hispanic people overrepresented in COVID-related
+      deaths.</li><li><strong>Common Thread:</strong> Those with preexisting
+      conditions, such as obesity and diabetes, tend to experience the most
+      severe cases.</li></ul></div>
     _key: 7db7ca1cc8c7
   - order: 3
     useCheckmark: false
     body: >-
-      ## USA By The Numbers
-
-
-      * 6.8M confirmed cases.
-
-      * Approx. 200,000 dead.
-
-      * **To date, about one-fourth of U.S. deaths occurred in nursing homes.**
-
-      * One suggestion: Instead of mass “shutdowns,” new research suggests
-      “cocooning” those who are most vulnerable, such as the elderly and their
-      inner circle of carers, to keep serious cases down and hospital resources
-      available.
+      <div><h2>USA By The Numbers</h2><ul><li>6.8M confirmed
+      cases.</li><li>Approx. 200,000 dead.</li><li><strong>To date, about
+      one-fourth of U.S. deaths occurred in nursing homes.</strong></li><li>One
+      suggestion: Instead of mass “shutdowns,” new research suggests “cocooning”
+      those who are most vulnerable, such as the elderly and their inner circle
+      of carers, to keep serious cases down and hospital resources
+      available.</li></ul></div>
     _key: 414a971f48fd
   - order: 4
     useCheckmark: false
     body: >-
-      ## Something To Consider
-
-
-      > “Maybe there is more immunity out there.”  
-        
-      Immunologist Marcus Buggert to the British Medical Journal on whether
-      researchers should look at T-cells rather than antibodies to gauge
-      someone's immunity to COVID. The journal cites 6 separate studies that
-      show 20-50% of participants with no known exposure or infection still have
-      a COVID-19 immune response in T-cells.
+      <div><h2>Something To Consider</h2><blockquote>“Maybe there is more
+      immunity out there.”<br><br>Immunologist Marcus Buggert to the British
+      Medical Journal on whether researchers should look at T-cells rather than
+      antibodies to gauge someone's immunity to COVID. The journal cites 6
+      separate studies that show 20-50% of participants with no known exposure
+      or infection still have a COVID-19 immune response in
+      T-cells.</blockquote></div>
     _key: 55f93cdf9dcc
   - order: 5
     useCheckmark: true
     body: >-
-      In 9 months, we went from never wearing a face mask to likely owning
-      several. Two doctors write in the New England Journal of Medicine that
-      masks may not necessarily stop infections, but lead to less severe/more
-      asymptomatic cases, and THAT might be the benefit of masks for the general
-      population. Read it now!
+      <div><p>In 9 months, we went from never wearing a face mask to likely
+      owning several. Two doctors write in the New England Journal of Medicine
+      that masks may not necessarily stop infections, but lead to less
+      severe/more asymptomatic cases, and THAT might be the benefit of masks for
+      the general population. Read it now!</p><p></p></div>
     citation: VIEW SOURCES
     _key: cdba06b08ebd
 

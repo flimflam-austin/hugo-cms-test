@@ -21,89 +21,67 @@ colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## Girl…Watch Your Face!
-
-      You’ve heard the warnings…keep your hands off your face to stay healthy.
-
-      But how often do you touch your face REALLY?
+    body: >-
+      <div><h2>Girl…Watch Your Face!</h2><p>You’ve heard the warnings…keep your
+      hands off your face to stay healthy.</p><p>But how often do you touch your
+      face REALLY?</p></div>
     citation: MORE THAN YOU THINK
     _key: bc75f04d8d84
   - order: 1
     useCheckmark: false
     body: >-
-      ## “I haven’t touched my face in weeks…in weeks! I miss it!”
-
-
-      President Trump, during a briefing on COVID-19, underscoring the advice
-      from medical professionals about how to stop the spread of the new
-      coronavirus and other illnesses.
+      <div><h2>“I haven’t touched my face in weeks…in weeks! I miss
+      it!”</h2><p>President Trump, during a briefing on COVID-19, underscoring
+      the advice from medical professionals about how to stop the spread of the
+      new coronavirus and other illnesses.</p></div>
     _key: 3b95eb034bea
   - order: 2
     useCheckmark: false
     body: >-
-      ## SCHOOL
-
-
-      **Study**: University of New South Wales observed 26 medical students.
-
-
-      **Findings**: On average, students touched their faces an average of 23
-      times per hour or 184 times over an 8-hour period.
-
-
-      Nearly half the face-touches involved contact with a mucous membrane
-      (nose, mouth, eyes).
+      <div><h2>SCHOOL</h2><p><strong>Study</strong>: University of New South
+      Wales observed 26 medical students.</p><p><strong>Findings</strong>: On
+      average, students touched their faces an average of 23 times per hour or
+      184 times over an 8-hour period.</p><p>Nearly half the face-touches
+      involved contact with a mucous membrane (nose, mouth, eyes).</p></div>
     _key: 0295d2931761
   - order: 3
     useCheckmark: false
     body: >-
-      ## WORK
-
-
-      **Study:** University of California, Berkeley observed 10 participants (5
-      men and 5 women) in an office setting for 3 hours doing “office-type work”
-      such as reading or working on a laptop.
-
-
-      **Findings:** Participants touched their face on average 15.7 times per
-      hour or 125.6 times during an 8-hour period.
+      <div><h2>WORK</h2><p><strong>Study:</strong> University of California,
+      Berkeley observed 10 participants (5 men and 5 women) in an office setting
+      for 3 hours doing “office-type work” such as reading or working on a
+      laptop.</p><p><strong>Findings:</strong> Participants touched their face
+      on average 15.7 times per hour or 125.6 times during an 8-hour
+      period.</p></div>
     _key: c169d0bdad26
   - order: 4
     useCheckmark: false
     body: >-
-      ## OUT AND ABOUT
-
-
-      **Study:** National Institutes of Health (NIH) observed 249 people in the
-      Washington D.C. subway and in a city in Brazil to measure how often we
-      touch a “common item” (like a railing or subway pole) and then touch our
-      mouth or nose.
-
-
-      **Findings:** People touched their faces on average 3.3 – 3.6 times per
-      hour in public where the possibility of hand-washing wasn’t readily
-      available.
+      <div><h2>OUT AND ABOUT</h2><p><strong>Study:</strong> National Institutes
+      of Health (NIH) observed 249 people in the Washington D.C. subway and in a
+      city in Brazil to measure how often we touch a “common item” (like a
+      railing or subway pole) and then touch our mouth or
+      nose.</p><p><strong>Findings:</strong> People touched their faces on
+      average 3.3 – 3.6 times per hour in public where the possibility of
+      hand-washing wasn’t readily available.</p></div>
     _key: 8cd126810537
   - order: 5
     useCheckmark: false
     body: >-
-      “We therefore suggest a**shift** in the focus of the recommendations
-      issued during outbreaks toward ensuring that individuals understand how
-      self-inoculation occurs and**thus avoid touching their faces**… Although
-      built on the influenza pandemic experience, this suggestion should
-      be**equally relevant for other respiratory pathogens that can be the
-      source of severe outbreaks**.”
-
-
-      Dr. Wladimir Alonso, NIH
+      <div><p>“We therefore suggest a <strong>shift</strong> in the focus of the
+      recommendations issued during outbreaks toward ensuring that individuals
+      understand how self-inoculation occurs and <strong>thus avoid touching
+      their faces</strong>… Although built on the influenza pandemic experience,
+      this suggestion should be <strong>equally relevant for other respiratory
+      pathogens that can be the source of severe outbreaks</strong>.”</p><p>Dr.
+      Wladimir Alonso, NIH</p></div>
     _key: 2a32a903f940
   - order: 6
     useCheckmark: true
     body: >-
-      Researchers suggest reminding people to wash their hands to prevent
-      illness is good, but telling them to stop touching their faces may
-      actually be BETTER during times of respiratory epidemics.
+      <div><p>Researchers suggest reminding people to wash their hands to
+      prevent illness is good, but telling them to stop touching their faces may
+      actually be BETTER during times of respiratory epidemics.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 5bf2749836f5
 

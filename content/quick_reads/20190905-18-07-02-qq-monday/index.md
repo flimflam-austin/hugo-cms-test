@@ -22,84 +22,67 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “This was a spectacular escape.”  
-        
-        
-        
-      Justice Minister Nicole Belloubet speaking about a jailbreak at a Paris
-      prison. Armed men landed a helicopter in the prison's court yard and flew
-      away with a notorious gangster serving time for an armed robbery and the
-      murder of a young policewoman.
+      <blockquote>“This was a spectacular escape.”<br><br><br><br>Justice
+      Minister Nicole Belloubet speaking about a jailbreak at a Paris prison.
+      Armed men landed a helicopter in the prison's court yard and flew away
+      with a notorious gangster serving time for an armed robbery and the murder
+      of a young policewoman.</blockquote>
     _key: card-1-6250fc15-f0fb-4b6b-96f6-a1cedb7afb6d
   - order: 1
     useCheckmark: false
     body: >-
-      > "…today the people will decide between more of the same or a real
-      change."  
-        
-        
-        
-      Newly elected Mexican President Andres Manuel Lopez Obrador as he voted in
-      Sunday's elections. Lopez Abrader has run twice before for President &
-      lost. He has promised to clean up corruption & violence, but with few
-      concrete details.
-
-
-      [SMARTHER REFRESHER](https://smarthernews.com/18-06-29-mexico-elections/)
+      <div><blockquote>"…today the people will decide between more of the same
+      or a real change."<br><br><br><br>Newly elected Mexican President Andres
+      Manuel Lopez Obrador as he voted in Sunday's elections. Lopez Abrader has
+      run twice before for President &amp; lost. He has promised to clean up
+      corruption &amp; violence, but with few concrete
+      details.</blockquote><p><a
+      href="https://smarthernews.com/18-06-29-mexico-elections/">SMARTHER
+      REFRESHER</a></p></div>
     _key: card-2-c0902104-96f2-46fd-9dc4-81e8c8577d1d
   - order: 2
     useCheckmark: false
     body: >-
-      > “This was always going to be the place. It was always a two-horse race
-      between Cleveland & Los Angeles.”  
-        
-        
-        
-      ESPN reporter Brian Windhorst on 33-year-old NBA superstar LeBron James
-      4-year, $154M contract with the Los Angeles Lakers. It marks the 3rd time
-      in 8 years James will have changed teams.
+      <blockquote>“This was always going to be the place. It was always a
+      two-horse race between Cleveland &amp; Los Angeles.”<br><br><br><br>ESPN
+      reporter Brian Windhorst on 33-year-old NBA superstar LeBron James 4-year,
+      $154M contract with the Los Angeles Lakers. It marks the 3rd time in 8
+      years James will have changed teams.</blockquote>
     _key: card-3-2799de82-69d4-40c3-82fa-0f1968e7cb5a
   - order: 3
     useCheckmark: false
     body: >-
-      “I’m pro-life and the job of a judge is to decide cases before the court,
-      but one of the concepts that really means a lot in America is**stare
-      decisis** – that means you don’t overturn precedent unless there is a good
-      reason.A I would tell my pro-life friends: you can be pro-life and
-      conservative, but you can also believe in**stare decisis**.”  
-        
-        
-        
-      Sen. Lindsey Graham (R-SC) Meet the Press.
+      <p>“I’m pro-life and the job of a judge is to decide cases before the
+      court, but one of the concepts that really means a lot in America is
+      <strong>stare decisis</strong> – that means you don’t overturn precedent
+      unless there is a good reason.A I would tell my pro-life friends: you can
+      be pro-life and conservative, but you can also believe in <strong>stare
+      decisis</strong>.”<br><br><br><br>Sen. Lindsey Graham (R-SC) Meet the
+      Press.</p>
     _key: card-4-17f9947c-5e74-47c9-8a60-cab0df7cdbf0
   - order: 4
     useCheckmark: false
     body: >-
-      > “Writing daily obits only reinforced what I had long suspected: It is
-      the best beat in journalism.”  
-        
-        
-      NYT obituary writer, Margalit Fox, who after 14 years writing obituaries
-      will leave the newspaper to write novels. Her own "epitaph" in the paper
-      is charming and worth a read.
+      <blockquote>“Writing daily obits only reinforced what I had long
+      suspected: It is the best beat in journalism.”<br><br><br>NYT obituary
+      writer, Margalit Fox, who after 14 years writing obituaries will leave the
+      newspaper to write novels. Her own "epitaph" in the paper is charming and
+      worth a read.</blockquote>
     _key: card-5-41606226-a2c5-4002-be66-c2ece147ddf3
   - order: 5
     useCheckmark: false
     body: >-
-      > “I’m convinced you can be old at 30 or young at 90, and it’s all up to
-      you.”  
-        
-        
-      Legendary oil tycoon, T. Boone Pickens, in an essay on age and attitude on
-      LinkedIn as he revealed some of the health challenges he has recently
-      confronted.
+      <blockquote>“I’m convinced you can be old at 30 or young at 90, and it’s
+      all up to you.”<br><br><br>Legendary oil tycoon, T. Boone Pickens, in an
+      essay on age and attitude on LinkedIn as he revealed some of the health
+      challenges he has recently confronted.</blockquote>
     _key: card-6-2f8eb133-f64e-4121-b5fe-f5a7b821df27
   - order: 6
     useCheckmark: true
-    body: |-
-      Happy 4th of July Week!
-
-      [view sources](https://smarthernews.com/18-07-02-qq-monday/)
+    body: >-
+      <div><p>Happy 4th of July Week!</p><p><a
+      href="https://smarthernews.com/18-07-02-qq-monday/">view
+      sources</a></p></div>
     _key: card-10-6e5d1b91-c262-45c0-966d-5901d3d5001c
 
 ---

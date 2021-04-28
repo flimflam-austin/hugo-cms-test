@@ -22,45 +22,31 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # REDHEADS REJOICE!
-
-
-      More than 2000 emojis came before, but_finallyA_ redheads (curly & white
-      hair, too!) get their proper representation.
-
-
-      FLIP TO SEE: New Emojis
+      <div><h1>REDHEADS REJOICE!</h1><p>More than 2000 emojis came before, but
+      <em>finallyA</em> redheads (curly &amp; white hair, too!) get their proper
+      representation.</p><p>FLIP TO SEE: New Emojis</p></div>
     _key: card-1-553d95a0-b5c6-46a7-b79b-2db8a86d0924
   - order: 1
     useCheckmark: false
     body: >-
-      ## 150+ New Emojis
-
-
-      * **Expressions**: smiling with hearts, woozy, hot & cold face.
-
-      * **Animals:** kangaroo,A mosquito, peacock, parrot, swan.
-
-      * **Foods:** cupcake, bagel, lettuce.
-
-      * **Science:** lab coats, DNA, magnet.
-
-
-      You cant use them yet! Expect a gradual rollout over several months.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/5qLDBQ583Y8?enablejsapi=1&autoplay=1&rel=0)
+      <div><h2>150+ New Emojis</h2><ul><li><strong>Expressions</strong>: smiling
+      with hearts, woozy, hot &amp; cold face.</li><li><strong>Animals:</strong>
+      kangaroo,A mosquito, peacock, parrot,
+      swan.</li><li><strong>Foods:</strong> cupcake, bagel,
+      lettuce.</li><li><strong>Science:</strong> lab coats, DNA,
+      magnet.</li></ul><p>You cant use them yet! Expect a gradual rollout over
+      several months.</p><p><a
+      href="https://www.youtube.com/embed/5qLDBQ583Y8?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-2-65ddb090-1787-475d-a5b6-7679b8f5fa88
   - order: 2
     useCheckmark: true
     body: >-
-      Now there's a redhead...a peacock...a "leg"...what emoji do you think is
-      still missing? A flamingo and white heart did not make the list this time,
-      despite being nominated.
-
-
-      [view sources](https://smarthernews.com/18-06-05-emojis/)
+      <div><p>Now there's a redhead...a peacock...a "leg"...what emoji do you
+      think is still missing? A flamingo and white heart did not make the list
+      this time, despite being nominated.</p><p><a
+      href="https://smarthernews.com/18-06-05-emojis/">view
+      sources</a></p></div>
     _key: card-10-5a83fdbc-c70f-45e2-8b92-67cee877a063
 
 ---

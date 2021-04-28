@@ -22,19 +22,18 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _"It’s incredible to stay in a career this long and still have people
-      put up with you. I wish they did that at home."_
+      <div><blockquote><em>"It’s incredible to stay in a career this long and
+      still have people put up with you. I wish they did that at
+      home."</em></blockquote><p></p></div>
     citation: Betty White
     _key: card-1-b3713458-41f0-4e8f-a5d5-76a60003b498
   - order: 1
     useCheckmark: true
     body: >-
-      96-year-old Betty White still making people laugh as she was honored at
-      the 2018 Emmy Awards. The comedian was nominated 24 times and won 8 Emmys
-      - her first in 1951, her last 60 years later in 2011.
-
-
-      [view sources](https://smarthernews.com/18-09-18-qtd/)
+      <div><p>96-year-old Betty White still making people laugh as she was
+      honored at the 2018 Emmy Awards. The comedian was nominated 24 times and
+      won 8 Emmys - her first in 1951, her last 60 years later in 2011.</p><p><a
+      href="https://smarthernews.com/18-09-18-qtd/">view sources</a></p></div>
     _key: card-10-f55bde3a-84f7-45b2-ac32-0f0503af7597
 
 ---

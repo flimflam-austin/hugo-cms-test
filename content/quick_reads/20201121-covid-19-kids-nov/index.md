@@ -22,79 +22,61 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      What to know as the U.S. reports more than 1 million COVID-19 cases among
-      the youngest Americans.
+      <p>What to know as the U.S. reports more than 1 million COVID-19 cases
+      among the youngest Americans.</p>
     _key: a2786e7e0d67
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Latest
-
-
-      **Last Week:** The *total* number of cases among children surpassed 1
-      million as America also reported 1 mil *new* cases.
-
-
-      **This Week:** The country’s largest school district (NYC) reverted back
-      to remote-only learning.
-
-
-      **Next Week:** At least two states (Kentucky & West Virginia) will
-      temporarily cease all in-person school instruction.
+      <div><h2>The Latest</h2><p><strong>Last Week:</strong> The *total* number
+      of cases among children surpassed 1 million as America also reported 1 mil
+      *new* cases.</p><p><strong>This Week:</strong> The country’s largest
+      school district (NYC) reverted back to remote-only
+      learning.</p><p><strong>Next Week:</strong> At least two states (Kentucky
+      &amp; West Virginia) will temporarily cease all in-person school
+      instruction.</p><p></p></div>
     _key: 17a10e2e11fb
   - order: 2
     useCheckmark: false
     body: >-
-      ## The Latest Data
-
-
-      According to COVID-19 data compiled in a report by the American Academy of
-      Pediatrics and Children’s Hospital Association, as of November 12:
-
-
-      * 1 mil+ children (0 – 20) have tested positive — that’s**11.5% of all
-      U.S. cases.**
-
-      * Last week was the largest one-week increase among cases in children:
-      112,000 — and a 22% rise over two weeks.
+      <div><h2>The Latest Data</h2><p>According to COVID-19 data compiled in a
+      report by the American Academy of Pediatrics and Children’s Hospital
+      Association, as of November 12:</p><ul><li>1 mil+ children (0 – 20) have
+      tested positive — that’s <strong>11.5% of all U.S.
+      cases.</strong></li><li>Last week was the largest one-week increase among
+      cases in children: 112,000 — and a 22% rise over two
+      weeks.</li></ul></div>
     _key: f22f4e3a51bd
   - order: 3
     useCheckmark: false
     body: >-
-      ## More Context
-
-
-      * The data comes from 49 states & D.C., but states differed in the type of
-      data reported (ex: cases vs. hospitalizations vs. deaths) AND definition
-      of “child” (ex: 0 – 14 yrs, 0 – 20 yrs).
-
-      * The**hospitalization rate among children was 1.6%** based on the 23
-      states and NYC providing hospitalization data.
-
-      * Of the 42 states providing fatality data,**children made up less than 1%
-      of deaths**.
+      <div><h2>More Context</h2><ul><li>The data comes from 49 states &amp;
+      D.C., but states differed in the type of data reported (ex: cases vs.
+      hospitalizations vs. deaths) AND definition of “child” (ex: 0 – 14 yrs, 0
+      – 20 yrs).</li><li>The <strong>hospitalization rate among children was
+      1.6%</strong> based on the 23 states and NYC providing hospitalization
+      data.</li><li>Of the 42 states providing fatality data, <strong>children
+      made up less than 1% of deaths</strong>.</li></ul></div>
     _key: c0bbaa9058c3
   - order: 4
     useCheckmark: false
     body: >-
-      > “As a pediatrician who has practiced medicine for over three decades, I
-      find this number staggering and tragic.”
-
-
-      American Academy of Pediatrics President Sally Goza, M.D., FAAP, on the
-      more than 1 million cases among children. She also notes that while severe
-      illness among children with COVID-19 is rare, the secondary effects --
-      such as school disruptions and family stress -- also weigh heavily on
-      children during the pandemic.
+      <div><blockquote>“As a pediatrician who has practiced medicine for over
+      three decades, I find this number staggering and
+      tragic.”</blockquote><p>American Academy of Pediatrics President Sally
+      Goza, M.D., FAAP, on the more than 1 million cases among children. She
+      also notes that while severe illness among children with COVID-19 is rare,
+      the secondary effects -- such as school disruptions and family stress --
+      also weigh heavily on children during the pandemic.</p></div>
     _key: 1905f1cb6e98
   - order: 5
     useCheckmark: true
     body: >-
-      Based on what we know so far, most children experience milder symptoms of
-      COVID-19 than adults, and some who test positive may not have any symptoms
-      at all but still can spread illness. While some argue schools risk higher
-      infection rates, others say school rules help keep families safe. What do
-      you think?
+      <div><p>Based on what we know so far, most children experience milder
+      symptoms of COVID-19 than adults, and some who test positive may not have
+      any symptoms at all but still can spread illness. While some argue schools
+      risk higher infection rates, others say school rules help keep families
+      safe. What do you think?</p><p></p></div>
     citation: VIEW SOURCES
     _key: bbcdf7913afa
 

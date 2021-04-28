@@ -22,58 +22,39 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # WORLD CUP FINAL
-
-
-      ## France vs. Croatia
-
-
-      Attention casual soccer fans, it’s time to tune in (and have a
-      mimosa)…**soccer’s biggestA stage is set for Sunday brunch.**
-
-
-      Moscow: 11AM est
+      <div><h1>WORLD CUP FINAL</h1><h2>France vs. Croatia</h2><p>Attention
+      casual soccer fans, it’s time to tune in (and have a
+      mimosa)…<strong>soccer’s biggestA stage is set for Sunday
+      brunch.</strong></p><p>Moscow: 11AM est</p></div>
     _key: card-1-50dbf2a0-db95-4a04-8663-c2529bebdad1
   - order: 1
     useCheckmark: false
     body: >-
-      ## CROATIA
-
-
-      * **1st World Cup final in history.**
-
-      * 1st team to avoid defeat after trailing in three knockout matches.
-
-      * 2nd smallest nation in World Cup history to make the final (afterA
-      Uruguay.)
-
-      * Team will finally get to wearA famed (& favored) red & white shirts for
-      the first time in a month (because they clashed with opponents).
+      <div><h2>CROATIA</h2><ul><li><strong>1st World Cup final in
+      history.</strong></li><li>1st team to avoid defeat after trailing in three
+      knockout matches.</li><li>2nd smallest nation in World Cup history to make
+      the final (afterA Uruguay.)</li><li>Team will finally get to wearA famed
+      (&amp; favored) red &amp; white shirts for the first time in a month
+      (because they clashed with opponents).</li></ul></div>
     _key: card-2-10cbe1af-5f0a-469f-82c7-06e9284130f3
   - order: 2
     useCheckmark: false
     body: >-
-      ## FRANCE
-
-
-      * One of the tournament favorites since the start.
-
-      * Only won the World Cup once, 20 years ago (after beating Croatia
-      semifinals.)
-
-      * OneA CBS analyst described the team as a “terrific blend ofA youth,
-      experience, speed & strength.”
+      <div><h2>FRANCE</h2><ul><li>One of the tournament favorites since the
+      start.</li><li>Only won the World Cup once, 20 years ago (after beating
+      Croatia semifinals.)</li><li>OneA CBS analyst described the team as a
+      “terrific blend ofA youth, experience, speed &amp;
+      strength.”</li></ul></div>
     _key: card-3-e42c585e-d30f-4464-929c-9bf4e4d2f644
   - order: 3
     useCheckmark: true
     body: >-
-      The US men's team failed to qualify for this year's tournament for the
-      first time since 1986 which has been trouble for TV ratings; Fox is
-      expecting to lose money on this year's World Cup. Read more here & see
-      complete list of World Cup winners.
-
-
-      [view sources](https://smarthernews.com/18-07-13-world-cup/)
+      <div><p>The US men's team failed to qualify for this year's tournament for
+      the first time since 1986 which has been trouble for TV ratings; Fox is
+      expecting to lose money on this year's World Cup. Read more here &amp; see
+      complete list of World Cup winners.</p><p><a
+      href="https://smarthernews.com/18-07-13-world-cup/">view
+      sources</a></p></div>
     _key: card-10-a211bd85-0176-4f5d-997b-9c5914eb6ce5
 
 ---

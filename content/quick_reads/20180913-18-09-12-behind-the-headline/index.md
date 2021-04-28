@@ -21,73 +21,49 @@ colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## BEHIND THE HEADLINE
-
-      > New data shows Americans have the “**highest household income ever**“…  
-        
-        
-      Do you truly feel richer?  
-        
-        
-      What you should know about this data.
-
-      Dollars & Sense
+    body: >-
+      <div><h2>BEHIND THE HEADLINE</h2><blockquote>New data shows Americans have
+      the “<strong>highest household income ever</strong>“…<br><br><br>Do you
+      truly feel richer?<br><br><br>What you should know about this
+      data.</blockquote><p>Dollars &amp; Sense</p></div>
     _key: card-1-1cbdf61b-da8c-4c92-b70f-d0af3c0f358a
   - order: 1
     useCheckmark: false
-    body: |-
-      ## BIG PICTURE: U.S.A.
-
-      Americans are**earning more**.
-
-      **Fewer people in poverty** (lowest number since 2006).
-
-      It’s a trend. Income increased last year for the**third year in a row.**
-
-      $61,371 = median household income.
-
-      But...
+    body: >-
+      <div><h2>BIG PICTURE: U.S.A.</h2><p>Americans are <strong>earning
+      more</strong>.</p><p><strong>Fewer people in poverty</strong> (lowest
+      number since 2006).</p><p>It’s a trend. Income increased last year for the
+      <strong>third year in a row.</strong></p><p>$61,371 = median household
+      income.</p><p>But...</p></div>
     _key: card-2-e8d4c534-a6b8-4393-bf67-bb629feb6ab2
   - order: 2
     useCheckmark: false
     body: >-
-      ## THE WAGE DEBATE
-
-
-      The American economy has grown, added jobs & workers… but data shows
-      our**income is NOT rising as quickly, as expected, as previous years, or
-      compared to what things cost (inflation)**.
-
-
-      Do we look like we make more on paper, but have less $pending power?
+      <div><h2>THE WAGE DEBATE</h2><p>The American economy has grown, added jobs
+      &amp; workers… but data shows our <strong>income is NOT rising as quickly,
+      as expected, as previous years, or compared to what things cost
+      (inflation)</strong>.</p><p>Do we look like we make more on paper, but
+      have less $pending power?</p></div>
     _key: card-3-5e77dbc6-60ee-4561-b39e-6dda1d5ae8bc
   - order: 3
     useCheckmark: false
     body: >-
-      ## What’s Going on?
-
-
-      No one knows for sure: 2 theories
-
-
-      **White House:**A Bad data & wage growth is good. Stats don’t consider tax
-      cuts & other perks. Some (non-WH) economists agree.
-
-
-      **Another theory:**A People reentering workforce may get lower paying or
-      part-time jobs, or have fewer qualifications, so they make less $$.
+      <div><h2>What’s Going on?</h2><p>No one knows for sure: 2
+      theories</p><p><strong>White House:</strong>A Bad data &amp; wage growth
+      is good. Stats don’t consider tax cuts &amp; other perks. Some (non-WH)
+      economists agree.</p><p><strong>Another theory:</strong>A People
+      reentering workforce may get lower paying or part-time jobs, or have fewer
+      qualifications, so they make less $$.</p></div>
     _key: card-4-26f41d74-73b0-437b-92c3-d3f65bf88cf3
   - order: 4
     useCheckmark: true
     body: >-
-      Something To Consider: The way the census measures median income has
-      changed. Some say that makes the data difficult to compare to previous
+      <div><p>Something To Consider: The way the census measures median income
+      has changed. Some say that makes the data difficult to compare to previous
       years. It's a good reminder data tells us only so much of a story. How do
-      you feel about your wages and the economy?
-
-
-      [view sources](https://smarthernews.com/18-09-12-behind-the-headline/)
+      you feel about your wages and the economy?</p><p><a
+      href="https://smarthernews.com/18-09-12-behind-the-headline/">view
+      sources</a></p></div>
     _key: card-10-6d14e33e-6609-4293-a395-afa93ec00d1b
 
 ---

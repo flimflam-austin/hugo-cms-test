@@ -22,21 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      What’s**really** going on with immigration & our nation – Plus, we take
-      SmartHER News to Ellis Island.
-
-
-      [Click Here To
-      Listen](http://smarthernews.libsyn.com/smarther-news-ep4-where-we-started-vs-where-we-end-up)
+      <div><p>What’s <strong>really</strong> going on with immigration &amp; our
+      nation – Plus, we take SmartHER News to Ellis Island.</p><p><a
+      href="http://smarthernews.libsyn.com/smarther-news-ep4-where-we-started-vs-where-we-end-up">Click
+      Here To Listen</a></p></div>
     _key: card-1-ecb210c2-cbcc-4a61-b845-a1e9891ff981
   - order: 1
     useCheckmark: true
     body: >-
-      Historical context matters - What remaining questions do you have about
-      our past immigration policy? Email us: Info@SmartHERNews.com
-
-
-      [view sources](https://smarthernews.com/18-06-24-podcast/)
+      <div><p>Historical context matters - What remaining questions do you have
+      about our past immigration policy? Email us:
+      Info@SmartHERNews.com</p><p><a
+      href="https://smarthernews.com/18-06-24-podcast/">view
+      sources</a></p></div>
     _key: card-10-d9dc2248-cd5c-4105-8b2e-060607c883c6
 
 ---

@@ -22,74 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # EARTH DAY
-
-
-      > “The ultimate test of man’s conscience may be his willingness to
-      sacrifice something today for future generations whose words of thanks
-      will not be heard.”  
-        
-        
-        
-      Gaylord Nelson (1916-2005), Earth Day founder, former WI governor &
-      senator
-
-
-      Flip Here For Earth Day's Origins & Impact
+      <div><h1>EARTH DAY</h1><blockquote>“The ultimate test of man’s conscience
+      may be his willingness to sacrifice something today for future generations
+      whose words of thanks will not be heard.”<br><br><br><br>Gaylord Nelson
+      (1916-2005), Earth Day founder, former WI governor &amp;
+      senator</blockquote><p>Flip Here For Earth Day's Origins &amp;
+      Impact</p></div>
     citation: Flip Here For Earth Day's Origins &amp; Impact
     _key: card-1-4b75b00c-008f-41a7-a5ca-6edc8a087e5e
   - order: 1
     useCheckmark: false
     body: >-
-      After the 1969 oil spill in Santa Barbara, CA, Wisconsin Sen. Gaylord
-      NelsonA was inspired to create a grassroots movement in order to educate
-      the public and bring awareness to America’s most pressing environmental
-      issues, like air and water pollution.
-
-
-      20M Americans celebrated the first day in 1970, by 1990 Earth Day
-      mobilized 200M across the globe.
+      <div><p>After the 1969 oil spill in Santa Barbara, CA, Wisconsin Sen.
+      Gaylord NelsonA was inspired to create a grassroots movement in order to
+      educate the public and bring awareness to America’s most pressing
+      environmental issues, like air and water pollution.</p><p>20M Americans
+      celebrated the first day in 1970, by 1990 Earth Day mobilized 200M across
+      the globe.</p></div>
     _key: card-2-fb59c860-17a8-4371-b31e-cce0103c8ba5
   - order: 2
     useCheckmark: false
     body: >-
-      ## Earth Day launched the modern environmental movement
-
-
-      Earth Day lead to the creation of the Environmental Protection Agency
-      (EPA) and the passage of the
-
-
-      * Clean Air Act (1970)
-
-      * Clean Water Act (1972)
-
-      * Endangered Species Act (1973)
+      <div><h2>Earth Day launched the modern environmental movement</h2><p>Earth
+      Day lead to the creation of the Environmental Protection Agency (EPA) and
+      the passage of the</p><ul><li>Clean Air Act (1970)</li><li>Clean Water Act
+      (1972)</li><li>Endangered Species Act (1973)</li></ul></div>
     _key: card-3-478774e6-b2e1-4c8a-84b4-4562ac4f3709
   - order: 3
     useCheckmark: false
     body: >-
-      ## California is home to the USA’s most polluted cities
-
-
-      > According to the American Lung Association’s annual “State of the Air”
-      report, 22 of the top 30 most polluted cities are located in the Golden
-      State.
-
-
-      [Is Your City On the
-      List?](http://%20www.lung.org/our-initiatives/healthy-air/sota/city-rankings/most-polluted-cities.html)
+      <div><h2>California is home to the USA’s most polluted
+      cities</h2><blockquote>According to the American Lung Association’s annual
+      “State of the Air” report, 22 of the top 30 most polluted cities are
+      located in the Golden State.</blockquote><p><a
+      href="http://%20www.lung.org/our-initiatives/healthy-air/sota/city-rankings/most-polluted-cities.html">Is
+      Your City On the List?</a></p></div>
     citation: Is Your City On the List?
     _key: card-4-95c7a643-b8ef-4d1f-a941-4e99d09582c0
   - order: 4
     useCheckmark: true
     body: >-
-      EP Administrator Scott Pruitt currently faces criticism re: allegations of
-      overspending & other potential ethical lapses. Here's perspective from a
-      critic & a supporter.
-
-
-      [view sources](https://smarthernews.com/18-04-22-earth-day/)
+      <div><p>EP Administrator Scott Pruitt currently faces criticism re:
+      allegations of overspending &amp; other potential ethical lapses. Here's
+      perspective from a critic &amp; a supporter.</p><p><a
+      href="https://smarthernews.com/18-04-22-earth-day/">view
+      sources</a></p></div>
     _key: card-10-de9fb07c-c1a2-4669-b0e0-9efb244fca96
 
 ---

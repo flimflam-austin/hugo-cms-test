@@ -22,59 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # QUICK QUOTES
-
-
-      > “While all pharmaceutical treatments have side effects, racism is not a
-      known side effect of any Sanofi medication.”  
-        
-        
-        
-      Sanofi, manufacturer of Ambien, responding to Roseanne Barr blaming a
-      series of hateful & derogatory tweets on taking the sleeping medication.
+      <div><h1>QUICK QUOTES</h1><blockquote>“While all pharmaceutical treatments
+      have side effects, racism is not a known side effect of any Sanofi
+      medication.”<br><br><br><br>Sanofi, manufacturer of Ambien, responding to
+      Roseanne Barr blaming a series of hateful &amp; derogatory tweets on
+      taking the sleeping medication.</blockquote></div>
     _key: card-1-235ae2f5-b418-45b6-bc40-0d237f7fbb26
   - order: 1
     useCheckmark: false
     body: >-
-      > “This indictment brings the defendant another step closer to
-      accountability for the crimes of violence with which he is now charged.”  
-        
-        
-        
-      Manhattan District Attorney Cyrus Vance, Jr., responding to a grand jury's
-      indictment of Harvey Weinstein on charges of 1st degree rape (2 counts) &
-      1st degree criminal sexual act.
+      <blockquote>“This indictment brings the defendant another step closer to
+      accountability for the crimes of violence with which he is now
+      charged.”<br><br><br><br>Manhattan District Attorney Cyrus Vance, Jr.,
+      responding to a grand jury's indictment of Harvey Weinstein on charges of
+      1st degree rape (2 counts) &amp; 1st degree criminal sexual
+      act.</blockquote>
     _key: card-2-a3ba734b-be67-46d0-9625-600b544c846b
   - order: 2
     useCheckmark: false
     body: >-
-      > “I am even more convinced that the FBI did exactly what my fellow
-      citizens would want them to do when they got the information they got, and
-      that it has nothing to do with Donald Trump.”  
-        
-        
-        
-      House Oversight & Government Reform Committee Chairman Rep. Trey Gowdy
-      (R-SC) on recent reports suggesting an FBI informant spied on Pres.
-      Trump's 2016 campaign.
+      <blockquote>“I am even more convinced that the FBI did exactly what my
+      fellow citizens would want them to do when they got the information they
+      got, and that it has nothing to do with Donald
+      Trump.”<br><br><br><br>House Oversight &amp; Government Reform Committee
+      Chairman Rep. Trey Gowdy (R-SC) on recent reports suggesting an FBI
+      informant spied on Pres. Trump's 2016 campaign.</blockquote>
     _key: card-3-5f7a5891-3e1e-45f7-bc96-55496d110a45
   - order: 3
     useCheckmark: false
     body: >-
-      > “They say life is about timing. I learned this lesson at age 18, when I
-      chose to play a light tennis schedule because I want to go to fashion
-      school. Some criticized my decision, but I knew I had two loves – tennis
-      and fashion – and had to find a way to make them coexist.”  
-        
-        
-        
-      Serena Williams announcing her clothing line "Serena" on Instagram. She
-      credits 15 years of "false starts" and critics telling her "no" for the
-      motivation to never quit pursuing her dream.
+      <blockquote>“They say life is about timing. I learned this lesson at age
+      18, when I chose to play a light tennis schedule because I want to go to
+      fashion school. Some criticized my decision, but I knew I had two loves –
+      tennis and fashion – and had to find a way to make them
+      coexist.”<br><br><br><br>Serena Williams announcing her clothing line
+      "Serena" on Instagram. She credits 15 years of "false starts" and critics
+      telling her "no" for the motivation to never quit pursuing her
+      dream.</blockquote>
     _key: card-4-aca073db-bf85-416d-b196-55352164ade2
   - order: 4
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-05-31-quick-quotes/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-05-31-quick-quotes/">view
+      sources</a></p>
     _key: card-10-41aae02a-c1ba-43cc-9e32-8ba556501579
 
 ---

@@ -17,7 +17,7 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-06-17-qq/)'
+    body: <p><a href="https://smarthernews.com/18-06-17-qq/">view sources</a></p>
     _key: card-10-1a1bcdce-2958-4c7f-8211-458254561f7c
 
 ---

@@ -22,80 +22,55 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # No Escaping Amazon
-
-
-      ## Online Retailer’s Next Target: Your Health Care
-
-
-      Domination: Nearly**half** of all online purchases in U.S. flow through
-      Amazon.
-
-
-      Why is Amazon targeting health care? Flip Here
+      <div><h1>No Escaping Amazon</h1><h2>Online Retailer’s Next Target: Your
+      Health Care</h2><p>Domination: Nearly <strong>half</strong> of all online
+      purchases in U.S. flow through Amazon.</p><p>Why is Amazon targeting
+      health care? Flip Here</p></div>
     _key: card-1-9716f8e2-b31b-4f3a-a6d4-2f7a31d30c82
   - order: 1
     useCheckmark: false
     body: >-
-      ## Amazon Health Care Kick
-
-
-      * Investigating how to become a medical supplier (WSJ).
-
-      * Exploring online drug sales (Reports).
-
-      * Health Care Provider: Joint-venture w/ JP Morgan Chase, Berkshire
-      Hathaway (Warren Buffett’s company) to create non-profit, more cost
-      effective health insurance option for company employees (est. 1 million
-      people).
+      <div><h2>Amazon Health Care Kick</h2><ul><li>Investigating how to become a
+      medical supplier (WSJ).</li><li>Exploring online drug sales
+      (Reports).</li><li>Health Care Provider: Joint-venture w/ JP Morgan Chase,
+      Berkshire Hathaway (Warren Buffett’s company) to create non-profit, more
+      cost effective health insurance option for company employees (est. 1
+      million people).</li></ul></div>
     _key: card-2-c199136d-baea-4c24-8763-890e12b8a141
   - order: 2
     useCheckmark: false
     body: >-
-      Amazon “Health”:  
-
-      Why It Matters
-
-
-      * Health care spending makes up approx 1/5 of entire U.S economy.
-
-      * Health care (out-of-pocket, over-the-counter, health insurance) =
-      essential.
-
-      * Yet, costs keep going higher, which means we all $pend more.
-
-      * Companies see an opportunity to compete for our $$.
+      <div><p>Amazon “Health”:<br>Why It Matters </p><ul><li>Health care
+      spending makes up approx 1/5 of entire U.S economy.</li><li>Health care
+      (out-of-pocket, over-the-counter, health insurance) =
+      essential.</li><li>Yet, costs keep going higher, which means we all $pend
+      more.</li><li>Companies see an opportunity to compete for our
+      $$.</li></ul></div>
     _key: card-3-b844efcc-23d3-4467-bcc2-202e6296a488
   - order: 3
     useCheckmark: false
     body: >-
-      > “I think health care is one of those industries that is elevated and
-      made better by machine learning and artificial intelligence.”  
-        
-        
-        
-      Jeff Bezos, Amazon CEO, Vanity Fair New Establishment Summit, April 2017
+      <blockquote>“I think health care is one of those industries that is
+      elevated and made better by machine learning and artificial
+      intelligence.”<br><br><br><br>Jeff Bezos, Amazon CEO, Vanity Fair New
+      Establishment Summit, April 2017</blockquote>
     _key: card-4-798cd82f-7949-4555-b8dd-9e437504c909
   - order: 4
     useCheckmark: false
     body: >-
-      # Would you “Amazon” your health?
-
-
-      * More than half of all American households have Amazon Prime.
-
-      * Amazon “Smart Home” products (like Alexa) can relay information, give
-      directions.
-
-      * Whatever Amazon learns from health care venture with Chase/Berkshire
-      Hathaway could be test for more public products.
+      <div><h1>Would you “Amazon” your health?</h1><ul><li>More than half of all
+      American households have Amazon Prime.</li><li>Amazon “Smart Home”
+      products (like Alexa) can relay information, give
+      directions.</li><li>Whatever Amazon learns from health care venture with
+      Chase/Berkshire Hathaway could be test for more public
+      products.</li></ul></div>
     _key: card-5-64cf1f97-08eb-4b79-8c4a-fda4ddb3774e
   - order: 5
     useCheckmark: true
-    body: |-
-      BTW...It's not just Amazon.
-
-      [view sources](https://smarthernews.com/18-02-13-amazon-dominates/)
+    body: >-
+      <div><p>BTW...It's not just Amazon.</p><p><a
+      href="https://smarthernews.com/18-02-13-amazon-dominates/">view
+      sources</a></p></div>
     _key: card-10-c8d4722c-6180-4f41-a629-3bd47449bfb3
 
 ---

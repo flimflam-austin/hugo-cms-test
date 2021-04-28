@@ -21,76 +21,59 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## January 30, 1815
-
-
-      > During an 1814 attack on the U.S. Capitol, British troops burned the
-      entire collection of books for the nation’s new Library of Congress.  
-        
-      **Today in history marks the beginning of the incredible rebuild for what
-      is now the world’s largest library.**
+      <div><h2>January 30, 1815</h2><blockquote>During an 1814 attack on the
+      U.S. Capitol, British troops burned the entire collection of books for the
+      nation’s new Library of Congress.<br><br><strong>Today in history marks
+      the beginning of the incredible rebuild for what is now the world’s
+      largest library.</strong></blockquote></div>
     _key: 5594d1524763
   - order: 1
     useCheckmark: false
     body: >-
-      ## What Happened?
-
-
-      * The War of 1812: Great Britain vs. U.S. – it lasted nearly 3 years
-      (longer than U.S. involvement in WWI).
-
-      * Caused by disputes over trade, clashes between the Royal Navy & U.S. sea
-      merchants, AND the whole pesky U.S. fight for independence years earlier.
-
-      * **1814 Burning of the Capitol & White House:** In retaliation for the
-      U.S. burning the capital of Upper Canada, British forces burned gov’t
-      structures in D.C.
+      <div><h2>What Happened?</h2><ul><li>The War of 1812: Great Britain vs.
+      U.S. – it lasted nearly 3 years (longer than U.S. involvement in
+      WWI).</li><li>Caused by disputes over trade, clashes between the Royal
+      Navy &amp; U.S. sea merchants, AND the whole pesky U.S. fight for
+      independence years earlier.</li><li><strong>1814 Burning of the Capitol
+      &amp; White House:</strong> In retaliation for the U.S. burning the
+      capital of Upper Canada, British forces burned gov’t structures in
+      D.C.</li></ul><p><br></p></div>
     _key: 69596107b481
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      * **1800: Pres. John Adams approved the Library of Congress.**
-
-      * Purpose: to serve Congress through providing necessary books to
-      lawmakers (and the general public) by_“**combining government, learning,
-      and librarianship.”**_
-
-      * **1815:** After the fire, the House voted to buy Thomas Jefferson’s
-      personal library of 6,487 books for $23,950 – the largest collection of
-      books in the U.S. at the time.
+      <div><h2>Why It Matters</h2><ul><li><strong>1800: Pres. John Adams
+      approved the Library of Congress.</strong></li><li>Purpose: to serve
+      Congress through providing necessary books to lawmakers (and the general
+      public) by <em>“<strong>combining government, learning, and
+      librarianship.”</strong></em></li><li><strong>1815:</strong> After the
+      fire, the House voted to buy Thomas Jefferson’s personal library of 6,487
+      books for $23,950 – the largest collection of books in the U.S. at the
+      time.</li></ul></div>
     _key: a766a7aa99fe
   - order: 3
     useCheckmark: false
-    body: "> “An interesting treasure is added to your city . . . unquestionably the choicest collection of books in the U.S. and I hope it will not be without some general effect on the literature of the country.”\n\nPresident Thomas Jefferson\_after his collection of books was successfully moved into the Library of Congress in 1815."
+    body: "<div><blockquote>“An interesting treasure is added to your city . . . unquestionably the choicest collection of books in the U.S. and I hope it will not be without some general effect on the literature of the country.”</blockquote><p>President Thomas Jefferson\_after his collection of books was successfully moved into the Library of Congress in 1815.</p></div>"
     _key: e71c121cd377
   - order: 4
     useCheckmark: false
     body: >-
-      ## The Library of Congress
-
-
-      * Oldest U.S. federal cultural institution.
-
-      * 170+ million items –**making it the largest library in the world.**
-
-      * **Daily:** the library receives 15,000 items (maps, books, music,
-      posters etc.) and adds 10,000+ items to its vast collections.
-
-      * The library has offices in 6 other countries to acquire & preserve
-      important research materials.
-
-      * 470+ languages are represented.
+      <div><h2>The Library of Congress</h2><ul><li>Oldest U.S. federal cultural
+      institution.</li><li>170+ million items – <strong>making it the largest
+      library in the world.</strong></li><li><strong>Daily:</strong> the library
+      receives 15,000 items (maps, books, music, posters etc.) and adds 10,000+
+      items to its vast collections.</li><li>The library has offices in 6 other
+      countries to acquire &amp; preserve important research
+      materials.</li><li>470+ languages are represented.</li></ul></div>
     _key: 15de1627b9c5
   - order: 5
     useCheckmark: true
     body: >-
-      The smallest book in the Library of Congress is about the size of a period
-      at the end of this sentence; the largest book is 5' by 7'. The Library's
-      rare books collection also holds treasures such as one of the earliest
-      mass-produced books - a 15th-century Gutenburg Bible.
+      <div><p>The smallest book in the Library of Congress is about the size of
+      a period at the end of this sentence; the largest book is 5' by 7'. The
+      Library's rare books collection also holds treasures such as one of the
+      earliest mass-produced books - a 15th-century Gutenburg
+      Bible.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 77febfc4b410
 

@@ -18,12 +18,11 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      One of the highest-paid supermodels in the world reveals her rough start
-      in the industry, and her struggle with panic attacks & suicidal thoughts
-      in her new memoir "Lessons: My Path to a Meaningful Life."
-
-
-      [view sources](https://smarthernews.com/quote-of-the-day/)
+      <div><p>One of the highest-paid supermodels in the world reveals her rough
+      start in the industry, and her struggle with panic attacks &amp; suicidal
+      thoughts in her new memoir "Lessons: My Path to a Meaningful
+      Life."</p><p><a href="https://smarthernews.com/quote-of-the-day/">view
+      sources</a></p></div>
     _key: card-10-19c19e17-10bb-41e0-b91f-b517bb7a1a1f
 
 ---

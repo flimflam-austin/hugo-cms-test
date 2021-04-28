@@ -22,74 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## To A Certain Degree
-
-
-      AboutA**33% of adults over 25** have a Bachelor’s degree.
-
-
-      Why the future of college education may be ditching the traditional
-      campus.
-
-
-      Ivy League ...Online?
+      <div><h2>To A Certain Degree</h2><p>AboutA <strong>33% of adults over
+      25</strong> have a Bachelor’s degree.</p><p>Why the future of college
+      education may be ditching the traditional campus.</p><p>Ivy League
+      ...Online?</p></div>
     _key: card-1-26f5970a-d9ed-4274-b8b9-bf23ecda4f8f
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Future of Learning?
-
-
-      * Univ. of Pennsylvania (Penn) will offer an**online bachelor’s degree**
-      next year through its College of Prof. & Liberal Arts Studies.
-
-      * **First Ivy League college** to offer online bachelor’s degree.
-
-      * **2 paths to admission:** general application *or* “prove your way” in 4
-      foundation courses.
-
-      * **Costs 30% less** than on-campus.
-
-      * Visit campus twice before degree.
+      <div><h2>The Future of Learning?</h2><ul><li>Univ. of Pennsylvania (Penn)
+      will offer an <strong>online bachelor’s degree</strong> next year through
+      its College of Prof. &amp; Liberal Arts Studies.</li><li><strong>First Ivy
+      League college</strong> to offer online bachelor’s
+      degree.</li><li><strong>2 paths to admission:</strong> general application
+      *or* “prove your way” in 4 foundation courses.</li><li><strong>Costs 30%
+      less</strong> than on-campus.</li><li>Visit campus twice before
+      degree.</li></ul></div>
     _key: card-2-8d3a8427-a8c5-4b6f-ac48-f6fbba523c57
   - order: 2
     useCheckmark: false
     body: >-
-      > "When you’re working and raising a family or you’re part of the sandwich
-      generation, it really makes it very difficult to get through the 30 to 36
-      courses needed to get an undergraduate degree. And it’s not terribly
-      affordable."  
-        
-        
-        
-      Nora E. Lewis, vice dean of professional and liberal education at the
-      University of Pennsylvania
+      <blockquote>"When you’re working and raising a family or you’re part of
+      the sandwich generation, it really makes it very difficult to get through
+      the 30 to 36 courses needed to get an undergraduate degree. And it’s not
+      terribly affordable."<br><br><br><br>Nora E. Lewis, vice dean of
+      professional and liberal education at the University of
+      Pennsylvania</blockquote>
     _key: card-3-7627ae68-0006-46a0-8443-2af965d77247
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      * Higher educationA**without the higher cost**.
-
-      * **Increasing demand** for less expensive degrees from top-tier schools
-
-      * Penn sees more colleges offering online bachelor’s.
-
-      * National unemployment rate for those with**college degree (2.1%)** about
-      1/2 what it is for those with only a**high school degree (4.3%)**.
+      <div><h2>Why It Matters</h2><ul><li>Higher educationA <strong>without the
+      higher cost</strong>.</li><li><strong>Increasing demand</strong> for less
+      expensive degrees from top-tier schools</li><li>Penn sees more colleges
+      offering online bachelor’s.</li><li>National unemployment rate for those
+      with <strong>college degree (2.1%)</strong> about 1/2 what it is for those
+      with only a <strong>high school degree (4.3%)</strong>.</li></ul></div>
     _key: card-4-87884541-efde-4794-b116-2cda64bb6443
   - order: 4
     useCheckmark: true
     body: >-
-      Several Ivy League universities offer online degrees at the graduate
-      degree level, including Penn, but its undergraduate offer is a first.
-      Approx. 80% of online-only students are over age 25, unknown if younger
-      students will be interested.
-
-
-      [view sources](https://smarthernews.com/online-ivy-league-degree/)
+      <div><p>Several Ivy League universities offer online degrees at the
+      graduate degree level, including Penn, but its undergraduate offer is a
+      first. Approx. 80% of online-only students are over age 25, unknown if
+      younger students will be interested.</p><p><a
+      href="https://smarthernews.com/online-ivy-league-degree/">view
+      sources</a></p></div>
     _key: card-10-6a13d9c6-7a2f-47c1-9684-9731c2840423
 
 ---

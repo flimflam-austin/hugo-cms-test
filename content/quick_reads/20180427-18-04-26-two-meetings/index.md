@@ -22,76 +22,53 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## WORLD PEACE AT STAKE
-
-
-      **WILL YOUR FAMILY BE SAFER?**
-
-
-      Leaders of South & North Korea have**historic meeting**…on the same day
-      U.S. welcomes Germany with**focus on Iran**.
-
-
-      **Nuclear weapons center stage**.
-
-
-      Why Now?
+      <div><h2>WORLD PEACE AT STAKE</h2><p><strong>WILL YOUR FAMILY BE
+      SAFER?</strong></p><p>Leaders of South &amp; North Korea have
+      <strong>historic meeting</strong>…on the same day U.S. welcomes Germany
+      with <strong>focus on Iran</strong>.</p><p><strong>Nuclear weapons center
+      stage</strong>.</p><p>Why Now?</p></div>
     citation: Why Now?
     _key: card-1-17829ce8-3c64-45fc-a2ea-a96d110011dd
   - order: 1
     useCheckmark: false
     body: >-
-      ## NUCLEAR WAR
-
-
-      * **North Korea has nuclear weapons**. South & North Korea agreed to work
-      towards “denuclearization” (ridding NoKo of nukes) & ending Korean War by
-      end of year.**Details TBD.**
-
-      * Iran doesn’t have nukes (yet) &**Germany believes the “Iran Nuclear
-      Deal” maintains peace**;**Pres. Trump doesn’t** and may withdraw U.S. from
-      deal.
+      <div><h2>NUCLEAR WAR</h2><ul><li><strong>North Korea has nuclear
+      weapons</strong>. South &amp; North Korea agreed to work towards
+      “denuclearization” (ridding NoKo of nukes) &amp; ending Korean War by end
+      of year. <strong>Details TBD.</strong></li><li>Iran doesn’t have nukes
+      (yet) &amp; <strong>Germany believes the “Iran Nuclear Deal” maintains
+      peace</strong>; <strong>Pres. Trump doesn’t</strong> and may withdraw U.S.
+      from deal.</li></ul></div>
     _key: card-2-c174372e-5064-4dbf-ad6a-92145d320f12
   - order: 2
     useCheckmark: false
     body: >-
-      ## North & South Korea
-
-
-      * North Korean leader**crossed border** into South Korea for**first time
-      ever**.
-
-      * NoKo nuclear technology includes capability of**targeting U.S
-      mainland**.
-
-      * U.S. levies sanctions on NoKo to stop nuclear program; effect of
-      sanctions & North Korea’s *true* desire to denuclearize difficult to
-      determine.
+      <div><h2>North &amp; South Korea</h2><ul><li>North Korean leader
+      <strong>crossed border</strong> into South Korea for <strong>first time
+      ever</strong>.</li><li>NoKo nuclear technology includes capability of
+      <strong>targeting U.S mainland</strong>.</li><li>U.S. levies sanctions on
+      NoKo to stop nuclear program; effect of sanctions &amp; North Korea’s
+      *true* desire to denuclearize difficult to determine.</li></ul></div>
     _key: card-3-64132eec-5135-4ca6-a553-be9cf3cb64be
   - order: 3
     useCheckmark: false
     body: >-
-      ## U.S. & Germany.: Agenda
-
-
-      * **Economy** and**Iran** top priorities following in footsteps of major
-      state visit from French president.
-
-      * **Germany part of Iran Nuke Deal** (China, Russia, France, Britain,
-      U.S.) & wants to keep it in place.
-
-      * Aluminum/Steel tariffs the U.S. imposed to help domestic industry (&
-      hurt China/North Korea), also hurt some European industry, incl. Germany.
+      <div><h2>U.S. &amp; Germany.: Agenda</h2><ul><li><strong>Economy</strong>
+      and <strong>Iran</strong> top priorities following in footsteps of major
+      state visit from French president.</li><li><strong>Germany part of Iran
+      Nuke Deal</strong> (China, Russia, France, Britain, U.S.) &amp; wants to
+      keep it in place.</li><li>Aluminum/Steel tariffs the U.S. imposed to help
+      domestic industry (&amp; hurt China/North Korea), also hurt some European
+      industry, incl. Germany.</li></ul></div>
     _key: card-4-74f2513a-b30a-4422-9b91-2c7547c0cb4b
   - order: 4
     useCheckmark: true
     body: >-
-      President Trump & German Chancellor Merkel will have a working lunch.
-      North & South Korea did not share lunch, but will share dinner. See what's
-      on the menu:
-
-
-      [view sources](https://smarthernews.com/18-04-26-two-meetings/)
+      <div><p>President Trump &amp; German Chancellor Merkel will have a working
+      lunch. North &amp; South Korea did not share lunch, but will share dinner.
+      See what's on the menu:</p><p><a
+      href="https://smarthernews.com/18-04-26-two-meetings/">view
+      sources</a></p></div>
     _key: card-10-3561ea61-81f2-4f35-9b14-33a6ae524573
 
 ---

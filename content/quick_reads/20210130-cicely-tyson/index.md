@@ -21,22 +21,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      _“Know that you will not be defeated if you really think positive, about
-      yourself and the life you’ve chosen to live.”_
-
-
-      ##
+      <div><p><em>“Know that you will not be defeated if you really think
+      positive, about yourself and the life you’ve chosen to
+      live.”</em></p><h2></h2></div>
     citation: CICELY TYSON
     _key: 5b9302f336d3
   - order: 1
     useCheckmark: true
     body: >-
-      Actress Cicely Tyson won Emmys, a Tony and an honorary Oscar for her
-      acting work over the course of 7 decades, becoming one of the leading,
+      <div><p>Actress Cicely Tyson won Emmys, a Tony and an honorary Oscar for
+      her acting work over the course of 7 decades, becoming one of the leading,
       trailblazing black actresses in Hollywood. She died only days after the
       release of her memoir at the age of 96. Responding to a question once
       about advice for the young, Tyson responded: “It’s simple. I try always to
-      be true to myself."
+      be true to myself."</p><p></p></div>
     citation: VIEW SOURCES
     _key: a0e85e05dcaf
 

@@ -22,61 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      “Self-made means having succeeded in life unaided.  
-        
-        
-      Used in a sentence: Forbes says that Kylie Jenner is a self-made woman.”  
-        
-        
-      Dictionary.com tweet on Forbes magazine cover story featuring Kylie
-      Jenner. Forbes writes the 21-year-old is "set to be the youngest-ever
-      self-made billionaire." Dictionary.com says searches for "self-made" were
-      up 18,628 percent Wednesday when cover story broke.
+      <p>“Self-made means having succeeded in life unaided.<br><br><br>Used in a
+      sentence: Forbes says that Kylie Jenner is a self-made
+      woman.”<br><br><br>Dictionary.com tweet on Forbes magazine cover story
+      featuring Kylie Jenner. Forbes writes the 21-year-old is "set to be the
+      youngest-ever self-made billionaire." Dictionary.com says searches for
+      "self-made" were up 18,628 percent Wednesday when cover story broke.</p>
     _key: card-1-54f02c4f-72d2-46e1-8f30-d6c9efa3e410
   - order: 1
     useCheckmark: false
     body: >-
-      > “I wouldn’t call it a mystery, but I would say that it’s a bit of a
-      puzzle…”  
-        
-        
-      Fed Chairman Jay Powell to NPR addressing a question on wages. Data shows
-      we are paying more for basic goods, effectively wiping out the real-life
-      impact of wage gains. Powell says he doesn't know why wages aren't going
-      up faster, considering workers are more in demand.
+      <blockquote>“I wouldn’t call it a mystery, but I would say that it’s a bit
+      of a puzzle…”<br><br><br>Fed Chairman Jay Powell to NPR addressing a
+      question on wages. Data shows we are paying more for basic goods,
+      effectively wiping out the real-life impact of wage gains. Powell says he
+      doesn't know why wages aren't going up faster, considering workers are
+      more in demand.</blockquote>
     _key: card-2-458420ee-142b-4a5b-8885-e5ca48ba0217
   - order: 2
     useCheckmark: false
     body: >-
-      "Let me be clear, unequivocally and under oath: not once in my 26 years of
-      defending my nation did my personal opinions impact any official action I
-      took.”  
-        
-        
-      FBI agent Peter Strzok, testifying before Congress. A lead agent for the
-      Hillary Clinton email investigation and a member of the Mueller team at
-      one time, Strzok's text messages revealed criticisms of officials of both
-      parties, but most notably the President who he called an idiot and said he
-      would stop from assuming office.
+      <p>"Let me be clear, unequivocally and under oath: not once in my 26 years
+      of defending my nation did my personal opinions impact any official action
+      I took.”<br><br><br>FBI agent Peter Strzok, testifying before Congress. A
+      lead agent for the Hillary Clinton email investigation and a member of the
+      Mueller team at one time, Strzok's text messages revealed criticisms of
+      officials of both parties, but most notably the President who he called an
+      idiot and said he would stop from assuming office.</p>
     _key: card-3-20fae5af-5138-4b25-8da7-fb9daad7fb8c
   - order: 3
     useCheckmark: false
     body: >-
-      "He was sort of the guy that would argue both sides. I don’t think he sees
-      himself as an ideologue in any way. I think he sees himself as someone who
-      has intellectual rigor in how he looks at the law."  
-        
-      Yale Law graduate Ken Christmas, a fmr. law school roommate of Supreme
-      Court Justice nominee Brett Kavanaugh. Christmas, an African-American,
-      said the two would often discuss minority issues. Christmas also says
-      Kavanaugh was a bland eater & has limited dance moves.
+      <p>"He was sort of the guy that would argue both sides. I don’t think he
+      sees himself as an ideologue in any way. I think he sees himself as
+      someone who has intellectual rigor in how he looks at the
+      law."<br><br>Yale Law graduate Ken Christmas, a fmr. law school roommate
+      of Supreme Court Justice nominee Brett Kavanaugh. Christmas, an
+      African-American, said the two would often discuss minority issues.
+      Christmas also says Kavanaugh was a bland eater &amp; has limited dance
+      moves.</p>
     _key: card-4-aa6dd269-0143-4166-86f8-6655e26a3a24
   - order: 4
     useCheckmark: true
-    body: |-
-      Cheers! TGIF
-
-      [view sources](https://smarthernews.com/18-07-13/)
+    body: >-
+      <div><p>Cheers! TGIF</p><p><a
+      href="https://smarthernews.com/18-07-13/">view sources</a></p></div>
     _key: card-10-5fd1f4f2-c7f8-44de-9484-03d65c0cb18e
 
 ---

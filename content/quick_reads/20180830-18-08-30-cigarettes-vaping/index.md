@@ -22,75 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      To Vape Or  
-
-      Not To Vape?
-
-
-      Approx. 1 out of 8 U.S. adults smoke cigarettes. A new study
-      says**e-cigarette use is on the rise**, especially among young people.
-
-
-      What's "Safe"?
+      <div><p>To Vape Or<br>Not To Vape?</p><p>Approx. 1 out of 8 U.S. adults
+      smoke cigarettes. A new study says <strong>e-cigarette use is on the
+      rise</strong>, especially among young people.</p><p>What's
+      "Safe"?</p></div>
     _key: card-1-94967a9f-2302-44ff-9886-419dfb208f5e
   - order: 1
     useCheckmark: false
     body: >-
-      > According to new U.S. study of self-reported e-cigarette smokers 18+:  
-        
-        
-        
-      ** “The most common pattern of use in the U.S. is dual use, i.e. current
-      use of both traditional cigarettes and electronic cigarettes.”**  
-        
-        
-        
-      Dr. Michael Blaha, study co-author
-
-
-      * Nearly 1 in 20 adults vape with 1 in 3 e-cigarette users vaping daily
-
-      * 15% never smoked cigarettes
-
-      * More than 50% are below 35
+      <div><blockquote>According to new U.S. study of self-reported e-cigarette
+      smokers 18+:<br><br><br><br><strong> “The most common pattern of use in
+      the U.S. is dual use, i.e. current use of both traditional cigarettes and
+      electronic cigarettes.”</strong><br><br><br><br>Dr. Michael Blaha, study
+      co-author</blockquote><ul><li>Nearly 1 in 20 adults vape with 1 in 3
+      e-cigarette users vaping daily</li><li>15% never smoked
+      cigarettes</li><li>More than 50% are below 35</li></ul></div>
     _key: card-2-ca008fe0-c5ac-4d10-ac83-efd825f83f7c
   - order: 2
     useCheckmark: false
     body: >-
-      BOTTOM LINE:
-
-
-
-
-      **E-cigarettes are NOT an FDA-approved quit smoking aid.**
-
-
-      E-cigarettes are considered a “tobacco product” because they contain
-      nicotine, which is highly addictive and derived from tobacco.
+      <div><p>BOTTOM LINE:</p><p></p><p><strong>E-cigarettes are NOT an
+      FDA-approved quit smoking aid.</strong></p><p>E-cigarettes are considered
+      a “tobacco product” because they contain nicotine, which is highly
+      addictive and derived from tobacco.</p></div>
     _key: card-3-489a90a6-644c-4236-a01b-1f32d9b0d8fd
   - order: 3
     useCheckmark: false
     body: >-
-      > “E-cigarette aerosol generally contains fewer toxic chemicals than the
-      deadly mix of 7,000 chemicals in smoke from regular cigarettes.
-      However,**e-cigarette aerosol is not harmless**. It can contain harmful
-      and potentially harmful substances, including nicotine, heavy metals like
-      lead, volatile organic compounds, and cancer-causing agents.”  
-        
-        
-        
-      CDC
+      <blockquote>“E-cigarette aerosol generally contains fewer toxic chemicals
+      than the deadly mix of 7,000 chemicals in smoke from regular cigarettes.
+      However, <strong>e-cigarette aerosol is not harmless</strong>. It can
+      contain harmful and potentially harmful substances, including nicotine,
+      heavy metals like lead, volatile organic compounds, and cancer-causing
+      agents.”<br><br><br><br>CDC</blockquote>
     _key: card-4-88a9dbbf-67e9-4495-ab4c-6d965895d79f
   - order: 4
     useCheckmark: true
     body: >-
-      E-cigarettes are the most commonly used tobacco product among U.S.
+      <div><p>E-cigarettes are the most commonly used tobacco product among U.S.
       adolescents. According to a 2018 National Academy of Medicine report,
-      e-cigarette use in adolescence increases the frequency & quantity of
-      future cigarette smoking.
-
-
-      [view sources](https://smarthernews.com/18-08-30-cigarettes-vaping/)
+      e-cigarette use in adolescence increases the frequency &amp; quantity of
+      future cigarette smoking.</p><p><a
+      href="https://smarthernews.com/18-08-30-cigarettes-vaping/">view
+      sources</a></p></div>
     _key: card-10-9c10693d-003f-438d-bf3f-bd6ca1a3c8ea
 
 ---

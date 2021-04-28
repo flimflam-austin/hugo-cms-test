@@ -22,90 +22,69 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # BAD RAP?
-
-
-      We’re eating more tree nuts than ever…and they may have**FEWER** calories
-      than we thought.
+      <div><h1>BAD RAP?</h1><p>We’re eating more tree nuts than ever…and they
+      may have <strong>FEWER</strong> calories than we
+      thought.</p><p></p><p></p></div>
     citation: WHAT TO KNOW
     _key: c947de064415
   - order: 1
     useCheckmark: false
     body: >-
-      ## BACKSTORY
-
-
-      * **BACKGROUND:** The USDA and most food manufacturers rely on a
-      century-old formula (1 gram of protein = 4 calories; 1 gram of fat = 9
-      calories) to calculate a given food’s calorie content.
-
-      * **RECENT:** That formula might not apply when it comes to certain tree
-      nuts because they aren’t broken down (digested) like other foods, and
-      therefore our bodies don’t absorb as much energy (calories).
+      <div><h2>BACKSTORY</h2><ul><li><strong>BACKGROUND:</strong> The USDA and
+      most food manufacturers rely on a century-old formula (1 gram of protein =
+      4 calories; 1 gram of fat = 9 calories) to calculate a given food’s
+      calorie content.</li><li><strong>RECENT:</strong> That formula might not
+      apply when it comes to certain tree nuts because they aren’t broken down
+      (digested) like other foods, and therefore our bodies don’t absorb as much
+      energy (calories).</li></ul></div>
     _key: ad2166f513b1
   - order: 2
     useCheckmark: false
     body: >-
-      ## About The Studies
-
-
-      * 2011: USDA researchers began studying how almonds, walnuts, & pistachios
-      are digested in human “waste.”
-
-      * Using those samples, researchers calculated how much fat, protein,
-      carbohydrates, & calories were absorbed by the participant.
-
-      * **Results:** Nuts had fewer *digestible* calories vs. calorie counts on
-      labels: almonds (-32%), walnuts (-21%) & pistachios (-5%).
+      <div><h2>About The Studies</h2><ul><li>2011: USDA researchers began
+      studying how almonds, walnuts, &amp; pistachios are digested in human
+      “waste.”</li><li>Using those samples, researchers calculated how much fat,
+      protein, carbohydrates, &amp; calories were absorbed by the
+      participant.</li><li><strong>Results:</strong> Nuts had fewer *digestible*
+      calories vs. calorie counts on labels: almonds (-32%), walnuts (-21%)
+      &amp; pistachios (-5%).</li></ul></div>
     _key: 696d51bb1b6f
   - order: 3
     useCheckmark: false
     body: >-
-      ## WHY?
-
-
-      > “If they’re not digested, then maybe the calorie content is not
-      correct.”  
-        
-      Dr. David Baer, one of the USDA researchers involved in the studies.
+      <div><h2>WHY?</h2><blockquote>“If they’re not digested, then maybe the
+      calorie content is not correct.”<br><br>Dr. David Baer, one of the USDA
+      researchers involved in the studies.</blockquote><p><br></p></div>
     _key: d374f131bc24
   - order: 4
     useCheckmark: false
     body: >-
-      ## Also Worth Noting
-
-
-      * Researchers found the more the nut is cooked (or processed), the more
-      calories digested. Example: Almond butter has more calories than roasted
-      almonds, but roasted almonds have more calories than raw almonds.
-
-      * U.S. Department of Agriculture’s Agricultural Research Service unit
-      conducted the studies. Nut producers and organizations contributed
-      funding.
+      <div><h2>Also Worth Noting</h2><ul><li>Researchers found the more the nut
+      is cooked (or processed), the more calories digested. Example: Almond
+      butter has more calories than roasted almonds, but roasted almonds have
+      more calories than raw almonds.</li><li>U.S. Department of Agriculture’s
+      Agricultural Research Service unit conducted the studies. Nut producers
+      and organizations contributed funding.</li></ul></div>
     _key: b682880e9fbc
   - order: 5
     useCheckmark: false
     body: >-
-      ## BIG PICTURE
-
-
-      > “We can create synthetic DNA and clone animals but we still know
-      incredibly little about the stuff that keeps us alive.”  
-        
-      Prof. Tim Spector, Kings College in London, on nutrition science: "No
-      other field of science or medicine sees such a lack of rigorous studies."
-      Food manufacturers create their own nutrition labels. Research has raised
-      questions about accuracy of labels & whether counts can be
-      "one-size-fits-all."
+      <div><h2>BIG PICTURE</h2><blockquote>“We can create synthetic DNA and
+      clone animals but we still know incredibly little about the stuff that
+      keeps us alive.”<br><br>Prof. Tim Spector, Kings College in London, on
+      nutrition science: "No other field of science or medicine sees such a lack
+      of rigorous studies." Food manufacturers create their own nutrition
+      labels. Research has raised questions about accuracy of labels &amp;
+      whether counts can be "one-size-fits-all."</blockquote></div>
     _key: 283049ddd1c1
   - order: 6
     useCheckmark: true
     body: >-
-      Kind Bars recently announced it's cutting the calorie counts of its nut
-      bars by 10-30 calories per bar because of the new research. Are
+      <div><p>Kind Bars recently announced it's cutting the calorie counts of
+      its nut bars by 10-30 calories per bar because of the new research. Are
       chocolate-covered nuts next? DON'T COUNT ON IT! Mars, which owns a share
-      of Kind, isn't planning on lowering its calorie counts for M&M’s with
-      almonds.
+      of Kind, isn't planning on lowering its calorie counts for M&amp;M’s with
+      almonds.</p><p></p></div>
     citation: VIEW SOURCES
     _key: bfba402d923c
 

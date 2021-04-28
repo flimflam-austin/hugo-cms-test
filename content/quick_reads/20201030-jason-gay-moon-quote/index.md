@@ -22,19 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“Scientists believe that the moon has water, and this is a big deal,
-      because if the moon has water, it probably has sparkling water, and if it
-      has sparkling water, it probably has at least a few appetizers and a
-      decent wine list.”_
+      <div><blockquote><em>“Scientists believe that the moon has water, and this
+      is a big deal, because if the moon has water, it probably has sparkling
+      water, and if it has sparkling water, it probably has at least a few
+      appetizers and a decent wine list.”</em></blockquote><p></p></div>
     citation: JASON GAY
     _key: 8d0d95cd459d
   - order: 1
     useCheckmark: true
     body: >-
-      A hilarious read for a serious time. We learned of water on the moon the
-      same week a Blue Moon arrives on Halloween (a blue moon or a second full
-      moon in one month arrives once every 2-3 years), a full moon on Halloween
-      (once every 19 years). Read Jason Gay's full piece on our source page.
+      <div><p>A hilarious read for a serious time. We learned of water on the
+      moon the same week a Blue Moon arrives on Halloween (a blue moon or a
+      second full moon in one month arrives once every 2-3 years), a full moon
+      on Halloween (once every 19 years). Read Jason Gay's full piece on our
+      source page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 551c429ed687
 

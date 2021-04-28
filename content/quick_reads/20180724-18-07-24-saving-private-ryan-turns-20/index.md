@@ -22,68 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # 20 Years Ago Today: ‘Saving Private Ryan’ opened #1 at the box office
-
-
-      The WWII film, hailed by critics and veterans alike for its realistic
-      battle depictions, was inspired by the true life story of the Niland
-      brothers.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/RYExstiQlLc?enablejsapi=1&autoplay=1&rel=0)
+      <div><h1>20 Years Ago Today: ‘Saving Private Ryan’ opened #1 at the box
+      office</h1><p>The WWII film, hailed by critics and veterans alike for its
+      realistic battle depictions, was inspired by the true life story of the
+      Niland brothers.</p><p><a
+      href="https://www.youtube.com/embed/RYExstiQlLc?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-1-48e501c4-db22-494f-a760-9bf716f0eebe
   - order: 1
     useCheckmark: false
     body: >-
-      # Saving Private Ryan
-
-
-      * Directed by Steven Spielberg and starring Tom Hanks & Matt Damon
-
-      * Cost $70M, including $12M on Omaha Beach D-Day scene.
-
-      * Spielberg didn’t use story boards for notorious D-Day scene, relying
-      instead on photos & news reels.
-
-      * The graphic violence nearly earned it an “NC-17” rating and prevented
-      Spielberg from letting his 13-year-old son see his film.
+      <div><h1>Saving Private Ryan</h1><ul><li>Directed by Steven Spielberg and
+      starring Tom Hanks &amp; Matt Damon</li><li>Cost $70M, including $12M on
+      Omaha Beach D-Day scene.</li><li>Spielberg didn’t use story boards for
+      notorious D-Day scene, relying instead on photos &amp; news
+      reels.</li><li>The graphic violence nearly earned it an “NC-17” rating and
+      prevented Spielberg from letting his 13-year-old son see his
+      film.</li></ul></div>
     _key: card-2-df6bdffc-58c3-481a-be55-2e631548c7d1
   - order: 2
     useCheckmark: false
     body: >-
-      ## The Niland Brothers
-
-
-      > Four Niland brothers hailed from Tonawanda, NY.  
-        
-      Brothers all served during WWII, but they were separated into different
-      units after the tragedy of the 5 A Sullivan brothers, who served and died
-      together when the USS Juneau sank in 1942 in the South Pacific.  
-        
-      Two Niland brothers survived WWII.
+      <div><h2>The Niland Brothers</h2><blockquote>Four Niland brothers hailed
+      from Tonawanda, NY.<br><br>Brothers all served during WWII, but they were
+      separated into different units after the tragedy of the 5 A Sullivan
+      brothers, who served and died together when the USS Juneau sank in 1942 in
+      the South Pacific.<br><br>Two Niland brothers survived
+      WWII.</blockquote></div>
     _key: card-3-4787c6de-7615-4aae-ba73-5e0f09e7c243
   - order: 3
     useCheckmark: false
     body: >-
-      > “The minute we finished the D-Day/Omaha Beach sequence, I knew we had
-      something really special to show audiences around the world.A I think all
-      of us who worked on that film – from Director Steven Spielberg down to the
-      lowliest extra in crowd scenes – can be proud that we had a part in making
-      Saving Private Ryan.”  
-        
-      Capt. Dale Dye, senior military advisor on 'Saving Private Ryan' to
-      SmartHER News
+      <blockquote>“The minute we finished the D-Day/Omaha Beach sequence, I knew
+      we had something really special to show audiences around the world.A I
+      think all of us who worked on that film – from Director Steven Spielberg
+      down to the lowliest extra in crowd scenes – can be proud that we had a
+      part in making Saving Private Ryan.”<br><br>Capt. Dale Dye, senior
+      military advisor on 'Saving Private Ryan' to SmartHER News</blockquote>
     _key: card-4-51e4b063-d8f2-43d0-a86e-d2c6464ba291
   - order: 4
     useCheckmark: true
     body: >-
-      SPR is Spielberg's 10th highest grossing film ($329M in 2018 dollars). His
-      #1? A Shark Week favorite, 'JAWS' earned $1.2B in 2018 dollars.
-
-
-      [view
-      sources](https://smarthernews.com/18-07-24-saving-private-ryan-turns-20/)
+      <div><p>SPR is Spielberg's 10th highest grossing film ($329M in 2018
+      dollars). His #1? A Shark Week favorite, 'JAWS' earned $1.2B in 2018
+      dollars.</p><p><a
+      href="https://smarthernews.com/18-07-24-saving-private-ryan-turns-20/">view
+      sources</a></p></div>
     _key: card-10-f35e8140-3f1a-495b-bf20-47d5f3398933
 
 ---

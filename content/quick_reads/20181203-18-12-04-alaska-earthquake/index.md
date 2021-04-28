@@ -22,24 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## SmartHER Dispatch
-
-
-      SmartHER News Reader & Anchorage resident Tarryn describes the scary
-      moments when a 7.0 magnitude earthquake shook Alaska on Friday.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/E5tM5aUmsbI?enablejsapi=1&autoplay=1&rel=0)
+      <div><h2>SmartHER Dispatch</h2><p>SmartHER News Reader &amp; Anchorage
+      resident Tarryn describes the scary moments when a 7.0 magnitude
+      earthquake shook Alaska on Friday.</p><p><a
+      href="https://www.youtube.com/embed/E5tM5aUmsbI?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-1-64d43c83-21fc-44c7-86f4-e0a736ff3461
   - order: 1
     useCheckmark: true
     body: >-
-      Since the earthquake struck on Friday, more than 1400 aftershocks have
-      been recorded. Alaska has the most earthquakes of any region.
-
-
-      [view sources](https://smarthernews.com/18-12-04-alaska-earthquake/)
+      <div><p>Since the earthquake struck on Friday, more than 1400 aftershocks
+      have been recorded. Alaska has the most earthquakes of any
+      region.</p><p><a
+      href="https://smarthernews.com/18-12-04-alaska-earthquake/">view
+      sources</a></p></div>
     _key: card-10-0deda2a8-b3ed-43cc-a09f-9d658ebf673e
 
 ---

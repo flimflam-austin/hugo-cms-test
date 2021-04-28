@@ -19,65 +19,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## A CHRISTMAS STAR
-
-
-      > For the first time in hundreds of years, a unique alignment of two
-      planets – creating a special “Christmas Star” for all to see.
+      <div><h2>A CHRISTMAS STAR</h2><blockquote>For the first time in hundreds
+      of years, a unique alignment of two planets – creating a special
+      “Christmas Star” for all to see.</blockquote></div>
     _key: f4a1e237186d
   - order: 1
     useCheckmark: false
     body: >-
-      ## What To Know:
-
-
-      * Mark your calendar:**Monday, Dec. 21st.**
-
-      * The two largest planets in our solar system will appear “exceedingly”
-      close together in the Earth’s night sky.
-
-      * Jupiter & Saturn – though remaining 450+ million miles apart – might
-      even appear as an elongated star.
-
-      * Astronomers call it the “great conjunction” –**it will be *most* visible
-      for an hour after sunset.**
+      <div><h2>What To Know:</h2><ul><li>Mark your calendar: <strong>Monday,
+      Dec. 21st.</strong></li><li>The two largest planets in our solar system
+      will appear “exceedingly” close together in the Earth’s night
+      sky.</li><li>Jupiter &amp; Saturn – though remaining 450+ million miles
+      apart – might even appear as an elongated star.</li><li>Astronomers call
+      it the “great conjunction” – <strong>it will be *most* visible for an hour
+      after sunset.</strong></li></ul></div>
     _key: bc85c69e86e3
   - order: 2
     useCheckmark: false
     body: >-
-      > “You can imagine the solar system to be a racetrack, with each of the
-      planets as a runner in their own lane and the Earth toward the center of
-      the stadium. From our vantage point, we’ll be able to be to see Jupiter on
-      the inside lane, approaching Saturn all month and finally overtaking it on
-      Dec. 21.”
-
-
-      Astronomer Henry Throop, Planetary Science Division at NASA Headquarters
-      in Washington.
+      <div><blockquote>“You can imagine the solar system to be a racetrack, with
+      each of the planets as a runner in their own lane and the Earth toward the
+      center of the stadium. From our vantage point, we’ll be able to be to see
+      Jupiter on the inside lane, approaching Saturn all month and finally
+      overtaking it on Dec. 21.”</blockquote><p>Astronomer Henry Throop,
+      Planetary Science Division at NASA Headquarters in Washington.</p></div>
     _key: c7d39f3555a0
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why It Matters:
-
-
-      **2020 is truly historic**: it’s been 800 years since a comparable great
-      conjunction occurred at night, and the planets haven’t appeared to be THIS
-      close (just a tenth of a degree apart) in 400 years.
-
-
-      **No telescope needed**: Although occurring every 20 years, this alignment
-      is rarely visible from Earth; the next time we’ll be able to witness a
-      similar event will be March 2080.
+      <div><h2>Why It Matters:</h2><p><strong>2020 is truly historic</strong>:
+      it’s been 800 years since a comparable great conjunction occurred at
+      night, and the planets haven’t appeared to be THIS close (just a tenth of
+      a degree apart) in 400 years.</p><p><strong>No telescope needed</strong>:
+      Although occurring every 20 years, this alignment is rarely visible from
+      Earth; the next time we’ll be able to witness a similar event will be
+      March 2080.</p></div>
     _key: 8dda292f4ebf
   - order: 4
     useCheckmark: true
     body: >-
-      Timing is everything! Is this similar to how the biblical "Star of
+      <div><p>Timing is everything! Is this similar to how the biblical "Star of
       Bethlehem" may have looked on Christmas night when Jesus was born?
       Astronomers can't be sure, but believe a similar conjunction occurred
       around 6 or 7 BC. Regardless, whatever your faith, location, or point of
-      view - we can all witness this "star" together.
+      view - we can all witness this "star" together.</p><p></p></div>
     citation: VIEW SOURCES
     _key: abae8432b342
 

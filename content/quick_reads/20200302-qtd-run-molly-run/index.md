@@ -21,32 +21,26 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: "## _“It’s OK to hurt, it’s not OK\_to stop.”_"
+    body: "<div><h2><em>“It’s OK to hurt, it’s not OK\_to stop.”</em></h2><p></p></div>"
     citation: MOLLY SEIDEL
     _key: cb83099525da
   - order: 1
     useCheckmark: false
     body: >-
-      ## MOLLY SEIDEL
-
-
-      The 25-year-old ran into the history books Saturday as the first-ever
-      American woman to qualify for the U.S Olympic marathon team by racing in
-      her very first marathon.
-
-
-      The part-time barista & babysitter overcame injuries and an eating
-      disorder to return to competition after a decorated college running
-      career.
+      <div><h2>MOLLY SEIDEL</h2><p>The 25-year-old ran into the history books
+      Saturday as the first-ever American woman to qualify for the U.S Olympic
+      marathon team by racing in her very first marathon.</p><p>The part-time
+      barista &amp; babysitter overcame injuries and an eating disorder to
+      return to competition after a decorated college running career.</p></div>
     _key: b06633638177
   - order: 2
     useCheckmark: true
     body: >-
-      Seidel qualified to represent the U.S. in the 2020 Summer Olympics by
-      running the 26.2 mile course in about 2 hours and 27 minutes - or an
+      <div><p>Seidel qualified to represent the U.S. in the 2020 Summer Olympics
+      by running the 26.2 mile course in about 2 hours and 27 minutes - or an
       average of under-6-minute miles. She previously said a 10-20th ranking
       during the marathon would be a “good day,” calling the qualifying race a
-      “moonshot." She finished 2nd.
+      “moonshot." She finished 2nd.</p><p></p></div>
     citation: VIEW SOURCES
     _key: e9e40d4631d2
 

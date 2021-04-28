@@ -21,21 +21,18 @@ colorpaletteclassname: '--light-green'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # OUR FOUNDER
-
-      * Wife of a veteran
-      * Mother of 2
-      * Columbia University Graduate School of Journalism
-      * Writer, Producer, Former Fox News Anchor
-
-
-
-      [Read More From Jenna](https://smarthernews.com/about/)
+    body: >-
+      <div><h1>OUR FOUNDER</h1><ul><li>Wife of a veteran</li><li>Mother of
+      2</li><li>Columbia University Graduate School of
+      Journalism</li><li>Writer, Producer, Former Fox News
+      Anchor</li></ul><p></p><p><a href="https://smarthernews.com/about/">Read
+      More From Jenna</a></p></div>
     _key: card-1-e206edd8-2e65-466e-b22d-d79790037605
   - order: 1
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-01-31-founder/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-01-31-founder/">view
+      sources</a></p>
     _key: card-10-6968c00b-6af1-4ffa-8bbd-a5f57f4e5e12
 
 ---

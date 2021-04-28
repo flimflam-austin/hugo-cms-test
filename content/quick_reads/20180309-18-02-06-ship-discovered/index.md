@@ -22,71 +22,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # AMAZING DISCOVERY!
-
-
-      Billionaire-turned-shipwreck hunter, Paul Allen (also, the son of a WWII
-      veteran) & his research team discovered a sunken U.S. aircraft carrier no
-      one has seen since WWII.
-
-
-      Team posted play-by-play – View It Below!
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/-K-V_ah6IIs?enablejsapi=1&autoplay=1&rel=0)
+      <div><h1>AMAZING DISCOVERY!</h1><p>Billionaire-turned-shipwreck hunter,
+      Paul Allen (also, the son of a WWII veteran) &amp; his research team
+      discovered a sunken U.S. aircraft carrier no one has seen since
+      WWII.</p><p>Team posted play-by-play – View It Below!</p><p><a
+      href="https://www.youtube.com/embed/-K-V_ah6IIs?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-1-584a9812-4d6d-4599-a8ac-a41f1ddc803d
   - order: 1
     useCheckmark: false
     body: >-
-      ## Backstory:
-
-
-      * USS Lexington (“Lady Lex”) = One of America’s first aircraft carriers
-
-      * Battle of Coral Sea = Major WWII battle vs. Japanese in 1942
-
-      * Americans stopped the Japanese and their advance into Australia, but
-      “Lady Lex” sank.
-
-      * 2,770 men rescued at sea, but 200+ went down with the ship.
+      <div><h2>Backstory:</h2><ul><li>USS Lexington (“Lady Lex”) = One of
+      America’s first aircraft carriers</li><li>Battle of Coral Sea = Major WWII
+      battle vs. Japanese in 1942</li><li>Americans stopped the Japanese and
+      their advance into Australia, but “Lady Lex” sank.</li><li>2,770 men
+      rescued at sea, but 200+ went down with the ship.</li></ul></div>
     _key: card-2-f44aa6e0-9c01-4fab-9084-cb3676b3bba8
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why It Matters:
-
-
-      * USS LexingtonA = FIRST American aircraft carrier to sink at war
-
-      * Battle of Coral Sea = FIRST “air-sea” battle in history; opposing ships
-      NEVER saw each other.
-
-      * Marked a notable shift in WWII &A America’s success containing Japanese.
-
-      * A month later, the “Battle of Midway” turns the tide of the war in
-      America’s favor.
+      <div><h2>Why It Matters:</h2><ul><li>USS LexingtonA = FIRST American
+      aircraft carrier to sink at war</li><li>Battle of Coral Sea = FIRST
+      “air-sea” battle in history; opposing ships NEVER saw each
+      other.</li><li>Marked a notable shift in WWII &amp;A America’s success
+      containing Japanese.</li><li>A month later, the “Battle of Midway” turns
+      the tide of the war in America’s favor.</li></ul></div>
     _key: card-3-ad94d97e-291f-47ca-bc7f-9ab9196e5ecd
   - order: 3
     useCheckmark: false
     body: >-
-      > ‘To pay tribute to theA USSA LexingtonA and the brave men that served on
-      her is an honor. As Americans, all of usA owe a debt of gratitude to
-      everyone who served and whoA continue to serve our country for their
-      courage, persistence and sacrifice.”  
-        
-        
-        
-      Paul Allen, Microsoft Co-Founder & Explorer of Historic Battleships
+      <blockquote>‘To pay tribute to theA USSA LexingtonA and the brave men that
+      served on her is an honor. As Americans, all of usA owe a debt of
+      gratitude to everyone who served and whoA continue to serve our country
+      for their courage, persistence and sacrifice.”<br><br><br><br>Paul Allen,
+      Microsoft Co-Founder &amp; Explorer of Historic Battleships</blockquote>
     _key: card-4-98b0f8fa-d7e0-4a0e-805c-b7b3852bf110
   - order: 4
     useCheckmark: true
     body: >-
-      BTW Paul Allen is building the world's largest airplane. Expect to hear
-      more about that soon! Preview In Sources:
-
-
-      [view sources](https://smarthernews.com/18-02-06-ship-discovered/)
+      <div><p>BTW Paul Allen is building the world's largest airplane. Expect to
+      hear more about that soon! Preview In Sources:</p><p><a
+      href="https://smarthernews.com/18-02-06-ship-discovered/">view
+      sources</a></p></div>
     _key: card-10-59445772-4438-4762-b2bf-55ab8be1ec2a
 
 ---

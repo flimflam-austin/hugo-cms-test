@@ -22,66 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Your Online Shopping  
-
-      Dollars & Sense
-
-
-      The Supreme Court ruled states can require online sellers to collect sales
-      tax on your purchases – what this means for your family.
-
-
-      Cha-Ching: Why Now?
+      <div><p>Your Online Shopping<br>Dollars &amp; Sense </p><p>The Supreme
+      Court ruled states can require online sellers to collect sales tax on your
+      purchases – what this means for your family.</p><p>Cha-Ching: Why
+      Now?</p></div>
     _key: card-1-4aa581d2-61f8-401b-abd3-6b41b94fd86d
   - order: 1
     useCheckmark: false
     body: >-
-      ## What Happened?
-
-
-      Some online retailers voluntarily collect sales tax in the 45 states + DC
-      that impose a sales tax,**but many don’t**, placing brick-and-mortar shops
-      at a disadvantage.
-
-
-      The high court overturned a 1992 ruling prohibiting states from collecting
-      sales tax from out-of-state retailers w/o a ‘physical presence’ in the
-      same state as the buyer.
+      <div><h2>What Happened?</h2><p>Some online retailers voluntarily collect
+      sales tax in the 45 states + DC that impose a sales tax, <strong>but many
+      don’t</strong>, placing brick-and-mortar shops at a
+      disadvantage.</p><p>The high court overturned a 1992 ruling prohibiting
+      states from collecting sales tax from out-of-state retailers w/o a
+      ‘physical presence’ in the same state as the buyer.</p></div>
     _key: card-2-3b572a39-88fe-4f6e-b226-7655b88aab0e
   - order: 2
     useCheckmark: false
     body: >-
-      > “The retail industry is changing, and the Supreme Court has acted
-      correctly in recognizing that it’s time for outdated sales tax policies to
-      change as well. This ruling clears the way for a fair and level playing
-      field where all retailers compete under the same sales tax rules whether
-      they sell merchandise online, in-store or both."  
-        
-      National Retail Federation President and CEO Matthew Shay
+      <blockquote>“The retail industry is changing, and the Supreme Court has
+      acted correctly in recognizing that it’s time for outdated sales tax
+      policies to change as well. This ruling clears the way for a fair and
+      level playing field where all retailers compete under the same sales tax
+      rules whether they sell merchandise online, in-store or
+      both."<br><br>National Retail Federation President and CEO Matthew
+      Shay</blockquote>
     _key: card-3-ccf7dab5-a428-48a2-b548-d17eaf13b17d
   - order: 3
     useCheckmark: false
     body: >-
-      ## What It Means For You:
-
-
-      * **Online-only shops might raise their prices to make up for the money
-      they’ll have to pay in sales tax to the states.A** Amazon is unlikely to
-      do so – it’s been collecting sales tax nationwide on most items since
-      2017.
-
-      * **States will have more $ to spend internally.** In its decision, the
-      Supreme Court estimated states were losing up to $33B a year.
+      <div><h2>What It Means For You:</h2><ul><li><strong>Online-only shops
+      might raise their prices to make up for the money they’ll have to pay in
+      sales tax to the states.A</strong> Amazon is unlikely to do so – it’s been
+      collecting sales tax nationwide on most items since
+      2017.</li><li><strong>States will have more $ to spend
+      internally.</strong> In its decision, the Supreme Court estimated states
+      were losing up to $33B a year.</li></ul></div>
     _key: card-4-0d6258c4-1517-4ac5-8897-cb243ad6edb8
   - order: 4
     useCheckmark: true
     body: >-
-      Stocks for major online retailers like Amazon, Ebay, Overstock and Wayfair
-      all dropped immediately following the ruling, but the lasting impact will
-      take some time to measure.
-
-
-      [view sources](https://smarthernews.com/18-06-25-scotus-sales-tax/)
+      <div><p>Stocks for major online retailers like Amazon, Ebay, Overstock and
+      Wayfair all dropped immediately following the ruling, but the lasting
+      impact will take some time to measure.</p><p><a
+      href="https://smarthernews.com/18-06-25-scotus-sales-tax/">view
+      sources</a></p></div>
     _key: card-10-cb8210c8-cd90-4aca-9d1e-66422236303a
 
 ---

@@ -21,136 +21,89 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: "# FACEBOOK SCANDAL\n\n## At Fault Or A Victim?\n\n> ‘This was a scam a\x14 and a fraud.’  \n  \n  \n  \nPaul Grewal, Facebook VP & lawyer, statement to NYT, March 17, 2018\n\nFlip For More"
+    body: "<div><h1>FACEBOOK SCANDAL</h1><h2>At Fault Or A Victim?</h2><blockquote>‘This was a scam a\x14 and a fraud.’<br><br><br><br>Paul Grewal, Facebook VP &amp; lawyer, statement to NYT, March 17, 2018</blockquote><p>Flip For More</p></div>"
     citation: Flip For More
     _key: card-1-bdfe69c5-3687-4e47-ae0b-ca0019abfe57
   - order: 1
     useCheckmark: false
     body: >-
-      ## Let’s Set The Stage
-
-
-      * Tech Giants face questions about handling our data responsibly and how
-      they sell or share it with advertisers.
-
-      * Laws haven’t matched pace of technology.
-
-      * $36B wiped away in 1 day as news hit FB stock Monday; CEO Mark
-      Zuckerberg asked to appear before Congress about company’s standards.
+      <div><h2>Let’s Set The Stage</h2><ul><li>Tech Giants face questions about
+      handling our data responsibly and how they sell or share it with
+      advertisers.</li><li>Laws haven’t matched pace of technology.</li><li>$36B
+      wiped away in 1 day as news hit FB stock Monday; CEO Mark Zuckerberg asked
+      to appear before Congress about company’s standards.</li></ul></div>
     _key: card-2-97fd4207-3cf8-46e2-a9ce-3a8bf6971ebb
   - order: 2
     useCheckmark: false
-    body: |-
-      # Center of Controversy
-
-      The Major Players:  
-      (no particular order)
-
-      * Millions of Facebook Users
-      * Facebook
-      * Cambridge University Professor
-      * Firm called “Cambridge Analytica” (not related to University)
-      * Wealthy Republican Businessman & his associates.
+    body: >-
+      <div><h1>Center of Controversy</h1><p>The Major Players:<br>(no particular
+      order)</p><ul><li>Millions of Facebook
+      Users</li><li>Facebook</li><li>Cambridge University Professor</li><li>Firm
+      called “Cambridge Analytica” (not related to University)</li><li>Wealthy
+      Republican Businessman &amp; his associates.</li></ul></div>
     _key: card-3-fe81b27f-30a7-48a8-9055-51b78af6101e
   - order: 3
     useCheckmark: false
     body: >-
-      # Psychographic
-
-
-      ## Word-Of-The-Week:
-
-
-      Psychographic:A mapping a person’s attitudes & interests.
-
-
-      Different than demographics that reflect race, age or gender.
-
-
-      Facebook and online data can be used to create_psychographics_ – to target
-      you as**a voter or consumer**.
+      <div><h1>Psychographic</h1><h2>Word-Of-The-Week:</h2><p>Psychographic:A
+      mapping a person’s attitudes &amp; interests.</p><p>Different than
+      demographics that reflect race, age or gender.</p><p>Facebook and online
+      data can be used to create <em>psychographics</em> – to target you as
+      <strong>a voter or consumer</strong>.</p></div>
     _key: card-4-0d11b1d6-4431-4b9d-8edb-cbea51476eee
   - order: 4
     useCheckmark: false
     body: >-
-      The Professor  
-
-      Aleksandr KoganA
-
-
-      * Gathered information from FB app for anA ‘academic
-      project”:A_thisisyourdigitallife_
-
-      * FB says Kogan violated its policies when he shared data with a private
-      firm: Cambridge Analytica.
-
-      * Kogan’s initial data is from users who downloaded his app but led to
-      some 50M FB users -A NYT.
+      <div><p>The Professor<br>Aleksandr KoganA</p><ul><li>Gathered information
+      from FB app for anA ‘academic project”:A
+      <em>thisisyourdigitallife</em></li><li>FB says Kogan violated its policies
+      when he shared data with a private firm: Cambridge
+      Analytica.</li><li>Kogan’s initial data is from users who downloaded his
+      app but led to some 50M FB users -A NYT.</li></ul></div>
     _key: card-5-4b93e245-cbdd-4d63-b9ac-7fbc7093ca72
   - order: 5
     useCheckmark: false
     body: >-
-      > “About 270,000 people downloaded the app, giving Mr. Kogan access to
-      information such as the cities they lived in, the content they had liked,
-      or information about their friends, Facebook has said”  
-        
-        
-        
-      WSJ, March 20, 2018
+      <blockquote>“About 270,000 people downloaded the app, giving Mr. Kogan
+      access to information such as the cities they lived in, the content they
+      had liked, or information about their friends, Facebook has
+      said”<br><br><br><br>WSJ, March 20, 2018</blockquote>
     _key: card-6-6605f4aa-709d-49b3-8965-b1a0afd63399
   - order: 6
     useCheckmark: false
     body: >-
-      The Firm  
-
-      Cambridge Analytica
-
-
-      * Major Investor: Robert Mercer, wealthy Republican.
-
-      * NYT describes it as a “shell company”, funneling work to a British
-      company.
-
-      * Helped Donald Trump campaign & other Republicans like Ted Cruz with
-      social media strategy & voter/ad targeting.
-
-      * Tuesday: CEO suspended
+      <div><p>The Firm<br>Cambridge Analytica</p><ul><li>Major Investor: Robert
+      Mercer, wealthy Republican.</li><li>NYT describes it as a “shell company”,
+      funneling work to a British company.</li><li>Helped Donald Trump campaign
+      &amp; other Republicans like Ted Cruz with social media strategy &amp;
+      voter/ad targeting.</li><li>Tuesday: CEO suspended</li></ul></div>
     _key: card-7-bb8c15c3-d126-4849-994b-3d6d55c63213
   - order: 7
     useCheckmark: false
     body: >-
-      ## What’s The Big Deal?
-
-
-      * Cambridge Analytica reportedly gave**U.S. political strategy work** to a
-      British partner firm, owned by a Brit & run by Europeans.**It’s illegal
-      for foreigners to interfere in U.S. elections.**
-
-      * Some FB users willingly gave data to the professor app that then gave to
-      Cambridge Analytica; others did not. Debatable about what’s illegal versus
-      unethical.
+      <div><h2>What’s The Big Deal?</h2><ul><li>Cambridge Analytica reportedly
+      gave <strong>U.S. political strategy work</strong> to a British partner
+      firm, owned by a Brit &amp; run by Europeans. <strong>It’s illegal for
+      foreigners to interfere in U.S. elections.</strong></li><li>Some FB users
+      willingly gave data to the professor app that then gave to Cambridge
+      Analytica; others did not. Debatable about what’s illegal versus
+      unethical.</li></ul></div>
     _key: card-8-27946bcd-234f-411b-ab5c-f5c5857d9824
   - order: 8
     useCheckmark: false
     body: >-
-      Facebook Says:  
-
-      Not A Data Breach
-
-
-      > “No systems were infiltrated, and no passwords or sensitive pieces of
-      information were stolen or hacked. It’s a serious abuse of our rules.”  
-        
-        
-        
-      Paul Grewal, VP & Facebook deputy general counsel, NYT, March 17, 2018
+      <div><p>Facebook Says:<br>Not A Data Breach</p><blockquote>“No systems
+      were infiltrated, and no passwords or sensitive pieces of information were
+      stolen or hacked. It’s a serious abuse of our rules.”<br><br><br><br>Paul
+      Grewal, VP &amp; Facebook deputy general counsel, NYT, March 17,
+      2018</blockquote></div>
     _key: card-9-3676944a-ff5c-48c9-8df2-47497cb8fa8a
   - order: 9
     useCheckmark: true
-    body: |-
-      Mark Zuckerberg has sold nearly $1B worth of FB shares this year. Why?
-
-      [view sources](https://smarthernews.com/18-03-21-fb-scandal/)
+    body: >-
+      <div><p>Mark Zuckerberg has sold nearly $1B worth of FB shares this year.
+      Why?</p><p><a href="https://smarthernews.com/18-03-21-fb-scandal/">view
+      sources</a></p></div>
     _key: card-10-573b85b1-06c8-413d-a19b-91978bce1b18
 
 ---

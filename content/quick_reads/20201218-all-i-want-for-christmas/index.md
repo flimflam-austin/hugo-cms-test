@@ -21,19 +21,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“I have such an emotional connection to Christmas. And it wasn’t about
-      the gifts. It was just about the hopefulness of the holiday season…”_
+      <div><blockquote><em>“I have such an emotional connection to Christmas.
+      And it wasn’t about the gifts. It was just about the hopefulness of the
+      holiday season…”</em></blockquote><p></p></div>
     citation: MARIAH CAREY
     _key: 75b2491d5b4c
   - order: 1
     useCheckmark: true
     body: >-
-      Carey's "All I Want For Christmas Is You" is back at #1 on Billboard's Hot
-      100 more than 25 years since its release. Carey now has more time at #1
-      than any other artist, including The Beatles. She's also the only artist
-      with a Hot 100 #1 in 4 different decades. BTW... She didn't even *want* to
-      do a Christmas album in 1994 when she ended up writing her now-famous
-      anthem.
+      <div><p>Carey's "All I Want For Christmas Is You" is back at #1 on
+      Billboard's Hot 100 more than 25 years since its release. Carey now has
+      more time at #1 than any other artist, including The Beatles. She's also
+      the only artist with a Hot 100 #1 in 4 different decades. BTW... She
+      didn't even *want* to do a Christmas album in 1994 when she ended up
+      writing her now-famous anthem.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 5d55b4a169aa
 

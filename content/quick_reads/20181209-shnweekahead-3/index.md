@@ -21,23 +21,15 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      SmartHER News  
-      Week Ahead
-
-
-
-      December 9 - 15
+    body: <div><p>SmartHER News<br>Week Ahead</p><p></p><p>December 9 - 15</p></div>
     _key: card-1-8eb3c498-0e27-4781-a223-dbca91a0ad59
   - order: 1
     useCheckmark: true
     body: >-
-      SHNWeekAhead Click "view sources" for the notable news events to kick off
-      your week feeling #SmartHer. Watch our social media feeds or
-      SmartHerNews.com for updates on these stories all week long.
-
-
-      [view sources](https://smarthernews.com/shnweekahead-3/)
+      <div><p>SHNWeekAhead Click "view sources" for the notable news events to
+      kick off your week feeling #SmartHer. Watch our social media feeds or
+      SmartHerNews.com for updates on these stories all week long.</p><p><a
+      href="https://smarthernews.com/shnweekahead-3/">view sources</a></p></div>
     _key: card-10-fc217c63-bea5-413d-b496-6b8cf0ef5cc2
 
 ---

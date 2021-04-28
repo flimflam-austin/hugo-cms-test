@@ -22,24 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Memorial Day Reflection
-
-
-      > “This is why I am passionate about being a journalist; this is why I
-      startedA SmartHER News. This is why I write. This is my sliver of service.
-      We must protect our stories. We must tell them, accurately and compelling,
-      so we don’t forget.A “  
-        
-        
-        
-      Jenna Lee Babin, Founder, SmartHER News in a personal Memorial Day essay
+      <div><h2>Memorial Day Reflection</h2><blockquote>“This is why I am
+      passionate about being a journalist; this is why I startedA SmartHER News.
+      This is why I write. This is my sliver of service. We must protect our
+      stories. We must tell them, accurately and compelling, so we don’t
+      forget.A “<br><br><br><br>Jenna Lee Babin, Founder, SmartHER News in a
+      personal Memorial Day essay</blockquote></div>
     _key: card-1-5eedf3c3-1fb6-47b1-93b0-93e332a22a59
   - order: 1
     useCheckmark: true
-    body: |-
-      Read the essay
-
-      [view sources](https://smarthernews.com/18-05-26-excerpt-memorial-day/)
+    body: >-
+      <div><p>Read the essay</p><p><a
+      href="https://smarthernews.com/18-05-26-excerpt-memorial-day/">view
+      sources</a></p></div>
     _key: card-10-0ba30bde-cf25-4cc3-b5fa-b48a434a5143
 
 ---

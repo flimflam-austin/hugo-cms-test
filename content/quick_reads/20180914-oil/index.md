@@ -22,66 +22,45 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # PETROL PRIDE
-
-
-      Move over Russia & Saudi Arabia,A the**U.S. is now the largest global oil
-      producer.**
-
-
-      And we have Texas to thank.
-
-
-      "Texas Tea" Party.
+      <div><h1>PETROL PRIDE</h1><p>Move over Russia &amp; Saudi Arabia,A the
+      <strong>U.S. is now the largest global oil producer.</strong></p><p>And we
+      have Texas to thank.</p><p>"Texas Tea" Party.</p></div>
     _key: card-1-6e0b94db-0384-487c-a5e1-2018f2670cd7
   - order: 1
     useCheckmark: false
     body: >-
-      # Don’t Mess with Texas
-
-
-      * U.S. produces 11M barrels oil per day – more than any country in the
-      world for**1stA time since 1973**.
-
-      * Texas is responsible for**one-fifth of U.S. production**A due to shale
-      drilling boom.
-
-      * **Texas is now on track to produce more oil than Iraq & Iran;**A Mideast
-      instability has impacted that region’s oil markets.
+      <div><h1>Don’t Mess with Texas</h1><ul><li>U.S. produces 11M barrels oil
+      per day – more than any country in the world for <strong>1stA time since
+      1973</strong>.</li><li>Texas is responsible for <strong>one-fifth of U.S.
+      production</strong>A due to shale drilling boom.</li><li><strong>Texas is
+      now on track to produce more oil than Iraq &amp; Iran;</strong>A Mideast
+      instability has impacted that region’s oil markets.</li></ul></div>
     _key: card-2-4feed401-461a-41a0-8a36-6ab6cdd74e82
   - order: 2
     useCheckmark: false
     body: >-
-      > “It’s a historic milestone and a reminder: Never bet against the US oil
-      industry.”  
-        
-        
-        
-      Bob McNally, president of Radian Energy Group, a consulting firm.
+      <blockquote>“It’s a historic milestone and a reminder: Never bet against
+      the US oil industry.”<br><br><br><br>Bob McNally, president of Radian
+      Energy Group, a consulting firm.</blockquote>
     _key: card-3-8a96a009-9893-4afb-ba45-fdf88537e0b8
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      * More production at home makes the U.S. less reliant on volatile Middle
-      East, creating more jobs for production & distribution.
-
-      * Also important to remember:**Oil is a global market.** If Saudi Arabia
-      or Russia ramped up production dramatically, it could drive prices lower –
-      potentially to a point that would make extracting oil from shale not worth
-      it financially.
+      <div><h2>Why It Matters</h2><ul><li>More production at home makes the U.S.
+      less reliant on volatile Middle East, creating more jobs for production
+      &amp; distribution.</li><li>Also important to remember: <strong>Oil is a
+      global market.</strong> If Saudi Arabia or Russia ramped up production
+      dramatically, it could drive prices lower – potentially to a point that
+      would make extracting oil from shale not worth it
+      financially.</li></ul></div>
     _key: card-4-e8771824-eaf7-4621-af82-77f518739710
   - order: 4
     useCheckmark: true
     body: >-
-      The Department of Energy expects US oil production next year to continue
-      at this pace or slightly higher, allowing it to remain the world's #1 oil
-      producer through 2019.
-
-
-      [view sources](https://smarthernews.com/oil/)
+      <div><p>The Department of Energy expects US oil production next year to
+      continue at this pace or slightly higher, allowing it to remain the
+      world's #1 oil producer through 2019.</p><p><a
+      href="https://smarthernews.com/oil/">view sources</a></p></div>
     _key: card-10-14453fdb-d9b3-4922-8dc7-f1fdcc1649cb
 
 ---

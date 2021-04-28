@@ -22,71 +22,66 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      “We cannot take the risk when we know the threat.”  
-        
-      France's Culture Minister Franck Riester on plans to close the Eiffel
-      Tower and Louvre Museum Saturday due to planned protests. The riots, now
-      entering their 4th week, have grown increasingly violent. Protestors have
-      also sprayed graffiti on famous French landmarks. The French gov't has
+      <p>“We cannot take the risk when we know the threat.”<br><br>France's
+      Culture Minister Franck Riester on plans to close the Eiffel Tower and
+      Louvre Museum Saturday due to planned protests. The riots, now entering
+      their 4th week, have grown increasingly violent. Protestors have also
+      sprayed graffiti on famous French landmarks. The French gov't has
       cancelled plans for a fuel tax increase, but protestors vow to continue,
-      fighting what they say is a high cost of living in France & a gov't that
-      favors the rich.
+      fighting what they say is a high cost of living in France &amp; a gov't
+      that favors the rich.</p>
     _key: card-1-30f76d99-37f8-41eb-86ee-4064f626a3d7
   - order: 1
     useCheckmark: false
     body: >-
-      > “What this week and a half shows is an extraordinary sensitivity to
-      headlines, more so than usual.”  
-        
-      Delores Rubin, Deutsche Bank Wealth Management senior equities trader, as
-      stocks fell nearly 800 points before bouncing back Thursday. Concerns of a
-      US-China trade stalemate weighed on investors, but stocks rebounded on
-      news the Federal Reserve may not raise interest rates as quickly as
-      planned. The Nov. Jobs report will be key Friday.
+      <blockquote>“What this week and a half shows is an extraordinary
+      sensitivity to headlines, more so than usual.”<br><br>Delores Rubin,
+      Deutsche Bank Wealth Management senior equities trader, as stocks fell
+      nearly 800 points before bouncing back Thursday. Concerns of a US-China
+      trade stalemate weighed on investors, but stocks rebounded on news the
+      Federal Reserve may not raise interest rates as quickly as planned. The
+      Nov. Jobs report will be key Friday.</blockquote>
     _key: card-2-798a91ac-426a-457b-bcba-642cfe8f106b
   - order: 2
     useCheckmark: false
     body: >-
-      > "We still want Russia to cut as much as possible…A I’m not confident,
-      but I hope to reach a deal.”  
-        
-      Saudi Arabian Oil Minister Khalid Al-Falih as OPEC fails to reach a
-      consensus on how much oil the 15-nation group will produce for the next 6
-      months. Saudi Arabia wants to cut production by 1M barrels per day to stop
-      oil's price slide but the group is waiting for Russia, a non-OPEC member,
-      to commit. Oil prices dropped by the most in 2 weeks on the news. OPEC
-      will meet again Friday.
+      <blockquote>"We still want Russia to cut as much as possible…A I’m not
+      confident, but I hope to reach a deal.”<br><br>Saudi Arabian Oil Minister
+      Khalid Al-Falih as OPEC fails to reach a consensus on how much oil the
+      15-nation group will produce for the next 6 months. Saudi Arabia wants to
+      cut production by 1M barrels per day to stop oil's price slide but the
+      group is waiting for Russia, a non-OPEC member, to commit. Oil prices
+      dropped by the most in 2 weeks on the news. OPEC will meet again
+      Friday.</blockquote>
     _key: card-3-5d46167b-0ac3-423e-b205-49e1ca22d0d3
   - order: 3
     useCheckmark: false
     body: >-
-      > “All of a sudden we started skidding, and then he started braking even
-      more aggressively and then he was like, ‘brake!'”  
-        
-      Yvonne Dorr, Southwest Airlines passenger on a flight from Oakland to
-      Burbank, after the 737 skidded off the runway to a sharp stop, just short
-      of a CA freeway during a rainstorm. Cement blocks & sand-like ground
-      material prevented the plane from overshooting even further. No one was
-      injured.
+      <blockquote>“All of a sudden we started skidding, and then he started
+      braking even more aggressively and then he was like,
+      ‘brake!'”<br><br>Yvonne Dorr, Southwest Airlines passenger on a flight
+      from Oakland to Burbank, after the 737 skidded off the runway to a sharp
+      stop, just short of a CA freeway during a rainstorm. Cement blocks &amp;
+      sand-like ground material prevented the plane from overshooting even
+      further. No one was injured.</blockquote>
     _key: card-4-8be19d25-a34e-4b65-aef9-d89b9215a059
   - order: 4
     useCheckmark: false
     body: >-
-      > “I just about fainted. I’ve never touched that much money and I don’t
-      think I ever will again.”  
-        
-      Kevin Booth (32), a homeless man in Seattle, who found $17,000 in a bag
-      outside of a food bank and turned it in. The food bank turned the money
-      over to police who held it for the required 90 days, but no one claimed it
-      so they returned it to the food bank, which gave a portion of it back to
-      Booth to thank him for his honesty.
+      <blockquote>“I just about fainted. I’ve never touched that much money and
+      I don’t think I ever will again.”<br><br>Kevin Booth (32), a homeless man
+      in Seattle, who found $17,000 in a bag outside of a food bank and turned
+      it in. The food bank turned the money over to police who held it for the
+      required 90 days, but no one claimed it so they returned it to the food
+      bank, which gave a portion of it back to Booth to thank him for his
+      honesty.</blockquote>
     _key: card-5-65439b1d-2cb9-4344-aa7c-7e48c59976d7
   - order: 5
     useCheckmark: true
-    body: |-
-      Have a great weekend!
-
-      [view sources](https://smarthernews.com/quick-quotes-22/)
+    body: >-
+      <div><p>Have a great weekend!</p><p><a
+      href="https://smarthernews.com/quick-quotes-22/">view
+      sources</a></p></div>
     _key: card-10-aa22ff23-4f8f-4640-81dc-7cdfc9c96d1c
 
 ---

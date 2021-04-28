@@ -22,20 +22,18 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Our top 3 stories of the week…and an American adventurer who just set a
-      world record tells us his inspiring story.
-
-
-      [CLICK:
-      LISTEN](http://smarthernews.libsyn.com/smarther-news-ep10-adventurer-bryce-carlson)
+      <div><h2>Our top 3 stories of the week…and an American adventurer who just
+      set a world record tells us his inspiring story.</h2><p><a
+      href="http://smarthernews.libsyn.com/smarther-news-ep10-adventurer-bryce-carlson">CLICK:
+      LISTEN</a></p></div>
     citation: 'CLICK: LISTEN'
     _key: card-1-65cda704-384e-43b6-b11b-66e0299acaeb
   - order: 1
     useCheckmark: true
-    body: |-
-      Watch & listen to our podcast on the source page!
-
-      [view sources](https://smarthernews.com/18-08-17-podcast/)
+    body: >-
+      <div><p>Watch &amp; listen to our podcast on the source page!</p><p><a
+      href="https://smarthernews.com/18-08-17-podcast/">view
+      sources</a></p></div>
     _key: card-10-52451813-e34f-4f5f-b0f3-4a6e7d3df935
 
 ---

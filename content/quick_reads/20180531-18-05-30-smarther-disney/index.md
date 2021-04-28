@@ -22,95 +22,69 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      SmartHER Adventure:  
-
-      DISNEY WORLD
-
-
-      Dr. Darria Long Gillespie gives us her take on how to “survive” the
-      happiest place on the planet.
-
-
-      Flip For Tips
+      <div><p>SmartHER Adventure:<br>DISNEY WORLD</p><p>Dr. Darria Long
+      Gillespie gives us her take on how to “survive” the happiest place on the
+      planet.</p><p>Flip For Tips</p></div>
     citation: Flip For Tips
     _key: card-1-288eae0c-ac28-403f-b0d0-a10cbf42e443
   - order: 1
     useCheckmark: false
     body: >-
-      > “I am firmly convinced that Disney World pumps Oxytocin into the air.
-      While you’re there, there are moments you swear ‘We ARE NEVER DOING THIS
-      AGAIN!’ And then on your way home, you say ‘We should probably start
-      planning our next trip…’’  
-        
-      Dr. Darria on taking her 4 & 1-year-old to Disney World. (P.S. oxytocin is
-      a natural hormone that causes you to forget the pain of childbirth.)
+      <blockquote>“I am firmly convinced that Disney World pumps Oxytocin into
+      the air. While you’re there, there are moments you swear ‘We ARE NEVER
+      DOING THIS AGAIN!’ And then on your way home, you say ‘We should probably
+      start planning our next trip…’’<br><br>Dr. Darria on taking her 4 &amp;
+      1-year-old to Disney World. (P.S. oxytocin is a natural hormone that
+      causes you to forget the pain of childbirth.)</blockquote>
     _key: card-2-618155db-529a-4460-91f7-ca952af6cec9
   - order: 2
     useCheckmark: false
     body: >-
-      ## The Key To Happiness
-
-
-      > “…**we confuse thirst with hunger**, which leads everyone to overeat
-      (and what’s always in reach at Disney? CANDY and sugary drinks = meltdowns
-      later).”  
-        
-      Dr. Darria suggests stroller hooks for water bottles and water breaks
-      every 20-30 mins for kiddos & parents.
+      <div><h2>The Key To Happiness</h2><blockquote>“…<strong>we confuse thirst
+      with hunger</strong>, which leads everyone to overeat (and what’s always
+      in reach at Disney? CANDY and sugary drinks = meltdowns
+      later).”<br><br>Dr. Darria suggests stroller hooks for water bottles and
+      water breaks every 20-30 mins for kiddos &amp; parents.</blockquote></div>
     _key: card-3-32891481-8601-4d2a-8857-1539d45e1e5b
   - order: 3
     useCheckmark: false
     body: >-
-      > “…sometimes getting in lines for a Disney ride will feel only marginally
-      less pleasant than standing in line for TSA and probably closer to the
-      DMV…That said, hearing your child squeal with laughter…makes it all
-      worthwhile.”  
-        
-        
-      Dr. Darria opted for a FastPass, but says avoid over-scheduling.
-
-
-      [Click: FastPass
-      Info](https://disneyworld.disney.go.com/faq/fast-pass-plus/product-description/)
+      <div><blockquote>“…sometimes getting in lines for a Disney ride will feel
+      only marginally less pleasant than standing in line for TSA and probably
+      closer to the DMV…That said, hearing your child squeal with laughter…makes
+      it all worthwhile.”<br><br><br>Dr. Darria opted for a FastPass, but says
+      avoid over-scheduling.</blockquote><p><a
+      href="https://disneyworld.disney.go.com/faq/fast-pass-plus/product-description/">Click:
+      FastPass Info</a></p></div>
     _key: card-4-3d26a06c-4400-4c91-9088-140aec23abfc
   - order: 4
     useCheckmark: false
     body: >-
-      > “…the only people who say ‘My family is going to eat healthy at Disney’
-      have clearly never been to Disney.”  
-        
-        
-        
-      Dr. Darria suggests making one meal an "anchor meal" where your child gets
-      a lean protein and fiber (fruit, vegetable, and whole grains) and then
-      have fun in the park!
-
-
-      Flip For A Tasty Tip
+      <div><blockquote>“…the only people who say ‘My family is going to eat
+      healthy at Disney’ have clearly never been to Disney.”<br><br><br><br>Dr.
+      Darria suggests making one meal an "anchor meal" where your child gets a
+      lean protein and fiber (fruit, vegetable, and whole grains) and then have
+      fun in the park!</blockquote><p>Flip For A Tasty Tip</p></div>
     _key: card-5-04f46b40-97ff-460e-9f36-c3e4ce67da7b
   - order: 5
     useCheckmark: false
     body: >-
-      ## “Donuts are absolutely required. Doctor’s orders.”
-
-
-      > “Stop by Joffrey’s for donuts some mornings. Just do it. You have to ask
-      where the stand is in each different park, but after you’re handed a warm
-      donut the size of your head, you will thank me.”  
-        
-        
-      Dr. Darria shares more of her tips on our source page. It's a must-read!
+      <div><h2>“Donuts are absolutely required. Doctor’s
+      orders.”</h2><blockquote>“Stop by Joffrey’s for donuts some mornings. Just
+      do it. You have to ask where the stand is in each different park, but
+      after you’re handed a warm donut the size of your head, you will thank
+      me.”<br><br><br>Dr. Darria shares more of her tips on our source page.
+      It's a must-read!</blockquote></div>
     _key: card-6-f1bf9544-4e57-497d-9a63-44f91efe1167
   - order: 6
     useCheckmark: true
     body: >-
-      Take a trip recently? Have tips to share? We'd love to hear them and
-      feature you on SmartHERNews.com & across our social media platforms. Email
-      us info@smartHERnews.com - with subject line: Travel Tips! We can't wait
-      to hear them!
-
-
-      [view sources](https://smarthernews.com/18-05-30-smarther-disney/)
+      <div><p>Take a trip recently? Have tips to share? We'd love to hear them
+      and feature you on SmartHERNews.com &amp; across our social media
+      platforms. Email us info@smartHERnews.com - with subject line: Travel
+      Tips! We can't wait to hear them!</p><p><a
+      href="https://smarthernews.com/18-05-30-smarther-disney/">view
+      sources</a></p></div>
     _key: card-10-d45a1244-b542-497d-9fad-16ed9490a6b1
 
 ---

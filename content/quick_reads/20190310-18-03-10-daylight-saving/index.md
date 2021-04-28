@@ -21,81 +21,60 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # Spring Forward!
-
-      > Daylight Savings Time.  
-        
-      We lose an hour of sleep…  
-        
-      But we gain an hour of sunshine.
-
-      WHY DO WE DO THIS?
+    body: >-
+      <div><h1>Spring Forward!</h1><blockquote>Daylight Savings Time.<br><br>We
+      lose an hour of sleep…<br><br>But we gain an hour of
+      sunshine.</blockquote><p>WHY DO WE DO THIS?</p></div>
     _key: card-1-de97249b-afa4-4184-96c2-d7af35a45d3d
   - order: 1
     useCheckmark: false
-    body: |-
-      # The Backstory
-
-      **More daylight hours used as a way to save energy.**
-
-      * Federal gov’t enacted to save coal in Spring of 1918 during WWI.
-      * Re-established during WWII.
-      * 1966: national law under Uniform Time Act (states can opt out).
-      * 2007: expanded to encompass 65% of the year (about 8 months).
+    body: >-
+      <div><h1>The Backstory</h1><p><strong>More daylight hours used as a way to
+      save energy.</strong></p><ul><li>Federal gov’t enacted to save coal in
+      Spring of 1918 during WWI.</li><li>Re-established during
+      WWII.</li><li>1966: national law under Uniform Time Act (states can opt
+      out).</li><li>2007: expanded to encompass 65% of the year (about 8
+      months).</li></ul></div>
     _key: card-2-450a0809-20b2-4fad-866c-afdd992085d0
   - order: 2
     useCheckmark: false
     body: >-
-      ## More Sunshine All Year?
-
-
-      * 3 Florida lawmaker (Senators Marco Rubio, Rick Scott & Rep. Vern
-      Buchanan) introduced the “**Sunshine Protection Act**” this past week in
-      Congress to make Daylight Savings year round.
-
-      * FL state lawmakers passed a bill last year for year-round Daylight
-      Savings Time in their state However, it**will take an act of Congress** to
-      make the change.
+      <div><h2>More Sunshine All Year?</h2><ul><li>3 Florida lawmaker (Senators
+      Marco Rubio, Rick Scott &amp; Rep. Vern Buchanan) introduced the
+      “<strong>Sunshine Protection Act</strong>” this past week in Congress to
+      make Daylight Savings year round.</li><li>FL state lawmakers passed a bill
+      last year for year-round Daylight Savings Time in their state However, it
+      <strong>will take an act of Congress</strong> to make the
+      change.</li></ul></div>
     _key: card-3-95c9c986-08ac-4ed4-9a48-507c55d6df9d
   - order: 3
     useCheckmark: false
     body: >-
-      > ‘Studies have shown many benefits of a year-round Daylight Saving Time,
-      which is why Florida’s legislature overwhelmingly voted to make it
-      permanent last year.’  
-        
-      Sen. Marco Rubio on the Sunshine Protection Act that would apply to ALL
-      states that like Florida follow Daylight Savings Time, citing decreased
-      car accidents & decreased robberies both reasons behind the fight for more
-      light.
+      <blockquote>‘Studies have shown many benefits of a year-round Daylight
+      Saving Time, which is why Florida’s legislature overwhelmingly voted to
+      make it permanent last year.’<br><br>Sen. Marco Rubio on the Sunshine
+      Protection Act that would apply to ALL states that like Florida follow
+      Daylight Savings Time, citing decreased car accidents &amp; decreased
+      robberies both reasons behind the fight for more light.</blockquote>
     _key: card-4-9799fe9c-76d8-446b-861b-0ba22698de97
   - order: 4
     useCheckmark: false
-    body: |-
-      ## Could The Clock Change Be Bad for Your Health?
-
-      * IVF success rates drop in March
-      * Heart attacks spike
-      * Stroke rates rise
-      * Fatigue & decreased productivity
-
-
-
-      HEALTH Magazine
-
-      Details: Source Page
+    body: >-
+      <div><h2>Could The Clock Change Be Bad for Your Health?</h2><ul><li>IVF
+      success rates drop in March</li><li>Heart attacks spike</li><li>Stroke
+      rates rise</li><li>Fatigue &amp; decreased
+      productivity</li></ul><p></p><p>HEALTH Magazine</p><p>Details: Source
+      Page</p></div>
     _key: card-5-fe89aa90-28c5-41bc-84e5-7ccb3bf4de7a
   - order: 5
     useCheckmark: true
     body: >-
-      Arizona, Hawaii & US Territories like Puerto Rico:A don't follow DST. By
-      the way, there's a lot of confusion between "Daylight Savings Time" &
-      "Daylight Saving" Time. ...We went with the law: Daylight Savings Time but
-      its written differently everywhere!
-
-
-      [view sources](https://smarthernews.com/18-03-10-daylight-saving/)
+      <div><p>Arizona, Hawaii &amp; US Territories like Puerto Rico:A don't
+      follow DST. By the way, there's a lot of confusion between "Daylight
+      Savings Time" &amp; "Daylight Saving" Time. ...We went with the law:
+      Daylight Savings Time but its written differently everywhere!</p><p><a
+      href="https://smarthernews.com/18-03-10-daylight-saving/">view
+      sources</a></p></div>
     _key: card-10-2e64d18c-bb5a-4638-a97f-0a82bdf44d94
 
 ---

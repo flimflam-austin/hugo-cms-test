@@ -22,87 +22,60 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # DON’T EAT THAT
-
-
-      From salads to cereal to crackers…**foodA recalls****have increased over
-      the last decade**. And theA gov’t warns of more to come.
-
-
-      Reason to worry?
-
-
-      Not necessarily.
+      <div><h1>DON’T EAT THAT</h1><p>From salads to cereal to
+      crackers…<strong>foodA recalls</strong> <strong>have increased over the
+      last decade</strong>. And theA gov’t warns of more to come.</p><p>Reason
+      to worry?</p><p>Not necessarily.</p></div>
     _key: card-1-2e4e1ddd-c6d1-4450-b2b3-ce34e36ffe5f
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      _"These are the kinds of statistics you should expect in Bangladesh, not
-      here.”_  
-        
-      Jayden Hanson, Center for Food Safety
-
-
-      * Foodborne illnesses have**tripled from a decade ago** (CDC)**.**
-
-      * **1 in 6** develop a foodborne illness (i.e. E.Coli, salmonella,
-      listeria) each year, killing 3K (CDC).
+      <div><h2>Why It Matters</h2><p><em>"These are the kinds of statistics you
+      should expect in Bangladesh, not here.”</em><br><br>Jayden Hanson, Center
+      for Food Safety</p><ul><li>Foodborne illnesses have <strong>tripled from a
+      decade ago</strong> (CDC)<strong>.</strong></li><li><strong>1 in
+      6</strong> develop a foodborne illness (i.e. E.Coli, salmonella, listeria)
+      each year, killing 3K (CDC).</li></ul></div>
     _key: card-2-b58aae33-f208-4960-9b8e-6a4cd1044fed
   - order: 2
     useCheckmark: false
     body: >-
-      ## Things to Know:
-
-
-      * USDA regulates meat, poultry & eggs; FDA all other foods.
-
-      * Recalls are mostly recommended by gov’t & “voluntary” done by a company
-      OR (very seldom) required.
-
-      * **Annual USDA recalls rose 83% from 2012-2017**,A**FDA recalls are up
-      93%A** in same period, according to industry consultant, Stericycle. FDA
-      disputes this data.
+      <div><h2>Things to Know:</h2><ul><li>USDA regulates meat, poultry &amp;
+      eggs; FDA all other foods.</li><li>Recalls are mostly recommended by gov’t
+      &amp; “voluntary” done by a company OR (very seldom)
+      required.</li><li><strong>Annual USDA recalls rose 83% from
+      2012-2017</strong>,A <strong>FDA recalls are up 93%A</strong> in same
+      period, according to industry consultant, Stericycle. FDA disputes this
+      data.</li></ul></div>
     _key: card-3-7573c8d7-2364-41d5-a164-978521c1c066
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why All the Recalls?
-
-
-      **New technology** has regulators & companies able to track down
-      contaminants more quickly.
-
-
-      **Industry consolidation** has different products using the same supply
-      chain, so an issue with one supplier can affect multiple products.
+      <div><h2>Why All the Recalls?</h2><p><strong>New technology</strong> has
+      regulators &amp; companies able to track down contaminants more
+      quickly.</p><p><strong>Industry consolidation</strong> has different
+      products using the same supply chain, so an issue with one supplier can
+      affect multiple products.</p></div>
     _key: card-4-248f397a-f729-4453-996f-f2bfc8fdd099
   - order: 4
     useCheckmark: false
     body: >-
-      # Important to Note
-
-
-      It’s not just toxic bacteria that lead to recalls.**Food allergens** made
-      up nearly**half (47%) of FDA food recalls & 29% of USDA recalls** in the
-      first quarter of this year.
-
-
-      Congress required food labels to include allergens in 2006, so if an item
-      comes in contact with something not listed on packaging, it is recalled.
+      <div><h1>Important to Note</h1><p>It’s not just toxic bacteria that lead
+      to recalls. <strong>Food allergens</strong> made up nearly <strong>half
+      (47%) of FDA food recalls &amp; 29% of USDA recalls</strong> in the first
+      quarter of this year.</p><p>Congress required food labels to include
+      allergens in 2006, so if an item comes in contact with something not
+      listed on packaging, it is recalled.</p></div>
     _key: card-5-47575651-4afa-4116-9fe5-b5daed3d511f
   - order: 5
     useCheckmark: true
     body: >-
-      You might be surprised to learn how long it takes from the time of
+      <div><p>You might be surprised to learn how long it takes from the time of
       discovery of a problem to pulling an item off store shelves. An Inspector
       General investigation found it took an average 57 days. A poignant
-      investigation takes a closer look - Visit SmartHerNews.com.
-
-
-      [view sources](https://smarthernews.com/18-08-01-food-recalls/)
+      investigation takes a closer look - Visit SmartHerNews.com.</p><p><a
+      href="https://smarthernews.com/18-08-01-food-recalls/">view
+      sources</a></p></div>
     _key: card-10-7d244709-c529-4e39-8784-38e4fcea420a
 
 ---

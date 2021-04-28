@@ -22,68 +22,61 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "Together their voices will ring out into perpetuity…”  
-        
-      Stephen Clark, Somerset County, PA parks superintendent, on the Tower of
-      Voices memorial dedicated to 9/11 victims nearly 17 years after the
-      attacks. The 93-foot-tall structure has a wind chime for each of the 40
-      passengers & crew members that died on Flight 93 which crashed near
-      Shanksville, PA. The President & First Lady are expected to visit Tuesday
-      to honor victims.
+      <blockquote>"Together their voices will ring out into
+      perpetuity…”<br><br>Stephen Clark, Somerset County, PA parks
+      superintendent, on the Tower of Voices memorial dedicated to 9/11 victims
+      nearly 17 years after the attacks. The 93-foot-tall structure has a wind
+      chime for each of the 40 passengers &amp; crew members that died on Flight
+      93 which crashed near Shanksville, PA. The President &amp; First Lady are
+      expected to visit Tuesday to honor victims.</blockquote>
     _key: card-1-c501e479-fb99-46b4-a6b9-dbc2b66ae128
   - order: 1
     useCheckmark: false
     body: >-
-      "When a woman is emotional, she’s ‘hysterical’ and she’s penalized for it.
-      When a man does the same, he’s ‘outspoken’ & and there are no
-      repercussions.”  
-        
-      Tennis legend Billie Jean King in a tweet thanking Serena Williams for
-      calling out a double standard after a US Open outburst. Williams, vying
-      for her 24th Grand Slam title, was defeated by Japan's Naomi Osaka after
-      Williams was cited for rule violations & docked a game for what umpire
-      Carlos Ramos deemed as verbal abuse.
+      <p>"When a woman is emotional, she’s ‘hysterical’ and she’s penalized for
+      it. When a man does the same, he’s ‘outspoken’ &amp; and there are no
+      repercussions.”<br><br>Tennis legend Billie Jean King in a tweet thanking
+      Serena Williams for calling out a double standard after a US Open
+      outburst. Williams, vying for her 24th Grand Slam title, was defeated by
+      Japan's Naomi Osaka after Williams was cited for rule violations &amp;
+      docked a game for what umpire Carlos Ramos deemed as verbal abuse.</p>
     _key: card-2-90d25cd6-96bb-41d6-b6fa-1f6ae6a38db5
   - order: 2
     useCheckmark: false
     body: >-
-      > “…we concluded that the author’s principal motivation was to describe,
-      as faithfully as possible, the internal workings of a chaotic and divided
-      administration and to defend the choice to nevertheless work within it.”  
-        
-      James Dao, The New York Times Op-Ed Editor, on the possible motives of the
-      anonymous Op-Ed from what it calls a Senior Administration Official. The
-      article has been viewed 10M+ times since its publication Wednesday.
+      <blockquote>“…we concluded that the author’s principal motivation was to
+      describe, as faithfully as possible, the internal workings of a chaotic
+      and divided administration and to defend the choice to nevertheless work
+      within it.”<br><br>James Dao, The New York Times Op-Ed Editor, on the
+      possible motives of the anonymous Op-Ed from what it calls a Senior
+      Administration Official. The article has been viewed 10M+ times since its
+      publication Wednesday.</blockquote>
     _key: card-3-c9984117-7532-407a-bb91-a92ad3960b42
   - order: 3
     useCheckmark: false
     body: >-
-      > "What do we say to the U.S.? That if they want to help the people of
-      Nicaragua, if they want to contribute to peace, the best thing they can
-      do, and should do, is not interfere in Nicaragua, and respect
-      Nicaragua.”  
-        
-      Nicaraguan President Daniel Ortega's response to UN Ambassador Nikki
-      Haley's likening of the country to Syria or Venezuela. An est. 300+ people
-      have died & 2K injured in crackdowns by Nicaraguan police since April.
+      <blockquote>"What do we say to the U.S.? That if they want to help the
+      people of Nicaragua, if they want to contribute to peace, the best thing
+      they can do, and should do, is not interfere in Nicaragua, and respect
+      Nicaragua.”<br><br>Nicaraguan President Daniel Ortega's response to UN
+      Ambassador Nikki Haley's likening of the country to Syria or Venezuela. An
+      est. 300+ people have died &amp; 2K injured in crackdowns by Nicaraguan
+      police since April.</blockquote>
     _key: card-4-97378b80-7c95-4195-9249-b4b22041bbe1
   - order: 4
     useCheckmark: false
     body: >-
-      > “I was pretty sure I wasn’t going to be homecoming queen, but I was
-      pretty sure I was going to make that kick.”  
-        
-        
-      Kaylee Foster, Ocean Springs, MS high school senior, on how she felt being
+      <blockquote>“I was pretty sure I wasn’t going to be homecoming queen, but
+      I was pretty sure I was going to make that kick.”<br><br><br>Kaylee
+      Foster, Ocean Springs, MS high school senior, on how she felt being
       crowned homecoming queen and then just hours later kicking the winning
-      field goal for the football team's overtime win.
+      field goal for the football team's overtime win.</blockquote>
     _key: card-5-1cd97cc7-8345-457d-8253-22ed802eb95c
   - order: 5
     useCheckmark: true
-    body: |-
-      Have a good week!
-
-      [view sources](https://smarthernews.com/quick-quotes-3/)
+    body: >-
+      <div><p>Have a good week!</p><p><a
+      href="https://smarthernews.com/quick-quotes-3/">view sources</a></p></div>
     _key: card-10-184bbf61-54aa-4bbe-92bb-843829c68fe0
 
 ---

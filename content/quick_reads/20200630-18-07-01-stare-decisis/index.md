@@ -22,68 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # “To Stand By Things Decided”
-
-
-      > **Stare decisis**  
-        
-        
-        
-      As debate heats up over who will fill an empty seat at the Supreme Court,
-      here’s why you should know this term.
+      <div><h1>“To Stand By Things Decided”</h1><blockquote><strong>Stare
+      decisis</strong><br><br><br><br>As debate heats up over who will fill an
+      empty seat at the Supreme Court, here’s why you should know this
+      term.</blockquote></div>
     _key: card-1-77291624-59a4-4d4d-8d5a-a60e3e99a199
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why It Matters:
-
-
-      * **Stare decisis**_is a legal doctrine of precedent, meaning**past
-      decisions carry weight**.
-
-      * As President Trump mulls another Supreme Court nomination for the Senate
-      to consider, some predict the appointment of a conservative justice will
-      lead to sweeping changes of current laws.
+      <div><h2>Why It Matters:</h2><ul><li><strong>Stare decisis</strong>_is a
+      legal doctrine of precedent, meaning <strong>past decisions carry
+      weight</strong>.</li><li>As President Trump mulls another Supreme Court
+      nomination for the Senate to consider, some predict the appointment of a
+      conservative justice will lead to sweeping changes of current
+      laws.</li></ul></div>
     _key: card-2-e75d8968-da01-4d86-9deb-503bc67cdbc3
   - order: 2
     useCheckmark: false
     body: >-
-      > “See the new @USSupremeCourt clearly: Abortion illegal; doctors
-      prosecuted; gay people barred from restaurants, hotels, stores;
+      <blockquote>“See the new @USSupremeCourt clearly: Abortion illegal;
+      doctors prosecuted; gay people barred from restaurants, hotels, stores;
       African-Americans out of elite schools; gun control banned in 50 states;
-      the end of regulatory state.”  
-        
-        
-        
-      Legal Commentator, Jeffrey Toobin, Twitter. While Toobin claims the above,
-      it's not easy to legally overturn the laws he mentions.
+      the end of regulatory state.”<br><br><br><br>Legal Commentator, Jeffrey
+      Toobin, Twitter. While Toobin claims the above, it's not easy to legally
+      overturn the laws he mentions.</blockquote>
     _key: card-3-68fb2ed7-1986-4eda-9ee2-fd71bde4db6f
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      > Justice Kennedy, who is retiring, referenced_stare decisis_ in an
-      opinion upholding a challenge to Roe v. Wade in 1992.  
-        
-        
-        
-      “In practice, the Supreme Court will usually defer to its previous
-      decisions even if the soundness of the decision is in doubt.”  
-        
-        
-        
-      Cornell Law School, Legal Information Institute.
+      <div><h2>Something To Consider:</h2><blockquote>Justice Kennedy, who is
+      retiring, referenced <em>stare decisis</em> in an opinion upholding a
+      challenge to Roe v. Wade in 1992.<br><br><br><br>“In practice, the Supreme
+      Court will usually defer to its previous decisions even if the soundness
+      of the decision is in doubt.”<br><br><br><br>Cornell Law School, Legal
+      Information Institute.</blockquote></div>
     _key: card-4-13d80b1b-dcee-4695-868b-bbbda3578629
   - order: 4
     useCheckmark: true
     body: >-
-      Stare Decisis doesn't mean old decisions will *always* hold if challenged,
-      but it does mean that past decisions can shape current legal rulings.
-
-
-      [view sources](https://smarthernews.com/18-07-01-stare-decisis/)
+      <div><p>Stare Decisis doesn't mean old decisions will *always* hold if
+      challenged, but it does mean that past decisions can shape current legal
+      rulings.</p><p><a
+      href="https://smarthernews.com/18-07-01-stare-decisis/">view
+      sources</a></p></div>
     _key: card-10-a8d72794-bd2e-4a33-a85e-d005ce012d4d
 
 ---

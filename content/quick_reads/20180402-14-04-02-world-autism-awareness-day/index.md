@@ -21,85 +21,62 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## World Autism Awareness Day
-
-      Meet Brian, part of the SmartHer News family.
+    body: >-
+      <div><h2>World Autism Awareness Day</h2><p>Meet Brian, part of the
+      SmartHer News family.</p></div>
     _key: card-1-195ba9e9-c675-401e-bace-b4d7cb7a884f
   - order: 1
     useCheckmark: false
     body: >-
-      ## Brian Duff
-
-
-      * 11-years-old; diagnosed with autism at age 2.
-
-      * Big brother to 6-month-old Ethan.
-
-      * Favorite Superheroes: Optimus Prime & Superman
-
-      * Non-verbal. In fact, 30% of people with autism “never learn to speak
-      more than a few words”, according to a new Boston University study.
+      <div><h2>Brian Duff</h2><ul><li>11-years-old; diagnosed with autism at age
+      2.</li><li>Big brother to 6-month-old Ethan.</li><li>Favorite Superheroes:
+      Optimus Prime &amp; Superman</li><li>Non-verbal. In fact, 30% of people
+      with autism “never learn to speak more than a few words”, according to a
+      new Boston University study.</li></ul></div>
     _key: card-2-37593836-49dd-4273-ba6f-e33d468693d4
   - order: 2
     useCheckmark: false
     body: >-
-      > “Even though Brian’s non-verbal, he has a lot to say! People should know
-      autism isn’t just people who are good at math, like you see in the movies.
-      Autism varies greatly. Each person with autism is unique.”  
-        
-        
-        
-      Ben Duff, SmartHer News tech-guru, and loving father of Brian, who's been
-      a part of our meetings from the beginning!
+      <blockquote>“Even though Brian’s non-verbal, he has a lot to say! People
+      should know autism isn’t just people who are good at math, like you see in
+      the movies. Autism varies greatly. Each person with autism is
+      unique.”<br><br><br><br>Ben Duff, SmartHer News tech-guru, and loving
+      father of Brian, who's been a part of our meetings from the
+      beginning!</blockquote>
     _key: card-3-88e6b82d-9121-4b3d-9c37-6232bb7d2c55
   - order: 3
     useCheckmark: false
     body: >-
-      ## What Is Autism?
-
-
-      The CDC defines autism spectrum disorder (ASD) as “a developmental
-      disability that can cause significant social, communication and behavioral
-      challenges.”
-
-
-      [Click Here: Who Started World Autism Awareness
-      Day?](http://www.un.org/en/events/autismday/)
+      <div><h2>What Is Autism?</h2><p>The CDC defines autism spectrum disorder
+      (ASD) as “a developmental disability that can cause significant social,
+      communication and behavioral challenges.”</p><p><a
+      href="http://www.un.org/en/events/autismday/">Click Here: Who Started
+      World Autism Awareness Day?</a></p></div>
     citation: 'Click Here: Who Started World Autism Awareness Day?'
     _key: card-4-36db770f-21d7-41dc-98cf-76a441dfdf4d
   - order: 4
     useCheckmark: false
     body: >-
-      ## Autism: What We Know
-
-
-      * Occurs in all racial, ethnic, & socioeconomic groups
-
-      * More common among boys (about 4.5 times) than among girls.
-
-      * 2 million individuals in the U.S. & tens of millions worldwide have
-      autism spectrum disorder (ASD).
+      <div><h2>Autism: What We Know</h2><ul><li>Occurs in all racial, ethnic,
+      &amp; socioeconomic groups</li><li>More common among boys (about 4.5
+      times) than among girls.</li><li>2 million individuals in the U.S. &amp;
+      tens of millions worldwide have autism spectrum disorder
+      (ASD).</li></ul></div>
     _key: card-5-6fc25217-9259-41d8-9ea4-a96f0ed11dc6
   - order: 5
     useCheckmark: false
     body: >-
-      Autism  
-
-      What We Don’t Know:
-
-
-      * NO agreement among the scientific community on the cause.
-
-      * NO official medical test to diagnose autism. It’s often diagnosed after
-      other medical conditions are ruled out based on behavioral developmental
-      delays.
+      <div><p>Autism<br>What We Don’t Know:</p><ul><li>NO agreement among the
+      scientific community on the cause.</li><li>NO official medical test to
+      diagnose autism. It’s often diagnosed after other medical conditions are
+      ruled out based on behavioral developmental delays.</li></ul></div>
     _key: card-6-3dea2f2b-b2c4-411d-9550-72c7ad6cb8a4
   - order: 6
     useCheckmark: true
     body: >-
-      [view
-      sources](https://smarthernews.com/14-04-02-world-autism-awareness-day/)
+      <p><a
+      href="https://smarthernews.com/14-04-02-world-autism-awareness-day/">view
+      sources</a></p>
     _key: card-10-9f7f4efe-bfc7-4edc-8b9a-dfc0faf0fd27
 
 ---

@@ -22,91 +22,70 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## FROM THE BORDER
-
-
-      > As the President requests more money for a wall on the southwestern U.S.
-      border, Customs & Border Protection unveils the largest tunnel ever
-      burrowed under it.
+      <div><h2>FROM THE BORDER</h2><blockquote>As the President requests more
+      money for a wall on the southwestern U.S. border, Customs &amp; Border
+      Protection unveils the largest tunnel ever burrowed under
+      it.</blockquote></div>
     _key: e80c69bc2cd7
   - order: 1
     useCheckmark: false
     body: >-
-      ## Jan. 2020: What To Know
-
-
-      **29,200** people apprehended attempting to illegally cross the border in
-      January.
-
-
-      That’s**3,600+** fewer than December.
-
-
-      And nearly**19,000** less than last January.
-
-
-      The decrease is due, in part, to fewer family units apprehended.
+      <div><h2>Jan. 2020: What To Know</h2><p><strong>29,200</strong> people
+      apprehended attempting to illegally cross the border in
+      January.</p><p>That’s <strong>3,600+</strong> fewer than
+      December.</p><p>And nearly <strong>19,000</strong> less than last
+      January.</p><p>The decrease is due, in part, to fewer family units
+      apprehended.</p></div>
     _key: 41faa4267a6c
   - order: 2
     useCheckmark: false
     body: >-
-      ## IMPORTANT CONTEXT
-
-
-      Last year, at the peak, nearly**133,000** people were apprehended at the
-      southwest border in one month; more than 70% were family units (84,000+) &
-      unaccompanied minors (11,000+).
-
-
-      Last month,**29,200** people were apprehended; 26% were family units
-      (5,000+) or unaccompanied minors (2600+).
+      <div><h2>IMPORTANT CONTEXT</h2><p>Last year, at the peak, nearly
+      <strong>133,000</strong> people were apprehended at the southwest border
+      in one month; more than 70% were family units (84,000+) &amp;
+      unaccompanied minors (11,000+).</p><p>Last month, <strong>29,200</strong>
+      people were apprehended; 26% were family units (5,000+) or unaccompanied
+      minors (2600+).</p></div>
     _key: b86b6252ade2
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider
-
-
-      While the decrease of border apprehensions Jan 2020 is a dramatic drop
-      from Jan 2019, the difference seems less drastic when comparing it with
-      numbers from prior recent years.
-
-
-      In fact, on average, roughly**30,000** people were apprehended or deemed
-      inadmissable on the southwest border each month between 2015-2018. In
-      2019, the monthly average more than doubled.
+      <div><h2>Something To Consider</h2><p>While the decrease of border
+      apprehensions Jan 2020 is a dramatic drop from Jan 2019, the difference
+      seems less drastic when comparing it with numbers from prior recent
+      years.</p><p>In fact, on average, roughly <strong>30,000</strong> people
+      were apprehended or deemed inadmissable on the southwest border each month
+      between 2015-2018. In 2019, the monthly average more than
+      doubled.</p><p><br></p></div>
     _key: a6c2d266dc77
   - order: 4
     useCheckmark: false
     body: >-
-      “We’ve seen eight straight months of decline, but as we see from the
-      seizure of the longest-ever tunnel between the U.S. and Mexico and
-      significant drug seizures, much work remains.”
-
-
-      CBP Acting Commissioner Mark Morgan on January's numbers. The 70ft-deep
-      tunnel ran over three-quarters of a mile from Mexico into Southern
-      California, had a cart/rail system, electricity, ventilation, and even an
-      elevator. No arrests or seizures came from the discovery.
+      <div><p>“We’ve seen eight straight months of decline, but as we see from
+      the seizure of the longest-ever tunnel between the U.S. and Mexico and
+      significant drug seizures, much work remains.”</p><p>CBP Acting
+      Commissioner Mark Morgan on January's numbers. The 70ft-deep tunnel ran
+      over three-quarters of a mile from Mexico into Southern California, had a
+      cart/rail system, electricity, ventilation, and even an elevator. No
+      arrests or seizures came from the discovery.</p></div>
     _key: 09aa959d705d
   - order: 5
     useCheckmark: false
     body: >-
-      > “As efforts to strengthen security on our Southern Border increase,
-      Mexican drug cartels are forced underground to smuggle their deadly drugs
-      into the United States. The sophistication of this tunnel demonstrates the
-      determination and monetary resources of the cartels.”
-
-
-      DEA Special Agent in Charge John Callery.
+      <div><blockquote>“As efforts to strengthen security on our Southern Border
+      increase, Mexican drug cartels are forced underground to smuggle their
+      deadly drugs into the United States. The sophistication of this tunnel
+      demonstrates the determination and monetary resources of the
+      cartels.”</blockquote><p>DEA Special Agent in Charge John
+      Callery.</p></div>
     _key: 4d8a6febdebb
   - order: 6
     useCheckmark: true
     body: >-
-      Pres. Trump wants to reallocate billions of dollars for border wall
-      construction. Today, about 1/3 (654 miles) of the southern border is
+      <div><p>Pres. Trump wants to reallocate billions of dollars for border
+      wall construction. Today, about 1/3 (654 miles) of the southern border is
       equipped with barriers. About 1,300 miles has no barrier (not all the
-      terrain allows for a wall).
+      terrain allows for a wall).</p><p></p></div>
     citation: VIEW SOURCES
     _key: dc1498778e71
 

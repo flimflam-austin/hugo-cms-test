@@ -22,68 +22,61 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “Supplemental FBI background file for Judge Kavanaugh has been received
-      by @senjudiciary Ranking Member Feinstein & I have agreed to alternating
-      EQUAL access for senators to study content from additional background info
-      gathered by non-partisan FBI agents.”  
-        
-      Sen. Chuck Grassley (R-IA) confirming the FBI report delivered to the
-      Senate; the confidential report will be kept in a locked room for all 100
-      senators to read.
+      <blockquote>“Supplemental FBI background file for Judge Kavanaugh has been
+      received by @senjudiciary Ranking Member Feinstein &amp; I have agreed to
+      alternating EQUAL access for senators to study content from additional
+      background info gathered by non-partisan FBI agents.”<br><br>Sen. Chuck
+      Grassley (R-IA) confirming the FBI report delivered to the Senate; the
+      confidential report will be kept in a locked room for all 100 senators to
+      read.</blockquote>
     _key: card-1-dc56b4a6-bfa9-42fc-b9ca-2c65d5e3833d
   - order: 1
     useCheckmark: false
     body: >-
-      “We are profoundly disappointed that after the tremendous sacrifice she
+      <p>“We are profoundly disappointed that after the tremendous sacrifice she
       made in coming forward, those directing the FBI investigation were not
-      interested in seeking the truth.”  
-        
-      Statement by lawyers for Dr. Christine Blasey Ford who say she wasn't
-      interviewed by the FBI after her public testimony under oath. We do not
-      yet know if the public will see the additional FBI investigation into
-      allegations against Supreme Court nominee Judge Kavanaugh.
+      interested in seeking the truth.”<br><br>Statement by lawyers for Dr.
+      Christine Blasey Ford who say she wasn't interviewed by the FBI after her
+      public testimony under oath. We do not yet know if the public will see the
+      additional FBI investigation into allegations against Supreme Court
+      nominee Judge Kavanaugh.</p>
     _key: card-2-370085bb-6355-46f4-af10-29b8f2efc602
   - order: 2
     useCheckmark: false
     body: >-
-      "We see this as a consistent effort, before, during and after any
+      <p>"We see this as a consistent effort, before, during and after any
       diplomatic efforts by the United States and the international
-      community.”  
-        
-      Sandra Joyce, FireEye - a cybersecurity firm that describes hacking
-      efforts by North Korea as an active global threat. While much focus
-      remains on NoKo's nuclear program, several groups warn of their hacking
-      prowess, especially in the international banking system where NoKo's
-      reportedly stole hundreds of millions of dollars.
+      community.”<br><br>Sandra Joyce, FireEye - a cybersecurity firm that
+      describes hacking efforts by North Korea as an active global threat. While
+      much focus remains on NoKo's nuclear program, several groups warn of their
+      hacking prowess, especially in the international banking system where
+      NoKo's reportedly stole hundreds of millions of dollars.</p>
     _key: card-3-b6b49b8e-fc1b-4314-8961-27d49546920e
   - order: 3
     useCheckmark: false
     body: >-
-      > “We’re at a stage now where more information is available about you
-      online and on your phone than there is in your house.”  
-        
-      Apple CEO Tim Cook on data privacy in an interview with "VICE News." He
-      went on to say tech companies that say they need your data to perform
-      better customer service is a "bunch of bunk"; Cook also said some amount
-      of government regulation on data collection is important.
+      <blockquote>“We’re at a stage now where more information is available
+      about you online and on your phone than there is in your
+      house.”<br><br>Apple CEO Tim Cook on data privacy in an interview with
+      "VICE News." He went on to say tech companies that say they need your data
+      to perform better customer service is a "bunch of bunk"; Cook also said
+      some amount of government regulation on data collection is
+      important.</blockquote>
     _key: card-4-ed30f7c0-5d22-4126-ba11-7959ee3d3f49
   - order: 4
     useCheckmark: false
     body: >-
-      > "We want to finish telling this story."  
-        
-        
-      Actor John Goodman to 'People Magazine' on why he, and fellow former
-      Roseanne costars Laurie Metcalf and Sara Gilbert felt compelled to do a
-      spinoff after Roseanne Barr was fired from the show in May for a racist
-      tweet. The Connors airs on ABC on October 16th.
+      <blockquote>"We want to finish telling this story."<br><br><br>Actor John
+      Goodman to 'People Magazine' on why he, and fellow former Roseanne costars
+      Laurie Metcalf and Sara Gilbert felt compelled to do a spinoff after
+      Roseanne Barr was fired from the show in May for a racist tweet. The
+      Connors airs on ABC on October 16th.</blockquote>
     _key: card-5-37580161-afda-4af4-a7e2-1128d37279ba
   - order: 5
     useCheckmark: true
-    body: |-
-      Have a great day!
-
-      [view sources](https://smarthernews.com/18-10-04-qq/)
+    body: >-
+      <div><p>Have a great day!</p><p><a
+      href="https://smarthernews.com/18-10-04-qq/">view sources</a></p></div>
     _key: card-10-7ce47268-28a9-4b7b-bbd6-8689f04a3528
 
 ---

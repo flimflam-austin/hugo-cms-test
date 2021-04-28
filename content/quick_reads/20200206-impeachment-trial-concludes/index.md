@@ -21,48 +21,42 @@ colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## How Pres. Trump’s Impeachment Made History
-
-      The 45th President finds himself (and the nation) in uncharted territory.
+    body: >-
+      <div><h2>How Pres. Trump’s Impeachment Made History</h2><p>The 45th
+      President finds himself (and the nation) in uncharted territory.</p></div>
     _key: 3d7958cbb347
   - order: 1
     useCheckmark: false
     body: >-
-      ## ONLY PRES. TRUMP…
-
-
-      The House of Representatives voted to impeach two other U.S. Presidents:
-      Pres. Andrew Johnson in 1868 and Pres. Bill Clinton in 1998.
-
-
-      But President Trump is the**only** U.S. President in history to be
-      impeached and facing removal from office WHILE running for reelection.
+      <div><h2>ONLY PRES. TRUMP…</h2><p>The House of Representatives voted to
+      impeach two other U.S. Presidents: Pres. Andrew Johnson in 1868 and Pres.
+      Bill Clinton in 1998.</p><p>But President Trump is the
+      <strong>only</strong> U.S. President in history to be impeached and facing
+      removal from office WHILE running for reelection.</p></div>
     _key: 9a41c05c8084
   - order: 2
     useCheckmark: false
-    body: "## How The Trial Compared\n\n* **WITNESSES:**\_**Unlike his predecessors**, the Senate voted not to hear from witnesses during Pres. Trump’s trial.\n* **OUTCOME:** Like his predecessors, Pres. Trump was acquitted. But, unlike his predecessors,**a member of his own party voted to convict him: Sen. Mitt Romney (R-UT).**\n* **ALSO:** First time**no one from** the opposing party voted with the President."
+    body: "<div><h2>How The Trial Compared</h2><ul><li><strong>WITNESSES:</strong>\_<strong>Unlike his predecessors</strong>, the Senate voted not to hear from witnesses during Pres. Trump’s trial.</li><li><strong>OUTCOME:</strong> Like his predecessors, Pres. Trump was acquitted. But, unlike his predecessors, <strong>a member of his own party voted to convict him: Sen. Mitt Romney (R-UT).</strong></li><li><strong>ALSO:</strong> First time <strong>no one from</strong> the opposing party voted with the President.</li></ul></div>"
     _key: cf43b1d21e11
   - order: 3
     useCheckmark: false
     body: >-
-      _“Perhaps impeachment’s bitterness will fade, starting with members of the
-      Senate pulling together…Or, perhaps it will help cement the capital’s
-      division for some time to come.”_
-
-
-      Capital Journal Columnist Gerry Seib for The Wall Street Journal who says
-      voters' reaction to the impeachment vote could impact election races for
-      seats in the House and Senate for both parties. His concern? The parties'
-      divide becomes more entrenched.
+      <div><p><em>“Perhaps impeachment’s bitterness will fade, starting with
+      members of the Senate pulling together…Or, perhaps it will help cement the
+      capital’s division for some time to come.”</em></p><p>Capital Journal
+      Columnist Gerry Seib for The Wall Street Journal who says voters' reaction
+      to the impeachment vote could impact election races for seats in the House
+      and Senate for both parties. His concern? The parties' divide becomes more
+      entrenched.</p></div>
     _key: 9d28075c8b42
   - order: 4
     useCheckmark: true
     body: >-
-      NYT columnist David Brooks wrote this after Pres. Trump's acquittal:
-      "Instead of spending the past 3 years on Mueller and impeachment suppose
-      Trump opponents had spent the time on an infrastructure bill or early
-      childhood education? More good would have been done." Agree/Disagree?
+      <div><p>NYT columnist David Brooks wrote this after Pres. Trump's
+      acquittal: "Instead of spending the past 3 years on Mueller and
+      impeachment suppose Trump opponents had spent the time on an
+      infrastructure bill or early childhood education? More good would have
+      been done." Agree/Disagree?</p><p></p></div>
     citation: VIEW SOURCES
     _key: d2fbef4223b8
 

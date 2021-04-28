@@ -22,20 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “_I say there’s no such thing as failure. Failure is just a mistake
-      trying to move you in a better direction._”
+      <div><blockquote>“<em>I say there’s no such thing as failure. Failure is
+      just a mistake trying to move you in a better
+      direction.</em>”</blockquote><p></p></div>
     citation: Oprah Winfrey
     _key: card-1-cfdd7b1f-e779-4adc-b390-d8e286c140fa
   - order: 1
     useCheckmark: true
     body: >-
-      Oprah delivered a speech in South Africa honoring the 100th anniversary of
-      Nelson Mandela's birth. Mandela, the anti-apartheid leader spent 27 years
-      in prison before becoming South Africa's first democratically elected
-      president and its first black president in 1994.
-
-
-      [view sources](https://smarthernews.com/18-12-3-qtd-oprah/)
+      <div><p>Oprah delivered a speech in South Africa honoring the 100th
+      anniversary of Nelson Mandela's birth. Mandela, the anti-apartheid leader
+      spent 27 years in prison before becoming South Africa's first
+      democratically elected president and its first black president in
+      1994.</p><p><a href="https://smarthernews.com/18-12-3-qtd-oprah/">view
+      sources</a></p></div>
     _key: card-10-4c65966b-a4bc-4af7-87d6-8564af801ee3
 
 ---

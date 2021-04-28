@@ -21,62 +21,39 @@ colorpaletteclassname: '--white'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # TIME TO FALL BACK
-
-      ## Daylight Saving Time  
-      Ends Sunday at 2AM
-
-      One more hour of sleep
-
-      One less hour of evening sunlight
+    body: >-
+      <div><h1>TIME TO FALL BACK</h1><h2>Daylight Saving Time<br>Ends Sunday at
+      2AM</h2><p>One more hour of sleep</p><p>One less hour of evening
+      sunlight</p></div>
     _key: bbad5e14fe33
   - order: 1
     useCheckmark: false
     body: >-
-      ## WHAT TO KNOW:
-
-
-      * Enacted to save coal in the spring of 1918 during WWI, but made optional
-      by Congress after the war.
-
-      * Re-established during WWII. In 1966, became law under Uniform Time Act.
-
-      * Arizona, Hawaii, & U.S. Territories such as Puerto Rico don’t follow
-      DST.
-
-      * Since 2018, 13 states passed laws to enact year-round DST – no more
-      “falling back.” But those laws still require Congress to sign off on them
-      to take effect.
+      <div><h2>WHAT TO KNOW:</h2><ul><li>Enacted to save coal in the spring of
+      1918 during WWI, but made optional by Congress after the
+      war.</li><li>Re-established during WWII. In 1966, became law under Uniform
+      Time Act.</li><li>Arizona, Hawaii, &amp; U.S. Territories such as Puerto
+      Rico don’t follow DST.</li><li>Since 2018, 13 states passed laws to enact
+      year-round DST – no more “falling back.” But those laws still require
+      Congress to sign off on them to take effect.</li></ul></div>
     _key: 2569ed98c87e
   - order: 2
     useCheckmark: false
     body: >-
-      ## ALSO WORTH NOTING:
-
-
-      Transition to & from DST linked to several health issues, including:
-
-
-      * Higher heart attack & stroke risk
-
-      * Drop in success rates for IVF
-
-      * Fatigue, decreased productivity
-
-      * Worsening S.A.D. (Seasonal Affective Disorder) associated w/ lack of
-      sunshine
-
-
-      Most are due to *temporary* sleep deprivation & circadian rhythm changes.
+      <div><h2>ALSO WORTH NOTING:</h2><p>Transition to &amp; from DST linked to
+      several health issues, including:</p><ul><li>Higher heart attack &amp;
+      stroke risk</li><li>Drop in success rates for IVF</li><li>Fatigue,
+      decreased productivity</li><li>Worsening S.A.D. (Seasonal Affective
+      Disorder) associated w/ lack of sunshine</li></ul><p>Most are due to
+      *temporary* sleep deprivation &amp; circadian rhythm changes.</p></div>
     _key: 144264ac2737
   - order: 3
     useCheckmark: true
     body: >-
-      Approx. 8 months of the year are in daylight saving time & 4 months are in
-      standard time. For those who miss the evening sunlight... we go back to
-      daylight saving time on Sunday, March 14, 2021. That's 6 days before
-      spring arrives.
+      <div><p>Approx. 8 months of the year are in daylight saving time &amp; 4
+      months are in standard time. For those who miss the evening sunlight... we
+      go back to daylight saving time on Sunday, March 14, 2021. That's 6 days
+      before spring arrives.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 3b16cb274dc8
 

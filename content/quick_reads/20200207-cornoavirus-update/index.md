@@ -21,110 +21,78 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # MASKS: ON OR OFF?
-
-      How To Stay Healthy
+    body: '<div><h1>MASKS: ON OR OFF?</h1><p>How To Stay Healthy</p><p></p></div>'
     citation: '*NEW* CORONAVIRUS'
     _key: d91822fcf8ec
   - order: 1
     useCheckmark: false
     body: >-
-      ## BACKGROUND
-
-
-      * “Coronavirus” ~ a family of viruses causing a range of illnesses from
-      the common cold to severe acute respiratory syndrome (SARS).
-
-      * *New* coronavirus detected in Wuhan, China in December 2019.
-
-      * **Spread to** at least 24 countries.
-
-      * World Health Organization declared a global health emergency.
+      <div><h2>BACKGROUND</h2><ul><li>“Coronavirus” ~ a family of viruses
+      causing a range of illnesses from the common cold to severe acute
+      respiratory syndrome (SARS).</li><li>*New* coronavirus detected in Wuhan,
+      China in December 2019.</li><li><strong>Spread to</strong> at least 24
+      countries.</li><li>World Health Organization declared a global health
+      emergency.</li></ul></div>
     _key: 4806bbc5e7ea
   - order: 2
     useCheckmark: false
     body: >-
-      ## Coronavirus: China
-
-
-      * Reported cases has multiplied rapidly.
-
-      * Number of deaths in China has already exceeded suspected deaths during
-      the SARS outbreak.
-
-      * Passengers arriving in the U.S who traveled to China within the last two
-      weeks are diverted to 11 airports where they are screened, and if
-      necessary quarantined.
-
-      * The State Dept. and Centers for Disease Control advise against travel to
-      China.
+      <div><h2>Coronavirus: China</h2><ul><li>Reported cases has multiplied
+      rapidly.</li><li>Number of deaths in China has already exceeded suspected
+      deaths during the SARS outbreak.</li><li>Passengers arriving in the U.S
+      who traveled to China within the last two weeks are diverted to 11
+      airports where they are screened, and if necessary
+      quarantined.</li><li>The State Dept. and Centers for Disease Control
+      advise against travel to China.</li></ul></div>
     _key: dac12001f40b
   - order: 3
     useCheckmark: false
     body: >-
-      ## Coronavirus In U.S.
-
-
-      * Declared a public health emergency.
-
-      * Twelve people infected (most, if not all are travel-related & their
-      spouses) in six states (AZ, CA, IL, MA, WA, & WI).
-
-      * More than 300 suspicious cases tested negative; 60+ cases still pending
-      (representing people in 37 states).
-
-      * CDC:_“…it’s unclear how easily or sustainably this virus is spreading
-      between people.”_
+      <div><h2>Coronavirus In U.S.</h2><ul><li>Declared a public health
+      emergency.</li><li>Twelve people infected (most, if not all are
+      travel-related &amp; their spouses) in six states (AZ, CA, IL, MA, WA,
+      &amp; WI).</li><li>More than 300 suspicious cases tested negative; 60+
+      cases still pending (representing people in 37 states).</li><li>CDC:
+      <em>“…it’s unclear how easily or sustainably this virus is spreading
+      between people.”</em></li></ul></div>
     _key: e089e176ea6a
   - order: 4
     useCheckmark: false
     body: >-
-      ## DO YOU NEED A MASK?
-
-
-      > “There really is no need to wear a mask right now…Exactly what you do to
-      protect against influenza, applies to protecting against coronavirus – and
-      that does not include wearing a mask.”  
-        
-      Nat'l Institute of Allergy & Infectious Diseases Dir. Dr. Anthony Fauci
+      <div><h2>DO YOU NEED A MASK?</h2><blockquote>“There really is no need to
+      wear a mask right now…Exactly what you do to protect against influenza,
+      applies to protecting against coronavirus – and that does not include
+      wearing a mask.”<br><br>Nat'l Institute of Allergy &amp; Infectious
+      Diseases Dir. Dr. Anthony Fauci</blockquote></div>
     _key: 20da067b4ae3
   - order: 5
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      * Majority of respiratory illnesses spread either through tiny**airborne**
-      germs or**droplets**.
-
-      * Airborne germs can easily spread simply by being in close proximity with
-      someone who is ill, like the measles.
-
-      * Right now, the CDC believes the new coronavirus is spread via droplet;
-      touching infected surfaces, or having someone sneeze/cough near you from
-      3-6 ft may spread the disease.
+      <div><h2>Something To Consider:</h2><ul><li>Majority of respiratory
+      illnesses spread either through tiny <strong>airborne</strong> germs or
+      <strong>droplets</strong>.</li><li>Airborne germs can easily spread simply
+      by being in close proximity with someone who is ill, like the
+      measles.</li><li>Right now, the CDC believes the new coronavirus is spread
+      via droplet; touching infected surfaces, or having someone sneeze/cough
+      near you from 3-6 ft may spread the disease.</li></ul><p></p></div>
     _key: 6608918aab86
   - order: 6
     useCheckmark: false
     body: >-
-      ## Practical Advice
-
-
-      > “Wash your hands really well. Use a paper towel to turn off the faucet
-      and open the door. Use your elbow to touch an elevator button and try not
-      to touch high-traffic surfaces…All those things that help protect us from
-      the flu, will also help protect us from the coronavirus.”  
-        
-      Dr. Darria Long Gillespie, MD MBA, author of "Mom Hacks."
+      <div><h2>Practical Advice</h2><blockquote>“Wash your hands really well.
+      Use a paper towel to turn off the faucet and open the door. Use your elbow
+      to touch an elevator button and try not to touch high-traffic surfaces…All
+      those things that help protect us from the flu, will also help protect us
+      from the coronavirus.”<br><br>Dr. Darria Long Gillespie, MD MBA, author of
+      "Mom Hacks."</blockquote></div>
     _key: 3586e99850c3
   - order: 7
     useCheckmark: true
     body: >-
-      For context: the CDC estimates 10,000 people have died from the flu since
-      October, and 180,000 were hospitalized (comparable to past years). The CDC
-      just announced coronavirus diagnostic test kits are now available to
-      doctors & will provide results in 4 hrs.
+      <div><p>For context: the CDC estimates 10,000 people have died from the
+      flu since October, and 180,000 were hospitalized (comparable to past
+      years). The CDC just announced coronavirus diagnostic test kits are now
+      available to doctors &amp; will provide results in 4 hrs.</p><p></p></div>
     citation: VIEW SOURCES
     _key: e966a0933beb
 

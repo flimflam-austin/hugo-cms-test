@@ -22,54 +22,37 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Ever Dream of Flying?
-
-
-      The Iron Man-like suit that has James Bond, Tom Cruise & *YOU* ready for
-      take-off …  
-
-      for a price.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/bxR_GyPxOgE?enablejsapi=1&autoplay=1&rel=0)
+      <div><h1>Ever Dream of Flying?</h1><p>The Iron Man-like suit that has
+      James Bond, Tom Cruise &amp; *YOU* ready for take-off …<br>for a
+      price.</p><p><a
+      href="https://www.youtube.com/embed/bxR_GyPxOgE?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-1-e15420ee-5881-41f0-950c-2c2f9fd459a2
   - order: 1
     useCheckmark: false
-    body: |-
-      # Gravity Schmavity
-
-      ## HOW THE SUIT WORKS:
-
-      * 5 mini jet-fuel engines: 2 worn on each arm & 1 on the back.
-      * Set a Guinness World Record flying at 32mph.
-      * Flights last 3-4 minutes.
-
-
-
-      OK, how much?
+    body: >-
+      <div><h1>Gravity Schmavity</h1><h2>HOW THE SUIT WORKS:</h2><ul><li>5 mini
+      jet-fuel engines: 2 worn on each arm &amp; 1 on the back.</li><li>Set a
+      Guinness World Record flying at 32mph.</li><li>Flights last 3-4
+      minutes.</li></ul><p></p><p>OK, how much?</p></div>
     _key: card-2-bf70b318-9cc4-4546-8a96-62617a517856
   - order: 2
     useCheckmark: false
     body: >-
-      # Ready for Liftoff?
-
-
-      * It costs**$450K, and only 9 are available** for sale at Selfridges
-      Department Store in London.
-
-      * Gravity, the suit’s maker, has requests fromA_Mission Impossible_ &A
-      James Bond filmmakers.
+      <div><h1>Ready for Liftoff?</h1><ul><li>It costs <strong>$450K, and only 9
+      are available</strong> for sale at Selfridges Department Store in
+      London.</li><li>Gravity, the suit’s maker, has requests fromA <em>Mission
+      Impossible</em> &amp;A James Bond filmmakers.</li></ul></div>
     _key: card-3-ff73234f-42b9-4563-b160-080c14eeab6e
   - order: 3
     useCheckmark: true
     body: >-
-      The US Army is also testing & prototyping Iron Man-like suits in order to
-      test how electricity production can be used to avoid dangerous resupply
-      stops, reducing logistics on the battlefield. Read on here:
-
-
-      [view sources](https://smarthernews.com/18-07-24-iron-man-suit/)
+      <div><p>The US Army is also testing &amp; prototyping Iron Man-like suits
+      in order to test how electricity production can be used to avoid dangerous
+      resupply stops, reducing logistics on the battlefield. Read on
+      here:</p><p><a
+      href="https://smarthernews.com/18-07-24-iron-man-suit/">view
+      sources</a></p></div>
     _key: card-10-7aea81ee-0303-4ab4-ad60-d8bec8e26156
 
 ---

@@ -22,74 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Historic Helsinki Summit
-
-
-      ## What’s At Stake?
-
-
-      With so much focus on the words of the American & Russian presidents,
-      here’s a look at the actions of the 2 nations.
-
-
-      Why It Matters
+      <div><h1>Historic Helsinki Summit</h1><h2>What’s At Stake?</h2><p>With so
+      much focus on the words of the American &amp; Russian presidents, here’s a
+      look at the actions of the 2 nations.</p><p>Why It Matters</p></div>
     _key: card-1-f86f1f3b-404a-4c04-bb3e-85df025f4cd8
   - order: 1
     useCheckmark: false
     body: >-
-      ## U.S. Policy Vs. Russia
-
-
-      * concluded Russia meddled in 2016 election & sanctioned Russia in 2017 &
-      2018 for intent to undermine U.S. democracy.
-
-      * closed some Russian embassies after Kremlin attempted murder of frmr.
-      spy in England.
-
-      * supplied Ukraine with weapons to help defend against Russia.
-
-      * U.S. forces killed hundreds of Russian fighting w/Assad in Syria.
+      <div><h2>U.S. Policy Vs. Russia</h2><ul><li>concluded Russia meddled in
+      2016 election &amp; sanctioned Russia in 2017 &amp; 2018 for intent to
+      undermine U.S. democracy.</li><li>closed some Russian embassies after
+      Kremlin attempted murder of frmr. spy in England.</li><li>supplied Ukraine
+      with weapons to help defend against Russia.</li><li>U.S. forces killed
+      hundreds of Russian fighting w/Assad in Syria.</li></ul></div>
     _key: card-2-58d3ae45-53c9-43d4-b272-4f6bf0693b23
   - order: 2
     useCheckmark: false
     body: >-
-      ## Russia: What’s At Stake:
-
-
-      * global security:**Russia has largest arsenal of nukes.**
-
-      * Russia annexed Crimea from Ukraine, increasing worry it will threaten
-      borders in E. Europe.
-
-      * Russia backs Syrian Pres. Assad in Syrian (attacks civilians).
-
-      * Russia & Pres. Putin accused of human rightsA abuses (i.e. no free
-      speech, no protests & murder).
+      <div><h2>Russia: What’s At Stake:</h2><ul><li>global security:
+      <strong>Russia has largest arsenal of nukes.</strong></li><li>Russia
+      annexed Crimea from Ukraine, increasing worry it will threaten borders in
+      E. Europe.</li><li>Russia backs Syrian Pres. Assad in Syrian (attacks
+      civilians).</li><li>Russia &amp; Pres. Putin accused of human rightsA
+      abuses (i.e. no free speech, no protests &amp; murder).</li></ul></div>
     _key: card-3-0ba019ee-342c-4837-9cc8-3d2888e5f114
   - order: 3
     useCheckmark: false
     body: >-
-      ## Major Takeaways: Summit
-
-
-      **Pres. Trump** declined to denounce Russia for 2016 election meddling
-      saying “_I don’t see any reason why_” Russia would interfere andA “_Putin
-      was extremely strong and powerful in his denial today_.”
-
-
-      **Pres. Putin** confirmed he wanted Trump to win election “_because he
-      talked about bringing the U.S. Russia relationship back to normal._“
+      <div><h2>Major Takeaways: Summit</h2><p><strong>Pres. Trump</strong>
+      declined to denounce Russia for 2016 election meddling saying “<em>I don’t
+      see any reason why</em>” Russia would interfere andA “<em>Putin was
+      extremely strong and powerful in his denial
+      today</em>.”</p><p><strong>Pres. Putin</strong> confirmed he wanted Trump
+      to win election “<em>because he talked about bringing the U.S. Russia
+      relationship back to normal.</em>“</p></div>
     _key: card-4-ea052807-935c-4819-a72c-fcf222c9c00c
   - order: 4
     useCheckmark: true
     body: >-
-      How does the U.S. gov't define Russian "meddling"? It's a blanket term
-      often referring to online "mischief" - hacking, spreading misinformation,
-      and beyond. There's no evidence of changing votes or impacting election
-      results - but still illegal.
-
-
-      [view sources](https://smarthernews.com/18-07-17-helsinki-summit/)
+      <div><p>How does the U.S. gov't define Russian "meddling"? It's a blanket
+      term often referring to online "mischief" - hacking, spreading
+      misinformation, and beyond. There's no evidence of changing votes or
+      impacting election results - but still illegal.</p><p><a
+      href="https://smarthernews.com/18-07-17-helsinki-summit/">view
+      sources</a></p></div>
     _key: card-10-279d4db7-ab6b-4a04-96fb-d9fc199536a6
 
 ---

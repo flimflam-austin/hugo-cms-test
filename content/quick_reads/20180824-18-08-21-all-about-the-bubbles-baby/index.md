@@ -22,60 +22,44 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Billion Dollar Bubbles
-
-
-      What Pepsi’s latest $3 Billion purchase tells us about the beverage
-      industry (and our drinking habits).
-
-
-      What's old is new
+      <div><h1>Billion Dollar Bubbles</h1><p>What Pepsi’s latest $3 Billion
+      purchase tells us about the beverage industry (and our drinking
+      habits).</p><p>What's old is new</p></div>
     _key: card-1-4e9fd180-0770-4bfe-9922-d2c65c02eba0
   - order: 1
     useCheckmark: false
     body: >-
-      ## Pepsi Buys SodaStream
-
-
-      * Pepsi says purchase expands healthier options, better for environment
-      (people can create soda at home, with reusable bottles).
-
-      * Big Picture: Major brands are battling for bubbles. Last year, CocaCola
-      bought TopoChico, a sparkling water brand, for more than $200M.
+      <div><h2>Pepsi Buys SodaStream</h2><ul><li>Pepsi says purchase expands
+      healthier options, better for environment (people can create soda at home,
+      with reusable bottles).</li><li>Big Picture: Major brands are battling for
+      bubbles. Last year, CocaCola bought TopoChico, a sparkling water brand,
+      for more than $200M.</li></ul></div>
     _key: card-2-f207c5a1-1e77-481f-8288-cb125cdf98e1
   - order: 2
     useCheckmark: false
     body: >-
-      > “Sparkling water has grown far more strongly than the overall bottled
-      water category in the U.S.”  
-        
-        
-        
-      Wall Street Journal, on how sparkling water market has grown more than 30%
-      in recent years. In the meantime, Americans are drinking less soda.
+      <blockquote>“Sparkling water has grown far more strongly than the overall
+      bottled water category in the U.S.”<br><br><br><br>Wall Street Journal, on
+      how sparkling water market has grown more than 30% in recent years. In the
+      meantime, Americans are drinking less soda.</blockquote>
     _key: card-3-9679563c-64b2-4b98-9de5-ca1da05468fc
   - order: 3
     useCheckmark: false
-    body: |-
-      ## Are Bubbles Actually Healthier?
-
-      What we know (from somewhat limited studies) about carbonated water:
-
-      * Helps with hydration.
-      * Doesn’t strip bone density (as reported in mid-2000s).
-      * May (mildly) impact your teeth enamel.
+    body: >-
+      <div><h2>Are Bubbles Actually Healthier?</h2><p>What we know (from
+      somewhat limited studies) about carbonated water:</p><ul><li>Helps with
+      hydration.</li><li>Doesn’t strip bone density (as reported in
+      mid-2000s).</li><li>May (mildly) impact your teeth enamel.</li></ul></div>
     _key: card-4-b33a4663-44e3-447c-9311-ea33ff374059
   - order: 4
     useCheckmark: true
     body: >-
-      The man who invented sparkling water also discovered oxygen (as we know
-      it) ... and the rubber eraser! The Englishman believed in the American
-      Revolution & was lifelong friends with Benjamin Franklin. We have his
-      must-read bio on our source page.
-
-
-      [view
-      sources](https://smarthernews.com/18-08-21-all-about-the-bubbles-baby/)
+      <div><p>The man who invented sparkling water also discovered oxygen (as we
+      know it) ... and the rubber eraser! The Englishman believed in the
+      American Revolution &amp; was lifelong friends with Benjamin Franklin. We
+      have his must-read bio on our source page.</p><p><a
+      href="https://smarthernews.com/18-08-21-all-about-the-bubbles-baby/">view
+      sources</a></p></div>
     _key: card-10-58a7cfea-c976-4ee4-8037-c748f9c59084
 
 ---

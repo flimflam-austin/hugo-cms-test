@@ -22,21 +22,18 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## _“…keep the faith, don’t be too scared, it’s gonna be alright, God
-      loves us.”_
-
-
-      ##
+      <div><h2><em>“…keep the faith, don’t be too scared, it’s gonna be alright,
+      God loves us.”</em></h2><h2></h2></div>
     citation: DOLLY PARTON
     _key: 4c91b4345db2
   - order: 1
     useCheckmark: true
     body: >-
-      The 74-year-old icon offered this advice amid the coronavirus outbreak.
-      'Goodnight With Dolly', a new video series where she'll read bedtime
-      stories launches Thursday 7 p.m. EST for Dolly Parton’s Imagination
-      Library YouTube channel. Her literacy non-profit has has donated more than
-      100M+ books!
+      <div><p>The 74-year-old icon offered this advice amid the coronavirus
+      outbreak. 'Goodnight With Dolly', a new video series where she'll read
+      bedtime stories launches Thursday 7 p.m. EST for Dolly Parton’s
+      Imagination Library YouTube channel. Her literacy non-profit has has
+      donated more than 100M+ books!</p><p></p></div>
     citation: VIEW SOURCES
     _key: a5fd935dea67
 

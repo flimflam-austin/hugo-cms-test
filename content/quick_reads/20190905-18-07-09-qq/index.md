@@ -22,59 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "You are a true Wonder Woman. The kids loved ita|and so did the
-      staff.”  
-        
-        
-      Dr. Lucas Collazo, Inova Children's Hospital, outside of Washington D.C.,
-      where actress Gal Gadot visited in full Wonder Woman costume. Wonder Woman
-      1984- the sequel - is filming in the nation's capital.
-
-
-      [Click: More
-      Photos](https://twitter.com/WonderWomanHQ/status/1016066329692995585)
+      <div><blockquote>"You are a true Wonder Woman. The kids loved ita|and so
+      did the staff.”<br><br><br>Dr. Lucas Collazo, Inova Children's Hospital,
+      outside of Washington D.C., where actress Gal Gadot visited in full Wonder
+      Woman costume. Wonder Woman 1984- the sequel - is filming in the nation's
+      capital.</blockquote><p><a
+      href="https://twitter.com/WonderWomanHQ/status/1016066329692995585">Click:
+      More Photos</a></p></div>
     _key: card-1-8d6bd8d3-5689-4707-87f7-b9ee17601290
   - order: 1
     useCheckmark: false
     body: >-
-      > “We must hope that sanity, and a little courage, someday, somehow
-      prevail in Washington.”  
-        
-        
-      Jeh Johnson, former DHS Sec. under Pres. Obama. In an editorial for the
-      Washington Post, Johnson writes, "Calls to abolish ICE only serve to sow
-      even greater division in the American public and in its political
-      leadership." It's an interesting read - check it out on our source page.
+      <blockquote>“We must hope that sanity, and a little courage, someday,
+      somehow prevail in Washington.”<br><br><br>Jeh Johnson, former DHS Sec.
+      under Pres. Obama. In an editorial for the Washington Post, Johnson
+      writes, "Calls to abolish ICE only serve to sow even greater division in
+      the American public and in its political leadership." It's an interesting
+      read - check it out on our source page.</blockquote>
     _key: card-2-53fa01e7-9b9a-4a47-92a0-52332fe5784b
   - order: 2
     useCheckmark: false
     body: >-
-      > "If those requests were gangster-like, the world is a gangster"  
-        
-        
-      Sec. of State Mike Pompeo's response to North Korean officials saying
-      America is making gangster-like denuclearization demands of North Korea -
-      one of the preliminary agreements made at the Singapore Summit - proving
-      yet again the addage: The devil is in the details.
+      <blockquote>"If those requests were gangster-like, the world is a
+      gangster"<br><br><br>Sec. of State Mike Pompeo's response to North Korean
+      officials saying America is making gangster-like denuclearization demands
+      of North Korea - one of the preliminary agreements made at the Singapore
+      Summit - proving yet again the addage: The devil is in the
+      details.</blockquote>
     _key: card-3-25dfb4a3-bcf2-4eee-9a71-89063f54d6d2
   - order: 3
     useCheckmark: false
     body: >-
-      > "The question is no longer whether or not there will be a trade war, the
-      war has already started"  
-        
-        
-      French Finance Minister Bruno Le Maire on the Trump administration's new
-      25% tax on steel & 10% tax on aluminum from Europe (in addition to new
-      tariffs on China). Le Maire also threatened to tax digital giants like
-      Apple who do business in favorable tax havens in Europe.
+      <blockquote>"The question is no longer whether or not there will be a
+      trade war, the war has already started"<br><br><br>French Finance Minister
+      Bruno Le Maire on the Trump administration's new 25% tax on steel &amp;
+      10% tax on aluminum from Europe (in addition to new tariffs on China). Le
+      Maire also threatened to tax digital giants like Apple who do business in
+      favorable tax havens in Europe.</blockquote>
     _key: card-4-e50894d0-a045-4d75-aae9-dfb31f8e8dd7
   - order: 4
     useCheckmark: true
-    body: |-
-      Have a great week!
-
-      [view sources](https://smarthernews.com/18-07-09-qq/)
+    body: >-
+      <div><p>Have a great week!</p><p><a
+      href="https://smarthernews.com/18-07-09-qq/">view sources</a></p></div>
     _key: card-10-a5b64c57-ac34-47dd-b8ed-1752a36929ec
 
 ---

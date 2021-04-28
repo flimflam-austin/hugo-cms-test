@@ -21,68 +21,51 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      Is The Key To Good Discipline In School…  
-      GOD?
-
-      **First-of-its-kind study says…YES**.
-
-      Flip: The Findings
+    body: >-
+      <div><p>Is The Key To Good Discipline In School…<br>GOD?
+      </p><p><strong>First-of-its-kind study says…YES</strong>.</p><p>Flip: The
+      Findings</p></div>
     citation: 'Flip: The Findings'
     _key: card-1-0038d172-cc42-4392-8e8a-f5b8739abc46
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Findings:
-
-
-      * Catholic school students are**less disruptive**, exhibited**more
-      self-control** and**respect** than public AND private school students.
-
-      * One Disclaimer:_“Families who send their children to Catholic schools
-      make a conscious choice to do so, they likely differ from other families
-      in unobservable ways.”_
-
-
-
-
-      Why This Matters
+      <div><h2>The Findings:</h2><ul><li>Catholic school students are
+      <strong>less disruptive</strong>, exhibited <strong>more
+      self-control</strong> and <strong>respect</strong> than public AND private
+      school students.</li><li>One Disclaimer: <em>“Families who send their
+      children to Catholic schools make a conscious choice to do so, they likely
+      differ from other families in unobservable
+      ways.”</em></li></ul><p></p><p>Why This Matters</p></div>
     _key: card-2-b89fb342-d1f9-417c-b9a3-1206b7d1d776
   - order: 2
     useCheckmark: false
     body: >-
-      ## Big Picture
-
-
-      * Current Education Debate:**Should we approach school discipline
-      differently?** Especially becauseA of “differential suspension rates for
-      minority and non-minority students”?
-
-      * Study accounted for “race, gender, socioeconomic status, & family
-      immigrant status” & arrived at same result. The authors have a few
-      theories as to why.
+      <div><h2>Big Picture</h2><ul><li>Current Education Debate: <strong>Should
+      we approach school discipline differently?</strong> Especially becauseA of
+      “differential suspension rates for minority and non-minority
+      students”?</li><li>Study accounted for “race, gender, socioeconomic
+      status, &amp; family immigrant status” &amp; arrived at same result. The
+      authors have a few theories as to why.</li></ul></div>
     _key: card-3-da02bebb-ea5a-4d81-8acb-71a12124108a
   - order: 3
     useCheckmark: false
     body: >-
-      > “Perhaps students are more likely to internalize such values when they
-      know**they are loved not only by their teachers but by their Creator,** or
-      when they perceive that misbehavior may have**eternal consequences**.
-      Maybe it’s something else entirely.”  
-        
-        
-      Self-Discipline and Catholic Schools
+      <blockquote>“Perhaps students are more likely to internalize such values
+      when they know <strong>they are loved not only by their teachers but by
+      their Creator,</strong> or when they perceive that misbehavior may have
+      <strong>eternal consequences</strong>. Maybe it’s something else
+      entirely.”<br><br><br>Self-Discipline and Catholic Schools</blockquote>
     _key: card-4-515ab0bd-8e0c-47bd-9f56-7af83dae5697
   - order: 4
     useCheckmark: true
     body: >-
-      Regardless, one thing is certain: Religion can mold hearts and minds in
-      ways that suspensions, restorative justice, and Positive Behavioral
-      Intervention and Supports (PBIS) can’t begin to match. Do you agree or
-      disagree? Read more:
-
-
-      [view sources](https://smarthernews.com/18-06-05-god-key-discipline/)
+      <div><p>Regardless, one thing is certain: Religion can mold hearts and
+      minds in ways that suspensions, restorative justice, and Positive
+      Behavioral Intervention and Supports (PBIS) can’t begin to match. Do you
+      agree or disagree? Read more:</p><p><a
+      href="https://smarthernews.com/18-06-05-god-key-discipline/">view
+      sources</a></p></div>
     _key: card-10-1ee19767-4ca2-4300-94fa-25e5a630d4d5
 
 ---

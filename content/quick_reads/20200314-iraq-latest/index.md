@@ -22,61 +22,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## While Americans hunker down at home, four soldiers died abroad in
-      service to the nation.
-
-
-      ## The swift retaliation and why it matters.
+      <div><h2>While Americans hunker down at home, four soldiers died abroad in
+      service to the nation.</h2><h2>The swift retaliation and why it
+      matters.</h2></div>
     _key: 251ef6513039
   - order: 1
     useCheckmark: false
     body: >-
-      ## Backstory
-
-
-      Sunday: Two Marines killed in action during a raid of an ISIS complex in
-      Northern Iraq.
-
-
-      Wednesday: Two U.S. servicemembers + 1 U.K. soldier died during a rocket
-      attack outside of Baghdad. 14 others injured. The U.S. blamed
-      Iranian-backed militias.
+      <div><h2>Backstory</h2><p>Sunday: Two Marines killed in action during a
+      raid of an ISIS complex in Northern Iraq.</p><p>Wednesday: Two U.S.
+      servicemembers + 1 U.K. soldier died during a rocket attack outside of
+      Baghdad. 14 others injured. The U.S. blamed Iranian-backed
+      militias.</p></div>
     _key: 65cb92f16be5
   - order: 2
     useCheckmark: false
     body: >-
-      > “The United States will not tolerate attacks against our people, our
-      interests, or our allies.”  
-        
-      Sec. of Defense Mark Esper on an airstrike targeting five weapons storage
-      facilities the U.S. says belong to the militia that attacked U.S. and
-      coalition forces Wednesday. Sec. Esper says the same Iranian-backed group
-      is responsible for a series of other attacks.
+      <div><blockquote>“The United States will not tolerate attacks against our
+      people, our interests, or our allies.”<br><br>Sec. of Defense Mark Esper
+      on an airstrike targeting five weapons storage facilities the U.S. says
+      belong to the militia that attacked U.S. and coalition forces Wednesday.
+      Sec. Esper says the same Iranian-backed group is responsible for a series
+      of other attacks.</blockquote><p><br></p></div>
     _key: c77987f7edb9
   - order: 3
     useCheckmark: false
     body: >-
-      ## Important Context
-
-
-      * Despite the U.S. targeting and killing an Iranian military leader after
-      the death of an American contractor in December by an Iranian-backed
-      militia, a similar attack targeted Americans Wednesday.
-
-      * Despite the U.S. declaring the “defeat” of ISIS in Iraq and Syria, the
-      group reportedly is attempting to regroup in Northern Iraq.
-
-      * Bottom Line: The threats from both ISIS and Iran continue; tensions
-      simmer.
+      <div><h2>Important Context</h2><ul><li>Despite the U.S. targeting and
+      killing an Iranian military leader after the death of an American
+      contractor in December by an Iranian-backed militia, a similar attack
+      targeted Americans Wednesday.</li><li>Despite the U.S. declaring the
+      “defeat” of ISIS in Iraq and Syria, the group reportedly is attempting to
+      regroup in Northern Iraq.</li><li>Bottom Line: The threats from both ISIS
+      and Iran continue; tensions simmer.</li></ul></div>
     _key: 1c5eca6256f3
   - order: 4
     useCheckmark: true
     body: >-
-      A message from the Defense Dept after the airstrikes Friday morning in
-      Iraq: "These terror groups must cease their attacks on U.S. and coalition
-      forces or face consequences at a time and place of our choosing."
-      Meanwhile, Iran confronts one of the deadliest outbreaks of COVID-19 on
-      the planet.
+      <div><p>A message from the Defense Dept after the airstrikes Friday
+      morning in Iraq: "These terror groups must cease their attacks on U.S. and
+      coalition forces or face consequences at a time and place of our
+      choosing." Meanwhile, Iran confronts one of the deadliest outbreaks of
+      COVID-19 on the planet.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 1ead1126fcf0
 

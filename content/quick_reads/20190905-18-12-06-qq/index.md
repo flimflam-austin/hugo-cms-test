@@ -22,63 +22,57 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “To us, his was the brightest of the thousand points of light.”  
-        
-      President George W. Bush eulogizing his father by repeating one of his
-      famous lines. In accepting the Republican nomination for President in
-      1988, Pres. H.W. Bush described America, as a "nation of communities...a
-      brilliant diversity spread like stars, like a thousand points of light in
-      a broad and peaceful sky." Pres. H.W. Bush will be laid to rest Thursday
-      in Texas.
+      <blockquote>“To us, his was the brightest of the thousand points of
+      light.”<br><br>President George W. Bush eulogizing his father by repeating
+      one of his famous lines. In accepting the Republican nomination for
+      President in 1988, Pres. H.W. Bush described America, as a "nation of
+      communities...a brilliant diversity spread like stars, like a thousand
+      points of light in a broad and peaceful sky." Pres. H.W. Bush will be laid
+      to rest Thursday in Texas.</blockquote>
     _key: card-1-e9796d3c-40e5-47d4-8e4b-435ab7a70f49
   - order: 1
     useCheckmark: false
     body: >-
-      "I believe that the operational military situation is largely
-      stalemated."  
-        
-      Marine Lt. Gen. Kenneth McKenzie testifying to the Senate Armed Services
-      Committee about Afghanistan, as he seeks confirmation to head U.S. forces
-      in the Middle East. General McKenzie says if America left now, Afghan
-      security forces could not defend the country against the Taliban but
-      expressed some optimism re: peace talks with the group that just claimed
-      responsibility for killing 4 U.S. soldiers.
+      <p>"I believe that the operational military situation is largely
+      stalemated."<br><br>Marine Lt. Gen. Kenneth McKenzie testifying to the
+      Senate Armed Services Committee about Afghanistan, as he seeks
+      confirmation to head U.S. forces in the Middle East. General McKenzie says
+      if America left now, Afghan security forces could not defend the country
+      against the Taliban but expressed some optimism re: peace talks with the
+      group that just claimed responsibility for killing 4 U.S. soldiers.</p>
     _key: card-2-73d138cb-94a1-406f-a225-fed1c78a3778
   - order: 2
     useCheckmark: false
     body: >-
-      "Our American partners apparently believe that the situation has changed
-      to such an extent that the U.S. should have such weapons. What answer will
-      they have from our side? It’s simple: we’ll do it too."  
-        
-      Russian President Vladimir President addressing U.S. threats to withdraw
-      from a Cold War arms treaty that prohibits the construction of certain
-      nuclear missiles. The U.S. believes Russia is violating the treaty and
-      unless Russia shows compliance, will sever the pact. Russia denies
-      violating the deal.
+      <p>"Our American partners apparently believe that the situation has
+      changed to such an extent that the U.S. should have such weapons. What
+      answer will they have from our side? It’s simple: we’ll do it
+      too."<br><br>Russian President Vladimir President addressing U.S. threats
+      to withdraw from a Cold War arms treaty that prohibits the construction of
+      certain nuclear missiles. The U.S. believes Russia is violating the treaty
+      and unless Russia shows compliance, will sever the pact. Russia denies
+      violating the deal.</p>
     _key: card-3-bbfbc884-02ce-4d07-b4c9-43201bf9e988
   - order: 3
     useCheckmark: false
-    body: "> \"She came out on the good, on this end, and the other guy a\x14 the bad guy a\x14 didn’t… I think she’ll be inspiration to a lot of other ladies.\"  \n  \nSouth Carolina Pickens County Sheriff Rick Clark speaking about a local woman who shot and killed an escaped prison inmate who broke down her door in the middle of the night and approached her bedroom. The woman, a legal gun owner, shot the intruder once in the head and killed him."
+    body: "<blockquote>\"She came out on the good, on this end, and the other guy a\x14 the bad guy a\x14 didn’t… I think she’ll be inspiration to a lot of other ladies.\"<br><br>South Carolina Pickens County Sheriff Rick Clark speaking about a local woman who shot and killed an escaped prison inmate who broke down her door in the middle of the night and approached her bedroom. The woman, a legal gun owner, shot the intruder once in the head and killed him.</blockquote>"
     _key: card-4-c016b629-6a9e-4d97-b094-1a8ffba53b06
   - order: 4
     useCheckmark: false
     body: >-
-      > “It was a day and night difference. She got up on the bed and did a back
-      flip. That is the first time we saw her acting like she was before.”  
-        
-      Curtis Stark, owner of Olivia, a Boston terrier, burned badly in
-      California's deadliest wildfire. In an innovative new treatment, vets are
-      using the skin of tilapia (a white fish) to help heal burns on cats & dogs
-      injured by the fire. Initial reports suggest new skin, that would take
-      weeks to rejuvenate, is taking days.
+      <blockquote>“It was a day and night difference. She got up on the bed and
+      did a back flip. That is the first time we saw her acting like she was
+      before.”<br><br>Curtis Stark, owner of Olivia, a Boston terrier, burned
+      badly in California's deadliest wildfire. In an innovative new treatment,
+      vets are using the skin of tilapia (a white fish) to help heal burns on
+      cats &amp; dogs injured by the fire. Initial reports suggest new skin,
+      that would take weeks to rejuvenate, is taking days.</blockquote>
     _key: card-5-abb2bf51-abea-48a6-a725-2e9732a11a5d
   - order: 5
     useCheckmark: true
-    body: |-
-      Have a great day!
-
-      [view sources](https://smarthernews.com/18-12-06-qq/)
+    body: >-
+      <div><p>Have a great day!</p><p><a
+      href="https://smarthernews.com/18-12-06-qq/">view sources</a></p></div>
     _key: card-10-f9549556-319b-4d15-94d5-f09a8a4caacb
 
 ---

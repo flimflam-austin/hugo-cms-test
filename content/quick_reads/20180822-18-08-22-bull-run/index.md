@@ -22,74 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      RECORD WIN STREAK  
-
-      ON WALL STREET
-
-
-      ## 9 Yrs, 5 Months & 13 Days
-
-
-      Stocks on track to hit the**longest-running rally in stock market
-      history**.
-
-
-      Why the timing matters.
+      <div><p>RECORD WIN STREAK<br>ON WALL STREET </p><h2>9 Yrs, 5 Months &amp;
+      13 Days</h2><p>Stocks on track to hit the <strong>longest-running rally in
+      stock market history</strong>.</p><p>Why the timing matters.</p></div>
     _key: card-1-81df98a8-3b38-4e8d-ba16-2afce35c3599
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      * **Stocks’ “bull market”** (sustained period when stocks are rising &
-      expected to continue to rise) on track to be**longest in history**.
-
-      * Surprising after**stocks plunged 50% during the financial crisis**
-      ending March 9, 2009.
-
-      * Gains have**added trillions of dollars** to household wealth, boosting
-      the economy and retirement savings.
+      <div><h2>Why It Matters</h2><ul><li><strong>Stocks’ “bull market”</strong>
+      (sustained period when stocks are rising &amp; expected to continue to
+      rise) on track to be <strong>longest in
+      history</strong>.</li><li>Surprising after <strong>stocks plunged 50%
+      during the financial crisis</strong> ending March 9, 2009.</li><li>Gains
+      have <strong>added trillions of dollars</strong> to household wealth,
+      boosting the economy and retirement savings.</li></ul></div>
     _key: card-2-d67d61bd-26e8-4353-aa24-dc7a5215d040
   - order: 2
     useCheckmark: false
     body: >-
-      ## Important Context
-
-
-      * Last time stocks rose for this long was theA**dot-com boom** (October
-      1990 – March 2000).
-
-      * However, during the 1990s run, stocks rose 417%. That’sA**nearly 25%
-      *MORE* than this current bull market****run,**A according to LPL
-      Financial.
-
-      * Bottom line:**it’s the longest bull market, but not necessarily the
-      greatest.**
+      <div><h2>Important Context</h2><ul><li>Last time stocks rose for this long
+      was theA <strong>dot-com boom</strong> (October 1990 – March
+      2000).</li><li>However, during the 1990s run, stocks rose 417%. That’sA
+      <strong>nearly 25% *MORE* than this current bull market</strong>
+      <strong>run,</strong>A according to LPL Financial.</li><li>Bottom line:
+      <strong>it’s the longest bull market, but not necessarily the
+      greatest.</strong></li></ul></div>
     _key: card-3-2f298f59-bbff-4492-8ff0-017ddcc576a8
   - order: 3
     useCheckmark: false
     body: >-
-      > “This bull market has been breathtaking…valuations in general have
-      become stretched; however, corporate earnings have been strong, and I
+      <blockquote>“This bull market has been breathtaking…valuations in general
+      have become stretched; however, corporate earnings have been strong, and I
       believe US stocks are likely to continue to outperform in the shorter term
       given the strength of the US economy and the perceived safety of US stocks
-      in the midst of trade wars.”  
-        
-        
-      Kristina Hooper, Invesco's chief global market strategist, as the S&P 500
-      rose to a new all-time high Tuesday.
+      in the midst of trade wars.”<br><br><br>Kristina Hooper, Invesco's chief
+      global market strategist, as the S&amp;P 500 rose to a new all-time high
+      Tuesday.</blockquote>
     _key: card-4-e4734156-ad9d-4503-b236-58d2b785507b
   - order: 4
     useCheckmark: true
     body: >-
-      Strong earnings growth continues to power the stock market, but experts
-      warn investors to continue to watch trade disputes and possible higher
-      interest rates. Timing matters: the Federal Reserve, which sets interest
-      rates, meets on Friday to discuss the economy & policy.
-
-
-      [view sources](https://smarthernews.com/18-08-22-bull-run/)
+      <div><p>Strong earnings growth continues to power the stock market, but
+      experts warn investors to continue to watch trade disputes and possible
+      higher interest rates. Timing matters: the Federal Reserve, which sets
+      interest rates, meets on Friday to discuss the economy &amp;
+      policy.</p><p><a href="https://smarthernews.com/18-08-22-bull-run/">view
+      sources</a></p></div>
     _key: card-10-460f9623-72fa-4c88-b02b-deecc8a6ab56
 
 ---

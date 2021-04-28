@@ -22,67 +22,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # June 25, 1924
-
-
-      ## The Real-Life Rosie the Riveter is born.
-
-
-      Rosalind Walter *first* inspired female patriotism during WWII (and
-      beyond).
+      <div><h1>June 25, 1924</h1><h2>The Real-Life Rosie the Riveter is
+      born.</h2><p>Rosalind Walter *first* inspired female patriotism during
+      WWII (and beyond).</p><p></p><p><br></p></div>
     _key: a8980e10e21a
   - order: 1
     useCheckmark: false
     body: >-
-      ## Rosalind “Roz” Walter
-
-
-      Born in 1924, grew up in Long Island & Connecticut attending prep schools.
-
-
-      At 19, she began working as a riveter (drilling fasteners) on WWII fighter
-      planes at a factory.
-
-
-      In 1942, two men wrote a song called “Rosie the Riveter” after an article
-      highlighting her work was published.
+      <div><h2>Rosalind “Roz” Walter</h2><p>Born in 1924, grew up in Long Island
+      &amp; Connecticut attending prep schools.</p><p>At 19, she began working
+      as a riveter (drilling fasteners) on WWII fighter planes at a
+      factory.</p><p>In 1942, two men wrote a song called “Rosie the Riveter”
+      after an article highlighting her work was published.</p></div>
     _key: 5c47c3b70a41
   - order: 2
     useCheckmark: false
-    body: |-
-      > “_All the day long,_  
-      _Whether rain or shine,_  
-      _She’s a part of the assembly line._  
-      _She’s making history,_  
-      _Working for victory,_  
-      _Rosie the Riveter._  
-      _Keeps a sharp lookout for sabotage,_  
-      _Sitting up there on the fuselage._  
-      _That little girl will do more than a male will do_.”
-
-      From the 1942 song "Rosie the Riveter.”
+    body: >-
+      <div><blockquote>“<em>All the day long,</em><br><em>Whether rain or
+      shine,</em><br><em>She’s a part of the assembly line.</em><br><em>She’s
+      making history,</em><br><em>Working for victory,</em><br><em>Rosie the
+      Riveter.</em><br><em>Keeps a sharp lookout for
+      sabotage,</em><br><em>Sitting up there on the fuselage.</em><br><em>That
+      little girl will do more than a male will do</em>.”</blockquote><p>From
+      the 1942 song "Rosie the Riveter.”</p></div>
     _key: c2dcb953eca8
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      * In 1942, ***many*** attempted to depict “Rosie The Riveter” as a way to
-      recruit American women to traditionally male jobs due to a wartime labor
-      shortage. Norman Rockwell painted one particularly famous version.
-
-      * The image we ***now*** associate with “Rosie the Riveter” (1943 “We Can
-      Do It!” poster) was NOT inspired by Roz, but by another woman supporting
-      the war effort by working in factory.
+      <div><h2>Why It Matters</h2><ul><li>In 1942, *<strong>many*</strong>
+      attempted to depict “Rosie The Riveter” as a way to recruit American women
+      to traditionally male jobs due to a wartime labor shortage. Norman
+      Rockwell painted one particularly famous version.</li><li>The image we
+      *<strong>now</strong>* associate with “Rosie the Riveter” (1943 “We Can Do
+      It!” poster) was NOT inspired by Roz, but by another woman supporting the
+      war effort by working in factory.</li></ul></div>
     _key: 8f2cd0fb1038
   - order: 4
     useCheckmark: true
     body: >-
-      The wartime image of Rosie The Riveter was only used for several weeks by
-      a private company in 1942 but gained popularity in the 1980s. A lifelong
-      philanthropist, when Roz passed away at 95 in March, she was the largest
-      individual supporter of NYC's local PBS station.
+      <div><p>The wartime image of Rosie The Riveter was only used for several
+      weeks by a private company in 1942 but gained popularity in the 1980s. A
+      lifelong philanthropist, when Roz passed away at 95 in March, she was the
+      largest individual supporter of NYC's local PBS station.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 8c8819c04387
 

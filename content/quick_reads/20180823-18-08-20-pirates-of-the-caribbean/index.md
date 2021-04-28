@@ -22,87 +22,59 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # TERROR ON THE SEA
-
-
-      Political and economic crises from Venezuela to Nicaragua to Haiti have
-      given way to lawlessness and desperation.
-
-
-      Now a familiar crew of vigilantes have reappeared:  
-
-      **PIRATES**.
+      <div><h1>TERROR ON THE SEA</h1><p>Political and economic crises from
+      Venezuela to Nicaragua to Haiti have given way to lawlessness and
+      desperation.</p><p>Now a familiar crew of vigilantes have
+      reappeared:<br><strong>PIRATES</strong>.</p></div>
     _key: card-1-8c7ed393-8f55-4305-b55a-69d7076fa2e8
   - order: 1
     useCheckmark: false
     body: >-
-      ## What We Know:
-
-
-      * **What:** Attacks, including barbaric killings & muggings,A upA 163%
-      last yr vs. 2016, according to new report. 59% of incidents involve
-      robbery on yachts.
-
-      * **Where:** Predominant rise in Venezuela, but also Saint Vincent and the
-      Grenadines, St. Lucia, Nicaragua, Honduras & Haiti.
-
-      * **How Much:A** $1M in stolen belongings in 2017.
+      <div><h2>What We Know:</h2><ul><li><strong>What:</strong> Attacks,
+      including barbaric killings &amp; muggings,A upA 163% last yr vs. 2016,
+      according to new report. 59% of incidents involve robbery on
+      yachts.</li><li><strong>Where:</strong> Predominant rise in Venezuela, but
+      also Saint Vincent and the Grenadines, St. Lucia, Nicaragua, Honduras
+      &amp; Haiti.</li><li><strong>How Much:A</strong> $1M in stolen belongings
+      in 2017.</li></ul></div>
     _key: card-2-457d6688-0f07-47ba-acec-51fd4b96f352
   - order: 2
     useCheckmark: false
     body: >-
-      ## The Backstory:
-
-
-      Off the coast of Venezuela, the hot spot for piracy in the Caribbean,
-      residents struggle for survival.
-
-
-      **Desperation:** 90% of Venezuelans say they don’t have enough money to
-      eat and police are abandoning posts due to lack of pay.
-
-
-      WaPo reports: pirates are often directly involved w/corrupt officials.
+      <div><h2>The Backstory:</h2><p>Off the coast of Venezuela, the hot spot
+      for piracy in the Caribbean, residents struggle for
+      survival.</p><p><strong>Desperation:</strong> 90% of Venezuelans say they
+      don’t have enough money to eat and police are abandoning posts due to lack
+      of pay.</p><p>WaPo reports: pirates are often directly involved w/corrupt
+      officials.</p></div>
     _key: card-3-25ba6ed6-2b38-4e9f-8ff3-c385b5af965f
   - order: 3
     useCheckmark: false
     body: >-
-      > ‘This reminds me of how the problems started off the coast of eastern
-      Africa.”  
-        
-        
-        
-      Roodal Moonilal, opposition lawmaker from neighboring Trinidad and Tobago,
-      likening Venezuelan pirates to Somalia, where impoverished fisherman
-      turned to hijacking passing vessels after the country's collapse in the
-      1990s.
+      <blockquote>‘This reminds me of how the problems started off the coast of
+      eastern Africa.”<br><br><br><br>Roodal Moonilal, opposition lawmaker from
+      neighboring Trinidad and Tobago, likening Venezuelan pirates to Somalia,
+      where impoverished fisherman turned to hijacking passing vessels after the
+      country's collapse in the 1990s.</blockquote>
     _key: card-4-8526d1e5-07cf-4fb5-a0f9-20ace5f3c5d1
   - order: 4
     useCheckmark: false
     body: >-
-      Perspective:  
-
-      “I’m The Captain Now”
-
-
-      While**piracy in East Africa**bags a larger booty ($1.4B in 2017) vs.
-      Caribbean,**attacks there are on the decline** – both in incidents
-      reported & amount stolen.
-
-
-      In 2017, there wereA**54 attacks in E. Africa** while attacks in
-      theA**Caribbean jumped to 71.**
+      <div><p>Perspective:<br>“I’m The Captain Now”</p><p>While <strong>piracy
+      in East Africa </strong>bags a larger booty ($1.4B in 2017) vs. Caribbean,
+      <strong>attacks there are on the decline</strong> – both in incidents
+      reported &amp; amount stolen.</p><p>In 2017, there wereA <strong>54
+      attacks in E. Africa</strong> while attacks in theA <strong>Caribbean
+      jumped to 71.</strong></p></div>
     _key: card-5-bf474508-25cb-478c-a52d-138fc6a036c9
   - order: 5
     useCheckmark: true
     body: >-
-      Pirates are a new fear for those who make their living in the Caribbean.
-      Locals are waiting until dark or fishing closer to shore to avoid attacks.
-      Read their stories here.
-
-
-      [view
-      sources](https://smarthernews.com/18-08-20-pirates-of-the-caribbean/)
+      <div><p>Pirates are a new fear for those who make their living in the
+      Caribbean. Locals are waiting until dark or fishing closer to shore to
+      avoid attacks. Read their stories here.</p><p><a
+      href="https://smarthernews.com/18-08-20-pirates-of-the-caribbean/">view
+      sources</a></p></div>
     _key: card-10-523ccbbd-186a-4f6e-b2d5-ffa5ed0193ef
 
 ---

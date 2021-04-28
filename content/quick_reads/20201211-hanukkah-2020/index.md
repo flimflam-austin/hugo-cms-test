@@ -20,67 +20,52 @@ colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## HANUKKAH
-
-      What to know about America’s most popular Jewish holiday
+    body: >-
+      <div><h2>HANUKKAH</h2><p>What to know about America’s most popular Jewish
+      holiday</p></div>
     _key: 6884c2572622
   - order: 1
     useCheckmark: false
     body: >-
-      ## Hanukkah means “dedication” in Hebrew
-
-
-      * The story of Hanukkah does not appear in the Torah (24 books of the
-      Bible) because the events took place after it was written.
-
-      * The holiday celebrates the rededication of the**Holy Temple** in
-      Jerusalem in 2nd century BCE when, after years of suffering oppression and
-      religious persecution by the Syrian-Greeks, the Jews took back their
-      Temple.
+      <div><h2>Hanukkah means “dedication” in Hebrew</h2><ul><li>The story of
+      Hanukkah does not appear in the Torah (24 books of the Bible) because the
+      events took place after it was written.</li><li>The holiday celebrates the
+      rededication of the <strong>Holy Temple</strong> in Jerusalem in 2nd
+      century BCE when, after years of suffering oppression and religious
+      persecution by the Syrian-Greeks, the Jews took back their
+      Temple.</li></ul></div>
     _key: c7ed93691a7a
   - order: 2
     useCheckmark: false
     body: >-
-      ## The Miracle of Hanukkah  
-
-
-
-      * The Jews had just one jar of oil to light the Temple menorah. It was
-      expected to last only one day, but it lasted 8 — leaving them time to find
-      more oil.
-
-      * Hanukkah lasts eight nights.
-
-      * The holiday is celebrated by lighting candles on a
-      nine-branched**menorah**.
-
-      * One more candle is lit each night until all eight are lit on the final
-      night.
-
-      * The middle (“helper”) candle is used to light the other candles.
+      <div><h2>The Miracle of Hanukkah<br></h2><ul><li>The Jews had just one jar
+      of oil to light the Temple menorah. It was expected to last only one day,
+      but it lasted 8 — leaving them time to find more oil.</li><li>Hanukkah
+      lasts eight nights.</li><li>The holiday is celebrated by lighting candles
+      on a nine-branched <strong>menorah</strong>.</li><li>One more candle is
+      lit each night until all eight are lit on the final night.</li><li>The
+      middle (“helper”) candle is used to light the other
+      candles.</li></ul></div>
     _key: 9444f0e1e604
   - order: 3
     useCheckmark: false
     body: >-
-      ## Hanukkah Today
-
-
-      * Though a relatively minor Jewish holiday compared to others, such as
-      Rosh Hashanah (Jewish New Year) & Yom Kippur (Day of Atonement), Hanukkah
-      is widely celebrated.
-
-      * Besides lighting the menorah nightly, Jewish people eat foods cooked in
-      oil such as**sufganiyot** (jelly doughnuts) &**latkes** (potato pancakes),
-      & children play a**dreidel** (a 4-sided spinning top) game.
+      <div><h2>Hanukkah Today</h2><ul><li>Though a relatively minor Jewish
+      holiday compared to others, such as Rosh Hashanah (Jewish New Year) &amp;
+      Yom Kippur (Day of Atonement), Hanukkah is widely
+      celebrated.</li><li>Besides lighting the menorah nightly, Jewish people
+      eat foods cooked in oil such as <strong>sufganiyot</strong> (jelly
+      doughnuts) &amp; <strong>latkes</strong> (potato pancakes), &amp; children
+      play a <strong>dreidel</strong> (a 4-sided spinning top)
+      game.</li></ul></div>
     _key: e9befff4775d
   - order: 4
     useCheckmark: true
     body: >-
-      ONE MORE THING: How do you spell it? Depends on whom you ask. According to
-      the Oxford English Dictionary, there are 24 English spellings of the
-      holiday; the most popular ones seem to be Hanukkah, Chanukah, Hanukah, &
-      Chanukkah.
+      <div><p>ONE MORE THING: How do you spell it? Depends on whom you ask.
+      According to the Oxford English Dictionary, there are 24 English spellings
+      of the holiday; the most popular ones seem to be Hanukkah, Chanukah,
+      Hanukah, &amp; Chanukkah.</p><p></p></div>
     citation: VIEW SOURCES
     _key: ca57ba59cb0d
 

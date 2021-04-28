@@ -22,91 +22,63 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # ERRORS, NOT BIAS
-
-
-      ## FBI Faces Judgment Day in Clinton Email Probe
-
-
-      The Dept of Justice’s watchdog report blasts Former FBI Director James
-      Comey & the bureau’s investigation into Hillary Clinton’s emails during
-      the 2016 presidential election.
-
-
-      500+ pages condensed.
+      <div><h1>ERRORS, NOT BIAS</h1><h2>FBI Faces Judgment Day in Clinton Email
+      Probe</h2><p>The Dept of Justice’s watchdog report blasts Former FBI
+      Director James Comey &amp; the bureau’s investigation into Hillary
+      Clinton’s emails during the 2016 presidential election.</p><p>500+ pages
+      condensed.</p></div>
     _key: card-1-804965c1-6e36-4d80-8a35-29370f328600
   - order: 1
     useCheckmark: false
     body: >-
-      ## WATCHDOG’S FINDINGS:
-
-
-      * **Fmr.****FBI Dir. James Comey was found ‘insubordinate”** in holding a
-      2016 news conf. announcing FBI would not recommend criminal charges in
-      Clinton investigation.
-
-      * Criticized Comey’s decision to notify Congress FBI was reopening Clinton
-      email probe 9 days before election.
-
-      * Comey’s actions**“negatively impacted the perception of FBI.”**
+      <div><h2>WATCHDOG’S FINDINGS:</h2><ul><li><strong>Fmr.</strong>
+      <strong>FBI Dir. James Comey was found ‘insubordinate”</strong> in holding
+      a 2016 news conf. announcing FBI would not recommend criminal charges in
+      Clinton investigation.</li><li>Criticized Comey’s decision to notify
+      Congress FBI was reopening Clinton email probe 9 days before
+      election.</li><li>Comey’s actions <strong>“negatively impacted the
+      perception of FBI.”</strong></li></ul></div>
     _key: card-2-144affda-2f06-4042-83ec-af7860d0d23a
   - order: 2
     useCheckmark: false
     body: >-
-      > Watchdog’s report also found**several instances of FBI officials
-      criticizing Trump**,A but says**biases did not compromise FBI’s work**.  
-        
-      Example: texts between FBI agents Peter Strzok & Lisa Page:  
-
-
-
-      * Page to Strzok: “[Trump’s] not ever going to become president, right?
-      Right!?”
-
-      * Strzok: “No. No he won’t. We’ll stop it.”
+      <div><blockquote>Watchdog’s report also found <strong>several instances of
+      FBI officials criticizing Trump</strong>,A but says <strong>biases did not
+      compromise FBI’s work</strong>.<br><br>Example: texts between FBI agents
+      Peter Strzok &amp; Lisa Page:<br></blockquote><ul><li>Page to Strzok:
+      “[Trump’s] not ever going to become president, right?
+      Right!?”</li><li>Strzok: “No. No he won’t. We’ll stop it.”</li></ul></div>
     _key: card-3-300d5ae7-e83a-4c40-b8f3-655470958124
   - order: 3
     useCheckmark: false
     body: >-
-      _“I do not agree with all of the inspector general’s conclusions, but I
-      respect the work of his office and salute its professionalism.”_  
-
-      Fmr. FBI Dir. James Comey  
-        
-      _“(Report) reaffirmed the president’s suspicions about Comey’s conduct and
-      the political bias among some of the members of the FBI.”A_  
-
-      Press Secretary Sarah Sanders  
-        
-      _“But my emails.”_  
-
-      Hillary Clinton tweet
+      <p><em>“I do not agree with all of the inspector general’s conclusions,
+      but I respect the work of his office and salute its
+      professionalism.”</em><br>Fmr. FBI Dir. James Comey<br><br><em>“(Report)
+      reaffirmed the president’s suspicions about Comey’s conduct and the
+      political bias among some of the members of the FBI.”A</em><br>Press
+      Secretary Sarah Sanders<br><br><em>“But my emails.”</em><br>Hillary
+      Clinton tweet</p>
     _key: card-4-a5e109e3-5bb6-448a-86f6-2561ca831ec8
   - order: 4
     useCheckmark: false
     body: >-
-      ## WHY IT MATTERS:
-
-
-      18-month investigation reveals how entangled FBI was in 2016 election.
-
-
-      ConservativesA challenged the FBI’s trustworthiness, letting Clinton off
-      the hook & Liberals blamed the bureau for mishandling the Clinton probe,
-      costing her the election.
-
-
-      **Bottom line:** Watchdog’s findings give neither side total vindication.
+      <div><h2>WHY IT MATTERS:</h2><p>18-month investigation reveals how
+      entangled FBI was in 2016 election.</p><p>ConservativesA challenged the
+      FBI’s trustworthiness, letting Clinton off the hook &amp; Liberals blamed
+      the bureau for mishandling the Clinton probe, costing her the
+      election.</p><p><strong>Bottom line:</strong> Watchdog’s findings give
+      neither side total vindication.</p></div>
     _key: card-5-078823f1-3bb8-46c8-83a2-02895cbd75e5
   - order: 5
     useCheckmark: true
     body: >-
-      The Inspector General's report made no recommendation of leveling any
-      charges against Comey, but it gave both Democrats and Republicans plenty
-      of ammunition to criticize him & the FBI. Click for what they are saying.
-
-
-      [view sources](https://smarthernews.com/18-06-15-doj-on-clinton-probe/)
+      <div><p>The Inspector General's report made no recommendation of leveling
+      any charges against Comey, but it gave both Democrats and Republicans
+      plenty of ammunition to criticize him &amp; the FBI. Click for what they
+      are saying.</p><p><a
+      href="https://smarthernews.com/18-06-15-doj-on-clinton-probe/">view
+      sources</a></p></div>
     _key: card-10-1f62f6ee-9d36-4517-b424-36c1af7aa605
 
 ---

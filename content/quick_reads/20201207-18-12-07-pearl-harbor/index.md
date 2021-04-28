@@ -22,84 +22,57 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## AMERICA ATTACKED
-
-
-      A bright, sunny, Sunday morning in 1941 the Hawaiian air became black with
-      smoke.
-
-
-      **7:55 a.m.**  
-
-      **Japanese attack Pearl Harbor**
+      <div><h2>AMERICA ATTACKED</h2><p>A bright, sunny, Sunday morning in 1941
+      the Hawaiian air became black with smoke.</p><p><strong>7:55
+      a.m.</strong><br><strong>Japanese attack Pearl Harbor</strong></p></div>
     _key: card-1-6b98a393-692c-41b7-b340-cff4bbe8b6e7
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why Pearl Harbor?
-
-
-      **Japanese wanted to cripple U.S. Navy** (but didn’t succeed):
-
-
-      * Major aircraft carriers at sea
-
-      * Shallow waters allowed for recovery of damaged ships.
-
-      * Japanese missed strategic targets like fuel depots.
-
-      * **2,403 Americans died**; 1,177 on USS Arizona. 900+ bodies remain
-      entombed underwater in the ship.
+      <div><h2>Why Pearl Harbor?</h2><p><strong>Japanese wanted to cripple U.S.
+      Navy</strong> (but didn’t succeed):</p><ul><li>Major aircraft carriers at
+      sea</li><li>Shallow waters allowed for recovery of damaged
+      ships.</li><li>Japanese missed strategic targets like fuel
+      depots.</li><li><strong>2,403 Americans died</strong>; 1,177 on USS
+      Arizona. 900+ bodies remain entombed underwater in the
+      ship.</li></ul></div>
     _key: card-2-54766390-2750-4c39-873e-80dc0d2f00e2
   - order: 2
     useCheckmark: false
     body: >-
-      ## A First in 2018
-
-
-      > 2018 is the first year, in recent memory, survivors from USS Arizona
-      will not attend an annual memorial at Pearl Harbor.  
-        
-        
-        
-      The final 5 living survivors, all in their 90s, are unable to travel.  
-        
-        
-        
-      _“My doctor said,’ Lou, damn it, you’re old.'”__Lou Conter, 97, a pilot,
-      explaining why he isn’t traveling.
+      <div><h2>A First in 2018</h2><blockquote>2018 is the first year, in recent
+      memory, survivors from USS Arizona will not attend an annual memorial at
+      Pearl Harbor.<br><br><br><br>The final 5 living survivors, all in their
+      90s, are unable to travel.<br><br><br><br>_“My doctor said,’ Lou, damn it,
+      you’re old.'”__Lou Conter, 97, a pilot, explaining why he isn’t
+      traveling.</blockquote></div>
     _key: card-3-e27d64bf-24b7-406c-b419-5f2700be9ea8
   - order: 3
     useCheckmark: false
     body: >-
-      ## Not Just Soldiers Impacted
-
-
-      * **68 civilians died** in attack on Pearl Harbor, including**11 children
-      under age of 16**.
-
-      * Many civilians killed not by the Japanese but friendly fire, as bombs
-      targeting Japanese fell elsewhere on the island.
-
-      * **Real Fear:** One mother, fearing atrocities of Japanese told an
-      American soldier to shoot her hiding family if Japanese invaded.
+      <div><h2>Not Just Soldiers Impacted</h2><ul><li><strong>68 civilians
+      died</strong> in attack on Pearl Harbor, including <strong>11 children
+      under age of 16</strong>.</li><li>Many civilians killed not by the
+      Japanese but friendly fire, as bombs targeting Japanese fell elsewhere on
+      the island.</li><li><strong>Real Fear:</strong> One mother, fearing
+      atrocities of Japanese told an American soldier to shoot her hiding family
+      if Japanese invaded.</li></ul></div>
     _key: card-4-83b73dcc-ffe3-4b42-bb42-6a6bb9039561
   - order: 4
     useCheckmark: false
     body: >-
-      “I saw a formation of black planes diving straight into the ocean off
+      <p>“I saw a formation of black planes diving straight into the ocean off
       Pearl Harbor. The blue sky was punctured with anti-aircraft smoke puffs…I
-      saw a rooftop fly into the air like a pasteboard movie set.”  
-        
-      Elizabeth McIntosh, a journalist for Honolulu Star-Bulletin wrote an
-      article specifically to tell women about the atrocities of the Pearl
-      Harbor attack. Her editor refused to publish it because of its graphic
-      nature. The Washington Post printed it 71 years later (read it in full on
-      our source page).
+      saw a rooftop fly into the air like a pasteboard movie
+      set.”<br><br>Elizabeth McIntosh, a journalist for Honolulu Star-Bulletin
+      wrote an article specifically to tell women about the atrocities of the
+      Pearl Harbor attack. Her editor refused to publish it because of its
+      graphic nature. The Washington Post printed it 71 years later (read it in
+      full on our source page).</p>
     _key: card-5-1fb6a2fa-69e9-491b-b725-70fa6f0da071
   - order: 5
     useCheckmark: true
-    body: "December 7, 1941a\x14a date which will live in infamy - a famous phrase by Pres. Roosevelt uttered the day *after* the Pearl Harbor attack. Japan planned the attack while all along engaging in diplomatic talks with America. Listen to the speech:\n\n[view sources](https://smarthernews.com/18-12-07-pearl-harbor/)"
+    body: "<div><p>December 7, 1941a\x14a date which will live in infamy - a famous phrase by Pres. Roosevelt uttered the day *after* the Pearl Harbor attack. Japan planned the attack while all along engaging in diplomatic talks with America. Listen to the speech:</p><p><a href=\"https://smarthernews.com/18-12-07-pearl-harbor/\">view sources</a></p></div>"
     _key: card-10-c6638dc9-974b-46ed-a794-2e517145b878
 
 ---

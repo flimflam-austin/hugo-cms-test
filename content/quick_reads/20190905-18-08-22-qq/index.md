@@ -22,56 +22,45 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      >   
-
-      "I remember the wind being the strongest force of nature I’ve ever
-      witnessed and probably the scariest sounds I’ve ever heard in my life.”  
-        
-        
-      Kauai resident Mike Miranda, recalling the last devastating hurricane to
-      hit the islands in 1992, as Hurricane Lane approaches. The path of Lane, a
-      Category 5 hurricane, remains uncertain but has the Hawaiian islands in
-      its path for now.
+      <blockquote><br>"I remember the wind being the strongest force of nature
+      I’ve ever witnessed and probably the scariest sounds I’ve ever heard in my
+      life.”<br><br><br>Kauai resident Mike Miranda, recalling the last
+      devastating hurricane to hit the islands in 1992, as Hurricane Lane
+      approaches. The path of Lane, a Category 5 hurricane, remains uncertain
+      but has the Hawaiian islands in its path for now.</blockquote>
     _key: card-1-b318b4f0-7009-4027-9bf2-7b57fda682fd
   - order: 1
     useCheckmark: false
     body: >-
-      > "We are angry that a broken immigration system allowed a predator like
-      this to live in our community, and we will do all we can to bring justice
-      to Mollie’s killer.”  
-        
-        
-      Iowa Governor Kim Reynolds (R), as authorities reveal missing Univ. of
-      Iowa student Mollie Tibbetts (20) was found dead. An illegal immigrant
-      from Mexico confessed to her kidnapping & murder.
+      <blockquote>"We are angry that a broken immigration system allowed a
+      predator like this to live in our community, and we will do all we can to
+      bring justice to Mollie’s killer.”<br><br><br>Iowa Governor Kim Reynolds
+      (R), as authorities reveal missing Univ. of Iowa student Mollie Tibbetts
+      (20) was found dead. An illegal immigrant from Mexico confessed to her
+      kidnapping &amp; murder.</blockquote>
     _key: card-2-429acd90-e355-4fb9-9694-0ea22fb6e00b
   - order: 2
     useCheckmark: false
     body: >-
-      > “…DUNCAN HUNTER told MARGARET HUNTER that he was planning to buy Hawaii
-      shorts but had run out of money, she counseled him to buy the shorts at a
-      golf pro shop so that they could falsely describe the purchase later as
-      some [golf] balls for the wounded warriors.”  
-        
-        
-      Federal indictment of Congressman Duncan Hunter (R-CA) & his wife,
-      Margaret. Hunter is a veteran & often championed veterans causes.
+      <blockquote>“…DUNCAN HUNTER told MARGARET HUNTER that he was planning to
+      buy Hawaii shorts but had run out of money, she counseled him to buy the
+      shorts at a golf pro shop so that they could falsely describe the purchase
+      later as some [golf] balls for the wounded warriors.”<br><br><br>Federal
+      indictment of Congressman Duncan Hunter (R-CA) &amp; his wife, Margaret.
+      Hunter is a veteran &amp; often championed veterans causes.</blockquote>
     _key: card-3-7eaa7786-aa00-44f2-84df-a366c33a1e6c
   - order: 3
     useCheckmark: false
     body: >-
-      > “Get ready for the best semester of your life.”  
-        
-        
-        
-      The dating app, Tinder, announcing its new college dating service for
-      those with an ".edu" email address called "Tinder U." This is part of a
-      bigger trend for companies like Tinder and Facebook to attract younger
-      users.
+      <blockquote>“Get ready for the best semester of your
+      life.”<br><br><br><br>The dating app, Tinder, announcing its new college
+      dating service for those with an ".edu" email address called "Tinder U."
+      This is part of a bigger trend for companies like Tinder and Facebook to
+      attract younger users.</blockquote>
     _key: card-4-575719a4-7fbc-477c-a8fc-b2e7a9ba662b
   - order: 4
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-08-22-qq/)'
+    body: <p><a href="https://smarthernews.com/18-08-22-qq/">view sources</a></p>
     _key: card-10-594242bd-5cef-4ddb-9bfb-348f03881b11
 
 ---

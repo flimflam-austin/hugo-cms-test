@@ -21,59 +21,38 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## “Worst Humanitarian Crisis In The World”
-
-      > Some of America’s most dangerous enemies live there.  
-        
-        
-        
-      Will peace talks make us safer?
-
-      Why Yemen Matters
+    body: >-
+      <div><h2>“Worst Humanitarian Crisis In The World”</h2><blockquote>Some of
+      America’s most dangerous enemies live there.<br><br><br><br>Will peace
+      talks make us safer?</blockquote><p>Why Yemen Matters</p></div>
     _key: card-1-c8e884f5-3f70-4d97-9013-f30dfe140833
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why Yemen Matters
-
-
-      > Unstable country providesA home for terrorists to fester & launch
-      attacks.  
-        
-      Al-Qaeda in the Arabian Penniusula” (AQAP) calls Yemen home.  
-        
-      AQ cleric Anwar al-Awlaki found refuge in Yemen, as did al-Qaeda’s lead
-      bomb maker who helped launch the so-called underwear bomber.
+      <div><h2>Why Yemen Matters</h2><blockquote>Unstable country providesA home
+      for terrorists to fester &amp; launch attacks.<br><br>Al-Qaeda in the
+      Arabian Penniusula” (AQAP) calls Yemen home.<br><br>AQ cleric Anwar
+      al-Awlaki found refuge in Yemen, as did al-Qaeda’s lead bomb maker who
+      helped launch the so-called underwear bomber.</blockquote></div>
     _key: card-2-a8a3125e-9792-4daa-9996-96ca2e554545
   - order: 2
     useCheckmark: false
     body: >-
-      ## What’s Happening
-
-
-      A civil war rages inside Yemen: “Houthi”A Rebels vs. Yemeni gov’t.
-
-
-      U.N.-led talks between the 2 sides take place in Geneva this week.
-
-
-      Rebels backed by Iran; Saudis back the Yemeni gov’t (as does U.S.).
-
-
-      **Big Question:** Do talks help the 4-year conflict or make situation
-      worse?
+      <div><h2>What’s Happening</h2><p>A civil war rages inside Yemen: “Houthi”A
+      Rebels vs. Yemeni gov’t.</p><p>U.N.-led talks between the 2 sides take
+      place in Geneva this week.</p><p>Rebels backed by Iran; Saudis back the
+      Yemeni gov’t (as does U.S.).</p><p><strong>Big Question:</strong> Do talks
+      help the 4-year conflict or make situation worse?</p></div>
     _key: card-3-d570d590-34d8-48d9-838b-85b68915a3c6
   - order: 3
     useCheckmark: true
     body: >-
-      The U.N. described the conditions in Yemen as an "apocalypse." Millions
-      don't have basic needs. U.S. Defense Secretary recently said America's
-      support of Saudi Arabia has to include an effort to avoid civilian
-      casualties.
-
-
-      [view sources](https://smarthernews.com/18-08-18-why-yemen-matters/)
+      <div><p>The U.N. described the conditions in Yemen as an "apocalypse."
+      Millions don't have basic needs. U.S. Defense Secretary recently said
+      America's support of Saudi Arabia has to include an effort to avoid
+      civilian casualties.</p><p><a
+      href="https://smarthernews.com/18-08-18-why-yemen-matters/">view
+      sources</a></p></div>
     _key: card-10-cfc86e83-0b6c-4dca-a0f0-8e52fa02abbb
 
 ---

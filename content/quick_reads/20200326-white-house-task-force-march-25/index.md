@@ -21,71 +21,63 @@ colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # White House  
-      COVID-19 Task Force
-
-      WHAT WE LEARNED TODAY
+    body: >-
+      <div><h1>White House<br>COVID-19 Task Force</h1><p>WHAT WE LEARNED
+      TODAY</p><p><br></p></div>
     _key: 248f5837ee96
   - order: 1
     useCheckmark: false
     body: >-
-      > “…devices that anesthesiologists use for outpatient surgery can be
-      converted with a change of a single vent to a very useful ventilator.”
-
-
-      Vice President Mike Pence says there are tens of thousands of devices that
-      can be converted to help struggling communities. Dr. Birx added that since
-      elective surgeries have been postponed, devices (& anesthesiologists who
-      know how to use them) may be reallocated to help areas in need.
+      <div><blockquote>“…devices that anesthesiologists use for outpatient
+      surgery can be converted with a change of a single vent to a very useful
+      ventilator.”</blockquote><p>Vice President Mike Pence says there are tens
+      of thousands of devices that can be converted to help struggling
+      communities. Dr. Birx added that since elective surgeries have been
+      postponed, devices (&amp; anesthesiologists who know how to use them) may
+      be reallocated to help areas in need.</p></div>
     _key: 0bda9b69b9f4
   - order: 2
     useCheckmark: false
     body: >-
-      > “The numbers that have been put out there are actually very frightening
-      to people.”
-
-
-      Dr. Deborah Birx addressing some of the estimates of those potentially
-      ravaged by COVID-19. She emphasized attention-grabbing theoretical models
-      often look at an outbreak's course spanning several "cycles" without any
-      widespread public health preventative measures, and that "we know that
-      every American is doing something."
+      <div><blockquote>“The numbers that have been put out there are actually
+      very frightening to people.”</blockquote><p>Dr. Deborah Birx addressing
+      some of the estimates of those potentially ravaged by COVID-19. She
+      emphasized attention-grabbing theoretical models often look at an
+      outbreak's course spanning several "cycles" without any widespread public
+      health preventative measures, and that "we know that every American is
+      doing something."</p></div>
     _key: c1277fa39b0a
   - order: 3
     useCheckmark: false
     body: >-
-      > “How many deaths are acceptable to me? None.”
-
-
-      Pres. Trump responding to a question about whether he would want to test
-      every single American in order to isolate those infected - the President
-      said tests should be administered state-to-state to determine a course of
-      action. Members of the Task Force emphasized the need to get more detailed
-      data from locales to determine needs. Today more than half of the new and
-      established U.S. cases are in four counties in the New York metropolitan
-      area.
+      <div><blockquote>“How many deaths are acceptable to me?
+      None.”</blockquote><p>Pres. Trump responding to a question about whether
+      he would want to test every single American in order to isolate those
+      infected - the President said tests should be administered state-to-state
+      to determine a course of action. Members of the Task Force emphasized the
+      need to get more detailed data from locales to determine needs. Today more
+      than half of the new and established U.S. cases are in four counties in
+      the New York metropolitan area.</p></div>
     _key: 1993796f416e
   - order: 4
     useCheckmark: false
     body: >-
-      > “Our Chinese colleagues are very concerned… what they’re starting to
-      see, as they’re relaxing the constraints on travel, that they’re getting
-      imported cases.”
-
-
-      Dr. Anthony Fauci said a conference call with the World Health
-      Organization revealed a warning about releasing constraints to help
-      prevent the spread of COVID-19 too early. The federal gov't campaign - "15
-      days to Slow the Spread" - ends Monday. Next steps remain TBD.
+      <div><blockquote>“Our Chinese colleagues are very concerned… what they’re
+      starting to see, as they’re relaxing the constraints on travel, that
+      they’re getting imported cases.”</blockquote><p>Dr. Anthony Fauci said a
+      conference call with the World Health Organization revealed a warning
+      about releasing constraints to help prevent the spread of COVID-19 too
+      early. The federal gov't campaign - "15 days to Slow the Spread" - ends
+      Monday. Next steps remain TBD.</p></div>
     _key: 26cb216ee501
   - order: 5
     useCheckmark: true
     body: >-
-      Dr. Birx says the number of new cases per day in the New York City has
-      been "relatively constant" over the last 3 days, showing the importance of
-      public health measures. Officials want to see constant or lower numbers as
-      a sign public health measures *may* be working.
+      <div><p>Dr. Birx says the number of new cases per day in the New York City
+      has been "relatively constant" over the last 3 days, showing the
+      importance of public health measures. Officials want to see constant or
+      lower numbers as a sign public health measures *may* be
+      working.</p><p></p></div>
     citation: VIEW SOURCES
     _key: e8dd4e4727dd
 

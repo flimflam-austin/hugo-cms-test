@@ -22,24 +22,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“It’s not that we have to agree. It’s not that we have to believe the
-      same things. But we have to be in a relationship that allows society to
-      function_.”
-
-
-      Rev. Dr. Herbert Sprouse
+      <div><blockquote><em>“It’s not that we have to agree. It’s not that we
+      have to believe the same things. But we have to be in a relationship that
+      allows society to function</em>.”</blockquote><p>Rev. Dr. Herbert
+      Sprouse</p></div>
     citation: Rev. Dr. Herbert Sprouse
     _key: card-1-7d733d68-f6ea-4a18-a8b8-d21ee9be11d4
   - order: 1
     useCheckmark: true
     body: >-
-      Rev. Dr. Sprouse is one member of a bipartisan civilian group called
-      "Politics, Facts and Civility" where Democrats and Republicans meet
+      <div><p>Rev. Dr. Sprouse is one member of a bipartisan civilian group
+      called "Politics, Facts and Civility" where Democrats and Republicans meet
       periodically to peacefully discuss their political differences. The group
-      sits in a largely Republican county in Pennsylvania - a swing state.
-
-
-      [view sources](https://smarthernews.com/18-10-03-qtd/)
+      sits in a largely Republican county in Pennsylvania - a swing
+      state.</p><p><a href="https://smarthernews.com/18-10-03-qtd/">view
+      sources</a></p></div>
     _key: card-10-908bc9cb-33f2-4667-af98-0de8feadf10b
 
 ---

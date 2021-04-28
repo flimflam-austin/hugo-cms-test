@@ -22,59 +22,45 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “They obviously liked the metal festival.”  
-        
-        
-        
-      German police spokesman, reacting to the escape of two elderly men from a
-      nursing home in order to attend the Wacken Open Air heavy metal festival.
-      They were found at 3 a.m.
-
-
-      Rock On
+      <div><blockquote>“They obviously liked the metal
+      festival.”<br><br><br><br>German police spokesman, reacting to the escape
+      of two elderly men from a nursing home in order to attend the Wacken Open
+      Air heavy metal festival. They were found at 3 a.m.</blockquote><p>Rock
+      On</p></div>
     _key: card-1-ee269cb9-92fe-487f-9269-70a19f2cf49a
   - order: 1
     useCheckmark: false
     body: >-
-      > "That’s not realistic. I can’t do that."  
-        
-        
-      Neelam Vashi, assistant professor of dermatology at Boston University
-      School of Medicine, stating her reaction when people make requests to look
-      like their filtered and edited social media photographs. She co-authored a
-      piece addressing: ‘Snapchat dysmorphia.
+      <blockquote>"That’s not realistic. I can’t do that."<br><br><br>Neelam
+      Vashi, assistant professor of dermatology at Boston University School of
+      Medicine, stating her reaction when people make requests to look like
+      their filtered and edited social media photographs. She co-authored a
+      piece addressing: ‘Snapchat dysmorphia.</blockquote>
     _key: card-2-8cac5419-c685-4f9e-ad36-c44747afc957
   - order: 2
     useCheckmark: false
     body: >-
-      > “Look, we have a heavy heart. Our souls are burdened. We are a better
-      city."  
-        
-        
-        
-      Chicago Mayor Rahm Emanuel reacting to this weekend's 12 fatal and 63
-      non-fatal shootings in America's third-largest city.
+      <blockquote>“Look, we have a heavy heart. Our souls are burdened. We are a
+      better city."<br><br><br><br>Chicago Mayor Rahm Emanuel reacting to this
+      weekend's 12 fatal and 63 non-fatal shootings in America's third-largest
+      city.</blockquote>
     _key: card-3-cc26ad51-32fe-42f9-b221-b2120b7f3097
   - order: 3
     useCheckmark: false
     body: >-
-      > “Yes.”  
-        
-        
-      Rick Gates when asked by prosecutors about whether he committed crimes
-      with his former business associate, Paul Manafort. Gates is testifying
-      during the first of two federal criminal cases against his co-defendant,
-      Paul Manafort, Pres. Trump's former campaign manager.
-
-
-      [SHN Refresher](https://smarthernews.com/18-07-31-manafort/)
+      <div><blockquote>“Yes.”<br><br><br>Rick Gates when asked by prosecutors
+      about whether he committed crimes with his former business associate, Paul
+      Manafort. Gates is testifying during the first of two federal criminal
+      cases against his co-defendant, Paul Manafort, Pres. Trump's former
+      campaign manager.</blockquote><p><a
+      href="https://smarthernews.com/18-07-31-manafort/">SHN
+      Refresher</a></p></div>
     _key: card-4-5f4fce20-2763-4804-b83a-81c11f56509a
   - order: 4
     useCheckmark: true
-    body: |-
-      Have a great day!
-
-      [view sources](https://smarthernews.com/18-08-07qq/)
+    body: >-
+      <div><p>Have a great day!</p><p><a
+      href="https://smarthernews.com/18-08-07qq/">view sources</a></p></div>
     _key: card-10-2f051e66-eaf3-4aae-a769-c76b81361a10
 
 ---

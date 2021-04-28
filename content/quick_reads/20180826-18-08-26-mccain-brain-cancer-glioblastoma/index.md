@@ -22,68 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # GLIOBLASTOMA
-
-
-      Sen. John McCain fell victim to one of the most common and deadliest of
-      malignant primary brain tumors.
-
-
-      What is it?
+      <div><h1>GLIOBLASTOMA</h1><p>Sen. John McCain fell victim to one of the
+      most common and deadliest of malignant primary brain tumors.</p><p>What is
+      it?</p></div>
     _key: card-1-c2e74a5e-35e2-4dea-b6e8-435aa4d95c60
   - order: 1
     useCheckmark: false
     body: >-
-      ## Glioblastoma (GBM) 101
-
-
-      * **Exact cause is unknown**
-
-      * Found in the**brain or spinal cord**
-
-      * Represents about**15% of all primary brain tumors**
-
-      * VERY aggressive type of brain tumor, but it usually**does not spread**
-      to other parts of the body
-
-      * Patients typically undergo**surgery** to remove as much of the tumor as
-      possible, followed by**radiation** and/or**chemotherapy**
+      <div><h2>Glioblastoma (GBM) 101</h2><ul><li><strong>Exact cause is
+      unknown</strong></li><li>Found in the <strong>brain or spinal
+      cord</strong></li><li>Represents about <strong>15% of all primary brain
+      tumors</strong></li><li>VERY aggressive type of brain tumor, but it
+      usually <strong>does not spread</strong> to other parts of the
+      body</li><li>Patients typically undergo <strong>surgery</strong> to remove
+      as much of the tumor as possible, followed by <strong>radiation</strong>
+      and/or <strong>chemotherapy</strong></li></ul></div>
     _key: card-2-0b6d65f4-e273-487d-9735-4163026fee8a
   - order: 2
     useCheckmark: false
     body: >-
-      ## Sen. McCain is NOT the first public figure to suffer from glioblastoma
-
-
-      * In 2009, McCain’s Senate colleague, Ted Kennedy (D-MA), died from the
-      disease.
-
-      * In 2015, Beau Biden, son of VP Joe Biden, died at 42.
-
-      * **More than 12,000 cases diagnosed last year in the U.S**. – only 10% of
-      patients survive longer than 5 years.
+      <div><h2>Sen. McCain is NOT the first public figure to suffer from
+      glioblastoma</h2><ul><li>In 2009, McCain’s Senate colleague, Ted Kennedy
+      (D-MA), died from the disease.</li><li>In 2015, Beau Biden, son of VP Joe
+      Biden, died at 42.</li><li><strong>More than 12,000 cases diagnosed last
+      year in the U.S</strong>. – only 10% of patients survive longer than 5
+      years.</li></ul></div>
     _key: card-3-4804482f-2749-44f2-9a66-93946443248d
   - order: 3
     useCheckmark: false
     body: >-
-      “He was good company, excellent company. I think I’m going to miss him
+      <p>“He was good company, excellent company. I think I’m going to miss him
       more than I can say. We disagreed on most issues, but I admitted — but I
       admired his passion for his convictions, his patience with the hard and
       sometimes dull work of legislating, and his uncanny sense for when
-      differences could be bridged and his cause advanced by degrees.”  
-        
-        
-      Sen. McCain at Sen. Kennedy's Memorial Service, August 2009
+      differences could be bridged and his cause advanced by
+      degrees.”<br><br><br>Sen. McCain at Sen. Kennedy's Memorial Service,
+      August 2009</p>
     _key: card-4-b8d3fc37-3b83-4403-a311-d5d7003abf29
   - order: 4
     useCheckmark: true
     body: >-
-      U.S. senators Ted Kennedy and John McCain died on August 25 (Kennedy in
-      2009 and McCain in 2018) from glioblastoma.
-
-
-      [view
-      sources](https://smarthernews.com/18-08-26-mccain-brain-cancer-glioblastoma/)
+      <div><p>U.S. senators Ted Kennedy and John McCain died on August 25
+      (Kennedy in 2009 and McCain in 2018) from glioblastoma.</p><p><a
+      href="https://smarthernews.com/18-08-26-mccain-brain-cancer-glioblastoma/">view
+      sources</a></p></div>
     _key: card-10-0279bdf5-6a57-4fca-b10b-742308182370
 
 ---

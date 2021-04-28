@@ -22,20 +22,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “…A_we work for a just and a humane and a decent society, where
-      everybody has a chance to amount to something. And where we don’t give
-      handouts, but we give hands-up, so that people can grow._“
+      <blockquote>“…A <em>we work for a just and a humane and a decent society,
+      where everybody has a chance to amount to something. And where we don’t
+      give handouts, but we give hands-up, so that people can
+      grow.</em>“</blockquote>
     citation: John Dingell
     _key: card-1-28a79609-e882-49b3-a9a0-5959c3b963dd
   - order: 1
     useCheckmark: true
     body: >-
-      On Thursday, former U.S. Representative John Dingell, the longest-serving
-      member of Congress in America's history, passed away at 92. The Michigan
-      democrat served in Congress for 59 years after winning 30 elections.
-
-
-      [view sources](https://smarthernews.com/19-02-08-qtd-john-dingell/)
+      <div><p>On Thursday, former U.S. Representative John Dingell, the
+      longest-serving member of Congress in America's history, passed away at
+      92. The Michigan democrat served in Congress for 59 years after winning 30
+      elections.</p><p><a
+      href="https://smarthernews.com/19-02-08-qtd-john-dingell/">view
+      sources</a></p></div>
     _key: card-10-6d2164c9-bf45-45d2-951d-b3b915be7c22
 
 ---

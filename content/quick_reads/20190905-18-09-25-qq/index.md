@@ -22,104 +22,88 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "This country has given me everything. It’s a dream come true."  
-        
-        
-      Felix Hernandez, 32-year-old pitcher for the Seattle Mariners, after
-      passing his naturalization exam and becoming an American citizen on
-      Monday. A native of Venezuela, Hernandez hopes to bring his parents to the
-      U.S. because of the internal strife in his home country.
+      <blockquote>"This country has given me everything. It’s a dream come
+      true."<br><br><br>Felix Hernandez, 32-year-old pitcher for the Seattle
+      Mariners, after passing his naturalization exam and becoming an American
+      citizen on Monday. A native of Venezuela, Hernandez hopes to bring his
+      parents to the U.S. because of the internal strife in his home
+      country.</blockquote>
     _key: card-1-3a7da270-45c3-4757-b236-b87b777e588e
   - order: 1
     useCheckmark: false
     body: >-
-      > “We’re not in a court of law; we’re actually in a court of credibility
-      at this point.”  
-        
-      Sen. Mazie Hirono (D-HI), Senate Judiciary Committee member, when asked
-      whetherA Supreme Court nominee Judge Brett Kavanaugh deserves a
-      presumption of innocence with regard to the sexual assault allegationsA he
-      faces from two separate women dating back to his high school & college
-      days.
+      <blockquote>“We’re not in a court of law; we’re actually in a court of
+      credibility at this point.”<br><br>Sen. Mazie Hirono (D-HI), Senate
+      Judiciary Committee member, when asked whetherA Supreme Court nominee
+      Judge Brett Kavanaugh deserves a presumption of innocence with regard to
+      the sexual assault allegationsA he faces from two separate women dating
+      back to his high school &amp; college days.</blockquote>
     _key: card-2-b4f2a870-746d-48f6-a477-d681451e1db7
   - order: 2
     useCheckmark: false
     body: >-
-      > “I think all of us have probably done things we look back on in high
-      school and regret or cringe a bit. But that’s not what we’re talking
-      about.”  
-        
-      Supreme Court nominee judge Brett Kavanaugh in his first on-camera
-      interview since Christine Ford accused him of sexual assault. Kavanaugh
-      denied being at the party in question and any sexual assault or misconduct
-      of any kind as a younger man.
+      <blockquote>“I think all of us have probably done things we look back on
+      in high school and regret or cringe a bit. But that’s not what we’re
+      talking about.”<br><br>Supreme Court nominee judge Brett Kavanaugh in his
+      first on-camera interview since Christine Ford accused him of sexual
+      assault. Kavanaugh denied being at the party in question and any sexual
+      assault or misconduct of any kind as a younger man.</blockquote>
     _key: card-3-a72a052c-8ef2-4e71-ac22-496ea8da708c
   - order: 3
     useCheckmark: false
     body: >-
-      > “You are responsible for these actions; you will face the repercussions.
-      We warn all of those behind the story, we will take revenge.”  
-        
-        
-      Gen. Hossein Salami, Deputy Head of the Revolutionary Guard Corp, Iran's
-      elite military force, speaking funerals on Monday after an attack on a
-      military parade killed 25 and injured dozens more. Iran blames the United
-      States and its allies for the attack.
+      <blockquote>“You are responsible for these actions; you will face the
+      repercussions. We warn all of those behind the story, we will take
+      revenge.”<br><br><br>Gen. Hossein Salami, Deputy Head of the Revolutionary
+      Guard Corp, Iran's elite military force, speaking funerals on Monday after
+      an attack on a military parade killed 25 and injured dozens more. Iran
+      blames the United States and its allies for the attack.</blockquote>
     _key: card-4-65de6758-c2c9-48f2-8c7e-685c5e88ed3d
   - order: 4
     useCheckmark: false
     body: >-
-      > "We stand with the Iranian people against the scourge of radical Islamic
-      terrorism and express our sympathy to them at this terrible time."  
-        
-        
-      State Dept Spokeswoman Heather Nauert on the attack in Iran. ISIS has
-      released a video claiming responsibility for the attack; an anti-gov't
-      Iranian group has also claimed responsibility.
+      <blockquote>"We stand with the Iranian people against the scourge of
+      radical Islamic terrorism and express our sympathy to them at this
+      terrible time."<br><br><br>State Dept Spokeswoman Heather Nauert on the
+      attack in Iran. ISIS has released a video claiming responsibility for the
+      attack; an anti-gov't Iranian group has also claimed
+      responsibility.</blockquote>
     _key: card-5-0b62cec9-00ca-4691-ae09-7de300dd51fe
   - order: 5
     useCheckmark: false
     body: >-
-      > “Building new things requires that we step back, understand what
-      inspires us and match that with what the world needs; that’s what we plan
-      to do.”  
-        
-        
-      Kevin Systrom, CEO of Instagram, announcing he & his co-founder Mike
-      Krieger, Chief Technology Officer, will leave the social media giant they
-      created in the next few weeks.
+      <blockquote>“Building new things requires that we step back, understand
+      what inspires us and match that with what the world needs; that’s what we
+      plan to do.”<br><br><br>Kevin Systrom, CEO of Instagram, announcing he
+      &amp; his co-founder Mike Krieger, Chief Technology Officer, will leave
+      the social media giant they created in the next few weeks.</blockquote>
     _key: card-6-245b706a-3346-4ab5-a08c-198d846addb4
   - order: 6
     useCheckmark: false
     body: >-
-      “Such a famous actress and no one knows her whereabouts. And no
-      authorities have made any clarifications. This is the real suspense.”  
-        
-      Shi Shusi, Chinese columnist & commentator on the sudden disappearance of
-      a famous Chinese actress. Fan Bingbing, who starred in movies like "X-Men:
-      Days of Future Past," hasn't been seen in 3 months. While some speculate
-      about tax evasion and gov't retaliation, no one seems to knows what
-      happened.
+      <p>“Such a famous actress and no one knows her whereabouts. And no
+      authorities have made any clarifications. This is the real
+      suspense.”<br><br>Shi Shusi, Chinese columnist &amp; commentator on the
+      sudden disappearance of a famous Chinese actress. Fan Bingbing, who
+      starred in movies like "X-Men: Days of Future Past," hasn't been seen in 3
+      months. While some speculate about tax evasion and gov't retaliation, no
+      one seems to knows what happened.</p>
     _key: card-7-adf2fb90-05ea-44f3-81d3-1457705ad55b
   - order: 7
     useCheckmark: false
     body: >-
-      > "Versace has struggled with its accessories business, and Michael Kors
-      could help them with that.”  
-        
-        
-        
-      Robert Burke, former retail executive and current consultant, on the
-      rumored sales of Versace to Michael Kors Holdings to the Wall Street
-      Journal. The WSJ reports this would be the first time an American company
-      would take the reins at an elite European brand.
+      <blockquote>"Versace has struggled with its accessories business, and
+      Michael Kors could help them with that.”<br><br><br><br>Robert Burke,
+      former retail executive and current consultant, on the rumored sales of
+      Versace to Michael Kors Holdings to the Wall Street Journal. The WSJ
+      reports this would be the first time an American company would take the
+      reins at an elite European brand.</blockquote>
     _key: card-8-08d65572-64c1-4200-940c-dcbc975fa9d9
   - order: 8
     useCheckmark: true
-    body: |-
-      Have a great day!
-
-      [view sources](https://smarthernews.com/18-09-25-qq/)
+    body: >-
+      <div><p>Have a great day!</p><p><a
+      href="https://smarthernews.com/18-09-25-qq/">view sources</a></p></div>
     _key: card-10-a10b56bd-fcce-474f-9025-1cae9d444e41
 
 ---

@@ -22,112 +22,82 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      News of a U.S. troop drawdown**overseas** comes under controversy here
-      at**home**.
-
-
-      Here’s what to know
+      <div><p>News of a U.S. troop drawdown <strong>overseas</strong> comes
+      under controversy here at <strong>home</strong>.</p><p>Here’s what to
+      know</p></div>
     _key: a5ec399d5dd6
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Latest
-
-
-      The Pentagon announced U.S. troop levels will be reduced in Afghanistan
-      and Iraq – leaving roughly 2500 troops in each country.
-
-
-      U.S. troops will continue to_“defend”_ embassies and_“the other agencies
-      of the U.S. gov’t doing important work…They’ll defend our diplomats and
-      they’ll deter our foes.”_ White House National Security Advisor Robert
-      O’Brien
+      <div><h2>The Latest</h2><p>The Pentagon announced U.S. troop levels will
+      be reduced in Afghanistan and Iraq – leaving roughly 2500 troops in each
+      country.</p><p>U.S. troops will continue to <em>“defend”</em> embassies
+      and <em>“the other agencies of the U.S. gov’t doing important work…They’ll
+      defend our diplomats and they’ll deter our foes.”</em> White House
+      National Security Advisor Robert O’Brien</p></div>
     _key: 84ab5f7bcad2
   - order: 2
     useCheckmark: false
     body: >-
-      > “I believe these additional reductions of American troops from terrorist
-      areas are a mistake… (The Taliban have) done nothing — met no condition —
-      that would justify this cut.”
-
-
-      Congressman Mac Thornberry (R-TX), ranking Republican on the House Armed
-      Services Committee, on the troop drawdown -- from an est. 4,500 soldiers
-      in Afghanistan to 2,500, & from an est. 3,000 troops to 2,500 in Iraq. The
-      U.S. has held "peace talks" w/the Taliban & Afghan gov't.
+      <div><blockquote>“I believe these additional reductions of American troops
+      from terrorist areas are a mistake… (The Taliban have) done nothing — met
+      no condition — that would justify this cut.”</blockquote><p>Congressman
+      Mac Thornberry (R-TX), ranking Republican on the House Armed Services
+      Committee, on the troop drawdown -- from an est. 4,500 soldiers in
+      Afghanistan to 2,500, &amp; from an est. 3,000 troops to 2,500 in Iraq.
+      The U.S. has held "peace talks" w/the Taliban &amp; Afghan
+      gov't.</p></div>
     _key: 026d16ee10b3
   - order: 3
     useCheckmark: false
     body: >-
-      ## Context To Consider:  
-
-      Afghanistan
-
-
-      * The Taliban currently control more territory than at any point in the
-      war.
-
-      * The Taliban provided “safe haven” to al-Qaeda to train and plan the 9/11
+      <div><h2>Context To Consider:<br>Afghanistan</h2><ul><li>The Taliban
+      currently control more territory than at any point in the war.</li><li>The
+      Taliban provided “safe haven” to al-Qaeda to train and plan the 9/11
       terrorist attacks. Reports: The relationship between the two groups
-      remains strong.
-
-      * The Islamic State has also made inroads in Afghanistan (at odds w/the
-      Taliban).
+      remains strong.</li><li>The Islamic State has also made inroads in
+      Afghanistan (at odds w/the Taliban).</li></ul></div>
     _key: c482eaba316f
   - order: 4
     useCheckmark: false
     body: >-
-      ## Context to Consider: Iraq
-
-
-      > “Our goal is to keep ISIS at a level where ultimately they’ll be able to
-      be handled by local security elements with minimal assistance from any
-      other entity — to include external entities like the coalition, NATO, or
-      us.”  
-        
-      Gen. Frank McKenzie, U.S. Central Command in September, continuing that
-      Iraq was a "little ways away from that" but improved from past years.
+      <div><h2>Context to Consider: Iraq</h2><blockquote>“Our goal is to keep
+      ISIS at a level where ultimately they’ll be able to be handled by local
+      security elements with minimal assistance from any other entity — to
+      include external entities like the coalition, NATO, or us.”<br><br>Gen.
+      Frank McKenzie, U.S. Central Command in September, continuing that Iraq
+      was a "little ways away from that" but improved from past
+      years.</blockquote></div>
     _key: bdc012dec2ee
   - order: 5
     useCheckmark: false
     body: >-
-      ## The Timeline
-
-
-      * Pres. Trump promised to reduce American troops overseas as part of his
-      platform to end “endless wars.”
-
-      * According to the Pentagon’s announcement, troops would return home by
-      January 15th – 5 days before inauguration day for the next presidential
-      term.
-
-      * This move may present a challenge to an administration pursuing a
-      different strategy.
+      <div><h2>The Timeline</h2><ul><li>Pres. Trump promised to reduce American
+      troops overseas as part of his platform to end “endless
+      wars.”</li><li>According to the Pentagon’s announcement, troops would
+      return home by January 15th – 5 days before inauguration day for the next
+      presidential term.</li><li>This move may present a challenge to an
+      administration pursuing a different strategy.</li></ul></div>
     _key: 7c90c8ee887c
   - order: 6
     useCheckmark: false
     body: >-
-      ## Why This Matters:
-
-
-      * Thousands of Americans have made the ultimate sacrifice in Iraq &
-      Afghanistan. Tens of thousands injured. Millions of American families
-      impacted by deployments.
-
-      * Debate continues about how the U.S. can best confront, defend against &
-      ultimately destroy Islamic terrorism.
-
-      * Lingering question: What does it take to win? What’s the most effective
-      use of U.S. forces?
+      <div><h2>Why This Matters:</h2><ul><li>Thousands of Americans have made
+      the ultimate sacrifice in Iraq &amp; Afghanistan. Tens of thousands
+      injured. Millions of American families impacted by
+      deployments.</li><li>Debate continues about how the U.S. can best
+      confront, defend against &amp; ultimately destroy Islamic
+      terrorism.</li><li>Lingering question: What does it take to win? What’s
+      the most effective use of U.S. forces?</li></ul></div>
     _key: 07196e13c4ed
   - order: 7
     useCheckmark: true
     body: >-
-      Early reports from Iraq: two rockets were fired at the U.S. embassy in
-      Baghdad after news of the drawdown was announced. Read more about why on
-      our source page and see our stories on Afghanistan & Iraq over the last
-      several years - including how the pandemic has impacted U.S. strategy to
-      bounties on U.S. troops in Afghanistan.
+      <div><p>Early reports from Iraq: two rockets were fired at the U.S.
+      embassy in Baghdad after news of the drawdown was announced. Read more
+      about why on our source page and see our stories on Afghanistan &amp; Iraq
+      over the last several years - including how the pandemic has impacted U.S.
+      strategy to bounties on U.S. troops in Afghanistan.</p><p></p></div>
     citation: VIEW SOURCES
     _key: b59afae91a49
 

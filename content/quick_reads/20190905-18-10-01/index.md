@@ -22,51 +22,43 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "It gave me a space to talk with him, and he is there with his
-      angels.”  
-        
-      Angelica Cervantes, mother of Eric Silva, one of the 58 people murdered on
-      Oct 1, 2017 in the largest mass shooting in American history. Cervantes is
-      speaking about a memorial garden in Las Vegas, with 59 trees, one for each
-      victim and an oak for the tree of life. A year after the shooting,
-      investigators still don't have a clear motive or answer to why the shooter
-      did it.
+      <blockquote>"It gave me a space to talk with him, and he is there with his
+      angels.”<br><br>Angelica Cervantes, mother of Eric Silva, one of the 58
+      people murdered on Oct 1, 2017 in the largest mass shooting in American
+      history. Cervantes is speaking about a memorial garden in Las Vegas, with
+      59 trees, one for each victim and an oak for the tree of life. A year
+      after the shooting, investigators still don't have a clear motive or
+      answer to why the shooter did it.</blockquote>
     _key: card-1-de28adb3-c11e-4768-ae26-edb7d6e02e69
   - order: 1
     useCheckmark: false
     body: >-
-      > "I’m a victim of sexual assault…. We do treat people differently who are
-      either the victims or perpetrators of this based on their politics now, or
-      based on their gender now. That is a huge mistake. America, it’s a huge
-      mistake.”  
-        
-      Kellyanne Conway, WH counselor, speaking to CNN's Jake Tapper about the
-      nomination and debate over the President's Supreme Court nominee, Brett
-      Kavanaugh.
+      <blockquote>"I’m a victim of sexual assault…. We do treat people
+      differently who are either the victims or perpetrators of this based on
+      their politics now, or based on their gender now. That is a huge mistake.
+      America, it’s a huge mistake.”<br><br>Kellyanne Conway, WH counselor,
+      speaking to CNN's Jake Tapper about the nomination and debate over the
+      President's Supreme Court nominee, Brett Kavanaugh.</blockquote>
     _key: card-2-840bffd8-f514-457d-b38e-6f81bc83da0f
   - order: 2
     useCheckmark: false
     body: >-
-      > “And then we fell in love, OK? No, really, he wrote me beautiful
-      letters, and they’re great letters. We fell in love."  
-        
-        
-      Pres. Trump speaking at a rally on Saturday about how he and North Korean
-      leader Kim Jong Un during June's Singapore Summit. Earlier in the day,
-      NoKo's leader reaffirmed the country will not disarm its nuclear weapons
-      first.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/rXFRrho5uCg?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>“And then we fell in love, OK? No, really, he wrote me
+      beautiful letters, and they’re great letters. We fell in
+      love."<br><br><br>Pres. Trump speaking at a rally on Saturday about how he
+      and North Korean leader Kim Jong Un during June's Singapore Summit.
+      Earlier in the day, NoKo's leader reaffirmed the country will not disarm
+      its nuclear weapons first.</blockquote><p><a
+      href="https://www.youtube.com/embed/rXFRrho5uCg?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-3-bf67d729-b290-4ff3-b8d3-3cef27f83085
   - order: 3
     useCheckmark: false
-    body: "> \"It was like a flurry a\x14 like it was snowing mosquitoes… I waited for them to calm down before I grabbed the kids and the ran into the house.\"  \n  \nCassie Vadovsky speaking to her local news station in North Carolina. Flooding from Hurricane Florence continues in North & South Carolina; one of the side effects is mosquitos, including one type that grows 3x the average size."
+    body: "<blockquote>\"It was like a flurry a\x14 like it was snowing mosquitoes… I waited for them to calm down before I grabbed the kids and the ran into the house.\"<br><br>Cassie Vadovsky speaking to her local news station in North Carolina. Flooding from Hurricane Florence continues in North &amp; South Carolina; one of the side effects is mosquitos, including one type that grows 3x the average size.</blockquote>"
     _key: card-4-77f03f7c-6ca2-4dea-97ca-ce44e239c698
   - order: 4
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-10-01/)'
+    body: <p><a href="https://smarthernews.com/18-10-01/">view sources</a></p>
     _key: card-10-d6c10cd9-c65e-4d32-8fae-1ecf71094c17
 
 ---

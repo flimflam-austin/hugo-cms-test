@@ -22,24 +22,18 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## 2 Americans Who Want To Change The World…
-
-
-      **…one sign at a time.**
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/od7KTuFACd0?enablejsapi=1&autoplay=1&rel=0)
+      <div><h2>2 Americans Who Want To Change The World…</h2><p><strong>…one
+      sign at a time.</strong></p><p><a
+      href="https://www.youtube.com/embed/od7KTuFACd0?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-1-b3d408c5-5c81-48f0-a653-d241653e3b3a
   - order: 1
     useCheckmark: true
     body: >-
-      We loved talking to Greg Amaral and Wendell Walker about their passion to
-      make a difference in this world! Special thanks to photographer Craig
-      Michaud for his amazing photos. Read more of their story:
-
-
-      [view sources](https://smarthernews.com/18-04-26/)
+      <div><p>We loved talking to Greg Amaral and Wendell Walker about their
+      passion to make a difference in this world! Special thanks to photographer
+      Craig Michaud for his amazing photos. Read more of their story:</p><p><a
+      href="https://smarthernews.com/18-04-26/">view sources</a></p></div>
     _key: card-10-f63656d2-73bd-457d-b6f6-2b05bc93f38e
 
 ---

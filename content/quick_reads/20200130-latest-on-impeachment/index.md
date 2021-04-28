@@ -22,96 +22,71 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Call Your First Witness!  
-
-      (or…not?)
-
-
-      A closer look at the Senate divide over where the impeachment trial goes
-      next.
+      <div><h2>Call Your First Witness!<br>(or…not?)</h2><p>A closer look at the
+      Senate divide over where the impeachment trial goes
+      next.</p><p><br></p></div>
     _key: 69a7f0769923
   - order: 1
     useCheckmark: false
     body: >-
-      ## WHERE WE ARE
-
-
-      * Each side – the House managers (Democrats) arguing for the removal of
-      Pres. Trump, & Pres. Trump’s lawyers (Republicans) – have made opening
-      arguments.
-
-      * Democrats used nearly all of the 24 hours (3 days) allotted to each
-      side; Republicans used about half their time (Source: C-SPAN).
-
-      * Now senators get to submit written questions to both sides.
+      <div><h2>WHERE WE ARE</h2><ul><li>Each side – the House managers
+      (Democrats) arguing for the removal of Pres. Trump, &amp; Pres. Trump’s
+      lawyers (Republicans) – have made opening arguments.</li><li>Democrats
+      used nearly all of the 24 hours (3 days) allotted to each side;
+      Republicans used about half their time (Source: C-SPAN).</li><li>Now
+      senators get to submit written questions to both sides.</li></ul></div>
     _key: d0136f22c05b
   - order: 2
     useCheckmark: false
     body: >-
-      ## LINGERING QUESTION
-
-
-      Will the Senate allow witness testimony?
-
-
-      Initially it seemed no.
-
-
-      * The Republican-led Senate argues the Democrat-led House already allowed
-      witness and expert testimony, leading to the impeachment of Pres. Trump.
-
-      * Democrats argue Pres. Trump prevented testimony & evidence in the House
-      and new information has come to light. Some Republicans agree.
+      <div><h2>LINGERING QUESTION</h2><p>Will the Senate allow witness
+      testimony?</p><p>Initially it seemed no.</p><ul><li>The Republican-led
+      Senate argues the Democrat-led House already allowed witness and expert
+      testimony, leading to the impeachment of Pres. Trump.</li><li>Democrats
+      argue Pres. Trump prevented testimony &amp; evidence in the House and new
+      information has come to light. Some Republicans agree.</li></ul></div>
     _key: fafad8666ad5
   - order: 3
     useCheckmark: false
     body: >-
-      ## WHAT’S NEW
-
-
-      * Pres. Trump’s former National Security Advisor John Bolton reportedly
-      has first-hand knowledge of Pres. Trump’s decision to withhold aid from
-      Ukraine and why.
-
-      * He – reportedly – details this information in his new book.
-
-      * We hesitate to characterize this information compared to other media
-      outlets because…**no one has read the book** OR**has direct quotes from
-      it**.
+      <div><h2>WHAT’S NEW</h2><ul><li>Pres. Trump’s former National Security
+      Advisor John Bolton reportedly has first-hand knowledge of Pres. Trump’s
+      decision to withhold aid from Ukraine and why.</li><li>He – reportedly –
+      details this information in his new book.</li><li>We hesitate to
+      characterize this information compared to other media outlets
+      because…<strong>no one has read the book</strong> OR <strong>has direct
+      quotes from it</strong>.</li></ul></div>
     _key: 9938d32cb2b2
   - order: 4
     useCheckmark: false
     body: >-
-      > “I have concluded that, if the Senate issues a subpoena for my
-      testimony, I am prepared to testify.”
-
-
-      Amb. John Bolton in early January before reports on the contents of his
-      book surfaced. Amb. Bolton says he resigned his position of National
-      Security Advisor; Pres. Trump says he fired him. Consequently, the opinion
-      on Bolton varies from a respected expert to disgruntled employee.
+      <div><blockquote>“I have concluded that, if the Senate issues a subpoena
+      for my testimony, I am prepared to testify.”</blockquote><p>Amb. John
+      Bolton in early January before reports on the contents of his book
+      surfaced. Amb. Bolton says he resigned his position of National Security
+      Advisor; Pres. Trump says he fired him. Consequently, the opinion on
+      Bolton varies from a respected expert to disgruntled employee.</p></div>
     _key: 38e8902fd51e
   - order: 5
     useCheckmark: false
     body: >-
-      > “While we are creating jobs and killing terrorists, the congressional
-      Democrats are obsessed with demented hoaxes, crazy witch hunts and
-      deranged partisan crusades.”  
-        
-      Pres. Trump during a rally this week in New Jersey. If the Senate allows
-      witnesses, others like Joe Biden could be called to testify and the
-      impeachment trial could last several more weeks or even months, keeping
-      top Democrat presidential candidates (ex: Sens. Sanders, Warren) off the
-      campaign trail.
+      <div><blockquote>“While we are creating jobs and killing terrorists, the
+      congressional Democrats are obsessed with demented hoaxes, crazy witch
+      hunts and deranged partisan crusades.”<br><br>Pres. Trump during a rally
+      this week in New Jersey. If the Senate allows witnesses, others like Joe
+      Biden could be called to testify and the impeachment trial could last
+      several more weeks or even months, keeping top Democrat presidential
+      candidates (ex: Sens. Sanders, Warren) off the campaign
+      trail.</blockquote><p><br></p></div>
     _key: 3e710a2fa3a3
   - order: 6
     useCheckmark: true
     body: >-
-      Whether or not the Senate allows witnesses depends entirely on a majority
-      vote in the Senate where Republicans hold the majority. One solution? Sen.
-      Lankford asked if the Senate can have classified access to Bolton's
-      yet-unpublished book, "The Room Where It Happened," due for release March
-      17th.
+      <div><p>Whether or not the Senate allows witnesses depends entirely on a
+      majority vote in the Senate where Republicans hold the majority. One
+      solution? Sen. Lankford asked if the Senate can have classified access to
+      Bolton's yet-unpublished book, "The Room Where It Happened," due for
+      release March 17th.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 3aab9d61dd7d
 

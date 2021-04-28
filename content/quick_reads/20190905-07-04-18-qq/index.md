@@ -22,61 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “I found a vicious rhythm.”  
-        
-        
-        
-      34-year-old Joey "Jaws'' Chestnut who ate a record 74 hot dogs (and buns!)
-      during New York's annual Coney Island hot dog eating competition on July
-      4th.
+      <blockquote>“I found a vicious rhythm.”<br><br><br><br>34-year-old Joey
+      "Jaws'' Chestnut who ate a record 74 hot dogs (and buns!) during New
+      York's annual Coney Island hot dog eating competition on July
+      4th.</blockquote>
     _key: card-1-a6e92b88-86f2-4e91-a0fc-710b3d583289
   - order: 1
     useCheckmark: false
     body: >-
-      > “We need to make sure we keep our eyes and ears open.”  
-        
-        
-        
-      Cleveland Police Chief Calvin Williams regarding a foiled terror plot
-      allegedly by a man who pledged allegiance to Al Qaeda planned for July 4th
-      in Cleveland, Ohio.
+      <blockquote>“We need to make sure we keep our eyes and ears
+      open.”<br><br><br><br>Cleveland Police Chief Calvin Williams regarding a
+      foiled terror plot allegedly by a man who pledged allegiance to Al Qaeda
+      planned for July 4th in Cleveland, Ohio.</blockquote>
     _key: card-2-6af04060-de37-4a40-b04a-ebd35f1a2c60
   - order: 2
     useCheckmark: false
     body: >-
-      “Normal countries don’t terrorize other nations, proliferate missiles, and
-      impoverish their own people.”  
-        
-        
-      Brian Hook, U.S. State Dept, during a briefing regarding U.S. & Iran
-      relations. In the past few days, Iran has made threats to close a crucial
-      waterway as U.S. sanctions continue to strangle the Iran's economy. In
-      addition, a reportedly Iranian-sponsored terrorist attack in Europe was
-      thwarted; the target was those who challenge the current regime.
+      <p>“Normal countries don’t terrorize other nations, proliferate missiles,
+      and impoverish their own people.”<br><br><br>Brian Hook, U.S. State Dept,
+      during a briefing regarding U.S. &amp; Iran relations. In the past few
+      days, Iran has made threats to close a crucial waterway as U.S. sanctions
+      continue to strangle the Iran's economy. In addition, a reportedly
+      Iranian-sponsored terrorist attack in Europe was thwarted; the target was
+      those who challenge the current regime.</p>
     _key: card-3-ebb0d78c-6192-4c0b-b2f0-6e8f37680593
   - order: 3
     useCheckmark: false
     body: >-
-      "Divers are in dark areas that are not flat and there’s mud and rocks
+      <p>"Divers are in dark areas that are not flat and there’s mud and rocks
       everywhere. Therefore, for the SEAL team that’s there, when they dive,
       sometimes one tank can only go as far as 30 meters and they have to turn
-      back."  
-        
-        
-      Interior Minister, Thailand, describing why it's so difficult to rescue a
-      team of 11-16 year-old soccer players trapped in a cave. The AP explains
-      why this is such a challenging rescue - view on our source page.
+      back."<br><br><br>Interior Minister, Thailand, describing why it's so
+      difficult to rescue a team of 11-16 year-old soccer players trapped in a
+      cave. The AP explains why this is such a challenging rescue - view on our
+      source page.</p>
     _key: card-4-581b7552-54d2-456c-b414-97ebccbc5056
   - order: 4
     useCheckmark: true
     body: >-
-      "The 2nd Day of July 1776. will be the most memorable Epocha, in the
-      History of America. - I am apt to believe that it will be celebrated, by
-      succeeding Generations, as the great anniversary Festival." John Adams to
-      his wife Abigail on America's independence.
-
-
-      [view sources](https://smarthernews.com/07-04-18-qq/)
+      <div><p>"The 2nd Day of July 1776. will be the most memorable Epocha, in
+      the History of America. - I am apt to believe that it will be celebrated,
+      by succeeding Generations, as the great anniversary Festival." John Adams
+      to his wife Abigail on America's independence.</p><p><a
+      href="https://smarthernews.com/07-04-18-qq/">view sources</a></p></div>
     _key: card-10-f0c0dd0d-81fc-47fa-a47c-69341050ce5f
 
 ---

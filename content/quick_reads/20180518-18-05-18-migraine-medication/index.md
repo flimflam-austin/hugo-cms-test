@@ -22,72 +22,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # LIFE-CHANGING?
-
-
-      ## 1 in 7 people get migraines.
-
-
-      The FDA just approved a**NEW drug** many believe will help (not cure)
-      those who suffer.
-
-
-      Why It Matters
+      <div><h1>LIFE-CHANGING?</h1><h2>1 in 7 people get migraines.</h2><p>The
+      FDA just approved a <strong>NEW drug</strong> many believe will help (not
+      cure) those who suffer.</p><p>Why It Matters</p></div>
     _key: card-1-d215de60-7a18-40a9-8643-f2f8b3134cf7
   - order: 1
     useCheckmark: false
     body: >-
-      ## Who Suffers?
-
-
-      **37M** Americans get migraines.
-
-
-      **More womenA** than men.
-
-
-      **2.8M** Americans get migraines more than once a month. This new drug is
-      geared towards them.
-
-
-      What Is The Drug?
+      <div><h2>Who Suffers?</h2><p><strong>37M</strong> Americans get
+      migraines.</p><p><strong>More womenA</strong> than
+      men.</p><p><strong>2.8M</strong> Americans get migraines more than once a
+      month. This new drug is geared towards them.</p><p>What Is The
+      Drug?</p></div>
     _key: card-2-c05fd19a-292c-4a4b-88a6-ea9a0441fe0f
   - order: 2
     useCheckmark: false
-    body: |-
-      ## What’s The Treatment?
-
-      * Monthly ***preventative*** injection is called “Aimovig.”
-      * Created by major drugmakers, Amgen and Novartis.
-      * Costs**$6,900** a year/**$575** a month.
-      * No side effects detected; studies continuing.
-      * Available starting next week.
-
-      Why Is This A Big Deal?
+    body: >-
+      <div><h2>What’s The Treatment?</h2><ul><li>Monthly
+      *<strong>preventative</strong>* injection is called
+      “Aimovig.”</li><li>Created by major drugmakers, Amgen and
+      Novartis.</li><li>Costs <strong>$6,900</strong> a year/
+      <strong>$575</strong> a month.</li><li>No side effects detected; studies
+      continuing.</li><li>Available starting next week.</li></ul><p>Why Is This
+      A Big Deal?</p></div>
     _key: card-3-a386b2c3-cb42-4f80-8cef-b4ca3208f1bf
   - order: 3
     useCheckmark: false
     body: >-
-      ## What’s The Breakthrough?
-
-
-      * For decades, researchers believed a protein (**CGRP**) was connected to
-      migraines.
-
-      * By blocking *some* of these proteins on a cellular level, migraines
-      lessen.
-
-      * Other big drug companies are working on similar treatments –**Could this
-      change the course of migraine treatment forever?**
+      <div><h2>What’s The Breakthrough?</h2><ul><li>For decades, researchers
+      believed a protein (<strong>CGRP</strong>) was connected to
+      migraines.</li><li>By blocking *some* of these proteins on a cellular
+      level, migraines lessen.</li><li>Other big drug companies are working on
+      similar treatments – <strong>Could this change the course of migraine
+      treatment forever?</strong></li></ul></div>
     _key: card-4-440b9cc2-a6a8-4ea7-8dde-68ee8fa26575
   - order: 4
     useCheckmark: true
     body: >-
-      Did you know...migraines are often distinguished from headaches because
-      they impact one side of the head more than another? Read More:
-
-
-      [view sources](https://smarthernews.com/18-05-18-migraine-medication/)
+      <div><p>Did you know...migraines are often distinguished from headaches
+      because they impact one side of the head more than another? Read
+      More:</p><p><a
+      href="https://smarthernews.com/18-05-18-migraine-medication/">view
+      sources</a></p></div>
     _key: card-10-5d6dbbe5-fd68-4844-9b6b-1339433e8fe1
 
 ---

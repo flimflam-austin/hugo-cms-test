@@ -22,57 +22,38 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # MIDTERM ANOMALY?
-
-
-      **On average, ONLY 40% of eligible citizens vote during U.S. midterm
-      elections**.  
-
-      Why 2018 *may* be different.
+      <div><h1>MIDTERM ANOMALY?</h1><p><strong>On average, ONLY 40% of eligible
+      citizens vote during U.S. midterm elections</strong>.<br>Why 2018 *may* be
+      different.</p></div>
     _key: card-1-4e0c4e81-55f3-44f2-9bf7-ef34807a9484
   - order: 1
     useCheckmark: false
     body: >-
-      ## IMPORTANT CONTEXT:
-
-
-      In recent years, the % of eligible voters who turn out for midterms has
-      declined.
-
-
-      * 2014:**41.9%**
-
-      * 2006:**47.8%**
-
-      * 1998:**45.3%**
-
-      * 1990:**49.3%**
-
-      * 1982:**51.9%**
+      <div><h2>IMPORTANT CONTEXT:</h2><p>In recent years, the % of eligible
+      voters who turn out for midterms has declined.</p><ul><li>2014:
+      <strong>41.9%</strong></li><li>2006: <strong>47.8%</strong></li><li>1998:
+      <strong>45.3%</strong></li><li>1990: <strong>49.3%</strong></li><li>1982:
+      <strong>51.9%</strong></li></ul></div>
     _key: card-2-99b94717-fa41-49ac-9cbe-493d089d2df2
   - order: 2
     useCheckmark: false
     body: >-
-      ## Analysts expect a big jump in turnout for 3 reasons:
-
-
-      * Turnout tends to jump during a President’s first midterm election.
-
-      * Turnout during primary elections increased. Ex: 56% more eligible voters
-      voted in this year’s House primary elections compared to 2014.
-
-      * Voter registration skyrocketed (800,00+ new voters – a record vs.
-      771,321 in 2016).
+      <div><h2>Analysts expect a big jump in turnout for 3
+      reasons:</h2><ul><li>Turnout tends to jump during a President’s first
+      midterm election.</li><li>Turnout during primary elections increased. Ex:
+      56% more eligible voters voted in this year’s House primary elections
+      compared to 2014.</li><li>Voter registration skyrocketed (800,00+ new
+      voters – a record vs. 771,321 in 2016).</li></ul></div>
     _key: card-3-b451555d-6544-415d-8522-1b13cfe261e9
   - order: 3
     useCheckmark: true
     body: >-
-      With Election Day one week away, the number of voters participating in
-      early voting has already broken records in Delaware, Florida, Georgia,
-      Indiana, Minnesota, Nevada, Tennessee, and Texas.
-
-
-      [view sources](https://smarthernews.com/18-10-30-voter-turnout/)
+      <div><p>With Election Day one week away, the number of voters
+      participating in early voting has already broken records in Delaware,
+      Florida, Georgia, Indiana, Minnesota, Nevada, Tennessee, and
+      Texas.</p><p><a
+      href="https://smarthernews.com/18-10-30-voter-turnout/">view
+      sources</a></p></div>
     _key: card-10-588486da-819e-48f6-a5e7-79d599c0d734
 
 ---

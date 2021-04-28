@@ -21,106 +21,75 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      The final step in the 2020 U.S. presidential election prior to
-      Inauguration Day happens in Congress.
-
-
-      What Happens  
-
-      Why It Matters
+      <div><p>The final step in the 2020 U.S. presidential election prior to
+      Inauguration Day happens in Congress.</p><p>What Happens<br>Why It
+      Matters</p></div>
     _key: 20a80fc3f3b3
   - order: 1
     useCheckmark: false
     body: >-
-      ## BACKGROUND
-
-
-      * **Before Election Day:** Each state’s political parties nominate
-      *electors* (Electoral College members) who *usually* pledge to vote for
-      their party’s candidate (the U.S. Constitution doesn’t require it, but
-      most states do).
-
-      * **After Election Day:** The results in each state determine which
-      electors (Republicans or Democrats) will cast their ballots about 6 weeks
-      after Election Day.
+      <div><h2>BACKGROUND</h2><ul><li><strong>Before Election Day:</strong> Each
+      state’s political parties nominate *electors* (Electoral College members)
+      who *usually* pledge to vote for their party’s candidate (the U.S.
+      Constitution doesn’t require it, but most states
+      do).</li><li><strong>After Election Day:</strong> The results in each
+      state determine which electors (Republicans or Democrats) will cast their
+      ballots about 6 weeks after Election Day.</li></ul></div>
     _key: '445170e70679'
   - order: 2
     useCheckmark: false
     body: >-
-      ## January 6 at 1 p.m. EST
-
-
-      * Federal law mandates the House & Senate meet in**joint session** to
-      count the certified Electoral College votes.
-
-      * The**vice president** (Senate president) presides in a mostly ceremonial
-      role.
-
-      * Two House members & two senators act as “**tellers**” who read & count
-      the Electoral College votes from each state.
-
-      * Any senator or House member may**object** to counting an electoral vote.
-
-      * The candidate w/ majority vote wins.
+      <div><h2>January 6 at 1 p.m. EST</h2><ul><li>Federal law mandates the
+      House &amp; Senate meet in <strong>joint session</strong> to count the
+      certified Electoral College votes.</li><li>The <strong>vice
+      president</strong> (Senate president) presides in a mostly ceremonial
+      role.</li><li>Two House members &amp; two senators act as
+      “<strong>tellers</strong>” who read &amp; count the Electoral College
+      votes from each state.</li><li>Any senator or House member may
+      <strong>object</strong> to counting an electoral vote.</li><li>The
+      candidate w/ majority vote wins.</li></ul></div>
     _key: b685f2ea7600
   - order: 3
     useCheckmark: false
     body: >-
-      ## The Objection Process
-
-
-      * An objection must be in writing & signed off by at least one senator &
-      one House member.
-
-      * No specific reason required; objections must be stated “_clearly and
-      concisely.”_
-
-      * The House & Senate meet separately, up to 2 hours, to debate the
-      objection; the lawmakers then vote on it.
-
-      * ***If*** an objection passes by a majority in both the House & Senate,
-      the vote is not counted. If not, the objection fails.
+      <div><h2>The Objection Process</h2><ul><li>An objection must be in writing
+      &amp; signed off by at least one senator &amp; one House
+      member.</li><li>No specific reason required; objections must be stated
+      “<em>clearly and concisely.”</em></li><li>The House &amp; Senate meet
+      separately, up to 2 hours, to debate the objection; the lawmakers then
+      vote on it.</li><li><strong>*If*</strong> an objection passes by a
+      majority in both the House &amp; Senate, the vote is not counted. If not,
+      the objection fails.</li></ul></div>
     _key: f86a31c4beef
   - order: 4
     useCheckmark: false
     body: >-
-      ## The Counting Process
-
-
-      Under the 12th Amendment:
-
-
-      * The presidential and vice presidential candidates must *both* receive a
-      majority of the 538 Electoral College votes (at least 270) in order to
-      win.
-
-      * ***If*** no pres. candidate receives 270 votes, the House alone elects
-      the pres.
-
-      * ***If*** no VP candidate receives 270 votes, the Senate alone elects the
-      VP.
+      <div><h2>The Counting Process</h2><p>Under the 12th
+      Amendment:</p><ul><li>The presidential and vice presidential candidates
+      must *both* receive a majority of the 538 Electoral College votes (at
+      least 270) in order to win.</li><li><strong>*If*</strong> no pres.
+      candidate receives 270 votes, the House alone elects the
+      pres.</li><li><strong>*If*</strong> no VP candidate receives 270 votes,
+      the Senate alone elects the VP.</li></ul></div>
     _key: a1a59702a24c
   - order: 5
     useCheckmark: false
     body: >-
-      ## Historical Context
-
-
-      We’ve only seen formal objections twice since 1887.
-
-
-      Recent history: In Jan. 2017, then-Vice Pres. Biden oversaw the joint
-      session. It took 41 minutes to count the 2016 Electoral College votes.
-      Democrat members of the House tried to object – but failed because they
-      could not get a senator to sign off on an objection.
+      <div><h2>Historical Context</h2><p>We’ve only seen formal objections twice
+      since 1887.</p><p>Recent history: In Jan. 2017, then-Vice Pres. Biden
+      oversaw the joint session. It took 41 minutes to count the 2016 Electoral
+      College votes. Democrat members of the House tried to object – but failed
+      because they could not get a senator to sign off on an
+      objection.</p></div>
     _key: de6a9a196d43
   - order: 6
     useCheckmark: true
     body: >-
-      A growing number of Republican lawmakers plan to object to electoral votes
-      in several states. The objections are expected to fail, however, since
-      Republicans do not have enough votes in either the House or Senate. How
-      long this joint session and electoral count will take is unknown.
+      <div><p>A growing number of Republican lawmakers plan to object to
+      electoral votes in several states. The objections are expected to fail,
+      however, since Republicans do not have enough votes in either the House or
+      Senate. How long this joint session and electoral count will take is
+      unknown.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 1ca24eb676dd
 

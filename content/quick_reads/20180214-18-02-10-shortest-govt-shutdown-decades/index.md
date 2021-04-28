@@ -22,12 +22,10 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      President Trump says immigration negotiations can now begin. In the
-      meantime, view budget deal in written text and more:
-
-
-      [view
-      sources](https://smarthernews.com/18-02-10-shortest-govt-shutdown-decades/)
+      <div><p>President Trump says immigration negotiations can now begin. In
+      the meantime, view budget deal in written text and more:</p><p><a
+      href="https://smarthernews.com/18-02-10-shortest-govt-shutdown-decades/">view
+      sources</a></p></div>
     _key: card-10-6bb5f568-db66-4764-aef9-4e0b4d3cde11
 
 ---

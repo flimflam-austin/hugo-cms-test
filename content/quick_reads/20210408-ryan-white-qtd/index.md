@@ -20,19 +20,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      _“You have to be a fighter and no matter what people say about you, you
-      still have to stand up for what you know is right.”_
+      <p><em>“You have to be a fighter and no matter what people say about you,
+      you still have to stand up for what you know is right.”</em></p>
     citation: RYAN WHITE
     _key: 3376e121b863
   - order: 1
     useCheckmark: true
     body: >-
-      #OTD in 1990 Ryan White, one of the first American children to contract
+      <p>#OTD in 1990 Ryan White, one of the first American children to contract
       the AIDS virus, passed away at age 18. Ryan became an advocate for those
       living with AIDS, fighting discrimination in court, incl. an effort to bar
       him from school out of fear he could spread the virus through casual
       contact (like sneezing). Congress named the largest federally funded AIDS
-      program after him.
+      program after him.</p>
     _key: 3f107bf236c5
 
 ---

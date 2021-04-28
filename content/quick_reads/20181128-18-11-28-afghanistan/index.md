@@ -22,70 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## HONORING THE FALLEN
-
-
-      **In the last 4 days, 4 American soldiers died fighting in Afghanistan** –
-      making**this year the deadliest for America** since combat missions
-      officially ended in 2014.
-
-
-      What's Going On
+      <div><h2>HONORING THE FALLEN</h2><p><strong>In the last 4 days, 4 American
+      soldiers died fighting in Afghanistan</strong> – making <strong>this year
+      the deadliest for America</strong> since combat missions officially ended
+      in 2014.</p><p>What's Going On</p></div>
     _key: card-1-bd3ced99-2cbf-4780-911d-62988b9e76dd
   - order: 1
     useCheckmark: false
     body: >-
-      ## What Happened:
-
-
-      * **Tuesday**: A roadside bomb killed 3 American soldiers; injured several
-      others. Taliban claimed responsibility.
-
-      * **Saturday**: Army Ranger Sgt. Leandro Jasso dies on mission fighting al
-      Qaeda. The military says he was killed accidentally by an Afghan soldier
-      he was fighting alongside in close quarters. The incident is being
-      investigated.
+      <div><h2>What Happened:</h2><ul><li><strong>Tuesday</strong>: A roadside
+      bomb killed 3 American soldiers; injured several others. Taliban claimed
+      responsibility.</li><li><strong>Saturday</strong>: Army Ranger Sgt.
+      Leandro Jasso dies on mission fighting al Qaeda. The military says he was
+      killed accidentally by an Afghan soldier he was fighting alongside in
+      close quarters. The incident is being investigated.</li></ul></div>
     _key: card-2-fed80243-97d4-4602-9954-4ef8703c1e2b
   - order: 2
     useCheckmark: false
     body: >-
-      ## BIG PICTURE
-
-
-      * Coalition combat missions (U.S. & NATO) ended in 2014, but approx.
-      15,000 U.S. soldiers remain in Afghanistan supporting and training Afghan
-      troops.
-
-      * The Trump administration has allowed the military to operate more freely
-      to target terrorists, but also reportedly wants to negotiate a “peace
-      deal” with the Taliban.
+      <div><h2>BIG PICTURE</h2><ul><li>Coalition combat missions (U.S. &amp;
+      NATO) ended in 2014, but approx. 15,000 U.S. soldiers remain in
+      Afghanistan supporting and training Afghan troops.</li><li>The Trump
+      administration has allowed the military to operate more freely to target
+      terrorists, but also reportedly wants to negotiate a “peace deal” with the
+      Taliban.</li></ul></div>
     _key: card-3-669b34b3-7b3e-4a5c-9028-ccd6afb64485
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      > The Taliban now control more of Afghanistan than any other time during
-      America’s longest war; al Qaeda remains a close ally of the Taliban.  
-        
-      _“Al Qaeda remains a threat. Its operatives are fighting in more countries
-      around the world today than was the case on 9/11.”_  
-        
-        
-        
-      Tom Josceyln, The Long War Journal
+      <div><h2>Something To Consider:</h2><blockquote>The Taliban now control
+      more of Afghanistan than any other time during America’s longest war; al
+      Qaeda remains a close ally of the Taliban.<br><br><em>“Al Qaeda remains a
+      threat. Its operatives are fighting in more countries around the world
+      today than was the case on 9/11.”</em><br><br><br><br>Tom Josceyln, The
+      Long War Journal</blockquote></div>
     _key: card-4-0456b063-ad44-4596-9536-c13d4b126b87
   - order: 4
     useCheckmark: true
     body: >-
-      ‘It is heart wrenching. Lando was an incredibly charismatic human beinga|
-      and it’s hard to imagine someone like that gone. It’s like you feel a hole
-      open inside of you that you didn’t even know was there... Andrea Brixey
-      who taught Sgt. Jasso in middle school.
-
-
-      [view sources](https://smarthernews.com/18-11-28-afghanistan/)
+      <div><p>‘It is heart wrenching. Lando was an incredibly charismatic human
+      beinga| and it’s hard to imagine someone like that gone. It’s like you
+      feel a hole open inside of you that you didn’t even know was there...
+      Andrea Brixey who taught Sgt. Jasso in middle school.</p><p><a
+      href="https://smarthernews.com/18-11-28-afghanistan/">view
+      sources</a></p></div>
     _key: card-10-bb42ae1e-4429-4d70-9522-24b837871ccf
 
 ---

@@ -22,27 +22,22 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > **_“There’s power in love._**  
-        
-      **_Don’t underestimate it._**  
-        
-      **_Don’t even over-sentimentalize it._**  
-        
-      **_There’s power – power in love.”_**  
-        
-      Bishop Michael Curry, the first black presiding bishop of the Episcopal
-      Church, in his address at the royal wedding.
+      <blockquote><strong><em>“There’s power in
+      love.</em></strong><br><br><strong><em>Don’t underestimate
+      it.</em></strong><br><br><strong><em>Don’t even over-sentimentalize
+      it.</em></strong><br><br><strong><em>There’s power – power in
+      love.”</em></strong><br><br>Bishop Michael Curry, the first black
+      presiding bishop of the Episcopal Church, in his address at the royal
+      wedding.</blockquote>
     _key: card-1-d62c8498-927c-4cf9-8a5d-60a567a0eb24
   - order: 1
     useCheckmark: true
     body: >-
-      If Pippa was the unexpected star of Kate’s wedding, Michael Curry is the
-      star of this one. Wonderful, wonderful sermon. @FraserNelson Editor of The
-      Spectator, columnist for the Daily Telegraph.
-
-
-      [view
-      sources](https://smarthernews.com/18-05-21-michael-curry-address-royal-wedding/)
+      <div><p>If Pippa was the unexpected star of Kate’s wedding, Michael Curry
+      is the star of this one. Wonderful, wonderful sermon. @FraserNelson Editor
+      of The Spectator, columnist for the Daily Telegraph.</p><p><a
+      href="https://smarthernews.com/18-05-21-michael-curry-address-royal-wedding/">view
+      sources</a></p></div>
     _key: card-10-4a5b820c-7d07-41bc-bd18-95b75cf2bfb4
 
 ---

@@ -22,86 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # No Signature Needed
-
-
-      ## Death Knell For Cursive?
-
-
-      > Nearly a century after the credit card was first introduced, the way you
-      pay with it is about to change A**starting this weekend.**  
-        
-        
-        
-      _“No one really signs any more; it’s all scribbles and squiggles. Some
-      people do smiley faces.’_
-
-
-      FLIP: CHECKOUT CHANGE
+      <div><h1>No Signature Needed</h1><h2>Death Knell For
+      Cursive?</h2><blockquote>Nearly a century after the credit card was first
+      introduced, the way you pay with it is about to change A <strong>starting
+      this weekend.</strong><br><br><br><br><em>“No one really signs any more;
+      it’s all scribbles and squiggles. Some people do smiley
+      faces.’</em></blockquote><p>FLIP: CHECKOUT CHANGE</p></div>
     citation: 'FLIP: CHECKOUT CHANGE'
     _key: card-1-5da356ff-0ebd-4a70-a2a8-5bf8e8d60dbf
   - order: 1
     useCheckmark: false
     body: >-
-      Change At The Checkout
-
-
-      Starting Saturday, American Express, Discover, MastercardA & Visa
-      will**stop requiring signatures**.
-
-
-      * Signatures used to help verify your identity. NowA “no longer reliable.”
-
-      * Most people just scribble an illegible signature.
-
-      * Most businesses don’t even bother to check.
+      <div><p>Change At The Checkout</p><p>Starting Saturday, American Express,
+      Discover, MastercardA &amp; Visa will <strong>stop requiring
+      signatures</strong>.</p><ul><li>Signatures used to help verify your
+      identity. NowA “no longer reliable.”</li><li>Most people just scribble an
+      illegible signature.</li><li>Most businesses don’t even bother to
+      check.</li></ul></div>
     _key: card-2-d0fcd478-23a2-44c5-8dca-0377c8fe1114
   - order: 2
     useCheckmark: false
     body: >-
-      ## So I’ll Never Sign Again?
-
-
-      Not collecting signatures is optional, leaving retailers to decide.
-
-
-      But speeding up checkout lines is a powerful incentive. (Walmart calls
-      signatures “worthless.”)
-
-
-      Restaurants may still ask so the customer has the opportunity to tip.
-
-
-      no auTOGRAPHS, PLEASE.
+      <div><h2>So I’ll Never Sign Again?</h2><p>Not collecting signatures is
+      optional, leaving retailers to decide.</p><p>But speeding up checkout
+      lines is a powerful incentive. (Walmart calls signatures
+      “worthless.”)</p><p>Restaurants may still ask so the customer has the
+      opportunity to tip.</p><p>no auTOGRAPHS, PLEASE.</p></div>
     citation: no auTOGRAPHS, PLEASE.
     _key: card-3-71e50835-9fa2-41a3-9337-cac531344cc4
   - order: 3
     useCheckmark: false
     body: >-
-      ## Is Your Safety in Jeopardy?
-
-
-      _‘Our fraud capabilities have advanced so that**signatures are no longer
-      necessary to fight fraud**.’_  
-
-      Jaromir Divilek, American Express
-
-
-      * Microchips in credit cards create unique codes for each purchase, making
-      cards harder to copy.
-
-      * Once merchants upgraded swipe technology, signatures became “largely
-      irrelevant.”
+      <div><h2>Is Your Safety in Jeopardy?</h2><p><em>‘Our fraud capabilities
+      have advanced so that <strong>signatures are no longer necessary to fight
+      fraud</strong>.’</em><br>Jaromir Divilek, American
+      Express</p><ul><li>Microchips in credit cards create unique codes for each
+      purchase, making cards harder to copy.</li><li>Once merchants upgraded
+      swipe technology, signatures became “largely irrelevant.”</li></ul></div>
     _key: card-4-83bbfc21-24a8-42ed-8e40-a8cd27db07a8
   - order: 4
     useCheckmark: true
     body: >-
-      But seriously, when was the last time you signed your name? Mastercard
-      says consumers don't want to sign anymore. See the 4 reasons why by
-      clicking here:
-
-
-      [view sources](https://smarthernews.com/18-04-10-credit-card-signatures/)
+      <div><p>But seriously, when was the last time you signed your name?
+      Mastercard says consumers don't want to sign anymore. See the 4 reasons
+      why by clicking here:</p><p><a
+      href="https://smarthernews.com/18-04-10-credit-card-signatures/">view
+      sources</a></p></div>
     _key: card-10-0331c72a-4265-491f-9199-33a864173271
 
 ---

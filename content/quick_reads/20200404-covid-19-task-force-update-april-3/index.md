@@ -21,70 +21,60 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # White House  
-      Covid-19 Task Force
-
-      WHAT WE LEARNED TODAY
-
-      **New Guidance: Face Masks**
+    body: >-
+      <div><h1>White House<br>Covid-19 Task Force</h1><p>WHAT WE LEARNED
+      TODAY</p><p><strong>New Guidance: Face Masks</strong></p></div>
     _key: 404bab1becbe
   - order: 1
     useCheckmark: false
     body: >-
-      “You can do it – you don’t have to do it. I’m choosing not to do it.”
-
-
-      Pres. Trump on new guidance for Americans to wear cloth (NOT medical
-      grade) masks. The Surgeon General said new evidence shows a "significant
-      portion" of people with the new coronavirus may have no symptoms but can
-      still spread the virus. The CDC updated its recommendation Friday
-      "advising "wearing cloth face coverings in public settings where other
-      social distancing measures are difficult to maintain (e.g., grocery stores
-      and pharmacies)."
+      <div><p>“You can do it – you don’t have to do it. I’m choosing not to do
+      it.”</p><p>Pres. Trump on new guidance for Americans to wear cloth (NOT
+      medical grade) masks. The Surgeon General said new evidence shows a
+      "significant portion" of people with the new coronavirus may have no
+      symptoms but can still spread the virus. The CDC updated its
+      recommendation Friday "advising "wearing cloth face coverings in public
+      settings where other social distancing measures are difficult to maintain
+      (e.g., grocery stores and pharmacies)."</p></div>
     _key: 32d933107159
   - order: 2
     useCheckmark: false
     body: >-
-      > “This virus has a great weakness. It can’t jump from one person to
-      another if it has to swim more than 6 feet.”
-
-
-      CDC Director Dr. Robert Redfield explained wearing "a face barrier can
+      <div><blockquote>“This virus has a great weakness. It can’t jump from one
+      person to another if it has to swim more than 6 feet.”</blockquote><p>CDC
+      Director Dr. Robert Redfield explained wearing "a face barrier can
       interrupt the number of virus particles that go from one person to
       another." However, he said social distancing remains a priority: "We have
-      a power tool - a powerful weapon, that is social distancing."
+      a power tool - a powerful weapon, that is social distancing."</p></div>
     _key: cb0fa89f4f62
   - order: 3
     useCheckmark: false
     body: >-
-      > “When we get through this we can go back and look at what happened,
-      where… When you’re in the middle of it, you have to concentrate on serving
-      the needs of each American.”
-
-
-      Dr. Deboah Birx addressing critics. She emphasized the need for an
-      effective test to indicate who has been exposed to the new coronavirus,
-      and who hasn't. Dr. Birx noted there are 150+ countries working
-      collectively to fight COVID-19 and it's "devastating" for all.
+      <div><blockquote>“When we get through this we can go back and look at what
+      happened, where… When you’re in the middle of it, you have to concentrate
+      on serving the needs of each American.”</blockquote><p>Dr. Deboah Birx
+      addressing critics. She emphasized the need for an effective test to
+      indicate who has been exposed to the new coronavirus, and who hasn't. Dr.
+      Birx noted there are 150+ countries working collectively to fight COVID-19
+      and it's "devastating" for all.</p></div>
     _key: 003e1bf56f0e
   - order: 4
     useCheckmark: false
     body: >-
-      > “Now we’ll make sure that any American, even those that have no
-      insurance, will be able to receive treatment in a hospital and never have
-      to worry about the bill.”
-
-
-      VP Mike Pence. HHS Secretary Alex Azar added providers who care for the
-      uninsured will be compensated at the medicare reimbursement rates and
-      cannot bill the uninsured for COVID-19 treatment. He also reiterated that
-      those now unemployed (losing employer healthcare) may apply for health
-      insurance via ACA health exchanges.
+      <div><blockquote>“Now we’ll make sure that any American, even those that
+      have no insurance, will be able to receive treatment in a hospital and
+      never have to worry about the bill.”</blockquote><p>VP Mike Pence. HHS
+      Secretary Alex Azar added providers who care for the uninsured will be
+      compensated at the medicare reimbursement rates and cannot bill the
+      uninsured for COVID-19 treatment. He also reiterated that those now
+      unemployed (losing employer healthcare) may apply for health insurance via
+      ACA health exchanges.</p></div>
     _key: 9df53b2acedf
   - order: 5
     useCheckmark: true
-    body: View the new recommendations by the CDC on our source page.
+    body: >-
+      <div><p>View the new recommendations by the CDC on our source
+      page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: d9c0e8ef304c
 

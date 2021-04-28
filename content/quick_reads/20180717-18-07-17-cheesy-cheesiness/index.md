@@ -22,70 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      It Ain’t Easy…  
-
-      Being Cheesy
-
-
-      Whether its mac & cheese or mozzarella, cheese prices fall as**America’s
-      stock of the dairy delight hits a 100-year record-high**.
-
-
-      Why?
+      <div><p>It Ain’t Easy…<br>Being Cheesy</p><p>Whether its mac &amp; cheese
+      or mozzarella, cheese prices fall as <strong>America’s stock of the dairy
+      delight hits a 100-year record-high</strong>.</p><p>Why?</p></div>
     _key: card-1-ac618e3c-1935-4dc2-8ff6-3522cdb62006
   - order: 1
     useCheckmark: false
     body: >-
-      ## Wait…Cheese Stockpiles?
-
-
-      * America’s agriculture department keeps track of its cheese inventory.
-      The gov’t has a record of cheese stockpiles since 1917!
-
-      * Compared to last year at the same time we have 6% more cheese in
-      America.
-
-      * Why? Too much milk. Milk often made into cheese to preserve it. Also,
-      summer months = less lunches packed. And tariffs.
+      <div><h2>Wait…Cheese Stockpiles?</h2><ul><li>America’s agriculture
+      department keeps track of its cheese inventory. The gov’t has a record of
+      cheese stockpiles since 1917!</li><li>Compared to last year at the same
+      time we have 6% more cheese in America.</li><li>Why? Too much milk. Milk
+      often made into cheese to preserve it. Also, summer months = less lunches
+      packed. And tariffs.</li></ul></div>
     _key: card-2-190bc0de-700c-406c-aec0-067d4d534a19
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      * **U.S. families:** Cheese prices drop. We have plenty of cheese, but not
-      enough demand for it.
-
-      * **U.S. dairy farmers:** In addition to stockpiles, cheese exports hit by
-      Mexico/Canada tariffs in retaliation for our tariffs on steel & aluminum.
-      This adds more pressure on farmers who don’t make a ton of money off of
-      cheese (margins tight).
+      <div><h2>Why It Matters</h2><ul><li><strong>U.S. families:</strong> Cheese
+      prices drop. We have plenty of cheese, but not enough demand for
+      it.</li><li><strong>U.S. dairy farmers:</strong> In addition to
+      stockpiles, cheese exports hit by Mexico/Canada tariffs in retaliation for
+      our tariffs on steel &amp; aluminum. This adds more pressure on farmers
+      who don’t make a ton of money off of cheese (margins
+      tight).</li></ul></div>
     _key: card-3-91fff6ce-0e2b-441a-abcc-7e9f181fc55f
   - order: 3
     useCheckmark: false
     body: >-
-      ## Bigger Picture
-
-
-      * Milk consumption has fallen despite theA “Got Milk?” ads first
-      introduced in the mid-1990s by the dairy industry to try to encourage
-      consumption.
-
-      * Americans picking other non-dairy options like almond milk.
-
-      * Insight from one industry exec: While yogurt producers have innovated
-      (pouches, squeeze packs), milk producers haven’t.
+      <div><h2>Bigger Picture</h2><ul><li>Milk consumption has fallen despite
+      theA “Got Milk?” ads first introduced in the mid-1990s by the dairy
+      industry to try to encourage consumption.</li><li>Americans picking other
+      non-dairy options like almond milk.</li><li>Insight from one industry
+      exec: While yogurt producers have innovated (pouches, squeeze packs), milk
+      producers haven’t.</li></ul></div>
     _key: card-4-93ca78df-e04c-4bb6-b01e-b8daed9168a3
   - order: 4
     useCheckmark: true
     body: >-
-      The price of cheese impacts the price farmers receive for milk, so it
-      impacts the entire dairy industry. Despite current pressures, one analyst
-      is optimistic the industry will regulate. Read more on SmartHERNews.com
-
-
-      [view sources](https://smarthernews.com/18-07-17-cheesy-cheesiness/)
+      <div><p>The price of cheese impacts the price farmers receive for milk, so
+      it impacts the entire dairy industry. Despite current pressures, one
+      analyst is optimistic the industry will regulate. Read more on
+      SmartHERNews.com</p><p><a
+      href="https://smarthernews.com/18-07-17-cheesy-cheesiness/">view
+      sources</a></p></div>
     _key: card-10-e7d73b6f-e0cd-4f7d-a24e-702af96e9237
 
 ---

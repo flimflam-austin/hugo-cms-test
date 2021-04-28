@@ -22,75 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      IRAN:  
-
-      ON THE BRINK?
-
-
-      Iranian government at the center of a**crucial meeting** with world
-      powers, an**alleged terrorist plot**, and**domestic unrest** – all the
-      while threatening to close one of the world’s crucial waterways.
-
-
-      What's Going On
+      <div><p>IRAN:<br>ON THE BRINK? </p><p>Iranian government at the center of
+      a <strong>crucial meeting</strong> with world powers, an <strong>alleged
+      terrorist plot</strong>, and <strong>domestic unrest</strong> – all the
+      while threatening to close one of the world’s crucial
+      waterways.</p><p>What's Going On</p></div>
     _key: card-1-64350a0b-0b4b-436d-b4a4-2343a4f341d2
   - order: 1
     useCheckmark: false
     body: >-
-      ## FRIDAY MEETING
-
-
-      * First meeting of world powers since America left so-called “Iran Nuclear
-      Deal.”
-
-      * Britain, China, France, Germany and Russia will meet w/Iran in Vienna
-      (where an Iranian diplomat was *just* arrested).
-
-      * Why meet now? Irans wants access to intl banking system & business.
-      Others want business w/Iran & no nuclear program.
+      <div><h2>FRIDAY MEETING</h2><ul><li>First meeting of world powers since
+      America left so-called “Iran Nuclear Deal.”</li><li>Britain, China,
+      France, Germany and Russia will meet w/Iran in Vienna (where an Iranian
+      diplomat was *just* arrested).</li><li>Why meet now? Irans wants access to
+      intl banking system &amp; business. Others want business w/Iran &amp; no
+      nuclear program.</li></ul></div>
     _key: card-2-90489a47-e209-4f92-9dee-692277edfb35
   - order: 2
     useCheckmark: false
     body: >-
-      ## What’s Important To Know
-
-
-      * Iran’s economy under intense pressure due to U.S. sanctions; more coming
-      in next few months including on oil sector. Currency has dramatically lost
-      value.
-
-      * Public protests mount against govt, corruption, economy, etc.
-
-      * Water scarcity an issue as a major drought continues; one Iranian
-      general blamed “foreign interference” for lack of rain.
+      <div><h2>What’s Important To Know</h2><ul><li>Iran’s economy under intense
+      pressure due to U.S. sanctions; more coming in next few months including
+      on oil sector. Currency has dramatically lost value.</li><li>Public
+      protests mount against govt, corruption, economy, etc.</li><li>Water
+      scarcity an issue as a major drought continues; one Iranian general blamed
+      “foreign interference” for lack of rain.</li></ul></div>
     _key: card-3-168149d7-4f7f-4693-af2f-9d3a5f5ee605
   - order: 3
     useCheckmark: false
     body: >-
-      ## In The Meantime…
-
-
-      * Belgian authorities arrested Iranian couple for “**attempt at terrorist
-      murder and preparing a terrorist crime**.”
-
-      * Allegedly planning to bomb a rally held by an opposition group of the
-      current Iranian govt.
-
-      * More arrests made in France
-
-      * Iranian diplomat who works in Vienna arrested in Germany;**Iran says not
-      involved**.
+      <div><h2>In The Meantime…</h2><ul><li>Belgian authorities arrested Iranian
+      couple for “<strong>attempt at terrorist murder and preparing a terrorist
+      crime</strong>.”</li><li>Allegedly planning to bomb a rally held by an
+      opposition group of the current Iranian govt.</li><li>More arrests made in
+      France</li><li>Iranian diplomat who works in Vienna arrested in Germany;
+      <strong>Iran says not involved</strong>.</li></ul></div>
     _key: card-4-a43eba5c-b368-4bf7-81fc-b711149997c5
   - order: 4
     useCheckmark: true
     body: >-
-      As tensions rise, Iran threatens to close a strategic waterway; the U.S.
-      Navy patrols these waters and promises to keep them open. Conflict between
-      the two is not uncommon but this year? Iran has made ZERO attempts to
-      harass U.S. Navy ships.
-
-
-      [view sources](https://smarthernews.com/18-07-06-iran/)
+      <div><p>As tensions rise, Iran threatens to close a strategic waterway;
+      the U.S. Navy patrols these waters and promises to keep them open.
+      Conflict between the two is not uncommon but this year? Iran has made ZERO
+      attempts to harass U.S. Navy ships.</p><p><a
+      href="https://smarthernews.com/18-07-06-iran/">view sources</a></p></div>
     _key: card-10-2cd2d9f0-0aca-4e99-aa9a-d2fab677c4dd
 
 ---

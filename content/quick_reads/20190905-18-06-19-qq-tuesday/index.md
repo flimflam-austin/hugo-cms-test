@@ -22,72 +22,60 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “Illegal actions have and must have consequences. No more free passes,
-      no more get out of jail free cards.”  
-        
-      Department of Homeland Security Secretary Kirstjen Nielsen defending the
-      Trump Administration's "zero-tolerance" border policy while also calling
-      on Congress to fix America's "broken immigration system."
-
-
-      [CLICK: SmartHer
-      Facts](https://smarthernews.com/18-06-17-immigration-and-children-at-border/)
+      <div><blockquote>“Illegal actions have and must have consequences. No more
+      free passes, no more get out of jail free cards.”<br><br>Department of
+      Homeland Security Secretary Kirstjen Nielsen defending the Trump
+      Administration's "zero-tolerance" border policy while also calling on
+      Congress to fix America's "broken immigration system."</blockquote><p><a
+      href="https://smarthernews.com/18-06-17-immigration-and-children-at-border/">CLICK:
+      SmartHer Facts</a></p></div>
     _key: card-1-63db98ea-f645-4e54-b74c-b2b46d7eff42
   - order: 1
     useCheckmark: false
     body: >-
-      > “Sometimes truth transcends party.”  
-        
-        
-      Former First Lady Michelle Obama on Former First Lady Laura Bush's
-      Washington Post op-ed criticizing the Trump administration's
-      zero-tolerance immigration policy, which demands all adults attempting to
-      cross the border illegally be arrested (thereby separating children from
-      the adults they arrive with).
+      <blockquote>“Sometimes truth transcends party.”<br><br><br>Former First
+      Lady Michelle Obama on Former First Lady Laura Bush's Washington Post
+      op-ed criticizing the Trump administration's zero-tolerance immigration
+      policy, which demands all adults attempting to cross the border illegally
+      be arrested (thereby separating children from the adults they arrive
+      with).</blockquote>
     _key: card-2-ed70a6a1-f306-4ebe-9e9c-ff2c00eb2780
   - order: 2
     useCheckmark: false
     body: >-
-      > “In defending America, it is not enough to merely have an American
-      presence in space, we must have American dominance in space…. We are going
-      to have the Air Force, and we are going to have the Space Force.”  
-        
-        
-        
-      Pres. Trump directing the Pentagon to establish a 'space force' as the
-      sixth branch of the Armed Forces.
+      <blockquote>“In defending America, it is not enough to merely have an
+      American presence in space, we must have American dominance in space…. We
+      are going to have the Air Force, and we are going to have the Space
+      Force.”<br><br><br><br>Pres. Trump directing the Pentagon to establish a
+      'space force' as the sixth branch of the Armed Forces.</blockquote>
     _key: card-3-86be2a45-ceb5-45a8-acd4-6ec5f7527d46
   - order: 3
     useCheckmark: false
     body: >-
-      > “Researchers estimate that birds & mammals harbor anywhere from 631K to
-      827K unknown viruses that could potentially leap into humans.”  
-        
-      Ed Yong, The Atlantic "The Next Plague Is Coming. Is America Ready?" - A
-      recent case of Plague (spread from rodents to fleas to humans) surfaced in
-      Idaho, raising questions about America's preparedness for worst case
-      scenarios.
-
-
-      [CLICK: FULL
-      STORY](https://smarthernews.com/18-06-19-return-of-the-plague/)
+      <div><blockquote>“Researchers estimate that birds &amp; mammals harbor
+      anywhere from 631K to 827K unknown viruses that could potentially leap
+      into humans.”<br><br>Ed Yong, The Atlantic "The Next Plague Is Coming. Is
+      America Ready?" - A recent case of Plague (spread from rodents to fleas to
+      humans) surfaced in Idaho, raising questions about America's preparedness
+      for worst case scenarios.</blockquote><p><a
+      href="https://smarthernews.com/18-06-19-return-of-the-plague/">CLICK: FULL
+      STORY</a></p></div>
     _key: card-4-7c4dbace-8d8b-4afb-8e58-22f864145e0f
   - order: 4
     useCheckmark: false
     body: >-
-      > “I thought it would be a nice way of improving my look well, obviously
-      that all went to hell. I feel bad about it. I apologized for it…. That was
-      a mistake.”  
-        
-        
-      HRH Meghan Markle's father, Thomas Markle, to 'Good Morning Britain' on
-      the infamous staged paparazzi photos he took in the days before the royal
-      wedding. Markle said he agreed to take part in the photos in an attempt to
-      change his image.
+      <blockquote>“I thought it would be a nice way of improving my look well,
+      obviously that all went to hell. I feel bad about it. I apologized for
+      it…. That was a mistake.”<br><br><br>HRH Meghan Markle's father, Thomas
+      Markle, to 'Good Morning Britain' on the infamous staged paparazzi photos
+      he took in the days before the royal wedding. Markle said he agreed to
+      take part in the photos in an attempt to change his image.</blockquote>
     _key: card-5-399ec557-453f-406b-b193-bbdd3f66b3f3
   - order: 5
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-06-19-qq-tuesday/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-06-19-qq-tuesday/">view
+      sources</a></p>
     _key: card-10-13057c83-d61b-448f-bf98-5177d4c12423
 
 ---

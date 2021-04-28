@@ -22,64 +22,42 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # SEARS-IOUSLY?
-
-
-      ## Real Estate Gamble as Retailer Auctions Stores
-
-
-      > 16 Sears locations – all of which are profitable, according to WSJ – are
-      up for grabs in an_online_ auction set for next month.
-
-
-      wanna be a landlord?
+      <div><h1>SEARS-IOUSLY?</h1><h2>Real Estate Gamble as Retailer Auctions
+      Stores</h2><blockquote>16 Sears locations – all of which are profitable,
+      according to WSJ – are up for grabs in an <em>online</em> auction set for
+      next month.</blockquote><p>wanna be a landlord?</p></div>
     citation: wanna be a landlord?
     _key: card-1-d27ea188-ae81-49b2-8289-1c45f7a6b046
   - order: 1
     useCheckmark: false
     body: >-
-      ## Bid to be a Sears Landlord
-
-
-      * Bids due by May 1st.
-
-      * No word if there is a minimum bid.
-
-      * Advertised as sale-leaseback deals, meaning Sears would make rent
-      payments to the winning bidders to remain in the space.
-
-      * BUT it’s possible, depending upon lease terms, Sears stores could close
-      or shrink to take up less space on the property.
-
-
-      Click To Make Bid
+      <div><h2>Bid to be a Sears Landlord</h2><ul><li>Bids due by May
+      1st.</li><li>No word if there is a minimum bid.</li><li>Advertised as
+      sale-leaseback deals, meaning Sears would make rent payments to the
+      winning bidders to remain in the space.</li><li>BUT it’s possible,
+      depending upon lease terms, Sears stores could close or shrink to take up
+      less space on the property.</li></ul><p>Click To Make Bid</p></div>
     citation: Click To Make Bid
     _key: card-2-25a4c155-881c-48d7-9801-490658a29567
   - order: 2
     useCheckmark: false
     body: >-
-      # Sears’ Struggle
-
-
-      Sears unloading assets to get some**badly needed cash**.
-
-
-      Latest earnings: Sears’**revenue fell nearly 28%** &**sales dropped 15%**A
-      –**its****25th straight quarter of declines (more than 6 years)**.
-
-
-      Sears, which also owns Kmart, has**closed hundreds of stores** since the
-      start of 2017.
+      <div><h1>Sears’ Struggle</h1><p>Sears unloading assets to get some
+      <strong>badly needed cash</strong>.</p><p>Latest earnings: Sears’
+      <strong>revenue fell nearly 28%</strong> &amp; <strong>sales dropped
+      15%</strong>A – <strong>its</strong> <strong>25th straight quarter of
+      declines (more than 6 years)</strong>.</p><p>Sears, which also owns Kmart,
+      has <strong>closed hundreds of stores</strong> since the start of
+      2017.</p></div>
     _key: card-3-c7041f6b-7f15-426b-8dd0-ca4551943462
   - order: 3
     useCheckmark: true
     body: >-
-      And then there were none... Later this year, Sears will close its last
-      department store in Chicago, where the company was based for more than 100
-      years.
-
-
-      [view sources](https://smarthernews.com/18-05-13-sears-landlord/)
+      <div><p>And then there were none... Later this year, Sears will close its
+      last department store in Chicago, where the company was based for more
+      than 100 years.</p><p><a
+      href="https://smarthernews.com/18-05-13-sears-landlord/">view
+      sources</a></p></div>
     _key: card-10-928ac6a3-71db-4c41-b84f-edfd3739c333
 
 ---

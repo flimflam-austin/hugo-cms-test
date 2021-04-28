@@ -21,134 +21,100 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## “Bigger Than Bin Laden”
-
-      Who died.
-
-      What happened.
-
-      Why It Matters.
-
-      Here’s what’s going on between America & Iran.
+    body: >-
+      <div><h2>“Bigger Than Bin Laden”</h2><p>Who died.</p><p>What
+      happened.</p><p>Why It Matters.</p><p>Here’s what’s going on between
+      America &amp; Iran.</p><p></p><p><br></p></div>
     _key: c7169bc75136
   - order: 1
     useCheckmark: false
     body: >-
-      ## IMPORTANT CONTEXT:
-
-
-      * **Iran**: Designated as a state sponsor of terrorism by U.S. State
-      Dept.**since 1984.**
-
-      * **State Sponsor of Terrorism** =_“repeatedly provided support for acts
-      of international terrorism.”_
-
-      * August 2019: U.S. designates Iran’s paramilitary (Islamic Revolutionary
-      Guard Corps) including the Quds Force as a “Foreign Terrorist
-      Organization” – first time a “part” of another country’s gov’t received
-      this designation.
+      <div><h2>IMPORTANT CONTEXT:</h2><ul><li><strong>Iran</strong>: Designated
+      as a state sponsor of terrorism by U.S. State Dept. <strong>since
+      1984.</strong></li><li><strong>State Sponsor of Terrorism</strong>
+      =<em>“repeatedly provided support for acts of international
+      terrorism.”</em></li><li>August 2019: U.S. designates Iran’s paramilitary
+      (Islamic Revolutionary Guard Corps) including the Quds Force as a “Foreign
+      Terrorist Organization” – first time a “part” of another country’s gov’t
+      received this designation.</li></ul></div>
     _key: 47fbd8a3c54e
   - order: 2
     useCheckmark: false
     body: >-
-      ## ALSO IMPORTANT…
-
-
-      > _“If you see an Iraq war veteran with an artificial limb (or limbs),
-      there’s a pretty good chance Soleimani and his Quds Force can take credit
-      for the maiming. Iran supplied the IEDs that have penetrated so many of
-      our armored vehicles in Iraq.”_  
-        
-      @RepJimBanks (R-IN), veteran
+      <div><h2>ALSO IMPORTANT…</h2><blockquote><em>“If you see an Iraq war
+      veteran with an artificial limb (or limbs), there’s a pretty good chance
+      Soleimani and his Quds Force can take credit for the maiming. Iran
+      supplied the IEDs that have penetrated so many of our armored vehicles in
+      Iraq.”</em><br><br>@RepJimBanks (R-IN), veteran</blockquote></div>
     _key: f3fa32a379b7
   - order: 3
     useCheckmark: false
     body: >-
-      ## DURING THE LAST WEEK…
-
-
-      > **Dec. 27: American killed in Iraq**  
-
-      **Several others injured.**  
-        
-      _“We know that the intent of this last attack was in fact to kill American
-      soldiers, sailors, airmen, Marines, whoever was there…..”_  
-        
-      Chair of the Joint Chiefs Gen. Milley who said rocket attacks against
-      bases with Americans increased "in tempo" since October, blaming Iran.
+      <div><h2>DURING THE LAST WEEK…</h2><blockquote><strong>Dec. 27: American
+      killed in Iraq</strong><br><strong>Several others
+      injured.</strong><br><br><em>“We know that the intent of this last attack
+      was in fact to kill American soldiers, sailors, airmen, Marines, whoever
+      was there…..”</em><br><br>Chair of the Joint Chiefs Gen. Milley who said
+      rocket attacks against bases with Americans increased "in tempo" since
+      October, blaming Iran.</blockquote></div>
     _key: 1468baf11131
   - order: 4
     useCheckmark: false
     body: >-
-      ## THEN THIS HAPPENED…
-
-
-      * **Dec. 29**: America targets Iranian-backed militia in Syria & Iraq for
-      reportedly killing/wounding Americans on Dec. 27, killing an estimated 25
-      militia members.
-
-      * **Dec. 31**: “Protesters” (some dressed in militia uniform) breach walls
-      at U.S. embassy in Baghdad, the capital of Iraq.
-
-      * **Jan. 2:** U.S. takes responsibility for killing the head of Iran’s
-      Quds force (General Soleimani).
+      <div><h2>THEN THIS HAPPENED…</h2><ul><li><strong>Dec. 29</strong>: America
+      targets Iranian-backed militia in Syria &amp; Iraq for reportedly
+      killing/wounding Americans on Dec. 27, killing an estimated 25 militia
+      members.</li><li><strong>Dec. 31</strong>: “Protesters” (some dressed in
+      militia uniform) breach walls at U.S. embassy in Baghdad, the capital of
+      Iraq.</li><li><strong>Jan. 2:</strong> U.S. takes responsibility for
+      killing the head of Iran’s Quds force (General Soleimani).</li></ul></div>
     _key: 0e23aa7fac99
   - order: 5
     useCheckmark: false
     body: >-
-      _“General Soleimani was actively developing plans to attack American
-      diplomats and service members in Iraq and throughout the region…This
-      strike was aimed at deterring future Iranian attack plans. The United
-      States will continue to take all necessary action to protect our people
-      and our interests wherever they are around the world.”_
-
-
-      U.S. Dept. of Defense
+      <div><p><em>“General Soleimani was actively developing plans to attack
+      American diplomats and service members in Iraq and throughout the
+      region…This strike was aimed at deterring future Iranian attack plans. The
+      United States will continue to take all necessary action to protect our
+      people and our interests wherever they are around the
+      world.”</em></p><p>U.S. Dept. of Defense</p></div>
     _key: 3b88713e50d4
   - order: 6
     useCheckmark: false
     body: >-
-      > “…this is bigger than bin-Laden…Bigger than Baghdadi. For two decades,
-      Suleimani has been the most powerful, savvy & effective terrorist on the
-      planet. He’s enjoyed full backing of powerful terrorist state.”
-
-
-      Mark Dubowitz, Foundation For Defense of Democracies, on the death of Gen.
-      Soleimani, head of Islamic Revolutionary Guard Corps-Quds Force. The Quds
-      Force is a specialized division within the IRGC.
+      <div><blockquote>“…this is bigger than bin-Laden…Bigger than Baghdadi. For
+      two decades, Suleimani has been the most powerful, savvy &amp; effective
+      terrorist on the planet. He’s enjoyed full backing of powerful terrorist
+      state.”</blockquote><p>Mark Dubowitz, Foundation For Defense of
+      Democracies, on the death of Gen. Soleimani, head of Islamic Revolutionary
+      Guard Corps-Quds Force. The Quds Force is a specialized division within
+      the IRGC.</p></div>
     _key: 0186bb059a9f
   - order: 7
     useCheckmark: false
     body: >-
-      > “The US’ act of international terrorism, targeting & assassinating
-      General Soleimani—is extremely dangerous & a foolish escalation. The US
-      bears responsibility for all consequences of its rogue adventurism.”
-
-
-      Iran's Foreign Minister Javad Zarif. According to reports, Iran's leader,
-      Ayatollah Khamenei ordered 3 days of mourning and warned of “harsh
-      retaliation."
+      <div><blockquote>“The US’ act of international terrorism, targeting &amp;
+      assassinating General Soleimani—is extremely dangerous &amp; a foolish
+      escalation. The US bears responsibility for all consequences of its rogue
+      adventurism.”</blockquote><p>Iran's Foreign Minister Javad Zarif.
+      According to reports, Iran's leader, Ayatollah Khamenei ordered 3 days of
+      mourning and warned of “harsh retaliation."</p></div>
     _key: 582019aabdc0
   - order: 8
     useCheckmark: false
     body: >-
-      ## Why This Matters
-
-
-      Adds fuel to the already simmering tension between America and Iran.
-      What’s next? No one knows.
-
-
-      Suleimani served as a prominent Iranian figure for 20+ years. America
-      blames him for orchestrating deaths of hundreds of Americans during the
-      Iraq war, and driving nefarious, terrorist activity worldwide.
+      <div><h2>Why This Matters</h2><p>Adds fuel to the already simmering
+      tension between America and Iran. What’s next? No one
+      knows.</p><p>Suleimani served as a prominent Iranian figure for 20+ years.
+      America blames him for orchestrating deaths of hundreds of Americans
+      during the Iraq war, and driving nefarious, terrorist activity
+      worldwide.</p></div>
     _key: b1ae310be051
   - order: 9
     useCheckmark: true
     body: >-
-      America has an estimated 60,000+ U.S forces in the Middle East including
-      roughly 5,000 in Iraq.
+      <div><p>America has an estimated 60,000+ U.S forces in the Middle East
+      including roughly 5,000 in Iraq.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 577801852fb3
 

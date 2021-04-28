@@ -21,53 +21,47 @@ colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
     useCheckmark: false
-    body: "Meghan Markle:  \nIn Her Own Words\n\n> **“It means that a wife is equal to her husband, a sister to her brother. Not better, not worsea\x14they are equal.”**  \n  \nMarkle, on what it meant to her when, at 11, her letter to Proctor & Gamble led them to change their ad from women all over America are fighting greasy pots and pans to people all over America are fighting greasy pots and pans."
+    body: "<div><p>Meghan Markle:<br>In Her Own Words</p><blockquote><strong>“It means that a wife is equal to her husband, a sister to her brother. Not better, not worsea\x14they are equal.”</strong><br><br>Markle, on what it meant to her when, at 11, her letter to Proctor &amp; Gamble led them to change their ad from women all over America are fighting greasy pots and pans to people all over America are fighting greasy pots and pans.</blockquote></div>"
     _key: card-1-b804524a-2809-4102-bd45-a2161802422f
   - order: 1
     useCheckmark: false
     body: >-
-      > **“To be a feminist, to be a lady, to be a president, to be a woman does
-      not mean fighting against the stereotype of gender roles, but embracing
-      the idea that one can rule a country and wear lipstick; be a breadwinner
-      at work, and a bread baker with her kids at home.”**  
-        
-      Markle, to the Irish Independent in 2014, on why feminity and feminism are
-      not mutially exclusive.
+      <blockquote><strong>“To be a feminist, to be a lady, to be a president, to
+      be a woman does not mean fighting against the stereotype of gender roles,
+      but embracing the idea that one can rule a country and wear lipstick; be a
+      breadwinner at work, and a bread baker with her kids at
+      home.”</strong><br><br>Markle, to the Irish Independent in 2014, on why
+      feminity and feminism are not mutially exclusive.</blockquote>
     _key: card-2-585a4270-06d9-4be4-9cc1-43108370b7c3
   - order: 2
     useCheckmark: false
     body: >-
-      > **“While my mixed heritage may have created a grey area surrounding my
-      self-identification, keeping me with a foot on both sides of the fence, I
-      have come to embrace that. To say who I am, to share where I’m from, to
-      voice my pride in being a strong, confident mixed-race woman.”**  
-        
-        
-      Markle, to Elle Magazine in 2015, on her biracial identity.
+      <blockquote><strong>“While my mixed heritage may have created a grey area
+      surrounding my self-identification, keeping me with a foot on both sides
+      of the fence, I have come to embrace that. To say who I am, to share where
+      I’m from, to voice my pride in being a strong, confident mixed-race
+      woman.”</strong><br><br><br>Markle, to Elle Magazine in 2015, on her
+      biracial identity.</blockquote>
     _key: card-3-32fa49a7-7a0b-4485-ae28-3189589f2b85
   - order: 3
     useCheckmark: false
     body: >-
-      > **“If we just talk to ourselves the way we talk to our best friends….
-      It’s like having the best cheerleader ever with you, which helps you get
-      through any of those work hurdles, or those life hurdles, because you
-      always have yourself championing yourself.”**  
-        
-      Markle, in an interview at the 2016 Create & Cultivate conference, on
-      being kind to yourself.
-
-
-      [Watch It Here](https://vimeo.com/189216026)
+      <div><blockquote><strong>“If we just talk to ourselves the way we talk to
+      our best friends…. It’s like having the best cheerleader ever with you,
+      which helps you get through any of those work hurdles, or those life
+      hurdles, because you always have yourself championing
+      yourself.”</strong><br><br>Markle, in an interview at the 2016 Create
+      &amp; Cultivate conference, on being kind to yourself.</blockquote><p><a
+      href="https://vimeo.com/189216026">Watch It Here</a></p></div>
     _key: card-4-d686de23-03bf-43e8-9782-3db581c7fb5a
   - order: 4
     useCheckmark: true
     body: >-
-      Megan Markle's new title will reportedly be: Her Royal Highness the
-      Duchess of Sussex. We'll await official confirmation and new words of
-      wisdom.
-
-
-      [view sources](https://smarthernews.com/18-05-18-markle-quotes-friday/)
+      <div><p>Megan Markle's new title will reportedly be: Her Royal Highness
+      the Duchess of Sussex. We'll await official confirmation and new words of
+      wisdom.</p><p><a
+      href="https://smarthernews.com/18-05-18-markle-quotes-friday/">view
+      sources</a></p></div>
     _key: card-10-f3a16a89-60a0-44e7-bc23-52656d35bd7e
 
 ---

@@ -22,12 +22,11 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      In January 2018, the National Guard started offering a $20,000 bonus for
-      new recruits. The Guard retweeted it during the news of the Presidential
-      proclamation. Don't miss some IMPORTANT SmartHER Context HERE:
-
-
-      [view sources](https://smarthernews.com/18-04-04-nat-guard/)
+      <div><p>In January 2018, the National Guard started offering a $20,000
+      bonus for new recruits. The Guard retweeted it during the news of the
+      Presidential proclamation. Don't miss some IMPORTANT SmartHER Context
+      HERE:</p><p><a href="https://smarthernews.com/18-04-04-nat-guard/">view
+      sources</a></p></div>
     _key: card-10-a61b8144-b28c-49f5-8716-7c800ddd2cc0
 
 ---

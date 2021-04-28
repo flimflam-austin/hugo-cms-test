@@ -21,84 +21,64 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # Oct 4, 1927
-
-      Construction Starts On  
-      Mount Rushmore
-
-      > “America will march along that skyline.”  
-        
-      Gutzon Borglum, sculptor
+    body: >-
+      <div><h1>Oct 4, 1927</h1><p>Construction Starts On<br>Mount
+      Rushmore</p><blockquote>“America will march along that
+      skyline.”<br><br>Gutzon Borglum, sculptor</blockquote></div>
     _key: card-1-a4dc30d2-dbf3-46e0-a1b6-fad9321bcb45
   - order: 1
     useCheckmark: false
     body: >-
-      > “More and more we sensed we were creating a truly great thing, and after
-      a while all of us old hands became truly dedicated to it.”  
-        
-      Red Anderson, Mount Rushmore carver. Approx. 400 men & women helped carve
-      the granite memorial over a 14-year period. The idea for a mountain
-      sculpture began in order to encourage people to visit South Dakota's Black
-      Hills; now 2.3M visitors come every year.
+      <blockquote>“More and more we sensed we were creating a truly great thing,
+      and after a while all of us old hands became truly dedicated to
+      it.”<br><br>Red Anderson, Mount Rushmore carver. Approx. 400 men &amp;
+      women helped carve the granite memorial over a 14-year period. The idea
+      for a mountain sculpture began in order to encourage people to visit South
+      Dakota's Black Hills; now 2.3M visitors come every year.</blockquote>
     _key: card-2-49e2bb00-beb4-4c7a-9408-13117c0bb459
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why \*These\* Presidents?
-
-
-      Each one represents an important chapter in America’s story
-
-
-      * George Washington:**“birth”** of nation.
-
-      * Thomas Jefferson:**“growth”** of ideas (ex: Declaration of Independence)
-      & westward expansion.
-
-      * Theodore Roosevelt:**“development”** of economic growth & exploration.
-
-      * Abraham Lincoln:**“preservation”** of country during the during Civil
-      War.
+      <div><h2>Why \*These\* Presidents?</h2><p>Each one represents an important
+      chapter in America’s story</p><ul><li>George Washington:
+      <strong>“birth”</strong> of nation.</li><li>Thomas Jefferson:
+      <strong>“growth”</strong> of ideas (ex: Declaration of Independence) &amp;
+      westward expansion.</li><li>Theodore Roosevelt:
+      <strong>“development”</strong> of economic growth &amp;
+      exploration.</li><li>Abraham Lincoln: <strong>“preservation”</strong> of
+      country during the during Civil War.</li></ul></div>
     _key: card-3-6ca3b4f8-7fd7-4395-8dff-bfe36431650c
   - order: 3
     useCheckmark: false
     body: >-
-      ## Did You Know?
-
-
-      * It was named after a NY attorney surveying the area in the late 1800s.
-
-      * Originally the monument was to feature western figures (ex: Lewis &
-      Clark, Sacagawea), but sculptor Gutzon Borglum said it should be “a
-      national monument commemorating America’s founders and builders.”
-
-      * Workers walked 700 stairs before being suspended thousands of feet above
-      ground to carve with chisels & jackhammers.
+      <div><h2>Did You Know?</h2><ul><li>It was named after a NY attorney
+      surveying the area in the late 1800s.</li><li>Originally the monument was
+      to feature western figures (ex: Lewis &amp; Clark, Sacagawea), but
+      sculptor Gutzon Borglum said it should be “a national monument
+      commemorating America’s founders and builders.”</li><li>Workers walked 700
+      stairs before being suspended thousands of feet above ground to carve with
+      chisels &amp; jackhammers.</li></ul></div>
     _key: card-4-ed427486-f6d0-49a9-be38-30f184347fe4
   - order: 4
     useCheckmark: false
     body: >-
-      ”The idea is so that people a million years from now will realize their
+      <p>”The idea is so that people a million years from now will realize their
       significance. So many things are lost in history. The Sphinx, the
       pyramids, the heads on Easter Island. Archeologists are forever trying to
-      figure them out.”  
-        
-      Lincoln Borglum, son of sculptor, who helped complete Mt. Rushmore after
-      his dad's death. He advocated to complete the "Hall of Records"; a room
-      carved into the mt. explaining the project & American history. The Hall of
-      Records opened officially in 1998.
+      figure them out.”<br><br>Lincoln Borglum, son of sculptor, who helped
+      complete Mt. Rushmore after his dad's death. He advocated to complete the
+      "Hall of Records"; a room carved into the mt. explaining the project &amp;
+      American history. The Hall of Records opened officially in 1998.</p>
     _key: card-5-767a5955-b62d-42b9-a4f3-b1eb6212d204
   - order: 5
     useCheckmark: true
     body: >-
-      90% of Mt. Rushmore was carved by dynamite. In fact, some dynamite was
-      used to blast away the first face of President Jefferson. Pres. Jefferson
-      was originally situated on the outside so Pres. Washington would be in the
-      middle, but the stone turned out to be too weak.
-
-
-      [view sources](https://smarthernews.com/18-10-04-mount-rushmore/)
+      <div><p>90% of Mt. Rushmore was carved by dynamite. In fact, some dynamite
+      was used to blast away the first face of President Jefferson. Pres.
+      Jefferson was originally situated on the outside so Pres. Washington would
+      be in the middle, but the stone turned out to be too weak.</p><p><a
+      href="https://smarthernews.com/18-10-04-mount-rushmore/">view
+      sources</a></p></div>
     _key: card-10-898c7560-209f-4526-9754-5576e0060ec8
 
 ---

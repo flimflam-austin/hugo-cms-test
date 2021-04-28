@@ -22,55 +22,35 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Michigan School Shut Down Due To Flu
-
-
-      * Watervliet, Michigan (small town east of Chicago across Lake Michigan).
-
-      * 33 of 93 students didn’t show up to school on Wednesday.
-
-      * School closed Thursday/Friday.
-
-
-
-
-      [Click HERE for
-      Story](http://www.wndu.com/content/news/Michigan-school-closed-for-two-days-after-widespread-flu-472260673.html)
+      <div><h1>Michigan School Shut Down Due To Flu</h1><ul><li>Watervliet,
+      Michigan (small town east of Chicago across Lake Michigan).</li><li>33 of
+      93 students didn’t show up to school on Wednesday.</li><li>School closed
+      Thursday/Friday.</li></ul><p></p><p><a
+      href="http://www.wndu.com/content/news/Michigan-school-closed-for-two-days-after-widespread-flu-472260673.html">Click
+      HERE for Story</a></p></div>
     _key: card-1-f9c24502-c437-4718-b545-0f5f42a1942e
   - order: 1
     useCheckmark: false
     body: >-
-      > “It has been a tough flu season so far this year. And while flu activity
-      is beginning to go down in parts of the country, it remains high for most
-      the U.S., with some areas still rising.”  
-        
-        
-      Dr. Dan Jergian, CDC Conference Call, January 26, 2018
+      <blockquote>“It has been a tough flu season so far this year. And while
+      flu activity is beginning to go down in parts of the country, it remains
+      high for most the U.S., with some areas still rising.”<br><br><br>Dr. Dan
+      Jergian, CDC Conference Call, January 26, 2018</blockquote>
     _key: card-2-72c5484b-77b2-4d4a-8a9b-3182858bb70e
   - order: 2
     useCheckmark: false
     body: >-
-      # Why “Flu Season”?
-
-
-      ## November – March
-
-
-      * No one knows for sure.
-
-      * Some believe flu virus travels better in cold, dry air: New Study.
-
-      * Some disagree & say simply people are in closer contact with each other
-      in the winter.
-
-
-
-
-      Flip For More
+      <div><h1>Why “Flu Season”?</h1><h2>November – March</h2><ul><li>No one
+      knows for sure.</li><li>Some believe flu virus travels better in cold, dry
+      air: New Study.</li><li>Some disagree &amp; say simply people are in
+      closer contact with each other in the winter.</li></ul><p></p><p>Flip For
+      More</p></div>
     _key: card-3-8567b3d5-2a61-4b0a-a7f2-c86abe38ca6c
   - order: 3
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-01-31-flu-update/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-01-31-flu-update/">view
+      sources</a></p>
     _key: card-10-81a09286-337a-4f74-9af9-2d8e5d8abb72
 
 ---

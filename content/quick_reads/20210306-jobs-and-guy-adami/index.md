@@ -20,15 +20,15 @@ colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      #   
-      **Jobs, your money & our guest, stock market analyst & host, Guy Adami**
+    body: >-
+      <h1><br><strong>Jobs, your money &amp; our guest, stock market analyst
+      &amp; host, Guy Adami</strong></h1>
     _key: 7e6eeb4c4213
   - order: 1
     useCheckmark: true
     body: >-
-      A better than expected jobs report intersects with a HUGE economic
-      stimulus bill. What to know and why it matters.
+      <p>A better than expected jobs report intersects with a HUGE economic
+      stimulus bill. What to know and why it matters.</p>
     _key: 4a69f30bc3b8
 
 ---

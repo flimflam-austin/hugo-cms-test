@@ -22,29 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      “Is This The World’s Toughest Commute?’  
-
-      BBC
-
-
-      Priest hikes almost 2 hours one-way, scaling 800 foot wall, to get to
-      church.
-
-
-      If you’ve ever felt tested by your faith, WATCH this INCREDIBLEA story.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/r1QXpmv-y2E?enablejsapi=1&autoplay=1&rel=0)
+      <div><p>“Is This The World’s Toughest Commute?’<br>BBC</p><p>Priest hikes
+      almost 2 hours one-way, scaling 800 foot wall, to get to church.</p><p>If
+      you’ve ever felt tested by your faith, WATCH this INCREDIBLEA
+      story.</p><p><a
+      href="https://www.youtube.com/embed/r1QXpmv-y2E?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-1-f2c84109-75db-435b-8dab-3c80b52b9ce2
   - order: 1
     useCheckmark: true
     body: >-
-      "The reason I became a priest is to teach the people what I have learned,
-      so they could walk in my footsteps"
-
-
-      [view sources](https://smarthernews.com/18-02-27-cool-hiking-priest/)
+      <div><p>"The reason I became a priest is to teach the people what I have
+      learned, so they could walk in my footsteps"</p><p><a
+      href="https://smarthernews.com/18-02-27-cool-hiking-priest/">view
+      sources</a></p></div>
     _key: card-10-f764834a-9725-4f8b-ac34-d815454b0c12
 
 ---

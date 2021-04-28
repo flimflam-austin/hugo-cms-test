@@ -17,56 +17,38 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # Super Bowl Ads Hit New High
-
-      > $5 million Buys 30 seconds
+    body: >-
+      <div><h1>Super Bowl Ads Hit New High</h1><blockquote>$5 million Buys 30
+      seconds</blockquote></div>
     _key: card-1-0b4b8a2b-f1ad-4317-9c1f-224502bd0ed5
   - order: 1
     useCheckmark: false
     body: >-
-      # Why is it so expensive?
-
-
-      ## One Word: Viewers
-
-
-      * Football remains top viewed event in the nation.
-
-      * The Super Bowl is followed by NFL championship games in total
-      viewership.
-
-      * The Academy Awards = the only non-football event to break into 5
-      most-viewed events in 2017.
+      <div><h1>Why is it so expensive?</h1><h2>One Word:
+      Viewers</h2><ul><li>Football remains top viewed event in the
+      nation.</li><li>The Super Bowl is followed by NFL championship games in
+      total viewership.</li><li>The Academy Awards = the only non-football event
+      to break into 5 most-viewed events in 2017.</li></ul></div>
     _key: card-2-bf4b4d2b-c95e-445e-9413-35f0325437a9
   - order: 2
     useCheckmark: false
     body: >-
-      # MeToo?
-
-
-
-
-      > “As of Thursday morning, there were more thanA two times as many male
-      celebrities than female appearing in Super Bowl commercials…”  
-
-
-
-      Flip For More
+      <div><h1>MeToo?</h1><p></p><blockquote>“As of Thursday morning, there were
+      more thanA two times as many male celebrities than female appearing in
+      Super Bowl commercials…”<br></blockquote><p>Flip For More</p></div>
     citation: Ad Age
     _key: card-3-e57e406d-a4d6-413e-b8ac-2c3703294344
   - order: 3
     useCheckmark: false
-    body: |-
-      # “#BoringBowl”
-
-      ## What ‘Ad Age’ Has Entitled This Super Bowl
-
-      Multiple articles suggest companies playing “safe”.
+    body: >-
+      <div><h1>“#BoringBowl”</h1><h2>What ‘Ad Age’ Has Entitled This Super
+      Bowl</h2><p>Multiple articles suggest companies playing “safe”.</p></div>
     _key: card-4-9fa1f1d2-93d9-4c50-8b3a-78f1bfcec5ab
   - order: 4
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-02-01-superbowl-ads/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-02-01-superbowl-ads/">view
+      sources</a></p>
     _key: card-10-e7ee6ac9-b8e0-45f5-a1c1-10503ff47e3e
 
 ---

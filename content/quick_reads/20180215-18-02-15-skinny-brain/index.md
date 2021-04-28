@@ -22,55 +22,35 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Mind Games
-
-
-      Can’t Lose Weight?  
-
-      Blame Your Brain
-
-
-      Scientist discover mental “switch” that determines whether we store
-      calories to burn or to hoard.
-
-
-      Flip For More
+      <div><p>Mind Games</p><p>Can’t Lose Weight?<br>Blame Your
+      Brain</p><p>Scientist discover mental “switch” that determines whether we
+      store calories to burn or to hoard.</p><p>Flip For More</p></div>
     _key: card-1-f5d12350-f34f-47f2-959d-78bfd9cde954
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why It Matters:
-
-
-      * When we successfully diet, our bodies burn stored fat.
-
-      * When we stop dieting, our bodies can start storing fat in anticipation
-      of being hungry again, instead of burning calories as they come in.
-
-      * Scientist have discovered a way to potentially “turn off” our bodies’
-      desire to store fat after dieting.
-
-      * Could help with yo-yo dieting and obesity therapies.
+      <div><h2>Why It Matters:</h2><ul><li>When we successfully diet, our bodies
+      burn stored fat.</li><li>When we stop dieting, our bodies can start
+      storing fat in anticipation of being hungry again, instead of burning
+      calories as they come in.</li><li>Scientist have discovered a way to
+      potentially “turn off” our bodies’ desire to store fat after
+      dieting.</li><li>Could help with yo-yo dieting and obesity
+      therapies.</li></ul></div>
     _key: card-2-6f38c83c-238c-4e4b-99f3-fbb9c12f93d2
   - order: 2
     useCheckmark: false
     body: >-
-      Protein: Potential Link  
-
-      Your Brain & The Scale
-
-
-      > “Manipulating this protein offers the opportunity to trick the brain and
-      not replace the lost weight through increased appetite and storage of
-      fat.”  
-        
-        
-        
-      Associate Professor Zane Andrews, Monash Biomedicine Discovery Institute
+      <div><p>Protein: Potential Link<br>Your Brain &amp; The
+      Scale</p><blockquote>“Manipulating this protein offers the opportunity to
+      trick the brain and not replace the lost weight through increased appetite
+      and storage of fat.”<br><br><br><br>Associate Professor Zane Andrews,
+      Monash Biomedicine Discovery Institute</blockquote></div>
     _key: card-3-25be65fe-14a3-43b1-b4e2-beca540edccb
   - order: 3
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-02-15-skinny-brain/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-02-15-skinny-brain/">view
+      sources</a></p>
     _key: card-10-ee5bcd8f-02a7-4eca-8bd7-2f364c27bd60
 
 ---

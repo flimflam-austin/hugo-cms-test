@@ -22,17 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## _“Enjoy the good times, and walk away from the bumps. That’s it. Even
-      failures can turn into something positive if you just keep going.”_
+      <h2><em>“Enjoy the good times, and walk away from the bumps. That’s it.
+      Even failures can turn into something positive if you just keep
+      going.”</em></h2>
     citation: CARL REINER
     _key: 6f78eade8b39
   - order: 1
     useCheckmark: true
     body: >-
-      The Hollywood pioneer who said laughter was his "first priority" died at
-      98. The legendary writer, director, producer, & actor was known for his
-      various comedic roles & creations, including The Dick Van Dyke Show & The
-      Ocean's 11 series. Read more on who helped him live his "best life."
+      <div><p>The Hollywood pioneer who said laughter was his "first priority"
+      died at 98. The legendary writer, director, producer, &amp; actor was
+      known for his various comedic roles &amp; creations, including The Dick
+      Van Dyke Show &amp; The Ocean's 11 series. Read more on who helped him
+      live his "best life."</p><p></p></div>
     citation: VIEW SOURCES
     _key: f24a3f91944d
 

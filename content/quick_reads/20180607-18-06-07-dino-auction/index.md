@@ -22,61 +22,42 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Dinosaur Sells at Auction Unearthing Ethical Debate
-
-
-      > Should a 150-million-year-old fossil be sold to the highest bidder? Or
-      to a museum that can’t afford it?
-
-
-      flip: for the scoop
+      <div><h2>Dinosaur Sells at Auction Unearthing Ethical
+      Debate</h2><blockquote>Should a 150-million-year-old fossil be sold to the
+      highest bidder? Or to a museum that can’t afford it?</blockquote><p>flip:
+      for the scoop</p></div>
     _key: card-1-412ddbcc-5fa8-4850-afa1-a707a0ccf4dc
   - order: 1
     useCheckmark: false
     body: >-
-      ## Wait, I Could’ve Bought A… DINOSAUR?!
-
-
-      * **Excavated in Wyoming** in 2013.
-
-      * **Sold Monday for $2.4M** at auction at Eiffel Tower in Paris.
-
-      * 30 ft long, skeleton is**unusually complete, almost 70% whole.**
-
-      * **May be a new species:** major anatomical differences from all known
-      dinosaurs.
-
-
-
-
-      who's lucky winner?
+      <div><h2>Wait, I Could’ve Bought A…
+      DINOSAUR?!</h2><ul><li><strong>Excavated in Wyoming</strong> in
+      2013.</li><li><strong>Sold Monday for $2.4M</strong> at auction at Eiffel
+      Tower in Paris.</li><li>30 ft long, skeleton is <strong>unusually
+      complete, almost 70% whole.</strong></li><li><strong>May be a new
+      species:</strong> major anatomical differences from all known
+      dinosaurs.</li></ul><p></p><p>who's lucky winner?</p></div>
     _key: card-2-dd09207d-d8f2-481b-8155-511bc58f0ead
   - order: 2
     useCheckmark: false
     body: >-
-      ## Going once… going twice…
-
-        
-      _“Scientifically important vertebrate fossils are part of our collective
-      natural heritage and deserve to be held in public trust.”_  
-        
-      Society of Vertebrate Paleontology's letter asking to cancel the auction.
-
-
-      * Sold to an unnamed British man whoA pledges to lend to museum.
-
-      * Paleontologists worry science will be priced out of auctions.
+      <div><h2>Going once… going twice…</h2><p><br><em>“Scientifically important
+      vertebrate fossils are part of our collective natural heritage and deserve
+      to be held in public trust.”</em><br><br>Society of Vertebrate
+      Paleontology's letter asking to cancel the auction.</p><ul><li>Sold to an
+      unnamed British man whoA pledges to lend to
+      museum.</li><li>Paleontologists worry science will be priced out of
+      auctions.</li></ul></div>
     _key: card-3-ff12dbf5-0796-4373-8b08-2ae3a9211254
   - order: 3
     useCheckmark: true
     body: >-
-      Dinosaur sale was totally legal. U.S. laws say fossils found on private
-      land belong to the landowner. But if it is a new species, who gets to name
-      it? The auction house says one thing while the science world says another.
-      Read more here:
-
-
-      [view sources](https://smarthernews.com/18-06-07-dino-auction/)
+      <div><p>Dinosaur sale was totally legal. U.S. laws say fossils found on
+      private land belong to the landowner. But if it is a new species, who gets
+      to name it? The auction house says one thing while the science world says
+      another. Read more here:</p><p><a
+      href="https://smarthernews.com/18-06-07-dino-auction/">view
+      sources</a></p></div>
     _key: card-10-2b48dea9-1cf9-4d15-a210-22d65bf61285
 
 ---

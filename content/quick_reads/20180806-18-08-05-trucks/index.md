@@ -22,76 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Running on Empty
-
-
-      If you bought it, chances are it got there via semi truck.A The trucking
-      industry is**responsible for moving 70% of goods across America.**
-
-
-      But there’s just one problem…**there aren’t enough drivers to get it
-      there.**
-
-
-      but...my amazon order!
+      <div><h1>Running on Empty</h1><p>If you bought it, chances are it got
+      there via semi truck.A The trucking industry is <strong>responsible for
+      moving 70% of goods across America.</strong></p><p>But there’s just one
+      problem… <strong>there aren’t enough drivers to get it
+      there.</strong></p><p>but...my amazon order!</p></div>
     _key: card-1-e2dde35f-3267-4305-a62c-ff7446b44b19
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why Driver Shortage Matters
-
-
-      * **No matter how high tech we get, we need old-fashion trucking.**
-      StrongA economy has demand for trucks outpacing supply of drivers.
-
-      * **Higher prices:**A Companies, especially food makers, pass on higher
-      transport costs to us.
-
-      * **Slower Deliveries:**A Are your Amazon delivery taking longer? You’re
-      not alone.
+      <div><h2>Why Driver Shortage Matters</h2><ul><li><strong>No matter how
+      high tech we get, we need old-fashion trucking.</strong> StrongA economy
+      has demand for trucks outpacing supply of drivers.</li><li><strong>Higher
+      prices:</strong>A Companies, especially food makers, pass on higher
+      transport costs to us.</li><li><strong>Slower Deliveries:</strong>A Are
+      your Amazon delivery taking longer? You’re not alone.</li></ul></div>
     _key: card-2-b7422493-9050-46fe-b4d4-6aada00d1320
   - order: 2
     useCheckmark: false
     body: >-
-      Drivers Wanted
-
-
-      * Requires**3-6 months in trucking school at $3-7K.**
-
-      * **Long, solitary stretches**A away from home, wearing electronic
-      monitors to track driving time.
-
-      * **Avg pay:A $42,480** in May 2017, figure appx. doubles if driving for
-      private fleet (i.e. Pepsi, Walmart).
-
-      * **Median age: 49**
-
-      * **6% are women, two-thirds are white**.
+      <div><p>Drivers Wanted</p><ul><li>Requires <strong>3-6 months in trucking
+      school at $3-7K.</strong></li><li><strong>Long, solitary
+      stretches</strong>A away from home, wearing electronic monitors to track
+      driving time.</li><li><strong>Avg pay:A $42,480</strong> in May 2017,
+      figure appx. doubles if driving for private fleet (i.e. Pepsi,
+      Walmart).</li><li><strong>Median age: 49</strong></li><li><strong>6% are
+      women, two-thirds are white</strong>.</li></ul></div>
     _key: card-3-88b8c044-6a67-451d-b534-2daaf75ad396
   - order: 3
     useCheckmark: false
     body: >-
-      Trying to Fix It:  
-
-      Lower Minimum Age?
-
-
-      * Currently,**must be 21 to drive interstateA freight** (out-of-state);
-      now considering lowering to 18.
-
-      * White House is backing a trial program to**allow those under 21 with
-      military training** to operate commercial vehicles across state lines,
-      showing a willingness to possibly change federal law.
+      <div><p>Trying to Fix It:<br>Lower Minimum Age?</p><ul><li>Currently,
+      <strong>must be 21 to drive interstateA freight</strong> (out-of-state);
+      now considering lowering to 18.</li><li>White House is backing a trial
+      program to <strong>allow those under 21 with military training</strong> to
+      operate commercial vehicles across state lines, showing a willingness to
+      possibly change federal law.</li></ul></div>
     _key: card-4-8d2ccc35-135b-4588-9cfe-d08ce017f5b9
   - order: 4
     useCheckmark: true
     body: >-
-      Going the way of the dinosaurs? Although there's plenty of hype around
-      autonomous trucks wiping out the need for drivers, trucking executives say
-      that day is still too far off to solve today’s problem.
-
-
-      [view sources](https://smarthernews.com/18-08-05-trucks/)
+      <div><p>Going the way of the dinosaurs? Although there's plenty of hype
+      around autonomous trucks wiping out the need for drivers, trucking
+      executives say that day is still too far off to solve today’s
+      problem.</p><p><a href="https://smarthernews.com/18-08-05-trucks/">view
+      sources</a></p></div>
     _key: card-10-699cab07-0865-4b51-8764-0e754edeaac0
 
 ---

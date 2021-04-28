@@ -22,19 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“To abandon ship during the greatest public health crisis of our
-      lifetimes is inconceivable to me. A ship is safe in harbor, but that’s not
-      what ships are for.”_
+      <div><blockquote><em>“To abandon ship during the greatest public health
+      crisis of our lifetimes is inconceivable to me. A ship is safe in harbor,
+      but that’s not what ships are for.”</em></blockquote><p></p></div>
     citation: DR. BILL FISHER
     _key: a7cb48c6d342
   - order: 1
     useCheckmark: true
     body: >-
-      Fmr. NASA astronaut Dr. Fisher went to work in a Texas emergency room
-      today, sharing he was "more concerned" about heading into the hospital
-      than he was launching into space because of COVID-19; Fisher is 74-yrs-old
-      with preexisting conditions. Before COVID-19, the CDC est. 139M ER visits
-      per year in America.
+      <div><p>Fmr. NASA astronaut Dr. Fisher went to work in a Texas emergency
+      room today, sharing he was "more concerned" about heading into the
+      hospital than he was launching into space because of COVID-19; Fisher is
+      74-yrs-old with preexisting conditions. Before COVID-19, the CDC est. 139M
+      ER visits per year in America.</p><p></p></div>
     citation: VIEW SOURCES
     _key: b7b5527b758a
 

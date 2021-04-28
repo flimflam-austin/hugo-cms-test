@@ -22,82 +22,74 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "It gives us hope that this history will be sustained and improved upon
-      and captured and passed on from generation to generation."
-
-        
-      Anderson Flen speaking about preserving the history of Africatown,
-      Alabama, a town created by the 100+ last slaves kidnapped from West Africa
-      to America in 1860 despite a law banning the slave trade. After the Civil
-      War, the community built by freed slaves grew to more than 10,000 w/its
-      own gov’t. Descendants will gather Saturday to celebrate their shared
-      heritage.
+      <div><blockquote>"It gives us hope that this history will be sustained and
+      improved upon and captured and passed on from generation to
+      generation."</blockquote><p><br>Anderson Flen speaking about preserving
+      the history of Africatown, Alabama, a town created by the 100+ last slaves
+      kidnapped from West Africa to America in 1860 despite a law banning the
+      slave trade. After the Civil War, the community built by freed slaves grew
+      to more than 10,000 w/its own gov’t. Descendants will gather Saturday to
+      celebrate their shared heritage.</p></div>
     _key: card-1-f19fb898-82d7-42b6-a3fa-65e8dc07a208
   - order: 1
     useCheckmark: false
     body: >-
-      > "We’re showing the district we are going to stand up for what we
-      need.”  
-        
-      Denver elementary school teacher Chris Christoff as 4,000+ teachers in the
-      city vow to walk off the job Monday unless a deal can be reached to raise
-      pay. The union says its incentive-based system is unfair. Last month, L.A.
-      teachers went on strike successfully negotiating smaller class sizes, but
-      ultimately accepted the 6% pay increase the district originally offered.
+      <blockquote>"We’re showing the district we are going to stand up for what
+      we need.”<br><br>Denver elementary school teacher Chris Christoff as
+      4,000+ teachers in the city vow to walk off the job Monday unless a deal
+      can be reached to raise pay. The union says its incentive-based system is
+      unfair. Last month, L.A. teachers went on strike successfully negotiating
+      smaller class sizes, but ultimately accepted the 6% pay increase the
+      district originally offered.</blockquote>
     _key: card-2-f01598c9-dadd-4347-a94e-93fb03785da8
   - order: 2
     useCheckmark: false
     body: >-
-      > “I was made an offer I couldn’t refuse. Or at least that’s what the top
-      people at the National Enquirer thought.”  
-        
-      Jeff Bezos, Amazon's founder & world's richest man, accusing AMI, the
-      publisher of the National Enquirer, with extortion and blackmail,
-      providing emails he says show its threats to publish nude photos he sent
-      to his girlfriend. Bezos and his wife announced their divorce in January.
-      The publisher has not responded.
+      <blockquote>“I was made an offer I couldn’t refuse. Or at least that’s
+      what the top people at the National Enquirer thought.”<br><br>Jeff Bezos,
+      Amazon's founder &amp; world's richest man, accusing AMI, the publisher of
+      the National Enquirer, with extortion and blackmail, providing emails he
+      says show its threats to publish nude photos he sent to his girlfriend.
+      Bezos and his wife announced their divorce in January. The publisher has
+      not responded.</blockquote>
     _key: card-3-ca314fc6-3627-43cf-b2e6-2a3762ef8742
   - order: 3
     useCheckmark: false
     body: >-
-      > “It is apparent that the Committee’s true intention is not to discuss
-      the great work of the Dept of Justice, but to create a public spectacle.”
-
-        
-      Acting Attorney General Matthew Whitaker on his plans to skip voluntary
-      testimony before the House Judiciary Committee Friday unless it drops its
-      threat of a subpoena. Whitaker, who was appointed by President Trump after
-      AG Jeff Sessions resigned at Trump's request, was expected to take
-      questions on Robert Mueller's special counsel investigation.
+      <div><blockquote>“It is apparent that the Committee’s true intention is
+      not to discuss the great work of the Dept of Justice, but to create a
+      public spectacle.”</blockquote><p><br>Acting Attorney General Matthew
+      Whitaker on his plans to skip voluntary testimony before the House
+      Judiciary Committee Friday unless it drops its threat of a subpoena.
+      Whitaker, who was appointed by President Trump after AG Jeff Sessions
+      resigned at Trump's request, was expected to take questions on Robert
+      Mueller's special counsel investigation.</p></div>
     _key: card-4-bed42f4d-7ebd-4b92-a91a-002715fece82
   - order: 4
     useCheckmark: false
     body: >-
-      > "The green dream or whatever they call it, nobody knows what it is, but
-      they’re for it right?"  
-        
-      House Speaker Nancy Pelosi (D-CA) dismissing fellow democrat Rep.
-      Alexandria Ocasio-Cortez’s ‘Green New Deal while launching a new committee
-      focused on climate change. Rep. Ocasio-Cortez's (D-NY) plan aims for the
-      U.S. to run solely on renewable energy in 10 years, while offering
-      economic security to those unwilling to work.
+      <blockquote>"The green dream or whatever they call it, nobody knows what
+      it is, but they’re for it right?"<br><br>House Speaker Nancy Pelosi (D-CA)
+      dismissing fellow democrat Rep. Alexandria Ocasio-Cortez’s ‘Green New Deal
+      while launching a new committee focused on climate change. Rep.
+      Ocasio-Cortez's (D-NY) plan aims for the U.S. to run solely on renewable
+      energy in 10 years, while offering economic security to those unwilling to
+      work.</blockquote>
     _key: card-5-06edb4c4-6a32-4682-a1d0-634025bd8ce3
   - order: 5
     useCheckmark: false
     body: >-
-      > “..a trailblazer in every sense, whose impact spanned generations.”  
-        
-      Rob Manfred, MLB Commissioner, on the death of Frank Robinson (83).
-      Robinson, who's career spanned 21 seasons, was the MLB's first black
-      manager & a Hall of Fame outfielder who won MVP in both the American &
-      National leagues.
+      <blockquote>“..a trailblazer in every sense, whose impact spanned
+      generations.”<br><br>Rob Manfred, MLB Commissioner, on the death of Frank
+      Robinson (83). Robinson, who's career spanned 21 seasons, was the MLB's
+      first black manager &amp; a Hall of Fame outfielder who won MVP in both
+      the American &amp; National leagues.</blockquote>
     _key: card-6-90fc1d18-4af4-4e89-a974-52c52996a761
   - order: 6
     useCheckmark: true
-    body: |-
-      Have a great weekend!
-
-      [view sources](https://smarthernews.com/qq-23/)
+    body: >-
+      <div><p>Have a great weekend!</p><p><a
+      href="https://smarthernews.com/qq-23/">view sources</a></p></div>
     _key: card-10-afdf9b76-218e-4f0f-936d-fc4673fb990f
 
 ---

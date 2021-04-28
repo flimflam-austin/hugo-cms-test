@@ -22,59 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “The era of no war has started…. Today the North and South decided to
-      remove all threats that can cause war from the entire Korean peninsula.”  
-        
-      South Korean Pres. Moon Jae-in in a joint press conference with Kim Jong
-      Un announcing several agreements intended to achieve peace on the Korean
-      Peninsula. Among other things, Un said he would destroy nuclear sites *if*
-      the U.S. takes unspecified reciprocal measures.
+      <blockquote>“The era of no war has started…. Today the North and South
+      decided to remove all threats that can cause war from the entire Korean
+      peninsula.”<br><br>South Korean Pres. Moon Jae-in in a joint press
+      conference with Kim Jong Un announcing several agreements intended to
+      achieve peace on the Korean Peninsula. Among other things, Un said he
+      would destroy nuclear sites *if* the U.S. takes unspecified reciprocal
+      measures.</blockquote>
     _key: card-1-6d858300-3288-4020-8931-47413775e493
   - order: 1
     useCheckmark: false
-    body: "> \"The concept of saying a\x18downgraded’ or ’weakened’ should be forever banished.\"  \n  \n  \nUniversity of Georgia meteorology professor Marshall Shepherd speaking about the limits of the current rating system for Cat 1-5 hurricanes. He believed Florence was more dangerous as a Cat 2 storm, but the current scale measures wind strength, not flooding threat, giving some residents reason to not evacuate."
+    body: "<blockquote>\"The concept of saying a\x18downgraded’ or ’weakened’ should be forever banished.\"<br><br><br>University of Georgia meteorology professor Marshall Shepherd speaking about the limits of the current rating system for Cat 1-5 hurricanes. He believed Florence was more dangerous as a Cat 2 storm, but the current scale measures wind strength, not flooding threat, giving some residents reason to not evacuate.</blockquote>"
     _key: card-2-12f84337-faec-431a-8013-804d0205a4c5
   - order: 2
     useCheckmark: false
     body: >-
-      “The FBI investigation of Judge Kavanaugh is closed…. The FBI is not doing
-      any further investigation.”  
-        
-      Senate Judiciary Committee Chairman Chuck Grassley (R-IA) responding to a
-      request from his democrat colleagues to reopen the FBI's investigation
-      into Judge Brett Kavanaugh amid the assault allegation against him dating
-      back 30+ years. The White House hasn’t asked the FBI to reopen its
-      background investigation, which was completed before the accuser came
-      forward.
+      <p>“The FBI investigation of Judge Kavanaugh is closed…. The FBI is not
+      doing any further investigation.”<br><br>Senate Judiciary Committee
+      Chairman Chuck Grassley (R-IA) responding to a request from his democrat
+      colleagues to reopen the FBI's investigation into Judge Brett Kavanaugh
+      amid the assault allegation against him dating back 30+ years. The White
+      House hasn’t asked the FBI to reopen its background investigation, which
+      was completed before the accuser came forward.</p>
     _key: card-3-c0935285-620e-4f0c-96cc-9e2abb769bb2
   - order: 3
     useCheckmark: false
     body: >-
-      > “The job of the Senate Judiciary Committee is to serve as fact-finders,
-      to better serve the American public, and the weight of the government
-      should not be used to destroy the lives of witnesses who are called to
-      testify.”  
-        
-        
-      Anita Hill who testified in front of the aforementioned cmte in 1991 when
-      she accused then-Supreme Court nominee Clarence Thomas of sexual
-      harassment.
+      <blockquote>“The job of the Senate Judiciary Committee is to serve as
+      fact-finders, to better serve the American public, and the weight of the
+      government should not be used to destroy the lives of witnesses who are
+      called to testify.”<br><br><br>Anita Hill who testified in front of the
+      aforementioned cmte in 1991 when she accused then-Supreme Court nominee
+      Clarence Thomas of sexual harassment.</blockquote>
     _key: card-4-4d1f2a4f-089c-4ccd-8385-3b3af24f1c2d
   - order: 4
     useCheckmark: false
     body: >-
-      > “As we have always said, Bert and Ernie are best friends. They were
-      created to teach preschoolers that people can be good friends with those
-      who are very different from themselves.”  
-        
-        
-        
-      Sesame Workshop comment following a former show writer's comments that
-      when he wrote for Bert & Ernie he always saw them as a "loving couple."
+      <blockquote>“As we have always said, Bert and Ernie are best friends. They
+      were created to teach preschoolers that people can be good friends with
+      those who are very different from themselves.”<br><br><br><br>Sesame
+      Workshop comment following a former show writer's comments that when he
+      wrote for Bert &amp; Ernie he always saw them as a "loving
+      couple."</blockquote>
     _key: card-5-bafd1064-ba55-497a-8ef6-7df1347091ab
   - order: 5
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-09-19-qq/)'
+    body: <p><a href="https://smarthernews.com/18-09-19-qq/">view sources</a></p>
     _key: card-10-f1219f48-828b-4225-bede-02409df4028d
 
 ---

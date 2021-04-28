@@ -22,70 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Hidden Cost of Rideshare Apps:  
-
-      Your Privacy?
-
-
-      A St. Louis Uber & Lyft driver was fired after he**filmed & secretly
-      live-streamed** hundreds of passengers, but he**won’t face any charges**.
-
-
-      are you at risk?
+      <div><p>Hidden Cost of Rideshare Apps:<br>Your Privacy? </p><p>A St. Louis
+      Uber &amp; Lyft driver was fired after he <strong>filmed &amp; secretly
+      live-streamed</strong> hundreds of passengers, but he <strong>won’t face
+      any charges</strong>.</p><p>are you at risk?</p></div>
     _key: card-1-aa17ce9e-0b16-4530-b3a3-94bdbdae382d
   - order: 1
     useCheckmark: false
     body: >-
-      # What Happened?
-
-
-      * St. Louis driver broadcast videos of passengers**without their knowledge
-      or permission** to his thousands of online subscribers.
-
-      * Footage includes**kids, vomiting, smooching & personal chats**.
-
-      * When passengers complained to Uber, they got a**$5 credit & a promise**
-      they would be paired with other drivers going forward.
+      <div><h1>What Happened?</h1><ul><li>St. Louis driver broadcast videos of
+      passengers <strong>without their knowledge or permission</strong> to his
+      thousands of online subscribers.</li><li>Footage includes <strong>kids,
+      vomiting, smooching &amp; personal chats</strong>.</li><li>When passengers
+      complained to Uber, they got a <strong>$5 credit &amp; a promise</strong>
+      they would be paired with other drivers going forward.</li></ul></div>
     _key: card-2-bbca28b5-830d-421e-a4fa-ec99e162a7f0
   - order: 2
     useCheckmark: false
     body: >-
-      # Your Rideshare Rights
-
-
-      * Most drivers are independent contractors and own their cars.
-
-      * Laws have yet to catch up with technology and differ state to state (&
-      sometimes by locality).
-
-      * In most states, it’s legal to secretly record you b/c you don’t have a
-      ‘**reasonable expectation of privacy**’ in someone else’s car AND consent
-      is only required from one party (ie: the recorder).
+      <div><h1>Your Rideshare Rights</h1><ul><li>Most drivers are independent
+      contractors and own their cars.</li><li>Laws have yet to catch up with
+      technology and differ state to state (&amp; sometimes by
+      locality).</li><li>In most states, it’s legal to secretly record you b/c
+      you don’t have a ‘<strong>reasonable expectation of privacy</strong>’ in
+      someone else’s car AND consent is only required from one party (ie: the
+      recorder).</li></ul></div>
     _key: card-3-94c2c213-d2df-467a-bdde-e4eb7b2aab25
   - order: 3
     useCheckmark: false
     body: >-
-      > "This is one of those things that’s certainly a breach of our norms, but
-      the law might not be a great way to take care of that yet…. That could
-      change if the law evolves, but it’s moving pretty slow when it comes to
-      this technology.”  
-        
-        
-        
-      Chip Stewart, journalism professor at Texas Christian University, who
-      studied the privacy implications of live streaming technology and the
-      right to record.
+      <blockquote>"This is one of those things that’s certainly a breach of our
+      norms, but the law might not be a great way to take care of that yet….
+      That could change if the law evolves, but it’s moving pretty slow when it
+      comes to this technology.”<br><br><br><br>Chip Stewart, journalism
+      professor at Texas Christian University, who studied the privacy
+      implications of live streaming technology and the right to
+      record.</blockquote>
     _key: card-4-0f3b18dd-d30a-4d4c-a500-5a8d4b04ea3a
   - order: 4
     useCheckmark: true
     body: >-
-      Most rideshare drivers employ dash cams for security purposes and to
-      protect against false reviews, but others are ca$hing in by selling their
-      data to real estate or self-driving car companies.
-
-
-      [view
-      sources](https://smarthernews.com/18-07-24-rideshare-dashcam-privacy/)
+      <div><p>Most rideshare drivers employ dash cams for security purposes and
+      to protect against false reviews, but others are ca$hing in by selling
+      their data to real estate or self-driving car companies.</p><p><a
+      href="https://smarthernews.com/18-07-24-rideshare-dashcam-privacy/">view
+      sources</a></p></div>
     _key: card-10-c8c9f7c5-819c-4c53-b418-ad4c5d604bf4
 
 ---

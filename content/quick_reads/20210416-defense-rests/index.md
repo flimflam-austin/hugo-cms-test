@@ -22,50 +22,44 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## DEFENSE RESTS
-
-
-      > Here are the 3 main arguments made by the defense about why the former
-      police officer charged with killing George Floyd should be acquitted.
+      <div><h2>DEFENSE RESTS</h2><blockquote>Here are the 3 main arguments made
+      by the defense about why the former police officer charged with killing
+      George Floyd should be acquitted.</blockquote></div>
     _key: 9a6c3a69613c
   - order: 1
     useCheckmark: false
     body: >-
-      > "Undetermined."
-
-
-      Fmr. Maryland Chief Medical Examiner Dr. David Fowler answering a question
-      on how he would categorize George Floyd’s “cause of death.” Fowler says
-      Floyd suffered a heart attack due to pre-existing heart disease ~ other
-      potential factors include drugs in his system and accidental carbon
-      monoxide poisoning. Fowler’s testimony contrasted with the medical
-      examiner who determined Floyd’s cause of death to be “homicide” — not drug
-      use or heart disease.
+      <div><blockquote>"Undetermined." </blockquote><p>Fmr. Maryland Chief
+      Medical Examiner Dr. David Fowler answering a question on how he would
+      categorize George Floyd’s “cause of death.” Fowler says Floyd suffered a
+      heart attack due to pre-existing heart disease ~ other potential factors
+      include drugs in his system and accidental carbon monoxide poisoning.
+      Fowler’s testimony contrasted with the medical examiner who determined
+      Floyd’s cause of death to be “homicide” — not drug use or heart
+      disease.</p></div>
     _key: f567df003e11
   - order: 2
     useCheckmark: false
     body: >-
-      > "I felt that Derek Chauvin was justified, was acting with objective
-      reasonableness, following Minneapolis police department policy and current
-      standards of law enforcement in his interaction with Mr. Floyd."
-
-
-      Fmr. police officer and use of force expert Barry Vance Brodd testified
-      that Derek Chauvin acted appropriately - adding that when justified, the
-      use of the restraining a suspect face-down is a "control technique," not
-      "a use of force."
+      <div><blockquote>"I felt that Derek Chauvin was justified, was acting with
+      objective reasonableness, following Minneapolis police department policy
+      and current standards of law enforcement in his interaction with Mr.
+      Floyd." </blockquote><p>Fmr. police officer and use of force expert Barry
+      Vance Brodd testified that Derek Chauvin acted appropriately - adding that
+      when justified, the use of the restraining a suspect face-down is a
+      "control technique," not "a use of force."</p></div>
     _key: 7e3abd036c8a
   - order: 3
     useCheckmark: false
-    body: "> \"I was concerned for the officers' safety, yes.\"\n\nMinneapolis Park Police Officer Peter Chang,\_one of the officers called to the scene on May 25, 2020, testified that he was concerned for the safety of the officers that day because \"the crowd was becoming more loud and aggressive.\" One of the arguments made by the defense is that Derek Chauvin's actions were influenced by the surrounding crowd and bystanders, which he deemed as hostile."
+    body: "<div><blockquote>\"I was concerned for the officers' safety, yes.\" </blockquote><p>Minneapolis Park Police Officer Peter Chang,\_one of the officers called to the scene on May 25, 2020, testified that he was concerned for the safety of the officers that day because \"the crowd was becoming more loud and aggressive.\" One of the arguments made by the defense is that Derek Chauvin's actions were influenced by the surrounding crowd and bystanders, which he deemed as hostile.</p></div>"
     _key: 051db138d31c
   - order: 4
     useCheckmark: true
     body: >-
-      Derek Chauvin declined to take the stand, invoking his Fifth Amendment
+      <p>Derek Chauvin declined to take the stand, invoking his Fifth Amendment
       right not to testify in the case against him. After both sides present
       their closing arguments on Monday, the judge will instruct the jury before
-      they head into deliberations.
+      they head into deliberations.</p>
     _key: 5f2179777b7a
 
 ---

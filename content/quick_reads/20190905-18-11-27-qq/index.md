@@ -22,66 +22,61 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "Flawless.”  
-        
-      Rob Manning, NASA’s Jet Propulsion Laboratory chief engineer, on
-      three-legged spacecraft InSight's autonomous landing on Mars after a
-      perilous 6-minute decent. In a first of its kind 2-year mission, the probe
-      will dig into Mars' core to learn more about how rocky planets like it in
-      our solar system differ so greatly from Earth. The last time NASA touched
-      down on Mars was 2012.
+      <blockquote>"Flawless.”<br><br>Rob Manning, NASA’s Jet Propulsion
+      Laboratory chief engineer, on three-legged spacecraft InSight's autonomous
+      landing on Mars after a perilous 6-minute decent. In a first of its kind
+      2-year mission, the probe will dig into Mars' core to learn more about how
+      rocky planets like it in our solar system differ so greatly from Earth.
+      The last time NASA touched down on Mars was 2012.</blockquote>
     _key: card-1-84766f4c-1c29-4829-8a42-c70254944bb6
   - order: 1
     useCheckmark: false
     body: >-
-      > “It is introduced with the sole purpose of boosting Ukraine’s defense in
-      the light of a growing aggression from Russia."  
-        
-      Ukrainian President Petro Poroshenko after Parliament supported his plan
-      to declare 30-day martial law after Russia fired-on and held three
-      Ukrainian ships & 23 crew members in a disputed area of the Black Sea.
-      Martial law, a first for the nation even during war times, effects 10 of
-      27 regions. Russia says Ukraine entered its waters illegally.
+      <blockquote>“It is introduced with the sole purpose of boosting Ukraine’s
+      defense in the light of a growing aggression from
+      Russia."<br><br>Ukrainian President Petro Poroshenko after Parliament
+      supported his plan to declare 30-day martial law after Russia fired-on and
+      held three Ukrainian ships &amp; 23 crew members in a disputed area of the
+      Black Sea. Martial law, a first for the nation even during war times,
+      effects 10 of 27 regions. Russia says Ukraine entered its waters
+      illegally.</blockquote>
     _key: card-2-b109ab98-9943-4e00-9a60-d71e1bbf521c
   - order: 2
     useCheckmark: false
     body: >-
-      > “Last year was bad; this year is horrible.”  
-        
-      Chris Winkler, on having to shut down two of his four Christmas Tree
-      selling locations in Kendall, Florida, due to a nationwide Christmas Tree
+      <blockquote>“Last year was bad; this year is horrible.”<br><br>Chris
+      Winkler, on having to shut down two of his four Christmas Tree selling
+      locations in Kendall, Florida, due to a nationwide Christmas Tree
       shortage, which experts blame on the 2008 financial crisis. Trees take
       about 10 years to grow and the crisis meant growers planted fewer trees to
       save money. Fear not! The shortage doesn't mean you'll have to buy an
-      artifical tree, but it could mean higher prices and less selection.
+      artifical tree, but it could mean higher prices and less
+      selection.</blockquote>
     _key: card-3-d9d0e73c-87dd-43ea-aa42-0536dcdec4e9
   - order: 3
     useCheckmark: false
     body: >-
-      > “When this started out a couple years ago we were pretty skeptical about
-      it…”  
-        
-      Colleen Finn Ridenhour, Habitat for Humanity SVP, on Giving Tuesday, a day
-      of fundraising for our nation's charities. Giving Tuesday, now in its 7th
-      year, was started by New York City's 92nd Street Y & the United Nations
-      Foundation. Last year, it raised more than $300M in one day with an
-      average gift of $120.
+      <blockquote>“When this started out a couple years ago we were pretty
+      skeptical about it…”<br><br>Colleen Finn Ridenhour, Habitat for Humanity
+      SVP, on Giving Tuesday, a day of fundraising for our nation's charities.
+      Giving Tuesday, now in its 7th year, was started by New York City's 92nd
+      Street Y &amp; the United Nations Foundation. Last year, it raised more
+      than $300M in one day with an average gift of $120.</blockquote>
     _key: card-4-3057eda8-bdff-4252-92be-19b03d17706a
   - order: 4
     useCheckmark: false
     body: >-
-      “There’s no guarantee that this it’s going to stay SUV, SUV, SUV, SUV. …it
-      could be problematic for them.”  
-        
-      Mike Ramsey, Gartner transportation analyst, on General Motors decision to
-      end production of smaller passenger cars like the Chevrolet Cruze, laying
-      off 14K+ employees and closing plants in Michigan, Ohio, Maryland &
-      Canada. GM says the move will save the company an est. $6B by 2020; The
-      United Auto Workers union says it will fight the decision.
+      <p>“There’s no guarantee that this it’s going to stay SUV, SUV, SUV, SUV.
+      …it could be problematic for them.”<br><br>Mike Ramsey, Gartner
+      transportation analyst, on General Motors decision to end production of
+      smaller passenger cars like the Chevrolet Cruze, laying off 14K+ employees
+      and closing plants in Michigan, Ohio, Maryland &amp; Canada. GM says the
+      move will save the company an est. $6B by 2020; The United Auto Workers
+      union says it will fight the decision.</p>
     _key: card-5-be4361fd-cb86-463c-87c6-75fe4f6ed1ca
   - order: 5
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-11-27-qq/)'
+    body: <p><a href="https://smarthernews.com/18-11-27-qq/">view sources</a></p>
     _key: card-10-48fbfb7a-492c-48a3-99f5-5b049b6a227f
 
 ---

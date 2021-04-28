@@ -17,77 +17,52 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ICYMI:
-
-
-
-      ## THE HOPE METRIC
-
-      America’s unemployment rate went up in June to 4%.
-
-      Why a higher unemployment rate reflects a healthy job market.
-
-      Flip: Why It Matters
+    body: >-
+      <div><p>ICYMI:</p><p></p><h2>THE HOPE METRIC</h2><p>America’s unemployment
+      rate went up in June to 4%.</p><p>Why a higher unemployment rate reflects
+      a healthy job market.</p><p>Flip: Why It Matters</p></div>
     _key: card-1-27306dcb-d7d3-4db4-8bd4-9019ae41b9cb
   - order: 1
     useCheckmark: false
     body: >-
-      ## Jobs Report 101
-
-
-      * You are counted as part of the labor force if you are**able** to
-      work,**want** to work, and**actively** looking for work.
-
-      * More Americans started looking for work last month – a**good sign that
-      reflects optimism**.
-
-      * The**labor force grew by 601,000 people**, reflecting more people
-      looking for a job and the unemployment went up slightly.
+      <div><h2>Jobs Report 101</h2><ul><li>You are counted as part of the labor
+      force if you are <strong>able</strong> to work, <strong>want</strong> to
+      work, and <strong>actively</strong> looking for work.</li><li>More
+      Americans started looking for work last month – a <strong>good sign that
+      reflects optimism</strong>.</li><li>The <strong>labor force grew by
+      601,000 people</strong>, reflecting more people looking for a job and the
+      unemployment went up slightly.</li></ul></div>
     _key: card-2-dc2c7512-e877-4628-85d6-74b07707cf38
   - order: 2
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      * **Latino unemployment rate fell to a record low;** more women and blacks
-      looking for work.
-
-      * **Wages continue to increase** – an important sign of healthy job
-      market. However, when adjusted for inflation, the**take-home pay is
-      essentially flat to last year**. Possible reason? More Americans fill
-      lower paid jobs during summer months (AP).
+      <div><h2>Something To Consider:</h2><ul><li><strong>Latino unemployment
+      rate fell to a record low;</strong> more women and blacks looking for
+      work.</li><li><strong>Wages continue to increase</strong> – an important
+      sign of healthy job market. However, when adjusted for inflation, the
+      <strong>take-home pay is essentially flat to last year</strong>. Possible
+      reason? More Americans fill lower paid jobs during summer months
+      (AP).</li></ul></div>
     _key: card-3-ec09938e-caaf-4783-ad7d-3f865b4f26a5
   - order: 3
     useCheckmark: false
     body: >-
-      ## National vs. Local
-
-
-      > While overall job picture positive, the numbers differ state-to-state.  
-        
-        
-        
-      CNBC: Some important swing states like Michigan have seen unemployment
-      rates rise.  
-        
-        
-        
-      “The jobless rate was also higher than the national average in Arizona,
-      Mississippi, Louisiana and Pennsylvania, all states Trump carried in
-      2016.”
+      <div><h2>National vs. Local</h2><blockquote>While overall job picture
+      positive, the numbers differ state-to-state.<br><br><br><br>CNBC: Some
+      important swing states like Michigan have seen unemployment rates
+      rise.<br><br><br><br>“The jobless rate was also higher than the national
+      average in Arizona, Mississippi, Louisiana and Pennsylvania, all states
+      Trump carried in 2016.”</blockquote></div>
     _key: card-4-0692fcee-85ba-49cd-af7b-d8e4c7552a21
   - order: 4
     useCheckmark: true
     body: >-
-      Don't forget the impact of potential aluminum & steel tariffs on
-      Mexico/Canada/Europe for swing states like Michigan/Pennsylvania. A
+      <div><p>Don't forget the impact of potential aluminum &amp; steel tariffs
+      on Mexico/Canada/Europe for swing states like Michigan/Pennsylvania. A
       lingering question: What do the tariffs on China (and China tariffs on
-      U.S.) do to the U.S.? economy & job market? More To Come.
-
-
-      [view sources](https://smarthernews.com/18-07-08-jobs-report/)
+      U.S.) do to the U.S.? economy &amp; job market? More To Come.</p><p><a
+      href="https://smarthernews.com/18-07-08-jobs-report/">view
+      sources</a></p></div>
     _key: card-10-a7ba7dbf-baf4-42d3-8de6-fca524b9f9db
 
 ---

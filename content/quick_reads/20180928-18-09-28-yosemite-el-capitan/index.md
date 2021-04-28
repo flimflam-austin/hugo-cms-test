@@ -22,23 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > Watch the first person to climb Yosemite’s El Capitan 3,200 wall of
-      granite – WITHOUT a rope or harness.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/urRVZ4SW7WU?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>Watch the first person to climb Yosemite’s El Capitan
+      3,200 wall of granite – WITHOUT a rope or harness.</blockquote><p><a
+      href="https://www.youtube.com/embed/urRVZ4SW7WU?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     citation: Watch Now
     _key: card-1-c54590db-47cc-499f-bd5e-4ac2d52040d6
   - order: 1
     useCheckmark: true
     body: >-
-      Alex Honnold (33) completed this amazing feat June 2017. His journey is
-      featured in a National Geographic documentary entitled "Free Solo." It
-      hits theaters on Friday, September 28th.
-
-
-      [view sources](https://smarthernews.com/18-09-28-yosemite-el-capitan/)
+      <div><p>Alex Honnold (33) completed this amazing feat June 2017. His
+      journey is featured in a National Geographic documentary entitled "Free
+      Solo." It hits theaters on Friday, September 28th.</p><p><a
+      href="https://smarthernews.com/18-09-28-yosemite-el-capitan/">view
+      sources</a></p></div>
     _key: card-10-cc033777-4b08-48ef-ab83-2cc46ae9acf3
 
 ---

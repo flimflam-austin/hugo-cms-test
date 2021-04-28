@@ -22,80 +22,57 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## WHO KEEPS OUR NATION’S TOP SECRETS?
-
-
-      > **4+ million Americans have security clearances.**  
-
-      **President Trump revoked 1**.  
-        
-      Why some say stripping former CIA Dir. John Brennan of his clearance is an
-      attack on free speech, while others say it had to be done.
-
-
-      BIGGER PICTURE
+      <div><h2>WHO KEEPS OUR NATION’S TOP SECRETS?</h2><blockquote><strong>4+
+      million Americans have security clearances.</strong><br><strong>President
+      Trump revoked 1</strong>.<br><br>Why some say stripping former CIA Dir.
+      John Brennan of his clearance is an attack on free speech, while others
+      say it had to be done.</blockquote><p>BIGGER PICTURE</p></div>
     _key: card-1-2551ddd8-85b8-4718-9eb0-5b134fb85448
   - order: 1
     useCheckmark: false
     body: >-
-      ## Who Keeps Clearance?
-
-
-      * **Who**: Former federal employees who had on the job security
-      clearances.
-
-      * **Why**: In case a need arises when he or she can be of use to the
-      current administration.
-
-      * **How long**: Clearance continues (with periodic reviews) as long as
-      person avoids sharing classified info, getting into debt, & traveling to
-      certain parts of the world, etc.
+      <div><h2>Who Keeps Clearance?</h2><ul><li><strong>Who</strong>: Former
+      federal employees who had on the job security
+      clearances.</li><li><strong>Why</strong>: In case a need arises when he or
+      she can be of use to the current administration.</li><li><strong>How
+      long</strong>: Clearance continues (with periodic reviews) as long as
+      person avoids sharing classified info, getting into debt, &amp; traveling
+      to certain parts of the world, etc.</li></ul></div>
     _key: card-2-782eabda-1207-41a4-b2f6-ff268d13ed4b
   - order: 2
     useCheckmark: false
     body: >-
-      ## Bigger Picture:
-
-
-      * Current *Security Clearance* system deemed “high risk” by gov’t
-      watchdog.
-
-      * Too many people have security clearances (est. 1.4M at “top secret”
-      level) & continual reviews of their eligibility are inconsistent.
-
-      * Evaluations take too long. More than 700,000 people waiting for security
-      clearance, according to most recent estimates.
+      <div><h2>Bigger Picture:</h2><ul><li>Current *Security Clearance* system
+      deemed “high risk” by gov’t watchdog.</li><li>Too many people have
+      security clearances (est. 1.4M at “top secret” level) &amp; continual
+      reviews of their eligibility are inconsistent.</li><li>Evaluations take
+      too long. More than 700,000 people waiting for security clearance,
+      according to most recent estimates.</li></ul></div>
     _key: card-3-8dfd31d3-5636-4f26-a97f-e4521339117e
   - order: 3
     useCheckmark: false
-    body: "## Why Revoke Brennan?\n\n> “Mr. Brennan has recently leveraged his status as a former high-ranking official with access to highly sensitive information to make a series of unfounded and outrageous allegations a\x14 wild outbursts on the Internet and television a\x14 about this administration.\"  \n  \n  \n  \nPresident Trump"
+    body: "<div><h2>Why Revoke Brennan?</h2><blockquote>“Mr. Brennan has recently leveraged his status as a former high-ranking official with access to highly sensitive information to make a series of unfounded and outrageous allegations a\x14 wild outbursts on the Internet and television a\x14 about this administration.\"<br><br><br><br>President Trump</blockquote></div>"
     _key: card-4-7bec2b90-b800-4097-aef2-38e74f73239d
   - order: 4
     useCheckmark: false
     body: >-
-      ## John Brennan’s Response:
-
-
-      > “This action is part of a broader effort by Mr. Trump to suppress
-      freedom of speech & punish critics.A It should gravely worry all
-      Americans, including intelligence professionals, about the cost of
-      speaking out. My principles are worth far more than clearances. I will not
-      relent.”
-
-
-      [Click: His
-      Criticism](https://twitter.com/JohnBrennan/status/1018885971104985093)
+      <div><h2>John Brennan’s Response:</h2><blockquote>“This action is part of
+      a broader effort by Mr. Trump to suppress freedom of speech &amp; punish
+      critics.A It should gravely worry all Americans, including intelligence
+      professionals, about the cost of speaking out. My principles are worth far
+      more than clearances. I will not relent.”</blockquote><p><a
+      href="https://twitter.com/JohnBrennan/status/1018885971104985093">Click:
+      His Criticism</a></p></div>
     _key: card-5-c2d18b53-31c7-48dd-89a7-3d87e1008da5
   - order: 5
     useCheckmark: true
     body: >-
-      The topic of revoking security clearances came up several weeks ago when
-      some, like Brennan criticized the President's meeting with Vladimir Putin.
-      Is Brennan sowing "division & chaos" or exercising free speech? Does
-      social media change the equation?
-
-
-      [view sources](https://smarthernews.com/18-08-16-who-keeps-our-secrets/)
+      <div><p>The topic of revoking security clearances came up several weeks
+      ago when some, like Brennan criticized the President's meeting with
+      Vladimir Putin. Is Brennan sowing "division &amp; chaos" or exercising
+      free speech? Does social media change the equation?</p><p><a
+      href="https://smarthernews.com/18-08-16-who-keeps-our-secrets/">view
+      sources</a></p></div>
     _key: card-10-dfe93197-c144-455f-9f98-adbe2d5001e6
 
 ---

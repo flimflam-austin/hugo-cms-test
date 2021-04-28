@@ -22,60 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # QUICK QUOTES
-
-
-      > “With the first pick in the 2018 NFL Draft, the Cleveland Browns
-      pick,**Baker Mayfield**.”  
-        
-      Roger Goodell, NFL Commissioner, April 26, 2018. Oklahoma QB Baker
-      Mayfield went from playing on a college team without a scholarship to
-      winning the Heisman Trophy.
+      <div><h1>QUICK QUOTES</h1><blockquote>“With the first pick in the 2018 NFL
+      Draft, the Cleveland Browns pick, <strong>Baker
+      Mayfield</strong>.”<br><br>Roger Goodell, NFL Commissioner, April 26,
+      2018. Oklahoma QB Baker Mayfield went from playing on a college team
+      without a scholarship to winning the Heisman Trophy.</blockquote></div>
     _key: card-1-a7330f06-a3c6-4fb1-b602-22fbf34a3dc2
   - order: 1
     useCheckmark: false
     body: >-
-      > “I got her a beautiful card. You know, I am very busy to be running
-      around looking for presents.”  
-        
-      President Trump, Fox & Friends, April 26, 2018 (his wife, Melania's
-      birthday). The President called into the show unexpectedly and spoke for
-      30 minutes.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/_lu_Hgw60Ns?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>“I got her a beautiful card. You know, I am very busy to
+      be running around looking for presents.”<br><br>President Trump, Fox &amp;
+      Friends, April 26, 2018 (his wife, Melania's birthday). The President
+      called into the show unexpectedly and spoke for 30
+      minutes.</blockquote><p><a
+      href="https://www.youtube.com/embed/_lu_Hgw60Ns?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-2-d753a8e5-a4e3-49d7-8e3e-89bcbd7970c7
   - order: 2
     useCheckmark: false
     body: >-
-      > “Great to have Secretary Pompeo confirmed. He will do an excellent job
-      helping @POTUS lead our efforts to denuclearize the Korean Peninsula.”  
-        
-        
-      Press Sec Sarah Huckabee Sanders, April 26, 2018 Tweet, after Senate
-      confirms Fmr CIA Director Mike Pompeo as America's 70th Sec of State.
-      Sanders also released never before seen photos.
-
-
-      [Click Here:
-      Photos](https://twitter.com/PressSec/status/989593842944036864)
+      <div><blockquote>“Great to have Secretary Pompeo confirmed. He will do an
+      excellent job helping @POTUS lead our efforts to denuclearize the Korean
+      Peninsula.”<br><br><br>Press Sec Sarah Huckabee Sanders, April 26, 2018
+      Tweet, after Senate confirms Fmr CIA Director Mike Pompeo as America's
+      70th Sec of State. Sanders also released never before seen
+      photos.</blockquote><p><a
+      href="https://twitter.com/PressSec/status/989593842944036864">Click Here:
+      Photos</a></p></div>
     _key: card-3-fb651c29-6710-4c53-bfcd-9cf4c5c0fb4d
   - order: 3
     useCheckmark: false
     body: >-
-      > “It is not just a victory for Andrea Constand …. It is not just a
-      victory for the 62 of us publicly known Cosby survivors …. It also a
-      victory for womanhood, and it is a victory for all sexual assault
-      survivors, female and male.’  
-        
-      Lili Bernard, reacting outside the courtroom to the verdict in the
-      criminal case against Bill Cosby. America's #1 dad faces up to 30 years in
-      prison in connection with the 2004 sexual assault.
+      <blockquote>“It is not just a victory for Andrea Constand …. It is not
+      just a victory for the 62 of us publicly known Cosby survivors …. It also
+      a victory for womanhood, and it is a victory for all sexual assault
+      survivors, female and male.’<br><br>Lili Bernard, reacting outside the
+      courtroom to the verdict in the criminal case against Bill Cosby.
+      America's #1 dad faces up to 30 years in prison in connection with the
+      2004 sexual assault.</blockquote>
     _key: card-4-8c1ef5ee-bd25-4628-9259-fe308892c33f
   - order: 4
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-04-26-quote-stacks/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-04-26-quote-stacks/">view
+      sources</a></p>
     _key: card-10-8dca9e7b-c910-4782-bec4-0ccc08da5a76
 
 ---

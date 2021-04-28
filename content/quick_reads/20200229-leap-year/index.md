@@ -22,63 +22,47 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## WHY WE LEAP
-
-
-      What you may not know about why we add an extra day *nearly* every four
-      years
+      <div><h2>WHY WE LEAP</h2><p>What you may not know about why we add an
+      extra day *nearly* every four years</p></div>
     _key: 306a76f8be9e
   - order: 1
     useCheckmark: false
     body: >-
-      “Adding an extra day every four years keeps our calendar aligned correctly
-      with the astronomical seasons, since a year according to the Gregorian
-      calendar (365 days) and a year according to Earth’s orbit around the Sun
-      (approximately 365.25 days) are not the exact same length of time. Without
-      this extra day, our calendar and the seasons would gradually get out of
-      sync.”
-
-
-      Old Farmer's Almanac
+      <div><p>“Adding an extra day every four years keeps our calendar aligned
+      correctly with the astronomical seasons, since a year according to the
+      Gregorian calendar (365 days) and a year according to Earth’s orbit around
+      the Sun (approximately 365.25 days) are not the exact same length of time.
+      Without this extra day, our calendar and the seasons would gradually get
+      out of sync.”</p><p>Old Farmer's Almanac</p></div>
     _key: a93bcf0d5331
   - order: 2
     useCheckmark: false
     body: >-
-      ## The Origins
-
-
-      * In 46 BC, w/the Egyptian calendar of 365 days falling about 1/4 a day
-      behind the solar year, Julius Caesar ordered 1 day to be added every 4
-      years.
-
-      * Over the next 1,600+ yrs, the calendar no longer matched the equinoxes.
-
-      * In 1582, the**“4 year rule**” was amended. Only years equally divisible
-      by 4 are leap years. Centuries (ex: 2000) must *also* be equally divisible
-      by 400 to be leap years.
+      <div><h2>The Origins</h2><ul><li>In 46 BC, w/the Egyptian calendar of 365
+      days falling about 1/4 a day behind the solar year, Julius Caesar ordered
+      1 day to be added every 4 years.</li><li>Over the next 1,600+ yrs, the
+      calendar no longer matched the equinoxes.</li><li>In 1582, the <strong>“4
+      year rule</strong>” was amended. Only years equally divisible by 4 are
+      leap years. Centuries (ex: 2000) must *also* be equally divisible by 400
+      to be leap years.</li></ul></div>
     _key: a63918d7fa7c
   - order: 3
     useCheckmark: false
     body: >-
-      ## Leap Day Babies
-
-
-      * The chance of being born Leap Day (2/29) is 1 in 1,461 because 1,461 is
-      the number of days in four years: 365+365+365+366.
-
-      * At least two women have given birth on three consecutive Leap Days: a
-      Norway mom in the 1900s and a Utah mom in the 2000s.
-
-      * A European family holds the Guinness World Record for the most (three)
-      generations born on 2/29.
+      <div><h2>Leap Day Babies</h2><ul><li>The chance of being born Leap Day
+      (2/29) is 1 in 1,461 because 1,461 is the number of days in four years:
+      365+365+365+366.</li><li>At least two women have given birth on three
+      consecutive Leap Days: a Norway mom in the 1900s and a Utah mom in the
+      2000s.</li><li>A European family holds the Guinness World Record for the
+      most (three) generations born on 2/29.</li></ul></div>
     _key: 50ceac40aa1f
   - order: 4
     useCheckmark: true
     body: >-
-      LEAPING INTO LOVE? In some European countries, like Ireland, there is a
-      tradition of women proposing to men on Leap Day. Some even consider it to
-      be good luck, but others, like Ukraine and Greece, view Leap Year weddings
-      as bad luck.
+      <div><p>LEAPING INTO LOVE? In some European countries, like Ireland, there
+      is a tradition of women proposing to men on Leap Day. Some even consider
+      it to be good luck, but others, like Ukraine and Greece, view Leap Year
+      weddings as bad luck.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 56a731132627
 

@@ -21,20 +21,19 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## _“We fall down and we get back up. That’s the sign of champions_.”
-
-      ##
+    body: >-
+      <div><h2><em>“We fall down and we get back up. That’s the sign of
+      champions</em>.”</h2><h2></h2></div>
     citation: KANYE WEST
     _key: b78bf2041531
   - order: 1
     useCheckmark: true
     body: >-
-      West on perseverance to Wall Street Journal Magazine. West donated what's
-      described as a "generous" amount of money to organizations in L.A. &
-      Chicago that deliver & serve meals to communities in need amid the
-      coronavirus pandemic. One charity said of the donation "...in an instance
-      today, our world was changed."
+      <div><p>West on perseverance to Wall Street Journal Magazine. West donated
+      what's described as a "generous" amount of money to organizations in L.A.
+      &amp; Chicago that deliver &amp; serve meals to communities in need amid
+      the coronavirus pandemic. One charity said of the donation "...in an
+      instance today, our world was changed."</p><p></p></div>
     citation: VIEW SOURCES
     _key: 053c96ad5d6c
 

@@ -21,79 +21,61 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      Two hair stylists develop symptoms for COVID-19.
-
-      They keep working regardless … with 100+ clients.
-
-      The CDC says what happened next illustrates the power of wearing masks.
+    body: >-
+      <div><p>Two hair stylists develop symptoms for COVID-19.</p><p>They keep
+      working regardless … with 100+ clients.</p><p>The CDC says what happened
+      next illustrates the power of wearing masks.</p></div>
     _key: c4a504612a77
   - order: 1
     useCheckmark: false
     body: >-
-      ## Backstory
-
-
-      * New study focuses on transmission of the virus that causes COVID-19 in a
-      hair salon in Springfield, Missouri.
-
-      * **Stylist A** developed respiratory symptoms. She took a COVID-19 test
-      on day 6 of her illness but kept working with clients for 8 days, when her
-      test came back positive.
-
-      * **Stylist B** developed symptoms, and worked for 5 days before
-      self-isolating and testing positive 2 days later.
+      <div><h2>Backstory</h2><ul><li>New study focuses on transmission of the
+      virus that causes COVID-19 in a hair salon in Springfield,
+      Missouri.</li><li><strong>Stylist A</strong> developed respiratory
+      symptoms. She took a COVID-19 test on day 6 of her illness but kept
+      working with clients for 8 days, when her test came back
+      positive.</li><li><strong>Stylist B</strong> developed symptoms, and
+      worked for 5 days before self-isolating and testing positive 2 days
+      later.</li></ul></div>
     _key: '852093502944'
   - order: 2
     useCheckmark: false
     body: >-
-      ## What Happened
-
-
-      * 139 clients, ranging from 21 to 93-years-old, were exposed to the two
-      stylists.
-
-      * Both stylists wore masks throughout the 15-45 minute appointments, as
-      did nearly all of the clients.
-
-      * **No clients reported COVID-19 symptoms in the following weeks.** About
-      half agreed to be officially tested – zero tested positive for SARS-COV-2
-      (the virus that causes COVID-19).
+      <div><h2>What Happened</h2><ul><li>139 clients, ranging from 21 to
+      93-years-old, were exposed to the two stylists.</li><li>Both stylists wore
+      masks throughout the 15-45 minute appointments, as did nearly all of the
+      clients.</li><li><strong>No clients reported COVID-19 symptoms in the
+      following weeks.</strong> About half agreed to be officially tested – zero
+      tested positive for SARS-COV-2 (the virus that causes
+      COVID-19).</li></ul></div>
     _key: 140a9e7a182f
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider
-
-
-      While both stylists wore masks *during* client appointments, they did not
-      wear masks *between* appointments when interacting with each other.
-
-
-      * Stylist A’s contacts developed symptoms and tested positive for COVID-19
-      (her husband, daughter, son-in-law and roommate).
-
-      * Stylist B’s contacts did not develop symptoms.
+      <div><h2>Something To Consider</h2><p>While both stylists wore masks
+      *during* client appointments, they did not wear masks *between*
+      appointments when interacting with each other.</p><ul><li>Stylist A’s
+      contacts developed symptoms and tested positive for COVID-19 (her husband,
+      daughter, son-in-law and roommate).</li><li>Stylist B’s contacts did not
+      develop symptoms.</li></ul></div>
     _key: bd57b49dfcfc
   - order: 4
     useCheckmark: false
     body: >-
-      ## Why This Matters?
-
-
-      * As states start to “shut down” their economies during an increase in
-      infections, this new report suggests masks may help_“to reduce the impact
-      and magnitude of additional waves of COVID-19”_ according to the CDC.
-
-      * **However**, the CDC notes scientists don’t fully understand how
-      SARS-COV-2 is transmitted & researchers did not track clients who
-      interacted with stylists BEFORE symptoms.
+      <div><h2>Why This Matters?</h2><ul><li>As states start to “shut down”
+      their economies during an increase in infections, this new report suggests
+      masks may help <em>“to reduce the impact and magnitude of additional waves
+      of COVID-19”</em> according to the CDC.</li><li><strong>However</strong>,
+      the CDC notes scientists don’t fully understand how SARS-COV-2 is
+      transmitted &amp; researchers did not track clients who interacted with
+      stylists BEFORE symptoms.</li></ul></div>
     _key: e916eff05080
   - order: 5
     useCheckmark: true
     body: >-
-      Important: Not all clients had on the same masks - some had cloth, other
-      had medical masks. The stylists all wore cloth masks.
+      <div><p>Important: Not all clients had on the same masks - some had cloth,
+      other had medical masks. The stylists all wore cloth
+      masks.</p><p></p></div>
     citation: VIEW SOURCES
     _key: c0076c5039ab
 

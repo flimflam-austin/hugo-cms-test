@@ -22,18 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “_With the campaign over, it’s time to put the anger and the harsh
-      rhetoric behind us and come together as a nation. It’s time for America to
-      unite. And to heal. We are the United States of America. And there’s
-      nothing we can’t do, if we do it together._“
+      <div><blockquote>“<em>With the campaign over, it’s time to put the anger
+      and the harsh rhetoric behind us and come together as a nation. It’s time
+      for America to unite. And to heal. We are the United States of America.
+      And there’s nothing we can’t do, if we do it
+      together.</em>“</blockquote><p></p></div>
     citation: JOSEPH R. BIDEN
     _key: ff31674c94c1
   - order: 1
     useCheckmark: true
     body: >-
-      In response to reports by news outlets that Pres. Trump lost the election,
-      the President said "The simple fact is this election is far from over.
-      Read more on our source page.
+      <div><p>In response to reports by news outlets that Pres. Trump lost the
+      election, the President said "The simple fact is this election is far from
+      over. Read more on our source page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 9e21b4edbdba
 

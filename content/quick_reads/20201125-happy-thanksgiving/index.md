@@ -22,92 +22,63 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # What Did They Eat?
-
-
-      ## First Thanksgiving Feast
-
-
-      Pigeons potentially served alongside turkey…venison instead of ham…maybe a
-      side of eel…but definitely…  
-
-      **NO PIE.**
+      <div><h1>What Did They Eat?</h1><h2>First Thanksgiving
+      Feast</h2><p>Pigeons potentially served alongside turkey…venison instead
+      of ham…maybe a side of eel…but definitely…<br><strong>NO
+      PIE.</strong></p><p></p></div>
     citation: WAIT. NO PIE?
     _key: 7adbb0bc17ab
   - order: 1
     useCheckmark: false
     body: >-
-      > “… no, the pastry isn’t there. That is a blank in the table, for an
-      English eye … So what are they putting on instead? I think meat, meat and
-      more meat.”
-
-
-      Kathleen Wall, culinarian at the Plimoth Plantation -- a "living museum"
-      in Massachusetts where the Pilgrims landed accidentally in 1620 --
-      explains that they were lacking butter and flour to make pie crust. Their
-      first Thanksgiving in 1621 celebrated surviving their first year in a new
-      land.
+      <div><blockquote>“… no, the pastry isn’t there. That is a blank in the
+      table, for an English eye … So what are they putting on instead? I think
+      meat, meat and more meat.”</blockquote><p>Kathleen Wall, culinarian at the
+      Plimoth Plantation -- a "living museum" in Massachusetts where the
+      Pilgrims landed accidentally in 1620 -- explains that they were lacking
+      butter and flour to make pie crust. Their first Thanksgiving in 1621
+      celebrated surviving their first year in a new land.</p></div>
     _key: 43ed973123d7
   - order: 2
     useCheckmark: false
     body: >-
-      ## MAJOR MEATS
-
-
-      * Surviving letters from the time period describe hunts for “wild fowl” —
-      likely**wild turkey**, geese, duck, and potentially flocks of passenger
-      pigeons.
-
-      * **Venison** (aka DEER) meat was contributed by local Native Americans,
-      the Wampanoag Indians, who helped teach the pilgrims how to hunt, fish &
-      harvest the area of modern-day Cape Cod.
+      <div><h2>MAJOR MEATS</h2><ul><li>Surviving letters from the time period
+      describe hunts for “wild fowl” — likely <strong>wild turkey</strong>,
+      geese, duck, and potentially flocks of passenger
+      pigeons.</li><li><strong>Venison</strong> (aka DEER) meat was contributed
+      by local Native Americans, the Wampanoag Indians, who helped teach the
+      pilgrims how to hunt, fish &amp; harvest the area of modern-day Cape
+      Cod.</li></ul></div>
     _key: a90b9d5e65a3
   - order: 3
     useCheckmark: false
     body: >-
-      ## LASTING DISHES
-
-
-      **LIKELY during Thanksgiving 1621:**  
-
-      Wild turkey  
-
-      Corn (dried), beans & carrots  
-
-      Pumpkins (squash)  
-
-      Mussels, eel or shellfish
-
-
-      **LIKELY NOT:**  
-
-      Potatoes (not in North America)  
-
-      Cranberry sauce (not talked about for another 50 yrs) — plus, sugar was
-      scarce.
+      <div><h2>LASTING DISHES</h2><p><strong>LIKELY during Thanksgiving
+      1621:</strong><br>Wild turkey<br>Corn (dried), beans &amp;
+      carrots<br>Pumpkins (squash)<br>Mussels, eel or
+      shellfish</p><p><strong>LIKELY NOT:</strong><br>Potatoes (not in North
+      America)<br>Cranberry sauce (not talked about for another 50 yrs) — plus,
+      sugar was scarce.</p></div>
     _key: 221b3b6d49e2
   - order: 4
     useCheckmark: false
     body: >-
-      ## NAME TO KNOW:  
-
-      Sarah Josepha Hale
-
-
-      * Original poet of “Mary Had A Little Lamb” & editor of woman’s mag
-      “Godey’s Lady’s Book,” where she wrote about American issues & customs.
-
-      * Wrote editorials & petitions for more than two decades encouraging
-      politicians to make Thanksgiving a national (instead of regional) holiday.
+      <div><h2>NAME TO KNOW:<br>Sarah Josepha Hale</h2><ul><li>Original poet of
+      “Mary Had A Little Lamb” &amp; editor of woman’s mag “Godey’s Lady’s
+      Book,” where she wrote about American issues &amp; customs.</li><li>Wrote
+      editorials &amp; petitions for more than two decades encouraging
+      politicians to make Thanksgiving a national (instead of regional)
+      holiday.</li></ul><p><br></p></div>
     _key: 026484fd53f4
   - order: 5
     useCheckmark: true
     body: >-
-      Hale's work paid off. A letter to Pres. Lincoln in Sept. 1863 is thought
-      to have inspired his proclamation to make Thanksgiving a national holiday
-      on November's third Thursday. He did this during the Civil War in 1863
-      (the same year he delivered the Gettysburg Address) as a way to unify the
-      country around a common history. Read Hale's letter here:
+      <div><p>Hale's work paid off. A letter to Pres. Lincoln in Sept. 1863 is
+      thought to have inspired his proclamation to make Thanksgiving a national
+      holiday on November's third Thursday. He did this during the Civil War in
+      1863 (the same year he delivered the Gettysburg Address) as a way to unify
+      the country around a common history. Read Hale's letter
+      here:</p><p></p></div>
     citation: VIEW SOURCES
     _key: 8ec5ddfa437a
 

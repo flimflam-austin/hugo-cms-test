@@ -21,16 +21,18 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: '> _“In order to achieve anything, you must be brave enough to fail.”_'
+    body: >-
+      <div><blockquote><em>“In order to achieve anything, you must be brave
+      enough to fail.”</em></blockquote><p></p></div>
     citation: KIRK DOUGLAS
     _key: 73179b427962
   - order: 1
     useCheckmark: true
     body: >-
-      The legendary actor passed away Wednesday at the age of 103. Douglas, a
-      Navy veteran, grew up poor and made a name for himself after World War II.
-      He nearly turned down coming to Hollywood, admitting he once believed real
-      actors only appeared on Broadway.
+      <div><p>The legendary actor passed away Wednesday at the age of 103.
+      Douglas, a Navy veteran, grew up poor and made a name for himself after
+      World War II. He nearly turned down coming to Hollywood, admitting he once
+      believed real actors only appeared on Broadway.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 3a5a3cdce0ba
 

@@ -22,86 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Blue Jeans Getting Laser Treatment
-
-
-      ## “This is the future of jeans manufacturing”
-
-
-      Levi Strauss, the “inventor” of the American blue jean, pioneering use of
-      lasers in distressing jeans.
-
-
-      Flip For The Scoop
+      <div><h1>Blue Jeans Getting Laser Treatment</h1><h2>“This is the future of
+      jeans manufacturing”</h2><p>Levi Strauss, the “inventor” of the American
+      blue jean, pioneering use of lasers in distressing jeans.</p><p>Flip For
+      The Scoop</p></div>
     _key: card-1-ad7e3450-6726-4f8e-8674-0ec202f8c324
   - order: 1
     useCheckmark: false
     body: >-
-      ## Levi: Jean Make-Over
-
-
-      * The rips & holes in your jeans are often done by hand; one pair of jeans
-      can take 20 minutes.
-
-      * Distressing jeans can use 1,000s of chemicals.
-
-      * Lasers allow last minute fashion design changes.
-
-      * Shorter production time = Shorter turnaround time to consumers.
-
-      * Levi says in next 2 years all jeans will use lasers.
+      <div><h2>Levi: Jean Make-Over</h2><ul><li>The rips &amp; holes in your
+      jeans are often done by hand; one pair of jeans can take 20
+      minutes.</li><li>Distressing jeans can use 1,000s of
+      chemicals.</li><li>Lasers allow last minute fashion design
+      changes.</li><li>Shorter production time = Shorter turnaround time to
+      consumers.</li><li>Levi says in next 2 years all jeans will use
+      lasers.</li></ul></div>
     _key: card-2-7bb4a335-93e6-4030-bbc6-aba744095e47
   - order: 2
     useCheckmark: false
-    body: "# Cleaner & Quicker\n\n> ‘Our goal was to tackle two predominant industry challenges a\x14 being able to respond quickly to changing consumer trends while making the manufacturing process more sustainable.’  \n  \n  \n  \nChip Bergh, Levi Strauss President & CEO, Feb 27, 2018"
+    body: "<div><h1>Cleaner &amp; Quicker</h1><blockquote>‘Our goal was to tackle two predominant industry challenges a\x14 being able to respond quickly to changing consumer trends while making the manufacturing process more sustainable.’<br><br><br><br>Chip Bergh, Levi Strauss President &amp; CEO, Feb 27, 2018</blockquote></div>"
     _key: card-3-30bbf8f4-315d-41af-9c3e-3bf5b2476379
   - order: 3
     useCheckmark: false
     body: >-
-      ## Levi Strauss = Real Person
-
-
-      * Bavarian immigrant; business man
-
-      * Moved to San Francisco during Gold Rush; supplied goods to small
-      retailers.
-
-      * Teamed-up with Nevada tailor, Jacob Davis.
-
-      * The partners invented pants with rivets to last tough working
-      conditions.
-
-      * First Jeans: Denim & Brown Cotton Duck (canvas material).
+      <div><h2>Levi Strauss = Real Person</h2><ul><li>Bavarian immigrant;
+      business man</li><li>Moved to San Francisco during Gold Rush; supplied
+      goods to small retailers.</li><li>Teamed-up with Nevada tailor, Jacob
+      Davis.</li><li>The partners invented pants with rivets to last tough
+      working conditions.</li><li>First Jeans: Denim &amp; Brown Cotton Duck
+      (canvas material).</li></ul></div>
     _key: card-4-92038781-b73b-492f-8243-3019a68be963
   - order: 4
     useCheckmark: false
     body: >-
-      # Blue Jean Birthdate
-
-
-      ## May 20, 1873
-
-
-      Date US Patent & Trademark Office approved a “blue jean” patent.
-
-
-      First Pair of Jeans Named “XX”
-
-
-      “It’s No Use They Cant Be Ripped”
-
-
-      [Click Here: Oldest Pair of Women's
-      Jeans](http://time.com/4915850/oldest-womens-jeans/)
+      <div><h1>Blue Jean Birthdate</h1><h2>May 20, 1873</h2><p>Date US Patent
+      &amp; Trademark Office approved a “blue jean” patent.</p><p>First Pair of
+      Jeans Named “XX”</p><p>“It’s No Use They Cant Be Ripped”</p><p><a
+      href="http://time.com/4915850/oldest-womens-jeans/">Click Here: Oldest
+      Pair of Women's Jeans</a></p></div>
     _key: card-5-36ea35ed-c11e-4fe2-afb5-99e764714162
   - order: 5
     useCheckmark: true
     body: >-
-      Lasers = automation and automation can lead to job losses. What will that
-      look like? TBD. Read More:
-
-
-      [view sources](https://smarthernews.com/18-02-27-levi-jeans/)
+      <div><p>Lasers = automation and automation can lead to job losses. What
+      will that look like? TBD. Read More:</p><p><a
+      href="https://smarthernews.com/18-02-27-levi-jeans/">view
+      sources</a></p></div>
     _key: card-10-b8c45863-238a-417b-baee-1fba7e08ca39
 
 ---

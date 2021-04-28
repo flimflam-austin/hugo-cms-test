@@ -22,42 +22,38 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## QUICK QUOTES
-
-
-      > **‘We will both try to make it a very special moment for World
-      Peace!’**  
-        
-      President Trump's tweet announcing he will meet North Korea's Kim Jong Un
-      on June 12 in Singapore. This will be the first ever meeting between a
-      sitting U.S. President and a North Korean leader.
-
-
-      [CLICK FOR A REFRESHER](https://smarthernews.com/18-05-02-meeting-spot/)
+      <div><h2>QUICK QUOTES</h2><blockquote><strong>‘We will both try to make it
+      a very special moment for World Peace!’</strong><br><br>President Trump's
+      tweet announcing he will meet North Korea's Kim Jong Un on June 12 in
+      Singapore. This will be the first ever meeting between a sitting U.S.
+      President and a North Korean leader.</blockquote><p><a
+      href="https://smarthernews.com/18-05-02-meeting-spot/">CLICK FOR A
+      REFRESHER</a></p></div>
     _key: card-1-1d42d497-7eda-487f-99b2-49aab0983e6a
   - order: 1
     useCheckmark: false
-    body: "> **‘There was a part of me that was terribly naive\x14clearly,_so_ naive. I have moments of rage, I have moments of confusion, I have moments of disbelief! And I have moments when I just cry for my children. What are their lives going to be?’**  \n  \nGeorgina Chapman in her first public comments on soon-to-be ex-husband Harvey Weinstein after he was accused of sexual violence & sexual harassment by 100+ women."
+    body: "<blockquote><strong>‘There was a part of me that was terribly naive\x14clearly, <em>so</em> naive. I have moments of rage, I have moments of confusion, I have moments of disbelief! And I have moments when I just cry for my children. What are their lives going to be?’</strong><br><br>Georgina Chapman in her first public comments on soon-to-be ex-husband Harvey Weinstein after he was accused of sexual violence &amp; sexual harassment by 100+ women.</blockquote>"
     _key: card-2-5f25853c-9334-4a9a-82e0-1f894e1654d4
   - order: 2
     useCheckmark: false
     body: >-
-      > **“It could be large rocks, it could be boulders the size of cows.”**  
-        
-      Jessica Ferracane, of the Hawaii Volcanoes National Park, on the threat of
-      eruptions at Kilauea's summit crater. Scientists warn violent eruptions
-      may trigger explosions flinging 10-ton boulders within a half-mile radius.
-
-
-      [CLICK FOR REFRESHER](https://smarthernews.com/18-05-10-hawaii-volcano/)
+      <div><blockquote><strong>“It could be large rocks, it could be boulders
+      the size of cows.”</strong><br><br>Jessica Ferracane, of the Hawaii
+      Volcanoes National Park, on the threat of eruptions at Kilauea's summit
+      crater. Scientists warn violent eruptions may trigger explosions flinging
+      10-ton boulders within a half-mile radius.</blockquote><p><a
+      href="https://smarthernews.com/18-05-10-hawaii-volcano/">CLICK FOR
+      REFRESHER</a></p></div>
     _key: card-3-7f99510e-7765-472c-b1bd-60a1e9d43a7e
   - order: 3
     useCheckmark: false
-    body: "> **“I’m almost speechless about it. It’s not like, a\x18Oh, we’re short on a medicine for a headache.’ This is a life-threatening issue.”**  \n  \nAimee Weiss on an EpiPen shortage affecting her 12-year-old daughter who is allergic to tree nuts. The FDA added the emergency allergy medication to its list of medicines in short supply, but the shortage is not expected to last long, according to its maker Mylan."
+    body: "<blockquote><strong>“I’m almost speechless about it. It’s not like, a\x18Oh, we’re short on a medicine for a headache.’ This is a life-threatening issue.”</strong><br><br>Aimee Weiss on an EpiPen shortage affecting her 12-year-old daughter who is allergic to tree nuts. The FDA added the emergency allergy medication to its list of medicines in short supply, but the shortage is not expected to last long, according to its maker Mylan.</blockquote>"
     _key: card-4-0831c9a1-ddbc-40f3-9c16-a07ecbedbbd8
   - order: 4
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-05-11-quotes/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-05-11-quotes/">view
+      sources</a></p>
     _key: card-10-d2cd3459-5a8f-4395-b7e4-d95336c26bbb
 
 ---

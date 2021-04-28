@@ -21,52 +21,38 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # June 14, 1777
-
-      ## The Continental Congress approves the design of the American flag.
-
-      ## The maker remains a mystery.
+    body: >-
+      <div><h1>June 14, 1777</h1><h2>The Continental Congress approves the
+      design of the American flag.</h2><h2>The maker remains a
+      mystery.</h2><p><br></p><p><br></p></div>
     _key: 3c8b0a74af77
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Final Resolution:
-
-
-      “… the flag of the United States be thirteen stripes, alternate red and
-      white; that the union be thirteen stars, white in a blue field,
-      representing a new constellation.”  
-        
-      **Red**: valor  
-
-      **White**: purity  
-
-      **Blue**: perseverance
+      <div><h2>The Final Resolution:</h2><p>“… the flag of the United States be
+      thirteen stripes, alternate red and white; that the union be thirteen
+      stars, white in a blue field, representing a new
+      constellation.”<br><br><strong>Red</strong>:
+      valor<br><strong>White</strong>: purity<br><strong>Blue</strong>:
+      perseverance</p></div>
     _key: aae762b6d0d4
   - order: 2
     useCheckmark: false
     body: >-
-      ## Who Made The First Flag?
-
-
-      * It remains one of the great mysteries of American history.
-
-      * Common lore suggests Betsy Ross, a seamstress in Philadelphia, the city
-      where the Continental Congress met.
-
-      * Surprisingly, no facts support or document this story.
-
-      * Historians generally agree Ross likely knew Gen. Washington & sewed
-      flags in her family’s shop.
+      <div><h2>Who Made The First Flag?</h2><ul><li>It remains one of the great
+      mysteries of American history.</li><li>Common lore suggests Betsy Ross, a
+      seamstress in Philadelphia, the city where the Continental Congress
+      met.</li><li>Surprisingly, no facts support or document this
+      story.</li><li>Historians generally agree Ross likely knew Gen. Washington
+      &amp; sewed flags in her family’s shop.</li></ul></div>
     _key: 6c061b6dd578
   - order: 3
     useCheckmark: true
     body: >-
-      Pres. Woodrow Wilson proclaimed June 14th "Flag Day" in 1916, but it
-      didn't become an official day until 1949 when Pres. Harry Truman signed it
-      into law. Why does the flag get folded 13 times? Each fold has a meaning.
-      Read more:
+      <div><p>Pres. Woodrow Wilson proclaimed June 14th "Flag Day" in 1916, but
+      it didn't become an official day until 1949 when Pres. Harry Truman signed
+      it into law. Why does the flag get folded 13 times? Each fold has a
+      meaning. Read more:</p><p></p></div>
     citation: VIEW SOURCES
     _key: ea98fb725b57
 

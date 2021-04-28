@@ -22,70 +22,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # INVASION OF THE SPAM CALLS
-
-
-      > **Spam & robocalls have increased more than 40% since January.A** Why &
-      what can you do about it?
+      <div><h1>INVASION OF THE SPAM CALLS</h1><blockquote><strong>Spam &amp;
+      robocalls have increased more than 40% since January.A</strong> Why &amp;
+      what can you do about it?</blockquote></div>
     _key: card-1-c3c0f730-08c2-4ff3-950c-421427e33dd1
   - order: 1
     useCheckmark: false
     body: >-
-      # It’s Not Just You
-
-
-      It’s estimated that at least**20 billion robocalls**A were made so far in
-      2018.
-
-
-      Robocalls were the**#1 FTC complaint** (4.5M) in 2017 – that figure
-      doesn’t include the 2.5M live caller complaints.
+      <div><h1>It’s Not Just You</h1><p>It’s estimated that at least <strong>20
+      billion robocalls</strong>A were made so far in 2018.</p><p>Robocalls were
+      the <strong>#1 FTC complaint</strong> (4.5M) in 2017 – that figure doesn’t
+      include the 2.5M live caller complaints.</p></div>
     _key: card-2-d4a24bfb-6e4e-4210-9c60-02c69aca10c8
   - order: 2
     useCheckmark: false
     body: >-
-      ## 4 WAYS (TO TRY) TO MAKE THEM STOP
-
-
-      1.**Don’t answer**A unknown #s.
-
-
-      2. If you pick up,**don’t engage**.
-
-
-      3. Utilize built-in alert features orA third-party app to enable**spam
-      notifications &/or call blocking**.
-
-
-      4. Report unwanted calls & register your #s w/A**FTC’s Do Not Call List**.
+      <div><h2>4 WAYS (TO TRY) TO MAKE THEM STOP</h2><p>1. <strong>Don’t
+      answer</strong>A unknown #s.</p><p>2. If you pick up, <strong>don’t
+      engage</strong>.</p><p>3. Utilize built-in alert features orA third-party
+      app to enable <strong>spam notifications &amp;/or call
+      blocking</strong>.</p><p>4. Report unwanted calls &amp; register your #s
+      w/A <strong>FTC’s Do Not Call List</strong>.</p></div>
     _key: card-3-9f10173e-76e3-424f-a986-a92d5f1ff39c
   - order: 3
     useCheckmark: false
     body: >-
-      ## And Why Are Some Calls in Chinese Anyway?A
-
-
-      > 
-
-
-      * Chinese-language spam calls are targeting immigrants, pretending to be
-      from the Chinese consulate.
-
-      * Don’t speak Chinese? Robocallers don’t care. It costs them virtually
-      nothing; they just need to reach one Chinese-speaking person.
-
-      * NYPD estimates $3M has been stolen from this roboscam.
+      <div><h2>And Why Are Some Calls in Chinese
+      Anyway?A</h2><blockquote></blockquote><ul><li>Chinese-language spam calls
+      are targeting immigrants, pretending to be from the Chinese
+      consulate.</li><li>Don’t speak Chinese? Robocallers don’t care. It costs
+      them virtually nothing; they just need to reach one Chinese-speaking
+      person.</li><li>NYPD estimates $3M has been stolen from this
+      roboscam.</li></ul></div>
     _key: card-4-a78784eb-a904-442b-b476-09e7be03c118
   - order: 4
     useCheckmark: true
     body: >-
-      The law can't catch up with tech, but prosecutions are up. In May, the FCC
-      slapped a $120M fine on a man who made nearly 100M robocalls from 2015 -
-      2016. FCC said it was "one of the largest - and most dangerous - illegal
-      robocalling campaigns" ever.
-
-
-      [view sources](https://smarthernews.com/18-07-27-spam-calls/)
+      <div><p>The law can't catch up with tech, but prosecutions are up. In May,
+      the FCC slapped a $120M fine on a man who made nearly 100M robocalls from
+      2015 - 2016. FCC said it was "one of the largest - and most dangerous -
+      illegal robocalling campaigns" ever.</p><p><a
+      href="https://smarthernews.com/18-07-27-spam-calls/">view
+      sources</a></p></div>
     _key: card-10-c2eab1b5-78d9-40a1-b330-c4e54944ff51
 
 ---

@@ -21,57 +21,41 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # How Hot is TOO Hot?
-
-      A fired-up U.S. economy does have a downside…
-
-      Why the Federal Reserve is taking action to cool things off.
-
-      HOW IT IMPACTS YOU.
+    body: >-
+      <div><h1>How Hot is TOO Hot?</h1><p>A fired-up U.S. economy does have a
+      downside…</p><p>Why the Federal Reserve is taking action to cool things
+      off.</p><p>HOW IT IMPACTS YOU.</p></div>
     _key: card-1-9286a013-8cfa-4c85-892a-a93a1f81ebd2
   - order: 1
     useCheckmark: false
     body: >-
-      ## “Main takeaway is the economy is doing very well.”A
-
-
-      > Federal Reserve Chair Jay Powell  
-        
-
-
-      * **What:**A Federal Reserve (U.S. Central Bank) hiked a key short-term
-      interest rate Wednesday.
-
-      * **Why it matters:** Borrowing gets more expensive – rate impacts credit
-      cards, mortgages, auto loans, etc. But savers to benefit.
+      <div><h2>“Main takeaway is the economy is doing very
+      well.”A</h2><blockquote>Federal Reserve Chair Jay
+      Powell<br><br></blockquote><ul><li><strong>What:</strong>A Federal Reserve
+      (U.S. Central Bank) hiked a key short-term interest rate
+      Wednesday.</li><li><strong>Why it matters:</strong> Borrowing gets more
+      expensive – rate impacts credit cards, mortgages, auto loans, etc. But
+      savers to benefit.</li></ul></div>
     _key: card-2-daf8bc47-7bef-40e0-afe5-58b2a8f6f08c
   - order: 2
     useCheckmark: false
     body: >-
-      ## What’s to Blame
-
-
-      * **Inflation = increase in prices, drop in purchasingA value of money**
-      (i.e. thingsA cost more).
-
-      * Fed’s goal: keep economy expanding, but not so fast that it drives up
-      inflation.
-
-      * A decade after the recession, Fed has made progress. May unemployment
-      rate was 3.8%, lowest since 2000, while inflation was just below Fed’s 2%
-      target.
+      <div><h2>What’s to Blame</h2><ul><li><strong>Inflation = increase in
+      prices, drop in purchasingA value of money</strong> (i.e. thingsA cost
+      more).</li><li>Fed’s goal: keep economy expanding, but not so fast that it
+      drives up inflation.</li><li>A decade after the recession, Fed has made
+      progress. May unemployment rate was 3.8%, lowest since 2000, while
+      inflation was just below Fed’s 2% target.</li></ul></div>
     _key: card-3-99ef493c-2820-4dd8-b397-9ce8f2254a17
   - order: 3
     useCheckmark: true
     body: >-
-      The Fed began raising rates from 0 at the end of 2015 with the goal to
-      bring it to 3% in next few years. We're halfway there with 2 more
+      <div><p>The Fed began raising rates from 0 at the end of 2015 with the
+      goal to bring it to 3% in next few years. We're halfway there with 2 more
       increases expected this year. Click for one opinion on why the Fed should
-      just let inflation rise.
-
-
-      [view sources](https://smarthernews.com/18-06-14-fed-moves/)
+      just let inflation rise.</p><p><a
+      href="https://smarthernews.com/18-06-14-fed-moves/">view
+      sources</a></p></div>
     _key: card-10-7d449908-e0d2-4cb9-8254-5e62694d49d3
 
 ---

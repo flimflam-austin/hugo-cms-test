@@ -21,30 +21,24 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      > “It’s not something that interests me.”  
-        
-        
-        
-      Oprah Winfrey on running for President InStyle Magazine, March Issue 2018
+    body: >-
+      <blockquote>“It’s not something that interests me.”<br><br><br><br>Oprah
+      Winfrey on running for President InStyle Magazine, March Issue
+      2018</blockquote>
     _key: card-1-7edefcc8-4f2e-4df8-ae6d-4e2664ad395f
   - order: 1
     useCheckmark: false
     body: >-
-      # Oprah: On Aging
-
-
-      “You take no shit. None. Not a bit. In your 40s you want to say you take
-      no shit, but you still do. In your 60s you take none.”
+      <div><h1>Oprah: On Aging</h1><p>“You take no shit. None. Not a bit. In
+      your 40s you want to say you take no shit, but you still do. In your 60s
+      you take none.”</p></div>
     _key: card-2-5e03b7c6-4312-4c51-ba06-a18b3986def0
   - order: 2
     useCheckmark: true
     body: >-
-      Read Full Article Here
-
-
-      [view
-      sources](https://smarthernews.com/18-01-25-oprah-not-running-for-president/)
+      <div><p>Read Full Article Here</p><p><a
+      href="https://smarthernews.com/18-01-25-oprah-not-running-for-president/">view
+      sources</a></p></div>
     _key: card-10-53dd32f7-f8ea-45e1-86de-ec6cb32f7421
 
 ---

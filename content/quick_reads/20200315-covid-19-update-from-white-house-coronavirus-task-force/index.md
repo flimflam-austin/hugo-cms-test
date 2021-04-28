@@ -21,80 +21,75 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # White House COVID-19 Task Force
-
-      WHAT WE LEARNED TODAY
+    body: >-
+      <div><h1>White House COVID-19 Task Force</h1><p>WHAT WE LEARNED
+      TODAY</p></div>
     _key: a980e0d39b39
   - order: 1
     useCheckmark: false
     body: >-
-      > “We have not reached our peak… We will see more cases and we will see
-      more suffering and death.”
-
-
-      Dr. Anthony Fauci, director of the National Institute of Allergy and
-      Infectious Diseases, reiterating that the U.S. has YET to see the height
-      of COVID-19, noting that the most vulnerable are the elderly and those
-      with underlying conditions. Nonetheless, as pointed out by U.S. Surgeon
-      General Dr. Jerome Adams, "almost all people will recover - 98, 99% of
-      people will recover."
+      <div><blockquote>“We have not reached our peak… We will see more cases and
+      we will see more suffering and death.”</blockquote><p>Dr. Anthony Fauci,
+      director of the National Institute of Allergy and Infectious Diseases,
+      reiterating that the U.S. has YET to see the height of COVID-19, noting
+      that the most vulnerable are the elderly and those with underlying
+      conditions. Nonetheless, as pointed out by U.S. Surgeon General Dr. Jerome
+      Adams, "almost all people will recover - 98, 99% of people will
+      recover."</p></div>
     _key: 22212052fc0a
   - order: 2
     useCheckmark: false
     body: >-
-      > “If you don’t have to travel, I wouldn’t do it.”  
-        
-      Pres. Trump's advice to the American people. The ban against entry into
-      the U.S. from 26 European countries went into effect on Friday. On Monday,
-      the United Kingdom and Ireland will be added to the list. U.S. citizens
-      and green card holders are exempt from the ban. Pres. Trump said the U.S.
-      is *ALSO* considering domestic travel restrictions.
+      <div><blockquote>“If you don’t have to travel, I wouldn’t do
+      it.”<br><br>Pres. Trump's advice to the American people. The ban against
+      entry into the U.S. from 26 European countries went into effect on Friday.
+      On Monday, the United Kingdom and Ireland will be added to the list. U.S.
+      citizens and green card holders are exempt from the ban. Pres. Trump said
+      the U.S. is *ALSO* considering domestic travel
+      restrictions.</blockquote><p><br></p></div>
     _key: e6f7d5cc26a0
   - order: 3
     useCheckmark: false
     body: >-
-      > “We don’t want to say the risk is low when we don’t know how low the
-      numbers are for people who are asymptotic.”  
-        
-      Dr. Deborah Birx, White House COVID-19 coordinator, explaining that
-      although we know a lot about the high risk of serious illness to older
-      Americans, we don't know enough yet about transmission, specifically, how
-      many are carrying COVID-19 that show no symptoms, but are spreading it.
-      BIG unknown: Are people under 20 asymptomatic and spreading the virus?
+      <div><blockquote>“We don’t want to say the risk is low when we don’t know
+      how low the numbers are for people who are asymptotic.”<br><br>Dr. Deborah
+      Birx, White House COVID-19 coordinator, explaining that although we know a
+      lot about the high risk of serious illness to older Americans, we don't
+      know enough yet about transmission, specifically, how many are carrying
+      COVID-19 that show no symptoms, but are spreading it. BIG unknown: Are
+      people under 20 asymptomatic and spreading the
+      virus?</blockquote><p><br></p></div>
     _key: 1fffb34c16ed
   - order: 4
     useCheckmark: false
     body: >-
-      > “If you are sick, stay home. You’re not going to miss a paycheck.”
-
-
-      > Vice President Pence on the stimulus deal that passed the House and is
-      on its way to the Senate on Monday, which has several provisions,
-      including free coronavirus testing, two weeks of emergency paid sick leave
-      for displaced workers, increased Medicaid funding, as well as boosts to
-      nutrition programs for students and low-income persons.
+      <div><blockquote>“If you are sick, stay home. You’re not going to miss a
+      paycheck.”</blockquote><blockquote>Vice President Pence on the stimulus
+      deal that passed the House and is on its way to the Senate on Monday,
+      which has several provisions, including free coronavirus testing, two
+      weeks of emergency paid sick leave for displaced workers, increased
+      Medicaid funding, as well as boosts to nutrition programs for students and
+      low-income persons.</blockquote></div>
     _key: c6df79afce48
   - order: 5
     useCheckmark: false
     body: >-
-      > “We need your help. Social distancing and mitigation – they’re not to
-      protect the 30-year-old or the 20-year-old from getting coronavirus.
-      They’re to protect your nana.”
-
-
-      U.S. Surgeon General Dr. Jerome Adams on why people of ALL ages need to
-      contribute to the efforts to overcome COVID-19. Dr. Adams' prescription:
-      "know your risk, understand your circumstances, and get the facts to
-      protect yourself at coronavirus.gov."
+      <div><blockquote>“We need your help. Social distancing and mitigation –
+      they’re not to protect the 30-year-old or the 20-year-old from getting
+      coronavirus. They’re to protect your nana.”</blockquote><p>U.S. Surgeon
+      General Dr. Jerome Adams on why people of ALL ages need to contribute to
+      the efforts to overcome COVID-19. Dr. Adams' prescription: "know your
+      risk, understand your circumstances, and get the facts to protect yourself
+      at coronavirus.gov."</p></div>
     _key: 9271e7f54c96
   - order: 6
     useCheckmark: true
     body: >-
-      What's Next? Treasury secretary Steve Munchkin suggested that other
-      stimulus ideas are on the table, such as a payroll tax cut, refundable tax
-      credits, suspending interest on student loans, and using the strategic oil
-      reserves. WHAT DO YOU THINK OF THE U.S. RESPONSE TO COVID-19?
+      <div><p>What's Next? Treasury secretary Steve Munchkin suggested that
+      other stimulus ideas are on the table, such as a payroll tax cut,
+      refundable tax credits, suspending interest on student loans, and using
+      the strategic oil reserves. WHAT DO YOU THINK OF THE U.S. RESPONSE TO
+      COVID-19?</p><p></p></div>
     citation: VIEW SOURCES
     _key: ab3c138fdec1
 

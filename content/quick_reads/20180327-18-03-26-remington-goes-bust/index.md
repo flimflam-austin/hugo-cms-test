@@ -22,78 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Oldest U.S. Gun Maker  
-
-      Files For Bankruptcy ============================================
-
-
-      ## Remington
-
-
-      After weathering more than 200 years in business, Remington can’t survive
-      current climate.
-
-
-      Founder Eliphalet Remington built his first gun in 1816.
-
-
-      Why now?
+      <div><p>Oldest U.S. Gun Maker<br>Files For Bankruptcy
+      ============================================</p><h2>Remington</h2><p>After
+      weathering more than 200 years in business, Remington can’t survive
+      current climate.</p><p>Founder Eliphalet Remington built his first gun in
+      1816.</p><p>Why now?</p></div>
     citation: Why now?
     _key: card-1-fae9c9ca-0dc8-4818-8990-7a54e4939518
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why Now?
-
-
-      * **Slumping sales** year-over-year (dropped 30% in 2017)
-
-      * **Mounting debt** ($100M – $500M)
-
-      * Private equity firm that owns Remington has been trying to sell it for
-      years, but never found buyer.
-
-      * **High-profile case:** Remington waiting on big ruling on whether victim
-      families of the Sandy Hook school shooting can sue because shooter used a
-      Remington gun.
+      <div><h2>Why Now?</h2><ul><li><strong>Slumping sales</strong>
+      year-over-year (dropped 30% in 2017)</li><li><strong>Mounting
+      debt</strong> ($100M – $500M)</li><li>Private equity firm that owns
+      Remington has been trying to sell it for years, but never found
+      buyer.</li><li><strong>High-profile case:</strong> Remington waiting on
+      big ruling on whether victim families of the Sandy Hook school shooting
+      can sue because shooter used a Remington gun.</li></ul></div>
     _key: card-2-a519330c-495e-4f34-b1bd-f7ab8d584c07
   - order: 2
     useCheckmark: false
     body: >-
-      ## To Blame? “Trump Slump”
-
-
-      * Prior to election of President Trump, gun sales spiked because those who
-      expected Hillary Clinton to win (with a platform of stricter gun control)
-      bought weapons in advance of election.
-
-      * With gun control NOT a big part of President Trump’s platform, buyers
-      are less motivated.
+      <div><h2>To Blame? “Trump Slump”</h2><ul><li>Prior to election of
+      President Trump, gun sales spiked because those who expected Hillary
+      Clinton to win (with a platform of stricter gun control) bought weapons in
+      advance of election.</li><li>With gun control NOT a big part of President
+      Trump’s platform, buyers are less motivated.</li></ul></div>
     _key: card-3-69b70be3-dfb7-4c3b-a38a-e11146fca017
   - order: 3
     useCheckmark: false
     body: >-
-      ## Fact Check: AR-15
-
-
-      * “AR” does**NOT** stand for “automatic rifle” or “assault rifle.”
-
-      * AR = stands for ArmaLite.
-
-      * AR-15 = a specific model of a semi-auto rifle produced by ArmaLite.
-      Other gun makers have their own model numbers for similar style
-      weapons.A**Though often used as a general term, an ‘AR’ is a specific gun
-      by a specific company.A**
+      <div><h2>Fact Check: AR-15</h2><ul><li>“AR” does <strong>NOT</strong>
+      stand for “automatic rifle” or “assault rifle.”</li><li>AR = stands for
+      ArmaLite.</li><li>AR-15 = a specific model of a semi-auto rifle produced
+      by ArmaLite. Other gun makers have their own model numbers for similar
+      style weapons.A <strong>Though often used as a general term, an ‘AR’ is a
+      specific gun by a specific company.A</strong></li></ul></div>
     _key: card-4-660a3ef4-78dd-4214-a252-5c0955c1a969
   - order: 4
     useCheckmark: true
     body: >-
-      Remington reportedly secured $300M in loans from U.S. banks to proceed
-      through bankruptcy. Can the company be saved? Some smaller gun dealers say
-      Remington made the wrong business decisions along the way - Read More:
-
-
-      [view sources](https://smarthernews.com/18-03-26-remington-goes-bust/)
+      <div><p>Remington reportedly secured $300M in loans from U.S. banks to
+      proceed through bankruptcy. Can the company be saved? Some smaller gun
+      dealers say Remington made the wrong business decisions along the way -
+      Read More:</p><p><a
+      href="https://smarthernews.com/18-03-26-remington-goes-bust/">view
+      sources</a></p></div>
     _key: card-10-6d1735dd-8970-4f5f-a24d-b31958b8a25a
 
 ---

@@ -22,61 +22,40 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Media Love Triangle
-
-
-      ## Disney + Fox + Comcast
-
-
-      An old-fashioned bidding war sparks on Wall St. as media giants look to
-      partner up before the music stops.
-
-
-      FLIP: Chasing a sly fox
+      <div><h1>Media Love Triangle</h1><h2>Disney + Fox + Comcast</h2><p>An
+      old-fashioned bidding war sparks on Wall St. as media giants look to
+      partner up before the music stops.</p><p>FLIP: Chasing a sly fox</p></div>
     _key: card-1-0f1cb086-c78f-4306-842b-8c088da5f85b
   - order: 1
     useCheckmark: false
     body: >-
-      ## Get Me Up to Speed
-
-
-      * Last year, Disney offered $52B for a big stake in 21st Century Fox.
-
-      * Then Comcast decided to get in on the action, offering $65B.
-
-      * Disney isn’t having that & just last week raised its offer to $71B,
-      which Fox says is a superior bid.
-
-      * Ball is now in Comcast’s court: will it up the stakes even more?
-
-
-
-
-      Oh the drama...
+      <div><h2>Get Me Up to Speed</h2><ul><li>Last year, Disney offered $52B for
+      a big stake in 21st Century Fox.</li><li>Then Comcast decided to get in on
+      the action, offering $65B.</li><li>Disney isn’t having that &amp; just
+      last week raised its offer to $71B, which Fox says is a superior
+      bid.</li><li>Ball is now in Comcast’s court: will it up the stakes even
+      more?</li></ul><p></p><p>Oh the drama...</p></div>
     _key: card-2-85030851-6700-4d0d-a3ea-fc832815ce12
   - order: 2
     useCheckmark: false
     body: >-
-      ## $71B?! Why So Much?
-
-
-      * **What Disney & Comcast want:** Fox’s stake in Hulu (streaming service)
-      & Hollywood studios with TV & film franchises (Think: X-men & The
-      Simpsons).
-
-      * **Bottom line:**A Real driver is the fear of the future with digital
-      rivals like Amazon, Facebook & Netflix disrupting content, advertising &
-      distribution. Media cos. need to get in the game to compete.
+      <div><h2>$71B?! Why So Much?</h2><ul><li><strong>What Disney &amp; Comcast
+      want:</strong> Fox’s stake in Hulu (streaming service) &amp; Hollywood
+      studios with TV &amp; film franchises (Think: X-men &amp; The
+      Simpsons).</li><li><strong>Bottom line:</strong>A Real driver is the fear
+      of the future with digital rivals like Amazon, Facebook &amp; Netflix
+      disrupting content, advertising &amp; distribution. Media cos. need to get
+      in the game to compete.</li></ul></div>
     _key: card-3-a64e042f-1674-4748-a5dd-ad93473578f9
   - order: 3
     useCheckmark: true
     body: >-
-      Whoever wins in the end - Disney or Comcast - it's important to note Fox
-      would retain some assets, including Fox News and Fox Broadcasting Company.
-      So who's next to get in on the mergerpalooza action? Click to read more.
-
-
-      [view sources](https://smarthernews.com/18-06-26-mergerpalooza/)
+      <div><p>Whoever wins in the end - Disney or Comcast - it's important to
+      note Fox would retain some assets, including Fox News and Fox Broadcasting
+      Company. So who's next to get in on the mergerpalooza action? Click to
+      read more.</p><p><a
+      href="https://smarthernews.com/18-06-26-mergerpalooza/">view
+      sources</a></p></div>
     _key: card-10-e94596c3-a440-4588-bbc4-f329390966c3
 
 ---

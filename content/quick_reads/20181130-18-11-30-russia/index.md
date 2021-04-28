@@ -21,74 +21,54 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # RUSSIA RECAP
-
-      An**ongoing conflict** with Ukraine.
-
-      A**guilty plea** by President Trump’s former lawyer.
-
-      A**cancelled meeting** at the G20.
-
-      Russia finds itself at the center of several controversial stories.
-
-      Why It Matters
+    body: >-
+      <div><h1>RUSSIA RECAP</h1><p>An <strong>ongoing conflict</strong> with
+      Ukraine.</p><p>A <strong>guilty plea</strong> by President Trump’s former
+      lawyer.</p><p>A <strong>cancelled meeting</strong> at the
+      G20.</p><p>Russia finds itself at the center of several controversial
+      stories.</p><p>Why It Matters</p></div>
     _key: card-1-54ee060f-1c30-41ff-ac7d-55bae30bf104
   - order: 1
     useCheckmark: false
     body: >-
-      # Ukraine Conflict
-
-
-      * Sunday: Russia fired on 3 Ukrainian vessels, capturing 24 crew members
-      in the Black Sea.
-
-      * Monday: Ukraine approved 30-day martial law to boost defense.
-
-      * Thursday: Ukraine urged NATO to send troops vs. Russian hostility.
-
-      * Friday: Ukraine banned Russian men aged 16 – 60 from entry.
-
-      * Russia says Ukraine’s Pres. is posturing before his elections.
+      <div><h1>Ukraine Conflict</h1><ul><li>Sunday: Russia fired on 3 Ukrainian
+      vessels, capturing 24 crew members in the Black Sea.</li><li>Monday:
+      Ukraine approved 30-day martial law to boost defense.</li><li>Thursday:
+      Ukraine urged NATO to send troops vs. Russian hostility.</li><li>Friday:
+      Ukraine banned Russian men aged 16 – 60 from entry.</li><li>Russia says
+      Ukraine’s Pres. is posturing before his elections.</li></ul></div>
     _key: card-2-a2688811-8a46-4dc7-a439-835ff5488f99
   - order: 2
     useCheckmark: false
     body: >-
-      # Michael Cohen
-
-
-      * Thursday: In connection with Special Counsel’s Russia probe, Pres.
-      Trump’s former lawyer pleaded guilty to**lying to Congress** about
-      pursuing a Moscow real estate project on behalf of Trump in 2016.
-
-      * August: Pleaded guilty to 8 counts unrelated to Trump or Russia.
-
-      * Pres. Trump says Cohen is**lying to get a reduced sentence.**
+      <div><h1>Michael Cohen</h1><ul><li>Thursday: In connection with Special
+      Counsel’s Russia probe, Pres. Trump’s former lawyer pleaded guilty to
+      <strong>lying to Congress</strong> about pursuing a Moscow real estate
+      project on behalf of Trump in 2016.</li><li>August: Pleaded guilty to 8
+      counts unrelated to Trump or Russia.</li><li>Pres. Trump says Cohen is
+      <strong>lying to get a reduced sentence.</strong></li></ul></div>
     _key: card-3-df62a84a-0673-4e99-8d23-3b20b7be9f72
   - order: 3
     useCheckmark: false
     body: >-
-      # Pres. Vladimir Putin
-
-
-      * Saturday: Pres. Trump was scheduled to meet with the Russian Pres. on
-      sidelines of the**G20** in what would have been their first meeting since
-      this summer’s Helsinki Summit.
-
-      * Topics expected to be discussed were the uncertainty over future of a
-      Cold War-era**arms treaty**, as well as security issues
-      in**Ukraine**,**Syria**,**Iran** and**North Korea**.
+      <div><h1>Pres. Vladimir Putin</h1><ul><li>Saturday: Pres. Trump was
+      scheduled to meet with the Russian Pres. on sidelines of the
+      <strong>G20</strong> in what would have been their first meeting since
+      this summer’s Helsinki Summit.</li><li>Topics expected to be discussed
+      were the uncertainty over future of a Cold War-era <strong>arms
+      treaty</strong>, as well as security issues in <strong>Ukraine</strong>,
+      <strong>Syria</strong>, <strong>Iran</strong> and <strong>North
+      Korea</strong>.</li></ul></div>
     _key: card-4-9d8db549-d6ec-4fa2-8675-3702ba2626ef
   - order: 4
     useCheckmark: true
     body: >-
-      The Kremlin expressed regret over the cancelled meeting, but a foreign
-      ministry spokeswoman quoted by Russian news agencies questioned the
-      motivation for cancelling the meeting, saying I believe we should look for
-      answers in the U.S. domestic political situation.’
-
-
-      [view sources](https://smarthernews.com/18-11-30-russia/)
+      <div><p>The Kremlin expressed regret over the cancelled meeting, but a
+      foreign ministry spokeswoman quoted by Russian news agencies questioned
+      the motivation for cancelling the meeting, saying I believe we should look
+      for answers in the U.S. domestic political situation.’</p><p><a
+      href="https://smarthernews.com/18-11-30-russia/">view
+      sources</a></p></div>
     _key: card-10-855cf6e2-a4ee-435a-9ab7-0586fd4ecbdc
 
 ---

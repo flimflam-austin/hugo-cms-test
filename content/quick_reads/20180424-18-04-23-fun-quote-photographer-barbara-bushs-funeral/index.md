@@ -22,36 +22,30 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > Photographer behind this viral sensation shares backstory and the
-      message he sees in this image.
-
-
-      Flip: Backstory
+      <div><blockquote>Photographer behind this viral sensation shares backstory
+      and the message he sees in this image.</blockquote><p>Flip:
+      Backstory</p></div>
     citation: 'Flip: Backstory'
     _key: card-1-28d560b7-5fce-4fff-ad82-616fd6ed2575
   - order: 1
     useCheckmark: false
     body: >-
-      > ‘They are real people a| I think it really says a lot about the kinship
-      that this very select group of people has for each other. They’ve all
-      served. It’s not so much about the politics at that time. It’s about
-      honoring a very select member of that club.’  
-        
-        
-        
-      Photographer Paul Morse to Time magazine. Morse worked for George W. Bush
-      in the White House but has gone on to work with both the Clintons, Bushes
-      and beyond.
+      <blockquote>‘They are real people a| I think it really says a lot about
+      the kinship that this very select group of people has for each other.
+      They’ve all served. It’s not so much about the politics at that time. It’s
+      about honoring a very select member of that
+      club.’<br><br><br><br>Photographer Paul Morse to Time magazine. Morse
+      worked for George W. Bush in the White House but has gone on to work with
+      both the Clintons, Bushes and beyond.</blockquote>
     _key: card-2-8fc55aa5-c1dc-489b-bc27-ac6c3aef156f
   - order: 2
     useCheckmark: true
     body: >-
-      Morse estimates he had 4 shots to capture this image of multi-generations
-      of American leaders. Read his description of the experience:
-
-
-      [view
-      sources](https://smarthernews.com/18-04-23-fun-quote-photographer-barbara-bushs-funeral/)
+      <div><p>Morse estimates he had 4 shots to capture this image of
+      multi-generations of American leaders. Read his description of the
+      experience:</p><p><a
+      href="https://smarthernews.com/18-04-23-fun-quote-photographer-barbara-bushs-funeral/">view
+      sources</a></p></div>
     _key: card-10-34ee820a-ad41-471f-b6fe-7be42c95712e
 
 ---

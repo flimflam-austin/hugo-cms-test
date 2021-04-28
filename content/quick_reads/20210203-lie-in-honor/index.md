@@ -21,84 +21,67 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## A Special Honor
-
-
-      > A Capitol police officer will lie in honor in the same site he served to
-      protect.  
-        
-      This unique tradition started with two others who died defending the seat
-      of government.
+      <div><h2>A Special Honor</h2><blockquote>A Capitol police officer will lie
+      in honor in the same site he served to protect.<br><br>This unique
+      tradition started with two others who died defending the seat of
+      government.</blockquote></div>
     _key: 6102e7ad19d8
   - order: 1
     useCheckmark: false
     body: >-
-      > _“Officer Sicknick was responding to the riots on Wednesday, January 6,
-      2021, at the U.S. Capitol and was injured while physically engaging with
-      protesters. He returned to his division office and collapsed. He was taken
-      to a local hospital where he succumbed to his injuries.”_
-
-
-      The U.S. Capitol Police.
+      <div><blockquote><em>“Officer Sicknick was responding to the riots on
+      Wednesday, January 6, 2021, at the U.S. Capitol and was injured while
+      physically engaging with protesters. He returned to his division office
+      and collapsed. He was taken to a local hospital where he succumbed to his
+      injuries.”</em></blockquote><p>The U.S. Capitol Police.</p></div>
     _key: 0e8d1b8a4cf4
   - order: 2
     useCheckmark: false
     body: >-
-      > “There really aren’t enough kind words in any language to describe how
-      sweet Brian was. He was truly a lovely, humble soul. We are missing him
-      terribly.”
-
-
-      The official statement from the family of Officer Sicknick, who described
-      him as "sweet natured through and through." They expressed his devotion to
-      his dachshunds and his job, which they said he loved and "was very
-      passionate about," never wanting to arrive late or call in sick.
+      <div><blockquote>“There really aren’t enough kind words in any language to
+      describe how sweet Brian was. He was truly a lovely, humble soul. We are
+      missing him terribly.”</blockquote><p>The official statement from the
+      family of Officer Sicknick, who described him as "sweet natured through
+      and through." They expressed his devotion to his dachshunds and his job,
+      which they said he loved and "was very passionate about," never wanting to
+      arrive late or call in sick.</p></div>
     _key: 4a76a6e1bd80
   - order: 3
     useCheckmark: false
     body: >-
-      ## Lie in State Vs. Lie In Honor
-
-
-      * Both refer to a special honor bestowed by Congress: a memorial service
-      where one’s casket sits in the Capitol Rotunda.
-
-      * The honor in America dates back to 1852 when Henry Clay – former Sec. of
-      State, congressman & senator – was first to “lie in state” at the Capitol.
-
-      * Average citizens cannot lie in state; that honor is reserved for gov’t &
-      military officials.
-
-      * However, eminent private citizens may “lie in honor.”
+      <div><h2>Lie in State Vs. Lie In Honor</h2><ul><li>Both refer to a special
+      honor bestowed by Congress: a memorial service where one’s casket sits in
+      the Capitol Rotunda.</li><li>The honor in America dates back to 1852 when
+      Henry Clay – former Sec. of State, congressman &amp; senator – was first
+      to “lie in state” at the Capitol.</li><li>Average citizens cannot lie in
+      state; that honor is reserved for gov’t &amp; military
+      officials.</li><li>However, eminent private citizens may “lie in
+      honor.”</li></ul></div>
     _key: 17f7de488743
   - order: 4
     useCheckmark: false
     body: >-
-      ## Lie In Honor
-
-
-      * To date, only four Americans have received the honor.
-
-      * The first two citizens to receive this special distinction: two Capitol
-      police officers killed during an attack by a gunman at the U.S. Capitol in
-      1998.
-
-      * Notable: In 2005, civil rights activist Rosa Parks became the first (and
-      only) woman to “lie in honor” in the U.S. Capitol. Rev. Billy Graham
-      received the honor in 2018.
+      <div><h2>Lie In Honor</h2><ul><li>To date, only four Americans have
+      received the honor.</li><li>The first two citizens to receive this special
+      distinction: two Capitol police officers killed during an attack by a
+      gunman at the U.S. Capitol in 1998.</li><li>Notable: In 2005, civil rights
+      activist Rosa Parks became the first (and only) woman to “lie in honor” in
+      the U.S. Capitol. Rev. Billy Graham received the honor in
+      2018.</li></ul></div>
     _key: 8097f776602d
   - order: 5
     useCheckmark: false
-    body: "## A Special Support\n\n* Catafalque (cat-e-falk):\_a frame that supports a coffin.\n* Pres. Lincoln’s catafalque used after his assassination has held most of the coffins that have lain in state.\n* The catafalque has had minor restorations since 1865 (retrofitted to hold larger coffins, drapery replaced), but it remains like the original for the most part."
+    body: "<div><h2>A Special Support</h2><ul><li>Catafalque (cat-e-falk):\_a frame that supports a coffin.</li><li>Pres. Lincoln’s catafalque used after his assassination has held most of the coffins that have lain in state.</li><li>The catafalque has had minor restorations since 1865 (retrofitted to hold larger coffins, drapery replaced), but it remains like the original for the most part.</li></ul></div>"
     _key: 7d51098543d0
   - order: 6
     useCheckmark: true
     body: >-
-      Officer Sicknick's service began before he joined the Capitol Police. He
-      served in the New Jersey National Guard and deployed twice, once overseas
-      after 9/11. Reports suggest Officer Sicknick was hit in the head with a
-      fire extinguisher. Approximately 140 officers were injured during the riot
-      - details on what we now know our source page.
+      <div><p>Officer Sicknick's service began before he joined the Capitol
+      Police. He served in the New Jersey National Guard and deployed twice,
+      once overseas after 9/11. Reports suggest Officer Sicknick was hit in the
+      head with a fire extinguisher. Approximately 140 officers were injured
+      during the riot - details on what we now know our source
+      page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: ebe5b3f544f9
 

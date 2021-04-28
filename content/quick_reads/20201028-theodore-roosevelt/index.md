@@ -21,17 +21,19 @@ colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
     useCheckmark: false
-    body: '> _“Life is a great adventure…accept it in such a spirit.“_'
+    body: >-
+      <div><blockquote><em>“Life is a great adventure…accept it in such a
+      spirit.“</em></blockquote><p></p></div>
     citation: THEODORE ROOSEVELT
     _key: a6262fa11eb7
   - order: 1
     useCheckmark: true
     body: >-
-      At 43, Roosevelt became the youngest president to serve, after the
+      <div><p>At 43, Roosevelt became the youngest president to serve, after the
       assassination of Pres. McKinley. Grief led him to explore and love the
       wild American west as a young man and conservationism became a part of his
       legacy. He preserved hundreds of millions of acres of public lands, such
-      as the Grand Canyon.
+      as the Grand Canyon.</p><p></p></div>
     citation: VIEW SOURCES
     _key: b6b474f46a22
 

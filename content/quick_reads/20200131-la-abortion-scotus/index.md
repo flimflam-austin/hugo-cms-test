@@ -22,88 +22,76 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      As both sides of the debate square off in the streets, the U.S. Supreme
-      Court gets ready to weigh in on the first major abortion case in years.
+      <p>As both sides of the debate square off in the streets, the U.S. Supreme
+      Court gets ready to weigh in on the first major abortion case in
+      years.</p>
     _key: 4b967cc2cfc7
   - order: 1
     useCheckmark: false
     body: >-
-      ## Law At Issue: Act 260
-
-
-      * **2014:** Louisiana law (Act 260) requires an abortion provider to have
-      admitting privileges at a hospital within 30 miles of the site of an
-      abortion. The law never took effect due to legal challenges.
-
-      * **2017:** Trial court struck it down. Finding only 1 clinic & 1 doctor
-      would be able to perform abortions, court ruled it placed an “undue
-      burden” on women.
-
-      * **2018:** Federal appeals court disagreed and reversed the trial court’s
-      decision.
+      <div><h2>Law At Issue: Act 260</h2><ul><li><strong>2014:</strong>
+      Louisiana law (Act 260) requires an abortion provider to have admitting
+      privileges at a hospital within 30 miles of the site of an abortion. The
+      law never took effect due to legal
+      challenges.</li><li><strong>2017:</strong> Trial court struck it down.
+      Finding only 1 clinic &amp; 1 doctor would be able to perform abortions,
+      court ruled it placed an “undue burden” on
+      women.</li><li><strong>2018:</strong> Federal appeals court disagreed and
+      reversed the trial court’s decision.</li></ul><p><br></p></div>
     _key: f42c3913b8b6
   - order: 2
     useCheckmark: false
     body: >-
-      ## IMPORTANT CONTEXT:
-
-
-      * In 1973, U.S. Supreme Court legalized abortion *with limits* in Roe v.
-      Wade, allowing states to set certain restrictions.
-
-      * In 2016, the Court struck down a nearly identical law to Louisiana’s out
-      of Texas, finding it imposed an “undue burden” on those seeking abortions.
-
-      * Under current precedent, states can’t pass laws that impose an “undue
-      burden” on the right to access abortion.
+      <div><h2>IMPORTANT CONTEXT:</h2><ul><li>In 1973, U.S. Supreme Court
+      legalized abortion *with limits* in Roe v. Wade, allowing states to set
+      certain restrictions.</li><li>In 2016, the Court struck down a nearly
+      identical law to Louisiana’s out of Texas, finding it imposed an “undue
+      burden” on those seeking abortions.</li><li>Under current precedent,
+      states can’t pass laws that impose an “undue burden” on the right to
+      access abortion.</li></ul><p><br></p></div>
     _key: e105bc26c75c
   - order: 3
     useCheckmark: false
     body: >-
-      “The true, and often overt, intent of legislators behind pretextual laws
-      like Act 620, which have no demonstrable medical benefit, is to severely
-      restrict, and ultimately eliminate, access to legal abortion under the
-      guise of patient welfare.”  
-        
-      A friend of the court brief filed by 197 congressional Democrats arguing
-      the law should be struck down. Groups like Planned Parenthood, and nearly
-      22 state attorneys general also filed similar briefs.
+      <div><p>“The true, and often overt, intent of legislators behind
+      pretextual laws like Act 620, which have no demonstrable medical benefit,
+      is to severely restrict, and ultimately eliminate, access to legal
+      abortion under the guise of patient welfare.”<br><br>A friend of the court
+      brief filed by 197 congressional Democrats arguing the law should be
+      struck down. Groups like Planned Parenthood, and nearly 22 state attorneys
+      general also filed similar briefs.</p><p><br></p></div>
     _key: abb0bf304ae1
   - order: 4
     useCheckmark: false
     body: >-
-      > “The burdens of Act 620 are minimal—principally, a modest increase in
-      the waiting time (less than an hour) to obtain an abortion. The benefits
-      described above are more than sufficient to justify that burden.”
-
-
-      A friend of the court brief filed by the Trump administration, urging the
-      court to allow the law to go into effect. A similar brief was filed by
-      more than 200 Republican (and two Democrats) members of Congress.
+      <div><blockquote>“The burdens of Act 620 are minimal—principally, a modest
+      increase in the waiting time (less than an hour) to obtain an abortion.
+      The benefits described above are more than sufficient to justify that
+      burden.”</blockquote><p>A friend of the court brief filed by the Trump
+      administration, urging the court to allow the law to go into effect. A
+      similar brief was filed by more than 200 Republican (and two Democrats)
+      members of Congress.</p></div>
     _key: f90c081b7420
   - order: 5
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      * The case is the first time the Supreme Court will rule on abortion
-      rights since Pres. Trump appointed two justices giving the court
-      a**conservative** majority.
-
-      * This case is being closely watched by**other states** that have or hope
-      to pass more expansive abortion restrictions, and face legal challenges.
-
-      * Louisiana has only 3 abortion providers in the state. If allowed to go
-      into effect, this law will further impact access.
+      <div><h2>Why It Matters</h2><ul><li>The case is the first time the Supreme
+      Court will rule on abortion rights since Pres. Trump appointed two
+      justices giving the court a <strong>conservative</strong>
+      majority.</li><li>This case is being closely watched by <strong>other
+      states</strong> that have or hope to pass more expansive abortion
+      restrictions, and face legal challenges.</li><li>Louisiana has only 3
+      abortion providers in the state. If allowed to go into effect, this law
+      will further impact access.</li></ul><p><br></p></div>
     _key: 6ce626849c81
   - order: 6
     useCheckmark: true
     body: >-
-      BIG PICTURE: Louisiana is just one of many states that have tried to
-      restrict access to abortion, while other states like New York and Illinois
-      have tried to expand access. The Supreme Court will hear this case, one of
-      the rare cases on abortion to reach the high court, on March 4th.
+      <div><p>BIG PICTURE: Louisiana is just one of many states that have tried
+      to restrict access to abortion, while other states like New York and
+      Illinois have tried to expand access. The Supreme Court will hear this
+      case, one of the rare cases on abortion to reach the high court, on March
+      4th.</p><p></p></div>
     citation: VIEW SOURCES
     _key: a225182f9d79
 

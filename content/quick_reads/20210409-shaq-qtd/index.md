@@ -22,19 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“I’m into making people happy. So, whenever I leave the house, I just
-      try to do a good deed.”_
+      <blockquote><em>“I’m into making people happy. So, whenever I leave the
+      house, I just try to do a good deed.”</em></blockquote>
     citation: SHAQUILLE O'NEAL
     _key: 4e42c8e85302
   - order: 1
     useCheckmark: true
     body: >-
-      Shaq said he didn't intend for this story to get out, but someone captured
-      him on camera picking up the tab for a young man who had put an engagement
-      ring on layaway at Zales. Shaq, who has a jewelry line at Zales, talked
-      about the power of random acts of kindness. Separately, food for thought:
-      the president of Zales recently said the pandemic has boosted jewelry
-      sales, specifically of engagement rings!
+      <p>Shaq said he didn't intend for this story to get out, but someone
+      captured him on camera picking up the tab for a young man who had put an
+      engagement ring on layaway at Zales. Shaq, who has a jewelry line at
+      Zales, talked about the power of random acts of kindness. Separately, food
+      for thought: the president of Zales recently said the pandemic has boosted
+      jewelry sales, specifically of engagement rings!</p>
     _key: 245ff7f30650
 
 ---

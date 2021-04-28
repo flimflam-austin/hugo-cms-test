@@ -18,13 +18,11 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      U.S. Vice President Pence & Ivanka Trump will attend AMLO's inauguration,
-      as will the Pres. of Venezuela, fellow leftist, NicolA!s Maduro. On
-      Sunday, members of the Mexican gov't will meet w/Sec. of State Mike Pompeo
-      in DC.
-
-
-      [view sources](https://smarthernews.com/amlo/)
+      <div><p>U.S. Vice President Pence &amp; Ivanka Trump will attend AMLO's
+      inauguration, as will the Pres. of Venezuela, fellow leftist, NicolA!s
+      Maduro. On Sunday, members of the Mexican gov't will meet w/Sec. of State
+      Mike Pompeo in DC.</p><p><a href="https://smarthernews.com/amlo/">view
+      sources</a></p></div>
     _key: card-10-724f0be8-d8d5-40ed-8115-680409cf9124
 
 ---

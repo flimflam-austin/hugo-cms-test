@@ -22,85 +22,70 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Working On A Cure?
-
-
-      America’s latest efforts to prevent & treat the spread of the new
-      coronavirus.
+      <div><h1>Working On A Cure?</h1><p>America’s latest efforts to prevent
+      &amp; treat the spread of the new coronavirus.</p></div>
     _key: 11b9c48840ca
   - order: 1
     useCheckmark: false
     body: >-
-      > “The ultimate target of the coronavirus is the respiratory tract: your
-      lung. The whole goal of the vaccine is that when this coronavirus comes
-      through your nose, your mouth, into your lung – to prevent it from hitting
-      the target that will infect you. You just want to block it.”  
-        
-      U.S. Coronavirus Task Force member Dr. Anthony Fauci who leads the Nat'l
-      Institute of Allergy & Infectious Diseases. Best case, accelerated
-      scenario: it will take at least a year to develop a vaccine.
+      <div><blockquote>“The ultimate target of the coronavirus is the
+      respiratory tract: your lung. The whole goal of the vaccine is that when
+      this coronavirus comes through your nose, your mouth, into your lung – to
+      prevent it from hitting the target that will infect you. You just want to
+      block it.”<br><br>U.S. Coronavirus Task Force member Dr. Anthony Fauci who
+      leads the Nat'l Institute of Allergy &amp; Infectious Diseases. Best case,
+      accelerated scenario: it will take at least a year to develop a
+      vaccine.</blockquote><p><br></p></div>
     _key: f88cb4837fe9
   - order: 2
     useCheckmark: false
     body: >-
-      ## Vaccines: What To Know
-
-
-      * **January**: China published the “genetic sequence” of COVID-19
-
-      * **February**: MA drug manufacturer sent samples of a vaccine to Nat’l
-      Institute of Allergy & Infectious Diseases (NIAID)
-
-      * **April**: First U.S. trial expected to begin. Preliminary results due
-      this summer.
-
-      * **Big Picture**: Average vaccine takes 10+ yrs to develop; other large
-      pharma companies also working on coronavirus vaccines.
+      <div><h2>Vaccines: What To Know</h2><ul><li><strong>January</strong>:
+      China published the “genetic sequence” of
+      COVID-19</li><li><strong>February</strong>: MA drug manufacturer sent
+      samples of a vaccine to Nat’l Institute of Allergy &amp; Infectious
+      Diseases (NIAID)</li><li><strong>April</strong>: First U.S. trial expected
+      to begin. Preliminary results due this summer.</li><li><strong>Big
+      Picture</strong>: Average vaccine takes 10+ yrs to develop; other large
+      pharma companies also working on coronavirus vaccines.</li></ul></div>
     _key: 7a8345a9c3cc
   - order: 3
     useCheckmark: false
     body: >-
-      ## Treatment: What To Know
-
-
-      * **First U.S. clinical trial** of an experimental treatment**happening
-      now** at the University of Nebraska Medical Center.
-
-      * The gov’t-sponsored trial will test an antiviral treatment (Remdesivir)
-      by administering the drug to some patients and a placebo to others.
-
-      * **Remdesivir: used to treat Ebola, tested on other coronaviruses like
-      SARS, showing some optimistic results.**
+      <div><h2>Treatment: What To Know</h2><ul><li><strong>First U.S. clinical
+      trial</strong> of an experimental treatment <strong>happening now</strong>
+      at the University of Nebraska Medical Center.</li><li>The gov’t-sponsored
+      trial will test an antiviral treatment (Remdesivir) by administering the
+      drug to some patients and a placebo to others.</li><li><strong>Remdesivir:
+      used to treat Ebola, tested on other coronaviruses like SARS, showing some
+      optimistic results.</strong></li></ul></div>
     _key: 4af1b9277f2b
   - order: 4
     useCheckmark: false
     body: >-
-      > “We urgently need a safe and effective treatment for COVID-19. Although
-      remdesivir has been administered to some patients with COVID-19, we do not
-      have solid data to indicate it can improve clinical outcomes. A
-      randomized, placebo-controlled trial is the gold standard for determining
-      if an experimental treatment can benefit patients.”  
-        
-      NIAID Director and U.S. Coronavirus Task Force member Dr. Anthony Fauci.
+      <div><blockquote>“We urgently need a safe and effective treatment for
+      COVID-19. Although remdesivir has been administered to some patients with
+      COVID-19, we do not have solid data to indicate it can improve clinical
+      outcomes. A randomized, placebo-controlled trial is the gold standard for
+      determining if an experimental treatment can benefit
+      patients.”<br><br>NIAID Director and U.S. Coronavirus Task Force member
+      Dr. Anthony Fauci.</blockquote><p><br></p></div>
     _key: 15f68fdc6bcd
   - order: 5
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      > _“Should hasty decisions lead to products that are not completely safe,
-      people’s faith in vaccines could be damaged. If so, the harm done to the
-      world’s health could rival the worst feared of the Wuhan virus.”_  
-        
-      The Economist magazine
+      <div><h2>Something To Consider:</h2><blockquote><em>“Should hasty
+      decisions lead to products that are not completely safe, people’s faith in
+      vaccines could be damaged. If so, the harm done to the world’s health
+      could rival the worst feared of the Wuhan virus.”</em><br><br>The
+      Economist magazine</blockquote></div>
     _key: a207e7e29de3
   - order: 6
     useCheckmark: true
     body: >-
-      Major drug companies are meeting at the White House today to strategize
-      and speed up the development of vaccine or antiviral treatment for the new
-      coronavirus.
+      <div><p>Major drug companies are meeting at the White House today to
+      strategize and speed up the development of vaccine or antiviral treatment
+      for the new coronavirus.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 5fbf74abbba1
 

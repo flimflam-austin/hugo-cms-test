@@ -21,60 +21,46 @@ colorpaletteclassname: '--light-green'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # New Unemployment Rate = 4.1%
-
-      ## New Number: New Year
-
-      * Reflects January’s “employment situation”.
-      * 200,000 jobs added.
-      * 4.1% rate = same forA the last 4 months.
+    body: >-
+      <div><h1>New Unemployment Rate = 4.1%</h1><h2>New Number: New
+      Year</h2><ul><li>Reflects January’s “employment
+      situation”.</li><li>200,000 jobs added.</li><li>4.1% rate = same forA the
+      last 4 months.</li></ul></div>
     _key: card-1-69e10ab2-22a7-4811-bd19-2c1720ffe2c6
   - order: 1
     useCheckmark: false
     body: >-
-      > “Employment continued to trend up in construction, food services and
-      drinking places, health care, and manufacturing. “  
-        
-        
-      Labor Department, Employment Situation Report, January 2018
-
-
-      [Click For Full Report](https://www.bls.gov/news.release/pdf/empsit.pdf)
+      <div><blockquote>“Employment continued to trend up in construction, food
+      services and drinking places, health care, and manufacturing.
+      “<br><br><br>Labor Department, Employment Situation Report, January
+      2018</blockquote><p><a
+      href="https://www.bls.gov/news.release/pdf/empsit.pdf">Click For Full
+      Report</a></p></div>
     _key: card-2-2d41b51e-3049-4bc1-be4d-a5725c7e8e7d
   - order: 2
     useCheckmark: false
     body: >-
-      # Important To Note: Hourly Earnings
-
-
-      * Average hourly earnings rose by 9 cents to $26.74.
-
-      * Over the last year, average hourly earnings rose 75 cents.
-
-      * Hourly earnings matter because it *may* reflect better quality jobs;
-      more confidence in economy.
+      <div><h1>Important To Note: Hourly Earnings</h1><ul><li>Average hourly
+      earnings rose by 9 cents to $26.74.</li><li>Over the last year, average
+      hourly earnings rose 75 cents.</li><li>Hourly earnings matter because it
+      *may* reflect better quality jobs; more confidence in
+      economy.</li></ul></div>
     _key: card-3-0a3b1c8f-9976-4869-8b31-36507074a186
   - order: 3
     useCheckmark: false
     body: >-
-      # Consider This:
-
-
-      * Good News: Unemployment Rate is low and wages are rising. Unemployment
-      at 17-year-low.
-
-      * Bad News: Some economist worry other indicators may show economy
-      “overheating”.
+      <div><h1>Consider This:</h1><ul><li>Good News: Unemployment Rate is low
+      and wages are rising. Unemployment at 17-year-low.</li><li>Bad News: Some
+      economist worry other indicators may show economy
+      “overheating”.</li></ul></div>
     _key: card-4-ef0f2676-93c1-422d-ad76-db6a2aa0097d
   - order: 4
     useCheckmark: true
     body: >-
-      A Dog Receives Unemployment Benefits In Michigan - For Real. Flip For the
-      Story.
-
-
-      [view sources](https://smarthernews.com/18-02-02-unemployment/)
+      <div><p>A Dog Receives Unemployment Benefits In Michigan - For Real. Flip
+      For the Story.</p><p><a
+      href="https://smarthernews.com/18-02-02-unemployment/">view
+      sources</a></p></div>
     _key: card-10-e0408e9e-cfa2-4303-acfd-11b808014514
 
 ---

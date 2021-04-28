@@ -22,109 +22,66 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # ICON
-
-
-      The Man Who Changed  
-
-      Fashion Forever
-
-
-      He designed unforgettable looks for Audrey Hepburn, Jackie O, and more
-      than one princess.
-
-
-      Hubert de Givenchy passes away at age 91.
+      <div><h1>ICON</h1><p>The Man Who Changed<br>Fashion Forever</p><p>He
+      designed unforgettable looks for Audrey Hepburn, Jackie O, and more than
+      one princess.</p><p>Hubert de Givenchy passes away at age 91.</p></div>
     _key: card-1-a25ebe18-ce5e-40c4-b275-d32e3440d267
   - order: 1
     useCheckmark: false
     body: >-
-      # Givenchy & Hepburn
-
-
-      * Audrey Hepburn took notice of the young Parisian designer when they were
-      both still in their 20s.
-
-      * He confused her with “Katharine Hepburn” & almost refused to meet with
-      her when she arrived.
-
-      * Givenchy designed the iconic gown in “Sabrina” & the little black dress
-      in “Breakfast At Tiffany’s.”
-
-
-      [Click Here: More
-      Looks](https://www.harpersbazaar.com/fashion/designers/g19405875/audrey-hepburn-hubert-de-givenchy/?slide=2)
+      <div><h1>Givenchy &amp; Hepburn</h1><ul><li>Audrey Hepburn took notice of
+      the young Parisian designer when they were both still in their
+      20s.</li><li>He confused her with “Katharine Hepburn” &amp; almost refused
+      to meet with her when she arrived.</li><li>Givenchy designed the iconic
+      gown in “Sabrina” &amp; the little black dress in “Breakfast At
+      Tiffany’s.”</li></ul><p><a
+      href="https://www.harpersbazaar.com/fashion/designers/g19405875/audrey-hepburn-hubert-de-givenchy/?slide=2">Click
+      Here: More Looks</a></p></div>
     _key: card-2-b6dda8a6-2ca4-428d-bf4b-2743f7554bec
   - order: 2
     useCheckmark: false
     body: >-
-      ## Advice From Givenchy
-
-
-      > ‘The**little black dress** is the hardest thing to realize because**you
-      must keep it simple**.’  
-        
-        
-        
-      Hubert de Givenchy
+      <div><h2>Advice From Givenchy</h2><blockquote>‘The <strong>little black
+      dress</strong> is the hardest thing to realize because <strong>you must
+      keep it simple</strong>.’<br><br><br><br>Hubert de
+      Givenchy</blockquote></div>
     _key: card-3-143355f3-5413-4820-954d-36860baf0561
   - order: 3
     useCheckmark: false
     body: >-
-      # FUN FACT
-
-
-      ## $923,187
-
-
-      What the “Holly Golightly” black dress sold for in auction in 2006.
-
-
-      [Auction Item:
-      2006](https://www.christies.com/lotfinder/Lot/audrey-hepburn-breakfast-at-tiffanys-1961-4832498-details.aspx)
+      <div><h1>FUN FACT</h1><h2>$923,187</h2><p>What the “Holly Golightly” black
+      dress sold for in auction in 2006.</p><p><a
+      href="https://www.christies.com/lotfinder/Lot/audrey-hepburn-breakfast-at-tiffanys-1961-4832498-details.aspx">Auction
+      Item: 2006</a></p></div>
     _key: card-4-fb68cb7a-5e16-4efe-b43a-eb41ca07becc
   - order: 4
     useCheckmark: false
     body: >-
-      ## Givenchy: Backstory
-
-
-      * Father died when he was 3.
-
-      * Grandmother was the widow of a director of a chain of French tapestry
-      workshops.
-
-      * Rewarded for good behavior as a young boy with fabric scraps.
-
-      * Opened his first shop at 24, using plastic mannequins because he
-      couldn’t afford “live” models.
+      <div><h2>Givenchy: Backstory</h2><ul><li>Father died when he was
+      3.</li><li>Grandmother was the widow of a director of a chain of French
+      tapestry workshops.</li><li>Rewarded for good behavior as a young boy with
+      fabric scraps.</li><li>Opened his first shop at 24, using plastic
+      mannequins because he couldn’t afford “live” models.</li></ul></div>
     _key: card-5-d994c3b1-fb6b-405e-b25e-8ecb6a361731
   - order: 5
     useCheckmark: false
     body: >-
-      ## Givenchy Today
-
-
-      * Givenchy sold his design house to LVMH (luxury brand company – includes
-      Louis Vuitton) in 1988; his last collection was in 1995.
-
-      * John Galiano, Roberto Tisci, & Alexander McQueen steered brand.
-
-      * In 2017, Clare Waight Keller named first female artistic director.
-
-
-      [Click: Fashion
-      Show](https://www.nytimes.com/2018/01/24/fashion/couture-margiela-galliano-givenchy.html)
+      <div><h2>Givenchy Today</h2><ul><li>Givenchy sold his design house to LVMH
+      (luxury brand company – includes Louis Vuitton) in 1988; his last
+      collection was in 1995.</li><li>John Galiano, Roberto Tisci, &amp;
+      Alexander McQueen steered brand.</li><li>In 2017, Clare Waight Keller
+      named first female artistic director.</li></ul><p><a
+      href="https://www.nytimes.com/2018/01/24/fashion/couture-margiela-galliano-givenchy.html">Click:
+      Fashion Show</a></p></div>
     _key: card-6-598c3f32-9d26-429b-9412-9cb77a94796e
   - order: 6
     useCheckmark: true
     body: >-
-      The perfect dress can make many things happen in a woman’s life. It can
-      bring happiness. It is so nice to give happiness to your friends.’
-      Givenchy
-
-
-      [view sources](https://smarthernews.com/18-02-12-famous-designer-dies/)
+      <div><p>The perfect dress can make many things happen in a woman’s life.
+      It can bring happiness. It is so nice to give happiness to your friends.’
+      Givenchy</p><p><a
+      href="https://smarthernews.com/18-02-12-famous-designer-dies/">view
+      sources</a></p></div>
     _key: card-10-f43d5dc7-f136-4266-8028-0e0fbd9b1198
 
 ---

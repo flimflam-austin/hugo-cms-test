@@ -22,70 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Works For Wrinkles..
-
-
-      ## Could Botox Stop The Opioid Epidemic?
-
-
-      > New study shows botox may work as a pain reliever, with fewer side
-      effects than opioids.
-
-
-      What To Know
+      <div><h1>Works For Wrinkles..</h1><h2>Could Botox Stop The Opioid
+      Epidemic?</h2><blockquote>New study shows botox may work as a pain
+      reliever, with fewer side effects than opioids.</blockquote><p>What To
+      Know</p></div>
     _key: card-1-c2b01eef-66f7-448f-af91-e0dc370d8e61
   - order: 1
     useCheckmark: false
     body: >-
-      > "The most promising aspect of our new approach is that**we can prolong
-      the opioid pain relief effect for many months with a single injection** of
-      our new bio-pharmaceuticals. This could benefit chronic pain sufferers in
-      many ways and also avoid the terrible consequences of continuous use of
-      opioids."  
-        
-      Bazbek Davletov, study author and chair of the biomedical science
-      department, University of Sheffield
+      <blockquote>"The most promising aspect of our new approach is that
+      <strong>we can prolong the opioid pain relief effect for many months with
+      a single injection</strong> of our new bio-pharmaceuticals. This could
+      benefit chronic pain sufferers in many ways and also avoid the terrible
+      consequences of continuous use of opioids."<br><br>Bazbek Davletov, study
+      author and chair of the biomedical science department, University of
+      Sheffield</blockquote>
     _key: card-2-65b539cd-54a2-48bf-9e82-51647b7588d0
   - order: 2
     useCheckmark: false
     body: >-
-      ## About The Study:
-
-
-      * **Botox blocks nerves from communicating with muscles.**
-
-      * When injected into the face, it prevents the facial muscles that create
-      wrinkles from moving.
-
-      * **Researchers combined botox with a natural morphine that prevents
-      nerves from transmitting pain.**
-
-      * End result is a less toxic & less addictive injectable than opioids.
+      <div><h2>About The Study:</h2><ul><li><strong>Botox blocks nerves from
+      communicating with muscles.</strong></li><li>When injected into the face,
+      it prevents the facial muscles that create wrinkles from
+      moving.</li><li><strong>Researchers combined botox with a natural morphine
+      that prevents nerves from transmitting pain.</strong></li><li>End result
+      is a less toxic &amp; less addictive injectable than
+      opioids.</li></ul></div>
     _key: card-3-63c33e9e-e165-4311-ae3b-2ff1a312cab6
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why It Matters:
-
-
-      * Results showed reduced pain in mice up to 23 days.
-
-      * No clinical trials yet, though researchers are working toward that goal.
-
-      * **Each day 115 Americans die from an opioid overdose**.
-
-      * In October 2017, Pres. Trump declared the opioid epidemic a public
-      health emergency.
+      <div><h2>Why It Matters:</h2><ul><li>Results showed reduced pain in mice
+      up to 23 days.</li><li>No clinical trials yet, though researchers are
+      working toward that goal.</li><li><strong>Each day 115 Americans die from
+      an opioid overdose</strong>.</li><li>In October 2017, Pres. Trump declared
+      the opioid epidemic a public health emergency.</li></ul></div>
     _key: card-4-6d3099b9-8cd7-42a1-9841-db31f4d0ee21
   - order: 4
     useCheckmark: true
     body: >-
-      Many people don’t realize that there are numerous medical indications for
-      Botox. We routinely use it in my office to treat migraines. Dr. Aisha
-      White, Quintessence Plastic Surgery to SmartHER News.
-
-
-      [view sources](https://smarthernews.com/18-08-01-preventative-botox/)
+      <div><p>Many people don’t realize that there are numerous medical
+      indications for Botox. We routinely use it in my office to treat
+      migraines. Dr. Aisha White, Quintessence Plastic Surgery to SmartHER
+      News.</p><p><a
+      href="https://smarthernews.com/18-08-01-preventative-botox/">view
+      sources</a></p></div>
     _key: card-10-7e8aba2a-af00-4e03-bb9e-b6665151540e
 
 ---

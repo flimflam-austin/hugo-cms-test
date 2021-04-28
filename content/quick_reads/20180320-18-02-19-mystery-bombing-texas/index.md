@@ -22,99 +22,72 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # TEXAS MYSTERY
-
-
-      ## Gains National Attention
-
-
-      > “We are clearly dealing with what we expect to be a**serial bomber.”**  
-        
-        
-        
-      Chief Chief Brian Manley, Austin Police Department, Press Conference,
-      March 19, 2018
+      <div><h1>TEXAS MYSTERY</h1><h2>Gains National
+      Attention</h2><blockquote>“We are clearly dealing with what we expect to
+      be a <strong>serial bomber.”</strong><br><br><br><br>Chief Chief Brian
+      Manley, Austin Police Department, Press Conference, March 19,
+      2018</blockquote></div>
     _key: card-1-73a60170-4246-4cab-babb-0156bedc1f74
   - order: 1
     useCheckmark: false
-    body: |-
-      ## Backstory: Bombs
-
-      * Austin = Capital city of Texas.
-      * 4 separate incidents, killing 2 people in less than a month.
-      * Bombs in form of delivered pkg or suspected tripwire.
-      * First 3 victims: African-American, Next 3 victims: Different races
-      * Police haven’t ruled out hate crime or terrorism.
-
-      Flip For Timeline
+    body: >-
+      <div><h2>Backstory: Bombs</h2><ul><li>Austin = Capital city of
+      Texas.</li><li>4 separate incidents, killing 2 people in less than a
+      month.</li><li>Bombs in form of delivered pkg or suspected
+      tripwire.</li><li>First 3 victims: African-American, Next 3 victims:
+      Different races</li><li>Police haven’t ruled out hate crime or
+      terrorism.</li></ul><p>Flip For Timeline</p></div>
     citation: Flip For Timeline
     _key: card-2-0e310bf3-e687-4e67-b4e9-7d849176cd75
   - order: 2
     useCheckmark: false
     body: >-
-      * **March 2**: pkg bomb killed 39-year-old man in Northeast Austin.
-
-      * **March 12**: pkg bomb killed 17-year-old man & injured his mother in
-      East Austin;A Separate pkg bomb injured 75-year-old woman in Southeast
-      Austin.
-
-      * **March 18**: 2 yet-to-be identified 20-year-old “anglo” males injured
-      while walking down the street in a residential area of Southwest Austin.
+      <ul><li><strong>March 2</strong>: pkg bomb killed 39-year-old man in
+      Northeast Austin.</li><li><strong>March 12</strong>: pkg bomb killed
+      17-year-old man &amp; injured his mother in East Austin;A Separate pkg
+      bomb injured 75-year-old woman in Southeast Austin.</li><li><strong>March
+      18</strong>: 2 yet-to-be identified 20-year-old “anglo” males injured
+      while walking down the street in a residential area of Southwest
+      Austin.</li></ul>
     _key: card-3-c16a8a5d-6f37-4bb2-89bd-6c136398ff56
   - order: 3
     useCheckmark: false
     body: >-
-      ## Latest Incident:
-
-
-      **March 20:** Pkg bomb explodes at a FedEx facility near San Antonio; one
-      employee injured by “concussive force”.
-
-
-      _“According to San Antonio media reports, the package detonated around
-      12:25 a.m. as it traveled on a conveyor belt …the package blasted out
-      metal shrapnel and nails when it exploded.”A_ Austin Statesman
+      <div><h2>Latest Incident:</h2><p><strong>March 20:</strong> Pkg bomb
+      explodes at a FedEx facility near San Antonio; one employee injured by
+      “concussive force”.</p><p><em>“According to San Antonio media reports, the
+      package detonated around 12:25 a.m. as it traveled on a conveyor belt …the
+      package blasted out metal shrapnel and nails when it exploded.”A</em>
+      Austin Statesman</p></div>
     _key: card-4-79b05fa0-f2a9-4eb3-b05f-a640996f843f
   - order: 4
     useCheckmark: false
     body: >-
-      ## What You Should Know:
-
-
-      * **FBI & ATF devoting resources** to investigation. (Important: No matter
-      where you live, federal tax dollars flowing to solve this crime).
-
-      * Cops consider the tripwire bomb a ‘**significant change**’ – because of
-      technology & target (seemingly random people).
-
-      * Tripwire use also indicates a**level of sophistication**, according to
-      law enforcement.
+      <div><h2>What You Should Know:</h2><ul><li><strong>FBI &amp; ATF devoting
+      resources</strong> to investigation. (Important: No matter where you live,
+      federal tax dollars flowing to solve this crime).</li><li>Cops consider
+      the tripwire bomb a ‘<strong>significant change</strong>’ – because of
+      technology &amp; target (seemingly random people).</li><li>Tripwire use
+      also indicates a <strong>level of sophistication</strong>, according to
+      law enforcement.</li></ul></div>
     _key: card-5-362f0e9e-cce1-498d-99bc-b358afb24f2b
   - order: 5
     useCheckmark: false
     body: >-
-      # What Now?
-
-
-      Police telling locals to watch for any out-of-place bags, boxes, and
-      backpacks.
-
-
-      Why This Is Hard:
-
-
-      Average American homeowner receives**27 pkgs****a year** (younger
-      generation receives even more).**Nearly 45 million pkgs delivered everyday
-      in U.S.A** (_Package Guard_)
+      <div><h1>What Now?</h1><p>Police telling locals to watch for any
+      out-of-place bags, boxes, and backpacks.</p><p>Why This Is
+      Hard:</p><p>Average American homeowner receives <strong>27 pkgs</strong>
+      <strong>a year</strong> (younger generation receives even more).
+      <strong>Nearly 45 million pkgs delivered everyday in U.S.A</strong>
+      (<em>Package Guard</em>)</p></div>
     _key: card-6-7dad27d6-231c-40dd-b616-8cfb733b2741
   - order: 6
     useCheckmark: true
     body: >-
-      Law enforcement offering $100,000 reward for information leading to arrest
-      of suspect or suspects.
-
-
-      [view sources](https://smarthernews.com/18-02-19-mystery-bombing-texas/)
+      <div><p>Law enforcement offering $100,000 reward for information leading
+      to arrest of suspect or suspects.</p><p><a
+      href="https://smarthernews.com/18-02-19-mystery-bombing-texas/">view
+      sources</a></p></div>
     _key: card-10-a1ff1fe2-66b0-4b7b-9dca-3608645a2558
 
 ---

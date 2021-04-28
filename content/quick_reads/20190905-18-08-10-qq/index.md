@@ -22,68 +22,53 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “We can have a dialogue about the president and not a diatribe – I got
-      that from Sarah Jessica Parker.”  
-        
-        
-        
-      Kanye West on 'Jimmy Kimmel Live!'
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/rzXpJcwqYIg?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>“We can have a dialogue about the president and not a
+      diatribe – I got that from Sarah Jessica Parker.”<br><br><br><br>Kanye
+      West on 'Jimmy Kimmel Live!'</blockquote><p><a
+      href="https://www.youtube.com/embed/rzXpJcwqYIg?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     citation: Watch Now
     _key: card-1-18a03469-78bd-4b80-b86c-9c5067a45c77
   - order: 1
     useCheckmark: false
     body: >-
-      > “Character, sophistication, personality, the way they get along with
-      other people, and beauty, because we want them all to look beautiful when
-      they go to see the president.”  
-        
-        
-        
-      Jeff Sveen explaining how he will help choose which Thanksgiving turkeys
-      to give to the President - the FIRST turkeys from South Dakota in the
-      71-year-old tradition.
+      <blockquote>“Character, sophistication, personality, the way they get
+      along with other people, and beauty, because we want them all to look
+      beautiful when they go to see the president.”<br><br><br><br>Jeff Sveen
+      explaining how he will help choose which Thanksgiving turkeys to give to
+      the President - the FIRST turkeys from South Dakota in the 71-year-old
+      tradition.</blockquote>
     _key: card-2-7429496f-a845-4a1a-9bd5-77cc0a0dfe75
   - order: 2
     useCheckmark: false
     body: >-
-      > ‘This is such a niche app with niche content, that for it to make that
-      sort of jump means it has become very interesting to a much broader
-      audience. Essentially, it’s gone from being niche to being mainstream.’  
-        
-        
-        
-      Jonathan Kay, co-founder of Apptopia, an app analytics firm, to the New
-      York Times on the sudden boom of the InfoWars app on the same week
-      prominent social media platforms removed some of its content.
-
-
-      [INFOWARS' LEGAL WARS](https://smarthernews.com/18-08-09-alex-jones/)
+      <div><blockquote>‘This is such a niche app with niche content, that for it
+      to make that sort of jump means it has become very interesting to a much
+      broader audience. Essentially, it’s gone from being niche to being
+      mainstream.’<br><br><br><br>Jonathan Kay, co-founder of Apptopia, an app
+      analytics firm, to the New York Times on the sudden boom of the InfoWars
+      app on the same week prominent social media platforms removed some of its
+      content.</blockquote><p><a
+      href="https://smarthernews.com/18-08-09-alex-jones/">INFOWARS' LEGAL
+      WARS</a></p></div>
     citation: INFOWARS' LEGAL WARS
     _key: card-3-a6fc0260-77ea-4d78-81a1-6d8f302e23fb
   - order: 3
     useCheckmark: false
     body: >-
-      > “I wanted to let the voters debate, discuss and think about a different
-      way forward… And, I wanted the political class to hear and witness the
-      frustration of California’s voters with decades of inaction & decay.”  
-        
-        
-        
-      Tim Draper, the billionaire behind the idea, says he will now give up on
-      his bid to split California into 3 states. Draper spent $1.7M & several
-      years supporting the plan. The CA Supreme Court would not allow it on the
-      November ballot.
+      <blockquote>“I wanted to let the voters debate, discuss and think about a
+      different way forward… And, I wanted the political class to hear and
+      witness the frustration of California’s voters with decades of inaction
+      &amp; decay.”<br><br><br><br>Tim Draper, the billionaire behind the idea,
+      says he will now give up on his bid to split California into 3 states.
+      Draper spent $1.7M &amp; several years supporting the plan. The CA Supreme
+      Court would not allow it on the November ballot.</blockquote>
     _key: card-4-a8384fa0-f4b8-4d93-baae-abcf037b4e9d
   - order: 4
     useCheckmark: true
-    body: |-
-      TGIF!
-
-      [view sources](https://smarthernews.com/18-08-10-qq/)
+    body: >-
+      <div><p>TGIF!</p><p><a href="https://smarthernews.com/18-08-10-qq/">view
+      sources</a></p></div>
     _key: card-10-c39351db-e87a-4039-93ea-755580fe8c7d
 
 ---

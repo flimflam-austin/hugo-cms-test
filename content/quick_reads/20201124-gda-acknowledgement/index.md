@@ -22,78 +22,61 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      How**one small action** by a government official you may not be familiar
-      with just led to a**noteworthy development** in the 2020 presidential
-      race.
+      <p>How <strong>one small action</strong> by a government official you may
+      not be familiar with just led to a <strong>noteworthy development</strong>
+      in the 2020 presidential race.</p>
     _key: 1b7d72ae7d03
   - order: 1
     useCheckmark: false
     body: >-
-      ## What Is USGSA?
-
-
-      U.S. General Services Administration
-
-
-      Think of this agency like a huge office manager for the federal
-      government, with oversight over real estate, office space, technology and
-      supplies.
-
-
-      An important function: “ascertain” (not name or choose) who the next
-      administration will be and facilitate the transition to a new team.
+      <div><h2>What Is USGSA?</h2><p>U.S. General Services
+      Administration</p><p>Think of this agency like a huge office manager for
+      the federal government, with oversight over real estate, office space,
+      technology and supplies.</p><p>An important function: “ascertain” (not
+      name or choose) who the next administration will be and facilitate the
+      transition to a new team.</p></div>
     _key: 342269cd3b8b
   - order: 2
     useCheckmark: false
     body: >-
-      ## Backstory:
-
-
-      * The head of the GSA, Emily Murphy, did not “ascertain” the presidency
-      was won by fmr. VP Joe Biden when media outlets initially called the race
-      based on state results.
-
-      * Many, incl. Republican & Democrat lawmakers, pressured her to do so
-      based on preliminary election results.
-
-      * Nov. 23: Murphy announced “based on the law and available facts” that VP
-      Biden is the “apparent winner.”
+      <div><h2>Backstory:</h2><ul><li>The head of the GSA, Emily Murphy, did not
+      “ascertain” the presidency was won by fmr. VP Joe Biden when media outlets
+      initially called the race based on state results.</li><li>Many, incl.
+      Republican &amp; Democrat lawmakers, pressured her to do so based on
+      preliminary election results.</li><li>Nov. 23: Murphy announced “based on
+      the law and available facts” that VP Biden is the “apparent
+      winner.”</li></ul></div>
     _key: 700926c7536d
   - order: 3
     useCheckmark: false
     body: >-
-      > “…in the best interest of our Country, I am recommending that Emily and
-      her team do what needs to be done with regard to initial protocols, and
-      have told my team to do the same.”
-
-
-      Pres. Trump on the announcement by the GSA administrator. The GSA does not
-      need approval from the U.S. President to begin the early process of a
+      <div><blockquote>“…in the best interest of our Country, I am recommending
+      that Emily and her team do what needs to be done with regard to initial
+      protocols, and have told my team to do the same.”</blockquote><p>Pres.
+      Trump on the announcement by the GSA administrator. The GSA does not need
+      approval from the U.S. President to begin the early process of a
       transition to a new administration; the power to do so belongs to the GSA
       under federal law. The Electoral College will *officially* vote for Pres.
-      on Dec. 14th.
+      on Dec. 14th.</p></div>
     _key: 8e02d30ec666
   - order: 4
     useCheckmark: false
     body: >-
-      ## Why This Matters:
-
-
-      **Practically**: This development by the GSA releases $6+ million to the
-      Biden transition team to hire staff members and start preparing their new
-      administration.
-
-
-      **Symbolically**: This is the first “nod” from the Trump administration
-      that VP Joe Biden is the projected winner of the 2020 election.
+      <div><h2>Why This Matters:</h2><p><strong>Practically</strong>: This
+      development by the GSA releases $6+ million to the Biden transition team
+      to hire staff members and start preparing their new
+      administration.</p><p><strong>Symbolically</strong>: This is the first
+      “nod” from the Trump administration that VP Joe Biden is the projected
+      winner of the 2020 election.</p></div>
     _key: d67d50204f93
   - order: 5
     useCheckmark: true
     body: >-
-      On this day, Michigan certified its election results, declaring VP Joe
-      Biden the winner. VP Biden has begun announcing team members he intends to
-      nominate, including high-profile members of his cabinet. While Pres. Trump
-      voiced his support for the GSA, he has yet to officially concede.
+      <div><p>On this day, Michigan certified its election results, declaring VP
+      Joe Biden the winner. VP Biden has begun announcing team members he
+      intends to nominate, including high-profile members of his cabinet. While
+      Pres. Trump voiced his support for the GSA, he has yet to officially
+      concede.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 2eaccf8de572
 

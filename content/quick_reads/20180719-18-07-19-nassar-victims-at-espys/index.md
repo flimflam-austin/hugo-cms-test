@@ -22,21 +22,22 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > **"The ripple effect of our actions, or inactions, can be enormous,
-      spanning generations. Perhaps the greatest tragedy of this nightmare is
-      that it could have been avoided. Predators thrive in silence.”**  
-        
-      Olympic gymnast Aly Raisman, accepting the Arthur Ashe Courage Award at
-      the 2018 ESPY Awards alongside 100+ of Larry Nassar's sexual abuse victims
-      and her 'sister survivors.'
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/W9hu5HLoSzM?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote><strong>"The ripple effect of our actions, or inactions,
+      can be enormous, spanning generations. Perhaps the greatest tragedy of
+      this nightmare is that it could have been avoided. Predators thrive in
+      silence.”</strong><br><br>Olympic gymnast Aly Raisman, accepting the
+      Arthur Ashe Courage Award at the 2018 ESPY Awards alongside 100+ of Larry
+      Nassar's sexual abuse victims and her 'sister
+      survivors.'</blockquote><p><a
+      href="https://www.youtube.com/embed/W9hu5HLoSzM?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-1-ffb1880e-7f3c-40a8-9a2b-d8bacc202984
   - order: 1
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-07-19-nassar-victims-at-espys/)'
+    body: >-
+      <p><a
+      href="https://smarthernews.com/18-07-19-nassar-victims-at-espys/">view
+      sources</a></p>
     _key: card-10-c57659bf-eaad-48fe-ad42-d57582c7dbcd
 
 ---

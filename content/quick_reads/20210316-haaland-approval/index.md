@@ -21,20 +21,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“I believe that every one of us – Republicans, Democrats, and
-      Independents – shares a common bond: our love for the outdoors and a
-      desire and obligation to keep our nation livable for future generations.”_
+      <blockquote><em>“I believe that every one of us – Republicans, Democrats,
+      and Independents – shares a common bond: our love for the outdoors and a
+      desire and obligation to keep our nation livable for future
+      generations.”</em></blockquote>
     citation: DEB HAALAND
     _key: 38014ef703cb
   - order: 1
     useCheckmark: true
     body: >-
-      The Senate confirmed Pres. Biden's choice for Secretary of the Interior -
-      Deb Haaland, the first Native American to serve in this role AND in the
+      <p>The Senate confirmed Pres. Biden's choice for Secretary of the Interior
+      - Deb Haaland, the first Native American to serve in this role AND in the
       Cabinet. The Dept. of the Interior manages one out of every five acres in
       America. Haaland previously made history as one of the first Native
       American women elected to Congress, where she developed a reputation for
-      bipartisanship.
+      bipartisanship.</p>
     citation: VIEW SOURCES
     _key: 62d828cfa293
 

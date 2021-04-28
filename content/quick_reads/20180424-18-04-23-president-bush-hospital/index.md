@@ -22,60 +22,46 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Fmr. Pres. H. W. Bush Enters Hospital Day After Wife’s Funeral
-
-
-      President H.W. Bush is suffering from**“an infection that spread to his
-      blood.”**
-
-
-      One doctor tells SmartHER News:**“This is a big deal. A I am very
-      concerned.”**
-
-
-      Flip: What's going on
+      <div><h2>Fmr. Pres. H. W. Bush Enters Hospital Day After Wife’s
+      Funeral</h2><p>President H.W. Bush is suffering from <strong>“an infection
+      that spread to his blood.”</strong></p><p>One doctor tells SmartHER News:
+      <strong>“This is a big deal. A I am very concerned.”</strong></p><p>Flip:
+      What's going on</p></div>
     citation: 'Flip: What''s going on'
     _key: card-1-e91b6ba0-d421-4890-9906-0058a3cfd97b
   - order: 1
     useCheckmark: false
     body: >-
-      > “Bacteremia (infection in the bloodstream) can occur in anyone but is
-      most common in those who are immunocompromised or those who have chronic
-      diseases such as President Bush.”  
-        
-        
-        
-      Dr. Kevin Campbell, cardiologist to SmartHER News. Pres. Bush suffers from
-      Parkinson's disease.
+      <blockquote>“Bacteremia (infection in the bloodstream) can occur in anyone
+      but is most common in those who are immunocompromised or those who have
+      chronic diseases such as President Bush.”<br><br><br><br>Dr. Kevin
+      Campbell, cardiologist to SmartHER News. Pres. Bush suffers from
+      Parkinson's disease.</blockquote>
     _key: card-2-b618a395-c8f0-4df5-acd4-dee26e0cc047
   - order: 2
     useCheckmark: false
     body: >-
-      > “Certainly the fact President Bush was exposed to many others and many
-      germs, may have played a role. There is some truth to the fact that
-      stressors such as a death or traumatic event can impact the ability of our
-      body’s immune system to fight off infection.”  
-        
-        
-        
-      Dr. Campbell to SmartHER News when asked if being exposed to so many
-      people at his wife's funeral led to infection. Pres. Bush shook hands Sat,
-      w/an est. 2,500 ppl. (Chicago Tribune).
+      <blockquote>“Certainly the fact President Bush was exposed to many others
+      and many germs, may have played a role. There is some truth to the fact
+      that stressors such as a death or traumatic event can impact the ability
+      of our body’s immune system to fight off infection.”<br><br><br><br>Dr.
+      Campbell to SmartHER News when asked if being exposed to so many people at
+      his wife's funeral led to infection. Pres. Bush shook hands Sat, w/an est.
+      2,500 ppl. (Chicago Tribune).</blockquote>
     _key: card-3-b4a3c2a7-c3d1-4e19-858e-fe6ff1c56146
   - order: 3
     useCheckmark: false
-    body: "> “Interestingly there is good data that supports the fact that when one spouse from a long time married couple diesa\x14such as the Bushesa\x14the other spouse often suffers a major health incident in quick fashiona\x14its almost as if we we hold on for the ones we love, and when they are gone, we follow closely behinda|.my wife and I discussed this tonight in fact.”  \n  \n  \n  \nDr. Campbell to SmartHER News"
+    body: "<blockquote>“Interestingly there is good data that supports the fact that when one spouse from a long time married couple diesa\x14such as the Bushesa\x14the other spouse often suffers a major health incident in quick fashiona\x14its almost as if we we hold on for the ones we love, and when they are gone, we follow closely behinda|.my wife and I discussed this tonight in fact.”<br><br><br><br>Dr. Campbell to SmartHER News</blockquote>"
     _key: card-4-a21671ac-5e0c-4d7d-8987-d55e48c35ce2
   - order: 4
     useCheckmark: true
     body: >-
-      During his wife's funeral President Bush wore socks with a colorful book
-      pattern as a tribute to his wife's love of reading. His spokesman says
-      despite being hospitalized, he is adamant about heading to his summer home
-      in Maine ASAP.
-
-
-      [view sources](https://smarthernews.com/18-04-23-president-bush-hospital/)
+      <div><p>During his wife's funeral President Bush wore socks with a
+      colorful book pattern as a tribute to his wife's love of reading. His
+      spokesman says despite being hospitalized, he is adamant about heading to
+      his summer home in Maine ASAP.</p><p><a
+      href="https://smarthernews.com/18-04-23-president-bush-hospital/">view
+      sources</a></p></div>
     _key: card-10-49901f2f-7ae3-4ffa-a352-6362674ad94e
 
 ---

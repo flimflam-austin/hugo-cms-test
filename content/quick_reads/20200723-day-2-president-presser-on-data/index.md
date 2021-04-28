@@ -22,59 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## For the second day, the President provided an update on the COVID-19
-      pandemic.
-
-
-      ## 3 Highlights To Know
+      <div><h2>For the second day, the President provided an update on the
+      COVID-19 pandemic.</h2><h2>3 Highlights To Know</h2></div>
     _key: 9283707896a0
   - order: 1
     useCheckmark: false
     body: >-
-      > “Nationwide, beyond the outbreak in several states, cases remain low and
-      very stable.”  
-        
-      Pres. Trump says the percentage of Americans testing positive for COVID-19
-      is declining and lower than in the spring. Meanwhile, California surpassed
-      New York Wednesday as the state having had the most cases of COVID-19 in
-      the nation (413,000+). Ohio, Minnesota & Indiana issued statewide mask
-      mandates; the Pres. said a decision about mask requirements on federal
-      property is coming in the next 24 hours.
+      <div><blockquote>“Nationwide, beyond the outbreak in several states, cases
+      remain low and very stable.”<br><br>Pres. Trump says the percentage of
+      Americans testing positive for COVID-19 is declining and lower than in the
+      spring. Meanwhile, California surpassed New York Wednesday as the state
+      having had the most cases of COVID-19 in the nation (413,000+). Ohio,
+      Minnesota &amp; Indiana issued statewide mask mandates; the Pres. said a
+      decision about mask requirements on federal property is coming in the next
+      24 hours.</blockquote><p><br></p></div>
     _key: 75f51e100b1a
   - order: 2
     useCheckmark: false
     body: >-
-      > “…we’re requiring increased testing of the nursing home personnel in
-      states where you had the worst outbreaks.”
-
-
-      Pres. Trump said the federal government would distribute 15,000 rapid
-      tests to nursing homes, calling the 5-15 minute tests "very accurate."
-      *Separately,* The New England Journal of Medicine this week highlighted
-      Congress allocating $1.5B for rapid, point-of-care COVID-19 testing with
-      the hopes of being able to test 2% of the U.S. population, or 6 million
-      people per day, by this fall.
+      <div><blockquote>“…we’re requiring increased testing of the nursing home
+      personnel in states where you had the worst
+      outbreaks.”</blockquote><p>Pres. Trump said the federal government would
+      distribute 15,000 rapid tests to nursing homes, calling the 5-15 minute
+      tests "very accurate." *Separately,* The New England Journal of Medicine
+      this week highlighted Congress allocating $1.5B for rapid, point-of-care
+      COVID-19 testing with the hopes of being able to test 2% of the U.S.
+      population, or 6 million people per day, by this fall.</p></div>
     _key: 7f70aa1147d5
   - order: 3
     useCheckmark: false
     body: >-
-      > “Our strategy is to shelter the highest-risk Americans, while allowing
-      younger and healthier citizens to return to work or school while being
-      careful and very vigilant. “
-
-
-      Pres. Trump repeated that more than half U.S. COVID deaths are attributed
-      to a group that makes up less than 1% of the U.S. population: those in
-      nursing homes or long-term care facilities. The President said he is
-      "comfortable" letting his child/grandchildren go back to school.
+      <div><blockquote>“Our strategy is to shelter the highest-risk Americans,
+      while allowing younger and healthier citizens to return to work or school
+      while being careful and very vigilant. “</blockquote><p>Pres. Trump
+      repeated that more than half U.S. COVID deaths are attributed to a group
+      that makes up less than 1% of the U.S. population: those in nursing homes
+      or long-term care facilities. The President said he is "comfortable"
+      letting his child/grandchildren go back to school.</p></div>
     _key: 260f9748d2ce
   - order: 4
     useCheckmark: true
     body: >-
-      The President said the U.S. gov't is looking carefully at how children
-      transmit COVID-19 and to expect more information "over the next week." The
-      President said the gov't secured doses of a potential vaccine, is focusing
-      on therapeutics, and he remains hopeful for a "cure."
+      <div><p>The President said the U.S. gov't is looking carefully at how
+      children transmit COVID-19 and to expect more information "over the next
+      week." The President said the gov't secured doses of a potential vaccine,
+      is focusing on therapeutics, and he remains hopeful for a
+      "cure."</p><p></p></div>
     citation: VIEW SOURCES
     _key: c9aab0572db2
 

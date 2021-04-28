@@ -22,101 +22,65 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## INSPIRATION
-
-
-      > ‘I love being part of a team in the military, and when I became injured
-      I was looking to seek that out again.”  
-        
-        
-      Dan Cnossen, Retired Navy SEAL, Gold & Silver Paralympic Medalist, Purple
-      Heart, Bronze Medal, pursuing second Master's Degree at Harvard.
-
-
-      Yes. That's a real bio.
+      <div><h2>INSPIRATION</h2><blockquote>‘I love being part of a team in the
+      military, and when I became injured I was looking to seek that out
+      again.”<br><br><br>Dan Cnossen, Retired Navy SEAL, Gold &amp; Silver
+      Paralympic Medalist, Purple Heart, Bronze Medal, pursuing second Master's
+      Degree at Harvard.</blockquote><p>Yes. That's a real bio.</p></div>
     _key: card-1-0dad938e-46f0-4195-b433-4414c5cfed27
   - order: 1
     useCheckmark: false
-    body: |-
-      # Winter Olympics Round II
-
-      The 2018 PyeongChang Paralympic Winter Games:**March 9-18**.
-
-      670 athletes from 46 countries
-
-      **44% MORE female athletes** than the 2014 Sochi games.
-
-      FLIP HERE FOR MORE
+    body: >-
+      <div><h1>Winter Olympics Round II</h1><p>The 2018 PyeongChang Paralympic
+      Winter Games: <strong>March 9-18</strong>.</p><p>670 athletes from 46
+      countries</p><p><strong>44% MORE female athletes</strong> than the 2014
+      Sochi games.</p><p>FLIP HERE FOR MORE</p></div>
     _key: card-2-3f322c4b-eca5-418a-bba0-41cacb9881c2
   - order: 2
     useCheckmark: false
-    body: |-
-      ## Team USA’s 74-Member Team Includes:
-
-      * 41 returning Paralympians
-      * 20 women & 54 men
-      * 18 military veterans & active duty service members
-      * 6 guides for visually impaired athletes
-      * 1 married couple (alpine skiers Danelle & Rob Umstead)
+    body: >-
+      <div><h2>Team USA’s 74-Member Team Includes:</h2><ul><li>41 returning
+      Paralympians</li><li>20 women &amp; 54 men</li><li>18 military veterans
+      &amp; active duty service members</li><li>6 guides for visually impaired
+      athletes</li><li>1 married couple (alpine skiers Danelle &amp; Rob
+      Umstead)</li></ul></div>
     _key: card-3-6679d942-3ca2-49f3-877b-badd4657e893
   - order: 3
     useCheckmark: false
     body: >-
-      Name to Know:  
-
-      Dan Cnossen
-
-
-      * 37 year-old from Topeka, Kansas
-
-      * Retired**Navy SEAL**; injured by IED in Afghanistan 2009, sustained
-      severe injuries & lost both legs above the knee.
-
-      * **Purple Heart**.**Bronze Star** for Valor.
-
-      * **Gold Medal**: Biathlon (cross-country skiing & rifle shooting)
-
-      * **Silver Medal**: Cross-country
+      <div><p>Name to Know:<br>Dan Cnossen</p><ul><li>37 year-old from Topeka,
+      Kansas</li><li>Retired <strong>Navy SEAL</strong>; injured by IED in
+      Afghanistan 2009, sustained severe injuries &amp; lost both legs above the
+      knee.</li><li><strong>Purple Heart</strong>. <strong>Bronze Star</strong>
+      for Valor.</li><li><strong>Gold Medal</strong>: Biathlon (cross-country
+      skiing &amp; rifle shooting)</li><li><strong>Silver Medal</strong>:
+      Cross-country</li></ul></div>
     _key: card-4-58ed3470-4336-4860-8843-603844fa6bd7
   - order: 4
     useCheckmark: false
     body: >-
-      Name to Know:  
-
-      Amy Purdy
-
-
-      * Grew up snowboarding in Vegas.
-
-      * At 19, she lost her legs below the knees to bacterial meningitis.
-
-      * When she couldn’t find prosthetic legs that allowed her to snowboard,
-      she BUILT her own.
-
-      * Founded a non-profit that helped get snowboarding in 2014 games & helps
-      disabled athletes engage in action sports.
+      <div><p>Name to Know:<br>Amy Purdy</p><ul><li>Grew up snowboarding in
+      Vegas.</li><li>At 19, she lost her legs below the knees to bacterial
+      meningitis.</li><li>When she couldn’t find prosthetic legs that allowed
+      her to snowboard, she BUILT her own.</li><li>Founded a non-profit that
+      helped get snowboarding in 2014 games &amp; helps disabled athletes engage
+      in action sports.</li></ul></div>
     _key: card-5-ec39b968-958f-4ad9-8c89-6fc4226bb238
   - order: 5
     useCheckmark: false
-    body: |-
-      Paralympic Winter Games:  
-      10 Days ~ 6 Sports
-
-      * biathlon
-      * alpine skiing
-      * cross-country skiing
-      * ice hockey
-      * snowboarding
-      * wheelchair curling
+    body: >-
+      <div><p>Paralympic Winter Games:<br>10 Days ~ 6
+      Sports</p><ul><li>biathlon</li><li>alpine skiing</li><li>cross-country
+      skiing</li><li>ice hockey</li><li>snowboarding</li><li>wheelchair
+      curling</li></ul></div>
     _key: card-6-94b02d4a-c35d-4d3e-a275-80dec9b6ccf5
   - order: 6
     useCheckmark: true
     body: >-
-      Want to learn more about pro-snowboarder, entrepreneur & author Amy Purdy,
-      check out her TED Talk:
-
-
-      [view sources](https://smarthernews.com/18-03-09-paralympics/)
+      <div><p>Want to learn more about pro-snowboarder, entrepreneur &amp;
+      author Amy Purdy, check out her TED Talk:</p><p><a
+      href="https://smarthernews.com/18-03-09-paralympics/">view
+      sources</a></p></div>
     _key: card-10-13671768-afbf-42f4-8f0e-715744ffff02
 
 ---

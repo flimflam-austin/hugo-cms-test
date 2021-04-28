@@ -22,86 +22,68 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## PRESIDENTIAL PERK?
-
-
-      **Executive Clemency**
-
-
-      President Trump issued a series of clemency decisions to 11 convicted
-      criminals.
-
-
-      What Happened &  
-
-      Why It Matters
+      <div><h2>PRESIDENTIAL PERK?</h2><p><strong>Executive
+      Clemency</strong></p><p>President Trump issued a series of clemency
+      decisions to 11 convicted criminals.</p><p>What Happened &amp;<br>Why It
+      Matters</p></div>
     _key: 5d825f6a3a16
   - order: 1
     useCheckmark: false
-    body: "## THE BASICS\n\nExecutive clemency is the “_power to grant reprieves and pardons for offenses against the U.S, except in cases of impeachment_”**granted to the President in the Constitution**. Two main types:\n\n* **Commutation:** Conviction stays on record, but sentence is shortened.\n* **Pardon:**\_Conviction stays on record, but civil rights lost due to conviction (ex: voting, guns) are restored."
+    body: "<div><h2>THE BASICS</h2><p>Executive clemency is the “<em>power to grant reprieves and pardons for offenses against the U.S, except in cases of impeachment</em>” <strong>granted to the President in the Constitution</strong>. Two main types:</p><ul><li><strong>Commutation:</strong> Conviction stays on record, but sentence is shortened.</li><li><strong>Pardon:</strong>\_Conviction stays on record, but civil rights lost due to conviction (ex: voting, guns) are restored.</li></ul></div>"
     _key: 5a568ca538bc
   - order: 2
     useCheckmark: false
     body: >-
-      ## THE LIMITS
-
-
-      * **The President is the ONLY person able to issue a federal pardon or
-      commutation.**
-
-      * The President need not consult with DOJ or provide any explanation.
-
-      * **The President may ONLY issue a pardon or commutation to someone
-      convicted of a federal crime.**
-
-      * Pardons and commutations of state crimes are generally handled by
-      governors.
+      <div><h2>THE LIMITS</h2><ul><li><strong>The President is the ONLY person
+      able to issue a federal pardon or commutation.</strong></li><li>The
+      President need not consult with DOJ or provide any
+      explanation.</li><li><strong>The President may ONLY issue a pardon or
+      commutation to someone convicted of a federal
+      crime.</strong></li><li>Pardons and commutations of state crimes are
+      generally handled by governors.</li></ul></div>
     _key: f7a20f9a0660
   - order: 3
     useCheckmark: false
     body: >-
-      > “That was a tremendously powerful, ridiculous sentence, in my opinion.”
-
-
-      President Trump on commuting, or shortening, the sentence for former
-      Illinois governor Rod Blagojevich - a Democrat found guilty on corruption
-      charges, including trying to sell the Senate seat vacated by Pres. Obama -
-      from 14 to 8 years (time served). The commutation of Blagovich's sentence
-      was one of 11 executive clemency grants the President made on Tuesday
-      (full list on our source page).
+      <div><blockquote>“That was a tremendously powerful, ridiculous sentence,
+      in my opinion.”</blockquote><p>President Trump on commuting, or
+      shortening, the sentence for former Illinois governor Rod Blagojevich - a
+      Democrat found guilty on corruption charges, including trying to sell the
+      Senate seat vacated by Pres. Obama - from 14 to 8 years (time served). The
+      commutation of Blagovich's sentence was one of 11 executive clemency
+      grants the President made on Tuesday (full list on our source
+      page).</p></div>
     _key: 3c1f2c192a7c
   - order: 4
     useCheckmark: false
     body: >-
-      > “Blagojevich is the face of public corruption in Illinois, and not once
-      has he shown any remorse for his clear and documented record of egregious
-      crimes that undermined the trust placed in him by voters … As our state
-      continues to grapple with political corruption, we shouldn’t let those who
-      breached the public trust off the hook.”  
-        
-      Illinois GOP lawmakers on Pres. Trump's decision to shorten former 'The
-      Celebrity Apprentice' star Blagojevich's sentence
+      <div><blockquote>“Blagojevich is the face of public corruption in
+      Illinois, and not once has he shown any remorse for his clear and
+      documented record of egregious crimes that undermined the trust placed in
+      him by voters … As our state continues to grapple with political
+      corruption, we shouldn’t let those who breached the public trust off the
+      hook.”<br><br>Illinois GOP lawmakers on Pres. Trump's decision to shorten
+      former 'The Celebrity Apprentice' star Blagojevich's
+      sentence</blockquote><p><br></p></div>
     _key: a08b6133d412
   - order: 5
     useCheckmark: false
-    body: |-
-      ## HISTORICAL CONTEXT
-
-      During the first four years of their terms:
-
-      * Pres. Clinton granted a total of 53 pardons & 0 commutations.
-      * Pres. G.W. Bush granted a total of 19 pardons & 2 commutations.
-      * Pres. Obama granted a total of 22 pardons & 1 commutation.
-      * As of Feb. 19, 2020 Pres. Trump granted 25 pardons and 10 commutations.
+    body: >-
+      <div><h2>HISTORICAL CONTEXT</h2><p>During the first four years of their
+      terms:</p><ul><li>Pres. Clinton granted a total of 53 pardons &amp; 0
+      commutations.</li><li>Pres. G.W. Bush granted a total of 19 pardons &amp;
+      2 commutations.</li><li>Pres. Obama granted a total of 22 pardons &amp; 1
+      commutation.</li><li>As of Feb. 19, 2020 Pres. Trump granted 25 pardons
+      and 10 commutations.</li></ul></div>
     _key: 64ff62e47c05
   - order: 6
     useCheckmark: true
     body: >-
-      Tues. morning Pres. Trump held a meeting with former NFL players who had
-      requested a pardon for a former team owner - they received it, and
+      <div><p>Tues. morning Pres. Trump held a meeting with former NFL players
+      who had requested a pardon for a former team owner - they received it, and
       additional clemency decisions followed. One similarity between these and
       previous clemency decisions? Pres. Trump follows celebrity clemency
-      recommendations.
+      recommendations.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 864597e2990e
 

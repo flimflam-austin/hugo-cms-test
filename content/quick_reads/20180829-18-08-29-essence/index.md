@@ -22,72 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # “MIRACLE WATER”
-
-
-      120-year-old Asian beauty secret revealed in the U.S.
-
-
-      But what is “essence” – and why do some think it’s even**more important
-      than moisturizer**?
-
-
-      100 bucks?! Worth it?
+      <div><h1>“MIRACLE WATER”</h1><p>120-year-old Asian beauty secret revealed
+      in the U.S.</p><p>But what is “essence” – and why do some think it’s even
+      <strong>more important than moisturizer</strong>?</p><p>100 bucks?! Worth
+      it?</p></div>
     _key: card-1-686cc83f-9ceb-492e-9724-b9cef1af1495
   - order: 1
     useCheckmark: false
     body: >-
-      ## What is Essence?
-
-
-      * A**watery fluid** that’s a hybrid of toner & serum, serves as
-      a**hydrating layer.**
-
-      * Applied to a**clean face**.
-
-      * **Believers say it primes your skin** for moisturizer and better absorbs
-      serums and creams.
-
-      * Used**both in morning & evening** skin care routines.
+      <div><h2>What is Essence?</h2><ul><li>A <strong>watery fluid</strong>
+      that’s a hybrid of toner &amp; serum, serves as a <strong>hydrating
+      layer.</strong></li><li>Applied to a <strong>clean
+      face</strong>.</li><li><strong>Believers say it primes your skin</strong>
+      for moisturizer and better absorbs serums and creams.</li><li>Used
+      <strong>both in morning &amp; evening</strong> skin care
+      routines.</li></ul></div>
     _key: card-2-e25ea5d5-6f04-46df-9465-cba6d067d35f
   - order: 2
     useCheckmark: false
     body: >-
-      ## Well, Why Am I Just Hearing About It?
-
-
-      Essence is an essential skin care product in Japan & South Korea.
-      ItA**came to America 7 years ago, but only recently caught on.**
-
-
-      Beauty experts say it’s taken time to**change mindsets**.A Americans tend
-      to strip their skin (i.e. feel the burn to make sure it’s
-      working),**a****watery solution may feel like a waste**.
+      <div><h2>Well, Why Am I Just Hearing About It?</h2><p>Essence is an
+      essential skin care product in Japan &amp; South Korea. ItA <strong>came
+      to America 7 years ago, but only recently caught on.</strong></p><p>Beauty
+      experts say it’s taken time to <strong>change mindsets</strong>.A
+      Americans tend to strip their skin (i.e. feel the burn to make sure it’s
+      working), <strong>a</strong> <strong>watery solution may feel like a
+      waste</strong>.</p></div>
     _key: card-3-eb306458-d744-4cb7-99b6-13e6946ddd2e
   - order: 3
     useCheckmark: false
     body: >-
-      # BIGGER PICTURE
-
-
-      ## Skincare industry = BIG $$
-
-
-      An American woman will**spend an est. $300,000 on skincare** during her
-      lifetime (creams, makeup etc.), according to one recent poll.
-
-
-      That comes to roughly**$8 A DAY.**
+      <div><h1>BIGGER PICTURE</h1><h2>Skincare industry = BIG $$</h2><p>An
+      American woman will <strong>spend an est. $300,000 on skincare</strong>
+      during her lifetime (creams, makeup etc.), according to one recent
+      poll.</p><p>That comes to roughly <strong>$8 A DAY.</strong></p></div>
     _key: card-4-27f20dfc-9588-4a37-827f-576dcb2b10e4
   - order: 4
     useCheckmark: true
     body: >-
-      Look for low alcohol content and focus on active ingredients to get the
-      most bang for your buck. Check out the 10-step beauty routine used in Asia
-      on our sources page.
-
-
-      [view sources](https://smarthernews.com/18-08-29-essence/)
+      <div><p>Look for low alcohol content and focus on active ingredients to
+      get the most bang for your buck. Check out the 10-step beauty routine used
+      in Asia on our sources page.</p><p><a
+      href="https://smarthernews.com/18-08-29-essence/">view
+      sources</a></p></div>
     _key: card-10-cfbcc6de-6802-4f37-88d6-658031ad65e3
 
 ---

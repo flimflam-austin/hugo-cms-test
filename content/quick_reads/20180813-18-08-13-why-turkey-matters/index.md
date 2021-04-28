@@ -22,63 +22,44 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Is The Bridge Between East & West Collapsing?
-
-
-      The nation of Turkey finds itself teetering on the edge of a financial
-      crisis & stricken with sanctions for holding an American hostage.
-
-
-      The worldwide impact
+      <div><h2>Is The Bridge Between East &amp; West Collapsing?</h2><p>The
+      nation of Turkey finds itself teetering on the edge of a financial crisis
+      &amp; stricken with sanctions for holding an American hostage.</p><p>The
+      worldwide impact</p></div>
     _key: card-1-bdc264a2-5eb3-456b-9cf5-b0bd559e5715
   - order: 1
     useCheckmark: false
-    body: "“Turkey is a NATO ally & a traditional buffer between the West and the Middle East. A …Over the last decade, however, under President ErdoA\x1Fan, the country has become increasingly radical and anti-American.**We are watching our alliance with the crucial country unravel in real time.**“  \n  \nDr. Jonathan Schnanzer, Senior VP with an expertise on Turkey for the Foundation For Defense of Democracies, to SmartHER News"
+    body: "<p>“Turkey is a NATO ally &amp; a traditional buffer between the West and the Middle East. A …Over the last decade, however, under President ErdoA\x1Fan, the country has become increasingly radical and anti-American. <strong>We are watching our alliance with the crucial country unravel in real time.</strong>“<br><br>Dr. Jonathan Schnanzer, Senior VP with an expertise on Turkey for the Foundation For Defense of Democracies, to SmartHER News</p>"
     _key: card-2-7fb9baf8-fcd7-4056-9cf7-1e500c47a9b6
   - order: 2
     useCheckmark: false
     body: >-
-      ## Turkey: What’s Going On?
-
-
-      * Currency (lira) declining in value.
-
-      * **Why?** Turkey & Turkish companies carry crushing debt, sparking
-      concerns about ability to pay back loans.
-
-      * This ignites fear for global investors, banks, & countries with exposure
-      to Turkish debt who worry about losing investments.
-
-
-
-
-      The U.S.A.?
+      <div><h2>Turkey: What’s Going On?</h2><ul><li>Currency (lira) declining in
+      value.</li><li><strong>Why?</strong> Turkey &amp; Turkish companies carry
+      crushing debt, sparking concerns about ability to pay back
+      loans.</li><li>This ignites fear for global investors, banks, &amp;
+      countries with exposure to Turkish debt who worry about losing
+      investments.</li></ul><p></p><p>The U.S.A.?</p></div>
     _key: card-3-e4846b61-1eb5-41b5-a9bd-ca7ddf6d188d
   - order: 3
     useCheckmark: false
     body: >-
-      > “Our relations with Turkey are not good at this time!”  
-
-      President Trump tweet (Fri. Aug 8)  
-        
-
-
-      * U.S. pastorA Andrew Brunson arrested in Turkey 2016 on espionage
-      charges.
-
-      * Recent high-level mtgs failed to secure his release. U.S. imposed
-      sanctionsA on two Turkish officials Aug 1; Pres. threatened more Fri.
-
-      * **Sanctions didn’t cause Turkey’s economic crisis,** but added attention
-      to it.
+      <div><blockquote>“Our relations with Turkey are not good at this
+      time!”<br>President Trump tweet (Fri. Aug
+      8)<br><br></blockquote><ul><li>U.S. pastorA Andrew Brunson arrested in
+      Turkey 2016 on espionage charges.</li><li>Recent high-level mtgs failed to
+      secure his release. U.S. imposed sanctionsA on two Turkish officials Aug
+      1; Pres. threatened more Fri.</li><li><strong>Sanctions didn’t cause
+      Turkey’s economic crisis,</strong> but added attention to
+      it.</li></ul></div>
     _key: card-4-20b50862-cafb-4ded-b246-b9d62ab8a54f
   - order: 4
     useCheckmark: false
-    body: "# What Turkey Says:\n\n> ‘What is the reason for all this storm in a tea cup? There is no economic reason for thisa| This is called carrying out an operation against Turkey,’  \n  \n  \n  \nPresident Erdo\x1Fan, speaking at a rally on Sunday August 11, 2018"
+    body: "<div><h1>What Turkey Says:</h1><blockquote>‘What is the reason for all this storm in a tea cup? There is no economic reason for thisa| This is called carrying out an operation against Turkey,’<br><br><br><br>President Erdo\x1Fan, speaking at a rally on Sunday August 11, 2018</blockquote></div>"
     _key: card-5-b14746e2-eb00-44eb-9134-33f2380a6a34
   - order: 5
     useCheckmark: true
-    body: "Bigger Picture: Turkey became a member of NATO (North Atlantic Treaty Organization) in 1952, 3 years after NATO was established. Pres. ErdoA\x1Fan threatened in a NYT editorial to walk away from the alliance & find new friends (many read this as Russia). Read it here.\n\n[view sources](https://smarthernews.com/18-08-13-why-turkey-matters/)"
+    body: "<div><p>Bigger Picture: Turkey became a member of NATO (North Atlantic Treaty Organization) in 1952, 3 years after NATO was established. Pres. ErdoA\x1Fan threatened in a NYT editorial to walk away from the alliance &amp; find new friends (many read this as Russia). Read it here.</p><p><a href=\"https://smarthernews.com/18-08-13-why-turkey-matters/\">view sources</a></p></div>"
     _key: card-10-eaa77464-f334-4376-a586-3f0f8b98d853
 
 ---

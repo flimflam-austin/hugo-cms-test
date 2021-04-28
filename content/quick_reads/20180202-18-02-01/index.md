@@ -22,70 +22,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Immigration Reform
-
-
-      ## What you should know:
-
-
-      During the State of the Union address, President Trump suggested allowing
-      1.8 million people who came into the country illegally with their parents
-      a pathway to citizenship over a period of 12 years as part of broader
-      immigration reform.
+      <div><h1>Immigration Reform</h1><h2>What you should know:</h2><p>During
+      the State of the Union address, President Trump suggested allowing 1.8
+      million people who came into the country illegally with their parents a
+      pathway to citizenship over a period of 12 years as part of broader
+      immigration reform.</p></div>
     _key: card-1-b165b180-3c1f-4bd1-9031-741c30ea3935
   - order: 1
     useCheckmark: false
     body: >-
-      # “Four Pillars”: Potus Proposed Immigration Reform
-
-
-      * Pathway to citizenship for *some* illegal immigrants aka “dreamers”.
-
-      * Border Security (“The Wall”)
-
-      * Ends Visa Lottery: Replaces With Merit Based System
-
-      * Ends “Chain Migration” (extended families of immigrants receiving
-      priority treatment).
+      <div><h1>“Four Pillars”: Potus Proposed Immigration
+      Reform</h1><ul><li>Pathway to citizenship for *some* illegal immigrants
+      aka “dreamers”.</li><li>Border Security (“The Wall”)</li><li>Ends Visa
+      Lottery: Replaces With Merit Based System</li><li>Ends “Chain Migration”
+      (extended families of immigrants receiving priority
+      treatment).</li></ul></div>
     _key: card-2-69619e5d-86fb-4564-a760-7ec67ed8bf2f
   - order: 2
     useCheckmark: false
     body: >-
-      # Words Matter
-
-
-      ## Notice Who Uses What Words…And When
-
-
-      “Illegal immigrants” or “Dreamers” or “Undocumented Workers” or
-      “Undocumented” or “Illegal Aliens”
-
-
-      All these words can refer to same group of people.
+      <div><h1>Words Matter</h1><h2>Notice Who Uses What Words…And
+      When</h2><p>“Illegal immigrants” or “Dreamers” or “Undocumented Workers”
+      or “Undocumented” or “Illegal Aliens”</p><p>All these words can refer to
+      same group of people.</p></div>
     _key: card-3-685be4ce-eb56-40ae-ab54-e4b792c55157
   - order: 3
     useCheckmark: false
-    body: "# Debate Heats Up\n\n> “President Trump is proposing a very large-scale amnestya\x14a path to citizenship for 1.8 million illegal aliensa\x14that his base will perceive as a betrayal.”  \n  \n  \n  \nHeather MacDonald, Americans First City Journal"
+    body: "<div><h1>Debate Heats Up</h1><blockquote>“President Trump is proposing a very large-scale amnestya\x14a path to citizenship for 1.8 million illegal aliensa\x14that his base will perceive as a betrayal.”<br><br><br><br>Heather MacDonald, Americans First City Journal</blockquote></div>"
     _key: card-4-85b14400-4c8d-44ba-ab43-ff68dbb37ae8
   - order: 4
     useCheckmark: false
     body: >-
-      # More Heated Rhetoric
-
-
-      > “The White House’s new proposal holds frightening consequences for the
-      future of black and brown folks in America.”  
-        
-        
-        
-      Sadhana Singh, We Are Not Bargaining Chips Prospect.Org
+      <div><h1>More Heated Rhetoric</h1><blockquote>“The White House’s new
+      proposal holds frightening consequences for the future of black and brown
+      folks in America.”<br><br><br><br>Sadhana Singh, We Are Not Bargaining
+      Chips Prospect.Org</blockquote></div>
     _key: card-5-fe8ff6bf-16fc-451a-8a4d-2b4be5369783
   - order: 5
     useCheckmark: true
-    body: |-
-      What's Next? TBD: Immigration Issue In The Hands of Congress
-
-      [view sources](https://smarthernews.com/18-02-01/)
+    body: >-
+      <div><p>What's Next? TBD: Immigration Issue In The Hands of
+      Congress</p><p><a href="https://smarthernews.com/18-02-01/">view
+      sources</a></p></div>
     _key: card-10-b3087627-8b57-4087-9a8c-76989c6d6e73
 
 ---

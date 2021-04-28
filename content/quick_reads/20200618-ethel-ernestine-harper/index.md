@@ -22,33 +22,28 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## _“You can no more teach what you haven’t learned than you can come back
-      from where you haven’t been.”_
+      <div><h2><em>“You can no more teach what you haven’t learned than you can
+      come back from where you haven’t been.”</em></h2><p></p></div>
     citation: ETHEL ERNESTINE HARPER
     _key: 3c872da0b5d9
   - order: 1
     useCheckmark: false
     body: >-
-      Harper was the final woman to take on the role of “Aunt Jemima” for
-      promotional appearances.
-
-
-      * Born in Alabama, Harper became an orphan at the age of 9 and graduated
-      from college at 17.
-
-      * She became a teacher before moving to NYC, appearing on Broadway.
-
-      * She later became a leader in her NJ community, volunteering and
-      reportedly becoming the first black history teacher in the county.
+      <div><p>Harper was the final woman to take on the role of “Aunt Jemima”
+      for promotional appearances.</p><ul><li>Born in Alabama, Harper became an
+      orphan at the age of 9 and graduated from college at 17.</li><li>She
+      became a teacher before moving to NYC, appearing on Broadway.</li><li>She
+      later became a leader in her NJ community, volunteering and reportedly
+      becoming the first black history teacher in the county.</li></ul></div>
     _key: 42b0fb4133d8
   - order: 2
     useCheckmark: true
     body: >-
-      Quaker Oats announced Wednesday it will remove the name & image of Aunt
-      Jemima from its products: "We recognize Aunt Jemima's origins are based on
-      a racial stereotype." The Aunt Jemima brand has existed for 130 years.
-      Uncle Ben's & Land o' Lakes also announced changes to their branding for
-      similar reasons.
+      <div><p>Quaker Oats announced Wednesday it will remove the name &amp;
+      image of Aunt Jemima from its products: "We recognize Aunt Jemima's
+      origins are based on a racial stereotype." The Aunt Jemima brand has
+      existed for 130 years. Uncle Ben's &amp; Land o' Lakes also announced
+      changes to their branding for similar reasons.</p><p></p></div>
     citation: VIEW SOURCES
     _key: f976ce425218
 

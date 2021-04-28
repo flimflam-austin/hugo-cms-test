@@ -18,46 +18,42 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > ‘No matter what you might think about his presence. One thing’s for sure
-      the ratings will be huge.’  
-        
-      An unnamed source to New York Post following its reporting Dennis Rodman
-      will be in Singapore during Pres. Trump’s summit with Kim Jong Un next
-      week. Rodman, an NBA Hall of Famer, has visited North Korea 5 times since
-      2013 & has ties with Pres. Trump, appearing on his Celebrity Apprentice
-      show twice.
+      <blockquote>‘No matter what you might think about his presence. One
+      thing’s for sure the ratings will be huge.’<br><br>An unnamed source to
+      New York Post following its reporting Dennis Rodman will be in Singapore
+      during Pres. Trump’s summit with Kim Jong Un next week. Rodman, an NBA
+      Hall of Famer, has visited North Korea 5 times since 2013 &amp; has ties
+      with Pres. Trump, appearing on his Celebrity Apprentice show
+      twice.</blockquote>
     _key: card-1-2f895b3f-a4db-480d-861f-c638a110af6f
   - order: 1
     useCheckmark: false
     body: >-
-      “Due to the historic obstruction by Senate Democrats of the President’s
+      <p>“Due to the historic obstruction by Senate Democrats of the President’s
       nominees, and the goal of passing appropriations bills prior to the end of
-      the fiscal year…”  
-        
-      Sen. Majority Leader Mitch McConnell on why he cancelled Congress's August
-      recess. Senators up for re-election would lose 4 weeks of campaigning in
-      their states just 2 months before the midterm elections. Democrats are
-      particularly vulnerable with far more incumbents seeking re-election this
-      yr.
+      the fiscal year…”<br><br>Sen. Majority Leader Mitch McConnell on why he
+      cancelled Congress's August recess. Senators up for re-election would lose
+      4 weeks of campaigning in their states just 2 months before the midterm
+      elections. Democrats are particularly vulnerable with far more incumbents
+      seeking re-election this yr.</p>
     _key: card-2-04602b77-b5c4-4b88-91b4-c0c1a2ca61fc
   - order: 2
     useCheckmark: false
     body: >-
-      > ‘It’s important that consumers and contractors understand that improper
-      home renovation can expose residents and workers to hazardous lead
-      dust.”  
-        
-      EPA head of enforcement Susan Bodine following a settlement with 'Fixer
-      Upper' stars Chip & Joanna Gaines over lead-based paint violations in more
-      than 30 renovated homes. The Magnolia Homes owners will pay a $40K fine,
-      cost of lead abatement & release a video about lead-based paint dangers.
+      <blockquote>‘It’s important that consumers and contractors understand that
+      improper home renovation can expose residents and workers to hazardous
+      lead dust.”<br><br>EPA head of enforcement Susan Bodine following a
+      settlement with 'Fixer Upper' stars Chip &amp; Joanna Gaines over
+      lead-based paint violations in more than 30 renovated homes. The Magnolia
+      Homes owners will pay a $40K fine, cost of lead abatement &amp; release a
+      video about lead-based paint dangers.</blockquote>
     _key: card-3-54c4c634-a3bd-47d8-be1b-0b485b718d5d
   - order: 3
     useCheckmark: true
-    body: |-
-      Have a great day!
-
-      [view sources](https://smarthernews.com/18-06-06-quick-quotes/)
+    body: >-
+      <div><p>Have a great day!</p><p><a
+      href="https://smarthernews.com/18-06-06-quick-quotes/">view
+      sources</a></p></div>
     _key: card-10-e65f9bf0-61ab-474a-b2e0-d24db3685afd
 
 ---

@@ -22,74 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Problem At Pearl Harbor
-
-
-      You can’t step foot onto the memorial honoring one of the most significant
-      sites in American military history. And no one knows when you will be able
-      to again.
-
-
-      Why?
+      <div><h2>Problem At Pearl Harbor</h2><p>You can’t step foot onto the
+      memorial honoring one of the most significant sites in American military
+      history. And no one knows when you will be able to
+      again.</p><p>Why?</p></div>
     _key: card-1-4e7a5123-f486-47c5-9e96-422935f942ae
   - order: 1
     useCheckmark: false
     body: >-
-      ## USS Arizona
-
-
-      * US Navy battleship bombed during first few minutes of attack on Pearl
-      Harbor on Dec 7, 1941.
-
-      * All 1177 Americans onboard died; almost half of the total killed during
-      entire attack.
-
-      * The USS Arizona memorial lays perpendicular on the surface across the
-      sunken ship.
-
-      * More than 4,000 people visit the memorial every single day.
+      <div><h2>USS Arizona</h2><ul><li>US Navy battleship bombed during first
+      few minutes of attack on Pearl Harbor on Dec 7, 1941.</li><li>All 1177
+      Americans onboard died; almost half of the total killed during entire
+      attack.</li><li>The USS Arizona memorial lays perpendicular on the surface
+      across the sunken ship.</li><li>More than 4,000 people visit the memorial
+      every single day.</li></ul></div>
     _key: card-2-e098ed4c-9986-4cb3-a353-0930f67dda89
   - order: 2
     useCheckmark: false
     body: >-
-      What You Should Know:
-
-
-      * USS Arizona Memorial closed indefinitely.
-
-      * Memorial itself is fine; the dock to walk onto the memorial is not.
-
-      * Officials discovered cracks in the concrete pier that holds the dock;
-      it’s been shifting over the years.
-
-      * Repairing the shift of 3 feet is not an easy fix.
-
-
-
-
-      Why This Matters
+      <div><p>What You Should Know:</p><ul><li>USS Arizona Memorial closed
+      indefinitely.</li><li>Memorial itself is fine; the dock to walk onto the
+      memorial is not.</li><li>Officials discovered cracks in the concrete pier
+      that holds the dock; it’s been shifting over the years.</li><li>Repairing
+      the shift of 3 feet is not an easy fix.</li></ul><p></p><p>Why This
+      Matters</p></div>
     _key: card-3-ebc3c26b-0208-4f2c-8d4a-55eac8f4378b
   - order: 3
     useCheckmark: false
     body: >-
-      > “It’s not like you dig a big anchor into the ground. You’ve got an
-      archaeological site right next to it that’s got the remains of over 900
-      men and the possibility of unexploded ordnance.”  
-        
-        
-        
-      Jacqueline Ashwell, National Park Service, Superintendent of World War II
-      Valor in the Pacific National Monument, Pearl Harbor.
+      <blockquote>“It’s not like you dig a big anchor into the ground. You’ve
+      got an archaeological site right next to it that’s got the remains of over
+      900 men and the possibility of unexploded
+      ordnance.”<br><br><br><br>Jacqueline Ashwell, National Park Service,
+      Superintendent of World War II Valor in the Pacific National Monument,
+      Pearl Harbor.</blockquote>
     _key: card-4-8700b72b-6176-4e0e-9e4a-da4a3b4bc52f
   - order: 4
     useCheckmark: true
     body: >-
-      We don't know how long the repairs will take or what they will cost.
-      Guests will take a 15-min boat ride around the memorial to pay their
-      respects until a solution is found.
-
-
-      [view sources](https://smarthernews.com/18-06-13-fixing-pearl-harbor/)
+      <div><p>We don't know how long the repairs will take or what they will
+      cost. Guests will take a 15-min boat ride around the memorial to pay their
+      respects until a solution is found.</p><p><a
+      href="https://smarthernews.com/18-06-13-fixing-pearl-harbor/">view
+      sources</a></p></div>
     _key: card-10-462697a2-728e-47a1-9860-09d9878a7de2
 
 ---

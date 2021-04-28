@@ -22,84 +22,64 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > ‘Don’t rest on your laurels. The end result isn’t as important as the
-      effort that goes into it. Jump all the way in. Don’t be afraid. And don’t
-      worry so much.’  
-        
-      Fashion designer Kate Spade speaking to People Magazine in 2016. Spade
-      (55) was found dead in her apartment of an apparent suicide on June 5,
-      2018.
-
-
-      Flip For Her Story
+      <div><blockquote>‘Don’t rest on your laurels. The end result isn’t as
+      important as the effort that goes into it. Jump all the way in. Don’t be
+      afraid. And don’t worry so much.’<br><br>Fashion designer Kate Spade
+      speaking to People Magazine in 2016. Spade (55) was found dead in her
+      apartment of an apparent suicide on June 5, 2018.</blockquote><p>Flip For
+      Her Story</p></div>
     _key: card-1-4dcd0afd-2caa-4d03-af59-b684485128c4
   - order: 1
     useCheckmark: false
     body: >-
-      ## Kate Spade: Bio
-
-
-      * Born in**Kansas City, Missouri**.
-
-      * Started her brand “Kate Spade” in 1993 with her**now-husband Andy
-      Spade** (brother to the actor, David Spade) –**married 24 years**.
-
-      * 13-yr-old daughter**Frances**.
-
-      * Once worked in a motorcycle bar in Arizona & as an accessories editor
-      at_Mademoiselle_ magazine.
-
-
-      Flip: How They Made It
+      <div><h2>Kate Spade: Bio</h2><ul><li>Born in <strong>Kansas City,
+      Missouri</strong>.</li><li>Started her brand “Kate Spade” in 1993 with her
+      <strong>now-husband Andy Spade</strong> (brother to the actor, David
+      Spade) – <strong>married 24 years</strong>.</li><li>13-yr-old daughter
+      <strong>Frances</strong>.</li><li>Once worked in a motorcycle bar in
+      Arizona &amp; as an accessories editor at <em>Mademoiselle</em>
+      magazine.</li></ul><p>Flip: How They Made It</p></div>
     _key: card-2-f3db3000-44ac-405b-8183-0b35540c8817
   - order: 2
     useCheckmark: false
     body: >-
-      _“There were a lot of lean times — Mr. Spade cleaned out his 401K to buy
-      fabric, and used money from his personal checking account to make payroll.
-      During shipping season, the Spades stayed with friends because boxes of
-      handbags were piled all over their bed.”_  
-        
-      New York Times interview, 1999. The couple launched the brand with $35,000
-      & at the time of this interview the company was making millions.
+      <p><em>“There were a lot of lean times — Mr. Spade cleaned out his 401K to
+      buy fabric, and used money from his personal checking account to make
+      payroll. During shipping season, the Spades stayed with friends because
+      boxes of handbags were piled all over their bed.”</em><br><br>New York
+      Times interview, 1999. The couple launched the brand with $35,000 &amp; at
+      the time of this interview the company was making millions.</p>
     _key: card-3-e42cea4f-d85a-4ce7-a09e-8cc38ebee58b
   - order: 3
     useCheckmark: false
     body: >-
-      ## Kate Spade: Business
-
-
-      * The Spades sold part of their company to Neiman Marcus in 1990s & the
-      rest in 2006; They left their official roles in 2007 to spend time with
-      Frances.
-
-      * Coach bought the Kate Spade brand for $2.4B last year.
-
-      * Spade launched accessory line**Frances Valentine**A in 2016 & officially
-      took the name “Kate**Valentine** Spade.”
+      <div><h2>Kate Spade: Business</h2><ul><li>The Spades sold part of their
+      company to Neiman Marcus in 1990s &amp; the rest in 2006; They left their
+      official roles in 2007 to spend time with Frances.</li><li>Coach bought
+      the Kate Spade brand for $2.4B last year.</li><li>Spade launched accessory
+      line <strong>Frances Valentine</strong>A in 2016 &amp; officially took the
+      name “Kate <strong>Valentine</strong> Spade.”</li></ul></div>
     _key: card-4-f7f5585c-cbf7-4b09-84ba-1c1ce204dda9
   - order: 4
     useCheckmark: false
     body: >-
-      > “I will say this was not unexpected by me. I’d flown out to Napa and NYC
-      several times in the past 3-4 years to help her to get the treatment she
-      needed (inpatient hospitalization). … She was a dear little person. So
-      dear, so kind, so funny…I’m off to bed for a good cry.”  
-        
-      Reta Saffo, Kate Spade's older sister in an email to their hometown
-      newspaper, The Kansas City Star. Saffo says her sister suffered from
-      mental illness.
+      <blockquote>“I will say this was not unexpected by me. I’d flown out to
+      Napa and NYC several times in the past 3-4 years to help her to get the
+      treatment she needed (inpatient hospitalization). … She was a dear little
+      person. So dear, so kind, so funny…I’m off to bed for a good
+      cry.”<br><br>Reta Saffo, Kate Spade's older sister in an email to their
+      hometown newspaper, The Kansas City Star. Saffo says her sister suffered
+      from mental illness.</blockquote>
     _key: card-5-c2b4caff-d495-4993-b389-66df5d0f9c47
   - order: 5
     useCheckmark: true
     body: >-
-      The Kate Spade brand describes itself as "quick and curious and playful
-      and strong" - Her sister says wanting to keep up the image of her brand
-      kept Kate Spade from treatment. It's insight from a single source, but
-      worth reading.
-
-
-      [view sources](https://smarthernews.com/18-06-04-kate-spade/)
+      <div><p>The Kate Spade brand describes itself as "quick and curious and
+      playful and strong" - Her sister says wanting to keep up the image of her
+      brand kept Kate Spade from treatment. It's insight from a single source,
+      but worth reading.</p><p><a
+      href="https://smarthernews.com/18-06-04-kate-spade/">view
+      sources</a></p></div>
     _key: card-10-1f45db28-5bf7-4ae6-b6e3-f5d2b428b585
 
 ---

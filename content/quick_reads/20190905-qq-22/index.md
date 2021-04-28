@@ -22,85 +22,74 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "If left to their own devices, if they have a bipartisan agreement, I
-      will support it."  
-        
-      House Speaker Nancy Pelosi speaking about a group of bipartisan lawmakers
-      working to come up with an agreement on border security funding before
-      Feb. 15, the date the gov't funding lapses and a shut down could loom.
-      Fast moving reports indicate the group believes they can come to an
-      agreement that includes *some* $$ for a border barrier & other security
-      measures.
+      <blockquote>"If left to their own devices, if they have a bipartisan
+      agreement, I will support it."<br><br>House Speaker Nancy Pelosi speaking
+      about a group of bipartisan lawmakers working to come up with an agreement
+      on border security funding before Feb. 15, the date the gov't funding
+      lapses and a shut down could loom. Fast moving reports indicate the group
+      believes they can come to an agreement that includes *some* $$ for a
+      border barrier &amp; other security measures.</blockquote>
     _key: card-1-9e4e8a70-45c3-4a9d-b281-4adcd6122959
   - order: 1
     useCheckmark: false
     body: >-
-      > "You know what keeps me up at night? Measles is exquisitely contagious.
-      If you have an under-vaccinated population, and you introduce a measles
-      case into that population, it will take off like a wildfire."
-
-
-      Clark County Public Health Director Alan Melnick on a measles outbreak
-      centered in his Washington State community that has low vaccination rates.
-      At least 55 measles cases have emerged in WA & Oregon, the most in more
-      than 2 decades.
+      <div><blockquote>"You know what keeps me up at night? Measles is
+      exquisitely contagious. If you have an under-vaccinated population, and
+      you introduce a measles case into that population, it will take off like a
+      wildfire."</blockquote><p>Clark County Public Health Director Alan Melnick
+      on a measles outbreak centered in his Washington State community that has
+      low vaccination rates. At least 55 measles cases have emerged in WA &amp;
+      Oregon, the most in more than 2 decades.</p></div>
     _key: card-2-8716714f-0959-4947-b69a-554e493cc938
   - order: 2
     useCheckmark: false
     body: >-
-      > “For a long time people have tried to pose this or prop this up as a
-      Republican issue, and we’re finding out today it’s a human issue.”
-
-
-      Sen. Tim Scott (R-SC), the Senate's only black Republican, as Virginia's
-      AG, third in line for Governor, admitted to dressing up in blackface in
-      1980. This is the third scandal in a week for the state's most-senior
-      democratic leadership, after the Governor admitted to wearing blackface in
-      the 1980s & the Lt. General was accused of sexual assault in 2004 - a
-      charge he denies.
+      <div><blockquote>“For a long time people have tried to pose this or prop
+      this up as a Republican issue, and we’re finding out today it’s a human
+      issue.”</blockquote><p>Sen. Tim Scott (R-SC), the Senate's only black
+      Republican, as Virginia's AG, third in line for Governor, admitted to
+      dressing up in blackface in 1980. This is the third scandal in a week for
+      the state's most-senior democratic leadership, after the Governor admitted
+      to wearing blackface in the 1980s &amp; the Lt. General was accused of
+      sexual assault in 2004 - a charge he denies.</p></div>
     _key: card-3-637c0371-f577-42e2-a5d9-37596c97dec0
   - order: 3
     useCheckmark: false
     body: >-
-      > "I was not consulted."
-
-
-      U.S. Central Command Gen. Joseph Votel, the top U.S. commander in the
-      Middle East, publicly confirming for the first time that the Pentagon was
-      not aware of President Trump's plan to withdraw from Syria. In December,
-      President Trump tweeted ISIS was defeated & troops would come home now.
-      Gen. Votel says his duty now is to execute those orders, but added he
-      isn't under pressure to leave by a certain date.
+      <div><blockquote>"I was not consulted."</blockquote><p>U.S. Central
+      Command Gen. Joseph Votel, the top U.S. commander in the Middle East,
+      publicly confirming for the first time that the Pentagon was not aware of
+      President Trump's plan to withdraw from Syria. In December, President
+      Trump tweeted ISIS was defeated &amp; troops would come home now. Gen.
+      Votel says his duty now is to execute those orders, but added he isn't
+      under pressure to leave by a certain date.</p></div>
     _key: card-4-da4602e8-f3d0-4c65-99b4-5d1871b4f061
   - order: 4
     useCheckmark: false
     body: >-
-      > “I’ve been wondering what that special place in hell looks like, for
-      those who promoted #Brexit, without even a sketch of a plan how to carry
-      it out safely.”
-
-
-      European Council president Donald Tusk in a tweet as the EU digs in,
-      insisting it will not renegotiate a deal to allow Britain to leave the EU
-      next month. Without a deal, both sides warn of "considerable disruption."
-      UK PM Theresa May is in Brussels today for a series of meetings with EU
-      officials, including Tusk.
+      <div><blockquote>“I’ve been wondering what that special place in hell
+      looks like, for those who promoted #Brexit, without even a sketch of a
+      plan how to carry it out safely.”</blockquote><p>European Council
+      president Donald Tusk in a tweet as the EU digs in, insisting it will not
+      renegotiate a deal to allow Britain to leave the EU next month. Without a
+      deal, both sides warn of "considerable disruption." UK PM Theresa May is
+      in Brussels today for a series of meetings with EU officials, including
+      Tusk.</p></div>
     _key: card-5-7224ef11-b43b-4a7f-8d6d-9441a08eae0b
   - order: 5
     useCheckmark: false
     body: >-
-      > “the lack of clarity… has kept the Oscars really in the conversation and
-      the mystery has been really compelling. People really care."
-
-
-      Karey Burke, ABC Entertainment president, as the 2019 Academy Awards
-      ceremony will go without an official host for the first time in 30 years.
-      The Feb. 24th event had originally tapped comedian Kevin Hart to host, but
-      he withdrew amid a controversy over his old, homophobic tweets.
+      <div><blockquote>“the lack of clarity… has kept the Oscars really in the
+      conversation and the mystery has been really compelling. People really
+      care."</blockquote><p>Karey Burke, ABC Entertainment president, as the
+      2019 Academy Awards ceremony will go without an official host for the
+      first time in 30 years. The Feb. 24th event had originally tapped comedian
+      Kevin Hart to host, but he withdrew amid a controversy over his old,
+      homophobic tweets.</p></div>
     _key: card-6-274283f8-cb5b-4e2a-8bff-648804dfae81
   - order: 6
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/qq-22/)'
+    body: <p><a href="https://smarthernews.com/qq-22/">view sources</a></p>
     _key: card-10-0a4dc92d-c0bf-444c-854f-414c7ba455a5
 
 ---

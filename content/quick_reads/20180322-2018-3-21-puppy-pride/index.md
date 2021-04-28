@@ -22,85 +22,58 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # PUPPY PRIDE
-
-
-      ## A “State Dog” Debate
-
-
-      > ‘We looked at what breeds would represent Ohio the best and came to a
-      pretty quick decision.’  
-        
-      State Rep. Jeffery Rezabek (R-Clayton), Cincinnati Enquirer, Mar 16, 2018
-
-
-      And the Top Dog is...
+      <div><h1>PUPPY PRIDE</h1><h2>A “State Dog” Debate</h2><blockquote>‘We
+      looked at what breeds would represent Ohio the best and came to a pretty
+      quick decision.’<br><br>State Rep. Jeffery Rezabek (R-Clayton), Cincinnati
+      Enquirer, Mar 16, 2018</blockquote><p>And the Top Dog is...</p></div>
     citation: And the Top Dog is...
     _key: card-1-4d543244-1d3d-4cfa-b185-8e2f9740149b
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Labrador Retriever
-
-
-      * “Breed physically embodies the values of the state of Ohio.”
-
-      * Known for being friendly, hard working & loving the outdoors.
-
-      * American Kennel Club has named the Labrador the top breed for
-      26-straight years.
+      <div><h2>The Labrador Retriever</h2><ul><li>“Breed physically embodies the
+      values of the state of Ohio.”</li><li>Known for being friendly, hard
+      working &amp; loving the outdoors.</li><li>American Kennel Club has named
+      the Labrador the top breed for 26-straight years.</li></ul></div>
     _key: card-2-0cf66f57-144a-42f4-ae04-2744d0397099
   - order: 2
     useCheckmark: false
     body: >-
-      # PETA isn’t Happy
-
-
-      > ‘Designating a specific breed as Ohio’s state dog would increase the
-      demand for purebred dogs and entice puppy mills to churn out litters of
-      them.”  
-        
-        
-        
-      Ingrid Newkirk, PETA president
+      <div><h1>PETA isn’t Happy</h1><blockquote>‘Designating a specific breed as
+      Ohio’s state dog would increase the demand for purebred dogs and entice
+      puppy mills to churn out litters of them.”<br><br><br><br>Ingrid Newkirk,
+      PETA president</blockquote></div>
     _key: card-3-3e1f1d8d-e8c0-4e48-a9d0-129d53ea66c3
   - order: 3
     useCheckmark: false
     body: >-
-      # Ohio’s “Lab” Test
-
-
-      Should the bill become law, Ohio will become the 13th state to have a
-      state dog, and the first to recognize the Labrador.
-
-
-      In 2015, Maine also proposed to recognize the Labrador as its state dog,
-      but it was rejected.
-
-
-      do you have a state dog?
+      <div><h1>Ohio’s “Lab” Test</h1><p>Should the bill become law, Ohio will
+      become the 13th state to have a state dog, and the first to recognize the
+      Labrador.</p><p>In 2015, Maine also proposed to recognize the Labrador as
+      its state dog, but it was rejected.</p><p>do you have a state
+      dog?</p></div>
     _key: card-4-ca9a00a0-9f56-45db-9c68-46de86d3599f
   - order: 4
     useCheckmark: false
     body: >-
-      ## 12 Recognized State Dogs
-
-
-      **Alaska** (Alaskan Malamute),**Georgia** (“Adoptable dog”),**Louisiana**
-      (Catahoula leopard dog),**Maryland** (Chesapeake Bay
-      retrievers),**Mass.**A (Boston terrier),**New Hampshire** (Chinook),**N.
-      Carolina** (Plott hound),**Pennsylvania** (Great Dane),**S. Carolina**
-      (Boykin spaniel),**Texas** (Blue Lacy),**Virginia** (American foxhound)
-      &**Wisconsin** (American water spaniel).
+      <div><h2>12 Recognized State Dogs</h2><p><strong>Alaska</strong> (Alaskan
+      Malamute), <strong>Georgia</strong> (“Adoptable dog”),
+      <strong>Louisiana</strong> (Catahoula leopard dog),
+      <strong>Maryland</strong> (Chesapeake Bay retrievers),
+      <strong>Mass.</strong>A (Boston terrier), <strong>New Hampshire</strong>
+      (Chinook), <strong>N. Carolina</strong> (Plott hound),
+      <strong>Pennsylvania</strong> (Great Dane), <strong>S. Carolina</strong>
+      (Boykin spaniel), <strong>Texas</strong> (Blue Lacy),
+      <strong>Virginia</strong> (American foxhound) &amp;
+      <strong>Wisconsin</strong> (American water spaniel).</p></div>
     _key: card-5-652d501d-3c0c-42c2-a400-4cac520a3ecf
   - order: 5
     useCheckmark: true
     body: >-
-      Ohio may not have a state dog, but did you know it has a state amphibian?
-      Go figure.
-
-
-      [view sources](https://smarthernews.com/2018-3-21-puppy-pride/)
+      <div><p>Ohio may not have a state dog, but did you know it has a state
+      amphibian? Go figure.</p><p><a
+      href="https://smarthernews.com/2018-3-21-puppy-pride/">view
+      sources</a></p></div>
     _key: card-10-d5273403-4d5a-4230-9244-ac14c9daf1e4
 
 ---

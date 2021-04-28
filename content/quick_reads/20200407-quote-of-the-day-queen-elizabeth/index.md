@@ -22,20 +22,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“We should take comfort that while we may have more still to endure,
-      better days will return: we will be with our friends again; we will be
-      with our families again; we will meet again_.”
+      <div><blockquote><em>“We should take comfort that while we may have more
+      still to endure, better days will return: we will be with our friends
+      again; we will be with our families again; we will meet
+      again</em>.”</blockquote><p></p></div>
     citation: QUEEN ELIZABETH II
     _key: 089eae9006f5
   - order: 1
     useCheckmark: true
     body: >-
-      The Queen during a special address on COVID-19, only her fourth address as
-      Queen during a time of crisis. She addressed the nation similarly after
-      the passing of her mother in 2002, after the death of Princess Diana in
-      1997, and during the first Gulf War in 1991. Her broadcast came hours
-      before the UK Prime Minister was moved to intensive care as he battles
-      COVID-19.
+      <div><p>The Queen during a special address on COVID-19, only her fourth
+      address as Queen during a time of crisis. She addressed the nation
+      similarly after the passing of her mother in 2002, after the death of
+      Princess Diana in 1997, and during the first Gulf War in 1991. Her
+      broadcast came hours before the UK Prime Minister was moved to intensive
+      care as he battles COVID-19.</p><p></p></div>
     citation: VIEW SOURCES
     _key: e6da611e84c9
 

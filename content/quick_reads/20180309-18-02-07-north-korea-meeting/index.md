@@ -22,118 +22,75 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # HISTORIC NEWS
-
-
-      ## President Trump agrees to meet with President of North Korea, Kim Jong
-      Un
-
-
-      First mtg of a**sitting** U.S. President with North Korean leader.
-
-
-      Announcement made by U.S. ally South Korea at White House
-
-
-      Flip For Why It Matters
+      <div><h1>HISTORIC NEWS</h1><h2>President Trump agrees to meet with
+      President of North Korea, Kim Jong Un</h2><p>First mtg of a
+      <strong>sitting</strong> U.S. President with North Korean
+      leader.</p><p>Announcement made by U.S. ally South Korea at White
+      House</p><p>Flip For Why It Matters</p></div>
     _key: card-1-14196f28-36c5-402b-806a-5c555bd329b6
   - order: 1
     useCheckmark: false
     body: >-
-      What’s At Stake:  
-
-      War & Peace
-
-
-      * N. Korea has nuclear weapons.
-
-      * Missiles can reach U.S. Expected to have technology soon to put nuclear
-      warhead on such missiles.
-
-      * Reportedly allies w/Syria & Iran.
-
-      * Source of numerous dangerous computer hacks.
-
-      * Continually lies about nuclear program, talks to gain time, while
-      advancing technology.
+      <div><p>What’s At Stake:<br>War &amp; Peace</p><ul><li>N. Korea has
+      nuclear weapons.</li><li>Missiles can reach U.S. Expected to have
+      technology soon to put nuclear warhead on such
+      missiles.</li><li>Reportedly allies w/Syria &amp; Iran.</li><li>Source of
+      numerous dangerous computer hacks.</li><li>Continually lies about nuclear
+      program, talks to gain time, while advancing technology.</li></ul></div>
     _key: card-2-fac25129-1701-4fcc-bf83-ac5b2d4db902
   - order: 2
     useCheckmark: false
     body: >-
-      How We Got Here:  
-
-      Quick Recent History
-
-
-      * U.S. campaign of “maximum pressure” on North Korea.
-
-      * Administration continually stressed “all options” on table.
-
-      * U.S. recently announced “toughest sanctions ever” – targeting shipping
-      companies that enable North Korea to do business with outside world (Feb
-      23).
+      <div><p>How We Got Here:<br>Quick Recent History</p><ul><li>U.S. campaign
+      of “maximum pressure” on North Korea.</li><li>Administration continually
+      stressed “all options” on table.</li><li>U.S. recently announced “toughest
+      sanctions ever” – targeting shipping companies that enable North Korea to
+      do business with outside world (Feb 23).</li></ul></div>
     _key: card-3-038a90e2-9eef-4190-b01f-f70c258949a5
   - order: 3
     useCheckmark: false
     body: >-
-      ## Brief Background
-
-
-      * Nuclear program started after Korean war – Soviets helped.
-
-      * Clinton admin tried to negotiate denuclearization – No Deal.
-
-      * North Korea performed first nuclear test 2006 during Bush Admin.
-
-      * Several more nuclear tests during Obama admin. Americans
-      arrested/imprisoned 2009 & 2016 (OttoA Warmbier died 2017).
+      <div><h2>Brief Background</h2><ul><li>Nuclear program started after Korean
+      war – Soviets helped.</li><li>Clinton admin tried to negotiate
+      denuclearization – No Deal.</li><li>North Korea performed first nuclear
+      test 2006 during Bush Admin.</li><li>Several more nuclear tests during
+      Obama admin. Americans arrested/imprisoned 2009 &amp; 2016 (OttoA Warmbier
+      died 2017).</li></ul></div>
     _key: card-4-a0bf1485-c100-440b-9ed1-d413e3bb7ff3
   - order: 4
     useCheckmark: false
     body: >-
-      ## What to Watch For
-
-
-      * **Who?** President Trump agrees to meeting but who else will be in the
-      room?
-
-      * **What?**A High stakes. Simply: talk can lead to path to peace or war.
-
-      * **When?** South Korean delegation said meeting will happen “by May.”
-
-      * **Where?** TBD.
-
-      * **How?** It’s unprecedented. Stay Tuned.
+      <div><h2>What to Watch For</h2><ul><li><strong>Who?</strong> President
+      Trump agrees to meeting but who else will be in the
+      room?</li><li><strong>What?</strong>A High stakes. Simply: talk can lead
+      to path to peace or war.</li><li><strong>When?</strong> South Korean
+      delegation said meeting will happen “by
+      May.”</li><li><strong>Where?</strong> TBD.</li><li><strong>How?</strong>
+      It’s unprecedented. Stay Tuned.</li></ul></div>
     _key: card-5-90fddf7b-f07b-4ce6-abf8-e419e43ef001
   - order: 5
     useCheckmark: false
     body: >-
-      ## From The President
-
-
-      _“Kim Jong Un talked about denuclearization with the South Korean
-      Representatives, not just a freeze. Also, no missile testing by North
-      Korea during this period of time.**Great progress being made but sanctions
-      will remain until an agreement is reached. Meeting being planned!”**_  
-
-      President Trump, Twitter,  
-
-      @realdonaldtrump, Mar. 8, 2018
+      <div><h2>From The President</h2><p><em>“Kim Jong Un talked about
+      denuclearization with the South Korean Representatives, not just a freeze.
+      Also, no missile testing by North Korea during this period of time.
+      <strong>Great progress being made but sanctions will remain until an
+      agreement is reached. Meeting being planned!”</strong></em><br>President
+      Trump, Twitter,<br>@realdonaldtrump, Mar. 8, 2018</p></div>
     _key: card-6-47d13029-61f2-457a-a144-3a49d7fe5a2c
   - order: 6
     useCheckmark: false
-    body: "## Something To Consider:\n\n_“PS: To be clear — we need to talk to North Korea. But Kim is not inviting Trump so that he can surrender North Korea’s weapons. Kim is inviting Trump to demonstrate that his investment in nuclear and missile capabilities has forced the United States to treat him as an equal.”_  \nJeffrey Lewisa\x0F, Twitter, @ArmsControlWonk Mar. 8, 2018"
+    body: "<div><h2>Something To Consider:</h2><p><em>“PS: To be clear — we need to talk to North Korea. But Kim is not inviting Trump so that he can surrender North Korea’s weapons. Kim is inviting Trump to demonstrate that his investment in nuclear and missile capabilities has forced the United States to treat him as an equal.”</em><br>Jeffrey Lewisa\x0F, Twitter, @ArmsControlWonk Mar. 8, 2018</p></div>"
     _key: card-7-fea98227-bd7f-435f-9a70-5ab4ad0a17a1
   - order: 7
     useCheckmark: true
     body: >-
-      Word to the Wise: Talk is one thing. Action another. Watch ACTION by
-      either side instead of rhetoric. Pres. Trump talked about North Korea in
-      State of The Union - We included a portion of the speech on the source
-      page.
-
-
-      [view sources](https://smarthernews.com/18-02-07-north-korea-meeting/)
+      <div><p>Word to the Wise: Talk is one thing. Action another. Watch ACTION
+      by either side instead of rhetoric. Pres. Trump talked about North Korea
+      in State of The Union - We included a portion of the speech on the source
+      page.</p><p><a
+      href="https://smarthernews.com/18-02-07-north-korea-meeting/">view
+      sources</a></p></div>
     _key: card-10-0fed2fcb-e13a-4f40-b3c9-ab27f22e8b6f
 
 ---

@@ -22,17 +22,18 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## _“How wonderful it is that nobody need wait a single moment before
-      starting to improve the world.”_
+      <div><h2><em>“How wonderful it is that nobody need wait a single moment
+      before starting to improve the world.”</em></h2><p></p><p><br></p></div>
     citation: ANNE FRANK
     _key: e86a62170451
   - order: 1
     useCheckmark: true
     body: >-
-      June 12, 1929, Anne Frank is born. 13 years later, in 1942, during the
-      rise of Nazi Germany, she receives her famous diary. A month later, her
-      family would go into hiding at a secret annex built on site of their
-      business in Amsterdam to escape the Nazis. Read more on our source page.
+      <div><p>June 12, 1929, Anne Frank is born. 13 years later, in 1942, during
+      the rise of Nazi Germany, she receives her famous diary. A month later,
+      her family would go into hiding at a secret annex built on site of their
+      business in Amsterdam to escape the Nazis. Read more on our source
+      page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 5fdddaff6175
 

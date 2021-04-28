@@ -22,79 +22,72 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      “…we can confirm that we are working jointly with our law enforcement
-      partners to fully investigate this matter.”  
-        
-      Secret Service statement as it probes a suspicious letter addressed to
-      President Trump. The FBI is also investigating two packages sent to the
-      Pentagon, which are suspected to contain the poison ricin. Ricin is made
-      from the castor bean and can cause death within 36-72 hours. CDC says it
-      can only be manufactured deliberately. The packages did not enter the
-      White House or Pentagon.
+      <p>“…we can confirm that we are working jointly with our law enforcement
+      partners to fully investigate this matter.”<br><br>Secret Service
+      statement as it probes a suspicious letter addressed to President Trump.
+      The FBI is also investigating two packages sent to the Pentagon, which are
+      suspected to contain the poison ricin. Ricin is made from the castor bean
+      and can cause death within 36-72 hours. CDC says it can only be
+      manufactured deliberately. The packages did not enter the White House or
+      Pentagon.</p>
     _key: card-1-4cd29702-1073-4769-8142-e3b55b72b71b
   - order: 1
     useCheckmark: false
     body: >-
-      > “After 11 years of trying to outrun depression & PTSD symptoms, I have
-      finally concluded it’s faster than me. That I have to stop running, turn
-      around and confront it.”  
-        
-      Jason Kander (37), a rising star in the Democratic party and an
-      Afghanistan War veteran, in an open letter announcing he will no longer
-      run for Mayor of Kansas City. 7.7M Americans will suffer from PTSD during
-      a given year with 11-20% of veterans suffering.
+      <blockquote>“After 11 years of trying to outrun depression &amp; PTSD
+      symptoms, I have finally concluded it’s faster than me. That I have to
+      stop running, turn around and confront it.”<br><br>Jason Kander (37), a
+      rising star in the Democratic party and an Afghanistan War veteran, in an
+      open letter announcing he will no longer run for Mayor of Kansas City.
+      7.7M Americans will suffer from PTSD during a given year with 11-20% of
+      veterans suffering.</blockquote>
     _key: card-2-d1e28b71-f229-4349-bf6b-ece19a9e4671
   - order: 2
     useCheckmark: false
     body: >-
-      > "Of course, we have quite a ways to go but we look forward to the next
-      steps in this conversation."  
-        
-        
-      State Department spokeswoman on U.S. Secretary of State Mike Pompeo's
-      multi-country visit, which will include a visit with Kim Jong Un this
-      Sunday in North Korea. This will be his 4th visit and he is expected to
-      help plan a second meeting between Kim & President Trump.
+      <blockquote>"Of course, we have quite a ways to go but we look forward to
+      the next steps in this conversation."<br><br><br>State Department
+      spokeswoman on U.S. Secretary of State Mike Pompeo's multi-country visit,
+      which will include a visit with Kim Jong Un this Sunday in North Korea.
+      This will be his 4th visit and he is expected to help plan a second
+      meeting between Kim &amp; President Trump.</blockquote>
     _key: card-3-e3ac40f8-a18b-4b1a-8495-83eb5d5f96ec
   - order: 3
     useCheckmark: false
     body: >-
-      > “I’d like to see more people get vaccinated.A We lost 80,000 people last
-      year to the flu.”  
-        
-      Dr. Robert Redfield, CDC Director, on this year's flu season. While the
-      official number of deaths has yet to be announced, the CDC has not backed
-      away from this estimate - which may be the most deadly flu season since
-      the CDC began tracking it in 1976. Flu season unofficially begins in
-      October.
+      <blockquote>“I’d like to see more people get vaccinated.A We lost 80,000
+      people last year to the flu.”<br><br>Dr. Robert Redfield, CDC Director, on
+      this year's flu season. While the official number of deaths has yet to be
+      announced, the CDC has not backed away from this estimate - which may be
+      the most deadly flu season since the CDC began tracking it in 1976. Flu
+      season unofficially begins in October.</blockquote>
     _key: card-4-0b924954-e574-4d76-a872-81d4290f8610
   - order: 4
     useCheckmark: false
     body: >-
-      > “I guess I just felt like putting our energy and our grief into
-      something positive was a better thing than just twisting in the wind for a
-      year.”  
-        
-      Adria Petty, daughter of Tom Petty, on her work going through archives,
-      compiling a 60-song tribute album "American Treasure." The rock legend
-      died suddenly at age 66 of cardiac arrest due to an accidental drug
-      overdose one year ago.
+      <blockquote>“I guess I just felt like putting our energy and our grief
+      into something positive was a better thing than just twisting in the wind
+      for a year.”<br><br>Adria Petty, daughter of Tom Petty, on her work going
+      through archives, compiling a 60-song tribute album "American Treasure."
+      The rock legend died suddenly at age 66 of cardiac arrest due to an
+      accidental drug overdose one year ago.</blockquote>
     _key: card-5-540c8fa6-8048-4662-a8a3-b1e3f3e50537
   - order: 5
     useCheckmark: false
     body: >-
-      > “For me, I’ve got the right to wear what I want. That’s what’s so dope
-      about this country – it’s a free country. I got the right to think what I
-      want; I have the right to feel what I want and I will not be bullied
-      because I do what I feel.”  
-        
-      Kanye West to 'TMZ' explaining why he wears a 'Make America Great Again'
-      hat and defending his support of Pres. Trump.A Kanye went on to say "I
-      support our president, bottom line, no matter who they are."
+      <blockquote>“For me, I’ve got the right to wear what I want. That’s what’s
+      so dope about this country – it’s a free country. I got the right to think
+      what I want; I have the right to feel what I want and I will not be
+      bullied because I do what I feel.”<br><br>Kanye West to 'TMZ' explaining
+      why he wears a 'Make America Great Again' hat and defending his support of
+      Pres. Trump.A Kanye went on to say "I support our president, bottom line,
+      no matter who they are."</blockquote>
     _key: card-6-9802caf1-6161-4b0b-a9a0-f06cd398a95f
   - order: 6
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/quick-quotes-10/)'
+    body: >-
+      <p><a href="https://smarthernews.com/quick-quotes-10/">view
+      sources</a></p>
     _key: card-10-305a8dad-32ca-4fac-90e0-bc90c5724cd3
 
 ---

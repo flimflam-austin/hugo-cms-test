@@ -22,84 +22,61 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # HONORING 41
-
-
-      **_“..one of America’s greatest points of light”_**
-
-
-      President George H.W. Bush, the**41st American president**, will be
-      the**12th president** to lie in state at the U.S. Capitol.
-
-
-      Why It Matters
+      <div><h1>HONORING 41</h1><p><strong><em>“..one of America’s greatest
+      points of light”</em></strong></p><p>President George H.W. Bush, the
+      <strong>41st American president</strong>, will be the <strong>12th
+      president</strong> to lie in state at the U.S. Capitol.</p><p>Why It
+      Matters</p></div>
     _key: card-1-e563298a-267d-4dcd-a48e-935b168fd514
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why We Do It:
-
-
-      * A royal tradition adopted in America. Started with Sec. of State Henry
-      Clay in 1852. Today, the decision to bestow the honor is made by Congress.
-
-      * Previously, 11 U.S Presidents have lain in state: Presidents Ford,
-      Reagan, Johnson, Eisenhower, Hoover, Kennedy, Taft, Harding, McKinley,
-      Garfield, & Lincoln
+      <div><h2>Why We Do It:</h2><ul><li>A royal tradition adopted in America.
+      Started with Sec. of State Henry Clay in 1852. Today, the decision to
+      bestow the honor is made by Congress.</li><li>Previously, 11 U.S
+      Presidents have lain in state: Presidents Ford, Reagan, Johnson,
+      Eisenhower, Hoover, Kennedy, Taft, Harding, McKinley, Garfield, &amp;
+      Lincoln</li></ul></div>
     _key: card-2-d7a7e8be-1127-4a82-9226-b88b4d35ead2
   - order: 2
     useCheckmark: false
     body: >-
-      ## Pres. Lincoln’s “Support”
-
-
-      * Catafalque: a frame that supports a coffin (cat-e-falk).
-
-      * Pres. Lincoln’s catafalque from 1865 has held most of the coffins that
-      have lain in state.
-
-      * The catafalque has had minor restorations since 1865 (retrofitted to
-      hold larger coffins, drapery replaced), but for the most part, it remains
-      like the original.
+      <div><h2>Pres. Lincoln’s “Support”</h2><ul><li>Catafalque: a frame that
+      supports a coffin (cat-e-falk).</li><li>Pres. Lincoln’s catafalque from
+      1865 has held most of the coffins that have lain in state.</li><li>The
+      catafalque has had minor restorations since 1865 (retrofitted to hold
+      larger coffins, drapery replaced), but for the most part, it remains like
+      the original.</li></ul></div>
     _key: card-3-1d8700d8-546a-4b4e-9d00-4c896e0d9f81
   - order: 3
     useCheckmark: false
     body: >-
-      ## Lie in \*State\* vs \*Honor\*
-
-
-      * Average citizens cannot “lie in state”A as that honor is reserved forA
-      gov’t & military officials.
-
-      * Private citizens “lie in honor.”
-
-      * To date, only four Americans have “lain in honor” at the U.S. Capitol:
-      Rev. Billy Graham, two police officers killed during an attack on the U.S.
-      Capitol & Rosa Parks (only woman to lie in state or honor).
+      <div><h2>Lie in \*State\* vs \*Honor\*</h2><ul><li>Average citizens cannot
+      “lie in state”A as that honor is reserved forA gov’t &amp; military
+      officials.</li><li>Private citizens “lie in honor.”</li><li>To date, only
+      four Americans have “lain in honor” at the U.S. Capitol: Rev. Billy
+      Graham, two police officers killed during an attack on the U.S. Capitol
+      &amp; Rosa Parks (only woman to lie in state or honor).</li></ul></div>
     _key: card-4-af82fde1-8b66-4e69-8c29-1e8f9d2a3697
   - order: 4
     useCheckmark: false
     body: >-
-      > “It is with great sadness that we mark the passing of one of America’s
-      greatest points of light, the death of President George H.W. Bush.”  
-        
-        
-        
-      President Trump declared Dec. 5, the day of Pres. H.W. Bush's Washington
-      D.C. funeral, a national day of mourning and ordered flags flown
-      half-staff for 30 days from his day of passing.
+      <blockquote>“It is with great sadness that we mark the passing of one of
+      America’s greatest points of light, the death of President George H.W.
+      Bush.”<br><br><br><br>President Trump declared Dec. 5, the day of Pres.
+      H.W. Bush's Washington D.C. funeral, a national day of mourning and
+      ordered flags flown half-staff for 30 days from his day of
+      passing.</blockquote>
     _key: card-5-a1f617b4-9a0e-481e-8af2-09e251d30ef8
   - order: 5
     useCheckmark: true
     body: >-
-      President H.W. Bush will lie in state from Monday night until his
+      <div><p>President H.W. Bush will lie in state from Monday night until his
       Washington D.C. funeral on Wednesday. On Thursday, Pres. Bush will be laid
       to rest in Texas next to his beloved wife, Barbara, and his daughter Robin
-      who died at age 3.
-
-
-      [view
-      sources](https://smarthernews.com/18-12-3-lying-in-state-george-h-w-bush/)
+      who died at age 3.</p><p><a
+      href="https://smarthernews.com/18-12-3-lying-in-state-george-h-w-bush/">view
+      sources</a></p></div>
     _key: card-10-a1a948c6-bf41-4cfb-b100-beb5e0f50706
 
 ---

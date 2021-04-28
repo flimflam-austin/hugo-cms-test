@@ -22,77 +22,46 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      The Final Catwalk
-
-
-
-
-      ## Fashion Week
-
-
-      * Fashion Week is not a week; it spans various cities across the globe
-      from February – March.
-
-      * New York City leads, followed by London, Milan, and finally, Paris.
-
-      * Final runway show: March 6, 2018.
-
-      * Spring shows preview fall fashion trends.
-
-
-
-
-      Flip For More
+      <div><p>The Final Catwalk</p><p></p><h2>Fashion Week</h2><ul><li>Fashion
+      Week is not a week; it spans various cities across the globe from February
+      – March.</li><li>New York City leads, followed by London, Milan, and
+      finally, Paris.</li><li>Final runway show: March 6, 2018.</li><li>Spring
+      shows preview fall fashion trends.</li></ul><p></p><p>Flip For
+      More</p></div>
     _key: card-1-35b6f558-58c0-478d-9033-1bc06be17682
   - order: 1
     useCheckmark: false
     body: >-
-      What You Should Know:  
-
-      General Trends Fall 2018
-
-
-      * **Makeup:** Cat eye stays, but notA just black, bright colors too.
-
-      * **Hair:** Headbands/scarves in NY & jeweled headpieces in Milan.
-
-      * **Bold Fabric:**A Bright colors, florals & animal print.
-
-      * **Longer hemlines:** (untilA Saint Laurent went super short in Paris).
-
-
-
-
-      [See Paris Show
-      Here](https://www.vogue.com/fashion-shows/fall-2018-ready-to-wear/saint-laurent)
+      <div><p>What You Should Know:<br>General Trends Fall
+      2018</p><ul><li><strong>Makeup:</strong> Cat eye stays, but notA just
+      black, bright colors too.</li><li><strong>Hair:</strong> Headbands/scarves
+      in NY &amp; jeweled headpieces in Milan.</li><li><strong>Bold
+      Fabric:</strong>A Bright colors, florals &amp; animal
+      print.</li><li><strong>Longer hemlines:</strong> (untilA Saint Laurent
+      went super short in Paris).</li></ul><p></p><p><a
+      href="https://www.vogue.com/fashion-shows/fall-2018-ready-to-wear/saint-laurent">See
+      Paris Show Here</a></p></div>
     _key: card-2-d2b407bb-416d-4b22-b62b-ded6f81d8ac4
   - order: 2
     useCheckmark: false
     body: >-
-      ## Models Need Not Apply
-
-
-      * **Dolce & Gabbana** used drones to fly purses down the runway in Milan.
-
-      * **Prada** used computer-generated-image (aka C.G.I) “It-girl” to
-      announce new social media campaign; “She” has 600,000+ Instagram
-      followers, but she doesn’t have a heartbeat.
-
-
-
-
-      [Click HERE for "IT"
-      Girl](https://www.instagram.com/lilmiquela/?utm_source=ig_embed&utm_campaign=embed_ufi_test&action=profilevisit)
+      <div><h2>Models Need Not Apply</h2><ul><li><strong>Dolce &amp;
+      Gabbana</strong> used drones to fly purses down the runway in
+      Milan.</li><li><strong>Prada</strong> used computer-generated-image (aka
+      C.G.I) “It-girl” to announce new social media campaign; “She” has 600,000+
+      Instagram followers, but she doesn’t have a
+      heartbeat.</li></ul><p></p><p><a
+      href="https://www.instagram.com/lilmiquela/?utm_source=ig_embed&amp;utm_campaign=embed_ufi_test&amp;action=profilevisit">Click
+      HERE for "IT" Girl</a></p></div>
     _key: card-3-0034a177-5a3f-4f63-b8b4-33c1174c30cd
   - order: 3
     useCheckmark: true
     body: >-
-      Can you imagine someone printing a 3-D image of your body and tailoring
-      clothes to you? That's what one fashion designer did - and we thought it
-      was particularly cool. Read More:
-
-
-      [view sources](https://smarthernews.com/18-02-27-fashion-week/)
+      <div><p>Can you imagine someone printing a 3-D image of your body and
+      tailoring clothes to you? That's what one fashion designer did - and we
+      thought it was particularly cool. Read More:</p><p><a
+      href="https://smarthernews.com/18-02-27-fashion-week/">view
+      sources</a></p></div>
     _key: card-10-da83a67b-2b80-4a8b-8a6c-35e073caa213
 
 ---

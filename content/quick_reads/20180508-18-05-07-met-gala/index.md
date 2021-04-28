@@ -22,63 +22,40 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # “The Party of the Year”
-
-
-      Celebrities & Fashionistas  
-
-      Gather For the Met Gala
-
-
-      In the fashion world, there are few dates as important as the first Monday
-      in May.
-
-
-      Flip For Why It Matters
+      <div><h1>“The Party of the Year”</h1><p>Celebrities &amp;
+      Fashionistas<br>Gather For the Met Gala</p><p>In the fashion world, there
+      are few dates as important as the first Monday in May.</p><p>Flip For Why
+      It Matters</p></div>
     _key: card-1-7ed083a4-a049-4997-ac7f-43da991e7a2f
   - order: 1
     useCheckmark: false
     body: >-
-      ## Toughest Ticket in Town
-
-
-      The**invitation-only tickets** are $30K a piece & tables are about $275K,
-      according to NYT.
-
-
-      All of the money from ticket sales goes to the**Costume Institute,** which
-      it needs because it is the only one of the Met’s departments that funds
-      itself.
-
-
-      Last year, $12 million was raised.
+      <div><h2>Toughest Ticket in Town</h2><p>The <strong>invitation-only
+      tickets</strong> are $30K a piece &amp; tables are about $275K, according
+      to NYT.</p><p>All of the money from ticket sales goes to the
+      <strong>Costume Institute,</strong> which it needs because it is the only
+      one of the Met’s departments that funds itself.</p><p>Last year, $12
+      million was raised.</p></div>
     _key: card-2-1e25e00d-9dce-4116-a83b-06f93ab9bd7d
   - order: 2
     useCheckmark: false
     body: >-
-      ## Met Gala: Did You Know?
-
-
-      * **Pres. Trump proposed to his wife, Melania,** during 2004 gala.
-
-      * Attendees are**banned from posting on social media** after the red
-      carpet.
-
-      * **Anna Wintour has final say** over every invitation & attendee; each
-      guest must be approved.
-
-      * Under Wintour’s reign, the Met Gala has**raised $145M** for the Costume
-      Institute.
+      <div><h2>Met Gala: Did You Know?</h2><ul><li><strong>Pres. Trump proposed
+      to his wife, Melania,</strong> during 2004 gala.</li><li>Attendees are
+      <strong>banned from posting on social media</strong> after the red
+      carpet.</li><li><strong>Anna Wintour has final say</strong> over every
+      invitation &amp; attendee; each guest must be approved.</li><li>Under
+      Wintour’s reign, the Met Gala has <strong>raised $145M</strong> for the
+      Costume Institute.</li></ul></div>
     _key: card-3-bf892d8b-2d7a-4cc0-ae78-8ce281565224
   - order: 3
     useCheckmark: true
     body: >-
-      The 2018 Met Gala's theme is "Heavenly Bodies: Fashion and the Catholic
-      Imagination." We can only guess what celebrities choose to wear for their
-      "Sunday Best."
-
-
-      [view sources](https://smarthernews.com/18-05-07-met-gala/)
+      <div><p>The 2018 Met Gala's theme is "Heavenly Bodies: Fashion and the
+      Catholic Imagination." We can only guess what celebrities choose to wear
+      for their "Sunday Best."</p><p><a
+      href="https://smarthernews.com/18-05-07-met-gala/">view
+      sources</a></p></div>
     _key: card-10-5646fb98-9b16-49e8-a73c-4af3ef22a99b
 
 ---

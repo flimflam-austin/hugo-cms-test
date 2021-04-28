@@ -21,62 +21,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # **PROSECUTION RESTS**
-
-
-      ### Here are the 3 main arguments made by the prosecution about why a
-      former police officer charged with killing George Floyd is guilty of
-      murder.
+      <div><h1><strong>PROSECUTION RESTS</strong></h1><h3>Here are the 3 main
+      arguments made by the prosecution about why a former police officer
+      charged with killing George Floyd is guilty of murder.</h3></div>
     _key: 36a583238012
   - order: 1
     useCheckmark: false
     body: >-
-      > "George Floyd did not die from a primary cardiac event and he did not
-      die from drug overdose."
-
-
-      Cardiologist Dr. Jonathan Rich, who reviewed George Floyd's medical
-      records, autopsy & videos of the incident, testified that Floyd’s
-      "absolutely preventable" death was caused by low oxygen levels "induced by
-      the prone restraint and positional asphyxiation,” and unrelated to drug
-      use or pre-existing conditions.
+      <div><blockquote>"George Floyd did not die from a primary cardiac event
+      and he did not die from drug overdose."</blockquote><p>Cardiologist Dr.
+      Jonathan Rich, who reviewed George Floyd's medical records, autopsy &amp;
+      videos of the incident, testified that Floyd’s "absolutely preventable"
+      death was caused by low oxygen levels "induced by the prone restraint and
+      positional asphyxiation,” and unrelated to drug use or pre-existing
+      conditions.</p></div>
     _key: 45ff8c3a50e9
   - order: 2
     useCheckmark: false
     body: >-
-      > "Both the knee across Mr. Floyd's neck and the prone restraint were
-      unreasonable, excessive and contrary to generally accepted police
-      practices."
-
-
-      Law professor, fmr. police officer, & use of force expert Seth Stoughton
-      testified that Derek Chauvin's use of force during the 9 min & 29 secs he
-      held Floyd face down with his knee on Floyd's neck "had the foreseeable
-      effect and a substantial likelihood of resulting in death or great bodily
-      harm."
+      <div><blockquote>"Both the knee across Mr. Floyd's neck and the prone
+      restraint were unreasonable, excessive and contrary to generally accepted
+      police practices." </blockquote><p>Law professor, fmr. police officer,
+      &amp; use of force expert Seth Stoughton testified that Derek Chauvin's
+      use of force during the 9 min &amp; 29 secs he held Floyd face down with
+      his knee on Floyd's neck "had the foreseeable effect and a substantial
+      likelihood of resulting in death or great bodily harm."</p></div>
     _key: 34a34aa7aa5a
   - order: 3
     useCheckmark: false
     body: >-
-      > “Once there was no longer any resistance, and clearly when Mr. Floyd was
-      no longer responsive ... to continue to apply that level of force to a
-      person proned out, handcuffed behind their back – that in no way, shape or
-      form is anything that is by policy, is not part of our training ... our
-      ethics or our values”
-
-
-      Minneapolis Police Chief Medaria Arradondo testified that Chauvin's use of
-      force and failure to render aid were not in line with the department's
-      policies.
+      <div><blockquote>“Once there was no longer any resistance, and clearly
+      when Mr. Floyd was no longer responsive ... to continue to apply that
+      level of force to a person proned out, handcuffed behind their back – that
+      in no way, shape or form is anything that is by policy, is not part of our
+      training ... our ethics or our values”</blockquote><p>Minneapolis Police
+      Chief Medaria Arradondo testified that Chauvin's use of force and failure
+      to render aid were not in line with the department's policies.</p></div>
     _key: dcc11c597c85
   - order: 4
     useCheckmark: true
     body: >-
-      The prosecution argued the use of force employed by Derek Chauvin against
-      George Floyd was excessive, unreasonable, contrary to the law & police
-      training / policy, and consequently resulted in Floyd's death. The defense
-      will make the case that the opposite is true, and argue Floyd's death was
-      caused by underlying health issues and / or drug use.
+      <p>The prosecution argued the use of force employed by Derek Chauvin
+      against George Floyd was excessive, unreasonable, contrary to the law
+      &amp; police training / policy, and consequently resulted in Floyd's
+      death. The defense will make the case that the opposite is true, and argue
+      Floyd's death was caused by underlying health issues and / or drug
+      use.</p>
     _key: 1e4dac2c1a67
 
 ---

@@ -20,51 +20,43 @@ colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## MYSTERY SOLVED?
-
-      > New research reveals an answer to one of nature’s great questions:  
-        
-      **How does a butterfly fly?**  
-        
-      (and why this revelation may help others take flight)
+    body: >-
+      <div><h2>MYSTERY SOLVED?</h2><blockquote>New research reveals an answer to
+      one of nature’s great questions:<br><br><strong>How does a butterfly
+      fly?</strong><br><br>(and why this revelation may help others take
+      flight)</blockquote></div>
     _key: fa668170a594
   - order: 1
     useCheckmark: false
     body: >-
-      ## Background
-
-
-      * Scientists have tried to understand the mystery of butterflies’ flight
-      since their wings are disproportionately large compared to the rest of
-      their bodies.
-
-      * An understanding from past decades: Butterfly wings “clap” together.
-
-      * **New research:** Their wings are flexible & “cup” as they meet. Instead
-      of two flat surfaces clapping, the wings’ edges meet before the center,
-      creating a “pocket shape” (try it with your hands).
+      <div><h2>Background</h2><ul><li>Scientists have tried to understand the
+      mystery of butterflies’ flight since their wings are disproportionately
+      large compared to the rest of their bodies.</li><li>An understanding from
+      past decades: Butterfly wings “clap” together.</li><li><strong>New
+      research:</strong> Their wings are flexible &amp; “cup” as they meet.
+      Instead of two flat surfaces clapping, the wings’ edges meet before the
+      center, creating a “pocket shape” (try it with your
+      hands).</li></ul><p><br></p></div>
     _key: b98b472d3072
   - order: 2
     useCheckmark: false
     body: >-
-      > “It is an elegant mechanism that is far more advanced than we imagined,
-      and it is fascinating … The shape and flexibility of butterfly wings could
-      inspire improved performance and flight technology in small drones.”
-
-
-      Researcher Per Henningsson of Sweden's Lund University, who observed
-      butterflies in a wind tunnel, says the "cupping" of wings creates an air
-      pocket they use to quickly and efficiently lift off and fly away.
+      <div><blockquote>“It is an elegant mechanism that is far more advanced
+      than we imagined, and it is fascinating … The shape and flexibility of
+      butterfly wings could inspire improved performance and flight technology
+      in small drones.”</blockquote><p>Researcher Per Henningsson of Sweden's
+      Lund University, who observed butterflies in a wind tunnel, says the
+      "cupping" of wings creates an air pocket they use to quickly and
+      efficiently lift off and fly away.</p></div>
     _key: a203aca78553
   - order: 3
     useCheckmark: true
     body: >-
-      Researchers also built mechanical wings and discovered that flexible wings
-      (like the ones butterflies have) are more efficient than rigid ones. The
-      researchers said designers of land and air drones using wings and fins
-      should consider a "cupped clap" for improved "flight/swim duration and
-      range."
+      <div><p>Researchers also built mechanical wings and discovered that
+      flexible wings (like the ones butterflies have) are more efficient than
+      rigid ones. The researchers said designers of land and air drones using
+      wings and fins should consider a "cupped clap" for improved "flight/swim
+      duration and range."</p><p></p></div>
     citation: VIEW SOURCES
     _key: 05ab0fc4a045
 

@@ -21,112 +21,78 @@ colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # 96 BILLION
-
-      ## Number of aluminum cans produced in the U.S. every year.
-
-      These cans may get more expensive for you to buy.
-
-      President Trump announces tariffs; Some love. Some hate.
-
-      Flip For Why
+    body: >-
+      <div><h1>96 BILLION</h1><h2>Number of aluminum cans produced in the U.S.
+      every year.</h2><p>These cans may get more expensive for you to
+      buy.</p><p>President Trump announces tariffs; Some love. Some
+      hate.</p><p>Flip For Why</p></div>
     _key: card-1-63efa9dd-1fad-47a9-a506-c8c6ebd16cdc
   - order: 1
     useCheckmark: false
-    body: |-
-      # Pres Trump:
-
-      ## U.S. to Impose Tariffs on Steel & Aluminum Imports
-
-      * Tariff = tax on import/export
-      * 25% duty on steel imports
-      * 10% duty on aluminum imports
-      * TBD: “…for a long period of time”
-      * Formal order expected next week
+    body: >-
+      <div><h1>Pres Trump:</h1><h2>U.S. to Impose Tariffs on Steel &amp;
+      Aluminum Imports</h2><ul><li>Tariff = tax on import/export</li><li>25%
+      duty on steel imports</li><li>10% duty on aluminum imports</li><li>TBD:
+      “…for a long period of time”</li><li>Formal order expected next
+      week</li></ul></div>
     _key: card-2-9072abf1-a81a-4dc1-bb96-a0d2ebb157d8
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why Tariffs Now?
-
-
-      * Commerce Dep’t warns cheap imports of steel & aluminum hurt nat’l
-      security – i.e., not enough U.S. companies can competitively produce metal
-      for our military.
-
-      * Pres. Trump campaigned on boosting jobs & growth in what he labeled a
-      bedrock American industry (important in key states like Pennsylvania).
+      <div><h2>Why Tariffs Now?</h2><ul><li>Commerce Dep’t warns cheap imports
+      of steel &amp; aluminum hurt nat’l security – i.e., not enough U.S.
+      companies can competitively produce metal for our military.</li><li>Pres.
+      Trump campaigned on boosting jobs &amp; growth in what he labeled a
+      bedrock American industry (important in key states like
+      Pennsylvania).</li></ul></div>
     _key: card-3-52343c74-d39d-451d-b532-aae75087f90e
   - order: 3
     useCheckmark: false
     body: >-
-      # Why Tariffs Matter:
-
-
-      Could Cost You $$  
-
-      While Also Creating Jobs
-
-
-      * Positive for American companies that produce these products.
-
-      * Some fear retaliation from China & others – a possible “trade war” could
-      mean higher prices for U.S. consumers on MANY products.
-
-      * Stock market reacted by falling sharply (down 586 pts at low).
+      <div><h1>Why Tariffs Matter:</h1><p>Could Cost You $$<br>While Also
+      Creating Jobs</p><ul><li>Positive for American companies that produce
+      these products.</li><li>Some fear retaliation from China &amp; others – a
+      possible “trade war” could mean higher prices for U.S. consumers on MANY
+      products.</li><li>Stock market reacted by falling sharply (down 586 pts at
+      low).</li></ul></div>
     _key: card-4-465573b7-ef7a-4ad3-8e99-971c189a8431
   - order: 4
     useCheckmark: false
     body: >-
-      ## From Those Who Would Benefit From Tariffs:
-
-
-      > ‘We are not protectionist. We want a level playing field.’  
-        
-        
-        
-      Dave Burritt, Pres/CEO U.S. Steel, March 1, 2018, at White House Listening
+      <div><h2>From Those Who Would Benefit From Tariffs:</h2><blockquote>‘We
+      are not protectionist. We want a level playing field.’<br><br><br><br>Dave
+      Burritt, Pres/CEO U.S. Steel, March 1, 2018, at White House Listening
       Session; says current situation is completely unfair to U.S. companies
-      like his.
+      like his.</blockquote></div>
     _key: card-5-ecf8d58b-91f8-4f17-916f-3f96cf54969f
   - order: 5
     useCheckmark: false
     body: >-
-      > ‘The President is proposing a massive tax increase on American families.
-      Protectionism is weak, not strong.”  
-        
-        
-        
-      Sen. Ben Sasse (R-NE), March 1, 2018, who is concerned about rising prices
-      for American families & industries, such as farming that use heavy
-      equipment made from material like steel.
+      <blockquote>‘The President is proposing a massive tax increase on American
+      families. Protectionism is weak, not strong.”<br><br><br><br>Sen. Ben
+      Sasse (R-NE), March 1, 2018, who is concerned about rising prices for
+      American families &amp; industries, such as farming that use heavy
+      equipment made from material like steel.</blockquote>
     _key: card-6-7291329a-def0-4b4c-99f8-79c1a7c4f069
   - order: 6
     useCheckmark: false
     body: >-
-      # Tariff Deja Vu?
-
-
-      * In 2002, Pres. Bush imposed aA**30% tariff** on steel imports.
-
-      * **Lasted only 20 months** after Europe responded with its own tariffs.
-
-      * World Trade Organization (WTO) ruled U.S. violated international trade
-      agreements.
-
-      * **Difference this time**: Pres. Trump cites nat’l security provision
-      that WTO typically doesn’t probe.
+      <div><h1>Tariff Deja Vu?</h1><ul><li>In 2002, Pres. Bush imposed aA
+      <strong>30% tariff</strong> on steel imports.</li><li><strong>Lasted only
+      20 months</strong> after Europe responded with its own
+      tariffs.</li><li>World Trade Organization (WTO) ruled U.S. violated
+      international trade agreements.</li><li><strong>Difference this
+      time</strong>: Pres. Trump cites nat’l security provision that WTO
+      typically doesn’t probe.</li></ul></div>
     _key: card-7-0f2cbe31-92c3-4b28-819b-16cc9f72352e
   - order: 7
     useCheckmark: true
     body: >-
-      Don't forget timing. Trump announced his campaign manager for 2020 this
-      week (Pennsylvania crucial to his 2016 win) AND sanctions on North Korea,
-      preventing shipments to China (a major metal producer).
-
-
-      [view sources](https://smarthernews.com/18-03-01-tariffs/)
+      <div><p>Don't forget timing. Trump announced his campaign manager for 2020
+      this week (Pennsylvania crucial to his 2016 win) AND sanctions on North
+      Korea, preventing shipments to China (a major metal producer).</p><p><a
+      href="https://smarthernews.com/18-03-01-tariffs/">view
+      sources</a></p></div>
     _key: card-10-6990f27b-ce8d-47ad-bf03-e7eb879224e9
 
 ---

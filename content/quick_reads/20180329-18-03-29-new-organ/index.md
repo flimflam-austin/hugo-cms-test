@@ -22,90 +22,63 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # New Human Organ?
-
-
-      ## “Interstitium”
-
-
-      Study says its discovered the body’s biggest organ AND it may hold
-      the**key to understanding how cancer spreads.**
-
-
-      But is it really as “new” as reported?**Some say no…they’ve known about it
-      for DECADES.**
-
-
-      Flip: Exclusive Info
+      <div><h1>New Human Organ?</h1><h2>“Interstitium”</h2><p>Study says its
+      discovered the body’s biggest organ AND it may hold the <strong>key to
+      understanding how cancer spreads.</strong></p><p>But is it really as “new”
+      as reported? <strong>Some say no…they’ve known about it for
+      DECADES.</strong></p><p>Flip: Exclusive Info</p></div>
     citation: 'Flip: Exclusive Info'
     _key: card-1-698addad-9b62-4f8e-9b3b-550f7ddcc02b
   - order: 1
     useCheckmark: false
     body: >-
-      > “This finding has**potential to drive dramatic advances in medicine**,
-      including the possibility that the direct sampling of interstitial fluid
-      may become a powerful diagnostic tool.”  
-        
-        
-        
-      Neil Theise, MD, co-senior author of study & professor in the Department
-      of Pathology at NYU Langone Health
+      <blockquote>“This finding has <strong>potential to drive dramatic advances
+      in medicine</strong>, including the possibility that the direct sampling
+      of interstitial fluid may become a powerful diagnostic
+      tool.”<br><br><br><br>Neil Theise, MD, co-senior author of study &amp;
+      professor in the Department of Pathology at NYU Langone
+      Health</blockquote>
     _key: card-2-5fd05274-e4c5-4663-a0cd-649de743c11a
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why It Matters:
-
-
-      “New” organ = mesh-like fluid-filled spaces that provide both cushion and
-      connective tissue to entire body.
-
-
-      _“Importantly, the finding that this layer is a highway of moving fluid
-      may explain why cancer that invades it becomes much more likely to
-      spread.” Study Authors_
+      <div><h2>Why It Matters:</h2><p>“New” organ = mesh-like fluid-filled
+      spaces that provide both cushion and connective tissue to entire
+      body.</p><p><em>“Importantly, the finding that this layer is a highway of
+      moving fluid may explain why cancer that invades it becomes much more
+      likely to spread.” Study Authors</em></p></div>
     _key: card-3-e5246bfb-c313-4a6c-a26a-78ff048ac3d3
   - order: 3
     useCheckmark: false
     body: >-
-      ## NOT “News” To Some…
-
-
-      * **Myofascial Release**: Developed more than 4 decades ago.
-
-      * Form of body work that targets connective tissue to loosen or “release”
-      the fascia for health benefits.
-
-      * Instead of “interstitium”, therapists call the**entire** network
-      “fascia”.
-
-
-      [Click Link For
-      Group](https://fasciaresearchsociety.org/fascia-research-congress)
+      <div><h2>NOT “News” To Some…</h2><ul><li><strong>Myofascial
+      Release</strong>: Developed more than 4 decades ago.</li><li>Form of body
+      work that targets connective tissue to loosen or “release” the fascia for
+      health benefits.</li><li>Instead of “interstitium”, therapists call the
+      <strong>entire</strong> network “fascia”.</li></ul><p><a
+      href="https://fasciaresearchsociety.org/fascia-research-congress">Click
+      Link For Group</a></p></div>
     citation: Click Link For Group
     _key: card-4-e80e5904-0efe-4b37-a34e-2b8962117542
   - order: 4
     useCheckmark: false
     body: >-
-      > “It is refreshing to see science is finally catching up to what I’ve
-      been teaching in my Myofascial Release seminars for the last 40 years.
-      The**fascial system is one of the most important structures of our body**
-      and is significantly tightened from physical or emotional trauma which
-      produces crushing pressure on pain sensitive structures.”  
-        
-        
-        
-      John F. Barnes, PT, to SmartHer News.
+      <blockquote>“It is refreshing to see science is finally catching up to
+      what I’ve been teaching in my Myofascial Release seminars for the last 40
+      years. The <strong>fascial system is one of the most important structures
+      of our body</strong> and is significantly tightened from physical or
+      emotional trauma which produces crushing pressure on pain sensitive
+      structures.”<br><br><br><br>John F. Barnes, PT, to SmartHer
+      News.</blockquote>
     _key: card-5-23d8dc08-7a56-418f-9438-7de4acf2eb72
   - order: 5
     useCheckmark: true
     body: >-
-      Now that science & alternative healing seem to be on the same page - read
-      more on how this may help us diagnose and treat diseases like cancer and
-      beyond.
-
-
-      [view sources](https://smarthernews.com/18-03-29-new-organ/)
+      <div><p>Now that science &amp; alternative healing seem to be on the same
+      page - read more on how this may help us diagnose and treat diseases like
+      cancer and beyond.</p><p><a
+      href="https://smarthernews.com/18-03-29-new-organ/">view
+      sources</a></p></div>
     _key: card-10-2a4df2fc-0a89-4162-b0c7-ac637edb4c03
 
 ---

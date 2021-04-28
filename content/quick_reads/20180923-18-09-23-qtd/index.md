@@ -22,22 +22,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“It taught me about the importance of prayer. It taught me the
-      importance of surrendering to God, surrendering your fears to Him, and
-      just knowing that whatever happens, whether it’s going to be a bad outcome
-      or a good outcome, He is going to be there to help you get through it.”_
+      <div><blockquote><em>“It taught me about the importance of prayer. It
+      taught me the importance of surrendering to God, surrendering your fears
+      to Him, and just knowing that whatever happens, whether it’s going to be a
+      bad outcome or a good outcome, He is going to be there to help you get
+      through it.”</em></blockquote><p></p></div>
     citation: Kristen Masciantonio
     _key: card-1-8623f7fe-6923-47be-bd9a-9fe109f21c13
   - order: 1
     useCheckmark: true
     body: >-
-      Kristen's daughter, Gianna was born with a deadly brain stem tumor. Given
-      nearly no chance at survival, Gianna defied all odds. As Kristen describes
-      in this week's podcast, a miraculous chain of events led to this outcome.
-      Listen:
-
-
-      [view sources](https://smarthernews.com/18-09-23-qtd/)
+      <div><p>Kristen's daughter, Gianna was born with a deadly brain stem
+      tumor. Given nearly no chance at survival, Gianna defied all odds. As
+      Kristen describes in this week's podcast, a miraculous chain of events led
+      to this outcome. Listen:</p><p><a
+      href="https://smarthernews.com/18-09-23-qtd/">view sources</a></p></div>
     _key: card-10-01c6282d-6a17-40f2-ac9a-4d2c9b904b3d
 
 ---

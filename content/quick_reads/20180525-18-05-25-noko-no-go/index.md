@@ -22,68 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # The Art Of The Deal:
-
-
-      ## Is POTUS walking away to move forward?
-
-
-      Pres. Trump called off the June 12th meeting with North Korea. Is this all
-      part of his strategy? We found something you have to see…
-
-
-      FLIP: LEARN MORE
+      <div><h1>The Art Of The Deal:</h1><h2>Is POTUS walking away to move
+      forward?</h2><p>Pres. Trump called off the June 12th meeting with North
+      Korea. Is this all part of his strategy? We found something you have to
+      see…</p><p>FLIP: LEARN MORE</p></div>
     _key: card-1-4cf44f31-8239-4646-a658-d5f5d34605b3
   - order: 1
     useCheckmark: false
     body: >-
-      “I was very much looking forward to being there with you. Sadly, I feel it
-      is inappropriate, at this time, to have this long-planned meeting….The
+      <p>“I was very much looking forward to being there with you. Sadly, I feel
+      it is inappropriate, at this time, to have this long-planned meeting….The
       world, and North Korea in particular, has lost a great opportunity for
       lasting peace and great prosperity and wealth. That missed opportunity is
-      a truly sad moment in history.”  
-        
-        
-        
-      Pres. Trump's May 24 letter to Kim Jong Un cancelling their upcoming
-      meeting.
+      a truly sad moment in history.”<br><br><br><br>Pres. Trump's May 24 letter
+      to Kim Jong Un cancelling their upcoming meeting.</p>
     _key: card-2-a097a623-65e8-45fd-9d95-1c43d153e2a8
   - order: 2
     useCheckmark: false
     body: >-
-      ## “Art Of The Deal”
-
-
-      > ‘My tone was more hurt than outraged or angry. I can be a screamer when
-      I want to be, but in this case I felt screaming would only scare them
-      off.”  
-        
-      President Trump in his 1987 book Art of The Deal. He was speaking about a
-      real estate deal where he didn't want the other side to walk away.
-      Considering the tone of his letter to North Korea, we thought this was
-      worth your attention.
+      <div><h2>“Art Of The Deal”</h2><blockquote>‘My tone was more hurt than
+      outraged or angry. I can be a screamer when I want to be, but in this case
+      I felt screaming would only scare them off.”<br><br>President Trump in his
+      1987 book Art of The Deal. He was speaking about a real estate deal where
+      he didn't want the other side to walk away. Considering the tone of his
+      letter to North Korea, we thought this was worth your
+      attention.</blockquote></div>
     _key: card-3-69502830-89e0-4fb0-ae10-1072b6f609e3
   - order: 3
     useCheckmark: false
     body: >-
-      ## Less Than 24 Hours After President Trump Sent His Letter…
-
-
-      > North Korea says it’s still open to a sit-down.  
-        
-      “We express our willingness to sit down face-to-face with the U.S. and
-      resolve issues anytime and in any format …. we are open-minded in giving
-      time and opportunity to the U.S.”
+      <div><h2>Less Than 24 Hours After President Trump Sent His
+      Letter…</h2><blockquote>North Korea says it’s still open to a
+      sit-down.<br><br>“We express our willingness to sit down face-to-face with
+      the U.S. and resolve issues anytime and in any format …. we are
+      open-minded in giving time and opportunity to the U.S.”</blockquote></div>
     _key: card-4-0bb346f1-5309-4ade-b3e4-23ff334e6569
   - order: 4
     useCheckmark: true
     body: >-
-      Are the tactics working? Hours before Trump officially called off the
-      meeting, N. Korea *claimed* it dismantled its only known nuclear test
-      site. Journalists were present; official investigators were not.
-
-
-      [view sources](https://smarthernews.com/18-05-25-noko-no-go/)
+      <div><p>Are the tactics working? Hours before Trump officially called off
+      the meeting, N. Korea *claimed* it dismantled its only known nuclear test
+      site. Journalists were present; official investigators were not.</p><p><a
+      href="https://smarthernews.com/18-05-25-noko-no-go/">view
+      sources</a></p></div>
     _key: card-10-9e74dbd6-2df2-49e7-9980-2058105c4e70
 
 ---

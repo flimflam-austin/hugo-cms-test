@@ -21,101 +21,64 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # FOOD FOR THOUGHT
-
-      One pound – the size of a grapefruit – is what each American wastes  
-      EVERY DAY.
-
-      That’sA**150,000 tons of food** aA day.
-
-      With that waste comes more waste… think: land, water, & fertilizer.
-
-      FLIP: are you guilty?
+    body: >-
+      <div><h1>FOOD FOR THOUGHT</h1><p>One pound – the size of a grapefruit – is
+      what each American wastes<br>EVERY DAY.</p><p>That’sA <strong>150,000 tons
+      of food</strong> aA day.</p><p>With that waste comes more waste… think:
+      land, water, &amp; fertilizer.</p><p>FLIP: are you guilty?</p></div>
     citation: 'FLIP: are you guilty?'
     _key: card-1-30ce8af4-747c-42b1-844c-3ac320136398
   - order: 1
     useCheckmark: false
     body: >-
-      WHAT DO WE TRASH?  
-
-      Study: Most wasteful Americans happen to be those who eat healthiest.
-
-
-      * Fruits & vegetables = 39%
-
-      * Dairy = 17%
-
-      * Meat A = 14%
-
-      * Grains = 12%
-
-
-      Note: Food loss is a portion not eaten for any reason, like spoilage &
-      plate waste.
+      <div><p>WHAT DO WE TRASH?<br>Study: Most wasteful Americans happen to be
+      those who eat healthiest.</p><ul><li>Fruits &amp; vegetables =
+      39%</li><li>Dairy = 17%</li><li>Meat A = 14%</li><li>Grains =
+      12%</li></ul><p>Note: Food loss is a portion not eaten for any reason,
+      like spoilage &amp; plate waste.</p></div>
     _key: card-2-e0da35db-ef97-43d1-a2c2-031de583cdce
   - order: 2
     useCheckmark: false
     body: >-
-      ## WHY?
-
-
-      Studies show**90% of Americans misinterpret expiration labels**, and throw
-      away food too early.
-
-
-      Confusion:**10 different expiration phrases**. Food industry urging (but
-      not requiring) use of only**A “Use By” & “Best if Used By”** by summer 18.
-
-
-      **Did you know?** Federal law only requires expiration dates on infant
-      formula.
+      <div><h2>WHY?</h2><p>Studies show <strong>90% of Americans misinterpret
+      expiration labels</strong>, and throw away food too
+      early.</p><p>Confusion: <strong>10 different expiration phrases</strong>.
+      Food industry urging (but not requiring) use of only<strong>A “Use By”
+      &amp; “Best if Used By”</strong> by summer 18.</p><p><strong>Did you
+      know?</strong> Federal law only requires expiration dates on infant
+      formula.</p></div>
     _key: card-3-9a1f625b-024e-47ec-89e9-887dbe6af5ef
   - order: 3
     useCheckmark: false
     body: >-
-      ## DECIPHERING THE LINGO
-
-
-      **“Best if used by”:** refers to quality, not safety. Recommended for
-      flavor.
-
-
-      **“Use by”:**A date on products that could become less safe as they age.
-
-
-      **“Sell by”:**A tells the store how long to display. Issue is quality not
-      spoilage.
-
-
-      **“Expiration Date”:**A last day to eat. Proceed at your own risk.
+      <div><h2>DECIPHERING THE LINGO</h2><p><strong>“Best if used by”:</strong>
+      refers to quality, not safety. Recommended for flavor.</p><p><strong>“Use
+      by”:</strong>A date on products that could become less safe as they
+      age.</p><p><strong>“Sell by”:</strong>A tells the store how long to
+      display. Issue is quality not spoilage.</p><p><strong>“Expiration
+      Date”:</strong>A last day to eat. Proceed at your own risk.</p></div>
     _key: card-4-c1725dda-95f7-41c9-9b2d-ab255a81aa1f
   - order: 4
     useCheckmark: false
     body: >-
-      ## Honey, Will You Sniff This?
-
-
-      * **Milk:**A Usually fine a week after the “Sell By” date.
-
-      * **Eggs:**A 3-5 weeks after you buy.
-
-      * **Poultry & seafood:**A Cook or freeze within 2 days.
-
-      * **Beef & pork:**A Cook or freeze within 3-5 days.
-
-      * **Canned goods:**A Acidic foods (i.e. tomato sauce) can keep 18 months.
-      Low-acid foods like veggies may last 5 years.
+      <div><h2>Honey, Will You Sniff This?</h2><ul><li><strong>Milk:</strong>A
+      Usually fine a week after the “Sell By”
+      date.</li><li><strong>Eggs:</strong>A 3-5 weeks after you
+      buy.</li><li><strong>Poultry &amp; seafood:</strong>A Cook or freeze
+      within 2 days.</li><li><strong>Beef &amp; pork:</strong>A Cook or freeze
+      within 3-5 days.</li><li><strong>Canned goods:</strong>A Acidic foods
+      (i.e. tomato sauce) can keep 18 months. Low-acid foods like veggies may
+      last 5 years.</li></ul></div>
     _key: card-5-a4a732f4-2397-42d3-a29f-83dee26bd0a1
   - order: 5
     useCheckmark: true
     body: >-
-      In a recent poll, 76% respondents think they waste less edible food than
-      the average American. They might want to think again. Click for 6 tips to
-      reduce food waste - what better way to celebrate Earth Day this weekend?
-
-
-      [view sources](https://smarthernews.com/18-04-20-food-waste/)
+      <div><p>In a recent poll, 76% respondents think they waste less edible
+      food than the average American. They might want to think again. Click for
+      6 tips to reduce food waste - what better way to celebrate Earth Day this
+      weekend?</p><p><a
+      href="https://smarthernews.com/18-04-20-food-waste/">view
+      sources</a></p></div>
     _key: card-10-3231b6bb-9c22-4927-9e49-4520076a4af4
 
 ---

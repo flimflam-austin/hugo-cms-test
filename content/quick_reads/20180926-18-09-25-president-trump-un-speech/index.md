@@ -22,99 +22,69 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Small Words: Big Meaning
-
-
-      ## “Not Good.”
-
-
-      The President used this phrase twice in his speech at the UN General
-      Assembly.
-
-
-      When he used it and why it matters.
+      <div><p>Small Words: Big Meaning</p><h2>“Not Good.”</h2><p>The President
+      used this phrase twice in his speech at the UN General
+      Assembly.</p><p>When he used it and why it matters.</p></div>
     _key: card-1-6e605a64-b285-436a-8abc-7b791b3b9340
   - order: 1
     useCheckmark: false
     body: >-
-      > “The Iranian people are rightly outraged that their leaders have
-      embezzled billions of dollars from Iran’s treasury, seized valuable
+      <blockquote>“The Iranian people are rightly outraged that their leaders
+      have embezzled billions of dollars from Iran’s treasury, seized valuable
       portions of the economy, and looted the people’s religious endowments, all
-      to line their own pockets and send their proxies to wage war.**Not
-      good**.”  
-        
-        
-        
-      Pres. Trump, United Nations General Assembly, Sept 25, 2018
+      to line their own pockets and send their proxies to wage war. <strong>Not
+      good</strong>.”<br><br><br><br>Pres. Trump, United Nations General
+      Assembly, Sept 25, 2018</blockquote>
     _key: card-2-7fa1ce85-14d4-46fa-bdaa-f58e2469e591
   - order: 2
     useCheckmark: false
-    body: |-
-      ## What To Know:
-
-      * Pres. Trump hitting a hot button issue in Iran: struggling economy.
-      * High unemployment, falling currency & major drought.
-      * Iran invested heavily in Syria, Iraq & Yemen to advance interests.
-      * Nationwide protests organized to challenge Iranian leadership.
-      * More U.S. sanctions to come = more potential internal strife in Iran.
+    body: >-
+      <div><h2>What To Know:</h2><ul><li>Pres. Trump hitting a hot button issue
+      in Iran: struggling economy.</li><li>High unemployment, falling currency
+      &amp; major drought.</li><li>Iran invested heavily in Syria, Iraq &amp;
+      Yemen to advance interests.</li><li>Nationwide protests organized to
+      challenge Iranian leadership.</li><li>More U.S. sanctions to come = more
+      potential internal strife in Iran.</li></ul></div>
     _key: card-3-651456a5-1943-4882-b976-f17b806da70b
   - order: 3
     useCheckmark: false
     body: >-
-      > “OPEC and OPEC nations, are, as usual, ripping off the rest of the
-      world, and I don’t like it. Nobody should like it. We defend many of these
-      nations for nothing, and then they take advantage of us by giving us high
-      oil prices.**Not good.**“  
-        
-        
-      Pres. Trump referred to America as the largest energy producer anywhere on
-      the face of the Earth - a fact that U.S. oil production now outpaces all
-      other nations.
+      <blockquote>“OPEC and OPEC nations, are, as usual, ripping off the rest of
+      the world, and I don’t like it. Nobody should like it. We defend many of
+      these nations for nothing, and then they take advantage of us by giving us
+      high oil prices. <strong>Not good.</strong>“<br><br><br>Pres. Trump
+      referred to America as the largest energy producer anywhere on the face of
+      the Earth - a fact that U.S. oil production now outpaces all other
+      nations.</blockquote>
     _key: card-4-6ab938f8-3b83-4379-9ae7-9106f0fff0bd
   - order: 4
     useCheckmark: false
     body: >-
-      ## What To Know:
-
-
-      * OPEC = Organization of the Petroleum Exporting Countries.
-
-      * Members like Saudi Arabia & Russia supply nearly 50% of total world’s
-      oil supply.
-
-      * OPEC “stabilizes” oil markets by agreeing to certain production output;
-      that supply impacts price.
-
-      * Pres. Trump wants OPEC to keep oil supply up, so prices stay down.**OPEC
-      may not agree**.
+      <div><h2>What To Know:</h2><ul><li>OPEC = Organization of the Petroleum
+      Exporting Countries.</li><li>Members like Saudi Arabia &amp; Russia supply
+      nearly 50% of total world’s oil supply.</li><li>OPEC “stabilizes” oil
+      markets by agreeing to certain production output; that supply impacts
+      price.</li><li>Pres. Trump wants OPEC to keep oil supply up, so prices
+      stay down. <strong>OPEC may not agree</strong>.</li></ul></div>
     _key: card-5-1ff62be0-f22b-4415-88da-39c5b745a21b
   - order: 5
     useCheckmark: false
     body: >-
-      ## Connecting The Dots
-
-
-      * Iran is part of OPEC.
-
-      * Expected U.S. sanctions will prevent some Iranian oil from hitting the
-      market.
-
-      * Less global supply = potentially higher oil prices.
-
-      * Higher oil prices may impact U.S. economy. This is why Pres. Trump wants
-      OPEC to ramp up production, in part, to cover U.S.-imposed loss of Iranian
-      oil.
+      <div><h2>Connecting The Dots</h2><ul><li>Iran is part of
+      OPEC.</li><li>Expected U.S. sanctions will prevent some Iranian oil from
+      hitting the market.</li><li>Less global supply = potentially higher oil
+      prices.</li><li>Higher oil prices may impact U.S. economy. This is why
+      Pres. Trump wants OPEC to ramp up production, in part, to cover
+      U.S.-imposed loss of Iranian oil.</li></ul></div>
     _key: card-6-9191a624-94d1-41eb-8914-9baafb87a139
   - order: 6
     useCheckmark: true
     body: >-
-      The President began his UN speech speaking about the American economy,
-      stating "America is governed by Americans. We reject the ideology of
-      globalism, and we embrace the doctrine of patriotism."
-
-
-      [view
-      sources](https://smarthernews.com/18-09-25-president-trump-un-speech/)
+      <div><p>The President began his UN speech speaking about the American
+      economy, stating "America is governed by Americans. We reject the ideology
+      of globalism, and we embrace the doctrine of patriotism."</p><p><a
+      href="https://smarthernews.com/18-09-25-president-trump-un-speech/">view
+      sources</a></p></div>
     _key: card-10-54f78459-38be-4aef-ae37-29f6eadcec2e
 
 ---

@@ -22,67 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “It was a woman, and she was firing her gun. And I just said, ‘Shooter’,
-      and everybody started running.”  
-        
-        
-        
-      Dianna Arnspiger, YouTube employee speaking to Associated Press about
-      shooting at YouTube HQ, April 3, 2018
-
-
-      How rare is a woman shooter?
+      <div><blockquote>“It was a woman, and she was firing her gun. And I just
+      said, ‘Shooter’, and everybody started running.”<br><br><br><br>Dianna
+      Arnspiger, YouTube employee speaking to Associated Press about shooting at
+      YouTube HQ, April 3, 2018</blockquote><p>How rare is a woman
+      shooter?</p></div>
     citation: How rare is a woman shooter?
     _key: card-1-7a6eab64-b0a5-4c75-adbb-da45f57a210e
   - order: 1
     useCheckmark: false
     body: >-
-      ## What Happened
-
-
-      * Police arrived 12:48 pm pst.
-
-      * The 2nd individual police encountered had a self-inflicted gun shot
-      wound – believed to be shooter: a woman.
-
-      * 3 people wounded in total: 2 women & 1 man.
-
-      * IMPORTANT: Police had made contact with the shooter the night before…and
-      had been warned about her.
+      <div><h2>What Happened</h2><ul><li>Police arrived 12:48 pm
+      pst.</li><li>The 2nd individual police encountered had a self-inflicted
+      gun shot wound – believed to be shooter: a woman.</li><li>3 people wounded
+      in total: 2 women &amp; 1 man.</li><li>IMPORTANT: Police had made contact
+      with the shooter the night before…and had been warned about
+      her.</li></ul></div>
     _key: card-2-6246d62d-ccc1-4433-9436-982892b18858
   - order: 2
     useCheckmark: false
     body: >-
-      “The night before (the shooter) opened fire in a courtyard at YouTube’s
+      <p>“The night before (the shooter) opened fire in a courtyard at YouTube’s
       headquarters Tuesday afternoon, Mountain View police found the San Diego
       woman sleeping in her car. She had been reported missing by her family in
       Southern California, and her father Ismail Aghdam told police she might be
-      going to YouTube because she ‘hated’ the company.”  
-
-      _The Mercury News_
+      going to YouTube because she ‘hated’ the company.”<br><em>The Mercury
+      News</em></p>
     _key: card-3-c14dbacf-029c-458d-a3ea-7ab1a27753ed
   - order: 3
     useCheckmark: false
     body: >-
-      “Women commit only about 10% to 13% of homicides in the United States,
-      said Adam Lankford, a criminal justice professor and author…When women do
-      kill, they’re less likely than men to choose firearms to do it, Lankford
-      told Live Science. Only 8 percent of perpetrators of firearm homicides are
-      female, he said.”A_Live Science_
-
-
-      [Click: Full
-      Article](https://www.livescience.com/53047-why-female-mass-shooters-are-rare.html)
+      <div><p>“Women commit only about 10% to 13% of homicides in the United
+      States, said Adam Lankford, a criminal justice professor and author…When
+      women do kill, they’re less likely than men to choose firearms to do it,
+      Lankford told Live Science. Only 8 percent of perpetrators of firearm
+      homicides are female, he said.”A <em>Live Science</em></p><p><a
+      href="https://www.livescience.com/53047-why-female-mass-shooters-are-rare.html">Click:
+      Full Article</a></p></div>
     citation: 'Click: Full Article'
     _key: card-4-a921825d-ff55-4c4f-b114-874015e2b258
   - order: 4
     useCheckmark: true
     body: >-
-      1100 employees work at YouTube HQ...Why did the shooter target the
-      company? What we know so far...
-
-
-      [view sources](https://smarthernews.com/shooter-at-youtube/)
+      <div><p>1100 employees work at YouTube HQ...Why did the shooter target the
+      company? What we know so far...</p><p><a
+      href="https://smarthernews.com/shooter-at-youtube/">view
+      sources</a></p></div>
     _key: card-10-f30592b8-22a9-4ca6-8270-4cc031a97892
 
 ---

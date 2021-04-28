@@ -22,20 +22,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _"Just because something bad happened to me, doesn’t mean it has to
-      become who I am, and we can take what happened to us, and turn around and
-      do good things for others.”_
+      <div><blockquote><em>"Just because something bad happened to me, doesn’t
+      mean it has to become who I am, and we can take what happened to us, and
+      turn around and do good things for others.”
+      </em></blockquote><p></p></div>
     citation: MICHELLE L’HEUREUX
     _key: d6832c1f9e08
   - order: 1
     useCheckmark: true
     body: >-
-      L’Heureux is one of 260+ people injured during the 2013 terrorist attack
-      at the iconic Boston Marathon. 3 people died, incl. an 8-year-old boy, and
-      a MIT police officer murdered by the terrorists during the manhunt.
-      Michelle shares what she's learned about resilience in an interview w/
-      SmartHER News, including how you can honor the day by random acts of
-      kindness aka "One Boston Day."
+      <p>L’Heureux is one of 260+ people injured during the 2013 terrorist
+      attack at the iconic Boston Marathon. 3 people died, incl. an 8-year-old
+      boy, and a MIT police officer murdered by the terrorists during the
+      manhunt. Michelle shares what she's learned about resilience in an
+      interview w/ SmartHER News, including how you can honor the day by random
+      acts of kindness aka "One Boston Day."</p>
     _key: 6e53dd6754b6
 
 ---

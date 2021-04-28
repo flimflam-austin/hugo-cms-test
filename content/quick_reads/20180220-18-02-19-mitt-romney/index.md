@@ -22,101 +22,70 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “.@MittRomney has announced he is running for the Senate from the
-      wonderful State of Utah. He will make a great Senator and worthy successor
-      to @OrrinHatch, and has my full support and endorsement!”  
-        
-        
-        
-      President Trump, Twitter, Feb. 19, 2018 9:21 pm est
+      <blockquote>“.@MittRomney has announced he is running for the Senate from
+      the wonderful State of Utah. He will make a great Senator and worthy
+      successor to @OrrinHatch, and has my full support and
+      endorsement!”<br><br><br><br>President Trump, Twitter, Feb. 19, 2018 9:21
+      pm est</blockquote>
     _key: card-1-6add6ce7-593e-4f1c-b6a1-09928e55dd2e
   - order: 1
     useCheckmark: false
     body: >-
-      > “Thank you Mr. President for the support. I hope that over the course of
-      the campaign I also earn the support and endorsement of the people of
-      Utah.”  
-        
-        
-        
-      Mitt Romney, Republican candidate for Senate in Utah, Twitter, Feb 19,
-      2018 9:56 pm est
+      <blockquote>“Thank you Mr. President for the support. I hope that over the
+      course of the campaign I also earn the support and endorsement of the
+      people of Utah.”<br><br><br><br>Mitt Romney, Republican candidate for
+      Senate in Utah, Twitter, Feb 19, 2018 9:56 pm est</blockquote>
     _key: card-2-8851d379-5957-4f37-8d7b-342d04b97b33
   - order: 2
     useCheckmark: false
     body: >-
-      ## Just Under 2 Years Ago…
-
-
-      “Donald Trump is a phony, a fraud. His promises are as worthless as a
-      degree from Trump University. He’s playing the American public for
-      suckers: He gets a free ride to the White House and all we get is a lousy
-      hat.”
-
-
-      Mitt Romney, Remarks,A University of Utah’s Hinckley Institute, March 3,
-      2016
+      <div><h2>Just Under 2 Years Ago…</h2><p>“Donald Trump is a phony, a fraud.
+      His promises are as worthless as a degree from Trump University. He’s
+      playing the American public for suckers: He gets a free ride to the White
+      House and all we get is a lousy hat.”</p><p>Mitt Romney, Remarks,A
+      University of Utah’s Hinckley Institute, March 3, 2016</p></div>
     _key: card-3-e1a030c4-30a4-4be5-a3b1-c9d60db3720a
   - order: 3
     useCheckmark: false
     body: >-
-      ## Also This…
-
-
-      > “The last election should have been won, except Romney choked like a
-      dog. He choked.”  
-        
-        
-        
-      President Trump, then "candidate" during campaign speech Rome, New York,
-      April 12, 2016
+      <div><h2>Also This…</h2><blockquote>“The last election should have been
+      won, except Romney choked like a dog. He choked.”<br><br><br><br>President
+      Trump, then "candidate" during campaign speech Rome, New York, April 12,
+      2016</blockquote></div>
     _key: card-4-73831c76-e8a3-4b2c-9d7c-4ac73a7b48e1
   - order: 4
     useCheckmark: false
     body: >-
-      Fast Forward:  
-
-      Election to Endorsement
-
-
-      * President Trump & Mitt Romney dined and golfed together shortly after
-      Trump won election.
-
-      * Romney floated as potential cabinet member in Trump administration
-      (didn’t happen).
-
-      * Report: Trump encouraged Romney to run for Utah seat (_Salt Lake
-      Tribune_).
+      <div><p>Fast Forward:<br>Election to Endorsement</p><ul><li>President
+      Trump &amp; Mitt Romney dined and golfed together shortly after Trump won
+      election.</li><li>Romney floated as potential cabinet member in Trump
+      administration (didn’t happen).</li><li>Report: Trump encouraged Romney to
+      run for Utah seat (<em>Salt Lake Tribune</em>).</li></ul></div>
     _key: card-5-168edc09-bc98-4045-a5ef-8b8f2c660f2b
   - order: 5
     useCheckmark: false
     body: >-
-      # Why It Matters
-
-
-      * President Trump has repeatedly commented on wanting more Republicans in
-      Congress, in part to help the White House agenda.
-
-      * Romney has a strong chance of keeping a Senate seat held by Republican
-      Orin Hatch for 40 years (!) – “Red”.
-
-      * However, it remains a question if Romney would support President Trump’s
-      priorities.
+      <div><h1>Why It Matters</h1><ul><li>President Trump has repeatedly
+      commented on wanting more Republicans in Congress, in part to help the
+      White House agenda.</li><li>Romney has a strong chance of keeping a Senate
+      seat held by Republican Orin Hatch for 40 years (!) –
+      “Red”.</li><li>However, it remains a question if Romney would support
+      President Trump’s priorities.</li></ul></div>
     _key: card-6-af10dc8e-648a-40bb-a5c2-db1666a30856
   - order: 6
     useCheckmark: false
     body: >-
-      ## How Can A Former Gov. of Massachusetts Run for Senate in Utah?
-
-
-      * Mitt Romney moved to Utah after losing the 2012 Presidential Election.
-
-      * Utah law stipulates a Senate candidate has to be 30-years-old,**a Utah
-      resident when elected** and a citizen of the U.S. for at least 9 years.
+      <div><h2>How Can A Former Gov. of Massachusetts Run for Senate in
+      Utah?</h2><ul><li>Mitt Romney moved to Utah after losing the 2012
+      Presidential Election.</li><li>Utah law stipulates a Senate candidate has
+      to be 30-years-old, <strong>a Utah resident when elected</strong> and a
+      citizen of the U.S. for at least 9 years.</li></ul></div>
     _key: card-7-21c35c1a-256b-41ac-b73f-3614a974315c
   - order: 7
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-02-19-mitt-romney/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-02-19-mitt-romney/">view
+      sources</a></p>
     _key: card-10-51ed3013-1112-4fdf-adcd-a0ab269aa9b3
 
 ---

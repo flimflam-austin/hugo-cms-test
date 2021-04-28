@@ -22,11 +22,10 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      Want to try the best food at every ballpark -- without all the travel?
-      Find out how here.
-
-
-      [view sources](https://smarthernews.com/18-03-29-mlb-opening-day/)
+      <div><p>Want to try the best food at every ballpark -- without all the
+      travel? Find out how here.</p><p><a
+      href="https://smarthernews.com/18-03-29-mlb-opening-day/">view
+      sources</a></p></div>
     _key: card-10-dfc5e582-3b19-4f35-863c-29464406bcd5
 
 ---

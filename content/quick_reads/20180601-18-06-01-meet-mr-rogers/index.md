@@ -22,101 +22,63 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## THE REAL MR. ROGERS
-
-
-      He was a man in a cardigan who accepted you just the way you are. But how
-      much do you know about Fred Rogers?
-
-
-      A new documentary pulls back the curtain on the unlikely TV star – 50
-      years after “Neighborhood” aired.
-
-
-      Flip: the true story
+      <div><h2>THE REAL MR. ROGERS</h2><p>He was a man in a cardigan who
+      accepted you just the way you are. But how much do you know about Fred
+      Rogers?</p><p>A new documentary pulls back the curtain on the unlikely TV
+      star – 50 years after “Neighborhood” aired.</p><p>Flip: the true
+      story</p></div>
     _key: card-1-fcbd9d0e-ef7f-48bf-b450-d595141bb3b3
   - order: 1
     useCheckmark: false
     body: >-
-      ## Yes, He Was THAT Nice.
-
-
-      > _“The greatest thing we can do is show people they are loved and capable
-      of loving.”_  
-        
-
-
-      * Rogers was a Protestant minister, composer &A student of behavior.
-
-      * When the TV was introduced, he saw the need to make it a tool to help
-      children.
-
-      * Rogers responded to every fan letter – over 1 million of them.
+      <div><h2>Yes, He Was THAT Nice.</h2><blockquote><em>“The greatest thing we
+      can do is show people they are loved and capable of
+      loving.”</em><br><br></blockquote><ul><li>Rogers was a Protestant
+      minister, composer &amp;A student of behavior.</li><li>When the TV was
+      introduced, he saw the need to make it a tool to help
+      children.</li><li>Rogers responded to every fan letter – over 1 million of
+      them.</li></ul></div>
     _key: card-2-c6b095fc-8aea-4c73-a522-96c71838afb4
   - order: 2
     useCheckmark: false
     body: >-
-      ## He Worked Tirelessly.
-
-
-      > _“If we in public TV can only make it clear that feelings are
-      mentionable & manageable, we will have done a great service for mental
-      health.”_  
-        
-
-
-      * Up before 5AM, the vegetarian, who didn’t smoke or drink, would swim
-      laps before work.
-
-      * He wrote scripts, songs, created the characters & puppet voices – all of
-      which were some facet of his personality.
+      <div><h2>He Worked Tirelessly.</h2><blockquote><em>“If we in public TV can
+      only make it clear that feelings are mentionable &amp; manageable, we will
+      have done a great service for mental
+      health.”</em><br><br></blockquote><ul><li>Up before 5AM, the vegetarian,
+      who didn’t smoke or drink, would swim laps before work.</li><li>He wrote
+      scripts, songs, created the characters &amp; puppet voices – all of which
+      were some facet of his personality.</li></ul></div>
     _key: card-3-dbedbaf5-dc74-409f-a5e1-5e9cca1df3aa
   - order: 3
     useCheckmark: false
     body: >-
-      ## He Was Really Very Funny.
-
-
-      > _“I would like to do a program for people who are just about to go to
-      sleep… We’ve heard that this slow-paced voice of mine can put people to
-      sleep. So why not use it in that way?”_  
-        
-
-
-      * Loved to get a laugh telling jokes or talking in puppet voices at home.
-
-      * Monty Python fan.
+      <div><h2>He Was Really Very Funny.</h2><blockquote><em>“I would like to do
+      a program for people who are just about to go to sleep… We’ve heard that
+      this slow-paced voice of mine can put people to sleep. So why not use it
+      in that way?”</em><br><br></blockquote><ul><li>Loved to get a laugh
+      telling jokes or talking in puppet voices at home.</li><li>Monty Python
+      fan.</li></ul></div>
     _key: card-4-47fa3e49-bf36-40e2-8d22-009b9ac34153
   - order: 4
     useCheckmark: false
     body: >-
-      ## The Cardigan Was Special
-
-
-      > _“I guess that’s the best thing about things. They remind you of
-      people.”_  
-        
-
-
-      * Many of the two dozen he wore were knitted by his mother.
-
-      * He wore one every day as part of the comforting ritual that opened the
-      show.
-
-      * One is on display at the Smithsonian.
-
-
-      [Watch him tell you.](https://vimeo.com/88089113)
+      <div><h2>The Cardigan Was Special</h2><blockquote><em>“I guess that’s the
+      best thing about things. They remind you of
+      people.”</em><br><br></blockquote><ul><li>Many of the two dozen he wore
+      were knitted by his mother.</li><li>He wore one every day as part of the
+      comforting ritual that opened the show.</li><li>One is on display at the
+      Smithsonian.</li></ul><p><a href="https://vimeo.com/88089113">Watch him
+      tell you.</a></p></div>
     _key: card-5-0988c8ae-aacf-4d07-acb2-56981147343e
   - order: 5
     useCheckmark: true
     body: >-
-      The documentary "Won't You Be My Neighbor?" isn't the only upcoming movie
-      about Fred Rogers. Click to learn which Oscar winner will play Mr. Rogers
-      on the big screen.
-
-
-      [view sources](https://smarthernews.com/18-06-01-meet-mr-rogers/)
+      <div><p>The documentary "Won't You Be My Neighbor?" isn't the only
+      upcoming movie about Fred Rogers. Click to learn which Oscar winner will
+      play Mr. Rogers on the big screen.</p><p><a
+      href="https://smarthernews.com/18-06-01-meet-mr-rogers/">view
+      sources</a></p></div>
     _key: card-10-ea52e491-d175-4277-959d-91eafac5bed9
 
 ---

@@ -22,65 +22,47 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      It’s The Economy, Stupid.
-
-
-      ## …Or Is It?
-
-
-      What the primary elections before the November midterms tell us about the
-      state of politics in America. Or don’t.
-
-
-      What To Know
+      <div><p>It’s The Economy, Stupid.</p><h2>…Or Is It?</h2><p>What the
+      primary elections before the November midterms tell us about the state of
+      politics in America. Or don’t.</p><p>What To Know</p></div>
     _key: card-1-599a853d-ee5c-4c2a-a70b-9147222bf211
   - order: 1
     useCheckmark: false
     body: >-
-      ## The BIG Picture
-
-
-      * AP analysis: Important counties in swing states have not seen job
-      losses; areas that backed Clinton in 2016 have better job growth than
-      areas that voted for Pres. Trump.
-
-      * Pew Research poll raises question about whether or not jobs are the TOP
-      priority for voters during this particular midterm election.
+      <div><h2>The BIG Picture</h2><ul><li>AP analysis: Important counties in
+      swing states have not seen job losses; areas that backed Clinton in 2016
+      have better job growth than areas that voted for Pres. Trump.</li><li>Pew
+      Research poll raises question about whether or not jobs are the TOP
+      priority for voters during this particular midterm
+      election.</li></ul></div>
     _key: card-2-91cefef8-a026-42af-8a1c-c667e789b6b3
   - order: 2
     useCheckmark: false
-    body: "> “Trump is a bigger factor in midterm voting preferences a\x13 positive or negative a\x13 than any president in more than three decades. “  \n  \n  \n  \nPew Research, June 20th 2018. Polling also showed voters want to hear most from candidates about immigration, followed by health care, education, & gun laws."
+    body: "<blockquote>“Trump is a bigger factor in midterm voting preferences a\x13 positive or negative a\x13 than any president in more than three decades. “<br><br><br><br>Pew Research, June 20th 2018. Polling also showed voters want to hear most from candidates about immigration, followed by health care, education, &amp; gun laws.</blockquote>"
     _key: card-3-73258e5f-da1e-45c9-8bcf-b8ad491c3786
   - order: 3
     useCheckmark: false
     body: >-
-      ## What To Watch: Aug 7
-
-
-      * **Ohio:** Important swing state. President Trump held rally in Ohio on
-      Saturday.
-
-      * In Focus:**A special election for Congress.** Polls show a traditionally
-      Republican district with a very tight race.
-
-      * **Democrats need to flip 24 seats from R to D.** Will this be one for
-      them?
+      <div><h2>What To Watch: Aug 7</h2><ul><li><strong>Ohio:</strong> Important
+      swing state. President Trump held rally in Ohio on Saturday.</li><li>In
+      Focus: <strong>A special election for Congress.</strong> Polls show a
+      traditionally Republican district with a very tight
+      race.</li><li><strong>Democrats need to flip 24 seats from R to
+      D.</strong> Will this be one for them?</li></ul></div>
     _key: card-4-a1045314-44be-40f7-b0dc-6e193892fbdb
   - order: 4
     useCheckmark: false
-    body: "## A Bipartisan Challenge\n\n> “_Winning control of the House and Senate means**Democrats have to fight on Republican turf,** and that means talking to Romney-Clinton and Obama-Trump voters. How well they can talk to both at the same time a\x14 and**how well Republicans do among the same groups** a\x14 will determine whether we see a blue wave or another case of Democratic despair.”_ (NYT)"
+    body: "<div><h2>A Bipartisan Challenge</h2><blockquote>“<em>Winning control of the House and Senate means <strong>Democrats have to fight on Republican turf,</strong> and that means talking to Romney-Clinton and Obama-Trump voters. How well they can talk to both at the same time a\x14 and <strong>how well Republicans do among the same groups</strong> a\x14 will determine whether we see a blue wave or another case of Democratic despair.”</em> (NYT)</blockquote></div>"
     _key: card-5-d6b242e4-59d3-4f6f-99e0-30cf1ed3ea99
   - order: 5
     useCheckmark: true
     body: >-
-      AP Analysis re: midterm elections: "The proportion of people who said the
-      economy was their top priority fell to its lowest level in more than eight
-      years." SmartHER Reminder: Most polls were off in 2016. Let's see what
-      2018 brings.
-
-
-      [view
-      sources](https://smarthernews.com/18-08-07-election-day-and-the-economy/)
+      <div><p>AP Analysis re: midterm elections: "The proportion of people who
+      said the economy was their top priority fell to its lowest level in more
+      than eight years." SmartHER Reminder: Most polls were off in 2016. Let's
+      see what 2018 brings.</p><p><a
+      href="https://smarthernews.com/18-08-07-election-day-and-the-economy/">view
+      sources</a></p></div>
     _key: card-10-f13b8a31-c50a-4568-96ce-39721c4ac3fb
 
 ---

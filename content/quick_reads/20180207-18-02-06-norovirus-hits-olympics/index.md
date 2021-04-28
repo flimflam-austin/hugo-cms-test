@@ -21,21 +21,20 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # Norovirus Strikes Olympics
-
-      ## Dozens Treated on Security Staff
-
-      * 1200+ security personnel quarantined to rooms for testing.
-      * South Korea sends in military to cover security “shortfalls.”
-      * Food prep areas, food & water sources = tested
+    body: >-
+      <div><h1>Norovirus Strikes Olympics</h1><h2>Dozens Treated on Security
+      Staff</h2><ul><li>1200+ security personnel quarantined to rooms for
+      testing.</li><li>South Korea sends in military to cover security
+      “shortfalls.”</li><li>Food prep areas, food &amp; water sources =
+      tested</li></ul></div>
     _key: card-1-177e470a-a6a6-478f-a318-e51ab90e1fbd
   - order: 1
     useCheckmark: true
-    body: |-
-      Opening Ceremony: Thursday Feb 8 What is norovirus exactly?
-
-      [view sources](https://smarthernews.com/18-02-06-norovirus-hits-olympics/)
+    body: >-
+      <div><p>Opening Ceremony: Thursday Feb 8 What is norovirus
+      exactly?</p><p><a
+      href="https://smarthernews.com/18-02-06-norovirus-hits-olympics/">view
+      sources</a></p></div>
     _key: card-10-0b6bc5f7-4e4f-44de-b19e-ebf97abb7785
 
 ---

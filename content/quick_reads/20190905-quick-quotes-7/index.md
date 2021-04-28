@@ -22,86 +22,76 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “United States is prepared to engage immediately in negotiations to
-      transform U.S.-DPRK relations.”  
-        
-        
-      Secretary of State Mike Pompeo on restarting talks immediately in hopes of
+      <blockquote>“United States is prepared to engage immediately in
+      negotiations to transform U.S.-DPRK relations.”<br><br><br>Secretary of
+      State Mike Pompeo on restarting talks immediately in hopes of
       denuclearizing North Korea (DPRK) by January 2021. The announcement
-      follows a meeting between North & South Korea in which the North's Kim
-      Jong Un agreed to dismantle its nuclear site in front of U.S. &
-      international inspectors.
+      follows a meeting between North &amp; South Korea in which the North's Kim
+      Jong Un agreed to dismantle its nuclear site in front of U.S. &amp;
+      international inspectors.</blockquote>
     _key: card-1-d5295b02-be80-43d1-b734-4ad465f5bcb0
   - order: 1
     useCheckmark: false
     body: >-
-      > "When you have two 500-year floods within two years of each other, it’s
-      pretty clear it’s not a 500-year flood.”  
-        
-      North Carolina Governor Roy Cooper on the struggle of how and where to
-      rebuild after Hurricane Florence just 2 years after Hurricane Matthew. The
-      Governor says it's time to rethink the strategy & be smarter about
-      recovery. Early estimates have the damage from Florence nearing $20B, but
-      that number is expected to rise.
+      <blockquote>"When you have two 500-year floods within two years of each
+      other, it’s pretty clear it’s not a 500-year flood.”<br><br>North Carolina
+      Governor Roy Cooper on the struggle of how and where to rebuild after
+      Hurricane Florence just 2 years after Hurricane Matthew. The Governor says
+      it's time to rethink the strategy &amp; be smarter about recovery. Early
+      estimates have the damage from Florence nearing $20B, but that number is
+      expected to rise.</blockquote>
     _key: card-2-0273afb6-1476-4523-b186-ddf33328ef76
   - order: 2
     useCheckmark: false
     body: >-
-      > “I’ll be doing things over the next two weeks having to do with
-      immigration, which I think you’ll be very impressed at.”  
-        
-        
-      Pres. Trump in a wide ranging interview with The Hill newspaper,
-      suggesting more to come on immigration before the midterm elections. He
-      mentioned $1.6B used for repairs and an 80-foot stretch of border wall, as
-      well as his desire for more; the U.S. Southern Border is nearly 2000
-      miles.
+      <blockquote>“I’ll be doing things over the next two weeks having to do
+      with immigration, which I think you’ll be very impressed
+      at.”<br><br><br>Pres. Trump in a wide ranging interview with The Hill
+      newspaper, suggesting more to come on immigration before the midterm
+      elections. He mentioned $1.6B used for repairs and an 80-foot stretch of
+      border wall, as well as his desire for more; the U.S. Southern Border is
+      nearly 2000 miles.</blockquote>
     _key: card-3-d60c0dce-bdc0-44fb-a0e1-d8388b8d352e
   - order: 3
     useCheckmark: false
     body: >-
-      > “I can give you lots of reasons but they don’t matter. What matters is
-      it was my responsibility it didn’t happen and I have to be held
-      accountable for it.”  
-        
-      Dallas Mavericks owner Mark Cuban responding to the independent
-      investigation into his team, which found there was improper workplace
-      conduct, including sexual harassment & violence toward female employees.
-      Cuban will donate $10M to women's causes.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/JWXtCcDpfNU?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>“I can give you lots of reasons but they don’t matter.
+      What matters is it was my responsibility it didn’t happen and I have to be
+      held accountable for it.”<br><br>Dallas Mavericks owner Mark Cuban
+      responding to the independent investigation into his team, which found
+      there was improper workplace conduct, including sexual harassment &amp;
+      violence toward female employees. Cuban will donate $10M to women's
+      causes.</blockquote><p><a
+      href="https://www.youtube.com/embed/JWXtCcDpfNU?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-4-02df27ef-a832-44a0-8505-d1ec704f60c4
   - order: 4
     useCheckmark: false
     body: >-
-      > “When Dr. Ford came forward, I said that her voice should be heard and
-      asked the Judiciary Committee to delay its vote on Judge Kavanaugh. It did
-      so. I now implore Dr. Ford to accept the invitation for Monday, in a
-      public or private setting. The committee should hear her voice.”  
-        
-      Sen. Jeff Flake (R-AZ) on the latest attempts to move forward with the
-      accusations facing Supreme Court nominee Judge Brett Kavanaugh.
+      <blockquote>“When Dr. Ford came forward, I said that her voice should be
+      heard and asked the Judiciary Committee to delay its vote on Judge
+      Kavanaugh. It did so. I now implore Dr. Ford to accept the invitation for
+      Monday, in a public or private setting. The committee should hear her
+      voice.”<br><br>Sen. Jeff Flake (R-AZ) on the latest attempts to move
+      forward with the accusations facing Supreme Court nominee Judge Brett
+      Kavanaugh.</blockquote>
     _key: card-5-bb30a807-ca8e-477b-8c6a-dbe182ba8475
   - order: 5
     useCheckmark: false
     body: >-
-      > “Here’s why we chose her: She’s not crazy.”  
-        
-      Nancy Antrum, Miami Herald Editorial Page Editor, on the paper's
-      endorsement of Bettina Rodriguez Aguilera who is running in the Republican
-      primary for a South Florida district. Rodriguez Aguilera claims tall,
-      blond aliens kidnapped her at age 7 and took her on a spaceship. The
-      Herald says it does not believe her views or past experiences affect her
-      ability to be an effective public servant.
+      <blockquote>“Here’s why we chose her: She’s not crazy.”<br><br>Nancy
+      Antrum, Miami Herald Editorial Page Editor, on the paper's endorsement of
+      Bettina Rodriguez Aguilera who is running in the Republican primary for a
+      South Florida district. Rodriguez Aguilera claims tall, blond aliens
+      kidnapped her at age 7 and took her on a spaceship. The Herald says it
+      does not believe her views or past experiences affect her ability to be an
+      effective public servant.</blockquote>
     _key: card-6-ee7c180f-a3d0-41fc-830d-ff8d46250c44
   - order: 6
     useCheckmark: true
-    body: |-
-      Have a great day!
-
-      [view sources](https://smarthernews.com/quick-quotes-7/)
+    body: >-
+      <div><p>Have a great day!</p><p><a
+      href="https://smarthernews.com/quick-quotes-7/">view sources</a></p></div>
     _key: card-10-a61baae6-4c81-4561-adbe-a6f254f3c27f
 
 ---

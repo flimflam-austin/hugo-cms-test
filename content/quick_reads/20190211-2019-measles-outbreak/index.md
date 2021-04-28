@@ -22,100 +22,71 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # OUTBREAK
-
-
-      Nearly 20 years after measles declared “eradicated” in the United States,
-      several states report outbreaks.
-
-
-      Why Now?
+      <div><h1>OUTBREAK</h1><p>Nearly 20 years after measles declared
+      “eradicated” in the United States, several states report
+      outbreaks.</p><p>Why Now?</p></div>
     _key: card-1-91b39565-0a62-435c-b86b-3718caee08d1
   - order: 1
     useCheckmark: false
     body: >-
-      > “Measles can be so contagious that you can be in a room, and if you’re
-      susceptible, two hours after someone with measles left, and still get the
-      disease.”  
-
-      Dr. Alan Melnick, director of public health for Clark County, the site of
-      the measles outbreak in Washington state. Most of the cases are children
-      under 10. The vaccination rate for school age children is 78%, much lower
-      than recommended 90-95% to create community or herd immunity.
+      <blockquote>“Measles can be so contagious that you can be in a room, and
+      if you’re susceptible, two hours after someone with measles left, and
+      still get the disease.”<br>Dr. Alan Melnick, director of public health for
+      Clark County, the site of the measles outbreak in Washington state. Most
+      of the cases are children under 10. The vaccination rate for school age
+      children is 78%, much lower than recommended 90-95% to create community or
+      herd immunity.</blockquote>
     _key: card-2-122104cc-8d60-4d70-b30f-b74f4c001e87
   - order: 2
     useCheckmark: false
     body: >-
-      # Measles: Defined
-
-
-      * highly contagious virus spread like the common cold.
-
-      * early symptoms mimic a cold: runny nose, cough.
-
-      * unique symptoms: high fever, rash with distinct tiny red dots.
-
-      * particularly dangerous for children, can cause ear infections that lead
-      to hearing loss, brain swelling, or even death.
+      <div><h1>Measles: Defined</h1><ul><li>highly contagious virus spread like
+      the common cold.</li><li>early symptoms mimic a cold: runny nose,
+      cough.</li><li>unique symptoms: high fever, rash with distinct tiny red
+      dots.</li><li>particularly dangerous for children, can cause ear
+      infections that lead to hearing loss, brain swelling, or even
+      death.</li></ul></div>
     _key: card-3-920b7a4f-5a7d-4eb0-80b6-ae4061582961
   - order: 3
     useCheckmark: false
     body: >-
-      ## The Vaccine In America
-
-
-      * Public vaccine introduced 1968.
-
-      * 1 dose given until an outbreak among vaccinated kids occurred in 1989,
-      prompting doctors to recommend a 2nd dose.
-
-      * Current recommendation: children get their first dose of the vaccine at
-      12-15 months & then between ages of 4-6 years old.
-
-      * 1 dose = 93% effective.
-
-      * 2nd dose = 97% effective.
+      <div><h2>The Vaccine In America</h2><ul><li>Public vaccine introduced
+      1968.</li><li>1 dose given until an outbreak among vaccinated kids
+      occurred in 1989, prompting doctors to recommend a 2nd
+      dose.</li><li>Current recommendation: children get their first dose of the
+      vaccine at 12-15 months &amp; then between ages of 4-6 years
+      old.</li><li>1 dose = 93% effective.</li><li>2nd dose = 97%
+      effective.</li></ul></div>
     _key: card-4-1a6ba02a-1d98-4f68-86d8-21092657d0d0
   - order: 4
     useCheckmark: false
     body: >-
-      ## What’s Going On:
-
-
-      * **10 states** w/measles cases.
-
-      * **WA State**: declared state emergency; reportedly an international
-      traveler brought measles into a community with low vaccination rates.
-
-      * **NJ/NY**: outbreak in Orthodox Jewish community linked to international
-      travel.
-
-      * Most recent state w/cases:**Texas**.
+      <div><h2>What’s Going On:</h2><ul><li><strong>10 states</strong> w/measles
+      cases.</li><li><strong>WA State</strong>: declared state emergency;
+      reportedly an international traveler brought measles into a community with
+      low vaccination rates.</li><li><strong>NJ/NY</strong>: outbreak in
+      Orthodox Jewish community linked to international travel.</li><li>Most
+      recent state w/cases: <strong>Texas</strong>.</li></ul></div>
     _key: card-5-28e04c42-f72f-4157-b847-29fd68c4700c
   - order: 5
     useCheckmark: false
     body: >-
-      # Why Now?
-
-
-      > “These resurgences (of measles) have been attributed to various causes,
-      including**refusal to vaccinate**,**incomplete vaccination
-      series**,**waning immunity**, and**imported cases.**“  
-        
-        
-        
-      Medical researcher & author CL Ventola.
+      <div><h1>Why Now?</h1><blockquote>“These resurgences (of measles) have
+      been attributed to various causes, including <strong>refusal to
+      vaccinate</strong>, <strong>incomplete vaccination series</strong>,
+      <strong>waning immunity</strong>, and <strong>imported
+      cases.</strong>“<br><br><br><br>Medical researcher &amp; author CL
+      Ventola.</blockquote></div>
     _key: card-6-505572d7-951d-4e8f-9a20-b0bbfeb449e4
   - order: 6
     useCheckmark: true
     body: >-
-      Between 2010 - 2018, the CDC reported an average of 217 measles cases
-      every year; some years as low as 55 cases or as high as 667. So far in
-      2019, 79 cases have been reported in January alone. The states with cases:
-      CA, CO, CT, GA, IL, NJ, NY, OR, TX, & WA.
-
-
-      [view sources](https://smarthernews.com/2019-measles-outbreak/)
+      <div><p>Between 2010 - 2018, the CDC reported an average of 217 measles
+      cases every year; some years as low as 55 cases or as high as 667. So far
+      in 2019, 79 cases have been reported in January alone. The states with
+      cases: CA, CO, CT, GA, IL, NJ, NY, OR, TX, &amp; WA.</p><p><a
+      href="https://smarthernews.com/2019-measles-outbreak/">view
+      sources</a></p></div>
     _key: card-10-af6d5717-1b01-405e-81cf-319033eee198
 
 ---

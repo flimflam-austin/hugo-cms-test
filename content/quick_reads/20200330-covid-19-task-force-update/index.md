@@ -21,52 +21,48 @@ colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # White House  
-      Covid-19 Task Force
-
-      WHAT WE LEARNED TODAY
+    body: >-
+      <div><h1>White House<br>Covid-19 Task Force</h1><p>WHAT WE LEARNED
+      TODAY</p><p><br></p></div>
     _key: 85fd8c34e803
   - order: 1
     useCheckmark: false
     body: >-
-      > “Nothing would be worse than declaring victory before victory was won.”
-
-
-      President Trump on extending nationwide social distancing guidelines to
-      April 30th. The White House will present a strategy for the next several
-      weeks on Tuesday, March 31st. The President added he expects the country
-      will be "well on its way to recovery" by June 1st.
+      <div><blockquote>“Nothing would be worse than declaring victory before
+      victory was won.”</blockquote><p>President Trump on extending nationwide
+      social distancing guidelines to April 30th. The White House will present a
+      strategy for the next several weeks on Tuesday, March 31st. The President
+      added he expects the country will be "well on its way to recovery" by June
+      1st.</p></div>
     _key: 311101f3d429
   - order: 2
     useCheckmark: false
     body: >-
-      > “We really built this on scientific evidence and the ability to save
-      hundreds of thousands of lives.”
-
-
-      Dr. Deborah Birx explaining how the Task Force develops its
-      recommendations. One model showed an estimate of more than 2.2 million
-      deaths if America did NOT put public health measures in place. Another
-      model noted by Birx, considers that WITH public health measures, est.
-      deaths will top 81,000+. For context, the number of flu deaths estimated
-      so far this year is 24,000.
+      <div><blockquote>“We really built this on scientific evidence and the
+      ability to save hundreds of thousands of lives.”</blockquote><p>Dr.
+      Deborah Birx explaining how the Task Force develops its recommendations.
+      One model showed an estimate of more than 2.2 million deaths if America
+      did NOT put public health measures in place. Another model noted by Birx,
+      considers that WITH public health measures, est. deaths will top 81,000+.
+      For context, the number of flu deaths estimated so far this year is
+      24,000.</p></div>
     _key: 27df0ef7d6a5
   - order: 3
     useCheckmark: false
     body: >-
-      > “A model is as good as the assumptions you put into the model.”
-
-
-      > Dr. Anthony Fauci on the complex scientific estimates he uses to help
-      inform policies. Dr. Fauci said "instead of getting overly anxious about
-      the extremes" or worst case scenarios that models have to consider, he
-      aims to use the models to inspire policies that accomplish results better
-      than the predictions.
+      <div><blockquote>“A model is as good as the assumptions you put into the
+      model.”</blockquote><blockquote>Dr. Anthony Fauci on the complex
+      scientific estimates he uses to help inform policies. Dr. Fauci said
+      "instead of getting overly anxious about the extremes" or worst case
+      scenarios that models have to consider, he aims to use the models to
+      inspire policies that accomplish results better than the
+      predictions.</blockquote></div>
     _key: a50b2535dfea
   - order: 4
     useCheckmark: true
-    body: View one of the models used by the White House on our source page.
+    body: >-
+      <div><p>View one of the models used by the White House on our source
+      page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: d5d2bb533081
 

@@ -21,21 +21,22 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“(The spirit of political party) agitates the community with
-      ill-founded jealousies and false alarms, kindles the animosity of one part
-      against another, foments occasionally riot and insurrection…A fire not to
-      be quenched, it demands a uniform vigilance to prevent its bursting into a
-      flame, lest, instead of warming, it should consume.”_
+      <div><blockquote><em>“(The spirit of political party) agitates the
+      community with ill-founded jealousies and false alarms, kindles the
+      animosity of one part against another, foments occasionally riot and
+      insurrection…A fire not to be quenched, it demands a uniform vigilance to
+      prevent its bursting into a flame, lest, instead of warming, it should
+      consume.”</em></blockquote><p></p></div>
     citation: PRES. WASHINGTON
     _key: 2cbacb849ae7
   - order: 1
     useCheckmark: true
     body: >-
-      On George Washington's observed birthday a member of the Senate reads
-      aloud his 1796 "Farewell Address" where he warns political parties are
-      "potent engines, by which cunning, ambitious, and unprincipled men will be
-      enabled to subvert the power of the people and to usurp for themselves the
-      reins of government."
+      <div><p>On George Washington's observed birthday a member of the Senate
+      reads aloud his 1796 "Farewell Address" where he warns political parties
+      are "potent engines, by which cunning, ambitious, and unprincipled men
+      will be enabled to subvert the power of the people and to usurp for
+      themselves the reins of government."</p><p></p></div>
     citation: VIEW SOURCES
     _key: 348303f8d7f4
 

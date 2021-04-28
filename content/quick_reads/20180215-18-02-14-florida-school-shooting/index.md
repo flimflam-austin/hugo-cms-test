@@ -21,97 +21,66 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # Florida High School Shooting
-
-      17 Killed
-
-      More Than A Dozen Injured
-
-      One of the Deadliest School Shootings in American History
+    body: >-
+      <div><h1>Florida High School Shooting</h1><p>17 Killed</p><p>More Than A
+      Dozen Injured</p><p>One of the Deadliest School Shootings in American
+      History</p></div>
     _key: card-1-1c18938a-6e11-475a-85cc-08eb4e938f3f
   - order: 1
     useCheckmark: false
     body: >-
-      # Marjory Stoneman Douglas High School
-
-
-      ‘Be positive. Be passionate. Be proud to be an eagle.’
-
-
-      * Named for an environmentalist who worked to protect the Florida
-      Everglades (She died at 108).
-
-      * Grades 9-12; approximately 3,000 students in southeast Florida.
-
-      * Home to State Championship Marching Band.
+      <div><h1>Marjory Stoneman Douglas High School</h1><p>‘Be positive. Be
+      passionate. Be proud to be an eagle.’</p><ul><li>Named for an
+      environmentalist who worked to protect the Florida Everglades (She died at
+      108).</li><li>Grades 9-12; approximately 3,000 students in southeast
+      Florida.</li><li>Home to State Championship Marching Band.</li></ul></div>
     _key: card-2-1303e964-5e6a-4957-a08c-c7684864863b
   - order: 2
     useCheckmark: false
     body: >-
-      ## Former Student In Custody
-
-
-      > ‘We were told last year that he wasn’t allowed on campus with a backpack
-      on him. There were problems with him last year threatening students, and I
-      guess he was asked to leave campus.’  
-        
-        
-        
-      Jim Gard, Math Teacher, Interview With The Miami Herald (Feb 14, 2018)
+      <div><h2>Former Student In Custody</h2><blockquote>‘We were told last year
+      that he wasn’t allowed on campus with a backpack on him. There were
+      problems with him last year threatening students, and I guess he was asked
+      to leave campus.’<br><br><br><br>Jim Gard, Math Teacher, Interview With
+      The Miami Herald (Feb 14, 2018)</blockquote></div>
     _key: card-3-c8fcdc91-83ae-4ebf-8a09-33092047d857
   - order: 3
     useCheckmark: false
     body: >-
-      ## Things To Know
-
-
-      * Social Media: Reportedly suspect had photos of guns; references to
-      Allahu Akhbar – Arabic phrase for praising God.
-
-      * Initial Reports: No connection to terrorism.
-
-      * Superintendent says no recent warning of impending attack, but suspect
-      kicked out of school for unspecific “disciplinary reasons.”
+      <div><h2>Things To Know</h2><ul><li>Social Media: Reportedly suspect had
+      photos of guns; references to Allahu Akhbar – Arabic phrase for praising
+      God.</li><li>Initial Reports: No connection to
+      terrorism.</li><li>Superintendent says no recent warning of impending
+      attack, but suspect kicked out of school for unspecific “disciplinary
+      reasons.”</li></ul></div>
     _key: card-4-5e922f4c-6104-467c-989e-341b4b5280db
   - order: 4
     useCheckmark: false
     body: >-
-      Your Family & The News
-
-
-      _“Parents should also monitor how much exposure a child has to news
-      reports of traumatic events, including these recent school shootings.
-      Research has shown that some young children believe that the events
-      are**reoccurring** each time they see a television replay of the news
-      footage.”_
-
-
-      [Click HERE For
-      More](http://www.apa.org/topics/violence/school-shooting.aspx)
+      <div><p>Your Family &amp; The News</p><p><em>“Parents should also monitor
+      how much exposure a child has to news reports of traumatic events,
+      including these recent school shootings. Research has shown that some
+      young children believe that the events are <strong>reoccurring</strong>
+      each time they see a television replay of the news footage.”</em></p><p><a
+      href="http://www.apa.org/topics/violence/school-shooting.aspx">Click HERE
+      For More</a></p></div>
     _key: card-5-d541286b-4249-42a1-82d9-042b59cd50c6
   - order: 5
     useCheckmark: false
     body: >-
-      We Know This Isn’t Typical,  
-
-      But SmartHer News Isn’t Your Typical News Source
-
-
-      When one American family is harmed, we feel it more deeply than any
-      headline can convey.  
-
-      We ache for all the families devastated by this heinous act. You are in
-      our hearts, our thoughts & our prayers.
+      <div><p>We Know This Isn’t Typical,<br>But SmartHer News Isn’t Your
+      Typical News Source</p><p>When one American family is harmed, we feel it
+      more deeply than any headline can convey.<br>We ache for all the families
+      devastated by this heinous act. You are in our hearts, our thoughts &amp;
+      our prayers.</p></div>
     _key: card-6-3619d2b3-8839-4527-9d3c-a569ae7a66cc
   - order: 6
     useCheckmark: true
     body: >-
-      Local news has provided some incredible photos & reporting - Read More
-      Here:
-
-
-      [view sources](https://smarthernews.com/18-02-14-florida-school-shooting/)
+      <div><p>Local news has provided some incredible photos &amp; reporting -
+      Read More Here:</p><p><a
+      href="https://smarthernews.com/18-02-14-florida-school-shooting/">view
+      sources</a></p></div>
     _key: card-10-505081af-c9e0-4eb2-b69b-41b454fd22ea
 
 ---

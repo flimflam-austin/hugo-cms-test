@@ -22,80 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Not A Good Neighbor?
-
-
-      ## Facebook Facing Lawsuit
-
-
-      > “Facebook has abused its enormous power.”  
-        
-        
-        
-      National Fair Housing Alliance & other "fair housing" groups v. Facebook,
-      Inc. Complaint, March, 27, 2018
-
-
-      Flip For Why
+      <div><h1>Not A Good Neighbor?</h1><h2>Facebook Facing
+      Lawsuit</h2><blockquote>“Facebook has abused its enormous
+      power.”<br><br><br><br>National Fair Housing Alliance &amp; other "fair
+      housing" groups v. Facebook, Inc. Complaint, March, 27,
+      2018</blockquote><p>Flip For Why</p></div>
     citation: Flip For Why
     _key: card-1-c8aae3ea-eb13-4862-a654-affeeddfb3d9
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why is FB Being Sued?
-
-
-      * Facebook offers companies ways to advertise or “target” certain people
-      by age, gender, etc.
-
-      * Housing groups suing say this FB feature allows “landlords and real
-      estate brokers to exclude families with children, women, and other
-      protected classes of people from receiving housing ads.’
-
-      * **Bottom Line: FB is accused of enabling housing discrimination.**
+      <div><h2>Why is FB Being Sued?</h2><ul><li>Facebook offers companies ways
+      to advertise or “target” certain people by age, gender,
+      etc.</li><li>Housing groups suing say this FB feature allows “landlords
+      and real estate brokers to exclude families with children, women, and
+      other protected classes of people from receiving housing
+      ads.’</li><li><strong>Bottom Line: FB is accused of enabling housing
+      discrimination.</strong></li></ul></div>
     _key: card-2-9ec1f437-c9e4-48b5-8457-e3cfe0e53b6a
   - order: 2
     useCheckmark: false
     body: >-
-      ## A Tough Few Weeks for FB
-
-
-      * Scandal over mishandling users’ data and not protecting profile data
-      from the hands of private companies to use for their own gain. Founder
-      Mark Zuckerberg will reportedly testify before Congress on this issue.
-
-      * Stock dropped dramatically (wiping away $80B ofA market value).
-
-      * FB denies lawsuit allegations.
+      <div><h2>A Tough Few Weeks for FB</h2><ul><li>Scandal over mishandling
+      users’ data and not protecting profile data from the hands of private
+      companies to use for their own gain. Founder Mark Zuckerberg will
+      reportedly testify before Congress on this issue.</li><li>Stock dropped
+      dramatically (wiping away $80B ofA market value).</li><li>FB denies
+      lawsuit allegations.</li></ul></div>
     _key: card-3-79e69322-88d4-4248-bd47-7084e37e970e
   - order: 3
     useCheckmark: false
     body: >-
-      # Speaking of Housing…
-
-
-      Would you live INSIDE  
-
-      “Facebookville”?
-
-
-      * FB is building its own small community in California near its HQ: Willow
-      Park
-
-      * 1500 apartments – 15% for low income residents – the other 85% catered
-      towards FB employees (who receive a bonus for living near work).
+      <div><h1>Speaking of Housing…</h1><p>Would you live
+      INSIDE<br>“Facebookville”?</p><ul><li>FB is building its own small
+      community in California near its HQ: Willow Park</li><li>1500 apartments –
+      15% for low income residents – the other 85% catered towards FB employees
+      (who receive a bonus for living near work).</li></ul></div>
     _key: card-4-8e2a06df-0f12-4136-9425-186b94329149
   - order: 4
     useCheckmark: true
     body: >-
-      Like Facebook, Google plans to build a community too. So have many other
-      great American companies in the past. Does the social media component of
-      the tech companies heighten the "creep factor" of these communities? You
-      decide.
-
-
-      [view
-      sources](https://smarthernews.com/18-02-27-facebook-good-neighbor-sued/)
+      <div><p>Like Facebook, Google plans to build a community too. So have many
+      other great American companies in the past. Does the social media
+      component of the tech companies heighten the "creep factor" of these
+      communities? You decide.</p><p><a
+      href="https://smarthernews.com/18-02-27-facebook-good-neighbor-sued/">view
+      sources</a></p></div>
     _key: card-10-6f8be165-444a-42fd-851d-03bea83e34c9
 
 ---

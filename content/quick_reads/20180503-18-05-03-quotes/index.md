@@ -22,60 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # QUICK QUOTES
-
-
-      > **‘funneled… through the law firm and the President repaid it.’**  
-        
-        
-        
-      Rudy Giuliani, a member of President Trump's legal team, tells Fox NewsA
-      that Trump repaid his personal attorney Michael Cohen for a $130,000
-      payment to porn star Stormy Daniels.
+      <div><h1>QUICK QUOTES</h1><blockquote><strong>‘funneled… through the law
+      firm and the President repaid it.’</strong><br><br><br><br>Rudy Giuliani,
+      a member of President Trump's legal team, tells Fox NewsA that Trump
+      repaid his personal attorney Michael Cohen for a $130,000 payment to porn
+      star Stormy Daniels.</blockquote></div>
     _key: card-1-4e79cb96-a514-445c-9181-fc41d75c820e
   - order: 1
     useCheckmark: false
     body: >-
-      > **“It just sounded like a really loud ‘POP’ like someone throwing a rock
-      at you.”**  
-        
-        
-        
-      A Karen O'Grady, Southwest Airlines passenger on a flight from Chicago to
-      Newark, diverted safely to Cleveland after a window broke at 30,000 feet.
-      FAA is now investigating. The incident is the second in 2 weeks for
-      Southwest after a deadly engine explosion. A
+      <blockquote><strong>“It just sounded like a really loud ‘POP’ like someone
+      throwing a rock at you.”</strong><br><br><br><br>A Karen O'Grady,
+      Southwest Airlines passenger on a flight from Chicago to Newark, diverted
+      safely to Cleveland after a window broke at 30,000 feet. FAA is now
+      investigating. The incident is the second in 2 weeks for Southwest after a
+      deadly engine explosion. A</blockquote>
     _key: card-2-b5e1e3a1-7cdc-423f-aba2-70de6875b5a9
   - order: 2
     useCheckmark: false
     body: >-
-      > **‘…vilified for activities that are not only legal, but also widely
-      accepted as a standard component of online advertising in both the
-      political and commercial arenas.’**  
-        
-        
-        
-      Statement from Cambridge Analytica, announcing it will shut U.S. & U.K.
+      <blockquote><strong>‘…vilified for activities that are not only legal, but
+      also widely accepted as a standard component of online advertising in both
+      the political and commercial arenas.’</strong><br><br><br><br>Statement
+      from Cambridge Analytica, announcing it will shut U.S. &amp; U.K.
       operations after a Facebook scandal revealed it had improperly obtained
-      the personal information of millions of the social network's users.
+      the personal information of millions of the social network's
+      users.</blockquote>
     _key: card-3-dc452d9b-d556-44b9-9083-fa2b13fbc99b
   - order: 3
     useCheckmark: false
     body: >-
-      > ‘We thought long and hard about it, & we feel like this is the best way
-      to see that change that we want to see.”  
-        
-        
-        
-      Donte Robinson, one of two men arrested at a Philadelphia Starbucks last
-      month, on the pair's decision to settle with the city for a symbolic $1
-      each & a promise from officials to set up a $200,000 program for young
+      <blockquote>‘We thought long and hard about it, &amp; we feel like this is
+      the best way to see that change that we want to see.”<br><br><br><br>Donte
+      Robinson, one of two men arrested at a Philadelphia Starbucks last month,
+      on the pair's decision to settle with the city for a symbolic $1 each
+      &amp; a promise from officials to set up a $200,000 program for young
       entrepreneurs. Separately, Starbucks also reached an undisclosed financial
-      agreement with the two men.
+      agreement with the two men.</blockquote>
     _key: card-4-f57211e9-371b-4368-b9f3-a10ee7a57626
   - order: 4
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-05-03-quotes/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-05-03-quotes/">view
+      sources</a></p>
     _key: card-10-40edda46-7dbc-42d9-8be3-b06524c853e3
 
 ---

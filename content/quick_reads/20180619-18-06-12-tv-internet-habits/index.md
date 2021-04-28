@@ -22,59 +22,40 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # PHONE OR REMOTE?
-
-
-      In a first — next year, people around the world will spend**more time
-      online than watching TV.A**
-
-
-      Except in America. For now.
-
-
-      Why & Why It Matters
+      <div><h1>PHONE OR REMOTE?</h1><p>In a first — next year, people around the
+      world will spend <strong>more time online than watching
+      TV.A</strong></p><p>Except in America. For now.</p><p>Why &amp; Why It
+      Matters</p></div>
     _key: card-1-94f0c45f-d924-4029-b7bf-176abbb0b064
   - order: 1
     useCheckmark: false
     body: >-
-      ## THE FINDINGS
-
-
-      * In 2019, people around the world, will spend**170.6 mins/day online**
-      vs.A**170.3 mins/day watching TV.**
-
-      * **Change happening faster than expected:** just last year, data co.
-      Zenith predicted TV would still be #1 in 2019.
-
-      * However,**_in America,_ internet usage isn’t expected to top TV until
-      2020**. TVs prolific in 96.5% of American households.
+      <div><h2>THE FINDINGS</h2><ul><li>In 2019, people around the world, will
+      spend <strong>170.6 mins/day online</strong> vs.A <strong>170.3 mins/day
+      watching TV.</strong></li><li><strong>Change happening faster than
+      expected:</strong> just last year, data co. Zenith predicted TV would
+      still be #1 in 2019.</li><li>However, <strong><em>in America,</em>
+      internet usage isn’t expected to top TV until 2020</strong>. TVs prolific
+      in 96.5% of American households.</li></ul></div>
     _key: card-2-1962251c-81a0-4b88-b110-05044c8a2aee
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why it Matters
-
-
-      * Zenith’s findings cement the fact that**globally more people are using
-      phones** than ever before with**major economic & business ramifications**.
-
-      * In fact,**online advertisers are expected to outspend TV advertisers**
-      by $40B this year & $60B next year.
-
-
-
-
-      Can't live without?
+      <div><h2>Why it Matters</h2><ul><li>Zenith’s findings cement the fact that
+      <strong>globally more people are using phones</strong> than ever before
+      with <strong>major economic &amp; business
+      ramifications</strong>.</li><li>In fact, <strong>online advertisers are
+      expected to outspend TV advertisers</strong> by $40B this year &amp; $60B
+      next year.</li></ul><p></p><p>Can't live without?</p></div>
     _key: card-3-eccee58c-95b6-4652-8f6b-915b4b9980ed
   - order: 3
     useCheckmark: true
     body: >-
-      Earlier this year, Pew Research found about a quarter of Americans are
-      online "almost constantly." Which would be harder for you to give up: your
-      phone or TV? See what most Americans said by clicking here:
-
-
-      [view sources](https://smarthernews.com/18-06-12-tv-internet-habits/)
+      <div><p>Earlier this year, Pew Research found about a quarter of Americans
+      are online "almost constantly." Which would be harder for you to give up:
+      your phone or TV? See what most Americans said by clicking here:</p><p><a
+      href="https://smarthernews.com/18-06-12-tv-internet-habits/">view
+      sources</a></p></div>
     _key: card-10-bcce0781-65f1-4c25-8627-4edc57081eef
 
 ---

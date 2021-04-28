@@ -21,60 +21,39 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # Want To Stay Healthy?
-
-      > Put a ring on it.  
-        
-        
-        
-      New study says marriage may factor into your heart health.
-
-      If you like it...flip!
+    body: >-
+      <div><h1>Want To Stay Healthy?</h1><blockquote>Put a ring on
+      it.<br><br><br><br>New study says marriage may factor into your heart
+      health.</blockquote><p>If you like it...flip!</p></div>
     _key: card-1-91d0215c-4536-4d5a-8b22-b6f9ea0ddab1
   - order: 1
     useCheckmark: false
     body: >-
-      ## What To Know
-
-
-      * 80% of heart disease risk is “baked in” – genetics, diet, age.
-
-      * Half of all Americans have a risk for heart disease.
-
-      * 20% heart disease = a mystery.
-
-      * Study examined marriage as a factor by looking at data from previous
-      studies.
-
-      * **Data: married people have less heart disease than others.**
+      <div><h2>What To Know</h2><ul><li>80% of heart disease risk is “baked in”
+      – genetics, diet, age.</li><li>Half of all Americans have a risk for heart
+      disease.</li><li>20% heart disease = a mystery.</li><li>Study examined
+      marriage as a factor by looking at data from previous
+      studies.</li><li><strong>Data: married people have less heart disease than
+      others.</strong></li></ul></div>
     _key: card-2-a3b4da7e-f8f7-4d83-97a9-919c11f03f8b
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why Marriage?
-
-
-      Results same for married vs single, divorced OR widowed.
-
-
-      * Security: Married people may seek medical help sooner (they have someone
-      around to nag them to go to the doctors OR to see changes in behavior).
-
-      * Economic: Couples may have better joint income & therefore, better
-      healthcare.
+      <div><h2>Why Marriage?</h2><p>Results same for married vs single, divorced
+      OR widowed.</p><ul><li>Security: Married people may seek medical help
+      sooner (they have someone around to nag them to go to the doctors OR to
+      see changes in behavior).</li><li>Economic: Couples may have better joint
+      income &amp; therefore, better healthcare.</li></ul></div>
     _key: card-3-6e79478d-ad66-4182-b504-c0c417d80da5
   - order: 3
     useCheckmark: true
     body: >-
-      Researchers say this topic needs more research. They admit they did not
-      focus on the quality of marriage or long term relationships either. BTW -
-      Marriage rates have declined in America, but Tiffany's sales of engagement
-      rings are UP. Check it out:
-
-
-      [view
-      sources](https://smarthernews.com/18-06-22-heart-health-and-marriage/)
+      <div><p>Researchers say this topic needs more research. They admit they
+      did not focus on the quality of marriage or long term relationships
+      either. BTW - Marriage rates have declined in America, but Tiffany's sales
+      of engagement rings are UP. Check it out:</p><p><a
+      href="https://smarthernews.com/18-06-22-heart-health-and-marriage/">view
+      sources</a></p></div>
     _key: card-10-5f82eb8c-20fe-4aa2-bec0-96fa674daa75
 
 ---

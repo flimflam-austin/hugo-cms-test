@@ -22,87 +22,68 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > What to expect in America’s first 21st century impeachment trial against
-      a U.S. president.
-
-
-      >
+      <div><blockquote>What to expect in America’s first 21st century
+      impeachment trial against a U.S.
+      president.</blockquote><blockquote><br></blockquote></div>
     _key: a0bdccf6fbf2
   - order: 1
     useCheckmark: false
     body: >-
-      ## Quick Reminder
-
-
-      * **The House** impeached Pres. Trump on two “charges” (**abuse of power**
-      &**obstruction of congress)** related to Pres. Trump requesting Ukraine’s
-      help investigating the Biden family.
-
-      * **The Senate** will decide the punishment: whether or not the President
-      should be removed from office.
-
-      * Two presidents have been impeached (Andrew Johnson & Bill Clinton), but
-      none have been removed from office.
+      <div><h2>Quick Reminder</h2><ul><li><strong>The House</strong> impeached
+      Pres. Trump on two “charges” (<strong>abuse of power</strong> &amp;
+      <strong>obstruction of congress)</strong> related to Pres. Trump
+      requesting Ukraine’s help investigating the Biden
+      family.</li><li><strong>The Senate</strong> will decide the punishment:
+      whether or not the President should be removed from office.</li><li>Two
+      presidents have been impeached (Andrew Johnson &amp; Bill Clinton), but
+      none have been removed from office.</li></ul></div>
     _key: d5da29b614ff
   - order: 2
     useCheckmark: false
     body: >-
-      ## Impeachment Managers
-
-
-      * The House selected seven managers. Six are former lawyers, and one is a
-      former police chief.
-
-      * Managers “prosecute” the case for impeachment (show why the House voted
-      in favor of the impeachment articles) to the Senate, who act as the
-      “jury.”
-
-      * **COMPARE:** During the impeachment trial of Pres. Clinton, House
-      republicans selected 13 impeachment managers.
+      <div><h2>Impeachment Managers</h2><ul><li>The House selected seven
+      managers. Six are former lawyers, and one is a former police
+      chief.</li><li>Managers “prosecute” the case for impeachment (show why the
+      House voted in favor of the impeachment articles) to the Senate, who act
+      as the “jury.”</li><li><strong>COMPARE:</strong> During the impeachment
+      trial of Pres. Clinton, House republicans selected 13 impeachment
+      managers.</li></ul><p><br></p></div>
     _key: 43a4cc00ec95
   - order: 3
     useCheckmark: false
     body: >-
-      ## Witnesses
-
-
-      * The Senate is expected to vote on whether to allow new witnesses during
-      the trial.
-
-      * Democrats want to hear from fmr. national security adviser John Bolton &
-      acting WH chief of staff Mick Mulvaney. Republicans want the Bidens to
-      testify.
-
-      * **COMPARE:** During the Clinton trial, the Senate voted on whether to
-      allow witnesses during the trial. 3 witnesses were deposed behind closed
-      doors.
+      <div><h2>Witnesses</h2><ul><li>The Senate is expected to vote on whether
+      to allow new witnesses during the trial.</li><li>Democrats want to hear
+      from fmr. national security adviser John Bolton &amp; acting WH chief of
+      staff Mick Mulvaney. Republicans want the Bidens to
+      testify.</li><li><strong>COMPARE:</strong> During the Clinton trial, the
+      Senate voted on whether to allow witnesses during the trial. 3 witnesses
+      were deposed behind closed doors.</li></ul></div>
     _key: d42abbaaf37d
   - order: 4
     useCheckmark: false
-    body: "## Presiding Officer\n\n* Supreme Court Chief Justice John Roberts will preside over the trial, but his role is***limited* and largely ceremonial**\_as the Senate can overrule his decisions by a majority vote.\n* The Senate decides BOTH the procedures governing the trial and its outcome — whether to oust the Pres.\n* Before the trial begins, the presiding officer and every senator must take an oath to “_do impartial justice_.”"
+    body: "<div><h2>Presiding Officer</h2><ul><li>Supreme Court Chief Justice John Roberts will preside over the trial, but his role is <strong>*limited* and largely ceremonial</strong>\_as the Senate can overrule his decisions by a majority vote.</li><li>The Senate decides BOTH the procedures governing the trial and its outcome — whether to oust the Pres.</li><li>Before the trial begins, the presiding officer and every senator must take an oath to “<em>do impartial justice</em>.”</li></ul></div>"
     _key: b443ecbfa5be
   - order: 5
     useCheckmark: false
     body: >-
-      ## BIG PICTURE
-
-
-      * **The Senate impeachment trial will look like a criminal trial, but it
-      isn’t.** For example, there’s no burden of proof, or unanimous verdict
-      needed to convict.
-
-      * **Number To Know: 51**. The Senate is made up 47 Democrats (including 2
-      Independents) and 53 Republicans.**51 votes** are needed to pass (or
-      defeat) any motion.**The Democrats drove the impeachment in the House;
-      Republicans take the wheel now.**
+      <div><h2>BIG PICTURE</h2><ul><li><strong>The Senate impeachment trial will
+      look like a criminal trial, but it isn’t.</strong> For example, there’s no
+      burden of proof, or unanimous verdict needed to
+      convict.</li><li><strong>Number To Know: 51</strong>. The Senate is made
+      up 47 Democrats (including 2 Independents) and 53 Republicans. <strong>51
+      votes</strong> are needed to pass (or defeat) any motion. <strong>The
+      Democrats drove the impeachment in the House; Republicans take the wheel
+      now.</strong></li></ul></div>
     _key: 3e8c58a7c202
   - order: 6
     useCheckmark: true
     body: >-
-      What's next? The House managers will *formally* deliver the articles of
-      impeachment to the Senate on Thursday, Chief Justice Roberts will take be
-      sworn in to preside over the trial and then administer an oath to the full
-      Senate. The "trial" will begin on Tuesday.
+      <div><p>What's next? The House managers will *formally* deliver the
+      articles of impeachment to the Senate on Thursday, Chief Justice Roberts
+      will take be sworn in to preside over the trial and then administer an
+      oath to the full Senate. The "trial" will begin on
+      Tuesday.</p><p></p></div>
     citation: VIEW SOURCES
     _key: c0977e846eb8
 

@@ -22,73 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## What Does The Past Teach Us About The Current Immigration Debate?
-
-
-      Our top 3 takeaways from a conversation withA librarian and historian at
-      the Statue of Liberty National Monument and Ellis Island, Barry Moreno.
-
-
-      Flip For More
+      <div><h2>What Does The Past Teach Us About The Current Immigration
+      Debate?</h2><p>Our top 3 takeaways from a conversation withA librarian and
+      historian at the Statue of Liberty National Monument and Ellis Island,
+      Barry Moreno.</p><p>Flip For More</p></div>
     _key: card-1-43edf82d-0007-4df1-a3be-8136bc11e618
   - order: 1
     useCheckmark: false
     body: >-
-      ## “Illegal Immigration’ hasn’t ALWAYS existed.
-
-
-      There was a time in America when “illegal immigration” did not exist.
-
-
-      If you wanted to come to America, you could travel with ease.
-
-
-      After the Civil War, the Federal Government became more powerful and this
-      set the stage for more centralized immigration reform.
+      <div><h2>“Illegal Immigration’ hasn’t ALWAYS existed.</h2><p>There was a
+      time in America when “illegal immigration” did not exist.</p><p>If you
+      wanted to come to America, you could travel with ease.</p><p>After the
+      Civil War, the Federal Government became more powerful and this set the
+      stage for more centralized immigration reform.</p></div>
     _key: card-2-d65affad-9d35-4ee0-b21a-e00b39b5dc80
   - order: 2
     useCheckmark: false
     body: >-
-      ## Immigration: A State Issue
-
-
-      * Ellis Island opened in 1892
-
-      * **First federal facility** for immigration in American history.
-
-      * Symbolizes the first major move by federal govt to regulate (and profit
-      from) immigration.
-
-      * Immigration previously managed by individualA**states and cities**. In
-      fact the nation’s**first immigration center**A**ever** was in NYC –
-      “Castle Gardens.”
+      <div><h2>Immigration: A State Issue</h2><ul><li>Ellis Island opened in
+      1892</li><li><strong>First federal facility</strong> for immigration in
+      American history.</li><li>Symbolizes the first major move by federal govt
+      to regulate (and profit from) immigration.</li><li>Immigration previously
+      managed by individualA <strong>states and cities</strong>. In fact the
+      nation’s <strong>first immigration center</strong>A <strong>ever</strong>
+      was in NYC – “Castle Gardens.”</li></ul></div>
     _key: card-3-14e4be56-a787-42a1-840c-b20f3e321ae3
   - order: 3
     useCheckmark: false
     body: >-
-      ## Children: Immigration
-
-
-      * 17-year-old Annie Moore = first immigrant processed at Ellis Island in
-      Jan 1, 1892.
-
-      * Native of Ireland.
-
-      * Traveled with her 2 younger brothers to meet parents in NYC.
-
-      * If parents/child detained at Ellis Island, they stayed with their mother
-      – as long as they were under 16-yrs-old – in the women’s ward.
+      <div><h2>Children: Immigration</h2><ul><li>17-year-old Annie Moore = first
+      immigrant processed at Ellis Island in Jan 1, 1892.</li><li>Native of
+      Ireland.</li><li>Traveled with her 2 younger brothers to meet parents in
+      NYC.</li><li>If parents/child detained at Ellis Island, they stayed with
+      their mother – as long as they were under 16-yrs-old – in the women’s
+      ward.</li></ul></div>
     _key: card-4-47038bf8-ecb5-4050-b01e-132a0d188945
   - order: 4
     useCheckmark: true
     body: >-
-      We asked Mr. Moreno what historical context he feels is often missing from
-      current conversations on immigration - His answer may surprise you! Read
-      More:
-
-
-      [view
-      sources](https://smarthernews.com/18-06-23-top-things-learned-at-ellis-island/)
+      <div><p>We asked Mr. Moreno what historical context he feels is often
+      missing from current conversations on immigration - His answer may
+      surprise you! Read More:</p><p><a
+      href="https://smarthernews.com/18-06-23-top-things-learned-at-ellis-island/">view
+      sources</a></p></div>
     _key: card-10-359ce096-92d0-49d8-b0c0-5e32c38a5826
 
 ---

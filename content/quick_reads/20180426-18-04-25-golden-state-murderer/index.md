@@ -22,86 +22,53 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # KILLER CAUGHT?
-
-
-      Alleged**“Golden State Killer”****arrested** almost 2 months to the day of
-      a much-anticipated book published about his crimes.
-
-
-      DNA led to arrest onA ‘**National DNAA Day**” – *also* 15-yr anniversary
-      of theA**‘Human Genome Project’** (cutting edge research on genetics).
-
-
-      Say What? Flip!
+      <div><h1>KILLER CAUGHT?</h1><p>Alleged <strong>“Golden State
+      Killer”</strong> <strong>arrested</strong> almost 2 months to the day of a
+      much-anticipated book published about his crimes.</p><p>DNA led to arrest
+      onA ‘<strong>National DNAA Day</strong>” – *also* 15-yr anniversary of
+      theA <strong>‘Human Genome Project’</strong> (cutting edge research on
+      genetics).</p><p>Say What? Flip!</p></div>
     _key: card-1-70b18547-dd08-4026-b5aa-0282febc17f0
   - order: 1
     useCheckmark: false
     body: >-
-      ## “Golden State Killer”
-
-
-      Criminal accused of ***at least***
-
-
-      * 12 Murders
-
-      * 45 Rapes
-
-      * 120-150 Burglaries
-
-      * Spanned 1970s-1980s in California
-
-
-      **Suspect in custody:** 72-year-old former police officer arrested on 2
-      counts of murder.
-
-
-      Flip: Who Coined Name
+      <div><h2>“Golden State Killer”</h2><p>Criminal accused of *<strong>at
+      least</strong>*</p><ul><li>12 Murders</li><li>45 Rapes</li><li>120-150
+      Burglaries</li><li>Spanned 1970s-1980s in
+      California</li></ul><p><strong>Suspect in custody:</strong> 72-year-old
+      former police officer arrested on 2 counts of murder.</p><p>Flip: Who
+      Coined Name</p></div>
     _key: card-2-d87053c9-d7f6-4a25-ab0e-734b381dfa55
   - order: 2
     useCheckmark: false
     body: >-
-      Michelle NcNamara  
-
-      Writer
-
-
-      * **True Crime author**, obsessed with unsolved mystery.
-
-      * **Died in her sleep in 2016** before she could finish book.
-
-      * Death attributed to**prescription drugs she took to help her rest**
-      after working tirelessly on investigation.
-
-
-      [Click Here:
-      Book](https://www.amazon.com/Ill-Be-Gone-Dark-Obsessive/dp/0062319787/ref=sr_1_1?ie=UTF8&qid=1524707227&sr=8-1&keywords=michelle+mcnamara)
+      <div><p>Michelle NcNamara<br>Writer</p><ul><li><strong>True Crime
+      author</strong>, obsessed with unsolved mystery.</li><li><strong>Died in
+      her sleep in 2016</strong> before she could finish book.</li><li>Death
+      attributed to <strong>prescription drugs she took to help her
+      rest</strong> after working tirelessly on investigation.</li></ul><p><a
+      href="https://www.amazon.com/Ill-Be-Gone-Dark-Obsessive/dp/0062319787/ref=sr_1_1?ie=UTF8&amp;qid=1524707227&amp;sr=8-1&amp;keywords=michelle+mcnamara">Click
+      Here: Book</a></p></div>
     _key: card-3-13b4208a-6ad8-4801-a6df-5d138d1c0c65
   - order: 3
     useCheckmark: false
     body: >-
-      ## ROLE OF DNA:
-
-
-      > DNA = our genetic fingerprint  
-        
-      Police say suspect’s DNA matched 2 murders of “Golden State Killer”, but
-      we don’t know specifics or how they got a “break” in the cold case.  
-        
-      “The probability of the DNA profiles of two unrelated individuals matching
-      is onA average less than 1 in 1 billion.”A_National Geographic_
+      <div><h2>ROLE OF DNA:</h2><blockquote>DNA = our genetic
+      fingerprint<br><br>Police say suspect’s DNA matched 2 murders of “Golden
+      State Killer”, but we don’t know specifics or how they got a “break” in
+      the cold case.<br><br>“The probability of the DNA profiles of two
+      unrelated individuals matching is onA average less than 1 in 1 billion.”A
+      <em>National Geographic</em></blockquote></div>
     _key: card-4-c96db3a1-6abb-453a-8536-68bac6592a3c
   - order: 4
     useCheckmark: true
     body: >-
-      A ski mask won’t help you now.- line from Michelle NcNamara's book. Her
-      then-husband, a well-known comedian, said shortly after her death: She was
-      going to solve this crime. She didn’t want credit for it. She wanted him
-      to be locked up.
-
-
-      [view sources](https://smarthernews.com/18-04-25-golden-state-murderer/)
+      <div><p>A ski mask won’t help you now.- line from Michelle NcNamara's
+      book. Her then-husband, a well-known comedian, said shortly after her
+      death: She was going to solve this crime. She didn’t want credit for it.
+      She wanted him to be locked up.</p><p><a
+      href="https://smarthernews.com/18-04-25-golden-state-murderer/">view
+      sources</a></p></div>
     _key: card-10-3a98b083-6717-43f8-897b-324e1f03b10e
 
 ---

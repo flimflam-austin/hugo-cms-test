@@ -22,20 +22,17 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## _“This is a true American dream and we are going to bring the show of a
-      lifetime!”_
-
-
-      ##
+      <div><h2><em>“This is a true American dream and we are going to bring the
+      show of a lifetime!”</em></h2><h2></h2></div>
     citation: SHAKIRA
     _key: 7be2eab53733
   - order: 1
     useCheckmark: true
     body: >-
-      International superstars Shakira and Jennifer Lopez will headline the
-      halftime show at Sunday's Super Bowl making history becoming both the
+      <div><p>International superstars Shakira and Jennifer Lopez will headline
+      the halftime show at Sunday's Super Bowl making history becoming both the
       FIRST Latinas and the FIRST mothers (aged 43 and 51 respectively) to
-      headline the big game's big show.
+      headline the big game's big show.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 0809f24cb85e
 

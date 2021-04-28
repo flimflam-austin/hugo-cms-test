@@ -22,91 +22,63 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # IMPORTANT UPDATE:
-
-
-      ## Middle East Meddling
-
-
-      > “Diplomatically & militarily**Moscow** plays both arsonist and fire
-      fighter, fueling tensions among all parties in Syria.”
-
-
-      General John Votel, Commander, CentCom, Feb 27, 2018
+      <div><h1>IMPORTANT UPDATE:</h1><h2>Middle East
+      Meddling</h2><blockquote>“Diplomatically &amp; militarily
+      <strong>Moscow</strong> plays both arsonist and fire fighter, fueling
+      tensions among all parties in Syria.”</blockquote><p>General John Votel,
+      Commander, CentCom, Feb 27, 2018</p></div>
     _key: card-1-7aeeff65-c70f-4a1d-b2dd-926b097f100c
   - order: 1
     useCheckmark: false
     body: >-
-      ## Feb 27th Hearing
-
-
-      * CentCom**=** U.S Central Command oversees 20 Middle East nations.
-
-      * CentCom’s Commander, Army Gen. Joseph Votel, testified before House
-      Armed Services Committee.
-
-      * We took notes so you don’t have to, but it’s worth a listen – check out
-      the full hearing:
-
-
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/ssvpjWRaQq8?enablejsapi=1&autoplay=1&rel=0)
+      <div><h2>Feb 27th Hearing</h2><ul><li>CentCom <strong>=</strong> U.S
+      Central Command oversees 20 Middle East nations.</li><li>CentCom’s
+      Commander, Army Gen. Joseph Votel, testified before House Armed Services
+      Committee.</li><li>We took notes so you don’t have to, but it’s worth a
+      listen – check out the full hearing:</li></ul><p></p><p><a
+      href="https://www.youtube.com/embed/ssvpjWRaQq8?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-2-50e719e2-674d-46c8-bad9-656dd0dc81fa
   - order: 2
     useCheckmark: false
     body: >-
-      # Key Takeaways
-
-
-      * **ISIS**: Losing “physical caliphate” but pressure needs to continue.
-
-      * **Iran**: Moving dangerous missiles around the Middle East to places
-      like**Yemen**.
-
-      * **Russia**: Major mischief maker, undermining efforts inside**Syria**.
-
-      * Something to watch:**China’s** growing presence in Middle East, such as
-      a port in**Pakistan** and military base in**Djibouti** (Africa).
+      <div><h1>Key Takeaways</h1><ul><li><strong>ISIS</strong>: Losing “physical
+      caliphate” but pressure needs to continue.</li><li><strong>Iran</strong>:
+      Moving dangerous missiles around the Middle East to places like
+      <strong>Yemen</strong>.</li><li><strong>Russia</strong>: Major mischief
+      maker, undermining efforts inside
+      <strong>Syria</strong>.</li><li>Something to watch:
+      <strong>China’s</strong> growing presence in Middle East, such as a port
+      in <strong>Pakistan</strong> and military base in
+      <strong>Djibouti</strong> (Africa).</li></ul></div>
     _key: card-3-5aef646b-304a-4bff-bd53-3e9a29b1bd6a
   - order: 3
     useCheckmark: false
     body: >-
-      ## Top Priority: Iran
-
-
-      > “Make no mistake, while we continue to confront the scourge of
-      terrorism,**Iran**’s malignedA actives across the region pose long term
-      threat to stability in this part of the world.”  
-        
-        
-        
-      General Votel, Commander, CentCom, Congressional Testimony Feb 27, 2018
+      <div><h2>Top Priority: Iran</h2><blockquote>“Make no mistake, while we
+      continue to confront the scourge of terrorism, <strong>Iran</strong>’s
+      malignedA actives across the region pose long term threat to stability in
+      this part of the world.”<br><br><br><br>General Votel, Commander, CentCom,
+      Congressional Testimony Feb 27, 2018</blockquote></div>
     _key: card-4-1b04b20b-838b-4ebd-b0b5-20dfe39ebfb3
   - order: 4
     useCheckmark: false
     body: >-
-      ## Why It Matters:
-
-
-      * CentCom’s focus on Iran, despite all the major players, serves as a
-      reminder of Iran’s powerful role as an anti-American state sponsor of
-      terror.
-
-      * The Middle East impacts our national security, not only because of
-      terrorism threat, but also economically (oil markets, shipping lanes,
-      investment of military “men & materials”).
+      <div><h2>Why It Matters:</h2><ul><li>CentCom’s focus on Iran, despite all
+      the major players, serves as a reminder of Iran’s powerful role as an
+      anti-American state sponsor of terror.</li><li>The Middle East impacts our
+      national security, not only because of terrorism threat, but also
+      economically (oil markets, shipping lanes, investment of military “men
+      &amp; materials”).</li></ul></div>
     _key: card-5-298da3bb-2776-4af0-88c3-74060af3ccce
   - order: 5
     useCheckmark: true
     body: >-
-      SmartHER News quotes the "open" session available to the public; General
-      Votel also testified in a classified setting not open to the press. This
-      is normal practice, but important to mention.
-
-
-      [view sources](https://smarthernews.com/18-02-27-centcom-update/)
+      <div><p>SmartHER News quotes the "open" session available to the public;
+      General Votel also testified in a classified setting not open to the
+      press. This is normal practice, but important to mention.</p><p><a
+      href="https://smarthernews.com/18-02-27-centcom-update/">view
+      sources</a></p></div>
     _key: card-10-2159421a-fc80-43c5-bbab-722d236251d8
 
 ---

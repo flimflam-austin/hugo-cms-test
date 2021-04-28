@@ -22,71 +22,53 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # GENETIC DATA USED AGAINST YOU?
-
-
-      ## 1 in 25 Americans Have Done DNA Testing
-
-
-      Now investigators reveal aA**DNA website**A helped them track the
-      allegedA**“Golden State Killer”**A who eluded them for decades.
-
-
-      Clever detective work *or* Privacy violation?
+      <div><h1>GENETIC DATA USED AGAINST YOU?</h1><h2>1 in 25 Americans Have
+      Done DNA Testing</h2><p>Now investigators reveal aA <strong>DNA
+      website</strong>A helped them track the allegedA <strong>“Golden State
+      Killer”</strong>A who eluded them for decades.</p><p>Clever detective work
+      *or* Privacy violation?</p></div>
     _key: card-1-9bf87cc1-9a79-48dd-aca8-9201d97a5439
   - order: 1
     useCheckmark: false
     body: >-
-      # Killer “left his DNA all over the place.”A
-
-
-      FBI has DNA database, as does local police, butA**no match.**
-
-
-      Authorities submitted DNA sample from crime scene to genealogy
-      site**GEDmatch under a fake name.**
-
-
-      **DNA hits came from 3rd & 4th cousins**, *NOT* from suspect Joseph James
-      DeAngelo.
+      <div><h1>Killer “left his DNA all over the place.”A</h1><p>FBI has DNA
+      database, as does local police, butA <strong>no
+      match.</strong></p><p>Authorities submitted DNA sample from crime scene to
+      genealogy site <strong>GEDmatch under a fake
+      name.</strong></p><p><strong>DNA hits came from 3rd &amp; 4th
+      cousins</strong>, *NOT* from suspect Joseph James DeAngelo.</p></div>
     _key: card-2-efe195f2-2437-4371-9cc0-81a63741cdd0
   - order: 2
     useCheckmark: false
     body: >-
-      > Investigators said GEDmatch narrowed their search & no court order was
-      needed to access site’s database.  
-        
-      **_"Although we were not approached by law enforcement or anyone else
-      about this case or about the DNA, it has always been GEDmatch’s policy to
-      inform users that the database could be used for other uses.”_**  
-        
-      Curtis Rogers, GEDmatch Spokesman
+      <blockquote>Investigators said GEDmatch narrowed their search &amp; no
+      court order was needed to access site’s
+      database.<br><br><strong><em>"Although we were not approached by law
+      enforcement or anyone else about this case or about the DNA, it has always
+      been GEDmatch’s policy to inform users that the database could be used for
+      other uses.”</em></strong><br><br>Curtis Rogers, GEDmatch
+      Spokesman</blockquote>
     _key: card-3-b412a5d7-dab2-41fd-84e7-401e5122b127
   - order: 3
     useCheckmark: false
     body: >-
-      # SLIPPERY SLOPE
-
-
-      > “And even though it is easy to think of this technology as something
-      that is used just to track down serial killers, if we allow the government
-      to use it with no accountability or no further safeguards, then all of our
-      genetic information might be at risk for being used for things we don’t
-      want it to be used for."
-
-
-      Andrea Roth, UC Berkeley Boalt School of Law Assistant Professor
+      <div><h1>SLIPPERY SLOPE</h1><blockquote>“And even though it is easy to
+      think of this technology as something that is used just to track down
+      serial killers, if we allow the government to use it with no
+      accountability or no further safeguards, then all of our genetic
+      information might be at risk for being used for things we don’t want it to
+      be used for."</blockquote><p>Andrea Roth, UC Berkeley Boalt School of Law
+      Assistant Professor</p></div>
     _key: card-4-bc4980e9-8723-49dc-a34b-a014fe8eb33e
   - order: 4
     useCheckmark: true
     body: >-
-      Ancestry & 23andMe say they were not involved in the "Golden State Killer"
-      case. 72-year-old DeAngelo made his 1st court appearance Friday in
-      Sacramento. So far, he has been charged with 8 murders, but he is
-      suspected of a dozen killings, 45 rapes & 120+ burglaries.
-
-
-      [view sources](https://smarthernews.com/18-04-30-killer-genes/)
+      <div><p>Ancestry &amp; 23andMe say they were not involved in the "Golden
+      State Killer" case. 72-year-old DeAngelo made his 1st court appearance
+      Friday in Sacramento. So far, he has been charged with 8 murders, but he
+      is suspected of a dozen killings, 45 rapes &amp; 120+ burglaries.</p><p><a
+      href="https://smarthernews.com/18-04-30-killer-genes/">view
+      sources</a></p></div>
     _key: card-10-7ffe6ff8-6e79-4328-8adf-dade748b030c
 
 ---

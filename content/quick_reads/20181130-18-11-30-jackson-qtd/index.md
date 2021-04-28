@@ -22,20 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _"Never forget where your talent came from, that your talent is a gift
-      from God."_
+      <div><blockquote><em>"Never forget where your talent came from, that your
+      talent is a gift from God."</em></blockquote><p></p></div>
     citation: MICHAEL JACKSON
     _key: card-1-d1ce9b2b-6078-4e9f-a7ac-f6be52a79f80
   - order: 1
     useCheckmark: true
     body: >-
-      Michael Jackson recalling what Ed Sullivan told him during their first
-      meeting. On this day, in 1982, the Thriller album debuted - a worldwide
-      sensation. Only in August this year, the Eagles’ Greatest Hits topped it
-      as the best-selling album of all time.
-
-
-      [view sources](https://smarthernews.com/18-11-30-jackson-qtd/)
+      <div><p>Michael Jackson recalling what Ed Sullivan told him during their
+      first meeting. On this day, in 1982, the Thriller album debuted - a
+      worldwide sensation. Only in August this year, the Eagles’ Greatest Hits
+      topped it as the best-selling album of all time.</p><p><a
+      href="https://smarthernews.com/18-11-30-jackson-qtd/">view
+      sources</a></p></div>
     _key: card-10-4cc9fa6a-b464-4f88-a661-555802ec3527
 
 ---

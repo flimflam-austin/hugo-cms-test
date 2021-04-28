@@ -22,38 +22,28 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > A Former Cop Combines Craftmanship & Patriotism Into A “Cutting Edge”
-      Business
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/jGNTWx8CHP4?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>A Former Cop Combines Craftmanship &amp; Patriotism Into
+      A “Cutting Edge” Business</blockquote><p><a
+      href="https://www.youtube.com/embed/jGNTWx8CHP4?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-1-e9ceb909-746e-49c8-b9c9-1de43fc777f9
   - order: 1
     useCheckmark: false
     body: >-
-      # MAC Cutting Boards
-
-
-      > “**You’re stronger than you think**. Always remember, ‘if you’re the
-      smartest person in the room, you’reA in the wrong room’  
-        
-        
-      SmartHER advice from MAC Cutting Boards, founded in 2009 by Bart & Josie
-      McHale
-
-
-      Flip For More
+      <div><h1>MAC Cutting Boards</h1><blockquote>“<strong>You’re stronger than
+      you think</strong>. Always remember, ‘if you’re the smartest person in the
+      room, you’reA in the wrong room’<br><br><br>SmartHER advice from MAC
+      Cutting Boards, founded in 2009 by Bart &amp; Josie
+      McHale</blockquote><p>Flip For More</p></div>
     _key: card-2-ad7302a3-62ca-4af3-af7b-4502b06b98ee
   - order: 2
     useCheckmark: true
     body: >-
-      More from Bart & Josie, MAC Cutting Boards. Where did "MAC" come from?
-      It's a beautiful tribute! Plus, tips on living SmartHER...
-
-
-      [view
-      sources](https://smarthernews.com/18-07-02-one-minute-with-maccutting-boards/)
+      <div><p>More from Bart &amp; Josie, MAC Cutting Boards. Where did "MAC"
+      come from? It's a beautiful tribute! Plus, tips on living
+      SmartHER...</p><p><a
+      href="https://smarthernews.com/18-07-02-one-minute-with-maccutting-boards/">view
+      sources</a></p></div>
     _key: card-10-eee12947-e00f-4edd-b3e9-91ce4d119d47
 
 ---

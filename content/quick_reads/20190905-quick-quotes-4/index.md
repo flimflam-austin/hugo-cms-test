@@ -22,82 +22,69 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “Let me tell you, this one really scares me.”  
-        
-        
-      Ken Graham, National Hurricane Center Director, as Hurricane Florence is
-      set to hit the Carolinas as a Category 4 storm late Thursday. Graham, a
+      <blockquote>“Let me tell you, this one really scares me.”<br><br><br>Ken
+      Graham, National Hurricane Center Director, as Hurricane Florence is set
+      to hit the Carolinas as a Category 4 storm late Thursday. Graham, a
       24-year veteran of the National Weather Center, warned of heavy rain, high
-      wind and catastrophic life-threatening storm surge.
+      wind and catastrophic life-threatening storm surge.</blockquote>
     _key: card-1-129635b1-a011-469c-b8f0-38b745000c8e
   - order: 1
     useCheckmark: false
     body: >-
-      “The American people expect us to get our work done…. we can successfully
-      fund nearly 90% of the federal government on time … something Congress has
-      not been able to do in many years.”  
-        
-      Senate Appropriations Chairman Richard Shelby (R-AL) as Congress reaches
-      the first of 3 gov't spending packages intended to avert a federal
-      shutdown on October 1st, by postponing a funding fight over a wall at the
-      Mexico border until after the Nov. 6 elections.
+      <p>“The American people expect us to get our work done…. we can
+      successfully fund nearly 90% of the federal government on time … something
+      Congress has not been able to do in many years.”<br><br>Senate
+      Appropriations Chairman Richard Shelby (R-AL) as Congress reaches the
+      first of 3 gov't spending packages intended to avert a federal shutdown on
+      October 1st, by postponing a funding fight over a wall at the Mexico
+      border until after the Nov. 6 elections.</p>
     _key: card-2-61b9627b-eaa8-4daf-a19e-b2bbe8175533
   - order: 2
     useCheckmark: false
     body: >-
-      > “…we are open to and already in the process of coordinating.”  
-        
-        
-      White House Press Secretary Sarah Huckabee Sanders on a letter from North
-      Korea's leader Kim Jong Un to the White House requesting a second meeting
-      with President Trump. Last month, President Trump scrapped Secretary of
-      State's scheduled trip to N. Korea citing lack of progress. The June
-      meeting in Singapore cost $12M.
+      <blockquote>“…we are open to and already in the process of
+      coordinating.”<br><br><br>White House Press Secretary Sarah Huckabee
+      Sanders on a letter from North Korea's leader Kim Jong Un to the White
+      House requesting a second meeting with President Trump. Last month,
+      President Trump scrapped Secretary of State's scheduled trip to N. Korea
+      citing lack of progress. The June meeting in Singapore cost
+      $12M.</blockquote>
     _key: card-3-5bf4e429-faaa-47d4-b350-da32cc41c672
   - order: 3
     useCheckmark: false
     body: >-
-      > “What the prices are for those 3 new products … that’s going to be the
-      key.”  
-        
-        
-        
-      Robert Cihra, Guggenheim Partners analyst, on expectations Apple will
-      unveil 3 new iPhones on Wednesday based on the iPhone X design. The
-      entry-level model may cost as little as $600 in an effort to boost iPhone
-      sales, which have been flat even as Apple's stock climb has valued the
-      company at more than $1T.
+      <blockquote>“What the prices are for those 3 new products … that’s going
+      to be the key.”<br><br><br><br>Robert Cihra, Guggenheim Partners analyst,
+      on expectations Apple will unveil 3 new iPhones on Wednesday based on the
+      iPhone X design. The entry-level model may cost as little as $600 in an
+      effort to boost iPhone sales, which have been flat even as Apple's stock
+      climb has valued the company at more than $1T.</blockquote>
     _key: card-4-e5003daf-4d94-4b3f-8393-da7745c747d2
   - order: 4
     useCheckmark: false
     body: >-
-      "It is 50 times more powerful than heroin. It is very inexpensive. It is
-      coming primarily from China and coming primarily through our U.S. Postal
-      Service, if you can believe it."
-
-        
-        
-      Senator Rob Portman (R-OH) as the Senate looks to pass a bill this week to
-      stop flow of opioids through the mail. Under the bill, USPS is required to
-      track sender's name, address & package contents for nearly all int'l mail
-      shipments, including all from China. FedEx, UPS & DHL are already required
-      to do so.
+      <div><p>"It is 50 times more powerful than heroin. It is very inexpensive.
+      It is coming primarily from China and coming primarily through our U.S.
+      Postal Service, if you can believe it."</p><p><br><br>Senator Rob Portman
+      (R-OH) as the Senate looks to pass a bill this week to stop flow of
+      opioids through the mail. Under the bill, USPS is required to track
+      sender's name, address &amp; package contents for nearly all int'l mail
+      shipments, including all from China. FedEx, UPS &amp; DHL are already
+      required to do so.</p></div>
     _key: card-5-47f55155-5bbd-4086-b0ca-9df07c7cd49a
   - order: 5
     useCheckmark: false
     body: >-
-      > “She was very cooperative.”  
-        
-        
-      Brian Hale, Tuscarawas County Sheriff’s Deputy, after charging a Giant
-      Eagle grocery store employee with felony theft after she nibbled on deli
-      meat, daily for 8 years. The store's loss prevention manager calculated
-      the 3-5 slices of ham per shift was worth $9,200. Authorities say she also
-      occasionally ate salami.
+      <blockquote>“She was very cooperative.”<br><br><br>Brian Hale, Tuscarawas
+      County Sheriff’s Deputy, after charging a Giant Eagle grocery store
+      employee with felony theft after she nibbled on deli meat, daily for 8
+      years. The store's loss prevention manager calculated the 3-5 slices of
+      ham per shift was worth $9,200. Authorities say she also occasionally ate
+      salami.</blockquote>
     _key: card-6-f09a654b-1ae8-435e-848b-ed3f5d06141e
   - order: 6
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/quick-quotes-4/)'
+    body: <p><a href="https://smarthernews.com/quick-quotes-4/">view sources</a></p>
     _key: card-10-8a0c9f45-8fb7-4817-8f84-8f2ca5ce0474
 
 ---

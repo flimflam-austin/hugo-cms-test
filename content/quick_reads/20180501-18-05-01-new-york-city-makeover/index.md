@@ -22,61 +22,40 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # ‘CITY OF DREAMS’…
-
-
-      Gets Dream Makeover  
-
-      by Tiffany’s
-
-
-      Tiffany & Co. will turn a select few of New York City’s iconic yellow cabs
-      its signature robin’s egg blue.
-
-
-      And that’s not all…
-
-
-      Flip: What's Going On
+      <div><h1>‘CITY OF DREAMS’…</h1><p>Gets Dream Makeover<br>by
+      Tiffany’s</p><p>Tiffany &amp; Co. will turn a select few of New York
+      City’s iconic yellow cabs its signature robin’s egg blue.</p><p>And that’s
+      not all…</p><p>Flip: What's Going On</p></div>
     _key: card-1-16e2eefe-2ae5-43f1-bf27-9ae72f1c8e7c
   - order: 1
     useCheckmark: false
     body: >-
-      Historic Jeweler Promoting *New Collection*
-
-
-      > Inspiration for ‘**painting the town blue**‘: Holly GoLightly  
-        
-      It’s ‘_the juxtaposition of wearing a floor length gown and a tiara while
-      holding a paper bag with coffee and a pastry. …__**The idea that luxury
-      doesn’t have to be formal**_.’  
-        
-      Reed Krakoff , Tiffany & Co. Chief Artistic Officer, to Vogue
+      <div><p>Historic Jeweler Promoting *New
+      Collection*</p><blockquote>Inspiration for ‘<strong>painting the town
+      blue</strong>‘: Holly GoLightly<br><br>It’s ‘<em>the juxtaposition of
+      wearing a floor length gown and a tiara while holding a paper bag with
+      coffee and a pastry. …__<strong>The idea that luxury doesn’t have to be
+      formal</strong></em>.’<br><br>Reed Krakoff , Tiffany &amp; Co. Chief
+      Artistic Officer, to Vogue</blockquote></div>
     _key: card-2-d0b58e43-28e2-45b6-a035-14e809a95af9
   - order: 2
     useCheckmark: false
     body: >-
-      ## Not Just Taxi Cabs…
-
-
-      * Tiffany’s marketing strategy embraces the use of social media to promote
-      new products.
-
-      * Tiffany’s team handmade flowers for NYC bodegas (small corner shops) and
-      will add #TiffanyBlue to subway stairs and metro cards for new “**Paper
-      Flowers**” collection.
-
-      * Color set to disappear from NYC streets May 4th.
+      <div><h2>Not Just Taxi Cabs…</h2><ul><li>Tiffany’s marketing strategy
+      embraces the use of social media to promote new
+      products.</li><li>Tiffany’s team handmade flowers for NYC bodegas (small
+      corner shops) and will add #TiffanyBlue to subway stairs and metro cards
+      for new “<strong>Paper Flowers</strong>” collection.</li><li>Color set to
+      disappear from NYC streets May 4th.</li></ul></div>
     _key: card-3-64fedab1-a655-4cd8-b72a-992f1ab9e87f
   - order: 3
     useCheckmark: true
     body: >-
-      To bring people "in" to the project and help spread the brand (knowingly
-      or not), Tiffany created an interactive map so folks can find their new
-      pops of blue. See it here:
-
-
-      [view sources](https://smarthernews.com/18-05-01-new-york-city-makeover/)
+      <div><p>To bring people "in" to the project and help spread the brand
+      (knowingly or not), Tiffany created an interactive map so folks can find
+      their new pops of blue. See it here:</p><p><a
+      href="https://smarthernews.com/18-05-01-new-york-city-makeover/">view
+      sources</a></p></div>
     _key: card-10-d87bd772-3801-4dc5-901f-d398fbc07248
 
 ---

@@ -21,40 +21,34 @@ colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # “Lying In State”
-
-      ### Congressman John Lewis to “lie in state” at the U.S. Capitol.  
-      Here’s a look at this unique honor.
+    body: >-
+      <div><h1>“Lying In State”</h1><h3>Congressman John Lewis to “lie in state”
+      at the U.S. Capitol.<br>Here’s a look at this unique honor.</h3></div>
     _key: e02fc059d839
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      Royal tradition adopted in the U.S. Started with Sec. of State Henry Clay
-      in 1852. Today, the decision to bestow the honor is made by Congress.
-
-
-      11 U.S Presidents have lain in state: Ford, Reagan, Johnson, Eisenhower,
-      Hoover, Kennedy, Taft, Harding, McKinley, Garfield, & Lincoln.
+      <div><h2>Why It Matters</h2><p>Royal tradition adopted in the U.S. Started
+      with Sec. of State Henry Clay in 1852. Today, the decision to bestow the
+      honor is made by Congress.</p><p>11 U.S Presidents have lain in state:
+      Ford, Reagan, Johnson, Eisenhower, Hoover, Kennedy, Taft, Harding,
+      McKinley, Garfield, &amp; Lincoln.</p></div>
     _key: fdd8ac86bd88
   - order: 2
     useCheckmark: false
-    body: "## Shared Support\n\n* Catafalque:\_a frame that supports a coffin (cat-e-falk).\n* Pres. Lincoln’s catafalque from 1865 has held most of the coffins that have lain in state.\n* The catafalque has had minor restorations since 1865 (retrofitted to hold larger coffins, drapery replaced), but for the most part, it remains like the original."
+    body: "<div><h2>Shared Support</h2><ul><li>Catafalque:\_a frame that supports a coffin (cat-e-falk).</li><li>Pres. Lincoln’s catafalque from 1865 has held most of the coffins that have lain in state.</li><li>The catafalque has had minor restorations since 1865 (retrofitted to hold larger coffins, drapery replaced), but for the most part, it remains like the original.</li></ul></div>"
     _key: e5d3e02d9748
   - order: 3
     useCheckmark: false
-    body: "## “In State” vs. “In Honor”\n\nAverage citizens cannot “lie in state” as that honor is reserved for\_gov’t & military officials.\n\nHowever, eminent private citizens may “lie in honor.”\n\nTo date, only four have received the honor — including two police officers killed during an attack on the U.S. Capitol & Rev. Billy Graham."
+    body: "<div><h2>“In State” vs. “In Honor”</h2><p>Average citizens cannot “lie in state” as that honor is reserved for\_gov’t &amp; military officials.</p><p>However, eminent private citizens may “lie in honor.”</p><p>To date, only four have received the honor — including two police officers killed during an attack on the U.S. Capitol &amp; Rev. Billy Graham.</p></div>"
     _key: 51e6c477766b
   - order: 4
     useCheckmark: true
     body: >-
-      In 2005, civil rights activist Rosa Parks became the first (and only)
-      woman to "lie in honor" in the U.S. Capitol. Congressman Lewis, who passed
-      last week, is only the second African-American lawmaker to receive this
-      honor after Congressman Elijah Cummings in October.
+      <div><p>In 2005, civil rights activist Rosa Parks became the first (and
+      only) woman to "lie in honor" in the U.S. Capitol. Congressman Lewis, who
+      passed last week, is only the second African-American lawmaker to receive
+      this honor after Congressman Elijah Cummings in October.</p><p></p></div>
     citation: VIEW SOURCES
     _key: bfba33d35eec
 

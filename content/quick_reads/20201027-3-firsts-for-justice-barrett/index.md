@@ -21,53 +21,45 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## U.S. Supreme Court Justice Amy Coney Barrett
-
-      Three Historic Firsts For The 115th Justice
+    body: >-
+      <div><h2>U.S. Supreme Court Justice Amy Coney Barrett</h2><p>Three
+      Historic Firsts For The 115th Justice</p></div>
     _key: 39d6646b6304
   - order: 1
     useCheckmark: false
     body: >-
-      ## First Nominated & Confirmed Within 3 Months Before Election
-
-
-      * Justice Barrett is the only nominee ever appointed & confirmed within
-      three months prior to Election Day.
-
-      * **Sept 26:** Nomination;**Oct 12:** 1st Senate cmte hearing;**Oct 26:**
-      Final Senate vote.
-
-      * **43:** Average # of days from nomination to 1st Senate cmte
-      hearing.**70:** Average # of days from nomination to final Senate vote.
+      <div><h2>First Nominated &amp; Confirmed Within 3 Months Before
+      Election</h2><ul><li>Justice Barrett is the only nominee ever appointed
+      &amp; confirmed within three months prior to Election
+      Day.</li><li><strong>Sept 26:</strong> Nomination; <strong>Oct
+      12:</strong> 1st Senate cmte hearing; <strong>Oct 26:</strong> Final
+      Senate vote.</li><li><strong>43:</strong> Average # of days from
+      nomination to 1st Senate cmte hearing. <strong>70:</strong> Average # of
+      days from nomination to final Senate vote.</li></ul></div>
     _key: 0cda13abd5e3
   - order: 2
     useCheckmark: false
-    body: "## First Mother:  \nSchool-Aged Children\n\n* Justice Barrett is the only mother of school-aged kids to serve on the Court.\n* Justice Barrett is the**fifth woman**\_and\_**third mother** to join the Court. Justices Sandra Day O’Connor and Ruth Bader Ginsburg had older children when sworn in.\n* Justice Barrett is a mother of seven –**six of whom are under age 18.\_**Her eldest is a college student."
+    body: "<div><h2>First Mother:<br>School-Aged Children</h2><ul><li>Justice Barrett is the only mother of school-aged kids to serve on the Court.</li><li>Justice Barrett is the <strong>fifth woman</strong>\_and\_<strong>third mother</strong> to join the Court. Justices Sandra Day O’Connor and Ruth Bader Ginsburg had older children when sworn in.</li><li>Justice Barrett is a mother of seven – <strong>six of whom are under age 18.\_</strong>Her eldest is a college student.</li></ul></div>"
     _key: 3021b7a5e909
   - order: 3
     useCheckmark: false
     body: >-
-      * First From Notre Dame
-
-      * Justice Barrett is the only sitting justice who didn’t graduate from
-      either Harvard or Yale law schools.
-
-      * Justice Barrett is the only justice**ever** to graduate from**Notre Dame
-      Law School**.
-
-      * Justice Barrett is the most recent justice to graduate from a non-Ivy
-      league law school, the first since Justice John Paul Stevens, who retired
-      in 2010.
+      <ul><li><h2>First From Notre Dame</h2></li><li>Justice Barrett is the only
+      sitting justice who didn’t graduate from either Harvard or Yale law
+      schools.</li><li>Justice Barrett is the only justice <strong>ever</strong>
+      to graduate from <strong>Notre Dame Law School</strong>.</li><li>Justice
+      Barrett is the most recent justice to graduate from a non-Ivy league law
+      school, the first since Justice John Paul Stevens, who retired in
+      2010.</li></ul>
     _key: a8c44c881489
   - order: 4
     useCheckmark: true
     body: >-
-      The Senate Historical Office says this is the first time in 150 years no
-      one from the minority party voted for the majority's choice. Speaking of
-      firsts...One of the first cases that will be heard by the full (9-justice)
-      U.S. Supreme Court is a constitutional challenge to the Affordable Care
-      Act.
+      <div><p>The Senate Historical Office says this is the first time in 150
+      years no one from the minority party voted for the majority's choice.
+      Speaking of firsts...One of the first cases that will be heard by the full
+      (9-justice) U.S. Supreme Court is a constitutional challenge to the
+      Affordable Care Act.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 290f990f30e3
 

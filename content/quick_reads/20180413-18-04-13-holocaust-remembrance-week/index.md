@@ -22,76 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Holocaust Remembrance Week
-
-
-      > “The term ‘hero’ irritates me greatly…. I continue to have pangs of
-      conscience that I did so little.”  
-        
-        
-        
-      Irena Sendlerowa
+      <div><h2>Holocaust Remembrance Week</h2><blockquote>“The term ‘hero’
+      irritates me greatly…. I continue to have pangs of conscience that I did
+      so little.”<br><br><br><br>Irena Sendlerowa</blockquote></div>
     _key: card-1-c1ee33d5-dbd9-4d7c-9861-522bba95890f
   - order: 1
     useCheckmark: false
     body: >-
-      ## Sendlerowa the Savior
-
-
-      Sendlerowa & team smuggled**2500 children**, via ambulances, sewer pipes,
-      suitcases, and underground passageways in order to bring them to
-      orphanages into Warsaw’s non-Jewish areas.
-
-
-      She wrote their names on papers, which she buried in glass bottles.A The
-      bottles were dug up after WWII & used to reunite families.
+      <div><h2>Sendlerowa the Savior</h2><p>Sendlerowa &amp; team smuggled
+      <strong>2500 children</strong>, via ambulances, sewer pipes, suitcases,
+      and underground passageways in order to bring them to orphanages into
+      Warsaw’s non-Jewish areas.</p><p>She wrote their names on papers, which
+      she buried in glass bottles.A The bottles were dug up after WWII &amp;
+      used to reunite families.</p></div>
     _key: card-2-9eca0bf7-aecc-48b2-98cb-2b46218b363b
   - order: 2
     useCheckmark: false
     body: >-
-      **1943:** Sendlerowa was arrested, sentenced to death, but escaped.
-
-
-      **1965:** Israel’s Holocaust memorial organization, Yad Vashem, awarded
-      her “Righteous Among the Nations.”
-
-
-      **2003:** Poland honored Sendlerowa with the “Order of the White Eagle.”
-
-
-      **2008:** Shortly before her death, Sendlerowa was nominated for (but did
-      not win) the Nobel Peace Prize.
+      <div><p><strong>1943:</strong> Sendlerowa was arrested, sentenced to
+      death, but escaped.</p><p><strong>1965:</strong> Israel’s Holocaust
+      memorial organization, Yad Vashem, awarded her “Righteous Among the
+      Nations.”</p><p><strong>2003:</strong> Poland honored Sendlerowa with the
+      “Order of the White Eagle.”</p><p><strong>2008:</strong> Shortly before
+      her death, Sendlerowa was nominated for (but did not win) the Nobel Peace
+      Prize.</p></div>
     _key: card-3-446c345e-3b8d-4f2c-a512-917fbf31a508
   - order: 3
     useCheckmark: false
     body: >-
-      # NEVER FORGET
-
-
-      > 1 out of 10 U.S. adults & 22% of millennials have either not heard of/
-      not sure if they’ve heard of the Holocaust.  
-        
-        
-        
-      _“We are alarmed that today’s generation lacks some of the basic knowledge
-      about these atrocities.’_  
-        
-        
-        
-      Julius Berman, President of the Conference on Jewish Material Claims
-      Against Germany
+      <div><h1>NEVER FORGET</h1><blockquote>1 out of 10 U.S. adults &amp; 22% of
+      millennials have either not heard of/ not sure if they’ve heard of the
+      Holocaust.<br><br><br><br><em>“We are alarmed that today’s generation
+      lacks some of the basic knowledge about these
+      atrocities.’</em><br><br><br><br>Julius Berman, President of the
+      Conference on Jewish Material Claims Against Germany</blockquote></div>
     _key: card-4-2fa8e577-bf3d-4d1a-9ea6-3ead5f63491a
   - order: 4
     useCheckmark: true
     body: >-
-      "There remain troubling gaps in Holocaust awareness while survivors are
-      still with us; imagine when there are no longer survivors here to tell
-      their stories," Greg Schneider, EVP of the organization behind the study
-      of Holocaust awareness.
-
-
-      [view
-      sources](https://smarthernews.com/18-04-13-holocaust-remembrance-week/)
+      <div><p>"There remain troubling gaps in Holocaust awareness while
+      survivors are still with us; imagine when there are no longer survivors
+      here to tell their stories," Greg Schneider, EVP of the organization
+      behind the study of Holocaust awareness.</p><p><a
+      href="https://smarthernews.com/18-04-13-holocaust-remembrance-week/">view
+      sources</a></p></div>
     _key: card-10-52e9a305-cdfd-4019-bce2-4994d172afde
 
 ---

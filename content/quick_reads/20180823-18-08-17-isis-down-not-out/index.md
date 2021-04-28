@@ -22,88 +22,66 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # DOWN, BUT NOT OUT
-
-
-      ISIS attacks have fallen from the front pages, but the**terrorist group
-      remains a threat**, according to new reports — as**a**A**suspected ISIS
-      member is arrested in California**.
-
-
-      Why It Matters
+      <div><h1>DOWN, BUT NOT OUT</h1><p>ISIS attacks have fallen from the front
+      pages, but the <strong>terrorist group remains a threat</strong>,
+      according to new reports — as <strong>a</strong>A <strong>suspected ISIS
+      member is arrested in California</strong>.</p><p>Why It Matters</p></div>
     _key: card-1-841e69b0-dc4d-4f1b-b866-edb8408ea488
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Big Picture
-
-
-      > “**The U.S. doesn’t really know how many fighters ISIS has**, but it is
-      clearly enough to continue launching daily attacks across Iraq and Syria,
-      while also fighting in several other countries.**It is a mistake to think
-      ISIS is defeated and the US needs to ensure it doesn’t mushroom once
-      again**.”  
-        
-      Tom Joscelyn Senior Fellow, Foundation of Defense of Democracies to SHN
+      <div><h2>The Big Picture</h2><blockquote>“<strong>The U.S. doesn’t really
+      know how many fighters ISIS has</strong>, but it is clearly enough to
+      continue launching daily attacks across Iraq and Syria, while also
+      fighting in several other countries. <strong>It is a mistake to think ISIS
+      is defeated and the US needs to ensure it doesn’t mushroom once
+      again</strong>.”<br><br>Tom Joscelyn Senior Fellow, Foundation of Defense
+      of Democracies to SHN</blockquote></div>
     _key: card-2-717644ba-ff4a-41c3-94e7-99e5cf019837
   - order: 2
     useCheckmark: false
     body: >-
-      ## On America’s Shores
-
-
-      * **Suspected ISIS member** arrested Wednesday in**Sacramento** on**murder
-      charges.**
-
-      * Allegations: He killed an Iraqi police officer in 2014 & fled to
-      America,**posing as a refugee.**
-
-      * Allegedly, ties to ISIS &A Al Qaeda.
-
-      * DOJ seeking to extradite him back to Iraq.
+      <div><h2>On America’s Shores</h2><ul><li><strong>Suspected ISIS
+      member</strong> arrested Wednesday in <strong>Sacramento</strong> on
+      <strong>murder charges.</strong></li><li>Allegations: He killed an Iraqi
+      police officer in 2014 &amp; fled to America, <strong>posing as a
+      refugee.</strong></li><li>Allegedly, ties to ISIS &amp;A Al
+      Qaeda.</li><li>DOJ seeking to extradite him back to Iraq.</li></ul></div>
     _key: card-3-8389fd50-1def-496b-a366-c75e52ff2f0c
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      * **30,000:** UN & DOD estimate of ISIS fighters in Iraq & Syria alone
-
-      * Positive: America’s**military****defeat** of ISIS, & the terrorist’s
-      loss of territory in Syria.
-
-      * However, power of ISIS loyalty / ideology remains. “ISIS’ resilience”
-      mentioned in both reports;A**$2B U.S. dollars** has gone to the Iraqi
-      Security Forces to support fight vs. ISIS.
+      <div><h2>Something To Consider:</h2><ul><li><strong>30,000:</strong> UN
+      &amp; DOD estimate of ISIS fighters in Iraq &amp; Syria
+      alone</li><li>Positive: America’s <strong>military</strong>
+      <strong>defeat</strong> of ISIS, &amp; the terrorist’s loss of territory
+      in Syria.</li><li>However, power of ISIS loyalty / ideology remains.
+      “ISIS’ resilience” mentioned in both reports;A <strong>$2B U.S.
+      dollars</strong> has gone to the Iraqi Security Forces to support fight
+      vs. ISIS.</li></ul></div>
     _key: card-4-7194952a-e444-4bc9-ab51-e73480c69c99
   - order: 4
     useCheckmark: false
     body: >-
-      ## ISIS: Overseas
-
-
-      * **Tajikistan:** 2 American cyclists in an ISIS claimed attack in July.
-
-      * **Afghanistan**: ISIS bombed a school; dozens killed.
-
-      * **Iraq:** operating in smaller cells, ISIS kidnaps & plants IEDs.
-
-      * **Syria:** ISIS launched largest attack since 2017 in early June.
-      Defeated in 2 days.
-
-      * **Philippines:** ISIS fighters present.
+      <div><h2>ISIS: Overseas</h2><ul><li><strong>Tajikistan:</strong> 2
+      American cyclists in an ISIS claimed attack in
+      July.</li><li><strong>Afghanistan</strong>: ISIS bombed a school; dozens
+      killed.</li><li><strong>Iraq:</strong> operating in smaller cells, ISIS
+      kidnaps &amp; plants IEDs.</li><li><strong>Syria:</strong> ISIS launched
+      largest attack since 2017 in early June. Defeated in 2
+      days.</li><li><strong>Philippines:</strong> ISIS fighters
+      present.</li></ul></div>
     _key: card-5-363119fe-9457-4e80-b5c6-06a0597a5a6c
   - order: 5
     useCheckmark: true
     body: >-
-      Turkey, a NATO member, has both provided a gateway for ISIS fighters &
-      suffered from ISIS terrorism. America planned to work w/Turkey vs. ISIS
-      strongholds in Syria. As tension rise between U.S, & Turkey, the way
-      forward remains uncertain & Russia lurks in the background.
-
-
-      [view sources](https://smarthernews.com/18-08-17-isis-down-not-out/)
+      <div><p>Turkey, a NATO member, has both provided a gateway for ISIS
+      fighters &amp; suffered from ISIS terrorism. America planned to work
+      w/Turkey vs. ISIS strongholds in Syria. As tension rise between U.S, &amp;
+      Turkey, the way forward remains uncertain &amp; Russia lurks in the
+      background.</p><p><a
+      href="https://smarthernews.com/18-08-17-isis-down-not-out/">view
+      sources</a></p></div>
     _key: card-10-5a30a5b5-269f-4102-8a40-7020d7fada75
 
 ---

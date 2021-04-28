@@ -22,88 +22,62 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # We Have A Name…  
-
-      What’s Next?
-
-
-      > Navigating the nomination process for the next potential Supreme Court
-      Justice.
+      <div><h1>We Have A Name…<br>What’s Next?</h1><blockquote>Navigating the
+      nomination process for the next potential Supreme Court
+      Justice.</blockquote></div>
     _key: ac30244c60c7
   - order: 1
     useCheckmark: false
     body: >-
-      The Constitution says the President “_shall nominate, and by and with the
-      Advice and Consent of the Senate, shall appoint … Judges of the Supreme
-      Court…_”
-
-
-      The Constitution's Appointments Clause is silent about when nominations
-      should be made for the Supreme Court of the United States (SCOTUS) and
-      says nothing about timing of SCOTUS nominations during election years, NOR
-      qualities of a nominee - they don't even have to have a legal degree.
+      <div><p>The Constitution says the President “<em>shall nominate, and by
+      and with the Advice and Consent of the Senate, shall appoint … Judges of
+      the Supreme Court…</em>”</p><p>The Constitution's Appointments Clause is
+      silent about when nominations should be made for the Supreme Court of the
+      United States (SCOTUS) and says nothing about timing of SCOTUS nominations
+      during election years, NOR qualities of a nominee - they don't even have
+      to have a legal degree.</p></div>
     _key: cad6ee950c07
   - order: 2
     useCheckmark: false
     body: >-
-      ## STEP-BY-STEP PROCESS
-
-
-      * Senate receives Pres’s nomination.
-
-      * Senate Judiciary Committee authorizes investigation & holds public
-      hearings
-
-      * Cmte. votes whether to recommend nominee to full Senate. If votes in
-      favor, nomination goes to full Senate.
-
-      * Full Senate debates the nominee.
-
-      * 51 votes needed to stop debate and move to the vote.
-
-      * 51 votes required to confirm the nominee.
+      <div><h2>STEP-BY-STEP PROCESS</h2><ul><li>Senate receives Pres’s
+      nomination.</li><li>Senate Judiciary Committee authorizes investigation
+      &amp; holds public hearings</li><li>Cmte. votes whether to recommend
+      nominee to full Senate. If votes in favor, nomination goes to full
+      Senate.</li><li>Full Senate debates the nominee.</li><li>51 votes needed
+      to stop debate and move to the vote.</li><li>51 votes required to confirm
+      the nominee.</li></ul></div>
     _key: 9dc6aab22f79
   - order: 3
     useCheckmark: false
     body: >-
-      ## THE MATH
-
-
-      A simple majority will approve the nominee, clearing the path to the
-      court.
-
-
-      The Republicans control the Senate by a**53-47** margin.
-
-
-      Republicans can**lose up to 3 votes** and the nominee could still be
-      confirmed because Vice President Mike Pence gets the tie-breaking vote in
-      a 50-50 scenario.
+      <div><h2>THE MATH</h2><p>A simple majority will approve the nominee,
+      clearing the path to the court.</p><p>The Republicans control the Senate
+      by a <strong>53-47</strong> margin.</p><p>Republicans can <strong>lose up
+      to 3 votes</strong> and the nominee could still be confirmed because Vice
+      President Mike Pence gets the tie-breaking vote in a 50-50
+      scenario.</p></div>
     _key: e73ea2b882a0
   - order: 4
     useCheckmark: false
     body: >-
-      ## BIG PICTURE
-
-
-      * Historically,**most nominees (77%) are confirmed** regardless of the
-      party of the President or majority in the Senate (not all are confirmed by
-      a large majority).
-
-      * In recent years, the nomination process has taken**approx. 70 days**.
-
-      * If we look at the confirmation process for sitting Justices, we see
-      a**range in timelines**: Chief Justice Roberts was confirmed in 23 days.
-      Justice Clarence Thomas was confirmed in 99 days.
+      <div><h2>BIG PICTURE</h2><ul><li>Historically, <strong>most nominees (77%)
+      are confirmed</strong> regardless of the party of the President or
+      majority in the Senate (not all are confirmed by a large
+      majority).</li><li>In recent years, the nomination process has taken
+      <strong>approx. 70 days</strong>.</li><li>If we look at the confirmation
+      process for sitting Justices, we see a <strong>range in
+      timelines</strong>: Chief Justice Roberts was confirmed in 23 days.
+      Justice Clarence Thomas was confirmed in 99 days.</li></ul></div>
     _key: 83a9ce36fed1
   - order: 5
     useCheckmark: true
     body: >-
-      While many look to Election Day as a deadline for the nominee's approval,
-      the current Senate can vote anytime before the next Congress takes office
-      on January 3, 2021. That said, this is "the closest high court opening to
-      a presidential election in more than 150 years," according to The
-      Washington Post.
+      <div><p>While many look to Election Day as a deadline for the nominee's
+      approval, the current Senate can vote anytime before the next Congress
+      takes office on January 3, 2021. That said, this is "the closest high
+      court opening to a presidential election in more than 150 years,"
+      according to The Washington Post.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 75bb9bd4f89b
 

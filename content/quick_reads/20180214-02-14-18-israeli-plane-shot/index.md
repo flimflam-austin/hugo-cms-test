@@ -22,77 +22,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Important Incident
-
-
-      ## Israeli Fighter Jet Crash
-
-
-      * Israel = America’s ally
-
-      * Jet reportedly shot down by Pro-Assad forces inside Syria.
-
-      * Israel bombed sites inside Syria after Iran sent drone into Israeli
-      territory; both sides engaged.
-
-      * Two pilots survived Feb 10 crash.
-
-
-
-
-      Flip For Why It Matters
+      <div><h1>Important Incident</h1><h2>Israeli Fighter Jet
+      Crash</h2><ul><li>Israel = America’s ally</li><li>Jet reportedly shot down
+      by Pro-Assad forces inside Syria.</li><li>Israel bombed sites inside Syria
+      after Iran sent drone into Israeli territory; both sides
+      engaged.</li><li>Two pilots survived Feb 10 crash.</li></ul><p></p><p>Flip
+      For Why It Matters</p></div>
     _key: card-1-061551c9-1afd-4bd5-92c1-041a591073d3
   - order: 1
     useCheckmark: false
     body: >-
-      # Why It Matters:
-
-
-      * Iran = State sponsor of terror since 1984 and no friend of the USA.
-
-      * Iran supports Syria’s Pro-Assad forces – Syria is key territory &
-      strategic ally for Iran.
-
-      * Investigation into crash continues.
-
-      * If confirmed, this will be first time Israeli plane shot down by enemy
-      fire since 1982.
+      <div><h1>Why It Matters:</h1><ul><li>Iran = State sponsor of terror since
+      1984 and no friend of the USA.</li><li>Iran supports Syria’s Pro-Assad
+      forces – Syria is key territory &amp; strategic ally for
+      Iran.</li><li>Investigation into crash continues.</li><li>If confirmed,
+      this will be first time Israeli plane shot down by enemy fire since
+      1982.</li></ul></div>
     _key: card-2-f6da81e6-be67-4e1c-a06c-af7c338399be
   - order: 2
     useCheckmark: false
     body: >-
-      IMPORTANT:  
-
-      Within The Last Week…
-
-
-      * U.S. military, working with Anti-Assad forces inside Syria, attacked by
-      Pro-Assad forces, with Russia support.
-
-      * Russia & Iran align with Pro-Assad forces in Syria.
-
-      * U.S. responded with major bombing campaign.
+      <div><p>IMPORTANT:<br>Within The Last Week…</p><ul><li>U.S. military,
+      working with Anti-Assad forces inside Syria, attacked by Pro-Assad forces,
+      with Russia support.</li><li>Russia &amp; Iran align with Pro-Assad forces
+      in Syria.</li><li>U.S. responded with major bombing
+      campaign.</li></ul></div>
     _key: card-3-080a425e-799c-4550-a47d-4fbb27849f12
   - order: 3
     useCheckmark: false
     body: >-
-      > ‘The risks are high. There is a new Cold War prevailing in Syria and any
-      escalation could pave the way for a regional or international war given
-      the fact that the big powers are directly present on the ground…’  
-        
-        
-        
-      Samir Nadir, Levant Institue For Strategic Affairs to Washington Post
-      (2/12/18)
+      <blockquote>‘The risks are high. There is a new Cold War prevailing in
+      Syria and any escalation could pave the way for a regional or
+      international war given the fact that the big powers are directly present
+      on the ground…’<br><br><br><br>Samir Nadir, Levant Institue For Strategic
+      Affairs to Washington Post (2/12/18)</blockquote>
     _key: card-4-9999c426-85d8-4f3e-95b1-c4bb5d1773ab
   - order: 4
     useCheckmark: true
     body: >-
-      Bottom Line: Watch Syria. Conflict Continues. Tensions High. Sec of State
-      Rex Tillerson in region on unrelated trip.
-
-
-      [view sources](https://smarthernews.com/02-14-18-israeli-plane-shot/)
+      <div><p>Bottom Line: Watch Syria. Conflict Continues. Tensions High. Sec
+      of State Rex Tillerson in region on unrelated trip.</p><p><a
+      href="https://smarthernews.com/02-14-18-israeli-plane-shot/">view
+      sources</a></p></div>
     _key: card-10-5ea2b26f-6ce7-4ccc-9b30-d43009cadbb7
 
 ---

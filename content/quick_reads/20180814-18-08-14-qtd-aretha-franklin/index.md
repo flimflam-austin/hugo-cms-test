@@ -21,25 +21,21 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      > _ "What’s your beauty regime "_  
-        
-        
-        
-      _“Just cold cream_  
-      _and a good attitude.”_
+    body: >-
+      <div><blockquote><em> "What’s your beauty regime
+      "</em><br><br><br><br><em>“Just cold cream</em><br><em>and a good
+      attitude.”</em></blockquote><p></p></div>
     citation: Aretha Franklin
     _key: card-1-9059685b-d418-4b3f-81cf-201345c9cb96
   - order: 1
     useCheckmark: true
     body: >-
-      Queen of Soul Aretha Franklin became the first woman inducted into the
-      Rock & Roll Hall of Fame. Famous for songs like Respect, Franklin said she
-      didn’t think her songs would become anthems for women. According to
-      reports, Franklin is seriously ill.
-
-
-      [view sources](https://smarthernews.com/18-08-14-qtd-aretha-franklin/)
+      <div><p>Queen of Soul Aretha Franklin became the first woman inducted into
+      the Rock &amp; Roll Hall of Fame. Famous for songs like Respect, Franklin
+      said she didn’t think her songs would become anthems for women. According
+      to reports, Franklin is seriously ill.</p><p><a
+      href="https://smarthernews.com/18-08-14-qtd-aretha-franklin/">view
+      sources</a></p></div>
     _key: card-10-719b91de-ad46-49f2-9330-656e24c69a2d
 
 ---

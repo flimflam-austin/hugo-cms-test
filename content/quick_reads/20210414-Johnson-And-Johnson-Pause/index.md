@@ -22,103 +22,72 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # PAUSE
-
-
-      ### The U.S. has recommended a pause on use of the Johnson & Johnson
-      vaccine.
-
-
-      ### Here’s Why:
+      <div><h1>PAUSE </h1><h3>The U.S. has recommended a pause on use of the
+      Johnson &amp; Johnson vaccine. </h3><h3>Here’s Why:</h3></div>
     _key: 59a801b1cac1
   - order: 1
     useCheckmark: false
     body: >-
-      ## **The Basics**
-
-
-      * FDA & CDC report 6 cases of “rare and severe” blood clots in women ages
-      18-48, causing “severe stroke-like illness.”
-
-      * Symptoms: 6-13 days after dose.
-
-      * 1 case was fatal; 1 patient is in critical condition.
-
-      * Condition “very similar” to “another vaccine in Europe.”
-
-      * Officials did not name AstraZeneca, but concerns *have* surfaced about
-      blood clotting and the AstraZeneca vaccine in Europe.
+      <div><h2><strong>The Basics</strong></h2><ul><li>FDA &amp; CDC report 6
+      cases of “rare and severe” blood clots in women ages 18-48, causing
+      “severe stroke-like illness.” </li><li>Symptoms: 6-13 days after dose.
+      </li><li>1 case was fatal; 1 patient is in critical condition.
+      </li><li>Condition “very similar” to “another vaccine in Europe.”
+      </li><li>Officials did not name AstraZeneca, but concerns *have* surfaced
+      about blood clotting and the AstraZeneca vaccine in
+      Europe.</li></ul></div>
     _key: 9655b79cee22
   - order: 2
     useCheckmark: false
     body: >-
-      ## **Why Is It Happening?**
-
-
-      The FDA isn’t certain, but offered this:
-
-
-      * A focus is the adenoviral vector vaccines. The J&J vaccine uses a shell
-      of an adenovirus (called adenoviral vectors) as a “delivery vehicle” for
-      the vaccine into your body. AstraZeneca uses a similar technology.
-
-      * Doctors say that in some cases the body’s immune response to the
-      adenovirus may lead to this very rare condition.
+      <div><h2><strong>Why Is It Happening? </strong></h2><p>The FDA isn’t
+      certain, but offered this: </p><ul><li>A focus is the adenoviral vector
+      vaccines. The J&amp;J vaccine uses a shell of an adenovirus (called
+      adenoviral vectors) as a “delivery vehicle” for the vaccine into your
+      body. AstraZeneca uses a similar technology. </li><li>Doctors say that in
+      some cases the body’s immune response to the adenovirus may lead to this
+      very rare condition.</li></ul></div>
     _key: 0ca49324770f
   - order: 3
     useCheckmark: false
     body: >-
-      ## **The Risk**
-
-
-      * This condition occurred in 6 cases out of the more than 6.8 million J&J
-      doses administered (remember, J&J is a single-dose vaccine).
-
-      * If you received vaccine more than a month ago, health officials say risk
-      of developing this condition is very low.
-
-      * If you received it recently (last 3 weeks), be mindful of symptoms -
-      such as**severe** headache, abdominal pain, leg pain, & shortness of
-      breath.
+      <div><h2><strong>The Risk</strong></h2><ul><li>This condition occurred in
+      6 cases out of the more than 6.8 million J&amp;J doses administered
+      (remember, J&amp;J is a single-dose vaccine).</li><li>If you received
+      vaccine more than a month ago, health officials say risk of developing
+      this condition is very low.</li><li>If you received it recently (last 3
+      weeks), be mindful of symptoms - such as <strong>severe</strong> headache,
+      abdominal pain, leg pain, &amp; shortness of breath.</li></ul></div>
     _key: 6174d4ed8a0c
   - order: 4
     useCheckmark: false
     body: >-
-      ## **A Little Bit More**
-
-
-      ###### Right now, the condition doesn’t appear to be related to birth
-      control (birth control pills can raise risk of blood clotting) but women
-      under 50 remain the focus.
-
-
-      ###### It’s not***just*** blood clotting – it’s blood clotting WITH a
-      condition of low platelets (thrombocytopenia – which can actually cause
-      severe internal bleeding).
+      <div><h2><strong>A Little Bit More </strong></h2><h6>Right now, the
+      condition doesn’t appear to be related to birth control (birth control
+      pills can raise risk of blood clotting) but women under 50 remain the
+      focus. </h6><h6>It’s not <strong>*just*</strong> blood clotting – it’s
+      blood clotting WITH a condition of low platelets (thrombocytopenia – which
+      can actually cause severe internal bleeding).</h6></div>
     _key: 502f230ec07a
   - order: 5
     useCheckmark: false
     body: >-
-      ## **Big Picture**
-
-
-      > “We are totally aware that this is a very rare event. We want to get
-      this worked out as quickly as we possibly can. And that’s why you see the
-      word ‘pause.'"
-
-
-      White House chief medical advisor Dr. Anthony Fauci on why the FDA & CDC
-      is recommending (not mandating) the pause out of an "abundance of caution"
-      while the FDA & CDC investigate and consider next steps.
+      <div><h2><strong>Big Picture </strong></h2><blockquote>“We are totally
+      aware that this is a very rare event. We want to get this worked out as
+      quickly as we possibly can. And that’s why you see the word ‘pause.'"
+      </blockquote><p>White House chief medical advisor Dr. Anthony Fauci on why
+      the FDA &amp; CDC is recommending (not mandating) the pause out of an
+      "abundance of caution" while the FDA &amp; CDC investigate and consider
+      next steps.</p></div>
     _key: ada9b69928b4
   - order: 6
     useCheckmark: true
     body: >-
-      Typical treatment (i.e.: heparin) for blood clots can actually make this
-      condition more dangerous. The govt. says over 122 million people have
+      <p>Typical treatment (i.e.: heparin) for blood clots can actually make
+      this condition more dangerous. The govt. says over 122 million people have
       received at least one vaccine dose. Dr. Fauci says this particular type of
-      clotting condition has not been detected in connection with the Moderna &
-      Pfizer vaccines.
+      clotting condition has not been detected in connection with the Moderna
+      &amp; Pfizer vaccines.</p>
     _key: 7e759cd4665f
 
 ---

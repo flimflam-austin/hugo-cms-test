@@ -22,84 +22,58 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # SPACE FORCE
-
-
-      A new military branch for a “new battlefield’ – the White House proposes a
-      Space Force to patrol and protect ‘the next great American frontier.”
-
-
-      Wait...new battlefield?
+      <div><h1>SPACE FORCE</h1><p>A new military branch for a “new battlefield’
+      – the White House proposes a Space Force to patrol and protect ‘the next
+      great American frontier.”</p><p>Wait...new battlefield?</p></div>
     _key: card-1-a766e45a-7326-4370-9393-0ca40c12329e
   - order: 1
     useCheckmark: false
     body: >-
-      ## What is the Space Force?
-
-
-      * Proposal would create**6th branch of the military**, in addition to Air
-      Force, Army,A Coast Guard, Marine Corps, & Navy.
-
-      * Vice President Mike Pence says the new military branch**will not add
-      more personnel,** but use existing staff.
-
-      * Goal to isA**establish by 2020.**
-
-
-
-
-      Why?
+      <div><h2>What is the Space Force?</h2><ul><li>Proposal would create
+      <strong>6th branch of the military</strong>, in addition to Air Force,
+      Army,A Coast Guard, Marine Corps, &amp; Navy.</li><li>Vice President Mike
+      Pence says the new military branch <strong>will not add more
+      personnel,</strong> but use existing staff.</li><li>Goal to isA
+      <strong>establish by 2020.</strong></li></ul><p></p><p>Why?</p></div>
     _key: card-2-da87846e-8f0a-40cf-94c4-aa624f291f52
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why Do We Need It?
-
-
-      * VP detailed concerns of other nations “weaponizing space” with efforts
-      to develop satellite-killing rockets, citing threats from Russia & China.
-
-      * U.S. is increasingly dependent upon satellites. National security, TVs,
-      phones, GPS, weather prediction (i.e. agriculture), & finance (i.e.
-      swiping your credit card) are all linked to space.
+      <div><h2>Why Do We Need It?</h2><ul><li>VP detailed concerns of other
+      nations “weaponizing space” with efforts to develop satellite-killing
+      rockets, citing threats from Russia &amp; China.</li><li>U.S. is
+      increasingly dependent upon satellites. National security, TVs, phones,
+      GPS, weather prediction (i.e. agriculture), &amp; finance (i.e. swiping
+      your credit card) are all linked to space.</li></ul></div>
     _key: card-3-6c710b97-bdcc-4e08-90ef-05d0e52d2c8e
   - order: 3
     useCheckmark: false
     body: >-
-      “There is a threat out there, but it is being handled by the U.S. Air
+      <p>“There is a threat out there, but it is being handled by the U.S. Air
       Force today. It doesn’t make sense to build a whole other level of
-      bureaucracy in an already bureaucratic DOD (Department of Defense).”  
-        
-        
-      Captain Mark Kelly, retired NASA astronaut who commanded the final mission
-      of space shuttle Endeavor, referencing the Air Force Space Command at
-      Peterson Air Force base in Colorado.
+      bureaucracy in an already bureaucratic DOD (Department of
+      Defense).”<br><br><br>Captain Mark Kelly, retired NASA astronaut who
+      commanded the final mission of space shuttle Endeavor, referencing the Air
+      Force Space Command at Peterson Air Force base in Colorado.</p>
     _key: card-4-4432c6de-940c-4720-b0ea-70e4aa707df8
   - order: 4
     useCheckmark: false
     body: >-
-      ## Something to Consider
-
-
-      President Trump cannot create a Space Force without Congressional
-      approval.
-
-
-      VP mentioned the request for funding will come in the President’s next
-      budget (unveiled in February).
-
-
-      **Remember:** Congress controls purse strings & allocating taxpayer money.
+      <div><h2>Something to Consider</h2><p>President Trump cannot create a
+      Space Force without Congressional approval.</p><p>VP mentioned the request
+      for funding will come in the President’s next budget (unveiled in
+      February).</p><p><strong>Remember:</strong> Congress controls purse
+      strings &amp; allocating taxpayer money.</p></div>
     _key: card-5-d3a06368-82ba-45e2-b0d3-c8ff2d7a7c02
   - order: 5
     useCheckmark: true
     body: >-
-      VP Pence announced the Space Force because he's chairman of the National
-      Space Council - a concept created under Pres. Eisenhower that was
-      disbanded during Clinton administration. Trump ‘restarted’ it in 2017.
-
-
-      [view sources](https://smarthernews.com/18-08-08-mike-pence-space-force/)
+      <div><p>VP Pence announced the Space Force because he's chairman of the
+      National Space Council - a concept created under Pres. Eisenhower that was
+      disbanded during Clinton administration. Trump ‘restarted’ it in
+      2017.</p><p><a
+      href="https://smarthernews.com/18-08-08-mike-pence-space-force/">view
+      sources</a></p></div>
     _key: card-10-41ccc62b-e551-4b4c-9f24-09547bf5d5b9
 
 ---

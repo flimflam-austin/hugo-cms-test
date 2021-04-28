@@ -22,69 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # REALTY CHECK
-
-
-      Foreclosures – while still historically low – are rising in**nearly half
-      of U.S. housing markets.** Is it the latest sign of a broader real estate
-      slowdown?
-
-
-      Maybe...
+      <div><h1>REALTY CHECK</h1><p>Foreclosures – while still historically low –
+      are rising in <strong>nearly half of U.S. housing markets.</strong> Is it
+      the latest sign of a broader real estate
+      slowdown?</p><p>Maybe...</p></div>
     _key: card-1-1f2c0df2-9bb5-4d9b-9164-0d0da39d7f36
   - order: 1
     useCheckmark: false
     body: >-
-      ## What To Know:
-
-
-      > ‘The increase in foreclosure starts is**not just a one-month anomaly**
-      in many local markets given that July represented the third consecutive
-      month with a year-over-year increase in 33 metro areas, including Los
-      Angeles, Miami, Houston, Detroit, San Diego and Austin.”  
-        
-        
-        
-      Daren Blomquist, ATTOM Data Solutions SVP, a property data firm
+      <div><h2>What To Know:</h2><blockquote>‘The increase in foreclosure starts
+      is <strong>not just a one-month anomaly</strong> in many local markets
+      given that July represented the third consecutive month with a
+      year-over-year increase in 33 metro areas, including Los Angeles, Miami,
+      Houston, Detroit, San Diego and Austin.”<br><br><br><br>Daren Blomquist,
+      ATTOM Data Solutions SVP, a property data firm</blockquote></div>
     _key: card-2-ad8009a7-c4e8-47d8-965f-66b3d49b3db0
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why it Matters
-
-
-      The Great Recession was triggered largely by the U.S. housing bubble
-      bursting in 2007 after years of lenders giving out risky mortgages.
-
-
-      Our current lending environment has changed, but one property data company
-      says “some loosening” of lending standards has put risk back into the
-      market.
+      <div><h2>Why it Matters</h2><p>The Great Recession was triggered largely
+      by the U.S. housing bubble bursting in 2007 after years of lenders giving
+      out risky mortgages.</p><p>Our current lending environment has changed,
+      but one property data company says “some loosening” of lending standards
+      has put risk back into the market.</p></div>
     _key: card-3-8f06955a-83df-48ac-b52b-9cef7a4b4f2d
   - order: 3
     useCheckmark: false
     body: >-
-      ## Cause For Concern?
-
-
-      * **High Home Prices:** Median cost of U.S. homes was up 6.2% in June vs.
-      last year – a lower gain from the previous month.
-
-      * **Rising Mortgage Rates:** 30-year fixed 4.5% vs. 4% at start of 2018.
-
-      * **Homebuilding Slows:A** hit a 9-month low in July and has yet to
-      significantly rebound.
-
-      * **Fewer Foreign Buyers:** Overseas purchases down a record 21%.
+      <div><h2>Cause For Concern?</h2><ul><li><strong>High Home Prices:</strong>
+      Median cost of U.S. homes was up 6.2% in June vs. last year – a lower gain
+      from the previous month.</li><li><strong>Rising Mortgage Rates:</strong>
+      30-year fixed 4.5% vs. 4% at start of 2018.</li><li><strong>Homebuilding
+      Slows:A</strong> hit a 9-month low in July and has yet to significantly
+      rebound.</li><li><strong>Fewer Foreign Buyers:</strong> Overseas purchases
+      down a record 21%.</li></ul></div>
     _key: card-4-00eb6698-1f16-47b8-afdc-af917d00dc91
   - order: 4
     useCheckmark: true
     body: >-
-      Housing faces an uncertain future. A new study finds a record low
-      percentage of millennials think buying a home is a good investment.
-
-
-      [view sources](https://smarthernews.com/real-estate-slowdown/)
+      <div><p>Housing faces an uncertain future. A new study finds a record low
+      percentage of millennials think buying a home is a good
+      investment.</p><p><a
+      href="https://smarthernews.com/real-estate-slowdown/">view
+      sources</a></p></div>
     _key: card-10-3eb0c91e-967d-44f0-8336-90cbf3be23cf
 
 ---

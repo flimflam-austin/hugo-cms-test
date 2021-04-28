@@ -21,63 +21,50 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # 101 Years Ago Today
-
-      ## Congress Guaranteed Women The Right To Vote
-
-      Today, more women than men vote in U.S. elections.
+    body: >-
+      <div><h1>101 Years Ago Today</h1><h2>Congress Guaranteed Women The Right
+      To Vote</h2><p>Today, more women than men vote in U.S.
+      elections.</p></div>
     _key: 11678f1472db
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Fight To Vote
-
-
-      * The women’s voting (aka “women’s suffrage) movement began in the 1800s.
-
-      * 41 years after it was first introduced, Congress passed the 19th
-      Amendment, guaranteeing women the right to vote.
-
-      * One year, two months & two weeks later, the necessary three-fourths of
-      the states ratified the 19th Amendment.
-
-      * Wyoming was first to ratify, Tennessee was the last.
+      <div><h2>The Fight To Vote</h2><ul><li>The women’s voting (aka “women’s
+      suffrage) movement began in the 1800s.</li><li>41 years after it was first
+      introduced, Congress passed the 19th Amendment, guaranteeing women the
+      right to vote.</li><li>One year, two months &amp; two weeks later, the
+      necessary three-fourths of the states ratified the 19th
+      Amendment.</li><li>Wyoming was first to ratify, Tennessee was the
+      last.</li></ul></div>
     _key: 9e98c52c6dfd
   - order: 2
     useCheckmark: false
     body: >-
-      > “When we shall have our amendment [for woman suffrage] . . . everybody
-      will think it was always so . . . They have no idea of how every single
-      inch of ground that she stands upon today has been gained by the hard work
-      of some little handful of women of the past.”
-
-
-      American activist and women's suffrage pioneer Susan B. Anthony in 1894.
+      <div><blockquote>“When we shall have our amendment [for woman suffrage] .
+      . . everybody will think it was always so . . . They have no idea of how
+      every single inch of ground that she stands upon today has been gained by
+      the hard work of some little handful of women of the
+      past.”</blockquote><p>American activist and women's suffrage pioneer Susan
+      B. Anthony in 1894.</p></div>
     _key: 1fee69a4d5c8
   - order: 3
     useCheckmark: false
     body: >-
-      ## The Female Vote
-
-
-      * Women have voted at**higher rates** than men in every presidential
-      election since 1980 & every midterm election since 1998.
-
-      * 56% of women (vs. 44% of men) identify with, or lean toward,
-      the**Democratic Party**.
-
-      * 2016: Hillary Clinton won more female voters, but Pres. Trump won
-      the**white female vote – the largest female voting block,** helping to
-      secure his victory.
+      <div><h2>The Female Vote</h2><ul><li>Women have voted at <strong>higher
+      rates</strong> than men in every presidential election since 1980 &amp;
+      every midterm election since 1998.</li><li>56% of women (vs. 44% of men)
+      identify with, or lean toward, the <strong>Democratic
+      Party</strong>.</li><li>2016: Hillary Clinton won more female voters, but
+      Pres. Trump won the <strong>white female vote – the largest female voting
+      block,</strong> helping to secure his victory.</li></ul></div>
     _key: f9f767ad4b03
   - order: 4
     useCheckmark: true
     body: >-
-      While the 19th amendment granted women the right to vote in 1920, The
-      Voters Rights act, ending discriminatory practices (ex: literacy tests)
-      that discouraged or prevented Black Americans from voting, wasn't passed
-      until 1965
+      <div><p>While the 19th amendment granted women the right to vote in 1920,
+      The Voters Rights act, ending discriminatory practices (ex: literacy
+      tests) that discouraged or prevented Black Americans from voting, wasn't
+      passed until 1965</p><p></p></div>
     citation: VIEW SOURCES
     _key: 4550e17cac65
 

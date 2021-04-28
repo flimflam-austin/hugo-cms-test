@@ -22,53 +22,46 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "It’s been quite a ride."  
-        
-        
-        
-      Don Henley, drummer and lead singer of The Eagles on the band's album,
-      Their Greatest Hits (1971-1975), surpassing Michael Jackson's Thriller as
-      the biggest selling album of all time. The two albums have often switched
-      #1 and #2 spots over the years.
+      <blockquote>"It’s been quite a ride."<br><br><br><br>Don Henley, drummer
+      and lead singer of The Eagles on the band's album, Their Greatest Hits
+      (1971-1975), surpassing Michael Jackson's Thriller as the biggest selling
+      album of all time. The two albums have often switched #1 and #2 spots over
+      the years.</blockquote>
     _key: card-1-4b6e3e8d-6e24-4ea7-9dc4-ce331fead6f4
   - order: 1
     useCheckmark: false
     body: >-
-      > “In my time covering races professionally, I’ve never observed this
-      little overlap between the battlegrounds of high-stakes Senate and House
-      races.”  
-        
-      David Wasserman, House editor for The Cook Political Report, who argues
-      the midterms are a tale of 2 races - the Senate seats are in rural, red
-      states; the House seats in swing states. Feeling out of the loop on the
-      midterms? This piece on our source page is worth a read.
+      <blockquote>“In my time covering races professionally, I’ve never observed
+      this little overlap between the battlegrounds of high-stakes Senate and
+      House races.”<br><br>David Wasserman, House editor for The Cook Political
+      Report, who argues the midterms are a tale of 2 races - the Senate seats
+      are in rural, red states; the House seats in swing states. Feeling out of
+      the loop on the midterms? This piece on our source page is worth a
+      read.</blockquote>
     _key: card-2-4c295259-a940-482a-b86a-758fd56a07be
   - order: 2
     useCheckmark: false
     body: >-
-      > "We showed no care for the little ones; we abandoned them."  
-        
-        
-      Pope Francis, in a first of its kind open letter to the world's Catholics,
-      addressing the ongoing sex abuse scandal roiling the church. A newly
-      released grand jury report in Pennsylvania exposed the church's coverup
-      for hundreds of victims and priests.
+      <blockquote>"We showed no care for the little ones; we abandoned
+      them."<br><br><br>Pope Francis, in a first of its kind open letter to the
+      world's Catholics, addressing the ongoing sex abuse scandal roiling the
+      church. A newly released grand jury report in Pennsylvania exposed the
+      church's coverup for hundreds of victims and priests.</blockquote>
     _key: card-3-2594c41f-9558-4959-8ec0-e7231ba4b91a
   - order: 3
     useCheckmark: false
     body: >-
-      > "…we know it was made mostly from sheep’s and goat’s milk, but for me,
-      it’s really hard to imagine a specific flavor."  
-        
-        
-        
-      Dr. Enrico Greco, Italian researcher who says his team found probably the
-      most ancient archaeological solid residue of cheese ever found to date in
-      an Egyptian tomb from approx. 3,200 yrs ago.
+      <blockquote>"…we know it was made mostly from sheep’s and goat’s milk, but
+      for me, it’s really hard to imagine a specific flavor."<br><br><br><br>Dr.
+      Enrico Greco, Italian researcher who says his team found probably the most
+      ancient archaeological solid residue of cheese ever found to date in an
+      Egyptian tomb from approx. 3,200 yrs ago.</blockquote>
     _key: card-4-9c5a438a-fd26-4539-97fa-0ab15f9ed18e
   - order: 4
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-08-19-quick-quotes/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-08-19-quick-quotes/">view
+      sources</a></p>
     _key: card-10-de754dde-54cb-44c2-914e-2afffdb5e3f7
 
 ---

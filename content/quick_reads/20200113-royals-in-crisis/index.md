@@ -22,104 +22,74 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## THE CROWN IN CRISIS?
-
-
-      > A 300+year old monarchy that remains one of the few of its kind in the
-      world  
-        
-      Are we witnessing a moment that will change it forever?
+      <div><h2>THE CROWN IN CRISIS?</h2><blockquote>A 300+year old monarchy that
+      remains one of the few of its kind in the world<br><br>Are we witnessing a
+      moment that will change it forever?</blockquote></div>
     _key: 7f29eab51870
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      The United Kingdom is one of the few surviving**constitutional monarchies
-      on the planet.**
-
-
-      Constitutional monarchy: royals share their mostly symbolic power with
-      elected officials who legislate.
-
-
-      Others include Belgium, Spain, Sweden, and Thailand.
+      <div><h2>Why It Matters</h2><p>The United Kingdom is one of the few
+      surviving <strong>constitutional monarchies on the
+      planet.</strong></p><p>Constitutional monarchy: royals share their mostly
+      symbolic power with elected officials who legislate.</p><p>Others include
+      Belgium, Spain, Sweden, and Thailand.</p></div>
     _key: b6a999a3fb26
   - order: 2
     useCheckmark: false
     body: >-
-      ## The Stakes
-
-
-      The Duke & Duchess of Sussex, Prince Harry & Meghan Markle, want to create
-      a new hybrid role,**one that has no precedent.**
-
-
-      * maintain their royal titles but step back as “senior members” of the
-      royal family
-
-      * become financially independent to pursue their own charity work while
-      also maintaining *some* royal duties
-
-      * partially split their time abroad
+      <div><h2>The Stakes</h2><p>The Duke &amp; Duchess of Sussex, Prince Harry
+      &amp; Meghan Markle, want to create a new hybrid role, <strong>one that
+      has no precedent.</strong></p><ul><li>maintain their royal titles but step
+      back as “senior members” of the royal family</li><li>become financially
+      independent to pursue their own charity work while also maintaining *some*
+      royal duties</li><li>partially split their time abroad</li></ul></div>
     _key: eda08d6ea521
   - order: 3
     useCheckmark: false
     body: >-
-      ## The Modern UK Monarchy
-
-
-      * Dates back to**1707** when the English and Scottish kingdoms merged to
-      form the**United Kingdom of Great Britain**.
-
-      * There have been 12 monarchs (Kings or Queens) and four Houses
-      (dynasties) since 1707. Currently, led by**Queen Elizabeth II** of
-      the**House of Windsor**.
-
-      * Since its inception, the UK monarchy has fought to stay in existence
-      with its strength**largely dependent on the support of its citizens**.
+      <div><h2>The Modern UK Monarchy</h2><ul><li>Dates back to
+      <strong>1707</strong> when the English and Scottish kingdoms merged to
+      form the <strong>United Kingdom of Great Britain</strong>.</li><li>There
+      have been 12 monarchs (Kings or Queens) and four Houses (dynasties) since
+      1707. Currently, led by <strong>Queen Elizabeth II</strong> of the
+      <strong>House of Windsor</strong>.</li><li>Since its inception, the UK
+      monarchy has fought to stay in existence with its strength <strong>largely
+      dependent on the support of its citizens</strong>.</li></ul></div>
     _key: d1d846f33725
   - order: 4
     useCheckmark: false
-    body: "## The House Of Windsor\n\n**Did You Know?** 3 of the 4 monarchs were not born likely to ascend to the throne.\n\n* **1917:** The Queen’s grandpa**King George V** was born 3rd in the line to the crown\n* **1936:** The Queen’s father (the second son of George V) became King after her uncle,**King Edward VIII** abdicated the throne to marry an American divorcee.\n* **1952:**\_**Queen Elizabeth II** (25) ascends to the throne after death of her father."
+    body: "<div><h2>The House Of Windsor</h2><p><strong>Did You Know?</strong> 3 of the 4 monarchs were not born likely to ascend to the throne.</p><ul><li><strong>1917:</strong> The Queen’s grandpa <strong>King George V</strong> was born 3rd in the line to the crown</li><li><strong>1936:</strong> The Queen’s father (the second son of George V) became King after her uncle, <strong>King Edward VIII</strong> abdicated the throne to marry an American divorcee.</li><li><strong>1952:</strong>\_<strong>Queen Elizabeth II</strong> (25) ascends to the throne after death of her father.</li></ul></div>"
     _key: 1a22fc92361a
   - order: 5
     useCheckmark: false
     body: >-
-      > “I have found it impossible to carry the heavy burden of responsibility
-      and to discharge my duties as King, as I would wish to do, without the
-      help and support of the woman I love.”
-
-
-      Edward VIII resigning his role as King to marry his American lover Wallis
+      <div><blockquote>“I have found it impossible to carry the heavy burden of
+      responsibility and to discharge my duties as King, as I would wish to do,
+      without the help and support of the woman I love.”</blockquote><p>Edward
+      VIII resigning his role as King to marry his American lover Wallis
       Simpson. Although he had no children, when he abdicated or renounced his
       royal title to marry Simpson, any potential descendants forever lost their
-      chance at the crown.
+      chance at the crown.</p></div>
     _key: bb86a50dd31d
   - order: 6
     useCheckmark: false
     body: >-
-      ## Not Just About England…
-
-
-      * **“The Commonwealth”** is made up of 53 independent nations, many once
-      ruled by England, who support & recognize the Royal family (i.e. Canada,
-      India, South Africa).
-
-      * Commonwealth countries’ financial contributions vary & citizens who
-      don’t reside in the UK don’t vote in UK.
-
-      * The Queen is the Head of the Commonwealth and head of state in 15 of its
-      countries.
+      <div><h2>Not Just About England…</h2><ul><li><strong>“The
+      Commonwealth”</strong> is made up of 53 independent nations, many once
+      ruled by England, who support &amp; recognize the Royal family (i.e.
+      Canada, India, South Africa).</li><li>Commonwealth countries’ financial
+      contributions vary &amp; citizens who don’t reside in the UK don’t vote in
+      UK.</li><li>The Queen is the Head of the Commonwealth and head of state in
+      15 of its countries.</li></ul></div>
     _key: 13f907af6236
   - order: 7
     useCheckmark: true
     body: >-
-      In February, the Queen (93) will mark 68 years on the throne. In 2015, she
-      became the UK’s longest-reigning monarch, beating a record set by her
-      great-great-grandmother Queen Victoria. In 2016, she became the world's
-      longest-reigning living monarch.
+      <div><p>In February, the Queen (93) will mark 68 years on the throne. In
+      2015, she became the UK’s longest-reigning monarch, beating a record set
+      by her great-great-grandmother Queen Victoria. In 2016, she became the
+      world's longest-reigning living monarch.</p><p></p></div>
     citation: VIEW SOURCES
     _key: b27df465af12
 

@@ -22,106 +22,69 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      THE MISSING LINK…
-
-
-      ====================
-
-
-      ## to LOWER cancer rates?
-
-
-      > “These findings**support the hypothesis that vitamin D has protective
-      effects against cancers** at many sites.”  
-        
-        
-        
-      Japan Public Health Center Study
+      <div><p>THE MISSING LINK…</p><p>====================</p><h2>to LOWER
+      cancer rates?</h2><blockquote>“These findings <strong>support the
+      hypothesis that vitamin D has protective effects against cancers</strong>
+      at many sites.”<br><br><br><br>Japan Public Health Center
+      Study</blockquote></div>
     _key: card-1-a5a52e6c-d4c8-47b4-b1c1-54e005ecb13a
   - order: 1
     useCheckmark: false
     body: >-
-      ## Vitamin D & Cancer
-
-
-      * New research published in British Medical Journal.
-
-      * Studied 1,000s of people across Japan over 16 years.
-
-      * Other studies have shown a link between vitamin D & cancer rates in
-      other ethnicities – Scientists said observing a link in an Asian
-      population would further prove a connection.
+      <div><h2>Vitamin D &amp; Cancer</h2><ul><li>New research published in
+      British Medical Journal.</li><li>Studied 1,000s of people across Japan
+      over 16 years.</li><li>Other studies have shown a link between vitamin D
+      &amp; cancer rates in other ethnicities – Scientists said observing a link
+      in an Asian population would further prove a connection.</li></ul></div>
     _key: card-2-af56842f-ec98-467f-87d7-49bc40401fef
   - order: 2
     useCheckmark: false
     body: >-
-      ## What They Found:
-
-
-      * Inverse Relationship:**A Higher level of vitamin D = Lower rate of
-      cancer.**
-
-      * Reduce risk for both men and women.
-
-      * A noticeable decrease risk of liver cancer.
-
-      * **Bottom Line: Vitamin D may help prevent cancer**.
+      <div><h2>What They Found:</h2><ul><li>Inverse Relationship:<strong>A
+      Higher level of vitamin D = Lower rate of cancer.</strong></li><li>Reduce
+      risk for both men and women.</li><li>A noticeable decrease risk of liver
+      cancer.</li><li><strong>Bottom Line: Vitamin D may help prevent
+      cancer</strong>.</li></ul></div>
     _key: card-3-76b96e4b-9bc1-41eb-9da7-0c27c0a8c4ae
   - order: 3
     useCheckmark: false
     body: >-
-      ## What Exactly Is Vitamin D?
-
-
-      “Vitamin D is both a nutrient we eat & a hormone our bodies make.”_Harvard
-      School of Public Health_
-
-
-      * FewA foods naturally rich in vitamin D, but found in dairy products &
-      fish such as salmon/tuna.
-
-      * Vitamin Supplements: Ongoing debate over how much you need.
-
-
-      [Click Here For
-      SOURCE](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/vitamins/vitamin-d/)
+      <div><h2>What Exactly Is Vitamin D?</h2><p>“Vitamin D is both a nutrient
+      we eat &amp; a hormone our bodies make.” <em>Harvard School of Public
+      Health</em></p><ul><li>FewA foods naturally rich in vitamin D, but found
+      in dairy products &amp; fish such as salmon/tuna.</li><li>Vitamin
+      Supplements: Ongoing debate over how much you need.</li></ul><p><a
+      href="https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/vitamins/vitamin-d/">Click
+      Here For SOURCE</a></p></div>
     citation: Click Here For SOURCE
     _key: card-4-163ee3bd-e54d-40db-b5d1-ab8db0febf37
   - order: 4
     useCheckmark: false
     body: >-
-      # Vitamin ‘D-ficient’
-
-
-      * Est.**1 Billion** people have**inadequate levels** of vitamin D in their
-      blood – the**#1 Worldwide nutritional deficiency**
-
-      * Being ‘D-ficient’ may increase the risk of osteoporosis, heart disease,
-      some cancers, infectious diseases, seasonal flu & more.
+      <div><h1>Vitamin ‘D-ficient’</h1><ul><li>Est. <strong>1 Billion</strong>
+      people have <strong>inadequate levels</strong> of vitamin D in their blood
+      – the <strong>#1 Worldwide nutritional deficiency</strong></li><li>Being
+      ‘D-ficient’ may increase the risk of osteoporosis, heart disease, some
+      cancers, infectious diseases, seasonal flu &amp; more.</li></ul></div>
     _key: card-5-5e7c7dc2-6e6a-4bca-ad17-2e8ea902eb01
   - order: 5
     useCheckmark: false
     body: >-
-      ## What About The Sun?
-
-
-      * Sunlight is the major source of vitamin D.
-
-      * The ability to absorb vitamin D from the sun decreases with age, regular
-      use of sunscreen, and indoor lifestyle
-
-      * Supplementation with vitamin D3 is needed to raise blood levels for most
-      people.
+      <div><h2>What About The Sun?</h2><ul><li>Sunlight is the major source of
+      vitamin D.</li><li>The ability to absorb vitamin D from the sun decreases
+      with age, regular use of sunscreen, and indoor
+      lifestyle</li><li>Supplementation with vitamin D3 is needed to raise blood
+      levels for most people.</li></ul></div>
     _key: card-6-a30a9aa7-8644-4a14-9f2e-978221b35dec
   - order: 6
     useCheckmark: true
     body: >-
-      We're asking the same question. HOW MUCH VITAMIN D DO WE NEED? SmartHER
-      Tip: Start with a blood test to determine your vitamin D level ...You'll
-      be more effective with your dosage than any recommendation on paper!
-
-
-      [view sources](https://smarthernews.com/18-02-19-vitamin-d-cancer/)
+      <div><p>We're asking the same question. HOW MUCH VITAMIN D DO WE NEED?
+      SmartHER Tip: Start with a blood test to determine your vitamin D level
+      ...You'll be more effective with your dosage than any recommendation on
+      paper!</p><p><a
+      href="https://smarthernews.com/18-02-19-vitamin-d-cancer/">view
+      sources</a></p></div>
     _key: card-10-9d982d56-f914-4b2f-a0e7-ec17298df27f
 
 ---

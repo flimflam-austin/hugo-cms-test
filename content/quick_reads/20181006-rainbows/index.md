@@ -22,13 +22,11 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      NASA explains supernumerary rainbows only form "when falling water
+      <div><p>NASA explains supernumerary rainbows only form "when falling water
       droplets are nearly all the same size" with sunlight not only reflecting
       from inside the raindrops, but "interfere, a wave phenomenon similar to
-      ripples on a pond when a stone is thrown in."
-
-
-      [view sources](https://smarthernews.com/rainbows/)
+      ripples on a pond when a stone is thrown in."</p><p><a
+      href="https://smarthernews.com/rainbows/">view sources</a></p></div>
     _key: card-10-9b7151f2-3755-4322-ad67-b12e35f61b56
 
 ---

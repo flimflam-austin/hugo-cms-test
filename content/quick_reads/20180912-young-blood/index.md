@@ -21,72 +21,51 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # FOUNTAIN OF YOUTH
-
-      ## FOUND IN OUR VEINS?
-
-      Can young bloodA reverse aging?
-
-      Fad or Solid Science?
+    body: >-
+      <div><h1>FOUNTAIN OF YOUTH</h1><h2>FOUND IN OUR VEINS?</h2><p>Can young
+      bloodA reverse aging?</p><p>Fad or Solid Science?</p></div>
     citation: Fad or Solid Science?
     _key: card-1-ab2c32ef-23c0-493e-a995-4e88ab151d54
   - order: 1
     useCheckmark: false
     body: >-
-      ## Tech’s “Death Disruption”
-
-
-      * **Next Big Thing?** Silicon Valley start-ups currently investing
-      millions on the use of young blood to heal, or even reverse, signs of
-      aging like memory loss.
-
-      * **How It Works:** Blood transfusions from a young person to an older
-      person.
-
-      * Most promising research done on mice, not conclusive for humans.
+      <div><h2>Tech’s “Death Disruption”</h2><ul><li><strong>Next Big
+      Thing?</strong> Silicon Valley start-ups currently investing millions on
+      the use of young blood to heal, or even reverse, signs of aging like
+      memory loss.</li><li><strong>How It Works:</strong> Blood transfusions
+      from a young person to an older person.</li><li>Most promising research
+      done on mice, not conclusive for humans.</li></ul></div>
     _key: card-2-b3f30c43-8b5a-4b31-a0ff-34be09912062
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why It Matters: Panacea?
-
-
-      > _‘Instead of taking a drug for your heart and a drug for your muscles
-      and a drug for your brain, maybe you could come up with something that
-      affected them all.”_  
-        
-        
-        
-      Dr. Amy Wagers, Harvard professor, who showed the blood of young mice
-      rejuvenates the hearts of old mice. Some experts believe young blood may
-      treat Alzheimer’s & heart disease.
+      <div><h2>Why It Matters: Panacea?</h2><blockquote><em>‘Instead of taking a
+      drug for your heart and a drug for your muscles and a drug for your brain,
+      maybe you could come up with something that affected them
+      all.”</em><br><br><br><br>Dr. Amy Wagers, Harvard professor, who showed
+      the blood of young mice rejuvenates the hearts of old mice. Some experts
+      believe young blood may treat Alzheimer’s &amp; heart
+      disease.</blockquote></div>
     _key: card-3-56504285-d17f-445d-be19-8f7243d7f81d
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      **Side Effects:** Some believe young blood may cause cells to multiply
-      uncontrollably (how cancer starts).
-
-
-      **Unknowns**:**Cost, dosage, frequency** and**quality control**. One U.S.
-      clinical trial offered teenage blood to elderly at $8K/treatment, but with
-      no peer review or control study, some questioned company’s proclaimed
-      positive results.
+      <div><h2>Something To Consider:</h2><p><strong>Side Effects:</strong> Some
+      believe young blood may cause cells to multiply uncontrollably (how cancer
+      starts).</p><p><strong>Unknowns</strong>: <strong>Cost, dosage,
+      frequency</strong> and <strong>quality control</strong>. One U.S. clinical
+      trial offered teenage blood to elderly at $8K/treatment, but with no peer
+      review or control study, some questioned company’s proclaimed positive
+      results.</p></div>
     _key: card-4-74b090c0-ba91-427f-be3a-5ef8a2c11d5a
   - order: 4
     useCheckmark: true
     body: >-
-      Young blood research focuses on the internal - it won't erase wrinkles.
-      But "vampire facials" use the same blood therapy often used by athletes to
-      repair muscles in an attempt to reverse the signs of aging. Is this the
-      next logical step in the anti-aging industry?
-
-
-      [view sources](https://smarthernews.com/young-blood/)
+      <div><p>Young blood research focuses on the internal - it won't erase
+      wrinkles. But "vampire facials" use the same blood therapy often used by
+      athletes to repair muscles in an attempt to reverse the signs of aging. Is
+      this the next logical step in the anti-aging industry?</p><p><a
+      href="https://smarthernews.com/young-blood/">view sources</a></p></div>
     _key: card-10-f2b85eac-0f8d-4c0a-bec4-ad26281e4fb8
 
 ---

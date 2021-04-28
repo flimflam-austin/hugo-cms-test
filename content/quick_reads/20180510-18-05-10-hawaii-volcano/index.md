@@ -22,13 +22,12 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      So far, Kilauea has destroyed 36+ structures and covered 116+ acres in
-      lava, but thankfully, although many have suffered serious injuries, no
-      fatalities have been reported. What is it really like to live near an
-      erupting volcano? A SmartHER News reader tells us!
-
-
-      [view sources](https://smarthernews.com/18-05-10-hawaii-volcano/)
+      <div><p>So far, Kilauea has destroyed 36+ structures and covered 116+
+      acres in lava, but thankfully, although many have suffered serious
+      injuries, no fatalities have been reported. What is it really like to live
+      near an erupting volcano? A SmartHER News reader tells us!</p><p><a
+      href="https://smarthernews.com/18-05-10-hawaii-volcano/">view
+      sources</a></p></div>
     _key: card-10-9ff1c53a-a9e5-4f4c-b090-00a536764693
 
 ---

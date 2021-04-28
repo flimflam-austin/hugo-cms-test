@@ -22,71 +22,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## How Can We Help Each Other?
-
-
-      New data shows suicide rates rising dramatically in U.S.**More than half
-      of those who died had****no known mental illness**.
-
-
-      What To Know
+      <div><h2>How Can We Help Each Other?</h2><p>New data shows suicide rates
+      rising dramatically in U.S. <strong>More than half of those who died
+      had</strong> <strong>no known mental illness</strong>.</p><p>What To
+      Know</p></div>
     _key: card-1-536b70bf-f0e2-49b9-b339-77f6b4e2fff2
   - order: 1
     useCheckmark: false
     body: >-
-      ## CDC: Vital Signs Report
-
-
-      * Examined data from 1999-2016
-
-      * **Suicide rates increased in nearly every state** & half of those states
-      had rates increase by 30%.
-
-      * Northern Midwest states most impacted.
-
-      * **Twice as many suicides in America as homicides.**
-
-
-      Why?
+      <div><h2>CDC: Vital Signs Report</h2><ul><li>Examined data from
+      1999-2016</li><li><strong>Suicide rates increased in nearly every
+      state</strong> &amp; half of those states had rates increase by
+      30%.</li><li>Northern Midwest states most impacted.</li><li><strong>Twice
+      as many suicides in America as
+      homicides.</strong></li></ul><p>Why?</p></div>
     _key: card-2-ac8cba26-798b-4cd8-b6dc-b2858f52967b
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why A Dramatic Increase?
-
-
-      **No simple answer.** Suicide is not JUST attributable to substance abuse,
+      <div><h2>Why A Dramatic Increase?</h2><p><strong>No simple
+      answer.</strong> Suicide is not JUST attributable to substance abuse,
       mental illness, or any single cause. Some experts say economic downturns
-      played a role between 1999-2016 yet…
-
-
-      * 4 out of 10 suicide cases reported relationship problems,
-
-      * 29% – a crisis in the recent weeks
-
-      * 22% – physical health problem.
+      played a role between 1999-2016 yet…</p><ul><li>4 out of 10 suicide cases
+      reported relationship problems,</li><li>29% – a crisis in the recent
+      weeks</li><li>22% – physical health problem.</li></ul></div>
     _key: card-3-5139eac3-11a6-4fd1-81f7-f8a8fbe42f64
   - order: 3
     useCheckmark: false
     body: >-
-      > ‘Suicide is a public health crisis when you look at the numbers, and
-      they keep going up. It’s up everywhere. And we know that the rates are
-      actually higher than what’s reported. But homicides still get more
-      attention.’  
-        
-        
-        
-      Nadine Kaslow, fmr. president of the American Psychological Association to
-      Washington Post
+      <blockquote>‘Suicide is a public health crisis when you look at the
+      numbers, and they keep going up. It’s up everywhere. And we know that the
+      rates are actually higher than what’s reported. But homicides still get
+      more attention.’<br><br><br><br>Nadine Kaslow, fmr. president of the
+      American Psychological Association to Washington Post</blockquote>
     _key: card-4-e3da633b-ed2c-47e3-a0a9-933164c9adc1
   - order: 4
     useCheckmark: true
     body: >-
-      Suicide rates increased in nearly all 50 states. The one state where
-      suicides did not increase between 1999-2016? Nevada. How can you help?
-
-
-      [view sources](https://smarthernews.com/18-06-07-suicide-can-help/)
+      <div><p>Suicide rates increased in nearly all 50 states. The one state
+      where suicides did not increase between 1999-2016? Nevada. How can you
+      help?</p><p><a
+      href="https://smarthernews.com/18-06-07-suicide-can-help/">view
+      sources</a></p></div>
     _key: card-10-cf730299-e531-4c8d-b181-56b3cbc6cc8f
 
 ---

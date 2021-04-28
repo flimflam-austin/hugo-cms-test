@@ -20,112 +20,81 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: "## SAFE FOR SCHOOL?\n\n> A new CDC study makes the argument for keeping children**in school for in-person learning during the COVID-19 pandemic**\_(with certain caveats).  \n  \nHere’s what it says:"
+    body: "<div><h2>SAFE FOR SCHOOL?</h2><blockquote>A new CDC study makes the argument for keeping children <strong>in school for in-person learning during the COVID-19 pandemic</strong>\_(with certain caveats).<br><br>Here’s what it says:</blockquote></div>"
     _key: 856b2bf7f98b
   - order: 1
     useCheckmark: false
     body: >-
-      ## New Study: The Basics
-
-
-      * **What**: 17 schools participated in a study examining in-school
-      transmission of COVID-19 over the course of 13 weeks.
-
-      * **Where**: A rural Wisconsin county.
-
-      * **When**: Late August to late November.
-
-      * **Who**: 4,876 students and 654 staff members. 8 elementary schools
-      (K-6); 9 secondary schools (grades 7-12).
-
-      * Public and private school districts, including 1 independent school.
+      <div><h2>New Study: The Basics</h2><ul><li><strong>What</strong>: 17
+      schools participated in a study examining in-school transmission of
+      COVID-19 over the course of 13 weeks.</li><li><strong>Where</strong>: A
+      rural Wisconsin county.</li><li><strong>When</strong>: Late August to late
+      November.</li><li><strong>Who</strong>: 4,876 students and 654 staff
+      members. 8 elementary schools (K-6); 9 secondary schools (grades
+      7-12).</li><li>Public and private school districts, including 1
+      independent school.</li></ul></div>
     _key: ce730799f1d3
   - order: 2
     useCheckmark: false
     body: >-
-      ## Parameters for Participants
-
-
-      * Each student received 3-5 masks with 2-3 layers (funded by grant money)
-      and wore masks in school; there were district and statewide mask mandates
-      in place at the time.
-
-      * Students stayed in cohorts of 11-20 students; if possible, students
-      consistently sat next to the same person.
-
-      * Social distancing recommended.
-
-      * **All classes and lunch held indoors.**
+      <div><h2>Parameters for Participants</h2><ul><li>Each student received 3-5
+      masks with 2-3 layers (funded by grant money) and wore masks in school;
+      there were district and statewide mask mandates in place at the
+      time.</li><li>Students stayed in cohorts of 11-20 students; if possible,
+      students consistently sat next to the same person.</li><li>Social
+      distancing recommended.</li><li><strong>All classes and lunch held
+      indoors.</strong></li></ul></div>
     _key: 9cacbee2565d
   - order: 3
     useCheckmark: false
     body: >-
-      ## The Rules
-
-
-      If a student tested positive and quarantined, their siblings *also*
-      automatically quarantined (length of quarantine not specified in study).
-
-
-      If a student/staff tested positive, anyone with close contact (sitting
-      within 6 feet for 15 minutes or more) automatically quarantined.
+      <div><h2>The Rules</h2><p>If a student tested positive and quarantined,
+      their siblings *also* automatically quarantined (length of quarantine not
+      specified in study).</p><p>If a student/staff tested positive, anyone with
+      close contact (sitting within 6 feet for 15 minutes or more) automatically
+      quarantined.</p></div>
     _key: 962a86288143
   - order: 4
     useCheckmark: false
     body: >-
-      ## What Happened?
-
-
-      * 133 students and 58 staff members tested positive for COVID-19.
-
-      * 3.7% of cases (7 cases – all students) were tied to in-school
-      transmission.
-
-      * No known child-to-staff member transmission.
-
-      * **Context**: Researchers say despite_“widespread community
-      transmission”_ in the county overall, these schools had a 37% lower
-      infection rate than the surrounding community.
+      <div><h2>What Happened?</h2><ul><li>133 students and 58 staff members
+      tested positive for COVID-19.</li><li>3.7% of cases (7 cases – all
+      students) were tied to in-school transmission.</li><li>No known
+      child-to-staff member transmission.</li><li><strong>Context</strong>:
+      Researchers say despite <em>“widespread community transmission”</em> in
+      the county overall, these schools had a 37% lower infection rate than the
+      surrounding community.</li></ul></div>
     _key: e5faa60c3d10
   - order: 5
     useCheckmark: false
     body: >-
-      ## Bottom Line
-
-
-      _“These findings suggest that, with proper mitigation strategies, K–12
-      schools might be capable of opening for in-person learning with minimal
-      in-school transmission of SARS-CoV-2.”_  
-        
-      The CDC research team notes mitigation and masking efforts, and
-      acknowledges the study has demographic, regional and technical
-      limitations.
+      <div><h2>Bottom Line</h2><p><em>“These findings suggest that, with proper
+      mitigation strategies, K–12 schools might be capable of opening for
+      in-person learning with minimal in-school transmission of
+      SARS-CoV-2.”</em><br><br>The CDC research team notes mitigation and
+      masking efforts, and acknowledges the study has demographic, regional and
+      technical limitations.</p></div>
     _key: c2790abe1bde
   - order: 6
     useCheckmark: false
     body: >-
-      ## Something to Consider
-
-
-      * An estimated 56+ million Americans are in school K-12.
-
-      * About half of American schooling remains virtual (as of the study date).
-
-      * Just over half of teachers in this study participated in the weekly
-      surveys (on mask compliance, class attendance), which limits some of the
-      data.
-
-      * Researchers did**not** proactively test students and staff for COVID-19
-      to identify any asymptomatic cases.
+      <div><h2>Something to Consider</h2><ul><li>An estimated 56+ million
+      Americans are in school K-12.</li><li>About half of American schooling
+      remains virtual (as of the study date).</li><li>Just over half of teachers
+      in this study participated in the weekly surveys (on mask compliance,
+      class attendance), which limits some of the data.</li><li>Researchers did
+      <strong>not</strong> proactively test students and staff for COVID-19 to
+      identify any asymptomatic cases.</li></ul></div>
     _key: 12146092a6f9
   - order: 7
     useCheckmark: true
     body: >-
-      Are kids safer in school? The study stops short of saying definitely,
-      using the word "might" 14 times. Additional limitations to the study:
-      Participants were mostly non-Hispanic white in a rural, middle-to-low
-      income area. Available data showed mask compliance was over 90% regardless
-      of grade; school ventilation systems were not studied.
+      <div><p>Are kids safer in school? The study stops short of saying
+      definitely, using the word "might" 14 times. Additional limitations to the
+      study: Participants were mostly non-Hispanic white in a rural,
+      middle-to-low income area. Available data showed mask compliance was over
+      90% regardless of grade; school ventilation systems were not
+      studied.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 0fa6d4f1e89a
 

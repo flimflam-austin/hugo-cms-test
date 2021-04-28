@@ -18,60 +18,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “In the sunlight, slides, poles and railings reached temperatures as
-      high as 130 degrees, and the ground, nearly 150.”  
-        
-        
-        
-      WTAP news station in West Virginia addressing a side-effect of a heat wave
-      that's impacting nearly 100M Americans in the eastern US - piping hot
-      playground equipment.
+      <blockquote>“In the sunlight, slides, poles and railings reached
+      temperatures as high as 130 degrees, and the ground, nearly
+      150.”<br><br><br><br>WTAP news station in West Virginia addressing a
+      side-effect of a heat wave that's impacting nearly 100M Americans in the
+      eastern US - piping hot playground equipment.</blockquote>
     _key: card-1-dec79b39-3705-42c4-8f40-42ecdc8847be
   - order: 1
     useCheckmark: false
     body: >-
-      > "It’s hard to believe that something we enjoy so much could be good for
-      us. Or at least not be bad.”  
-        
-        
-        
-      Alice Lichtenstein, Tufts University nutrition expert, commenting on a
-      first-of-its-kind study on coffee and longevity. Researchers found
-      coffee-drinkers lived longer than non-coffee drinkers - though they have
-      no specific explanation why.
+      <blockquote>"It’s hard to believe that something we enjoy so much could be
+      good for us. Or at least not be bad.”<br><br><br><br>Alice Lichtenstein,
+      Tufts University nutrition expert, commenting on a first-of-its-kind study
+      on coffee and longevity. Researchers found coffee-drinkers lived longer
+      than non-coffee drinkers - though they have no specific explanation
+      why.</blockquote>
     _key: card-2-d003e9ea-9252-46f5-9aa1-fdd572937e32
   - order: 2
     useCheckmark: false
     body: >-
-      "We are conscious of the need to maintain good relations with the United
-      States. We have a border of more than 3,000 kilometers, more than 12
-      million Mexicans live in the United States. It is our main
+      <p>"We are conscious of the need to maintain good relations with the
+      United States. We have a border of more than 3,000 kilometers, more than
+      12 million Mexicans live in the United States. It is our main
       economic-commercial partner. We are not going to fight…We are going to
       extend our frank hand to seek a relation of friendship, I repeat, of
-      cooperation with the United States."  
-        
-        
-      Newly-elected Mexican President Andres Manuel Lopez Obrador
+      cooperation with the United States."<br><br><br>Newly-elected Mexican
+      President Andres Manuel Lopez Obrador</p>
     _key: card-3-0da7127c-2bd0-4acc-adfc-deeb0e7f1672
   - order: 3
     useCheckmark: false
     body: >-
-      > “Secretary Pompeo will travel to Pyongyang, July 5-7, to continue
-      consultations and implement the forward progress made by President Trump
-      and Chairman Kim in Singapore.”  
-        
-        
-        
-      Heather Nauert, State Department Spokesperson, detailing Sec. Pompeo's
-      travel from July 5-12. Secy Pompeo will visit Pyongyang, Tokyo, Hanoi, Abu
-      Dhabi, & Brussels.
+      <blockquote>“Secretary Pompeo will travel to Pyongyang, July 5-7, to
+      continue consultations and implement the forward progress made by
+      President Trump and Chairman Kim in Singapore.”<br><br><br><br>Heather
+      Nauert, State Department Spokesperson, detailing Sec. Pompeo's travel from
+      July 5-12. Secy Pompeo will visit Pyongyang, Tokyo, Hanoi, Abu Dhabi,
+      &amp; Brussels.</blockquote>
     _key: card-4-b0dc89bd-5a8a-4c02-9e79-4e1df8f5450a
   - order: 4
     useCheckmark: true
-    body: |-
-      Have a great day!
-
-      [view sources](https://smarthernews.com/18-07-01-qq/)
+    body: >-
+      <div><p>Have a great day!</p><p><a
+      href="https://smarthernews.com/18-07-01-qq/">view sources</a></p></div>
     _key: card-10-952f89a6-a8eb-46a5-85da-036180f4ef81
 
 ---

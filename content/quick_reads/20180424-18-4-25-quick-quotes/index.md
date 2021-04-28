@@ -22,67 +22,53 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # QUICK QUOTES
-
-
-      > ‘If I were hima| I wouldn’t do it. What does he need it for? To be
-      abused by a bunch of politicians?’  
-        
-        
-        
-      Pres. Trump stands by his Veterans Affairs nominee & WH physician Ronny
-      Jackson. The confirmation hearing for Dr. Jackson was delayed due to
-      allegations of misconduct, such as drinking on the job.
+      <div><h1>QUICK QUOTES</h1><blockquote>‘If I were hima| I wouldn’t do it.
+      What does he need it for? To be abused by a bunch of
+      politicians?’<br><br><br><br>Pres. Trump stands by his Veterans Affairs
+      nominee &amp; WH physician Ronny Jackson. The confirmation hearing for Dr.
+      Jackson was delayed due to allegations of misconduct, such as drinking on
+      the job.</blockquote></div>
     _key: card-1-6e535009-73b7-4c49-a711-4926409e1611
   - order: 1
     useCheckmark: false
     body: >-
-      > “I am telling those in the White House that if they do not live up to
-      their commitments, the Iranian government will react firmly. If anyone
-      betrays the deal, they should know that they would face severe
-      consequences.”  
-        
-        
-        
-      Hassan Rouhani, President of Iran, on State TV warning U.S. to remain in
-      the nuclear deal it signed in 2015. French & German leaders visit the
-      White House this week to pressure Pres. Trump NOT to scrap the deal, POTUS
-      calls "insane."
+      <blockquote>“I am telling those in the White House that if they do not
+      live up to their commitments, the Iranian government will react firmly. If
+      anyone betrays the deal, they should know that they would face severe
+      consequences.”<br><br><br><br>Hassan Rouhani, President of Iran, on State
+      TV warning U.S. to remain in the nuclear deal it signed in 2015. French
+      &amp; German leaders visit the White House this week to pressure Pres.
+      Trump NOT to scrap the deal, POTUS calls "insane."</blockquote>
     _key: card-2-dc736060-7fb8-4333-9a26-281c9fa4284e
   - order: 2
     useCheckmark: false
     body: >-
-      > “I have no idea how I can do this without her, but because of her I know
-      I can. It’s a love affair that will never end.”  
-        
-        
-        
-      Michael Riordin, husband of the woman killed when an engine exploded on a
-      Southwest flight last week, to CBS News. She leaves behind 2 children
-      12-year-old Averie & 10-year-old Josh.
+      <blockquote>“I have no idea how I can do this without her, but because of
+      her I know I can. It’s a love affair that will never
+      end.”<br><br><br><br>Michael Riordin, husband of the woman killed when an
+      engine exploded on a Southwest flight last week, to CBS News. She leaves
+      behind 2 children 12-year-old Averie &amp; 10-year-old Josh.</blockquote>
     _key: card-3-5f5ccbae-1a86-4e5b-a17d-b0dc89fd0dfb
   - order: 3
     useCheckmark: false
     body: >-
-      > “I’m sure many consumers would prefer to have their car trunk opened
-      remotely by a third party than their front door.”  
-        
-        
-        
-      Analyst Greg Melich on Amazon's attempt to beat porch thieves with a new
-      in-car delivery service. Amazon accesses car trunks using a connected car
-      service (i.e. OnStar).
+      <blockquote>“I’m sure many consumers would prefer to have their car trunk
+      opened remotely by a third party than their front
+      door.”<br><br><br><br>Analyst Greg Melich on Amazon's attempt to beat
+      porch thieves with a new in-car delivery service. Amazon accesses car
+      trunks using a connected car service (i.e. OnStar).</blockquote>
     _key: card-4-23eacdab-051b-48d1-aa58-5f1488395b51
   - order: 4
     useCheckmark: false
-    body: "> “People say, a\x18You don’t have a wife and children at home to care for; why are you working so hard? I laugh on the outside but the pain that I have in my heart only I know.”  \n  \n  \n  \nSuresh Kumar, a 35-year old man living in India, on the loneliness he feels not having a spouse. Men now outnumber women by 70 million in China and India."
+    body: "<blockquote>“People say, a\x18You don’t have a wife and children at home to care for; why are you working so hard? I laugh on the outside but the pain that I have in my heart only I know.”<br><br><br><br>Suresh Kumar, a 35-year old man living in India, on the loneliness he feels not having a spouse. Men now outnumber women by 70 million in China and India.</blockquote>"
     _key: card-5-a59432e7-0fc0-4a47-bd8f-3f6c00af0567
   - order: 5
     useCheckmark: true
-    body: |-
-      Want to learn more? Dig deeper by clicking "view sources."
-
-      [view sources](https://smarthernews.com/18-4-25-quick-quotes/)
+    body: >-
+      <div><p>Want to learn more? Dig deeper by clicking "view
+      sources."</p><p><a
+      href="https://smarthernews.com/18-4-25-quick-quotes/">view
+      sources</a></p></div>
     _key: card-10-94f9d524-83fe-47a1-83ed-02850e39233a
 
 ---

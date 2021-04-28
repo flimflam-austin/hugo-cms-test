@@ -22,53 +22,40 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # January 11, 1935
-
-
-      > “_All Ok_“  
-        
-      Amelia Earhart departs from Hawaii & becomes the**first person to fly
-      solo** from the Hawaiian islands to California.
+      <div><h1>January 11, 1935</h1><blockquote>“<em>All Ok</em>“<br><br>Amelia
+      Earhart departs from Hawaii &amp; becomes the <strong>first person to fly
+      solo</strong> from the Hawaiian islands to California.</blockquote></div>
     _key: ac3d0a8d269d
   - order: 1
     useCheckmark: false
-    body: "## Why This Mattered\n\nAlthough Amelia became the**first woman to fly solo across the Atlantic just year’s earlier,\_**becoming\_the**first person** to fly solo from Honolulu to Oakland, CA was arguably a far greater accomplishment.\n\nIt’s a longer trip, with more time over the water, and greater risk to the pilot."
+    body: "<div><h2>Why This Mattered</h2><p>Although Amelia became the <strong>first woman to fly solo across the Atlantic just year’s earlier,\_</strong>becoming\_the <strong>first person</strong> to fly solo from Honolulu to Oakland, CA was arguably a far greater accomplishment.</p><p>It’s a longer trip, with more time over the water, and greater risk to the pilot.</p></div>"
     _key: 78a3f18a7026
   - order: 2
     useCheckmark: false
     body: >-
-      > “The night I found over the Pacific was a night of stars. They seemed to
-      rise from the sea and hang outside my cockpit window, near enough to
-      touch, until hours later they slipped away into the dawn.”
-
-
-      Amelia Earhart describing her 18-hour journey that included a rainy
-      takeoff (complete with worrisome emergency crew nearby) and a hot
-      chocolate at 8,000 feet above the Pacific Ocean.
+      <div><blockquote>“The night I found over the Pacific was a night of stars.
+      They seemed to rise from the sea and hang outside my cockpit window, near
+      enough to touch, until hours later they slipped away into the
+      dawn.”</blockquote><p>Amelia Earhart describing her 18-hour journey that
+      included a rainy takeoff (complete with worrisome emergency crew nearby)
+      and a hot chocolate at 8,000 feet above the Pacific Ocean.</p></div>
     _key: b2d7b8034440
   - order: 3
     useCheckmark: false
     body: >-
-      ## Amelia’s Firsts
-
-
-      * First woman to fly solo nonstop across America (1932).
-
-      * First woman to fly solo across the Atlantic Ocean (1932).
-
-      * First person to fly solo from Hawaii to California (1935).
-
-      * First person to fly solo from Los Angeles to Mexico City (1935).
-
-      * In 1937, Amelia started her fateful final voyage, attempting to fly
-      around the world.
+      <div><h2>Amelia’s Firsts</h2><ul><li>First woman to fly solo nonstop
+      across America (1932).</li><li>First woman to fly solo across the Atlantic
+      Ocean (1932).</li><li>First person to fly solo from Hawaii to California
+      (1935).</li><li>First person to fly solo from Los Angeles to Mexico City
+      (1935).</li><li>In 1937, Amelia started her fateful final voyage,
+      attempting to fly around the world.</li></ul></div>
     _key: 029f2bfe8993
   - order: 4
     useCheckmark: true
     body: >-
-      Amelia didn't just fly. She also created a fashion line for "the woman who
-      lives actively" that included flight suits for female aviators and
-      wrinkle-free clothing for the female traveler.
+      <div><p>Amelia didn't just fly. She also created a fashion line for "the
+      woman who lives actively" that included flight suits for female aviators
+      and wrinkle-free clothing for the female traveler.</p><p></p></div>
     citation: VIEW SOURCES
     _key: ea3f27e19b51
 

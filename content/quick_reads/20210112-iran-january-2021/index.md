@@ -21,91 +21,72 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Rising Tensions, Tough Questions
-
-
-      > During a divisive time in American politics, recent moves by Iran spark
-      alarm among U.S. leaders on both sides of the aisle.  
-        
-      What’s Happening  
-
-      Why It Matters
+      <div><h1>Rising Tensions, Tough Questions</h1><blockquote>During a
+      divisive time in American politics, recent moves by Iran spark alarm among
+      U.S. leaders on both sides of the aisle.<br><br>What’s Happening<br>Why It
+      Matters</blockquote></div>
     _key: 99cfad3ad034
   - order: 1
     useCheckmark: false
     body: >-
-      ## BIG PICTURE
-
-
-      * Iran: long considered an adversary of the U.S. and its interests.
-
-      * The U.S. designated Iran a state sponsor of terrorism in 1984; this
-      designation has remained through Republican & Democratic administrations.
-
-      * In addition to other sanctions, this designation restricts foreign aid
-      and enables policies against those supporting or facilitating acts of
-      terror.
+      <div><h2>BIG PICTURE</h2><ul><li>Iran: long considered an adversary of the
+      U.S. and its interests.</li><li>The U.S. designated Iran a state sponsor
+      of terrorism in 1984; this designation has remained through Republican
+      &amp; Democratic administrations.</li><li>In addition to other sanctions,
+      this designation restricts foreign aid and enables policies against those
+      supporting or facilitating acts of terror.</li></ul></div>
     _key: 3b239ffccf3a
   - order: 2
     useCheckmark: false
     body: >-
-      ## What’s Happening
-
-
-      * Iran announced a clear move towards developing nuclear weapons**last
-      week** despite a 2015 multinational “nuclear deal” that limited their
-      program. European nations remain in the deal; the U.S. withdrew in 2018.
-
-      * Iran seized a South Korean oil tanker**last week**, holding approx. 20
-      sailors. Iran accuses South Korea of holding its funds “hostage;” South
-      Korea froze Iran’s assets as part of U.S. sanctions.
+      <div><h2>What’s Happening</h2><ul><li>Iran announced a clear move towards
+      developing nuclear weapons <strong>last week</strong> despite a 2015
+      multinational “nuclear deal” that limited their program. European nations
+      remain in the deal; the U.S. withdrew in 2018.</li><li>Iran seized a South
+      Korean oil tanker <strong>last week</strong>, holding approx. 20 sailors.
+      Iran accuses South Korea of holding its funds “hostage;” South Korea froze
+      Iran’s assets as part of U.S. sanctions.</li></ul></div>
     _key: 3b86bfd9cb9d
   - order: 3
     useCheckmark: false
     body: >-
-      ## Timing Matters
-
-
-      * Iran’s nuclear announcement comes a year after America targeted and
-      killed a high-profile Iranian general.
-
-      * Dec. 20: Iranian-backed militia attacked the U.S. embassy in
-      Baghdad:_“While this 21 rocket attack caused no U.S. injuries or
+      <div><h2>Timing Matters</h2><ul><li>Iran’s nuclear announcement comes a
+      year after America targeted and killed a high-profile Iranian
+      general.</li><li>Dec. 20: Iranian-backed militia attacked the U.S. embassy
+      in Baghdad: <em>“While this 21 rocket attack caused no U.S. injuries or
       casualties, the attack did damage buildings in the U.S. Embassy compound,
-      and was clearly NOT intended to avoid casualties.” U.S. CentCom_
+      and was clearly NOT intended to avoid casualties.” U.S.
+      CentCom</em></li></ul></div>
     _key: b26b237d07b9
   - order: 4
     useCheckmark: false
     body: >-
-      > “No one should doubt the resolve of the United States of America.”
-
-
-      Acting Sec. of Defense Chris Miller, Jan. 3, 2021 - announcing the
-      American aircraft carrier USS Nimitz will "halt" its return home only days
-      after announcing the end of the ship's nearly 10-month deployment, citing
-      "recent threats issued by Iranian leaders.” The Associated Press reported
-      the U.S. recently deployed B-52 bombers to the Persian Gulf to “caution"
-      the Iranian regime against potential attacks.
+      <div><blockquote>“No one should doubt the resolve of the United States of
+      America.”</blockquote><p>Acting Sec. of Defense Chris Miller, Jan. 3, 2021
+      - announcing the American aircraft carrier USS Nimitz will "halt" its
+      return home only days after announcing the end of the ship's nearly
+      10-month deployment, citing "recent threats issued by Iranian leaders.”
+      The Associated Press reported the U.S. recently deployed B-52 bombers to
+      the Persian Gulf to “caution" the Iranian regime against potential
+      attacks.</p></div>
     _key: e8e9417e2cfc
   - order: 5
     useCheckmark: false
     body: >-
-      > “A rogue president who sought vengeance against his OWN people has been
-      doing much worse to our people—and others—in the past 4 years. What’s
-      disturbing is that the same man has the UNCHECKED authority to start a
-      nuclear war; a security concern for the entire int’l community.”
-
-
-      Foreign Minister of the Islamic Republic of Iran Javad Zarif, re: Pres.
-      Trump, on January 7, 2021.
+      <div><blockquote>“A rogue president who sought vengeance against his OWN
+      people has been doing much worse to our people—and others—in the past 4
+      years. What’s disturbing is that the same man has the UNCHECKED authority
+      to start a nuclear war; a security concern for the entire int’l
+      community.”</blockquote><p>Foreign Minister of the Islamic Republic of
+      Iran Javad Zarif, re: Pres. Trump, on January 7, 2021.</p></div>
     _key: 1ebbc5a294c8
   - order: 6
     useCheckmark: true
     body: >-
-      What's the way forward? 97-year-old fmr. Sec. of State Henry Kissinger,
-      experienced as a consultant for both Republicans and Democrats, advises
-      the Biden administration to stay the course. Read the article, making news
-      around the world, on our source page.
+      <div><p>What's the way forward? 97-year-old fmr. Sec. of State Henry
+      Kissinger, experienced as a consultant for both Republicans and Democrats,
+      advises the Biden administration to stay the course. Read the article,
+      making news around the world, on our source page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 40d6af8313b5
 

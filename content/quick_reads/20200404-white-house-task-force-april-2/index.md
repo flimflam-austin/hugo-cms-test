@@ -21,54 +21,47 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # White House  
-      COVID-19 Task Force
-
-      WHAT WE LEARNED TODAY
+    body: >-
+      <div><h1>White House<br>COVID-19 Task Force</h1><p>WHAT WE LEARNED
+      TODAY</p><p><br></p></div>
     _key: 2c4b18c4ec54
   - order: 1
     useCheckmark: false
     body: >-
-      > “The number of positive tests is tracking very closely with the numbers
-      of cases diagnosed.”
-
-
-      Dr. Deborah Birx answering a question about whether or not the tests
-      currently administered are accurate. Dr. Birx says 35% of COVID-19 tests
-      are positive in New York and New Jersey - the current "hot spots." She
-      says she is still missing 50% of data reporting from test results.
+      <div><blockquote>“The number of positive tests is tracking very closely
+      with the numbers of cases diagnosed.”</blockquote><p>Dr. Deborah Birx
+      answering a question about whether or not the tests currently administered
+      are accurate. Dr. Birx says 35% of COVID-19 tests are positive in New York
+      and New Jersey - the current "hot spots." She says she is still missing
+      50% of data reporting from test results.</p></div>
     _key: 8ec44445c582
   - order: 2
     useCheckmark: false
     body: >-
-      “I have family in New York. My sister is a nurse practioner in a
+      <div><p>“I have family in New York. My sister is a nurse practioner in a
       Westchester hospital. And my niece is a nurse on a Long Island hospital…I
       have skin in this game. The President asked me to get more to healthcare
-      workers. I’m going to get more to healthcare workers.”  
-        
-      Rear Admiral John Polowczyk, Vice Director of Logistics, on the federal
-      gov't supplying states with protective gear - including 200,000 N95 masks
-      to NY.
+      workers. I’m going to get more to healthcare workers.”<br><br>Rear Admiral
+      John Polowczyk, Vice Director of Logistics, on the federal gov't supplying
+      states with protective gear - including 200,000 N95 masks to
+      NY.</p><p><br></p></div>
     _key: 3267730a3600
   - order: 3
     useCheckmark: false
     body: >-
-      > “I’m assuring American public now…if we have your information, you’ll
-      get it within two weeks.”
-
-
-      Treasury Sec. Steven Mnuchin said initial stimulus payments for Americans
-      will happen sooner than the 3 weeks expected. He emphasized those with
-      direct deposits will receive their payments faster (and safer than having
-      to cash in person at the bank). Sec. Mnuchin said a new, soon-to-be
-      announced web portal will help citizens update their information.
+      <div><blockquote>“I’m assuring American public now…if we have your
+      information, you’ll get it within two weeks.”</blockquote><p>Treasury Sec.
+      Steven Mnuchin said initial stimulus payments for Americans will happen
+      sooner than the 3 weeks expected. He emphasized those with direct deposits
+      will receive their payments faster (and safer than having to cash in
+      person at the bank). Sec. Mnuchin said a new, soon-to-be announced web
+      portal will help citizens update their information.</p></div>
     _key: 8a2ca996a195
   - order: 4
     useCheckmark: true
     body: >-
-      "We're asking everyone to apply what works" - Dr. Birx on social
-      distancing.
+      <div><p>"We're asking everyone to apply what works" - Dr. Birx on social
+      distancing.</p><p></p></div>
     citation: VIEW SOURCES
     _key: afcb957d6e35
 

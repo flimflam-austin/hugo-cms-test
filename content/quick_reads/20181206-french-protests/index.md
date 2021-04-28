@@ -21,86 +21,63 @@ colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      TURMOIL IN FRANCE
-
-      Deadly protests rage in France.
-
-      Fears of more to come.
-
-      4 people have died in the worst demonstrations in decades.
-
-      What's Going On
+    body: >-
+      <div><p>TURMOIL IN FRANCE</p><p>Deadly protests rage in
+      France.</p><p>Fears of more to come.</p><p>4 people have died in the worst
+      demonstrations in decades.</p><p>What's Going On</p></div>
     _key: card-1-1a05ccd9-d200-43aa-95eb-b589ea631f20
   - order: 1
     useCheckmark: false
     body: >-
-      ## Fuel Tax Sparked Protests
-
-
-      * France recently announced the next**fuel tax** increase on Jan. 1, 2019;
-      the “green tax” seeks to discourage use of fossil fuels.
-
-      * Fuel prices in France cost approx.**$6-8/gal**. Taxes**would have added
-      an extra 28Ac/gal to diesel** (the most popular fuel).
-
-      * **Huge anti-government protests**A & riots followed over the last 3
-      weeks;A 4 people died.
+      <div><h2>Fuel Tax Sparked Protests</h2><ul><li>France recently announced
+      the next <strong>fuel tax</strong> increase on Jan. 1, 2019; the “green
+      tax” seeks to discourage use of fossil fuels.</li><li>Fuel prices in
+      France cost approx. <strong>$6-8/gal</strong>. Taxes <strong>would have
+      added an extra 28Ac/gal to diesel</strong> (the most popular
+      fuel).</li><li><strong>Huge anti-government protests</strong>A &amp; riots
+      followed over the last 3 weeks;A 4 people died.</li></ul></div>
     _key: card-2-b536eda3-79f7-4d63-a784-ec4be109d37a
   - order: 2
     useCheckmark: false
     body: >-
-      ## FUEL TAX CANCELLED
-
-
-      "…if there is such a level of anger … it’s because we still have a lot of
-      things to improve."  
-        
-      Pres. Macron speaking to French lawmakers Wednes. As the threat of more
-      protests loom, lawmakers canceled the fuel tax from the 2019 budget.
-      Macron didn't start the fuel tax - it dates back to 2014 and has gradually
-      risen over the last few years. Regardless, Macron's critics say his
-      policies favor the wealthy.
+      <div><h2>FUEL TAX CANCELLED</h2><p>"…if there is such a level of anger …
+      it’s because we still have a lot of things to improve."<br><br>Pres.
+      Macron speaking to French lawmakers Wednes. As the threat of more protests
+      loom, lawmakers canceled the fuel tax from the 2019 budget. Macron didn't
+      start the fuel tax - it dates back to 2014 and has gradually risen over
+      the last few years. Regardless, Macron's critics say his policies favor
+      the wealthy.</p></div>
     _key: card-3-f71eb6b5-3feb-4a63-8cfd-0f80cc9daf72
   - order: 3
     useCheckmark: false
     body: >-
-      ## PROTESTS MAY NOT END
-
-
-      “There will be more demonstrations. We remain mobilized."  
-        
-      Lionel Cucchi, protestor/spokesman. While the protests started because of
-      the fuel tax, the anger ignited *other* protests varying from farmers
-      wanting higher wages, to students, to truckers threatening to strike. One
-      analyst described protestors as middle class & squeezed by the welfare
-      state - paying high taxes but feeling few benefits.
+      <div><h2>PROTESTS MAY NOT END</h2><p>“There will be more demonstrations.
+      We remain mobilized."<br><br>Lionel Cucchi, protestor/spokesman. While the
+      protests started because of the fuel tax, the anger ignited *other*
+      protests varying from farmers wanting higher wages, to students, to
+      truckers threatening to strike. One analyst described protestors as middle
+      class &amp; squeezed by the welfare state - paying high taxes but feeling
+      few benefits.</p></div>
     _key: card-4-01eba6a4-7bee-4904-88f8-3e3eb57b73be
   - order: 4
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      * Protests in France have inspired other violent protests in Europe.
-
-      * In Brussels, protestors took to the streets over higher taxes and food
-      prices.
-
-      * **Big Picture**: The European Union is under pressure as the U.K’s exit
-      looms & Russia rattles Ukraine. How long will this political crisis in
-      France last? What’s the impact?
+      <div><h2>Why It Matters</h2><ul><li>Protests in France have inspired other
+      violent protests in Europe.</li><li>In Brussels, protestors took to the
+      streets over higher taxes and food prices.</li><li><strong>Big
+      Picture</strong>: The European Union is under pressure as the U.K’s exit
+      looms &amp; Russia rattles Ukraine. How long will this political crisis in
+      France last? What’s the impact?</li></ul></div>
     _key: card-5-440ae55a-7368-45eb-901b-e23541626696
   - order: 5
     useCheckmark: true
     body: >-
-      America has a fuel tax too. Federal & state fees typically add
-      approximately 52Ac/gallon. These taxes have helped to pay for roads &
+      <div><p>America has a fuel tax too. Federal &amp; state fees typically add
+      approximately 52Ac/gallon. These taxes have helped to pay for roads &amp;
       bridges, though debate rages about their efficacy. The nat'l avg. for a
-      gallon of unleaded in America is $2.44/gal.
-
-
-      [view sources](https://smarthernews.com/french-protests/)
+      gallon of unleaded in America is $2.44/gal.</p><p><a
+      href="https://smarthernews.com/french-protests/">view
+      sources</a></p></div>
     _key: card-10-f6a903d1-f881-4002-aef8-4a07d28b18a1
 
 ---

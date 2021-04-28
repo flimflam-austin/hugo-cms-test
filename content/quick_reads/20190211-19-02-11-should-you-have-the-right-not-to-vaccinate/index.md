@@ -22,76 +22,58 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## The Great Vaccine Debate
-
-
-      **Should you have the right to *not* vaccinate your child?**
-
-
-      A measles outbreak prompts lawmakers to consider reversing course on
-      policies they may have helped put in place.
+      <div><h2>The Great Vaccine Debate</h2><p><strong>Should you have the right
+      to *not* vaccinate your child?</strong></p><p>A measles outbreak prompts
+      lawmakers to consider reversing course on policies they may have helped
+      put in place.</p></div>
     _key: card-1-74bf84f6-f1bd-426e-974b-5cb937d405df
   - order: 1
     useCheckmark: false
     body: >-
-      ## What’s Going On:
-
-
-      * Measles cases in 10 states, some tied to low vaccination rates.
-
-      * 46 states: allow religious exemptions to vaccinations.
-
-      * 17 states: allow for “philosophical” exemptions for personal beliefs.
-
-      * In the wake of recent outbreaks, Washington & Oregon are looking to
-      potentially tighten laws that allow for these personal exemptions.
+      <div><h2>What’s Going On:</h2><ul><li>Measles cases in 10 states, some
+      tied to low vaccination rates.</li><li>46 states: allow religious
+      exemptions to vaccinations.</li><li>17 states: allow for “philosophical”
+      exemptions for personal beliefs.</li><li>In the wake of recent outbreaks,
+      Washington &amp; Oregon are looking to potentially tighten laws that allow
+      for these personal exemptions.</li></ul></div>
     _key: card-2-1fda7eac-2615-42b1-8697-7cd701782594
   - order: 2
     useCheckmark: false
     body: >-
-      > ‘I’m very worried that these measles epidemics are becoming a new
-      normal…The enablers are state legislators in those states, that have
-      allowed themselves to be played.”  
-        
-      Dr. Peter Hotez, Texas Children’s Hospital Center for Vaccine Development
-      at Baylor College of Medicine in Houston who is against personal
-      exemptions for vaccines.
+      <blockquote>‘I’m very worried that these measles epidemics are becoming a
+      new normal…The enablers are state legislators in those states, that have
+      allowed themselves to be played.”<br><br>Dr. Peter Hotez, Texas Children’s
+      Hospital Center for Vaccine Development at Baylor College of Medicine in
+      Houston who is against personal exemptions for vaccines.</blockquote>
     _key: card-3-a2f93dd1-fbdb-42fc-a3a4-a80dbd18e451
   - order: 3
     useCheckmark: false
     body: >-
-      > ‘I see that as medical fascism. I’m the one who is going to make medical
-      decisions for my kids.’  
-        
-      Becky Johnson mother of 3, who is against vaccinations. She disagrees with
-      a new California law passed in 2015 (after a measles outbreak at
-      Disneyland) that reversed personal exemptions, requiring vaccinations.
+      <blockquote>‘I see that as medical fascism. I’m the one who is going to
+      make medical decisions for my kids.’<br><br>Becky Johnson mother of 3, who
+      is against vaccinations. She disagrees with a new California law passed in
+      2015 (after a measles outbreak at Disneyland) that reversed personal
+      exemptions, requiring vaccinations.</blockquote>
     _key: card-4-da1ae058-2a14-44b7-8d8a-ea108428ed73
   - order: 4
     useCheckmark: false
     body: >-
-      ## Who Decides Who Vaccinates & Where?
-
-
-      * Federal gov’t makes**recommendations, not laws or policies,A** re:
-      vaccines.
-
-      * Your state gov’t sets requirements for vaccinations at a local level,
-      normally for attending school.
-
-      * **Why?** Simply – the federal gov’t is responsible for our national
-      security and your state, for your personal safety.
+      <div><h2>Who Decides Who Vaccinates &amp; Where?</h2><ul><li>Federal gov’t
+      makes <strong>recommendations, not laws or policies,A</strong> re:
+      vaccines.</li><li>Your state gov’t sets requirements for vaccinations at a
+      local level, normally for attending school.</li><li><strong>Why?</strong>
+      Simply – the federal gov’t is responsible for our national security and
+      your state, for your personal safety.</li></ul></div>
     _key: card-5-29c11fbb-fb49-4f8a-b1fe-2827667184aa
   - order: 5
     useCheckmark: true
     body: >-
-      Current measles vaccination rate in America is approx. 90%; Some states
-      have lower. In general, a community needs to have 90-95% vaccination rates
-      for "herd immunity" that prevents the spread of a contagious disease.
-
-
-      [view
-      sources](https://smarthernews.com/19-02-11-should-you-have-the-right-not-to-vaccinate/)
+      <div><p>Current measles vaccination rate in America is approx. 90%; Some
+      states have lower. In general, a community needs to have 90-95%
+      vaccination rates for "herd immunity" that prevents the spread of a
+      contagious disease.</p><p><a
+      href="https://smarthernews.com/19-02-11-should-you-have-the-right-not-to-vaccinate/">view
+      sources</a></p></div>
     _key: card-10-ca8aa3dc-b4aa-4533-8861-42d3843f30da
 
 ---

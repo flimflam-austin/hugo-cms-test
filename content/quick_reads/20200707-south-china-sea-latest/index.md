@@ -22,96 +22,71 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > While Americans celebrated Independence Day at home, two U.S. aircraft
-      carrier strike groups sailed together in the South China Sea — in the name
-      of “freedom.”  
-        
-      What To Know
+      <div><blockquote>While Americans celebrated Independence Day at home, two
+      U.S. aircraft carrier strike groups sailed together in the South China Sea
+      — in the name of “freedom.”<br><br>What To
+      Know</blockquote><p><br></p></div>
     _key: 35a3caa0fb0e
   - order: 1
     useCheckmark: false
     body: >-
-      ## What Happened?
-
-
-      Two U.S. aircraft carriers – the USS Nimitz & USS Ronald Reagan – and
-      their supporting ships/aircrafts conducted military exercises on July 4th
-      in the South China Sea.
-
-
-      Days earlier, the Chinese Navy held its own military exercises.
-
-
-      Both sides accuse the other of disrupting peace and security in the
-      region.
+      <div><h2>What Happened?</h2><p>Two U.S. aircraft carriers – the USS Nimitz
+      &amp; USS Ronald Reagan – and their supporting ships/aircrafts conducted
+      military exercises on July 4th in the South China Sea.</p><p>Days earlier,
+      the Chinese Navy held its own military exercises.</p><p>Both sides accuse
+      the other of disrupting peace and security in the region.</p></div>
     _key: 982b561dfb19
   - order: 2
     useCheckmark: false
     body: >-
-      > “These efforts support enduring U.S. commitments to stand up for the
-      right of all nations to fly, sail, and operate wherever international law
-      allows.”
-
-
-      U.S. Navy Commander, Task Force 70 / Carrier Strike Group 5 Public
-      Affairs, on the military exercises by the carrier strike groups. The last
-      time two aircraft carriers were in this region at the same time was 4
-      years ago to show support for America's allies, as China claims this
-      strategically-important and disputed waterway.
+      <div><blockquote>“These efforts support enduring U.S. commitments to stand
+      up for the right of all nations to fly, sail, and operate wherever
+      international law allows.”</blockquote><p>U.S. Navy Commander, Task Force
+      70 / Carrier Strike Group 5 Public Affairs, on the military exercises by
+      the carrier strike groups. The last time two aircraft carriers were in
+      this region at the same time was 4 years ago to show support for America's
+      allies, as China claims this strategically-important and disputed
+      waterway.</p></div>
     _key: d16e27a0001f
   - order: 3
     useCheckmark: false
     body: >-
-      > “…the U.S. deliberately dispatched massive forces to conduct large-scale
-      military exercises in the relevant waters of the South China Sea to flex
-      its military muscle.”
-
-
-      > China Foreign Ministry Spokesperson Zhao Lijian. The U.S. Navy has held
-      military exercises in this region before, including only a week prior.
-      Chinese officials reportedly warned such actions by the U.S. "...could
-      very easily spark an unforeseen incident."
+      <div><blockquote>“…the U.S. deliberately dispatched massive forces to
+      conduct large-scale military exercises in the relevant waters of the South
+      China Sea to flex its military muscle.”</blockquote><blockquote>China
+      Foreign Ministry Spokesperson Zhao Lijian. The U.S. Navy has held military
+      exercises in this region before, including only a week prior. Chinese
+      officials reportedly warned such actions by the U.S. "...could very easily
+      spark an unforeseen incident."</blockquote></div>
     _key: 9436b521766f
   - order: 4
     useCheckmark: false
     body: >-
-      ## Overview: South China Sea
-
-
-      * South China Sea is a major strategic waterway for both global trade AND
-      defense.
-
-      * *At least* 5 countries claim parts of the South China Sea (including
-      Philippines & Vietnam).
-
-      * China has not only claimed and aggressively patrolled this area, but
-      also built islands for military installations in what the U.S. and others
-      consider international waters.
+      <div><h2>Overview: South China Sea</h2><ul><li>South China Sea is a major
+      strategic waterway for both global trade AND defense.</li><li>*At least* 5
+      countries claim parts of the South China Sea (including Philippines &amp;
+      Vietnam).</li><li>China has not only claimed and aggressively patrolled
+      this area, but also built islands for military installations in what the
+      U.S. and others consider international waters.</li></ul></div>
     _key: c0088df6dc8c
   - order: 5
     useCheckmark: false
     body: >-
-      ## Why It Matters:
-
-
-      International waters are generally considered anything beyond 12 nautical
-      miles off the coast of a nation.
-
-
-      This insures freedom of the navigation as no single nation “owns” the sea.
-
-
-      China’s claim to territory far off their coastline conflicts with
-      internationally-accepted norms, and reflects a more aggressive military
-      posture.
+      <div><h2>Why It Matters:</h2><p>International waters are generally
+      considered anything beyond 12 nautical miles off the coast of a
+      nation.</p><p>This insures freedom of the navigation as no single nation
+      “owns” the sea.</p><p>China’s claim to territory far off their coastline
+      conflicts with internationally-accepted norms, and reflects a more
+      aggressive military posture.</p></div>
     _key: 6008d2429cc0
   - order: 6
     useCheckmark: true
     body: >-
-      The U.S. is one of the few nations in the world with aircraft carriers in
-      its fleet, with a total of 12 -- more than any other nation. China has two
-      in operation and is working on bringing others into its fleet. READ MORE
-      about a near collision at sea between the two countries:
+      <div><p>The U.S. is one of the few nations in the world with aircraft
+      carriers in its fleet, with a total of 12 -- more than any other nation.
+      China has two in operation and is working on bringing others into its
+      fleet. READ MORE about a near collision at sea between the two
+      countries:</p><p></p></div>
     citation: VIEW SOURCES
     _key: 9bf805c1e6b3
 

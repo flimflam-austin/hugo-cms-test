@@ -22,86 +22,56 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Starbucks Shutdown
-
-
-      **Racial-bias Training After Arrests Spark Outrage.**
-
-
-      All Starbucks stores will close the Tuesday after Memorial Day wkd**for
-      several hours** after protests in Philly get national attention.
-
-
-      Domino effect will cost millions.
-
-
-      Flip For Why
+      <div><h1>Starbucks Shutdown</h1><p><strong>Racial-bias Training After
+      Arrests Spark Outrage.</strong></p><p>All Starbucks stores will close the
+      Tuesday after Memorial Day wkd <strong>for several hours</strong> after
+      protests in Philly get national attention.</p><p>Domino effect will cost
+      millions.</p><p>Flip For Why</p></div>
     citation: Flip For Why
     _key: card-1-1d3f6ed2-66c7-4f1e-94e9-1874fd7b9e8a
   - order: 1
     useCheckmark: false
     body: >-
-      # Patron or Tresspasser?
-
-
-      * 2 men asked to use a Starbucks restroom.A An employee refused because
-      they had not bought anything, according to officials.
-
-      * Men sat down (they said they were waiting to meet a friend) & asked to
-      leave; police called.
-
-      * Video of the arrest has 10M views, creating #BoycottStarbucks.
-
-
-      [Click: Video](https://twitter.com/missydepino/status/984539713016094721)
+      <div><h1>Patron or Tresspasser?</h1><ul><li>2 men asked to use a Starbucks
+      restroom.A An employee refused because they had not bought anything,
+      according to officials.</li><li>Men sat down (they said they were waiting
+      to meet a friend) &amp; asked to leave; police called.</li><li>Video of
+      the arrest has 10M views, creating #BoycottStarbucks.</li></ul><p><a
+      href="https://twitter.com/missydepino/status/984539713016094721">Click:
+      Video</a></p></div>
     citation: 'Click: Video'
     _key: card-2-832426f2-b099-47e6-820e-a2d5c5963ac8
   - order: 2
     useCheckmark: false
     body: >-
-      ## Event Timeline
-
-
-      * **Thursday:** Incident in store (listen to 911 call on YouTube below).
-
-      * **Friday:** CEO apologizes.
-
-      * **Sunday:**A Protests in Philadelphia.
-
-      * **Monday:**A Protests continue, Starbucks CEO meets with 2 men.
-
-      * **Tuesday:** Starbucks announces company-wide racial-bias training for
-      175K workers at 8K stores.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/pFRP7QwlIH0?enablejsapi=1&autoplay=1&rel=0)
+      <div><h2>Event Timeline</h2><ul><li><strong>Thursday:</strong> Incident in
+      store (listen to 911 call on YouTube
+      below).</li><li><strong>Friday:</strong> CEO
+      apologizes.</li><li><strong>Sunday:</strong>A Protests in
+      Philadelphia.</li><li><strong>Monday:</strong>A Protests continue,
+      Starbucks CEO meets with 2 men.</li><li><strong>Tuesday:</strong>
+      Starbucks announces company-wide racial-bias training for 175K workers at
+      8K stores.</li></ul><p><a
+      href="https://www.youtube.com/embed/pFRP7QwlIH0?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     citation: Watch Now
     _key: card-3-dfafda71-d1d5-4619-957e-80878fe7bfda
   - order: 3
     useCheckmark: false
-    body: |-
-      TUESDAY MAY 29TH
-
-      ===================
-
-      ## STARBUCKS SHUTDOWN
-
-      Stores will close for a few hours**NOT the entire day** for training.
-
-      Est. say this will cost Starbucks approx. $12M
-
-      Did you know that Starbucks makes about $61M a day?
+    body: >-
+      <div><p>TUESDAY MAY 29TH</p><p>===================</p><h2>STARBUCKS
+      SHUTDOWN</h2><p>Stores will close for a few hours <strong>NOT the entire
+      day</strong> for training.</p><p>Est. say this will cost Starbucks approx.
+      $12M</p><p>Did you know that Starbucks makes about $61M a day?</p></div>
     _key: card-4-03770710-3c34-45c7-bed5-57d0846be9d8
   - order: 4
     useCheckmark: true
     body: >-
-      Back in 2008, Starbucks shut 7,100 of its US locations for 3 hours. But
-      that training "focused more on making the perfect latte as the company
-      struggled with sputtering sales," according to NYT.
-
-
-      [view sources](https://smarthernews.com/18-04-18-starbucks/)
+      <div><p>Back in 2008, Starbucks shut 7,100 of its US locations for 3
+      hours. But that training "focused more on making the perfect latte as the
+      company struggled with sputtering sales," according to NYT.</p><p><a
+      href="https://smarthernews.com/18-04-18-starbucks/">view
+      sources</a></p></div>
     _key: card-10-f5d1647a-d3d0-440f-bf72-dbf0e7183f6b
 
 ---

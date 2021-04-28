@@ -22,75 +22,47 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Will $500 Per Family Solve Poverty in America?
-
-
-      Stockton, California is giving it a try, testing “guaranteed income.”
-      Here’s why:
-
-
-      FLIP: For city's plan
+      <div><h2>Will $500 Per Family Solve Poverty in America?</h2><p>Stockton,
+      California is giving it a try, testing “guaranteed income.” Here’s
+      why:</p><p>FLIP: For city's plan</p></div>
     _key: card-1-cbfeddd0-49f2-418c-bb56-391b50d779ed
   - order: 1
     useCheckmark: false
     body: >-
-      # STOCKTON’S PLAN
-
-
-      * Starting early next year,A**100 families will receive $500 per month –
-      no strings attached.**
-
-      * Participation criteria undecided.
-
-      * **$1M grant** from Economic Security Project**funds program for 18
-      months**.
-
-      * Poverty plagues Stockton after the housing bust sent the city into
-      bankruptcy in 2012.
+      <div><h1>STOCKTON’S PLAN</h1><ul><li>Starting early next year,A
+      <strong>100 families will receive $500 per month – no strings
+      attached.</strong></li><li>Participation criteria
+      undecided.</li><li><strong>$1M grant</strong> from Economic Security
+      Project <strong>funds program for 18 months</strong>.</li><li>Poverty
+      plagues Stockton after the housing bust sent the city into bankruptcy in
+      2012.</li></ul></div>
     _key: card-2-c6f0cdb5-0b80-40e7-bb9a-45deff39e5be
   - order: 2
     useCheckmark: false
     body: >-
-      It’s Actually  
-
-      Not a New Idea…
-
-
-      _“I’m now convinced that the simplest approach will prove to be the most
-      effective solution to poverty is to abolish it directly by a now widely
-      discussed measure: the guaranteed income.”_  
-        
-        
-        
-      Martin Luther King, Jr. in his book Where Do We Go From Here: Chaos or
-      Community? (1967)
+      <div><p>It’s Actually<br>Not a New Idea… </p><p><em>“I’m now convinced
+      that the simplest approach will prove to be the most effective solution to
+      poverty is to abolish it directly by a now widely discussed measure: the
+      guaranteed income.”</em><br><br><br><br>Martin Luther King, Jr. in his
+      book Where Do We Go From Here: Chaos or Community? (1967)</p></div>
     _key: card-3-f1857d6a-60b9-4bd7-ba29-6c230be70c5e
   - order: 3
     useCheckmark: false
     body: >-
-      ## Critics Argue the Math Doesn’t Add Up
-
-
-      >   
-
-      _“I would prefer an approach that tells people, we will help you get jobs.
-      I don’t think the solution is to say, ‘OK, lets just start handing people
-      cash.'”_  
-        
-      Aparna Mathur, scholar at conservative-leaning American Enterprise
-      Institute
-
-
-      * $10K/yr x 300M Americans = $3T =A 3/4ths ofA_entire_ $4T fedl budget
+      <div><h2>Critics Argue the Math Doesn’t Add Up</h2><blockquote><br><em>“I
+      would prefer an approach that tells people, we will help you get jobs. I
+      don’t think the solution is to say, ‘OK, lets just start handing people
+      cash.'”</em><br><br>Aparna Mathur, scholar at conservative-leaning
+      American Enterprise Institute</blockquote><ul><li>$10K/yr x 300M Americans
+      = $3T =A 3/4ths ofA <em>entire</em> $4T fedl budget</li></ul></div>
     _key: card-4-e93ebe41-0cbd-4180-9dac-0f8701c5daaf
   - order: 4
     useCheckmark: true
     body: >-
-      Who are the backers behind the $1M Stockton funding? Click to learn more
-      about the Economic Security Project and why they are doing this.
-
-
-      [view sources](https://smarthernews.com/18-06-06-stockton/)
+      <div><p>Who are the backers behind the $1M Stockton funding? Click to
+      learn more about the Economic Security Project and why they are doing
+      this.</p><p><a href="https://smarthernews.com/18-06-06-stockton/">view
+      sources</a></p></div>
     _key: card-10-695070ac-7618-4342-ad95-3f7ae437e83a
 
 ---

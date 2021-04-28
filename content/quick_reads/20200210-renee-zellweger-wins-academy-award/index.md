@@ -21,16 +21,18 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: '> _“…great things come out of adversity.”_'
+    body: >-
+      <div><blockquote><em>“…great things come out of
+      adversity.”</em></blockquote><p></p></div>
     citation: RENÉE ZELLWEGER
     _key: 941ccc032171
   - order: 1
     useCheckmark: true
     body: >-
-      Zellweger won the Academy Award for Best Actress. In her acceptance speech
-      Sunday night, the Texas native thanked her immigrant parents, from Norway
-      and Switzerland respectively, for giving her the opportunity to pursue the
-      American dream.
+      <div><p>Zellweger won the Academy Award for Best Actress. In her
+      acceptance speech Sunday night, the Texas native thanked her immigrant
+      parents, from Norway and Switzerland respectively, for giving her the
+      opportunity to pursue the American dream.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 763c810d63d8
 

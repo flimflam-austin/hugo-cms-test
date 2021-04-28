@@ -22,18 +22,18 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## _“Don’t be afraid to let people know what it is you want to do with
-      your life. Don’t be hesitant. Be confident.”_
+      <div><h2><em>“Don’t be afraid to let people know what it is you want to do
+      with your life. Don’t be hesitant. Be confident.”</em></h2><p></p></div>
     citation: REGIS PHILBIN
     _key: 339074632cd8
   - order: 1
     useCheckmark: true
     body: >-
-      A son of a Marine, Regis Philbin served in the Marines during the Korean
-      War - he credits another Marine for giving him the push he needed to
-      pursue show business. He started in a prop department, rising through the
-      ranks to set the Guinness World Record for the most hours on camera. He
-      passed away at age 88.
+      <div><p>A son of a Marine, Regis Philbin served in the Marines during the
+      Korean War - he credits another Marine for giving him the push he needed
+      to pursue show business. He started in a prop department, rising through
+      the ranks to set the Guinness World Record for the most hours on camera.
+      He passed away at age 88.</p><p><br></p></div>
     citation: VIEW SOURCES
     _key: ee0cc4c77c27
 

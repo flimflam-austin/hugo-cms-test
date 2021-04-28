@@ -22,93 +22,71 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # “BRAIN FOG”
-
-
-      One mysterious, lingering symptom of COVID-19 catches the attention of top
-      health officials & perplexes doctors, sufferers alike.
+      <div><h1>“BRAIN FOG”</h1><p>One mysterious, lingering symptom of COVID-19
+      catches the attention of top health officials &amp; perplexes doctors,
+      sufferers alike.</p></div>
     _key: 0a364ef05cd9
   - order: 1
     useCheckmark: false
     body: >-
-      > If you talk to a significant number of people, they will tell you that,
-      for anywhere from weeks to months and possibly longer, that they have
-      symptoms that are characterized by fatigue and a thing that they refer to
-      as brain fog, which really means the difficulty concentrating.”
-
-
-      Dr. Anthony Fauci revealing during an interview with '60 Minutes' one of
-      his concerns over the long-term impact of the virus that causes COVID-19.
+      <div><blockquote>If you talk to a significant number of people, they will
+      tell you that, for anywhere from weeks to months and possibly longer, that
+      they have symptoms that are characterized by fatigue and a thing that they
+      refer to as brain fog, which really means the difficulty
+      concentrating.”</blockquote><p>Dr. Anthony Fauci revealing during an
+      interview with '60 Minutes' one of his concerns over the long-term impact
+      of the virus that causes COVID-19.</p></div>
     _key: 372dd58a0437
   - order: 2
     useCheckmark: false
     body: >-
-      > “It’s all related. The fact that people are losing their sense of smell,
-      the fact that people are losing their sense of taste, and the brain fog —
-      all this whole system is neurological.”
-
-
-      Stanford researcher Dr. Kari Nadeau leads an ongoing Stanford study on
-      long-term immunity to SARS-CoV-2. Patients recovering from COVID, across
-      age groups and gender, have described "brain fog" (a lack of mental
-      clarity, confusion) since early in the pandemic.
+      <div><blockquote>“It’s all related. The fact that people are losing their
+      sense of smell, the fact that people are losing their sense of taste, and
+      the brain fog — all this whole system is
+      neurological.”</blockquote><p>Stanford researcher Dr. Kari Nadeau leads an
+      ongoing Stanford study on long-term immunity to SARS-CoV-2. Patients
+      recovering from COVID, across age groups and gender, have described "brain
+      fog" (a lack of mental clarity, confusion) since early in the
+      pandemic.</p></div>
     _key: bad6b9dcb4f0
   - order: 3
     useCheckmark: false
     body: >-
-      > “Everything in my brain was white static … I was sitting on the edge of
-      the bed, crying and feeling ‘something’s wrong, I should be asking for
-      help,’ but I couldn’t remember who or what I should be asking. I forgot
-      who I was and where I was.”
-
-
-      31-year-old Erica Taylor who says her "brain fog" after COVID-19 became so
-      debilitating she was forced to take a temporary leave from her job.
+      <div><blockquote>“Everything in my brain was white static … I was sitting
+      on the edge of the bed, crying and feeling ‘something’s wrong, I should be
+      asking for help,’ but I couldn’t remember who or what I should be asking.
+      I forgot who I was and where I was.”</blockquote><p>31-year-old Erica
+      Taylor who says her "brain fog" after COVID-19 became so debilitating she
+      was forced to take a temporary leave from her job.</p></div>
     _key: ea2cdeb9caa4
   - order: 4
     useCheckmark: false
     body: >-
-      ## What Do We Know:
-
-
-      > “It’s subtle, but it is very real.”
-
-
-      * The “dysfunction” some have experienced usually won’t surface during a
-      brain scan, according to neurologist Dr. Joanna Hellmuth at University of
-      California, San Francisco.
-
-      * Hellmuth says she sees the impact on cognitive tests, consistent with
-      other viruses that can impact cognitive health.
+      <div><h2>What Do We Know:</h2><blockquote>“It’s subtle, but it is very
+      real.”</blockquote><ul><li>The “dysfunction” some have experienced usually
+      won’t surface during a brain scan, according to neurologist Dr. Joanna
+      Hellmuth at University of California, San Francisco.</li><li>Hellmuth says
+      she sees the impact on cognitive tests, consistent with other viruses that
+      can impact cognitive health.</li></ul></div>
     _key: 179b0b9f9060
   - order: 5
     useCheckmark: false
     body: >-
-      ## Why?
-
-
-      No one knows 100%.
-
-
-      Here’s some early thinking:
-
-
-      * Brain cells *can* (though rarely) become infected with COVID-19.
-
-      * Inflammation of the body can lead to issues including small, subtle
-      strokes.
-
-      * Low oxygen levels in the blood can have an impact.
-
-      * An exhausted immune system could play a role.
+      <div><h2>Why?</h2><p>No one knows 100%.</p><p>Here’s some early
+      thinking:</p><ul><li>Brain cells *can* (though rarely) become infected
+      with COVID-19.</li><li>Inflammation of the body can lead to issues
+      including small, subtle strokes.</li><li>Low oxygen levels in the blood
+      can have an impact.</li><li>An exhausted immune system could play a
+      role.</li></ul></div>
     _key: d8e0f4723d07
   - order: 6
     useCheckmark: true
     body: >-
-      One encouraging note: Doctors and those recovering from COVID-19 say this
-      fog can "lift" - that it's not permanent. A reminder: This week marks 9
-      months since the first diagnosed case of COVID-19 in America; research on
-      the impact of COVID - both mentally and physically - remains limited.
+      <div><p>One encouraging note: Doctors and those recovering from COVID-19
+      say this fog can "lift" - that it's not permanent. A reminder: This week
+      marks 9 months since the first diagnosed case of COVID-19 in America;
+      research on the impact of COVID - both mentally and physically - remains
+      limited.</p><p></p></div>
     citation: VIEW SOURCES
     _key: b6e400fbca3d
 

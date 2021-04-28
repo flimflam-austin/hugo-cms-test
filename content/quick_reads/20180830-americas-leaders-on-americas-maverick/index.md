@@ -22,93 +22,67 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## America’s Leaders on America’s Maverick
-
-
-      > As we hear from our leaders on Sen. John McCain’s death, a look back at
-      their words during his life.  
-        
-        
-        
-      **“He loves his country. And if he has to stand up to his party for his
-      country, so be it. He would die for this country.”**  
-        
-        
-        
-      Sen. Lindsey Graham (R-SC), March 2017
+      <div><h2>America’s Leaders on America’s Maverick</h2><blockquote>As we
+      hear from our leaders on Sen. John McCain’s death, a look back at their
+      words during his life.<br><br><br><br><strong>“He loves his country. And
+      if he has to stand up to his party for his country, so be it. He would die
+      for this country.”</strong><br><br><br><br>Sen. Lindsey Graham (R-SC),
+      March 2017</blockquote></div>
     _key: card-1-ae1226fe-857e-463a-8852-21b832f535ee
   - order: 1
     useCheckmark: false
     body: >-
-      > “John McCain is an American hero & one of the bravest fighters I’ve ever
-      known.”  
-        
-        
-        
-      Former President Barack Obama, July 2017
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/ggmk9uwAXvE?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>“John McCain is an American hero &amp; one of the bravest
+      fighters I’ve ever known.”<br><br><br><br>Former President Barack Obama,
+      July 2017</blockquote><p><a
+      href="https://www.youtube.com/embed/ggmk9uwAXvE?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-2-4dc77044-d2fc-45c3-a457-a7c96b9db18e
   - order: 2
     useCheckmark: false
     body: >-
-      > “John McCain’s life is a story of service above self…. John is an
-      independent man who thinks for himself. He’s not afraid to tell you when
-      he disagrees. Believe me, I know. No matter what the issue, this man is
-      honest and speaks straight from the heart.”  
-        
-        
-        
-      Former President George W. Bush, September 2008
+      <blockquote>“John McCain’s life is a story of service above self…. John is
+      an independent man who thinks for himself. He’s not afraid to tell you
+      when he disagrees. Believe me, I know. No matter what the issue, this man
+      is honest and speaks straight from the heart.”<br><br><br><br>Former
+      President George W. Bush, September 2008</blockquote>
     _key: card-3-9e1fc4a9-1ffa-4865-bdbd-f9ef65bee067
   - order: 3
     useCheckmark: false
     body: >-
-      > “I know if I picked up the phone tonight and called John McCain and
-      said, ‘John, I’m at 2nd and Vine in Oshkosh and I need your help. Come,’
-      he’d get on a plane and come. And I would for him, too.”  
-        
-        
-        
-      Former Vice President Joe Biden on 'The View,' December 2017
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/3Sa8G-VR13Q?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>“I know if I picked up the phone tonight and called John
+      McCain and said, ‘John, I’m at 2nd and Vine in Oshkosh and I need your
+      help. Come,’ he’d get on a plane and come. And I would for him,
+      too.”<br><br><br><br>Former Vice President Joe Biden on 'The View,'
+      December 2017</blockquote><p><a
+      href="https://www.youtube.com/embed/3Sa8G-VR13Q?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-4-b9cc9c3c-5c79-411b-afb6-87cb6fad60b4
   - order: 4
     useCheckmark: false
     body: >-
-      > "In my lifetime, he’s one of the most remarkable patriots our country’s
-      ever produced. I love the guy."  
-        
-        
-        
-      Former President Bill Clinton, May 2018
+      <blockquote>"In my lifetime, he’s one of the most remarkable patriots our
+      country’s ever produced. I love the guy."<br><br><br><br>Former President
+      Bill Clinton, May 2018</blockquote>
     _key: card-5-a3e5274f-b934-48fe-9259-fb4b0596e1b4
   - order: 5
     useCheckmark: false
     body: >-
-      > “I know this: As soon as my boys are of age, I’ll tell them stories
-      about the quality of the man I’ve gotten to know. I’ll tell them: Senator
-      John McCain will be revered and respected for as long as the United States
-      of America has a place in this world, and his legacy will outlive us
-      all.”  
-        
-        
-      Larry Fitzgerald, AZ Cardinals wide receiver, in a December 2017 op-ed
-
-
-      [WORTH THE
-      READ](https://www.si.com/nfl/2017/12/23/larry-fitzgerald-senator-john-mccain-arizona-vietnam-war-pow)
+      <div><blockquote>“I know this: As soon as my boys are of age, I’ll tell
+      them stories about the quality of the man I’ve gotten to know. I’ll tell
+      them: Senator John McCain will be revered and respected for as long as the
+      United States of America has a place in this world, and his legacy will
+      outlive us all.”<br><br><br>Larry Fitzgerald, AZ Cardinals wide receiver,
+      in a December 2017 op-ed</blockquote><p><a
+      href="https://www.si.com/nfl/2017/12/23/larry-fitzgerald-senator-john-mccain-arizona-vietnam-war-pow">WORTH
+      THE READ</a></p></div>
     _key: card-6-fc762c05-1274-4ff1-a2d7-5f123d0e2b7c
   - order: 6
     useCheckmark: true
     body: >-
-      [view
-      sources](https://smarthernews.com/americas-leaders-on-americas-maverick/)
+      <p><a
+      href="https://smarthernews.com/americas-leaders-on-americas-maverick/">view
+      sources</a></p>
     _key: card-10-d93882f1-9aca-446e-8351-02d2ff1a5208
 
 ---

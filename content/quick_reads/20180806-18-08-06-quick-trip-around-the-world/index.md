@@ -21,74 +21,56 @@ colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ~ 3 HOT SPOTS ~  
-      3 HEADLINES TO KNOW
-
-      **Venezuela**…  
-      **Iran**…  
-      **Afghanistan**…  
-      all in the news this weekend.
-
-      **Here’s What Happened** &  
-      **Why It Matters**
+    body: >-
+      <div><p>~ 3 HOT SPOTS ~<br>3 HEADLINES TO
+      KNOW</p><p><strong>Venezuela</strong>…<br><strong>Iran</strong>…<br><strong>Afghanistan</strong>…<br>all
+      in the news this weekend.</p><p><strong>Here’s What Happened</strong>
+      &amp;<br><strong>Why It Matters</strong></p></div>
     _key: card-1-126f2293-000b-45df-8809-0979ce0bf6c7
   - order: 1
     useCheckmark: false
     body: >-
-      ## VENEZUELA: Tinder Box
-
-
-      * Alleged assassination attempt on President Nicholas Maduro during
-      outdoor speech Saturday.
-
-      * Anti-Maduro group took credit for drones (that exploded), but varying
-      reports from scene.
-
-      * **Bottom Line:** Venezuela in crisis; economy collapsing & public
-      pressure mounting on Maduro.
-
-
-      [Click: Watch
-      Explosion](https://twitter.com/NTN24ve/status/1026201174024900608)
+      <div><h2>VENEZUELA: Tinder Box</h2><ul><li>Alleged assassination attempt
+      on President Nicholas Maduro during outdoor speech
+      Saturday.</li><li>Anti-Maduro group took credit for drones (that
+      exploded), but varying reports from scene.</li><li><strong>Bottom
+      Line:</strong> Venezuela in crisis; economy collapsing &amp; public
+      pressure mounting on Maduro.</li></ul><p><a
+      href="https://twitter.com/NTN24ve/status/1026201174024900608">Click: Watch
+      Explosion</a></p></div>
     _key: card-2-717a30c0-402f-4ecc-b47d-bcb8ea4f5c7d
   - order: 2
     useCheckmark: false
     body: >-
-      ## IRAN: Economy Matters
-
-
-      * U.S. will reportedly “snap back” sanctions on Iran from before “nuclear
-      deal” early this week. Energy sector (#1 Iran export) sanctions expected
-      in Nov.
-
-      * Pres. Trump tweeted about mtg w/ Iran leadership (or not).
-
-      * **Backdrop**: Iran economy already struggling & public discontent rising
-      w/ gov’t. Often overlooked: major drought adding pressure.
+      <div><h2>IRAN: Economy Matters</h2><ul><li>U.S. will reportedly “snap
+      back” sanctions on Iran from before “nuclear deal” early this week. Energy
+      sector (#1 Iran export) sanctions expected in Nov.</li><li>Pres. Trump
+      tweeted about mtg w/ Iran leadership (or
+      not).</li><li><strong>Backdrop</strong>: Iran economy already struggling
+      &amp; public discontent rising w/ gov’t. Often overlooked: major drought
+      adding pressure.</li></ul></div>
     _key: card-3-d3a44992-5f32-45de-9a66-b47681e0df91
   - order: 3
     useCheckmark: false
-    body: |-
-      ## AFGHANISTAN: Attacks
-
-      * Taliban & ISIS launched separate attacks over the weekend.
-      * Taliban-led attack on NATO foot patrol; killed 3 Czech soldiers.
-      * 1 American injured in attack (FYI: an American also killed mid-July).
-      * Recent Defense Dep’t budget turns focus to China & Russia.
-      * **Bottom Line**: Easy to forget, but U.S. still very much at war.
+    body: >-
+      <div><h2>AFGHANISTAN: Attacks</h2><ul><li>Taliban &amp; ISIS launched
+      separate attacks over the weekend.</li><li>Taliban-led attack on NATO foot
+      patrol; killed 3 Czech soldiers.</li><li>1 American injured in attack
+      (FYI: an American also killed mid-July).</li><li>Recent Defense Dep’t
+      budget turns focus to China &amp; Russia.</li><li><strong>Bottom
+      Line</strong>: Easy to forget, but U.S. still very much at
+      war.</li></ul></div>
     _key: card-4-e0f1459f-3308-4275-9c9b-09f8cd0dd4c5
   - order: 4
     useCheckmark: true
     body: >-
-      The instability (and unpredictability) in Iran & Venezuela, 2 large oil
-      producers, has led some to wonder about the impact on the global oil
-      market. This could be a big story later this year. There's always a risk
-      of higher costs for consumers, but could also benefit U.S. oil producers.
-
-
-      [view
-      sources](https://smarthernews.com/18-08-06-quick-trip-around-the-world/)
+      <div><p>The instability (and unpredictability) in Iran &amp; Venezuela, 2
+      large oil producers, has led some to wonder about the impact on the global
+      oil market. This could be a big story later this year. There's always a
+      risk of higher costs for consumers, but could also benefit U.S. oil
+      producers.</p><p><a
+      href="https://smarthernews.com/18-08-06-quick-trip-around-the-world/">view
+      sources</a></p></div>
     _key: card-10-25d9df55-4f42-4ce5-8951-e134911830b9
 
 ---

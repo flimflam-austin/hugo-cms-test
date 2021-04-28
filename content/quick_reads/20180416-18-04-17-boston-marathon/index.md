@@ -22,83 +22,53 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # “She’s Done It, Baby!”
-
-
-      > First American woman in 33 years to win the Boston Marathon.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/Em05ryjKyrI?enablejsapi=1&autoplay=1&rel=0)
+      <div><h1>“She’s Done It, Baby!”</h1><blockquote>First American woman in 33
+      years to win the Boston Marathon.</blockquote><p><a
+      href="https://www.youtube.com/embed/Em05ryjKyrI?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     citation: Watch Now
     _key: card-1-72c32fc3-77fc-4c33-b9ed-5eed86c70714
   - order: 1
     useCheckmark: false
     body: >-
-      ## Desiree (Desi) Linden
-
-
-      * Won inA**2 hrs 39 mins 54 secs** through freezing temps & rain.
-
-      * **6th attempt** at Boston Marathon.
-
-      * **2-time Olympian** (London & Rio).
-
-      * Self-described “bourbon geek.”
-
-      * Lives in Michigan where she, her husband (a triathlete) & 2 other
-      runners, own Linden & True coffee biz.
-
-
-      FLIP: Why she almost dropped out mid-race
+      <div><h2>Desiree (Desi) Linden</h2><ul><li>Won inA <strong>2 hrs 39 mins
+      54 secs</strong> through freezing temps &amp; rain.</li><li><strong>6th
+      attempt</strong> at Boston Marathon.</li><li><strong>2-time
+      Olympian</strong> (London &amp; Rio).</li><li>Self-described “bourbon
+      geek.”</li><li>Lives in Michigan where she, her husband (a triathlete)
+      &amp; 2 other runners, own Linden &amp; True coffee biz.</li></ul><p>FLIP:
+      Why she almost dropped out mid-race</p></div>
     citation: 'FLIP: Why she almost dropped out mid-race'
     _key: card-2-aea19e13-49ed-4ed1-a050-d94776cb784c
   - order: 2
     useCheckmark: false
     body: >-
-      ## Sportswomanship Pays Off
-
-
-      > A Linden won it all despite slowing down to wait for her running mate to
-      take a potty break.  
-        
-        
-        
-      **_“Honestly at mile 2, 3, 4, I didn’t feel like I was gonna even make it
-      to the finish line. …When you work together, you never know what’s goingA
-      to happen.”_**  
-
-      Desi Linden to NBC Sports
-
-
-      FLIP FOR MORE
+      <div><h2>Sportswomanship Pays Off</h2><blockquote>A Linden won it all
+      despite slowing down to wait for her running mate to take a potty
+      break.<br><br><br><br><strong><em>“Honestly at mile 2, 3, 4, I didn’t feel
+      like I was gonna even make it to the finish line. …When you work together,
+      you never know what’s goingA to happen.”</em></strong><br>Desi Linden to
+      NBC Sports</blockquote><p>FLIP FOR MORE</p></div>
     citation: FLIP FOR MORE
     _key: card-3-47120839-6cd2-477e-8e3a-0dbff643aef2
   - order: 3
     useCheckmark: false
     body: >-
-      ## Marathon Moments
-
-
-      Japan’s**Yuki Kawauchi** won the men’s marathonA in 2:15:58, the country’s
-      1st race winner since 1987.
-
-
-      **Loren Zitomersky (aka Backwards Guy**) didn’t break the world record,
-      but did raise $65K+ to end epilepsy.
-
-
-      **5 years ago**A terrorists killed 3 people & wounded hundreds by
-      detonating bombs along race route.
+      <div><h2>Marathon Moments</h2><p>Japan’s <strong>Yuki Kawauchi</strong>
+      won the men’s marathonA in 2:15:58, the country’s 1st race winner since
+      1987.</p><p><strong>Loren Zitomersky (aka Backwards Guy</strong>) didn’t
+      break the world record, but did raise $65K+ to end
+      epilepsy.</p><p><strong>5 years ago</strong>A terrorists killed 3 people
+      &amp; wounded hundreds by detonating bombs along race route.</p></div>
     _key: card-4-75132f11-e00f-4c5d-bb6f-56d3257f04fc
   - order: 4
     useCheckmark: true
     body: >-
-      The last American woman to win the Boston Marathon was Lisa Rainsberger in
-      1985. See what she had to say about Desi's win - click here.
-
-
-      [view sources](https://smarthernews.com/18-04-17-boston-marathon/)
+      <div><p>The last American woman to win the Boston Marathon was Lisa
+      Rainsberger in 1985. See what she had to say about Desi's win - click
+      here.</p><p><a
+      href="https://smarthernews.com/18-04-17-boston-marathon/">view
+      sources</a></p></div>
     _key: card-10-affd0f98-5a4e-418d-ac06-f42a1fead637
 
 ---

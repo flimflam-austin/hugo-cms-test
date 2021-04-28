@@ -22,69 +22,47 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Mirror Mirror On The Wall…
-
-
-      Primary elections expose battles within major political parties, as each
-      seeks to be the fairest of the land.
-
-
-      To Your Corners!
+      <div><h1>Mirror Mirror On The Wall…</h1><p>Primary elections expose
+      battles within major political parties, as each seeks to be the fairest of
+      the land.</p><p>To Your Corners!</p></div>
     _key: card-1-1bfcd2ea-a863-44c7-8aaf-0085ba5b2e7c
   - order: 1
     useCheckmark: false
     body: >-
-      # Who’s The Most Progressive?
-
-
-      New York primary exposes divide in Democrat party.
-
-
-      * More progressive candidate unseats 10-term Congressman in blue district.
-
-      * Likely *new* congresswoman Alexandria Ocasio-Cortez:
-      28-year-old**socialist**, with little funding or name recognition.
+      <div><h1>Who’s The Most Progressive?</h1><p>New York primary exposes
+      divide in Democrat party.</p><ul><li>More progressive candidate unseats
+      10-term Congressman in blue district.</li><li>Likely *new* congresswoman
+      Alexandria Ocasio-Cortez: 28-year-old <strong>socialist</strong>, with
+      little funding or name recognition.</li></ul></div>
     _key: card-2-14f88722-7b37-4249-a39e-ee5194754afe
   - order: 2
     useCheckmark: false
     body: >-
-      ## Who’s The \*Best\* Conservative?
-
-
-      Small Gov’t vs. Big Gov’t
-
-
-      * In focus: South Carolina primary race for Trey Gowdy’s seat.
-
-      * Candidate,A state Sen. William Timmons, supported by current
+      <div><h2>Who’s The \*Best\* Conservative?</h2><p>Small Gov’t vs. Big
+      Gov’t</p><ul><li>In focus: South Carolina primary race for Trey Gowdy’s
+      seat.</li><li>Candidate,A state Sen. William Timmons, supported by current
       Congressional leadership, beat out a candidate supported by a low tax,
-      small gov’t GOP group.
+      small gov’t GOP group.</li></ul></div>
     _key: card-3-23bbd587-9ebb-41ae-952f-291bb11ff8bb
   - order: 3
     useCheckmark: false
     body: >-
-      ## The Trump Effect
-
-
-      The President’s Political Capital
-
-
-      * In South Carolina, the President’s choice for Governor cruised to
-      victory despite a close previous vote that led to a runoff.
-
-      * In New York, the President’s pick for congressional candidate defeated a
-      well-known, though controversial, challenger.
+      <div><h2>The Trump Effect</h2><p>The President’s Political
+      Capital</p><ul><li>In South Carolina, the President’s choice for Governor
+      cruised to victory despite a close previous vote that led to a
+      runoff.</li><li>In New York, the President’s pick for congressional
+      candidate defeated a well-known, though controversial,
+      challenger.</li></ul></div>
     _key: card-4-bbc6fecd-dd82-43c5-bec9-f433b14773f1
   - order: 4
     useCheckmark: true
     body: >-
-      Despite sparring with Pres. Trump, former Gov. & presidential candidate
-      Mitt Romney won his election in Utah making it a likely scenario that he
-      will become the state's next Senator. Read more on what these elections
-      mean for 2020.
-
-
-      [view sources](https://smarthernews.com/18-06-27-primary-takeaway/)
+      <div><p>Despite sparring with Pres. Trump, former Gov. &amp; presidential
+      candidate Mitt Romney won his election in Utah making it a likely scenario
+      that he will become the state's next Senator. Read more on what these
+      elections mean for 2020.</p><p><a
+      href="https://smarthernews.com/18-06-27-primary-takeaway/">view
+      sources</a></p></div>
     _key: card-10-e9b2aa40-8f23-40e8-9688-19034ecf228a
 
 ---

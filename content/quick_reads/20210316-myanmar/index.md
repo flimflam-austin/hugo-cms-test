@@ -21,83 +21,64 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Fight For Freedom
-
-
-      > A military coup in Myanmar has grown more violent and deadly – as the
-      resistance grows more resolute.  
-        
-      What’s Going On  
-
-      Why It Matters
+      <div><h1>Fight For Freedom</h1><blockquote>A military coup in Myanmar has
+      grown more violent and deadly – as the resistance grows more
+      resolute.<br><br>What’s Going On<br>Why It Matters</blockquote></div>
     _key: 0afb64d09272
   - order: 1
     useCheckmark: false
     body: >-
-      ## Background: The Basics
-
-
-      * Myanmar is also known as Burma.
-
-      * After gaining independence from Britain in 1948, military rule has
-      continued in varying degrees.
-
-      * Site of the**world’s longest civil war** as military has battled ethnic
-      minorities.
-
-      * A move toward democracy with open elections was fleeting. After the
-      pro-democracy party won overwhelmingly in the 2020 election, the military
-      seized power, claiming election fraud.
+      <div><h2>Background: The Basics</h2><ul><li>Myanmar is also known as
+      Burma.</li><li>After gaining independence from Britain in 1948, military
+      rule has continued in varying degrees.</li><li>Site of the <strong>world’s
+      longest civil war</strong> as military has battled ethnic
+      minorities.</li><li>A move toward democracy with open elections was
+      fleeting. After the pro-democracy party won overwhelmingly in the 2020
+      election, the military seized power, claiming election
+      fraud.</li></ul></div>
     _key: a18c508c2128
   - order: 2
     useCheckmark: false
     body: >-
-      > “The world is upside down in Myanmar. We must fight until we win. The
-      regime must step down. There is no place for any dictator here in
-      Myanmar.”
-
-
-      U Tin Tun, 46, to The New York Times. Locals have taken to the streets in
-      nearly-constant protests since the Feb. 1 military coup. The military has
-      met the opposition with violence; the United Nations estimates 149
-      protesters have been killed since the coup began. 50+ were killed this
-      weekend – reportedly the deadliest exchange to date.
+      <div><blockquote>“The world is upside down in Myanmar. We must fight until
+      we win. The regime must step down. There is no place for any dictator here
+      in Myanmar.”</blockquote><p>U Tin Tun, 46, to The New York Times. Locals
+      have taken to the streets in nearly-constant protests since the Feb. 1
+      military coup. The military has met the opposition with violence; the
+      United Nations estimates 149 protesters have been killed since the coup
+      began. 50+ were killed this weekend – reportedly the deadliest exchange to
+      date.</p></div>
     _key: e3e1f762869b
   - order: 3
     useCheckmark: false
     body: >-
-      > “We have continued to consistently inquire about her health and safety,
-      as well as the health and safety of all detained leaders and civil society
-      actors …”
-
-
-      U.S. State Dept. spokesman Ned Price on Aung San Suu Kyi, the former
-      civilian head of govt. Kyi was previously awarded the Nobel Peace Prize
-      for her work advocating for democracy in Myanmar. Two members of Kyi's
-      National League for Democracy recently died in military custody; her
-      condition and whereabouts are unknown.
+      <div><blockquote>“We have continued to consistently inquire about her
+      health and safety, as well as the health and safety of all detained
+      leaders and civil society actors …”</blockquote><p>U.S. State Dept.
+      spokesman Ned Price on Aung San Suu Kyi, the former civilian head of govt.
+      Kyi was previously awarded the Nobel Peace Prize for her work advocating
+      for democracy in Myanmar. Two members of Kyi's National League for
+      Democracy recently died in military custody; her condition and whereabouts
+      are unknown.</p></div>
     _key: 36ccbb0d11c0
   - order: 4
     useCheckmark: false
     body: >-
-      ## Why This Matters
-
-
-      Myanmar’s move toward democracy (even with a military role in govt.) was
-      seen as a move toward the West and a free, open society – a_“strategic
-      victory for Washington in China’s backyard.”_ (The Wall Street Journal)
-
-
-      The military’s violent crackdown is getting worse – leading to more death
-      and violence, *and* further alignment with China.
+      <div><h2>Why This Matters</h2><p>Myanmar’s move toward democracy (even
+      with a military role in govt.) was seen as a move toward the West and a
+      free, open society – a <em>“strategic victory for Washington in China’s
+      backyard.”</em> (The Wall Street Journal)</p><p>The military’s violent
+      crackdown is getting worse – leading to more death and violence, *and*
+      further alignment with China.</p></div>
     _key: bd8b67209f48
   - order: 5
     useCheckmark: true
     body: >-
-      The U.S. has issued sanctions on the regime, as well as an emergency order
-      allowing Myanmar citizens to stay in the U.S. for up to 18 months instead
-      of returning home to the violence. Critics say without a concerted effort
-      by the international community, the sanctions will not pressure change.
+      <p><br><br>The U.S. has issued sanctions on the regime, as well as an
+      emergency order allowing Myanmar citizens to stay in the U.S. for up to 18
+      months instead of returning home to the violence. Critics say without a
+      concerted effort by the international community, the sanctions will not
+      pressure change.</p>
     citation: VIEW SOURCES
     _key: b93d7574a58d
 

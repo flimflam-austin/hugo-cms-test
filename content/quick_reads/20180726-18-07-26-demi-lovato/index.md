@@ -22,23 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “It’s all about self love. Tell yourself you’re beautiful daily. Be
-      gentle with yourself.”
-
-
-      Demi Lovato
+      <div><blockquote>“It’s all about self love. Tell yourself you’re beautiful
+      daily. Be gentle with yourself.”</blockquote><p>Demi Lovato</p></div>
     citation: Demi Lovato
     _key: card-1-463ea11e-9934-4d15-8fef-df11f3a95412
   - order: 1
     useCheckmark: true
     body: >-
-      The 25-year-old pop star is "awake & recovering" after a reported
-      overdose. Lovato has been open about her bipolar disorder & addiction
-      struggles. In her new single, "Sober", she apologized to her parents,
-      fans, and herself for relapsing after six years of sobriety.
-
-
-      [view sources](https://smarthernews.com/18-07-26-demi-lovato/)
+      <div><p>The 25-year-old pop star is "awake &amp; recovering" after a
+      reported overdose. Lovato has been open about her bipolar disorder &amp;
+      addiction struggles. In her new single, "Sober", she apologized to her
+      parents, fans, and herself for relapsing after six years of
+      sobriety.</p><p><a
+      href="https://smarthernews.com/18-07-26-demi-lovato/">view
+      sources</a></p></div>
     _key: card-10-829a4aec-419d-4f27-8110-3d555c6fcfdc
 
 ---

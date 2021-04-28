@@ -22,89 +22,61 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Hitting Close To Home
-
-
-      President Trump takes on Amazon.
-
-
-      More than 6 out of 10 American households have an Amazon “Prime”
-      Membership.
-
-
-      But is this part of a bigger deal that no one is watching?
-
-
-      Flip: What's Going On?
+      <div><h2>Hitting Close To Home</h2><p>President Trump takes on
+      Amazon.</p><p>More than 6 out of 10 American households have an Amazon
+      “Prime” Membership.</p><p>But is this part of a bigger deal that no one is
+      watching?</p><p>Flip: What's Going On?</p></div>
     citation: 'Flip: What''s Going On?'
     _key: card-1-78331ea3-ba3b-43eb-8ee7-1de5070e6ba8
   - order: 1
     useCheckmark: false
     body: >-
-      > “Only fools, or worse, are saying that our money losing Post Office
-      makes money with Amazon. THEY LOSE A FORTUNE, and this will be changed.
-      Also, our fully tax paying retailers are closing stores all over the
-      country…not a level playing field!”  
-        
-        
-        
-      President Trump via Twitter, April 2, 2018
+      <blockquote>“Only fools, or worse, are saying that our money losing Post
+      Office makes money with Amazon. THEY LOSE A FORTUNE, and this will be
+      changed. Also, our fully tax paying retailers are closing stores all over
+      the country…not a level playing field!”<br><br><br><br>President Trump via
+      Twitter, April 2, 2018</blockquote>
     _key: card-2-ca058bfc-de8d-4102-8439-842282754810
   - order: 2
     useCheckmark: false
     body: >-
-      ## Post Office Problem$
-
-
-      * U.S. Postal Service (USPS) is bleeding money (lost $2.7B last yr,**$63B
-      since 2007**), mostly due to pension & health care costs.
-
-      * Pkg delivery a source of revenue, but not enough to cover losses.
-
-      * USPS has “deal” with Amazon but we don’t know the specifics (USPS is
-      independently operated and makes deals with retailers outside of gov’t
-      oversight).
+      <div><h2>Post Office Problem$</h2><ul><li>U.S. Postal Service (USPS) is
+      bleeding money (lost $2.7B last yr, <strong>$63B since 2007</strong>),
+      mostly due to pension &amp; health care costs.</li><li>Pkg delivery a
+      source of revenue, but not enough to cover losses.</li><li>USPS has “deal”
+      with Amazon but we don’t know the specifics (USPS is independently
+      operated and makes deals with retailers outside of gov’t
+      oversight).</li></ul></div>
     _key: card-3-aefcf81b-b2d3-4a28-8d98-9673434101ae
   - order: 3
     useCheckmark: false
     body: >-
-      > “I have stated my concerns with Amazon long before the Election. Unlike
-      others, they pay little or no taxes to state & local governments, use our
-      Postal System as their Delivery Boy (causing tremendous loss to the U.S.),
-      and are putting many thousands of retailers out of business!”  
-        
-        
-        
-      President Trump via Twitter, March 29, 2018
+      <blockquote>“I have stated my concerns with Amazon long before the
+      Election. Unlike others, they pay little or no taxes to state &amp; local
+      governments, use our Postal System as their Delivery Boy (causing
+      tremendous loss to the U.S.), and are putting many thousands of retailers
+      out of business!”<br><br><br><br>President Trump via Twitter, March 29,
+      2018</blockquote>
     _key: card-4-d0cf2b9e-f099-4175-8620-9ae4a79af14c
   - order: 4
     useCheckmark: false
     body: >-
-      Fact Check:  
-
-      Is Amazon A Tax Cheat?
-
-
-      * One of largest U.S. companies, but pays nearly $0 in fed’l taxes (by
-      using tax breaks & credits)
-
-      * Amazon paid $957M in income taxes in 2017.
-
-      * Amazon *used* to not collect sales tax (arguably hurting state/local
-      govt), but has since ’17.
-
-      * Amazon uses USPS to deliver pkgs because it’s cheaper. Period.
+      <div><p>Fact Check:<br>Is Amazon A Tax Cheat?</p><ul><li>One of largest
+      U.S. companies, but pays nearly $0 in fed’l taxes (by using tax breaks
+      &amp; credits)</li><li>Amazon paid $957M in income taxes in
+      2017.</li><li>Amazon *used* to not collect sales tax (arguably hurting
+      state/local govt), but has since ’17.</li><li>Amazon uses USPS to deliver
+      pkgs because it’s cheaper. Period.</li></ul></div>
     _key: card-5-454c8952-3afc-4726-a4e9-5cc948c93255
   - order: 5
     useCheckmark: true
     body: >-
-      Fox Business Anchor & Harvard Business School Grad, Melissa Francis, says
-      the tweets on Amazon are all part of the President's plan to negotiate
-      Amazon DOWN on a completely separate government contract. She says this is
-      a pattern...
-
-
-      [view sources](https://smarthernews.com/18-04-02-potus-amazon-tweets/)
+      <div><p>Fox Business Anchor &amp; Harvard Business School Grad, Melissa
+      Francis, says the tweets on Amazon are all part of the President's plan to
+      negotiate Amazon DOWN on a completely separate government contract. She
+      says this is a pattern...</p><p><a
+      href="https://smarthernews.com/18-04-02-potus-amazon-tweets/">view
+      sources</a></p></div>
     _key: card-10-69f58996-4975-4a5f-a844-57f6b69ecb05
 
 ---

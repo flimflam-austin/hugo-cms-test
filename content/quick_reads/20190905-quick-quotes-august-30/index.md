@@ -22,73 +22,63 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "I never got to meet her, I never got to tell her that I love her. But
-      I’ll be damned if I ain’t gonna say goodbye to her. She saved my life."  
-        
-        
-      Rhonda Jefferson paying her respects to Aretha Franklin. Ms. Jefferson
-      said Franklin's music inspired her to leave an abusive relationship.
-      Franklin's funeral is Friday at 10am ET in Detroit. Stevie Wonder, Ariana
-      Grande & Faith Hill will perform.
+      <blockquote>"I never got to meet her, I never got to tell her that I love
+      her. But I’ll be damned if I ain’t gonna say goodbye to her. She saved my
+      life."<br><br><br>Rhonda Jefferson paying her respects to Aretha Franklin.
+      Ms. Jefferson said Franklin's music inspired her to leave an abusive
+      relationship. Franklin's funeral is Friday at 10am ET in Detroit. Stevie
+      Wonder, Ariana Grande &amp; Faith Hill will perform.</blockquote>
     _key: card-1-9571cc8f-fb40-4584-a269-1200e508c8a5
   - order: 1
     useCheckmark: false
     body: >-
-      > “…out of an abundance of caution and concern for the safety of our
-      students and employees, I am turning off all drinking water in our
-      schools…”  
-        
-      Nikolai Vitti, Superintendent, as Detroit Public Schools find elevated
-      levels of lead & copper in 16 of 24 of its schools. The EPA warns lead &
-      copper can leach from corroded pipes and contaminate water supply over
-      time causing various ailments from stomach aches to brain damage. Bottled
-      water will be provided.
+      <blockquote>“…out of an abundance of caution and concern for the safety of
+      our students and employees, I am turning off all drinking water in our
+      schools…”<br><br>Nikolai Vitti, Superintendent, as Detroit Public Schools
+      find elevated levels of lead &amp; copper in 16 of 24 of its schools. The
+      EPA warns lead &amp; copper can leach from corroded pipes and contaminate
+      water supply over time causing various ailments from stomach aches to
+      brain damage. Bottled water will be provided.</blockquote>
     _key: card-2-610be104-3fe3-46a6-8039-519a09b28b37
   - order: 2
     useCheckmark: false
     body: >-
-      > “I think Canada very much wants to make the deal. It probably won’t be
-      good at all if they don’t.”  
-        
-        
-      President Trump says he's optimistic as Canada rejoins NAFTA trade talks.
-      Canadian PM Justin Trudeau says it's trying to reach the "right deal" by
-      the Friday deadline. President Trump has signaled he will move ahead with
-      Mexico alone.
-
-
-      [SMARTHER REFRESHER](https://smarthernews.com/a-new-nafta/)
+      <div><blockquote>“I think Canada very much wants to make the deal. It
+      probably won’t be good at all if they don’t.”<br><br><br>President Trump
+      says he's optimistic as Canada rejoins NAFTA trade talks. Canadian PM
+      Justin Trudeau says it's trying to reach the "right deal" by the Friday
+      deadline. President Trump has signaled he will move ahead with Mexico
+      alone.</blockquote><p><a
+      href="https://smarthernews.com/a-new-nafta/">SMARTHER
+      REFRESHER</a></p></div>
     _key: card-3-19b717f0-bd1e-4db2-9455-d801a6550a60
   - order: 3
     useCheckmark: false
     body: >-
-      > “The sickest folks that were exposed to this substance came in
-      unconscious and not breathing, they could not control their airway.”  
-        
-      Dr. Kirk Tucker, Adena Regional Medical Center Chief Clinical Officer,
-      after dozens in Pennsylvania & Ohio were exposed to an unidentified drug.
-      Corrections officers believe the drugs are being smuggled into the
-      prisons. In Ohio, it is suspected the drug may be fentanyl dispersed via a
-      fan.
+      <blockquote>“The sickest folks that were exposed to this substance came in
+      unconscious and not breathing, they could not control their
+      airway.”<br><br>Dr. Kirk Tucker, Adena Regional Medical Center Chief
+      Clinical Officer, after dozens in Pennsylvania &amp; Ohio were exposed to
+      an unidentified drug. Corrections officers believe the drugs are being
+      smuggled into the prisons. In Ohio, it is suspected the drug may be
+      fentanyl dispersed via a fan.</blockquote>
     _key: card-4-dbf0bbee-58cc-4191-8b01-a69068b123fd
   - order: 4
     useCheckmark: false
     body: >-
-      > "Of course, I was surprised when I just changed (the) T-shirt really
-      quick, and he gave me the code violation. I didn’t expect it, and I told
-      him it was pretty weird."  
-        
-        
-      French tennis player Alize Cornet who received a warning for changing her
-      shirt on the tennis court of the U.S. Open; it was on backwards. The US
-      Open said it regrets the code violation and has since clarified its rules.
+      <blockquote>"Of course, I was surprised when I just changed (the) T-shirt
+      really quick, and he gave me the code violation. I didn’t expect it, and I
+      told him it was pretty weird."<br><br><br>French tennis player Alize
+      Cornet who received a warning for changing her shirt on the tennis court
+      of the U.S. Open; it was on backwards. The US Open said it regrets the
+      code violation and has since clarified its rules.</blockquote>
     _key: card-5-5f73b98b-508e-4162-a3d2-096e66d32271
   - order: 5
     useCheckmark: true
-    body: |-
-      Have a great day!
-
-      [view sources](https://smarthernews.com/quick-quotes-august-30/)
+    body: >-
+      <div><p>Have a great day!</p><p><a
+      href="https://smarthernews.com/quick-quotes-august-30/">view
+      sources</a></p></div>
     _key: card-10-f6cfe51b-3e61-40f9-b55d-1b0f81cd5369
 
 ---

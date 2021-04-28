@@ -22,23 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“I don’t mistrust the future; I don’t fear what is ahead. For our
-      problems are large, but our hearts are larger.”_
-
-
-      Pres. George H.W. Bush
+      <div><blockquote><em>“I don’t mistrust the future; I don’t fear what is
+      ahead. For our problems are large, but our hearts are
+      larger.”</em></blockquote><p>Pres. George H.W. Bush</p></div>
     citation: Pres. George H.W. Bush
     _key: card-1-1330c330-12e5-4804-b08e-03da129b47b8
   - order: 1
     useCheckmark: true
     body: >-
-      The 41st U.S. President died at age 94. His life was one of service as a
-      congressman, UN Ambassador, RNC Chairman, CIA Director, Vice President &
-      President. He died Friday night, just 8 months after the passing of his
-      wife Barbara. He's survived by 5 kids & 14 grandkids.
-
-
-      [view sources](https://smarthernews.com/18-12-1-qtd-hw/)
+      <div><p>The 41st U.S. President died at age 94. His life was one of
+      service as a congressman, UN Ambassador, RNC Chairman, CIA Director, Vice
+      President &amp; President. He died Friday night, just 8 months after the
+      passing of his wife Barbara. He's survived by 5 kids &amp; 14
+      grandkids.</p><p><a href="https://smarthernews.com/18-12-1-qtd-hw/">view
+      sources</a></p></div>
     _key: card-10-1fa9fe8a-9702-4fdf-ab18-74f8f75df7bf
 
 ---

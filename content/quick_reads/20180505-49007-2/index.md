@@ -22,22 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “First of all I want like to thank my Lord and Savior, Jesus Christ, for
-      blessing us on this afternoon and blessing us with this amazing horse.”  
-        
-        
-        
-      First words from Hall-of-Fame Jockey Mike Smith on "Justify" - the first
-      horse in 136 years to win the Kentucky Derby without racing as a 2-yr-old.
+      <blockquote>“First of all I want like to thank my Lord and Savior, Jesus
+      Christ, for blessing us on this afternoon and blessing us with this
+      amazing horse.”<br><br><br><br>First words from Hall-of-Fame Jockey Mike
+      Smith on "Justify" - the first horse in 136 years to win the Kentucky
+      Derby without racing as a 2-yr-old.</blockquote>
     _key: card-1-9700acba-0022-42fb-b874-cb468977be5b
   - order: 1
     useCheckmark: true
     body: >-
-      "He's got that "It"factor. He's just so above average. He's got
-      unbelievable talent and then he's got a mind to go it." Smith on "Justify"
-
-
-      [view sources](https://smarthernews.com/49007-2/)
+      <div><p>"He's got that "It"factor. He's just so above average. He's got
+      unbelievable talent and then he's got a mind to go it." Smith on
+      "Justify"</p><p><a href="https://smarthernews.com/49007-2/">view
+      sources</a></p></div>
     _key: card-10-3d51879e-d8b5-4c49-863a-488f343cffa1
 
 ---

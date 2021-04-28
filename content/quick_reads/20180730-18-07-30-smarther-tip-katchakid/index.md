@@ -22,24 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # SmartHER SAFETY
-
-
-      > An innovative product for keeping your favorite pool safe.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/lNmDwOS9bDU?enablejsapi=1&autoplay=1&rel=0)
+      <div><h1>SmartHER SAFETY</h1><blockquote>An innovative product for keeping
+      your favorite pool safe.</blockquote><p><a
+      href="https://www.youtube.com/embed/lNmDwOS9bDU?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-1-5c406b9e-9464-4e2e-97fa-5b8b325956da
   - order: 1
     useCheckmark: true
     body: >-
-      KatchaKid is based in Texas but services a wide swath of the entire United
-      States. Read more on our source page about what inspired the company's
-      founder.
-
-
-      [view sources](https://smarthernews.com/18-07-30-smarther-tip-katchakid/)
+      <div><p>KatchaKid is based in Texas but services a wide swath of the
+      entire United States. Read more on our source page about what inspired the
+      company's founder.</p><p><a
+      href="https://smarthernews.com/18-07-30-smarther-tip-katchakid/">view
+      sources</a></p></div>
     _key: card-10-cd4105c7-13de-460b-be35-fd56cdf326bd
 
 ---

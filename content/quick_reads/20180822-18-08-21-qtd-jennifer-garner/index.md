@@ -22,21 +22,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“When you walk over this star, I want you to remember first of all that
-      I love you. And this is about hard work. And good luck. And not a whole
-      lot else. You define me. Not this wonderful spot in the pavement.”_
+      <div><blockquote><em>“When you walk over this star, I want you to remember
+      first of all that I love you. And this is about hard work. And good luck.
+      And not a whole lot else. You define me. Not this wonderful spot in the
+      pavement.”</em></blockquote><p></p></div>
     citation: Jennifer Garner
     _key: card-1-1878403d-75b0-4ebc-9c30-928a6aeaa827
   - order: 1
     useCheckmark: true
     body: >-
-      Garner received her star on The Hollywood Walk of Fame on Tuesday,
+      <div><p>Garner received her star on The Hollywood Walk of Fame on Tuesday,
       accompanied by her children who apparently missed school, which she
       addressed by joking: "In the Garner family, fame matters more than
-      education."
-
-
-      [view sources](https://smarthernews.com/18-08-21-qtd-jennifer-garner/)
+      education."</p><p><a
+      href="https://smarthernews.com/18-08-21-qtd-jennifer-garner/">view
+      sources</a></p></div>
     _key: card-10-52837339-cbb6-447a-a18e-33ffa10330d6
 
 ---

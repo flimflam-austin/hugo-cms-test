@@ -22,21 +22,18 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      **SmartHER Podcast!**  
-
-      This week, a round-up of the news AND a fascinating interview with one of
-      the few people who has visited North Korea.
-
-
-      [Click Here To
-      Listen](http://smarthernews.libsyn.com/smarther-news-podcast-ep-3)
+      <div><p><strong>SmartHER Podcast!</strong><br>This week, a round-up of the
+      news AND a fascinating interview with one of the few people who has
+      visited North Korea.</p><p><a
+      href="http://smarthernews.libsyn.com/smarther-news-podcast-ep-3">Click
+      Here To Listen</a></p></div>
     _key: card-1-a763b7ec-c5e1-4e57-91cc-ef3e28f1cf4e
   - order: 1
     useCheckmark: true
-    body: |-
-      Don't forget to subscribe on Itunes! Links on our source page!
-
-      [view sources](https://smarthernews.com/18-06-16-podcast/)
+    body: >-
+      <div><p>Don't forget to subscribe on Itunes! Links on our source
+      page!</p><p><a href="https://smarthernews.com/18-06-16-podcast/">view
+      sources</a></p></div>
     _key: card-10-b7e6ddd8-32cd-4d8e-ba64-99fc517f111f
 
 ---

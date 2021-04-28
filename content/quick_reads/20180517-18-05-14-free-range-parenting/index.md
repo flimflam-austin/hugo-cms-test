@@ -22,72 +22,53 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      First State Enacts  
-
-      “Free-Range Parenting” Law
-
-
-      **UT leads** — TX & NY may be next.
-
-
-      Here’s what**“free-range parenting”** means and why some say it fosters
-      self-reliance & independence, while others say it is dangerous, and
-      possibly illegal.
-
-
-      Flip Here For More
+      <div><p>First State Enacts<br>“Free-Range Parenting” Law</p><p><strong>UT
+      leads</strong> — TX &amp; NY may be next.</p><p>Here’s what
+      <strong>“free-range parenting”</strong> means and why some say it fosters
+      self-reliance &amp; independence, while others say it is dangerous, and
+      possibly illegal.</p><p>Flip Here For More</p></div>
     _key: card-1-4609e45e-4acf-4ce9-b75a-34ed264fdd9d
   - order: 1
     useCheckmark: false
     body: >-
-      Those who practice “**free-range parenting**” allow their kids to do
-      things like, go to the park, walk to school, or take public
-      transportation,**alone or with other children, but without any adult
-      supervision.**
-
-
-      Legal issues arise when child protective authorities view those
-      “**freedoms**” as parental neglect & initiate legal proceedings against
-      the parents to “**protect**” the kids.
+      <div><p>Those who practice “<strong>free-range parenting</strong>” allow
+      their kids to do things like, go to the park, walk to school, or take
+      public transportation, <strong>alone or with other children, but without
+      any adult supervision.</strong></p><p>Legal issues arise when child
+      protective authorities view those “<strong>freedoms</strong>” as parental
+      neglect &amp; initiate legal proceedings against the parents to
+      “<strong>protect</strong>” the kids.</p></div>
     _key: card-2-b3d9b95c-0605-4fb3-addd-4be3618d1839
   - order: 2
     useCheckmark: false
     body: >-
-      Although child abuse & neglect laws vary by state, the U.S Constitution
-      protects theA “**_fundamental right ofA parentsA to makeA decisions
-      concerning the care, custody, and control of their children_**.”
-
-
-      Parents may parent as they see fit UNLESS they do something, or fail to do
-      something, that places a child in**imminent risk of danger of physical or
-      emotional harm.**
+      <div><p>Although child abuse &amp; neglect laws vary by state, the U.S
+      Constitution protects theA “<strong><em>fundamental right ofA parentsA to
+      makeA decisions concerning the care, custody, and control of their
+      children</em></strong>.”</p><p>Parents may parent as they see fit UNLESS
+      they do something, or fail to do something, that places a child in
+      <strong>imminent risk of danger of physical or emotional
+      harm.</strong></p></div>
     _key: card-3-0d9639d5-0ad9-4717-8a35-e697ffaf3137
   - order: 3
     useCheckmark: false
     body: >-
-      **The Utah Law carves out exceptions to the state’s child neglect laws**
-      by providing parents may permit their kids to engage in activities w/o
-      adult supervision, like
-
-
-      * “traveling to and from school”
-
-      * “engaging in outdoor play”
-
-      * “remaining at home unattended”  
-
-      (so long as they are ofA “**sufficient age and maturity**” & theirA
-      “**basic needs are met**.”)
+      <div><p><strong>The Utah Law carves out exceptions to the state’s child
+      neglect laws</strong> by providing parents may permit their kids to engage
+      in activities w/o adult supervision, like</p><ul><li>“traveling to and
+      from school”</li><li>“engaging in outdoor play”</li><li>“remaining at home
+      unattended”<br>(so long as they are ofA “<strong>sufficient age and
+      maturity</strong>” &amp; theirA “<strong>basic needs are
+      met</strong>.”)</li></ul></div>
     _key: card-4-4a84acb8-8b53-49c6-8c04-2fbf6aa59e0e
   - order: 4
     useCheckmark: true
     body: >-
-      Did a particular event start this "free-range parenting" law in Utah? Not
-      really...It's part of a lobbying effort that began several years ago.
-      Here's the background:
-
-
-      [view sources](https://smarthernews.com/18-05-14-free-range-parenting/)
+      <div><p>Did a particular event start this "free-range parenting" law in
+      Utah? Not really...It's part of a lobbying effort that began several years
+      ago. Here's the background:</p><p><a
+      href="https://smarthernews.com/18-05-14-free-range-parenting/">view
+      sources</a></p></div>
     _key: card-10-2e84006a-43bf-4e0f-975c-fba13535d78e
 
 ---

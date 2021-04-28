@@ -21,86 +21,73 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # The Verdict
-
-
-      ### What to know as a jury finds Derek Chauvin guilty of the murder of
-      George Floyd.
+      <div><h1>The Verdict</h1><h3>What to know as a jury finds Derek Chauvin
+      guilty of the murder of George Floyd.</h3></div>
     _key: 02b7cc3f17a9
   - order: 1
     useCheckmark: false
     body: >-
-      > "We the jury … find the defendant guilty."
-
-
-      Hennepin County District Judge Peter Cahill reading the verdict from the
-      jury, who found Derek Chauvin guilty of all three charges: second-degree
-      murder, third-degree murder, and second-degree manslaughter. Judge Cahill
-      will solely decide Chauvin's sentence when sentencing takes place in about
-      8 weeks. Exact dates TBD.
+      <div><blockquote>"We the jury … find the defendant
+      guilty."</blockquote><p>Hennepin County District Judge Peter Cahill
+      reading the verdict from the jury, who found Derek Chauvin guilty of all
+      three charges: second-degree murder, third-degree murder, and
+      second-degree manslaughter. Judge Cahill will solely decide Chauvin's
+      sentence when sentencing takes place in about 8 weeks. Exact dates
+      TBD.</p></div>
     _key: 56c80c53aa15
   - order: 2
     useCheckmark: false
     body: >-
-      > "The state would move for the court to revoke the defendant's bail and
-      remand him into custody."
-
-
-      A member of the prosecution team speaking off camera to the judge, who
-      granted the request. Chauvin was handcuffed and taken into custody. The
-      Associated Press reports Chauvin was taken to a maximum security prison,
-      the same one where he was held due to security concerns after his arrest.
+      <div><blockquote>"The state would move for the court to revoke the
+      defendant's bail and remand him into custody."</blockquote><p>A member of
+      the prosecution team speaking off camera to the judge, who granted the
+      request. Chauvin was handcuffed and taken into custody. The Associated
+      Press reports Chauvin was taken to a maximum security prison, the same one
+      where he was held due to security concerns after his arrest.</p></div>
     _key: a0875519deb6
   - order: 3
     useCheckmark: false
     body: >-
-      > “We believe there are aggravating factors and the sentence should exceed
-      the sentencing guidelines.”
-
-
-      MN Attorney General Keith Ellison. The prosecution and the defense will
+      <div><blockquote>“We believe there are aggravating factors and the
+      sentence should exceed the sentencing guidelines.”</blockquote><p>MN
+      Attorney General Keith Ellison. The prosecution and the defense will
       prepare legal briefs for the judge's consideration in sentencing. The
       three guilty verdicts carry different *potential* sentences (ex:
       2nd-degree murder is punishable by up to 40 yrs behind bars) but
       sentencing *guidelines* can be much lower (ex: 12.5 yrs for 2nd-degree
-      murder for someone, like Chauvin, w/o a criminal history).
+      murder for someone, like Chauvin, w/o a criminal history).</p></div>
     _key: 8d51b06d00af
   - order: 4
     useCheckmark: false
     body: >-
-      > “No one is above the law.”
-
-
-      Pres. Biden during a national address said the murder of George Floyd
-      exposed systemic racism in America and systemic misconduct in police
-      departments. Pres. Biden said that "most men and women who wear the badge
-      serve their communities honorably. But those few who fail to meet that
-      standard must be held accountable." VP Harris also spoke, similarly
-      advocating for Congress to pass police reform legislation: "A measure of
-      justice isn’t the same as equal justice."
+      <div><blockquote>“No one is above the law.”</blockquote><p>Pres. Biden
+      during a national address said the murder of George Floyd exposed systemic
+      racism in America and systemic misconduct in police departments. Pres.
+      Biden said that "most men and women who wear the badge serve their
+      communities honorably. But those few who fail to meet that standard must
+      be held accountable." VP Harris also spoke, similarly advocating for
+      Congress to pass police reform legislation: "A measure of justice isn’t
+      the same as equal justice."</p></div>
     _key: 212220d8d03c
   - order: 5
     useCheckmark: false
     body: >-
-      > "To deny the progress we've made, is just as damaging as not making
-      progress at all."
-
-
-      Sen. Tim Scott (R-SC) supports the verdict and said it should renew
-      confidence in the justice system. Sen. Scott, the lone black Republican
-      senator, proposed his own police reform legislation last year after
-      Floyd's death. A separate bill was proposed by two black Democrat
-      senators, Sen Booker (D-NJ) and then-Senator (now VP) Kamala Harris.
-      Neither bill passed.
+      <div><blockquote>"To deny the progress we've made, is just as damaging as
+      not making progress at all."</blockquote><p>Sen. Tim Scott (R-SC) supports
+      the verdict and said it should renew confidence in the justice system.
+      Sen. Scott, the lone black Republican senator, proposed his own police
+      reform legislation last year after Floyd's death. A separate bill was
+      proposed by two black Democrat senators, Sen Booker (D-NJ) and
+      then-Senator (now VP) Kamala Harris. Neither bill passed.</p></div>
     _key: 165064b22f38
   - order: 6
     useCheckmark: true
     body: >-
-      From local Minneapolis station KARE: "Chauvin’s conviction marks only the
-      second time a police officer has been convicted of murder in Minnesota,
-      and the first time such a conviction has been won against a white officer
-      who killed a Black man." Read more from that local station with leading
-      reporting on our source page.
+      <p>From local Minneapolis station KARE: "Chauvin’s conviction marks only
+      the second time a police officer has been convicted of murder in
+      Minnesota, and the first time such a conviction has been won against a
+      white officer who killed a Black man." Read more from that local station
+      with leading reporting on our source page.</p>
     _key: 9132539b46df
 
 ---

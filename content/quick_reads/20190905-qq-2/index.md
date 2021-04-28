@@ -22,69 +22,61 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “This is probably the best case scenario that markets were hoping
-      for…”  
-        
-      Rakuten Securities Australia as the U.S. & China agree to postpone new
-      tariffs and continue talks for 90 days. Meeting on the sidelines of the
-      G20 Saturday, Presidents Trump & Xi's trade truce was broadly seen as
-      "positive," but there is caution. If no deal is reached in 90 days, U.S.
-      warns it will raise tariffs from 10% to 25%.
+      <blockquote>“This is probably the best case scenario that markets were
+      hoping for…”<br><br>Rakuten Securities Australia as the U.S. &amp; China
+      agree to postpone new tariffs and continue talks for 90 days. Meeting on
+      the sidelines of the G20 Saturday, Presidents Trump &amp; Xi's trade truce
+      was broadly seen as "positive," but there is caution. If no deal is
+      reached in 90 days, U.S. warns it will raise tariffs from 10% to
+      25%.</blockquote>
     _key: card-1-d08eb911-29b6-4f3d-bb4b-f0e1d96f6c00
   - order: 1
     useCheckmark: false
     body: >-
-      > “Nothing felt safe. Nowhere felt safe."  
-        
-        
-      Emily Grove of Anchorage, Alaska taking cover in her bathtub after
-      back-to-back earthquakes measuring 7.0 and 5.7 rocked the area Friday,
-      briefly triggering tsunami warnings. While Alaska has experienced powerful
+      <blockquote>“Nothing felt safe. Nowhere felt safe."<br><br><br>Emily Grove
+      of Anchorage, Alaska taking cover in her bathtub after back-to-back
+      earthquakes measuring 7.0 and 5.7 rocked the area Friday, briefly
+      triggering tsunami warnings. While Alaska has experienced powerful
       earthquakes over 7.0, it is rare for one to strike this close to a densely
-      populated area.
+      populated area.</blockquote>
     _key: card-2-5887d9a8-e056-4bc7-af63-0f1fa218b436
   - order: 2
     useCheckmark: false
     body: >-
-      > “People work and pay a lot of taxes and we are fed up.”  
-        
-      Rabah Mendez, protesting as part of the worst riots in a decade in Paris.
-      Activists dubbed the "yellow jackets" have torched cars, looted shops, and
-      even sprayed the famed Arc de Triomphe with graffiti. Over 400 people were
-      arrested in protests Saturday, as riots against tax hikes and the high
-      cost of living stretch into a third week.
+      <blockquote>“People work and pay a lot of taxes and we are fed
+      up.”<br><br>Rabah Mendez, protesting as part of the worst riots in a
+      decade in Paris. Activists dubbed the "yellow jackets" have torched cars,
+      looted shops, and even sprayed the famed Arc de Triomphe with graffiti.
+      Over 400 people were arrested in protests Saturday, as riots against tax
+      hikes and the high cost of living stretch into a third week.</blockquote>
     _key: card-3-3b36c109-88c0-4e3d-9910-a6cd59c13d9c
   - order: 3
     useCheckmark: false
     body: >-
-      “That’s a lie. And it’s not always enough to lean in, because that s***
-      doesn’t work all the time.”  
-        
-      Former First Lady Michelle Obama speaking to a sold-out NYC crowd for her
-      new memoir Becoming about why sometimes women can't have it all. Obama
-      went on to say the Facebook's COO Sheryl Sandberg's feminist mantra lean
-      in, which says women should be assertive to overcome workplace inequities,
-      doesn't always work. Becoming is the best-selling book of 2018.
+      <p>“That’s a lie. And it’s not always enough to lean in, because that s***
+      doesn’t work all the time.”<br><br>Former First Lady Michelle Obama
+      speaking to a sold-out NYC crowd for her new memoir Becoming about why
+      sometimes women can't have it all. Obama went on to say the Facebook's COO
+      Sheryl Sandberg's feminist mantra lean in, which says women should be
+      assertive to overcome workplace inequities, doesn't always work. Becoming
+      is the best-selling book of 2018.</p>
     _key: card-4-9c04080d-e411-43ac-ac71-880c72e9a3ed
   - order: 4
     useCheckmark: false
     body: >-
-      “We just presumed it was gone. In the end, we had no choice but to walk
-      away…”  
-        
-      John Drennan after losing the engagement ring he used hours earlier to
-      propose to his girlfriend of 10 years Daniella Anthony. The ring slid off
-      and ended up falling 8 feet down a utility grate in Times Square. Police
-      tried to help, but it was too dark. By Sunday morning, NYPD's emergency
-      services unit had success and tracked down the UK couple to return the
-      ring.
+      <p>“We just presumed it was gone. In the end, we had no choice but to walk
+      away…”<br><br>John Drennan after losing the engagement ring he used hours
+      earlier to propose to his girlfriend of 10 years Daniella Anthony. The
+      ring slid off and ended up falling 8 feet down a utility grate in Times
+      Square. Police tried to help, but it was too dark. By Sunday morning,
+      NYPD's emergency services unit had success and tracked down the UK couple
+      to return the ring.</p>
     _key: card-5-e52641ae-e96c-4054-9381-abae320d23e4
   - order: 5
     useCheckmark: true
-    body: |-
-      Have a great week!
-
-      [view sources](https://smarthernews.com/qq-2/)
+    body: >-
+      <div><p>Have a great week!</p><p><a
+      href="https://smarthernews.com/qq-2/">view sources</a></p></div>
     _key: card-10-98aed44d-d7a1-478f-989c-17e2e461ff3d
 
 ---

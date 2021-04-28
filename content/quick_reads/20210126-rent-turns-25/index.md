@@ -21,20 +21,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“525,600 minutes – how do you measure, measure a year? In daylights, in
-      sunsets, in midnights, in cups of coffee. In inches, in miles, in
-      laughter, in strife. In 525,600 minutes – how do you measure a year in the
-      life? How about love? …Seasons of love.”_
+      <div><blockquote><em>“525,600 minutes – how do you measure, measure a
+      year? In daylights, in sunsets, in midnights, in cups of coffee. In
+      inches, in miles, in laughter, in strife. In 525,600 minutes – how do you
+      measure a year in the life? How about love? …Seasons of
+      love.”</em></blockquote><p><br></p></div>
     citation: JONATHAN LARSON
     _key: 89179e06f9a9
   - order: 1
     useCheckmark: true
     body: >-
-      Larson wrote these lyrics for the famous Broadway play "Rent"- a retelling
-      of the opera "La Boheme" - in NYC during the HIV epidemic. Larson, 35,
-      died from an aortic aneurysm the day of the play's first public
-      performance, 25 years ago today. Rent went on to earn international
-      acclaim, a Pulitzer Prize & a Tony Award.
+      <div><p>Larson wrote these lyrics for the famous Broadway play "Rent"- a
+      retelling of the opera "La Boheme" - in NYC during the HIV epidemic.
+      Larson, 35, died from an aortic aneurysm the day of the play's first
+      public performance, 25 years ago today. Rent went on to earn international
+      acclaim, a Pulitzer Prize &amp; a Tony Award.</p><p></p></div>
     citation: VIEW SOURCES
     _key: d6c33665eb9d
 

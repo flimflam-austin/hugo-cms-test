@@ -21,19 +21,20 @@ colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: '> _“When you sit back and you just do what you love, things happen."_'
+    body: >-
+      <div><blockquote><em>“When you sit back and you just do what you love,
+      things happen."</em></blockquote><p></p></div>
     citation: Idina Menzel
     _key: card-1-6773c103-d72e-4415-a12d-d145b7a47cb2
   - order: 1
     useCheckmark: true
     body: >-
-      Idina Menzel, speaking about lessons learned during her career. Menzel
-      provides the voice for Elsa in Walt Disney's ‘Frozen’, released 5 years
-      ago today. Frozen remains the highest grossing animated movie ever. Its
-      sequel is expected next November.
-
-
-      [view sources](https://smarthernews.com/quote-of-the-day-2/)
+      <div><p>Idina Menzel, speaking about lessons learned during her career.
+      Menzel provides the voice for Elsa in Walt Disney's ‘Frozen’, released 5
+      years ago today. Frozen remains the highest grossing animated movie ever.
+      Its sequel is expected next November.</p><p><a
+      href="https://smarthernews.com/quote-of-the-day-2/">view
+      sources</a></p></div>
     _key: card-10-9df8b84e-bdc4-4d9e-b557-bb34a2f2831b
 
 ---

@@ -22,98 +22,63 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # RUN FOR THE ROSES
-
-
-      ## Kentucky Derby Weekend
-
-
-      It’s “**the most exciting two minutes in sports**” and even if you’re just
-      in it forA**hats & mint juleps** here’s the scoop on the**oldest sporting
-      event in American history**.
-
-
-      FLIP: GIDDY UP!
+      <div><h1>RUN FOR THE ROSES</h1><h2>Kentucky Derby Weekend</h2><p>It’s
+      “<strong>the most exciting two minutes in sports</strong>” and even if
+      you’re just in it forA <strong>hats &amp; mint juleps</strong> here’s the
+      scoop on the <strong>oldest sporting event in American
+      history</strong>.</p><p>FLIP: GIDDY UP!</p></div>
     _key: card-1-6c402cb0-66ee-42f9-9161-c6218920d34b
   - order: 1
     useCheckmark: false
     body: >-
-      ## THE TRADITIONS
-
-
-      **“Run for the roses”:** Winning horse receives a blanket of 500 blossoms.
-
-
-      **Fancy hats:** Not required, but a staple since 1875. Women wore best
-      fashions for the formal event.
-
-
-      **Mint juleps:**A Derby’s signature drink made with Kentucky bourbon.
-
-
-      **Rain or shine:** No Derby has ever been postponed.
+      <div><h2>THE TRADITIONS</h2><p><strong>“Run for the roses”:</strong>
+      Winning horse receives a blanket of 500 blossoms.</p><p><strong>Fancy
+      hats:</strong> Not required, but a staple since 1875. Women wore best
+      fashions for the formal event.</p><p><strong>Mint juleps:</strong>A
+      Derby’s signature drink made with Kentucky bourbon.</p><p><strong>Rain or
+      shine:</strong> No Derby has ever been postponed.</p></div>
     _key: card-2-5b0e1c5d-d397-45b8-97b9-4b3040d8af9f
   - order: 2
     useCheckmark: false
     body: >-
-      # 20 Thoroughbreds Race 1.25 Miles
-
-
-      ## HORSES TO WATCH:
-
-
-      * **Justify:**A Current favorite to win.
-
-      * **Mendelssohn:** No European horseA has ever won the Derby.
-
-      * **Magnum Moon:**A Undefeated in 4 starts this year.
-
-      * **Fun fact:** 19 Derby winners’ names began with “S” – only one this
-      year is long-shot**Solomoni.A**
+      <div><h1>20 Thoroughbreds Race 1.25 Miles</h1><h2>HORSES TO
+      WATCH:</h2><ul><li><strong>Justify:</strong>A Current favorite to
+      win.</li><li><strong>Mendelssohn:</strong> No European horseA has ever won
+      the Derby.</li><li><strong>Magnum Moon:</strong>A Undefeated in 4 starts
+      this year.</li><li><strong>Fun fact:</strong> 19 Derby winners’ names
+      began with “S” – only one this year is long-shot
+      <strong>Solomoni.A</strong></li></ul></div>
     _key: card-3-ae1cf380-030d-439a-a11a-133fcbe92e04
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why the Crazy Names?
-
-
-      **Name must be:**A 18 characters. Spaces & punctuation count.
-
-
-      **Name can’t be:** used previously, lewd, vulgar, or named after famous
-      person w/o permission.
-
-
-      Each year,**one-third of 60K names submitted are rejected**.
-
-
-      [Got a name? Check if it's been used
-      here.](https://www.registry.jockeyclub.com/registry.cfm?page=namesrch&search=)
+      <div><h2>Why the Crazy Names?</h2><p><strong>Name must be:</strong>A 18
+      characters. Spaces &amp; punctuation count.</p><p><strong>Name can’t
+      be:</strong> used previously, lewd, vulgar, or named after famous person
+      w/o permission.</p><p>Each year, <strong>one-third of 60K names submitted
+      are rejected</strong>.</p><p><a
+      href="https://www.registry.jockeyclub.com/registry.cfm?page=namesrch&amp;search=">Got
+      a name? Check if it's been used here.</a></p></div>
     _key: card-4-63be0756-56ba-4835-abe6-2544e9301c34
   - order: 4
     useCheckmark: false
     body: >-
-      ## DERBY DETAILS
-
-
-      * **When:**A Saturday, 6:34pm EST
-
-      * **Where**: Churchill Downs in Louisville, KY
-
-      * **Why:**A $2M prize & chance to be a Triple Crown winner (must also win
-      Preakness & Belmont Stakes, only 12 horses have ever done it.)
-
-      * **How to watch:** NBC
+      <div><h2>DERBY DETAILS</h2><ul><li><strong>When:</strong>A Saturday,
+      6:34pm EST</li><li><strong>Where</strong>: Churchill Downs in Louisville,
+      KY</li><li><strong>Why:</strong>A $2M prize &amp; chance to be a Triple
+      Crown winner (must also win Preakness &amp; Belmont Stakes, only 12 horses
+      have ever done it.)</li><li><strong>How to watch:</strong>
+      NBC</li></ul><p></p></div>
     citation: 'CLICK: GET DERBY READY'
     _key: card-5-359f0cb5-ece3-487c-9f9c-90f322c3ea5d
   - order: 5
     useCheckmark: true
     body: >-
-      Each year at the Kentucky Derby, almost 120,000 Mint Juleps are served.
-      Get inspired & make them at home with the Derby's official recipe here:
-
-
-      [view sources](https://smarthernews.com/18-05-04-kentucky-derby/)
+      <div><p>Each year at the Kentucky Derby, almost 120,000 Mint Juleps are
+      served. Get inspired &amp; make them at home with the Derby's official
+      recipe here:</p><p><a
+      href="https://smarthernews.com/18-05-04-kentucky-derby/">view
+      sources</a></p></div>
     _key: card-10-2d8e9817-7e4b-4c64-8e19-30a8d91b3496
 
 ---

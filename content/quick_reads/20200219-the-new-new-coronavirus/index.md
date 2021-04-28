@@ -22,91 +22,70 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > New name, new cases, and new concerns about a possibility of a global
-      pandemic.  
-        
-      What You Should Know
+      <div><blockquote>New name, new cases, and new concerns about a possibility
+      of a global pandemic.<br><br>What You Should
+      Know</blockquote><p></p></div>
     citation: CORONAVIRUS
     _key: 01ebe0574436
   - order: 1
     useCheckmark: false
     body: >-
-      # NEW NAME
-
-
-      ## “COVID-19”
-
-
-      The World Health Organization chose this name to specifically refer to
-      this newly discovered coronavirus (COVI) disease (D) in 2019 (19).
-
-
-      Purposefully doesn’t refer to place of origin to avoid “stigma” – e.g.
-      “Wuhan Coronavirus.”
+      <div><h1>NEW NAME</h1><h2>“COVID-19”</h2><p>The World Health Organization
+      chose this name to specifically refer to this newly discovered coronavirus
+      (COVI) disease (D) in 2019 (19).</p><p>Purposefully doesn’t refer to place
+      of origin to avoid “stigma” – e.g. “Wuhan Coronavirus.”</p></div>
     _key: f9bb6182b608
   - order: 2
     useCheckmark: false
     body: >-
-      ## NEW CASES
-
-
-      > “In 2% of reported #COVID19 cases, the virus is fatal & the risk of
-      death increases the older you are. We see relatively few cases among
-      children. More research is needed to understand why.”  
-        
-      Dir-Gen of World Health Organization Dr. Tedros as the number of those
-      infected Monday rose to 71,000+. Current WHO data says about 80% of the
-      people who get COVID-19 will have a mild case and recover.
+      <div><h2>NEW CASES</h2><blockquote>“In 2% of reported #COVID19 cases, the
+      virus is fatal &amp; the risk of death increases the older you are. We see
+      relatively few cases among children. More research is needed to understand
+      why.”<br><br>Dir-Gen of World Health Organization Dr. Tedros as the number
+      of those infected Monday rose to 71,000+. Current WHO data says about 80%
+      of the people who get COVID-19 will have a mild case and
+      recover.</blockquote></div>
     _key: 2d7b81698257
   - order: 3
     useCheckmark: false
     body: >-
-      ## New Economic Contagion
-
-
-      > “…we do not expect to meet the revenue guidance…”  
-        
-      Apple, issuing guidance on its earnings, as the new coronavirus impacts
-      its production and sales. America's largest company is one of the first to
-      officially address the impact of the illness, raising questions about
-      further economic ripple effects in Asia, Europe and beyond.
+      <div><h2>New Economic Contagion</h2><blockquote>“…we do not expect to meet
+      the revenue guidance…”<br><br>Apple, issuing guidance on its earnings, as
+      the new coronavirus impacts its production and sales. America's largest
+      company is one of the first to officially address the impact of the
+      illness, raising questions about further economic ripple effects in Asia,
+      Europe and beyond.</blockquote></div>
     _key: ad58c271edea
   - order: 4
     useCheckmark: false
     body: >-
-      ## NEW QUARANTINES
-
-
-      * U.S. evacuated citizens from a quarantined cruise ship docked in Japan
-      as it became apparent the virus continued to spread.
-
-      * 300+ must be quarantined, with at least 14 testing positive for the
-      virus.
-
-      * Upwards of 15 military bases can host quarantines, a handful have done
-      so ex: Joint Base San Antonio-Lackland in TX.
-
-      * Quarantine applies to those infected and healthy; lasts 14 days.
+      <div><h2>NEW QUARANTINES</h2><ul><li>U.S. evacuated citizens from a
+      quarantined cruise ship docked in Japan as it became apparent the virus
+      continued to spread.</li><li>300+ must be quarantined, with at least 14
+      testing positive for the virus.</li><li>Upwards of 15 military bases can
+      host quarantines, a handful have done so ex: Joint Base San
+      Antonio-Lackland in TX.</li><li>Quarantine applies to those infected and
+      healthy; lasts 14 days.</li></ul></div>
     _key: b9cd8772642e
   - order: 5
     useCheckmark: false
     body: >-
-      > “The potential is there…Whether we will get there or not, we don’t know.
-      I’m holding my breath and crossing my fingers.”  
-        
-      Dr. William Schaffner, an infectious disease professor at Vanderbilt
+      <div><blockquote>“The potential is there…Whether we will get there or not,
+      we don’t know. I’m holding my breath and crossing my fingers.”<br><br>Dr.
+      William Schaffner, an infectious disease professor at Vanderbilt
       University's School of Medicine responding to a question about whether or
       not a global pandemic (a worldwide epidemic) is possible. He says despite
       best efforts, the data from China where the disease originated "still is
-      very confusing, and we have to be skeptical."
+      very confusing, and we have to be
+      skeptical."</blockquote><p><br></p></div>
     _key: a7af6438d936
   - order: 6
     useCheckmark: true
     body: >-
-      The mystery remains on how this virus is spreading. With most infections
-      coming from China, can it travel on Chinese-made goods? With no single
-      answer, a doctor from UCSF explain the risks in an article on our source
-      page.
+      <div><p>The mystery remains on how this virus is spreading. With most
+      infections coming from China, can it travel on Chinese-made goods? With no
+      single answer, a doctor from UCSF explain the risks in an article on our
+      source page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: a61b18832a7c
 

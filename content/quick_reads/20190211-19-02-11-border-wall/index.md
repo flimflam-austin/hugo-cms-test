@@ -22,73 +22,54 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # WHERE IT STANDS:
-
-
-      ## BORDER WALL
-
-
-      As President Trump heads to the U.S.-Mexico border ahead of this week’s
-      deadline for a border security funding deal, here’s where a “wall” stands
-      & what’s next.
+      <div><h1>WHERE IT STANDS:</h1><h2>BORDER WALL</h2><p>As President Trump
+      heads to the U.S.-Mexico border ahead of this week’s deadline for a border
+      security funding deal, here’s where a “wall” stands &amp; what’s
+      next.</p></div>
     _key: card-1-2b686c6f-ad5d-450d-8f0e-ee9ffd97b7e4
   - order: 1
     useCheckmark: false
     body: >-
-      # THE BORDER WALL
-
-
-      * Before legislation in 2006, less than 20 southern border miles had a
-      physical barrier.
-
-      * Today, est.A**1/3 (654 miles) of the southern border**A (CA, AZ, NM &
-      TX) is equipped with *some* pedestrian (354 miles) & vehicle (300 miles)
-      barriers.**Est.**A**1,300 miles has no barrier**.
-
-      * No significant additions since 2011.
+      <div><h1>THE BORDER WALL</h1><ul><li>Before legislation in 2006, less than
+      20 southern border miles had a physical barrier.</li><li>Today, est.A
+      <strong>1/3 (654 miles) of the southern border</strong>A (CA, AZ, NM &amp;
+      TX) is equipped with *some* pedestrian (354 miles) &amp; vehicle (300
+      miles) barriers. <strong>Est.</strong>A <strong>1,300 miles has no
+      barrier</strong>.</li><li>No significant additions since
+      2011.</li></ul></div>
     _key: card-2-57d9fd8e-71e5-4c35-9412-e21480fb9b7a
   - order: 2
     useCheckmark: false
     body: >-
-      ## COST$
-
-
-      * Gov’t spent**$2.3B** on fencing from 2007 to 2015.
-
-      * A 2018 bipartisan bill earmarked $**1.6B** for repairsA & replacements.
-
-      * Pres. Trump seeks**$5.7B** (enough to build less than 200 miles of new
-      barrier) &A threatened a**A gov’t shutdown** if the deal does not include
-      border wall funding.
-
-      * Border Patrol says it’ll cost**$18B** to build barrier in 17 priority
-      spots.
+      <div><h2>COST$</h2><ul><li>Gov’t spent <strong>$2.3B</strong> on fencing
+      from 2007 to 2015.</li><li>A 2018 bipartisan bill earmarked
+      $<strong>1.6B</strong> for repairsA &amp; replacements.</li><li>Pres.
+      Trump seeks <strong>$5.7B</strong> (enough to build less than 200 miles of
+      new barrier) &amp;A threatened a<strong>A gov’t shutdown</strong> if the
+      deal does not include border wall funding.</li><li>Border Patrol says
+      it’ll cost <strong>$18B</strong> to build barrier in 17 priority
+      spots.</li></ul></div>
     _key: card-3-33049bb6-5e95-4fb4-9048-e09eb3c93e38
   - order: 3
     useCheckmark: false
     body: >-
-      ## Current Construction Plan
-
-
-      * Debate continues about**new funding**A for**new construction** at the
-      U.S. southern border
-
-      * Several “replacement projects”**currently underway** in Texas &
-      California to update and improve**pre-existing border barriers**.
-
-      * New construction w/already approved funds expected this year on 61
-      additional miles.
+      <div><h2>Current Construction Plan</h2><ul><li>Debate continues about
+      <strong>new funding</strong>A for <strong>new construction</strong> at the
+      U.S. southern border</li><li>Several “replacement projects”
+      <strong>currently underway</strong> in Texas &amp; California to update
+      and improve <strong>pre-existing border barriers</strong>.</li><li>New
+      construction w/already approved funds expected this year on 61 additional
+      miles.</li></ul></div>
     _key: card-4-895b7765-b5e7-4335-9b88-326f61e5c98e
   - order: 4
     useCheckmark: true
     body: >-
-      Customs & Border Patrol just released data for January 2019 and reported
-      the number of "family units" (large groups) with "unaccompanied children"
-      apprehended at the U.S. Southern Border has increased 290% compared to
-      last year.
-
-
-      [view sources](https://smarthernews.com/19-02-11-border-wall/)
+      <div><p>Customs &amp; Border Patrol just released data for January 2019
+      and reported the number of "family units" (large groups) with
+      "unaccompanied children" apprehended at the U.S. Southern Border has
+      increased 290% compared to last year.</p><p><a
+      href="https://smarthernews.com/19-02-11-border-wall/">view
+      sources</a></p></div>
     _key: card-10-4f9fbc4b-bcfd-4f15-b34b-3fc6b1380d26
 
 ---

@@ -22,63 +22,45 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## ‘Clueless” To Congress
-
-
-      * Stacey Dash, aka “Dionne” from the movie_Clueless,_ plans to run for
-      California congressional seat; district, south of LA, includes Compton &
-      parts of Long Beach.
-
-      * Dash, a Republican, filed official paperwork with slogan “_Dash to DC_”
-      joins a record number of women running for Congress in 2018.
-
-
-      Flip For More
+      <div><h2>‘Clueless” To Congress</h2><ul><li>Stacey Dash, aka “Dionne” from
+      the movie <em>Clueless,</em> plans to run for California congressional
+      seat; district, south of LA, includes Compton &amp; parts of Long
+      Beach.</li><li>Dash, a Republican, filed official paperwork with slogan
+      “<em>Dash to DC</em>” joins a record number of women running for Congress
+      in 2018.</li></ul><p>Flip For More</p></div>
     citation: Flip For More
     _key: card-1-22761f3c-4bb6-4ea4-9ccb-3b3e1a85ea5a
   - order: 1
     useCheckmark: false
-    body: "Record Run For Office\n\n_“At latest count, 431 women were running for or were likely to run for the House nationwide a\x14 339 Democrats and 92 Republicans. At this point in 2016, there were fewer than half that: 212. Likewise, 50 women are running for or likely to run for Senate, compared with 25 at this point in 2016.”_\n\n[NPR: Read Article](https://www.npr.org/2018/02/20/585542531/more-than-twice-as-many-women-are-running-for-congress-in-2018-compared-to-2016)"
+    body: "<div><p>Record Run For Office</p><p><em>“At latest count, 431 women were running for or were likely to run for the House nationwide a\x14 339 Democrats and 92 Republicans. At this point in 2016, there were fewer than half that: 212. Likewise, 50 women are running for or likely to run for Senate, compared with 25 at this point in 2016.”</em></p><p><a href=\"https://www.npr.org/2018/02/20/585542531/more-than-twice-as-many-women-are-running-for-congress-in-2018-compared-to-2016\">NPR: Read Article</a></p></div>"
     _key: card-2-9ff01240-111f-4806-8cab-c48a1012339d
   - order: 2
     useCheckmark: false
     body: >-
-      ## Women Candidates: 2018
-
-
-      **Senate:**A_“increases in number of female incumbents & challengers
-      of**both** parties account for the rise in women’s candidacies.”_
-
-
-      **House:**A_“surge of women candidates is concentrated almost**entirely
-      among Democratic** challengers.”_
-
-
-      [Rutgers
-      University](http://www.cawp.rutgers.edu/sites/default/files/resources/a_closer_look_2018_outlook_final.pdf)
+      <div><h2>Women Candidates: 2018</h2><p><strong>Senate:</strong>A
+      <em>“increases in number of female incumbents &amp; challengers of
+      <strong>both</strong> parties account for the rise in women’s
+      candidacies.”</em></p><p><strong>House:</strong>A <em>“surge of women
+      candidates is concentrated almost <strong>entirely among
+      Democratic</strong> challengers.”</em></p><p><a
+      href="http://www.cawp.rutgers.edu/sites/default/files/resources/a_closer_look_2018_outlook_final.pdf">Rutgers
+      University</a></p></div>
     _key: card-3-ab37ab25-09d8-471f-b09f-0af6f580d253
   - order: 3
     useCheckmark: false
-    body: |-
-      # Women In America:
-
-      ## By The Numbers
-
-      **More than half the population (51%)**.
-
-      **Nearly 47% of U.S. workforce.**
-
-      **1 out of 5 representatives in Congress.**
+    body: >-
+      <div><h1>Women In America:</h1><h2>By The Numbers</h2><p><strong>More than
+      half the population (51%)</strong>.</p><p><strong>Nearly 47% of U.S.
+      workforce.</strong></p><p><strong>1 out of 5 representatives in
+      Congress.</strong></p></div>
     _key: card-4-afd99b5a-0dc8-433d-b166-2077fb0e615a
   - order: 4
     useCheckmark: true
     body: >-
-      Why Are More Women Running? Several factors depending on point-of-view.
-      Read On:
-
-
-      [view
-      sources](https://smarthernews.com/18-02-27-dash-women-elected-office/)
+      <div><p>Why Are More Women Running? Several factors depending on
+      point-of-view. Read On:</p><p><a
+      href="https://smarthernews.com/18-02-27-dash-women-elected-office/">view
+      sources</a></p></div>
     _key: card-10-4bb4184c-85ce-45d7-92e0-a2cddf2009d8
 
 ---

@@ -22,71 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      FINAL COUNTDOWN
-
-
-      > **Top 3 Things To Know…**  
-        
-        
-      …about the**final report** and**final vote** on Supreme Court Nominee
-      Judge Brett Kavanaugh.
-
-
-      Nothing but the facts.
+      <div><p>FINAL COUNTDOWN</p><blockquote><strong>Top 3 Things To
+      Know…</strong><br><br><br>…about the <strong>final report</strong> and
+      <strong>final vote</strong> on Supreme Court Nominee Judge Brett
+      Kavanaugh.</blockquote><p>Nothing but the facts.</p></div>
     _key: card-1-22be0c97-14e5-4be3-9804-18934977c071
   - order: 1
     useCheckmark: false
     body: >-
-      ## WHAT THE FBI’S REPORT SAYS:
-
-
-      * **We don’t know** and we probably never will because it won’t be made
-      public.
-
-      * FBI’s 1992 report of its investigation into allegations by**Anita Hill**
-      into then-Supreme Court nominee Clarence Thomas weren’t made public
-      either.
-
-      * **We do know:A** FBI interviewed 9 people.
+      <div><h2>WHAT THE FBI’S REPORT SAYS:</h2><ul><li><strong>We don’t
+      know</strong> and we probably never will because it won’t be made
+      public.</li><li>FBI’s 1992 report of its investigation into allegations by
+      <strong>Anita Hill</strong> into then-Supreme Court nominee Clarence
+      Thomas weren’t made public either.</li><li><strong>We do know:A</strong>
+      FBI interviewed 9 people.</li></ul></div>
     _key: card-2-23b428c6-9f70-4628-80b2-504f4e694063
   - order: 2
     useCheckmark: false
     body: >-
-      ## WHEN WILL THE SENATE VOTE:
-
-
-      * Wednesday PM, Senate Majority Leader started procedures necessary for a
-      final vote.
-
-      * Friday AM, Senate will vote on cloture (a vote to end debate). If
-      passed, Senators can still debate up to 30 hrs before final vote.
-
-      * Saturday TBD, full Senate will vote on nomination –**51 votes needed to
-      confirm nominee.**
+      <div><h2>WHEN WILL THE SENATE VOTE:</h2><ul><li>Wednesday PM, Senate
+      Majority Leader started procedures necessary for a final
+      vote.</li><li>Friday AM, Senate will vote on cloture (a vote to end
+      debate). If passed, Senators can still debate up to 30 hrs before final
+      vote.</li><li>Saturday TBD, full Senate will vote on nomination –
+      <strong>51 votes needed to confirm nominee.</strong></li></ul></div>
     _key: card-3-2693af0f-7b44-4950-80a7-909a46a856be
   - order: 3
     useCheckmark: false
     body: >-
-      # WILL KAVANAUGH GET CONFIRMED:
-
-
-      * Senate Republicans hold a narrowA 51-49 majority and only a simple
-      majority (51) is needed.
-
-      * That means Kavanaugh will likely be confirmed UNLESS**twoA of the three
-      following “undeclared” GOP Senators vote**A against their party:A Susan
-      Collins (R-ME), Lisa Murkowski (R-AK), or Jeff Flake (R-AZ).
+      <div><h1>WILL KAVANAUGH GET CONFIRMED:</h1><ul><li>Senate Republicans hold
+      a narrowA 51-49 majority and only a simple majority (51) is
+      needed.</li><li>That means Kavanaugh will likely be confirmed UNLESS
+      <strong>twoA of the three following “undeclared” GOP Senators
+      vote</strong>A against their party:A Susan Collins (R-ME), Lisa Murkowski
+      (R-AK), or Jeff Flake (R-AZ).</li></ul></div>
     _key: card-4-670cfd0d-4c86-4ab0-8ef0-85011e2bd458
   - order: 4
     useCheckmark: true
     body: >-
-      If there is a tie in the Senate, the Vice President will cast the deciding
-      vote. The Supreme Court nominee wrote an editorial in Friday's Wall Street
-      Journal; Time magazine put Christine Blasey Ford on the cover. You can see
-      both on our source page.
-
-
-      [view sources](https://smarthernews.com/three-things/)
+      <div><p>If there is a tie in the Senate, the Vice President will cast the
+      deciding vote. The Supreme Court nominee wrote an editorial in Friday's
+      Wall Street Journal; Time magazine put Christine Blasey Ford on the cover.
+      You can see both on our source page.</p><p><a
+      href="https://smarthernews.com/three-things/">view sources</a></p></div>
     _key: card-10-65217fd0-5223-4163-9849-556e28010f2b
 
 ---

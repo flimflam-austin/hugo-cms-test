@@ -22,46 +22,33 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # NHL’S STANLEY CUP CHAMPIONSHIP
-
-
-      ## Underdog vs. Underdog
-
-
-      > TheA**Las Vegas Knights**,A a team that didn’t even exist last year,
-      faces off against the**Washington Capitals**, a team tortured by playoff
-      losses.
-
-
-      flip: What You should Know
+      <div><h1>NHL’S STANLEY CUP CHAMPIONSHIP</h1><h2>Underdog vs.
+      Underdog</h2><blockquote>TheA <strong>Las Vegas Knights</strong>,A a team
+      that didn’t even exist last year, faces off against the <strong>Washington
+      Capitals</strong>, a team tortured by playoff losses.</blockquote><p>flip:
+      What You should Know</p></div>
     _key: card-1-ff0cd634-0df4-499b-8536-a1a0772a63f3
   - order: 1
     useCheckmark: false
-    body: "## Vegas Golden Knights\n\n**_\"Everybody on this team has something to prove. We call ourselves a\x18The Golden Misfits’ for a reason. We’re doing a good job of proving everybody wrong.\"_**  \n  \nRyan Reaves, Golden Knights, helped score winning goal that sent team to the Final.\n\n* **New franchise:** At one point, 500-1 odds to win championship."
+    body: "<div><h2>Vegas Golden Knights</h2><p><strong><em>\"Everybody on this team has something to prove. We call ourselves a\x18The Golden Misfits’ for a reason. We’re doing a good job of proving everybody wrong.\"</em></strong><br><br>Ryan Reaves, Golden Knights, helped score winning goal that sent team to the Final.</p><ul><li><strong>New franchise:</strong> At one point, 500-1 odds to win championship.</li></ul></div>"
     _key: card-2-78332d8a-0776-4e5b-bd0f-9c69ccf7ef54
   - order: 2
     useCheckmark: false
     body: >-
-      ## Washington Capitals
-
-
-      **_“It’s unbelievable… I can’t explain my emotions. I’m just happy for my
-      boys, for our organization, our fans — finally!”_**  
-        
-      Alex Ovechkin, Washington Capitals,A regarded as this generation's great
-      goalscorer. This is his 1st Stanley Cup final.
-
-
-      * **Tortured Past:A** First Stanley Cup appearance in 20 yrs, never won.
+      <div><h2>Washington Capitals</h2><p><strong><em>“It’s unbelievable… I
+      can’t explain my emotions. I’m just happy for my boys, for our
+      organization, our fans — finally!”</em></strong><br><br>Alex Ovechkin,
+      Washington Capitals,A regarded as this generation's great goalscorer. This
+      is his 1st Stanley Cup final.</p><ul><li><strong>Tortured Past:A</strong>
+      First Stanley Cup appearance in 20 yrs, never won.</li></ul></div>
     _key: card-3-bab47c70-103e-4960-9eaf-945228adbfc2
   - order: 3
     useCheckmark: true
     body: >-
-      The best of 7 series starts Monday. Who ya got? Click for the full
-      schedule for when to watch.
-
-
-      [view sources](https://smarthernews.com/18-05-24-nhl-stanley-cup/)
+      <div><p>The best of 7 series starts Monday. Who ya got? Click for the full
+      schedule for when to watch.</p><p><a
+      href="https://smarthernews.com/18-05-24-nhl-stanley-cup/">view
+      sources</a></p></div>
     _key: card-10-2a39d296-92aa-457c-bbed-d4c167344e80
 
 ---

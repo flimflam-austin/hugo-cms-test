@@ -22,76 +22,63 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # QUICK QUOTES
-
-
-      **“I hereby demand, and will do so officially tomorrow, that the
-      Department of Justice look into whether or not the FBI/DOJ infiltrated or
-      surveilled the Trump Campaign for Political Purposes…”**  
-        
-      Pres. Trump on Twitter Sunday after reports an FBI informant had talked to
-      campaign advisers to solicit information for its Russia investigation.
+      <div><h1>QUICK QUOTES</h1><p><strong>“I hereby demand, and will do so
+      officially tomorrow, that the Department of Justice look into whether or
+      not the FBI/DOJ infiltrated or surveilled the Trump Campaign for Political
+      Purposes…”</strong><br><br>Pres. Trump on Twitter Sunday after reports an
+      FBI informant had talked to campaign advisers to solicit information for
+      its Russia investigation.</p></div>
     _key: card-1-7804ff71-7fbd-4735-80ae-42256aa16629
   - order: 1
     useCheckmark: false
     body: >-
-      > **“I’m not sure… How does one put it? Under the caption, Radio: The
-      ‘Laurel’ Guy.”**  
-        
-        
-      Actor Jay Aubrey Jones, the voice behind the viral sensation "Yanny or
-      Laurel", on whether or not he'll add the work to his resume. For the
-      record, he hears "laurel" and that was the word he was recording for
-      Vocabulary.com before it became a sensation.
-
-
-      [Listen: You
-      decide](https://twitter.com/CloeCouture/status/996218489831473152?tfw_creator=ForTheWin&tfw_site=forthewin&ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fftw.usatoday.com%2F2018%2F05%2Flaurel-or-yanny-audio-clip-video-twitter-crazy-what-poll-please-vote-help)
+      <div><blockquote><strong>“I’m not sure… How does one put it? Under the
+      caption, Radio: The ‘Laurel’ Guy.”</strong><br><br><br>Actor Jay Aubrey
+      Jones, the voice behind the viral sensation "Yanny or Laurel", on whether
+      or not he'll add the work to his resume. For the record, he hears "laurel"
+      and that was the word he was recording for Vocabulary.com before it became
+      a sensation.</blockquote><p><a
+      href="https://twitter.com/CloeCouture/status/996218489831473152?tfw_creator=ForTheWin&amp;tfw_site=forthewin&amp;ref_src=twsrc%5Etfw&amp;ref_url=https%3A%2F%2Fftw.usatoday.com%2F2018%2F05%2Flaurel-or-yanny-audio-clip-video-twitter-crazy-what-poll-please-vote-help">Listen:
+      You decide</a></p></div>
     _key: card-2-ee88f70b-86ee-4de5-a878-cf49cbfb96a9
   - order: 2
     useCheckmark: false
     body: >-
-      > **“We’re putting the trade war on hold, so right now we have agreed to
-      put the tariffs on hold while we try to execute the framework. …We have an
-      agreement with China that they’re going to substantially agree to it.”**  
-        
-        
-      Treasury Secretary Steve Mnuchin on Fox News Sunday announcing the U.S.
-      will pause $150B in proposed tariffs while negotiating with China.
+      <blockquote><strong>“We’re putting the trade war on hold, so right now we
+      have agreed to put the tariffs on hold while we try to execute the
+      framework. …We have an agreement with China that they’re going to
+      substantially agree to it.”</strong><br><br><br>Treasury Secretary Steve
+      Mnuchin on Fox News Sunday announcing the U.S. will pause $150B in
+      proposed tariffs while negotiating with China.</blockquote>
     _key: card-3-8c4a1d97-c841-4c16-aa93-020fe5ecdba6
   - order: 3
     useCheckmark: false
     body: >-
-      > **“We are committed to creating a culture of warmth and belonging where
-      everyone is welcome.”**  
-        
-        
-      Statement from Starbucks announcing a new policy allowing anyone to sit in
-      its cafes or use its restrooms, even if they don't buy anything. The move
-      comes 5 weeks after 2 black men who hadn't bought anything were arrested
-      at one of its Philadelphia locations.
+      <blockquote><strong>“We are committed to creating a culture of warmth and
+      belonging where everyone is welcome.”</strong><br><br><br>Statement from
+      Starbucks announcing a new policy allowing anyone to sit in its cafes or
+      use its restrooms, even if they don't buy anything. The move comes 5 weeks
+      after 2 black men who hadn't bought anything were arrested at one of its
+      Philadelphia locations.</blockquote>
     _key: card-4-c46688d2-c8af-4594-a364-9ffaa60ae107
   - order: 4
     useCheckmark: false
     body: >-
-      > **“A sweet, slightly musky, vanilla-like fragrance, with slight
-      overtones of cherry, and the natural smell of a salted, wheat-based
-      dough.”**  
-        
-      How Hasbro describes its now trademarked smell of Play-Doh. Since its
-      creation in 1956, few changes have been made to Play-Doh's recipe & its
-      scent differentiates it from competitors.
-
-
-      [CLICK: How does one trademark a
-      smell?](https://mashable.com/2018/05/19/hasbro-play-doh-smell-trademark/)
+      <div><blockquote><strong>“A sweet, slightly musky, vanilla-like fragrance,
+      with slight overtones of cherry, and the natural smell of a salted,
+      wheat-based dough.”</strong><br><br>How Hasbro describes its now
+      trademarked smell of Play-Doh. Since its creation in 1956, few changes
+      have been made to Play-Doh's recipe &amp; its scent differentiates it from
+      competitors.</blockquote><p><a
+      href="https://mashable.com/2018/05/19/hasbro-play-doh-smell-trademark/">CLICK:
+      How does one trademark a smell?</a></p></div>
     _key: card-5-21c915d8-0bbf-4a4f-8bc0-8ba12cfdc896
   - order: 5
     useCheckmark: true
-    body: |-
-      Have a great day! Check out more at SmartHerNews.com
-
-      [view sources](https://smarthernews.com/18-05-21-quick-quotes/)
+    body: >-
+      <div><p>Have a great day! Check out more at SmartHerNews.com</p><p><a
+      href="https://smarthernews.com/18-05-21-quick-quotes/">view
+      sources</a></p></div>
     _key: card-10-e7c6e6b7-f363-4b22-b0f4-1da9fe82897a
 
 ---

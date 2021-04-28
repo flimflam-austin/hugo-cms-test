@@ -22,17 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“It’s critical to participate in our democracy…If we can do it from
-      space, then I believe folks can do it from the ground too_.”
+      <div><blockquote><em>“It’s critical to participate in our democracy…If we
+      can do it from space, then I believe folks can do it from the ground
+      too</em>.”</blockquote><p></p></div>
     citation: DR. KATHLEEN RUBINS
     _key: 15f26b2b9056
   - order: 1
     useCheckmark: true
     body: >-
-      As voting has started in some form in over half of the states, NASA
-      astronaut Dr. Rubins plans to vote from space this year - She did so as
-      well in 2016, when she also became the first person to sequence DNA in
-      space. NASA astronauts began voting in elections from space in 1997.
+      <div><p>As voting has started in some form in over half of the states,
+      NASA astronaut Dr. Rubins plans to vote from space this year - She did so
+      as well in 2016, when she also became the first person to sequence DNA in
+      space. NASA astronauts began voting in elections from space in
+      1997.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 4eba8ecc3829
 

@@ -22,75 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # DELIVERY DUEL
-
-
-      > Amazon Prime Day highlights a showdown in online shopping –**Who will
-      dominate delivery?**  
-        
-        
-        
-      The race between the top retailers to get to your front door.
-
-
-      Who's In The Lead?
+      <div><h1>DELIVERY DUEL</h1><blockquote>Amazon Prime Day highlights a
+      showdown in online shopping – <strong>Who will dominate
+      delivery?</strong><br><br><br><br>The race between the top retailers to
+      get to your front door.</blockquote><p>Who's In The Lead?</p></div>
     _key: card-1-9012b2bd-f630-4ace-a81b-b2e5306b512b
   - order: 1
     useCheckmark: false
     body: >-
-      ## Summer Shopping Holiday
-
-
-      * Amazon Prime Day: Starts 3pm Monday for 36 hrs.
-
-      * Special deals to “Prime Members” who pay an annual fee ($119) for**free
-      2-day shipping.A**
-
-      * More than half of America’s households are Amazon Prime members – proof
-      that online convenience & free, fast shipping matters to consumers.
+      <div><h2>Summer Shopping Holiday</h2><ul><li>Amazon Prime Day: Starts 3pm
+      Monday for 36 hrs.</li><li>Special deals to “Prime Members” who pay an
+      annual fee ($119) for <strong>free 2-day shipping.A</strong></li><li>More
+      than half of America’s households are Amazon Prime members – proof that
+      online convenience &amp; free, fast shipping matters to
+      consumers.</li></ul></div>
     _key: card-2-91affe6b-a204-400d-a26f-bf4d4245c3f7
   - order: 2
     useCheckmark: false
     body: >-
-      # Who Can Compete With Amazon Delivery?
-
-
-      ## Walmart Raises Hand
-
-
-      * Bought retailer Jet.com in 2016.
-
-      * Walmart: 90% of Americans live within 10 miles of one of its stores.
-
-      * 5,000+ stores = instant shipping centers IF they can master
-      logistics.**Recently launched same-day text-order trial ‘Jetblack.’**
+      <div><h1>Who Can Compete With Amazon Delivery?</h1><h2>Walmart Raises
+      Hand</h2><ul><li>Bought retailer Jet.com in 2016.</li><li>Walmart: 90% of
+      Americans live within 10 miles of one of its stores.</li><li>5,000+ stores
+      = instant shipping centers IF they can master logistics. <strong>Recently
+      launched same-day text-order trial ‘Jetblack.’</strong></li></ul></div>
     _key: card-3-7aad2c61-f9b6-4f94-8b56-b32af39864ff
   - order: 3
     useCheckmark: false
     body: >-
-      ## Amazon’s New Strategy
-
-
-      > Turn small businesses into drivers  
-        
-      “Amazon will take an active role in helping interested entrepreneurs
-      start, set up and manage their own delivery business. Successful owners
-      can earn as much asA $300,000A in annual profit operating a fleet of up to
-      40 delivery vehicles.”  
-        
-      Amazon, Press Release
+      <div><h2>Amazon’s New Strategy</h2><blockquote>Turn small businesses into
+      drivers<br><br>“Amazon will take an active role in helping interested
+      entrepreneurs start, set up and manage their own delivery business.
+      Successful owners can earn as much asA $300,000A in annual profit
+      operating a fleet of up to 40 delivery vehicles.”<br><br>Amazon, Press
+      Release</blockquote></div>
     _key: card-4-a56184ba-4a87-4414-979f-9788970150b0
   - order: 4
     useCheckmark: true
     body: >-
-      That's not all. Target bought a company called "Shipt" to try to up its
-      delivery game. A noticeable trend across these major retailers?
+      <div><p>That's not all. Target bought a company called "Shipt" to try to
+      up its delivery game. A noticeable trend across these major retailers?
       Competition for your grocery shopping. In the meantime, Amazon Prime Day
-      actually lifts shopping for other sites. Read more: SmartHerNews.com
-
-
-      [view
-      sources](https://smarthernews.com/18-07-15-amazon-prime-day-drivers-duel/)
+      actually lifts shopping for other sites. Read more:
+      SmartHerNews.com</p><p><a
+      href="https://smarthernews.com/18-07-15-amazon-prime-day-drivers-duel/">view
+      sources</a></p></div>
     _key: card-10-2400cef6-4682-479b-8c3e-e0a72a31e371
 
 ---

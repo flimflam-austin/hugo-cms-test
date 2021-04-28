@@ -22,18 +22,18 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“My mother told me to be a lady, and for her that meant be your own
-      person, be independent.”_
+      <div><blockquote><em>“My mother told me to be a lady, and for her that
+      meant be your own person, be independent.”</em></blockquote><p></p></div>
     citation: RUTH BADER GINSBERG
     _key: e3d6cdb42935
   - order: 1
     useCheckmark: true
     body: >-
-      Called the court's "feminist icon," Justice Ginsberg began her law career
-      fighting for gender equality, and in 1993 became the 2nd woman on the
-      Supreme Court (there's been 4 of 114). Her mother, who passed away before
-      she graduated from high school, inspired her education and drive. Justice
-      Ginsberg died at age 87.
+      <div><p>Called the court's "feminist icon," Justice Ginsberg began her law
+      career fighting for gender equality, and in 1993 became the 2nd woman on
+      the Supreme Court (there's been 4 of 114). Her mother, who passed away
+      before she graduated from high school, inspired her education and drive.
+      Justice Ginsberg died at age 87.</p><p></p></div>
     citation: VIEW SOURCES
     _key: e02da791e461
 

@@ -22,69 +22,45 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## June 23, 1904
-
-
-      An unexpectedly mysterious (and delightful) invention bursts onto the
-      world stage:
-
-
-      The ice cream cone.
+      <div><h2>June 23, 1904</h2><p>An unexpectedly mysterious (and delightful)
+      invention bursts onto the world stage:</p><p>The ice cream cone.</p></div>
     _key: 62325fea3bde
   - order: 1
     useCheckmark: false
     body: >-
-      ## Full Disclaimer
-
-
-      **No one knows with 100% certainty who invented the ice cream cone.**
-
-
-      * FOR YEARS, however, the commonly-believed date was June 23, 1904.
-
-      * The inventor: An original foodie, Charles E. Menches.
-
-      * A twist? Others who claim to have invented the ice cream cone *also*
-      appeared at the 1904 St. Louis Fair.
+      <div><h2>Full Disclaimer</h2><p><strong>No one knows with 100% certainty
+      who invented the ice cream cone.</strong></p><ul><li>FOR YEARS, however,
+      the commonly-believed date was June 23, 1904.</li><li>The inventor: An
+      original foodie, Charles E. Menches.</li><li>A twist? Others who claim to
+      have invented the ice cream cone *also* appeared at the 1904 St. Louis
+      Fair.</li></ul></div>
     _key: 240023f121cc
   - order: 2
     useCheckmark: false
     body: >-
-      ## The Story Goes…
-
-
-      Charles observed a girl(s) using baked goods for ice cream as a serving
-      bowl.
-
-
-      He took a cake, rolled it around his finger, and filled it with ice cream.
-
-
-      _“It is from the time of the Fair that the edible ‘cornucopia,’ a cone
-      made from a rolled waffle, vaulted into popularity in the United States.”_
-      Library of Congress
+      <div><h2>The Story Goes…</h2><p>Charles observed a girl(s) using baked
+      goods for ice cream as a serving bowl.</p><p>He took a cake, rolled it
+      around his finger, and filled it with ice cream.</p><p><em>“It is from the
+      time of the Fair that the edible ‘cornucopia,’ a cone made from a rolled
+      waffle, vaulted into popularity in the United States.”</em> Library of
+      Congress</p></div>
     _key: a3fe8a942cc3
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      > “The average American consumes more than 23 pounds of ice cream per
-      year.”  
-        
-      The International Dairy Foods Association
+      <div><h2>Something To Consider:</h2><blockquote>“The average American
+      consumes more than 23 pounds of ice cream per year.”<br><br>The
+      International Dairy Foods Association</blockquote></div>
     _key: 137a01632525
   - order: 4
     useCheckmark: true
     body: >-
-      An Italian patented an ice cream cone concept in 1903 but it described
-      "edible cups with handles." Charles and Frank Menches also claimed to have
-      invented the hamburger. Read more about the heated controversy over "who
-      owns the cone" on our source page.
-
-
-      [VIEW SOURCES](https://www.smarthernews.com/ice-cream-cone/)
+      <div><p>An Italian patented an ice cream cone concept in 1903 but it
+      described "edible cups with handles." Charles and Frank Menches also
+      claimed to have invented the hamburger. Read more about the heated
+      controversy over "who owns the cone" on our source page.</p><p><a
+      href="https://www.smarthernews.com/ice-cream-cone/">VIEW
+      SOURCES</a></p></div>
     _key: 904225369f76
 
 ---

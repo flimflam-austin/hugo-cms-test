@@ -20,88 +20,71 @@ colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: "# The New Beginning\n\nThe U.S. Constitution has**ONE**\_**requirement** for the new president on Inauguration Day – the rest has become tradition.\n\nWhat It Is. Why It Matters."
+    body: "<div><h1>The New Beginning</h1><p>The U.S. Constitution has <strong>ONE</strong>\_<strong>requirement</strong> for the new president on Inauguration Day – the rest has become tradition.</p><p>What It Is. Why It Matters.</p><p><br></p></div>"
     _key: 9d049ecc7fb3
   - order: 1
     useCheckmark: false
     body: >-
-      > ”I do solemnly swear (or affirm) that I will faithfully execute the
-      Office of President of the United States, and will to the best of my
-      Ability, preserve, protect and defend the Constitution of the United
-      States.”
-
-
-      Article II, Section 1 of the U.S. Constitution stipulates this specific
-      oath as a requirement for a new president to take office.
+      <div><blockquote>”I do solemnly swear (or affirm) that I will faithfully
+      execute the Office of President of the United States, and will to the best
+      of my Ability, preserve, protect and defend the Constitution of the United
+      States.”</blockquote><p>Article II, Section 1 of the U.S. Constitution
+      stipulates this specific oath as a requirement for a new president to take
+      office.</p></div>
     _key: e87474cf1828
   - order: 2
     useCheckmark: false
-    body: "## The First Inauguration Day\n\n* **April 1789:** Pres. George Washington traveled from his home in VA to the nation’s then-capital: New York City.\n* He took the oath of office on an outdoor balcony in front of a large crowd, his hand on a Bible – thus beginning the current tradition. His inaugural address was given in the Senate chamber to Congress.\n* Fireworks erupted across the city in the evening,\_concluding the festivities."
+    body: "<div><h2>The First Inauguration Day</h2><ul><li><strong>April 1789:</strong> Pres. George Washington traveled from his home in VA to the nation’s then-capital: New York City.</li><li>He took the oath of office on an outdoor balcony in front of a large crowd, his hand on a Bible – thus beginning the current tradition. His inaugural address was given in the Senate chamber to Congress.</li><li>Fireworks erupted across the city in the evening,\_concluding the festivities.</li></ul></div>"
     _key: 73ae974a6984
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why January 20?
-
-
-      * Inauguration Day used to take place on March 4 due to how long it took
-      to collect & count votes.
-
-      * The**20th Amendment** in 1933 changed Inauguration Day to Jan. 20.
-
-      * The Constitution states one presidential term is ended and the new one
-      begins at noon on the 20th, and has only one other specific requirement
-      for the day:**the new president must take an oath of office.**
+      <div><h2>Why January 20?</h2><ul><li>Inauguration Day used to take place
+      on March 4 due to how long it took to collect &amp; count
+      votes.</li><li>The <strong>20th Amendment</strong> in 1933 changed
+      Inauguration Day to Jan. 20.</li><li>The Constitution states one
+      presidential term is ended and the new one begins at noon on the 20th, and
+      has only one other specific requirement for the day: <strong>the new
+      president must take an oath of office.</strong></li></ul></div>
     _key: a60c750b8e68
   - order: 4
     useCheckmark: false
-    body: "## The Inaugural Ceremony\n\n* Besides D.C., past inaugurations have taken place in 4 states: NY, PA, VT & TX (on Air Force One after assassination of Pres. Kennedy).\n* **Pres. Jefferson (1801):** first inauguration at the U.S. Capitol (Senate’s chamber).\n* **Pres. Monroe (1817):\_**first inauguration held**outside** at the U.S. Capitol.\n* **Ronald Reagan (1981):** first inauguration held on the West Front of the Capitol, where it will be held yet again this year."
+    body: "<div><h2>The Inaugural Ceremony</h2><ul><li>Besides D.C., past inaugurations have taken place in 4 states: NY, PA, VT &amp; TX (on Air Force One after assassination of Pres. Kennedy).</li><li><strong>Pres. Jefferson (1801):</strong> first inauguration at the U.S. Capitol (Senate’s chamber).</li><li><strong>Pres. Monroe (1817):\_</strong>first inauguration held <strong>outside</strong> at the U.S. Capitol.</li><li><strong>Ronald Reagan (1981):</strong> first inauguration held on the West Front of the Capitol, where it will be held yet again this year.</li></ul></div>"
     _key: 74887b3194d4
   - order: 5
     useCheckmark: false
-    body: "## Why Outside The Capitol?\n\n**A disagreement between lawmakers back in 1817 may have helped inspire the tradition of an outside inauguration:**\n\n> _“…when a_\_**_small feud ensued between the Senate and the House of Representatives over which chairs_**\__would be used in the House chamber, the venue changed to an outdoor platform in front of the building.”_"
+    body: "<div><h2>Why Outside The Capitol?</h2><p><strong>A disagreement between lawmakers back in 1817 may have helped inspire the tradition of an outside inauguration:</strong></p><blockquote><em>“…when a</em>\_<strong><em>small feud ensued between the Senate and the House of Representatives over which chairs</em></strong>\_<em>would be used in the House chamber, the venue changed to an outdoor platform in front of the building.”</em></blockquote></div>"
     _key: 2479397e14ff
   - order: 6
     useCheckmark: false
     body: >-
-      ## The Parade
-
-
-      * Inaugural parades began as an informal event escorting the president**to
-      the Capitol** to be sworn in.
-
-      * **1809**: the inauguration of James Madison included the first
-      formally-planned parade route, with participants from around the country.
-
-      * Modern day: the parade and its thousands of attendees escort the
-      President and VP**from the Capitol** to the White House.
+      <div><h2>The Parade</h2><ul><li>Inaugural parades began as an informal
+      event escorting the president <strong>to the Capitol</strong> to be sworn
+      in.</li><li><strong>1809</strong>: the inauguration of James Madison
+      included the first formally-planned parade route, with participants from
+      around the country.</li><li>Modern day: the parade and its thousands of
+      attendees escort the President and VP <strong>from the Capitol</strong> to
+      the White House.</li></ul></div>
     _key: 1b83ae8c0063
   - order: 7
     useCheckmark: false
     body: >-
-      ## Unique Moments:
-
-
-      1801: Pres. Thomas Jefferson remains the only president to walk to and
-      from his inauguration ceremony.
-
-
-      1925: Inaugural address first broadcast on the radio (Pres. Coolidge).
-      1949: First televised inauguration (Pres. Truman’s second term).
-
-
-      1961: Army flame throwers melted the snow off Pennsylvania Ave. so the
-      parade could go on.
+      <div><h2>Unique Moments:</h2><p>1801: Pres. Thomas Jefferson remains the
+      only president to walk to and from his inauguration ceremony.</p><p>1925:
+      Inaugural address first broadcast on the radio (Pres. Coolidge). 1949:
+      First televised inauguration (Pres. Truman’s second term).</p><p>1961:
+      Army flame throwers melted the snow off Pennsylvania Ave. so the parade
+      could go on.</p></div>
     _key: 424629a659ac
   - order: 8
     useCheckmark: true
     body: >-
-      The presidential oath is typically recited with one hand on a Bible,
-      though it is not required. John Q. Adams took his oath in 1825 using a
-      book of law. Pres. Theodore Roosevelt held up his hand. Pres. Obama used
-      Pres. Lincoln's Bible for both inaugurations, and added Dr. MLK Jr's Bible
-      for his second. Pres. Trump also used the Lincoln Bible in addition to his
-      own.
+      <div><p>The presidential oath is typically recited with one hand on a
+      Bible, though it is not required. John Q. Adams took his oath in 1825
+      using a book of law. Pres. Theodore Roosevelt held up his hand. Pres.
+      Obama used Pres. Lincoln's Bible for both inaugurations, and added Dr. MLK
+      Jr's Bible for his second. Pres. Trump also used the Lincoln Bible in
+      addition to his own.</p><p></p></div>
     citation: VIEW SOURCES
     _key: a39a20ec7af8
 

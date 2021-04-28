@@ -22,25 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      The True Story Behind  
-
-      The “Miracle On Market”
-
-
-      [Click Here To
-      Listen](http://smarthernews.libsyn.com/smarther-news-ep13-the-true-story-behind-the-miracle-on-market)
+      <div><p>The True Story Behind<br>The “Miracle On Market”</p><p><a
+      href="http://smarthernews.libsyn.com/smarther-news-ep13-the-true-story-behind-the-miracle-on-market">Click
+      Here To Listen</a></p></div>
     _key: card-1-0dcaeee5-5e4c-4470-a761-30df9e9ac05c
   - order: 1
     useCheckmark: true
     body: >-
-      3 years ago, Gianna Masciantonio, suffering from a terrible brain tumor,
-      was kissed by Pope Francis on Market Street in Philadelphia. Weeks later,
-      she began to make a miraculous recovery that earned her the nickname
-      "Miracle On Market" . But that's NOT the true story. Listen to it as told
-      by her mother Kristen and be forever changed.
-
-
-      [view sources](https://smarthernews.com/18-09-21-miracle-on-market/)
+      <div><p>3 years ago, Gianna Masciantonio, suffering from a terrible brain
+      tumor, was kissed by Pope Francis on Market Street in Philadelphia. Weeks
+      later, she began to make a miraculous recovery that earned her the
+      nickname "Miracle On Market" . But that's NOT the true story. Listen to it
+      as told by her mother Kristen and be forever changed.</p><p><a
+      href="https://smarthernews.com/18-09-21-miracle-on-market/">view
+      sources</a></p></div>
     _key: card-10-a215ef92-d901-45ca-8724-09c999c869c6
 
 ---

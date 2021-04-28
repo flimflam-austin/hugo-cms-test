@@ -21,77 +21,64 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # One-Shot Deal
-
-
-      > What to know about the first single-dose COVID-19 vaccine approved for
-      emergency use in America (and why some doctors say it will make a “huge”
-      impact).
+      <div><h1>One-Shot Deal</h1><blockquote>What to know about the first
+      single-dose COVID-19 vaccine approved for emergency use in America (and
+      why some doctors say it will make a “huge”
+      impact).</blockquote><p><br></p></div>
     _key: 0c10cd77528b
   - order: 1
     useCheckmark: false
     body: >-
-      ## Latest COVID-19 Vaccine
-
-
-      * Made by Johnson & Johnson (J&J).
-
-      * Different vaccine “delivery” system than Pfizer & Moderna. J&J uses a
-      “modified” adenovirus (virus that causes cold symptoms) to help the body
-      learn to identify and attack SARS-CoV-2 (virus that causes COVID-19).
-
-      * Safety analysis came from a study of nearly 44,000 people ages 18 and
-      up, with more than half completing at least eight weeks of follow-up.
+      <div><h2>Latest COVID-19 Vaccine</h2><ul><li>Made by Johnson &amp; Johnson
+      (J&amp;J).</li><li>Different vaccine “delivery” system than Pfizer &amp;
+      Moderna. J&amp;J uses a “modified” adenovirus (virus that causes cold
+      symptoms) to help the body learn to identify and attack SARS-CoV-2 (virus
+      that causes COVID-19).</li><li>Safety analysis came from a study of nearly
+      44,000 people ages 18 and up, with more than half completing at least
+      eight weeks of follow-up.</li></ul></div>
     _key: 6122271dd42d
   - order: 2
     useCheckmark: false
     body: >-
-      > “There were no COVID-19-related deaths and no COVID-19 cases requiring
-      medical intervention occurring 28 days or more post-vaccination among
-      participants age 60 years or older with medical comorbidities in the
-      vaccine group.”
-
-
-      FDA Briefing Doc on the J&J vaccine shows a slightly lower *overall*
-      efficacy for this vaccine than Pfizer/Moderna. But the J&J study took
-      place during higher infection rates worldwide than others.
+      <div><blockquote>“There were no COVID-19-related deaths and no COVID-19
+      cases requiring medical intervention occurring 28 days or more
+      post-vaccination among participants age 60 years or older with medical
+      comorbidities in the vaccine group.”</blockquote><p>FDA Briefing Doc on
+      the J&amp;J vaccine shows a slightly lower *overall* efficacy for this
+      vaccine than Pfizer/Moderna. But the J&amp;J study took place during
+      higher infection rates worldwide than others.</p></div>
     _key: b47b469d7e8d
   - order: 3
     useCheckmark: false
     body: >-
-      ## Similar Vs. Different
-
-
-      * **Similar** (To Other COVID Vaccines): Side effects include body aches,
-      fever, etc. More prevalent in younger recipients than those age 60-and-up.
-
-      * **Different**: It doesn’t need deep-freezer storage like Pfizer OR the
-      freezing temps of Moderna; this vaccine can stay in a fridge for about 3
-      months. This is why some doctors believe this, along w/ the single dose,
-      will be a game-changer enabling “mobile” vaccination units.
+      <div><h2>Similar Vs. Different</h2><ul><li><strong>Similar</strong> (To
+      Other COVID Vaccines): Side effects include body aches, fever, etc. More
+      prevalent in younger recipients than those age
+      60-and-up.</li><li><strong>Different</strong>: It doesn’t need
+      deep-freezer storage like Pfizer OR the freezing temps of Moderna; this
+      vaccine can stay in a fridge for about 3 months. This is why some doctors
+      believe this, along w/ the single dose, will be a game-changer enabling
+      “mobile” vaccination units.</li></ul><p><br></p></div>
     _key: 038c21e2d743
   - order: 4
     useCheckmark: false
     body: >-
-      ## BIG PICTURE
-
-
-      * There are still unknowns for *any* COVID-19 vaccine w/emergency use
-      approval, such as transmission impact or how long any immunity lasts.
-
-      * **Bottom Line:** You may contract COVID after receiving a vaccine (as
-      with flu), but early data shows vaccine recipients have a lower chance of
-      severe cases. Early research: you’ll *likely* recover faster & w/out
-      hospitalization (better for you & health systems overall).
+      <div><h2>BIG PICTURE</h2><ul><li>There are still unknowns for *any*
+      COVID-19 vaccine w/emergency use approval, such as transmission impact or
+      how long any immunity lasts.</li><li><strong>Bottom Line:</strong> You may
+      contract COVID after receiving a vaccine (as with flu), but early data
+      shows vaccine recipients have a lower chance of severe cases. Early
+      research: you’ll *likely* recover faster &amp; w/out hospitalization
+      (better for you &amp; health systems overall).</li></ul></div>
     _key: d1c274d0ab53
   - order: 5
     useCheckmark: true
     body: >-
-      Other vaccines J&J is exploring with this "Trojan horse" adenovirus
+      <p>Other vaccines J&amp;J is exploring with this "Trojan horse" adenovirus
       technology? Zika, HIV and RSV (respiratory syncytial virus common in
       kids). Some say the approval of this vaccine will significantly increase
       vaccine accessibility in America AND worldwide over the next several
-      months.
+      months.</p>
     citation: VIEW SOURCES
     _key: 9350bd2aded9
 

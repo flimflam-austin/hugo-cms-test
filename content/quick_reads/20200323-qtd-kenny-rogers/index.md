@@ -22,20 +22,22 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“When I was young, my mom gave me one of the greatest pieces of advice
-      I’ve ever gotten….She said, ‘Son, be happy where you are. Never be content
-      to be there but if you’re not happy where you are, you’ll never be happy.’
-      And so at the low points of my career, I had to stop and think that this
-      is all I ever wanted to do is make music anyway.”_
+      <div><blockquote><em>“When I was young, my mom gave me one of the greatest
+      pieces of advice I’ve ever gotten….She said, ‘Son, be happy where you are.
+      Never be content to be there but if you’re not happy where you are, you’ll
+      never be happy.’ And so at the low points of my career, I had to stop and
+      think that this is all I ever wanted to do is make music
+      anyway.”</em></blockquote><p></p></div>
     citation: KENNY ROGERS
     _key: 380e84c40bf1
   - order: 1
     useCheckmark: true
     body: >-
-      Kenny Rogers passed away Saturday. The son of a carpenter and a part-time
-      cleaning lady sold 100 million+ records. The Grammy winner also won 19
-      American Music Awards - that’s more than any other artists with the
-      exception of Taylor Swift, Michael Jackson, Alabama & Whitney Houston.
+      <div><p>Kenny Rogers passed away Saturday. The son of a carpenter and a
+      part-time cleaning lady sold 100 million+ records. The Grammy winner also
+      won 19 American Music Awards - that’s more than any other artists with the
+      exception of Taylor Swift, Michael Jackson, Alabama &amp; Whitney
+      Houston.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 4a67011d6127
 

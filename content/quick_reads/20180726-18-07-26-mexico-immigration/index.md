@@ -22,12 +22,11 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      What's next? Many reunited families will be deported, while others may
-      seek asylum, but remember, in June Attorney General Sessions said gang &
-      domestic violence would no longer be grounds for asylum.
-
-
-      [view sources](https://smarthernews.com/18-07-26-mexico-immigration/)
+      <div><p>What's next? Many reunited families will be deported, while others
+      may seek asylum, but remember, in June Attorney General Sessions said gang
+      &amp; domestic violence would no longer be grounds for asylum.</p><p><a
+      href="https://smarthernews.com/18-07-26-mexico-immigration/">view
+      sources</a></p></div>
     _key: card-10-87bfe2f7-227f-4584-b510-d6479f02693c
 
 ---

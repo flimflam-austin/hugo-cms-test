@@ -22,61 +22,46 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Diving With Great Whites
-
-
-      > SmartHER News Founder Jenna Lee Babin takes you cage diving with Great
-      White Sharks.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/SdNoAI25uLk?enablejsapi=1&autoplay=1&rel=0)
+      <div><h1>Diving With Great Whites</h1><blockquote>SmartHER News Founder
+      Jenna Lee Babin takes you cage diving with Great White
+      Sharks.</blockquote><p><a
+      href="https://www.youtube.com/embed/SdNoAI25uLk?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-1-0620ef78-3d6b-489e-86a2-a8c19d4b63a4
   - order: 1
     useCheckmark: false
     body: >-
-      > “The world’s largest predatory fish doesn’t show up on cue. If I have
-      one piece of advice? Pack some patience and TAKE MOTION SICKNESS
-      MEDICATION.”  
-        
-        
-        
-      It can take several hours to see just one shark - Jenna says prepare ahead
-      of time!
+      <blockquote>“The world’s largest predatory fish doesn’t show up on cue. If
+      I have one piece of advice? Pack some patience and TAKE MOTION SICKNESS
+      MEDICATION.”<br><br><br><br>It can take several hours to see just one
+      shark - Jenna says prepare ahead of time!</blockquote>
     _key: card-2-c4f6a336-fd44-4b37-a051-792716806a2b
   - order: 2
     useCheckmark: false
     body: >-
-      > “Experience and passion over the fancy boats makes all the
-      difference.”  
-        
-        
-        
-      Jenna says look for an operator that has a ton of experience in the area
-      and also believes in proper conservation because it will make for a better
-      experience all around.
+      <blockquote>“Experience and passion over the fancy boats makes all the
+      difference.”<br><br><br><br>Jenna says look for an operator that has a ton
+      of experience in the area and also believes in proper conservation because
+      it will make for a better experience all around.</blockquote>
     _key: card-3-f1746a63-ff63-4a93-bd5f-a2dc8d2603cb
   - order: 3
     useCheckmark: false
     body: >-
-      > “I still don’t love swimming in open water (and I am not sure I ever
-      will), but this adventure instilled in me a truly unique respect for the
-      beauty, grace and power of Great Whites. And if nothing else, it made me
-      realize how little they are interested in us!”  
-        
-      While 'Jaws" is seared into our collective consciousness, Jenna says
-      seeing sharks up-close provides a completely different picture than the
-      one presented by Hollywood.
+      <blockquote>“I still don’t love swimming in open water (and I am not sure
+      I ever will), but this adventure instilled in me a truly unique respect
+      for the beauty, grace and power of Great Whites. And if nothing else, it
+      made me realize how little they are interested in us!”<br><br>While 'Jaws"
+      is seared into our collective consciousness, Jenna says seeing sharks
+      up-close provides a completely different picture than the one presented by
+      Hollywood.</blockquote>
     _key: card-4-d54e71f6-9cc7-4052-a7fa-879d8ad92aa7
   - order: 4
     useCheckmark: true
     body: >-
-      Read more about Jenna's adventure cage-diving with Great Whites in South
-      Africa.
-
-
-      [view
-      sources](https://smarthernews.com/18-07-27-worth-it-to-see-shark-dive/)
+      <div><p>Read more about Jenna's adventure cage-diving with Great Whites in
+      South Africa.</p><p><a
+      href="https://smarthernews.com/18-07-27-worth-it-to-see-shark-dive/">view
+      sources</a></p></div>
     _key: card-10-e19c31f4-1f30-44f4-861c-ae3b7492c7cd
 
 ---

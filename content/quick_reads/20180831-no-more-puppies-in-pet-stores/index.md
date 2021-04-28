@@ -22,74 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## No More Doggy In The Window?
-
-
-      England moves to ban all puppy & kitten sales in pet stores, as advocates
-      fight for the same in America.
-
-
-      No More Pet Stores?
+      <div><h2>No More Doggy In The Window?</h2><p>England moves to ban all
+      puppy &amp; kitten sales in pet stores, as advocates fight for the same in
+      America.</p><p>No More Pet Stores?</p></div>
     citation: No More Pet Stores?
     _key: card-1-af6304d7-8798-4fc8-ab18-2f210e067c11
   - order: 1
     useCheckmark: false
     body: >-
-      ## England’s Proposed Ban
-
-
-      * **What**: Ban sales of puppies & kittens younger than 6 months old by
-      anyone EXCEPT breeders.
-
-      * **Why**:A Crackdown on puppy mills & poor treatment of animals.
-
-      * **Interesting**: England doesn’t track puppy sales – no clear idea of
-      how many puppies are actually being sold through pet stores; estimates
-      upwards of 80,000.
+      <div><h2>England’s Proposed Ban</h2><ul><li><strong>What</strong>: Ban
+      sales of puppies &amp; kittens younger than 6 months old by anyone EXCEPT
+      breeders.</li><li><strong>Why</strong>:A Crackdown on puppy mills &amp;
+      poor treatment of animals.</li><li><strong>Interesting</strong>: England
+      doesn’t track puppy sales – no clear idea of how many puppies are actually
+      being sold through pet stores; estimates upwards of
+      80,000.</li></ul></div>
     _key: card-2-0a0ff4b3-1e88-472a-9f1e-066cca75f91f
   - order: 2
     useCheckmark: false
     body: >-
-      ## Puppy Probs: Stateside
-
-
-      * Americans spending more $$ on their pet’s care & comfort: est. $70B this
-      year.
-
-      * CA passed a law banning the sale of puppies in pet stores by 2019.
-
-      * MD passed a similar law this year.
-
-      * **Why keep pets in pet stores?** Some argue pushing all sales to
-      breeders will push puppy sales “underground” and same mistreatment to
-      occur.
+      <div><h2>Puppy Probs: Stateside</h2><ul><li>Americans spending more $$ on
+      their pet’s care &amp; comfort: est. $70B this year.</li><li>CA passed a
+      law banning the sale of puppies in pet stores by 2019.</li><li>MD passed a
+      similar law this year.</li><li><strong>Why keep pets in pet
+      stores?</strong> Some argue pushing all sales to breeders will push puppy
+      sales “underground” and same mistreatment to occur.</li></ul></div>
     _key: card-3-6c60a31e-5fc3-4512-ab64-1f2b641ed12c
   - order: 3
     useCheckmark: false
     body: >-
-      ## The Benefit Of A Ban
-
-
-      > _“_(Bans) protect consumers who may unwittingly purchase sometimes sick
-      or genetically compromised puppy mill puppies from pet stores. They
-      promote the acquisition of shelter/rescue dogs instead of commercially
-      bred dogs …. Nationally, they pressure the commercial pet industry to
-      clean up its act.”  
-        
-        
-        
-      Humane Society
+      <div><h2>The Benefit Of A Ban</h2><blockquote><em>“</em>(Bans) protect
+      consumers who may unwittingly purchase sometimes sick or genetically
+      compromised puppy mill puppies from pet stores. They promote the
+      acquisition of shelter/rescue dogs instead of commercially bred dogs ….
+      Nationally, they pressure the commercial pet industry to clean up its
+      act.”<br><br><br><br>Humane Society</blockquote></div>
     _key: card-4-d5eafcb7-c154-440a-b857-5fafcd36efcf
   - order: 4
     useCheckmark: true
     body: >-
-      The proposed ban of puppy and kitten sales in English pet stores opened
-      for public commentary in late August and will close in mid-September
-      before it goes before Parliament; a ban to stop sales of pets younger than
-      8 weeks old starts on Oct. 1.
-
-
-      [view sources](https://smarthernews.com/no-more-puppies-in-pet-stores/)
+      <div><p>The proposed ban of puppy and kitten sales in English pet stores
+      opened for public commentary in late August and will close in
+      mid-September before it goes before Parliament; a ban to stop sales of
+      pets younger than 8 weeks old starts on Oct. 1.</p><p><a
+      href="https://smarthernews.com/no-more-puppies-in-pet-stores/">view
+      sources</a></p></div>
     _key: card-10-11b36a7b-385a-44e9-9024-9bd841f4239f
 
 ---

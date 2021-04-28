@@ -21,93 +21,62 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # Oscars In 3 Quotes
-
-      > I’m older than the Academy. I’m very proud of that. Just keep moving.”  
-        
-        
-        
-      Eva Saint Marie, 93-year-old actress presenting at the 90th Academy Award.
-
-      Flip For More
+    body: >-
+      <div><h1>Oscars In 3 Quotes</h1><blockquote>I’m older than the Academy.
+      I’m very proud of that. Just keep moving.”<br><br><br><br>Eva Saint Marie,
+      93-year-old actress presenting at the 90th Academy
+      Award.</blockquote><p>Flip For More</p></div>
     _key: card-1-8fae4f2a-78a5-439b-ae74-85060b569ec2
   - order: 1
     useCheckmark: false
-    body: |-
-      # Hollywood Legend
-
-      ## Eva Saint Marie
-
-      Born: Newark New Jersey, 1924
-
-      Winner, Best Supporting Actress, ‘On the Waterfront’, 1955 Oscars
-
-      Gave birth to her first child, a son, days after she won Academy Award
+    body: >-
+      <div><h1>Hollywood Legend</h1><h2>Eva Saint Marie</h2><p>Born: Newark New
+      Jersey, 1924</p><p>Winner, Best Supporting Actress, ‘On the Waterfront’,
+      1955 Oscars</p><p>Gave birth to her first child, a son, days after she won
+      Academy Award</p></div>
     _key: card-2-bfa7f6c0-2d2e-4f2a-b304-840073971429
   - order: 2
     useCheckmark: false
     body: >-
-      > “At age 17, I enlisted in the National Guard. A few years later, I
-      volunteered to go to Vietnam. Now I am proud to have served there for 12
-      months with Alpha Company of the 39th Infantry. (Applause).**Anyone
-      else**?”  
-        
-        
-        
-      Wes Studi, Actor, introducing films about those "who fought for freedom
-      around the world" 90th Academy Awards
+      <blockquote>“At age 17, I enlisted in the National Guard. A few years
+      later, I volunteered to go to Vietnam. Now I am proud to have served there
+      for 12 months with Alpha Company of the 39th Infantry. (Applause).
+      <strong>Anyone else</strong>?”<br><br><br><br>Wes Studi, Actor,
+      introducing films about those "who fought for freedom around the world"
+      90th Academy Awards</blockquote>
     _key: card-3-a07f0e57-2d40-471c-b936-31bed41f6f1d
   - order: 3
     useCheckmark: false
     body: >-
-      Amazing American:  
-
-      Wes Studi
-
-
-      You know him from: “The Last of The Mohicans” & “Dances With Wolves”
-
-
-      Oklahoma Native – Cherokee (*may* be first Native American to present at
-      Oscars)
-
-
-      Only spoke Cherokee language until age 5
+      <div><p>Amazing American:<br>Wes Studi</p><p>You know him from: “The Last
+      of The Mohicans” &amp; “Dances With Wolves”</p><p>Oklahoma Native –
+      Cherokee (*may* be first Native American to present at Oscars)</p><p>Only
+      spoke Cherokee language until age 5</p></div>
     _key: card-4-aed10ef3-9e06-4b9b-b633-a59fe387f4c9
   - order: 4
     useCheckmark: false
     body: >-
-      > ‘I have two words for you: ‘**Inclusion Rider**‘.”  
-        
-        
-        
-      Frances McDormand, during acceptance speech for Best Actress, 90th Academy
-      Awards, March 4, 2018
-
-
-      Flip For What It Means
+      <div><blockquote>‘I have two words for you: ‘<strong>Inclusion
+      Rider</strong>‘.”<br><br><br><br>Frances McDormand, during acceptance
+      speech for Best Actress, 90th Academy Awards, March 4,
+      2018</blockquote><p>Flip For What It Means</p></div>
     _key: card-5-6265fbe3-e9e3-4cdc-b857-9e7ef0e8251f
   - order: 5
     useCheckmark: false
     body: >-
-      ## AKA: “Equity Rider”
-
-
-      Some will believe it is a contractual necessity; Others don’t.
-
-
-      “An inclusion rider is a reference to the belief by some that there should
-      be requirements in contracts that provide for gender and racial
-      diversity.”_Hollywood Reporter, March 4, 2018_
-
-
-      [Click Here For
-      Article](https://www.hollywoodreporter.com/news/what-is-an-inclusion-rider-frances-mcdormands-oscars-speech-explained-1091532)
+      <div><h2>AKA: “Equity Rider”</h2><p>Some will believe it is a contractual
+      necessity; Others don’t.</p><p>“An inclusion rider is a reference to the
+      belief by some that there should be requirements in contracts that provide
+      for gender and racial diversity.” <em>Hollywood Reporter, March 4,
+      2018</em></p><p><a
+      href="https://www.hollywoodreporter.com/news/what-is-an-inclusion-rider-frances-mcdormands-oscars-speech-explained-1091532">Click
+      Here For Article</a></p></div>
     _key: card-6-2f58c206-32f8-4ab5-ad6c-b7a1818f7fda
   - order: 6
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-02-04-oscars-missed/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-02-04-oscars-missed/">view
+      sources</a></p>
     _key: card-10-eac9140e-4164-4149-9adc-b537da03b19c
 
 ---

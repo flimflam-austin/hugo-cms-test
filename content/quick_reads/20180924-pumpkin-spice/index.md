@@ -22,71 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # A Taste of Autumn
-
-
-      It’s officially Fall. Time to bring on pumpkin spice,
-      well,_**everything.**A_
-
-
-      But don’t let those tastebuds fool you, there’s**no pumpkin** in that
-      pumpkin spice.
-
-
-      Oh. My. Gourd.
+      <div><h1>A Taste of Autumn</h1><p>It’s officially Fall. Time to bring on
+      pumpkin spice, well, <em><strong>everything.</strong>A</em></p><p>But
+      don’t let those tastebuds fool you, there’s <strong>no pumpkin</strong> in
+      that pumpkin spice.</p><p>Oh. My. Gourd.</p></div>
     _key: card-1-acc9698b-9156-4ce5-a08f-2f8bc5a69794
   - order: 1
     useCheckmark: false
     body: >-
-      ## How Did We Get Here?
-
-
-      First pumpkin spice reference dates back to 1796, but it was McCormick &
-      Co. who brought it to store shelves in 1934.
-
-
-      McCormick usesA**cinnamon, ginger, nutmeg & allspice –**_**not pumpkin**._
-
-
-      Starbucks debuted its pumpkin spice latte in 2003, which is credited for
-      the craze as we know it today.
+      <div><h2>How Did We Get Here?</h2><p>First pumpkin spice reference dates
+      back to 1796, but it was McCormick &amp; Co. who brought it to store
+      shelves in 1934.</p><p>McCormick usesA <strong>cinnamon, ginger, nutmeg
+      &amp; allspice –</strong> <em><strong>not
+      pumpkin</strong>.</em></p><p>Starbucks debuted its pumpkin spice latte in
+      2003, which is credited for the craze as we know it today.</p></div>
     _key: card-2-5915e792-929d-4bd1-a9a4-44b1df4df140
   - order: 2
     useCheckmark: false
     body: >-
-      > "It represents a sense of goodness, natural abundance and old values
-      that people think are good.”  
-        
-        
-      Cindy Ott, author of ‘Pumpkin: The Curious History of an American Icon, on
-      how Americans have used pumpkin pie & the spices in it to maintain
-      connections to nature and our country's beginnings. America is the only
-      country in the world that consumes pumpkin as a seasonal food or drink.
+      <blockquote>"It represents a sense of goodness, natural abundance and old
+      values that people think are good.”<br><br><br>Cindy Ott, author of
+      ‘Pumpkin: The Curious History of an American Icon, on how Americans have
+      used pumpkin pie &amp; the spices in it to maintain connections to nature
+      and our country's beginnings. America is the only country in the world
+      that consumes pumpkin as a seasonal food or drink.</blockquote>
     _key: card-3-76f1d2c4-c976-46b0-bb1b-79feb1d5092b
   - order: 3
     useCheckmark: false
     body: >-
-      ## Peak Pumpkin Spice?
-
-
-      * Americans spent**$500M on pumpkin-flavored** food in the last year,
-      a**new all-time high** & up 15% vs. 2017.
-
-      * A In 2005, pumpkin-flavored items were on 6% of U.S. restaurant menus.
-      By 2015, the number grew to**14.5%**, with the most in the northeast.
-
-      * Fastest growing pumpkin-spiced product?**Dog food.** Seriously.
+      <div><h2>Peak Pumpkin Spice?</h2><ul><li>Americans spent <strong>$500M on
+      pumpkin-flavored</strong> food in the last year, a <strong>new all-time
+      high</strong> &amp; up 15% vs. 2017.</li><li>A In 2005, pumpkin-flavored
+      items were on 6% of U.S. restaurant menus. By 2015, the number grew to
+      <strong>14.5%</strong>, with the most in the northeast.</li><li>Fastest
+      growing pumpkin-spiced product? <strong>Dog food.</strong>
+      Seriously.</li></ul></div>
     _key: card-4-55a2563c-69d9-44b8-b2da-a35df0755468
   - order: 4
     useCheckmark: true
     body: >-
-      Starbuck's sprang forward this fall, debuting its famed pumpkin spice
-      latte in late August. The #PSL drink, now in its 15th year, does include
-      actual pumpkin puree and even has its own Twitter account (@TheRealPSL)
-      boasting 110K followers.
-
-
-      [view sources](https://smarthernews.com/pumpkin-spice/)
+      <div><p>Starbuck's sprang forward this fall, debuting its famed pumpkin
+      spice latte in late August. The #PSL drink, now in its 15th year, does
+      include actual pumpkin puree and even has its own Twitter account
+      (@TheRealPSL) boasting 110K followers.</p><p><a
+      href="https://smarthernews.com/pumpkin-spice/">view sources</a></p></div>
     _key: card-10-d3074d92-f621-4d93-9b5c-f3bbb7b88fcf
 
 ---

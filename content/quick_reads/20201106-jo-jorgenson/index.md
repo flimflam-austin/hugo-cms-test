@@ -22,20 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“If the federal government weren’t so huge…such a behemoth of
-      unimaginable size and power…we wouldn’t be so polarized and fighting over
-      it. We need to return to state and local rule and get the fed out of our
-      daily lives.”._
+      <blockquote><em>“If the federal government weren’t so huge…such a behemoth
+      of unimaginable size and power…we wouldn’t be so polarized and fighting
+      over it. We need to return to state and local rule and get the fed out of
+      our daily lives.”.</em></blockquote>
     citation: JO JORGENSEN
     _key: a86b5649d9be
   - order: 1
     useCheckmark: true
     body: >-
-      As the first woman to represent the Libertarian ticket, Jorgenson says her
-      role in 2020 mattered. Campaigning between teaching psych classes at
-      Clemson University, Prof. Jorgenson is on track to get 1% of vote.
+      <div><p>As the first woman to represent the Libertarian ticket, Jorgenson
+      says her role in 2020 mattered. Campaigning between teaching psych classes
+      at Clemson University, Prof. Jorgenson is on track to get 1% of vote.
       Analysts have differing opinions on which candidate this helped or hurt -
-      read more on our source page.
+      read more on our source page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 5df955df46d3
 

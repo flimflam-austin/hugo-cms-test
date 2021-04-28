@@ -22,62 +22,45 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      GO FUND MY  
-
-      (fill in the blank)
-
-
-      GoFundMe (GFM), the globe’s largest crowdfunding website hosts 10,000 new
-      campaigns every day and has raised more than $5 billion bucks since it
-      launched in 2010.
-
-
-      Got a cause, goal, or bill to pay?
+      <div><p>GO FUND MY<br>(fill in the blank) </p><p>GoFundMe (GFM), the
+      globe’s largest crowdfunding website hosts 10,000 new campaigns every day
+      and has raised more than $5 billion bucks since it launched in
+      2010.</p><p>Got a cause, goal, or bill to pay?</p></div>
     _key: card-1-7d0e82ea-95bc-4a8f-ba21-34acadc681e3
   - order: 1
     useCheckmark: false
     body: >-
-      # GoFundMe
-
-
-      * **Who:** Users create a campaign & solicit donations from the public.
-
-      * **What:A** Funds are raised for anything from memorials to charities,
-      parties, and more.A A A A**#1 CAUSE: Medical bills.A**
-
-      * **How:A** In 2017, GFM stopped taking a 5% fee for personal funds.A
-      There is still a 2.9% processing fee & a 30 cent fee for every donation.
-      Users may also tip.
+      <div><h1>GoFundMe</h1><ul><li><strong>Who:</strong> Users create a
+      campaign &amp; solicit donations from the
+      public.</li><li><strong>What:A</strong> Funds are raised for anything from
+      memorials to charities, parties, and more.A A A A <strong>#1 CAUSE:
+      Medical bills.A</strong></li><li><strong>How:A</strong> In 2017, GFM
+      stopped taking a 5% fee for personal funds.A There is still a 2.9%
+      processing fee &amp; a 30 cent fee for every donation. Users may also
+      tip.</li></ul></div>
     _key: card-2-8a9a5cf1-0e3b-4efd-a527-e5dc32c29288
   - order: 2
     useCheckmark: false
     body: >-
-      # Top Three Large$t GoFundMe Campaigns
-
-
-      **$21.9 million:** Time’s Up Legal (sexual assault / harassment) Defense
-      Fund
-
-
-      **$11.8 million:** 2017 Las Vegas Shooting Victims Fund
-
-
-      **$7.8 million:** 2016 Pulse Nightclub Shooting Victims Fund
+      <div><h1>Top Three Large$t GoFundMe Campaigns</h1><p><strong>$21.9
+      million:</strong> Time’s Up Legal (sexual assault / harassment) Defense
+      Fund</p><p><strong>$11.8 million:</strong> 2017 Las Vegas Shooting Victims
+      Fund</p><p><strong>$7.8 million:</strong> 2016 Pulse Nightclub Shooting
+      Victims Fund</p></div>
     _key: card-3-34bf92c4-752c-4731-b658-4cc920792c63
   - order: 3
     useCheckmark: false
-    body: "> “The biggest surprise is how much positivity there is in the world. News cycles and the social web often present a barrage of negativity. Yet I’ve been surprised by just how much people are compassionate, sympathetic, and empathetic a\x13 they genuinely want to help.”  \n  \n  \n  \nGoFundMe CEO Rob Solomon"
+    body: "<blockquote>“The biggest surprise is how much positivity there is in the world. News cycles and the social web often present a barrage of negativity. Yet I’ve been surprised by just how much people are compassionate, sympathetic, and empathetic a\x13 they genuinely want to help.”<br><br><br><br>GoFundMe CEO Rob Solomon</blockquote>"
     _key: card-4-5f168c2b-82e3-492e-8752-b847d7a46cb7
   - order: 4
     useCheckmark: true
     body: >-
-      The GoFundMe page for newly fired FBI agent Peter Strzok has raised more
-      than $380K+ since it launched on Monday. Although GoFundMe campaigns
-      cannot be used anonymously, sometimes it is difficult to know exactly who
-      is behind a campaign.
-
-
-      [view sources](https://smarthernews.com/18-08-15-go-fund-me/)
+      <div><p>The GoFundMe page for newly fired FBI agent Peter Strzok has
+      raised more than $380K+ since it launched on Monday. Although GoFundMe
+      campaigns cannot be used anonymously, sometimes it is difficult to know
+      exactly who is behind a campaign.</p><p><a
+      href="https://smarthernews.com/18-08-15-go-fund-me/">view
+      sources</a></p></div>
     _key: card-10-fb15fdd1-51c4-4f8d-a3f9-1cade6d3844b
 
 ---

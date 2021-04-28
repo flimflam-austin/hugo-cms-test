@@ -21,19 +21,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“We are a great nation. We are a good people. We may come from
-      different places, hold different beliefs, but we share in common a love
-      for this country, a belief in its limitless possibilities…”_
+      <blockquote><em>“We are a great nation. We are a good people. We may come
+      from different places, hold different beliefs, but we share in common a
+      love for this country, a belief in its limitless
+      possibilities…”</em></blockquote>
     citation: PRES-ELECT JOE BIDEN
     _key: 53b3f69229db
   - order: 1
     useCheckmark: true
     body: >-
-      Pres-Elect Biden after the Electoral College formally elected him the 46th
-      U.S. president. In his speech, Pres-Elect Biden detailed his victory,
-      promising to prioritize fighting the pandemic and economic recovery. The
-      new Congress will formally recognize the votes January 6th - Inauguration
-      Day is Jan 20, 2021
+      <div><p>Pres-Elect Biden after the Electoral College formally elected him
+      the 46th U.S. president. In his speech, Pres-Elect Biden detailed his
+      victory, promising to prioritize fighting the pandemic and economic
+      recovery. The new Congress will formally recognize the votes January 6th -
+      Inauguration Day is Jan 20, 2021</p><p></p></div>
     citation: VIEW SOURCES
     _key: f9ddca430c47
 

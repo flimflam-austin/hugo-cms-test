@@ -22,20 +22,22 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“A people fired … with love of their country and of liberty, a zeal for
-      the public good, and a noble emulation of glory, will not be disheartened
-      or dispirited by a succession of unfortunate events. But … may we learn by
-      defeat the power of becoming invincible.”_
+      <div><blockquote><em>“A people fired … with love of their country and of
+      liberty, a zeal for the public good, and a noble emulation of glory, will
+      not be disheartened or dispirited by a succession of unfortunate events.
+      But … may we learn by defeat the power of becoming
+      invincible.”</em></blockquote><p></p></div>
     citation: ABIGAIL ADAMS
     _key: 6b48a2b6bb78
   - order: 1
     useCheckmark: true
     body: >-
-      On October 25, 1764, Abigail Smith marries John Adams, a union that spans
-      the American Revolution & independence, presidencies, and continents.
-      Anti-slavery and pro-women rights, Abigail remained not only a key advisor
-      to her husband, the nation's second president, but friend of Pres. George
-      Washington, his wife Martha, & Pres. Thomas Jefferson.
+      <div><p>On October 25, 1764, Abigail Smith marries John Adams, a union
+      that spans the American Revolution &amp; independence, presidencies, and
+      continents. Anti-slavery and pro-women rights, Abigail remained not only a
+      key advisor to her husband, the nation's second president, but friend of
+      Pres. George Washington, his wife Martha, &amp; Pres. Thomas
+      Jefferson.</p><p></p></div>
     citation: VIEW SOURCES
     _key: c12c2e1f39c7
 

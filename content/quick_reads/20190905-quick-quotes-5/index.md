@@ -22,70 +22,61 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “This is not going to be a glancing blow. This is going to be a Mike
-      Tyson punch to the Carolina coast.”  
-        
-        
-      Jeff Byard, FEMA Associate Administrator, on the immensely powerful
-      Hurricane Florence which is now tracking southward. The Category 2 storm's
-      path change will now likely impact Georgia, but may possibly limit effects
-      on Washington, D.C. and points northward.
+      <blockquote>“This is not going to be a glancing blow. This is going to be
+      a Mike Tyson punch to the Carolina coast.”<br><br><br>Jeff Byard, FEMA
+      Associate Administrator, on the immensely powerful Hurricane Florence
+      which is now tracking southward. The Category 2 storm's path change will
+      now likely impact Georgia, but may possibly limit effects on Washington,
+      D.C. and points northward.</blockquote>
     _key: card-1-df79dec3-b65f-4bd5-a0a3-52b8edd96617
   - order: 1
     useCheckmark: false
     body: >-
-      > “The State Department has come to the determination that they were
-      attacks.”  
-        
-        
-      Ret. Ambassador Peter Bodde, head of the State Dept's Accountability
-      Review Board, testifying before Congress about suspected "attacks" on 26
-      government workers in Cuba & at least one in China, causing brain
-      injuries, hearing loss. NBC reports Russia is the main suspect; State Dept
-      has yet to formally assign any blame.
+      <blockquote>“The State Department has come to the determination that they
+      were attacks.”<br><br><br>Ret. Ambassador Peter Bodde, head of the State
+      Dept's Accountability Review Board, testifying before Congress about
+      suspected "attacks" on 26 government workers in Cuba &amp; at least one in
+      China, causing brain injuries, hearing loss. NBC reports Russia is the
+      main suspect; State Dept has yet to formally assign any
+      blame.</blockquote>
     _key: card-2-2f2e7fa3-11f5-4f41-8b1e-30889de09d77
   - order: 2
     useCheckmark: false
     body: >-
-      > “The disturbing and accelerating trajectory of use we’re seeing in
-      youth, and the resulting path to addiction, must end. The FDA cannot
-      tolerate a whole generation of young people becoming addicted to
-      nicotine…”  
-        
-      Scott Gottlieb, FDA Commissioner, after the agency took an unprecedented
-      step ordering 5 e-cig makers to submit plans on how to address teen use of
-      their products, which he calls an "epidemic."
-
-
-      [Read more Here](https://smarthernews.com/18-08-30-cigarettes-vaping/)
+      <div><blockquote>“The disturbing and accelerating trajectory of use we’re
+      seeing in youth, and the resulting path to addiction, must end. The FDA
+      cannot tolerate a whole generation of young people becoming addicted to
+      nicotine…”<br><br>Scott Gottlieb, FDA Commissioner, after the agency took
+      an unprecedented step ordering 5 e-cig makers to submit plans on how to
+      address teen use of their products, which he calls an
+      "epidemic."</blockquote><p><a
+      href="https://smarthernews.com/18-08-30-cigarettes-vaping/">Read more
+      Here</a></p></div>
     _key: card-3-a65bb078-3167-4f0a-9973-57e06c41379c
   - order: 3
     useCheckmark: false
     body: >-
-      > “I think I could beat Trump because I’m as tough as he is, I’m smarter
-      than he is.”  
-        
-      Jamie Dimon, JP Morgan Chase CEO, before backtracking soon after saying he
-      shouldn't have said it. I'm not running for President. Dimon, a lifelong
-      Democrat, is one only 2 Wall Street CEO still in place since the financial
-      crisis. He has said he would like running the country, but it is unlikely
-      a rich banker would win over the liberal Democrats.
+      <blockquote>“I think I could beat Trump because I’m as tough as he is, I’m
+      smarter than he is.”<br><br>Jamie Dimon, JP Morgan Chase CEO, before
+      backtracking soon after saying he shouldn't have said it. I'm not running
+      for President. Dimon, a lifelong Democrat, is one only 2 Wall Street CEO
+      still in place since the financial crisis. He has said he would like
+      running the country, but it is unlikely a rich banker would win over the
+      liberal Democrats.</blockquote>
     _key: card-4-483157f9-d372-448e-bc4d-a18ee0676931
   - order: 4
     useCheckmark: false
     body: >-
-      > "We have branding opportunities right there.”  
-        
-        
-      Jim Bridenstine, NASA administrator, on the possibilities of corporate
+      <blockquote>"We have branding opportunities right there.”<br><br><br>Jim
+      Bridenstine, NASA administrator, on the possibilities of corporate
       sponsorship for NASA missions, including branding on rockets and the
       International Space Station. Critics warn it creates a conflict of
-      interest between private companies & public interest and may violate
-      NASA's own rules.
+      interest between private companies &amp; public interest and may violate
+      NASA's own rules.</blockquote>
     _key: card-5-0178c80f-0d26-47c0-ad65-975cf47f1b43
   - order: 5
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/quick-quotes-5/)'
+    body: <p><a href="https://smarthernews.com/quick-quotes-5/">view sources</a></p>
     _key: card-10-2eab9dda-92d2-40ba-bf96-c415d4bc144e
 
 ---

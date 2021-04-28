@@ -22,26 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Here Comes The General
-
-
-      > A**crucial moment** in our fight for Independence when America was on
-      the ropes and**came back swinging**.
-
-
-      [Click:
-      Listen](http://smarthernews.libsyn.com/smarther-news-ep6-independence-day)
+      <div><h2>Here Comes The General</h2><blockquote>A <strong>crucial
+      moment</strong> in our fight for Independence when America was on the
+      ropes and <strong>came back swinging</strong>.</blockquote><p><a
+      href="http://smarthernews.libsyn.com/smarther-news-ep6-independence-day">Click:
+      Listen</a></p></div>
     _key: card-1-13c306a3-6260-4b1c-a7a7-0ba4b6b6d9f3
   - order: 1
     useCheckmark: true
     body: >-
-      SmartHER News sits down with Clay Craighead, historian at the Washington
-      Crossing State Park, for a story that will send chills down your spine and
-      make you appreciate America in a whole new way.
-
-
-      [view
-      sources](https://smarthernews.com/18-07-04-podcast-washingtons-crossing/)
+      <div><p>SmartHER News sits down with Clay Craighead, historian at the
+      Washington Crossing State Park, for a story that will send chills down
+      your spine and make you appreciate America in a whole new way.</p><p><a
+      href="https://smarthernews.com/18-07-04-podcast-washingtons-crossing/">view
+      sources</a></p></div>
     _key: card-10-c9c92d5c-5724-4fff-882c-403d735ec4ba
 
 ---

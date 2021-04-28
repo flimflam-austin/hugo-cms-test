@@ -22,87 +22,55 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## LIVIN’ ON A PRAYER
-
-
-      > On Easter Weekend, a**nun’s** favorite underdog team attempts
-      a**miracle** win in the NCAA Final Four.  
-        
-        
-        
-      **“It’s pretty hard to go up against God, man.’’**  
-        
-        
-        
-      Dick Vitale Legendary Sportscaster
-
-
-      Meet 'Sister Jean'
+      <div><h2>LIVIN’ ON A PRAYER</h2><blockquote>On Easter Weekend, a
+      <strong>nun’s</strong> favorite underdog team attempts a
+      <strong>miracle</strong> win in the NCAA Final
+      Four.<br><br><br><br><strong>“It’s pretty hard to go up against God,
+      man.’’</strong><br><br><br><br>Dick Vitale Legendary
+      Sportscaster</blockquote><p>Meet 'Sister Jean'</p></div>
     citation: Meet 'Sister Jean'
     _key: card-1-ed8efbd4-92dc-479e-940f-f038c78601fa
   - order: 1
     useCheckmark: false
     body: >-
-      ## All About Sister Jean
-
-
-      * Full name:A Jean Dolores-Schmidt
-
-      * **98 years old**
-
-      * **1994:** Retired (from education)
-
-      * Became Loyola’s team chaplain, more than 20 years ago, now leading
-      pre-game prayers from her wheelchair.
-
-      * **CURRENT: Social Media Darling. 20K+A** media stories and counting.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/vlgliO8oYSA?enablejsapi=1&autoplay=1&rel=0)
+      <div><h2>All About Sister Jean</h2><ul><li>Full name:A Jean
+      Dolores-Schmidt</li><li><strong>98 years
+      old</strong></li><li><strong>1994:</strong> Retired (from
+      education)</li><li>Became Loyola’s team chaplain, more than 20 years ago,
+      now leading pre-game prayers from her wheelchair.</li><li><strong>CURRENT:
+      Social Media Darling. 20K+A</strong> media stories and
+      counting.</li></ul><p><a
+      href="https://www.youtube.com/embed/vlgliO8oYSA?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     citation: Watch Now
     _key: card-2-4bf18403-a3c2-4849-ac0c-58faf19385fa
   - order: 2
     useCheckmark: false
     body: >-
-      NCAA Tournament’s M.V.P.  
-
-      (Most Valuable PRAYER)
-
-
-      * She gave Loyola “her blessing” to license her name & image.
-
-      * She’s now on**t-shirts, socks & even a bobblehead**A — it’s
-      the**best-selling bobblehead in history.** (5K sold in 48 hours)
-
-      * She won’t receive any money.
-
-      * Proceeds from the sales support Loyola Athletic Fund & Sisters of
-      Charity of the Blessed Virgin Mary.
+      <div><p>NCAA Tournament’s M.V.P.<br>(Most Valuable PRAYER)</p><ul><li>She
+      gave Loyola “her blessing” to license her name &amp; image.</li><li>She’s
+      now on <strong>t-shirts, socks &amp; even a bobblehead</strong>A — it’s
+      the <strong>best-selling bobblehead in history.</strong> (5K sold in 48
+      hours)</li><li>She won’t receive any money.</li><li>Proceeds from the
+      sales support Loyola Athletic Fund &amp; Sisters of Charity of the Blessed
+      Virgin Mary.</li></ul></div>
     _key: card-3-ee51ae11-243d-4906-8206-3fe1ca44c5f6
   - order: 3
     useCheckmark: false
-    body: |-
-      ## Keeping the Faith
-
-      **Interviewer:** ‘What did you give up for Lent?’  
-      **Sister Jean:** ‘Losing.’
-
-      **Final Four is Saturday:**  
-      Loyola-Chicago vs. Michigan (6:09PM ET)  
-      Kansas vs. Villanova (8:49PM ET)
-
-      NCAA Championship Game is  
-      Monday night.
+    body: >-
+      <div><h2>Keeping the Faith</h2><p><strong>Interviewer:</strong> ‘What did
+      you give up for Lent?’<br><strong>Sister Jean:</strong>
+      ‘Losing.’</p><p><strong>Final Four is Saturday:</strong><br>Loyola-Chicago
+      vs. Michigan (6:09PM ET)<br>Kansas vs. Villanova (8:49PM ET)</p><p>NCAA
+      Championship Game is<br>Monday night.</p></div>
     _key: card-4-bfc88c5b-d554-4e7a-863d-de1e95e9db3d
   - order: 4
     useCheckmark: true
     body: >-
-      Poking fun at a nun? Check out these new billboards in Michigan ahead of
-      the Final Four.
-
-
-      [view sources](https://smarthernews.com/18-03-30-sister-jean/)
+      <div><p>Poking fun at a nun? Check out these new billboards in Michigan
+      ahead of the Final Four.</p><p><a
+      href="https://smarthernews.com/18-03-30-sister-jean/">view
+      sources</a></p></div>
     _key: card-10-374204ae-b3c7-4377-ab0b-d8ec063cc025
 
 ---

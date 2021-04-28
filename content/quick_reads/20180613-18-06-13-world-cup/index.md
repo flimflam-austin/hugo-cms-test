@@ -22,83 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # WORLD CUP 2018
-
-
-      ## Every 4 years, 32 countries face off in soccer’s biggest show. It
-      starts Thursday in Russia.A
-
-
-      What to know, how to cheer, & why Iran may be playing shoeless.
-
-
-      FLIP: Gooooooooal!
+      <div><h1>WORLD CUP 2018</h1><h2>Every 4 years, 32 countries face off in
+      soccer’s biggest show. It starts Thursday in Russia.A</h2><p>What to know,
+      how to cheer, &amp; why Iran may be playing shoeless.</p><p>FLIP:
+      Gooooooooal!</p></div>
     _key: card-1-2a9983a4-88e5-4a58-bb5d-a093632398ed
   - order: 1
     useCheckmark: false
     body: >-
-      ## WHAT TO KNOW:
-
-
-      * With 64 matches to play,**World Cup lasts a month**A until July 15th.
-
-      * **First time ever held in Russia.**
-
-      * **U.S. men’s team didn’t make the cut** – a first since 1986.
-
-      * Underdogs Egypt, Peru & Senegal made cut for the 1st time in years.
-
-      * Soccer superstars Argentina’s**Lionel Messi** & Portugal’s**Cristiano
-      Ronaldo have never won a World Cup.**
+      <div><h2>WHAT TO KNOW:</h2><ul><li>With 64 matches to play, <strong>World
+      Cup lasts a month</strong>A until July 15th.</li><li><strong>First time
+      ever held in Russia.</strong></li><li><strong>U.S. men’s team didn’t make
+      the cut</strong> – a first since 1986.</li><li>Underdogs Egypt, Peru &amp;
+      Senegal made cut for the 1st time in years.</li><li>Soccer superstars
+      Argentina’s <strong>Lionel Messi</strong> &amp; Portugal’s
+      <strong>Cristiano Ronaldo have never won a World
+      Cup.</strong></li></ul></div>
     _key: card-2-70383333-4c20-4179-ba22-eecfa031af73
   - order: 2
     useCheckmark: false
     body: >-
-      HOW TO CHEER:  
-
-      “Spoons of Victory”
-
-
-      Yes, that’s right.**_Spoons_ are the World Cup’s official instrument**.
-
-
-      Russian Lozhka (losh-KA) = 2 wooden spoons fans click together to make
-      noise.
-
-
-      Quieter than 2010’s vuvuzela (long plastic horn) that’s now banned.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/Bl6VC4zA7ns?enablejsapi=1&autoplay=1&rel=0)
+      <div><p>HOW TO CHEER:<br>“Spoons of Victory”</p><p>Yes, that’s right.
+      <strong><em>Spoons</em> are the World Cup’s official
+      instrument</strong>.</p><p>Russian Lozhka (losh-KA) = 2 wooden spoons fans
+      click together to make noise.</p><p>Quieter than 2010’s vuvuzela (long
+      plastic horn) that’s now banned.</p><p><a
+      href="https://www.youtube.com/embed/Bl6VC4zA7ns?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-3-b6a18de2-be55-4d92-ad07-d1adcc4183bd
   - order: 3
     useCheckmark: false
     body: >-
-      WHAT TO SAY:  
-
-      Go Ahead, Call it Soccer.
-
-
-      **Soccer is called football**A except in U.S., Canada, Australia & few
-      others.
-
-
-      World calls it football simply because ball is kicked with the foot.
-
-
-      **So why do we call it soccer?** First version played in the U.S. was
-      called “association football” –**“soc” was derived from “association.”**
+      <div><p>WHAT TO SAY:<br>Go Ahead, Call it Soccer.</p><p><strong>Soccer is
+      called football</strong>A except in U.S., Canada, Australia &amp; few
+      others.</p><p>World calls it football simply because ball is kicked with
+      the foot.</p><p><strong>So why do we call it soccer?</strong> First
+      version played in the U.S. was called “association football” –
+      <strong>“soc” was derived from “association.”</strong></p></div>
     _key: card-4-826ba266-5738-4a4b-88f9-0d2417808e41
   - order: 4
     useCheckmark: true
     body: >-
-      Before the matches even begin, Iran's team is struggling to find its
-      footing. Why Nike says it will no longer provide the team's "boots"
-      (that's soccer lingo for cleats). Read more here:
-
-
-      [view sources](https://smarthernews.com/18-06-13-world-cup/)
+      <div><p>Before the matches even begin, Iran's team is struggling to find
+      its footing. Why Nike says it will no longer provide the team's "boots"
+      (that's soccer lingo for cleats). Read more here:</p><p><a
+      href="https://smarthernews.com/18-06-13-world-cup/">view
+      sources</a></p></div>
     _key: card-10-78986821-8b51-48ab-8795-f5b0ead1654c
 
 ---

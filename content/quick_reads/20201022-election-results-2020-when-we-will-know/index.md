@@ -22,72 +22,59 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # When Will I Know?
-
-
-      ## Election Results 2020
-
-
-      A Supreme Court ruling on voting in a critical swing state highlights why
-      we *might* not know the results of the 2020 election on Election Day.
+      <div><h1>When Will I Know?</h1><h2>Election Results 2020</h2><p>A Supreme
+      Court ruling on voting in a critical swing state highlights why we *might*
+      not know the results of the 2020 election on Election Day.</p></div>
     _key: 6d4a53a3661e
   - order: 1
     useCheckmark: false
     body: >-
-      * BIG PICTURE
-
-      * Mail-in, absentee & early voting**laws vary** by state. Many states
-      expanded these options due to COVID-19.
-
-      * With less than two weeks to go, we’ve already seen an**unprecedented**
-      number of people casting their votes early or using mail-in & absentee
-      ballots, rather than waiting to vote on Election Day.
-
-      * State rules differ on**poll closing times** and when election officials
-      can**begin counting votes** (incl. mail-in ballots).
+      <div><ul><li><h2>BIG PICTURE</h2></li><li>Mail-in, absentee &amp; early
+      voting <strong>laws vary</strong> by state. Many states expanded these
+      options due to COVID-19.</li><li>With less than two weeks to go, we’ve
+      already seen an <strong>unprecedented</strong> number of people casting
+      their votes early or using mail-in &amp; absentee ballots, rather than
+      waiting to vote on Election Day.</li><li>State rules differ on
+      <strong>poll closing times</strong> and when election officials can
+      <strong>begin counting votes</strong> (incl. mail-in
+      ballots).</li></ul><p><br></p></div>
     _key: ae56adbf85cd
   - order: 2
     useCheckmark: false
     body: >-
-      ## CAN’T TOUCH THIS
-
-
-      * Many swing states have policies that all but ensure delays in results.
-
-      * Mail-in ballots can’t be counted until Election Day (Nov. 3) in some
-      states, like**Georgia, Michigan & Wisconsin.**
-
-      * In**Nevada**, ballots that arrive as late as Nov. 10 may be counted – so
-      long as they are postmarked by Nov. 3.
-
-      * In**Pennsylvania**, absentee ballots received up to Nov. 6 may be
-      counted – even if Nov. 3. postmark is unclear.
+      <div><h2>CAN’T TOUCH THIS</h2><ul><li>Many swing states have policies that
+      all but ensure delays in results.</li><li>Mail-in ballots can’t be counted
+      until Election Day (Nov. 3) in some states, like <strong>Georgia, Michigan
+      &amp; Wisconsin.</strong></li><li>In <strong>Nevada</strong>, ballots that
+      arrive as late as Nov. 10 may be counted – so long as they are postmarked
+      by Nov. 3.</li><li>In <strong>Pennsylvania</strong>, absentee ballots
+      received up to Nov. 6 may be counted – even if Nov. 3. postmark is
+      unclear.</li></ul></div>
     _key: 7249e87f9576
   - order: 3
     useCheckmark: false
-    body: "> “The longer it takes for the election results to be known, the greater the risk that they’re going to be questioned and second-guessed, and that we’re going to be that national news story that we really don’t want to be.”\n\nLisa Schaefer, Executive Dir. at County Commissioners Assoc. of Pennsylvania, ahead of this week's U.S. Supreme Court's 4-4 ruling rejecting GOP efforts\_to require absentee ballots be received by Election Day in order to be counted."
+    body: "<div><blockquote>“The longer it takes for the election results to be known, the greater the risk that they’re going to be questioned and second-guessed, and that we’re going to be that national news story that we really don’t want to be.”</blockquote><p>Lisa Schaefer, Executive Dir. at County Commissioners Assoc. of Pennsylvania, ahead of this week's U.S. Supreme Court's 4-4 ruling rejecting GOP efforts\_to require absentee ballots be received by Election Day in order to be counted.</p></div>"
     _key: 0f57d5097a2b
   - order: 4
     useCheckmark: false
     body: >-
-      > “A lot of people are worried that if it takes a long time to count,
-      people are going to use that to say we can’t trust the results, when in
-      fact it’s the exact opposite. It’s taking so long because of all these
-      security measures to make sure the count is as accurate as possible.”
-
-
-      Lawrence Norden, Dir. of the Brennan Center’s Election Reform Program at
-      New York University, on why he believes time preserves election integrity.
+      <div><blockquote>“A lot of people are worried that if it takes a long time
+      to count, people are going to use that to say we can’t trust the results,
+      when in fact it’s the exact opposite. It’s taking so long because of all
+      these security measures to make sure the count is as accurate as
+      possible.”</blockquote><p>Lawrence Norden, Dir. of the Brennan Center’s
+      Election Reform Program at New York University, on why he believes time
+      preserves election integrity.</p></div>
     _key: a12fcf91ebdf
   - order: 5
     useCheckmark: true
     body: >-
-      Proceed cautiously with reports of early, absentee, and mail-in voting
-      numbers - early reports indicate more Democrats are voting early or by
-      mail, whereas more Republicans are expected to wait until Election Day.
+      <div><p>Proceed cautiously with reports of early, absentee, and mail-in
+      voting numbers - early reports indicate more Democrats are voting early or
+      by mail, whereas more Republicans are expected to wait until Election Day.
       Concerns about election fraud and reliability of results is a truly
       bipartisan issue according to one recent poll. Read more on our source
-      page.
+      page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 922bc7df6651
 

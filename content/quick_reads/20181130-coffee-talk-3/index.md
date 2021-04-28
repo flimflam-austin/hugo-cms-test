@@ -22,16 +22,14 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      November 29, 2018
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/2Pizy486uzE?enablejsapi=1&autoplay=1&rel=0)
+      <div><p>November 29, 2018</p><p><a
+      href="https://www.youtube.com/embed/2Pizy486uzE?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     citation: Watch Now
     _key: card-1-6e3e3058-98a4-4c20-a05c-fdf408f23b72
   - order: 1
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/coffee-talk-3/)'
+    body: <p><a href="https://smarthernews.com/coffee-talk-3/">view sources</a></p>
     _key: card-10-05a9e798-a3d3-4cc2-b12c-d1647cf6386a
 
 ---

@@ -18,86 +18,71 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “The sacrifice of our service member, who volunteered for a mission to
-      Afghanistan to protect his country, is a tragic loss for all who knew, and
-      for all who now will never know him. Our duty is to honor him, care for
-      his family, and continue our mission.”  
-        
-        
-      Commanding General Scott Miller on the 6th death of an American this year
-      in Afghanistan; another soldier was wounded in the apparent "insider
-      attack."
+      <blockquote>“The sacrifice of our service member, who volunteered for a
+      mission to Afghanistan to protect his country, is a tragic loss for all
+      who knew, and for all who now will never know him. Our duty is to honor
+      him, care for his family, and continue our mission.”<br><br><br>Commanding
+      General Scott Miller on the 6th death of an American this year in
+      Afghanistan; another soldier was wounded in the apparent "insider
+      attack."</blockquote>
     _key: card-1-8c0610c3-2ee0-4f6d-ac94-3d694a6522c5
   - order: 1
     useCheckmark: false
     body: >-
-      > "If I decide to do it, it will be done. I’m not gonna ‘try’.’  
-        
-        
-        
-      Kanye West, on *possibly* running for President in 2024. He said 100% it
-      could happen in a wide ranging interview with a Chicago radio station.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/xfA4Mt2WDK0?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>"If I decide to do it, it will be done. I’m not gonna
+      ‘try’.’<br><br><br><br>Kanye West, on *possibly* running for President in
+      2024. He said 100% it could happen in a wide ranging interview with a
+      Chicago radio station.</blockquote><p><a
+      href="https://www.youtube.com/embed/xfA4Mt2WDK0?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-2-6543472e-93fa-451e-b637-ac82c260dee1
   - order: 2
     useCheckmark: false
     body: >-
-      > "Do not appropriate Mollie’s soul in advancing views she believed were
-      profoundly racist.”  
-        
-        
-        
-      Rob Tibbetts, Mollie Tibbetts' father, in a Des Moines Register op-ed
-      asking for her death not to be used to advance racist views. His comments
-      follow a Donald Trump, Jr. op-ed in the same paper in which he criticized
-      Democrats' reaction to her death.
+      <blockquote>"Do not appropriate Mollie’s soul in advancing views she
+      believed were profoundly racist.”<br><br><br><br>Rob Tibbetts, Mollie
+      Tibbetts' father, in a Des Moines Register op-ed asking for her death not
+      to be used to advance racist views. His comments follow a Donald Trump,
+      Jr. op-ed in the same paper in which he criticized Democrats' reaction to
+      her death.</blockquote>
     _key: card-3-3892bb3d-aef8-4f25-aed2-b978f54dbbc5
   - order: 3
     useCheckmark: false
     body: >-
-      > “Despite what some Democrats may wish in the depths of their hearts,
-      Mollie was murdered by an illegal alien and her murder would never have
-      happened if we policed our southern border properly.”  
-        
-        
-      Donald Trump Jr., describing the reaction of *some* Democrats to Mollie
-      Tibbetts' murder by an illegal immigrant as "heartless" and "despicable"
-      in a guest column for the Des Moines Register.
+      <blockquote>“Despite what some Democrats may wish in the depths of their
+      hearts, Mollie was murdered by an illegal alien and her murder would never
+      have happened if we policed our southern border
+      properly.”<br><br><br>Donald Trump Jr., describing the reaction of *some*
+      Democrats to Mollie Tibbetts' murder by an illegal immigrant as
+      "heartless" and "despicable" in a guest column for the Des Moines
+      Register.</blockquote>
     _key: card-4-4c84c797-6ac6-46e7-be05-43e4561f6153
   - order: 4
     useCheckmark: false
     body: >-
-      > "It’s best to keep your child rear-facing as long as possible. This is
-      still the safest way for children to ride."  
-        
-        
-      American Academy of Pediatrics as it drops the age limit for rear-facing
-      car seats. Previous guidance said children under two should remain
-      backwards facing, but the new recommendation suggests children should not
-      face forward until they reach the weight limit of the seat, which is
-      typically 40 pounds.
+      <blockquote>"It’s best to keep your child rear-facing as long as possible.
+      This is still the safest way for children to ride."<br><br><br>American
+      Academy of Pediatrics as it drops the age limit for rear-facing car seats.
+      Previous guidance said children under two should remain backwards facing,
+      but the new recommendation suggests children should not face forward until
+      they reach the weight limit of the seat, which is typically 40
+      pounds.</blockquote>
     _key: card-5-622d3138-7880-4e28-bc33-9984dd57130f
   - order: 5
     useCheckmark: false
     body: >-
-      > “Countless sensitive crustaceans experienced an agonizing death…”  
-        
-        
-      Tracy Reiman, PETA EVP, on the organizations plans to erect a roadside
-      memorial for lobsters killed when a truck carrying 70 crates of them
-      crashed in Maine. The animal rights group is seeking approval for a
-      5-foot-tall, roadside tombstone for the lobsters in an effort to remind
-      people to keep animals off your plate.
+      <blockquote>“Countless sensitive crustaceans experienced an agonizing
+      death…”<br><br><br>Tracy Reiman, PETA EVP, on the organizations plans to
+      erect a roadside memorial for lobsters killed when a truck carrying 70
+      crates of them crashed in Maine. The animal rights group is seeking
+      approval for a 5-foot-tall, roadside tombstone for the lobsters in an
+      effort to remind people to keep animals off your plate.</blockquote>
     _key: card-6-2db89584-3445-4802-9347-dc66cd2b6e84
   - order: 6
     useCheckmark: true
-    body: |-
-      Have a great week!
-
-      [view sources](https://smarthernews.com/18-09-04-qq/)
+    body: >-
+      <div><p>Have a great week!</p><p><a
+      href="https://smarthernews.com/18-09-04-qq/">view sources</a></p></div>
     _key: card-10-6c2ba579-fb67-45ca-85e0-63f147e25115
 
 ---

@@ -21,75 +21,53 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## “THE SECOND AMENDMENT WILL NEVER BE REPEALED!”
-
-      President Trump via Twitter March 28, 2018
-
-      **(But can it?)**
-
-      Flip For More
+    body: >-
+      <div><h2>“THE SECOND AMENDMENT WILL NEVER BE REPEALED!”</h2><p>President
+      Trump via Twitter March 28, 2018</p><p><strong>(But can
+      it?)</strong></p><p>Flip For More</p></div>
     citation: Flip For More
     _key: card-1-81b2431e-ba43-47b4-a45f-a63305af5816
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why Now?
-
-
-      * Pres. Trump reacting to a NYT op-ed by former Supreme Court Justice who
-      said he supports the repeal the 2nd Amendment.
-
-      * This fueled further fear by some Americans that gun confiscation and/or
-      repeal of the 2ndA Amendment is the true intention of “gun control”
-      movement.
-
-
-      [Here's the
-      Op-Ed](https://www.nytimes.com/2018/03/27/opinion/john-paul-stevens-repeal-second-amendment.html)
+      <div><h2>Why Now?</h2><ul><li>Pres. Trump reacting to a NYT op-ed by
+      former Supreme Court Justice who said he supports the repeal the 2nd
+      Amendment.</li><li>This fueled further fear by some Americans that gun
+      confiscation and/or repeal of the 2ndA Amendment is the true intention of
+      “gun control” movement.</li></ul><p><a
+      href="https://www.nytimes.com/2018/03/27/opinion/john-paul-stevens-repeal-second-amendment.html">Here's
+      the Op-Ed</a></p></div>
     citation: Here's the Op-Ed
     _key: card-2-1aa97cdc-e460-494e-8c0f-d48727a2060b
   - order: 2
     useCheckmark: false
     body: >-
-      ## 2nd Amendment
-
-
-      There’s endless debate as to what the 2A *actually* means, how it should
-      be applied today, and why it was included in the Bill of Rights, but
-      here’s what it says:
-
-
-      **_“A well regulated Militia, being necessary to the security of a free
-      State, the right of the people to keep and bear Arms, shall not be
-      infringed.’_**
+      <div><h2>2nd Amendment</h2><p>There’s endless debate as to what the 2A
+      *actually* means, how it should be applied today, and why it was included
+      in the Bill of Rights, but here’s what it says:</p><p><strong><em>“A well
+      regulated Militia, being necessary to the security of a free State, the
+      right of the people to keep and bear Arms, shall not be
+      infringed.’</em></strong></p></div>
     _key: card-3-fb70280b-102a-4532-9936-2e03cb2cbc2a
   - order: 3
     useCheckmark: false
     body: >-
-      Amendment Repeal 101  
-
-      2 Possibilities: Both Tough
-
-
-      **Option 1:** Requires approval of a new by two-thirds of the House &
-      Senate AND ratification (approval) by three-fourths of the 50 states.
-
-
-      **Option 2:** Requires two-thirds of states’ legislatures to hold
-      Constitutional Convention where amendments must be approved by
-      three-fourths of the 50 states.
+      <div><p>Amendment Repeal 101<br>2 Possibilities: Both
+      Tough</p><p><strong>Option 1:</strong> Requires approval of a new by
+      two-thirds of the House &amp; Senate AND ratification (approval) by
+      three-fourths of the 50 states.</p><p><strong>Option 2:</strong> Requires
+      two-thirds of states’ legislatures to hold Constitutional Convention where
+      amendments must be approved by three-fourths of the 50 states.</p></div>
     _key: card-4-cb45e89c-9300-417a-8976-6bfd29c5eb20
   - order: 4
     useCheckmark: true
     body: >-
-      In our nation's history, only ONE amendment has ever been repealed. In
-      1933, the 21st Amendment repealed the 18th Amendment, which prohibited the
-      making, transportation and sale of alcohol, and put an end to Prohibition.
-
-
-      [view
-      sources](https://smarthernews.com/18-04-02-potus-second-amendment-tweet/)
+      <div><p>In our nation's history, only ONE amendment has ever been
+      repealed. In 1933, the 21st Amendment repealed the 18th Amendment, which
+      prohibited the making, transportation and sale of alcohol, and put an end
+      to Prohibition.</p><p><a
+      href="https://smarthernews.com/18-04-02-potus-second-amendment-tweet/">view
+      sources</a></p></div>
     _key: card-10-6c2f0aa9-eb34-4cf5-9ff0-b12be4f79ca9
 
 ---

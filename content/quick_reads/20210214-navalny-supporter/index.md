@@ -20,16 +20,19 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: '## _“Love is stronger than fear.”_'
+    body: >-
+      <div><h2><em>“Love is stronger than
+      fear.”</em></h2><p></p><p><br></p></div>
     citation: LEONID VOLKOV
     _key: 652c32d479ee
   - order: 1
     useCheckmark: true
     body: >-
-      Volkov, supporter of Putin critic Alexey Navalny, called for Russians to
-      shine their cellphone flashlights in courtyards Sunday night to reflect
-      support for Navalny; his recent arrest and imprisonment led to the largest
-      protests in Russia in recent years - and a violent government crackdown.
+      <div><p>Volkov, supporter of Putin critic Alexey Navalny, called for
+      Russians to shine their cellphone flashlights in courtyards Sunday night
+      to reflect support for Navalny; his recent arrest and imprisonment led to
+      the largest protests in Russia in recent years - and a violent government
+      crackdown.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 5bb22a0c4fca
 

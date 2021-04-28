@@ -22,46 +22,40 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## QUICK QUOTES
-
-
-      > “Historic day for our country: swearing-in ceremony for Gina Haspel, the
-      first woman ever to serve as CIA director. Democrats are losing their war
-      against women in the Trump administration.”  
-        
-      Press Sec. Sarah Huckabee Sanders on May 21, 2018, responding to Haspel
-      becoming the first female CIA director on Monday despite few Dems voting
-      for her confirmation.
+      <div><h2>QUICK QUOTES</h2><blockquote>“Historic day for our country:
+      swearing-in ceremony for Gina Haspel, the first woman ever to serve as CIA
+      director. Democrats are losing their war against women in the Trump
+      administration.”<br><br>Press Sec. Sarah Huckabee Sanders on May 21, 2018,
+      responding to Haspel becoming the first female CIA director on Monday
+      despite few Dems voting for her confirmation.</blockquote></div>
     _key: card-1-8b5cd393-8651-4786-b6cd-ed8be2d7460d
   - order: 1
     useCheckmark: false
     body: >-
-      > “There’s something I’d like to say about the tragedy Friday at Santa Fe
-      High School…. I’m so sick of moments of silence! It’s not working! …. So
-      why don’t we not do a moment of silence, why don’t we do a moment of
-      action, a moment of change. Why don’t we change what’s happening?”  
-        
-        
-      Kelly Clarkson, Billboard Music Awards, May 20, 2018
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/B41XUP-ivL8?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>“There’s something I’d like to say about the tragedy
+      Friday at Santa Fe High School…. I’m so sick of moments of silence! It’s
+      not working! …. So why don’t we not do a moment of silence, why don’t we
+      do a moment of action, a moment of change. Why don’t we change what’s
+      happening?”<br><br><br>Kelly Clarkson, Billboard Music Awards, May 20,
+      2018</blockquote><p><a
+      href="https://www.youtube.com/embed/B41XUP-ivL8?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-2-51b10285-51e1-4729-ada3-064dc3f1c187
   - order: 2
     useCheckmark: false
     body: >-
-      > "‘Recently, I’ve changed my mind about the biggest challenge that the
-      world faces. I think now it’s a human rights problem and it is the
-      discrimination against women and girls in the world."  
-        
-      Former President Jimmy Carter, during his May 19, 2018 commencement speech
-      at Liberty University, on the greatest challenge facing the world today as
-      opposed to what he said in 1999 (wealth disparity).
+      <blockquote>"‘Recently, I’ve changed my mind about the biggest challenge
+      that the world faces. I think now it’s a human rights problem and it is
+      the discrimination against women and girls in the world."<br><br>Former
+      President Jimmy Carter, during his May 19, 2018 commencement speech at
+      Liberty University, on the greatest challenge facing the world today as
+      opposed to what he said in 1999 (wealth disparity).</blockquote>
     _key: card-3-9ee63d80-9c5e-48dd-b164-f3df31034e31
   - order: 3
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-05-22-quick-quotes/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-05-22-quick-quotes/">view
+      sources</a></p>
     _key: card-10-7bfbf031-5d34-4e3f-b865-02208318f313
 
 ---

@@ -22,68 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # October 15, 1860  
-
-
-
-      >   
-        
-        
-      How a little girl’s “beauty advice” to Abraham Lincoln may have shaped the
-      future (& face) of America.
+      <div><h1>October 15, 1860<br></h1><blockquote><br><br><br>How a little
+      girl’s “beauty advice” to Abraham Lincoln may have shaped the future
+      (&amp; face) of America.</blockquote></div>
     _key: 76f93f595ed5
   - order: 1
     useCheckmark: false
     body: >-
-      “If you let your whiskers grow, I will try and get the rest of them to
-      vote for you. You would look a great deal better for your face is so thin.
-      All the ladies like whiskers and they would tease their husbands to vote
-      for you and then you would be President.”  
-        
-      11-year-old Grace Bedell of Westfield, NY writing to then-candidate
-      Abraham Lincoln during his presidential campaign. Shortly after, Lincoln
-      started growing a beard and he had a full beard on the day of his
-      inauguration several months later.
-
-
-      >
+      <div><p>“If you let your whiskers grow, I will try and get the rest of
+      them to vote for you. You would look a great deal better for your face is
+      so thin. All the ladies like whiskers and they would tease their husbands
+      to vote for you and then you would be President.”<br><br>11-year-old Grace
+      Bedell of Westfield, NY writing to then-candidate Abraham Lincoln during
+      his presidential campaign. Shortly after, Lincoln started growing a beard
+      and he had a full beard on the day of his inauguration several months
+      later.</p><blockquote><br></blockquote></div>
     _key: 3359584d6ca5
   - order: 2
     useCheckmark: false
     body: >-
-      > “Some three months ago, I received a letter from a young lady here; it
-      was a very pretty letter, and she advised me to let my whiskers grow, as
-      it would improve my personal appearance; acting partly upon her
-      suggestion, I have done so; and now, if she is here, I would like to see
-      her.”
-
-
-      President-Elect Lincoln during a brief stop in Westfield, NY on the way to
-      his inauguration celebration in 1861.
+      <div><blockquote>“Some three months ago, I received a letter from a young
+      lady here; it was a very pretty letter, and she advised me to let my
+      whiskers grow, as it would improve my personal appearance; acting partly
+      upon her suggestion, I have done so; and now, if she is here, I would like
+      to see her.”</blockquote><p>President-Elect Lincoln during a brief stop in
+      Westfield, NY on the way to his inauguration celebration in
+      1861.</p></div>
     _key: 586a2b091992
   - order: 3
     useCheckmark: false
     body: >-
-      ## Guided By Grace?
-
-
-      Grace wrote the letter in Oct 1860, just weeks before Election Day.
-
-
-      In his response to Grace, Lincoln asked whether he might be made fun of
-      for suddenly growing a beard; he was!
-
-
-      The beard likely didn’t impact his victory, BUT it did affect his
-      appearance as the 16th President and his legacy.
+      <div><h2>Guided By Grace?</h2><p>Grace wrote the letter in Oct 1860, just
+      weeks before Election Day.</p><p>In his response to Grace, Lincoln asked
+      whether he might be made fun of for suddenly growing a beard; he
+      was!</p><p>The beard likely didn’t impact his victory, BUT it did affect
+      his appearance as the 16th President and his legacy.</p></div>
     _key: 6a3fc87d1829
   - order: 4
     useCheckmark: true
     body: >-
-      Pres. Trump and former Vice President Joe Biden have one thing going for
-      both of them this Election Day — NO facial hair. Researchers say beards
-      are perceived as a sign of masculinity and self-confidence, yet no sitting
-      president has sported facial hair in over a century.
+      <div><p>Pres. Trump and former Vice President Joe Biden have one thing
+      going for both of them this Election Day — NO facial hair. Researchers say
+      beards are perceived as a sign of masculinity and self-confidence, yet no
+      sitting president has sported facial hair in over a
+      century.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 4d2fac520839
 

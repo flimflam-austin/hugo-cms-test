@@ -22,70 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # World’s Oldest Person Dies
-
-
-      At 117-years-old Nabi Tajima, of southern Japan, passed away over the
-      weekend.
-
-
-      Born in 1900, she says sleep was *one* of the secrets to a long life.
-
-
-      Flip For More
+      <div><h1>World’s Oldest Person Dies</h1><p>At 117-years-old Nabi Tajima,
+      of southern Japan, passed away over the weekend.</p><p>Born in 1900, she
+      says sleep was *one* of the secrets to a long life.</p><p>Flip For
+      More</p></div>
     citation: Flip For More
     _key: card-1-e0f01c4d-17e7-472e-9403-68f2c48ee204
   - order: 1
     useCheckmark: false
     body: >-
-      Tajima became the world’s oldest known person in September.
-
-
-      Her family, which includes more than 160 descendants, said that although
-      she lived in a nursing home for years, she was only recently hospitalized.
-
-
-      **Today, the world’s oldest living woman and man are also from Japan**:
-      Chiyo Miyako (116) & Masazo Nonaka (112).
+      <div><p>Tajima became the world’s oldest known person in
+      September.</p><p>Her family, which includes more than 160 descendants,
+      said that although she lived in a nursing home for years, she was only
+      recently hospitalized.</p><p><strong>Today, the world’s oldest living
+      woman and man are also from Japan</strong>: Chiyo Miyako (116) &amp;
+      Masazo Nonaka (112).</p></div>
     _key: card-2-5e85d08c-ba4e-4011-957c-0bc15cc56a9c
   - order: 2
     useCheckmark: false
-    body: |-
-      ## Today, 36 people are 110-yrs-old or more worldwide
-
-      * 35 are women
-      * 18 are Japanese
-      * Six are American (GA, MO, ND, PA, & 2 born in SC)
-
-      [Click Here: Research](http://www.grg.org/SC/WorldSCRankingsList.html)
+    body: >-
+      <div><h2>Today, 36 people are 110-yrs-old or more worldwide</h2><ul><li>35
+      are women</li><li>18 are Japanese</li><li>Six are American (GA, MO, ND,
+      PA, &amp; 2 born in SC)</li></ul><p><a
+      href="http://www.grg.org/SC/WorldSCRankingsList.html">Click Here:
+      Research</a></p></div>
     citation: 'Click Here: Research'
     _key: card-3-39bd9c38-daec-4a44-b3dc-2af34fa2a950
   - order: 3
     useCheckmark: false
-    body: |-
-      **WHO Ranking of Countries with Highest-Life Expectancy At Birth**  
-
-
-      * Japan: 83.7
-      * Switzerland: 83.4
-      * Singapore: 83.1
-      * Spain: 82.8
-      * Italy: 82.7
-      * Israel: 82.5
-      * **USA (79.3) didn’t make top of the list**.
-
-      Secret to long life?
+    body: >-
+      <div><p><strong>WHO Ranking of Countries with Highest-Life Expectancy At
+      Birth</strong><br></p><ul><li>Japan: 83.7</li><li>Switzerland:
+      83.4</li><li>Singapore: 83.1</li><li>Spain: 82.8</li><li>Italy:
+      82.7</li><li>Israel: 82.5</li><li><strong>USA (79.3) didn’t make top of
+      the list</strong>.</li></ul><p>Secret to long life?</p></div>
     citation: Secret to long life?
     _key: card-4-a1c7b61f-e500-4ad9-bc9a-e4fb02460798
   - order: 4
     useCheckmark: true
     body: >-
-      What's the secret to long life? According to Nonaka (who's still living at
-      112), it's hot springs & sumo wrestling. Scientist say the key to Japanese
-      longevity is their lifestyle. More Tips:
-
-
-      [view sources](https://smarthernews.com/18-04-23-oldest-person-dies/)
+      <div><p>What's the secret to long life? According to Nonaka (who's still
+      living at 112), it's hot springs &amp; sumo wrestling. Scientist say the
+      key to Japanese longevity is their lifestyle. More Tips:</p><p><a
+      href="https://smarthernews.com/18-04-23-oldest-person-dies/">view
+      sources</a></p></div>
     _key: card-10-63dce99e-d3d2-4685-9a29-72fc57a8b6cd
 
 ---

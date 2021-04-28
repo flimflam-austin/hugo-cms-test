@@ -21,73 +21,52 @@ colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      > _“You asked for my hustle._  
-      _I gave you my heart.”_
+    body: >-
+      <div><blockquote><em>“You asked for my hustle.</em><br><em>I gave you my
+      heart.”</em></blockquote><p></p></div>
     citation: KOBE BRYANT
     _key: 1ac8175c6232
   - order: 1
     useCheckmark: false
     body: >-
-      ## KOBE: THE MAN
-
-
-      * Born in Philadelphia, Pennsylvania.
-
-      * From age 6 to 13, he lived in Italy where his dad played professional
-      basketball.
-
-      * Married to his wife Vanessa since 2001, with whom he shared 4 girls:
-      Natalia, 17; Gianna, 13; Bianka, 3, & Capri, 7 months.
-
-      * Wrote his memoir in 2018; first young adult “sports fantasy” book in
-      2019.
-
-      * Won an Oscar in 2018 for his animated film “Dear Basketball” based on
-      his 2015 poem announcing his NBA retirement.
+      <div><h2>KOBE: THE MAN</h2><ul><li>Born in Philadelphia,
+      Pennsylvania.</li><li>From age 6 to 13, he lived in Italy where his dad
+      played professional basketball.</li><li>Married to his wife Vanessa since
+      2001, with whom he shared 4 girls: Natalia, 17; Gianna, 13; Bianka, 3,
+      &amp; Capri, 7 months.</li><li>Wrote his memoir in 2018; first young adult
+      “sports fantasy” book in 2019.</li><li>Won an Oscar in 2018 for his
+      animated film “Dear Basketball” based on his 2015 poem announcing his NBA
+      retirement.</li></ul></div>
     _key: 45b317ce9121
   - order: 2
     useCheckmark: false
     body: >-
-      ## KOBE: THE ATHLETE
-
-
-      * Drafted to NBA at 17 after high school (originally to Hornets; traded to
-      Lakers, where he played for his entire career)
-
-      * #1 scorer in Lakers history
-
-      * Two-time Olympic gold medalist
-
-      * #4 scorer in NBA history
-
-      * Five-time NBA champion
-
-      * 18-time NBA All-Star
-
-      * Founded the Mamba Sports Academy, a training facility for young & pro
-      athletes; coached his daughter’s basketball team.
+      <div><h2>KOBE: THE ATHLETE</h2><ul><li>Drafted to NBA at 17 after high
+      school (originally to Hornets; traded to Lakers, where he played for his
+      entire career)</li><li>#1 scorer in Lakers history</li><li>Two-time
+      Olympic gold medalist</li><li>#4 scorer in NBA history</li><li>Five-time
+      NBA champion</li><li>18-time NBA All-Star</li><li>Founded the Mamba Sports
+      Academy, a training facility for young &amp; pro athletes; coached his
+      daughter’s basketball team.</li></ul><p><br></p></div>
     _key: b161d11ed3db
   - order: 3
     useCheckmark: false
     body: >-
-      “Being a father is the thing I am most proud of in this world; it’s my
-      greatest accomplishment. I’ve learned so much, but perhaps the most
-      profound thing has been the fierce, unconditional love you have for your
-      children when you become a parent. I’m blessed to have had that experience
-      four times now and there’s nothing more powerful in this world.”
-
-
-      Kobe Bryant, 2019
+      <div><p>“Being a father is the thing I am most proud of in this world;
+      it’s my greatest accomplishment. I’ve learned so much, but perhaps the
+      most profound thing has been the fierce, unconditional love you have for
+      your children when you become a parent. I’m blessed to have had that
+      experience four times now and there’s nothing more powerful in this
+      world.”</p><p>Kobe Bryant, 2019</p></div>
     _key: 6fd7d547fd8d
   - order: 4
     useCheckmark: true
     body: >-
-      The 41-yr-old & his 13-yr-old daughter Gianna were among 9 killed Sunday
-      in a helicopter crash in CA. In his retirement, Bryant created a media
-      company with the goal of delivering "inspiring and magical stories for
-      kids." The next volume in his young adult book series is set for release
-      in March.
+      <div><p>The 41-yr-old &amp; his 13-yr-old daughter Gianna were among 9
+      killed Sunday in a helicopter crash in CA. In his retirement, Bryant
+      created a media company with the goal of delivering "inspiring and magical
+      stories for kids." The next volume in his young adult book series is set
+      for release in March.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 64771783b253
 

@@ -22,65 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # April 2, 1917
-
-
-      >   
-        
-        
-        
-      The first woman representative was sworn into Congress – three years
-      before women were granted the constitutional right to vote.
+      <div><h1>April 2, 1917</h1><blockquote><br><br><br><br>The first woman
+      representative was sworn into Congress – three years before women were
+      granted the constitutional right to vote.</blockquote></div>
     _key: 2a08fe8e2890
   - order: 1
     useCheckmark: false
     body: >-
-      > “I may be the first woman member of Congress, but I won’t be the last.”
-
-
-      Jeannette Rankin (R-MT) when she was elected in 1916. Montana had granted
-      women the right to vote two years earlier and she had gained notoriety, in
-      part, as a suffragist. Today, 26 women serve in the U.S. Senate & 101
-      women serve in the House. Women make up nearly 24% of Congress. Rankin
-      hoped, “We’re (women) half the people; we should be half the Congress.”
+      <div><blockquote>“I may be the first woman member of Congress, but I won’t
+      be the last.”</blockquote><p>Jeannette Rankin (R-MT) when she was elected
+      in 1916. Montana had granted women the right to vote two years earlier and
+      she had gained notoriety, in part, as a suffragist. Today, 26 women serve
+      in the U.S. Senate &amp; 101 women serve in the House. Women make up
+      nearly 24% of Congress. Rankin hoped, “We’re (women) half the people; we
+      should be half the Congress.”</p></div>
     _key: 45b61534ea06
   - order: 2
     useCheckmark: false
     body: >-
-      > “As never before the Nation needs its women—needs the work of their
-      hands and their hearts and their minds.”
-
-
-      Congresswoman Jeanette Rankin (R-MT) delivering a speech on women's right
-      to vote. She helped pass a women's suffrage resolution in the House in
-      1918; the same resolution died in the Senate. She was not in office two
-      years later when the 19th Amendment was officially adopted, altering the
-      Constitution to grant women the right to vote.
+      <div><blockquote>“As never before the Nation needs its women—needs the
+      work of their hands and their hearts and their
+      minds.”</blockquote><p>Congresswoman Jeanette Rankin (R-MT) delivering a
+      speech on women's right to vote. She helped pass a women's suffrage
+      resolution in the House in 1918; the same resolution died in the Senate.
+      She was not in office two years later when the 19th Amendment was
+      officially adopted, altering the Constitution to grant women the right to
+      vote.</p></div>
     _key: 3ad106e929cc
   - order: 3
     useCheckmark: false
     body: >-
-      ## JEANNETTE RANKIN
-
-
-      * Daughter of a rancher & school teacher.
-
-      * Republican, suffrage leader & pacifist.
-
-      * The only Member of Congress to vote against the entrance to World War I
-      & World War II. Voted out of office each time: “As a woman I can’t go to
-      war, and I refuse to send anyone else.”
-
-      * In 1973, just before her death at age 92, she contemplated a third run
-      because of America’s involvement in Vietnam.
+      <div><h2>JEANNETTE RANKIN</h2><ul><li>Daughter of a rancher &amp; school
+      teacher.</li><li>Republican, suffrage leader &amp; pacifist.</li><li>The
+      only Member of Congress to vote against the entrance to World War I &amp;
+      World War II. Voted out of office each time: “As a woman I can’t go to
+      war, and I refuse to send anyone else.”</li><li>In 1973, just before her
+      death at age 92, she contemplated a third run because of America’s
+      involvement in Vietnam.</li></ul></div>
     _key: 9d7345bf12a2
   - order: 4
     useCheckmark: true
     body: >-
-      Rankin reportedly received applause as she was sworn into Congress. Later
-      that evening, Pres. Wilson asked lawmakers to vote to declare war on
-      Germany; Rankin was one of 50 lawmakers who voted "no." She said, "I want
-      to stand by my country, but I cannot vote for war."
+      <div><p>Rankin reportedly received applause as she was sworn into
+      Congress. Later that evening, Pres. Wilson asked lawmakers to vote to
+      declare war on Germany; Rankin was one of 50 lawmakers who voted "no." She
+      said, "I want to stand by my country, but I cannot vote for
+      war."</p><p></p></div>
     citation: VIEW SOURCES
     _key: 953db774d597
 

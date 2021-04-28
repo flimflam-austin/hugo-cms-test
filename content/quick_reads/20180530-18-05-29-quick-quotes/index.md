@@ -22,44 +22,40 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      QUICK QUOTES  
-
-      Natural Disaster Edition
-
-
-      > “Ten minutes later we get the call and it was them.”  
-        
-      Tryon Fire Chief Geoffrey Tennant on the deaths of journalists Mike
-      McCormick & Aaron Smeltzer in North Carolina. A tree fell on their vehicle
-      shortly after they interviewed him as part of their Alberto storm
-      coverage. A Gulf of Mexico storm in May is very rare; it's only happened 3
-      times on record.
+      <div><p>QUICK QUOTES<br>Natural Disaster Edition</p><blockquote>“Ten
+      minutes later we get the call and it was them.”<br><br>Tryon Fire Chief
+      Geoffrey Tennant on the deaths of journalists Mike McCormick &amp; Aaron
+      Smeltzer in North Carolina. A tree fell on their vehicle shortly after
+      they interviewed him as part of their Alberto storm coverage. A Gulf of
+      Mexico storm in May is very rare; it's only happened 3 times on
+      record.</blockquote></div>
     _key: card-1-4a23b9b8-68ee-47b0-92ff-6d7b103da29f
   - order: 1
     useCheckmark: false
     body: >-
-      > “There are no words to describe the devastation.”  
-        
-      Howard County Executive Allan Kittleman on the aftermath for a small
-      Maryland community in Ellicott City where devastating flash flooding has
-      struck again, just 2 years after raging floods decimated the town and
-      killed 2 people. 8 inches of water pounded the community on Sunday.
-      Meteorologists dismissed the 2016 disaster as a 1-in-1,000-year event.
+      <blockquote>“There are no words to describe the
+      devastation.”<br><br>Howard County Executive Allan Kittleman on the
+      aftermath for a small Maryland community in Ellicott City where
+      devastating flash flooding has struck again, just 2 years after raging
+      floods decimated the town and killed 2 people. 8 inches of water pounded
+      the community on Sunday. Meteorologists dismissed the 2016 disaster as a
+      1-in-1,000-year event.</blockquote>
     _key: card-2-91e57a64-912f-47ec-8028-7f9192c3d7cb
   - order: 2
     useCheckmark: false
     body: >-
-      > “I think it’s safe to say authorities have been concerned about the flow
-      of lava onto the plant property since the eruption started.”  
-        
-      David Mace, FEMA spokesman as lava from Hawaii’s Kilauea volcano covered
-      one of the wells at the island's geothermal power plant, prompting fears
-      of a toxic gas leak. Authorities urge residents to evacuate the area due
-      to fast-moving flows.
+      <blockquote>“I think it’s safe to say authorities have been concerned
+      about the flow of lava onto the plant property since the eruption
+      started.”<br><br>David Mace, FEMA spokesman as lava from Hawaii’s Kilauea
+      volcano covered one of the wells at the island's geothermal power plant,
+      prompting fears of a toxic gas leak. Authorities urge residents to
+      evacuate the area due to fast-moving flows.</blockquote>
     _key: card-3-8ece3dc7-fb3b-46c7-97ec-a068ecdc48a4
   - order: 3
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-05-29-quick-quotes/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-05-29-quick-quotes/">view
+      sources</a></p>
     _key: card-10-1c3c2fba-bfc0-4317-b485-13117f0709ff
 
 ---

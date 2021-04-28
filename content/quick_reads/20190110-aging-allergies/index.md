@@ -22,92 +22,60 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## ALLERGIES & AGING
-
-
-      **1 out of 10 Americans have a food allergy.**
-
-
-      A new study shows a surprising number of sufferers developed reactions as
-      adults.  
-        
-      _(and a lot of us *believe* we have a food allergy when we really don’t)_.
-
-
-      What Are The Facts?
+      <div><h2>ALLERGIES &amp; AGING</h2><p><strong>1 out of 10 Americans have a
+      food allergy.</strong></p><p>A new study shows a surprising number of
+      sufferers developed reactions as adults.<br><br><em>(and a lot of us
+      *believe* we have a food allergy when we really don’t)</em>.</p><p>What
+      Are The Facts?</p></div>
     _key: card-1-a1fee57d-6452-4e1b-bae2-b94e74913534
   - order: 1
     useCheckmark: false
     body: >-
-      # FOOD ALLERGY 101
-
-
-      * More than 160 foods cause allergic reactions.
-
-      * Food allergies are anA**immune system** response. They can be managed by
-      avoiding the allergen, but**NEVER cured**.
-
-      * Symptoms range from mild (hives) to life-threatening (anaphylaxis).
-
-      * Approx.**5% of U.S. children** have a food allergy vs. approx.A**10% of
-      adults (26M).**
+      <div><h1>FOOD ALLERGY 101</h1><ul><li>More than 160 foods cause allergic
+      reactions.</li><li>Food allergies are anA <strong>immune system</strong>
+      response. They can be managed by avoiding the allergen, but <strong>NEVER
+      cured</strong>.</li><li>Symptoms range from mild (hives) to
+      life-threatening (anaphylaxis).</li><li>Approx. <strong>5% of U.S.
+      children</strong> have a food allergy vs. approx.A <strong>10% of adults
+      (26M).</strong></li></ul></div>
     _key: card-2-fd262b7d-d4a3-45b2-b934-aa7897c93e59
   - order: 2
     useCheckmark: false
     body: >-
-      # About The Study
-
-
-      Northwestern University scientists surveyed 40K American adults over a
-      2-year period. The findings:
-
-
-      * Approx. 50% of adults with a food allergy developed it**later in
-      life.A**
-
-      * Adult-onset food allergies were**equally common** in those with &
-      without a childhood food allergy.
-
-      * Only half of adults with a “food allergy” had an**official diagnosis**.
+      <div><h1>About The Study</h1><p>Northwestern University scientists
+      surveyed 40K American adults over a 2-year period. The
+      findings:</p><ul><li>Approx. 50% of adults with a food allergy developed
+      it <strong>later in life.A</strong></li><li>Adult-onset food allergies
+      were <strong>equally common</strong> in those with &amp; without a
+      childhood food allergy.</li><li>Only half of adults with a “food allergy”
+      had an <strong>official diagnosis</strong>.</li></ul></div>
     _key: card-3-2e1ba9e4-5507-4139-8b13-de29f022c8c5
   - order: 3
     useCheckmark: false
     body: >-
-      # Allergy v. Intolerance
-
-
-      According to Dr. Ruchi Gupta, one of the study’s co-authors, nearly 1 out
-      of 5 American adults *believe* they have a food allergy; they most likely
-      have a food sensitivity or intolerance.
-
-
-      Why do allergies start in adulthood? No one knows.
+      <div><h1>Allergy v. Intolerance</h1><p>According to Dr. Ruchi Gupta, one
+      of the study’s co-authors, nearly 1 out of 5 American adults *believe*
+      they have a food allergy; they most likely have a food sensitivity or
+      intolerance.</p><p>Why do allergies start in adulthood? No one
+      knows.</p></div>
     _key: card-4-4e50595e-fd14-465f-b762-017f61beb18b
   - order: 4
     useCheckmark: false
-    body: |-
-      ## Most Common Food Allergies in America
-
-      * Shellfish (ex: shrimp, lobster, crab)
-      * Milk
-      * Peanuts
-      * Tree NutsA (ex: cashews, walnuts)
-      * Fin Fish (ex: tuna, salmon, halibut)
-      * Eggs
-      * Wheat
-      * Soy
-      * Sesame
+    body: >-
+      <div><h2>Most Common Food Allergies in America</h2><ul><li>Shellfish (ex:
+      shrimp, lobster, crab)</li><li>Milk</li><li>Peanuts</li><li>Tree NutsA
+      (ex: cashews, walnuts)</li><li>Fin Fish (ex: tuna, salmon,
+      halibut)</li><li>Eggs</li><li>Wheat</li><li>Soy</li><li>Sesame</li></ul></div>
     _key: card-5-522d3921-92d8-40a0-8256-001e6ffe8049
   - order: 5
     useCheckmark: true
     body: >-
-      Of the 26 million U.S. adult with a food allergy, 12 million developed the
-      allergy as adults. The most common adult-onset food allergies are
-      shellfish, soy, tree nut & fin fish (halibut, salmon). Read about a new
-      drug that might protect those with peanut allergies.
-
-
-      [view sources](https://smarthernews.com/aging-allergies/)
+      <div><p>Of the 26 million U.S. adult with a food allergy, 12 million
+      developed the allergy as adults. The most common adult-onset food
+      allergies are shellfish, soy, tree nut &amp; fin fish (halibut, salmon).
+      Read about a new drug that might protect those with peanut
+      allergies.</p><p><a href="https://smarthernews.com/aging-allergies/">view
+      sources</a></p></div>
     _key: card-10-fc611a47-45a8-481d-8386-b11c59bb65d3
 
 ---

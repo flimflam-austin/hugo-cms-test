@@ -21,77 +21,60 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # UPDATE: West Virginia Teacher Strike
-
-      * WV lawmakers reach deal to give teachers a**5% pay raise**.
-      * To pay for it, lawmakers will seek to**cut state spending by $20M**.
-      * Teachers’ strike canceled schoolsA statewide for**9-straight days**.
-      * Governor promises task force to address health care costs.
+    body: >-
+      <div><h1>UPDATE: West Virginia Teacher Strike</h1><ul><li>WV lawmakers
+      reach deal to give teachers a <strong>5% pay raise</strong>.</li><li>To
+      pay for it, lawmakers will seek to <strong>cut state spending by
+      $20M</strong>.</li><li>Teachers’ strike canceled schoolsA statewide for
+      <strong>9-straight days</strong>.</li><li>Governor promises task force to
+      address health care costs.</li></ul></div>
     _key: card-1-c634352e-9606-476d-8c93-b0a722bf7ec2
   - order: 1
     useCheckmark: false
     body: >-
-      > “This is very positive. We are surprised, but we aren’t putting all of
-      our eggs from the chickens in one basket. We want it signed, sealed and
-      delivered. Because seven days ago we were told the same thing, and we’re
-      still here.”  
-        
-        
-        
-      Tina Workman, Midland Trail Elementary teacher to CBS News
+      <blockquote>“This is very positive. We are surprised, but we aren’t
+      putting all of our eggs from the chickens in one basket. We want it
+      signed, sealed and delivered. Because seven days ago we were told the same
+      thing, and we’re still here.”<br><br><br><br>Tina Workman, Midland Trail
+      Elementary teacher to CBS News</blockquote>
     _key: card-2-14654e1d-754f-4531-a1d2-855a1c75255e
   - order: 2
     useCheckmark: false
     body: >-
-      ## Contentious Negotiations
-
-
-      Mar 6:A WV House & Senate pass bill to give all state workers, including
-      teachers, a 5% pay raise.
-
-
-      Mar 3: WV teachers say strike, which began on Feb 22, will continue after
-      WV Senate voted to cut raise to 4%
-
-
-      Feb 27: Gov. Jim Justice & union leaders negotiate 5% pay raise deal in
-      attempt to end strike
+      <div><h2>Contentious Negotiations</h2><p>Mar 6:A WV House &amp; Senate
+      pass bill to give all state workers, including teachers, a 5% pay
+      raise.</p><p>Mar 3: WV teachers say strike, which began on Feb 22, will
+      continue after WV Senate voted to cut raise to 4%</p><p>Feb 27: Gov. Jim
+      Justice &amp; union leaders negotiate 5% pay raise deal in attempt to end
+      strike</p></div>
     _key: card-3-ee818b03-a48f-40e2-8fa0-bfb3b51b957f
   - order: 3
     useCheckmark: false
     body: >-
-      # Where will the Money Come From?
-
-
-      > “We know that we need to raise their salaries but it would be absolutely
-      fiscally irresponsible to write a check that we cannot cash for future
-      generations.”  
-        
-        
-        
-      West Virginia Republican Senate President Michael Carmichael (2/28/18)
+      <div><h1>Where will the Money Come From?</h1><blockquote>“We know that we
+      need to raise their salaries but it would be absolutely fiscally
+      irresponsible to write a check that we cannot cash for future
+      generations.”<br><br><br><br>West Virginia Republican Senate President
+      Michael Carmichael (2/28/18)</blockquote></div>
     _key: card-4-c259cf5c-eccb-4422-8f6d-8520c7286278
   - order: 4
     useCheckmark: false
-    body: |-
-      # Protesting Over Pay
-
-      ## How Teacher Salaries Stack Up
-
-      * **$45,622** = Average teacher salary in**West Virginia** (in 2016).
-      * **Ranked 48th** in the country, above only Oklahoma & Mississippi.
-      * **$58,353** =**National average** public teacher salary.
-      * New York ranked #1 at $79,152.
+    body: >-
+      <div><h1>Protesting Over Pay</h1><h2>How Teacher Salaries Stack
+      Up</h2><ul><li><strong>$45,622</strong> = Average teacher salary in
+      <strong>West Virginia</strong> (in 2016).</li><li><strong>Ranked
+      48th</strong> in the country, above only Oklahoma &amp;
+      Mississippi.</li><li><strong>$58,353</strong> = <strong>National
+      average</strong> public teacher salary.</li><li>New York ranked #1 at
+      $79,152.</li></ul></div>
     _key: card-5-84a98443-5ca5-45a0-8eb7-82c17411cdc3
   - order: 5
     useCheckmark: true
     body: >-
-      And it's not just in West Virginia, now teachers in Oklahoma say they may
-      strike...
-
-
-      [view sources](https://smarthernews.com/18-02-27-west-virginia-teachers/)
+      <div><p>And it's not just in West Virginia, now teachers in Oklahoma say
+      they may strike...</p><p><a
+      href="https://smarthernews.com/18-02-27-west-virginia-teachers/">view
+      sources</a></p></div>
     _key: card-10-8f1c7e2b-885b-4fd7-ac7b-6fa2a34ff484
 
 ---

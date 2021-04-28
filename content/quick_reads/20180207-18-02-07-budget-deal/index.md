@@ -22,93 +22,63 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Senate Reaches  
-
-      Budget Deal
-
-
-      ## A look at the deal ahead of final votes:
-
-
-      * Avoids shutdown…for now.
-
-      * Raises spending on infrastructure, defense, opioid epidemic, healthcare,
-      & disaster relief.
+      <div><p>Senate Reaches<br>Budget Deal </p><h2>A look at the deal ahead of
+      final votes:</h2><ul><li>Avoids shutdown…for now.</li><li>Raises spending
+      on infrastructure, defense, opioid epidemic, healthcare, &amp; disaster
+      relief.</li></ul></div>
     _key: card-1-1af69130-fe9f-4f43-ab90-2756b71dfee3
   - order: 1
     useCheckmark: false
     body: >-
-      # WHY IT MATTERS:
-
-
-      * Gov’t funding runs out at midnight on Thursday (2/8).
-
-      * Stops automatic gov’t spending cuts (aka “sequester”).
-
-      * Raises gov’t borrowing limit until March 2019 (after this year’s midterm
-      elections).
-
-      * Deal is a rare display of bipartisanship in Congress with each side
-      getting a little $omething.
+      <div><h1>WHY IT MATTERS:</h1><ul><li>Gov’t funding runs out at midnight on
+      Thursday (2/8).</li><li>Stops automatic gov’t spending cuts (aka
+      “sequester”).</li><li>Raises gov’t borrowing limit until March 2019 (after
+      this year’s midterm elections).</li><li>Deal is a rare display of
+      bipartisanship in Congress with each side getting a little
+      $omething.</li></ul></div>
     _key: card-2-9594c368-e76b-4584-90ee-5a2de38ce1ee
   - order: 2
     useCheckmark: false
     body: >-
-      # Who Likes The Deal:
-
-
-      * Those who believe this type of increased government spending is a wise
-      investment.
-
-      * Includes: The White House, Pentagon, Repub/Dem lawmakers.
+      <div><h1>Who Likes The Deal:</h1><ul><li>Those who believe this type of
+      increased government spending is a wise investment.</li><li>Includes: The
+      White House, Pentagon, Repub/Dem lawmakers.</li></ul></div>
     _key: card-3-ddef84ec-0715-4dfc-a4a5-d67fe8048ea0
   - order: 3
     useCheckmark: false
     body: >-
-      > “I’m happy to announce that our bipartisan, bicameral negotiations on
-      defense spending and other priorities have yielded a significant
-      agreement.”  
-        
-        
-        
-      Sen Mitch McConnell (R-KS) Senate Majority Leader: Highest Ranking
-      Republican in Senate
+      <blockquote>“I’m happy to announce that our bipartisan, bicameral
+      negotiations on defense spending and other priorities have yielded a
+      significant agreement.”<br><br><br><br>Sen Mitch McConnell (R-KS) Senate
+      Majority Leader: Highest Ranking Republican in Senate</blockquote>
     _key: card-4-bd214d5f-7d56-45ec-b701-a4a825a29288
   - order: 4
     useCheckmark: false
     body: >-
-      # Who Doesn’t Like The Deal:
-
-
-      * Small gov’t conservatives i.e. Tea Party Republicans concerned about
-      rising debt and “Big Gov’t.”
-
-      * Democrats who want immigration reform attached to the bill, like House
-      Minority Leader Nancy Pelosi.
-
-      * Anti-Debt advocates
+      <div><h1>Who Doesn’t Like The Deal:</h1><ul><li>Small gov’t conservatives
+      i.e. Tea Party Republicans concerned about rising debt and “Big
+      Gov’t.”</li><li>Democrats who want immigration reform attached to the
+      bill, like House Minority Leader Nancy Pelosi.</li><li>Anti-Debt
+      advocates</li></ul></div>
     _key: card-5-b3826e72-b6d4-4c40-9a38-2269912ccb39
   - order: 5
     useCheckmark: false
-    body: "> “This budget deal shows just how broken the budget process is a\x13 that Congress thinks the only way to agree to a budget is to put hundreds of billions of dollars on the nation’s credit card. “\n\n>   \nMaya MacGuineas, President, Committee for a Responsible Federal Budget (non-partisan/non-profit)"
+    body: "<div><blockquote>“This budget deal shows just how broken the budget process is a\x13 that Congress thinks the only way to agree to a budget is to put hundreds of billions of dollars on the nation’s credit card. “</blockquote><blockquote><br>Maya MacGuineas, President, Committee for a Responsible Federal Budget (non-partisan/non-profit)</blockquote></div>"
     _key: card-6-bdde4000-21a1-4954-a305-c1c109a20700
   - order: 6
     useCheckmark: false
-    body: |-
-      # Why Government Spending/Budgets Matter:
-
-      ## America’s Debt
-
-      $20 Trillion & Rising
-
-      [See It For Yourself: Click Right Here](http://www.usdebtclock.org/)
+    body: >-
+      <div><h1>Why Government Spending/Budgets Matter:</h1><h2>America’s
+      Debt</h2><p>$20 Trillion &amp; Rising</p><p><a
+      href="http://www.usdebtclock.org/">See It For Yourself: Click Right
+      Here</a></p></div>
     _key: card-7-2d5bb247-6fad-4e77-a949-0f5691942db7
   - order: 7
     useCheckmark: true
-    body: |-
-      Budget Deal
-
-      [view sources](https://smarthernews.com/18-02-07-budget-deal/)
+    body: >-
+      <div><p>Budget Deal</p><p><a
+      href="https://smarthernews.com/18-02-07-budget-deal/">view
+      sources</a></p></div>
     _key: card-10-b0bb41bc-a5e3-4e17-8890-bedfee9d6e8e
 
 ---

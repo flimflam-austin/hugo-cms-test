@@ -21,83 +21,57 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # America’s Freedom Church
-
-
-      What to know about the home church of both Martin Luther King Jr. and one
-      of the Senate’s newest members.
+      <div><h1>America’s Freedom Church</h1><p>What to know about the home
+      church of both Martin Luther King Jr. and one of the Senate’s newest
+      members.</p></div>
     _key: e052d9f38c6c
   - order: 1
     useCheckmark: false
     body: >-
-      ## Ebenezer Baptist Church:
-
-
-      * **1886:** Founded by Rev. John Parker – a former slave – in Atlanta, GA.
-
-      * **1894:** Rev. A.D. Williams, grandfather to MLK Jr., became pastor.
-
-      * Rev. A.D. Williams served as the lead pastor for 37 years and emphasized
-      civil rights activism – a legacy that remains within the church to this
-      day.
-
-      * Rev. MLK Sr. became pastor in 1931; Rev. MLK Jr. became co-pastor in
-      1960.
+      <div><h2>Ebenezer Baptist Church:</h2><ul><li><strong>1886:</strong>
+      Founded by Rev. John Parker – a former slave – in Atlanta,
+      GA.</li><li><strong>1894:</strong> Rev. A.D. Williams, grandfather to MLK
+      Jr., became pastor.</li><li>Rev. A.D. Williams served as the lead pastor
+      for 37 years and emphasized civil rights activism – a legacy that remains
+      within the church to this day.</li><li>Rev. MLK Sr. became pastor in 1931;
+      Rev. MLK Jr. became co-pastor in 1960.</li></ul></div>
     _key: 81fbee1eca4d
   - order: 2
     useCheckmark: false
     body: >-
-      ## The Church Building
-
-
-      * **1914:** After outgrowing 3 different locations, the congregation began
-      meeting in a nearby basement.
-
-      * **1922:** Main church building completed.
-
-      * Several renovations & expansion projects have occurred since, but the
-      location has not changed.
-
-      * The church is now part of the**MLK Jr. National Historic Site**, which
-      includes the King family home and MLK’s gravesite.
+      <div><h2>The Church Building</h2><ul><li><strong>1914:</strong> After
+      outgrowing 3 different locations, the congregation began meeting in a
+      nearby basement.</li><li><strong>1922:</strong> Main church building
+      completed.</li><li>Several renovations &amp; expansion projects have
+      occurred since, but the location has not changed.</li><li>The church is
+      now part of the <strong>MLK Jr. National Historic Site</strong>, which
+      includes the King family home and MLK’s gravesite.</li></ul></div>
     _key: 05b3a8b04547
   - order: 3
     useCheckmark: false
     body: >-
-      ## Then & Now
-
-
-      Ebenezer Baptist Church began with 13 congregants and now has at least
-      6,000.
-
-
-      In its 135-year history, there have been five Senior Pastors.
-
-
-      The current Senior Pastor, Rev. Dr. Raphael Warnock, has served since
-      2005. Recently elected to the Senate in the GA runoffs, he will be the
-      first Black senator from the state.
+      <div><h2>Then &amp; Now</h2><p>Ebenezer Baptist Church began with 13
+      congregants and now has at least 6,000.</p><p>In its 135-year history,
+      there have been five Senior Pastors.</p><p>The current Senior Pastor, Rev.
+      Dr. Raphael Warnock, has served since 2005. Recently elected to the Senate
+      in the GA runoffs, he will be the first Black senator from the
+      state.</p></div>
     _key: 4201605aa3cb
   - order: 4
     useCheckmark: false
     body: >-
-      ## Ebenezer Baptist Church: America’s Freedom Church
-
-
-      As we mark Dr. Martin Luther King Jr.’s birthday, we return to the church
-      where it all began.
-
-
-      Ebenezer Baptist Church, spiritual home to Rev. Dr. MLK Jr. and Rev. MLK
-      Sr., has also laid the foundation for one of the Senate’s newest members –
-      Rev. Dr. Raphael Warnock.
+      <div><h2>Ebenezer Baptist Church: America’s Freedom Church</h2><p>As we
+      mark Dr. Martin Luther King Jr.’s birthday, we return to the church where
+      it all began.</p><p>Ebenezer Baptist Church, spiritual home to Rev. Dr.
+      MLK Jr. and Rev. MLK Sr., has also laid the foundation for one of the
+      Senate’s newest members – Rev. Dr. Raphael Warnock.</p></div>
     _key: 0ae70c1281b5
   - order: 5
     useCheckmark: true
     body: >-
-      The very first federally-recognized Martin Luther King Jr. Day was
+      <div><p>The very first federally-recognized Martin Luther King Jr. Day was
       celebrated at Ebenezer Baptist Church with a ceremony between King's wife,
-      Coretta, and VP George H.W. Bush.
+      Coretta, and VP George H.W. Bush.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 4e5c276a79c4
 

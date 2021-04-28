@@ -20,19 +20,20 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      > “For there is always light,  
-      if only we’re brave enough to see it  
-      If only we’re brave enough to be it.”
+    body: >-
+      <div><blockquote>“For there is always light,<br>if only we’re brave enough
+      to see it<br>If only we’re brave enough to be
+      it.”</blockquote><p></p></div>
     citation: AMANDA GORMAN
     _key: 447f2673f8bc
   - order: 1
     useCheckmark: true
     body: >-
-      The first-ever National Youth Poet Laureate continued a tradition of a
-      featured inaugural poet (past poets incl. Maya Angelou & Robert Frost) –
-      Gorman made history as the youngest to ever appear. The 22-year-old once
-      suffered from a speech impediment (as did Pres. Biden).
+      <div><p>The first-ever National Youth Poet Laureate continued a tradition
+      of a featured inaugural poet (past poets incl. Maya Angelou &amp; Robert
+      Frost) – Gorman made history as the youngest to ever appear. The
+      22-year-old once suffered from a speech impediment (as did Pres.
+      Biden).</p><p></p></div>
     citation: VIEW SOURCES
     _key: b2fa51572960
 

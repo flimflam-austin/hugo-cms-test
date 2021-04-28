@@ -21,20 +21,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“Let us rise up tonight with a greater readiness. Let us stand with a
-      greater determination. And let us move on in these powerful days, these
-      days of challenge to make America what it ought to be. We have an
-      opportunity to make America a better nation.”_
+      <div><blockquote><em>“Let us rise up tonight with a greater readiness. Let
+      us stand with a greater determination. And let us move on in these
+      powerful days, these days of challenge to make America what it ought to
+      be. We have an opportunity to make America a better
+      nation.”</em></blockquote><p></p></div>
     citation: MARTIN LUTHER KING JR.
     _key: 9d41c6f4fa52
   - order: 1
     useCheckmark: true
     body: >-
-      On the stormy night before he was killed, Martin Luther King Jr. addressed
-      a church in Memphis, Tenn. in a speech “I’ve Been to the Mountaintop."
-      Nearly 20 yrs after his death, America celebrated its first Martin Luther
-      King Jr. holiday in 1986. You can read/listen to two of MLK Jr's most
-      famous speeches on source page.
+      <div><p>On the stormy night before he was killed, Martin Luther King Jr.
+      addressed a church in Memphis, Tenn. in a speech “I’ve Been to the
+      Mountaintop." Nearly 20 yrs after his death, America celebrated its first
+      Martin Luther King Jr. holiday in 1986. You can read/listen to two of MLK
+      Jr's most famous speeches on source page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: e50bef27470f
 

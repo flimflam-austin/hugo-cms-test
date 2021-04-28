@@ -22,73 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # States Sue Over 2020 Census Citizenship Question
-
-
-      > “What the Trump Administration is requesting is not just alarming, it is
-      an unconstitutional attempt to discourage an accurate census count.’  
-        
-        
-        
-      California Attorney General Xavier Becerra, March 27, 2018
+      <div><h1>States Sue Over 2020 Census Citizenship
+      Question</h1><blockquote>“What the Trump Administration is requesting is
+      not just alarming, it is an unconstitutional attempt to discourage an
+      accurate census count.’<br><br><br><br>California Attorney General Xavier
+      Becerra, March 27, 2018</blockquote></div>
     _key: card-1-65c5fd35-ead4-4ae7-83bd-d141244750f2
   - order: 1
     useCheckmark: false
     body: >-
-      ## “Are You a U.S. Citizen?”
-
-
-      * **Commerce Dept** says question (a Trump administration request) is
-      necessary to better measure the voting-eligible population.
-
-      * **Critics** say question will cause undercount of immigrants &
-      minorities who might be afraid to disclose such information.
-
-      * **Not a first:** From 1820-1950 every census included a question about
-      citizenship.
+      <div><h2>“Are You a U.S. Citizen?”</h2><ul><li><strong>Commerce
+      Dept</strong> says question (a Trump administration request) is necessary
+      to better measure the voting-eligible
+      population.</li><li><strong>Critics</strong> say question will cause
+      undercount of immigrants &amp; minorities who might be afraid to disclose
+      such information.</li><li><strong>Not a first:</strong> From 1820-1950
+      every census included a question about citizenship.</li></ul></div>
     _key: card-2-b915ddd9-d5e5-4583-8a4b-80904fec0c1e
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why the Census Counts
-
-
-      * Mandated by U.S. Constitution.
-
-      * Tracks population every 10 years.
-
-      * Used to distribute the 435 seats in the House of Representatives and
-      shapes congressional & state redistricting.
-
-      * Many federal & state programs rely on data to distribute fund$ used to
-      build schools, roads, etc.
-
-
-      What's at stake?
+      <div><h2>Why the Census Counts</h2><ul><li>Mandated by U.S.
+      Constitution.</li><li>Tracks population every 10 years.</li><li>Used to
+      distribute the 435 seats in the House of Representatives and shapes
+      congressional &amp; state redistricting.</li><li>Many federal &amp; state
+      programs rely on data to distribute fund$ used to build schools, roads,
+      etc.</li></ul><p>What's at stake?</p></div>
     citation: What's at stake?
     _key: card-3-18eed334-feb6-415f-a27b-b5f9a68eec9f
   - order: 3
     useCheckmark: false
     body: >-
-      Why Are the States Suing?
-
-
-      * **Constitutional crisis:** Question willA interfere with mandate to
-      conduct a full count of population.
-
-      * **Undercounts:**A Question may result in a shift of money/power to rural
-      areas, which tend to have fewer undocumented immigrants than metropolitan
-      areas.
-
-      * **Immigration Enforcement:**A No one knows if the data would be used
-      against those who respond.
+      <div><p>Why Are the States Suing?</p><ul><li><strong>Constitutional
+      crisis:</strong> Question willA interfere with mandate to conduct a full
+      count of population.</li><li><strong>Undercounts:</strong>A Question may
+      result in a shift of money/power to rural areas, which tend to have fewer
+      undocumented immigrants than metropolitan
+      areas.</li><li><strong>Immigration Enforcement:</strong>A No one knows if
+      the data would be used against those who respond.</li></ul></div>
     _key: card-4-6f3fe78f-8e8b-4397-abab-3ad8b4a69eb5
   - order: 4
     useCheckmark: true
-    body: |-
-      How do they take the Census anyway? Click to find out.
-
-      [view sources](https://smarthernews.com/18-03-28-census-2020/)
+    body: >-
+      <div><p>How do they take the Census anyway? Click to find out.</p><p><a
+      href="https://smarthernews.com/18-03-28-census-2020/">view
+      sources</a></p></div>
     _key: card-10-2f7ee11d-453d-4bef-aa39-7522a650b4a8
 
 ---

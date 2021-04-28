@@ -22,21 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“Do not despair of our present difficulties butA believe always in the
-      promise and greatness of America, because nothing is inevitable here.
-      Americans never quit.A We never surrender.A We never hide from history. We
-      make history.”_
+      <div><blockquote><em>“Do not despair of our present difficulties butA
+      believe always in the promise and greatness of America, because nothing is
+      inevitable here. Americans never quit.A We never surrender.A We never hide
+      from history. We make history.”</em></blockquote><p></p></div>
     citation: Sen. John McCain
     _key: card-1-e3c46b59-c9c8-48e1-9e04-9f4561753fa0
   - order: 1
     useCheckmark: true
     body: >-
-      Two days after his death, the McCain family issued a Farewell Statement
-      from Senator John McCain. Read it on our source page.
-
-
-      [view
-      sources](https://smarthernews.com/senator-john-mccains-farewell-statement/)
+      <div><p>Two days after his death, the McCain family issued a Farewell
+      Statement from Senator John McCain. Read it on our source page.</p><p><a
+      href="https://smarthernews.com/senator-john-mccains-farewell-statement/">view
+      sources</a></p></div>
     _key: card-10-1403359c-a597-4ed3-82ab-db7c55b20169
 
 ---

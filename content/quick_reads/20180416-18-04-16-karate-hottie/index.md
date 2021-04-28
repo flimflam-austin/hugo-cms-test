@@ -22,53 +22,39 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “When I stay mentally strong, I can get through anything. Or anyone.”  
-        
-        
-        
-      Michelle Waterson aka "The Karate Hottie" after her UFC victory Saturday,
-      April 14, 2018. P.S. She says her warrior instinct was birthed with her
-      child.
+      <blockquote>“When I stay mentally strong, I can get through anything. Or
+      anyone.”<br><br><br><br>Michelle Waterson aka "The Karate Hottie" after
+      her UFC victory Saturday, April 14, 2018. P.S. She says her warrior
+      instinct was birthed with her child.</blockquote>
     _key: card-1-2d3d00e8-306f-42ec-af43-031607fbb4f8
   - order: 1
     useCheckmark: false
     body: >-
-      # Michelle Waterson
-
-
-      * Started practicing martial arts at age 10.
-
-      * Thai heritage led to her discoveringA Muay Thai (aka Thai boxing).
-
-      * Says childbirth is more painful than anything she’s experienced in the
-      ring.
-
-      * Daughter,A Araya (8) has come to all her fights.
+      <div><h1>Michelle Waterson</h1><ul><li>Started practicing martial arts at
+      age 10.</li><li>Thai heritage led to her discoveringA Muay Thai (aka Thai
+      boxing).</li><li>Says childbirth is more painful than anything she’s
+      experienced in the ring.</li><li>Daughter,A Araya (8) has come to all her
+      fights.</li></ul></div>
     _key: card-2-3e3ac745-bad6-49e8-9219-f5893c4cfe51
   - order: 2
     useCheckmark: false
     body: >-
-      > “For a long time, I was embarrassed about my stretch marks.A Now I
-      embrace them, because for me it was like this nest that I created to grow
-      this little human in my body, and I’m proud of that.”  
-        
-        
-        
-      Michelle Waterson to ESPN, July 5, 2017.
-
-
-      [Click Here: Waterson's Daughter &
-      Husband](https://www.instagram.com/p/BhiTRiCjUTx/?taken-by=karatehottiemma)
+      <div><blockquote>“For a long time, I was embarrassed about my stretch
+      marks.A Now I embrace them, because for me it was like this nest that I
+      created to grow this little human in my body, and I’m proud of
+      that.”<br><br><br><br>Michelle Waterson to ESPN, July 5,
+      2017.</blockquote><p><a
+      href="https://www.instagram.com/p/BhiTRiCjUTx/?taken-by=karatehottiemma">Click
+      Here: Waterson's Daughter &amp; Husband</a></p></div>
     citation: 'Click Here: Waterson''s Daughter &amp; Husband'
     _key: card-3-7c8f8f85-b900-4d5b-a814-9b2bd2421135
   - order: 3
     useCheckmark: true
     body: >-
-      Michelle was working at "Hooters" in college when she decided that she
-      wanted to try MMA fighting after being a "ring girl" for extra $$.
-
-
-      [view sources](https://smarthernews.com/18-04-16-karate-hottie/)
+      <div><p>Michelle was working at "Hooters" in college when she decided that
+      she wanted to try MMA fighting after being a "ring girl" for extra
+      $$.</p><p><a href="https://smarthernews.com/18-04-16-karate-hottie/">view
+      sources</a></p></div>
     _key: card-10-0e0ee02b-d6cc-475b-a117-44ff12e1eec3
 
 ---

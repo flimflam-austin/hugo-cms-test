@@ -21,110 +21,80 @@ colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # July 11, 1804
-
-      The Duel
-
-      Alexander Hamilton
-
-      Aaron Burr
-
-      Who Lives, Who Dies,  
-      Who Tells The Story.
+    body: >-
+      <div><h1>July 11, 1804</h1><p>The Duel</p><p>Alexander
+      Hamilton</p><p>Aaron Burr</p><p>Who Lives, Who Dies,<br>Who Tells The
+      Story.</p></div>
     _key: 926ae70a25a4
   - order: 1
     useCheckmark: false
     body: >-
-      ## Who & What
-
-
-      **Who**: Aaron Burr was Vice President of the United States under Pres.
-      Jefferson. Alexander Hamilton was a “Founding Father,” the first U.S.
-      Treasury Secretary and a powerful political figure. Both veterans of the
-      Revolutionary War.
-
-
-      **What**: A duel. Dueling was illegal in New York and New Jersey, but NJ
-      had a reputation for more leniency.
+      <div><h2>Who &amp; What</h2><p><strong>Who</strong>: Aaron Burr was Vice
+      President of the United States under Pres. Jefferson. Alexander Hamilton
+      was a “Founding Father,” the first U.S. Treasury Secretary and a powerful
+      political figure. Both veterans of the Revolutionary
+      War.</p><p><strong>What</strong>: A duel. Dueling was illegal in New York
+      and New Jersey, but NJ had a reputation for more leniency.</p></div>
     _key: b7bd69d859ab
   - order: 2
     useCheckmark: false
     body: >-
-      ## Where & When
-
-
-      **Where**: Weehawken, New Jersey (across the Hudson River from New York
-      City) in the early hours of July 11th, 1804
-
-
-      **When**: Each man left New York City from separate docks at 5 a.m.. Four
-      men rowed them across the Hudson River.
+      <div><h2>Where &amp; When</h2><p><strong>Where</strong>: Weehawken, New
+      Jersey (across the Hudson River from New York City) in the early hours of
+      July 11th, 1804</p><p><strong>When</strong>: Each man left New York City
+      from separate docks at 5 a.m.. Four men rowed them across the Hudson
+      River.</p></div>
     _key: 18056944fda2
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why?
-
-
-      * No one knows why**specifically**.
-
-      * Over the years, their political differences put them on a collision
-      course. Hamilton supported Jefferson who defeated Burr for the presidency.
-      Hamilton also supported Burr’s opponent for NY governor.
-
-      * Reportedly one particularly bad insult by Hamilton about Burr at a
-      dinner sparked the face-off, but the exact comment remains a mystery.
+      <div><h2>Why?</h2><ul><li>No one knows why
+      <strong>specifically</strong>.</li><li>Over the years, their political
+      differences put them on a collision course. Hamilton supported Jefferson
+      who defeated Burr for the presidency. Hamilton also supported Burr’s
+      opponent for NY governor.</li><li>Reportedly one particularly bad insult
+      by Hamilton about Burr at a dinner sparked the face-off, but the exact
+      comment remains a mystery.</li></ul></div>
     _key: f8fc511614ac
   - order: 4
     useCheckmark: false
     body: >-
-      ## The Night Before
-
-
-      > “But you had rather I should die inno⟨c⟩ent than live guilty. … God’s
-      Will be done. The will of a merciful God must be good.”  
-        
-      Alexander Hamilton to his wife, Elizabeth (Eliza) the night before his
-      duel to Aaron Burr, where he insinuates he doesn’t want to kill Burr.
-      Conflicting accounts exist of who shot first and whether Hamilton missed
-      on purpose.
+      <div><h2>The Night Before</h2><blockquote>“But you had rather I should die
+      inno⟨c⟩ent than live guilty. … God’s Will be done. The will of a merciful
+      God must be good.”<br><br>Alexander Hamilton to his wife, Elizabeth
+      (Eliza) the night before his duel to Aaron Burr, where he insinuates he
+      doesn’t want to kill Burr. Conflicting accounts exist of who shot first
+      and whether Hamilton missed on purpose.</blockquote></div>
     _key: 962b1319fe1b
   - order: 5
     useCheckmark: false
     body: >-
-      ## The Day After
-
-
-      * Alexander Hamilton dies at 2 pm on July 12th.
-
-      * Benjamin Moore, Episcopal bishop of New York delivered communion to him
-      before his death.
-
-      * Moore wrote an account that evening, relaying Hamilton said before he
-      died:_“I have no ill will against Col. Burr. I met him with a fixed
-      resolution to do him no harm. I forgive all that happened.”_
+      <div><h2>The Day After</h2><ul><li>Alexander Hamilton dies at 2 pm on July
+      12th.</li><li>Benjamin Moore, Episcopal bishop of New York delivered
+      communion to him before his death.</li><li>Moore wrote an account that
+      evening, relaying Hamilton said before he died: <em>“I have no ill will
+      against Col. Burr. I met him with a fixed resolution to do him no harm. I
+      forgive all that happened.”</em></li></ul></div>
     _key: 03d83220bb94
   - order: 6
     useCheckmark: false
     body: >-
-      > “Let those who are disposed to justify the practice of duelling, be
-      induced, by this simple narrative, to view with abhorrence that custom
-      which has occasioned in irreparable loss to a worthy and most afflicted
-      family: which has deprived his friends of a beloved companion, his
-      profession of one of its brightest ornaments, and his country of a great
-      statesman and a real patriot.”
-
-
-      Benjamin Moore
+      <div><blockquote>“Let those who are disposed to justify the practice of
+      duelling, be induced, by this simple narrative, to view with abhorrence
+      that custom which has occasioned in irreparable loss to a worthy and most
+      afflicted family: which has deprived his friends of a beloved companion,
+      his profession of one of its brightest ornaments, and his country of a
+      great statesman and a real patriot.”</blockquote><p>Benjamin
+      Moore</p></div>
     _key: 74f85b391608
   - order: 7
     useCheckmark: true
     body: >-
-      Burr continued to serve as VP until 1805 and was never convicted for the
-      crime. 200 years later, a Broadway musical "Hamilton" put the two men back
-      in the spotlight again in their former home of New York City. Hamilton,
-      the musical, just debuted on Disney's streaming service.
+      <div><p>Burr continued to serve as VP until 1805 and was never convicted
+      for the crime. 200 years later, a Broadway musical "Hamilton" put the two
+      men back in the spotlight again in their former home of New York City.
+      Hamilton, the musical, just debuted on Disney's streaming
+      service.</p><p></p></div>
     citation: VIEW SOURCES
     _key: bdbea5fd1669
 

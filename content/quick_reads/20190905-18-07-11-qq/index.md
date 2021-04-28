@@ -22,58 +22,46 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “We pay far too much and they pay far too little, but we’ll work it
-      out.”  
-        
-        
-        
-      Pres. Trump Tuesday ahead of the NATO summit which begins Wednesday in
-      Brussels, Belgium. He's expected to push member nations to pay more on
-      defense. So far this year, only 5 of 29 countries have spent 2% of GDP on
-      defense - the NATO standard.
+      <blockquote>“We pay far too much and they pay far too little, but we’ll
+      work it out.”<br><br><br><br>Pres. Trump Tuesday ahead of the NATO summit
+      which begins Wednesday in Brussels, Belgium. He's expected to push member
+      nations to pay more on defense. So far this year, only 5 of 29 countries
+      have spent 2% of GDP on defense - the NATO standard.</blockquote>
     _key: card-1-cb77589d-dbe7-4ce8-a393-b37b843852f7
   - order: 1
     useCheckmark: false
     body: >-
-      > “Dear America, appreciate your allies, after all you don’t have that
-      many. And dear Europe, spend more on your defense.”  
-        
-        
-        
-      European Council President Donald Tusk in response to President Trump's
-      claims the US is being "taken advantage of" by other NATO members.
+      <blockquote>“Dear America, appreciate your allies, after all you don’t
+      have that many. And dear Europe, spend more on your
+      defense.”<br><br><br><br>European Council President Donald Tusk in
+      response to President Trump's claims the US is being "taken advantage of"
+      by other NATO members.</blockquote>
     _key: card-2-854b431a-7391-4de0-bf65-40faec2d6b3b
   - order: 2
     useCheckmark: false
     body: >-
-      > ‘He is recovering at his home and will be fine.”  
-        
-        
-        
-      George Clooney's spokesman Stan Rosenfield after the actor slammed his
-      motorbike into an oncoming car that turned suddenly into his lane on the
-      Italian island of Sardinia. Clooney was thrown several yards in the air.
-      The 57-year-old was heading to a film set when the accident happened.
+      <blockquote>‘He is recovering at his home and will be
+      fine.”<br><br><br><br>George Clooney's spokesman Stan Rosenfield after the
+      actor slammed his motorbike into an oncoming car that turned suddenly into
+      his lane on the Italian island of Sardinia. Clooney was thrown several
+      yards in the air. The 57-year-old was heading to a film set when the
+      accident happened.</blockquote>
     _key: card-3-56e99597-79d1-4b01-ad2f-c9f21830f0d3
   - order: 3
     useCheckmark: false
     body: >-
-      > “We’ve made the difficult decision to discontinue serving peanuts on all
-      flights…”  
-        
-        
-        
-      Citing allergy concerns, Southwest Airlines announced it will stop serving
-      peanuts on all flights starting August 1st. Severe allergic reactions to
-      food are the cause of 150 deaths a year in the US & 2,000
-      hospitalizations, according to the FDA.
+      <blockquote>“We’ve made the difficult decision to discontinue serving
+      peanuts on all flights…”<br><br><br><br>Citing allergy concerns, Southwest
+      Airlines announced it will stop serving peanuts on all flights starting
+      August 1st. Severe allergic reactions to food are the cause of 150 deaths
+      a year in the US &amp; 2,000 hospitalizations, according to the
+      FDA.</blockquote>
     _key: card-4-6da31b85-69f7-4357-9fa0-285d00dbc85d
   - order: 4
     useCheckmark: true
-    body: |-
-      Have a great day!
-
-      [view sources](https://smarthernews.com/18-07-11-qq/)
+    body: >-
+      <div><p>Have a great day!</p><p><a
+      href="https://smarthernews.com/18-07-11-qq/">view sources</a></p></div>
     _key: card-10-2fe1d964-e9ca-4e5f-b4b4-1c70f18ad2df
 
 ---

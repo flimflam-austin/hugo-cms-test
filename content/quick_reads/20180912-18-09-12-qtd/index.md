@@ -22,23 +22,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “_I hope to be a person of service, empathy, kindness because I think
-      those are some ofA the fundamental things people need in this world right
-      now.A AA little more leadership, a little more empathy and
-      understanding._“
+      <div><blockquote>“<em>I hope to be a person of service, empathy, kindness
+      because I think those are some ofA the fundamental things people need in
+      this world right now.A AA little more leadership, a little more empathy
+      and understanding.</em>“</blockquote><p></p></div>
     citation: Sarah Zorn
     _key: card-1-44568817-974f-4149-b17f-adbf5a198b02
   - order: 1
     useCheckmark: true
     body: >-
-      In May 2018, Zorn (21) became the 1st female 'commander of cadets'
+      <div><p>In May 2018, Zorn (21) became the 1st female 'commander of cadets'
       (highest ranking cadet officer) in the military college's 175-year
       history. The school just started accepting women students in 1995. Zorn
       leads a student body of 2,350 and attends The Citadel on an Army
-      scholarship.
-
-
-      [view sources](https://smarthernews.com/18-09-12-qtd/)
+      scholarship.</p><p><a href="https://smarthernews.com/18-09-12-qtd/">view
+      sources</a></p></div>
     _key: card-10-a6be4179-4846-407d-a177-30a64700ed90
 
 ---

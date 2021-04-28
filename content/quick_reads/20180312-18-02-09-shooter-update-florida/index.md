@@ -22,89 +22,61 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      NEW WEEK:  
-
-      New Florida Gun Laws
-
-
-      New laws passedA**23 days** after one of the deadliest school shootings in
-      American history.
-
-
-      _‘It’s an example to the entire country that government can and has moved
-      fast.’_A FL Gov. Rick Scott, March 9, 2018
-
-
-      Flip: Break In Case?
+      <div><p>NEW WEEK:<br>New Florida Gun Laws</p><p>New laws passedA
+      <strong>23 days</strong> after one of the deadliest school shootings in
+      American history.</p><p><em>‘It’s an example to the entire country that
+      government can and has moved fast.’</em>A FL Gov. Rick Scott, March 9,
+      2018</p><p>Flip: Break In Case?</p></div>
     _key: card-1-c377d8e4-7722-43c5-a343-787b728a9380
   - order: 1
     useCheckmark: false
     body: >-
-      New Florida Laws
-
-
-      * Rifles: raises purchase age (from 18 to 21) &A implements 3-day waiting
-      period.**NRA filed lawsuit hrs after bill signed**.
-
-      * Creates “Guardian Program” allows teachers & staff to carry guns
-      w/proper training. Program NOT mandatory; school districts can decide to
-      participate.**FL Teachers Union opposes – hopes gov’t strikes funding.**
+      <div><p>New Florida Laws</p><ul><li>Rifles: raises purchase age (from 18
+      to 21) &amp;A implements 3-day waiting period. <strong>NRA filed lawsuit
+      hrs after bill signed</strong>.</li><li>Creates “Guardian Program” allows
+      teachers &amp; staff to carry guns w/proper training. Program NOT
+      mandatory; school districts can decide to participate. <strong>FL Teachers
+      Union opposes – hopes gov’t strikes funding.</strong></li></ul></div>
     _key: card-2-bd5ab282-5f03-48af-b3f4-401328ac3f7d
   - order: 2
     useCheckmark: false
     body: >-
-      ## “Break” In Unsolved Story
-
-
-      The big unanswered question at the center of the Florida school shooting
-      is: Why, if the shooter was repeatedly violent & threatening, did he NOT
-      have a police record?
-
-
-      _Real Clear__Investigations_ may have found the answer – and they aren’t
-      the only ones.
-
-
-      Flip For More
+      <div><h2>“Break” In Unsolved Story</h2><p>The big unanswered question at
+      the center of the Florida school shooting is: Why, if the shooter was
+      repeatedly violent &amp; threatening, did he NOT have a police
+      record?</p><p><em>Real Clear</em> <em>Investigations</em> may have found
+      the answer – and they aren’t the only ones.</p><p>Flip For More</p></div>
     _key: card-3-a47669e8-8763-42d2-bfbc-5ef2187357fb
   - order: 3
     useCheckmark: false
     body: >-
-      ## Reports: Why FL Shooter Had No Criminal Record
-
-
-      * Federal policy implemented in the Florida school district (and many
-      others) to avoid suspending or arresting students.
-
-      * Policy dates back to the Obama Administration.
-
-      * Reports: Policy aimed to slow the “school-to-prison” pipeline that
-      disproportionately impacts minority students.
+      <div><h2>Reports: Why FL Shooter Had No Criminal
+      Record</h2><ul><li>Federal policy implemented in the Florida school
+      district (and many others) to avoid suspending or arresting
+      students.</li><li>Policy dates back to the Obama
+      Administration.</li><li>Reports: Policy aimed to slow the
+      “school-to-prison” pipeline that disproportionately impacts minority
+      students.</li></ul></div>
     _key: card-4-08231404-382f-487f-8280-cd145af7714b
   - order: 4
     useCheckmark: false
     body: >-
-      > “Students charged with various misdemeanors, including assault, would
-      now be disciplined throughA participationA in ‘healing circles,’ obstacle
-      courses and other ‘self-esteem building’ exercises.”  
-        
-        
-        
-      Paul Sperry, Real Clear Investigations, March 1, 2018
-
-
-      [Read Full
-      Article:](https://www.realclearinvestigations.com/articles/2018/02/28/obama_administration_school_discipline_policy_and_the_parkland_shooting.html)
+      <div><blockquote>“Students charged with various misdemeanors, including
+      assault, would now be disciplined throughA participationA in ‘healing
+      circles,’ obstacle courses and other ‘self-esteem building’
+      exercises.”<br><br><br><br>Paul Sperry, Real Clear Investigations, March
+      1, 2018</blockquote><p><a
+      href="https://www.realclearinvestigations.com/articles/2018/02/28/obama_administration_school_discipline_policy_and_the_parkland_shooting.html">Read
+      Full Article:</a></p></div>
     _key: card-5-f3254f58-0002-4513-bcf2-116dd512a679
   - order: 5
     useCheckmark: true
     body: >-
-      Several other sources have also reported similar explanation to Real Clear
-      Investigations - We included a few on the sources page, but RCI is
-      worth-a-read.
-
-
-      [view sources](https://smarthernews.com/18-02-09-shooter-update-florida/)
+      <div><p>Several other sources have also reported similar explanation to
+      Real Clear Investigations - We included a few on the sources page, but RCI
+      is worth-a-read.</p><p><a
+      href="https://smarthernews.com/18-02-09-shooter-update-florida/">view
+      sources</a></p></div>
     _key: card-10-c346530f-1354-46ce-b34c-cbe0d53c0d43
 
 ---

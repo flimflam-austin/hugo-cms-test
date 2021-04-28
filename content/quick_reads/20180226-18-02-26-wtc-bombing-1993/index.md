@@ -22,72 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      25 years ago  
-
-      1993 World Trade Center Bombing
-
-
-      First attack by al-Qaeda in USA.
-
-
-      Just past noon, 2 of 7 terrorists drove a truck into the WTC’s basement
-      garage & detonated the bomb before fleeing the scene.
+      <div><p>25 years ago<br>1993 World Trade Center Bombing</p><p>First attack
+      by al-Qaeda in USA.</p><p>Just past noon, 2 of 7 terrorists drove a truck
+      into the WTC’s basement garage &amp; detonated the bomb before fleeing the
+      scene.</p></div>
     _key: card-1-72ec687c-1e37-4bcc-896a-396d9e150175
   - order: 1
     useCheckmark: false
-    body: "February 26, 1993  \nFriday 12:17 pm\n\n> “…Middle Eastern terrorism had arrived on American soila\x14with a bang”  \n  \n  \n  \nFBI, First Strike: Global Terror in America"
+    body: "<div><p>February 26, 1993<br>Friday 12:17 pm</p><blockquote>“…Middle Eastern terrorism had arrived on American soila\x14with a bang”<br><br><br><br>FBI, First Strike: Global Terror in America</blockquote></div>"
     _key: card-2-b86d0fc3-6a29-4547-9dd0-7e793291dc78
   - order: 2
     useCheckmark: false
     body: >-
-      # 1993 WTC Bombing
-
-
-      * Six people died; 1,000+ injured.
-
-      * Blast created by truck bomb created a 100-foot crater.
-
-      * Plot mastermind, Ramzi Yousef, is currently serving life sentence in
-      American prison.
-
-      * Yousef’s uncle, Khalid Sheikh Mohammed, called the mastermind of 9/11,
-      is currently detained at Guantanamo Bay.
+      <div><h1>1993 WTC Bombing</h1><ul><li>Six people died; 1,000+
+      injured.</li><li>Blast created by truck bomb created a 100-foot
+      crater.</li><li>Plot mastermind, Ramzi Yousef, is currently serving life
+      sentence in American prison.</li><li>Yousef’s uncle, Khalid Sheikh
+      Mohammed, called the mastermind of 9/11, is currently detained at
+      Guantanamo Bay.</li></ul></div>
     _key: card-3-7adee5d3-480c-4cbb-ae8b-26ce0051b1e0
   - order: 3
     useCheckmark: false
-    body: |-
-      # al-Qaeda Inspired Attacks On US Soil
-
-      * 2001: 9/11, nearly 3,000 murdered
-      * 2009: Nidal Hassan murders 13 and injures dozens at Fort Hood
-      * 2009: Attempted “underwear bombing” on US-bound jetliner
-      * 2010: Attempted car bombing in NYC’s Times Square
-      * 2013: Boston Marathon bombing
+    body: >-
+      <div><h1>al-Qaeda Inspired Attacks On US Soil</h1><ul><li>2001: 9/11,
+      nearly 3,000 murdered</li><li>2009: Nidal Hassan murders 13 and injures
+      dozens at Fort Hood</li><li>2009: Attempted “underwear bombing” on
+      US-bound jetliner</li><li>2010: Attempted car bombing in NYC’s Times
+      Square</li><li>2013: Boston Marathon bombing</li></ul></div>
     _key: card-4-9152c11f-7d7c-471b-b1b6-9d461ecab9fa
   - order: 4
     useCheckmark: false
     body: >-
-      ICYMI:  
-
-      Making Headlines Today
-
-
-      Boston Herald reports college roommate found guilty of lying to FBI about
-      al-Qaeda inspired terrorist in the 2013 Boston Marathon bombing will be
-      released from halfway house.
-
-
-      [Click For Full
-      Article](http://www.bostonherald.com/news/local_coverage/2018/02/dzhokhar_tsarnaev_s_college_pal_robel_phillipos_slated_for_release_today)
+      <div><p>ICYMI:<br>Making Headlines Today</p><p>Boston Herald reports
+      college roommate found guilty of lying to FBI about al-Qaeda inspired
+      terrorist in the 2013 Boston Marathon bombing will be released from
+      halfway house.</p><p><a
+      href="http://www.bostonherald.com/news/local_coverage/2018/02/dzhokhar_tsarnaev_s_college_pal_robel_phillipos_slated_for_release_today">Click
+      For Full Article</a></p></div>
     _key: card-5-ce99ab8b-a863-4ff7-870e-f320d7802da8
   - order: 5
     useCheckmark: true
     body: >-
-      One terrorist from 1993 WTC bombing remains at large. Click to see FBI
-      Most Wanted poster
-
-
-      [view sources](https://smarthernews.com/18-02-26-wtc-bombing-1993/)
+      <div><p>One terrorist from 1993 WTC bombing remains at large. Click to see
+      FBI Most Wanted poster</p><p><a
+      href="https://smarthernews.com/18-02-26-wtc-bombing-1993/">view
+      sources</a></p></div>
     _key: card-10-881515d0-b271-44a6-998d-2dc27516a2d5
 
 ---

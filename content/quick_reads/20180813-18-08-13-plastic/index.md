@@ -22,61 +22,39 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## TRASH NOBODY WANTS
-
-
-      Paper straws, biodegradable utensils, and bag bans…
-
-
-      The new rush away from plastic as China says it no longer wants to be the
-      “world’s garbage dump.”
-
-
-      Why It matters
+      <div><h2>TRASH NOBODY WANTS</h2><p>Paper straws, biodegradable utensils,
+      and bag bans…</p><p>The new rush away from plastic as China says it no
+      longer wants to be the “world’s garbage dump.”</p><p>Why It
+      matters</p></div>
     _key: card-1-4b74ccc6-3212-40d5-a6f4-96d78f882b55
   - order: 1
     useCheckmark: false
     body: >-
-      ## For 27 years, China has bought 45% of the world’s plastic trash, but
-      now it says no more.
-
-
-      On January 1, 2018, China banned all but the most pristine plastic.
-
-
-      America sent nearly 4K shipping containers full of plastic recyclables to
-      China every day.
-
-
-      Where Will It Go?
+      <div><h2>For 27 years, China has bought 45% of the world’s plastic trash,
+      but now it says no more.</h2><p>On January 1, 2018, China banned all but
+      the most pristine plastic.</p><p>America sent nearly 4K shipping
+      containers full of plastic recyclables to China every day.</p><p>Where
+      Will It Go?</p></div>
     _key: card-2-4f54cce8-4c79-4685-8bb2-34760e4bfc62
   - order: 2
     useCheckmark: false
     body: >-
-      ## Now What?
-
-
-      * U.S. recyclers are trying to find a substitute for the Chinese market.
-
-      * As demand grows, some other countries have accepted more plastic exports
-      – at a price.
-
-      * Even still, America’s total scrap plastic exports are down about 40% vs.
-      last year.
-
-      * **Bottom line:** China’s move has made recycling plastics less
-      economical.
+      <div><h2>Now What?</h2><ul><li>U.S. recyclers are trying to find a
+      substitute for the Chinese market.</li><li>As demand grows, some other
+      countries have accepted more plastic exports – at a price.</li><li>Even
+      still, America’s total scrap plastic exports are down about 40% vs. last
+      year.</li><li><strong>Bottom line:</strong> China’s move has made
+      recycling plastics less economical.</li></ul></div>
     _key: card-3-61a7c47d-5cfa-43ec-a07b-3a3e3e3e596a
   - order: 3
     useCheckmark: true
     body: >-
-      Scientists are working to create a durable plastic material that
+      <div><p>Scientists are working to create a durable plastic material that
       self-destructs on command. While it still doesn't make economic sense to
       use for plastic bottles or grocery bags, scientists have targeted
-      polyurethane foams in mattresses and car seats. Read more here.
-
-
-      [view sources](https://smarthernews.com/18-08-13-plastic/)
+      polyurethane foams in mattresses and car seats. Read more here.</p><p><a
+      href="https://smarthernews.com/18-08-13-plastic/">view
+      sources</a></p></div>
     _key: card-10-4d4c973b-a48c-4760-b6d4-846ee794ccb9
 
 ---

@@ -22,19 +22,17 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“Let us not take ourselves too seriously. None of us has a monopoly of
-      wisdom.”_
+      <blockquote><em>“Let us not take ourselves too seriously. None of us has a
+      monopoly of wisdom.”</em></blockquote>
     citation: Queen Elizabeth II
     _key: card-1-cbfab59f-66cb-4931-acef-bcb8e67be3fe
   - order: 1
     useCheckmark: true
     body: >-
-      President Trump, joined by his wife, met Queen Elizabeth for tea Friday
-      during his European trip. Queen Elizabeth has met with every U.S.
-      President since 1951 - except for Pres. Johnson.
-
-
-      [view sources](https://smarthernews.com/18-07-13-qtd/)
+      <div><p>President Trump, joined by his wife, met Queen Elizabeth for tea
+      Friday during his European trip. Queen Elizabeth has met with every U.S.
+      President since 1951 - except for Pres. Johnson.</p><p><a
+      href="https://smarthernews.com/18-07-13-qtd/">view sources</a></p></div>
     _key: card-10-a8c93389-177b-4937-abe2-371382c3a250
 
 ---

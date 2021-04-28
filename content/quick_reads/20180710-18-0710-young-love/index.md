@@ -21,91 +21,63 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # IS YOUNG LOVE…ETERNAL?
-
-      > Justin Bieber, Ariana Grande, Cardi B…  
-      all young celebrities choosing their spouses early.  
-        
-        
-        
-      **Will it last?**
-
-      Here's The Data
+    body: >-
+      <div><h1>IS YOUNG LOVE…ETERNAL?</h1><blockquote>Justin Bieber, Ariana
+      Grande, Cardi B…<br>all young celebrities choosing their spouses
+      early.<br><br><br><br><strong>Will it last?</strong></blockquote><p>Here's
+      The Data</p></div>
     _key: card-1-5347e767-9d3f-417e-9505-5f9558a0da1f
   - order: 1
     useCheckmark: false
     body: >-
-      ## “But They’re So Young…”
-
-
-      Singer Justin Bieber (24) engaged to model Hailey Baldwin (21).
-
-
-      Singer Ariana Grande (25) engaged to Saturday Night Live comedian Pete
-      Davidson (24).
-
-
-      Entertainer/Rapper Cardi B (25) married hip hop artist “Offset” (26).
-
-
-      Cold Hard Facts
+      <div><h2>“But They’re So Young…”</h2><p>Singer Justin Bieber (24) engaged
+      to model Hailey Baldwin (21).</p><p>Singer Ariana Grande (25) engaged to
+      Saturday Night Live comedian Pete Davidson (24).</p><p>Entertainer/Rapper
+      Cardi B (25) married hip hop artist “Offset” (26).</p><p>Cold Hard
+      Facts</p></div>
     _key: card-2-62f76869-db59-4f7b-87d9-754b2fbb2fe7
   - order: 2
     useCheckmark: false
     body: >-
-      ## What Research Says:
-
-
-      * Divorce rates within the first five years of marriage**dramatically
-      decrease** if you marry between the ages of 25 – 35…but**increase if you
-      marry****younger OR older**.
-
-      * Higher success rates of marriage for couple committed (not necessarily
-      married) AFTER age 23-years-old; 60% divorce rate before 23 vs approx. 30%
-      divorce rate after.
+      <div><h2>What Research Says:</h2><ul><li>Divorce rates within the first
+      five years of marriage <strong>dramatically decrease</strong> if you marry
+      between the ages of 25 – 35…but <strong>increase if you marry</strong>
+      <strong>younger OR older</strong>.</li><li>Higher success rates of
+      marriage for couple committed (not necessarily married) AFTER age
+      23-years-old; 60% divorce rate before 23 vs approx. 30% divorce rate
+      after.</li></ul></div>
     _key: card-3-b46ea5d3-de2a-420a-90f6-9445892d2fca
   - order: 3
     useCheckmark: false
     body: >-
-      > “…older marriages now have higher divorce rates than those marrying
-      28-32. I didn’t see this 20 years ago.A The mystery is why this has
-      happened.”  
-        
-        
-      Pro. Nicholas H. Wolfinger to SmartHER News. Wolfinger has extensively
-      researched marriage & divorce. His work shows success rates for marriage
-      increase if you "wait to get married, but not too long."
-
-
-      [Click Here: His
-      Take](https://ifstudies.org/blog/want-to-avoid-divorce-wait-to-get-married-but-not-too-long/)
+      <div><blockquote>“…older marriages now have higher divorce rates than
+      those marrying 28-32. I didn’t see this 20 years ago.A The mystery is why
+      this has happened.”<br><br><br>Pro. Nicholas H. Wolfinger to SmartHER
+      News. Wolfinger has extensively researched marriage &amp; divorce. His
+      work shows success rates for marriage increase if you "wait to get
+      married, but not too long."</blockquote><p><a
+      href="https://ifstudies.org/blog/want-to-avoid-divorce-wait-to-get-married-but-not-too-long/">Click
+      Here: His Take</a></p></div>
     _key: card-4-b8174272-4ee5-42a4-8d5b-fbdd3963667d
   - order: 4
     useCheckmark: false
     body: >-
-      ## What’s “normal” marrying age in U.S.A?
-
-
-      * In 2017, the oldest age for first marriages recorded in U.S.:  
-
-      **Women = 27.4 years-old**  
-
-      **Men = 29.5 years-old**
-
-      * Median marrying age in 1947 (when data started being collected every
-      year until present time):**Women: 20.5 & Men: 23.7A** (Census).
+      <div><h2>What’s “normal” marrying age in U.S.A?</h2><ul><li>In 2017, the
+      oldest age for first marriages recorded in U.S.:<br><strong>Women = 27.4
+      years-old</strong><br><strong>Men = 29.5 years-old</strong></li><li>Median
+      marrying age in 1947 (when data started being collected every year until
+      present time): <strong>Women: 20.5 &amp; Men: 23.7A</strong>
+      (Census).</li></ul></div>
     _key: card-5-2c8a840b-525e-4417-bf98-faedf61d6a26
   - order: 5
     useCheckmark: true
     body: >-
-      Marriage rates in America have dropped in recent years; Divorce rates have
-      risen. Data is mixed on whether thats due to "cohabitation" without a ring
-      & a date. A great new article addresses the data thoroughly - it's a must
-      read:
-
-
-      [view sources](https://smarthernews.com/18-0710-young-love/)
+      <div><p>Marriage rates in America have dropped in recent years; Divorce
+      rates have risen. Data is mixed on whether thats due to "cohabitation"
+      without a ring &amp; a date. A great new article addresses the data
+      thoroughly - it's a must read:</p><p><a
+      href="https://smarthernews.com/18-0710-young-love/">view
+      sources</a></p></div>
     _key: card-10-3dde495d-340b-45b9-873f-34413e33bb28
 
 ---

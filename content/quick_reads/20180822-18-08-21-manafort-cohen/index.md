@@ -22,84 +22,61 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # YOUR TAX DOLLAR$ AT WORK
-
-
-      ## $17+Million
-
-
-      Estimated costs to date in direct/indirect expenses of the “Mueller”
-      Special Counsel investigation.  
-        
-      Here’s what we’ve learned from the investigation aimed at protecting
-      America’s democracy.
+      <div><h1>YOUR TAX DOLLAR$ AT WORK</h1><h2>$17+Million</h2><p>Estimated
+      costs to date in direct/indirect expenses of the “Mueller” Special Counsel
+      investigation.<br><br>Here’s what we’ve learned from the investigation
+      aimed at protecting America’s democracy.</p></div>
     _key: card-1-5d6bda8e-b5c8-4e68-9a95-587c9d7ce5e7
   - order: 1
     useCheckmark: false
     body: >-
-      ## THE “FIRSTS”
-
-
-      * Pres. Trump’s one-time campaign manager,**Paul Manafort:**A**first
-      indicted by Special Counsel** &**first to be found guilty** by a jury.
-
-      * Manafort convicted of 8 felonies –**none relating to the 2016 election
-      OR Russian meddling**.
-
-      * Pres. Trump’s fmr lawyer,**Michael Cohen:**A**first to plead guilty** to
-      charges resulting from a reported referral from the Special Counsel.
+      <div><h2>THE “FIRSTS”</h2><ul><li>Pres. Trump’s one-time campaign manager,
+      <strong>Paul Manafort:</strong>A <strong>first indicted by Special
+      Counsel</strong> &amp; <strong>first to be found guilty</strong> by a
+      jury.</li><li>Manafort convicted of 8 felonies – <strong>none relating to
+      the 2016 election OR Russian meddling</strong>.</li><li>Pres. Trump’s fmr
+      lawyer, <strong>Michael Cohen:</strong>A <strong>first to plead
+      guilty</strong> to charges resulting from a reported referral from the
+      Special Counsel.</li></ul></div>
     _key: card-2-ac89022d-ffa0-4594-b7e2-2f9de0087093
   - order: 2
     useCheckmark: false
     body: >-
-      # WHY IT MATTERS:
-
-
-      Manafort’s convictions haveA**ZERO** to do with Pres. Trump or election.
-
-
-      **Cohen pleaded guilty to 8 felonies, incl 2 campaign finance charges
-      related to 2016 election.** Prosecutor said he_“worked to pay money
-      to**silence two women** who had information that he believed would be
-      detrimental to the 2016 campaign…”_
+      <div><h1>WHY IT MATTERS:</h1><p>Manafort’s convictions haveA
+      <strong>ZERO</strong> to do with Pres. Trump or
+      election.</p><p><strong>Cohen pleaded guilty to 8 felonies, incl 2
+      campaign finance charges related to 2016 election.</strong> Prosecutor
+      said he <em>“worked to pay money to <strong>silence two women</strong> who
+      had information that he believed would be detrimental to the 2016
+      campaign…”</em></p></div>
     _key: card-3-ddcc2d5a-76e1-4dab-be0d-03f7d1652738
   - order: 3
     useCheckmark: false
     body: >-
-      ## NOW WHAT?
-
-
-      **MANAFORT:**A faces up to 80 years behind bars. He also faces another
-      trial in D.C. next month.
-
-
-      **COHEN:**A sentencing slated for December. He faces 3 – 5 yrs in prison.
-
-
-      **What it means for President Trump? TBD**
+      <div><h2>NOW WHAT?</h2><p><strong>MANAFORT:</strong>A faces up to 80 years
+      behind bars. He also faces another trial in D.C. next
+      month.</p><p><strong>COHEN:</strong>A sentencing slated for December. He
+      faces 3 – 5 yrs in prison.</p><p><strong>What it means for President
+      Trump? TBD</strong></p></div>
     _key: card-4-42e76558-4312-42e0-9189-1b3e0f546ea1
   - order: 4
     useCheckmark: false
     body: >-
-      > “Cohen … is more than happy to tell the Special Counsel all that he
-      knows – not just about the obvious possibility of a conspiracy to collude
-      and corrupt the American democracy system in the 2016 election…”  
-        
-        
-        
-      Michael Cohen's attorney, Lanny Davis. Davis is best known for serving in
-      the Clinton White House.
+      <blockquote>“Cohen … is more than happy to tell the Special Counsel all
+      that he knows – not just about the obvious possibility of a conspiracy to
+      collude and corrupt the American democracy system in the 2016
+      election…”<br><br><br><br>Michael Cohen's attorney, Lanny Davis. Davis is
+      best known for serving in the Clinton White House.</blockquote>
     _key: card-5-0865a86a-e963-4fc0-b3a7-64c104623e3b
   - order: 5
     useCheckmark: true
     body: >-
-      Pres. Trump called the Manafort trial a "witch hunt and disgrace." He has
-      yet to speak publicly about Cohen's case. Meanwhile, the Special Counsel's
-      investigation is entering its sixteenth month as WSJ reports of Russian
-      hacking ahead of the 2018 midterm elections.
-
-
-      [view sources](https://smarthernews.com/18-08-21-manafort-cohen/)
+      <div><p>Pres. Trump called the Manafort trial a "witch hunt and disgrace."
+      He has yet to speak publicly about Cohen's case. Meanwhile, the Special
+      Counsel's investigation is entering its sixteenth month as WSJ reports of
+      Russian hacking ahead of the 2018 midterm elections.</p><p><a
+      href="https://smarthernews.com/18-08-21-manafort-cohen/">view
+      sources</a></p></div>
     _key: card-10-914d8a88-14ac-4666-b562-7b335d54bf2b
 
 ---

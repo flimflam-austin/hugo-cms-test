@@ -21,82 +21,59 @@ colorpaletteclassname: '--white'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      > SmartHER Positano
-
-      Flip: Ciao Bella
+    body: >-
+      <div><blockquote>SmartHER Positano</blockquote><p>Flip: Ciao
+      Bella</p></div>
     citation: 'Flip: Ciao Bella'
     _key: card-1-131c6dd4-3c34-4f3f-8852-bdb350dc17f5
   - order: 1
     useCheckmark: false
     body: >-
-      > “I thought no exotic destination could ever match our Honeymoon in Bora
-      Boraa|. until we arrived on the Amalfi Coast, and Positano literally took
-      my breath away.”  
-        
-        
-        
-      SmatHER reader, Kit Schumaker shares her tips for a romantic getaway to
-      Positano on Italy's Amalfi Coast.
+      <blockquote>“I thought no exotic destination could ever match our
+      Honeymoon in Bora Boraa|. until we arrived on the Amalfi Coast, and
+      Positano literally took my breath away.”<br><br><br><br>SmatHER reader,
+      Kit Schumaker shares her tips for a romantic getaway to Positano on
+      Italy's Amalfi Coast.</blockquote>
     _key: card-2-38b41195-2d25-4e55-bc60-82acbf345700
   - order: 2
     useCheckmark: false
     body: >-
-      ## Getting There
-
-
-      > “My husband can drive anywhere, on the wrong side of the road, in the
-      middle of Paris – but he was very glad that we hired a driver from
-      Naples.”  
-        
-        
-        
-      Kit says the road to Positano is an adventure all its own! Speaking of
-      "traffic," the ideal months to visit the Amalfi Coast are May & September
-      when the weather is good, crowds lighter and prices less expensive.
+      <div><h2>Getting There</h2><blockquote>“My husband can drive anywhere, on
+      the wrong side of the road, in the middle of Paris – but he was very glad
+      that we hired a driver from Naples.”<br><br><br><br>Kit says the road to
+      Positano is an adventure all its own! Speaking of "traffic," the ideal
+      months to visit the Amalfi Coast are May &amp; September when the weather
+      is good, crowds lighter and prices less expensive.</blockquote></div>
     _key: card-3-aef0a3bc-ba6b-4090-b001-444a4e005e5b
   - order: 3
     useCheckmark: false
     body: >-
-      > “After climbing up and down steps all day, there is no guilt in the
-      evening as you enjoy the best homemade pasta and fresh fish you have ever
-      eaten!”  
-        
-        
-        
-      Kit gave us a list of "not to miss" cafes on our source page but also this
-      great tip: Pasquale Volpe, an amazing Impressionist artist, can be found
-      most days on the beach painting.
-
-
-      Flip: Where To Go
+      <div><blockquote>“After climbing up and down steps all day, there is no
+      guilt in the evening as you enjoy the best homemade pasta and fresh fish
+      you have ever eaten!”<br><br><br><br>Kit gave us a list of "not to miss"
+      cafes on our source page but also this great tip: Pasquale Volpe, an
+      amazing Impressionist artist, can be found most days on the beach
+      painting.</blockquote><p>Flip: Where To Go</p></div>
     _key: card-4-a1ecdb2d-a967-4a20-b57f-a9a968f1911d
   - order: 4
     useCheckmark: false
     body: >-
-      ## In Nearby Capri
-
-
-      > “…hike up to Mount Tiberius, at the very top of the island – you are
-      literally on top of the world! A This is where the Emperor Tiberius used
-      to toss people he didn’t like off the cliff into the sea, so it’s much
-      more enjoyable to visit Capri today.”  
-        
-        
-        
-      Kit didn't want to leave Positano but says a quick day trip to the island
-      of Capri is a must.
+      <div><h2>In Nearby Capri</h2><blockquote>“…hike up to Mount Tiberius, at
+      the very top of the island – you are literally on top of the world! A This
+      is where the Emperor Tiberius used to toss people he didn’t like off the
+      cliff into the sea, so it’s much more enjoyable to visit Capri
+      today.”<br><br><br><br>Kit didn't want to leave Positano but says a quick
+      day trip to the island of Capri is a must.</blockquote></div>
     _key: card-5-520a67a1-6776-4a16-a5b6-799bfaa8f99d
   - order: 5
     useCheckmark: true
     body: >-
-      We asked Kit how she looked so glamorous while traveling - Her response?
-      "When in Italy all you need is to wear white and sunglasses and a man in a
-      fedora doesn't hurt." Love it! Have a SmartHER Tip? Email us:
-      Info@SmartHERNews.com
-
-
-      [view sources](https://smarthernews.com/18-06-05-positano/)
+      <div><p>We asked Kit how she looked so glamorous while traveling - Her
+      response? "When in Italy all you need is to wear white and sunglasses and
+      a man in a fedora doesn't hurt." Love it! Have a SmartHER Tip? Email us:
+      Info@SmartHERNews.com</p><p><a
+      href="https://smarthernews.com/18-06-05-positano/">view
+      sources</a></p></div>
     _key: card-10-4e15026d-2069-49b4-a6b0-1b6ea2225418
 
 ---

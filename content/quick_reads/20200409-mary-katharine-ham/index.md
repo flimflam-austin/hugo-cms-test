@@ -21,17 +21,19 @@ colorpaletteclassname: '--dark-green'
 cards:
   - order: 0
     useCheckmark: false
-    body: '## _“…crises can teach you a lot about your capabilities.”_'
+    body: >-
+      <div><h2><em>“…crises can teach you a lot about your
+      capabilities.”</em></h2><p></p></div>
     citation: MARY KATHARINE HAM
     _key: 8290d06bbe6c
   - order: 1
     useCheckmark: true
     body: >-
-      Writer Ham shares lessons learned navigating an unexpected crisis: the
-      death of her husband while pregnant with her second child. A must read
+      <div><p>Writer Ham shares lessons learned navigating an unexpected crisis:
+      the death of her husband while pregnant with her second child. A must read
       article for anyone who needs actionable perspective during this pandemic:
       "Write your story, start small, get a tiny bit better every day, and give
-      yourself a break."
+      yourself a break."</p><p></p></div>
     citation: VIEW SOURCES
     _key: 38253dc367bc
 

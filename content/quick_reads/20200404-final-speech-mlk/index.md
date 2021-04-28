@@ -21,62 +21,45 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # April 3, 1968
-
-      >   
-        
-        
-        
-      The final speech
+    body: >-
+      <div><h1>April 3, 1968</h1><blockquote><br><br><br><br>The final
+      speech</blockquote></div>
     _key: b55278812f4a
   - order: 1
     useCheckmark: false
     body: >-
-      > “We’ve got some difficult days ahead. … Like anybody, I would like to
-      live a long life. Longevity has its place. But I’m not concerned about
-      that now. I just want to do God’s will … I may not get there with you. But
-      I want you to know tonight, that we, as a people, will get to the promised
-      land.”
-
-
-      MLK, April 3, 1968, in his last speech before he was assassinated.
+      <div><blockquote>“We’ve got some difficult days ahead. … Like anybody, I
+      would like to live a long life. Longevity has its place. But I’m not
+      concerned about that now. I just want to do God’s will … I may not get
+      there with you. But I want you to know tonight, that we, as a people, will
+      get to the promised land.”</blockquote><p>MLK, April 3, 1968, in his last
+      speech before he was assassinated.</p></div>
     _key: cbe676ab0db9
   - order: 2
     useCheckmark: false
     body: >-
-      ## 24 Hours Later:
-
-
-      * MLK Jr. was in Memphis on April 4, 1968 helping sanitation workers on
-      strike when he was killed.
-
-      * Despite MLK’s dedication to nonviolent protest, riots broke out across
-      the U.S. after his murder.
-
-      * Lone gunman convicted for MLK’s murder, but his family never believed he
-      worked alone.
+      <div><h2>24 Hours Later:</h2><ul><li>MLK Jr. was in Memphis on April 4,
+      1968 helping sanitation workers on strike when he was
+      killed.</li><li>Despite MLK’s dedication to nonviolent protest, riots
+      broke out across the U.S. after his murder.</li><li>Lone gunman convicted
+      for MLK’s murder, but his family never believed he worked
+      alone.</li></ul></div>
     _key: 4de53dd8d8c6
   - order: 3
     useCheckmark: false
     body: >-
-      # Lasting Legacy
-
-
-      His leadership changed America…  
-
-      leading to the end of segregation, the 1964 Civil Rights Act (ending
-      discrimination based on race, gender, creed) & the 1965 Voting Rights Act.
-
-
-      MLK Jr. delivered his famous “I have a dream speech” in 1963.
+      <div><h1>Lasting Legacy</h1><p>His leadership changed America…<br>leading
+      to the end of segregation, the 1964 Civil Rights Act (ending
+      discrimination based on race, gender, creed) &amp; the 1965 Voting Rights
+      Act.</p><p>MLK Jr. delivered his famous “I have a dream speech” in
+      1963.</p></div>
     _key: 3fb05511505f
   - order: 4
     useCheckmark: true
     body: >-
-      MLK is one of only two people with a U.S. federal holiday honoring their
-      birth (the other one is George Washington). How it became a holiday (and
-      how it almost didn't):
+      <div><p>MLK is one of only two people with a U.S. federal holiday honoring
+      their birth (the other one is George Washington). How it became a holiday
+      (and how it almost didn't):</p><p></p></div>
     citation: VIEW SOURCES
     _key: 4c45cf0b2ca1
 

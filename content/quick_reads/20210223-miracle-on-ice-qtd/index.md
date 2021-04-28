@@ -21,18 +21,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“Great moments are born from great opportunity … You were meant to be
-      here. This moment is yours.”_
+      <div><blockquote><em>“Great moments are born from great opportunity … You
+      were meant to be here. This moment is
+      yours.”</em></blockquote><p><br></p></div>
     citation: HERB BROOKS
     _key: c75a66c7d78e
   - order: 1
     useCheckmark: true
     body: >-
-      Head coach Herb Brooks inspired the amateur U.S. Olympic hockey team
+      <p>Head coach Herb Brooks inspired the amateur U.S. Olympic hockey team
       before one of the greatest upsets in sports history, defeating the Soviet
       Union 4-3 on Feb. 22, 1980. "The Miracle on Ice" came during a tumultuous
-      time - the Cold War, U.S. hostages held in Iran, long gas lines & rising
-      crime. The U.S. team went on to win the gold medal.
+      time - the Cold War, U.S. hostages held in Iran, long gas lines &amp;
+      rising crime. The U.S. team went on to win the gold medal.</p>
     citation: VIEW SOURCES
     _key: 172735b75ec5
 

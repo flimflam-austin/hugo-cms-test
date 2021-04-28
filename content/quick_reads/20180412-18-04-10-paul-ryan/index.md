@@ -21,86 +21,61 @@ colorpaletteclassname: '--white'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # GRAB THE GLOVES!
-
-      ## The Battle Begins
-
-      Speaker of the House, Paul Ryan (R-WI), will not seek re-election.
-
-      Who succeeds him matters politically &**nationally**.
-
-      flip: It Could Be You
+    body: >-
+      <div><h1>GRAB THE GLOVES!</h1><h2>The Battle Begins</h2><p>Speaker of the
+      House, Paul Ryan (R-WI), will not seek re-election.</p><p>Who succeeds him
+      matters politically &amp; <strong>nationally</strong>.</p><p>flip: It
+      Could Be You</p></div>
     citation: 'flip: It Could Be You'
     _key: card-1-e01ca2a6-d16a-4fcf-aac3-7ede9048253e
   - order: 1
     useCheckmark: false
     body: >-
-      # Speaker of the House
-
-
-      ## Why It Matters:
-
-
-      The leader of the House of Representatives supervises administrative
-      duties within the House and serves as the top representative of elected
-      officials (aka congressmen/women) nationally & especially, before the
-      President.
+      <div><h1>Speaker of the House</h1><h2>Why It Matters:</h2><p>The leader of
+      the House of Representatives supervises administrative duties within the
+      House and serves as the top representative of elected officials (aka
+      congressmen/women) nationally &amp; especially, before the
+      President.</p></div>
     _key: card-2-f697dd6b-88c8-4b2a-b77d-0d9a79873818
   - order: 2
     useCheckmark: false
     body: >-
-      ## History
-
-
-      * **Mandated by Constitution** (but no official rules on HOW a Speaker
-      should be elected).
-
-      * Modeled after British House of Commons. The Speaker kept order over
-      elected officials representing the “Average Joes.” Speaker spoke for the
-      monarchy within the Commons…while ALSO speaking for elected officials
-      before the monarchy.
+      <div><h2>History</h2><ul><li><strong>Mandated by Constitution</strong>
+      (but no official rules on HOW a Speaker should be
+      elected).</li><li>Modeled after British House of Commons. The Speaker kept
+      order over elected officials representing the “Average Joes.” Speaker
+      spoke for the monarchy within the Commons…while ALSO speaking for elected
+      officials before the monarchy.</li></ul></div>
     _key: card-3-a660bc7b-1e72-4a3d-b43c-5f13398668b6
   - order: 3
     useCheckmark: false
     body: >-
-      ## Will Republicans Lose Majority In The House?
-
-
-      * Speaker Ryan joins**40 other Republicans not seeking re-election** Nov
-      2018; Dems need to win 23 seats for the majority.
-
-      * Speaker Ryan could’ve run for re-election, win & then retire – securing
-      a Republican seat. Ryan said he just couldn’t lie to his constituents
-      about his intent.
+      <div><h2>Will Republicans Lose Majority In The House?</h2><ul><li>Speaker
+      Ryan joins <strong>40 other Republicans not seeking re-election</strong>
+      Nov 2018; Dems need to win 23 seats for the majority.</li><li>Speaker Ryan
+      could’ve run for re-election, win &amp; then retire – securing a
+      Republican seat. Ryan said he just couldn’t lie to his constituents about
+      his intent.</li></ul></div>
     _key: card-4-9b8d7837-9d58-4ca8-b794-db6698b943f7
   - order: 4
     useCheckmark: false
     body: >-
-      U.S. House Speaker:  
-
-      Facts We Love
-
-
-      * Only**54 lawmakers** have served as “Speaker of the House” in America’s
-      242 year history.
-
-      * The state with most Speakers?**Massachusetts**
-
-      * Pres. James Polk is the**only Speaker elected to President**.
-
-      * **First Woman Speaker:** Nancy Pelosi (2007 ) 218 years after the First
-      Speaker was elected.
+      <div><p>U.S. House Speaker:<br>Facts We Love</p><ul><li>Only <strong>54
+      lawmakers</strong> have served as “Speaker of the House” in America’s 242
+      year history.</li><li>The state with most Speakers?
+      <strong>Massachusetts</strong></li><li>Pres. James Polk is the
+      <strong>only Speaker elected to President</strong>.</li><li><strong>First
+      Woman Speaker:</strong> Nancy Pelosi (2007 ) 218 years after the First
+      Speaker was elected.</li></ul></div>
     _key: card-5-8cdf07e8-fa8e-4162-a246-df811db2a1aa
   - order: 5
     useCheckmark: true
     body: >-
-      So who will be the next Speaker of the House? You could be! Why? Because
-      the Speaker doesn't have to be an elected official, even though he/she's
-      always been one.
-
-
-      [view sources](https://smarthernews.com/18-04-10-paul-ryan/)
+      <div><p>So who will be the next Speaker of the House? You could be! Why?
+      Because the Speaker doesn't have to be an elected official, even though
+      he/she's always been one.</p><p><a
+      href="https://smarthernews.com/18-04-10-paul-ryan/">view
+      sources</a></p></div>
     _key: card-10-76da5d7e-e9af-4232-ac79-d9a7c4389711
 
 ---

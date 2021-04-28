@@ -22,64 +22,57 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “Some say 15 years, if you go rapidly.”  
-        
-        
-      Pres. Trump to ABC News following the Singapore Summit on how long it will
-      take to denuclearize North Korea. The historic summit did not produce a
-      way to achieve this goal, but it did produce an agreement *to start
-      another* agreement on denuclearization.
+      <blockquote>“Some say 15 years, if you go rapidly.”<br><br><br>Pres. Trump
+      to ABC News following the Singapore Summit on how long it will take to
+      denuclearize North Korea. The historic summit did not produce a way to
+      achieve this goal, but it did produce an agreement *to start another*
+      agreement on denuclearization.</blockquote>
     _key: card-1-cea50d86-de22-4dd7-8c8b-a607a8858790
   - order: 1
     useCheckmark: false
     body: >-
-      > “…little did we know he could run across the side of the building.”  
-        
-      An onlooker in St. Paul, Minnesota on a raccoon stranded on the ledge of
-      the UBS building, captivating the city & social media. The raccoon made it
-      as high as the 23rd floor. Nearby Minnesota Public Radio branded the
-      raccoon with the hashtag #mprraccoon with updates trending on Twitter
-      Tuesday. The critter also spawned 2 parody accounts.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/Fh3WsBEWOA0?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>“…little did we know he could run across the side of the
+      building.”<br><br>An onlooker in St. Paul, Minnesota on a raccoon stranded
+      on the ledge of the UBS building, captivating the city &amp; social media.
+      The raccoon made it as high as the 23rd floor. Nearby Minnesota Public
+      Radio branded the raccoon with the hashtag #mprraccoon with updates
+      trending on Twitter Tuesday. The critter also spawned 2 parody
+      accounts.</blockquote><p><a
+      href="https://www.youtube.com/embed/Fh3WsBEWOA0?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-2-6627a5bb-a31b-4f69-a2a3-a088fcfe7210
   - order: 2
     useCheckmark: false
     body: >-
-      "If there ever were an antitrust case where the parties had a dramatically
-      different assessment of the current state of the relevant market & a
-      fundamentally different vision of its future development, this is the
-      one.”  
-        
-        
-      Federal judge Richard J. Leon's opinion approving AT&T's $85B takeover of
-      Time Warner. Deal gives AT&T ownership of HBO, CNN, & Warner Bros. DOJ
-      sued to block the merger over concerns of higher costs for consumers.
+      <p>"If there ever were an antitrust case where the parties had a
+      dramatically different assessment of the current state of the relevant
+      market &amp; a fundamentally different vision of its future development,
+      this is the one.”<br><br><br>Federal judge Richard J. Leon's opinion
+      approving AT&amp;T's $85B takeover of Time Warner. Deal gives AT&amp;T
+      ownership of HBO, CNN, &amp; Warner Bros. DOJ sued to block the merger
+      over concerns of higher costs for consumers.</p>
     _key: card-3-f796c8ec-00c4-4424-a18c-e36197e870ae
   - order: 3
     useCheckmark: false
-    body: "> “The asylum system is being abused …. Asylum was never meant to alleviate all problems a\x14 even all serious problems a\x14 that people face every day all over the world.”  \n  \nAttorney General Jeff Sessions announcing a new policy making it more difficult for victims of gang & domestic violence to obtain asylum in the U.S."
+    body: "<blockquote>“The asylum system is being abused …. Asylum was never meant to alleviate all problems a\x14 even all serious problems a\x14 that people face every day all over the world.”<br><br>Attorney General Jeff Sessions announcing a new policy making it more difficult for victims of gang &amp; domestic violence to obtain asylum in the U.S.</blockquote>"
     _key: card-4-a1b5e19b-f8fd-4f0c-a335-0ac59539e968
   - order: 4
     useCheckmark: false
     body: >-
-      > “…a matter of time before a cybersecurity breach on an airline
-      occurs.”  
-        
-      Researchers from the Pacific Northwest Natl Laboratory warning after a
-      Dept of Homeland Security decided to launch "nose to tail" tests of a
-      Boeing 757 for hacking weak spots in documents provided to CBS News. The
-      757 hasn't been made since 2004 but is an "aging workhorse" for American,
-      Delta & United. Boeing maintains its planes are safe.
+      <blockquote>“…a matter of time before a cybersecurity breach on an airline
+      occurs.”<br><br>Researchers from the Pacific Northwest Natl Laboratory
+      warning after a Dept of Homeland Security decided to launch "nose to tail"
+      tests of a Boeing 757 for hacking weak spots in documents provided to CBS
+      News. The 757 hasn't been made since 2004 but is an "aging workhorse" for
+      American, Delta &amp; United. Boeing maintains its planes are
+      safe.</blockquote>
     _key: card-5-ef327ecb-2a7b-412c-bcf1-f5c1f48a47ab
   - order: 5
     useCheckmark: true
-    body: |-
-      Get even SmartHer by clicking here to read more.
-
-      [view sources](https://smarthernews.com/18-06-13-qq-wednesday/)
+    body: >-
+      <div><p>Get even SmartHer by clicking here to read more.</p><p><a
+      href="https://smarthernews.com/18-06-13-qq-wednesday/">view
+      sources</a></p></div>
     _key: card-10-04b542f9-6ebc-4eac-8fda-623156c23de4
 
 ---

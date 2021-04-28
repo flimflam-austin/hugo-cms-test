@@ -22,54 +22,47 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## _“Follow your passion. Whatever you’re doing, do your best at all times
-      and make it as correct as possible_.”
+      <div><h2><em>“Follow your passion. Whatever you’re doing, do your best at
+      all times and make it as correct as possible</em>.”</h2><p></p></div>
     citation: KATHERINE JOHNSON
     _key: 99e21fcbb5b1
   - order: 1
     useCheckmark: false
     body: >-
-      At 101, Katherine Johnson, the former NASA mathematician and “human
-      computer” who helped develop human spaceflight in America, died Monday.
-
-
-      * For her contributions to science, technology, engineering, and
-      mathematics, she was awarded the Presidential Medal of Freedom in 2015.
-
-      * She was depicted in the 2016 film “Hidden Figures” about how black women
-      mathematicians impacted the Space Race in the 1960s.
+      <div><p>At 101, Katherine Johnson, the former NASA mathematician and
+      “human computer” who helped develop human spaceflight in America, died
+      Monday.</p><ul><li>For her contributions to science, technology,
+      engineering, and mathematics, she was awarded the Presidential Medal of
+      Freedom in 2015.</li><li>She was depicted in the 2016 film “Hidden
+      Figures” about how black women mathematicians impacted the Space Race in
+      the 1960s.</li></ul></div>
     _key: d523e51b2e2b
   - order: 2
     useCheckmark: false
     body: >-
-      “She was an American hero and her pioneering legacy will never be
-      forgotten.”
-
-
-      NASA Administrator James Bridenstine. Johnson was born in 1918 in West
-      Virginia and became one of the first African-American students to enroll
-      in a graduate program in the state in the 1930s. For decades,
-      professionally and personally she confronted segregation. She returned to
-      work in the 1950s after giving birth to 3 daughters and worked at NASA for
-      more than 30 years.
+      <div><p>“She was an American hero and her pioneering legacy will never be
+      forgotten.”</p><p>NASA Administrator James Bridenstine. Johnson was born
+      in 1918 in West Virginia and became one of the first African-American
+      students to enroll in a graduate program in the state in the 1930s. For
+      decades, professionally and personally she confronted segregation. She
+      returned to work in the 1950s after giving birth to 3 daughters and worked
+      at NASA for more than 30 years.</p></div>
     _key: 605da63eb5a9
   - order: 3
     useCheckmark: false
     body: >-
-      “Get the girl. If she says they’re good, then I’m ready to go.”
-
-
-      Astronaut John Glenn purportedly said this to NASA engineers who wanted
-      Johnson to personally double check the work of computers that would track
-      his flight as the first American to orbit the earth.
+      <div><p>“Get the girl. If she says they’re good, then I’m ready to
+      go.”</p><p>Astronaut John Glenn purportedly said this to NASA engineers
+      who wanted Johnson to personally double check the work of computers that
+      would track his flight as the first American to orbit the earth.</p></div>
     _key: 3343eb49b668
   - order: 4
     useCheckmark: true
     body: >-
-      Earlier this month, NASA marked the return of astronaut Christina Koch,
-      who set the record for the longest spaceflight by a woman after spending
-      328 days on the International Space Station. America prepares to meet the
-      goal of putting a woman on the moon by 2024.
+      <div><p>Earlier this month, NASA marked the return of astronaut Christina
+      Koch, who set the record for the longest spaceflight by a woman after
+      spending 328 days on the International Space Station. America prepares to
+      meet the goal of putting a woman on the moon by 2024.</p><p><br></p></div>
     citation: VIEW SOURCES
     _key: 316b13b88966
 

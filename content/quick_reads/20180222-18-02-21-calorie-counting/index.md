@@ -22,69 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Stop Counting Calories?
-
-
-      ## Timing Is Everything
-
-
-      Extensive study suggesting calorie counting doesn’t lead to weight loss
-      published just weeks before U.S. gov’t set to implement new rule to combat
-      obesity requiring many restaurants to list calorie counts.
-
-
-      Yum. Flip Here.
+      <div><h1>Stop Counting Calories?</h1><h2>Timing Is
+      Everything</h2><p>Extensive study suggesting calorie counting doesn’t lead
+      to weight loss published just weeks before U.S. gov’t set to implement new
+      rule to combat obesity requiring many restaurants to list calorie
+      counts.</p><p>Yum. Flip Here.</p></div>
     citation: Yum. Flip Here.
     _key: card-1-9811e3f8-74a0-4f98-9bc5-5823d41b1173
   - order: 1
     useCheckmark: false
     body: >-
-      > ‘This is the road map to reducing the obesity epidemic in the United
-      States. It’s time for U.S. and other national policies to stop focusing on
-      calories and calorie counting.’  
-        
-        
-        
-      Dr. Dariush Mozaffarian, Dean of Friedman School of Nutrition Science and
-      Policy at Tufts University
+      <blockquote>‘This is the road map to reducing the obesity epidemic in the
+      United States. It’s time for U.S. and other national policies to stop
+      focusing on calories and calorie counting.’<br><br><br><br>Dr. Dariush
+      Mozaffarian, Dean of Friedman School of Nutrition Science and Policy at
+      Tufts University</blockquote>
     _key: card-2-226ad6bb-f61c-49f5-8897-3cf48878bb92
   - order: 2
     useCheckmark: false
     body: >-
-      ## Study by Journal of the American Medical Association
-
-
-      * Goal: To test whether genetics determines what diets work for certain
-      people and not others.
-
-      * Findings:**Quality over quantity mattered.** Type of food, not calories,
-      led to weight loss.
-
-      * BTW: Genetics alone doesn’t determine ability to lose weight.
+      <div><h2>Study by Journal of the American Medical
+      Association</h2><ul><li>Goal: To test whether genetics determines what
+      diets work for certain people and not others.</li><li>Findings:
+      <strong>Quality over quantity mattered.</strong> Type of food, not
+      calories, led to weight loss.</li><li>BTW: Genetics alone doesn’t
+      determine ability to lose weight.</li></ul></div>
     _key: card-3-bc22f703-c517-4095-8cd5-a4deb365de3c
   - order: 3
     useCheckmark: false
     body: >-
-      ## Meanwhile…In A Restaurant Near You…
-
-
-      * “Menu labeling” aka “calorie counting” expected to be required of all
-      restaurants with more than 20 locations in the U.S by**May 7, 2018**.
-
-      * Obama-era policy related to health care law.
-
-      * Current FDA Director supports implementation.
+      <div><h2>Meanwhile…In A Restaurant Near You…</h2><ul><li>“Menu labeling”
+      aka “calorie counting” expected to be required of all restaurants with
+      more than 20 locations in the U.S by <strong>May 7,
+      2018</strong>.</li><li>Obama-era policy related to health care
+      law.</li><li>Current FDA Director supports implementation.</li></ul></div>
     _key: card-4-495253fd-c3a6-4dea-a4fc-e039b012cfbb
   - order: 4
     useCheckmark: true
     body: >-
-      ‘I think one place we go wrong is telling people to figure out how many
-      calories they eat and then telling them to cut back on 500 calories, which
-      makes them miserable.’ Find out what Dr. Chris Gardner says we should do
-      instead:
-
-
-      [view sources](https://smarthernews.com/18-02-21-calorie-counting/)
+      <div><p>‘I think one place we go wrong is telling people to figure out how
+      many calories they eat and then telling them to cut back on 500 calories,
+      which makes them miserable.’ Find out what Dr. Chris Gardner says we
+      should do instead:</p><p><a
+      href="https://smarthernews.com/18-02-21-calorie-counting/">view
+      sources</a></p></div>
     _key: card-10-06f8b469-18c7-410a-9621-7d545f5593cc
 
 ---

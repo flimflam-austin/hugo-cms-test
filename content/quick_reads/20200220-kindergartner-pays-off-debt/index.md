@@ -22,18 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“It’s all about kindness. With everything that’s going on in the world,
-      we just need a little bit more kindness out there.”_
+      <div><blockquote><em>“It’s all about kindness. With everything that’s
+      going on in the world, we just need a little bit more kindness out
+      there.”</em></blockquote><p></p></div>
     citation: KARINA HARDEE
     _key: 8d4d7266b098
   - order: 1
     useCheckmark: true
     body: >-
-      When Hardee's 5-year-old daughter Katelynn learned some children had
-      trouble paying off their school lunch debt, she started a fundraiser to
-      help. She has now raised $17,000+ and covered the student debt in her
+      <div><p>When Hardee's 5-year-old daughter Katelynn learned some children
+      had trouble paying off their school lunch debt, she started a fundraiser
+      to help. She has now raised $17,000+ and covered the student debt in her
       district. More than 75% of school districts in America carry school lunch
-      debt. Read the story.
+      debt. Read the story.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 698151e9c488
 

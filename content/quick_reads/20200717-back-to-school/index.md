@@ -22,69 +22,53 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Who’s Head Of The Class?
-
-
-      What to know and who’s in charge as families weigh sending their children
-      back to school as communities confront COVID-19.
+      <div><h2>Who’s Head Of The Class?</h2><p>What to know and who’s in charge
+      as families weigh sending their children back to school as communities
+      confront COVID-19.</p></div>
     _key: 5ba680cd5043
   - order: 1
     useCheckmark: false
     body: >-
-      ## Background:
-
-
-      * In America, most decisions about education policy are made at the**state
-      & local level** – not by the federal gov’t.
-
-      * Generally speaking, states set standards for curriculum and provide
-      about half of funding for local school districts.
-
-      * When local districts decide how to operate this fall, they will have to
-      do so based on**school reopening guidelines** drafted by state education &
-      health officials.
+      <div><h2>Background:</h2><ul><li>In America, most decisions about
+      education policy are made at the <strong>state &amp; local level</strong>
+      – not by the federal gov’t.</li><li>Generally speaking, states set
+      standards for curriculum and provide about half of funding for local
+      school districts.</li><li>When local districts decide how to operate this
+      fall, they will have to do so based on <strong>school reopening
+      guidelines</strong> drafted by state education &amp; health
+      officials.</li></ul></div>
     _key: e04605ef7a77
   - order: 2
     useCheckmark: false
-    body: "## What To Know:\n\n* Just about every state has said it “plans” to open schools, but the**definition of “open”**\_**varies greatly** (ex: only 4 states have official August start dates).\n* The**CDC** issued recommendations, and most**states**\_released guidelines with learning format options as well as cleaning & distancing requirements.\n* **School districts**\_will decide how to adapt to state guidelines, leaving**parents** to make a big decision."
+    body: "<div><h2>What To Know:</h2><ul><li>Just about every state has said it “plans” to open schools, but the <strong>definition of “open”</strong>\_<strong>varies greatly</strong> (ex: only 4 states have official August start dates).</li><li>The <strong>CDC</strong> issued recommendations, and most <strong>states</strong>\_released guidelines with learning format options as well as cleaning &amp; distancing requirements.</li><li><strong>School districts</strong>\_will decide how to adapt to state guidelines, leaving <strong>parents</strong> to make a big decision.</li></ul></div>"
     _key: 696345c4899e
   - order: 3
     useCheckmark: false
     body: >-
-      > “We should try as the default to get the kids to stay in school.
-      However, that’s going to vary from where you are in the country and what
-      the dynamics of the outbreak are in your particular region.”
-
-
-      Dr. Fauci explaining why, although it's the goal to get every child back
-      to school as soon as possible, it's important that school reopening
-      decisions are made on the local level based on the data and safety of
-      children & staff.
+      <div><blockquote>“We should try as the default to get the kids to stay in
+      school. However, that’s going to vary from where you are in the country
+      and what the dynamics of the outbreak are in your particular
+      region.”</blockquote><p>Dr. Fauci explaining why, although it's the goal
+      to get every child back to school as soon as possible, it's important that
+      school reopening decisions are made on the local level based on the data
+      and safety of children &amp; staff.</p></div>
     citation: WATCH NOW
     _key: 883d9a33ffe9
   - order: 4
     useCheckmark: false
     body: >-
-      ## The Big Question: Format
-
-
-      Not all school districts have announced fall plans, but proposals
-      tenatively fall into three broad categories:
-
-
-      * **Remote learning** (ex: Los Angeles, CA)
-
-      * **Option of in-person learning OR remote learning** (ex: Memphis, TN)
-
-      * **Hybrid of in-person learning AND remote learning** (ex: New York, NY)
-
-
-      Many plans also include staggered class schedules to reduce overall class
-      size.
+      <div><h2>The Big Question: Format</h2><p>Not all school districts have
+      announced fall plans, but proposals tenatively fall into three broad
+      categories:</p><ul><li><strong>Remote learning</strong> (ex: Los Angeles,
+      CA)</li><li><strong>Option of in-person learning OR remote
+      learning</strong> (ex: Memphis, TN)</li><li><strong>Hybrid of in-person
+      learning AND remote learning</strong> (ex: New York, NY)</li></ul><p>Many
+      plans also include staggered class schedules to reduce overall class
+      size.</p><p><br></p></div>
     _key: aebb2ba8167d
   - order: 5
     useCheckmark: true
-    body: "This past week, NBC interviewed five pediatricians from across the U.S. about schools reopening. All agreed the benefits of sending kids back outweigh the harms and\_said they WILL send their kids back to school in the fall (assuming the schools are, in fact, open). You can watch their discussion on our source page."
+    body: "<div><p>This past week, NBC interviewed five pediatricians from across the U.S. about schools reopening. All agreed the benefits of sending kids back outweigh the harms and\_said they WILL send their kids back to school in the fall (assuming the schools are, in fact, open). You can watch their discussion on our source page.</p><p></p></div>"
     citation: VIEW SOURCES
     _key: 28e2742688d6
 

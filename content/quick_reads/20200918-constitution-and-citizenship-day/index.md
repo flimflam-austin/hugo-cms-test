@@ -22,84 +22,66 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # September 17, 1787
-
-
-      ## U.S. Constitution Signed
-
-
-      > Today honors America’s founding document – the**world’s longest
-      surviving** written government charter.
+      <div><h1>September 17, 1787</h1><h2>U.S. Constitution
+      Signed</h2><blockquote>Today honors America’s founding document – the
+      <strong>world’s longest surviving</strong> written government
+      charter.</blockquote></div>
     _key: 258f6eb96535
   - order: 1
     useCheckmark: false
     body: >-
-      > “It is at all times difficult to draw with precision the line between
-      those rights which must be surrendered, and those which may be preserved;”
-
-
-      George Washington submitting the final draft of the Constitution to the
-      Continental Congress, Sept. 17, 1787. He highlighted the challenge of
-      bringing states together with different "habits, and particular interests"
-      but credited "concessions", "mutual deference" and the spirit of
-      friendship for the final product.
+      <div><blockquote>“It is at all times difficult to draw with precision the
+      line between those rights which must be surrendered, and those which may
+      be preserved;”</blockquote><p>George Washington submitting the final draft
+      of the Constitution to the Continental Congress, Sept. 17, 1787. He
+      highlighted the challenge of bringing states together with different
+      "habits, and particular interests" but credited "concessions", "mutual
+      deference" and the spirit of friendship for the final product.</p></div>
     _key: 9e0ff59492f9
   - order: 2
     useCheckmark: false
     body: >-
-      ## Constitutional Convention
-
-
-      * **Who:** 55 delegates attended the Convention, but only 39 signed.
-
-      * **When:** Written during four-month Convention (May 25 –**Sept 17,
-      1787**).
-
-      * **Where:** Philadelphia, Pennsylvania.
-
-      * **Why:** Created “a new form of government” ~ divided power between the
-      states with a federal government with executive, judicial, & legislative
-      branches.
+      <div><h2>Constitutional Convention</h2><ul><li><strong>Who:</strong> 55
+      delegates attended the Convention, but only 39
+      signed.</li><li><strong>When:</strong> Written during four-month
+      Convention (May 25 – <strong>Sept 17,
+      1787</strong>).</li><li><strong>Where:</strong> Philadelphia,
+      Pennsylvania.</li><li><strong>Why:</strong> Created “a new form of
+      government” ~ divided power between the states with a federal government
+      with executive, judicial, &amp; legislative branches.</li></ul></div>
     _key: a342cab06ebd
   - order: 3
     useCheckmark: false
     body: >-
-      ## WHAT IS CELEBRATED
-
-
-      * **1940:** Congress designated “**I Am An American Day**” as the 3rd
-      Sunday in May to**honor new citizens**.
-
-      * **1952:** Congress moved date to Sept. 17th, naming it “**Citizenship
-      Day**.”
-
-      * **2004:** Congress designated Sept. 17th *BOTH* “**Constitution Day &
-      Citizenship Day**” to commemorate the signing of the U.S. Constitution and
-      “recognize all who, by coming of age or by naturalization, have become
-      citizens.”
+      <div><h2>WHAT IS CELEBRATED</h2><ul><li><strong>1940:</strong> Congress
+      designated “<strong>I Am An American Day</strong>” as the 3rd Sunday in
+      May to <strong>honor new citizens</strong>.</li><li><strong>1952:</strong>
+      Congress moved date to Sept. 17th, naming it “<strong>Citizenship
+      Day</strong>.”</li><li><strong>2004:</strong> Congress designated Sept.
+      17th *BOTH* “<strong>Constitution Day &amp; Citizenship Day</strong>” to
+      commemorate the signing of the U.S. Constitution and “recognize all who,
+      by coming of age or by naturalization, have become
+      citizens.”</li></ul></div>
     _key: 2624b3103038
   - order: 4
     useCheckmark: false
     body: >-
-      ## DID YOU KNOW?
-
-
-      * The first ten amendments are known as the the**Bill of Rights**.
-
-      * The Constitution has been**amended 27 times**, most recently in 1992,
-      adding one of the original amendments that didn’t make the cut in 1791,
-      regarding federal lawmaker pay.
-
-      * **Only one amendment was repealed**. In 1933, the 21st Amendment
-      repealed the 18th Amendment, and put an end to Prohibition.
+      <div><h2>DID YOU KNOW?</h2><ul><li>The first ten amendments are known as
+      the the <strong>Bill of Rights</strong>.</li><li>The Constitution has been
+      <strong>amended 27 times</strong>, most recently in 1992, adding one of
+      the original amendments that didn’t make the cut in 1791, regarding
+      federal lawmaker pay.</li><li><strong>Only one amendment was
+      repealed</strong>. In 1933, the 21st Amendment repealed the 18th
+      Amendment, and put an end to Prohibition.</li></ul></div>
     _key: 249d510b2e4b
   - order: 5
     useCheckmark: true
     body: >-
-      THE NEXT AMENDMENT? In 2019 Congress held the first hearing on the Equal
-      Rights Amendment in 36 years. The amendment, passed by Congress in 1972
-      would have made gender equality a fundamental right, but ultimately, it
-      was not added to the Constitution. See our source page for more.
+      <div><p>THE NEXT AMENDMENT? In 2019 Congress held the first hearing on the
+      Equal Rights Amendment in 36 years. The amendment, passed by Congress in
+      1972 would have made gender equality a fundamental right, but ultimately,
+      it was not added to the Constitution. See our source page for
+      more.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 66ae3ef2c8bc
 

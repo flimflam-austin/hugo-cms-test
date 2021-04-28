@@ -22,69 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # The People’s Tree
-
-
-      > _“We were not canceling Christmas. We were going to figure out a way to
-      do it, one way or the other.”_  
-        
-      The backstory & triumph of  
-
-      the 2020 Capitol Christmas Tree
+      <div><h1>The People’s Tree</h1><blockquote><em>“We were not canceling
+      Christmas. We were going to figure out a way to do it, one way or the
+      other.”</em><br><br>The backstory &amp; triumph of<br>the 2020 Capitol
+      Christmas Tree</blockquote></div>
     _key: 6abbfa313dc5
   - order: 1
     useCheckmark: false
     body: >-
-      ## Backstory
-
-
-      * **1964:** A former Speaker of the House planted a LIVE Christmas tree on
-      the lawn outside the Capitol – it only survived 4 Christmas seasons, but
-      ignited a tradition!
-
-      * **1970:** The U.S. Forest Service started providing the tree that comes
-      from a different national forest every year.
-
-      * **Criteria**: 60-90 ft. tall, “good growth and density,” and “rich in
-      color.” Viewed 360 degrees, it can have no bad sides!
+      <div><h2>Backstory</h2><ul><li><strong>1964:</strong> A former Speaker of
+      the House planted a LIVE Christmas tree on the lawn outside the Capitol –
+      it only survived 4 Christmas seasons, but ignited a
+      tradition!</li><li><strong>1970:</strong> The U.S. Forest Service started
+      providing the tree that comes from a different national forest every
+      year.</li><li><strong>Criteria</strong>: 60-90 ft. tall, “good growth and
+      density,” and “rich in color.” Viewed 360 degrees, it can have no bad
+      sides!</li></ul><p><br></p></div>
     _key: 703b2c05f5ed
   - order: 2
     useCheckmark: false
     body: >-
-      ## Finding The Perfect Tree
-
-
-      * This year’s tree comes from**Colorado**.
-
-      * Usually chosen in person, this year’s selection process was described as
-      “online dating” – with photos and video sent back and forth to find the
-      perfect tree.
-
-      * The Engelmann spruce stands more than five stories high.
-
-      * Dozens of smaller “companion” trees are also sent to the U.S. Capitol
-      for decoration and celebration.
+      <div><h2>Finding The Perfect Tree</h2><ul><li>This year’s tree comes from
+      <strong>Colorado</strong>.</li><li>Usually chosen in person, this year’s
+      selection process was described as “online dating” – with photos and video
+      sent back and forth to find the perfect tree.</li><li>The Engelmann spruce
+      stands more than five stories high.</li><li>Dozens of smaller “companion”
+      trees are also sent to the U.S. Capitol for decoration and
+      celebration.</li></ul></div>
     _key: ab332830b4c4
   - order: 3
     useCheckmark: false
     body: >-
-      “I just thought about all the peace and love and potential for respect,
-      communication, goodwill toward men, Americans and the whole world… And so
-      I came to give it my prayers.”
-
-
-      Colorado resident Lindi Mereness who came to pay her respects to the
-      Colorado spruce that traveled cross-country, wrapped and lying on the bed
-      of a truck, to Washington D.C. to become the Capitol Christmas Tree.
+      <div><p>“I just thought about all the peace and love and potential for
+      respect, communication, goodwill toward men, Americans and the whole
+      world… And so I came to give it my prayers.”</p><p>Colorado resident Lindi
+      Mereness who came to pay her respects to the Colorado spruce that traveled
+      cross-country, wrapped and lying on the bed of a truck, to Washington D.C.
+      to become the Capitol Christmas Tree.</p></div>
     _key: e9990e776b3c
   - order: 4
     useCheckmark: true
     body: >-
-      The National Park Service member who found this tree will plant a new one
-      in its place; he's also responsible for planting 90,000 new trees in
-      Colorado next year. The Capitol Christmas tree will feature thousands of
-      handmade ornaments from children in its native state - this is why it
-      earned the nickname "the People's Tree."
+      <div><p>The National Park Service member who found this tree will plant a
+      new one in its place; he's also responsible for planting 90,000 new trees
+      in Colorado next year. The Capitol Christmas tree will feature thousands
+      of handmade ornaments from children in its native state - this is why it
+      earned the nickname "the People's Tree."</p><p></p></div>
     citation: VIEW SOURCES
     _key: baf36b6d2d5b
 

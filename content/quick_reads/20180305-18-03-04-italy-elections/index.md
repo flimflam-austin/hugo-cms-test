@@ -22,100 +22,69 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Italy Elects New Gov’t  
-
-      Why It Matters
-
-
-      * Italy: European Union (EU) founding member country; symbolic & economic
-      importance.
-
-      * First election in 5 years – will determine gov’t for next 5 years.
-
-      * No clear winner, but Euroskeptic, anti-establishment parties gained most
-      votes, & ruling center-left party lost ground.**This marks a change.**
+      <div><p>Italy Elects New Gov’t<br>Why It Matters</p><ul><li>Italy:
+      European Union (EU) founding member country; symbolic &amp; economic
+      importance.</li><li>First election in 5 years – will determine gov’t for
+      next 5 years.</li><li>No clear winner, but Euroskeptic, anti-establishment
+      parties gained most votes, &amp; ruling center-left party lost ground.
+      <strong>This marks a change.</strong></li></ul></div>
     _key: card-1-5014a0ec-e27f-4371-badb-9ea758680a5d
   - order: 1
     useCheckmark: false
     body: >-
-      Word To Know:  
-
-      “Euroskepticism”
-
-
-      **_Euroskepticism_:**
-
-
-      Political platform that doubts the benefits of a unified Europe aka “EU” &
-      advocates for its dismantling.
-
-
-      _New York Times:_ “That anti-immigrant sentiment, as well as a strong dose
-      of**euroskepticism**, swept Italy this election season.”
+      <div><p>Word To
+      Know:<br>“Euroskepticism”</p><p><strong><em>Euroskepticism</em>:</strong></p><p>Political
+      platform that doubts the benefits of a unified Europe aka “EU” &amp;
+      advocates for its dismantling.</p><p><em>New York Times:</em> “That
+      anti-immigrant sentiment, as well as a strong dose of
+      <strong>euroskepticism</strong>, swept Italy this election
+      season.”</p></div>
     _key: card-2-1c7cbacb-c007-453b-b821-a5883cb7ee0a
   - order: 2
     useCheckmark: false
     body: >-
-      # The Major Players
-
-
-      * **5-Star Movement**:A Euroskeptic, anti-establishment & pro-worker’s
-      rights.
-
-      * Ex-PM Berlusconi’s**Center Right Coalition:** Anti-immigrant &
-      anti-austerity (Berlusconi can’t run due to tax fraud conviction)
-
-      * **Center-Left Coalition**: Former ruling party led by Ex-PM Renzi,
-      focusedA on proposals to revive the economy.
+      <div><h1>The Major Players</h1><ul><li><strong>5-Star Movement</strong>:A
+      Euroskeptic, anti-establishment &amp; pro-worker’s rights.</li><li>Ex-PM
+      Berlusconi’s <strong>Center Right Coalition:</strong> Anti-immigrant &amp;
+      anti-austerity (Berlusconi can’t run due to tax fraud
+      conviction)</li><li><strong>Center-Left Coalition</strong>: Former ruling
+      party led by Ex-PM Renzi, focusedA on proposals to revive the
+      economy.</li></ul></div>
     _key: card-3-41c05a16-b53e-4633-8ac3-70d3ede8ad08
   - order: 3
     useCheckmark: false
     body: >-
-      ## Key Issues: Immigration & the Economy
-
-
-      **600K** have migrated to Italy since the last election in 2013.
-
-
-      **8th largest global economy** is growing, but debt is at the 2nd highest
-      level in Euro area.
-
-
-      Unemployment at**10.8%** with more than 32% of Italians under 25
-      unemployed.
+      <div><h2>Key Issues: Immigration &amp; the
+      Economy</h2><p><strong>600K</strong> have migrated to Italy since the last
+      election in 2013.</p><p><strong>8th largest global economy</strong> is
+      growing, but debt is at the 2nd highest level in Euro
+      area.</p><p>Unemployment at <strong>10.8%</strong> with more than 32% of
+      Italians under 25 unemployed.</p></div>
     _key: card-4-6dfbcd0e-5402-427a-99df-5775942a0ac2
   - order: 4
     useCheckmark: false
     body: >-
-      # No Clear Winner?
-
-
-      * **5-Star movement & Center Right Coalition** win most votes.
-
-      * Any party or coalition needs more than 40% support to win enough seats
-      to govern.**None did.**
-
-      * Meant to encourage coalition building, but may end in a “hung
-      Parliament.”
-
-      * Experts say 2017 changes to Italy’s election laws make it harder for one
-      single party to win.
+      <div><h1>No Clear Winner?</h1><ul><li><strong>5-Star movement &amp; Center
+      Right Coalition</strong> win most votes.</li><li>Any party or coalition
+      needs more than 40% support to win enough seats to govern. <strong>None
+      did.</strong></li><li>Meant to encourage coalition building, but may end
+      in a “hung Parliament.”</li><li>Experts say 2017 changes to Italy’s
+      election laws make it harder for one single party to win.</li></ul></div>
     _key: card-5-73ae7563-a9fb-4666-9721-980122e536df
   - order: 5
     useCheckmark: false
     body: >-
-      > ‘Bottom line: Italy is far from having sorted its longstanding problems,
-      and now it will have new ones. Be prepared for long and complex
-      negotiations that will take months.”  
-        
-        
-        
-      Lorenzo Codogno, founder & chief economist of LC Macro Advisors, NYT March
-      4, 2018
+      <blockquote>‘Bottom line: Italy is far from having sorted its longstanding
+      problems, and now it will have new ones. Be prepared for long and complex
+      negotiations that will take months.”<br><br><br><br>Lorenzo Codogno,
+      founder &amp; chief economist of LC Macro Advisors, NYT March 4,
+      2018</blockquote>
     _key: card-6-195d2a98-1e06-4aea-997c-6c5b745f40a6
   - order: 6
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-03-04-italy-elections/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-03-04-italy-elections/">view
+      sources</a></p>
     _key: card-10-0678098d-976b-457d-9c49-f368082c6627
 
 ---

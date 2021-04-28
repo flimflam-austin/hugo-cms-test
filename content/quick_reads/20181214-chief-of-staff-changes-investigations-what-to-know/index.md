@@ -22,76 +22,55 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      What’s Happening At  
-
-      The White House?
-
-
-      President Trump announces a staffing change as questions swirl about
-      what’s next for the Special Counsel Investigation.
-
-
-      Why It matters
+      <div><p>What’s Happening At<br>The White House? </p><p>President Trump
+      announces a staffing change as questions swirl about what’s next for the
+      Special Counsel Investigation.</p><p>Why It matters</p></div>
     _key: card-1-320ed9fe-1a91-438a-b936-c04114fc5696
   - order: 1
     useCheckmark: false
-    body: "\"John Kelly will be leaving I don’t know if I can say\x18retiring.’ But, he’s a great guy.”  \n  \n  \nPres. Trump speaking to the press about Chief of Staff John Kelly's departure. The fmr. Marine 4-star general, started w/the administration as Sec. of Homeland Security & became Chief of Staff in July 2017. Kelly’s son was killed in Afghanistan. During a notable moment of his tenure, he described what happens when a solider dies at war.\n\n[Watch Now](https://www.youtube.com/embed/At1hOCEIwE8?enablejsapi=1&autoplay=1&rel=0)"
+    body: "<div><p>\"John Kelly will be leaving I don’t know if I can say\x18retiring.’ But, he’s a great guy.”<br><br><br>Pres. Trump speaking to the press about Chief of Staff John Kelly's departure. The fmr. Marine 4-star general, started w/the administration as Sec. of Homeland Security &amp; became Chief of Staff in July 2017. Kelly’s son was killed in Afghanistan. During a notable moment of his tenure, he described what happens when a solider dies at war.</p><p><a href=\"https://www.youtube.com/embed/At1hOCEIwE8?enablejsapi=1&amp;autoplay=1&amp;rel=0\">Watch Now</a></p></div>"
     _key: card-2-30aeb2f4-500e-4fc8-994a-1507a0198533
   - order: 2
     useCheckmark: false
     body: >-
-      ## WH Chief of Staff:
-
-
-      * Oversees**E**xecutive**O**ffice of the**P**resident. The EOP dates back
-      to 1939 (Pres. FDR) & encompasses 6 main offices including the National
-      Security Council & Council of Economic Advisors.
-
-      * **Salary:A $179,700** (along with 21 other WH positions).
-
-      * **Bottom Line:**A Chief of StaffA runs the office, serves on Cabinet &
-      as a close advisor to the President.
+      <div><h2>WH Chief of Staff:</h2><ul><li>Oversees
+      <strong>E</strong>xecutive <strong>O</strong>ffice of the
+      <strong>P</strong>resident. The EOP dates back to 1939 (Pres. FDR) &amp;
+      encompasses 6 main offices including the National Security Council &amp;
+      Council of Economic Advisors.</li><li><strong>Salary:A $179,700</strong>
+      (along with 21 other WH positions).</li><li><strong>Bottom Line:</strong>A
+      Chief of StaffA runs the office, serves on Cabinet &amp; as a close
+      advisor to the President.</li></ul></div>
     _key: card-3-5f6c82f5-8799-47cd-874f-04087223fa36
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      Memos filed by the Special Counsel Investigation on Friday raised more
-      questions about:
-
-
-      * Russia & potential business deals w/Pres. Trump and/or his family.
-
-      * Contact between WH & Pres. Trump’s fmr. campaign manager with criminal
-      past (Paul Manafort).
-
-      * Potential campaign finance law violations by Pres. Trump.
+      <div><h2>Something To Consider:</h2><p>Memos filed by the Special Counsel
+      Investigation on Friday raised more questions about:</p><ul><li>Russia
+      &amp; potential business deals w/Pres. Trump and/or his
+      family.</li><li>Contact between WH &amp; Pres. Trump’s fmr. campaign
+      manager with criminal past (Paul Manafort).</li><li>Potential campaign
+      finance law violations by Pres. Trump.</li></ul></div>
     _key: card-4-b9c14ebd-33ca-49e0-803b-77b2f8e7e25d
   - order: 4
     useCheckmark: false
     body: >-
-      ## Why Timing Matters:
-
-
-      > _“The high-profile hiring search comes at a pivotal time as the
-      president looks to prepare his White House for the twin challenges of
-      securing his re-election and fending off inquiries once Democrats gain
-      control of the House next year.”_
+      <div><h2>Why Timing Matters:</h2><blockquote><em>“The high-profile hiring
+      search comes at a pivotal time as the president looks to prepare his White
+      House for the twin challenges of securing his re-election and fending off
+      inquiries once Democrats gain control of the House next
+      year.”</em><br><br></blockquote></div>
     citation: Associated Press
     _key: card-5-e944f996-7de3-4aad-9614-4742cb808dd6
   - order: 5
     useCheckmark: true
     body: >-
-      Despite rampant rumors, no official reason was given for Kelly's upcoming
-      departure. Widespread speculation aside, the Special Counsel has not
-      directly implicated Pres. Trump in any crime or accused him of collusion.
-      Investigation continues.
-
-
-      [view
-      sources](https://smarthernews.com/chief-of-staff-changes-investigations-what-to-know/)
+      <div><p>Despite rampant rumors, no official reason was given for Kelly's
+      upcoming departure. Widespread speculation aside, the Special Counsel has
+      not directly implicated Pres. Trump in any crime or accused him of
+      collusion. Investigation continues.</p><p><a
+      href="https://smarthernews.com/chief-of-staff-changes-investigations-what-to-know/">view
+      sources</a></p></div>
     _key: card-10-49a89150-c86f-4ec9-a0c9-7677ed80058a
 
 ---

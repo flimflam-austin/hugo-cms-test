@@ -21,16 +21,18 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: '## “_Offer to help anyone you can. Not everyone has people to turn to_.”'
+    body: >-
+      <div><h2>“<em>Offer to help anyone you can. Not everyone has people to
+      turn to</em>.”</h2><p></p></div>
     citation: REBECCA MEHRA
     _key: 46f72d9c1620
   - order: 1
     useCheckmark: true
     body: >-
-      The professional runner helped buy groceries for couple in their 80s
-      afraid to enter the store due to coronavirus fears. The govt announced
+      <div><p>The professional runner helped buy groceries for couple in their
+      80s afraid to enter the store due to coronavirus fears. The govt announced
       today that Americans over 65, with respiratory symptoms and a fever of
-      99.6 or higher, will be prioritized for a COVID-19 test.
+      99.6 or higher, will be prioritized for a COVID-19 test.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 4ef1ed79012a
 

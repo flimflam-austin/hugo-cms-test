@@ -21,17 +21,17 @@ colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: '## _“We lead with heart.”_'
+    body: <div><h2><em>“We lead with heart.”</em></h2><p></p><p><br></p></div>
     citation: CHIEF JERI WILLIAMS
     _key: fe1b52fe208c
   - order: 1
     useCheckmark: true
     body: >-
-      Phoenix Police Chief Jeri Williams, a 28+ year law enforcement veteran,
-      mother and one of the few black female police chiefs in America. Police
-      arrested 300+ people during civil unrest this weekend in Phoenix,
+      <div><p>Phoenix Police Chief Jeri Williams, a 28+ year law enforcement
+      veteran, mother and one of the few black female police chiefs in America.
+      Police arrested 300+ people during civil unrest this weekend in Phoenix,
       America's 5th largest city. Protests continued Mon-Tues. with no arrests.
-      Read more of her interview:
+      Read more of her interview:</p><p></p></div>
     citation: VIEW SOURCES
     _key: 42633a91e0b9
 

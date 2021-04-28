@@ -22,20 +22,16 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Tuesday  
-
-      January 8, 2019
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/oYVoT9Q6yqo?enablejsapi=1&autoplay=1&rel=0)
+      <div><p>Tuesday<br>January 8, 2019</p><p><a
+      href="https://www.youtube.com/embed/oYVoT9Q6yqo?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-1-6d3a0bc9-37b4-439f-8a64-a13c3e233de2
   - order: 1
     useCheckmark: true
-    body: |-
-      Have a great day!
-
-      [view sources](https://smarthernews.com/19-01-08-coffee-talk/)
+    body: >-
+      <div><p>Have a great day!</p><p><a
+      href="https://smarthernews.com/19-01-08-coffee-talk/">view
+      sources</a></p></div>
     _key: card-10-20c0f4c8-ec57-4b5c-970b-18124d726177
 
 ---

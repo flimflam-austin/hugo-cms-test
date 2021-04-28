@@ -22,60 +22,38 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # America’s Top Baby Names
-
-
-      Social Security Administration**releases top 1,000 baby names**A every
-      year.
-
-
-      Did Amazon & First Lady impact results? You decide!
-
-
-      Flip For Top Names
+      <div><h1>America’s Top Baby Names</h1><p>Social Security Administration
+      <strong>releases top 1,000 baby names</strong>A every year.</p><p>Did
+      Amazon &amp; First Lady impact results? You decide!</p><p>Flip For Top
+      Names</p></div>
     _key: card-1-74e9dc29-a649-4f41-a5be-c80c9ad99fd0
   - order: 1
     useCheckmark: false
     body: >-
-      TOP NAMES:  
-
-      Emma & Liam
-
-
-      **Top Girl Names:** Emma, Olivia, Ava, Isabella & Sophia. Emma has been #1
-      since ’14.
-
-
-      **Top Boy Names:** Liam, Noah,  
-
-      William, James & Logan.
-
-
-      What Names Moved Up/Down?
+      <div><p>TOP NAMES:<br>Emma &amp; Liam</p><p><strong>Top Girl
+      Names:</strong> Emma, Olivia, Ava, Isabella &amp; Sophia. Emma has been #1
+      since ’14.</p><p><strong>Top Boy Names:</strong> Liam, Noah,<br>William,
+      James &amp; Logan.</p><p>What Names Moved Up/Down?</p></div>
     _key: card-2-817f1f3c-5945-48fe-9da5-8fc341b89130
   - order: 2
     useCheckmark: false
     body: >-
-      ## Name “Changes”
-
-
-      * **“Amazon Effect”?****Alexa** moved**DOWN** on list to #65 (from #32 in
-      2015). Some suggest this is due to Amazon’s voice-activated device by the
-      same name.
-
-      * **“First Couple” Impact? MelaniaA** appears**A** in spot #930 (‘Melania’
-      didn’t appear on list in 2016 & 2015). “**Donald**” held steady at #488
-      from 2016, but down from #442 in 2015.
+      <div><h2>Name “Changes”</h2><ul><li><strong>“Amazon Effect”?</strong>
+      <strong>Alexa</strong> moved <strong>DOWN</strong> on list to #65 (from
+      #32 in 2015). Some suggest this is due to Amazon’s voice-activated device
+      by the same name.</li><li><strong>“First Couple” Impact? MelaniaA</strong>
+      appears<strong>A</strong> in spot #930 (‘Melania’ didn’t appear on list in
+      2016 &amp; 2015). “<strong>Donald</strong>” held steady at #488 from 2016,
+      but down from #442 in 2015.</li></ul></div>
     _key: card-3-cfd9e231-c894-472c-a822-61480c91eeb1
   - order: 3
     useCheckmark: true
     body: >-
-      3.8M babies were born last year in U.S. - the LOWEST number in 3 decades.
-      What names held the "1,000th" spot of the top 1,000? "Jaxx" & "Alora".
-      Check out the list:
-
-
-      [view sources](https://smarthernews.com/18-05-13-top-names-2017/)
+      <div><p>3.8M babies were born last year in U.S. - the LOWEST number in 3
+      decades. What names held the "1,000th" spot of the top 1,000? "Jaxx" &amp;
+      "Alora". Check out the list:</p><p><a
+      href="https://smarthernews.com/18-05-13-top-names-2017/">view
+      sources</a></p></div>
     _key: card-10-0d139dbb-5ee1-4b6a-8b70-b9e98f888665
 
 ---

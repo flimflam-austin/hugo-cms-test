@@ -21,20 +21,18 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## _  
-      “They need to think more about the people instead of about the party.”_
-
-      ##
+    body: >-
+      <div><h2><em><br>“They need to think more about the people instead of
+      about the party.”</em></h2><h2></h2></div>
     citation: DOLLY PARTON
     _key: 0a54b44de882
   - order: 1
     useCheckmark: true
     body: >-
-      Parton in a wide-ranging interview on faith, politics and resilience, plus
-      what her daddy paid the doctor who delivered her (hint: not money). If you
-      need an inspiring read, with a dash of news, heading into your weekend?
-      This might just be it.
+      <div><p>Parton in a wide-ranging interview on faith, politics and
+      resilience, plus what her daddy paid the doctor who delivered her (hint:
+      not money). If you need an inspiring read, with a dash of news, heading
+      into your weekend? This might just be it.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 4b2c32704d7e
 

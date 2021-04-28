@@ -18,13 +18,12 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      Not everyone liked "The Hat" but love it or hat it, the First Lady made
-      news with her clothes and grace during the FIRST STATE VISIT from a major
-      U.S. ally. The French President's wife Brigitte Macron, wore Louis Vuitton
-      the entire trip from head-to-toe.
-
-
-      [view sources](https://smarthernews.com/18-04-26-white-hat-melania/)
+      <div><p>Not everyone liked "The Hat" but love it or hat it, the First Lady
+      made news with her clothes and grace during the FIRST STATE VISIT from a
+      major U.S. ally. The French President's wife Brigitte Macron, wore Louis
+      Vuitton the entire trip from head-to-toe.</p><p><a
+      href="https://smarthernews.com/18-04-26-white-hat-melania/">view
+      sources</a></p></div>
     _key: card-10-0f03ab07-8981-4ce6-926e-259bc7aed43b
 
 ---

@@ -22,66 +22,40 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Abortion Debate of 2018
-
-
-      Mississippi lawmakers pass most restrictive abortion law in the nation.
-
-
-      Legislation passed MS House & Senate; Governor promises to sign bill into
-      law.
-
-
-      Challenges coming; Only abortion clinic in MS threatens to sue.
-
-
-      Flip For More
+      <div><h2>Abortion Debate of 2018</h2><p>Mississippi lawmakers pass most
+      restrictive abortion law in the nation.</p><p>Legislation passed MS House
+      &amp; Senate; Governor promises to sign bill into law.</p><p>Challenges
+      coming; Only abortion clinic in MS threatens to sue.</p><p>Flip For
+      More</p></div>
     _key: card-1-ccba95f9-3b10-479e-a391-ba6cea6a89c2
   - order: 1
     useCheckmark: false
     body: >-
-      ## What Does MS Bill Say?
-
-
-      * Prohibits abortion after 15 weeks.
-
-      * Abortion only allowed if health of mother is in danger or baby will not
-      survive outside the womb after full-term.
-
-      * Rape or incest NOT exceptions.
-
-      * Mississippi is 1 of 17 states that doesn’t allow abortions after 20 wks.
-      The 15 week “mark” is unprecedented.
-
-
-      Flip For Context
+      <div><h2>What Does MS Bill Say?</h2><ul><li>Prohibits abortion after 15
+      weeks.</li><li>Abortion only allowed if health of mother is in danger or
+      baby will not survive outside the womb after full-term.</li><li>Rape or
+      incest NOT exceptions.</li><li>Mississippi is 1 of 17 states that doesn’t
+      allow abortions after 20 wks. The 15 week “mark” is
+      unprecedented.</li></ul><p>Flip For Context</p></div>
     _key: card-2-77779b92-c27d-4005-bc59-92a242efa887
   - order: 2
     useCheckmark: false
     body: >-
-      Why Is This Significant
-
-
-      **Supreme Court Showdown In The Making**  
-
-
-
-      * Roe V. Wade legalized abortion, but held a woman’s right to an abortion
-      is**not absolute**.
-
-      * States may restrict or ban abortions when a baby can survive outside
-      womb (aka legally as “fetal viability”).
+      <div><p>Why Is This Significant</p><p><strong>Supreme Court Showdown In
+      The Making</strong><br></p><ul><li>Roe V. Wade legalized abortion, but
+      held a woman’s right to an abortion is <strong>not
+      absolute</strong>.</li><li>States may restrict or ban abortions when a
+      baby can survive outside womb (aka legally as “fetal
+      viability”).</li></ul></div>
     _key: card-3-4477163e-505f-47c5-a1c1-c9339aa152e1
   - order: 3
     useCheckmark: true
     body: >-
-      The 15 week mark in Mississippi is why this law is controversial and
-      challenges "norms" on when a child can survive outside womb. That medical
-      debate has legal implications.
-
-
-      [view
-      sources](https://smarthernews.com/18-02-07-mississippi-abortion-bill/)
+      <div><p>The 15 week mark in Mississippi is why this law is controversial
+      and challenges "norms" on when a child can survive outside womb. That
+      medical debate has legal implications.</p><p><a
+      href="https://smarthernews.com/18-02-07-mississippi-abortion-bill/">view
+      sources</a></p></div>
     _key: card-10-c4a14d19-2078-4665-a024-51659ffa749a
 
 ---

@@ -22,77 +22,48 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ‘Nightmare Bacteria”
-
-
-      ========================
-
-
-      CDC: 200+ Cases
-
-
-      Did you know one in 10 people have NO symptoms, but are walking around
-      with a hard-to-treat germ?
-
-
-      Wash Hands. Flip Card.
+      <div><p>‘Nightmare Bacteria”</p><p>========================</p><p>CDC:
+      200+ Cases</p><p>Did you know one in 10 people have NO symptoms, but are
+      walking around with a hard-to-treat germ?</p><p>Wash Hands. Flip
+      Card.</p></div>
     citation: Wash Hands. Flip Card.
     _key: card-1-0c673170-6f7b-4048-8183-7dad9aed4077
   - order: 1
     useCheckmark: false
     body: >-
-      ## What’s the “Nightmare”?
-
-
-      * **Often incurable.**
-
-      * Each year, 2M Americans become infected with antibiotic-resistant
-      bacteria &A 23,000 die.
-
-      * **221 cases** nationwide in 2017.
-
-      * Discovered in**27 states.**
-
-      * More challenging “version” of antibiotic-resistant bacteria found in
-      every state.
+      <div><h2>What’s the “Nightmare”?</h2><ul><li><strong>Often
+      incurable.</strong></li><li>Each year, 2M Americans become infected with
+      antibiotic-resistant bacteria &amp;A 23,000 die.</li><li><strong>221
+      cases</strong> nationwide in 2017.</li><li>Discovered in <strong>27
+      states.</strong></li><li>More challenging “version” of
+      antibiotic-resistant bacteria found in every state.</li></ul></div>
     _key: card-2-79e4c26d-b554-4683-b07f-1584d46c85f7
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why Does This Matter?
-
-
-      > “Antibiotic germs can spread like wildfire.’  
-        
-        
-        
-      CDC, Containing Unusual Resistance, April 3, 2018 explaining why it could
-      quickly becomes a public health emergency *if* the government is unable to
-      contain the germs.
+      <div><h2>Why Does This Matter?</h2><blockquote>“Antibiotic germs can
+      spread like wildfire.’<br><br><br><br>CDC, Containing Unusual Resistance,
+      April 3, 2018 explaining why it could quickly becomes a public health
+      emergency *if* the government is unable to contain the
+      germs.</blockquote></div>
     _key: card-3-a888bb17-320c-4c89-8388-4820b6f44658
   - order: 3
     useCheckmark: false
     body: >-
-      ## Whats YOUR real risk?
-
-
-      * Can be spread person-to-person (without anyone even getting sick).
-
-      * Spreads via health care equipment (IV, etc).
-
-      * Higher risk if you receive health care in another country (many with
-      “nightmare bacteria” in 2017 had received medical care in another
-      country).
+      <div><h2>Whats YOUR real risk?</h2><ul><li>Can be spread person-to-person
+      (without anyone even getting sick).</li><li>Spreads via health care
+      equipment (IV, etc).</li><li>Higher risk if you receive health care in
+      another country (many with “nightmare bacteria” in 2017 had received
+      medical care in another country).</li></ul></div>
     _key: card-4-fead5bfd-f71a-41be-889b-9aadd354797d
   - order: 4
     useCheckmark: true
     body: >-
-      This is the first time the CDC tracked "nightmare bacteria." CDC Dir. on
-      the 200+ cases: "I was surprised by the numbers that we found. This was
-      more than I was expecting." More of her answer:
-
-
-      [view sources](https://smarthernews.com/18-04-04-nightmare-bacteria/)
+      <div><p>This is the first time the CDC tracked "nightmare bacteria." CDC
+      Dir. on the 200+ cases: "I was surprised by the numbers that we found.
+      This was more than I was expecting." More of her answer:</p><p><a
+      href="https://smarthernews.com/18-04-04-nightmare-bacteria/">view
+      sources</a></p></div>
     _key: card-10-1614b16b-fc4a-4a3c-a73f-11307bb97b23
 
 ---

@@ -21,17 +21,18 @@ colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: '## _“Do not be afraid, be vigilant.”_'
+    body: <h2><em>“Do not be afraid, be vigilant.”</em></h2>
     citation: VP MIKE PENCE
     _key: b604fa3f4876
   - order: 1
     useCheckmark: true
     body: >-
-      Vice Pres. Pence said today that although COVID-19 is 3X more contagious
-      than the flu, about 90% of people tested so far have tested negative. The
-      U.S. gov’t will partially close the borders with Mexico and Canada to
-      restrict nonessential travel in order to stem spread of COVID-19, and
-      extend the deadline for filing federal taxes to July 15.
+      <div><p>Vice Pres. Pence said today that although COVID-19 is 3X more
+      contagious than the flu, about 90% of people tested so far have tested
+      negative. The U.S. gov’t will partially close the borders with Mexico and
+      Canada to restrict nonessential travel in order to stem spread of
+      COVID-19, and extend the deadline for filing federal taxes to July
+      15.</p><p></p></div>
     citation: VIEW SOURCES
     _key: c74c70917d46
 

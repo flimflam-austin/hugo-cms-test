@@ -22,66 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # “We will never stop looking for you.”
-
-
-      > How one investigation uncovers 39 missing children and what it teaches
-      us about child trafficking in America.
+      <div><h1>“We will never stop looking for you.”</h1><blockquote>How one
+      investigation uncovers 39 missing children and what it teaches us about
+      child trafficking in America.</blockquote></div>
     _key: 1922059b5412
   - order: 1
     useCheckmark: false
     body: >-
-      ## Operation Not Forgotten
-
-
-      * Two-week operation in Atlanta & Macon, Georgia.
-
-      * U.S. Marshals (federal forces) working with state and local law
-      enforcement and the National Center for Endangered and Missing Children.
-
-      * 26 children rescued & 13 missing children safely located.
-
-      * Ages ranged 3-17 years-old.
-
-      * 9 arrests made.
+      <div><h2>Operation Not Forgotten</h2><ul><li>Two-week operation in Atlanta
+      &amp; Macon, Georgia.</li><li>U.S. Marshals (federal forces) working with
+      state and local law enforcement and the National Center for Endangered and
+      Missing Children.</li><li>26 children rescued &amp; 13 missing children
+      safely located.</li><li>Ages ranged 3-17 years-old.</li><li>9 arrests
+      made.</li></ul></div>
     _key: d8243b63b4aa
   - order: 2
     useCheckmark: false
     body: >-
-      ## Historical Context
-
-
-      * U.S. Marshals:**First *federal* law enforcement agency in U.S.
-      history**.
-
-      * 1789: President George Washington appointed 13 Marshals.
-
-      * 2006: Adam Walsh Child Protection & Safety Act gave U.S. Marshals a new
-      role finding fugitive sex offenders.
-
-      * 2015: Justice for Victims of Trafficking Act empowered the U.S. Marshals
-      to help with missing children cases with local law enforcement.
+      <div><h2>Historical Context</h2><ul><li>U.S. Marshals: <strong>First
+      *federal* law enforcement agency in U.S. history</strong>.</li><li>1789:
+      President George Washington appointed 13 Marshals.</li><li>2006: Adam
+      Walsh Child Protection &amp; Safety Act gave U.S. Marshals a new role
+      finding fugitive sex offenders.</li><li>2015: Justice for Victims of
+      Trafficking Act empowered the U.S. Marshals to help with missing children
+      cases with local law enforcement.</li></ul></div>
     _key: e52140cda069
   - order: 3
     useCheckmark: false
     body: >-
-      > “We will never stop looking for you. That’s [the] message. There is no
-      more meaningful work that law enforcement does than rescuing children. Our
-      children are not for sale and they are not ever forgotten.”
-
-
-      U.S. Marshals Director Washington on 'Operation Not Forgotten.' Local
-      media reported of the 26 minors rescued, 15 were being sex trafficked, a
-      crime the Natl Center for Missing & Exploited Children says happens in all
-      50 states.
+      <div><blockquote>“We will never stop looking for you. That’s [the]
+      message. There is no more meaningful work that law enforcement does than
+      rescuing children. Our children are not for sale and they are not ever
+      forgotten.”</blockquote><p>U.S. Marshals Director Washington on 'Operation
+      Not Forgotten.' Local media reported of the 26 minors rescued, 15 were
+      being sex trafficked, a crime the Natl Center for Missing &amp; Exploited
+      Children says happens in all 50 states.</p></div>
     _key: e0c1da4c2be2
   - order: 4
     useCheckmark: true
     body: >-
-      The U.S. Marshals arrest 361 people on average each day. Famous U.S.
-      Marshals include Frederick Douglas, appointed in Washington D.C. in 1877
-      (first African-American U.S. Marshal) and Wyatt Earp, who along with his
-      brothers participated in a famous western "showdown" at the O.K. Corral.
+      <div><p>The U.S. Marshals arrest 361 people on average each day. Famous
+      U.S. Marshals include Frederick Douglas, appointed in Washington D.C. in
+      1877 (first African-American U.S. Marshal) and Wyatt Earp, who along with
+      his brothers participated in a famous western "showdown" at the O.K.
+      Corral.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 96b582ebfd8b
 

@@ -22,68 +22,53 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Worth A Shot?
-
-
-      A new flu vaccine mandate amidst the COVID-19 pandemic.
-
-
-      A closer look at what states can legally require (and the power of parents
-      to choose).
+      <div><h1>Worth A Shot?</h1><p>A new flu vaccine mandate amidst the
+      COVID-19 pandemic.</p><p>A closer look at what states can legally require
+      (and the power of parents to choose).</p></div>
     _key: 0f6a1aedaba6
   - order: 1
     useCheckmark: false
     body: >-
-      ## What To Know:
-
-
-      Many students are heading back to school as America prepares to
-      confront**COVID-19 & flu simultaneously for the first time ever.**
-
-
-      In August,**Massachusetts** instituted a flu vaccine mandate for childcare
-      attendees 6 months and up, K-12 students, and most college & graduate
-      students under 30 by December 31st.
+      <div><h2>What To Know:</h2><p>Many students are heading back to school as
+      America prepares to confront <strong>COVID-19 &amp; flu simultaneously for
+      the first time ever.</strong></p><p>In August,
+      <strong>Massachusetts</strong> instituted a flu vaccine mandate for
+      childcare attendees 6 months and up, K-12 students, and most college &amp;
+      graduate students under 30 by December 31st.</p></div>
     _key: 0b03ed674436
   - order: 2
     useCheckmark: false
     body: >-
-      “During the COVID-19 pandemic, influenza vaccine will be especially
-      critical to reduce the overall impact of respiratory illness on the
-      population, protect vulnerable populations from severe illness, and
-      decrease the overall burden on the healthcare system.”  
-        
-      Explanation by the Massachusetts gov't about a new influenza vaccine
-      requirement for most students. Medical and religious exemptions are
-      allowed.
+      <div><p>“During the COVID-19 pandemic, influenza vaccine will be
+      especially critical to reduce the overall impact of respiratory illness on
+      the population, protect vulnerable populations from severe illness, and
+      decrease the overall burden on the healthcare system.”<br><br>Explanation
+      by the Massachusetts gov't about a new influenza vaccine requirement for
+      most students. Medical and religious exemptions are
+      allowed.</p><p><br></p></div>
     _key: '2e3977248969'
   - order: 3
     useCheckmark: false
     body: >-
-      ## The Laws Of The Land
-
-
-      The specifics of each state’s school immunization laws and exemptions
-      vary, but generally speaking:
-
-
-      * Every state allows for**medical**-related exemptions
-
-      * 16 states allow for**philosophical** exemptions for personal beliefs
-
-      * 45 states & DC allow for**religious** exemptions
+      <div><h2>The Laws Of The Land</h2><p>The specifics of each state’s school
+      immunization laws and exemptions vary, but generally
+      speaking:</p><ul><li>Every state allows for
+      <strong>medical</strong>-related exemptions</li><li>16 states allow for
+      <strong>philosophical</strong> exemptions for personal beliefs</li><li>45
+      states &amp; DC allow for <strong>religious</strong>
+      exemptions</li></ul></div>
     _key: 198dac09084f
   - order: 4
     useCheckmark: false
-    body: "## Who Decides?  \n\n\n* **Federal gov’t** makes recommendations – not laws or policies – regarding vaccinations and immunizations.\n* Your**state gov’**t sets vaccination requirements for attending school.\n* **Why?**\_Simply – the federal gov’t is responsible for your national security, and your state for your personal safety.\n* Ultimately,**parents**\_**decide** – with some opting for homeschooling."
+    body: "<div><h2>Who Decides?<br></h2><ul><li><strong>Federal gov’t</strong> makes recommendations – not laws or policies – regarding vaccinations and immunizations.</li><li>Your <strong>state gov’</strong>t sets vaccination requirements for attending school.</li><li><strong>Why?</strong>\_Simply – the federal gov’t is responsible for your national security, and your state for your personal safety.</li><li>Ultimately, <strong>parents</strong>\_<strong>decide</strong> – with some opting for homeschooling.</li></ul></div>"
     _key: 79f32f9d7526
   - order: 5
     useCheckmark: true
     body: >-
-      BIG PICTURE: It's not just Massachusetts. The New Jersey legislature is
-      considering a bill which would mandate flu vaccines for K-12 students. In
-      New Jersey, like a handful of other states, flu vaccines are already
-      required to attend daycare or preschool.
+      <div><p>BIG PICTURE: It's not just Massachusetts. The New Jersey
+      legislature is considering a bill which would mandate flu vaccines for
+      K-12 students. In New Jersey, like a handful of other states, flu vaccines
+      are already required to attend daycare or preschool.</p><p></p></div>
     citation: VIEW SOURCES
     _key: d5ce97c66589
 

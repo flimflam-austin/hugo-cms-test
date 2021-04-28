@@ -21,109 +21,88 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ### A new study from the CDC takes a closer look at the *potential* impact
-      of statewide mask mandates and indoor dining on COVID-19 cases.
-
-
-      ### Here’s what the study shows & why it matters.
+      <div><h3>A new study from the CDC takes a closer look at the *potential*
+      impact of statewide mask mandates and indoor dining on COVID-19
+      cases.</h3><h3>Here’s what the study shows &amp; why it
+      matters.</h3></div>
     _key: 5ac8a2010ece
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Research
-
-
-      * Time period: March 1 – Dec. 31, 2020
-
-      * Many states had mandates/restrictions in place early in the pandemic and
-      lifted mitigation efforts at varying times.
-
-      * The CDC compared before/after data at a county level.
-
-      * Outcomes examined: growth rate of COVID-19 cases by county and county
-      deaths (death growth rates) in the days after implementation (days 1-20,
-      21-40, 41-60, 61-80, + 81-100).
+      <div><h2>The Research</h2><ul><li>Time period: March 1 – Dec. 31,
+      2020</li><li>Many states had mandates/restrictions in place early in the
+      pandemic and lifted mitigation efforts at varying times.</li><li>The CDC
+      compared before/after data at a county level.</li><li>Outcomes examined:
+      growth rate of COVID-19 cases by county and county deaths (death growth
+      rates) in the days after implementation (days 1-20, 21-40, 41-60, 61-80, +
+      81-100).</li></ul></div>
     _key: 6b35754591c0
   - order: 2
     useCheckmark: false
     body: >-
-      ## The Results
-
-
-      * Within 20 days of a statewide mask mandate, counties showed a decrease
-      in COVID-19 cases and deaths.
-
-      * After 40 days (about 6 wks) after restaurants “reopened,” counties
-      showed an increase in COVID-19 cases & a rise in deaths several weeks
-      later.
-
-      * _“State mask mandates and prohibiting on-premises dining at restaurants
-      help limit potential exposure to SARS-CoV-2, reducing community
-      transmission of COVID-19.” -CDC_
+      <div><h2>The Results</h2><ul><li>Within 20 days of a statewide mask
+      mandate, counties showed a decrease in COVID-19 cases and
+      deaths.</li><li>After 40 days (about 6 wks) after restaurants “reopened,”
+      counties showed an increase in COVID-19 cases &amp; a rise in deaths
+      several weeks later.</li><li><em>“State mask mandates and prohibiting
+      on-premises dining at restaurants help limit potential exposure to
+      SARS-CoV-2, reducing community transmission of COVID-19.”
+      -CDC</em></li></ul></div>
     _key: c4197e1f5ee7
   - order: 3
     useCheckmark: false
     body: >-
-      > “You have decreases in cases and deaths when you wear masks, and you
-      have increases in cases and deaths when you have in-person restaurant
-      dining.”
-
-
-      > CDC Director Dr. Rochelle Walensky said with the level of transmission
-      and COVID-19 variants in 48 states, this study shows the value of
-      mitigation efforts: “It also serves as a warning about prematurely lifting
-      these prevention measures."
+      <div><blockquote>“You have decreases in cases and deaths when you wear
+      masks, and you have increases in cases and deaths when you have in-person
+      restaurant dining.”</blockquote><blockquote>CDC Director Dr. Rochelle
+      Walensky said with the level of transmission and COVID-19 variants in 48
+      states, this study shows the value of mitigation efforts: “It also serves
+      as a warning about prematurely lifting these prevention
+      measures."</blockquote></div>
     _key: 661d8fcda2ec
   - order: 4
     useCheckmark: false
     body: >-
-      ## Limitations Of The Study
-
-
-      * _“Compliance with and enforcement of policies were not measured.” CDC_
-
-      * Most of America permits indoor dining of *some kind* – the CDC did not
-      measure differences in how it was practiced (Did restaurants follow
-      capacity limits? Outdoor dining available? etc.).
-
-      * Varying mitigation efforts place to place (such as gathering
-      restrictions + distancing) could impact results.
+      <div><h2>Limitations Of The Study</h2><ul><li><em>“Compliance with and
+      enforcement of policies were not measured.” CDC</em></li><li>Most of
+      America permits indoor dining of *some kind* – the CDC did not measure
+      differences in how it was practiced (Did restaurants follow capacity
+      limits? Outdoor dining available? etc.).</li><li>Varying mitigation
+      efforts place to place (such as gathering restrictions + distancing) could
+      impact results.</li></ul></div>
     _key: 8ad0403c6eea
   - order: 5
     useCheckmark: false
     body: >-
-      > “If a positive correlation between ice cream sales and shark attacks is
-      found, that would not mean that ice cream causes shark attacks.”
-
-
-      > The National Restaurant Association calls the CDC study “an ill-informed
-      attack on the industry hardest-hit by the pandemic,” arguing restaurants
-      typically have to follow many safety requirements to operate during the
-      pandemic. The group says "myriad variables" could have led to the CDC's
-      conclusions, as in the maxim "Correlation does not equal causation."
+      <div><blockquote>“If a positive correlation between ice cream sales and
+      shark attacks is found, that would not mean that ice cream causes shark
+      attacks.”</blockquote><blockquote>The National Restaurant Association
+      calls the CDC study “an ill-informed attack on the industry hardest-hit by
+      the pandemic,” arguing restaurants typically have to follow many safety
+      requirements to operate during the pandemic. The group says "myriad
+      variables" could have led to the CDC's conclusions, as in the maxim
+      "Correlation does not equal causation."</blockquote></div>
     _key: aa60e6210b48
   - order: 6
     useCheckmark: false
     body: >-
-      > “We are maintaining the masks.”
-
-
-      Connecticut Governor Ned Lamont who announced his state will resume
-      restaurant dining at 100% capacity but with some restrictions (such as
-      earlier closing times). Connecticut will maintain the statewide mask
-      mandate, unlike other states such as Texas and Mississippi that will
-      forego the policy. The differences in the timing of state mitigation
-      efforts, infection rates, and cultural & regional differences in lifestyle
-      are all variables to research.
+      <div><blockquote>“We are maintaining the
+      masks.”</blockquote><p>Connecticut Governor Ned Lamont who announced his
+      state will resume restaurant dining at 100% capacity but with some
+      restrictions (such as earlier closing times). Connecticut will maintain
+      the statewide mask mandate, unlike other states such as Texas and
+      Mississippi that will forego the policy. The differences in the timing of
+      state mitigation efforts, infection rates, and cultural &amp; regional
+      differences in lifestyle are all variables to research.</p></div>
     _key: dc5d6af64a5a
   - order: 7
     useCheckmark: true
     body: >-
-      The CDC calls the difference of infections and statewide mask mandates (an
-      ultimate decrease of nearly 2%) & indoor dining reopening (an increase of
-      about 1%) "statistically significant." Those statistics slightly change
-      during every 20-day interval the study highlights. You can see the
-      percentages for yourself on our source page.
+      <p>The CDC calls the difference of infections and statewide mask mandates
+      (an ultimate decrease of nearly 2%) &amp; indoor dining reopening (an
+      increase of about 1%) "statistically significant." Those statistics
+      slightly change during every 20-day interval the study highlights. You can
+      see the percentages for yourself on our source page.</p>
     citation: VIEW SOURCES
     _key: 47fb8b976af5
 

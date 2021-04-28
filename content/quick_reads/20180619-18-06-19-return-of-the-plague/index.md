@@ -21,71 +21,47 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # “Black Death” Returns?
-
-      American child tests positive for a mysterious case of bubonic plague.
-
-      What To Know
+    body: >-
+      <div><h1>“Black Death” Returns?</h1><p>American child tests positive for a
+      mysterious case of bubonic plague.</p><p>What To Know</p></div>
     _key: card-1-2065426e-927c-49cc-8a19-e7536db6f487
   - order: 1
     useCheckmark: false
     body: >-
-      # Infected Idaho Child
-
-
-      ## What We Know:
-
-
-      * Child from Elmore county, Idaho where ground squirrels tested positive
-      for plague in 2016.
-
-      * However, child also visited Oregon – another state where plague found in
-      recent years IN rodents.
-
-      * First case in Idaho since 1992.
+      <div><h1>Infected Idaho Child</h1><h2>What We Know:</h2><ul><li>Child from
+      Elmore county, Idaho where ground squirrels tested positive for plague in
+      2016.</li><li>However, child also visited Oregon – another state where
+      plague found in recent years IN rodents.</li><li>First case in Idaho since
+      1992.</li></ul></div>
     _key: card-2-bcd2ec49-6a97-467d-bb63-f14e1496ffc1
   - order: 2
     useCheckmark: false
-    body: |-
-      ## What Is Plague?
-
-      It’s not “the plague” – it’s technically just “plague” but both are used.
-
-      * Illness spreads through fleas that bite infected rodents.
-      * Rare to pass from human-to-human.
-      * Killed millions in Europe during Middle Ages.
-      * Brought to U.S. through infected rodents on steamships in 1900s.
+    body: >-
+      <div><h2>What Is Plague?</h2><p>It’s not “the plague” – it’s technically
+      just “plague” but both are used.</p><ul><li>Illness spreads through fleas
+      that bite infected rodents.</li><li>Rare to pass from
+      human-to-human.</li><li>Killed millions in Europe during Middle
+      Ages.</li><li>Brought to U.S. through infected rodents on steamships in
+      1900s.</li></ul></div>
     _key: card-3-bb888d7f-ed5c-47b4-96f9-a1b0fb3a28a6
   - order: 3
     useCheckmark: false
     body: >-
-      ## Symptoms, Cure, History
-
-
-      * “fever, headache, chills, and weakness and one or more swollen, tender
-      and painful lymph nodes” (CDC)
-
-      * Treatment: Antibiotics
-
-      * Last major outbreak: 1924 Los Angeles
-
-      * **Avg of 7 plague cases** surface every year in U.S. – mostly in
-      West/Southwest
-
-
-
-
-      [Click: View Map](https://www.cdc.gov/plague/maps/index.html)
+      <div><h2>Symptoms, Cure, History</h2><ul><li>“fever, headache, chills, and
+      weakness and one or more swollen, tender and painful lymph nodes”
+      (CDC)</li><li>Treatment: Antibiotics</li><li>Last major outbreak: 1924 Los
+      Angeles</li><li><strong>Avg of 7 plague cases</strong> surface every year
+      in U.S. – mostly in West/Southwest</li></ul><p></p><p><a
+      href="https://www.cdc.gov/plague/maps/index.html">Click: View
+      Map</a></p></div>
     _key: card-4-582d0e1e-15ad-45ac-b9a1-530784445d0d
   - order: 4
     useCheckmark: true
     body: >-
-      Did you know health officials have often worried about plague used as a
-      weapon by terrorists?
-
-
-      [view sources](https://smarthernews.com/18-06-19-return-of-the-plague/)
+      <div><p>Did you know health officials have often worried about plague used
+      as a weapon by terrorists?</p><p><a
+      href="https://smarthernews.com/18-06-19-return-of-the-plague/">view
+      sources</a></p></div>
     _key: card-10-ab67bfc3-21ea-408f-a939-b23acd64407b
 
 ---

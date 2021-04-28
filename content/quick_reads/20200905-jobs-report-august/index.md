@@ -21,64 +21,51 @@ colorpaletteclassname: '--light-green'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # New Jobs Report
-
-      August Unemployment: 8.4%
-
-      Out of double digits, but not out of the woods.
+    body: >-
+      <div><h1>New Jobs Report</h1><p>August Unemployment: 8.4%</p><p>Out of
+      double digits, but not out of the woods.</p></div>
     _key: 4db0a02c3eac
   - order: 1
     useCheckmark: false
     body: >-
-      ## 3 Quick Facts: Jobs Report
-
-
-      * **Better Than Expected Unemployment**: Economists thought the
-      unemployment rate would be closer to 10% but hiring was better than
-      predicted.
-
-      * **Job Growth**: 238,000 temporary jobs added by the government for the
-      U.S. Census. Retailers added 249,000 jobs.
-
-      * **Hiring Slowed**: Economy added 1.4 M jobs – that was down from July
-      when it added 1.7M.
+      <div><h2>3 Quick Facts: Jobs Report</h2><ul><li><strong>Better Than
+      Expected Unemployment</strong>: Economists thought the unemployment rate
+      would be closer to 10% but hiring was better than
+      predicted.</li><li><strong>Job Growth</strong>: 238,000 temporary jobs
+      added by the government for the U.S. Census. Retailers added 249,000
+      jobs.</li><li><strong>Hiring Slowed</strong>: Economy added 1.4 M jobs –
+      that was down from July when it added 1.7M.</li></ul></div>
     _key: 663ad5712fa3
   - order: 2
     useCheckmark: false
     body: >-
-      > “We’re in a very deep hole, and we’re working our way out of it. We
-      continue to see very good improvement in the labor market, but I think the
-      improvement is going to be slower going forward.”
-
-
-      Economist Gus Faucher PNC Financial Services Group. The Labor Dept.
-      credited "resumption of economic activity" for the job growth in August,
-      suggesting the driver is rehiring rather than new job creation.
+      <div><blockquote>“We’re in a very deep hole, and we’re working our way out
+      of it. We continue to see very good improvement in the labor market, but I
+      think the improvement is going to be slower going
+      forward.”</blockquote><p>Economist Gus Faucher PNC Financial Services
+      Group. The Labor Dept. credited "resumption of economic activity" for the
+      job growth in August, suggesting the driver is rehiring rather than new
+      job creation.</p></div>
     _key: 6de8428e9cec
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider
-
-
-      **HISTORIC**: Previous to the pandemic, America had never recorded more
-      than 700,000 people filing for unemployment benefits in one week. The
-      4-week moving average hovers under 1M.
-
-
-      **LAYOFFS**: United Airlines, Bed Bath & Beyond, & MGM Resorts recently
-      announced major layoffs, sparking concern this reflects a permanent,
-      rather than temporary, adjustment.
+      <div><h2>Something To Consider</h2><p><strong>HISTORIC</strong>: Previous
+      to the pandemic, America had never recorded more than 700,000 people
+      filing for unemployment benefits in one week. The 4-week moving average
+      hovers under 1M.</p><p><strong>LAYOFFS</strong>: United Airlines, Bed Bath
+      &amp; Beyond, &amp; MGM Resorts recently announced major layoffs, sparking
+      concern this reflects a permanent, rather than temporary,
+      adjustment.</p></div>
     _key: c989d77ec048
   - order: 4
     useCheckmark: true
     body: >-
-      The unemployment rate in January 2020 was 3.6% - the lowest in more than
-      50 years. The economy has shed more than 22M jobs during the COVID-19
-      pandemic - about half have been recovered. Story to watch? Lawmakers
-      return to D.C. after Labor Day at odds over additional economic stimulus,
-      incl. additional benefits for the unemployed.
+      <div><p>The unemployment rate in January 2020 was 3.6% - the lowest in
+      more than 50 years. The economy has shed more than 22M jobs during the
+      COVID-19 pandemic - about half have been recovered. Story to watch?
+      Lawmakers return to D.C. after Labor Day at odds over additional economic
+      stimulus, incl. additional benefits for the unemployed.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 3802877f6d51
 

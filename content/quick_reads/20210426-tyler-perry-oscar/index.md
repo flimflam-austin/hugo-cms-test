@@ -20,20 +20,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _"Stand in the middle ’cause that’s where healing happens. That’s where
-      conversation happens. That’s where change happens. It happens in the
-      middle."_
+      <blockquote><em>"Stand in the middle ’cause that’s where healing happens.
+      That’s where conversation happens. That’s where change happens. It happens
+      in the middle."</em></blockquote>
     citation: Tyler Perry
     _key: afd92e4b751d
   - order: 1
     useCheckmark: true
     body: >-
-      The billionaire actor and producer received a humanitarian award for his
-      work during the pandemic at this year's Academy Awards.  Perry, who says
-      he remembers "being homeless and having one pair of shoes" spoke about his
-      upbringing in his acceptance speech and the importance of respect, empathy
-      and compassion (lessons learned from his mother). Click on our source page
-      to read and watch his whole speech.
+      <p>The billionaire actor and producer received a humanitarian award for
+      his work during the pandemic at this year's Academy Awards.  Perry, who
+      says he remembers "being homeless and having one pair of shoes" spoke
+      about his upbringing in his acceptance speech and the importance of
+      respect, empathy and compassion (lessons learned from his mother). Click
+      on our source page to read and watch his whole speech.</p>
     _key: a5371843fe3c
 
 ---

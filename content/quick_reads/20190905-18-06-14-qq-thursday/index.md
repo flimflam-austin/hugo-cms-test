@@ -22,65 +22,58 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “Does @CBSNews know something I don’t about my plans and my future? I
-      was at my daughter’s year-end Kindergarten event and they ran a story
-      about my ‘plans to leave the WH’ without even talking to me. I love my job
-      and am honored to work for @POTUS”  
-        
-        
-      Press Sec. Sarah Huckabee Sanders responding to reports of her supposed
-      imminent White House departure.
+      <blockquote>“Does @CBSNews know something I don’t about my plans and my
+      future? I was at my daughter’s year-end Kindergarten event and they ran a
+      story about my ‘plans to leave the WH’ without even talking to me. I love
+      my job and am honored to work for @POTUS”<br><br><br>Press Sec. Sarah
+      Huckabee Sanders responding to reports of her supposed imminent White
+      House departure.</blockquote>
     _key: card-1-500c2295-6ad3-411a-a142-94783c901cca
   - order: 1
     useCheckmark: false
     body: >-
-      > “Plague was confirmed this week in an Elmore County child. The child is
-      recovering after receiving antibiotic treatment…. It is not known whether
-      the child was exposed to plague in Idaho or during a recent trip to
-      Oregon.”  
-        
-        
-      Idaho's Central District Health Dep't announcing the country's first human
-      case of plague in over two decades.
+      <blockquote>“Plague was confirmed this week in an Elmore County child. The
+      child is recovering after receiving antibiotic treatment…. It is not known
+      whether the child was exposed to plague in Idaho or during a recent trip
+      to Oregon.”<br><br><br>Idaho's Central District Health Dep't announcing
+      the country's first human case of plague in over two decades.</blockquote>
     _key: card-2-acbaaeaa-3a64-49e3-bda5-a11da02e4030
   - order: 2
     useCheckmark: false
     body: >-
-      > “…it seems likely that Louboutin will be allowed to develop a monopoly
-      for red-soled high-heeled shoes.’  
-        
-        
-      Elaine O’Hare, an intellectual property specialist, as luxury shoe
-      designer Christian Louboutin wins a key legal case in a long-running
-      battle to protect its signature red soles from copycats.
+      <blockquote>“…it seems likely that Louboutin will be allowed to develop a
+      monopoly for red-soled high-heeled shoes.’<br><br><br>Elaine O’Hare, an
+      intellectual property specialist, as luxury shoe designer Christian
+      Louboutin wins a key legal case in a long-running battle to protect its
+      signature red soles from copycats.</blockquote>
     _key: card-3-1a339d57-4705-47c9-94b0-35497cb255be
   - order: 3
     useCheckmark: false
     body: >-
-      > “Hosting the 2026 FIFA World Cup is a rare and important moment to
-      demonstrate that we are all truly united through sport.”  
-        
-      US Soccer President Carlos Cordeiro reacting to the announcement that the
-      U.S.'s joint bid with Canada & Mexico was selected to host the 2026 World
-      Cup. The U.S. last hosted a World Cup in 1994, and Mexico in 1986. Canada
-      has never hosted a World Cup. Kansas City is among the cities listed as a
-      potential host city.
+      <blockquote>“Hosting the 2026 FIFA World Cup is a rare and important
+      moment to demonstrate that we are all truly united through
+      sport.”<br><br>US Soccer President Carlos Cordeiro reacting to the
+      announcement that the U.S.'s joint bid with Canada &amp; Mexico was
+      selected to host the 2026 World Cup. The U.S. last hosted a World Cup in
+      1994, and Mexico in 1986. Canada has never hosted a World Cup. Kansas City
+      is among the cities listed as a potential host city.</blockquote>
     _key: card-4-a8ab4a03-fb80-4986-9512-b181277d62dd
   - order: 4
     useCheckmark: false
     body: >-
-      > “Our baby girl, Emmy, passed away yesterday. Never in a million years
-      did we think we would experience a pain like this. Her love, her light,
-      her spirit will never be forgotten. Our little girl loved life and lived
-      it to it’s fullest everyday.”  
-        
-      Olympic skier Bode Miller on the devastating drowning death of his
-      19-month-old daughter over the weekend. According to the CDC, drowning is
-      the second leading cause of death in children aged 1 - 14.
+      <blockquote>“Our baby girl, Emmy, passed away yesterday. Never in a
+      million years did we think we would experience a pain like this. Her love,
+      her light, her spirit will never be forgotten. Our little girl loved life
+      and lived it to it’s fullest everyday.”<br><br>Olympic skier Bode Miller
+      on the devastating drowning death of his 19-month-old daughter over the
+      weekend. According to the CDC, drowning is the second leading cause of
+      death in children aged 1 - 14.</blockquote>
     _key: card-5-1af9deb1-d7bc-4893-8914-e49161febed5
   - order: 5
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-06-14-qq-thursday/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-06-14-qq-thursday/">view
+      sources</a></p>
     _key: card-10-1c19702c-d3eb-4174-9694-8abf974371a6
 
 ---

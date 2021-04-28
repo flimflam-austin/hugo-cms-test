@@ -22,64 +22,47 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # DACA Drama
-
-
-      * Supreme Court will not hear an expedited legal appeal on DACA.
-
-      * Trump administration requested The Supremes look at case when lower
-      courts halted President Trump’s unwinding of the program.
-
-      * DACA kicked back to lower courts.**Fate & timeline unknown.**
-
-
-      Flip Here
+      <div><h1>DACA Drama</h1><ul><li>Supreme Court will not hear an expedited
+      legal appeal on DACA.</li><li>Trump administration requested The Supremes
+      look at case when lower courts halted President Trump’s unwinding of the
+      program.</li><li>DACA kicked back to lower courts. <strong>Fate &amp;
+      timeline unknown.</strong></li></ul><p>Flip Here</p></div>
     _key: card-1-b0262f77-6170-4d60-ad93-8b2831dd5951
   - order: 1
     useCheckmark: false
     body: >-
-      **D**eferred**A**ction for**C**hildhood**A**rrivals:
-
-
-      The 2012 Obama-era policy granted provisional work permits and temporary
-      protection from deportation for nearly 800,000 young people brought to
-      U.S. illegally as kids, but NO pathway to citizenship.
+      <div><p><strong>D</strong>eferred <strong>A</strong>ction for
+      <strong>C</strong>hildhood <strong>A</strong>rrivals:</p><p>The 2012
+      Obama-era policy granted provisional work permits and temporary protection
+      from deportation for nearly 800,000 young people brought to U.S. illegally
+      as kids, but NO pathway to citizenship.</p></div>
     _key: card-2-92e44f7f-790d-4edc-b769-e31bf9b371ec
   - order: 2
     useCheckmark: false
     body: >-
-      ## How We Got Here:
-
-
-      **Sept 2017:** President Trump announced repeal of DACA program & gave
-      Congress until March 5th to come up with broader immigration reform.
-
-
-      **January 2018:** California federal court issued a preliminary injunction
-      halting repeal of DACA program & ordered gov’t to resume accepting DACA
-      renewal applications.
+      <div><h2>How We Got Here:</h2><p><strong>Sept 2017:</strong> President
+      Trump announced repeal of DACA program &amp; gave Congress until March 5th
+      to come up with broader immigration reform.</p><p><strong>January
+      2018:</strong> California federal court issued a preliminary injunction
+      halting repeal of DACA program &amp; ordered gov’t to resume accepting
+      DACA renewal applications.</p></div>
     _key: card-3-9207f3d4-ba9f-4348-a951-516fd9d4ac57
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      * Supreme Court’s decision not to hear appeal early says nothing about the
-      merits of the case or how court might ultimately rule.
-
-      * DACA recipients can continue to apply for DACA renewals while the
-      California case works its way through the court system.
-
-      * March 5th deadline is moot; Pres. Trump cannot cancel program during
-      ongoing court challenges.
+      <div><h2>Why It Matters</h2><ul><li>Supreme Court’s decision not to hear
+      appeal early says nothing about the merits of the case or how court might
+      ultimately rule.</li><li>DACA recipients can continue to apply for DACA
+      renewals while the California case works its way through the court
+      system.</li><li>March 5th deadline is moot; Pres. Trump cannot cancel
+      program during ongoing court challenges.</li></ul></div>
     _key: card-4-e490158b-5f36-453a-acdc-e9232bc1b688
   - order: 4
     useCheckmark: true
-    body: |-
-      Next stop for DACA? 9th Circuit Court of Appeals. More Here:
-
-      [view sources](https://smarthernews.com/18-02-27-daca/)
+    body: >-
+      <div><p>Next stop for DACA? 9th Circuit Court of Appeals. More
+      Here:</p><p><a href="https://smarthernews.com/18-02-27-daca/">view
+      sources</a></p></div>
     _key: card-10-10da553b-a4f9-4a41-bc61-7c6b9a8c4730
 
 ---

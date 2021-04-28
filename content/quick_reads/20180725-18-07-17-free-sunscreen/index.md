@@ -22,74 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Sun’s Out, Sunscreen On!
-
-
-      **Could free sunscreen be as readily available as public drinking water?**
-
-
-      The nation’s largest city adds free sunscreen dispensers, even though we
-      often don’t know how much to use or what SPF even means.
-
-
-      Here's The Deal
+      <div><h1>Sun’s Out, Sunscreen On!</h1><p><strong>Could free sunscreen be
+      as readily available as public drinking water?</strong></p><p>The nation’s
+      largest city adds free sunscreen dispensers, even though we often don’t
+      know how much to use or what SPF even means.</p><p>Here's The
+      Deal</p></div>
     _key: card-1-c54043cb-2506-4f6b-9b37-6c7dd0d13228
   - order: 1
     useCheckmark: false
     body: >-
-      # SPF
-
-
-      > 
-
-
-      * **S**un**P**rotection**F**actor
-
-      * SPF 30 coversA**98% of UVB rays**; Higher than SPF 30 offers only
-      slightly higher protection.
-
-      * SPF doesn’t reflect protection against**dangerous UVA rays**.
-
-      * Docs worry those wearing higher SPF may feel “invincible” and stay in
-      sun longer.
+      <div><h1>SPF</h1><blockquote></blockquote><ul><li><strong>S</strong>un
+      <strong>P</strong>rotection <strong>F</strong>actor</li><li>SPF 30 coversA
+      <strong>98% of UVB rays</strong>; Higher than SPF 30 offers only slightly
+      higher protection.</li><li>SPF doesn’t reflect protection against
+      <strong>dangerous UVA rays</strong>.</li><li>Docs worry those wearing
+      higher SPF may feel “invincible” and stay in sun longer.</li></ul></div>
     _key: card-2-92f9d165-2dc9-432e-a505-b6442c713436
   - order: 2
     useCheckmark: false
     body: >-
-      # Free Sunscreen?
-
-
-      * America’s largest city, NYC, announced new free sunscreen dispensers in
-      July.
-
-      * Miami & Boston first with program in 2015, after gov’t “call to action”
-      to prevent skin cancer because it’s theA**most commonly diagnosed cancer
-      in U.S**.
-
-      * Nonprofits, hospitals, sunscreen dispenser-maker often foot cost for
-      city for initial program.
+      <div><h1>Free Sunscreen?</h1><ul><li>America’s largest city, NYC,
+      announced new free sunscreen dispensers in July.</li><li>Miami &amp;
+      Boston first with program in 2015, after gov’t “call to action” to prevent
+      skin cancer because it’s theA <strong>most commonly diagnosed cancer in
+      U.S</strong>.</li><li>Nonprofits, hospitals, sunscreen dispenser-maker
+      often foot cost for city for initial program.</li></ul></div>
     _key: card-3-294db54d-e3e3-43cd-8a74-3a645213bd1d
   - order: 3
     useCheckmark: false
     body: >-
-      ## An American dies of melanoma every hour
-
-
-      > “Many of the more than 5 million skin cancer cases that are diagnosed
-      annually could be prevented by protecting skin from excessive sun exposure
-      and not using indoor tanning devices.”
+      <div><h2>An American dies of melanoma every hour</h2><blockquote>“Many of
+      the more than 5 million skin cancer cases that are diagnosed annually
+      could be prevented by protecting skin from excessive sun exposure and not
+      using indoor tanning devices.”<br><br></blockquote></div>
     citation: American Cancer Society
     _key: card-4-1d08aab1-6b4c-4071-8dc7-4a6f8d1fbd7b
   - order: 4
     useCheckmark: true
     body: >-
-      Did you know you should be using ‘about a shot-glass worth of BROAD
-      SPECTRUM sunscreen every time you apply? Though the first free sunscreen
-      made this tough to do. We learned a lot creating this card - we hope you
-      did too!
-
-
-      [view sources](https://smarthernews.com/18-07-17-free-sunscreen/)
+      <div><p>Did you know you should be using ‘about a shot-glass worth of
+      BROAD SPECTRUM sunscreen every time you apply? Though the first free
+      sunscreen made this tough to do. We learned a lot creating this card - we
+      hope you did too!</p><p><a
+      href="https://smarthernews.com/18-07-17-free-sunscreen/">view
+      sources</a></p></div>
     _key: card-10-d81395ca-6a22-4fe1-b5b7-2fb707c071e0
 
 ---

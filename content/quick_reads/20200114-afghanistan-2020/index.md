@@ -22,84 +22,62 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Two U.S. soldiers killed in action in Afghanistan.
-
-
-      The first casualties of 2020.
-
-
-      The group taking responsibility is the same one America engages in peace
-      talks.
+      <div><p>Two U.S. soldiers killed in action in Afghanistan.</p><p>The first
+      casualties of 2020.</p><p>The group taking responsibility is the same one
+      America engages in peace talks.</p></div>
     _key: 6cd3fc24389c
   - order: 1
     useCheckmark: false
     body: >-
-      ## Important To Know
-
-
-      * 2019: Deadliest year for American soldiers in Afghanistan since 2014. 23
-      soldiers killed in action.
-
-      * Pres. Trump has publicly discussed wanting to withdraw from Afghanistan.
-
-      * Both the Trump & Obama admins. attempted “peace talks” with the Taliban
-      as a way to negotiate an exit.
-
-      * The Taliban control more territory in Afghanistan than ever before
-      during America’s longest war.
+      <div><h2>Important To Know</h2><ul><li>2019: Deadliest year for American
+      soldiers in Afghanistan since 2014. 23 soldiers killed in
+      action.</li><li>Pres. Trump has publicly discussed wanting to withdraw
+      from Afghanistan.</li><li>Both the Trump &amp; Obama admins. attempted
+      “peace talks” with the Taliban as a way to negotiate an exit.</li><li>The
+      Taliban control more territory in Afghanistan than ever before during
+      America’s longest war.</li></ul></div>
     _key: eb5b1d11a487
   - order: 2
     useCheckmark: false
     body: >-
-      ## What Happened:
-
-
-      * The Taliban took responsibility for a roadside bomb Saturday in southern
-      Afghanistan.
-
-      * **29-year-old Staff Sgt. Ian McLaughlin** of Virginia and**21-year-old
-      Pfc. Miguel Villalon** of Illinois died in the attack. The incident
-      remains under investigation.
-
-      * Both soldiers on their first combat deployment. McLaughlin survived by
-      his wife and four children. Villalon survived by his parents.
+      <div><h2>What Happened:</h2><ul><li>The Taliban took responsibility for a
+      roadside bomb Saturday in southern
+      Afghanistan.</li><li><strong>29-year-old Staff Sgt. Ian
+      McLaughlin</strong> of Virginia and <strong>21-year-old Pfc. Miguel
+      Villalon</strong> of Illinois died in the attack. The incident remains
+      under investigation.</li><li>Both soldiers on their first combat
+      deployment. McLaughlin survived by his wife and four children. Villalon
+      survived by his parents.</li></ul></div>
     _key: 1c038390eafc
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider
-
-
-      > “The Taliban has publicly stated its goals of the so-called ‘peace
-      talks’ is the**complete withdrawal of US forces** and the re-establishment
-      of the Islamic Emirate of Afghanistan, the official name of the Taliban’s
-      government.”  
-        
-      Bill Roggio, Long War Journal editor. Reports have indicated peace talks
-      were set to resume between the U.S. & Taliban this week overseas.
+      <div><h2>Something To Consider</h2><blockquote>“The Taliban has publicly
+      stated its goals of the so-called ‘peace talks’ is the <strong>complete
+      withdrawal of US forces</strong> and the re-establishment of the Islamic
+      Emirate of Afghanistan, the official name of the Taliban’s
+      government.”<br><br>Bill Roggio, Long War Journal editor. Reports have
+      indicated peace talks were set to resume between the U.S. &amp; Taliban
+      this week overseas.</blockquote></div>
     _key: 09650bd71225
   - order: 4
     useCheckmark: false
     body: >-
-      ## Why This Matters
-
-
-      Although not designated a terrorist group by the U.S. gov’t (an area of
-      great debate) the Taliban provide safe haven to terrorist groups that have
-      attacked America, most notably the 9/11 attackers.
-
-
-      The Taliban and Al-Qaeda remain longtime allies. Concerns remain that
-      Afghanistan, left to the Taliban, will once again become a breeding ground
-      & launching pad for terror.
+      <div><h2>Why This Matters</h2><p>Although not designated a terrorist group
+      by the U.S. gov’t (an area of great debate) the Taliban provide safe haven
+      to terrorist groups that have attacked America, most notably the 9/11
+      attackers.</p><p>The Taliban and Al-Qaeda remain longtime allies. Concerns
+      remain that Afghanistan, left to the Taliban, will once again become a
+      breeding ground &amp; launching pad for terror.</p></div>
     _key: e28e9e99ec3d
   - order: 5
     useCheckmark: true
     body: >-
-      Pres. Trump cancelled talks with the Taliban in September after the group
-      claimed to have killed a U.S. soldier. In November, during a Thanksgiving
-      visit to Afghanistan's Bagram Airfield, the President opened the door for
-      restarting peace talks. The base was attacked by the Taliban weeks later.
+      <div><p>Pres. Trump cancelled talks with the Taliban in September after
+      the group claimed to have killed a U.S. soldier. In November, during a
+      Thanksgiving visit to Afghanistan's Bagram Airfield, the President opened
+      the door for restarting peace talks. The base was attacked by the Taliban
+      weeks later.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 691588b95cea
 

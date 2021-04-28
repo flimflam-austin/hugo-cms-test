@@ -21,67 +21,52 @@ colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## October 13, 1792
-
-      _“May none but honest and wise men ever rule under this roof.”_  
-        
-      The cornerstone of the White House was laid.
+    body: >-
+      <div><h2>October 13, 1792</h2><p><em>“May none but honest and wise men
+      ever rule under this roof.”</em><br><br>The cornerstone of the White House
+      was laid.</p></div>
     _key: ff62926817ad
   - order: 1
     useCheckmark: false
     body: >-
-      ## Not A Natural White
-
-
-      “…a quality of toughness without brittle hardness.”  
-        
-      A description of the unusual sandstone used to the build the White House.
-      The stone was not *naturally* white - but "light gray or tan, and is
-      streaked or clouded with buff, yellow, or red colors that give it a warm
-      tone," according to the U.S. geographical survey.
+      <div><h2>Not A Natural White</h2><p>“…a quality of toughness without
+      brittle hardness.”<br><br>A description of the unusual sandstone used to
+      the build the White House. The stone was not *naturally* white - but
+      "light gray or tan, and is streaked or clouded with buff, yellow, or red
+      colors that give it a warm tone," according to the U.S. geographical
+      survey.</p></div>
     _key: 906d119f85f9
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why “White” House?
-
-
-      * **The Contrast**: Traditionally, buildings of the era were constructed
-      in red brick.
-
-      * **The “White Wash”**: The original sandstone weathered poorly so after
-      the British burned parts of the White House in the War of 1812, repairs
-      incl. white-washing & painting the exterior.
-
-      * **The Style**: Irish-born architect modeled the White House from a
-      famous, grand mansion in Ireland.
+      <div><h2>Why “White” House?</h2><ul><li><strong>The Contrast</strong>:
+      Traditionally, buildings of the era were constructed in red
+      brick.</li><li><strong>The “White Wash”</strong>: The original sandstone
+      weathered poorly so after the British burned parts of the White House in
+      the War of 1812, repairs incl. white-washing &amp; painting the
+      exterior.</li><li><strong>The Style</strong>: Irish-born architect modeled
+      the White House from a famous, grand mansion in Ireland.</li></ul></div>
     _key: 4979329c0822
   - order: 3
     useCheckmark: false
     body: >-
-      ## “The Seat Of The Empire”
-
-
-      * Pres. Washington chose the location of the “executive mansion”,
-      strategically near rivers (& his home in Mt. Vernon).
-
-      * Maryland & Virginia each gave a little land to create the District of
-      Colombia.
-
-      * D.C. straddles the North & South, “harnessing” wealthy southern states
-      to help pay the federal gov’t’s war debt.
-
-      * **What’s inside:** 28 fireplaces, 132 rooms, & 35 bathrooms. The
-      President’s residence has 6 levels.
+      <div><h2>“The Seat Of The Empire”</h2><ul><li>Pres. Washington chose the
+      location of the “executive mansion”, strategically near rivers (&amp; his
+      home in Mt. Vernon).</li><li>Maryland &amp; Virginia each gave a little
+      land to create the District of Colombia.</li><li>D.C. straddles the North
+      &amp; South, “harnessing” wealthy southern states to help pay the federal
+      gov’t’s war debt.</li><li><strong>What’s inside:</strong> 28 fireplaces,
+      132 rooms, &amp; 35 bathrooms. The President’s residence has 6
+      levels.</li></ul><p></p></div>
     _key: dc338b3e3aa3
   - order: 4
     useCheckmark: true
     body: >-
-      Whoever "wins the White House" this year will follow a tradition of every
-      U.S, president since Pres. John Adams, the first inhabitant, in 1800 - a
-      full 8 years after construction began. Adams wrote the line on the front
-      of our card stack in a letter to his wife Abigail a day after moving in.
+      <div><p>Whoever "wins the White House" this year will follow a tradition
+      of every U.S, president since Pres. John Adams, the first inhabitant, in
+      1800 - a full 8 years after construction began. Adams wrote the line on
+      the front of our card stack in a letter to his wife Abigail a day after
+      moving in.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 5e3dd6067fc3
 

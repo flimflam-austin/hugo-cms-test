@@ -21,83 +21,57 @@ colorpaletteclassname: '--dark-brown'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      > NOBEL PEACE PRIZE  
-        
-        
-        
-      (is named after the inventor of dynamite...)
+    body: >-
+      <blockquote>NOBEL PEACE PRIZE<br><br><br><br>(is named after the inventor
+      of dynamite...)</blockquote>
     _key: card-1-0d732ae8-8730-429c-9952-214f8eb3eef5
   - order: 1
     useCheckmark: false
     body: >-
-      ## Who’s Nobel?
-
-
-      Swedish inventor Alfred Nobel**created dynamite** to make life safer,
-      particularly for miners. Received U.S. patent in 1867, but reviled for
-      creating a destructive weapon.
-
-
-      When he died in 1895, he used his fortune to create a foundation honoring
-      excellence in**Literature, Medicine, Physics, Chemistry, and Peace.A
-      Economics** added in 1968.
+      <div><h2>Who’s Nobel?</h2><p>Swedish inventor Alfred Nobel <strong>created
+      dynamite</strong> to make life safer, particularly for miners. Received
+      U.S. patent in 1867, but reviled for creating a destructive
+      weapon.</p><p>When he died in 1895, he used his fortune to create a
+      foundation honoring excellence in <strong>Literature, Medicine, Physics,
+      Chemistry, and Peace.A Economics</strong> added in 1968.</p></div>
     _key: card-2-e50a71da-3de2-481f-94a4-9181f7e45469
   - order: 2
     useCheckmark: false
     body: >-
-      # What’s the Prize?
-
-
-      On December 10, the Nobel Laureates will attend the**Nobel Peace Prize
-      Award Ceremony** in Oslo, Norway, where they’ll receive:
-
-
-      * Nobel Medal
-
-      * Nobel Diploma
-
-      * 9 Million Swedish kronorA ($1.01A million) – divided equally
+      <div><h1>What’s the Prize?</h1><p>On December 10, the Nobel Laureates will
+      attend the <strong>Nobel Peace Prize Award Ceremony</strong> in Oslo,
+      Norway, where they’ll receive:</p><ul><li>Nobel Medal</li><li>Nobel
+      Diploma</li><li>9 Million Swedish kronorA ($1.01A million) – divided
+      equally</li></ul></div>
     _key: card-3-f6d974b0-581d-4de9-a7af-4af06673ae8a
   - order: 3
     useCheckmark: false
     body: >-
-      Who Else Was Nominated?  
-
-      Nobody Knows!
-
-
-      The Norwegian Nobel Cmte doesn’t name other candidates – only how many
-      they are (**331 candidates in 2018**.)
-
-
-      Everything reported in media is mere speculation.A**Information on
-      nominees isn’t made public until after 50 years.**
+      <div><p>Who Else Was Nominated?<br>Nobody Knows!</p><p>The Norwegian Nobel
+      Cmte doesn’t name other candidates – only how many they are (<strong>331
+      candidates in 2018</strong>.)</p><p>Everything reported in media is mere
+      speculation.A <strong>Information on nominees isn’t made public until
+      after 50 years.</strong></p></div>
     _key: card-4-af32264f-dd4b-4cc6-94d1-378ff9a23030
   - order: 4
     useCheckmark: false
     body: >-
-      # A By The Numbers
-
-
-      * Awarded annually sinceA**1901.**
-
-      * Winners include:A**131 Nobel Laureates** toA 104 people (includingA**16
-      women**)A & 27 organizations and**FOUR U.S. Presidents**: Barack Obama
-      (2009), Jimmy Carter (2002), Woodrow Wilson (1919) & Theodore Roosevelt
-      (1906),
-
-      * Cmte made up of**5 appointees** of the Norwegian Parliament.
+      <div><h1>A By The Numbers</h1><ul><li>Awarded annually sinceA
+      <strong>1901.</strong></li><li>Winners include:A <strong>131 Nobel
+      Laureates</strong> toA 104 people (includingA <strong>16 women</strong>)A
+      &amp; 27 organizations and <strong>FOUR U.S. Presidents</strong>: Barack
+      Obama (2009), Jimmy Carter (2002), Woodrow Wilson (1919) &amp; Theodore
+      Roosevelt (1906),</li><li>Cmte made up of <strong>5 appointees</strong> of
+      the Norwegian Parliament.</li></ul></div>
     _key: card-5-e44aa6dc-8947-422e-9bd4-95bd916fb32b
   - order: 5
     useCheckmark: true
     body: >-
-      Learn more about this year's Nobel Peace Prize laureates, Denis Mukwege &
-      Nadia Murad, on our source page. Both worked against sexual violence in
-      war zones. Murad was once held captive of ISIS.
-
-
-      [view sources](https://smarthernews.com/18-10-05-nobel-peace-prize/)
+      <div><p>Learn more about this year's Nobel Peace Prize laureates, Denis
+      Mukwege &amp; Nadia Murad, on our source page. Both worked against sexual
+      violence in war zones. Murad was once held captive of ISIS.</p><p><a
+      href="https://smarthernews.com/18-10-05-nobel-peace-prize/">view
+      sources</a></p></div>
     _key: card-10-f9c73f2c-a458-42e5-9f2b-f9d597b9cb93
 
 ---

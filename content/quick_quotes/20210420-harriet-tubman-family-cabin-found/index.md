@@ -2,11 +2,11 @@
 title: Harriet Tubman Family Cabin Found
 slug: 20210420-harriet-tubman-family-cabin-found
 _id: 0c054966-de9a-4657-9405-95570271851f
-_rev: BjmrbMzn9HNsCfIXdiE7Zc
+_rev: 6MVoxel8D9Shx3LWykd5vQ
 type: quick_quotes
 draft: false
 _createdAt: '2021-04-20T19:24:33Z'
-_updatedAt: '2021-04-20T19:32:24Z'
+_updatedAt: '2021-04-28T16:07:41Z'
 date: '2021-04-20T19:24:00.000Z'
 lastmod: '2021-04-20T19:24:00.000Z'
 weight: 50
@@ -15,7 +15,7 @@ featured_image:
   url: >-
     b1f4696d10b82e6de907b515deeecf4e55476208645x1024.jpg
 authorReference: 5011411a-3ce0-4c80-975a-7b1a35572700
-is_breaking: true
+is_breaking: false
 featured_quote:
   quote: It was totally a eureka moment.
   citation: >-

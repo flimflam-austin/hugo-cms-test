@@ -22,86 +22,55 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # T-MOBILE & SPRINT TO MERGE?
-
-
-      ## 1 in 3 Americans Impacted
-
-
-      Promising more jobs & faster internet, but $26B deal**still needs
-      regulators’ blessing** – which hasn’t gone well in the past…
-
-
-      THIRD TIME THE CHARM?
+      <div><h1>T-MOBILE &amp; SPRINT TO MERGE?</h1><h2>1 in 3 Americans
+      Impacted</h2><p>Promising more jobs &amp; faster internet, but $26B deal
+      <strong>still needs regulators’ blessing</strong> – which hasn’t gone well
+      in the past…</p><p>THIRD TIME THE CHARM?</p></div>
     _key: card-1-88c2ecc1-9297-449b-885b-4b302e194a40
   - order: 1
     useCheckmark: false
     body: >-
-      **What’s different this time?**  
-
-      Their sales pitch: merger makes the U.S. beat China on 5G wireless
-      (ultra-fast internet).  
-        
-      **Why would that plan work?**  
-
-      Trump Admin shown 5G is a priority.  
-        
-      **Not everybody is buying it…**  
-
-      _“I’ll stipulate that John Legere (CEO of T-Mobile) is the world’s
-      greatest salesman. But what he’s selling right now, it’s old stuff.”_  
-
-      _Tom Wheeler, Former FCC Chair_
+      <p><strong>What’s different this time?</strong><br>Their sales pitch:
+      merger makes the U.S. beat China on 5G wireless (ultra-fast
+      internet).<br><br><strong>Why would that plan work?</strong><br>Trump
+      Admin shown 5G is a priority.<br><br><strong>Not everybody is buying
+      it…</strong><br><em>“I’ll stipulate that John Legere (CEO of T-Mobile) is
+      the world’s greatest salesman. But what he’s selling right now, it’s old
+      stuff.”</em><br><em>Tom Wheeler, Former FCC Chair</em><br></p>
     _key: card-2-10dd8e5f-c8ef-4057-9e90-1773fe9159f6
   - order: 2
     useCheckmark: false
     body: >-
-      ## How Will Deal Affect You?
-
-
-      > 
-
-
-      * **Less Competition:** U.S. wireless market dominated by 3 players.
-
-      * **Closer in Size:**A Tie-up gives T-Mobile/Sprint 100M customers (AT&T
-      93M, Verizon 116M).
-
-      * **5G:** Faster rollout of a nationwide higher-speed internet network.
-
-      * **Higher Bills?:** Unclear, but Economics 101: less competition = higher
-      prices.
-
-
-
-
-      FLIP: opposing takes
+      <div><h2>How Will Deal Affect
+      You?</h2><blockquote></blockquote><ul><li><strong>Less
+      Competition:</strong> U.S. wireless market dominated by 3
+      players.</li><li><strong>Closer in Size:</strong>A Tie-up gives
+      T-Mobile/Sprint 100M customers (AT&amp;T 93M, Verizon
+      116M).</li><li><strong>5G:</strong> Faster rollout of a nationwide
+      higher-speed internet network.</li><li><strong>Higher Bills?:</strong>
+      Unclear, but Economics 101: less competition = higher
+      prices.</li></ul><p></p><p>FLIP: opposing takes</p></div>
     _key: card-3-85b32e4d-6f00-4c7d-bc39-11490a6bd266
   - order: 3
     useCheckmark: false
     body: >-
-      _"Combination will not only result in less choice for consumers, it will
-      provide greater incentive for the 3 remaining companies to act in
-      concert.”_  
-
-      **Gigi Sohn, Georgetown Law Inst.**  
-        
-        
-      _"I think this deal is good for consumers. …T-Mobile led this aggressive,
-      consumer-focused charge… (rivals have) been forced to follow suit."_  
-
-      **Jonathan Chaplin, New Street Research**
+      <p><em>"Combination will not only result in less choice for consumers, it
+      will provide greater incentive for the 3 remaining companies to act in
+      concert.”</em><br><strong>Gigi Sohn, Georgetown Law
+      Inst.</strong><br><br><br><em>"I think this deal is good for consumers.
+      …T-Mobile led this aggressive, consumer-focused charge… (rivals have) been
+      forced to follow suit."</em><br><strong>Jonathan Chaplin, New Street
+      Research</strong></p>
     _key: card-4-c2e1a191-3708-47dc-9cb4-28bab44fd005
   - order: 4
     useCheckmark: true
     body: >-
-      SmartHER Take: The biggest question for regulators will be what's more
-      important for you the consumer: lower monthly wireless prices or cutting
-      edge, faster technology? We want to know what you think! Email us
-      Info@SmartHerNews.com.
-
-
-      [view sources](https://smarthernews.com/18-05-01-tmobile-sprint/)
+      <div><p>SmartHER Take: The biggest question for regulators will be what's
+      more important for you the consumer: lower monthly wireless prices or
+      cutting edge, faster technology? We want to know what you think! Email us
+      Info@SmartHerNews.com.</p><p><a
+      href="https://smarthernews.com/18-05-01-tmobile-sprint/">view
+      sources</a></p></div>
     _key: card-10-5a8cc044-dbfe-494c-89f2-9dbebb3d28fa
 
 ---

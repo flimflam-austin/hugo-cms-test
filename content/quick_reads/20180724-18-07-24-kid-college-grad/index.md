@@ -21,21 +21,20 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      > ‘Everybody has gifts from God. I was gifted with knowledge.”
-
-      11-year-old William Maillis
+    body: >-
+      <div><blockquote>‘Everybody has gifts from God. I was gifted with
+      knowledge.”</blockquote><p>11-year-old William Maillis</p></div>
     citation: 11-year-old William Maillis
     _key: card-1-26625fbf-d33a-435e-a674-00e2ea095c6f
   - order: 1
     useCheckmark: true
     body: >-
-      Maillis, who completed high school at age 9, graduated from St. Petersburg
-      College with an associates degree. He plans to continue his studies at the
-      University of South Florida. His goal? To be an astrophysicist.
-
-
-      [view sources](https://smarthernews.com/18-07-24-kid-college-grad/)
+      <div><p>Maillis, who completed high school at age 9, graduated from St.
+      Petersburg College with an associates degree. He plans to continue his
+      studies at the University of South Florida. His goal? To be an
+      astrophysicist.</p><p><a
+      href="https://smarthernews.com/18-07-24-kid-college-grad/">view
+      sources</a></p></div>
     _key: card-10-569240b2-417f-4c72-8069-49f3cc4fcc95
 
 ---

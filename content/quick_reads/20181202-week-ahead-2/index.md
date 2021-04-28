@@ -21,17 +21,13 @@ colorpaletteclassname: '--light-green'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      SmartHER News Week Ahead
-
-      Dec 2 - 9
+    body: <div><p>SmartHER News Week Ahead</p><p>Dec 2 - 9</p></div>
     _key: card-1-bd9a3c97-8235-44ce-a65a-3e57cb65d535
   - order: 1
     useCheckmark: true
-    body: |-
-      Check out our source page for the full rundown!
-
-      [view sources](https://smarthernews.com/week-ahead-2/)
+    body: >-
+      <div><p>Check out our source page for the full rundown!</p><p><a
+      href="https://smarthernews.com/week-ahead-2/">view sources</a></p></div>
     _key: card-10-ebe1e7be-8064-4b1f-a93f-b8543777d29d
 
 ---

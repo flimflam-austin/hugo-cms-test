@@ -22,60 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “They’re more than just a pair of shoes, the slippers. They’re an
-      enduring symbol of the power of belief.”  
-        
-        
-        
-      Grand Rapids Police Chief Scott Johnson after working with the FBI to
-      recover Dorothy's ruby slippers, 13 years after they were stolen from the
-      Judy Garland Museum in the actress' hometown. They are one of four known
-      pairs and were insured for $1M.
+      <blockquote>“They’re more than just a pair of shoes, the slippers. They’re
+      an enduring symbol of the power of belief.”<br><br><br><br>Grand Rapids
+      Police Chief Scott Johnson after working with the FBI to recover Dorothy's
+      ruby slippers, 13 years after they were stolen from the Judy Garland
+      Museum in the actress' hometown. They are one of four known pairs and were
+      insured for $1M.</blockquote>
     _key: card-1-91ef90f9-4f51-4996-9df5-6369b99df9a3
   - order: 1
     useCheckmark: false
     body: >-
-      “Twitter does not use political ideology to make any decisions…. In fact,
-      from a simple business perspective and to serve the public conversation,
-      Twitter is incentivized to keep all voices on the platform.”  
-        
-      Jack Dorsey, Twitter co-founder & CEO, in written testimony. On Wednesday,
-      Dorsey & Facebook's Sheryl Sandberg will appear before the House Committee
-      on Energy and Commerce to discuss their companies' response to foreign
-      attempts to influence U.S. political campaigns.
+      <p>“Twitter does not use political ideology to make any decisions…. In
+      fact, from a simple business perspective and to serve the public
+      conversation, Twitter is incentivized to keep all voices on the
+      platform.”<br><br>Jack Dorsey, Twitter co-founder &amp; CEO, in written
+      testimony. On Wednesday, Dorsey &amp; Facebook's Sheryl Sandberg will
+      appear before the House Committee on Energy and Commerce to discuss their
+      companies' response to foreign attempts to influence U.S. political
+      campaigns.</p>
     _key: card-2-36a22304-1c15-4f61-9fdf-2c5b520a9c7d
   - order: 2
     useCheckmark: false
     body: >-
-      "You hire us to get things done and pass the torch when we’ve done our
-      best to do what you hired us to do."  
-        
-        
-      Chicago Mayor Rahm Emanuel announcing he will not seek re-election. The
-      move is a surprise as he's raised $10M for a third term and, historically,
-      Chicago mayors hold office for decades. Emanuel faces scrutiny over his
-      handling of a police officer shooting a knife-wielding teen 16 times. The
-      officer's murder trial starts Wednesday.
+      <p>"You hire us to get things done and pass the torch when we’ve done our
+      best to do what you hired us to do."<br><br><br>Chicago Mayor Rahm Emanuel
+      announcing he will not seek re-election. The move is a surprise as he's
+      raised $10M for a third term and, historically, Chicago mayors hold office
+      for decades. Emanuel faces scrutiny over his handling of a police officer
+      shooting a knife-wielding teen 16 times. The officer's murder trial starts
+      Wednesday.</p>
     _key: card-3-498b6ed3-8be3-42f8-8b51-6aea885eba1a
   - order: 3
     useCheckmark: false
     body: >-
-      > “I’m here to take that stand and say we are ready for the storm.”  
-        
-        
-      Ghassan Korban, newly named Exec. Dir. of New Orleans Sewerage & Water
-      Board, on approaching storm Gordon. His first day on the job was Tuesday;
-      he came from Milwaukee. Gordon is on track to be the first hurricane to
-      make landfall this year.
+      <blockquote>“I’m here to take that stand and say we are ready for the
+      storm.”<br><br><br>Ghassan Korban, newly named Exec. Dir. of New Orleans
+      Sewerage &amp; Water Board, on approaching storm Gordon. His first day on
+      the job was Tuesday; he came from Milwaukee. Gordon is on track to be the
+      first hurricane to make landfall this year.</blockquote>
     _key: card-4-b9aee35e-a548-4183-bc6e-56dcb47eb430
   - order: 4
     useCheckmark: true
     body: >-
-      "No place like home." Go deeper on the mysterious disappearance of those
-      ruby slippers here.
-
-
-      [view sources](https://smarthernews.com/18-09-05-qq/)
+      <div><p>"No place like home." Go deeper on the mysterious disappearance of
+      those ruby slippers here.</p><p><a
+      href="https://smarthernews.com/18-09-05-qq/">view sources</a></p></div>
     _key: card-10-8928f258-6b38-4fa6-bb7d-d0791cf8a12c
 
 ---

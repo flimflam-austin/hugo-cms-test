@@ -22,76 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Total Domination
-
-
-      ## ‘Roseanne’ Rocks Ratings
-
-
-      **1 out of 5** American viewers tuned in for ABC’s return of ‘Roseanne’ –
-      approximately**18M**.
-
-
-      “Text from john goodman who is on a plane today: “HURRAY FOR THE
-      CONNORS!'” – @therealroseanne
-
-
-      Flip For Why It Matters
+      <div><h1>Total Domination</h1><h2>‘Roseanne’ Rocks
+      Ratings</h2><p><strong>1 out of 5</strong> American viewers tuned in for
+      ABC’s return of ‘Roseanne’ – approximately
+      <strong>18M</strong>.</p><p>“Text from john goodman who is on a plane
+      today: “HURRAY FOR THE CONNORS!'” – @therealroseanne</p><p>Flip For Why It
+      Matters</p></div>
     citation: Flip For Why It Matters
     _key: card-1-9b87e764-8112-4da2-a310-1ea1a53b0046
   - order: 1
     useCheckmark: false
     body: >-
-      # Distinct Departure
-
-
-      > _“RoseanneA was pitched as a timely revival, one that put starA
-      RoseanneA Barr’s support for president Donald Trump in the narrative at a
-      time when most scripted TV is decidedly liberal-skewing.”_  
-        
-        
-        
-      Hollywood Reporter, March 28, 2018
+      <div><h1>Distinct Departure</h1><blockquote><em>“RoseanneA was pitched as
+      a timely revival, one that put starA RoseanneA Barr’s support for
+      president Donald Trump in the narrative at a time when most scripted TV is
+      decidedly liberal-skewing.”</em><br><br><br><br>Hollywood Reporter, March
+      28, 2018</blockquote></div>
     _key: card-2-c42f124d-3894-4afd-b8f8-f07e6054969f
   - order: 2
     useCheckmark: false
-    body: |-
-      # Flyover Power
-
-      ‘Roseanne’ Reboot’s  
-      Highest-Rated Markets:
-
-      Tulsa, Oklahoma
-
-      Cincinnati, Ohio
-
-      Kansas City, Missouri
+    body: >-
+      <div><h1>Flyover Power</h1><p>‘Roseanne’ Reboot’s<br>Highest-Rated
+      Markets:</p><p>Tulsa, Oklahoma</p><p>Cincinnati, Ohio</p><p>Kansas City,
+      Missouri</p></div>
     _key: card-3-d226e606-c3e6-4bb6-a64f-d2f6b92bf238
   - order: 3
     useCheckmark: false
     body: >-
-      ## Comparatively Speaking
-
-
-      * The ‘Will & Grace’ reunion started when the main actors filmed a
-      10-minute video to support presidential candidate Hillary Clinton in 2016.
-
-      * NBC launched an official revival of the series in 2017 –**10M viewers
-      watched**.
-
-      * ‘Will & Grace’ was justA**re-upped** for a 3rd season; 4M viewers on
-      average per show.
+      <div><h2>Comparatively Speaking</h2><ul><li>The ‘Will &amp; Grace’ reunion
+      started when the main actors filmed a 10-minute video to support
+      presidential candidate Hillary Clinton in 2016.</li><li>NBC launched an
+      official revival of the series in 2017 – <strong>10M viewers
+      watched</strong>.</li><li>‘Will &amp; Grace’ was justA
+      <strong>re-upped</strong> for a 3rd season; 4M viewers on average per
+      show.</li></ul></div>
     _key: card-4-cb10e9d5-e51c-416c-af94-08fb5fdba9ee
   - order: 4
     useCheckmark: true
     body: >-
-      "Roseanne"s popularity offers advertisers valuable real estate. How much
-      will a 30-sec ad cost you? $175,000. Check out source page for more on
-      where "Roseanne" dominated:
-
-
-      [view
-      sources](https://smarthernews.com/18-02-28-roseanne-tvland-domination/)
+      <div><p>"Roseanne"s popularity offers advertisers valuable real estate.
+      How much will a 30-sec ad cost you? $175,000. Check out source page for
+      more on where "Roseanne" dominated:</p><p><a
+      href="https://smarthernews.com/18-02-28-roseanne-tvland-domination/">view
+      sources</a></p></div>
     _key: card-10-3d7bf18b-1cca-4dd6-8cbe-1fedfe065d46
 
 ---

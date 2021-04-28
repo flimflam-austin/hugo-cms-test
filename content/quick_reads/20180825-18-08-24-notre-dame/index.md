@@ -22,79 +22,57 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      SmartHER Adventure:  
-
-      Notre Dame Football
-
-
-      > Jill Frangie of the SmartHER Squad shares her tips for an unforgettable,
-      game day getaway.
+      <div><p>SmartHER Adventure:<br>Notre Dame Football</p><blockquote>Jill
+      Frangie of the SmartHER Squad shares her tips for an unforgettable, game
+      day getaway.</blockquote></div>
     _key: card-1-172f3312-40f2-4266-b98e-15e38ac0c63c
   - order: 1
     useCheckmark: false
     body: >-
-      > “You don’t need to be Irish, & it doesn’t matter your college team
-      allegiances.A Heck, maybe you’re just a fan of the movieA_Rudy_. A Notre
-      Dame football weekend is a once-in-a-lifetime experience.”  
-        
-        
-        
-      Most schools call it a "fight song", but Notre Dame calls it a "victory
-      march." Do yourself a favor & learn the lyrics.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/8r0PfgtJvHU?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>“You don’t need to be Irish, &amp; it doesn’t matter your
+      college team allegiances.A Heck, maybe you’re just a fan of the movieA
+      <em>Rudy</em>. A Notre Dame football weekend is a once-in-a-lifetime
+      experience.”<br><br><br><br>Most schools call it a "fight song", but Notre
+      Dame calls it a "victory march." Do yourself a favor &amp; learn the
+      lyrics.</blockquote><p><a
+      href="https://www.youtube.com/embed/8r0PfgtJvHU?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-2-6c47b1ff-782a-4f73-b77b-3fef4863d6c1
   - order: 2
     useCheckmark: false
     body: >-
-      ## Key to Success: Start Early
-
-
-      > “Buy game tickets, hotel rooms & flights as soon as possible. The closer
-      to football season the harder to find & more expensive things get.”  
-        
-        
-      Jill recommends staying at a hotel across from the stadium or in nearby
-      Mishawaka. South Bend has its own airport & is about a 2 hour drive east
-      of Chicago.
+      <div><h2>Key to Success: Start Early</h2><blockquote>“Buy game tickets,
+      hotel rooms &amp; flights as soon as possible. The closer to football
+      season the harder to find &amp; more expensive things
+      get.”<br><br><br>Jill recommends staying at a hotel across from the
+      stadium or in nearby Mishawaka. South Bend has its own airport &amp; is
+      about a 2 hour drive east of Chicago.</blockquote></div>
     _key: card-3-4526bcba-e94f-4bd4-ab5d-449c322c2bb6
   - order: 3
     useCheckmark: false
     body: >-
-      ## Game Weekend
-
-
-      > “A tradition since 1931, every Notre Dame football team has marched down
-      the same tunnel and on to the same field for every home football game. On
-      football weekend Fridays, you can too!”  
-        
-        
-      SmartHER tip: most of the best things to do are FREE!
-
-
-      [CLICK: Game Day Events](http://gameday.nd.edu/events/)
+      <div><h2>Game Weekend</h2><blockquote>“A tradition since 1931, every Notre
+      Dame football team has marched down the same tunnel and on to the same
+      field for every home football game. On football weekend Fridays, you can
+      too!”<br><br><br>SmartHER tip: most of the best things to do are
+      FREE!</blockquote><p><a href="http://gameday.nd.edu/events/">CLICK: Game
+      Day Events</a></p></div>
     _key: card-4-d6f95db3-59de-47a8-a6b2-300cc688af13
   - order: 4
     useCheckmark: false
     body: >-
-      Keep Your Camera Handy
-
-
-      It’s worth heading to the bookstore for any last minute Irish gear because
-      there’s no doubtA you’ll run into a former coach or player or famous fan
-      and get an autograph.
+      <div><p>Keep Your Camera Handy</p><p>It’s worth heading to the bookstore
+      for any last minute Irish gear because there’s no doubtA you’ll run into a
+      former coach or player or famous fan and get an autograph.</p></div>
     _key: card-5-0723f9dd-df9e-4a89-8c21-318c509a858c
   - order: 5
     useCheckmark: true
     body: >-
-      College football kicks off this Saturday! Notre Dame is ranked #12
+      <div><p>College football kicks off this Saturday! Notre Dame is ranked #12
       (Alabama is #1). Time to pack your bags -- but read on to learn why you
-      should leave your purse at home.
-
-
-      [view sources](https://smarthernews.com/18-08-24-notre-dame/)
+      should leave your purse at home.</p><p><a
+      href="https://smarthernews.com/18-08-24-notre-dame/">view
+      sources</a></p></div>
     _key: card-10-c1bfb8b8-cba9-4597-bedd-a11d5db1fd12
 
 ---

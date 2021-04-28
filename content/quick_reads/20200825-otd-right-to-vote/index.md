@@ -22,100 +22,71 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # COVID & DAYCARES
-
-
-      The CDC shared**new data** on COVID cases in childcare facilities in Rhode
-      Island.
-
-
-      The Major Takeaways  
-
-      Why It Matters
+      <div><h1>COVID &amp; DAYCARES</h1><p>The CDC shared <strong>new
+      data</strong> on COVID cases in childcare facilities in Rhode
+      Island.</p><p>The Major Takeaways<br>Why It Matters</p></div>
     _key: 7630c3564511
   - order: 1
     useCheckmark: false
     body: >-
-      ## Backstory
-
-
-      * Rhode Island allowed hundreds of its childcare centers to open in June &
-      July with new COVID-19 policies.
-
-      * Policies incl. reduced capacity, frequent cleaning, universal *adult*
-      mask-wearing and symptom screenings.
-
-      * The CDC released a report on what happened and hosted a briefing with
-      researchers and reporters. SmartHER News participated in the media
-      briefing as well.
+      <div><h2>Backstory</h2><ul><li>Rhode Island allowed hundreds of its
+      childcare centers to open in June &amp; July with new COVID-19
+      policies.</li><li>Policies incl. reduced capacity, frequent cleaning,
+      universal *adult* mask-wearing and symptom screenings.</li><li>The CDC
+      released a report on what happened and hosted a briefing with researchers
+      and reporters. SmartHER News participated in the media briefing as
+      well.</li></ul></div>
     _key: 1ee9619d6f84
   - order: 2
     useCheckmark: false
     body: >-
-      ## Here’s The Data
-
-
-      * 666 of 891 (75%) daycare programs reopened in Rhode Island, with
-      capacity for 18,945 children.
-
-      * 101 *probable* cases of COVID emerged by July 31st of kids/staff; about
-      half of those cases officially tested or diagnosed as positive.
-
-      * Secondary transmission (one case spreading to many others) was limited.
-
-      * **Bottom Line**: Cases emerged but spread was contained.
+      <div><h2>Here’s The Data</h2><ul><li>666 of 891 (75%) daycare programs
+      reopened in Rhode Island, with capacity for 18,945 children.</li><li>101
+      *probable* cases of COVID emerged by July 31st of kids/staff; about half
+      of those cases officially tested or diagnosed as
+      positive.</li><li>Secondary transmission (one case spreading to many
+      others) was limited.</li><li><strong>Bottom Line</strong>: Cases emerged
+      but spread was contained.</li></ul></div>
     _key: d45e1713b830
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider
-
-
-      * Of 666 daycares, 29 had COVID-19 incidents by end of July.
-
-      * Of the 29, 20 had one case & no further transmission within daycare,
-      five had 2-5 cases; four had 2+ cases w/secondary transmission unable to
-      be ruled out.
-
-      * While we know the number of daycare facilities & their capacities, we
-      don’t know how many children/staff were actually in attendance to give the
-      number of cases appropriate context.
+      <div><h2>Something To Consider</h2><ul><li>Of 666 daycares, 29 had
+      COVID-19 incidents by end of July.</li><li>Of the 29, 20 had one case
+      &amp; no further transmission within daycare, five had 2-5 cases; four had
+      2+ cases w/secondary transmission unable to be ruled out.</li><li>While we
+      know the number of daycare facilities &amp; their capacities, we don’t
+      know how many children/staff were actually in attendance to give the
+      number of cases appropriate context.</li></ul><p><br></p></div>
     _key: 256d89a70880
   - order: 4
     useCheckmark: false
     body: >-
-      ## One Case Featured
-
-
-      A sick 2-year-old attended childcare 3 days before COVID-19 symptoms
-      emerged & 3 days immediately after the symptoms ended.
-
-
-      10 of the 11 child care contacts in the same class were tested for
-      COVID-19.
-
-
-      No additional students tested positive for the virus.
+      <div><h2>One Case Featured</h2><p>A sick 2-year-old attended childcare 3
+      days before COVID-19 symptoms emerged &amp; 3 days immediately after the
+      symptoms ended.</p><p>10 of the 11 child care contacts in the same class
+      were tested for COVID-19.</p><p>No additional students tested positive for
+      the virus.</p></div>
     _key: cf4047f1357d
   - order: 5
     useCheckmark: false
     body: >-
-      > “…what we’re asking the American public to do is to bring this virus to
-      its knees…It’s in our grasp. But it is going to require all of us to
-      embrace these mitigation steps. And we are going to need to do that for 4,
-      6, 8, 10, 12 weeks and then we will see this outbreak get under control.”
-
-
-      CDC Dir. Robert Redfield believes social mitigation efforts like smaller
-      class size made a difference in limiting spread in Rhode Island daycares.
+      <div><blockquote>“…what we’re asking the American public to do is to bring
+      this virus to its knees…It’s in our grasp. But it is going to require all
+      of us to embrace these mitigation steps. And we are going to need to do
+      that for 4, 6, 8, 10, 12 weeks and then we will see this outbreak get
+      under control.”</blockquote><p>CDC Dir. Robert Redfield believes social
+      mitigation efforts like smaller class size made a difference in limiting
+      spread in Rhode Island daycares.</p></div>
     _key: 69f4c185c033
   - order: 6
     useCheckmark: true
     body: >-
-      The study states the prevalence of cases in Rhode Island at the time was
-      "low ... relative to other U.S. states." However, we don't know what "low"
-      means in this case to understand how this example can apply elsewhere. We
-      reached out to Rhode Island's Dept of Health and are awaiting a response.
+      <div><p>The study states the prevalence of cases in Rhode Island at the
+      time was "low ... relative to other U.S. states." However, we don't know
+      what "low" means in this case to understand how this example can apply
+      elsewhere. We reached out to Rhode Island's Dept of Health and are
+      awaiting a response.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 64542fde6533
 

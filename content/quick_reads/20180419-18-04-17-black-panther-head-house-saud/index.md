@@ -22,104 +22,71 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Prince To Prince
-
-
-      ## ‘Black Panther’ Heads To House of Saud
-
-
-      Two weeks after the**Saudi Crown Prince** met with the head of Walt Disney
-      in Los Angelesa|aA Disney movie, featuring a groundbreaking**prince**,
-      headlines as the first movie shown in Saudi Arabia in 35 years.
-
-
-      Flip For Why It Matters
+      <div><h1>Prince To Prince</h1><h2>‘Black Panther’ Heads To House of
+      Saud</h2><p>Two weeks after the <strong>Saudi Crown Prince</strong> met
+      with the head of Walt Disney in Los Angelesa|aA Disney movie, featuring a
+      groundbreaking <strong>prince</strong>, headlines as the first movie shown
+      in Saudi Arabia in 35 years.</p><p>Flip For Why It Matters</p></div>
     citation: Flip For Why It Matters
     _key: card-1-f975bc32-6b6f-4fd5-ba58-e8d37b09dcfb
   - order: 1
     useCheckmark: false
     body: >-
-      # Why Now?
-
-
-      * 32-year-old Saudi Crown Prince recently toured U.S., meeting the most
-      powerful Americans in business and politics.
-
-      * Movie theaters are part of Prince’s “**Vision 2030**” plan to reform
-      Saudi Arabia & diversify economy.
-
-      * Movie industry estimated to bring in**$30B** &**30,000 jobs by 2030**.
-
-
-      [click here:
-      Catch-Up](https://smarthernews.com/18-04-03-saudi-spring-break/)
+      <div><h1>Why Now?</h1><ul><li>32-year-old Saudi Crown Prince recently
+      toured U.S., meeting the most powerful Americans in business and
+      politics.</li><li>Movie theaters are part of Prince’s “<strong>Vision
+      2030</strong>” plan to reform Saudi Arabia &amp; diversify
+      economy.</li><li>Movie industry estimated to bring in
+      <strong>$30B</strong> &amp; <strong>30,000 jobs by
+      2030</strong>.</li></ul><p><a
+      href="https://smarthernews.com/18-04-03-saudi-spring-break/">click here:
+      Catch-Up</a></p></div>
     citation: 'click here: Catch-Up'
     _key: card-2-ac70a0b3-17d5-4a60-a66d-4ff1398e5d2b
   - order: 2
     useCheckmark: false
     body: >-
-      # Money & Politics
-
-
-      * Majority of the Saudi kingdom**under age of 25**.
-
-      * 32-year-old Crown Prince is a**millennial** himself and could rule for
-      the rest of our lifetimes.
-
-      * Domestic Priority:**HIGH unemployment** (esp for youth).
-
-      * Economy:**Dependent on oil**.
-
-      * **Reforms geared towards the young but keeping the Saudi royal kingdom
-      intact**.
+      <div><h1>Money &amp; Politics</h1><ul><li>Majority of the Saudi kingdom
+      <strong>under age of 25</strong>.</li><li>32-year-old Crown Prince is a
+      <strong>millennial</strong> himself and could rule for the rest of our
+      lifetimes.</li><li>Domestic Priority: <strong>HIGH unemployment</strong>
+      (esp for youth).</li><li>Economy: <strong>Dependent on
+      oil</strong>.</li><li><strong>Reforms geared towards the young but keeping
+      the Saudi royal kingdom intact</strong>.</li></ul></div>
     _key: card-3-eb037574-bc4c-47fb-9acf-39dabff3cecc
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      * Saudi Arabia may allow American movies, orA partner w/U.S. in certain
-      areas of foreign policy, but its**not a democracy**.
-
-      * Saudi Arabia home to 2 holiest sites in Islam – important to entire
-      Muslim world – millions make pilgrimages to sites.
-
-      * Other Muslim nations like Bahrain and United Arab Emirates *already*
-      show movies.
+      <div><h2>Something To Consider:</h2><ul><li>Saudi Arabia may allow
+      American movies, orA partner w/U.S. in certain areas of foreign policy,
+      but its <strong>not a democracy</strong>.</li><li>Saudi Arabia home to 2
+      holiest sites in Islam – important to entire Muslim world – millions make
+      pilgrimages to sites.</li><li>Other Muslim nations like Bahrain and United
+      Arab Emirates *already* show movies.</li></ul></div>
     _key: card-4-f418fecb-17a2-40b7-9dc0-2ab4db226be2
   - order: 4
     useCheckmark: false
     body: >-
-      ## So Why Outlaw Movies?
-
-
-      * Saudi Arabia outlawed movies in 1979 because of a strict adherence to
-      conservative Islam.
-
-      * Saudi Arabia is still an Islamic monarchy.A Movies will undergo
-      censorship of some sort – unclear how severe.
-
-      * Experts ask if “reforms” are real or simply superficial.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/rUIOf__zcxc?enablejsapi=1&autoplay=1&rel=0)
+      <div><h2>So Why Outlaw Movies?</h2><ul><li>Saudi Arabia outlawed movies in
+      1979 because of a strict adherence to conservative Islam.</li><li>Saudi
+      Arabia is still an Islamic monarchy.A Movies will undergo censorship of
+      some sort – unclear how severe.</li><li>Experts ask if “reforms” are real
+      or simply superficial.</li></ul><p><a
+      href="https://www.youtube.com/embed/rUIOf__zcxc?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     citation: Watch Now
     _key: card-5-454ac2e7-56f9-40e8-974b-11ec91e9d2be
   - order: 5
     useCheckmark: false
-    body: "> “Films are slightly edited and modified to reflect sensitivity to the local culture here in the region. But even with those modest edits a\x14 you can imagine what they are, sexuality and nudity are out a\x14 but we believe that those edits will be quite modest.”  \n  \n  \n  \nAdam Aron, AMC Chief Executive, to CNBC April 18, 2018. He said the company rushed in when they heard of an opportunity in Saudi Arabia."
+    body: "<blockquote>“Films are slightly edited and modified to reflect sensitivity to the local culture here in the region. But even with those modest edits a\x14 you can imagine what they are, sexuality and nudity are out a\x14 but we believe that those edits will be quite modest.”<br><br><br><br>Adam Aron, AMC Chief Executive, to CNBC April 18, 2018. He said the company rushed in when they heard of an opportunity in Saudi Arabia.</blockquote>"
     _key: card-6-ed31b05c-a5cf-4d58-a42b-cc6cf6e4ee0d
   - order: 6
     useCheckmark: true
     body: >-
-      AMC plan to open 40 theaters over the next 5 years in Saudi Arabia. Next
-      movies? "Rampage" & "The Avengers"
-
-
-      [view
-      sources](https://smarthernews.com/18-04-17-black-panther-head-house-saud/)
+      <div><p>AMC plan to open 40 theaters over the next 5 years in Saudi
+      Arabia. Next movies? "Rampage" &amp; "The Avengers"</p><p><a
+      href="https://smarthernews.com/18-04-17-black-panther-head-house-saud/">view
+      sources</a></p></div>
     _key: card-10-76006b95-7120-44cc-897d-3971bdf8c855
 
 ---

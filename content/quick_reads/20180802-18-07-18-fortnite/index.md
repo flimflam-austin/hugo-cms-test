@@ -18,88 +18,54 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # FORTNITE
-
-
-      More than a video game – now a bonafide phenomenon with more than 45M
-      players worldwide – and it’s free.
-
-
-      move over, pac-man.
+      <div><h1>FORTNITE</h1><p>More than a video game – now a bonafide
+      phenomenon with more than 45M players worldwide – and it’s
+      free.</p><p>move over, pac-man.</p></div>
     _key: card-1-1173b465-68a6-4fd1-a323-adde98337f5e
   - order: 1
     useCheckmark: false
     body: >-
-      ## What Is Fortnite Anyway?
-
-
-      * Online brawl where 100 players leap out of a plane on to an island &
-      fight until 1 person is left.
-
-      * Hidden around the island are weapons & defense items.
-
-      * As game goes on, playable area shrinks; forcing players closer.
-
-      * Last survivor is the winner.
-
-      * Epic Games just released Season 5.
-
-
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/F3UNnrr1pg4?enablejsapi=1&autoplay=1&rel=0)
+      <div><h2>What Is Fortnite Anyway?</h2><ul><li>Online brawl where 100
+      players leap out of a plane on to an island &amp; fight until 1 person is
+      left.</li><li>Hidden around the island are weapons &amp; defense
+      items.</li><li>As game goes on, playable area shrinks; forcing players
+      closer.</li><li>Last survivor is the winner.</li><li>Epic Games just
+      released Season 5.</li></ul><p></p><p><a
+      href="https://www.youtube.com/embed/F3UNnrr1pg4?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-2-6f4c85a7-0a75-42e6-8804-80a123875253
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      * **Huge hit:**A made $300M+ in June.
-
-      * **Free to play**, but users may upgrade cosmetic items for fun.
-
-      * **Personalization:**A add-ons help users express themselves (i.e. play
-      as a sniper or as a clown.)
-
-      * **Multiple device play:** console, handheld device & computer.
-
-      * **Group play:**A not super violent, attracting both sexes & can be
-      played among friends.
+      <div><h2>Why It Matters</h2><ul><li><strong>Huge hit:</strong>A made
+      $300M+ in June.</li><li><strong>Free to play</strong>, but users may
+      upgrade cosmetic items for fun.</li><li><strong>Personalization:</strong>A
+      add-ons help users express themselves (i.e. play as a sniper or as a
+      clown.)</li><li><strong>Multiple device play:</strong> console, handheld
+      device &amp; computer.</li><li><strong>Group play:</strong>A not super
+      violent, attracting both sexes &amp; can be played among
+      friends.</li></ul></div>
     _key: card-3-a56d9489-f3ec-4019-9421-0708cea7937b
   - order: 3
     useCheckmark: false
     body: >-
-      Heard of Flossing?  
-
-      (And, no, not your teeth.)
-
-
-      * 2018’s go-to dance move is all thanks to Fortnite.
-
-      * During Fortnite, players can bust some dance moves to taunt an opponent,
-      celebrate, or for fun.
-
-      * To floss, you swing your hips frantically in the opposite direction of
-      your arms & back again.
-
-
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/IBaiZbMEnyA?enablejsapi=1&autoplay=1&rel=0)
+      <div><p>Heard of Flossing?<br>(And, no, not your teeth.)</p><ul><li>2018’s
+      go-to dance move is all thanks to Fortnite.</li><li>During Fortnite,
+      players can bust some dance moves to taunt an opponent, celebrate, or for
+      fun.</li><li>To floss, you swing your hips frantically in the opposite
+      direction of your arms &amp; back again.</li></ul><p></p><p><a
+      href="https://www.youtube.com/embed/IBaiZbMEnyA?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-4-8829bec0-9f96-496d-99e4-832edc1ea070
   - order: 4
     useCheckmark: true
     body: >-
-      The Fortnite player to know? "Ninja" who's real name is Tyler Blevins.
-      27-year-old streams his games online, raking in $500K A MONTH. Rapper
-      Drake even challenged Ninja to a game & 6M people tuned in. Click to watch
-      him in action.
-
-
-      [view sources](https://smarthernews.com/18-07-18-fortnite/)
+      <div><p>The Fortnite player to know? "Ninja" who's real name is Tyler
+      Blevins. 27-year-old streams his games online, raking in $500K A MONTH.
+      Rapper Drake even challenged Ninja to a game &amp; 6M people tuned in.
+      Click to watch him in action.</p><p><a
+      href="https://smarthernews.com/18-07-18-fortnite/">view
+      sources</a></p></div>
     _key: card-10-25bb1898-feef-4969-a980-8d7cf9d24310
 
 ---

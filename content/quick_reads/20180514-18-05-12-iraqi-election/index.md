@@ -22,56 +22,40 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## WHO WILL LEAD IRAQ?
-
-
-      > Iraq votes in**first major election** since the fall of ISIS. Results
-      will determine  
-
-      *new* Prime Minister.  
-        
-      The election has major repercussions.
-
-
-      Here's Why It Matters
+      <div><h2>WHO WILL LEAD IRAQ?</h2><blockquote>Iraq votes in <strong>first
+      major election</strong> since the fall of ISIS. Results will
+      determine<br>*new* Prime Minister.<br><br>The election has major
+      repercussions.</blockquote><p>Here's Why It Matters</p></div>
     _key: card-1-7810ba48-b9bc-4de3-bf50-a00f7c49635a
   - order: 1
     useCheckmark: false
     body: >-
-      ## What’s At Stake
-
-
-      * Current PM (Haidar al-Abadi) seen as more independent, more
-      U.S.-friendly, than his challengers, who align more closely with Iran,
-      politically or religiously.
-
-      * Who wins will determine future relationship of U.S. & Iraq.
-
-      * ISIS led to massive displacement of**diverse Iraqi population**. Next
-      leader will have a major role in Iraq’s demographics & geography.
+      <div><h2>What’s At Stake</h2><ul><li>Current PM (Haidar al-Abadi) seen as
+      more independent, more U.S.-friendly, than his challengers, who align more
+      closely with Iran, politically or religiously.</li><li>Who wins will
+      determine future relationship of U.S. &amp; Iraq.</li><li>ISIS led to
+      massive displacement of <strong>diverse Iraqi population</strong>. Next
+      leader will have a major role in Iraq’s demographics &amp;
+      geography.</li></ul></div>
     _key: card-2-6baa7ed3-f797-461b-9eb5-1fca95c873e0
   - order: 2
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      * **RECORD LOW turnout at 44%**. Turnout usually approx. 60%_(that roughly
-      matches voter turnout in America’s 2016 presidential election_).
-
-      * First election since the start of the Iraq war (2003) whereA**no
-      bombings were reported at ANY polling site**.
+      <div><h2>Something To Consider:</h2><ul><li><strong>RECORD LOW turnout at
+      44%</strong>. Turnout usually approx. 60% <em>(that roughly matches voter
+      turnout in America’s 2016 presidential election</em>).</li><li>First
+      election since the start of the Iraq war (2003) whereA <strong>no bombings
+      were reported at ANY polling site</strong>.</li></ul></div>
     _key: card-3-519ebcb8-b3f0-4c48-8dbb-f70a93a0d1f8
   - order: 3
     useCheckmark: true
     body: >-
-      No clear winner...yet. Once parliament is elected in Iraq (nearly 400
-      seats), members have 3 months to form a government. A coalition of
+      <div><p>No clear winner...yet. Once parliament is elected in Iraq (nearly
+      400 seats), members have 3 months to form a government. A coalition of
       politicians backed by Muqtada Al-Sadr has an early lead. Sadr led a
-      militia that fought/killed U.S. troops during Iraq War.
-
-
-      [view sources](https://smarthernews.com/18-05-12-iraqi-election/)
+      militia that fought/killed U.S. troops during Iraq War.</p><p><a
+      href="https://smarthernews.com/18-05-12-iraqi-election/">view
+      sources</a></p></div>
     _key: card-10-56ad5502-93ff-4e92-bd74-ea2f4bd468f8
 
 ---

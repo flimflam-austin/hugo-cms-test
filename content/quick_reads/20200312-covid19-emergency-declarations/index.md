@@ -22,69 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## A closer look at the**“emergency powers”** invoked by state and local
-      governments in response to COVID-19 as New York enacts a
-      first-of-its-kind**“containment zone.”**
+      <h2>A closer look at the <strong>“emergency powers”</strong> invoked by
+      state and local governments in response to COVID-19 as New York enacts a
+      first-of-its-kind <strong>“containment zone.”</strong></h2>
     _key: 2ef97a52dd23
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why Declare A State Of Emergency?
-
-
-      > “The main purpose of declaring a state of emergency is increased
-      flexibility to respond and prevent, as well as to allocate funds where
-      needed.”  
-        
-      North Carolina Governor Roy Cooper on the benefits of declaring an
-      emergency. At least 18 other states have declared emergencies to combat
-      the coronavirus.
+      <div><h2>Why Declare A State Of Emergency?</h2><blockquote>“The main
+      purpose of declaring a state of emergency is increased flexibility to
+      respond and prevent, as well as to allocate funds where
+      needed.”<br><br>North Carolina Governor Roy Cooper on the benefits of
+      declaring an emergency. At least 18 other states have declared emergencies
+      to combat the coronavirus.</blockquote><p><br></p></div>
     _key: a9ccd9f4be7a
   - order: 2
     useCheckmark: false
     body: >-
-      ## PREPAREDNESS
-
-
-      **Emergency orders allow states & localities to up their preparation
-      efforts**
-
-
-      * Deploying the**National Guard troops** to provide assistance to local
-      authorities.
-
-      * Gaining access to federal & state**funds** to assist affected
-      communities (ex: emergency & medical supplies).
-
-      * Fast-tracking**coordination** btwn local, state, & federal agencies
-      to**speed up** delivery of goods and services.
+      <div><h2>PREPAREDNESS</h2><p><strong>Emergency orders allow states &amp;
+      localities to up their preparation efforts</strong></p><ul><li>Deploying
+      the <strong>National Guard troops</strong> to provide assistance to local
+      authorities.</li><li>Gaining access to federal &amp; state
+      <strong>funds</strong> to assist affected communities (ex: emergency &amp;
+      medical supplies).</li><li>Fast-tracking <strong>coordination</strong>
+      btwn local, state, &amp; federal agencies to <strong>speed up</strong>
+      delivery of goods and services.</li></ul></div>
     _key: 5093fcb223fc
   - order: 3
     useCheckmark: false
     body: >-
-      ## PREVENTION
-
-
-      **Emergency orders allow state and localities to take preventative
-      measures**
-
-
-      * Setting up satellite**healthcare** facilities and waiving copays and
-      deductibles for coronavirus testing.
-
-      * Enacting laws to prohibit**price gouging** of key items (ex: hand
-      sanitizer).
-
-      * Prevent community spread by**closing** schools or houses of worship
-      and**canceling** large events (ex: SXSW).
+      <div><h2>PREVENTION</h2><p><strong>Emergency orders allow state and
+      localities to take preventative measures</strong></p><ul><li>Setting up
+      satellite <strong>healthcare</strong> facilities and waiving copays and
+      deductibles for coronavirus testing.</li><li>Enacting laws to prohibit
+      <strong>price gouging</strong> of key items (ex: hand
+      sanitizer).</li><li>Prevent community spread by <strong>closing</strong>
+      schools or houses of worship and <strong>canceling</strong> large events
+      (ex: SXSW).</li></ul></div>
     _key: a7fb39f79d5d
   - order: 4
     useCheckmark: true
     body: >-
-      NY Gov Cuomo said this about his use of new emergency measures, calling in
-      the National Guard to help with cleaning, food delivery and containment in
-      a suburb of New York City: "It is a dramatic action, but it is the largest
-      cluster in the country."
+      <div><p>NY Gov Cuomo said this about his use of new emergency measures,
+      calling in the National Guard to help with cleaning, food delivery and
+      containment in a suburb of New York City: "It is a dramatic action, but it
+      is the largest cluster in the country."</p><p></p></div>
     citation: VIEW SOURCES
     _key: 8b081a3fee01
 

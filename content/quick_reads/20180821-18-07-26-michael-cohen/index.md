@@ -22,82 +22,58 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # What You Need to Know About Michael Cohen
-
-
-      Pres. Trump’s former personal lawyer has been all over the headlines for
-      months, here’s why:
+      <div><h1>What You Need to Know About Michael Cohen</h1><p>Pres. Trump’s
+      former personal lawyer has been all over the headlines for months, here’s
+      why:</p></div>
     _key: card-1-2c132d96-ee17-48a8-bbc7-34e18eb31e1c
   - order: 1
     useCheckmark: false
     body: >-
-      # WHO HE IS:
-
-
-      Until May, he was Trump’s attorney dating back to the early 2000s.
-
-
-      * Sept: Told Vanity Fair he was**“the guy who would take a bullet the
-      president”**
-
-      * Feb: Told The New York Times he paid**Stormy Daniels** w/ his own $
-
-      * April:A**FBI raided**A his NY office, home & hotel room as part of
-      an**ongoing criminal investigation**
+      <div><h1>WHO HE IS:</h1><p>Until May, he was Trump’s attorney dating back
+      to the early 2000s.</p><ul><li>Sept: Told Vanity Fair he was <strong>“the
+      guy who would take a bullet the president”</strong></li><li>Feb: Told The
+      New York Times he paid <strong>Stormy Daniels</strong> w/ his own
+      $</li><li>April:A <strong>FBI raided</strong>A his NY office, home &amp;
+      hotel room as part of an <strong>ongoing criminal
+      investigation</strong></li></ul></div>
     _key: card-2-72bda652-3286-4e07-bcf6-74db6bb527f7
   - order: 2
     useCheckmark: false
     body: >-
-      # WHY HE MATTERS:
-
-
-      Cohen is STILL under criminal investigation, but he has NOT been charged
-      with anyA crime.
-
-
-      Cohen is BELIEVED TO BE of interest to the Special CounselA investigation
-      intoA Russia’s interferenceA in the 2016 election.
+      <div><h1>WHY HE MATTERS:</h1><p>Cohen is STILL under criminal
+      investigation, but he has NOT been charged with anyA crime.</p><p>Cohen is
+      BELIEVED TO BE of interest to the Special CounselA investigation intoA
+      Russia’s interferenceA in the 2016 election.</p></div>
     _key: card-3-f786eca2-043c-4fbd-a94d-9e300a2328a2
   - order: 3
     useCheckmark: false
     body: >-
-      # HE SAID / HE SAID
-
-
-      NY federal prosecutors investigating Cohen have 12 audio recordings seized
-      during the April FBI raids.
-
-
-      In a tape released by Cohen’s team, he & then-candidate Trump are said to
+      <div><h1>HE SAID / HE SAID</h1><p>NY federal prosecutors investigating
+      Cohen have 12 audio recordings seized during the April FBI raids.</p><p>In
+      a tape released by Cohen’s team, he &amp; then-candidate Trump are said to
       be talking about a potential deal on the rights to a story over a 2006
-      alleged affair.**Cohen & Trump disagree about the sometimes garbled tape’s
-      meaning & weight.**
+      alleged affair. <strong>Cohen &amp; Trump disagree about the sometimes
+      garbled tape’s meaning &amp; weight.</strong></p></div>
     _key: card-4-9259cfc2-5f6b-46aa-a007-4ac853f0e9b1
   - order: 4
     useCheckmark: false
     body: >-
-      # WHY HE MATTERS:
-
-
-      Cohen isA being investigated forA potential federal wire fraud, bank
-      fraudA & campaign finance violations.
-
-
-      * **IF** the FEC decides Cohen’s payment to Daniels was made on behalf of
-      Trump campaign, it_could_A be a campaign violation.
-
-      * **IF**A Cohen is charged by the NY feds or Special Counsel, he_could_
-      try to make a deal.
+      <div><h1>WHY HE MATTERS:</h1><p>Cohen isA being investigated forA
+      potential federal wire fraud, bank fraudA &amp; campaign finance
+      violations.</p><ul><li><strong>IF</strong> the FEC decides Cohen’s payment
+      to Daniels was made on behalf of Trump campaign, it <em>could</em>A be a
+      campaign violation.</li><li><strong>IF</strong>A Cohen is charged by the
+      NY feds or Special Counsel, he <em>could</em> try to make a
+      deal.</li></ul></div>
     _key: card-5-a726c19e-7d93-41c8-9548-40680822fa47
   - order: 5
     useCheckmark: true
     body: >-
-      On Wednesday, on ABC's "Good Morning America", Lanny Davis, Cohen's
-      personal attorney said his client is not seeking a pardon from Pres.
-      Trump.
-
-
-      [view sources](https://smarthernews.com/18-07-26-michael-cohen/)
+      <div><p>On Wednesday, on ABC's "Good Morning America", Lanny Davis,
+      Cohen's personal attorney said his client is not seeking a pardon from
+      Pres. Trump.</p><p><a
+      href="https://smarthernews.com/18-07-26-michael-cohen/">view
+      sources</a></p></div>
     _key: card-10-b0604de2-1fc1-49cb-b813-ed6862506bcb
 
 ---

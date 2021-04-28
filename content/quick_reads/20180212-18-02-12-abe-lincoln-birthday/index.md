@@ -21,60 +21,43 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: "## President Abraham Lincoln Is Born\n\n> ‘I was born**Feb. 12, 1809**, in Hardin County, Kentucky. My parents were both born in Virginia, of undistinguished familiesa\x13second families, perhaps I should say.”  \n  \n  \n  \nPres. Lincoln, Dec 20, 1859 before he secured Republican nomination"
+    body: "<div><h2>President Abraham Lincoln Is Born</h2><blockquote>‘I was born <strong>Feb. 12, 1809</strong>, in Hardin County, Kentucky. My parents were both born in Virginia, of undistinguished familiesa\x13second families, perhaps I should say.”<br><br><br><br>Pres. Lincoln, Dec 20, 1859 before he secured Republican nomination</blockquote></div>"
     _key: card-1-df972b56-159e-451e-97c8-1b97a77fe600
   - order: 1
     useCheckmark: false
     body: >-
-      # Lincoln: Facts
-
-
-      * Spent majority of young life on “the frontier” farming; Mom died when he
-      was 10.
-
-      * Tallest U.S. President: 6 ft 4 in (Pres. Trump is 6’3″); Lincoln’s wife
-      Mary Todd stood 5 ft 2 in.
-
-      * Father to 4 sons; Only 1 lived to adulthood.
-
-      * Little formal education; avid reader. One-time store clerk.
+      <div><h1>Lincoln: Facts</h1><ul><li>Spent majority of young life on “the
+      frontier” farming; Mom died when he was 10.</li><li>Tallest U.S.
+      President: 6 ft 4 in (Pres. Trump is 6’3″); Lincoln’s wife Mary Todd stood
+      5 ft 2 in.</li><li>Father to 4 sons; Only 1 lived to
+      adulthood.</li><li>Little formal education; avid reader. One-time store
+      clerk.</li></ul></div>
     _key: card-2-eaa71deb-4035-4578-8625-f54eed5676db
   - order: 2
     useCheckmark: false
     body: >-
-      ## Lincoln’s Famous Speech: Gettysburg Address
-
-
-      * Approx 2 minutes; Just over 270 words.
-
-      * 5 handwritten copies still exist; One copy in “Lincoln Bedroom” in the
-      White House.
-
-      * Recent History: Some now believe Lincoln suffered from Small Pox during
-      speech.
+      <div><h2>Lincoln’s Famous Speech: Gettysburg Address</h2><ul><li>Approx 2
+      minutes; Just over 270 words.</li><li>5 handwritten copies still exist;
+      One copy in “Lincoln Bedroom” in the White House.</li><li>Recent History:
+      Some now believe Lincoln suffered from Small Pox during
+      speech.</li></ul></div>
     _key: card-3-85a04bb2-3a6b-44d7-b202-06a74226ce21
   - order: 3
     useCheckmark: false
     body: >-
-      Lincoln’s Famous Order  
-
-      Emancipation Proclamation
-
-
-      “all persons held as slaves” within the rebellious states “are, and
-      henceforward shall be free.”
-
-
-      * Limited. Yet Significant.
-
-      * Only impacted 10 southern states but set stage for abolition of slavery.
+      <div><p>Lincoln’s Famous Order<br>Emancipation Proclamation</p><p>“all
+      persons held as slaves” within the rebellious states “are, and
+      henceforward shall be free.”</p><ul><li>Limited. Yet
+      Significant.</li><li>Only impacted 10 southern states but set stage for
+      abolition of slavery.</li></ul></div>
     _key: card-4-fe1f985c-c196-4532-b298-988c752844da
   - order: 4
     useCheckmark: true
-    body: |-
-      See President Abraham Lincoln's Handwritten Gettysburg Address & More:
-
-      [view sources](https://smarthernews.com/18-02-12-abe-lincoln-birthday/)
+    body: >-
+      <div><p>See President Abraham Lincoln's Handwritten Gettysburg Address
+      &amp; More:</p><p><a
+      href="https://smarthernews.com/18-02-12-abe-lincoln-birthday/">view
+      sources</a></p></div>
     _key: card-10-c482df40-6dd9-4bdc-a3e6-194738fe402b
 
 ---

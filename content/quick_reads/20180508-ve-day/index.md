@@ -22,44 +22,28 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Victory In Europe Day
-
-
-      ## 73 Years Ago
-
-
-      “Humility must be the measure of a man whose success was brought with the
-      blood of his subordinates, and paid for with the lives of his friends.”  
-
-
-
-      General Eisenhower's words to British Parliament following Victory in
-      Europe.
-
-
-      [Flip: "Mission
-      Fulfilled"](https://www.archives.gov/publications/prologue/2015/summer/war-message.html)
+      <div><h1>Victory In Europe Day</h1><h2>73 Years Ago</h2><p>“Humility must
+      be the measure of a man whose success was brought with the blood of his
+      subordinates, and paid for with the lives of his
+      friends.”<br></p><p>General Eisenhower's words to British Parliament
+      following Victory in Europe.</p><p><a
+      href="https://www.archives.gov/publications/prologue/2015/summer/war-message.html">Flip:
+      "Mission Fulfilled"</a></p></div>
     _key: card-1-161e072e-556d-4a78-8e7b-f928aec8221e
   - order: 1
     useCheckmark: false
     body: >-
-      ## V-E Day Ended WWII in Europe But Not In Asia
-
-
-      * May 8, 1945 Germany surrendered; Adolf Hitler committed suicide a week
-      earlier.
-
-      * “V-J Day” celebrated in September when Japan formerly surrendered;
-      unofficial surrender happened in August 1945.
+      <div><h2>V-E Day Ended WWII in Europe But Not In Asia</h2><ul><li>May 8,
+      1945 Germany surrendered; Adolf Hitler committed suicide a week
+      earlier.</li><li>“V-J Day” celebrated in September when Japan formerly
+      surrendered; unofficial surrender happened in August 1945.</li></ul></div>
     _key: card-2-c8a59615-7671-48d6-be95-4b88cb717c1a
   - order: 2
     useCheckmark: true
     body: >-
-      Estimates place total deaths in WWII as over 50M...But some suggest it's
-      even higher.
-
-
-      [view sources](https://smarthernews.com/ve-day/)
+      <div><p>Estimates place total deaths in WWII as over 50M...But some
+      suggest it's even higher.</p><p><a
+      href="https://smarthernews.com/ve-day/">view sources</a></p></div>
     _key: card-10-474729be-310e-402f-91a0-de1f4d611b60
 
 ---

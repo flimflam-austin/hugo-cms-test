@@ -21,94 +21,70 @@ colorpaletteclassname: '--white'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # POWER OF PRAYER
-
-      Only hrs after a school shooting in Texas a debate emerges on ‘prayer’.
-
-      What To Consider
+    body: >-
+      <div><h1>POWER OF PRAYER</h1><p>Only hrs after a school shooting in Texas
+      a debate emerges on ‘prayer’.</p><p>What To Consider</p></div>
     citation: What To Consider
     _key: card-1-ef20012d-3ea9-45be-a0c9-56044b49fc3a
   - order: 1
     useCheckmark: false
     body: >-
-      > "Once again, our Nation grieves another mass murder. Heidi and I are
-      keeping the students and faculty of Santa Fe High School in**our fervent
-      prayers**.”  
-        
-        
-        
-      Senator Ted Cruz (R-Tx), May 18, 2018
-
-
-      [Full Statement](https://www.cruz.senate.gov/?p=press_release&id=3833)
+      <div><blockquote>"Once again, our Nation grieves another mass murder.
+      Heidi and I are keeping the students and faculty of Santa Fe High School
+      in <strong>our fervent prayers</strong>.”<br><br><br><br>Senator Ted Cruz
+      (R-Tx), May 18, 2018</blockquote><p><a
+      href="https://www.cruz.senate.gov/?p=press_release&amp;id=3833">Full
+      Statement</a></p></div>
     _key: card-2-0b443e81-9e66-49ec-b4c7-3ed48599503e
   - order: 2
     useCheckmark: false
     body: >-
-      > “Spare us your thoughts and prayers and do your job.”  
-        
-        
-        
-      Mayor Mike Rawlings (D), Dallas, issues a statement imploring Republicans
-      and President Trump to take "substantive action" re: the "mass shooting
-      epidemic" in America.
-
-
-      [Full
-      Statement](https://twitter.com/Mike_Rawlings/status/997520858213175297)
+      <div><blockquote>“Spare us your thoughts and prayers and do your
+      job.”<br><br><br><br>Mayor Mike Rawlings (D), Dallas, issues a statement
+      imploring Republicans and President Trump to take "substantive action" re:
+      the "mass shooting epidemic" in America.</blockquote><p><a
+      href="https://twitter.com/Mike_Rawlings/status/997520858213175297">Full
+      Statement</a></p></div>
     _key: card-3-72fd3984-c783-4994-a1a5-ef950cd42fb0
   - order: 3
     useCheckmark: false
     body: >-
-      > “…so heartbroken. Texas, I’m thinking of you and sending all the victims
-      and their families my**love and prayers**.”  
-        
-        
-        
-      Kylie Jenner, Twitter, May 18, 2018
-
-
-      [Click: Tweet](https://twitter.com/KylieJenner/status/997569941439049728)
+      <div><blockquote>“…so heartbroken. Texas, I’m thinking of you and sending
+      all the victims and their families my <strong>love and
+      prayers</strong>.”<br><br><br><br>Kylie Jenner, Twitter, May 18,
+      2018</blockquote><p><a
+      href="https://twitter.com/KylieJenner/status/997569941439049728">Click:
+      Tweet</a></p></div>
     _key: card-4-1668a4c9-e3c5-4c44-90e5-898300c46d9f
   - order: 4
     useCheckmark: false
     body: >-
-      > “Santa Fe High, you didn’t deserve this. You deserve peace all your
-      lives, not just after a tombstone saying that is put over you. You
-      deserve**more than Thoughts and Prayers**, and after supporting us by
-      walking out we will be there to support you by raising up your voices.”  
-        
-        
-      Emma GonzA!lez, Student, Parkland High where a student killed 17 peers.
-
-
-      [Click: Tweet](https://twitter.com/Emma4Change/status/997505205771079680)
+      <div><blockquote>“Santa Fe High, you didn’t deserve this. You deserve
+      peace all your lives, not just after a tombstone saying that is put over
+      you. You deserve <strong>more than Thoughts and Prayers</strong>, and
+      after supporting us by walking out we will be there to support you by
+      raising up your voices.”<br><br><br>Emma GonzA!lez, Student, Parkland High
+      where a student killed 17 peers.</blockquote><p><a
+      href="https://twitter.com/Emma4Change/status/997505205771079680">Click:
+      Tweet</a></p></div>
     _key: card-5-48383664-38c3-4264-a398-8a94b400684b
   - order: 5
     useCheckmark: false
     body: >-
-      ## Agree or Disagree?
-
-
-      > “Prayer isn’t a lazy activity that people rely on in place of taking
-      action…The problem isn’t that critics are calling for action, it’s that
-      they have completely skipped over the necessity of faith and the power of
-      prayer to sustain victims and to help those who have been tragically
-      impacted by these horrors.”  
-        
-        
-        
-      Billy Hallowell, Author
+      <div><h2>Agree or Disagree?</h2><blockquote>“Prayer isn’t a lazy activity
+      that people rely on in place of taking action…The problem isn’t that
+      critics are calling for action, it’s that they have completely skipped
+      over the necessity of faith and the power of prayer to sustain victims and
+      to help those who have been tragically impacted by these
+      horrors.”<br><br><br><br>Billy Hallowell, Author</blockquote></div>
     _key: card-6-81c7271b-8162-4013-814c-625ca9c11f9c
   - order: 6
     useCheckmark: true
     body: >-
-      Is prayer, the usefulness or lack-of, a priority of debate in the hours
-      after a mass shooting? What do you think?
-
-
-      [view sources](https://smarthernews.com/18-05-18-school-shooting-prayer/)
+      <div><p>Is prayer, the usefulness or lack-of, a priority of debate in the
+      hours after a mass shooting? What do you think?</p><p><a
+      href="https://smarthernews.com/18-05-18-school-shooting-prayer/">view
+      sources</a></p></div>
     _key: card-10-a15e32f3-98d8-4ac2-b475-9c4216d422a5
 
 ---

@@ -22,77 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Fixer Upper: Final Farewell
-
-
-      > “One of mama’s and I’s first dates, I climbed up a magnolia tree and I
-      pulled off a magnolia bloom and I gave it to her.”  
-        
-        
-        
-      Chip Gaines, 1/2 of the 'Magnolia' empire, speaking to his children 'Fixer
-      Upper' Final Episode, April 3, 2018.
-
-
-      How Fixer Upper Changed TV
+      <div><h2>Fixer Upper: Final Farewell</h2><blockquote>“One of mama’s and
+      I’s first dates, I climbed up a magnolia tree and I pulled off a magnolia
+      bloom and I gave it to her.”<br><br><br><br>Chip Gaines, 1/2 of the
+      'Magnolia' empire, speaking to his children 'Fixer Upper' Final Episode,
+      April 3, 2018.</blockquote><p>How Fixer Upper Changed TV</p></div>
     citation: How Fixer Upper Changed TV
     _key: card-1-b29b266c-1b56-4d2f-8103-a1e6784a537a
   - order: 1
     useCheckmark: false
-    body: |-
-      ## Background:
-
-      Show finished almost 5 years to the day of its debut (May 2013).
-
-      Definition of overnight success.  
-      First episode? 1.9M viewers.
-
-      Averaged 14.5 M viewers weekly.
-
-      Irony? Chip & Joanna Gaines don’t own a TV.
+    body: >-
+      <div><h2>Background:</h2><p>Show finished almost 5 years to the day of its
+      debut (May 2013).</p><p>Definition of overnight success.<br>First episode?
+      1.9M viewers.</p><p>Averaged 14.5 M viewers weekly.</p><p>Irony? Chip
+      &amp; Joanna Gaines don’t own a TV.</p></div>
     _key: card-2-642c1652-bca2-4066-afda-a4d38b84dcf5
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why Is Fixer Upper SUCH A Big Deal…in TV?
-
-
-      Show gained viewers as others lost.
-
-
-      * Oscars lowest viewership in 40 yrs.
-
-      * Super Bowl lowest viewers since 2009.
-
-      * Important network morning shows all losing viewers year-over-year. In
-      fact,**Fixer Upper often beat the TV giants in viewership**.
+      <div><h2>Why Is Fixer Upper SUCH A Big Deal…in TV?</h2><p>Show gained
+      viewers as others lost.</p><ul><li>Oscars lowest viewership in 40
+      yrs.</li><li>Super Bowl lowest viewers since 2009.</li><li>Important
+      network morning shows all losing viewers year-over-year. In fact,
+      <strong>Fixer Upper often beat the TV giants in
+      viewership</strong>.</li></ul></div>
     _key: card-3-adf59bc4-2a0b-48cf-a205-c3e122eb10da
   - order: 3
     useCheckmark: false
     body: >-
-      # ‘Fixer Upper’ Success
-
-
-      ## Talent & Good Timing
-
-
-      * Americans expected to spend more this year on home renovations (up 7.5%
-      to more than $340 B) ~ due in part to rebuilding from terrible natural
-      disasters.
-
-      * Sales on homes already built (ripe for remodel) up year-over-year.
-
-      * Overall, healthy real estate market.
+      <div><h1>‘Fixer Upper’ Success</h1><h2>Talent &amp; Good
+      Timing</h2><ul><li>Americans expected to spend more this year on home
+      renovations (up 7.5% to more than $340 B) ~ due in part to rebuilding from
+      terrible natural disasters.</li><li>Sales on homes already built (ripe for
+      remodel) up year-over-year.</li><li>Overall, healthy real estate
+      market.</li></ul></div>
     _key: card-4-b4d5835f-6650-40bc-9c6a-649ef6380fe1
   - order: 4
     useCheckmark: true
     body: >-
-      Chip & Joanna Gaines have big plans - including a new baby in July (child
-      #5) - Read more on what's next (including a 'Magnolia Kids' line)
-
-
-      [view
-      sources](https://smarthernews.com/18-04-04-fixer-upper-final-bye-bye/)
+      <div><p>Chip &amp; Joanna Gaines have big plans - including a new baby in
+      July (child #5) - Read more on what's next (including a 'Magnolia Kids'
+      line)</p><p><a
+      href="https://smarthernews.com/18-04-04-fixer-upper-final-bye-bye/">view
+      sources</a></p></div>
     _key: card-10-fda654ad-1b0e-4a53-9334-8bcb5a1c5313
 
 ---

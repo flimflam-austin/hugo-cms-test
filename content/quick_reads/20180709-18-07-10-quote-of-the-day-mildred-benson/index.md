@@ -21,21 +21,18 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      _“She was just a person who believed in her own freedom.”_
-
-      Mildred Wirt Benson
+    body: >-
+      <div><p><em>“She was just a person who believed in her own
+      freedom.”</em></p><p>Mildred Wirt Benson</p></div>
     citation: Mildred Wirt Benson
     _key: card-1-afe637a4-80ef-4441-9acc-f33d2b1080d7
   - order: 1
     useCheckmark: true
     body: >-
-      The original ghostwriter of Nancy Drew books, Benson was born July 10,
-      1905. Read more from her incredible 1999 here:
-
-
-      [view
-      sources](https://smarthernews.com/18-07-10-quote-of-the-day-mildred-benson/)
+      <div><p>The original ghostwriter of Nancy Drew books, Benson was born July
+      10, 1905. Read more from her incredible 1999 here:</p><p><a
+      href="https://smarthernews.com/18-07-10-quote-of-the-day-mildred-benson/">view
+      sources</a></p></div>
     _key: card-10-16257ced-6d35-4895-9aa5-4472a20ee623
 
 ---

@@ -21,65 +21,51 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # State of the  
-      Union Address
-
-      3 Quick Facts About Today’s Annual Speech By The President
+    body: >-
+      <div><h1>State of the<br>Union Address</h1><p>3 Quick Facts About Today’s
+      Annual Speech By The President</p></div>
     _key: 9743360820b6
   - order: 1
     useCheckmark: false
     body: >-
-      ## WHY IT HAPPENS:
-
-
-      > _“He shall from time to time give to the Congress Information of the
-      State of the Union, and recommend to their Consideration such measures as
-      he shall judge necessary and expedient.”_  
-        
-      The Constitution states simply that the President must deliver an update
-      on his assessment of the union and priorities, but it makes no mention of
-      how or when or where "He" must do so.
+      <div><h2>WHY IT HAPPENS:</h2><blockquote><em>“He shall from time to time
+      give to the Congress Information of the State of the Union, and recommend
+      to their Consideration such measures as he shall judge necessary and
+      expedient.”</em><br><br>The Constitution states simply that the President
+      must deliver an update on his assessment of the union and priorities, but
+      it makes no mention of how or when or where "He" must do
+      so.</blockquote></div>
     _key: 0a1a76f77d92
   - order: 2
     useCheckmark: false
     body: >-
-      ## EVOLUTION:
-
-
-      * Origins date back to the British tradition of the Crown delivering a
-      speech to start each new legislative session.
-
-      * First delivered in 1790 by Pres. Washington in person in New York.
-
-      * Delivered via a written letter to Congress from 1801 – 1913.
-
-      * Known as President’s Annual Message to Congress until 1946 and as the
-      State of the Union ever since.
+      <div><h2>EVOLUTION:</h2><ul><li>Origins date back to the British tradition
+      of the Crown delivering a speech to start each new legislative
+      session.</li><li>First delivered in 1790 by Pres. Washington in person in
+      New York.</li><li>Delivered via a written letter to Congress from 1801 –
+      1913.</li><li>Known as President’s Annual Message to Congress until 1946
+      and as the State of the Union ever since.</li></ul></div>
     _key: ba5b8085896e
   - order: 3
     useCheckmark: false
     body: >-
-      ## WHO ATTENDS:
-
-
-      * President may invite up to 24 guests (including First Lady).
-
-      * Each sitting member of Congress gets two tickets (1 for them & 1 for a
-      guest).
-
-      * **Also invited**: Supreme Court justices, Fmr. members of Congress,
-      Joint Chiefs of Staff, & President’s Cabinet (*except* one cabinet member
-      purposefully excluded, a “**designated survivor**” who stays in a separate
-      location during the address in case a disaster strikes).
+      <div><h2>WHO ATTENDS:</h2><ul><li>President may invite up to 24 guests
+      (including First Lady).</li><li>Each sitting member of Congress gets two
+      tickets (1 for them &amp; 1 for a guest).</li><li><strong>Also
+      invited</strong>: Supreme Court justices, Fmr. members of Congress, Joint
+      Chiefs of Staff, &amp; President’s Cabinet (*except* one cabinet member
+      purposefully excluded, a “<strong>designated survivor</strong>” who stays
+      in a separate location during the address in case a disaster
+      strikes).</li></ul></div>
     _key: e78893049d47
   - order: 4
     useCheckmark: true
     body: >-
-      THE NEXT DAY ... Less than 24 hours after Pres. Trump will deliver his
-      third State of the Union address on the House floor, Congress' other
+      <div><p>THE NEXT DAY ... Less than 24 hours after Pres. Trump will deliver
+      his third State of the Union address on the House floor, Congress' other
       chamber will convene on the Senate floor at 4pm to vote on whether or not
-      to remove him from office for abuse of power and obstruction of Congress.
+      to remove him from office for abuse of power and obstruction of
+      Congress.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 254f013856d0
 

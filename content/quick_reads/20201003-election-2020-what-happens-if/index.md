@@ -22,104 +22,71 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # What Happens If…
-
-
-      With the President testing positive for COVID-19, all sorts of questions
-      surface about risk — for him and the presidency.
-
-
-      Here’s what to know.
+      <div><h1>What Happens If…</h1><p>With the President testing positive for
+      COVID-19, all sorts of questions surface about risk — for him and the
+      presidency.</p><p>Here’s what to know.</p></div>
     _key: e7c4ea54d3f4
   - order: 1
     useCheckmark: false
     body: >-
-      > “The President and First Lady are both well at this time, and they plan
-      to remain at home within the White House during their convalescence.”
-
-
-      The President's physician, Dr. Sean Conley, who says he will continue to
-      update the American public. The President and First Lady tested positive
-      after a busy week of the first presidential debate and travel. COVID-19
-      symptoms typically develop anytime from 2-14 days after first exposure.
+      <div><blockquote>“The President and First Lady are both well at this time,
+      and they plan to remain at home within the White House during their
+      convalescence.”</blockquote><p>The President's physician, Dr. Sean Conley,
+      who says he will continue to update the American public. The President and
+      First Lady tested positive after a busy week of the first presidential
+      debate and travel. COVID-19 symptoms typically develop anytime from 2-14
+      days after first exposure.</p></div>
     _key: 1e31c18cf18c
   - order: 2
     useCheckmark: false
     body: >-
-      ## Context:
-
-
-      * The President is 74 years old.
-
-      * Conditions highlighted in the President’s recent annual physical exams
-      include heart disease, elevated blood pressure and obesity.
-
-      * His age & conditions put him at higher risk for a severe case of
-      COVID-19.
-
-      * Context: While a person’s risk increases with age and pre-existing
-      conditions, the majority of people in all age groups recover from
-      COVID-19.
+      <div><h2>Context:</h2><ul><li>The President is 74 years
+      old.</li><li>Conditions highlighted in the President’s recent annual
+      physical exams include heart disease, elevated blood pressure and
+      obesity.</li><li>His age &amp; conditions put him at higher risk for a
+      severe case of COVID-19.</li><li>Context: While a person’s risk increases
+      with age and pre-existing conditions, the majority of people in all age
+      groups recover from COVID-19.</li></ul></div>
     _key: 5363cacc9e65
   - order: 3
     useCheckmark: false
     body: >-
-      ## Statistically Speaking
-
-
-      COVID-19 data evolves constantly but here’s some perspective on age from
-      the CDC:
-
-
-      A person over the age of 65 is at least:
-
-
-      * **5x likely to be hospitalized** than a person under 29
-
-      * **90x more likely to die** than a person under 29
+      <div><h2>Statistically Speaking</h2><p>COVID-19 data evolves constantly
+      but here’s some perspective on age from the CDC:</p><p>A person over the
+      age of 65 is at least:</p><ul><li><strong>5x likely to be
+      hospitalized</strong> than a person under 29</li><li><strong>90x more
+      likely to die</strong> than a person under 29</li></ul></div>
     _key: 5a9007d36418
   - order: 4
     useCheckmark: false
     body: >-
-      ## When A President Falls Ill…
-
-
-      The Constitution provides some guidance on what happens if a president
-      falls seriously ill for a prolonged period, but …
-
-
-      * **In general, while a President can fulfill his role, he will continue
-      to do so.**
-
-      * Presidents have handed over power temporarily even when not ill, i.e.
-      when undergoing procedures that require anesthesia, like a colonoscopy.
+      <div><h2>When A President Falls Ill…</h2><p>The Constitution provides some
+      guidance on what happens if a president falls seriously ill for a
+      prolonged period, but …</p><ul><li><strong>In general, while a President
+      can fulfill his role, he will continue to do
+      so.</strong></li><li>Presidents have handed over power temporarily even
+      when not ill, i.e. when undergoing procedures that require anesthesia,
+      like a colonoscopy.</li></ul></div>
     _key: a188d85f62d8
   - order: 5
     useCheckmark: false
     body: >-
-      ## If A President Can No Longer Serve…
-
-
-      A President can transfer power, or it can be “taken” if they’re unable /
-      unwilling to “pass it.” Here’s the**order of succession**:
-
-
-      * Vice President (VP Mike Pence)
-
-      * House Speaker (Rep. Nancy Pelosi)
-
-      * Senate president pro tempore – “president for a time” – traditionally
-      the longest-serving Senator of the majority party (Sen. Chuck Grassley,
-      R-IA)
+      <div><h2>If A President Can No Longer Serve…</h2><p>A President can
+      transfer power, or it can be “taken” if they’re unable / unwilling to
+      “pass it.” Here’s the <strong>order of
+      succession</strong>:</p><ul><li>Vice President (VP Mike
+      Pence)</li><li>House Speaker (Rep. Nancy Pelosi)</li><li>Senate president
+      pro tempore – “president for a time” – traditionally the longest-serving
+      Senator of the majority party (Sen. Chuck Grassley, R-IA)</li></ul></div>
     _key: c95eec15eb47
   - order: 6
     useCheckmark: true
     body: >-
-      Pres. Trump isn't the first president to fall ill during a pandemic.
-      During the last major global pandemic, Pres. Woodrow Wilson contracted
-      Spanish flu in 1919. He continued serving, even holding peace talks during
-      his illness. Months later he suffered a stroke, but remained in office
-      until the end of his term in 1921.
+      <div><p>Pres. Trump isn't the first president to fall ill during a
+      pandemic. During the last major global pandemic, Pres. Woodrow Wilson
+      contracted Spanish flu in 1919. He continued serving, even holding peace
+      talks during his illness. Months later he suffered a stroke, but remained
+      in office until the end of his term in 1921.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 182d42574173
 

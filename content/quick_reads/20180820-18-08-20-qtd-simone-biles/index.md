@@ -21,22 +21,21 @@ colorpaletteclassname: '--light-green'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      > _“I think I’m older, wiser, and I’m finally starting to get it.”_
-
-      Simone Biles
+    body: >-
+      <div><blockquote><em>“I think I’m older, wiser, and I’m finally starting
+      to get it.”</em></blockquote><p>Simone Biles</p></div>
     citation: Simone Biles
     _key: card-1-fe1d0616-5cbe-42a6-9688-54c5b4905a3d
   - order: 1
     useCheckmark: true
     body: >-
-      After a break from competition, Simone Biles won her 5th national
+      <div><p>After a break from competition, Simone Biles won her 5th national
       championship - the 1st woman to do so since U.S. Gymnastics began the
-      national competition back in 1963 & she swept all 4 events (first gymnast
-      since Dominque Dawes in 1994). Why her choice of leotard matters:
-
-
-      [view sources](https://smarthernews.com/18-08-20-qtd-simone-biles/)
+      national competition back in 1963 &amp; she swept all 4 events (first
+      gymnast since Dominque Dawes in 1994). Why her choice of leotard
+      matters:</p><p><a
+      href="https://smarthernews.com/18-08-20-qtd-simone-biles/">view
+      sources</a></p></div>
     _key: card-10-b0f91d38-384e-4725-b727-21e242195299
 
 ---

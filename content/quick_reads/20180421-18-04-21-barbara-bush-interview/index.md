@@ -22,18 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “**Lighten Up!** That would be her advice for all of us…”  
-        
-        
-        
-      Historian Doug Wead worked with President & Mrs. Bush inside & outside the
-      White House. He shares his amazing & inspirational memories of Barbara
-      Bush with SmartHer News.
+      <div><blockquote>“<strong>Lighten Up!</strong> That would be her advice
+      for all of us…”<br><br><br><br>Historian Doug Wead worked with President
+      &amp; Mrs. Bush inside &amp; outside the White House. He shares his
+      amazing &amp; inspirational memories of Barbara Bush with SmartHer
+      News.</blockquote><p></p></div>
     citation: Watch Now
     _key: card-1-27bb7f01-52e4-4222-8dbb-68892dc03d2c
   - order: 1
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-04-21-barbara-bush-interview/)'
+    body: >-
+      <p><a
+      href="https://smarthernews.com/18-04-21-barbara-bush-interview/">view
+      sources</a></p>
     _key: card-10-2db2ae56-35ae-4e22-903b-41c0f3f43ead
 
 ---

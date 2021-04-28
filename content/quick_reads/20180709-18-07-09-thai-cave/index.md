@@ -22,82 +22,53 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # RACE AGAINST TIME
-
-
-      **World Watches Remarkable Rescue Attempt in Thailand**
-
-
-      A nearly**3**–**mile**,**6 hour**A treacherous underwater escape for
-      children – many of whom don’t know how to swim.
-
-
-      FLIP: what happened
+      <div><h1>RACE AGAINST TIME</h1><p><strong>World Watches Remarkable Rescue
+      Attempt in Thailand</strong></p><p>A nearly
+      <strong>3</strong>–<strong>mile</strong>, <strong>6 hour</strong>A
+      treacherous underwater escape for children – many of whom don’t know how
+      to swim.</p><p>FLIP: what happened</p></div>
     _key: card-1-759f2627-cf32-4ee0-8076-8aa20059e716
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Basics:
-
-
-      * **Who:**A 12 Boys (ages 11-16) & 25-year-old soccer coach.
-
-      * **What:** Soccer team went into cave after practice to explore.
-
-      * **Where**: N. Thailand.
-
-      * **When**: June 23; not found for 10 days.
-
-      * **How:** 1,000 volunteers, 13 foreign divers & 5 Thai navy SEALs are
-      doing key, rescue swim.
+      <div><h2>The Basics:</h2><ul><li><strong>Who:</strong>A 12 Boys (ages
+      11-16) &amp; 25-year-old soccer coach.</li><li><strong>What:</strong>
+      Soccer team went into cave after practice to
+      explore.</li><li><strong>Where</strong>: N.
+      Thailand.</li><li><strong>When</strong>: June 23; not found for 10
+      days.</li><li><strong>How:</strong> 1,000 volunteers, 13 foreign divers
+      &amp; 5 Thai navy SEALs are doing key, rescue swim.</li></ul></div>
     _key: card-2-53214893-537b-4b4d-b8c7-aa963e76c482
   - order: 2
     useCheckmark: false
     body: >-
-      ## How To Get Them Out?
-
-
-      * Wearing breathing masks, each boy will be led by 2-3 divers.
-
-      * Guide rope & spare oxygen tanks placed along route.
-
-      * It’s appx. 1-mile swim from where the boys are to the rescuers’ base;
-      further to cave entrance.
-
-      * Ret. Thai Navy SEAL diver died Friday when he ran out of air.
-
-
-
-
-      flip: The dangers
+      <div><h2>How To Get Them Out?</h2><ul><li>Wearing breathing masks, each
+      boy will be led by 2-3 divers.</li><li>Guide rope &amp; spare oxygen tanks
+      placed along route.</li><li>It’s appx. 1-mile swim from where the boys are
+      to the rescuers’ base; further to cave entrance.</li><li>Ret. Thai Navy
+      SEAL diver died Friday when he ran out of air.</li></ul><p></p><p>flip:
+      The dangers</p></div>
     _key: card-3-7d4e63e3-2fe2-4b18-ad36-6cebb1c06e2b
   - order: 3
     useCheckmark: false
     body: >-
-      ## So Many Dangers
-
-
-      * **Cave:**A oxygen levels at 15%.
-
-      * **Swim:A** tight (15 in) & treacherous (shaped like toilet’s U-bend).
-      Many of boys don’t know how to swim.
-
-      * **Water:** Zero visibility. No talking in cave diving, communication
-      through hand signals, but not possible in muddy water.
-
-      * **Weather:A** Rainy season – monsoons expected soon.
-
-      * **Time:** Rescue ops. may take days.
+      <div><h2>So Many Dangers</h2><ul><li><strong>Cave:</strong>A oxygen levels
+      at 15%.</li><li><strong>Swim:A</strong> tight (15 in) &amp; treacherous
+      (shaped like toilet’s U-bend). Many of boys don’t know how to
+      swim.</li><li><strong>Water:</strong> Zero visibility. No talking in cave
+      diving, communication through hand signals, but not possible in muddy
+      water.</li><li><strong>Weather:A</strong> Rainy season – monsoons expected
+      soon.</li><li><strong>Time:</strong> Rescue ops. may take
+      days.</li></ul></div>
     _key: card-4-4f8a0c7f-5676-48cb-9aa0-c6bfe33c6e70
   - order: 4
     useCheckmark: true
     body: >-
-      Thai Navy SEALs carried a batch of letters from the group to family
-      outside, filled with assurances and requests for a dinner out for chicken
-      once they are freed. Grab a tissue & read here.
-
-
-      [view sources](https://smarthernews.com/18-07-09-thai-cave/)
+      <div><p>Thai Navy SEALs carried a batch of letters from the group to
+      family outside, filled with assurances and requests for a dinner out for
+      chicken once they are freed. Grab a tissue &amp; read here.</p><p><a
+      href="https://smarthernews.com/18-07-09-thai-cave/">view
+      sources</a></p></div>
     _key: card-10-09c4352e-b830-4f36-bc18-9225a04b56ec
 
 ---

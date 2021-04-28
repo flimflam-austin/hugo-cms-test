@@ -21,84 +21,63 @@ colorpaletteclassname: '--light-yellow'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # SPRINGING AHEAD
-
-      Most of us will set our clocks an hour forward on Sunday at 2 a.m.
-
-      ## WHY?
-
-      > HINT: It has nothing to do with helping farmers.
+    body: >-
+      <div><h1>SPRINGING AHEAD</h1><p>Most of us will set our clocks an hour
+      forward on Sunday at 2 a.m.</p><h2>WHY?</h2><blockquote>HINT: It has
+      nothing to do with helping farmers.</blockquote></div>
     _key: card-1-e6aa6e97-fb5a-4fe2-bf3d-76c1e5cda762
   - order: 1
     useCheckmark: false
     body: >-
-      ## 3 Things To Know About Daylight Saving Time (DST)
-
-
-      1. Not intended to make longer days for farmers, but rather to help
-      conserve energy used for light/heat (coal) during WWI.
-
-      2. The need for DST has always been a topic of debate. Today, about 70
-      countries observe DST – that’s less than 40% of world.
-
-      3. Daylight saving time lasts 8 months. Standard time lasts 4 months.
+      <div><h2>3 Things To Know About Daylight Saving Time (DST)</h2><ol><li>Not
+      intended to make longer days for farmers, but rather to help conserve
+      energy used for light/heat (coal) during WWI.</li><li>The need for DST has
+      always been a topic of debate. Today, about 70 countries observe DST –
+      that’s less than 40% of world.</li><li>Daylight saving time lasts 8
+      months. Standard time lasts 4 months.</li></ol></div>
     _key: card-2-0523da89-f9a1-4048-a692-fe237c4e7b5d
   - order: 2
     useCheckmark: false
     body: >-
-      ## ORIGINS
-
-
-      * Federal gov’t mandated daylight saving time (DST) in 1918 during**WWI**,
-      & again during**WWII**.
-
-      * **1966:** Congress standardized DST start & end dates requiring
-      observing states to be in sync, but allowed states to opt out.
-
-      * **2005:** Congress re-set the start of DST to the 2nd Sunday in March &
-      set the end for the 1st Sunday in November.
+      <div><h2>ORIGINS</h2><ul><li>Federal gov’t mandated daylight saving time
+      (DST) in 1918 during <strong>WWI</strong>, &amp; again during
+      <strong>WWII</strong>.</li><li><strong>1966:</strong> Congress
+      standardized DST start &amp; end dates requiring observing states to be in
+      sync, but allowed states to opt out.</li><li><strong>2005:</strong>
+      Congress re-set the start of DST to the 2nd Sunday in March &amp; set the
+      end for the 1st Sunday in November.</li></ul></div>
     _key: card-3-21ec9098-5a96-4c49-9da2-eb132d9028e0
   - order: 3
     useCheckmark: false
     body: >-
-      ## Did You Know?
-
-
-      **States are not required to observe DST, but congressional approval is
-      required to keep year-round daylight saving time**
-
-
-      * Nine states have passed laws to keep year-round (permanent) daylight
-      saving time, which await Congress’ approval.
-
-      * Two states – Arizona (except Navajo territories) and Hawaii – as well as
-      five major U.S. territories, don’t observe DST & keep year-round standard
-      time.
+      <div><h2>Did You Know?</h2><p><strong>States are not required to observe
+      DST, but congressional approval is required to keep year-round daylight
+      saving time</strong></p><ul><li>Nine states have passed laws to keep
+      year-round (permanent) daylight saving time, which await Congress’
+      approval.</li><li>Two states – Arizona (except Navajo territories) and
+      Hawaii – as well as five major U.S. territories, don’t observe DST &amp;
+      keep year-round standard time.</li></ul></div>
     _key: card-4-e49a41c7-aabe-431e-a2cc-acc02a8a7d2e
   - order: 4
     useCheckmark: false
     body: >-
-      > _“I prefer Daylight Savings over Standard but in the end what I really
-      want is to end this stupid twice a year time shift. Let’s
-      #LockTheClock_“  
-        
-      Sen. Marco Rubio (R-FL) who has introduced two federal bills since 2018 to
-      eliminate the time shift and make daylight saving time permanent.
-      President Trump has also voiced his support for keeping year-round
-      daylight saving time.
+      <blockquote><em>“I prefer Daylight Savings over Standard but in the end
+      what I really want is to end this stupid twice a year time shift. Let’s
+      #LockTheClock</em>“<br><br>Sen. Marco Rubio (R-FL) who has introduced two
+      federal bills since 2018 to eliminate the time shift and make daylight
+      saving time permanent. President Trump has also voiced his support for
+      keeping year-round daylight saving time.</blockquote>
     _key: card-5-02175fcf-cf97-4f0b-925c-27eb0be74e81
   - order: 5
     useCheckmark: true
     body: >-
-      Changing our clocks was controversial from the beginning with complaints
-      about BIG gov't. According to a 2019 poll by the Associated Press, less
-      than a third of people like switching the clocks twice each year. What
-      would you prefer? See if your state has pending legislation on our source
-      page.
-
-
-      [view sources](https://smarthernews.com/day-light-saving/)
+      <div><p>Changing our clocks was controversial from the beginning with
+      complaints about BIG gov't. According to a 2019 poll by the Associated
+      Press, less than a third of people like switching the clocks twice each
+      year. What would you prefer? See if your state has pending legislation on
+      our source page.</p><p><a
+      href="https://smarthernews.com/day-light-saving/">view
+      sources</a></p></div>
     _key: card-10-3ca33781-1924-40f7-a364-91aa4259863c
 
 ---

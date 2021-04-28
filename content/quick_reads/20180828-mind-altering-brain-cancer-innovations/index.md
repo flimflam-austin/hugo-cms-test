@@ -22,77 +22,55 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # BRAIN POWER
-
-
-      As America continues to honor Sen. John McCain,A brain cancer research
-      delivers quiteA literallyA**mind-altering innovations.**
-
-
-      Reason to Hope?
+      <div><h1>BRAIN POWER</h1><p>As America continues to honor Sen. John
+      McCain,A brain cancer research delivers quiteA literallyA
+      <strong>mind-altering innovations.</strong></p><p>Reason to
+      Hope?</p></div>
     citation: Reason to Hope?
     _key: card-1-b2484f77-ee76-41e4-8c57-20a88f531d2c
   - order: 1
     useCheckmark: false
     body: >-
-      ## Why Do We Call It Cancer?
-
-
-      > “The word cancer is derived from the Latin word for crab because cancers
-      are often very irregularly shaped, and because, like a crab, they “grab on
-      and don’t let go.”  
-        
-        
-        
-      Johns Hopkins University describes cancer as irregular cell growth that
-      can turn deadly. Est. 1 out of 100 cancer diagnoses will be brain cancer;
-      it's also the second most common form of cancer in children (behind
-      Leukemia).
+      <div><h2>Why Do We Call It Cancer?</h2><blockquote>“The word cancer is
+      derived from the Latin word for crab because cancers are often very
+      irregularly shaped, and because, like a crab, they “grab on and don’t let
+      go.”<br><br><br><br>Johns Hopkins University describes cancer as irregular
+      cell growth that can turn deadly. Est. 1 out of 100 cancer diagnoses will
+      be brain cancer; it's also the second most common form of cancer in
+      children (behind Leukemia).</blockquote></div>
     _key: card-2-3653e2d5-876b-428e-b272-5e90cd80fd16
   - order: 2
     useCheckmark: false
     body: >-
-      ## Brain Cancer Boost?
-
-
-      (beyond radiation, chemo & surgery)
-
-
-      * **Cancer Vaccines & Immunotherapy:** Help the body recognize a brain
-      tumor as an “invader” and attack it.
-
-      * **Tumor Treating Fields or TTF:** A wearable device (like a cap) that
-      uses electric fields to disrupt tumor growth (forA glioblastoma -the
-      cancer Sen. McCain had).
+      <div><h2>Brain Cancer Boost?</h2><p>(beyond radiation, chemo &amp;
+      surgery)</p><ul><li><strong>Cancer Vaccines &amp; Immunotherapy:</strong>
+      Help the body recognize a brain tumor as an “invader” and attack
+      it.</li><li><strong>Tumor Treating Fields or TTF:</strong> A wearable
+      device (like a cap) that uses electric fields to disrupt tumor growth
+      (forA glioblastoma -the cancer Sen. McCain had).</li></ul></div>
     _key: card-3-9ef479bb-cd90-402c-a18f-e043c0c03401
   - order: 3
     useCheckmark: false
     body: >-
-      > ‘Just to use this ad that used to be out, ‘This is not your father’s
-      Oldsmobile.’ Well, this is not your father’s brain tumor either. I want
-      sort of give a message of hope to patients. The future will add to these
-      treatments and make it even better.”  
-        
-        
-        
-      Dr. Suriya Jeyapalan, Tufts Medical Center neurologist, speaking about
-      brain cancer to survivornet.com.
-
-
-      [CLICK TO
-      Watch](https://www.survivornet.com/articles/could-a-new-treatment-have-saved-john-mccain-fighting-brain-cancer-with-electric-fields/)
+      <div><blockquote>‘Just to use this ad that used to be out, ‘This is not
+      your father’s Oldsmobile.’ Well, this is not your father’s brain tumor
+      either. I want sort of give a message of hope to patients. The future will
+      add to these treatments and make it even better.”<br><br><br><br>Dr.
+      Suriya Jeyapalan, Tufts Medical Center neurologist, speaking about brain
+      cancer to survivornet.com.</blockquote><p><a
+      href="https://www.survivornet.com/articles/could-a-new-treatment-have-saved-john-mccain-fighting-brain-cancer-with-electric-fields/">CLICK
+      TO Watch</a></p></div>
     citation: CLICK TO Watch
     _key: card-4-f964db64-3571-4eb4-b5ec-0aa93ef8113f
   - order: 4
     useCheckmark: true
     body: >-
-      Novocure, the company using Tumor Treatment Fields, received FDA approval
-      for treating Glioblastoma using its device (with chemotherapy). It's also
-      working on a device for lung, pancreatic and ovarian cancers.
-
-
-      [view
-      sources](https://smarthernews.com/mind-altering-brain-cancer-innovations/)
+      <div><p>Novocure, the company using Tumor Treatment Fields, received FDA
+      approval for treating Glioblastoma using its device (with chemotherapy).
+      It's also working on a device for lung, pancreatic and ovarian
+      cancers.</p><p><a
+      href="https://smarthernews.com/mind-altering-brain-cancer-innovations/">view
+      sources</a></p></div>
     _key: card-10-424a3b4f-7bd4-4cd4-a426-e4468b773b1b
 
 ---

@@ -21,42 +21,37 @@ colorpaletteclassname: '--dark-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # White House  
-      COVID-19 Task Force
-
-      WHAT WE LEARNED TODAY
+    body: >-
+      <div><h1>White House<br>COVID-19 Task Force</h1><p>WHAT WE LEARNED
+      TODAY</p></div>
     _key: fbeced73e0ad
   - order: 1
     useCheckmark: false
-    body: "## FALL FLU\n\n> “I didn’t say that this was going to be worse; I said it’s going to be more difficult and potentially complicated.”  \n  \nCDC Dir. Robert Redfield clarifying his concerns about the U.S. dealing with both flu & COVID-19 in the fall.\_He reiterated the need for Americans to get the flu vaccine. Dr. Fauci added that he's convinced we'll have COVID-19 in the fall, but that we'll be better prepared to contain it."
+    body: "<div><h2>FALL FLU</h2><blockquote>“I didn’t say that this was going to be worse; I said it’s going to be more difficult and potentially complicated.”<br><br>CDC Dir. Robert Redfield clarifying his concerns about the U.S. dealing with both flu &amp; COVID-19 in the fall.\_He reiterated the need for Americans to get the flu vaccine. Dr. Fauci added that he's convinced we'll have COVID-19 in the fall, but that we'll be better prepared to contain it.</blockquote></div>"
     _key: b811b07af836
   - order: 2
     useCheckmark: false
     body: >-
-      ## IMMIGRATION INTO U.S.
-
-
-      > “We want to take care of our citizens first.”  
-        
-      Pres. Trump on his newly signed executive order mandating a 60-day
-      immigration pause. The order only applies to immigrants outside the U.S.
-      seeking green cards. Pres. Trump said the order will "ensure that
-      unemployed Americans of all backgrounds will be first in line for jobs as
-      our economy reopens" and preserve healthcare resources.
+      <div><h2>IMMIGRATION INTO U.S.</h2><blockquote>“We want to take care of
+      our citizens first.”<br><br>Pres. Trump on his newly signed executive
+      order mandating a 60-day immigration pause. The order only applies to
+      immigrants outside the U.S. seeking green cards. Pres. Trump said the
+      order will "ensure that unemployed Americans of all backgrounds will be
+      first in line for jobs as our economy reopens" and preserve healthcare
+      resources.</blockquote></div>
     _key: cd0d1c2e68db
   - order: 3
     useCheckmark: false
-    body: "## “REOPENING”\n\n> “The one way not to reopen the economy is to have rebound that we can’t take care of.”  \n  \nDr. Fauci pleading with America's leaders (and the American public) to carefully consider their reopening plans, and advising them to proceed in a careful and measured way. He emphasized the speed will be different for each community, and if we don't use caution step-by-step, there's\_a greater likelihood of \"a rebound we can't take care of.\""
+    body: "<div><h2>“REOPENING”</h2><blockquote>“The one way not to reopen the economy is to have rebound that we can’t take care of.”<br><br>Dr. Fauci pleading with America's leaders (and the American public) to carefully consider their reopening plans, and advising them to proceed in a careful and measured way. He emphasized the speed will be different for each community, and if we don't use caution step-by-step, there's\_a greater likelihood of \"a rebound we can't take care of.\"</blockquote></div>"
     _key: 168716a9036a
   - order: 4
     useCheckmark: true
     body: >-
-      ONE LAST THING: Dr. Fauci reiterated that although animals can get
+      <div><p>ONE LAST THING: Dr. Fauci reiterated that although animals can get
       COVID-19, there's "no evidence that the virus is transmitted from a pet to
       a human." The Bronx Zoo reports eight felines have tested positive for
       COVID-19. Dr. Fauci said it's likely they were infected by a asymptomatic
-      zoo keeper.
+      zoo keeper.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 0b5fe78eda3c
 

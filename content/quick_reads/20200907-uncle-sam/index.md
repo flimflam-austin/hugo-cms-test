@@ -21,70 +21,52 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      #   
-      September 7, 1813  
-        
-        
-
-
-      >   
-      **Congress officially recognized the namesake of “Uncle Sam.”**
+    body: >-
+      <div><h1><br>September 7,
+      1813<br><br><br></h1><blockquote><br><strong>Congress officially
+      recognized the namesake of “Uncle
+      Sam.”</strong><br><br><br><br></blockquote><p><br></p></div>
     _key: f5467018680b
   - order: 1
     useCheckmark: false
     body: >-
-      ## Was Uncle Sam Real?
-
-
-      * Although best known from the U.S. Army’s “**I Want You**” posters of
-      World War I, the origins of Uncle Sam date back to the**War of 1812**.
-
-      * New York meat packer Samuel Wilson fed hungry troops. His meat barrels
-      of beef & pork were stamped with a “**U.S.**” but soldiers called it
-      “**Uncle Sam’s**.”
-
-      * **Sep 7, 1961**: Congress recognized Wilson as “**the progenitor of
-      America’s national symbol of Uncle Sam**.”
+      <div><h2>Was Uncle Sam Real?</h2><ul><li>Although best known from the U.S.
+      Army’s “<strong>I Want You</strong>” posters of World War I, the origins
+      of Uncle Sam date back to the <strong>War of 1812</strong>.</li><li>New
+      York meat packer Samuel Wilson fed hungry troops. His meat barrels of beef
+      &amp; pork were stamped with a “<strong>U.S.</strong>” but soldiers called
+      it “<strong>Uncle Sam’s</strong>.”</li><li><strong>Sep 7, 1961</strong>:
+      Congress recognized Wilson as “<strong>the progenitor of America’s
+      national symbol of Uncle Sam</strong>.”</li></ul></div>
     _key: 41699481d566
   - order: 2
     useCheckmark: false
     body: >-
-      ## How You See Him:
-
-
-      * Over the years, many artists shaped Uncle Sam’s look, which began as a
-      “congenial, folksy, older man.”
-
-      * Cartoonist**Thomas Nast** popularized him with white beard and stars &
-      stripes suit.
-
-      * Artist James Montgomery Flagg’s 1917 “**I Want You For The U.S. Army**”
-      depiction showed him stern and muscular. The famous poster was used during
-      both World War I and World War II.
+      <div><h2>How You See Him:</h2><ul><li>Over the years, many artists shaped
+      Uncle Sam’s look, which began as a “congenial, folksy, older
+      man.”</li><li>Cartoonist <strong>Thomas Nast</strong> popularized him with
+      white beard and stars &amp; stripes suit.</li><li>Artist James Montgomery
+      Flagg’s 1917 “<strong>I Want You For The U.S. Army</strong>” depiction
+      showed him stern and muscular. The famous poster was used during both
+      World War I and World War II.</li></ul></div>
     _key: 6c6533b42fba
   - order: 3
     useCheckmark: false
     body: >-
-      ## Thomas Nast
-
-
-      * German-born American raised in New York City during mid-19th century.
-
-      * Known as one of the first political cartoonists.
-
-      * Popularized the**donkey** as the symbol for the Democratic Party and
-      the**elephant** as the symbol for the Republican Party.
-
-      * Also credited with creating the modern image of**Santa Claus**.
+      <div><h2>Thomas Nast</h2><ul><li>German-born American raised in New York
+      City during mid-19th century.</li><li>Known as one of the first political
+      cartoonists.</li><li>Popularized the <strong>donkey</strong> as the symbol
+      for the Democratic Party and the <strong>elephant</strong> as the symbol
+      for the Republican Party.</li><li>Also credited with creating the modern
+      image of <strong>Santa Claus</strong>.</li></ul></div>
     _key: d691a329e73d
   - order: 4
     useCheckmark: true
     body: >-
-      Why does Uncle Sam remain popular? Here's one theory: "Uncle Sam is
-      rolling up his sleeves. He's going to go pound on somebody." Does that fit
-      your image of America? Read more on why Uncle Sam and Lady Liberty both
-      compete for the leading role for American symbolism.
+      <div><p>Why does Uncle Sam remain popular? Here's one theory: "Uncle Sam
+      is rolling up his sleeves. He's going to go pound on somebody." Does that
+      fit your image of America? Read more on why Uncle Sam and Lady Liberty
+      both compete for the leading role for American symbolism.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 928ea258b4d0
 

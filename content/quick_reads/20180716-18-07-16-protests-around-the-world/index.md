@@ -22,70 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # UNREST
-
-
-      ## OUTSIDE THE WEST
-
-
-      **Protests flare-up around the world** while a spotlight shines on the
-      Helsinki summit between Presidents Trump & Putin.
-
-
-      Here’s 2 countries you should watch outside of the West… and why they
-      matter.
+      <div><h1>UNREST</h1><h2>OUTSIDE THE WEST</h2><p><strong>Protests flare-up
+      around the world</strong> while a spotlight shines on the Helsinki summit
+      between Presidents Trump &amp; Putin.</p><p>Here’s 2 countries you should
+      watch outside of the West… and why they matter.</p></div>
     _key: card-1-cfa8728f-125c-4ef8-aad2-275b2ff8597b
   - order: 1
     useCheckmark: false
     body: >-
-      # Nicaragua
-
-
-      * At least**10 people died this weekend, raising the death tollA to more
-      than 300** since protests began in April.
-
-      * Opposition groups protest gov’t run by President Daniel Ortega.
-
-      * Critics say Ortega strangling democratic institutions in a deadly power
-      grab; supporters say protesters are “criminals” or “terrorists.”
+      <div><h1>Nicaragua</h1><ul><li>At least <strong>10 people died this
+      weekend, raising the death tollA to more than 300</strong> since protests
+      began in April.</li><li>Opposition groups protest gov’t run by President
+      Daniel Ortega.</li><li>Critics say Ortega strangling democratic
+      institutions in a deadly power grab; supporters say protesters are
+      “criminals” or “terrorists.”</li></ul></div>
     _key: card-2-ecb5edad-ac6f-4999-a2c8-8237ea504675
   - order: 2
     useCheckmark: false
     body: >-
-      > “Nicaragua’s descent into chaos makes the population vulnerable to
-      lawlessness, particularly gang activity and drug trafficking, and
-      encourages mass migration.”  
-        
-        
-        
-      Senior Analyst Allison Fedirka, Geopolitical Futures, who underscores
-      instability In Nicaragua can put more pressure on neighboring unstable
-      states, with larger migration flows to America.
+      <blockquote>“Nicaragua’s descent into chaos makes the population
+      vulnerable to lawlessness, particularly gang activity and drug
+      trafficking, and encourages mass migration.”<br><br><br><br>Senior Analyst
+      Allison Fedirka, Geopolitical Futures, who underscores instability In
+      Nicaragua can put more pressure on neighboring unstable states, with
+      larger migration flows to America.</blockquote>
     _key: card-3-a0f597ba-b82f-4b96-a160-b3edfe438141
   - order: 3
     useCheckmark: false
     body: >-
-      # Iraq
-
-
-      * Reports of 2 dead from multi-day, multi-city protests vs. the gov’t.
-
-      * Protestors say basic services (like water and electricity) not provided.
-
-      * Bigger Picture: Iraq doesn’t have a *new* gov’t since May
-      election;A**chaos not good for security as politicians try building
-      coalition gov’t.**
+      <div><h1>Iraq</h1><ul><li>Reports of 2 dead from multi-day, multi-city
+      protests vs. the gov’t.</li><li>Protestors say basic services (like water
+      and electricity) not provided.</li><li>Bigger Picture: Iraq doesn’t have a
+      *new* gov’t since May election;A <strong>chaos not good for security as
+      politicians try building coalition gov’t.</strong></li></ul></div>
     _key: card-4-8e7eb6e9-7c7b-4794-b3d4-17978b4263be
   - order: 4
     useCheckmark: true
     body: >-
-      Iran worked to create a stable neighbor after invasion of ISIS, filling a
-      vacuum with withdrawal of U.S. Iran also facing domestic protests over
-      last several weeks for basic services. More at SmartHERNews.com
-
-
-      [view
-      sources](https://smarthernews.com/18-07-16-protests-around-the-world/)
+      <div><p>Iran worked to create a stable neighbor after invasion of ISIS,
+      filling a vacuum with withdrawal of U.S. Iran also facing domestic
+      protests over last several weeks for basic services. More at
+      SmartHERNews.com</p><p><a
+      href="https://smarthernews.com/18-07-16-protests-around-the-world/">view
+      sources</a></p></div>
     _key: card-10-342805ca-805c-43e1-9714-fdae55a11104
 
 ---

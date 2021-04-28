@@ -22,66 +22,61 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "Despite the headwinds facing the housing market going into 2019, we
-      expect U.S. house prices to generally achieve a soft landing."  
-        
-      Goldman Sachs on why, even in the face of higher mortgage rates,
-      unfavorable recent tax policy changes, it sees a slowdown - not a crisis
-      in the housing market next year. Less home construction will limit
+      <blockquote>"Despite the headwinds facing the housing market going into
+      2019, we expect U.S. house prices to generally achieve a soft
+      landing."<br><br>Goldman Sachs on why, even in the face of higher mortgage
+      rates, unfavorable recent tax policy changes, it sees a slowdown - not a
+      crisis in the housing market next year. Less home construction will limit
       inventory to avoid a collapse, but it warns the boom days following the
-      Great Recession are over.
+      Great Recession are over.</blockquote>
     _key: card-1-8a9f1a30-819d-4ee1-a59d-9b5becc3f048
   - order: 1
     useCheckmark: false
     body: >-
-      “So far, I’m not even a little bit happy with my selection of Jay. Not
-      even a little bit.”  
-        
-      Pres. Trump on his disapproval of Federal Reserve's plan to gradual
-      increase interest rates & its Chairman Jerome Powell. On Wednesday, Powell
-      will deliver a closely-watched speech ahead of an expected interest rate
-      hike in December - making it slightly more expensive to borrow. Pres.
-      Trump has repeatedly warned rising interest rates will hurt the economy.
+      <p>“So far, I’m not even a little bit happy with my selection of Jay. Not
+      even a little bit.”<br><br>Pres. Trump on his disapproval of Federal
+      Reserve's plan to gradual increase interest rates &amp; its Chairman
+      Jerome Powell. On Wednesday, Powell will deliver a closely-watched speech
+      ahead of an expected interest rate hike in December - making it slightly
+      more expensive to borrow. Pres. Trump has repeatedly warned rising
+      interest rates will hurt the economy.</p>
     _key: card-2-fb814661-4913-4fe0-bc53-d11f872d8e65
   - order: 2
     useCheckmark: false
     body: >-
-      > “…appear to have used cellular telephones… to facilitate unauthorized…
-      andA impermissible contact.”  
-        
-      U.S. prosecutors alleging lawyers for "El Chapo" Guzman helped coordinate
-      an unauthorized phone conversation between the drug lord and his wife Emma
-      Coronel. The motion asks for sanctions against the defense team for
-      violating strict security rules that forbids hug between the couple.
-      Defense team says the claim is "pure speculation."
+      <blockquote>“…appear to have used cellular telephones… to facilitate
+      unauthorized… andA impermissible contact.”<br><br>U.S. prosecutors
+      alleging lawyers for "El Chapo" Guzman helped coordinate an unauthorized
+      phone conversation between the drug lord and his wife Emma Coronel. The
+      motion asks for sanctions against the defense team for violating strict
+      security rules that forbids hug between the couple. Defense team says the
+      claim is "pure speculation."</blockquote>
     _key: card-3-92ac9577-2250-4d1d-8339-18b2641244ac
   - order: 3
     useCheckmark: false
     body: >-
-      > “The reason we won is because Mississippians know me and they know my
-      heart, and thank you for stepping up Mississippi.”  
-        
-      Republican Cindy Hyde-Smith on her historic and controversial election to
-      the U.S. Senate in Mississippi. Her win brings the Republican majority in
-      the Senate to 53-47. Hyde-Smith will be the first woman elected to
-      Congress from Mississippi. Next year, a record-breaking 24 women will
-      serve in the U.S. Senate.
+      <blockquote>“The reason we won is because Mississippians know me and they
+      know my heart, and thank you for stepping up
+      Mississippi.”<br><br>Republican Cindy Hyde-Smith on her historic and
+      controversial election to the U.S. Senate in Mississippi. Her win brings
+      the Republican majority in the Senate to 53-47. Hyde-Smith will be the
+      first woman elected to Congress from Mississippi. Next year, a
+      record-breaking 24 women will serve in the U.S. Senate.</blockquote>
     _key: card-4-f3423023-f0dd-4215-b92a-efdbd88a5952
   - order: 4
     useCheckmark: false
     body: >-
-      > "Sir, I can’t thank you enough. What you’ve done for me is virtually
-      unheard of. Never in my life have I or my family witnessed such
-      generosity.”  
-        
-      Hunter Shamatt (20) after a fellow traveler returned his lost wallet after
-      finding it on a flight. The package, sent to his home in South Dakota,
-      contained a note, the wallet - *plus* an extra $40 in cash for an even
-      $100, encouraging him to celebrate getting your wallet back.
+      <blockquote>"Sir, I can’t thank you enough. What you’ve done for me is
+      virtually unheard of. Never in my life have I or my family witnessed such
+      generosity.”<br><br>Hunter Shamatt (20) after a fellow traveler returned
+      his lost wallet after finding it on a flight. The package, sent to his
+      home in South Dakota, contained a note, the wallet - *plus* an extra $40
+      in cash for an even $100, encouraging him to celebrate getting your wallet
+      back.</blockquote>
     _key: card-5-b0a98659-4b6a-464a-a840-1e6dc2e0852f
   - order: 5
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-11-28-qq/)'
+    body: <p><a href="https://smarthernews.com/18-11-28-qq/">view sources</a></p>
     _key: card-10-4197aed5-6341-42ae-ab2d-c3b43bf28a36
 
 ---

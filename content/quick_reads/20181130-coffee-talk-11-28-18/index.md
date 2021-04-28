@@ -22,18 +22,16 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      November 28, 2018
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/3El6tb9rRSY?enablejsapi=1&autoplay=1&rel=0)
+      <div><p>November 28, 2018</p><p><a
+      href="https://www.youtube.com/embed/3El6tb9rRSY?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-1-a8411894-eb72-43b4-a045-04cf1a63b208
   - order: 1
     useCheckmark: true
-    body: |-
-      Have A Great Day!
-
-      [view sources](https://smarthernews.com/coffee-talk-11-28-18/)
+    body: >-
+      <div><p>Have A Great Day!</p><p><a
+      href="https://smarthernews.com/coffee-talk-11-28-18/">view
+      sources</a></p></div>
     _key: card-10-94246ffb-8aca-4ebf-8e91-624627576c6b
 
 ---

@@ -21,77 +21,54 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # FBI RAID
-
-      ## Prez’s Personal Lawyer
-
-      * **Who:** Michael Cohen, President Trump’s top attorney.
-      * **What:** FBI seized personal records & communication.
-      * **Where:** NYC office & residences.
-      * **When:** Monday morning.
-      * **How:** Warrants from NY Feds.
-
-      why? Flip Card
+    body: >-
+      <div><h1>FBI RAID</h1><h2>Prez’s Personal
+      Lawyer</h2><ul><li><strong>Who:</strong> Michael Cohen, President Trump’s
+      top attorney.</li><li><strong>What:</strong> FBI seized personal records
+      &amp; communication.</li><li><strong>Where:</strong> NYC office &amp;
+      residences.</li><li><strong>When:</strong> Monday
+      morning.</li><li><strong>How:</strong> Warrants from NY
+      Feds.</li></ul><p>why? Flip Card</p></div>
     citation: why? Flip Card
     _key: card-1-49c29109-ee62-4360-aa8b-731e3d0ebcbf
   - order: 1
     useCheckmark: false
     body: >-
-      # Why The Raid?
-
-
-      Bottom Line:**We don’t know.**
-
-
-      * Reports: warrants focus on bank fraud, wire fraud, & campaign finance
-      violations.
-
-      * UNCONFIRMED: warrants come from info uncovered in Mueller investigation
-      according to Cohen’s lawyer. DOJ isn’t talking.
-
-
-      Flip: Crucial Context
+      <div><h1>Why The Raid?</h1><p>Bottom Line: <strong>We don’t
+      know.</strong></p><ul><li>Reports: warrants focus on bank fraud, wire
+      fraud, &amp; campaign finance violations.</li><li>UNCONFIRMED: warrants
+      come from info uncovered in Mueller investigation according to Cohen’s
+      lawyer. DOJ isn’t talking.</li></ul><p>Flip: Crucial Context</p></div>
     citation: 'Flip: Crucial Context'
     _key: card-2-3717ea1c-e221-4bea-9d55-2e1d3e76955b
   - order: 2
     useCheckmark: false
-    body: |-
-      ## Who Is Michael Cohen?
-
-      ‘I’m the guy who would take a bullet for the president”
-
-      * New York native
-      * Former taxi cab fleet manager
-      * Personal injury attorney
-      * Worked for Trump organization since 2006
-      * NEVER officially part of campaign or White House
+    body: >-
+      <div><h2>Who Is Michael Cohen?</h2><p>‘I’m the guy who would take a bullet
+      for the president”</p><ul><li>New York native</li><li>Former taxi cab
+      fleet manager</li><li>Personal injury attorney</li><li>Worked for Trump
+      organization since 2006</li><li>NEVER officially part of campaign or White
+      House</li></ul></div>
     _key: card-3-58c4c7d7-8658-489c-bace-9196a2ffd3ad
   - order: 3
     useCheckmark: false
     body: >-
-      What Is This All About?  
-
-      TBD
-
-
-      * We know Cohen testified before Congress in connection with Russian
-      meddling investigations.
-
-      * We know Cohen made a payment to “Stormy Daniels” in exchange for her not
-      going public with claims she had an affair with the President in 2006.
-      Debates about this payment have emerged:**Is it legal or ethical?**
+      <div><p>What Is This All About?<br>TBD</p><ul><li>We know Cohen testified
+      before Congress in connection with Russian meddling
+      investigations.</li><li>We know Cohen made a payment to “Stormy Daniels”
+      in exchange for her not going public with claims she had an affair with
+      the President in 2006. Debates about this payment have emerged: <strong>Is
+      it legal or ethical?</strong></li></ul></div>
     _key: card-4-fb715bb3-8cf9-4671-97a1-bcd3ff53c0e2
   - order: 4
     useCheckmark: true
     body: >-
-      ‘A search warrant for a law office is extremely rare. Lawyers are given
-      the courtesy of producing documents in response to a subpoena ... unless
-      the government believes a lawyer will destroy or conceal the objects of
-      the search.’ Stephen Gillers, NYU School of Law.
-
-
-      [view sources](https://smarthernews.com/18-04-10-raid-trump-lawyer/)
+      <div><p>‘A search warrant for a law office is extremely rare. Lawyers are
+      given the courtesy of producing documents in response to a subpoena ...
+      unless the government believes a lawyer will destroy or conceal the
+      objects of the search.’ Stephen Gillers, NYU School of Law.</p><p><a
+      href="https://smarthernews.com/18-04-10-raid-trump-lawyer/">view
+      sources</a></p></div>
     _key: card-10-fdd66c61-722b-4d7e-b6ce-8b2d63be6335
 
 ---

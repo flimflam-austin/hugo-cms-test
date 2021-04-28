@@ -21,99 +21,75 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      A development on one of the most hotly-debated policies of the recent
-      past: family separation at the U.S. southern border.
-
-
-      Pres. Biden issues an executive action, promising change.
-
-
-      What it does  
-
-      (and what it doesn’t).
+      <div><p>A development on one of the most hotly-debated policies of the
+      recent past: family separation at the U.S. southern border.</p><p>Pres.
+      Biden issues an executive action, promising change.</p><p>What it
+      does<br>(and what it doesn’t).</p></div>
     _key: 0a0f3177d6de
   - order: 1
     useCheckmark: false
     body: >-
-      ## Policy Background
-
-
-      * During parts of 2017 and 2018, the Trump admin. implemented
-      a**zero-tolerance policy**, requiring the arrest of every adult illegally
-      entering the U.S.
-
-      * When an adult is arrested, they cannot have a minor detained alongside
-      them.
-
-      * Previously, adults w/ child(ren) entering the country illegally could
-      avoid arrest, either through applying for asylum or by getting “released”
-      in the U.S. while awaiting legal proceedings.
+      <div><h2>Policy Background</h2><ul><li>During parts of 2017 and 2018, the
+      Trump admin. implemented a <strong>zero-tolerance policy</strong>,
+      requiring the arrest of every adult illegally entering the
+      U.S.</li><li>When an adult is arrested, they cannot have a minor detained
+      alongside them.</li><li>Previously, adults w/ child(ren) entering the
+      country illegally could avoid arrest, either through applying for asylum
+      or by getting “released” in the U.S. while awaiting legal
+      proceedings.</li></ul></div>
     _key: 4414c5ad128f
   - order: 2
     useCheckmark: false
     body: >-
-      > “We’re going to work to undo the moral and national shame of the
-      previous administration that literally, not figuratively, ripped children
-      from the arms of their families — their mothers and fathers at the border
-      — and with no plan, none whatsoever, to reunify the children who are still
-      in custody and their parents.”
-
-
-      President Biden on creating a task force to reunite separated families.
+      <div><blockquote>“We’re going to work to undo the moral and national shame
+      of the previous administration that literally, not figuratively, ripped
+      children from the arms of their families — their mothers and fathers at
+      the border — and with no plan, none whatsoever, to reunify the children
+      who are still in custody and their parents.”</blockquote><p>President
+      Biden on creating a task force to reunite separated families.</p></div>
     _key: 614cc8fb9388
   - order: 3
     useCheckmark: false
     body: >-
-      ## What To Know
-
-
-      * In 2018, Pres. Trump ended family separation replacing the policy
-      w/family detention. A federal court ordered the reunification of minors
-      separated from their parent/guardian under the zero-tolerance policy.
-
-      * The Biden admin. formally rescinded the zero-tolerance policy in Jan.
-      2021.
-
-      * Approx. 11% of minors separated during the policy (an estimated 628 of
-      5,500) have yet to be reunited.
+      <div><h2>What To Know</h2><ul><li>In 2018, Pres. Trump ended family
+      separation replacing the policy w/family detention. A federal court
+      ordered the reunification of minors separated from their parent/guardian
+      under the zero-tolerance policy.</li><li>The Biden admin. formally
+      rescinded the zero-tolerance policy in Jan. 2021.</li><li>Approx. 11% of
+      minors separated during the policy (an estimated 628 of 5,500) have yet to
+      be reunited.</li></ul></div>
     _key: 30b3e3b51d35
   - order: 4
     useCheckmark: false
     body: >-
-      ## COVID Impact
-
-
-      * March 2020: CDC & DHS instituted a policy that automatically expelled
-      anyone incl. minors, and those seeking legal protection (ex. asylum),
-      without legal status, in response to the global pandemic.
-
-      * A court order stopped these expulsions; just last week a higher court
-      overruled that decision, allowing the expulsions to continue (but this
-      doesn’t necessarily mean they ***will*** continue).
+      <div><h2>COVID Impact</h2><ul><li>March 2020: CDC &amp; DHS instituted a
+      policy that automatically expelled anyone incl. minors, and those seeking
+      legal protection (ex. asylum), without legal status, in response to the
+      global pandemic.</li><li>A court order stopped these expulsions; just last
+      week a higher court overruled that decision, allowing the expulsions to
+      continue (but this doesn’t necessarily mean they *<strong>will</strong>*
+      continue).</li></ul></div>
     _key: 3bfab99ee497
   - order: 5
     useCheckmark: false
     body: >-
-      ## Big Picture
-
-
-      * Much of recent U.S. immigration policy has been created through
-      executive action rather than Congress. As Pres. Biden stated, “_I’m not
-      making new law. I’m eliminating bad policy_.”
-
-      * **Big Question:** With Democrats holding both houses of Congress, will
-      they push for immigration reform and/or new immigration laws? When
-      Republicans controlled both houses (2015 – 2019), they couldn’t reach a
-      consensus.
+      <div><h2>Big Picture</h2><ul><li>Much of recent U.S. immigration policy
+      has been created through executive action rather than Congress. As Pres.
+      Biden stated, “<em>I’m not making new law. I’m eliminating bad
+      policy</em>.”</li><li><strong>Big Question:</strong> With Democrats
+      holding both houses of Congress, will they push for immigration reform
+      and/or new immigration laws? When Republicans controlled both houses (2015
+      – 2019), they couldn’t reach a consensus.</li></ul></div>
     _key: 65e04eddf380
   - order: 6
     useCheckmark: true
     body: >-
-      The new interagency task force focused on reuniting families is one of the
-      many immigration policy overhauls expected from the Biden admin. The
-      President signed two other immigration-related executive orders calling
-      for a “top-to-bottom” review of the immigration legal system. Read more on
-      our source page about what typically happens to minors at the border.
+      <div><p>The new interagency task force focused on reuniting families is
+      one of the many immigration policy overhauls expected from the Biden
+      admin. The President signed two other immigration-related executive orders
+      calling for a “top-to-bottom” review of the immigration legal system. Read
+      more on our source page about what typically happens to minors at the
+      border.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 79e8a5535911
 

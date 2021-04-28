@@ -22,21 +22,19 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “I wish everyone could have the perspective of an individual in a
-      war-torn country, or one who has served in a war zone…(We need to) embrace
-      each other’s differences and grow from each other’s strengths. I’m not
-      saying there is not room for improvement, but appreciate our fellow
-      Americans’ hard work and put our heads together to make it better.”
-
-
-      SSG Kathryn Kelly
+      <div><blockquote>“I wish everyone could have the perspective of an
+      individual in a war-torn country, or one who has served in a war zone…(We
+      need to) embrace each other’s differences and grow from each other’s
+      strengths. I’m not saying there is not room for improvement, but
+      appreciate our fellow Americans’ hard work and put our heads together to
+      make it better.”</blockquote><p>SSG Kathryn Kelly</p></div>
     _key: fce346e1e645
   - order: 1
     useCheckmark: true
     body: >-
-      SSG Kathryn Kelly joined the Army at 17, served in Iraq and now is a
-      mother of 3, and working on the front lines to combat COVID. Read her
-      story on our source page.
+      <div><p>SSG Kathryn Kelly joined the Army at 17, served in Iraq and now is
+      a mother of 3, and working on the front lines to combat COVID. Read her
+      story on our source page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: f7d1efb186d4
 

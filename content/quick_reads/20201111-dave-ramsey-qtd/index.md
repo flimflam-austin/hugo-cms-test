@@ -22,18 +22,18 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“What happens at your house is more important than what happens at the
-      White House.”_
+      <div><blockquote><em>“What happens at your house is more important than
+      what happens at the White House.”</em></blockquote><p></p></div>
     citation: DAVE RAMSEY
     _key: c27adc23c5f7
   - order: 1
     useCheckmark: true
     body: >-
-      National radio host & best-selling author Dave Ramsey responding to those
-      either exuberant or depressed from the U.S. presidential election. The
-      personal finance expert, advises followers to pay down debt. One side
-      effect of the pandemic? Data shows Americans have saved more, paid debt
-      and improved their credit ratings.
+      <div><p>National radio host &amp; best-selling author Dave Ramsey
+      responding to those either exuberant or depressed from the U.S.
+      presidential election. The personal finance expert, advises followers to
+      pay down debt. One side effect of the pandemic? Data shows Americans have
+      saved more, paid debt and improved their credit ratings.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 095bbf622e45
 

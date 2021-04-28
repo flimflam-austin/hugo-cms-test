@@ -22,68 +22,55 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      March 4, 1933
-
-
-
-
-      > The 40-hour work week, child labor laws, and social security, all
-      policies**she** helped create after becoming the first woman named in a
-      presidential cabinet on this day in 1933.
+      <div><p>March 4, 1933</p><p></p><blockquote>The 40-hour work week, child
+      labor laws, and social security, all policies <strong>she</strong> helped
+      create after becoming the first woman named in a presidential cabinet on
+      this day in 1933.</blockquote></div>
     _key: card-1-24afca03-1706-45f4-ab5a-7d4e972605e0
   - order: 1
     useCheckmark: false
     body: >-
-      > “The people are what matter to government, and a government should aim
-      to give all the people under its jurisdiction the best possible life.”
-
-
-      > Frances Perkins began her work in public service as a social worker. Her
-      pursuit for workers' rights was shaped during a trip to NYC on the day of
-      the 1911 Triangle Shirtwaist Factory fire, when nearly 150 workers died.
-      She held many positions in the New York government under then-Governor
-      Franklin D. Roosevelt and his predecessor.
+      <div><blockquote>“The people are what matter to government, and a
+      government should aim to give all the people under its jurisdiction the
+      best possible life.”</blockquote><blockquote>Frances Perkins began her
+      work in public service as a social worker. Her pursuit for workers' rights
+      was shaped during a trip to NYC on the day of the 1911 Triangle Shirtwaist
+      Factory fire, when nearly 150 workers died. She held many positions in the
+      New York government under then-Governor Franklin D. Roosevelt and his
+      predecessor.</blockquote></div>
     _key: card-2-6e44d61c-69d0-4023-8af4-589eadfac174
   - order: 2
     useCheckmark: false
     body: >-
-      > “I came to Washington to work for God, FDR, and the millions of
-      forgotten, plain common workingmen.”  
-        
-      Sec. Perkins, who came to the White House to help President Roosevelt
-      draft and implement labor and economic policies during the height of the
-      Great Depression, became the FIRST female cabinet secretary and the
-      LONGEST-serving Labor Secretary in history. As the head of the labor
-      department, she also oversaw the Immigration and Naturalization Service.
+      <blockquote>“I came to Washington to work for God, FDR, and the millions
+      of forgotten, plain common workingmen.”<br><br>Sec. Perkins, who came to
+      the White House to help President Roosevelt draft and implement labor and
+      economic policies during the height of the Great Depression, became the
+      FIRST female cabinet secretary and the LONGEST-serving Labor Secretary in
+      history. As the head of the labor department, she also oversaw the
+      Immigration and Naturalization Service.</blockquote>
     _key: card-3-77813ef9-6268-4e70-8ef2-7528c83cbadc
   - order: 3
     useCheckmark: false
     body: >-
-      ## Perkins’ Lasting Legacy
-
-
-      Perkins played a key role in several key parts of FDR’s New Deal – many of
-      which are still in effect today, including:
-
-
-      * establishing the**Social Security** program (1935)
-
-      * creating**union** & collective bargaining laws (1935)
-
-      * enacting**child labor** laws (1936)
-
-      * setting up federal**minimum wage** laws & the**40-hour workweek** (1938)
+      <div><h2>Perkins’ Lasting Legacy</h2><p>Perkins played a key role in
+      several key parts of FDR’s New Deal – many of which are still in effect
+      today, including:</p><ul><li>establishing the <strong>Social
+      Security</strong> program (1935)</li><li>creating <strong>union</strong>
+      &amp; collective bargaining laws (1935)</li><li>enacting <strong>child
+      labor</strong> laws (1936)</li><li>setting up federal <strong>minimum
+      wage</strong> laws &amp; the <strong>40-hour workweek</strong>
+      (1938)</li></ul></div>
     _key: card-4-361c5832-035d-4303-bc9a-a7c56aaf57e9
   - order: 4
     useCheckmark: true
     body: >-
-      In 2008, the Frances Perkins Center was established in Maine to honor
-      Perkins' legacy and continue her work. The nonprofit and nonpartisan
+      <div><p>In 2008, the Frances Perkins Center was established in Maine to
+      honor Perkins' legacy and continue her work. The nonprofit and nonpartisan
       center recently purchased Perkins' ancestral homestead, which was
-      designated a National Historic Landmark.
-
-
-      [view sources](https://smarthernews.com/otd-frances-perkins/)
+      designated a National Historic Landmark.</p><p><a
+      href="https://smarthernews.com/otd-frances-perkins/">view
+      sources</a></p></div>
     _key: card-10-e09f27a4-2cfb-47a2-8b48-8065fc1b0912
 
 ---

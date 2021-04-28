@@ -22,44 +22,40 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "It cost me everything. I wish I worded it better."  
-        
-      Roseanne Barr in her first TV interview after her ABC sitcom was canceled
-      following a racist tweet. In May, Barr tweeted that former Obama official
-      Valerie Jarrett, who is black, was the product if the muslim brotherhood &
-      planet of the apes had a baby. Barr apologized & reiterated she is not a
-      bigot.
+      <blockquote>"It cost me everything. I wish I worded it
+      better."<br><br>Roseanne Barr in her first TV interview after her ABC
+      sitcom was canceled following a racist tweet. In May, Barr tweeted that
+      former Obama official Valerie Jarrett, who is black, was the product if
+      the muslim brotherhood &amp; planet of the apes had a baby. Barr
+      apologized &amp; reiterated she is not a bigot.</blockquote>
     _key: card-1-ee7d896b-dde5-41ed-96cf-2f09bef1710d
   - order: 1
     useCheckmark: false
     body: >-
-      > "…I had my own activism streak in my youth. I’m not sure if you’ve heard
-      of the Boston Tea Party, but it was a real game changer."  
-        
-      Sen. Orrin Hatch (R-UT), 84, speaking to high school students at a
-      leadership summit. The joke comes just days after he tweeted his Google
-      profile reported he died last year. Hatch, who is set to retire this year,
-      is the 3rd oldest current Senator behind Dianne Feinstein (D-CA) & Chuck
-      Grassley (R-IA).
+      <blockquote>"…I had my own activism streak in my youth. I’m not sure if
+      you’ve heard of the Boston Tea Party, but it was a real game
+      changer."<br><br>Sen. Orrin Hatch (R-UT), 84, speaking to high school
+      students at a leadership summit. The joke comes just days after he tweeted
+      his Google profile reported he died last year. Hatch, who is set to retire
+      this year, is the 3rd oldest current Senator behind Dianne Feinstein
+      (D-CA) &amp; Chuck Grassley (R-IA).</blockquote>
     _key: card-2-696d78ea-300b-480d-add2-8c4f3541593f
   - order: 2
     useCheckmark: false
     body: >-
-      > “We’re investing so much in security that it will significantly impact
-      our profitability.”  
-        
-      Facebook CEO Mark Zuckerberg on the company's underwhelming quarterly
-      results, forecasting years of lower profit margins after data leaks and
-      users' privacy concerns. In turn, Facebook's stock fell 19% in trading
-      Thursday, suffering the largest one-day loss in the history of Wall
-      Street. Zuckerberg personally lost $16B.
+      <blockquote>“We’re investing so much in security that it will
+      significantly impact our profitability.”<br><br>Facebook CEO Mark
+      Zuckerberg on the company's underwhelming quarterly results, forecasting
+      years of lower profit margins after data leaks and users' privacy
+      concerns. In turn, Facebook's stock fell 19% in trading Thursday,
+      suffering the largest one-day loss in the history of Wall Street.
+      Zuckerberg personally lost $16B.</blockquote>
     _key: card-3-14fe529f-0dee-4fcc-8de1-ff3f816af8bc
   - order: 3
     useCheckmark: true
-    body: |-
-      Have a great weekend!
-
-      [view sources](https://smarthernews.com/18-07-27-qq/)
+    body: >-
+      <div><p>Have a great weekend!</p><p><a
+      href="https://smarthernews.com/18-07-27-qq/">view sources</a></p></div>
     _key: card-10-e13df4de-0787-496b-9ee3-7874cc334b9a
 
 ---

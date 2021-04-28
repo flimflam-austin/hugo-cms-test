@@ -22,50 +22,44 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # June 30, 1864
-
-
-      During the height of the Civil War, Pres. Abraham Lincoln turns his gaze
-      west, granting Yosemite Valley to California, with the specific orders to
-      preserve it for future generations of Americans.
+      <div><h1>June 30, 1864</h1><p>During the height of the Civil War, Pres.
+      Abraham Lincoln turns his gaze west, granting Yosemite Valley to
+      California, with the specific orders to preserve it for future generations
+      of Americans.</p></div>
     _key: 5db2b712846e
   - order: 1
     useCheckmark: false
     body: >-
-      > “I have seen persons of emotional temperament stand with tearful eyes,
-      spellbound and dumb with awe, as they got their first view of the Valley
-      from Inspiration Point, overwhelmed in the sudden presence of the
-      unspeakable, stupendous grandeur.”
-
-
-      The first guardian of the Yosemite Grant, Galen Clark helped oversee the
-      land known later as Yosemite National Park. Yosemite was the name of the
-      local Native American tribe in the area.
+      <div><blockquote>“I have seen persons of emotional temperament stand with
+      tearful eyes, spellbound and dumb with awe, as they got their first view
+      of the Valley from Inspiration Point, overwhelmed in the sudden presence
+      of the unspeakable, stupendous grandeur.”</blockquote><p>The first
+      guardian of the Yosemite Grant, Galen Clark helped oversee the land known
+      later as Yosemite National Park. Yosemite was the name of the local Native
+      American tribe in the area.</p></div>
     _key: 2cdbd67358c7
   - order: 2
     useCheckmark: false
-    body: "## The Early Years\n\n* The Gold Rush led to conflict between settlers and Native American tribes.\n* A “Yosemite Board of Commissioners” was named to both preserve the land and make it accessible for recreation.\n* 1865: The man responsible for designing NYC’s Central Park, Frederick Law Olmsted, filed a report on Yosemite valley & nearby “Big Tree Grove” of ancient sequoia trees,\_raising concerns about how visitors impacting the area."
+    body: "<div><h2>The Early Years</h2><ul><li>The Gold Rush led to conflict between settlers and Native American tribes.</li><li>A “Yosemite Board of Commissioners” was named to both preserve the land and make it accessible for recreation.</li><li>1865: The man responsible for designing NYC’s Central Park, Frederick Law Olmsted, filed a report on Yosemite valley &amp; nearby “Big Tree Grove” of ancient sequoia trees,\_raising concerns about how visitors impacting the area.</li></ul></div>"
     _key: 518d529a1d8a
   - order: 3
     useCheckmark: false
     body: >-
-      “Nearly all the park is a profound solitude. Yet it is full of charming
-      company, full of God’s thoughts, a place of peace and safety amid the most
-      exalted grandeur and eager enthusiastic action, a new song, a place of
-      beginnings abounding in first lessons on life, mountain-building, eternal,
-      invincible, unbreakable order; with sermons in stones, storms, trees,
-      flowers, and animals brimful of humanity.”
-
-
-      Naturalist John Muir
+      <div><p>“Nearly all the park is a profound solitude. Yet it is full of
+      charming company, full of God’s thoughts, a place of peace and safety amid
+      the most exalted grandeur and eager enthusiastic action, a new song, a
+      place of beginnings abounding in first lessons on life, mountain-building,
+      eternal, invincible, unbreakable order; with sermons in stones, storms,
+      trees, flowers, and animals brimful of humanity.”</p><p>Naturalist John
+      Muir</p></div>
     _key: 1d17ee674e1e
   - order: 4
     useCheckmark: true
     body: >-
-      By the 1870s, there were already concerns about too many visitors
+      <div><p>By the 1870s, there were already concerns about too many visitors
       impacting Yosemite. Muir was one of the many voices who argued
       (successfully) for Yosemite to become a National Park in 1890 - the third
-      in the nation after Yellowstone and Sequoia.
+      in the nation after Yellowstone and Sequoia.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 0e860e6ac74b
 

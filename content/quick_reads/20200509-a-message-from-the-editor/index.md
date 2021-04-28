@@ -22,19 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“We’re really at a point of reckoning in so many ways. We’re asking
-      really big question about our health, and our safety. We’re asking big
-      question about what it means to be American…Yes, we’re at a point of
-      reckoning, but I keep thinking of the renaissance. Those (who) go through
-      the difficult period of asking those big questions are often those who
-      lead that next stage.”_
+      <div><blockquote><em>“We’re really at a point of reckoning in so many
+      ways. We’re asking really big question about our health, and our safety.
+      We’re asking big question about what it means to be American…Yes, we’re at
+      a point of reckoning, but I keep thinking of the renaissance. Those (who)
+      go through the difficult period of asking those big questions are often
+      those who lead that next stage.”</em></blockquote><p></p></div>
     citation: JENNA LEE
     _key: 3d1667640c8e
   - order: 1
     useCheckmark: true
     body: >-
-      Check out the full video by the founder of SmartHER News on how to
-      navigate headlines during this unprecedented period on our source page.
+      <div><p>Check out the full video by the founder of SmartHER News on how to
+      navigate headlines during this unprecedented period on our source
+      page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 0785d40fba83
 

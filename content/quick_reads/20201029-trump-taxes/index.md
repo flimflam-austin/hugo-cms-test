@@ -22,133 +22,109 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # What About The President’s Taxes?
-
-
-      The New York Times says it has what many have sought for decades – the
-      personal and business tax records of Pres. Donald Trump.
-
-
-      **What To Know**
+      <div><h1>What About The President’s Taxes?</h1><p>The New York Times says
+      it has what many have sought for decades – the personal and business tax
+      records of Pres. Donald Trump.</p><p><strong>What To
+      Know</strong></p></div>
     _key: 8e78facc2374
   - order: 1
     useCheckmark: false
     body: >-
-      ## Disclaimer:
-
-
-      * The_New York Times_ says it obtained federal taxes spanning two decades
-      for Pres. Trump and his businesses “by sources with legal access to it”
-      but doesn’t say how or from whom.
-
-      * To date, the NYT is the only news outlet with access to the records –
-      preventing fact-checking & double-sourcing.
-
-      * NYT says it has the right to publish the information, citing the First
-      Amendment.
+      <div><h2>Disclaimer:</h2><ul><li>The <em>New York Times</em> says it
+      obtained federal taxes spanning two decades for Pres. Trump and his
+      businesses “by sources with legal access to it” but doesn’t say how or
+      from whom.</li><li>To date, the NYT is the only news outlet with access to
+      the records – preventing fact-checking &amp; double-sourcing.</li><li>NYT
+      says it has the right to publish the information, citing the First
+      Amendment.</li></ul></div>
     _key: db0bd713ff88
   - order: 2
     useCheckmark: false
     body: >-
-      ## The NY Times Reports:
-
-
-      * NYT’s initial reporting states Pres. Trump paid $750 in federal income
-      taxes in 2016 & 2017 and $0 in most of the past 15 years. NYT says the
-      records show his companies are under financial stress, and that he
-      personally owes $400M+ in debts in the next four years.
-
-      * Follow-up NYT reports state Pres. Trump has questionable Chinese bank
-      accounts, write-offs, & uses the presidency for his financial benefit.
+      <div><h2>The NY Times Reports:</h2><ul><li>NYT’s initial reporting states
+      Pres. Trump paid $750 in federal income taxes in 2016 &amp; 2017 and $0 in
+      most of the past 15 years. NYT says the records show his companies are
+      under financial stress, and that he personally owes $400M+ in debts in the
+      next four years.</li><li>Follow-up NYT reports state Pres. Trump has
+      questionable Chinese bank accounts, write-offs, &amp; uses the presidency
+      for his financial benefit.</li></ul></div>
     _key: 6b3a371091b9
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why It Matters:
-
-
-      * Pres. Trump has active and ongoing international family businesses,
-      which are privately held and not required to publish quarterly earnings
-      releases. This makes his background unique and unlike a career politician
-      – but also leads to questions by critics.
-
-      * Every U.S. President since Jimmy Carter has voluntarily released their
-      taxes to demonstrate financial transparency. Pres. Trump has not.
+      <div><h2>Why It Matters:</h2><ul><li>Pres. Trump has active and ongoing
+      international family businesses, which are privately held and not required
+      to publish quarterly earnings releases. This makes his background unique
+      and unlike a career politician – but also leads to questions by
+      critics.</li><li>Every U.S. President since Jimmy Carter has voluntarily
+      released their taxes to demonstrate financial transparency. Pres. Trump
+      has not.</li></ul></div>
     _key: 84b14e6e8e00
   - order: 4
     useCheckmark: false
     body: >-
-      ## Two Sides:
-
-
-      **Critics of Trump:** Records prove a long history of tax avoidance and
-      show Pres. Trump is not as financially successful as he claims, and thus
-      vulnerable to foreign influence for his own financial gain.
-
-
-      **Supporters of Trump:** The NYT report is a “hit piece” based on records
-      obtained illegally, which show Pres. Trump paid millions in taxes, and
-      took advantage of legal tax credits and depreciations.
+      <div><h2>Two Sides:</h2><p><strong>Critics of Trump:</strong> Records
+      prove a long history of tax avoidance and show Pres. Trump is not as
+      financially successful as he claims, and thus vulnerable to foreign
+      influence for his own financial gain.</p><p><strong>Supporters of
+      Trump:</strong> The NYT report is a “hit piece” based on records obtained
+      illegally, which show Pres. Trump paid millions in taxes, and took
+      advantage of legal tax credits and depreciations.</p></div>
     _key: 58162f6c76b6
   - order: 5
     useCheckmark: false
     body: >-
-      > “Their numbers were wrong.”
-
-
-      Pres. Trump on NYT's reporting, adding that with regard to his debts, that
-      he is "very underlevered" and that the $400M+ he owes is a "peanut... not
-      a big deal." The President says he's been treated "very badly" and
-      "unfairly" by the IRS, especially from holdovers from previous
-      administrations. For years he's said that he cannot release his taxes
-      while under audit, although the IRS says there is no prohibition against
-      releasing one's taxes while under audit.
+      <div><blockquote>“Their numbers were wrong.”</blockquote><p>Pres. Trump on
+      NYT's reporting, adding that with regard to his debts, that he is "very
+      underlevered" and that the $400M+ he owes is a "peanut... not a big deal."
+      The President says he's been treated "very badly" and "unfairly" by the
+      IRS, especially from holdovers from previous administrations. For years
+      he's said that he cannot release his taxes while under audit, although the
+      IRS says there is no prohibition against releasing one's taxes while under
+      audit.</p></div>
     _key: 0d20e8ce49c6
   - order: 6
     useCheckmark: false
     body: >-
-      “I think he really is not a very good businessman … The fact that he’s a
-      bad businessman does not mean that he’s not also cheating on his taxes.”  
-        
-      University of Michigan Law School tax law professor Reuven Avi-Yonah on
-      the big takeaway from NYT's reporting. He says the records, that don't
-      include 2018, 2019 taxes, demonstrate that despite friendly tax laws for
-      real estate developers, Pres. Trump's businesses are most certainly
-      struggling financially.
+      <div><p>“I think he really is not a very good businessman … The fact that
+      he’s a bad businessman does not mean that he’s not also cheating on his
+      taxes.”<br><br>University of Michigan Law School tax law professor Reuven
+      Avi-Yonah on the big takeaway from NYT's reporting. He says the records,
+      that don't include 2018, 2019 taxes, demonstrate that despite friendly tax
+      laws for real estate developers, Pres. Trump's businesses are most
+      certainly struggling financially.</p><p><br></p></div>
     _key: a42a52f806cd
   - order: 7
     useCheckmark: false
     body: >-
-      > “_The New York Times_ account of President Trump’s tax returns reveal
-      far more than his personal ability to avoid taxes. They show how the tax
-      law can make it easy for the very wealthy to avoid taxation. And they
-      reveal more than deficiencies in the tax law.”  
-        
-      Economist Dr. C. Eugene Steuerle, cofounder of the Urban-Brookings Tax
-      Policy Center, who worked for the U.S. Treasury Dept. under four
-      presidents.
+      <div><blockquote>“<em>The New York Times</em> account of President Trump’s
+      tax returns reveal far more than his personal ability to avoid taxes. They
+      show how the tax law can make it easy for the very wealthy to avoid
+      taxation. And they reveal more than deficiencies in the tax
+      law.”<br><br>Economist Dr. C. Eugene Steuerle, cofounder of the
+      Urban-Brookings Tax Policy Center, who worked for the U.S. Treasury Dept.
+      under four presidents.</blockquote><p><br></p></div>
     _key: 790295865c02
   - order: 8
     useCheckmark: false
     body: >-
-      “No law barred_The Times_ from publishing its article and if there had
-      been one it would in all likelihood be unconstitutional.”
-
-
-      First Amendment lawyer Floyd Abrams explaining that “First Amendment law
-      could hardly be clearer than that the press is protected in publishing
-      newsworthy information, let alone information about a President in the
-      midst of his campaign for re-election, regardless of whether its source
-      was authorized or permitted to provide it."
+      <div><p>“No law barred <em>The Times</em> from publishing its article and
+      if there had been one it would in all likelihood be
+      unconstitutional.”</p><p>First Amendment lawyer Floyd Abrams explaining
+      that “First Amendment law could hardly be clearer than that the press is
+      protected in publishing newsworthy information, let alone information
+      about a President in the midst of his campaign for re-election, regardless
+      of whether its source was authorized or permitted to provide
+      it."</p></div>
     _key: 65744eb0807a
   - order: 9
     useCheckmark: true
     body: >-
-      We can't confirm NYT's reporting, but we can confirm that nearly half of
-      all Americans don't pay federal income taxes because they make either too
-      little or too much (and have accountants to help them "strategically plan"
-      avoiding taxes). No person with direct knowledge of Pres. Trump's taxes
-      has corroborated the NYT report.
+      <div><p>We can't confirm NYT's reporting, but we can confirm that nearly
+      half of all Americans don't pay federal income taxes because they make
+      either too little or too much (and have accountants to help them
+      "strategically plan" avoiding taxes). No person with direct knowledge of
+      Pres. Trump's taxes has corroborated the NYT report.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 7a91392bde2a
 

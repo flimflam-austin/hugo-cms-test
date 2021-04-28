@@ -22,74 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # A RIGHT TO TRY
-
-
-      “… thousands of terminally ill Americans will finally have the help, the
-      hope, and the fighting chance … that they will be cured, that they will be
-      helped, that they’ll be able to be with their families for a long time.”  
-        
-      Pres. Trump at the May 30 signing of the 'Right to Try' bill, aimed at
-      helping the 1M+ terminally ill patients who die each year access drugs
-      pending final FDA approval.
+      <div><h1>A RIGHT TO TRY</h1><p>“… thousands of terminally ill Americans
+      will finally have the help, the hope, and the fighting chance … that they
+      will be cured, that they will be helped, that they’ll be able to be with
+      their families for a long time.”<br><br>Pres. Trump at the May 30 signing
+      of the 'Right to Try' bill, aimed at helping the 1M+ terminally ill
+      patients who die each year access drugs pending final FDA
+      approval.</p></div>
     _key: card-1-2e7ff7a9-da95-4876-9869-79371a490e9b
   - order: 1
     useCheckmark: false
     body: >-
-      ## The ‘Right To Try’ Law
-
-
-      * Allows terminally ill patients in the 12 states w/o a ‘Right to Try law’
-      to sidestep the FDA.
-
-      * Now, patients can reach out to directly to drug manufacturers in order
-      to participate in clinical trials & access experimental drugs.
-
-      * Drug must pass FDA approval phase #1.
-
-      * Eliminates existing FDA application requirements.
+      <div><h2>The ‘Right To Try’ Law</h2><ul><li>Allows terminally ill patients
+      in the 12 states w/o a ‘Right to Try law’ to sidestep the
+      FDA.</li><li>Now, patients can reach out to directly to drug manufacturers
+      in order to participate in clinical trials &amp; access experimental
+      drugs.</li><li>Drug must pass FDA approval phase #1.</li><li>Eliminates
+      existing FDA application requirements.</li></ul></div>
     _key: card-2-f16fb53f-e41a-4fe3-876b-92b7e80a9719
   - order: 2
     useCheckmark: false
     body: >-
-      # Why Does This Matter?
-
-
-      ## Current State: FDA Trials
-
-
-      * **Extremely co$tly**.
-
-      * Multi-stage process lastsA**3-7 years**A on average, but some take even
-      longer.
-
-      * On average, a new cancer drug spends**14 years** being studied and
-      undergoing clinical trials BEFORE it gets approved.
+      <div><h1>Why Does This Matter?</h1><h2>Current State: FDA
+      Trials</h2><ul><li><strong>Extremely co$tly</strong>.</li><li>Multi-stage
+      process lastsA <strong>3-7 years</strong>A on average, but some take even
+      longer.</li><li>On average, a new cancer drug spends <strong>14
+      years</strong> being studied and undergoing clinical trials BEFORE it gets
+      approved.</li></ul></div>
     _key: card-3-74fd2189-264b-4a7b-b683-79a0fea82cd4
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider
-
-
-      **“Right to Try” does NOT guarantee ACCESS or AFFORDABILITY**
-
-
-      * Insurance companies are NOT required to cover experimental treatments.
-
-      * Drug manufacturers are NOT mandated to undergo clinical trials OR
-      provide experimental drugs OR produce large enough amt of drugs to ensure
-      availability.
+      <div><h2>Something To Consider</h2><p><strong>“Right to Try” does NOT
+      guarantee ACCESS or AFFORDABILITY</strong></p><ul><li>Insurance companies
+      are NOT required to cover experimental treatments.</li><li>Drug
+      manufacturers are NOT mandated to undergo clinical trials OR provide
+      experimental drugs OR produce large enough amt of drugs to ensure
+      availability.</li></ul></div>
     _key: card-4-6cd307d3-2a98-4df2-94c8-f95f13c99ab4
   - order: 4
     useCheckmark: true
     body: >-
-      Under its Expanded Access (Compassionate Use) program, the FDA already
-      authorizes over 99% of expanded access requests it receives. But for some,
-      it's still not fast enough. Read more about the program here:
-
-
-      [view sources](https://smarthernews.com/18-06-05-right-try/)
+      <div><p>Under its Expanded Access (Compassionate Use) program, the FDA
+      already authorizes over 99% of expanded access requests it receives. But
+      for some, it's still not fast enough. Read more about the program
+      here:</p><p><a href="https://smarthernews.com/18-06-05-right-try/">view
+      sources</a></p></div>
     _key: card-10-03d22281-5505-4aa6-be60-077ad09b52c9
 
 ---

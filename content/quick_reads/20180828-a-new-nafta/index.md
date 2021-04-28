@@ -21,85 +21,59 @@ colorpaletteclassname: '--medium-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # TRADING UP?
-
-      America & Mexico agree *in theory* to a new trade deal.  
-      Will Canada come a long for the ride?  
-      (and why it may impact the cost of your next car).
-
-      A *new* NAFTA?
+    body: >-
+      <div><h1>TRADING UP?</h1><p>America &amp; Mexico agree *in theory* to a
+      new trade deal.<br>Will Canada come a long for the ride?<br>(and why it
+      may impact the cost of your next car).</p><p>A *new* NAFTA?</p></div>
     _key: card-1-009a15fd-3d17-4bd0-b589-d4d3cf255783
   - order: 1
     useCheckmark: false
     body: >-
-      ## NAFTA 101
-
-
-      * Trade deal negotiated under Pres. H. W. Bush & steered through Congress
-      by Pres. Clinton.
-
-      * **Simple Overview:**A Lowered tariffs (taxes) between Canada, Mexico &
-      U.S. so we could all do business more easily and cheaply.
-
-      * Pres. Trump called it the “**single worst trade deal ever**” because he
-      says it allowed American jobs to go to Mexico; many disagree.
+      <div><h2>NAFTA 101</h2><ul><li>Trade deal negotiated under Pres. H. W.
+      Bush &amp; steered through Congress by Pres.
+      Clinton.</li><li><strong>Simple Overview:</strong>A Lowered tariffs
+      (taxes) between Canada, Mexico &amp; U.S. so we could all do business more
+      easily and cheaply.</li><li>Pres. Trump called it the “<strong>single
+      worst trade deal ever</strong>” because he says it allowed American jobs
+      to go to Mexico; many disagree.</li></ul></div>
     _key: card-2-988621f7-7016-4281-b664-0796c5230d4c
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why Now?
-
-
-      Mexico & U.S negotiating NAFTA behind the scenes for weeks.
-
-
-      * New government of Mexico *just* elected & both sides want to secure deal
-      before new leadership takes office.
-
-      * New trade deal needs approval by Congress; completing draft puts
-      pressure on Congress to act before or after midterm elections.
+      <div><h2>Why Now?</h2><p>Mexico &amp; U.S negotiating NAFTA behind the
+      scenes for weeks.</p><ul><li>New government of Mexico *just* elected &amp;
+      both sides want to secure deal before new leadership takes
+      office.</li><li>New trade deal needs approval by Congress; completing
+      draft puts pressure on Congress to act before or after midterm
+      elections.</li></ul></div>
     _key: card-3-625359bd-a80d-4cc0-a19d-429274c5b3ce
   - order: 3
     useCheckmark: false
     body: >-
-      ## What’s At Stake?
-
-
-      **American jobs, industry & pay.**
-
-
-      One example of many potential changes: New “NAFTA” agreement reportedly
-      requires**more** U.S. car parts made in America with more U.S. material
-      (like steel) in exchange for the “no tax” benefit for companies.
-
-
-      The Concern?
+      <div><h2>What’s At Stake?</h2><p><strong>American jobs, industry &amp;
+      pay.</strong></p><p>One example of many potential changes: New “NAFTA”
+      agreement reportedly requires <strong>more</strong> U.S. car parts made in
+      America with more U.S. material (like steel) in exchange for the “no tax”
+      benefit for companies.</p><p>The Concern?</p></div>
     _key: card-4-8102ceee-4857-43f3-be0c-372b7c664a85
   - order: 4
     useCheckmark: false
     body: >-
-      ## Cost To Consumer
-
-
-      > ‘The industry is hopeful that any changes to Nafta auto rules of origin
-      continue to strike the right balance by**incentivizing production and
-      investment in North America** while keeping new vehicles**affordable for
-      more Americans**.’  
-        
-        
-        
-      Alliance of Auto Manufacturers
+      <div><h2>Cost To Consumer</h2><blockquote>‘The industry is hopeful that
+      any changes to Nafta auto rules of origin continue to strike the right
+      balance by <strong>incentivizing production and investment in North
+      America</strong> while keeping new vehicles <strong>affordable for more
+      Americans</strong>.’<br><br><br><br>Alliance of Auto
+      Manufacturers</blockquote></div>
     _key: card-5-041c77c8-500e-4fbe-9c20-58d430cb84d4
   - order: 5
     useCheckmark: true
     body: >-
-      The North American Trade Agreement was a result of a trifecta of Mexico,
-      Canada & the U.S. Since the U.S. & Mexico have a working template, the big
-      question is: Will Canada agree to negotiations or stall them?
-
-
-      [view sources](https://smarthernews.com/a-new-nafta/)
+      <div><p>The North American Trade Agreement was a result of a trifecta of
+      Mexico, Canada &amp; the U.S. Since the U.S. &amp; Mexico have a working
+      template, the big question is: Will Canada agree to negotiations or stall
+      them?</p><p><a href="https://smarthernews.com/a-new-nafta/">view
+      sources</a></p></div>
     _key: card-10-44c4087a-fe4e-4de9-b533-44618b5857bc
 
 ---

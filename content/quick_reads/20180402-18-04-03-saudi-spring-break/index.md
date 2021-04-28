@@ -22,74 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Saudi Spring Break
-
-
-      Saudi Arabia’s Crown Prince Mohammed bin Salman (MBS) on multi-week “charm
-      offensive” across the U.S.
-
-
-      Oprah, Bill Gates (Microsoft), Rupert Murdoch (21st Century Fox), Elon
-      Musk (Tesla), Tim Cook (Apple), Bob Iger (Disney) & others on itinerary.
-
-
-      Flip: Why now?
+      <div><h1>Saudi Spring Break</h1><p>Saudi Arabia’s Crown Prince Mohammed
+      bin Salman (MBS) on multi-week “charm offensive” across the
+      U.S.</p><p>Oprah, Bill Gates (Microsoft), Rupert Murdoch (21st Century
+      Fox), Elon Musk (Tesla), Tim Cook (Apple), Bob Iger (Disney) &amp; others
+      on itinerary.</p><p>Flip: Why now?</p></div>
     citation: 'Flip: Why now?'
     _key: card-1-ec469e69-6603-4c4e-888b-b69565a762d7
   - order: 1
     useCheckmark: false
     body: >-
-      ## Who Is This Prince?
-
-
-      * 32-year-old seen as “reformer” socially & economically.
-
-      * Reportedly behind changes like allowing Saudi women to drive.
-
-      * Advocates “moderate Islam” & taking a stronger stance against terror
-      financing by Gulf States.
-
-      * Wants to spearhead more outside investment in Saudi Arabia – “Saudi
-      Vision 2030” – to diversify the economy.
+      <div><h2>Who Is This Prince?</h2><ul><li>32-year-old seen as “reformer”
+      socially &amp; economically.</li><li>Reportedly behind changes like
+      allowing Saudi women to drive.</li><li>Advocates “moderate Islam” &amp;
+      taking a stronger stance against terror financing by Gulf
+      States.</li><li>Wants to spearhead more outside investment in Saudi Arabia
+      – “Saudi Vision 2030” – to diversify the economy.</li></ul></div>
     _key: card-2-d4f9f6cf-cdd4-4a85-a986-9766df7d1bc7
   - order: 2
     useCheckmark: false
     body: >-
-      ## Saudi Arabia & USA
-
-
-      * **Iran** \= Mutual adversary.
-
-      * **Cracking down on terror financing**. Saudi Arabia’s role debated in
-      past.
-
-      * **Oil**. Saudi Arabia is #1 oil exporter in the world, making it a
-      powerful potential partner. It’s economy is built on (& vulnerable) to
-      fluctuations in the oil market.
+      <div><h2>Saudi Arabia &amp; USA</h2><ul><li><strong>Iran</strong> \=
+      Mutual adversary.</li><li><strong>Cracking down on terror
+      financing</strong>. Saudi Arabia’s role debated in
+      past.</li><li><strong>Oil</strong>. Saudi Arabia is #1 oil exporter in the
+      world, making it a powerful potential partner. It’s economy is built on
+      (&amp; vulnerable) to fluctuations in the oil market.</li></ul></div>
     _key: card-3-ad3eae4c-34f8-4cfb-bfb6-51526248e193
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why Now?
-
-
-      **High Unemployment:** Youth (15-24-year-olds) reportedly 32%.  
-
-      **Chaos in Middle East:** Saudi wants to emerge as leader as Syria, Iraq,
-      Yemen in disarray.  
-
-      **Yemen:** Saudi Arabia & Iran fighting proxy war in Yemen. Saudis share
-      border w/Yemen & want to prevent Iran-backed forces from taking power.
-      Saudis need firepower – literally & symbolically – from U.S.
+      <div><h2>Why Now?</h2><p><strong>High Unemployment:</strong> Youth
+      (15-24-year-olds) reportedly 32%.<br><strong>Chaos in Middle
+      East:</strong> Saudi wants to emerge as leader as Syria, Iraq, Yemen in
+      disarray.<br><strong>Yemen:</strong> Saudi Arabia &amp; Iran fighting
+      proxy war in Yemen. Saudis share border w/Yemen &amp; want to prevent
+      Iran-backed forces from taking power. Saudis need firepower – literally
+      &amp; symbolically – from U.S.</p></div>
     _key: card-4-2d448169-d502-4e63-9d47-b7a7e7d39150
   - order: 4
     useCheckmark: true
     body: >-
-      Reminder: 15 of the 19 hijackers on 9/11 were from Saudi Arabia. The Saudi
-      & American relationship is nuanced:
-
-
-      [view sources](https://smarthernews.com/18-04-03-saudi-spring-break/)
+      <div><p>Reminder: 15 of the 19 hijackers on 9/11 were from Saudi Arabia.
+      The Saudi &amp; American relationship is nuanced:</p><p><a
+      href="https://smarthernews.com/18-04-03-saudi-spring-break/">view
+      sources</a></p></div>
     _key: card-10-a4162fab-a7d6-4901-92dc-1aa2d0b1a4d1
 
 ---

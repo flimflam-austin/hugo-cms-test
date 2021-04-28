@@ -21,20 +21,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “_In playing ball, and in life, a person occasionally gets the
-      opportunity to do something great. When that time comes, only two things
-      matter: being prepared to seize the moment and having the courage to take
-      your best swing._“
+      <div><blockquote>“<em>In playing ball, and in life, a person occasionally
+      gets the opportunity to do something great. When that time comes, only two
+      things matter: being prepared to seize the moment and having the courage
+      to take your best swing.</em>“</blockquote><p></p><p><br></p></div>
     citation: HENRY 'HANK' AARON
     _key: 5493ea6798ae
   - order: 1
     useCheckmark: true
     body: >-
-      Known as one of the best baseball players ever to play the game, Aaron
-      broke records and racial barriers in his 23-year career. Admired for his
-      athleticism and advocacy for civil rights, Aaron surpassed Babe Ruth's
+      <div><p>Known as one of the best baseball players ever to play the game,
+      Aaron broke records and racial barriers in his 23-year career. Admired for
+      his athleticism and advocacy for civil rights, Aaron surpassed Babe Ruth's
       all-time home run record in 1974, and went on to hold the record for more
-      than 30 years until 2007. Aaron died peacefully in his sleep on Friday.
+      than 30 years until 2007. Aaron died peacefully in his sleep on
+      Friday.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 523c0615c033
 

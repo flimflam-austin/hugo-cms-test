@@ -21,52 +21,41 @@ colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: "## Russia Probe Recap\n\nAccording to reports, Robert Mueller’sA Special Counsel team considers President Trump to be a subject a\x14 not a criminal targeta\x14 in the Russian election interference investigation.\n\nHere's what it means & what it doesn't"
+    body: "<div><h2>Russia Probe Recap</h2><p>According to reports, Robert Mueller’sA Special Counsel team considers President Trump to be a subject a\x14 not a criminal targeta\x14 in the Russian election interference investigation.</p><p>Here's what it means &amp; what it doesn't</p></div>"
     citation: Here's what it means &amp; what it doesn't
     _key: card-1-be6deb5f-80b8-4081-b742-c8e9c4b1bd7a
   - order: 1
     useCheckmark: false
     body: >-
-      ## By the Numbers Update
-
-
-      * **13 Russians** & three Russian companies indicted
-
-      * **6 guilty pleas** by U.S. defendants (incl. 4 campaign associates)
-
-      * **1 not guilty plea** (former Trump campaign manager Paul Manafort)
-
-      * **1 sentence** (a Dutch lawyer admitted lying to FBI about his
-      communications with Manafort’s associate & received a 30-day prison
-      sentence)
+      <div><h2>By the Numbers Update</h2><ul><li><strong>13 Russians</strong>
+      &amp; three Russian companies indicted</li><li><strong>6 guilty
+      pleas</strong> by U.S. defendants (incl. 4 campaign
+      associates)</li><li><strong>1 not guilty plea</strong> (former Trump
+      campaign manager Paul Manafort)</li><li><strong>1 sentence</strong> (a
+      Dutch lawyer admitted lying to FBI about his communications with
+      Manafort’s associate &amp; received a 30-day prison
+      sentence)</li></ul></div>
     _key: card-2-6df3bb27-4ea4-4e44-943c-acb039fa5e6c
   - order: 2
     useCheckmark: false
     body: >-
-      ## BOTTOM LINE:
-
-
-      * As guilty pleas pile up, Mueller’s team has secured cooperation
-      agreements with some former members of Trump’s team.
-
-      * None of the charges against those connected to Trump allege that they
-      worked with Russia to interfere with the 2016 election.
-
-      * Mueller wants to interview Trump.
-
-      * The investigation is**ongoing** and changes day to day.
+      <div><h2>BOTTOM LINE:</h2><ul><li>As guilty pleas pile up, Mueller’s team
+      has secured cooperation agreements with some former members of Trump’s
+      team.</li><li>None of the charges against those connected to Trump allege
+      that they worked with Russia to interfere with the 2016
+      election.</li><li>Mueller wants to interview Trump.</li><li>The
+      investigation is <strong>ongoing</strong> and changes day to
+      day.</li></ul></div>
     _key: card-3-8f38a1e2-2146-4209-9470-c790161b56be
   - order: 3
     useCheckmark: true
     body: >-
-      After the latest sanctions against Russia were announced on Friday, White
-      House Press Sec. Sarah Sanders told reporters: as the President has said,
-      he wants to have a good relationship with Russia, but that’s going to
-      depend on some of the actions by the Russians.
-
-
-      [view
-      sources](https://smarthernews.com/18-04-09-russia-investigation-update/)
+      <div><p>After the latest sanctions against Russia were announced on
+      Friday, White House Press Sec. Sarah Sanders told reporters: as the
+      President has said, he wants to have a good relationship with Russia, but
+      that’s going to depend on some of the actions by the Russians.</p><p><a
+      href="https://smarthernews.com/18-04-09-russia-investigation-update/">view
+      sources</a></p></div>
     _key: card-10-7c207414-a3e2-4a58-82fa-6a6554e23c7f
 
 ---

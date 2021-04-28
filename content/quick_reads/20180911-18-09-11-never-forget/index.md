@@ -21,99 +21,69 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # September 11, 2001
-
-      **Why We “Never Forget” & What To AlwaysA Remember**
+    body: >-
+      <div><h1>September 11, 2001</h1><p><strong>Why We “Never Forget” &amp;
+      What To AlwaysA Remember</strong></p></div>
     _key: card-1-7b96c62b-eb88-4aeb-8944-6a4c78e6e58a
   - order: 1
     useCheckmark: false
     body: >-
-      > “Jules, this is Brian. Listen, I’m on an airplane that’s been hijacked.
-      If things don’t go well, and it’s not looking good, I just want you to
-      know I absolutely love you. I want you to do good, go have good times –
-      same to my parents and everybody … and I’ll see you when you get there.”  
-        
-        
-        
-      Brian Sweeney, United Airlines Flight 175 passenger, in a message to his
-      wife
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/gulhkfAjTko?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>“Jules, this is Brian. Listen, I’m on an airplane that’s
+      been hijacked. If things don’t go well, and it’s not looking good, I just
+      want you to know I absolutely love you. I want you to do good, go have
+      good times – same to my parents and everybody … and I’ll see you when you
+      get there.”<br><br><br><br>Brian Sweeney, United Airlines Flight 175
+      passenger, in a message to his wife</blockquote><p><a
+      href="https://www.youtube.com/embed/gulhkfAjTko?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     citation: Watch Now
     _key: card-2-03bdefe4-1f2b-4024-92ea-d0166a2de556
   - order: 2
     useCheckmark: false
-    body: |-
-      ## The Morning That Changed Us Forever
-
-      **8:46 a.m.:A** American Flight 11 crashes into WTC’s North Tower
-
-      **9:03 a.m.:** United Flight 175 crashes into WTC’s South Tower
-
-      **9:40 a.m.:** American Flight 77 crashes into Pentagon
-
-      **10:07 a.m.:A** United Flight 93 crashes in Pennsylvania
+    body: >-
+      <div><h2>The Morning That Changed Us Forever</h2><p><strong>8:46
+      a.m.:A</strong> American Flight 11 crashes into WTC’s North
+      Tower</p><p><strong>9:03 a.m.:</strong> United Flight 175 crashes into
+      WTC’s South Tower</p><p><strong>9:40 a.m.:</strong> American Flight 77
+      crashes into Pentagon</p><p><strong>10:07 a.m.:A</strong> United Flight 93
+      crashes in Pennsylvania</p></div>
     _key: card-3-572c9149-aa41-4335-9410-85548b4f622c
   - order: 3
     useCheckmark: false
     body: >-
-      # THE VICTIMS
-
-
-      ## 2,977 died
-
-
-      **2,753** in New York (including**343 firefighters** & approx.A**11
-      pregnant women**)
-
-
-      **184** at the Pentagon
-
-
-      **40**A aboard Flight 93
+      <div><h1>THE VICTIMS</h1><h2>2,977 died</h2><p><strong>2,753</strong> in
+      New York (including <strong>343 firefighters</strong> &amp; approx.A
+      <strong>11 pregnant women</strong>)</p><p><strong>184</strong> at the
+      Pentagon</p><p><strong>40</strong>A aboard Flight 93</p></div>
     _key: card-4-79461fdb-bcaf-4a17-a4c3-a64bd9bccc1c
   - order: 4
     useCheckmark: false
     body: >-
-      # THE HIJACKERS
-
-
-      * 15 of 19 hijackers were from Saudi Arabia. Others were from Egypt (2),
-      UAE (2), andA Lebanon (1).
-
-      * al-Qaida leaderA Osama bin Laden was killed by U.S. in 2011.
-
-      * Reports: Bin Laden’s son married the daughter of lead 9/11 hijacker &
-      the two live in Afghanistan.
-
-      * al-Qaida has reportedly amassed “the largest fighting force in its
-      existence” – LA Times.
+      <div><h1>THE HIJACKERS</h1><ul><li>15 of 19 hijackers were from Saudi
+      Arabia. Others were from Egypt (2), UAE (2), andA Lebanon
+      (1).</li><li>al-Qaida leaderA Osama bin Laden was killed by U.S. in
+      2011.</li><li>Reports: Bin Laden’s son married the daughter of lead 9/11
+      hijacker &amp; the two live in Afghanistan.</li><li>al-Qaida has
+      reportedly amassed “the largest fighting force in its existence” – LA
+      Times.</li></ul></div>
     _key: card-5-f88d6e4b-f4ce-4573-a81e-e93aff145ebf
   - order: 5
     useCheckmark: false
     body: >-
-      # THE AFTERMATH
-
-
-      On October 7, 2001, Pres. Bush announced that the U.S. (& Britain) began
-      air strikes on al-Qaida terrorA training camps and Taliban military camps
-      in Afghanistan.A In 2003, the U.S. & allies invaded Iraq.
-
-
-      Since September 11th,A more than 2.7 million U.S. service members have
-      been deployed to Afghanistan and Iraq; more than 6,800 have died.
+      <div><h1>THE AFTERMATH</h1><p>On October 7, 2001, Pres. Bush announced
+      that the U.S. (&amp; Britain) began air strikes on al-Qaida terrorA
+      training camps and Taliban military camps in Afghanistan.A In 2003, the
+      U.S. &amp; allies invaded Iraq.</p><p>Since September 11th,A more than 2.7
+      million U.S. service members have been deployed to Afghanistan and Iraq;
+      more than 6,800 have died.</p></div>
     _key: card-6-662d7991-db08-4dc9-8c43-ed960140d687
   - order: 6
     useCheckmark: true
     body: >-
-      American military operations in Afghanistan, Iraq and Syria following the
-      9/11 attacks have cost more than $1.5 trillion.
-
-
-      [view sources](https://smarthernews.com/18-09-11-never-forget/)
+      <div><p>American military operations in Afghanistan, Iraq and Syria
+      following the 9/11 attacks have cost more than $1.5 trillion.</p><p><a
+      href="https://smarthernews.com/18-09-11-never-forget/">view
+      sources</a></p></div>
     _key: card-10-e27b63b3-ed5a-46c8-bb9d-dbd74427a1a8
 
 ---

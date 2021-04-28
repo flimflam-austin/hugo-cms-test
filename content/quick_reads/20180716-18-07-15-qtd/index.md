@@ -22,21 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _"If you know in your heart that you’re doing the right thing and you’re
-      just afraid of the consequences, you just have to do it. You have to do
-      what you know in your heart is right.”_
+      <div><blockquote><em>"If you know in your heart that you’re doing the
+      right thing and you’re just afraid of the consequences, you just have to
+      do it. You have to do what you know in your heart is
+      right.”</em></blockquote><p></p></div>
     citation: Sarah Cummins
     _key: card-1-5267d5c3-ab57-4a7d-951d-e5872404b97e
   - order: 1
     useCheckmark: true
     body: >-
-      Last year, 26-year-old Sarah Cummins cancelled her wedding and invited the
-      homeless to her reception instead. She says her one regret is not using
-      her viral platform to do more, but she was scared. Read her full story:
-      SmartHERNews.com
-
-
-      [view sources](https://smarthernews.com/18-07-15-qtd/)
+      <div><p>Last year, 26-year-old Sarah Cummins cancelled her wedding and
+      invited the homeless to her reception instead. She says her one regret is
+      not using her viral platform to do more, but she was scared. Read her full
+      story: SmartHERNews.com</p><p><a
+      href="https://smarthernews.com/18-07-15-qtd/">view sources</a></p></div>
     _key: card-10-f37c8329-b0f4-4ba0-b267-5be15fe3b252
 
 ---

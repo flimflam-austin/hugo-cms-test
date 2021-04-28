@@ -22,63 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## May 15, 1940
-
-
-      ## Two brothers open America’s first McDonald’s.
-
-
-      ## They didn’t start with hamburgers, or even french fries…and there was
-      no “Ronald.”
+      <div><h2>May 15, 1940</h2><h2>Two brothers open America’s first
+      McDonald’s.</h2><h2>They didn’t start with hamburgers, or even french
+      fries…and there was no “Ronald.”</h2></div>
     _key: cedf34780716
   - order: 1
     useCheckmark: false
     body: >-
-      “At first it was a struggle and we didn’t know where our next cent was
-      coming from. But we believed in our enterprise.”  
-        
-      Maurice McDonald, who with his brother Richard opened the first
-      McDonald's. The two brothers left their home state of New Hampshire after
-      the Great Depression, and headed to California to make it in the movie
-      business. When their Hollywood adventure failed, they started with a hot
-      dog stand, & later opened a restaurant in San Bernadino.
+      <div><p>“At first it was a struggle and we didn’t know where our next cent
+      was coming from. But we believed in our enterprise.”<br><br>Maurice
+      McDonald, who with his brother Richard opened the first McDonald's. The
+      two brothers left their home state of New Hampshire after the Great
+      Depression, and headed to California to make it in the movie business.
+      When their Hollywood adventure failed, they started with a hot dog stand,
+      &amp; later opened a restaurant in San Bernadino.</p><p><br></p></div>
     _key: 2344eb6b8e77
   - order: 2
     useCheckmark: false
     body: >-
-      ## Did You Know….
-
-
-      * The first McDonald’s was actually “McDonald’s Bar-B-Q.”
-
-      * 1948: A “revamped” McDonald’s opens, focusing on a limited menu with
-      15-cent burgers & fast service. Fries appear on the menu the following
-      year.
-
-      * 1954: Milkshake machine salesman Ray Kroc visits restaurant, becomes a
-      franchise operator & buys the business in 1961.
+      <div><h2>Did You Know….</h2><ul><li>The first McDonald’s was actually
+      “McDonald’s Bar-B-Q.”</li><li>1948: A “revamped” McDonald’s opens,
+      focusing on a limited menu with 15-cent burgers &amp; fast service. Fries
+      appear on the menu the following year.</li><li>1954: Milkshake machine
+      salesman Ray Kroc visits restaurant, becomes a franchise operator &amp;
+      buys the business in 1961.</li></ul></div>
     _key: 27c8952b87cb
   - order: 3
     useCheckmark: false
     body: >-
-      > “I was an overnight success alright, but 30 years is a long, long
-      night.”
-
-
-      Ray Kroc developed the "McDonald's System" which later became the
-      McDonald's Corporation. He focused on consistent, fast service across
-      franchises, which also led to the development of Hamburger University
-      where attendees received their degree in Bachelor of Hamburgerology. The
-      program continues today.
+      <div><blockquote>“I was an overnight success alright, but 30 years is a
+      long, long night.”</blockquote><p>Ray Kroc developed the "McDonald's
+      System" which later became the McDonald's Corporation. He focused on
+      consistent, fast service across franchises, which also led to the
+      development of Hamburger University where attendees received their degree
+      in Bachelor of Hamburgerology. The program continues today.</p></div>
     _key: 4eecb50f94ff
   - order: 4
     useCheckmark: true
     body: >-
-      The world's largest fast food restaurant (by sales) just released guidance
-      to its franchise owners in light of COVID-19. Some suggestions? Touchless
-      sinks, automatic towel dispensers, and potentially face shields, a long
-      with lingering questions about the expense for owners & the experience for
-      customers.
+      <div><p>The world's largest fast food restaurant (by sales) just released
+      guidance to its franchise owners in light of COVID-19. Some suggestions?
+      Touchless sinks, automatic towel dispensers, and potentially face shields,
+      a long with lingering questions about the expense for owners &amp; the
+      experience for customers.</p><p></p></div>
     citation: VIEW SOURCES
     _key: aa8a9cb6e532
 

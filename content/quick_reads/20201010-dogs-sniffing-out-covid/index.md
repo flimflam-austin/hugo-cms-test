@@ -22,76 +22,62 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # The Sniff Test
-
-
-      > A testing method for COVID-19 puts the spotlight squarely on man’s best
-      friend.  
-        
-      Can Dogs Save The World?
+      <div><h1>The Sniff Test</h1><blockquote>A testing method for COVID-19 puts
+      the spotlight squarely on man’s best friend.<br><br>Can Dogs Save The
+      World?</blockquote></div>
     _key: 19e56c677fcf
   - order: 1
     useCheckmark: false
     body: >-
-      ## BACKSTORY
-
-
-      * The Theory: Diseases have unique “**odor**prints.”
-
-      * Past research has shown dogs can “sniff out” diabetes, malaria and
-      different forms of cancer.
-
-      * Early in the pandemic, researchers started studying dogs to see if they
-      can detect COVID. Preliminary research shows promise for detecting cases
-      *before* symptoms emerge.
+      <div><h2>BACKSTORY</h2><ul><li>The Theory: Diseases have unique
+      “<strong>odor</strong>prints.”</li><li>Past research has shown dogs can
+      “sniff out” diabetes, malaria and different forms of cancer.</li><li>Early
+      in the pandemic, researchers started studying dogs to see if they can
+      detect COVID. Preliminary research shows promise for detecting cases
+      *before* symptoms emerge.</li></ul></div>
     _key: 9a36347b572f
   - order: 2
     useCheckmark: false
     body: >-
-      > “As far as we know, no other airport has attempted to use canine scent
-      detection on such a large scale against COVID-19.”
-
-
-      Director of Helsinki Airport, Ulla Lettijeff, where a recently launched
-      pilot program is using COVID-sniffing dogs. Dogs do not sniff people
-      directly but a wipe given to passengers (to wipe their skin, i.e. neck or
-      wrist) and dropped in a cup. Dogs respond in 10 seconds. Preliminary
-      research from COVID-sniffing dogs used in Dubai's airport shows over 90%
-      accuracy.
+      <div><blockquote>“As far as we know, no other airport has attempted to use
+      canine scent detection on such a large scale against
+      COVID-19.”</blockquote><p>Director of Helsinki Airport, Ulla Lettijeff,
+      where a recently launched pilot program is using COVID-sniffing dogs. Dogs
+      do not sniff people directly but a wipe given to passengers (to wipe their
+      skin, i.e. neck or wrist) and dropped in a cup. Dogs respond in 10
+      seconds. Preliminary research from COVID-sniffing dogs used in Dubai's
+      airport shows over 90% accuracy.</p></div>
     _key: fd4c835c1fc9
   - order: 3
     useCheckmark: false
     body: >-
-      “With covid detection, you are not recognizing the virus. You are
+      <div><p>“With covid detection, you are not recognizing the virus. You are
       recognizing the volatile byproducts of cells dying because they have been
-      infected with the virus.”
-
-
-      Professor of chemistry Kenneth Suslick, University of Illinois, invented
-      an electronic nose to sniff out explosives and diseases. He says research
-      in this area continues to expand. What do dogs actually smell? Chemicals
-      omitted in our sweat, saliva, and breath.
+      infected with the virus.”</p><p>Professor of chemistry Kenneth Suslick,
+      University of Illinois, invented an electronic nose to sniff out
+      explosives and diseases. He says research in this area continues to
+      expand. What do dogs actually smell? Chemicals omitted in our sweat,
+      saliva, and breath.</p></div>
     _key: e5c15a50d0da
   - order: 4
     useCheckmark: false
     body: >-
-      > “Their noses work very differently than ours. We breathe in and out
-      through the same passages. But dogs breathe in one passage and out another
-      so they can separate out the odor that they want to focus on.”
-
-
-      Founder of BioScent K9, Heather Junqueira, a U.S. nonprofit training
-      beagles and beagle-basset hound mixes to sniff out COVID-19. She says
-      ideally a "positive" detection by a dog will be followed with an instant
-      saliva test.
+      <div><blockquote>“Their noses work very differently than ours. We breathe
+      in and out through the same passages. But dogs breathe in one passage and
+      out another so they can separate out the odor that they want to focus
+      on.”</blockquote><p>Founder of BioScent K9, Heather Junqueira, a U.S.
+      nonprofit training beagles and beagle-basset hound mixes to sniff out
+      COVID-19. She says ideally a "positive" detection by a dog will be
+      followed with an instant saliva test.</p></div>
     _key: ece2dc305c8b
   - order: 5
     useCheckmark: true
     body: >-
-      Those optimistic think dogs may be more accurate than current testing,
-      offering a powerful surveillance tool for returning communities back to
-      "normal" by working at schools, stadiums and airports. Critics say
-      training dogs is too expensive and time consuming to scale effectively.
+      <div><p>Those optimistic think dogs may be more accurate than current
+      testing, offering a powerful surveillance tool for returning communities
+      back to "normal" by working at schools, stadiums and airports. Critics say
+      training dogs is too expensive and time consuming to scale
+      effectively.</p><p></p></div>
     citation: VIEW SOURCES
     _key: d1d3525c0889
 

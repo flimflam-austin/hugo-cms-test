@@ -22,77 +22,52 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # The Christmas Flower
-
-
-      For**100 years**, the Poinsettia reigns as**America’s**  
-
-      **holiday flower**.
-
-
-      Why we should thank Mexico for the tradition (& know it’s ***not***
-      poisonous).
-
-
-      Feliz NAVIDAD!
+      <div><h1>The Christmas Flower</h1><p>For <strong>100 years</strong>, the
+      Poinsettia reigns as <strong>America’s</strong><br><strong>holiday
+      flower</strong>.</p><p>Why we should thank Mexico for the tradition (&amp;
+      know it’s *<strong>not</strong>* poisonous).</p><p>Feliz
+      NAVIDAD!</p></div>
     _key: card-1-8d954d72-498a-4c82-b127-aeec70598790
   - order: 1
     useCheckmark: false
     body: >-
-      # HISTORY
-
-
-      Native to Central America, itA**grows as a tree**. In the 14th century,
-      Aztecs**used it as**A**dye** & the white sap to**treat fevers**.
-
-
-      Introduced to America in the 1820s by – and named for – the**first U.S.
-      Ambassador to Mexico** & botanistA**Joel Roberts Poinsett**. He also
-      cultivated it into the smaller plant we know now.
+      <div><h1>HISTORY</h1><p>Native to Central America, itA <strong>grows as a
+      tree</strong>. In the 14th century, Aztecs <strong>used it as</strong>A
+      <strong>dye</strong> &amp; the white sap to <strong>treat
+      fevers</strong>.</p><p>Introduced to America in the 1820s by – and named
+      for – the <strong>first U.S. Ambassador to Mexico</strong> &amp; botanistA
+      <strong>Joel Roberts Poinsett</strong>. He also cultivated it into the
+      smaller plant we know now.</p></div>
     _key: card-2-796acb6e-6eae-44fe-b870-1f2c998c53ca
   - order: 2
     useCheckmark: false
     body: >-
-      # POISONOUS LEAVES?
-
-
-      * **Not true**. Poison Control has debunked the often-quoted myth that
-      Poinsettias’ sap can be dangerous to small kids & dogs**.**
-
-      * While irritating, a study found a 50-pound child would have to**eat 500
-      leaves** for a harmful effect.
-
-      * Researchers say the taste would be awful, but advise**keeping it away
-      from pets** because it may cause vomiting & diarrhea.
+      <div><h1>POISONOUS LEAVES?</h1><ul><li><strong>Not true</strong>. Poison
+      Control has debunked the often-quoted myth that Poinsettias’ sap can be
+      dangerous to small kids &amp; dogs<strong>.</strong></li><li>While
+      irritating, a study found a 50-pound child would have to <strong>eat 500
+      leaves</strong> for a harmful effect.</li><li>Researchers say the taste
+      would be awful, but advise <strong>keeping it away from pets</strong>
+      because it may cause vomiting &amp; diarrhea.</li></ul></div>
     _key: card-3-1f5c1e26-0008-4e4a-bf7f-e51ad9c69f16
   - order: 3
     useCheckmark: false
     body: >-
-      # HOW DO YOU SAY IT?
-
-
-      Poin-set-ah?  
-
-      Poin-set-ee-ah?
-
-
-      The dictionary says both are technically correct.
-
-
-      But since it was named after a person, Poinsett, English scholars believe
-      the added**“ia” should be pronounced** (Poin-set-ee-ah) & it should always
-      be**capitalized**.
+      <div><h1>HOW DO YOU SAY
+      IT?</h1><p>Poin-set-ah?<br>Poin-set-ee-ah?</p><p>The dictionary says both
+      are technically correct.</p><p>But since it was named after a person,
+      Poinsett, English scholars believe the added <strong>“ia” should be
+      pronounced</strong> (Poin-set-ee-ah) &amp; it should always be
+      <strong>capitalized</strong>.</p></div>
     _key: card-4-a4ea37f9-53f7-4a5d-9ed1-4ef6e5190020
   - order: 4
     useCheckmark: true
     body: >-
-      Blooming only once around Christmas, the Poinsettia is America's 2nd most
-      popular potted flowering plant, behind orchids. The $200M market includes
-      150 kinds, but red is the most popular. One California ranch sells over
-      70% of all U.S. Poinsettias. Read more here.
-
-
-      [view sources](https://smarthernews.com/poinsettia/)
+      <div><p>Blooming only once around Christmas, the Poinsettia is America's
+      2nd most popular potted flowering plant, behind orchids. The $200M market
+      includes 150 kinds, but red is the most popular. One California ranch
+      sells over 70% of all U.S. Poinsettias. Read more here.</p><p><a
+      href="https://smarthernews.com/poinsettia/">view sources</a></p></div>
     _key: card-10-d5ede86d-341f-4148-ae96-1e37324d0514
 
 ---

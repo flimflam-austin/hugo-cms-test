@@ -22,78 +22,60 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Trend To Watch:
-
-
-      ## Hemlines In The Headlines
-
-
-      Dress codes become MORE lenient at school (& at work) in the name of
-      “gender equality.”
-
-
-      Helpful or hurtful?
+      <div><h1>Trend To Watch:</h1><h2>Hemlines In The Headlines</h2><p>Dress
+      codes become MORE lenient at school (&amp; at work) in the name of “gender
+      equality.”</p><p>Helpful or hurtful?</p></div>
     _key: card-1-3e9fdfc4-2742-405a-a015-5c2b6a2c6fa3
   - order: 1
     useCheckmark: false
     body: >-
-      ## Dressed To Suppress?
-
-
-      * In the last 20 years public schoolsA requiring**uniforms jumped from 12%
-      to 21%;**A about half of publicA schools enforce a strict dress code.
-
-      * More recently, schools in**CA, OR, and IL**A adopted more “**femaleA
-      friendly**” dress codes, inspired by theA National Organization for Women
-      (NOW).
+      <div><h2>Dressed To Suppress?</h2><ul><li>In the last 20 years public
+      schoolsA requiring <strong>uniforms jumped from 12% to 21%;</strong>A
+      about half of publicA schools enforce a strict dress code.</li><li>More
+      recently, schools in <strong>CA, OR, and IL</strong>A adopted more
+      “<strong>femaleA friendly</strong>” dress codes, inspired by theA National
+      Organization for Women (NOW).</li></ul></div>
     _key: card-2-2742d96b-f3b5-4663-a038-8e598aaf6d7f
   - order: 2
     useCheckmark: false
     body: >-
-      ## WHY?
-
-
-      * School districts following NOW’s guidance say they want to avoid
-      inequitable & unnecessary disciplinary measures affecting girls
-      disproportionately;**more girls got in trouble than boys.**
-
-      * CA’s Alameda school district is the latest to adopt a dress code that
-      allows items once deemed “too distracting” (ex: short shorts, & midriffs).
+      <div><h2>WHY?</h2><ul><li>School districts following NOW’s guidance say
+      they want to avoid inequitable &amp; unnecessary disciplinary measures
+      affecting girls disproportionately; <strong>more girls got in trouble than
+      boys.</strong></li><li>CA’s Alameda school district is the latest to adopt
+      a dress code that allows items once deemed “too distracting” (ex: short
+      shorts, &amp; midriffs).</li></ul></div>
     _key: card-3-3d5ada0d-d034-4dd0-ba9f-b897ed188867
   - order: 3
     useCheckmark: false
     body: >-
-      > “because more of the policy was focused on girls’ clothing than boys,
-      girls were being sent out of the classroom for infractions more often than
-      boys, which meant they were losing more class time than their male
-      peers.”  
-        
-      Alameda, California Unified School District on why it changed its dress
-      code policy. Some argued the policy was too vague and enforced differently
-      depending on a student's particular body type (body shaming).
+      <blockquote>“because more of the policy was focused on girls’ clothing
+      than boys, girls were being sent out of the classroom for infractions more
+      often than boys, which meant they were losing more class time than their
+      male peers.”<br><br>Alameda, California Unified School District on why it
+      changed its dress code policy. Some argued the policy was too vague and
+      enforced differently depending on a student's particular body type (body
+      shaming).</blockquote>
     _key: card-4-5dd44b29-85e1-4fca-8a06-e591e6ee9a3e
   - order: 4
     useCheckmark: false
     body: >-
-      > “It’s good not to punish girls for being distractions. I fully, fully
-      get that. …. But I think it’s extraordinarily misled.”  
-        
-        
-      Marie Hsu, Alameda, CA math teacher and mother of two young children. She
-      expressed concern about not enforcing a stricter dress code and whether or
-      not that sends the signal to girls that it's okay to "sex it up" or dress
-      inappropriately with no accountability.
+      <blockquote>“It’s good not to punish girls for being distractions. I
+      fully, fully get that. …. But I think it’s extraordinarily
+      misled.”<br><br><br>Marie Hsu, Alameda, CA math teacher and mother of two
+      young children. She expressed concern about not enforcing a stricter dress
+      code and whether or not that sends the signal to girls that it's okay to
+      "sex it up" or dress inappropriately with no accountability.</blockquote>
     _key: card-5-ef7a07b7-d345-4d46-b3a4-3d854c5d14a1
   - order: 5
     useCheckmark: true
     body: >-
-      Businesses nationwide are also revamping their dress codes to embrace a
-      more "gender neutral" approach to avoid gender-based dress codes,
-      especially in the wake of the #MeToo movement. Is this a step forward or
-      back?
-
-
-      [view sources](https://smarthernews.com/18-10-03-dress-codes/)
+      <div><p>Businesses nationwide are also revamping their dress codes to
+      embrace a more "gender neutral" approach to avoid gender-based dress
+      codes, especially in the wake of the #MeToo movement. Is this a step
+      forward or back?</p><p><a
+      href="https://smarthernews.com/18-10-03-dress-codes/">view
+      sources</a></p></div>
     _key: card-10-0ae551d4-87d9-46ee-ad1a-c54678ffb8c8
 
 ---

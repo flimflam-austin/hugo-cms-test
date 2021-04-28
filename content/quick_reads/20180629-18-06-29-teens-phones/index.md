@@ -22,12 +22,11 @@ cards:
   - order: 0
     useCheckmark: true
     body: >-
-      He's one of the greatest technological innovators of our time, so what
-      does Microsoft founder Bill Gates say is right age for a child to get a
-      cell phone? Click to find out.
-
-
-      [view sources](https://smarthernews.com/18-06-29-teens-phones/)
+      <div><p>He's one of the greatest technological innovators of our time, so
+      what does Microsoft founder Bill Gates say is right age for a child to get
+      a cell phone? Click to find out.</p><p><a
+      href="https://smarthernews.com/18-06-29-teens-phones/">view
+      sources</a></p></div>
     _key: card-10-a76f8d59-6305-4625-9f44-5b4f9f6e8eca
 
 ---

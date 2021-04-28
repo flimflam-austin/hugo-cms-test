@@ -21,56 +21,46 @@ colorpaletteclassname: '--light-pink'
 cards:
   - order: 0
     useCheckmark: false
-    body: "> “I feel like I had a lot of luck along the way, and a lot of help. Help from my friends, my family, the community a\x14 from some higher power, I don’t know.’  \n  \n  \n  \nBryce Carlson (37) on his 38-day, 6-hour & 49 minute solo row across the Atlantic Ocean. The high school science teacher is the first American to complete the 2,000-mile feat, according to the Ocean Rowing Society."
+    body: "<blockquote>“I feel like I had a lot of luck along the way, and a lot of help. Help from my friends, my family, the community a\x14 from some higher power, I don’t know.’<br><br><br><br>Bryce Carlson (37) on his 38-day, 6-hour &amp; 49 minute solo row across the Atlantic Ocean. The high school science teacher is the first American to complete the 2,000-mile feat, according to the Ocean Rowing Society.</blockquote>"
     _key: card-1-cddc419c-d9e3-44d9-9385-1d789d855b13
   - order: 1
     useCheckmark: false
     body: >-
-      > “Fire season is really just beginning.”  
-        
-        
-        
-      Chief Ken Pimlott, California Dep't of Forestry & Fire Protection. The
-      Carr fire, now the 6th most destructive in the state's history, is only
-      one of 18 fires blazing across the state. So far this year, CA fires have
-      burned about 290,000 acres - more than double the five-year average during
-      the same time period.
+      <blockquote>“Fire season is really just beginning.”<br><br><br><br>Chief
+      Ken Pimlott, California Dep't of Forestry &amp; Fire Protection. The Carr
+      fire, now the 6th most destructive in the state's history, is only one of
+      18 fires blazing across the state. So far this year, CA fires have burned
+      about 290,000 acres - more than double the five-year average during the
+      same time period.</blockquote>
     _key: card-2-c688444b-93af-4e1b-8af9-c363275c1d2e
   - order: 2
     useCheckmark: false
     body: >-
-      > ‘It just felt like my mouth was burning.”  
-        
-        
-        
-      Sarah Douglas, who is eight months pregnant, after taking a sip of what
-      she thought was a McDonald's latte, but was actually cleaning fluid.
+      <blockquote>‘It just felt like my mouth was burning.”<br><br><br><br>Sarah
+      Douglas, who is eight months pregnant, after taking a sip of what she
+      thought was a McDonald's latte, but was actually cleaning fluid.
       McDonald's apologized and said it was in the process of cleaning the
       machine. Although, the fast-food chain confirms this is not the first time
-      it has happened.
+      it has happened.</blockquote>
     _key: card-3-27c6ea81-37c7-432f-b896-75d807b17fb2
   - order: 3
     useCheckmark: false
-    body: "> ‘Even when we were little girls I can remember being in kindergarten, knowing that that is what we saw for ourselves.’  \n  \n  \n  \nBriana Dean to PEOPLE. Briana and her identical twin sister, Brittany (32), married identical twin brothers, Josh & Jeremy Salyers (34), in a joint ceremony at the 2018 Twins Days Festival in Twinsburg, OHa\x14 where they met in 2017. The two newlywed couples plan on raising their families together."
+    body: "<blockquote>‘Even when we were little girls I can remember being in kindergarten, knowing that that is what we saw for ourselves.’<br><br><br><br>Briana Dean to PEOPLE. Briana and her identical twin sister, Brittany (32), married identical twin brothers, Josh &amp; Jeremy Salyers (34), in a joint ceremony at the 2018 Twins Days Festival in Twinsburg, OHa\x14 where they met in 2017. The two newlywed couples plan on raising their families together.</blockquote>"
     _key: card-4-0154d2be-160e-4156-ac76-60c6afcab6ad
   - order: 4
     useCheckmark: false
     body: >-
-      > “I want to thank God for keeping me alive and well…. The love you have
-      all shown me will never be forgotten and I look forward to the day where I
-      can say I came out on the other side. I will keep fighting.”  
-        
-        
-        
-      Demi Lovato, in her first statement since a reportedly near fatal drug
-      overdose.
+      <blockquote>“I want to thank God for keeping me alive and well…. The love
+      you have all shown me will never be forgotten and I look forward to the
+      day where I can say I came out on the other side. I will keep
+      fighting.”<br><br><br><br>Demi Lovato, in her first statement since a
+      reportedly near fatal drug overdose.</blockquote>
     _key: card-5-35c6c501-d550-44a4-9727-1409c4524467
   - order: 5
     useCheckmark: true
-    body: |-
-      Have a fabulous week!
-
-      [view sources](https://smarthernews.com/18-08-06-qq/)
+    body: >-
+      <div><p>Have a fabulous week!</p><p><a
+      href="https://smarthernews.com/18-08-06-qq/">view sources</a></p></div>
     _key: card-10-9eb33efb-a28b-47eb-876e-da0ec40caf7b
 
 ---

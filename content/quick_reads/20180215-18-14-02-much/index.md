@@ -22,53 +22,35 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      How Much Money Do You REALLY Need?
-
-
-      ## $95,000
-
-
-      According to a new study from Purdue University, this is how much an
-      individual can earn each year to feel emotionally content and satisfied.
-
-
-      Cha-Ching: Flip Card
+      <div><p>How Much Money Do You REALLY Need?</p><h2>$95,000</h2><p>According
+      to a new study from Purdue University, this is how much an individual can
+      earn each year to feel emotionally content and satisfied.</p><p>Cha-Ching:
+      Flip Card</p></div>
     _key: card-1-735c80fc-e2bc-49cc-a6c7-3e5df423262b
   - order: 1
     useCheckmark: false
     body: >-
-      # Can Money Buy Happiness?
-
-
-      ## According to the study:
-
-
-      * **$95,000**/year income for overall life satisfaction
-
-      * **$60,000 – $75,000**/year income for day-to-day happiness
-
-      * Study based on Gallup World Poll survey of 1.7M people from 164
-      countries
+      <div><h1>Can Money Buy Happiness?</h1><h2>According to the
+      study:</h2><ul><li><strong>$95,000</strong>/year income for overall life
+      satisfaction</li><li><strong>$60,000 – $75,000</strong>/year income for
+      day-to-day happiness</li><li>Study based on Gallup World Poll survey of
+      1.7M people from 164 countries</li></ul></div>
     _key: card-2-9c1352a7-5634-4eda-b0ea-f4211f1b1f9b
   - order: 2
     useCheckmark: false
     body: >-
-      # But — there’s a catch!
-
-
-      ## Making more than $95,000 may make you miserable
-
-
-      Study: After $95,000, people seem less satisfied. Researchers say desires
-      such as pursuing more material gains and engaging in social comparisons
-      could, ironically, lead to “a lower level of well-being.”
+      <div><h1>But — there’s a catch!</h1><h2>Making more than $95,000 may make
+      you miserable</h2><p>Study: After $95,000, people seem less satisfied.
+      Researchers say desires such as pursuing more material gains and engaging
+      in social comparisons could, ironically, lead to “a lower level of
+      well-being.”</p></div>
     _key: card-3-17c2b325-1dce-4abc-a8f1-76ae2ca18b01
   - order: 3
     useCheckmark: true
-    body: |-
-      So how much is the average American income? Click below to find out!
-
-      [view sources](https://smarthernews.com/18-14-02-much/)
+    body: >-
+      <div><p>So how much is the average American income? Click below to find
+      out!</p><p><a href="https://smarthernews.com/18-14-02-much/">view
+      sources</a></p></div>
     _key: card-10-39b214f4-3182-4ff9-90ff-4200f25096a3
 
 ---

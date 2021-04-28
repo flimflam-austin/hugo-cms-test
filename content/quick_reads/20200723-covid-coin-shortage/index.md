@@ -21,77 +21,60 @@ colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # COINS & COVID
-
-      ## Has the pandemic left us short-changed?
+    body: >-
+      <div><h1>COINS &amp; COVID</h1><h2>Has the pandemic left us
+      short-changed?</h2></div>
     _key: dc0437fc3344
   - order: 1
     useCheckmark: false
     body: >-
-      ## Cash, Coins & COVID-19
-
-
-      * Under the**Treasury Dept,** the Bureau of Engraving & Printing makes
-      paper currency; the**U.S. Mint** makes coins.
-
-      * The Mint delivers coins to the**12 Federal Reserve Banks** that
-      distribute coins to (& receive coins from) our financial institutions,
-      like banks & credit unions.
-
-      * Before COVID-19, 70%+ of U.S. transactions were conducted in person (as
-      opposed to online) &**35%** of those were paid using cash.
+      <div><h2>Cash, Coins &amp; COVID-19</h2><ul><li>Under the <strong>Treasury
+      Dept,</strong> the Bureau of Engraving &amp; Printing makes paper
+      currency; the <strong>U.S. Mint</strong> makes coins.</li><li>The Mint
+      delivers coins to the <strong>12 Federal Reserve Banks</strong> that
+      distribute coins to (&amp; receive coins from) our financial institutions,
+      like banks &amp; credit unions.</li><li>Before COVID-19, 70%+ of U.S.
+      transactions were conducted in person (as opposed to online) &amp;
+      <strong>35%</strong> of those were paid using cash.</li></ul></div>
     _key: 57011a41b7bd
   - order: 2
     useCheckmark: false
     body: >-
-      ## Short-Changed By COVID?
-
-
-      * Problem: Recent closures and reduced hours at banks and stores caused
-      major disruptions to both the supply and typical circulation pattern of
-      coins.
-
-      * Result:**SLOWER movement of coins – NOT fewer coins overall, but a
-      smaller inventory of coins in some areas.**
-
-      * Solution: The Federal Reserve says coin inventory issues will resolve as
-      the economy opens and more people resume in-person banking & shopping.
+      <div><h2>Short-Changed By COVID?</h2><ul><li>Problem: Recent closures and
+      reduced hours at banks and stores caused major disruptions to both the
+      supply and typical circulation pattern of coins.</li><li>Result:
+      <strong>SLOWER movement of coins – NOT fewer coins overall, but a smaller
+      inventory of coins in some areas.</strong></li><li>Solution: The Federal
+      Reserve says coin inventory issues will resolve as the economy opens and
+      more people resume in-person banking &amp; shopping.</li></ul></div>
     _key: f4a952d1d204
   - order: 3
     useCheckmark: false
     body: >-
-      > “While there is adequate coin in the economy, the slowed pace of
-      circulation has meant that sufficient quantities of coin are not readily
-      available where needed. With establishments like retail shops, bank
-      branches, transit authorities and laundromats closed, the typical places
-      where coin enters our society have slowed or even stopped the normal
-      circulation of coin.”
-
-
-      The Federal Reserve on June 30.
+      <div><blockquote>“While there is adequate coin in the economy, the slowed
+      pace of circulation has meant that sufficient quantities of coin are not
+      readily available where needed. With establishments like retail shops,
+      bank branches, transit authorities and laundromats closed, the typical
+      places where coin enters our society have slowed or even stopped the
+      normal circulation of coin.”</blockquote><p>The Federal Reserve on June
+      30.</p></div>
     _key: 7f566c491782
   - order: 4
     useCheckmark: false
     body: >-
-      ## In The Meantime …
-
-
-      * The Federal Reserve created a task force and is temporarily overseeing
-      the allocation of the existing coin supply.
-
-      * Stores are doing their best to conserve coin inventories, with Wawa,
-      CVS, & Dollar Tree asking customers to pay with exact change.
-
-      * Some stores are asking customers to round up their purchase up to the
-      next dollar rather than take their change, promising to donate it to
-      charity.
+      <div><h2>In The Meantime …</h2><ul><li>The Federal Reserve created a task
+      force and is temporarily overseeing the allocation of the existing coin
+      supply.</li><li>Stores are doing their best to conserve coin inventories,
+      with Wawa, CVS, &amp; Dollar Tree asking customers to pay with exact
+      change.</li><li>Some stores are asking customers to round up their
+      purchase up to the next dollar rather than take their change, promising to
+      donate it to charity.</li></ul></div>
     _key: 5eb97ffc35d8
   - order: 5
     useCheckmark: true
     body: >-
-      DID YOU KNOW? It costs about $0.019 to produce and distribute a penny -
-      that's nearly double its value.
+      <div><p>DID YOU KNOW? It costs about $0.019 to produce and distribute a
+      penny - that's nearly double its value.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 628e487b658e
 

@@ -22,58 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # QUICK QUOTES
-
-
-      > **“I am Trumpier than Trump.”**  
-        
-      WV GOP Senate candidate Don Blankenship, May 7, 2018 response to a tweet
-      by Pres. Trump urging voters to support his opponents. Blankenship, a
-      former coal executive, spent a year in federal prison - convicted of
-      conspiring to violate mine safety in connection with a 2010 explosion that
-      killed 29 miners.
+      <div><h1>QUICK QUOTES</h1><blockquote><strong>“I am Trumpier than
+      Trump.”</strong><br><br>WV GOP Senate candidate Don Blankenship, May 7,
+      2018 response to a tweet by Pres. Trump urging voters to support his
+      opponents. Blankenship, a former coal executive, spent a year in federal
+      prison - convicted of conspiring to violate mine safety in connection with
+      a 2010 explosion that killed 29 miners.</blockquote></div>
     _key: card-1-9475d4cb-cf30-4ac4-98d1-bdf6d11bdc76
   - order: 1
     useCheckmark: false
     body: >-
-      > **“Let us teach our children the difference between right and wrong, and
-      encourage them to be best in their individual paths in life.”**  
-        
-      First Lady Melania Trump, announcing her "Be Best" initiative, aimed at
-      improving children's lives by focusing on social media use & opioid abuse.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/F2awD02xit8?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote><strong>“Let us teach our children the difference between
+      right and wrong, and encourage them to be best in their individual paths
+      in life.”</strong><br><br>First Lady Melania Trump, announcing her "Be
+      Best" initiative, aimed at improving children's lives by focusing on
+      social media use &amp; opioid abuse.</blockquote><p><a
+      href="https://www.youtube.com/embed/F2awD02xit8?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-2-09e7275b-1182-4bd1-9bfd-952960385035
   - order: 2
     useCheckmark: false
     body: >-
-      > **“We think that what you can do is be tougher on Iran, address the
-      concerns of the president and not throw the baby out with the bath
-      water.”**  
-        
-        
-      UK Foreign Secretary Boris Johnson on "Fox & Friends", cautioning Pres.
-      Trump not to back out of the 2015 Iran nuclear deal, one day ahead of the
-      President's announcement on whether the U.S. will withdraw from the
-      agreement.
+      <blockquote><strong>“We think that what you can do is be tougher on Iran,
+      address the concerns of the president and not throw the baby out with the
+      bath water.”</strong><br><br><br>UK Foreign Secretary Boris Johnson on
+      "Fox &amp; Friends", cautioning Pres. Trump not to back out of the 2015
+      Iran nuclear deal, one day ahead of the President's announcement on
+      whether the U.S. will withdraw from the agreement.</blockquote>
     _key: card-3-b9dfbcc4-6c79-4c94-abd9-81fea30bd987
   - order: 3
     useCheckmark: false
     body: >-
-      > **“Russia should be modern and dynamic, it should be ready to accept the
-      call of the times.”**  
-        
-        
-      Vladimir Putin, May 7, 2018, Kremlin ceremony kicking off his fourth
-      presidential term. Putin, a 65-year-old former KGB agent, has led Russia
-      for 18 years, and is the LONGEST-SERVING Russian leader since Joseph
-      Stalin.
+      <blockquote><strong>“Russia should be modern and dynamic, it should be
+      ready to accept the call of the times.”</strong><br><br><br>Vladimir
+      Putin, May 7, 2018, Kremlin ceremony kicking off his fourth presidential
+      term. Putin, a 65-year-old former KGB agent, has led Russia for 18 years,
+      and is the LONGEST-SERVING Russian leader since Joseph
+      Stalin.</blockquote>
     _key: card-4-6377f8a2-8ca1-4801-966d-7910387342ab
   - order: 4
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-05-08-quick-quotes-may-8/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-05-08-quick-quotes-may-8/">view
+      sources</a></p>
     _key: card-10-5f9ac53b-6347-4928-85d0-98354cbcb02f
 
 ---

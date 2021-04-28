@@ -21,63 +21,46 @@ colorpaletteclassname: '--dark-blue'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # One Giant Leap for WOMANkind
-
-      On June 18, 1983, Sally Ride became the 1st American woman in space.
+    body: >-
+      <div><h1>One Giant Leap for WOMANkind</h1><p>On June 18, 1983, Sally Ride
+      became the 1st American woman in space.</p></div>
     _key: card-1-edbbf169-83c3-41b0-8ec7-5959db8eecd4
   - order: 1
     useCheckmark: false
     body: >-
-      > “When I was a little girl, I dreamed of flying in space. Amazingly
-      enough, and I still can’t believe it, that dream came true. And through
-      hard work and a good education, all of you will reach for the stars and
-      that dream will come true for you.”  
-        
-        
-        
-      Sally Ride at the 2002 Sally Ride Science Club's Boston Science Festival
+      <blockquote>“When I was a little girl, I dreamed of flying in space.
+      Amazingly enough, and I still can’t believe it, that dream came true. And
+      through hard work and a good education, all of you will reach for the
+      stars and that dream will come true for you.”<br><br><br><br>Sally Ride at
+      the 2002 Sally Ride Science Club's Boston Science Festival</blockquote>
     _key: card-2-48bd1323-042c-42d0-96ff-d36b548f2f58
   - order: 2
     useCheckmark: false
     body: >-
-      ## About Dr. Sally Ride:
-
-
-      * Born in 1951 in Los Angeles.
-
-      * Earned bachelor’s, master’s & a Ph.D. in physics from Stanford.
-
-      * Founded the Sally Ride Science Club in 2001 to encourage girls to pursue
-      careers in math & science.
-
-      * Named into the Astronauts Hall of Fame in 2003 & awarded the
-      Presidential Medal of Freedom in 2013, a year after her death.
+      <div><h2>About Dr. Sally Ride:</h2><ul><li>Born in 1951 in Los
+      Angeles.</li><li>Earned bachelor’s, master’s &amp; a Ph.D. in physics from
+      Stanford.</li><li>Founded the Sally Ride Science Club in 2001 to encourage
+      girls to pursue careers in math &amp; science.</li><li>Named into the
+      Astronauts Hall of Fame in 2003 &amp; awarded the Presidential Medal of
+      Freedom in 2013, a year after her death.</li></ul></div>
     _key: card-3-d370967a-170c-4dfc-b96e-ead27a3c4b8f
   - order: 3
     useCheckmark: false
     body: >-
-      ## WOMEN IN SPACE
-
-
-      According to NASA, there have been at least**71 female astronauts** in the
-      history of space exploration.
-
-
-      * Ride was the THIRD woman in space.
-
-      * The first two were Soviet cosmonauts.
+      <div><h2>WOMEN IN SPACE</h2><p>According to NASA, there have been at least
+      <strong>71 female astronauts</strong> in the history of space
+      exploration.</p><ul><li>Ride was the THIRD woman in space.</li><li>The
+      first two were Soviet cosmonauts.</li></ul></div>
     _key: card-4-e91b2e92-2c82-482d-874c-509ba70366eb
   - order: 4
     useCheckmark: true
     body: >-
-      Ride was a huge STEM advocate education. In 2010, she helped found the
-      Change the Education initiative, a CEO-led effort to raise student
+      <div><p>Ride was a huge STEM advocate education. In 2010, she helped found
+      the Change the Education initiative, a CEO-led effort to raise student
       engagement and improve education in science, technology, engineering, and
-      math (STEM).
-
-
-      [view sources](https://smarthernews.com/18-06-18-otd-sally-ride/)
+      math (STEM).</p><p><a
+      href="https://smarthernews.com/18-06-18-otd-sally-ride/">view
+      sources</a></p></div>
     _key: card-10-f4b48103-a2b6-4166-a248-78d163c98f97
 
 ---

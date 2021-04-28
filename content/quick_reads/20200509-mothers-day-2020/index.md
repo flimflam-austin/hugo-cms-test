@@ -22,62 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Mother’s Day
-
-
-      ## The day set aside to honor America’s mothers began celebrating with
-      flags, not flowers.
+      <div><h1>Mother’s Day</h1><h2>The day set aside to honor America’s mothers
+      began celebrating with flags, not flowers.</h2><p></p></div>
     _key: d885c8e8799d
   - order: 1
     useCheckmark: false
     body: >-
-      > “I…direct government officials to display**the American flag** on all
-      government buildings, & do invite people of the United States to**display
-      the flag at their home** or other suitable spaces on the second Sunday of
-      May**as a public expression of our love & reverence for mothers of our
-      country.”**  
-        
-      Pres. Woodrow Wilson declared "Mother's Day" a holiday in 1914, but the
-      campaign for it started years earlier.
+      <div><blockquote>“I…direct government officials to display <strong>the
+      American flag</strong> on all government buildings, &amp; do invite people
+      of the United States to <strong>display the flag at their home</strong> or
+      other suitable spaces on the second Sunday of May <strong>as a public
+      expression of our love &amp; reverence for mothers of our
+      country.”</strong><br><br>Pres. Woodrow Wilson declared "Mother's Day" a
+      holiday in 1914, but the campaign for it started years
+      earlier.</blockquote><p><br></p></div>
     _key: 79ce3f82d270
   - order: 2
     useCheckmark: false
     body: >-
-      ## The Daughter Behind Mother’s Day
-
-
-      Anna Jarvis wanted to honor her own mother, who founded “Mother’s Day Work
-      Clubs” during the 1860s to provide aid and improve health & sanitation
-      practices for mothers in the Appalachian mountains.
-
-
-      The Clubs also cared for both Union & Confederate soldiers, and encouraged
-      reconciliation after the Civil War ended.
+      <div><h2>The Daughter Behind Mother’s Day</h2><p>Anna Jarvis wanted to
+      honor her own mother, who founded “Mother’s Day Work Clubs” during the
+      1860s to provide aid and improve health &amp; sanitation practices for
+      mothers in the Appalachian mountains.</p><p>The Clubs also cared for both
+      Union &amp; Confederate soldiers, and encouraged reconciliation after the
+      Civil War ended.</p></div>
     _key: f859fe304548
   - order: 3
     useCheckmark: false
     body: >-
-      ## Mother’s Day Campaign
-
-
-      * 1908: Jarvis organized the 1st Mother’s Day in West Virginia to honor
-      her mom.
-
-      * 1910: West Virginia made it a holiday, and soon other states followed.
-
-      * 1914: Congress made Mother’s Day the 2nd Sunday in May (the anniversary
-      of Jarvis’ mom’s death).
-
-      * By the 1920s, mothers nationwide were showered with candy, flowers,
-      cards, & other gifts to celebrate Mother’s Day.
+      <div><h2>Mother’s Day Campaign</h2><ul><li>1908: Jarvis organized the 1st
+      Mother’s Day in West Virginia to honor her mom.</li><li>1910: West
+      Virginia made it a holiday, and soon other states followed.</li><li>1914:
+      Congress made Mother’s Day the 2nd Sunday in May (the anniversary of
+      Jarvis’ mom’s death).</li><li>By the 1920s, mothers nationwide were
+      showered with candy, flowers, cards, &amp; other gifts to celebrate
+      Mother’s Day.</li></ul></div>
     _key: 7b6339b2e116
   - order: 4
     useCheckmark: true
     body: >-
-      Jarvis, who intended Mother's Day to honor the role mothers play in the
-      family, church, and community, spent the rest of her life fighting against
-      its commercialization. This year Americans will spend on average $205 on
-      Mother’s Day gifts and celebrations.
+      <div><p>Jarvis, who intended Mother's Day to honor the role mothers play
+      in the family, church, and community, spent the rest of her life fighting
+      against its commercialization. This year Americans will spend on average
+      $205 on Mother’s Day gifts and celebrations.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 173f5767d84f
 

@@ -22,94 +22,63 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Police Shooting: Sacramento
-
-
-      Local story gains national attention.
-
-
-      Protests erupt nationwide. Civil right leaders respond. NBA players speak
-      out.
-
-
-      Shooting happened at night, during a foot chase.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/eNwCJR5iiXQ?enablejsapi=1&autoplay=1&rel=0)
+      <div><h2>Police Shooting: Sacramento</h2><p>Local story gains national
+      attention.</p><p>Protests erupt nationwide. Civil right leaders respond.
+      NBA players speak out.</p><p>Shooting happened at night, during a foot
+      chase.</p><p><a
+      href="https://www.youtube.com/embed/eNwCJR5iiXQ?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     citation: Watch Now
     _key: card-1-8f3e2759-29ab-429d-8903-ab0404301461
   - order: 1
     useCheckmark: false
     body: >-
-      ## Timeline:
-
-
-      * On March 18th, around 9:30 p.m., police responded to a call about a man
-      breaking car windows.
-
-      * A police helicopter spotted a suspect & watched from above as Stephon
-      Clark (22) ran from cops into his grandmothers backyard.
-
-      * Officers called for Clark to stop & show his hands before one said they
-      saw a gun. 20 shots fired.
-
-      * A phone, but no gun, was found.
+      <div><h2>Timeline:</h2><ul><li>On March 18th, around 9:30 p.m., police
+      responded to a call about a man breaking car windows.</li><li>A police
+      helicopter spotted a suspect &amp; watched from above as Stephon Clark
+      (22) ran from cops into his grandmothers backyard.</li><li>Officers called
+      for Clark to stop &amp; show his hands before one said they saw a gun. 20
+      shots fired.</li><li>A phone, but no gun, was found.</li></ul></div>
     _key: card-2-d85aef7e-9f17-4557-8169-a5e9aa25cd81
   - order: 2
     useCheckmark: false
     body: >-
-      > “Prior to theA shooting,A the involved officers saw the suspect facing
-      them, advance forward with his arms extended, and holding an object in his
-      hands.A A**At the time of the shooting, the officersA believedA theA
-      suspect was pointing a firearm at them**. After an exhaustive search,
-      scene investigators did not locate any firearms.”  
-        
-        
-        
-      Sacramento Police Press Release, March 19, 2018
+      <blockquote>“Prior to theA shooting,A the involved officers saw the
+      suspect facing them, advance forward with his arms extended, and holding
+      an object in his hands.A A <strong>At the time of the shooting, the
+      officersA believedA theA suspect was pointing a firearm at them</strong>.
+      After an exhaustive search, scene investigators did not locate any
+      firearms.”<br><br><br><br>Sacramento Police Press Release, March 19,
+      2018</blockquote>
     _key: card-3-ea025478-f989-4ff7-95b8-fdea1d3e923e
   - order: 3
     useCheckmark: false
     body: >-
-      Investigations Ongoing:  
-
-      Cops on Leave
-
-
-      > “If an officer shot somebody for breaking into cars, that would
-      definitely not be a justified shooting.**They have to have reason, at the
-      moment, that they felt that their life, or somebody else’s life, was in
-      danger to do that**.”  
-        
-        
-        
-      Chief Daniel Hahn, Sacramento Police
+      <div><p>Investigations Ongoing:<br>Cops on Leave</p><blockquote>“If an
+      officer shot somebody for breaking into cars, that would definitely not be
+      a justified shooting. <strong>They have to have reason, at the moment,
+      that they felt that their life, or somebody else’s life, was in danger to
+      do that</strong>.”<br><br><br><br>Chief Daniel Hahn, Sacramento
+      Police</blockquote></div>
     _key: card-4-73a5a132-b295-4e6b-a47c-75af105d34d6
   - order: 4
     useCheckmark: false
     body: >-
-      ## “Local Matter”
-
-
-      > “**This is not a localA matter. They have been killing young black men
-      all over the country**, and we are here to say that we are going to stand
-      with Stephon Clark and his family.”  
-        
-        
-        
-      Al Sharpton, funeral of Stephon Clark, responding to the White House Press
-      Sec. responding to question on shooting by saying it's a local matter.
+      <div><h2>“Local Matter”</h2><blockquote>“<strong>This is not a localA
+      matter. They have been killing young black men all over the
+      country</strong>, and we are here to say that we are going to stand with
+      Stephon Clark and his family.”<br><br><br><br>Al Sharpton, funeral of
+      Stephon Clark, responding to the White House Press Sec. responding to
+      question on shooting by saying it's a local matter.</blockquote></div>
     _key: card-5-1be40f17-fff9-403f-8f84-726eff24793c
   - order: 5
     useCheckmark: true
     body: >-
-      While the race of Stephon Clark is known (he's black) - the race of the
-      cops is not. What are the statistics on police involved shootings? Its
-      complicated. Read more for why:
-
-
-      [view sources](https://smarthernews.com/18-04-01-stephon-clark/)
+      <div><p>While the race of Stephon Clark is known (he's black) - the race
+      of the cops is not. What are the statistics on police involved shootings?
+      Its complicated. Read more for why:</p><p><a
+      href="https://smarthernews.com/18-04-01-stephon-clark/">view
+      sources</a></p></div>
     _key: card-10-b50762d5-ecb8-416b-94c1-224be665f3d6
 
 ---

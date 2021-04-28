@@ -20,20 +20,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _"I have this theory that if one person can go out of their way to show
-      compassion, then it will start a chain reaction of the same. People will
-      never know how far a little kindness can go."_
+      <div><blockquote><em>"I have this theory that if one person can go out of
+      their way to show compassion, then it will start a chain reaction of the
+      same. People will never know how far a little kindness can
+      go."</em></blockquote><p></p></div>
     citation: Rachel Scott
     _key: 8bfef998464c
   - order: 1
     useCheckmark: true
     body: >-
-      17-yr-old Rachel Scott was the first out of 12 students & one staff member
-      killed at Columbine High School on April 20, 1999. Excerpts of her
+      <p>17-yr-old Rachel Scott was the first out of 12 students &amp; one staff
+      member killed at Columbine High School on April 20, 1999. Excerpts of her
       posthumously-published journals recounted her journey of faith and
       inspired a film. An early intervention campaign called "Rachel's
       Challenge" has encouraged millions to connect and kick off a "chain
-      reaction" through random acts of kindness.
+      reaction" through random acts of kindness.</p>
     _key: 507c71f4f1fe
 
 ---

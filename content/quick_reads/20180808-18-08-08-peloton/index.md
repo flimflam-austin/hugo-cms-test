@@ -22,75 +22,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # “The Netflix of Fitness”
-
-
-      It’s a workout craze that’s got a cult-like following and has Wall Street
-      working up a sweat, and investing a half a billion dollars.
-
-
-      But what exactly is Peloton?
-
-
-      And how do you say it?
+      <div><h1>“The Netflix of Fitness”</h1><p>It’s a workout craze that’s got a
+      cult-like following and has Wall Street working up a sweat, and investing
+      a half a billion dollars.</p><p>But what exactly is Peloton?</p><p>And how
+      do you say it?</p></div>
     _key: card-1-dac4dd2d-e583-4f5e-860c-4a6be708c48d
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Basics
-
-
-      * Pronounced: Pel-**O**-t-**ON**.
-
-      * **Video-streaming stationary bike co**. launched in 2012.
-
-      * **The draw?** Get on the bike, turn on the screen & you can instantly
-      take live or on-demand classes.
-
-      * **The catch?** Spin bicycle equipped w/22-inch touch-screen costs $1,995
-      & need to pay $39/month for content on the screen.
+      <div><h2>The Basics</h2><ul><li>Pronounced:
+      Pel-<strong>O</strong>-t-<strong>ON</strong>.</li><li><strong>Video-streaming
+      stationary bike co</strong>. launched in 2012.</li><li><strong>The
+      draw?</strong> Get on the bike, turn on the screen &amp; you can instantly
+      take live or on-demand classes.</li><li><strong>The catch?</strong> Spin
+      bicycle equipped w/22-inch touch-screen costs $1,995 &amp; need to pay
+      $39/month for content on the screen.</li></ul></div>
     _key: card-2-bbc97777-37f7-48c3-8252-00f355b13d15
   - order: 2
     useCheckmark: false
     body: >-
-      ## The Bigger Picture
-
-
-      * Peloton wants to make itself a public-traded company on Wall St. which
-      says its**worth $4B+**.
-
-      * For perspective, that’s**more than Dick’s Sporting Goods** ($3.5B).
-
-      * CEO argues it’s a**“media company”** not just exercise equipment due to
-      its**subscription-based model** (a la Netflix.)
+      <div><h2>The Bigger Picture</h2><ul><li>Peloton wants to make itself a
+      public-traded company on Wall St. which says its <strong>worth
+      $4B+</strong>.</li><li>For perspective, that’s <strong>more than Dick’s
+      Sporting Goods</strong> ($3.5B).</li><li>CEO argues it’s a <strong>“media
+      company”</strong> not just exercise equipment due to its
+      <strong>subscription-based model</strong> (a la Netflix.)</li></ul></div>
     _key: card-3-6901a189-ca38-49f8-b63a-1759f0affc34
   - order: 3
     useCheckmark: false
     body: >-
-      ## Reinventing the Wheel?
-
-
-      Exercise using a stationary bicycle is nothing new. In fact, first
-      rudimentary version**created in 1796**.
-
-
-      It wasn’t until the 1960s when**Schwinn released the “Exerciser”** that
-      the bike exercise fad caught on.
-
-
-      Today,A**stationary bikes are everywhere**, even the International Space
-      Station.
+      <div><h2>Reinventing the Wheel?</h2><p>Exercise using a stationary bicycle
+      is nothing new. In fact, first rudimentary version <strong>created in
+      1796</strong>.</p><p>It wasn’t until the 1960s when <strong>Schwinn
+      released the “Exerciser”</strong> that the bike exercise fad caught
+      on.</p><p>Today,A <strong>stationary bikes are everywhere</strong>, even
+      the International Space Station.</p></div>
     _key: card-4-46def28b-df51-481b-9353-876fcee60a98
   - order: 4
     useCheckmark: true
     body: >-
-      Peloton is taking pre-orders for a treadmill "Peloton Tread" with the same
-      features. The CEO says he wants users who don't own a Peloton bike to
-      access workouts on your phone & tablets. What do you think...exercise fad
-      or does Peloton have staying power?
-
-
-      [view sources](https://smarthernews.com/18-08-08-peloton/)
+      <div><p>Peloton is taking pre-orders for a treadmill "Peloton Tread" with
+      the same features. The CEO says he wants users who don't own a Peloton
+      bike to access workouts on your phone &amp; tablets. What do you
+      think...exercise fad or does Peloton have staying power?</p><p><a
+      href="https://smarthernews.com/18-08-08-peloton/">view
+      sources</a></p></div>
     _key: card-10-aa0e8980-7c76-4ec0-80da-67e328e0cfeb
 
 ---

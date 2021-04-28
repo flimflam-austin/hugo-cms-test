@@ -21,18 +21,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## _“Keep inventing, and don’t despair when at first the idea looks crazy.
-      Remember to wander. Let curiosity be your compass.”_
+      <div><h2><em>“Keep inventing, and don’t despair when at first the idea
+      looks crazy. Remember to wander. Let curiosity be your
+      compass.”</em></h2><p></p></div>
     citation: JEFF BEZOS
     _key: 286e43d578d7
   - order: 1
     useCheckmark: true
     body: >-
-      Amazon's Jeff Bezos announcing he'll step down as CEO of the company he
-      founded in his garage in 1994. Amazon is now $1 trillion+ global company.
-      The retailer reported a record revenue of $100 billion+ for the last 3
-      months on the same day of Bezos' resignation. Bezos will stay on Amazon's
-      board while focusing on other "passions.”
+      <div><p>Amazon's Jeff Bezos announcing he'll step down as CEO of the
+      company he founded in his garage in 1994. Amazon is now $1 trillion+
+      global company. The retailer reported a record revenue of $100 billion+
+      for the last 3 months on the same day of Bezos' resignation. Bezos will
+      stay on Amazon's board while focusing on other
+      "passions.”</p><p></p></div>
     citation: VIEW SOURCES
     _key: b97f17e3e19d
 

@@ -21,51 +21,37 @@ colorpaletteclassname: '--dark-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      September 7, 1813  
-      The Birth Of “Uncle Sam”
-
-      How did America get its nickname?
+    body: >-
+      <div><p>September 7, 1813<br>The Birth Of “Uncle Sam”</p><p>How did
+      America get its nickname?</p></div>
     _key: card-1-585c6246-8847-4bc5-8160-b4521169d7a3
   - order: 1
     useCheckmark: false
     body: >-
-      ## Was Uncle Sam Real?
-
-
-      Although probably best known from the U.S. Army’s “I Want You” posters of
-      World War I, Uncle Sam actually dates back to the War of 1812.
-
-
-      Hungry troops were fed meat from**Samuel Wilson.** His barrels of beef &
-      pork were stamped with a “U.S.” but**soldiers started calling it “Uncle
-      Sam’s.”**
+      <div><h2>Was Uncle Sam Real?</h2><p>Although probably best known from the
+      U.S. Army’s “I Want You” posters of World War I, Uncle Sam actually dates
+      back to the War of 1812.</p><p>Hungry troops were fed meat from
+      <strong>Samuel Wilson.</strong> His barrels of beef &amp; pork were
+      stamped with a “U.S.” but <strong>soldiers started calling it “Uncle
+      Sam’s.”</strong></p></div>
     _key: card-2-42269c9f-4d61-4ce8-a2c0-345d002ea384
   - order: 2
     useCheckmark: false
     body: >-
-      ## Did He Look Like That?
-
-
-      Over the years, artists shaped Uncle Sam’s look which began as a
-      “congenial, folksy, older man.”
-
-
-      * Cartoonist Thomas Nast popularized him with white beard and stars &
-      stripes suit.
-
-      * Artist James Montgomery Flagg’s “I Want You” painting showed him stern
-      and muscular.
+      <div><h2>Did He Look Like That?</h2><p>Over the years, artists shaped
+      Uncle Sam’s look which began as a “congenial, folksy, older
+      man.”</p><ul><li>Cartoonist Thomas Nast popularized him with white beard
+      and stars &amp; stripes suit.</li><li>Artist James Montgomery Flagg’s “I
+      Want You” painting showed him stern and muscular.</li></ul></div>
     _key: card-3-f731a3da-623e-4f55-ad54-c94a6ea8e8d1
   - order: 3
     useCheckmark: true
     body: >-
-      205 years after Uncle Sam's creation his legacy lives on - but did you
-      know our national symbol could've be "Miss Columbia"? Read on to learn
-      more about her.
-
-
-      [view sources](https://smarthernews.com/18-09-17-uncle-sam/)
+      <div><p>205 years after Uncle Sam's creation his legacy lives on - but did
+      you know our national symbol could've be "Miss Columbia"? Read on to learn
+      more about her.</p><p><a
+      href="https://smarthernews.com/18-09-17-uncle-sam/">view
+      sources</a></p></div>
     _key: card-10-f5b1f4ca-d3b6-419e-bda1-5e6ba62c7064
 
 ---

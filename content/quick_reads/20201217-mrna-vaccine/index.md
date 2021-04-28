@@ -21,94 +21,77 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Some believe it will revolutionize the way we treat illness, including
-      cancer &**COVID.**
-
-
-      The**innovations & limitations** of a cutting-edge vaccine technology as
-      the FDA considers another**mRNA vaccine** for emergency use.
+      <div><p>Some believe it will revolutionize the way we treat illness,
+      including cancer &amp; <strong>COVID.</strong></p><p>The
+      <strong>innovations &amp; limitations</strong> of a cutting-edge vaccine
+      technology as the FDA considers another <strong>mRNA vaccine</strong> for
+      emergency use.</p></div>
     _key: 6dff2f853207
   - order: 1
     useCheckmark: false
     body: >-
-      ## mRNA
-
-
-      * mRNA: messenger ribonucleic acid
-
-      * mRNA plays a role in how our cells synthesize proteins, which are key
-      building blocks for life.
-
-      * mRNA vaccines deliver a code or blueprint to our cells on how to produce
-      a non-infectious viral protein (a unique part of the virus “shell”).
-
-      * Like a factory, our bodies produce this viral protein, identify it as an
-      “intruder” and build immunity against it.
+      <div><h2>mRNA</h2><ul><li>mRNA: messenger ribonucleic acid</li><li>mRNA
+      plays a role in how our cells synthesize proteins, which are key building
+      blocks for life.</li><li>mRNA vaccines deliver a code or blueprint to our
+      cells on how to produce a non-infectious viral protein (a unique part of
+      the virus “shell”).</li><li>Like a factory, our bodies produce this viral
+      protein, identify it as an “intruder” and build immunity against
+      it.</li></ul></div>
     _key: 57adaae2dc7e
   - order: 2
     useCheckmark: false
     body: >-
-      > “With traditional vaccines, you have to do a lot of development. You
-      need a big factory to make the protein, or the virus, and it takes a long
-      time to grow them. The beauty of mRNA is that you don’t need that.”
-
-
-      Scientist, inventor and M.I.T. professor Dr. Robert Langer started
-      researching mRNA vaccine technology in the 1970s and is a co-founder of
-      the drugmaker Moderna, which has produced an mRNA COVID-19 vaccine.
+      <div><blockquote>“With traditional vaccines, you have to do a lot of
+      development. You need a big factory to make the protein, or the virus, and
+      it takes a long time to grow them. The beauty of mRNA is that you don’t
+      need that.”</blockquote><p>Scientist, inventor and M.I.T. professor Dr.
+      Robert Langer started researching mRNA vaccine technology in the 1970s and
+      is a co-founder of the drugmaker Moderna, which has produced an mRNA
+      COVID-19 vaccine.</p></div>
     _key: 1a2433a69e11
   - order: 3
     useCheckmark: false
     body: >-
-      ## Why This Is Different
-
-
-      * Traditional vaccines use a small amount of an actual virus to spark an
-      immune response. mRNA vaccines do not.
-
-      * Once the genetic sequence of a virus is available, scientists can
-      quickly isolate a viral protein to develop a vaccine.
-
-      * Although rare, a person receiving *certain* vaccines could become
-      temporarily contagious. Since there’s no actual virus in the mRNA vaccine,
-      contagion is not a concern.
+      <div><h2>Why This Is Different</h2><ul><li>Traditional vaccines use a
+      small amount of an actual virus to spark an immune response. mRNA vaccines
+      do not.</li><li>Once the genetic sequence of a virus is available,
+      scientists can quickly isolate a viral protein to develop a
+      vaccine.</li><li>Although rare, a person receiving *certain* vaccines
+      could become temporarily contagious. Since there’s no actual virus in the
+      mRNA vaccine, contagion is not a concern.</li></ul></div>
     _key: ba2b321a6ca2
   - order: 4
     useCheckmark: false
     body: >-
-      ## Limitations
-
-
-      * mRNA vaccines have**never been approved for human use**. One reason:
-      Past human trials have not shown enduring immunity. We don’t know the
-      exact length or quality of immunity**of any COVID vaccine** at this time.
-
-      * **We have no long-term data on use of this vaccine technology**.
-
-      * If it overheats, it becomes ineffective. Many vaccines need
-      refrigeration; mRNA vaccines need special freezers.
+      <div><h2>Limitations</h2><ul><li>mRNA vaccines have <strong>never been
+      approved for human use</strong>. One reason: Past human trials have not
+      shown enduring immunity. We don’t know the exact length or quality of
+      immunity <strong>of any COVID vaccine</strong> at this
+      time.</li><li><strong>We have no long-term data on use of this vaccine
+      technology</strong>.</li><li>If it overheats, it becomes ineffective. Many
+      vaccines need refrigeration; mRNA vaccines need special
+      freezers.</li></ul><p><br></p></div>
     _key: 8fa1a397346b
   - order: 5
     useCheckmark: false
     body: >-
-      > “The primary purpose of many vaccines is harm reduction. This is the
-      best way to consider the latest COVID mRNA vaccines – as an aid to reduce
-      the severity of clinical illness in America.”
-
-
-      Dr. Jessica Whittle, Dir. of Research, Dept. of Emergency Medicine at
-      Univ. of Tennessee College of Medicine. Past mRNA vaccines were studied
-      for SARS & MERS. Dr. Whittle says this is one reason mRNA COVID-19 vaccine
-      development was possible for the SARS-CoV-2 virus that causes COVID-19.
+      <div><blockquote>“The primary purpose of many vaccines is harm reduction.
+      This is the best way to consider the latest COVID mRNA vaccines – as an
+      aid to reduce the severity of clinical illness in
+      America.”</blockquote><p>Dr. Jessica Whittle, Dir. of Research, Dept. of
+      Emergency Medicine at Univ. of Tennessee College of Medicine. Past mRNA
+      vaccines were studied for SARS &amp; MERS. Dr. Whittle says this is one
+      reason mRNA COVID-19 vaccine development was possible for the SARS-CoV-2
+      virus that causes COVID-19.</p></div>
     _key: a292567d1832
   - order: 6
     useCheckmark: true
     body: >-
-      To consider: Prior mRNA vaccine studies have not revealed major safety
-      issues. The FDA's advisory board will review Moderna's mRNA vaccine for
-      emergency use authorization on Dec. 18th. This technology continues to be
-      studied in other areas, including cancer: “I was actually witnessing the
-      cancer cells shrinking before my eyes."
+      <div><p>To consider: Prior mRNA vaccine studies have not revealed major
+      safety issues. The FDA's advisory board will review Moderna's mRNA vaccine
+      for emergency use authorization on Dec. 18th. This technology continues to
+      be studied in other areas, including cancer: “I was actually witnessing
+      the cancer cells shrinking before my eyes."</p><p></p></div>
     citation: VIEW SOURCES
     _key: 577d64f2bd10
 

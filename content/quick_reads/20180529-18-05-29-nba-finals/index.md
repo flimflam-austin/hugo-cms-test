@@ -22,75 +22,44 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # THE NBA FINALS
-
-
-      ## LeBron vs. The Warriors
-
-
-      The**Cleveland Cavaliers**‘ one-man army will face the defending champs
-      theA**Golden StateA Warriors** – for the 4th straight year.
-
-
-      LeBron James – possibly the**greatest basketball player of all time** – is
-      actually anA**_UNDERDOG._**
-
-
-      FLIP FOR WHY
+      <div><h1>THE NBA FINALS</h1><h2>LeBron vs. The Warriors</h2><p>The
+      <strong>Cleveland Cavaliers</strong>‘ one-man army will face the defending
+      champs theA <strong>Golden StateA Warriors</strong> – for the 4th straight
+      year.</p><p>LeBron James – possibly the <strong>greatest basketball player
+      of all time</strong> – is actually anA
+      <strong><em>UNDERDOG.</em></strong></p><p>FLIP FOR WHY</p></div>
     _key: card-1-94b34136-678f-4616-a7e5-0fbcf8c9d979
   - order: 1
     useCheckmark: false
     body: >-
-      ## Golden State Warriors
-
-
-      >   
-        
-      **_“Every game in the series takes on a different shape, but Game 7s are
-      10 times that because you throw everything you have out there on the
-      floor. Just one last effort to get a win.’_**  
-        
-        
-        
-        
-      Warriors' Steph Curry before rallying his team to a Game 7 win to make
-      Finals.
-
-
-      * Won 2 of the last 3 NBA Finals.
-
-      * Deep bench with sharp-shooters.
+      <div><h2>Golden State Warriors</h2><blockquote><br><br><strong><em>“Every
+      game in the series takes on a different shape, but Game 7s are 10 times
+      that because you throw everything you have out there on the floor. Just
+      one last effort to get a win.’</em></strong><br><br><br><br><br>Warriors'
+      Steph Curry before rallying his team to a Game 7 win to make
+      Finals.</blockquote><ul><li>Won 2 of the last 3 NBA Finals.</li><li>Deep
+      bench with sharp-shooters.</li></ul></div>
     _key: card-2-172dc4cf-be82-475a-a734-3bf8194d0621
   - order: 2
     useCheckmark: false
     body: >-
-      ## Cleveland Cavaliers
-
-
-      >   
-
-      **_“It’s ridiculous, and he doesA it at this level and with the pressure,
-      with the scrutiny – doesn’t matter.”_**  
-        
-      Celtics coach Brad Stevens on LeBron.
-
-
-      * LeBron James has gone to the**Finals every season since 2010** – longest
-      streak since 1960s.
-
-      * With a weak roster,**he played all 48 mins** of Game 7 vs. Boston
-      Celtics getting them to the Finals.
+      <div><h2>Cleveland Cavaliers</h2><blockquote><br><strong><em>“It’s
+      ridiculous, and he doesA it at this level and with the pressure, with the
+      scrutiny – doesn’t matter.”</em></strong><br><br>Celtics coach Brad
+      Stevens on LeBron.</blockquote><ul><li>LeBron James has gone to the
+      <strong>Finals every season since 2010</strong> – longest streak since
+      1960s.</li><li>With a weak roster, <strong>he played all 48 mins</strong>
+      of Game 7 vs. Boston Celtics getting them to the Finals.</li></ul></div>
     _key: card-3-866dbf16-56d8-41d7-a8b9-5c1127fe73af
   - order: 3
     useCheckmark: true
     body: >-
-      The twist in all this? LeBron is free to join a different team next season
-      and there's been speculation that the Golden State Warriors are one of
-      those teams. The best of 7 series starts Thursday. Who ya got? Click for
-      the full schedule.
-
-
-      [view sources](https://smarthernews.com/18-05-29-nba-finals/)
+      <div><p>The twist in all this? LeBron is free to join a different team
+      next season and there's been speculation that the Golden State Warriors
+      are one of those teams. The best of 7 series starts Thursday. Who ya got?
+      Click for the full schedule.</p><p><a
+      href="https://smarthernews.com/18-05-29-nba-finals/">view
+      sources</a></p></div>
     _key: card-10-32ed614b-3579-41a2-a934-23270a0126d0
 
 ---

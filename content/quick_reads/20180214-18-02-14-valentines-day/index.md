@@ -22,94 +22,57 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Valentine’s Day:
-
-
-      ## Why February 14th?
-
-
-      According to Congress, the romance we associate with Valentine’s Day might
-      have originated from a medieval belief that birds select their mates on
-      this day.
-
-
-      CLICK HERE TO FLIP
+      <div><h1>Valentine’s Day:</h1><h2>Why February 14th?</h2><p>According to
+      Congress, the romance we associate with Valentine’s Day might have
+      originated from a medieval belief that birds select their mates on this
+      day.</p><p>CLICK HERE TO FLIP</p></div>
     _key: card-1-46bf13ea-9b7b-47b7-beef-6d38b9f3d3a6
   - order: 1
     useCheckmark: false
     body: >-
-      # Did You Know?
-
-
-      * Esther Howland (‘New England’s first career woman”) sold the first
-      mass-produced Valentine’s Day cards in the late 1840s.
-
-      * The tradition itself dates back to 15th century Europe, but Howland
-      first popularized Valentine’s Day cards in America.
-
-
-
-
-      [Click HERE: Her
-      Cards](http://time.com/4663003/esther-howland-valentines/)
+      <div><h1>Did You Know?</h1><ul><li>Esther Howland (‘New England’s first
+      career woman”) sold the first mass-produced Valentine’s Day cards in the
+      late 1840s.</li><li>The tradition itself dates back to 15th century
+      Europe, but Howland first popularized Valentine’s Day cards in
+      America.</li></ul><p></p><p><a
+      href="http://time.com/4663003/esther-howland-valentines/">Click HERE: Her
+      Cards</a></p></div>
     _key: card-2-a57cc265-7b41-4e4b-8f5a-3c6e82d91077
   - order: 2
     useCheckmark: false
     body: >-
-      # How Do We Celebrate Valentine’s Day?
-
-
-      * **More than half** of all Americans plan to celebrate.
-
-      * Average $pending:A**$143.56.**
-
-      * Total $pending est:**$19.6 billion**, including $1.8 billion on candy,
-      $2 billion on flowers, and $4.7 billion on jewelry.
-
-
-
-
-      It's Not All Sweet...Flip!
+      <div><h1>How Do We Celebrate Valentine’s Day?</h1><ul><li><strong>More
+      than half</strong> of all Americans plan to celebrate.</li><li>Average
+      $pending:A <strong>$143.56.</strong></li><li>Total $pending est:
+      <strong>$19.6 billion</strong>, including $1.8 billion on candy, $2
+      billion on flowers, and $4.7 billion on jewelry.</li></ul><p></p><p>It's
+      Not All Sweet...Flip!</p></div>
     _key: card-3-977754ba-5a57-4c7b-9707-0953e9a28708
   - order: 3
     useCheckmark: false
     body: >-
-      # OTD 1929:
-
-
-      ## St. Valentine’s Day Massacre
-
-
-      * Gang violence plagued Chicago during prohibition (1920 – 1933).
-
-      * Notorious gangster Al Capone reportedly ordered the infamous mob
-      shooting of 7 rival gang members, firing squad style.
-
-
-
-
-      [Click HERE:
-      Photos](http://www.history.com/news/valentines-day-massacre-capone)
+      <div><h1>OTD 1929:</h1><h2>St. Valentine’s Day Massacre</h2><ul><li>Gang
+      violence plagued Chicago during prohibition (1920 –
+      1933).</li><li>Notorious gangster Al Capone reportedly ordered the
+      infamous mob shooting of 7 rival gang members, firing squad
+      style.</li></ul><p></p><p><a
+      href="http://www.history.com/news/valentines-day-massacre-capone">Click
+      HERE: Photos</a></p></div>
     _key: card-4-9195480c-d8ed-405b-a0dd-e71cdbc603e8
   - order: 4
     useCheckmark: false
     body: >-
-      Also Today:  
-
-      Ash Wednesday
-
-
-      * For the first time in 73 years, Ash Wednesday & Valentine’s Day fall on
-      same day.
-
-      * Ash Wednesday marks start of Lent – a holy period ahead of Easter.
-
-      * Some Christians receive ashes on their forehead as a sign of their
-      faith.
+      <div><p>Also Today:<br>Ash Wednesday </p><ul><li>For the first time in 73
+      years, Ash Wednesday &amp; Valentine’s Day fall on same day.</li><li>Ash
+      Wednesday marks start of Lent – a holy period ahead of
+      Easter.</li><li>Some Christians receive ashes on their forehead as a sign
+      of their faith.</li></ul></div>
     _key: card-5-8761b533-efd8-4729-83ea-5688884c9a1b
   - order: 5
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-02-14-valentines-day/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-02-14-valentines-day/">view
+      sources</a></p>
     _key: card-10-ca478c8e-0cfa-41ce-8568-87874fa9eed3
 
 ---

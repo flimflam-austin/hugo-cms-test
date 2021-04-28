@@ -19,76 +19,61 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## CHRISTMAS MIRACLE
-
-
-      > General Washington’s choice to cross the Delaware River, Christmas Night
-      1776, arguably changed the course of America history forever.
+      <div><h2>CHRISTMAS MIRACLE</h2><blockquote>General Washington’s choice to
+      cross the Delaware River, Christmas Night 1776, arguably changed the
+      course of America history forever.</blockquote><p><br></p></div>
     _key: 4c1b5fe6c1d5
   - order: 1
     useCheckmark: false
     body: >-
-      > “_These are the times that try men’ souls. The summer soldier and the
-      sunshine patriot will, in this crisis, shrink from the service of their
-      country; but he that stands it now, deserves the love and thanks of man
-      and woman. Tyranny, like hell, is not easily conquered; yet we have this
-      consolation with us, that the harder the conflict the more glorious the
-      triumph.”_
-
-
-      Thomas Paine's "The American Crisis" reportedly read to soldiers Xmas
-      night.
+      <div><blockquote>“<em>These are the times that try men’ souls. The summer
+      soldier and the sunshine patriot will, in this crisis, shrink from the
+      service of their country; but he that stands it now, deserves the love and
+      thanks of man and woman. Tyranny, like hell, is not easily conquered; yet
+      we have this consolation with us, that the harder the conflict the more
+      glorious the triumph.”</em></blockquote><p>Thomas Paine's "The American
+      Crisis" reportedly read to soldiers Xmas night.</p></div>
     _key: a12e213dbc2a
   - order: 2
     useCheckmark: false
     body: >-
-      ## What Happened:
-
-
-      * July 4, 1776 – Declaration of Independence signed. British have many
-      high profile victories.
-
-      * By Winter 1776, Gen. Washington’s Continental Army is in retreat &
-      running out of men & money: high casualties, attrition & low morale.
-
-      * Gen. Washington takes a gamble, and hatches a difficult plan to surprise
-      British forces the day after Christmas.
+      <div><h2>What Happened:</h2><ul><li>July 4, 1776 – Declaration of
+      Independence signed. British have many high profile victories.</li><li>By
+      Winter 1776, Gen. Washington’s Continental Army is in retreat &amp;
+      running out of men &amp; money: high casualties, attrition &amp; low
+      morale.</li><li>Gen. Washington takes a gamble, and hatches a difficult
+      plan to surprise British forces the day after
+      Christmas.</li></ul><p><br></p></div>
     _key: a862f7d1845a
   - order: 3
     useCheckmark: false
     body: >-
-      ## Dec. 25-26 1776
-
-
-      * On**Christmas night**, the Continental Army took 10 hours to cross the
-      Delaware River in a**freezing cold snowstorm**.
-
-      * Once across, many didn’t have proper shoes to march hours to Trenton for
-      the battle leaving**bloody footprints in the snow**.
-
-      * Gen. Washington**surprised the British side** day after Christmas,
-      winning Battle of Trenton quickly.
+      <div><h2>Dec. 25-26 1776</h2><ul><li>On <strong>Christmas night</strong>,
+      the Continental Army took 10 hours to cross the Delaware River in a
+      <strong>freezing cold snowstorm</strong>.</li><li>Once across, many didn’t
+      have proper shoes to march hours to Trenton for the battle leaving
+      <strong>bloody footprints in the snow</strong>.</li><li>Gen. Washington
+      <strong>surprised the British side</strong> day after Christmas, winning
+      Battle of Trenton quickly.</li></ul></div>
     _key: f6af61e0cdf8
   - order: 4
     useCheckmark: false
     body: >-
-      ## Why It Matters
-
-
-      > _“It’s really almost a miracle event, viewed by the population at the
-      time. It looked as if the war was over…This victory is a huge morale
-      confidence building victory that’s going to allow the war to continue.”_  
-        
-      Historian Clay Craighead. Washington's victory changed the early course of
-      the American Revolution & arguably, America's fate.
+      <div><h2>Why It Matters</h2><blockquote><em>“It’s really almost a miracle
+      event, viewed by the population at the time. It looked as if the war was
+      over…This victory is a huge morale confidence building victory that’s
+      going to allow the war to continue.”</em><br><br>Historian Clay Craighead.
+      Washington's victory changed the early course of the American Revolution
+      &amp; arguably, America's fate.</blockquote></div>
     _key: 9cfbc04d9d2c
   - order: 5
     useCheckmark: true
     body: >-
-      Even the British felt a shift after this battle. Some, like Historian Clay
-      Craighead, point to it as a real turning point in momentum. Listen to Clay
-      tell the story from the grounds of Washington Crossing State Park - It was
-      a perilous night that changed America forever.
+      <div><p>Even the British felt a shift after this battle. Some, like
+      Historian Clay Craighead, point to it as a real turning point in momentum.
+      Listen to Clay tell the story from the grounds of Washington Crossing
+      State Park - It was a perilous night that changed America
+      forever.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 06d6e04f4884
 

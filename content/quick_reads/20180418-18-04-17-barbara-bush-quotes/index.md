@@ -21,84 +21,66 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # “Find The Joy In Life”
-
-      > Quotes to Learn From & Live By: Barbara Bush
+    body: >-
+      <div><h1>“Find The Joy In Life”</h1><blockquote>Quotes to Learn From &amp;
+      Live By: Barbara Bush</blockquote></div>
     _key: card-1-ded9e5e1-3690-4c31-b848-21ae3584403e
   - order: 1
     useCheckmark: false
     body: >-
-      > “At the end of your life, you will never regret not having passed one
-      more test, not winning one more verdict or not closing one more deal. You
-      will regret time not spent with a husband, a friend, a children, or a
-      parent.”  
-        
-        
-        
-      Barbara Bush, 1990, Commencement Address, Wellesley College
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/6VhmyA4Kd80?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>“At the end of your life, you will never regret not
+      having passed one more test, not winning one more verdict or not closing
+      one more deal. You will regret time not spent with a husband, a friend, a
+      children, or a parent.”<br><br><br><br>Barbara Bush, 1990, Commencement
+      Address, Wellesley College</blockquote><p><a
+      href="https://www.youtube.com/embed/6VhmyA4Kd80?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     citation: Watch Now
     _key: card-2-e8c9a7c7-cd06-4a8d-bdf9-c9cba8d9f09d
   - order: 2
     useCheckmark: false
     body: >-
-      > ‘I was combing her hair and holding her hand. I saw that little body, I
-      saw her spirit go…Robin to me is a joy. She’s like an angel to me; she’s
-      not a sadness or a sorrow. Those little fat arms around my neck.”  
-        
-        
-        
-      Barbara Bush, 2012, speaking about the death of her first daughter, Robin,
-      at age 3 to leukemia, the grief that followed, & the perspective that came
-      years later.
+      <blockquote>‘I was combing her hair and holding her hand. I saw that
+      little body, I saw her spirit go…Robin to me is a joy. She’s like an angel
+      to me; she’s not a sadness or a sorrow. Those little fat arms around my
+      neck.”<br><br><br><br>Barbara Bush, 2012, speaking about the death of her
+      first daughter, Robin, at age 3 to leukemia, the grief that followed,
+      &amp; the perspective that came years later.</blockquote>
     _key: card-3-85083782-24e4-48d3-b1c9-757bddf18dd7
   - order: 3
     useCheckmark: false
     body: >-
-      > “I married the first man I ever kissed. When I tell this to my children,
-      they just about throw up.”  
-        
-        
-        
-      Barbara Bush, Time Magazine 1989. She referred to her husband of 73 years
-      as "precious George." The Bushes went on to become the longest married
-      couple in presidential history.
+      <blockquote>“I married the first man I ever kissed. When I tell this to my
+      children, they just about throw up.”<br><br><br><br>Barbara Bush, Time
+      Magazine 1989. She referred to her husband of 73 years as "precious
+      George." The Bushes went on to become the longest married couple in
+      presidential history.</blockquote>
     _key: card-4-2bed6989-cef7-418b-8033-74a1a3b53fea
   - order: 4
     useCheckmark: false
     body: >-
-      > “I think a lot of our problems are because people don’t listen to our
-      children. And it’s not always easy – they’re not always so brilliant that
-      you want to spend hours with them, but it’s very important to listen.”  
-        
-        
-        
-      Barbara Bush, 1989, Christian Science Monitor, discussing her lifelong
-      goal to eradicate illiteracy and spending quality time reading & listening
-      to children.
+      <blockquote>“I think a lot of our problems are because people don’t listen
+      to our children. And it’s not always easy – they’re not always so
+      brilliant that you want to spend hours with them, but it’s very important
+      to listen.”<br><br><br><br>Barbara Bush, 1989, Christian Science Monitor,
+      discussing her lifelong goal to eradicate illiteracy and spending quality
+      time reading &amp; listening to children.</blockquote>
     _key: card-5-0902d1b3-010e-477c-a58d-9f3d13c08ded
   - order: 5
     useCheckmark: false
     body: >-
-      > “Your success as a family, our success as a society, depends not on what
-      happens in the White House, but on what happens inside your house.”  
-        
-        
-        
-      Barbara Bush, 1990, Commencement Address, Wellesley College
+      <blockquote>“Your success as a family, our success as a society, depends
+      not on what happens in the White House, but on what happens inside your
+      house.”<br><br><br><br>Barbara Bush, 1990, Commencement Address, Wellesley
+      College</blockquote>
     _key: card-6-941fd732-3b02-4972-9b64-310bdbccee66
   - order: 6
     useCheckmark: true
     body: >-
-      "I know there is a great God, and I'm not worried." Barbara Bush to C-SPAN
-      2013
-
-
-      [view sources](https://smarthernews.com/18-04-17-barbara-bush-quotes/)
+      <div><p>"I know there is a great God, and I'm not worried." Barbara Bush
+      to C-SPAN 2013</p><p><a
+      href="https://smarthernews.com/18-04-17-barbara-bush-quotes/">view
+      sources</a></p></div>
     _key: card-10-6668a9c5-f485-4fe0-82f1-3b50ca07d2a1
 
 ---

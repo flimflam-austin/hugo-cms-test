@@ -22,94 +22,57 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Beauty Break Through!
-
-
-      ========================
-
-
-      ## Hair-Dye Innovation?
-
-
-      Scientists say they’ve found a**safer, more effective way to color your
-      hair**a| that may leave your strands with less static, more UV protection,
-      cleaner and even better smelling.
-
-
-      How?**Graphene**.
-
-
-      Say What? Flip!
+      <div><p>Beauty Break
+      Through!</p><p>========================</p><h2>Hair-Dye
+      Innovation?</h2><p>Scientists say they’ve found a <strong>safer, more
+      effective way to color your hair</strong>a| that may leave your strands
+      with less static, more UV protection, cleaner and even better
+      smelling.</p><p>How? <strong>Graphene</strong>.</p><p>Say What?
+      Flip!</p></div>
     citation: Say What? Flip!
     _key: card-1-737f71cd-25fb-4929-91b2-e2977cc96e22
   - order: 1
     useCheckmark: false
-    body: |-
-      # What Is Graphene?
-
-      ## “The Wonder Material”
-
-      * A sheet of carbon atoms.
-      * Hardest material in the world, but also the thinnest and most flexible.
-      * Conducts electricity & heat.
-
-      Flip For More
+    body: >-
+      <div><h1>What Is Graphene?</h1><h2>“The Wonder Material”</h2><ul><li>A
+      sheet of carbon atoms.</li><li>Hardest material in the world, but also the
+      thinnest and most flexible.</li><li>Conducts electricity &amp;
+      heat.</li></ul><p>Flip For More</p></div>
     citation: Flip For More
     _key: card-2-cef6399a-14cf-4ac1-b188-a070553ec4df
   - order: 2
     useCheckmark: false
     body: >-
-      ## How Did They Do It?
-
-
-      * Created a water-based dye with graphene.
-
-      * Sprayed or combed into hair.
-
-      * Graphene wrapped hair like a sheet, rather than causing a chemical
-      reaction to change color.
-
-      * Dye process 10 minutes or less.
-
-      * Lasted more than 30 washes = current industry dye standards.
+      <div><h2>How Did They Do It?</h2><ul><li>Created a water-based dye with
+      graphene.</li><li>Sprayed or combed into hair.</li><li>Graphene wrapped
+      hair like a sheet, rather than causing a chemical reaction to change
+      color.</li><li>Dye process 10 minutes or less.</li><li>Lasted more than 30
+      washes = current industry dye standards.</li></ul></div>
     _key: card-3-94b4b8cc-9f39-465d-88d1-96cf3f1b208f
   - order: 3
     useCheckmark: false
     body: >-
-      Why Dye Is Healthier:  
-
-      Superficial & Strong
-
-
-      > ‘Because we now have a coating-based dye, we don’t have to get into the
-      hair or change the chemical structure.’  
-        
-        
-        
-      Dr. Jiaxing Huang, Northwestern University, Interview w/New York Times,
-      March 16, 2018
+      <div><p>Why Dye Is Healthier:<br>Superficial &amp;
+      Strong</p><blockquote>‘Because we now have a coating-based dye, we don’t
+      have to get into the hair or change the chemical
+      structure.’<br><br><br><br>Dr. Jiaxing Huang, Northwestern University,
+      Interview w/New York Times, March 16, 2018</blockquote></div>
     _key: card-4-d368ea82-fcc4-4f96-a477-9fd16c2e5112
   - order: 4
     useCheckmark: false
     body: >-
-      ## A Note From The Study:
-
-
-      Graphene conducts electricity. So your dyed-hair could someday ‘talk’ to
-      your watch.
-
-
-      _Graphene-based hair dyes could also potentially benefit the development
-      of electronics interfacing with the body._
+      <div><h2>A Note From The Study:</h2><p>Graphene conducts electricity. So
+      your dyed-hair could someday ‘talk’ to your
+      watch.</p><p><em>Graphene-based hair dyes could also potentially benefit
+      the development of electronics interfacing with the body.</em></p></div>
     _key: card-5-d8f50f99-8022-45ce-80c8-876b39a13a49
   - order: 5
     useCheckmark: true
     body: >-
-      Graphene is naturally black in color so for now, the dye is only black as
-      well. TBD until it could reach market.
-
-
-      [view sources](https://smarthernews.com/18-02-19-revolution-hair-dye/)
+      <div><p>Graphene is naturally black in color so for now, the dye is only
+      black as well. TBD until it could reach market.</p><p><a
+      href="https://smarthernews.com/18-02-19-revolution-hair-dye/">view
+      sources</a></p></div>
     _key: card-10-4a931ec1-60b3-413b-9c25-616967b4751b
 
 ---

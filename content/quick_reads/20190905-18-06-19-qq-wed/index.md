@@ -22,70 +22,58 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > “We want a country with heart, but when people come up they have to know
-      they can’t get in. Otherwise, it’s never going to stop.”  
-        
-        
-        
-      President Trump defending his administration's zero-tolerance policy on
-      immigration. Senior Republicans wrote President Trump a letter asking him
-      to pause separation of families "...while Congress works out a solution."
+      <blockquote>“We want a country with heart, but when people come up they
+      have to know they can’t get in. Otherwise, it’s never going to
+      stop.”<br><br><br><br>President Trump defending his administration's
+      zero-tolerance policy on immigration. Senior Republicans wrote President
+      Trump a letter asking him to pause separation of families "...while
+      Congress works out a solution."</blockquote>
     _key: card-1-5549bd14-a05a-4bf5-9825-9f628ade7e0a
   - order: 1
     useCheckmark: false
     body: >-
-      > “Markets are responding to all of the rhetoric with the trade war. A lot
-      of what we’re seeing may be negotiating tactics, but it’s just going to be
-      a choppy ride due to this concern.”  
-        
-        
-        
-      Greg McBride, chief financial analyst, Bankrate.com, to NPR after the Dow
+      <blockquote>“Markets are responding to all of the rhetoric with the trade
+      war. A lot of what we’re seeing may be negotiating tactics, but it’s just
+      going to be a choppy ride due to this concern.”<br><br><br><br>Greg
+      McBride, chief financial analyst, Bankrate.com, to NPR after the Dow
       dropped 287 points Tuesday due to concerns over a trade war between USA
-      and China.
+      and China.</blockquote>
     _key: card-2-c591453c-3beb-4ba7-9ab6-d6b07b7460c8
   - order: 2
     useCheckmark: false
     body: >-
-      > ‘a protector of human rights abusers, and a cesspool of political
-      bias.’  
-        
-        
-        
-      U.N. Ambassador Nikki Haley describing the U.N. Human Rights Council after
-      withdrawing the U.S. from the 47-member council. She blasted the council
-      for ‘its chronic bias against Israel’ & the fact that its membership
-      includes accused human rights abusers like China, Cuba, Venezuela & Congo.
+      <blockquote>‘a protector of human rights abusers, and a cesspool of
+      political bias.’<br><br><br><br>U.N. Ambassador Nikki Haley describing the
+      U.N. Human Rights Council after withdrawing the U.S. from the 47-member
+      council. She blasted the council for ‘its chronic bias against Israel’
+      &amp; the fact that its membership includes accused human rights abusers
+      like China, Cuba, Venezuela &amp; Congo.</blockquote>
     _key: card-3-c450bfaf-3364-48a6-92c5-e2d44c623ef8
   - order: 3
     useCheckmark: false
     body: >-
-      > “I couldn’t think of a more fitting change.”  
-        
-        
-        
-      Jason Kamras, Richmond superintendent after the board's vote to change a
-      Virginia school's name to Barack Obama Elementary. The school, which is
-      90% black, was originally named for Confederate general J.E.B. Stuart.
+      <blockquote>“I couldn’t think of a more fitting
+      change.”<br><br><br><br>Jason Kamras, Richmond superintendent after the
+      board's vote to change a Virginia school's name to Barack Obama
+      Elementary. The school, which is 90% black, was originally named for
+      Confederate general J.E.B. Stuart.</blockquote>
     _key: card-4-caf3b2b4-3c33-4b40-af5e-2fee433431ca
   - order: 4
     useCheckmark: false
     body: >-
-      > “extensive and damaging sabotage to our operations.’  
-        
-        
-      Elon Musk in an email seen by Reuters discussing an unnamed Tesla employee
-      who was allegedly making unspecified code changes to its manufacturing
-      operating system & sending what the email said was sensitive Tesla data to
-      unnamed third parties. The disgruntled employee was reportedly passed over
-      for a promotion.
+      <blockquote>“extensive and damaging sabotage to our
+      operations.’<br><br><br>Elon Musk in an email seen by Reuters discussing
+      an unnamed Tesla employee who was allegedly making unspecified code
+      changes to its manufacturing operating system &amp; sending what the email
+      said was sensitive Tesla data to unnamed third parties. The disgruntled
+      employee was reportedly passed over for a promotion.</blockquote>
     _key: card-5-efbbdab7-69fe-4160-ab6f-6cae7f79c6a3
   - order: 5
     useCheckmark: true
-    body: |-
-      Have a great day!
-
-      [view sources](https://smarthernews.com/18-06-19-qq-wed/)
+    body: >-
+      <div><p>Have a great day!</p><p><a
+      href="https://smarthernews.com/18-06-19-qq-wed/">view
+      sources</a></p></div>
     _key: card-10-a2191dd3-b80c-4ebc-9b1e-98ccdfa14cff
 
 ---

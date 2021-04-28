@@ -22,78 +22,53 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # BORDER DISPUTE
-
-
-      While the deadline looms for separated children to be returned to their
-      family, Americans living on the border receive word of a new wall coming
-      through.
-
-
-      FLIP FOR LATEST
+      <div><h1>BORDER DISPUTE</h1><p>While the deadline looms for separated
+      children to be returned to their family, Americans living on the border
+      receive word of a new wall coming through.</p><p>FLIP FOR LATEST</p></div>
     _key: card-1-ce2bf9c2-100a-48e9-9d98-f389fc363840
   - order: 1
     useCheckmark: false
     body: >-
-      ## Tuesday Deadline to Reunite Children Under 5
-
-
-      * **DOJ: Half will be reunitedA** by court-imposed deadline.
-
-      * Last Friday, DOJ asked for more time – only able to identify, locate &
-      vet**54 parents of 102 kids**.
-
-      * **Past deadline, now what?A** Judge can impose fines, but admits more
-      time needed. ACLU, which brought the lawsuit, says it just wants families
-      reunited fast.
+      <div><h2>Tuesday Deadline to Reunite Children Under
+      5</h2><ul><li><strong>DOJ: Half will be reunitedA</strong> by
+      court-imposed deadline.</li><li>Last Friday, DOJ asked for more time –
+      only able to identify, locate &amp; vet <strong>54 parents of 102
+      kids</strong>.</li><li><strong>Past deadline, now what?A</strong> Judge
+      can impose fines, but admits more time needed. ACLU, which brought the
+      lawsuit, says it just wants families reunited fast.</li></ul></div>
     _key: card-2-fc08df97-7de3-4be0-ac18-ab9de661d99c
   - order: 2
     useCheckmark: false
     body: >-
-      ## Judge Rejects Request to Hold Children Longer
-
-
-      * Decree states children in immigration detention**not be held more than
-      20 days**.
-
-      * Admin now may have 2 options:**release the family or split them up** -A
-      which Trump’s June 20 directive pledged to stop.
-
-      * **Older kids** to be reunited by**July 26**.
-
-
-
-
-      elsewhere on border...
+      <div><h2>Judge Rejects Request to Hold Children Longer</h2><ul><li>Decree
+      states children in immigration detention <strong>not be held more than 20
+      days</strong>.</li><li>Admin now may have 2 options: <strong>release the
+      family or split them up</strong> -A which Trump’s June 20 directive
+      pledged to stop.</li><li><strong>Older kids</strong> to be reunited by
+      <strong>July 26</strong>.</li></ul><p></p><p>elsewhere on
+      border...</p></div>
     _key: card-3-e4cc0627-223d-4fc7-acca-ed0c1e900264
   - order: 3
     useCheckmark: false
     body: >-
-      ## Border Wall Land Surveys
-
-
-      * More property owners along S. Texas border are**getting notices for a
-      possible border wall**.
-
-      * Border Patrol: the area,**Starr Co., most “volatile” stretch,**
-      currently lacks border wall.
-
-      * In March, Congress**approved $1.6B inA fedlA funding**A for 33 miles of
-      fencing in Rio Grande valley – half of what Border Patrol wanted.
-
-      * Pres. Trump has**requested $25B.**
+      <div><h2>Border Wall Land Surveys</h2><ul><li>More property owners along
+      S. Texas border are <strong>getting notices for a possible border
+      wall</strong>.</li><li>Border Patrol: the area, <strong>Starr Co., most
+      “volatile” stretch,</strong> currently lacks border wall.</li><li>In
+      March, Congress <strong>approved $1.6B inA fedlA funding</strong>A for 33
+      miles of fencing in Rio Grande valley – half of what Border Patrol
+      wanted.</li><li>Pres. Trump has <strong>requested
+      $25B.</strong></li></ul></div>
     _key: card-4-d4161135-6430-43b6-995b-e51a2009e868
   - order: 4
     useCheckmark: true
     body: >-
-      In Arizona, New Mexico & California, Federal Govt controls 60-foot wide
-      strip of land along the border. Not true in Texas, where almost all
-      property is private. Click for one reason why a fence in Texas's Starr
-      County has failed in the past.
-
-
-      [view
-      sources](https://smarthernews.com/18-07-10-immigration-separation-wall/)
+      <div><p>In Arizona, New Mexico &amp; California, Federal Govt controls
+      60-foot wide strip of land along the border. Not true in Texas, where
+      almost all property is private. Click for one reason why a fence in
+      Texas's Starr County has failed in the past.</p><p><a
+      href="https://smarthernews.com/18-07-10-immigration-separation-wall/">view
+      sources</a></p></div>
     _key: card-10-6706f1f4-a222-4101-8d20-4145db64bebe
 
 ---

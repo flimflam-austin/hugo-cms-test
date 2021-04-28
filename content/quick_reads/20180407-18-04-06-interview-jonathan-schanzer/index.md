@@ -22,27 +22,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## Story Of The Week
-
-
-      Important for**every American family** and the**future of the U.S.A**.
-
-
-      Jenna tackles this topic in the**first video interview** of SmartHer News.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/rUIOf__zcxc?enablejsapi=1&autoplay=1&rel=0)
+      <div><h2>Story Of The Week</h2><p>Important for <strong>every American
+      family</strong> and the <strong>future of the U.S.A</strong>.</p><p>Jenna
+      tackles this topic in the <strong>first video interview</strong> of
+      SmartHer News.</p><p><a
+      href="https://www.youtube.com/embed/rUIOf__zcxc?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     citation: Watch Now
     _key: card-1-fa4dee7d-054c-4e2e-9235-72c180cfac58
   - order: 1
     useCheckmark: true
     body: >-
-      Who should we interview next? Write us: Info@SmartHernews.com
-
-
-      [view
-      sources](https://smarthernews.com/18-04-06-interview-jonathan-schanzer/)
+      <div><p>Who should we interview next? Write us:
+      Info@SmartHernews.com</p><p><a
+      href="https://smarthernews.com/18-04-06-interview-jonathan-schanzer/">view
+      sources</a></p></div>
     _key: card-10-fb87211a-7988-4ec9-b4ac-dd1404072ce8
 
 ---

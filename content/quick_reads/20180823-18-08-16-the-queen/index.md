@@ -21,93 +21,75 @@ colorpaletteclassname: '--dark-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      ## THE QUEEN OF SOUL
-
-      > “Everybody wants respect.”  
-      Aretha Franklin in her own words.
+    body: >-
+      <div><h2>THE QUEEN OF SOUL</h2><blockquote>“Everybody wants
+      respect.”<br>Aretha Franklin in her own words.</blockquote></div>
     _key: card-1-45999faf-9a68-4e64-b0ce-3e965c320128
   - order: 1
     useCheckmark: false
     body: >-
-      > “I was concerned. I wasn’t afraid. My faith in God is too great for
-      that.”  
-        
-        
-        
-      Aretha Franklin on her health issues in recent years, including an
-      undisclosed surgery in 2010 in which she asked fans for prayers.
+      <blockquote>“I was concerned. I wasn’t afraid. My faith in God is too
+      great for that.”<br><br><br><br>Aretha Franklin on her health issues in
+      recent years, including an undisclosed surgery in 2010 in which she asked
+      fans for prayers.</blockquote>
     _key: card-2-4b8fbc7d-b12c-43a6-b12f-2b7543a0f2a2
   - order: 2
     useCheckmark: false
     body: >-
-      “You weren’t an overnight sensation. You had to work at it and learn your
-      craft: how to take care of your voice, how to pace your concerts, all that
-      trial and error. I paid my dues, I certainly did.”  
-        
-        
-      Franklin, the daughter of a pastor, got her start singing in church. By
-      age 14, she recorded her first album and went on tour with her father's
-      traveling revival show. At age 18 she went to New York, where she signed
-      with Columbia Records.
+      <p>“You weren’t an overnight sensation. You had to work at it and learn
+      your craft: how to take care of your voice, how to pace your concerts, all
+      that trial and error. I paid my dues, I certainly
+      did.”<br><br><br>Franklin, the daughter of a pastor, got her start singing
+      in church. By age 14, she recorded her first album and went on tour with
+      her father's traveling revival show. At age 18 she went to New York, where
+      she signed with Columbia Records.</p>
     _key: card-3-c2b64393-7e79-4575-92ca-af82d2ce1061
   - order: 3
     useCheckmark: false
     body: >-
-      > “Everybody wants respect. In their own way, three-year-olds would like
-      respect, and acknowledgment, in their terms.”  
-        
-        
-      On her 1967 #1 hit & signature song "Respect." Originally recorded by Otis
-      Redding, Franklin proudly acknowledged its civil & female rights roots,
-      noting she had written into her performance contract that she wouldn't
-      sing in front of a segregated crowd.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/0L4Bonnw484?enablejsapi=1&autoplay=1&rel=0)
+      <div><blockquote>“Everybody wants respect. In their own way,
+      three-year-olds would like respect, and acknowledgment, in their
+      terms.”<br><br><br>On her 1967 #1 hit &amp; signature song "Respect."
+      Originally recorded by Otis Redding, Franklin proudly acknowledged its
+      civil &amp; female rights roots, noting she had written into her
+      performance contract that she wouldn't sing in front of a segregated
+      crowd.</blockquote><p><a
+      href="https://www.youtube.com/embed/0L4Bonnw484?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-4-f62b6cd2-3c3d-4c61-bbe0-ea008a2dad01
   - order: 4
     useCheckmark: false
     body: >-
-      > “I do appreciate it, absolutely. But some very fine and dynamite people
-      paved the way for me… Sarah (Vaughn), Ella (Fitzgerald), and so on.”  
-        
-        
-      Franklin on how she feels when fellow music artists credit her for their
-      success. She recorded 48 albums, 43 Top 40 singles, won 18 Grammys & was
-      the first female ever inducted into the Rock and Roll Hall of Fame in
-      1987.
+      <blockquote>“I do appreciate it, absolutely. But some very fine and
+      dynamite people paved the way for me… Sarah (Vaughn), Ella (Fitzgerald),
+      and so on.”<br><br><br>Franklin on how she feels when fellow music artists
+      credit her for their success. She recorded 48 albums, 43 Top 40 singles,
+      won 18 Grammys &amp; was the first female ever inducted into the Rock and
+      Roll Hall of Fame in 1987.</blockquote>
     _key: card-5-256856c6-4e17-4bb3-a429-fc8f32522813
   - order: 5
     useCheckmark: false
     body: >-
-      > "Falling out of love is like losing weight. It’s a lot easier putting it
-      on than taking it off."  
-        
-        
-        
-      Aretha Franklin was married twice. She is survived by her 4 sons.
+      <blockquote>"Falling out of love is like losing weight. It’s a lot easier
+      putting it on than taking it off."<br><br><br><br>Aretha Franklin was
+      married twice. She is survived by her 4 sons.</blockquote>
     _key: card-6-02cb7689-bae1-4439-a092-97b27ddd05fa
   - order: 6
     useCheckmark: false
     body: >-
-      > "I love Wal-Mart and not just because my record is there. You can get
-      some things there that you cannot find at Saks or Bergdorf’s or other
-      upscale stores."  
-        
-        
-        
-      Aretha Franklin also used Walmart to workout. She told the NYPost: I walk
-      the Super Walmarts, the biggest ones. If people are in the aisle and the
-      store happens to be crowded that day, I go to other aisles.
+      <blockquote>"I love Wal-Mart and not just because my record is there. You
+      can get some things there that you cannot find at Saks or Bergdorf’s or
+      other upscale stores."<br><br><br><br>Aretha Franklin also used Walmart to
+      workout. She told the NYPost: I walk the Super Walmarts, the biggest ones.
+      If people are in the aisle and the store happens to be crowded that day, I
+      go to other aisles.</blockquote>
     _key: card-7-3268742f-d4c3-48f1-842f-5d30b1de6444
   - order: 7
     useCheckmark: true
-    body: |-
-      Aretha Franklin passed away Aug. 16, 2018 at the age of 76.
-
-      [view sources](https://smarthernews.com/18-08-16-the-queen/)
+    body: >-
+      <div><p>Aretha Franklin passed away Aug. 16, 2018 at the age of
+      76.</p><p><a href="https://smarthernews.com/18-08-16-the-queen/">view
+      sources</a></p></div>
     _key: card-10-ba5f81bf-98d5-4284-94a2-52e9a6de29d6
 
 ---

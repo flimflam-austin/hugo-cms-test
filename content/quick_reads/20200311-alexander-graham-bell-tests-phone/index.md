@@ -21,46 +21,39 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # March 10, 1876
-
-      First successful test of the telephone by Alexander Graham Bell.
+    body: >-
+      <div><h1>March 10, 1876</h1><p>First successful test of the telephone by
+      Alexander Graham Bell.</p></div>
     _key: cb08b4cff347
   - order: 1
     useCheckmark: false
     body: >-
-      > “…the day is coming when telegraph wires will be laid on to houses just
-      like water and gas — and friends converse with each other without leaving
-      home.”  
-        
-      Alexander Graham Bell wrote this in a letter to his father on the day of
-      his first successful telephone test when "articulate speech was
-      transmitted." Like his father, Bell taught school for the hearing
-      impaired; his mother & wife were both deaf. His knowledge of speech and
-      sound are said to have helped inspire his invention.
+      <div><blockquote>“…the day is coming when telegraph wires will be laid on
+      to houses just like water and gas — and friends converse with each other
+      without leaving home.”<br><br>Alexander Graham Bell wrote this in a letter
+      to his father on the day of his first successful telephone test when
+      "articulate speech was transmitted." Like his father, Bell taught school
+      for the hearing impaired; his mother &amp; wife were both deaf. His
+      knowledge of speech and sound are said to have helped inspire his
+      invention.</blockquote><p><br></p></div>
     _key: a4bd578e4a7c
   - order: 2
     useCheckmark: false
     body: >-
-      ## DID YOU KNOW?
-
-
-      **Alexander Graham Bell: lifelong inventor.**
-
-
-      * Bell invented a modern version of a**metal detector** used when Pres.
-      Garfield was shot to try to find the bullet; he was unsuccessful.
-
-      * Bell became involved in**aeronautics**, building kites that carried
-      passengers and powered aircrafts.
-
-      * Bell co-founded the**National Geographic Society**.
+      <div><h2>DID YOU KNOW?</h2><p><strong>Alexander Graham Bell: lifelong
+      inventor.</strong></p><ul><li>Bell invented a modern version of a
+      <strong>metal detector</strong> used when Pres. Garfield was shot to try
+      to find the bullet; he was unsuccessful.</li><li>Bell became involved in
+      <strong>aeronautics</strong>, building kites that carried passengers and
+      powered aircrafts.</li><li>Bell co-founded the <strong>National Geographic
+      Society</strong>.</li></ul></div>
     _key: e0745ea4753e
   - order: 3
     useCheckmark: true
     body: >-
-      Bell was 29 when he first successfully tested the telephone. Today, more
-      than 95% of Americans own a cell phone of some kind.
+      <div><p>Bell was 29 when he first successfully tested the telephone.
+      Today, more than 95% of Americans own a cell phone of some
+      kind.</p><p></p><p><br></p></div>
     citation: VIEW SOURCES
     _key: 58e219ce47f3
 

@@ -22,20 +22,18 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## _“Everybody can look up and say, ‘Look, the future is so much brighter
-      than the present.'”_
-
-
-      ##
+      <div><h2><em>“Everybody can look up and say, ‘Look, the future is so much
+      brighter than the present.'”</em></h2><h2></h2></div>
     citation: JIM BRIDENSTINE
     _key: d2b96ca4b068
   - order: 1
     useCheckmark: true
     body: >-
-      NASA Administrator Jim Bridenstine on the all-American launch of the
-      SpaceX Dragon spacecraft - the first time in American history NASA
+      <div><p>NASA Administrator Jim Bridenstine on the all-American launch of
+      the SpaceX Dragon spacecraft - the first time in American history NASA
       launched American astronauts on a commercially built American spacecraft
-      from American soil. Watch and read more on our source page.
+      from American soil. Watch and read more on our source
+      page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: e823fbf3f8bd
 

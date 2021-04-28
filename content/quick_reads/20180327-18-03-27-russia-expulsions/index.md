@@ -22,71 +22,43 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Russia Vows Retaliation
-
-
-      ## Twitter Poll Trolls US After Diplomats Expelled
-
-
-      > “What US Consulate General would you close in Russia, if it was up to
-      you to decide?”  
-        
-        
-        
-      Russia Embassy in US (@RusEmbUSA)
-
-
-      What Happened?
+      <div><h1>Russia Vows Retaliation</h1><h2>Twitter Poll Trolls US After
+      Diplomats Expelled</h2><blockquote>“What US Consulate General would you
+      close in Russia, if it was up to you to decide?”<br><br><br><br>Russia
+      Embassy in US (@RusEmbUSA)</blockquote><p>What Happened?</p></div>
     citation: What Happened?
     _key: card-1-1b83f67f-1456-4e26-b6ae-88039b429c15
   - order: 1
     useCheckmark: false
     body: >-
-      # Dasvidaniya!
-
-
-      ## U.S. Expels 60 Russians
-
-
-      America joins**nearly two dozen other nations** in kicking out Russian
-      diplomats.
-
-
-      ‘…**largest collective expulsion of Russian intelligence officers in
-      history”**_UK Prime Minister_
-
-
-      Flip For Why
+      <div><h1>Dasvidaniya!</h1><h2>U.S. Expels 60 Russians</h2><p>America joins
+      <strong>nearly two dozen other nations</strong> in kicking out Russian
+      diplomats.</p><p>‘…<strong>largest collective expulsion of Russian
+      intelligence officers in history”</strong> <em>UK Prime
+      Minister</em></p><p>Flip For Why</p></div>
     citation: Flip For Why
     _key: card-2-db65bea6-f67b-4b44-b0be-42e688438cb7
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why Now?
-
-
-      * Response to poisoning of an ex-Russian spy & his daughter (UK citizens)
-      on March 4th.
-
-      * Allies of UK show united front against attack & use of chemical weapon
-      (military grade poison).
-
-      * Concerns about an emboldened Russia attacking on foreign soil.
-
-      * Add into the mix: Russia’s aggression in Ukraine & Syria.
+      <div><h2>Why Now?</h2><ul><li>Response to poisoning of an ex-Russian spy
+      &amp; his daughter (UK citizens) on March 4th.</li><li>Allies of UK show
+      united front against attack &amp; use of chemical weapon (military grade
+      poison).</li><li>Concerns about an emboldened Russia attacking on foreign
+      soil.</li><li>Add into the mix: Russia’s aggression in Ukraine &amp;
+      Syria.</li></ul></div>
     _key: card-3-d2a6a133-9d6f-4221-9704-7f0c04c372d2
   - order: 3
     useCheckmark: false
-    body: "## The New Cold War?\n\n“Look, we want to work with Russia, but**this type of an action cannot be tolerated**. The United States is responding to Russia’s action a\x14 as I called it, brazen and reckless…You know, the ball is in their court with respect to how they want to respond.”\n\nWhite House Principal Deputy Press Secretary Raj Shah, March 26, 2018"
+    body: "<div><h2>The New Cold War?</h2><p>“Look, we want to work with Russia, but <strong>this type of an action cannot be tolerated</strong>. The United States is responding to Russia’s action a\x14 as I called it, brazen and reckless…You know, the ball is in their court with respect to how they want to respond.”</p><p>White House Principal Deputy Press Secretary Raj Shah, March 26, 2018</p></div>"
     _key: card-4-cc1dbb00-6689-49c2-9c2d-5cb5e0818cee
   - order: 4
     useCheckmark: true
     body: >-
-      While important, this tit-for-tat expulsion of diplomats isn't new - It
-      dates back to the *first* Cold War. Read More:
-
-
-      [view sources](https://smarthernews.com/18-03-27-russia-expulsions/)
+      <div><p>While important, this tit-for-tat expulsion of diplomats isn't new
+      - It dates back to the *first* Cold War. Read More:</p><p><a
+      href="https://smarthernews.com/18-03-27-russia-expulsions/">view
+      sources</a></p></div>
     _key: card-10-104161ad-4281-4bce-be47-36b9a05e54e6
 
 ---

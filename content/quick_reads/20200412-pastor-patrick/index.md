@@ -22,20 +22,21 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“I think the question of faith here is what is God going to use out of
-      this pandemic, out of this virus, out of these uncertain times, to allow
-      us to see Him more clearly, to see ourselves more clearly, and to see our
-      neighbors more clearly.”_
+      <div><blockquote><em>“I think the question of faith here is what is God
+      going to use out of this pandemic, out of this virus, out of these
+      uncertain times, to allow us to see Him more clearly, to see ourselves
+      more clearly, and to see our neighbors more
+      clearly.”</em></blockquote><p></p></div>
     citation: PATRICK THOMPSON
     _key: 6322d73f6b23
   - order: 1
     useCheckmark: true
     body: >-
-      Pastor Patrick Thompson recovered recently from COVID-19 and during his
-      illness help create a relief effort in Queens, the hardest hit area of New
-      York City, to feed the hungry. $5 provides a meal for those in need AND
-      helps keep restaurants open and workers employed. You can join him in his
-      efforts. Click source page for more.
+      <div><p>Pastor Patrick Thompson recovered recently from COVID-19 and
+      during his illness help create a relief effort in Queens, the hardest hit
+      area of New York City, to feed the hungry. $5 provides a meal for those in
+      need AND helps keep restaurants open and workers employed. You can join
+      him in his efforts. Click source page for more.</p><p></p></div>
     citation: VIEW SOURCES
     _key: f8097926d6be
 

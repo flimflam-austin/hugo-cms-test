@@ -21,65 +21,44 @@ colorpaletteclassname: '--light-purple'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      # JLO GLOW…
-
-      soon to be packaged & sold by European makeup line “Inglot”.
-
-      Bigger Picture: Flip
+    body: >-
+      <div><h1>JLO GLOW…</h1><p>soon to be packaged &amp; sold by European
+      makeup line “Inglot”.</p><p>Bigger Picture: Flip</p></div>
     citation: 'Bigger Picture: Flip'
     _key: card-1-c3c9f816-949e-4a8d-a29f-7d939bca5b27
   - order: 1
     useCheckmark: false
     body: >-
-      ## From The Block To The Biz
-
-
-      * We don’t know details of the partnership between Jennifer Lopez &
-      Poland-based Inglot.
-
-      * We**do know** celebs have taken positions within beauty companies
-      themselves, invested or taken equity (ownership).**This is a SHIFT away
-      from simply being “The Face” of the brand.**
-
-
-      Why Now?
+      <div><h2>From The Block To The Biz</h2><ul><li>We don’t know details of
+      the partnership between Jennifer Lopez &amp; Poland-based
+      Inglot.</li><li>We <strong>do know</strong> celebs have taken positions
+      within beauty companies themselves, invested or taken equity (ownership).
+      <strong>This is a SHIFT away from simply being “The Face” of the
+      brand.</strong></li></ul><p>Why Now?</p></div>
     citation: Why Now?
     _key: card-2-e0cd28fa-9f00-4696-87ef-8810d559aff0
   - order: 2
     useCheckmark: false
-    body: "## Beauty Industry Billions\n\n>   \n  \nLarissa Jensen, The NPD Group\n\n* $17.7 B = U.S. beauty business.\n* Makeup = biggest segment.”As beauty brands and retailers look to understand a\x18what’s next’…their focus should be on developing new and alternative ways to engage with consumers.”"
+    body: "<div><h2>Beauty Industry Billions</h2><blockquote><br><br>Larissa Jensen, The NPD Group</blockquote><ul><li>$17.7 B = U.S. beauty business.</li><li>Makeup = biggest segment.”As beauty brands and retailers look to understand a\x18what’s next’…their focus should be on developing new and alternative ways to engage with consumers.”</li></ul></div>"
     _key: card-3-98f9cd83-72c6-4cf2-93b7-870941c51dc3
   - order: 3
     useCheckmark: false
     body: >-
-      ## What’s JLO Selling?
-
-
-      * 70 products
-
-      * Highest price item: $49 eyeshadow palette
-
-      * Price point:A $8.50 to $26
-
-      * Launches April 26
-
-      * Interesting Fact? Inglot, based in Poland, manufactures most of its
-      makeup in Europe.
-
-
-      [Click: Link To Site](http://jenniferlopezinglot.com/)
+      <div><h2>What’s JLO Selling?</h2><ul><li>70 products</li><li>Highest price
+      item: $49 eyeshadow palette</li><li>Price point:A $8.50 to
+      $26</li><li>Launches April 26</li><li>Interesting Fact? Inglot, based in
+      Poland, manufactures most of its makeup in Europe.</li></ul><p><a
+      href="http://jenniferlopezinglot.com/">Click: Link To Site</a></p></div>
     citation: 'Click: Link To Site'
     _key: card-4-9fad1f07-fd42-4a3a-b847-39bcaa0350ad
   - order: 4
     useCheckmark: true
     body: >-
-      "Larger-than-life campaigns, with untouchable stars, hold little appeal to
-      a generation brought up on YouTube influencers..." Read More Here:
-
-
-      [view
-      sources](https://smarthernews.com/18-04-10-jlo-world-domination-continues/)
+      <div><p>"Larger-than-life campaigns, with untouchable stars, hold little
+      appeal to a generation brought up on YouTube influencers..." Read More
+      Here:</p><p><a
+      href="https://smarthernews.com/18-04-10-jlo-world-domination-continues/">view
+      sources</a></p></div>
     _key: card-10-8b1db7d9-2274-494d-b2b5-0697a684ebcc
 
 ---

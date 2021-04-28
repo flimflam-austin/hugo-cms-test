@@ -22,53 +22,42 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Blind Spot Breakthrough?  
-
-      Backup Cameras
-
-
-      New federal rule will require all newly manufactured cars to come equipped
-      with backup cameras to prevent backup related accidents.
-
-
-      Each year “**backover crashes**” result in 200+ fatalities; more than 50%
-      are kids under 5 & adults over 70.
+      <div><p>Blind Spot Breakthrough?<br>Backup Cameras </p><p>New federal rule
+      will require all newly manufactured cars to come equipped with backup
+      cameras to prevent backup related accidents.</p><p>Each year
+      “<strong>backover crashes</strong>” result in 200+ fatalities; more than
+      50% are kids under 5 &amp; adults over 70.</p></div>
     _key: card-1-f2366f86-ab55-4565-9e0c-15e6d4082d3b
   - order: 1
     useCheckmark: false
     body: >-
-      > **"It’s a bittersweet day because this rule should have been in place
-      many years ago. Though his own life was short, my son Cameron inspired a
-      regulation that will save the lives of countless others.”**  
-        
-      Dr. Greg Gulbransen, a pediatrician who accidentally killed his 2-year-old
-      son Cameron when he backed over him with his vehicle in 2002. His work led
-      to Cameron Gulbransen Kids. Transportation Safety Act of 2007', which
-      eventually led to this new rule.
+      <blockquote><strong>"It’s a bittersweet day because this rule should have
+      been in place many years ago. Though his own life was short, my son
+      Cameron inspired a regulation that will save the lives of countless
+      others.”</strong><br><br>Dr. Greg Gulbransen, a pediatrician who
+      accidentally killed his 2-year-old son Cameron when he backed over him
+      with his vehicle in 2002. His work led to Cameron Gulbransen Kids.
+      Transportation Safety Act of 2007', which eventually led to this new
+      rule.</blockquote>
     _key: card-2-570e3912-8deb-4d8b-8ceb-adac74ff6246
   - order: 2
     useCheckmark: false
     body: >-
-      ## Will It Work? Is it Enough?
-
-
-      According to a 2017 Insurance Institute for Highway Safety (IIHS)
-      study,**backup cameras reduced backup related crashes by 17%.**
-
-
-      HOWEVER, a 2018 IIHS study found that cars equipped with backup
-      cameras**AND rear breaking systems with parking sensors** can reduce
-      backup related crash rates by**75%.**
+      <div><h2>Will It Work? Is it Enough?</h2><p>According to a 2017 Insurance
+      Institute for Highway Safety (IIHS) study, <strong>backup cameras reduced
+      backup related crashes by 17%.</strong></p><p>HOWEVER, a 2018 IIHS study
+      found that cars equipped with backup cameras <strong>AND rear breaking
+      systems with parking sensors</strong> can reduce backup related crash
+      rates by <strong>75%.</strong></p></div>
     _key: card-3-6a10ce90-1787-41fc-92df-d2e40c07cae0
   - order: 3
     useCheckmark: true
     body: >-
-      Backup crashes account for about 2% of all passenger vehicle accidents,
-      according to data from the National Highway Traffic Safety Administration.
-      Read more here:
-
-
-      [view sources](https://smarthernews.com/18-05-02-blind-spot-breakthrough/)
+      <div><p>Backup crashes account for about 2% of all passenger vehicle
+      accidents, according to data from the National Highway Traffic Safety
+      Administration. Read more here:</p><p><a
+      href="https://smarthernews.com/18-05-02-blind-spot-breakthrough/">view
+      sources</a></p></div>
     _key: card-10-58d002b8-43f4-47d9-b1e7-4549364cd771
 
 ---

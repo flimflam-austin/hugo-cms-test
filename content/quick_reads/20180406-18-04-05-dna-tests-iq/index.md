@@ -22,52 +22,36 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Brain Power Predictor?
-
-
-      ## How Your Spit May Shine A Light On Your Smarts
-
-
-      New research says your intelligence has more to do with your ancestors
-      than your environment — and now it can be predicted using your DNA (easily
-      collected via a cheek swab).
-
-
-      Flip: How It Works
+      <div><h1>Brain Power Predictor?</h1><h2>How Your Spit May Shine A Light On
+      Your Smarts</h2><p>New research says your intelligence has more to do with
+      your ancestors than your environment — and now it can be predicted using
+      your DNA (easily collected via a cheek swab).</p><p>Flip: How It
+      Works</p></div>
     citation: 'Flip: How It Works'
     _key: card-1-926e04cf-3920-4dfb-8a2d-d0f3ddaf74f7
   - order: 1
     useCheckmark: false
-    body: "DNA Tests for IQ\n\n* In a study of 240,000 people, researchers found**500+ genes linked to intelligence**.\n* Previous research:**50-75% of smarts inherited**, rest is a\x18nurture.’\n* Science isn’t perfect, but discoveries mean a young child’s DNA could**give a sense of how intelligent he/she will be.**\n\nis this a good thing?"
+    body: "<div><p>DNA Tests for IQ</p><ul><li>In a study of 240,000 people, researchers found <strong>500+ genes linked to intelligence</strong>.</li><li>Previous research: <strong>50-75% of smarts inherited</strong>, rest is a\x18nurture.’</li><li>Science isn’t perfect, but discoveries mean a young child’s DNA could <strong>give a sense of how intelligent he/she will be.</strong></li></ul><p>is this a good thing?</p></div>"
     citation: is this a good thing?
     _key: card-2-5f7c3573-9594-4160-981f-328c882af260
   - order: 2
     useCheckmark: false
     body: >-
-      ## Online Services Offer to Quantify Your Genetic IQ
-
-
-      > GenePlaza and DNA Land will test using a spit sample, but with a major
-      disclaimer…  
-        
-        
-        
-      _‘I hope people are not getting it thinking that this is a true measure of
-      their intelligence.”_  
-        
-        
-        
-      Alain Coletta, GenePlaza Founder
+      <div><h2>Online Services Offer to Quantify Your Genetic
+      IQ</h2><blockquote>GenePlaza and DNA Land will test using a spit sample,
+      but with a major disclaimer…<br><br><br><br><em>‘I hope people are not
+      getting it thinking that this is a true measure of their
+      intelligence.”</em><br><br><br><br>Alain Coletta, GenePlaza
+      Founder</blockquote></div>
     _key: card-3-a84ce743-c118-42f4-aa9a-852de84fbc1c
   - order: 3
     useCheckmark: true
     body: >-
-      What if you were able toA pick the smartest embryo from an IVF dish,
-      choose the best sperm donor, or discover fetuses at high risk for autism?
-      Should you? You decide.
-
-
-      [view sources](https://smarthernews.com/18-04-05-dna-tests-iq/)
+      <div><p>What if you were able toA pick the smartest embryo from an IVF
+      dish, choose the best sperm donor, or discover fetuses at high risk for
+      autism? Should you? You decide.</p><p><a
+      href="https://smarthernews.com/18-04-05-dna-tests-iq/">view
+      sources</a></p></div>
     _key: card-10-f4cfcb68-1773-4ba8-96ea-926769569278
 
 ---

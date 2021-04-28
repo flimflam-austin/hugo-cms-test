@@ -22,57 +22,41 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## “…in the blink of an eye…”
-
-
-      > _“There is not a day that goes by that I don’t pray for the opportunity
-      to go back to that day and make it different. But now we have the
-      opportunity to make other parents day’s different.”_  
-        
-        
-        
-      Morgan Beck Miller, wife of skier Bode Miller, speaking about the drowning
-      death of daughter, Emeline. The Millers want to educate the public about
-      the dangers of drowning.
+      <div><h2>“…in the blink of an eye…”</h2><blockquote><em>“There is not a
+      day that goes by that I don’t pray for the opportunity to go back to that
+      day and make it different. But now we have the opportunity to make other
+      parents day’s different.”</em><br><br><br><br>Morgan Beck Miller, wife of
+      skier Bode Miller, speaking about the drowning death of daughter, Emeline.
+      The Millers want to educate the public about the dangers of
+      drowning.</blockquote></div>
     _key: card-1-d28e911b-e94e-49f8-8b5f-ca2362e5fcf5
   - order: 1
     useCheckmark: false
     body: >-
-      > Every single day in America…  
-        
-        
-        
-      **3 children** will die from drowning.  
-        
-        
-        
-      The CDC also states "drowning kills more children 1-4 than anything else
-      except birth defects."
+      <blockquote>Every single day in America…<br><br><br><br><strong>3
+      children</strong> will die from drowning.<br><br><br><br>The CDC also
+      states "drowning kills more children 1-4 than anything else except birth
+      defects."</blockquote>
     _key: card-2-9345a0d6-a76f-4f1a-8faf-c97ab5c5eed9
   - order: 2
     useCheckmark: false
     body: >-
-      ## What You Should Know:
-
-
-      * **Drowning is #2 cause of accidental death in kids** (0-14); #1 cause of
-      death is car crashes.
-
-      * **Men & boys are more likely to drown**; 80% of deaths are male.
-
-      * For adolescents and adults,**alcohol**A**involved****in up to 70% of
-      drowning deaths**.
-
-      * July/August = deadliest months.
+      <div><h2>What You Should Know:</h2><ul><li><strong>Drowning is #2 cause of
+      accidental death in kids</strong> (0-14); #1 cause of death is car
+      crashes.</li><li><strong>Men &amp; boys are more likely to drown</strong>;
+      80% of deaths are male.</li><li>For adolescents and adults,
+      <strong>alcohol</strong>A <strong>involved</strong> <strong>in up to 70%
+      of drowning deaths</strong>.</li><li>July/August = deadliest
+      months.</li></ul></div>
     _key: card-3-f0bed949-764a-4bb3-a573-0a8674603881
   - order: 3
     useCheckmark: true
     body: >-
-      ‘A child under 30 pounds can drown in 30 seconds....And I just keep
-      counting to 30 in my head. That was all I needed.’ Morgan Beck Miller
-
-
-      [view sources](https://smarthernews.com/18-07-30-honoring-emeline-miller/)
+      <div><p>‘A child under 30 pounds can drown in 30 seconds....And I just
+      keep counting to 30 in my head. That was all I needed.’ Morgan Beck
+      Miller</p><p><a
+      href="https://smarthernews.com/18-07-30-honoring-emeline-miller/">view
+      sources</a></p></div>
     _key: card-10-5ff5b055-d541-40f1-b97a-9ebd58990554
 
 ---

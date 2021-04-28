@@ -22,54 +22,45 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "We want children to rediscover the real, that connection to the
-      concrete, to nature, to do doing things with their hands, to contact with
-      other human beings.”  
-        
-        
-      France’s education minister, Jean-Michel Blanquer, on France's new ban on
-      cell phones from pre-K to 9th grade. Blanquer has 2 smartphones and says
-      he wants to ensure man is the master of the machine - not deny tech
-      advancements.
+      <blockquote>"We want children to rediscover the real, that connection to
+      the concrete, to nature, to do doing things with their hands, to contact
+      with other human beings.”<br><br><br>France’s education minister,
+      Jean-Michel Blanquer, on France's new ban on cell phones from pre-K to 9th
+      grade. Blanquer has 2 smartphones and says he wants to ensure man is the
+      master of the machine - not deny tech advancements.</blockquote>
     _key: card-1-3295434a-75d3-44bf-9968-96cb1ae39c83
   - order: 1
     useCheckmark: false
     body: >-
-      > “I’ve been sleeping next to this kidney for thirty years. It knows me.A
-      So I’m hoping it stays with me for a good long time.”  
-        
-        
-      Lesley Kennedy on receiving her husband kidney. Lesley has Polycystic
-      Kidney Disease and could have waited years for a donor, if her husband
-      wasn't a perfect match. After their surgeries, the Seattle couple said "We
-      can truly say we are a team. We were a team before, but now we're really a
-      team."
+      <blockquote>“I’ve been sleeping next to this kidney for thirty years. It
+      knows me.A So I’m hoping it stays with me for a good long
+      time.”<br><br><br>Lesley Kennedy on receiving her husband kidney. Lesley
+      has Polycystic Kidney Disease and could have waited years for a donor, if
+      her husband wasn't a perfect match. After their surgeries, the Seattle
+      couple said "We can truly say we are a team. We were a team before, but
+      now we're really a team."</blockquote>
     _key: card-2-a95ef78b-46ce-4e1b-9a0c-38e0ad197953
   - order: 2
     useCheckmark: false
     body: >-
-      > “I’ll just leave that to your imagination.”  
-        
-        
-        
-      Former aide to President Trump Omarosa Manigault Newman on TODAY
-      discussing (or not) how she covertly recorded her December 2017 firing by
-      White House Chief of Staff John Kelly in the Situation Room. She alleges
-      the President is not fit for office.
+      <blockquote>“I’ll just leave that to your
+      imagination.”<br><br><br><br>Former aide to President Trump Omarosa
+      Manigault Newman on TODAY discussing (or not) how she covertly recorded
+      her December 2017 firing by White House Chief of Staff John Kelly in the
+      Situation Room. She alleges the President is not fit for
+      office.</blockquote>
     _key: card-3-d788846e-dda7-431a-bb80-083a662aeaf1
   - order: 3
     useCheckmark: false
-    body: "\"The very idea a staff member would sneak a recording device into the White House Situation Room, shows a blatant disregard for our national security a\x13 and then to brag about it on national television further proves the lack of character and integrity of this disgruntled former White House employee.”  \n  \n  \nWH Press Sec. Sarah Huckabee Sanders in response to Omarosa Manigault Newman's first national interviews."
+    body: "<p>\"The very idea a staff member would sneak a recording device into the White House Situation Room, shows a blatant disregard for our national security a\x13 and then to brag about it on national television further proves the lack of character and integrity of this disgruntled former White House employee.”<br><br><br>WH Press Sec. Sarah Huckabee Sanders in response to Omarosa Manigault Newman's first national interviews.</p>"
     _key: card-4-66ddc312-c184-4b8e-b65f-6fdb68c66452
   - order: 4
     useCheckmark: true
     body: >-
-      Check out our source page for a SmartHER Take on kids and cell phones. Do
-      you think an all-out ban on cell phones in American schools would work?
-      Have a great day!
-
-
-      [view sources](https://smarthernews.com/18-08-14-qq/)
+      <div><p>Check out our source page for a SmartHER Take on kids and cell
+      phones. Do you think an all-out ban on cell phones in American schools
+      would work? Have a great day!</p><p><a
+      href="https://smarthernews.com/18-08-14-qq/">view sources</a></p></div>
     _key: card-10-56707a29-e226-4b04-b81d-9fa7906b6e1f
 
 ---

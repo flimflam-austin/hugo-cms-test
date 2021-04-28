@@ -22,54 +22,46 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## August 28, 1963
-
-
-      > **“I have a dream…”**  
-        
-      Hundreds of thousands of Americans participate in one of the most
-      prominent rallies in U.S. history, and hear one of Martin Luther King
-      Jr.’s most famous speeches.  
-        
-      One of the most well-known lines wasn’t in his written remarks.
+      <div><h2>August 28, 1963</h2><blockquote><strong>“I have a
+      dream…”</strong><br><br>Hundreds of thousands of Americans participate in
+      one of the most prominent rallies in U.S. history, and hear one of Martin
+      Luther King Jr.’s most famous speeches.<br><br>One of the most well-known
+      lines wasn’t in his written remarks.</blockquote></div>
     _key: 33905b8f5aa8
   - order: 1
     useCheckmark: false
-    body: "## Backstory\n\n* **March on Washington for Jobs and Freedom**: Full name reflects the initial goal of promoting economic equality along with racial equality.\n* Goal: Place pressure on the Kennedy admin. to develop legislation later known as the**1964 Civil Rights Act.\_**\n* Much debate occurred about who would talk, when, and for how long.**Dr. Martin Luther King Jr. spoke last.**"
+    body: "<div><h2>Backstory</h2><ul><li><strong>March on Washington for Jobs and Freedom</strong>: Full name reflects the initial goal of promoting economic equality along with racial equality.</li><li>Goal: Place pressure on the Kennedy admin. to develop legislation later known as the <strong>1964 Civil Rights Act.\_</strong></li><li>Much debate occurred about who would talk, when, and for how long. <strong>Dr. Martin Luther King Jr. spoke last.</strong></li></ul></div>"
     _key: c9bdaf6ed1c8
   - order: 2
     useCheckmark: false
     body: >-
-      > “I still have a dream. It is a dream deeply rooted in the American
-      dream. I have a dream that one day this nation will rise up and live out
-      the true meaning of its creed: “We hold these truths to be self-evident,
-      that all men are created equal.”
-
-
-      Dr. Martin Luther King Jr. reportedly had no references to "a dream" in
-      his prepared remarks, but ad-libbed these remarks in 1963, marking 100
-      years since the Emancipation Proclamation.
+      <div><blockquote>“I still have a dream. It is a dream deeply rooted in the
+      American dream. I have a dream that one day this nation will rise up and
+      live out the true meaning of its creed: “We hold these truths to be
+      self-evident, that all men are created equal.”</blockquote><p>Dr. Martin
+      Luther King Jr. reportedly had no references to "a dream" in his prepared
+      remarks, but ad-libbed these remarks in 1963, marking 100 years since the
+      Emancipation Proclamation.</p></div>
     _key: '808e78308013'
   - order: 3
     useCheckmark: false
     body: >-
-      > “I turned to somebody standing next to me and I said, ‘These people
-      don’t know it, but they’re about to go to church.'”
-
-
-      Dr. Martin Luther King Jr.'s attorney, Clarence Jones, said he heard
-      gospel singer, Mahlia Jackson, yell to King during a pause for audience
-      applause, "Tell them about the dream, Martin. Tell them about the dream’."
-      Jones' says King drew upon his experience and themes he used as a preacher
-      to improvise the rest of the speech.
+      <div><blockquote>“I turned to somebody standing next to me and I said,
+      ‘These people don’t know it, but they’re about to go to
+      church.'”</blockquote><p>Dr. Martin Luther King Jr.'s attorney, Clarence
+      Jones, said he heard gospel singer, Mahlia Jackson, yell to King during a
+      pause for audience applause, "Tell them about the dream, Martin. Tell them
+      about the dream’." Jones' says King drew upon his experience and themes he
+      used as a preacher to improvise the rest of the speech.</p></div>
     _key: 88ac39e9ca13
   - order: 4
     useCheckmark: true
     body: >-
-      The crowd and speakers reflected Americans of different races and
+      <div><p>The crowd and speakers reflected Americans of different races and
       backgrounds. Paralleling the news cycle of this past week, MLK Jr. spoke
       about police brutality, civil unrest and the relationship between white
-      and black Americans. Read or listen to his speech on our source page.
+      and black Americans. Read or listen to his speech on our source
+      page.</p><p></p></div>
     citation: VIEW SOURCES
     _key: a8a68f6c845c
 

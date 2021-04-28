@@ -22,65 +22,55 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "Once again, we are the economic envy of the entire world.”  
-        
-      President Trump describing Friday's economic data that showed gross
-      domestic product (GDP) increased 4.1% in second quarter. Strong consumer &
-      business spending and a surge in exports ahead of tariffs helped drive
-      America's best quarter of growth in nearly 4 years. The first of 3
-      readings, this number may be further revised.
+      <blockquote>"Once again, we are the economic envy of the entire
+      world.”<br><br>President Trump describing Friday's economic data that
+      showed gross domestic product (GDP) increased 4.1% in second quarter.
+      Strong consumer &amp; business spending and a surge in exports ahead of
+      tariffs helped drive America's best quarter of growth in nearly 4 years.
+      The first of 3 readings, this number may be further revised.</blockquote>
     _key: card-1-42d91ae8-7bd3-4841-8659-2d876da86729
   - order: 1
     useCheckmark: false
-    body: "“The whole city is in flames, and the stuff is falling out of the sky. I want to call it a\x18Silent Night,’ but that’s not it. This is spooky.”  \n  \n  \nChristine Shields on a raging wildfire near Redding, California and how the scene reminded her of a horror or science fiction film. Her mother died in the blaze. More than a dozen wildfires are burning in California, prompting the President to sign an emergency declaration for federal help."
+    body: "<p>“The whole city is in flames, and the stuff is falling out of the sky. I want to call it a\x18Silent Night,’ but that’s not it. This is spooky.”<br><br><br>Christine Shields on a raging wildfire near Redding, California and how the scene reminded her of a horror or science fiction film. Her mother died in the blaze. More than a dozen wildfires are burning in California, prompting the President to sign an emergency declaration for federal help.</p>"
     _key: card-2-90041ced-5710-4468-94ae-e8121886beea
   - order: 2
     useCheckmark: false
     body: >-
-      "The Hollywood Walk of Fame is an institution celebrating the positive
+      <p>"The Hollywood Walk of Fame is an institution celebrating the positive
       contributions of the inductees…. Our democracy is based on respect for the
       law. People can make a difference by voting and not destroying public
-      property."  
-        
-      Leron Gubler, President/CEO of the Hollywood Chamber of Commerce, on the
-      chamber's decision to repair (not remove) the star honoring Donald Trump
-      despite it being repeatedly vandalized and a site of violent protest.
+      property."<br><br>Leron Gubler, President/CEO of the Hollywood Chamber of
+      Commerce, on the chamber's decision to repair (not remove) the star
+      honoring Donald Trump despite it being repeatedly vandalized and a site of
+      violent protest.</p>
     _key: card-3-3e51f400-7dba-4782-8246-8e5bdd4639d8
   - order: 3
     useCheckmark: false
     body: >-
-      > “My senior colleague, Justice John Paul Stevens, he stepped down when he
-      was 90, so think I have about at least five more years.”  
-        
-        
-      Supreme Court Justice Ruth Bader Ginsburg (85) on her hopes to remain on
-      the court for years to come. In 1993, Ginsburg was appointed to the court
-      by President Clinton.
+      <blockquote>“My senior colleague, Justice John Paul Stevens, he stepped
+      down when he was 90, so think I have about at least five more
+      years.”<br><br><br>Supreme Court Justice Ruth Bader Ginsburg (85) on her
+      hopes to remain on the court for years to come. In 1993, Ginsburg was
+      appointed to the court by President Clinton.</blockquote>
     _key: card-4-016894fb-443d-4416-923a-0c48081c7a7c
   - order: 4
     useCheckmark: false
     body: >-
-      > “Our mission is to bring happiness.”  
-        
-        
-      John Cronin who partnered with his father to create John's Crazy Socks.
-      The 22-year-old with Down Syndrome has a passion for socks & calls
+      <div><blockquote>“Our mission is to bring happiness.”<br><br><br>John
+      Cronin who partnered with his father to create John's Crazy Socks. The
+      22-year-old with Down Syndrome has a passion for socks &amp; calls
       President George H.W. Bush a customer. The father-son pair have grown the
-      year-and-a-half old sock business into a $4M empire.
-
-
-      [Watch his
-      story](https://mobile.reuters.com/video/2018/07/24/down-syndrome-doesnt-hold-back-4-million?videoId=448549169&videoChannel=4)
+      year-and-a-half old sock business into a $4M empire.</blockquote><p><a
+      href="https://mobile.reuters.com/video/2018/07/24/down-syndrome-doesnt-hold-back-4-million?videoId=448549169&amp;videoChannel=4">Watch
+      his story</a></p></div>
     _key: card-5-e9595dcc-1ddf-4a0b-93ed-8abb91b3742c
   - order: 5
     useCheckmark: true
     body: >-
-      Want us to look into a news story or two? Leave a comment on our Instagram
-      account or email us: Info@SmartHERNews.com. It's made-to-order
-      news-you-can-use!
-
-
-      [view sources](https://smarthernews.com/18-07-30-qq/)
+      <div><p>Want us to look into a news story or two? Leave a comment on our
+      Instagram account or email us: Info@SmartHERNews.com. It's made-to-order
+      news-you-can-use!</p><p><a
+      href="https://smarthernews.com/18-07-30-qq/">view sources</a></p></div>
     _key: card-10-23894624-245e-411e-ba57-6c89092d8a91
 
 ---

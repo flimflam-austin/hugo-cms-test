@@ -22,75 +22,49 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # NORTH KOREA
-
-
-      ## Champagne Taste…Beer Budget?
-
-
-      Will your tax dollars pay for North Korea’s luxury hotel during the
-      historic June 12th summit?
-
-
-      Hold Up. Wait A Minute.
+      <div><h1>NORTH KOREA</h1><h2>Champagne Taste…Beer Budget?</h2><p>Will your
+      tax dollars pay for North Korea’s luxury hotel during the historic June
+      12th summit?</p><p>Hold Up. Wait A Minute.</p></div>
     _key: card-1-c9f38a83-e883-46a4-ba3b-65b4d1abce47
   - order: 1
     useCheckmark: false
     body: >-
-      ## Reports: What’s Going On
-
-
-      * Washington Post: North Korea wants its hotel bill paid as a condition of
-      Singapore meeting.
-
-      * Report: NoKo wants to stay at a luxury hotel: “The Fullerton” where
-      presidential suites cost about $6,000/night.
-
-      * U.S. State Dept: U.S. isn’t paying and not asking others to do so.
-
-
-      [Click HERE: See
-      Hotel](https://www.fullertonhotels.com/the-fullerton-hotel)
+      <div><h2>Reports: What’s Going On</h2><ul><li>Washington Post: North Korea
+      wants its hotel bill paid as a condition of Singapore
+      meeting.</li><li>Report: NoKo wants to stay at a luxury hotel: “The
+      Fullerton” where presidential suites cost about $6,000/night.</li><li>U.S.
+      State Dept: U.S. isn’t paying and not asking others to do
+      so.</li></ul><p><a
+      href="https://www.fullertonhotels.com/the-fullerton-hotel">Click HERE: See
+      Hotel</a></p></div>
     _key: card-2-8b2b9410-6dd8-417e-bc9a-b8e0a44d2dfa
   - order: 2
     useCheckmark: false
     body: >-
-      ## How Much Will The Summit Cost?
-
-
-      **Short Answer: No one knows.**
-
-
-      We don’t even know the precise location of the summit (a resort island
-      called “Sentosa” rumored as meeiting ground).
-
-
-      Singapore says: “…we’re willing to bear (some of the costs) to play a
-      small part in this historic meeting.”
+      <div><h2>How Much Will The Summit Cost?</h2><p><strong>Short Answer: No
+      one knows.</strong></p><p>We don’t even know the precise location of the
+      summit (a resort island called “Sentosa” rumored as meeiting
+      ground).</p><p>Singapore says: “…we’re willing to bear (some of the costs)
+      to play a small part in this historic meeting.”</p></div>
     _key: card-3-f9946014-30a7-4997-8aa3-6d9f1d6e0d74
   - order: 3
     useCheckmark: false
-    body: |-
-      ## Nobel Peace Prize Winner Steps Forward
-
-      ICAN =A International Campaign to Abolish Nuclear Weapons.
-
-      Based in Geneva; coalition of NGOs (non-governmental organizations).
-
-      Offers to use Nobel Peace prize money (about $1M) to foot the bill.
-
-      Flip: Not Just Hotel
+    body: >-
+      <div><h2>Nobel Peace Prize Winner Steps Forward</h2><p>ICAN =A
+      International Campaign to Abolish Nuclear Weapons.</p><p>Based in Geneva;
+      coalition of NGOs (non-governmental organizations).</p><p>Offers to use
+      Nobel Peace prize money (about $1M) to foot the bill.</p><p>Flip: Not Just
+      Hotel</p></div>
     _key: card-4-2f41d9c7-ea63-4d94-841d-991ca95e37ca
   - order: 4
     useCheckmark: true
     body: >-
-      U.S. can't pay for NoKo's bills (without waivers from the Treasury)
-      because of sanctions. North Korea isn't used to paying its own bills - In
-      fact, it didn't even pay for its own athletes to attend the Olympics.
-      Click to see who did.
-
-
-      [view sources](https://smarthernews.com/18-06-04-pays-noko/)
+      <div><p>U.S. can't pay for NoKo's bills (without waivers from the
+      Treasury) because of sanctions. North Korea isn't used to paying its own
+      bills - In fact, it didn't even pay for its own athletes to attend the
+      Olympics. Click to see who did.</p><p><a
+      href="https://smarthernews.com/18-06-04-pays-noko/">view
+      sources</a></p></div>
     _key: card-10-f35a1f4e-3617-4b58-9b78-0adfd47df39f
 
 ---

@@ -22,53 +22,38 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # “Superman” Takes Down An Olympian
-
-
-      A 10-year-old named “Clark Kent” breaks Michael Phelps’ record in the
-      pool.
-
-
-      Say What?
+      <div><h1>“Superman” Takes Down An Olympian</h1><p>A 10-year-old named
+      “Clark Kent” breaks Michael Phelps’ record in the pool.</p><p>Say
+      What?</p></div>
     _key: card-1-8133c290-b903-46b0-abda-beca46c05fa6
   - order: 1
     useCheckmark: false
     body: >-
-      ## What Happened?
-
-
-      * Who:**Clark Kent Apuada** (nickname: Superman).
-
-      * What:**100M Butterfly**
-
-      * When: Sunday, July 29, 2018
-
-      * Where: Central California,A Far West International Championship.
-
-      * How:**Beat Michael Phelps’ longest standing record** by nearly a full
-      second. Phelps set that record more than 20 yrs ago, nearly the same age
-      as Clark.
+      <div><h2>What Happened?</h2><ul><li>Who: <strong>Clark Kent
+      Apuada</strong> (nickname: Superman).</li><li>What: <strong>100M
+      Butterfly</strong></li><li>When: Sunday, July 29, 2018</li><li>Where:
+      Central California,A Far West International Championship.</li><li>How:
+      <strong>Beat Michael Phelps’ longest standing record</strong> by nearly a
+      full second. Phelps set that record more than 20 yrs ago, nearly the same
+      age as Clark.</li></ul></div>
     _key: card-2-0a854a85-8ed9-432a-8e41-e1fe9985dede
   - order: 2
     useCheckmark: false
     body: >-
-      > “Always have fun and never give up on your dreams, no matter what anyone
-      says. And that was one of my dreams to break Michael Phelps’ record.”  
-        
-        
-        
-      Clark Kent Apuada, swimming phenom who only recently started swimming
-      competitively, hoping to become an Olympian.
+      <blockquote>“Always have fun and never give up on your dreams, no matter
+      what anyone says. And that was one of my dreams to break Michael Phelps’
+      record.”<br><br><br><br>Clark Kent Apuada, swimming phenom who only
+      recently started swimming competitively, hoping to become an
+      Olympian.</blockquote>
     _key: card-3-be160c86-abde-4de3-a328-99509adfa4aa
   - order: 3
     useCheckmark: true
     body: >-
-      Michael Phelps has more Olympic medals (28) than anyone in history. The
-      10-year-old who beat his record says he believes the balance in his life
-      sets him up for success. Read more: SmartHERNews.com
-
-
-      [view sources](https://smarthernews.com/18-08-01-superman-beats-olympian/)
+      <div><p>Michael Phelps has more Olympic medals (28) than anyone in
+      history. The 10-year-old who beat his record says he believes the balance
+      in his life sets him up for success. Read more: SmartHERNews.com</p><p><a
+      href="https://smarthernews.com/18-08-01-superman-beats-olympian/">view
+      sources</a></p></div>
     _key: card-10-0737027f-06d0-4d83-b382-f514b10230b1
 
 ---

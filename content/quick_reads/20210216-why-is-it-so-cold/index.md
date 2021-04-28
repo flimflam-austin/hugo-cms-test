@@ -21,68 +21,51 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Why So Cold?
-
-
-      > What’s causing the “wicked wintry weather” in so many parts of
-      America?  
-        
-      (and why it matters wherever you live)
+      <div><h1>Why So Cold?</h1><blockquote>What’s causing the “wicked wintry
+      weather” in so many parts of America?<br><br>(and why it matters wherever
+      you live)</blockquote></div>
     _key: 0b7d1027eb78
   - order: 1
     useCheckmark: false
     body: >-
-      ## “Polar Vortex”
-
-
-      Cold temps partly to blame simply on winter… AND a phenomenon called
-      the**polar vortex**:
-
-
-      * The polar vortex = arctic air that normally hangs out around the poles;
-      when unstable, it expands outward.
-
-      * Polar vortex can bring**frigid temps each winter for varying periods of
-      time**.
-
-      * **Not a new concept** – polar vortex reportedly was first described in
-      1853.
+      <div><h2>“Polar Vortex”</h2><p>Cold temps partly to blame simply on
+      winter… AND a phenomenon called the <strong>polar
+      vortex</strong>:</p><ul><li>The polar vortex = arctic air that normally
+      hangs out around the poles; when unstable, it expands
+      outward.</li><li>Polar vortex can bring <strong>frigid temps each winter
+      for varying periods of time</strong>.</li><li><strong>Not a new
+      concept</strong> – polar vortex reportedly was first described in
+      1853.</li></ul><p><br></p></div>
     _key: 464f3c342206
   - order: 2
     useCheckmark: false
     body: >-
-      ## Why It Matters  
-
-      (Even If You’re Warm!)
-
-
-      * Roughly half of America remains under some sort of winter weather
-      advisory.
-
-      * Emergency declarations in AL, OK, OR, KS, KY, MS, LA, TX; TX requested
-      (& was granted) Federal Emergency Declaration for funding & resources.
-
-      * Nationwide impact: weather has led to dangerous conditions, power
-      outages,**delayed travel and deliveries (including COVID-19 vaccine)**.
+      <div><h2>Why It Matters<br>(Even If You’re Warm!)</h2><ul><li>Roughly half
+      of America remains under some sort of winter weather
+      advisory.</li><li>Emergency declarations in AL, OK, OR, KS, KY, MS, LA,
+      TX; TX requested (&amp; was granted) Federal Emergency Declaration for
+      funding &amp; resources.</li><li>Nationwide impact: weather has led to
+      dangerous conditions, power outages, <strong>delayed travel and deliveries
+      (including COVID-19 vaccine)</strong>.</li></ul></div>
     _key: 2df96f8d6344
   - order: 3
     useCheckmark: false
     body: >-
-      > “Hundreds of daily low maximum and minimum temperatures have been/will
-      be broken during this prolonged ‘polar plunge,’ with some February and
-      even all-time low temperature records in jeopardy.”
-
-
-      National Weather Service on conditions that may break records dating back
-      more than 100 years which marked "historic cold snaps of 1899 and 1905."
+      <div><blockquote>“Hundreds of daily low maximum and minimum temperatures
+      have been/will be broken during this prolonged ‘polar plunge,’ with some
+      February and even all-time low temperature records in
+      jeopardy.”</blockquote><p>National Weather Service on conditions that may
+      break records dating back more than 100 years which marked "historic cold
+      snaps of 1899 and 1905."</p></div>
     _key: bde6dbf6a5a6
   - order: 4
     useCheckmark: true
     body: >-
-      The poor weather conditions are expected to last for the better part of
-      the week. For context, The Weather Channel reports that there are
+      <div><p>The poor weather conditions are expected to last for the better
+      part of the week. For context, The Weather Channel reports that there are
       currently more power outages in Texas due to the winter storm than
-      occurred during the last major hurricane, Hurricane Harvey.
+      occurred during the last major hurricane, Hurricane
+      Harvey.</p><p></p></div>
     citation: VIEW SOURCES
     _key: a096699301ee
 

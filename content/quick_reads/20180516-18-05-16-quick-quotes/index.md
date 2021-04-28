@@ -22,52 +22,41 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## QUICK QUOTES
-
-
-      > “Sometimes we were on the same side, and sometimes weren’t. But one
-      thing about our colleague John McCain — you’d rather be on his side than
-      not.”  
-        
-        
-        
-      Senate Majority Leader Mitch McConnell (R-KY), on his decades-long
-      relationship with the man he called "a genuine American hero" in the wake
-      of untoward comments about Sen. McCain (R-AZ) made last week by a WH
-      staffer.
+      <div><h2>QUICK QUOTES</h2><blockquote>“Sometimes we were on the same side,
+      and sometimes weren’t. But one thing about our colleague John McCain —
+      you’d rather be on his side than not.”<br><br><br><br>Senate Majority
+      Leader Mitch McConnell (R-KY), on his decades-long relationship with the
+      man he called "a genuine American hero" in the wake of untoward comments
+      about Sen. McCain (R-AZ) made last week by a WH
+      staffer.</blockquote></div>
     _key: card-1-fb018783-f81a-497c-905c-a1376967d509
   - order: 1
     useCheckmark: false
     body: >-
-      > “Just as women have been undervalued in Hollywood, we aren’t adequately
-      represented in the lab, or in research, when it comes to heart health.
-      Today in America, women are being sent to early graves because our country
-      has failed to combat a disease that kills more of us annually than all
-      forms of cancer combined.”  
-        
-        
-        
-      Barbara Streisand in a May 15th op-ed for USA Today on raising awareness
-      for women's heart health.
+      <blockquote>“Just as women have been undervalued in Hollywood, we aren’t
+      adequately represented in the lab, or in research, when it comes to heart
+      health. Today in America, women are being sent to early graves because our
+      country has failed to combat a disease that kills more of us annually than
+      all forms of cancer combined.”<br><br><br><br>Barbara Streisand in a May
+      15th op-ed for USA Today on raising awareness for women's heart
+      health.</blockquote>
     _key: card-2-ba024dc2-73d4-4a8b-9325-3f2b22f3873b
   - order: 2
     useCheckmark: false
     body: >-
-      > “… the indictment falls squarely within that portion of the authority
-      granted to the Special  
-
-      Counsel that Manafort finds unobjectionable …. The regulations place no
-      boundaries on who can be investigated or what charges can be brought ….
-      the defendant has no grounds for complaint.”  
-        
-        
-        
-      U.S. District Judge Amy Jackson, rejecting Trump's former campaign
-      manager, Paul Manafort's attempt to dismiss a criminal case against him.
+      <blockquote>“… the indictment falls squarely within that portion of the
+      authority granted to the Special<br>Counsel that Manafort finds
+      unobjectionable …. The regulations place no boundaries on who can be
+      investigated or what charges can be brought …. the defendant has no
+      grounds for complaint.”<br><br><br><br>U.S. District Judge Amy Jackson,
+      rejecting Trump's former campaign manager, Paul Manafort's attempt to
+      dismiss a criminal case against him.</blockquote>
     _key: card-3-19a1b0f8-ecb1-451d-837b-89d475201293
   - order: 3
     useCheckmark: true
-    body: '[view sources](https://smarthernews.com/18-05-16-quick-quotes/)'
+    body: >-
+      <p><a href="https://smarthernews.com/18-05-16-quick-quotes/">view
+      sources</a></p>
     _key: card-10-24db2871-dc9a-4b9e-9d49-85ea5e3ef4ac
 
 ---

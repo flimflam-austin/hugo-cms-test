@@ -22,24 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > ‘We can talk ourselves into death or we can talk ourselves into the best
-      life we’ve ever lived. None of it was a mistake. It was all a destiny.”
-
-
-      Anthony Hopkins
+      <div><blockquote>‘We can talk ourselves into death or we can talk
+      ourselves into the best life we’ve ever lived. None of it was a mistake.
+      It was all a destiny.”</blockquote><p>Anthony Hopkins</p></div>
     citation: Anthony Hopkins
     _key: card-1-e50f11f3-4806-43f5-9a16-e3735f162b9b
   - order: 1
     useCheckmark: true
     body: >-
-      Hopkins discussed overcoming his battle with alcoholism as a guest speaker
-      at the 11th annual LEAP (Leadership, Excellence and Accelerating Your
-      Potential) conference. Alcohol is the 3rd leading preventable cause of
-      death in the U.S.
-
-
-      [view
-      sources](https://smarthernews.com/18-08-01-quote-of-the-day-anthony-hopkins/)
+      <div><p>Hopkins discussed overcoming his battle with alcoholism as a guest
+      speaker at the 11th annual LEAP (Leadership, Excellence and Accelerating
+      Your Potential) conference. Alcohol is the 3rd leading preventable cause
+      of death in the U.S.</p><p><a
+      href="https://smarthernews.com/18-08-01-quote-of-the-day-anthony-hopkins/">view
+      sources</a></p></div>
     _key: card-10-62bed238-0684-4638-8110-0a0f8451a1ae
 
 ---

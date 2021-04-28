@@ -21,74 +21,54 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      #   
-
-      Clever or Creepy?
-
-
-      > From free donuts to bonus pay, some companies offer incentives for you
-      to get the COVID-19 vaccine.  
-        
-        
-      Smart policy or strange times?  
-
-      (or a little bit of both)
+      <div><h1><br>Clever or Creepy?</h1><blockquote>From free donuts to bonus
+      pay, some companies offer incentives for you to get the COVID-19
+      vaccine.<br><br><br>Smart policy or strange times?<br>(or a little bit of
+      both)</blockquote></div>
     _key: a37185e3a21d
   - order: 1
     useCheckmark: false
     body: >-
-      >   
-
-      “Krispy Kreme is finding ways to be sweet as the U.S. continues to scale
-      COVID-19 vaccinations.”
-
-
-      Krispy Kreme's latest incentive includes one free glazed doughnut to those
-      who show their COVID-19 vaccination records. Those who qualify can receive
-      one doughnut a day, no purchase necessary. Food for thought: the CDC says
-      weight is a factor for incidence of severity with COVID-19; obesity may
-      put people at triple the risk of hospitalization.
+      <div><blockquote><br>“Krispy Kreme is finding ways to be sweet as the U.S.
+      continues to scale COVID-19 vaccinations.”</blockquote><p>Krispy Kreme's
+      latest incentive includes one free glazed doughnut to those who show their
+      COVID-19 vaccination records. Those who qualify can receive one doughnut a
+      day, no purchase necessary. Food for thought: the CDC says weight is a
+      factor for incidence of severity with COVID-19; obesity may put people at
+      triple the risk of hospitalization.</p></div>
     _key: 0579c6c833a1
   - order: 2
     useCheckmark: false
     body: >-
-      > “Generally, providing an incentive is a legal method for employers to
-      encourage vaccination…”
-
-
-      The National Law Review writes that private businesses *can* legally
-      require vaccinations (with exceptions for those who decline) – and advises
-      incentives need exceptions, too. For example, Krispy Kreme is offering a
-      free coffee and doughnut for anyone on Mondays during this campaign, even
-      without a vaccination record.
+      <div><blockquote>“Generally, providing an incentive is a legal method for
+      employers to encourage vaccination…”</blockquote><p>The National Law
+      Review writes that private businesses *can* legally require vaccinations
+      (with exceptions for those who decline) – and advises incentives need
+      exceptions, too. For example, Krispy Kreme is offering a free coffee and
+      doughnut for anyone on Mondays during this campaign, even without a
+      vaccination record.</p></div>
     _key: 599a76f6871c
   - order: 3
     useCheckmark: false
     body: >-
-      ##   
-
-      BIG PICTURE
-
-
-      * **Incentives for customers w/proof of the COVID-19 vaccine are rare *so
-      far***: Krispy Kreme is the first major U.S. brand to offer something *to
-      customers* on a national level.
-
-      * **Incentives for employees to receive the vaccine are on the rise**:
-      often in the form of bonus pay for stores like Kroger, Trader Joe’s, &
-      Dollar General. Target’s includes bonus pay and $ for a ride to and from
-      the vaccination site.
+      <div><h2><br>BIG PICTURE</h2><ul><li><strong>Incentives for customers
+      w/proof of the COVID-19 vaccine are rare *so far*</strong>: Krispy Kreme
+      is the first major U.S. brand to offer something *to customers* on a
+      national level.</li><li><strong>Incentives for employees to receive the
+      vaccine are on the rise</strong>: often in the form of bonus pay for
+      stores like Kroger, Trader Joe’s, &amp; Dollar General. Target’s includes
+      bonus pay and $ for a ride to and from the vaccination
+      site.</li></ul></div>
     _key: 59ba377ed17d
   - order: 4
     useCheckmark: true
     body: >-
-      >   
-
-      Businesses are offering everything from gift cards, to discounts on
-      purchases, and even "joints for jabs" - yes, you read that correctly:
-      pre-rolled marijuana joints for those with proof of vaccination. Instead
-      of quoting from the experts, we wanted to toss this question to YOU: Will
-      these incentives be effective? What do you think of them?
+      <blockquote><br>Businesses are offering everything from gift cards, to
+      discounts on purchases, and even "joints for jabs" - yes, you read that
+      correctly: pre-rolled marijuana joints for those with proof of
+      vaccination. Instead of quoting from the experts, we wanted to toss this
+      question to YOU: Will these incentives be effective? What do you think of
+      them?</blockquote>
     citation: VIEW SOURCES
     _key: d560c2b92334
 

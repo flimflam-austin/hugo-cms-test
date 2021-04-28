@@ -22,69 +22,46 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # Flu Breakthrough?
-
-
-      ## 1 Pill May Stop Flu In 1 Day
-
-
-      > ‘This could be a breakthrough in the way that we treat influenza.’  
-        
-      Martin Howell Friede, Initiative for Vaccine Research, World Health
-      Organization
-
-
-      Click Here To Flip
+      <div><h1>Flu Breakthrough?</h1><h2>1 Pill May Stop Flu In 1
+      Day</h2><blockquote>‘This could be a breakthrough in the way that we treat
+      influenza.’<br><br>Martin Howell Friede, Initiative for Vaccine Research,
+      World Health Organization</blockquote><p>Click Here To Flip</p></div>
     citation: Click Here To Flip
     _key: card-1-5c3756fa-509e-4387-91ba-80ca190cdd84
   - order: 1
     useCheckmark: false
     body: >-
-      ## “Experimental Drug Promises to Kill the Flu Virus in a Day”: WSJ
-
-
-      * Shionogi: Japanese Company
-
-      * Claim: 1 Pill = relief in 24 hours.
-
-      * For comparison: Tamiflu (2 pills for 5 days) shortens flu symptoms in
-      about 3 days.
-
-      * Not available to U.S. public yet – Could take at least a year.
+      <div><h2>“Experimental Drug Promises to Kill the Flu Virus in a Day”:
+      WSJ</h2><ul><li>Shionogi: Japanese Company</li><li>Claim: 1 Pill = relief
+      in 24 hours.</li><li>For comparison: Tamiflu (2 pills for 5 days) shortens
+      flu symptoms in about 3 days.</li><li>Not available to U.S. public yet –
+      Could take at least a year.</li></ul></div>
     _key: card-2-fee3e22c-eacd-421a-a55d-b32d9e5d3c72
   - order: 2
     useCheckmark: false
     body: >-
-      ## 48 U.S. States = Widespread Flu Activity
-
-
-      > “We were hoping to have better news to share today, but unfortunately,
-      it looks like this flu season continues to be particularly challenging.”  
-        
-        
-        
-      Dr. Anne Schuchat, CDC Acting Director, Press Briefing Feb. 9, 2018
+      <div><h2>48 U.S. States = Widespread Flu Activity</h2><blockquote>“We were
+      hoping to have better news to share today, but unfortunately, it looks
+      like this flu season continues to be particularly
+      challenging.”<br><br><br><br>Dr. Anne Schuchat, CDC Acting Director, Press
+      Briefing Feb. 9, 2018</blockquote></div>
     _key: card-3-43e08f55-9eff-4263-9285-59035ba5c230
   - order: 3
     useCheckmark: false
     body: >-
-      # Update on Flu
-
-
-      * Where?**Everywhere. Hawaii/Oregon** only states to not report widespread
-      flu; flu still present.
-
-      * How much longer?**Week 11 of 20** in “flu season.”
-
-      * Why so bad?**More severeA H3N2 virus**A**dominates** (symptoms worse,
-      vaccine less effective); but other flu strains present.
+      <div><h1>Update on Flu</h1><ul><li>Where? <strong>Everywhere.
+      Hawaii/Oregon</strong> only states to not report widespread flu; flu still
+      present.</li><li>How much longer? <strong>Week 11 of 20</strong> in “flu
+      season.”</li><li>Why so bad? <strong>More severeA H3N2 virus</strong>A
+      <strong>dominates</strong> (symptoms worse, vaccine less effective); but
+      other flu strains present.</li></ul></div>
     _key: card-4-28a5674d-dae4-4fed-b0d9-0efd1e61ef38
   - order: 4
     useCheckmark: true
-    body: |-
-      Listen to CDC Press Briefing
-
-      [view sources](https://smarthernews.com/18-02-12-flu-update/)
+    body: >-
+      <div><p>Listen to CDC Press Briefing</p><p><a
+      href="https://smarthernews.com/18-02-12-flu-update/">view
+      sources</a></p></div>
     _key: card-10-4c741ccb-b36c-478e-bccd-555f1c62750b
 
 ---

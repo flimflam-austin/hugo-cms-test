@@ -22,70 +22,53 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # NORTH KOREA SUMMIT
-
-
-      The 3 things to watch for when President Trump meets Kim Jong Un on
-      Tuesday in Singapore.
-
-
-      FLIP: Get the popcorn.
+      <div><h1>NORTH KOREA SUMMIT</h1><p>The 3 things to watch for when
+      President Trump meets Kim Jong Un on Tuesday in Singapore.</p><p>FLIP: Get
+      the popcorn.</p></div>
     _key: card-1-d2b83f96-c622-4d1b-a611-9b60a71f2d44
   - order: 1
     useCheckmark: false
     body: >-
-      ## What Does the U.S. Want?
-
-
-      * N. Korea to**abandon its arsenal of nuclear weapons & ballistic
-      missiles**, allowing in inspectors to confirm it is truly disarming.
-
-      * U.S. defense & intelligence say**N. Korea is close to being able to
-      strike anywhere in the continental U.S.** with a nuclear-tipped missile,
-      which Pres. Trump & other U.S. officials say they**wouldn’t tolerate.**
+      <div><h2>What Does the U.S. Want?</h2><ul><li>N. Korea to <strong>abandon
+      its arsenal of nuclear weapons &amp; ballistic missiles</strong>, allowing
+      in inspectors to confirm it is truly disarming.</li><li>U.S. defense &amp;
+      intelligence say <strong>N. Korea is close to being able to strike
+      anywhere in the continental U.S.</strong> with a nuclear-tipped missile,
+      which Pres. Trump &amp; other U.S. officials say they <strong>wouldn’t
+      tolerate.</strong></li></ul></div>
     _key: card-2-1d8228a8-2354-4df8-8d0d-38d978339de3
   - order: 2
     useCheckmark: false
     body: >-
-      ## What Does N. Korea Want?
-
-
-      * Summit already seen as a win by N. Korea –**no sitting U.S. President
-      has ever met with a N. Korean leader** (Presidents Carter & Clinton only
-      visited after office).
-
-      * NoKo will likely demand**security assurances regime will not be
-      overthrown or removed** if nukes are removed.
-
-      * Dropping of sanctions to allow more $$ in NoKo economy.
+      <div><h2>What Does N. Korea Want?</h2><ul><li>Summit already seen as a win
+      by N. Korea – <strong>no sitting U.S. President has ever met with a N.
+      Korean leader</strong> (Presidents Carter &amp; Clinton only visited after
+      office).</li><li>NoKo will likely demand <strong>security assurances
+      regime will not be overthrown or removed</strong> if nukes are
+      removed.</li><li>Dropping of sanctions to allow more $$ in NoKo
+      economy.</li></ul></div>
     _key: card-3-0ba6e013-f60b-42c5-a0ec-3cda5ade6b99
   - order: 3
     useCheckmark: false
     body: >-
-      ## What is Success?
-
-
-      * U.S. admin has had some successes already; Sec. of State Pompeo**secured
-      release of 3 Americans** after meeting Kim Jong Un in May.
-
-      * Unclear if Pres Trump will declare anything less than complete
-      denuclearization a success; he’s called it a**“mission of peace.”**
-
-
-
-
-      [Refresher: hostages](https://smarthernews.com/18-05-09-korean-hostages/)
+      <div><h2>What is Success?</h2><ul><li>U.S. admin has had some successes
+      already; Sec. of State Pompeo <strong>secured release of 3
+      Americans</strong> after meeting Kim Jong Un in May.</li><li>Unclear if
+      Pres Trump will declare anything less than complete denuclearization a
+      success; he’s called it a <strong>“mission of
+      peace.”</strong></li></ul><p></p><p><a
+      href="https://smarthernews.com/18-05-09-korean-hostages/">Refresher:
+      hostages</a></p></div>
     _key: card-4-f93aabfa-309d-4244-9ccb-0a00f337e17e
   - order: 4
     useCheckmark: true
     body: >-
-      It may be a sitting President's first time negotiating with North Korea,
-      but not America's. Read the personal stories from those who've sat across
-      the table, including tales of matching Kim Jong Un lapel pins and North
-      Koreans quoting "Gone with the Wind."
-
-
-      [view sources](https://smarthernews.com/18-06-11-noko-summit-3-things/)
+      <div><p>It may be a sitting President's first time negotiating with North
+      Korea, but not America's. Read the personal stories from those who've sat
+      across the table, including tales of matching Kim Jong Un lapel pins and
+      North Koreans quoting "Gone with the Wind."</p><p><a
+      href="https://smarthernews.com/18-06-11-noko-summit-3-things/">view
+      sources</a></p></div>
     _key: card-10-b2f09c74-0c32-49bc-9042-015903d1caf9
 
 ---

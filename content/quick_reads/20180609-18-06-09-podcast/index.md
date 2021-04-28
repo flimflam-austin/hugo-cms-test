@@ -22,21 +22,17 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # SmartHER Podcast
-
-
-      5 minutes of this week’s news (w/a SmartHER twist!)
-
-
-      [click here to
-      listen](http://smarthernews.libsyn.com/smarther-news-episode-2)
+      <div><h1>SmartHER Podcast</h1><p>5 minutes of this week’s news (w/a
+      SmartHER twist!)</p><p><a
+      href="http://smarthernews.libsyn.com/smarther-news-episode-2">click here
+      to listen</a></p></div>
     _key: card-1-7ca35099-72d6-4834-a0d1-5a5c608b8210
   - order: 1
     useCheckmark: true
-    body: |-
-      What would you like to hear on the podcast?
-
-      [view sources](https://smarthernews.com/18-06-09-podcast/)
+    body: >-
+      <div><p>What would you like to hear on the podcast?</p><p><a
+      href="https://smarthernews.com/18-06-09-podcast/">view
+      sources</a></p></div>
     _key: card-10-be45d5ee-ef99-4c26-8dfd-1f47f917901b
 
 ---

@@ -21,10 +21,11 @@ colorpaletteclassname: '--light-blue'
 cards:
   - order: 0
     useCheckmark: true
-    body: |-
-      Have a great day! See a quote you love? Email us: info@SmartHERNews.com
-
-      [view sources](https://smarthernews.com/18-06-04-quick-quotes/)
+    body: >-
+      <div><p>Have a great day! See a quote you love? Email us:
+      info@SmartHERNews.com</p><p><a
+      href="https://smarthernews.com/18-06-04-quick-quotes/">view
+      sources</a></p></div>
     _key: card-10-a9d27e86-556f-4b6f-ac49-dc701e9715ba
 
 ---

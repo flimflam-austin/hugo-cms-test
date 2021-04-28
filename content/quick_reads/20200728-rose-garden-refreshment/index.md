@@ -22,50 +22,41 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      The rose remains a common presence for nearly every U.S. President at The
-      White House, and the “most famous occupant” of a garden only steps from
-      the Oval Office.
-
-
-      The Rose Garden prepares for a “refreshment.”
+      <div><p>The rose remains a common presence for nearly every U.S. President
+      at The White House, and the “most famous occupant” of a garden only steps
+      from the Oval Office.</p><p>The Rose Garden prepares for a
+      “refreshment.”</p></div>
     _key: 4fbe4c92a529
   - order: 1
     useCheckmark: false
     body: >-
-      > “The very act of planting a garden involves hard work and hope in the
-      possibility of a bright future.”
-
-
-      First Lady Melania Trump announcing a "significant renewal" of the Rose
-      Garden on July 27, 2020 to return the "iconic" location to its design
-      during the Kennedy Administration. Why now? "... Improved infrastructure,
-      better drainage, and a healthier environment" along with better access for
-      those with disabilities and support for broadcasts.
+      <div><blockquote>“The very act of planting a garden involves hard work and
+      hope in the possibility of a bright future.”</blockquote><p>First Lady
+      Melania Trump announcing a "significant renewal" of the Rose Garden on
+      July 27, 2020 to return the "iconic" location to its design during the
+      Kennedy Administration. Why now? "... Improved infrastructure, better
+      drainage, and a healthier environment" along with better access for those
+      with disabilities and support for broadcasts.</p></div>
     _key: bcb7cdb6d56d
   - order: 2
     useCheckmark: false
     body: >-
-      ## The Rose Garden
-
-
-      * For decades, the area known as the Rose Garden has featured roses.
-
-      * Inspired by European gardens during a trip overseas, Pres. Kennedy asked
-      for a re-design upon his return home.
-
-      * The excavation team found horseshoes dating back to the Civil War, and
-      accidentally cut a mysterious buried cable put in place during WWII –
-      which accidentally set off the national military alert (luckily nothing
-      happened).
+      <div><h2>The Rose Garden</h2><ul><li>For decades, the area known as the
+      Rose Garden has featured roses.</li><li>Inspired by European gardens
+      during a trip overseas, Pres. Kennedy asked for a re-design upon his
+      return home.</li><li>The excavation team found horseshoes dating back to
+      the Civil War, and accidentally cut a mysterious buried cable put in place
+      during WWII – which accidentally set off the national military alert
+      (luckily nothing happened).</li></ul></div>
     _key: 834e10d6590b
   - order: 3
     useCheckmark: true
     body: >-
-      The current Rose Garden hosted a vegetable garden or greenhouses (even one
-      for roses) dating back to the mid-1850s. While the roses remain
+      <div><p>The current Rose Garden hosted a vegetable garden or greenhouses
+      (even one for roses) dating back to the mid-1850s. While the roses remain
       year-round, many flower varieties are switched with the seasons. The Rose
       Garden is managed by the National Park Service and supported through
-      donations.
+      donations.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 7ee64cd9fbea
 

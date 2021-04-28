@@ -22,86 +22,63 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # ECONOMIC SWAGGER
-
-
-      A revved up U.S. economy has given President Trump the ammo he needs to
-      pull no punches on trade.
-
-
-      What to know as China & Europe prepare to hit back.
-
-
-      Tit for tat trade War
+      <div><h1>ECONOMIC SWAGGER</h1><p>A revved up U.S. economy has given
+      President Trump the ammo he needs to pull no punches on trade.</p><p>What
+      to know as China &amp; Europe prepare to hit back.</p><p>Tit for tat trade
+      War</p></div>
     _key: card-1-244dcff1-af37-4e21-a64c-f2ea093f5a5c
   - order: 1
     useCheckmark: false
     body: >-
-      ## Where Things Stand Now
-
-
-      * US will slap a 25% tariff (or tax) on**$50B in imports from China**.
-
-      * China hinted at retaliation, but Trump threatened even more tariffs, up
-      to**A 90% of all Chinese goods imported to US ($450B).**
-
-      * US says it has no choice after failed negotiations to alter China’s
-      “unfair practices.”
-
-      * Tariffs make US-made goods cheaper vs. imports.
+      <div><h2>Where Things Stand Now</h2><ul><li>US will slap a 25% tariff (or
+      tax) on <strong>$50B in imports from China</strong>.</li><li>China hinted
+      at retaliation, but Trump threatened even more tariffs, up to<strong>A 90%
+      of all Chinese goods imported to US ($450B).</strong></li><li>US says it
+      has no choice after failed negotiations to alter China’s “unfair
+      practices.”</li><li>Tariffs make US-made goods cheaper vs.
+      imports.</li></ul></div>
     _key: card-2-656e40fa-7969-41f3-9485-ed0389d1139f
   - order: 2
     useCheckmark: false
     body: >-
-      > **_"China does have much more to lose than we do."_**  
-
-      Peter Navarro, Trump trade adviser  
-        
-
-
-      * With Trump’s latest threat of**$450B in tariffs**, China can now no
-      longer issue a proportional response.
-
-      * US buys nearly 4 times as much from China as it sells to us.
-      (Translation: China needs the US.)
-
-      * That said, China’s $13T economy, can turn to other countries to sell its
-      goods.
+      <div><blockquote><strong><em>"China does have much more to lose than we
+      do."</em></strong><br>Peter Navarro, Trump trade
+      adviser<br><br></blockquote><ul><li>With Trump’s latest threat of
+      <strong>$450B in tariffs</strong>, China can now no longer issue a
+      proportional response.</li><li>US buys nearly 4 times as much from China
+      as it sells to us. (Translation: China needs the US.)</li><li>That said,
+      China’s $13T economy, can turn to other countries to sell its
+      goods.</li></ul></div>
     _key: card-3-bc4220a5-fce8-4536-ae09-c55ff68bd30f
   - order: 3
     useCheckmark: false
     body: >-
-      > "Mr. Trump seems to be counting on the fact that China will soon run out
-      of room to retaliate… This could prove to be a miscalculation."  
-        
-        
-        
-      Eswar Prasad, Cornell University trade expert & Brookings Sr. Fellow on
-      China's other options for retaliation like disrupting American businesses'
-      sales operations & supply chains in China.
+      <blockquote>"Mr. Trump seems to be counting on the fact that China will
+      soon run out of room to retaliate… This could prove to be a
+      miscalculation."<br><br><br><br>Eswar Prasad, Cornell University trade
+      expert &amp; Brookings Sr. Fellow on China's other options for retaliation
+      like disrupting American businesses' sales operations &amp; supply chains
+      in China.</blockquote>
     _key: card-4-d79c54b0-afd4-4fb1-b21f-6f5e389189b3
   - order: 4
     useCheckmark: false
     body: >-
-      ## And It’s Not Just China…
-
-
-      * US businesses have to pay a**25% tax on steel or 10% tax on aluminum**
-      when they import them from the**EU, Mexico & Canada**.
-
-      * In retaliation, the**EU is set Friday to slap tariffs on $3.4B in
-      American products** (i.e. whiskey, motorcycles, peanuts & cranberries.)
+      <div><h2>And It’s Not Just China…</h2><ul><li>US businesses have to pay a
+      <strong>25% tax on steel or 10% tax on aluminum</strong> when they import
+      them from the <strong>EU, Mexico &amp; Canada</strong>.</li><li>In
+      retaliation, the <strong>EU is set Friday to slap tariffs on $3.4B in
+      American products</strong> (i.e. whiskey, motorcycles, peanuts &amp;
+      cranberries.)</li></ul></div>
     _key: card-5-2b2cef42-fbfc-4fe6-898e-28a72525b32d
   - order: 5
     useCheckmark: true
     body: >-
-      The US economy is on track to expand at the fastest rate in more than a
-      decade, but fears of a trade war have sent stocks to the longest losing
-      streak in 15 months. If stocks end lower Friday, it will be worst 9-day
-      streak since 1978. Goldman Sachs says buckle up.
-
-
-      [view sources](https://smarthernews.com/18-06-22-trade-war/)
+      <div><p>The US economy is on track to expand at the fastest rate in more
+      than a decade, but fears of a trade war have sent stocks to the longest
+      losing streak in 15 months. If stocks end lower Friday, it will be worst
+      9-day streak since 1978. Goldman Sachs says buckle up.</p><p><a
+      href="https://smarthernews.com/18-06-22-trade-war/">view
+      sources</a></p></div>
     _key: card-10-644ea663-06af-4c93-9508-4447ffe5abbb
 
 ---

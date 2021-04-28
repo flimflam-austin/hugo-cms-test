@@ -22,61 +22,46 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      # SERENA
-
-
-      > **“Without fear, without doubt, without discomfort, what is there for a
-      person to overcome?”**  
-        
-      Serena Williams, in the premiere May 2 episode of "Being Serena," a
-      five-part HBO docu-series about the athlete, entrepeneur, &
-      philanthropist, and her journey into motherhood.
-
-
-      [Watch
-      Now](https://www.youtube.com/embed/cNABSm-jUNk?enablejsapi=1&autoplay=1&rel=0)
+      <div><h1>SERENA</h1><blockquote><strong>“Without fear, without doubt,
+      without discomfort, what is there for a person to
+      overcome?”</strong><br><br>Serena Williams, in the premiere May 2 episode
+      of "Being Serena," a five-part HBO docu-series about the athlete,
+      entrepeneur, &amp; philanthropist, and her journey into
+      motherhood.</blockquote><p><a
+      href="https://www.youtube.com/embed/cNABSm-jUNk?enablejsapi=1&amp;autoplay=1&amp;rel=0">Watch
+      Now</a></p></div>
     _key: card-1-c841fc91-963f-4eaa-8015-6c626dfe6806
   - order: 1
     useCheckmark: false
     body: >-
-      ## Did You Know?
-
-
-      > Serena, born the youngest of five girls, was raised in Compton, CA.  
-        
-      Trained by their dad, she & sister, Venus, grew up to be two of the
-      greatest tennis players ever.  
-        
-      When Serena met her would-be husband, Reddit co-founder Alexis Ohanian,
-      she’d never heard of Reddit & he’d never watched her play tennis.
+      <div><h2>Did You Know?</h2><blockquote>Serena, born the youngest of five
+      girls, was raised in Compton, CA.<br><br>Trained by their dad, she &amp;
+      sister, Venus, grew up to be two of the greatest tennis players
+      ever.<br><br>When Serena met her would-be husband, Reddit co-founder
+      Alexis Ohanian, she’d never heard of Reddit &amp; he’d never watched her
+      play tennis.</blockquote></div>
     _key: card-2-4794735b-5ce3-4d32-91d4-9529679ca3ed
   - order: 2
     useCheckmark: false
     body: >-
-      Some of Serena’s  
-
-      Many Accomplishments
-
-
-      * **Countless wins include:** 4 Olympic gold medals, 72 career singles
-      titles, 23 doubles titles & 2 mixed doubles titles.
-
-      * Earned**$84M+** in prize money -A**TWICE as much as any other female
-      athlete.**
-
-      * After designing for Nike & HSN, she is launching her**own fashion line**
-      on May 20th.
+      <div><p>Some of Serena’s<br>Many
+      Accomplishments</p><ul><li><strong>Countless wins include:</strong> 4
+      Olympic gold medals, 72 career singles titles, 23 doubles titles &amp; 2
+      mixed doubles titles.</li><li>Earned <strong>$84M+</strong> in prize money
+      -A <strong>TWICE as much as any other female
+      athlete.</strong></li><li>After designing for Nike &amp; HSN, she is
+      launching her <strong>own fashion line</strong> on May
+      20th.</li></ul></div>
     _key: card-3-78d9d609-ccf5-43f7-ada1-7af6b1aa2e97
   - order: 3
     useCheckmark: true
     body: >-
-      What's next for this #PowerMOM besides scoring her 24th & 25th Grand Slam
-      title? BTW she scored her 23rd while pregnant! Serena recently told VOGUE:
-      ‘Becoming a multi-mom. I have some records I want to break, but having
-      more kids is my goal.’ Read more here:
-
-
-      [view sources](https://smarthernews.com/18-05-03-serena-williams/)
+      <div><p>What's next for this #PowerMOM besides scoring her 24th &amp; 25th
+      Grand Slam title? BTW she scored her 23rd while pregnant! Serena recently
+      told VOGUE: ‘Becoming a multi-mom. I have some records I want to break,
+      but having more kids is my goal.’ Read more here:</p><p><a
+      href="https://smarthernews.com/18-05-03-serena-williams/">view
+      sources</a></p></div>
     _key: card-10-ba7f0f9c-79d5-46e4-ad9c-c516007a4eae
 
 ---

@@ -22,34 +22,28 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## “MAKING HISTORY!”
-
-
-      > Lt j.g. Madeline Swegle is the first African-American woman to become a
-      tactical aircraft pilot in the 100+ years of the U.S. Navy.
+      <div><h2>“MAKING HISTORY!”</h2><blockquote>Lt j.g. Madeline Swegle is the
+      first African-American woman to become a tactical aircraft pilot in the
+      100+ years of the U.S. Navy.</blockquote><p><br></p></div>
     _key: 5f473be97baf
   - order: 1
     useCheckmark: false
     body: >-
-      ## Backstory
-
-
-      * Lt j.g. Madeline Swegle graduated from the Naval Academy in 2017.
-
-      * She completed tactical aircraft (“TACAIR”) training last week and will
-      earn her “Wings of Gold” next month, recognizing her as a qualified Naval
-      aviator.
-
-      * Next, she’ll be assigned a “platform” – a tactical aircraft – to
-      continue her training.
+      <div><h2>Backstory</h2><ul><li>Lt j.g. Madeline Swegle graduated from the
+      Naval Academy in 2017.</li><li>She completed tactical aircraft (“TACAIR”)
+      training last week and will earn her “Wings of Gold” next month,
+      recognizing her as a qualified Naval aviator.</li><li>Next, she’ll be
+      assigned a “platform” – a tactical aircraft – to continue her
+      training.</li></ul></div>
     _key: cbc451afe996
   - order: 2
     useCheckmark: true
     body: >-
-      The platforms include F-18E/F “Super Hornet" (fighter attack aircraft),
-      E-18G “Growler" (an electronic attack aircraft), or F35 “Lightning” (a
-      fighter aircraft). This means after successfully completing additional
-      training, Swegle *could* indeed become a U.S. Navy fighter pilot.
+      <div><p>The platforms include F-18E/F “Super Hornet" (fighter attack
+      aircraft), E-18G “Growler" (an electronic attack aircraft), or F35
+      “Lightning” (a fighter aircraft). This means after successfully completing
+      additional training, Swegle *could* indeed become a U.S. Navy fighter
+      pilot.</p><p></p></div>
     citation: VIEW SOURCES
     _key: 8fe173fb8a3f
 

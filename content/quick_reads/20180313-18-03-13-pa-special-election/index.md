@@ -18,62 +18,39 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      Why is Pennsylvania’s “Special Election”  
-
-      so “special”?
-
-
-      Voters in Pennsylvania’s 18th Congressional District will head to the
-      polls Tuesday to vote for a new member of Congress…  
-
-      EVEN THOUGH the district will**disappear** after November’s election.
-
-
-
-
-      FLIP HERE FOR WHY
+      <div><p>Why is Pennsylvania’s “Special Election”<br>so
+      “special”?</p><p>Voters in Pennsylvania’s 18th Congressional District will
+      head to the polls Tuesday to vote for a new member of Congress…<br>EVEN
+      THOUGH the district will <strong>disappear</strong> after November’s
+      election.</p><p></p><p>FLIP HERE FOR WHY</p></div>
     _key: card-1-1905b985-edb7-4a06-966f-94c4ce985cc9
   - order: 1
     useCheckmark: false
     body: >-
-      ## The Disappearing District
-
-
-      In January, Pennsylvania’s highest court ruled the state’s congressional
-      map was an unconstitutional partisan gerrymander favoring Republicans, and
-      ordered lawmakers to draw a new map for all of the state’s 18
-      congressional districts.
-
-
-      [Click for Video:
-      Gerry-What?](https://www.cbsnews.com/news/drawing-the-lines-on-gerrymandering/)
+      <div><h2>The Disappearing District</h2><p>In January, Pennsylvania’s
+      highest court ruled the state’s congressional map was an unconstitutional
+      partisan gerrymander favoring Republicans, and ordered lawmakers to draw a
+      new map for all of the state’s 18 congressional districts.</p><p><a
+      href="https://www.cbsnews.com/news/drawing-the-lines-on-gerrymandering/">Click
+      for Video: Gerry-What?</a></p></div>
     _key: card-2-a74f2e77-8284-430b-8fd6-88960322fa84
   - order: 2
     useCheckmark: false
     body: >-
-      All Eyes on PA-18  
-
-      Why It Matters:
-
-
-      * Pennsylvania is a**swing state**.
-
-      * In 2016,**Trump won** PA-18 by about 20 percentage points.
-
-      * Even though PA-18’s registered**Democrats outnumber Republicans**, only
-      two Dems have held the seat in 100+ years.
-
-      * **$15.6+ million:** Amount spent by both sides in the surprisingly close
-      race.
+      <div><p>All Eyes on PA-18<br>Why It Matters:</p><ul><li>Pennsylvania is a
+      <strong>swing state</strong>.</li><li>In 2016, <strong>Trump won</strong>
+      PA-18 by about 20 percentage points.</li><li>Even though PA-18’s
+      registered <strong>Democrats outnumber Republicans</strong>, only two Dems
+      have held the seat in 100+ years.</li><li><strong>$15.6+ million:</strong>
+      Amount spent by both sides in the surprisingly close race.</li></ul></div>
     _key: card-3-1c27d3ef-349f-4a7e-8cec-2d49e8444d21
   - order: 3
     useCheckmark: true
     body: >-
-      Would you donate money to a political cause in a district that's
-      disappearing?
-
-
-      [view sources](https://smarthernews.com/18-03-13-pa-special-election/)
+      <div><p>Would you donate money to a political cause in a district that's
+      disappearing?</p><p><a
+      href="https://smarthernews.com/18-03-13-pa-special-election/">view
+      sources</a></p></div>
     _key: card-10-7fd2f604-28fb-44f5-b9ca-93952a664d75
 
 ---

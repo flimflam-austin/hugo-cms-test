@@ -21,45 +21,35 @@ colorpaletteclassname: '--light-gray'
 cards:
   - order: 0
     useCheckmark: false
-    body: |-
-      > “I want to be a pastor in a high school.”  
-        
-        
-        
-      Nick Foles, Phil Eagles QB & Super Bowl MVP on post-football career plans.
+    body: >-
+      <blockquote>“I want to be a pastor in a high school.”<br><br><br><br>Nick
+      Foles, Phil Eagles QB &amp; Super Bowl MVP on post-football career
+      plans.</blockquote>
     _key: card-1-e6da0055-0c51-48b9-87f9-ea9b91c1e9d3
   - order: 1
     useCheckmark: false
     body: >-
-      # Philadelphia Eagles Win Super Bowl
-
-
-      * First Super Bowl win (58 yrs).
-
-      * QB, Nick Foles, game MVP, started season as a back-up.
-
-      * Defensive End, Chris Long, donated entire season’s paycheck to charity.
-
-      * Center Jason Kelce, emotional post game, inspired by Calvin Coolidge
-      quote (flip to see).
+      <div><h1>Philadelphia Eagles Win Super Bowl</h1><ul><li>First Super Bowl
+      win (58 yrs).</li><li>QB, Nick Foles, game MVP, started season as a
+      back-up.</li><li>Defensive End, Chris Long, donated entire season’s
+      paycheck to charity.</li><li>Center Jason Kelce, emotional post game,
+      inspired by Calvin Coolidge quote (flip to see).</li></ul></div>
     _key: card-2-596a71b4-ee75-4f9a-a7bf-e6ffeced2ca6
   - order: 2
     useCheckmark: false
     body: >-
-      ‘Nothing in this world can take the place of persistence. Talent will not;
-      nothing is more common than unsuccessful men with talent. Genius will not;
-      unrewarded genius is almost a proverb. Education will not; the world is
-      full of educated derelicts. Persistence and determination alone are
-      omnipotent.’
+      <p>‘Nothing in this world can take the place of persistence. Talent will
+      not; nothing is more common than unsuccessful men with talent. Genius will
+      not; unrewarded genius is almost a proverb. Education will not; the world
+      is full of educated derelicts. Persistence and determination alone are
+      omnipotent.’</p>
     _key: card-3-238d5f8e-f24a-4221-af28-fd64b8bf1809
   - order: 3
     useCheckmark: true
     body: >-
-      Watch Eagles' emotional reaction to win & more:
-
-
-      [view
-      sources](https://smarthernews.com/18-02-05-monday-motivation-superbowl/)
+      <div><p>Watch Eagles' emotional reaction to win &amp; more:</p><p><a
+      href="https://smarthernews.com/18-02-05-monday-motivation-superbowl/">view
+      sources</a></p></div>
     _key: card-10-52c109ec-040c-474a-8fbc-6e3c64433c82
 
 ---

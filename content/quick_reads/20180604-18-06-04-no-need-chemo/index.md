@@ -22,66 +22,50 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      ## QUITTING CHEMO?
-
-
-      New study raises questions about the efficacy of chemotherapy for women
-      with most common form of breast cancer.
-
-
-      Flip For Why It Matters
+      <div><h2>QUITTING CHEMO?</h2><p>New study raises questions about the
+      efficacy of chemotherapy for women with most common form of breast
+      cancer.</p><p>Flip For Why It Matters</p></div>
     _key: card-1-8a064671-a05a-4c16-b7b0-c54aa48ec3d8
   - order: 1
     useCheckmark: false
     body: >-
-      > ‘We can spare thousands and thousands of women from getting toxic
-      treatment that really wouldn’t benefit them.**This is very powerful. It
-      really changes the standard of care**.’  
-        
-        
-        
-      Dr. Ingrid A. Mayer, Vanderbilt University Medical Center, an author of
-      the study that started in 2006 and included more than 10,000 women.
+      <blockquote>‘We can spare thousands and thousands of women from getting
+      toxic treatment that really wouldn’t benefit them. <strong>This is very
+      powerful. It really changes the standard of
+      care</strong>.’<br><br><br><br>Dr. Ingrid A. Mayer, Vanderbilt University
+      Medical Center, an author of the study that started in 2006 and included
+      more than 10,000 women.</blockquote>
     _key: card-2-b0b2be61-03fb-410f-aa8f-0621883185b1
   - order: 2
     useCheckmark: false
     body: >-
-      ## Basics of Study
-
-
-      * Focus: early stage tumors (before cancer has chance to spread).
-
-      * Doctors use a genetic test to predict cancer reoccurrence – results
-      determine treatment.
-
-      * Mid-range readings often got recommended chemo & hormone therapy; study
-      focused on this group and now challenges the use of chemo.
-
-      * **70%: NO benefit from chemo.**
+      <div><h2>Basics of Study</h2><ul><li>Focus: early stage tumors (before
+      cancer has chance to spread).</li><li>Doctors use a genetic test to
+      predict cancer reoccurrence – results determine
+      treatment.</li><li>Mid-range readings often got recommended chemo &amp;
+      hormone therapy; study focused on this group and now challenges the use of
+      chemo.</li><li><strong>70%: NO benefit from
+      chemo.</strong></li></ul></div>
     _key: card-3-53636b99-2b20-467f-8da3-67b4a953aab3
   - order: 3
     useCheckmark: false
     body: >-
-      ## Something To Consider:
-
-
-      * **Affirmation**: Breast cancer study from 2016 found little difference
-      in outcome between patients treated with chemo vs. those without; genetic
-      testing on tumor also used to determine treatment.
-
-      * **One caveat:**A Women under 50 with breast cancer *may* benefit from
-      chemo, but**docs don’t know why.**
+      <div><h2>Something To Consider:</h2><ul><li><strong>Affirmation</strong>:
+      Breast cancer study from 2016 found little difference in outcome between
+      patients treated with chemo vs. those without; genetic testing on tumor
+      also used to determine treatment.</li><li><strong>One caveat:</strong>A
+      Women under 50 with breast cancer *may* benefit from chemo, but
+      <strong>docs don’t know why.</strong></li></ul></div>
     _key: card-4-59fffbd0-1d2e-4134-84f8-0ca64a6a9fb1
   - order: 4
     useCheckmark: true
     body: >-
-      Some suggest this isn't a move away from simply chemo; but a move toward
-      more personalized medicine. The WSJ points out this is part of a trend in
-      cancer treatment - that has doctors leaning towards (and proving) less
-      invasive care is healthier and less costly.
-
-
-      [view sources](https://smarthernews.com/18-06-04-no-need-chemo/)
+      <div><p>Some suggest this isn't a move away from simply chemo; but a move
+      toward more personalized medicine. The WSJ points out this is part of a
+      trend in cancer treatment - that has doctors leaning towards (and proving)
+      less invasive care is healthier and less costly.</p><p><a
+      href="https://smarthernews.com/18-06-04-no-need-chemo/">view
+      sources</a></p></div>
     _key: card-10-ee7a6b94-d385-40c8-8194-3e58c0629fc5
 
 ---

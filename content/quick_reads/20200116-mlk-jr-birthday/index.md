@@ -22,19 +22,20 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > _“I refuse to accept the view that mankind is so tragically bound to the
-      starless midnight of racism and war that the bright daybreak of peace and
-      brotherhood can never become a reality.”_
+      <div><blockquote><em>“I refuse to accept the view that mankind is so
+      tragically bound to the starless midnight of racism and war that the
+      bright daybreak of peace and brotherhood can never become a
+      reality.”</em></blockquote><p></p></div>
     citation: MARTIN LUTHER KING JR.
     _key: c7588748ccb2
   - order: 1
     useCheckmark: true
     body: >-
-      91 years ago today, in 1929, Martin Luther King Jr. was born. King
+      <div><p>91 years ago today, in 1929, Martin Luther King Jr. was born. King
       surfaced as a civil rights leader during the 1955 Montgomery Bus Boycott
       ignited by Rosa Parks. This quote is taken from his Nobel Peace Prize
       acceptance speech in 1964. Less than 4 years later, MLK Jr. was
-      assassinated.
+      assassinated.</p><p></p></div>
     citation: VIEW SOURCES
     _key: f82c8468dfd8
 

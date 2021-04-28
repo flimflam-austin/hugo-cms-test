@@ -22,73 +22,61 @@ cards:
   - order: 0
     useCheckmark: false
     body: >-
-      > "My understanding is that they did it low-key and weren’t looking for
-      publicity. There were enough to send every police officer, firefighter and
-      extended family to the concert, and then some. The gesture was absolutely
-      generous, significant and appreciated.”  
-        
-      Weymouth, MA Mayor Robert Hedlund on Taylor Swift providing free concert
-      tickets after the shooting death of a local police officer. Swift's camp
-      did not respond to a request for comment.
+      <blockquote>"My understanding is that they did it low-key and weren’t
+      looking for publicity. There were enough to send every police officer,
+      firefighter and extended family to the concert, and then some. The gesture
+      was absolutely generous, significant and appreciated.”<br><br>Weymouth, MA
+      Mayor Robert Hedlund on Taylor Swift providing free concert tickets after
+      the shooting death of a local police officer. Swift's camp did not respond
+      to a request for comment.</blockquote>
     _key: card-1-84c9733a-54ae-4a4f-b07f-3e8790b69ddd
   - order: 1
     useCheckmark: false
     body: >-
-      > "We see them going to work, just as before…"  
-        
-        
-        
-      An anonymous U.S. intelligence official to The Washington Post, which
+      <blockquote>"We see them going to work, just as before…"<br><br><br><br>An
+      anonymous U.S. intelligence official to The Washington Post, which
       reported late Monday that work continues at the same weapons factory North
       Korea used to build an intercontinental ballistic missile capable of
-      carrying a nuclear warhead to the U.S.
+      carrying a nuclear warhead to the U.S.</blockquote>
     _key: card-2-fa357510-42e9-4e90-9e65-7d73833ffc4c
   - order: 2
     useCheckmark: false
     body: >-
-      “I’ll always leave room for negotiation.”  
-        
-      President Trump responding to a question about funding a border wall
-      during a press conference. Pres. Trump has requested $25B for border
-      security (specifically a border wall), an allotment Congress has not met.
-      While the President said he could shut down the government in the future
-      by not approving a spending bill without that $$, he also said that when
-      it comes to funding he has no red line and just wants great border
-      security.
+      <p>“I’ll always leave room for negotiation.”<br><br>President Trump
+      responding to a question about funding a border wall during a press
+      conference. Pres. Trump has requested $25B for border security
+      (specifically a border wall), an allotment Congress has not met. While the
+      President said he could shut down the government in the future by not
+      approving a spending bill without that $$, he also said that when it comes
+      to funding he has no red line and just wants great border security.</p>
     _key: card-3-9b648423-6077-43ec-a363-4317dd80e6cd
   - order: 3
     useCheckmark: false
     body: >-
-      > "Putin is a thief."  
-        
-      Rallying cry at a Sunday protest in Russia against proposed hikes to the
-      retirement age. The new legislation would move the retirement age for men
-      to 65 from 60, and 63 from 55. The new bill has impacted Pres. Putin's
-      popularity, though he says it's needed. We have to proceed not from
-      emotions, but from the real assessment of economic conditions..., Putin
-      said.
+      <blockquote>"Putin is a thief."<br><br>Rallying cry at a Sunday protest in
+      Russia against proposed hikes to the retirement age. The new legislation
+      would move the retirement age for men to 65 from 60, and 63 from 55. The
+      new bill has impacted Pres. Putin's popularity, though he says it's
+      needed. We have to proceed not from emotions, but from the real assessment
+      of economic conditions..., Putin said.</blockquote>
     _key: card-4-d86f08b3-b53c-4f6d-b45b-9320517ff322
   - order: 4
     useCheckmark: false
     body: >-
-      > “He has no information incriminating of the president, I know that for a
-      fact. They can squeeze him, Paul Manafort, does not know anything …. he
-      was never involved in intimate business relationships with Donald
-      Trump.”  
-        
-        
-        
-      Rudy Giuliani, Pres. Trump's lawyer, to CNN's "New Day" on July 30
-
-
-      [More Info Here](https://smarthernews.com/18-07-31-manafort/%20a)
+      <div><blockquote>“He has no information incriminating of the president, I
+      know that for a fact. They can squeeze him, Paul Manafort, does not know
+      anything …. he was never involved in intimate business relationships with
+      Donald Trump.”<br><br><br><br>Rudy Giuliani, Pres. Trump's lawyer, to
+      CNN's "New Day" on July 30</blockquote><p><a
+      href="https://smarthernews.com/18-07-31-manafort/%20a">More Info
+      Here</a></p></div>
     _key: card-5-41e70006-df46-4029-b67a-93d584503057
   - order: 5
     useCheckmark: true
-    body: |-
-      Have a great day!
-
-      [view sources](https://smarthernews.com/18-07-31-quick-quotes/)
+    body: >-
+      <div><p>Have a great day!</p><p><a
+      href="https://smarthernews.com/18-07-31-quick-quotes/">view
+      sources</a></p></div>
     _key: card-10-43957aa1-d5c9-488a-b6de-f14f8d1ec161
 
 ---
