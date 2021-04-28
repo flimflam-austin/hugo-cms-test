@@ -187,6 +187,7 @@ const writeFile = async dataObj => {
     const contentDirectory = `${__dirname}/../../../../content`
 
     const outputPath = isSingleton ? `${contentDirectory}/${slug}` : `${contentDirectory}/${type}/${slug}`
+    const recordPath = isSingleton ? `${slug}` : `${type}/${slug}`
 
     /* const outputPath = isSingleton ? `${__dirname}/../../../content`: `${__dirname}/../../../../content/${type}/${slug}` */
 
@@ -231,20 +232,20 @@ const writeFile = async dataObj => {
 
             imageCounter += 1
 
-            return true
+
         })
     }
 
-    return false
+    return recordPath
 };
 
 
 const outputFiles = async mdData => {
 
     try {
-        await writeFile(mdData)
+        const pathWritten = await writeFile(mdData)
 
-        return Object.freeze({ dataWritten: mdData, imagesWritten: imageCounter })
+        return Object.freeze({ dataWritten: mdData, imagesWritten: imageCounter, pathWritten: pathWritten })
     } catch (err) {
         throw new Error(`Error writing files at outputFiles in outputFiles.js.\nError: ${err.message}\n`)
     }

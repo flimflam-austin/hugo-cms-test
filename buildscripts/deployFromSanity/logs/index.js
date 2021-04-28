@@ -1,4 +1,5 @@
-const fsextra = require('fs-extra');
+const fsextra = require('fs-extra')
+const path = require('path')
 
 // /////////////////
 
@@ -49,7 +50,7 @@ const getEntryDirectories = async rootDirs => await Promise.all(
                 if (err) {
                     reject(Error(`Error in getEntryDirectories in cacheCheck.js: ${err}`))
                 } else {
-                    resolve(fileNames.map(file => Object({ dirName: `${subDir.root}${subDir.subDir}`, file })))
+                    resolve(fileNames.map(file => Object({ dirName: subDir.subDir, file })))
                 }
             }))))
 
@@ -79,21 +80,37 @@ const deleteDir = async dir => {
 
         return deleteMessages;
     } catch (err) {
-        throw new Error(`Error at deleteDir in carcheCheck.js. Error: ${err.message}`)
+        throw new Error(`Error at deleteDir in carcheCheck.js: ${err.message}`)
     }
 }
 
 const deleteDirectoryList = async dirList => await dirList.map(deleteDir)
 
-const cacheCheck = async newEntries => {
+/* const cacheCheck = async newEntries => {
 
     const boundGetMissingSlugs = unboundGetMissingSlugs(getEntrySlugs(newEntries))
 
-    const rootDir = `${__dirname}/../../content`;
+    const rootDir = `${__dirname}/../../content/`;
 
-    await getRootDirectories(rootDir).then(getEntryDirectories).then(flattenResults).then(boundGetMissingSlugs).then(deleteDirectoryList).catch((err) => throw new Error(err.message))
+    await getRootDirectories(rootDir).then(getEntryDirectories).then(flattenResults).then(boundGetMissingSlugs).then(deleteDirectoryList).catch(inspect.red)
 
     return newEntries
+} */
+
+const handleError = err => { throw new Error(`Error at cacheCheck in index.js of logs. Error: ${err.message}`) }
+
+const cacheCheck = async () => {
+
+    //const boundGetMissingSlugs = getEntrySlugs(newEntries)
+
+    const rootDir = `${__dirname}/../../../content/`;
+
+    const existingDirectories = await getRootDirectories(rootDir)
+        .then(getEntryDirectories)
+        .then(flattenResults)
+        .catch(handleError)
+
+    return existingDirectories
 }
 
 module.exports = cacheCheck

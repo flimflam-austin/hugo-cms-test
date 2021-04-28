@@ -3,7 +3,13 @@ const { buildQuery, querySanity, handleQueryResponse } = require('./queries')
 const { schemas, schemaHelpers: sh } = require('./schemas')
 const { validateSchema } = require('./validation')
 const { buildNewSchema, convertEntryToMarkdown, outputFiles } = require('./oldscripts')
+const cacheCheck = require('./logs')
+const markUnusedAsDraft = require('./logs/markUnusedAsDraft')
 
+const buildLog = {
+    wasSuccessful: null,
+    pathsWritten: []
+}
 
 const counter = {
     filesSuccessful: 0,
@@ -34,6 +40,8 @@ const run = async _ => {
                         .then(result => {
                             const { imagesWritten } = result
 
+                            buildLog.pathsWritten.push(result.pathWritten)
+
                             if (imagesWritten) {
                                 counter.imagesWritten += imagesWritten
                             }
@@ -60,12 +68,16 @@ const run = async _ => {
         .catch(err => {
             console.error(`Aborting. Top level error in main program. Error: ${err.message}`)
         })
-        .finally(() => {
+        .finally(async () => {
             console.log('Final tally:')
             console.log(`Total files: ${counter.totalFiles}`)
             console.log(`Files successful: ${counter.filesSuccessful}`)
             console.log(`Files failed: ${counter.filesFailed}`)
             console.log(`Images downloaded: ${counter.imagesWritten}`)
+            console.log(`Removing outdated files...`)
+            const cachedPaths = await cacheCheck()
+            await markUnusedAsDraft(cachedPaths, buildLog)
+            console.log(`\nDone.`)
         })
 
     return true
