@@ -3,6 +3,7 @@
 ==================== */
 
 $card-padding: 16px;
+$card-padding-right: 15.5px;
 $card-border-width: 1px;
 $card-border-color: $color-black;
 $card-border-style: $card-border-width solid $card-border-color;
@@ -170,6 +171,7 @@ $card-border-style: $card-border-width solid $card-border-color;
 		width: 100%;
 		height: 100%;
 		padding: $card-padding;
+		padding-right: $card-padding-right;
 		border-left: $card-border-style;
 		border-right: $card-border-style;
 	}
@@ -246,7 +248,7 @@ $card-border-style: $card-border-width solid $card-border-color;
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		align-items: center;
+		//align-items: center;
 	}
 
 	&__citation {

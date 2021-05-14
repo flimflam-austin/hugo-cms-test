@@ -2,11 +2,11 @@
 title: Census 2020
 slug: 20210428-census-2020
 _id: bd7b3cb6-d964-4559-adc7-59afc7b4862b
-_rev: 6MVoxel8D9Shx3LWyl0wr7
+_rev: 6MVoxel8D9Shx3LWym44wt
 type: quick_reads
 draft: false
 _createdAt: '2021-04-28T15:43:57Z'
-_updatedAt: '2021-04-28T16:49:41Z'
+_updatedAt: '2021-04-28T19:00:43Z'
 date: '2021-04-28T15:31:00.000Z'
 lastmod: '2021-04-28T15:31:00.000Z'
 weight: 50
@@ -37,18 +37,19 @@ cards:
     _key: 0c7c4a0f6747
   - order: 2
     useCheckmark: false
-    body: "<div><h2>BIG PICTURE</h2><h6><strong>Census Results:</strong></h6><ul><li>shape congressional &amp; state districts.</li><li>distribute<strong>\_</strong>federal funds used to fund Medicaid, Medicare, and build schools, roads, etc.</li><li>allocate seats for each state in the House of Representatives<strong>.</strong></li><li>allocate votes for each state in the Electoral College (used in presidential elections).</li></ul></div>"
+    body: "<div><h2>BIG PICTURE</h2><h6><strong>Census Results:</strong></h6><ul><li>shape congressional &amp; state <strong>districts</strong>.</li><li>distribute<strong>\_federal funds</strong> used to fund Medicaid, Medicare, and build schools, roads, etc.</li><li>allocate seats for each state in the<strong> House of Representatives</strong>.</li><li>allocate votes for each state in the <strong>Electoral College</strong> (used in presidential elections).</li></ul></div>"
     _key: 4778e616bf0c
   - order: 3
     useCheckmark: false
     body: >-
       <div><h2>What To Know</h2><ul><li>U.S. Population: 331.4M+ (April
       2020).</li><li>The population growth rate from 2010 to 2020 (7.4%) is the
-      second-lowest in history, trailing behind the 1940 census after the Great
-      Depression.</li><li>States with the highest growth rates = Utah, Idaho
-      &amp; Texas.</li><li>States with the lowest growth rates = West Virginia,
-      Mississippi &amp; Illinois.</li><li>CA is still the most populous state
-      but growth rate slowing.</li></ul></div>
+      <strong>second-lowest</strong> in history, trailing behind the 1940 census
+      after the Great Depression.</li><li>States with the highest growth rates =
+      <strong>Utah, Idaho &amp; Texas.</strong></li><li>States with the lowest
+      growth rates = <strong>West Virginia, Mississippi &amp;
+      Illinois</strong>.</li><li>CA is still the most populous state but growth
+      rate slowing.</li></ul></div>
     _key: ae7f70831dac
   - order: 4
     useCheckmark: false

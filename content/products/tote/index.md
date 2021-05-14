@@ -2,11 +2,11 @@
 title: Tote
 slug: tote
 _id: 2f2dc66d-63e1-48e1-b6bd-7aed50be2382
-_rev: JedjBrXa2a4vFyYWgkuRgQ
+_rev: 6MVoxel8D9Shx3LWyn5D4r
 type: products
 draft: false
 _createdAt: '2021-03-23T19:16:47Z'
-_updatedAt: '2021-04-28T06:39:15Z'
+_updatedAt: '2021-04-28T21:22:02Z'
 date: '2021-03-23T05:00:00.000Z'
 lastmod: '2021-03-23T05:00:00.000Z'
 weight: 50
@@ -17,7 +17,7 @@ featured_image:
     1deab3d67895d7d9df1365bc88568207303e687e4000x6016.jpg
 product_series: on-the-go
 price: $42.19
-storeLink: https://www.smarthernews.com/shop
+storeLink: https://shop.smarthernews.com/product/farmers-market-tote/
 
 ---
  
